@@ -1,9 +1,9 @@
 import logging, sys, os, requests, json, re
-from collections import Counter
+#from collections import Counter
 from math import exp
 import networkx as nx
 import xml.etree.ElementTree as ET
-from collections import Counter, defaultdict
+#from collections import Counter#, defaultdict
 from github import Github
 logging.basicConfig(format='%(asctime)s | %(levelname)s : %(message)s',
                      level=logging.INFO, stream=sys.stdout)
