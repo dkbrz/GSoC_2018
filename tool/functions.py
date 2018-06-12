@@ -46,8 +46,7 @@ class Word:
     def write(self, mode='mono'):
         if mode == 'mono': return self.lemma + '\t' + '$'.join([str(i) for i in self.s])
         elif mode == 'bi': return self.lang + '\t' +  self.lemma + '\t' + '$'.join([str(i) for i in self.s])
-        
-        
+              
 class Tags(list):
     def __le__(self, other):
         s1 = set(self)
@@ -70,7 +69,6 @@ class Tags(list):
     __repr__ = __str__
     
     def __hash__(self): return hash(str(self))
-    
     
 class WordDict(dict):
     def lemma(self, lemma): self.lemma = lemma
@@ -180,8 +178,9 @@ def one_language_dict(lang):
 def shorten(word_dict):
     short = []
     for i in sorted(word_dict, key=lambda x: (word_dict[x], -len(x)), reverse=True):
-        new = True
+        new, add = True, True
         for key, j in enumerate(short):
+            if not add: break
             inner = True
             for key2, k in enumerate(j):
                 if (k < i) or (i < k): pass
@@ -189,10 +188,10 @@ def shorten(word_dict):
             if inner: 
                 short[key].append(i)
                 new = False
+                add = False
         if new: short.append([i])
     word = word_dict.lemma[4:]
     return word, short
-
 
 def one_word(word, lang):
     if word.text: st = str(word.text)
@@ -223,8 +222,7 @@ def dictionary_to_nodes(dictionary):
             word = word.replace('_', ' ')
         for tag in tags:
             yield Word(word, dictionary.lang, Tags([i for i in tag if i != '']))
-            
-            
+                      
 def monodix():
     all_languages()
     logging.info('started')
@@ -297,6 +295,7 @@ def load_file(l1, l2):
                                     pass
                         except:
                             print ('ERROR: {}-{}'.format(pair[0], pair[1]))
+
 def import_mono(lang):
     dictionary = DiGetItem()
     with open ('./monodix/{}.dix'.format(lang), 'r', encoding='utf-16') as f:
