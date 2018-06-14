@@ -30,12 +30,6 @@ def two_node_search (G, node1, node2, l1, l2, cutoff):
     coefficient = 0
     if node2 in res1: coefficient += 0.5*(len(res1) - res1.index(node2))/len(res1)
     if node1 in res2: coefficient += 0.5*(len(res2) - res2.index(node1))/len(res2) 
-    #if not res1: res1 = ['-']  
-    #if not res2: res2 = ['-']    
-    #print (node1.lemma, node2.lemma, coefficient, res1[0], res2[0]) 
-    #print ('\t', res1)
-    #print ('\t', res2)
-    #coefficient = coefficient/(n/2)
     return coefficient
 	
 def evaluate(G, pairs, l1, l2, cutoff):

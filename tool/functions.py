@@ -1,12 +1,15 @@
 import logging, sys, os, requests, json, re
+
 #from collections import Counter
 from math import exp
+from itertools import islice
+
 import networkx as nx
 import xml.etree.ElementTree as ET
-#from collections import Counter#, defaultdict
 from github import Github
 logging.basicConfig(format='%(asctime)s | %(levelname)s : %(message)s',
                      level=logging.INFO, stream=sys.stdout)
+# CLASSES
 
 def enc (word):
     s = word.encode('utf-8')
@@ -107,7 +110,7 @@ class DiGetItem:
                 key = self.list[self.list.index(key)]
                 return key
             except:
-                print (key)
+                pass
                 
 class SetWithFilter(set):
     def lemma(self, value): return set(i for i in self if i.lemma == value)
@@ -117,6 +120,7 @@ class FilteredList(list):
     def lemma(self, value): return list(i for i in self if i.lemma == value)
     def lang(self, value): return list(i for i in self if i.lang == value)
 
+# LOADING
 
 def l(lang, mode=3):
     mode = mode % 2
@@ -156,6 +160,8 @@ def download_all_bidixes():
             with open(filename, 'w', encoding='UTF-8') as f:
                 f.write(response.text)
     logging.info('Finish')        
+
+# PREPROCESSING AND BUILDING
 
 def one_language_dict(lang):
     dictionary = FilteredDict()
@@ -384,3 +390,46 @@ def dictionaries(lang1,lang2):
     l2 = SetWithFilter(l2.list+list(l2.dict.keys()))
     return l1, l2
 
+# SEARCH
+
+def _single_shortest_path_length(adj, firstlevel, cutoff, lang):
+    """ Variant of NetworkX function _single_shortest_path_length"""
+    seen = {}                  # level (number of hops) when seen in BFS
+    level = 0                  # the current level
+    nextlevel = firstlevel     # dict of nodes to check at next level
+
+    while nextlevel and cutoff >= level:
+        thislevel = nextlevel  # advance to next level
+        nextlevel = {}         # and start a new list (fringe)
+        for v in thislevel:
+            if v not in seen:
+                seen[v] = level  # set the level of vertex v
+                if v.lang == lang: yield v
+                else: nextlevel.update(adj[v])
+        level += 1
+    del seen
+
+def possible_translations(G, source, lang, cutoff=4, n = 20):
+    """ Variant of NetworkX function single_source_shortest_path_length"""
+    if source not in G: raise nx.NodeNotFound('Source {} is not in G'.format(source))
+    if cutoff is None: cutoff = float('inf')
+    nextlevel = {source: 1}
+    return list(islice(_single_shortest_path_length(G.adj, nextlevel, cutoff, lang), n))
+	
+#def lemma_search (G, lemma, d_l1, l2, cutoff, n):
+#    lemmas = [i for i in d_l1.lemma(lemma) if i in G.nodes()]
+#    results = {str(word):{} for word in lemmas}
+#    for word in lemmas:
+#        for translation in possible_translations(G, word, l2, cutoff=cutoff, n=n):
+#            t = Counter([len(i) for i in nx.all_simple_paths(G, word, translation, cutoff=cutoff)])
+#            coef = 0
+#            for i in t: coef += exp(-t[i])
+#            results[str(word)][str(translation)] = coef
+#    return results
+	
+def print_results(results, n=7):
+    for i in results:
+        print ('\n\t\t', i)
+        for j in sorted(results[i], key=results[i].get, reverse=True)[:n]:
+            print (j, results[i][j])
+			
