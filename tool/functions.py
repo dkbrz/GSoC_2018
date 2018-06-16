@@ -1,6 +1,6 @@
 import logging, sys, os, requests, json, re
 
-#from collections import Counter
+from collections import Counter
 from math import exp
 from itertools import islice
 
