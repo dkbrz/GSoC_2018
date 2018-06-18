@@ -37,3 +37,4 @@ def evaluate(G, pairs, l1, l2, cutoff):
     for i in pairs:
         result.append(two_node_search (G, i[0], i[1], l1, l2, cutoff))
     return result
+	

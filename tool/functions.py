@@ -1,9 +1,7 @@
 import logging, sys, os, requests, json, re
-
 from collections import Counter
 from math import exp
 from itertools import islice
-
 import networkx as nx
 import xml.etree.ElementTree as ET
 from github import Github
@@ -11,7 +9,9 @@ logging.basicConfig(format='%(asctime)s | %(levelname)s : %(message)s',
                      level=logging.INFO, stream=sys.stdout)
 # CLASSES
 
+# delete?
 def enc (word):
+    "Check encoding"
     s = word.encode('utf-8')
     s = s.decode('utf-8')
     return s
@@ -47,6 +47,7 @@ class Word:
     def __hash__(self): return hash(str(self))
     
     def write(self, mode='mono'):
+        "Mono: format to write in monodix, bi: format to write in bidix"
         if mode == 'mono': return self.lemma + '\t' + '$'.join([str(i) for i in self.s])
         elif mode == 'bi': return self.lang + '\t' +  self.lemma + '\t' + '$'.join([str(i) for i in self.s])
               
@@ -123,6 +124,7 @@ class FilteredList(list):
 # LOADING
 
 def l(lang, mode=3):
+    "Two-three language code converter"
     mode = mode % 2
     if len(lang)==2:
         if lang in lang_codes[mode]: return lang_codes[mode][lang]
@@ -130,24 +132,26 @@ def l(lang, mode=3):
     else: return lang
 
 def repo_names(user):
+    "List of language pair repos in Apertium"
     for repo in user.get_repos():
         if re.match('apertium-[a-z]{2,3}(_[a-zA-Z]{2,3})?-[a-z]{2,3}(_[a-zA-Z]{2,3})?', repo.name):
-            yield repo.name    
+            yield repo.name
 
 def bidix_url(repo):
+    "Find raw url for bidix. Sorting in order to find bidix faster as it is one of the longest filename in repo"
     for i in sorted(repo.get_dir_contents('/'), key = lambda x: (len(x.path), 1000-ord(('   '+x.path)[-3])), reverse=True):
         if re.match('apertium-.*?\.[a-z]{2,3}(_[a-zA-Z]{2,3})?-[a-z]{2,3}(_[a-zA-Z]{2,3})?.dix$', i.path): return i.download_url
         elif len(i.path) < 23: return None
 
 def download_all_bidixes():
+    "Copy all bidixes from Apertium Github and save in dictionary folder"
     global lang_codes
-    with open ('./files/lang_codes.json', 'r') as f:
-        lang_codes = json.load(f)
+    with open ('./files/lang_codes.json', 'r') as f: lang_codes = json.load(f)
     
-    with open ('secure.json') as f:
-        SECRET = json.loads(f.read())
-    github = Github(SECRET['USER'], SECRET['PASSWORD'])
+    with open ('secure.json') as f: SECRET = json.loads(f.read())
+    github = Github(SECRET['USER'], SECRET['PASSWORD'])  #import username and password
     user = github.get_user('apertium')
+    
     logging.info('Start')
     if not os.path.exists('./dictionaries/'): os.makedirs('./dictionaries/')
     for repo_name in repo_names(user):
@@ -157,13 +161,13 @@ def download_all_bidixes():
         if bidix:
             response = requests.get(bidix)
             response.encoding = 'UTF-8'
-            with open(filename, 'w', encoding='UTF-8') as f:
-                f.write(response.text)
+            with open(filename, 'w', encoding='UTF-8') as f: f.write(response.text)
     logging.info('Finish')        
 
 # PREPROCESSING AND BUILDING
 
 def one_language_dict(lang):
+    "Gather dictionary of one language from bidixes"
     dictionary = FilteredDict()
     dictionary.set_lang(lang)
     for root, dirs, files in os.walk ('./dictionaries/'):
@@ -175,13 +179,12 @@ def one_language_dict(lang):
                 try:
                     with open (root+fl, 'r', encoding='utf-8') as d:
                         t = ET.fromstring(d.read().replace('<b/>',' ').replace('<.?g>',''))     
-                    for word in parse_one(t, side, lang):
-                        dictionary.add(word)
-                except:
-                    pass
+                    for word in parse_one(t, side, lang): dictionary.add(word)
+                except: pass
     return dictionary
 
 def shorten(word_dict):
+    "Categorize tags into groups that do not show conflicts like n|n-m|n-m-sg. Priority to most frequent."
     short = []
     for i in sorted(word_dict, key=lambda x: (word_dict[x], -len(x)), reverse=True):
         new, add = True, True
@@ -200,6 +203,7 @@ def shorten(word_dict):
     return word, short
 
 def one_word(word, lang):
+    "One word parsing: lemma, tags, wrap in Word class"
     if word.text: st = str(word.text)
     else: st = ''
     s = [i.attrib['n'] for i in word.findall('.//s')]
@@ -207,6 +211,7 @@ def one_word(word, lang):
     return Word(st, lang, s)
 
 def parse_one (tree, side, lang):
+    "One dictionary parsing: yield all words"
     tree = tree.find('section')
     for e in tree:
         p = e.find('p')
@@ -222,6 +227,7 @@ def parse_one (tree, side, lang):
                 pass
             
 def dictionary_to_nodes(dictionary):
+    "In one language dict yield all words so to write them later"
     for i in dictionary.keys():
         word, tags = shorten(dictionary[i])
         if '_' in word:
@@ -230,6 +236,7 @@ def dictionary_to_nodes(dictionary):
             yield Word(word, dictionary.lang, Tags([i for i in tag if i != '']))
                       
 def monodix():
+    "Create all monodixes and add them to monodix folder"
     all_languages()
     logging.info('started')
     if not os.path.exists('./monodix/'):
@@ -244,11 +251,13 @@ def monodix():
     logging.info('finished')
                     
 def check (word1, word2, lang1, lang2):
+    "Check full words. Input: word with one tag variant (n-m). Output: full tags (n|n-m|n-m-sg)"
     word1 = lang1[word1]
     word2 = lang2[word2]
     return word1, word2
 
 def one_word2(word, lang):
+    "One word parsing in bidix"
     s = word.findall('.//s')
     s = [i.attrib['n'] for i in s]
     if word.text: st = str(word.text)
@@ -258,6 +267,7 @@ def one_word2(word, lang):
     return Word(st, lang, s)
 
 def parse_bidix (tree, l1, l2):
+    "Parse bidix: lines into two words."
     tree = tree.find('section')
     if not tree: pass
     else:
@@ -273,10 +283,12 @@ def parse_bidix (tree, l1, l2):
                     yield one_word2(i, l1), one_word2(i, l2), side
 
 def existance(pair, nodes):
+	"Check if language pair links two languages from our list"
     if pair[0] in nodes and pair[1] in nodes: return True
     else: return False
 
 def load_file(l1, l2):
+    "Creating a loading file that is used to load graph to work with. Get language list, convert bidixes in full tag format and join them"
     with open ('language_list.csv','r',encoding='utf-8') as f:
         languages = set([i.split('\t')[1].strip() for i in f.readlines()])
     with open ('{}-{}'.format(l1, l2), 'w', encoding='utf-16') as f:
@@ -295,14 +307,11 @@ def load_file(l1, l2):
                                     word1, word2 = check (word1, word2, lang1, lang2)
                                     string = str(side) + '\t' + word1.write(mode='bi') + '\t' + word2.write(mode='bi') + '\n'
                                     f.write(string)
-                                    #if side:
-                                    #    print (string)
-                                except:
-                                    pass
-                        except:
-                            print ('ERROR: {}-{}'.format(pair[0], pair[1]))
+                                except: pass
+                        except: print ('ERROR: {}-{}'.format(pair[0], pair[1]))
 
 def import_mono(lang):
+    "Import monodix. Parse all lines, split them and get a dictionary of them to have all nodes in one place."
     dictionary = DiGetItem()
     with open ('./monodix/{}.dix'.format(lang), 'r', encoding='utf-16') as f:
         for line in f:
@@ -312,6 +321,7 @@ def import_mono(lang):
     return dictionary
 	
 def change_encoding(file):
+    "Change utf-16 that works with accents inside program to utf-8 to reduce file size (doesn't cause problems in this case)"
     with open(file, 'r', encoding='utf-16') as f:
         text = f.read()
     text = text.encode('utf-8')
@@ -320,6 +330,7 @@ def change_encoding(file):
         f.write(text)
 
 def get_relevant_languages(l1, l2):
+    "Get relevant languages to choose from when creating a graph (configuration file). Firstly, there go closer languages in graph of existing bidixes (from most connected in general) then more distant."
     G = nx.Graph()
     for root, dirs, files in os.walk ('./dictionaries/'):
         for fl in files :
@@ -416,16 +427,9 @@ def possible_translations(G, source, lang, cutoff=4, n = 20):
     nextlevel = {source: 1}
     return list(islice(_single_shortest_path_length(G.adj, nextlevel, cutoff, lang), n))
 	
-#def lemma_search (G, lemma, d_l1, l2, cutoff, n):
-#    lemmas = [i for i in d_l1.lemma(lemma) if i in G.nodes()]
-#    results = {str(word):{} for word in lemmas}
-#    for word in lemmas:
-#        for translation in possible_translations(G, word, l2, cutoff=cutoff, n=n):
-#            t = Counter([len(i) for i in nx.all_simple_paths(G, word, translation, cutoff=cutoff)])
-#            coef = 0
-#            for i in t: coef += exp(-t[i])
-#            results[str(word)][str(translation)] = coef
-#    return results
+def sorting(result, n):
+    result = [(x, result[x]) for x in sorted(result, key=result.get, reverse=True)[:n]]
+    return result
 	
 def print_results(results, n=7):
     for i in results:
@@ -433,3 +437,11 @@ def print_results(results, n=7):
         for j in sorted(results[i], key=results[i].get, reverse=True)[:n]:
             print (j, results[i][j])
 			
+	
+def print_lemma_results(results, n=10):
+    for i in results:
+        print ('\t\t', i)
+        words = sorting(results[i], n)
+        for j in words:
+            print ('{}\t{}'.format(j[0], j[1]))
+        print()
