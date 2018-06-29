@@ -112,6 +112,8 @@ class DiGetItem:
                 return key
             except:
                 pass
+    def __len__(self):
+        return len(self.list)+len(self.dict)
                 
 class SetWithFilter(set):
     def lemma(self, value): return set(i for i in self if i.lemma == value)
@@ -212,20 +214,21 @@ def one_word(word, lang):
 
 def parse_one (tree, side, lang):
     "One dictionary parsing: yield all words"
-    tree = tree.find('section')
-    for e in tree:
-        p = e.find('p')
-        if p:
-            word = one_word(p.find(side), lang)
-            yield word
-        else:
-            i = e.find('i')
-            if i:
-                word = one_word(i, lang)
+    all = tree.findall('section')
+    for tree in all:
+        for e in tree:
+            p = e.find('p')
+            if p:
+                word = one_word(p.find(side), lang)
                 yield word
             else:
-                pass
-            
+                i = e.find('i')
+                if i:
+                    word = one_word(i, lang)
+                    yield word
+                else:
+                    pass
+
 def dictionary_to_nodes(dictionary):
     "In one language dict yield all words so to write them later"
     for i in dictionary.keys():
@@ -268,22 +271,23 @@ def one_word2(word, lang):
 
 def parse_bidix (tree, l1, l2):
     "Parse bidix: lines into two words."
-    tree = tree.find('section')
-    if not tree: pass
+    all = tree.findall('section')
+    if not all: pass
     else:
-        for e in tree:
-            if 'r' in e.attrib: side = e.attrib['r']
-            else: side = ''
-            p = e.find('p')
-            if p:
-                yield one_word2(p.find('l'), l1), one_word2(p.find('r'), l2), side
-            else:
-                i = e.find('i')
-                if i:
-                    yield one_word2(i, l1), one_word2(i, l2), side
+        for tree in all:
+            for e in tree:
+                if 'r' in e.attrib: side = e.attrib['r']
+                else: side = ''
+                p = e.find('p')
+                if p:
+                    yield one_word2(p.find('l'), l1), one_word2(p.find('r'), l2), side
+                else:
+                    i = e.find('i')
+                    if i:
+                        yield one_word2(i, l1), one_word2(i, l2), side
 
 def existance(pair, nodes):
-	"Check if language pair links two languages from our list"
+    "Check if language pair links two languages from our list"
     if pair[0] in nodes and pair[1] in nodes: return True
     else: return False
 
