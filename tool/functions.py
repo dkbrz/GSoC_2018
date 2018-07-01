@@ -1,12 +1,16 @@
 import logging, sys, os, requests, json, re
 from collections import Counter
-from math import exp
+from math import exp, log10
 from itertools import islice
 import networkx as nx
 import xml.etree.ElementTree as ET
 from github import Github
 logging.basicConfig(format='%(asctime)s | %(levelname)s : %(message)s',
                      level=logging.INFO, stream=sys.stdout)
+from itertools import islice
+import matplotlib.pyplot as plt
+from heapdict import heapdict
+
 # CLASSES
 
 # delete?
@@ -118,6 +122,7 @@ class DiGetItem:
 class SetWithFilter(set):
     def lemma(self, value): return set(i for i in self if i.lemma == value)
     def lang(self, value): return set(i for i in self if i.lang == value)
+
 
 class FilteredList(list):
     def lemma(self, value): return list(i for i in self if i.lemma == value)
@@ -430,18 +435,18 @@ def possible_translations(G, source, lang, cutoff=4, n = 20):
     if cutoff is None: cutoff = float('inf')
     nextlevel = {source: 1}
     return list(islice(_single_shortest_path_length(G.adj, nextlevel, cutoff, lang), n))
-	
+
 def sorting(result, n):
     result = [(x, result[x]) for x in sorted(result, key=result.get, reverse=True)[:n]]
     return result
-	
+
 def print_results(results, n=7):
     for i in results:
         print ('\n\t\t', i)
         for j in sorted(results[i], key=results[i].get, reverse=True)[:n]:
             print (j, results[i][j])
-			
-	
+
+
 def print_lemma_results(results, n=10):
     for i in results:
         print ('\t\t', i)
@@ -449,3 +454,67 @@ def print_lemma_results(results, n=10):
         for j in words:
             print ('{}\t{}'.format(j[0], j[1]))
         print()
+
+def get_relevant_languages(source, target):
+    G = nx.Graph()
+    with open ('./files/stats.csv', 'r', encoding='utf-8') as f:
+        for line in f:
+            data = line.split('\t')
+            coef = 1/log10(10+float(data[2])*float(data[3])*float(data[4]))
+            if coef < 1:
+                G.add_edge(data[0], data[1], weight=coef)
+    result = {}
+    for path in islice(nx.shortest_simple_paths(G, source=source, target=target, weight='weight'), 0, 300):
+        length = sum([G[path[i]][path[i-1]]['weight'] for i in range(1, len(path))])
+        for node in path:
+            if node not in result:
+                result[node]  = (length, path)
+        #print(path, length)
+    with open ('language_list.csv','w', encoding='utf-8') as f:
+        for i in sorted(result, key=result.get):
+            f.write(str(result[i][0])+'\t'+str(i)+'\t:\t'+' '.join(result[i][1])+'\n')
+
+
+def load_file(l1,l2, n=10000):
+    with open ('language_list.csv','r',encoding='utf-8') as f:
+        languages = set([i.split('\t')[1].strip() for i in islice(f.readlines(), 0, n)])
+    languages = languages | set([l1,l2])
+    with open ('{}-{}'.format(l1, l2), 'w', encoding='utf-16') as f:
+        for root, dirs, files in os.walk ('./parsed/'):
+            for fl in files:
+                pair = fl.replace('.dix','').split('-')
+                if existance(pair, languages):
+                    #print (pair)
+                    with open (root+fl, 'r', encoding='utf-8') as d:
+                        f.write(d.read())
+    #print (languages)
+
+def check_graph(l1, l2, n=10):
+    G = nx.Graph()
+    with open ('./files/stats.csv', 'r', encoding='utf-8') as f:
+        for line in f:
+            data = line.split('\t')
+            coef = 1/log10(10+float(data[2])*float(data[3])*float(data[4]))
+            if coef < 1:
+                G.add_edge(data[0], data[1], weight=coef)
+    if (l1, l2) in G.edges():
+        G.remove_edge(l1, l2)
+    with open ('language_list.csv','r',encoding='utf-8') as f:
+        languages = set([i.split('\t')[1].strip() for i in islice(f.readlines(), 0, n)])
+    languages = languages | set([l1,l2])
+    nx.draw_shell(G.subgraph(languages), with_labels = True, font_size = 20, node_color = 'white')
+
+def evaluation(G, word, candidates, metric, cutoff=4):
+    result = {}
+    for translation in candidates:
+        result[translation] = metric(G, word, translation, cutoff=cutoff)
+    return result
+
+def metric(G, word, translation, cutoff, mode='exp'):
+    coef = 0
+    if mode in ('exp'):
+        t = Counter([len(i) for i in nx.all_simple_paths(G, word, translation, cutoff=cutoff)])
+        if mode == 'exp': 
+            for i in t: 
+                coef += exp(-t[i])
+            return coef
