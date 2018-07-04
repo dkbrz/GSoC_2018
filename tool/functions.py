@@ -10,6 +10,7 @@ logging.basicConfig(format='%(asctime)s | %(levelname)s : %(message)s',
 from itertools import islice
 import matplotlib.pyplot as plt
 from heapdict import heapdict
+from tqdm import tqdm_notebook as tqdm
 
 # CLASSES
 
@@ -127,6 +128,43 @@ class SetWithFilter(set):
 class FilteredList(list):
     def lemma(self, value): return list(i for i in self if i.lemma == value)
     def lang(self, value): return list(i for i in self if i.lang == value)
+
+class DictionaryStats:
+    def __init__(self, file):
+        self.file = file
+        self.name1 = file.replace('.dix','').split('-')[0]
+        self.name2 = file.replace('.dix','').split('-')[1]
+        self.mono1 = import_mono(self.name1)
+        self.mono2 = import_mono(self.name2)
+        self.count1 = 0
+        self.count2 = 0
+        self.count = 0
+        self.set1 = set()
+        self.set2 = set()
+        self.get_data()
+    
+    def get_data(self):
+        with open ('./dictionaries/'+self.file, 'r', encoding='utf-8') as d:
+            with open ('./parsed/'+self.file, 'w', encoding='utf-8') as copy:
+                try:
+                    tree = ET.fromstring(re.sub('\s{3,}','\t', d.read().replace('<b/>',' ').replace('<.?g>','')))
+                    for word1, word2, side in parse_bidix (tree, self.name1, self.name2):
+                        try:
+                            word1, word2 = check (word1, word2, self.mono1, self.mono2)
+                            if word1 not in self.set1: 
+                                self.count1 += 1
+                                self.set1.add(word1)
+                            if word2 not in self.set2:
+                                self.count2 += 1
+                                self.set2.add(word2)   
+                            self.count += 1
+                            string = str(side) + '\t' + word1.write(mode='bi') + '\t' + word2.write(mode='bi') + '\n'
+                            copy.write(string)
+                        except: pass
+                except: pass
+            
+    def get_stats(self):
+        return [self.count, self.count1/len(self.mono1), self.count1/len(self.mono2)]
 
 # LOADING
 
@@ -318,6 +356,19 @@ def load_file(l1, l2):
                                     f.write(string)
                                 except: pass
                         except: print ('ERROR: {}-{}'.format(pair[0], pair[1]))
+
+def preprocessing():
+    if not os.path.exists('./parsed/'):
+        os.makedirs('./parsed/')
+    with open ('./files/stats.csv','w', encoding='utf-8') as outp:
+        #outp.write('{}\t{}\t{}\t{}\t{}\n'.format('lang1','lang2','total','1','2'))
+        for root, dirs, files in os.walk('./dictionaries/'):
+            for fl in tqdm(files):
+                try:
+                    pair = fl.replace('.dix','').split('-')
+                    outp.write ('\t'.join(pair) + '\t'+ '\t'.join([str(i) for i in DictionaryStats(fl).get_stats()])+'\n')
+                except:
+                    pass
 
 def import_mono(lang):
     "Import monodix. Parse all lines, split them and get a dictionary of them to have all nodes in one place."
