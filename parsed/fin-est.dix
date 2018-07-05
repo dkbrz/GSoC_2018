@@ -113,7 +113,7 @@ RL	fin	joku	prn$prn-ind	est	keegi	prn
 	fin	kukaan	prn	est	keegi	prn
 	fin	kuka	prn$prn-itg$prn-itg-sg-gen	est	kes	prn
 	fin	kukin	prn$prn-qnt	est	igaüks	prn
-	fin	me	prn$prn-pers-p1$prn-pers-p1-pl$prn-pers$prn-pers-p1-pl-gen	est	meie	prn
+	fin	me	prn$prn-pers-p1-pl$prn-pers-p1$prn-pers$prn-pers-p1-pl-gen	est	meie	prn
 	fin	mikä	prn$prn-itg$prn-sp-itg	est	mis	prn
 	fin	mikään	prn$prn-qnt$prn-qnt-sg-nom	est	mingi	prn
 	fin	mikään	prn$prn-qnt$prn-qnt-sg-nom	est	miski	prn$prn-sg-par
@@ -1528,8 +1528,8 @@ RL	fin	eläinlääkäri	n	est	loomatohter	n
 RL	fin	eläinlääkäri	n	est	veterinaar	n
 	fin	eläinplankton	n	est	loomhõljum	n
 RL	fin	eläinplankton	n	est	zooplankton	n
-	fin	eläin	n$n-sg	est	loom¹	n
-RL	fin	eläin	n$n-sg	est	loom¹	n
+	fin	eläin	n$n-ND	est	loom¹	n
+RL	fin	eläin	n$n-ND	est	loom¹	n
 	fin	eläintarha	n	est	loomaaed	n
 	fin	eläintentäyttäjä	n	est	taksidermist	n
 	fin	eläkeläinen	n	est	pensionär	n
@@ -2889,7 +2889,7 @@ RL	fin	ihmiskunta	n	est	inimsugu	n
 	fin	ikiaika	n	est	igavik	n
 	fin	ikkunalasi	n	est	aknaklaas	n
 	fin	ikkunalauta	n	est	aknalaud	n
-	fin	ikkuna	n$n-sg	est	aken	n
+	fin	ikkuna	n$n-ND	est	aken	n
 	fin	ikoni	n	est	ikoon	n
 	fin	ikonografia	n	est	ikonograafia	n
 	fin	ikonoklasti	n	est	ikonoklast	n
@@ -8021,9 +8021,9 @@ RL	fin	päämies	n	est	pealik	n
 	fin	päärynä	n	est	pirn	n
 	fin	päärynäviini	n	est	pirnivein	n
 	fin	pääsky	n	est	pääsuke	n
-RL	fin	pää	n$n-sg-nom$n-sg	est	peakolu	n
-RL	fin	pää	n$n-sg-nom$n-sg	est	peanupp	n
-	fin	pää	n$n-sg-nom$n-sg	est	pea	n
+RL	fin	pää	n$n-sg-nom	est	peakolu	n
+RL	fin	pää	n$n-sg-nom	est	peanupp	n
+	fin	pää	n$n-sg-nom	est	pea	n
 	fin	pääsylippu	n	est	pilet	n
 	fin	pääsy	n	est	pääs	n
 	fin	päätekijä	n	est	ninamees	n
@@ -8052,7 +8052,7 @@ RL	fin	pöyhkeys	n	est	kõrkus	n
 RL	fin	pöyhkeys	n	est	nahaalsus	n
 	fin	pöytäastiat	n	est	lauanõud	n
 	fin	pöytäliina	n	est	laudlina	n
-	fin	pöytä	n$n-sg	est	laud	n
+	fin	pöytä	n$n-ND	est	laud	n
 	fin	pygmi	n	est	pügmee	n
 	fin	pyhimyksenkuva	n	est	ikoon	n
 	fin	pyhimys	n	est	pühak	n
@@ -9715,7 +9715,7 @@ RL	fin	tallirenki	n	est	tallipoiss	n
 	fin	talonmies	n	est	kojamees	n
 RL	fin	talonpoika	n	est	talumees	n
 	fin	talonpoika	n	est	talupoeg	n
-	fin	talo	n$n-sg	est	maja	n
+	fin	talo	n$n-ND	est	maja	n
 RL	fin	taloudenhoitaja	n	est	majapidajanna	n
 	fin	taloudenhoitaja	n	est	majapidaja	n
 RL	fin	taloudenhoitaja	n	est	virtin	n
@@ -10831,7 +10831,7 @@ RL	fin	vastaanottaja	n	est	saaja	n
 RL	fin	vastatoimi	n	est	vastumeede	n
 	fin	vastatuli	n	est	vastutuli	n
 	fin	vastatuuli	n	est	vastutuul	n
-	fin	vastaus	n$n-sg	est	vastus	n
+	fin	vastaus	n	est	vastus	n
 	fin	vastavakoilija	n	est	vastuluuraja	n
 	fin	vastavakoilu	n	est	vastuluure	n
 	fin	vastavallankumous	n	est	kontrrevolutsioon	n
@@ -11203,7 +11203,7 @@ RL	fin	vuoristolampi	n	est	mägijärv	n
 	fin	vuosikymmen	n	est	aastakümme	n
 	fin	vuosipäivä	n	est	aastapäev	n
 	fin	vuosisata	n	est	sajand	n
-	fin	vuosi	n$n-sg	est	aasta	n
+	fin	vuosi	n$n-ND	est	aasta	n
 	fin	vuoteenkastelija	n	est	voodimärgaja	n
 	fin	vuoto	n	est	leke	n
 	fin	väestö	n	est	rahvastik	n
@@ -11298,9 +11298,9 @@ RL	fin	äänestäjä	n$n-pl	est	hääletaja	n
 	fin	äänielokuva	n	est	helifilm	n
 	fin	ääninauha	n	est	helilint	n
 	fin	ääniraita	n	est	heliriba	n
-	fin	ääni	n$n-sg	est	hääl	n
-RL	fin	ääni	n$n-sg	est	hääl	n
-RL	fin	ääni	n$n-sg	est	krabin	n
+	fin	ääni	n$n-ND	est	hääl	n
+RL	fin	ääni	n$n-ND	est	hääl	n
+RL	fin	ääni	n$n-ND	est	krabin	n
 	fin	äänitiivis	n	est	helikindel	n
 	fin	ääntäminen	n	est	hääldus	n
 	fin	ääntämistapa	n	est	hääldus	n

@@ -1,18 +1,21 @@
 	fin	Aadam	np	swe	Adam	np$np-ant-m-sg-ind
 	fin	Aasia	np	swe	Asia	np-top
-	fin	Acapulco	np	swe	Acapulco	np
-	fin	Acer	np	swe	Acer	np
 	fin	Ahvenanmaa	np	swe	Åland	np$np-top-nt
 	fin	Aleksanteri	np	swe	Alexander	np$np-ant-m
 	fin	Berliini	np	swe	Berlin	np-top-nt$np
-	fin	de	np$np-cog-sg-nom	swe	de	np
 	fin	Eeden	np	swe	Eden	np
 	fin	Helsinki	np	swe	Helsingfors	np$np-top$np-top-ut
 	fin	Jumala	np	swe	Gud	np$np-al
 	fin	Tukholma	np	swe	Stockholm	np-top-nt$np-top
 	fin	Van	np	swe	Van	np
-	fin	Mari	np$np-ant-f	swe	Mari	np$np-ant-f
-	fin	Jaakko	np$np-ant-m	swe	Jaakko	np$np-ant-m
+	fin	de	np$np-cog-sg-nom	swe	de	np
+	fin	Acapulco	np	swe	Acapulco	np
+	fin	Acer	np	swe	Acer	np
+	fin	Mari	np$np-ant-f	swe	Mari	np
+	fin	Jaakko	np$np-ant-m	swe	Jaakko	np
+	fin	Koiranen	np$np-ant	swe	Koiranen	np
+	fin	Marilla	np$np-ant-f	swe	Marilla	np
+	fin	Marin	np$np-ant	swe	Marin	np
 	fin	1	num	swe	1	num
 	fin	2	num	swe	2	num
 	fin	3	num	swe	3	num
@@ -131,45 +134,43 @@
 	fin	1970-luku	n	swe	1970-talet	n
 	fin	1980-luku	n	swe	1980-talet	n
 	fin	1990-luku	n	swe	1990-talet	n
-	fin	eläin	n$n-sg	swe	djur	n-ut-sp
-	fin	eläin	n-pl	swe	djur	n-ut-sp
+	fin	eläin	n$n-ND	swe	djur	n-ut
 	fin	ihminen	n$n-pl	swe	människa	n-ut
-	fin	ikkuna	n$n-sg	swe	fönster	n-ut-sp$n-ut
-	fin	ikkuna	n-pl	swe	fönster	n-ut-sp$n-ut
+	fin	ikkuna	n$n-ND	swe	fönster	n-nt
+	fin	kerto	n	swe	multiplikation	n-ut
 	fin	kissa	n$n-ND	swe	katt	n-ut
 	fin	koira	n$n-ND	swe	hund	n-ut
+	fin	kuusi	n$n-ND	swe	gran	n-ut
+	fin	kuu	n$n-ND	swe	måne	n-ut
 	fin	kysymys	n$n-ND	swe	fråga	n-ut$
 	fin	käsi	n$n-ND	swe	hand	n-ut
-	fin	lapsi	n$n-ND	swe	barn	n-ut
+	fin	lapsi	n$n-ND	swe	barn	n-nt
 	fin	laskeminen	n	swe	räkning	n-ut
 	fin	leikkiminen	n	swe	lek	n-ut
 	fin	leikki	n$n-ND	swe	lek	n-ut
 	fin	lintu	n$n-ND	swe	fågel	n-ut
 	fin	poika	n$n-ND	swe	pojke	n-ut
-	fin	puu	n$n-ND	swe	trä	n-ut
+	fin	puu	n$n-ND	swe	trä	n-nt$
 	fin	puutarha	n$n-ND	swe	trädgård	n-ut
-	fin	pöytä	n$n-sg	swe	bord	n-ut-sp
-	fin	pöytä	n-pl	swe	bord	n-ut-sp
-	fin	silmä	n$n-ND	swe	öga	n-ut
+	fin	pää	n$n-sg-nom	swe	huvud	n-nt
+	fin	pöytä	n$n-ND	swe	bord	n-nt
+	fin	silmä	n$n-ND	swe	öga	n-nt
 	fin	sisko	n	swe	syster	n-ut
-	fin	talo	n$n-sg	swe	hus	n-ut-sp
-	fin	talo	n-pl	swe	hus	n-ut-sp
+	fin	talo	n$n-ND	swe	hus	n-nt
 	fin	tuoli	n$n-ND	swe	stol	n-ut
 	fin	tyttö	n$n-ND	swe	flicka	n-ut
-	fin	vastaus	n$n-sg	swe	svar	n-ut-sp$n-ut
-	fin	vastaus	n-pl	swe	svar	n-ut-sp$n-ut
-	fin	vesi	n-sg	swe	vatten	n-ut-sp$n-ut
-	fin	vesi	n-pl	swe	vatten	n-ut-sp$n-ut
-	fin	vuosi	n$n-sg	swe	år	n-ut-sp
-	fin	vuosi	n-pl	swe	år	n-ut-sp
+	fin	vastaus	n	swe	svar	n-nt
+	fin	vesi	n$n-ND	swe	vatten	n-nt
+	fin	vuosi	n$n-ND	swe	år	n-nt
 	fin	äiti	n	swe	mor	n-ut
-	fin	ääni	n$n-sg	swe	ljus	n-ut-sp$n-ut
-	fin	ääni	n-pl	swe	ljus	n-ut-sp$n-ut
-	fin	pää	n$n-sg-nom$n-sg	swe	huvud	n-ut-sp
-	fin	pää	n-pl	swe	huvud	n-ut-sp
+	fin	ääni	n$n-ND	swe	ljus	n-nt$
+	fin	piilo	n	swe	gomställe	n-nt
 	fin	ei	vaux$vblex-neg-vaux	swe	inte	adv
 	fin	täytyä	vaux	swe	mäste	vaux
 	fin	voida	vaux$vaux-neg	swe	kunna	vblex$
+	fin	osata	vaux	swe	kunna	vblex$
+	fin	lopettaa	vblex	swe	sluta	$vblex
+	fin	pieniä	vblex	swe	skära	$vblex
 	fin	ajatella	vblex	swe	tänka	$vblex
 	fin	ei	vblex$vblex-neg$vblex-neg-cnjcoo	swe	inte	adv
 	fin	etsiä	vblex$vblex-actv-infe-sg-ins	swe	söka	$vblex
@@ -191,12 +192,12 @@
 	fin	nukkua	vblex	swe	sova	$vblex
 	fin	nähdä	vblex	swe	se	$vblex
 	fin	olla	vaux	swe	vara¹	$vblex
-	fin	olla	vblex	swe	existera	$vblex
+	fin	olla	vblex	swe	vara¹	$vblex
 	fin	osata	vblex	swe	kunna	vblex$
 	fin	pitää	vblex	swe	tycka	$vblex
 	fin	puhua	vblex	swe	tala	$vblex
 	fin	pystyä	vblex	swe	kunna	vblex$
-	fin	saada	vblex	swe	ha	vbhaver$
+	fin	saada	vblex	swe	ha	vblex$
 	fin	sanoa	vblex	swe	säga	$vblex
 	fin	syödä	vblex	swe	äta	$vblex
 	fin	tehdä	vblex	swe	göra	$vblex
@@ -206,14 +207,18 @@
 	fin	yrittää	vblex	swe	prova	$vblex
 	fin	hauska	adj	swe	trevlig	adj-pst
 	fin	hyvä	adj$adj-comp	swe	god	$adj-sint$adj$adj-sint-pst
-	fin	iloinen	adj$adj-pos	swe	glad	adj-pst
-	fin	iso	adj	swe	stor	adj-pst$$adj
+	fin	iloinen	adj$adj-pos	swe	glad	$adj$adj-sint$adj-sint-pst-sg
+	fin	iso	adj	swe	stor	$adj$adj-sint$adj-sint-pst
 	fin	kylmä	adj$adj-comp	swe	kall	adj$$adj-sint-pst
 	fin	lopettanut	adj	swe	slutad	adj
 	fin	lämmin	adj$adj-comp	swe	varm	$adj$adj-sint-pst
-	fin	pieni	adj	swe	liten	adj-pst
-	fin	vanha	adj	swe	gammal	adj-pst
+	fin	pieni	adj	swe	liten	$adj-sint$adj$adj-sint-pst
+	fin	vanha	adj	swe	gammal	$adj-sint$adj$adj-sint-pst
+	fin	löysä	adj	swe	lös	$adj$adj-pst
+	fin	menevä	adj	swe	utåtriktad	adj-pst-sg
 	fin	vähä	adj$adj-sg-gen	swe	lite	adj-pst
+	fin	pitävä	adj	swe	fast	adj$adj-sint-pst-sg
+LR	fin	mutta	post	swe	men	cnjcoo
 	fin	alla	post$post-gen	swe	under	pr
 	fin	alle	post	swe	under	pr
 	fin	asti	post	swe	till	pr
@@ -242,7 +247,7 @@
 	fin	yli	post	swe	över	pr
 	fin	yli	pr	swe	över	pr
 	fin	ylitse	post	swe	över	pr
-	fin	ympärille	pr	swe	omkring	adv
+	fin	ympärille	post	swe	omkring	adv
 	fin	eli	cnjcoo	swe	därför	cnjcoo
 	fin	että	cnjsub	swe	att	cnjsub
 	fin	jahka	cnjcoo	swe	till	cnjcoo
@@ -262,37 +267,49 @@
 	fin	tai	cnjcoo	swe	eller	cnjcoo
 	fin	vai	cnjcoo	swe	eller	cnjcoo
 	fin	vaikka	cnjsub	swe	fast	cnjsub
+LR	fin	vaikka	post	swe	fast	cnjsub
 	fin	aika	adv	swe	ganska	adv
 	fin	aina	adv	swe	alltid	adv
-	fin	eilen	adv	swe	i går	adv
+	fin	alle	adv	swe	under	adv
+	fin	edessä	adv	swe	före	adv
+	fin	eilen	adv	swe	igår	adv
+	fin	ei	adv$adv-vaux	swe	nej	adv
 	fin	entä	adv	swe	och	cnjcoo
 	fin	erittäin	adv	swe	mycket	adv-pst$adv
 	fin	hitaasti	adv	swe	sakna	adv
 	fin	hyvin	adv	swe	bra	adv$adv-pst
 	fin	kahden	adv	swe	varandras	$adv
+	fin	kaikkialle	adv	swe	över allt	adv
+	fin	kanssa	adv	swe	med	adv
 	fin	koskaan	adv	swe	aldrig	adv
 	fin	kovasti	adv	swe	mycket	adv-pst$adv
 	fin	lähellä	adv	swe	nära	adv-sup$adv
 	fin	lähemmäksi	adv	swe	närmare	adv
+	fin	läpi	adv	swe	genom	adv
+	fin	menossa	adv	swe	på veg	adv
+	fin	miksi	adv	swe	varför	ij
 	fin	minne	adv$adv-itg	swe	var	adv
 	fin	missä	adv$adv-itg$adv-itg-ine	swe	var	adv
 	fin	mitä	adv	swe	vad	adv$adv-itg
 	fin	myös	adv	swe	också	adv
+	fin	niinpä	adv	swe	så	adv$
 	fin	niin	adv$adv-dem	swe	så	adv$
 	fin	nopeasti	adv	swe	snabbt	adv
 	fin	nyt	adv	swe	nu	adv
 	fin	siellä	adv	swe	där	adv
 	fin	silloin	adv	swe	då	cnjadv
+	fin	sinut	adv	swe	nöjd	adv
 	fin	sisällä	adv$adv-pxsp3	swe	in	adv
 	fin	sitten	adv	swe	då	cnjadv
 	fin	taas	adv	swe	igen	adv
-	fin	tänään	adv	swe	idag	adv
-	fin	ulkona	adv	swe	ut	pr
-	fin	yhdessä	adv	swe	varandra	prn-ref$prn-ref-p3-un-pl
-	fin	kaikkialle	adv	swe	över allt	adv
 	fin	taas	adv	swe	igen	adv
+	fin	takaa	adv	swe	bakom	adv
 	fin	tietenkään	adv	swe	naturligtvis	adv
 	fin	todennäköisesti	adv	swe	troligen	adv
+	fin	tänään	adv	swe	idag	adv
+	fin	ulkona	adv	swe	ut	pr
+	fin	ulos	adv	swe	ut	adv
+	fin	yhdessä	adv	swe	varandra	prn-ref$prn-ref-p3-un-pl
 	fin	yhä	adv	swe	fortfarande	adv
 	fin	ja	adv	swe	och	cnjcoo
 	fin	ei	ij	swe	nej	ij
@@ -333,7 +350,7 @@
 	fin	mi	prn	swe	va	prn
 	fin	muuan	prn	swe	någon	prn-ind$prn
 	fin	nuo	prn$prn-pl$prn-dem-pl$prn-dem-pl-nom	swe	dom	prn
-	fin	sä	prn	swe	du	prn$prn-pers$prn-pers-p2-ut$
+	fin	sä	prn	swe	du	prn-pers-p2-ut$prn$prn-pers$
 	fin	te	prn$prn-pers-p2-pl$prn-pl	swe	ni	prn-pers-p2$prn$
 	fin	tuo	prn$prn-sg$prn-dem-sg$prn-dem-sg-nom	swe	den	prn-pers-p3-ut$prn$
 	fin	tää	prn$prn-dem	swe	den	prn-pers-p3-ut$prn$
@@ -347,22 +364,25 @@
 	fin	mitä	prn	swe	wad	adv
 	fin	mitään	prn	swe	ingenting	prn-ind$prn-ind-un
 	fin	minä	prn$prn-pers-p1$prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-gen	swe	jag	prn-pers-p1-un
-	fin	sinä	prn$prn-pers-p2$prn-pers$prn-pers-p2-sg	swe	du	prn-pers-p2-un
+	fin	sinä	prn$prn-pers-p2$prn-pers$prn-pers-p2-sg	swe	du	prn-pers-p2-ut$prn$prn-pers$
 	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers	swe	han	prn-pers-p3-m$$prn$prn-pers
 	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers	swe	hon	prn-pers-p3-f$$prn
 	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers	swe	hen	prn-pers-p3-un
 	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen	swe	de	prn-pers-p3$prn$$prn-pers-p3-un
-	fin	me	prn$prn-pers-p1$prn-pers-p1-pl$prn-pers$prn-pers-p1-pl-gen	swe	vi	prn-pers-p1$prn$prn-pers-p1-un
+	fin	me	prn$prn-pers-p1-pl$prn-pers-p1$prn-pers$prn-pers-p1-pl-gen	swe	vi	prn-pers-p1$prn$prn-pers-p1-un
 	fin	se	prn$prn-dem$prn-dem-sg$prn-dem-sg-nom	swe	den	prn-pers-p3-ut$prn$
 	fin	nämä	prn$prn-dem	swe	denna	prn-dem$prn
 	fin	ne	prn-dem$prn	swe	de	prn-pers-p3$prn$$prn-pers-p3-un
 	fin	tämä	prn$prn-sg-ess-n-sg-ess$prn-sg	swe	dessa	prn
-	fin	kaan	enc	swe	inte också	adv
-	fin	ka	enc	swe	nej	adv
-	fin	kin	enc	swe	också	adv
-	fin	pa	enc	swe	riktig	$adv
-	fin	han	enc	swe	riktig	$adv
-	fin	s	enc	swe	varsågod	ij
+	fin	yksi	det$det-sg-nom	swe	en	det-qnt$det-qnt-ut
+	fin	se	det$det-sg-nom	swe	den	det-dem$det$det-dem-ut
+LR	fin	kaan	enc	swe	inte också	adv
+LR	fin	ka	enc	swe	nej	adv
+LR	fin	kin	enc	swe	också	adv
+LR	fin	pa	enc	swe	riktig	$adv
+LR	fin	han	enc	swe	riktig	$adv
+LR	fin	s	enc	swe	varsågod	ij
+LR	fin	ko	qst	swe		$det-qnt
 	fin	'	punct	swe	'	apos
 	fin	,	punct	swe	,	cm
 	fin	-	punct	swe	-	guio
@@ -430,7 +450,7 @@
 	fin	nopea	adj	swe	snabb	adj-pst
 	fin	vaarallinen	adj	swe	farlig	adj-pst
 	fin	magneettinen	adj	swe	magnetisk	$adj$adj-pst
-	fin	hauska	adj	swe	rolig	adj-pst
+	fin	hauska	adj	swe	rolig	$adj$adj-sint$adj-sint-pst
 	fin	reilu	adj	swe	rättvis	adj-pst
 	fin	sofistikoitu	adj	swe	avancerad	adj$adj-pst
 	fin	asosiaalinen	adj	swe	asocial	adj$adj-pst
@@ -445,7 +465,7 @@
 	fin	selvä	adj	swe	tydlig	adj-pst
 	fin	henkilökohtainen	adj	swe	personlig	$adj$adj-pst
 	fin	taloudellinen	adj	swe	finansiell	adj$adj-pst
-	fin	merkittävä	adj	swe	stor	adj-pst$$adj
+	fin	merkittävä	adj	swe	stor	$adj$adj-sint$adj-sint-pst
 	fin	keski-ikäinen	adj	swe	medelålders	adj-pst
 	fin	johdonmukainen	adj	swe	förenlig	adj-pst
 	fin	paljas	adj	swe	bar	adj$adj-pst
@@ -488,7 +508,7 @@
 	fin	sievä	adj	swe	snygg	adj-pst
 	fin	lopullinen	adj	swe	slutgiltig	adj-pst
 	fin	poliittinen	adj	swe	politisk	$adj$adj-pst
-	fin	suuri	adj$adj-comp	swe	stor	adj-pst$$adj
+	fin	suuri	adj$adj-comp	swe	stor	$adj$adj-sint$adj-sint-pst
 	fin	erilainen	adj	swe	varierande	adj-pst
 	fin	vapaa	adj	swe	ledig	adj-pst
 	fin	ikävystyttävä	adj	swe	långtråkig	adj$adj-pst
@@ -505,7 +525,7 @@
 	fin	kova	adj	swe	hård	adj-pst
 	fin	verraton	adj	swe	makalös	adj-pst
 	fin	yksinkertainen	adj	swe	enkel	adj-pst
-	fin	hieno	adj	swe	stor	adj-pst$$adj
+	fin	hieno	adj	swe	stor	adj-pst
 	fin	nöyristelevä	adj	swe	servil	adj-pst
 	fin	siviili	adj	swe	civil	adj-pst
 	fin	harkinnanvarainen	adj	swe	godtycklig	adj-pst
@@ -632,7 +652,7 @@
 	fin	varakas	adj	swe	rik	adj-pst
 	fin	tiukka	adj	swe	strikt	adj$adj-pst
 	fin	viimeinen	adj	swe	sista	adj$adj-pst
-	fin	muu	adj	swe	annan	adj$adj-pst
+	fin	muu	adj	swe	annan	det$det-dem
 	fin	ammattimainen	adj	swe	professionell	$adj$adj-pst
 	fin	puinen	adj	swe	träig	adj-pst
 	fin	samantasoinen	adj	swe	slät	$adj$adj-pst
@@ -1003,7 +1023,7 @@
 	fin	kurjuus	n	swe	elände	n-ut
 	fin	veto	n	swe	veto	n-ut
 	fin	lausunto	n	swe	påstående	n-ut
-	fin	vastaus	n$n-sg	swe	svar	n-ut-sp$n-ut
+	fin	vastaus	n	swe	svar	n-ut
 	fin	palanen	n	swe	bit	n-ut
 	fin	alusvaate	n	swe	damunderkläder	n-ut
 	fin	asiakas	n	swe	kund	n-ut
@@ -1281,7 +1301,7 @@
 	fin	tappo	n	swe	dödande	n-ut
 	fin	argumentti	n	swe	argument	n-ut
 	fin	kilpailu	n	swe	tävling	n-ut
-	fin	valo	n	swe	ljus	n-ut-sp$n-ut
+	fin	valo	n	swe	ljus	n-ut
 	fin	osa	n	swe	del	n-ut
 	fin	konservatiivinen	n	swe	skydd	n-ut
 	fin	kilpi	n	swe	sköld	n-ut
@@ -1395,7 +1415,7 @@
 	fin	lasku	n	swe	störtande	n-ut
 	fin	omistus	n	swe	innehav	n-ut
 	fin	allianssi	n	swe	förbund	n-ut
-	fin	vastaus	n$n-sg	swe	respons	n-ut
+	fin	vastaus	n	swe	respons	n-ut
 	fin	varallisuus	n	swe	rikedom	n-ut
 	fin	epävarmuus	n	swe	ovisshet	n-ut
 	fin	tuotos	n	swe	avkastning	n-ut
@@ -1435,7 +1455,7 @@
 	fin	vahinko	n	swe	skada	n-ut$
 	fin	aula	n	swe	lobby	n-ut
 	fin	tarkoitus	n	swe	mål	n-ut
-	fin	ääni	n$n-sg	swe	röst	n-ut
+	fin	ääni	n$n-ND	swe	röst	n-ut
 	fin	velka	n	swe	skuld	n-ut
 	fin	asia	n	swe	ting	n-ut
 	fin	piirroselokuva	n	swe	skämtteckning	n-ut

@@ -20,7 +20,7 @@
 	eus	Afganistan	np$np-loc	fra	Afghanistan	np$np-top-m$np-top-m-sg$np-top
 	eus	Afrika	np$np-loc	fra	Afrique	np$np-top-f-sg$np-top$np-top-f
 	eus	Agirre	np$np-ant	fra	Agirre	np$np-cog-mf-sp
-	eus	Agra	np	fra	Agra	np
+	eus	Agra	np	fra	Agra	np$np-top-f-sg
 	eus	Aingeru	np$np-ant	fra	Aingeru	np$np-ant
 	eus	Aintzane	np$np-ant	fra	Aintzane	np$np-ant$np-ant-f-sg
 	eus	Al Kaeda	np-al	fra	Al-Qaida	np$np-al
@@ -59,7 +59,7 @@
 	eus	Baiona	np$np-loc	fra	Baione	np-loc$np
 	eus	Baiona	np$np-loc	fra	Bayonne	np$np-top$np-top-f-sg
 	eus	Baltasar	np$np-ant	fra	Baltasar	np$np-cog-mf-sp
-	eus	Barakaldo	np$np-loc	fra	Barakaldo	np
+	eus	Barakaldo	np$np-loc	fra	Barakaldo	np$np-top-m-sg
 	eus	Bartzelona	np$np-loc	fra	Barcelone	np$np-loc-f
 	eus	Basauri	np$np-loc	fra	Basauri	np$np-top-m
 	eus	Batasun	np-al	fra	Batasuna	np$np-al$np-al-f-sg
@@ -119,9 +119,9 @@
 	eus	Etxeberria	np$np-ant	fra	Etxeberria	np$np-cog-mf-sp
 	eus	Etxerat	np-al	fra	Etxerat	np$np-al
 	eus	Europa	np$np-loc	fra	Europe	np$np-top-f-sg$np-top$np-top-f
-	eus	Euskadi	np$np-loc	fra	Euskadi	np$np-loc-f
+	eus	Euskadi	np$np-loc	fra	Euskadi	np$np-top-m-sg
 	eus	Eusko Alkartasuna	np-al	fra	Eusko Alkartasuna	np$np-al
-	eus	Euzkadi	np$np-loc	fra	Euskadi	np$np-loc-f
+	eus	Euzkadi	np$np-loc	fra	Euskadi	np$np-top-m-sg
 	eus	Ezker Batua	np-al	fra	Ezker Batua	np$np-al
 	eus	Fernandez	np$np-ant	fra	Fernández	np$np-cog-mf-sp$np-cog
 	eus	Fernando	np$np-ant	fra	Fernando	np$np-ant$np-ant-m-sg
@@ -200,14 +200,14 @@
 	eus	Kongo	np$np-loc	fra	Congo	np$np-top-m$np-top-m-sg$np-top
 	eus	Korea	np$np-loc	fra	Corée	np$np-top-f$np-top-f-sg$np-top
 	eus	Korsika	np$np-loc	fra	Corse	np$np-top-f-sg$np-top
-	eus	Korsika	np$np-loc	fra	Corsica	np
+	eus	Korsika	np$np-loc	fra	Corsica	np$np-top-f-sg
 	eus	Kosovo	np$np-loc	fra	Kosovo	np-loc$np$np-loc-f
 	eus	Kristo	np-ant	fra	Christ	np$np-al$np-al-m-sg
 	eus	Kuba	np$np-loc	fra	Cuba	np$np-top-m-sg$np-top
 	eus	Kubako	adj	fra	cubain	adj$adj-GD-ND
 	eus	Kurdistan	np$np-loc	fra	Kurdistan	np$np-top$np-top-m$np-top-m-sg
 	eus	LAB	n-acr	fra	LAB	n$n-acr-m
-	eus	Lapurdi	np$np-loc	fra	Labourd	np
+	eus	Lapurdi	np$np-loc	fra	Labourd	np$np-top-m-sg
 	eus	Latinoamerika	np$np-loc	fra	Amérique latine	np$np-loc-f
 	eus	Leon	np$np-loc	fra	León	np$np-ant$np-ant-m-sg
 	eus	Libano	np$np-loc	fra	Liban	np$np-top-m$np-top-m-sg$np-top
@@ -216,7 +216,7 @@
 	eus	Londres	np$np-loc	fra	Londres	np$np-top-m-sg$np-top$np-top-m
 	eus	Lopez	np$np-ant	fra	López	np$np-cog-mf-sp$np-cog
 	eus	Luis	np$np-ant	fra	Luis	np$np-ant$np-ant-m-sg
-	eus	Luisa	np$np-ant	fra	Luisa	np$np-ant$np-ant-f-sg
+	eus	Luisa	np$np-ant	fra	Luisa	np$np-ant-f-sg$np-ant
 	eus	Madril	np$np-loc	fra	Madrid	np$np-top-m-sg$np-top$np-top-m
 	eus	Manuel	np$np-ant	fra	Manuel	np-ant$np-ant-m-sg$np
 	eus	Mari	np$np-ant	fra	Mari	np$np-ant$np-ant-f-sg
@@ -229,7 +229,7 @@
 	eus	Mendebal	n	fra	occident	n$n-m$n-m-ND
 	eus	Mexiko	np$np-loc	fra	Mexique	np$np-top-m$np-top-m-sg$np-top
 	eus	Miguel	np$np-ant	fra	Miguel	np$np-ant$np-ant-m-sg
-	eus	Mikel	np$np-ant	fra	Mikel	np$np-ant$np-ant-m-sg
+	eus	Mikel	np$np-ant	fra	Mikel	np$np-ant-m-sg$np-ant
 	eus	Milan	np$np-loc	fra	Milan	np$np-loc$np-loc-f
 	eus	Milan	np$np-loc	fra	Milan	np$np-loc$np-loc-f
 	eus	NATO	n-acr	fra	OTAN	n-acr$n-acr-f
@@ -251,12 +251,12 @@
 	eus	PSN	n-acr	fra	PSN	n$n-acr$n-acr-m$n-acr-m-sg
 	eus	PSOE	n-acr	fra	PSOE	n-acr$n-acr-m$n-acr-m-sg
 	eus	Pakistan	np$np-loc	fra	Pakistan	np$np-top-m$np-top-m-sg$np-top
-	eus	Palestina	np$np-loc	fra	Palestine	np$np-top
+	eus	Palestina	np$np-loc	fra	Palestine	np$np-top$np-top-f-sg
 	eus	Paradisu	n	fra	paradis	n-m-sp$n-m$n
 LR	eus	Paradisu	n	fra	paradis	n-m-sp$n-m$n
 	eus	Paris	np$np-loc	fra	Paris	np$np-top-m-sg$np-top$np-top-m
 	eus	Pasaia	np$np-loc	fra	Pasaia	np
-	eus	Patxi	np$np-ant	fra	Patxi	np$np-ant$np-ant-m-sg
+	eus	Patxi	np$np-ant	fra	Patxi	np$np-ant-m-sg$np-ant
 	eus	Paue	np$np-ant	fra	Pau	np$np-ant$np-ant-m-sg
 	eus	Paue	np$np-ant	fra	Pau	np-loc$np-loc-f
 	eus	Paue	np$np-ant	fra	Pau	np$np-ant$np-ant-m-sg
@@ -266,8 +266,8 @@ LR	eus	Paradisu	n	fra	paradis	n-m-sp$n-m$n
 	eus	Perez	np$np-ant	fra	Pérez	np$np-cog-mf-sp$np-cog
 	eus	Pernando	np$np-ant	fra	Pernando	np
 	eus	Pirinio	np	fra	Pyrénées	np$np-top-f-pl$np-top
-	eus	Portugalete	np$np-loc	fra	Portugalete	np
-	eus	Rafa	np$np-ant	fra	Rafa	np$np-ant$np-ant-m-sg
+	eus	Portugalete	np$np-loc	fra	Portugalete	np$np-top-m-sg
+	eus	Rafa	np$np-ant	fra	Rafa	np$np-ant-m-sg$np-ant
 	eus	Ramirez	np$np-ant	fra	Ramírez	np$np-cog-mf-sp$np-cog
 	eus	Ramon	np$np-ant	fra	Ramón	np$np-ant-m-sg$np-ant
 	eus	Raxoi	np$np-ant	fra	Rajoy	np$np-cog$np-cog-mf-sp
@@ -278,7 +278,7 @@ LR	eus	Paradisu	n	fra	paradis	n-m-sp$n-m$n
 	eus	Rubalcaba	np$np-ant	fra	Rubalcaba	np$np-cog-mf-sp
 	eus	Ruiz	np$np-ant	fra	Ruiz	np$np-cog-mf-sp$np-cog
 	eus	SA	n-acr	fra	SA	n-acr$n-acr-f$n-acr-f-sg
-	eus	Saddam	np$np-ant	fra	Saddam	np$np-ant$np-ant-m-sg
+	eus	Saddam	np$np-ant	fra	Saddam	np$np-ant-m-sg$np-ant
 	eus	Saez	np$np-ant	fra	Sáez	np$np-cog-mf-sp$np-cog
 	eus	Sanchez	np$np-ant	fra	Sánchez	np$np-cog-mf-sp$np-cog
 	eus	Santurtzi	np$np-loc	fra	Santurtzi	np
@@ -1541,7 +1541,7 @@ LR	eus	belus	n	fra	velours	n-m-sp$n-m
 	eus	berbaldi	n	fra	bavardage	n-m$n$n-m-ND
 	eus	berde	n	fra	vert	n$n-m$n-m-ND
 	eus	berde	adj	fra	vert	adj-GD$adj-GD-ND
-	eus	berdin	adj	fra	égal	adj$adj-GD-ND$$adj-GD
+	eus	berdin	adj	fra	égal	adj$adj-GD-ND$adj-GD$
 	eus	berdin	adv	fra	pareil	adv
 	eus	berdin-berdin	adj	fra	identique	adj-mf$adj-mf-ND$adj
 	eus	berdindu	vblex	fra	égaler	vblex
@@ -2123,7 +2123,7 @@ LR	eus	diskurtso	n	fra	discours	n-m-sp$n-m$n
 	eus	domina	n	fra	médaille	n-f$n$n-f-ND
 	eus	dominikar	adj	fra	dominicain	adj$adj-GD-ND
 	eus	donostiar	adj	fra	de saint-sébastien	adj-mf-sp
-	eus	dontzeila	n	fra	demoiselle	n-f$n$n-f-ND
+	eus	dontzeila	n	fra	demoiselle	n$n-f$n-f-ND
 	eus	dorre	n	fra	tour	n-f$n-f-ND
 	eus	dosi	n	fra	dose	n-f-pl$n-f$n
 	eus	dosi	n	fra	dose	n-f-sg
@@ -2297,7 +2297,7 @@ LR	eus	eguraldi	n	fra	temps	n-m-sp$n$n-m
 	eus	ehorzketa	n	fra	enterrement	n-m$n$n-m-ND
 	eus	ehun	num-pl	fra	cent	num-mf-sp
 	eus	ehun	n	fra	centaine	n-f$n$n-f-ND
-	eus	ehun	adj	fra	textile	adj$$adj-mf$adj-mf-ND
+	eus	ehun	adj	fra	textile	adj$adj-mf$$adj-mf-ND
 	eus	ehuneko	n	fra	pourcentage	n-m$n$n-m-ND
 	eus	ehunen	n	fra	centième	n-m$n$n-m-ND
 	eus	ekain	n	fra	juin	n-m-ND
@@ -3661,7 +3661,7 @@ LR	eus	gorputz	n	fra	corps	n-m-sp$n-m$n
 	eus	grafiko	n	fra	graphique	n-m$n$n-m-ND
 	eus	grafiko	adj$adj-izo	fra	graphique	adj-mf$adj$adj-mf-ND
 	eus	gramatika	n	fra	grammaire	n-f$n$n-f-ND
-	eus	gramatikal	adj$adj-izo	fra	grammatical	adj$adj-GD-ND$$adj-GD
+	eus	gramatikal	adj$adj-izo	fra	grammatical	adj$adj-GD-ND$adj-GD$
 	eus	gramo	n	fra	gramme	n-m$n$n-m-ND
 	eus	granada	n$	fra	grenade	n-f$n$n-f-ND
 	eus	grano	n	fra	grain	n-m$n$n-m-ND
@@ -4213,7 +4213,7 @@ LR	eus	ikasturte	n	fra	cours	n-m-sp$n-m$n
 	eus	ikertu	vblex	fra	rechercher	vblex
 	eus	ikertzaile	n	fra	chercheur	n$n-m$n-m-ND
 	eus	ikertzaile	n	fra	enquêteur	n-m$n-m-ND
-	eus	ikur	n	fra	symbole	n-m$n$n-m-ND
+	eus	ikur	n	fra	symbole	n$n-m$n-m-ND
 	eus	ikurrin	n	fra	drapeau	n-m$n-m-ND$n
 	eus	ikurriñ	n	fra	drapeau	n-m$n-m-ND$n
 	eus	ikusezin	adj$adj-izo	fra	invisible	adj$adj-mf-ND$adj-mf
@@ -4291,7 +4291,7 @@ LR	eus	indibiduo	n	fra	individu	n-m$n$n-m-ND
 	eus	indize	n$	fra	index	n-m-sp$n-m$n
 	eus	indultu	n	fra	grâce	n-f$n$n-f-ND
 	eus	industria	n	fra	industrie	n$n-f$n-f-ND
-	eus	industrial	adj$adj-izo	fra	industriel	adj$$adj-GD-ND$adj-GD
+	eus	industrial	adj$adj-izo	fra	industriel	adj$adj-GD-ND$adj-GD$
 	eus	industrialde	n$	fra	polygone industriel	n$n-m-ND
 	eus	industrializazio	n	fra	industrialisation	n-f$n$n-f-ND
 	eus	inertzia	n	fra	inertie	n-f$n$n-f-ND
@@ -4379,7 +4379,7 @@ LR	eus	ingeles	n	fra	anglais	n-m-sp$n
 	eus	interesatu	vblex	fra	intéresser	vblex
 	eus	interesgarri	adj$adj-izo	fra	intéressant	adj-GD-ND$adj$adj-GD
 	eus	interferentzia	n	fra	interférence	n$n-f$n-f-ND
-	eus	internazional	adj	fra	international	$adj$adj-GD-ND$adj-GD
+	eus	internazional	adj	fra	international	adj$adj-GD-ND$adj-GD$
 	eus	internet	n	fra	internet	n-m$n-m-sg
 	eus	interpretatu	vblex	fra	interpréter	vblex
 	eus	interpretazio	n	fra	interprétation	n$n-f$n-f-ND
@@ -4848,7 +4848,7 @@ LR	eus	kanpotar	n	fra	intrus	n-m-sp$n
 	eus	kapela	n	fra	chapeau	n-m$n$n-m-ND
 	eus	kapera	n	fra	chapelle	n$n-f$n-f-ND
 	eus	kapilar	adj	fra	capillaire	adj$adj-mf-ND
-	eus	kapitain	n	fra	capitaine	n$n-mf$n-mf-ND
+	eus	kapitain	n	fra	capitaine	n-mf$n$n-mf-ND
 	eus	kapital	n	fra	capitale	n-f$n$n-f-ND
 	eus	kapital	n	fra	capital	n-m$n$$n-m-ND
 	eus	kapitalismo	n	fra	capitalisme	n$n-m$n-m-ND
@@ -5296,7 +5296,7 @@ LR	eus	laurehun	num-pl	fra	quatre cents	num-GD-sp
 	eus	laurogei	num-pl	fra	quatre-vingt	num$num-mf-sp
 	eus	lautada	n	fra	campagne	n-f$n$n-f-ND
 	eus	lautu	vblex	fra	détruire	vblex
-	eus	lauza	n	fra	dalle	n-f$n$n-f-ND
+	eus	lauza	n	fra	dalle	n$n-f$n-f-ND
 	eus	laztandu	vblex	fra	caresser	vblex
 	eus	laztura	n	fra	horreur	n-f$n-f-ND
 	eus	legal	adj$adj-izo	fra	légal	adj$adj-GD$adj-GD-ND$
@@ -5635,7 +5635,7 @@ LR	eus	martxo	n	fra	mars	n-m-sp$n$n-m
 	eus	menu	n	fra	menu	n-m$n$n-m-ND
 	eus	merezitako	adj	fra	digne	adj$adj-mf$adj-mf-ND
 	eus	meritu	n	fra	mérite	n-m$n$n-m-ND
-	eus	merkantzia	n	fra	marchandise	n$n-f$n-f-ND
+	eus	merkantzia	n	fra	marchandise	n-f$n$n-f-ND
 	eus	merkatari	n	fra	commerçant	n-GD-ND
 	eus	merkatari	n	fra	marchand	n-GD$n-GD-ND
 	eus	merkataritza	n	fra	commerce	n-m-ND
@@ -5824,7 +5824,7 @@ LR	eus	martxo	n	fra	mars	n-m-sp$n$n-m
 	eus	murru	n	fra	mur	n-m$n$n-m-ND
 	eus	museo	n	fra	musée	n$n-m$n-m-ND
 	eus	musika	n	fra	musique	n-f$n$n-f-ND
-	eus	musikal	adj	fra	musical	adj$adj-GD-ND$$adj-GD
+	eus	musikal	adj	fra	musical	adj$adj-GD-ND$adj-GD$
 	eus	musikari	n	fra	musicien	n$n-m$n-m-ND
 	eus	muskulu	n	fra	muscle	n$n-m$n-m-ND
 	eus	musu	n	fra	baiser	n-m$n$n-m-ND
@@ -5903,7 +5903,7 @@ LR	eus	mutiko	n	fra	garçon	n-m-ND
 	eus	naturaltasun	n	fra	naturel	n-m$n-m-ND
 	eus	nazi	n	fra	nazi	n-GD$n-GD-ND
 	eus	nazio	n	fra	nation	n$n-f$n-f-ND
-	eus	nazioarteko	adj	fra	international	$adj$adj-GD-ND$adj-GD
+	eus	nazioarteko	adj	fra	international	adj$adj-GD-ND$adj-GD$
 	eus	nazional	adj$adj-izo	fra	national	adj-GD$adj-GD-ND
 	eus	nazionalismo	n	fra	nationalisme	n$n-m$n-m-ND
 	eus	nazionalista	n	fra	nationaliste	n$n-mf$n-mf-ND
@@ -6388,7 +6388,7 @@ LR	eus	pauso	n	fra	pas	n-m-sp$n-m$n
 	eus	pentsio	n	fra	pension	n$n-f$n-f-ND
 	eus	pentsiodun	n	fra	pensionnaire	n$n-mf$n-mf-ND
 	eus	perfektu	adj	fra	parfait	adj$adj-GD-ND
-	eus	perfume	n	fra	parfum	n-m$n$n-m-ND
+	eus	perfume	n	fra	parfum	n$n-m$n-m-ND
 	eus	perla	n	fra	perle	n$n-f$n-f-ND
 	eus	perspektiba	n	fra	perspective	n-f$n$n-f-ND
 	eus	pertsiana	n	fra	persienne	n$n-f$n-f-ND
@@ -6569,7 +6569,7 @@ LR	eus	prezio	n	fra	prix	n-m-sp$n$n-m
 	eus	probatu	vblex	fra	essayer	vblex
 	eus	probetxu	n	fra	pro	n-m$n$n-m-ND
 	eus	probintzia	n	fra	province	n$n-f$n-f-ND
-	eus	probintzial	adj$	fra	provincial	adj$adj-GD-ND$$adj-GD
+	eus	probintzial	adj$	fra	provincial	adj$adj-GD-ND$adj-GD$
 	eus	problematika	n	fra	problématique	n-f$n$n-f-ND
 	eus	problematiko	adj	fra	problématique	adj$adj-mf$adj-mf-ND
 	eus	produktibitate	n	fra	productivité	n$n-f$n-f-ND
@@ -6684,7 +6684,7 @@ LR	eus	putzu	n	fra	puits	n-m-sp$n-m$n
 	eus	salbuespenezko	adj	fra	exceptionnel	adj$adj-GD-ND$adj-GD
 	eus	saldu	vblex	fra	débiter	vblex
 	eus	saldu	vblex	fra	vendre	vblex
-	eus	salgai	n	fra	marchandise	n$n-f$n-f-ND
+	eus	salgai	n	fra	marchandise	n-f$n$n-f-ND
 	eus	salmahai	n	fra	comptoir	n-m$n$n-m-ND
 	eus	salmenta	n	fra	vente	n$n-f$n-f-ND
 	eus	salneurri	n$	fra	prix	n-m-sp$n$n-m
@@ -6811,7 +6811,7 @@ LR	eus	sentikor	n	fra	sens	n-m-sp$n-m$n
 	eus	sinboliko	adj$adj-izo	fra	symbolique	adj-mf$adj$adj-mf-ND
 	eus	sinbolismo	n	fra	symbolisme	n$n-m$n-m-ND
 	eus	sinbolizatu	vblex	fra	symboliser	vblex
-	eus	sinbolo	n	fra	symbole	n-m$n$n-m-ND
+	eus	sinbolo	n	fra	symbole	n$n-m$n-m-ND
 	eus	sindikal	adj	fra	syndical	adj-GD$adj-GD-ND
 	eus	sindikatu	n$	fra	syndicat	n$n-m$n-m-ND
 	eus	sindrome	n	fra	syndrome	n-m$n$n-m-ND
@@ -6898,7 +6898,7 @@ LR	eus	sorospen	n	fra	secours	n-m-sp$n-m$n
 	eus	subjektibo	adj$adj-izo	fra	subjectif	adj$adj-GD-ND
 	eus	sudur	n	fra	nez	n-m-sp$n$n-m
 	eus	suerte	n	fra	sort	n-m$n-m-ND
-	eus	suerte	n	fra	chance	n-f$n$n-f-ND
+	eus	suerte	n	fra	chance	n$n-f$n-f-ND
 	eus	sufrimendu	n	fra	souffrance	n-f$n$n-f-ND
 	eus	sufritu	vblex	fra	souffrir	vblex
 	eus	suge	n	fra	serpent	n-m$n$n-m-ND
@@ -7272,7 +7272,7 @@ LR	eus	urrats	n	fra	pas	n-m-sp$n-m$n
 	eus	urtebetetze	n	fra	anniversaire	n-m-pl
 	eus	urtebetetze	n	fra	anniversaire	n-m-sg
 	eus	urtegi	n	fra	barrage	n-m$n$n-m-ND
-	eus	urteko	adj	fra	annuel	adj$adj-GD$$adj-GD-ND
+	eus	urteko	adj	fra	annuel	adj$adj-GD$adj-GD-ND$
 	eus	urteko	adj	fra	annal	adj-GD-ND
 	eus	urteurren	n	fra	anniversaire	n$n-m$n-m-ND
 	eus	urtu	vblex	fra	fondre	vblex

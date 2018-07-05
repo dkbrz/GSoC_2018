@@ -89,7 +89,7 @@ LR	swe	åt	pr	dan	til	pr
 	swe	vid	pr$	dan	nær	pr$
 	swe	åt	pr	dan	mod	pr
 	swe	noll	det-qnt	dan	nul	det-qnt
-	swe	en	det-qnt	dan	en	det-qnt
+	swe	en	det-qnt$det-qnt-ut	dan	en	det-qnt
 	swe	två	det-qnt	dan	to	det-qnt
 	swe	tre	det-qnt	dan	tre	det-qnt
 	swe	fyra	det-qnt	dan	fire	$det-qnt
@@ -133,7 +133,7 @@ LR	swe	åt	pr	dan	til	pr
 	swe	hundra	det-qnt	dan	hundrede	det-qnt$
 	swe	jag	n-nt$	dan	jeg	n-nt$
 	swe	min	$n-ut	dan	min	$det
-	swe	du	prn$prn-pers$prn-pers-p2-ut$	dan	du	$vblex
+	swe	du	prn-pers-p2-ut$prn$prn-pers$	dan	du	$vblex
 	swe	din	$prn-pos	dan	din	$det
 	swe	hon	prn-pers-p3-f$$prn	dan	hun	n-ut$
 	swe	hennes		dan	hendes	
@@ -199,7 +199,7 @@ LR	swe	någonting	prn-ind$prn-ind-un-sg	dan	nogen	prn-ind$prn
 	swe	vad	prn-itg	dan	hvad	prn-itg$prn
 	swe	vem	prn-itg$prn	dan	hvem	prn-itg$prn
 	swe	en	det-ind$det	dan	en	det-ind$det
-	swe	den	det-dem$det	dan	den	det-dem$det
+	swe	den	det-dem$det$det-dem-ut	dan	den	det-dem$det
 	swe	denna	det$det-dem	dan	denne	det$det-dem
 	swe	varje	det-ind	dan	hver	det-ind$det
 	swe	flera	det-qnt	dan	flere	det-qnt
@@ -3288,7 +3288,7 @@ RL	swe	servitut	n-nt	dan	servitut	n-nt
 	swe	skällsord	n-nt	dan	skældsord	n-nt
 	swe	skämt	n-nt	dan	vittighed	n-ut
 	swe	skär	n-nt	dan	skær	n-nt
-	swe	skära	$n-ut	dan	le	$n-ut
+	swe	skära	n-ut	dan	le	$n-ut
 	swe	skärgård	n-ut	dan	skærgård	n-ut
 	swe	skärm	n-ut	dan	skærm	n-ut
 	swe	skärpa	$n-ut	dan	skarphed	n-ut
@@ -8795,7 +8795,7 @@ RL	swe	smutsig	$adj$adj-sint	dan	beskidt
 	swe	passiv	$adj$adj-sint	dan	passiv	n-ut$
 	swe	svag	adj-sint$$adj	dan	svag	$adj
 	swe	trolig	$adj$adj-pst	dan	sandsynlig	
-	swe	rolig	$adj$adj-sint	dan	morsom	
+	swe	rolig	$adj$adj-sint$adj-sint-pst	dan	morsom	
 	swe	vit	$adj	dan	hvid	n-ut$
 	swe	stilig	$adj$adj-sint	dan	stilig	
 	swe	dyrbar	$adj$adj-sint	dan	værdifuld	$adj
@@ -8837,7 +8837,7 @@ LR	swe	riktiger		dan	rigtig	$adj
 	swe	modern	$adj$adj-sint	dan	moderne	$adj
 	swe	primär	$adj$adj-sint	dan	primær	$adj
 	swe	sekundär	$adj-sint	dan	sekundær	
-	swe	glad	$adj$adj-sint	dan	glad	$adj
+	swe	glad	$adj$adj-sint$adj-sint-pst-sg	dan	glad	$adj
 	swe	dum	adj$adj-sint$	dan	dum	$adj
 	swe	stum	$adj	dan	stum	
 	swe	tom	adj-sint$$adj	dan	tom	$adj
@@ -9021,10 +9021,10 @@ RL	swe	bräcklig	$adj-sint	dan	skør	$adj
 	swe	främmande	$adj$adj-pst	dan	fremmed	$adj
 	swe	gift	n-nt$	dan	gift	n-ut$
 	swe	glåmig		dan	bleg	$adj
-	swe	liten	$adj-sint$adj	dan	lille	$adj
+	swe	liten	$adj-sint$adj$adj-sint-pst	dan	lille	$adj
 	swe	lång	adj$adj-sint$	dan	lang	$adj
-	swe	stor	adj-pst$$adj	dan	stor	$adj
-	swe	gammal	$adj-sint$adj	dan	gammel	$adj
+	swe	stor	$adj$adj-sint$adj-sint-pst	dan	stor	$adj
+	swe	gammal	$adj-sint$adj$adj-sint-pst	dan	gammel	$adj
 	swe	god	$adj-sint$adj$adj-sint-pst	dan	god	$adj
 	swe	grym	adj-sint$$adj	dan	grusom	
 	swe	grå	$adj$adj-sint	dan	grå	$adj
@@ -9413,7 +9413,7 @@ RL	swe	bräcklig	$adj-sint	dan	skør	$adj
 	swe	lokal	n-ut$	dan	lokal	$n-nt
 	swe	lovlig		dan	lovlig	$adj
 	swe	luthersk		dan	luthersk	
-	swe	lös	$adj	dan	løs	$adj
+	swe	lös	$adj$adj-pst	dan	løs	$adj
 	swe	mager	$adj$adj-sint	dan	mager	
 	swe	maritim	$adj	dan	maritim	
 	swe	markant	$adj	dan	markant	
@@ -9931,7 +9931,7 @@ LR	swe	törhända	adv	dan	måske	adv
 LR	swe	vafalls	adv	dan	hvad	adv-itg
 LR	swe	välan	adv	dan	vel	adv
 	swe	vara¹	$vblex	dan	være	$vbser
-	swe	ha	vbhaver$	dan	have	n-ut$
+	swe	ha	vblex$	dan	have	n-ut$
 	swe	skola¹	$vblex	dan	skulle	$vbmod
 	swe	vilja	n-ut$	dan	ville	$vaux
 	swe	böra	$vbmod	dan	burde	$vbmod
@@ -12614,9 +12614,9 @@ RL	swe	msk	abbr	dan	spsk	abbr
 RL	swe	tsk	abbr	dan	tsk.	abbr
 	swe	en klyfta	abbr	dan	en fed	abbr
 	swe	en nypa	abbr	dan	et gran	abbr
-	swe		det-qnt$	dan		det-qnt
+	swe		$det-qnt	dan		det-qnt
 	swe	-årige	det-qnt	dan	-årige	det-qnt
-	swe		det-qnt$	dan		det-qnt
+	swe		$det-qnt	dan		det-qnt
 	swe		sent	dan		sent
 	swe		lpar	dan		lpar
 	swe		rpar	dan		rpar
@@ -16489,7 +16489,7 @@ LR	swe	sid	n-ut	dan	side	n-ut
 	swe	sannolik	$adj$adj-sint	dan	sandsynlig	
 	swe	rofylld		dan	rolig	$adj
 	swe	sedig		dan	rolig	$adj
-	swe	rolig	$adj$adj-sint	dan	rolig	$adj
+	swe	rolig	$adj$adj-sint$adj-sint-pst	dan	rolig	$adj
 	swe	förtrolig	$adj	dan	fortrolig	
 	swe	förtrogen	$adj	dan	fortrolig	
 	swe	otrolig	$adj$adj-sint	dan	utrolig	$adj
@@ -16591,7 +16591,7 @@ LR	swe	sid	n-ut	dan	side	n-ut
 	swe	molnfri	$adj-sint	dan	skyfri	
 	swe	feg	$adj-sint	dan	fej	
 	swe	seg	$adj$adj-sint	dan	sej	$n-ut
-	swe	rolig	$adj$adj-sint	dan	sej	$n-ut
+	swe	rolig	$adj$adj-sint$adj-sint-pst	dan	sej	$n-ut
 	swe	cool	$adj-sint	dan	sej	$n-ut
 	swe	skyhög		dan	skyhøj	
 	swe	dryg	$adj$adj-sint	dan	drøj	
@@ -16655,7 +16655,7 @@ LR	swe	sid	n-ut	dan	side	n-ut
 	swe	eventuell	adj$$adj-sint	dan	eventuel	$adj
 	swe	virtuell	$adj$adj-sint	dan	virtuel	$adj
 	swe	seg	$adj$adj-sint	dan	cool	
-	swe	rolig	$adj$adj-sint	dan	cool	
+	swe	rolig	$adj$adj-sint$adj-sint-pst	dan	cool	
 	swe	stressig		dan	travl	$adj
 	swe	förnämlig		dan	fornem	
 	swe	extrem	adj$$adj-sint	dan	ekstrem	$n-nt
@@ -20648,7 +20648,7 @@ RL	swe	växa	$vblex	dan	forhøje	$vblex
 	swe	tjära	$n-ut	dan	tjære	$n-ut
 	swe	beskära	$vblex	dan	skære	
 	swe	kringskära		dan	skære	
-	swe	skära	$n-ut	dan	skære	
+	swe	skära	$vblex	dan	skære	
 	swe	blåsa	$vblex	dan	blære	$n-ut
 	swe	inlära		dan	indlære	
 	swe	predika	$vblex	dan	belære	

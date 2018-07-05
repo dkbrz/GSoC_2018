@@ -130,7 +130,7 @@ RL	kaz		$sent	tur	ма	qst
 	kaz	қанша	det-qnt$det	tur	kaç	det-qnt
 	kaz	барлық	det-qnt$det	tur	tüm	det$det-qnt$
 	kaz	әр	det-qnt$det	tur	her	det$det-dem
-	kaz	көптеген	det-qnt$det	tur	birçok	det$det-qnt
+	kaz	көптеген	det-qnt$det	tur	birçok	det-qnt$det
 	kaz	көп	det-qnt	tur	çok	det$det-qnt
 	kaz	кейбір	det-ind$det	tur	bazı	det-qnt$det
 	kaz	кейбір	det-ind$det	tur	birkaç	det-ind$det
@@ -5854,7 +5854,7 @@ LR	kaz	гөрі	post	tur		$num$num-card-sg-nom
 	kaz	әзірше	adv	tur	henüz	adv
 	kaz	әзірше	adv	tur	şimdilik	adv
 	kaz	бірге	adv	tur	beraber	adv$
-	kaz	біраз	adv	tur	biraz	adv
+	kaz	біраз	adv	tur	biraz	adv$
 	kaz	қайта	adv	tur	tekrar	adv
 	kaz	кейде	adv	tur	bazen	adv
 	kaz	сондай-ақ	cnjcoo	tur	daha	adv$
@@ -6849,7 +6849,7 @@ LR	kaz	мм	n$n-nom	tur	mm	n-nom
 	kaz	төбелес	n	tur	dövüş	n
 	kaz	Еуровидение	np-al	tur	Eurovision	np-al
 	kaz	ӘЧ	np-al	tur	Dünya Şampiyonası	np-al
-	kaz	ешқандай	det-neg$det	tur	hiçbir	det$det-qnt
+	kaz	ешқандай	det-neg$det	tur	hiçbir	det-qnt$det
 	kaz	жабдық	n$n-pl	tur	alet	n$
 	kaz	Жабдық	n	tur	cihaz	n$
 	kaz	жабдық	n$n-pl	tur	ekipman	n$

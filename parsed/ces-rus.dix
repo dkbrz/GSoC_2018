@@ -152,12 +152,12 @@
 	ces	tvůj	prn-pos$prn-pos-nm$prn-pos-uns-nm	rus	твой	prn-pos$prn
 	ces	nikdo	prn-ind-ma$prn$prn-ind	rus	никто	prn-neg$prn
 	ces	svůj	prn-pos$prn-pos-nm$prn-pos-uns-nm	rus	свой	prn-pos
-	ces	mnoho	prn-ind$prn-ind-ma	rus	много	prn$prn-ind
+	ces	mnoho	prn-ind$prn-ind-mf	rus	много	prn$prn-ind
 	ces	jaký	prn-itg$prn-itg-ma	rus	какой	prn-itg$prn$prn-itg-m-an
 	ces	některý	prn-ind$prn-ind-ma	rus	некоторый	prn$prn-ind
 	ces	každý	prn-ind-ma-sg$prn-ind	rus	всякий	prn$prn-ind
 	ces	nic	prn-ind-nt$prn-ind$prn-ind-nt-sg	rus	ничто	prn-neg$prn-neg-nt-nn$prn
-	ces	mnoho	prn-ind$prn-ind-ma	rus	многие	prn-ind-pl$prn-ind$prn-ind-mfn-aa-pl-acc
+	ces	mnoho	prn-ind$prn-ind-mf	rus	многие	prn-ind-pl$prn-ind$prn-ind-mfn-aa-pl-acc
 	ces	něco	prn-ind$prn-ind-nt	rus	что-то	prn-ind$prn-ind-nt$prn
 	ces	kdo	prn-itg$prn-itg-ma	rus	кто	prn-itg$prn-itg-m-aa$prn$prn-itg-aa
 	ces	váš	prn-pos$prn-pos-ma	rus	ваш	prn-pos$prn
@@ -185,7 +185,7 @@
 	ces	oba	prn-ind$prn-ind-ma	rus	оба	prn$prn-ind
 	ces	oba	det-ind$det-ind-ma	rus	оба	prn$prn-ind
 	ces	všechen	prn$prn-ind$prn-ind-ma-pl	rus	весь	prn-ind
-	ces	kolik	prn-ind-ma$prn-ind	rus	сколько	prn$prn-itg$prn-itg-mfn-sg$prn-itg-mfn-sg-nom
+	ces	kolik	prn-ind-mf$prn-ind	rus	сколько	prn$prn-itg$prn-itg-mfn-sg$prn-itg-mfn-sg-nom
 	ces	několik	prn-ind$prn-ind-ma	rus	несколько	adv
 	ces	žádný	prn-ind$prn$prn-ind-sg	rus	никакой	prn$prn-ind
 	ces	kde	rel-adv$adv	rus	где	adv-itg$adv
@@ -204,7 +204,7 @@
 	ces	patnáctý	det-ord	rus	пятнадцатый	det-ord$det-ord-m-an-sg-nom
 	ces	dvoutisící	det-ord	rus	двухтысячный	det-ord
 	ces	pátý	det-ord	rus	пятый	det-ord$det-ord-m-an-sg-nom
-	ces	každý	det-ind-nm-pl$det-ind	rus	каждый	det-def$det-def-m-an-sg-nom$det-def-m-an
+	ces	každý	det-ind-ma-sg$det-ind	rus	каждый	det-def$det-def-m-an-sg-nom$det-def-m-an
 	ces	jaký	prn-itg$prn-itg-ma	rus	какой	det-itg$det-itg-m-an-sg-nom
 	ces	osmý	det-ord	rus	восьмой	det-ord$det-ord-m-an-sg-nom
 	ces	nějaký	prn-ind$prn$prn-ind-ma	rus	какой-либо	det-ind
@@ -218,7 +218,7 @@
 	ces	takový	det-dem-nm-pl$det-dem$det-dem-nm	rus	такой	det-dem
 	ces	padesátý	det-ord	rus	пятидесятый	det-ord$det-ord-m-an-sg-nom
 	ces	náš	det-pos$det-pos-ma	rus	наш	det-pos$det-pos-m-sg$det-pos-m-sg-nom
-	ces	kolik	det-qnt-ma$det-qnt	rus	сколько	det-qnt$det$det-qnt-mfn-sg
+	ces	kolik	det-qnt-mf$det-qnt	rus	сколько	det-qnt$det$det-qnt-mfn-sg
 	ces	třicátý	det-ord	rus	тридцатый	det-ord$det-ord-m-an-sg-nom
 	ces	třináctý	det-ord	rus	тринадцатый	det-ord$det-ord-m-an-sg-nom
 	ces	který	prn-itg$prn-itg-ma	rus	который	det-itg
@@ -227,7 +227,7 @@
 	ces	šestý	det-ord	rus	шестой	det-ord$det-ord-m-an-sg-nom
 	ces	svůj	det-pos$det-pos-ma$det-pos-uns-ma	rus	свой	det-pos$det-pos-m-an-sg-nom$det
 	ces	stý	det-ord	rus	сотый	det-ord$det-ord-m-an-sg-nom
-	ces	mnoho	det-qnt$det-qnt-nm	rus	много	det-qnt$det-qnt-mfn-an-pl-nom
+	ces	mnoho	det-qnt$det-qnt-mf	rus	много	det-qnt$det-qnt-mfn-an-pl-nom
 	ces	jiný	det-ind$det-ind-ma	rus	иной	det-ind
 	ces	sedmitisící	det-ord	rus	семитысячный	det-ord
 	ces	první	det-ord	rus	первый	det-ord$det-ord-m-an-sg-nom
@@ -254,62 +254,62 @@
 	ces	jiný	det-ind$det-ind-ma	rus	другой	det-ind$det-ind-m$det-ind-m-an-sg-nom
 	ces	takový	det-dem-nm-pl$det-dem$det-dem-nm	rus	такой	det-ind$det-ind-m-sg-nom
 	ces	všechen	det-ind-nt-sg$det-ind-nt$det-ind	rus	весь	det-ind$det-ind-mfn-an-pl-nom$det$det-ind-mfn
-	ces	každý	det-ind-nm-pl$det-ind	rus	каждый	det-def$det-def-m-an-sg-nom$det-def-m-an
+	ces	každý	det-ind-ma-sg$det-ind	rus	каждый	det-def$det-def-m-an-sg-nom$det-def-m-an
 	ces	druhý	det-ord	rus	второй	det-ord$det-ord-m-an-sg-nom
 	ces	sedmý	det-ord	rus	седьмой	det-ord$det-ord-m-an-sg-nom
 	ces	dvě stě	num-qnt-ma$num	rus	двести	num$num-mfn-pl-nom
-	ces	tři sta	num-qnt-nm$num	rus	триста	num$num-mfn-pl-nom
-	ces	deset	num-qnt$num-qnt-nm	rus	десятеро	num-coll$num-coll-mfn
+	ces	tři sta	num-qnt-mf$num	rus	триста	num$num-mfn-pl-nom
+	ces	deset	num-qnt$num-qnt-mf	rus	десятеро	num-coll$num-coll-mfn
 	ces	dva	num$num-ma	rus	два	num$num-GD-AD-sg-CD$num-GD
-	ces	devět	num-qnt$num-qnt-nm	rus	девятеро	num-coll
-	ces	devatenáct	num-qnt-nm$num-qnt	rus	девятнадцать	num$num-mfn-pl-nom
-	ces	šedesát	num-qnt-nm$num-qnt	rus	шестьдесят	num
-	ces	devět	num-qnt$num-qnt-nm	rus	девять	num$num-mfn-pl-nom
-	ces	pět	num$num-qnt$num-qnt-nm	rus	пять	num$num-GD
-	ces	třináct	num-qnt-nm$num-qnt	rus	тринадцать	num$num-mfn-pl-acc$num-mfn
+	ces	devět	num-qnt$num-qnt-mf	rus	девятеро	num-coll
+	ces	devatenáct	num-qnt-mf$num-qnt	rus	девятнадцать	num$num-mfn-pl-nom
+	ces	šedesát	num-qnt-mf$num-qnt	rus	шестьдесят	num
+	ces	devět	num-qnt$num-qnt-mf	rus	девять	num$num-mfn-pl-nom
+	ces	pět	num$num-qnt$num-qnt-mf	rus	пять	num$num-GD
+	ces	třináct	num-qnt-mf$num-qnt	rus	тринадцать	num$num-mfn-pl-acc$num-mfn
 	ces	osm set	num-qnt	rus	восемьсот	num$num-mfn-pl-nom
-	ces	sto	num-qnt$num-qnt-nm	rus	сто	num$num-mfn-sg$num-mfn-sg-nom
-	ces	sedmnáct	num-qnt-nm$num-qnt	rus	семнадцать	num
+	ces	sto	num-qnt$num-qnt-mf	rus	сто	num$num-mfn-sg$num-mfn-sg-nom
+	ces	sedmnáct	num-qnt-mf$num-qnt	rus	семнадцать	num
 	ces	tři	num$num-mf	rus	три	num$num-mfn-pl
-	ces	čtyřicet	num-qnt-nm$num-qnt	rus	сорок	num$num-mfn$num-mfn-pl-nom
-	ces	šest	num-qnt$num$num-qnt-nm	rus	шесть	num$num-mfn$num-mfn-pl-nom
-	ces	osm	num-qnt$num-qnt-nm	rus	восьмеро	num-coll$num-coll-mfn
-	ces	osm	num-qnt$num-qnt-nm	rus	восемь	num$num-mfn-pl-CD
-	ces	deset	num-qnt$num-qnt-nm	rus	десять	num$num-mfn$num-mfn-pl$num-mfn-pl-nom
+	ces	čtyřicet	num-qnt-mf$num-qnt	rus	сорок	num$num-mfn$num-mfn-pl-nom
+	ces	šest	num-qnt$num$num-qnt-mf	rus	шесть	num$num-mfn$num-mfn-pl-nom
+	ces	osm	num-qnt$num-qnt-mf	rus	восьмеро	num-coll$num-coll-mfn
+	ces	osm	num-qnt$num-qnt-mf	rus	восемь	num$num-mfn-pl-CD
+	ces	deset	num-qnt$num-qnt-mf	rus	десять	num$num-mfn$num-mfn-pl$num-mfn-pl-nom
 	ces	jeden	num$num-mi	rus	один	num$num-m-an-sg-nom
-	ces	sedm	num-qnt$num-qnt-nm	rus	семь	num$num-mfn-pl-nom
-	ces	šest	num-qnt$num$num-qnt-nm	rus	шестеро	num-coll$num-coll-mfn$num-coll-mfn-an-pl-nom
+	ces	sedm	num-qnt$num-qnt-mf	rus	семь	num$num-mfn-pl-nom
+	ces	šest	num-qnt$num$num-qnt-mf	rus	шестеро	num-coll$num-coll-mfn$num-coll-mfn-an-pl-nom
 	ces	sedm set	num-qnt	rus	семьсот	num$num-mfn-pl-nom
 	ces	pět set	num-qnt	rus	пятьсот	num$num-mfn-pl-nom
-	ces	dvanáct	num-qnt-nm$num-qnt	rus	двенадцать	num$num-mfn-pl-nom
+	ces	dvanáct	num-qnt-mf$num-qnt	rus	двенадцать	num$num-mfn-pl-nom
 	ces	čtyři	num-mf$num	rus	четверо	num-coll$num-coll-mfn$num-coll-mfn-an-pl$num-coll-mfn-an-pl-nom
-	ces	čtyři sta	num-qnt-nm$num	rus	четыреста	num$num-mfn-pl-nom
-	ces	šestnáct	num-qnt-nm$num-qnt	rus	шестнадцать	num$num-mfn-pl-nom
-	ces	padesát	num-qnt-nm$num-qnt	rus	пятьдесят	num$num-mfn-sg-CD
+	ces	čtyři sta	num-qnt-mf$num	rus	четыреста	num$num-mfn-pl-nom
+	ces	šestnáct	num-qnt-mf$num-qnt	rus	шестнадцать	num$num-mfn-pl-nom
+	ces	padesát	num-qnt-mf$num-qnt	rus	пятьдесят	num$num-mfn-sg-CD
 	ces	tři	num$num-mf	rus	трое	num-coll$num-coll-mfn-an-pl-nom
-	ces	čtrnáct	num-qnt-nm$num-qnt	rus	четырнадцать	num$num-mfn-pl-nom
-	ces	sedmdesát	num-qnt-nm$num-qnt	rus	семьдесят	num
+	ces	čtrnáct	num-qnt-mf$num-qnt	rus	четырнадцать	num$num-mfn-pl-nom
+	ces	sedmdesát	num-qnt-mf$num-qnt	rus	семьдесят	num
 	ces	šest set	num-qnt	rus	шестьсот	num$num-mfn-pl-nom
-	ces	devadesát	num-qnt-nm$num-qnt	rus	девяносто	num$num-mfn-pl-nom
-	ces	třicet	num-qnt-nm$num-qnt	rus	тридцать	num$num-mfn$num-mfn-pl-nom
-	ces	osmdesát	num-qnt-nm$num-qnt	rus	восемьдесят	num
+	ces	devadesát	num-qnt-mf$num-qnt	rus	девяносто	num$num-mfn-pl-nom
+	ces	třicet	num-qnt-mf$num-qnt	rus	тридцать	num$num-mfn$num-mfn-pl-nom
+	ces	osmdesát	num-qnt-mf$num-qnt	rus	восемьдесят	num
 	ces	čtyři	num-mf$num	rus	четыре	num$num-mfn-sg-CD
-	ces	dvacet	num-qnt-nm$num-qnt	rus	двадцать	num$num-mfn-pl-nom
-	ces	pět	num$num-qnt$num-qnt-nm	rus	пятеро	num-coll$num-coll-mfn-an-pl-nom
-	ces	jedenáct	num-qnt$num-qnt-nm	rus	одиннадцать	num$num-mfn-pl-acc$num-mfn-pl
+	ces	dvacet	num-qnt-mf$num-qnt	rus	двадцать	num$num-mfn-pl-nom
+	ces	pět	num$num-qnt$num-qnt-mf	rus	пятеро	num-coll$num-coll-mfn-an-pl-nom
+	ces	jedenáct	num-qnt$num-qnt-mf	rus	одиннадцать	num$num-mfn-pl-acc$num-mfn-pl
 	ces	dva	num$num-ma	rus	двое	num-coll$num-coll-mfn$num-coll-mfn-an-pl-nom
-	ces	patnáct	num-qnt-nm$num-qnt	rus	пятнадцать	num$num-mfn-pl-nom
-	ces	osmnáct	num-qnt-nm$num-qnt	rus	восемнадцать	num$num-mfn-pl-nom
-	ces	jedenáct	num-qnt$num-qnt-nm	rus	одиннадцатеро	num-coll
+	ces	patnáct	num-qnt-mf$num-qnt	rus	пятнадцать	num$num-mfn-pl-nom
+	ces	osmnáct	num-qnt-mf$num-qnt	rus	восемнадцать	num$num-mfn-pl-nom
+	ces	jedenáct	num-qnt$num-qnt-mf	rus	одиннадцатеро	num-coll
 	ces	tři	num-qnt	rus	три	num$num-mfn-pl
 	ces	čtyři	num-qnt	rus	четыре	num$num-mfn-sg-CD
-	ces	pět	num$num-qnt$num-qnt-nm	rus	пять	num$num-GD
-	ces	šest	num-qnt$num$num-qnt-nm	rus	шесть	num$num-mfn$num-mfn-pl-nom
-	ces	sedm	num-qnt$num-qnt-nm	rus	семь	num$num-mfn-pl-nom
-	ces	osm	num-qnt$num-qnt-nm	rus	восемь	num$num-mfn-pl-CD
-	ces	devět	num-qnt$num-qnt-nm	rus	девять	num$num-mfn-pl-nom
-	ces	deset	num-qnt$num-qnt-nm	rus	десять	num$num-mfn$num-mfn-pl$num-mfn-pl-nom
-	ces	sto	num-qnt$num-qnt-nm	rus	сто	num$num-mfn-sg$num-mfn-sg-nom
+	ces	pět	num$num-qnt$num-qnt-mf	rus	пять	num$num-GD
+	ces	šest	num-qnt$num$num-qnt-mf	rus	шесть	num$num-mfn$num-mfn-pl-nom
+	ces	sedm	num-qnt$num-qnt-mf	rus	семь	num$num-mfn-pl-nom
+	ces	osm	num-qnt$num-qnt-mf	rus	восемь	num$num-mfn-pl-CD
+	ces	devět	num-qnt$num-qnt-mf	rus	девять	num$num-mfn-pl-nom
+	ces	deset	num-qnt$num-qnt-mf	rus	десять	num$num-mfn$num-mfn-pl$num-mfn-pl-nom
+	ces	sto	num-qnt$num-qnt-mf	rus	сто	num$num-mfn-sg$num-mfn-sg-nom
 	ces	takže	cnjadv	rus	поэтому	adv
 	ces	tisíc	n-mi	rus	тысяча	num$num-f-nn$num-f-nn-sg-nom
 	ces	univerzita	n-f	rus	университет	n-m-nn$n$n-m
@@ -535,7 +535,7 @@
 	ces	název	n-mi	rus	имя	n-nt-nn$n$n-nt
 	ces	název	n-mi	rus	название	n-nt-nn$n
 	ces	nebezpečí	n-mi	rus	опасность	n-f-nn$n
-	ces	nebe	n-nt-sg$n-nt	rus	небо	n-nt-nn$n$n-nt
+	ces	nebe	n-nt$n-nt-sg	rus	небо	n-nt-nn$n$n-nt
 	ces	neděle	n-f	rus	воскресенье	n-nt-nn$n
 	ces	nedostatek	n-mi	rus	недостаток	n-m-nn$n
 	ces	neštěstí	n-nt	rus	беда	n-f-nn
@@ -1015,7 +1015,7 @@
 	ces	základ	n-mi	rus	основа	n-f-nn$n$n-f
 	ces	zpráva	n-f	rus	доклад	n-m-nn$n$n-m
 	ces	zpráva	n-f	rus	отчет	n-m-nn
-	ces	člověk	n-ma-sg$n-ma	rus	человек	n-m-aa$n$n-m$n-m-aa-pl
+	ces	člověk	n-ma$n-ma-sg	rus	человек	n-m-aa$n$n-m$n-m-aa-pl
 	ces	náklad	n-mi	rus	груз	n-m-nn$n
 	ces	kontrola	n-f	rus	контроль	n-m-nn$n
 	ces	kurs	n-mi	rus	курс	n-m-nn
@@ -1381,7 +1381,7 @@
 	ces	poprava	n-f	rus	казнь	n-f-nn
 	ces	lekce	n-f	rus	урок	n-m-nn$n
 	ces	suma	n-f	rus	сумма	n-f-nn$n
-	ces	srážka	n$n-f	rus	конфликт	n-m-nn$n$n-m
+	ces	srážka	n-f$n	rus	конфликт	n-m-nn$n$n-m
 	ces	profese	n-f	rus	профессия	n-f-nn$n
 	ces	kříž	n-mi	rus	крест	n-m-nn
 	ces	klient	n-ma	rus	клиент	n-m-aa$n
@@ -2011,7 +2011,7 @@
 	ces	dítě	n-nt	rus	младенец	n-m-aa$n
 	ces	dítě	n-nt	rus	ребёнок	n-m-aa$n$n-m
 	ces	dělník	n-ma	rus	рабочий	adj-m-nn
-	ces	člověk	n-ma-sg$n-ma	rus	человек	n-m-aa$n$n-m$n-m-aa-pl
+	ces	člověk	n-ma$n-ma-sg	rus	человек	n-m-aa$n$n-m$n-m-aa-pl
 	ces	čas	n-mi	rus	время	n-nt-nn$nt$n-nt
 	ces	boj	n-mi	rus	битва	n-f-nn$n
 	ces	boj	n-mi	rus	бой	n-m-aa$n
@@ -3556,7 +3556,7 @@
 	ces	recept	n-mi	rus	рецепт	n-m-nn$n
 	ces	recese	n-f	rus	рецессия	n-f-nn
 	ces	recidiva	n-f	rus	рецидив	n-m-nn
-	ces	řečiště	n$n-nt	rus	русло	n-nt-nn$n
+	ces	řečiště	n-nt$n	rus	русло	n-nt-nn$n
 	ces	řečník	n-ma	rus	оратор	n-m-aa$n
 	ces	redistribuce	n-f	rus	перераспределение	n-nt-nn
 	ces	redukce	n-f	rus	сокращение	n-nt-nn$n
@@ -4257,7 +4257,7 @@
 	ces	Jakob	np-ant-ma	rus	Яков	np-ant-m
 	ces	Kuba	np-ant-ma	rus	Яков	np-ant-m
 	ces	Marie	np-ant-f	rus	Маша	np-ant-f$np-ant
-	ces	vysoký	adj-sint$adj	rus	высокий	adj-sint$adj
+	ces	vysoký	adj$adj-sint	rus	высокий	adj-sint$adj
 	ces	starý	adj$adj-sint	rus	старый	adj-sint$adj
 	ces	syrský	adj	rus	сирийский	adj
 	ces	ruský	adj	rus	русский	adj$adj-sint
@@ -4310,7 +4310,7 @@
 	ces	jistý	adj-sint	rus	верный	adj-sint$adj
 	ces	jistý	adj-sint	rus	некоторый	adj-sint$adj
 	ces	legitimní	adj	rus	законный	adj$adj-sint
-	ces	malý	adj-sint$adj$adj-sint-mi	rus	маленький	adj-sint$adj
+	ces	malý	adj$adj-sint$adj-sint-mi	rus	маленький	adj-sint$adj
 	ces	mizerný	adj$adj-sint	rus	жалкий	adj-sint$adj
 	ces	mnohý	adj	rus	многий	adj
 	ces	nadaný	adj-sint	rus	талантливый	adj-sint$adj
@@ -4343,7 +4343,7 @@
 	ces	pružný	adj-sint	rus	гибкий	adj-sint$adj
 	ces	řízený	adj-sint	rus	управляемый	adj-sint$adj
 	ces	rodilý	adj	rus	коренной	adj$adj-sint
-	ces	rodinný	adj$adj-sint	rus	семейный	adj-sint$adj
+	ces	rodinný	adj-sint$adj	rus	семейный	adj-sint$adj
 	ces	rozpočtový	adj-sint	rus	бюджетный	adj-sint$adj
 	ces	schopný	adj$adj-sint	rus	способный	adj-sint$adj
 	ces	silný	adj-sint$adj	rus	крепкий	adj-sint$adj
@@ -4920,7 +4920,7 @@
 	ces	znovu	adv	rus	снова	adv
 	ces	zřejmě	adv$adv-sint	rus	очевидно	adv
 	ces	bedlivě	adv-sint	rus	внимательно	adv
-	ces	bezprostředně	adv$adv-sint	rus	непосредственно	adv
+	ces	bezprostředně	adv-sint$adv	rus	непосредственно	adv
 	ces	často	adv-sint	rus	часто	adv
 	ces	celkem	adv	rus	весьма	adv
 	ces	daleko	adv-sint$adv-sint-comp	rus	гораздо	adv
@@ -4928,14 +4928,14 @@
 	ces	daleko	adv-sint$adv-sint-comp	rus	далее	adv
 	ces	daleko	adv-sint$adv-sint-comp	rus	ещё	adv
 	ces	dávno	adv$adv-sint	rus	давно	adv
-	ces	definitivně	adv$adv-sint	rus	окончательно	adv
+	ces	definitivně	adv-sint$adv	rus	окончательно	adv
 	ces	dobře	adv-sint$adv	rus	прекрасно	adv
 	ces	dobře	adv-sint$adv	rus	хорошо	adv
-	ces	dodatečně	adv$adv-sint	rus	впоследствии	adv
+	ces	dodatečně	adv-sint$adv	rus	впоследствии	adv
 	ces	doma	adv	rus	дома	adv
 	ces	vpravo	adv$adv-sint	rus	вправо	adv
 	ces	důkladně	adv$adv-sint	rus	тщательно	adv
-	ces	evidentně	adv$adv-sint	rus	очевидно	adv
+	ces	evidentně	adv-sint$adv	rus	очевидно	adv
 	ces	hodně	adv$adv-sint$adv-sint-comp	rus	много	adv
 	ces	hojně	adv-sint	rus	много	adv
 	ces	hustě	adv-sint	rus	густо	adv
@@ -4949,10 +4949,10 @@
 	ces	mimořádně	adv$adv-sint	rus	чрезвычайно	adv
 	ces	možná	adv	rus	возможно	adv
 	ces	následně	adv-sint$adv	rus	впоследствии	adv
-	ces	obdobně	adv$adv-sint	rus	подобно	adv
+	ces	obdobně	adv-sint$adv	rus	подобно	adv
 	ces	obecně	adv-sint	rus	вообще	adv
-	ces	obráceně	adv$adv-sint	rus	наоборот	adv
-	ces	odděleně	adv$adv-sint	rus	отдельно	adv
+	ces	obráceně	adv-sint$adv	rus	наоборот	adv
+	ces	odděleně	adv-sint$adv	rus	отдельно	adv
 	ces	oficiálně	adv-sint	rus	официально	adv
 	ces	okamžitě	adv$adv-sint	rus	мгновенно	adv
 	ces	okamžitě	adv$adv-sint	rus	немедленно	adv
@@ -4960,15 +4960,15 @@
 	ces	otevřeně	adv-sint	rus	открыто	adv
 	ces	pečlivě	adv-sint	rus	аккуратно	adv
 	ces	pečlivě	adv-sint	rus	тщательно	adv
-	ces	podobně	adv$adv-sint	rus	подобно	adv
+	ces	podobně	adv-sint$adv	rus	подобно	adv
 	ces	podrobně	adv-sint	rus	подробно	adv
 	ces	podstatně	adv$adv-sint	rus	значительно	adv
-	ces	postupně	adv$adv-sint	rus	постепенно	adv
+	ces	postupně	adv-sint$adv	rus	постепенно	adv
 	ces	pozdě	adv-sint	rus	поздно	adv
 	ces	pravděpodobně	adv-sint$adv	rus	вероятно	adv
-	ces	přibližně	adv$adv-sint	rus	грубо	adv
+	ces	přibližně	adv-sint$adv	rus	грубо	adv
 	ces	radostně	adv-sint	rus	радостно	adv
-	ces	relativně	adv$adv-sint	rus	относительно	adv
+	ces	relativně	adv-sint$adv	rus	относительно	adv
 	ces	stejně	adv-sint$adv	rus	одинаково	adv
 	ces	stejně	adv-sint$adv	rus	подобно	adv
 	ces	stejně	adv-sint$adv	rus	также	adv
@@ -4976,15 +4976,15 @@
 	ces	těžko	adv$adv-sint	rus	трудно	adv
 	ces	úplně	adv-sint$adv	rus	абсолютно	adv
 	ces	úplně	adv-sint$adv	rus	полностью	adv
-	ces	ustavičně	adv$adv-sint	rus	постоянно	adv
-	ces	věčně	adv$adv-sint	rus	вечно	adv
+	ces	ustavičně	adv-sint$adv	rus	постоянно	adv
+	ces	věčně	adv-sint$adv	rus	вечно	adv
 	ces	věrně	adv-sint	rus	верно	adv
 	ces	viditelně	adv-sint	rus	заметно	adv
 	ces	vlastně	adv	rus	именно	adv
-	ces	významně	adv$adv-sint	rus	значительно	adv
+	ces	významně	adv-sint$adv	rus	значительно	adv
 	ces	zhruba	adv	rus	приблизительно	adv
 	ces	značně	adv-sint	rus	значительно	adv
-	ces	znatelně	adv$adv-sint	rus	заметно	adv
+	ces	znatelně	adv-sint$adv	rus	заметно	adv
 	ces	zpět	adv	rus	назад	adv
 	ces	zřetelně	adv-sint	rus	отчетливо	adv
 	ces	zřetelně	adv-sint	rus	очевидно	adv
@@ -5012,8 +5012,8 @@
 	ces	aplikovat	vblex-impf	rus	применять	vblex-impf-tv$vblex-impf
 	ces	aspirovat	vblex-impf	rus	стремиться	vblex-impf-tv
 	ces	běžet	vblex-impf	rus	бежать	vblex-impf$vblex-impf-iv
-	ces	bít	vblex$vblex-impf	rus	бить	vblex-impf$vblex-impf-tv
-	ces	bít	vblex$vblex-impf	rus	биться	vblex-impf-tv
+	ces	bít	vblex-impf$vblex	rus	бить	vblex-impf$vblex-impf-tv
+	ces	bít	vblex-impf$vblex	rus	биться	vblex-impf-tv
 	ces	bojovat	vblex$vblex-impf	rus	бороться	vblex-impf$vblex-impf-iv
 	ces	budovat	vblex-impf	rus	создавать	vblex-impf-tv$vblex-impf
 	ces	budovat	vblex-impf	rus	строить	vblex-impf$vblex-impf-tv
@@ -5021,8 +5021,8 @@
 	ces	cestovat	vblex-impf	rus	ездить	vblex-impf-iv$vblex-impf
 	ces	chápat	vblex$vblex-impf	rus	воспринимать	vblex-impf-tv$vblex-impf
 	ces	chápat	vblex$vblex-impf	rus	понимать	vblex-impf$vblex-impf-tv
-	ces	chtít	vblex-impf	rus	желать	vblex-impf-tv$vblex-impf
-	ces	chtít	vblex-impf	rus	хотеть	vbmod-impf
+	ces	chtít	vblex$vblex-impf	rus	желать	vblex-impf-tv$vblex-impf
+	ces	chtít	vblex$vblex-impf	rus	хотеть	vbmod-impf
 	ces	číst	vblex-impf	rus	читать	vblex-impf-tv$vblex-impf
 	ces	darovat	vblex-impf	rus	подарить	vblex-perf-tv$vblex-perf$vblex-perf-tv-past
 	ces	dávat	vblex-impf	rus	давать	vblex-impf-tv$vblex-impf
@@ -5030,8 +5030,8 @@
 	ces	definovat	vblex-impf	rus	определить	vblex-perf-tv$vblex-perf
 	ces	definovat	vblex-impf	rus	определять	vblex-impf-tv$vblex-impf
 	ces	děkovat	vblex-impf	rus	благодарить	vblex-impf-tv$vblex-impf
-	ces	dělat	vblex$vblex-impf	rus	выполнять	vblex-impf-tv$vblex-impf
-	ces	dělat	vblex$vblex-impf	rus	делать	vblex-impf-tv$vblex-impf
+	ces	dělat	vblex-impf$vblex	rus	выполнять	vblex-impf-tv$vblex-impf
+	ces	dělat	vblex-impf$vblex	rus	делать	vblex-impf-tv$vblex-impf
 	ces	demonstrovat	vblex-impf	rus	демонстрировать	vblex-impf-tv$vblex-impf
 	ces	disponovat	vblex-impf	rus	обладать	vblex-impf-iv$vblex-impf
 	ces	dívat	vblex-impf	rus	смотреть	vblex-impf-tv$vblex-impf
@@ -5045,8 +5045,8 @@
 	ces	dovolovat	vblex-impf	rus	позволять	vblex-impf-tv$vblex-impf
 	ces	dozvědět	vblex-impf	rus	узнать	vblex-perf$vblex-perf-tv
 	ces	dráždit	vblex$vblex-impf	rus	раздражать	vblex-impf$vblex-impf-tv
-	ces	existovat	vblex-impf	rus	быть	vbser$vbser-adj
-	ces	existovat	vblex-impf	rus	существовать	vblex-impf-iv$vblex-impf
+	ces	existovat	vblex$vblex-impf	rus	быть	vbser$vbser-adj
+	ces	existovat	vblex$vblex-impf	rus	существовать	vblex-impf-iv$vblex-impf
 	ces	explodovat	vblex-impf	rus	взорваться	vblex-perf-iv$vblex-perf
 	ces	formovat	vblex-impf	rus	создавать	vblex-impf-tv$vblex-impf
 	ces	fungovat	vblex-impf	rus	действовать	vblex-impf-iv$vblex-impf
@@ -5061,9 +5061,9 @@
 	ces	jít	vblex-impf	rus	идти	vblex-impf$vblex-impf-iv
 	ces	jít	vblex-impf	rus	касаться	vblex-impf$vblex-impf-iv
 	ces	klamat	vblex-impf	rus	обманывать	vblex-impf-tv$vblex-impf
-	ces	konat	vblex$vblex-impf	rus	быть	vbser$vbser-adj
-	ces	konat	vblex$vblex-impf	rus	действовать	vblex-impf-iv$vblex-impf
-	ces	konat	vblex$vblex-impf	rus	делать	vblex-impf-tv$vblex-impf
+	ces	konat	vblex-impf$vblex	rus	быть	vbser$vbser-adj
+	ces	konat	vblex-impf$vblex	rus	действовать	vblex-impf-iv$vblex-impf
+	ces	konat	vblex-impf$vblex	rus	делать	vblex-impf-tv$vblex-impf
 	ces	kontrolovat	vblex-impf	rus	контролировать	vblex-impf-tv$vblex-impf
 	ces	kupovat	vblex$vblex-impf	rus	покупать	vblex-impf$vblex-impf-tv
 	ces	lamentovat	vblex-impf	rus	жаловаться	vblex-impf-tv
@@ -5116,9 +5116,9 @@
 	ces	podepsat	vblex-perf$vblex	rus	подписать	vblex-perf-tv$vblex-perf
 	ces	podívat	vblex-perf	rus	смотреть	vblex-impf-tv$vblex-impf
 	ces	podporovat	vblex-impf	rus	поддерживать	vblex-impf$vblex-impf-tv
-	ces	pokládat	vblex$vblex-impf	rus	полагать	vblex-impf$vblex-impf-tv
-	ces	pokládat	vblex$vblex-impf	rus	рассматривать	vblex-impf$vblex-impf-tv
-	ces	pokládat	vblex$vblex-impf	rus	считать	vblex-perf$vblex-perf-tv
+	ces	pokládat	vblex-impf$vblex	rus	полагать	vblex-impf$vblex-impf-tv
+	ces	pokládat	vblex-impf$vblex	rus	рассматривать	vblex-impf$vblex-impf-tv
+	ces	pokládat	vblex-impf$vblex	rus	считать	vblex-perf$vblex-perf-tv
 	ces	pokračovat	vblex-impf	rus	продолжать	vblex-impf$vblex-impf-tv
 	ces	pomáhat	vblex$vblex-impf	rus	поддерживать	vblex-impf$vblex-impf-tv
 	ces	pomáhat	vblex$vblex-impf	rus	помогать	vblex-impf-iv$vblex-impf
@@ -5143,7 +5143,7 @@
 	ces	přidávat	vblex$vblex-impf	rus	добавлять	vblex-impf-iv
 	ces	přijít	vblex-perf	rus	наступить	vblex-perf-iv$vblex-perf
 	ces	přijít	vblex-perf	rus	прийти	vblex-perf$vblex-perf-iv
-	ces	přinést	vblex-perf$vblex	rus	принести	vblex-impf-tv
+	ces	přinést	vblex-perf	rus	принести	vblex-impf-tv
 	ces	připomínat	vblex$vblex-impf	rus	напоминать	vblex-impf$vblex-impf-tv
 	ces	probíhat	vblex$vblex-impf	rus	идти	vblex-impf$vblex-impf-iv
 	ces	procházet	vblex$vblex-impf	rus	проходить	vblex-impf-tv
@@ -5197,7 +5197,7 @@
 	ces	uvítat	vblex-perf	rus	приветствовать	vblex-impf$vblex-impf-tv
 	ces	varovat	vblex-impf	rus	предупредить	vblex-perf-iv
 	ces	varovat	vblex-impf	rus	предупреждать	vblex-impf-tv$vblex-impf
-	ces	vědět	vblex-impf	rus	знать²	vblex-impf-tv
+	ces	vědět	vblex-impf$vblex	rus	знать²	vblex-impf-tv
 	ces	vejít	vblex-perf	rus	войти	vblex-perf$vblex-perf-iv
 	ces	věnovat	vblex-impf	rus	посвятить	vblex-perf$vblex-perf-tv
 	ces	věřit	vblex-impf	rus	верить	vblex-impf$vblex-impf-iv
@@ -5207,8 +5207,8 @@
 	ces	vítat	vblex$vblex-impf	rus	приветствовать	vblex-impf$vblex-impf-tv
 	ces	vlastnit	vblex$vblex-impf	rus	владеть	vblex-impf$vblex-impf-iv
 	ces	vnímat	vblex$vblex-impf	rus	воспринимать	vblex-impf-tv$vblex-impf
-	ces	volat	vblex$vblex-impf	rus	кричать	vblex-impf$vblex-impf-iv
-	ces	volat	vblex$vblex-impf	rus	призывать	vblex-impf-tv$vblex-impf
+	ces	volat	vblex-impf$vblex	rus	кричать	vblex-impf$vblex-impf-iv
+	ces	volat	vblex-impf$vblex	rus	призывать	vblex-impf-tv$vblex-impf
 	ces	vracet	vblex$vblex-impf	rus	возвращать	vblex-impf-iv$vblex-impf
 	ces	vybírat	vblex$vblex-impf	rus	выбирать	vblex-impf-tv$vblex-impf
 	ces	vyčkávat	vblex$vblex-impf	rus	ждать	vblex-impf-tv$vblex-impf

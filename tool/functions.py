@@ -139,11 +139,9 @@ class DictionaryStats:
         self.name2 = file.replace('.dix','').split('-')[1]
         self.mono1 = import_mono(self.name1)
         self.mono2 = import_mono(self.name2)
-        self.count1 = 0
-        self.count2 = 0
-        self.count = 0
-        self.set1 = set()
-        self.set2 = set()
+        self.count = [0,0,0] #both, LR, RL
+        #self.set1 = set()
+        #self.set2 = set()
         self.get_data()
     
     def get_data(self):
@@ -154,20 +152,27 @@ class DictionaryStats:
                     for word1, word2, side in parse_bidix (tree, self.name1, self.name2):
                         try:
                             word1, word2 = check (word1, word2, self.mono1, self.mono2)
-                            if word1 not in self.set1: 
-                                self.count1 += 1
-                                self.set1.add(word1)
-                            if word2 not in self.set2:
-                                self.count2 += 1
-                                self.set2.add(word2)   
-                            self.count += 1
+                            
+                            #if word1 not in self.set1: 
+                            #    self.count1 += 1
+                            #    self.set1.add(word1)
+                            #if word2 not in self.set2:
+                            #    self.count2 += 1
+                            #    self.set2.add(word2)   
+                            #self.count += 1
+                            if not side:
+                                self.count[0]+=1
+                            elif side == 'LR':
+                                self.count[1] += 1
+                            elif side == 'RL':
+                                self.count[2] += 1
                             string = str(side) + '\t' + word1.write(mode='bi') + '\t' + word2.write(mode='bi') + '\n'
                             copy.write(string)
                         except: pass
                 except: pass
             
     def get_stats(self):
-        return [self.count, self.count1/len(self.mono1), self.count1/len(self.mono2)]
+        return self.count
 
 # LOADING
 
@@ -514,7 +519,8 @@ def get_relevant_languages(source, target):
     with open ('./files/stats.csv', 'r', encoding='utf-8') as f:
         for line in f:
             data = line.split('\t')
-            coef = 1/log10(10+float(data[2])*float(data[3])*float(data[4]))
+            #coef = 1/log10(10+float(data[2])*float(data[3])*float(data[4]))
+            coef = 1/log10(10+float(data[2])+0.5*float(data[3])+0.5*float(data[4]))
             if coef < 1:
                 G.add_edge(data[0], data[1], weight=coef)
     result = {}
@@ -548,11 +554,12 @@ def check_graph(l1, l2, n=10):
     with open ('./files/stats.csv', 'r', encoding='utf-8') as f:
         for line in f:
             data = line.split('\t')
-            coef = 1/log10(10+float(data[2])*float(data[3])*float(data[4]))
+            coef = 1/log10(10+float(data[2])+0.5*float(data[3])+0.5*float(data[4]))
             if coef < 1:
                 G.add_edge(data[0], data[1], weight=coef)
-    if (l1, l2) in G.edges():
-        G.remove_edge(l1, l2)
+                #print (data[:2])
+    #if (l1, l2) in G.edges():
+    #    G.remove_edge(l1, l2)
     with open ('language_list.csv','r',encoding='utf-8') as f:
         languages = set([i.split('\t')[1].strip() for i in islice(f.readlines(), 0, n)])
     languages = languages | set([l1,l2])

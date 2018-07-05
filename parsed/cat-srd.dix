@@ -277,18 +277,18 @@ RL	cat	lloc	n-m$n	srd	situ	n-m
 	cat	llapis	n-m-sp$n-m	srd	lapis	n-m
 	cat	casa	n-f$n	srd	domo	n-f
 	cat	obediència	n-f$n	srd	obbedièntzia	n-f
-	cat	insistència	n$n-f	srd	insistèntzia	n-f
+	cat	insistència	n-f$n	srd	insistèntzia	n-f
 	cat	desobediència	n-f$n	srd	disubidièntzia	n-f
-	cat	aigua	n$n-f	srd	abba	n-f
+	cat	aigua	n-f$n	srd	abba	n-f
 	cat	operació	n-f$n	srd	operatzione	n-f
-	cat	televisió	n$n-f	srd	televisione	n-f
+	cat	televisió	n-f$n	srd	televisione	n-f
 	cat	confusió	n-f$n	srd	confusione	n-f
 	cat	visió	n-f$n	srd	visione	n-f
 	cat	debat	n-m$n	srd	debata	n-f
 	cat	ràdio	n-f$n$n-f-sg	srd	ràdiu	n-m
 	cat	esdeveniment	n-m$n	srd	eventu	n-m
 	cat	obligació	n-f$n	srd	òbrigu	n-m
-	cat	cama	n$n-f	srd	anca	n-f
+	cat	cama	n-f$n	srd	anca	n-f
 	cat	àlgebra	n-f$n	srd	àlgebra	n-f
 	cat	vall	n-f$n	srd	badde	n-f
 	cat	categoria	n$n-f	srd	categoria	n-f
@@ -304,16 +304,16 @@ LR	cat	clau	n-m	srd	crae	n-f
 	cat	via	n-f$n	srd	bia	n-f
 	cat	partida	n-f$n	srd	partida	n-f
 	cat	quantitat	n-f$n$n-f-ND	srd	cantidade	n-f
-	cat	edat	n$n-f$n-f-sg	srd	edade	n-f
+	cat	edat	n-f$n$n-f-sg	srd	edade	n-f
 	cat	facilitat	n-f$n$n-f-ND	srd	fatzilidade	n-f
 	cat	diversitat	n$n-f$n-f-sg	srd	diversidade	n-f
 	cat	modalitat	n-f$n	srd	modalidade	n-f
 	cat	visibilitat	n-f$n$n-f-sg	srd	visibilidade	n-f
 	cat	senyal	n-m$n	srd	signale	n-m
 	cat	nit	n$n-f	srd	note	n-f
-	cat	cabra	n$n-f	srd	cabra	n-f
+	cat	cabra	n-f$n	srd	cabra	n-f
 	cat	tipus	n-m-sp$n-m	srd	tipu	n$n-m
-	cat	llengua	n$n-f	srd	limba	n-f
+	cat	llengua	n-f$n	srd	limba	n-f
 	cat	llengua materna	n-f	srd	limba mama	n-f
 	cat	plaça	n-f$n	srd	pratza	n-f
 	cat	pont	n$n-m	srd	ponte	n-m
@@ -349,7 +349,7 @@ RL	cat	fatalista	n-mf	srd	fatista	n-mf
 	cat	jurista	n-mf$n	srd	giurista	n$n-mf
 	cat	maquinista	n-mf$n	srd	macchinista	n$n-mf
 	cat	monopolista	n-mf$n	srd	monopolista	n$n-mf
-	cat	naturalista	n$n-mf	srd	naturalista	n$n-mf
+	cat	naturalista	n-mf$n$	srd	naturalista	n$n-mf
 	cat	oculista	n-mf$n	srd	oculista	n$n-mf
 	cat	organista	n-mf$n	srd	organista	n$n-mf
 	cat	papista	n-mf$n	srd	papista	n-mf
@@ -367,7 +367,7 @@ RL	cat	part	n-f$n	srd	chirru	n-m
 	cat	estranger	n-f	srd	istràngiu	n-f
 LR	cat	a l'estranger	adv	srd	in foras	adv
 	cat	democràcia	n$n-f	srd	democratzia	n-f
-	cat	diplomàcia	n$n-f	srd	diplomatzia	n-f
+	cat	diplomàcia	n-f$n	srd	diplomatzia	n-f
 	cat	enciclopèdia	n-f$n	srd	entziclopedia	n-f
 	cat	habitant	n-mf$n	srd	abitante	n-mf
 	cat	jove	n-mf$n$	srd	giòvanu	n$n-m
@@ -380,18 +380,18 @@ LR	cat	a l'estranger	adv	srd	in foras	adv
 	cat	compliment	n-m$n	srd	cumprimentu	n-m
 	cat	acompanyament	n-m$n	srd	acumpangiamentu	n-m
 	cat	discussió	n-f$n	srd	acumprimentu	n-m
-	cat	amistat	n$n-f	srd	amighèntzia	n-f
+	cat	amistat	n-f$n	srd	amighèntzia	n-f
 	cat	vacances	n-f-pl$n$n-f	srd	vacàntzia	n-f
 RL	cat	vacances	n-f-pl$n$n-f	srd	lissèntzia	n-f
 	cat	anestesiòleg	n	srd	anestesista	n$n-mf
 	cat	analista	n-mf$n	srd	annalista	n-mf
 	cat	aparició	n-f$n	srd	aparitzione	n-f
-	cat	arquitectura	n$n-f	srd	architetura	n-f
-	cat	literatura	n$n-f	srd	literadura	n-f
-	cat	lectura	n$n-f	srd	letura	n-f
+	cat	arquitectura	n-f$n	srd	architetura	n-f
+	cat	literatura	n-f$n	srd	literadura	n-f
+	cat	lectura	n-f$n	srd	letura	n-f
 	cat	campanya	n$n-f	srd	campagna	n-f
 	cat	atestació	n-f$n	srd	attestatzione	n-f
-	cat	superioritat	n$n-f	srd	superioridade	n-f
+	cat	superioritat	n-f$n	srd	superioridade	n-f
 	cat	barista	n-mf	srd	barista	n$n-mf
 	cat	finestra	n$n-f	srd	bentana	n-f
 	cat	finestreta	n-f$n	srd	isportellu	n-m
@@ -405,29 +405,29 @@ RL	cat	vacances	n-f-pl$n$n-f	srd	lissèntzia	n-f
 	cat	contracció	n-f$n	srd	contratzione	n-f
 	cat	comportament	n-m$n	srd	cumportamentu	n-m
 	cat	grau	n-m$n	srd	gradu	n-m
-	cat	conseqüència	n$n-f	srd	cunsighèntzia	n-f
+	cat	conseqüència	n-f$n	srd	cunsighèntzia	n-f
 	cat	emigrant	n-mf$n	srd	emigrante	n-mf
 	cat	extensió	n$n-f	srd	estensione	n-f
 	cat	ferrocarril	n$n-m	srd	ferrovia	n-f
-	cat	freqüència	n$n-f	srd	frecuèntzia	n-f
+	cat	freqüència	n-f$n	srd	frecuèntzia	n-f
 	cat	garantia	n-f$n	srd	garàntzia	n-f
 	cat	gestió	n$n-f$n-f-sg	srd	gestione	n-f
-	cat	importància	n$n-f	srd	importàntzia	n-f
-	cat	influència	n$n-f	srd	influèntzia	n-f
+	cat	importància	n-f$n	srd	importàntzia	n-f
+	cat	influència	n-f$n	srd	influèntzia	n-f
 	cat	informàtica	n-f$n	srd	informàtica	n-f
 	cat	crucifixió	n-f$n	srd	iscravamentu	n-m
-	cat	instrucció	n$n-f	srd	istrutzione	n-f
+	cat	instrucció	n-f$n	srd	istrutzione	n-f
 	cat	lliçó	n$n-f	srd	letzione	n-f
-	cat	lesió	n$n-f	srd	lesione	n-f
+	cat	lesió	n-f$n	srd	lesione	n-f
 	cat	boig	n$n-m	srd	macu	n
 	cat	membre	n$n-mf$	srd	membru	n-m
-	cat	marit	n$n-m	srd	maridu	n-m
+	cat	marit	n-m$n	srd	maridu	n-m
 	cat	piano	n$n-m	srd	pianu	n-m
 	cat	violí	n$n-m	srd	violinu	n-m
 	cat	papallona	n-f$n	srd	mariposa	n-f
 	cat	massa	n-f$n	srd	massa	n-f
-	cat	empresa	n$n-f	srd	azienda	n-f
-RL	cat	empresa	n$n-f	srd	impresa	n-f
+	cat	empresa	n-f$n	srd	azienda	n-f
+RL	cat	empresa	n-f$n	srd	impresa	n-f
 	cat	sonata	n-f$n	srd	sonata	n-f
 	cat	maduresa	n-f$n$n-f-sg	srd	maturidade	n-f
 	cat	ment	n-f$n	srd	mentu	n-m
@@ -467,10 +467,10 @@ LR	cat	zulu	n$n-mf	srd	zulu	n-mf
 	cat	any	n-m$n	srd	annu	n-m
 	cat	dret	n-m$n$n-m-pl	srd	deretu	n-m
 	cat	plana	n$n-f	srd	pranu	n-m
-	cat	vida	n$n-f	srd	vida	n-f
+	cat	vida	n-f$n	srd	vida	n-f
 	cat	ocasió	n$n-f	srd	ocasione	n-f
-	cat	barba	n$n-f	srd	barba	n-f
-	cat	setmana	n$n-f	srd	chida	n-f
+	cat	barba	n-f$n	srd	barba	n-f
+	cat	setmana	n-f$n	srd	chida	n-f
 	cat	ciutat	n-f$n$n-f-sg	srd	tzitade	n-f
 	cat	món	n$n-m	srd	mundu	n-m
 	cat	rellotge	n-m$n	srd	relogiu	n-m
@@ -484,10 +484,10 @@ LR	cat	zulu	n$n-mf	srd	zulu	n-mf
 	cat	poble	n-m$n$n-m-pl	srd	bidda	n-f
 	cat	poble	n-m$n$n-m-pl	srd	pòpulu	n-m
 	cat	nord	n$n-m	srd	nord	n-m
-	cat	província	n$n-f	srd	provìntzia	n-f
-	cat	república	n$n-f	srd	repùbblica	n-f
-RL	cat	república	n$n-f	srd	repùbbrica	n-f
-	cat	pràctica	n$n-f	srd	pràtica	n-f
+	cat	província	n-f$n	srd	provìntzia	n-f
+	cat	república	n-f$n	srd	repùbblica	n-f
+RL	cat	república	n-f$n	srd	repùbbrica	n-f
+	cat	pràctica	n-f$n	srd	pràtica	n-f
 	cat	nom	n-m$n	srd	nùmene	n-m
 	cat	cognom	n$n-m	srd	sambenadu	n-m
 	cat	pronom	n-m$n	srd	pronùmene	n-m
@@ -498,9 +498,9 @@ RL	cat	república	n$n-f	srd	repùbbrica	n-f
 	cat	moviment	n-m$n	srd	movimentu	n-m
 	cat	guerra	n-f$n	srd	gherra	n-f
 	cat	ortografia	n-f$n	srd	ortografia	n-f
-	cat	universitat	n$n-f$n-f-ND	srd	universidade	n-f
+	cat	universitat	n-f$n$n-f-ND	srd	universidade	n-f
 	cat	unitat	n-f$n$n-f-sg	srd	unidade	n-f
-	cat	tradició	n$n-f	srd	traditzione	n-f
+	cat	tradició	n-f$n	srd	traditzione	n-f
 	cat	traducció	n$n-f	srd	tradutzione	n-f
 	cat	centenar	n-m$n$n-m-ND	srd	chentina	n-f
 	cat	terra	n-f$n	srd	terra	n-f
@@ -516,14 +516,14 @@ LR	cat	capital	n-m	srd	capitale	n-f
 LR	cat	capital	n-mf	srd	capitale	n-f
 	cat	paraula	n-f$n	srd	paràula	n-f
 RL	cat	paraula	n-f$n	srd	faeddu	n-m
-	cat	manera	n$n-f$n-f-pl	srd	manera	n-f
+	cat	manera	n-f$n$n-f-pl	srd	manera	n-f
 	cat	govern	n-m$n	srd	guvernu	n-m
 	cat	filosofia	n-f$n	srd	filosofia	n-f
 	cat	artista	n-mf$n	srd	artista	n$n-mf
 	cat	activista	n-mf$n	srd	ativista	n-mf
 	cat	article	n-m$n	srd	artìculu	n-m
 	cat	vers	n-m$n	srd	versu	n-m
-	cat	zona	n$n-f	srd	zona	n-f
+	cat	zona	n-f$n	srd	zona	n-f
 	cat	revista	n-f$n	srd	rivista	n-f
 	cat	premi	n-m$n$n-m-ND	srd	prèmiu	n-m
 	cat	persona	n-f$n	srd	persone	n-f
@@ -538,13 +538,13 @@ RL	cat	paraula	n-f$n	srd	faeddu	n-m
 	cat	titulació	n-f$n	srd	mansione	n-f
 	cat	oceà	n$n-m	srd	otzèanu	n-m
 	cat	reconeixement	n-m$n	srd	reconnoschimentu	n-m
-	cat	activitat	n$n-f$n-f-ND	srd	atividade	n-f
+	cat	activitat	n-f$n$n-f-ND	srd	atividade	n-f
 	cat	sèrie	n-f$n$n-f-sg	srd	sèrie	n-f
 	cat	segle	n-m$n	srd	sèculu	n-m
 	cat	deure	n$n-m$n-m-pl	srd	dovere	n-m
 	cat	població	n$n-f	srd	populatzione	n-f
 	cat	popularitat	n-f$n$n-f-sg	srd	popularidade	n-f
-	cat	circumstància	n$n-f	srd	sercunstàntzia	n-f
+	cat	circumstància	n-f$n	srd	sercunstàntzia	n-f
 	cat	home	n-m$n	srd	òmine	n-m
 LR	cat	home	n-m$n	srd	maridu	n-m
 	cat	període	n-m$n	srd	perìodu	n-m
@@ -552,17 +552,17 @@ LR	cat	home	n-m$n	srd	maridu	n-m
 	cat	col·legi	n-m$n	srd	collègiu	n-m
 	cat	lingüística	n-f$n$n-f-sg	srd	linguìstica	n-f
 	cat	sociolingüística	n-f$n$n-f-sg	srd	sotziolinguìstica	n-f
-	cat	psicolingüística	n$n-f	srd	psicolinguìstica	n-f
+	cat	psicolingüística	n-f	srd	psicolinguìstica	n-f
 	cat	pau	n$n-f$n-f-ND	srd	paghe	n-f
 	cat	llum	n-f	srd	lughe	n-f
 LR	cat	llum	n-m$n	srd	lughe	n-f
-	cat	identitat	n$n-f$n-f-ND	srd	identidade	n-f
+	cat	identitat	n-f$n$n-f-ND	srd	identidade	n-f
 	cat	gràcia	n-f$n	srd	gràtzia	n-f
-	cat	característica	n$n-f	srd	caraterìstica	n-f
+	cat	característica	n-f$n	srd	caraterìstica	n-f
 	cat	grup	n-m$n	srd	grupu	n-m
 	cat	caràcter	n-m$n	srd	caratere	n-m
 	cat	camp	n-m$n	srd	campu	n-m
-	cat	humanitat	n$n-f$n-f-ND	srd	umanidade	n-f
+	cat	humanitat	n-f$n$n-f-ND	srd	umanidade	n-f
 	cat	riu	n-m$n	srd	riu	n-m
 RL	cat	riu	n-m$n	srd	frùmene	n-m
 	cat	espai	n-m$n	srd	ispàtziu	n-m
@@ -573,12 +573,12 @@ RL	cat	riu	n-m$n	srd	frùmene	n-m
 	cat	cosa	n-f$n	srd	cosa	n-f
 	cat	taula	n-f$n	srd	mesa	n-f
 	cat	taula	n-f$n	srd	tabella	n-f
-	cat	causa	n$n-f	srd	càusa	n-f
+	cat	causa	n-f$n	srd	càusa	n-f
 	cat	energia	n$n-f	srd	energia	n-f
-	cat	papa	n$n-m	srd	paba	n-m
+	cat	papa	n-m$n	srd	paba	n-m
 	cat	antipapa	n-m	srd	antipaba	n-m
 	cat	mes	n-m$n	srd	mese	n-m
-	cat	edició	n$n-f	srd	editzione	n-f
+	cat	edició	n-f$n	srd	editzione	n-f
 	cat	origen	n-m$n	srd	orìgine	n-f
 	cat	música	n-f$n	srd	mùsica	n-f
 	cat	músic	n-m$n	srd	mùsicu	n-m
@@ -598,10 +598,10 @@ RL	cat	llei	n$n-f	srd	lei	n-f
 	cat	moment	n-m$n	srd	momentu	n-m
 	cat	metre	n-m$n	srd	metru	n-m
 	cat	quilòmetre	n$n-m	srd	chilòmetru	n-m
-	cat	mare	n$n-f	srd	mama	n-f
+	cat	mare	n-f$n	srd	mama	n-f
 RL	cat	pare	n-m$n-m-pl$n	srd	padre	n-m$n-m-sg
 	cat	pare	n-m$n-m-pl$n	srd	babbu	n-m
-	cat	màquina	n$n-f	srd	màchina	n-f
+	cat	màquina	n-f$n	srd	màchina	n-f
 	cat	volta	n-f$n	srd	borta	n-f
 	cat	tecnologia	n-f$n	srd	tecnologia	n-f
 	cat	illa	n$n-f	srd	ìsula	n-f
@@ -621,12 +621,12 @@ RL	cat	ordinador	n-m$n	srd	carculadore	n-m
 	cat	ordinador	n-m$n	srd	computer	n-m$n-m-sp
 	cat	déu	n$n-m	srd	deus	n-m
 	cat	déu	n-f	srd	dea	n-f
-	cat	biblioteca	n$n-f	srd	biblioteca	n-f
-	cat	violència	n$n-f	srd	violèntzia	n-f
+	cat	biblioteca	n-f$n	srd	biblioteca	n-f
+	cat	violència	n-f$n	srd	violèntzia	n-f
 	cat	advertència	n-f$n	srd	avertèntzia	n-f
 	cat	societat	n-f$n$n-f-ND	srd	sotziedade	n-f
 	cat	relació	n-f$n	srd	relatzione	n-f
-	cat	mesura	n$n-f	srd	mesura	n-f
+	cat	mesura	n-f$n	srd	mesura	n-f
 	cat	ideal	n-f	srd	ideale	n-f
 	cat	programa	n-m$n	srd	programma	n-m
 	cat	mont	n-m$n	srd	monte	n-m
@@ -635,15 +635,15 @@ RL	cat	ordinador	n-m$n	srd	carculadore	n-m
 	cat	fam	n-f$n	srd	fàmene	n-f
 LR	cat	gana	n-f-sg$n-f$n	srd	fàmene	n-f
 	cat	independència	n-f$n	srd	indipendèntzia	n-f
-	cat	interdependència	n$n-f	srd	interdipendèntzia	n-f
+	cat	interdependència	n-f$n	srd	interdipendèntzia	n-f
 	cat	joventut	n-f$n	srd	gioventude	n-f
 	cat	experiència	n$n-f$n-f-ND	srd	esperièntzia	n-f
 	cat	col·laborador	n$n-m	srd	collaboradore	n
-	cat	col·laboració	n$n-f	srd	collaboratzione	n-f
-	cat	celebració	n$n-f	srd	tzelebratzione	n-f
-	cat	publicació	n$n-f	srd	publicatzione	n-f
+	cat	col·laboració	n-f$n	srd	collaboratzione	n-f
+	cat	celebració	n-f$n	srd	tzelebratzione	n-f
+	cat	publicació	n-f$n	srd	publicatzione	n-f
 	cat	normalització	n$n-f	srd	normalizatzione	n-f
-	cat	difusió	n$n-f	srd	difusione	n-f
+	cat	difusió	n-f$n	srd	difusione	n-f
 	cat	guió	n-m$n	srd	tratigheddu	n-m
 	cat	règim	n-m$n	srd	règimene	n-m
 	cat	terme	n$n-m	srd	tèrmine	n-m
@@ -657,26 +657,26 @@ LR	cat	gana	n-f-sg$n-f$n	srd	fàmene	n-f
 	cat	compositor	n$n-m	srd	composidore	n
 	cat	reducció	n-f$n	srd	ridutzione	n-f
 	cat	restricció	n-f$n	srd	restritzione	n-f
-	cat	regla	n$n-f	srd	règula	n-f
+	cat	regla	n-f$n	srd	règula	n-f
 	cat	recitació	n-f$n	srd	recitatzione	n-f
 	cat	programació	n-f$n	srd	programatzione	n-f
 	cat	producció	n-f$n	srd	produtzione	n-f
-	cat	presència	n$n-f	srd	presèntzia	n-f
+	cat	presència	n-f$n	srd	presèntzia	n-f
 	cat	personalitat	n-f$n$n-f-ND	srd	personalidade	n-f
 	cat	pensament	n-m$n	srd	pensamentu	n-m
 	cat	neoplasticisme	n-m$n	srd	neoplasticismu	n-m
 	cat	modernisme	n-m$n	srd	modernismu	n-m
 	cat	mercat	n-m$n	srd	mercadu	n-m
 	cat	ment	n-f$n	srd	mente	n-f
-	cat	institució	n$n-f	srd	istitutzione	n-f
+	cat	institució	n-f$n	srd	istitutzione	n-f
 	cat	interpretació	n-f$n	srd	interpretatzione	n-f
-	cat	fundació	n$n-f	srd	fundatzione	n-f
+	cat	fundació	n-f$n	srd	fundatzione	n-f
 	cat	refundació	n-f$n	srd	rifundatzione	n-f
 	cat	disposició	n-f$n$n-f-sg	srd	dispositzione	n-f
-	cat	direcció	n$n-f	srd	diretzione	n-f
+	cat	direcció	n-f$n	srd	diretzione	n-f
 	cat	confessió	n-f$n	srd	cunfessione	n-f
 	cat	crisi	n-f$n-f-ND$n	srd	crisi	n-f
-	cat	reserva	n$n-f	srd	reserva	n-f
+	cat	reserva	n-f$n	srd	reserva	n-f
 	cat	construcció	n-f$n	srd	costrutzione	n-f
 	cat	constructivisme	n-m$n	srd	costruttivismu	n-m
 	cat	disc	n-m$n	srd	discu	n-m
@@ -707,7 +707,7 @@ RL	cat	recàlcul	n-m	srd	ricàlculu	n-m
 	cat	confederació	n-f$n	srd	confederatzione	n-f
 	cat	vista	n-f$n	srd	vista	n-f
 	cat	comunista	n-mf$n$	srd	comunista	n$n-mf
-	cat	comunicació	n$n-f	srd	comunicatzione	n-f
+	cat	comunicació	n-f$n	srd	comunicatzione	n-f
 	cat	col·lecció	n$n-f	srd	colletzione	n-f
 	cat	classificació	n-f$n	srd	classificatzione	n-f
 	cat	crescuda	n-f$n	srd	crèschida	n-f
@@ -726,7 +726,7 @@ RL	cat	arxipèlag	n-m$n	srd	arcipelagu	n-m
 	cat	sentiment	n-m$n	srd	sentimentu	n-m
 	cat	civilització	n-f$n$n-f-sg	srd	tzivilizatzione	n-f
 	cat	pestilència	n-f$n	srd	pestilèntzia	n-f
-	cat	font	n$n-f	srd	fonte	n-f
+	cat	font	n-f$n	srd	fonte	n-f
 	cat	trompetista	n-mf$n	srd	trombettista	n$n-mf
 	cat	teorema	n-m$n	srd	teorema	n-m
 	cat	telèfon	n-m$n	srd	telèfonu	n-m
@@ -739,24 +739,24 @@ RL	cat	arxipèlag	n-m$n	srd	arcipelagu	n-m
 	cat	parlament	n-m$n	srd	parlamentu	n-m
 	cat	canvi	n-m$n	srd	cambiamentu	n-m
 	cat	document	n-m$n	srd	documentu	n-m
-	cat	secció	n$n-f	srd	setzione	n-f
+	cat	secció	n-f$n	srd	setzione	n-f
 	cat	corporació	n-f$n	srd	corporatzione	n-f
 	cat	senador	n$n-m	srd	senadore	n
 	cat	sol	n$n-m	srd	sole	n-m
 	cat	currículum	n$n-m$n-m-pl	srd	currìculum	n-m
 	cat	revolució	n-f$n	srd	rivolutzione	n-f
-	cat	gramàtica	n$n-f	srd	gramàtica	n-f
+	cat	gramàtica	n-f$n	srd	gramàtica	n-f
 	cat	resistència	n-f$n	srd	resistèntzia	n-f
-	cat	residència	n$n-f	srd	residèntzia	n-f
+	cat	residència	n-f$n	srd	residèntzia	n-f
 	cat	redacció	n-f$n	srd	redatzione	n-f
 	cat	reacció	n-f$n	srd	reatzione	n-f
 	cat	racionalisme	n-m$n	srd	ratzionalismu	n-m
-	cat	publicació	n$n-f	srd	pubblicatzione	n-f
+	cat	publicació	n-f$n	srd	pubblicatzione	n-f
 	cat	programació	n-f$n	srd	programmatzione	n-f
 	cat	proclamació	n-f$n	srd	proclamatzione	n-f
 	cat	prioritat	n-f$n$n-f-ND	srd	prioridade	n-f
 	cat	fase	n$n-f	srd	fase	n-f
-	cat	presentació	n$n-f	srd	presentatzione	n-f
+	cat	presentació	n-f$n	srd	presentatzione	n-f
 	cat	predisposició	n-f$n	srd	predispositzione	n-f
 	cat	muntanya	n-f$n	srd	montagna	n-f
 	cat	posició	n-f$n	srd	positzione	n-f
@@ -767,11 +767,11 @@ RL	cat	arxipèlag	n-m$n	srd	arcipelagu	n-m
 	cat	poeta	n-mf$n	srd	poeta	n$n-f
 	cat	perfecció	n-f$n	srd	perfetzione	n-f
 	cat	pendularisme	n-m	srd	pendolarismu	n-m
-	cat	oposició	n$n-f	srd	opositzione	n-f
+	cat	oposició	n-f$n	srd	opositzione	n-f
 	cat	operador	n$n-m	srd	operadore	n
 	cat	ocupació	n-f$n	srd	ocupatzione	n-f
 	cat	numeració	n-f$n	srd	numeratzione	n-f
-	cat	novetat	n$n-f	srd	novidade	n-f
+	cat	novetat	n-f$n	srd	novidade	n-f
 	cat	notació	n-f$n	srd	notatzione	n-f
 	cat	paranoia	n-f$n	srd	paranoja	n-f
 	cat	manifest	n-m$n	srd	manifestu	n-m
@@ -782,52 +782,52 @@ RL	cat	arxipèlag	n-m$n	srd	arcipelagu	n-m
 	cat	curs	n-m$n	srd	annu	n-m
 	cat	decret	n$n-m	srd	decretu	n-m
 	cat	dominació	n-f$n	srd	dominatzione	n-f
-	cat	destrucció	n$n-f	srd	distrutzione	n-f
+	cat	destrucció	n-f$n	srd	distrutzione	n-f
 	cat	gravetat	n-f$n$n-f-ND	srd	gravidade	n-f
-	cat	distribució	n$n-f	srd	distributzione	n-f
+	cat	distribució	n-f$n	srd	distributzione	n-f
 	cat	devoció	n-f$n	srd	devotzione	n-f
-	cat	denominació	n$n-f	srd	denominatzione	n-f
+	cat	denominació	n-f$n	srd	denominatzione	n-f
 	cat	declaració	n-f$n	srd	declaratzione	n-f
 	cat	dadaisme	n-m$n	srd	dadaismu	n-m
 	cat	vidre	n-m$n	srd	bidru	n-m
 	cat	emir	n$n-m	srd	emiru	n-m
 	cat	confecció	n-f$n	srd	cunfetzione	n-f
-	cat	creació	n$n-f	srd	creatzione	n-f
+	cat	creació	n-f$n	srd	creatzione	n-f
 	cat	cooficialitat	n$n-f	srd	co-ufitzialidade	n-f
-	cat	convicció	n$n-f	srd	convintzione	n-f
+	cat	convicció	n-f$n	srd	convintzione	n-f
 	cat	consulta	n-f$n	srd	consultatzione	n-f
 	cat	congrés	n-m$n	srd	cungressu	n-m
 	cat	progrés	n-m$n	srd	progressu	n-m
 	cat	conformació	n-f$n	srd	conformatzione	n-f
 	cat	conducció	n-f$n	srd	condutzione	n-f
-	cat	comunitat	n$n-f$n-f-sg	srd	comunidade	n-f
+	cat	comunitat	n-f$n$n-f-sg	srd	comunidade	n-f
 	cat	carxofa	n-f$n	srd	cartzofa	n-f
 	cat	partícula	n-f$n	srd	partighedda	n-f
 	cat	antipartícula	n-f$n	srd	antipartighedda	n-f
-	cat	composició	n$n-f	srd	cumpositzione	n-f
+	cat	composició	n-f$n	srd	cumpositzione	n-f
 	cat	compilació	n-f$n	srd	compilatzione	n-f
 	cat	colonialisme	n-m$n	srd	colonialismu	n-m
 	cat	guitarrista	n-mf$n	srd	chitarrista	n$n-mf
 	cat	capitalista	n-mf$n$	srd	capitalista	n$n-mf
 	cat	calendari	n-m$n	srd	calendàriu	n-m
-	cat	benedicció	n$n-f	srd	beneditzione	n-f
+	cat	benedicció	n-f$n	srd	beneditzione	n-f
 	cat	audició	n-f$n	srd	auditzione	n-f
 	cat	ajuda	n-f$n	srd	agiudu	n-m
 	cat	necessitat	n-f$n$$n-f-ND	srd	bisòngiu	n-m
 	cat	absolutisme	n-m$n	srd	assolutismu	n-m
 	cat	mitjà	n-m$n$n-m-pl	srd	mèdiu	n-m
 	cat	desastre	n-m$n	srd	disastru	n-m
-	cat	aplicació	n$n-f	srd	aplicatzione	n-f
+	cat	aplicació	n-f$n	srd	aplicatzione	n-f
 	cat	administració	n-f$n	srd	amministratzione	n-f
 	cat	àmbit	n$n-m	srd	àmbitu	n-m
 	cat	dòlar	n$n-m	srd	dollaru	n-m
 	cat	secretari	n$n-m	srd	secretàriu	n-m
 	cat	secretari	n-f	srd	secretàriu	n-f
 	cat	cotxe	n-m$n	srd	vetura	n-f
-	cat	afirmació	n$n-f	srd	afirmatzione	n-f
-	cat	habitació	n$n-f	srd	abitatzione	n-f
+	cat	afirmació	n-f$n	srd	afirmatzione	n-f
+	cat	habitació	n-f$n	srd	abitatzione	n-f
 	cat	habilitat	n-f$n$n-f-ND	srd	abilidade	n-f
-	cat	densitat	n$n-f$n-f-ND	srd	densidade	n-f
+	cat	densitat	n-f$n$n-f-ND	srd	densidade	n-f
 	cat	xarxa	n-f$n	srd	rete	n-f
 	cat	escola	n-f$n	srd	iscola	n-f
 	cat	ensenyament	n-m$n	srd	imparu	n-m
@@ -838,7 +838,7 @@ RL	cat	ensenyament	n-m$n	srd	imparòngiu	n-m
 	cat	ensinistrar	vblex	srd	addestrare	vblex
 RL	cat	ensinistrar	vblex	srd	ammaestrare	vblex
 	cat	destinació	n-f$n	srd	destinu	n-m
-	cat	harmonia	n$n-f	srd	armonia	n-f
+	cat	harmonia	n-f$n	srd	armonia	n-f
 	cat	conte	n-m$n	srd	contu	n-m
 LR	cat	rest	n-m	srd	restu	n-m
 	cat	concurs	n-m$n	srd	cuncursu	n-m
@@ -849,7 +849,7 @@ LR	cat	rest	n-m	srd	restu	n-m
 	cat	dia	n-m$n	srd	die	n-f
 	cat	àrea	n-f$n	srd	àrea	n-f
 	cat	centre	n-m$n	srd	tzentru	n-m
-	cat	ciència	n$n-f	srd	sièntzia	n-f
+	cat	ciència	n-f$n	srd	sièntzia	n-f
 	cat	cor	n-m$n	srd	coro	n-m
 	cat	cor	n-m$n	srd	coraddu	n-m
 	cat	terreny	n-m$n	srd	terrinu	n-m
@@ -870,13 +870,13 @@ LR	cat	libèl·lula	n-m	srd	caddu	n-m
 	cat	porc	n-m$n$	srd	porcu	n-m$n
 	cat	porca	n-f$n	srd	sue	n-f
 	cat	equivalència	n-f$n	srd	ecuivalèntzia	n-f
-	cat	agència	n$n-f	srd	agèntzia	n-f
+	cat	agència	n-f$n	srd	agèntzia	n-f
 	cat	creença	n$n-f	srd	creèntzia	n-f
 	cat	tendència	n$n-f	srd	tendèntzia	n-f
 	cat	potència	n-f$n	srd	potèntzia	n-f
 	cat	correspondència	n-f$n	srd	currespundèntzia	n-f
-	cat	diferència	n$n-f	srd	diferèntzia	n-f
-	cat	existència	n$n-f	srd	esistèntzia	n-f
+	cat	diferència	n-f$n	srd	diferèntzia	n-f
+	cat	existència	n-f$n	srd	esistèntzia	n-f
 	cat	saber	n-m$n	srd	sapièntzia	n-f
 	cat	penitència	n-f$n	srd	penitèntzia	n-f
 	cat	volcà	n-m$n	srd	vulcanu	n-m
@@ -884,27 +884,27 @@ LR	cat	libèl·lula	n-m	srd	caddu	n-m
 	cat	abús	n-m$n	srd	abusu	n-m
 	cat	salvació	n-f$n	srd	sarbamentu	n-m
 	cat	pena	n-f$n	srd	punitzione	n-f
-	cat	promoció	n$n-f	srd	promotzione	n-f
-	cat	pàgina	n$n-f	srd	pàgina	n-f
+	cat	promoció	n-f$n	srd	promotzione	n-f
+	cat	pàgina	n-f$n	srd	pàgina	n-f
 	cat	línia	n$n-f	srd	lìnia	n-f
 	cat	prova	n-f$n	srd	proa	n-f
-	cat	projecció	n$n-f	srd	projetzione	n-f
+	cat	projecció	n-f$n	srd	projetzione	n-f
 	cat	motociclisme	n-m$n$n-m-sg	srd	mototziclismu	n-m
 	cat	país	n-m$n$n-m-ND	srd	paisu	n-m
-	cat	lliga	n$n-f	srd	lega	n-f
+	cat	lliga	n-f$n	srd	lega	n-f
 	cat	seguretat	n-f$n	srd	seguràntzia	n-f
 	cat	instrumentació	n-f$n	srd	istrumentatzione	n-f
 	cat	esperit	n-m$n	srd	ispiritu	n-m
 RL	cat	ús	n-m$n	srd	usu	n-m
 LR	cat	ús	n-m$n	srd	impreu	n-m
 	cat	introspecció	n-f$n	srd	introspetzione	n-f
-	cat	introducció	n$n-f	srd	introdutzione	n-f
+	cat	introducció	n-f$n	srd	introdutzione	n-f
 	cat	integració	n-f$n	srd	intregatzione	n-f
 	cat	intenció	n-f$n	srd	intentzione	n-f
 	cat	informació	n-f$n	srd	informatzione	n-f
 RL	cat	indicació	n-f$n	srd	inditu	n-m
 	cat	indicació	n-f$n	srd	indicatzione	n-f
-	cat	minoria	n$n-f	srd	minoria	n-f
+	cat	minoria	n-f$n	srd	minoria	n-f
 	cat	il·luminisme	n-m	srd	illuminismu	n-m
 	cat	grafema	n-f	srd	grafema	n-m
 	cat	periodisme	n-m$n	srd	giornalismu	n-m
@@ -912,7 +912,7 @@ RL	cat	indicació	n-f$n	srd	inditu	n-m
 	cat	fonament	n-m$n	srd	fundamentu	n-m
 	cat	riure	n-m$n	srd	risu	n-m
 	cat	formació	n-f$n	srd	formatzione	n-f
-	cat	fàbrica	n$n-f	srd	fàbrica	n-f
+	cat	fàbrica	n-f$n	srd	fàbrica	n-f
 	cat	fonema	n-m$n	srd	fonema	n-m
 	cat	flexió	n-f$n	srd	fletzione	n-f
 	cat	elecció	n-f$n	srd	eletzione	n-f
@@ -922,13 +922,13 @@ RL	cat	indicació	n-f$n	srd	inditu	n-m
 	cat	etimologia	n$n-f	srd	etimologia	n-f
 	cat	exposició	n-f$n	srd	espositzione	n-f
 	cat	bíblia	n-f$n	srd	bìbbia	n-f
-	cat	revisió	n$n-f	srd	revisione	n-f
+	cat	revisió	n-f$n	srd	revisione	n-f
 	cat	exploració	n-f$n	srd	esploratzione	n-f
 	cat	epicureisme	n-m$n	srd	epicureismu	n-m
 	cat	emoció	n-f$n	srd	emotzione	n-f
 	cat	emanació	n-f$n	srd	emanatzione	n-f
 	cat	element	n-m$n	srd	elementu	n-m
-	cat	elaboració	n$n-f	srd	elaboratzione	n-f
+	cat	elaboració	n-f$n	srd	elaboratzione	n-f
 	cat	reelaboració	n-f	srd	rielaboratzione	n-f
 	cat	educació	n-f$n	srd	educatzione	n-f
 	cat	llista	n-f$n	srd	lista	n-f
@@ -938,15 +938,15 @@ RL	cat	indicació	n-f$n	srd	inditu	n-m
 	cat	expert	n$n-m$	srd	espertu	n-m$n
 	cat	expert	n-f	srd	espertu	n-f
 	cat	mar	n-mf$n	srd	mare	n-m
-	cat	qualitat	n$n-f$n-f-ND	srd	calidade	n-f
-	cat	solució	n$n-f	srd	solutzione	n-f
+	cat	qualitat	n-f$n$n-f-ND	srd	calidade	n-f
+	cat	solució	n-f$n	srd	solutzione	n-f
 	cat	criteri	n-m$n	srd	critèriu	n-m
 	cat	manteniment	n-m$n	srd	mantenimentu	n-m
 	cat	orde	n-m$n	srd	òrdine	n-m
 	cat	punt	n-m$n	srd	puntu	n-m$n
-	cat	distància	n$n-f	srd	distàntzia	n-f
+	cat	distància	n-f$n	srd	distàntzia	n-f
 	cat	idea	n$n-f	srd	idea	n-f
-	cat	preferència	n$n-f	srd	preferèntzia	n-f
+	cat	preferència	n-f$n	srd	preferèntzia	n-f
 	cat	escriptura	n-f$n	srd	iscritura	n-f
 	cat	tractament	n-m$n	srd	tratamentu	n-m
 	cat	compilador	n-m$n	srd	compiladore	n$n-m
@@ -959,11 +959,11 @@ RL	cat	indicació	n-f$n	srd	inditu	n-m
 	cat	matèria	n-f$n	srd	matèria	n-f
 	cat	antimatèria	n-f$n	srd	antimatèria	n-f
 	cat	natura	n-f$n	srd	natura	n-f
-	cat	memòria	n$n-f$n-f-pl	srd	memòria	n-f
-	cat	combinació	n$n-f	srd	cumbinatzione	n-f
+	cat	memòria	n-f$n$n-f-pl	srd	memòria	n-f
+	cat	combinació	n-f$n	srd	cumbinatzione	n-f
 	cat	pronunciació	n-f$n	srd	pronùntzia	n-f
 	cat	norma	n$n-f	srd	norma	n-f
-	cat	assimilació	n$n-f	srd	assimilatzione	n-f
+	cat	assimilació	n-f$n	srd	assimilatzione	n-f
 	cat	paràbola	n-f$n	srd	parabula	n-f
 	cat	península	n-f$n	srd	penìsola	n-f
 	cat	consonant	n$n-f	srd	cunsonante	n-f
@@ -975,10 +975,10 @@ RL	cat	màscara	n-f$n	srd	maschera	n-f
 RL	cat	màscara	n-f$n	srd	carota	n-f
 	cat	màscara	n-f$n	srd	caratza	n-f
 	cat	caramel	n-m$n	srd	caramèglia	n-f
-RL	cat	notícia	n$n-f$n-f-sg	srd	notizia	n-f
-	cat	notícia	n$n-f$n-f-sg	srd	nova	n-f
-	cat	transmissió	n$n-f	srd	trasmissione	n-f
-	cat	matemàtica	n-f-pl$n$n-f	srd	matemàtica	n-f
+RL	cat	notícia	n-f$n$n-f-sg	srd	notizia	n-f
+	cat	notícia	n-f$n$n-f-sg	srd	nova	n-f
+	cat	transmissió	n-f$n	srd	trasmissione	n-f
+	cat	matemàtica	n-f-pl$n-f$n	srd	matemàtica	n-f
 	cat	veritat	n-f$n$n-f-ND	srd	beridade	n-f
 	cat	capacitat	n-f$n$n-f-sg	srd	capatzidade	n-f
 	cat	entitat	n-f$n$n-f-ND	srd	entidade	n-f
@@ -994,7 +994,7 @@ RL	cat	notícia	n$n-f$n-f-sg	srd	notizia	n-f
 	cat	ambient	n-m$n$	srd	ambiente	n-m
 	cat	nivell	n$n-m	srd	livellu	n-m
 	cat	voluntat	n$n-f$n-f-ND	srd	boluntade	n-f
-	cat	majoria	n$n-f$n-f-sg	srd	majoria	n-f
+	cat	majoria	n-f$n$n-f-sg	srd	majoria	n-f
 	cat	emissor	n-f	srd	emitente	n-mf
 LR	cat	emissor	n-m$n$	srd	emitente	n-mf
 	cat	diari	n$n-m	srd	cuotidianu	n-m
@@ -1004,53 +1004,53 @@ RL	cat	recurs	n-m$n	srd	resursa	n-f
 	cat	recurs	n-m$n	srd	apellu	n-f
 RL	cat	espècie	n-f$n$n-f-pl	srd	casta	n-f
 	cat	espècie	n-f$n$n-f-pl	srd	ispètzie	n-f
-	cat	víctima	n$n-f	srd	vìtima	n-f
-	cat	atenció	n$n-f	srd	atentzione	n-f
+	cat	víctima	n-f$n	srd	vìtima	n-f
+	cat	atenció	n-f$n	srd	atentzione	n-f
 	cat	actualitat	n-f$n$n-f-ND	srd	atualidade	n-f
-	cat	coalició	n$n-f	srd	coalitzione	n-f
+	cat	coalició	n-f$n	srd	coalitzione	n-f
 	cat	colonització	n-f$n	srd	colonizatzione	n-f
 	cat	descolonització	n-f$n	srd	decolonizatzione	n-f
 	cat	recolonització	n-f	srd	ricolonizatzione	n-f
 	cat	cooperació	n-f$n	srd	cooperatzione	n-f
-	cat	corrupció	n$n-f	srd	corrutzione	n-f
-	cat	constitució	n$n-f	srd	costitutzione	n-f
+	cat	corrupció	n-f$n	srd	corrutzione	n-f
+	cat	constitució	n-f$n	srd	costitutzione	n-f
 	cat	condició	n-f$n	srd	cunditzione	n-f
-	cat	definició	n$n-f	srd	definitzione	n-f
+	cat	definició	n-f$n	srd	definitzione	n-f
 	cat	redefinició	n-f$n	srd	ridefinitzione	n-f
 	cat	capitalització	n-f$n	srd	capitalizatzione	n-f
 	cat	recapitalització	n-f	srd	ricapitalizatzione	n-f
-	cat	evolució	n$n-f	srd	evolutzione	n-f
-	cat	finalitat	n$n-f$n-f-pl	srd	finalidade	n-f
+	cat	evolució	n-f$n	srd	evolutzione	n-f
+	cat	finalitat	n-f$n$n-f-pl	srd	finalidade	n-f
 	cat	funció	n-f$n	srd	funtzione	n-f
-	cat	estabilitat	n$n-f$n-f-ND	srd	istabilidade	n-f
+	cat	estabilitat	n-f$n$n-f-ND	srd	istabilidade	n-f
 	cat	alliberament	n-m	srd	liberatzione	n-f
 	cat	modernitat	n-f$n$n-f-ND	srd	modernidade	n-f
 	cat	mundialització	n$n-f	srd	mundializatzione	n-f
 	cat	necessitat	n-f$n$$n-f-ND	srd	netzessidade	n-f
 	cat	participació	n-f$n	srd	partetzipatzione	n-f
-	cat	privatització	n$n-f	srd	privatizatzione	n-f
-	cat	proporció	n$n-f	srd	proportzione	n-f
-	cat	protecció	n$n-f	srd	protetzione	n-f
+	cat	privatització	n-f$n	srd	privatizatzione	n-f
+	cat	proporció	n-f$n	srd	proportzione	n-f
+	cat	protecció	n-f$n	srd	protetzione	n-f
 	cat	publicitat	n-f$n$n-f-ND	srd	publitzidade	n-f
-	cat	realitat	n$n-f$n-f-ND	srd	realidade	n-f
+	cat	realitat	n-f$n$n-f-ND	srd	realidade	n-f
 	cat	reconstrucció	n-f$n	srd	ricostrutzione	n-f
-	cat	resolució	n$n-f	srd	risolutzione	n-f
+	cat	resolució	n-f$n	srd	risolutzione	n-f
 	cat	sanitat	n$n-f$n-f-ND	srd	sanidade	n-f
 	cat	situació	n-f$n	srd	situatzione	n-f
 	cat	solidaritat	n-f$n	srd	solidaridade	n-f
-	cat	transformació	n$n-f	srd	trasformatzione	n-f
+	cat	transformació	n-f$n	srd	trasformatzione	n-f
 	cat	conferència	n-f$n	srd	cunferèntzia	n-f
 	cat	concurrència	n-f$n	srd	cuncurrèntzia	n-f
-	cat	presidència	n$n-f	srd	presidèntzia	n-f
-	cat	conseqüència	n$n-f	srd	cunseguèntzia	n-f
+	cat	presidència	n-f$n	srd	presidèntzia	n-f
+	cat	conseqüència	n-f$n	srd	cunseguèntzia	n-f
 	cat	assistència	n-f$n	srd	assistèntzia	n-f
 	cat	urgència	n-f$n	srd	urgèntzia	n-f
-	cat	competència	n$n-f	srd	cumpetèntzia	n-f
+	cat	competència	n-f$n	srd	cumpetèntzia	n-f
 	cat	dependència	n-f$n	srd	dipendèntzia	n-f
 	cat	aliança	n-f$n	srd	alliàntzia	n-f
-	cat	instància	n$n-f	srd	istàntzia	n-f
-	cat	evidència	n$n-f	srd	evidèntzia	n-f
-	cat	transparència	n$n-f	srd	trasparèntzia	n-f
+	cat	instància	n-f$n	srd	istàntzia	n-f
+	cat	evidència	n-f$n	srd	evidèntzia	n-f
+	cat	transparència	n-f$n	srd	trasparèntzia	n-f
 	cat	supervivència	n$n-f	srd	supravivèntzia	n-f
 	cat	delinqüència	n$n-f	srd	delincuèntzia	n-f
 	cat	treballador	n$n-GD	srd	traballadore	n
@@ -1073,11 +1073,11 @@ LR	cat	directiu	n$n-m	srd	dirigente	n-mf
 	cat	valor	n-m$n	srd	balore	n-m
 	cat	economia	n$n-f$n-f-sg	srd	economia	n-f
 	cat	efecte	n$n-m	srd	efetu	n-m
-	cat	pressió	n$n-f	srd	pressione	n-f
+	cat	pressió	n-f$n	srd	pressione	n-f
 	cat	dubte	n-m$n	srd	duda	n-f
 	cat	banda	n-f$n	srd	banda	n-f
 	cat	banda	n-f$n	srd	ala	n-f
-	cat	arma	n$n-f$n-f-pl	srd	arma	n-f
+	cat	arma	n-f$n$n-f-pl	srd	arma	n-f
 	cat	pla	n-m$n$	srd	pranu	n-m
 	cat	atemptat	n-m$n	srd	atentadu	n-m
 	cat	intent	n-m$n	srd	tentativu	n-m
@@ -1085,12 +1085,12 @@ RL	cat	intent	n-m$n	srd	intentu	n-m
 	cat	producte	n$n-m	srd	produtu	n-m
 	cat	nen	n-m$n$n-m-sg	srd	pitzinnu	n$n-m
 	cat	nen	n-f	srd	pitzinnu	n-f
-	cat	hora	n$n-f	srd	ora	n-f
+	cat	hora	n-f$n	srd	ora	n-f
 	cat	objectiu	n-m$n$	srd	obietivu	n-m
 	cat	raó	n$n-f	srd	resone	n-f
 	cat	pensament	n-m$n	srd	pessamentu	n-m
 	cat	procés	n-m$n$n-m-ND	srd	protzessu	n-m
-	cat	decisió	n$n-f	srd	detzisione	n-f
+	cat	decisió	n-f$n	srd	detzisione	n-f
 	cat	humà	n-m$n	srd	umanu	n$n-m
 	cat	humà	n-f	srd	umanu	n-f
 	cat	preu	n-m$n$n-m-ND	srd	preju	n-m
@@ -1108,18 +1108,18 @@ RL	cat	planeta	n-m$n	srd	pianeta	n-m
 	cat	planeta	n-m$n	srd	praneta	n-m
 LR	cat	casulla	n-f	srd	pianeta	n-f
 	cat	indústria	n$n-f	srd	indùstria	n-f
-	cat	veu	n$n-f$n-f-ND	srd	boghe	n-f
+	cat	veu	n-f$n$n-f-ND	srd	boghe	n-f
 	cat	terrorista	n-mf$n	srd	terrorista	n$n-mf
 	cat	profeta	n-mf$n	srd	profetu	n-m$n
-	cat	justícia	n$n-f	srd	giustìtzia	n-f
+	cat	justícia	n-f$n	srd	giustìtzia	n-f
 	cat	context	n$n-m	srd	cuntestu	n-m
 	cat	soldat	n-mf	srd	sordadu	n-m
-	cat	perill	n$n-m	srd	perìgulu	n-m
+	cat	perill	n-m$n	srd	perìgulu	n-m
 	cat	propòsit	n$n-m	srd	propòsitu	n-m
 	cat	mur	n$n-m$n-m-sg	srd	muru	n-m$n-m-pl
 	cat	sort	n-f$n	srd	sorte	n-f
 	cat	dificultat	n-f$n$n-f-ND	srd	dificultade	n-f
-	cat	varietat	n-f$n$n-f-pl	srd	bariedade	n-f
+	cat	varietat	n-f$n-f-pl$n	srd	bariedade	n-f
 	cat	bomba	n$n-f	srd	bomba	n-f
 	cat	èxit	n-m$n	srd	èsitu	n-m
 	cat	augment	n-m$n	srd	aumentu	n-m
@@ -1127,21 +1127,21 @@ LR	cat	casulla	n-f	srd	pianeta	n-f
 	cat	nacionalista	n-mf$n$	srd	natzionalista	n$n-mf
 	cat	filòsof	n$n-m	srd	filòsofu	n-m
 	cat	filòsof	n-f	srd	filòsofu	n-f
-	cat	missió	n$n-f	srd	missione	n-f
+	cat	missió	n-f$n	srd	missione	n-f
 	cat	socialista	n-mf$n$	srd	sotzialista	n$n-mf
 	cat	agricultura	n-f$n	srd	massaria	n-f
 RL	cat	agricultura	n-f$n	srd	agricultura	n-f
-	cat	malaltia	n$n-f	srd	maladia	n-f
+	cat	malaltia	n-f$n	srd	maladia	n-f
 	cat	incapacitat	n-f$n	srd	imbàlida	n-f
-	cat	viduïtat	n$n-f	srd	biuda	n-f
+	cat	viduïtat	n-f$n	srd	biuda	n-f
 	cat	vellesa	n-f$n	srd	betza	n-f
-	cat	invasió	n$n-f	srd	invasione	n-f
+	cat	invasió	n-f$n	srd	invasione	n-f
 	cat	aspecte	n-m$n	srd	aspetu	n-m
 	cat	lleure	n-m$n	srd	disaogu	n-m
 	cat	diccionari	n$n-m	srd	ditzionàriu	n-m
 	cat	descans	n-m$n	srd	pasu	n-m
 	cat	exterminació	n-f$n	srd	istermìniu	n-m
-	cat	convenció	n$n-f	srd	cunventzione	n-f
+	cat	convenció	n-f$n	srd	cunventzione	n-f
 	cat	respecte	n-m$n	srd	rispetu	n-m
 	cat	anarquista	n-mf$n$	srd	anarchista	n$n-mf
 	cat	marxista	n-mf$n$	srd	marxista	n$n-mf
@@ -1157,7 +1157,7 @@ RL	cat	agricultura	n-f$n	srd	agricultura	n-f
 	cat	productor	n$n-m	srd	produtore	n$n-m
 	cat	especialista	n-mf$n	srd	ispetzialista	n$n-mf
 	cat	islamista	n-mf$n$	srd	islamista	n$n-mf
-	cat	infraestructura	n$n-f	srd	infrastrutura	n-f
+	cat	infraestructura	n-f$n	srd	infrastrutura	n-f
 	cat	organisme	n-m$n	srd	organismu	n-m
 	cat	nacionalisme	n-m$n	srd	natzionalismu	n-m
 	cat	explosió	n-f$n	srd	esplosione	n-f
@@ -1184,7 +1184,7 @@ RL	cat	suport	n-m$n	srd	suportu	n-m
 	cat	autista	n-mf$n	srd	autista	n$n-mf
 	cat	unilateralisme	n-m$n	srd	unilateralismu	n-m
 	cat	imperialisme	n-m$n	srd	imperialismu	n-m
-	cat	manipulació	n$n-f	srd	manipulatzione	n-f
+	cat	manipulació	n-f$n	srd	manipulatzione	n-f
 	cat	aeroport	n-m$n	srd	aeroportu	n-m
 	cat	negació	n-f$n	srd	negatzione	n-f
 	cat	nazisme	n-m$n	srd	nazismu	n-m
@@ -1198,9 +1198,9 @@ RL	cat	suport	n-m$n	srd	suportu	n-m
 	cat	reputació	n-f$n	srd	reputatzione	n-f
 	cat	rendiment	n-m$n	srd	rendimentu	n-m
 	cat	passivitat	n-f$n	srd	passividade	n-f
-	cat	indiferència	n$n-f	srd	indiferèntzia	n-f
+	cat	indiferència	n-f$n	srd	indiferèntzia	n-f
 	cat	consumidor	n$n-m	srd	cunsumadore	n$n-m
-	cat	reproducció	n$n-f	srd	riprodutzione	n-f
+	cat	reproducció	n-f$n	srd	riprodutzione	n-f
 	cat	industrialització	n-f$n	srd	industrializatzione	n-f
 	cat	monocultura	n-f$n	srd	monocultura	n-f
 	cat	devastació	n-f$n	srd	devastatzione	n-f
@@ -1268,7 +1268,7 @@ RL	cat	planta	n-f$n	srd	fundu	n-m
 	cat	discussió	n-f$n	srd	cuntierra	n-f
 	cat	clima	n-m$n	srd	clima	n-m
 	cat	classe	n-f$n	srd	classe	n-f
-	cat	realització	n$n-f	srd	realizatzione	n-f
+	cat	realització	n-f$n	srd	realizatzione	n-f
 	cat	monestir	n$n-m	srd	monastèriu	n-m
 	cat	màfia	n$n-f	srd	màfia	n-f
 	cat	interlingua	n-f$n	srd	interlingua	n-f
@@ -1284,13 +1284,13 @@ RL	cat	planta	n-f$n	srd	fundu	n-m
 	cat	testimoni	n-mf$n	srd	testimonia	n-f
 	cat	sociologia	n$n-f	srd	sotziologia	n-f
 	cat	prostitució	n-f$n	srd	prostitutzione	n-f
-	cat	prejudici	n$n-m	srd	pregiudìtziu	n-m
+	cat	prejudici	n-m$n	srd	pregiudìtziu	n-m
 	cat	pensador	n$n-GD	srd	pensadore	n
 	cat	morfologia	n-f$n	srd	morfologia	n-f
 	cat	mitologia	n-f$n	srd	mitologia	n-f
 	cat	inspiració	n-f$n	srd	ispiratzione	n-f
 	cat	indulgència	n-f$n	srd	indulgèntzia	n-f
-	cat	impressió	n$n-f	srd	impressione	n-f
+	cat	impressió	n-f$n	srd	impressione	n-f
 	cat	ideologia	n$n-f	srd	ideologia	n-f
 	cat	grafia	n-f$n	srd	grafia	n-f
 	cat	fotografia	n-f$n	srd	fotografia	n-f
@@ -1309,13 +1309,13 @@ RL	cat	planta	n-f$n	srd	fundu	n-m
 	cat	filologia	n-f$n	srd	filologia	n-f
 	cat	ecologia	n-f$n	srd	ecologia	n-f
 	cat	metodologia	n-f$n	srd	metodologia	n-f
-	cat	adopció	n$n-f	srd	adotzione	n-f
+	cat	adopció	n-f$n	srd	adotzione	n-f
 	cat	adverbi	n-m$n	srd	adverbiu	n-m
 	cat	articulació	n-f$n	srd	articulatzione	n-f
 	cat	coexistència	n-f$n	srd	coesistèntzia	n-f
 	cat	constància	n-f$n	srd	costàntzia	n-f
 	cat	elisió	n-f$n	srd	elisione	n-f
-	cat	exigència	n$n-f	srd	esigèntzia	n-f
+	cat	exigència	n-f$n	srd	esigèntzia	n-f
 	cat	modificació	n$n-f	srd	modificatzione	n-f
 	cat	biografia	n-f$n	srd	biografia	n-f
 	cat	preposició	n-f$n	srd	prepositzione	n-f
@@ -1323,14 +1323,14 @@ RL	cat	planta	n-f$n	srd	fundu	n-m
 	cat	príncep	n$n-m	srd	prìntzipe	n-m$n
 	cat	copríncep	n$n-f	srd	coprìntzipe	n-f
 	cat	copríncep	n-m	srd	coprìntzipe	n-m
-	cat	representació	n$n-f	srd	rapresentatzione	n-f
-RL	cat	representació	n$n-f	srd	rapresentàntzia	n-f
+	cat	representació	n-f$n	srd	rapresentatzione	n-f
+RL	cat	representació	n-f$n	srd	rapresentàntzia	n-f
 	cat	regularitat	n-f$n	srd	regularidade	n-f
 	cat	simplificació	n-f$n	srd	semplificatzione	n-f
 	cat	temptació	n-f$n	srd	tentatzione	n-f
 RL	cat	temptació	n-f$n	srd	tenteu	n-m
 	cat	variant	n-f$n	srd	variante	n-f
-	cat	varietat	n-f$n$n-f-pl	srd	variedade	n-f
+	cat	varietat	n-f$n-f-pl$n	srd	variedade	n-f
 	cat	trapezi	n-m$n	srd	trapètziu	n-m
 	cat	enfortiment	n-m$n	srd	afortimentu	n-m
 	cat	agrupació	n-f$n	srd	agrupamentu	n-m
@@ -1347,18 +1347,18 @@ RL	cat	temptació	n-f$n	srd	tenteu	n-m
 	cat	comprensió	n-f$n	srd	cumprensione	n-f
 	cat	consideració	n-f$n	srd	cunsideru	n-m
 	cat	correspondència	n-f$n	srd	currispondèntzia	n-f
-	cat	consciència	n$n-f	srd	cussèntzia	n-f
+	cat	consciència	n-f$n	srd	cussèntzia	n-f
 	cat	inconsciència	n-f	srd	incussèntzia	n-f
 	cat	dignitat	n-f$n$n-f-ND	srd	dignidade	n-f
 	cat	indignitat	n-f$n	srd	indegnidade	n-f
-	cat	discriminació	n$n-f	srd	discriminatzione	n-f
+	cat	discriminació	n-f$n	srd	discriminatzione	n-f
 	cat	atur	n$n-m	srd	disocupatzione	n-f
 	cat	import	n$n-m	srd	importu	n-m
 	cat	disposició	n-f$n$n-f-sg	srd	disponimentu	n-m
 	cat	menyspreu	n-m$n	srd	dispretziu	n-m
-	cat	distinció	n$n-f	srd	distintzione	n-f
+	cat	distinció	n-f$n	srd	distintzione	n-f
 	cat	igualtat	n$n-f	srd	egualidade	n-f
-	cat	expressió	n$n-f	srd	espressione	n-f
+	cat	expressió	n-f$n	srd	espressione	n-f
 	cat	ésser	n-m$n$n-m-pl	srd	èssere	n-m
 	cat	fraternitat	n-f$n	srd	fraternidade	n-f
 	cat	jurisdicció	n-f$n	srd	giurisditzione	n-f
@@ -1370,21 +1370,21 @@ RL	cat	temptació	n-f$n	srd	tenteu	n-m
 	cat	esclau	n$n-m	srd	iscrau	n$n-m
 LR	cat	esclau	n-f	srd	iscrau	n$n-m
 	cat	esforç	n-m$n	srd	isfortzu	n-m
-	cat	dissolució	n$n-f	srd	isparzimentu	n-m
+	cat	dissolució	n-f$n	srd	isparzimentu	n-m
 	cat	esperit	n-m$n	srd	ispìritu	n-m
-LR	cat	muller	n$n-f	srd	mugere	n-f
+LR	cat	muller	n-f$n	srd	mugere	n-f
 	cat	espòs	n-f$n-f-sg	srd	isposu	n$n-f
 	cat	espòs	n$n-m$n-m-sg	srd	isposu	n-m
 	cat	estatut	n$n-m	srd	istatutu	n-m
 	cat	incitació	n-f$n	srd	istigamentu	n-m
 	cat	llibertat	n-f$n$n-f-ND	srd	libertade	n-f
-	cat	limitació	n$n-f	srd	limitatzione	n-f
+	cat	limitació	n-f$n	srd	limitatzione	n-f
 	cat	maternitat	n-f$n$n-f-ND	srd	maternidade	n-f
 	cat	mèrit	n-m$n	srd	mèritu	n-m
 	cat	límit	n-m$n	srd	lìmite	n-m
 	cat	desconeixement	n-m$n	srd	misconnoschimentu	n-m
-	cat	nacionalitat	n$n-f	srd	natzionalidade	n-f
-	cat	omissió	n$n-f	srd	omissione	n-f
+	cat	nacionalitat	n-f$n	srd	natzionalidade	n-f
+	cat	omissió	n-f$n	srd	omissione	n-f
 	cat	honor	n$n-m	srd	onore	n-m
 	cat	opressió	n-f$n	srd	opressione	n-f
 	cat	pena	n-f$n	srd	pena	n-f
@@ -1393,7 +1393,7 @@ LR	cat	muller	n$n-f	srd	mugere	n-f
 RL	cat	recurs	n-m$n	srd	recursu	n-m
 	cat	respecte	n-m$n	srd	respetu	n-m
 	cat	reunió	n-f$n	srd	reunione	n-f
-	cat	riquesa	n$n-f	srd	richesa	n-f
+	cat	riquesa	n-f$n	srd	richesa	n-f
 	cat	salari	n-m$n	srd	salàriu	n-m
 	cat	seguretat	n-f$n	srd	seguridade	n-f
 	cat	sexe	n-m$n	srd	sessu	n-m
@@ -1421,8 +1421,8 @@ LR	cat	aprenent	n-f	srd	dischente	n-m$n
 	cat	motor	n-m$n	srd	motore	n-m
 	cat	traïdor	n$n-m	srd	traitore	n
 	cat	orador	n$n-m	srd	oratore	n
-	cat	ambaixada	n$n-f	srd	ambasciada	n-f
-	cat	adhesió	n$n-f	srd	adesione	n-f
+	cat	ambaixada	n-f$n	srd	ambasciada	n-f
+	cat	adhesió	n-f$n	srd	adesione	n-f
 	cat	agressió	n-f$n	srd	agressione	n-f
 	cat	annexió	n-f$n	srd	annessione	n-f
 	cat	visió	n-f$n	srd	bisione	n-f
@@ -1430,13 +1430,13 @@ LR	cat	aprenent	n-f	srd	dischente	n-m$n
 	cat	comissió	n-f$n	srd	cumissione	n-f
 	cat	confusió	n-f$n	srd	cunfusione	n-f
 	cat	concessió	n-f$n	srd	cuntzessione	n-f
-	cat	dimensió	n$n-f	srd	dimensione	n-f
-	cat	dimissió	n$n-f	srd	dimissione	n-f
+	cat	dimensió	n-f$n	srd	dimensione	n-f
+	cat	dimissió	n-f$n	srd	dimissione	n-f
 	cat	discussió	n-f$n	srd	discussione	n-f
-	cat	divisió	n$n-f	srd	divisione	n-f
+	cat	divisió	n-f$n	srd	divisione	n-f
 	cat	erosió	n-f$n	srd	erosione	n-f
-	cat	exclusió	n$n-f	srd	esclusione	n-f
-	cat	expansió	n$n-f	srd	espansione	n-f
+	cat	exclusió	n-f$n	srd	esclusione	n-f
+	cat	expansió	n-f$n	srd	espansione	n-f
 	cat	expulsió	n-f$n	srd	espulsione	n-f
 	cat	il·lusió	n-f$n	srd	illusione	n-f
 	cat	incursió	n-f$n	srd	incursione	n-f
@@ -1444,16 +1444,16 @@ LR	cat	aprenent	n-f	srd	dischente	n-m$n
 	cat	passió	n-f$n	srd	passione	n-f
 	cat	pensió	n-f$n	srd	pensione	n-f
 	cat	precisió	n-f$n	srd	pretzisione	n-f
-	cat	previsió	n$n-f	srd	previsione	n-f
-	cat	professió	n$n-f	srd	professione	n-f
-	cat	repressió	n$n-f	srd	repressione	n-f
+	cat	previsió	n-f$n	srd	previsione	n-f
+	cat	professió	n-f$n	srd	professione	n-f
+	cat	repressió	n-f$n	srd	repressione	n-f
 	cat	reflexió	n$n-f	srd	riflessione	n-f
 	cat	secessió	n-f$n	srd	setzessione	n-f
-	cat	supressió	n$n-f	srd	supressione	n-f
-	cat	suspensió	n$n-f	srd	suspensione	n-f
-	cat	submissió	n-f$n	srd	sutamissione	n$n-f
+	cat	supressió	n-f$n	srd	supressione	n-f
+	cat	suspensió	n-f$n	srd	suspensione	n-f
+	cat	submissió	n-f	srd	sutamissione	n$n-f
 	cat	successió	n-f$n	srd	sutzessione	n-f
-	cat	tensió	n$n-f	srd	tensione	n-f
+	cat	tensió	n-f$n	srd	tensione	n-f
 	cat	ungla	n-f$n	srd	ungra	n-f
 	cat	ull	n$n-m	srd	ogru	n-m
 	cat	silenci	n-m$n	srd	mudesa	n-f
@@ -3445,7 +3445,7 @@ RL	cat	SIDA	n-acr-f$n-acr-f-sg	srd	AIDS	n-acr-f-sg
 	cat	més	adj$adj-mf-sp	srd	prus	adj
 RL	cat	següent	adj-mf$adj$	srd	in fatu	adj-mf
 	cat	següent	adj-mf$adj$	srd	imbeniente	adj$adj-mf
-	cat	obra	n$n-f	srd	òpera	n-f
+	cat	obra	n-f$n	srd	òpera	n-f
 	cat	proper	adj$$adj-GD	srd	imbeniente	adj$adj-mf
 	cat	va	adj$	srd	vanu	adj
 	cat	parella	n-f$n	srd	pariga	n-f
@@ -3476,11 +3476,11 @@ LR	cat	habitatge	n-m$n	srd	domo	n-f
 	cat	vertical	n$n-f	srd	verticale	n-f
 	cat	esdevenir	vblex	srd	divenire	vblex
 	cat	piràmide	n$n-f	srd	piràmide	n-f
-	cat	temporada	n$n-f	srd	istajone	n-f
+	cat	temporada	n-f$n	srd	istajone	n-f
 	cat	unir	vblex$vblex-pron	srd	unire	vblex
 	cat	vegada	n-f$n$n-f-ND	srd	bia	n-f
 RL	cat	vegada	n-f$n$n-f-ND	srd	borta	n-f
-	cat	pobresa	n$n-f$n-f-sg	srd	poberesa	n-f
+	cat	pobresa	n-f$n$n-f-sg	srd	poberesa	n-f
 	cat	poc	adj$adj-ind-f-pl$adj-ind	srd	pagu	adj$adj-m
 	cat	molt poc	adj	srd	pagu	adj$adj-m
 	cat	Joan	np-ant$np-ant-m-sg$np$	srd	Joan	np-ant-m$np-ant-m-sg
@@ -3546,7 +3546,7 @@ LR	cat	cop	n-m$n	srd	bia	n-f
 RL	cat	disputar	vblex	srd	disputare	vblex
 	cat	disputar	vblex	srd	cuntierrare	vblex
 RL	cat	disputar	vblex	srd	chertare	vblex
-	cat	carrera	n$n-f	srd	carriera	n-f
+	cat	carrera	n-f$n	srd	carriera	n-f
 	cat	estructura	n-f$n	srd	istrutura	n-f
 	cat	tropa	n$n-f	srd	tropa	n-f
 	cat	fins i tot	adv	srd	agiomai	adv
@@ -3560,11 +3560,11 @@ RL	cat	derrotar	vblex	srd	derrotare	vblex
 	cat	Carles	np-ant$np-ant-m-sg$np$	srd	Càralu	np-ant-m$np-ant-m-sg
 	cat	joc	n-m$n	srd	giogu	n-m
 	cat	esmentar	vblex	srd	mentovare	vblex
-	cat	resurrecció	n$n-f	srd	resurretzione	n-f
+	cat	resurrecció	n-f$n	srd	resurretzione	n-f
 	cat	vila	n-f$n	srd	villa	n-f
 RL	cat	vila	n-f$n	srd	bidda	n-f
 	cat	municipal	adj$adj-mf$	srd	munitzipale	adj
-	cat	porta	n$n-f	srd	porta	n-f
+	cat	porta	n-f$n	srd	porta	n-f
 	cat	traslladar	vblex	srd	tramudare	vblex
 	cat	estiu	n-m$n	srd	istiu	n-m
 	cat	oferir	vblex$vblex-pron	srd	ofèrrere	vblex
@@ -3598,13 +3598,13 @@ RL	cat	succeir	vblex$vblex-pp	srd	capitare	vblex
 	cat	Josep	np-ant$np$np-ant-m-sg$	srd	Josep	np-ant-m-sg
 	cat	Josep	np-ant$np$np-ant-m-sg$	srd	Giosepe	np-ant-m$np-ant-m-sg
 	cat	Francesc Josep	np-ant-m-sg	srd	Frantziscu Giosepe	np-ant-m$np-ant-m-sg
-	cat	vaixell	n$n-m	srd	naviu	n-m
+	cat	vaixell	n-m$n	srd	naviu	n-m
 	cat	anglès	n$n-m	srd	inglesu	n
 	cat	exemple	n-m$n	srd	esempru	n-m
 RL	cat	exemple	n-m$n	srd	esèmpiu	n-m
 	cat	data	n-f$n	srd	data	n-f
-	cat	victòria	n$n-f	srd	vitòria	n-f
-	cat	etapa	n$n-f	srd	tapa	n-f
+	cat	victòria	n-f$n	srd	vitòria	n-f
+	cat	etapa	n-f$n	srd	tapa	n-f
 	cat	comtat	n-m$n	srd	contea	n-f
 	cat	vescomtat	n-m$n	srd	viscontea	n-f
 	cat	reduir	vblex	srd	minimare	vblex
@@ -3629,7 +3629,7 @@ RL	cat	assolir	vblex	srd	arribare	vblex
 	cat	andorrà	n$n-m	srd	andorranu	n
 	cat	actuar	vblex	srd	fàghere	vblex
 	cat	governador	n$n-m	srd	guvernadore	n
-	cat	pintura	n$n-f	srd	pintura	n-f
+	cat	pintura	n-f$n	srd	pintura	n-f
 	cat	entrada	n-f$n	srd	intrada	n-f
 	cat	barri	n-m$n	srd	bighinadu	n-m
 RL	cat	barri	n-m$n	srd	apendìtziu	n-m
@@ -3667,7 +3667,7 @@ RL	cat	usuari	n$n-m	srd	impitadore	n
 	cat	desaparèixer	vblex	srd	isparire	vblex
 	cat	esvair	vblex	srd	isvanèssere	vblex
 	cat	datar	vblex	srd	datare	vblex
-	cat	capella	n$n-f	srd	capella	n-f
+	cat	capella	n-f$n	srd	capella	n-f
 	cat	inferior	adj$adj-mf$	srd	inferiore	adj
 	cat	matar	vblex	srd	ochire	vblex
 	cat	nucli	n-m$n	srd	nùcleu	n-m
@@ -3676,7 +3676,7 @@ RL	cat	usuari	n$n-m	srd	impitadore	n
 	cat	adquirir	vblex	srd	achirire	vblex
 	cat	tant	adj$adj-GD$adj-GD-pl	srd	meda	adj
 	cat	cantó	n-m$n	srd	contone	n-m
-	cat	escena	n$n-f	srd	iscena	n-f
+	cat	escena	n-f$n	srd	iscena	n-f
 	cat	bosc	n-m$n$n-m-sg	srd	buscu	n-m
 	cat	senyor	n$n-f	srd	sennore	n
 	cat	temple	n-m$n	srd	tèmpiu	n-m
@@ -3723,10 +3723,10 @@ RL	cat	tancar	vblex	srd	cungiare	vblex
 	cat	expedició	n-f$n	srd	ispeditzione	n-f
 	cat	concert	n-m$n	srd	cuntzertu	n-m
 	cat	aproximadament	adv	srd	belle	adv
-	cat	revolta	n$n-f	srd	abbolotu	n-m
+	cat	revolta	n-f$n	srd	abbolotu	n-m
 	cat	accés	n-m$n	srd	atzessu	n-m
 	cat	combat	n-m$n	srd	cumbata	n-f
-	cat	festa	n$n-f	srd	festa	n-f
+	cat	festa	n-f$n	srd	festa	n-f
 	cat	comandament	n-m$n	srd	cumandamentu	n-m
 	cat	preparar	vblex	srd	preparare	vblex
 RL	cat	preparar	vblex	srd	aprontare	vblex
@@ -3741,12 +3741,12 @@ RL	cat	preparar	vblex	srd	aprontare	vblex
 	cat	Sixt	np-ant-m-sg$np-ant	srd	Sixt	np-ant-m-sg
 	cat	Sixt	np-ant-m-sg$np-ant	srd	Sistu	np-ant-m$np-ant-m-sg
 	cat	branca	n-f$n	srd	camba	n-f
-	cat	mida	n$n-f	srd	medida	n-f
+	cat	mida	n-f$n	srd	medida	n-f
 	cat	cedir	vblex	srd	tzèdere	vblex
 	cat	bandera	n-f$n	srd	bandera	n-f
 	cat	conquerir	vblex	srd	conchistare	vblex
 LR	cat	conquistar	vblex	srd	conchistare	vblex
-	cat	catedral	n$n-f	srd	catedrale	n-f
+	cat	catedral	n-f$n	srd	catedrale	n-f
 	cat	líder	n-mf$n	srd	cabu	n-m
 RL	cat	líder	n-mf$n	srd	ghia	n-f
 	cat	contacte	n-m$n	srd	cuntatu	n-m
@@ -3769,7 +3769,7 @@ RL	cat	esperar	vblex	srd	isperare	vblex
 	cat	rebutjar	vblex	srd	refudare	vblex
 	cat	proporcionar	vblex	srd	frunire	vblex
 RL	cat	proporcionar	vblex	srd	partire	vblex
-	cat	tècnica	n$n-f	srd	tècnica	n-f
+	cat	tècnica	n-f$n	srd	tècnica	n-f
 	cat	contingut	n-m$n	srd	cuntenutu	n-m
 	cat	britànic	n$n-m	srd	britànnicu	n
 	cat	palau	n-m$n	srd	palatzu	n-m
@@ -3777,18 +3777,18 @@ RL	cat	proporcionar	vblex	srd	partire	vblex
 LR	cat	centrar	vblex	srd	cuntzentrare	vblex
 	cat	constar	vblex	srd	cunsìstere	vblex
 	cat	enllaç	n-m$n	srd	ligàmene	n-m
-	cat	fortalesa	n$n-f	srd	casteddu	n-m
+	cat	fortalesa	n-f$n	srd	casteddu	n-m
 	cat	comerç	n-m$n	srd	cummèrtziu	n-m
 	cat	treure	vblex	srd	bogare	vblex
 	cat	traure	vblex	srd	bogare	vblex
 LR	cat	llevar	vblex	srd	bogare	vblex
 	cat	masculí	adj$	srd	maschile	adj
 	cat	marca	n-f$n	srd	marca	n-f
-	cat	columna	n$n-f	srd	colunna	n-f
+	cat	columna	n-f$n	srd	colunna	n-f
 	cat	ruta	n-f$n	srd	caminu	n-m
 	cat	cert	adj$	srd	tzertu	adj
 	cat	recollir	vblex	srd	collire	vblex
-	cat	cèl·lula	n$n-f	srd	tzèllula	n-f
+	cat	cèl·lula	n-f$n	srd	tzèllula	n-f
 	cat	hivern	n$n-m	srd	ierru	n-m
 	cat	químic	adj$	srd	chìmicu	adj
 	cat	bioquímic	adj	srd	biochìmicu	adj
@@ -3884,7 +3884,7 @@ LR	cat	completament	adv	srd	de su totu	adv
 	cat	alçada	n-f$n	srd	artura	n-f
 	cat	llatí	n$n-m$n-m-sg	srd	latinu	n
 	cat	parc	n$n-m$	srd	parcu	n-m
-	cat	corona	n$n-f	srd	corona	n-f
+	cat	corona	n-f$n	srd	corona	n-f
 	cat	transport	n$n-m	srd	trasportu	n-m
 	cat	exposar	vblex	srd	arriscare	vblex
 RL	cat	exposar	vblex	srd	atrivire	vblex
@@ -3947,12 +3947,12 @@ RL	cat	com ara	adv	srd	comente como	adv
 	cat	retornar	vblex	srd	torrare	vblex
 	cat	clàssic	adj$	srd	clàssicu	adj
 	cat	nou	n-f$n$n-f-ND	srd	nughe	n-f
-LR	cat	anou	n$n-f	srd	nughe	n-f
+LR	cat	anou	n-f$n	srd	nughe	n-f
 	cat	meitat	n$n-f$n-f-ND	srd	metade	n-f
 	cat	cola	n-f$n	srd	colla	n-f
 	cat	suposar	vblex	srd	supònnere	vblex
 	cat	tribu	n-f$n$n-f-sg	srd	tribù	n-f
-	cat	temperatura	n$n-f	srd	temperadura	n-f
+	cat	temperatura	n-f$n	srd	temperadura	n-f
 	cat	Guerra	np-cog-mf-sp	srd	Guerra	np-cog$np-cog-mf-sp
 	cat	Enric	np-ant$np-ant-m-sg$np$	srd	Enric	np-ant-m-sg
 	cat	Enric	np-ant$np-ant-m-sg$np$	srd	Erricu	np-ant-m-sg
@@ -3979,7 +3979,7 @@ RL	cat	plantilla	n-f$n$n-f-sg	srd	sàgoma	n-f
 	cat	necessitar	vblex	srd	tènnere	vblex
 	cat	Manuel	np-ant$np-ant-m-sg$	srd	Manuel	np-ant-m$np-ant-m-sg
 	cat	Manuel	np-ant$np-ant-m-sg$	srd	Manuelle	np-ant-m-sg
-	cat	reforma	n$n-f	srd	riforma	n-f
+	cat	reforma	n-f$n	srd	riforma	n-f
 	cat	contrareforma	n$n-f	srd	contrariforma	n-f
 	cat	possessió	n-f$n	srd	poderiu	n-m
 	cat	per primera vegada	adv	srd	sa prima bia	adv
@@ -4029,7 +4029,7 @@ RL	cat	gravar	vblex	srd	registrare	vblex
 	cat	presó	n-f$n	srd	presone	n-f
 	cat	geogràfic	adj$	srd	geogràficu	adj
 	cat	inaugurar	vblex	srd	inaugurare	vblex
-	cat	capa	n$n-f	srd	capa	n-f
+	cat	capa	n-f$n	srd	capa	n-f
 	cat	muralla	n-f$n	srd	muralla	n-f
 	cat	impedir	vblex	srd	impedire	vblex
 RL	cat	impedir	vblex	srd	impedumare	vblex
@@ -4048,7 +4048,7 @@ LR	cat	ajut	n-m$n	srd	agiudu	n-m
 	cat	rang	n-m$n	srd	rangu	n-m
 	cat	altura	n-f$n	srd	artària	n-f
 	cat	gòtic	adj$	srd	gòticu	adj
-	cat	arrel	n$n-f	srd	raighina	n-f
+	cat	arrel	n-f$n	srd	raighina	n-f
 LR	cat	rel	n-f	srd	raighina	n-f
 	cat	bronze	n-m$n	srd	brunzu	n-m
 	cat	assistir	vblex	srd	assistire	vblex
@@ -4063,7 +4063,7 @@ LR	cat	rel	n-f	srd	raighina	n-f
 	cat	James	np$np-ant-m-sg$$np-ant	srd	James	np-ant-m$np-ant-m-sg
 	cat	poesia	n$n-f	srd	poesia	n-f
 	cat	assumir	vblex	srd	assùmere	vblex
-	cat	venda	n$n-f	srd	bèndida	n-f
+	cat	venda	n-f$n	srd	bèndida	n-f
 	cat	bisbat	n-m$n	srd	diòtzesi	n-f
 	cat	citar	vblex	srd	tzitare	vblex
 	cat	ocell	n-m$n	srd	pugione	n-m
@@ -4123,7 +4123,7 @@ RL	cat	relleu	n-m$n	srd	annotu	n-m
 	cat	forçar	vblex	srd	fortzare	vblex
 	cat	Paul	np$np-ant-m-sg$$np-ant	srd	Paul	np-ant-m$np-ant-m-sg
 	cat	quadre	n-m$n	srd	cuadru	n-m
-	cat	inscripció	n$n-f	srd	iscritzione	n-f
+	cat	inscripció	n-f$n	srd	iscritzione	n-f
 	cat	sang	n-f$n	srd	sàmbene	n-m
 	cat	revoltar	vblex	srd	bortare	vblex
 	cat	massa	adv	srd	tropu	adv
@@ -4248,7 +4248,7 @@ LR	cat	desistir	vblex	srd	rinuntziare	vblex
 	cat	negoci	n-m$n	srd	afare	n-m
 	cat	ou	n$n-m$n-m-pl	srd	ou	n-m
 	cat	permanent	adj$adj-mf$	srd	permanente	adj
-	cat	millora	n$n-f	srd	megioru	n-m
+	cat	millora	n-f$n	srd	megioru	n-m
 	cat	ducat	n-m$n	srd	ducadu	n-m
 	cat	anteriorment	adv	srd	in antis	adv
 	cat	primari	adj$	srd	primàriu	adj
@@ -4259,7 +4259,7 @@ LR	cat	desistir	vblex	srd	rinuntziare	vblex
 	cat	esclatar	vblex	srd	esplòdere	vblex
 	cat	Pedro	np-ant$np$np-ant-m-sg$	srd	Pedro	np-ant-m$np-ant-m-sg
 	cat	definitiu	adj$	srd	definitivu	adj
-	cat	costum	n-m$n$n-m-pl	srd	abitùdine	n-f
+	cat	costum	n-m$n-m-pl	srd	abitùdine	n-f
 	cat	Sevilla	np-loc$np-loc-f	srd	Sevilla	np-top-f-sg
 	cat	musulmà	n$n-m	srd	musulmanu	n
 	cat	Dinamarca	np$np-loc$np-loc-f	srd	Danimarca	np-top-f-sg$np-top-f
@@ -4272,7 +4272,7 @@ LR	cat	desistir	vblex	srd	rinuntziare	vblex
 	cat	durada	n-f$n	srd	durada	n-f
 	cat	detall	n-m$n	srd	detàlliu	n-m
 	cat	riba	n-f$n	srd	oru	n-m
-	cat	descripció	n$n-f	srd	descritzione	n-f
+	cat	descripció	n-f$n	srd	descritzione	n-f
 	cat	d'acord	adv	srd	de acordu	adv
 	cat	Jerusalem	np$np-loc$np-loc-m	srd	Gerusalemme	np-top-f-sg
 	cat	decorar	vblex	srd	decorare	vblex
@@ -4283,7 +4283,7 @@ LR	cat	desistir	vblex	srd	rinuntziare	vblex
 	cat	variació	n-f$n	srd	variatzione	n-f
 	cat	present	n-m$n	srd	presente	n-m
 	cat	allí	adv	srd	in cue	adv
-	cat	naturalesa	n$n-f	srd	natura	n-f
+	cat	naturalesa	n-f$n	srd	natura	n-f
 	cat	eclesiàstic	adj$	srd	eclesiàsticu	adj
 RL	cat	eclesiàstic	adj$	srd	cresiàsticu	adj
 	cat	anell	n$n-m	srd	aneddu	n-m
@@ -4302,7 +4302,7 @@ RL	cat	eclesiàstic	adj$	srd	cresiàsticu	adj
 	cat	extinció	n-f$n	srd	estintzione	n-f
 	cat	García	np-cog$np-cog-mf-sp	srd	García	np-cog$np-cog-mf-sp
 	cat	dissoldre	vblex	srd	isòlvere	vblex
-	cat	premsa	n$n-f	srd	istampa	n-f
+	cat	premsa	n-f$n	srd	istampa	n-f
 	cat	detenir	vblex	srd	detènnere	vblex
 	cat	impulsar	vblex	srd	segugiare	vblex
 	cat	desitjar	vblex	srd	disigiare	vblex
@@ -4311,14 +4311,14 @@ LR	cat	tan sols	adv	srd	petzi	adv
 	cat	estàtua	n$n-f	srd	istàtua	n-f
 	cat	compost	n-m$n	srd	cumpostu	n-m
 	cat	competir	vblex	srd	cumpètere	vblex
-	cat	primavera	n$n-f$n-f-ND	srd	beranu	n-m
+	cat	primavera	n-f$n$n-f-ND	srd	beranu	n-m
 	cat	marxa	n-f$n	srd	martza	n-f
 	cat	matriu	n-f$n	srd	màdrighe	n-m
 	cat	opció	n-f$n	srd	sèberu	n-m
 	cat	reforçar	vblex	srd	afortigare	vblex
 	cat	a canvi	adv	srd	a càmbiu	adv
-	cat	restauració	n$n-f	srd	acontzadura	n-f
-	cat	medicina	n$n-f	srd	meighina	n-f
+	cat	restauració	n-f$n	srd	acontzadura	n-f
+	cat	medicina	n-f$n	srd	meighina	n-f
 	cat	disminuir	vblex	srd	minimare	vblex
 	cat	Carlos	np-ant$np$np-ant-m-sg$	srd	Carlos	np-ant-m$np-ant-m-sg
 	cat	apoderar	vblex	srd	apoderare	vblex
@@ -4347,7 +4347,7 @@ LR	cat	indret	n$n-m	srd	logu	n-m
 	cat	exigir	vblex	srd	esigire	vblex
 	cat	coll	n-m$n	srd	tzugru	n-m
 	cat	fàcilment	adv	srd	a discansu	adv
-	cat	execució	n$n-f	srd	esecutzione	n-f
+	cat	execució	n-f$n	srd	esecutzione	n-f
 	cat	descobriment	n-m$n	srd	iscoberta	n-f
 	cat	redescobriment	n-m	srd	riscoberta	n-f
 	cat	consolidar	vblex	srd	consolidare	vblex
@@ -4396,22 +4396,22 @@ LR	cat	nazista	n-mf	srd	nazista	n-mf$n
 	cat	festival	n$n-m$n-m-sg	srd	fèstival	n-m
 	cat	cambra	n-f$n$n-f-ND	srd	aposentu	n-m
 	cat	cambra	n-f$n$n-f-ND	srd	càmera	n-f
-	cat	ronda	n$n-f	srd	runda	n-f
+	cat	ronda	n-f$n	srd	runda	n-f
 LR	cat	clan	n-m$n$n-m-sg	srd	ereu	n-m
 	cat	suma	n-f$n	srd	summa	n-f
 	cat	por	n-f$n	srd	timoria	n-f
 	cat	risc	n-m$n	srd	arriscu	n-m
-	cat	fusió	n$n-f	srd	fusione	n-f
+	cat	fusió	n-f$n	srd	fusione	n-f
 	cat	cant	n$n-m	srd	càntigu	n-m
 	cat	retrat	n-m$n	srd	ritratu	n-m
 	cat	videojoc	n-m$n	srd	video-giogu	n-m
-	cat	observació	n$n-f	srd	pompiadura	n-f
+	cat	observació	n-f$n	srd	pompiadura	n-f
 	cat	jaciment	n-m$n	srd	batzinu	n-m
 RL	cat	jaciment	n-m$n	srd	istèrrida	n-f
-	cat	disciplina	n$n-f	srd	disciplina	n-f
+	cat	disciplina	n-f$n	srd	disciplina	n-f
 	cat	visible	adj$adj-mf$	srd	visìbile	adj
 	cat	fama	n-f$n	srd	fama	n-f
-	cat	mal	n$n-m$n-m-sg	srd	male	n-m
+	cat	mal	n-m$n$n-m-sg	srd	male	n-m
 	cat	portuguès	n$n-m	srd	portughesu	n
 	cat	torrent	n-m$n	srd	trainu	n-m
 	cat	abadia	n-f$n	srd	abbadia	n-f
@@ -4419,7 +4419,7 @@ RL	cat	jaciment	n-m$n	srd	istèrrida	n-f
 	cat	olímpic	adj$	srd	olìmpicu	adj
 	cat	alfabet	n-m$n	srd	alfabetu	n-m
 	cat	cova	n$n-f	srd	gruta	n-f
-LR	cat	gruta	n$n-f	srd	gruta	n-f
+LR	cat	gruta	n-f$n	srd	gruta	n-f
 	cat	compte	n-m$n	srd	contu	n-m
 	cat	vora	n-f$n	srd	làcana	n-f
 	cat	apreciar	vblex	srd	agradèssere	vblex
@@ -4445,7 +4445,7 @@ LR	cat	originari	adj$	srd	nadiu	adj
 	cat	bit	n-m$n	srd	bit	n-m
 	cat	karate	n-m$n$n-m-sg	srd	karate	n-m
 	cat	judo	n-m$n$n-m-sg	srd	judo	n-m
-	cat	noblesa	n$n-f$n-f-sg	srd	nobilesa	n-f
+	cat	noblesa	n-f$n$n-f-sg	srd	nobilesa	n-f
 	cat	saquejar	vblex	srd	assachigiare	vblex
 RL	cat	saquejar	vblex	srd	isrobare	vblex
 	cat	desconegut	adj$	srd	disconnotu	adj
@@ -4460,8 +4460,8 @@ RL	cat	saquejar	vblex	srd	isrobare	vblex
 RL	cat	petició	n-f$n	srd	dimanda	n-f
 	cat	brillant	adj$adj-mf$	srd	lughente	adj
 LR	cat	brillant	adj-sup	srd	lughente	adj
-	cat	guitarra	n$n-f	srd	chitarra	n-f
-RL	cat	guitarra	n$n-f	srd	chiterra	n-f
+	cat	guitarra	n-f$n	srd	chitarra	n-f
+RL	cat	guitarra	n-f$n	srd	chiterra	n-f
 	cat	Constantinoble	np$np-loc$np-loc-f	srd	Costantinòpoli	np-top-m-sg
 	cat	humit	adj$	srd	infustu	adj
 	cat	Esteve	np-ant-m-sg$np$np-ant$	srd	Esteve	np-ant-m-sg
@@ -4472,9 +4472,9 @@ RL	cat	guitarra	n$n-f	srd	chiterra	n-f
 	cat	autonomia	n-f$n	srd	autonomia	n-f
 	cat	emprendre	vblex	srd	cumintzare	vblex
 	cat	turc	n$n-m	srd	turcu	n
-	cat	òrbita	n$n-f	srd	òrbita	n-f
+	cat	òrbita	n-f$n	srd	òrbita	n-f
 	cat	taxa	n-f$n$n-f-ND	srd	tassa	n-f
-	cat	caixa	n$n-f	srd	càscia	n-f
+	cat	caixa	n-f$n	srd	càscia	n-f
 	cat	cerimònia	n$n-f	srd	tzerimònia	n-f
 	cat	dipòsit	n-m$n	srd	depòsitu	n-m
 	cat	carn	n$n-f	srd	petza	n-f
@@ -4494,13 +4494,13 @@ LR	cat	particularment	adv	srd	mescamente	adv
 	cat	cel	n$n-m	srd	chelu	n-m
 	cat	Napoleó	np-ant$np-ant-m-sg$$np	srd	Napoleone	np-ant-m$np-ant-m-sg
 	cat	atmosfera	n-f$n	srd	atmosfera	n-f
-	cat	frase	n$n-f	srd	frase	n-f
+	cat	frase	n-f$n	srd	frase	n-f
 	cat	baixa	n-f$n	srd	abbassamentu	n-m
 	cat	a la dreta	adv	srd	a sa dereta	adv
 	cat	procediment	n-m$n	srd	protzedimentu	n-m
 	cat	graduar	vblex	srd	graduare	vblex
 	cat	gust	n-m$n	srd	tastu	n-m
-	cat	sal	n$n-f	srd	sale	n-m
+	cat	sal	n-f$n	srd	sale	n-m
 	cat	acordar	vblex	srd	cuncordare	vblex
 	cat	cristianisme	n-m$n	srd	cristianèsimu	n-m
 	cat	mot	n-m$n	srd	paràula	n-f
@@ -4511,7 +4511,7 @@ LR	cat	possiblement	adv	srd	forsis	adv
 	cat	demanda	n$n-f	srd	dimanda	n-f
 	cat	a l'esquerra	adv	srd	a sa manca	adv
 	cat	marítim	adj$	srd	marìtimu	adj
-	cat	vapor	n$n-m	srd	papore	n-m
+	cat	vapor	n-m$n	srd	papore	n-m
 	cat	exemplar	n-m$n$	srd	esemplare	n-m
 	cat	roda	n$n-f	srd	roda	n-f
 	cat	voltant	n-m$n	srd	ambiente	n-m
@@ -4575,7 +4575,7 @@ RL	cat	donació	n-f$n	srd	lassa	n-f
 	cat	arquitectònic	adj$	srd	architetònicu	adj
 	cat	fracassar	vblex	srd	faddire	vblex
 	cat	suportar	vblex	srd	aguantare	vblex
-	cat	roba	n$n-f$n-f-sg	srd	roba	n-f
+	cat	roba	n-f$n$n-f-sg	srd	roba	n-f
 	cat	acta	n$n-f	srd	atu	n-m
 	cat	galeria	n$n-f	srd	galleria	n-f
 	cat	marc	n-m$n	srd	marcu	n-m
@@ -4606,25 +4606,25 @@ RL	cat	vertical	adj$adj-mf$	srd	ritzu	adj
 	cat	refusar	vblex	srd	refudare	vblex
 	cat	fusionar	vblex	srd	fùndere	vblex
 	cat	López	np-cog$np-cog-mf-sp	srd	López	np-cog$np-cog-mf-sp
-	cat	utilització	n$n-f	srd	impreu	n-m
+	cat	utilització	n-f$n	srd	impreu	n-m
 	cat	triomf	n$n-m	srd	triunfu	n-m
 	cat	pràctic	adj$	srd	pràticu	adj
-	cat	ceràmica	n$n-f$n-f-sg	srd	tzeràmica	n-f
+	cat	ceràmica	n-f$n$n-f-sg	srd	tzeràmica	n-f
 	cat	trajectòria	n$n-f	srd	paràbula	n-f
 	cat	enginyeria	n$n-f	srd	ingegneria	n-f
-	cat	conservació	n$n-f	srd	cunservatzione	n-f
+	cat	conservació	n-f$n	srd	cunservatzione	n-f
 	cat	rectangular	adj$$adj-mf	srd	retangulare	adj$adj-mf
 	cat	estàndard	n-m$n	srd	istandard	n-m
 	cat	prometre	vblex$vblex-pron	srd	promìtere	vblex
-	cat	cuina	n$n-f	srd	coghina	n-f
+	cat	cuina	n-f$n	srd	coghina	n-f
 LR	cat	resulta	n-f$n	srd	risultadu	n-m
-	cat	separació	n$n-f	srd	separatzione	n-f
+	cat	separació	n-f$n	srd	separatzione	n-f
 	cat	privilegi	n-m$n	srd	privilègiu	n-m
 	cat	parroquial	adj$adj-mf	srd	parrochiale	adj$adj-mf
-	cat	negociació	n$n-f	srd	negotziatzione	n-f
+	cat	negociació	n-f$n	srd	negotziatzione	n-f
 	cat	paral·lel	adj$	srd	parallelu	adj
 	cat	capçalera	n-f$n$n-f-sg	srd	lìtera	n-f
-	cat	bellesa	n$n-f	srd	bellesa	n-f
+	cat	bellesa	n-f$n	srd	bellesa	n-f
 	cat	plat	n-m$n	srd	pratu	n-m
 	cat	penjar	vblex	srd	apicare	vblex
 	cat	Urgell	np-loc$np-loc-f	srd	Urgell	np-top-m-sg
@@ -4632,7 +4632,7 @@ LR	cat	resulta	n-f$n	srd	risultadu	n-m
 	cat	cèlebre	adj$adj-mf$	srd	famadu	adj
 	cat	grandària	n-f$n	srd	mannària	n-f
 	cat	temporal	adj-mf$adj$	srd	temporale	adj
-	cat	documentació	n$n-f	srd	documentatzione	n-f
+	cat	documentació	n-f$n	srd	documentatzione	n-f
 	cat	recinte	n-m$n	srd	cresura	n-f
 	cat	probable	adj$adj-mf$	srd	dàbile	adj
 	cat	bàsicament	adv	srd	in sustàntzia	adv
@@ -4650,7 +4650,7 @@ LR	cat	resulta	n-f$n	srd	risultadu	n-m
 	cat	acostar	vblex$vblex-pron	srd	corcare	vblex
 	cat	institut	n-m$n	srd	istitutu	n-m
 	cat	estrany	adj$$adj-sup	srd	istranu	adj
-	cat	actitud	n$n-f	srd	atitudine	n-f
+	cat	actitud	n-f$n	srd	atitudine	n-f
 	cat	barrejar	vblex	srd	ammisturare	vblex
 	cat	hipòtesi	n-f$n$n-f-ND	srd	ipòtesi	n-f
 	cat	antiguitat	n-f$n	srd	antighidade	n-f
@@ -4678,7 +4678,7 @@ RL	cat	excel·lent	adj$adj-mf$	srd	primorosu	adj
 	cat	Perpinyà	np$np-loc$np-loc-m	srd	Perpignanu	np-top-m-sg
 	cat	Fernández	np-cog$np-cog-mf-sp	srd	Fernández	np-cog-mf-sp
 	cat	Conca	np-loc	srd	Conca	np-top-m-sg
-	cat	interacció	n$n-f	srd	interatzione	n-f
+	cat	interacció	n-f$n	srd	interatzione	n-f
 	cat	univers	n-m$n	srd	universu	n-m
 	cat	allargar	vblex	srd	illargare	vblex
 	cat	informe	n$n-m	srd	raportu	n-m
@@ -4697,7 +4697,7 @@ LR	cat	Savoia	np-loc$np	srd	Savoia	np-top-f-sg
 	cat	Nicolau	np-ant-m-sg$np$np-ant$	srd	Nigola	np-ant-m$np-ant-m-sg
 	cat	mineral	adj$adj-mf$	srd	minerale	adj
 	cat	amant	n-mf$n$	srd	amante	n-mf
-	cat	espasa	n$n-f$n-f-pl	srd	ispada	n-f
+	cat	espasa	n-f$n$n-f-pl	srd	ispada	n-f
 	cat	variable	adj$adj-mf$	srd	variàbile	adj
 	cat	a prop	adv	srd	a curtzu	adv
 	cat	insecte	n$n-m	srd	babautzu	n-m
@@ -4732,11 +4732,11 @@ RL	cat	pertanyent	adj$adj-mf$	srd	pertinente	adj$adj-mf
 	cat	sorprendre	vblex	srd	ispantare	vblex
 LR	cat	estranyar	vblex	srd	ispantare	vblex
 	cat	lliura	n-f$n	srd	lira	n-f
-	cat	sessió	n$n-f	srd	sessione	n-f
+	cat	sessió	n-f$n	srd	sessione	n-f
 	cat	Pérez	np-cog$np-cog-mf-sp	srd	Pérez	np-cog$np-cog-mf-sp
 	cat	decisiu	adj$	srd	detzisivu	adj
 	cat	Borgonya	np$np-loc	srd	Borgogna	np-top-f-sg
-	cat	perspectiva	n$n-f	srd	prospetiva	n-f
+	cat	perspectiva	n-f$n	srd	prospetiva	n-f
 	cat	barra	n-f$n	srd	bangu	n-m
 	cat	segrest	n-m$n	srd	rapimentu	n-m
 	cat	genètic	adj$	srd	genèticu	adj
@@ -4763,7 +4763,7 @@ RL	cat	reservar	vblex	srd	apartare	vblex
 	cat	sucre	n$n-m	srd	tzùcaru	n-m
 	cat	automòbil	n-m$n	srd	automòbile	n-f
 	cat	sota la direcció	adv	srd	suta sa diretzione	adv
-	cat	doctrina	n$n-f	srd	dotrina	n-f
+	cat	doctrina	n-f$n	srd	dotrina	n-f
 	cat	regir	vblex	srd	règhere	vblex
 	cat	impossible	adj$adj-mf$	srd	impossìbile	adj
 	cat	Grand	np$np-cog-mf-sp	srd	Grand	np-cog-mf-sp
@@ -4778,7 +4778,7 @@ RL	cat	reservar	vblex	srd	apartare	vblex
 	cat	parent	n$n-mf	srd	parente	n-m
 	cat	gamma	n-f$n	srd	variedade	n-f
 	cat	guardonar	vblex$vblex-pp	srd	premiare	vblex
-	cat	fortificació	n$n-f	srd	casteddu	n-m
+	cat	fortificació	n-f$n	srd	casteddu	n-m
 	cat	comerciant	n-mf$n	srd	cummertziante	n-m$n
 	cat	debut	n-m$n	srd	esòrdiu	n-m
 	cat	vegetal	adj$adj-mf$	srd	vegetale	adj$adj-mf
@@ -4837,7 +4837,7 @@ RL	cat	nord-americà	adj$adj-GD	srd	istadunidensu	adj
 RL	cat	nord-americà	n$n-m	srd	istadunidensu	n
 	cat	ample	adj-mf-pl$adj$	srd	largu	adj
 	cat	paret	n-f$n	srd	muru	n-m$n-m-pl
-	cat	platja	n$n-f	srd	marina	n-f
+	cat	platja	n-f$n	srd	marina	n-f
 	cat	groc	adj$$adj-sup	srd	grogu	adj
 	cat	jardí	n-m$n	srd	giardinu	n-m
 	cat	cinquè	adj$adj-ord$adj-ord-GD-ND	srd	de chimbe	adj-ord
@@ -4847,7 +4847,7 @@ LR	cat	quint	adj	srd	de chimbe	adj-ord
 	cat	protagonitzar	vblex	srd	fàghere	vblex
 RL	cat	protagonitzar	vblex	srd	interpretare	vblex
 	cat	pluja	n$n-f	srd	abba	n-f
-	cat	amenaça	n$n-f	srd	minetza	n-f
+	cat	amenaça	n-f$n	srd	minetza	n-f
 	cat	impost	n$n-m$n-m-pl	srd	imposta	n-f
 	cat	reprendre	vblex	srd	torrare	vblex
 	cat	comunista	adj$adj-mf	srd	comunista	adj$adj-mf
@@ -4856,7 +4856,7 @@ RL	cat	donar	vblex	srd	suportare	vblex
 	cat	donar	vblex	srd	amparare	vblex
 RL	cat	donar	vblex	srd	amparare	vblex
 RL	cat	donar	vblex	srd	suportare	vblex
-	cat	absència	n$n-f	srd	ausèntzia	n-f
+	cat	absència	n-f$n	srd	ausèntzia	n-f
 	cat	ascens	n-m$n	srd	artziada	n-f
 	cat	rock	n-m-sp	srd	rock	n-m$n-m-sg
 	cat	Granada	np$np-loc$np-loc-f$	srd	Granada	np-top-f-sg
@@ -4895,7 +4895,7 @@ RL	cat	desembocar	vblex	srd	sicare	vblex
 LR	cat	basquetbol	n-m$n-m-sg$n	srd	pallacanestro	n-f-sg$n-f
 	cat	handbol	n-m$n$n-m-sg	srd	pallamano	n-f$n-f-sg
 	cat	voleibol	n-m$n$n-m-sg	srd	pallavolo	n-f$n-f-sg
-	cat	boca	n$n-f	srd	buca	n-f
+	cat	boca	n-f$n	srd	buca	n-f
 	cat	absorbir	vblex	srd	surbire	vblex
 	cat	mòdul	n-m$n	srd	mòdulu	n-m
 	cat	noble	adj$adj-mf$	srd	nòbile	adj
@@ -4907,11 +4907,11 @@ LR	cat	basquetbol	n-m$n-m-sg$n	srd	pallacanestro	n-f-sg$n-f
 	cat	sol·licitar	vblex	srd	dimandare	vblex
 	cat	aïllar	vblex	srd	abbandare	vblex
 	cat	més aviat	adv	srd	prus a prestu	adv
-	cat	oferta	n$n-f	srd	oferta	n-f
-	cat	herba	n$n-f	srd	erba	n-f
+	cat	oferta	n-f$n	srd	oferta	n-f
+	cat	herba	n-f$n	srd	erba	n-f
 	cat	deposar	vblex	srd	depònnere	vblex
 	cat	botiga	n-f$n	srd	butega	n-f
-	cat	navegació	n$n-f	srd	navigatzione	n-f
+	cat	navegació	n-f$n	srd	navigatzione	n-f
 	cat	comprovar	vblex	srd	averguare	vblex
 	cat	fora	adv	srd	fora	adv
 	cat	suprimir	vblex	srd	suprimire	vblex
@@ -4948,7 +4948,7 @@ RL	cat	immediat	adj$	srd	prontu	adj
 	cat	abastar	vblex	srd	segudare	vblex
 	cat	defensor	n$n-m	srd	difensore	n
 	cat	enzim	n-m	srd	enzima	n-m
-	cat	cura	n-f$n	srd	cura	n-f
+	cat	cura	n-f	srd	cura	n-f
 	cat	virus	n-m-sp$n$n-m	srd	virus	n-m
 	cat	fidel	n$n-mf	srd	fidele	n-mf$n
 	cat	talent	n-m$n	srd	talentu	n-m
@@ -4957,10 +4957,10 @@ RL	cat	immediat	adj$	srd	prontu	adj
 	cat	sostre	n-m$n	srd	sostre	n-m
 	cat	a continuació	adv	srd	in fatu	adv
 RL	cat	a continuació	adv	srd	in segus	adv
-	cat	intensitat	n$n-f$n-f-ND	srd	intensidade	n-f
+	cat	intensitat	n-f$n$n-f-ND	srd	intensidade	n-f
 	cat	pal	n-m$n	srd	palu	n-m
 RL	cat	pal	n-m$n	srd	fuste	n-m
-	cat	esperança	n$n-f	srd	ispera	n-f
+	cat	esperança	n-f$n	srd	ispera	n-f
 	cat	involucrar	vblex	srd	imboligare	vblex
 	cat	Constantí	np-ant-m-sg$np-ant$np	srd	Costantinu	np-ant-m$np-ant-m-sg
 	cat	Constantí	np-loc$np-loc-f	srd	Constantí	np-top-m-sg
@@ -5006,7 +5006,7 @@ RL	cat	soldar	vblex	srd	chitire	vblex
 	cat	biològic	adj$	srd	biològicu	adj
 	cat	tècnic	n-m	srd	tècnicu	n$n-m
 	cat	física	n-f$n	srd	fìsica	n-f
-	cat	astrofísica	n$n-f$n-f-sg	srd	astrofìsica	n-f
+	cat	astrofísica	n-f$n$n-f-sg	srd	astrofìsica	n-f
 	cat	dit	n-m$n$n-m-sg	srd	pòddighe	n-m
 RL	cat	dit	n-m$n$n-m-sg	srd	didu	n-m
 	cat	dit gros	n-m	srd	pòddighe mannu	n-m
@@ -5015,7 +5015,7 @@ LR	cat	call	n-m$n	srd	ghetu	n-m
 	cat	perfecte	adj$adj-mf-pl$	srd	perfetu	adj
 	cat	imperfecte	adj$adj-mf-pl$	srd	imperfetu	adj
 	cat	responsable	adj$adj-mf$	srd	responsàbile	adj
-	cat	vinya	n$n-f	srd	bìngia	n-f
+	cat	vinya	n-f$n	srd	bìngia	n-f
 	cat	confiança	n-f$n	srd	cunfiantza	n-f
 RL	cat	confiança	n-f$n	srd	cunfiàntzia	n-f
 	cat	carbó	n$n-m	srd	carbone	n-m
@@ -5025,7 +5025,7 @@ RL	cat	confiança	n-f$n	srd	cunfiàntzia	n-f
 	cat	cometre	vblex	srd	cummìtere	vblex
 	cat	Terrassa	np-loc$np-loc-f	srd	Terrassa	np-top-f$np-top-f-sg
 	cat	targeta	n-f$n	srd	tèssera	n-f
-	cat	pota	n$n-f	srd	anca	n-f
+	cat	pota	n-f$n	srd	anca	n-f
 	cat	feta	n-f$n	srd	fatu	n-m
 	cat	tornada	n-f$n	srd	torrada	n-f
 	cat	Elisabet	np$np-ant-f-sg$np-ant	srd	Elisabet	np-ant-f-sg
@@ -5033,7 +5033,7 @@ RL	cat	confiança	n-f$n	srd	cunfiàntzia	n-f
 	cat	destí	n-m$n	srd	destinu	n-m
 	cat	Benet	np-ant-m-sg$np$np-ant$	srd	Benet	np-ant-m-sg
 	cat	Benet	np-ant-m-sg$np$np-ant$	srd	Beneitu	np-ant-m$np-ant-m-sg
-	cat	síntesi	n-f$n$n-f-ND	srd	resumu	n-m
+	cat	síntesi	n-f$n-f-ND$n	srd	resumu	n-m
 	cat	imprimir	vblex	srd	imprentare	vblex
 	cat	europeu	n$n-m	srd	europeu	n
 	cat	prèviament	adv	srd	in antis	adv
@@ -5132,7 +5132,7 @@ RL	cat	concebre	vblex	srd	impringiare	vblex
 	cat	incident	n$n-m	srd	intzidente	n-m
 	cat	setè	adj$adj-ord$adj-ord-GD-ND	srd	de sete	adj-ord
 	cat	fitxa	n-f$n	srd	ischeda	n-f
-	cat	candidatura	n$n-f	srd	candidadura	n-f
+	cat	candidatura	n-f$n	srd	candidadura	n-f
 	cat	teòric	adj	srd	teòricu	adj
 	cat	galàxia	n-f$n	srd	galàssia	n-f
 	cat	Son	np$np-loc	srd	Son	np-top-m-sg
@@ -5174,7 +5174,7 @@ RL	cat	descens	n-m$n	srd	abbassada	n-f
 	cat	representatiu	adj$	srd	rapresentativu	adj
 	cat	preguntar	vblex$vblex-pron	srd	preguntare	vblex
 RL	cat	preguntar	vblex$vblex-pron	srd	dimandare	vblex
-	cat	ombra	n$n-f	srd	umbra	n-f
+	cat	ombra	n-f$n	srd	umbra	n-f
 	cat	interval	n$n-m	srd	tretu	n-m
 	cat	radi	n-m$n$n-m-sg	srd	raju	n-m
 	cat	franquista	adj-mf$adj	srd	franchista	adj$adj-mf
@@ -5182,7 +5182,7 @@ RL	cat	preguntar	vblex$vblex-pron	srd	dimandare	vblex
 	cat	ibèric	adj$	srd	ibèricu	adj
 	cat	dimitir	vblex	srd	dimìtere	vblex
 	cat	avaluació	n-f$n	srd	valutatzione	n-f
-	cat	precipitació	n$n-f	srd	trabentadura	n-f
+	cat	precipitació	n-f$n	srd	trabentadura	n-f
 	cat	Stalin	np-cog-mf-sp$	srd	Stalin	np-cog$np-cog-mf-sp
 	cat	tija	n-f$n	srd	truncu	n-m
 	cat	Pompeu	np$np-ant-m-sg	srd	Pompeu	np-ant-m-sg
@@ -5217,7 +5217,7 @@ LR	cat	precisament	adv	srd	pròpiu	adv
 LR	cat	ni més ni menys	adv	srd	pròpiu	adv
 LR	cat	ni més ni pus	adv	srd	pròpiu	adv
 LR	cat	ni més ni manco	adv	srd	pròpiu	adv
-	cat	ambulància	n$n-f	srd	ambulàntzia	n-f
+	cat	ambulància	n-f$n	srd	ambulàntzia	n-f
 	cat	somni	n$n-m	srd	sonnu	n-m
 	cat	robar	vblex	srd	furare	vblex
 LR	cat	furtar	vblex	srd	furare	vblex
@@ -5235,7 +5235,7 @@ RL	cat	progressivament	adv	srd	sighi-sighi	adv
 RL	cat	progressivament	adv	srd	de continu	adv
 	cat	pacte	n-m$n	srd	patu	n-m
 RL	cat	pacte	n-m$n	srd	cumbèniu	n-m
-	cat	colla	n$n-f	srd	tropa	n-f
+	cat	colla	n-f$n	srd	tropa	n-f
 	cat	cria	n-f$n	srd	cria	n-f
 	cat	molt de temps	adv	srd	a longu	adv
 RL	cat	molt de temps	adv	srd	pro tempus meda	adv
@@ -5261,8 +5261,8 @@ RL	cat	adreça	n-f$n	srd	filada	n-f
 	cat	editorial	n-mf	srd	editoriale	n-m
 	cat	restaurant	n-m$n	srd	ristorante	n-m
 	cat	mancar	vblex	srd	mancare	vblex
-	cat	edificació	n$n-f	srd	edilìtzia	n-f
-RL	cat	edificació	n$n-f	srd	edificatzione	n-f
+	cat	edificació	n-f$n	srd	edilìtzia	n-f
+RL	cat	edificació	n-f$n	srd	edificatzione	n-f
 	cat	apropar	vblex$vblex-pron	srd	acurtziare	vblex
 	cat	relíquia	n-f$n$n-f-pl	srd	relìchia	n-f
 	cat	recompensar	vblex	srd	ricumpensare	vblex
@@ -5324,8 +5324,8 @@ RL	cat	originar	vblex	srd	cumentzare	vblex
 	cat	cònsol	n-mf$n	srd	cònsole	n-m
 	cat	mitjana	n-f$n	srd	mèdia	n-f
 	cat	mal	adj$adj-m-sg	srd	malu	adj
-	cat	caça	n$n-f	srd	catza	n-f
-RL	cat	caça	n$n-f	srd	cassa	n-f
+	cat	caça	n-f$n	srd	catza	n-f
+RL	cat	caça	n-f$n	srd	cassa	n-f
 	cat	responsable	n$n-mf	srd	responsàbile	n-mf
 	cat	ensenyar	vblex	srd	insingiare	vblex
 	cat	ensenyar	vblex	srd	mustrare	vblex
@@ -5338,7 +5338,7 @@ RL	cat	preveure	vblex	srd	prevènnere	vblex
 	cat	trobada	n-f$n	srd	adòbiu	n-m
 	cat	barroc	adj$	srd	barocu	adj
 	cat	evolucionar	vblex	srd	isvilupare	vblex
-	cat	disputa	n$n-f	srd	disputa	n-f
+	cat	disputa	n-f$n	srd	disputa	n-f
 	cat	erigir	vblex	srd	pesare	vblex
 	cat	receptor	n$n-m	srd	retzidore	n
 	cat	admetre	vblex	srd	ammìtere	vblex
@@ -5346,7 +5346,7 @@ RL	cat	preveure	vblex	srd	prevènnere	vblex
 	cat	equilibri	n-m$n	srd	echilìbriu	n-m
 	cat	marquès	n$n-m	srd	marchesu	n
 	cat	Saragossa	np-loc$np$np-loc-f	srd	Zaragoza	np-top-f-sg
-	cat	científic	n$n-f	srd	iscientziadu	n
+	cat	científic	n$n-m	srd	iscientziadu	n
 	cat	quadrar	vblex	srd	parmigiare	vblex
 	cat	artilleria	n-f$n	srd	artillieria	n-f
 	cat	concloure	vblex	srd	agabbare	vblex
@@ -5358,7 +5358,7 @@ RL	cat	preveure	vblex	srd	prevènnere	vblex
 	cat	il·lustrar	vblex	srd	ammustrare	vblex
 	cat	titular	n-mf$n	srd	titulare	n-m
 	cat	enamorar	vblex$vblex-pron	srd	innamorare	vblex
-	cat	proximitat	n$n-f$n-f-sg	srd	curtzesa	n-f
+	cat	proximitat	n-f$n$n-f-sg	srd	curtzesa	n-f
 	cat	manuscrit	n-m$n	srd	manuscritu	n-m
 	cat	àmpliament	adv	srd	in menera àmpra	adv
 	cat	estatus	n-m$n$n-m-sp	srd	istadu	n-m
@@ -5404,7 +5404,7 @@ RL	cat	servidor	n$n-m	srd	server	n-m
 	cat	mite	n$n-m	srd	mitu	n-m
 	cat	des de llavors	adv	srd	dae tando	adv
 RL	cat	des de llavors	adv	srd	galu como	adv
-	cat	crònica	n$n-f	srd	crònaca	n-f
+	cat	crònica	n-f$n	srd	crònaca	n-f
 	cat	facultat	n-f$n$n-f-sg	srd	facultade	n-f
 	cat	urbanització	n-f$n	srd	urbanizatzione	n-f
 	cat	reforç	n-m$n	srd	rinfortzu	n-m
@@ -5437,7 +5437,7 @@ RL	cat	episcopal	adj$adj-mf$	srd	obispale	adj
 	cat	prou	adj-mf-sp$adj-mf	srd	bastante	adj$adj-mf
 	cat	hectàrea	n-f$n	srd	ètaru	n-m
 	cat	mental	adj$adj-mf$	srd	mentale	adj
-	cat	electricitat	n$n-f$n-f-ND	srd	eletritzidade	n-f
+	cat	electricitat	n-f$n$n-f-ND	srd	eletritzidade	n-f
 	cat	descendir	vblex	srd	falare	vblex
 RL	cat	descendir	vblex	srd	achirrare	vblex
 	cat	compra	n-f$n	srd	achistu	n-m
@@ -5462,7 +5462,7 @@ LR	cat	magre	adj$adj-mf-pl$	srd	làngiu	adj
 LR	cat	flac	adj$	srd	làngiu	adj
 	cat	intel·ligència	n$n-f	srd	intellighèntzia	n-f
 	cat	Hamburg	np$np-loc$np-loc-m	srd	Amburgu	np-top-m$np-top-m-sg
-	cat	innovació	n$n-f	srd	innovatzione	n-f
+	cat	innovació	n-f$n	srd	innovatzione	n-f
 	cat	blat	n$n-m	srd	trigu	n-m
 	cat	volcànic	adj$	srd	vulcànicu	adj
 	cat	Pirineus	np-loc$np-loc-m-pl	srd	Pireneos	np-top-m-pl
@@ -5479,9 +5479,9 @@ LR	cat	el Pirineu	np$np-loc$np-loc-m-sg	srd	sos Pireneos	np-top-m-pl
 RL	cat	fortuna	n-f$n	srd	fortuna	n-f
 	cat	fronterer	adj$	srd	lacanàrgiu	adj
 	cat	espectre	n-m$n	srd	pantasma	n-m
-	cat	copa	n$n-f	srd	tassa	n-f
-RL	cat	copa	n$n-f	srd	copa	n-f
-	cat	supercopa	n$n-f	srd	supercopa	n-f
+	cat	copa	n-f$n	srd	tassa	n-f
+RL	cat	copa	n-f$n	srd	copa	n-f
+	cat	supercopa	n-f	srd	supercopa	n-f
 LR	cat	nova	n-f	srd	noa	n-f
 	cat	supernova	n-f$n	srd	supernoa	n-f
 	cat	màgic	adj$	srd	màgicu	adj
@@ -5504,7 +5504,7 @@ RL	cat	albergar	vblex	srd	allogiare	vblex
 	cat	deute	n-m$n	srd	dèpidu	n-m
 	cat	justificar	vblex	srd	giustificare	vblex
 	cat	invertir	vblex	srd	furriare	vblex
-	cat	delegació	n$n-f	srd	delegatzione	n-f
+	cat	delegació	n-f$n	srd	delegatzione	n-f
 	cat	Ivan	np$np-ant-m-sg$$np-ant	srd	Ivan	np-ant-m$np-ant-m-sg
 	cat	adult	adj	srd	mannu	adj
 RL	cat	adult	adj	srd	adultu	adj
@@ -5535,11 +5535,11 @@ RL	cat	apartat	n-m$n	srd	paràgrafu	n-m
 	cat	mixt	adj$	srd	ammisturadu	adj
 	cat	castigar	vblex	srd	castigare	vblex
 	cat	faraó	n-m$n	srd	faraone	n-m
-	cat	depressió	n$n-f	srd	depressione	n-f
+	cat	depressió	n-f$n	srd	depressione	n-f
 	cat	constitucional	adj$adj-mf$	srd	costitutzionale	adj
 	cat	constitucionalitat	n-f$n	srd	costitutzionalidade	n-f
 	cat	inconstitucionalitat	n-f$n	srd	incostitutzionalidade	n-f
-	cat	demostració	n$n-f	srd	dimustratzione	n-f
+	cat	demostració	n-f$n	srd	dimustratzione	n-f
 	cat	demostratiu	adj$	srd	dimustrativu	adj
 	cat	audiència	n-f$n$n-f-sg	srd	udièntzia	n-f
 	cat	carro	n-m$n	srd	carru	n-m
@@ -5565,7 +5565,7 @@ LR	cat	al damunt	adv	srd	a pitzu	adv
 	cat	anualment	adv	srd	annu cun annu	adv
 	cat	alcohol	n-m$n$n-m-ND	srd	alcol	n-m
 	cat	quotidià	adj$	srd	fitianu	adj
-	cat	humitat	n$n-f$n-f-ND	srd	umidade	n-f
+	cat	humitat	n-f$n$n-f-ND	srd	umidade	n-f
 	cat	tardor	n-f$n	srd	atòngiu	n-m
 	cat	vital	adj$adj-mf$	srd	vitale	adj
 	cat	claustre	n-m$n	srd	cullègiu	n-m
@@ -5576,7 +5576,7 @@ LR	cat	al damunt	adv	srd	a pitzu	adv
 	cat	Paris Hilton	np-ant-f-sg	srd	Paris Hilton	np-ant-f-sg
 	cat	sou	n-m$n	srd	istipèndiu	n-m
 	cat	filtre	n-m$n	srd	filtru	n-m
-	cat	càtedra	n$n-f	srd	càtedra	n-f
+	cat	càtedra	n-f$n	srd	càtedra	n-f
 	cat	daurar	vblex	srd	aorare	vblex
 	cat	pressupost	n-m$n$n-m-sg	srd	bilantzu	n-m
 	cat	crèdit	n$n-m	srd	crèditu	n-m
@@ -5585,7 +5585,7 @@ LR	cat	al damunt	adv	srd	a pitzu	adv
 	cat	beguda	n$n-f	srd	bèvida	n-f
 	cat	Menorca	np$np-loc$np-loc-f	srd	Minorca	np-top-f-sg
 	cat	Salamanca	np$np-loc$$np-loc-f	srd	Salamanca	np-top-f$np-top-f-sg
-	cat	granja	n$n-f	srd	fatoria	n-f
+	cat	granja	n-f$n	srd	fatoria	n-f
 	cat	Henri	np-ant-m-sg$	srd	Henri	np-ant-m$np-ant-m-sg
 	cat	Carolina	np$np-ant-f-sg$np-ant$	srd	Carolina	np-ant-f$np-ant-f-sg
 	cat	tancament	n-m$n	srd	serrada	n-f
@@ -5652,7 +5652,7 @@ RL	cat	cada cop	adv	srd	cada bia	adv
 	cat	ambiental	adj$adj-mf$	srd	ambientale	adj
 	cat	multiplicar	vblex	srd	multiplicare	vblex
 	cat	moderat	adj$	srd	moderadu	adj
-	cat	atracció	n$n-f	srd	atratzione	n-f
+	cat	atracció	n-f$n	srd	atratzione	n-f
 	cat	decoratiu	adj$	srd	decorativu	adj
 	cat	cereal	n-m$n	srd	laore	n-m
 	cat	uniforme	n-m$n$	srd	divisa	n-f
@@ -5671,8 +5671,8 @@ RL	cat	serp	n-f$n	srd	colovra	n-f
 RL	cat	llegat	n-m$n	srd	eredidade	n-f
 	cat	Lee	np-cog-mf-sp	srd	Lee	np-cog$np-cog-mf-sp
 	cat	coure	n$n-m	srd	ràmene	n-m
-	cat	circulació	n$n-f	srd	tzirculatzione	n-f
-RL	cat	circulació	n$n-f	srd	tràficu	n-m
+	cat	circulació	n-f$n	srd	tzirculatzione	n-f
+RL	cat	circulació	n-f$n	srd	tràficu	n-m
 	cat	Burgos	np$$np-loc$np-loc-f	srd	Burgos	np-top-m$np-top-m-sg
 	cat	Nadal	np-cog$np-cog-mf-sp	srd	Nadal	np-cog-mf-sp
 	cat	protectorat	n-m$n	srd	protetoradu	n-m
@@ -5694,7 +5694,7 @@ RL	cat	circulació	n$n-f	srd	tràficu	n-m
 RL	cat	bar	n-m$n$n-m-sg	srd	bar	n-m
 	cat	salvatge	adj$adj-mf$	srd	agreste	adj
 	cat	jurar	vblex	srd	giurare	vblex
-	cat	fletxa	n$n-f	srd	fritza	n-f
+	cat	fletxa	n-f$n	srd	fritza	n-f
 	cat	emmarcar	vblex	srd	incuadrare	vblex
 	cat	senyoria	n-f$n	srd	segnoria	n-f
 	cat	governamental	adj-mf$adj$	srd	guvernativu	adj
@@ -5719,7 +5719,7 @@ RL	cat	activament	adv	srd	ativamente	adv
 	cat	gruixut	adj$	srd	grussu	adj
 	cat	forestal	adj$adj-mf$	srd	forestale	adj
 	cat	croat	n$n-GD	srd	croatu	n
-	cat	animació	n$n-f	srd	animatzione	n-f
+	cat	animació	n-f$n	srd	animatzione	n-f
 	cat	Holanda	np$np-loc$np-loc-f	srd	Olanda	np-top-f$np-top-f-sg
 	cat	ajudant	n-mf$n	srd	maniale	n-m
 	cat	quadrat	n$n-m	srd	cuadradu	n-m
@@ -5727,7 +5727,7 @@ RL	cat	activament	adv	srd	ativamente	adv
 RL	cat	davallar	vblex	srd	calare	vblex
 	cat	Conca de Dalt	np$np-loc$np-loc-f	srd	Conca de Dalt	np-top-f-sg
 	cat	assolar	vblex	srd	umiliare	vblex
-	cat	oració	n$n-f	srd	oratzione	n-f
+	cat	oració	n-f$n	srd	oratzione	n-f
 	cat	Jones	np-ant-m-sg	srd	Jones	np-ant-m-sg
 	cat	holandès	n$n-m	srd	olandesu	n
 	cat	hàbit	n-m$n	srd	avesu	n-m
@@ -5748,10 +5748,10 @@ RL	cat	exportació	n-f$n	srd	saca	n-f
 	cat	aconsellar	vblex	srd	cussigiare	vblex
 	cat	regal	n$n-m	srd	donu	n-m
 	cat	perfectament	adv	srd	perfetu	adv
-	cat	prefectura	n$n-f	srd	prefetura	n-f
+	cat	prefectura	n-f$n	srd	prefetura	n-f
 	cat	camperol	n$n-m	srd	massaju	n$n-m
 	cat	Pablo	np$np-ant-m-sg$np-ant$	srd	Pablo	np-ant-m$np-ant-m-sg
-	cat	legislació	n$n-f	srd	legislatzione	n-f
+	cat	legislació	n-f$n	srd	legislatzione	n-f
 	cat	freqüentment	adv	srd	a fitianu	adv
 RL	cat	freqüentment	adv	srd	a s'ispissu	adv
 	cat	escorça	n-f$n	srd	còrgiu	n-m
@@ -5776,7 +5776,7 @@ RL	cat	mercaderia	n-f$n	srd	roba	n-f
 	cat	bola	n-f$n	srd	botza	n-f
 RL	cat	bola	n-f$n	srd	fàula	n-f
 	cat	aproximar	vblex	srd	acurtziare	vblex
-	cat	acusació	n$n-f	srd	acusa	n-f
+	cat	acusació	n-f$n	srd	acusa	n-f
 	cat	pit	n-m$n$n-m-sg	srd	petorra	n-f
 	cat	País Basc	np$np-loc$np-loc-m	srd	Paisu Bascu	np-top-m$np-top-m-sg
 	cat	hoquei	n-m-sp$n$n-m	srd	hockey	n-m-sg
@@ -5854,11 +5854,11 @@ RL	cat	controvèrsia	n-f$n	srd	contierra	n-f
 	cat	alumini	n-m$n	srd	allumìniu	n-m
 	cat	confiscar	vblex	srd	cunfiscare	vblex
 	cat	informàtic	adj$	srd	informàticu	adj
-	cat	fidelitat	n$n-f	srd	fidelidade	n-f
+	cat	fidelitat	n-f$n	srd	fidelidade	n-f
 	cat	deduir	vblex	srd	deduire	vblex
 	cat	tòxic	adj$	srd	tòssicu	adj
 	cat	nominació	n-f$n$n-f-sg	srd	denominatzione	n-f
-	cat	propaganda	n$n-f	srd	propaganda	n-f
+	cat	propaganda	n-f$n	srd	propaganda	n-f
 	cat	clergat	n-m$n	srd	cleru	n-m
 	cat	caçar	vblex	srd	catziare	vblex
 RL	cat	caçar	vblex	srd	cassare	vblex
@@ -5928,7 +5928,7 @@ RL	cat	cotó	n-m$n	srd	bambaghe	n-m
 	cat	cabal	n$n-m	srd	gabbale	n-m
 	cat	de la mateixa manera	adv	srd	a sa matessi manera	adv
 	cat	utilitat	n-f$n	srd	utilidade	n-f
-	cat	astronomia	n$n-f	srd	astronomia	n-f
+	cat	astronomia	n-f$n	srd	astronomia	n-f
 	cat	inserir	vblex	srd	insertare	vblex
 	cat	d'altra banda	adv	srd	dae s'àtera banda	adv
 	cat	extracció	n-f$n	srd	estratzione	n-f
@@ -5952,10 +5952,10 @@ RL	cat	empènyer	vblex	srd	imbèrghere	vblex
 	cat	asseure	vblex	srd	sètzere	vblex
 	cat	geològic	adj$	srd	geològicu	adj
 	cat	potencial	adj$adj-mf$	srd	potentziale	adj
-	cat	complexitat	n$n-f	srd	cumplessidade	n-f
+	cat	complexitat	n-f$n	srd	cumplessidade	n-f
 	cat	campana	n-f$n	srd	campana	n-f
 	cat	tonalitat	n-f$n	srd	tonalidade	n-f
-	cat	termini	n$n-m	srd	tèrmine	n-m
+	cat	termini	n-m$n	srd	tèrmine	n-m
 	cat	consistent	adj$adj-mf$	srd	cunsistente	adj$adj-mf
 	cat	anul·lar	vblex	srd	annullare	vblex
 RL	cat	anul·lar	vblex	srd	annuddare	vblex
@@ -5977,7 +5977,7 @@ RL	cat	alteració	n-f$n	srd	muda	n-f
 	cat	adjacent	adj$$adj-mf	srd	bighinu	adj
 	cat	Samuel	np$np-ant-m-sg$np-ant$	srd	Samuel	np-ant-m$np-ant-m-sg
 	cat	depenent	adj$adj-mf	srd	dipendente	adj
-	cat	sorpresa	n-f$n	srd	ispantu	n-m
+	cat	sorpresa	n-f	srd	ispantu	n-m
 	cat	harmònic	adj$	srd	armònicu	adj
 	cat	superficial	adj$adj-mf$	srd	superfitziale	adj
 	cat	ritu	n-m$n	srd	ritu	n-m
@@ -6044,7 +6044,7 @@ RL	cat	sacerdot	n-m	srd	satzerdotu	n-m
 	cat	superheroi	n$n-m	srd	supereroe	n
 	cat	tanc	n-m$n	srd	carru armatu	n-m
 	cat	oncle	n-m$n	srd	tziu	n$n-m
-	cat	tia	n$n-f	srd	tziu	n-f
+	cat	tia	n-f$n	srd	tziu	n-f
 	cat	quant	adj-itg$adj$adj-itg-GD-pl	srd	cantu	adj-itg
 	cat	conca	n-f$n	srd	batzinu	n-m
 	cat	afluent	n$n-m	srd	afluente	n-m
@@ -6823,7 +6823,7 @@ LR	cat	antecedent	n-m$n	srd	pretzedente	n-mf
 RL	cat	guàrdia	n-mf$n	srd	bàrdia	n-f
 RL	cat	guàrdia	n-mf$n	srd	bardianu	n$n-m
 	cat	fantasma	n-mf$n	srd	pantasma	n-m
-LR	cat	acumulació	n$n-f	srd	muntone	n-m
+LR	cat	acumulació	n-f$n	srd	muntone	n-m
 	cat	prefecte	n-m$n-m-sg	srd	perfetu	n$n-m
 	cat	comissari	n$n-m	srd	cummissàriu	n-m
 	cat	mercenari	n$n-m	srd	mertzenàriu	n-m
@@ -6917,8 +6917,8 @@ RL	cat	ajuntar	vblex	srd	regollire	vblex
 	cat	proporcional	adj$adj-mf$	srd	proportzionale	adj$adj-mf
 	cat	senyoriu	n-m$n	srd	corte	n-f
 	cat	Cabrera	np-loc$np-loc-f	srd	Cabrera	np-top-f$np-top-f-sg
-	cat	estètica	n$n-f	srd	estètica	n-f
-	cat	lleialtat	n$n-f	srd	lealidade	n-f
+	cat	estètica	n-f$n	srd	estètica	n-f
+	cat	lleialtat	n-f$n	srd	lealidade	n-f
 	cat	finit	adj$	srd	agabbadu	adj
 	cat	dictar	vblex	srd	detare	vblex
 	cat	americà	n$n-f	srd	americanu	n
@@ -6928,10 +6928,10 @@ RL	cat	ajuntar	vblex	srd	regollire	vblex
 	cat	làmina	n-f$n	srd	lama	n-f
 	cat	unitari	adj$	srd	unitàriu	adj
 	cat	parada	n-f$n	srd	firmada	n-f
-	cat	collita	n$n-f	srd	regorta	n-f
+	cat	collita	n-f$n	srd	regorta	n-f
 	cat	Varsòvia	np$np-loc$np-loc-f	srd	Varsàvia	np-top-f$np-top-f-sg
 	cat	constantment	adv	srd	in manera costante	adv
-	cat	disminució	n$n-f	srd	diminutzione	n-f
+	cat	disminució	n-f$n	srd	diminutzione	n-f
 	cat	a mort	adv	srd	a morte	adv
 	cat	Garcia	np$np-loc$$np-loc-f	srd	Garcia	np-top-m$np-top-m-sg
 	cat	arrossegar	vblex$vblex-pron	srd	trisinare	vblex
@@ -6939,9 +6939,9 @@ RL	cat	arrossegar	vblex$vblex-pron	srd	tragare	vblex
 	cat	àcid	adj$	srd	àtzidu	adj
 	cat	referèndum	n$n-m$n-m-sg	srd	referendum	n-m
 	cat	estretament	adv	srd	in manera istrinta	adv
-	cat	acceptació	n$n-f	srd	atzetatzione	n-f
+	cat	acceptació	n-f$n	srd	atzetatzione	n-f
 	cat	Selva	np$np-loc-f$$np-loc	srd	Selva	np-top-f-sg
-	cat	vàlvula	n$n-f	srd	vàlvola	n-f
+	cat	vàlvula	n-f$n	srd	vàlvola	n-f
 	cat	complementar	vblex	srd	cumplementare	vblex
 	cat	oscil·lar	vblex	srd	bantzigare	vblex
 	cat	vacil·lar	vblex	srd	bantzigare	vblex
@@ -6951,7 +6951,7 @@ RL	cat	arrossegar	vblex$vblex-pron	srd	tragare	vblex
 	cat	a cavall	adv	srd	a caddu	adv
 	cat	autopista	n-f$n	srd	caminu	n-m
 	cat	acadèmia	n$n-f	srd	acadèmia	n-f
-	cat	inundació	n$n-f	srd	allagamentu	n-m
+	cat	inundació	n-f$n	srd	allagamentu	n-m
 	cat	obrer	n$n-GD$	srd	operaju	n
 	cat	emblema	n-m$n	srd	emblema	n-m
 	cat	plom	n-m$n	srd	prumu	n-m
@@ -6970,14 +6970,14 @@ RL	cat	arrossegar	vblex$vblex-pron	srd	tragare	vblex
 	cat	dissenyador	n$n-m	srd	disegnadore	n
 	cat	mirall	n-m$n	srd	ispigru	n-m
 	cat	espill	n-m$n	srd	ispigru	n-m
-	cat	meta	n$n-f	srd	meta	n-f
+	cat	meta	n-f$n	srd	meta	n-f
 	cat	Marsella	np-loc$np-loc-f	srd	Marsìglia	np-top-f$np-top-f-sg
 	cat	fins ara	adv	srd	fintzas a como	adv
 	cat	Apple	np$np-al$np-al-f-sg$	srd	Apple	np-al-m-sg
 	cat	terminal	n-f$n	srd	finale	n-m
 	cat	psicològic	adj$	srd	psicològicu	adj
 	cat	pretendent	n-mf$n	srd	pretendente	n-m
-	cat	vigilància	n$n-f	srd	vigilàntzia	n-f
+	cat	vigilància	n-f$n	srd	vigilàntzia	n-f
 	cat	pesta	n-f$n	srd	pesta	n-f
 RL	cat	pesta	n-f$n	srd	peste	n-f
 	cat	insistir	vblex	srd	insìstere	vblex
@@ -6995,7 +6995,7 @@ RL	cat	pesta	n-f$n	srd	peste	n-f
 	cat	calci	n-m$n	srd	carche	n-m
 RL	cat	calci	n-m$n	srd	càltziu	n-m
 	cat	Alt Empordà	np$np-loc$np-loc-f	srd	Alt Empordà	np-top-f-sg
-	cat	polèmica	n$n-f	srd	chistione	n-f
+	cat	polèmica	n-f$n	srd	chistione	n-f
 	cat	Bengala	np$np-loc$np-loc-m	srd	Bengala	np-top-f-sg
 RL	cat	empleat	n$n-m	srd	impreadu	n
 	cat	empleat	n$n-m	srd	impiegadu	n
@@ -7068,7 +7068,7 @@ RL	cat	treva	n-f$n	srd	trègua	n-f
 	cat	posada	n$n-f	srd	posada	n-f
 	cat	partitura	n-f$n	srd	partidura	n-f
 RL	cat	partitura	n-f$n	srd	partzidura	n-f
-	cat	maniobra	n$n-f	srd	manovra	n-f
+	cat	maniobra	n-f$n	srd	manovra	n-f
 	cat	encunyar	vblex	srd	coniare	vblex
 LR	cat	contrarellotge	n-f$n$n-f-sp	srd	cronòmetru	n-m
 	cat	afiliar	vblex	srd	assòtziare	vblex
@@ -7087,7 +7087,7 @@ RL	cat	tranquil	adj$$adj-GD	srd	trancuillu	adj
 	cat	liceu	n-m$n	srd	litzeu	n-m
 	cat	triangular	adj$adj-mf	srd	triangulare	adj
 	cat	rellevància	n-f$n	srd	rilevàntzia	n-f
-	cat	prohibició	n$n-f	srd	proibitzione	n-f
+	cat	prohibició	n-f$n	srd	proibitzione	n-f
 	cat	precedent	n-m$n$	srd	pretzedente	n-mf
 	cat	moral	n$n-f	srd	morale	n-m
 LR	cat	captar	vblex	srd	tènnere	vblex
@@ -7099,8 +7099,8 @@ RL	cat	captar	vblex	srd	picare	vblex
 	cat	nervi	n$n-m	srd	nervu	n-m
 	cat	eficient	adj$adj-mf$	srd	efitziente	adj
 	cat	Broadway	np$np-loc	srd	Broadway	np-top-m-sg
-	cat	embarcació	n$n-f	srd	imbarcatzione	n-f
-RL	cat	embarcació	n$n-f	srd	fassone	n-m
+	cat	embarcació	n-f$n	srd	imbarcatzione	n-f
+RL	cat	embarcació	n-f$n	srd	fassone	n-m
 	cat	bèl·lic	adj$	srd	bèllicu	adj
 	cat	Roca	np-cog-mf-sp$$np	srd	Roca	np-cog-mf-sp
 	cat	rarament	adv	srd	in manera rara	adv
@@ -7141,7 +7141,7 @@ RL	cat	subministrar	vblex	srd	intregare	vblex
 RL	cat	plànol	n-m$n	srd	progetu	n-m
 	cat	dinosaure	n-m$n	srd	dinosàuru	n-m
 	cat	Danubi	np-loc	srd	Danùbiu	np-hyd-m$np-hyd-m-sg
-	cat	conspiració	n$n-f	srd	trama	n-f
+	cat	conspiració	n-f$n	srd	trama	n-f
 	cat	sever	adj$$adj-sup	srd	severu	adj
 	cat	residencial	adj$adj-mf$	srd	residentziale	adj
 	cat	pelatge	n-m$n	srd	pedditza	n-f
@@ -7202,7 +7202,7 @@ RL	cat	rierol	n-m$n	srd	ritzolu	n-m
 	cat	cervesa	n$n-f	srd	birra	n-f
 	cat	Ruiz	np-cog$np-cog-mf-sp	srd	Ruiz	np-cog$np-cog-mf-sp
 	cat	Mont	np$np-cog-mf-sp	srd	Mont	np-cog-mf-sp
-	cat	compressió	n$n-f	srd	cumpressione	n-f
+	cat	compressió	n-f$n	srd	cumpressione	n-f
 	cat	vigor	n-m$n	srd	vigore	n-m
 	cat	llibret	n-m$n	srd	libritu	n-m
 	cat	independentment	adv	srd	in manera indipendente	adv
@@ -7226,7 +7226,7 @@ RL	cat	rierol	n-m$n	srd	ritzolu	n-m
 	cat	Llull	np$np-cog$np-cog-mf-sp	srd	Llull	np-cog-mf-sp
 	cat	predir	vblex	srd	annuntziare	vblex
 	cat	inèdit	adj$	srd	inèditu	adj
-	cat	emigració	n$n-f	srd	emigratzione	n-f
+	cat	emigració	n-f$n	srd	emigratzione	n-f
 	cat	arreglar	vblex$vblex-pron	srd	acontzare	vblex
 	cat	subespècie	n-f$n	srd	sutaspètzie	n-f
 	cat	lloctinent	n-mf	srd	logutenente	n-m
@@ -7241,7 +7241,7 @@ RL	cat	partició	n-f$n	srd	partzidura	n-f
 	cat	conferir	vblex	srd	cunfèrrere	vblex
 	cat	idear	vblex	srd	bisare	vblex
 	cat	circumferència	n-f$n	srd	tzircunferèntzia	n-f
-	cat	vocació	n$n-f	srd	apentu	n-m
+	cat	vocació	n-f$n	srd	apentu	n-m
 	cat	verificar	vblex	srd	averiguare	vblex
 	cat	tauler	n$n-m	srd	cuadru	n-m
 	cat	perllongar	vblex	srd	illonghiare	vblex
@@ -7255,14 +7255,14 @@ LR	cat	sobresortir	vblex	srd	annoditare	vblex
 	cat	litúrgic	adj$	srd	litùrgicu	adj
 	cat	denotar	vblex	srd	inditare	vblex
 	cat	constel·lació	n-f$n	srd	costellatzione	n-f
-	cat	immigració	n$n-f	srd	immigratzione	n-f
+	cat	immigració	n-f$n	srd	immigratzione	n-f
 	cat	acomiadar	vblex	srd	dispatzare	vblex
 RL	cat	acomiadar	vblex	srd	dispidire	vblex
 	cat	rodatge	n-m$n	srd	rodàgiu	n-m
 	cat	Plana	np-loc	srd	Plana	np-top-f-sg
 	cat	tràfic	n-m$n	srd	tràficu	n-m
 	cat	labor	n-f$n	srd	traballu	n-m
-	cat	inclinació	n-f$n	srd	inclinatzione	n-f
+	cat	inclinació	n-f	srd	inclinatzione	n-f
 	cat	divorciar	vblex	srd	divortziare	vblex
 	cat	compensar	vblex	srd	cumpensare	vblex
 	cat	pujada	n-f$n	srd	artziada	n-f
@@ -7365,7 +7365,7 @@ RL	cat	clergue	n-m$n	srd	preìderu	n-m
 	cat	Creta	np$np-loc$np-loc-f	srd	Creta	np-top-f-sg
 	cat	autonòmic	adj	srd	autònomu	adj
 	cat	sintetitzar	vblex	srd	resùmere	vblex
-	cat	abundància	n$n-f	srd	bundàntzia	n-f
+	cat	abundància	n-f$n	srd	bundàntzia	n-f
 	cat	prevere	n$n-m	srd	preìderu	n-m
 	cat	ratpenat	n-m$n	srd	tirriolupedde	n-m
 LR	cat	rata pinyada	n-f	srd	tirriolupedde	n-m
@@ -7421,7 +7421,7 @@ RL	cat	bastir	vblex	srd	fraigare	vblex
 	cat	síl·laba	n-f$n	srd	sìllaba	n-f
 	cat	recomanació	n$n-f	srd	racumandatzione	n-f
 	cat	simètric	adj$	srd	simmètricu	adj
-	cat	motocicleta	n$n-f	srd	mototzicleta	n-f
+	cat	motocicleta	n-f$n	srd	mototzicleta	n-f
 	cat	decantar	vblex	srd	bantare	vblex
 RL	cat	decantar	vblex	srd	retzitare	vblex
 	cat	abatre	vblex	srd	aterrare	vblex
@@ -7457,8 +7457,8 @@ RL	cat	funcionalitat	n-f$n	srd	funtzione	n-f
 	cat	Racing	np$np-al$np-al-m-sg	srd	Racing	np-al-m-sg
 	cat	implantar	vblex	srd	prantare	vblex
 RL	cat	implantar	vblex	srd	impiantare	vblex
-	cat	flama	n$n-f	srd	frama	n-f
-RL	cat	flama	n$n-f	srd	pampa	n-f
+	cat	flama	n-f$n	srd	frama	n-f
+RL	cat	flama	n-f$n	srd	pampa	n-f
 	cat	Columbia	np-al$np	srd	Columbia	np-org-f$np-org-f-sg
 	cat	emergència	n-f$n	srd	emergèntzia	n-f
 	cat	Troia	np$np-loc	srd	Tròia	np-top-f-sg
@@ -7487,9 +7487,9 @@ RL	cat	col·lega	n-mf$n$n-mf-pl	srd	cumpàngiu	n$n-m
 	cat	Empúries	np$np-loc	srd	Empùries	np-top-m-sg
 	cat	descomposició	n-f$n	srd	decumpositzione	n-f
 RL	cat	descomposició	n-f$n	srd	pudrigadura	n-f
-	cat	eficàcia	n$n-f	srd	eficatzidade	n-f
+	cat	eficàcia	n-f$n	srd	eficatzidade	n-f
 	cat	constructor	n$n-m	srd	fraigadore	n
-	cat	textura	n$n-f	srd	cunsistèntzia	n-f
+	cat	textura	n-f$n	srd	cunsistèntzia	n-f
 LR	cat	enfocar	vblex	srd	cuntzentrare	vblex
 LR	cat	focalitzar	vblex	srd	cuntzentrare	vblex
 	cat	Carme	np$np-ant-f-sg$np-ant	srd	Carme	np-ant-f$np-ant-f-sg
@@ -7498,7 +7498,7 @@ LR	cat	focalitzar	vblex	srd	cuntzentrare	vblex
 	cat	renaixement	n-m$n	srd	rinaschimentu	n-m
 	cat	ocult	adj$	srd	ocultu	adj
 	cat	Eslovàquia	np$np-loc$np-loc-f	srd	Islovàchia	np-top-f-sg
-	cat	condemna	n$n-f	srd	cundenna	n-f
+	cat	condemna	n-f$n	srd	cundenna	n-f
 	cat	hoste	n$n-f	srd	istràngiu	n$n-m
 	cat	alinear	vblex	srd	alliniare	vblex
 LR	cat	alineament	n-m$n	srd	alliniatzione	n-f
@@ -7543,7 +7543,7 @@ RL	cat	qüestionar	vblex	srd	preguntare	vblex
 RL	cat	netejar	vblex	srd	innetare	vblex
 RL	cat	netejar	vblex	srd	issacuare	vblex
 RL	cat	netejar	vblex	srd	pulire	vblex
-	cat	municipalitat	n$n-f	srd	munitzipalidade	n-f
+	cat	municipalitat	n-f$n	srd	munitzipalidade	n-f
 	cat	llana	n$n-f	srd	lana	n-f
 	cat	independentista	n-mf$n	srd	indipendentista	n$n-mf
 	cat	espatlla	n-f$n	srd	coddu	n-m
@@ -7616,7 +7616,7 @@ RL	cat	adolescent	n-mf$n	srd	pitzinnu	n$n-m
 	cat	hegemonia	n$n-f	srd	cumandu	n-m
 	cat	determinant	adj$	srd	determinante	adj
 	cat	Adrià	np$np-ant-m-sg$np-ant$	srd	Adrià	np-ant-m-sg
-	cat	patent	n-f$n$	srd	patente	n-f
+	cat	patent	n-f$$n	srd	patente	n-f
 	cat	manipular	vblex	srd	manipulare	vblex
 RL	cat	manipular	vblex	srd	manigiare	vblex
 	cat	festiu	adj$	srd	festivu	adj
@@ -7638,7 +7638,7 @@ RL	cat	assaltar	vblex	srd	alliare	vblex
 	cat	verdader	adj$	srd	verdaderu	adj
 RL	cat	verdader	adj$	srd	beru	adj
 	cat	sulfat	n-m$n	srd	solfatu	n-m
-	cat	determinació	n$n-f	srd	determinatzione	n-f
+	cat	determinació	n-f$n	srd	determinatzione	n-f
 	cat	cartaginès	adj$	srd	cartaginesu	adj
 	cat	Said	np-cog-mf-sp	srd	Said	np-cog-mf-sp
 	cat	Orange	np-al$np	srd	Orange	np-al-m-sg
@@ -7663,7 +7663,7 @@ RL	cat	recaptar	vblex	srd	dare	vblex
 	cat	cobla	n-f$n	srd	croba	n-f
 	cat	ascensió	n-f$n	srd	artziada	n-f
 	cat	apropiar	vblex$vblex-pron	srd	apropiare	vblex
-	cat	repetició	n$n-f	srd	ripetitzione	n-f
+	cat	repetició	n-f$n	srd	ripetitzione	n-f
 	cat	Guadalajara	np$np-loc$np-loc-f	srd	Guadalajara	np-top-f$np-top-f-sg
 	cat	Mateu	$np-ant$np-ant-m-sg$np	srd	Mateu	np-ant-m$np-ant-m-sg
 	cat	malmetre	vblex	srd	pèrdere	vblex
@@ -7682,7 +7682,7 @@ RL	cat	malmetre	vblex	srd	faddire	vblex
 	cat	salsa	n$n-f	srd	bagna	n-f
 	cat	Mari	np$np-ant-f-sg$np-ant	srd	Mari	np-ant-f$np-ant-f-sg
 	cat	desè	adj$adj-ord$adj-ord-GD-ND	srd	de deghe	adj-ord
-	cat	pretensió	n$n-f	srd	pretesa	n-f
+	cat	pretensió	n-f$n	srd	pretesa	n-f
 	cat	gaèlic	adj	srd	gaèlicu	adj
 	cat	escènic	adj	srd	iscènicu	adj
 	cat	igualar	vblex	srd	ugualare	vblex
@@ -7795,12 +7795,12 @@ RL	cat	test	n-m$n	srd	test	n-m$n-m-sp
 	cat	monopoli	n$n-m	srd	monopòliu	n-m
 	cat	Garrotxa	np$np-loc$np-loc-f	srd	Garrotxa	np-top-f$np-top-f-sg
 	cat	enfortir	vblex	srd	afortigare	vblex
-	cat	dotzena	n$n-f	srd	dozina	n-f
+	cat	dotzena	n-f$n	srd	dozina	n-f
 	cat	banya	n-f$n	srd	corru	n-m
 	cat	prosseguir	vblex	srd	sighire	vblex
 	cat	Balcans	np$np-loc$np-loc-m-pl	srd	Balcanos	np-top-m-sg
 	cat	Real	np-cog-mf-sp$$np	srd	Real	np-cog-mf-sp
-	cat	implantació	n$n-f	srd	impiantu	n-m
+	cat	implantació	n-f$n	srd	impiantu	n-m
 	cat	hormona	n-f$n	srd	ormone	n-m
 	cat	obrar	vblex	srd	operare	vblex
 	cat	pistola	n-f$n	srd	pistola	n-f
@@ -7826,7 +7826,7 @@ LR	cat	nissaga	n-f$n	srd	ereu	n-m
 	cat	íntim	adj$	srd	ìntimu	adj
 	cat	homogeni	adj$	srd	omogèneu	adj
 	cat	Ignasi	np-ant$np-ant-m-sg$np$	srd	Ignasi	np-ant-m-sg
-	cat	fossa	n$n-f	srd	fossu	n-m
+	cat	fossa	n-f$n	srd	fossu	n-m
 	cat	ecosistema	n-m$n	srd	ecosistema	n-m
 	cat	Domingo	np-ant-m-sg$np$$np-ant	srd	Domingo	np-ant-m-sg
 	cat	Domingo	np-ant-m-sg$np$$np-ant	srd	Domingo	np-cog-mf-sp
@@ -7845,7 +7845,7 @@ LR	cat	nissaga	n-f$n	srd	ereu	n-m
 	cat	Ricardo	np$np-ant-m-sg$np-ant	srd	Ricardo	np-ant-m$np-ant-m-sg
 	cat	regar	vblex	srd	abbare	vblex
 	cat	condecoració	n-f$n	srd	decoradura	n-f
-	cat	glàndula	n$n-f	srd	gràndula	n-f
+	cat	glàndula	n-f$n	srd	gràndula	n-f
 	cat	tambor	n-m$n	srd	tumbarinu	n-m
 	cat	protagonista	adj-mf$adj	srd	protagonista	adj$adj-mf
 	cat	interaccionar	vblex	srd	cuncambiare	vblex
@@ -7921,7 +7921,7 @@ RL	cat	declinar	vblex	srd	calare	vblex
 	cat	podar	vblex	srd	ispurgare	vblex
 	cat	Jules	np$np-ant-m-sg$	srd	Jules	np-ant-m-sg
 	cat	arrelar	vblex	srd	raigare	vblex
-	cat	mobilitat	n$n-f	srd	mobilidade	n-f
+	cat	mobilitat	n-f$n	srd	mobilidade	n-f
 	cat	despoblar	vblex	srd	ispopulare	vblex
 	cat	al capdavant	adv	srd	a vantàgiu	adv
 	cat	simular	vblex	srd	simulare	vblex
@@ -7963,13 +7963,13 @@ RL	cat	declinar	vblex	srd	calare	vblex
 	cat	esgotar	vblex	srd	esaurire	vblex
 RL	cat	esgotar	vblex	srd	frazare	vblex
 	cat	Gaspar	np$np-ant-m-sg	srd	Gaspar	np-ant-m-sg
-	cat	franquícia	n$n-f$n-f-sg	srd	afranchimentu	n-m
+	cat	franquícia	n-f$n$n-f-sg	srd	afranchimentu	n-m
 	cat	Einstein	np$np-cog-mf-sp$	srd	Einstein	np-cog$np-cog-mf-sp
 	cat	tabac	n$n-m	srd	tabacu	n-m
 	cat	Pallars	np$np-loc$np-loc-f	srd	Pallars	np-top-m-sg
 	cat	Monistrol de Calders	np$np-loc$np-loc-f	srd	Monistrol de Calders	np-top-m-sg
 	cat	Apol·lo	np$np-ant-m-sg$np-ant	srd	Apollo	np-ant-m$np-ant-m-sg
-	cat	insurrecció	n$n-f	srd	abbolotu	n-m
+	cat	insurrecció	n-f$n	srd	abbolotu	n-m
 	cat	avalot	n-m$n	srd	abbolotu	n-m
 	cat	monàrquic	adj$	srd	monàrchicu	adj
 	cat	portador	n$n-m	srd	giughidore	n
@@ -7991,7 +7991,7 @@ LR	cat	al desembre	adv	srd	in su mese de nadale	adv
 	cat	significativament	adv	srd	in manera significativa	adv
 	cat	arrabassar	vblex	srd	pigare	vblex
 	cat	patrocinar	vblex	srd	amparare	vblex
-	cat	parèntesi	n-m$n$n-m-ND	srd	parèntesi	n-f
+	cat	parèntesi	n-m$n-m-ND$n	srd	parèntesi	n-f
 	cat	Maine	np$np-loc	srd	Maine	np-top-m-sg
 	cat	esquena	n-f$n$n-f-sg	srd	ischina	n-f
 	cat	Copenhaguen	np-loc	srd	Copenaghen	np-top-m$np-top-m-sg
@@ -8003,7 +8003,7 @@ LR	cat	al desembre	adv	srd	in su mese de nadale	adv
 	cat	artefacte	n-m$n	srd	artefatu	n-m
 	cat	propagar	vblex	srd	isparghinare	vblex
 RL	cat	propagar	vblex	srd	difùndere	vblex
-	cat	taverna	n$n-f	srd	tzilleri	n-m
+	cat	taverna	n-f$n	srd	tzilleri	n-m
 	cat	USS	np-al	srd	USS	np-al-m-sg
 	cat	tràgic	adj$	srd	tràgicu	adj
 	cat	inconvenient	n-m$n	srd	disacatu	n-m
@@ -8030,15 +8030,15 @@ LR	cat	inconscient	n$n-m	srd	incussèntzia	n-f
 	cat	conscient	adj$adj-mf$	srd	lùtzidu	adj
 	cat	inconscient	adj-mf$adj$	srd	sensa cussèntzia	adj
 LR	cat	subconscient	adj	srd	sensa cussèntzia	adj
-	cat	ambició	n$n-f	srd	ambitzione	n-f
+	cat	ambició	n-f$n	srd	ambitzione	n-f
 	cat	pelegrinatge	n$n-m	srd	pellegrinàgiu	n-m
 	cat	sàtir	n-m$n	srd	sàtiru	n-m
 	cat	narratiu	adj$	srd	narrativu	adj
 	cat	filtrar	vblex	srd	filtrare	vblex
 	cat	passiu	adj$	srd	passivu	adj
-	cat	curiositat	n$n-f	srd	curiosidade	n-f
+	cat	curiositat	n-f$n	srd	curiosidade	n-f
 	cat	consegüent	adj$adj-mf	srd	cunsighente	adj$adj-mf
-	cat	glòria	n$n-f	srd	glòria	n-f
+	cat	glòria	n-f$n	srd	glòria	n-f
 	cat	fuga	n-f$n	srd	fua	n-f
 	cat	filar	vblex	srd	filare	vblex
 	cat	Rio	np$np-ant-m-sg	srd	Rio	np-ant-m-sg
@@ -8066,7 +8066,7 @@ RL	cat	vertader	adj$	srd	beru	adj
 	cat	Jersey	np$np-loc$np-loc-m	srd	Jersey	np-top-m-sg
 	cat	concretar	vblex	srd	contivigiare	vblex
 	cat	tutela	n-f$n	srd	tutela	n-f
-	cat	taronja	n$n-f	srd	arantzu	n-m
+	cat	taronja	n-f$n	srd	arantzu	n-m
 RL	cat	taronger	n-m$n	srd	arantzu	n-m
 	cat	taronger	n-m$n	srd	àrbore	n-mf
 RL	cat	taronger	n-m$n	srd	fundu	n-m
@@ -8091,9 +8091,9 @@ RL	cat	bruixa	n-f$n	srd	majàrgia	n-f
 	cat	Santíssima Trinitat	np-al	srd	Santìssima Trinidade	np-al-f$np-al-f-sg
 	cat	genet	n$n-mf	srd	cadderi	n-m
 	cat	Gandia	np-loc$np-loc-f	srd	Gandia	np-top-f$np-top-f-sg
-	cat	actualització	n$n-f	srd	agiornamentu	n-m
+	cat	actualització	n-f$n	srd	agiornamentu	n-m
 	cat	vertebrar	vblex	srd	articulare	vblex
-	cat	governació	n$n-f	srd	guvernu	n-m
+	cat	governació	n-f$n	srd	guvernu	n-m
 	cat	encontre	n-m$n	srd	incontru	n-m
 	cat	debilitat	n-f$n	srd	debilesa	n-f
 	cat	Adelaida	np-ant-f-sg$$np$np-ant	srd	Adelaida	np-ant-f-sg
@@ -8151,7 +8151,7 @@ LR	cat	absent	adj-sup$adj-sup-m	srd	ausente	adj
 	cat	desesperar	vblex	srd	disisperare	vblex
 	cat	salat	adj$	srd	salidu	adj
 	cat	Ravenna	np-loc	srd	Ravenna	np-top-f$np-top-f-sg
-	cat	rapidesa	n$n-f	srd	lestresa	n-f
+	cat	rapidesa	n-f$n	srd	lestresa	n-f
 LR	cat	convocatòria	n-f$n	srd	apellu	n-m
 	cat	bibliografia	n-f$n	srd	bibliografia	n-f
 	cat	morter	n$n-m	srd	pistone	n-m
@@ -8193,7 +8193,7 @@ RL	cat	tinta	n$n-f	srd	tintura	n-f
 	cat	raure	vblex	srd	fratare	vblex
 	cat	Vincent	np$np-ant-m-sg$	srd	Vincent	np-ant-m$np-ant-m-sg
 	cat	ofegar	vblex$vblex-pron	srd	afogare	vblex
-	cat	mira	n$n-f	srd	mira	n-f
+	cat	mira	n-f$n	srd	mira	n-f
 	cat	gremi	n-m$n	srd	grèmiu	n-m
 	cat	coloració	n-f$n	srd	colore	n-m
 	cat	setmanal	adj-mf$adj$	srd	chidajolu	adj
@@ -8215,7 +8215,7 @@ RL	cat	debilitar	vblex	srd	debilitare	vblex
 	cat	annexar	vblex	srd	achirire	vblex
 	cat	Nelson	np-cog-mf-sp	srd	Nelson	np-cog$np-cog-mf-sp
 	cat	Nelson	np-ant-m-sg$np$$np-ant	srd	Nelson	np-ant-m-sg$np-ant-m
-	cat	aspiració	n$n-f	srd	aspiratzione	n-f
+	cat	aspiració	n-f$n	srd	aspiratzione	n-f
 	cat	Anderson	np-cog-mf-sp	srd	Anderson	np-cog$np-cog-mf-sp
 	cat	toc	n-m$n	srd	tzìrriu	n-m
 	cat	resum	n-m$n	srd	resumu	n-m
@@ -8252,7 +8252,7 @@ RL	cat	modernització	n-f$n	srd	modernamentu	n-m
 	cat	mantell	n-m$n	srd	manteddu	n-m
 	cat	estança	n-f$n	srd	istantza	n-f
 	cat	publicitari	adj$	srd	publitzitàriu	adj
-	cat	percussió	n$n-f	srd	iscuta	n-f
+	cat	percussió	n-f$n	srd	iscuta	n-f
 	cat	Hugo	np$np-ant-m-sg$np-ant$	srd	Hugo	np-ant-m$np-ant-m-sg
 	cat	Gilbert	np$np-ant-m-sg$	srd	Gilbert	np-ant-m$np-ant-m-sg
 LR	cat	al novembre	adv	srd	in su mese de santandria	adv
@@ -8322,7 +8322,7 @@ RL	cat	enter	adj$	srd	intregu	adj
 	cat	xocar	vblex	srd	addobbare	vblex
 	cat	suplent	adj$adj-mf$	srd	suplente	adj
 	cat	contradicció	n-f$n	srd	contradditzione	n-f
-	cat	abella	n$n-f	srd	abe	n-f
+	cat	abella	n-f$n	srd	abe	n-f
 	cat	teràpia	n$n-f	srd	terapia	n-f
 	cat	robust	adj$$adj-sup	srd	forte	adj$adj-mf
 	cat	múltiple	n-m$n	srd	mùltiplu	n-m
@@ -8330,11 +8330,11 @@ RL	cat	enter	adj$	srd	intregu	adj
 	cat	horta	n-f$n	srd	ortu	n-m
 	cat	diamant	n-m$n	srd	diamante	n-m
 	cat	citació	n-f$n	srd	tzita	n-f
-	cat	provisió	n$n-f	srd	provista	n-f
+	cat	provisió	n-f$n	srd	provista	n-f
 	cat	normand	n	srd	normannu	n
 	cat	mansió	n-f$n	srd	domo	n-f
 	cat	exempt	adj$adj-ND-GD	srd	francu	adj
-	cat	revelació	n$n-f	srd	rivelatzione	n-f
+	cat	revelació	n-f$n	srd	rivelatzione	n-f
 	cat	Llorenç	np$np-ant-m-sg	srd	Llorenç	np-ant-m-sg
 	cat	lingüista	n-mf$n	srd	linguista	n$n-mf
 	cat	sociolingüista	n-mf$n	srd	sotziolinguista	n$n-mf
@@ -8450,7 +8450,7 @@ RL	cat	enlairar	vblex	srd	arritzare	vblex
 	cat	Vèneto	np$np-loc	srd	Vènetu	np-top-m$np-top-m-sg
 	cat	a dalt	adv	srd	supra	adv
 RL	cat	a dalt	adv	srd	a pitzu	adv
-	cat	repercussió	n$n-f	srd	ribàtida	n-f
+	cat	repercussió	n-f$n	srd	ribàtida	n-f
 	cat	inestable	adj$adj-mf$	srd	gaddinosu	adj
 	cat	Calais	np$np-loc	srd	Calais	np-top-m-sg
 	cat	Virgínia	np-loc	srd	Virginia	np-top-f-sg
@@ -8462,14 +8462,14 @@ RL	cat	cripta	n-f$n	srd	losa	n-f
 	cat	apagar	vblex	srd	istudare	vblex
 RL	cat	apagar	vblex	srd	mòrrere	vblex
 	cat	trobador	n$n-m	srd	cantadore	n
-	cat	tortura	n$n-f	srd	tortura	n-f
+	cat	tortura	n-f$n	srd	tortura	n-f
 	cat	mausoleu	n-m$n	srd	mausoleu	n-m
-	cat	felicitat	n$n-f$n-f-ND	srd	felitzidade	n-f
+	cat	felicitat	n-f$n$n-f-ND	srd	felitzidade	n-f
 	cat	baixista	n-mf$n	srd	bassista	n$n-mf
 	cat	presbiteri	n-m$n	srd	presbitèriu	n-m
 LR	cat	patrici	adj	srd	nòbile	adj
 	cat	minar	vblex	srd	minare	vblex
-	cat	mandíbula	n$n-f	srd	barra	n-f
+	cat	mandíbula	n-f$n	srd	barra	n-f
 	cat	jugada	n-f$n	srd	giogada	n-f
 	cat	constatar	vblex	srd	averiguare	vblex
 RL	cat	constatar	vblex	srd	constatare	vblex
@@ -8576,7 +8576,7 @@ RL	cat	il·legítim	adj$	srd	mustrencu	adj
 	cat	mil·límetre	n-m$n	srd	millìmetru	n-m
 	cat	teològic	adj$	srd	teològicu	adj
 	cat	Intel	np$np-al$np-al-sg	srd	Intel	np-org-f$np-org-f-sg
-	cat	caritat	n$n-f	srd	caridade	n-f
+	cat	caritat	n-f$n	srd	caridade	n-f
 	cat	Alsàcia	np$np-loc$np-loc-f	srd	Alsàtzia	np-top-f-sg
 	cat	rellevar	vblex	srd	rilevare	vblex
 	cat	interí	adj$	srd	sustitutu	adj
@@ -8603,18 +8603,18 @@ RL	cat	interí	adj$	srd	suplente	adj
 	cat	dinàstic	adj$	srd	dinàsticu	adj
 	cat	canonada	n-f$n	srd	tubu	n-m
 	cat	Bertran	np$np-cog-mf-sp	srd	Bertran	np-cog-mf-sp
-	cat	ampolla	n$n-f	srd	ampulla	n-f
+	cat	ampolla	n-f$n	srd	ampulla	n-f
 	cat	Cervantes	np-cog$np-cog-mf-sp	srd	Cervantes	np-cog$np-cog-mf-sp
 	cat	Castell de Mur	np$np-loc$np-loc-f	srd	Castell de Mur	np-top-m-sg
 	cat	Blanco	np-cog-mf-sp	srd	Blanco	np-cog-mf-sp
-	cat	ofrena	n$n-f	srd	oferta	n-f
+	cat	ofrena	n-f$n	srd	oferta	n-f
 	cat	evacuació	n-f$n	srd	isfollamentu	n-m
 RL	cat	evacuació	n-f$n	srd	evacuatzione	n-f
 	cat	balanç	n-m$n	srd	bilantzu	n-m
 	cat	topar	vblex	srd	addobbare	vblex
 RL	cat	topar	vblex	srd	iscùdere	vblex
 	cat	rigor	n-m$n	srd	rigore	n-m
-	cat	rereguarda	n$n-f	srd	iscorta	n-f
+	cat	rereguarda	n-f$n	srd	iscorta	n-f
 	cat	kurd	n$n-m	srd	curdu	n
 	cat	dubtós	adj$$adj-sup	srd	dudosu	adj
 RL	cat	dubtós	adj$$adj-sup	srd	indetzisu	adj
@@ -8631,14 +8631,14 @@ RL	cat	dubtós	adj$$adj-sup	srd	indetzisu	adj
 	cat	persistir	vblex	srd	sighire	vblex
 	cat	Kosovo	np-loc$np	srd	Kosovo	np-top-m$np-top-m-sg
 	cat	a llarg termini	adv	srd	a longu	adv
-	cat	xocolata	n-f$n	srd	tziculate	n-m
+	cat	xocolata	n-f	srd	tziculate	n-m
 	cat	tolerar	vblex	srd	aguantare	vblex
 	cat	sol·licitud	n-f$n	srd	dimanda	n-f
 	cat	reproductor	adj	srd	riprodutore	adj
 	cat	psiquiàtric	adj$	srd	psichiàtricu	adj
 	cat	esclau	adj	srd	iscrau	adj
 	cat	arranjar	vblex	srd	arrangiare	vblex
-	cat	tecla	n$n-f	srd	tastu	n-m
+	cat	tecla	n-f$n	srd	tastu	n-m
 	cat	intensificar	vblex$vblex-pron	srd	rinfortzare	vblex
 RL	cat	intensificar	vblex$vblex-pron	srd	crèschere	vblex
 	cat	afeblir	vblex	srd	istasire	vblex
@@ -8649,7 +8649,7 @@ RL	cat	intensificar	vblex$vblex-pron	srd	crèschere	vblex
 	cat	silici	n-m$n	srd	silìtziu	n-m
 	cat	Pàdua	np$np-loc	srd	Pàdova	np-top-f$np-top-f-sg
 	cat	Harold	np$np-ant-m-sg	srd	Harold	np-ant-m$np-ant-m-sg
-	cat	enquesta	n$n-f	srd	chirca	n-f
+	cat	enquesta	n-f$n	srd	chirca	n-f
 	cat	autovia	n-f$n	srd	carrera	n-f
 RL	cat	autovia	n-f$n	srd	autostrada	n-f
 	cat	terciari	adj	srd	tertziàriu	adj
@@ -8672,7 +8672,7 @@ RL	cat	groguenc	adj	srd	groghitzu	adj
 	cat	Macià	np$np-ant-m-sg$$np-ant	srd	Macià	np-cog-mf-sp
 	cat	fur	n-m$n	srd	carta	n-f
 	cat	expressament	adv	srd	aposta	adv
-	cat	certesa	n$n-f	srd	tzertesa	n-f
+	cat	certesa	n-f$n	srd	tzertesa	n-f
 	cat	pontifici	adj	srd	pontifìtziu	adj
 	cat	motí	n-m$n	srd	abbolotu	n-m
 	cat	Fort	np-loc	srd	Fort	np-top-m-sg
@@ -8694,7 +8694,7 @@ RL	cat	injecció	n-f$n	srd	inietzione	n-f
 	cat	Palerm	np$np-loc	srd	Palermu	np-top-m-sg$np-top-m
 RL	cat	Palerm	np$np-loc	srd	Palermo	np-top-m-sg
 	cat	l'Horta	np$np-loc	srd	S'Horta	np-top-f-sg
-	cat	expectativa	n$n-f	srd	isetu	n-m
+	cat	expectativa	n-f$n	srd	isetu	n-m
 	cat	Espanyol	np$np-al$np-al-m-sg	srd	Espanyol	np-al-m-sg
 	cat	Matilde	np-ant-f-sg$np$np-ant	srd	Matilde	np-ant-f$np-ant-f-sg
 	cat	estacionar	vblex	srd	firmare	vblex
@@ -8732,8 +8732,8 @@ RL	cat	pomera	n-f	srd	fundu	n-m
 RL	cat	per la seva banda	adv	srd	dae s'ala sua	adv
 	cat	Johnny	np$np-ant-m-sg	srd	Johnny	np-ant-m$np-ant-m-sg
 	cat	controvertit	adj$	srd	polèmicu	adj
-LR	cat	temptativa	n$n-f	srd	tentativu	n-m
-	cat	temptativa	n$n-f	srd	intentu	n-m
+LR	cat	temptativa	n-f$n	srd	tentativu	n-m
+	cat	temptativa	n-f$n	srd	intentu	n-m
 	cat	proveïdor	n$n-m	srd	frunidore	n
 	cat	Màntua	np$np-loc	srd	Màntova	np-top-f$np-top-f-sg
 	cat	maçó	n	srd	massone	n$n-mf
@@ -8793,7 +8793,7 @@ RL	cat	motivació	n-f$n	srd	motivatzione	n-f
 	cat	Campos	np-cog-mf-sp	srd	Campos	np-cog-mf-sp
 	cat	Verdaguer	np$np-cog-mf-sp$	srd	Verdaguer	np-cog-mf-sp
 	cat	habilitar	vblex	srd	abilitare	vblex
-	cat	admiració	n$n-f	srd	ammiratzione	n-f
+	cat	admiració	n-f$n	srd	ammiratzione	n-f
 	cat	llibreria	n$n-f	srd	libreria	n-f
 RL	cat	llibreria	n$n-f	srd	butega	n-f
 	cat	fusteria	n$n-f	srd	butega	n-f
@@ -8801,7 +8801,7 @@ RL	cat	llibreria	n$n-f	srd	butega	n-f
 	cat	filera	n-f$n	srd	filera	n-f
 	cat	exòtic	adj$	srd	esòticu	adj
 	cat	casal	n-m$n	srd	bidditzolu	n-m
-	cat	recepta	n$n-f	srd	retzeta	n-f
+	cat	recepta	n-f$n	srd	retzeta	n-f
 	cat	derivació	n-f$n	srd	derivatzione	n-f
 	cat	alcohòlic	adj$	srd	alcòlicu	adj
 	cat	sac	n-m$n	srd	balleta	n-f
@@ -8818,13 +8818,13 @@ RL	cat	sac	n-m$n	srd	culatzu	n-m
 	cat	zinc	n-m$n$n-m-sg	srd	zingu	n-m
 	cat	trinxera	n-f$n	srd	trintzera	n-f
 	cat	puig	n-m$n	srd	cùcuru	n-m
-	cat	pujol	n-m$n	srd	cùcuru	n-m
+	cat	pujol	n-m	srd	cùcuru	n-m
 	cat	turó	n-m$n	srd	montigru	n-m
 	cat	prevaler	vblex	srd	prevàlere	vblex
 	cat	nebulosa	n-f$n	srd	nebulosa	n-f
 	cat	apropiat	adj$	srd	apropriadu	adj
 	cat	tapar	vblex	srd	tapare	vblex
-	cat	recaptació	n$n-f	srd	incassu	n-m
+	cat	recaptació	n-f$n	srd	incassu	n-m
 	cat	novell	adj$adj-GD	srd	noàdile	adj
 	cat	Igualada	np$np-loc$np-loc-f	srd	Igualada	np-top-f-sg
 	cat	bufar	vblex	srd	surbiare	vblex
@@ -19713,7 +19713,7 @@ RL	cat	abundar	vblex	srd	bundare	vblex
 	cat	ERC	n-acr-f$n$n-acr$n-acr-f-sg	srd	ERC	n-acr-f-sg
 	cat	navegable	adj$adj-mf	srd	navigàbile	adj
 	cat	imminent	adj$adj-mf$	srd	imbeniente	adj$adj-mf
-	cat	camisa	n$n-f	srd	camisa	n-f
+	cat	camisa	n-f$n	srd	camisa	n-f
 	cat	Roosevelt	np$np-cog-mf-sp$	srd	Roosevelt	np-cog$np-cog-mf-sp
 	cat	Paula	np$np-ant$np-ant-f-sg$	srd	Paula	np-ant-f$np-ant-f-sg
 	cat	marginal	adj$adj-mf$	srd	marginale	adj
@@ -19727,7 +19727,7 @@ RL	cat	papar	vblex	srd	mandigare	vblex
 	cat	conceptualista	n-mf$n	srd	cuntzetualista	n
 	cat	conceptualista	adj$adj-mf	srd	cuntzetualista	adj
 	cat	conceptualisme	n-m$n$n-m-sg	srd	cuntzetualismu	n-m-sg
-	cat	balena	n$n-f	srd	balena	n-f
+	cat	balena	n-f$n	srd	balena	n-f
 	cat	participant	adj	srd	cuncurrente	adj
 	cat	inundar	vblex$vblex-pron	srd	inundare	vblex
 LR	cat	inundar	vblex$vblex-pron	srd	aundare	vblex
@@ -19777,22 +19777,22 @@ RL	cat	estalviar	vblex	srd	aorrare	vblex
 	cat	moll	n-m$n$	srd	modde	n-m
 	cat	tapa	n-f$n	srd	tapa	n-f
 	cat	madurar	vblex	srd	madurare	vblex
-	cat	jubilació	n$n-f	srd	pensione	n-f
+	cat	jubilació	n-f$n	srd	pensione	n-f
 	cat	extra	adj$adj-mf$adj-mf-sg	srd	extra	adj-mf$adj-mf-sp
 	cat	bàltic	adj$	srd	bàlticu	adj
 	cat	místic	adj$	srd	mìsticu	adj
-	cat	inflació	n$n-f	srd	inflatzione	n-f
+	cat	inflació	n-f$n	srd	inflatzione	n-f
 	cat	imaginació	n-f$n	srd	immaginatzione	n-f
 	cat	demarcació	n-f$n	srd	signadura	n-f
 RL	cat	demarcació	n-f$n	srd	làcana	n-f
 	cat	Montblanc	np$np-loc$np-loc-f	srd	Monte Biancu	np-top-m-sg
 	cat	substancial	adj$adj-mf$	srd	sustantziale	adj
 	cat	cera	n$n-f	srd	chera	n-f
-	cat	sanció	n$n-f	srd	multa	n-f
+	cat	sanció	n-f$n	srd	multa	n-f
 	cat	litúrgia	n$n-f	srd	liturgia	n-f
 	cat	fiord	n-m$n	srd	costera	n-f
 	cat	exceptuar	vblex	srd	esclùdere	vblex
-	cat	dita	n-f$n	srd	ditzu	n-m
+	cat	dita	n-f	srd	ditzu	n-m
 	cat	cabina	n-f$n	srd	cabina	n-f
 	cat	arriscar	vblex$vblex-pron	srd	arriscare	vblex
 	cat	superposar	vblex	srd	iscumpassare	vblex
@@ -19879,9 +19879,9 @@ RL	cat	emboscada	n-f$n	srd	impostadura	n-f
 	cat	condecorar	vblex	srd	decorare	vblex
 	cat	bèstia	n-f$n	srd	bèstia	n-f
 	cat	Roubaix	np$np-loc	srd	Roubaix	np-top-m-sg
-	cat	perla	n$n-f	srd	prella	n-f
+	cat	perla	n-f$n	srd	prella	n-f
 	cat	Melbourne	np$np-loc	srd	Melbourne	np-top-f-sg
-	cat	gimnàstica	n$n-f	srd	ginnàstica	n-f
+	cat	gimnàstica	n-f$n	srd	ginnàstica	n-f
 	cat	mobilització	n-f$n	srd	mobilitatzione	n-f
 	cat	fricció	n-f$n	srd	fritzione	n-f
 RL	cat	vinculació	n-f$n	srd	ligàmene	n-m
@@ -19900,7 +19900,7 @@ RL	cat	conspirar	vblex	srd	trassare	vblex
 	cat	Tunis	np$np-loc$np-loc-m	srd	Tùnisi	np-top-f-sg
 	cat	Euskadi	np$np-loc	srd	Euskadi	np-top-f$np-top-f-sg
 	cat	deformar	vblex	srd	isformare	vblex
-	cat	urna	n$n-f	srd	urna	n-f
+	cat	urna	n-f$n	srd	urna	n-f
 	cat	col·lisió	n-f$n	srd	atapada	n-f
 	cat	multimèdia	adj$adj-mf-sp$$adj-mf	srd	multimediale	adj$adj-mf
 	cat	locomotora	n-f$n	srd	locomotiva	n-f
@@ -19946,7 +19946,7 @@ RL	cat	salpar	vblex	srd	mòere	vblex
 	cat	presumpte	adj$adj-mf-pl$$adj-mf	srd	crètidu	adj
 	cat	és clar	adv	srd	est craru	adv
 	cat	tribuna	n-f$n	srd	tribuna	n-f
-	cat	mosca	n$n-f	srd	musca	n-f
+	cat	mosca	n-f$n	srd	musca	n-f
 	cat	ISBN	np$np-al$np-al-m-sg	srd	ISBN	np-al-m-sg
 	cat	imposició	n-f$n	srd	impositzione	n-f
 	cat	diferenciació	n-f$n	srd	distintzione	n-f
@@ -20028,7 +20028,7 @@ RL	cat	d'una banda	adv	srd	dae un'ala	adv
 	cat	atrevir	vblex$vblex-pron	srd	atrivire	vblex
 	cat	tripular	vblex	srd	ghiare	vblex
 RL	cat	tripular	vblex	srd	pilotare	vblex
-	cat	fada	n$n-f	srd	fada	n-f
+	cat	fada	n-f$n	srd	fada	n-f
 	cat	Darwin	np-cog-mf-sp	srd	Darwin	np-cog-mf-sp
 	cat	africà	n$n-m	srd	africanu	n
 	cat	Neptú	np$np-loc$np-loc-m	srd	Netunu	np-top-m$np-top-m-sg
@@ -20043,7 +20043,7 @@ RL	cat	tripular	vblex	srd	pilotare	vblex
 	cat	Aramunt	np$np-loc	srd	Aramunt	np-top-m-sg
 	cat	cala	n-f$n	srd	cala	n-f
 	cat	esporàdic	adj$	srd	raru	adj
-	cat	simulació	n$n-f	srd	fintzione	n-f
+	cat	simulació	n-f$n	srd	fintzione	n-f
 	cat	patologia	n-f$n	srd	patologia	n-f
 	cat	matricular	vblex	srd	matriculare	vblex
 	cat	usurpar	vblex	srd	apropiare	vblex
@@ -20056,7 +20056,7 @@ RL	cat	eventualment	adv	srd	s'in casu mai	adv
 	cat	beneir	vblex	srd	beneìghere	vblex
 LR	cat	advers	adj$	srd	contràriu	adj
 	cat	a dins	adv	srd	a intro	adv
-	cat	transacció	n$n-f	srd	transatzione	n-f
+	cat	transacció	n-f$n	srd	transatzione	n-f
 	cat	exactitud	n$n-f	srd	pretzisione	n-f
 RL	cat	exactitud	n$n-f	srd	esatesa	n-f
 	cat	validesa	n$n-f	srd	valididade	n-f
@@ -20064,7 +20064,7 @@ RL	cat	exactitud	n$n-f	srd	esatesa	n-f
 LR	cat	tomata	n-m	srd	tomata	n-f
 LR	cat	tomàtiga	n-m	srd	tomata	n-f
 	cat	Segòvia	np$np-loc	srd	Segòvia	np-top-m$np-top-m-sg
-	cat	saviesa	n$n-f	srd	sabiduria	n-f
+	cat	saviesa	n-f$n	srd	sabiduria	n-f
 	cat	encantar	vblex	srd	ammajare	vblex
 RL	cat	baluard	n-m$n	srd	bastione	n-m
 	cat	remarcable	adj-mf$adj	srd	nòdidu	adj
@@ -20085,7 +20085,7 @@ RL	cat	repetidament	adv	srd	de continu	adv
 LR	cat	aficionar	vblex	srd	apassionare	vblex
 	cat	navegant	adj$adj-mf	srd	navigadore	adj
 LR	cat	link	n-m$n	srd	ligàmene	n-m
-	cat	escalada	n$n-f	srd	iscalada	n-f
+	cat	escalada	n-f$n	srd	iscalada	n-f
 	cat	prehistòria	n-f$n	srd	preistòria	n-f
 	cat	Jeff	np-ant-m-sg$np	srd	Jeff	np-ant-m$np-ant-m-sg
 	cat	editor	adj	srd	editore	adj
@@ -20101,7 +20101,7 @@ RL	cat	ferotge	adj-mf$adj$	srd	ferotze	adj
 	cat	capitalista	adj$adj-mf	srd	capitalista	adj$adj-mf
 	cat	a sota	adv	srd	a suta	adv
 	cat	nevar	vblex	srd	niare	vblex
-	cat	cisterna	n$n-f	srd	chisterra	n-f
+	cat	cisterna	n-f$n	srd	chisterra	n-f
 	cat	brillantor	n-f$n	srd	lugore	n-m
 	cat	accionar	vblex	srd	atzionare	vblex
 	cat	successor	adj	srd	sutzessore	adj
@@ -20241,7 +20241,7 @@ RL	cat	claredat	n-f$n	srd	craresa	n-f
 	cat	Sibil·la	np$np-ant-f-sg	srd	Sibil·la	np-ant-f-sg
 	cat	prematur	adj$	srd	primidiu	adj
 	cat	GM	n-acr-m$n$n-acr-m-sg	srd	GM	n-acr-m-sg
-	cat	flexibilitat	n$n-f$n-f-ND	srd	flessibilidade	n-f
+	cat	flexibilitat	n-f$n$n-f-ND	srd	flessibilidade	n-f
 	cat	acompanyant	n-mf$n	srd	cumpàngiu	n$n-m
 	cat	senglar	n$n-m	srd	sirbone	n-m
 	cat	renal	adj$$adj-mf	srd	renale	adj
@@ -20262,7 +20262,7 @@ RL	cat	albirar	vblex	srd	sebestare	vblex
 	cat	encadenar	vblex	srd	incadenare	vblex
 	cat	desmantellar	vblex	srd	iscontzare	vblex
 	cat	calmar	vblex	srd	calmare	vblex
-	cat	abstracció	n-f$n	srd	astratzione	n-f
+	cat	abstracció	n-f	srd	astratzione	n-f
 	cat	ocasional	adj$adj-mf$	srd	ocasionale	adj
 	cat	iònic	adj	srd	iònicu	adj
 	cat	elogiar	vblex	srd	bantare	vblex
@@ -20339,7 +20339,7 @@ RL	cat	mentrestant	adv	srd	in s'ora	adv
 	cat	filial	adj$adj-mf	srd	filiale	adj
 	cat	apèndix	n-m$n	srd	apenditze	n-f
 	cat	Universitat Autònoma de Barcelona	np$np-loc	srd	Universitade Autònoma de Bartzellona	np-top-f-sg
-	cat	retòrica	n$n-f	srd	retòrica	n-f
+	cat	retòrica	n-f$n	srd	retòrica	n-f
 	cat	rebaixar	vblex	srd	abbassare	vblex
 	cat	petjada	n-f$n	srd	sèmida	n-f
 	cat	mortalitat	n-f$n$n-f-ND	srd	mortalidade	n-f
@@ -20355,7 +20355,7 @@ RL	cat	amplària	n-f$n	srd	mannesa	n-f
 	cat	resina	n-f$n	srd	cucumele	n-m
 	cat	Press	np$np-al	srd	Press	np-al-m-sg
 	cat	misèria	n-f$n	srd	misèria	n-f
-	cat	justificació	n$n-f	srd	giustificatzione	n-f
+	cat	justificació	n-f$n	srd	giustificatzione	n-f
 	cat	impuresa	n-f$n	srd	impuresa	n-f
 	cat	patrimonial	adj$adj-mf	srd	patrimoniale	adj
 	cat	estudiantil	adj$adj-mf$	srd	de istudiante	adj-mf
@@ -20383,7 +20383,7 @@ RL	cat	amplària	n-f$n	srd	mannesa	n-f
 	cat	reixa	n-f$n	srd	retza	n-f
 	cat	preliminar	adj$$adj-mf	srd	preliminare	adj
 	cat	pescar	vblex	srd	piscare	vblex
-	cat	làmpada	n$n-f	srd	làmpada	n-f
+	cat	làmpada	n-f$n	srd	làmpada	n-f
 	cat	instigar	vblex	srd	auntzare	vblex
 	cat	excomunicar	vblex	srd	iscomunigare	vblex
 	cat	dòric	adj$	srd	dòricu	adj
@@ -20408,7 +20408,7 @@ RL	cat	afecte	adj-mf-pl$adj	srd	malàidu	adj
 	cat	suficientment	adv	srd	cantu bastat	adv
 	cat	simplicitat	n-f$n	srd	semplitzidade	n-f
 RL	cat	simplicitat	n-f$n	srd	simplitzidade	n-f
-	cat	divergència	n$n-f	srd	cuntierra	n-f
+	cat	divergència	n-f$n	srd	cuntierra	n-f
 	cat	ovari	n-m$n	srd	ovaja	n-f
 	cat	escriptori	n-m$n$n-m-sg	srd	iscrivania	n-f
 	cat	Cornellà	np-loc$np-loc-f	srd	Cornellà	np-top-m$np-top-m-sg
@@ -20480,7 +20480,7 @@ RL	cat	fundacional	adj-mf$adj	srd	de base	adj-mf
 	cat	Emmy	np-ant-f-sg$np	srd	Emmy	np-ant-f-sg
 	cat	dempeus	adv	srd	ritzu	adv
 RL	cat	dempeus	adv	srd	in pedes	adv
-	cat	sinagoga	n$n-f	srd	sinagoga	n-f
+	cat	sinagoga	n-f$n	srd	sinagoga	n-f
 	cat	senyalització	n-f$n	srd	marca	n-f
 	cat	Pèrgam	np$np-loc	srd	Pèrgamu	np-top-m-sg
 	cat	incipient	adj	srd	initziale	adj
@@ -20522,8 +20522,8 @@ RL	cat	meravellós	adj$$adj-sup	srd	ispantosu	adj
 	cat	comoditat	n-f$n	srd	comodidade	n-f
 	cat	Xiva	np$np-loc	srd	Xiva	np-top-m-sg
 LR	cat	vetar	vblex	srd	negare	vblex
-	cat	duana	n$n-f$n-f-pl	srd	dogana	n-f
-RL	cat	duana	n$n-f$n-f-pl	srd	duana	n-f
+	cat	duana	n-f$n$n-f-pl	srd	dogana	n-f
+RL	cat	duana	n-f$n$n-f-pl	srd	duana	n-f
 	cat	deposició	n-f$n	srd	cagada	n-f
 	cat	bàrbar	adj$	srd	bàrbaru	adj
 LR	cat	àdhuc	adv	srd	galu	adv
@@ -20590,7 +20590,7 @@ RL	cat	diàriament	adv	srd	cada die	adv
 	cat	Kassel	np$np-loc$np-loc-m	srd	Kassel	np-top-m-sg
 	cat	jeràrquic	adj$	srd	geràrchicu	adj
 	cat	brutal	adj$adj-mf$	srd	brutale	adj$adj-mf
-	cat	afluència	n$n-f	srd	lòmpida	n-f
+	cat	afluència	n-f$n	srd	lòmpida	n-f
 	cat	Westfàlia	np-loc	srd	Westfàlia	np-top-m-sg
 	cat	verinós	adj$	srd	venenosu	adj
 RL	cat	verinós	adj$	srd	benenosu	adj
@@ -20625,7 +20625,7 @@ RL	cat	posposar	vblex	srd	illonghiare	vblex
 	cat	barraca	n-f$n	srd	barraca	n-f
 	cat	Taixkent	np$np-loc	srd	Taixkent	np-top-m-sg
 	cat	Seattle	np$np-loc	srd	Seattle	np-top-f-sg
-	cat	irregularitat	n$n-f	srd	irregularidade	n-f
+	cat	irregularitat	n-f$n	srd	irregularidade	n-f
 	cat	imperar	vblex	srd	imperare	vblex
 	cat	Hainaut	np$np-loc	srd	Hainaut	np-top-f-sg
 	cat	trombó	n-m$n	srd	trumbone	n-m
@@ -22067,7 +22067,7 @@ LR	cat	Hanníbal	np-ant-m-sg	srd	Annìbale	np-ant-m-sg$np-ant-m
 	cat	miserable	adj-mf$adj$	srd	miseràbile	adj$adj-mf
 	cat	monopolista	adj-mf$adj	srd	monopolista	adj$adj-mf
 	cat	moscovita	adj$adj-mf	srd	moscovita	adj-mf
-	cat	naturalista	adj$adj-mf$	srd	naturalista	adj$adj-mf
+	cat	naturalista	adj$adj-mf	srd	naturalista	adj$adj-mf
 	cat	neurològic	adj$	srd	neurològicu	adj
 	cat	oncològic	adj$	srd	oncològicu	adj
 	cat	ontològic	adj	srd	ontològicu	adj
@@ -22136,7 +22136,7 @@ RL	cat	anestesista	n-mf$n	srd	anestesista	n$n-mf
 	cat	idealista	n-mf$n$	srd	idealista	n$n-mf
 	cat	imperialista	n-mf$n$	srd	imperialista	n$n-mf
 	cat	impressionista	n-mf$n$	srd	impressionista	n$n-mf
-	cat	individualista	n$n-mf$	srd	individualista	n$n-mf
+	cat	individualista	n-mf$n$	srd	individualista	n$n-mf
 	cat	integrista	n-mf$n	srd	integrista	n$n-mf
 	cat	materialista	n-mf$n	srd	materialista	n$n-mf
 	cat	miniaturista	n-mf$n	srd	miniaturista	n-mf
@@ -22176,7 +22176,7 @@ RL	cat	addició	n-f$n	srd	additzione	n-f
 	cat	carburació	n-f$n	srd	carburatzione	n-f
 	cat	cassació	n-f$n	srd	cassatzione	n-f
 	cat	catalogació	n-f$n	srd	catalogatzione	n-f
-	cat	caució	n$n-f	srd	cautzione	n-f
+	cat	caució	n-f$n	srd	cautzione	n-f
 	cat	clonació	n-f	srd	clonatzione	n-f
 	cat	codificació	n-f$n	srd	codificatzione	n-f
 	cat	commoció	n-f$n	srd	cummotzione	n-f
@@ -22205,23 +22205,23 @@ RL	cat	addició	n-f$n	srd	additzione	n-f
 	cat	evocació	n-f$n	srd	evocatzione	n-f
 	cat	fecundació	n-f$n	srd	fecundatzione	n-f
 	cat	figuració	n-f$n	srd	figuratzione	n-f
-	cat	frustració	n$n-f	srd	frustratzione	n-f
+	cat	frustració	n-f$n	srd	frustratzione	n-f
 	cat	glorificació	n-f$n	srd	glorificatzione	n-f$n
 	cat	gradació	n-f$n	srd	gradatzione	n-f
 	cat	ideació	n-f$n	srd	ideatzione	n-f
-	cat	identificació	n$n-f	srd	identificatzione	n-f
+	cat	identificació	n-f$n	srd	identificatzione	n-f
 	cat	immatriculació	n$n-f	srd	immatriculatzione	n-f
 	cat	impugnació	n-f$n	srd	impugnatzione	n-f
 	cat	imputació	n-f$n	srd	imputatzione	n-f
-	cat	incriminació	n$n-f	srd	incriminatzione	n-f
-	cat	indignació	n$n-f	srd	indignatzione	n-f
+	cat	incriminació	n-f$n	srd	incriminatzione	n-f
+	cat	indignació	n-f$n	srd	indignatzione	n-f
 	cat	indisposició	n-f$n	srd	indispositzione	n-f
 	cat	inseminació	n-f$n	srd	inseminatzione	n-f
 	cat	insinuació	n-f$n	srd	insinuatzione	n-f
 	cat	instauració	n-f$n	srd	instauratzione	n-f
 	cat	intermediació	n-f$n	srd	intermediatzione	n-f
 	cat	interrelació	n-f$n	srd	interrelatzione	n-f
-	cat	interrogació	n$n-f	srd	interrogatzione	n-f
+	cat	interrogació	n-f$n	srd	interrogatzione	n-f
 	cat	intimació	n-f$n	srd	intimatzione	n-f
 	cat	invocació	n-f$n	srd	invocatzione	n-f
 	cat	irrigació	n-f$n	srd	irrigatzione	n-f
@@ -22230,19 +22230,19 @@ RL	cat	addició	n-f$n	srd	additzione	n-f
 	cat	locomoció	n-f$n	srd	locomotzione	n-f
 	cat	locució	n-f$n	srd	locutzione	n-f
 	cat	massificació	n-f$n	srd	massificatzione	n-f
-	cat	mediació	n$n-f	srd	mediatzione	n-f
+	cat	mediació	n-f$n	srd	mediatzione	n-f
 	cat	medicació	n-f$n	srd	medicatzione	n-f
-	cat	meditació	n$n-f	srd	meditatzione	n-f
+	cat	meditació	n-f$n	srd	meditatzione	n-f
 	cat	moció	n-f$n	srd	motzione	n-f
 	cat	moderació	n-f$n	srd	moderatzione	n-f
 	cat	multiplicació	n-f$n	srd	multiplicatzione	n-f
-	cat	mutilació	n$n-f	srd	mutilatzione	n-f
+	cat	mutilació	n-f$n	srd	mutilatzione	n-f
 	cat	narració	n-f$n	srd	narratzione	n-f
-	cat	notificació	n$n-f	srd	notificatzione	n-f
+	cat	notificació	n-f$n	srd	notificatzione	n-f
 	cat	nutrició	n-f$n	srd	nutritzione	n-f
 	cat	ovulació	n-f$n	srd	ovulatzione	n-f
 	cat	palpitació	n-f$n	srd	palpitatzione	n-f
-	cat	perdició	n$n-f	srd	perditzione	n-f
+	cat	perdició	n-f$n	srd	perditzione	n-f
 	cat	personificació	n-f$n	srd	personificatzione	n-f
 	cat	púlpit	n-m$n	srd	trona	n-f
 	cat	precaució	n-f$n	srd	precautzione	n-f
@@ -22255,28 +22255,28 @@ RL	cat	addició	n-f$n	srd	additzione	n-f
 RL	cat	punició	n-f$n	srd	punitzione	n-f
 	cat	purificació	n-f$n	srd	purificatzione	n-f
 	cat	ració	n-f$n	srd	ratzione	n-f
-	cat	remuneració	n$n-f	srd	remuneratzione	n-f
+	cat	remuneració	n-f$n	srd	remuneratzione	n-f
 	cat	resignació	n-f$n	srd	resignatzione	n-f
 	cat	restitució	n-f$n	srd	restitutzione	n-f
-	cat	retribució	n$n-f	srd	retributzione	n-f
+	cat	retribució	n-f$n	srd	retributzione	n-f
 	cat	revocació	n-f$n	srd	revocatzione	n-f
 	cat	sedimentació	n-f$n	srd	sedimentatzione	n-f
 	cat	sublimació	n-f$n	srd	sublimatzione	n-f
 	cat	subordinació	n-f$n	srd	subordinatzione	n-f
 	cat	superstició	n-f$n	srd	superstitzione	n-f
-	cat	telecomunicació	n$n-f	srd	telecomunicatzione	n-f
+	cat	telecomunicació	n-f$n	srd	telecomunicatzione	n-f
 	cat	trasposició	n-f$n	srd	traspositzione	n-f
 	cat	validació	n-f$n	srd	validatzione	n-f
 	cat	veneració	n-f$n	srd	veneratzione	n-f
 	cat	ventilació	n-f$n	srd	ventilatzione	n-f
-	cat	analogia	n$n-f	srd	analogia	n-f
+	cat	analogia	n-f$n	srd	analogia	n-f
 	cat	andrologia	n-f$n	srd	andrologia	n-f
 	cat	apologia	n-f$n	srd	apologia	n-f
 	cat	astrologia	n-f$n	srd	astrologia	n-f
 	cat	cardiologia	n-f$n	srd	cardiologia	n-f
 	cat	climatologia	n-f$n	srd	climatologia	n-f
 	cat	cosmologia	n-f$n	srd	cosmologia	n-f
-	cat	criminologia	n$n-f	srd	criminologia	n-f
+	cat	criminologia	n-f$n	srd	criminologia	n-f
 	cat	dermatologia	n-f$n	srd	dermatologia	n-f
 	cat	edafologia	n-f$n	srd	edafologia	n-f
 	cat	enologia	n-f$n	srd	enologia	n-f
@@ -22398,7 +22398,7 @@ RL	cat	estalvi	n-m$n$	srd	aorru	n-m
 	cat	esprint	n-m$n	srd	iscatu	n-m
 	cat	podi	n-m$n	srd	pòdiu	n-m
 	cat	fallida	n$n-f	srd	fallimentu	n-m
-	cat	envergadura	n$n-f	srd	importu	n-m
+	cat	envergadura	n-f$n	srd	importu	n-m
 	cat	alçària	n-f$n	srd	tamagnu	n-m
 	cat	verí	n-m$n	srd	venenu	n-m
 LR	cat	metzina	n-f	srd	venenu	n-m
@@ -22453,7 +22453,7 @@ RL	cat	dinar	n-m$n	srd	pràngiu	n-m
 	cat	confrontació	n-f$n	srd	cunfrontu	n-m
 	cat	motet	n-m$n	srd	mutetu	n-m
 	cat	ordi	n-m$n	srd	òrgiu	n-m
-	cat	inflamació	n$n-f	srd	isfogu	n-m
+	cat	inflamació	n-f$n	srd	isfogu	n-m
 	cat	priorat	n-m$n	srd	prioradu	n-m
 	cat	pauta	n-f$n	srd	patu	n-m
 	cat	lípid	n-m$n	srd	grassu	n-m
@@ -22463,11 +22463,11 @@ RL	cat	dinar	n-m$n	srd	pràngiu	n-m
 	cat	ídol	n-m$n	srd	ìdolu	n-m
 	cat	comercialització	n-f$n	srd	cummèrtziu	n-m
 	cat	sopa	n-f$n	srd	brodu	n-m
-	cat	assoliment	n$n-m	srd	logru	n-m
+	cat	assoliment	n-m$n	srd	logru	n-m
 	cat	orgull	n-m$n	srd	orgòlliu	n-m
 	cat	armistici	n-m$n	srd	armistìtziu	n-m
 	cat	dormitori	n-m$n	srd	aposentu	n-m
-	cat	catàstrofe	n$n-f	srd	disacatu	n-m
+	cat	catàstrofe	n-f$n	srd	disacatu	n-m
 	cat	acoblament	n-m$n	srd	acrobamentu	n-m
 RL	cat	acoblament	n-m$n	srd	coddòngiu	n-m
 	cat	casquet	n-m$n	srd	domitzìliu	n-m
@@ -22477,7 +22477,7 @@ RL	cat	acoblament	n-m$n	srd	coddòngiu	n-m
 RL	cat	lloguer	n-m$n	srd	allogu	n-m
 	cat	mòbil	n-m$n	srd	telefoneddu	n-m
 	cat	desgast	n-m$n	srd	disperdìtziu	n-m
-	cat	segregació	n$n-f	srd	inserru	n-m
+	cat	segregació	n-f$n	srd	inserru	n-m
 	cat	lucre	n-m$n	srd	logru	n-m
 RL	cat	lucre	n-m$n	srd	balàngiu	n-m
 	cat	acostament	n-m$n	srd	acostu	n-m
@@ -22501,7 +22501,7 @@ RL	cat	mantega	n-f$n	srd	butirru	n-m
 	cat	vassallatge	n-m$n	srd	vassallàgiu	n-m
 	cat	afany	n-m$n	srd	afannu	n-m
 	cat	pontificat	n-m$n	srd	pontificadu	n-m
-	cat	pertorbació	n$n-f	srd	abbolotu	n-m
+	cat	pertorbació	n-f$n	srd	abbolotu	n-m
 	cat	empresonament	n-m$n	srd	arrestu	n-m
 RL	cat	empresonament	n-m$n	srd	impresonamentu	n-m
 	cat	catalanisme	n-m$n	srd	catalanismu	n-m
@@ -22530,7 +22530,7 @@ RL	cat	cranc	n-m$n	srd	grancu	n-m
 	cat	parament	n-m$n$n-m-sg	srd	trastu	n-m
 	cat	restabliment	n-m$n	srd	riistabilimentu	n-m
 RL	cat	restabliment	n-m$n	srd	megioramentu	n-m
-	cat	indemnització	n$n-f	srd	indennizu	n-m
+	cat	indemnització	n-f$n	srd	indennizu	n-m
 	cat	deteriorament	n-m$n	srd	peoramentu	n-m
 	cat	detriment	n-m$n	srd	dannu	n-m
 RL	cat	detriment	n-m$n	srd	discàpitu	n-m
@@ -22595,7 +22595,7 @@ RL	cat	desintegrar	vblex	srd	disintegrare	vblex
 	cat	drap	n-m$n	srd	istratzu	n-m
 RL	cat	drap	n-m$n	srd	petzolu	n-m
 	cat	avortament	n-m$n	srd	istrumadura	n-f
-	cat	àpat	n-m$n	srd	pastu	n-m
+	cat	àpat	n-m	srd	pastu	n-m
 	cat	adormir	vblex	srd	dormire	vblex
 	cat	rigidesa	n-f$n	srd	teteresa	n-f
 	cat	olla	n-f$n	srd	padedda	n-f
@@ -22621,7 +22621,7 @@ RL	cat	veritablement	adv	srd	difatis	adv
 	cat	prelat	n-m$n	srd	preladu	n-m
 	cat	pinta	n-f$n	srd	pètene	n-m
 	cat	emmalaltir	vblex	srd	istomagare	vblex
-	cat	divisa	n$n-f	srd	divisa	n-f
+	cat	divisa	n-f$n	srd	divisa	n-f
 	cat	Dénia	np-loc$np-loc-f	srd	Dénia	np-top-f$np-top-f-sg
 	cat	clandestinitat	n-f$n	srd	cuadura	n-f
 	cat	Amiens	np$np-loc	srd	Amiens	np-top-f-sg
@@ -22649,8 +22649,8 @@ RL	cat	tacar	vblex	srd	guastare	vblex
 	cat	perjudicial	adj$adj-mf$	srd	pregiuditziale	adj
 	cat	pànic	n-m$n	srd	pànicu	n-m
 	cat	il·lustrador	adj	srd	illustradore	adj
-	cat	fallada	n-f$n	srd	falada	n-f
-RL	cat	fallada	n-f$n	srd	ruta	n-f
+	cat	fallada	n-f	srd	falada	n-f
+RL	cat	fallada	n-f	srd	ruta	n-f
 	cat	enfadar	vblex	srd	infadare	vblex
 	cat	contraposar	vblex	srd	contrapònnere	vblex
 	cat	Aigües	np$np-loc$np-loc-f	srd	Aigües	np-top-f-sg
@@ -22759,7 +22759,7 @@ RL	cat	fumar	vblex	srd	fumare	vblex
 	cat	escamot	n-m$n	srd	plotone	n-m
 	cat	enèrgic	adj$	srd	enèrgicu	adj
 	cat	crueltat	n-f$n$n-f-ND	srd	crudelidade	n-f
-	cat	caseta	n$n-f	srd	cabina	n-f
+	cat	caseta	n-f$n	srd	cabina	n-f
 	cat	benèfic	adj$	srd	benèficu	adj
 	cat	armari	n-m$n	srd	armàriu	n-m
 	cat	aclaparador	adj$$adj-GD	srd	angustiosu	adj
@@ -22828,7 +22828,7 @@ RL	cat	directori	n-m$n$n-m-sg	srd	indiritzu	n-m
 	cat	bessó	n$n-m	srd	copiolu	n
 RL	cat	bessó	n$n-m	srd	cròbinu	n
 RL	cat	bessó	n$n-m	srd	gemellu	n
-	cat	angoixa	n$n-f	srd	amargura	n-f
+	cat	angoixa	n-f$n	srd	amargura	n-f
 	cat	termodinàmic	adj	srd	termodinàmicu	adj
 	cat	reactiu	adj	srd	reativu	adj
 	cat	pertorbar	vblex	srd	bulugiare	vblex
@@ -22897,7 +22897,7 @@ RL	cat	alternativament	adv	srd	a borta a borta	adv
 	cat	translació	n-f$n	srd	trasferimentu	n-m
 	cat	mola	n-f$n	srd	mola	n-f
 	cat	IRA	n$n-acr-m$n-acr-m-sg	srd	IRA	n-acr-m-sg
-	cat	gallina	n$n-f	srd	pudda	n-f
+	cat	gallina	n-f$n	srd	pudda	n-f
 	cat	fotograma	n-m$n	srd	fotogramma	n-m
 	cat	CP	n-acr-m$n$n-acr-m-sg	srd	CP	n-acr-m-sg
 	cat	Bragança	np$np-loc	srd	Bragantza	np-top-f-sg
@@ -23299,7 +23299,7 @@ RL	cat	acostament	n-m$n	srd	acostamentu	n-m
 	cat	ament	n-m$n	srd	amentu	n-m
 	cat	apoderament	n-m$n	srd	apoderamentu	n-m
 	cat	aprofundiment	n-m$n	srd	aprofundimentu	n-m
-	cat	assegurament	n$n-m	srd	asseguramentu	n-m
+	cat	assegurament	n-m$n	srd	asseguramentu	n-m
 	cat	assentiment	n-m$n	srd	assentimentu	n-m
 	cat	atreviment	n-m$n	srd	atrevimentu	n-m
 	cat	avançament	n-m$n	srd	avantzamentu	n-m
@@ -23345,22 +23345,22 @@ RL	cat	concurrència	n-f$n	srd	concurrèntzia	n-f
 	cat	contingència	n-f$n	srd	contingèntzia	n-f
 	cat	convalescència	n-f$n	srd	convalescèntzia	n-f
 	cat	deferència	n-f$n	srd	deferèntzia	n-f
-	cat	demència	n$n-f	srd	demèntzia	n-f
+	cat	demència	n-f$n	srd	demèntzia	n-f
 	cat	desinència	n-f$n	srd	desinèntzia	n-f
 	cat	diligència	n-f$n	srd	diligèntzia	n-f
 	cat	dissidència	n-f$n	srd	dissidèntzia	n-f
 	cat	dolència	n-f$n	srd	dolèntzia	n-f
 	cat	eminència	n-f$n	srd	eminèntzia	n-f
-	cat	impaciència	n$n-f	srd	impatzièntzia	n-f
+	cat	impaciència	n-f$n	srd	impatzièntzia	n-f
 	cat	impertinència	n-f$n	srd	impertinèntzia	n-f
-	cat	impotència	n$n-f	srd	impotèntzia	n-f
+	cat	impotència	n-f$n	srd	impotèntzia	n-f
 	cat	incongruència	n-f$n	srd	incongruèntzia	n-f
 	cat	indecència	n-f$n	srd	indetzèntzia	n-f
 	cat	inferència	n-f$n	srd	inferèntzia	n-f
-	cat	innocència	n$n-f	srd	innotzèntzia	n-f
+	cat	innocència	n-f$n	srd	innotzèntzia	n-f
 	cat	insolvència	n-f$n	srd	insolvèntzia	n-f
 	cat	insuficiència	n-f$n	srd	insufitzièntzia	n-f
-	cat	incidència	n$n-f	srd	intzidèntzia	n-f
+	cat	incidència	n-f$n	srd	intzidèntzia	n-f
 	cat	negligència	n-f$n	srd	negligèntzia	n-f
 	cat	ocurrència	n-f$n	srd	ocurrèntzia	n-f
 	cat	prepotència	n-f$n	srd	prepotèntzia	n-f
@@ -23372,16 +23372,16 @@ RL	cat	concurrència	n-f$n	srd	concurrèntzia	n-f
 	cat	valència	n-f$n	srd	valèntzia	n-f
 	cat	vigència	n-f$n	srd	vigèntzia	n-f
 	cat	confidència	n-f$n	srd	cunfidèntzia	n-f
-	cat	seqüència	n$n-f	srd	secuèntzia	n-f
-	cat	acústica	n$n-f	srd	acùstica	n-f
-	cat	aerodinàmica	n$n-f$n-f-sg	srd	aerodinàmica	n-f
-	cat	fonètica	n$n-f$n-f-sg	srd	fonètica	n-f
+	cat	seqüència	n-f$n	srd	secuèntzia	n-f
+	cat	acústica	n-f$n	srd	acùstica	n-f
+	cat	aerodinàmica	n-f$n$n-f-sg	srd	aerodinàmica	n-f
+	cat	fonètica	n-f$n$n-f-sg	srd	fonètica	n-f
 	cat	logística	n-f$n	srd	logìstica	n-f
 	cat	mímica	n-f$n	srd	mìmica	n-f
-	cat	pica	n-f$n	srd	pica	n-f
-RL	cat	polèmica	n$n-f	srd	polèmica	n-f
+	cat	pica	n-f	srd	pica	n-f
+RL	cat	polèmica	n-f$n	srd	polèmica	n-f
 	cat	semàntica	n$n-f$n-f-pl	srd	semàntica	n-f
-	cat	termodinàmica	n$n-f	srd	termodinàmica	n-f
+	cat	termodinàmica	n-f$n	srd	termodinàmica	n-f
 	cat	túnica	n-f$n	srd	tùnica	n-f
 	cat	antinacionalista	n$n-mf	srd	antinatzionalista	n
 RL	cat	ciclista	n-mf$n	srd	ciclista	n
@@ -23397,9 +23397,9 @@ RL	cat	ciclista	n-mf$n	srd	ciclista	n
 	cat	equilibrista	n-mf$n	srd	echilibrista	n
 	cat	franquista	n-mf$n$	srd	franchista	n
 	cat	agudesa	n-f$n	srd	agudesa	n-f
-	cat	bravesa	n$n-f	srd	bravesa	n-f
+	cat	bravesa	n-f$n	srd	bravesa	n-f
 	cat	calidesa	n-f$n	srd	calidesa	n-f
-	cat	candidesa	n$n-f	srd	candidesa	n-f
+	cat	candidesa	n-f$n	srd	candidesa	n-f
 	cat	cruesa	n-f$n	srd	cruesa	n-f
 	cat	delicadesa	n-f$n	srd	delicadesa	n-f
 RL	cat	duresa	n-f$n	srd	duresa	n-f
@@ -23409,17 +23409,17 @@ RL	cat	duresa	n-f$n	srd	duresa	n-f
 	cat	escassesa	n-f$n$n-f-sg	srd	iscassesa	n-f
 	cat	lucidesa	n-f$n	srd	lutzidesa	n-f
 RL	cat	maduresa	n-f$n$n-f-sg	srd	maduresa	n-f
-RL	cat	naturalesa	n$n-f	srd	naturalesa	n-f
+RL	cat	naturalesa	n-f$n	srd	naturalesa	n-f
 	cat	prestesa	n$n-f	srd	prestesa	n-f
 	cat	proesa	n-f$n	srd	proesa	n-f
 	cat	raresa	n-f$n	srd	raresa	n-f
-	cat	solidesa	n$n-f	srd	solidesa	n-f
-RL	cat	sorpresa	n-f$n	srd	sorpresa	n-f
+	cat	solidesa	n-f$n	srd	solidesa	n-f
+RL	cat	sorpresa	n-f	srd	sorpresa	n-f
 	cat	tebiesa	n-f$n	srd	tebiesa	n-f
 	cat	timidesa	n-f$n	srd	timidesa	n-f
 	cat	tristesa	n-f$n	srd	tristesa	n-f
 	cat	vilesa	n$n-f	srd	vilesa	n-f
-RL	cat	altivesa	n$n-f	srd	altivesa	n-f
+RL	cat	altivesa	n-f$n	srd	altivesa	n-f
 	cat	ceguesa	n-f$n$n-f-ND	srd	tzeghesa	n-f
 RL	cat	mudesa	n-f$n	srd	mudesa	n-f
 	cat	amplificador	n-m$n	srd	amplificadore	n-m
@@ -23428,8 +23428,8 @@ RL	cat	mudesa	n-f$n	srd	mudesa	n-f
 	cat	carburador	n-m$n	srd	carburadore	n-m
 	cat	congelador	n-m$n	srd	cungeladore	n-m
 	cat	ventilador	n-m$n	srd	ventiladore	n-m
-RL	cat	acumulació	n$n-f	srd	acumulatzione	n-f
-RL	cat	acusació	n$n-f	srd	acusatzione	n-f
+RL	cat	acumulació	n-f$n	srd	acumulatzione	n-f
+RL	cat	acusació	n-f$n	srd	acusatzione	n-f
 	cat	anticipació	n-f$n	srd	antitzipatzione	n-f
 	cat	asserció	n-f$n	srd	assertzione	n-f
 RL	cat	atestació	n-f$n	srd	atestatzione	n-f
@@ -23441,7 +23441,7 @@ RL	cat	contraposició	n-f$n	srd	contrapositzione	n-f
 RL	cat	concentració	n-f$n	srd	contzentratzione	n-f
 	cat	conciliació	n-f$n	srd	contziliatzione	n-f
 RL	cat	coordinació	n-f$n	srd	coordinatzione	n-f
-	cat	qualificació	n$n-f	srd	cualificatzione	n-f
+	cat	qualificació	n-f$n	srd	cualificatzione	n-f
 RL	cat	comparació	n-f$n	srd	cumparatzione	n-f
 RL	cat	compensació	n-f$n	srd	cumpensatzione	n-f
 RL	cat	competició	n-f$n	srd	cumpetitzione	n-f
@@ -23459,9 +23459,9 @@ RL	cat	detenció	n-f$n	srd	detentzione	n-f
 RL	cat	diferenciació	n-f$n	srd	diferentziatzione	n-f
 RL	cat	divulgació	n-f$n	srd	divulgatzione	n-f
 	cat	equitació	n-f$n$n-f-sg	srd	ecuitatzione	n-f
-	cat	emancipació	n$n-f	srd	emantzipatzione	n-f
+	cat	emancipació	n-f$n	srd	emantzipatzione	n-f
 	cat	facilitació	n-f$n	srd	fatzilitatzione	n-f
-RL	cat	fortificació	n$n-f	srd	fortificatzione	n-f
+RL	cat	fortificació	n-f$n	srd	fortificatzione	n-f
 RL	cat	implicació	n-f$n	srd	implicatzione	n-f
 	cat	improvisació	n-f$n	srd	improvisatzione	n-f
 	cat	inquisició	n-f$n	srd	incuisitzione	n-f
@@ -23489,27 +23489,27 @@ RL	cat	persecució	n-f$n	srd	persecutzione	n-f
 	cat	prevenció	n-f$n	srd	preventzione	n-f
 RL	cat	propagació	n-f$n	srd	propagatzione	n-f
 RL	cat	reclamació	n-f$n	srd	reclamatzione	n-f
-RL	cat	restauració	n$n-f	srd	restauratzione	n-f
+RL	cat	restauració	n-f$n	srd	restauratzione	n-f
 RL	cat	recitació	n-f$n	srd	retzitatzione	n-f
 RL	cat	revolució	n-f$n	srd	revolutzione	n-f
 RL	cat	rotació	n-f$n	srd	rotatzione	n-f
-RL	cat	sanció	n$n-f	srd	santzione	n-f
+RL	cat	sanció	n-f$n	srd	santzione	n-f
 RL	cat	secreció	n-f$n	srd	secretzione	n-f
 RL	cat	simplificació	n-f$n	srd	simplificatzione	n-f
-RL	cat	simulació	n$n-f	srd	simulatzione	n-f
+RL	cat	simulació	n-f$n	srd	simulatzione	n-f
 	cat	certificació	n-f$n	srd	tzertificatzione	n-f
 RL	cat	citació	n-f$n	srd	tzitatzione	n-f
 	cat	unció	n-f$n	srd	untzione	n-f
 RL	cat	vegetació	n-f$n	srd	vegetatzione	n-f
-RL	cat	vocació	n$n-f	srd	vocatzione	n-f
+RL	cat	vocació	n-f$n	srd	vocatzione	n-f
 	cat	arrogància	n-f$n	srd	arrogàntzia	n-f
-	cat	burocràcia	n$n-f	srd	burocratzia	n-f
+	cat	burocràcia	n-f$n	srd	burocratzia	n-f
 	cat	carícia	n-f$n	srd	carìtzia	n-f
 	cat	delícia	n-f$n	srd	delìtzia	n-f
-	cat	ignorància	n$n-f	srd	ignoràntzia	n-f
+	cat	ignorància	n-f$n	srd	ignoràntzia	n-f
 RL	cat	inèrcia	n-f$n	srd	inèrtzia	n-f
 	cat	malícia	n-f$n	srd	malìtzia	n-f
-RL	cat	notícia	n$n-f$n-f-sg	srd	notìtzia	n-f
+RL	cat	notícia	n-f$n$n-f-sg	srd	notìtzia	n-f
 	cat	novícia	n$n-f	srd	novìtzia	n-f
 	cat	perícia	n-f$n	srd	perìtzia	n-f
 	cat	primícia	n-f$n	srd	primìtzia	n-f
@@ -23539,7 +23539,7 @@ RL	cat	dormitori	n-m$n	srd	dormitòriu	n-m
 	cat	abatiment	n-m$n	srd	abbatimentu	n-m
 	cat	abraçada	n-f$n	srd	abbratzada	n-f
 	cat	abreviació	n-f$n	srd	abbreviatzione	n-f
-RL	cat	abundància	n$n-f	srd	abbundàntzia	n-f
+RL	cat	abundància	n-f$n	srd	abbundàntzia	n-f
 	cat	acròbata	n-mf$n	srd	acròbata	n
 	cat	adstrat	n-m$n	srd	adstratu	n-m
 	cat	afront	n-m$n	srd	afrontu	n-m
@@ -23553,7 +23553,7 @@ RL	cat	alga	n-f$n	srd	alga	n-f
 	cat	amulet	n-m$n	srd	amuletu	n-m
 	cat	andana	n-f	srd	andana	n-f
 	cat	angina	n-f$n	srd	angina	n-f
-	cat	anada	n$n-f	srd	annada	n-f
+	cat	anada	n-f$n	srd	annada	n-f
 RL	cat	anotació	n-f$n	srd	annotatzione	n-f
 	cat	anunciació	n-f$n	srd	annùntziu	n-m
 RL	cat	antena	n-f$n	srd	antena	n-f
@@ -23611,7 +23611,7 @@ RL	cat	cadira	n-f$n	srd	cadrea	n-f
 	cat	calc	n-m$n	srd	calcu	n-m
 	cat	cal·ligrafia	n-f$n	srd	calligrafia	n-f
 	cat	caloria	n-f$n	srd	caloria	n-f
-RL	cat	cama	n$n-f	srd	anca	n-f
+RL	cat	cama	n-f$n	srd	anca	n-f
 	cat	camioneta	n-f$n	srd	camieddu	n-m
 RL	cat	canonada	n-f$n	srd	cannonada	n-f
 	cat	cantonera	n-f$n-f-ND$n	srd	cantonera	n-f
@@ -23638,13 +23638,13 @@ RL	cat	casa	n-f$n	srd	casa	n-f
 	cat	caspa	n-f$n	srd	iscatta	n-f
 	cat	cassola	n-f$n	srd	cassola	n-f
 	cat	castor	n-m$n	srd	castoru	n-m
-	cat	catacumba	n$n-f	srd	catacumba	n-f
+	cat	catacumba	n-f$n	srd	catacumba	n-f
 	cat	catifa	n-f$n$n-f-ND	srd	tapete	n-m
 	cat	catifa	n-f$n$n-f-ND	srd	catifa	n-f
 	cat	catre	n-m$n	srd	catre	n-m
 	cat	catre	n-m$n	srd	branda	n-f
 RL	cat	cau	n-m	srd	cau	n-m
-	cat	cautela	n-f$n	srd	cautela	n-f
+	cat	cautela	n-f	srd	cautela	n-f
 	cat	cavalcada	n-f$n	srd	cavalcada	n-f
 	cat	quimera	n-f$n	srd	chimera	n-f
 	cat	quimera	n-f$n	srd	briga	n-f
@@ -23660,7 +23660,7 @@ RL	cat	cau	n-m	srd	cau	n-m
 	cat	colesterol	n-m$n	srd	colesterolu	n-m
 	cat	comitiva	n-f$n	srd	comitiva	n-f
 RL	cat	complot	n-m$n	srd	complotu	n-m
-	cat	comuna	n-f$n	srd	munitzìpiu	n-m
+	cat	comuna	n-f	srd	munitzìpiu	n-m
 RL	cat	conca	n-f$n	srd	conca	n-f
 	cat	conclave	n-m$n	srd	conclave	n-m
 	cat	consol	n-m$n	srd	consolu	n-m
@@ -23668,14 +23668,14 @@ RL	cat	consulta	n-f$n	srd	consulta	n-f
 	cat	contrabandista	n$n-mf	srd	contrabbandista	n
 RL	cat	controvèrsia	n-f$n	srd	controvèrsia	n-f
 RL	cat	conca	n-f$n	srd	batzinu	n-m
-	cat	corbata	n$n-f	srd	corbata	n-f
+	cat	corbata	n-f$n	srd	corbata	n-f
 	cat	corcadura	n-f$n	srd	tacadura	n-f
 	cat	corneta	n-f$n	srd	corneta	n-f
 	cat	cortesia	n$n-f	srd	cortesia	n-f
 	cat	cortina	n-f$n	srd	cortina	n-f
 	cat	cortina	n-f$n	srd	tenda	n-f
 	cat	cosmopolita	n$n-mf	srd	cosmopolita	n
-RL	cat	costum	n-m$n$n-m-pl	srd	costùmene	n-m
+RL	cat	costum	n-m$n-m-pl	srd	costùmene	n-m
 	cat	costura	n-f$n	srd	cosidura	n-f
 RL	cat	coca	n-f$n	srd	turta	n-f
 	cat	covardia	n-f$n	srd	covardia	n-f
@@ -23712,7 +23712,7 @@ RL	cat	cúpula	n-f$n	srd	cùpula	n-f
 	cat	demografia	n-f$n	srd	demografia	n-f
 	cat	demèrit	n$n-m	srd	demèritu	n-m
 	cat	dentadura	n-f$n	srd	dentadura	n-f
-	cat	dentina	n$n-f	srd	dentina	n-f
+	cat	dentina	n-f$n	srd	dentina	n-f
 	cat	diacronia	n-f$n	srd	diacronia	n-f
 	cat	diada	n-f$n	srd	festa	n-f
 	cat	diadema	n-f$n	srd	diadema	n-f
@@ -23723,9 +23723,9 @@ RL	cat	cúpula	n-f$n	srd	cùpula	n-f
 	cat	disbarat	n-m$n	srd	disbaratu	n-m
 	cat	disquet	n-m$n	srd	dischetu	n-m
 	cat	descontentament	n-m$n	srd	discuntentesa	n-f
-	cat	discoteca	n$n-f	srd	discoteca	n-f
+	cat	discoteca	n-f$n	srd	discoteca	n-f
 	cat	discòrdia	n-f$n	srd	discòrdia	n-f
-	cat	ditada	n-f$n	srd	poddigada	n-f
+	cat	ditada	n-f	srd	poddigada	n-f
 RL	cat	dic	n-m$n	srd	diga	n-f
 	cat	divan	n-m$n	srd	divanu	n-m
 	cat	draga	n-f	srd	draga	n-f
@@ -23784,7 +23784,7 @@ RL	cat	finca	n-f$n	srd	finca	n-f
 RL	cat	fita	n-f$n	srd	impresa	n-f
 	cat	foca	n-f$n	srd	foca	n-f
 RL	cat	foguera	n-f$n	srd	foghera	n-f
-RL	cat	fossa	n$n-f	srd	fossa	n-f
+RL	cat	fossa	n-f$n	srd	fossa	n-f
 	cat	fotocòpia	n-f$n	srd	fotocòpia	n-f
 	cat	frac	n-m$n	srd	frac	n-m
 	cat	fragata	n-f$n	srd	fragata	n-f
@@ -23798,7 +23798,7 @@ RL	cat	fossa	n$n-f	srd	fossa	n-f
 	cat	fumera	n-f$n	srd	fumera	n-f
 	cat	fura	n-f	srd	furitu	n-m
 RL	cat	futur	n-m$n	srd	futuru	n-m
-RL	cat	fàbrica	n$n-f	srd	fàbbrica	n-f
+RL	cat	fàbrica	n-f$n	srd	fàbbrica	n-f
 	cat	fèrula	n-f$n	srd	fèrula	n-f
 	cat	fístula	n-f$n	srd	fìstula	n-f
 	cat	fúria	n-f$n	srd	fùria	n-f
@@ -23825,7 +23825,7 @@ RL	cat	gota	n-f$n	srd	guta	n-f
 	cat	granada	n-f	srd	granada	n-f
 	cat	grua	n-f$n$n-f-sg	srd	grua	n-f
 	cat	guantera	n-f$n	srd	guantera	n-f
-	cat	gàbia	n$n-f	srd	gàbbia	n-f
+	cat	gàbia	n-f$n	srd	gàbbia	n-f
 	cat	gàrgara	n-f$n	srd	gàrgara	n-f
 	cat	gàrgola	n-f$n	srd	gàrgola	n-f
 	cat	horror	n-m$n	srd	horror	n-m
@@ -23837,7 +23837,7 @@ RL	cat	gota	n-f$n	srd	guta	n-f
 	cat	infografia	n-f$n	srd	infografia	n-f
 	cat	infàmia	n-f$n	srd	infàmia	n-f
 	cat	inventiva	n-f$n	srd	inventiva	n-f
-	cat	investidura	n$n-f	srd	investidura	n-f
+	cat	investidura	n-f$n	srd	investidura	n-f
 	cat	ironia	n-f$n	srd	ironia	n-f
 	cat	esborradura	n-f	srd	isborradura	n-f
 	cat	escaramussa	n-f$n	srd	iscaramussa	n-f
@@ -23848,9 +23848,9 @@ RL	cat	escata	n-f$n	srd	iscata	n-f
 	cat	escopeta	n-f$n	srd	iscopeta	n-f
 	cat	escuderia	n-f$n	srd	iscuderia	n-f
 	cat	escuma	n$n-f	srd	iscuma	n-f
-	cat	espuma	n$n-f	srd	iscuma	n-f
+	cat	espuma	n-f$n	srd	iscuma	n-f
 RL	cat	escuma	n$n-f	srd	ispuma	n-f
-RL	cat	espuma	n$n-f	srd	ispuma	n-f
+RL	cat	espuma	n-f$n	srd	ispuma	n-f
 	cat	escòria	n-f$n	srd	iscòria	n-f
 RL	cat	esgrima	n-f$n	srd	isgrima	n-f
 	cat	eslàlom	n-m$n	srd	islalom	n-m
@@ -23869,7 +23869,7 @@ RL	cat	esgrima	n-f$n	srd	isgrima	n-f
 	cat	estocada	n-f$n	srd	istocada	n-f
 	cat	estoc	n-m$n$n-m-sg	srd	iscorta	n-f
 	cat	estola	n-f$n	srd	istola	n-f
-	cat	estrada	n-f$n	srd	cumandu	n-m
+	cat	estrada	n-f	srd	cumandu	n-m
 	cat	estrangeria	n-f$n	srd	istrangeria	n-f
 	cat	estratigrafia	n-f$n	srd	istratigrafia	n-f
 	cat	estrat	n-m$n	srd	istratu	n-m
@@ -23879,7 +23879,7 @@ RL	cat	estrofa	n-f$n	srd	istrofa	n-f
 	cat	estufa	n-f$n	srd	istufa	n-f
 RL	cat	estímul	n-m$n	srd	istìmulu	n-m
 	cat	kilowatt	n-m$n$n-m-sg	srd	kilowatt	n-m
-	cat	latrina	n$n-f	srd	latrina	n-f
+	cat	latrina	n-f$n	srd	latrina	n-f
 RL	cat	legislatura	n-f$n	srd	legislatura	n-f
 	cat	lepra	n-f$n	srd	lepra	n-f
 	cat	letargia	n-f$n	srd	letargia	n-f
@@ -23891,9 +23891,9 @@ RL	cat	legislatura	n-f$n	srd	legislatura	n-f
 RL	cat	làmina	n-f$n	srd	làmina	n-f
 	cat	lògia	n-f$n	srd	lògia	n-f
 	cat	maquinació	n-f$n	srd	machinatzione	n-f
-	cat	maquineta	n-f$n$n-f-ND	srd	machineta	n-f
+	cat	maquineta	n-f$n-f-ND$n	srd	machineta	n-f
 RL	cat	maquinista	n-mf$n	srd	machinista	n
-	cat	maleta	n$n-f	srd	maleta	n-f
+	cat	maleta	n-f$n	srd	maleta	n-f
 	cat	malt	n-m	srd	maltu	n-m
 	cat	malària	n-f$n	srd	malària	n-f
 RL	cat	mandat	n$n-m	srd	mandatu	n-m
@@ -23936,19 +23936,19 @@ RL	cat	miniatura	n-f$n	srd	miniatura	n-f
 	cat	morf	n-m$n	srd	morfu	n-m
 RL	cat	mot	n-m$n	srd	paràula	n-m
 	cat	murmuri	n-m$n	srd	murmuriu	n-m
-	cat	musa	n$n-f	srd	musa	n-f
+	cat	musa	n-f$n	srd	musa	n-f
 RL	cat	musical	n-m$n	srd	musical	n-m
 	cat	màcula	n-f$n	srd	màcula	n-f
 RL	cat	màscara	n-f$n	srd	màscara	n-f
 	cat	màster	n$n-m	srd	màster	n-m
 	cat	nafra	n-f$n	srd	nafra	n-f
-	cat	naftalina	n$n-f	srd	naftalina	n-f
+	cat	naftalina	n-f$n	srd	naftalina	n-f
 	cat	nap	n-m$n	srd	napu	n-m
 	cat	nicotina	n-f$n	srd	nicotina	n-f
 RL	cat	novel·la	n-f$n	srd	novella	n-f
 	cat	nòlit	n$n-m	srd	nòlitu	n-m
 	cat	nòmina	n-f$n	srd	nòmina	n-f
-	cat	oca	n$n-f	srd	oca	n-f
+	cat	oca	n-f$n	srd	oca	n-f
 	cat	odissea	n$n-f	srd	odissea	n-f
 	cat	ofensa	n-f$n	srd	ofensa	n-f
 RL	cat	oficina	n-f$n	srd	ofitzina	n-f
@@ -23961,7 +23961,7 @@ RL	cat	oficina	n-f$n	srd	ofitzina	n-f
 	cat	pana	n-f$n	srd	frustanu	n-m
 	cat	pantera	n-f$n	srd	pantera	n-f
 	cat	pantomima	n-f$n	srd	pantomima	n-f
-	cat	paparra	n$n-f	srd	paparra	n-f
+	cat	paparra	n-f$n	srd	paparra	n-f
 	cat	parafina	n-f$n	srd	parafina	n-f
 	cat	parapet	n-m$n	srd	parapetu	n-m
 RL	cat	parentiu	n-m$n	srd	parentiu	n-m
@@ -23979,7 +23979,7 @@ RL	cat	pel·lícula	n-f$n	srd	pellìcula	n-f
 	cat	penicil·lina	n-f$n	srd	penitzillina	n-f
 	cat	pentàgon	n$n-m	srd	pentàgonu	n-m
 RL	cat	perfil	n-m$n	srd	perfilu	n-m
-RL	cat	perla	n$n-f	srd	perla	n-f
+RL	cat	perla	n-f$n	srd	perla	n-f
 	cat	persiana	n-f$n	srd	persiana	n-f
 	cat	petroliera	n$n-f	srd	petroliera	n-f
 	cat	piastra	n$n-f	srd	piastra	n-f
@@ -23989,7 +23989,7 @@ RL	cat	perla	n$n-f	srd	perla	n-f
 	cat	piquet	n-m$n	srd	pichetu	n-m
 	cat	pigota	n-f$n	srd	pigota	n-f
 	cat	pinacoteca	n$n-f	srd	pinacoteca	n-f
-	cat	pipa	n$n-f	srd	pipa	n-f
+	cat	pipa	n-f$n	srd	pipa	n-f
 	cat	pirita	n-f$n	srd	pirita	n-f
 	cat	picota	n-f$n	srd	lòriga	n-f
 RL	cat	pic	n-m$n	srd	pitzu	n-m
@@ -23998,7 +23998,7 @@ RL	cat	pic	n-m$n	srd	pitzu	n-m
 	cat	planimetria	n-f$n	srd	planimetria	n-f
 	cat	platea	n-f$n	srd	platea	n-f
 	cat	plàtan	n-m$n	srd	plàtanu	n-m
-	cat	polca	n-f$n	srd	polca	n-f
+	cat	polca	n-f	srd	polca	n-f
 	cat	poltrona	n-f$n	srd	poltrona	n-f
 	cat	pol	n$n-m	srd	polu	n-m
 	cat	pompa	n-f$n	srd	pompa	n-f
@@ -24035,10 +24035,10 @@ RL	cat	rata	n-f$n	srd	sòrighe	n-m
 	cat	ratera	n-f$n	srd	ratera	n-f
 RL	cat	requisit	n-m$n	srd	recuisitu	n-m
 	cat	referend	n$n-m	srd	referendu	n-m
-RL	cat	reforma	n$n-f	srd	reforma	n-f
+RL	cat	reforma	n-f$n	srd	reforma	n-f
 	cat	regalia	n$n-f	srd	regalia	n-f
 RL	cat	regal	n$n-m	srd	regalu	n-m
-RL	cat	regla	n$n-f	srd	regla	n-f
+RL	cat	regla	n-f$n	srd	regla	n-f
 RL	cat	relat	n$n-m	srd	relatu	n-m
 RL	cat	renda	n-f$n	srd	renda	n-f
 	cat	renou	n-m$n	srd	rennou	n-m
@@ -24071,7 +24071,7 @@ RL	cat	secret	n$n-m	srd	secretu	n-m
 	cat	semestre	n-m$n	srd	semestre	n-m
 	cat	semàfor	n-m$n	srd	semàforu	n-m
 	cat	sentina	n$n-f	srd	sentina	n-f
-	cat	silueta	n$n-f	srd	silueta	n-f
+	cat	silueta	n-f$n	srd	silueta	n-f
 	cat	silur	n-m$n	srd	siluru	n-m
 	cat	simonia	n-f$n	srd	simonia	n-f
 	cat	sincronia	n-f$n	srd	sincronia	n-f
@@ -24086,13 +24086,13 @@ RL	cat	sonda	n-f$n	srd	sonda	n-f
 	cat	sociobiologia	n-f$n	srd	sotziobiologia	n-f
 RL	cat	suc	n-m$n	srd	sutzu	n-m
 	cat	superstrat	n-m$n	srd	superstratu	n-m
-	cat	supèrbia	n$n-f	srd	supèrbia	n-f
+	cat	supèrbia	n-f$n	srd	supèrbia	n-f
 	cat	surra	n-f$n	srd	surra	n-f
 	cat	sutura	n-f$n	srd	sutura	n-f
 	cat	sàcul	n-m$n	srd	sàculu	n-m
 	cat	sàlvia	n-f$n	srd	sàlvia	n-f
 	cat	sàndal	n-m$n	srd	sàndalu	n-m
-	cat	sàtira	n$n-f	srd	sàtira	n-f
+	cat	sàtira	n-f$n	srd	sàtira	n-f
 	cat	sèpia	n-f$n	srd	sèpia	n-f
 	cat	sèsam	n-m$n	srd	sèsamu	n-m
 RL	cat	símbol	n$n-m	srd	sìmbolu	n-m
@@ -24105,14 +24105,14 @@ RL	cat	taca	n-f$n	srd	taca	n-f
 RL	cat	tanc	n-m$n	srd	tancu	n-m
 	cat	tanda	n-f$n	srd	tanda	n-f
 	cat	tapisseria	n-f$n	srd	tapisseria	n-f
-	cat	tara	n$n-f	srd	tara	n-f
+	cat	tara	n-f$n	srd	tara	n-f
 	cat	tarifa	n-f$n	srd	tarifa	n-f
 	cat	taràntula	n-f$n	srd	taràntula	n-f
 RL	cat	tasca	n-f$n	srd	tasca	n-f
 RL	cat	taca	n-f$n	srd	tatza	n-f
-RL	cat	taverna	n$n-f	srd	taverna	n-f
+RL	cat	taverna	n-f$n	srd	taverna	n-f
 	cat	teca	n-f$n	srd	teca	n-f
-RL	cat	tecla	n$n-f	srd	tecla	n-f
+RL	cat	tecla	n-f$n	srd	tecla	n-f
 	cat	telègraf	n-m$n	srd	telègrafu	n-m
 	cat	termòstat	n-m$n	srd	termòstatu	n-m
 	cat	terna	n-f$n	srd	terna	n-f
@@ -24149,7 +24149,7 @@ RL	cat	cinta	n-f$n	srd	tzinta	n-f
 RL	cat	cintura	n-f$n	srd	tzintura	n-f
 	cat	cítara	n-f$n	srd	tzìtara	n-f
 	cat	tíbia	n-f$n	srd	tìbbia	n-f
-	cat	tírria	n$n-f	srd	tìrria	n-f
+	cat	tírria	n-f$n	srd	tìrria	n-f
 	cat	tònic	n-m$n	srd	tònicu	n-m
 	cat	usura	n-f$n	srd	usura	n-f
 	cat	utopia	n-f$n	srd	utopia	n-f
@@ -24161,11 +24161,11 @@ RL	cat	cintura	n-f$n	srd	tzintura	n-f
 	cat	videoclip	n-m$n	srd	videoclip	n-m
 	cat	vigília	n$n-f	srd	vigìlia	n-f
 	cat	vinagrera	n$n-f	srd	vinagrera	n-f
-	cat	violeta	n-f$n$	srd	violeta	n-f
+	cat	violeta	n-f$$n	srd	violeta	n-f
 	cat	viticultura	n-f$n	srd	viticultura	n-f
 	cat	vitrina	n-f$n	srd	vitrina	n-f
 RL	cat	vora	n-f$n	srd	vora	n-f
-RL	cat	vàlvula	n$n-f	srd	vàlvula	n-f
+RL	cat	vàlvula	n-f$n	srd	vàlvula	n-f
 	cat	vèrtebra	n-f$n	srd	vèrtebra	n-f
 RL	cat	vòmit	n-m$n	srd	vòmitu	n-m
 	cat	watt	n-m$n	srd	watt	n-m
@@ -24375,7 +24375,7 @@ LR	cat	hereu	n$n-m	srd	erede	n$n-mf
 	cat	defecte	n-m$n	srd	difetu	n-m
 	cat	calcari	adj	srd	calcàreu	adj
 	cat	troballa	n-f$n	srd	determinatzione	n-f
-	cat	fauna	n$n-f	srd	fàuna	n-f
+	cat	fauna	n-f$n	srd	fàuna	n-f
 	cat	ballet	n-m$n	srd	ballu	n-m
 	cat	excés	n-m$n	srd	etzessu	n-m
 	cat	cantata	n-f$n	srd	cantada	n-f
@@ -24383,7 +24383,7 @@ LR	cat	hereu	n$n-m	srd	erede	n$n-mf
 	cat	exhibir	vblex	srd	esibire	vblex
 	cat	fluid	n-m$n	srd	flùidu	n-m
 	cat	base	n-f$n	srd	base	n-f
-	cat	croada	n$n-f	srd	crosada	n-f
+	cat	croada	n-f$n	srd	crosada	n-f
 	cat	canonge	n-m$n	srd	canònicu	n-m
 	cat	cromosoma	n-m$n	srd	cromosoma	n-m
 	cat	cadàver	n-m$n	srd	carasu	n-m
@@ -24432,7 +24432,7 @@ RL	cat	comprimir	vblex	srd	supressare	vblex
 	cat	canceller	n$n-m	srd	cantzellieri	n
 	cat	califat	n-m$n	srd	califadu	n-m
 	cat	controlat	adj	srd	controladu	adj
-	cat	procedència	n$n-f	srd	bènnida	n-f
+	cat	procedència	n-f$n	srd	bènnida	n-f
 	cat	ètica	n-f$n	srd	ètica	n-f
 	cat	hel·lenístic	adj	srd	ellenìsticu	adj
 	cat	comtal	adj$adj-mf	srd	comitale	adj
@@ -24503,7 +24503,7 @@ RL	cat	deixant	n-m$n	srd	tzipu	n-m
 	cat	Horus	np$np-ant-m-sg	srd	Horus	np-ant-m-sg
 	cat	Balears	np$np-loc$np-loc-f	srd	Baleares	np-top-f-pl
 	cat	amfiteatre	n-m$n	srd	anfiteatru	n-m
-	cat	mestratge	n-m$n	srd	maestria	n-f
+	cat	mestratge	n-m	srd	maestria	n-f
 	cat	el Marroc	np$np-loc	srd	su Maroccu	np-top-m-sg
 	cat	cistella	n-f$n	srd	isportinu	n-m
 	cat	broma	n-f$n	srd	brulla	n-f
@@ -24640,7 +24640,7 @@ LR	cat	algoritme	n-m$n	srd	algoritmu	n-m
 	cat	en línia	adj$adj-mf$adj-mf-sp	srd	in lìnia	adj
 	cat	encarregat	n$n-m	srd	incarrigadu	n
 	cat	governador	adj	srd	guvernadore	adj
-	cat	lògica	n$n-f	srd	lògica	n-f
+	cat	lògica	n-f$n	srd	lògica	n-f
 	cat	intel·lectual	n$n-mf	srd	intelletuale	n-mf
 	cat	aixecament	n-m$n	srd	intzurpada	n-f
 	cat	ostentar	vblex	srd	impompare	vblex
@@ -24712,7 +24712,7 @@ LR	cat	website	n$n-m	srd	situ	n-m
 	cat	periòdic	n-m$n	srd	periòdicu	n-m
 	cat	objectiu	adj	srd	obietivu	adj
 	cat	civil	n$n-mf	srd	tzivile	n-mf
-	cat	regència	n$n-f	srd	reghèntzia	n-f
+	cat	regència	n-f$n	srd	reghèntzia	n-f
 	cat	cabell	n$n-m$n-m-pl	srd	pilos	n-m
 	cat	motivar	vblex	srd	motivare	vblex
 	cat	soviètic	n	srd	sovièticu	n
@@ -24738,7 +24738,7 @@ LR	cat	invent	n-m$n	srd	imbentu	n-m
 	cat	solista	n-mf$n	srd	solista	n-mf$n
 	cat	pro	n-m$n	srd	prode	n-m
 	cat	cessió	n-f$n	srd	tzessione	n-f
-	cat	oxidació	n$n-f	srd	ossidatzione	n-f
+	cat	oxidació	n-f$n	srd	ossidatzione	n-f
 	cat	occidental	n$n-mf	srd	otzidentale	n-mf
 	cat	tributari	adj	srd	tributàriu	adj
 	cat	ornamental	adj$adj-mf$	srd	ornamentale	adj
@@ -24789,7 +24789,7 @@ LR	cat	renunciació	n$n-f	srd	rinùntzia	n-f
 	cat	kilòmetre	n-m$n	srd	chilòmetru	n-m
 	cat	tracció	n-f$n	srd	tratzione	n-f
 	cat	botí	n-m$n	srd	botinu	n-m
-	cat	detecció	n$n-f	srd	rilevamentu	n-m
+	cat	detecció	n-f$n	srd	rilevamentu	n-m
 	cat	rosa	adj$adj-mf$adj-mf-sp	srd	rosa	adj-mf
 	cat	plaga	n-f$n	srd	praga	n-f
 	cat	lent	n-f$n	srd	lente	n-f
@@ -24804,7 +24804,7 @@ LR	cat	renunciació	n$n-f	srd	rinùntzia	n-f
 	cat	organitzador	n$n-GD	srd	organizadore	n
 	cat	erudit	n$n-f	srd	sàbiu	n
 	cat	redirecció	n-f$n	srd	ridiretzione	n-f
-	cat	sintaxi	n-f$n$n-f-ND	srd	sintassi	n-f
+	cat	sintaxi	n-f$n-f-ND$n	srd	sintassi	n-f
 	cat	sarsuela	n-f$n$n-f-sg	srd	zarzuela	n-f
 	cat	vegetal	n-m$n	srd	vegetale	n-m
 	cat	reelegir	vblex	srd	torrare	vblex
@@ -24824,7 +24824,7 @@ LR	cat	recalar	vblex	srd	resèssere	vblex
 	cat	ofensiu	adj$	srd	ofensivu	adj
 	cat	regna	n-f$n	srd	brìllia	n-f
 	cat	suburbi	n-m$n	srd	trighìngiu	n-m
-	cat	predicció	n$n-f	srd	preditzione	n-f
+	cat	predicció	n-f$n	srd	preditzione	n-f
 	cat	radioactiu	adj$	srd	radioativu	adj
 	cat	restant	n-mf$n	srd	restante	n-mf
 	cat	especular	vblex	srd	ispeculare	vblex
@@ -24884,7 +24884,7 @@ RL	cat	abundant	adj$adj-mf$	srd	abbundante	adj-mf
 	cat	equidistant	adj$adj-mf	srd	ecuidistante	adj$adj-mf
 	cat	vectorial	adj$adj-mf	srd	vetoriale	adj
 	cat	recórrer	vblex	srd	recùrrere	vblex
-	cat	runa	n-f$n$n-f-sg	srd	carràrgiu	n-m
+	cat	runa	n-f$n-f-sg	srd	carràrgiu	n-m
 	cat	eixamplar	vblex	srd	crèschere	vblex
 	cat	falguera	n-f	srd	fìlighe	n-m
 	cat	exempció	n-f$n	srd	dispensa	n-f
@@ -24913,8 +24913,8 @@ RL	cat	amanida	n-f$n	srd	iscialada	n-f
 	cat	purificar	vblex	srd	purificare	vblex
 RL	cat	purificar	vblex	srd	limpiare	vblex
 	cat	indefinit	adj$	srd	indefinidu	adj
-	cat	golfa	n-f$n	srd	desvanu	n-m
-RL	cat	golfa	n-f$n	srd	sostre	n-m
+	cat	golfa	n-f	srd	desvanu	n-m
+RL	cat	golfa	n-f	srd	sostre	n-m
 	cat	fallir	vblex	srd	faddire	vblex
 	cat	excepcionalment	adv	srd	in manera etzetzionale	adv
 	cat	estatge	n-m	srd	domo	n-f
@@ -25074,7 +25074,7 @@ RL	cat	subsidi	n-m$n	srd	agiudu	n-m
 	cat	ensems	adv	srd	paris	adv
 RL	cat	ensems	adv	srd	impare	adv
 	cat	cantant	adj	srd	cantadore	adj
-	cat	aldarull	n-m$n$n-m-sg	srd	abbolotu	n-m
+	cat	aldarull	n-m$n-m-sg$n	srd	abbolotu	n-m
 	cat	tallada	n-f$n	srd	segadura	n-f
 RL	cat	tallada	n-f$n	srd	truncadura	n-f
 	cat	Osasuna	np-al$np-al-m-sg	srd	Osasuna	np-al-m$np-al-m-sg
@@ -25168,16 +25168,16 @@ RL	cat	fer	vblex$	srd	afiantzare	vblex
 RL	cat	fer	vblex$	srd	agiudare	vblex
 	cat	enfosquir	vblex	srd	innieddigare	vblex
 	cat	collaret	n-m$n	srd	collana	n-f
-	cat	saturació	n$n-f	srd	prenadura	n-f
+	cat	saturació	n-f$n	srd	prenadura	n-f
 	cat	rondar	vblex	srd	rundare	vblex
 	cat	orfebreria	n-f$n	srd	orefitzeria	n-f
 	cat	Montsià	np$np-loc$np-loc-f	srd	Montsià	np-top-m-sg
-	cat	legalitat	n$n-f	srd	legalidade	n-f
+	cat	legalitat	n-f$n	srd	legalidade	n-f
 	cat	infidel	adj$adj-mf$	srd	infidele	adj
 	cat	estèril	adj$adj-mf$	srd	istèrile	adj
 	cat	Ankara	np$np-loc$np-loc-f	srd	Ankara	np-top-f$np-top-f-sg
 	cat	vinagre	n-m$n	srd	aghedu	n-m
-	cat	represa	n-f$n	srd	ripresa	n-f
+	cat	represa	n-f	srd	ripresa	n-f
 	cat	Mont-ros	np$np-loc	srd	Mont-ros	np-top-m-sg
 	cat	Martinica	np$np-loc$np-loc-f	srd	Martinica	np-top-f-sg
 	cat	llotja	n-f$n	srd	palcu	n-m
@@ -25220,7 +25220,7 @@ RL	cat	entretenir	vblex	srd	bistentare	vblex
 	cat	renovable	adj$adj-mf$	srd	rinnovàbile	adj
 	cat	Jerónimo	np$np-ant-m-sg	srd	Gerònimo	np-ant-m-sg
 	cat	amidar	vblex	srd	medire	vblex
-	cat	afiliació	n$n-f	srd	assòtziu	n-m
+	cat	afiliació	n-f$n	srd	assòtziu	n-m
 	cat	URL	n$n-acr-f$n-acr$n-acr-f-sg	srd	URL	n-acr-f$n-acr-f-sg
 	cat	Peralada	np$np-loc$np-loc-f	srd	Peralada	np-top-f-sg
 	cat	adorn	n-m$n	srd	ornamentu	n-m
@@ -25323,7 +25323,7 @@ LR	cat	pres	n$n-f	srd	presoneri	n
 	cat	efectiu	n-m$n-m-sg$n	srd	efetivu	n-m
 	cat	llop	n$n-m	srd	lupu	n-m
 	cat	fresc	n-m$n	srd	friscu	n-m
-	cat	coma	n-f$n	srd	vìrgula	n-f
+	cat	coma	n-f	srd	vìrgula	n-f
 	cat	noces	n-f$n-f-pl$n	srd	coja	n-f
 	cat	mutu	adj$adj-GD$	srd	pari-pari	adj
 	cat	oh	ij	srd	oh	ij
@@ -25372,7 +25372,7 @@ RL	cat	col·lisió	n-f$n	srd	collisione	n-f
 RL	cat	comissió	n-f$n	srd	commissione	n-f
 	cat	compassió	n-f$n	srd	compassione	n-f
 	cat	concussió	n-f$n	srd	concussione	n-f
-	cat	contorsió	n$n-f	srd	contorsione	n-f
+	cat	contorsió	n-f$n	srd	contorsione	n-f
 	cat	convulsió	n-f$n	srd	convulsione	n-f
 RL	cat	comissió	n-f$n	srd	cummissione	n-f
 	cat	compassió	n-f$n	srd	cumpassione	n-f
@@ -25399,7 +25399,7 @@ RL	cat	rebel·lió	n-f$n	srd	rebellione	n-f
 	cat	desil·lusió	n-f$n	srd	disillusione	n-f
 	cat	desintegració	n-f$n	srd	disintegratzione	n-f
 	cat	desunió	n-f$n	srd	disunione	n-f
-	cat	desànim	n$n-m	srd	disànimu	n-m
+	cat	desànim	n-m$n	srd	disànimu	n-m
 	cat	monoteista	adj$adj-mf	srd	monoteista	adj$adj-mf
 	cat	monolingüe	adj$adj-mf	srd	monolìngue	adj-mf
 	cat	bilingüe	adj-mf$adj$	srd	bilìngue	adj$adj-mf
@@ -25417,7 +25417,7 @@ RL	cat	rebel·lió	n-f$n	srd	rebellione	n-f
 	cat	anualitat	n-f$n	srd	annualidade	n-f
 	cat	anul·labilitat	n-f$n	srd	annullabilidade	n-f
 	cat	ansietat	n$n-f	srd	ansiedade	n-f
-	cat	antítesi	n-f$n-f-ND$n	srd	antìtesi	n-f
+	cat	antítesi	n-f$n-f-ND	srd	antìtesi	n-f
 	cat	arbitrarietat	n-f$n	srd	arbitrariedade	n-f
 	cat	ascetisme	n-m$n$n-m-sg	srd	ascetismu	n-m-sg
 	cat	ateisme	n-m$n$n-m-sg	srd	ateismu	n-m$n-m-sg
@@ -25434,17 +25434,17 @@ RL	cat	austeritat	n-f$n	srd	austeridade	n-f
 	cat	castrisme	n$n-m$n-m-sg	srd	castrismu	n-m$n-m-sg
 	cat	catabolisme	n-m$n$n-m-sg	srd	catabolismu	n-m-sg
 	cat	catequisme	n$n-m-sg	srd	catechismu	n-m$n-m-sg
-RL	cat	catàstrofe	n$n-f	srd	catàstrofe	n-f
+RL	cat	catàstrofe	n-f$n	srd	catàstrofe	n-f
 	cat	causalitat	n-f$n	srd	causalidade	n-f
 RL	cat	conformisme	n-m$n$n-m-sg	srd	conformismu	n-m$n-m-sg
 	cat	consonantisme	n$n-m$n-m-sg	srd	consonantismu	n-m-sg
 	cat	consumisme	n-m$n$n-m-sg	srd	consumismu	n-m$n-m-sg
 	cat	cosmopolitisme	n-m$n$n-m-sg	srd	cosmopolitismu	n-m$n-m-sg
-	cat	credibilitat	n$n-f	srd	credibilidade	n-f
+	cat	credibilitat	n-f$n	srd	credibilidade	n-f
 	cat	criminalitat	n-f$n	srd	criminalidade	n-f
 	cat	cromatisme	n-m$n$n-m-sg	srd	cromatismu	n-m$n-m-sg
 	cat	cubisme	n-m$n$n-m-sg	srd	cubismu	n-m$n-m-sg
-	cat	culpabilitat	n$n-f	srd	culpabilidade	n-f
+	cat	culpabilitat	n-f$n	srd	culpabilidade	n-f
 	cat	competitivitat	n-f$n$n-f-ND	srd	cumpetitividade	n-f
 	cat	conformitat	n-f$n$n-f-ND	srd	cunformidade	n-f
 	cat	quotidianitat	n$n-f	srd	cuotidianidade	n-f
@@ -25461,7 +25461,7 @@ RL	cat	conformisme	n-m$n$n-m-sg	srd	conformismu	n-m$n-m-sg
 	cat	eventualitat	n-f$n	srd	eventualidade	n-f
 	cat	familiaritat	n-f$n	srd	familiaridade	n-f
 	cat	fanatisme	n-m$n$n-m-sg	srd	fanatismu	n-m$n-m-sg
-	cat	fatalitat	n$n-f	srd	fatalidade	n-f
+	cat	fatalitat	n-f$n	srd	fatalidade	n-f
 	cat	fatalisme	n-m$n$n-m-sg	srd	fatalismu	n-m$n-m-sg
 	cat	fecunditat	n-f$n	srd	fecundidade	n-f
 	cat	federalisme	n-m$n$n-m-sg	srd	federalismu	n-m$n-m-sg
@@ -25483,7 +25483,7 @@ RL	cat	foto	n-f$n$n-f-sg	srd	foto	n-f
 	cat	individualitat	n-f$n	srd	individualidade	n-f
 	cat	individualisme	n$n-m$n-m-sg	srd	individualismu	n-m$n-m-sg
 	cat	inelegibilitat	n-f$n	srd	inelegibilidade	n-f
-	cat	infal·libilitat	n$n-f	srd	infallibilidade	n-f
+	cat	infal·libilitat	n-f$n	srd	infallibilidade	n-f
 	cat	inferioritat	n-f$n	srd	inferioridade	n-f
 	cat	infidelitat	n-f$n	srd	infidelidade	n-f
 RL	cat	integrisme	n-m$n$n-m-sg	srd	integrismu	n-m$n-m-sg
@@ -25495,7 +25495,7 @@ RL	cat	integrisme	n-m$n$n-m-sg	srd	integrismu	n-m$n-m-sg
 	cat	espiritisme	n-m$n$n-m-sg	srd	ispiritismu	n-m-sg
 	cat	estalinisme	n-m$n-m-sg$n	srd	istalinismu	n-m$n-m-sg
 	cat	esterilitat	n-f$n	srd	isterilidade	n-f
-	cat	legitimitat	n$n-f	srd	legitimidade	n-f
+	cat	legitimitat	n-f$n	srd	legitimidade	n-f
 	cat	leninisme	n-m$n$n-m-sg	srd	leninismu	n-m$n-m-sg
 	cat	levitat	n$n-f	srd	levidade	n-f
 	cat	lirisme	n-m$n$n-m-sg	srd	lirismu	n-m$n-m-sg
@@ -25527,13 +25527,13 @@ RL	cat	meitat	n$n-f$n-f-ND	srd	meidade	n-f
 	cat	multilingüisme	n-m$n$n-m-sg	srd	multilinguismu	n-m$n-m-sg
 	cat	multipartidisme	n$n-m$n-m-sg	srd	multipartidismu	n-m-sg
 	cat	natalitat	n-f$n	srd	natalidade	n-f
-	cat	naturalitat	n$n-f	srd	naturalidade	n-f
+	cat	naturalitat	n-f$n	srd	naturalidade	n-f
 	cat	naturalisme	n-m$n$n-m-sg	srd	naturalismu	n-m$n-m-sg
 	cat	nebulositat	n$n-f	srd	nebulosidade	n-f
 	cat	neorealisme	n-m$n$n-m-sg	srd	neorealismu	n-m$n-m-sg
 	cat	nomadisme	n-m$n$n-m-sg	srd	nomadismu	n-m$n-m-sg
 	cat	nominalisme	n$n-m$n-m-sg	srd	nominalismu	n-m$n-m-sg
-RL	cat	novetat	n$n-f	srd	novedade	n-f
+RL	cat	novetat	n-f$n	srd	novedade	n-f
 	cat	nul·litat	n-f$n	srd	nullidade	n-f
 	cat	obesitat	n-f$n$n-f-ND	srd	obesidade	n-f
 	cat	obligatorietat	n-f$n	srd	obligatoriedade	n-f
@@ -25565,8 +25565,8 @@ RL	cat	pop	n-m$n-m-sg$n	srd	pop	n-m$n-m-sg
 	cat	revisionisme	n-m$n$n-m-sg	srd	revisionismu	n-m$n-m-sg
 	cat	sedentarisme	n-m$n$n-m-sg	srd	sedentarismu	n-m-sg
 	cat	sensualitat	n-f$n	srd	sensualidade	n-f
-	cat	serenitat	n$n-f	srd	serenidade	n-f
-	cat	serietat	n$n-f	srd	seriedade	n-f
+	cat	serenitat	n-f$n	srd	serenidade	n-f
+	cat	serietat	n-f$n	srd	seriedade	n-f
 	cat	severitat	n-f$n	srd	severidade	n-f
 	cat	sincronisme	n-m$n$n-m-sg	srd	sincronismu	n-m$n-m-sg
 	cat	suavitat	n-f$n	srd	suavidade	n-f
@@ -25577,7 +25577,7 @@ RL	cat	totalitat	n-f$n	srd	totalidade	n-f
 RL	cat	tranquil·litat	n-f$n	srd	tranchillidade	n-f
 RL	cat	tranquil·litat	n-f$n	srd	trancuillidade	n-f
 	cat	trinitat	n-f$n	srd	trinidade	n-f
-	cat	unanimitat	n$n-f	srd	unanimidade	n-f
+	cat	unanimitat	n-f$n	srd	unanimidade	n-f
 	cat	uniformitat	n-f$n	srd	uniformidade	n-f
 	cat	universalitat	n-f$n	srd	universalidade	n-f
 	cat	vanitat	n$n-f$n-f-sg	srd	vanidade	n-f
@@ -25586,7 +25586,7 @@ RL	cat	veritat	n-f$n$n-f-ND	srd	veridade	n-f
 	cat	versatilitat	n-f$n	srd	versatilidade	n-f
 	cat	viabilitat	n-f$n	srd	viabilidade	n-f
 	cat	virginitat	n-f$n$n-f-ND	srd	virginidade	n-f
-	cat	virtualitat	n$n-f	srd	virtualidade	n-f
+	cat	virtualitat	n-f$n	srd	virtualidade	n-f
 	cat	centralisme	n-m$n$n-m-sg	srd	tzentralismu	n-m$n-m-sg
 	cat	centralitat	n-f$n	srd	tzentralidade	n-f
 	cat	centrisme	n$n-m$n-m-sg	srd	tzentrismu	n-m$n-m-sg
@@ -25603,9 +25603,9 @@ LR	cat	contrarietat	n$n-f	srd	contrariedade	n-f
 	cat	heroisme	n-m$n$n-m-sg	srd	eroismu	n-m$n-m-sg
 	cat	higiene	n-f$n	srd	igiene	n-f
 	cat	hiperactivitat	n-f$n$n-f-sg	srd	iperatividade	n-f
-	cat	hipersensibilitat	n$n-f	srd	ipersensibilidade	n-f
+	cat	hipersensibilitat	n-f$n	srd	ipersensibilidade	n-f
 	cat	hospitalitat	n-f$n	srd	ospitalidade	n-f
-	cat	humilitat	n$n-f$n-f-ND	srd	umilidade	n-f
+	cat	humilitat	n-f$n$n-f-ND	srd	umilidade	n-f
 	cat	immobilitat	n-f$n	srd	immobilidade	n-f
 	cat	immoralitat	n-f$n	srd	immoralidade	n-f
 	cat	immortalitat	n-f$n	srd	immortalidade	n-f
@@ -25663,7 +25663,7 @@ RL	cat	orador	n$n-m	srd	oradore	n
 	cat	telegrama	n-m$n	srd	telegramma	n-m
 	cat	tracoma	n-m$n	srd	tracoma	n-m
 RL	cat	lema	n-m$n	srd	lema	n-m
-RL	cat	papa	n$n-m	srd	papa	n-m
+RL	cat	papa	n-m$n	srd	papa	n-m
 	cat	proletari	n$$n-GD	srd	proletàriu	n
 	cat	universitari	n$n-m	srd	universitàriu	n
 	cat	veterinari	n$n-GD$	srd	veterinàriu	n
@@ -25686,7 +25686,7 @@ RL	cat	fan	n$n-mf	srd	fan	n$n-mf
 	cat	bàrbar	n$n-m	srd	bàrbaru	n
 	cat	bidó	n-m$n	srd	bidone	n-m
 	cat	canaló	n-m$n	srd	canalone	n-m
-	cat	carretó	n-m$n	srd	carretone	n-m
+	cat	carretó	n-m	srd	carretone	n-m
 	cat	cartó	n-m$n	srd	cartone	n-m
 	cat	cassó	n-m$n	srd	cassone	n-m
 	cat	cupó	n-m$n	srd	cupone	n-m
@@ -26098,7 +26098,7 @@ RL	cat	dissipar	vblex	srd	isperditziare	vblex
 	cat	orar	vblex	srd	pregare	vblex
 RL	cat	orar	vblex	srd	resare	vblex
 	cat	NBC	n-acr-f$n$n-acr-f-sg	srd	NBC	n-acr-f-sg
-	cat	contracta	n$n-f	srd	cuntratu	n-m
+	cat	contracta	n-f$n	srd	cuntratu	n-m
 	cat	conjurar	vblex	srd	congiurare	vblex
 RL	cat	conjurar	vblex	srd	trassare	vblex
 	cat	Ciudad Real	np$np-loc-f$np-loc	srd	Ciudad Real	np-top-f-sg
@@ -26197,14 +26197,14 @@ RL	cat	perera	n-f	srd	fundu	n-m
 	cat	paracaigudista	n-mf$n	srd	paracadutista	n$n-mf
 	cat	oficialitzar	vblex	srd	ufitzializare	vblex
 	cat	miraculós	adj$$adj-sup	srd	miraculosu	adj
-	cat	intuïció	n$n-f	srd	intuitzione	n-f
-RL	cat	intuïció	n$n-f	srd	tinu	n-m
+	cat	intuïció	n-f$n	srd	intuitzione	n-f
+RL	cat	intuïció	n-f$n	srd	tinu	n-m
 	cat	feblesa	n-f$n	srd	debilesa	n-f
 	cat	detractor	n$n-GD	srd	isfamadore	n
 	cat	càtar	adj	srd	tzinesu	adj
 	cat	calefacció	n-f$n	srd	riscaldamentu	n-m
-	cat	tassa	n$n-f	srd	tassa	n-f
-	cat	tassa	n$n-f	srd	tassu	n-m
+	cat	tassa	n-f$n	srd	tassa	n-f
+	cat	tassa	n-f$n	srd	tassu	n-m
 	cat	La Rioja	np$np-loc$np-loc-f	srd	Sa Rioja	np-top-f-sg
 	cat	humiliar	vblex	srd	umiliare	vblex
 	cat	fregir	vblex	srd	frìere	vblex
@@ -26358,7 +26358,7 @@ RL	cat	entorn	adv	srd	a fùrriu	adv
 RL	cat	infructuós	adj$$adj-sup	srd	de badas	adj
 	cat	indignar	vblex	srd	indignare	vblex
 	cat	esperó	n-m$n	srd	isprone	n-m
-	cat	complicitat	n$n-f	srd	complitzidade	n-f
+	cat	complicitat	n-f$n	srd	complitzidade	n-f
 	cat	atri	n-m$n	srd	corte	n-f
 	cat	artificialment	adv	srd	in manera artìfitziale	adv
 RL	cat	artificialment	adv	srd	artifitzialmente	adv
@@ -26388,7 +26388,7 @@ RL	cat	desallotjar	vblex	srd	bogare	vblex
 RL	cat	colze	n-m$n	srd	cùidu	n-m
 	cat	Cincinnati	np$np-loc	srd	Cincinnati	np-top-m-sg
 	cat	Arkansas	np$np-loc$np-loc-f	srd	Arkansas	np-top-m-sg
-	cat	timbal	n$n-m	srd	tìmpanu	n-m
+	cat	timbal	n-m$n	srd	tìmpanu	n-m
 	cat	prodigi	n$n-m	srd	prodìgiu	n-m
 	cat	posar	vblex	srd	averguare	vblex
 	cat	porus	n-m-sp$n-m	srd	poru	n-m
@@ -26432,7 +26432,7 @@ RL	cat	deficient	adj$adj-mf$	srd	castigadu	adj
 	cat	pòstumament	adv	srd	a pustis	adv
 	cat	escarabat	n$n-m	srd	carrabusu	n-m
 RL	cat	escarabat	n$n-m	srd	sisaja	n-f
-	cat	cessament	n$n-m	srd	agabbu	n-m
+	cat	cessament	n-m$n	srd	agabbu	n-m
 	cat	abstenir	vblex$vblex-pron	srd	astènnere	vblex
 RL	cat	abstenir	vblex$vblex-pron	srd	cascarare	vblex
 	cat	Superman	np$np-ant-m-sg$np-ant	srd	Superman	np-ant-m-sg
@@ -26599,7 +26599,7 @@ RL	cat	irreductible	adj$$adj-mf	srd	tirriosu	adj
 	cat	afilar	vblex	srd	afilare	vblex
 RL	cat	afilar	vblex	srd	apuntare	vblex
 	cat	recte	n-m$n	srd	deretu	n-m
-	cat	ratificació	n$n-f	srd	ratìfica	n-f
+	cat	ratificació	n-f$n	srd	ratìfica	n-f
 	cat	projectiu	adj	srd	progetuale	adj
 	cat	positivament	adv	srd	in manera positiva	adv
 	cat	matollar	n-m$n	srd	bruscàllia	n-f
@@ -26719,7 +26719,7 @@ RL	cat	desgraciat	adj$$adj-sup	srd	disamparadu	adj
 	cat	assumpció	n-f$n	srd	assuntzione	n-f
 	cat	Tetis	np-ant-f-sg$np	srd	Teti	np-ant-f-sg
 	cat	sumptuós	adj$	srd	pomposu	adj
-	cat	perfeccionament	n$n-m	srd	perfetzionamentu	n-m
+	cat	perfeccionament	n-m$n	srd	perfetzionamentu	n-m
 	cat	obelisc	n-m$n	srd	colunna	n-f
 	cat	Magdeburg	np$np-loc	srd	Magdeburgu	np-top-m-sg
 	cat	IU	np-al	srd	IU	np-al-f$np-al-f-sg
@@ -26740,7 +26740,7 @@ RL	cat	desgastar	vblex	srd	isperditziare	vblex
 	cat	plegament	n-m$n	srd	pinnigadura	n-f
 	cat	operari	n$n-m	srd	operadore	n
 	cat	comprovació	n-f$n	srd	proa	n-f
-	cat	capsa	n$n-f	srd	casseta	n-f
+	cat	capsa	n-f$n	srd	casseta	n-f
 	cat	cabuda	n-f$n	srd	càbida	n-f
 RL	cat	cabuda	n-f$n	srd	càbuda	n-f
 RL	cat	cabuda	n-f$n	srd	cabèntzia	n-f
@@ -26847,7 +26847,7 @@ RL	cat	empassar	vblex$vblex-pron	srd	ingurtire	vblex
 	cat	Riquer	np$np-cog-mf-sp	srd	Riquer	np-cog-mf-sp
 	cat	ratxa	n-f$n	srd	bentulada	n-f
 	cat	primacia	n-f$n	srd	primadu	n-m
-	cat	humiliació	n$n-f	srd	umiliatzione	n-f
+	cat	humiliació	n-f$n	srd	umiliatzione	n-f
 	cat	fitar	vblex	srd	mirare	vblex
 RL	cat	fitar	vblex	srd	abbaidare	vblex
 RL	cat	fitar	vblex	srd	annotare	vblex
@@ -26905,7 +26905,7 @@ RL	cat	cirerer	n-m$n	srd	mata	n-f
 	cat	cèrcol	n-m$n	srd	canisteddu	n-m
 RL	cat	cèrcol	n-m$n	srd	tzotzoroju	n-m
 	cat	calibrar	vblex	srd	calibrare	vblex
-	cat	bastida	n-f$n	srd	pontègiu	n-m
+	cat	bastida	n-f	srd	pontègiu	n-m
 	cat	Arquimedes	np-ant-m-sg$np	srd	Archimede	np-ant-m$np-ant-m-sg
 	cat	ajustament	n-m$n	srd	acontzu	n-m
 	cat	UM	n-acr-f$n$n-acr-f-sg	srd	UM	n-acr-f-sg
@@ -26917,8 +26917,8 @@ RL	cat	cèrcol	n-m$n	srd	tzotzoroju	n-m
 	cat	gripau	n-m$n	srd	ruspu	n-m
 	cat	especificitat	n-f$n	srd	ispetzifitzidade	n-f
 	cat	racionalització	n-f$n	srd	ratzionalizatzione	n-f
-	cat	centralització	n$n-f	srd	tzentralizatzione	n-f
-	cat	descentralització	n$n-f	srd	detzentralizatzione	n-f
+	cat	centralització	n-f$n	srd	tzentralizatzione	n-f
+	cat	descentralització	n-f$n	srd	detzentralizatzione	n-f
 	cat	descentrament	n-m	srd	detzentramentu	n-m
 	cat	concentració	n-f$n	srd	cuntzentramentu	n-m
 	cat	dedicatòria	n-f$n	srd	dèdica	n-f
@@ -26957,7 +26957,7 @@ RL	cat	tolerant	adj$$adj-mf	srd	tollerante	adj
 RL	cat	malson	n-m$n	srd	mascatzu	n-m
 	cat	inflamable	adj$adj-mf$	srd	allughitivu	adj
 	cat	fulletó	n$n-m	srd	fogigheddu	n-m
-	cat	falsedat	n$n-f	srd	farsidade	n-f
+	cat	falsedat	n-f$n	srd	farsidade	n-f
 	cat	emplenar	vblex	srd	compilare	vblex
 RL	cat	emplenar	vblex	srd	prenare	vblex
 	cat	deprimir	vblex	srd	iscorare	vblex
@@ -26971,7 +26971,7 @@ LR	cat	ataronjat	adj$	srd	arantzu	adj
 RL	cat	predilecció	n-f$n	srd	preferu	n-m
 	cat	Miramar	np$np-loc$np-loc-f	srd	Miramar	np-top-m-sg
 	cat	festeig	n-m$n	srd	cortegiamentu	n-m
-	cat	expropiació	n$n-f	srd	ispoderamentu	n-m
+	cat	expropiació	n-f$n	srd	ispoderamentu	n-m
 	cat	embellir	vblex	srd	abbellire	vblex
 RL	cat	embellir	vblex	srd	imbellire	vblex
 	cat	Cecil	np$np-ant-m-sg	srd	Cecil	np-ant-m-sg
@@ -27068,7 +27068,7 @@ RL	cat	vigilant	n-mf$n$	srd	guardianu	n$n-m
 	cat	muntura	n-f$n	srd	montadura	n-f
 	cat	minuciós	adj$$adj-sup	srd	pretzisu	adj
 	cat	Lluçà	np$np-loc$np-loc-f	srd	Lluçà	np-top-f-sg
-	cat	incisió	n$n-f	srd	intzisione	n-f
+	cat	incisió	n-f$n	srd	intzisione	n-f
 	cat	Houston	np-cog-mf-sp	srd	Houston	np-cog-mf-sp
 	cat	fidelment	adv	srd	fidelmente	adv
 	cat	Espot	np$np-loc$np-loc-f	srd	Espot	np-top-m-sg
@@ -27103,7 +27103,7 @@ RL	cat	redefinir	vblex	srd	ridefinire	vblex
 	cat	Tonga	np$np-loc$np-loc-f	srd	Tonga	np-top-m-sg
 	cat	ridiculitzar	vblex	srd	tzonfrare	vblex
 	cat	naufragar	vblex	srd	naufragare	vblex
-	cat	mossegada	n-f$n	srd	mòssigu	n-m
+	cat	mossegada	n-f	srd	mòssigu	n-m
 	cat	matemàticament	adv	srd	matematicamente	adv
 	cat	Marguerite	np-ant-f-sg	srd	Marguerite	np-ant-f-sg
 	cat	malauradament	adv	srd	a dolu mannu	adv
@@ -27118,10 +27118,10 @@ RL	cat	anhelar	vblex	srd	disigiare	vblex
 	cat	admirable	adj$adj-mf$	srd	de ammirare	adj-mf
 LR	cat	vivenda	n-f$n	srd	domo	n-f
 	cat	reglamentar	vblex	srd	regulamentare	vblex
-	cat	reglamentació	n$n-f	srd	regulamentatzione	n-f
+	cat	reglamentació	n-f$n	srd	regulamentatzione	n-f
 	cat	extrajudicial	adj$adj-mf	srd	extra-giuditziale	adj
 	cat	extraparlamentari	adj	srd	extra-parlamentare	adj
-	cat	programari	n$n-m$n-m-sg	srd	software	n-m$n-m-sp
+	cat	programari	n-m$n$n-m-sg	srd	software	n-m$n-m-sp
 LR	cat	software	n-m	srd	software	n-m$n-m-sp
 	cat	maquinari	n-m$n	srd	hardware	n-m$n-m-sp
 LR	cat	hardware	n-m	srd	hardware	n-m$n-m-sp
@@ -27221,7 +27221,7 @@ RL	cat	albanès	n$n-m	srd	albanese	n$n-mf
 	cat	prisma	n-m$n	srd	prisma	n-m
 	cat	al·luvió	n-m$n	srd	alluvione	n-f
 	cat	lobby	n$n-m$n-m-sp	srd	lobby	n-m$n-m-sp
-	cat	manga	n-m$n	srd	manga	n-m
+	cat	manga	n-m	srd	manga	n-m
 	cat	mega	n$n-m$n-m-sg	srd	mega	n-mf
 	cat	giga	n$n-m	srd	giga	n-mf
 	cat	Beda	np-ant-m-sg	srd	Beda	np-ant-m$np-ant-m-sg
@@ -27249,7 +27249,7 @@ LR	cat	polinèsic	adj	srd	polinesianu	adj
 	cat	dravídic	adj	srd	dravìdicu	adj
 	cat	úgric	adj	srd	ùgricu	adj
 	cat	balcànic	adj$	srd	balcànicu	adj
-	cat	brúixola	n$n-f	srd	bùssola	n-f
+	cat	brúixola	n-f$n	srd	bùssola	n-f
 	cat	Esparta	np-loc	srd	Isparta	np-top-f-sg
 	cat	Corint	np$np-loc	srd	Corintu	np-top-m-sg
 	cat	Peloponès	np-loc	srd	Peloponnesu	np-top-m$np-top-m-sg
@@ -27285,7 +27285,7 @@ LR	cat	primogènit	n-m$n	srd	mannìmene	n-m
 	cat	pastanaga	n-f$n	srd	pistinaga	n-f
 	cat	carlota	n-f$n	srd	pistinaga	n-f
 LR	cat	safanòria	n-f$n	srd	pistinaga	n-f
-	cat	enciam	n-m$n	srd	latuga	n-f
+	cat	enciam	n-m	srd	latuga	n-f
 	cat	mandarina	n-f$n	srd	mandarinu	n-m$n
 	cat	mandariner	n-m$n	srd	àrbore	n-mf
 RL	cat	mandariner	n-m$n	srd	fundu	n-m
@@ -27421,7 +27421,7 @@ LR	cat	concisió	n-f$n	srd	contzisione	n-f
 	cat	recensió	n-f$n	srd	retzensione	n-f
 	cat	sacerdotal	adj-mf$$adj	srd	satzerdotale	adj$adj-mf
 	cat	silenciador	n-m$n	srd	silentziadore	n-m
-	cat	sinceritat	n$n-f	srd	sintzeridade	n-f
+	cat	sinceritat	n-f$n	srd	sintzeridade	n-f
 	cat	sistematicitat	n$n-f	srd	sistematitzidade	n-f
 	cat	tecnicisme	n$n-m$n-m-sg	srd	tecnitzismu	n-m$n-m-sg
 	cat	unicitat	n-f$n	srd	unitzidade	n-f
@@ -27793,7 +27793,7 @@ RL	cat	vehicular	vblex	srd	giùghere	vblex
 	cat	deducció	n-f$n	srd	dedutzione	n-f
 	cat	Catalunya Ràdio	np-al$np-al-f-sg	srd	Catalunya Ràdio	np-al-f-sg
 RL	cat	cartílag	n-m$n	srd	tùrgalu	n-m
-	cat	cancel·lació	n$n-f	srd	cantzelladura	n-f
+	cat	cancel·lació	n-f$n	srd	cantzelladura	n-f
 	cat	Ulldecona	np$np-loc$np-loc-f	srd	Ulldecona	np-top-f-sg
 	cat	sublevació	n-f$n	srd	abbolotu	n-m
 	cat	redempció	n-f$n	srd	redentzione	n-f
@@ -27895,7 +27895,7 @@ RL	cat	nounat	n$n-m	srd	pipiu	n$n-m
 	cat	Françoise	np-ant-f-sg	srd	Françoise	np-ant-f-sg
 	cat	edema	n-m$n	srd	unfrore	n-m
 	cat	degeneració	n-f$n	srd	desviamentu	n-m
-	cat	cella	n$n-f$n-f-sg	srd	chìgiu	n-m
+	cat	cella	n-f$n$n-f-sg	srd	chìgiu	n-m
 	cat	astut	adj$	srd	furbu	adj
 RL	cat	astut	adj$	srd	fraitzu	adj
 	cat	alfabèticament	adv	srd	alfabeticamente	adv
@@ -27993,7 +27993,7 @@ RL	cat	irrupció	n-f$n	srd	botu	n-m
 	cat	desbandar	vblex	srd	isbandare	vblex
 RL	cat	desbandar	vblex	srd	iscaminare	vblex
 	cat	avantatjar	vblex	srd	avantagiare	vblex
-	cat	vaixella	n$n-f	srd	istèrgiu	n-m
+	cat	vaixella	n-f$n	srd	istèrgiu	n-m
 	cat	testar	vblex	srd	averguare	vblex
 	cat	Senyera	np$np-loc$np-loc-f	srd	Senyera	np-top-f-sg
 	cat	Pidal	np$np-cog-mf-sp	srd	Pidal	np-cog-mf-sp
@@ -28091,7 +28091,7 @@ RL	cat	hall	n-m$n	srd	hall	n-m
 	cat	apreciació	n-f$n	srd	agradu	n-m
 	cat	anguila	n-f$n	srd	ambidda	n-f
 	cat	Presley	np$np-ant-m-sg	srd	Presley	np-ant-m-sg
-	cat	prescripció	n$n-f	srd	prescritzione	n-f
+	cat	prescripció	n-f$n	srd	prescritzione	n-f
 	cat	pentinat	n-m$$n	srd	acontzadura	n-f
 	cat	masmorra	n-f$n	srd	presone	n-f
 	cat	gràficament	adv	srd	graficamente	adv
@@ -28162,7 +28162,7 @@ RL	cat	aixovar	n-m$n	srd	frunimentu	n-m
 	cat	afectació	n-f$n	srd	cuidadu	n-m
 	cat	Universitat Politècnica de Catalunya	np$np-loc	srd	Universitade Politècnica de Catalugna	np-top-f-sg
 	cat	Roderic	np$np-ant-m-sg	srd	Roderic	np-ant-m-sg
-	cat	asma	n-f$n$n-f-sg	srd	asma	n-mf$n-mf-sg
+	cat	asma	n-f$n-f-sg$n	srd	asma	n-mf$n-mf-sg
 LR	cat	concubina	n-f$n	srd	amante	n-mf
 	cat	estret	adj$$adj-sup	srd	istrintu	adj
 	cat	juvenil	adj$adj-mf$	srd	giovanile	adj
@@ -28690,10 +28690,10 @@ RL	cat	rostir	vblex	srd	arrustire	vblex
 	cat	emboscar	vblex	srd	cuare	vblex
 	cat	publicitar	vblex	srd	fàghere	vblex
 	cat	escenificar	vblex	srd	pònnere	vblex
-	cat	abandó	n$n-m	srd	abandonu	n-m
+	cat	abandó	n-m$n	srd	abandonu	n-m
 	cat	abast	n-m$n	srd	portada	n-f
 	cat	accionista	n-mf$n	srd	atzionista	n$n-mf
-	cat	acetat	n$n-m	srd	aghedadu	n-m
+	cat	acetat	n-m$n	srd	aghedadu	n-m
 	cat	acidesa	n-f$n$n-f-sg	srd	atzidesa	n-f
 	cat	adaptador	n-m$n	srd	adatadore	n-m
 	cat	addició	n-f$n	srd	aditzione	n-f
@@ -28746,7 +28746,7 @@ RL	cat	rostir	vblex	srd	arrustire	vblex
 	cat	anus	n-m-sp$n-m	srd	istampu	n-m
 	cat	aparença	n$n-f	srd	aparèntzia	n-f
 	cat	apogeu	n-m$n	srd	apogeu	n-m
-	cat	apropament	n$n-m	srd	acostada	n-f
+	cat	apropament	n-m$n	srd	acostada	n-f
 	cat	apropiació	n-f$n	srd	apropriamentu	n-m
 	cat	aqüífer	n-m$n	srd	acuìferu	n-m
 	cat	arbitratge	n-m$n	srd	arbitràgiu	n-m
@@ -28764,11 +28764,11 @@ RL	cat	rostir	vblex	srd	arrustire	vblex
 	cat	autoretrat	n-m$n	srd	autoritratu	n-m
 	cat	auto	n-m$n	srd	autovetura	n-f
 	cat	auxiliar	n-mf$n	srd	ausiliare	n-mf
-	cat	avançada	n-f$n	srd	avantzada	n-f
+	cat	avançada	n-f	srd	avantzada	n-f
 	cat	avet	n$n-m	srd	abete	n-m
 	cat	aviador	n$n-m	srd	aviadore	n
 	cat	balada	n-f$n	srd	ballada	n-f
-	cat	balança	n$n-f$n-f-pl	srd	bilantza	n-f
+	cat	balança	n-f$n$n-f-pl	srd	bilantza	n-f
 	cat	balear	n$n-mf	srd	baleare	n-mf
 	cat	ballesta	n-f$n	srd	balestra	n-f
 	cat	batxillerat	n-m$n	srd	batzilleradu	n-m
@@ -28784,11 +28784,11 @@ RL	cat	rostir	vblex	srd	arrustire	vblex
 	cat	borat	n-m$n	srd	boradu	n-m
 	cat	borsa	n-f$n	srd	borsa	n-f
 	cat	bosó	n-m$n	srd	bosone	n-m
-	cat	brutalitat	n$n-f	srd	brutalidade	n-f
+	cat	brutalitat	n-f$n	srd	brutalidade	n-f
 	cat	bucle	n-m$n	srd	bùcculu	n-m
 	cat	buròcrata	n-mf$n	srd	buròcrata	n-mf
 	cat	butlletí	n-m$n	srd	bullettinu	n-m
-	cat	cabellera	n$n-f	srd	cabilliera	n-f
+	cat	cabellera	n-f$n	srd	cabilliera	n-f
 	cat	cacic	n-m$n	srd	cabu	n-m
 	cat	calat	n-m	srd	piscàgiu	n-m
 	cat	calçada	n-f$n	srd	carreggiada	n-f
@@ -28876,10 +28876,10 @@ RL	cat	escorça	n-f$n	srd	iscortza	n-f
 	cat	dimorfisme	n-m$n	srd	dismorfismu	n-m
 	cat	díode	n-m$n	srd	diodu	n-m
 	cat	diplomàtic	n$n-m	srd	diplomàticu	n
-	cat	directriu	n$n-f	srd	diretritze	n-f
+	cat	directriu	n-f$n	srd	diretritze	n-f
 	cat	discografia	n-f$n	srd	discografia	n-f
-	cat	discrepància	n$n-f	srd	iscuncordàntzia	n-f
-	cat	disfressa	n-f$n	srd	disfrassu	n-m
+	cat	discrepància	n-f$n	srd	iscuncordàntzia	n-f
+	cat	disfressa	n-f	srd	disfrassu	n-m
 	cat	distintiu	n-m$n	srd	distintivu	n-m
 	cat	distorsió	n-f$n	srd	conchinada	n-f
 	cat	doblatge	n-m$n	srd	dopiàgiu	n-m
@@ -28921,7 +28921,7 @@ RL	cat	emmagatzematge	n-m$n	srd	immagasinada	n-f
 	cat	estesa	n-f$n	srd	istesu	n-m
 	cat	estimat	n$n-GD	srd	amadu	n
 	cat	etnicitat	n-f$n	srd	etnitzidade	n-f
-	cat	exclusiva	n$n-f	srd	esclusiva	n-f
+	cat	exclusiva	n-f$n	srd	esclusiva	n-f
 	cat	exclusivitat	n-f$n	srd	esclusividade	n-f
 	cat	excomunió	n-f$n	srd	iscomùniga	n-f
 	cat	excursió	n-f$n	srd	tucada	n-f
@@ -28933,8 +28933,8 @@ RL	cat	emmagatzematge	n-m$n	srd	immagasinada	n-f
 	cat	falla	n-f$n	srd	fadda	n-f
 	cat	falsificació	n-f$n	srd	frassificatzione	n-f
 	cat	farmacèutic	n$n-m	srd	farmatzèuticu	n
-	cat	farsa	n$n-f	srd	frassa	n-f
-	cat	faula	n$n-f	srd	fàula	n-f
+	cat	farsa	n-f$n	srd	frassa	n-f
+	cat	faula	n-f$n	srd	fàula	n-f
 	cat	fava	n-f$n	srd	fava	n-f
 	cat	feixista	n-mf$n$	srd	fetitzista	n$n-mf
 	cat	fem	n-m$n$n-m-pl	srd	ledàmene	n-m
@@ -28960,15 +28960,15 @@ RL	cat	emmagatzematge	n-m$n	srd	immagasinada	n-f
 	cat	garatge	n-m$n$n-m-sg	srd	garàgiu	n-m
 	cat	garlanda	n-f$n	srd	garlanda	n-f
 	cat	generalització	n-f$n	srd	generalizatzione	n-f
-	cat	generositat	n$n-f	srd	generosidade	n-f
+	cat	generositat	n-f$n	srd	generosidade	n-f
 	cat	genocidi	n$n-m	srd	genotzìdiu	n-m
 	cat	gentilici	n-m$n	srd	gentilìtziu	n-m
 	cat	gimnasta	n-mf$n	srd	ginnasta	n-mf
-	cat	globalització	n$n-f	srd	globalizatzione	n-f
+	cat	globalització	n-f$n	srd	globalizatzione	n-f
 	cat	governant	n$n-mf	srd	guvernadore	n
 	cat	gradient	n-m$n	srd	gradiente	n-m
 	cat	graduat	n$n-m	srd	tituladu	n
-	cat	granota	n$n-f	srd	arana	n-f
+	cat	granota	n-f$n	srd	arana	n-f
 	cat	graó	n-m$n	srd	iscalina	n-f
 	cat	gueto	n-m$n	srd	ghetu	n-m
 	cat	habitacle	n-m$n	srd	domaredda	n-f
@@ -28992,7 +28992,7 @@ RL	cat	emmagatzematge	n-m$n	srd	immagasinada	n-f
 	cat	identificador	n-m$n	srd	identificadore	n-m
 	cat	imaginari	n$n-m	srd	immaginàriu	n-m
 	cat	imant	n-m$n	srd	calamida	n-f
-	cat	immunitat	n$n-f$n-f-ND	srd	immunidade	n-f
+	cat	immunitat	n-f$n$n-f-ND	srd	immunidade	n-f
 	cat	impedància	n-f$n	srd	impendèntzia	n-f
 	cat	incompliment	n-m$n	srd	inadempimentu	n-m
 	cat	incubació	n-f$n	srd	incubatzione	n-f
@@ -29002,7 +29002,7 @@ RL	cat	emmagatzematge	n-m$n	srd	immagasinada	n-f
 	cat	inhibició	n-f$n	srd	proibidura	n-f
 	cat	inhibidor	n-m$n$	srd	proibidore	n-m
 	cat	inquietud	n$n-f$n-f-pl	srd	inchietùdine	n-m
-	cat	inseguretat	n$n-f	srd	inseguresa	n-f
+	cat	inseguretat	n-f$n	srd	inseguresa	n-f
 	cat	inserció	n-f$n	srd	insertzione	n-f
 	cat	inspecció	n-f$n	srd	cumpuda	n-f
 	cat	instrumentista	n-mf$n	srd	istrumentista	n$n-mf
@@ -29013,7 +29013,7 @@ RL	cat	emmagatzematge	n-m$n	srd	immagasinada	n-f
 	cat	intermedi	n-m$n	srd	intermèdiu	n-m
 	cat	intriga	n-f$n	srd	intrigu	n-m
 	cat	ionització	n-f$n	srd	ionizatzione	n-f
-	cat	irritació	n$n-f	srd	alliada	n-f
+	cat	irritació	n-f$n	srd	alliada	n-f
 	cat	isòmer	n$n-m	srd	isòmeru	n-m
 	cat	istme	n-m$n	srd	istmu	n-m
 	cat	ivori	n-m$n	srd	màrfilu	n-m
@@ -29021,7 +29021,7 @@ LR	cat	vori	n-m$n	srd	màrfilu	n-m
 	cat	jardineria	n-f$n	srd	giardinàgiu	n-m
 	cat	jota	n-f$n	srd	jota	n-f
 	cat	jugabilitat	n-f$n	srd	giogabilidade	n-f
-	cat	jungla	n$n-f	srd	giungla	n-f
+	cat	jungla	n-f$n	srd	giungla	n-f
 	cat	lepidòpter	n-m$n	srd	lepidòptera	n-f
 	cat	liberalització	n-f$n	srd	liberalizatzione	n-f
 	cat	limfòcit	n-m$n	srd	linfotzitu	n-m
@@ -29036,7 +29036,7 @@ LR	cat	vori	n-m$n	srd	màrfilu	n-m
 	cat	manglar	n-m$n	srd	mangrovia	n-f
 	cat	manifestant	n-mf$n	srd	manifestante	n-mf
 	cat	marsupial	n-m$n	srd	marsupiale	n-m
-	cat	mecanització	n$n-f	srd	mecanizatzione	n-f
+	cat	mecanització	n-f$n	srd	mecanizatzione	n-f
 	cat	mecenatge	n$n-m$n-m-sg	srd	metzenatismu	n-m$n-m-sg
 	cat	medallista	n-mf$n	srd	medalliadu	n
 	cat	medalló	n-m$n	srd	medallione	n-m
@@ -29087,8 +29087,8 @@ LR	cat	vori	n-m$n	srd	màrfilu	n-m
 	cat	oval	n-m$n	srd	ovale	n-m
 	cat	oxidant	n-m$n	srd	ossidante	n-m
 	cat	paella	n-f$n$n-f-sg	srd	paella	n-f
-	cat	pagoda	n$n-f	srd	pagoda	n-f
-	cat	palmell	n-m$n	srd	palma	n-f
+	cat	pagoda	n-f$n	srd	pagoda	n-f
+	cat	palmell	n-m	srd	palma	n-f
 	cat	pamflet	n-m$n	srd	libreddu	n-m
 	cat	panoràmica	n-f$n	srd	panoràmica	n-f
 	cat	papir	n-m$n	srd	papiru	n-m
@@ -29104,7 +29104,7 @@ LR	cat	vori	n-m$n	srd	màrfilu	n-m
 	cat	pèptid	n-m$n	srd	pèptide	n-m
 	cat	perifèria	n$n-f	srd	forabidda	n-f
 	cat	periodicitat	n-f$n	srd	perioditzidade	n-f
-	cat	permutació	n$n-f	srd	permutatzione	n-f
+	cat	permutació	n-f$n	srd	permutatzione	n-f
 	cat	peròxid	n-m$n	srd	peròssidu	n-m
 LR	cat	ananàs	n-m-sp$n-m	srd	ananassu	n-m
 	cat	pinya	n-f$n	srd	ananassu	n-m
@@ -29134,7 +29134,7 @@ LR	cat	ananàs	n-m-sp$n-m	srd	ananassu	n-m
 	cat	problemàtica	n-f$n$n-f-sg	srd	problemàtica	n-f
 	cat	professionalisme	n-m$n	srd	profesionalidade	n-f
 	cat	progenitor	n$n-m	srd	ingendradore	n
-	cat	proliferació	n$n-f	srd	angiamentu	n-m
+	cat	proliferació	n-f$n	srd	angiamentu	n-m
 	cat	propulsió	n-f$n	srd	propulsione	n-f
 	cat	protestantisme	n-m$n	srd	protestantèsimu	n-m
 	cat	pulsació	n-f$n	srd	pulsatzione	n-f
@@ -29162,7 +29162,7 @@ LR	cat	ananàs	n-m-sp$n-m	srd	ananassu	n-m
 	cat	refredament	n-m$n	srd	rifriu	n-m
 	cat	regeneració	n-f$n	srd	rigeneratzione	n-f
 	cat	reg	n-m$n	srd	abbadura	n-f
-	cat	relaxació	n-f$n	srd	rilassamentu	n-m
+	cat	relaxació	n-f	srd	rilassamentu	n-m
 	cat	rendibilitat	n-f$n	srd	rèndida	n-f
 	cat	replicació	n-f$n	srd	rèplica	n-f
 	cat	rèplica	n-f$n	srd	rèplica	n-f
@@ -29252,15 +29252,15 @@ LR	cat	ananàs	n-m-sp$n-m	srd	ananassu	n-m
 	cat	velòdrom	n-m$n	srd	velodromu	n-m
 	cat	ventricle	n-m$n	srd	ventrìcolu	n-m
 	cat	vicepresidència	n-f$n	srd	vitzepresidèntzia	n-f
-	cat	vicissitud	n$n-f	srd	acontèssida	n-f
+	cat	vicissitud	n-f$n	srd	acontèssida	n-f
 	cat	vinil	n-m$n	srd	vinile	n-m
 	cat	vintena	n$n-f	srd	bintina	n-f
 	cat	violoncel·lista	n$n-mf	srd	violontzellista	n$n-mf
 	cat	virtuosisme	n-m$n$n-m-sg	srd	virtuosismu	n-m$n-m-sg
-	cat	viscositat	n$n-f$n-f-ND	srd	viscosidade	n-f
+	cat	viscositat	n-f$n$n-f-ND	srd	viscosidade	n-f
 	cat	visor	n-m$n	srd	visore	n-m
-	cat	visualització	n$n-f	srd	visualizatzione	n-f
-	cat	vivència	n$n-f	srd	vivèntzia	n-f
+	cat	visualització	n-f$n	srd	visualizatzione	n-f
+	cat	vivència	n-f$n	srd	vivèntzia	n-f
 	cat	vocalització	n-f$n	srd	vocalizatzione	n-f
 	cat	volant	n-m$n	srd	volante	n-m
 	cat	volt	n-m$n	srd	tziru	n-m
@@ -29322,7 +29322,7 @@ RL	cat	solut	n-m$n	srd	iscagiadu	n-m
 	cat	trigonometria	n-f$n	srd	trigonometria	n-f
 	cat	trigrama	n$n-m	srd	trigramma	n-m
 LR	cat	potencialitat	n-f$n	srd	potentzialidade	n-f
-LR	cat	solvència	n$n-f	srd	solvèntzia	n-f
+LR	cat	solvència	n-f$n	srd	solvèntzia	n-f
 RL	cat	automatitzar	vblex	srd	automatizare	vblex
 RL	cat	comercialitzar	vblex	srd	cummertzializare	vblex
 RL	cat	cranial	adj-mf$adj$	srd	craniale	adj-mf
@@ -29803,7 +29803,7 @@ RL	cat	soldat	n$n-GD	srd	soldadu	n$n-m
 	cat	indemnitzar	vblex	srd	indennizare	vblex
 	cat	manòmetre	n-m$n	srd	manòmetru	n-m
 	cat	nitre	n-m$n	srd	nitru	n-m
-	cat	omnipotència	n-f$n	srd	onnipotèntzia	n-f
+	cat	omnipotència	n-f	srd	onnipotèntzia	n-f
 	cat	termòmetre	n-m$n	srd	termòmetru	n-m
 	cat	cronòmetre	n-m$n	srd	cronòmetru	n-m
 	cat	tètanus	n-m$n	srd	tètanu	n-m$n-m-sg
@@ -29884,7 +29884,7 @@ RL	cat	acurar	vblex	srd	impinnare	vblex
 	cat	idiolecte	n-m$n	srd	idioletu	n-m
 	cat	idoneïtat	n-f$n	srd	idoneidade	n-f
 	cat	inequívoc	adj	srd	inecuìvocu	adj
-	cat	ingenuïtat	n$n-f	srd	ingenuidade	n-f
+	cat	ingenuïtat	n-f$n	srd	ingenuidade	n-f
 	cat	intel·lecte	n-m$n	srd	intelletu	n-m
 	cat	interdicte	n-m$n	srd	interdetu	n$n-m
 	cat	intuïtiu	adj$	srd	intuitivu	adj
@@ -29911,17 +29911,17 @@ LR	cat	centrafricà	n$n-m	srd	centrafricanu	n
 LR	cat	poliedre	n-m$n	srd	poliedru	n-m
 RL	cat	conformista	n-mf$n$	srd	conformista	n
 RL	cat	politècnic	n-m	srd	politècnicu	n-m
-	cat	paraigua	n-m$n$n-m-ND	srd	paracu	n-m
+	cat	paraigua	n-m$n-m-ND$n	srd	paracu	n-m
 	cat	biotecnologia	n-f$n	srd	biotecnologia	n-f
 	cat	biotecnològic	adj	srd	biotecnològicu	adj
 	cat	polièdric	adj	srd	polièdricu	adj
 	cat	taxonòmic	adj	srd	tassonòmicu	adj
 	cat	variat	adj$	srd	variadu	adj
 	cat	fagòcit	n-m$n	srd	fagotzita	n-m
-	cat	fagocitosi	n-f$n$n-f-ND	srd	fagotzitosi	n-f
+	cat	fagocitosi	n-f$n-f-ND	srd	fagotzitosi	n-f
 	cat	fagocitar	vblex	srd	fagotzitare	vblex
 	cat	dendrític	adj	srd	dendrìticu	adj
-	cat	dendrita	n-f$n	srd	dendrite	n-m
+	cat	dendrita	n-f	srd	dendrite	n-m
 	cat	sepulcral	adj$adj-mf	srd	sepurcrale	adj-mf
 	cat	panteó	n-m$n	srd	pànteon	n-m
 	cat	legitimador	adj	srd	legitimadore	adj
@@ -34587,7 +34587,7 @@ LR	cat	anàlogament	adv	srd	in manera sìmile	adv
 	cat	gall dindi	n-m$n	srd	dindu	n-m
 LR	cat	indiot	n-m	srd	dindu	n-m
 	cat	escorta	n-mf$n	srd	iscorta	n-f
-	cat	gènesi	n-mf$n$n-mf-ND	srd	gènesi	n-f
+	cat	gènesi	n-mf$n-mf-ND	srd	gènesi	n-f
 	cat	cadiratge	n-m	srd	istàulu	n-m
 RL	cat	cadiratge	n-m	srd	cadreone	n-m
 LR	cat	més o menys	adv	srd	belle	adv
@@ -36506,8 +36506,8 @@ RL	cat	rocós	adj	srd	rocosu	adj
 	cat	cacauet	n-m$n	srd	nutzola americana	n-f
 	cat	pistatxo	n-m$n	srd	chessa	n-f
 LR	cat	festuc	n-m$n	srd	chessa	n-f
-	cat	llentia	n$n-f	srd	lentìgia	n-f
-RL	cat	llentia	n$n-f	srd	gentilla	n-f
+	cat	llentia	n-f$n	srd	lentìgia	n-f
+RL	cat	llentia	n-f$n	srd	gentilla	n-f
 	cat	agroturisme	n$n-m$n-m-sg	srd	agriturismu	n-m
 	cat	,	cm	srd	,	cm
 LR	cat	¿	lquest	srd		num$

@@ -162,7 +162,7 @@
 	fin	ehto	n	isl	skilyrði	n-nt
 	fin	eilinen	n	isl	gærdagur	n-m
 	fin	elokuva	n	isl	bíómynd	n-f
-	fin	eläin	n$n-sg	isl	dýr	n-nt$n
+	fin	eläin	n$n-ND	isl	dýr	n-nt$n
 	fin	elämä	n	isl	líf	n-nt
 	fin	enemmistö	n	isl	meirihluti	n-m
 	fin	energia	n	isl	orka	n-f
@@ -198,7 +198,7 @@
 	fin	idea	n	isl	hugmynd	n-f
 	fin	ihminen	n$n-pl	isl	manneskja	n-f$n
 	fin	ihminen	n$n-pl	isl	manneskja	n-f$n
-	fin	ikkuna	n$n-sg	isl	gluggi	n-m$n
+	fin	ikkuna	n$n-ND	isl	gluggi	n-m$n
 	fin	ikä	n	isl	aldur	n-m
 	fin	iltapäivä	n	isl	síðdegi	n-nt
 	fin	inflaatio	n	isl	verðbólga	n-f
@@ -468,9 +468,9 @@
 	fin	puu	n$n-ND	isl	tré	n-nt
 	fin	puutarha	n$n-ND	isl	garður	n-m
 	fin	päivämäärä	n	isl	dagsetning	n-f
-	fin	pää	n$n-sg-nom$n-sg	isl	höfuð	n-nt$n-n
+	fin	pää	n$n-sg-nom	isl	höfuð	n-nt$n-n
 	fin	päätös	n	isl	ákvörðun	n-f
-	fin	pöytä	n$n-sg	isl	borð	n-m
+	fin	pöytä	n$n-ND	isl	borð	n-m
 	fin	radiointi	n	isl	útvarp	n-nt
 	fin	rahasto	n	isl	sjóður	n-m
 	fin	rakenne	n	isl	formgerð	n-f
@@ -535,7 +535,7 @@
 	fin	taistelu	n	isl	bardagi	n-m
 	fin	taistelu	n	isl	orrusta	n-f
 	fin	takaisinmaksu	n	isl	endurgreiðsla	n-f
-	fin	talo	n$n-sg	isl	hús	n-nt
+	fin	talo	n$n-ND	isl	hús	n-nt
 	fin	talvi	n$n-ND	isl	vetur	n-m
 	fin	tapahtuma	n	isl	atburður	n-m
 	fin	tapahtuma	n	isl	viðburður	n-m
@@ -631,8 +631,8 @@
 	fin	vastaava	n	isl	lögregla	n-f
 	fin	vastaava	n	isl	lögreglumaður	n-m
 	fin	vastaava	n	isl	lögregluþjónn	n-m
-	fin	vastaus	n$n-sg	isl	svar	n-nt
-	fin	vastaus	n$n-sg	isl	viðbragð	n-nt
+	fin	vastaus	n	isl	svar	n-nt
+	fin	vastaus	n	isl	viðbragð	n-nt
 	fin	vastuu	n	isl	ábyrgð	n-f
 	fin	velka	n	isl	skuld	n-f
 	fin	velka	n	isl	sök	n-f
@@ -656,7 +656,7 @@
 	fin	voitto	n	isl	sigur	n-m
 	fin	volyymi	n	isl	árgangur	n-m
 	fin	volyymi	n	isl	bindi	n-nt
-	fin	vuosi	n$n-sg	isl	ár	n-nt
+	fin	vuosi	n$n-ND	isl	ár	n-nt
 	fin	väri	n	isl	litur	n-m
 	fin	yhdistelmä	n	isl	samsetning	n-f
 	fin	yksikkö	n	isl	eining	n-f
@@ -669,9 +669,9 @@
 	fin	yritys	n	isl	tilraun	n-f
 	fin	äiti	n	isl	móðir	n-f
 	fin	älykkö	n	isl	dýpi	n-nt
-	fin	ääni	n$n-sg	isl	atkvæði	n-nt
-	fin	ääni	n$n-sg	isl	rómur	n-m
-	fin	ääni	n$n-sg	isl	rödd	n-f
+	fin	ääni	n$n-ND	isl	atkvæði	n-nt
+	fin	ääni	n$n-ND	isl	rómur	n-m
+	fin	ääni	n$n-ND	isl	rödd	n-f
 	fin	ei	vaux$vblex-neg-vaux	isl	ekki	adv
 	fin	voida	vaux$vaux-neg	isl	geta	vbmod
 	fin	ajatella	vblex	isl	hugsa	vblex
@@ -954,7 +954,7 @@
 	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers	isl	hann	prn-p3-m$prn-p3-m-sg
 	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers	isl	hún	prn$prn-p3-f$prn-p3-f-sg
 	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers	isl	það	prn-p3-nt$prn$prn-p3-nt-sg
-	fin	me	prn$prn-pers-p1$prn-pers-p1-pl$prn-pers$prn-pers-p1-pl-gen	isl	við	prn-p1-mf
+	fin	me	prn$prn-pers-p1-pl$prn-pers-p1$prn-pers$prn-pers-p1-pl-gen	isl	við	prn-p1-mf
 	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen	isl	þeir	prn-p3-m
 	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen	isl	þær	prn-p3-f
 	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen	isl	það	prn-p3-nt$prn$prn-p3-nt-sg

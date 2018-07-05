@@ -387,7 +387,7 @@ LR	cat	due	num-f-sp	ita	due	num-mf-sp$$num
 	cat	avar	n$n-m	ita	avido	n$n-m
 	cat	benefactor	n$n-m	ita	benefattore	n$n-m
 	cat	benefactor	n-f	ita	benefattore	n-f
-	cat	cella	n$n-f$n-f-sg	ita	sopracciglio	n-m-sg$n-m$n
+	cat	cella	n-f$n$n-f-sg	ita	sopracciglio	n-m-sg$n-m$n
 	cat	àncora	n-f$n	ita	ancora	n-f$n
 	cat	cec	n$n-m	ita	cieco	n$n-m
 	cat	cec	n-f	ita	cieco	n-f
@@ -477,7 +477,7 @@ RL	cat	nacionalista	n-mf$n$	ita	nazionalista	n-f
 	cat	abadia	n-f$n	ita	abbazia	n-f$n
 	cat	abandonament	n-m$n	ita	abbandono	n-m$n
 	cat	il·luminat	$adj	ita	illuminato	adj$
-	cat	abandó	n$n-m	ita	abbandono	n-m$n
+	cat	abandó	n-m$n	ita	abbandono	n-m$n
 	cat	abast	n-m$n	ita	raggio	n-m$n
 	cat	abast	n-m$n	ita	portata	n-f
 	cat	abat	n-m$n	ita	abate	n-m
@@ -508,7 +508,7 @@ LR	cat	immobiliari	adj-m-sg	ita	immobiliare	adj$adj-mf-sg$adj-mf
 	cat	incident	adj	ita	incidente	adj$adj-mf
 	cat	abdominal	adj$adj-mf$	ita	addominale	adj$adj-mf
 	cat	abecedari	n-m$n	ita	abbecedario	n$n-m
-	cat	abella	n$n-f	ita	ape	n$n-f
+	cat	abella	n-f$n	ita	ape	n$n-f
 	cat	aberració	n-f$n	ita	aberrazione	n$n-f
 	cat	abisme	n-m$n	ita	baratro	n-m$n
 	cat	abisme	n-m$n	ita	abisso	n-m$n
@@ -536,7 +536,7 @@ LR	cat	aborigen	n-mf$n	ita	aborigeno	n-GD
 	cat	absorció	n-f$n	ita	assorbimento	n-m$n
 	cat	abstenció	n-f$n	ita	astensione	n$n-f
 	cat	abstinència	n-f$n	ita	astinenza	n$n-f
-	cat	abstracció	n-f$n	ita	astrazione	n$n-f
+	cat	abstracció	n-f	ita	astrazione	n$n-f
 	cat	abstracte	adj-m-sg	ita	astratto	adj$$adj-m-sg
 	cat	abstracte	adj-f-sg	ita	astratto	adj-f-sg
 RL	cat	abstracte	adj-mf-pl$adj$	ita	astratto	adj-m-pl
@@ -546,10 +546,10 @@ LR	cat	abstracte	adj-mf-pl$adj$	ita	astratto	adj-GD-pl
 	cat	abstracte	adj-mf-pl$adj$	ita	astratto	adj$$adj-m-sg
 	cat	abstracte	adj-sup	ita	astratto	adj$$adj-m-sg
 	cat	absurd	adj$	ita	assurdo	$adj$adj-sup
-	cat	absència	n$n-f	ita	assenza	n-f$n
+	cat	absència	n-f$n	ita	assenza	n-f$n
 	cat	abundant	adj$adj-mf$	ita	abbondante	$adj$adj-sup
-	cat	abundància	n$n-f	ita	pletora	n$n-f
-	cat	abundància	n$n-f	ita	abbondanza	n-f$n
+	cat	abundància	n-f$n	ita	pletora	n$n-f
+	cat	abundància	n-f$n	ita	abbondanza	n-f$n
 	cat	abús	n-m$n	ita	abuso	n-m$n
 	cat	acabament	n-m$n	ita	rifinitura	n-f
 	cat	acabat	n-m$n$	ita	rifinitura	n-f
@@ -559,7 +559,7 @@ LR	cat	abstracte	adj-mf-pl$adj$	ita	astratto	adj-GD-pl
 	cat	accelerador	adj	ita	acceleratore	adj
 	cat	accent	n-m$n	ita	accento	n-m$n
 	cat	acceptable	adj$adj-mf$	ita	accettabile	adj$$adj-mf
-	cat	acceptació	n$n-f	ita	accettazione	n-f$n
+	cat	acceptació	n-f$n	ita	accettazione	n-f$n
 	cat	accessori	adj	ita	accessorio	$adj
 	cat	accessori	n-m$n	ita	accessorio	n$n-m
 	cat	accident	n-m$n	ita	incidente	n$n-m
@@ -570,14 +570,14 @@ RL	cat	accionista	n-mf$n	ita	azionista	n-f
 	cat	acció	n-f$n	ita	azione	n-f$n
 	cat	accés	n-m$n	ita	accesso	n-m$n
 	cat	acer	n$n-m	ita	acciaio	n$n-m
-	cat	acetat	n$n-m	ita	acetato	n$n-m
+	cat	acetat	n-m$n	ita	acetato	n$n-m
 LR	cat	acidesa	n-f$n$n-f-sg	ita	acidità	n-f-sp
 LR	cat	acidesa	n-f-pl	ita	acidità	n-f-sp
 RL	cat	acidesa	n-f-ND	ita	acidità	n-f-sp
 	cat	aclamació	n-f$n	ita	acclamazione	n$n-f
 	cat	aclimatació	n-f$n	ita	acclimatazione	n$n-f
 	cat	acomiadament	n$n-m	ita	licenziamento	n-m$n
-	cat	acomodació	n$n-f	ita	accomodazione	n$n-f
+	cat	acomodació	n-f$n	ita	accomodazione	n$n-f
 	cat	acompte	n-m$n	ita	anticipo	n-m$n
 	cat	aconfessional	adj$	ita	aconfessionale	adj$$adj-mf
 	cat	aconsellable	adj$adj-mf	ita	consigliabile	adj$adj-mf
@@ -585,20 +585,20 @@ RL	cat	acidesa	n-f-ND	ita	acidità	n-f-sp
 	cat	acordió	n-m$n	ita	fisarmonica	n-f$n
 	cat	acostament	n-m$n	ita	avvicinamento	n$n-m
 	cat	acreditació	n-f$n	ita	accreditamento	n-m
-	cat	acrobàcia	n$n-f	ita	acrobazia	n$n-f
+	cat	acrobàcia	n-f$n	ita	acrobazia	n$n-f
 	cat	acrílic	adj$	ita	acrilico	adj
 LR	cat	acròbata	n-mf$n	ita	acrobata	n-GD
 RL	cat	acròbata	n-mf$n	ita	acrobata	n-m$n$n-mf-m
 RL	cat	acròbata	n-mf$n	ita	acrobata	n-f
 LR	cat	acta	n$n-f	ita	atto	n-m$$n
 	cat	acte	n-m$n$n-m-sg	ita	atto	n-m$$n
-	cat	actitud	n$n-f	ita	atteggiamento	n-m
-	cat	actitud	n$n-f	ita	attitudine	n-f$n
+	cat	actitud	n-f$n	ita	atteggiamento	n-m
+	cat	actitud	n-f$n	ita	attitudine	n-f$n
 	cat	actiu	adj$	ita	attivo	$adj$adj-sup
 	cat	activisme	n-m$n$n-m-sg	ita	attivismo	n$n-m
 	cat	activista	n-mf$n	ita	attivista	n$n-m
 	cat	activista	n-mf$n	ita	combattente	n-m
-RL	cat	activitat	n$n-f$n-f-ND	ita	attività	n-f$n-f-sp
+RL	cat	activitat	n-f$n$n-f-ND	ita	attività	n-f$n-f-sp
 LR	cat	activitat	n-f-sg	ita	attività	n-f$n-f-sp
 LR	cat	activitat	n-f-pl	ita	attività	n-f$n-f-sp
 	cat	actor	n-m$n	ita	attore	n-m$n$n-mf-m
@@ -608,15 +608,15 @@ LR	cat	activitat	n-f-pl	ita	attività	n-f$n-f-sp
 RL	cat	actualitat	n-f$n$n-f-ND	ita	attualità	n-f-sp$n-f
 LR	cat	actualitat	n-f-sg	ita	attualità	n-f-sp$n-f
 LR	cat	actualitat	n-f-pl	ita	attualità	n-f-sp$n-f
-	cat	actualització	n$n-f	ita	aggiornamento	n-m
+	cat	actualització	n-f$n	ita	aggiornamento	n-m
 	cat	acudit	n-m$n	ita	barzelletta	n-f
-	cat	acumulació	n$n-f	ita	accumulazione	n$n-f
-	cat	acumulació	n$n-f	ita	cumulo	n-m
+	cat	acumulació	n-f$n	ita	accumulazione	n$n-f
+	cat	acumulació	n-f$n	ita	cumulo	n-m
 	cat	acumulador	n-m$n	ita	accumulatore	n$n-m
 	cat	acupuntura	n-f$n	ita	agopuntura	n$n-f
 LR	cat	acurat	adj$	ita	attento	$adj$adj-f
 	cat	acústic	adj$	ita	acustico	adj$$adj-sup
-	cat	acústica	n$n-f	ita	acustica	n-f$n
+	cat	acústica	n-f$n	ita	acustica	n-f$n
 	cat	adaptable	adj$$adj-mf	ita	adattabile	adj$$adj-mf
 	cat	adaptació	n-f$n	ita	adattamento	n-m$n
 	cat	adaptació	n-f$n	ita	adeguamento	n-m
@@ -628,22 +628,22 @@ LR	cat	addicte	n-mf-pl$n	ita	dipendente	n-mf$
 	cat	additiu	n-m$n	ita	additivo	n$n-m
 	cat	adequat	adj$	ita	adeguato	$adj$adj-sup
 	cat	adhesiu	adj$	ita	adesivo	adj$
-	cat	adhesió	n$n-f	ita	adesione	n-f$n
+	cat	adhesió	n-f$n	ita	adesione	n-f$n
 LR	cat	adient	adj-mf$adj$	ita	adeguato	$adj$adj-sup
 	cat	adjacent	adj$$adj-mf	ita	adiacente	$adj$adj-mf
 	cat	adjectiu	n$n-m	ita	aggettivo	n$n-m
-	cat	adjudicació	n$n-f	ita	aggiudicazione	n$n-f
+	cat	adjudicació	n-f$n	ita	aggiudicazione	n$n-f
 	cat	administració	n-f$n	ita	amministrazione	n-f$n
 	cat	administrador	n$n-m	ita	amministratore	n$n-m
 	cat	administratiu	adj$	ita	amministrativo	adj$$adj-sup
 	cat	administratiu	n$n-m	ita	amministrativo	n$n-m
 	cat	admirable	adj$adj-mf$	ita	ammirevole	$adj$adj-mf
-	cat	admiració	n$n-f	ita	ammirazione	n-f$n
+	cat	admiració	n-f$n	ita	ammirazione	n-f$n
 	cat	adob	n-m$n	ita	addobbo	n$n-f
 	cat	adolescent	adj$adj-mf	ita	adolescente	adj$adj-mf
 	cat	adolescent	n-mf$n	ita	adolescente	n$n-mf$
 	cat	adolescència	n-f$n	ita	adolescenza	n-f$n
-	cat	adopció	n$n-f	ita	adozione	n-f$n
+	cat	adopció	n-f$n	ita	adozione	n-f$n
 	cat	adorable	adj$$adj-mf	ita	adorabile	adj$$adj-mf
 	cat	adoració	n-f$n	ita	adorazione	n-f$n
 	cat	adorn	n-m$n	ita	adorno	n$n-f
@@ -665,13 +665,13 @@ RL	cat	advocat	n-GD	ita	avvocato	n-m$n
 	cat	adéu	ij	ita	arrivederci	ij
 	cat	adúlter	adj$	ita	adultero	adj
 	cat	aerodinàmic	adj$	ita	aerodinamico	adj$adj-sup
-	cat	aerodinàmica	n$n-f$n-f-sg	ita	aerodinamica	n$n-f
+	cat	aerodinàmica	n-f$n$n-f-sg	ita	aerodinamica	n$n-f
 	cat	aeronau	n-f$n	ita	aeromobile	n-m$n
 RL	cat	aeronau	n-f$n	ita	velivolo	n-m$n
 	cat	aeronàutic	adj$	ita	aeronautico	adj$adj-sup
 	cat	aeroport	n-m$n	ita	aeroporto	n-m$n
 	cat	aeròdrom	n-m$n	ita	aerodromo	n$n-m
-	cat	afabilitat	n$n-f	ita	affabilità	n-sp
+	cat	afabilitat	n-f$n	ita	affabilità	n-sp
 	cat	afable	adj$adj-mf$	ita	affabile	adj$$adj-mf
 	cat	afeccionat	n$n-m	ita	amatore	n$$n-m
 	cat	afecció	n-f$n	ita	affezione	n-m$n
@@ -679,14 +679,14 @@ RL	cat	aeronau	n-f$n	ita	velivolo	n-m$n
 	cat	afecte	n-m$n	ita	affetto	n-m$$n
 	cat	afectiu	adj$	ita	affettivo	adj$$adj-sup
 	cat	afectuós	adj$$adj-sup	ita	affettuoso	adj$$adj-sup
-	cat	afiliació	n$n-f	ita	affiliazione	n$n-f
+	cat	afiliació	n-f$n	ita	affiliazione	n$n-f
 LR	cat	afinitat	n-f$n$n-f-sg	ita	affinità	n-f-sp$n-f
 LR	cat	afinitat	n-f-pl	ita	affinità	n-f-sp$n-f
 RL	cat	afinitat	n-f-ND	ita	affinità	n-f-sp$n-f
-	cat	afirmació	n$n-f	ita	affermazione	n-f
+	cat	afirmació	n-f$n	ita	affermazione	n-f
 	cat	afirmatiu	adj$	ita	affermativo	adj$$adj-sup
 	cat	afluent	n$n-m	ita	affluente	n$n-m
-	cat	afluència	n$n-f	ita	affluenza	n-f$n
+	cat	afluència	n-f$n	ita	affluenza	n-f$n
 	cat	aforisme	n$n-m	ita	aforisma	n$n-m
 	cat	afrodisíac	adj$	ita	afrodisiaco	adj$adj-sup
 	cat	afàsia	n$n-f	ita	afasia	n$n-f
@@ -712,8 +712,8 @@ RL	cat	agrícola	adj$adj-mf$	ita	agricolo	adj-f
 LR	cat	agrícola	adj$adj-mf$	ita	agricolo	adj-GD
 	cat	agulla	n-f$n$n-f-sg	ita	ago	n-m$n
 	cat	agulla	n-f$n$n-f-sg	ita	spilla	n-f
-	cat	agència	n$n-f	ita	agenzia	n-f$n
-	cat	aigua	n$n-f	ita	acqua	n-f$n
+	cat	agència	n-f$n	ita	agenzia	n-f$n
+	cat	aigua	n-f$n	ita	acqua	n-f$n
 	cat	aiguaneu	n$n-f	ita	acquaneve	n$n-f
 	cat	aire	n-m$n	ita	aria	n-f$n
 	cat	aixella	n-f$n	ita	ascella	n$n-f
@@ -737,7 +737,7 @@ RL	cat	albanès	adj-GD	ita	albanese	adj-mf$adj
 LR	cat	alcalde	n$n-m	ita	sindaco	n-m$n
 LR	cat	alcalde	n-f	ita	sindaco	n-m$n
 RL	cat	alcalde	n-GD	ita	sindaco	n-m$n
-RL	cat	alcalinitat	n$n-f$n-f-ND	ita	alcalinità	n-f-sp
+RL	cat	alcalinitat	n-f$n$n-f-ND	ita	alcalinità	n-f-sp
 LR	cat	alcalinitat	n-f-sg	ita	alcalinità	n-f-sp
 LR	cat	alcalinitat	n-f-pl	ita	alcalinità	n-f-sp
 	cat	alcalí	adj$	ita	alcalino	adj$adj-sup
@@ -819,9 +819,9 @@ RL	cat	amabilitat	n-f-ND	ita	amabilità	n-f-sp
 	cat	amant	n-mf$n$	ita	amante	n-f$n$
 	cat	amant	adj$adj-sup	ita	amante	adj$adj-mf
 LR	cat	amatent	adj-mf$adj$	ita	attento	$adj$adj-f
-	cat	ambaixada	n$n-f	ita	ambasciata	n$n-f
+	cat	ambaixada	n-f$n	ita	ambasciata	n$n-f
 	cat	ambaixador	n$n-m	ita	ambasciatore	n$n-m
-	cat	ambició	n$n-f	ita	ambizione	n-f$n
+	cat	ambició	n-f$n	ita	ambizione	n-f$n
 	cat	ambiciós	adj$$adj-sup	ita	ambizioso	adj$$adj-sup
 	cat	ambient	n-m$n$	ita	ambiente	n-m$n$n-m-sg
 	cat	ambient	adj	ita	ambiente	adj$adj-m
@@ -830,8 +830,8 @@ RL	cat	ambigüitat	n-f$n$n-f-ND	ita	ambiguità	n-f-sp$n-f
 LR	cat	ambigüitat	n-f-sg	ita	ambiguità	n-f-sp$n-f
 LR	cat	ambigüitat	n-f-pl	ita	ambiguità	n-f-sp$n-f
 RL	cat	ambigüitat	n-f$n$n-f-ND	ita	equivoco	n-m$$n
-	cat	ambulància	n$n-f	ita	ambulanza	n-f$n
-	cat	amenaça	n$n-f	ita	minaccia	n-f$n
+	cat	ambulància	n-f$n	ita	ambulanza	n-f$n
+	cat	amenaça	n-f$n	ita	minaccia	n-f$n
 	cat	americà	adj$	ita	americano	adj$$adj-sup
 	cat	americà	n$n-f	ita	americano	n$n-m
 LR	cat	ametla	n-f$n	ita	mandorla	n$n-f
@@ -847,8 +847,8 @@ RL	cat	amfitrió	n-GD	ita	anfitrione	n-m
 	cat	amiant	n$n-m	ita	amianto	n$n-m
 	cat	amic	adj	ita	amico	adj
 	cat	amic	n$n-m	ita	amico	n$n-m$
-	cat	amidament	n-m$n	ita	misurazione	n$n-f
-	cat	amistat	n$n-f	ita	amicizia	n-f$n
+	cat	amidament	n-m	ita	misurazione	n$n-f
+	cat	amistat	n-f$n	ita	amicizia	n-f$n
 	cat	amnèsia	n$n-f$n-f-sg	ita	amnesia	n-f$n
 	cat	amo	n-m$n	ita	proprietario	n-m$n$
 	cat	amor	n-m$n	ita	amore	n-m$n
@@ -860,7 +860,7 @@ RL	cat	amfitrió	n-GD	ita	anfitrione	n-m
 RL	cat	ampliació	n-f$n	ita	ampliamento	n-m
 	cat	amplificador	n-m$n	ita	amplificatore	n$n-m
 	cat	amplitud	n-f$n	ita	ampiezza	n-f$n
-	cat	ampolla	n$n-f	ita	bottiglia	n$n-f
+	cat	ampolla	n-f$n	ita	bottiglia	n$n-f
 	cat	amàs	n$n-m	ita	mucchio	n-m$n
 	cat	amén	n-m$n	ita	amen	n-m$n$n-m-sp
 	cat	anacronisme	n-m$n	ita	anacronismo	n-m$n
@@ -869,7 +869,7 @@ RL	cat	ampliació	n-f$n	ita	ampliamento	n-m
 RL	cat	analista	n-mf$n	ita	analista	n$n-m
 RL	cat	analista	n-mf$n	ita	analista	n-f
 LR	cat	analista	n-mf$n	ita	analista	n-GD
-	cat	analogia	n$n-f	ita	analogia	n-f$n
+	cat	analogia	n-f$n	ita	analogia	n-f$n
 	cat	analític	adj$	ita	analitico	adj$$adj-sup
 	cat	anarquisme	n-m$n	ita	anarchismo	n$n-m
 LR	cat	anarquista	adj$adj-mf	ita	anarchico	adj$adj-GD$
@@ -895,7 +895,7 @@ LR	cat	anglès	adj$$adj-m	ita	inglese	adj-mf$adj$
 LR	cat	anglès	adj-f	ita	inglese	adj-mf$adj$
 RL	cat	anglès	adj-GD	ita	inglese	adj-mf$adj$
 	cat	anhel	n-m$n	ita	desiderio	n-m$n
-	cat	animació	n$n-f	ita	animazione	n$n-f
+	cat	animació	n-f$n	ita	animazione	n$n-f
 	cat	animal	n-m$n$	ita	animale	n-m$n$
 	cat	aniversari	n-m$n$n-m-ND	ita	anniversario	n-m$n
 	cat	aniversari	n-m$n$n-m-ND	ita	compleanno	n$n-m$n-m-sp
@@ -931,7 +931,7 @@ RL	cat	antonomàsia	n-f$n-f-sg$n	ita	antonomasia	n-f-pl
 	cat	antídot	n-m$n	ita	antidoto	n-m$n
 	cat	antílop	n-m$n	ita	antilope	n-mf
 	cat	antípoda	n-mf$n	ita	antipode	n$n-m
-	cat	antítesi	n-f$n-f-ND$n	ita	antitesi	n-f-sp$n-f
+	cat	antítesi	n-f$n-f-ND	ita	antitesi	n-f-sp$n-f
 	cat	antítesi	n-f-pl	ita	antitesi	n-f-sp$n-f
 	cat	antítesi	n-f-sg	ita	antitesi	n-f-sp$n-f
 	cat	antònim	n-m$n	ita	antonimo	n$n-m
@@ -970,13 +970,13 @@ LR	cat	anònim	n-m$n	ita	anonimo	n-GD
 	cat	apetitós	adj$	ita	appetitoso	adj$
 	cat	api	n$n-m	ita	sedano	n-m$n
 	cat	aplicable	adj$adj-mf	ita	applicabile	adj$adj-mf
-	cat	aplicació	n$n-f	ita	applicazione	n-f$n
+	cat	aplicació	n-f$n	ita	applicazione	n-f$n
 	cat	apnea	n-f$n	ita	apnea	n$n-f
 	cat	apologia	n-f$n	ita	apologia	n-f$n
 	cat	aposta	n-f$n$n-pl-f	ita	scommessa	n$n-f
 	cat	aprenentatge	n-m$n	ita	apprendimento	n-m$n
 	cat	aprofundiment	n-m$n	ita	approfondimento	n-m
-	cat	apropament	n$n-m	ita	avvicinamento	n$n-m
+	cat	apropament	n-m$n	ita	avvicinamento	n$n-m
 	cat	aprovació	n$n-f	ita	approvazione	n-f$n
 RL	cat	aproximació	n-f$n	ita	ravvicinamento	n-m
 	cat	aproximació	n-f$n	ita	approccio	n-m$n
@@ -984,7 +984,7 @@ RL	cat	aproximació	n-f$n	ita	ravvicinamento	n-m
 	cat	apèndix	n-m$n	ita	appendice	n-f
 	cat	apòstol	n-m$n	ita	apostolo	n$n-m
 	cat	assistència	n-f$n	ita	assistenza	n-f$n
-	cat	transparència	n$n-f	ita	trasparenza	n-f$n
+	cat	transparència	n-f$n	ita	trasparenza	n-f$n
 	cat	aquarel·la	n-f$n	ita	acquerello	n-m
 	cat	aquari	n-m$n	ita	acquario	n-m$n
 	cat	criteri	n-m$n	ita	criterio	n-m$n
@@ -1019,7 +1019,7 @@ LR	cat	aristòcrata	n-mf$n	ita	aristocratico	n-GD
 RL	cat	aristòcrata	n-mf$n	ita	aristocratico	n-m$n
 RL	cat	aristòcrata	n-mf$n	ita	aristocratico	n-f
 	cat	aritmètica	n-f$n	ita	aritmetica	n$n-f
-	cat	arma	n$n-f$n-f-pl	ita	arma	n-f$n
+	cat	arma	n-f$n$n-f-pl	ita	arma	n-f$n
 	cat	armada	n$n-f	ita	armata	n-f$n
 	cat	armament	n-m$n	ita	armamento	n-m$n
 	cat	armari	n-m$n	ita	armadio	n-m$n
@@ -1033,10 +1033,10 @@ RL	cat	aristòcrata	n-mf$n	ita	aristocratico	n-f
 LR	cat	arquitecte	n-f-sg	ita	architetto	n-m$n-m-sg$n
 LR	cat	arquitecte	n-m-sg	ita	architetto	n-m$n-m-sg$n
 RL	cat	arquitecte	n-GD-sg$n-GD	ita	architetto	n-m$n-m-sg$n
-	cat	arquitectura	n$n-f	ita	architettura	n-f$n
+	cat	arquitectura	n-f$n	ita	architettura	n-f$n
 	cat	arquitectònic	adj$	ita	architettonico	adj$
 	cat	arracada	n-f$n	ita	orecchino	n-m$n
-	cat	arrel	n$n-f	ita	radice	n-f$n
+	cat	arrel	n-f$n	ita	radice	n-f$n
 	cat	arrelament	n-m$n	ita	base	n-f$$n$n-f-m
 	cat	arrencada	n-f	ita	avvio	n-m$n
 	cat	arrendament	n-m$n	ita	locazione	n-f
@@ -1073,11 +1073,11 @@ RL	cat	ase	n-m$n	ita	somaro	n-f
 	cat	asil	n-m$n	ita	asilo	n-m$n
 	cat	asimetria	n-f$n	ita	asimmetria	n$n-f
 	cat	asimètric	adj$	ita	asimmetrico	adj$adj-sup
-LR	cat	asma	n-f$n$n-f-sg	ita	asma	n-mf-sg$n-mf$n
+LR	cat	asma	n-f$n-f-sg$n	ita	asma	n-mf-sg$n-mf$n
 LR	cat	asma	n-f-pl	ita	asma	n-mf-sg$n-mf$n
 RL	cat	asma	n-f-ND	ita	asma	n-mf-sg$n-mf$n
 	cat	aspecte	n-m$n	ita	aspetto	n-m$n
-	cat	aspiració	n$n-f	ita	aspirazione	n-f$n
+	cat	aspiració	n-f$n	ita	aspirazione	n-f$n
 LR	cat	aspirador	adj$adj-m	ita	aspiratore	adj-mf
 LR	cat	aspirador	adj-f	ita	aspiratore	adj-mf
 RL	cat	aspirador	adj-GD	ita	aspiratore	adj-mf
@@ -1093,21 +1093,21 @@ RL	cat	aspirador	adj-GD	ita	aspiratore	adj-mf
 	cat	assessorament	n-m$n	ita	consulenza	n-f$n
 	cat	assidu	adj$	ita	assiduo	$adj
 	cat	assignació	n-f$n	ita	assegnazione	n-f$n
-	cat	assimilació	n$n-f	ita	assimilazione	n$n-f
+	cat	assimilació	n-f$n	ita	assimilazione	n$n-f
 	cat	assistencial	adj$adj-mf	ita	assistenziale	adj$adj-mf
 	cat	confidencial	adj$adj-mf$	ita	confidenziale	$adj$adj-mf
 LR	cat	assistent	n-m	ita	assistente	n-m$n
 LR	cat	assistent	n$n-f	ita	assistente	n-m$n
 RL	cat	assistent	n-GD	ita	assistente	n-m$n
 	cat	associació	n-f$n	ita	associazione	n-f$n
-	cat	assoliment	n$n-m	ita	conseguimento	n-m$n
+	cat	assoliment	n-m$n	ita	conseguimento	n-m$n
 	cat	assortiment	n-m$n	ita	assortimento	n-m$n
 	cat	assortit	adj$adj-sup	ita	assortito	$adj
 	cat	assumpció	n-f$n	ita	assunzione	n-f$n
 	cat	asta	n$n-f	ita	asta	n-f$n
 	cat	astre	n$n-m	ita	astro	n-m$n
 	cat	astronauta	n-mf$n	ita	astronauta	n$n-m$n-mf-m
-	cat	astronomia	n$n-f	ita	astronomia	n-f$n
+	cat	astronomia	n-f$n	ita	astronomia	n-f$n
 	cat	astrònom	n$n-m	ita	astronomo	n$n-m
 	cat	asturià	adj	ita	asturiano	adj$adj-sup
 	cat	asturià	n$n-m	ita	asturiano	n$n-GD
@@ -1115,7 +1115,7 @@ RL	cat	assistent	n-GD	ita	assistente	n-m$n
 	cat	astúcia	n-f$n	ita	astuzia	n-f$n
 	cat	atac	n-m$n	ita	attacco	n-m$n
 	cat	atemptat	n-m$n	ita	attentato	n-m$n
-	cat	atenció	n$n-f	ita	attenzione	n-f$n
+	cat	atenció	n-f$n	ita	attenzione	n-f$n
 	cat	atent	adj$	ita	attento	$adj$adj-f
 	cat	aterratge	n-m$n	ita	atterraggio	n-m$n
 	cat	ateu	adj$	ita	ateo	adj$$adj-sup
@@ -1175,7 +1175,7 @@ RL	cat	autenticitat	n-f-ND	ita	autenticità	n-f-sp$n-f
 LR	cat	autobús	n-m-sg	ita	autobus	n-m-sp$n-m
 LR	cat	autobús	n-m-pl	ita	autobus	n-m-sp$n-m
 RL	cat	autobús	n-m$n$n-m-ND	ita	autobus	n-m-sp$n-m
-LR	cat	autocaravana	n$n-f$n-f-sg	ita	camper	n-m-sp$n-m
+LR	cat	autocaravana	n-f$n$n-f-sg	ita	camper	n-m-sp$n-m
 LR	cat	autocaravana	n-f-pl	ita	camper	n-m-sp$n-m
 RL	cat	autocaravana	n-f-ND	ita	camper	n-m-sp$n-m
 	cat	autoestima	n-f$n	ita	autostima	n-f$n
@@ -1238,19 +1238,19 @@ RL	cat	bacallà	n-m-ND	ita	baccalà	n-m-sp$n-m
 	cat	bacteriologia	n$n-f	ita	batteriologia	n$n-f
 	cat	bactèria	n$n-f	ita	batterio	n-m
 	cat	badia	n$n-f	ita	baia	n-f$n
-	cat	baioneta	n$n-f	ita	baionetta	n$n-f
+	cat	baioneta	n-f$n	ita	baionetta	n$n-f
 	cat	baix	adj$adj-f$adj-sup-f	ita	basso	$adj$adj-sup
 	cat	bala	n-f$n	ita	pallottola	n$n-f
 	cat	balafiament	n$n-m	ita	spreco	n-m$n
 	cat	balanç	n-m$n	ita	bilancio	n-m$n
 	cat	balanç	n-m$n	ita	bilanciamento	n$n-m
-	cat	balança	n$n-f$n-f-pl	ita	bilancia	n$n-f$n-f-sg
+	cat	balança	n-f$n$n-f-pl	ita	bilancia	n$n-f$n-f-sg
 	cat	balconada	n-f$n	ita	balcone	n-m$n
 	cat	balcànic	adj$	ita	balcanico	adj$adj-sup
 LR	cat	balear	adj$adj-mf	ita	balearico	adj$adj-GD
 RL	cat	balear	adj$adj-mf	ita	balearico	adj-m
 RL	cat	balear	adj$adj-mf	ita	balearico	adj-f
-	cat	balena	n$n-f	ita	balena	n$n-f
+	cat	balena	n-f$n	ita	balena	n$n-f
 	cat	ball	n-m$n	ita	ballo	n$n-m
 	cat	ballet	n-m$n	ita	balletto	n-m$n
 	cat	terme	n$n-m	ita	termine	n-m$n
@@ -1279,7 +1279,7 @@ RL	cat	banquer	n-GD	ita	banchiere	n-m$n
 	cat	banquet	n-m$n	ita	banchetto	n$n-m
 	cat	bany	n-m$n	ita	bagno	n-m$n
 	cat	bany	n-m$n	ita	balneazione	n-f
-	cat	banyera	n$n-f	ita	vasca	n-f$n
+	cat	banyera	n-f$n	ita	vasca	n-f$n
 	cat	banús	n$n-m	ita	ebano	n$n-m
 LR	cat	bar	n-m$n$n-m-sg	ita	bar	n-m-sp$n-m
 LR	cat	bar	n-m-pl	ita	bar	n-m-sp$n-m
@@ -1287,7 +1287,7 @@ RL	cat	bar	n-m-ND	ita	bar	n-m-sp$n-m
 	cat	barana	n$n-f	ita	balaustra	n$n-f
 	cat	barana	n$n-f	ita	apparato	n-m
 LR	cat	barat	adj$adj-GD-ND$	ita	economico	adj$$adj-sup
-	cat	barba	n$n-f	ita	barba	n-f$n
+	cat	barba	n-f$n	ita	barba	n-f$n
 LR	cat	barber	n$n-m	ita	barbiere	n-m
 LR	cat	barber	n-f	ita	barbiere	n-m
 RL	cat	barber	n-GD	ita	barbiere	n-m
@@ -1318,7 +1318,7 @@ RL	cat	basc	n$n-GD$	ita	basco	n-m$n
 	cat	base	n-f$n	ita	base	n-f$$n$n-f-m
 LR	cat	basquetbol	n-m$n-m-sg$n	ita	pallacanestro	n-f$n
 	cat	bassal	n-m$n	ita	pozzanghera	n-f
-	cat	bastida	n-f$n	ita	impalcatura	n-f
+	cat	bastida	n-f	ita	impalcatura	n-f
 	cat	bastó	n-m$n	ita	bastone	n-m$n
 	cat	basílica	n-f$n	ita	basilica	n$n-f
 	cat	bata	n-f$n	ita	vestaglia	n$n-f
@@ -1337,7 +1337,7 @@ LR	cat	belga	adj$adj-mf$	ita	belga	adj-GD
 RL	cat	belga	adj$adj-mf$	ita	belga	adj-m$adj$
 RL	cat	belga	adj$adj-mf$	ita	belga	adj-f
 	cat	bell	adj$	ita	bello	$adj$adj-m$adj-m-sg
-	cat	bellesa	n$n-f	ita	bellezza	n-f$n
+	cat	bellesa	n-f$n	ita	bellezza	n-f$n
 	cat	ben	preadv	ita	bene	preadv
 	cat	benefactor	adj	ita	benefattore	adj
 	cat	benefici	n-m$n	ita	beneficio	n-m$n
@@ -1352,7 +1352,7 @@ LR	cat	benzina	n-f$n	ita	benzina	n$n-f
 	cat	bestial	adj$adj-mf$	ita	bestiale	$adj$adj-mf
 	cat	bestiar	n-m$n	ita	bestiame	n-m$n
 	cat	bestreta	n-f	ita	anticipo	n-m$n
-	cat	biblioteca	n$n-f	ita	biblioteca	n-f$n
+	cat	biblioteca	n-f$n	ita	biblioteca	n-f$n
 	cat	bibliotecari	n$n-m	ita	bibliotecario	n$n-GD
 LR	cat	bici	n-f$n	ita	bicicletta	n$n-f
 	cat	bicicleta	n$n-f	ita	bicicletta	n$n-f
@@ -1403,19 +1403,19 @@ RL	cat	blogger	n-mf-ND	ita	blogger	n-mf-sp$n-mf
 	cat	bo	adj$adj-m-sg$	ita	buono	$adj$adj-mf
 	cat	bo	n-m$n	ita	buono	n-m$n
 	cat	bobina	n-f$n	ita	bobina	n$n-m
-	cat	boca	n$n-f	ita	bocca	n-f$n
-	cat	bocada	n-f$n-f-pl$n	ita	boccone	n-m$n$n-m-sg
+	cat	boca	n-f$n	ita	bocca	n-f$n
+	cat	bocada	n-f$n-f-pl	ita	boccone	n-m$n$n-m-sg
 	cat	bocada	n-f-sg	ita	boccone	n-m$n$n-m-sg
 	cat	bocí	n-m$n	ita	pezzetto	n$n-m
 	cat	boda	n-f$n	ita	nozze	n-f-pl$n-f$n
 	cat	bogeria	n-f$n	ita	pazzia	n-f$n
 	cat	boicot	n-m$n	ita	boicottaggio	n-m$n
 	cat	boira	n-f$n	ita	nebbia	n-f$n
-	cat	boirina	n$n-f	ita	nebbia	n-f$n
+	cat	boirina	n-f$n	ita	nebbia	n-f$n
 	cat	bol	n-m$n	ita	scodella	n-f
 	cat	bola	n-f$n	ita	palla	n-f$n
 	cat	bolivià	n$n-m	ita	boliviano	n$n-GD
-	cat	bolo	n	ita	birillo	n-m$n
+	cat	bolo	n$n-m	ita	birillo	n-m$n
 	cat	bolxevisme	n-m$n	ita	bolscevismo	n$n-m
 	cat	bomba	n$n-f	ita	bomba	n-f$n
 LR	cat	bomber	n$n-m	ita	vigile	n-m$
@@ -1430,7 +1430,7 @@ RL	cat	bomber	n-GD	ita	vigile	n-m$
 	cat	bon	adj-sup$adj-sup-f-pl	ita	buono	$adj$adj-mf
 	cat	bonic	adj$	ita	carino	$adj$adj-m
 	cat	bony	n-m$n	ita	bernoccolo	n-m$n
-	cat	borratxera	n$n-f	ita	ubriachezza	n$n-f
+	cat	borratxera	n-f$n	ita	ubriachezza	n$n-f
 	cat	borratxo	n$$n-m	ita	ubriaco	n$n-m
 	cat	borsa	n-f$n	ita	borsa	n-f$n
 	cat	borsari	adj-f	ita	borsistico	adj-GD$adj
@@ -1479,12 +1479,12 @@ LR	cat	bresquilla	n-f$n	ita	pesca	n-f$n
 	cat	bruixa	n-f$n	ita	stregone	n-f
 	cat	brusc	adj$	ita	brusco	$adj$adj-sup
 	cat	brutal	adj$adj-mf$	ita	brutale	$adj$adj-mf
-	cat	brúixola	n$n-f	ita	bussola	n$n-f
+	cat	brúixola	n-f$n	ita	bussola	n$n-f
 	cat	buc	n-m$n	ita	nave	n-f$n
 	cat	budisme	n-m$n	ita	buddhismo	n$n-m
 	cat	bufanda	n-f$n	ita	sciarpa	n-f$n
 	cat	bufó	n-m$n	ita	giullare	n$n-m
-	cat	buidor	n-f$n	ita	vuoto	n-m$n
+	cat	buidor	n-f	ita	vuoto	n-m$n
 	cat	buit	adj$$adj-sup	ita	vuoto	$adj$adj-sup
 	cat	buit	n$n-m$n-m-ND	ita	buco	n-m$n
 	cat	buit	n$n-m$n-m-ND	ita	vuoto	n-m$n
@@ -1499,7 +1499,7 @@ RL	cat	burgès	adj-GD	ita	borghese	adj-mf$$adj
 LR	cat	burgès	n$n-m	ita	borghese	n-m$n
 LR	cat	burgès	n-f	ita	borghese	n-m$n
 RL	cat	burgès	n-GD	ita	borghese	n-m$n
-	cat	burocràcia	n$n-f	ita	burocrazia	n-f$n
+	cat	burocràcia	n-f$n	ita	burocrazia	n-f$n
 	cat	burocràtic	adj$	ita	burocratico	adj$
 LR	cat	burro	n-m$n	ita	somaro	n-m$n
 LR	cat	bus	n-m$n$n-m-sg	ita	pullman	n-m-sp$n-m
@@ -1526,10 +1526,10 @@ RL	cat	búnquer	n-m-ND	ita	bunker	n-m-sp$n-m
 	cat	cabanya	n-f$n	ita	capanna	n-f$n
 	cat	cabdal	adj$adj-mf$	ita	capitale	adj$$adj-mf
 	cat	cabell	n$n-m$n-m-pl	ita	capello	n-m$n
-	cat	cabellera	n$n-f	ita	capigliatura	n$n-f
-	cat	cabellera	n$n-f	ita	criniera	n-f$n
+	cat	cabellera	n-f$n	ita	capigliatura	n$n-f
+	cat	cabellera	n-f$n	ita	criniera	n-f$n
 	cat	cable	n-m$n	ita	cavo	n-m$$n
-	cat	cabra	n$n-f	ita	capra	n-f$n
+	cat	cabra	n-f$n	ita	capra	n-f$n
 	cat	cacauet	n-m$n	ita	arachide	n$n-m
 	cat	cadastral	adj$adj-mf	ita	catastale	adj$adj-mf
 	cat	cadell	n$n-m	ita	cucciolo	n-m$n
@@ -1540,7 +1540,7 @@ RL	cat	cafè	n-m$n$n-m-ND	ita	caffè	n-m$n-m-sp
 LR	cat	cafè	n-m-sg	ita	caffè	n-m$n-m-sp
 LR	cat	cafè	n-m-pl	ita	caffè	n-m$n-m-sp
 	cat	caiguda	n$n-f	ita	caduta	n-f$n
-	cat	caixa	n$n-f	ita	scatola	n$n-f
+	cat	caixa	n-f$n	ita	scatola	n$n-f
 	cat	calaix	n-m$n	ita	cassetto	n$n-m
 	cat	calamar	n-m$n	ita	calamaro	n$n-m
 	cat	calamarsa	n-f	ita	grandine	n-m
@@ -1564,14 +1564,14 @@ LR	cat	calamitat	n-f-pl	ita	calamità	n-f-sp$n-f
 	cat	caloria	n-f$n	ita	caloria	n$n-f
 	cat	calvari	n-m$n	ita	calvario	n$n-m
 	cat	calç	n-f$n	ita	calcare	$n-m
-	cat	cama	n$n-f	ita	gamba	n-f$n
+	cat	cama	n-f$n	ita	gamba	n-f$n
 	cat	camaleó	n$n-m	ita	camaleonte	n$n-m
 	cat	camamilla	n-f$n	ita	camomilla	n$n-f
 LR	cat	camamil·la	n-f$n	ita	camomilla	n$n-f
 LR	cat	camarada	n-mf$n	ita	camerata	n-GD
 RL	cat	camarada	n-mf$n	ita	camerata	n-m$n
 RL	cat	camarada	n-mf$n	ita	camerata	n-f
-	cat	camarilla	n$n-f	ita	camarilla	n$n-f
+	cat	camarilla	n-f$n	ita	camarilla	n$n-f
 	cat	cambra	n-f$n$n-f-ND	ita	stanza	n-f$n
 	cat	cambra	n-f$n$n-f-ND	ita	camera	n-f$n
 RL	cat	cambra	n-f$n$n-f-ND	ita	cameraman	n-m-sp$n-m
@@ -1580,7 +1580,7 @@ LR	cat	cambra	n-f-pl	ita	cameraman	n-m-sp$n-m
 	cat	cambrer	n$n-f	ita	cameriere	n$n-m
 	cat	camell	n-m$n	ita	cammello	n-m$n
 	cat	camioner	n$n-GD	ita	camionista	n$n-GD
-	cat	camisa	n$n-f	ita	camicia	n-f$n
+	cat	camisa	n-f$n	ita	camicia	n-f$n
 	cat	camió	n-m$n$n-m-sg	ita	autocarro	n-m$n
 LR	cat	camió	n-m$n$n-m-sg	ita	camion	n-m-sp$n-m
 LR	cat	camió	n-m-pl	ita	camion	n-m-sp$n-m
@@ -1635,9 +1635,9 @@ RL	cat	canari	n-GD	ita	canarino	n-m$n
 	cat	cap	n-m$n$n-m-pl	ita	testa	n-f$n
 RL	cat	cap	n-m$n$n-m-pl	ita	capo	n-m$n$
 LR	cat	cap	n-f	ita	capo	n-m$n$
-	cat	capa	n$n-f	ita	cappa	n$n-f
-RL	cat	transparència	n$n-f	ita	transparenza	n
-	cat	capa	n$n-f	ita	strato	n-m
+	cat	capa	n-f$n	ita	cappa	n$n-f
+RL	cat	transparència	n-f$n	ita	transparenza	n
+	cat	capa	n-f$n	ita	strato	n-m
 LR	cat	capacitat	n-f$n$n-f-sg	ita	capacità	n-f$n-f-sp
 LR	cat	capacitat	n-f-pl	ita	capacità	n-f$n-f-sp
 RL	cat	capacitat	n-f-ND	ita	capacità	n-f$n-f-sp
@@ -1645,7 +1645,7 @@ RL	cat	capaç	adj$adj-GD-pl$	ita	capace	$adj$adj-mf-pl$adj-mf
 LR	cat	capaç	adj-f-pl	ita	capace	$adj$adj-mf-pl$adj-mf
 LR	cat	capaç	adj-m-pl	ita	capace	$adj$adj-mf-pl$adj-mf
 	cat	capaç	adj-mf-sg	ita	capace	adj-mf-sg
-	cat	capella	n$n-f	ita	cappella	n-f$n
+	cat	capella	n-f$n	ita	cappella	n-f$n
 	cat	capellà	n-m$n	ita	cura	n-f
 	cat	capellà	n-m$n	ita	prete	n-m
 	cat	capgirament	n-m$n	ita	investimento	n-f
@@ -1661,7 +1661,7 @@ RL	cat	capitalista	n-mf$n$	ita	capitalista	n-f
 LR	cat	capità	n$n-m	ita	capitano	n-m$n
 LR	cat	capità	n-f	ita	capitano	n-m$n
 RL	cat	capità	n-GD	ita	capitano	n-m$n
-	cat	capsa	n$n-f	ita	scatola	n$n-f
+	cat	capsa	n-f$n	ita	scatola	n$n-f
 	cat	captació	n-f$n	ita	captazione	n$n-f
 LR	cat	capteniment	n$n-m	ita	comportamento	n-m$n
 	cat	captura	n-f$n	ita	cattura	n-f$n
@@ -1674,7 +1674,7 @@ RL	cat	capçalera	n-f-ND	ita	header	n-m-sp
 	cat	car	adj$	ita	caro	$adj$adj-sup
 	cat	cara	n-f$n	ita	faccia	n-f$n
 	cat	característic	adj$	ita	caratteristico	$adj$adj-sup
-	cat	característica	n$n-f	ita	caratteristica	n-f$n
+	cat	característica	n-f$n	ita	caratteristica	n-f$n
 	cat	caragol	n-m$n$n-m-pl	ita	chiocciola	n-f$n
 	cat	caragol	n-m$n$n-m-pl	ita	lumaca	n-f$n
 	cat	caramel	n-m$n	ita	caramella	n-f
@@ -1696,7 +1696,7 @@ RL	cat	capçalera	n-f-ND	ita	header	n-m-sp
 	cat	carnívor	adj$	ita	carnivoro	adj$$adj-sup
 	cat	carpa	n-f$n	ita	carpa	n$n-f
 	cat	carrer	n-m$n	ita	strada	n-f$n
-	cat	carrera	n$n-f	ita	carriera	n-f$n
+	cat	carrera	n-f$n	ita	carriera	n-f$n
 	cat	carretera	n$n-f	ita	strada	n-f$n
 	cat	carro	n-m$n	ita	carro	n-m$n
 	cat	carruatge	n-m$n	ita	calesse	n-m$n
@@ -1740,18 +1740,18 @@ RL	cat	castellonenc	n-GD	ita	castiglionese	n-mf$n
 	cat	català	n$n-m	ita	catalano	n$n-GD
 	cat	catamarà	n$n-m	ita	catamarano	n$n-m
 	cat	cataplasma	n-m	ita	cataplasma	n-m
-	cat	cataracta	n$n-f	ita	cataratta	n$n-f
+	cat	cataracta	n-f$n	ita	cataratta	n$n-f
 LR	cat	catarro	n-m$n	ita	raffreddore	n$n-m
 	cat	catastròfic	adj$	ita	catastrofico	adj$
-	cat	catedral	n$n-f	ita	cattedrale	n$n-f
+	cat	catedral	n-f$n	ita	cattedrale	n$n-f
 	cat	categoria	n$n-f	ita	categoria	n-f$n
 	cat	catet	n-m$n	ita	cateto	n$n-m
 	cat	catifa	n-f$n$n-f-ND	ita	tappeto	n-m$n
 	cat	catorzè	adj$adj-ord$adj-ord-GD-ND	ita	quattordicesimo	adj$adj-ord
 	cat	catàleg	n-m$n	ita	catalogo	n-m$n
-	cat	catàstrofe	n$n-f	ita	catastrofe	n-f$n
+	cat	catàstrofe	n-f$n	ita	catastrofe	n-f$n
 	cat	catòlic	adj$	ita	cattolico	adj$$adj-sup
-	cat	causa	n$n-f	ita	causa	n-f$n
+	cat	causa	n-f$n	ita	causa	n-f$n
 	cat	cautelar	adj$adj-mf	ita	cautelare	$adj$adj-mf
 LR	cat	cautxú	n-m$n	ita	pneumatico	n$n-m$
 	cat	cava	n-m$n	ita	spumante	n-m$n$
@@ -1761,7 +1761,7 @@ LR	cat	cautxú	n-m$n	ita	pneumatico	n$n-m$
 RL	cat	cavitat	n-f$n$n-f-ND	ita	cavità	n-f-sp$n-f
 LR	cat	cavitat	n-f-sg	ita	cavità	n-f-sp$n-f
 LR	cat	cavitat	n-f-pl	ita	cavità	n-f-sp$n-f
-	cat	caça	n$n-f	ita	caccia	n-f$n
+	cat	caça	n-f$n	ita	caccia	n-f$n
 	cat	ceba	n-f$n	ita	cipolla	n-f$n
 	cat	cec	adj$	ita	cieco	$adj$adj-sup
 	cat	cedre	n$n-m	ita	cedro	n-m$n
@@ -1769,13 +1769,13 @@ RL	cat	ceguesa	n-f$n$n-f-ND	ita	cecità	n-f-sp$n-f
 LR	cat	ceguesa	n-f-sg	ita	cecità	n-f-sp$n-f
 LR	cat	ceguesa	n-f-pl	ita	cecità	n-f-sp$n-f
 	cat	cel	n$n-m	ita	cielo	n-m$n
-	cat	celebració	n$n-f	ita	celebrazione	n-f$n
+	cat	celebració	n-f$n	ita	celebrazione	n-f$n
 RL	cat	celebritat	n-f$n$n-f-ND	ita	celebrità	n-f-sp$n-f
 LR	cat	celebritat	n-f-sg	ita	celebrità	n-f-sp$n-f
 LR	cat	celebritat	n-f-pl	ita	celebrità	n-f-sp$n-f
 	cat	celibat	n-m$n	ita	celibato	n$n-m
-LR	cat	cella	n$n-f$n-f-sg	ita	sopracciglio	n-m-sg$n-m$n
-RL	cat	cella	n$n-f$n-f-sg	ita	sopracciglio	n-m-sg$n-m$n
+LR	cat	cella	n-f$n$n-f-sg	ita	sopracciglio	n-m-sg$n-m$n
+RL	cat	cella	n-f$n$n-f-sg	ita	sopracciglio	n-m-sg$n-m$n
 RL	cat	cella	n-f-pl	ita	sopracciglio	n-f-pl
 LR	cat	cella	n-f-pl	ita	sopracciglio	n-GD-pl
 RL	cat	celta	n-mf$n$	ita	celtico	n-m$n
@@ -1812,7 +1812,7 @@ RL	cat	centenar	n-m$n$n-m-ND	ita	centinaio	n-f-sp
 RL	cat	cervell	n-m$n	ita	cervello	n-f-pl$n-f
 	cat	cervesa	n$n-f	ita	birra	n$n-f
 	cat	ceràmic	adj	ita	ceramico	adj
-	cat	ceràmica	n$n-f$n-f-sg	ita	ceramica	n-f$n
+	cat	ceràmica	n-f$n$n-f-sg	ita	ceramica	n-f$n
 	cat	cessió	n-f$n	ita	cessione	n$n-f
 LR	cat	cessió	n-f$n	ita	trasferimento	n-m$n
 	cat	cianur	n-m$n	ita	cianuro	n$n-m
@@ -1824,7 +1824,7 @@ RL	cat	ciclista	n-mf$n	ita	ciclista	n-m$n$n-mf-m
 RL	cat	ciclista	n-mf$n	ita	ciclista	n-f
 	cat	cicló	n-m$n	ita	ciclone	n-m$n
 	cat	científic	adj$	ita	scienziato	adj
-	cat	científic	n$n-f	ita	scienziato	n$n-m
+	cat	científic	n$n-m	ita	scienziato	n$n-m
 	cat	cigar	n$n-m	ita	sigaro	n$n-m
 	cat	cigarret	n-m$n	ita	sigaretta	n-f$n
 	cat	cigne	n-m$n	ita	cigno	n$n-m
@@ -1842,7 +1842,7 @@ RL	cat	cinema	n-m-ND	ita	cinema	n-m-sp$n-m
 	cat	cinquantè	adj$adj-ord$adj-ord-GD-ND	ita	cinquantesimo	adj$adj-ord$
 	cat	cintura	n-f$n	ita	cinta	n-f$n
 	cat	cinturó	n-m$n	ita	cintura	n-f$n
-LR	cat	cinyell	n$n-m	ita	cintura	n-f$n
+LR	cat	cinyell	n-m$n	ita	cintura	n-f$n
 	cat	circ	n-m$n	ita	circo	n$n-m
 	cat	circuit	n-m$n	ita	circuito	n-m$n
 	cat	circumscripció	n-f$n	ita	circoscrizione	n-f$n
@@ -1853,7 +1853,7 @@ LR	cat	cinyell	n$n-m	ita	cintura	n-f$n
 	cat	cistell	n-m$n	ita	cesto	n$n-m
 	cat	cistella	n-f$n	ita	cesta	n-f$n
 	cat	cistella	n-f$n	ita	paniere	n-m
-	cat	cisterna	n$n-f	ita	cisterna	n-f$n$
+	cat	cisterna	n-f$n	ita	cisterna	n-f$n$
 	cat	cita	n-f$n$n-f-ND	ita	citazione	n-f$n
 	cat	citació	n-f$n	ita	citazione	n-f$n
 	cat	ciutadà	n$n-m	ita	cittadino	n$n-m$
@@ -1864,7 +1864,7 @@ RL	cat	ciutat	n-f-ND	ita	città	n-f-sp$n-f
 LR	cat	civilització	n-f$n$n-f-sg	ita	civiltà	n-f-sp$n-f
 LR	cat	civilització	n-f-pl	ita	civiltà	n-f-sp$n-f
 RL	cat	civilització	n-f-ND	ita	civiltà	n-f-sp$n-f
-	cat	ciència	n$n-f	ita	scienza	n-f$n
+	cat	ciència	n-f$n	ita	scienza	n-f$n
 LR	cat	clan	n-m$n$n-m-sg	ita	clan	n-m-sp$n-m
 LR	cat	clan	n-m-pl	ita	clan	n-m-sp$n-m
 RL	cat	clan	n-m-ND	ita	clan	n-m-sp$n-m
@@ -1891,7 +1891,7 @@ RL	cat	client	n-GD	ita	cliente	n-mf
 	cat	clima	n-m$n	ita	clima	n-m$n
 	cat	climatologia	n-f$n	ita	climatologia	n$n-f
 	cat	climàtic	adj$	ita	climatico	adj$$adj-sup
-	cat	clivella	n$n-f	ita	crepa	n-f$n
+	cat	clivella	n-f$n	ita	crepa	n-f$n
 LR	cat	clixé	n-m$n$n-m-sg	ita	cliché	n-m-sp$n-m
 LR	cat	clixé	n-m-pl	ita	cliché	n-m-sp$n-m
 RL	cat	clixé	n-m-ND	ita	cliché	n-m-sp$n-m
@@ -1921,11 +1921,11 @@ RL	cat	clixé	n-m-ND	ita	cliché	n-m-sp$n-m
 	cat	col	n-f$n	ita	cavolo	n-m$n
 	cat	cola	n-f$n	ita	adesivo	n-m$n
 	cat	colesterol	n-m$n	ita	colesterolo	n-m$n
-	cat	coliflor	n$n-f	ita	cavolfiore	n-m$n
-	cat	coliflor	n$n-f	ita	cavolfiore	n-m$n
+	cat	coliflor	n-f$n	ita	cavolfiore	n-m$n
+	cat	coliflor	n-f$n	ita	cavolfiore	n-m$n
 	cat	coll	n-m$n	ita	collo	n-m$n
 	cat	collaret	n-m$n	ita	collana	n-f$n
-	cat	collita	n$n-f	ita	raccolto	n-m$
+	cat	collita	n-f$n	ita	raccolto	n-m$
 	cat	colom	n-m$n	ita	piccione	n$n-m
 	cat	colombià	adj$	ita	colombiano	adj$adj-sup
 	cat	colon	n-GD	ita	colono	n-m$n
@@ -1937,9 +1937,9 @@ RL	cat	clixé	n-m-ND	ita	cliché	n-m-sp$n-m
 	cat	colossal	adj$adj-mf$	ita	colossale	adj$$adj-mf
 LR	cat	colp	n-m$n	ita	colpo	n-m$n
 	cat	coltell	n-m$n	ita	coltello	n$n-m
-	cat	columna	n$n-f	ita	colonna	n-f$n
+	cat	columna	n-f$n	ita	colonna	n-f$n
 	cat	colze	n-m$n	ita	gomito	n-m$n
-	cat	col·laboració	n$n-f	ita	collaborazione	n-f$n
+	cat	col·laboració	n-f$n	ita	collaborazione	n-f$n
 	cat	col·lateral	adj$adj-mf	ita	collaterale	adj$$adj-mf
 	cat	col·leccionista	n-mf$n	ita	collezionista	n-m$n$n-mf-m
 	cat	col·lecció	n$n-f	ita	collezione	n-f$n
@@ -1948,7 +1948,7 @@ LR	cat	colp	n-m$n	ita	colpo	n-m$n
 	cat	col·lisió	n-f$n	ita	collisione	n-f$n
 	cat	col·loquial	adj$adj-mf	ita	colloquiale	adj$adj-mf
 	cat	colònia	n$n-f	ita	colonia	n-f$n
-	cat	coma	n-f$n	ita	virgola	n-f
+	cat	coma	n-f	ita	virgola	n-f
 	cat	coma	n-m	ita	virgola	n-m
 	cat	comandant	n-m	ita	comandante	n-mf
 	cat	comarca	n-f$n	ita	comarca	n$n-f
@@ -1986,8 +1986,8 @@ RL	cat	company	n-GD	ita	partner	n-mf$n-mf-sp
 RL	cat	competitivitat	n-f$n$n-f-ND	ita	competitività	n-f-sp$n-f
 LR	cat	competitivitat	n-f-sg	ita	competitività	n-f-sp$n-f
 LR	cat	competitivitat	n-f-pl	ita	competitività	n-f-sp$n-f
-	cat	competència	n$n-f	ita	competenza	n-f$n
-	cat	competència	n$n-f	ita	concorrenza	n-f$n
+	cat	competència	n-f$n	ita	competenza	n-f$n
+	cat	competència	n-f$n	ita	concorrenza	n-f$n
 	cat	complement	n$n-m	ita	complemento	n-m$n
 	cat	complex	adj$$adj-sup	ita	complesso	adj$adj-sup
 	cat	complex	n-m$n	ita	complesso	n-m$$n
@@ -1995,7 +1995,7 @@ LR	cat	competitivitat	n-f-pl	ita	competitività	n-f-sp$n-f
 	cat	component	n-mf$n	ita	componente	n-mf$$n
 	cat	comporta	n-f$n	ita	paratoia	n$n-f
 	cat	comportament	n-m$n	ita	comportamento	n-m$n
-	cat	composició	n$n-f	ita	composizione	n-f$n
+	cat	composició	n-f$n	ita	composizione	n-f$n
 	cat	compositor	n$n-m	ita	compositore	n$n-m$n-mf-m
 	cat	compra	n-f$n	ita	acquisto	n-m
 	cat	compra	n-f$n	ita	spesa	n-f$n
@@ -2008,7 +2008,7 @@ LR	cat	comprador	n-f	ita	acquirente	n-mf$n
 RL	cat	comprador	n-GD	ita	acquirente	n-mf$n
 	cat	comprador	n$n-m	ita	compratore	n$n-GD
 	cat	comprensió	n-f$n	ita	comprensione	n-f$n
-	cat	compressió	n$n-f	ita	compressione	n$n-f
+	cat	compressió	n-f$n	ita	compressione	n$n-f
 	cat	compressor	n-m$n	ita	compressore	n$n-m
 RL	cat	compromís	n-m$n	ita	compromesso	n-m$n$
 	cat	compromís	n-m$n	ita	impegno	n-m$n
@@ -2025,7 +2025,7 @@ RL	cat	computador	n-GD	ita	computer	n-m$n-m-sp$n
 	cat	comtat	n-m$n	ita	contea	n-f
 	cat	comte	n$n-m	ita	conte	n$n-m
 	cat	comunal	adj$adj-mf	ita	comunale	$adj$adj-mf
-	cat	comunicació	n$n-f	ita	comunicazione	n-f$n
+	cat	comunicació	n-f$n	ita	comunicazione	n-f$n
 	cat	comunisme	n-m$n	ita	comunismo	n$n-m
 LR	cat	comunista	adj$adj-mf	ita	comunista	adj-GD
 RL	cat	comunista	adj$adj-mf	ita	comunista	adj-m$adj
@@ -2034,7 +2034,7 @@ LR	cat	comunista	n-mf$n$	ita	comunista	n-GD
 RL	cat	comunista	n-mf$n$	ita	comunista	n-m$$n$n-mf-m
 RL	cat	comunista	n-mf$n$	ita	comunista	n-f
 RL	cat	comunitat	n-f-ND	ita	comunità	n-f-sp$n-f
-LR	cat	comunitat	n$n-f$n-f-sg	ita	comunità	n-f-sp$n-f
+LR	cat	comunitat	n-f$n$n-f-sg	ita	comunità	n-f-sp$n-f
 LR	cat	comunitat	n-f-pl	ita	comunità	n-f-sp$n-f
 	cat	comunió	n-f$n	ita	comunione	n-f$n
 	cat	comèdia	n-f$n	ita	commedia	n-f$n
@@ -2057,14 +2057,14 @@ RL	cat	comú	adj$adj-GD$	ita	comune	adj$$adj-mf
 LR	cat	concurrència	n-f$n	ita	concorso	n-m$n
 	cat	concurs	n-m$n	ita	concorso	n-m$n
 	cat	concòrdia	n-f$n	ita	concordia	n-f$n
-	cat	condemna	n$n-f	ita	condanna	n-f$n
+	cat	condemna	n-f$n	ita	condanna	n-f$n
 	cat	condicional	adj$adj-mf$	ita	condizionale	adj$$adj-mf
 	cat	condició	n-f$n	ita	condizione	n-f$n
 	cat	condiment	n-m$n	ita	condimento	n-m$n
 	cat	conducta	n-f$n	ita	condotta	n-f$n
 	cat	conducte	n-m$n	ita	condotto	n-m$n
 	cat	conductor	n$n-m	ita	conduttore	n$n-m
-	cat	condícia	n-f$n	ita	gabinetto	n-m$n
+	cat	condícia	n-f	ita	gabinetto	n-m$n
 LR	cat	condó	n-m$n$n-m-sg	ita	condom	n-m-sp$n-m
 LR	cat	condó	n-m-pl	ita	condom	n-m-sp$n-m
 RL	cat	condó	n-m-ND	ita	condom	n-m-sp$n-m
@@ -2102,12 +2102,12 @@ RL	cat	conill	n-GD	ita	coniglio	n-m$n
 	cat	conjunt	adj	ita	congiunto	adj$adj-sup
 	cat	connexió	n-f$n	ita	connessione	n-f$n
 	cat	conquesta	n-f$n	ita	conquista	n-f$n
-	cat	conquilla	n$n-f	ita	conchiglia	n$n-f
+	cat	conquilla	n-f$n	ita	conchiglia	n$n-f
 	cat	conreu	n-m$n	ita	coltivazione	n-f
 	cat	conscient	adj$adj-mf$	ita	consapevole	adj$$adj-mf
 	cat	conscient	adj$adj-mf$	ita	cosciente	$adj$adj-mf
-	cat	consciència	n$n-f	ita	coscienza	n-f$n
-	cat	consciència	n$n-f	ita	consapevolezza	n-f$n
+	cat	consciència	n-f$n	ita	coscienza	n-f$n
+	cat	consciència	n-f$n	ita	consapevolezza	n-f$n
 	cat	consecució	n-f$n	ita	conseguimento	n-m$n
 	cat	consegüent	adj$adj-mf	ita	conseguente	adj$adj-mf$
 	cat	consell	n-m$n	ita	consiglio	n-m$n
@@ -2115,9 +2115,9 @@ LR	cat	conseller	n-m	ita	consigliere	n-m$n
 LR	cat	conseller	n$n-f	ita	consigliere	n-m$n
 RL	cat	conseller	n-GD	ita	consigliere	n-m$n
 	cat	consens	n-m$n$n-m-ND	ita	consenso	n-m$n
-	cat	conseqüència	n$n-f	ita	conseguenza	n-f$n
+	cat	conseqüència	n-f$n	ita	conseguenza	n-f$n
 	cat	conserge	n-mf$n	ita	portinaio	n-m
-	cat	conservació	n$n-f	ita	conservazione	n$n-f
+	cat	conservació	n-f$n	ita	conservazione	n$n-f
 	cat	conservador	adj$	ita	conservatore	adj$
 	cat	conservadorisme	n-m$n$n-m-sg	ita	conservatorismo	n$n-m
 	cat	conservant	n$n-m	ita	conservante	n$n-m
@@ -2135,7 +2135,7 @@ RL	cat	consola	n-f-ND	ita	consolle	n-f-sp$n-f
 LR	cat	constipat	n$n-m	ita	raffreddore	n$n-m
 	cat	constitucional	adj$adj-mf$	ita	costituzionale	adj$$adj-mf
 	cat	constitucionalista	adj	ita	costituzionalista	adj$adj-mf
-	cat	constitució	n$n-f	ita	costituzione	n-f$n
+	cat	constitució	n-f$n	ita	costituzione	n-f$n
 	cat	constituent	adj$adj-mf	ita	costituente	adj$adj-mf
 	cat	construcció	n-f$n	ita	edilizia	n$n-f
 	cat	constructiu	adj$	ita	costruttivo	adj$$adj-sup
@@ -2186,7 +2186,7 @@ RL	cat	contrasenya	n-f-ND	ita	password	n-f-sp$n-f
 	cat	control	n-m$n	ita	controllo	n-m$n
 	cat	controvertit	adj$	ita	controverso	adj$$adj-sup
 	cat	convencional	adj$adj-mf$	ita	convenzionale	adj$$adj-mf
-	cat	convenció	n$n-f	ita	convenzione	n-f$n
+	cat	convenció	n-f$n	ita	convenzione	n-f$n
 	cat	conveni	n$n-m	ita	convenzione	n-f$n
 	cat	conveni	n$n-m	ita	convenzione	n-f$n
 	cat	convent	n-m$n	ita	convento	n-m$n
@@ -2205,7 +2205,7 @@ RL	cat	conyac	n-m-ND	ita	cognac	n-m-sp$n-m
 	cat	coordinació	n-f$n	ita	coordinazione	n$n-f
 	cat	coordinació	n-f$n	ita	coordinamento	n-m
 	cat	cop	n-m$n	ita	colpo	n-m$n
-	cat	copa	n$n-f	ita	tazza	n-f$n
+	cat	copa	n-f$n	ita	tazza	n-f$n
 LR	cat	copyright	n-m$n$n-m-sg	ita	copyright	n-m-sp
 LR	cat	copyright	n-m-pl	ita	copyright	n-m-sp
 RL	cat	copyright	n-m-ND	ita	copyright	n-m-sp
@@ -2217,7 +2217,7 @@ RL	cat	copyright	n-m-ND	ita	copyright	n-m-sp
 	cat	corall	n$n-m	ita	corallo	n-m$
 	cat	coratge	n-m$n	ita	coraggio	n-m$n
 	cat	corba	n-f$n	ita	curva	n-f$n
-	cat	corbata	n$n-f	ita	cravatta	n$n-f
+	cat	corbata	n-f$n	ita	cravatta	n$n-f
 	cat	corda	n-f$n	ita	corda	n-f$n
 	cat	corder	n-m$n	ita	agnello	n-m$n
 	cat	cordial	adj$adj-mf$	ita	cordiale	adj$$adj-mf
@@ -2230,9 +2230,9 @@ RL	cat	cordovès	n-GD	ita	cordovese	n-mf
 	cat	cordó	n-m$n	ita	cordone	n-m$n
 	cat	coreografia	n-f$n	ita	coreografia	n-f$n
 	cat	coreà	n$n-m	ita	coreano	n$$n-GD
-	cat	corfa	n$n-f	ita	corteccia	n$n-f
+	cat	corfa	n-f$n	ita	corteccia	n$n-f
 	cat	cornisa	n-f$n	ita	cornice	n-f$n
-	cat	corona	n$n-f	ita	corona	n-f$n
+	cat	corona	n-f$n	ita	corona	n-f$n
 	cat	coronació	n-f$n	ita	monarchia	n$n-f
 	cat	coronel	n-mf$n	ita	colonnello	n-m
 	cat	corporal	adj-mf$adj$	ita	corporale	adj$$adj-mf
@@ -2248,7 +2248,7 @@ LR	cat	correcte	adj-mf-pl$adj$	ita	corretto	adj-GD-pl
 	cat	correu	n-m$n$n-m-pl	ita	posta	n-f
 	cat	corriola	n-f$n	ita	carrucola	n$n-f
 	cat	corrosiu	adj$	ita	corrosivo	adj$$adj-sup
-	cat	corrupció	n$n-f	ita	corruzione	n-f$n
+	cat	corrupció	n-f$n	ita	corruzione	n-f$n
 	cat	cors	n$n-m	ita	corso	n-m$n
 	cat	cort	n-f$n$n-f-pl	ita	taglio	n-f
 	cat	cortina	n-f$n	ita	tamponamento	n-m
@@ -2260,8 +2260,8 @@ LR	cat	correcte	adj-mf-pl$adj$	ita	corretto	adj-GD-pl
 	cat	costat	n-m$n	ita	lato	n-m$n$
 	cat	costella	n-f$n	ita	cotoletta	n$n-f
 	cat	costella	n-f$n	ita	costola	n$n-f
-	cat	costera	n$n-f$n-f-sg	ita	costa	n-f$n
-	cat	costum	n-m$n$n-m-pl	ita	abitudine	n-f$n
+	cat	costera	n-f$n$n-f-sg	ita	costa	n-f$n
+	cat	costum	n-m$n-m-pl	ita	abitudine	n-f$n
 	cat	costós	adj$$adj-sup	ita	costoso	adj$$adj-sup
 	cat	cotxe	n-m$n	ita	macchina	n-f$n
 LR	cat	cotxera	n-m-sg	ita	garage	n-m-sp$n-m
@@ -2277,8 +2277,8 @@ RL	cat	cranc	n-m$n	ita	granchio	n-f
 LR	cat	cranial	adj-mf$adj$	ita	cranico	adj-GD
 RL	cat	cranial	adj-mf$adj$	ita	cranico	adj-m$$adj
 RL	cat	cranial	adj-mf$adj$	ita	cranico	adj-f
-	cat	creació	n$n-f	ita	creazione	n-f$n
-	cat	creació	n$n-f	ita	avviamento	n-m
+	cat	creació	n-f$n	ita	creazione	n-f$n
+	cat	creació	n-f$n	ita	avviamento	n-m
 	cat	creatiu	adj$	ita	creativo	$adj$adj-sup
 RL	cat	creativitat	n-f$n$n-f-ND	ita	creatività	n-f-sp$n-f
 LR	cat	creativitat	n-f-sg	ita	creatività	n-f-sp$n-f
@@ -2287,7 +2287,7 @@ LR	cat	creativitat	n-f-pl	ita	creatività	n-f-sp$n-f
 	cat	creixent	adj-mf$adj$	ita	crescente	adj$adj-mf$
 	cat	crema	n$n-f	ita	crema	n-f$n
 	cat	cremada	n-f$n	ita	ustione	n-f$n
-	cat	cremor	n-f$n	ita	ardore	n-m
+	cat	cremor	n-f	ita	ardore	n-m
 	cat	crepuscle	n$n-m	ita	crepuscolo	n-m$n
 LR	cat	crestall	n-m	ita	linguetta	n$n-f
 	cat	creu	n$n-f$n-f-ND	ita	croce	n-f$n
@@ -2298,7 +2298,7 @@ LR	cat	creïlla	n-f$n	ita	patata	n-f$n
 	cat	criatura	n-f$n	ita	creatura	n-f$n
 	cat	crim	n-m$n	ita	crimine	n-m$n
 	cat	criminal	adj$adj-mf$	ita	criminale	adj$$adj-mf
-	cat	criminologia	n$n-f	ita	criminologia	n$n-f
+	cat	criminologia	n-f$n	ita	criminologia	n$n-f
 RL	cat	crisi	n-f$n-f-ND$n	ita	crisi	n-f$n$n-f-sp
 LR	cat	crisi	n-f-pl	ita	crisi	n-f$n$n-f-sp
 LR	cat	crisi	n-f-sg	ita	crisi	n-f$n$n-f-sp
@@ -2312,7 +2312,7 @@ LR	cat	crit	n-m$n$n-m-sg	ita	grido	n-m-sg$n-m
 LR	cat	crit	n-m-pl	ita	grido	n-f-pl
 RL	cat	crit	n-m-pl	ita	grido	n-f-pl
 RL	cat	crit	n-m$n$n-m-sg	ita	grido	n-m-sg$n-m
-	cat	croada	n$n-f	ita	crociata	n-f$n
+	cat	croada	n-f$n	ita	crociata	n-f$n
 	cat	cromosoma	n-m$n	ita	cromosoma	n$n-m
 	cat	cromàtic	adj$	ita	cromatico	adj$adj-sup
 	cat	cronologia	n-f$n	ita	cronologia	n-f$n
@@ -2331,13 +2331,13 @@ LR	cat	crueltat	n-f-pl	ita	crudeltà	n-f$n-f-sp
 	cat	crític	adj$	ita	critico	$adj$adj-sup
 	cat	crític	n$n-f	ita	critico	n$n-m
 	cat	crònic	adj$	ita	cronico	adj$$adj-sup
-	cat	crònica	n$n-f	ita	cronaca	n-f$n
+	cat	crònica	n-f$n	ita	cronaca	n-f$n
 	cat	cua	n-f$n	ita	coda	n-f$n
 	cat	cub	n$n-m	ita	cubo	n-m$n
 	cat	cubisme	n-m$n$n-m-sg	ita	cubismo	n$n-m
 	cat	cubà	adj	ita	cubano	adj$adj-sup
 	cat	cuc	n-m$n	ita	lombrico	n-m
-	cat	cuina	n$n-f	ita	cucina	n-f$n
+	cat	cuina	n-f$n	ita	cucina	n-f$n
 	cat	cuiner	n$n-m	ita	cuoco	n$n-GD
 	cat	cuir	n-m$n	ita	cuoio	n$n-m$n-f-m
 	cat	cul	n$n-m	ita	culo	n-m$n
@@ -2352,8 +2352,8 @@ LR	cat	culte	adj-mf-pl$adj$	ita	colto	adj-GD-pl
 	cat	cultiu	n-m$n	ita	coltivazione	n-f
 	cat	cultura	n$n-f	ita	cultura	n-f$n
 	cat	cultural	adj$adj-mf$	ita	culturale	adj$$adj-mf
-	cat	cura	n-f$n	ita	cura	n-f
-	cat	cura	n-f$n	ita	prete	n-m
+	cat	cura	n-f	ita	cura	n-f
+	cat	cura	n-f	ita	prete	n-m
 	cat	curiós	adj$$adj-sup	ita	curioso	$adj$adj-sup
 	cat	currículum	n$n-m$n-m-pl	ita	curriculum	n$n-m
 	cat	curs	n-m$n	ita	corso	n-m$n
@@ -2373,9 +2373,9 @@ LR	cat	curós	adj$$adj-sup	ita	attento	$adj$adj-f
 	cat	càrrec	n-m$n	ita	carico	n-m$$n
 	cat	càrrega	n-f$n$n-f-ND	ita	carica	n-f$n
 	cat	càstig	n-m$n	ita	castigo	n-f$n
-	cat	càtedra	n$n-f	ita	cattedra	n-f$n
+	cat	càtedra	n-f$n	ita	cattedra	n-f$n
 	cat	cèlebre	adj$adj-mf$	ita	celebre	adj$$adj-sup
-	cat	cèl·lula	n$n-f	ita	cellula	n-f$n
+	cat	cèl·lula	n-f$n	ita	cellula	n-f$n
 	cat	cèrcol	n-m$n	ita	cerchio	n-m$n
 	cat	cérvol	n$n-m	ita	cervo	n$n-m
 	cat	cítric	adj$	ita	citrico	adj$adj-sup
@@ -2421,20 +2421,20 @@ LR	cat	decibel	n-m-pl	ita	decibel	n-m-sp$n-m
 RL	cat	decibel	n-m-ND	ita	decibel	n-m-sp$n-m
 	cat	decimal	adj$adj-mf	ita	decimale	adj$$adj-mf
 	cat	decisiu	adj$	ita	decisivo	adj$$adj-sup
-	cat	decisió	n$n-f	ita	decisione	n-f$n
+	cat	decisió	n-f$n	ita	decisione	n-f$n
 	cat	declaració	n-f$n	ita	dichiarazione	n-f$n
 	cat	defecte	n-m$n	ita	difetto	n-m$n
 	cat	defensa	n-mf$n	ita	difesa	n-f$n
 	cat	deficient	adj$adj-mf$	ita	deficiente	adj$$adj-mf
 	cat	deficient	n-mf$n	ita	deficiente	n-mf$n
-	cat	definició	n$n-f	ita	definizione	n-f$n
+	cat	definició	n-f$n	ita	definizione	n-f$n
 	cat	definitiu	adj$	ita	definitivo	adj$$adj-sup
 	cat	defunció	n-f	ita	morte	n-f$n
 	cat	defunció	n-f	ita	decesso	n-m$n
 	cat	degoteig	n-m$n	ita	gocciolio	n
 	cat	degradació	n-f$n	ita	degradazione	n-f$n
 	cat	degradant	adj$adj-mf$	ita	degradante	adj$adj-mf
-	cat	deixadesa	n	ita	sciattezza	n$n-f
+	cat	deixadesa	n$n-f	ita	sciattezza	n$n-f
 	cat	deixalla	n-f$n	ita	scarto	n-m$n
 	cat	deixant	n-m$n	ita	stele	n$n-f
 	cat	deixeble	n-m-sg	ita	discepolo	n-m$n-m-sg
@@ -2457,11 +2457,11 @@ RL	cat	delta	n-m-ND	ita	delta	n-mf-sp
 	cat	democràtic	adj$	ita	democratico	adj$$adj-m
 	cat	demografia	n-f$n	ita	demografia	n-f$n
 	cat	demolició	n$n-f	ita	demolizione	n-f$n
-	cat	demostració	n$n-f	ita	dimostrazione	n-f$n
-	cat	demència	n$n-f	ita	demenza	n-f$n
+	cat	demostració	n-f$n	ita	dimostrazione	n-f$n
+	cat	demència	n-f$n	ita	demenza	n-f$n
 	cat	denegació	n-f$n	ita	rifiuto	n-m
-	cat	denominació	n$n-f	ita	denominazione	n-f$n
-RL	cat	densitat	n$n-f$n-f-ND	ita	densità	n-f-sp$n-f
+	cat	denominació	n-f$n	ita	denominazione	n-f$n
+RL	cat	densitat	n-f$n$n-f-ND	ita	densità	n-f-sp$n-f
 LR	cat	densitat	n-f-sg	ita	densità	n-f-sp$n-f
 LR	cat	densitat	n-f-pl	ita	densità	n-f-sp$n-f
 	cat	dent	n-f$n	ita	dente	n-m$n
@@ -2479,7 +2479,7 @@ LR	cat	addicte	n-m-sg	ita	dipendente	n-mf$
 LR	cat	addicte	n-f-sg	ita	dipendente	n-mf$
 LR	cat	addicte	n-mf-pl$n	ita	dipendente	n-mf$
 LR	cat	depenent	adj$adj-mf	ita	dipendente	adj$adj-mf$adj-mf-sg
-	cat	depressió	n$n-f	ita	depressione	n-f$n
+	cat	depressió	n-f$n	ita	depressione	n-f$n
 	cat	depuració	n-f$n	ita	depurazione	n$n-f
 LR	cat	depòsit	n-m$n	ita	deposito	n-m$n
 LR	cat	depòsit	n-m$n	ita	custodia	n-f$n
@@ -2490,17 +2490,17 @@ LR	cat	depòsit	n-m$n	ita	custodia	n-f$n
 	cat	desastre	n-m$n	ita	disastro	n-m$n
 LR	cat	desballestament	n-m$n	ita	demolizione	n-f$n
 	cat	descens	n-m$n	ita	retrocessione	n-f
-	cat	descentralització	n$n-f	ita	devoluzione	n$n-f
-	cat	descentralització	n$n-f	ita	decentralizzazione	n$n-f
+	cat	descentralització	n-f$n	ita	devoluzione	n$n-f
+	cat	descentralització	n-f$n	ita	decentralizzazione	n$n-f
 	cat	descomposició	n-f$n	ita	decomposizione	n-f$n
 	cat	descomunal	adj	ita	straordinario	$adj$adj-GD
 	cat	desconfiança	n$n-f	ita	diffidenza	n-f$n
 	cat	descontent	adj$	ita	scontento	adj$$adj-sup
-	cat	descripció	n$n-f	ita	descrizione	n-f$n
+	cat	descripció	n-f$n	ita	descrizione	n-f$n
 	cat	desdejuni	n$n-m	ita	colazione	n-f
 	cat	desembocadura	n$n-f	ita	sbocco	n-m
 	cat	desembre	n$n-m	ita	dicembre	n$n-m
-LR	cat	desenrotllament	n$n-m	ita	sviluppo	n-m$n
+LR	cat	desenrotllament	n-m$n	ita	sviluppo	n-m$n
 	cat	desenvolupament	n-m$n	ita	sviluppo	n-m$n
 	cat	desequilibrat	adj$	ita	squilibrato	$adj
 	cat	desert	adj$	ita	deserto	$adj$adj-f
@@ -2515,7 +2515,7 @@ LR	cat	desenrotllament	n$n-m	ita	sviluppo	n-m$n
 	cat	desig	n-m$n	ita	desiderio	n-m$n
 	cat	designi	n$n-m	ita	intento	n-m$$n
 	cat	desigual	adj$adj-mf$	ita	disuguale	adj$$adj-mf
-	cat	desinfecció	n$n-f	ita	disinfezione	n$n-f
+	cat	desinfecció	n-f$n	ita	disinfezione	n$n-f
 	cat	desinfectant	n-m$n	ita	disinfettante	$n$n-m
 	cat	deslleial	adj$adj-mf$	ita	sleale	adj$$adj-m
 	cat	desmesurat	adj	ita	smisurato	adj$$adj-sup
@@ -2533,14 +2533,14 @@ LR	cat	dessecació	n-f$n	ita	disidratazione	n$n-f
 	cat	destinació	n-f$n	ita	destinazione	n-f$n
 	cat	destitució	n-f$n	ita	destituzione	n$n-f
 	cat	destral	n$n-f	ita	ascia	n$n-f
-	cat	destrucció	n$n-f	ita	distruzione	n-f$n
+	cat	destrucció	n-f$n	ita	distruzione	n-f$n
 	cat	destructor	adj$	ita	distruttore	adj$
 	cat	destructor	n-m$n	ita	cacciatorpediniere	n-m$n
 	cat	destí	n-m$n	ita	destino	n-m$n
 	cat	destí	n-m$n	ita	destinazione	n-f$n
 	cat	destí	n-m$n	ita	destinazione	n-f$n
 	cat	desídia	n$n-f	ita	apatia	n$n-f
-	cat	detecció	n$n-f	ita	rilevazione	n$n-f
+	cat	detecció	n-f$n	ita	rilevazione	n$n-f
 LR	cat	detectiu	n$n-mf	ita	investigatore	n-GD
 RL	cat	detectiu	n$n-mf	ita	investigatore	n-m$n
 RL	cat	detectiu	n$n-mf	ita	investigatore	n-f
@@ -2549,7 +2549,7 @@ RL	cat	detectiu	n$n-mf	ita	investigatore	n-f
 	cat	detergent	n-m$n	ita	detergente	n-m$n$
 	cat	deterioració	n-f	ita	deterioramento	n$n-m
 	cat	deteriorament	n-m$n	ita	deterioramento	n$n-m
-	cat	determinació	n$n-f	ita	determinazione	n-f$n
+	cat	determinació	n-f$n	ita	determinazione	n-f$n
 	cat	determinant	adj$	ita	determinante	adj$adj-mf
 RL	cat	deure	n$n-m$n-m-pl	ita	dovere	n-m$n$n-m-pl
 	cat	deure	n$n-m$n-m-pl	ita	compito	n-m$n
@@ -2591,12 +2591,12 @@ LR	cat	dictamen	n-m$n	ita	risposta	n-f$n
 	cat	difamació	n-f$n	ita	diffamazione	n-f$n
 	cat	diferent	adj-mf$adj$	ita	differente	adj$adj-mf$
 LR	cat	diferent	adj-mf$adj$	ita	distinto	$adj$adj-sup
-	cat	diferència	n$n-f	ita	differenza	n-f$n
+	cat	diferència	n-f$n	ita	differenza	n-f$n
 RL	cat	dificultat	n-f$n$n-f-ND	ita	difficoltà	n-f$n-f-sp
 LR	cat	dificultat	n-f-sg	ita	difficoltà	n-f$n-f-sp
 LR	cat	dificultat	n-f-pl	ita	difficoltà	n-f$n-f-sp
 	cat	difunt	n$n-m$	ita	defunto	n$n-f
-	cat	difusió	n$n-f	ita	diffusione	n-f$n
+	cat	difusió	n-f$n	ita	diffusione	n-f$n
 	cat	difícil	adj$adj-mf$	ita	difficile	$adj$adj-mf
 	cat	digestió	n-f$n	ita	digestione	n$n-f
 	cat	digital	adj$adj-mf$	ita	digitale	adj$$adj-mf
@@ -2614,7 +2614,7 @@ LR	cat	dignitat	n-f-pl	ita	dignità	n-f$n-f-sp
 	cat	dimarts	n-m-sp$n-m$n	ita	martedì	n$n-m-sp$n-m
 	cat	dimecres	n-m-sp$n-m$n	ita	mercoledì	n$n-m-sp$n-m
 	cat	dimensional	adj$$adj-mf	ita	dimensionale	adj$adj-mf
-	cat	dimensió	n$n-f	ita	dimensione	n-f$n
+	cat	dimensió	n-f$n	ita	dimensione	n-f$n
 	cat	diminut	adj	ita	minuto	adj$$adj-sup
 	cat	dimoni	n$n-m	ita	demone	n-m$n
 	cat	dinamisme	n-m$n	ita	dinamismo	n$n-m
@@ -2631,14 +2631,14 @@ LR	cat	dignitat	n-f-pl	ita	dignità	n-f$n-f-sp
 	cat	diploma	n-m$n	ita	diploma	n-m$n
 	cat	diplomàtic	adj$	ita	laureato	adj
 	cat	diplomat	n$n-m$	ita	laureato	n$n-m$
-	cat	diplomàcia	n$n-f	ita	diplomazia	n$n-f
+	cat	diplomàcia	n-f$n	ita	diplomazia	n$n-f
 	cat	diplomàtic	adj$	ita	diplomatico	adj$$adj-sup
 	cat	diplomàtic	n$n-m	ita	diplomatico	n$n-m
 	cat	diputat	n$n-f	ita	deputato	n$n-m
 	cat	dipòsit	n-m$n	ita	deposito	n-m$n
 LR	cat	dipòsit	n-m$n	ita	custodia	n-f$n
-	cat	direcció	n$n-f	ita	indirizzo	n-m$n
-	cat	direcció	n$n-f	ita	direzione	n-f$n
+	cat	direcció	n-f$n	ita	indirizzo	n-m$n
+	cat	direcció	n-f$n	ita	direzione	n-f$n
 	cat	directe	adj-f-sg	ita	diretto	adj-f-sg
 	cat	directe	adj-m-sg	ita	diretto	adj-m-sg
 RL	cat	directe	adj-mf-pl$adj$	ita	diretto	adj-f-pl
@@ -2648,24 +2648,24 @@ LR	cat	directe	adj-mf-pl$adj$	ita	diretto	adj-GD-pl
 LR	cat	directori	n-m$n$n-m-sg	ita	directory	n-f-sp
 LR	cat	directori	n-m-pl	ita	directory	n-f-sp
 RL	cat	directori	n-m-ND	ita	directory	n-f-sp
-	cat	directriu	n$n-f	ita	direttrice	n$n-f
+	cat	directriu	n-f$n	ita	direttrice	n$n-f
 	cat	dirigent	n-mf$n	ita	dirigente	n$n-m$
 	cat	dirigible	n-m$n	ita	dirigibile	n$n-m
 	cat	disc	n-m$n	ita	disco	n-m$n
 	cat	discapacitat	n-f$n	ita	handicap	n-m-sp$n-m
 	cat	discontinu	adj$	ita	discontinuo	$adj
-	cat	discoteca	n$n-f	ita	discoteca	n-f$n
+	cat	discoteca	n-f$n	ita	discoteca	n-f$n
 	cat	discrecional	adj$adj-mf$	ita	discrezionale	adj$adj-mf
 	cat	discret	adj$	ita	discreto	$adj$adj-sup
-	cat	discriminació	n$n-f	ita	discriminazione	n-f$n
+	cat	discriminació	n-f$n	ita	discriminazione	n-f$n
 	cat	discriminatori	adj$	ita	discriminatorio	adj$adj-f
 	cat	discurs	n-m$n	ita	allocuzione	n-f
 	cat	discussió	n-f$n	ita	discussione	n-f$n
 	cat	discutible	adj-mf$adj$	ita	discutibile	$adj$adj-mf
 	cat	discòrdia	n-f$n	ita	discordia	n-f$n
 	cat	disfunció	n-f$n	ita	disfunzione	n-f$n
-	cat	dislocació	n$n-f	ita	dislocazione	n$n-m
-	cat	disminució	n$n-f	ita	diminuzione	n-f$n
+	cat	dislocació	n-f$n	ita	dislocazione	n$n-m
+	cat	disminució	n-f$n	ita	diminuzione	n-f$n
 	cat	dispersió	n-f$n	ita	dispersione	n$n-f
 LR	cat	disponibilitat	n-f$n$n-f-sg	ita	disponibilità	n-f-sp$n-f
 LR	cat	disponibilitat	n-f-pl	ita	disponibilità	n-f-sp$n-f
@@ -2682,22 +2682,22 @@ LR	cat	disseny	n-m-pl	ita	design	n-m-sp$n-m
 	cat	dissenyador	n$n-m	ita	disegnatore	n$n-GD
 	cat	dissetè	adj$adj-ord$adj-ord-GD-ND	ita	diciassettesimo	adj$adj-ord
 	cat	dissident	adj$adj-mf	ita	dissidente	adj$$adj-mf
-	cat	dissolució	n$n-f	ita	dissoluzione	n$n-f
+	cat	dissolució	n-f$n	ita	dissoluzione	n$n-f
 	cat	distant	adj$adj-mf$	ita	distante	adj$adj-mf$
 	cat	distint	adj$$adj-m	ita	distinto	$adj$adj-sup
 	cat	distintiu	adj$	ita	distintivo	adj$adj-sup
 	cat	distintiu	n-m$n	ita	distintivo	n-m$n$
 	cat	distorsió	n-f$n	ita	distorsione	n-f$n
-	cat	distribució	n$n-f	ita	distribuzione	n-f$n
+	cat	distribució	n-f$n	ita	distribuzione	n-f$n
 	cat	districte	n-m$n	ita	distretto	n$n-m
-	cat	distància	n$n-f	ita	distanza	n-f$n
+	cat	distància	n-f$n	ita	distanza	n-f$n
 	cat	dit	n-m$n$n-m-sg	ita	dito	n-m-sg$n-m$n
 	cat	dit	n-m-pl	ita	dito	n-f-pl
-	cat	ditada	n-f$n	ita	dito	n-m-sg$n-m$n
-	cat	ditada	n-f$n	ita	dito	n-f-pl
+	cat	ditada	n-f	ita	dito	n-m-sg$n-m$n
+	cat	ditada	n-f	ita	dito	n-f-pl
 	cat	diumenge	n$n-m	ita	domenica	n-f$n
 	cat	divendres	n-m-sp$n-m$n	ita	venerdì	n$n-m-sp$n-m
-	cat	divergència	n$n-f	ita	divergenza	n-f$n
+	cat	divergència	n-f$n	ita	divergenza	n-f$n
 LR	cat	diversitat	n$n-f$n-f-sg	ita	diversità	n-f-sp$n-f
 LR	cat	diversitat	n-f-pl	ita	diversità	n-f-sp$n-f
 RL	cat	diversitat	n-f-ND	ita	diversità	n-f-sp$n-f
@@ -2705,8 +2705,8 @@ RL	cat	diversitat	n-f-ND	ita	diversità	n-f-sp$n-f
 RL	cat	divinitat	n-f$n$n-f-ND	ita	divinità	n-f-sp$n-f
 LR	cat	divinitat	n-f-sg	ita	divinità	n-f-sp$n-f
 LR	cat	divinitat	n-f-pl	ita	divinità	n-f-sp$n-f
-	cat	divisa	n$n-f	ita	divisa	n$n-f
-	cat	divisió	n$n-f	ita	divisione	n-f$n
+	cat	divisa	n-f$n	ita	divisa	n$n-f
+	cat	divisió	n-f$n	ita	divisione	n-f$n
 	cat	divorci	n$n-m	ita	divorzio	n$n-m
 	cat	divuitè	adj$adj-ord$adj-ord-GD-ND	ita	diciottesimo	adj$adj-ord
 	cat	divulgatiu	adj	ita	divulgativo	adj$$adj-sup
@@ -2733,9 +2733,9 @@ RL	cat	doble	n-m$n	ita	doppio	n-f
 	cat	doctor	n$n-m	ita	dottore	n$n-m$
 	cat	doctoral	adj$adj-mf	ita	dottorale	adj$adj-mf
 	cat	doctorat	n-m$n	ita	dottorato	n$n-m
-	cat	doctrina	n$n-f	ita	dottrina	n-f$n
+	cat	doctrina	n-f$n	ita	dottrina	n-f$n
 	cat	document	n-m$n	ita	documento	n-m$n
-	cat	documentació	n$n-f	ita	documentazione	n$n-f
+	cat	documentació	n-f$n	ita	documentazione	n$n-f
 	cat	documental	adj$$adj-mf	ita	documentale	adj$adj-mf
 	cat	documental	n$n-m	ita	documentario	n$n-m$
 	cat	dofí	n-m$n	ita	delfino	n-m$n
@@ -2756,7 +2756,7 @@ LR	cat	domòtica	n-f-pl	ita	domotica	n-f-sp
 RL	cat	domòtica	n-f-ND	ita	domotica	n-f-sp
 	cat	dona	n-f$n	ita	donna	n-f$n
 RL	cat	dona	n-f$n	ita	moglie	n-f$n
-	cat	marit	n$n-m	ita	marito	n-m$n
+	cat	marit	n-m$n	ita	marito	n-m$n
 	cat	donació	n-f$n	ita	donazione	n$n-f
 LR	cat	donant	n-mf$n	ita	donatore	n-GD$n
 RL	cat	donant	n-mf$n	ita	donatore	n-m
@@ -2772,7 +2772,7 @@ RL	cat	dopatge	n-m-ND	ita	doping	n-m-sp$n-m
 	cat	dosi	n-f-pl	ita	dose	n$n-f
 	cat	dosi	n-f-sg	ita	dose	n$n-f
 	cat	dot	n-m	ita	dote	n-f
-	cat	dotzena	n$n-f	ita	dozzina	n$n-f
+	cat	dotzena	n-f$n	ita	dozzina	n$n-f
 	cat	dotzè	adj$adj-ord$adj-ord-GD-ND	ita	dodicesimo	adj$adj-ord
 	cat	drac	n$n-m	ita	drago	n$n-m
 	cat	drama	n-m$n	ita	dramma	n-m$n
@@ -2786,7 +2786,7 @@ RL	cat	dopatge	n-m-ND	ita	doping	n-m-sp$n-m
 	cat	drogoaddicció	n-f$n	ita	tossicodipendenza	n$n-f
 	cat	drogodependència	n-f$n	ita	tossicodipendenza	n$n-f
 	cat	dualitat	n-f$n	ita	dualismo	n-m
-	cat	duana	n$n-f$n-f-pl	ita	dogana	n$n-f$n-f-sg
+	cat	duana	n-f$n$n-f-pl	ita	dogana	n$n-f$n-f-sg
 	cat	dubte	n-m$n	ita	dubbio	n-f
 	cat	dubte	n-m$n	ita	dubbio	n-m$$n
 	cat	duc	n$n-m	ita	duca	n$n-m
@@ -2819,7 +2819,7 @@ LR	cat	eben	n$n-m	ita	ebano	n$n-m
 	cat	economista	n-mf$n$	ita	economista	n-m$n
 	cat	econòmic	adj$	ita	economico	adj$$adj-sup
 	cat	ecosistema	n-m$n	ita	ecosistema	n$n-m
-LR	cat	edat	n$n-f$n-f-sg	ita	età	n-f-sp$n-f
+LR	cat	edat	n-f$n$n-f-sg	ita	età	n-f-sp$n-f
 LR	cat	edat	n-f-pl	ita	età	n-f-sp$n-f
 RL	cat	edat	n-f-ND	ita	età	n-f-sp$n-f
 	cat	edema	n-m$n	ita	edema	n$n-m
@@ -2827,8 +2827,8 @@ RL	cat	edat	n-f-ND	ita	età	n-f-sp$n-f
 	cat	cadàver	n-m$n	ita	cadavere	n-m$n
 	cat	assessor	n$n-m	ita	assessore	n-mf$n
 	cat	requisit	n-m$n	ita	requisit	n
-	cat	edició	n$n-f	ita	edizione	n-f$n
-	cat	edificació	n$n-f	ita	edilizia	n$n-f
+	cat	edició	n-f$n	ita	edizione	n-f$n
+	cat	edificació	n-f$n	ita	edilizia	n$n-f
 	cat	edifici	n-m$n	ita	edificio	n-m$n
 	cat	editorial	n-m$n	ita	editoriale	n$n-m$$n-m-ND
 	cat	editor	n$n-GD	ita	editore	n$n-m$
@@ -2840,7 +2840,7 @@ LR	cat	eficaç	adj-f-pl	ita	efficace	$adj$adj-mf-pl$adj-mf
 LR	cat	eficaç	adj-m-pl	ita	efficace	$adj$adj-mf-pl$adj-mf
 RL	cat	eficaç	adj-GD-pl	ita	efficace	$adj$adj-mf-pl$adj-mf
 	cat	eficiència	n$n-f	ita	efficienza	n$n-f
-	cat	eficàcia	n$n-f	ita	efficacia	n$n-f
+	cat	eficàcia	n-f$n	ita	efficacia	n$n-f
 	cat	efímer	adj$	ita	effimero	adj$$adj-sup
 	cat	egipci	adj	ita	egiziano	adj$$adj-sup
 	cat	egipci	adj	ita	egizio	adj$
@@ -2855,14 +2855,14 @@ RL	cat	egoista	adj-mf$adj$	ita	egoista	adj-f
 	cat	eix	n-m$n	ita	asse	n-mf
 	cat	ejaculació	n-f$n	ita	eiaculazione	n$n-f
 	cat	el	detnt	ita	lo	detnt
-	cat	elaboració	n$n-f	ita	elaborazione	n-f$n
+	cat	elaboració	n-f$n	ita	elaborazione	n-f$n
 RL	cat	elasticitat	n-f$n$n-f-ND	ita	elasticità	n-f-sp$n-f
 LR	cat	elasticitat	n-f-sg	ita	elasticità	n-f-sp$n-f
 LR	cat	elasticitat	n-f-pl	ita	elasticità	n-f-sp$n-f
 	cat	elecció	n-f$n	ita	elezione	n-f$n
 	cat	electoral	adj$adj-mf$	ita	elettorale	adj$$adj-mf
 	cat	electorat	n-m$n	ita	elettorato	n$n-m
-RL	cat	electricitat	n$n-f$n-f-ND	ita	elettricità	n-f-sp$n-f
+RL	cat	electricitat	n-f$n$n-f-ND	ita	elettricità	n-f-sp$n-f
 LR	cat	electricitat	n-f-sg	ita	elettricità	n-f-sp$n-f
 LR	cat	electricitat	n-f-pl	ita	elettricità	n-f-sp$n-f
 	cat	electrocardiograma	n-m$n	ita	elettrocardiogramma	n$n-m
@@ -2882,7 +2882,7 @@ LR	cat	elevador	n-f	ita	elevatore	n-m
 RL	cat	elevador	n-GD	ita	elevatore	n-m
 	cat	eliminació	n-f$n	ita	eliminazione	n-f$n
 	cat	elèctric	adj$	ita	elettrico	adj$$adj-sup
-	cat	emancipació	n$n-f	ita	emancipazione	n-f$n
+	cat	emancipació	n-f$n	ita	emancipazione	n-f$n
 	cat	embalatge	n-m$n	ita	imballaggio	n-m$n
 	cat	embargament	n$n-m	ita	embargo	n-m$n
 	cat	embaràs	n-m$n	ita	gravidanza	n-f
@@ -2909,7 +2909,7 @@ LR	cat	empedrat	n-m-pl	ita	pavé	n-m-sp
 	cat	emperador	n$n-m	ita	imperatore	n$n-m
 	cat	empleat	n$n-m	ita	impiegato	n$n-m
 	cat	empremta	n-f$n	ita	impronta	n-f$n
-	cat	empresa	n$n-f	ita	impresa	n-f$n
+	cat	empresa	n-f$n	ita	impresa	n-f$n
 	cat	empresari	n$n-f	ita	imprenditore	n$n-m
 	cat	empresarial	adj$adj-mf	ita	imprenditoriale	adj$adj-mf
 	cat	empíric	adj$	ita	empirico	adj$$adj-sup
@@ -2920,7 +2920,7 @@ LR	cat	empedrat	n-m-pl	ita	pavé	n-m-sp
 RL	cat	encarregat	adj	ita	preposto	adj$$adj-sup
 	cat	encarregat	n$n-m	ita	preposto	n
 	cat	encenedor	n-m$n	ita	accendino	n$n-m
-	cat	enciam	n-m$n	ita	lattuga	n-f$n
+	cat	enciam	n-m	ita	lattuga	n-f$n
 	cat	enciclopèdia	n-f$n	ita	enciclopedia	n-f$n
 LR	cat	encisador	adj$	ita	incantatore	adj$
 	cat	enclavament	n-m$n	ita	enclave	n-f
@@ -2951,14 +2951,14 @@ RL	cat	col·lega	n-mf$n$n-mf-pl	ita	collega	n-m-pl
 RL	cat	col·lega	n-mf$n$n-mf-pl	ita	collega	n-f$n-f-pl
 	cat	ennuvolat	adj$adj-sup$	ita	nuvoloso	adj$
 	cat	enorme	adj$adj-mf$	ita	enorme	$adj$adj-mf
-	cat	enquesta	n$n-f	ita	inchiesta	n-f$n
-	cat	enrampada	n-f$n	ita	crampo	n-m$n
+	cat	enquesta	n-f$n	ita	inchiesta	n-f$n
+	cat	enrampada	n-f	ita	crampo	n-m$n
 	cat	enregistrament	n-m$n	ita	registrazione	n-f$n
 	cat	enriquiment	n-m$n	ita	arricchimento	n$n-m
 LR	cat	ens	n-m-sp$n-m	ita	ente	n-m$n$n-m-ND
 RL	cat	ens	n-m-sp$n-m	ita	ente	n-m-pl
 RL	cat	ens	n-m-sp$n-m	ita	ente	n-m-sg
-LR	cat	ensarronada	n-f$n	ita	inganno	n-m$n
+LR	cat	ensarronada	n-f	ita	inganno	n-m$n
 	cat	ensenyament	n-m$n	ita	insegnamento	n-f
 	cat	ensenyament	n-m$n	ita	insegnamento	n-m
 LR	cat	ensorrada	n-f	ita	affondamento	n$n-m
@@ -2999,7 +2999,7 @@ RL	cat	equipament	n-m$n	ita	apparecchiatura	n-f
 	cat	esbós	n$n-m	ita	abbozzo	n-m$n
 	cat	escac	n-m-pl$n-m	ita	scacchi	n-sp
 	cat	escala	n-f$n-f-pl$n	ita	scala	n-f$n$n-f-pl
-	cat	escalada	n$n-f	ita	arrampicata	n$n-f
+	cat	escalada	n-f$n	ita	arrampicata	n$n-f
 	cat	escalfador	n$n-m	ita	riscaldatore	n$n-m
 	cat	escalfador	n$n-m	ita	scaldabagno	n-m$n
 	cat	escalfament	n$n-m	ita	riscaldamento	n-m$n
@@ -3010,7 +3010,7 @@ LR	cat	escassetat	n-f$n$n-f-sg	ita	scarsità	n-f-sp$n-f
 LR	cat	escassetat	n-f-pl	ita	scarsità	n-f-sp$n-f
 RL	cat	escassetat	n-f-ND	ita	scarsità	n-f-sp$n-f
 	cat	escata	n-f$n	ita	squama	n-f$n
-	cat	escena	n$n-f	ita	scena	n-f$n
+	cat	escena	n-f$n	ita	scena	n-f$n
 	cat	escenari	n-m$n	ita	palcoscenico	n-m$n
 	cat	escenari	n-m$n	ita	palco	n-m$n
 	cat	escenografia	n-f$n	ita	scenografia	n-f$n
@@ -3074,7 +3074,7 @@ RL	cat	esmòquing	n-m-ND	ita	smoking	n-m-sp$n-m
 	cat	espai	n-m$n	ita	spazio	n-m$n
 	cat	espanyol	adj$	ita	spagnolo	adj$adj-sup$
 	cat	espanyol	n$n-f	ita	spagnolo	n$n-m
-	cat	espasa	n$n-f$n-f-pl	ita	spada	n$n-f
+	cat	espasa	n-f$n$n-f-pl	ita	spada	n$n-f
 	cat	espatlla	n-f$n	ita	spalla	n-f
 	cat	especial	adj$adj-mf$	ita	speciale	adj$$adj-mf
 	cat	especialització	n-f$n	ita	specializzazione	n-f$n
@@ -3089,7 +3089,7 @@ RL	cat	esmòquing	n-m-ND	ita	smoking	n-m-sp$n-m
 LR	cat	esperanto	n$n-m-sg$n-m	ita	esperanto	n-m-sp$n-m
 LR	cat	esperanto	n-m-pl	ita	esperanto	n-m-sp$n-m
 RL	cat	esperanto	n-m-ND	ita	esperanto	n-m-sp$n-m
-	cat	esperança	n$n-f	ita	speranza	n-f$n
+	cat	esperança	n-f$n	ita	speranza	n-f$n
 	cat	esperit	n-m$n	ita	spirito	n-m$n
 	cat	espermatozoide	n$n-m	ita	spermatozoo	n$n-m
 	cat	espia	n-mf$n	ita	spia	n-f$n
@@ -3098,7 +3098,7 @@ LR	cat	espill	n-m$n	ita	specchio	n-m$n
 	cat	espinac	n-m	ita	spinacio	n-m
 	cat	espinal	adj$$adj-mf	ita	spinale	adj$adj-mf
 	cat	espionatge	n-m$n	ita	spionaggio	n$n-m
-	cat	espira	n$n-f	ita	spira	n$n-f
+	cat	espira	n-f$n	ita	spira	n$n-f
 	cat	espiral	n$n-f	ita	spirale	n-f$n
 	cat	espiritual	adj$adj-mf$	ita	spirituale	adj$$adj-mf
 	cat	esponja	n-f$n	ita	spugna	n-f$n
@@ -3133,7 +3133,7 @@ RL	cat	esquí	n-m-ND	ita	sci	n-m-sp$n-m$n
 LR	cat	est	n-m$n$n-m-sg	ita	est	n-m-sp$n-m$$n
 LR	cat	est	n-m-pl	ita	est	n-m-sp$n-m$$n
 RL	cat	est	n-m-ND	ita	est	n-m-sp$n-m$$n
-RL	cat	estabilitat	n$n-f$n-f-ND	ita	stabilità	n-f-sp$n-f
+RL	cat	estabilitat	n-f$n$n-f-ND	ita	stabilità	n-f-sp$n-f
 LR	cat	estabilitat	n-f-sg	ita	stabilità	n-f-sp$n-f
 LR	cat	estabilitat	n-f-pl	ita	stabilità	n-f-sp$n-f
 	cat	establa	n-f	ita	stalla	n-f
@@ -3191,19 +3191,19 @@ RL	cat	estudiantil	adj$adj-mf$	ita	studentesco	adj-f
 RL	cat	estudiantil	adj$adj-mf$	ita	studentesco	adj-m$adj
 LR	cat	estudiantil	adj$adj-mf$	ita	studentesco	adj-GD
 	cat	estufa	n-f$n	ita	stufa	n$n-f
-	cat	estupor	n-f$n	ita	stupore	n-m$n
+	cat	estupor	n-f	ita	stupore	n-m$n
 LR	cat	estàndard	adj-mf-sg	ita	standard	adj-mf-sp$adj
 LR	cat	estàndard	adj-mf-pl	ita	standard	adj-mf-sp$adj
 RL	cat	estàndard	adj-mf-ND	ita	standard	adj-mf-sp$adj
 	cat	estàtua	n$n-f	ita	statua	n$n-f
 	cat	estèril	adj$adj-mf$	ita	sterile	$adj$adj-mf
 	cat	estètic	adj$	ita	estetico	adj$$adj-sup
-	cat	estètica	n$n-f	ita	estetica	n$n-f
+	cat	estètica	n-f$n	ita	estetica	n$n-f
 	cat	estímul	n-m$n	ita	incentivazione	n-f
 	cat	estómac	n-m$n	ita	stomaco	n$n-m
 	cat	estómec	n$n-m	ita	stomaco	n$n-m
 	cat	estúpid	adj$	ita	stupido	$adj$adj-sup
-	cat	etapa	n$n-f	ita	tappa	n-f$n
+	cat	etapa	n-f$n	ita	tappa	n-f$n
 	cat	etern	adj$$adj-GD	ita	eterno	adj$$adj-sup
 RL	cat	eternitat	n-f$n$n-f-ND	ita	eternità	n-f-sp$n-f
 LR	cat	eternitat	n-f-sg	ita	eternità	n-f-sp$n-f
@@ -3211,7 +3211,7 @@ LR	cat	eternitat	n-f-pl	ita	eternità	n-f-sp$n-f
 RL	cat	sanitat	n$n-f$n-f-ND	ita	sanità	n-f$n-f-sp
 LR	cat	sanitat	n-f-sg	ita	sanità	n-f$n-f-sp
 LR	cat	sanitat	n-f-pl	ita	sanità	n-f$n-f-sp
-RL	cat	flexibilitat	n$n-f$n-f-ND	ita	flessibilità	n-f-sp$n-f
+RL	cat	flexibilitat	n-f$n$n-f-ND	ita	flessibilità	n-f-sp$n-f
 LR	cat	flexibilitat	n-f-sg	ita	flessibilità	n-f-sp$n-f
 LR	cat	flexibilitat	n-f-pl	ita	flessibilità	n-f-sp$n-f
 RL	cat	paritat	n-f$n$n-f-ND	ita	parità	n-f-sp$n-f
@@ -3239,9 +3239,9 @@ RL	cat	euro	n-m-ND	ita	euro	n-m-sp$n-m
 	cat	evaporació	n-f$n	ita	evaporazione	n$n-f
 	cat	evasió	n-f$n	ita	evasione	n-f$n
 	cat	eventual	adj$adj-mf$	ita	eventuale	adj$$adj-sup
-	cat	evidència	n$n-f	ita	evidenza	n-f$n
+	cat	evidència	n-f$n	ita	evidenza	n-f$n
 	cat	evocació	n-f$n	ita	evocazione	n$n-f
-	cat	evolució	n$n-f	ita	evoluzione	n-f$n
+	cat	evolució	n-f$n	ita	evoluzione	n-f$n
 	cat	evolutiu	adj$	ita	evolutivo	adj$
 	cat	exacte	adj-f-sg	ita	esatto	adj-f$adj-f-sg
 	cat	exacte	adj-m-sg	ita	esatto	adj-m$adj-m-sg
@@ -3263,10 +3263,10 @@ LR	cat	excentricitat	n-f-pl	ita	eccentricità	n-f-sp$n-f
 	cat	excepcional	adj$adj-mf$	ita	eccezionale	$adj$adj-mf
 	cat	excepció	n$n-f	ita	eccezione	n$n-f
 	cat	exclusiu	adj$	ita	esclusivo	adj$$adj-m
-	cat	exclusió	n$n-f	ita	esclusione	n-f$n
+	cat	exclusió	n-f$n	ita	esclusione	n-f$n
 	cat	excomunió	n-f$n	ita	scomunica	n-f$n
 	cat	excrement	n-m$n	ita	escremento	n-m$n
-	cat	execució	n$n-f	ita	esecuzione	n-f$n
+	cat	execució	n-f$n	ita	esecuzione	n-f$n
 	cat	executiu	n$n-m	ita	esecutivo	n$$n-m
 	cat	executiu	adj$	ita	esecutivo	adj$adj-sup
 	cat	exemplar	adj$adj-mf	ita	esemplare	adj$adj-mf
@@ -3274,14 +3274,14 @@ LR	cat	excentricitat	n-f-pl	ita	eccentricità	n-f-sp$n-f
 	cat	exemple	n-m$n	ita	esempio	n-m$n
 	cat	exercici	n-m$n	ita	esercizio	n-m$n
 	cat	exigible	adj$adj-mf	ita	esigibile	adj$adj-mf
-	cat	exigència	n$n-f	ita	esigenza	n-f$n
+	cat	exigència	n-f$n	ita	esigenza	n-f$n
 	cat	exili	n$n-m	ita	esilio	n-m$n
 	cat	exiliat	n$$n-m	ita	esiliato	n
 	cat	existencial	adj$$adj-mf	ita	esistenziale	adj$$adj-mf
 	cat	existent	adj$adj-mf$	ita	esistente	adj$adj-mf
-	cat	existència	n$n-f	ita	esistenza	n-f$n
-	cat	expansió	n$n-f	ita	espansione	n-f$n
-	cat	expectativa	n$n-f	ita	aspettativa	n-f$n
+	cat	existència	n-f$n	ita	esistenza	n-f$n
+	cat	expansió	n-f$n	ita	espansione	n-f$n
+	cat	expectativa	n-f$n	ita	aspettativa	n-f$n
 	cat	expedició	n-f$n	ita	rilascio	n-m
 	cat	expenedor	adj	ita	distributore	adj
 	cat	experiment	n-m$n	ita	esperimento	n-m$n
@@ -3297,8 +3297,8 @@ LR	cat	excentricitat	n-f-pl	ita	eccentricità	n-f-sp$n-f
 	cat	exportació	n-f$n	ita	esportazione	n-f$n
 	cat	exposició	n-f$n	ita	esposizione	n-f$n
 	cat	expressionisme	n-m$n$n-m-sg	ita	espressionismo	n$n-m
-	cat	expressió	n$n-f	ita	espressione	n-f$n
-	cat	expropiació	n$n-f	ita	espropriazione	n$n-f
+	cat	expressió	n-f$n	ita	espressione	n-f$n
+	cat	expropiació	n-f$n	ita	espropriazione	n$n-f
 	cat	expulsió	n-f$n	ita	espulsione	n-f$n
 	cat	extensió	n$n-f	ita	estensione	n-f$n
 	cat	exterior	adj-mf$adj$	ita	esteriore	adj-mf$adj$
@@ -3339,13 +3339,13 @@ LR	cat	facilitat	n-f-pl	ita	facilità	n-f-sp$n-f
 LR	cat	facultat	n-f$n$n-f-sg	ita	facoltà	n-f$n-f-sp
 LR	cat	facultat	n-f-pl	ita	facoltà	n-f$n-f-sp
 RL	cat	facultat	n-f-ND	ita	facoltà	n-f$n-f-sp
-	cat	fada	n$n-f	ita	fata	n$n-f
-	cat	faena	n-f$n	ita	lavoro	n-m$n
+	cat	fada	n-f$n	ita	fata	n$n-f
+	cat	faena	n-f	ita	lavoro	n-m$n
 	cat	faisà	n$n-m	ita	fagiano	n-m$n
 	cat	falcó	n-m$n	ita	falco	n-m$n
 	cat	falda	n-f$n$n-f-sg	ita	gonna	n$n-f
 	cat	faldilla	n-f$n	ita	gonna	n$n-f
-	cat	fallada	n-f$n	ita	fallo	n-m$n
+	cat	fallada	n-f	ita	fallo	n-m$n
 	cat	fallida	n$n-f	ita	fallimento	n-m$n
 	cat	fals	adj$	ita	falso	$adj$adj-sup
 	cat	falta	n-f$n	ita	mancanza	n-f$n
@@ -3375,13 +3375,13 @@ RL	cat	bluf	n-m-ND	ita	bluff	n-m-sp$n-m
 	cat	farmacèutic	n$n-m	ita	farmacista	n$n-mf
 	cat	farmàcia	n-f$n	ita	farmacia	n-f$n
 	cat	farratge	n-m$n	ita	foraggio	n-m$n
-	cat	farsa	n$n-f	ita	farsa	n$n-f
+	cat	farsa	n-f$n	ita	farsa	n$n-f
 	cat	fascicle	n-m$n	ita	fascicolo	n-m$n
 	cat	fascinant	adj$adj-mf$	ita	affascinante	$adj$adj-mf
 	cat	fase	n$n-f	ita	fase	n-f$n
 	cat	fatal	adj$$adj-mf	ita	fatale	adj$$adj-mf
 	cat	fatalisme	n-m$n$n-m-sg	ita	fatalismo	n$n-m
-	cat	fauna	n$n-f	ita	fauna	n-f$n
+	cat	fauna	n-f$n	ita	fauna	n-f$n
 LR	cat	fava	n-f$n	ita	seme	n-m
 	cat	favor	n-m$n	ita	favore	n-m$n
 LR	cat	fax	n-m$n$n-m-sg	ita	fax	n-m-sp$n-m
@@ -3407,7 +3407,7 @@ RL	cat	feixista	adj$adj-mf	ita	fascista	$adj-m$adj
 RL	cat	feixista	adj$adj-mf	ita	fascista	adj-f
 	cat	feixista	n-mf$n$	ita	fascista	n$n-m
 	cat	felicitació	n$n-f	ita	congratulazione	n-f$n
-RL	cat	felicitat	n$n-f$n-f-ND	ita	felicità	n-f-sp$n-f
+RL	cat	felicitat	n-f$n$n-f-ND	ita	felicità	n-f-sp$n-f
 LR	cat	felicitat	n-f-sg	ita	felicità	n-f-sp$n-f
 LR	cat	felicitat	n-f-pl	ita	felicità	n-f-sp$n-f
 	cat	fem	n-m$n$n-m-pl	ita	letame	n$n-m
@@ -3438,7 +3438,7 @@ RL	cat	ferrer	n-GD	ita	fabbro	n-m$n
 	cat	ferro	n$n-m	ita	ferro	n-m$n
 	cat	ferrocarril	n$n-m	ita	ferrovia	n-f$n
 	cat	ferrocarril	n$n-m	ita	occupazione	n-f$n
-	cat	festa	n$n-f	ita	festa	n-f$n
+	cat	festa	n-f$n	ita	festa	n-f$n
 	cat	festeig	n-m$n	ita	corteggiamento	n$n-m
 LR	cat	festival	n$n-m$n-m-sg	ita	festival	n-m-sp$n-m
 LR	cat	festival	n-m-pl	ita	festival	n-m-sp$n-m
@@ -3478,7 +3478,7 @@ LR	cat	film	n-m$n	ita	film	n-m$n-m-sp$n
 	cat	filòsof	n$n-m	ita	filosofo	n-m$n
 	cat	final	adj$adj-mf	ita	finale	$adj$adj-mf
 	cat	final	n-m$n$	ita	finale	n-f$n
-	cat	finalitat	n$n-f$n-f-pl	ita	fine	n-mf
+	cat	finalitat	n-f$n$n-f-pl	ita	fine	n-mf
 	cat	financer	adj$	ita	finanziario	adj$$adj-sup
 	cat	finançament	n-m$n	ita	finanziamento	n-f
 	cat	finançament	n-m$n	ita	finanziamento	n-m$n
@@ -3502,11 +3502,11 @@ RL	cat	fitxer	n-m$n$n-m-ND	ita	file	n-m-sp$n-m
 LR	cat	fitxer	n-m-sg	ita	file	n-m-sp$n-m
 LR	cat	fitxer	n-m-pl	ita	file	n-m-sp$n-m
 	cat	flaire	n-f$n	ita	odore	n-m$n
-	cat	flama	n$n-f	ita	fiamma	n-f$n
-	cat	flassada	n$n-f	ita	coperta	n$n-f
+	cat	flama	n-f$n	ita	fiamma	n-f$n
+	cat	flassada	n-f$n	ita	coperta	n$n-f
 	cat	flauta	n-f$n	ita	flauto	n-m
 	cat	flequer	n$n-m	ita	panettiere	n$n-GD
-	cat	fletxa	n$n-f	ita	freccia	n-f$n
+	cat	fletxa	n-f$n	ita	freccia	n-f$n
 	cat	flexible	adj$adj-mf$	ita	flessibile	adj$$adj-mf
 	cat	flor	n-f$n	ita	fiore	n-m$n
 	cat	flora	n-f$n	ita	flora	n-f$n
@@ -3540,7 +3540,7 @@ RL	cat	fons	n-m-sp$n-m$n	ita	fondo	n-m-sg
 RL	cat	fons	n-m-sp$n-m$n	ita	fondo	n-m-pl
 RL	cat	fons	n-m-sp$n-m$n	ita	sfondo	n-m$n$n-m-sg
 RL	cat	fons	n-m-sp$n-m$n	ita	sfondo	n-m-pl
-	cat	font	n$n-f	ita	fonte	n-f$n
+	cat	font	n-f$n	ita	fonte	n-f$n
 	cat	forestal	adj$adj-mf$	ita	forestale	adj$adj-mf
 	cat	forma	n-f$n	ita	veste	n-f$n
 	cat	forma	n-f$n	ita	metodo	n-m$n
@@ -3561,19 +3561,19 @@ RL	cat	fons	n-m-sp$n-m$n	ita	sfondo	n-m-pl
 LR	cat	fort	adj-f	ita	forte	adj$adj-mf
 LR	cat	fort	adj-m	ita	forte	adj$adj-mf
 RL	cat	fort	adj$adj-GD$	ita	forte	adj$adj-mf
-	cat	fortalesa	n$n-f	ita	fortezza	n$n-f
-	cat	fortalesa	n$n-f	ita	potere	n-m$$n
+	cat	fortalesa	n-f$n	ita	fortezza	n$n-f
+	cat	fortalesa	n-f$n	ita	potere	n-m$$n
 	cat	fortuna	n-f$n	ita	fortuna	n-f$n
 	cat	força	n-f$n	ita	forza	n-f$n$n-f-m
 	cat	fosa	n-f$n	ita	fusione	n-f$n
 	cat	fosc	adj$	ita	scuro	$adj$adj-sup
-LR	cat	fosca	n$n-f$n-f-sg	ita	oscurità	n-f-sp$n-f
+LR	cat	fosca	n-f$n$n-f-sg	ita	oscurità	n-f-sp$n-f
 LR	cat	fosca	n-f-pl	ita	oscurità	n-f-sp$n-f
 RL	cat	foscor	n-f-ND	ita	oscurità	n-f-sp$n-f
 LR	cat	foscor	n$n-f$n-f-sg	ita	oscurità	n-f-sp$n-f
 LR	cat	foscor	n-f-pl	ita	oscurità	n-f-sp$n-f
 	cat	fosfat	n$n-m	ita	fosfato	n$n-m
-	cat	fossa	n$n-f	ita	fossa	n-f$n
+	cat	fossa	n-f$n	ita	fossa	n-f$n
 	cat	fossar	n$n-m	ita	cimitero	n$n-m
 LR	cat	foto	n-f$n$n-f-sg	ita	foto	n-f-sp$n-f
 LR	cat	foto	n-f-pl	ita	foto	n-f-sp$n-f
@@ -3604,11 +3604,11 @@ LR	cat	franquista	adj-mf$adj	ita	franchista	adj-GD$adj
 RL	cat	franquista	adj-mf$adj	ita	franchista	adj-m
 RL	cat	franquista	adj-mf$adj	ita	franchista	adj-f
 	cat	franquista	n-mf$n$	ita	franchista	n$n-GD
-LR	cat	franquícia	n$n-f$n-f-sg	ita	franchising	n-m-sp
+LR	cat	franquícia	n-f$n$n-f-sg	ita	franchising	n-m-sp
 LR	cat	franquícia	n-f-pl	ita	franchising	n-m-sp
 RL	cat	franquícia	n-f-ND	ita	franchising	n-m-sp
 	cat	frare	n$n-m	ita	frate	n$n-m$n-m-ND
-	cat	frase	n$n-f	ita	frase	n-f$n
+	cat	frase	n-f$n	ita	frase	n-f$n
 LR	cat	fraternal	adj-mf$adj$	ita	fraterno	adj-GD
 RL	cat	fraternal	adj-mf$adj$	ita	fraterno	adj-m$adj
 RL	cat	fraternal	adj-mf$adj$	ita	fraterno	adj-f
@@ -3620,7 +3620,7 @@ RL	cat	fraternal	adj-mf$adj$	ita	fraterno	adj-f
 	cat	fregona	n$n-f	ita	radazza	n$n-f
 	cat	frenètic	adj$	ita	frenetico	$adj
 	cat	freqüent	adj$adj-mf$	ita	frequente	adj$$adj-mf
-	cat	freqüència	n$n-f	ita	frequenza	n-f$n
+	cat	freqüència	n-f$n	ita	frequenza	n-f$n
 	cat	fresc	adj$$adj-f	ita	fresco	adj$$adj-sup
 	cat	fresc	n-m$n	ita	affresco	n-m$n
 RL	cat	freturós	adj-GD	ita	carente	$adj$adj-mf
@@ -3657,9 +3657,9 @@ LR	cat	fruiter	adj-f-pl	ita	da frutta	adj-mf-sp
 	cat	funcionament	n-m$n	ita	funzionamento	n-m$n
 	cat	funcionari	n$n-m	ita	funzionario	n$n-m
 	cat	funció	n-f$n	ita	funzione	n-f$n
-	cat	fundació	n$n-f	ita	fondazione	n-f$n
+	cat	fundació	n-f$n	ita	fondazione	n-f$n
 	cat	fundador	n$n-m	ita	fondatore	n$n-m
-	cat	fundició	n$n-f	ita	fusione	n-f$n
+	cat	fundició	n-f$n	ita	fusione	n-f$n
 	cat	funeral	n-m-sg$n$n-m	ita	funerale	n$n-m
 	cat	funicular	n-m$n	ita	funicolare	n-f
 	cat	furgó	n-m$n	ita	carrozza	n-f
@@ -3685,7 +3685,7 @@ RL	cat	futbolista	n-mf$n	ita	calciatore	n-f
 	cat	futbolístic	adj$	ita	calcistico	adj
 	cat	futur	adj$	ita	futuro	adj
 	cat	futur	n-m$n	ita	futuro	n-m$$n
-	cat	fàbrica	n$n-f	ita	fabbrica	n$n-f
+	cat	fàbrica	n-f$n	ita	fabbrica	n$n-f
 	cat	fàcil	adj$adj-mf$	ita	facile	adj$$adj-m
 	cat	fàstic	n$n-m	ita	schifo	n-m$n
 	cat	fèrtil	adj$$adj-mf	ita	fertile	$adj$adj-sup
@@ -3715,7 +3715,7 @@ LR	cat	gaire	preadv	ita	molto	preadv
 	cat	gallec	adj$	ita	galiziano	adj$adj-sup
 	cat	gallec	n$n-m	ita	galiziano	n$n-GD
 	cat	galleda	n-f	ita	cubo	n-m$n
-	cat	gallina	n$n-f	ita	gallina	n-f$n
+	cat	gallina	n-f$n	ita	gallina	n-f$n
 	cat	galàxia	n-f$n	ita	galassia	n$n-f
 	cat	galó	n-m$n	ita	gallone	n$n-m
 	cat	gamba	n-f$n	ita	gambero	n-m
@@ -3736,7 +3736,7 @@ LR	cat	garatge	n-m-pl	ita	garage	n-m-sp$n-m
 RL	cat	garatge	n-m-ND	ita	garage	n-m-sp$n-m
 	cat	garbull	n$n-m	ita	intreccio	n-m$n
 LR	cat	garjola	n-f$n	ita	prigione	n-f$n$n-f-m
-	cat	garrafa	n$n-f	ita	caraffa	n-f$n
+	cat	garrafa	n-f$n	ita	caraffa	n-f$n
 LR	cat	gas	n-m$n$n-m-sg	ita	gas	n-m-sp$n-m
 LR	cat	gas	n-m-pl	ita	gas	n-m-sp$n-m
 RL	cat	gas	n-m-ND	ita	gas	n-m-sp$n-m
@@ -3788,7 +3788,7 @@ LR	cat	genoll	n-m$n$n-m-sg	ita	ginocchio	n-m-sg$n-m$n
 	cat	geològic	adj$	ita	geologico	adj$$adj-sup
 	cat	geometria	n-f$n	ita	geometria	n$n-f
 	cat	geomètric	adj$	ita	geometrico	adj$
-	cat	gerani	n$n-m	ita	geranio	n$n-m
+	cat	gerani	n-m$n	ita	geranio	n$n-m
 	cat	gerd	n-m	ita	lampone	n-m
 LR	cat	gerdó	n-m	ita	lampone	n-m
 	cat	germanor	n-f$n	ita	fratellanza	n-f$n
@@ -3801,7 +3801,7 @@ LR	cat	gerdó	n-m	ita	lampone	n-m
 	cat	gestació	n-f$n	ita	gestazione	n$n-f
 	cat	gestió	n$n-f$n-f-sg	ita	gestione	n-f$n
 	cat	gestual	adj	ita	gestuale	adj$adj-mf
-	cat	gimnàstica	n$n-f	ita	ginnastica	n-f$n
+	cat	gimnàstica	n-f$n	ita	ginnastica	n-f$n
 LR	cat	ginebra	n-f$n$n-f-sg	ita	gin	n-m-sp
 LR	cat	ginebra	n-f-pl	ita	gin	n-m-sp
 RL	cat	ginebra	n-f-ND	ita	gin	n-m-sp
@@ -3814,13 +3814,13 @@ RL	cat	ginebra	n-f-ND	ita	gin	n-m-sp
 	cat	glacial	adj$adj-mf$	ita	glaciale	$adj$adj-mf
 	cat	glaç	n-m$n	ita	ghiaccio	n$n-m
 	cat	global	adj$adj-mf$	ita	globale	$adj$adj-mf
-	cat	globalització	n$n-f	ita	globalizzazione	n$n-f
+	cat	globalització	n-f$n	ita	globalizzazione	n$n-f
 	cat	glucosa	n-f$n	ita	glucosio	n-m
 RL	cat	gluten	n-m-sp$n-m	ita	glutine	n-m$n-m-sg$n
 RL	cat	gluten	n-m-sp$n-m	ita	glutine	n-m-pl
 LR	cat	gluten	n-m-sp$n-m	ita	glutine	n-m-ND
-	cat	glàndula	n$n-f	ita	ghiandola	n$n-f
-	cat	glòria	n$n-f	ita	gloria	n-f$n
+	cat	glàndula	n-f$n	ita	ghiandola	n$n-f
+	cat	glòria	n-f$n	ita	gloria	n-f$n
 	cat	goig	n-m$n	ita	godimento	n-m$n
 LR	cat	gol	n-m$n$n-m-sg	ita	goal	n-m-sp$n-m
 LR	cat	gol	n-m-pl	ita	goal	n-m-sp$n-m
@@ -3857,7 +3857,7 @@ RL	cat	governant	adj-GD	ita	governante	adj-mf
 	cat	grandària	n-f$n	ita	dimensione	n-f$n
 	cat	granet	n$n-m	ita	granito	n$n-m
 	cat	granit	n-m$n	ita	granito	n$n-m
-	cat	granja	n$n-f	ita	fattoria	n$n-f
+	cat	granja	n-f$n	ita	fattoria	n$n-f
 	cat	gratacel	n$n-m$n-m-ND	ita	grattacielo	n$n-m
 	cat	gratacel	n-m-pl	ita	grattacielo	n$n-m
 	cat	gratacel	n-m-sg	ita	grattacielo	n$n-m
@@ -3904,20 +3904,20 @@ RL	cat	guardià	n-GD	ita	custode	n-mf
 	cat	gueto	n-m$n	ita	ghetto	n$n-m
 	cat	guineu	n-f$n	ita	volpe	n-f
 LR	cat	guionet	n-m$n	ita	sceneggiatura	n-f
-	cat	guitarra	n$n-f	ita	chitarra	n$n-f
+	cat	guitarra	n-f$n	ita	chitarra	n$n-f
 	cat	guitarrista	n-mf$n	ita	chitarrista	n$n-GD
 	cat	guió	n-m$n	ita	sceneggiatura	n-f
 	cat	gust	n-m$n	ita	gusto	n-m$n
 	cat	guàrdia	n-mf$n	ita	guardia	n-f$n
 	cat	gènere	n-m$n	ita	genere	n-m$n
-	cat	habilitació	n$n-f	ita	abilitazione	n-f$n
+	cat	habilitació	n-f$n	ita	abilitazione	n-f$n
 RL	cat	habilitat	n-f$n$n-f-ND	ita	abilità	n-f$n-f-sp
 LR	cat	habilitat	n-f-sg	ita	abilità	n-f$n-f-sp
 LR	cat	habilitat	n-f-pl	ita	abilità	n-f$n-f-sp
 LR	cat	habitabilitat	n-f$n$n-f-sg	ita	abitabilità	n-f-sp$n-f
 LR	cat	habitabilitat	n-f-pl	ita	abitabilità	n-f-sp$n-f
 RL	cat	habitabilitat	n-f-ND	ita	abitabilità	n-f-sp$n-f
-	cat	habitació	n$n-f	ita	abitazione	n-f$n
+	cat	habitació	n-f$n	ita	abitazione	n-f$n
 	cat	habitacle	n-m$n	ita	abitacolo	n-m$n
 RL	cat	habitant	n-mf$n	ita	abitatore	n-m$n
 RL	cat	habitant	n-mf$n	ita	abitatore	n-f
@@ -3935,7 +3935,7 @@ RL	cat	handicap	n-m-ND	ita	handicap	n-m-sp$n-m
 LR	cat	hangar	n-m$n$n-m-sg	ita	hangar	n-m-sp$n-m
 LR	cat	hangar	n-m-pl	ita	hangar	n-m-sp$n-m
 RL	cat	hangar	n-m-ND	ita	hangar	n-m-sp$n-m
-	cat	harmonia	n$n-f	ita	armonia	n-f$n
+	cat	harmonia	n-f$n	ita	armonia	n-f$n
 	cat	harpia	n$n-f	ita	arpia	n-f$n
 	cat	hebreu	adj$	ita	ebreo	adj$$adj-f
 	cat	hecatombe	n-f$n	ita	ecatombe	n$n-f
@@ -3953,7 +3953,7 @@ LR	cat	hepatitis	n-f-sp$n-f$n	ita	epatite	n$n-f$n-f-ND
 RL	cat	hepatitis	n-f-sp$n-f$n	ita	epatite	n-f-sg
 RL	cat	hepatitis	n-f-sp$n-f$n	ita	epatite	n-f-pl
 	cat	herald	n-m$n	ita	araldo	n$n-m
-	cat	herba	n$n-f	ita	erba	n-f$n
+	cat	herba	n-f$n	ita	erba	n-f$n
 	cat	hereditari	adj$	ita	ereditario	adj
 LR	cat	hereu	n$n-m	ita	erede	n-mf$n
 LR	cat	hereu	n-f	ita	erede	n-mf$n
@@ -3967,18 +3967,18 @@ LR	cat	herència	n-f$n$n-f-sg	ita	eredità	n-f-sp$n-f
 LR	cat	herència	n-f-pl	ita	eredità	n-f-sp$n-f
 RL	cat	herència	n-f-ND	ita	eredità	n-f-sp$n-f
 	cat	heterosexual	n$	ita	eterosessuale	n$n-mf$
-	cat	hibernació	n$n-f	ita	letargo	n-m$n
+	cat	hibernació	n-f$n	ita	letargo	n-m$n
 	cat	hibridació	n-f$n	ita	ibridizzazione	n$n-f
 	cat	hidroavió	n-m$n	ita	idrovolante	n$n-m
 	cat	hidrocarbur	n-m$n	ita	idrocarburo	n$n-m
-	cat	hidròlisi	n-f$n-f-ND$n	ita	idrolisi	n-f-sp
+	cat	hidròlisi	n-f$n-f-ND	ita	idrolisi	n-f-sp
 	cat	hidròlisi	n-f-pl	ita	idrolisi	n-f-sp
 	cat	hidròlisi	n-f-sg	ita	idrolisi	n-f-sp
 	cat	hidròxid	n-m$n	ita	idrossido	n$n-m
 	cat	hiena	n-f$n	ita	iena	n$n-f
 	cat	higiene	n-f$n	ita	igiene	n-f$n
 	cat	higròmetre	n$n-m	ita	igrometro	n$n-m
-RL	cat	hilaritat	n$n-f$n-f-ND	ita	ilarità	n-f-sp$n-f
+RL	cat	hilaritat	n-f$n$n-f-ND	ita	ilarità	n-f-sp$n-f
 LR	cat	hilaritat	n-f-sg	ita	ilarità	n-f-sp$n-f
 LR	cat	hilaritat	n-f-pl	ita	ilarità	n-f-sp$n-f
 	cat	himne	n-m$n	ita	inno	n-m$n
@@ -3988,7 +3988,7 @@ RL	cat	hiperactivitat	n-f-ND	ita	iperattività	n-f-sp$n-f
 	cat	hipocondria	n$n-f	ita	ipocondria	n$n-f
 	cat	hipopòtam	n$n-m	ita	ippopotamo	n$n-m
 	cat	hipoteca	n-f$n	ita	ipoteca	n-f$n
-	cat	hipotensió	n$n-f	ita	ipotensione	n$n-f
+	cat	hipotensió	n-f$n	ita	ipotensione	n$n-f
 	cat	hipotèrmia	n$n-f	ita	ipotermia	n$n-f
 LR	cat	hipòcrita	adj$adj-mf$	ita	ipocrita	adj-GD
 RL	cat	hipòcrita	adj$adj-mf$	ita	ipocrita	adj$adj-m
@@ -4028,7 +4028,7 @@ RL	cat	hongarès	adj-GD	ita	ungherese	adj-mf$adj
 	cat	honorífic	adj$	ita	onorifico	adj$adj-sup
 	cat	honra	n-f$n	ita	onore	n-m$n
 LR	cat	hoquei	n-m-sp$n$n-m	ita	hockey	n-m-sp$n-m
-	cat	hora	n$n-f	ita	ora	n-f$n
+	cat	hora	n-f$n	ita	ora	n-f$n
 	cat	horari	n-m$n	ita	orario	n-m$n$
 	cat	horari	adj	ita	orario	adj$adj-sup
 	cat	horitzontal	adj$adj-mf$	ita	orizzontale	adj$$adj-mf
@@ -4049,16 +4049,16 @@ LR	cat	hotel	n-m$n$n-m-sg	ita	hotel	n-m-sp$n-m
 LR	cat	hotel	n-m-pl	ita	hotel	n-m-sp$n-m
 RL	cat	hotel	n-m-ND	ita	hotel	n-m-sp$n-m
 	cat	humanitari	adj$	ita	umanitario	adj$
-RL	cat	humanitat	n$n-f$n-f-ND	ita	umanità	n-f$n-f-sp
+RL	cat	humanitat	n-f$n$n-f-ND	ita	umanità	n-f$n-f-sp
 LR	cat	humanitat	n-f-sg	ita	umanità	n-f$n-f-sp
 LR	cat	humanitat	n-f-pl	ita	umanità	n-f$n-f-sp
-RL	cat	humanitat	n$n-f$n-f-ND	ita	humanità	n-f-sp
-	cat	humanitat	n$n-f$n-f-ND	ita	humanità	n-f-sp
-	cat	humiliació	n$n-f	ita	umiliazione	n-f$n
-RL	cat	humilitat	n$n-f$n-f-ND	ita	umiltà	n-f-sp$n-f
+RL	cat	humanitat	n-f$n$n-f-ND	ita	humanità	n-f-sp
+	cat	humanitat	n-f$n$n-f-ND	ita	humanità	n-f-sp
+	cat	humiliació	n-f$n	ita	umiliazione	n-f$n
+RL	cat	humilitat	n-f$n$n-f-ND	ita	umiltà	n-f-sp$n-f
 LR	cat	humilitat	n-f-sg	ita	umiltà	n-f-sp$n-f
 LR	cat	humilitat	n-f-pl	ita	umiltà	n-f-sp$n-f
-RL	cat	humitat	n$n-f$n-f-ND	ita	umidità	n-f-sp$n-f
+RL	cat	humitat	n-f$n$n-f-ND	ita	umidità	n-f-sp$n-f
 LR	cat	humitat	n-f-sg	ita	umidità	n-f-sp$n-f
 LR	cat	humitat	n-f-pl	ita	umidità	n-f-sp$n-f
 	cat	humor	n-m$n	ita	umorismo	n$n-m
@@ -4080,8 +4080,8 @@ RL	cat	iceberg	n-m-ND	ita	iceberg	n-m-sp
 	cat	idea	n$n-f	ita	idea	n-f$n
 	cat	ideal	adj$adj-mf$	ita	ideale	adj$$adj-mf
 	cat	idealisme	n-m$n$n-m-sg	ita	idealismo	n$n-m
-	cat	identificació	n$n-f	ita	identificazione	n$n-f
-RL	cat	identitat	n$n-f$n-f-ND	ita	identità	n-f-sp$n-f
+	cat	identificació	n-f$n	ita	identificazione	n$n-f
+RL	cat	identitat	n-f$n$n-f-ND	ita	identità	n-f-sp$n-f
 LR	cat	identitat	n-f-sg	ita	identità	n-f-sp$n-f
 LR	cat	identitat	n-f-pl	ita	identità	n-f-sp$n-f
 	cat	ideologia	n$n-f	ita	ideologia	n-f$n
@@ -4092,7 +4092,7 @@ RL	cat	idiota	adj$adj-mf	ita	idiota	adj-f
 LR	cat	idiota	adj$adj-mf	ita	idiota	adj-GD
 	cat	idiota	n-mf$n$	ita	idiota	n-m$n$
 	cat	idèntic	adj$	ita	identico	$adj$adj-sup
-	cat	ignorància	n$n-f	ita	ignoranza	n-f$n
+	cat	ignorància	n-f$n	ita	ignoranza	n-f$n
 	cat	igual	adj$adj-mf	ita	uguale	$adj$adj-sup
 	cat	illa	n$n-f	ita	isola	n-f$n
 	cat	il·legal	adj$adj-mf$	ita	illegale	$adj$adj-mf
@@ -4110,7 +4110,7 @@ LR	cat	idiota	adj$adj-mf	ita	idiota	adj-GD
 	cat	imminent	adj$adj-mf$	ita	imminente	adj$$adj-mf
 	cat	immobiliària	n$n-f	ita	immobiliare	n
 	cat	immoral	adj-mf$adj$	ita	immorale	$adj$adj-mf
-RL	cat	immunitat	n$n-f$n-f-ND	ita	immunità	n-f-sp$n-f
+RL	cat	immunitat	n-f$n$n-f-ND	ita	immunità	n-f-sp$n-f
 LR	cat	immunitat	n-f-sg	ita	immunità	n-f-sp$n-f
 LR	cat	immunitat	n-f-pl	ita	immunità	n-f-sp$n-f
 	cat	immòbil	adj$adj-mf$	ita	immobile	$adj$adj-mf
@@ -4138,12 +4138,12 @@ RL	cat	imperfecte	adj$adj-mf-pl$	ita	imperfetto	adj-f-pl
 	cat	impopular	adj$$adj-mf	ita	impopolare	adj$$adj-m
 	cat	importació	n-f$n	ita	importazione	n-f$n
 	cat	important	adj$adj-mf$	ita	importante	$adj$adj-mf
-	cat	importància	n$n-f	ita	importanza	n-f$n
+	cat	importància	n-f$n	ita	importanza	n-f$n
 	cat	imposició	n-f$n	ita	imposizione	n-f$n
 	cat	impost	n$n-m$n-m-pl	ita	imposta	n-f
-	cat	impotència	n$n-f	ita	impotenza	n-f$n
+	cat	impotència	n-f$n	ita	impotenza	n-f$n
 	cat	impremta	n-f$n	ita	stampa	n-f$n$
-	cat	impressió	n$n-f	ita	impressione	n-f$n
+	cat	impressió	n-f$n	ita	impressione	n-f$n
 	cat	imprevisible	adj$adj-mf$	ita	imprevedibile	adj$$adj-mf
 	cat	imprevist	n	ita	imprevisto	n-m$n
 	cat	imprevist	adj$	ita	imprevisto	adj$$adj-sup
@@ -4160,12 +4160,12 @@ RL	cat	impunitat	n-f-ND	ita	impunità	n-f-sp$n-f
 	cat	incentiu	n-m$n	ita	incentivo	n-m$n
 	cat	incessant	adj$$adj-mf	ita	incessante	adj$$adj-m
 	cat	incident	n$n-m	ita	incidente	n$n-m
-	cat	incidència	n$n-f	ita	incidenza	n$n-f
+	cat	incidència	n-f$n	ita	incidenza	n$n-f
 	cat	incineració	n-f$n	ita	incenerimento	n-m
 	cat	incisiu	adj$	ita	incisivo	adj$$adj-sup
 	cat	incitació	n-f$n	ita	incitamento	n-m
-	cat	inclinació	n-f$n	ita	inclinazione	n-f$n
-	cat	inclinació	n-f$n	ita	attaccamento	n-m$n
+	cat	inclinació	n-f	ita	inclinazione	n-f$n
+	cat	inclinació	n-f	ita	attaccamento	n-m$n
 	cat	inclinat	adj$$adj-sup	ita	inclinato	adj$$adj-sup
 	cat	incomparable	adj$adj-mf$	ita	incomparabile	adj$$adj-mf
 	cat	incompatible	adj$adj-mf$	ita	incompatibile	adj$$adj-mf
@@ -4229,12 +4229,12 @@ LR	cat	infertilitat	n-f-pl	ita	sterilità	n-f-sp$n-f
 	cat	infiltració	n-f$n	ita	infiltrazione	n$n-f
 	cat	infinit	adj$	ita	infinito	adj$$adj-sup
 	cat	infinit	n-m$n	ita	infinito	n-m$n
-	cat	inflació	n$n-f	ita	inflazione	n-f$n
-	cat	influència	n$n-f	ita	influenza	n-f$n
+	cat	inflació	n-f$n	ita	inflazione	n-f$n
+	cat	influència	n-f$n	ita	influenza	n-f$n
 	cat	informació	n-f$n	ita	informazione	n-mf
 	cat	informal	adj$adj-mf$	ita	informale	adj$$adj-mf
 LR	cat	informe	n$n-m	ita	rapporto	n-m$n
-	cat	infraestructura	n$n-f	ita	infrastruttura	n$n-f
+	cat	infraestructura	n-f$n	ita	infrastruttura	n$n-f
 	cat	infundat	adj$$adj-sup	ita	infondato	$adj
 	cat	infusió	n-f$n	ita	infuso	n-m
 	cat	ingenu	adj$	ita	ingenuo	$adj$adj-sup
@@ -4248,30 +4248,30 @@ LR	cat	inhabilitació	n-f$n	ita	divieto	n-m
 	cat	injustícia	n-f$n	ita	ingiustizia	n-f$n
 	cat	innat	adj$	ita	innato	adj$
 LR	cat	innombrable	adj$adj-mf$	ita	innumerevole	adj$adj-mf$
-	cat	innovació	n$n-f	ita	innovazione	n-f$n
+	cat	innovació	n-f$n	ita	innovazione	n-f$n
 	cat	innumerable	adj$adj-mf$	ita	innumerevole	adj$adj-mf$
 	cat	inoxidable	adj$adj-mf$	ita	inossidabile	adj$$adj-mf
 	cat	inquietant	adj$$adj-mf	ita	inquietante	adj$adj-mf$
-	cat	inscripció	n$n-f	ita	iscrizione	n-f$n
+	cat	inscripció	n-f$n	ita	iscrizione	n-f$n
 	cat	insecte	n$n-m	ita	insetto	n-m$n
 	cat	inseparable	adj$adj-mf$	ita	inseparabile	adj$$adj-m
 	cat	inserció	n-f$n	ita	inserimento	n-m
 	cat	insignificant	adj$adj-mf$	ita	insignificante	$adj$adj-mf
-	cat	insistència	n$n-f	ita	insistenza	n-f$n
+	cat	insistència	n-f$n	ita	insistenza	n-f$n
 	cat	insoluble	adj$$adj-mf	ita	insolubile	adj$adj-m$
 	cat	insolvent	adj$adj-mf	ita	insolvente	adj-mf$adj$
 	cat	insomni	n-m$n	ita	insonnia	n-f
 	cat	insostenible	adj$adj-mf	ita	insostenibile	adj$$adj-mf
 	cat	sostenible	adj$adj-mf	ita	sostenibile	adj$$adj-mf
 	cat	inspecció	n-f$n	ita	ispezione	n-f$n
-	cat	immigració	n$n-f	ita	immigrazione	n-f$n
+	cat	immigració	n-f$n	ita	immigrazione	n-f$n
 	cat	migració	n-f$n	ita	migrazione	n$n-f
 	cat	conclusió	n-f$n	ita	conclusione	n-f$n
 	cat	miliard	n$n-m$n-m-sg	ita	miliardo	n-m-sg
 LR	cat	miliard	n-m-pl	ita	miliardo	n-m$n$n-m-pl
 RL	cat	mil milions	n-m-sp$n-m	ita	miliardo	n-m$n$n-m-pl
 LR	cat	mil milions	n-m-sp$n-m	ita	miliardo	n-m-ND
-	cat	revisió	n$n-f	ita	revisione	n-f$n
+	cat	revisió	n-f$n	ita	revisione	n-f$n
 	cat	aprovat	n	ita	approvato	n
 	cat	aprovar	vblex	ita	approvare	n
 	cat	inspiració	n-f$n	ita	ispirazione	n-f$n
@@ -4283,20 +4283,20 @@ LR	cat	mil milions	n-m-sp$n-m	ita	miliardo	n-m-ND
 	cat	instigació	n-f$n	ita	istigazione	n$n-f
 	cat	instint	n-m$n	ita	istinto	n-m$n
 	cat	institucional	adj$adj-mf$	ita	istituzionale	adj$adj-mf
-	cat	institució	n$n-f	ita	istituzione	n-f$n
+	cat	institució	n-f$n	ita	istituzione	n-f$n
 	cat	institut	n-m$n	ita	istituto	n-m$n
-	cat	instrucció	n$n-f	ita	istruzione	n-f$n
+	cat	instrucció	n-f$n	ita	istruzione	n-f$n
 	cat	instrument	n-m$n	ita	strumento	n-m$n
 	cat	instrumental	adj-mf$adj$	ita	strumentale	$adj$adj-mf
-	cat	instància	n$n-f	ita	istanza	n-f$n
+	cat	instància	n-f$n	ita	istanza	n-f$n
 	cat	insubstituïble	adj	ita	insostituibile	adj$adj-mf
 	cat	insular	adj$$adj-mf	ita	insulare	adj$$adj-mf
 	cat	insulina	n-f$n	ita	insulina	n$n-f
 	cat	insult	n-m$n	ita	insulto	n-m$n
 	cat	insuperable	adj$adj-mf$	ita	insuperabile	adj$$adj-mf
 	cat	insurgència	n-f$n	ita	rivolta	n-f$n
-	cat	insurrecció	n$n-f	ita	rivolta	n-f$n
-	cat	insurrecció	n$n-f	ita	insurrezione	n-f$n
+	cat	insurrecció	n-f$n	ita	rivolta	n-f$n
+	cat	insurrecció	n-f$n	ita	insurrezione	n-f$n
 	cat	insípid	adj$	ita	insipido	$adj
 	cat	integració	n-f$n	ita	integrazione	n-f$n
 	cat	integral	adj$adj-mf$	ita	integrale	$adj$adj-mf
@@ -4307,19 +4307,19 @@ LR	cat	mil milions	n-m-sp$n-m	ita	miliardo	n-m-ND
 	cat	intemporal	adj-mf$adj$	ita	atemporale	adj$adj-mf
 	cat	intenció	n-f$n	ita	intenzione	n-mf
 	cat	intens	adj$$adj-sup	ita	intenso	$adj$adj-sup
-RL	cat	intensitat	n$n-f$n-f-ND	ita	intensità	n-f-sp$n-f
+RL	cat	intensitat	n-f$n$n-f-ND	ita	intensità	n-f-sp$n-f
 LR	cat	intensitat	n-f-sg	ita	intensità	n-f-sp$n-f
 LR	cat	intensitat	n-f-pl	ita	intensità	n-f-sp$n-f
 	cat	intent	n-m$n	ita	intento	n-m$$n
-	cat	interacció	n$n-f	ita	interazione	n$n-f
+	cat	interacció	n-f$n	ita	interazione	n$n-f
 	cat	interanual	adj$adj-mf	ita	interannuale	adj$adj-mf
 	cat	evident	adj$adj-mf$	ita	evidente	$adj$adj-sup
 RL	cat	intercanvi	n-m$n	ita	baratto	n-m$n
 	cat	intercanvi	n-m$n	ita	scambio	n-m$n
 	cat	interessant	adj$adj-mf$	ita	interessante	adj$$adj-mf
 	cat	intervenir	vblex	ita	intervenire	$vblex
-	cat	interpel·lació	n$n-f	ita	interrogazione	n$n-f
-LR	cat	interrogació	n$n-f	ita	interrogazione	n$n-f
+	cat	interpel·lació	n-f$n	ita	interrogazione	n$n-f
+LR	cat	interrogació	n-f$n	ita	interrogazione	n$n-f
 LR	cat	interrogatori	n-m$n	ita	interrogazione	n$n-f
 	cat	interferència	n-f$n	ita	interferenza	n-f$n
 LR	cat	intergovernamental	adj$adj-mf$	ita	intergovernativo	adj-GD
@@ -4344,19 +4344,19 @@ LR	cat	internet	n-f-sg	ita	internet	n-m-sp$n-m
 	cat	intervenció	n-f$n	ita	intervento	n-m
 	cat	interès	n-m$n	ita	interesse	n-m$n
 	cat	intestí	n-m$n	ita	intestino	n$n-m$n-f-m$
-	cat	intimidació	n$n-f	ita	intimidazione	n$n-f
+	cat	intimidació	n-f$n	ita	intimidazione	n$n-f
 	cat	intoxicació	n-f$n	ita	intossicazione	n$n-f
-	cat	introducció	n$n-f	ita	introduzione	n-f$n
+	cat	introducció	n-f$n	ita	introduzione	n-f$n
 	cat	introspecció	n-f$n	ita	introspezione	n$n-f
-	cat	intuïció	n$n-f	ita	intuizione	n-f$n
+	cat	intuïció	n-f$n	ita	intuizione	n-f$n
 	cat	intèrpret	n-mf$n	ita	interprete	n-mf$n
-	cat	inundació	n$n-f	ita	inondazione	n$n-f
+	cat	inundació	n-f$n	ita	inondazione	n$n-f
 LR	cat	inusual	adj$adj-mf$	ita	insolito	$adj$adj-GD
 RL	cat	inusual	adj$adj-mf$	ita	insolito	adj-m
 RL	cat	inusual	adj$adj-mf$	ita	insolito	adj-f
 	cat	inusual	adj$adj-mf$	ita	inusuale	adj$$adj-mf
 	cat	invalidació	n-f$n	ita	annullamento	n-m
-	cat	invasió	n$n-f	ita	invasione	n-f$n
+	cat	invasió	n-f$n	ita	invasione	n-f$n
 	cat	inventari	n-m$n	ita	inventario	n-m$n
 	cat	invers	adj$	ita	inverso	adj$
 	cat	inversemblant	adj$$adj-mf	ita	improbabile	adj$adj-mf
@@ -4400,7 +4400,7 @@ RL	cat	irlandès	n-GD	ita	irlandese	n-mf$n
 	cat	irreparable	adj$$adj-mf	ita	irreparabile	adj$$adj-mf
 	cat	irresponsable	adj$adj-mf$	ita	irresponsabile	adj$$adj-mf
 	cat	irreversible	adj-mf$adj$	ita	irreversibile	adj$$adj-mf
-	cat	irritació	n$n-f	ita	irritazione	n-f$n
+	cat	irritació	n-f$n	ita	irritazione	n-f$n
 	cat	irrupció	n-f$n	ita	irruzione	n$n-f
 LR	cat	islamista	adj$adj-mf	ita	islamista	adj-GD
 RL	cat	islamista	adj$adj-mf	ita	islamista	adj-m$adj
@@ -4455,7 +4455,7 @@ LR	cat	jovenalla	n-f$n	ita	giovinezza	n$n-f
 	cat	joventut	n-f$n	ita	giovinezza	n$n-f
 LR	cat	jovenívol	adj$$adj-f	ita	giovanile	adj$$adj-mf
 	cat	jovial	adj$	ita	gioviale	adj$$adj-mf
-	cat	jubilació	n$n-f	ita	pensione	n-f$n
+	cat	jubilació	n-f$n	ita	pensione	n-f$n
 	cat	judici	n-m$n	ita	giudizio	n-m$n
 LR	cat	judicial	adj-mf$adj$	ita	giudiziario	adj-GD
 RL	cat	judicial	adj-mf$adj$	ita	giudiziario	adj-m$adj$
@@ -4466,7 +4466,7 @@ RL	cat	juliol	n$n-m$n-m-ND	ita	luglio	n-m-sp
 LR	cat	juliol	n-m-pl	ita	luglio	n-m-pl
 LR	cat	juliol	n-m-sg	ita	luglio	n-m-sp
 	cat	julivert	n$n-m	ita	prezzemolo	n-m$n
-	cat	jungla	n$n-f	ita	giungla	n$n-f
+	cat	jungla	n-f$n	ita	giungla	n$n-f
 	cat	junt	adj$adj-m-sg	ita	vicino	adj$adj-sup
 	cat	junta	n-f$n	ita	consiglio	n-m$n
 	cat	juntura	n-f$n	ita	consiglio	n-m$n
@@ -4476,8 +4476,8 @@ LR	cat	juliol	n-m-sg	ita	luglio	n-m-sp
 	cat	jurisprudència	n-f$n	ita	giurisprudenza	n-f$n
 	cat	jurídic	adj$	ita	giuridico	adj$$adj-sup
 	cat	just	adj$$adj-sup	ita	giusto	$adj$adj-sup
-	cat	justificació	n$n-f	ita	giustificazione	n-f$n
-	cat	justícia	n$n-f	ita	giustizia	n-f$n
+	cat	justificació	n-f$n	ita	giustificazione	n-f$n
+	cat	justícia	n-f$n	ita	giustizia	n-f$n
 LR	cat	jutge	n-m$n	ita	magistrato	n-m$n
 	cat	jutjat	n-m$n	ita	tribunale	n$n-m
 	cat	juvenil	adj$adj-mf$	ita	giovanile	adj$$adj-mf
@@ -4515,9 +4515,9 @@ RL	cat	laborista	adj-mf$adj$	ita	laburista	adj-f
 LR	cat	laïcisme	n-m$n$n-m-sg	ita	laicità	n-f-sp
 LR	cat	laïcisme	n-m-pl	ita	laicità	n-f-sp
 RL	cat	laïcisme	n-m-ND	ita	laicità	n-f-sp
-	cat	lectura	n$n-f	ita	lettura	n-f$n
+	cat	lectura	n-f$n	ita	lettura	n-f$n
 	cat	legal	adj$adj-mf$	ita	legale	adj$$adj-mf
-	cat	legislació	n$n-f	ita	legislazione	n-f$n
+	cat	legislació	n-f$n	ita	legislazione	n-f$n
 	cat	legislatiu	adj$	ita	legislativo	adj$$adj-sup
 	cat	legislatura	n-f$n	ita	legislatura	n$n-f
 LR	cat	lehendakari	n$n-mf$n-mf-sg	ita	lehendakari	n-mf-sp$n-mf
@@ -4533,23 +4533,23 @@ RL	cat	leninista	n-mf$n$	ita	leninista	n-f
 	cat	lesbiana	adj	ita	lesbica	adj
 	cat	lesbiana	n-f$n	ita	lesbica	n-f$n$
 	cat	lesbianisme	n-m$n	ita	lesbismo	n$n-m
-	cat	lesió	n$n-f	ita	lesione	n-f$n
+	cat	lesió	n-f$n	ita	lesione	n-f$n
 	cat	letal	adj$adj-mf$	ita	letale	$adj$adj-mf
 	cat	letargia	n-f$n	ita	letargo	n-m$n
 	cat	leucèmia	n$n-f	ita	leucemia	n$n-f
 	cat	liberal	adj$adj-mf$	ita	liberale	adj$$adj-mf
 	cat	liberalisme	n$n-m	ita	liberalismo	n$n-m
-	cat	libèl·lula	n$n-f	ita	libellula	n$n-f
+	cat	libèl·lula	n-f$n	ita	libellula	n$n-f
 	cat	licor	n-m$n	ita	liquore	n-m$n
 	cat	limfa	n-f$n	ita	linfa	n-f$n
-	cat	limitació	n$n-f	ita	limitazione	n-f$n
+	cat	limitació	n-f$n	ita	limitazione	n-f$n
 	cat	lineal	adj$adj-mf$	ita	lineare	$adj$adj-mf
 	cat	lingüístic	adj$	ita	linguistico	adj$adj-sup
 	cat	lingüística	n-f$n$n-f-sg	ita	linguistica	n-f$n
 	cat	linx	n-m$n	ita	lince	n-f
 	cat	literal	adj-mf$adj$	ita	letterale	adj$$adj-mf
 	cat	literari	adj$	ita	letterario	adj$$adj-sup
-	cat	literatura	n$n-f	ita	letteratura	n-f$n
+	cat	literatura	n-f$n	ita	letteratura	n-f$n
 	cat	litoral	adj$adj-mf	ita	litorale	adj-mf$adj
 	cat	litoral	n-m$n	ita	litorale	n-m$n$
 	cat	litre	n-m$n	ita	litro	n-m$n
@@ -4582,7 +4582,7 @@ LR	cat	llapis	n-m-sp$n-m	ita	matita	n-f-ND
 	cat	llatí	n-f$n-f-sg	ita	latino	n$n-m$
 	cat	llatí	n-f-pl	ita	latino	n$n-m$
 	cat	llauna	n-f$n	ita	latta	n-f$n
-LR	cat	llavadora	n$n-f	ita	lavatrice	n-f$n
+LR	cat	llavadora	n-f$n	ita	lavatrice	n-f$n
 LR	cat	llavi	n-m$n$n-m-sg	ita	labbro	n-m-sg$n$n-m
 LR	cat	llavi	n-m-pl	ita	labbro	n-f-pl
 RL	cat	llavi	n-m$n$n-m-sg	ita	labbro	n-m-sg$n$n-m
@@ -4601,11 +4601,11 @@ RL	cat	llavi	n-m-pl	ita	labbro	n-f-pl
 LR	cat	llenceria	n-f-sg	ita	lingerie	n-f-pl
 LR	cat	llenceria	n-f-pl	ita	lingerie	n-f-pl
 RL	cat	llenceria	n-f$n$n-f-ND	ita	lingerie	n-f-pl
-	cat	llengua	n$n-f	ita	lingua	n-f$n
+	cat	llengua	n-f$n	ita	lingua	n-f$n
 	cat	llenguatge	n-m$n	ita	linguaggio	n-m$n
 	cat	llengüeta	n$n-f	ita	ancia	n$n-f
 	cat	llengüeta	n$n-f	ita	linguetta	n$n-f
-	cat	llentia	n$n-f	ita	lenticchia	n$n-f
+	cat	llentia	n-f$n	ita	lenticchia	n$n-f
 	cat	llentilla	n-f$n	ita	lenticchia	n$n-f
 	cat	llenya	n-f$n$n-f-sg	ita	legna	n$n-f
 	cat	llençol	n-m-sg	ita	lenzuolo	n-m-sg$n$n-m
@@ -4629,7 +4629,7 @@ LR	cat	llibertat	n-f-pl	ita	libertà	n-f$n-f-sp
 	cat	llicenciat	n$n-m$	ita	laureato	n$n-m$
 	cat	llicenciatura	n-f$n	ita	laurea	n-f$n
 	cat	llicència	n-f$n	ita	licenza	n-f$n
-	cat	lliga	n$n-f	ita	lega	n-f$n
+	cat	lliga	n-f$n	ita	lega	n-f$n
 	cat	lligadura	n-f$n	ita	legaccio	n-m
 	cat	lligament	n-m$n	ita	legamento	n$n-m
 	cat	llima	n-f$n	ita	lima	n-f$n
@@ -4650,7 +4650,7 @@ RL	cat	lliure	adj$adj-mf$	ita	libero	adj-f
 	cat	llogaret	n-m	ita	villaggio	n-m$n
 	cat	lloguer	n-m$n	ita	affitto	n-m$n
 LR	cat	llombrígol	n-m$n	ita	ombelico	n$n-m
-	cat	llonza	n$n-f	ita	cotoletta	n$n-f
+	cat	llonza	n-f$n	ita	cotoletta	n$n-f
 	cat	llop	n$n-m	ita	lupo	n$n-m
 	cat	llorer	n$n-m	ita	alloro	n$n-m
 	cat	lloro	n-m$n	ita	pappagallo	n$n-m
@@ -4690,7 +4690,7 @@ RL	cat	londinenc	adj-GD	ita	londinese	adj$adj-mf
 	cat	lustre	n$n-m	ita	lustro	n-m$n$
 	cat	luxúria	n-f$n	ita	lussuria	n-f$n
 LR	cat	làctic	adj$	ita	latteo	adj$
-	cat	làmpada	n$n-f	ita	lampada	n-f$n
+	cat	làmpada	n-f$n	ita	lampada	n-f$n
 	cat	làpida	n-f$n	ita	lapide	n-f$n
 LR	cat	làser	n-m$n$n-m-sg	ita	laser	n-m-sp$n-m
 LR	cat	làser	n-m-pl	ita	laser	n-m-sp$n-m
@@ -4703,11 +4703,11 @@ RL	cat	làser	n-m-ND	ita	laser	n-m-sp$n-m
 	cat	líquid	adj$	ita	liquido	adj$$adj-sup
 	cat	líquid	n-m$n$n-m-ND	ita	liquido	n$n-m
 	cat	lògic	adj$	ita	logico	$adj$adj-sup
-	cat	lògica	n$n-f	ita	logica	n-f$n
+	cat	lògica	n-f$n	ita	logica	n-f$n
 	cat	macroscòpic	adj$	ita	macroscopico	adj$
 	cat	madrileny	adj	ita	madrileno	adj$adj-sup
 	cat	madrileny	n$n-m	ita	madrileno	n$n-GD
-	cat	maduixa	n$n-f	ita	fragola	n$n-f
+	cat	maduixa	n-f$n	ita	fragola	n$n-f
 	cat	madur	adj$	ita	maturo	$adj
 	cat	maduració	n-f$n	ita	maturazione	n-f$n
 LR	cat	maduresa	n-f$n$n-f-sg	ita	maturità	n-f$n-f-sp
@@ -4722,7 +4722,7 @@ RL	cat	magistrat	n-GD	ita	magistrato	n-m$n
 	cat	magnetisme	n-m$n$n-m-sg	ita	magnetismo	n$n-m
 	cat	magnitud	n$n-f	ita	magnitudine	n$n-f
 	cat	magnètic	adj$	ita	magnetico	adj$$adj-m-sg
-	cat	magrana	n$n-f	ita	melograno	n-m
+	cat	magrana	n-f$n	ita	melograno	n-m
 	cat	magre	adj-m-sg	ita	magro	adj-m-sg
 	cat	magre	adj-f-sg	ita	magro	adj-f-sg
 RL	cat	magre	adj$adj-mf-pl$	ita	magro	adj-m-pl
@@ -4743,29 +4743,29 @@ LR	cat	magre	adj$adj-mf-pl$	ita	magro	adj-GD-pl
 LR	cat	mail	n-m$n$n-m-sg	ita	mail	n-f-sp$n-f
 LR	cat	mail	n-m-pl	ita	mail	n-f-sp$n-f
 RL	cat	mail	n-m-ND	ita	mail	n-f-sp$n-f
-LR	cat	maixella	n	ita	mandibola	n$n-f
+LR	cat	maixella	n$n-f	ita	mandibola	n$n-f
 LR	cat	major	adj$adj-mf$	ita	maggiore	adj$$adj-mf$adj-mf-ND
 	cat	més gran	adj	ita	maggiore	adj$$adj-mf$adj-mf-ND
 LR	cat	majordom	n$n-m	ita	maggiordomo	n-m$n
 LR	cat	majordom	n-f	ita	maggiordomo	n-m$n
 RL	cat	majordom	n-GD	ita	maggiordomo	n-m$n
-	cat	majoria	n$n-f$n-f-sg	ita	maggioranza	n-f$n
+	cat	majoria	n-f$n$n-f-sg	ita	maggioranza	n-f$n
 LR	cat	majorista	adj-mf$adj	ita	grossista	adj-GD$adj
 RL	cat	majorista	adj-mf$adj	ita	grossista	adj-m
 RL	cat	majorista	adj-mf$adj	ita	grossista	adj-f
 	cat	majorista	n-mf$n	ita	grossista	n-m$n$n-mf-m
 	cat	majoritari	adj$	ita	maggioritario	adj$adj-sup
-	cat	mal	n$n-m$n-m-sg	ita	male	n-m$n
+	cat	mal	n-m$n$n-m-sg	ita	male	n-m$n
 	cat	mal	preadv	ita	male	preadv
 	cat	malalt	adj$$adj-sup	ita	malato	adj$$adj-sup
 	cat	malalt	adj$$adj-sup	ita	ammalato	adj$
 	cat	malalt	n$n-m	ita	malato	n$n-mf
 	cat	malalt	n$n-m	ita	ammalato	n$n-m
-	cat	malaltia	n$n-f	ita	malattia	n$n-f
+	cat	malaltia	n-f$n	ita	malattia	n$n-f
 	cat	maldat	n-f$n	ita	cattiveria	n-f$n
 	cat	maledicció	n-f$n	ita	maledizione	n-f$n
 	cat	malestar	n$n-m	ita	malessere	n-m$n
-	cat	maleta	n$n-f	ita	valigia	n-f$n
+	cat	maleta	n-f$n	ita	valigia	n-f$n
 	cat	maleter	n-m$n	ita	bagagliaio	n-m$n
 	cat	maleït	adj$	ita	maledetto	adj$
 	cat	malformació	n-f$n	ita	malformazione	n$n-f
@@ -4773,7 +4773,7 @@ RL	cat	majorista	adj-mf$adj	ita	grossista	adj-f
 	cat	malnom	n-m$n	ita	motto	n-m$n
 	cat	malson	n-m$n	ita	incubo	n-m
 	cat	maluc	n-m$n	ita	anca	n$n-f
-LR	cat	malura	n$n-f	ita	malattia	n$n-f
+LR	cat	malura	n-f$n	ita	malattia	n$n-f
 	cat	malva	n-f$n	ita	malva	n$n-f
 	cat	mal·leable	adj$$adj-mf	ita	malleabile	adj$$adj-mf
 	cat	malícia	n-f$n	ita	malizia	n-f$n
@@ -4785,13 +4785,13 @@ RL	cat	mamífer	adj$adj-mf	ita	mammifero	adj-f
 LR	cat	mamífer	adj$adj-mf	ita	mammifero	adj-GD
 	cat	mandarina	n-f$n	ita	mandarino	n-m$n
 	cat	mandat	n$n-m	ita	mandato	n-m$n
-	cat	mandíbula	n$n-f	ita	mandibola	n$n-f
-	cat	manera	n$n-f$n-f-pl	ita	maniera	n-f$n
-	cat	manera	n$n-f$n-f-pl	ita	modo	n-m$n
+	cat	mandíbula	n-f$n	ita	mandibola	n$n-f
+	cat	manera	n-f$n$n-f-pl	ita	maniera	n-f$n
+	cat	manera	n-f$n$n-f-pl	ita	modo	n-m$n
 	cat	manierisme	n-m$n$n-m-sg	ita	manierismo	n$n-m
 	cat	manifestació	n-f$n	ita	manifestazione	n-f$n
 	cat	manillar	n-m$n	ita	manubrio	n-m$n
-	cat	manipulació	n$n-f	ita	manipolazione	n-f$n
+	cat	manipulació	n-f$n	ita	manipolazione	n-f$n
 	cat	manta	n-f$n	ita	coperta	n$n-f
 	cat	mantega	n-f$n	ita	burro	n-m
 	cat	manteniment	n-m$n	ita	manutenzione	n-f
@@ -4801,7 +4801,7 @@ LR	cat	mamífer	adj$adj-mf	ita	mammifero	adj-GD
 	cat	mapa	n-m$n	ita	cartina	n-f
 	cat	mapa	n-m$n	ita	mappa	n-f$n
 LR	cat	maqueta	n-f$n	ita	modello	n-m$n$
-	cat	maquineta	n-f$n$n-f-ND	ita	temperino	n-m$n$n-m-sg
+	cat	maquineta	n-f$n-f-ND$n	ita	temperino	n-m$n$n-m-sg
 	cat	maquineta	n-f-pl	ita	temperino	n-m$n$n-m-sg
 	cat	maquineta	n-f-sg	ita	temperino	n-m$n$n-m-sg
 	cat	maquinària	n-f$n	ita	macchinario	n-m
@@ -4816,12 +4816,12 @@ LR	cat	maqueta	n-f$n	ita	modello	n-m$n$
 	cat	marcial	adj$$adj-mf	ita	marziale	adj$$adj-mf
 	cat	marcià	adj	ita	marziano	adj$adj-sup
 	cat	marcià	n$n-m	ita	marziano	n$n-m$
-	cat	mare	n$n-f	ita	madre	n-f$n$
+	cat	mare	n-f$n	ita	madre	n-f$n$
 	cat	marea	n-f$n	ita	marea	n-f$n
-	cat	margarida	n$n-f	ita	margherita	n-f$n
+	cat	margarida	n-f$n	ita	margherita	n-f$n
 	cat	margarina	n-f$n	ita	margarina	n$n-f
 	cat	marge	n-m$n	ita	margine	n-m$n
-	cat	marginació	n$n-f	ita	emarginazione	n$n-f
+	cat	marginació	n-f$n	ita	emarginazione	n$n-f
 	cat	marginal	adj$adj-mf$	ita	marginale	adj$$adj-mf
 	cat	marieta	n$n-f	ita	coccinella	n$n-f
 	cat	marihuana	n-f$n	ita	marijuana	n$n-f
@@ -4834,7 +4834,7 @@ LR	cat	mariner	n-f	ita	marinaio	n-m$n
 RL	cat	mariner	n-GD	ita	marinaio	n-m$n
 	cat	marioneta	n-f$n	ita	marionetta	n-f$n
 	cat	marisc	n-m$n	ita	frutto	n-m$n
-	cat	marit	n$n-m	ita	compagno	n-m$n
+	cat	marit	n-m$n	ita	compagno	n-m$n
 	cat	marital	adj$$adj-mf	ita	maritale	adj$adj-mf
 	cat	marquès	n$n-m	ita	marchese	n$n-f
 	cat	marroquí	adj$adj-GD$	ita	marocchino	adj-m$adj
@@ -4850,7 +4850,7 @@ RL	cat	mariner	n-GD	ita	marinaio	n-m$n
 	cat	marxisme	n-m$n	ita	marxismo	n$n-m
 	cat	març	n-m$n	ita	marzo	n-m$n-m-sg$n
 	cat	marítim	adj$	ita	marittimo	adj$$adj-sup
-	cat	mascarot	n-m$n	ita	maschera	n-f$n
+	cat	mascarot	n-m	ita	maschera	n-f$n
 	cat	mascle	n$n-m	ita	maschio	n-m$n$
 	cat	mascota	n-f$n	ita	animale	n-m$n$
 	cat	masculí	adj$	ita	mascolino	adj$
@@ -4862,13 +4862,13 @@ RL	cat	massa	adj-mf-sp	ita	troppo	adj-ind-m-pl
 RL	cat	massa	adj-mf-sp	ita	troppo	adj-ind-m-sg
 	cat	massacre	n-f$n	ita	massacro	n-m
 	cat	mastodont	n$n-m	ita	mastodonte	n$n-m
-	cat	masturbació	n$n-f	ita	masturbazione	n$n-f
+	cat	masturbació	n-f$n	ita	masturbazione	n$n-f
 LR	cat	matalaf	n$n-m	ita	materasso	n-m$n
 	cat	matalàs	n-m$n	ita	materasso	n-m$n
 	cat	matança	n-f$n	ita	macellazione	n$n-m
 	cat	mateix	adj$$adj-GD$adj-GD-ND	ita	stesso	adj$$adj-sup
 	cat	matemàtic	adj$	ita	matematico	adj$$adj-sup
-	cat	matemàtica	n-f-pl$n$n-f	ita	matematica	n-f$n
+	cat	matemàtica	n-f-pl$n-f$n	ita	matematica	n-f$n
 	cat	material	adj$adj-mf$	ita	materiale	adj$$adj-mf
 	cat	material	n$n-m	ita	materiale	n-m$n
 	cat	materialisme	n-m$n$n-m-sg	ita	materialismo	n$n-m
@@ -4893,13 +4893,13 @@ LR	cat	matx	n-m$n	ita	partito	n-m$n$
 	cat	mecànica	n-f$n	ita	meccanica	n-f$n
 	cat	medalla	n-f$n	ita	medaglia	n$n-f
 LR	cat	medi	n$n-m	ita	mezzo	n-m$n$
-	cat	mediació	n$n-f	ita	mediazione	n-f$n
+	cat	mediació	n-f$n	ita	mediazione	n-f$n
 LR	cat	mediambiental	adj$adj-mf	ita	ambientale	adj$$adj-mf
 	cat	medicament	n-m$n	ita	farmaco	n-m$n
-	cat	medicina	n$n-f	ita	medicina	n-f$n
+	cat	medicina	n-f$n	ita	medicina	n-f$n
 	cat	medicinal	adj$$adj-mf	ita	medicinale	adj$$adj-mf
 	cat	medieval	adj$adj-mf$	ita	medioevale	adj$adj-mf
-	cat	meditació	n$n-f	ita	meditazione	n-f$n
+	cat	meditació	n-f$n	ita	meditazione	n-f$n
 	cat	mediterrani	adj$	ita	mediterraneo	adj$$adj-sup
 	cat	medul·la	n-f$n	ita	midollo	n-m
 	cat	medul·lar	adj$$adj-mf	ita	midollare	adj$adj-mf
@@ -4916,10 +4916,10 @@ LR	cat	meitat	n-f-pl	ita	metà	n-f-sp$n-f$
 	cat	melmelada	n-f$n	ita	marmellata	n$n-f
 	cat	melodia	n-f$n	ita	melodia	n-f$n
 	cat	melodrama	n-m$n	ita	melodramma	n-m$n
-	cat	melsa	n-f$n	ita	milza	n-f
+	cat	melsa	n-f	ita	milza	n-f
 	cat	membrana	n-f$n	ita	membrana	n$n-f
 	cat	membre	n$n-mf$	ita	membro	n-m$n-f-m$n
-	cat	memòria	n$n-f$n-f-pl	ita	memoria	n-f$n
+	cat	memòria	n-f$n$n-f-pl	ita	memoria	n-f$n
 	cat	mena	n-f$n	ita	tipo	n-m$n$
 	cat	menjar	n-m$n	ita	cibo	n-m$n
 	cat	menor	adj$adj-mf$	ita	minore	adj$adj-mf
@@ -4950,7 +4950,7 @@ RL	cat	menú	n-m-ND	ita	menu	n-m-sp$n-m
 	cat	meridià	n-m$n	ita	meridiano	n-m$n
 	cat	mes	n-m$n	ita	mese	n-m$n
 	cat	mesquita	n$n-f	ita	moschea	n$n-f
-	cat	mestratge	n-m$n	ita	maestria	n-f$n
+	cat	mestratge	n-m	ita	maestria	n-f$n
 	cat	mestre	n-m-sg	ita	maestro	n-m-sg
 	cat	mestre	n-f-sg	ita	maestro	n-f$n-f-sg
 RL	cat	mestre	n-mf-pl$n	ita	maestro	n-m-pl
@@ -4958,13 +4958,13 @@ RL	cat	mestre	n-mf-pl$n	ita	maestro	n-f-pl
 LR	cat	mestre	n-mf-pl$n	ita	maestro	n-GD$n-GD-pl
 	cat	mestre	n-f-sg	ita	maestro	n-m$n$$n-mf-m
 	cat	mestre	n-mf-pl$n	ita	maestro	n-m$n$$n-mf-m
-	cat	mesura	n$n-f	ita	misura	n-f$n
+	cat	mesura	n-f$n	ita	misura	n-f$n
 	cat	mesurament	n-m	ita	misurazione	n$n-f
-	cat	meta	n$n-f	ita	meta	n-f$n
+	cat	meta	n-f$n	ita	meta	n-f$n
 	cat	metabolisme	n-m$n$n-m-sg	ita	metabolismo	n-m$n
 	cat	metall	n$n-m	ita	metallo	n$n-m
 	cat	metal·lúrgia	n-f$n	ita	metallurgia	n-f$n
-	cat	metamorfosi	n-f$n-f-ND$n	ita	metamorfosi	n-f-sp$n-f
+	cat	metamorfosi	n-f$n-f-ND	ita	metamorfosi	n-f-sp$n-f
 	cat	metamorfosi	n-f-pl	ita	metamorfosi	n-f-sp$n-f
 	cat	metamorfosi	n-f-sg	ita	metamorfosi	n-f-sp$n-f
 	cat	meteorit	n-m$n	ita	meteorite	n$n-m
@@ -4977,13 +4977,13 @@ RL	cat	metge	n-GD	ita	medico	n-m$n
 	cat	metre	n-m$n	ita	metro	n-m$n
 	cat	metro	n-m$n	ita	metro	n-m$n
 	cat	metropolità	adj$	ita	metropolitano	adj$adj-sup
-LR	cat	metròpoli	n-f$n-f-sg	ita	metropoli	n-f-sp$n-f
+LR	cat	metròpoli	n$n-f$n-f-sg	ita	metropoli	n-f-sp$n-f
 LR	cat	metròpoli	n-f-pl	ita	metropoli	n-f-sp$n-f
 RL	cat	metròpoli	n-f-ND	ita	metropoli	n-f-sp$n-f
 	cat	metxa	n-f$n	ita	stoppino	n-m
 	cat	metzinós	adj$$adj-m	ita	velenoso	$adj$adj-sup
 	cat	metàfora	n$n-f	ita	metafora	n$n-f
-	cat	metàstasi	n-f$n-f-ND$n	ita	metastasi	n-f-sp
+	cat	metàstasi	n-f$n-f-ND	ita	metastasi	n-f-sp
 	cat	metàstasi	n-f-pl	ita	metastasi	n-f-sp
 	cat	metàstasi	n-f-sg	ita	metastasi	n-f-sp
 	cat	metòdic	adj$	ita	metodico	adj$$adj-sup
@@ -4994,12 +4994,12 @@ LR	cat	microona	n-f$n$n-f-sg	ita	microonde	n-m-sp$n-m
 LR	cat	microona	n-f-pl	ita	microonde	n-m-sp$n-m
 RL	cat	microona	n-f-ND	ita	microonde	n-m-sp$n-m
 	cat	micròfon	n-m$n	ita	microfono	n$n-m
-	cat	mida	n$n-f	ita	misura	n-f$n
+	cat	mida	n-f$n	ita	misura	n-f$n
 	cat	mig	adj	ita	mezzo	adj$adj-sup
 LR	cat	migcampista	n-mf$n	ita	centrocampista	n-GD$n
 RL	cat	migcampista	n-mf$n	ita	centrocampista	n-m
 RL	cat	migcampista	n-mf$n	ita	centrocampista	n-f
-	cat	migranya	n$n-f	ita	emicrania	n$n-f
+	cat	migranya	n-f$n	ita	emicrania	n$n-f
 LR	cat	miler	n$n-m$n-m-sg	ita	migliaio	n-m-sg$n-m$n
 RL	cat	miler	n$n-m$n-m-sg	ita	migliaio	n-m-sg$n-m$n
 LR	cat	miler	n-m-pl	ita	migliaio	n-f-pl
@@ -5020,13 +5020,13 @@ LR	cat	ministre	n-m-sg	ita	ministro	n-m$n$n-m-sg
 LR	cat	ministre	n-f-sg	ita	ministro	n-m$n$n-m-sg
 RL	cat	ministre	n-GD-sg	ita	ministro	n-m$n$n-m-sg
 	cat	ministre	n-mf-pl$n	ita	ministro	n-m-pl
-	cat	minoria	n$n-f	ita	minoranza	n-f$n
+	cat	minoria	n-f$n	ita	minoranza	n-f$n
 	cat	minuet	n-m$n	ita	minuetto	n$n-m
 	cat	minut	n-m$n	ita	minuto	n$n-m
-	cat	minuta	n$n-f	ita	verbale	n-m
+	cat	minuta	n-f$n	ita	verbale	n-m
 	cat	minúscul	adj$	ita	minuscolo	$adj
 	cat	miopia	n-f$n	ita	miopia	n-f$n
-	cat	mira	n$n-f	ita	mira	n-f$n
+	cat	mira	n-f$n	ita	mira	n-f$n
 	cat	miracle	n$n-m	ita	miracolo	n-m$n
 	cat	mirall	n-m$n	ita	specchio	n-m$n
 	cat	miratge	n-m$n	ita	miraggio	n-m$n
@@ -5036,10 +5036,10 @@ RL	cat	ministre	n-GD-sg	ita	ministro	n-m$n$n-m-sg
 	cat	missatge	n-m$n	ita	messaggio	n-m$n
 	cat	missatger	n$n-m	ita	messaggero	n$n-f
 	cat	missatgeria	n$n-f	ita	messaggeria	n$n-f
-	cat	missió	n$n-f	ita	missione	n-f$n
+	cat	missió	n-f$n	ita	missione	n-f$n
 	cat	misteri	n-m$n	ita	indovinello	n-m$n
 	cat	misteriós	adj$$adj-sup	ita	misterioso	adj$$adj-sup
-LR	cat	mitat	n$n-f$n-f-sg	ita	metà	n-f-sp$n-f$
+LR	cat	mitat	n-f$n$n-f-sg	ita	metà	n-f-sp$n-f$
 LR	cat	mitat	n-f-pl	ita	metà	n-f-sp$n-f$
 	cat	mite	n$n-m	ita	mito	n-m$n
 	cat	mitjana	n-f$n	ita	media	n-f$n-f-sp$n
@@ -5093,10 +5093,10 @@ LR	cat	molt de	adj-m-sg	ita	molto	adj$adj-ind$adj-ind-sup
 	cat	monstre	n$n-m	ita	mostro	n-m$n
 	cat	monument	n-m$n	ita	monumento	n-m$n
 	cat	monumental	adj$adj-mf$	ita	monumentale	$adj$adj-mf
-	cat	monyica	n$n-f	ita	bambola	n$n-f
+	cat	monyica	n-f$n	ita	bambola	n$n-f
 	cat	monòleg	n-m$n	ita	monologo	n$n-m
 	cat	monòton	adj$	ita	monotono	$adj$adj-sup
-	cat	moqueta	n$n-f	ita	moquette	n-f-sp$n-sp$n
+	cat	moqueta	n-f$n	ita	moquette	n-f-sp$n-sp$n
 	cat	moral	adj$adj-mf$	ita	morale	adj$adj-mf
 	cat	moral	n$n-f	ita	morale	n-f$$n
 	cat	moro	n$n-m	ita	moro	n$n-m$
@@ -5112,9 +5112,9 @@ LR	cat	mortalitat	n-f-sg	ita	mortalità	n-f-sp$n-f
 LR	cat	mortalitat	n-f-pl	ita	mortalità	n-f-sp$n-f
 	cat	mos	n-m-sg$n-m	ita	boccone	n-m$n$n-m-sg
 	cat	mosaic	n-m$n	ita	mosaico	n-m$n$
-	cat	mosca	n$n-f	ita	mosca	n-f$n
+	cat	mosca	n-f$n	ita	mosca	n-f$n
 	cat	mosquit	n-m$n	ita	zanzara	n-f$n
-	cat	mossegada	n-f$n	ita	morsicatura	n-f$n
+	cat	mossegada	n-f	ita	morsicatura	n-f$n
 	cat	mossèn	n-m$n	ita	padre	n-m$n$n-m-pl$
 	cat	most	n-m$n	ita	mosto	n$n-m
 	cat	mostra	n-f$n	ita	dimostrazione	n-f$n
@@ -5128,14 +5128,14 @@ RL	cat	motel	n-m-ND	ita	motel	n-m-sp$n-m
 LR	cat	motle	n$n-m	ita	stampo	n-m$n
 	cat	motlle	n-m$n	ita	stampo	n-m$n
 	cat	moto	n$n-f	ita	motocicletta	n$n-f
-	cat	motocicleta	n$n-f	ita	motocicletta	n$n-f
+	cat	motocicleta	n-f$n	ita	motocicletta	n$n-f
 	cat	motociclisme	n-m$n$n-m-sg	ita	motociclismo	n$n-m
 	cat	motor	n-m$n	ita	motore	n$n-m$
 	cat	motí	n-m$n	ita	ammutinamento	n$n-m
 	cat	moviment	n-m$n	ita	movimento	n-m$n
 	cat	mucosa	n-f$n	ita	mucosa	n$n-f
 	cat	mulat	n$n-m	ita	mulatto	n$$n-GD
-	cat	muller	n$n-f	ita	donna	n-f$n
+	cat	muller	n-f$n	ita	donna	n-f$n
 	cat	multa	n$n-f	ita	multa	n-f$n
 	cat	multicultural	adj$adj-mf	ita	multiculturale	adj$adj-mf
 	cat	multilateral	adj$adj-mf$	ita	multilaterale	adj$$adj-mf
@@ -5157,7 +5157,7 @@ RL	cat	mur	n-m-pl	ita	muro	n-f-pl
 	cat	mural	n-m$n	ita	murale	n$n-m
 	cat	murmuri	n-m$n	ita	brusio	n-m$n
 	cat	murta	n-f$n	ita	mirto	n$n-m
-	cat	musa	n$n-f	ita	musa	n$n-f
+	cat	musa	n-f$n	ita	musa	n$n-f
 	cat	muscle	n-m$n	ita	spalla	n-f
 	cat	muscular	adj$adj-mf	ita	muscolare	adj$$adj-mf
 	cat	museu	n$n-m	ita	museo	n$n-m
@@ -5166,14 +5166,14 @@ RL	cat	mur	n-m-pl	ita	muro	n-f-pl
 	cat	mussol	n-m$n	ita	gufo	n-m$n
 	cat	musulmà	n$n-m	ita	musulmano	n$$n-m
 	cat	mutació	n-f$n	ita	mutazione	n$n-f
-	cat	mutilació	n$n-f	ita	mutilazione	n$n-f
+	cat	mutilació	n-f$n	ita	mutilazione	n$n-f
 	cat	mutu	adj$adj-GD$	ita	mutuo	adj$$adj-sup
 	cat	mà	n-f$n	ita	mano	n-f$n
 	cat	màfia	n$n-f	ita	mafia	n$n-f
 	cat	màgia	n$n-f	ita	magia	n-f$n
 	cat	màgic	adj$	ita	magico	adj$$adj-sup
 	cat	màniga	n-f$n	ita	manica	n-f$n
-	cat	màquina	n$n-f	ita	macchina	n-f$n
+	cat	màquina	n-f$n	ita	macchina	n-f$n
 	cat	màrqueting	n-m-sg$n-m$n	ita	marketing	n-m-sp
 	cat	màrtir	n-mf$n	ita	martire	n$n-m
 LR	cat	màscara	n-f$n	ita	maschera	n-f$n
@@ -5223,11 +5223,11 @@ LR	cat	natació	n-f$n-f-sp$n	ita	nuoto	n-m-ND
 	cat	natja	n-f$n	ita	natica	n$n-f
 	cat	natja	n-f$n	ita	chiappa	n$n-f
 	cat	natural	adj$adj-mf$	ita	naturale	$adj$adj-mf
-	cat	naturalesa	n$n-f	ita	natura	n-f$n
+	cat	naturalesa	n-f$n	ita	natura	n-f$n
 	cat	nau	n-f$n	ita	capannone	n-m$n
 	cat	naufragi	n-m$n	ita	naufragio	n-m$n
 	cat	naval	adj$$adj-mf	ita	navale	$adj$adj-mf
-	cat	navegació	n$n-f	ita	navigazione	n-f$n
+	cat	navegació	n-f$n	ita	navigazione	n-f$n
 	cat	navegador	n$n-m	ita	navigatore	n-m$n
 LR	cat	nazi	n-mf$n$	ita	nazista	n-GD$n$
 RL	cat	nazi	n-mf$n$	ita	nazista	n-m
@@ -5239,14 +5239,14 @@ RL	cat	nazi	n-mf$n$	ita	nazista	n-f
 RL	cat	necessitat	n-f$n$$n-f-ND	ita	necessità	n-f-sp$n-f
 	cat	necessitat	n-f$n$$n-f-ND	ita	bisogno	n-m$n
 RL	cat	necessitat	n-f$n$$n-f-ND	ita	fabbisogno	n-m
-	cat	necròpoli	n-f$n-f-ND$n	ita	necropoli	n-f-sp$n-f
+	cat	necròpoli	n-f$n-f-ND	ita	necropoli	n-f-sp$n-f
 	cat	necròpoli	n-f-pl	ita	necropoli	n-f-sp$n-f
 	cat	necròpoli	n-f-sg	ita	necropoli	n-f-sp$n-f
 	cat	negació	n-f$n	ita	negazione	n-f$n
 	cat	negativa	n-f$n	ita	negazione	n-f$n
 	cat	negligència	n-f$n	ita	negligenza	n-f$n
 	cat	negoci	n-m$n	ita	affare	n-m$n
-	cat	negociació	n$n-f	ita	trattativa	n-f
+	cat	negociació	n-f$n	ita	trattativa	n-f
 	cat	negre	adj-m-sg	ita	nero	$adj$adj-m-sg
 	cat	negre	adj-f-sg	ita	nero	adj-f-sg
 RL	cat	negre	adj-mf-pl$adj$	ita	nero	adj-m-pl
@@ -5277,7 +5277,7 @@ LR	cat	negre	n-mf-pl$n	ita	nero	n-GD$n-GD-pl
 	cat	nitrogen	n-m$n	ita	nitrogeno	n$n-m
 	cat	niu	n-m$n	ita	nido	n-m$n
 	cat	nivell	n$n-m	ita	livello	n-m$n
-	cat	noblesa	n$n-f$n-f-sg	ita	nobiltà	n-f$n-f-sp
+	cat	noblesa	n-f$n$n-f-sg	ita	nobiltà	n-f$n-f-sp
 	cat	noces	n-f$n-f-pl$n	ita	nozze	n-f-pl$n-f$n
 	cat	node	n-m$n	ita	nodo	n-m$n
 	cat	nodrissa	n$n-f	ita	balia	n-f$n
@@ -5293,7 +5293,7 @@ LR	cat	negre	n-mf-pl$n	ita	nero	n-GD$n-GD-pl
 LR	cat	nominació	n-f$n$n-f-sg	ita	nomination	n-f-sp$n-f
 LR	cat	nominació	n-f-pl	ita	nomination	n-f-sp$n-f
 RL	cat	nominació	n-f-ND	ita	nomination	n-f-sp$n-f
-	cat	nora	n$n-f$n-f-sg	ita	nuora	n$n-f
+	cat	nora	n-f$n$n-f-sg	ita	nuora	n$n-f
 	cat	norantè	adj$adj-ord$adj-ord-GD-ND	ita	novantesimo	adj-ord$adj
 	cat	nord	n$n-m	ita	nord	n-m$n$
 LR	cat	nord-americà	adj-m	ita	statunitense	adj$adj-mf$
@@ -5339,8 +5339,8 @@ LR	cat	notari	n$n-m	ita	notaio	n-m
 LR	cat	notari	n-f	ita	notaio	n-m
 RL	cat	notari	n-GD	ita	notaio	n-m
 	cat	notarial	adj$adj-mf	ita	notarile	adj$adj-mf
-	cat	notificació	n$n-f	ita	notifica	n$n-f
-	cat	notícia	n$n-f$n-f-sg	ita	notizia	n-f$n
+	cat	notificació	n-f$n	ita	notifica	n$n-f
+	cat	notícia	n-f$n$n-f-sg	ita	notizia	n-f$n
 	cat	nou	adj$	ita	nuovo	$adj$adj-f
 	cat	nou	n-f$n$n-f-ND	ita	noce	n-f$n
 	cat	novell	adj$adj-GD	ita	novellino	adj$$adj-mf
@@ -5370,7 +5370,7 @@ LR	cat	nòlit	n$n-m	ita	noleggio	n-m$n
 	cat	número	n$n-m	ita	numero	n-m$n
 	cat	núvol	n-m$n	ita	nuvola	n-f$n
 	cat	núvol	n-m$n	ita	nube	n-f$n
-	cat	oasi	n-m$n$n-m-ND	ita	oasi	n-f-sp$n-f
+	cat	oasi	n-m$n-m-ND$n	ita	oasi	n-f-sp$n-f
 	cat	oasi	n-m-pl	ita	oasi	n-f-sp$n-f
 	cat	oasi	n-m-sg	ita	oasi	n-f-sp$n-f
 RL	cat	obesitat	n-f$n$n-f-ND	ita	obesità	n-f-sp$n-f
@@ -5384,15 +5384,15 @@ LR	cat	obesitat	n-f-pl	ita	obesità	n-f-sp$n-f
 	cat	obligació	n-f$n	ita	obbligazione	n$n-m
 	cat	obligació	n-f$n	ita	obbligo	n-m
 	cat	oblit	n-m$n	ita	oblio	n$n-m
-	cat	obra	n$n-f	ita	opera	n-f$n
+	cat	obra	n-f$n	ita	opera	n-f$n
 	cat	obrer	adj	ita	operaio	adj$$adj-sup
 	cat	obscur	adj$	ita	scuro	$adj$adj-sup
 	cat	obscurantisme	n-m$n	ita	oscurantismo	n$n-m
-	cat	observació	n$n-f	ita	osservazione	n-f$n
+	cat	observació	n-f$n	ita	osservazione	n-f$n
 	cat	observador	n$n-m	ita	osservatore	n$$n-m
 	cat	obsolet	adj$	ita	obsoleto	$adj
 	cat	obstacle	n-m$n	ita	ostacolo	n-m$n$n-f-m
-LR	cat	obstetrícia	n$n-f$n-f-sg	ita	ostetricia	n-f-sp$n-f
+LR	cat	obstetrícia	n-f$n$n-f-sg	ita	ostetricia	n-f-sp$n-f
 LR	cat	obstetrícia	n-f-pl	ita	ostetricia	n-f-sp$n-f
 RL	cat	obstetrícia	n-f-ND	ita	ostetricia	n-f-sp$n-f
 	cat	obtenció	n-f$n	ita	ottenimento	n-m
@@ -5400,7 +5400,7 @@ RL	cat	obstetrícia	n-f-ND	ita	ostetricia	n-f-sp$n-f
 	cat	obès	adj$	ita	obeso	$adj
 	cat	oc	n-f$n	ita	oca	n-f$n
 	cat	oc	n-m	ita	oca	n-f$n
-	cat	oca	n$n-f	ita	oca	n-f$n
+	cat	oca	n-f$n	ita	oca	n-f$n
 	cat	ocasional	adj$adj-mf$	ita	occasionale	$adj$adj-mf
 	cat	ocasió	n$n-f	ita	occasione	n-f$n
 RL	cat	occident	n-m$n$n-m-sg	ita	occidente	n-m$n$n-m-sg
@@ -5428,7 +5428,7 @@ LR	cat	oculista	n-mf$n	ita	oculista	n-GD
 	cat	odontologia	n$n-f$n-f-sg	ita	odontoiatria	n$n-f
 	cat	odontologia	n$n-f$n-f-sg	ita	odontologia	n$n-f
 	cat	oest	n-m$n	ita	ovest	n-m$n$
-	cat	oferta	n$n-f	ita	offerta	n-f$n
+	cat	oferta	n-f$n	ita	offerta	n-f$n
 	cat	oficial	adj$adj-mf$	ita	ufficiale	adj$$adj-mf
 	cat	oficial	n-m	ita	ufficiale	n-mf
 	cat	oficina	n-f$n	ita	capannone	n-m$n
@@ -5445,7 +5445,7 @@ LR	cat	oculista	n-mf$n	ita	oculista	n-GD
 	cat	olor	n-f$n	ita	odore	n-m$n
 	cat	olímpic	adj$	ita	olimpico	adj$
 	cat	om	n-m$n	ita	olmo	n$n-m
-	cat	ombra	n$n-f	ita	ombra	n-f$n
+	cat	ombra	n-f$n	ita	ombra	n-f$n
 	cat	ona	n$n-f	ita	ondata	n$n-f
 	cat	oncle	n-m$n	ita	zio	n$n-m
 	cat	onzè	adj$adj-ord$adj-ord-GD-ND	ita	undicesimo	adj$adj-ord
@@ -5458,11 +5458,11 @@ LR	cat	oculista	n-mf$n	ita	oculista	n-GD
 LR	cat	oportunitat	n-f$n$n-f-sg	ita	possibilità	n-f$n-f-sp
 LR	cat	oportunitat	n-f-pl	ita	possibilità	n-f$n-f-sp
 	cat	oposat	adj$	ita	opposto	adj
-	cat	oposició	n$n-f	ita	opposizione	n-f$n
-LR	cat	oposició	n$n-f	ita	concorso	n-m$n
+	cat	oposició	n-f$n	ita	opposizione	n-f$n
+LR	cat	oposició	n-f$n	ita	concorso	n-m$n
 	cat	opositor	n$n-m	ita	oppositore	n$n-m
 	cat	optimisme	n$n-m	ita	ottimismo	n$n-m
-	cat	opulència	n$n-f	ita	ricchezza	n-f$n
+	cat	opulència	n-f$n	ita	ricchezza	n-f$n
 	cat	or	n$n-m	ita	oro	n-m$n
 	cat	oral	adj$adj-mf$	ita	orale	adj$$adj-mf
 	cat	orde	n-m$n	ita	ordine	n-f
@@ -5503,7 +5503,7 @@ LR	cat	orgue	n-m$n	ita	organo	n-m$n
 	cat	ortografia	n-f$n	ita	ortografia	n$n-f
 	cat	os	n-m$n$n-m-ND	ita	osso	n-f-pl$n-f
 	cat	oscil·lació	n-f$n	ita	oscillazione	n$n-f
-	cat	osmosi	n-f-ND$n	ita	osmosi	n-f-sp
+	cat	osmosi	n-f-ND$n-f	ita	osmosi	n-f-sp
 	cat	osmosi	n-f-pl	ita	osmosi	n-f-sp
 	cat	osmosi	n-f-sg$n-sg	ita	osmosi	n-f-sp
 LR	cat	ou	n-m-sg	ita	uovo	n-m-sg$n-m
@@ -5517,7 +5517,7 @@ RL	cat	ou	n$n-m$n-m-pl	ita	uovo	n-f-pl$n
 LR	cat	ovni	n-m$n$n-m-sg	ita	ufo	n-m-sp$n-m
 LR	cat	ovni	n-m-pl	ita	ufo	n-m-sp$n-m
 RL	cat	ovni	n-m-ND	ita	ufo	n-m-sp$n-m
-	cat	oxidació	n$n-f	ita	ossidazione	n$n-f
+	cat	oxidació	n-f$n	ita	ossidazione	n$n-f
 	cat	oxigen	n-m$n	ita	ossigeno	n-m$n
 	cat	ozó	n$n-m$n-m-sg	ita	ozono	n$n-m
 	cat	oïda	n-f$n	ita	udito	n-m$n$n-f-m
@@ -5533,7 +5533,7 @@ RL	cat	ovni	n-m-ND	ita	ufo	n-m-sp$n-m
 LR	cat	paella	n-f$n$n-f-sg	ita	paella	n-f-sp$n-f
 LR	cat	paella	n-f-pl	ita	paella	n-f-sp$n-f
 RL	cat	paella	n-f-ND	ita	paella	n-f-sp$n-f
-	cat	pagoda	n$n-f	ita	pagoda	n$n-f
+	cat	pagoda	n-f$n	ita	pagoda	n$n-f
 	cat	paisatge	n-m$n	ita	paesaggio	n-m$n
 	cat	pakistanès	adj$$adj-GD	ita	pachistano	adj$$adj-GD
 	cat	pakistanès	n$n-GD	ita	pakistano	n$n-GD
@@ -5545,13 +5545,13 @@ RL	cat	paella	n-f-ND	ita	paella	n-f-sp$n-f
 	cat	palanca	n-f$n	ita	leva	n-f$n
 	cat	palau	n-m$n	ita	palazzo	n-m$n
 	cat	palestra	n-f$n	ita	scenario	n-m
-	cat	obra	n$n-f	ita	muratura	n$n-f$n-f-m
+	cat	obra	n-f$n	ita	muratura	n$n-f$n-f-m
 	cat	obrer	n$n-GD$	ita	operaio	n$n-m
 	cat	paleta	n-mf$n	ita	muratore	n-m$n
 	cat	paleta	n-mf$n	ita	paletta	n-f$n
 	cat	palla	n-f$n	ita	paglia	n$n-f
 	cat	pallasso	n$n-m	ita	pagliaccio	n-m$n
-	cat	palmell	n-m$n	ita	palma	n$n-f
+	cat	palmell	n-m	ita	palma	n$n-f
 	cat	palmera	n-f$n	ita	palma	n$n-f
 LR	cat	palometa	n$n-f	ita	farfalla	n-f$n
 	cat	pam	n$n-m	ita	palmo	n-m$n
@@ -5567,12 +5567,12 @@ RL	cat	panda	n-m-ND	ita	panda	n-m-sp$n-m
 	cat	pantà	n-m$n	ita	palude	n-f$n
 	cat	panxa	n-f$n	ita	pancia	n-f$n
 	cat	pany	n-m	ita	serratura	n-f$n
-	cat	papa	n$n-m	ita	papa	n$n-m
+	cat	papa	n-m$n	ita	papa	n$n-m
 	cat	papagai	n-mf$n	ita	pappagallo	n$n-m
 	cat	papal	adj$adj-mf	ita	papale	adj$adj-mf
 	cat	papallona	n-f$n	ita	farfalla	n-f$n
 	cat	paper	n-m$n$n-m-sg	ita	carta	n-f$n
-RL	cat	papà	n$n-m$n-m-ND	ita	papà	n-m-sp$n-m
+RL	cat	papà	n-m$n$n-m-ND	ita	papà	n-m-sp$n-m
 LR	cat	papà	n-m-sg	ita	papà	n-m-sp$n-m
 LR	cat	papà	n-m-pl	ita	papà	n-m-sp$n-m
 	cat	paquet	n-m$n	ita	pacchetto	n-m$n
@@ -5581,10 +5581,10 @@ LR	cat	paracaigudes	n-m-sp$n-m$n	ita	paracadute	n-m-sp$n-m
 	cat	paradigma	n-m$n	ita	paradigma	n$n-m
 	cat	paradoxa	n-f$n	ita	paradosso	n-m
 	cat	paraguaià	n$n-m	ita	paraguaiano	n$n-GD
-	cat	paraigua	n-m$n$n-m-ND	ita	ombrello	n$n-m$n-m-sg
+	cat	paraigua	n-m$n-m-ND$n	ita	ombrello	n$n-m$n-m-sg
 	cat	paraigua	n-m-pl	ita	ombrello	n$n-m$n-m-sg
 	cat	paraigua	n-m-sg	ita	ombrello	n$n-m$n-m-sg
-	cat	paralització	n$n-f	ita	arresto	n-m$n
+	cat	paralització	n-f$n	ita	arresto	n-m$n
 RL	cat	parallamps	n-m-sp$n-m$n	ita	parafulmine	n-m$n-m-sg$n
 RL	cat	parallamps	n-m-sp$n-m$n	ita	parafulmine	n-m-pl
 LR	cat	parallamps	n-m-sp$n-m$n	ita	parafulmine	n-m-ND
@@ -5623,11 +5623,11 @@ RL	cat	parlamentari	adj-GD	ita	parlamentare	adj-mf$$adj
 	cat	partícula	n-f$n	ita	particella	n$n-f
 	cat	paràbola	n-f$n	ita	parabola	n-f$n
 	cat	paràgraf	n-m$n	ita	paragrafo	n$n-m
-	cat	paràlisi	n-f$n-f-ND$n	ita	paralisi	n-f-sp$n-f
+	cat	paràlisi	n-f$n-f-ND	ita	paralisi	n-f-sp$n-f
 	cat	paràlisi	n-f-pl	ita	paralisi	n-f-sp$n-f
 	cat	paràlisi	n-f-sg	ita	paralisi	n-f-sp$n-f
 	cat	paràmetre	n$n-m	ita	parametro	n$n-m
-	cat	parèntesi	n-m$n$n-m-ND	ita	parentesi	n-f-sp$n-f
+	cat	parèntesi	n-m$n-m-ND$n	ita	parentesi	n-f-sp$n-f
 	cat	parèntesi	n-m-pl	ita	parentesi	n-f-sp$n-f
 	cat	parèntesi	n-m-sg	ita	parentesi	n-f-sp$n-f
 	cat	paròdia	n-f$n	ita	parodia	n-f$n
@@ -5651,7 +5651,7 @@ RL	cat	pastor	n-GD	ita	pastore	n-m$n
 	cat	pastura	n-f$n	ita	pascolo	n-m
 	cat	pastís	n-m$n	ita	torta	n-f$n
 	cat	patata	n$n-f	ita	patata	n-f$n
-	cat	patent	n-f$n$	ita	brevetto	n-m$n
+	cat	patent	n-f$$n	ita	brevetto	n-m$n
 LR	cat	paternal	adj$adj-mf$	ita	paterno	adj-GD
 RL	cat	paternal	adj$adj-mf$	ita	paterno	adj-m$adj$
 RL	cat	paternal	adj$adj-mf$	ita	paterno	adj-f
@@ -5693,10 +5693,10 @@ RL	cat	pediatre	n-mf-pl$n	ita	pediatra	n-f$n-f-pl
 	cat	pell	n-f$n	ita	pelle	n-f$n
 RL	cat	pel·lícula	n-f$n	ita	pellicola	n-f$n
 	cat	pel·lícula	n-f$n	ita	film	n-m$n-m-sp$n
-	cat	directriu	n$n-f	ita	direttiva	n-f$n
+	cat	directriu	n-f$n	ita	direttiva	n-f$n
 	cat	pena	n-f$n	ita	pena	n-f$n
 	cat	penal	adj$adj-mf$$adj-mf-ND	ita	penale	adj$$adj-mf
-	cat	pendant	n$n-m	ita	orecchino	n-m$n
+	cat	pendant	n-m$n	ita	orecchino	n-m$n
 	cat	pendent	n-m$n	ita	orecchino	n-f
 	cat	penetració	n-f$n	ita	penetrazione	n$n-f
 	cat	penicil·lina	n-f$n	ita	penicillina	n$n-f
@@ -5724,7 +5724,7 @@ RL	cat	penis	n-m-sp$n-m	ita	pene	n-m-sg
 	cat	perfum	n$n-m	ita	profumo	n-m$n
 	cat	pericial	adj	ita	peritale	adj$adj-mf
 	cat	perifèric	adj$	ita	periferico	adj$$adj-sup
-	cat	perill	n$n-m	ita	pericolo	n-m$n
+	cat	perill	n-m$n	ita	pericolo	n-m$n
 	cat	perillós	adj$$adj-sup	ita	pericoloso	adj$$adj-sup
 	cat	periodisme	n-m$n	ita	giornalismo	n-m$n
 LR	cat	periodista	n-mf$n	ita	giornalista	n-GD
@@ -5737,15 +5737,15 @@ RL	cat	periquito	n-m$n	ita	pappagallino	n-f
 	cat	periòdic	n-m$n	ita	giornale	n-m$n
 	cat	periòdic	adj$	ita	periodico	adj$$adj-sup
 	cat	perjudicial	adj$adj-mf$	ita	pregiudizievole	adj$adj-mf
-	cat	perla	n$n-f	ita	perla	n$n-f$
-	cat	permutació	n$n-f	ita	permutazione	n$n-f
+	cat	perla	n-f$n	ita	perla	n$n-f$
+	cat	permutació	n-f$n	ita	permutazione	n$n-f
 	cat	permís	n-m$n$n-m-ND	ita	permesso	n-m$n$
 	cat	permís	n-m$n$n-m-ND	ita	autorizzazione	n-f$n
 	cat	perniciós	adj$$adj-sup	ita	pernicioso	adj$
 	cat	pernil	n-m$n	ita	prosciutto	n-m$n
 	cat	perpendicular	adj$$adj-mf	ita	perpendicolare	adj$$adj-mf
 	cat	perquisició	n$n-f	ita	indagine	n-f$n
-	cat	perruca	n$n-f	ita	parrucca	n$n-f
+	cat	perruca	n-f$n	ita	parrucca	n$n-f
 	cat	perruquer	n$n-m	ita	parrucchiere	n$n-m
 LR	cat	persa	adj$adj-mf	ita	persiano	adj-GD$adj
 RL	cat	persa	adj$adj-mf	ita	persiano	adj-m
@@ -5766,7 +5766,7 @@ RL	cat	personalitat	n-f$n$n-f-ND	ita	personalità	n-f-sp$n-f
 LR	cat	personalitat	n-f-sg	ita	personalità	n-f-sp$n-f
 LR	cat	personalitat	n-f-pl	ita	personalità	n-f-sp$n-f
 	cat	personatge	n-m$n	ita	personaggio	n-m$n
-	cat	perspectiva	n$n-f	ita	prospettiva	n-f$n
+	cat	perspectiva	n-f$n	ita	prospettiva	n-f$n
 	cat	pertanyent	adj$adj-mf$	ita	appartenente	adj$adj-mf
 	cat	pertinença	n-f$n	ita	appartenenza	n-f$n
 	cat	peruà	n$n-m	ita	peruviano	n$n-GD
@@ -5801,8 +5801,8 @@ LR	cat	pianista	n-mf$n	ita	pianista	n-GD
 LR	cat	pietat	n-f$n$n-f-sg	ita	pietà	n-f$n-f-sp
 LR	cat	pietat	n-f-pl	ita	pietà	n-f$n-f-sp
 RL	cat	pietat	n-f-ND	ita	pietà	n-f$n-f-sp
-	cat	piga	n-f$n	ita	lentiggine	n-f$n
-	cat	piga	n-f$n	ita	neo	n-m$n
+	cat	piga	n-f	ita	lentiggine	n-f$n
+	cat	piga	n-f	ita	neo	n-m$n
 	cat	pila	n-f$n	ita	pila	n-f$n
 	cat	pilar	n$n-m	ita	pilastro	n-m$n
 	cat	pilot	n-mf$n	ita	pilota	n-m$n$$n-mf-m
@@ -5813,11 +5813,11 @@ RL	cat	pilot	n-mf$n	ita	pilota	n-f
 	cat	pingüí	n-m$n	ita	pinguino	n$n-m
 	cat	pinta	n-f$n	ita	pettine	n$n-m
 	cat	pintor	n$n-m	ita	pittore	n$n-m
-	cat	pintura	n$n-f	ita	vernice	n-f$n
+	cat	pintura	n-f$n	ita	vernice	n-f$n
 	cat	pinyol	n-m$n	ita	osso	n-m$n$n-m-sg
 	cat	pinzell	n$n-m	ita	pennello	n$n-m
 	cat	pioner	n$n-m	ita	pioniere	n-m$n
-	cat	pipa	n$n-f	ita	pipa	n$n-f
+	cat	pipa	n-f$n	ita	pipa	n$n-f
 LR	cat	pirata	n-mf$n	ita	pirata	n-GD
 RL	cat	pirata	n-mf$n	ita	pirata	n-m$$n
 RL	cat	pirata	n-mf$n	ita	pirata	n-f
@@ -5849,7 +5849,7 @@ LR	cat	pitxer	n$n-m	ita	vaso	n-m$n
 	cat	platerets	n-m-pl$n-m	ita	piatto	n-m$$n
 	cat	platet	n-m$n$n-m-sg	ita	piatto	n-m$$n
 	cat	platet	n-m$n$n-m-sg	ita	piatto	n-m$$n
-	cat	platja	n$n-f	ita	spiaggia	n-f$n
+	cat	platja	n-f$n	ita	spiaggia	n-f$n
 	cat	platí	n-m$n	ita	platino	n$n-m$
 	cat	plaça	n-f$n	ita	piazza	n-f$n
 	cat	plebeu	n$$n-f	ita	plebeo	n$$n-GD
@@ -5857,7 +5857,7 @@ LR	cat	pitxer	n$n-m	ita	vaso	n-m$n
 	cat	plet	n-m$n$n-m-sg	ita	contenzioso	n$n-m
 	cat	plom	n-m$n	ita	piombo	n-m$n$
 	cat	ploma	n-f$n	ita	piuma	n-f$n
-	cat	plugim	n-m$n	ita	pioviggine	n$n-f
+	cat	plugim	n-m	ita	pioviggine	n$n-f
 	cat	pluja	n$n-f	ita	pioggia	n-f$n
 	cat	plural	adj$adj-mf	ita	plurale	adj$$adj-mf
 	cat	plural	n-m$n	ita	plurale	n$n-m
@@ -5875,11 +5875,11 @@ LR	cat	poal	n-m$n	ita	cubo	n-m$n
 LR	cat	poblacional	adj$adj-mf	ita	popolare	$adj$adj-mf
 	cat	població	n$n-f	ita	popolazione	n-f$n
 	cat	poble	n-m$n$n-m-pl	ita	popolo	n-m$n
-LR	cat	pobresa	n$n-f$n-f-sg	ita	povertà	n-f-sp$n-f
+LR	cat	pobresa	n-f$n$n-f-sg	ita	povertà	n-f-sp$n-f
 LR	cat	pobresa	n-f-pl	ita	povertà	n-f-sp$n-f
 RL	cat	pobresa	n-f-ND	ita	povertà	n-f-sp$n-f
 	cat	poder	n$n-m	ita	potere	n-m$$n
-	cat	millora	n$n-f	ita	miglioramento	n-m
+	cat	millora	n-f$n	ita	miglioramento	n-m
 	cat	poderós	adj	ita	poderoso	adj$$adj-sup
 	cat	poema	n-m$n	ita	poema	n-m$n
 	cat	poesia	n$n-f	ita	poesia	n-f$n
@@ -5906,7 +5906,7 @@ RL	cat	policial	adj-mf$adj$	ita	poliziesco	adj-f
 	cat	pol·len	n-m$n	ita	polline	n$n-m
 RL	cat	pol·lució	n-f$n$n-f-ND	ita	smog	n-m-sp$n$n-m
 	cat	pol·lució	n-f$n$n-f-ND	ita	inquinamento	n-m
-	cat	polèmica	n$n-f	ita	polemica	n-f$n
+	cat	polèmica	n-f$n	ita	polemica	n-f$n
 	cat	polígon	n-m$n	ita	poligono	n$n-m
 	cat	polític	adj$	ita	politico	adj$$adj-sup
 	cat	polític	n-m$n	ita	politico	n$n-GD
@@ -5930,7 +5930,7 @@ LR	cat	porno	n-m-pl	ita	porno	n-m-sp$n-m
 RL	cat	porno	n-m-ND	ita	porno	n-m-sp$n-m
 	cat	pornografia	n-f$n	ita	pornografia	n$n-f
 	cat	port	n-m$n	ita	porto	n-m$n
-	cat	porta	n$n-f	ita	porta	n-f$n
+	cat	porta	n-f$n	ita	porta	n-f$n
 	cat	portador	n$n-m	ita	portatore	n$n-GD
 LR	cat	portaveu	n-mf$n$n-mf-sg	ita	portavoce	n-mf-sp$n-mf
 LR	cat	portaveu	n-mf-pl	ita	portavoce	n-mf-sp$n-mf
@@ -5965,17 +5965,17 @@ RL	cat	postguerra	n-f-ND	ita	dopoguerra	n-m-sp$n-m
 	cat	potestat	n-f$n	ita	potere	n-m$$n
 	cat	potència	n-f$n	ita	potenza	n-f$n$n-f-m
 	cat	pou	n-m$n	ita	pozzo	n-m$n
-	cat	prada	n$n-f	ita	prateria	n-f$n
-	cat	prada	n$n-f	ita	prato	n-m$n
+	cat	prada	n-f$n	ita	prateria	n-f$n
+	cat	prada	n-f$n	ita	prato	n-m$n
 	cat	pragmàtic	adj$	ita	pragmatico	adj$$adj-sup
 	cat	precari	adj$	ita	precario	$adj
 	cat	precedent	n-m$n$	ita	precedente	n-mf
 	cat	precipici	n$n-m	ita	precipizio	n-m$n
-	cat	precipitació	n$n-f	ita	precipitazione	n-f$n
+	cat	precipitació	n-f$n	ita	precipitazione	n-f$n
 	cat	preciós	adj$$adj-sup	ita	prezioso	adj$$adj-sup
 LR	cat	precís	adj$	ita	indispensabile	adj$$adj-mf
-	cat	predestinació	n$n-f	ita	predestinazione	n$n-f
-	cat	predicció	n$n-f	ita	previsione	n-f$n
+	cat	predestinació	n-f$n	ita	predestinazione	n$n-f
+	cat	predicció	n-f$n	ita	previsione	n-f$n
 	cat	predisposició	n-f$n	ita	predisposizione	n-f$n
 	cat	predominant	adj$adj-mf$	ita	predominante	adj$$adj-mf
 	cat	prefaci	n-m$n	ita	prefazione	n-f
@@ -5983,43 +5983,43 @@ LR	cat	precís	adj$	ita	indispensabile	adj$$adj-mf
 	cat	pregunta	n$n-f	ita	domanda	n-f$n
 	cat	prehistòria	n-f$n	ita	preistoria	n$n-f
 	cat	prehistòric	adj$	ita	preistorico	adj$$adj-sup
-	cat	prejudici	n$n-m	ita	pregiudizio	n-m$n
+	cat	prejudici	n-m$n	ita	pregiudizio	n-m$n
 	cat	preliminar	adj$$adj-mf	ita	preliminare	adj$$adj-mf
 	cat	preludi	n-m$n	ita	preludio	n-m$n
 	cat	premi	n-m$n$n-m-ND	ita	premio	n-m$n
 	cat	premissa	n-f$n	ita	premessa	n-f$n
-	cat	premsa	n$n-f	ita	stampa	n-f$n$
+	cat	premsa	n-f$n	ita	stampa	n-f$n$
 	cat	preocupació	n-f$n	ita	preoccupazione	n-f$n
 	cat	preocupant	adj$adj-mf	ita	preoccupante	adj$$adj-mf
 	cat	preparatori	adj$	ita	preparatorio	adj$
 	cat	preposició	n-f$n	ita	preposizione	n$n-f
-	cat	prescripció	n$n-f	ita	prescrizione	n-f$n
+	cat	prescripció	n-f$n	ita	prescrizione	n-f$n
 	cat	presencial	adj$adj-mf	ita	presenziale	adj$adj-mf
 	cat	present	n-m$n	ita	presente	n-mf
-	cat	presentació	n$n-f	ita	presentazione	n-f$n
+	cat	presentació	n-f$n	ita	presentazione	n-f$n
 	cat	preservació	n-f$n	ita	isolamento	n-m$n
 	cat	preservatiu	n-m$n	ita	profilattico	n$n-m$
 	cat	presidencial	adj$adj-mf$	ita	presidenziale	adj$$adj-mf
 	cat	president	n$n-m	ita	presidente	n$n-m
-	cat	presidència	n$n-f	ita	presidenza	n-f$n
+	cat	presidència	n-f$n	ita	presidenza	n-f$n
 	cat	presoner	n$n-m	ita	prigioniero	n$$n-m
-	cat	pressió	n$n-f	ita	pressione	n-f$n
+	cat	pressió	n-f$n	ita	pressione	n-f$n
 LR	cat	pressupost	n-m$n$n-m-sg	ita	budget	n-m-sp$n-m
 LR	cat	pressupost	n-m-pl	ita	budget	n-m-sp$n-m
 RL	cat	pressupost	n-m-ND	ita	budget	n-m-sp$n-m
 	cat	prest	adj$	ita	presto	adj
 	cat	reputació	n-f$n	ita	reputazione	n-f$n
 	cat	prestigiós	adj$$adj-sup	ita	prestigioso	$adj
-	cat	presència	n$n-f	ita	presenza	n-f$n
+	cat	presència	n-f$n	ita	presenza	n-f$n
 	cat	presó	n-f$n	ita	carcere	n-mf$n
 	cat	presó	n-f$n	ita	prigione	n-f$n$n-f-m
-	cat	pretensió	n$n-f	ita	pretesa	n-f$n
+	cat	pretensió	n-f$n	ita	pretesa	n-f$n
 	cat	preu	n-m$n$n-m-ND	ita	prezzo	n-m$n
 	cat	prevenció	n-f$n	ita	prevenzione	n-f$n
 	cat	previ	adj$$adj-GD	ita	previo	adj
 	cat	previst	adj$	ita	previsto	adj$$adj-sup
 	cat	primat	n-m$n	ita	primato	n-m$n
-	cat	primavera	n$n-f$n-f-ND	ita	primavera	n$n-f
+	cat	primavera	n-f$n$n-f-ND	ita	primavera	n$n-f
 	cat	primer	adj$adj-ord$$adj-ord-GD-ND	ita	primo	adj$adj-ord
 	cat	primordial	adj-mf$adj$	ita	primordiale	adj$adj-mf
 	cat	principal	adj-mf$adj$	ita	principale	$adj$adj-mf
@@ -6030,7 +6030,7 @@ LR	cat	prioritat	n-f-pl	ita	priorità	n-f-sp$n-f
 LR	cat	privadesa	n-f$n$n-f-sg	ita	privacy	n-f-sp$n-f
 LR	cat	privadesa	n-f-pl	ita	privacy	n-f-sp$n-f
 RL	cat	privadesa	n-f-ND	ita	privacy	n-f-sp$n-f
-	cat	privatització	n$n-f	ita	privatizzazione	n$n-f
+	cat	privatització	n-f$n	ita	privatizzazione	n$n-f
 	cat	privilegi	n-m$n	ita	privilegio	n-m$n
 RL	cat	probabilitat	n-f$n$n-f-ND	ita	probabilità	n-f-sp$n-f
 LR	cat	probabilitat	n-f-sg	ita	probabilità	n-f-sp$n-f
@@ -6056,22 +6056,22 @@ RL	cat	professional	n-mf$n$	ita	professionista	n-f
 	cat	profeta	n-mf$n	ita	profeta	n$n-mf
 	cat	profund	adj$	ita	profondo	$adj$adj-sup
 	cat	programa	n-m$n	ita	programma	n-m$n
-LR	cat	programari	n$n-m$n-m-sg	ita	software	n-m-sp$n-m$n
+LR	cat	programari	n-m$n$n-m-sg	ita	software	n-m-sp$n-m$n
 LR	cat	programari	n-m-pl	ita	software	n-m-sp$n-m$n
 RL	cat	programari	n-m-ND	ita	software	n-m-sp$n-m$n
 	cat	progressisme	n-m$n$n-m-sg	ita	progressismo	n$n-m
-	cat	prohibició	n$n-f	ita	divieto	n-m
+	cat	prohibició	n-f$n	ita	divieto	n-m
 	cat	projecte	n-m$n	ita	progetto	n-m$n
 	cat	projectil	n-m$n	ita	proiettile	n-m$n
-	cat	proliferació	n$n-f	ita	proliferazione	n$n-f
-	cat	promesa	n$n-f	ita	promessa	n-f$n
+	cat	proliferació	n-f$n	ita	proliferazione	n$n-f
+	cat	promesa	n-f$n	ita	promessa	n-f$n
 	cat	promocional	adj$adj-mf$	ita	promozionale	adj$$adj-mf
-	cat	promoció	n$n-f	ita	promozione	n-f$n
+	cat	promoció	n-f$n	ita	promozione	n-f$n
 	cat	promotor	adj	ita	promotore	adj
 	cat	pronom	n-m$n	ita	pronome	n$n-m
 	cat	pronunciació	n-f$n	ita	pronuncia	n-f$n
 	cat	pronúncia	n-f$n	ita	pronuncia	n-f$n
-	cat	propaganda	n$n-f	ita	propaganda	n-f$n
+	cat	propaganda	n-f$n	ita	propaganda	n-f$n
 	cat	proper	adj$$adj-GD	ita	vicino	adj$adj-sup
 LR	cat	proper	adj$$adj-GD	ita	prossimo	$adj$adj-sup
 	cat	propi	adj$	ita	proprio	adj$adj-f
@@ -6082,7 +6082,7 @@ LR	cat	propietat	n-f$n$n-f-sg	ita	proprietà	n-f$n-f-sp
 LR	cat	propietat	n-f-pl	ita	proprietà	n-f$n-f-sp
 RL	cat	propietat	n-f-ND	ita	proprietà	n-f$n-f-sp
 	cat	proporcional	adj$adj-mf$	ita	proporzionale	$adj$adj-mf
-	cat	proporció	n$n-f	ita	proporzione	n-f$n
+	cat	proporció	n-f$n	ita	proporzione	n-f$n
 	cat	proposició	n$n-f	ita	proposizione	n-f$n
 	cat	proposta	n$n-f	ita	proposta	n-f$n
 	cat	propòsit	n$n-m	ita	proposito	n-m$n
@@ -6098,7 +6098,7 @@ RL	cat	protagonista	adj-mf$adj	ita	protagonista	adj-f
 LR	cat	protagonista	n-mf$n	ita	protagonista	n-GD
 RL	cat	protagonista	n-mf$n	ita	protagonista	n-m$n-mf-m$n
 RL	cat	protagonista	n-mf$n	ita	protagonista	n-f
-	cat	protecció	n$n-f	ita	protezione	n-f$n
+	cat	protecció	n-f$n	ita	protezione	n-f$n
 	cat	protesta	n-f$n	ita	manifestazione	n-f$n
 	cat	protesta	n-f$n	ita	reclamo	n-m
 	cat	protestant	n$n-mf	ita	protestante	n$n-mf$
@@ -6116,13 +6116,13 @@ LR	cat	prou	adj-mf-sp$adj-mf	ita	sufficiente	adj$$adj-mf$adj-mf-ND
 LR	cat	provisional	adj-mf$adj$	ita	provvisorio	adj-GD
 RL	cat	provisional	adj-mf$adj$	ita	provvisorio	$adj-m$adj
 RL	cat	provisional	adj-mf$adj$	ita	provvisorio	adj-f
-	cat	província	n$n-f	ita	provincia	n-f$n
+	cat	província	n-f$n	ita	provincia	n-f$n
 	cat	prudent	adj$adj-mf$	ita	prudente	$adj$adj-mf
 	cat	prudència	n$n-f	ita	prudenza	n-f$n
-	cat	pràctica	n$n-f	ita	pratica	n-f$n
+	cat	pràctica	n-f$n	ita	pratica	n-f$n
 LR	cat	préssec	n-m$n	ita	pesca	n-f$n
 	cat	príncep	n$n-m	ita	principe	n-m$n
-RL	cat	pròtesi	n-f$n-f-ND$n	ita	protesi	n-f-sp$n-f
+RL	cat	pròtesi	n-f$n-f-ND	ita	protesi	n-f-sp$n-f
 LR	cat	pròtesi	n-f-pl	ita	protesi	n-f-sp$n-f
 LR	cat	pròtesi	n-f-sg	ita	protesi	n-f-sp$n-f
 	cat	pròxim	adj$adj-f$	ita	prossimo	$adj$adj-sup
@@ -6139,7 +6139,7 @@ RL	cat	psiquiatre	n-mf-pl$n	ita	psichiatra	n-f$n-f-pl
 	cat	psiquiatre	n-mf-pl$n	ita	psichiatra	n$n-m$n-mf-m
 	cat	psiquiatria	n-f$n	ita	psichiatria	n$n-f
 	cat	psíquic	adj$	ita	psichico	adj$$adj-sup
-	cat	publicació	n$n-f	ita	pubblicazione	n-f$n
+	cat	publicació	n-f$n	ita	pubblicazione	n-f$n
 LR	cat	publicista	n-mf$n	ita	pubblicista	n-GD
 RL	cat	publicista	n-mf$n	ita	pubblicista	n-m$n
 RL	cat	publicista	n-mf$n	ita	pubblicista	n-f
@@ -6148,7 +6148,7 @@ RL	cat	publicitat	n-f$n$n-f-ND	ita	pubblicità	n-f-sp$n-f
 LR	cat	publicitat	n-f-sg	ita	pubblicità	n-f-sp$n-f
 LR	cat	publicitat	n-f-pl	ita	pubblicità	n-f-sp$n-f
 	cat	pueril	adj$	ita	puerile	adj$$adj-mf
-	cat	pujol	n-m$n	ita	collina	n-f$n
+	cat	pujol	n-m	ita	collina	n-f$n
 	cat	pulmó	n$n-m	ita	polmone	n$n-m
 	cat	punt	n-m$n	ita	punto	n-m$n
 	cat	punta	n-f$n	ita	merletto	n-m$n
@@ -6166,7 +6166,7 @@ LR	cat	pus	n-m$n$n-m-sg	ita	pus	n-m-sp$n-m
 LR	cat	pus	n-m-pl	ita	pus	n-m-sp$n-m
 RL	cat	pus	n-m-ND	ita	pus	n-m-sp$n-m
 	cat	puça	n-f$n	ita	pulce	n$n-f
-	cat	pàgina	n$n-f	ita	pagina	n-f$n
+	cat	pàgina	n-f$n	ita	pagina	n-f$n
 	cat	pàl·lid	adj$	ita	pallido	$adj$adj-sup
 	cat	pàncrees	n-m$n-m-sp$n	ita	pancreas	n-m-sp$n$n-m
 	cat	pànic	n-m$n	ita	panico	n-m$n
@@ -6188,7 +6188,7 @@ RL	cat	pòster	n-m-ND	ita	poster	n-m-sp$n-m
 	cat	quadrat	adj$	ita	quadrato	$adj$adj-sup
 	cat	quadre	n-m$n	ita	quadro	n-m$$n
 	cat	quadre	n-m$n	ita	tabella	n-f$n
-RL	cat	qualitat	n$n-f$n-f-ND	ita	qualità	n-f$n-f-sp
+RL	cat	qualitat	n-f$n$n-f-ND	ita	qualità	n-f$n-f-sp
 LR	cat	qualitat	n-f-sg	ita	qualità	n-f$n-f-sp
 LR	cat	qualitat	n-f-pl	ita	qualità	n-f$n-f-sp
 	cat	quall	n$n-m	ita	caglio	n$n-m
@@ -6266,17 +6266,17 @@ LR	cat	radi	n-m-pl	ita	radio	n-f-sp$n-f$
 	cat	subratllar	vblex	ita	sottolineare	$vblex
 	cat	votació	n-f$n	ita	votazione	n-f$n
 	cat	realisme	n$n-m$n-m-sg	ita	realismo	n$n-m
-RL	cat	realitat	n$n-f$n-f-ND	ita	realtà	n-f-sp$n-f
+RL	cat	realitat	n-f$n$n-f-ND	ita	realtà	n-f-sp$n-f
 LR	cat	realitat	n-f-sg	ita	realtà	n-f-sp$n-f
 LR	cat	realitat	n-f-pl	ita	realtà	n-f-sp$n-f
-	cat	realització	n$n-f	ita	realizzazione	n-f$n
+	cat	realització	n-f$n	ita	realizzazione	n-f$n
 	cat	rebel	adj$adj-mf$	ita	ribelle	adj$$adj-mf
 	cat	rebel·lió	n-f$n	ita	rivolta	n-f$n
 	cat	rebost	n-m$n	ita	credenza	n-f$n
-	cat	recaptació	n$n-f	ita	ricavo	n-m
+	cat	recaptació	n-f$n	ita	ricavo	n-m
 	cat	recerca	n-f$n	ita	ricerca	n-f$n
 	cat	recessió	n-f$n	ita	recessione	n-f$n
-LR	cat	recialla	n-f$n	ita	scarto	n-m$n
+LR	cat	recialla	n-f	ita	scarto	n-m$n
 	cat	recinte	n-m$n	ita	recinto	n-m$n
 	cat	recital	n$n-m	ita	concerto	n$n-m
 	cat	reclús	n$n-f	ita	recluso	n$
@@ -6308,10 +6308,10 @@ RL	cat	referèndum	n-m-ND	ita	referendum	n-m-sp$n-m
 	cat	refineria	n-f$n	ita	raffineria	n$n-f
 	cat	reflexió	n$n-f	ita	riflessione	n-f$n
 	cat	reforestació	n$n-f	ita	riforestazione	n$n-f
-	cat	reforma	n$n-f	ita	riforma	n-f$n
+	cat	reforma	n-f$n	ita	riforma	n-f$n
 	cat	refracció	n-f$n	ita	rifrazione	n$n-f
 	cat	refredat	n-m$n	ita	raffreddore	n$n-m
-	cat	refrigeració	n$n-f	ita	refrigerazione	n$n-m
+	cat	refrigeració	n-f$n	ita	refrigerazione	n$n-m
 	cat	reg	n-m$n	ita	irrigazione	n-f$n
 	cat	regal	n$n-m	ita	dono	n-m$n
 	cat	regata	n$n-f	ita	regata	n$n-f
@@ -6322,7 +6322,7 @@ LR	cat	regatge	n-m$n	ita	irrigazione	n-f$n
 LR	cat	registrador	n-f	ita	registratore	n-m
 	cat	registre	n-m$n	ita	registro	n-m$n
 	cat	regió	n-f$n	ita	regione	n-f$n
-	cat	regla	n$n-f	ita	regola	n-f$n
+	cat	regla	n-f$n	ita	regola	n-f$n
 	cat	regulació	n-f$n	ita	regolamento	n-m$n
 	cat	regular	adj$adj-mf	ita	regolare	$adj$adj-mf
 	cat	rei	n$n-m	ita	re	n-m$n
@@ -6344,32 +6344,32 @@ RL	cat	relació	n-f$n	ita	relazione	n-f$n
 	cat	rem	n-m$n	ita	remo	n-m$n
 	cat	remolatxa	n-f$n	ita	barbabietola	n$n-f
 	cat	remor	n-f$n	ita	rumor	n$n-m
-	cat	remuneració	n$n-f	ita	remunerazione	n$n-f
+	cat	remuneració	n-f$n	ita	remunerazione	n$n-f
 	cat	renaixement	n-m$n	ita	rinascimento	n$n-m
 	cat	renda	n-f$n	ita	reddito	n-m$n
 	cat	renovable	adj$adj-mf$	ita	rinnovabile	adj$adj-sup
 	cat	renovació	n-f$n	ita	rinnovo	n-m
 LR	cat	rent	n-m$n	ita	lievito	n-m$n
-	cat	rentadora	n$n-f	ita	lavatrice	n-f$n
+	cat	rentadora	n-f$n	ita	lavatrice	n-f$n
 LR	cat	renyó	n$n-m	ita	rene	n$n-m
-	cat	repetició	n$n-f	ita	ripetizione	n-f$n
+	cat	repetició	n-f$n	ita	ripetizione	n-f$n
 	cat	repetidor	n-m$n	ita	ripetitore	n$n-GD
-	cat	representació	n$n-f	ita	rappresentazione	n-f$n
+	cat	representació	n-f$n	ita	rappresentazione	n-f$n
 	cat	representant	n-mf$n	ita	rappresentante	n-mf$n
-	cat	repressió	n$n-f	ita	repressione	n-f$n
-	cat	reproducció	n$n-f	ita	riproduzione	n-f$n
+	cat	repressió	n-f$n	ita	repressione	n-f$n
+	cat	reproducció	n-f$n	ita	riproduzione	n-f$n
 	cat	repte	n-m$n	ita	sfida	n-f
 	cat	republicà	adj$	ita	repubblicano	adj$adj-sup
-	cat	repugnància	n$n-f	ita	ripugnanza	n$n-f
+	cat	repugnància	n-f$n	ita	ripugnanza	n$n-f
 	cat	repulsió	n-f$n	ita	repulsione	n-f$n
-	cat	república	n$n-f	ita	repubblica	n$n-f
+	cat	república	n-f$n	ita	repubblica	n$n-f
 	cat	residencial	adj$adj-mf$	ita	residenziale	adj$adj-mf
 	cat	residu	n-m$n-m-pl$n	ita	residuo	n-m$n$$n-m-pl
 	cat	residual	adj$adj-mf$	ita	residuale	adj$adj-mf
-	cat	residència	n$n-f	ita	residenza	n-f$n
+	cat	residència	n-f$n	ita	residenza	n-f$n
 	cat	resistent	adj$adj-mf$	ita	resistente	$adj$adj-mf
 	cat	resistència	n-f$n	ita	resistenza	n-f$n
-	cat	resolució	n$n-f	ita	risoluzione	n-f$n
+	cat	resolució	n-f$n	ita	risoluzione	n-f$n
 LR	cat	respatler	n$n-m	ita	schienale	n$n-m
 LR	cat	respatler	n$n-m	ita	sostegno	n-m$n
 	cat	respatller	n-m$n	ita	schienale	n$n-m
@@ -6386,16 +6386,16 @@ RL	cat	responsabilitat	n-f-ND	ita	responsabilità	n-f-sp$n-f
 	cat	restaurant	n-m$n	ita	ristorante	n$n-m
 	cat	restrictiu	adj$	ita	restrittivo	adj$$adj-sup
 	cat	resultat	n-m$n	ita	risultato	n-m$n
-	cat	resurrecció	n$n-f	ita	resurrezione	n$n-f
+	cat	resurrecció	n-f$n	ita	resurrezione	n$n-f
 	cat	retaule	n-m$n	ita	pala	n-f$n
 	cat	retina	n-f$n	ita	retina	n$n-f
 	cat	retoc	n-m$n	ita	ritocco	n-m$n
 	cat	retrat	n-m$n	ita	ritratto	n-m$n
 	cat	retrospectiu	adj$	ita	retrospettivo	adj$adj-sup
-	cat	retòrica	n$n-f	ita	retorica	n-f$n
+	cat	retòrica	n-f$n	ita	retorica	n-f$n
 	cat	reumatisme	n-m$n$n-m-sg	ita	reumatismo	n-m$n
 	cat	reunió	n-f$n	ita	riunione	n-f$n
-	cat	revelació	n$n-f	ita	rivelazione	n-f$n
+	cat	revelació	n-f$n	ita	rivelazione	n-f$n
 	cat	reversible	adj$adj-mf$	ita	reversibile	adj$adj-mf
 	cat	revista	n-f$n	ita	rivista	n-f$n
 	cat	revitalització	n-f$n	ita	rilancio	n-m
@@ -6412,7 +6412,7 @@ RL	cat	responsabilitat	n-f-ND	ita	responsabilità	n-f-sp$n-f
 	cat	rigor	n-m$n	ita	rigore	n-m$n
 	cat	rigorós	adj$$adj-sup	ita	rigoroso	$adj$adj-sup
 	cat	rima	n-f$n	ita	rima	n$n-f
-	cat	riquesa	n$n-f	ita	ricchezza	n-f$n
+	cat	riquesa	n-f$n	ita	ricchezza	n-f$n
 	cat	risc	n-m$n	ita	rischio	n-m$n
 	cat	ritme	n-m$n	ita	ritmo	n-m$n
 	cat	ritu	n-m$n	ita	rito	n-m$n
@@ -6421,7 +6421,7 @@ RL	cat	responsabilitat	n-f-ND	ita	responsabilità	n-f-sp$n-f
 	cat	riu	n-m$n	ita	fiume	n-m$n
 	cat	riuada	n-f$n	ita	inondazione	n$n-f
 	cat	riure	n-m$n	ita	risata	n-f$n
-LR	cat	roba	n$n-f$n-f-sg	ita	roba	n-f$n$n-f-sg
+LR	cat	roba	n-f$n$n-f-sg	ita	roba	n-f$n$n-f-sg
 	cat	robatori	n-m$n	ita	furto	n$n-m
 LR	cat	robot	n-m$n$n-m-sg	ita	robot	n-m-sp$n-m
 LR	cat	robot	n-m-pl	ita	robot	n-m-sp$n-m
@@ -6499,7 +6499,7 @@ RL	cat	rèquiem	n-m-ND	ita	requiem	n-m-sp
 	cat	safrà	n-m$n	ita	zafferano	n$n-m
 	cat	sagrament	n-m$n	ita	sacramento	n$n-m
 	cat	sagrat	adj$	ita	sacro	adj$adj-sup$
-	cat	sal	n$n-f	ita	sale	n-m$n
+	cat	sal	n-f$n	ita	sale	n-m$n
 	cat	sala	n-f$n	ita	sala	n-f$n
 	cat	salari	n-m$n	ita	salario	n-m$n
 	cat	salarial	adj$adj-mf$	ita	salariale	adj$adj-mf
@@ -6513,9 +6513,9 @@ RL	cat	rèquiem	n-m-ND	ita	requiem	n-m-sp
 	cat	salí	adj$	ita	salino	adj$
 	cat	samarreta	n-f$n	ita	maglia	n-f$n
 	cat	samarreta	n-f$n	ita	maglietta	n-f$n
-	cat	sanció	n$n-f	ita	sanzione	n-f$n
+	cat	sanció	n-f$n	ita	sanzione	n-f$n
 	cat	sang	n-f$n	ita	sangue	n-m
-	cat	sangonera	n$n-f	ita	sanguisuga	n-f$n
+	cat	sangonera	n-f$n	ita	sanguisuga	n-f$n
 	cat	sanguinari	adj	ita	sanguinario	adj$
 	cat	sant	adj$	ita	santo	adj$$adj-sup
 	cat	sant	n$n-m$n-m-sg	ita	santo	n-m$n
@@ -6532,7 +6532,7 @@ RL	cat	sarsuela	n-f-ND	ita	zarzuela	n-f-sp$n-f
 	cat	satèl·lit	n$n-m	ita	satellite	n-m$n$
 	cat	sauna	n-f$n	ita	sauna	n$n-f
 	cat	savi	n$n-m	ita	saggio	n-m$$n
-	cat	secció	n$n-f	ita	sezione	n-f$n
+	cat	secció	n-f$n	ita	sezione	n-f$n
 	cat	secret	adj$	ita	segreto	adj$$adj-sup
 	cat	secret	n$n-m	ita	segreto	n-m$n
 	cat	secretari	n$n-m	ita	segretario	n-m$n
@@ -6565,7 +6565,7 @@ RL	cat	segó	n-m$n-m-sg$n	ita	crusca	n-f-pl
 	cat	senador	n$n-m	ita	senatore	n$n-m
 	cat	senat	n$n-m	ita	senato	n$n-m
 	cat	sencer	adj$	ita	intero	$adj$adj-f
-	cat	senda	n$n-f	ita	cammino	n-m$n
+	cat	senda	n-f$n	ita	cammino	n-m$n
 	cat	sendera	n-f$n	ita	sentiero	n-m$n
 	cat	senglar	n$n-m	ita	cinghiale	n$n-m
 	cat	senil	adj$	ita	senile	adj$$adj-mf
@@ -6607,7 +6607,7 @@ RL	cat	servitud	n-f-ND	ita	servitù	n-f-sp$n-f
 	cat	serè	adj$	ita	sereno	adj$$adj-sup
 	cat	setembre	n$n-m	ita	settembre	n$n-m
 	cat	setge	n-m$n	ita	assedio	n$n-m
-	cat	setmana	n$n-f	ita	settimana	n-f$n
+	cat	setmana	n-f$n	ita	settimana	n-f$n
 	cat	setmanal	adj-mf$adj$	ita	settimanale	adj$$adj-mf
 	cat	setè	adj$adj-ord$adj-ord-GD-ND	ita	settimo	adj$adj-ord$
 	cat	seu	adj-pos$adj$	ita	suo	adj-pos$adj-pos-f-sg
@@ -6628,16 +6628,16 @@ RL	cat	show	n-m-ND	ita	show	n-m-sp$n-m
 	cat	significatiu	adj$	ita	significativo	$adj$adj-sup
 	cat	silenciós	adj$$adj-sup	ita	silenzioso	adj$$adj-sup
 	cat	silici	n-m$n	ita	silicio	n$n-m
-	cat	simbiosi	n-f$n-f-ND$n	ita	simbiosi	n-f-sp$n-f
+	cat	simbiosi	n-f$n-f-ND	ita	simbiosi	n-f-sp$n-f
 	cat	simbiosi	n-f-pl	ita	simbiosi	n-f-sp$n-f
 	cat	simbiosi	n-f-sg	ita	simbiosi	n-f-sp$n-f
 	cat	simbolisme	n-m$n	ita	simbolismo	n$n-m
 	cat	similar	adj$adj-mf$	ita	simile	$adj$adj-mf
 	cat	simple	adj$adj-mf$adj-mf-sg	ita	semplice	$adj-mf$adj
 	cat	simpàtic	adj$	ita	simpatico	adj$$adj-sup
-	cat	simulació	n$n-f	ita	simulazione	n-f$n
+	cat	simulació	n-f$n	ita	simulazione	n-f$n
 	cat	simulador	n-m$n	ita	simulatore	n$n-GD
-	cat	sinagoga	n$n-f	ita	sinagoga	n$n-f
+	cat	sinagoga	n-f$n	ita	sinagoga	n$n-f
 	cat	sincer	adj$$adj-sup	ita	sincero	$adj$adj-sup
 	cat	sindical	adj$adj-mf$	ita	sindacale	adj$$adj-mf
 	cat	sindicat	n-m$n	ita	sindacato	n-m$n
@@ -6649,7 +6649,7 @@ RL	cat	show	n-m-ND	ita	show	n-m-sp$n-m
 LR	cat	sinistre	adj-mf-pl$adj$	ita	sinistro	adj-GD-pl
 RL	cat	sinistre	adj-mf-pl$adj$	ita	sinistro	adj-m-pl
 RL	cat	sinistre	adj-mf-pl$adj$	ita	sinistro	adj-f-pl
-	cat	sintaxi	n-f$n$n-f-ND	ita	sintassi	n-f-sp$n-f
+	cat	sintaxi	n-f$n-f-ND$n	ita	sintassi	n-f-sp$n-f
 	cat	sintaxi	n-f-pl	ita	sintassi	n-f-sp$n-f
 	cat	sintaxi	n-f-sg	ita	sintassi	n-f-sp$n-f
 LR	cat	sinònim	adj$adj-m	ita	sinonimo	adj-m$$adj
@@ -6699,9 +6699,9 @@ RL	cat	solfeig	n-m-sg$n-m$n	ita	solfeggio	n$n-m$n-m-pl
 	cat	solitari	adj$	ita	solitario	adj$$adj-sup
 	cat	solstici	n-m$n	ita	solstizio	n$n-m
 	cat	soluble	adj$adj-mf$	ita	solubile	adj$$adj-mf
-	cat	solució	n$n-f	ita	soluzione	n-f$n
+	cat	solució	n-f$n	ita	soluzione	n-f$n
 	cat	solvent	adj$adj-mf$	ita	solvente	adj$adj-mf
-	cat	somieig	n$n-m	ita	sogno	n-m$n
+	cat	somieig	n-m$n	ita	sogno	n-m$n
 	cat	somni	n$n-m	ita	sogno	n-m$n
 	cat	somni	n$n-m	ita	sonno	n-m$n
 	cat	somriure	n-m$n	ita	sorriso	n-m
@@ -6712,7 +6712,7 @@ RL	cat	solfeig	n-m-sg$n-m$n	ita	solfeggio	n$n-m$n-m-pl
 	cat	soprano	n-f$n	ita	soprano	n$n-mf
 	cat	sord	adj$	ita	sordo	adj$adj-sup
 	cat	sorollós	adj$$adj-sup	ita	rumoroso	adj$
-	cat	sorpresa	n-f$n	ita	sorpresa	n-f$n
+	cat	sorpresa	n-f	ita	sorpresa	n-f$n
 	cat	sorra	n-f$n	ita	sabbia	n$n-f
 	cat	sospitós	adj$	ita	sospettoso	adj$
 	cat	sostenidor	n-m$n	ita	reggiseno	n-m$n
@@ -6778,7 +6778,7 @@ LR	cat	summe	adj-mf-pl$adj	ita	sommo	adj-GD-pl
 	cat	suro	n-m$n	ita	sughero	n-m$n
 	cat	surrealisme	n-m$n	ita	surrealismo	n$n-m
 	cat	susceptible	adj$adj-mf$	ita	suscettibile	$adj$adj-mf
-	cat	suspensió	n$n-f	ita	sospensione	n-f$n
+	cat	suspensió	n-f$n	ita	sospensione	n-f$n
 	cat	sutge	n-m$n	ita	fuliggine	n-f
 	cat	sutura	n-f$n	ita	sutura	n$n-f
 	cat	suís	n$n-m	ita	svizzero	n$$n-GD
@@ -6786,7 +6786,7 @@ LR	cat	suïcida	n-mf$n	ita	suicida	n-GD$$n
 RL	cat	suïcida	n-mf$n	ita	suicida	n-m$n-mf-m
 RL	cat	suïcida	n-mf$n	ita	suicida	n-f
 	cat	suïcidi	n-m$n	ita	suicidio	n-m$n
-	cat	sàtira	n$n-f	ita	satira	n-f$n
+	cat	sàtira	n-f$n	ita	satira	n-f$n
 LR	cat	sèrie	n-f$n$n-f-sg	ita	serie	n-f$n-f-sp
 LR	cat	sèrie	n-f-pl	ita	serie	n-f$n-f-sp
 RL	cat	sèrie	n-f-ND	ita	serie	n-f$n-f-sp
@@ -6822,7 +6822,7 @@ RL	cat	tailandès	n-GD	ita	tailandese	n-mf$n
 	cat	tapisseria	n-f$n	ita	tappezzeria	n-f$n
 	cat	tapís	n-m$n	ita	arazzo	n$n-m
 	cat	taquilla	n-f$n	ita	biglietteria	n$n-f
-	cat	tara	n$n-f	ita	tara	n-f$n
+	cat	tara	n-f$n	ita	tara	n-f$n
 LR	cat	vesprada	n-f$n	ita	pomeriggio	n-m
 	cat	tarda	n-f$n	ita	pomeriggio	n-m
 	cat	tardor	n-f$n	ita	autunno	n-m$n
@@ -6834,14 +6834,14 @@ RL	cat	tardorenc	adj-GD	ita	autunnale	adj-mf$adj$
 	cat	targeta	n-f$n	ita	carta	n-f$n
 	cat	tarifa	n-f$n	ita	tariffa	n-f$n
 	cat	tarja	n$n-f	ita	carta	n-f$n
-	cat	taronja	n$n-f	ita	arancia	n$n-f
+	cat	taronja	n-f$n	ita	arancia	n$n-f
 	cat	tasca	n-f$n	ita	lavoro	n-m$n
 	cat	tascó	n-m	ita	cuneo	n-m
 LR	cat	taula	n-f$n	ita	tavolo	n-GD
 RL	cat	taula	n-f$n	ita	tavolo	n-m$n
 RL	cat	taula	n-f$n	ita	tavolo	n-f
 	cat	tauró	n-m$n	ita	squalo	n$n-m
-	cat	taverna	n$n-f	ita	taverna	n$n-f
+	cat	taverna	n-f$n	ita	taverna	n$n-f
 LR	cat	taxi	n-m$n$n-m-sg	ita	taxi	n-m-sp$n-m
 LR	cat	taxi	n-m-pl	ita	taxi	n-m-sp$n-m
 RL	cat	taxi	n-m-ND	ita	taxi	n-m-sp$n-m
@@ -6857,7 +6857,7 @@ RL	cat	taxista	n-mf$n	ita	tassista	n-f
 	cat	tecnològic	adj$	ita	tecnologico	adj$$adj-sup
 	cat	teixit	n$n-m	ita	tessuto	n-m$n
 	cat	ctele	n	ita	televisione	n-f$n
-	cat	telecomunicació	n$n-f	ita	telecomunicazione	n$n-f
+	cat	telecomunicació	n-f$n	ita	telecomunicazione	n$n-f
 	cat	telefonia	n$n-f	ita	telefonia	n$n-f
 	cat	telefèric	n-m$n	ita	teleferica	n-f
 	cat	telefònic	adj$	ita	telefonico	adj$$adj-sup
@@ -6865,20 +6865,20 @@ RL	cat	taxista	n-mf$n	ita	tassista	n-f
 LR	cat	teletext	n-m$n$n-m-sg	ita	televideo	n-m-sp
 LR	cat	teletext	n-m-pl	ita	televideo	n-m-sp
 RL	cat	teletext	n-m-ND	ita	televideo	n-m-sp
-	cat	televisió	n$n-f	ita	televisione	n-f$n
+	cat	televisió	n-f$n	ita	televisione	n-f$n
 	cat	televisor	n-m$n	ita	televisore	n-m$n
 	cat	telèfon	n-m$n	ita	telefono	n-m$n
 	cat	teló	n-m$n	ita	sipario	n-m$n
 	cat	temible	adj$adj-mf$	ita	temibile	adj$adj-mf
-	cat	temperatura	n$n-f	ita	temperatura	n-f$n
+	cat	temperatura	n-f$n	ita	temperatura	n-f$n
 	cat	tempesta	n-f$n	ita	tormenta	n$n-f
 	cat	temple	n-m$n	ita	tempio	n-m$n
-	cat	temporada	n$n-f	ita	stagione	n$n-f
+	cat	temporada	n-f$n	ita	stagione	n$n-f
 	cat	temporal	adj-mf$adj$	ita	temporale	adj$adj-m$
 LR	cat	temps	n-m-sp$n-m$n	ita	tempo	n-m$n$n-m-ND
 RL	cat	temps	n-m-sp$n-m$n	ita	tempo	n-m-pl
 RL	cat	temps	n-m-sp$n-m$n	ita	tempo	n-m-sg
-	cat	temptativa	n$n-f	ita	tentativo	n-m$n
+	cat	temptativa	n-f$n	ita	tentativo	n-m$n
 RL	cat	tenacitat	n-f$n$n-f-ND	ita	tenacità	n-f-sp
 LR	cat	tenacitat	n-f-sg	ita	tenacità	n-f-sp
 LR	cat	tenacitat	n-f-pl	ita	tenacità	n-f-sp
@@ -6894,7 +6894,7 @@ RL	cat	tenista	n-mf$n	ita	tennista	n-f
 	cat	tennista	n-mf$n	ita	tennista	n-m$n-mf-m
 	cat	tennista	n-mf$n	ita	tennista	n-f
 	cat	tenor	n-m$n	ita	tenore	n-m$n
-	cat	tensió	n$n-f	ita	tensione	n-f$n
+	cat	tensió	n-f$n	ita	tensione	n-f$n
 	cat	teologia	n-f$n	ita	teologia	n$n-f
 	cat	teorema	n-m$n	ita	teorema	n$n-m
 	cat	teoria	n-f$n	ita	teoria	n-f$n
@@ -6906,7 +6906,7 @@ RL	cat	tenista	n-mf$n	ita	tennista	n-f
 	cat	terminal	adj$adj-mf$	ita	terminale	adj$adj-mf
 	cat	terminal	n-f$n	ita	terminale	n-m$$n
 	cat	terminologia	n$n-f	ita	terminologia	n$n-m
-	cat	termodinàmica	n$n-f	ita	termodinamica	n$n-f
+	cat	termodinàmica	n-f$n	ita	termodinamica	n$n-f
 	cat	termòmetre	n-m$n	ita	termometro	n-m$n
 	cat	terra	n-f$n	ita	terra	n-f$n$
 	cat	terrassa	n-f$n	ita	terrazza	n-f$n
@@ -6929,11 +6929,11 @@ RL	cat	terrorista	adj$adj-mf$	ita	terrorista	adj-f
 	cat	testament	n-m$n	ita	testamento	n-m$n
 	cat	text	n$n-m	ita	testo	n-m$n$n-m-sg
 	cat	textual	adj$adj-mf	ita	testuale	adj$$adj-mf
-	cat	tia	n$n-f	ita	zio	n-f
+	cat	tia	n-f$n	ita	zio	n-f
 LR	cat	tigre	n$n-m	ita	tigre	n-f
 LR	cat	tigre	n-f	ita	tigre	n-f
 RL	cat	tigre	n-GD	ita	tigre	n-f
-	cat	timbal	n$n-m	ita	tamburo	n-m$n
+	cat	timbal	n-m$n	ita	tamburo	n-m$n
 	cat	timpà	n$n-m	ita	timpano	n$n-m
 LR	cat	timus	n-m-sp	ita	truffa	n-m$n-m-ND
 	cat	tinent	n-mf$n	ita	tenente	n-m
@@ -6941,7 +6941,7 @@ LR	cat	timus	n-m-sp	ita	truffa	n-m$n-m-ND
 	cat	tipus	n-m-sp$n-m	ita	tipo	n-m$n$
 	cat	tir	n-m$n	ita	tiro	n-m$n
 	cat	titella	n-f	ita	marionetta	n-f$n
-	cat	titlla	n$n-f	ita	tilde	n-mf
+	cat	titlla	n-f$n	ita	tilde	n-mf
 	cat	titulació	n-f$n	ita	titolazione	n$n-f
 	cat	titular	n-mf$n	ita	intestatario	n-m
 	cat	titulat	n	ita	titolato	n$n-GD
@@ -6961,7 +6961,7 @@ LR	cat	timus	n-m-sp	ita	truffa	n-m$n-m-ND
 	cat	torrencial	adj$$adj-mf	ita	torrenziale	adj$adj-mf
 	cat	torró	n$n-m	ita	torrone	n$n-m
 	cat	tors	n-m$n	ita	torso	n$n-m
-	cat	tortura	n$n-f	ita	tortura	n-f$n
+	cat	tortura	n-f$n	ita	tortura	n-f$n
 	cat	tos	n-f-sp$n-f	ita	tosse	n$n-f$n-f-sg
 RL	cat	tos	n-f-sp$n-f	ita	tosse	n-f-pl
 LR	cat	tos	n-f-sp$n-f	ita	tosse	n$n-f$n-f-sg
@@ -6974,7 +6974,7 @@ RL	cat	toxicòman	n-GD	ita	tossicomane	n-mf$
 	cat	tractament	n-m$n	ita	trattamento	n-m$n
 	cat	tractor	n-m$n	ita	trattore	n-m$n
 	cat	tradicional	adj$adj-mf$	ita	tradizionale	adj$$adj-mf
-	cat	tradició	n$n-f	ita	tradizione	n-f$n
+	cat	tradició	n-f$n	ita	tradizione	n-f$n
 	cat	traducció	n$n-f	ita	traduzione	n-f$n
 	cat	traductor	n$n-m	ita	traduttore	n$n-m
 	cat	traficant	n-mf$n	ita	trafficante	n-m
@@ -6989,12 +6989,12 @@ LR	cat	tramvia	n-m-pl	ita	tram	n-m-sp$n-m
 RL	cat	tramvia	n-m-ND	ita	tram	n-m-sp$n-m
 	cat	transatlàntic	adj$	ita	transatlantico	adj$adj-sup
 	cat	transferència	n-f$n	ita	bonifico	n-m
-	cat	transformació	n$n-f	ita	trasformazione	n-f$n
+	cat	transformació	n-f$n	ita	trasformazione	n-f$n
 	cat	transfusió	n-f$n	ita	trasfusione	n$n-f
 	cat	transició	n-f$n	ita	transizione	n$n-f
 	cat	transitori	adj$	ita	transitorio	adj$$adj-f
-LR	cat	transmissió	n$n-f	ita	cambio	n-m$n
-	cat	transmissió	n$n-f	ita	trasmissione	n-f$n
+LR	cat	transmissió	n-f$n	ita	cambio	n-m$n
+	cat	transmissió	n-f$n	ita	trasmissione	n-f$n
 	cat	transparent	adj$adj-mf$	ita	trasparente	adj$$adj-sup
 	cat	transpiració	n-f$n	ita	traspirazione	n$n-f
 	cat	transport	n$n-m	ita	trasporto	n-m$n
@@ -7047,7 +7047,7 @@ RL	cat	tribu	n-f-ND	ita	tribù	n-f-sp$n-f
 LR	cat	tràngol	n-m$n$n-m-sg	ita	trance	n-f-sp$n-f
 LR	cat	tràngol	n-m-pl	ita	trance	n-f-sp$n-f
 RL	cat	tràngol	n-m-ND	ita	trance	n-f-sp$n-f
-	cat	tuberculosi	n-f$n-f-ND$n	ita	tubercolosi	n-f-sp$n$n-f
+	cat	tuberculosi	n-f$n-f-ND	ita	tubercolosi	n-f-sp$n$n-f
 	cat	tuberculosi	n-f-pl	ita	tubercolosi	n-f-sp$n$n-f
 	cat	tuberculosi	n-f-sg	ita	tubercolosi	n-f-sp$n$n-f
 	cat	tulipa	n-f$n	ita	tulipano	n-m$n
@@ -7100,7 +7100,7 @@ RL	cat	unitat	n-f-ND	ita	unità	n-f$n-f-sp
 	cat	univers	n-m$n	ita	universo	n-m$n
 	cat	universal	adj$adj-mf$	ita	universale	$adj$adj-mf
 	cat	universitari	adj$	ita	universitario	adj$$adj-sup
-RL	cat	universitat	n$n-f$n-f-ND	ita	università	n-f-sp$n-f
+RL	cat	universitat	n-f$n$n-f-ND	ita	università	n-f-sp$n-f
 LR	cat	universitat	n-f-sg	ita	università	n-f-sp$n-f
 LR	cat	universitat	n-f-pl	ita	università	n-f-sp$n-f
 	cat	unió	n-f$n	ita	unione	n-f$n
@@ -7124,9 +7124,9 @@ RL	cat	usuari	n-GD	ita	utente	n-mf$n
 	cat	vaga	n-f$n	ita	sciopero	n-m$n
 	cat	vagina	n-f$n	ita	vagina	n$n-f
 	cat	vaginal	adj$$adj-mf	ita	vaginale	adj$adj-mf
-	cat	vaixell	n$n-m	ita	barca	n-f$n
-	cat	vaixell	n$n-m	ita	nave	n-f$n
-	cat	vaixella	n$n-f	ita	vasellame	n-m
+	cat	vaixell	n-m$n	ita	barca	n-f$n
+	cat	vaixell	n-m$n	ita	nave	n-f$n
+	cat	vaixella	n-f$n	ita	vasellame	n-m
 	cat	valencià	adj$	ita	valenziano	adj$adj-sup
 	cat	vall	n-f$n	ita	valle	n-f$n
 	cat	valor	n-m$n	ita	valore	n-m$n
@@ -7137,16 +7137,16 @@ RL	cat	usuari	n-GD	ita	utente	n-mf$n
 LR	cat	vanitat	n$n-f$n-f-sg	ita	vanità	n-f$n-f-sp
 LR	cat	vanitat	n-f-pl	ita	vanità	n-f$n-f-sp
 RL	cat	vanitat	n-f-ND	ita	vanità	n-f$n-f-sp
-	cat	vapor	n$n-m	ita	vapore	n-m$n
+	cat	vapor	n-m$n	ita	vapore	n-m$n
 LR	cat	variabilitat	n-f$n$n-f-sg	ita	variabilità	n-f-sp$n-f
 LR	cat	variabilitat	n-f-pl	ita	variabilità	n-f-sp$n-f
 RL	cat	variabilitat	n-f-ND	ita	variabilità	n-f-sp$n-f
 	cat	variable	n-f$n	ita	variabile	$n$n-f
 LR	cat	varietat	n-f-sg	ita	varietà	n-f$n-f-sp
-LR	cat	varietat	n-f$n$n-f-pl	ita	varietà	n-f$n-f-sp
+LR	cat	varietat	n-f$n-f-pl$n	ita	varietà	n-f$n-f-sp
 RL	cat	varietat	n-f-ND	ita	varietà	n-f$n-f-sp
 LR	cat	vas	n$n-m	ita	bicchiere	n$n-m
-	cat	vasectomia	n	ita	vasectomia	n$n-f
+	cat	vasectomia	n$n-f	ita	vasectomia	n$n-f
 	cat	vector	n$n-m	ita	vettore	n$n-m
 	cat	vedat	n-m$n	ita	moncone	n-m$n
 	cat	vegada	n-f$n$n-f-ND	ita	volta	n-f$n
@@ -7165,7 +7165,7 @@ LR	cat	veloç	adj-m-pl	ita	veloce	$adj$adj-mf-pl$adj-mf
 LR	cat	veloç	adj-f-pl	ita	veloce	$adj$adj-mf-pl$adj-mf
 RL	cat	veloç	adj-GD-pl	ita	veloce	$adj$adj-mf-pl$adj-mf
 	cat	vena	n$n-f	ita	vena	n-f$n
-	cat	venda	n$n-f	ita	vendita	n$n-f
+	cat	venda	n-f$n	ita	vendita	n$n-f
 	cat	veneçolà	n$n-m	ita	venezuelano	n$n-GD
 	cat	vent	n-m$n	ita	vento	n-m$n
 	cat	ventall	n-m$n	ita	ventaglio	n$n-m
@@ -7204,7 +7204,7 @@ LR	cat	vestigi	n-m$n	ita	traccia	n-f$n
 	cat	veterinari	adj	ita	veterinario	adj$$adj-sup
 	cat	veterinari	n$n-GD$	ita	veterinario	n$n-m
 	cat	veterinària	n	ita	veterinaria	n-f$n
-	cat	veu	n$n-f$n-f-ND	ita	voce	n-f$n
+	cat	veu	n-f$n$n-f-ND	ita	voce	n-f$n
 	cat	veí	adj	ita	vicino	adj$adj-sup
 	cat	veí	n$n-m	ita	vicino	n$n-m
 	cat	veïnal	adj$adj-mf	ita	vicinale	adj$adj-mf
@@ -7219,8 +7219,8 @@ LR	cat	vestigi	n-m$n	ita	traccia	n-f$n
 	cat	vibració	n-f$n	ita	vibrazione	n-f$n
 	cat	vibrant	adj$adj-mf$	ita	vibrante	adj$adj-mf
 	cat	vicari	n-m$n	ita	parroco	n-m$n
-	cat	victòria	n$n-f	ita	vittoria	n$n-f
-	cat	vida	n$n-f	ita	vita	n-f$n
+	cat	victòria	n-f$n	ita	vittoria	n$n-f
+	cat	vida	n-f$n	ita	vita	n-f$n
 LR	cat	videoconsola	n-f$n$n-f-sg	ita	videoconsole	n-f-sp$n-f
 LR	cat	videoconsola	n-f-pl	ita	videoconsole	n-f-sp$n-f
 RL	cat	videoconsola	n-f-ND	ita	videoconsole	n-f-sp$n-f
@@ -7244,7 +7244,7 @@ LR	cat	vinent	adj-mf-sp	ita	prossimo	adj-GD-ND
 	cat	vinyeta	n-f$n	ita	vignetta	n$n-f
 	cat	violació	n-f$n	ita	stupro	n-m
 	cat	violent	adj$	ita	violento	$adj$adj-sup
-	cat	violència	n$n-f	ita	violenza	n-f$n
+	cat	violència	n-f$n	ita	violenza	n-f$n
 	cat	violí	n$n-m	ita	violino	n-m$n$n-mf-m
 	cat	viral	adj$$adj-mf	ita	virale	adj$$adj-mf
 	cat	virginal	adj$$adj-mf	ita	verginale	adj$$adj-mf
@@ -7259,7 +7259,7 @@ RL	cat	virtut	n-f-ND	ita	virtù	n-f-sp$n-f
 	cat	virtuós	adj$	ita	virtuoso	adj$$adj-sup
 	cat	virus	n-m-sp$n$n-m	ita	virus	n-m$n-m-sp$n
 	cat	visceral	adj-mf$adj$	ita	viscerale	$adj$adj-mf
-RL	cat	viscositat	n$n-f$n-f-ND	ita	viscosità	n-f-sp$n-f
+RL	cat	viscositat	n-f$n$n-f-ND	ita	viscosità	n-f-sp$n-f
 LR	cat	viscositat	n-f-sg	ita	viscosità	n-f-sp$n-f
 LR	cat	viscositat	n-f-pl	ita	viscosità	n-f-sp$n-f
 	cat	viscós	adj$	ita	viscoso	adj$
@@ -7274,8 +7274,8 @@ RL	cat	visibilitat	n-f-ND	ita	visibilità	n-f-sp$n-f
 	cat	visual	n$n-f	ita	visuale	n-f$n
 	cat	vital	adj$adj-mf$	ita	vitale	$adj$adj-mf
 	cat	vitamina	n-f$n	ita	vitamina	n$n-f
-	cat	coalició	n$n-f	ita	coalizione	n-f$n
-	cat	fortificació	n$n-f	ita	fortificazione	n-f$n
+	cat	coalició	n-f$n	ita	coalizione	n-f$n
+	cat	fortificació	n-f$n	ita	fortificazione	n-f$n
 	cat	vitrina	n-f$n	ita	vetrina	n-f$n
 	cat	vivaç	adj$adj-mf-sg$	ita	vivace	adj-mf-sg
 LR	cat	vivaç	adj-m-pl	ita	vivace	$adj$adj-mf-pl$adj-mf
@@ -7283,7 +7283,7 @@ LR	cat	vivaç	adj-f-pl	ita	vivace	$adj$adj-mf-pl$adj-mf
 RL	cat	vivaç	adj-GD-pl	ita	vivace	$adj$adj-mf-pl$adj-mf
 	cat	viver	n-m$n	ita	vivaio	n-m$n
 	cat	vocabulari	n-m$n	ita	lessico	n-m$n
-	cat	vocació	n$n-f	ita	vocazione	n-f$n
+	cat	vocació	n-f$n	ita	vocazione	n-f$n
 	cat	vocal	adj$adj-mf	ita	vocale	$adj$adj-mf
 	cat	vocal	n$n-f	ita	vocale	n-f$n
 	cat	vodka	n-m$n	ita	vodka	n-f$n
@@ -7306,10 +7306,10 @@ LR	cat	voluntat	n-f-pl	ita	volontà	n-f$n-f-sp
 	cat	vot	n-m$n	ita	voto	n-m$n
 	cat	vulgar	adj$adj-mf$	ita	volgare	$adj$adj-mf
 	cat	vulnerable	adj$adj-mf$	ita	vulnerabile	adj$$adj-mf
-	cat	vàlvula	n$n-f	ita	valvola	n-f$n
+	cat	vàlvula	n-f$n	ita	valvola	n-f$n
 	cat	vàter	n-m$n	ita	gabinetto	n-m$n
 	cat	vèrtebra	n-f$n	ita	vertebra	n$n-f
-	cat	víctima	n$n-f	ita	vittima	n-f$n$
+	cat	víctima	n-f$n	ita	vittima	n-f$n$
 LR	cat	vídeo	n-m$n$n-m-sg	ita	video	n-m-sp$n-m
 LR	cat	vídeo	n-m-pl	ita	video	n-m-sp$n-m
 RL	cat	vídeo	n-m-ND	ita	video	n-m-sp$n-m
@@ -7338,7 +7338,7 @@ LR	cat	xef	n-mf-pl	ita	chef	n-m-sp
 RL	cat	xef	n-mf-ND	ita	chef	n-m-sp
 	cat	xemeneia	n-f$n	ita	camino	n-m$n
 	cat	xenofòbia	n$n-f	ita	xenofobia	n$n-f
-	cat	xeringa	n$n-f	ita	siringa	n$n-f
+	cat	xeringa	n-f$n	ita	siringa	n$n-f
 	cat	xerrada	n-f$n	ita	ciarla	n$n-f
 	cat	xic	adj	ita	piccolo	$adj$adj-m
 	cat	xic	n-f$n$	ita	ragazzo	n$n-m$n-m-sg
@@ -7359,14 +7359,14 @@ RL	cat	xip	n-m-ND	ita	chip	n-m-sp
 	cat	xiprer	n-m$n	ita	cipresso	n$n-m
 	cat	xiuletada	n-f	ita	fischio	n-m$n
 	cat	xoc	n-m$n	ita	scontro	n-m$n
-	cat	xocolata	n-f$n	ita	cioccolato	n-m$n
+	cat	xocolata	n-f	ita	cioccolato	n-m$n
 	cat	xou	n$n-m	ita	show	n-m-sp$n-m
-	cat	xulla	n$n-f	ita	cotoletta	n$n-f
+	cat	xulla	n-f$n	ita	cotoletta	n$n-f
 	cat	xàrcia	n$n-f	ita	rete	n-f$n
 	cat	zebra	n-f$n	ita	zebra	n-f$n
 	cat	zero	n-m$n	ita	zero	n-m$n$
 	cat	zinc	n-m$n$n-m-sg	ita	zinco	n$n-m
-	cat	zona	n$n-f	ita	zona	n-f$n
+	cat	zona	n-f$n	ita	zona	n-f$n
 	cat	àbac	n$n-m	ita	abaco	n$n-m
 	cat	àcid	adj$	ita	acido	$adj$adj-sup
 	cat	àcid	n$n-m	ita	acido	n$n-m
@@ -7383,7 +7383,7 @@ RL	cat	àlbum	n-m-ND	ita	album	n-m-sp$n-m
 	cat	àngel	n-m$n	ita	angelo	n-m$n
 	cat	ànima	n$n-f	ita	anima	n-f$n
 	cat	ànsia	n-f$n	ita	ansia	n-f$n
-LR	cat	àpat	n-m$n	ita	cibo	n-m$n
+LR	cat	àpat	n-m	ita	cibo	n-m$n
 LR	cat	àrab	adj-mf$adj$	ita	arabo	adj-GD
 RL	cat	àrab	adj-mf$adj$	ita	arabo	adj$adj-m
 RL	cat	àrab	adj-mf$adj$	ita	arabo	adj-f
@@ -7407,7 +7407,7 @@ RL	cat	ètnia	n-f-ND	ita	etnia	n-f$n-f-sp$n
 	cat	íntim	adj$	ita	intimo	adj$$adj-sup
 	cat	òpera	n-f$n	ita	opera	n-f$n
 	cat	òptic	adj$	ita	ottico	adj$$adj-sup
-	cat	òrbita	n$n-f	ita	orbita	n-f$n
+	cat	òrbita	n-f$n	ita	orbita	n-f$n
 	cat	òrgan	n$n-m	ita	organo	n-m$n
 	cat	òxid	n-m$n	ita	ossido	n$n-m
 LR	cat	ós	n$n-m$n-m-ND	ita	orso	n-m$n
@@ -8596,7 +8596,7 @@ LR	cat	respecte a	pr	ita	rispetto a	pr
 	cat	respecte	n-m$n	ita	rispetto	n-m$n
 	cat	harmonització	n-f$n	ita	armonizzazione	n$n-f
 	cat	respectuosament	adv	ita	rispettosamente	adv
-	cat	circulació	n$n-f	ita	circolazione	n-f$n
+	cat	circulació	n-f$n	ita	circolazione	n-f$n
 	cat	ricament	adv	ita	riccamente	adv
 LR	cat	rotundament	adv	ita	completamente	adv$
 	cat	ràpidament	adv	ita	rapidamente	adv

@@ -64,7 +64,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	dva	num$num-ma	slv	dve	num
 	ces	tři	num$num-mf	slv	trije	num
 	ces	čtyři	num-mf$num	slv	štiri	num
-	ces	pět	num$num-qnt$num-qnt-nm	slv	pet	num
+	ces	pět	num$num-qnt$num-qnt-mf	slv	pet	num
 	ces	první	num-ord	slv	prvi	num$num-ord
 	ces	auto	n-nt	slv	avto	n-m
 	ces	rok	n-m	slv	leto	n-nt
@@ -76,7 +76,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	počátek	n-m	slv	začetek	n-m
 	ces	muž	n-m	slv	mož	n-m
 	ces	Bůh	n-m	slv	Bog	n-m
-	ces	nebe	n-nt-sg$n-nt	slv	nebo	n-nt$n
+	ces	nebe	n-nt$n-nt-sg	slv	nebo	n-nt$n
 	ces	jablko	n-nt	slv	jabolko	n-nt$n
 	ces	mléko	n-nt	slv	mleko	n-nt
 	ces	země	n-f	slv	zemlja	n-f
@@ -363,7 +363,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	dánský	adj	slv	danski	adj$adj-add_comp
 	ces	modrý	adj$adj-sint	slv	moder	adj$adj-comp
 	ces	nový	adj-sint$adj	slv	nov	adj$adj-comp
-	ces	malý	adj-sint$adj$adj-sint-mi	slv	mali	adj
+	ces	malý	adj$adj-sint$adj-sint-mi	slv	mali	adj
 	ces	velký	adj$adj-sint$adj-sint-nt	slv	velik	adj
 	ces	dlouhý	adj	slv	dolg	adj
 	ces	široký	adj-sint$adj	slv	širok	adj$adj-add_comp
@@ -435,7 +435,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	levý	adj	slv	levi	adj
 	ces	liberální	adj$adj-sint	slv	liberalen	adj$adj-comp
 	ces	madridský	adj	slv	madridski	adj$adj-add_comp
-	ces	malý	adj-sint$adj$adj-sint-mi	slv	mali	adj
+	ces	malý	adj$adj-sint$adj-sint-mi	slv	mali	adj
 	ces	matematický	adj	slv	matematičen	adj
 	ces	mechanický	adj	slv	mehanski	adj
 	ces	mezinárodní	adj	slv	mednaroden	adj$adj-add_comp
@@ -526,7 +526,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	vlivný	adj	slv	vpliven	adj$adj-comp
 	ces	vojenský	adj	slv	vojaški	adj
 	ces	volený	adj	slv	voljen	adj
-	ces	vysoký	adj-sint$adj	slv	visok	adj
+	ces	vysoký	adj$adj-sint	slv	visok	adj
 	ces	žabí	adj	slv	žabji	adj
 	ces	zasloužený	adj	slv	zaslužen	adj$adj-comp
 	ces	zelený	adj	slv	zelen	adj$adj-add_comp
@@ -537,7 +537,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	zúžený	adj	slv	zožen	adj
 	ces	být	vbser	slv	biti	vbser$vbser-fut
 	ces	mít	vblex$vblex-imperf-tv	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg
-	ces	chtít	vblex$vblex-imperf	slv	hoteti	vblex$vblex-imperf-tv-past$vblex-imperf
+	ces	chtít	vblex$vblex-impf	slv	hoteti	vblex$vblex-imperf-tv-past$vblex-imperf
 	ces	číst	vblex$vblex-imperf	slv	brati	vblex
 	ces	podepsat	vblex-perf$vblex	slv	podpisati	vblex$vblex-perf
 	ces	připravit	vblex$vblex-perf	slv	pripraviti	vblex$vblex-perf
@@ -545,7 +545,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	stvořit	vblex	slv	ustvariti	vblex$vblex-perf
 	ces	nakreslit	vblex	slv	narisati	vblex$vblex-perf
 	ces	umřít	vblex$vblex-perf	slv	umreti	vblex$vblex-perf
-	ces	vědět	vblex-imperf$vblex$vblex-imperf-tv	slv	vedeti	vblex$vblex-imperf
+	ces	vědět	vblex-impf$vblex	slv	vedeti	vblex$vblex-imperf
 	ces	začít	vblex$vblex-perf	slv	začeti	vblex-perf$vblex$vblex-perf-tv
 	ces	diskutovat	vblex	slv	razpravljati	vblex$vblex-imperf
 	ces	kde	adv-itg	slv	kje	adv-itg

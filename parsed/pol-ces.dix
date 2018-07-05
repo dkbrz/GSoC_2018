@@ -296,16 +296,16 @@ LR	pol	nasz	prn$prn-pos$prn-pos-mp	ces	náš	prn-pos$prn-pos-ma
 	pol	nasz	prn$prn-pos$prn-pos-mp	ces	náš	prn-pos$prn-pos-ma
 LR	pol	wasz	prn$prn-pos$prn-pos-mp	ces	váš	prn-pos$prn-pos-ma
 	pol	wasz	prn$prn-pos$prn-pos-mp	ces	váš	prn-pos$prn-pos-ma
-LR	pol	ile	prn$prn-ind-mp	ces	kolik	prn-ind-mf
-	pol	ile	prn-ind-nm$prn-ind-nm-pl	ces	kolik	prn-ind-mf
+LR	pol	ile	prn$prn-ind-mp	ces	kolik	prn-ind-mf$prn-ind
+	pol	ile	prn-ind-nm$prn-ind-nm-pl	ces	kolik	prn-ind-mf$prn-ind
 	pol	oba	prn$prn-ind$prn-ind-mp	ces	oba	prn-ind$prn-ind-ma
 LR	pol	oba	prn$prn-ind$prn-ind-mp	ces	oba	prn-ind$prn-ind-ma
 LR	pol	obydwa	prn$prn-ind$prn-ind-mp	ces	oba	prn-ind$prn-ind-ma
 LR	pol	obydwa	prn$prn-ind$prn-ind-mp	ces	oba	prn-ind$prn-ind-ma
 	pol	nic	prn$prn-ind$prn-ind-nt	ces	nic	prn-ind-nt$prn-ind$prn-ind-nt-sg
 	pol	nikt	prn$prn-ind$prn-ind-mp	ces	nikdo	prn-ind-ma$prn$prn-ind
-	pol	wiele	prn$prn-ind-mp	ces	mnoho	prn-ind-mf
-LR	pol	wiele	prn-ind-nm	ces	mnoho	prn-ind-mf
+	pol	wiele	prn$prn-ind-mp	ces	mnoho	prn-ind$prn-ind-mf
+LR	pol	wiele	prn-ind-nm	ces	mnoho	prn-ind$prn-ind-mf
 	pol	gdzieś	prn-ind$prn	ces	někde	prn-ind
 LR	pol	dokądś	prn-ind$prn	ces	někde	prn-ind
 	pol	kiedyś	prn-ind$prn	ces	někdy	prn-ind
@@ -371,8 +371,8 @@ RL	pol	jej	det-pos$det-pos-sp$det	ces	její	det-pos-mi
 RL	pol	jej	det-pos$det-pos-sp$det	ces	její	det-pos-ma
 RL	pol	jej	det-pos$det-pos-sp$det	ces	její	det-pos-nt
 RL	pol	jej	det-pos$det-pos-sp$det	ces	její	det-pos-f
-	pol	każdy	det-ind-mp-sg	ces	každý	det-ind-ma-sg
-LR	pol	każdy	det-ind-ma-sg	ces	každý	det-ind-ma-sg
+	pol	każdy	det-ind-mp-sg	ces	každý	det-ind-ma-sg$det-ind
+LR	pol	każdy	det-ind-ma-sg	ces	každý	det-ind-ma-sg$det-ind
 	pol	każdy	det-ind-mi-sg	ces	každý	det-ind-mi-sg
 	pol	każdy	det-ind-nt-sg	ces	každý	det-ind-nt-sg
 	pol	każdy	det-ind-f-sg	ces	každý	det-ind-f-sg
@@ -422,16 +422,16 @@ LR	pol	nasz	det-pos$det$det-pos-mp	ces	náš	det-pos$det-pos-ma
 LR	pol	wasz	det-pos$det$det-pos-mp	ces	váš	det-pos$det-pos-ma
 	pol	oba	det$det-ind$det-ind-mp	ces	oba	det-ind$det-ind-ma
 LR	pol	oba	det$det-ind$det-ind-mp	ces	oba	det-ind$det-ind-ma
-LR	pol	ile	det$det-qnt-mp	ces	kolik	det-qnt-mf
-	pol	ile	det-qnt-nm	ces	kolik	det-qnt-mf
-	pol	dużo	det$det-qnt	ces	mnoho	det-qnt$det-qnt-nm
+LR	pol	ile	det$det-qnt-mp	ces	kolik	det-qnt-mf$det-qnt
+	pol	ile	det-qnt-nm	ces	kolik	det-qnt-mf$det-qnt
+	pol	dużo	det$det-qnt	ces	mnoho	det-qnt$det-qnt-mf
 	pol	tyle	det$det-qnt	ces	tolik	det-qnt
 LR	pol	kilka	det$det-qnt-mp	ces	několik	det-qnt-mf
 	pol	kilka	det-qnt-nm	ces	několik	det-qnt-mf
 LR	pol	ileś	det$det-qnt-mp	ces	několik	det-qnt-mf
 LR	pol	ileś	det-qnt-nm	ces	několik	det-qnt-mf
-LR	pol	wiele	det$det-qnt-mp	ces	mnoho	det-qnt-mf
-	pol	wiele	det-qnt-nm	ces	mnoho	det-qnt-mf
+LR	pol	wiele	det$det-qnt-mp	ces	mnoho	det-qnt$det-qnt-mf
+	pol	wiele	det-qnt-nm	ces	mnoho	det-qnt$det-qnt-mf
 	pol	pierwszy	det-ord$det	ces	první	det-ord
 	pol	drugi	det$det-ord	ces	druhý	det-ord
 	pol	trzeci	det-ord$det	ces	třetí	det-ord
@@ -504,60 +504,60 @@ LR	pol	trzy	num$num-mp	ces	tři	num$num-mf
 	pol	trzy	num-nm	ces	tři	num$num-mf
 LR	pol	cztery	num$num-mp	ces	čtyři	num-mf$num
 	pol	cztery	num-nm	ces	čtyři	num-mf$num
-LR	pol	pięć	num$num-qnt$num-qnt-mp	ces	pět	num-qnt-mf
-	pol	pięć	num-qnt-nm	ces	pět	num-qnt-mf
-LR	pol	sześć	num$num-qnt$num-qnt-mp	ces	šest	num-qnt-mf
-	pol	sześć	num-qnt-nm	ces	šest	num-qnt-mf
-LR	pol	siedem	num$num-qnt$num-qnt-mp	ces	sedm	num-qnt-mf
-	pol	siedem	num-qnt-nm	ces	sedm	num-qnt-mf
-LR	pol	osiem	num$num-qnt$num-qnt-mp	ces	osm	num-qnt-mf
-	pol	osiem	num-qnt-nm	ces	osm	num-qnt-mf
-LR	pol	dziewięć	num$num-qnt$num-qnt-mp	ces	devět	num-qnt-mf
-	pol	dziewięć	num-qnt-nm	ces	devět	num-qnt-mf
-LR	pol	dziesięć	num$num-qnt$num-qnt-mp	ces	deset	num-qnt-mf
-	pol	dziesięć	num-qnt-nm	ces	deset	num-qnt-mf
-LR	pol	jedenaście	num$num-qnt$num-qnt-mp	ces	jedenáct	num-qnt-mf
-	pol	jedenaście	num-qnt-nm	ces	jedenáct	num-qnt-mf
-LR	pol	dwanaście	num$num-qnt$num-qnt-mp	ces	dvanáct	num-qnt-mf
-	pol	dwanaście	num-qnt-nm	ces	dvanáct	num-qnt-mf
-LR	pol	trzynaście	num$num-qnt$num-qnt-mp	ces	třináct	num-qnt-mf
-	pol	trzynaście	num-qnt-nm	ces	třináct	num-qnt-mf
-LR	pol	czternaście	num$num-qnt$num-qnt-mp	ces	čtrnáct	num-qnt-mf
-	pol	czternaście	num-qnt-nm	ces	čtrnáct	num-qnt-mf
-LR	pol	piętnaście	num$num-qnt$num-qnt-mp	ces	patnáct	num-qnt-mf
-	pol	piętnaście	num-qnt-nm	ces	patnáct	num-qnt-mf
-LR	pol	szesnaście	num$num-qnt$num-qnt-mp	ces	šestnáct	num-qnt-mf
-	pol	szesnaście	num-qnt-nm	ces	šestnáct	num-qnt-mf
-LR	pol	siedemnaście	num$num-qnt$num-qnt-mp	ces	sedmnáct	num-qnt-mf
-	pol	siedemnaście	num-qnt-nm	ces	sedmnáct	num-qnt-mf
-LR	pol	osiemnaście	num$num-qnt$num-qnt-mp	ces	osmnáct	num-qnt-mf
-	pol	osiemnaście	num-qnt-nm	ces	osmnáct	num-qnt-mf
-LR	pol	dziewiętnaście	num$num-qnt$num-qnt-mp	ces	devatenáct	num-qnt-mf
-	pol	dziewiętnaście	num-qnt-nm	ces	devatenáct	num-qnt-mf
-LR	pol	dwadzieścia	num$num-qnt$num-qnt-mp	ces	dvacet	num-qnt-mf
-	pol	dwadzieścia	num-qnt-nm	ces	dvacet	num-qnt-mf
-LR	pol	trzydzieści	num$num-qnt$num-qnt-mp	ces	třicet	num-qnt-mf
-	pol	trzydzieści	num-qnt-nm	ces	třicet	num-qnt-mf
-LR	pol	czterdzieści	num$num-qnt$num-qnt-mp	ces	čtyřicet	num-qnt-mf
-	pol	czterdzieści	num-qnt-nm	ces	čtyřicet	num-qnt-mf
-LR	pol	pięćdziesiąt	num-qnt$num$num-qnt-mp	ces	padesát	num-qnt-mf
-	pol	pięćdziesiąt	num-qnt-nm	ces	padesát	num-qnt-mf
-LR	pol	sześćdziesiąt	num$num-qnt$num-qnt-mp	ces	šedesát	num-qnt-mf
-	pol	sześćdziesiąt	num-qnt-nm	ces	šedesát	num-qnt-mf
-LR	pol	siedemdziesiąt	num$num-qnt$num-qnt-mp	ces	sedmdesát	num-qnt-mf
-	pol	siedemdziesiąt	num-qnt-nm	ces	sedmdesát	num-qnt-mf
-LR	pol	osiemdziesiąt	num$num-qnt$num-qnt-mp	ces	osmdesát	num-qnt-mf
-	pol	osiemdziesiąt	num-qnt-nm	ces	osmdesát	num-qnt-mf
-LR	pol	dziewięćdziesiąt	num$num-qnt$num-qnt-mp	ces	devadesát	num-qnt-mf
-	pol	dziewięćdziesiąt	num-qnt-nm	ces	devadesát	num-qnt-mf
-LR	pol	sto	num$num-qnt$num-qnt-mp	ces	sto	num-qnt-mf
-	pol	sto	num-qnt-nm	ces	sto	num-qnt-mf
+LR	pol	pięć	num$num-qnt$num-qnt-mp	ces	pět	num$num-qnt$num-qnt-mf
+	pol	pięć	num-qnt-nm	ces	pět	num$num-qnt$num-qnt-mf
+LR	pol	sześć	num$num-qnt$num-qnt-mp	ces	šest	num-qnt$num$num-qnt-mf
+	pol	sześć	num-qnt-nm	ces	šest	num-qnt$num$num-qnt-mf
+LR	pol	siedem	num$num-qnt$num-qnt-mp	ces	sedm	num-qnt$num-qnt-mf
+	pol	siedem	num-qnt-nm	ces	sedm	num-qnt$num-qnt-mf
+LR	pol	osiem	num$num-qnt$num-qnt-mp	ces	osm	num-qnt$num-qnt-mf
+	pol	osiem	num-qnt-nm	ces	osm	num-qnt$num-qnt-mf
+LR	pol	dziewięć	num$num-qnt$num-qnt-mp	ces	devět	num-qnt$num-qnt-mf
+	pol	dziewięć	num-qnt-nm	ces	devět	num-qnt$num-qnt-mf
+LR	pol	dziesięć	num$num-qnt$num-qnt-mp	ces	deset	num-qnt$num-qnt-mf
+	pol	dziesięć	num-qnt-nm	ces	deset	num-qnt$num-qnt-mf
+LR	pol	jedenaście	num$num-qnt$num-qnt-mp	ces	jedenáct	num-qnt$num-qnt-mf
+	pol	jedenaście	num-qnt-nm	ces	jedenáct	num-qnt$num-qnt-mf
+LR	pol	dwanaście	num$num-qnt$num-qnt-mp	ces	dvanáct	num-qnt-mf$num-qnt
+	pol	dwanaście	num-qnt-nm	ces	dvanáct	num-qnt-mf$num-qnt
+LR	pol	trzynaście	num$num-qnt$num-qnt-mp	ces	třináct	num-qnt-mf$num-qnt
+	pol	trzynaście	num-qnt-nm	ces	třináct	num-qnt-mf$num-qnt
+LR	pol	czternaście	num$num-qnt$num-qnt-mp	ces	čtrnáct	num-qnt-mf$num-qnt
+	pol	czternaście	num-qnt-nm	ces	čtrnáct	num-qnt-mf$num-qnt
+LR	pol	piętnaście	num$num-qnt$num-qnt-mp	ces	patnáct	num-qnt-mf$num-qnt
+	pol	piętnaście	num-qnt-nm	ces	patnáct	num-qnt-mf$num-qnt
+LR	pol	szesnaście	num$num-qnt$num-qnt-mp	ces	šestnáct	num-qnt-mf$num-qnt
+	pol	szesnaście	num-qnt-nm	ces	šestnáct	num-qnt-mf$num-qnt
+LR	pol	siedemnaście	num$num-qnt$num-qnt-mp	ces	sedmnáct	num-qnt-mf$num-qnt
+	pol	siedemnaście	num-qnt-nm	ces	sedmnáct	num-qnt-mf$num-qnt
+LR	pol	osiemnaście	num$num-qnt$num-qnt-mp	ces	osmnáct	num-qnt-mf$num-qnt
+	pol	osiemnaście	num-qnt-nm	ces	osmnáct	num-qnt-mf$num-qnt
+LR	pol	dziewiętnaście	num$num-qnt$num-qnt-mp	ces	devatenáct	num-qnt-mf$num-qnt
+	pol	dziewiętnaście	num-qnt-nm	ces	devatenáct	num-qnt-mf$num-qnt
+LR	pol	dwadzieścia	num$num-qnt$num-qnt-mp	ces	dvacet	num-qnt-mf$num-qnt
+	pol	dwadzieścia	num-qnt-nm	ces	dvacet	num-qnt-mf$num-qnt
+LR	pol	trzydzieści	num$num-qnt$num-qnt-mp	ces	třicet	num-qnt-mf$num-qnt
+	pol	trzydzieści	num-qnt-nm	ces	třicet	num-qnt-mf$num-qnt
+LR	pol	czterdzieści	num$num-qnt$num-qnt-mp	ces	čtyřicet	num-qnt-mf$num-qnt
+	pol	czterdzieści	num-qnt-nm	ces	čtyřicet	num-qnt-mf$num-qnt
+LR	pol	pięćdziesiąt	num-qnt$num$num-qnt-mp	ces	padesát	num-qnt-mf$num-qnt
+	pol	pięćdziesiąt	num-qnt-nm	ces	padesát	num-qnt-mf$num-qnt
+LR	pol	sześćdziesiąt	num$num-qnt$num-qnt-mp	ces	šedesát	num-qnt-mf$num-qnt
+	pol	sześćdziesiąt	num-qnt-nm	ces	šedesát	num-qnt-mf$num-qnt
+LR	pol	siedemdziesiąt	num$num-qnt$num-qnt-mp	ces	sedmdesát	num-qnt-mf$num-qnt
+	pol	siedemdziesiąt	num-qnt-nm	ces	sedmdesát	num-qnt-mf$num-qnt
+LR	pol	osiemdziesiąt	num$num-qnt$num-qnt-mp	ces	osmdesát	num-qnt-mf$num-qnt
+	pol	osiemdziesiąt	num-qnt-nm	ces	osmdesát	num-qnt-mf$num-qnt
+LR	pol	dziewięćdziesiąt	num$num-qnt$num-qnt-mp	ces	devadesát	num-qnt-mf$num-qnt
+	pol	dziewięćdziesiąt	num-qnt-nm	ces	devadesát	num-qnt-mf$num-qnt
+LR	pol	sto	num$num-qnt$num-qnt-mp	ces	sto	num-qnt$num-qnt-mf
+	pol	sto	num-qnt-nm	ces	sto	num-qnt$num-qnt-mf
 	pol	dwieście	num$num-qnt$num-qnt-mp	ces	dvě stě	num-qnt-ma$num
 	pol	dwieście	num-qnt-nm	ces	dvě stě	num-qnt-mf
-LR	pol	trzysta	num$num-qnt$num-qnt-mp	ces	tři sta	num-qnt-mf
-	pol	trzysta	num-qnt-nm	ces	tři sta	num-qnt-mf
-LR	pol	czterysta	num$num-qnt$num-qnt-mp	ces	čtyři sta	num-qnt-mf
-	pol	czterysta	num-qnt-nm	ces	čtyři sta	num-qnt-mf
+LR	pol	trzysta	num$num-qnt$num-qnt-mp	ces	tři sta	num-qnt-mf$num
+	pol	trzysta	num-qnt-nm	ces	tři sta	num-qnt-mf$num
+LR	pol	czterysta	num$num-qnt$num-qnt-mp	ces	čtyři sta	num-qnt-mf$num
+	pol	czterysta	num-qnt-nm	ces	čtyři sta	num-qnt-mf$num
 	pol	sto	n-nt-sg	ces	sto	n-nt-sg
 	pol	sto	n-nt-pl$n-nt	ces	sto	n-nt-pl
 RL	pol	sto	n-nt-pl$n-nt	ces	sto	n-nt-du
@@ -7485,9 +7485,9 @@ LR	pol	złączony	adj	ces	spojený	adj$adj-sint
 	pol	kwadratowy	adj	ces	čtverečný	adj$adj-sint
 	pol	szanowny	adj-sint$adj	ces	čtený	adj-sint
 	pol	czołowy	adj	ces	čelný	adj$adj-sint
-	pol	bierny	adj-sint$adj	ces	berní	adj-sint$adj
-	pol	wysoki	adj-sint$adj	ces	vysoký	adj-sint$adj
-	pol	mały	adj$adj-sint	ces	malý	adj-sint$adj$adj-sint-mi
+	pol	bierny	adj-sint$adj	ces	berní	adj$adj-sint
+	pol	wysoki	adj-sint$adj	ces	vysoký	adj$adj-sint
+	pol	mały	adj$adj-sint	ces	malý	adj$adj-sint$adj-sint-mi
 	pol	bezduszny	adj-sint$adj	ces	bezduchý	adj-sint
 	pol	wielki	adj$adj-sint	ces	velký	adj$adj-sint$adj-sint-nt
 RL	pol	wielki	adj$adj-sint	ces	grandiózní	adj
@@ -9051,7 +9051,7 @@ LR	pol	wędkarski	adj	ces	rybářský	adj
 	pol	łamliwy	adj$adj-sint	ces	lámavý	adj
 	pol	czuły	adj-sint$adj	ces	citlivý	adj$adj-sint
 	pol	demokratyczny	adj	ces	demokratický	adj
-	pol	doskonały	adj-sint$adj	ces	dokonalý	adj-sint$adj
+	pol	doskonały	adj-sint$adj	ces	dokonalý	adj$adj-sint
 	pol	idealny	adj-sint$adj	ces	ideální	adj$adj-sint
 	pol	emerytowany	adj	ces	emeritní	adj
 RL	pol	emerytowany	adj	ces	penzionovaný	adj
@@ -9076,10 +9076,10 @@ LR	pol	naczelny	adj	ces	hlavní	adj$adj-sint
 	pol	wspaniały	adj-sint$adj	ces	úžasný	adj-sint
 	pol	zapomniany	adj	ces	zapomenutý	adj
 	pol	aktualny	adj$adj-sint	ces	aktuální	adj$adj-sint
-RL	pol	aktualny	adj$adj-sint	ces	běžný	adj-sint$adj
-RL	pol	aktualny	adj$adj-sint	ces	současný	adj-sint$adj
+RL	pol	aktualny	adj$adj-sint	ces	běžný	adj$adj-sint
+RL	pol	aktualny	adj$adj-sint	ces	současný	adj$adj-sint
 	pol	aktywny	adj-sint$adj	ces	aktivní	adj$adj-sint
-RL	pol	aktywny	adj-sint$adj	ces	činný	adj-sint$adj
+RL	pol	aktywny	adj-sint$adj	ces	činný	adj$adj-sint
 	pol	artystyczny	adj	ces	umělecký	adj
 	pol	bezpłatny	adj	ces	bezplatný	adj$adj-sint
 	pol	bezwzględny	adj-sint$adj	ces	bezohledný	adj
@@ -9092,14 +9092,14 @@ RL	pol	całkowity	adj	ces	naprostý	adj$adj-sint
 	pol	ciekawy	adj-sint$adj	ces	zvědavý	adj
 	pol	członkowski	adj	ces	členský	adj
 	pol	czynny	adj-sint$adj	ces	aktivní	adj$adj-sint
-	pol	czynny	adj-sint$adj	ces	činný	adj-sint$adj
+	pol	czynny	adj-sint$adj	ces	činný	adj$adj-sint
 	pol	domowy	adj	ces	domácí	adj
 	pol	domowy	adj	ces	domovský	adj
 	pol	dziki	adj-sint$adj	ces	divý	adj
 	pol	elegancki	adj-sint$adj	ces	elegantní	adj
 	pol	głupi	adj$adj-sint	ces	hloupý	adj
 	pol	gwałtowny	adj-sint$adj	ces	zuřivý	adj
-	pol	intensywny	adj-sint$adj	ces	intenzívní	adj-sint$adj
+	pol	intensywny	adj-sint$adj	ces	intenzívní	adj$adj-sint
 LR	pol	istotny	adj-sint$adj	ces	důležitý	adj
 	pol	ważny	adj-sint$adj	ces	důležitý	adj
 	pol	jednakowy	adj	ces	jednotný	adj
@@ -9143,7 +9143,7 @@ RL	pol	okrutny	adj-sint$adj	ces	krutý	adj
 	pol	piękny	adj$adj-sint	ces	krásný	adj
 	pol	płatny	adj	ces	placený	adj
 LR	pol	podległy	adj	ces	závislý	adj
-	pol	polityczny	adj-sint$adj	ces	politický	adj-sint$adj
+	pol	polityczny	adj-sint$adj	ces	politický	adj$adj-sint
 	pol	popularny	adj-sint$adj	ces	populární	adj$adj-sint
 	pol	potężny	adj-sint$adj	ces	mohutný	adj
 	pol	potrzebny	adj$adj-sint	ces	potřebný	adj$adj-sint
@@ -9152,7 +9152,7 @@ LR	pol	podległy	adj	ces	závislý	adj
 RL	pol	powszechny	adj-sint$adj	ces	obecný	adj
 	pol	powszechny	adj-sint$adj	ces	všeobecný	adj
 	pol	pozytywny	adj-sint$adj	ces	pozitivní	adj$adj-sint
-	pol	praktyczny	adj-sint$adj	ces	praktický	adj-sint$adj
+	pol	praktyczny	adj-sint$adj	ces	praktický	adj$adj-sint
 	pol	prawdopodobny	adj-sint$adj	ces	pravděpodobný	adj
 	pol	prawdziwy	adj-sint$adj	ces	opravdový	adj
 	pol	prawny	adj	ces	právní	adj
@@ -9163,15 +9163,15 @@ RL	pol	publiczny	adj	ces	veřejnoprávní	adj
 	pol	publiczny	adj	ces	veřejný	adj-sint$adj
 	pol	rasowy	adj	ces	čistokrevný	adj
 	pol	regularny	adj-sint$adj	ces	pravidelný	adj
-	pol	religijny	adj-sint$adj	ces	náboženský	adj-sint$adj
-	pol	rodzinny	adj	ces	rodinný	adj$adj-sint
+	pol	religijny	adj-sint$adj	ces	náboženský	adj$adj-sint
+	pol	rodzinny	adj	ces	rodinný	adj-sint$adj
 RL	pol	rodzinny	adj	ces	rodný	adj$adj-sint
 	pol	różny	adj-sint$adj	ces	různý	adj
 	pol	samodzielny	adj$adj-sint	ces	samostatný	adj
 	pol	silny	adj-sint$adj	ces	silný	adj-sint$adj
 	pol	słoneczny	adj$adj-sint	ces	slunečný	adj
 	pol	specjalny	adj-sint$adj	ces	speciální	adj$adj-sint
-	pol	specyficzny	adj-sint$adj	ces	specifický	adj-sint$adj
+	pol	specyficzny	adj-sint$adj	ces	specifický	adj$adj-sint
 	pol	spokojny	adj-sint$adj	ces	spokojený	adj
 	pol	społeczny	adj	ces	společný	adj$adj-sint
 LR	pol	wspólny	adj	ces	společný	adj$adj-sint
@@ -9215,7 +9215,7 @@ LR	pol	wiarołomny	adj	ces	zrádný	adj$adj-sint
 LR	pol	mężny	adj$adj-sint	ces	statečný	adj$adj-sint
 	pol	dzielny	adj-sint$adj	ces	statečný	adj$adj-sint
 	pol	pirenejski	adj	ces	pyrenejský	adj
-	pol	podręczny	adj-sint$adj	ces	příruční	adj-sint$adj
+	pol	podręczny	adj-sint$adj	ces	příruční	adj$adj-sint
 	pol	powabny	adj$adj-sint	ces	půvabný	adj
 	pol	proeuropejski	adj	ces	proevropský	adj
 	pol	prominencki	adj	ces	prominentní	adj
@@ -9226,22 +9226,22 @@ LR	pol	mężny	adj$adj-sint	ces	statečný	adj$adj-sint
 	pol	purytański	adj	ces	puritánský	adj
 LR	pol	raptowny	adj-sint$adj	ces	rapidní	adj$adj-sint
 	pol	rasistowski	adj	ces	rasistický	adj
-	pol	romantyczny	adj-sint$adj	ces	romantický	adj-sint$adj
+	pol	romantyczny	adj-sint$adj	ces	romantický	adj$adj-sint
 	pol	romański	adj	ces	románský	adj
 	pol	ruchliwy	adj-sint$adj	ces	rušný	adj
 	pol	ryzykowny	adj-sint$adj	ces	riskantní	adj$adj-sint
 	pol	saudyjski	adj	ces	saudský	adj
-	pol	sentymentalny	adj-sint$adj	ces	sentimentální	adj-sint$adj
+	pol	sentymentalny	adj-sint$adj	ces	sentimentální	adj$adj-sint
 	pol	staromodny	adj-sint$adj	ces	staromódní	adj$adj-sint
 	pol	staroświecki	adj	ces	starosvětský	adj
 	pol	straszliwy	adj$adj-sint	ces	strašidelný	adj
 	pol	sudecki	adj	ces	sudetský	adj
-	pol	sugestywny	adj-sint	ces	sugestivní	adj-sint$adj
+	pol	sugestywny	adj-sint	ces	sugestivní	adj$adj-sint
 	pol	syjamski	adj	ces	siamský	adj
 	pol	słowny	adj$adj-sint	ces	slovní	adj$adj-sint
 	pol	taksówkarski	adj	ces	taxikářský	adj
 	pol	tendencyjny	adj-sint	ces	tendenční	adj$adj-sint
-	pol	tragikomiczny	adj-sint$adj	ces	tragikomický	adj-sint$adj
+	pol	tragikomiczny	adj-sint$adj	ces	tragikomický	adj$adj-sint
 	pol	trenerski	adj	ces	trenérský	adj
 	pol	triumfalny	adj-sint	ces	triumfální	adj$adj-sint
 	pol	trzeźwy	adj$adj-sint	ces	střízlivý	adj
@@ -9268,7 +9268,7 @@ LR	pol	raptowny	adj-sint$adj	ces	rapidní	adj$adj-sint
 	pol	poetycki	adj	ces	poetický	adj
 	pol	pogański	adj	ces	pohanský	adj
 	pol	polinezyjski	adj	ces	polynéský	adj
-	pol	taktowny	adj-sint$adj	ces	ohleduplný	adj-sint$adj
+	pol	taktowny	adj-sint$adj	ces	ohleduplný	adj$adj-sint
 	pol	weekendowy	adj	ces	víkendový	adj
 	pol	typowy	adj	ces	typický	adj
 	pol	święty	adj-sint$adj	ces	svatý	adj-sint
@@ -9426,9 +9426,9 @@ LR	pol	tajski	adj	ces	thajský	adj
 	pol	żyliński	adj	ces	žilinský	adj
 	pol	akademicki	adj	ces	akademický	adj
 	pol	aktorski	adj	ces	herecký	adj
-	pol	aromatyczny	adj-sint$adj	ces	aromatický	adj-sint$adj
+	pol	aromatyczny	adj-sint$adj	ces	aromatický	adj$adj-sint
 	pol	atlantycki	adj	ces	atlantický	adj
-	pol	autentyczny	adj-sint$adj	ces	autentický	adj-sint$adj
+	pol	autentyczny	adj-sint$adj	ces	autentický	adj$adj-sint
 	pol	barwny	adj-sint$adj	ces	barevný	adj
 	pol	bezbarwny	adj$adj-sint	ces	bezbarvý	adj
 	pol	bezkrytyczny	adj$adj-sint	ces	kritický	adj$adj-sint
@@ -9439,29 +9439,29 @@ LR	pol	tajski	adj	ces	thajský	adj
 	pol	celny	adj-sint$adj	ces	celní	adj$adj-sint
 LR	pol	chamski	adj	ces	neomalený	adj$adj-sint
 	pol	grubiański	adj	ces	neomalený	adj$adj-sint
-	pol	charyzmatyczny	adj-sint$adj	ces	charismatický	adj-sint$adj
+	pol	charyzmatyczny	adj-sint$adj	ces	charismatický	adj$adj-sint
 	pol	czcigodny	adj-sint$adj	ces	ctihodný	adj
 	pol	czytelny	adj-sint$adj	ces	čitelný	adj
-RL	pol	delikatny	adj-sint$adj	ces	choulostivý	adj-sint$adj
-RL	pol	delikatny	adj-sint$adj	ces	jemný	adj-sint$adj
+RL	pol	delikatny	adj-sint$adj	ces	choulostivý	adj$adj-sint
+RL	pol	delikatny	adj-sint$adj	ces	jemný	adj$adj-sint
 	pol	delikatny	adj-sint$adj	ces	delikátní	adj$adj-sint
 	pol	dostojny	adj-sint$adj	ces	důstojný	adj
-	pol	dramatyczny	adj-sint$adj	ces	dramatický	adj-sint$adj
-	pol	drastyczny	adj-sint$adj	ces	drastický	adj-sint$adj
+	pol	dramatyczny	adj-sint$adj	ces	dramatický	adj$adj-sint
+	pol	drastyczny	adj-sint$adj	ces	drastický	adj$adj-sint
 	pol	duszny	adj-sint$adj	ces	dusný	adj
-	pol	dynamiczny	adj$adj-sint	ces	dynamický	adj-sint$adj
-	pol	egzotyczny	adj$adj-sint	ces	exotický	adj-sint$adj
-	pol	ekscentryczny	adj-sint$adj	ces	excentrický	adj-sint$adj
-	pol	elastyczny	adj-sint$adj	ces	elastický	adj-sint$adj
+	pol	dynamiczny	adj$adj-sint	ces	dynamický	adj$adj-sint
+	pol	egzotyczny	adj$adj-sint	ces	exotický	adj$adj-sint
+	pol	ekscentryczny	adj-sint$adj	ces	excentrický	adj$adj-sint
+	pol	elastyczny	adj-sint$adj	ces	elastický	adj$adj-sint
 	pol	epicki	adj	ces	epický	adj
 	pol	eskimoska	adj	ces	eskymácký	adj
 	pol	eskimoski	adj	ces	eskymácký	adj
-	pol	estetyczny	adj$adj-sint	ces	estetický	adj-sint$adj
-	pol	eteryczny	adj-sint$adj	ces	éterický	adj-sint$adj
+	pol	estetyczny	adj$adj-sint	ces	estetický	adj$adj-sint
+	pol	eteryczny	adj-sint$adj	ces	éterický	adj$adj-sint
 	pol	euroatlantycki	adj	ces	euroatlantický	adj
-	pol	fantastyczny	adj-sint$adj	ces	fantastický	adj-sint$adj
+	pol	fantastyczny	adj-sint$adj	ces	fantastický	adj$adj-sint
 	pol	foremny	adj$adj-sint	ces	foremný	adj
-	pol	gigantyczny	adj$adj-sint	ces	gigantický	adj-sint$adj
+	pol	gigantyczny	adj$adj-sint	ces	gigantický	adj$adj-sint
 	pol	gordyjski	adj	ces	gordický	adj
 	pol	gorliwy	adj-sint$adj	ces	horlivý	adj
 	pol	gościnny	adj-sint$adj	ces	hostinný	adj
@@ -9473,22 +9473,22 @@ RL	pol	delikatny	adj-sint$adj	ces	jemný	adj-sint$adj
 	pol	iracki	adj	ces	irácký	adj
 	pol	jednostronny	adj$adj-sint	ces	jednostranný	adj
 	pol	jeździecki	adj	ces	jezdecký	adj
-	pol	kaloryczny	adj-sint	ces	kalorický	adj-sint$adj
+	pol	kaloryczny	adj-sint	ces	kalorický	adj$adj-sint
 	pol	kaspijski	adj	ces	kaspický	adj
 	pol	katolicki	adj	ces	katolický	adj
-	pol	komiczny	adj-sint$adj	ces	komický	adj-sint$adj
+	pol	komiczny	adj-sint$adj	ces	komický	adj$adj-sint
 	pol	koszycki	adj	ces	košický	adj
 	pol	kozacki	adj	ces	kozácký	adj
 	pol	krytyczny	adj-sint$adj	ces	kritický	adj$adj-sint
 	pol	krzykliwy	adj-sint$adj	ces	křiklavý	adj
 	pol	kupiecki	adj	ces	kupecký	adj
 	pol	laicki	adj	ces	laický	adj
-	pol	lakoniczny	adj-sint$adj	ces	lakonický	adj-sint$adj
-	pol	legalny	adj$adj-sint	ces	dovolený	adj-sint$adj
+	pol	lakoniczny	adj-sint$adj	ces	lakonický	adj$adj-sint
+	pol	legalny	adj$adj-sint	ces	dovolený	adj$adj-sint
 	pol	lekkomyślny	adj$adj-sint	ces	lehkovážný	adj
 	pol	liberecki	adj	ces	liberecký	adj
-	pol	liryczny	adj-sint$adj	ces	lyrický	adj-sint$adj
-	pol	logiczny	adj-sint$adj	ces	logický	adj-sint$adj
+	pol	liryczny	adj-sint$adj	ces	lyrický	adj$adj-sint
+	pol	logiczny	adj-sint$adj	ces	logický	adj$adj-sint
 	pol	marksistowski	adj	ces	marxistický	adj
 	pol	marny	adj-sint$adj	ces	marný	adj
 	pol	marokański	adj	ces	marocký	adj
@@ -9513,12 +9513,12 @@ LR	pol	destruktywny	adj	ces	ničivý	adj$adj-sint
 	pol	pardubicki	adj	ces	pardubický	adj
 	pol	piłkarski	adj	ces	fotbalový	adj$adj-sint
 	pol	pływacki	adj	ces	plavecký	adj
-	pol	poczciwy	adj-sint	ces	dobrácký	adj-sint$adj
+	pol	poczciwy	adj-sint	ces	dobrácký	adj$adj-sint
 LR	pol	poczciwy	adj-sint	ces	poctivý	adj$adj-sint
 	pol	pokorny	adj-sint$adj	ces	pokorný	adj
 	pol	południowoafrykański	adj	ces	jihoafrický	adj
 	pol	południowoamerykański	adj	ces	jihoamerický	adj
-	pol	ważny	adj-sint$adj	ces	platný	adj-sint$adj
+	pol	ważny	adj-sint$adj	ces	platný	adj$adj-sint
 	pol	poprawny	adj-sint$adj	ces	správný	adj$adj-sint
 	pol	potoczny	adj-sint$adj	ces	hovorový	adj
 	pol	potulny	adj-sint$adj	ces	potulný	adj
@@ -9530,7 +9530,7 @@ LR	pol	rozumny	adj-sint$adj	ces	rozumný	adj-sint$adj
 	pol	rozsądny	adj	ces	rozumný	adj-sint$adj
 	pol	różowy	adj$adj-sint	ces	růžový	adj
 	pol	samotny	adj-sint$adj	ces	samotný	adj$adj-sint
-	pol	skąpy	adj-sint$adj	ces	skoupý	adj-sint$adj
+	pol	skąpy	adj-sint$adj	ces	skoupý	adj$adj-sint
 	pol	skromny	adj$adj-sint	ces	skromný	adj
 	pol	strawny	adj$adj-sint	ces	stravitelný	adj
 	pol	surowy	adj-sint$adj	ces	surový	adj
@@ -9574,14 +9574,14 @@ RL	pol	szalony	adj	ces	bláznivý	adj$adj-sint
 	pol	banalny	adj$adj-sint	ces	banální	adj$adj-sint
 	pol	bestialski	adj	ces	bestiální	adj
 	pol	brutalny	adj-sint$adj	ces	brutální	adj$adj-sint
-	pol	efektowny	adj-sint$adj	ces	efektní	adj-sint$adj
+	pol	efektowny	adj-sint$adj	ces	efektní	adj$adj-sint
 	pol	efektywny	adj-sint$adj	ces	efektivní	adj$adj-sint
 	pol	ekskluzywny	adj-sint$adj	ces	exkluzivní	adj$adj-sint
 	pol	ekstrawagancki	adj	ces	extravagantní	adj
 	pol	ewidentny	adj$adj-sint	ces	evidentní	adj$adj-sint
 	pol	fatalny	adj-sint$adj	ces	fatální	adj$adj-sint
 	pol	frankofoński	adj	ces	frankofonní	adj
-	pol	impulsywny	adj-sint$adj	ces	impulzívní	adj-sint$adj
+	pol	impulsywny	adj-sint$adj	ces	impulzívní	adj$adj-sint
 	pol	inteligentny	adj-sint$adj	ces	inteligentní	adj$adj-sint
 	pol	intymny	adj-sint$adj	ces	intimní	adj$adj-sint
 	pol	inwalidzki	adj	ces	invalidní	adj
@@ -9589,8 +9589,8 @@ RL	pol	szalony	adj	ces	bláznivý	adj$adj-sint
 	pol	naiwny	adj-sint$adj	ces	naivní	adj$adj-sint
 	pol	normalny	adj$adj-sint	ces	normální	adj$adj-sint
 	pol	pasywny	adj-sint	ces	pasivní	adj$adj-sint
-	pol	pikantny	adj-sint$adj	ces	pikantní	adj-sint$adj
-	pol	proporcjonalny	adj-sint$adj	ces	proporcionální	adj-sint$adj
+	pol	pikantny	adj-sint$adj	ces	pikantní	adj$adj-sint
+	pol	proporcjonalny	adj-sint$adj	ces	proporcionální	adj$adj-sint
 	pol	radykalny	adj-sint$adj	ces	radikální	adj$adj-sint
 	pol	solidny	adj-sint$adj	ces	solidní	adj$adj-sint
 	pol	stabilny	adj$adj-sint	ces	stabilní	adj$adj-sint
@@ -9615,7 +9615,7 @@ LR	pol	ciągle	adv	ces	stále	adv
 LR	pol	bez przerwy	adv	ces	stále	adv
 LR	pol	na prawo	adv	ces	vpravo	adv$adv-sint
 	pol	w prawo	adv	ces	vpravo	adv$adv-sint
-	pol	w przybliżeniu	adv	ces	přibližně	adv$adv-sint
+	pol	w przybliżeniu	adv	ces	přibližně	adv-sint$adv
 	pol	tak i siak	adv	ces	tak i onak	adv
 LR	pol	tak czy owak	adv	ces	tak či onak	adv
 	pol	tak czy inaczej	adv	ces	tak či onak	adv
@@ -9623,7 +9623,7 @@ RL	pol	tak czy inaczej	adv	ces	tak nebo tak	adv
 	pol	przede wszystkim	adv	ces	především	adv
 	pol	przed południem	adv	ces	dopoledne	adv
 	pol	po południu	adv	ces	odpoledne	adv
-	pol	ciemno	adv$adv-sint	ces	temno	adv-sint$adv
+	pol	ciemno	adv$adv-sint	ces	temno	adv$adv-sint
 	pol	dawno	adv$adv-sint	ces	dávno	adv$adv-sint
 	pol	gęsto	adv$adv-sint	ces	hustě	adv-sint
 	pol	obecnie	adv	ces	aktuálně	adv$adv-sint
@@ -9634,7 +9634,7 @@ LR	pol	niezręcznie	adv	ces	trapně	adv$adv-sint
 	pol	przykro	adv	ces	trapně	adv$adv-sint
 	pol	ciasno	adv$adv-sint	ces	těsně	adv-sint
 RL	pol	przykro	adv	ces	líto	adv
-	pol	dodatkowo	adv	ces	dodatečně	adv$adv-sint
+	pol	dodatkowo	adv	ces	dodatečně	adv-sint$adv
 	pol	dokładnie	adv-sint$adv	ces	důkladně	adv$adv-sint
 	pol	jedynie	adv	ces	jedině	adv-sint$adv
 	pol	kulturalnie	adv-sint	ces	kulturně	adv-sint
@@ -9661,7 +9661,7 @@ LR	pol	chwilami	adv	ces	občas	adv
 LR	pol	w połowie	adv	ces	napůl	adv
 	pol	oczekiwanie	adv	ces	plánovaně	adv$adv-sint
 	pol	nieodwracalnie	adv	ces	neodvratně	adv$adv-sint
-	pol	odwrotnie	adv	ces	obráceně	adv$adv-sint
+	pol	odwrotnie	adv	ces	obráceně	adv-sint$adv
 	pol	pionowo	adv	ces	vertikálně	adv$adv-sint
 	pol	podświadomie	adv	ces	podvědomě	adv$adv-sint
 	pol	poniekąd	adv	ces	poněkud	adv
@@ -9708,7 +9708,7 @@ LR	pol	w połowie	adv	ces	napůl	adv
 	pol	telefonicznie	adv	ces	telefonické	adv
 	pol	umiarkowanie	adv	ces	mírnit	adv
 	pol	wesoło	adv	ces	vesele	adv
-	pol	wiecznie	adv	ces	věčně	adv$adv-sint
+	pol	wiecznie	adv	ces	věčně	adv-sint$adv
 	pol	wspaniale	adv	ces	excelentně	adv
 	pol	wyczekująco	adv	ces	vyčkávavě	adv
 	pol	wytrwale	adv	ces	vytrvale	adv
@@ -9729,11 +9729,11 @@ LR	pol	zwinnie	adv	ces	čiperně	adv
 RL	pol	błyskawicznie	adv	ces	okamžitě	adv$adv-sint
 	pol	brawurowo	adv	ces	bravurně	adv$adv-sint
 	pol	centralnie	adv	ces	centrálně	adv$adv-sint
-	pol	definitywnie	adv	ces	definitivně	adv$adv-sint
+	pol	definitywnie	adv	ces	definitivně	adv-sint$adv
 LR	pol	demonstracyjnie	adv	ces	demonstrativně	adv$adv-sint
 	pol	ostentacyjnie	adv	ces	demonstrativně	adv$adv-sint
 	pol	dobrowolnie	adv	ces	dobrovolně	adv$adv-sint
-	pol	ewidentnie	adv	ces	evidentně	adv$adv-sint
+	pol	ewidentnie	adv	ces	evidentně	adv-sint$adv
 	pol	gorączkowo	adv	ces	horečně	adv$adv-sint
 	pol	groteskowo	adv	ces	groteskně	adv$adv-sint
 	pol	groźnie	adv	ces	hrozivě	adv
@@ -9747,7 +9747,7 @@ LR	pol	demonstracyjnie	adv	ces	demonstrativně	adv$adv-sint
 	pol	nieoczekiwanie	adv	ces	nečekaně	adv$adv-sint
 	pol	obustronnie	adv	ces	oboustranně	adv$adv-sint
 	pol	oczekiwanie	adv	ces	čekaně	adv$adv-sint
-	pol	oddzielnie	adv	ces	odděleně	adv$adv-sint
+	pol	oddzielnie	adv	ces	odděleně	adv-sint$adv
 LR	pol	w sposób ograniczony	adv	ces	okamžitě	adv$adv-sint
 	pol	skończenie	adv	ces	okamžitě	adv$adv-sint
 LR	pol	omylnie	adv	ces	omylně	adv-sint$adv
@@ -9758,14 +9758,14 @@ LR	pol	omylnie	adv	ces	omylně	adv-sint$adv
 LR	pol	listownie	adv	ces	písemně	adv$adv-sint
 	pol	pokazowo	adv	ces	demonstrativně	adv$adv-sint
 	pol	przedwczoraj	adv	ces	předevčírem	adv
-	pol	relatywnie	adv	ces	relativně	adv$adv-sint
+	pol	relatywnie	adv	ces	relativně	adv-sint$adv
 LR	pol	rytualnie	adv	ces	obřadně	adv-sint$adv
 	pol	ceremonialnie	adv$adv-sint	ces	obřadně	adv-sint$adv
 	pol	samoczynnie	adv	ces	samovolně	adv$adv-sint
 	pol	standardowo	adv	ces	standardně	adv$adv-sint
 	pol	ślepo	adv	ces	slepě	adv$adv-sint
 	pol	triumfalnie	adv	ces	vítězoslavně	adv$adv-sint
-	pol	ustawicznie	adv	ces	ustavičně	adv$adv-sint
+	pol	ustawicznie	adv	ces	ustavičně	adv-sint$adv
 	pol	zdalnie	adv	ces	dálkově	adv$adv-sint
 LR	pol	zaocznie	adv	ces	dálkově	adv$adv-sint
 	pol	złowieszczo	adv	ces	zlověstně	adv$adv-sint
@@ -9806,7 +9806,7 @@ RL	pol	bardzo	adv$adv-sint$adv-sint-sup	ces	velice	adv$adv-sint
 	pol	bardzo	adv-sint-comp	ces	hodně	adv$adv-sint$adv-sint-comp
 	pol	bardzo	adv$adv-sint$adv-sint-sup	ces	hodně	adv-sint-sup
 	pol	dużo	adv$adv-sint$adv-sint-comp	ces	hodně	adv$adv-sint$adv-sint-comp
-	pol	wysoko	adv$adv-sint	ces	vysoko	adv-sint$adv
+	pol	wysoko	adv$adv-sint	ces	vysoko	adv$adv-sint
 LR	pol	wiele	adv$adv-sint	ces	hodně	adv$adv-sint$adv-sint-comp
 	pol	podle	adv$adv-sint	ces	podle	adv-sint
 	pol	trochę	adv	ces	trochu	adv
@@ -9821,9 +9821,9 @@ LR	pol	również	adv	ces	také	adv
 RL	pol	nawet	adv	ces	dokonce	adv
 	pol	nawet	adv	ces	byť	adv
 	pol	jedynie	adv	ces	jenom	adv
-	pol	szczęśliwie	adv$adv-sint	ces	šťastně	adv-sint$adv
+	pol	szczęśliwie	adv$adv-sint	ces	šťastně	adv$adv-sint
 	pol	słodko	adv	ces	sladký	adv
-	pol	rano	adv$adv-sint	ces	ráno	adv-sint$adv
+	pol	rano	adv$adv-sint	ces	ráno	adv$adv-sint
 	pol	Albańczyk	n-mp$n	ces	Albánec	n-ma
 	pol	Hiszpan	n-mp$n	ces	Španěl	n-ma
 	pol	Wietnamczyk	n-mp	ces	Vietnamec	n-ma
@@ -9882,7 +9882,7 @@ RL	pol	pisać	vblex-imperf-pres	ces	napsat	vblex-perf$vblex$vblex-perf-pres
 	pol	cena	n-f$n	ces	cena	n-f$n
 LR	pol	chaotyczny	adj	ces	náhodný	adj
 	pol	spółkowy	adj	ces	spolkový	adj
-	pol	chcieć	vblex$vblex-imperf	ces	chtít	vblex$vblex-imperf
+	pol	chcieć	vblex$vblex-imperf	ces	chtít	vblex$vblex-impf
 	pol	chemia	n-f$n	ces	chemie	n-f$n
 	pol	chciwy	adj	ces	chtivý	adj
 	pol	ceramika	n-f$n	ces	keramica	n
@@ -10208,7 +10208,7 @@ LR	pol	obowiązywać	vblex-imperf	ces	platit	vblex-imperf
 	pol	uprościć	vblex-perf$vblex	ces	zjednodušit	vblex-perf
 	pol	dojść	vblex$vblex-perf	ces	dojít	vblex-perf$vblex
 	pol	nadejść	vblex-perf$vblex	ces	nadejít	vblex-perf
-	pol	przynieść	vblex-perf$vblex	ces	přinést	vblex-perf$vblex
+	pol	przynieść	vblex-perf$vblex	ces	přinést	vblex-perf
 	pol	zapewniać	vblex-imperf	ces	zajišťovat	vblex-imperf
 	pol	zapewnić	vblex-perf$vblex	ces	zajistit	vblex-perf
 	pol	stracić	vblex-perf$vblex	ces	ztratit	vblex-perf
@@ -10352,7 +10352,7 @@ RL	pol	nagrać	vblex$vblex-perf	ces	vypálit	vblex
 	pol	odbierać	vblex-impf$vblex	ces	přijmout	vblex
 	pol	odbijać	vblex-impf$vblex	ces	zrcadlit	vblex
 	pol	odblokować	vblex	ces	odemknout	vblex
-	pol	odbywać	vblex-impf$vblex	ces	konat	vblex$vblex-impf
+	pol	odbywać	vblex-impf$vblex	ces	konat	vblex-impf$vblex
 	pol	odciążyć	vblex$vblex-perf	ces	odlehčit	vblex
 	pol	odcinać	vblex-impf$vblex	ces	odřezávat	vblex
 	pol	odcinać	vblex-impf$vblex	ces	odtrhávat	vblex
@@ -10670,7 +10670,7 @@ LR	pol	udawać	vblex$vblex-impf	ces	vydávat	vblex$vblex-impf
 	pol	utkać	vblex-perf	ces	utkat	vblex-imperf
 	pol	utorować	vblex	ces	vydláždit	vblex
 	pol	utożsamiać	vblex$vblex-impf	ces	ztotožnovat	vblex
-	pol	uważać	vblex$vblex-impf	ces	pokládat	vblex$vblex-impf
+	pol	uważać	vblex$vblex-impf	ces	pokládat	vblex-impf$vblex
 	pol	uwieczniać	vblex	ces	zvěčňovat	vblex
 	pol	uznać	vblex$vblex-perf	ces	uznát	vblex
 	pol	wabić	vblex$vblex-impf	ces	vábit	vblex
@@ -10872,7 +10872,7 @@ RL	pol	należeć	vblex$vblex-imperf	ces	náležet	vblex-imperf
 LR	pol	przynależeć	vblex$vblex-imperf	ces	patřit	vblex-imperf
 	pol	stawać	vblex$vblex-imperf	ces	stávat	vblex-imperf
 	pol	ujrzeć	vblex$vblex-perf	ces	zahlédnout	vblex-perf
-	pol	zobaczyć	vblex-perf$vblex	ces	uvidět	vblex$vblex-perf$vblex-perf-tv
+	pol	zobaczyć	vblex-perf$vblex	ces	uvidět	vblex-perf$vblex-perf-tv
 	pol	uwierzyć	vblex-perf$vblex	ces	uvěřit	vblex-perf
 	pol	wynosić	vblex-imperf	ces	vynosit	vblex$vblex-imperf
 	pol	ogłupiać	vblex$vblex-imperf	ces	ohlupovat	vblex-perf
@@ -11225,7 +11225,7 @@ LR	pol	dawkować	vblex$vblex-imperf	ces	aplikovat	vblex-imperf
 	pol	dyskredytować	vblex$vblex-imperf	ces	diskreditovat	vblex$vblex-imperf
 	pol	dysponować	vblex-imperf	ces	disponovat	vblex$vblex-imperf
 	pol	dziękować	vblex$vblex-imperf	ces	děkovat	vblex-imperf$vblex
-	pol	egzystować	vblex-imperf	ces	existovat	vblex$vblex-imperf
+	pol	egzystować	vblex-imperf	ces	existovat	vblex-imperf
 	pol	eksperymentować	vblex$vblex-imperf	ces	experimentovat	vblex$vblex-imperf
 	pol	eksplodować	vblex$vblex-imperf	ces	explodovat	vblex$vblex-imperf
 	pol	eksportować	vblex$vblex-imperf	ces	exportovat	vblex-imperf
@@ -11322,7 +11322,7 @@ LR	pol	awansować	vblex$vblex-imperf	ces	postupovat	vblex-imperf
 	pol	deaktywować	vblex	ces	deaktivovat	vblex
 	pol	deklasować	vblex$vblex-imperf	ces	deklasovat	vblex$vblex-imperf
 	pol	dziękować	vblex$vblex-imperf	ces	děkovat	vblex-imperf$vblex
-	pol	robić	vblex$vblex-impf	ces	dělat	vblex$vblex-impf
+	pol	robić	vblex$vblex-impf	ces	dělat	vblex-impf$vblex
 	pol	zrobić	vblex$vblex-perf	ces	udělat	vblex
 	pol	dzielić	vblex	ces	dělit	vblex
 	pol	demaskować	vblex$vblex-imperf	ces	demaskovat	vblex$vblex-imperf
@@ -11344,7 +11344,7 @@ LR	pol	awansować	vblex$vblex-imperf	ces	postupovat	vblex-imperf
 	pol	dotować	vblex$vblex-imperf	ces	dotovat	vblex$vblex-imperf
 	pol	dowieźć	vblex	ces	dovézt	vblex
 	pol	ewidować	vblex	ces	evidovat	vblex
-	pol	istnieć	vblex$vblex-impf	ces	existovat	vblex$vblex-imperf
+	pol	istnieć	vblex$vblex-impf	ces	existovat	vblex$vblex-impf
 	pol	ekspandować	vblex$vblex-imperf	ces	expandovat	vblex-imperf$vblex
 	pol	eksperymentować	vblex$vblex-imperf	ces	experimentovat	vblex$vblex-imperf
 	pol	eksplodować	vblex$vblex-imperf	ces	explodovat	vblex$vblex-imperf
@@ -11453,7 +11453,7 @@ LR	pol	wystąpić	vblex-perf$vblex	ces	vystoupit	vblex-perf
 	pol	pomóc	vblex-perf$vblex	ces	pomoct	vblex-perf
 	pol	rozwodzić	vblex-imperf	ces	rozvádět	vblex-imperf
 	pol	rozwieść	vblex-perf	ces	rozvést	vblex-perf
-	pol	smażyć	vblex$vblex-imperf	ces	smažit	vblex$vblex-imperf
+	pol	smażyć	vblex$vblex-imperf	ces	smažit	vblex-imperf
 	pol	usmażyć	vblex-perf	ces	usmažit	vblex-perf
 	pol	umierać	vblex$vblex-imperf	ces	umírat	vblex-imperf
 	pol	umrzeć	vblex$vblex-perf	ces	umřít	vblex$vblex-perf
@@ -11875,8 +11875,8 @@ RL	pol	samochód	n-mi$n	ces	automobil	n-mi
 	pol	szopka	n-f	ces	betlém	n-mi
 	pol	bit	n-mi$n	ces	bit	n-mi
 	pol	bor	n-mi$n	ces	bor	n-mi$n
-	pol	brodawka	n-f$n	ces	bradavka	n-f$n
-	pol	przepona	n-f$n	ces	bránice	n-f$n
+	pol	brodawka	n-f$n	ces	bradavka	n$n-f
+	pol	przepona	n-f$n	ces	bránice	n$n-f
 	pol	bulwar	n-mi$n	ces	bulvár	n-mi
 	pol	autobus	n-mi$n	ces	bus	n-mi
 	pol	chleb	n-mi$n	ces	chleba	n-mi
@@ -12045,7 +12045,7 @@ LR	pol	żona	n-f$n	ces	žena	n-f
 	pol	daleki	adj-sint$adj	ces	daleký	adj-sint
 	pol	finansowy	adj	ces	finanční	adj
 	pol	urzędowy	adj	ces	úřední	adj
-	pol	człowiek	n-mp$n$n-mp-sg	ces	člověk	n-ma-sg$n-ma
+	pol	człowiek	n-mp$n$n-mp-sg	ces	člověk	n-ma$n-ma-sg
 	pol	ludzie	n-mp-pl$n-mp	ces	lidi	n-ma-pl$n-pl
 	pol	studium	n-nt	ces	studie	n-f
 	pol	dama	n-f$n	ces	dáma	n-f
@@ -12663,7 +12663,7 @@ LR	pol	subwencja	n-f	ces	subvence	n-f
 	pol	wanilia	n-f	ces	vanilka	n-f
 	pol	ucho	n-nt$n	ces	ucho	n-nt
 	pol	neurologia	n-f	ces	neurologie	n-f
-	pol	niebo	n-nt$n-nt-sg	ces	nebe	n-nt-sg$n-nt
+	pol	niebo	n-nt$n-nt-sg	ces	nebe	n-nt$n-nt-sg
 RL	pol	niebosa	n-nt-pl	ces	nebe	n-nt-pl
 	pol	niebosa	n-nt-pl	ces	nebesa	n-nt$n-nt-pl
 	pol	neon	n-mi$n	ces	neon	n-mi
@@ -12985,7 +12985,7 @@ LR	pol	język afrykanerski	n	ces	afrikánština	n$n-f
 	pol	język polski	n	ces	polština	n$n-f
 	pol	język słowacki	n	ces	slovenština	n$n-f
 	pol	kamień szlachetny	n	ces	drahokam	n$n-mi
-	pol	koryto rzeki	n	ces	řečiště	n$n-nt
+	pol	koryto rzeki	n	ces	řečiště	n-nt$n
 	pol	latarnia morska	n$n-f	ces	maják	n-mi$n
 	pol	marskość	n-f$n	ces	cirhóza	n-f
 	pol	trzęsienie	n-nt	ces	zemětřesení	n-nt
@@ -12999,7 +12999,7 @@ LR	pol	zwierzęta gospodarskie	n	ces	dobytek	n-mi$n
 	pol	węgiel brunatny	n	ces	lignit	n$n-mi
 	pol	statek powietrzny	n	ces	loď	n$n-f
 	pol	trądzik młodzieńczy	n	ces	jebák	n$n-mi
-	pol	opad atmosferyczny	n	ces	srážka	n$n-f
+	pol	opad atmosferyczny	n	ces	srážka	n-f$n
 	pol	sede vacante	n	ces	sedisvakance	n$n-f
 	pol	Allah	np-ant-mp	ces	Alláh	np-ant-ma
 	pol	święty Jerzy	np-ant-mp	ces	svatý Jiří	np-ant-ma
@@ -13489,9 +13489,9 @@ LR	pol	zaraz	adv	ces	hned	adv
 LR	pol	wnet	adv	ces	hned	adv
 LR	pol	dziś	adv	ces	dnes	adv
 LR	pol	tu	adv	ces	tady	adv
-	pol	zwykle	adv$adv-sint	ces	obvykle	adv-sint$adv
+	pol	zwykle	adv$adv-sint	ces	obvykle	adv$adv-sint
 	pol	bezskutecznie	adv	ces	marně	adv$adv-sint
-	pol	blisko	adv$adv-sint	ces	blízko	adv-sint$adv
+	pol	blisko	adv$adv-sint	ces	blízko	adv$adv-sint
 	pol	razem	adv	ces	pohromadě	adv
 	pol	celowo	adv	ces	cíleně	adv$adv-sint
 	pol	świadomie	adv$adv-sint	ces	cílevědomě	adv-sint
@@ -13534,8 +13534,8 @@ LR	pol	prawie	adv	ces	právě	adv
 	pol	otwarcie	adv$adv-sint	ces	otevřeně	adv-sint
 LR	pol	jawnie	adv$adv-sint	ces	otevřeně	adv-sint
 	pol	pięciokrotnie	adv	ces	pětkrát	adv
-RL	pol	podobnie	adv	ces	obdobně	adv$adv-sint
-	pol	podobnie	adv	ces	podobně	adv$adv-sint
+RL	pol	podobnie	adv	ces	obdobně	adv-sint$adv
+	pol	podobnie	adv	ces	podobně	adv-sint$adv
 	pol	powoli	adv	ces	pomalu	adv
 	pol	powoli	adv	ces	zvolna	adv
 	pol	przeważnie	adv	ces	převážně	adv$adv-sint
@@ -13547,9 +13547,9 @@ RL	pol	podobnie	adv	ces	obdobně	adv$adv-sint
 	pol	skoro	adv	ces	ježto	adv
 	pol	skutecznie	adv$adv-sint	ces	účinně	adv-sint
 	pol	starannie	adv$adv-sint	ces	pečlivě	adv-sint
-	pol	stopniowo	adv$adv-sint	ces	postupně	adv$adv-sint
+	pol	stopniowo	adv$adv-sint	ces	postupně	adv-sint$adv
 	pol	super	adv	ces	super	adv
-	pol	szczególnie	adv$adv-sint	ces	obzvlášť	adv-sint$adv
+	pol	szczególnie	adv$adv-sint	ces	obzvlášť	adv$adv-sint
 	pol	szczegółowo	adv$adv-sint	ces	detailně	adv-sint
 	pol	szczegółowo	adv$adv-sint	ces	podrobně	adv-sint
 	pol	sztucznie	adv	ces	uměle	adv
@@ -13574,8 +13574,8 @@ RL	pol	właśnie	adv	ces	zrovna	adv
 	pol	chętnie	adv$adv-sint	ces	chtěně	adv-sint
 	pol	zawsze	adv	ces	vždy	adv
 	pol	znacznie	adv$adv-sint	ces	značně	adv-sint
-	pol	znacząco	adv	ces	významně	adv$adv-sint
-RL	pol	znacząco	adv	ces	znatelně	adv$adv-sint
+	pol	znacząco	adv	ces	významně	adv-sint$adv
+RL	pol	znacząco	adv	ces	znatelně	adv-sint$adv
 	pol	znikąd	adv	ces	odnikud	adv
 	pol	ogólnikowo	adv	ces	zhruba	adv
 	pol	znowu	adv	ces	opět	adv
@@ -13622,7 +13622,7 @@ RL	pol	oczywiście	adv$adv-sint	ces	ovšemže	adv
 	pol	oczywiście	adv$adv-sint	ces	samozřejmě	adv
 LR	pol	niewątpliwie	adv	ces	samozřejmě	adv
 RL	pol	bezpośrednio	adv	ces	přímo	adv$adv-sint
-	pol	bezpośrednio	adv	ces	bezprostředně	adv$adv-sint
+	pol	bezpośrednio	adv	ces	bezprostředně	adv-sint$adv
 	pol	raczej	adv	ces	spíše	adv
 	pol	w rzeczywistości	adv	ces	vlastně	adv
 	pol	w ogóle	adv	ces	vůbec	adv
@@ -13653,8 +13653,8 @@ LR	pol	za	preadv	ces	příliš	preadv
 RL	pol	można	vaux	ces	lze	vaux
 	pol	czytać	vblex$vblex-imperf	ces	číst	vblex$vblex-imperf
 	pol	przeczytać	vblex-perf$vblex	ces	přečíst	vblex-perf$vblex
-	pol	wiedzieć	vblex$vblex-imperf	ces	vědět	vblex-imperf$vblex$vblex-imperf-tv
-	pol	chcieć	vblex$vblex-imperf	ces	chtít	vblex$vblex-imperf
+	pol	wiedzieć	vblex$vblex-imperf	ces	vědět	vblex-imperf$vblex-imperf-tv
+	pol	chcieć	vblex$vblex-imperf	ces	chtít	vblex-imperf
 	pol	jeść	vblex-imperf$vblex	ces	jíst	vblex-imperf
 	pol	pić	vblex$vblex-imperf	ces	pít	vblex-imperf
 	pol	bić	vblex-imperf	ces	bít	vblex-imperf

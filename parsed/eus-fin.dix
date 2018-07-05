@@ -26,7 +26,7 @@ LR	eus	atzetik	adv$adv-gen	fin	takaa	post$post-gen
 	eus	zu	prn-pers-p2$prn$prn-pers-p2-sg	fin	sinä	prn$prn-pers-p2$prn-pers$prn-pers-p2-sg
 	eus	hura	prn-pers-p3-sg$prn	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers
 	eus	ber	prn-pers-p3$prn$prn-pers-p3-sg	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers
-	eus	gu	prn$prn-pers-p1$prn-pers-p1-pl	fin	me	prn$prn-pers-p1$prn-pers-p1-pl$prn-pers$prn-pers-p1-pl-gen
+	eus	gu	prn$prn-pers-p1$prn-pers-p1-pl	fin	me	prn$prn-pers-p1-pl$prn-pers-p1$prn-pers$prn-pers-p1-pl-gen
 	eus	zuek	prn$prn-pers-p2$prn-pers-p2-pl	fin	te	prn$prn-pers-p2-pl$prn-pl
 	eus	haiek	prn	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen
 	eus	eurak	prn-pers-p3-pl$prn	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen
@@ -47,10 +47,10 @@ LR	eus	a	det-art$det	fin		$num$num-nocard$num-use_nonstd-nocard
 	eus	sei	num-pl$num	fin	kuusi	num-card-sg$num$num-card
 	eus	zazpi	num-pl$num	fin	seitsemän	num$num-card-sg$num-card
 	eus	hizkuntza	n	fin	kieli	n$n-ND
-	eus	buru	n	fin	pää	n$n-sg-nom$n-sg
+	eus	buru	n	fin	pää	n$n-sg-nom
 	eus	historia	n	fin	tarina	n
 	eus	irabazle	n	fin	voittaja	n
-	eus	erantzun	n	fin	vastaus	n$n-sg
+	eus	erantzun	n	fin	vastaus	n
 	eus	esku	n	fin	käsi	n$n-ND
 	eus	begi	n	fin	silmä	n$n-ND
 	eus	zarata	n	fin	melu	n
@@ -63,7 +63,7 @@ LR	eus	a	det-art$det	fin		$num$num-nocard$num-use_nonstd-nocard
 	eus	zuhaitz	n	fin	puu	n$n-ND
 	eus	txori	n	fin	lintu	n$n-ND
 	eus	eguraldi	n	fin	sää	n
-	eus	etxe	n	fin	talo	n$n-sg
+	eus	etxe	n	fin	talo	n$n-ND
 	eus	amaia	n	fin	äiti	n
 	eus	mutil	n	fin	poika	n$n-ND
 	eus	neska	n$	fin	tyttö	n$n-ND
@@ -76,11 +76,11 @@ LR	eus	a	det-art$det	fin		$num$num-nocard$num-use_nonstd-nocard
 	eus	ordu	n	fin	tunti	n
 	eus	ordu	n	fin	aika	n$n-ND
 	eus	aulki	n	fin	tuoli	n$n-ND
-	eus	urte	n	fin	vuosi	n$n-sg
-	eus	leiho	n	fin	ikkuna	n$n-sg
-	eus	animalia	n	fin	eläin	n$n-sg
+	eus	urte	n	fin	vuosi	n$n-ND
+	eus	leiho	n	fin	ikkuna	n$n-ND
+	eus	animalia	n	fin	eläin	n$n-ND
 	eus	jende	n	fin	ihminen	n$n-pl
-	eus	mahai	n	fin	pöytä	n$n-sg
+	eus	mahai	n	fin	pöytä	n$n-ND
 	eus	nahi	n	fin	haluta	vblex$vblex-actv-infe-sg-ins
 	eus	leku	n	fin	paikka	n$n-ND
 	eus	jolas	n	fin	leikki	n$n-ND

@@ -239,7 +239,7 @@ RL	swe	utanför	pr	nor	utkring	pr
 	swe	jag	prn-pers-p1-ut$prn-pers$prn	nor	eg	prn-pers-p1-mf$prn-pers$prn-pers-p1-mf-sg
 	swe	jag	prn-pers-p1-ut$prn-pers$prn	nor	jeg	prn$prn-pers-p1-mf$prn-pers$prn-pers-p1-mf-sg
 	swe	min	$n-ut	nor	min	$prn
-	swe	du	prn$prn-pers$prn-pers-p2-ut$	nor	du	prn$prn-pers-p2-mf$prn-p2$prn-pers-p2-mf-sg
+	swe	du	prn-pers-p2-ut$prn$prn-pers$	nor	du	prn$prn-pers-p2-mf$prn-p2$prn-pers-p2-mf-sg
 	swe	din	$prn-pos	nor	din	$prn
 	swe	hon	prn-pers-p3-f$$prn	nor	ho	prn-pers-p3-f$prn-p3$prn-pers-p3-f-sg
 	swe	hon	prn-pers-p3-f$$prn	nor	hun	prn$prn-pers-p3-f$prn-p3$prn-pers-p3-f-sg
@@ -327,7 +327,7 @@ LR	swe	nånting	prn-ind-un-sg$prn-ind	nor	noe	prn$$prn-ind$prn-ind-nt-sg
 	swe	samtlig	prn-def$prn-def-un-pl-nom	nor	all	det-qnt$$det-qnt-nt-sg
 	swe	all	prn-def	nor	all	det-qnt$$det-qnt-nt-sg
 LR	swe	allesammans	prn	nor	all	det-qnt-un-pl
-	swe	den	det-dem$det	nor	den	det-dem
+	swe	den	det-dem$det$det-dem-ut	nor	den	det-dem
 	swe	denna	det$det-dem	nor	denne	det-dem$$det
 	swe	sån	det-dem	nor	slik	det-dem
 	swe	en	det-ind$det	nor	en	det-qnt$
@@ -340,11 +340,11 @@ RL	swe	någon	det-qnt$det	nor	somme	det-qnt
 	swe	ingen	det$det-qnt	nor	ingen	det-qnt$
 	swe	varje	det-ind	nor	kvar	det-qnt
 	swe	varje	det-ind	nor	hver	det-qnt
-	swe	annan	det	nor	annen	$det-dem$det$det-dem-adj
-	swe	annan	det	nor	annan	det-dem$det
+	swe	annan	det$det-dem	nor	annen	$det-dem$det$det-dem-adj
+	swe	annan	det$det-dem	nor	annan	det-dem$det
 	swe	all	det-qnt	nor	all	det-qnt$$det-qnt-nt-sg
-	swe	en	det-qnt	nor	en	det-qnt$
-	swe	en	det-qnt	nor	ein	det-qnt$
+	swe	en	det-qnt$det-qnt-ut	nor	en	det-qnt$
+	swe	en	det-qnt$det-qnt-ut	nor	ein	det-qnt$
 	swe	två	det-qnt	nor	to	det-qnt$
 	swe	tre	det-qnt	nor	tre	det-qnt$det-qnt-un-pl
 	swe	fyra	det-qnt	nor	fire	$det-qnt$det-qnt-un-pl
@@ -10215,7 +10215,7 @@ RL	swe	skit	n-un	nor	lort	n-m
 	swe	skänkel	n-ut	nor	ben	n-nt$nt$
 	swe	skär	n-nt	nor	skjer	n-nt
 	swe	skär	n-nt	nor	skjær	n-nt$
-	swe	skära	$n-ut	nor	ljå	n-m
+	swe	skära	n-ut	nor	ljå	n-m
 	swe	skärgård	n-ut	nor	skjergard	n-m
 	swe	skärgård	n-ut	nor	skjærgård	n-m
 	swe	skärm	n-ut	nor	skjerm	n-m
@@ -13453,8 +13453,8 @@ LR	swe	fisig		nor	vond	$adj
 	swe	förtänksam		nor	omtenksom	$adj
 	swe	förunderlig		nor	forunderleg	$adj-sint
 	swe	förunderlig		nor	forunderlig	$adj$adj-sint
-	swe	gammal	$adj-sint$adj	nor	gammal	$adj$adj-sint
-	swe	gammal	$adj-sint$adj	nor	gammel	$adj$adj-sint
+	swe	gammal	$adj-sint$adj$adj-sint-pst	nor	gammal	$adj$adj-sint
+	swe	gammal	$adj-sint$adj$adj-sint-pst	nor	gammel	$adj$adj-sint
 	swe	gammalmodig	$adj	nor	gammaldags	$adj-sint
 	swe	gammalmodig	$adj	nor	gammeldags	$adj
 	swe	gemen		nor	alminneleg	$adj-sint
@@ -13479,9 +13479,9 @@ LR	swe	fisig		nor	vond	$adj
 	swe	gigantisk	$adj$adj-sint	nor	gigantisk	$adj
 	swe	gill		nor	gyldig	$adj
 	swe	giltig	$adj$adj-sint	nor	gyldig	$adj
-	swe	glad	$adj$adj-sint	nor	glad	$n-nt
-	swe	glad	$adj$adj-sint	nor	lukkeleg	
-	swe	glad	$adj$adj-sint	nor	lykkelig	$adj
+	swe	glad	$adj$adj-sint$adj-sint-pst-sg	nor	glad	$n-nt
+	swe	glad	$adj$adj-sint$adj-sint-pst-sg	nor	lukkeleg	
+	swe	glad	$adj$adj-sint$adj-sint-pst-sg	nor	lykkelig	$adj
 	swe	gladelig		nor	gledeleg	$adj-sint
 	swe	gladelig		nor	gledelig	$adj$adj-sint
 	swe	glamourös		nor	glamorøs	$adj
@@ -13828,9 +13828,9 @@ RL	swe	inrikes	$adj	nor	innariks
 	swe	likvärd		nor	likeverdig	$adj
 	swe	likvärdig	adj-sint$$adj	nor	likeverdig	$adj
 	swe	litauisk	$adj	nor	litauisk	$n-m
-	swe	liten	$adj-sint$adj	nor	liten	$adj$adj-sint
-RL	swe	liten	$adj-sint$adj	nor	småvaksen	
-RL	swe	liten	$adj-sint$adj	nor	småvokst	
+	swe	liten	$adj-sint$adj$adj-sint-pst	nor	liten	$adj$adj-sint
+RL	swe	liten	$adj-sint$adj$adj-sint-pst	nor	småvaksen	
+RL	swe	liten	$adj-sint$adj$adj-sint-pst	nor	småvokst	
 	swe	litterär	$adj$adj-sint	nor	litterær	$adj
 	swe	liturgisk	$adj$adj-sint	nor	liturgisk	$adj
 	swe	livaktig		nor	levande	
@@ -13886,8 +13886,8 @@ RL	swe	ljuvlig	$adj	nor	ljuv
 RL	swe	lönsam	$adj	nor	lønnsam	
 	swe	lönsam	$adj	nor	lønnsom	
 	swe	lönsam	$adj	nor	lønsam	
-	swe	lös	$adj	nor	laus	$adj
-	swe	lös	$adj	nor	løs	$adj
+	swe	lös	$adj$adj-pst	nor	laus	$adj
+	swe	lös	$adj$adj-pst	nor	løs	$adj
 	swe	maffig		nor	røsleg	$adj-sint
 	swe	maffig		nor	røslig	$adj$adj-sint
 	swe	mager	$adj$adj-sint	nor	mager	$adj-sint$adj
@@ -14364,12 +14364,12 @@ LR	swe	riktiger		nor	riktig	$adv
 	swe	rivig		nor	kjapp	$adj
 	swe	rofylld		nor	roleg	$adj-sint
 	swe	rofylld		nor	rolig	adv$
-	swe	rolig	$adj$adj-sint	nor	artig	$adj-sint$adj
-	swe	rolig	$adj$adj-sint	nor	gøy	$n-m
-	swe	rolig	$adj$adj-sint	nor	kul	n-m$
-	swe	rolig	$adj$adj-sint	nor	morosam	
-	swe	rolig	$adj$adj-sint	nor	morsom	$adj
-	swe	rolig	$adj$adj-sint	nor	roleg	$adj-sint
+	swe	rolig	$adj$adj-sint$adj-sint-pst	nor	artig	$adj-sint$adj
+	swe	rolig	$adj$adj-sint$adj-sint-pst	nor	gøy	$n-m
+	swe	rolig	$adj$adj-sint$adj-sint-pst	nor	kul	n-m$
+	swe	rolig	$adj$adj-sint$adj-sint-pst	nor	morosam	
+	swe	rolig	$adj$adj-sint$adj-sint-pst	nor	morsom	$adj
+	swe	rolig	$adj$adj-sint$adj-sint-pst	nor	roleg	$adj-sint
 	swe	romantisk	$adj$adj-sint	nor	romantisk	$adj
 	swe	romersk	$adj	nor	romersk	$adj
 	swe	rostig	$adj$adj-sint	nor	rusten	
@@ -14610,8 +14610,8 @@ LR	swe	spyfärdig		nor	vond	$adj
 	swe	stollig		nor	tåpeleg	
 	swe	stollig		nor	tåpelig	$adj
 	swe	stolt	$adj	nor	stolt	$adj-sint
-	swe	stor	adj-pst$$adj	nor	stor	$adj-sint$adj
-	swe	stor	adj-pst$$adj	nor	svær	adj$
+	swe	stor	$adj$adj-sint$adj-sint-pst	nor	stor	$adj-sint$adj
+	swe	stor	$adj$adj-sint$adj-sint-pst	nor	svær	adj$
 	swe	storsint		nor	raus	$n-nt
 	swe	storvuxen		nor	storvaksen	
 	swe	storvuxen		nor	storvokst	$adj
@@ -16202,7 +16202,7 @@ LR	swe	främst	adv-sup$adv	nor	hovedsakelig	adv
 	swe	vara¹	$vblex	nor	vere	$n
 	swe	vara¹	$vblex	nor	være	$n-nt
 	swe	vara²	$vblex	nor	vare	$n-m$n
-	swe	ha	vbhaver$	nor	ha	
+	swe	ha	vblex$	nor	ha	
 	swe	skola¹	$vblex	nor	skulle	$vblex$vblex-pret
 	swe	skola²		nor	skole	n-m$
 	swe	skola²		nor	skolere	
@@ -21718,9 +21718,9 @@ RL	swe	skicka	$vblex	nor	hitsende
 	swe	skämta	$vblex	nor	spøke	
 	swe	skänka	$vblex	nor	donere	
 	swe	skänka	$vblex	nor	skjenke	
-	swe	skära	$n-ut	nor	karve	
-	swe	skära	$n-ut	nor	skjere	
-	swe	skära	$n-ut	nor	skjære	$n-mf
+	swe	skära	$vblex	nor	karve	
+	swe	skära	$vblex	nor	skjere	
+	swe	skära	$vblex	nor	skjære	$n-mf
 	swe	skärma av		nor	skjerme	
 	swe	skärpa	$n-ut	nor	skjerme	
 	swe	skärra		nor	kveppe	
@@ -24208,8 +24208,8 @@ LR	swe	avlöpa		nor	forekomme
 	swe		cm	nor		cm
 	swe		lquot	nor		lquot
 	swe		rquot	nor		rquot
-	swe		det-qnt$	nor		det-qnt$det-qnt-un-pl$$det-qnt-pl
-	swe		det-qnt$	nor		det-qnt$det-qnt-un-pl$$det-qnt-pl
+	swe		$det-qnt	nor		det-qnt$det-qnt-un-pl$$det-qnt-pl
+	swe		$det-qnt	nor		det-qnt$det-qnt-un-pl$$det-qnt-pl
 	swe	Abchazien	np-top-nt	nor	Abkhasia	np-top
 	swe	Albanien	np-top-nt	nor	Albania	np-top$np
 	swe	Algeriet	np-top-nt	nor	Algerie	np-top$np
@@ -28647,7 +28647,7 @@ LR	swe	Stjørdalselva	np-top-f	nor	Stjørdalselva	np-top-f
 	swe	Ingebret	np	nor	Ingebret	np
 	swe	Øverland	np	nor	Øverland	np$np-top
 	swe	Eestilä	np	nor	Eestilä	np
-	swe	Jaakko	np$np-ant-m	nor	Jaakko	np$np-m
+	swe	Jaakko	np	nor	Jaakko	np$np-m
 	swe	Rinnan	np	nor	Rinnan	np
 	swe	Sinivuori	np	nor	Sinivuori	np
 	swe	Pelli	np	nor	Pelli	np
@@ -42321,7 +42321,7 @@ RL	swe	Luxemburg	np-top-nt$np	nor	Luxemburg	np-top$np
 	swe	Juutilainen	np	nor	Juutilainen	np
 	swe	Vincent	np	nor	Vincent	np
 	swe	Galdhøpiggen	np	nor	Galdhøpiggen	np$np-top-m
-	swe	Mari	np$np-ant-f	nor	Mari	np
+	swe	Mari	np	nor	Mari	np
 	swe	Marques	np	nor	Marques	np$np-cog
 	swe	Mark	np$np-ant-m	nor	Mark	np$np-cog
 	swe	Ingilæ	np	nor	Ingilæ	np

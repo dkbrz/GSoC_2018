@@ -200,12 +200,12 @@ LR	ces	náš	prn-pos$prn-pos-ma	slk	náš	prn-pos$prn-pos-ma
 	ces	náš	prn-pos$prn-pos-ma	slk	náš	prn-pos$prn-pos-ma
 LR	ces	váš	prn-pos$prn-pos-ma	slk	váš	prn-pos$prn-pos-ma
 	ces	váš	prn-pos$prn-pos-ma	slk	váš	prn-pos$prn-pos-ma
-LR	ces	kolik	prn-ind-ma$prn-ind	slk	koľko	prn-ind-mf
+LR	ces	kolik	prn-ind-ma	slk	koľko	prn-ind-mf
 	ces	kolik	prn-ind-nm	slk	koľko	prn-ind-mf
 	ces	oba	prn-ind$prn-ind-ma	slk	oba	prn-ind
 	ces	nic	prn-ind-nt$prn-ind$prn-ind-nt-sg	slk	nič	prn-ind-nt
 	ces	nikdo	prn-ind-ma$prn$prn-ind	slk	nikto	prn-ind-ma
-	ces	mnoho	prn-ind$prn-ind-ma	slk	mnoho	prn-ind-mf
+	ces	mnoho	prn-ind-ma	slk	mnoho	prn-ind-mf
 	ces	někde	prn-ind	slk	niekde	prn-ind
 	ces	někdy	prn-ind	slk	niekedy	prn-ind
 RL	ces	jednou	prn-ind	slk	raz	prn-ind
@@ -235,14 +235,14 @@ RL	ces	jak mile	rel-adv	slk	až	rel-adv
 RL	ces	což	rel-an	slk	čo	rel-an$rel
 	ces	jak	rel-adv	slk	ako	rel-adv
 	ces	její	det-pos$det-pos-sp	slk	jej	det-pos-ND-GD
-	ces	každý	det-ind-ma-sg	slk	každý	det-ind-ma-sg
+	ces	každý	det-ind-ma-sg$det-ind	slk	každý	det-ind-ma-sg
 	ces	každý	det-ind-mi-sg	slk	každý	det-ind-mi-sg
 	ces	každý	det-ind-nt-sg	slk	každý	det-ind-nt-sg
 	ces	každý	det-ind-f-sg	slk	každý	det-ind-f-sg
 RL	ces	každý	det-ind-ma-pl	slk	každý	det-ind-ma-pl
-RL	ces	každý	det-ind-nm-pl$det-ind	slk	každý	det-ind-mi-pl
-RL	ces	každý	det-ind-nm-pl$det-ind	slk	každý	det-ind-f-pl
-RL	ces	každý	det-ind-nm-pl$det-ind	slk	každý	det-ind-nt-pl
+RL	ces	každý	det-ind-nm-pl	slk	každý	det-ind-mi-pl
+RL	ces	každý	det-ind-nm-pl	slk	každý	det-ind-f-pl
+RL	ces	každý	det-ind-nm-pl	slk	každý	det-ind-nt-pl
 	ces	všechen	det-ind-ma$det-ind-ma-pl	slk	všetok	det-ind-ma$det-ind-ma-pl
 	ces	všechen	det-ind-mi$det-ind-mi-pl	slk	všetok	det-ind-mi$det-ind-mi-pl
 	ces	všechen	det-ind-nt-sg$det-ind-nt$det-ind	slk	všetok	det-ind-nt$det-ind-nt-pl
@@ -285,11 +285,11 @@ LR	ces	náš	det-pos$det-pos-ma	slk	náš	det-pos$det-pos-ma
 LR	ces	váš	det-pos$det-pos-ma	slk	váš	det-pos$det-pos-ma
 	ces	oba	det-ind$det-ind-ma	slk	oba	det-ind$det-ind-ma
 LR	ces	oba	det-ind$det-ind-ma	slk	oba	det-ind$det-ind-ma
-	ces	kolik	det-qnt-ma$det-qnt	slk	koľko	det-qnt-mf
-	ces	mnoho	det-qnt$det-qnt-nm	slk	mnoho	det-qnt$det-qnt-mf
+	ces	kolik	det-qnt-ma	slk	koľko	det-qnt-mf
+	ces	mnoho	det-qnt$det-qnt-mf	slk	mnoho	det-qnt$det-qnt-mf
 	ces	tolik	det-qnt	slk	toľko	det-qnt
 	ces	několik	det-qnt-nm	slk	niekoľko	det-qnt-mf
-	ces	mnoho	det-qnt$det-qnt-nm	slk	mnoho	det-qnt$det-qnt-mf
+	ces	mnoho	det-qnt-nm	slk	mnoho	det-qnt$det-qnt-mf
 	ces	to	det-dem$det-dem-ma	slk	to	det-dem$det-dem-ma
 LR	ces	to	det-dem$det-dem-ma	slk	to	det-dem$det-dem-ma
 RL	ces	toto	det-dem	slk	toto	det-dem
@@ -358,34 +358,34 @@ LR	ces	čí	det-itg$det-itg-ma	slk	čí	det-itg$det-itg-ma
 	ces	dva	num$num-ma	slk	dva	num
 	ces	tři	num-nm	slk	tri	num$num-mf
 	ces	čtyři	num-nm	slk	štyri	num$num-mf
-	ces	pět	num$num-qnt$num-qnt-nm	slk	päť	num$num-qnt-mf
-	ces	šest	num-qnt$num$num-qnt-nm	slk	šesť	num$num-qnt-mf
-	ces	sedm	num-qnt$num-qnt-nm	slk	sedem	num$num-qnt-mf
-	ces	osm	num-qnt$num-qnt-nm	slk	osem	num$num-qnt-mf
-	ces	devět	num-qnt$num-qnt-nm	slk	deväť	num$num-qnt-mf
-	ces	deset	num-qnt$num-qnt-nm	slk	desať	num$num-qnt-mf
-	ces	jedenáct	num-qnt$num-qnt-nm	slk	jedenásť	num-qnt-mf
-	ces	dvanáct	num-qnt-nm$num-qnt	slk	dvanásť	num$num-qnt-mf
-	ces	třináct	num-qnt-nm$num-qnt	slk	trinásť	num-qnt-mf
-	ces	čtrnáct	num-qnt-nm$num-qnt	slk	štrnásť	num-qnt-mf
-	ces	patnáct	num-qnt-nm$num-qnt	slk	pätnácť	num-qnt-mf
-	ces	šestnáct	num-qnt-nm$num-qnt	slk	šestnácť	num-qnt-mf
-	ces	sedmnáct	num-qnt-nm$num-qnt	slk	sedemásť	num-qnt-mf
-	ces	osmnáct	num-qnt-nm$num-qnt	slk	osemásť	num-qnt-mf
-	ces	devatenáct	num-qnt-nm$num-qnt	slk	deväťnásť	num-qnt-mf
-	ces	dvacet	num-qnt-nm$num-qnt	slk	dvadsať	num$num-qnt-mf
-	ces	třicet	num-qnt-nm$num-qnt	slk	tridsať	num-qnt-mf
-	ces	čtyřicet	num-qnt-nm$num-qnt	slk	štyridsať	num-qnt-mf
-	ces	padesát	num-qnt-nm$num-qnt	slk	päťdesiat	num-qnt-mf
-	ces	šedesát	num-qnt-nm$num-qnt	slk	šesťdesiat	num-qnt-mf
-	ces	sedmdesát	num-qnt-nm$num-qnt	slk	sedemdesiat	num$num-qnt-mf
-	ces	osmdesát	num-qnt-nm$num-qnt	slk	osemdesiat	num-qnt-mf
-	ces	devadesát	num-qnt-nm$num-qnt	slk	deväťdesiat	num-qnt-mf
-	ces	sto	num-qnt$num-qnt-nm	slk	sto	num$num-qnt-mf
+	ces	pět	num-qnt-nm	slk	päť	num$num-qnt-mf
+	ces	šest	num-qnt-nm	slk	šesť	num$num-qnt-mf
+	ces	sedm	num-qnt-nm	slk	sedem	num$num-qnt-mf
+	ces	osm	num-qnt-nm	slk	osem	num$num-qnt-mf
+	ces	devět	num-qnt-nm	slk	deväť	num$num-qnt-mf
+	ces	deset	num-qnt-nm	slk	desať	num$num-qnt-mf
+	ces	jedenáct	num-qnt-nm	slk	jedenásť	num-qnt-mf
+	ces	dvanáct	num-qnt-nm	slk	dvanásť	num$num-qnt-mf
+	ces	třináct	num-qnt-nm	slk	trinásť	num-qnt-mf
+	ces	čtrnáct	num-qnt-nm	slk	štrnásť	num-qnt-mf
+	ces	patnáct	num-qnt-nm	slk	pätnácť	num-qnt-mf
+	ces	šestnáct	num-qnt-nm	slk	šestnácť	num-qnt-mf
+	ces	sedmnáct	num-qnt-nm	slk	sedemásť	num-qnt-mf
+	ces	osmnáct	num-qnt-nm	slk	osemásť	num-qnt-mf
+	ces	devatenáct	num-qnt-nm	slk	deväťnásť	num-qnt-mf
+	ces	dvacet	num-qnt-nm	slk	dvadsať	num$num-qnt-mf
+	ces	třicet	num-qnt-nm	slk	tridsať	num-qnt-mf
+	ces	čtyřicet	num-qnt-nm	slk	štyridsať	num-qnt-mf
+	ces	padesát	num-qnt-nm	slk	päťdesiat	num-qnt-mf
+	ces	šedesát	num-qnt-nm	slk	šesťdesiat	num-qnt-mf
+	ces	sedmdesát	num-qnt-nm	slk	sedemdesiat	num$num-qnt-mf
+	ces	osmdesát	num-qnt-nm	slk	osemdesiat	num-qnt-mf
+	ces	devadesát	num-qnt-nm	slk	deväťdesiat	num-qnt-mf
+	ces	sto	num-qnt-nm	slk	sto	num$num-qnt-mf
 	ces	dvě stě	num-qnt-ma$num	slk	dvesto	num$num-qnt-ma
 	ces	dvě stě	num-qnt-nm	slk	dvesto	num-qnt-mf
-	ces	tři sta	num-qnt-nm$num	slk	tristo	num-qnt-mf
-	ces	čtyři sta	num-qnt-nm$num	slk	štyristo	num-qnt-mf
+	ces	tři sta	num-qnt-nm	slk	tristo	num-qnt-mf
+	ces	čtyři sta	num-qnt-nm	slk	štyristo	num-qnt-mf
 	ces	indikátor	n-mi	slk	indikátor	n-mi
 	ces	leden	n-mi	slk	január	n-mi
 	ces	únor	n-mi	slk	február	n-mi
@@ -1572,7 +1572,7 @@ LR	ces	rouhání	n-f	slk	rúhanie	n-nt
 	ces	myrta	n-f	slk	myrta	n-f
 	ces	mínění	n-nt	slk	mienka	n-f
 	ces	pomočování	n-nt	slk	pomočovanie	n-nt
-	ces	mono	n-f$n	slk	mono	n-nt
+	ces	mono	n$n-f	slk	mono	n-nt
 	ces	moralista	n-ma	slk	moralista	n-f
 	ces	poučení	n-mi	slk	poučenie	n-nt
 	ces	moteto	n-ma	slk	moteto	n-nt
@@ -7584,8 +7584,8 @@ RL	ces	automobil	n-mi	slk	automobil	n-mi
 	ces	betlém	n-f	slk	betlém	n-mi
 	ces	bit	n-mi	slk	bit	n-mi
 	ces	bor	n-mi$n	slk	bor	n$n-mi
-	ces	bradavka	n-f$n	slk	bradavka	n
-	ces	bránice	n-f$n	slk	bránice	n
+	ces	bradavka	n$n-f	slk	bradavka	n
+	ces	bránice	n$n-f	slk	bránice	n
 	ces	bulvár	n-mi	slk	bulvár	n-mi
 	ces	bus	n-mi	slk	bus	n-mi
 	ces	chleba	n-mi	slk	chleba	n-mi
@@ -7754,7 +7754,7 @@ LR	ces	žena	n-f	slk	žena	n-f
 	ces	daleký	adj-sint	slk	daleký	adj-sint
 	ces	finanční	adj	slk	finanční	adj
 	ces	úřední	adj	slk	úřední	adj
-	ces	člověk	n-ma-sg$n-ma	slk	člověk	n-ma-sg
+	ces	člověk	n-ma$n-ma-sg	slk	člověk	n-ma-sg
 	ces	lidi	n-ma-pl$n-pl	slk	lidi	n-ma-pl
 	ces	studie	n-nt	slk	studie	n-f
 	ces	dáma	n-f	slk	dáma	n-f
@@ -8372,7 +8372,7 @@ LR	ces	subvence	n-f	slk	subvence	n-f
 	ces	vanilka	n-f	slk	vanilka	n-f
 	ces	ucho	n-nt	slk	ucho	n-nt
 	ces	neurologie	n-f	slk	neurologie	n-f
-	ces	nebe	n-nt-sg$n-nt	slk	nebe	n-nt-sg
+	ces	nebe	n-nt$n-nt-sg	slk	nebe	n-nt-sg
 RL	ces	nebe	n-nt-pl	slk	nebe	n-nt-pl
 	ces	nebesa	n-nt$n-nt-pl	slk	nebesa	n-nt$n-nt-pl
 	ces	neon	n-mi	slk	neon	n-mi
@@ -8694,7 +8694,7 @@ LR	ces	afrikánština	n$n-f	slk	afrikánština	n-f
 	ces	polština	n$n-f	slk	polština	n-f
 	ces	slovenština	n$n-f	slk	slovenština	n-f
 	ces	drahokam	n$n-mi	slk	drahokam	n-mi
-	ces	řečiště	n$n-nt	slk	řečiště	n-nt
+	ces	řečiště	n-nt$n	slk	řečiště	n-nt
 	ces	maják	n-mi$n	slk	maják	n-mi
 	ces	cirhóza	n-f	slk	cirhóza	n-f
 	ces	zemětřesení	n-nt	slk	zemětřesení	n-nt
@@ -8708,7 +8708,7 @@ LR	ces	dobytek	n-mi$n	slk	dobytek	n-mi
 	ces	lignit	n$n-mi	slk	lignit	n-mi
 	ces	loď	n$n-f	slk	loď	n-f
 	ces	jebák	n$n-mi	slk	jebák	n-mi
-	ces	srážka	n$n-f	slk	srážka	n-f
+	ces	srážka	n-f$n	slk	srážka	n-f
 	ces	sedisvakance	n$n-f	slk	sedisvakance	n-f
 	ces	Alláh	np-ant-ma	slk	Alláh	np-ant-ma
 	ces	svatý Jiří	np-ant-ma	slk	svatý Jiří	np-ant-ma
@@ -9190,9 +9190,9 @@ LR	ces	spojený	adj$adj-sint	slk	spojený	adj-sint
 	ces	čtverečný	adj$adj-sint	slk	čtverečný	adj-sint
 	ces	čtený	adj-sint	slk	čtený	adj-sint
 	ces	čelný	adj$adj-sint	slk	čelný	adj-sint
-	ces	berní	adj-sint$adj	slk	berní	adj
-	ces	vysoký	adj-sint$adj	slk	vysoký	adj-sint
-	ces	malý	adj-sint$adj$adj-sint-mi	slk	malý	adj$adj-sint
+	ces	berní	adj$adj-sint	slk	berní	adj
+	ces	vysoký	adj$adj-sint	slk	vysoký	adj-sint
+	ces	malý	adj$adj-sint$adj-sint-mi	slk	malý	adj$adj-sint
 	ces	bezduchý	adj-sint	slk	bezduchý	adj-sint
 	ces	velký	adj$adj-sint$adj-sint-nt	slk	velký	adj-sint
 RL	ces	grandiózní	adj	slk	grandiózní	adj
@@ -10756,7 +10756,7 @@ LR	ces	rybářský	adj	slk	rybářský	adj
 	ces	lámavý	adj	slk	lámavý	adj
 	ces	citlivý	adj$adj-sint	slk	citlivý	adj$adj-sint
 	ces	demokratický	adj	slk	demokratický	adj
-	ces	dokonalý	adj-sint$adj	slk	dokonalý	adj
+	ces	dokonalý	adj$adj-sint	slk	dokonalý	adj
 	ces	ideální	adj$adj-sint	slk	ideální	adj
 	ces	emeritní	adj	slk	emeritní	adj
 RL	ces	penzionovaný	adj	slk	penzionovaný	adj
@@ -10781,10 +10781,10 @@ LR	ces	hlavní	adj$adj-sint	slk	hlavní	adj
 	ces	úžasný	adj-sint	slk	úžasný	adj-sint
 	ces	zapomenutý	adj	slk	zapomenutý	adj
 	ces	aktuální	adj$adj-sint	slk	aktuální	adj
-RL	ces	běžný	adj-sint$adj	slk	běžný	adj
-RL	ces	současný	adj-sint$adj	slk	současný	adj
+RL	ces	běžný	adj$adj-sint	slk	běžný	adj
+RL	ces	současný	adj$adj-sint	slk	současný	adj
 	ces	aktivní	adj$adj-sint	slk	aktivní	adj
-RL	ces	činný	adj-sint$adj	slk	činný	adj
+RL	ces	činný	adj$adj-sint	slk	činný	adj
 	ces	umělecký	adj	slk	umělecký	adj
 	ces	bezplatný	adj$adj-sint	slk	bezplatný	adj-sint
 	ces	bezohledný	adj	slk	bezohledný	adj
@@ -10797,14 +10797,14 @@ RL	ces	naprostý	adj$adj-sint	slk	naprostý	adj-sint
 	ces	zvědavý	adj	slk	zvědavý	adj
 	ces	členský	adj	slk	členský	adj
 	ces	aktivní	adj$adj-sint	slk	aktivní	adj
-	ces	činný	adj-sint$adj	slk	činný	adj
+	ces	činný	adj$adj-sint	slk	činný	adj
 	ces	domácí	adj	slk	domácí	adj
 	ces	domovský	adj	slk	domovský	adj
 	ces	divý	adj	slk	divý	adj
 	ces	elegantní	adj	slk	elegantní	adj
 	ces	hloupý	adj	slk	hloupý	adj
 	ces	zuřivý	adj	slk	zuřivý	adj
-	ces	intenzívní	adj-sint$adj	slk	intenzívní	adj
+	ces	intenzívní	adj$adj-sint	slk	intenzívní	adj
 LR	ces	důležitý	adj	slk	důležitý	adj
 	ces	důležitý	adj	slk	důležitý	adj
 	ces	jednotný	adj	slk	jednotný	adj
@@ -10848,7 +10848,7 @@ RL	ces	krutý	adj	slk	krutý	adj
 	ces	krásný	adj	slk	krásný	adj
 	ces	placený	adj	slk	placený	adj
 LR	ces	závislý	adj	slk	závislý	adj
-	ces	politický	adj-sint$adj	slk	politický	adj
+	ces	politický	adj$adj-sint	slk	politický	adj
 	ces	populární	adj$adj-sint	slk	populární	adj
 	ces	mohutný	adj	slk	mohutný	adj
 	ces	potřebný	adj$adj-sint	slk	potřebný	adj
@@ -10857,7 +10857,7 @@ LR	ces	závislý	adj	slk	závislý	adj
 RL	ces	obecný	adj	slk	obecný	adj
 	ces	všeobecný	adj	slk	všeobecný	adj
 	ces	pozitivní	adj$adj-sint	slk	pozitivní	adj
-	ces	praktický	adj-sint$adj	slk	praktický	adj
+	ces	praktický	adj$adj-sint	slk	praktický	adj
 	ces	pravděpodobný	adj	slk	pravděpodobný	adj
 	ces	opravdový	adj	slk	opravdový	adj
 	ces	právní	adj	slk	právní	adj
@@ -10868,15 +10868,15 @@ RL	ces	veřejnoprávní	adj	slk	veřejnoprávní	adj
 	ces	veřejný	adj-sint$adj	slk	veřejný	adj-sint
 	ces	čistokrevný	adj	slk	čistokrevný	adj
 	ces	pravidelný	adj	slk	pravidelný	adj
-	ces	náboženský	adj-sint$adj	slk	náboženský	adj
-	ces	rodinný	adj$adj-sint	slk	rodinný	adj$adj-sint
+	ces	náboženský	adj$adj-sint	slk	náboženský	adj
+	ces	rodinný	adj-sint$adj	slk	rodinný	adj$adj-sint
 RL	ces	rodný	adj$adj-sint	slk	rodný	adj-sint
 	ces	různý	adj	slk	různý	adj
 	ces	samostatný	adj	slk	samostatný	adj
 	ces	silný	adj-sint$adj	slk	silný	adj
 	ces	slunečný	adj	slk	slunečný	adj
 	ces	speciální	adj$adj-sint	slk	speciální	adj
-	ces	specifický	adj-sint$adj	slk	specifický	adj
+	ces	specifický	adj$adj-sint	slk	specifický	adj
 	ces	spokojený	adj	slk	spokojený	adj
 	ces	společný	adj$adj-sint	slk	společný	adj$adj-sint
 LR	ces	společný	adj$adj-sint	slk	společný	adj$adj-sint
@@ -10920,7 +10920,7 @@ LR	ces	zrádný	adj$adj-sint	slk	zrádný	adj-sint
 LR	ces	statečný	adj$adj-sint	slk	statečný	adj$adj-sint
 	ces	statečný	adj$adj-sint	slk	statečný	adj$adj-sint
 	ces	pyrenejský	adj	slk	pyrenejský	adj
-	ces	příruční	adj-sint$adj	slk	příruční	adj
+	ces	příruční	adj$adj-sint	slk	příruční	adj
 	ces	půvabný	adj	slk	půvabný	adj
 	ces	proevropský	adj	slk	proevropský	adj
 	ces	prominentní	adj	slk	prominentní	adj
@@ -10931,22 +10931,22 @@ LR	ces	statečný	adj$adj-sint	slk	statečný	adj$adj-sint
 	ces	puritánský	adj	slk	puritánský	adj
 LR	ces	rapidní	adj$adj-sint	slk	rapidní	adj
 	ces	rasistický	adj	slk	rasistický	adj
-	ces	romantický	adj-sint$adj	slk	romantický	adj
+	ces	romantický	adj$adj-sint	slk	romantický	adj
 	ces	románský	adj	slk	románský	adj
 	ces	rušný	adj	slk	rušný	adj
 	ces	riskantní	adj$adj-sint	slk	riskantní	adj
 	ces	saudský	adj	slk	saudský	adj
-	ces	sentimentální	adj-sint$adj	slk	sentimentální	adj
+	ces	sentimentální	adj$adj-sint	slk	sentimentální	adj
 	ces	staromódní	adj$adj-sint	slk	staromódní	adj
 	ces	starosvětský	adj	slk	starosvětský	adj
 	ces	strašidelný	adj	slk	strašidelný	adj
 	ces	sudetský	adj	slk	sudetský	adj
-	ces	sugestivní	adj-sint$adj	slk	sugestivní	adj
+	ces	sugestivní	adj$adj-sint	slk	sugestivní	adj
 	ces	siamský	adj	slk	siamský	adj
 	ces	slovní	adj$adj-sint	slk	slovní	adj
 	ces	taxikářský	adj	slk	taxikářský	adj
 	ces	tendenční	adj$adj-sint	slk	tendenční	adj
-	ces	tragikomický	adj-sint$adj	slk	tragikomický	adj
+	ces	tragikomický	adj$adj-sint	slk	tragikomický	adj
 	ces	trenérský	adj	slk	trenérský	adj
 	ces	triumfální	adj$adj-sint	slk	triumfální	adj
 	ces	střízlivý	adj	slk	střízlivý	adj
@@ -10973,7 +10973,7 @@ LR	ces	rapidní	adj$adj-sint	slk	rapidní	adj
 	ces	poetický	adj	slk	poetický	adj
 	ces	pohanský	adj	slk	pohanský	adj
 	ces	polynéský	adj	slk	polynéský	adj
-	ces	ohleduplný	adj-sint$adj	slk	ohleduplný	adj
+	ces	ohleduplný	adj$adj-sint	slk	ohleduplný	adj
 	ces	víkendový	adj	slk	víkendový	adj
 	ces	typický	adj	slk	typický	adj
 	ces	svatý	adj-sint	slk	svatý	adj-sint
@@ -11131,9 +11131,9 @@ LR	ces	thajský	adj	slk	thajský	adj
 	ces	žilinský	adj	slk	žilinský	adj
 	ces	akademický	adj	slk	akademický	adj
 	ces	herecký	adj	slk	herecký	adj
-	ces	aromatický	adj-sint$adj	slk	aromatický	adj
+	ces	aromatický	adj$adj-sint	slk	aromatický	adj
 	ces	atlantický	adj	slk	atlantický	adj
-	ces	autentický	adj-sint$adj	slk	autentický	adj
+	ces	autentický	adj$adj-sint	slk	autentický	adj
 	ces	barevný	adj	slk	barevný	adj
 	ces	bezbarvý	adj	slk	bezbarvý	adj
 	ces	kritický	adj$adj-sint	slk	kritický	adj
@@ -11144,29 +11144,29 @@ LR	ces	thajský	adj	slk	thajský	adj
 	ces	celní	adj$adj-sint	slk	celní	adj
 LR	ces	neomalený	adj$adj-sint	slk	neomalený	adj-sint
 	ces	neomalený	adj$adj-sint	slk	neomalený	adj-sint
-	ces	charismatický	adj-sint$adj	slk	charismatický	adj
+	ces	charismatický	adj$adj-sint	slk	charismatický	adj
 	ces	ctihodný	adj	slk	ctihodný	adj
 	ces	čitelný	adj	slk	čitelný	adj
-RL	ces	choulostivý	adj-sint$adj	slk	choulostivý	adj
-RL	ces	jemný	adj-sint$adj	slk	jemný	adj
+RL	ces	choulostivý	adj$adj-sint	slk	choulostivý	adj
+RL	ces	jemný	adj$adj-sint	slk	jemný	adj
 	ces	delikátní	adj$adj-sint	slk	delikátní	adj
 	ces	důstojný	adj	slk	důstojný	adj
-	ces	dramatický	adj-sint$adj	slk	dramatický	adj
-	ces	drastický	adj-sint$adj	slk	drastický	adj
+	ces	dramatický	adj$adj-sint	slk	dramatický	adj
+	ces	drastický	adj$adj-sint	slk	drastický	adj
 	ces	dusný	adj	slk	dusný	adj
-	ces	dynamický	adj-sint$adj	slk	dynamický	adj
-	ces	exotický	adj-sint$adj	slk	exotický	adj
-	ces	excentrický	adj-sint$adj	slk	excentrický	adj
-	ces	elastický	adj-sint$adj	slk	elastický	adj
+	ces	dynamický	adj$adj-sint	slk	dynamický	adj
+	ces	exotický	adj$adj-sint	slk	exotický	adj
+	ces	excentrický	adj$adj-sint	slk	excentrický	adj
+	ces	elastický	adj$adj-sint	slk	elastický	adj
 	ces	epický	adj	slk	epický	adj
 	ces	eskymácký	adj	slk	eskymácký	adj
 	ces	eskymácký	adj	slk	eskymácký	adj
-	ces	estetický	adj-sint$adj	slk	estetický	adj
-	ces	éterický	adj-sint$adj	slk	éterický	adj
+	ces	estetický	adj$adj-sint	slk	estetický	adj
+	ces	éterický	adj$adj-sint	slk	éterický	adj
 	ces	euroatlantický	adj	slk	euroatlantický	adj
-	ces	fantastický	adj-sint$adj	slk	fantastický	adj
+	ces	fantastický	adj$adj-sint	slk	fantastický	adj
 	ces	foremný	adj	slk	foremný	adj
-	ces	gigantický	adj-sint$adj	slk	gigantický	adj
+	ces	gigantický	adj$adj-sint	slk	gigantický	adj
 	ces	gordický	adj	slk	gordický	adj
 	ces	horlivý	adj	slk	horlivý	adj
 	ces	hostinný	adj	slk	hostinný	adj
@@ -11178,22 +11178,22 @@ RL	ces	jemný	adj-sint$adj	slk	jemný	adj
 	ces	irácký	adj	slk	irácký	adj
 	ces	jednostranný	adj	slk	jednostranný	adj
 	ces	jezdecký	adj	slk	jezdecký	adj
-	ces	kalorický	adj-sint$adj	slk	kalorický	adj
+	ces	kalorický	adj$adj-sint	slk	kalorický	adj
 	ces	kaspický	adj	slk	kaspický	adj
 	ces	katolický	adj	slk	katolický	adj
-	ces	komický	adj-sint$adj	slk	komický	adj
+	ces	komický	adj$adj-sint	slk	komický	adj
 	ces	košický	adj	slk	košický	adj
 	ces	kozácký	adj	slk	kozácký	adj
 	ces	kritický	adj$adj-sint	slk	kritický	adj
 	ces	křiklavý	adj	slk	křiklavý	adj
 	ces	kupecký	adj	slk	kupecký	adj
 	ces	laický	adj	slk	laický	adj
-	ces	lakonický	adj-sint$adj	slk	lakonický	adj
-	ces	dovolený	adj-sint$adj	slk	dovolený	adj
+	ces	lakonický	adj$adj-sint	slk	lakonický	adj
+	ces	dovolený	adj$adj-sint	slk	dovolený	adj
 	ces	lehkovážný	adj	slk	lehkovážný	adj
 	ces	liberecký	adj	slk	liberecký	adj
-	ces	lyrický	adj-sint$adj	slk	lyrický	adj
-	ces	logický	adj-sint$adj	slk	logický	adj
+	ces	lyrický	adj$adj-sint	slk	lyrický	adj
+	ces	logický	adj$adj-sint	slk	logický	adj
 	ces	marxistický	adj	slk	marxistický	adj
 	ces	marný	adj	slk	marný	adj
 	ces	marocký	adj	slk	marocký	adj
@@ -11218,12 +11218,12 @@ LR	ces	ničivý	adj$adj-sint	slk	ničivý	adj-sint
 	ces	pardubický	adj	slk	pardubický	adj
 	ces	fotbalový	adj$adj-sint	slk	fotbalový	adj-sint
 	ces	plavecký	adj	slk	plavecký	adj
-	ces	dobrácký	adj-sint$adj	slk	dobrácký	adj
+	ces	dobrácký	adj$adj-sint	slk	dobrácký	adj
 LR	ces	poctivý	adj$adj-sint	slk	poctivý	adj
 	ces	pokorný	adj	slk	pokorný	adj
 	ces	jihoafrický	adj	slk	jihoafrický	adj
 	ces	jihoamerický	adj	slk	jihoamerický	adj
-	ces	platný	adj-sint$adj	slk	platný	adj
+	ces	platný	adj$adj-sint	slk	platný	adj
 	ces	správný	adj$adj-sint	slk	správný	adj
 	ces	hovorový	adj	slk	hovorový	adj
 	ces	potulný	adj	slk	potulný	adj
@@ -11235,7 +11235,7 @@ LR	ces	rozumný	adj-sint$adj	slk	rozumný	adj-sint
 	ces	rozumný	adj-sint$adj	slk	rozumný	adj-sint
 	ces	růžový	adj	slk	růžový	adj
 	ces	samotný	adj$adj-sint	slk	samotný	adj
-	ces	skoupý	adj-sint$adj	slk	skoupý	adj
+	ces	skoupý	adj$adj-sint	slk	skoupý	adj
 	ces	skromný	adj	slk	skromný	adj
 	ces	stravitelný	adj	slk	stravitelný	adj
 	ces	surový	adj	slk	surový	adj
@@ -11279,14 +11279,14 @@ RL	ces	bláznivý	adj$adj-sint	slk	bláznivý	adj-sint
 	ces	banální	adj$adj-sint	slk	banální	adj
 	ces	bestiální	adj	slk	bestiální	adj
 	ces	brutální	adj$adj-sint	slk	brutální	adj
-	ces	efektní	adj-sint$adj	slk	efektní	adj
+	ces	efektní	adj$adj-sint	slk	efektní	adj
 	ces	efektivní	adj$adj-sint	slk	efektivní	adj
 	ces	exkluzivní	adj$adj-sint	slk	exkluzivní	adj
 	ces	extravagantní	adj	slk	extravagantní	adj
 	ces	evidentní	adj$adj-sint	slk	evidentní	adj
 	ces	fatální	adj$adj-sint	slk	fatální	adj
 	ces	frankofonní	adj	slk	frankofonní	adj
-	ces	impulzívní	adj-sint$adj	slk	impulzívní	adj
+	ces	impulzívní	adj$adj-sint	slk	impulzívní	adj
 	ces	inteligentní	adj$adj-sint	slk	inteligentní	adj
 	ces	intimní	adj$adj-sint	slk	intimní	adj
 	ces	invalidní	adj	slk	invalidní	adj
@@ -11294,8 +11294,8 @@ RL	ces	bláznivý	adj$adj-sint	slk	bláznivý	adj-sint
 	ces	naivní	adj$adj-sint	slk	naivní	adj
 	ces	normální	adj$adj-sint	slk	normální	adj
 	ces	pasivní	adj$adj-sint	slk	pasivní	adj
-	ces	pikantní	adj-sint$adj	slk	pikantní	adj
-	ces	proporcionální	adj-sint$adj	slk	proporcionální	adj
+	ces	pikantní	adj$adj-sint	slk	pikantní	adj
+	ces	proporcionální	adj$adj-sint	slk	proporcionální	adj
 	ces	radikální	adj$adj-sint	slk	radikální	adj
 	ces	solidní	adj$adj-sint	slk	solidní	adj
 	ces	stabilní	adj$adj-sint	slk	stabilní	adj
@@ -11337,7 +11337,7 @@ LR	ces	stále	adv	slk	stále	adv
 LR	ces	stále	adv	slk	stále	adv
 LR	ces	vpravo	adv$adv-sint	slk	vpravo	adv-sint
 	ces	vpravo	adv$adv-sint	slk	vpravo	adv-sint
-	ces	přibližně	adv$adv-sint	slk	přibližně	adv-sint
+	ces	přibližně	adv-sint$adv	slk	přibližně	adv-sint
 	ces	tak i onak	adv	slk	tak i onak	adv
 LR	ces	tak či onak	adv	slk	tak či onak	adv
 	ces	tak či onak	adv	slk	tak či onak	adv
@@ -11345,7 +11345,7 @@ RL	ces	tak nebo tak	adv	slk	tak nebo tak	adv
 	ces	především	adv	slk	především	adv
 	ces	dopoledne	adv	slk	dopoledne	adv
 	ces	odpoledne	adv	slk	odpoledne	adv
-	ces	temno	adv-sint$adv	slk	temno	adv
+	ces	temno	adv$adv-sint	slk	temno	adv
 	ces	dávno	adv$adv-sint	slk	dávno	adv
 	ces	hustě	adv-sint	slk	hustě	adv-sint
 	ces	aktuálně	adv$adv-sint	slk	aktuálně	adv-sint
@@ -11356,7 +11356,7 @@ LR	ces	trapně	adv$adv-sint	slk	trapně	adv-sint
 	ces	trapně	adv$adv-sint	slk	trapně	adv-sint
 	ces	těsně	adv-sint	slk	těsně	adv-sint
 RL	ces	líto	adv	slk	líto	adv
-	ces	dodatečně	adv$adv-sint	slk	dodatečně	adv-sint
+	ces	dodatečně	adv-sint$adv	slk	dodatečně	adv-sint
 	ces	důkladně	adv$adv-sint	slk	důkladně	adv
 	ces	jedině	adv-sint$adv	slk	jedině	adv-sint
 	ces	kulturně	adv-sint	slk	kulturně	adv-sint
@@ -11383,7 +11383,7 @@ LR	ces	občas	adv	slk	občas	adv
 LR	ces	napůl	adv	slk	napůl	adv
 	ces	plánovaně	adv$adv-sint	slk	plánovaně	adv-sint
 	ces	neodvratně	adv$adv-sint	slk	neodvratně	adv-sint
-	ces	obráceně	adv$adv-sint	slk	obráceně	adv-sint
+	ces	obráceně	adv-sint$adv	slk	obráceně	adv-sint
 	ces	vertikálně	adv$adv-sint	slk	vertikálně	adv$adv-sint
 	ces	podvědomě	adv$adv-sint	slk	podvědomě	adv-sint
 	ces	poněkud	adv	slk	poněkud	adv
@@ -11430,7 +11430,7 @@ LR	ces	napůl	adv	slk	napůl	adv
 	ces	telefonické	adv	slk	telefonické	adv
 	ces	mírnit	adv	slk	mírnit	adv
 	ces	vesele	adv	slk	vesele	adv
-	ces	věčně	adv$adv-sint	slk	věčně	adv-sint
+	ces	věčně	adv-sint$adv	slk	věčně	adv-sint
 	ces	excelentně	adv	slk	excelentně	adv
 	ces	vyčkávavě	adv	slk	vyčkávavě	adv
 	ces	vytrvale	adv	slk	vytrvale	adv
@@ -11451,11 +11451,11 @@ LR	ces	čiperně	adv	slk	čiperně	adv
 RL	ces	okamžitě	adv$adv-sint	slk	okamžitě	adv-sint$adv
 	ces	bravurně	adv$adv-sint	slk	bravurně	adv-sint
 	ces	centrálně	adv$adv-sint	slk	centrálně	adv-sint
-	ces	definitivně	adv$adv-sint	slk	definitivně	adv-sint
+	ces	definitivně	adv-sint$adv	slk	definitivně	adv-sint
 LR	ces	demonstrativně	adv$adv-sint	slk	demonstrativně	adv-sint$adv
 	ces	demonstrativně	adv$adv-sint	slk	demonstrativně	adv-sint$adv
 	ces	dobrovolně	adv$adv-sint	slk	dobrovolně	adv-sint
-	ces	evidentně	adv$adv-sint	slk	evidentně	adv-sint
+	ces	evidentně	adv-sint$adv	slk	evidentně	adv-sint
 	ces	horečně	adv$adv-sint	slk	horečně	adv-sint
 	ces	groteskně	adv$adv-sint	slk	groteskně	adv-sint
 	ces	hrozivě	adv	slk	hrozivě	adv
@@ -11469,7 +11469,7 @@ LR	ces	demonstrativně	adv$adv-sint	slk	demonstrativně	adv-sint$adv
 	ces	nečekaně	adv$adv-sint	slk	nečekaně	adv-sint
 	ces	oboustranně	adv$adv-sint	slk	oboustranně	adv-sint
 	ces	čekaně	adv$adv-sint	slk	čekaně	adv-sint
-	ces	odděleně	adv$adv-sint	slk	odděleně	adv-sint
+	ces	odděleně	adv-sint$adv	slk	odděleně	adv-sint
 LR	ces	okamžitě	adv$adv-sint	slk	okamžitě	adv-sint$adv
 	ces	okamžitě	adv$adv-sint	slk	okamžitě	adv-sint$adv
 LR	ces	omylně	adv-sint$adv	slk	omylně	adv-sint
@@ -11480,14 +11480,14 @@ LR	ces	omylně	adv-sint$adv	slk	omylně	adv-sint
 LR	ces	písemně	adv$adv-sint	slk	písemně	adv-sint
 	ces	demonstrativně	adv$adv-sint	slk	demonstrativně	adv-sint$adv
 	ces	předevčírem	adv	slk	předevčírem	adv
-	ces	relativně	adv$adv-sint	slk	relativně	adv-sint
+	ces	relativně	adv-sint$adv	slk	relativně	adv-sint
 LR	ces	obřadně	adv-sint$adv	slk	obřadně	adv-sint
 	ces	obřadně	adv-sint$adv	slk	obřadně	adv-sint
 	ces	samovolně	adv$adv-sint	slk	samovolně	adv$adv-sint
 	ces	standardně	adv$adv-sint	slk	standardně	adv-sint
 	ces	slepě	adv$adv-sint	slk	slepě	adv-sint
 	ces	vítězoslavně	adv$adv-sint	slk	vítězoslavně	adv-sint
-	ces	ustavičně	adv$adv-sint	slk	ustavičně	adv-sint
+	ces	ustavičně	adv-sint$adv	slk	ustavičně	adv-sint
 	ces	dálkově	adv$adv-sint	slk	dálkově	adv-sint
 LR	ces	dálkově	adv$adv-sint	slk	dálkově	adv-sint
 	ces	zlověstně	adv$adv-sint	slk	zlověstně	adv-sint
@@ -11528,7 +11528,7 @@ RL	ces	velice	adv$adv-sint	slk	velice	adv
 	ces	hodně	adv$adv-sint$adv-sint-comp	slk	hodně	adv-sint$adv$adv-sint-comp
 	ces	hodně	adv-sint-sup	slk	hodně	adv-sint-sup
 	ces	hodně	adv$adv-sint$adv-sint-comp	slk	hodně	adv-sint$adv$adv-sint-comp
-	ces	vysoko	adv-sint$adv	slk	vysoko	adv$adv-sint
+	ces	vysoko	adv$adv-sint	slk	vysoko	adv$adv-sint
 LR	ces	hodně	adv$adv-sint$adv-sint-comp	slk	hodně	adv-sint$adv$adv-sint-comp
 	ces	podle	adv-sint	slk	podle	adv-sint
 	ces	trochu	adv	slk	trochu	adv
@@ -11543,9 +11543,9 @@ LR	ces	také	adv	slk	také	adv
 RL	ces	dokonce	adv	slk	dokonce	adv
 	ces	byť	adv	slk	byť	adv
 	ces	jenom	adv	slk	jenom	adv
-	ces	šťastně	adv-sint$adv	slk	šťastně	adv
+	ces	šťastně	adv$adv-sint	slk	šťastně	adv
 	ces	sladký	adv	slk	sladký	adv
-	ces	ráno	adv-sint$adv	slk	ráno	adv
+	ces	ráno	adv$adv-sint	slk	ráno	adv
 LR	ces	dohromady	adv	slk	dohromady	adv
 	ces	celkem	adv	slk	celkem	adv
 	ces	dohromady	adv	slk	dohromady	adv
@@ -11559,9 +11559,9 @@ LR	ces	hned	adv	slk	hned	adv
 LR	ces	hned	adv	slk	hned	adv
 LR	ces	dnes	adv	slk	dnes	adv
 LR	ces	tady	adv	slk	tady	adv
-	ces	obvykle	adv-sint$adv	slk	obvykle	adv
+	ces	obvykle	adv$adv-sint	slk	obvykle	adv
 	ces	marně	adv$adv-sint	slk	marně	adv-sint
-	ces	blízko	adv-sint$adv	slk	blízko	adv
+	ces	blízko	adv$adv-sint	slk	blízko	adv
 	ces	pohromadě	adv	slk	pohromadě	adv
 	ces	cíleně	adv$adv-sint	slk	cíleně	adv-sint
 	ces	cílevědomě	adv-sint	slk	cílevědomě	adv-sint
@@ -11604,8 +11604,8 @@ LR	ces	právě	adv	slk	právě	adv
 	ces	otevřeně	adv-sint	slk	otevřeně	adv-sint
 LR	ces	otevřeně	adv-sint	slk	otevřeně	adv-sint
 	ces	pětkrát	adv	slk	pětkrát	adv
-RL	ces	obdobně	adv$adv-sint	slk	obdobně	adv-sint
-	ces	podobně	adv$adv-sint	slk	podobně	adv-sint
+RL	ces	obdobně	adv-sint$adv	slk	obdobně	adv-sint
+	ces	podobně	adv-sint$adv	slk	podobně	adv-sint
 	ces	pomalu	adv	slk	pomalu	adv
 	ces	zvolna	adv	slk	zvolna	adv
 	ces	převážně	adv$adv-sint	slk	převážně	adv-sint
@@ -11617,9 +11617,9 @@ RL	ces	obdobně	adv$adv-sint	slk	obdobně	adv-sint
 	ces	ježto	adv	slk	ježto	adv
 	ces	účinně	adv-sint	slk	účinně	adv-sint
 	ces	pečlivě	adv-sint	slk	pečlivě	adv-sint
-	ces	postupně	adv$adv-sint	slk	postupně	adv-sint
+	ces	postupně	adv-sint$adv	slk	postupně	adv-sint
 	ces	super	adv	slk	super	adv
-	ces	obzvlášť	adv-sint$adv	slk	obzvlášť	adv
+	ces	obzvlášť	adv$adv-sint	slk	obzvlášť	adv
 	ces	detailně	adv-sint	slk	detailně	adv-sint
 	ces	podrobně	adv-sint	slk	podrobně	adv-sint
 	ces	uměle	adv	slk	uměle	adv
@@ -11644,8 +11644,8 @@ RL	ces	zrovna	adv	slk	zrovna	adv
 	ces	chtěně	adv-sint	slk	chtěně	adv-sint
 	ces	vždy	adv	slk	vždy	adv
 	ces	značně	adv-sint	slk	značně	adv-sint
-	ces	významně	adv$adv-sint	slk	významně	adv-sint
-RL	ces	znatelně	adv$adv-sint	slk	znatelně	adv-sint
+	ces	významně	adv-sint$adv	slk	významně	adv-sint
+RL	ces	znatelně	adv-sint$adv	slk	znatelně	adv-sint
 	ces	odnikud	adv	slk	odnikud	adv
 	ces	zhruba	adv	slk	zhruba	adv
 	ces	opět	adv	slk	opět	adv
@@ -11692,7 +11692,7 @@ RL	ces	ovšemže	adv	slk	ovšemže	adv
 	ces	samozřejmě	adv	slk	samozřejmě	adv
 LR	ces	samozřejmě	adv	slk	samozřejmě	adv
 RL	ces	přímo	adv$adv-sint	slk	přímo	adv-sint
-	ces	bezprostředně	adv$adv-sint	slk	bezprostředně	adv-sint
+	ces	bezprostředně	adv-sint$adv	slk	bezprostředně	adv-sint
 	ces	spíše	adv	slk	spíše	adv
 	ces	vlastně	adv	slk	vlastně	adv
 	ces	vůbec	adv	slk	vůbec	adv
@@ -11766,7 +11766,7 @@ RL	ces	projít	vblex-perf	slk	presť	vblex-perf
 	ces	zjednodušit	vblex-perf	slk	zjednodušiť	vblex-perf
 	ces	dojít	vblex-perf$vblex	slk	dôjsť	vblex$vblex-perf
 	ces	nadejít	vblex-perf	slk	nadísť	vblex-perf
-	ces	přinést	vblex-perf$vblex	slk	priniesť	vblex-perf
+	ces	přinést	vblex-perf	slk	priniesť	vblex-perf
 	ces	zajišťovat	vblex-imperf	slk	zaisťovať	vblex-imperf
 	ces	zajistit	vblex-perf	slk	zaistiť	vblex-perf
 	ces	ztratit	vblex-perf	slk	ztratiť	vblex-perf
@@ -11906,7 +11906,7 @@ RL	ces	vypálit	vblex	slk	vypáliť	vblex
 	ces	přijmout	vblex	slk	prijať	vblex
 	ces	zrcadlit	vblex	slk	zrkadliť	vblex
 	ces	odemknout	vblex	slk	odomknúť	vblex
-	ces	konat	vblex$vblex-impf	slk	konať	vblex
+	ces	konat	vblex-impf$vblex	slk	konať	vblex
 	ces	odlehčit	vblex	slk	odľahčiť	vblex
 	ces	odřezávat	vblex	slk	odrezávať	vblex
 	ces	odtrhávat	vblex	slk	odtrhávať	vblex
@@ -12217,7 +12217,7 @@ LR	ces	vydávat	vblex$vblex-impf	slk	vydávať	vblex
 	ces	utkat	vblex-perf	slk	utkať	vblex-imperf
 	ces	vydláždit	vblex	slk	vydláždiť	vblex
 	ces	ztotožnovat	vblex	slk	ztotožnovať	vblex
-	ces	pokládat	vblex$vblex-impf	slk	pokladať	vblex
+	ces	pokládat	vblex-impf$vblex	slk	pokladať	vblex
 	ces	zvěčňovat	vblex	slk	zvečňovať	vblex
 	ces	uznát	vblex	slk	uznať	vblex
 	ces	vábit	vblex	slk	vábiť	vblex
@@ -12755,7 +12755,7 @@ LR	ces	expandovat	vblex-imperf$vblex	slk	expandovať	vblex-imperf$vblex
 	ces	diskreditovat	vblex$vblex-imperf	slk	diskreditovať	vblex$vblex-imperf
 	ces	disponovat	vblex$vblex-imperf	slk	disponovať	vblex$vblex-imperf
 	ces	děkovat	vblex-imperf$vblex	slk	ďakovať	vblex$vblex-imperf
-	ces	existovat	vblex$vblex-imperf	slk	existovať	vblex$vblex-imperf
+	ces	existovat	vblex-imperf	slk	existovať	vblex$vblex-imperf
 	ces	experimentovat	vblex$vblex-imperf	slk	experimentovať	vblex$vblex-imperf
 	ces	explodovat	vblex$vblex-imperf	slk	explodovať	vblex$vblex-imperf
 	ces	exportovat	vblex-imperf	slk	exportovať	vblex-imperf
@@ -12849,7 +12849,7 @@ LR	ces	postupovat	vblex-imperf	slk	postupovať	vblex-imperf
 	ces	deaktivovat	vblex	slk	deaktivovať	vblex
 	ces	deklasovat	vblex$vblex-imperf	slk	deklasovať	vblex$vblex-imperf
 	ces	děkovat	vblex-imperf$vblex	slk	ďakovať	vblex$vblex-imperf
-	ces	dělat	vblex$vblex-impf	slk	robiť	vblex$vblex-imperf
+	ces	dělat	vblex-impf$vblex	slk	robiť	vblex$vblex-imperf
 	ces	dělit	vblex	slk	deliť	vblex
 	ces	demaskovat	vblex$vblex-imperf	slk	demaskovať	vblex$vblex-imperf
 	ces	deportovat	vblex$vblex-imperf	slk	deportovať	vblex$vblex-imperf
@@ -12870,7 +12870,7 @@ LR	ces	postupovat	vblex-imperf	slk	postupovať	vblex-imperf
 	ces	dotovat	vblex$vblex-imperf	slk	dotovať	vblex$vblex-imperf
 	ces	dovézt	vblex	slk	doviezť	vblex
 	ces	evidovat	vblex	slk	evidovať	vblex
-	ces	existovat	vblex$vblex-imperf	slk	existovať	vblex$vblex-imperf
+	ces	existovat	vblex$vblex-impf	slk	existovať	vblex$vblex-imperf
 	ces	expandovat	vblex-imperf$vblex	slk	expandovať	vblex-imperf$vblex
 	ces	experimentovat	vblex$vblex-imperf	slk	experimentovať	vblex$vblex-imperf
 	ces	explodovat	vblex$vblex-imperf	slk	explodovať	vblex$vblex-imperf
@@ -12953,7 +12953,7 @@ LR	ces	postupovat	vblex-imperf	slk	postupovať	vblex-imperf
 	ces	česat	vblex	slk	česať	vblex
 	ces	kupovat	vblex$vblex-impf	slk	kupovať	vblex
 	ces	prosit	vblex$vblex-imperf	slk	prosiť	vblex
-	ces	volat	vblex$vblex-impf	slk	volať	vblex$vblex-imperf
+	ces	volat	vblex-impf$vblex	slk	volať	vblex$vblex-imperf
 	ces	přijít	vblex-perf	slk	prísť	vblex-perf
 	ces	povinen	vaux	slk	povinný	vaux
 	ces	moci	vaux-imperf$vaux-imperf-tv	slk	môcť	vaux-imperf
@@ -12962,11 +12962,11 @@ LR	ces	postupovat	vblex-imperf	slk	postupovať	vblex-imperf
 	ces	možna	vaux	slk	možno	vaux
 RL	ces	lze	vaux	slk	možno	vaux
 	ces	číst	vblex$vblex-imperf	slk	čítať	vblex-imperf$vblex
-	ces	vědět	vblex-imperf$vblex$vblex-imperf-tv	slk	vedieť	vblex-imperf
-	ces	chtít	vblex$vblex-imperf	slk	chcieť	vblex$vblex-imperf
+	ces	vědět	vblex-imperf$vblex-imperf-tv	slk	vedieť	vblex-imperf
+	ces	chtít	vblex-imperf	slk	chcieť	vblex$vblex-imperf
 	ces	jíst	vblex-imperf	slk	jesť	vblex-imperf
 	ces	pít	vblex-imperf	slk	piť	vblex-imperf
-	ces	bít	vblex$vblex-impf	slk	biť	vblex
+	ces	bít	vblex-impf$vblex	slk	biť	vblex
 	ces	šít	vblex$vblex-imperf	slk	šiť	vblex
 	ces	sít	vblex$vblex-imperf	slk	siať	vblex
 	ces	brát	vblex$vblex-imperf	slk	brať	vblex$vblex-imperf
@@ -12992,7 +12992,7 @@ LR	ces	doplnit	vblex$vblex-perf	slk	doplnit	vblex-perf
 	ces	jít	vblex-imperf$vblex-imperf-fti$vblex-imperf-fti-imp	slk	ísť	vblex-imperf
 	ces	jít	vblex-imperf$vblex-imperf-fti$vblex-imperf-fti-imp	slk	ísť	vblex-imperf
 	ces	napsat	vblex-perf$vblex$vblex-perf-pres	slk	napísať	vblex$vblex-perf
-	ces	chtít	vblex$vblex-imperf	slk	chcieť	vblex$vblex-imperf
+	ces	chtít	vblex$vblex-impf	slk	chcieť	vblex$vblex-imperf
 	ces	chrápat	vblex	slk	chrápať	vblex
 	ces	chránit	vblex	slk	chrániť	vblex
 	ces	přestoupit	vblex$vblex-perf	slk	prestúpiť	vblex

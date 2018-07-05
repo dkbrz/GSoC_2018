@@ -483,11 +483,11 @@ LR	por	abranger	vblex	cat	comprendre	vblex
 	por	absorver	vblex	cat	absorbir	vblex
 	por	abstenção	n$n-f$n-f-ND	cat	abstenció	n-f$n
 	por	abster	vblex	cat	abstenir	vblex$vblex-pron
-	por	abstracção	n$n-f	cat	abstracció	n-f$n
-LR	por	abstração	n$n-f	cat	abstracció	n-f$n
+	por	abstracção	n$n-f	cat	abstracció	n-f
+LR	por	abstração	n$n-f	cat	abstracció	n-f
 	por	absurdo	adj	cat	absurd	adj$
 	por	abundante	adj$adj-mf	cat	abundant	adj$adj-mf$
-	por	abundância	n$n-f	cat	abundància	n$n-f
+	por	abundância	n$n-f	cat	abundància	n-f$n
 	por	abusar	vblex	cat	abusar	vblex
 	por	abuso	n$n-m$n-m-ND	cat	abús	n-m$n
 LR	por	abóbada	n$n-f	cat	volta	n-f$n
@@ -506,7 +506,7 @@ LR	por	acaso	adv	cat	per ventura	adv
 	por	accionista	n$n-mf-ND	cat	accionista	n-mf$n
 	por	aceder	vblex	cat	accedir	vblex
 	por	aceitar	vblex	cat	acceptar	vblex
-	por	aceitação	n	cat	acceptació	n$n-f
+	por	aceitação	n	cat	acceptació	n-f$n
 	por	aceitável	adj	cat	acceptable	adj$adj-mf$
 	por	acelerar	vblex	cat	accelerar	vblex
 	por	aceleração	n	cat	acceleració	n-f$n
@@ -555,7 +555,7 @@ LR	por	activamente	adv	cat	activament	adv
 	por	activamente	adv	cat	activament	adv
 	por	activar	vblex	cat	activar	vblex
 	por	activação	n	cat	activació	n-f$n
-	por	actividade	n$n-f-ND	cat	activitat	n$n-f$n-f-ND
+	por	actividade	n$n-f-ND	cat	activitat	n-f$n$n-f-ND
 	por	activo	adj$adj-GD-ND	cat	actiu	adj$
 	por	acto	n$n-m$n-m-ND	cat	acte	n-m$n$n-m-sg
 	por	actor	n	cat	actor	n-m$n
@@ -563,7 +563,7 @@ LR	por	activamente	adv	cat	activament	adv
 	por	actual	adj$adj-mf-ND	cat	actual	adj$adj-mf$
 	por	actualidade	n	cat	actualitat	n-f$n$n-f-ND
 	por	actualizar	vblex	cat	actualitzar	vblex
-	por	actualização	n	cat	actualització	n$n-f
+	por	actualização	n	cat	actualització	n-f$n
 	por	actualmente	adv	cat	actualment	adv
 RL	por	actualmente	adv	cat	ara per ara	adv
 	por	em troca	adv	cat	a canvi	adv
@@ -573,7 +573,7 @@ RL	por	actualmente	adv	cat	ara per ara	adv
 	por	actuação	n$n-f-ND	cat	actuació	n-f$n$n-f-pl
 	por	acumular	vblex	cat	acumular	vblex
 	por	acusar	vblex	cat	acusar	vblex
-	por	acusação	n	cat	acusació	n$n-f
+	por	acusação	n	cat	acusació	n-f$n
 	por	acção	n$n-f-ND	cat	acció	n-f$n
 	por	acústicamente	adv	cat	acústicament	adv
 	por	adaptar	vblex	cat	adaptar	vblex$vblex-pron
@@ -584,7 +584,7 @@ RL	por	adentro	adv	cat	a dins	adv
 	por	adentro	adv	cat	endins	adv
 	por	adequadamente	adv	cat	adequadament	adv
 	por	aderir	vblex	cat	adherir	vblex$vblex-pron
-	por	adesão	n$n-f	cat	adhesió	n$n-f
+	por	adesão	n$n-f	cat	adhesió	n-f$n
 	por	adeus	ij	cat	adéu	ij
 	por	adiamento	n	cat	ajornament	n-m$n
 	por	adiantar	vblex	cat	avançar	vblex
@@ -611,16 +611,16 @@ LR	por	adjetivo	n	cat	adjectiu	n$n-m
 	por	administrativo	n	cat	administratiu	n$n-m
 	por	administração	n$n-f-ND	cat	administració	n-f$n
 	por	admirar	vblex	cat	admirar	vblex
-	por	admiração	n	cat	admiració	n$n-f
+	por	admiração	n	cat	admiració	n-f$n
 	por	admitir	vblex	cat	admetre	vblex
 	por	adolescente	n	cat	adolescent	n-mf$n
 	por	adoptar	vblex	cat	adoptar	vblex
 	por	adoptivo	adj	cat	adoptiu	adj$
-	por	adopção	n	cat	adopció	n$n-f
+	por	adopção	n	cat	adopció	n-f$n
 	por	adorar	vblex	cat	adorar	vblex
 LR	por	adotar	vblex	cat	adoptar	vblex
 LR	por	adotivo	adj	cat	adoptiu	adj$
-LR	por	adoção	n	cat	adopció	n$n-f
+LR	por	adoção	n	cat	adopció	n-f$n
 	por	adquirir	vblex	cat	adquirir	vblex
 	por	adulterar	vblex	cat	adulterar	vblex
 	por	adulto	n	cat	adult	n$$n-m
@@ -628,7 +628,7 @@ LR	por	adoção	n	cat	adopció	n$n-f
 	por	adversário	n	cat	adversari	n$n-f
 	por	adversário	adj	cat	adversari	adj
 	por	advertir	vblex	cat	advertir	vblex
-RL	por	advertência	n$n-f	cat	amonestació	n$n-f
+RL	por	advertência	n$n-f	cat	amonestació	n-f$n
 RL	por	advertência	n$n-f	cat	advertència	n-f$n
 	por	advertência	n$n-f	cat	advertiment	n-m$n
 	por	advogado	n$n-m$n-m-ND	cat	advocat	n$n-m
@@ -643,7 +643,7 @@ RL	por	afiar	vblex	cat	esmolar	vblex
 	por	aficionado	adj	cat	afeccionat	adj
 LR	por	afinal	adv	cat	finalment	adv
 	por	afirmar	vblex	cat	afirmar	vblex
-	por	afirmação	n$n-f-ND	cat	afirmació	n$n-f
+	por	afirmação	n$n-f-ND	cat	afirmació	n-f$n
 	por	afligir	vblex	cat	afligir	vblex
 	por	afogar	vblex	cat	ofegar	vblex$vblex-pron
 RL	por	afora	adv	cat	a fora	adv
@@ -685,7 +685,7 @@ LR	por	aguardar	vblex	cat	esperar	vblex
 	por	agudo	adj	cat	agut	adj$$adj-sup
 	por	aguentar	vblex	cat	aguantar	vblex
 	por	agulha	n$n-f	cat	agulla	n-f$n$n-f-sg
-	por	agência	n$n-f-ND	cat	agència	n$n-f
+	por	agência	n$n-f-ND	cat	agència	n-f$n
 LR	por	agüentar	vblex	cat	aguantar	vblex
 	por	ah	ij	cat	ah	ij
 LR	por	ainda	adv	cat	encara	adv
@@ -779,16 +779,16 @@ LR	por	ambas as	prn$prn-tn	cat	ambdues	prn$prn-tn-f$prn-tn-f-pl
 	por	ambicioso	adj	cat	ambiciós	adj$$adj-sup
 	por	ambiental	adj$adj-mf-ND	cat	ambiental	adj$adj-mf$
 	por	ambiente	n$n-m$n-m-ND	cat	ambient	n-m$n$
-	por	ambição	n	cat	ambició	n$n-f
+	por	ambição	n	cat	ambició	n-f$n
 	por	ambos	prn$prn-tn	cat	ambdós	prn$prn-tn-m$prn-tn-m-pl$prn-tn
 LR	por	ambos os	prn$prn-tn	cat	ambdós	prn$prn-tn-m$prn-tn-m-pl$prn-tn
-	por	ameaça	n	cat	amenaça	n$n-f
+	por	ameaça	n	cat	amenaça	n-f$n
 	por	ameaçar	vblex	cat	amenaçar	vblex
 	por	americano	adj$adj-GD-ND	cat	americà	adj$
 	por	americano	n$n-m	cat	americà	n$n-f
 	por	amigo	n	cat	amic	n$n-m
 	por	amistoso	adj	cat	amistós	adj$
-	por	amizade	n$n-f-ND	cat	amistat	n$n-f
+	por	amizade	n$n-f-ND	cat	amistat	n-f$n
 	por	amo	n$n-m	cat	amo	n-m$n
 	por	amo	n-f	cat	mestressa	n-f$n
 	por	amor	n	cat	amor	n-m$n
@@ -813,12 +813,12 @@ LR	por	andamento	n-m	cat	marxa	n-f$n
 	por	anfitrião	n	cat	amfitrió	n$n-m
 	por	anfitrião	adj	cat	amfitrió	adj
 	por	angustiar	vblex	cat	angoixar	vblex
-	por	angústia	n	cat	angoixa	n$n-f
+	por	angústia	n	cat	angoixa	n-f$n
 LR	por	anho	n$n-m	cat	be	n-m$n
 	por	animal	n$n-m-ND$n-m	cat	animal	n-m$n$
 	por	animar	vblex	cat	animar	vblex
 RL	por	animar	vblex	cat	engrescar	vblex
-	por	animação	n	cat	animació	n$n-f
+	por	animação	n	cat	animació	n-f$n
 RL	por	aniversário	n-m$n-m-ND$n	cat	natalici	n-m-pl$n$n-m
 RL	por	aniversário	n-m$n-m-ND$n	cat	natalici	n-m-sg
 	por	aniversário	n-m$n-m-ND$n	cat	aniversari	n-m$n$n-m-ND
@@ -894,25 +894,25 @@ LR	por	apenas	adv	cat	només	adv
 	por	apertar	vblex	cat	estrènyer	vblex
 RL	por	apetecer	vblex	cat	abellir	vblex
 	por	apetecer	vblex	cat	apetir	vblex
-	por	apito	n$n-m	cat	xiulada	n-f$n
+	por	apito	n$n-m	cat	xiulada	n-f
 	por	aplaudir	vblex	cat	aplaudir	vblex
 	por	aplauso	n	cat	aplaudiment	n-m$n$n-m-pl
 	por	aplicar	vblex	cat	aplicar	vblex
-	por	aplicação	n	cat	aplicació	n$n-f
+	por	aplicação	n	cat	aplicació	n-f$n
 	por	apoderar	vblex	cat	apoderar	vblex
 	por	apoiar	vblex	cat	recolzar	vblex
 	por	apoio	n$n-m-ND	cat	suport	n-m$n
 	por	apontar	vblex	cat	apuntar	vblex
-LR	por	aposentadoria	n	cat	jubilació	n$n-f
+LR	por	aposentadoria	n	cat	jubilació	n-f$n
 	por	aposentar	vblex	cat	jubilar	vblex$
-	por	aposentação	n	cat	jubilació	n$n-f
+	por	aposentação	n	cat	jubilació	n-f$n
 	por	apostar	vblex	cat	apostar	vblex
 	por	apreciar	vblex	cat	apreciar	vblex
 LR	por	apreender	vblex	cat	confiscar	vblex
 	por	aprender	vblex	cat	aprendre	vblex
 	por	aprendizagem	n-f$n$n-f-ND	cat	aprenentatge	n-m$n
 	por	apresentar	vblex	cat	presentar	vblex
-	por	apresentação	n$n-f-ND	cat	presentació	n$n-f
+	por	apresentação	n$n-f-ND	cat	presentació	n-f$n
 RL	por	apressar	vblex	cat	apurar	vblex
 	por	apressar	vblex	cat	apressar	vblex$vblex-pron
 	por	apresurar	vblex	cat	apresurar	vblex
@@ -955,7 +955,7 @@ RL	por	areia	n$n-f-ND$n-f	cat	arena	n-f$n
 	por	argentino	n	cat	argentí	n$n-m
 	por	argumentar	vblex	cat	argumentar	vblex
 	por	argumento	n	cat	argument	n-m$n
-	por	arma	n	cat	arma	n$n-f$n-f-pl
+	por	arma	n	cat	arma	n-f$n$n-f-pl
 	por	armadilha	n-f$n	cat	parany	n-m$n
 RL	por	armadilha	n-f$n	cat	trampa	n-f$n
 	por	armadura	n$n-f	cat	armadura	n-f$n
@@ -971,7 +971,7 @@ RL	por	armadilha	n-f$n	cat	trampa	n-f$n
 LR	por	arquitecto	n-m-pl	cat	arquitecte	n-mf-pl$n
 LR	por	arquitecto	n-f-pl	cat	arquitecte	n-mf-pl$n
 RL	por	arquitecto	n-GD-pl	cat	arquitecte	n-mf-pl$n
-	por	arquitectura	n	cat	arquitectura	n$n-f
+	por	arquitectura	n	cat	arquitectura	n-f$n
 LR	por	arquiteto	n$n-m-sg	cat	arquitecte	n-m-sg
 LR	por	arquiteto	n-f-sg	cat	arquitecte	n-f-sg
 LR	por	arquiteto	n-m-pl	cat	arquitecte	n-mf-pl$n
@@ -988,7 +988,7 @@ RL	por	arrancar	vblex	cat	arrancar	vblex
 	por	arrebatar	vblex	cat	arravassar	vblex
 	por	arrebato	n	cat	arravatament	n-m$n
 	por	arrecadar	vblex	cat	recaptar	vblex
-	por	arrecadação	n	cat	recaptació	n$n-f
+	por	arrecadação	n	cat	recaptació	n-f$n
 LR	por	arredor	adv	cat	al voltant	adv
 LR	por	arreglar	vblex	cat	arreglar	vblex$vblex-pron
 	por	arrematar	vblex	cat	rematar	vblex
@@ -1036,7 +1036,7 @@ LR	por	as vezes	adv	cat	de vegades	adv
 	por	asociar	vblex	cat	asociar	vblex
 	por	aspecto	n$n-m$n-m-ND	cat	aspecte	n-m$n
 	por	aspirar	vblex	cat	aspirar	vblex
-	por	aspiração	n	cat	aspiració	n$n-f
+	por	aspiração	n	cat	aspiració	n-f$n
 	por	assalto	n$n-m-ND	cat	assalt	n-m$n
 RL	por	assalto	n$n-m-ND	cat	atracament	n-m$n
 	por	assassinato	n	cat	assassinat	n-m$n
@@ -1059,7 +1059,7 @@ RL	por	assinatura	n$n-f$n-f-ND	cat	subscripció	n-f$n
 	por	associação	n$n-f-ND	cat	associació	n-f$n
 LR	por	assomar	vblex	cat	apuntar	vblex
 LR	por	assombrar	vblex	cat	sorprendre	vblex
-LR	por	assombro	n$n-m	cat	sorpresa	n-f$n
+LR	por	assombro	n$n-m	cat	sorpresa	n-f
 LR	por	assombrosamente	adv	cat	sorprenentment	adv
 RL	por	assunto	n$n-m-ND	cat	afer	n-m$n
 	por	assunto	n$n-m-ND	cat	assumpte	n-m$n
@@ -1082,20 +1082,20 @@ LR	por	ata	n$n-f	cat	acta	n$n-f
 	por	atar	vblex	cat	lligar	vblex
 	por	atenciosamente	adv	cat	atentament	adv
 	por	atender	vblex	cat	atendre	vblex$vblex-ger
-LR	por	atendimento	n-m$n-m-ND	cat	atenció	n$n-f
+LR	por	atendimento	n-m$n-m-ND	cat	atenció	n-f$n
 	por	atentado	n	cat	atemptat	n-m$n
 LR	por	atentamente	adv	cat	atentament	adv
 	por	atentar	vblex	cat	atemptar	vblex
 	por	atento	adj	cat	atent	adj$
-	por	atenção	n$n-f-ND	cat	atenció	n$n-f
+	por	atenção	n$n-f-ND	cat	atenció	n-f$n
 	por	ateo	n	cat	ateo	n
 	por	aterrizar	vblex	cat	aterrar	vblex
 LR	por	atingir	vblex	cat	aconseguir	vblex
 	por	atirar	vblex	cat	llençar	vblex
-	por	atitude	n	cat	actitud	n$n-f
+	por	atitude	n	cat	actitud	n-f$n
 LR	por	ativamente	adv	cat	activament	adv
 LR	por	ativar	vblex	cat	activar	vblex
-LR	por	atividade	n	cat	activitat	n$n-f$n-f-ND
+LR	por	atividade	n	cat	activitat	n-f$n$n-f-ND
 LR	por	ativo	adj	cat	actiu	adj$
 	por	atleta	n$n-mf-ND	cat	atleta	n-mf$n
 	por	atletismo	n$n-m-ND	cat	atletisme	n-m$n$n-m-sg
@@ -1119,7 +1119,7 @@ RL	por	atraso	n	cat	endarreriment	n$n-m
 LR	por	atrativo	n	cat	atractiu	n-m$n
 	por	atravessar	vblex	cat	travessar	vblex
 	por	através	adv	cat	a través	adv
-	por	atração	n$n-f	cat	atracció	n$n-f
+	por	atração	n$n-f	cat	atracció	n-f$n
 	por	atrever	vblex	cat	atrevir	vblex$vblex-pron
 	por	atribuir	vblex	cat	atribuir	vblex
 RL	por	atribuir	vblex	cat	assignar	vblex
@@ -1133,7 +1133,7 @@ RL	por	atrás	adv	cat	arrere	adv
 RL	por	atrás	adv	cat	enrere	adv
 LR	por	atual	adj	cat	actual	adj$adj-mf$
 LR	por	atualidade	n	cat	actualitat	n-f$n$n-f-ND
-LR	por	atualização	n$n-f-ND	cat	actualització	n$n-f
+LR	por	atualização	n$n-f-ND	cat	actualització	n-f$n
 LR	por	atualmente	adv	cat	actualment	adv
 LR	por	atuação	n	cat	actuació	n-f$n$n-f-pl
 RL	por	até	pr	cat	fins	pr
@@ -1157,7 +1157,7 @@ RL	por	audaz	adj-mf-pl$adj	cat	audaç	adj-m-pl
 	por	australiano	adj$adj-GD-ND	cat	australià	adj$
 	por	austríaco	adj	cat	austríac	adj$
 	por	austríaco	n	cat	austríac	n$n-m
-	por	ausência	n$n-f	cat	absència	n$n-f
+	por	ausência	n$n-f	cat	absència	n-f$n
 	por	autenticamente	adv	cat	autènticament	adv
 LR	por	auto	n-m-pl	cat	actuació	n-f$n$n-f-pl
 LR	por	auto	n$n-m-sg	cat	acte	n-m$n$n-m-sg
@@ -1242,10 +1242,10 @@ RL	por	bando	n	cat	ban	n-m$n
 	por	bar	n$n-m	cat	bar	n-m$n$n-m-sg
 	por	baralhar	vblex	cat	remenar	vblex
 	por	barato	adj	cat	barat	adj$adj-GD-ND$
-	por	barba	n$n-f	cat	barba	n$n-f
+	por	barba	n$n-f	cat	barba	n-f$n
 	por	barbear	vblex	cat	afaitar	vblex
 	por	barca	n$n-f	cat	barca	n-f$n
-	por	barco	n$n-m-ND	cat	vaixell	n$n-m
+	por	barco	n$n-m-ND	cat	vaixell	n-m$n
 	por	barra	n$n-f	cat	barra	n-f$n
 	por	barranco	n	cat	barranc	n-m$n
 	por	barreira	n$n-f	cat	barrera	n$n-f
@@ -1282,7 +1282,7 @@ LR	por	batizar	vblex	cat	batejar	vblex
 LR	por	bebê	n	cat	bebé	n$n-m
 	por	beijo	n	cat	petó	n$n-m
 LR	por	beisebol	n$n-m	cat	beisbol	n$n-m$n-m-sg
-	por	beleza	n$n-f	cat	bellesa	n$n-f
+	por	beleza	n$n-f	cat	bellesa	n-f$n
 	por	belo	adj$adj-GD-ND	cat	bell	adj$
 	por	bem	n$n-m-ND	cat	bé	n$n-m
 	por	bem	adv	cat	bé	adv
@@ -1297,11 +1297,11 @@ LR	por	beisebol	n$n-m	cat	beisbol	n$n-m$n-m-sg
 	por	berço	n$n-m	cat	bressol	n-m$n
 RL	por	berço	n$n-m	cat	moll	n-m$n$
 	por	besta	n	cat	bèstia	n-f$n
-	por	biblioteca	n$n-f-ND	cat	biblioteca	n$n-f
+	por	biblioteca	n$n-f-ND	cat	biblioteca	n-f$n
 	por	bibliotecário	n	cat	bibliotecari	n$n-m
 RL	por	bicha	n$n-f	cat	cua	n-f$n
 	por	bicha	n$n-f	cat	fila	n-f$n
-	por	bicho	n$n-m	cat	bestiola	n-f$n
+	por	bicho	n$n-m	cat	bestiola	n-f
 	por	bico	n$n-m	cat	bec	n$n-m
 RL	por	bico	n$n-m	cat	broc	n-m$n
 	por	bilateral	adj$adj-mf-ND	cat	bilateral	adj$adj-mf$
@@ -1318,7 +1318,7 @@ RL	por	bico	n$n-m	cat	broc	n-m$n
 	por	boamente	adv	cat	bonament	adv
 LR	por	boato	n-m$n	cat	remor	n-f$n
 LR	por	bobagem	n	cat	ximpleria	n$n-f
-	por	boca	n$n-f-ND	cat	boca	n$n-f
+	por	boca	n$n-f-ND	cat	boca	n-f$n
 	por	bochecha	n	cat	galta	n-f$n
 	por	boicote	n$n-m	cat	boicot	n-m$n
 	por	bola	n-f$n	cat	baló	n-m$n
@@ -1387,9 +1387,9 @@ LR	por	buscar	vblex	cat	buscar	vblex
 	por	básico	adj$adj-GD-ND	cat	bàsic	adj$
 	por	bê	n-m$n	cat	be	n-f
 	por	bêbado	n	cat	borratxo	n$$n-m
-	por	bênção	n$n-f	cat	benedicció	n$n-f
+	por	bênção	n$n-f	cat	benedicció	n-f$n
 	por	bíblico	adj	cat	bíblic	adj$
-	por	bússola	n	cat	brúixola	n$n-f
+	por	bússola	n	cat	brúixola	n-f$n
 	por	c	n$n-m	cat	c	n$n-f
 LR	por	cabalmente	adv	cat	totalment	adv
 	por	cabeceira	n$n-f	cat	capçalera	n-f$n$n-f-sg
@@ -1417,7 +1417,7 @@ RL	por	cadeirão	n-m$n	cat	cadira de braços	n-f
 	por	cair	vblex	cat	caure	vblex
 	por	caixa	n-m	cat	caixer	n$n-m
 RL	por	caixa	n-f$n	cat	caixer	n-f
-	por	caixa	n-f$n	cat	caixa	n$n-f
+	por	caixa	n-f$n	cat	caixa	n-f$n
 	por	calar	vblex	cat	callar	vblex
 RL	por	calar	vblex	cat	calar	vblex
 	por	calcar	vblex	cat	trepitjar	vblex
@@ -1433,13 +1433,13 @@ LR	por	calefação	n$n-f	cat	calefacció	n-f$n
 	por	calzar	vblex	cat	calzar	vblex
 	por	calçado	n	cat	calçat	n-m$n
 	por	cama	n-f$n	cat	llit	n-m$n
-LR	por	camada	n	cat	capa	n$n-f
+LR	por	camada	n	cat	capa	n-f$n
 LR	por	caminhar	vblex	cat	caminar	vblex
 	por	caminho	n$n-m	cat	camí	n-m$n
 RL	por	caminho	n$n-m	cat	sendera	n-f$n
 	por	caminhoneiro	n	cat	camioner	n$n-GD
 	por	caminhão	n	cat	camió	n-m$n$n-m-sg
-	por	camisa	n	cat	camisa	n$n-f
+	por	camisa	n	cat	camisa	n-f$n
 	por	camisola	n-f$n	cat	jersei	n$n-m
 	por	campanha	n$n-f$n-f-ND	cat	campanya	n$n-f
 	por	campeonato	n	cat	campionat	n$n-m
@@ -1455,12 +1455,12 @@ LR	por	canadense	n-mf$n	cat	canadenc	n$n-GD
 RL	por	canadense	n-mf$n	cat	canadenc	n-f
 RL	por	canadense	n-mf$n	cat	canadenc	n-m
 	por	canal	n$n-m	cat	canal	n-mf
-	por	cancelamento	n$n-m	cat	cancel·lació	n$n-f
+	por	cancelamento	n$n-m	cat	cancel·lació	n-f$n
 	por	cancelar	vblex	cat	cancel·lar	vblex
 	por	cancro	n	cat	càncer	n-m$n
 	por	candidato	n$n-m$n-m-ND	cat	candidat	n$n-GD
-	por	candidatura	n$n-f-ND	cat	candidatura	n$n-f
-LR	por	caneca	n	cat	tassa	n$n-f
+	por	candidatura	n$n-f-ND	cat	candidatura	n-f$n
+LR	por	caneca	n	cat	tassa	n-f$n
 	por	canhão	n	cat	canó	n-m$n
 	por	cansar	vblex	cat	cansar	vblex
 	por	cansaço	n$n-m	cat	cansament	n-m$n
@@ -1472,7 +1472,7 @@ LR	por	cantor	n-m$n-m-ND	cat	cantant	n-mf$n$
 LR	por	cantor	n-f	cat	cantant	n-mf$n$
 	por	canção	n$n-f-ND	cat	cançó	n-f$n
 	por	caos	n	cat	caos	n-m-sp$n$n-m
-	por	capa	n$n-f	cat	capa	n$n-f
+	por	capa	n$n-f	cat	capa	n-f$n
 	por	capacete	n$n-m	cat	casc	n-m$n
 	por	capacidade	n$n-f-ND	cat	capacitat	n-f$n$n-f-sg
 	por	capar	vblex	cat	capar	vblex
@@ -1493,7 +1493,7 @@ RL	por	capaz	adj-mf-pl$adj	cat	capaç	adj-m-pl
 	por	capítulo	n	cat	capítol	n$n-m
 	por	cara	n$n-f	cat	cara	n-f$n
 	por	caracterizar	vblex	cat	caracteritzar	vblex
-	por	característica	n	cat	característica	n$n-f
+	por	característica	n	cat	característica	n-f$n
 	por	caralho	ij	cat	collons	ij
 	por	caravana	n	cat	caravana	n-f$n
 	por	carbono	n	cat	carboni	n-m$n
@@ -1507,11 +1507,11 @@ RL	por	carente	adj$adj-mf	cat	freturós	adj-m
 LR	por	carga	n	cat	càrrega	n-f$n$n-f-ND
 	por	cargar	vblex	cat	cargar	vblex
 	por	cargo	n$n-m-ND	cat	càrrec	n-m$n
-	por	caridade	n	cat	caritat	n$n-f
+	por	caridade	n	cat	caritat	n-f$n
 	por	carinhoso	adj	cat	afectuós	adj$$adj-sup
 	por	carne	n$n-f-ND	cat	carn	n$n-f
 	por	caro	adj	cat	car	adj$
-	por	carreira	n	cat	carrera	n$n-f
+	por	carreira	n	cat	carrera	n-f$n
 RL	por	carreira	n	cat	cursa	n-f$n
 	por	carro	n$n-m$n-m-ND	cat	cotxe	n-m$n
 	por	carroça	n-f$n	cat	carro	n-m$n
@@ -1556,20 +1556,20 @@ RL	por	casualidade	n$n-f	cat	atzar	n-m$n
 	por	casualmente	adv	cat	casualment	adv
 	por	catalão	n$n-m$n-m-ND	cat	català	n$n-m
 	por	catalão	adj	cat	català	adj$
-	por	catarata	n	cat	cataracta	n$n-f
+	por	catarata	n	cat	cataracta	n-f$n
 	por	catastrófico	adj	cat	catastròfic	adj$
-	por	catedral	n$n-f-ND	cat	catedral	n$n-f
+	por	catedral	n$n-f-ND	cat	catedral	n-f$n
 	por	catedrático	n	cat	catedràtic	n$n-m
 	por	categoricamente	adv	cat	categòricament	adv
 	por	categoría	n	cat	categoría	n
 	por	cativeiro	n-m$n	cat	captivitat	n-f$n
 LR	por	catorce	num	cat	catorce	num
 	por	catálogo	n$n-m-ND	cat	catàleg	n-m$n
-	por	catástrofe	n	cat	catàstrofe	n$n-f
+	por	catástrofe	n	cat	catàstrofe	n-f$n
 	por	católico	adj$adj-GD-ND	cat	catòlic	adj$
-	por	causa	n$n-f$n-f-ND	cat	causa	n$n-f
+	por	causa	n$n-f$n-f-ND	cat	causa	n-f$n
 	por	causar	vblex	cat	causar	vblex
-	por	cautela	n$n-f	cat	cautela	n-f$n
+	por	cautela	n$n-f	cat	cautela	n-f
 LR	por	cavaleiro	n$n-m	cat	genet	n$n-mf
 	por	cavalgar	vblex	cat	cavalcar	vblex
 	por	cavalo	n$n-m$n-m-ND	cat	cavall	n$n-m
@@ -1592,12 +1592,12 @@ LR	por	cego	n-f	cat	invident	n-mf$n
 	por	cegueira	n$n-f	cat	ceguesa	n-f$n$n-f-ND
 	por	cela	n	cat	cel·la	n-f$n
 	por	celebrar	vblex	cat	celebrar	vblex
-	por	celebração	n$n-f-ND	cat	celebració	n$n-f
+	por	celebração	n$n-f-ND	cat	celebració	n-f$n
 	por	celeste	adj	cat	celeste	adj$$adj-mf
 	por	cem	num$num-mf-sp	cat	cent	num-mf-sp$num$num-mf
 RL	por	cemitério	n	cat	cementeri	n-m$n
 	por	cemitério	n	cat	cementiri	n$n-m
-	por	cena	n	cat	escena	n$n-f
+	por	cena	n	cat	escena	n-f$n
 	por	cenografia	n	cat	escenografia	n-f$n
 	por	censo	n$n-m-ND	cat	cens	n-m$n
 	por	censura	n	cat	censura	n-f$n
@@ -1615,7 +1615,7 @@ RL	por	central	n$n-f-ND	cat	centraleta	n-f$n
 	por	centro	n$n-m$n-m-ND	cat	centre	n-m$n
 	por	centímetro	n	cat	centímetre	n$n-m
 LR	por	cenário	n	cat	escenari	n-m$n
-LR	por	cercania	n	cat	proximitat	n$n-f$n-f-sg
+LR	por	cercania	n	cat	proximitat	n-f$n$n-f-sg
 RL	por	cercania	n	cat	rodalia	n-f$n$n-f-pl
 LR	por	arredor	n$n-m$n-m-ND	cat	rodalia	n-f$n$n-f-pl
 	por	cereal	n$n-m	cat	cereal	n-m$n
@@ -1625,7 +1625,7 @@ LR	por	cerimônia	n	cat	cerimònia	n$n-f
 	por	cero	num	cat	cero	num
 LR	por	certeiramente	adv	cat	precisament	adv
 RL	por	certeza	n	cat	certitud	n
-	por	certeza	n	cat	certesa	n$n-f
+	por	certeza	n	cat	certesa	n-f$n
 	por	certificado	n-m$n	cat	certificat	n-m$n
 LR	por	certo	adj$adj-m-sg	cat	correcte	adj-m-sg
 LR	por	certo	adj-f-sg	cat	correcte	adj-f-sg
@@ -1634,7 +1634,7 @@ LR	por	certo	adj-f-pl	cat	correcte	adj-mf-pl$adj$
 LR	por	certo	adj$adj-m-sg	cat	correcte	adj-mf-pl$adj$
 	por	certo	det$det-ind	cat	cert	det$det-ind
 	por	cerveja	n$n-f	cat	cervesa	n$n-f
-	por	cerâmica	n	cat	ceràmica	n$n-f$n-f-sg
+	por	cerâmica	n	cat	ceràmica	n-f$n$n-f-sg
 	por	cesar	vblex	cat	cesar	vblex
 	por	cessão	n	cat	cessió	n-f$n
 	por	cesta	n$n-f	cat	cistella	n-f$n
@@ -1667,7 +1667,7 @@ LR	por	cheiamente	adv	cat	plenament	adv
 RL	por	chispa	n	cat	purna	n-f$n
 	por	chocar	vblex	cat	xocar	vblex
 	por	choque	n$n-m-ND$n-m	cat	xoc	n-m$n
-RL	por	choque	n$n-m-ND$n-m	cat	enrampada	n-f$n
+RL	por	choque	n$n-m-ND$n-m	cat	enrampada	n-f
 	por	chorar	vblex	cat	plorar	vblex
 	por	choça	n	cat	barraca	n-f$n
 	por	chuva	n$n-f-ND	cat	pluja	n$n-f
@@ -1679,8 +1679,8 @@ LR	por	chão	n	cat	sòl	n-m$n
 	por	cidade	n$n-f$n-f-ND	cat	ciutat	n-f$n$n-f-sg
 	por	cidadão	n$n-m-ND	cat	ciutadà	n$n-m
 LR	por	cientista	n-mf$n	cat	científic	n-GD
-RL	por	cientista	n-mf$n	cat	científic	n-m
-RL	por	cientista	n-mf$n	cat	científic	n$n-f
+RL	por	cientista	n-mf$n	cat	científic	n$n-m
+RL	por	cientista	n-mf$n	cat	científic	n-f
 	por	científico	adj$adj-GD-ND	cat	científic	adj$
 	por	cifra	n$n-f	cat	xifra	n-f$n
 RL	por	cigarro	n$n-m	cat	cigar	n$n-m
@@ -1702,14 +1702,14 @@ LR	por	cinecartaz	n-m	cat	cartellera	n-f$n
 	por	cinza	n-f$n	cat	cendra	n-f$n
 	por	circuito	n	cat	circuit	n-m$n
 	por	circular	vblex	cat	circular	vblex$
-	por	circulação	n$n-f-ND	cat	circulació	n$n-f
-	por	circunstância	n	cat	circumstància	n$n-f
+	por	circulação	n$n-f-ND	cat	circulació	n-f$n
+	por	circunstância	n	cat	circumstància	n-f$n
 	por	cirugía	n	cat	cirugía	n
 	por	citar	vblex	cat	citar	vblex
 LR	por	ciumento	adj	cat	gelós	adj$$adj-sup
 	por	civil	adj$adj-mf-ND	cat	civil	adj$adj-mf$$adj-mf-ND
 	por	civilização	n	cat	civilització	n-f$n$n-f-sg
-	por	ciência	n$n-f-ND	cat	ciència	n$n-f
+	por	ciência	n$n-f-ND	cat	ciència	n-f$n
 	por	clamor	n$n-m	cat	clam	n$n-m
 	por	clandestino	adj	cat	clandestí	adj$
 	por	claramente	adv	cat	clarament	adv
@@ -1736,7 +1736,7 @@ LR	por	clube	n	cat	club	n-m$n
 	por	cláusula	n	cat	clàusula	n-f$n
 	por	clã	n	cat	clan	n-m$n$n-m-sg
 LR	por	coacção	n	cat	coacció	n-f$n
-	por	coalizão	n$n-f-ND	cat	coalició	n$n-f
+	por	coalizão	n$n-f-ND	cat	coalició	n-f$n
 	por	coação	n	cat	coacció	n-f$n
 	por	cobertura	n$n-f$n-f-ND	cat	cobertura	n-f$n
 RL	por	cobertura	n$n-f$n-f-ND	cat	àtic	n-m$n
@@ -1757,7 +1757,7 @@ LR	por	coitado	adj	cat	desgraciat	adj$$adj-sup
 	por	cola	n-f$n	cat	cola	n-f$n
 	por	colaborador	n	cat	col·laborador	n$n-m
 	por	colaborar	vblex	cat	col·laborar	vblex
-	por	colaboração	n	cat	col·laboració	n$n-f
+	por	colaboração	n	cat	col·laboració	n-f$n
 RL	por	colar	vblex	cat	colar	vblex
 	por	colar	vblex	cat	pegar	vblex
 	por	colar	n	cat	collaret	n-m$n
@@ -1773,8 +1773,8 @@ RL	por	colega	n-mf$n	cat	company	n-f
 LR	por	colega	n-mf$n	cat	company	n-GD
 LR	por	coletivo	adj	cat	col·lectiu	adj$
 LR	por	coleção	n	cat	col·lecció	n$n-f
-	por	colheita	n	cat	collita	n$n-f
-	por	colina	n$n-f	cat	pujol	n-m$n
+	por	colheita	n	cat	collita	n-f$n
+	por	colina	n$n-f	cat	pujol	n-m
 	por	colisão	n	cat	col·lisió	n-f$n
 LR	por	colmar	vblex	cat	satisfer	vblex
 	por	colocar	vblex	cat	col·locar	vblex
@@ -1782,7 +1782,7 @@ LR	por	colmar	vblex	cat	satisfer	vblex
 	por	colombiano	adj	cat	colombià	adj$
 	por	colombiano	n	cat	colombià	n$n-m
 	por	colono	n	cat	colon	n$n-m
-	por	coluna	n	cat	columna	n$n-f
+	por	coluna	n	cat	columna	n-f$n
 	por	colégio	n	cat	col·legi	n-m$n
 	por	colónia	n$n-f-ND	cat	colònia	n$n-f
 LR	por	colônia	n	cat	colònia	n$n-f
@@ -1799,7 +1799,7 @@ RL	por	comando	n	cat	comando	n-m$n
 	por	combatente	adj	cat	combatent	adj$adj-mf
 	por	combater	vblex	cat	combatre	vblex
 	por	combinar	vblex	cat	combinar	vblex
-	por	combinação	n$n-f-ND	cat	combinació	n$n-f
+	por	combinação	n$n-f-ND	cat	combinació	n-f$n
 	por	comboio	n	cat	tren	n-m$n
 	por	combustível	n	cat	combustible	n$n-m
 RL	por	combustível	n	cat	carburant	n$n-m
@@ -1853,8 +1853,8 @@ RL	por	compartilhar	vblex	cat	compaginar	vblex
 	por	competir	vblex	cat	competir	vblex
 	por	competitivo	adj	cat	competitiu	adj$
 	por	competição	n$n-f-ND	cat	competició	n-f$n
-LR	por	competência	n$n-f-ND	cat	qualificació	n$n-f
-	por	qualificação	n$n-f-ND	cat	qualificació	n$n-f
+LR	por	competência	n$n-f-ND	cat	qualificació	n-f$n
+	por	qualificação	n$n-f-ND	cat	qualificació	n-f$n
 	por	complementar	vblex	cat	complementar	vblex
 LR	por	complementar	adj-mf$adj	cat	complementari	adj$$adj-GD
 RL	por	complementar	adj-mf$adj	cat	complementari	adj-m
@@ -1864,14 +1864,14 @@ RL	por	complementar	adj-mf$adj	cat	complementari	adj-f
 	por	completo	adj$adj-GD-ND	cat	complet	adj$
 	por	complexo	adj	cat	complex	adj$$adj-sup
 	por	complicar	vblex	cat	complicar	vblex
-	por	complicação	n	cat	complicació	n$n-f
+	por	complicação	n	cat	complicació	n-f$n
 	por	componente	n$n-mf-ND	cat	component	n-mf$n
 	por	compor	vblex	cat	compondre	vblex
 RL	por	comportamento	n$n-m-ND$n-m	cat	capteniment	n$n-m
 	por	comportamento	n$n-m-ND$n-m	cat	comportament	n-m$n
 	por	comportar	vblex	cat	comportar	vblex$vblex-pron
 	por	compositor	n	cat	compositor	n$n-m
-	por	composição	n	cat	composició	n$n-f
+	por	composição	n	cat	composició	n-f$n
 LR	por	compra e venda	n-f-sp	cat	compravenda	n-f$n$n-f-ND
 RL	por	compra e venda	n-f-sp	cat	compravenda	n-f-sg
 RL	por	compra e venda	n-f-sp	cat	compravenda	n-f-pl
@@ -1879,7 +1879,7 @@ RL	por	compra e venda	n-f-sp	cat	compravenda	n-f-pl
 	por	comprar	vblex	cat	comprar	vblex
 	por	comprazer	vblex	cat	complaure	vblex
 	por	compreender	vblex	cat	comprendre	vblex
-	por	compressão	n	cat	compressió	n$n-f
+	por	compressão	n	cat	compressió	n-f$n
 	por	comprobar	vblex	cat	comprobar	vblex
 	por	comprometer	vblex	cat	comprometre	vblex
 	por	compromisso	n$n-m-ND	cat	compromís	n-m$n
@@ -1891,8 +1891,8 @@ LR	por	comum	adj-mf$adj$adj-mf-ND	cat	comú	adj$adj-GD$
 RL	por	comum	adj-mf$adj$adj-mf-ND	cat	comú	adj-m
 	por	comunicado	n	cat	comunicat	n$n-m
 	por	comunicar	vblex	cat	comunicar	vblex
-	por	comunicação	n$n-f-ND	cat	comunicació	n$n-f
-	por	comunidade	n$n-f$n-f-ND	cat	comunitat	n$n-f$n-f-sg
+	por	comunicação	n$n-f-ND	cat	comunicació	n-f$n
+	por	comunidade	n$n-f$n-f-ND	cat	comunitat	n-f$n$n-f-sg
 RL	por	comunidade	n$n-f$n-f-ND	cat	veïnat	n-m$n
 	por	comunista	adj	cat	comunista	adj$adj-mf
 	por	comunitário	adj$adj-GD-ND	cat	comunitari	adj$
@@ -1909,19 +1909,19 @@ LR	por	concelho	n$n-m	cat	municipi	n-m$n
 	por	concepção	n$n-f	cat	concepció	n-f$n
 	por	concerto	n$n-m-ND	cat	concert	n-m$n
 	por	concessão	n$n-f-ND	cat	concessió	n-f$n
-	por	concha	n	cat	conquilla	n$n-f
+	por	concha	n	cat	conquilla	n-f$n
 	por	concluir	vblex	cat	concloure	vblex
 LR	por	conclusivamente	adv	cat	finalment	adv
 RL	por	conclusão	n$n-f$n-f-ND	cat	cloenda	n-f$n
 	por	conclusão	n$n-f$n-f-ND	cat	conclusió	n-f$n
 	por	concordar	vblex	cat	concordar	vblex
-	por	concorrência	n	cat	competència	n$n-f
+	por	concorrência	n	cat	competència	n-f$n
 	por	concretamente	adv	cat	concretament	adv
 	por	concreto	adj	cat	concret	adj$
 	por	concurso	n$n-m-ND	cat	concurs	n-m$n
 	por	conde	n	cat	comte	n$n-m
 	por	condenar	vblex	cat	condemnar	vblex
-	por	condenação	n$n-f-ND	cat	condemna	n$n-f
+	por	condenação	n$n-f-ND	cat	condemna	n-f$n
 	por	condição	n$n-f-ND	cat	condició	n-f$n
 	por	conductor	n$n-GD	cat	conductor	n$n-m
 RL	por	conductor	n$n-GD	cat	xofer	n-mf
@@ -1967,7 +1967,7 @@ RL	por	conquistador	adj	cat	conquistador	adj$
 	por	conquistar	vblex	cat	conquerir	vblex
 RL	por	conquistar	vblex	cat	conquistar	vblex
 	por	consagrar	vblex	cat	consagrar	vblex
-	por	consciência	n$n-f-ND	cat	consciència	n$n-f
+	por	consciência	n$n-f-ND	cat	consciència	n-f$n
 	por	consecutivo	adj$adj-GD-ND	cat	consecutiu	adj$
 RL	por	conseguir	vblex	cat	assolir	vblex
 	por	conseguir	vblex	cat	aconseguir	vblex
@@ -1977,15 +1977,15 @@ RL	por	conseguir	vblex	cat	assolir	vblex
 	por	consentimento	n	cat	consentiment	n-m$n
 	por	consentir	vblex	cat	consentir	vblex
 	por	consequente	adj	cat	conseqüent	adj$adj-mf$
-	por	consequência	n$n-f-ND	cat	conseqüència	n$n-f
+	por	consequência	n$n-f-ND	cat	conseqüència	n-f$n
 LR	por	conseqüente	adj	cat	conseqüent	adj$adj-mf$
-LR	por	conseqüência	n	cat	conseqüència	n$n-f
+LR	por	conseqüência	n	cat	conseqüència	n-f$n
 	por	consertar	vblex	cat	reparar	vblex
 	por	conservador	adj	cat	conservador	adj$
 	por	conservador	n$n-m-ND	cat	conservador	n$n-m
 	por	conservante	n	cat	conservant	n$n-m
 	por	conservar	vblex	cat	conservar	vblex
-	por	conservação	n$n-f-ND	cat	conservació	n$n-f
+	por	conservação	n$n-f-ND	cat	conservació	n-f$n
 	por	considerar	vblex	cat	considerar	vblex
 	por	consideravelmente	adv	cat	considerablement	adv
 	por	consideração	n$n-f$n-f-ND	cat	consideració	n-f$n
@@ -1996,7 +1996,7 @@ LR	por	conseqüência	n	cat	conseqüència	n$n-f
 	por	consolar	vblex	cat	consolar	vblex
 	por	consolidar	vblex$vblex-pp-GD-ND	cat	consolidar	vblex
 	por	consolo	n$n-m	cat	consol	n-m$n
-	por	conspiração	n	cat	conspiració	n$n-f
+	por	conspiração	n	cat	conspiració	n-f$n
 	por	constante	adj	cat	constant	adj$adj-mf
 	por	constantemente	adv	cat	constantment	adv
 	por	constar	vblex	cat	constar	vblex
@@ -2005,7 +2005,7 @@ LR	por	conseqüência	n	cat	conseqüència	n$n-f
 	por	constitucional	adj$adj-mf-ND	cat	constitucional	adj$adj-mf$
 	por	constitucionalmente	adv	cat	constitucionalment	adv
 	por	constituir	vblex	cat	constituir	vblex
-	por	constituição	n$n-f-ND	cat	constitució	n$n-f
+	por	constituição	n$n-f-ND	cat	constitució	n-f$n
 	por	construir	vblex	cat	construir	vblex
 	por	construtivo	adj	cat	constructiu	adj$
 	por	construtor	n	cat	constructor	n$n-m
@@ -2071,17 +2071,17 @@ LR	por	contributo	n-m	cat	contribució	n-f$n
 	por	controle	n$n-m	cat	control	n-m$n
 	por	contrário	adj	cat	contrari	adj$$adj-GD
 LR	por	contudo	cnjcoo	cat	però	cnjcoo
-	por	contundência	n	cat	contundència	n$n-f
+	por	contundência	n	cat	contundència	n-f$n
 	por	contínuo	adj	cat	continu	adj$
 	por	convencer	vblex	cat	convèncer	vblex
 	por	conveniente	adj	cat	convenient	adj$adj-mf$
 	por	convento	n	cat	convent	n-m$n
-	por	convenção	n$n-f-ND	cat	convenció	n$n-f
+	por	convenção	n$n-f-ND	cat	convenció	n-f$n
 	por	conversación	n	cat	conversación	n
 	por	conversar	vblex	cat	conversar	vblex
 	por	conversação	n	cat	conversa	n-f$n
 	por	converter	vblex	cat	convertir	vblex$vblex-pron
-	por	convicção	n	cat	convicció	n$n-f
+	por	convicção	n	cat	convicció	n-f$n
 	por	convir	vblex	cat	convenir	vblex
 	por	convite	n-m$n$n-m-ND	cat	invitació	n-f$n
 	por	conviver	vblex	cat	conviure	vblex
@@ -2095,7 +2095,7 @@ LR	por	convívio	n-m	cat	convivència	n-f$n
 	por	coordenador	adj	cat	coordinador	adj
 	por	coordenar	vblex	cat	coordinar	vblex
 	por	coordenação	n$n-f-ND	cat	coordinació	n-f$n
-	por	copa	n	cat	copa	n$n-f
+	por	copa	n	cat	copa	n-f$n
 	por	copyright	n	cat	copyright	n-m$n$n-m-sg
 	por	cor	n-f	cat	color	n-m$n
 LR	por	cor	n-m$n	cat	cor	n-m$n
@@ -2113,7 +2113,7 @@ RL	por	cordeiro	n-m$n	cat	xai	n-m$n
 	por	coreano	adj	cat	coreà	adj
 	por	corno	n-m$n	cat	banya	n-f$n
 LR	por	coro	n	cat	cor	n-m$n
-	por	coroa	n$n-f	cat	corona	n$n-f
+	por	coroa	n$n-f	cat	corona	n-f$n
 	por	coroar	vblex	cat	coronar	vblex
 	por	coronel	n$n-mf-ND	cat	coronel	n-mf$n
 	por	corpo	n$n-m$n-m-ND	cat	cos	n-m$n
@@ -2142,36 +2142,36 @@ LR	por	correto	adj-m-pl	cat	correcte	adj-mf-pl$adj$
 LR	por	correto	adj-f-pl	cat	correcte	adj-mf-pl$adj$
 LR	por	correto	adj$adj-m-sg	cat	correcte	adj-mf-pl$adj$
 LR	por	correção	n	cat	correcció	n-f$n
-LR	por	corrida	n$n-f$n-f-ND	cat	carrera	n$n-f
+LR	por	corrida	n$n-f$n-f-ND	cat	carrera	n-f$n
 	por	corrigir	vblex	cat	corregir	vblex
-	por	corrupção	n$n-f-ND	cat	corrupció	n$n-f
+	por	corrupção	n$n-f-ND	cat	corrupció	n-f$n
 	por	cortar	vblex	cat	tallar	vblex
 	por	corte	n-f	cat	cort	n-f$n$n-f-pl
 	por	corte	n-m$n	cat	tall	n-m$n
 	por	cortejo	n	cat	seguici	n-m$n
 	por	costa	n-f-sg$n	cat	costa	n-f$n$n-f-sg
-RL	por	costa	n-f-sg$n	cat	costera	n$n-f$n-f-sg
+RL	por	costa	n-f-sg$n	cat	costera	n-f$n$n-f-sg
 RL	por	costa	n-f-sg$n	cat	costa	n-f-pl
 RL	por	costa	n-f-sg$n	cat	costera	n-f-pl
 	por	costas	n-f-pl$n$n-f	cat	esquena	n-f$n$n-f-sg
 RL	por	costas	n-f-pl$n$n-f	cat	esquena	n-f-pl
 RL	por	costumar	vblex	cat	soler	vblex
 	por	costumar	vblex	cat	acostumar	vblex
-	por	costume	n-m$n-m-ND$n	cat	costum	n-m$n$n-m-pl
+	por	costume	n-m$n-m-ND$n	cat	costum	n-m$n-m-pl
 	por	costura	n	cat	costura	n-f$n
 RL	por	costureiro	n$n-GD	cat	modista	n-mf$n
 LR	por	costureiro	n-f	cat	modista	n-mf$n
 LR	por	costureiro	n-m	cat	modista	n-mf$n
 	por	cota	n$n-f	cat	cota	n-f$n
 	por	cotar	vblex	cat	cotitzar	vblex
-	por	cotação	n	cat	cotització	n$n-f
+	por	cotação	n	cat	cotització	n-f$n
 LR	por	cotidiano	adj	cat	quotidià	adj$
 	por	couro	n	cat	cuir	n-m$n
 LR	por	covarde	adj$adj-mf	cat	covard	adj$adj-GD$
 RL	por	covarde	adj$adj-mf	cat	covard	adj-f
 RL	por	covarde	adj$adj-mf	cat	covard	adj-m
 LR	por	cravar	vblex	cat	clavar	vblex
-	por	credibilidade	n$n-f-ND	cat	credibilitat	n$n-f
+	por	credibilidade	n$n-f-ND	cat	credibilitat	n-f$n
 	por	credor	n	cat	creditor	n$n-m
 	por	crente	adj	cat	creient	adj-mf$adj
 	por	crença	n$n-f	cat	creença	n$n-f
@@ -2188,7 +2188,7 @@ RL	por	criar	vblex	cat	idear	vblex
 	por	criatividade	n$n-f-ND	cat	creativitat	n-f$n$n-f-ND
 	por	criativo	adj	cat	creatiu	adj$
 	por	criatura	n$n-f	cat	criatura	n-f$n
-	por	criação	n$n-f-ND	cat	creació	n$n-f
+	por	criação	n$n-f-ND	cat	creació	n-f$n
 RL	por	criação	n$n-f-ND	cat	criança	n-f$n
 	por	crime	n$n-m-ND	cat	crim	n-m$n
 LR	por	criminal	adj$adj-mf-ND	cat	criminal	adj$adj-mf$
@@ -2216,9 +2216,9 @@ LR	por	crise	n-f-pl	cat	crisi	n-f$n-f-ND$n
 	por	crédito	n$n-m-ND	cat	crèdit	n$n-m
 	por	crítico	n	cat	crític	n$n-f
 	por	crítico	adj$adj-GD-ND	cat	crític	adj$
-	por	crónica	n	cat	crònica	n$n-f
+	por	crónica	n	cat	crònica	n-f$n
 	por	crónico	adj	cat	crònic	adj$
-LR	por	crônica	n	cat	crònica	n$n-f
+LR	por	crônica	n	cat	crònica	n-f$n
 LR	por	crônico	adj	cat	crònic	adj$
 	por	cu	n	cat	cul	n$n-m
 RL	por	cuadra	n	cat	cuadra	n
@@ -2227,7 +2227,7 @@ RL	por	cuadra	n	cat	cuadra	n
 	por	cubo	n$n-m	cat	galleda	n-f
 	por	cubrir	vblex	cat	cubrir	vblex
 LR	por	cuestionar	vblex	cat	cuestionar	vblex
-LR	por	cuidado	n$n-m	cat	cura	n-f$n
+LR	por	cuidado	n$n-m	cat	cura	n-f
 	por	cuidadosamente	adv	cat	curosament	adv
 	por	cuidar	vblex	cat	cuidar	vblex
 LR	por	cujo	rel-aa$rel-aa-m-sg$rel	cat	que el seu	rel$rel-aa
@@ -2251,12 +2251,12 @@ RL	por	cumprir	vblex	cat	acomplir	vblex
 	por	cumprir	vblex	cat	complir	vblex
 	por	cuota	n	cat	cuota	n
 	por	cura	n-m	cat	capellà	n-m$n
-	por	cura	n-f$n	cat	cura	n-f$n
+	por	cura	n-f$n	cat	cura	n-f
 	por	curar	vblex	cat	guarir	vblex$vblex-pron
 	por	curdo	adj	cat	kurd	adj$
 	por	curdo	n	cat	kurd	n$n-m
 	por	curiosamente	adv	cat	curiosament	adv
-	por	curiosidade	n	cat	curiositat	n$n-f
+	por	curiosidade	n	cat	curiositat	n-f$n
 	por	curioso	adj	cat	curiós	adj$$adj-sup
 	por	curso	n$n-m-ND	cat	curs	n-m$n
 	por	curto	adj$adj-GD-ND	cat	curt	adj$
@@ -2272,7 +2272,7 @@ LR	por	cá	n-m	cat	ca	n-f
 	por	cálculo	n	cat	càlcul	n-m$n
 	por	cálido	adj	cat	càlid	adj$
 LR	por	cárcere	n-m$n	cat	presó	n-f$n
-	por	cátedra	n	cat	càtedra	n$n-f
+	por	cátedra	n	cat	càtedra	n-f$n
 	por	câmara	n$n-f-ND	cat	càmera	n-f$n
 LR	por	câmbio	n-m$n	cat	canvi	n-m$n
 LR	por	câmera	n$n-f	cat	càmera	n-f$n
@@ -2281,7 +2281,7 @@ LR	por	câncer	n	cat	càncer	n-m$n
 	por	cão	n$n-m$n-m-ND	cat	gos	n$n-m
 RL	por	cão	n$n-m$n-m-ND	cat	ca	n-m$n
 	por	célebre	adj	cat	cèlebre	adj$adj-mf$
-	por	célula	n	cat	cèl·lula	n$n-f
+	por	célula	n	cat	cèl·lula	n-f$n
 	por	céptico	adj	cat	escèptic	adj$
 	por	cérebro	n	cat	cervell	n-m$n
 LR	por	cético	adj	cat	escèptic	adj$
@@ -2328,7 +2328,7 @@ LR	por	debochar	vblex	cat	burlar	vblex
 	por	decepção	n-f$n	cat	decepció	n-f$n
 	por	decidir	vblex	cat	decidir	vblex
 	por	decisivo	adj	cat	decisiu	adj$
-	por	decisão	n$n-f-ND	cat	decisió	n$n-f
+	por	decisão	n$n-f-ND	cat	decisió	n-f$n
 	por	declarar	vblex	cat	declarar	vblex$vblex-pron
 	por	declaração	n$n-f-ND	cat	declaració	n-f$n
 LR	por	decolar	vblex	cat	desenganxar	vblex
@@ -2351,7 +2351,7 @@ RL	por	defender	vblex	cat	defendre	vblex
 	por	definir	vblex	cat	definir	vblex
 	por	definitivamente	adv	cat	definitivament	adv
 	por	definitivo	adj	cat	definitiu	adj$
-	por	definição	n$n-f-ND	cat	definició	n$n-f
+	por	definição	n$n-f-ND	cat	definició	n-f$n
 LR	por	defronte	adv	cat	davant	adv
 	por	degradante	adj	cat	degradant	adj$adj-mf$
 	por	degradar	vblex	cat	degradar	vblex
@@ -2361,9 +2361,9 @@ RL	por	degrau	n	cat	escaló	n-m$n
 	por	delatar	vblex	cat	delatar	vblex
 	por	delegacia	n$n-f	cat	comissaria	n-f$n
 	por	delegado	n	cat	delegat	n$n-m
-	por	delegação	n$n-f-ND	cat	delegació	n$n-f
+	por	delegação	n$n-f-ND	cat	delegació	n-f$n
 	por	deleitar	vblex	cat	delectar	vblex
-	por	deleite	n	cat	delit	n$n-m
+	por	deleite	n	cat	delit	n-m$n
 	por	delgado	adj	cat	prim	adj$$adj-sup
 	por	delicadeza	n	cat	delicadesa	n-f$n
 	por	delicado	adj	cat	delicat	adj$
@@ -2389,16 +2389,16 @@ LR	por	demissão	n-f$n	cat	acomiadament	n$n-m
 	por	demográfico	adj$adj-GD-ND	cat	demogràfic	adj$
 	por	demolição	n	cat	demolició	n$n-f
 	por	demonstrar	vblex	cat	demostrar	vblex
-	por	demonstração	n	cat	demostració	n$n-f
+	por	demonstração	n	cat	demostració	n-f$n
 RL	por	demorar	vblex	cat	demorar	vblex
 RL	por	demorar	vblex	cat	tardar	vblex
 	por	demorar	vblex	cat	trigar	vblex
-	por	demência	n	cat	demència	n$n-f
+	por	demência	n	cat	demència	n-f$n
 	por	demónio	n	cat	dimoni	n$n-m
 LR	por	demônio	n	cat	dimoni	n$n-m
 RL	por	denominar	vblex	cat	anomenar	vblex
 	por	denominar	vblex	cat	denominar	vblex
-	por	densidade	n$n-f-ND	cat	densitat	n$n-f$n-f-ND
+	por	densidade	n$n-f-ND	cat	densitat	n-f$n$n-f-ND
 	por	denso	adj	cat	dens	adj$
 	por	dente	n-m$n$n-m-ND	cat	dent	n-f$n
 RL	por	dentro	adv	cat	dins	adv
@@ -2459,7 +2459,7 @@ LR	por	desativar	vblex	cat	desactivar	vblex
 	por	desconhecer	vblex	cat	desconèixer	vblex
 	por	desconto	n	cat	descompte	n$n-m
 	por	descrever	vblex	cat	descriure	vblex
-	por	descrição	n$n-f$n-f-ND	cat	descripció	n$n-f
+	por	descrição	n$n-f$n-f-ND	cat	descripció	n-f$n
 	por	descubrir	vblex	cat	descubrir	vblex
 	por	desculpa	n	cat	excusa	n$n-f
 LR	por	descumprir	vblex	cat	incomplir	vblex
@@ -2482,7 +2482,7 @@ RL	por	desenhar	vblex	cat	dibuixar	vblex
 	por	desenho	n$n-m-ND	cat	dibuix	n-m$n
 RL	por	desenho	n$n-m-ND	cat	disseny	n-m$n$n-m-ND
 	por	desenvolver	vblex$vblex-pp-GD-ND	cat	desenvolupar	vblex
-RL	por	desenvolvimento	n$n-m-ND	cat	desenrotllament	n$n-m
+RL	por	desenvolvimento	n$n-m-ND	cat	desenrotllament	n-m$n
 	por	desenvolvimento	n$n-m-ND	cat	desenvolupament	n-m$n
 	por	desequilíbrio	n	cat	desequilibri	n-m$n
 	por	deserto	n	cat	desert	n$n-m
@@ -2518,7 +2518,7 @@ LR	por	desnudar	vblex	cat	despullar	vblex$vblex-pron
 	por	desolar	vblex	cat	desolar	vblex
 	por	desolação	n	cat	desolació	n-f$n
 	por	despacho	n	cat	despatx	n-m$n
-RL	por	despedimento	n$n-m	cat	dimissió	n$n-f
+RL	por	despedimento	n$n-m	cat	dimissió	n-f$n
 	por	despedimento	n$n-m	cat	acomiadament	n$n-m
 	por	despedir	vblex	cat	acomiadar	vblex
 LR	por	despertar	vblex	cat	despertar	vblex
@@ -2543,7 +2543,7 @@ RL	por	destino	n$n-m$n-m-ND	cat	destí	n-m$n
 	por	destruidor	n	cat	destructor	n-m$n
 	por	destruir	vblex	cat	destruir	vblex
 RL	por	destruir	vblex	cat	derruir	vblex
-	por	destruição	n$n-f-ND	cat	destrucció	n$n-f
+	por	destruição	n$n-f-ND	cat	destrucció	n-f$n
 	por	desumano	adj	cat	inhumà	adj$
 	por	desvanecer	vblex	cat	esvair	vblex
 	por	desvelar	vblex	cat	desvetllar	vblex
@@ -2562,7 +2562,7 @@ RL	por	detenção	n$n-f	cat	arrest	n-m$n
 	por	deteriorar	vblex	cat	deteriorar	vblex
 	por	determinante	adj$adj-mf-ND	cat	determinant	adj$
 	por	determinar	vblex	cat	determinar	vblex
-	por	determinação	n$n-f-ND	cat	determinació	n$n-f
+	por	determinação	n$n-f-ND	cat	determinació	n-f$n
 	por	detestar	vblex	cat	detestar	vblex
 LR	por	detetive	n	cat	detectiu	n$n-mf
 	por	detonar	vblex	cat	detonar	vblex
@@ -2611,7 +2611,7 @@ LR	por	didático	adj	cat	didàctic	adj$
 	por	diferente	adj$adj-mf	cat	diferent	adj-mf$adj$
 RL	por	diferente	adj$adj-mf	cat	distint	adj$$adj-m
 RL	por	diferente	adj$adj-mf	cat	distint	adj-f
-	por	diferença	n	cat	diferència	n$n-f
+	por	diferença	n	cat	diferència	n-f$n
 	por	dificilmente	adv	cat	difícilment	adv
 	por	dificuldade	n$n-f-ND	cat	dificultat	n-f$n$n-f-ND
 	por	dificultar	vblex	cat	dificultar	vblex
@@ -2630,9 +2630,9 @@ LR	por	digno	adj-f-pl	cat	digne	adj-mf-pl$adj$
 RL	por	digno	adj-GD-pl	cat	digne	adj-mf-pl$adj$
 	por	digno	adj$adj-m-sg	cat	digne	adj-mf-pl$adj$
 	por	diligência	n	cat	diligència	n-f$n
-	por	dimensão	n$n-f-ND	cat	dimensió	n$n-f
+	por	dimensão	n$n-f-ND	cat	dimensió	n-f$n
 	por	diminuir	vblex	cat	disminuir	vblex
-	por	diminuição	n	cat	disminució	n$n-f
+	por	diminuição	n	cat	disminució	n-f$n
 	por	diminuto	adj	cat	diminut	adj
 	por	dinamarquês	adj	cat	danès	adj$$adj-m
 	por	dinamarquês	n	cat	danès	n$n-m
@@ -2640,7 +2640,7 @@ RL	por	digno	adj-GD-pl	cat	digne	adj-mf-pl$adj$
 LR	por	dinheiro	n-m-pl	cat	diners	n-m-pl$n
 	por	dinossauro	n	cat	dinosauri	n
 	por	dinâmico	adj	cat	dinàmic	adj$
-	por	diplomacia	n	cat	diplomàcia	n$n-f
+	por	diplomacia	n	cat	diplomàcia	n-f$n
 	por	diplomático	adj$adj-GD-ND	cat	diplomàtic	adj$
 	por	dique	n$n-m	cat	dic	n-m$n
 	por	directamente	adv	cat	directament	adv
@@ -2652,9 +2652,9 @@ RL	por	directo	adj-GD-pl	cat	directe	adj-mf-pl$adj$
 	por	directo	adj$adj-m-sg	cat	directe	adj-mf-pl$adj$
 RL	por	director	n$n-m-ND	cat	directiu	n$n-m
 	por	director	n$n-m-ND	cat	director	n$n-GD
-	por	directriz	n	cat	directriu	n$n-f
+	por	directriz	n	cat	directriu	n-f$n
 	por	direcção	n$n-f-ND	cat	adreça	n-f$n
-RL	por	direcção	n$n-f-ND	cat	direcció	n$n-f
+RL	por	direcção	n$n-f-ND	cat	direcció	n-f$n
 	por	direita	n	cat	dreta	n$n-f
 	por	direito	n$n-m-ND	cat	dret	n-m$n$n-m-pl
 	por	direito	adj	cat	dret	adj$
@@ -2665,7 +2665,7 @@ LR	por	direto	adj-m-pl	cat	directe	adj-mf-pl$adj$
 LR	por	direto	adj-f-pl	cat	directe	adj-mf-pl$adj$
 LR	por	direto	adj$adj-m-sg	cat	directe	adj-mf-pl$adj$
 LR	por	diretor	n	cat	director	n$n-GD
-LR	por	diretriz	n	cat	directriu	n$n-f
+LR	por	diretriz	n	cat	directriu	n-f$n
 LR	por	direção	n	cat	adreça	n-f$n
 RL	por	dirigente	adj	cat	governant	adj$adj-m
 	por	dirigente	adj	cat	dirigent	adj
@@ -2673,17 +2673,17 @@ RL	por	dirigente	adj	cat	governant	adj$adj-m
 	por	décimo	n	cat	dècim	n$n-m
 RL	por	dirigir	vblex	cat	adreçar	vblex
 	por	dirigir	vblex	cat	dirigir	vblex
-	por	disciplina	n$n-f-ND	cat	disciplina	n$n-f
+	por	disciplina	n$n-f-ND	cat	disciplina	n-f$n
 	por	disco	n	cat	disc	n-m$n
 LR	por	discordo	n	cat	desacord	n-m$n
-	por	discrepância	n	cat	discrepància	n$n-f
+	por	discrepância	n	cat	discrepància	n-f$n
 	por	discreto	adj	cat	discret	adj$
-	por	discriminação	n$n-f-ND	cat	discriminació	n$n-f
+	por	discriminação	n$n-f-ND	cat	discriminació	n-f$n
 	por	discurso	n$n-m-ND	cat	discurs	n-m$n
 	por	discussão	n$n-f-ND	cat	discussió	n-f$n
 	por	discutir	vblex	cat	discutir	vblex
 	por	discórdia	n	cat	discòrdia	n-f$n
-	por	disfarce	n$n-m	cat	disfressa	n-f$n
+	por	disfarce	n$n-m	cat	disfressa	n-f
 	por	disfarçar	vblex	cat	disfressar	vblex
 	por	disipar	vblex	cat	disipar	vblex
 	por	disparar	vblex	cat	disparar	vblex$vblex-pron
@@ -2694,7 +2694,7 @@ LR	por	discordo	n	cat	desacord	n-m$n
 	por	dispositivo	n	cat	dispositiu	n$n-m
 	por	disposição	n$n-f	cat	disposició	n-f$n$n-f-sg
 	por	disputar	vblex	cat	disputar	vblex
-	por	dissolução	n	cat	dissolució	n$n-f
+	por	dissolução	n	cat	dissolució	n-f$n
 	por	dissolver	vblex	cat	dissoldre	vblex
 	por	distanciar	vblex	cat	distanciar	vblex
 	por	distante	adj	cat	distant	adj$adj-mf$
@@ -2703,9 +2703,9 @@ LR	por	discordo	n	cat	desacord	n-m$n
 	por	distrair	vblex	cat	distreure	vblex
 LR	por	distração	n$n-f	cat	distracció	n-f$n
 	por	distribuir	vblex	cat	distribuir	vblex
-	por	distribuição	n$n-f-ND	cat	distribució	n$n-f
+	por	distribuição	n$n-f-ND	cat	distribució	n-f$n
 	por	distrito	n$n-m-ND	cat	districte	n-m$n
-	por	distância	n$n-f-ND	cat	distància	n$n-f
+	por	distância	n$n-f-ND	cat	distància	n-f$n
 	por	ditador	n	cat	dictador	n$n-m
 	por	ditadura	n$n-f-ND	cat	dictadura	n$n-f
 	por	ditame	n	cat	dictamen	n-m$n
@@ -2718,9 +2718,9 @@ LR	por	ditoso	adj	cat	joiós	adj
 	por	divertir	vblex	cat	divertir	vblex
 	por	dividir	vblex	cat	dividir	vblex
 	por	divino	adj	cat	diví	adj$
-	por	divisa	n	cat	divisa	n$n-f
+	por	divisa	n	cat	divisa	n-f$n
 	por	divisar	vblex	cat	albirar	vblex
-	por	divisão	n$n-f-ND	cat	divisió	n$n-f
+	por	divisão	n$n-f-ND	cat	divisió	n-f$n
 	por	divorciar	vblex	cat	divorciar	vblex
 	por	divulgar	vblex	cat	divulgar	vblex
 	por	divórcio	n	cat	divorci	n$n-m
@@ -2739,7 +2739,7 @@ RL	por	doce	adj-mf$adj	cat	dolç	adj-m
 	por	docente	adj	cat	docent	adj$adj-mf$adj-mf-sg
 	por	docente	n$n-mf-ND	cat	docent	n-mf$n
 	por	documentar	vblex	cat	documentar	vblex
-	por	documentação	n$n-f$n-f-ND	cat	documentació	n$n-f
+	por	documentação	n$n-f$n-f-ND	cat	documentació	n-f$n
 	por	documento	n$n-m-ND	cat	document	n-m$n
 LR	por	doente	adj-mf$adj$adj-mf-ND	cat	malalt	adj-GD
 RL	por	doente	adj-mf$adj$adj-mf-ND	cat	malalt	adj-m
@@ -2747,8 +2747,8 @@ RL	por	doente	adj-mf$adj$adj-mf-ND	cat	malalt	adj-f
 LR	por	doente	n-mf$n	cat	malalt	n-GD
 RL	por	doente	n-mf$n	cat	malalt	n$n-m
 RL	por	doente	n-mf$n	cat	malalt	n-f
-	por	doença	n	cat	malaltia	n$n-f
-RL	por	doença	n	cat	malura	n$n-f
+	por	doença	n	cat	malaltia	n-f$n
+RL	por	doença	n	cat	malura	n-f$n
 RL	por	doença	n	cat	dolència	n-f$n
 	por	doer	vblex	cat	doldre	vblex
 	por	dois	num$num-GD$num-GD-sp	cat	dos	num$$num-GD$num-GD-sp
@@ -2776,7 +2776,7 @@ LR	por	dose	n-f-pl	cat	dosi	n-f$n-f-ND$n
 	por	dotação	n$n-f-ND	cat	dotació	n-f$n
 	por	dourar	vblex	cat	daurar	vblex
 	por	doutor	n$n-m-ND	cat	doctor	n$n-m
-	por	doutrina	n	cat	doctrina	n$n-f
+	por	doutrina	n	cat	doctrina	n-f$n
 	por	doze	num$num-mf-sp	cat	dotze	num$num-mf-sp$$num-mf
 	por	dragão	n	cat	drac	n$n-m
 	por	drama	n	cat	drama	n-m$n
@@ -2810,7 +2810,7 @@ RL	por	débil	adj	cat	dèbil	adj$adj-mf$
 	por	dívida	n$n-f	cat	deute	n-m$n
 	por	dólar	n$n-m-ND	cat	dòlar	n$n-m
 	por	dúvida	n-f$n	cat	dubte	n-m$n
-	por	dúzia	n	cat	dotzena	n$n-f
+	por	dúzia	n	cat	dotzena	n-f$n
 	por	e	cnjcoo	cat	i	cnjcoo
 	por	eclesiástico	adj	cat	eclesiàstic	adj$
 	por	eclesiástico	n	cat	eclesiàstic	n$n-m
@@ -2826,7 +2826,7 @@ LR	por	econômico	adj	cat	econòmic	adj$
 	por	editar	vblex	cat	editar	vblex
 	por	editor	n$n-m-ND	cat	editor	n$n-GD
 	por	editorial	adj	cat	editorial	adj$adj-mf
-	por	edição	n$n-f-ND	cat	edició	n$n-f
+	por	edição	n$n-f-ND	cat	edició	n-f$n
 	por	educar	vblex	cat	educar	vblex
 	por	educativo	adj	cat	educatiu	adj$
 	por	educação	n$n-f-ND	cat	educació	n-f$n
@@ -2844,7 +2844,7 @@ RL	por	eficaz	adj-mf-pl$adj	cat	eficaç	adj-m-pl
 	por	eficazmente	adv	cat	eficaçment	adv
 	por	eficiente	adj$adj-mf-ND	cat	eficient	adj$adj-mf$
 	por	eficiência	n$n-f-ND	cat	eficiència	n$n-f
-	por	eficácia	n$n-f-ND	cat	eficàcia	n$n-f
+	por	eficácia	n$n-f-ND	cat	eficàcia	n-f$n
 	por	efémero	adj	cat	efímer	adj$
 LR	por	efêmero	adj	cat	efímer	adj$
 	por	egoísmo	n	cat	egoisme	n-m$n$n-m-sg
@@ -2854,9 +2854,9 @@ LR	por	efêmero	adj	cat	efímer	adj$
 	por	ejecutar	vblex	cat	ejecutar	vblex
 	por	ejemplar	n	cat	ejemplar	n
 	por	elaborar	vblex	cat	elaborar	vblex
-	por	elaboração	n$n-f-ND	cat	elaboració	n$n-f
+	por	elaboração	n$n-f-ND	cat	elaboració	n-f$n
 	por	ele	prn$prn-tn$prn-tn-p3-GD	cat	ell	prn-tn$prn$prn-tn-p3-m-pl$prn-tn-p3
-	por	electricidade	n$n-f-ND	cat	electricitat	n$n-f$n-f-ND
+	por	electricidade	n$n-f-ND	cat	electricitat	n-f$n$n-f-ND
 	por	electrodoméstico	n	cat	electrodomèstic	n$n-m$
 	por	electrónico	adj$adj-GD-ND	cat	electrònic	adj$
 	por	elegante	adj	cat	elegant	adj$adj-mf$
@@ -2868,7 +2868,7 @@ RL	por	eleição	n-f$n$n-f-ND	cat	comici	n-m$n
 	por	eleição	n-f$n$n-f-ND	cat	elecció	n-f$n
 	por	elementar	adj	cat	elemental	adj$adj-mf$
 	por	elemento	n$n-m-ND	cat	element	n-m$n
-LR	por	eletricidade	n	cat	electricitat	n$n-f$n-f-ND
+LR	por	eletricidade	n	cat	electricitat	n-f$n$n-f-ND
 LR	por	eletrodoméstico	n	cat	electrodomèstic	n$n-m$
 LR	por	eletrônico	adj	cat	electrònic	adj$
 	por	elevado	adj	cat	elevat	adj$
@@ -2907,13 +2907,13 @@ LR	por	em redor	adv	cat	al voltant	adv
 	por	em torno de	pr	cat	entorn de	pr
 	por	em troca de	pr	cat	en paga de	pr
 	por	em vez de	pr	cat	en comptes de	pr
-	por	embaixada	n$n-f-ND	cat	ambaixada	n$n-f
+	por	embaixada	n$n-f-ND	cat	ambaixada	n-f$n
 	por	embaixador	n$n-m-ND	cat	ambaixador	n$n-m
 	por	embaixo	adv	cat	sota	adv
 LR	por	baixo	adv	cat	sota	adv
 LR	por	embaixo de	pr	cat	sota	pr
 	por	embarcar	vblex	cat	embarcar	vblex
-	por	embarcação	n	cat	embarcació	n$n-f
+	por	embarcação	n	cat	embarcació	n-f$n
 	por	embargo	n$n-m	cat	embargament	n$n-m
 LR	por	embora	cnjadv	cat	encara que	cnjadv
 	por	embrião	n$n-m-ND	cat	embrió	n-m$n
@@ -2938,7 +2938,7 @@ LR	por	empenhar	vblex	cat	obstinar	vblex
 	por	empreender	vblex	cat	emprendre	vblex
 	por	empregar	vblex	cat	emprar	vblex
 LR	por	emprego	n$n-m$n-m-ND	cat	ocupació	n-f$n
-	por	empresa	n$n-f-ND	cat	empresa	n$n-f
+	por	empresa	n$n-f-ND	cat	empresa	n-f$n
 	por	empresarial	adj$adj-mf-ND	cat	empresarial	adj$adj-mf
 LR	por	emprestar	vblex	cat	prestar	vblex
 	por	empresário	n$n-m-ND	cat	empresari	n$n-f
@@ -2983,7 +2983,7 @@ RL	por	enfeitar	vblex	cat	adornar	vblex
 LR	por	enfermagem	n$n-f-ND	cat	infermeria	n-f$n
 	por	enfermaria	n	cat	infermeria	n-f$n
 	por	enfermeiro	n$n-m-ND	cat	infermer	n$n-m
-LR	por	enfermidade	n	cat	malaltia	n$n-f
+LR	por	enfermidade	n	cat	malaltia	n-f$n
 LR	por	enfermo	n	cat	malalt	n$n-m
 LR	por	enfim	adv	cat	finalment	adv
 	por	enfoque	n$n-m	cat	enfocament	n-m$n
@@ -3073,7 +3073,7 @@ RL	por	erro	n$n-m	cat	errada	n-f$n
 	por	erróneo	adj	cat	erroni	adj$
 LR	por	errôneo	adj	cat	erroni	adj$
 	por	erupção	n	cat	erupció	n-f$n
-	por	erva	n$n-f-ND	cat	herba	n$n-f
+	por	erva	n$n-f-ND	cat	herba	n-f$n
 	por	escada	n-f$n	cat	escala	n-f$n-f-pl$n
 	por	escalar	vblex	cat	escalar	vblex
 	por	escalonar	vblex	cat	escalonar	vblex
@@ -3106,7 +3106,7 @@ LR	por	escrita	n	cat	escriptura	n-f$n
 	por	escuela	n	cat	escuela	n
 	por	escurecer	vblex	cat	enfosquir	vblex
 LR	por	escuridade	n	cat	foscor	n$n-f$n-f-sg
-RL	por	escuridão	n	cat	fosca	n$n-f$n-f-sg
+RL	por	escuridão	n	cat	fosca	n-f$n$n-f-sg
 	por	escuridão	n	cat	foscor	n$n-f$n-f-sg
 	por	escuro	adj	cat	fosc	adj$
 RL	por	escuro	adj	cat	obscur	adj$
@@ -3121,7 +3121,7 @@ RL	por	escuro	adj	cat	obscur	adj$
 	por	esgrimir	vblex	cat	esgrimir	vblex
 	por	esmola	n	cat	almoina	n$n-f$n-f-pl
 	por	espacial	adj	cat	espacial	adj$adj-mf$
-	por	espada	n	cat	espasa	n$n-f$n-f-pl
+	por	espada	n	cat	espasa	n-f$n$n-f-pl
 	por	espanhol	adj$adj-GD-ND	cat	espanyol	adj$
 	por	espanhol	n$n-m	cat	espanyol	n$n-f
 LR	por	espantar	vblex	cat	espantar	vblex
@@ -3185,7 +3185,7 @@ LR	por	esse	prn$prn-tn	cat	aquest	prn$prn-tn-f$prn-tn$prn-tn-f-pl
 RL	por	esse	prn$prn-tn	cat	eixe	prn$prn-tn$prn-tn-f
 	por	estabelecer	vblex	cat	establir	vblex
 	por	estabelecimento	n$n-m-ND	cat	establiment	n-m$n
-	por	estabilidade	n$n-f-ND	cat	estabilitat	n$n-f$n-f-ND
+	por	estabilidade	n$n-f-ND	cat	estabilitat	n-f$n$n-f-ND
 	por	estacionamento	n	cat	aparcament	n-m$n
 	por	estacionar	vblex	cat	estacionar	vblex
 RL	por	estacionar	vblex	cat	aparcar	vblex
@@ -3265,7 +3265,7 @@ LR	por	estúdio	n$n-m	cat	estudi	n-m$n
 	por	estúpido	adj$adj-mf-sg	cat	estúpid	adj$
 	por	estúpido	n	cat	estúpid	n
 	por	esvaziar	vblex	cat	buidar	vblex
-	por	etapa	n$n-f-ND	cat	etapa	n$n-f
+	por	etapa	n$n-f-ND	cat	etapa	n-f$n
 	por	etarra	n	cat	etarra	n$n-mf
 	por	etarra	adj	cat	etarra	adj
 	por	etcétera	n	cat	etcètera	n-m$n
@@ -3287,11 +3287,11 @@ LR	por	evento	n$n-m-ND	cat	esdeveniment	n-m$n
 	por	eventualmente	adv	cat	eventualment	adv
 	por	evidente	adj	cat	evident	adj$adj-mf$
 	por	evidentemente	adv	cat	evidentment	adv
-	por	evidência	n$n-f-ND	cat	evidència	n$n-f
+	por	evidência	n$n-f-ND	cat	evidència	n-f$n
 	por	evitar	vblex	cat	evitar	vblex
 	por	evocar	vblex	cat	evocar	vblex
 	por	evoluir	vblex	cat	evolucionar	vblex
-	por	evolução	n$n-f-ND	cat	evolució	n$n-f
+	por	evolução	n$n-f-ND	cat	evolució	n-f$n
 	por	exactamente	adv	cat	exactament	adv
 	por	exactidão	n	cat	exactitud	n$n-f
 	por	exacto	adj$adj-m-sg	cat	exacte	adj-m-sg
@@ -3325,20 +3325,20 @@ LR	por	exceção	n	cat	excepció	n$n-f
 	por	excluir	vblex	cat	excloure	vblex
 	por	exclusivamente	adv	cat	exclusivament	adv
 	por	exclusivo	adj	cat	exclusiu	adj$
-	por	exclusão	n	cat	exclusió	n$n-f
-	por	execução	n$n-f-ND	cat	execució	n$n-f
+	por	exclusão	n	cat	exclusió	n-f$n
+	por	execução	n$n-f-ND	cat	execució	n-f$n
 	por	exemplo	n$n-m-ND	cat	exemple	n-m$n
 	por	exercer	vblex	cat	exercir	vblex
 	por	exercício	n$n-m$n-m-ND	cat	exercici	n-m$n
 	por	exibir	vblex	cat	exhibir	vblex
 	por	exigir	vblex	cat	exigir	vblex
-	por	exigência	n$n-f-ND	cat	exigència	n$n-f
+	por	exigência	n$n-f-ND	cat	exigència	n-f$n
 	por	exilado	n	cat	exiliat	n$$n-m
 	por	existente	adj	cat	existent	adj$adj-mf$
 	por	existir	vblex	cat	existir	vblex
-	por	existência	n$n-f-ND	cat	existència	n$n-f
-	por	expansão	n	cat	expansió	n$n-f
-	por	expectativa	n	cat	expectativa	n$n-f
+	por	existência	n$n-f-ND	cat	existència	n-f$n
+	por	expansão	n	cat	expansió	n-f$n
+	por	expectativa	n	cat	expectativa	n-f$n
 	por	expediente	n	cat	expedient	n-m$n
 	por	expedição	n	cat	expedició	n-f$n
 	por	experimentar	vblex	cat	experimentar	vblex
@@ -3360,7 +3360,7 @@ RL	por	exploração	n$n-f-ND	cat	exploració	n-f$n
 	por	exposição	n$n-f$n-f-ND	cat	exposició	n-f$n
 	por	expresar	vblex	cat	expresar	vblex
 	por	expressamente	adv	cat	expressament	adv
-	por	expressão	n$n-f-ND	cat	expressió	n$n-f
+	por	expressão	n$n-f-ND	cat	expressió	n-f$n
 	por	exprimir	vblex	cat	expressar	vblex
 	por	expulsar	vblex	cat	expulsar	vblex
 	por	expulsão	n	cat	expulsió	n-f$n
@@ -3420,10 +3420,10 @@ RL	por	fala	n$n-f$n-f-ND	cat	parlar	n-m$n
 	por	fala	n$n-f$n-f-ND	cat	parla	n-f$n
 	por	falar	vblex	cat	parlar	vblex
 LR	por	falecer	vblex	cat	morir	vblex
-	por	falha	n-f$n	cat	fallada	n-f$n
+	por	falha	n-f$n	cat	fallada	n-f
 	por	falhanço	n	cat	fracàs	n-m$n
 	por	falhar	vblex	cat	fallar	vblex
-	por	falsidade	n	cat	falsedat	n$n-f
+	por	falsidade	n	cat	falsedat	n-f$n
 	por	falsificação	n	cat	falsificació	n-f$n
 	por	falso	adj	cat	fals	adj$
 	por	falta	n$n-f-ND	cat	falta	n-f$n
@@ -3441,11 +3441,11 @@ LR	por	falecer	vblex	cat	morir	vblex
 	por	farmacêutico	adj	cat	farmacèutic	adj$
 	por	farmacêutico	n	cat	farmacèutic	n$n-m
 	por	farmácia	n	cat	farmàcia	n-f$n
-	por	farsa	n	cat	farsa	n$n-f
-LR	por	fartura	n$n-f	cat	abundància	n$n-f
+	por	farsa	n	cat	farsa	n-f$n
+LR	por	fartura	n$n-f	cat	abundància	n-f$n
 	por	fase	n$n-f-ND	cat	fase	n$n-f
 	por	fatal	adj$adj-mf	cat	fatal	adj$$adj-mf
-	por	fatalidade	n	cat	fatalitat	n$n-f
+	por	fatalidade	n	cat	fatalitat	n-f$n
 	por	fatigar	vblex	cat	fatigar	vblex
 	por	fato	n	cat	fet	n$n-m
 LR	por	fator	n	cat	factor	n-m$n
@@ -3472,7 +3472,7 @@ RL	por	fechar	vblex	cat	cloure	vblex
 LR	por	fedor	n	cat	pudor	n-m$n
 	por	feio	adj	cat	lleig	adj$
 	por	feira	n	cat	fira	n$n-f
-	por	felicidade	n	cat	felicitat	n$n-f$n-f-ND
+	por	felicidade	n	cat	felicitat	n-f$n$n-f-ND
 	por	felicitar	vblex	cat	felicitar	vblex
 RL	por	feliz	adj-mf$adj	cat	feliç	adj-f-pl$adj-f
 LR	por	feliz	adj-mf$adj	cat	feliç	adj-GD-pl$adj-GD
@@ -3497,7 +3497,7 @@ RL	por	ferro	n$n-m	cat	planxa	n-f$n
 	por	ferro	n$n-m	cat	ferro	n$n-m
 	por	ferroviário	adj	cat	ferroviari	adj$
 RL	por	festa	n$n-f$n-f-ND	cat	diada	n-f$n
-	por	festa	n$n-f$n-f-ND	cat	festa	n$n-f
+	por	festa	n$n-f$n-f-ND	cat	festa	n-f$n
 RL	por	festa	n$n-f$n-f-ND	cat	tabola	n-f$n
 	por	festejar	vblex	cat	festejar	vblex
 	por	festival	n$n-m-ND	cat	festival	n$n-m$n-m-sg
@@ -3512,7 +3512,7 @@ RL	por	fezes	n$n-f-pl	cat	femta	n-f-pl
 	por	ficha	n$n-f	cat	fitxa	n-f$n
 	por	ficção	n	cat	ficció	n-f$n
 	por	fidedignamente	adv	cat	fefaentment	adv
-	por	fidelidade	n	cat	fidelitat	n$n-f
+	por	fidelidade	n	cat	fidelitat	n-f$n
 	por	fiel	adj	cat	fidel	adj-mf$adj$
 	por	fielmente	adv	cat	fidelment	adv
 	por	fiesta	n	cat	fiesta	n
@@ -3530,7 +3530,7 @@ RL	por	fim	n-m$n$n-m-ND	cat	fi	n-m
 	por	fim	n-m$n$n-m-ND	cat	fi	n-f$n-f-sg$n
 	por	final	n	cat	final	n-m$n$
 	por	final	adj$adj-mf-ND	cat	final	adj$adj-mf
-	por	finalidade	n$n-f-ND	cat	finalitat	n$n-f$n-f-pl
+	por	finalidade	n$n-f-ND	cat	finalitat	n-f$n$n-f-pl
 	por	finalista	n	cat	finalista	n-mf$n
 	por	finalizar	vblex	cat	finalitzar	vblex
 	por	finalmente	adv	cat	finalment	adv
@@ -3553,8 +3553,8 @@ RL	por	firme	adj-mf$adj$adj-mf-ND	cat	ferm	adj-m
 	por	gelosia	n-f	cat	gelosia	n$n-f$n-f-sg
 	por	fita-cola	n-f$n	cat	cinta adhesiva	n-f
 	por	fixo	adj	cat	fix	adj$
-LR	por	flecha	n	cat	fletxa	n$n-f
-	por	flexibilidade	n	cat	flexibilitat	n$n-f$n-f-ND
+LR	por	flecha	n	cat	fletxa	n-f$n
+	por	flexibilidade	n	cat	flexibilitat	n-f$n$n-f-ND
 	por	flexível	adj	cat	flexible	adj$adj-mf$
 	por	flor	n$n-f-ND	cat	flor	n-f$n
 	por	floral	adj	cat	floral	adj$adj-mf$
@@ -3577,7 +3577,7 @@ RL	por	folha	n-f$n$n-f-ND	cat	full	n-m$n
 LR	por	folêgo	n	cat	alè	n-m$n
 	por	fome	n$n-f	cat	fam	n-f$n
 	por	fomentar	vblex	cat	fomentar	vblex
-	por	fonte	n	cat	font	n$n-f
+	por	fonte	n	cat	font	n-f$n
 RL	por	fora	adv	cat	al defora	adv
 	por	fora	adv	cat	fora	adv
 	por	forjar	vblex	cat	forjar	vblex
@@ -3595,7 +3595,7 @@ LR	por	formoso	adj$adj-GD-ND	cat	bell	adj$
 	por	forno	n	cat	forn	n-m$n
 	por	foro	n	cat	fòrum	n$n-m
 	por	fortalecer	vblex	cat	enfortir	vblex
-	por	fortaleza	n	cat	fortalesa	n$n-f
+	por	fortaleza	n	cat	fortalesa	n-f$n
 RL	por	forte	adj$adj-mf$adj-mf-ND	cat	fort	adj-f
 LR	por	forte	adj$adj-mf$adj-mf-ND	cat	fort	adj$adj-GD$
 RL	por	forte	adj$adj-mf$adj-mf-ND	cat	fort	adj-m
@@ -3625,7 +3625,7 @@ LR	por	fraco	adj-f	cat	feble	adj-mf$adj$
 	por	frango	n	cat	pollastre	n$n-m
 LR	por	franzino	adj	cat	prim	adj$$adj-sup
 	por	franzir	vblex	cat	frunzir	vblex
-	por	frase	n	cat	frase	n$n-f
+	por	frase	n	cat	frase	n-f$n
 LR	por	fratura	n	cat	fractura	n$n-f
 LR	por	fraturar	vblex	cat	fracturar	vblex
 	por	fraude	n$n-f	cat	frau	n-m$n
@@ -3637,10 +3637,10 @@ LR	por	frecuentar	vblex	cat	frecuentar	vblex
 	por	frequentar	vblex	cat	freqüentar	vblex
 	por	frequente	adj	cat	freqüent	adj$adj-mf$
 	por	frequentemente	adv	cat	freqüentment	adv
-	por	frequência	n	cat	freqüència	n$n-f
+	por	frequência	n	cat	freqüència	n-f$n
 LR	por	freqüente	adj	cat	freqüent	adj$adj-mf$
 LR	por	freqüentemente	adv	cat	freqüentment	adv
-LR	por	freqüência	n	cat	freqüència	n$n-f
+LR	por	freqüência	n	cat	freqüència	n-f$n
 	por	fresco	adj	cat	fresc	adj$$adj-f
 	por	frialdade	n	cat	fredor	n$n-f
 	por	friamente	adv	cat	fredament	adv
@@ -3677,7 +3677,7 @@ LR	por	fumante	adj-mf$adj	cat	fumador	adj$adj-GD
 	por	fundamentar	vblex	cat	fonamentar	vblex
 	por	fundamento	n$n-m-ND	cat	fonament	n-m$n
 	por	fundar	vblex	cat	fundar	vblex
-	por	fundação	n$n-f-ND	cat	fundació	n$n-f
+	por	fundação	n$n-f-ND	cat	fundació	n-f$n
 	por	fundir	vblex	cat	fondre	vblex
 RL	por	fundo	n-m-ND$n$n-m	cat	fons	n-m-sp$n-m$n
 LR	por	fundo	n-m-pl	cat	fons	n-m-sp$n-m$n
@@ -3689,18 +3689,18 @@ LR	por	fundo	adj	cat	profund	adj$
 	por	furar	vblex	cat	foradar	vblex
 	por	furia	n$n-f	cat	furia	n
 	por	furioso	adj	cat	furiós	adj$$adj-sup
-	por	fusão	n	cat	fusió	n$n-f
+	por	fusão	n	cat	fusió	n-f$n
 	por	futebol	n	cat	futbol	n-m$n$n-m-sg
 	por	futebolista	n	cat	futbolista	n-mf$n
 	por	futuro	n$n-m-ND	cat	futur	n-m$n
 	por	futuro	adj	cat	futur	adj$
 	por	fuzil	n$n-m	cat	fusell	n-m$n
 	por	fuzilar	vblex	cat	afusellar	vblex
-	por	fábrica	n	cat	fàbrica	n$n-f
+	por	fábrica	n	cat	fàbrica	n-f$n
 RL	por	fábrica	n	cat	factoria	n-f$n
 	por	fácil	adj$adj-mf-ND	cat	fàcil	adj$adj-mf$
 	por	fé	n$n-f-ND	cat	fe	n$n-f
-RL	por	férias	n	cat	vacacions	n$n-f-pl
+RL	por	férias	n	cat	vacacions	n-f-pl$n$n-f
 	por	férias	n	cat	vacances	n-f-pl$n$n-f
 	por	férreo	adj	cat	ferri	adj
 	por	físico	adj$adj-GD-ND	cat	físic	adj$
@@ -3732,7 +3732,7 @@ LR	por	galã	adj-mf$adj	cat	galà	adj-GD
 	por	moço	n	cat	noi	n-f$n
 RL	por	garoto	n$n-f-ND	cat	xic	n-f$n$
 LR	por	garra	n	cat	arpa	n-f$n
-	por	garrafa	n$n-f	cat	ampolla	n$n-f
+	por	garrafa	n$n-f	cat	ampolla	n-f$n
 RL	por	garrafa	n$n-f	cat	botella	n-f$n
 RL	por	gasolina	n-f$n$n-f-ND	cat	benzina	n-f$n
 	por	gasolina	n-f$n$n-f-ND	cat	gasolina	n-f$n
@@ -3773,8 +3773,8 @@ RL	por	gigantesco	adj	cat	gegantí	adj$
 	por	girar	vblex	cat	girar	vblex
 	por	giro	n	cat	gir	n-m$n
 	por	global	adj$adj-mf-ND	cat	global	adj$adj-mf$
-	por	globalização	n$n-f-ND	cat	globalització	n$n-f
-	por	glória	n	cat	glòria	n$n-f
+	por	globalização	n$n-f-ND	cat	globalització	n-f$n
+	por	glória	n	cat	glòria	n-f$n
 	por	gobernador	n	cat	gobernador	n
 	por	gobernar	vblex	cat	gobernar	vblex
 LR	por	gol	n	cat	gol	n-m$n$n-m-sg
@@ -3796,11 +3796,11 @@ LR	por	gozar	vblex	cat	gaudir	vblex
 	por	grado	n	cat	grado	n
 RL	por	grama	n-f$n	cat	gespa	n-f$n
 	por	grama	n-f$n	cat	gram	n-m$n
-	por	granada	n	cat	magrana	n$n-f
+	por	granada	n	cat	magrana	n-f$n
 	por	grande	adj$adj-mf-ND	cat	gran	adj-mf$adj$$adj-mf-sg
 	por	grandeza	n	cat	grandesa	n$n-f
 	por	granito	n	cat	granit	n-m$n
-	por	granja	n	cat	granja	n$n-f
+	por	granja	n	cat	granja	n-f$n
 	por	gratamente	adv	cat	gratament	adv
 	por	gratuitamente	adv	cat	gratuïtament	adv
 	por	gratuito	adj	cat	gratuït	adj$
@@ -3852,7 +3852,7 @@ LR	por	gênio	n	cat	geni	n$n-m
 	por	habilitar	vblex	cat	habilitar	vblex
 	por	habitante	n	cat	habitant	n-mf$n
 	por	habitar	vblex	cat	habitar	vblex
-	por	habitação	n	cat	habitació	n$n-f
+	por	habitação	n	cat	habitació	n-f$n
 	por	habitual	adj	cat	habitual	adj$adj-mf$
 	por	habitualmente	adv	cat	habitualment	adv
 	por	harpa	n	cat	arpa	n-f$n
@@ -3896,7 +3896,7 @@ RL	por	honra	n-f$n	cat	honor	n$n-m
 	por	honra	n-f$n	cat	honra	n-f$n
 	por	honradamente	adv	cat	honradament	adv
 	por	honrar	vblex	cat	honrar	vblex
-	por	hora	n$n-f-pl	cat	hora	n$n-f
+	por	hora	n$n-f-pl	cat	hora	n-f$n
 	por	horizonte	n	cat	horitzó	n$n-m
 	por	hormona	n-f$n	cat	hormona	n-f$n
 LR	por	hormônio	n-m$n	cat	hormona	n-f$n
@@ -3916,7 +3916,7 @@ RL	por	horrível	adj$adj-mf	cat	espantós	adj-f
 	por	hotel	n	cat	hotel	n-m$n$n-m-sg
 	por	hotelaria	n	cat	hostaleria	n$n-f$n-f-sg
 	por	huir	vblex	cat	huir	vblex
-	por	humanidade	n$n-f-ND	cat	humanitat	n$n-f$n-f-ND
+	por	humanidade	n$n-f-ND	cat	humanitat	n-f$n$n-f-ND
 	por	humanitário	adj$adj-GD-ND	cat	humanitari	adj$
 	por	humano	adj$adj-GD-ND	cat	humà	adj$
 	por	humilde	adj	cat	humil	adj$adj-mf$
@@ -3933,13 +3933,13 @@ RL	por	hóspede	n-mf$n	cat	hoste	n$n-f
 	por	húmido	adj	cat	humit	adj$
 LR	por	ibérico	adj	cat	ibèric	adj$
 	por	ibério	adj	cat	ibèric	adj$
-	por	ida	n$n-f	cat	anada	n$n-f
-	por	idade	n$n-f$n-f-ND	cat	edat	n$n-f$n-f-sg
+	por	ida	n$n-f	cat	anada	n-f$n
+	por	idade	n$n-f$n-f-ND	cat	edat	n-f$n$n-f-sg
 	por	ideal	adj	cat	ideal	adj$adj-mf$
 	por	ideia	n$n-f-ND	cat	idea	n$n-f
-	por	identidade	n$n-f-ND	cat	identitat	n$n-f$n-f-ND
+	por	identidade	n$n-f-ND	cat	identitat	n-f$n$n-f-ND
 	por	identificar	vblex	cat	identificar	vblex
-	por	identificação	n$n-f-ND	cat	identificació	n$n-f
+	por	identificação	n$n-f-ND	cat	identificació	n-f$n
 	por	ideología	n	cat	ideología	n
 	por	ideológicamente	adv	cat	ideològicament	adv
 	por	ideológico	adj	cat	ideològic	adj$
@@ -3950,7 +3950,7 @@ LR	por	ibérico	adj	cat	ibèric	adj$
 LR	por	idéia	n	cat	idea	n$n-f
 	por	idêntico	adj	cat	idèntic	adj$
 	por	ignorar	vblex	cat	ignorar	vblex
-	por	ignorância	n	cat	ignorància	n$n-f
+	por	ignorância	n	cat	ignorància	n-f$n
 	por	igreja	n$n-f-ND	cat	església	n-f$n
 	por	igual	adj	cat	igual	adj$adj-mf
 	por	igual	adv	cat	igual	adv$
@@ -3977,35 +3977,35 @@ LR	por	iluminar	vblex	cat	il·luminar	vblex
 	por	imenso	adj	cat	immens	adj$$adj-sup
 	por	imigrante	adj	cat	immigrant	adj$adj-mf
 	por	imigrante	n	cat	immigrant	n-mf$n
-	por	imigração	n$n-f-ND	cat	immigració	n$n-f
+	por	imigração	n$n-f-ND	cat	immigració	n-f$n
 	por	iminente	adj	cat	imminent	adj$adj-mf$
 	por	imitar	vblex	cat	imitar	vblex
 	por	imobiliária	n	cat	immobiliària	n$n-f
 	por	imortal	adj	cat	immortal	adj$adj-mf$
 	por	impacientar	vblex	cat	impacientar	vblex
-	por	impaciência	n	cat	impaciència	n$n-f
+	por	impaciência	n	cat	impaciència	n-f$n
 	por	impacto	n$n-m-ND	cat	impacte	n-m$n
 	por	imparcial	adj	cat	imparcial	adj$adj-mf$
 	por	impedir	vblex	cat	impedir	vblex
 	por	imperador	n$n-m$n-m-ND	cat	emperador	n$n-m
 	por	imperatriz	n-f	cat	emperador	n-f
 	por	implantar	vblex	cat	implantar	vblex
-	por	implantação	n	cat	implantació	n$n-f
+	por	implantação	n	cat	implantació	n-f$n
 	por	implicar	vblex	cat	implicar	vblex
 	por	impor	vblex	cat	imposar	vblex
 	por	importante	adj$adj-mf-ND	cat	important	adj$adj-mf$
 	por	importar	vblex	cat	importar	vblex
 	por	importação	n$n-f-ND	cat	importació	n-f$n
-	por	importância	n$n-f-ND	cat	importància	n$n-f
+	por	importância	n$n-f-ND	cat	importància	n-f$n
 	por	impossível	adj	cat	impossible	adj$adj-mf$
 	por	imposto	n	cat	impost	n$n-m$n-m-pl
 	por	impotente	adj	cat	impotent	adj$adj-mf
-	por	imprensa	n$n-f-ND	cat	premsa	n$n-f
+	por	imprensa	n$n-f-ND	cat	premsa	n-f$n
 	por	impresionar	vblex	cat	impresionar	vblex
 	por	impressionante	adj	cat	impressionant	adj$adj-mf$
 	por	impresso	adj	cat	imprès	adj
 	por	impresso	n	cat	imprès	n$n-m$n-m-pl
-	por	impressão	n	cat	impressió	n$n-f
+	por	impressão	n	cat	impressió	n-f$n
 RL	por	impressão	n	cat	petjada	n-f$n
 	por	imprevisto	n	cat	imprevist	n
 	por	imprevisto	adj	cat	imprevist	adj$
@@ -4041,7 +4041,7 @@ RL	por	inchar	vblex	cat	unflar	vblex
 	por	incidente	n$n-m-ND	cat	incident	n$n-m
 	por	incitar	vblex	cat	incitar	vblex
 	por	inclinar	vblex	cat	inclinar	vblex$vblex-pron
-	por	inclinação	n$n-f	cat	inclinació	n-f$n
+	por	inclinação	n$n-f	cat	inclinació	n-f
 	por	incluir	vblex	cat	incloure	vblex
 	por	inclusivamente	adv	cat	inclusivament	adv
 LR	por	inclusive	adv	cat	inclusivament	adv
@@ -4066,8 +4066,8 @@ RL	por	alimentar	adj-mf$adj$adj-mf-ND	cat	alimentari	adj-f
 	por	indefeso	adj	cat	indefens	adj
 	por	indefinido	adj	cat	indefinit	adj$
 	por	indemnizar	vblex	cat	indemnitzar	vblex
-	por	indemnização	n	cat	indemnització	n$n-f
-LR	por	indenização	n$n-f	cat	indemnització	n$n-f
+	por	indemnização	n	cat	indemnització	n-f$n
+LR	por	indenização	n$n-f	cat	indemnització	n-f$n
 	por	independente	adj$adj-mf-ND	cat	independent	adj$adj-mf$
 	por	independentemente	adv	cat	independentment	adv
 	por	independência	n$n-f-ND	cat	independència	n-f$n
@@ -4076,9 +4076,9 @@ LR	por	indenização	n$n-f	cat	indemnització	n$n-f
 	por	indicar	vblex	cat	indicar	vblex
 	por	indicação	n	cat	indicació	n-f$n
 	por	indiferente	adj	cat	indiferent	adj$adj-mf$
-	por	indiferença	n	cat	indiferència	n$n-f
+	por	indiferença	n	cat	indiferència	n-f$n
 	por	indignar	vblex	cat	indignar	vblex
-	por	indignação	n	cat	indignació	n$n-f
+	por	indignação	n	cat	indignació	n-f$n
 	por	indirectamente	adv	cat	indirectament	adv
 LR	por	indiretamente	adv	cat	indirectament	adv
 	por	indiscriminado	adj	cat	indiscriminat	adj
@@ -4111,16 +4111,16 @@ LR	por	infante	n	cat	infant	n-m$n
 	por	infinito	adj	cat	infinit	adj$
 	por	infinito	n	cat	infinit	n-m$n
 	por	inflamável	adj	cat	inflamable	adj$adj-mf$
-	por	inflação	n$n-f-ND	cat	inflació	n$n-f
+	por	inflação	n$n-f-ND	cat	inflació	n-f$n
 	por	influir	vblex	cat	influir	vblex
-	por	influência	n$n-f-ND	cat	influència	n$n-f
+	por	influência	n$n-f-ND	cat	influència	n-f$n
 	por	informal	adj	cat	informal	adj$adj-mf$
 	por	informar	vblex	cat	informar	vblex
 	por	informativo	adj$adj-GD-ND	cat	informatiu	adj$
 	por	informatizado	adj	cat	informatitzat	adj
 	por	informação	n$n-f$n-f-ND	cat	informació	n-f$n
 	por	informático	adj$adj-GD-ND	cat	informàtic	adj$
-	por	infra-estrutura	n$n-f-ND	cat	infraestructura	n$n-f
+	por	infra-estrutura	n$n-f-ND	cat	infraestructura	n-f$n
 	por	infracção	n	cat	infracció	n-f$n
 LR	por	infração	n	cat	infracció	n-f$n
 	por	infrequente	adj	cat	infreqüent	adj$adj-mf
@@ -4145,19 +4145,19 @@ LR	por	ingênuo	adj	cat	ingenu	adj$
 	por	injustiça	n	cat	injustícia	n-f$n
 	por	injusto	adj	cat	injust	adj$$adj-sup
 	por	inocente	adj$adj-mf-ND	cat	innocent	adj$adj-mf$
-	por	inocência	n	cat	innocència	n$n-f
+	por	inocência	n	cat	innocència	n-f$n
 	por	inovador	adj	cat	innovador	adj
-	por	inovação	n$n-f-ND	cat	innovació	n$n-f
+	por	inovação	n$n-f-ND	cat	innovació	n-f$n
 	por	inquietar	vblex	cat	inquietar	vblex
 	por	inquieto	adj	cat	inquiet	adj$
 	por	inquietude	n	cat	inquietud	n$n-f$n-f-pl
 	por	inquirir	vblex	cat	inquirir	vblex
 LR	por	inquérito	n$n-m	cat	interrogatori	n-m$n
-LR	por	insanidade	n$n-f	cat	demència	n$n-f
+LR	por	insanidade	n$n-f	cat	demència	n-f$n
 	por	inscrever	vblex	cat	inscriure	vblex
-	por	inscrição	n$n-f-ND	cat	inscripció	n$n-f
+	por	inscrição	n$n-f-ND	cat	inscripció	n-f$n
 	por	insecto	n	cat	insecte	n$n-m
-	por	insegurança	n$n-f-ND	cat	inseguretat	n$n-f
+	por	insegurança	n$n-f-ND	cat	inseguretat	n-f$n
 	por	inseguro	adj	cat	insegur	adj$
 LR	por	inseto	n	cat	insecte	n$n-m
 	por	insignia	n	cat	insignia	n
@@ -4181,13 +4181,13 @@ LR	por	inspeção	n	cat	inspecció	n-f$n
 	por	instaurar	vblex	cat	instaurar	vblex
 	por	instinto	n	cat	instint	n-m$n
 	por	institucional	adj$adj-mf-ND	cat	institucional	adj$adj-mf$
-	por	instituição	n$n-f-ND	cat	institució	n$n-f
+	por	instituição	n$n-f-ND	cat	institució	n-f$n
 	por	instituto	n$n-m-ND	cat	institut	n-m$n
 	por	instruir	vblex$vblex-pp-GD-ND	cat	instruir	vblex
 	por	instrumento	n$n-m-ND	cat	instrument	n-m$n
-	por	instrução	n	cat	instrucció	n$n-f
+	por	instrução	n	cat	instrucció	n-f$n
 	por	instável	adj	cat	inestable	adj$adj-mf$
-	por	instância	n$n-f	cat	instància	n$n-f
+	por	instância	n$n-f	cat	instància	n-f$n
 	por	insuficiente	adj	cat	insuficient	adj$adj-mf$
 	por	insuficientemente	adv	cat	insuficientment	adv
 	por	insultar	vblex	cat	insultar	vblex
@@ -4211,15 +4211,15 @@ RL	por	intacto	adj-GD-pl	cat	intacte	adj-mf-pl$adj$
 	por	intelectual	adj$adj-mf-ND	cat	intel·lectual	adj$adj-mf$
 	por	inteligente	adj	cat	intel·ligent	adj$adj-mf$
 	por	inteligência	n	cat	intel·ligència	n$n-f
-	por	intensidade	n	cat	intensitat	n$n-f$n-f-ND
+	por	intensidade	n	cat	intensitat	n-f$n$n-f-ND
 	por	intensificar	vblex	cat	intensificar	vblex$vblex-pron
 	por	intensivo	adj$adj-GD-ND	cat	intensiu	adj$
 	por	intenso	adj	cat	intens	adj$$adj-sup
 	por	intenção	n$n-f-ND	cat	intenció	n-f$n
 	por	interactivo	adj	cat	interactiu	adj$
-	por	interacção	n$n-f-ND	cat	interacció	n$n-f
+	por	interacção	n$n-f-ND	cat	interacció	n-f$n
 	por	interanual	adj	cat	interanual	adj$adj-mf
-LR	por	interação	n	cat	interacció	n$n-f
+LR	por	interação	n	cat	interacció	n-f$n
 	por	interceptar	vblex	cat	interceptar	vblex
 	por	intercâmbio	n$n-m-ND	cat	intercanvi	n-m$n
 	por	interesar	vblex	cat	interesar	vblex
@@ -4249,17 +4249,17 @@ RL	por	internar	vblex	cat	internar	vblex
 	por	intervenção	n$n-f-ND	cat	intervenció	n-f$n
 	por	intervir	vblex	cat	intervenir	vblex
 	por	intimidar	vblex	cat	intimidar	vblex
-	por	intimidação	n	cat	intimidació	n$n-f
+	por	intimidação	n	cat	intimidació	n-f$n
 	por	intolerável	adj	cat	intolerable	adj$adj-mf$
 	por	intolerância	n	cat	intolerància	n-f$n
 	por	introduzir	vblex	cat	introduir	vblex
-	por	introdução	n$n-f-ND	cat	introducció	n$n-f
+	por	introdução	n$n-f-ND	cat	introducció	n-f$n
 	por	intérprete	n	cat	intèrpret	n-mf$n
 	por	inumerável	adj	cat	innombrable	adj$adj-mf$
 	por	inundar	vblex	cat	inundar	vblex$vblex-pron
-	por	inundação	n$n-f-ND	cat	inundació	n$n-f
+	por	inundação	n$n-f-ND	cat	inundació	n-f$n
 	por	invadir	vblex	cat	envair	vblex
-	por	invasão	n$n-f-ND	cat	invasió	n$n-f
+	por	invasão	n$n-f-ND	cat	invasió	n-f$n
 	por	inveja	n$n-f-ND	cat	enveja	n$n-f$n-f-sg
 	por	invejar	vblex	cat	envejar	vblex
 	por	inventar	vblex	cat	inventar	vblex
@@ -4301,11 +4301,11 @@ RL	por	ir	vblex	cat	acudir	vblex
 	por	irlandês	n$n-m	cat	irlandès	n$n-m
 	por	irmão	n$n-m$n-m-pl	cat	germà	n$n-f
 	por	irregular	adj	cat	irregular	adj-mf$adj$
-	por	irregularidade	n$n-f-ND	cat	irregularitat	n$n-f
+	por	irregularidade	n$n-f-ND	cat	irregularitat	n-f$n
 	por	irremediavelmente	adv	cat	irremeiablement	adv
 	por	irresponsavelmente	adv	cat	irresponsablement	adv
 	por	irritar	vblex	cat	irritar	vblex
-	por	irritação	n	cat	irritació	n$n-f
+	por	irritação	n	cat	irritació	n-f$n
 	por	irromper	vblex	cat	irrompre	vblex
 	por	irónico	adj	cat	irònic	adj$
 LR	por	irônico	adj	cat	irònic	adj$
@@ -4373,9 +4373,9 @@ LR	por	juro	n	cat	interès	n-m$n
 	por	jurídico	adj$adj-GD-ND	cat	jurídic	adj$
 	por	justamente	adv	cat	justament	adv
 	por	justificar	vblex	cat	justificar	vblex
-	por	justificativa	n	cat	justificació	n$n-f
-LR	por	justificação	n	cat	justificació	n$n-f
-	por	justiça	n$n-f-ND	cat	justícia	n$n-f
+	por	justificativa	n	cat	justificació	n-f$n
+LR	por	justificação	n	cat	justificació	n-f$n
+	por	justiça	n$n-f-ND	cat	justícia	n-f$n
 	por	justo	adj$adj-GD$adj-GD-ND	cat	just	adj$$adj-sup
 	por	justo	adv	cat	just	adv
 	por	juvenil	adj	cat	juvenil	adj$adj-mf$
@@ -4434,19 +4434,19 @@ RL	por	largo	adj-GD-pl	cat	ample	adj-mf-pl$adj$
 	por	lazer	n	cat	oci	n-m$n
 	por	laço	n$n-m$n-m-ND	cat	llaç	n-m$n
 RL	por	laço	n$n-m$n-m-ND	cat	trossa	n-f$n
-	por	lealdade	n	cat	lleialtat	n$n-f
+	por	lealdade	n	cat	lleialtat	n-f$n
 	por	legado	n	cat	llegat	n-m$n
 	por	legal	adj$adj-mf-ND	cat	legal	adj$adj-mf$
-	por	legalidade	n	cat	legalitat	n$n-f
+	por	legalidade	n	cat	legalitat	n-f$n
 	por	legalizar	vblex	cat	legalitzar	vblex
 	por	legalmente	adv	cat	legalment	adv
 	por	legar	vblex	cat	llegar	vblex
 	por	legislador	n	cat	legislador	n$n-f$
 	por	legislativo	adj$adj-GD-ND	cat	legislatiu	adj$
 	por	legislatura	n	cat	legislatura	n-f$n
-	por	legislação	n$n-f-ND	cat	legislació	n$n-f
+	por	legislação	n$n-f-ND	cat	legislació	n-f$n
 	por	legitimamente	adv	cat	legítimament	adv
-	por	legitimidade	n$n-f-ND	cat	legitimitat	n$n-f
+	por	legitimidade	n$n-f-ND	cat	legitimitat	n-f$n
 	por	legítimo	adj	cat	legítim	adj$
 	por	lei	n$n-f-ND	cat	llei	n$n-f
 LR	por	leigo	adj	cat	laic	adj$
@@ -4454,7 +4454,7 @@ LR	por	leigo	adj	cat	laic	adj$
 	por	leite	n-m$n	cat	llet	n-f$n
 	por	leito	n	cat	jaç	n-m$n
 	por	leitor	n	cat	lector	n$n-m
-	por	leitura	n$n-f-ND	cat	lectura	n$n-f
+	por	leitura	n$n-f-ND	cat	lectura	n-f$n
 	por	lema	n$n-m	cat	lema	n-m$n
 	por	lembrança	n-f$n	cat	record	n-m$n
 	por	lembrar	vblex	cat	acordar	vblex
@@ -4468,7 +4468,7 @@ LR	por	leigo	adj	cat	laic	adj$
 	por	leque	n	cat	ventall	n-m$n
 	por	ler	vblex	cat	llegir	vblex
 LR	por	lestamente	adv	cat	lleugerament	adv
-	por	lesão	n	cat	lesió	n$n-f
+	por	lesão	n	cat	lesió	n-f$n
 	por	letal	adj	cat	letal	adj$adj-mf$
 	por	letra	n	cat	lletra	n-f$n$n-f-pl
 	por	letreiro	n	cat	rètol	n-m$n
@@ -4501,14 +4501,14 @@ LR	por	libertar	vblex	cat	alliberar	vblex
 LR	por	lida	n-f$n	cat	feina	n-f$n
 	por	liderança	n-f$n-f-ND	cat	lideratge	n-m$n
 	por	liderar	vblex	cat	liderar	vblex
-	por	liga	n	cat	colla	n$n-f
+	por	liga	n	cat	colla	n-f$n
 LR	por	ligar	vblex	cat	connectar	vblex
 LR	por	ligação	n$n-f-ND	cat	connexió	n-f$n
 	por	ligeiramente	adv	cat	lleugerament	adv
 	por	ligeiro	adj	cat	lleuger	adj$
 LR	por	limiar	n	cat	llindar	n-m$n
 	por	limitar	vblex$vblex-pp-GD-ND	cat	limitar	vblex
-	por	limitação	n$n-f-ND	cat	limitació	n$n-f
+	por	limitação	n$n-f-ND	cat	limitació	n-f$n
 	por	limite	n$n-m$n-m-ND	cat	límit	n-m$n
 	por	limpar	vblex	cat	netejar	vblex
 RL	por	limpar	vblex	cat	torcar	vblex
@@ -4525,7 +4525,7 @@ LR	por	lingüístico	adj	cat	lingüístic	adj$
 	por	listar	vblex	cat	llistar	vblex
 	por	liteira	n	cat	llitera	n$n-f
 	por	literalmente	adv	cat	literalment	adv
-	por	literatura	n$n-f$n-f-ND	cat	literatura	n$n-f
+	por	literatura	n$n-f$n-f-ND	cat	literatura	n-f$n
 	por	literário	adj$adj-GD-ND	cat	literari	adj$
 	por	litoral	n	cat	litoral	n-m$n
 	por	litoral	adj	cat	litoral	adj$adj-mf
@@ -4561,18 +4561,18 @@ RL	por	longitude	n$n-f	cat	llargària	n-f$n
 	por	longitude	n$n-f	cat	longitud	n-f$n
 	por	longo	adj$adj-GD-ND	cat	llarg	adj$
 	por	longínquo	adj	cat	llunyà	adj$
-	por	lonjura	n	cat	llunyania	n$n-f
+	por	lonjura	n	cat	llunyania	n-f$n
 	por	louco	adj	cat	boig	adj$
 	por	loucura	n	cat	bogeria	n-f$n
 	por	lousa	n	cat	llosa	n$n-f
 	por	lua	n	cat	lluna	n$n-f
 	por	lucidez	n	cat	lucidesa	n-f$n
-	por	lucro	n	cat	assoliment	n$n-m
+	por	lucro	n	cat	assoliment	n-m$n
 RL	por	lucro	n	cat	lucre	n-m$n
 RL	por	lugar	n$n-m$n-m-ND	cat	indret	n$n-m
 	por	lugar	n$n-m$n-m-ND	cat	lloc	n-m$n
 RL	por	lugar	n$n-m$n-m-ND	cat	paratge	n$n-m
-	por	lume	n-m$n	cat	flama	n$n-f
+	por	lume	n-m$n	cat	flama	n-f$n
 RL	por	lume	n-m$n	cat	llama	n-f$n
 	por	luminosidade	n	cat	lluminositat	n-f$n$n-f-ND
 	por	luminoso	adj	cat	lluminós	adj$
@@ -4590,14 +4590,14 @@ RL	por	luz	n-f$n$n-f-ND	cat	llum	n-m$n
 	por	lá	adv	cat	allà	adv
 	por	lábio	n$n-m$n-m-ND	cat	llavi	n-m$n$n-m-sg
 	por	lágrima	n$n-f	cat	llàgrima	n-f$n
-	por	lástima	n$n-f	cat	llàstima	n$n-f$n-f-pl
+	por	lástima	n$n-f	cat	llàstima	n-f$n$n-f-pl
 	por	légua	n	cat	llegua	n$n-f
 	por	lícito	adj	cat	lícit	adj
 	por	líder	n$n-mf-ND	cat	líder	n-mf$n
-	por	língua	n$n-f-ND$n-f	cat	llengua	n$n-f
+	por	língua	n$n-f-ND$n-f	cat	llengua	n-f$n
 	por	líquido	n	cat	líquid	n-m$n$n-m-ND
 	por	líquido	adj	cat	líquid	adj$
-	por	lógica	n	cat	lògica	n$n-f
+	por	lógica	n	cat	lògica	n-f$n
 	por	lógico	adj	cat	lògic	adj$
 	por	lúdico	adj	cat	lúdic	adj$
 	por	m	n$n-m-sp	cat	m	n-m-sp
@@ -4637,21 +4637,21 @@ RL	por	maestro	n-GD-pl	cat	mestre	n-mf-pl$n
 	por	magro	adj	cat	flac	adj$
 	por	maio	n$n-m$n-m-ND	cat	maig	n$n-m
 	por	maior	adj	cat	major	adj$adj-mf$
-	por	maioria	n	cat	majoria	n$n-f$n-f-sg
+	por	maioria	n	cat	majoria	n-f$n$n-f-sg
 	por	maioritariamente	adv	cat	majoritàriament	adv
 	por	maioritário	adj	cat	majoritari	adj$
 	por	mais	adv	cat	més	adv
 	por	maiúsculo	adj	cat	majúscul	adj
 LR	por	majoritário	adj	cat	majoritari	adj$
-	por	mal	n	cat	mal	n$n-m$n-m-sg
+	por	mal	n	cat	mal	n-m$n$n-m-sg
 	por	mal	adv	cat	tot just	adv
 RL	por	mal	adv	cat	malament	adv
 	por	mal-estar	n	cat	malestar	n$n-m
-	por	mala	n	cat	maleta	n$n-f
+	por	mala	n	cat	maleta	n-f$n
 	por	maldade	n	cat	maldat	n-f$n
 	por	maldito	adj	cat	maleït	adj$
 	por	maldição	n	cat	maledicció	n-f$n
-LR	por	maleta	n	cat	maleta	n$n-f
+LR	por	maleta	n	cat	maleta	n-f$n
 	por	malha	n$n-f	cat	malla	n-f$n
 	por	malicia	n	cat	malicia	n
 	por	maligno	adj$adj-m-sg	cat	maligne	adj-m-sg
@@ -4672,15 +4672,15 @@ LR	por	manchete	n-m	cat	titular	n-mf$n
 RL	por	mandato	n$n-m$n-m-ND	cat	manament	n-m$n
 	por	mandato	n$n-m$n-m-ND	cat	mandat	n$n-m
 	por	mandatário	n	cat	mandatari	n$n-m
-	por	maneira	n	cat	manera	n$n-f$n-f-pl
+	por	maneira	n	cat	manera	n-f$n$n-f-pl
 	por	manejar	vblex	cat	manejar	vblex
 	por	manhã	n$n-f	cat	matí	n-m$n
 	por	manifestante	n	cat	manifestant	n-mf$n
 	por	manifestar	vblex	cat	manifestar	vblex$vblex-pron
 	por	manifestação	n$n-f-ND	cat	manifestació	n-f$n
 	por	manipular	vblex	cat	manipular	vblex
-	por	manipulação	n$n-f-ND	cat	manipulació	n$n-f
-	por	manobra	n	cat	maniobra	n$n-f
+	por	manipulação	n$n-f-ND	cat	manipulació	n-f$n
+	por	manobra	n	cat	maniobra	n-f$n
 	por	mansão	n$n-f	cat	mansió	n-f$n
 	por	manter	vblex	cat	mantenir	vblex
 	por	manto	n	cat	mantell	n-m$n
@@ -4705,7 +4705,7 @@ RL	por	marcar	vblex	cat	concertar	vblex
 	por	marco	n	cat	marc	n-m$n
 	por	margem	n-f$n	cat	marge	n-m$n
 	por	marginar	vblex	cat	marginar	vblex
-	por	marido	n$n-m$n-m-ND	cat	marit	n$n-m
+	por	marido	n$n-m$n-m-ND	cat	marit	n-m$n
 	por	marinheiro	n	cat	mariner	n$n-m$
 RL	por	marinho	adj$adj-GD-ND	cat	marès	adj$
 	por	marinho	adj$adj-GD-ND	cat	marí	adj$
@@ -4750,11 +4750,11 @@ LR	por	mecha	n	cat	metxa	n-f$n
 	por	mediador	adj	cat	mediador	adj
 	por	mediamente	adv	cat	mitjanament	adv
 	por	mediante	pr	cat	mitjançant	pr
-	por	mediação	n$n-f	cat	mediació	n$n-f
+	por	mediação	n$n-f	cat	mediació	n-f$n
 	por	medicamento	n$n-m-ND	cat	medicament	n-m$n
-	por	medicina	n$n-f-ND	cat	medicina	n$n-f
-	por	medida	n	cat	mesura	n$n-f
-RL	por	medida	n	cat	mida	n$n-f
+	por	medicina	n$n-f-ND	cat	medicina	n-f$n
+	por	medida	n	cat	mesura	n-f$n
+RL	por	medida	n	cat	mida	n-f$n
 	por	medir	vblex	cat	mesurar	vblex
 	por	meditar	vblex	cat	meditar	vblex
 	por	mediático	adj	cat	mediàtic	adj$
@@ -4777,12 +4777,12 @@ RL	por	meio dia	n	cat	migjorn	n-m$n
 	por	mel	n-m$n	cat	mel	n-f$n
 	por	melancolia	n	cat	malenconia	n-f$n
 	por	melancólico	adj	cat	malenconiós	adj$$adj-sup
-	por	melhora	n	cat	millora	n$n-f
+	por	melhora	n	cat	millora	n-f$n
 	por	melhorar	vblex	cat	millorar	vblex
 	por	melhoria	n$n-f	cat	millorança	n$n-f
 	por	melodía	n	cat	melodía	n
 	por	membro	n$n-m-ND	cat	membre	n$n-mf$
-	por	memória	n$n-f-ND	cat	memòria	n$n-f$n-f-pl
+	por	memória	n$n-f-ND	cat	memòria	n-f$n$n-f-pl
 	por	mencionar	vblex	cat	esmentar	vblex
 LR	por	mendigo	n$n-f	cat	captaire	n-mf$n
 RL	por	mendigo	n-GD	cat	captaire	n-mf$n
@@ -4819,10 +4819,10 @@ LR	por	mesmo	adv	cat	encara	adv
 	por	mesmo assim	cnjadv	cat	tot i així	cnjadv
 RL	por	mesmo assim	cnjadv	cat	tot i això	cnjadv
 LR	por	mesmo que	cnjadv	cat	encara que	cnjadv
-	por	meta	n$n-f	cat	meta	n$n-f
+	por	meta	n$n-f	cat	meta	n-f$n
 RL	por	meta	n$n-f	cat	fita	n-f$n
 	por	metade	n$n-f$n-f-ND	cat	meitat	n$n-f$n-f-ND
-RL	por	metade	n$n-f$n-f-ND	cat	mitat	n$n-f$n-f-sg
+RL	por	metade	n$n-f$n-f-ND	cat	mitat	n-f$n$n-f-sg
 	por	metal	n	cat	metall	n$n-m
 	por	meteorológico	adj	cat	meteorològic	adj$
 	por	meter	vblex	cat	ficar	vblex
@@ -4872,7 +4872,7 @@ RL	por	mirada	n-f$n	cat	esguard	n-m$n
 	por	mirada	n-f$n	cat	mirada	n-f$n
 	por	misa	n	cat	misa	n
 	por	misil	n	cat	misil	n
-	por	missão	n$n-f-ND	cat	missió	n$n-f
+	por	missão	n$n-f-ND	cat	missió	n-f$n
 	por	misterioso	adj	cat	misteriós	adj$$adj-sup
 	por	misto	adj	cat	mixt	adj$
 	por	mistura	n$n-f	cat	barreja	n-f$n
@@ -4894,7 +4894,7 @@ RL	por	misturar	vblex	cat	mesclar	vblex
 	por	modesto	adj	cat	modest	adj$$adj-sup
 	por	modificar	vblex	cat	modificar	vblex
 	por	modificação	n$n-f-ND	cat	modificació	n$n-f
-LR	por	modo	n-m$n	cat	manera	n$n-f$n-f-pl
+LR	por	modo	n-m$n	cat	manera	n-f$n$n-f-pl
 RL	por	modo	n-m$n	cat	mode	n-m
 	por	moeda	n	cat	moneda	n-f$n
 	por	molestar	vblex	cat	molestar	vblex$vblex-pron
@@ -4935,7 +4935,7 @@ RL	por	morte	n-f$n	cat	defunció	n-f
 	por	morte	n-f$n	cat	mort	n-f$$n
 	por	morto	adj	cat	mort	adj
 	por	morteiro	n	cat	morter	n$n-m
-	por	mosca	n$n-f-ND	cat	mosca	n$n-f
+	por	mosca	n$n-f-ND	cat	mosca	n-f$n
 	por	mosquito	n$n-m$n-m-ND	cat	mosquit	n-m$n
 	por	mostrar	vblex	cat	mostrar	vblex
 LR	por	mota	n	cat	moto	n$n-f
@@ -4967,12 +4967,12 @@ RL	por	muito	adv	cat	gaire	adv
 RL	por	muito	preadv	cat	gaire	preadv
 	por	muito	preadv	cat	molt	preadv
 	por	mulher	n$n-f$n-f-ND	cat	dona	n-f$n
-RL	por	mulher	n$n-f$n-f-ND	cat	muller	n$n-f
+RL	por	mulher	n$n-f$n-f-ND	cat	muller	n-f$n
 	por	multa	n$n-f-ND	cat	multa	n$n-f
-RL	por	multidão	n	cat	munió	n$n-f
+RL	por	multidão	n	cat	munió	n-f$n
 	por	multidão	n	cat	multitud	n$n-f
 	por	multimédia	adj	cat	multimèdia	adj$adj-mf-sp$$adj-mf
-	por	nada	n$n-m	cat	no-res	n$n-m$n-m-sg
+	por	nada	n$n-m	cat	no-res	n-m$n$n-m-sg
 LR	por	multimídia	adj	cat	multimèdia	adj$adj-mf-sp$$adj-mf
 	por	multinacional	n	cat	multinacional	n-f$n
 	por	multinacional	adj	cat	multinacional	adj$adj-mf
@@ -4993,10 +4993,10 @@ LR	por	multimídia	adj	cat	multimèdia	adj$adj-mf-sp$$adj-mf
 	por	muçulmano	adj	cat	musulmà	adj$
 	por	máfia	n	cat	màfia	n$n-f
 	por	mágico	adj	cat	màgic	adj$
-	por	máquina	n$n-f-ND	cat	màquina	n$n-f
+	por	máquina	n$n-f-ND	cat	màquina	n-f$n
 	por	máscara	n$n-f	cat	màscara	n-f$n
 	por	máximo	adj$adj-GD-ND	cat	màxim	adj$
-	por	mãe	n$n-f	cat	mare	n$n-f
+	por	mãe	n$n-f	cat	mare	n-f$n
 	por	mão	n$n-f$n-f-ND	cat	mà	n-f$n
 	por	média	n$n-f	cat	mitjana	n-f$n
 LR	por	médico	n$n-f	cat	metge	n-mf
@@ -5020,7 +5020,7 @@ LR	por	múltiplo	adj-m	cat	múltiple	adj$adj-mf$
 	por	mútuo	adj	cat	mutu	adj$adj-GD$
 	por	n	n-m$n	cat	n	n$n-f
 	por	nacional	adj$adj-mf-ND	cat	nacional	adj$adj-mf$
-	por	nacionalidade	n	cat	nacionalitat	n$n-f
+	por	nacionalidade	n	cat	nacionalitat	n-f$n
 	por	nacionalismo	n	cat	nacionalisme	n-m$n
 	por	nada	adv	cat	gens	adv
 	por	nada	prn-tn-nt$prn-tn	cat	res	prn$prn-tn-nt$prn-tn
@@ -5039,7 +5039,7 @@ LR	por	namorar	vblex	cat	enamorar	vblex$vblex-pron
 	por	natal	adj	cat	natal	adj$adj-mf$
 	por	natural	adj$adj-mf-ND	cat	natural	adj$adj-mf$
 	por	naturalmente	adv	cat	naturalment	adv
-	por	natureza	n	cat	naturalesa	n$n-f
+	por	natureza	n	cat	naturalesa	n-f$n
 	por	naufragar	vblex	cat	naufragar	vblex
 	por	naufrágio	n	cat	naufragi	n-m$n
 	por	naval	adj$adj-mf-ND	cat	naval	adj$$adj-mf
@@ -5049,7 +5049,7 @@ LR	por	namorar	vblex	cat	enamorar	vblex$vblex-pron
 	por	navegante	adj	cat	navegant	adj$adj-mf
 	por	navegante	n	cat	navegant	n-mf$n
 	por	navegar	vblex	cat	navegar	vblex
-	por	navegação	n	cat	navegació	n$n-f
+	por	navegação	n	cat	navegació	n-f$n
 	por	navio	n	cat	buc	n-m$n
 	por	nazismo	n$n-m	cat	nazisme	n-m$n
 	por	nazista	n	cat	nazi	n-mf$n$
@@ -5063,7 +5063,7 @@ LR	por	necesitar	vblex	cat	necesitar	vblex
 	por	negativamente	adv	cat	negativament	adv
 	por	negativo	adj$adj-GD-ND	cat	negatiu	adj$
 	por	negociar	vblex	cat	negociar	vblex
-	por	negociação	n$n-f-ND	cat	negociació	n$n-f
+	por	negociação	n$n-f-ND	cat	negociació	n-f$n
 	por	negro	adj$adj-m-sg	cat	negre	adj-m-sg
 	por	negro	adj-f-sg	cat	negre	adj-f-sg
 LR	por	negro	adj-m-pl	cat	negre	adj-mf-pl$adj$
@@ -5109,7 +5109,7 @@ RL	por	no final de	pr	cat	a finals de	pr
 RL	por	no meio de	pr	cat	a la meitat de	pr
 	por	nobre	adj	cat	noble	adj$adj-mf$
 	por	nobre	n	cat	noble	n$n-mf
-	por	nobreza	n	cat	noblesa	n$n-f$n-f-sg
+	por	nobreza	n	cat	noblesa	n-f$n$n-f-sg
 	por	nocturno	adj	cat	nocturn	adj$
 RL	por	nodo	n	cat	nuc	n$n-m
 	por	nodo	n	cat	nus	n-m$n
@@ -5156,12 +5156,12 @@ LR	por	noturno	adj	cat	nocturn	adj$
 	por	novela	n	cat	novel·la	n-f$n
 	por	novembro	n$n-m$n-m-ND	cat	novembre	n$n-m
 	por	noventa	num$num-mf-sp	cat	noranta	num$$num-mf-sp
-	por	novidade	n	cat	novetat	n$n-f
+	por	novidade	n	cat	novetat	n-f$n
 	por	novo	adj$adj-GD-ND	cat	nou	adj$
 	por	noz	n	cat	nou	n-f$n$n-f-ND
 	por	noção	n	cat	noció	n-f$n
 	por	nuca	n$n-f	cat	clatell	n-m$n
-RL	por	nuca	n$n-f	cat	clotell	n-m$n
+RL	por	nuca	n$n-f	cat	clotell	n-m
 	por	nuclear	adj	cat	nuclear	adj$adj-mf$
 	por	numeroso	adj	cat	nombrós	adj$$adj-sup
 	por	nunca	adv	cat	mai	adv
@@ -5219,7 +5219,7 @@ RL	por	vosso	adj-pos-GD	cat	vostre	adj-pos-mf-pl$adj$adj-pos$$adj-pos-mf
 LR	por	objetivo	n-m$n	cat	objectiu	n-m$n$
 LR	por	objetivo	adj	cat	objectiu	adj
 LR	por	objeto	n$n-m	cat	objecte	n-m$n
-	por	obra	n$n-f$n-f-ND	cat	obra	n$n-f
+	por	obra	n$n-f$n-f-ND	cat	obra	n-f$n
 	por	obrigar	vblex	cat	obligar	vblex
 	por	obrigatoriamente	adv	cat	obligatòriament	adv
 	por	obrigatório	adj$adj-GD-ND	cat	obligatori	adj$
@@ -5227,7 +5227,7 @@ LR	por	objeto	n$n-m	cat	objecte	n-m$n
 	por	obsedar	vblex	cat	obsessionar	vblex$vblex-pron
 	por	observador	n$n-m-ND	cat	observador	n$n-m
 	por	observar	vblex	cat	observar	vblex
-	por	observação	n$n-f-ND	cat	observació	n$n-f
+	por	observação	n$n-f-ND	cat	observació	n-f$n
 	por	obstinar	vblex	cat	obstinar	vblex
 	por	obstinação	n	cat	obstinació	n-f$n
 	por	obstáculo	n$n-m-ND	cat	obstacle	n-m$n
@@ -5258,8 +5258,8 @@ LR	por	oco	n	cat	buit	n$n-m$n-m-ND
 	por	ofensa	n$n-f	cat	ofensa	n-f$n
 	por	ofensivo	adj	cat	ofensiu	adj$
 	por	oferecer	vblex	cat	oferir	vblex$vblex-pron
-	por	oferenda	n	cat	ofrena	n$n-f
-	por	oferta	n$n-f$n-f-ND	cat	oferta	n$n-f
+	por	oferenda	n	cat	ofrena	n-f$n
+	por	oferta	n$n-f$n-f-ND	cat	oferta	n-f$n
 	por	oficial	adj$adj-mf-ND	cat	oficial	adj$adj-mf$
 	por	oficial	n	cat	oficial	n-mf$n
 	por	oficialmente	adv	cat	oficialment	adv
@@ -5308,7 +5308,7 @@ RL	por	opinar	vblex	cat	dictaminar	vblex
 RL	por	oportuno	adj$adj-GD	cat	escaient	adj-mf$
 	por	oportuno	adj$adj-GD	cat	oportú	adj$
 	por	opositor	n	cat	opositor	n$n-m
-	por	oposição	n$n-f-ND	cat	oposició	n$n-f
+	por	oposição	n$n-f-ND	cat	oposició	n-f$n
 	por	oprimir	vblex	cat	oprimir	vblex
 	por	optar	vblex	cat	optar	vblex
 	por	optimismo	n	cat	optimisme	n$n-m
@@ -5317,7 +5317,7 @@ RL	por	oportuno	adj$adj-GD	cat	escaient	adj-mf$
 	por	optimizar	vblex	cat	optimitzar	vblex
 	por	opção	n$n-f-ND	cat	opció	n-f$n
 	por	orar	vblex	cat	orar	vblex
-	por	oração	n$n-f-ND	cat	oració	n$n-f
+	por	oração	n$n-f-ND	cat	oració	n-f$n
 RL	por	ordem	n-f$n$n-f-ND	cat	orde	n-m$n
 	por	ordem	n-f$n$n-f-ND	cat	ordre	n-f$n
 RL	por	ordem	n-f$n$n-f-ND	cat	ordenança	n-mf$n
@@ -5416,8 +5416,8 @@ LR	por	palestiniano	adj	cat	palestí	adj$
 	por	palácio	n$n-m-ND	cat	palau	n-m$n
 	por	panorama	n	cat	panorama	n-m$n
 	por	pantera	n	cat	pantera	n-f$n
-	por	papa	n$n-m$n-m-ND	cat	papa	n$n-m
-	por	papai	n	cat	papà	n$n-m$n-m-ND
+	por	papa	n$n-m$n-m-ND	cat	papa	n-m$n
+	por	papai	n	cat	papà	n-m$n$n-m-ND
 	por	papel	n$n-m-ND	cat	paper	n-m$n$n-m-sg
 RL	por	papel	n$n-m-ND	cat	rol	n-m$n
 	por	paquistanês	adj$adj-GD	cat	pakistanès	adj$$adj-GD
@@ -5438,7 +5438,7 @@ LR	por	paradoxalmente	adv	cat	paradoxalment	adv
 	por	paraguaio	n	cat	paraguaià	n$n-m
 	por	paralelo	adj$adj-GD-ND	cat	paral·lel	adj$
 	por	paralisar	vblex	cat	paralitzar	vblex
-	por	paralisação	n$n-f-ND	cat	paralització	n$n-f
+	por	paralisação	n$n-f-ND	cat	paralització	n-f$n
 RL	por	parar	vblex	cat	aturar	vblex
 	por	parar	vblex	cat	parar	vblex
 LR	por	parasita	n$n-mf	cat	paràsit	n-GD
@@ -5548,7 +5548,7 @@ LR	por	perante	pr	cat	davant	pr
 	por	percentagem	n-f$n$n-f-ND	cat	percentatge	n-m$n
 	por	percorrer	vblex	cat	recórrer	vblex
 	por	percurso	n	cat	recorregut	n-m$n$n-m-sg
-	por	percussão	n$n-f-ND	cat	percussió	n$n-f
+	por	percussão	n$n-f-ND	cat	percussió	n-f$n
 	por	perda	n$n-f	cat	pèrdua	n-f$n
 	por	perder	vblex$vblex-pp-m-ND	cat	perdre	vblex
 	por	perdoar	vblex	cat	perdonar	vblex
@@ -5568,7 +5568,7 @@ RL	por	perfeito	adj-GD-pl	cat	perfecte	adj$adj-mf-pl$
 	por	pergunta	n$n-f-ND	cat	pregunta	n$n-f
 	por	perguntar	vblex	cat	preguntar	vblex$vblex-pron
 	por	periferia	n$n-f-ND	cat	perifèria	n$n-f
-	por	perigo	n$n-m$n-m-ND	cat	perill	n$n-m
+	por	perigo	n$n-m$n-m-ND	cat	perill	n-m$n
 	por	perigosamente	adv	cat	perillosament	adv
 	por	perigoso	adj$adj-GD-ND	cat	perillós	adj$$adj-sup
 	por	periodicamente	adv	cat	periòdicament	adv
@@ -5580,7 +5580,7 @@ RL	por	perfeito	adj-GD-pl	cat	perfecte	adj$adj-mf-pl$
 	por	permanência	n$n-f-ND	cat	permanència	n-f$n
 	por	permissão	n-f$n$n-f-ND	cat	permís	n-m$n$n-m-ND
 	por	permitir	vblex	cat	permetre	vblex$vblex-pron
-	por	perna	n$n-f$n-f-ND	cat	cama	n$n-f
+	por	perna	n$n-f$n-f-ND	cat	cama	n-f$n
 	por	perpetrar	vblex	cat	perpetrar	vblex
 	por	perpetuar	vblex	cat	perpetuar	vblex
 	por	perpétuo	adj$adj-GD-ND	cat	perpetu	adj$
@@ -5589,7 +5589,7 @@ RL	por	perfeito	adj-GD-pl	cat	perfecte	adj$adj-mf-pl$
 	por	persistir	vblex	cat	persistir	vblex
 	por	personagem	n-f$n-f-ND	cat	personatge	n-m$n
 	por	personalidade	n$n-f-ND	cat	personalitat	n-f$n$n-f-ND
-	por	perspectiva	n$n-f-ND	cat	perspectiva	n$n-f
+	por	perspectiva	n$n-f-ND	cat	perspectiva	n-f$n
 	por	pertence	n-m$n-m-ND	cat	pertinença	n-f$n
 	por	pertencente	adj	cat	pertanyent	adj$adj-mf$
 	por	pertencer	vblex	cat	pertànyer	vblex
@@ -5632,7 +5632,7 @@ RL	por	pesquisa	n$n-f-ND	cat	perquisició	n$n-f
 	por	piloto	n	cat	pilot	n-mf$n
 	por	pintar	vblex	cat	pintar	vblex
 	por	pintor	n	cat	pintor	n$n-m
-	por	pintura	n	cat	pintura	n$n-f
+	por	pintura	n	cat	pintura	n-f$n
 	por	pior	adj	cat	pitjor	adj$adj-mf
 	por	pior	adv	cat	pitjor	adv
 	por	piorar	vblex	cat	empitjorar	vblex
@@ -5672,7 +5672,7 @@ RL	por	pobre	adj$adj-mf$adj-mf-sg	cat	pobre	adj-f$adj-f-sg
 LR	por	pobre	adj$adj-mf$adj-mf-sg	cat	pobre	adj-GD-sg
 	por	pobre	adj-mf-pl	cat	pobre	adj$adj-mf-pl$
 	por	pobre	adj$adj-mf$adj-mf-sg	cat	pobre	adj$adj-mf-pl$
-	por	pobreza	n$n-f-ND	cat	pobresa	n$n-f$n-f-sg
+	por	pobreza	n$n-f-ND	cat	pobresa	n-f$n$n-f-sg
 	por	podar	vblex	cat	podar	vblex
 	por	poder	n$n-m-ND	cat	poder	n$n-m
 	por	poder	vbmod	cat	poder	vbmod
@@ -5689,9 +5689,9 @@ RL	por	poeta	n-GD	cat	poeta	n-mf$n
 LR	por	policial	n	cat	policia	n-mf$n$n-mf-pl
 LR	por	policiar	vblex	cat	vigilar	vblex
 	por	politicamente	adv	cat	políticament	adv
-	por	polémica	n	cat	polèmica	n$n-f
+	por	polémica	n	cat	polèmica	n-f$n
 	por	polémico	adj	cat	polèmic	adj$
-LR	por	polêmica	n	cat	polèmica	n$n-f
+LR	por	polêmica	n	cat	polèmica	n-f$n
 LR	por	polêmico	adj	cat	polèmic	adj$
 	por	polícia	n$n-mf-ND	cat	policia	n-mf$n$n-mf-pl
 	por	político	adj$adj-GD-ND	cat	polític	adj$
@@ -5766,7 +5766,7 @@ LR	por	posto que	cnjadv	cat	encara que	cnjadv
 	por	poético	adj	cat	poètic	adj$
 LR	por	pra	pr	cat	per a	pr
 	por	prado	n$n-m	cat	prat	n-m$n
-	por	praia	n$n-f	cat	platja	n$n-f
+	por	praia	n$n-f	cat	platja	n-f$n
 RL	por	pranto	n	cat	plany	n$n-m
 	por	pranto	n	cat	plor	n$n-m
 	por	prata	n$n-f$n-f-ND	cat	plata	n-f$n$n-f-sg
@@ -5774,7 +5774,7 @@ RL	por	pranto	n	cat	plany	n$n-m
 	por	praticante	n	cat	practicant	n-mf$n
 	por	praticar	vblex	cat	practicar	vblex
 	por	prazer	n	cat	plaer	n-m$n
-	por	prazo	n$n-m-ND	cat	termini	n$n-m
+	por	prazo	n$n-m-ND	cat	termini	n-m$n
 	por	praça	n$n-f	cat	plaça	n-f$n
 LR	por	praça	n$n-f	cat	plaça	n-f$n
 	por	precaução	n	cat	precaució	n-f$n
@@ -5784,13 +5784,13 @@ LR	por	praça	n$n-f	cat	plaça	n-f$n
 	por	precioso	adj$adj-GD-ND	cat	preciós	adj$$adj-sup
 RL	por	precioso	adj$adj-GD-ND	cat	preuat	adj$adj-sup
 	por	precipitar	vblex	cat	precipitar	vblex
-	por	precipitação	n	cat	precipitació	n$n-f
+	por	precipitação	n	cat	precipitació	n-f$n
 	por	precisamente	adv	cat	precisament	adv
 RL	por	precisar	vblex	cat	precisar	vblex
 	por	precisar	vblex	cat	necessitar	vblex
 	por	preciso	adj	cat	precís	adj$
 	por	precisão	n	cat	precisió	n-f$n
-	por	preconceito	n	cat	prejudici	n$n-m
+	por	preconceito	n	cat	prejudici	n-m$n
 	por	precário	adj	cat	precari	adj$
 	por	predecesor	n	cat	predecesor	n
 	por	predilecto	adj$adj-m-sg	cat	predilecte	adj-m-sg
@@ -5804,13 +5804,13 @@ LR	por	predileto	adj-f-sg	cat	predilecte	adj-f-sg
 LR	por	predileto	adj-m-pl	cat	predilecte	adj-mf-pl$adj$
 LR	por	predileto	adj-f-pl	cat	predilecte	adj-mf-pl$adj$
 LR	por	predileto	adj$adj-m-sg	cat	predilecte	adj-mf-pl$adj$
-	por	predição	n	cat	predicció	n$n-f
+	por	predição	n	cat	predicció	n-f$n
 LR	por	preencher	vblex	cat	omplir	vblex
 	por	prefeito	n	cat	alcalde	n$n-m
 	por	prefeitura	n-f$n	cat	ajuntament	n-m$n
 	por	preferir	vblex	cat	preferir	vblex
 	por	preferivelmente	adv	cat	preferiblement	adv
-	por	preferência	n$n-f-ND	cat	preferència	n$n-f
+	por	preferência	n$n-f-ND	cat	preferència	n-f$n
 	por	preferível	adj	cat	preferible	adj$adj-mf$
 	por	prefijar	vblex	cat	prefijar	vblex
 	por	pregar	vblex	cat	predicar	vblex
@@ -5834,19 +5834,19 @@ RL	por	presente	n$n-m	cat	regal	n$n-m
 	por	presente	adj	cat	present	adj$adj-mf$
 	por	presentear	vblex	cat	regalar	vblex
 	por	presentir	vblex	cat	presentir	vblex
-	por	presença	n$n-f-ND	cat	presència	n$n-f
+	por	presença	n$n-f-ND	cat	presència	n-f$n
 	por	preservar	vblex	cat	preservar	vblex
 	por	presidencial	adj$adj-mf-ND	cat	presidencial	adj$adj-mf$
 	por	presidente	n$n-m-ND	cat	president	n$n-m
 	por	expresidente	n	cat	expresident	n$n-f
 	por	presidir	vblex	cat	presidir	vblex
-	por	presidência	n$n-f-ND	cat	presidència	n$n-f
+	por	presidência	n$n-f-ND	cat	presidència	n-f$n
 	por	presionar	vblex	cat	presionar	vblex
 	por	preso	adj$adj-GD-ND	cat	pres	adj
 	por	preso	n$n-m$n-m-ND	cat	pres	n$n-f
 RL	por	pressionar	vblex	cat	atabalar	vblex
 	por	pressionar	vblex	cat	pressionar	vblex
-	por	pressão	n$n-f-ND	cat	pressió	n$n-f
+	por	pressão	n$n-f-ND	cat	pressió	n-f$n
 	por	prestar	vblex	cat	prestar	vblex
 	por	prestação	n$n-f$n-f-ND	cat	prestació	n-f$n$n-f-pl
 	por	prestígio	n	cat	prestigi	n-m$n
@@ -5854,7 +5854,7 @@ RL	por	pressionar	vblex	cat	atabalar	vblex
 	por	presunção	n	cat	presumpció	n-f$n
 	por	pretender	vblex	cat	pretendre	vblex
 LR	por	pretensamente	adv	cat	suposadament	adv
-	por	pretensão	n$n-f-ND	cat	pretensió	n$n-f
+	por	pretensão	n$n-f-ND	cat	pretensió	n-f$n
 	por	pretexto	n	cat	pretext	n-m$n
 LR	por	preto	adj$adj-m-sg	cat	negre	adj-m-sg
 LR	por	preto	adj-f-sg	cat	negre	adj-f-sg
@@ -5869,11 +5869,11 @@ LR	por	preto	adj$adj-m-sg	cat	negre	adj-mf-pl$adj$
 	por	previamente	adv	cat	prèviament	adv
 	por	previdência	n	cat	sanitat	n$n-f$n-f-ND
 	por	previsivelmente	adv	cat	previsiblement	adv
-	por	previsão	n$n-f	cat	previsió	n$n-f
+	por	previsão	n$n-f	cat	previsió	n-f$n
 	por	previsível	adj	cat	previsible	adj$adj-mf$
 	por	preço	n$n-m$n-m-ND	cat	preu	n-m$n$n-m-ND
 LR	por	primar	vblex	cat	prevaler	vblex
-	por	primavera	n$n-f	cat	primavera	n$n-f$n-f-ND
+	por	primavera	n$n-f	cat	primavera	n-f$n$n-f-ND
 	por	primeiramente	adv	cat	primerament	adv
 	por	primeiro	adj$adj-GD-ND	cat	primer	adj$adj-ord$$adj-ord-GD-ND
 	por	primeiro	adv	cat	primer	adv
@@ -5889,7 +5889,7 @@ LR	por	primar	vblex	cat	prevaler	vblex
 	por	privado	adj$adj-GD-ND	cat	privat	adj
 	por	privar	vblex	cat	privar	vblex
 	por	privatizar	vblex	cat	privatitzar	vblex
-	por	privatização	n	cat	privatització	n$n-f
+	por	privatização	n	cat	privatització	n-f$n
 	por	privilegiar	vblex	cat	privilegiar	vblex
 	por	privilégio	n	cat	privilegi	n-m$n
 	por	probabilidade	n	cat	probabilitat	n-f$n$n-f-ND
@@ -5898,7 +5898,7 @@ LR	por	primar	vblex	cat	prevaler	vblex
 	por	procedente	adj	cat	procedent	adj$adj-mf$
 	por	proceder	vblex	cat	procedir	vblex
 	por	procedimento	n$n-m$n-m-ND	cat	procediment	n-m$n
-	por	procedência	n	cat	procedència	n$n-f
+	por	procedência	n	cat	procedència	n-f$n
 	por	procesar	vblex	cat	procesar	vblex
 	por	processamento	n$n-m-ND	cat	processament	n-m$n
 	por	processo	n$n-m-ND	cat	procés	n-m$n$n-m-ND
@@ -5918,7 +5918,7 @@ RL	por	procurar	vblex	cat	cercar	vblex
 	por	profissional	adj$adj-mf-ND	cat	professional	adj$adj-mf
 	por	profissional	n	cat	professional	n-mf$n$
 	por	profissionalmente	adv	cat	professionalment	adv
-	por	profissão	n$n-f-ND	cat	professió	n$n-f
+	por	profissão	n$n-f-ND	cat	professió	n-f$n
 	por	profundamente	adv	cat	profundament	adv
 LR	por	profundeza	n	cat	profunditat	n$n-f
 	por	profundidade	n$n-f$n-f-ND	cat	profunditat	n$n-f
@@ -5935,16 +5935,16 @@ RL	por	progresso	n$n-m$n-m-ND	cat	avenç	n-m$n
 	por	progresso	n$n-m$n-m-ND	cat	progrés	n-m$n
 	por	progressão	n	cat	progressió	n-f$n
 	por	proibir	vblex	cat	prohibir	vblex
-	por	proibição	n$n-f	cat	prohibició	n$n-f
+	por	proibição	n$n-f	cat	prohibició	n-f$n
 	por	projecto	n$n-m-ND	cat	projecte	n-m$n
-	por	projecção	n	cat	projecció	n$n-f
+	por	projecção	n	cat	projecció	n-f$n
 LR	por	projetar	vblex	cat	projectar	vblex
 	por	projectar	vblex	cat	projectar	vblex
 LR	por	projeto	n	cat	projecte	n-m$n
-LR	por	projeção	n	cat	projecció	n$n-f
+LR	por	projeção	n	cat	projecció	n-f$n
 	por	prolongar	vblex	cat	perllongar	vblex
 RL	por	prolongar	vblex	cat	prolongar	vblex
-	por	promessa	n	cat	promesa	n$n-f
+	por	promessa	n	cat	promesa	n-f$n
 	por	prometer	vblex	cat	prometre	vblex$vblex-pron
 RL	por	promotor	n-GD	cat	fiscal	n-mf$n$
 LR	por	promotor	n-m	cat	fiscal	n-mf$n$
@@ -5952,17 +5952,17 @@ LR	por	promotor	n$n-f	cat	fiscal	n-mf$n$
 RL	por	promotor	n$n-f	cat	promotor	n$n-m$
 	por	promotoria	n$n-f	cat	fiscalia	n$n-f
 	por	promover	vblex	cat	promoure	vblex
-	por	promoção	n$n-f-ND	cat	promoció	n$n-f
+	por	promoção	n$n-f-ND	cat	promoció	n-f$n
 	por	pronto	adj$adj-GD-ND	cat	llest	adj$
 LR	por	pronto	adv	cat	aviat	adv
 	por	pronunciar	vblex	cat	pronunciar	vblex
-	por	propaganda	n	cat	propaganda	n$n-f
+	por	propaganda	n	cat	propaganda	n-f$n
 	por	propagar	vblex	cat	propagar	vblex
 	por	propiciar	vblex	cat	propiciar	vblex
 	por	propor	vblex	cat	proposar	vblex
 RL	por	propor	vblex	cat	plantejar	vblex
 	por	proporcionar	vblex	cat	proporcionar	vblex
-	por	proporção	n$n-f-ND	cat	proporció	n$n-f
+	por	proporção	n$n-f-ND	cat	proporció	n-f$n
 	por	proposição	n$n-f	cat	proposició	n$n-f
 RL	por	proposta	n$n-f$n-f-ND	cat	plantejament	n-m$n
 	por	proposta	n$n-f$n-f-ND	cat	proposta	n$n-f
@@ -5984,13 +5984,13 @@ RL	por	proposta	n$n-f$n-f-ND	cat	plantejament	n-m$n
 	por	protagonista	n	cat	protagonista	n-mf$n
 	por	protagonizar	vblex	cat	protagonitzar	vblex
 	por	protector	adj	cat	protector	adj$
-	por	protecção	n$n-f-ND	cat	protecció	n$n-f
+	por	protecção	n$n-f-ND	cat	protecció	n-f$n
 	por	proteger	vblex	cat	protegir	vblex
 	por	protestante	n$n-mf	cat	protestant	n$n-mf
 	por	protestar	vblex	cat	protestar	vblex
 	por	protesto	n-m	cat	protesta	n-f$n
 LR	por	protetor	adj	cat	protector	adj$
-LR	por	proteção	n	cat	protecció	n$n-f
+LR	por	proteção	n	cat	protecció	n-f$n
 	por	proteína	n	cat	proteïna	n-f$n
 	por	protocolo	n$n-m-ND	cat	protocol	n$n-m
 RL	por	provar	vblex	cat	catar	vblex
@@ -6005,7 +6005,7 @@ RL	por	provavelmente	adv	cat	presumiblement	adv
 	por	provir	vblex	cat	provenir	vblex
 	por	provisionalmente	adv	cat	provisionalment	adv
 	por	provisto	adj	cat	proveït	adj$
-	por	provisão	n	cat	provisió	n$n-f
+	por	provisão	n	cat	provisió	n-f$n
 RL	por	provisório	adj-GD$adj	cat	provisional	adj-mf$adj$
 LR	por	provisório	adj-m	cat	provisional	adj-mf$adj$
 LR	por	provisório	adj-f	cat	provisional	adj-mf$adj$
@@ -6014,12 +6014,12 @@ LR	por	provisório	adj-f	cat	provisional	adj-mf$adj$
 	por	provocação	n	cat	provocació	n-f$n
 	por	provável	adj	cat	probable	adj$adj-mf$
 	por	proximamente	adv	cat	pròximament	adv
-	por	proximidade	n	cat	proximitat	n$n-f$n-f-sg
+	por	proximidade	n	cat	proximitat	n-f$n$n-f-sg
 	por	proyectar	vblex	cat	proyectar	vblex
 	por	prudente	adj	cat	prudent	adj$adj-mf$
 	por	prudência	n	cat	prudència	n$n-f
 	por	prueba	n	cat	prueba	n
-	por	prática	n	cat	pràctica	n$n-f
+	por	prática	n	cat	pràctica	n-f$n
 	por	prático	adj$adj-GD-ND	cat	pràctic	adj$
 LR	por	pré-requisito	n$n-m	cat	requisit	n-m$n
 LR	por	prédio	n	cat	edifici	n-m$n
@@ -6038,7 +6038,7 @@ RL	por	próximo	adj$adj-GD$adj-GD-ND	cat	proper	adj$$adj-GD
 	por	psicólogo	n	cat	psicòleg	n$n-m
 	por	publicamente	adv	cat	públicament	adv
 	por	publicar	vblex$vblex-pp-GD-ND	cat	publicar	vblex
-	por	publicação	n$n-f-ND	cat	publicació	n$n-f
+	por	publicação	n$n-f-ND	cat	publicació	n-f$n
 	por	publicidade	n$n-f-ND	cat	publicitat	n-f$n$n-f-ND
 	por	publicitário	adj	cat	publicitari	adj$
 	por	pudor	n$n-m	cat	pudor	n-m$n
@@ -6053,7 +6053,7 @@ RL	por	próximo	adj$adj-GD$adj-GD-ND	cat	proper	adj$$adj-GD
 	por	puto	n	cat	puto	n
 LR	por	puxar	vblex	cat	estirar	vblex
 	por	pá	n	cat	pala	n-f$n
-	por	página	n$n-f-ND	cat	pàgina	n$n-f
+	por	página	n$n-f-ND	cat	pàgina	n-f$n
 	por	pálido	adj	cat	pàl·lid	adj$
 	por	pálpebra	n-f$n	cat	parpella	n-f$n
 	por	pássaro	n$n-m$n-m-ND	cat	ocell	n-m$n
@@ -6063,7 +6063,7 @@ LR	por	puxar	vblex	cat	estirar	vblex
 	por	pântano	n$n-m	cat	pantà	n-m$n
 	por	pão	n	cat	pa	n-m$n
 	por	pé	n$n-m$n-m-ND	cat	peu	n-m$n$n-m-pl
-	por	pérola	n	cat	perla	n$n-f
+	por	pérola	n	cat	perla	n-f$n
 	por	péssimo	adj	cat	pèssim	adj
 	por	pênalti	n	cat	penal	n-m$n
 	por	pó	n-m-pl	cat	pólvores	n-f-pl$n-f$n
@@ -6083,7 +6083,7 @@ RL	por	qual	prn-itg-mf$prn	cat	quin	prn-itg-m$prn-itg-m-sg
 LR	por	qual	adj-itg-mf	cat	quin	adj$adj-itg-GD-ND$adj-itg$adj-itg-GD
 RL	por	qual	adj-itg-mf	cat	quin	adj-itg-f$adj-itg-f-pl
 RL	por	qual	adj-itg-mf	cat	quin	adj-itg-m$adj-itg-m-pl
-	por	qualidade	n$n-f-ND	cat	qualitat	n$n-f$n-f-ND
+	por	qualidade	n$n-f-ND	cat	qualitat	n-f$n$n-f-ND
 	por	qualquer	det-ind-mf$det$det-ind-mf-ND	cat	qualsevol	det-ind-mf-ND$det-ind-mf$det-ind$det
 	por	qualquer	prn$prn-tn-mf-ND	cat	qualsevol	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn
 	por	quando	adv$rel-adv	cat	quan	adv$adv-itg
@@ -6153,7 +6153,7 @@ LR	por	qüestão	n	cat	qüestió	n$n-f
 	por	radiografía	n	cat	radiografía	n
 	por	raio	n	cat	raig	n-m$n
 	por	raiva	n	cat	ràbia	n-f$n$n-f-sg
-	por	raiz	n$n-f	cat	arrel	n$n-f
+	por	raiz	n$n-f	cat	arrel	n-f$n
 RL	por	raiz	n$n-f	cat	raïl	n-m$n
 RL	por	ramo	n$n-m	cat	branca	n-f$n
 	por	ramo	n$n-m	cat	ram	n-m$n
@@ -6165,12 +6165,12 @@ LR	por	rapariga	n-f$n	cat	noi	n-f$n
 RL	por	rapaz	n-m$n	cat	al·lot	n-m$n
 LR	por	rapaz	n-m$n	cat	noi	n-m
 	por	rapidamente	adv	cat	ràpidament	adv
-	por	rapidez	n	cat	rapidesa	n$n-f
+	por	rapidez	n	cat	rapidesa	n-f$n
 	por	raro	adj	cat	rar	adj$
 	por	rasgar	vblex	cat	esquinçar	vblex
 LR	por	rasgo	n	cat	tret	n-m$n
 	por	ratificar	vblex	cat	ratificar	vblex
-	por	ratificação	n$n-f-ND	cat	ratificació	n$n-f
+	por	ratificação	n$n-f-ND	cat	ratificació	n-f$n
 	por	rato	n$n-m-ND	cat	ratolí	n-m$n$n-m-ND
 	por	raza	n	cat	raza	n
 	por	razoavelmente	adv	cat	raonablement	adv
@@ -6183,11 +6183,11 @@ LR	por	rasgo	n	cat	tret	n-m$n
 	por	reagir	vblex	cat	reaccionar	vblex
 	por	real	adj	cat	real	adj$adj-mf$
 RL	por	real	adj	cat	reial	adj$adj-mf$
-	por	realidade	n$n-f-ND	cat	realitat	n$n-f$n-f-ND
+	por	realidade	n$n-f-ND	cat	realitat	n-f$n$n-f-ND
 	por	realismo	n	cat	realisme	n$n-m$n-m-sg
 	por	realista	adj	cat	realista	adj$adj-mf$
 	por	realizar	vblex	cat	realitzar	vblex
-	por	realização	n$n-f-ND	cat	realització	n$n-f
+	por	realização	n$n-f-ND	cat	realització	n-f$n
 	por	realmente	adv	cat	realment	adv
 	por	reaquecimento	n	cat	reescalfament	n-m$n
 LR	por	reação	n	cat	reacció	n-f$n
@@ -6198,7 +6198,7 @@ LR	por	rebaixamento	n$n-m	cat	descens	n-m$n
 	por	rebelde	n	cat	rebel	n$n-mf
 	por	rebeldia	n	cat	rebel·lia	n-f$n
 	por	receber	vblex	cat	rebre	vblex
-	por	receita	n	cat	recepta	n$n-f
+	por	receita	n	cat	recepta	n-f$n
 LR	por	recender	vblex	cat	olorar	vblex
 	por	recente	adj	cat	recent	adj$adj-mf$
 	por	recentemente	adv	cat	recentment	adv
@@ -6261,14 +6261,14 @@ RL	por	referendo	n$n-m	cat	referend	n$n-m
 LR	por	referendum	n	cat	referèndum	n$n-m$n-m-sg
 	por	referente	adj	cat	referent	adj$
 	por	referente	n	cat	referent	n-m$n
-	por	referigeração	n	cat	refrigeració	n$n-f
+	por	referigeração	n	cat	refrigeració	n-f$n
 	por	referir	vblex	cat	referir	vblex
 	por	referência	n$n-f-ND	cat	referència	n-f$n
 	por	refinar	vblex	cat	refinar	vblex
 	por	refletir	vblex	cat	reflectir	vblex
 	por	reflexionar	vblex	cat	reflexionar	vblex
 	por	reflexão	n$n-f-ND	cat	reflexió	n$n-f
-	por	reforma	n$n-f-ND	cat	reforma	n$n-f
+	por	reforma	n$n-f-ND	cat	reforma	n-f$n
 	por	reformar	vblex	cat	reformar	vblex
 	por	reforzar	vblex	cat	reforzar	vblex
 	por	reforço	n$n-m-ND	cat	reforç	n-m$n
@@ -6289,7 +6289,7 @@ RL	por	registrar	vblex	cat	empadronar	vblex
 	por	registro	n$n-m	cat	registre	n-m$n
 RL	por	registro	n$n-m	cat	empadronament	n$n-m
 	por	região	n$n-f-ND	cat	regió	n-f$n
-	por	regra	n$n-f-ND	cat	regla	n$n-f
+	por	regra	n$n-f-ND	cat	regla	n-f$n
 RL	por	regresar	vblex	cat	regresar	vblex
 LR	por	regressar	vblex	cat	tornar	vblex$vblex-pron
 	por	regresso	n	cat	retorn	n-m$n
@@ -6297,7 +6297,7 @@ LR	por	regressar	vblex	cat	tornar	vblex$vblex-pron
 LR	por	regulamentar	adj-mf$adj	cat	reglamentari	adj$$adj-GD
 RL	por	regulamentar	adj-mf$adj	cat	reglamentari	adj-m
 RL	por	regulamentar	adj-mf$adj	cat	reglamentari	adj-f
-	por	regulamentação	n$n-f-ND	cat	reglamentació	n$n-f
+	por	regulamentação	n$n-f-ND	cat	reglamentació	n-f$n
 RL	por	regulamento	n-m$n$n-m-ND	cat	reglament	n-m$n
 	por	regulamento	n-m$n$n-m-ND	cat	normativa	n-f$n
 	por	regular	adj$adj-mf	cat	regular	adj$adj-mf
@@ -6355,11 +6355,11 @@ LR	por	reparar	vblex	cat	notar	vblex
 	por	reparo	n-m$n	cat	reparació	n-f$n
 	por	repartir	vblex	cat	repartir	vblex
 	por	repentino	adj	cat	sobtat	adj$$adj-sup
-	por	repercussão	n	cat	repercussió	n$n-f
+	por	repercussão	n	cat	repercussió	n-f$n
 	por	repercutir	vblex	cat	repercutir	vblex
 	por	repetidamente	adv	cat	repetidament	adv
 	por	repetir	vblex	cat	repetir	vblex
-	por	repetição	n	cat	repetició	n$n-f
+	por	repetição	n	cat	repetició	n-f$n
 	por	replicar	vblex	cat	replicar	vblex
 	por	repor	vblex	cat	reposar	vblex
 	por	reportagem	n-f$n$n-f-ND	cat	reportatge	n-m$n
@@ -6368,12 +6368,12 @@ LR	por	repousar	vblex	cat	reposar	vblex
 	por	representante	n$n-mf-ND	cat	representant	n-mf$n
 	por	representar	vblex	cat	representar	vblex
 	por	representativo	adj	cat	representatiu	adj$
-	por	representação	n$n-f-ND	cat	representació	n$n-f
-	por	repressão	n$n-f-ND	cat	repressió	n$n-f
+	por	representação	n$n-f-ND	cat	representació	n-f$n
+	por	repressão	n$n-f-ND	cat	repressió	n-f$n
 	por	represália	n	cat	represàlia	n-f$n
 	por	reprimir	vblex	cat	reprimir	vblex
 	por	reproduzir	vblex	cat	reproduir	vblex
-	por	reprodução	n$n-f-ND	cat	reproducció	n$n-f
+	por	reprodução	n$n-f-ND	cat	reproducció	n-f$n
 	por	repto	n	cat	repte	n-m$n
 	por	republicano	adj	cat	republicà	adj$
 	por	republicano	n	cat	republicà	n$n-m
@@ -6381,12 +6381,12 @@ LR	por	repousar	vblex	cat	reposar	vblex
 RL	por	repórter	n-mf	cat	reporter	n$n-m
 RL	por	repórter	n-mf	cat	reporter	n-f
 LR	por	repórter	n-mf	cat	reporter	n-GD
-	por	república	n$n-f-ND	cat	república	n$n-f
+	por	república	n$n-f-ND	cat	república	n-f$n
 	por	requerer	vblex	cat	requerir	vblex
 	por	requisito	n$n-m$n-m-ND	cat	requisit	n-m$n
 	por	resaltar	vblex	cat	resaltar	vblex
 	por	rescisão	n	cat	rescissió	n-f$n
-	por	reserva	n	cat	reserva	n$n-f
+	por	reserva	n	cat	reserva	n-f$n
 	por	reservar	vblex	cat	reservar	vblex
 RL	por	resfriar	vblex	cat	constipar	vblex
 	por	resfriar	vblex	cat	refredar	vblex
@@ -6394,12 +6394,12 @@ RL	por	resfriar	vblex	cat	constipar	vblex
 	por	resgate	n	cat	rescat	n-m$n
 	por	residencial	adj	cat	residencial	adj$adj-mf$
 	por	residir	vblex	cat	residir	vblex
-	por	residência	n	cat	residència	n$n-f
+	por	residência	n	cat	residència	n-f$n
 	por	resignação	n	cat	resignació	n-f$n
 	por	resistente	adj	cat	resistent	adj$adj-mf$
 	por	resistir	vblex	cat	resistir	vblex
 	por	resistência	n$n-f-ND	cat	resistència	n-f$n
-	por	resolução	n$n-f-ND	cat	resolució	n$n-f
+	por	resolução	n$n-f-ND	cat	resolució	n-f$n
 	por	resolver	vblex	cat	resoldre	vblex
 LR	por	respaldar	vblex	cat	protegir	vblex
 	por	respectivamente	adv	cat	respectivament	adv
@@ -6423,7 +6423,7 @@ LR	por	restantes	det	cat	altre	det-ind-mf-pl$det$$det-ind
 	por	restar	vblex	cat	restar	vblex
 	por	restaurante	n$n-m$n-m-ND	cat	restaurant	n-m$n
 	por	restaurar	vblex	cat	restaurar	vblex
-	por	restauração	n$n-f$n-f-ND	cat	restauració	n$n-f
+	por	restauração	n$n-f$n-f-ND	cat	restauració	n-f$n
 	por	restituição	n	cat	restitució	n-f$n
 	por	resto	n$n-m	cat	resta	n-f$n-f-pl$n
 	por	restringir	vblex	cat	restringir	vblex
@@ -6444,25 +6444,25 @@ LR	por	reto	adj-f-sg	cat	recte	adj-f-sg
 LR	por	reto	adj-m-pl	cat	recte	adj-mf-pl$adj
 LR	por	reto	adj-f-pl	cat	recte	adj-mf-pl$adj
 LR	por	reto	adj$adj-m-sg	cat	recte	adj-mf-pl$adj
-	por	retomada	n$n-f	cat	represa	n-f$n
+	por	retomada	n$n-f	cat	represa	n-f
 	por	retomar	vblex	cat	reprendre	vblex
 	por	retoque	n$n-m	cat	retoc	n-m$n
 	por	retorcer	vblex	cat	retorçar	vblex
 LR	por	retornar	vblex	cat	retornar	vblex
-	por	retribuição	n	cat	retribució	n$n-f
+	por	retribuição	n	cat	retribució	n-f$n
 	por	retroceder	vblex	cat	retrocedir	vblex
-	por	retrocesso	n$n-m	cat	reculada	n-f$n
-	por	retórica	n	cat	retòrica	n$n-f
+	por	retrocesso	n$n-m	cat	reculada	n-f
+	por	retórica	n	cat	retòrica	n-f$n
 	por	retórico	adj	cat	retòric	adj$
 RL	por	reunir	vblex	cat	aplegar	vblex
 	por	reunir	vblex	cat	reunir	vblex$vblex-pron
 	por	reunião	n$n-f-ND	cat	reunió	n-f$n
 	por	revanche	n-f$n	cat	revenja	n-f$n
 	por	revelar	vblex	cat	revelar	vblex
-	por	revelação	n	cat	revelació	n$n-f
+	por	revelação	n	cat	revelació	n-f$n
 	por	revisar	vblex	cat	revisar	vblex
 	por	revista	n$n-f$n-f-ND	cat	revista	n-f$n
-	por	revisão	n$n-f$n-f-ND	cat	revisió	n$n-f
+	por	revisão	n$n-f$n-f-ND	cat	revisió	n-f$n
 	por	revolucionário	adj	cat	revolucionari	adj$
 	por	revolução	n$n-f-ND	cat	revolució	n-f$n
 	por	revuelta	n	cat	revuelta	n
@@ -6477,7 +6477,7 @@ RL	por	reunir	vblex	cat	aplegar	vblex
 	por	rigoroso	adj	cat	rigorós	adj$$adj-sup
 	por	rincão	n	cat	racó	n-m$n
 	por	rio	n$n-m$n-m-ND	cat	riu	n-m$n
-	por	riqueza	n	cat	riquesa	n$n-f
+	por	riqueza	n	cat	riquesa	n-f$n
 	por	rir	vblex	cat	riure	vblex
 	por	risco	n$n-m-ND	cat	risc	n-m$n
 RL	por	riso	n-m$n	cat	rialla	n$n-f
@@ -6487,7 +6487,7 @@ RL	por	riso	n-m$n	cat	rialla	n$n-f
 	por	robô	n	cat	robot	n-m$n$n-m-sg
 	por	rocha	n	cat	roca	n$n-f$n-f-pl
 	por	rock	n	cat	rock	n$n-m-sg$n-m
-	por	rodada	n	cat	ronda	n$n-f
+	por	rodada	n	cat	ronda	n-f$n
 	por	rodar	vblex	cat	rodar	vblex
 	por	rodear	vblex	cat	envoltar	vblex
 LR	por	rodovia	n	cat	carretera	n$n-f
@@ -6512,7 +6512,7 @@ LR	por	roteiro	n	cat	guió	n-m$n
 	por	roubo	n$n-m	cat	robatori	n-m$n
 RL	por	roubo	n$n-m	cat	estafa	n-f$n
 	por	rouco	adj	cat	ronc	adj$
-	por	roupa	n$n-f$n-f-ND	cat	roba	n$n-f$n-f-sg
+	por	roupa	n$n-f$n-f-ND	cat	roba	n-f$n$n-f-sg
 	por	rouxinol	n	cat	rossinyol	n-m$n
 	por	rua	n$n-f$n-f-ND	cat	carrer	n-m$n
 	por	rueda	n	cat	rueda	n
@@ -6535,19 +6535,19 @@ LR	por	récord	n$n-m	cat	rècord	n-m$n
 	por	rústico	n	cat	rústic	n
 	por	s	n$n-m	cat	s	n$n-f$n-f-sg
 	por	s	n$n-m	cat	s	n$n-f$n-f-sg
-	por	sabedoria	n	cat	saviesa	n$n-f
+	por	sabedoria	n	cat	saviesa	n-f$n
 	por	saber	vblex	cat	saber	vblex
 	por	saber	n	cat	saber	n-m$n
 	por	sabor	n	cat	sabor	n-m$n
 	por	sacar	vblex	cat	treure	vblex
 	por	sacerdote	n	cat	sacerdot	n$n-f
-	por	saciedade	n	cat	sacietat	n$n-f
+	por	saciedade	n	cat	sacietat	n-f$n
 	por	saco	n	cat	sac	n-m$n
 RL	por	saco	n	cat	conyàs	n
 	por	sacrificar	vblex	cat	sacrificar	vblex
 	por	sacrifício	n$n-m-ND	cat	sacrifici	n-m$n
 	por	sacudir	vblex	cat	sacsejar	vblex
-LR	por	safra	n	cat	collita	n$n-f
+LR	por	safra	n	cat	collita	n-f$n
 	por	sagrado	adj$adj-GD-ND	cat	sagrat	adj$
 	por	saia	n	cat	faldilla	n-f$n
 RL	por	sair	vblex	cat	eixir	vblex
@@ -6574,7 +6574,7 @@ LR	por	sanidade	n	cat	sanitat	n$n-f$n-f-ND
 	por	sanitário	adj	cat	sanitari	adj$
 	por	santo	n	cat	sant	n$n-m$n-m-sg
 	por	santuário	n$n-m-ND	cat	santuari	n-m$n
-	por	sanção	n	cat	sanció	n$n-f
+	por	sanção	n	cat	sanció	n-f$n
 	por	sapatilha	n$n-f	cat	sabatilla	n-f$n
 	por	saquear	vblex	cat	saquejar	vblex
 	por	satisfatório	adj	cat	satisfactori	adj$
@@ -6599,11 +6599,11 @@ LR	por	se bem que	cnjadv	cat	encara que	cnjadv
 	por	secretário	n$n-m-ND	cat	secretari	n$n-m
 	por	sector	n$n-m-ND	cat	sector	n$n-m
 	por	secundário	adj$adj-GD-ND	cat	secundari	adj$
-	por	secção	n$n-f-ND	cat	secció	n$n-f
+	por	secção	n$n-f-ND	cat	secció	n-f$n
 	por	sede	n$n-f$n-f-ND	cat	seu	n-f$n
 LR	por	sediar	vblex	cat	acollir	vblex
 	por	seduzir	vblex	cat	seduir	vblex
-	por	sedução	n	cat	seducció	n$n-f
+	por	sedução	n	cat	seducció	n-f$n
 	por	segredo	n	cat	secret	n$n-m
 	por	seguidor	n	cat	seguidor	n$n-m
 	por	seguinte	adj$adj-mf-ND	cat	següent	adj-mf$adj$
@@ -6635,11 +6635,11 @@ LR	por	seletivo	adj	cat	selectiu	adj$
 LR	por	seleção	n$n-f	cat	selecció	n-f$n
 	por	selo	n$n-m	cat	segell	n-m$n
 	por	selva	n	cat	selva	n-f$n
-RL	por	selva	n	cat	jungla	n$n-f
+RL	por	selva	n	cat	jungla	n-f$n
 	por	selvagem	adj	cat	salvatge	adj$adj-mf$
 RL	por	sem	pr	cat	sens	pr
 	por	sem	pr	cat	sense	pr
-	por	semana	n$n-f$n-f-ND	cat	setmana	n$n-f
+	por	semana	n$n-f$n-f-ND	cat	setmana	n-f$n
 	por	semanal	adj	cat	setmanal	adj-mf$adj$
 	por	semanalmente	adv	cat	setmanalment	adv
 	por	semblante	n$n-m	cat	semblant	n-m$n
@@ -6653,7 +6653,7 @@ RL	por	sempre	adv	cat	a tothora	adv
 RL	por	sempre	adv	cat	tothora	adv
 	por	sempre	adv	cat	sempre	adv
 	por	senador	n$n-f	cat	senador	n$n-m
-	por	senda	n$n-f	cat	senda	n$n-f
+	por	senda	n$n-f	cat	senda	n-f$n
 LR	por	senha	n-f$n	cat	senyal	n-m$n
 RL	por	senha	n-f$n	cat	senya	n
 	por	senhor	n$n-m$n-m-ND	cat	senyor	n$n-f
@@ -6679,19 +6679,19 @@ RL	por	sentir	vblex	cat	enyorar	vblex
 	por	separar	vblex	cat	separar	vblex$vblex-pron
 	por	separatista	adj	cat	separatista	adj$adj-mf$
 	por	separatista	n	cat	separatista	n-mf$n
-	por	separação	n$n-f	cat	separació	n$n-f
+	por	separação	n$n-f	cat	separació	n-f$n
 	por	sequer	adv	cat	si més no	adv
 	por	sequestrar	vblex	cat	segrestar	vblex
 	por	si	prn	cat	si	prn$prn-tn$prn-tn-ref
 	por	sequestro	n$n-m	cat	segrest	n-m$n
-	por	sequência	n$n-f-ND	cat	seqüència	n$n-f
+	por	sequência	n$n-f-ND	cat	seqüència	n-f$n
 LR	por	seqüestrar	vblex	cat	segrestar	vblex
 LR	por	seqüestro	n$n-m	cat	segrest	n-m$n
-LR	por	seqüência	n	cat	seqüència	n$n-f
+LR	por	seqüência	n	cat	seqüència	n-f$n
 	por	ser	n$n-m	cat	ésser	n-m$n$n-m-pl
 	por	ser	vbser	cat	ser	vbser$vbser-pp
 	por	seriamente	adv	cat	seriosament	adv
-	por	seriedade	n	cat	serietat	n$n-f
+	por	seriedade	n	cat	serietat	n-f$n
 	por	serpente	n$n-f	cat	serp	n-f$n
 	por	servidor	n$n-m$n-m-ND	cat	servidor	n$n-m
 	por	servidor público	n	cat	funcionari	n$n-m
@@ -6700,8 +6700,8 @@ LR	por	seqüência	n	cat	seqüència	n$n-f
 	por	serviço	n$n-m$n-m-ND	cat	servei	n$n-m
 RL	por	serviço	n$n-m$n-m-ND	cat	servici	n$n-m
 	por	sessenta	num$num-mf-sp	cat	seixanta	num$$num-mf-sp
-	por	sessão	n$n-f-ND	cat	sessió	n$n-f
-	por	seta	n	cat	fletxa	n$n-f
+	por	sessão	n$n-f-ND	cat	sessió	n-f$n
+	por	seta	n	cat	fletxa	n-f$n
 	por	sete	num$num-mf-sp	cat	set	num$$num-mf-sp
 RL	por	sede	n$n-f$n-f-ND	cat	set	n-m$n
 	por	setecentos	num	cat	set-cents	num$num-GD$num-GD-sp
@@ -6719,7 +6719,7 @@ LR	por	sexta-feira	n-f-pl	cat	divendres	n-m-sp$n-m$n
 	por	sexto	adj	cat	sisè	adj$adj-ord$adj-ord-GD-ND
 	por	sexual	adj	cat	sexual	adj$adj-mf$
 	por	sexualmente	adv	cat	sexualment	adv
-LR	por	seção	n	cat	secció	n$n-f
+LR	por	seção	n	cat	secció	n-f$n
 	por	show	n	cat	show	n-m$n$n-m-sg
 LR	por	sibilar	vblex	cat	xiular	vblex
 	por	siempre	adv	cat	siempre	adv
@@ -6749,7 +6749,7 @@ LR	por	simples	adj-mf-sp$adj	cat	simple	adj-mf-ND
 	por	simultâneo	adj	cat	simultani	adj$
 	por	sinal	n-m$n$n-m-ND	cat	senyal	n-m$n
 	por	sinceramente	adv	cat	sincerament	adv
-	por	sinceridade	n	cat	sinceritat	n$n-f
+	por	sinceridade	n	cat	sinceritat	n-f$n
 	por	sindical	adj	cat	sindical	adj$adj-mf$
 	por	sindicato	n$n-m-ND	cat	sindicat	n-m$n
 	por	singelamente	adv	cat	senzillament	adv
@@ -6771,7 +6771,7 @@ LR	por	sistemático	adj	cat	sistemàtic	adj$
 	por	soberania	n	cat	sobirania	n-f$n$n-f-sg
 	por	soberano	n	cat	sobirà	n$n-m
 	por	soberano	adj	cat	sobirà	adj$
-	por	sobrancelha	n$n-f	cat	cella	n$n-f$n-f-sg
+	por	sobrancelha	n$n-f	cat	cella	n-f$n$n-f-sg
 	por	sobrar	vblex	cat	sobrar	vblex
 	por	sobre	pr	cat	sobre	pr
 	por	sobretudo	adv	cat	sobretot	adv
@@ -6804,11 +6804,11 @@ RL	por	soltar	vblex	cat	amollar	vblex
 	por	soltar	vblex	cat	deixar	vblex
 	por	solto	adj	cat	solt	adj$
 	por	solucionar	vblex	cat	solucionar	vblex
-	por	solução	n$n-f-ND	cat	solució	n$n-f
+	por	solução	n$n-f-ND	cat	solució	n-f$n
 	por	som	n	cat	so	n$n-m
 	por	soma	n$n-f	cat	suma	n-f$n
 	por	somar	vblex	cat	sumar	vblex
-	por	sombra	n	cat	ombra	n$n-f
+	por	sombra	n	cat	ombra	n-f$n
 	por	sombrio	adj	cat	ombrívol	adj$
 	por	somente	adv	cat	solament	adv
 	por	sonda	n	cat	sonda	n-f$n
@@ -6912,7 +6912,7 @@ RL	por	suposto	adj$adj-GD	cat	presumpte	adj$adj-mf-pl$$adj-mf
 	por	surpreendente	adj$adj-mf	cat	sorprenent	adj-mf$adj$
 	por	surpreendentemente	adv	cat	sorprenentment	adv
 	por	surpreender	vblex	cat	sorprendre	vblex
-	por	surpresa	n$n-f	cat	sorpresa	n-f$n
+	por	surpresa	n$n-f	cat	sorpresa	n-f
 	por	surra	n	cat	pallissa	n-f$n
 	por	susceptível	adj	cat	susceptible	adj$adj-mf$
 	por	suscitar	vblex	cat	suscitar	vblex
@@ -6921,7 +6921,7 @@ RL	por	suposto	adj$adj-GD	cat	presumpte	adj$adj-mf-pl$$adj-mf
 	por	suspeito	adj	cat	sospitós	adj$
 	por	suspender	vblex	cat	suspendre	vblex
 	por	suspenso	adj	cat	suspès	adj
-	por	suspensão	n	cat	suspensió	n$n-f
+	por	suspensão	n	cat	suspensió	n-f$n
 	por	suspirar	vblex	cat	sospirar	vblex
 	por	suspiro	n	cat	sospir	n-m$n
 	por	sustancial	adj	cat	sustancial	adj
@@ -6947,8 +6947,8 @@ RL	por	são	adj$adj-m-sg	cat	sa	adj$
 	por	símbolo	n	cat	símbol	n$n-m
 LR	por	síndroma	n-f$n	cat	síndrome	n-f
 	por	síndrome	n-f$n	cat	síndrome	n-f
-LR	por	síntese	n-f-sg	cat	síntesi	n-f$n$n-f-ND
-LR	por	síntese	n-f-pl	cat	síntesi	n-f$n$n-f-ND
+LR	por	síntese	n-f-sg	cat	síntesi	n-f$n-f-ND$n
+LR	por	síntese	n-f-pl	cat	síntesi	n-f$n-f-ND$n
 RL	por	síntese	n-f-ND$n$n-f	cat	síntesi	n-f-pl
 RL	por	síntese	n-f-ND$n$n-f	cat	síntesi	n-f-sg
 	por	só	adv	cat	només	adv
@@ -6983,7 +6983,7 @@ RL	por	tampa	n$n-f	cat	tapadora	n-f$n
 	por	tampar	vblex	cat	tapar	vblex
 LR	por	tampouco	adv	cat	tampoc	adv
 	por	tanque	n$n-m$n-m-ND	cat	tanc	n-m$n
-RL	por	tanque	n$n-m$n-m-ND	cat	aigüera	n-f$n
+RL	por	tanque	n$n-m$n-m-ND	cat	aigüera	n-f
 	por	tanto	adj	cat	tant	adj$adj-GD$adj-GD-pl
 	por	tanto	adv	cat	tant	adv
 	por	tanto mais quanto	cnjadv	cat	molt més com	cnjadv
@@ -7001,14 +7001,14 @@ RL	por	tarde	n$n-f	cat	vesprada	n-f$n
 	por	teatro	n	cat	teatre	n-m$n
 	por	tecer	vblex	cat	teixir	vblex
 	por	tecido	n$n-m$n-m-ND	cat	teixit	n$n-m
-	por	tecla	n	cat	tecla	n$n-f
+	por	tecla	n	cat	tecla	n-f$n
 	por	tecnicamente	adv	cat	tècnicament	adv
 	por	tecnología	n	cat	tecnología	n
 	por	tecnológico	adj$adj-GD-ND	cat	tecnològic	adj$
 	por	teia de aranha	n	cat	teranyina	n-f$n
 	por	tela	n$n-f	cat	tela	n-f$n
 RL	por	tela	n$n-f	cat	pantalla	n-f$n
-	por	telecomunicação	n$n-f-ND	cat	telecomunicació	n$n-f
+	por	telecomunicação	n$n-f-ND	cat	telecomunicació	n-f$n
 	por	telefone	n	cat	telèfon	n-m$n
 	por	telefonicamente	adv	cat	telefònicament	adv
 	por	telefonía	n	cat	telefonía	n
@@ -7016,18 +7016,18 @@ RL	por	tela	n$n-f	cat	pantalla	n-f$n
 LR	por	telefônico	adj	cat	telefònic	adj$
 	por	telescópio	n	cat	telescopi	n-m$n
 	por	televisivo	adj	cat	televisiu	adj
-	por	televisão	n$n-f$n-f-ND	cat	televisió	n$n-f
+	por	televisão	n$n-f$n-f-ND	cat	televisió	n-f$n
 	por	tema	n$n-m-ND	cat	tema	n-m$n
 	por	temer	vblex	cat	témer	vblex
 	por	temor	n$n-m	cat	temor	n-m$n
-	por	temperatura	n	cat	temperatura	n$n-f
+	por	temperatura	n	cat	temperatura	n-f$n
 	por	tempestade	n	cat	tempestat	n-f$n
 	por	templar	vblex	cat	templar	vblex
 	por	templo	n	cat	temple	n-m$n
 RL	por	tempo	n$n-m-ND	cat	temps	n-m-sp$n-m$n
 LR	por	tempo	n-m-pl	cat	temps	n-m-sp$n-m$n
 LR	por	tempo	n-m-sg	cat	temps	n-m-sp$n-m$n
-	por	temporada	n	cat	temporada	n$n-f
+	por	temporada	n	cat	temporada	n-f$n
 	por	temporariamente	adv	cat	temporalment	adv
 RL	por	temporário	adj-GD$adj$adj-GD-ND	cat	temporal	adj-mf$adj$
 LR	por	temporário	adj-f	cat	temporal	adj-mf$adj$
@@ -7048,11 +7048,11 @@ LR	por	tenro	adj$adj-m-sg	cat	tendre	adj-mf-pl$adj$
 LR	por	tenso	adj$adj-f	cat	tibant	adj-mf$$adj
 RL	por	tenso	adj-GD	cat	tibant	adj-mf$$adj
 LR	por	tenso	adj-m	cat	tibant	adj-mf$$adj
-	por	tensão	n$n-f-ND	cat	tensió	n$n-f
+	por	tensão	n$n-f-ND	cat	tensió	n-f$n
 	por	tentar	vblex	cat	intentar	vblex
 RL	por	tentar	vblex	cat	procurar	vblex
 RL	por	tentar	vblex	cat	temptar	vblex
-	por	tentativa	n-f$n	cat	temptativa	n$n-f
+	por	tentativa	n-f$n	cat	temptativa	n-f$n
 RL	por	tentativa	n-f$n	cat	intent	n-m$n
 	por	teoricamente	adv	cat	teòricament	adv
 	por	teoría	n	cat	teoría	n
@@ -7103,7 +7103,7 @@ RL	por	teste	n-m$n$n-m-ND	cat	test	n-m$n
 	por	testemunha	n-f$n	cat	testimoni	n-mf$n
 LR	por	testemunho	n	cat	testimoniatge	n-m$n
 	por	teto	n	cat	sostre	n-m$n
-LR	por	tevê	n	cat	televisió	n$n-f
+LR	por	tevê	n	cat	televisió	n-f$n
 	por	texto	n	cat	text	n$n-m
 LR	por	ti	prn$prn-tn	cat	tu	prn$prn-tn$prn-tn-p2-mf-sg
 LR	por	tu	prn$prn-tn$prn-tn-p2-mf	cat	tu	prn$prn-tn$prn-tn-p2-mf-sg
@@ -7116,7 +7116,7 @@ LR	por	time	n$n-m	cat	equip	n-m$n
 	por	timão	n	cat	timó	n-m$n
 	por	tinta	n	cat	tinta	n$n-f
 	por	tio	n-m	cat	oncle	n-m$n
-	por	tio	n$n-f	cat	tia	n$n-f
+	por	tio	n$n-f	cat	tia	n-f$n
 	por	tipicamente	adv	cat	típicament	adv
 RL	por	tipo	n-m$n$n-m-sg	cat	mena	n-f$n
 RL	por	tipo	n-m-ND	cat	tipus	n-m-sp$n-m
@@ -7156,7 +7156,7 @@ LR	por	torpe	adj$adj-mf$adj-mf-sg	cat	maldestre	adj$adj-GD-sg$
 	por	torre	n$n-f	cat	torre	n-f$n
 	por	torrencial	adj	cat	torrencial	adj$$adj-mf
 	por	torrente	n-f$n	cat	torrent	n-m$n
-	por	tortura	n	cat	tortura	n$n-f
+	por	tortura	n	cat	tortura	n-f$n
 	por	torturar	vblex	cat	torturar	vblex
 LR	por	tosse	n-f-pl	cat	tos	n-f-sp$n-f
 RL	por	tosse	n$n-f-sg$n-f	cat	tos	n-f-sp$n-f
@@ -7172,13 +7172,13 @@ LR	por	toxicômano	n	cat	toxicòman	n$n-m
 	por	trabalhador	n$n-m-ND	cat	treballador	n$n-GD
 	por	trabalhar	vblex	cat	treballar	vblex
 	por	trabalhista	adj	cat	laboral	adj-mf$adj$
-RL	por	trabalho	n-m$n$n-m-ND	cat	faena	n-f$n
+RL	por	trabalho	n-m$n$n-m-ND	cat	faena	n-f
 RL	por	trabalho	n-m$n$n-m-ND	cat	feina	n-f$n
 	por	trabalho	n-m$n$n-m-ND	cat	treball	n-m$n
 	por	trabar	vblex	cat	trabar	vblex
 	por	tradicional	adj$adj-mf-ND	cat	tradicional	adj$adj-mf$
 	por	tradicionalmente	adv	cat	tradicionalment	adv
-	por	tradição	n$n-f-ND	cat	tradició	n$n-f
+	por	tradição	n$n-f-ND	cat	tradició	n-f$n
 	por	tradutor	n$n-m-ND	cat	traductor	n$n-m
 	por	traduzir	vblex	cat	traduir	vblex
 	por	tradução	n$n-f-ND	cat	traducció	n$n-f
@@ -7200,22 +7200,22 @@ LR	por	tranquilamente	adv	cat	tranquil·lament	adv
 LR	por	tranquilo	adj	cat	tranquil	adj$$adj-GD
 LR	por	tranqüilamente	adv	cat	tranquil·lament	adv
 LR	por	tranqüilizar	vblex	cat	tranquil·litzar	vblex
-	por	transacção	n	cat	transacció	n$n-f
-LR	por	transação	n	cat	transacció	n$n-f
+	por	transacção	n	cat	transacció	n-f$n
+LR	por	transação	n	cat	transacció	n-f$n
 LR	por	transbordar	vblex	cat	desbordar	vblex
 	por	desbordar	vblex	cat	desbordar	vblex
 LR	por	transcorrer	vblex	cat	transcórrer	vblex
 	por	transferência	n$n-f$n-f-ND	cat	transferència	n-f$n
 	por	transformar	vblex$vblex-pp-GD-ND	cat	transformar	vblex
-	por	transformação	n$n-f-ND	cat	transformació	n$n-f
+	por	transformação	n$n-f-ND	cat	transformació	n-f$n
 	por	transitar	vblex	cat	transitar	vblex
 	por	transitoriamente	adv	cat	transitòriament	adv
 	por	transição	n$n-f-ND	cat	transició	n-f$n
 	por	transladar	vblex	cat	traslladar	vblex
-	por	transmissão	n$n-f-ND	cat	transmissió	n$n-f
+	por	transmissão	n$n-f-ND	cat	transmissió	n-f$n
 	por	transmitir	vblex	cat	transmetre	vblex
 	por	transparente	adj	cat	transparent	adj$adj-mf$
-	por	transparência	n$n-f-ND	cat	transparència	n$n-f
+	por	transparência	n$n-f-ND	cat	transparència	n-f$n
 	por	transplantar	vblex	cat	trasplantar	vblex
 	por	transportar	vblex	cat	transportar	vblex
 	por	transporte	n$n-m-ND	cat	transport	n$n-m
@@ -7240,7 +7240,7 @@ LR	por	trem	n	cat	tren	n-m$n
 	por	trepar	vblex	cat	grimpar	vblex
 LR	por	trespassar	vblex	cat	traspassar	vblex
 	por	traspassar	vblex	cat	traspassar	vblex
-	por	treva	n	cat	tenebra	n$n-f
+	por	treva	n	cat	tenebra	n-f$n
 	por	treze	num$num-mf-sp	cat	tretze	num$num-mf-sp$$num-mf
 	por	trezentos	num	cat	tres-cents	num$num-GD$num-GD-sp
 	por	tribo	n	cat	tribu	n-f$n$n-f-sg
@@ -7318,7 +7318,7 @@ RL	por	ultrapassar	vblex	cat	ultrapassar	vblex
 	por	um	num	cat	u	num$num-m-sp
 	por	umbilical	adj	cat	umbilical	adj$$adj-mf
 LR	por	umbral	n	cat	llindar	n-m$n
-	por	unanimidade	n$n-f-ND	cat	unanimitat	n$n-f
+	por	unanimidade	n$n-f-ND	cat	unanimitat	n-f$n
 	por	unha	n$n-f	cat	ungla	n-f$n
 	por	unicamente	adv	cat	únicament	adv
 	por	unidade	n$n-f-ND	cat	unitat	n-f$n$n-f-sg
@@ -7327,7 +7327,7 @@ LR	por	umbral	n	cat	llindar	n-m$n
 	por	unilateralmente	adv	cat	unilateralment	adv
 	por	unir	vblex	cat	unir	vblex$vblex-pron
 	por	universal	adj$adj-mf-ND	cat	universal	adj$adj-mf$
-	por	universidade	n$n-f-ND	cat	universitat	n$n-f$n-f-ND
+	por	universidade	n$n-f-ND	cat	universitat	n-f$n$n-f-ND
 	por	universitário	adj$adj-GD-ND	cat	universitari	adj$
 	por	universo	n	cat	univers	n-m$n
 	por	união	n$n-f-ND	cat	unió	n-f$n
@@ -7338,12 +7338,12 @@ LR	por	umbral	n	cat	llindar	n-m$n
 	por	urgentemente	adv	cat	urgentment	adv
 	por	urgência	n$n-f	cat	urgència	n-f$n
 	por	urina	n	cat	orina	n$n-f
-	por	urna	n	cat	urna	n$n-f
+	por	urna	n	cat	urna	n-f$n
 	por	urso	n	cat	ós	n$n-m$n-m-ND
 	por	urânio	n	cat	urani	n-m$n
 	por	usar	vblex	cat	usar	vblex
 RL	por	usar	vblex	cat	fer	vblex$
-LR	por	usina	n	cat	fàbrica	n$n-f
+LR	por	usina	n	cat	fàbrica	n-f$n
 	por	uso	n	cat	ús	n-m$n
 LR	por	usuário	n	cat	usuari	n$n-m
 RL	por	utente	n-mf	cat	usuari	n$n-m
@@ -7351,7 +7351,7 @@ RL	por	utente	n-mf	cat	usuari	n-f
 LR	por	utente	n-mf	cat	usuari	n-GD
 	por	utilidade	n	cat	utilitat	n-f$n
 	por	utilizar	vblex	cat	utilitzar	vblex
-	por	utilização	n$n-f-ND	cat	utilització	n$n-f
+	por	utilização	n$n-f-ND	cat	utilització	n-f$n
 	por	utopía	n	cat	utopía	n
 	por	v	n$n-m	cat	v	n$n-f$n-f-sg
 	por	vaca	n$n-f-ND	cat	vaca	n-f$n
@@ -7377,7 +7377,7 @@ RL	por	valente	adj-mf$adj	cat	valent	adj-m
 LR	por	ponderar	vblex	cat	valorar	vblex
 RL	por	ponderar	vblex	cat	ponderar	vblex
 	por	vantagem	n-f$n$n-f-ND	cat	avantatge	n-m$n
-	por	vapor	n$n-m	cat	vapor	n$n-m
+	por	vapor	n$n-m	cat	vapor	n-m$n
 	por	vaqueiro	n	cat	vaquer	n$n-m
 	por	vaqueiro	adj	cat	vaquer	adj
 	por	variante	n	cat	variant	n-f$n
@@ -7464,14 +7464,14 @@ LR	por	viajante	n-mf$n	cat	viatger	n-GD
 	por	viajar	vblex	cat	viatjar	vblex
 	por	vice-presidente	n$n-m-ND	cat	vicepresident	n$n-m
 	por	vice-versa	adv	cat	viceversa	adv
-	por	vida	n$n-f-ND$n-f	cat	vida	n$n-f
+	por	vida	n$n-f-ND$n-f	cat	vida	n-f$n
 	por	vidro	n$n-m	cat	vidre	n-m$n
 	por	vientre	n	cat	vientre	n
 	por	vigente	adj	cat	vigent	adj$adj-mf$adj-mf-sg
 	por	vigiar	vblex	cat	vigilar	vblex
 	por	vigilante	n	cat	vigilant	n-mf$n$
 LR	por	segurança	n$n-mf	cat	vigilant	n-mf$n$
-	por	vigilância	n$n-f-ND	cat	vigilància	n$n-f
+	por	vigilância	n$n-f-ND	cat	vigilància	n-f$n
 	por	vigor	n$n-m	cat	vigor	n-m$n
 	por	vigésimo	adj	cat	vintè	adj$adj-ord$adj-ord-GD-ND
 	por	vincular	vblex	cat	vincular	vblex
@@ -7495,7 +7495,7 @@ LR	por	vinte e dois	num-f	cat	vint-i-dos	num$num-GD
 	por	violação	n$n-f$n-f-ND	cat	violació	n-f$n
 	por	violentamente	adv	cat	violentament	adv
 	por	violento	adj	cat	violent	adj$
-	por	violência	n$n-f-ND	cat	violència	n$n-f
+	por	violência	n$n-f-ND	cat	violència	n-f$n
 	por	vir	vblex	cat	venir	vblex
 	por	virar	vblex	cat	bolcar	vblex
 	por	virtual	adj	cat	virtual	adj$adj-mf$
@@ -7509,7 +7509,7 @@ LR	por	visar	vblex	cat	pretendre	vblex
 	por	criminalidade	n	cat	criminalitat	n-f$n
 	por	sinistralidade	n	cat	sinistralitat	n$n-f
 	por	condução	n	cat	conducció	n-f$n
-	por	habilitação	n	cat	habilitació	n$n-f
+	por	habilitação	n	cat	habilitació	n-f$n
 	por	visita	n$n-f-ND	cat	visita	n-f$n
 	por	visitante	n	cat	visitant	n-mf$n
 	por	visitar	vblex	cat	visitar	vblex
@@ -7522,16 +7522,16 @@ LR	por	visar	vblex	cat	pretendre	vblex
 	por	visão	n$n-f-ND	cat	visió	n-f$n
 	por	visível	adj	cat	visible	adj$adj-mf$
 	por	vital	adj$adj-mf-ND	cat	vital	adj$adj-mf$
-	por	vitória	n$n-f-ND	cat	victòria	n$n-f
+	por	vitória	n$n-f-ND	cat	victòria	n-f$n
 	por	viver	vblex	cat	viure	vblex
 	por	vivo	adj	cat	viu	adj$
-	por	vivência	n	cat	vivència	n$n-f
+	por	vivência	n	cat	vivència	n-f$n
 	por	vizinho	n	cat	veí	n$n-m
 	por	vizinho	adj$adj-GD-ND	cat	veí	adj
 	por	viúvo	n$n-f-ND	cat	vidu	n$n-m
 	por	voar	vblex	cat	volar	vblex
 	por	vocal	adj$adj-mf-ND	cat	vocal	adj$adj-mf
-	por	vocação	n	cat	vocació	n$n-f
+	por	vocação	n	cat	vocació	n-f$n
 	por	você	prn-tn-p3-mf-sg	cat	vostè	prn$prn-tn-p3-mf-sg$$prn-tn
 RL	por	você	prn-tn-p3-mf-pl$prn-tn-p3-mf	cat	vostè	prn-tn-p3-mf-pl
 RL	por	você	prn-tn-p3-mf-sg	cat	vosté	prn-tn$prn$prn-tn-p3-mf-sg
@@ -7555,7 +7555,7 @@ LR	por	vosso	det$det-pos-GD-ND$det-pos$det-pos-GD	cat	el vostre	det$det-pos$det-
 	por	votar	vblex	cat	votar	vblex
 	por	votação	n$n-f-ND	cat	votació	n-f$n
 	por	voto	n$n-m-ND	cat	vot	n-m$n
-	por	voz	n$n-f-ND$n-f	cat	veu	n$n-f$n-f-ND
+	por	voz	n$n-f-ND$n-f	cat	veu	n-f$n$n-f-ND
 	por	vuelta	n	cat	vuelta	n
 	por	vulcânico	adj	cat	volcànic	adj$
 	por	vulcão	n	cat	volcà	n-m$n
@@ -7571,7 +7571,7 @@ LR	por	vosso	det$det-pos-GD-ND$det-pos$det-pos-GD	cat	el vostre	det$det-pos$det-
 	por	vídeo	n$n-m	cat	vídeo	n-m$n$n-m-sg
 	por	vínculo	n$n-m	cat	vincle	n-m$n
 	por	vírus	n	cat	virus	n-m-sp$n$n-m
-	por	vítima	n$n-f-ND	cat	víctima	n$n-f
+	por	vítima	n$n-f-ND	cat	víctima	n-f$n
 LR	por	vós	prn-tn$prn-tn-p2-mf-pl	cat	vosaltres	prn-tn-p2-mf$prn-tn$prn-tn-p2-mf-pl$prn
 LR	por	vôo	n	cat	vol	n-m$n
 	por	web	n-f$n	cat	web	n-mf$n
@@ -7581,13 +7581,13 @@ LR	por	vôo	n	cat	vol	n-m$n
 	por	xeque	n$n-m-sg	cat	escac	n-m-sg
 LR	por	xeque	n-m-pl	cat	escac	n-m-pl$n-m
 	por	xadrez	n-m-sg	cat	escac	n-m-pl$n-m
-	por	xícara	n	cat	tassa	n$n-f
+	por	xícara	n	cat	tassa	n-f$n
 	por	zeloso	adj	cat	gelós	adj$$adj-sup
 	por	zelo	n	cat	zel	n-m$n-m-sg$n
 LR	por	zombador	adj$adj-f	cat	burleta	adj-mf$adj
 RL	por	zombador	adj-GD	cat	burleta	adj-mf$adj
 LR	por	zombador	adj-m	cat	burleta	adj-mf$adj
-	por	zona	n$n-f-ND	cat	zona	n$n-f
+	por	zona	n$n-f-ND	cat	zona	n-f$n
 	por	África	np$np-top-f-sg	cat	Àfrica	np$np-loc$np-loc-f
 	por	África do Sul	np$np-top	cat	Sud-àfrica	np$np-loc$np-loc-f
 	por	Álvarez	np	cat	Álvarez	np$$np-cog$np-cog-mf-sp
@@ -7597,7 +7597,7 @@ LR	por	zombador	adj-m	cat	burleta	adj-mf$adj
 	por	às presas	adv	cat	a la lleugera	adv
 	por	às vezes	adv	cat	de vegades	adv
 	por	ágil	adj	cat	àgil	adj$adj-mf$
-	por	água	n$n-f-ND	cat	aigua	n$n-f
+	por	água	n$n-f-ND	cat	aigua	n-f$n
 	por	águia	n	cat	àguila	n-f$n
 	por	álbum	n	cat	àlbum	n-m$n$n-m-sg
 	por	álcool	n	cat	alcohol	n-m$n$n-m-ND
@@ -7650,7 +7650,7 @@ RL	por	ónus	n-m-sp$n-m	cat	càrrega	n-f-sg
 RL	por	ónus	n-m-sp$n-m	cat	càrrega	n-f-pl
 	por	ópera	n$n-f	cat	òpera	n-f$n
 	por	óptimo	adj	cat	òptim	adj$
-	por	órbita	n$n-f	cat	òrbita	n$n-f
+	por	órbita	n$n-f	cat	òrbita	n-f$n
 	por	órgão	n$n-m-ND	cat	òrgan	n$n-m
 RL	por	órgão	n$n-m-ND	cat	orgue	n-m$n
 	por	ósseo	adj	cat	ossi	adj
@@ -7969,7 +7969,7 @@ RL	por	por trás de	pr	cat	per darrere de	pr
 	por	museu	n	cat	museu	n$n-m
 	por	mau-trato	n	cat	maltractament	n$n-m$n-m-pl
 	por	Nadal	np	cat	Nadal	np$$np-al
-	por	notícia	n$n-f-ND	cat	notícia	n$n-f$n-f-sg
+	por	notícia	n$n-f-ND	cat	notícia	n-f$n$n-f-sg
 LR	por	parlamentar	adj-mf$adj-mf-ND	cat	parlamentari	adj-GD
 RL	por	parlamentar	adj-mf$adj-mf-ND	cat	parlamentari	adj$adj-m$
 RL	por	parlamentar	adj-mf$adj-mf-ND	cat	parlamentari	adj-f
@@ -8002,7 +8002,7 @@ RL	por	quase	preadv	cat	quasi	preadv
 	por	tão	preadv	cat	tan	preadv
 	por	terra	n$n-f$n-f-ND	cat	terra	n-f$n
 	por	tripartido	adj	cat	tripartit	adj$
-	por	venda	n	cat	venda	n$n-f
+	por	venda	n	cat	venda	n-f$n
 	por	Verdi	np	cat	Verdi	np$np-cog-mf-sp$
 	por	via	n$n-f	cat	via	n-f$n
 	por	Warner	np	cat	Warner	np$np-cog-mf-sp$
@@ -8023,7 +8023,7 @@ RL	por	quase	preadv	cat	quasi	preadv
 	por	Anna	np	cat	Anna	np$np-ant-f-sg$np-ant
 	por	Tony	np	cat	Tony	np$np-ant-m-sg$np-ant
 	por	tv3	np	cat	tv3	np$np-al-f-sg
-	por	esperança	n$n-f$n-f-ND	cat	esperança	n$n-f
+	por	esperança	n$n-f$n-f-ND	cat	esperança	n-f$n
 	por	Carod	np	cat	Carod	np$np-cog$np-cog-mf-sp
 	por	à frente de	pr	cat	al capdavant de	pr
 	por	Iraque	np$np-loc	cat	Iraq	np$np-loc$np-loc-m

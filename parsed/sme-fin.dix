@@ -241,16 +241,16 @@ RL	sme	ovdal go	cnjsub	fin	ennenkuin	cnjsub
 LR	sme	mun	prn$prn-pers-p1-sg$prn-pers	fin	minä	prn$prn-pers-p1$prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-gen
 LR	sme	don	prn$prn-pers-p2-sg$prn-pers	fin	sinä	prn$prn-pers-p2$prn-pers$prn-pers-p2-sg
 LR	sme	son	prn-pers-p3-sg$prn$prn-pers	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers
-LR	sme	mun	prn-pers-p1-du	fin	me	prn$prn-pers-p1$prn-pers-p1-pl$prn-pers$prn-pers-p1-pl-gen
+LR	sme	mun	prn-pers-p1-du	fin	me	prn$prn-pers-p1-pl$prn-pers-p1$prn-pers$prn-pers-p1-pl-gen
 LR	sme	don	prn-pers-p2-du	fin	te	prn$prn-pers-p2-pl$prn-pl
 LR	sme	son	prn-pers-p3-du	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen
-LR	sme	mun	prn-pers-p1-pl	fin	me	prn$prn-pers-p1$prn-pers-p1-pl$prn-pers$prn-pers-p1-pl-gen
+LR	sme	mun	prn-pers-p1-pl	fin	me	prn$prn-pers-p1-pl$prn-pers-p1$prn-pers$prn-pers-p1-pl-gen
 LR	sme	don	prn-pers-p2-pl	fin	te	prn$prn-pers-p2-pl$prn-pl
 LR	sme	son	prn-pers-p3-pl	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen
 RL	sme	mun	prn$prn-pers-p1-sg$prn-pers	fin	minä	prn$prn-pers-p1$prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-gen
 RL	sme	don	prn$prn-pers-p2-sg$prn-pers	fin	sinä	prn$prn-pers-p2$prn-pers$prn-pers-p2-sg
 RL	sme	son	prn-pers-p3-sg$prn$prn-pers	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers
-RL	sme	mun	prn$prn-pers-p1-sg$prn-pers	fin	me	prn$prn-pers-p1$prn-pers-p1-pl$prn-pers$prn-pers-p1-pl-gen
+RL	sme	mun	prn$prn-pers-p1-sg$prn-pers	fin	me	prn$prn-pers-p1-pl$prn-pers-p1$prn-pers$prn-pers-p1-pl-gen
 RL	sme	don	prn$prn-pers-p2-sg$prn-pers	fin	te	prn-pers$prn-pers-p2
 RL	sme	son	prn-pers-p3-sg$prn$prn-pers	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen
 	sme	diet	prn$prn-dem$prn-dem-sg	fin	se	prn-sg-gen$prn-sg$prn-dem-sg-gen
@@ -333,8 +333,8 @@ RL	sme	beassážat	n$n-pl	fin	pääsiäinen	n$n-sg
 	sme	šaddu	n	fin	istutus	n
 	sme	rábát	n	fin	tahdas	n
 	sme	jorggáldat	n	fin	vaihde	n
-	sme	viessu	n	fin	talo	n$n-sg
-	sme	stohpu	n	fin	talo	n$n-sg
+	sme	viessu	n	fin	talo	n$n-ND
+	sme	stohpu	n	fin	talo	n$n-ND
 	sme	abessiiva	n	fin	abessiivi	n
 	sme	emuleren	n	fin	emulointi	n
 	sme	juoigi	n-nomag$n	fin	joikkaaja	n
@@ -626,7 +626,7 @@ RL	sme	beassážat	n$n-pl	fin	pääsiäinen	n$n-sg
 	sme	beatnatsuoidni	n	fin	kultapiisku	n
 	sme	beavdegirji	n	fin	pöytäkirja	n
 	sme	beavdeliidni	n	fin	pöytäliina	n
-	sme	beavdi	n	fin	pöytä	n$n-sg
+	sme	beavdi	n	fin	pöytä	n$n-ND
 	sme	beavža	n	fin	itä	n
 	sme	beavža	n	fin	itätuuli	n
 	sme	beađbi	n	fin	lapaluu	n
@@ -1342,7 +1342,7 @@ LR	sme	biblioteahka	n	fin	kirjasto	n
 	sme	dálkkádat	n	fin	ilmasto	n
 	sme	dálla	n	fin	taaleri	n
 	sme	dállearka	n	fin	lautanen	n
-	sme	dállu	n	fin	talo	n$n-sg
+	sme	dállu	n	fin	talo	n$n-ND
 	sme	dálobuoigi	n	fin	talonpoika	n
 	sme	dálon	n	fin	talollinen	n
 	sme	dálssár	n	fin	jaarittelija	n
@@ -1378,7 +1378,7 @@ LR	sme	biblioteahka	n	fin	kirjasto	n
 	sme	dávvir	n	fin	esine	n
 	sme	dávvir	n	fin	tavara	n
 	sme	dávvirvuorká	n	fin	museo	n
-	sme	dávástus	n	fin	vastaus	n$n-sg
+	sme	dávástus	n	fin	vastaus	n
 	sme	dávástus	n	fin	vastine	n
 	sme	dáčča	n$n-sem_hum	fin	norjalainen	n
 	sme	dáđđi	n	fin	tahma	n
@@ -1408,7 +1408,7 @@ LR	sme	biblioteahka	n	fin	kirjasto	n
 	sme	ealgabeana	n	fin	hirvikoira	n
 	sme	ealgabivdi	n-nomag	fin	hirvenpyytäjä	n
 	sme	ealgabivdu	n	fin	hirvenpyynti	n
-	sme	ealli	n-nomag$n$n-nomag-sem_ani	fin	eläin	n$n-sg
+	sme	ealli	n-nomag$n$n-nomag-sem_ani	fin	eläin	n$n-ND
 	sme	ealli	n-nomag$n$n-nomag-sem_ani	fin	elämä	n
 	sme	eallin	n	fin	elo	n
 	sme	eallin	n	fin	elämä	n
@@ -1665,7 +1665,7 @@ LR	sme	biblioteahka	n	fin	kirjasto	n
 	sme	geahčastat	n	fin	ilme	n
 	sme	geahčastat	n	fin	katse	n
 	sme	geahči	n	fin	loppu	n
-	sme	geahči	n	fin	pää	n$n-sg-nom$n-sg
+	sme	geahči	n	fin	pää	n$n-sg-nom
 	sme	geahččaleapmi	n	fin	koe	n
 	sme	geahččaleapmi	n	fin	kokeilu	n
 	sme	geahččanguovlu	n	fin	näkökulma	n
@@ -1749,7 +1749,7 @@ LR	sme	biblioteahka	n	fin	kirjasto	n
 	sme	gievravuohta	n	fin	vahvuus	n
 	sme	gieđahallan	n	fin	käsittely	n
 	sme	gieđbmi	n	fin	kattila	n
-	sme	gihcci	n	fin	eläin	n$n-sg
+	sme	gihcci	n	fin	eläin	n$n-ND
 	sme	gihcci	n	fin	kili	n
 	sme	gihli	n	fin	kihla	n
 	sme	gihpa	n	fin	kansio	n
@@ -1811,7 +1811,7 @@ LR	sme	girjerájus	n	fin	kirjasto	n
 	sme	giđđadálvi	n	fin	kevättalvi	n
 	sme	giđđageassi	n	fin	suvi	n
 	sme	gižaldat	n	fin	sarana	n
-	sme	glássa	n	fin	ikkuna	n$n-sg
+	sme	glássa	n	fin	ikkuna	n$n-ND
 	sme	goahccevuovdi	n	fin	havumetsä	n
 	sme	goahcci	n	fin	neulanen	n$n-ND
 	sme	goahki	n	fin	kuomu	n
@@ -2271,7 +2271,7 @@ LR	sme	girjerájus	n	fin	kirjasto	n
 	sme	iešvuohta	n	fin	ominaisuus	n
 	sme	iežaskapitála	n	fin	pääoma	n
 	sme	iežáhus	n	fin	muutos	n
-	sme	ihkkon	n	fin	ikkuna	n$n-sg
+	sme	ihkkon	n	fin	ikkuna	n$n-ND
 	sme	ihtalupmi	n	fin	ihottuma	n
 	sme	ihtamas	n	fin	ihottuma	n
 	sme	ildu	n	fin	hylly	n
@@ -2310,7 +2310,7 @@ LR	sme	girjerájus	n	fin	kirjasto	n
 	sme	jahkedieđáhus	n	fin	vuosikertomus	n
 	sme	jahkečoahkkin	n	fin	vuosikokous	n
 	sme	jahkečuohti	n	fin	vuosisata	n
-	sme	jahki	n$n-sem_measr_time	fin	vuosi	n$n-sg
+	sme	jahki	n$n-sem_measr_time	fin	vuosi	n$n-ND
 	sme	jallodat	n	fin	hulluus	n
 	sme	jalŋŋis	n	fin	kanto	n
 	sme	jaman	n	fin	rähisijä	n
@@ -2340,7 +2340,7 @@ LR	sme	girjerájus	n	fin	kirjasto	n
 	sme	jienasteapmi	n	fin	äänestys	n
 	sme	jierbmi	n	fin	järki	n
 	sme	jieret	n	fin	punaherukka	n
-	sme	jietna	n	fin	ääni	n$n-sg
+	sme	jietna	n	fin	ääni	n$n-ND
 	sme	jievjaskuolfi	n	fin	tunturipöllö	n
 	sme	joatkka	n	fin	jatke	n
 	sme	joatkka	n	fin	jatko	n
@@ -2484,7 +2484,7 @@ LR	sme	girjerájus	n	fin	kirjasto	n
 	sme	klubba	n	fin	klubi	n
 	sme	klássa	n-g3$n	fin	lasi	n
 	sme	klássa	n-g3$n	fin	luokka	n
-	sme	klássa	n-g3$n	fin	ikkuna	n$n-sg
+	sme	klássa	n-g3$n	fin	ikkuna	n$n-ND
 	sme	klássalatnja	n	fin	luokkahuone	n
 	sme	knáhppá	n	fin	kuppa	n
 	sme	knállja	n	fin	nalli	n
@@ -2773,12 +2773,12 @@ LR	sme	girjerájus	n	fin	kirjasto	n
 	sme	láppaskas	n	fin	karitsannahka	n
 	sme	láppis	n	fin	karitsa	n
 	sme	lárbma	n	fin	melu	n
-	sme	láse	n	fin	ikkuna	n$n-sg
+	sme	láse	n	fin	ikkuna	n$n-ND
 	sme	láse	n	fin	lasi	n
 	sme	láseliidni	n	fin	verho	n
-	sme	láseráigi	n	fin	ikkuna	n$n-sg
+	sme	láseráigi	n	fin	ikkuna	n$n-ND
 	sme	láskkáš	n	fin	laskiainen	n
-	sme	lássa	n	fin	ikkuna	n$n-sg
+	sme	lássa	n	fin	ikkuna	n$n-ND
 	sme	lássa	n	fin	lasi	n
 	sme	lássa	n	fin	lukko	n
 	sme	lássaliidni	n	fin	verho	n
@@ -3244,7 +3244,7 @@ LR	sme	girjerájus	n	fin	kirjasto	n
 	sme	oaivebávččas	n	fin	pääkipu	n
 	sme	oaivegávpot	n	fin	pääkaupunki	n
 	sme	oaiveskálžu	n	fin	pääkallo	n
-	sme	oaivi	n$n-sem_body-sg-nom	fin	pää	n$n-sg-nom$n-sg
+	sme	oaivi	n$n-sem_body-sg-nom	fin	pää	n$n-sg-nom
 	sme	oaivil	n	fin	merkitys	n
 	sme	oaivil	n	fin	mielipide	n
 	sme	oaivvahat	n	fin	kerä	n
@@ -4152,7 +4152,7 @@ LR	sme	ollesčoahkkin	n	fin	täysistunto	n
 	sme	suomagiella	n	fin	suomi	n
 	sme	suonjar	n	fin	säde	n
 	sme	suopman	n	fin	murre	n
-	sme	suopman	n	fin	ääni	n$n-sg
+	sme	suopman	n	fin	ääni	n$n-ND
 	sme	suopmelaš	n	fin	suomalainen	n
 	sme	suorbma	n	fin	sormi	n$n-ND
 	sme	suorbmagoahti	n	fin	luhtalitukka	n
@@ -4431,7 +4431,7 @@ LR	sme	ollesčoahkkin	n	fin	täysistunto	n
 	sme	viessogálvu	n	fin	huonekalu	n
 	sme	viessohoiddár	n	fin	talonmies	n
 	sme	viessoláigu	n	fin	vuokra	n
-	sme	viessu	n	fin	talo	n$n-sg
+	sme	viessu	n	fin	talo	n$n-ND
 	sme	viesttar	n	fin	länsi	n
 	sme	vievssis	n	fin	ampiainen	n
 	sme	vihaheapmi	n	fin	vihkiminen	n
@@ -4632,7 +4632,7 @@ LR	sme	ollesčoahkkin	n	fin	täysistunto	n
 	sme	vársá	n	fin	varsa	n
 	sme	váruhus	n	fin	varoitus	n
 	sme	vásihus	n	fin	kokemus	n
-	sme	vástádus	n	fin	vastaus	n$n-sg
+	sme	vástádus	n	fin	vastaus	n
 	sme	vásáhus	n	fin	elämys	n
 	sme	váttisvuohta	n	fin	ongelma	n
 	sme	váttisvuohta	n	fin	vaikeus	n
@@ -16987,7 +16987,7 @@ RL	sme		num$$num-arab	fin	❡	sent
 	sme	jienastanlihppu	n	fin	äänestyslippu	n
 	sme	vásttolaš	adj	fin	vastuinen	adj
 	sme	variašuvdna	n	fin	vaihtelu	n
-	sme	váldu	n	fin	pää	n$n-sg-nom$n-sg
+	sme	váldu	n	fin	pää	n$n-sg-nom
 	sme	stoahkan	n	fin	melu	n
 	sme	stáhtaveahkki	n	fin	valtionapu	n
 	sme	skuvlaoahpahus	n	fin	kouluopetus	n
@@ -18397,7 +18397,7 @@ RL	sme		num$$num-arab	fin	❡	sent
 	sme	spálli	n-g3	fin	tuulenpuuska	n
 	sme	stahkka	n	fin	kimpale	n
 	sme	steaikabánno	n-g3	fin	paistinpannu	n
-	sme	steamma	n	fin	ääni	n$n-sg
+	sme	steamma	n	fin	ääni	n$n-ND
 	sme	stivra	n	fin	hallitus	n
 	sme	stivrejeaddji	n-nomag$n-nomag-sem_hum	fin	kurinpitäjä	n
 	sme	stoagus	n	fin	lelu	n

@@ -558,7 +558,7 @@
 	deu	Uhr	n-f	swe	klocka	n-ut$
 	deu	Vogel	n-m$n	swe	fågel	n-ut
 	deu	Vater	n-m$n	swe	far	n-ut
-	deu	Wasser	n-nt$n	swe	vatten	n-ut-sp$n-ut
+	deu	Wasser	n-nt$n	swe	vatten	n-ut
 	deu	Wald	n-m$n	swe	skog	n-ut
 	deu	Wurf	n-m	swe	kast	n-ut
 	deu	Wurf	n-m	swe	kull	n-ut
@@ -599,7 +599,7 @@
 	deu	versuchen	vblex	swe	försöka	$vblex
 	deu	wagen	vblex	swe	våga	$vblex
 	deu	sein	vbser	swe	vara	vblex
-	deu	haben	vbhaver	swe	ha	vbhaver$
+	deu	haben	vbhaver	swe	ha	vbhaver
 	deu	können	vbmod	swe	kunna	vbmod
 	deu	müssen	vbmod	swe	måsta	vaux
 	deu	werden	vaux	swe	skola	vbmod
@@ -699,9 +699,9 @@
 	deu	reiten	vblex	swe	rida	$vblex
 	deu	allein	adj-sint$adj	swe	ensam	adj-sint$adj$
 	deu	dunkel	adj-sint$adj	swe	mörk	adj-sint$$adj
-	deu	groß	adj$adj-sint	swe	stor	adj-pst$$adj
+	deu	groß	adj$adj-sint	swe	stor	$adj$adj-sint$adj-sint-pst
 	deu	kalt	adj$adj-sint	swe	kall	adj$$adj-sint-pst
-	deu	klein	adj-sint$adj	swe	liten	$adj-sint$adj
+	deu	klein	adj-sint$adj	swe	liten	$adj-sint$adj$adj-sint-pst
 	deu	lang	adj$adj-sint	swe	lång	adj$adj-sint$
 	deu	langsam	adj-sint$adj	swe	långsam	adj$adj-sint
 	deu	schnell	adj-sint$adj	swe	snabb	$adj-sint$adj
@@ -959,7 +959,7 @@
 	deu	ganz	adj-sint$adj	swe	hel	$adj-sint$adj
 	deu	gut	adj-sint$adj	swe	bra	adj
 	deu	einfach	adj-sint$adj	swe	enkel	$adj-sint$adj
-	deu	alt	adj-sint$adj	swe	gammal	$adj-sint$adj
+	deu	alt	adj-sint$adj	swe	gammal	$adj-sint$adj$adj-sint-pst
 	deu	anstrengend	adj$adj-sint	swe	ansträngande	adj
 	deu	natürlich	adj-sint$adj	swe	naturlig	$adj$adj-sint
 	deu	kinderlos	adj-sint$adj	swe	barnlös	adj
@@ -1591,7 +1591,7 @@
 	deu	er	prn$prn-pers-p3-m-sg-acc$prn-pers-p3-m-sg$prn-pers-p3	swe	han	prn-pers-p3-m$$prn$prn-pers
 	deu	heute	adv	swe	i dag	adv
 	deu	gestern	adv	swe	i går	adv
-	deu	klein	adj-sint$adj	swe	liten	$adj-sint$adj
+	deu	klein	adj-sint$adj	swe	liten	$adj-sint$adj$adj-sint-pst
 	deu	nah	adj-sint$adj	swe	nära	adj
 	deu	innen	adv	swe	inuti	adv
 	deu	schnell	adv	swe	snabbt	adv
@@ -1600,7 +1600,7 @@
 	deu	natürlich	adv	swe	naturligtvis	adv
 	deu	im	pr	swe	i	pr
 	deu	zu	pr$pr-dat	swe	att	pr
-	deu	Fenster	n-nt	swe	fönster	n-ut-sp$n-ut
+	deu	Fenster	n-nt	swe	fönster	n-ut
 	deu	Decke	n-f	swe	tak	n-nt
 	deu	Decke	n-f	swe	täcke	n-nt
 	deu	Frage	n-f	swe	fråga	n-nt
@@ -9288,7 +9288,7 @@
 	deu	Sexualität	n-f	swe	sexualitet	n-ut
 	deu	Sherry	n-m	swe	sherry	n-ut
 	deu	Show	n-f	swe	show	n-ut
-	deu	Sichel	n-f	swe	skära	$n-ut
+	deu	Sichel	n-f	swe	skära	n-ut
 	deu	Sicherheit	n-f	swe	säkerhet	n-ut
 	deu	Sicherheitsgurt	n-m	swe	säkerhetsbälte	n-nt
 	deu	Sicherheitsnadel	n-f	swe	säkerhetsnål	n-ut
@@ -10773,7 +10773,7 @@
 	deu	analog	adj$adj-sint	swe	analog	$adj$adj-sint
 	deu	analytisch	adj$adj-sint	swe	analytisk	adj-sint$$adj
 	deu	anderthalb	adj$adj-sint	swe	en och en halv	adj
-	deu	anderweitig	adj$adj-sint	swe	annan	adj$adj-pst
+	deu	anderweitig	adj$adj-sint	swe	annan	adj$adj-ord
 	deu	angeblich	adj-sint$adj	swe	så kallad	adj
 	deu	angeboren	adj$adj-sint	swe	medfödd	adj$adj-sint
 	deu	angelsächsisch	adj$adj-sint	swe	anglosaxisk	adj
@@ -11356,7 +11356,7 @@
 	deu	frisch	adj$adj-sint	swe	färsk	adj$adj-pst
 	deu	fristlos	adj$adj-sint	swe	omedelbar	$adj$adj-sint
 	deu	frivol	adj-sint$adj	swe	frivol	adj
-	deu	froh	adj$adj-sint	swe	glad	$adj$adj-sint
+	deu	froh	adj$adj-sint	swe	glad	$adj$adj-sint$adj-sint-pst-sg
 	deu	fröhlich	adj-sint$adj	swe	gladlynt	adj
 	deu	fromm	adj$adj-sint	swe	from	adj-sint$$adj
 	deu	frontal	adj$adj-sint	swe	frontal	adj
@@ -11948,11 +11948,11 @@
 	deu	liturgisch	adj$adj-sint	swe	liturgisk	$adj$adj-sint
 	deu	lobenswert	adj-sint$adj	swe	lovvärd	adj$adj-unsint
 	deu	löblich	adj$adj-sint	swe	lovvärd	adj$adj-unsint
-	deu	locker	adj$adj-sint	swe	lös	$adj
+	deu	locker	adj$adj-sint	swe	lös	$adj$adj-pst
 	deu	logisch	adj$adj-sint	swe	logisk	$adj$adj-unsint
 	deu	lokal	adj$adj-sint	swe	lokal	adj$adj-pst
 	deu	los	adj-sint$adj	swe	fri	adj$$adj-sint
-	deu	lose	adj$adj-sint	swe	lös	$adj
+	deu	lose	adj$adj-sint	swe	lös	$adj$adj-pst
 	deu	loyal	adj-sint$adj	swe	lojal	$adj$adj-sint
 	deu	lückenlos	adj$adj-sint	swe	utan luckor	adj
 	deu	lukrativ	adj$adj-sint	swe	lukrativ	adj$adj-sint
@@ -12702,7 +12702,7 @@
 	deu	unsinnig	adj-sint$adj	swe	orimlig	$adj$adj-sint
 	deu	unsterblich	adj$adj-sint	swe	odödlig	adj$adj-sint
 	deu	untergeben	adj$adj-sint	swe	undergiven	adj-sint$adj
-	deu	unterhaltsam	adj$adj-sint	swe	rolig	$adj$adj-sint
+	deu	unterhaltsam	adj$adj-sint	swe	rolig	$adj$adj-sint$adj-sint-pst
 	deu	unterirdisch	adj-sint$adj	swe	underjordisk	adj$$adj-sint
 	deu	unterschiedlich	adj$adj-sint	swe	divergerande	adj
 	deu	untrennbar	adj$adj-sint	swe	oskiljbar	adj
@@ -14570,7 +14570,7 @@
 	deu	schnappen	vblex	swe	nafsa	$vblex
 	deu	schnarchen	vblex	swe	snarka	$vblex
 	deu	schnattern	vblex	swe	snattra	$vblex
-	deu	schneiden	vblex$vblex-sep-fm	swe	skära	vblex
+	deu	schneiden	vblex$vblex-sep-fm	swe	skära	$vblex
 	deu	schneien	vblex	swe	snöa	$vblex
 	deu	schnitzen	vblex	swe	tälja	$vblex
 	deu	schnuppern	vblex	swe	sniffa	$vblex
@@ -15134,9 +15134,9 @@
 	deu	zwinkern	vblex	swe	blinka	$vblex
 	deu	zwitschern	vblex	swe	kvittra	vblex
 	deu	ein	det$det-ind$det-ind-nt	swe	en	det-ind$det
-	deu	der	det$det-def$det-def-nt	swe	den	det-dem$det
+	deu	der	det$det-def$det-def-nt	swe	den	det-dem$det$det-dem-ut
 	deu	ich	prn$prn-pers-p1-mf-sg-acc$prn-pers-p1-mf-sg$prn-pers-p1	swe	jag	prn-pers-p1-ut$prn-pers$prn
-	deu	du	prn$prn-pers-p2-mf-sg-acc$prn-pers-p2-mf$prn-pers-p2$prn-pers-p2-mf-sg	swe	du	prn$prn-pers$prn-pers-p2-ut$
+	deu	du	prn$prn-pers-p2-mf-sg-acc$prn-pers-p2-mf$prn-pers-p2$prn-pers-p2-mf-sg	swe	du	prn-pers-p2-ut$prn$prn-pers$
 	deu	es	prn-pers-p3-nt-sg-acc$prn$prn-pers-p3$prn-pers-p3-nt-sg$prn-pers-p3-nt	swe	den	prn-pers-p3-ut$prn$
 	deu	wir	prn$prn-pers-p2-mf-pl	swe	vi	prn-pers-p1$prn$prn-pers-p1-un
 	deu	ihr	prn$prn-pers-p2-mf-pl$prn-pers-p2-mf-pl-acc	swe	ni	prn-pers-p2$prn$

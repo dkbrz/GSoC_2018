@@ -164,8 +164,8 @@ LR	pol	graf acykliczny	adj	epo	sencikla	adj
 LR	pol	ale piwo	n	epo	elo	n
 	pol	aleja	n-f$n	epo	aleo	n
 	pol	aleja	n-f$n	epo	avenuo	n
-	pol	Alek	np$np-ant-mp	epo	Aleksandro	np$np-ant$
-	pol	Aleksander	np	epo	Aleksandro	np$np-ant$
+	pol	Alek	np$np-ant-mp	epo	Aleksandro	np$np-ant
+	pol	Aleksander	np	epo	Aleksandro	np$np-ant
 	pol	Aleksander Macedoński	adj	epo	Aleksandro la Granda	adj
 	pol	Aleksander Wielki	adj	epo	Aleksandro la Granda	adj
 	pol	aleluja	adj	epo	haleluja	adj
@@ -427,7 +427,7 @@ LR	pol	argument zmienna niezależna	n	epo	argumento	n
 	pol	artystyczny	adj	epo	arta	adj
 	pol	artystyczny	adj	epo	belarta	adj
 	pol	artyzm	n$n-mi	epo	artismo	n
-	pol	Arystoteles	np$np-ant-mp	epo	Aristotelo	np-ant$$np$np-ant-m
+	pol	Arystoteles	np$np-ant-mp	epo	Aristotelo	np-ant$np$np-ant-m
 	pol	arytmetyczny	adj	epo	aritmetika	adj
 	pol	arytmetyka	n-f$n	epo	aritmetiko	n
 	pol	asesor	n	epo	asesoro	n
@@ -9951,7 +9951,7 @@ LR	pol	okupywać płacić okup	vblex	epo	elaĉeti	vblex
 	pol	olej	n-mi$n	epo	oleo	n
 	pol	smarować olejem	vblex	epo	olei	vblex
 	pol	olej palmowy	n	epo	palmoleo	n
-	pol	Olek	np	epo	Aleksandro	np$np-ant$
+	pol	Olek	np	epo	Aleksandro	np$np-ant
 	pol	oligarchia	n-f$n	epo	grupo	n
 	pol	oligocen	n	epo	oligoceno	n
 	pol	Olimp	np	epo	Olimpo	np$np-loc

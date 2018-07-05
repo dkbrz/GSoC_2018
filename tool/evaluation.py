@@ -79,8 +79,9 @@ def one_iter_evaluation(lang1, lang2, G, k, l1, l2, cutoff=4):
     pairs = []
     for i in candidates:
         if len(pairs) < 1000 and i in G.nodes():
-            s = FilteredList(list(G.neighbors(i))).lang(lang2)
-            if len(s) == 1:
+            ne = list(G.neighbors(i))
+            s = FilteredList(ne).lang(lang2)
+            if len(s) == 1 and len(ne) > 1:
                 pairs.append((i, s[0]))
         elif len(pairs) >= 1000:
             break

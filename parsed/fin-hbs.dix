@@ -94,29 +94,29 @@
 	fin	500.	num	hbs	500.	num
 	fin	puutarha	n$n-ND	hbs	vrt	n-mi$n
 	fin	sää	n	hbs	vrijeme	n-nt$n
-	fin	talo	n$n-sg	hbs	kuća	n-f$n
+	fin	talo	n$n-ND	hbs	kuća	n-f$n
 	fin	poika	n$n-ND	hbs	dječak	n-ma$n
-	fin	vuosi	n$n-sg	hbs	godina	n-f$n
+	fin	vuosi	n$n-ND	hbs	godina	n-f$n
 	fin	sisko	n	hbs	sistra	n-f
 	fin	koira	n$n-ND	hbs	pas	n-ma$n
 	fin	kissa	n$n-ND	hbs	mačka	n-ma
 	fin	lapsi	n$n-ND	hbs	dijete	n-nt$n
 	fin	äiti	n	hbs	majka	n-f$n
-	fin	ikkuna	n$n-sg	hbs	prozor	n-mi$n
+	fin	ikkuna	n$n-ND	hbs	prozor	n-mi$n
 	fin	puu	n$n-ND	hbs	drvo	n-nt$n
 	fin	käsi	n$n-ND	hbs	ruka	n-f$n
 	fin	silmä	n$n-ND	hbs	ok	n-f
 	fin	leikki	n$n-ND	hbs	igra	n-f$n
 	fin	laskeminen	n	hbs	brojanje	n-nt$n
-	fin	vastaus	n$n-sg	hbs	odgovor	n-mi$n
+	fin	vastaus	n	hbs	odgovor	n-mi$n
 	fin	kysymys	n$n-ND	hbs	pitanje	n-nt$n
 	fin	ihminen	n$n-pl	hbs	čojvek	n-ma
 	fin	tuoli	n$n-ND	hbs	stolac	n$n-mi
-	fin	pöytä	n$n-sg	hbs	stol	n-mi$n
-	fin	ääni	n$n-sg	hbs	zvuk	n-mi$n
+	fin	pöytä	n$n-ND	hbs	stol	n-mi$n
+	fin	ääni	n$n-ND	hbs	zvuk	n-mi$n
 	fin	lintu	n$n-ND	hbs	ptica	n-f$n
-	fin	eläin	n$n-sg	hbs	životinja	n-f
-	fin	pää	n$n-sg-nom$n-sg	hbs	glava	n-f$n
+	fin	eläin	n$n-ND	hbs	životinja	n-f
+	fin	pää	n$n-sg-nom	hbs	glava	n-f$n
 	fin	vesi	n$n-ND	hbs	voda	n-f$n
 	fin	ei	vblex$vblex-neg$vblex-neg-cnjcoo	hbs	ne	part-neg$part$part-neg-vbser-clt-pres
 	fin	voida	vaux$vaux-neg	hbs	moći	vbmod$vbmod-lp-m
@@ -210,7 +210,7 @@
 	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers	hbs	free	prn-pers-p3-nt$prn-pers-p3-nt-pl
 	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers	hbs	free	prn-pers-p3-m$prn-pers-p3-m-pl
 	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers	hbs	free	prn-pers-p3-f$prn-pers-p3-f-pl
-	fin	me	prn$prn-pers-p1$prn-pers-p1-pl$prn-pers$prn-pers-p1-pl-gen	hbs	free	prn-pers$prn-pers-p1-mfn
+	fin	me	prn$prn-pers-p1-pl$prn-pers-p1$prn-pers$prn-pers-p1-pl-gen	hbs	free	prn-pers$prn-pers-p1-mfn
 	fin	te	prn-pers$prn-pers-p2	hbs	free	prn-pers-p2-mfn
 	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen	hbs	free	prn-pers-p3-nt$prn-pers-p3-nt-pl
 	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen	hbs	free	prn-pers-p3-m$prn-pers-p3-m-pl

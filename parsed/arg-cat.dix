@@ -2737,7 +2737,7 @@ RL	arg	maligno	adj-GD-pl	cat	maligne	adj$adj-mf-pl$
 	arg	nativo	adj	cat	natiu	adj$
 	arg	nato	adj	cat	nat	adj
 	arg	natural	adj	cat	natural	adj$adj-mf$
-	arg	naturalista	adj	cat	naturalista	adj$adj-mf$
+	arg	naturalista	adj	cat	naturalista	adj$adj-mf
 	arg	nautico	adj	cat	nàutic	adj$
 	arg	naval	adj	cat	naval	adj$$adj-mf
 	arg	navarro	adj	cat	navarrès	adj
@@ -8419,7 +8419,7 @@ LR	arg	varios	det	cat	divers	det$det-ind-GD
 	arg	abdicación	n$n-f	cat	abdicació	n-f$n
 	arg	abdomen	n$n-m	cat	abdomen	n-m$n
 	arg	abducción	n$n-f	cat	abducció	n-f$n
-	arg	abella	n$n-f	cat	abella	n$n-f
+	arg	abella	n$n-f	cat	abella	n-f$n
 	arg	aberración	n$n-f	cat	aberració	n-f$n
 	arg	abillana	n$n-f	cat	avellana	n-f$n
 	arg	abismo	n$n-m	cat	abisme	n-m$n
@@ -8443,9 +8443,9 @@ LR	arg	varios	det	cat	divers	det$det-ind-GD
 	arg	abstencionista	n$n-mf	cat	abstencionista	n-mf$n
 	arg	abstención	n$n-f	cat	abstenció	n-f$n
 	arg	abstinencia	n$n-f	cat	abstinència	n-f$n
-	arg	abstracción	n-f$n	cat	abstracció	n-f$n
+	arg	abstracción	n-f$n	cat	abstracció	n-f
 	arg	abundamiento	n$n-m	cat	abundament	n$n-m
-	arg	abundancia	n$n-f	cat	abundància	n$n-f
+	arg	abundancia	n$n-f	cat	abundància	n-f$n
 	arg	aburrimiento	n$n-m	cat	avorriment	n$n-m
 	arg	acabamiento	n$n-m	cat	acabament	n-m$n
 	arg	academia	n$n-f	cat	acadèmia	n$n-f
@@ -8456,7 +8456,7 @@ LR	arg	varios	det	cat	divers	det$det-ind-GD
 	arg	acceleración	n$n-f	cat	acceleració	n-f$n
 	arg	accento	n$n-m	cat	accent	n-m$n
 	arg	accentuación	n$n-f	cat	accentuació	n-f$n
-	arg	acceptación	n$n-f	cat	acceptació	n$n-f
+	arg	acceptación	n$n-f	cat	acceptació	n-f$n
 	arg	accesibilidat	n$n-f	cat	accessibilitat	n-f$n
 	arg	accesión	n$n-f	cat	accessió	n-f$n
 	arg	acceso	n$n-m	cat	accés	n-m$n
@@ -8468,8 +8468,8 @@ LR	arg	varios	det	cat	divers	det$det-ind-GD
 	arg	acelga	n$n-f	cat	bleda	n-f$n
 	arg	acepción	n$n-f	cat	accepció	n-f$n
 	arg	acercamiento	n-m$n	cat	acostament	n-m$n
-	arg	acercamiento	n-m$n	cat	apropament	n$n-m
-	arg	achencia	n$n-f	cat	agència	n$n-f
+	arg	acercamiento	n-m$n	cat	apropament	n-m$n
+	arg	achencia	n$n-f	cat	agència	n-f$n
 	arg	achenda	n$n-f	cat	agenda	n$n-f
 	arg	achent	n$n-mf	cat	agent	n-mf$n
 	arg	achilidat	n$n-f	cat	agilitat	n-f$n$n-f-sg
@@ -8485,7 +8485,7 @@ RL	arg	achustador	n$n-m	cat	jupetí	n-m$n
 	arg	acidificación	n$n-f	cat	acidificació	n-f$n
 	arg	aclamación	n$n-f	cat	aclamació	n-f$n
 	arg	aclimatación	n$n-f	cat	aclimatació	n-f$n
-	arg	acomodación	n$n-f	cat	acomodació	n$n-f
+	arg	acomodación	n$n-f	cat	acomodació	n-f$n
 	arg	acompanyamiento	n$n-m	cat	acompanyament	n-m$n
 	arg	acondicionamiento	n$n-m	cat	condicionament	n-m$n
 	arg	acoplamiento	n$n-m	cat	acoblament	n-m$n
@@ -8496,9 +8496,9 @@ RL	arg	achustador	n$n-m	cat	jupetí	n-m$n
 	arg	acritut	n$n-f	cat	acritud	n-f$n
 	arg	acrobata	n$n-mf	cat	acròbata	n-mf$n
 	arg	acta	n$n-f	cat	acta	n$n-f
-	arg	actitut	n$n-f	cat	actitud	n$n-f
+	arg	actitut	n$n-f	cat	actitud	n-f$n
 	arg	activación	n$n-f	cat	activació	n-f$n
-	arg	actividat	n$n-f	cat	activitat	n$n-f$n-f-ND
+	arg	actividat	n$n-f	cat	activitat	n-f$n$n-f-ND
 	arg	activismo	n$n-m	cat	activisme	n-m$n$n-m-sg
 	arg	activista	n$n-mf	cat	activista	n-mf$n
 	arg	actor	n$n-m	cat	actor	n-m$n
@@ -8506,13 +8506,13 @@ RL	arg	achustador	n$n-m	cat	jupetí	n-m$n
 	arg	actuación	n$n-f	cat	actuació	n-f$n$n-f-pl
 	arg	actuador	n$n-m	cat	actuador	n-m$n
 	arg	actualidat	n$n-f	cat	actualitat	n-f$n$n-f-ND
-	arg	actualización	n$n-f	cat	actualització	n$n-f
+	arg	actualización	n$n-f	cat	actualització	n-f$n
 	arg	acullida	n$n-f	cat	acollida	n-f$n
 	arg	acullimiento	n$n-m	cat	acolliment	n$n-m
 	arg	aculturación	n$n-f	cat	aculturació	n-f$n
-	arg	acumulación	n$n-f	cat	acumulació	n$n-f
+	arg	acumulación	n$n-f	cat	acumulació	n-f$n
 	arg	acunyación	n$n-f	cat	encunyació	n-f$n
-	arg	acusación	n$n-f	cat	acusació	n$n-f
+	arg	acusación	n$n-f	cat	acusació	n-f$n
 	arg	acusativo	n$n-m	cat	acusatiu	n-m$n
 	arg	acusativo	n-f	cat	acusatiu	n-f
 	arg	acutanglo	n$n-m	cat	acutangle	n$n-m
@@ -8520,11 +8520,11 @@ RL	arg	achustador	n$n-m	cat	jupetí	n-m$n
 	arg	adaptador	n$n-m	cat	adaptador	n-m$n
 	arg	adchectivación	n$n-f	cat	adjectivació	n-f$n
 	arg	adchectivo	n$n-m	cat	adjectiu	n$n-m
-	arg	adchudicación	n$n-f	cat	adjudicació	n$n-f
+	arg	adchudicación	n$n-f	cat	adjudicació	n-f$n
 	arg	adebantamiento	n$n-m	cat	avançament	n-m$n
 	arg	adequación	n$n-f	cat	adequació	n-f$n
 	arg	adherencia	n$n-f	cat	adherència	n-f$n
-	arg	adhesión	n$n-f	cat	adhesió	n$n-f
+	arg	adhesión	n$n-f	cat	adhesió	n-f$n
 	arg	adicción	n$n-f	cat	addicció	n-f$n
 	arg	adición	n$n-f	cat	addició	n-f$n
 	arg	adiestramiento	n$n-m	cat	ensinistrament	n-m$n
@@ -8533,18 +8533,18 @@ RL	arg	achustador	n$n-m	cat	jupetí	n-m$n
 	arg	administrador	n-f	cat	administrador	n-f
 	arg	administrativo	n$n-m	cat	administratiu	n$n-m
 	arg	administrativo	n-f	cat	administratiu	n-f
-	arg	admiración	n$n-f	cat	admiració	n$n-f
+	arg	admiración	n$n-f	cat	admiració	n-f$n
 	arg	admisibilidat	n$n-f	cat	admissibilitat	n-f$n
 	arg	admisión	n$n-f	cat	admissió	n-f$n
 	arg	admonición	n$n-f	cat	admonició	n-f$n
 	arg	adoctrinamiento	n$n-m	cat	adoctrinament	n-m$n
 	arg	adolescencia	n$n-f	cat	adolescència	n-f$n
-	arg	adopción	n$n-f	cat	adopció	n$n-f
+	arg	adopción	n$n-f	cat	adopció	n-f$n
 	arg	adoración	n$n-f	cat	adoració	n-f$n
 	arg	adornamiento	n$n-m	cat	adornament	n-m$n
 	arg	adquisición	n$n-f	cat	adquisició	n-f$n
 	arg	adreza	n-f$n	cat	adreça	n-f$n
-	arg	adreza	n-f$n	cat	direcció	n$n-f
+	arg	adreza	n-f$n	cat	direcció	n-f$n
 	arg	adscripción	n$n-f	cat	adscripció	n-f$n
 	arg	adsorción	n$n-f	cat	adsorció	n-f$n
 	arg	adulación	n$n-f	cat	adulació	n-f$n
@@ -8556,7 +8556,7 @@ RL	arg	achustador	n$n-m	cat	jupetí	n-m$n
 	arg	advogau	n-f	cat	advocat	n-f
 	arg	aerolochía	n$n-f	cat	aerologia	n-f$n
 	arg	aeropuerto	n$n-m	cat	aeroport	n-m$n
-	arg	afabilidat	n$n-f	cat	afabilitat	n$n-f
+	arg	afabilidat	n$n-f	cat	afabilitat	n-f$n
 	arg	afavorimiento	n$n-m	cat	afavoriment	n$n-m
 	arg	afección	n$n-f	cat	afecció	n-f$n
 	arg	afectación	n$n-f	cat	afectació	n-f$n
@@ -8571,15 +8571,15 @@ RL	arg	achustador	n$n-m	cat	jupetí	n-m$n
 	arg	aficionau	n$n-m	cat	afeccionat	n$n-m
 	arg	aficionau	n-f	cat	afeccionat	n-f
 	arg	afición	n$n-f	cat	afició	n-f$n$n-f-sg
-	arg	afiliación	n$n-f	cat	afiliació	n$n-f
+	arg	afiliación	n$n-f	cat	afiliació	n-f$n
 	arg	afinidat	n$n-f	cat	afinitat	n-f$n$n-f-sg
-	arg	afirmación	n$n-f	cat	afirmació	n$n-f
+	arg	afirmación	n$n-f	cat	afirmació	n-f$n
 	arg	afixación	n$n-f	cat	afixació	n-f$n
 	arg	afixo	n$n-m	cat	afix	n-m$n
 	arg	aflicción	n$n-f	cat	aflicció	n-f$n
 	arg	afloixamiento	n$n-m	cat	afluixament	n$n-m
 	arg	afloramiento	n$n-m	cat	aflorament	n-m$n
-	arg	afluencia	n$n-f	cat	afluència	n$n-f
+	arg	afluencia	n$n-f	cat	afluència	n-f$n
 	arg	afortunau	n$n-m	cat	afortunat	n$n-m
 	arg	afortunau	n-f	cat	afortunat	n-f
 	arg	africano	n$n-m	cat	africà	n$n-m
@@ -8693,31 +8693,31 @@ RL	arg	almendra	n-f$n	cat	ametla	n-f$n
 	arg	amagatón	n$n-m	cat	amagatall	n-m$n
 	arg	amalgamación	n$n-f	cat	amalgamació	n-f$n
 	arg	amanamiento	n-m$n	cat	acostament	n-m$n
-	arg	amanamiento	n-m$n	cat	apropament	n$n-m
+	arg	amanamiento	n-m$n	cat	apropament	n-m$n
 	arg	amansimiento	n$n-m	cat	amansiment	n$n-m
-	arg	ambaixada	n$n-f	cat	ambaixada	n$n-f
+	arg	ambaixada	n$n-f	cat	ambaixada	n-f$n
 	arg	ambaixador	n$n-m	cat	ambaixador	n$n-m
 	arg	ambaixador	n-f	cat	ambaixador	n-f
-	arg	ambición	n$n-f	cat	ambició	n$n-f
+	arg	ambición	n$n-f	cat	ambició	n-f$n
 	arg	ambient	n$n-m	cat	ambient	n-m$n$
 	arg	ambientación	n$n-f	cat	ambientació	n-f$n
 	arg	ambito	n$n-m	cat	àmbit	n$n-m
 	arg	ambivalencia	n$n-f	cat	ambivalència	n-f$n
 	arg	ambolla	n$n-f	cat	butllofa	n$n-f
-	arg	ambulancia	n$n-f	cat	ambulància	n$n-f
+	arg	ambulancia	n$n-f	cat	ambulància	n-f$n
 	arg	americana	n$n-f	cat	americà	n$n-f
 	arg	americano	n$n-m	cat	americà	n-m
 	arg	americano	n-f	cat	americà	n$n-f
 	arg	amigo	n$n-m	cat	amic	n$n-m
 	arg	amigo	n-f	cat	amic	n-f
 	arg	amilloramiento	n$n-m	cat	millorament	n-m$n
-	arg	amistat	n$n-f	cat	amistat	n$n-f
+	arg	amistat	n$n-f	cat	amistat	n-f$n
 	arg	amnistía	n$n-f	cat	amnistia	n-f$n
 	arg	amo	n-m	cat	amo	n-m$n
 LR	arg	amo	n-f	cat	mestressa	n-f$n
 	arg	amodorramiento	n$n-m	cat	ensopiment	n-m$n
 	arg	amollonamiento	n$n-m	cat	amollonament	n$n-m
-	arg	amonestación	n$n-f	cat	amonestació	n$n-f
+	arg	amonestación	n$n-f	cat	amonestació	n-f$n
 	arg	amortimiento	n-m	cat	amortiment	n-m
 	arg	amortización	n$n-f	cat	amortització	n-f$n
 LR	arg	amostranza	n-f$n	cat	ensenyament	n-m$n
@@ -8726,7 +8726,7 @@ LR	arg	amostranza	n-f$n	cat	ensenyament	n-m$n
 	arg	amplaria	n-f$n	cat	amplada	n-f$n
 	arg	amplaria	n-f$n	cat	amplària	n-f$n
 	arg	ampliación	n$n-f	cat	ampliació	n-f$n
-	arg	amplificación	n$n-f	cat	amplificació	n$n-f
+	arg	amplificación	n$n-f	cat	amplificació	n-f$n
 	arg	amplificador	n$n-m	cat	amplificador	n-m$n
 	arg	amplitut	n$n-f	cat	amplitud	n-f$n
 	arg	amplura	n-f$n	cat	amplada	n-f$n
@@ -8736,7 +8736,7 @@ LR	arg	amostranza	n-f$n	cat	ensenyament	n-m$n
 	arg	analfabetismo	n$n-m	cat	analfabetisme	n-m$n
 	arg	analisi	n-f$n-f-pl	cat	anàlisi	n-f$n-f-ND$n
 	arg	analista	n$n-mf	cat	analista	n-mf$n
-	arg	analochía	n$n-f	cat	analogia	n$n-f
+	arg	analochía	n$n-f	cat	analogia	n-f$n
 LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	anamnesi	n-f$n-f-pl	cat	anamnesi	n-f$n-f-ND
 	arg	anarcosindicalismo	n$n-m	cat	anarcosindicalisme	n-m$n
@@ -8770,13 +8770,13 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	anglés	n-f	cat	anglès	n-f
 	arg	angolenyo	n$n-m	cat	angolès	n$n-m
 	arg	angolenyo	n-f	cat	angolès	n-f
-	arg	angunia	n-f$n	cat	angoixa	n$n-f
-	arg	anidación	n$n-f	cat	implantació	n$n-f
+	arg	angunia	n-f$n	cat	angoixa	n-f$n
+	arg	anidación	n$n-f	cat	implantació	n-f$n
 	arg	aniello	n$n-m	cat	anell	n$n-m
 	arg	anihilación	n$n-f	cat	anihilació	n-f$n
-	arg	anihilación	n$n-f	cat	aniquilació	n$n-f
+	arg	anihilación	n$n-f	cat	aniquilació	n-f$n
 	arg	anihilamiento	n$n-m	cat	anihilament	n$n-m
-	arg	animación	n$n-f	cat	animació	n$n-f
+	arg	animación	n$n-f	cat	animació	n-f$n
 	arg	animador	n$n-m	cat	animador	n-m$n
 	arg	animador	n-f	cat	animador	n-f
 	arg	animadversión	n$n-f	cat	animadversió	n-f$n
@@ -8811,7 +8811,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	antirracista	n$n-mf	cat	antiracista	n-mf$n
 	arg	antisemitismo	n$n-m	cat	antisemitisme	n-m$n
 	arg	antiterrorista	n$n-mf	cat	antiterrorista	n-mf$n
-	arg	antitesi	n-f$n-f-pl	cat	antítesi	n-f$n-f-ND$n
+	arg	antitesi	n-f$n-f-pl	cat	antítesi	n-f$n-f-ND
 	arg	antolochía	n$n-f	cat	antologia	n-f$n
 	arg	antropocentrismo	n$n-m	cat	antropocentrisme	n-m$n
 	arg	antropolochía	n$n-f	cat	antropologia	n-f$n$n-f-sg
@@ -8841,7 +8841,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	apetencia	n$n-f	cat	apetència	n-f$n
 	arg	aplazamiento	n$n-m	cat	ajornament	n-m$n
 	arg	aplicabilidat	n$n-f	cat	aplicabilitat	n-f$n
-	arg	aplicación	n$n-f	cat	aplicació	n$n-f
+	arg	aplicación	n$n-f	cat	aplicació	n-f$n
 	arg	apocheu	n$n-m	cat	apogeu	n-m$n
 	arg	apoderamiento	n$n-m	cat	apoderament	n-m$n
 	arg	apolochía	n$n-f	cat	apologia	n-f$n
@@ -8886,7 +8886,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	aritmetica	n$n-f	cat	aritmètica	n-f$n
 	arg	armamentista	n$n-mf	cat	armamentista	n$n-mf
 	arg	arqueolochía	n$n-f	cat	arqueologia	n$n-f$n-f-sg
-	arg	arquitectura	n$n-f	cat	arquitectura	n$n-f
+	arg	arquitectura	n$n-f	cat	arquitectura	n-f$n
 	arg	arradio	n-m	cat	ràdio	n-f$n$n-f-sg
 	arg	arrendamiento	n$n-m	cat	arrendament	n-m$n
 	arg	arrepentimiento	n$n-m	cat	penediment	n-m$n
@@ -8907,7 +8907,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	ascensor	n$n-m	cat	ascensor	n-m$n
 	arg	ascensorista	n$n-mf	cat	ascensorista	n-mf$n
 	arg	ascetismo	n$n-m	cat	ascetisme	n-m$n$n-m-sg
-	arg	aseguramiento	n$n-m	cat	assegurament	n$n-m
+	arg	aseguramiento	n$n-m	cat	assegurament	n-m$n
 	arg	asembleya	n$n-f	cat	assemblea	n$n-f
 	arg	asentamiento	n$n-m	cat	assentament	n-m$n
 	arg	asentimiento	n$n-m	cat	assentiment	n-m$n
@@ -8919,7 +8919,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	asignación	n$n-f	cat	assignació	n-f$n
 	arg	asignatura	n$n-f	cat	assignatura	n$n-f
 	arg	asilo	n$n-m	cat	asil	n-m$n
-	arg	asimilación	n$n-f	cat	assimilació	n$n-f
+	arg	asimilación	n$n-f	cat	assimilació	n-f$n
 	arg	asistencia	n$n-f	cat	assistència	n-f$n
 	arg	asistent	n$n-m	cat	assistent	n-m
 	arg	asistent	n-f	cat	assistent	n$n-f
@@ -8927,12 +8927,12 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	asonancia	n$n-f	cat	assonància	n-f$n
 	arg	aspecto	n$n-m	cat	aspecte	n-m$n
 	arg	aspera	n$n-f	cat	espera	n$n-f
-	arg	aspiración	n$n-f	cat	aspiració	n$n-f
+	arg	aspiración	n$n-f	cat	aspiració	n-f$n
 	arg	aspiradera	n$n-f	cat	aspiradora	n-f$n
 	arg	aspirina	n$n-f	cat	aspirina	n-f$n
 	arg	astrolochía	n$n-f	cat	astrologia	n-f$n
 	arg	astronauta	n$n-mf	cat	astronauta	n-mf$n
-	arg	astronomía	n$n-f	cat	astronomia	n$n-f
+	arg	astronomía	n$n-f	cat	astronomia	n-f$n
 	arg	asturiano	n$n-m	cat	asturià	n$n-m
 	arg	asturiano	n-f	cat	asturià	n-f
 	arg	asunción	n$n-f	cat	assumpció	n-f$n
@@ -8940,7 +8940,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	asunto	n-m$n	cat	assumpte	n-m$n
 	arg	atapizamiento	n$n-m	cat	encongiment	n-m$n
 	arg	ataque	n$n-m	cat	atac	n-m$n
-	arg	atención	n$n-f	cat	atenció	n$n-f
+	arg	atención	n$n-f	cat	atenció	n-f$n
 	arg	atendencia	n$n-f	cat	atendència	n$n-f
 	arg	atenuación	n$n-f	cat	atenuació	n-f$n
 	arg	atestación	n$n-f	cat	atestació	n-f$n
@@ -8953,7 +8953,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	atomización	n$n-f	cat	atomització	n-f$n
 	arg	atorgamiento	n$n-m	cat	atorgament	n-m$n
 	arg	atornillador	n$n-m	cat	tornavís	n-m$n
-	arg	atracción	n$n-f	cat	atracció	n$n-f
+	arg	atracción	n$n-f	cat	atracció	n-f$n
 	arg	atractivo	n$n-m	cat	atractiu	n-m$n
 	arg	atractivo	n-f	cat	atractiu	n-f
 	arg	atrapamiento	n$n-m	cat	atrapament	n-m$n
@@ -8966,12 +8966,12 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	audición	n$n-f	cat	audició	n-f$n
 	arg	audiencia	n$n-f	cat	audiència	n-f$n$n-f-sg
 	arg	audio	n$n-m	cat	àudio	n-m$n
-	arg	augua	n$n-f	cat	aigua	n$n-f
+	arg	augua	n$n-f	cat	aigua	n-f$n
 	arg	aula	n$n-f	cat	aula	n-f$n
 	arg	aumento	n$n-m	cat	augment	n-m$n
 	arg	auricular	n$n-m	cat	auricular	n-m$n
 	arg	auscultación	n$n-f	cat	auscultació	n-f$n
-	arg	ausencia	n$n-f	cat	absència	n$n-f
+	arg	ausencia	n$n-f	cat	absència	n-f$n
 	arg	austeridat	n$n-f	cat	austeritat	n-f$n
 	arg	australiano	n$n-m	cat	australià	n$n-m
 	arg	australiano	n-f	cat	australià	n-f
@@ -8984,7 +8984,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	autista	n$n-mf	cat	autista	n-mf$n
 	arg	auto	n$n-m	cat	auto	n-m$n
 	arg	auto	n$n-m	cat	cotxe	n-m$n
-	arg	autoanalisi	n-f$n-f-pl	cat	autoanàlisi	n$n-f$n-f-ND
+	arg	autoanalisi	n-f$n-f-pl	cat	autoanàlisi	n-f$n-f-ND
 	arg	autoavaluación	n-f$n	cat	autoavaluació	n-f$n
 	arg	autoavaluación	n-f$n	cat	autoavaluació	n-f$n
 	arg	autobiografía	n$n-f	cat	autobiografia	n-f$n
@@ -9031,7 +9031,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	autorización	n$n-f	cat	autorització	n-f$n
 	arg	autorreflexión	n$n-f	cat	autoreflexió	n$n-f
 	arg	autorregulación	n$n-f	cat	autoregulació	n$n-f
-	arg	autosatisfacción	n$n-f	cat	autosatisfacció	n$n-f
+	arg	autosatisfacción	n$n-f	cat	autosatisfacció	n-f$n
 	arg	autosuficiencia	n$n-f	cat	autosuficiència	n-f$n
 	arg	auxiliar	n$n-mf	cat	auxiliar	n-mf$n
 	arg	avalista	n$n-mf	cat	avalista	n$n-mf
@@ -9068,9 +9068,9 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	baixista	n$n-mf	cat	baixista	n-mf$n
 	arg	bala	n$n-f	cat	bala	n-f$n
 	arg	balanz	n$n-m	cat	balanç	n-m$n
-	arg	balanza	n$n-f	cat	balança	n$n-f$n-f-pl
+	arg	balanza	n$n-f	cat	balança	n-f$n$n-f-pl
 	arg	balcanización	n$n-f	cat	balcanització	n-f$n
-	arg	ballena	n$n-f	cat	balena	n$n-f
+	arg	ballena	n$n-f	cat	balena	n-f$n
 	arg	bambolla	n-f$n	cat	bambolla	n-f$n
 	arg	bambolla	n-f$n	cat	bombolla	n-f$n
 	arg	banalización	n$n-f	cat	banalització	n-f$n
@@ -9080,13 +9080,13 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	bandera	n$n-f	cat	bandera	n-f$n
 	arg	bandiador	n$n-m	cat	gronxador	n-m$n
 	arg	banyador	n$n-m	cat	vestit	n-m$n
-	arg	banyera	n$n-f	cat	banyera	n$n-f
+	arg	banyera	n$n-f	cat	banyera	n-f$n
 	arg	banyista	n$n-mf	cat	banyista	n$n-mf
 	arg	baptismo	n$n-m	cat	baptisme	n-m$n
 	arg	bar	n$n-m	cat	bar	n-m$n$n-m-sg
 	arg	baralla	n$n-f	cat	baralla	n-f$n
 	arg	barana	n$n-f	cat	barana	n$n-f
-	arg	barba	n$n-f	cat	barba	n$n-f
+	arg	barba	n$n-f	cat	barba	n-f$n
 	arg	barba	n$n-f	cat	barbeta	n-f$n
 	arg	barbacoa	n$n-f	cat	barbacoa	n-f$n
 	arg	barbarismo	n$n-m	cat	barbarisme	n-m$n
@@ -9095,7 +9095,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	barbería	n$n-f	cat	barberia	n-f$n
 	arg	barca	n$n-f	cat	barca	n-f$n
 	arg	barcelonista	n$n-mf	cat	barcelonista	n-mf$n
-	arg	barco	n$n-m	cat	vaixell	n$n-m
+	arg	barco	n$n-m	cat	vaixell	n-m$n
 	arg	bardo	n$n-m	cat	fang	n-m$n
 	arg	bardoma	n$n-f	cat	brutícia	n-f$n
 	arg	barra	n$n-f	cat	barra	n-f$n
@@ -9110,16 +9110,16 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	batallón	n$n-m	cat	batalló	n-m$n
 	arg	batuta	n$n-f	cat	batuta	n-f$n
 	arg	bayo	n$n-m	cat	rastre	n-m$n
-	arg	bayoneta	n$n-f	cat	baioneta	n$n-f
+	arg	bayoneta	n$n-f	cat	baioneta	n-f$n
 	arg	beatificación	n$n-f	cat	beatificació	n-f$n
 	arg	beca	n$n-f	cat	beca	n$n-f
 	arg	belicherancia	n$n-f	cat	bel·ligerància	n-f$n
 	arg	belicismo	n$n-m	cat	belicisme	n-m$n
 	arg	belicista	n$n-mf	cat	bel·licista	n-mf$n
-	arg	belleza	n$n-f	cat	bellesa	n$n-f
+	arg	belleza	n$n-f	cat	bellesa	n-f$n
 	arg	belorruso	n$n-m	cat	bielorús	n-m
 	arg	belorruso	n-f	cat	bielorús	n-f
-	arg	bendición	n$n-f	cat	benedicció	n$n-f
+	arg	bendición	n$n-f	cat	benedicció	n-f$n
 	arg	beneficencia	n$n-f	cat	beneficència	n-f$n
 	arg	beneficio	n$n-m	cat	benefici	n-m$n
 	arg	benevolencia	n$n-f	cat	benevolència	n-f$n
@@ -9133,7 +9133,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	bestieza	n-f$n	cat	bestiesa	n-f$n
 	arg	biblia	n$n-f	cat	bíblia	n-f$n
 	arg	bibliografía	n$n-f	cat	bibliografia	n-f$n
-	arg	biblioteca	n$n-f	cat	biblioteca	n$n-f
+	arg	biblioteca	n$n-f	cat	biblioteca	n-f$n
 	arg	bichección	n$n-f	cat	bijecció	n-f$n
 	arg	bicicleta	n$n-f	cat	bicicleta	n$n-f
 	arg	biera	n$n-f	cat	cervesa	n$n-f
@@ -9155,7 +9155,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	biotecnolochía	n$n-f	cat	biotecnologia	n-f$n
 	arg	bipartidismo	n$n-m	cat	bipartidisme	n-m$n$n-m-sg
 	arg	bipartidista	n$n-mf	cat	bipartidista	n$n-mf
-	arg	bipolarización	n$n-f	cat	bipolarització	n$n-f
+	arg	bipolarización	n$n-f	cat	bipolarització	n-f$n
 	arg	birla	n-f	cat	bitlla	n-f$n
 	arg	birrefrinchencia	n$n-f	cat	birefringència	n-f$n
 	arg	bisección	n$n-f	cat	bisecció	n-f$n
@@ -9169,7 +9169,7 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	bloqueyo	n-m$n	cat	bloqueig	n-m$n
 	arg	boa	n$n-f	cat	boa	n-f$n
 	arg	bobina	n$n-f	cat	bobina	n-f$n
-	arg	boca	n$n-f	cat	boca	n$n-f
+	arg	boca	n$n-f	cat	boca	n-f$n
 	arg	bocina	n$n-f	cat	botzina	n-f$n
 	arg	bodiello	n$n-m	cat	intestí	n-m$n
 	arg	bofetada	n$n-f	cat	bufetada	n-f$n
@@ -9192,14 +9192,14 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	botanico	n$n-m	cat	botànic	n$n-m
 	arg	botanico	n-f	cat	botànic	n-f
 	arg	bote	n$n-m	cat	pot	n-m$n
-	arg	botella	n-f$n	cat	ampolla	n$n-f
+	arg	botella	n-f$n	cat	ampolla	n-f$n
 	arg	botella	n-f$n	cat	botella	n-f$n
 	arg	botiga	n$n-f	cat	botiga	n-f$n
 	arg	botiga	n$n-f	cat	tenda	n-f$n
 	arg	botón	n$n-m	cat	botó	n$n-m
 	arg	boxeyador	n$n-m	cat	boxador	n$n-m
 	arg	boxeyador	n-f	cat	boxador	n-f
-	arg	boya	n$n-f	cat	boia	n$n-f
+	arg	boya	n$n-f	cat	boia	n-f$n
 	arg	branquil	n$n-m	cat	llindar	n-m$n
 	arg	brasa	n$n-f	cat	brasa	n-f$n
 	arg	brasilenyo	n$n-m	cat	brasiler	n$n-m
@@ -9213,10 +9213,10 @@ LR	arg	analís	n-m$n-m-sg	cat	anàlisi	n-f$n-f-ND$n
 	arg	bromatolochía	n$n-f	cat	bromatologia	n$n-f
 	arg	bromista	n$n-mf	cat	bromista	n$n-mf
 	arg	broza	n$n-f	cat	brossa	n-f$n
-	arg	bruixola	n$n-f	cat	brúixola	n$n-f
+	arg	bruixola	n$n-f	cat	brúixola	n-f$n
 	arg	bruixón	n$n-m	cat	bruixot	n-m$n
 	arg	brusa	n$n-f	cat	brusa	n-f$n
-	arg	brutalidat	n$n-f	cat	brutalitat	n$n-f
+	arg	brutalidat	n$n-f	cat	brutalitat	n-f$n
 	arg	buchía	n$n-f	cat	bugia	n-f$n
 	arg	bucle	n$n-m	cat	bucle	n-m$n
 	arg	budismo	n$n-m	cat	budisme	n-m$n
@@ -9231,8 +9231,8 @@ RL	arg	buena tarde	n-f$n-f-sg	cat	bona vesprada	n-f$n-f-sg
 	arg	buixo	n-m	cat	boix	n-m$n
 	arg	bulligón	n$n-m	cat	embalum	n-m$n
 	arg	burchesía	n$n-f	cat	burgesia	n$n-f
-	arg	burocracia	n$n-f	cat	burocràcia	n$n-f
-	arg	burocratización	n$n-f	cat	burocratització	n$n-f
+	arg	burocracia	n$n-f	cat	burocràcia	n-f$n
+	arg	burocratización	n$n-f	cat	burocratització	n-f$n
 	arg	bursa	n$n-f	cat	borsa	n-f$n
 LR	arg	busca	n$n-f	cat	cerca	n-f$n
 	arg	busqueda	n$n-f	cat	cerca	n-f$n
@@ -9245,7 +9245,7 @@ LR	arg	busca	n$n-f	cat	cerca	n-f$n
 	arg	cabeza	n$n-f	cat	cap	n-m$n$n-m-pl
 	arg	cabo	n$n-m	cat	extrem	n-m$n
 	arg	cabo	n$n-m	cat	cap	n-m$n$n-m-pl
-	arg	cabos de semana	n-m-pl	cat	caps de setmana	n$n-m-pl
+	arg	cabos de semana	n-m-pl	cat	caps de setmana	n-m-pl$n
 	arg	cacau	n$n-m	cat	cacau	n-m$n
 	arg	cacera	n$n-f	cat	cacera	n-f$n
 	arg	caciquismo	n$n-m	cat	caciquisme	n$n-m
@@ -9256,8 +9256,8 @@ LR	arg	busca	n$n-f	cat	cerca	n-f$n
 	arg	cafetería	n$n-f	cat	cafeteria	n-f$n
 	arg	café	n$n-m	cat	cafè	n-m$n$n-m-ND
 	arg	caguera	n$n-f	cat	diarrea	n-f$n
-	arg	caixa	n-f$n	cat	caixa	n$n-f
-	arg	caixa	n-f$n	cat	capsa	n$n-f
+	arg	caixa	n-f$n	cat	caixa	n-f$n
+	arg	caixa	n-f$n	cat	capsa	n-f$n
 	arg	caixa	n-f$n	cat	bústia	n-f$n
 	arg	caixal	n-m	cat	queixal	n-m$n
 	arg	caixeta	n$n-f	cat	capseta	n-f$n
@@ -9268,8 +9268,8 @@ LR	arg	busca	n$n-f	cat	cerca	n-f$n
 	arg	calcanyo	n$n-m	cat	taló	n-m$n
 	arg	calcetín	n-m$n	cat	calcetí	n-m$n
 	arg	calcetín	n-m$n	cat	mitjó	n-m$n
-	arg	calcificación	n$n-f	cat	calcificació	n$n-f
-	arg	calcinación	n$n-f	cat	calcinació	n$n-f
+	arg	calcificación	n$n-f	cat	calcificació	n-f$n
+	arg	calcinación	n$n-f	cat	calcinació	n-f$n
 	arg	calcografía	n$n-f	cat	calcografia	n-f$n
 	arg	calculadera	n$n-f	cat	calculadora	n-f$n
 	arg	calculo	n$n-m	cat	càlcul	n-m$n
@@ -9277,8 +9277,8 @@ LR	arg	busca	n$n-f	cat	cerca	n-f$n
 	arg	calefacción	n$n-f	cat	calefacció	n-f$n
 	arg	calendata	n$n-f	cat	data	n-f$n
 	arg	calentamiento	n$n-m	cat	escalfament	n$n-m
-	arg	calidat	n$n-f	cat	qualitat	n$n-f$n-f-ND
-LR	arg	calificación	n-f	cat	qualificació	n$n-f
+	arg	calidat	n$n-f	cat	qualitat	n-f$n$n-f-ND
+LR	arg	calificación	n-f	cat	qualificació	n-f$n
 	arg	caligrafía	n$n-f	cat	cal·ligrafia	n-f$n
 	arg	calor	n-f	cat	calor	n-f$n
 	arg	caloría	n$n-f	cat	caloria	n-f$n
@@ -9291,7 +9291,7 @@ LR	arg	calificación	n-f	cat	qualificació	n$n-f
 	arg	cambión	n$n-m	cat	camió	n-m$n$n-m-sg
 	arg	camello	n	cat	camell	n-m$n
 	arg	camera	n$n-f	cat	càmera	n-f$n
-	arg	camisa	n$n-f	cat	camisa	n$n-f
+	arg	camisa	n$n-f	cat	camisa	n-f$n
 	arg	campana	n$n-f	cat	campana	n-f$n
 	arg	campanar	n$n-m	cat	campanar	n-m$n
 	arg	campaneta	n$n-f	cat	campaneta	n-f$n
@@ -9308,7 +9308,7 @@ LR	arg	calificación	n-f	cat	qualificació	n$n-f
 	arg	canalla	n-f$n-f-sg	cat	canalla	n-f$n-f-sg$n
 	arg	canario	n$n-m	cat	canari	n$n-m
 	arg	canario	n-f	cat	canari	n-f
-	arg	cancelación	n$n-f	cat	cancel·lació	n$n-f
+	arg	cancelación	n$n-f	cat	cancel·lació	n-f$n
 	arg	cancer	n$n-m	cat	càncer	n-m$n
 	arg	canción	n$n-f	cat	cançó	n-f$n
 	arg	candidato	n$n-m	cat	candidat	n-m
@@ -9323,13 +9323,13 @@ LR	arg	canta	n$n-f	cat	cançó	n-f$n
 	arg	cantidat	n$n-f	cat	quantitat	n-f$n$n-f-ND
 	arg	cantonada	n$n-f	cat	cantonada	n-f$n
 	arg	canyería	n$n-f	cat	canonada	n-f$n
-	arg	capa	n$n-f	cat	capa	n$n-f
+	arg	capa	n$n-f	cat	capa	n-f$n
 	arg	capabilidat	n$n-f	cat	capacitat	n-f$n$n-f-sg
 	arg	capacidat	n$n-f	cat	capacitat	n-f$n$n-f-sg
 	arg	capacitación	n$n-f	cat	capacitació	n-f$n
 	arg	capellista	n$n-mf	cat	capellista	n$n-mf
 	arg	capellán	n-m	cat	capellà	n-m$n
-	arg	capiella	n$n-f	cat	capella	n$n-f
+	arg	capiella	n$n-f	cat	capella	n-f$n
 	arg	capitación	n$n-f	cat	capitació	n-f$n
 	arg	capital	n$n-mf	cat	capital	n-f$n$
 	arg	capitalidat	n$n-f	cat	capitalitat	n-f$n
@@ -9346,7 +9346,7 @@ LR	arg	canta	n$n-f	cat	cançó	n-f$n
 	arg	captación	n$n-f	cat	captació	n-f$n
 	arg	capuzamiento	n$n-m	cat	capbussament	n-m$n
 	arg	caracter	n$n-m	cat	caràcter	n-m$n
-	arg	caracteristica	n$n-f	cat	característica	n$n-f
+	arg	caracteristica	n$n-f	cat	característica	n-f$n
 	arg	caracterización	n$n-f	cat	caracterització	n-f$n
 	arg	caravana	n$n-f	cat	caravana	n-f$n
 	arg	carbaza	n-f$n	cat	carabassa	n-f$n
@@ -9365,12 +9365,12 @@ LR	arg	canta	n$n-f	cat	cançó	n-f$n
 	arg	cargador	n$n-m	cat	carregador	n-m$n
 	arg	caricatura	n$n-f	cat	caricatura	n-f$n
 	arg	caricaturista	n$n-mf	cat	caricaturista	n-mf$n
-	arg	caridat	n$n-f	cat	caritat	n$n-f
+	arg	caridat	n$n-f	cat	caritat	n-f$n
 	arg	caries	n$n-f	cat	càries	n-f$n-f-sp$n
 	arg	carlismo	n$n-m	cat	carlisme	n$n-m$n-m-sg
 	arg	carne	n$n-f	cat	carn	n$n-f
 	arg	carpeta	n$n-f	cat	carpeta	n-f$n
-	arg	carrera	n$n-f	cat	carrera	n$n-f
+	arg	carrera	n$n-f	cat	carrera	n-f$n
 	arg	carretera	n$n-f	cat	carretera	n$n-f
 	arg	carrillo	n$n-m	cat	queix	n-m$n
 	arg	carro	n$n-m	cat	carro	n-m$n
@@ -9409,7 +9409,7 @@ LR	arg	canta	n$n-f	cat	cançó	n-f$n
 	arg	casualidat	n$n-f	cat	casualitat	n-f$n
 	arg	catalanismo	n$n-m	cat	catalanisme	n-m$n
 	arg	catalanista	n$n-mf	cat	catalanista	n$n-mf
-	arg	catalisi	n-f$n-f-pl	cat	catàlisi	n-f$n$n-f-ND
+	arg	catalisi	n-f$n-f-pl	cat	catàlisi	n-f$n-f-ND
 	arg	catalogación	n$n-f	cat	catalogació	n-f$n
 	arg	catalogo	n$n-m	cat	catàleg	n-m$n
 	arg	catalán	n$n-m	cat	català	n$n-m
@@ -9422,8 +9422,8 @@ LR	arg	canta	n$n-f	cat	cançó	n-f$n
 	arg	catolicismo	n$n-m	cat	catolicisme	n-m$n
 	arg	catolico	n$n-m	cat	catòlic	n$n-m
 	arg	catolico	n-f	cat	catòlic	n-f
-	arg	caución	n$n-f	cat	caució	n$n-f
-	arg	cauterización	n$n-f	cat	cauterització	n$n-f
+	arg	caución	n$n-f	cat	caució	n-f$n
+	arg	cauterización	n$n-f	cat	cauterització	n-f$n
 	arg	cautivación	n$n-f	cat	captivació	n$n-f
 	arg	cautivador	n$n-m	cat	conreador	n-m$n
 	arg	cautivador	n-f	cat	conreador	n-f
@@ -9442,12 +9442,12 @@ LR	arg	canta	n$n-f	cat	cançó	n-f$n
 	arg	ceiquia	n-f$n	cat	séquia	n-f$n
 RL	arg	ceiquia	n-f$n	cat	sèquia	n$n-f
 	arg	celda	n$n-f	cat	cel·la	n-f$n
-	arg	celebración	n$n-f	cat	celebració	n$n-f
+	arg	celebración	n$n-f	cat	celebració	n-f$n
 	arg	celebridat	n$n-f	cat	celebritat	n-f$n$n-f-ND
 	arg	celebro	n$n-m	cat	cervell	n-m$n
 	arg	celeridat	n$n-f	cat	celeritat	n-f$n
-	arg	cella	n$n-f	cat	cella	n$n-f$n-f-sg
-	arg	celula	n$n-f	cat	cèl·lula	n$n-f
+	arg	cella	n$n-f	cat	cella	n-f$n$n-f-sg
+	arg	celula	n$n-f	cat	cèl·lula	n-f$n
 	arg	cementación	n$n-f	cat	cementació	n-f$n
 	arg	cenisa	n$n-f	cat	cendra	n-f$n
 	arg	censura	n$n-f	cat	censura	n-f$n
@@ -9457,7 +9457,7 @@ RL	arg	ceiquia	n-f$n	cat	sèquia	n$n-f
 	arg	centinela	n$n-f	cat	sentinella	n-f$n
 	arg	centralismo	n$n-m	cat	centralisme	n-m$n$n-m-sg
 	arg	centralista	n$n-mf	cat	centralista	n$n-mf
-	arg	centralización	n$n-f	cat	centralització	n$n-f
+	arg	centralización	n$n-f	cat	centralització	n-f$n
 	arg	centrifugación	n$n-f	cat	centrifugació	n-f$n
 	arg	centrismo	n$n-m	cat	centrisme	n$n-m$n-m-sg
 	arg	centro	n$n-m	cat	centre	n-m$n
@@ -9468,11 +9468,11 @@ RL	arg	ceiquia	n-f$n	cat	sèquia	n$n-f
 	arg	cenyo	n$n-m	cat	posat	n-m$n
 	arg	ceprén	n-m	cat	alçaprem	n-m
 LR	arg	cera	n-f	cat	por	n-f$n
-	arg	ceramica	n$n-f	cat	ceràmica	n$n-f$n-f-sg
+	arg	ceramica	n$n-f	cat	ceràmica	n-f$n$n-f-sg
 	arg	cerclo	n$n-m	cat	cercle	n-m$n
 	arg	ceremonia	n$n-f	cat	cerimònia	n$n-f
 LR	arg	cerina	n-f	cat	por	n-f$n
-	arg	certeza	n$n-f	cat	certesa	n$n-f
+	arg	certeza	n$n-f	cat	certesa	n-f$n
 	arg	certificación	n$n-f	cat	certificació	n-f$n
 	arg	cesación	n$n-f	cat	cessació	n-f$n
 	arg	cesión	n$n-f	cat	cessió	n-f$n
@@ -9515,7 +9515,7 @@ RL	arg	chaminera	n$n-f	cat	ximenera	n-f$n
 	arg	cheneralista	n$n-mf	cat	generalista	n-mf$n
 	arg	cheneralización	n$n-f	cat	generalització	n-f$n
 	arg	chenero	n$n-m	cat	gènere	n-m$n
-	arg	chenesi	n-mf$n-mf-pl	cat	gènesi	n-mf$n$n-mf-ND
+	arg	chenesi	n-mf$n-mf-pl	cat	gènesi	n-mf$n-mf-ND
 	arg	chenetista	n$n-mf	cat	genetista	n$n-mf
 	arg	cheniva	n$n-f	cat	geniva	n-f$n
 	arg	chent	n$n-f	cat	gent	n-f-sg$n-f$n
@@ -9538,7 +9538,7 @@ RL	arg	chaminera	n$n-f	cat	ximenera	n-f$n
 	arg	chigabyte	n$n-m	cat	gigaoctet	n$n-m
 	arg	chileno	n$n-m	cat	xilè	n$n-m
 	arg	chileno	n-f	cat	xilè	n-f
-	arg	chimnasia	n$n-f	cat	gimnàstica	n$n-f
+	arg	chimnasia	n$n-f	cat	gimnàstica	n-f$n
 	arg	chimnasta	n$n-mf	cat	gimnasta	n-mf$n
 	arg	chinchebre	n$n-m	cat	gingebre	n-m$n
 	arg	chincheta	n$n-f	cat	xinxeta	n-f$n
@@ -9563,10 +9563,10 @@ RL	arg	chofer	n-mf$n	cat	xofer	n-f
 	arg	chornalero	n-f	cat	jornaler	n-f
 	arg	chornalero	n-f	cat	manobre	n-f
 	arg	chornalero	n-f	cat	peó	n-f
-	arg	chovena	n$n-f	cat	nora	n$n-f$n-f-sg
+	arg	chovena	n$n-f	cat	nora	n-f$n$n-f-sg
 	arg	choventut	n-f$n	cat	jovenalla	n-f$n
 	arg	choventut	n-f$n	cat	joventut	n-f$n
-	arg	chubilación	n$n-f	cat	jubilació	n$n-f
+	arg	chubilación	n$n-f	cat	jubilació	n-f$n
 	arg	chucho	n$n-m	cat	gos	n$n-m
 	arg	chucho	n-f	cat	gos	n-f
 	arg	chudaísmo	n$n-m	cat	judaisme	n-m$n$n-m-sg
@@ -9585,17 +9585,17 @@ RL	arg	chofer	n-mf$n	cat	xofer	n-f
 RL	arg	chuguet	n$n-m	cat	joguet	n-m$n
 	arg	chulio	n$n-m	cat	juliol	n$n-m$n-m-ND
 	arg	chulla	n-f$n	cat	costella	n-f$n
-	arg	chulla	n-f$n	cat	llonza	n$n-f
-	arg	chulla	n-f$n	cat	xulla	n$n-f
-	arg	chungla	n$n-f	cat	jungla	n$n-f
+	arg	chulla	n-f$n	cat	llonza	n-f$n
+	arg	chulla	n-f$n	cat	xulla	n-f$n
+	arg	chungla	n$n-f	cat	jungla	n-f$n
 	arg	chungla	n$n-f	cat	selva	n-f$n
 	arg	chunyo	n$n-m	cat	juny	n$n-m
 	arg	churamento	n$n-m	cat	jurament	n-m$n
 	arg	churisdicción	n$n-f	cat	jurisdicció	n-f$n
 	arg	churisprudencia	n$n-f	cat	jurisprudència	n-f$n
 	arg	churista	n$n-mf	cat	jurista	n-mf$n
-	arg	chusticia	n$n-f	cat	justícia	n$n-f
-	arg	chustificación	n$n-f	cat	justificació	n$n-f
+	arg	chusticia	n$n-f	cat	justícia	n-f$n
+	arg	chustificación	n$n-f	cat	justificació	n-f$n
 	arg	chuxtaposición	n$n-f	cat	juxtaposició	n-f$n
 	arg	cibada	n$n-f	cat	civada	n-f$n
 	arg	cibercafé	n$n-m	cat	cibercafé	n$n-m
@@ -9607,7 +9607,7 @@ RL	arg	chuguet	n$n-m	cat	joguet	n-m$n
 	arg	ciclista	n$n-mf	cat	ciclista	n-mf$n
 	arg	ciel	n$n-m	cat	cel	n$n-m
 	arg	cigüenya	n$n-f	cat	cigonya	n-f$n
-	arg	cimentación	n$n-f	cat	cimentació	n$n-f
+	arg	cimentación	n$n-f	cat	cimentació	n-f$n
 	arg	cimentación	n$n-f	cat	fonamentació	n-f$n
 	arg	cine	n$n-m	cat	cinema	n-m$n$n-m-sg
 	arg	cineasta	n$n-mf	cat	cineasta	n-mf$n
@@ -9616,19 +9616,19 @@ RL	arg	chuguet	n$n-m	cat	joguet	n-m$n
 	arg	cinematografía	n$n-f	cat	cinematografia	n-f$n
 	arg	cinta	n$n-f	cat	cinta	n-f$n
 	arg	cinta	n$n-f	cat	pel·lícula	n-f$n
-	arg	circulación	n$n-f	cat	circulació	n$n-f
+	arg	circulación	n$n-f	cat	circulació	n-f$n
 	arg	circumcisión	n$n-f	cat	circumcisió	n-f$n
 	arg	circumferencia	n$n-f	cat	circumferència	n-f$n
 	arg	circumnavegación	n$n-f	cat	circumnavegació	n-f$n
 	arg	circumscripción	n$n-f	cat	circumscripció	n-f$n
-	arg	circumspección	n$n-f	cat	circumspecció	n$n-f
-	arg	circumstancia	n$n-f	cat	circumstància	n$n-f
-	arg	circumvalación	n$n-f	cat	circumval·lació	n$n-f
+	arg	circumspección	n$n-f	cat	circumspecció	n-f$n
+	arg	circumstancia	n$n-f	cat	circumstància	n-f$n
+	arg	circumvalación	n$n-f	cat	circumval·lació	n-f$n
 	arg	circumvolución	n$n-f	cat	circumvolució	n-f$n
 	arg	ciresa	n$n-f	cat	cirera	n-f$n
 	arg	cirgollera	n-f	cat	prunera	n-f
 	arg	cirurchía	n$n-f	cat	cirurgia	n$n-f
-	arg	cisterna	n$n-f	cat	cisterna	n$n-f
+	arg	cisterna	n$n-f	cat	cisterna	n-f$n
 	arg	cistoscopia	n$n-f	cat	cistoscòpia	n-f$n
 	arg	citación	n$n-f	cat	citació	n-f$n
 	arg	citolochía	n$n-f	cat	citologia	n-f$n$n-f-sg
@@ -9672,7 +9672,7 @@ RL	arg	chuguet	n$n-m	cat	joguet	n-m$n
 	arg	coacción	n$n-f	cat	coacció	n-f$n
 	arg	coagulación	n$n-f	cat	coagulació	n-f$n
 	arg	coalescencia	n$n-f	cat	coalescència	n-f$n
-	arg	coalición	n$n-f	cat	coalició	n$n-f
+	arg	coalición	n$n-f	cat	coalició	n-f$n
 	arg	coarción	n$n-f	cat	coarció	n$n-f
 	arg	cobertera	n$n-f	cat	tapadora	n-f$n
 	arg	cobertor	n-m	cat	cobertor	n-m
@@ -9693,7 +9693,7 @@ RL	arg	chuguet	n$n-m	cat	joguet	n-m$n
 	arg	coedición	n$n-f	cat	coedició	n-f$n
 	arg	coeducación	n$n-f	cat	coeducació	n-f$n
 	arg	coeficient	n$n-m	cat	coeficient	n-m$n
-	arg	coerción	n$n-f	cat	coerció	n$n-f
+	arg	coerción	n$n-f	cat	coerció	n-f$n
 	arg	coexistencia	n$n-f	cat	coexistència	n-f$n
 	arg	cofundador	n$n-m	cat	cofundador	n$n-m
 	arg	cofundador	n-f	cat	cofundador	n-f
@@ -9706,7 +9706,7 @@ RL	arg	chuguet	n$n-m	cat	joguet	n-m$n
 	arg	coincidencia	n$n-f	cat	coincidència	n-f$n
 	arg	colaboracionismo	n$n-m	cat	col·laboracionisme	n$n-m
 	arg	colaboracionista	n$n-mf	cat	col·laboracionista	n$n-mf
-	arg	colaboración	n$n-f	cat	col·laboració	n$n-f
+	arg	colaboración	n$n-f	cat	col·laboració	n-f$n
 	arg	colaborador	n$n-m	cat	col·laborador	n$n-m
 	arg	colaborador	n-f	cat	col·laborador	n-f
 	arg	colación	n$n-f	cat	col·lació	n-f$n
@@ -9720,7 +9720,7 @@ RL	arg	chuguet	n$n-m	cat	joguet	n-m$n
 	arg	colectivización	n$n-f	cat	col·lectivització	n-f$n
 	arg	colega	n$n-mf	cat	col·lega	n-mf$n$n-mf-pl
 	arg	colisión	n$n-f	cat	col·lisió	n-f$n
-	arg	colla	n-f	cat	colla	n$n-f
+	arg	colla	n-f	cat	colla	n-f$n
 	arg	collar	n$n-m	cat	collaret	n-m$n
 	arg	colocación	n$n-f	cat	col·locació	n-f$n
 	arg	colombiano	n$n-m	cat	colombià	n$n-m
@@ -9731,7 +9731,7 @@ RL	arg	chuguet	n$n-m	cat	joguet	n-m$n
 	arg	colonización	n$n-f	cat	colonització	n-f$n
 	arg	coloración	n$n-f	cat	coloració	n-f$n
 	arg	colorista	n$n-mf	cat	colorista	n$n-mf
-	arg	columna	n$n-f	cat	columna	n$n-f
+	arg	columna	n$n-f	cat	columna	n-f$n
 	arg	columnista	n$n-mf	cat	columnista	n-mf$n
 	arg	colusión	n$n-f	cat	col·lusió	n-f$n
 	arg	comandancia	n$n-f	cat	comandància	n-f$n
@@ -9739,7 +9739,7 @@ RL	arg	chuguet	n$n-m	cat	joguet	n-m$n
 	arg	comarca	n-f$n	cat	comarca	n-f$n
 	arg	comarca	n-f$n	cat	contrada	n-f$n
 	arg	comarcalización	n$n-f	cat	comarcalització	n$n-f
-	arg	combinación	n$n-f	cat	combinació	n$n-f
+	arg	combinación	n$n-f	cat	combinació	n-f$n
 	arg	combinatoria	n$n-f	cat	combinatòria	n-f$n$n-f-sg
 	arg	combustión	n$n-f	cat	combustió	n-f$n
 	arg	comedia	n$n-f	cat	comèdia	n-f$n
@@ -9777,30 +9777,30 @@ RL	arg	comité	n-m$n	cat	comité	n$n-m
 	arg	compatibilidat	n$n-f	cat	compatibilitat	n-f$n
 	arg	compatriota	n$n-mf	cat	compatriota	n-mf$n
 	arg	compensación	n$n-f	cat	compensació	n-f$n
-	arg	competencia	n$n-f	cat	competència	n$n-f
+	arg	competencia	n$n-f	cat	competència	n-f$n
 	arg	competición	n$n-f	cat	competició	n-f$n
 	arg	competitividat	n$n-f	cat	competitivitat	n-f$n$n-f-ND
 	arg	compilación	n$n-f	cat	compilació	n-f$n
 	arg	complementación	n$n-f	cat	complementació	n-f$n
-	arg	complexidat	n$n-f	cat	complexitat	n$n-f
+	arg	complexidat	n$n-f	cat	complexitat	n-f$n
 	arg	complexión	n$n-f	cat	complexió	n-f$n
-	arg	complicación	n$n-f	cat	complicació	n$n-f
+	arg	complicación	n$n-f	cat	complicació	n-f$n
 	arg	complimiento	n$n-m	cat	compliment	n-m$n
 	arg	component	n$n-mf	cat	component	n-mf$n
 	arg	comportamiento	n-m$n	cat	capteniment	n$n-m
 	arg	comportamiento	n-m$n	cat	comportament	n-m$n
-	arg	composición	n$n-f	cat	composició	n$n-f
+	arg	composición	n$n-f	cat	composició	n-f$n
 	arg	compositor	n$n-m	cat	compositor	n$n-m
 	arg	compositor	n-f	cat	compositor	n-f
 	arg	compra	n$n-f	cat	compra	n-f$n
 	arg	comprebación	n$n-f	cat	comprovació	n-f$n
 	arg	comprensión	n$n-f	cat	comprensió	n-f$n
-	arg	compresión	n$n-f	cat	compressió	n$n-f
+	arg	compresión	n$n-f	cat	compressió	n-f$n
 	arg	compromiso	n$n-m	cat	compromís	n-m$n
 	arg	compulsión	n$n-f	cat	compulsió	n$n-f
 	arg	computación	n$n-f	cat	computació	n-f$n
-	arg	comunicación	n$n-f	cat	comunicació	n$n-f
-	arg	comunidat	n$n-f	cat	comunitat	n$n-f$n-f-sg
+	arg	comunicación	n$n-f	cat	comunicació	n-f$n
+	arg	comunidat	n$n-f	cat	comunitat	n-f$n$n-f-sg
 	arg	comunismo	n$n-m	cat	comunisme	n-m$n
 	arg	comunista	n$n-mf	cat	comunista	n-mf$n$
 	arg	comunión	n$n-f	cat	comunió	n-f$n
@@ -9838,7 +9838,7 @@ RL	arg	comité	n-m$n	cat	comité	n$n-m
 	arg	condenau	n$n-m	cat	condemnat	n$n-m
 	arg	condenau	n-f	cat	condemnat	n-f
 	arg	condensación	n$n-f	cat	condensació	n-f$n
-	arg	condescendencia	n$n-f	cat	condescendència	n$n-f
+	arg	condescendencia	n$n-f	cat	condescendència	n-f$n
 	arg	condicionamiento	n$n-m	cat	condicionament	n-m$n
 	arg	condición	n$n-f	cat	condició	n-f$n
 	arg	condimentación	n$n-f	cat	condimentació	n$n-f
@@ -9866,7 +9866,7 @@ RL	arg	comité	n-m$n	cat	comité	n$n-m
 	arg	confinamiento	n$n-m	cat	confinament	n-m$n
 	arg	confirmación	n$n-f	cat	confirmació	n-f$n
 	arg	confiscación	n$n-f	cat	confiscació	n-f$n
-	arg	confitura	n$n-f	cat	confitura	n$n-f
+	arg	confitura	n$n-f	cat	confitura	n-f$n
 	arg	conflicto	n$n-m	cat	conflicte	n-m$n
 	arg	confluencia	n$n-f	cat	confluència	n-f$n
 	arg	conformación	n$n-f	cat	conformació	n-f$n
@@ -9886,7 +9886,7 @@ RL	arg	comité	n-m$n	cat	comité	n$n-m
 	arg	conoiximiento	n$n-m	cat	coneixement	n-m$n
 	arg	conquiesta	n$n-f	cat	conquesta	n-f$n
 	arg	consagración	n$n-f	cat	consagració	n-f$n
-	arg	consciencia	n$n-f	cat	consciència	n$n-f
+	arg	consciencia	n$n-f	cat	consciència	n-f$n
 	arg	conscienciación	n$n-f	cat	conscienciació	n-f$n
 	arg	consecución	n$n-f	cat	consecució	n-f$n
 	arg	consellero	n$n-m	cat	conseller	n-m
@@ -9894,10 +9894,10 @@ RL	arg	comité	n-m$n	cat	comité	n$n-m
 	arg	consellería	n$n-f	cat	conselleria	n-f$n
 	arg	consello	n$n-m	cat	consell	n-m$n
 	arg	consentimiento	n$n-m	cat	consentiment	n-m$n
-	arg	conseqüencia	n$n-f	cat	conseqüència	n$n-f
+	arg	conseqüencia	n$n-f	cat	conseqüència	n-f$n
 	arg	conserchería	n$n-f	cat	consergeria	n-f$n
 	arg	conservacionista	n$n-mf	cat	conservacionista	n$n-mf
-	arg	conservación	n$n-f	cat	conservació	n$n-f
+	arg	conservación	n$n-f	cat	conservació	n-f$n
 	arg	conservadurismo	n$n-m	cat	conservadorisme	n-m$n$n-m-sg
 	arg	consideración	n$n-f	cat	consideració	n-f$n
 	arg	consignación	n$n-f	cat	consignació	n-f$n
@@ -9906,13 +9906,13 @@ RL	arg	comité	n-m$n	cat	comité	n$n-m
 	arg	consolidación	n$n-f	cat	consolidació	n-f$n
 	arg	consonancia	n$n-f	cat	consonància	n-f$n
 	arg	conspiracionista	n$n-mf	cat	conspiracionista	n$n-mf
-	arg	conspiración	n$n-f	cat	conspiració	n$n-f
+	arg	conspiración	n$n-f	cat	conspiració	n-f$n
 	arg	constancia	n$n-f	cat	constància	n-f$n
-	arg	constatación	n$n-f	cat	constatació	n$n-f
+	arg	constatación	n$n-f	cat	constatació	n-f$n
 	arg	constelación	n$n-f	cat	constel·lació	n-f$n
 	arg	consternación	n$n-f	cat	consternació	n-f$n
 	arg	constitucionalista	n$n-mf	cat	constitucionalista	n$n-mf
-	arg	constitución	n$n-f	cat	constitució	n$n-f
+	arg	constitución	n$n-f	cat	constitució	n-f$n
 	arg	constrenyimiento	n$n-m	cat	constrenyiment	n-m$n
 	arg	constricción	n$n-f	cat	constricció	n-f$n
 	arg	construcción	n$n-f	cat	construcció	n-f$n
@@ -9950,14 +9950,14 @@ LR	arg	conte	n-f	cat	comte	n-f
 	arg	continuidat	n$n-f	cat	continuïtat	n$n-f
 	arg	contorno	n$n-m	cat	contorn	n-m$n
 	arg	contorsionista	n$n-mf	cat	contorsionista	n-mf$n
-	arg	contorsión	n$n-f	cat	contorsió	n$n-f
+	arg	contorsión	n$n-f	cat	contorsió	n-f$n
 	arg	contrabandista	n$n-mf	cat	contrabandista	n$n-mf
 	arg	contracción	n$n-f	cat	contracció	n-f$n
 	arg	contracepción	n$n-f	cat	contracepció	n-f$n
 	arg	contracto	n$n-m	cat	contracte	n$n-m
 	arg	contradicción	n$n-f	cat	contradicció	n-f$n
 	arg	contraindicación	n$n-f	cat	contraindicació	n-f$n
-	arg	contrainformación	n$n-f	cat	contrainformació	n$n-f
+	arg	contrainformación	n$n-f	cat	contrainformació	n-f$n
 	arg	contraposición	n$n-f	cat	contraposició	n-f$n
 	arg	contraprestación	n$n-f	cat	contraprestació	n-f$n
 	arg	contraprogramación	n$n-f	cat	contraprogramació	n-f$n
@@ -9970,14 +9970,14 @@ LR	arg	conte	n-f	cat	comte	n-f
 	arg	control	n$n-m	cat	control	n-m$n
 	arg	controlador	n$n-m	cat	controlador	n-m$n
 	arg	controlador	n-f	cat	controlador	n-f
-	arg	contundencia	n$n-f	cat	contundència	n$n-f
+	arg	contundencia	n$n-f	cat	contundència	n-f$n
 	arg	contusión	n$n-f	cat	contusió	n-f$n
 	arg	conurbación	n$n-f	cat	conurbació	n-f$n
 	arg	convalecencia	n$n-f	cat	convalescència	n-f$n
 	arg	convalidación	n$n-f	cat	convalidació	n-f$n
 	arg	convección	n$n-f	cat	convecció	n-f$n
 	arg	convencimiento	n$n-m	cat	convenciment	n-m$n
-	arg	convención	n$n-f	cat	convenció	n$n-f
+	arg	convención	n$n-f	cat	convenció	n-f$n
 	arg	conveniencia	n$n-f	cat	conveniència	n-f$n
 	arg	convento	n$n-m	cat	convent	n-m$n
 	arg	converchencia	n$n-f	cat	convergència	n-f$n
@@ -9986,7 +9986,7 @@ LR	arg	conte	n-f	cat	comte	n-f
 	arg	conversión	n$n-f	cat	conversió	n-f$n
 	arg	convertibilidat	n$n-f	cat	convertibilitat	n-f$n
 	arg	convertidor	n$n-m	cat	convertidor	n-m$n
-	arg	convicción	n$n-f	cat	convicció	n$n-f
+	arg	convicción	n$n-f	cat	convicció	n-f$n
 	arg	convivencia	n$n-f	cat	convivència	n-f$n
 	arg	convocatoria	n$n-f	cat	convocatòria	n-f$n
 	arg	convulsión	n$n-f	cat	convulsió	n-f$n
@@ -9997,7 +9997,7 @@ LR	arg	conte	n-f	cat	comte	n-f
 	arg	coordinador	n$n-m	cat	coordinador	n$n-m
 	arg	coordinador	n-f	cat	coordinador	n-f
 	arg	copa	n-f$n	cat	capçada	n-f$n
-	arg	copa	n-f$n	cat	copa	n$n-f
+	arg	copa	n-f$n	cat	copa	n-f$n
 	arg	coparticipación	n$n-f	cat	coparticipació	n-f$n
 	arg	copia	n$n-f	cat	còpia	n$n-f
 	arg	copista	n$n-mf	cat	copista	n-mf$n
@@ -10015,7 +10015,7 @@ LR	arg	conte	n-f	cat	comte	n-f
 	arg	corner	n$n-m	cat	córner	n-m$n
 	arg	cornucopia	n$n-f	cat	cornucòpia	n-f$n
 	arg	corolochía	n$n-f	cat	corologia	n-f$n
-	arg	corona	n$n-f	cat	corona	n$n-f
+	arg	corona	n$n-f	cat	corona	n-f$n
 	arg	coronación	n$n-f	cat	coronació	n-f$n
 	arg	coronel	n-mf$n	cat	coronel	n-mf$n
 	arg	corporación	n$n-f	cat	corporació	n-f$n
@@ -10031,12 +10031,12 @@ LR	arg	conte	n-f	cat	comte	n-f
 	arg	correua	n-f	cat	carter	n-m
 	arg	correua	n-f	cat	carter	n$n-f
 	arg	correya	n$n-f	cat	corretja	n-f$n
-	arg	corrida	n$n-f	cat	carrera	n$n-f
+	arg	corrida	n$n-f	cat	carrera	n-f$n
 	arg	corrimiento	n$n-m	cat	corriment	n-m$n
 	arg	corroboración	n$n-f	cat	corroboració	n-f$n
 	arg	corrosión	n$n-f	cat	corrosió	n-f$n
-	arg	corruca	n$n-f	cat	arruga	n$n-f
-	arg	corrupción	n$n-f	cat	corrupció	n$n-f
+	arg	corruca	n$n-f	cat	arruga	n-f$n
+	arg	corrupción	n$n-f	cat	corrupció	n-f$n
 	arg	corte	n-f	cat	cort	n-f$n$n-f-pl
 	arg	cortesía	n$n-f	cat	cortesia	n$n-f
 	arg	cortina	n$n-f	cat	cortina	n-f$n
@@ -10047,33 +10047,33 @@ LR	arg	conte	n-f	cat	comte	n-f
 	arg	cosmolochía	n$n-f	cat	cosmologia	n-f$n
 	arg	cosmovisión	n$n-f	cat	cosmovisió	n-f$n
 	arg	costa	n-f$n	cat	costa	n-f$n$n-f-sg
-	arg	costa	n-f$n	cat	costera	n$n-f$n-f-sg
+	arg	costa	n-f$n	cat	costera	n-f$n$n-f-sg
 	arg	costau	n-m$n	cat	cantó	n-m$n
 	arg	costau	n-m$n	cat	costat	n-m$n
 	arg	coste	n$n-m	cat	cost	n-m$n$n-m-ND
 	arg	costiella	n$n-f	cat	costella	n-f$n
 	arg	costo	n$n-m	cat	cost	n-m$n$n-m-ND
-	arg	costumbre	n-m	cat	costum	n-m$n$n-m-pl
+	arg	costumbre	n-m	cat	costum	n-m$n-m-pl
 	arg	costumbrista	n$n-mf	cat	costumista	n-mf$n
 	arg	costura	n$n-f	cat	costura	n-f$n
-	arg	cotización	n$n-f	cat	cotització	n$n-f
+	arg	cotización	n$n-f	cat	cotització	n-f$n
 	arg	covalencia	n$n-f	cat	covalència	n$n-f
 	arg	covardía	n$n-f	cat	covardia	n-f$n
 	arg	covarianza	n$n-f	cat	covariància	n-f$n
-	arg	craba	n$n-f	cat	cabra	n$n-f
+	arg	craba	n$n-f	cat	cabra	n-f$n
 	arg	crater	n$n-m	cat	cràter	n-m$n
 	arg	credencial	n$n-f	cat	credencial	n-f$n
-	arg	credibilidat	n$n-f	cat	credibilitat	n$n-f
+	arg	credibilidat	n$n-f	cat	credibilitat	n-f$n
 	arg	credito	n$n-m	cat	crèdit	n$n-m
 	arg	creiximiento	n$n-m	cat	creixement	n-m$n
 	arg	crema	n$n-f	cat	crema	n$n-f
 	arg	cremación	n$n-f	cat	cremació	n-f$n
 	arg	cremadura	n$n-f	cat	cremada	n-f$n
-RL	arg	crepa	n-f$n	cat	clivella	n$n-f
+RL	arg	crepa	n-f$n	cat	clivella	n-f$n
 	arg	crepa	n-f$n	cat	esquerda	n-f$n
 	arg	cresta	n$n-f	cat	cresta	n-f$n
 	arg	creyacionista	n$n-mf	cat	creacionista	n-mf$n
-	arg	creyación	n$n-f	cat	creació	n$n-f
+	arg	creyación	n$n-f	cat	creació	n-f$n
 	arg	creyador	n$n-m	cat	creador	n$n-m
 	arg	creyador	n-f	cat	creador	n-f
 	arg	creyatividat	n$n-f	cat	creativitat	n-f$n$n-f-ND
@@ -10083,7 +10083,7 @@ RL	arg	crepa	n-f$n	cat	clivella	n$n-f
 	arg	crimen	n$n-m	cat	crim	n-m$n
 	arg	criminalista	n$n-mf	cat	criminalista	n-mf$n
 	arg	criminalización	n$n-f	cat	criminalització	n-f$n
-	arg	criminolochía	n$n-f	cat	criminologia	n$n-f
+	arg	criminolochía	n$n-f	cat	criminologia	n-f$n
 	arg	criollo	n$n-m	cat	crioll	n$n-m
 	arg	criollo	n-f	cat	crioll	n-f
 	arg	criptoanalisi	n-f$n-f-pl	cat	criptoanàlisi	n-f$n-f-ND
@@ -10103,15 +10103,15 @@ RL	arg	crepa	n-f$n	cat	clivella	n$n-f
 	arg	criterio	n$n-m	cat	criteri	n-m$n
 	arg	critica	n$n-f	cat	crític	n$n-f
 	arg	cromatografía	n$n-f	cat	cromatografia	n-f$n
-	arg	cronica	n$n-f	cat	crònica	n$n-f
+	arg	cronica	n$n-f	cat	crònica	n-f$n
 	arg	cronista	n$n-mf	cat	cronista	n-mf$n
 	arg	cronolochía	n$n-f	cat	cronologia	n-f$n
-	arg	crosta	n-f$n	cat	corfa	n$n-f
+	arg	crosta	n-f$n	cat	corfa	n-f$n
 	arg	crosta	n-f$n	cat	escorça	n-f$n
 	arg	crosta	n-f$n	cat	pell	n-f$n
 	arg	cruce	n$n-m	cat	encreuament	n-m$n
 	arg	cruz	n$n-f	cat	creu	n$n-f$n-f-ND
-	arg	cruzada	n-f$n	cat	croada	n$n-f
+	arg	cruzada	n-f$n	cat	croada	n-f$n
 	arg	cubano	n$n-m	cat	cubà	n$n-m
 	arg	cubano	n-f	cat	cubà	n-f
 	arg	cubeta	n$n-f	cat	cubeta	n-f$n
@@ -10122,7 +10122,7 @@ RL	arg	crepa	n-f$n	cat	clivella	n$n-f
 	arg	cubista	n$n-mf	cat	cubista	n-mf$$n
 	arg	cuca	n$n-f	cat	panerola	n-f$n
 LR	arg	cucha	n$n-f	cat	esquerra	n-f$n
-	arg	cudiau	n$n-m	cat	cura	n-f$n
+	arg	cudiau	n$n-m	cat	cura	n-f
 	arg	cuello	n$n-m	cat	coll	n-m$n
 	arg	cuenca	n$n-f	cat	conca	n-f$n
 	arg	cuentista	n$n-mf	cat	contista	n$n-mf
@@ -10137,16 +10137,16 @@ RL	arg	cullar	n$n-m	cat	cullerot	n-m$n
 	arg	cullebra	n	cat	colobra	n-f$n
 	arg	culminación	n$n-f	cat	culminació	n-f$n
 	arg	culpa	n$n-f	cat	culpa	n-f$n
-	arg	culpabilidat	n$n-f	cat	culpabilitat	n$n-f
+	arg	culpabilidat	n$n-f	cat	culpabilitat	n-f$n
 	arg	culpabilización	n$n-f	cat	culpabilització	n-f$n
 	arg	cultismo	n$n-m	cat	cultisme	n-m$n
 	arg	cultura	n$n-f	cat	cultura	n$n-f
 	arg	cunyau	n	cat	cunyat	n$n-m
 	arg	cupula	n$n-f	cat	cúpula	n-f$n
-	arg	cura	n-f	cat	cura	n-f$n
+	arg	cura	n-f	cat	cura	n-f
 LR	arg	cura	n-m	cat	capellà	n-m$n
 	arg	curación	n$n-f	cat	curació	n-f$n
-	arg	curiosidat	n$n-f	cat	curiositat	n$n-f
+	arg	curiosidat	n$n-f	cat	curiositat	n-f$n
 	arg	currín	n$n-m	cat	menovell	n-m$n
 	arg	cursiva	n$n-f	cat	cursiva	n-f$n
 	arg	curso	n$n-m	cat	curs	n-m$n
@@ -10168,7 +10168,7 @@ LR	arg	cura	n-m	cat	capellà	n-m$n
 	arg	deber	n$n-m	cat	deure	n$n-m$n-m-pl
 	arg	debilidat	n-f$n	cat	debilitat	n-f$n
 	arg	debilidat	n-f$n	cat	feblesa	n-f$n
-	arg	debilitación	n$n-f	cat	debilitació	n$n-f
+	arg	debilitación	n$n-f	cat	debilitació	n-f$n
 	arg	debilitamiento	n$n-m	cat	debilitament	n-m$n
 	arg	decada	n$n-f	cat	dècada	n-f$n
 	arg	decadencia	n$n-f	cat	decadència	n-f$n
@@ -10176,11 +10176,11 @@ LR	arg	cura	n-m	cat	capellà	n-m$n
 	arg	decantación	n$n-f	cat	decantació	n-f$n
 	arg	decapitación	n$n-f	cat	decapitació	n-f$n
 	arg	decayimiento	n$n-m	cat	decaïment	n-m$n
-	arg	decencia	n$n-f	cat	decència	n$n-f
+	arg	decencia	n$n-f	cat	decència	n-f$n
 	arg	decepción	n$n-f	cat	decepció	n-f$n
 	arg	dechección	n$n-f	cat	dejecció	n-f$n
 	arg	decheneración	n$n-f	cat	degeneració	n-f$n
-	arg	decisión	n$n-f	cat	decisió	n$n-f
+	arg	decisión	n$n-f	cat	decisió	n-f$n
 	arg	declamación	n$n-f	cat	declamació	n-f$n
 	arg	declaración	n$n-f	cat	declaració	n-f$n
 	arg	declinación	n$n-f	cat	declinació	n-f$n
@@ -10200,19 +10200,19 @@ LR	arg	cura	n-m	cat	capellà	n-m$n
 	arg	deferencia	n$n-f	cat	deferència	n-f$n
 	arg	deficiencia	n$n-f	cat	deficiència	n-f$n
 	arg	deficit	n$n-m	cat	dèficit	n-m$n
-	arg	definición	n$n-f	cat	definició	n$n-f
+	arg	definición	n$n-f	cat	definició	n-f$n
 	arg	deflación	n$n-f	cat	deflació	n-f$n
 	arg	deflagración	n$n-f	cat	deflagració	n-f$n
 	arg	defoliación	n$n-f	cat	defoliació	n-f$n
 	arg	deforestación	n$n-f	cat	desforestació	n-f$n
 	arg	deformación	n$n-f	cat	deformació	n-f$n
-	arg	defraudación	n$n-f	cat	defraudació	n$n-f
+	arg	defraudación	n$n-f	cat	defraudació	n-f$n
 	arg	degradación	n$n-f	cat	degradació	n-f$n
 	arg	degustación	n$n-f	cat	degustació	n-f$n
 	arg	deidat	n$n-f	cat	deïtat	n-f$n
 	arg	delación	n$n-f	cat	delació	n-f$n
 	arg	delectación	n$n-f	cat	delectació	n-f$n
-	arg	delegación	n$n-f	cat	delegació	n$n-f
+	arg	delegación	n$n-f	cat	delegació	n-f$n
 	arg	deliberación	n$n-f	cat	deliberació	n-f$n
 	arg	delicadeza	n$n-f	cat	delicadesa	n-f$n
 	arg	delicia	n$n-f	cat	delícia	n-f$n
@@ -10222,7 +10222,7 @@ LR	arg	cura	n-m	cat	capellà	n-m$n
 	arg	delta	n$n-m	cat	delta	n-m$n$n-m-sg
 	arg	delta	n-f	cat	delta	n-f
 	arg	demarcación	n$n-f	cat	demarcació	n-f$n
-	arg	demencia	n$n-f	cat	demència	n$n-f
+	arg	demencia	n$n-f	cat	demència	n-f$n
 	arg	democracia	n$n-f	cat	democràcia	n$n-f
 	arg	democrata	n$n-mf	cat	demòcrata	n$n-mf
 	arg	democratización	n$n-f	cat	democratització	n-f$n
@@ -10230,14 +10230,14 @@ LR	arg	cura	n-m	cat	capellà	n-m$n
 	arg	demografía	n$n-f	cat	demografia	n-f$n
 	arg	demolición	n$n-f	cat	demolició	n$n-f
 	arg	demonio	n$n-m	cat	dimoni	n$n-m
-	arg	demostración	n$n-f	cat	demostració	n$n-f
+	arg	demostración	n$n-f	cat	demostració	n-f$n
 	arg	dendrocronolochía	n$n-f	cat	dendrocronologia	n$n-f$n-f-sg
 	arg	dendrolochía	n$n-f	cat	dendrologia	n-f$n
 	arg	denegación	n$n-f	cat	denegació	n-f$n
 	arg	denigración	n$n-f	cat	denigració	n-f$n
-	arg	denominación	n$n-f	cat	denominació	n$n-f
-	arg	denotación	n$n-f	cat	denotació	n$n-f
-	arg	densidat	n$n-f	cat	densitat	n$n-f$n-f-ND
+	arg	denominación	n$n-f	cat	denominació	n-f$n
+	arg	denotación	n$n-f	cat	denotació	n-f$n
+	arg	densidat	n$n-f	cat	densitat	n-f$n$n-f-ND
 	arg	dentadura	n$n-f	cat	dentadura	n-f$n
 	arg	dentalización	n$n-f	cat	dentalització	n-f$n
 	arg	dentición	n$n-f	cat	dentició	n-f$n
@@ -10255,7 +10255,7 @@ LR	arg	cura	n-m	cat	capellà	n-m$n
 	arg	depravación	n$n-f	cat	depravació	n-f$n
 	arg	depreciación	n$n-f	cat	depreciació	n-f$n
 	arg	depredación	n$n-f	cat	depredació	n-f$n
-	arg	depresión	n$n-f	cat	depressió	n$n-f
+	arg	depresión	n$n-f	cat	depressió	n-f$n
 	arg	depuración	n$n-f	cat	depuració	n-f$n
 	arg	depuradora	n$n-f	cat	depurador	n-f
 	arg	deputación	n$n-f	cat	diputació	n-f$n
@@ -10298,7 +10298,7 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	descarga	n$n-f	cat	descàrrega	n-f$n
 	arg	descarrilamiento	n$n-m	cat	descarrilament	n-m$n
 	arg	descendencia	n$n-f	cat	descendència	n-f$n$n-f-sg
-	arg	descentralización	n$n-f	cat	descentralització	n$n-f
+	arg	descentralización	n$n-f	cat	descentralització	n-f$n
 	arg	desclasificación	n$n-f	cat	desclassificació	n-f$n
 	arg	descodificación	n$n-f	cat	descodificació	n-f$n
 	arg	descolonización	n$n-f	cat	descolonització	n-f$n
@@ -10310,34 +10310,34 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	desconchestión	n$n-f	cat	descongestió	n$n-f
 	arg	desconfianza	n$n-f	cat	desconfiança	n$n-f
 	arg	desconfiguración	n$n-f	cat	desconfiguració	n$n-f
-	arg	desconnexión	n$n-f	cat	desconnexió	n$n-f
+	arg	desconnexión	n$n-f	cat	desconnexió	n-f$n
 	arg	desconoiximiento	n$n-m	cat	desconeixement	n-m$n
-	arg	desconsideración	n$n-f	cat	desconsideració	n$n-f
+	arg	desconsideración	n$n-f	cat	desconsideració	n-f$n
 	arg	descontaminación	n$n-f	cat	descontaminació	n-f$n
 	arg	descoordinación	n$n-f	cat	descoordinació	n-f$n
 	arg	descredito	n$n-m	cat	descrèdit	n-m$n
-	arg	descripción	n$n-f	cat	descripció	n$n-f
+	arg	descripción	n$n-f	cat	descripció	n-f$n
 	arg	descriptor	n$n-m	cat	descriptor	n-m$n
 	arg	desdibuixamiento	n$n-m	cat	desdibuixament	n$n-m
 	arg	desdoblamiento	n$n-m	cat	desdoblament	n-m$n
 	arg	desecación	n$n-f	cat	dessecació	n-f$n
 	arg	desembolicador	n$n-m	cat	desenvolupador	n$n-m
 	arg	desembolicador	n-f	cat	desenvolupador	n-f
-	arg	desembolique	n-m$n	cat	desenrotllament	n$n-m
+	arg	desembolique	n-m$n	cat	desenrotllament	n-m$n
 	arg	desembolique	n-m$n	cat	desenvolupament	n-m$n
 	arg	desemplegau	n$n-m	cat	aturat	n$n-m$n-m-sg
 	arg	desemplegau	n-f	cat	aturat	n-f$n-f-sg
 	arg	desencadenamiento	n$n-m	cat	desencadenament	n-m$n
 	arg	desenronamiento	n$n-m	cat	desenrunament	n-m$n
-	arg	desenvolvimiento	n-m$n	cat	desenrotllament	n$n-m
+	arg	desenvolvimiento	n-m$n	cat	desenrotllament	n-m$n
 	arg	desenvolvimiento	n-m$n	cat	desenvolupament	n-m$n
-	arg	deseparación	n$n-f	cat	separació	n$n-f
+	arg	deseparación	n$n-f	cat	separació	n-f$n
 	arg	deserción	n$n-f	cat	deserció	n-f$n
 	arg	desertificación	n$n-f	cat	desertificació	n-f$n
 	arg	desertización	n$n-f	cat	desertització	n-f$n
 	arg	desestabilización	n$n-f	cat	desestabilització	n-f$n
 	arg	desestimación	n$n-f	cat	desestimació	n-f$n
-	arg	desestructuración	n$n-f	cat	desestructuració	n$n-f
+	arg	desestructuración	n$n-f	cat	desestructuració	n-f$n
 	arg	desexualización	n$n-f	cat	desexualització	n-f$n
 	arg	desfeminización	n$n-f	cat	desfeminització	n$n-f
 	arg	desfibrilación	n$n-f	cat	desfibril·lació	n-f$n
@@ -10348,14 +10348,14 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	desheredamiento	n-m$n	cat	desheretament	n-m$n
 	arg	deshidratación	n$n-f	cat	deshidratació	n-f$n
 	arg	deshidrochenación	n$n-f	cat	deshidrogenació	n-f$n
-	arg	deshumanización	n$n-f	cat	deshumanització	n$n-f
+	arg	deshumanización	n$n-f	cat	deshumanització	n-f$n
 	arg	designación	n$n-f	cat	designació	n-f$n
 	arg	desilusión	n$n-f	cat	desil·lusió	n-f$n
 	arg	desincronización	n$n-f	cat	desincronització	n-f$n
 	arg	desindustrialización	n$n-f	cat	desindustrialització	n-f$n
 	arg	desinencia	n$n-f	cat	desinència	n-f$n
-	arg	desinfección	n$n-f	cat	desinfecció	n$n-f
-	arg	desinformación	n$n-f	cat	desinformació	n$n-f
+	arg	desinfección	n$n-f	cat	desinfecció	n-f$n
+	arg	desinformación	n$n-f	cat	desinformació	n-f$n
 	arg	desinstalación	n$n-f	cat	desinstal·lació	n-f$n
 	arg	desintegración	n$n-f	cat	desintegració	n-f$n
 	arg	desintoxicación	n$n-f	cat	desintoxicació	n-f$n
@@ -10375,7 +10375,7 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	desmontache	n$n-m	cat	desmuntatge	n-m$n
 	arg	desmoralización	n$n-f	cat	desmoralització	n-f$n
 	arg	desmotivación	n$n-f	cat	desmotivació	n-f$n
-	arg	desnaturalización	n$n-f	cat	desnaturalització	n$n-f
+	arg	desnaturalización	n$n-f	cat	desnaturalització	n-f$n
 	arg	desnitrificación	n$n-f	cat	desnitrificació	n$n-f
 	arg	desnucleyarización	n$n-f	cat	desnuclearització	n$n-f
 	arg	desnudista	n$n-mf	cat	desnudista	n$n-mf
@@ -10403,7 +10403,7 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	destilación	n$n-f	cat	destil·lació	n-f$n
 	arg	destitución	n$n-f	cat	destitució	n-f$n
 	arg	destronamiento	n$n-m	cat	destronament	n-m$n
-	arg	destrucción	n$n-f	cat	destrucció	n$n-f
+	arg	destrucción	n$n-f	cat	destrucció	n-f$n
 	arg	destín	n-m	cat	destinació	n-f$n
 	arg	desulfuración	n$n-f	cat	desulfuració	n-f$n
 	arg	desunión	n$n-f	cat	desunió	n-f$n
@@ -10413,10 +10413,10 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	desziframiento	n$n-m	cat	desxiframent	n-m$n
 	arg	detalle	n$n-m	cat	detall	n-m$n
 	arg	detallista	n$n-mf	cat	detallista	n$n-mf
-	arg	detección	n$n-f	cat	detecció	n$n-f
+	arg	detección	n$n-f	cat	detecció	n-f$n
 	arg	detención	n$n-f	cat	detenció	n-f$n
 	arg	detenimiento	n$n-m	cat	deteniment	n-m$n
-	arg	determinación	n$n-f	cat	determinació	n$n-f
+	arg	determinación	n$n-f	cat	determinació	n-f$n
 	arg	determinista	n$n-mf	cat	determinista	n-mf$$n
 	arg	detonación	n$n-f	cat	detonació	n-f$n
 	arg	detracción	n$n-f	cat	detracció	n$n-f
@@ -10454,12 +10454,12 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	dieta	n$n-f	cat	dieta	n-f$n
 	arg	dietista	n$n-mf	cat	dietista	n$n-mf
 	arg	difamación	n$n-f	cat	difamació	n-f$n
-	arg	diferencia	n$n-f	cat	diferència	n$n-f
+	arg	diferencia	n$n-f	cat	diferència	n-f$n
 	arg	diferenciación	n$n-f	cat	diferenciació	n-f$n
 	arg	dificultat	n$n-f	cat	dificultat	n-f$n$n-f-ND
 	arg	difracción	n$n-f	cat	difracció	n-f$n
 	arg	diftongación	n$n-f	cat	diftongació	n-f$n
-	arg	difusión	n$n-f	cat	difusió	n$n-f
+	arg	difusión	n$n-f	cat	difusió	n-f$n
 	arg	dignidat	n$n-f	cat	dignitat	n-f$n$n-f-ND
 	arg	dignificación	n$n-f	cat	dignificació	n$n-f
 	arg	digrafo	n$n-m	cat	dígraf	n-m$n
@@ -10471,23 +10471,23 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	dilucidación	n$n-f	cat	dilucidació	n-f$n
 	arg	dilución	n$n-f	cat	dilució	n-f$n
 	arg	dimensionamiento	n$n-m	cat	dimensionament	n$n-m
-	arg	dimensión	n$n-f	cat	dimensió	n$n-f
-	arg	dimisión	n$n-f	cat	dimissió	n$n-f
+	arg	dimensión	n$n-f	cat	dimensió	n-f$n
+	arg	dimisión	n$n-f	cat	dimissió	n-f$n
 	arg	dimorfismo	n$n-m	cat	dimorfisme	n-m$n
 	arg	dinamica	n$n-f	cat	dinàmica	n-f$n
 	arg	dinamismo	n$n-m	cat	dinamisme	n-m$n
 	arg	dinamita	n$n-f	cat	dinamita	n-f$n
-	arg	dinamización	n$n-f	cat	dinamització	n$n-f
+	arg	dinamización	n$n-f	cat	dinamització	n-f$n
 	arg	dinastía	n$n-f	cat	dinastia	n-f$n
 	arg	dinero	n-m-pl$n-m	cat	diner	n-m-pl$n-m$n
 	arg	diocesi	n-f$n-f-pl	cat	diòcesi	n-f$n$n-f-ND
 	arg	diploma	n$n-m	cat	diploma	n-m$n
-	arg	diplomacia	n$n-f	cat	diplomàcia	n$n-f
+	arg	diplomacia	n$n-f	cat	diplomàcia	n-f$n
 	arg	diplomatico	n$n-m	cat	diplomàtic	n$n-m
 	arg	diplomatico	n-f	cat	diplomàtic	n-f
 	arg	direccionamiento	n$n-m	cat	adreçament	n$n-m
 	arg	dirección	n-f$n	cat	adreça	n-f$n
-	arg	dirección	n-f$n	cat	direcció	n$n-f
+	arg	dirección	n-f$n	cat	direcció	n-f$n
 	arg	directiva	n$n-f	cat	directiu	n-f
 	arg	directivo	n$n-m	cat	directiu	n$n-m
 	arg	directivo	n-f	cat	directiu	n-f
@@ -10498,16 +10498,16 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	discapacidat	n$n-f	cat	discapacitat	n-f$n
 	arg	discernimiento	n$n-m	cat	discerniment	n-m$n
 	arg	dischunción	n$n-f	cat	disjunció	n-f$n
-	arg	disciplina	n$n-f	cat	disciplina	n$n-f
+	arg	disciplina	n$n-f	cat	disciplina	n-f$n
 	arg	disco	n$n-m	cat	disc	n-m$n
 	arg	discografía	n$n-f	cat	discografia	n-f$n
 	arg	discontinidat	n$n-f	cat	discontinuïtat	n-f$n
-	arg	discordancia	n$n-f	cat	discordança	n$n-f
+	arg	discordancia	n$n-f	cat	discordança	n-f$n
 	arg	discordia	n$n-f	cat	discòrdia	n-f$n
-	arg	discoteca	n$n-f	cat	discoteca	n$n-f
+	arg	discoteca	n$n-f	cat	discoteca	n-f$n
 	arg	discrección	n$n-f	cat	discreció	n-f$n
-	arg	discrepancia	n$n-f	cat	discrepància	n$n-f
-	arg	discriminación	n$n-f	cat	discriminació	n$n-f
+	arg	discrepancia	n$n-f	cat	discrepància	n-f$n
+	arg	discriminación	n$n-f	cat	discriminació	n-f$n
 	arg	discurso	n$n-m	cat	discurs	n-m$n
 	arg	discusión	n$n-f	cat	discussió	n-f$n
 	arg	disección	n$n-f	cat	dissecció	n-f$n
@@ -10523,11 +10523,11 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	disimilación	n$n-f	cat	dissimilació	n-f$n
 	arg	disimilitut	n$n-f	cat	dissimilitud	n$n-f
 	arg	disimulación	n$n-f	cat	dissimulació	n-f$n
-	arg	disipación	n$n-f	cat	dissipació	n$n-f
-	arg	dislocación	n$n-f	cat	dislocació	n$n-f
-	arg	disminución	n$n-f	cat	disminució	n$n-f
+	arg	disipación	n$n-f	cat	dissipació	n-f$n
+	arg	dislocación	n$n-f	cat	dislocació	n-f$n
+	arg	disminución	n$n-f	cat	disminució	n-f$n
 	arg	disociación	n$n-f	cat	dissociació	n-f$n
-	arg	disolución	n$n-f	cat	dissolució	n$n-f
+	arg	disolución	n$n-f	cat	dissolució	n-f$n
 	arg	disonancia	n$n-f	cat	dissonància	n-f$n
 	arg	dispensación	n$n-f	cat	dispensació	n-f$n
 	arg	dispersión	n-f$n	cat	dispersió	n-f$n
@@ -10538,12 +10538,12 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	disquetera	n$n-f	cat	disquetera	n$n-f
 	arg	disquisición	n$n-f	cat	disquisició	n-f$n
 	arg	disrupción	n$n-f	cat	disrupció	n-f$n
-	arg	distancia	n$n-f	cat	distància	n$n-f
+	arg	distancia	n$n-f	cat	distància	n-f$n
 	arg	distanciamiento	n$n-m	cat	distanciament	n-m$n
 	arg	distensión	n$n-f	cat	distensió	n-f$n
-	arg	distinción	n$n-f	cat	distinció	n$n-f
+	arg	distinción	n$n-f	cat	distinció	n-f$n
 	arg	distorsión	n$n-f	cat	distorsió	n-f$n
-	arg	distribución	n$n-f	cat	distribució	n$n-f
+	arg	distribución	n$n-f	cat	distribució	n-f$n
 	arg	distribuidor	n$n-m	cat	distribuïdor	n$n-m
 	arg	distribuidor	n-f	cat	distribuïdor	n-f
 	arg	districto	n$n-m	cat	districte	n-m$n
@@ -10552,20 +10552,20 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	ditalada	n$n-f	cat	empremta dactilar	n$n-f
 	arg	ditalada	n$n-f	cat	empremta digital	n-f$n
 	arg	ditalada	n$n-f	cat	petjada	n-f$n
-	arg	divagación	n$n-f	cat	divagació	n$n-f
-	arg	diverchencia	n$n-f	cat	divergència	n$n-f
+	arg	divagación	n$n-f	cat	divagació	n-f$n
+	arg	diverchencia	n$n-f	cat	divergència	n-f$n
 	arg	diversidat	n$n-f	cat	diversitat	n$n-f$n-f-sg
 	arg	diversificación	n$n-f	cat	diversificació	n-f$n
 	arg	diversión	n$n-f	cat	diversió	n-f$n
 	arg	divinidat	n$n-f	cat	divinitat	n-f$n$n-f-ND
-	arg	divisa	n$n-f	cat	divisa	n$n-f
-	arg	división	n$n-f	cat	divisió	n$n-f
+	arg	divisa	n$n-f	cat	divisa	n-f$n
+	arg	división	n$n-f	cat	divisió	n-f$n
 	arg	divulgación	n$n-f	cat	divulgació	n-f$n
 	arg	docencia	n$n-f	cat	docència	n-f$n
 	arg	doctor	n$n-m	cat	doctor	n$n-m
 	arg	doctor	n-f	cat	doctor	n-f
-	arg	doctrina	n$n-f	cat	doctrina	n$n-f
-	arg	documentación	n$n-f	cat	documentació	n$n-f
+	arg	doctrina	n$n-f	cat	doctrina	n-f$n
+	arg	documentación	n$n-f	cat	documentació	n-f$n
 	arg	documentalista	n$n-mf	cat	documentalista	n-mf$n
 	arg	documento	n$n-m	cat	document	n-m$n
 	arg	dolar	n$n-m	cat	dòlar	n$n-m
@@ -10589,7 +10589,7 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	dossier	n$n-m	cat	dossier	n-m$n
 	arg	dotación	n$n-f	cat	dotació	n-f$n
 	arg	dote	n-m	cat	dot	n-m
-	arg	dotzena	n$n-f	cat	dotzena	n$n-f
+	arg	dotzena	n$n-f	cat	dotzena	n-f$n
 	arg	drama	n$n-m	cat	drama	n-m$n
 	arg	dramatismo	n$n-m	cat	dramatisme	n-m$n
 	arg	dramatización	n$n-f	cat	dramatització	n-f$n
@@ -10601,7 +10601,7 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	drogodependencia	n$n-f	cat	drogodependència	n-f$n
 	arg	dualidat	n$n-f	cat	dualitat	n-f$n
 	arg	dualismo	n$n-m	cat	dualisme	n-m$n
-	arg	duana	n$n-f	cat	duana	n$n-f$n-f-pl
+	arg	duana	n$n-f	cat	duana	n-f$n$n-f-pl
 	arg	duenyo	n-f	cat	mestressa	n-f$n
 	arg	duenyo	n-m	cat	propietari	n-m
 	arg	duna	n$n-f	cat	duna	n-f$n
@@ -10633,9 +10633,9 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	ecosocialista	n$n-mf	cat	ecosocialista	n$n-mf
 	arg	ecu	n$n-m	cat	ecu	n-m$n
 	arg	edafolochía	n$n-f	cat	edafologia	n-f$n
-	arg	edat	n$n-f	cat	edat	n$n-f$n-f-sg
-	arg	edición	n$n-f	cat	edició	n$n-f
-	arg	edificación	n$n-f	cat	edificació	n$n-f
+	arg	edat	n$n-f	cat	edat	n-f$n$n-f-sg
+	arg	edición	n$n-f	cat	edició	n-f$n
+	arg	edificación	n$n-f	cat	edificació	n-f$n
 	arg	edificio	n$n-m	cat	edifici	n-m$n
 	arg	editorialista	n$n-mf	cat	editorialista	n-mf$n
 	arg	educación	n$n-f	cat	educació	n-f$n
@@ -10643,7 +10643,7 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	efectivo	n$n-m	cat	efectiu	n-m$n-m-sg$n
 	arg	efecto	n$n-m	cat	efecte	n$n-m
 	arg	efervescencia	n$n-f	cat	efervescència	n-f$n
-	arg	eficacia	n$n-f	cat	eficàcia	n$n-f
+	arg	eficacia	n$n-f	cat	eficàcia	n-f$n
 	arg	eficiencia	n$n-f	cat	eficiència	n$n-f
 	arg	eflorescencia	n$n-f	cat	eflorescència	n-f$n
 	arg	efusión	n$n-f	cat	efusió	n$n-f
@@ -10652,13 +10652,13 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	eixemplar	n$n-m	cat	exemplar	n-m$n$
 	arg	eixemplificación	n$n-f	cat	exemplificació	n-f$n
 	arg	eixemplo	n$n-m	cat	exemple	n-m$n
-	arg	elaboración	n$n-f	cat	elaboració	n$n-f
+	arg	elaboración	n$n-f	cat	elaboració	n-f$n
 	arg	elastancia	n$n-f	cat	elastància	n-f$n
 	arg	elasticidat	n$n-f	cat	elasticitat	n-f$n$n-f-ND
 	arg	elector	n$n-m	cat	elector	n$n-m
 	arg	elector	n-f	cat	elector	n-f
 	arg	electoralista	n$n-mf	cat	electoralista	n$n-mf
-	arg	electricidat	n$n-f	cat	electricitat	n$n-f$n-f-ND
+	arg	electricidat	n$n-f	cat	electricitat	n-f$n$n-f-ND
 	arg	electricista	n$n-mf	cat	electricista	n-mf$n
 	arg	electrificación	n$n-f	cat	electrificació	n-f$n
 	arg	electroanalisi	n-f$n-f-pl	cat	electroanàlisi	n-f$n-f-ND
@@ -10666,7 +10666,7 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	electroencefalografía	n$n-f	cat	electroencefalografia	n-f$n
 	arg	electroerosión	n$n-f	cat	electroerosió	n-f$n
 	arg	electroforesi	n-f$n-f-pl	cat	electroforesi	n-f$n-f-ND
-	arg	electrolisi	n-f$n-f-pl	cat	electròlisi	n-f$n$n-f-ND
+	arg	electrolisi	n-f$n-f-pl	cat	electròlisi	n-f$n-f-ND
 	arg	electroluminiscencia	n$n-f	cat	electroluminescència	n-f$n
 	arg	electromagnetismo	n$n-m	cat	electromagnetisme	n-m$n$n-m-sg
 	arg	electronegatividat	n$n-f	cat	electronegativitat	n-f$n
@@ -10682,14 +10682,14 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	elongación	n$n-f	cat	elongació	n-f$n
 	arg	eloqüencia	n$n-f	cat	eloqüència	n-f$n
 	arg	emanación	n$n-f	cat	emanació	n-f$n
-	arg	emancipación	n$n-f	cat	emancipació	n$n-f
-	arg	embarcación	n$n-f	cat	embarcació	n$n-f
+	arg	emancipación	n$n-f	cat	emancipació	n-f$n
+	arg	embarcación	n$n-f	cat	embarcació	n-f$n
 	arg	embotellamiento	n$n-m	cat	embotellament	n-m$n
 	arg	embriolochía	n$n-f	cat	embriologia	n-f$n
 	arg	embrutimiento	n$n-m	cat	embrutiment	n$n-m
 	arg	emerchencia	n$n-f	cat	emergència	n-f$n
 	arg	emersión	n$n-f	cat	emersió	n$n-f
-	arg	emigración	n$n-f	cat	emigració	n$n-f
+	arg	emigración	n$n-f	cat	emigració	n-f$n
 	arg	eminencia	n$n-f	cat	eminència	n-f$n
 	arg	emisión	n$n-f	cat	emissió	n-f$n
 	arg	emisor	n$n-m	cat	emissor	n-m$n$
@@ -10740,7 +10740,7 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	endodoncia	n$n-f	cat	endodòncia	n$n-f$n-f-sg
 	arg	endoscopia	n$n-f	cat	endoscòpia	n-f$n
 	arg	endrecera	n-f$n	cat	adreça	n-f$n
-	arg	endrecera	n-f$n	cat	direcció	n$n-f
+	arg	endrecera	n-f$n	cat	direcció	n-f$n
 	arg	endurimiento	n$n-m	cat	enduriment	n-m$n
 	arg	enemigo	n$n-m	cat	enemic	n$n-m$
 	arg	enemigo	n-f	cat	enemic	n-f
@@ -10767,13 +10767,13 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	enolochía	n$n-f	cat	enologia	n-f$n
 	arg	enquadernación	n$n-f	cat	enquadernació	n-f$n
 	arg	enquadramiento	n$n-m	cat	enquadrament	n-m$n
-	arg	enqüesta	n$n-f	cat	enquesta	n$n-f
+	arg	enqüesta	n$n-f	cat	enquesta	n-f$n
 	arg	enrastre	n$n-m	cat	enllaç	n-m$n
 	arg	enriquimiento	n$n-m	cat	enriquiment	n-m$n
 	arg	enrobustimiento	n$n-m	cat	enrobustiment	n$n-m
 	arg	enrollamiento	n$n-m	cat	enrotllament	n$n-m
 	arg	enroyimiento	n$n-m	cat	enrogiment	n$n-m
-	arg	enruena	n-f	cat	runa	n-f$n$n-f-sg
+	arg	enruena	n-f	cat	runa	n-f$n-f-sg
 	arg	ensalada	n$n-f	cat	amanida	n-f$n
 	arg	ensayista	n$n-mf	cat	assagista	n-mf$n
 	arg	ensayo	n$n-m	cat	assaig	n-m$n
@@ -10783,7 +10783,7 @@ LR	arg	descalificación	n$n-f	cat	desqualificació	n-f$n
 	arg	entidat	n$n-f	cat	entitat	n-f$n$n-f-ND
 	arg	entivocación	n$n-f	cat	equivocació	n-f$n
 	arg	entomolochía	n$n-f	cat	entomologia	n-f$n$n-f-sg
-	arg	entonación	n$n-f	cat	entonació	n$n-f
+	arg	entonación	n$n-f	cat	entonació	n-f$n
 	arg	entorno	n$n-m	cat	entorn	n-m$n$n-m-pl
 	arg	entrecruzamiento	n$n-m	cat	entrecreuament	n-m$n
 	arg	entrelazamiento	n$n-m	cat	entrellaçament	n$n-m
@@ -10869,7 +10869,7 @@ RL	arg	escayolista	n-mf$n	cat	algepsaire	n$n-mf
 	arg	escultura	n$n-f	cat	escultura	n-f$n
 	arg	escupina	n$n-f	cat	saliva	n-f$n
 	arg	escupitina	n$n-f	cat	saliva	n-f$n
-	arg	escureldat	n-f$n	cat	fosca	n$n-f$n-f-sg
+	arg	escureldat	n-f$n	cat	fosca	n-f$n$n-f-sg
 	arg	escureldat	n-f$n	cat	foscor	n$n-f$n-f-sg
 	arg	escurimiento	n$n-m	cat	enfosquiment	n-m$n
 	arg	esdevenimiento	n$n-m	cat	esdeveniment	n-m$n
@@ -10891,7 +10891,7 @@ RL	arg	escayolista	n-mf$n	cat	algepsaire	n$n-mf
 	arg	esofagoscopia	n$n-f	cat	esofagoscòpia	n-f$n
 	arg	espaciamiento	n$n-m	cat	espaiament	n$n-m
 	arg	espacio	n$n-m	cat	espai	n-m$n
-	arg	espada	n$n-f	cat	espasa	n$n-f$n-f-pl
+	arg	espada	n$n-f	cat	espasa	n-f$n$n-f-pl
 	arg	espalda	n$n-f	cat	esquena	n-f$n$n-f-sg
 RL	arg	espaldera	n-f$n	cat	espatlera	n$n-f
 	arg	espaldera	n-f$n	cat	espatllera	n$n-f
@@ -10916,12 +10916,12 @@ RL	arg	espaldera	n-f$n	cat	espatlera	n$n-f
 	arg	especulación	n$n-f	cat	especulació	n-f$n
 	arg	espeleolochía	n$n-f	cat	espeleologia	n-f$n
 	arg	espelunga	n$n-f	cat	cova	n$n-f
-	arg	esperanza	n$n-f	cat	esperança	n$n-f
+	arg	esperanza	n$n-f	cat	esperança	n-f$n
 	arg	espermatochenesi	n-f$n-f-pl	cat	espermatogènesi	n-f$n-f-ND
 RL	arg	espiello	n-m$n	cat	espill	n-m$n
 	arg	espiello	n-m$n	cat	mirall	n-m$n
 	arg	espina	n$n-f	cat	espina	n-f$n
-	arg	espira	n$n-f	cat	espira	n$n-f
+	arg	espira	n$n-f	cat	espira	n-f$n
 	arg	espiritualidat	n$n-f	cat	espiritualitat	n-f$n
 	arg	espiritualización	n$n-f	cat	espiritualització	n-f$n
 	arg	esplendor	n-f	cat	esplendor	n-f$n
@@ -10941,7 +10941,7 @@ RL	arg	espiello	n-m$n	cat	espill	n-m$n
 	arg	esquiador	n$n-m	cat	esquiador	n$n-m
 	arg	esquiador	n-f	cat	esquiador	n-f
 	arg	esquiruelo	n-m	cat	esquirol	n-m$n
-	arg	estabilidat	n$n-f	cat	estabilitat	n$n-f$n-f-ND
+	arg	estabilidat	n$n-f	cat	estabilitat	n-f$n$n-f-ND
 	arg	estabilización	n$n-f	cat	estabilització	n-f$n
 	arg	establimiento	n$n-m	cat	establiment	n-m$n
 	arg	estabulación	n$n-f	cat	estabulació	n-f$n
@@ -10978,7 +10978,7 @@ RL	arg	espiello	n-m$n	cat	espill	n-m$n
 	arg	estigmatización	n$n-f	cat	estigmatització	n-f$n
 	arg	estilismo	n$n-m	cat	estilisme	n$n-m
 	arg	estilista	n$n-mf	cat	estilista	n-mf$n
-	arg	estilización	n$n-f	cat	estilització	n$n-f
+	arg	estilización	n$n-f	cat	estilització	n-f$n
 	arg	estilo	n$n-m	cat	estil	n-m$n
 	arg	estimación	n$n-f	cat	estimació	n-f$n
 	arg	estimulación	n$n-f	cat	estimulació	n-f$n
@@ -11014,7 +11014,7 @@ RL	arg	estrela	n-f$n	cat	estrella	n-f$n
 	arg	esvaneiximiento	n$n-m	cat	esvaïment	n-m$n
 	arg	esvoldregamiento	n$n-m	cat	enfonsament	n$n-m
 	arg	esvoldregue	n$n-m	cat	esfondrament	n-m$n
-	arg	etapa	n$n-f	cat	etapa	n$n-f
+	arg	etapa	n$n-f	cat	etapa	n-f$n
 	arg	etcetera	n$n-m	cat	etcètera	n-m$n
 	arg	eternidat	n$n-f	cat	eternitat	n-f$n$n-f-ND
 	arg	etimo	n$n-m	cat	ètim	n-m$n
@@ -11030,19 +11030,19 @@ RL	arg	estrela	n-f$n	cat	estrella	n-f$n
 	arg	europeización	n$n-f	cat	europeïtzació	n$n-f
 	arg	europeu	n$n-m	cat	europeu	n$n-m
 	arg	europeu	n-f	cat	europeu	n-f
-	arg	eutrofización	n$n-f	cat	eutrofització	n$n-f
+	arg	eutrofización	n$n-f	cat	eutrofització	n-f$n
 	arg	evanchelista	n$n-mf	cat	evangelista	n-mf$n$
 	arg	evaporación	n$n-f	cat	evaporació	n-f$n
 	arg	evaquación	n$n-f	cat	evacuació	n-f$n
 	arg	evasión	n$n-f	cat	evasió	n-f$n
 	arg	evento	n$n-m	cat	esdeveniment	n-m$n
 	arg	eversión	n$n-f	cat	eversió	n-f$n
-	arg	evidencia	n$n-f	cat	evidència	n$n-f
+	arg	evidencia	n$n-f	cat	evidència	n-f$n
 	arg	evitación	n$n-f	cat	evitació	n-f$n
 	arg	evocación	n$n-f	cat	evocació	n-f$n
-	arg	evolución	n$n-f	cat	evolució	n$n-f
+	arg	evolución	n$n-f	cat	evolució	n-f$n
 	arg	exacción	n$n-f	cat	exacció	n-f$n
-	arg	exacheración	n$n-f	cat	exageració	n$n-f
+	arg	exacheración	n$n-f	cat	exageració	n-f$n
 	arg	exactitut	n$n-f	cat	exactitud	n$n-f
 	arg	exaltación	n$n-f	cat	exaltació	n-f$n
 	arg	examen	n$n-m	cat	examen	n-m$n
@@ -11054,11 +11054,11 @@ RL	arg	estrela	n-f$n	cat	estrella	n-f$n
 	arg	excelencia	n$n-f	cat	excel·lència	n-f$n
 	arg	excepción	n$n-f	cat	excepció	n$n-f
 	arg	excitación	n$n-f	cat	excitació	n-f$n
-	arg	exclamación	n$n-f	cat	exclamació	n$n-f
-	arg	exclusiva	n$n-f	cat	exclusiva	n$n-f
+	arg	exclamación	n$n-f	cat	exclamació	n-f$n
+	arg	exclusiva	n$n-f	cat	exclusiva	n-f$n
 	arg	exclusividat	n$n-f	cat	exclusivitat	n-f$n
 	arg	exclusivista	n$n-mf	cat	exclusivista	n$n-mf
-	arg	exclusión	n$n-f	cat	exclusió	n$n-f
+	arg	exclusión	n$n-f	cat	exclusió	n-f$n
 	arg	excomunista	n$n-mf	cat	excomunista	n-mf$n
 	arg	excomunión	n$n-f	cat	excomunió	n-f$n
 	arg	exconsellero	n$n-m	cat	exconseller	n$n-m
@@ -11071,18 +11071,18 @@ RL	arg	estrela	n-f$n	cat	estrella	n-f$n
 	arg	excursionista	n$n-mf	cat	excursionista	n$n-mf
 	arg	excursión	n$n-f	cat	excursió	n-f$n
 	arg	excusión	n$n-f	cat	excussió	n$n-f
-	arg	exechesi	n-f$n-f-pl	cat	exegesi	n-f$n$n-f-ND
-	arg	execución	n$n-f	cat	execució	n$n-f
+	arg	exechesi	n-f$n-f-pl	cat	exegesi	n-f$n-f-ND
+	arg	execución	n$n-f	cat	execució	n-f$n
 	arg	exención	n$n-f	cat	exempció	n-f$n
 	arg	exercicio	n$n-m	cat	exercici	n-m$n
 	arg	exercito	n$n-m	cat	exèrcit	n-m$n
 	arg	exespía	n$n-mf	cat	exespia	n$n-mf
-	arg	exfoliación	n$n-f	cat	exfoliació	n$n-f
+	arg	exfoliación	n$n-f	cat	exfoliació	n-f$n
 	arg	exhalación	n$n-f	cat	exhalació	n-f$n
 	arg	exhibición	n$n-f	cat	exhibició	n-f$n
 	arg	exhumación	n$n-f	cat	exhumació	n-f$n
-	arg	exichencia	n$n-f	cat	exigència	n$n-f
-	arg	existencia	n$n-f	cat	existència	n$n-f
+	arg	exichencia	n$n-f	cat	exigència	n-f$n
+	arg	existencia	n$n-f	cat	existència	n-f$n
 	arg	existencialismo	n$n-m	cat	existencialisme	n-m$n$n-m-sg
 	arg	existencialista	n$n-mf	cat	existencialista	n-mf$$n
 	arg	exito	n$n-m	cat	èxit	n-m$n
@@ -11092,11 +11092,11 @@ RL	arg	estrela	n-f$n	cat	estrella	n-f$n
 	arg	exoneración	n$n-f	cat	exoneració	n-f$n
 	arg	exorcista	n$n-mf	cat	exorcista	n-mf$n
 	arg	expansionismo	n$n-m	cat	expansionisme	n-m$n
-	arg	expansión	n$n-f	cat	expansió	n$n-f
+	arg	expansión	n$n-f	cat	expansió	n-f$n
 	arg	expansor	n$n-m	cat	expansor	n-m$n
 	arg	expatriación	n$n-f	cat	expatriació	n-f$n
 	arg	expectación	n$n-f	cat	expectació	n-f$n
-	arg	expectativa	n$n-f	cat	expectativa	n$n-f
+	arg	expectativa	n$n-f	cat	expectativa	n-f$n
 	arg	expectoración	n$n-f	cat	expectoració	n-f$n
 	arg	expedición	n$n-f	cat	expedició	n-f$n
 	arg	experiencia	n$n-f	cat	experiència	n$n-f$n-f-ND
@@ -11115,14 +11115,14 @@ RL	arg	expoliación	n-f$n	cat	expoliació	n$n-f
 	arg	exportación	n$n-f	cat	exportació	n-f$n
 	arg	exposición	n$n-f	cat	exposició	n-f$n
 	arg	expresionismo	n$n-m	cat	expressionisme	n-m$n$n-m-sg
-	arg	expresión	n$n-f	cat	expressió	n$n-f
+	arg	expresión	n$n-f	cat	expressió	n-f$n
 	arg	exprimidora	n-f	cat	espremedora	n-f
-	arg	exprisión	n$n-f	cat	expressió	n$n-f
-	arg	expropiación	n$n-f	cat	expropiació	n$n-f
+	arg	exprisión	n$n-f	cat	expressió	n-f$n
+	arg	expropiación	n$n-f	cat	expropiació	n-f$n
 	arg	expulsión	n$n-f	cat	expulsió	n-f$n
 	arg	exrepublica	n$n-f	cat	exrepública	n$n-f
 	arg	extensión	n$n-f	cat	extensió	n$n-f
-	arg	extenuación	n$n-f	cat	extenuació	n$n-f
+	arg	extenuación	n$n-f	cat	extenuació	n-f$n
 	arg	exteriorización	n$n-f	cat	exteriorització	n$n-f
 	arg	exterminación	n$n-f	cat	exterminació	n-f$n
 	arg	extinción	n$n-f	cat	extinció	n-f$n
@@ -11154,7 +11154,7 @@ LR	arg	ezquierda	n$n-f	cat	esquerra	n-f$n
 	arg	f	n$n-f	cat	f	n$n-f
 	arg	faba	n$n-f	cat	fava	n-f$n
 	arg	fabla	n$n-f	cat	parla	n-f$n
-	arg	fabrica	n$n-f	cat	fàbrica	n$n-f
+	arg	fabrica	n$n-f	cat	fàbrica	n-f$n
 	arg	fabricación	n$n-f	cat	fabricació	n-f$n
 	arg	fabulación	n$n-f	cat	fabulació	n-f$n
 	arg	facción	n$n-f	cat	facció	n-f$n
@@ -11167,7 +11167,7 @@ LR	arg	ezquierda	n$n-f	cat	esquerra	n-f$n
 	arg	facultat	n$n-f	cat	facultat	n-f$n$n-f-sg
 	arg	facultativo	n$n-m	cat	facultatiu	n-m$n
 	arg	facultativo	n-f	cat	facultatiu	n-f
-	arg	fada	n$n-f	cat	fada	n$n-f
+	arg	fada	n$n-f	cat	fada	n-f$n
 	arg	faisán	n$n-m	cat	faisà	n$n-m
 	arg	faixa	n$n-f	cat	faixa	n-f$n
 	arg	faixista	n$n-mf	cat	feixista	n-mf$n$
@@ -11198,7 +11198,7 @@ RL	arg	fardacho	n	cat	fardatxo	n-m$n
 	arg	farmacovichilancia	n$n-f	cat	farmacovigilància	n-f$n
 	arg	fascinación	n$n-f	cat	fascinació	n-f$n
 	arg	fastio	n$n-m	cat	fàstic	n$n-m
-	arg	fauna	n$n-f	cat	fauna	n$n-f
+	arg	fauna	n$n-f	cat	fauna	n-f$n
 	arg	fax	n$n-m	cat	fax	n-m$n$n-m-sg
 	arg	fayena	n-f$n	cat	feina	n-f$n
 RL	arg	fayena	n-f$n	cat	tasca	n-f$n
@@ -11210,7 +11210,7 @@ RL	arg	fayena	n-f$n	cat	tasca	n-f$n
 	arg	federalismo	n$n-m	cat	federalisme	n-m$n$n-m-sg
 	arg	federalista	n$n-mf	cat	federalista	n-mf$n
 	arg	felación	n$n-f	cat	fel·lació	n-f$n
-	arg	felicidat	n$n-f	cat	felicitat	n$n-f$n-f-ND
+	arg	felicidat	n$n-f	cat	felicitat	n-f$n$n-f-ND
 	arg	felicitación	n$n-f	cat	felicitació	n$n-f
 	arg	fembra	n$n-f	cat	femella	n-f$n
 	arg	feminidat	n$n-f	cat	feminitat	n-f$n
@@ -11238,18 +11238,18 @@ RL	arg	fayena	n-f$n	cat	tasca	n-f$n
 	arg	feudalismo	n$n-m	cat	feudalisme	n-m$n
 	arg	fiabilidat	n$n-f	cat	fiabilitat	n-f$n$n-f-ND
 	arg	fibra	n$n-f	cat	fibra	n-f$n
-	arg	fibrilación	n$n-f	cat	fibril·lació	n$n-f
+	arg	fibrilación	n$n-f	cat	fibril·lació	n-f$n
 	arg	ficción	n$n-f	cat	ficció	n-f$n
 	arg	ficha	n$n-f	cat	fitxa	n-f$n
 	arg	fichero	n$n-m	cat	arxiu	n-m$n$n-m-sg
 	arg	fichero	n$n-m	cat	fitxer	n-m$n$n-m-ND
 	arg	ficienda	n$n-f	cat	hisenda	n-f$n
-	arg	fidelidat	n$n-f	cat	fidelitat	n$n-f
+	arg	fidelidat	n$n-f	cat	fidelitat	n-f$n
 	arg	fidelización	n$n-f	cat	fidelització	n-f$n
 	arg	fiera	n$n-f	cat	fera	n-f$n
 	arg	fierro	n$n-m	cat	ferro	n$n-m
 	arg	fiesta	n-f$n	cat	diada	n-f$n
-	arg	fiesta	n-f$n	cat	festa	n$n-f
+	arg	fiesta	n-f$n	cat	festa	n-f$n
 	arg	figa	n-f	cat	figa	n-f$n
 	arg	figado	n$n-m	cat	fetge	n$n-m
 	arg	figuera	n$n-f	cat	figuera	n-f$n
@@ -11267,7 +11267,7 @@ RL	arg	fayena	n-f$n	cat	tasca	n-f$n
 	arg	filosofía	n$n-f	cat	filosofia	n-f$n
 	arg	filtración	n$n-f	cat	filtració	n-f$n
 	arg	fin	n-f	cat	fi	n-f$n-f-sg$n
-	arg	finalidat	n$n-f	cat	finalitat	n$n-f$n-f-pl
+	arg	finalidat	n$n-f	cat	finalitat	n-f$n$n-f-pl
 	arg	finalista	n$n-mf	cat	finalista	n-mf$n
 	arg	finalización	n$n-f	cat	finalització	n-f$n
 	arg	financiamiento	n-m$n	cat	finançament	n-m$n
@@ -11291,18 +11291,18 @@ RL	arg	fayena	n-f$n	cat	tasca	n-f$n
 	arg	fitopatolochía	n$n-f	cat	fitopatologia	n-f$n
 	arg	fitosociolochía	n$n-f	cat	fitosociologia	n-f$n
 	arg	fixación	n$n-f	cat	fixació	n-f$n
-	arg	flama	n-f$n	cat	flama	n$n-f
+	arg	flama	n-f$n	cat	flama	n-f$n
 	arg	flama	n-f$n	cat	llama	n-f$n
 	arg	flamarada	n-f$n	cat	flamarada	n$n-f
 	arg	flamarada	n-f$n	cat	flamerada	n-f$n
 	arg	flamenco	n$n-m	cat	flamenc	n$n-m
 	arg	flamenco	n-f	cat	flamenc	n-f
 	arg	flato	n$n-m	cat	olfacte	n-m$n
-	arg	flatulencia	n$n-f	cat	flatulència	n$n-f
+	arg	flatulencia	n$n-f	cat	flatulència	n-f$n
 	arg	flauta	n$n-f	cat	flauta	n-f$n
 	arg	flautista	n$n-mf	cat	flautista	n-mf$n
-	arg	flecha	n$n-f	cat	fletxa	n$n-f
-	arg	flexibilidat	n$n-f	cat	flexibilitat	n$n-f$n-f-ND
+	arg	flecha	n$n-f	cat	fletxa	n-f$n
+	arg	flexibilidat	n$n-f	cat	flexibilitat	n-f$n$n-f-ND
 	arg	flexibilización	n$n-f	cat	flexibilització	n$n-f
 	arg	flexión	n$n-f	cat	flexió	n-f$n
 	arg	floculación	n$n-f	cat	floculació	n-f$n
@@ -11327,7 +11327,7 @@ RL	arg	fayena	n-f$n	cat	tasca	n-f$n
 	arg	fonación	n$n-f	cat	fonació	n-f$n
 	arg	fondista	n$n-mf	cat	fondista	n-mf$n
 	arg	fonema	n$n-m	cat	fonema	n-m$n
-	arg	fonetica	n$n-f	cat	fonètica	n$n-f$n-f-sg
+	arg	fonetica	n$n-f	cat	fonètica	n-f$n$n-f-sg
 	arg	fonetista	n-mf$n	cat	foneticista	n$n-mf
 	arg	fonetista	n-mf$n	cat	fonetista	n-mf$n
 	arg	fonografía	n$n-f	cat	fonografia	n$n-f
@@ -11351,9 +11351,9 @@ RL	arg	fayena	n-f$n	cat	tasca	n-f$n
 	arg	forniga	n$n-f	cat	formiga	n$n-f
 	arg	fornimiento	n$n-m	cat	proveïment	n$n-m
 	arg	forno	n$n-m	cat	forn	n-m$n
-	arg	fortificación	n$n-f	cat	fortificació	n$n-f
+	arg	fortificación	n$n-f	cat	fortificació	n-f$n
 	arg	fortuna	n$n-f	cat	fortuna	n-f$n
-	arg	foscor	n-f$n	cat	fosca	n$n-f$n-f-sg
+	arg	foscor	n-f$n	cat	fosca	n-f$n$n-f-sg
 	arg	foscor	n-f$n	cat	foscor	n$n-f$n-f-sg
 	arg	fosforescencia	n$n-f	cat	fosforescència	n-f$n
 	arg	fosforilación	n$n-f	cat	fosforilació	n-f$n
@@ -11367,7 +11367,7 @@ RL	arg	fayena	n-f$n	cat	tasca	n-f$n
 	arg	fotosintesi	n-f$n-f-pl	cat	fotosíntesi	n-f$n-f-ND
 	arg	fraccionamiento	n$n-m	cat	fraccionament	n-m$n
 	arg	fractura	n$n-f	cat	fractura	n$n-f
-	arg	fraga	n$n-f	cat	maduixa	n$n-f
+	arg	fraga	n$n-f	cat	maduixa	n-f$n
 	arg	fragancia	n$n-f	cat	fragància	n-f$n
 	arg	fragmentación	n$n-f	cat	fragmentació	n-f$n
 	arg	francés	n$n-m	cat	francès	n$n-m
@@ -11376,12 +11376,12 @@ RL	arg	fayena	n-f$n	cat	tasca	n-f$n
 	arg	franqueza	n$n-f	cat	franquesa	n-f$n
 	arg	franquismo	n$n-m	cat	franquisme	n-m$n$n-m-sg
 	arg	franquista	n$n-mf	cat	franquista	n-mf$n$
-	arg	frase	n$n-f	cat	frase	n$n-f
+	arg	frase	n$n-f	cat	frase	n-f$n
 	arg	fraseolochía	n$n-f	cat	fraseologia	n-f$n
 	arg	fraternidat	n$n-f	cat	fraternitat	n-f$n
-	arg	fregadera	n-f$n	cat	aigüera	n-f$n
+	arg	fregadera	n-f$n	cat	aigüera	n-f
 	arg	frent	n-mf	cat	front	n-m$n
-	arg	freqüencia	n$n-f	cat	freqüència	n$n-f
+	arg	freqüencia	n$n-f	cat	freqüència	n-f$n
 	arg	freqüentación	n$n-f	cat	freqüentació	n-f$n
 	arg	fricción	n$n-f	cat	fricció	n-f$n
 	arg	frivolidat	n$n-f	cat	frivolitat	n-f$n
@@ -11389,12 +11389,12 @@ RL	arg	fayena	n-f$n	cat	tasca	n-f$n
 	arg	fruición	n$n-f	cat	fruïció	n-f$n
 	arg	fruita	n$n-f	cat	fruita	n$n-f
 	arg	fruncimiento	n$n-m	cat	frunziment	n-m$n
-	arg	frustración	n$n-f	cat	frustració	n$n-f
+	arg	frustración	n$n-f	cat	frustració	n-f$n
 	arg	fuego	n$n-m	cat	foc	n$n-m
-	arg	fuent	n$n-f	cat	font	n$n-f
+	arg	fuent	n$n-f	cat	font	n-f$n
 	arg	fuero	n$n-m	cat	fur	n-m$n
 	arg	fuerza	n$n-f	cat	força	n-f$n
-	arg	fuesa	n$n-f	cat	fossa	n$n-f
+	arg	fuesa	n$n-f	cat	fossa	n-f$n
 	arg	fuesa	n$n-f	cat	tomba	n-f$n
 	arg	fuga	n-f$n	cat	fuga	n-f$n
 	arg	fuga	n-f$n	cat	fugida	n$n-f
@@ -11410,7 +11410,7 @@ RL	arg	fayena	n-f$n	cat	tasca	n-f$n
 	arg	funcionario	n$n-m	cat	funcionari	n$n-m
 	arg	funcionario	n-f	cat	funcionari	n-f
 	arg	función	n$n-f	cat	funció	n-f$n
-	arg	fundación	n$n-f	cat	fundació	n$n-f
+	arg	fundación	n$n-f	cat	fundació	n-f$n
 	arg	fundador	n$n-m	cat	fundador	n$n-m
 	arg	fundador	n-f	cat	fundador	n-f
 	arg	fundamentación	n$n-f	cat	fonamentació	n-f$n
@@ -11418,7 +11418,7 @@ RL	arg	fayena	n-f$n	cat	tasca	n-f$n
 	arg	fundamentalista	n$n-mf	cat	fonamentalista	n-mf$n$
 	arg	fundición	n-f$n	cat	foneria	n-f$n
 	arg	fundición	n-f$n	cat	fosa	n-f$n
-	arg	fundición	n-f$n	cat	fundició	n$n-f
+	arg	fundición	n-f$n	cat	fundició	n-f$n
 	arg	fundimiento	n$n-m	cat	enfonsament	n$n-m
 	arg	funeraria	n$n-f	cat	funerària	n$n-f
 	arg	funicular	n$n-m	cat	funicular	n-m$n
@@ -11427,7 +11427,7 @@ RL	arg	fayena	n-f$n	cat	tasca	n-f$n
 	arg	furia	n$n-f	cat	fúria	n-f$n
 	arg	furnidor	n$n-m	cat	proveïdor	n$n-m
 	arg	furnidor	n-f	cat	proveïdor	n-f
-	arg	fusión	n$n-f	cat	fusió	n$n-f
+	arg	fusión	n$n-f	cat	fusió	n-f$n
 	arg	fusta	n$n-f	cat	fusta	n-f$n$n-f-pl
 	arg	fustería	n$n-f	cat	fusteria	n$n-f
 	arg	futbol	n$n-m	cat	futbol	n-m$n$n-m-sg
@@ -11465,8 +11465,8 @@ LR	arg	garantía	n$n-f	cat	garantia	n-f$n
 	arg	garchola	n$n-f	cat	presó	n-f$n
 	arg	gargamela	n-f$n	cat	gola	n-f$n
 	arg	gargamela	n-f$n	cat	gorja	n-f$n
-	arg	garra	n$n-f	cat	cama	n$n-f
-	arg	garrampa	n-f	cat	enrampada	n-f$n
+	arg	garra	n$n-f	cat	cama	n-f$n
+	arg	garrampa	n-f	cat	enrampada	n-f
 	arg	gas	n$n-m	cat	gas	n-m$n$n-m-sg
 	arg	gasa	n$n-f	cat	gasa	n-f$n
 	arg	gasificación	n$n-f	cat	gasificació	n-f$n
@@ -11481,12 +11481,12 @@ LR	arg	garantía	n$n-f	cat	garantia	n-f$n
 	arg	glaciación	n$n-f	cat	glaciació	n-f$n
 	arg	glaciolochía	n$n-f	cat	glaciologia	n-f$n
 	arg	glarima	n$n-f	cat	llàgrima	n-f$n
-	arg	globalización	n$n-f	cat	globalització	n$n-f
-	arg	gloria	n$n-f	cat	glòria	n$n-f
+	arg	globalización	n$n-f	cat	globalització	n-f$n
+	arg	gloria	n$n-f	cat	glòria	n-f$n
 	arg	glorificación	n$n-f	cat	glorificació	n-f$n
 	arg	glotalización	n$n-f	cat	glotalització	n-f$n
 	arg	glotocronolochía	n$n-f	cat	glotocronologia	n-f$n
-	arg	gobernación	n$n-f	cat	governació	n$n-f
+	arg	gobernación	n$n-f	cat	governació	n-f$n
 	arg	gol	n$n-m	cat	gol	n-m$n$n-m-sg
 	arg	golfista	n$n-mf	cat	golfista	n$n-mf
 	arg	golpista	n$n-mf	cat	colpista	n-mf$n
@@ -11507,12 +11507,12 @@ LR	arg	garantía	n$n-f	cat	garantia	n-f$n
 	arg	grafía	n$n-f	cat	grafia	n-f$n
 	arg	gramatica	n$n-f	cat	gramàtic	n-f
 	arg	gramaticalización	n$n-f	cat	gramaticalització	n-f$n
-	arg	grancha	n$n-f	cat	granja	n$n-f
+	arg	grancha	n$n-f	cat	granja	n-f$n
 	arg	grandaria	n-f$n	cat	grandària	n-f$n
 	arg	grandiloqüencia	n$n-f	cat	grandiloqüència	n-f$n
 	arg	granero	n$n-m	cat	graner	n-m$n
 	arg	granulación	n$n-f	cat	granulació	n-f$n
-	arg	gratificación	n$n-f	cat	gratificació	n$n-f
+	arg	gratificación	n$n-f	cat	gratificació	n-f$n
 	arg	gratitut	n$n-f	cat	gratitud	n-f$n
 	arg	grau	n$n-m	cat	grau	n-m$n
 	arg	gravación	n$n-f	cat	gravació	n-f$n
@@ -11541,7 +11541,7 @@ RL	arg	guardia	n-GD	cat	guàrdia	n-mf$n
 	arg	guerrista	n$n-mf	cat	guerrista	n$n-mf
 	arg	guiache	n$n-m	cat	salconduit	n-m$n
 	arg	guionista	n$n-mf	cat	guionista	n-mf$n
-	arg	guitarra	n$n-f	cat	guitarra	n$n-f
+	arg	guitarra	n$n-f	cat	guitarra	n-f$n
 	arg	guitarrista	n$n-mf	cat	guitarrista	n-mf$n
 	arg	guión	n-m$n	cat	guió	n-m$n
 	arg	guión	n-m$n	cat	guionet	n-m$n
@@ -11554,8 +11554,8 @@ RL	arg	gurrión	n	cat	teuladí	n$n-m
 	arg	h	n$n-f	cat	h	n$n-f$n-f-sg
 	arg	haber	n$n-m	cat	haver	n-m$n
 	arg	habilidat	n$n-f	cat	habilitat	n-f$n$n-f-ND
-	arg	habilitación	n$n-f	cat	habilitació	n$n-f
-	arg	habitación	n$n-f	cat	habitació	n$n-f
+	arg	habilitación	n$n-f	cat	habilitació	n-f$n
+	arg	habitación	n$n-f	cat	habitació	n-f$n
 	arg	habitant	n$n-mf	cat	habitant	n-mf$n
 	arg	habituación	n$n-f	cat	habituació	n$n-f
 	arg	habitut	n$n-f	cat	habitud	n$n-f
@@ -11565,7 +11565,7 @@ RL	arg	gurrión	n	cat	teuladí	n$n-m
 	arg	hamster	n$n-m	cat	hàmster	n-m$n
 	arg	hardware	n$n-m	cat	maquinari	n-m$n
 	arg	harmonización	n$n-f	cat	harmonització	n-f$n
-	arg	harmonía	n$n-f	cat	harmonia	n$n-f
+	arg	harmonía	n$n-f	cat	harmonia	n-f$n
 	arg	hectaria	n$n-f	cat	hectàrea	n-f$n
 	arg	hedonismo	n$n-m	cat	hedonisme	n-m$n
 	arg	hedonista	n$n-mf	cat	hedonista	n-mf$n
@@ -11583,25 +11583,25 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	hespital	n$n-m	cat	hospital	n$n-m
 	arg	hespitalidat	n$n-f	cat	hospitalitat	n-f$n
 	arg	heterochenidat	n$n-f	cat	heterogeneïtat	n-f$n
-	arg	hibernación	n$n-f	cat	hibernació	n$n-f
+	arg	hibernación	n$n-f	cat	hibernació	n-f$n
 	arg	hibierno	n$n-m	cat	hivern	n$n-m
 	arg	hibridación	n$n-f	cat	hibridació	n-f$n
 	arg	hichiene	n$n-f	cat	higiene	n-f$n
 	arg	hidratación	n$n-f	cat	hidratació	n-f$n
 	arg	hidrochenación	n$n-f	cat	hidrogenació	n-f$n
 	arg	hidrografía	n$n-f	cat	hidrografia	n-f$n
-	arg	hidrolisi	n-f$n-f-pl	cat	hidròlisi	n-f$n-f-ND$n
+	arg	hidrolisi	n-f$n-f-pl	cat	hidròlisi	n-f$n-f-ND
 	arg	hidrolochía	n$n-f	cat	hidrologia	n-f$n
 	arg	hiena	n$n-f	cat	hiena	n-f$n
 	arg	hierarquización	n$n-f	cat	jerarquització	n$n-f
 	arg	hierarquía	n$n-f	cat	jerarquia	n$n-f
-	arg	hierba	n$n-f	cat	herba	n$n-f
+	arg	hierba	n$n-f	cat	herba	n-f$n
 	arg	hinduismo	n$n-m	cat	hinduisme	n-m$n
 	arg	hiperreferencia	n$n-f	cat	hiperreferència	n$n-f
 	arg	hipertensión	n$n-f	cat	hipertensió	n-f$n
 	arg	hipocresía	n$n-f	cat	hipocresia	n-f$n
-	arg	hipofisi	n-f$n-f-pl	cat	hipòfisi	n-f$n$n-f-sg
-	arg	hipotensión	n$n-f	cat	hipotensió	n$n-f
+	arg	hipofisi	n-f$n-f-pl	cat	hipòfisi	n-f$n-f-sg
+	arg	hipotensión	n$n-f	cat	hipotensió	n-f$n
 	arg	hipotesi	n-f$n-f-pl	cat	hipòtesi	n-f$n$n-f-ND
 	arg	hispanidat	n$n-f	cat	hispanitat	n-f$n
 	arg	hispano	n$n-m	cat	hispà	n$n-m
@@ -11613,7 +11613,7 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	historiografía	n$n-f	cat	historiografia	n-f$n
 	arg	holografía	n$n-f	cat	holografia	n-f$n
 	arg	hombre	n$n-m	cat	home	n-m$n
-	arg	hombre	n$n-m	cat	marit	n$n-m
+	arg	hombre	n$n-m	cat	marit	n-m$n
 	arg	homenache	n$n-m	cat	homenatge	n-m$n
 	arg	homocheneización	n$n-f	cat	homogeneïtzació	n-f$n
 	arg	homochenidat	n$n-f	cat	homogeneïtat	n-f$n
@@ -11622,7 +11622,7 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	homologación	n$n-f	cat	homologació	n-f$n
 	arg	honor	n-f$n	cat	honra	n-f$n
 	arg	honra	n$n-f	cat	honra	n-f$n
-	arg	hora	n$n-f	cat	hora	n$n-f
+	arg	hora	n$n-f	cat	hora	n-f$n
 	arg	hordio	n-m	cat	ordi	n-m$n
 	arg	hortal	n-m$n	cat	hort	n-m$n
 	arg	hortalicia	n$n-f	cat	hortalissa	n-f$n
@@ -11637,7 +11637,7 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	huembro	n$n-m	cat	muscle	n-m$n
 	arg	huerta	n$n-f	cat	horta	n-f$n
 	arg	huerto	n$n-m	cat	hort	n-m$n
-	arg	humanidat	n$n-f	cat	humanitat	n$n-f$n-f-ND
+	arg	humanidat	n$n-f	cat	humanitat	n-f$n$n-f-ND
 	arg	humanismo	n$n-m	cat	humanisme	n-m$n
 	arg	humanista	n$n-mf	cat	humanista	n-mf$n$
 	arg	humanización	n$n-f	cat	humanització	n-f$n
@@ -11654,8 +11654,8 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	ictiolochía	n$n-f	cat	ictiologia	n-f$n
 	arg	idealista	n$n-mf	cat	idealista	n-mf$n$
 	arg	idealización	n$n-f	cat	idealització	n-f$n
-	arg	identidat	n$n-f	cat	identitat	n$n-f$n-f-ND
-	arg	identificación	n$n-f	cat	identificació	n$n-f
+	arg	identidat	n$n-f	cat	identitat	n-f$n$n-f-ND
+	arg	identificación	n$n-f	cat	identificació	n-f$n
 	arg	ideolochía	n$n-f	cat	ideologia	n$n-f
 	arg	ideya	n$n-f	cat	idea	n$n-f
 	arg	ideyación	n$n-f	cat	ideació	n-f$n
@@ -11664,10 +11664,10 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	idiota	n$n-mf	cat	idiota	n-mf$n$
 	arg	idolo	n$n-m	cat	ídol	n-m$n
 	arg	ignición	n$n-f	cat	ignició	n-f$n
-	arg	ignorancia	n$n-f	cat	ignorància	n$n-f
+	arg	ignorancia	n$n-f	cat	ignorància	n-f$n
 	arg	igualación	n$n-f	cat	igualació	n$n-f
 	arg	igualdat	n$n-f	cat	igualtat	n$n-f
-	arg	ilegalidat	n$n-f	cat	il·legalitat	n$n-f
+	arg	ilegalidat	n$n-f	cat	il·legalitat	n-f$n
 	arg	ilegalización	n$n-f	cat	il·legalització	n-f$n
 	arg	ilesia	n-f$n	cat	església	n-f$n
 	arg	ilesia	n-f$n	cat	esglèsia	n$n-f
@@ -11682,7 +11682,7 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	imbricación	n$n-f	cat	imbricació	n-f$n
 	arg	imitación	n$n-f	cat	imitació	n-f$n
 	arg	immersión	n$n-f	cat	immersió	n-f$n
-	arg	immigración	n$n-f	cat	immigració	n$n-f
+	arg	immigración	n$n-f	cat	immigració	n-f$n
 	arg	immobiliaria	n$n-f	cat	immobiliària	n$n-f
 	arg	immobilista	n$n-mf	cat	immobilista	n-mf$n
 	arg	immortalidat	n$n-f	cat	immortalitat	n-f$n
@@ -11692,7 +11692,7 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	immunolochía	n$n-f	cat	immunologia	n-f$n
 	arg	immunosupresión	n$n-f	cat	immunosupressió	n-f$n
 	arg	immutabilidat	n$n-f	cat	inmutabilitat	n$n-f
-	arg	impacencia	n$n-f	cat	impaciència	n$n-f
+	arg	impacencia	n$n-f	cat	impaciència	n-f$n
 	arg	impartición	n$n-f	cat	impartició	n-f$n
 	arg	impedancia	n$n-f	cat	impedància	n-f$n
 	arg	impedimento	n$n-m	cat	impediment	n-m$n
@@ -11702,28 +11702,28 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	imperio	n$n-m	cat	imperi	n-m$n
 	arg	impermeabilización	n$n-f	cat	impermeabilització	n$n-f
 	arg	impertinencia	n$n-f	cat	impertinència	n-f$n
-	arg	implantación	n$n-f	cat	implantació	n$n-f
+	arg	implantación	n$n-f	cat	implantació	n-f$n
 	arg	implementación	n$n-f	cat	implementació	n-f$n
 	arg	implicación	n$n-f	cat	implicació	n-f$n
 	arg	implosión	n$n-f	cat	implosió	n-f$n
 	arg	importación	n$n-f	cat	importació	n-f$n
-	arg	importancia	n$n-f	cat	importància	n$n-f
+	arg	importancia	n$n-f	cat	importància	n-f$n
 	arg	imposibilidat	n$n-f	cat	impossibilitat	n-f$n
 	arg	imposición	n$n-f	cat	imposició	n-f$n
-	arg	impotencia	n$n-f	cat	impotència	n$n-f
+	arg	impotencia	n$n-f	cat	impotència	n-f$n
 	arg	imprecación	n$n-f	cat	imprecació	n-f$n
 	arg	imprecisión	n$n-f	cat	imprecisió	n-f$n
 	arg	impregnación	n$n-f	cat	impregnació	n-f$n
 	arg	impresionismo	n$n-m	cat	impressionisme	n-m$n$n-m-sg
 	arg	impresionista	n$n-mf	cat	impressionista	n-mf$n$
-	arg	impresión	n$n-f	cat	impressió	n$n-f
+	arg	impresión	n$n-f	cat	impressió	n-f$n
 	arg	impresor	n$n-m	cat	impressor	n$n-m
 	arg	impresor	n-f	cat	impressor	n-f
 	arg	imprevisión	n$n-f	cat	imprevisió	n-f$n
 	arg	imprevista	n$n-f	cat	imprevista	n$n-f
 	arg	improcedencia	n$n-f	cat	improcedència	n-f$n
 	arg	improvisación	n$n-f	cat	improvisació	n-f$n
-	arg	imprudencia	n$n-f	cat	imprudència	n$n-f
+	arg	imprudencia	n$n-f	cat	imprudència	n-f$n
 	arg	impugnación	n$n-f	cat	impugnació	n-f$n
 	arg	impulsión	n$n-f	cat	impulsió	n$n-f
 	arg	impunidat	n$n-f	cat	impunitat	n$n-f$n-f-sg
@@ -11731,8 +11731,8 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	imán	n$n-m	cat	imant	n-m$n
 	arg	inacción	n$n-f	cat	inacció	n-f$n
 	arg	inactividat	n$n-f	cat	inactivitat	n-f$n
-	arg	inadaptación	n$n-f	cat	inadaptació	n$n-f
-	arg	inadequación	n$n-f	cat	inadequació	n$n-f
+	arg	inadaptación	n$n-f	cat	inadaptació	n-f$n
+	arg	inadequación	n$n-f	cat	inadequació	n-f$n
 	arg	inadmisión	n$n-f	cat	inadmissió	n-f$n
 	arg	inadvertencia	n$n-f	cat	inadvertència	n$n-f
 	arg	inanición	n$n-f	cat	inanició	n-f$n
@@ -11751,9 +11751,9 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	incherencia	n$n-f	cat	ingerència	n-f$n
 	arg	inchestión	n$n-f	cat	ingestió	n-f$n
 	arg	inchusticia	n$n-f	cat	injustícia	n-f$n
-	arg	incidencia	n$n-f	cat	incidència	n$n-f
+	arg	incidencia	n$n-f	cat	incidència	n-f$n
 	arg	incineración	n$n-f	cat	incineració	n-f$n
-	arg	incisión	n$n-f	cat	incisió	n$n-f
+	arg	incisión	n$n-f	cat	incisió	n-f$n
 	arg	incitación	n$n-f	cat	incitació	n-f$n
 	arg	inclemencia	n$n-f	cat	inclemència	n-f$n
 	arg	inclusión	n$n-f	cat	inclusió	n-f$n
@@ -11774,8 +11774,8 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	inconveniencia	n$n-f	cat	inconveniència	n-f$n
 	arg	incorrección	n$n-f	cat	incorrecció	n-f$n
 	arg	incremento	n$n-m	cat	increment	n-m$n
-	arg	incriminación	n$n-f	cat	incriminació	n$n-f
-	arg	incrustación	n$n-f	cat	incrustació	n$n-f
+	arg	incriminación	n$n-f	cat	incriminació	n-f$n
+	arg	incrustación	n$n-f	cat	incrustació	n-f$n
 	arg	incubación	n$n-f	cat	incubació	n-f$n
 	arg	inculpación	n$n-f	cat	inculpació	n-f$n
 	arg	incursión	n$n-f	cat	incursió	n-f$n
@@ -11786,7 +11786,7 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	indefinición	n$n-f	cat	indefinició	n-f$n
 	arg	indefiniu	n$n-m	cat	indefinit	n$n-m
 	arg	indefiniu	n-f	cat	indefinit	n-f
-	arg	indemnización	n$n-f	cat	indemnització	n$n-f
+	arg	indemnización	n$n-f	cat	indemnització	n-f$n
 	arg	independencia	n$n-f	cat	independència	n-f$n
 	arg	independentismo	n$n-m	cat	independentisme	n-m$n$n-m-sg
 	arg	independentista	n$n-mf	cat	independentista	n-mf$n
@@ -11797,8 +11797,8 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	indichencia	n$n-f	cat	indigència	n-f$n
 	arg	indichenista	n$n-mf	cat	indigenista	n-mf$n
 	arg	indichestión	n$n-f	cat	indigestió	n-f$n
-	arg	indiferencia	n$n-f	cat	indiferència	n$n-f
-	arg	indignación	n$n-f	cat	indignació	n$n-f
+	arg	indiferencia	n$n-f	cat	indiferència	n-f$n
+	arg	indignación	n$n-f	cat	indignació	n-f$n
 	arg	indio	n$n-m	cat	indi	n$n-m$
 	arg	indio	n-f	cat	indi	n-f
 	arg	indirecta	n$n-f	cat	indirecta	n-f$n
@@ -11806,7 +11806,7 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	indisposición	n$n-f	cat	indisposició	n-f$n
 	arg	individualidat	n$n-f	cat	individualitat	n-f$n
 	arg	individualismo	n$n-m	cat	individualisme	n$n-m$n-m-sg
-	arg	individualista	n$n-mf	cat	individualista	n$n-mf$
+	arg	individualista	n$n-mf	cat	individualista	n-mf$n$
 	arg	individualización	n$n-f	cat	individualització	n-f$n
 	arg	indiz	n$n-m	cat	índex	n-m$n
 	arg	indolencia	n$n-f	cat	indolència	n-f$n
@@ -11833,24 +11833,24 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	infiltración	n$n-f	cat	infiltració	n-f$n
 	arg	infinidat	n$n-f	cat	infinitat	n-f$n
 	arg	infixo	n$n-m	cat	infix	n-m$n
-	arg	inflación	n$n-f	cat	inflació	n$n-f
-	arg	inflamación	n$n-f	cat	inflamació	n$n-f
+	arg	inflación	n$n-f	cat	inflació	n-f$n
+	arg	inflamación	n$n-f	cat	inflamació	n-f$n
 	arg	inflamiento	n$n-m	cat	inflament	n-m$n
 	arg	inflexión	n$n-f	cat	inflexió	n-f$n
 	arg	inflor	n$n-f	cat	inflor	n-f$n
 	arg	inflorescencia	n$n-f	cat	inflorescència	n-f$n
-	arg	influencia	n$n-f	cat	influència	n$n-f
+	arg	influencia	n$n-f	cat	influència	n-f$n
 	arg	infografía	n$n-f	cat	infografia	n-f$n
 	arg	información	n$n-f	cat	informació	n-f$n
 	arg	informatica	n$n-f	cat	informàtic	n-f
 	arg	informatización	n$n-f	cat	informatització	n-f$n
 	arg	infracción	n$n-f	cat	infracció	n-f$n
-	arg	infrastructura	n$n-f	cat	infraestructura	n$n-f
+	arg	infrastructura	n$n-f	cat	infraestructura	n-f$n
 	arg	infravaloración	n-f$n	cat	infravaloració	n-f$n
 	arg	infravaloración	n-f$n	cat	menysvaloració	n-f$n
 	arg	infrutescencia	n$n-f	cat	infructescència	n-f$n
 	arg	infusión	n$n-f	cat	infusió	n-f$n
-	arg	ingratitut	n$n-f	cat	ingratitut	n$n-f
+	arg	ingratitut	n$n-f	cat	ingratitut	n-f$n
 	arg	ingreso	n$n-m	cat	ingrés	n-m$n$n-m-pl
 	arg	ingurchitación	n$n-f	cat	ingurgitació	n$n-f
 	arg	inhabilitación	n$n-f	cat	inhabilitació	n-f$n
@@ -11862,25 +11862,25 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	iniciativa	n$n-f	cat	iniciativa	n$n-f
 	arg	inicio	n$n-m	cat	inici	n-m$n
 	arg	inmanencia	n$n-f	cat	immanència	n-f$n
-	arg	innocencia	n$n-f	cat	innocència	n$n-f
-	arg	innovación	n$n-f	cat	innovació	n$n-f
+	arg	innocencia	n$n-f	cat	innocència	n-f$n
+	arg	innovación	n$n-f	cat	innovació	n-f$n
 	arg	inobservancia	n$n-f	cat	inobservança	n-f$n
 	arg	inoculación	n$n-f	cat	inoculació	n-f$n
 	arg	inoperancia	n$n-f	cat	inoperància	n-f$n
 	arg	inquietut	n$n-f	cat	inquietud	n$n-f$n-f-pl
 	arg	inquisición	n$n-f	cat	inquisició	n-f$n
 	arg	insatisfacción	n$n-f	cat	insatisfacció	n-f$n
-	arg	inscripción	n$n-f	cat	inscripció	n$n-f
+	arg	inscripción	n$n-f	cat	inscripció	n-f$n
 	arg	insecticida	n$n-m	cat	insecticida	n-m$n
-	arg	inseguridat	n$n-f	cat	inseguretat	n$n-f
+	arg	inseguridat	n$n-f	cat	inseguretat	n-f$n
 	arg	inseminación	n$n-f	cat	inseminació	n-f$n
 	arg	insensibilidat	n$n-f	cat	insensibilitat	n-f$n
 	arg	inserción	n$n-f	cat	inserció	n-f$n
 	arg	insignia	n$n-f	cat	insígnia	n-f$n
 	arg	insignificancia	n$n-f	cat	insignificància	n-f$n
 	arg	insinuación	n$n-f	cat	insinuació	n-f$n
-	arg	insistencia	n$n-f	cat	insistència	n$n-f
-	arg	insolencia	n$n-f	cat	insolència	n$n-f
+	arg	insistencia	n$n-f	cat	insistència	n-f$n
+	arg	insolencia	n$n-f	cat	insolència	n-f$n
 	arg	insolvencia	n$n-f	cat	insolvència	n-f$n
 	arg	insonorización	n$n-f	cat	insonorització	n-f$n
 	arg	inspección	n$n-f	cat	inspecció	n-f$n
@@ -11890,13 +11890,13 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	instalación	n$n-f	cat	instal·lació	n-f$n
 	arg	instalador	n$n-m	cat	instal·lador	n$n-m
 	arg	instalador	n-f	cat	instal·lador	n-f
-	arg	instancia	n$n-f	cat	instància	n$n-f
+	arg	instancia	n$n-f	cat	instància	n-f$n
 	arg	instauración	n$n-f	cat	instauració	n-f$n
 	arg	instigación	n$n-f	cat	instigació	n-f$n
 	arg	institucionalización	n$n-f	cat	institucionalització	n-f$n
-	arg	institución	n$n-f	cat	institució	n$n-f
+	arg	institución	n$n-f	cat	institució	n-f$n
 	arg	instituto	n$n-m	cat	institut	n-m$n
-	arg	instrucción	n$n-f	cat	instrucció	n$n-f
+	arg	instrucción	n$n-f	cat	instrucció	n-f$n
 	arg	instructor	n$n-m	cat	instructor	n$n-m
 	arg	instructor	n-f	cat	instructor	n-f
 	arg	instrumentación	n$n-f	cat	instrumentació	n-f$n
@@ -11907,9 +11907,9 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	insuficiencia	n$n-f	cat	insuficiència	n-f$n
 	arg	insumisión	n$n-f	cat	insubmissió	n-f$n
 	arg	insurchencia	n-f$n	cat	insurgència	n-f$n
-	arg	insurchencia	n-f$n	cat	insurrecció	n$n-f
+	arg	insurchencia	n-f$n	cat	insurrecció	n-f$n
 	arg	insurrección	n$n-f	cat	insurgència	n-f$n
-	arg	insurrección	n$n-f	cat	insurrecció	n$n-f
+	arg	insurrección	n$n-f	cat	insurrecció	n-f$n
 	arg	inte	n$n-m	cat	instant	n-m$n
 	arg	integracionista	n$n-mf	cat	integracionista	n-mf$n
 	arg	integración	n$n-f	cat	integració	n-f$n
@@ -11921,9 +11921,9 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	intencionalidat	n$n-f	cat	intencionalitat	n-f$n
 	arg	intención	n$n-f	cat	intenció	n-f$n
 	arg	intendencia	n$n-f	cat	intendència	n-f$n
-	arg	intensidat	n$n-f	cat	intensitat	n$n-f$n-f-ND
-	arg	intensificación	n$n-f	cat	intensificació	n$n-f
-	arg	interacción	n$n-f	cat	interacció	n$n-f
+	arg	intensidat	n$n-f	cat	intensitat	n-f$n$n-f-ND
+	arg	intensificación	n$n-f	cat	intensificació	n-f$n
+	arg	interacción	n$n-f	cat	interacció	n-f$n
 	arg	interactividat	n$n-f	cat	interactivitat	n-f$n
 	arg	intercalación	n$n-f	cat	intercalació	n-f$n
 	arg	intercambio	n$n-m	cat	intercanvi	n-m$n
@@ -11932,7 +11932,7 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	interchección	n$n-f	cat	interjecció	n-f$n
 	arg	intercomunicación	n$n-f	cat	intercomunicació	n-f$n
 	arg	interconnexión	n$n-f	cat	interconnexió	n-f$n
-	arg	interdependencia	n$n-f	cat	interdependència	n$n-f
+	arg	interdependencia	n$n-f	cat	interdependència	n-f$n
 	arg	interdicción	n$n-f	cat	interdicció	n-f$n
 	arg	interesau	n$n-m	cat	interessat	n$n-m
 	arg	interesau	n-f	cat	interessat	n-f
@@ -11944,20 +11944,20 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	intermediación	n$n-f	cat	intermediació	n-f$n
 	arg	intermedio	n$n-m	cat	intermedi	n-m$n
 	arg	intermodulación	n$n-f	cat	intermodulació	n-f$n
-	arg	internacionalización	n$n-f	cat	internacionalització	n$n-f
+	arg	internacionalización	n$n-f	cat	internacionalització	n-f$n
 	arg	internamiento	n$n-m	cat	internament	n-m$n
 	arg	internet	n-f	cat	internet	n$n-f$n-f-sp
 	arg	interno	n$n-m	cat	intern	n$n-m
 	arg	interno	n-f	cat	intern	n-f
-	arg	interpelación	n$n-f	cat	interpel·lació	n$n-f
+	arg	interpelación	n$n-f	cat	interpel·lació	n-f$n
 	arg	interpolación	n$n-f	cat	interpolació	n-f$n
 	arg	interposición	n$n-f	cat	interposició	n-f$n
-	arg	interpresa	n$n-f	cat	empresa	n$n-f
+	arg	interpresa	n$n-f	cat	empresa	n-f$n
 	arg	interpresario	n$n-m	cat	empresari	n-m
 	arg	interpresario	n-f	cat	empresari	n$n-f
 	arg	interpretación	n$n-f	cat	interpretació	n-f$n
 	arg	interrelación	n$n-f	cat	interrelació	n-f$n
-	arg	interrogación	n$n-f	cat	interrogació	n$n-f
+	arg	interrogación	n$n-f	cat	interrogació	n-f$n
 	arg	interrupción	n$n-f	cat	interrupció	n-f$n
 	arg	interruptor	n$n-m	cat	interruptor	n-m$n
 	arg	intersección	n$n-f	cat	intersecció	n-f$n
@@ -11965,27 +11965,27 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	intervención	n$n-f	cat	intervenció	n-f$n
 	arg	interés	n$n-m	cat	interès	n-m$n
 	arg	intimación	n$n-f	cat	intimació	n-f$n
-	arg	intimidación	n$n-f	cat	intimidació	n$n-f
+	arg	intimidación	n$n-f	cat	intimidació	n-f$n
 	arg	intimidat	n$n-f	cat	intimitat	n-f$n
 	arg	intimista	n$n-mf	cat	intimista	n-mf$n
 	arg	intolerancia	n$n-f	cat	intolerància	n-f$n
 	arg	intoxicación	n$n-f	cat	intoxicació	n-f$n
 	arg	intransichencia	n$n-f	cat	intransigència	n-f$n
 	arg	intriga	n$n-f	cat	intriga	n-f$n
-	arg	introducción	n$n-f	cat	introducció	n$n-f
+	arg	introducción	n$n-f	cat	introducció	n-f$n
 	arg	intromisión	n$n-f	cat	intromissió	n-f$n
 	arg	introspección	n$n-f	cat	introspecció	n-f$n
 	arg	introversión	n$n-f	cat	introversió	n-f$n
 	arg	intrusión	n$n-f	cat	intrusió	n-f$n
-	arg	intubación	n$n-f	cat	intubació	n$n-f
-	arg	intuición	n$n-f	cat	intuïció	n$n-f
-	arg	inundación	n$n-f	cat	inundació	n$n-f
+	arg	intubación	n$n-f	cat	intubació	n-f$n
+	arg	intuición	n$n-f	cat	intuïció	n-f$n
+	arg	inundación	n$n-f	cat	inundació	n-f$n
 	arg	inutilización	n$n-f	cat	inutilització	n$n-f
 	arg	invachinación	n$n-f	cat	invaginació	n-f$n
 	arg	invalidación	n$n-f	cat	invalidació	n-f$n
 	arg	invalideza	n$n-f	cat	invalidesa	n-f$n
 	arg	invariancia	n$n-f	cat	invariància	n-f$n
-	arg	invasión	n$n-f	cat	invasió	n$n-f
+	arg	invasión	n$n-f	cat	invasió	n-f$n
 	arg	invasor	n$n-m	cat	invasor	n$n-m
 	arg	invasor	n-f	cat	invasor	n-f
 	arg	invención	n$n-f	cat	invenció	n-f$n
@@ -12007,11 +12007,11 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	irracionalidat	n$n-f	cat	desraó	n$n-f
 	arg	irracionalidat	n$n-f	cat	irracionalitat	n-f$n
 	arg	irradiación	n$n-f	cat	irradiació	n-f$n
-	arg	irregularidat	n$n-f	cat	irregularitat	n$n-f
+	arg	irregularidat	n$n-f	cat	irregularitat	n-f$n
 	arg	irreverencia	n$n-f	cat	irreverència	n-f$n
 	arg	irrigación	n$n-f	cat	irrigació	n-f$n
 	arg	irritabilidat	n$n-f	cat	irritabilitat	n-f$n
-	arg	irritación	n$n-f	cat	irritació	n$n-f
+	arg	irritación	n$n-f	cat	irritació	n-f$n
 	arg	irrogación	n$n-f	cat	irrogació	n$n-f
 	arg	irrupción	n$n-f	cat	irrupció	n-f$n
 	arg	isla	n$n-f	cat	illa	n$n-f
@@ -12029,7 +12029,7 @@ LR	arg	heredero	n$n-m	cat	hereu	n$n-m
 	arg	ixalla	n$n-f	cat	aixella	n-f$n
 	arg	ixamplamiento	n$n-m	cat	eixamplament	n-m$n
 	arg	ixample	n$n-m	cat	eixample	n-m$n
-	arg	ixaringa	n$n-f	cat	xeringa	n$n-f
+	arg	ixaringa	n$n-f	cat	xeringa	n-f$n
 	arg	ixeta	n-f	cat	aixeta	n-f$n
 	arg	ixordiga	n$n-f	cat	ortiga	n-f$n
 	arg	ixoriador	n$n-m	cat	ventilador	n-m$n
@@ -12064,10 +12064,10 @@ LR	arg	labrador	n$n-m	cat	camperol	n$n-m
 	arg	laicismo	n$n-m	cat	laïcisme	n-m$n$n-m-sg
 	arg	laicista	n$n-mf	cat	laïcista	n$n-mf
 	arg	lambda	n$n-f	cat	lambda	n-f$n
-	arg	lamentación	n$n-f	cat	lamentació	n$n-f
+	arg	lamentación	n$n-f	cat	lamentació	n-f$n
 LR	arg	lamería	n-f	cat	llaminadura	n$n-f
 	arg	lamina	n$n-f	cat	làmina	n-f$n
-	arg	lampa	n$n-f	cat	làmpada	n$n-f
+	arg	lampa	n$n-f	cat	làmpada	n-f$n
 	arg	lamín	n-m	cat	llaminadura	n$n-f
 RL	arg	lamín	n-m	cat	llepoleria	n-f$n
 RL	arg	lamín	n-m	cat	llepolia	n$n-f
@@ -12085,7 +12085,7 @@ RL	arg	lamín	n-m	cat	llamí	n-m
 	arg	largaria	n$n-f	cat	llargada	n-f$n
 	arg	largura	n$n-f	cat	llargada	n-f$n
 	arg	laser	n$n-m	cat	làser	n-m$n$n-m-sg
-	arg	lastima	n$n-f	cat	llàstima	n$n-f$n-f-pl
+	arg	lastima	n$n-f	cat	llàstima	n-f$n$n-f-pl
 	arg	lata	n-f$n	cat	llanda	n-f$n
 	arg	lata	n-f$n	cat	llauna	n-f$n
 	arg	latencia	n$n-f	cat	latència	n-f$n
@@ -12093,23 +12093,23 @@ RL	arg	lamín	n-m	cat	llamí	n-m
 	arg	latitut	n$n-f	cat	latitud	n$n-f
 	arg	lau	n-m$n	cat	cantó	n-m$n
 	arg	lau	n-m$n	cat	costat	n-m$n
-	arg	lavador	n-m	cat	safareig	n-m$n
+	arg	lavador	n-m	cat	safareig	n-m
 RL	arg	lavador	n-f	cat	safareig	n-f
 	arg	lavandero	n$n-m	cat	bugader	n$n-m
 	arg	lavandero	n-f	cat	bugader	n-f
 	arg	lavandería	n$n-f	cat	bugaderia	n-f$n
-	arg	lechislación	n$n-f	cat	legislació	n$n-f
+	arg	lechislación	n$n-f	cat	legislació	n-f$n
 	arg	lechislador	n$n-m	cat	legislador	n-m
 	arg	lechislador	n-f	cat	legislador	n$n-f$
 	arg	lechislatura	n$n-f	cat	legislatura	n-f$n
 	arg	lechitimación	n$n-f	cat	legitimació	n-f$n
-	arg	lechitimidat	n$n-f	cat	legitimitat	n$n-f
+	arg	lechitimidat	n$n-f	cat	legitimitat	n-f$n
 	arg	lechión	n$n-f	cat	legió	n-f$n
 	arg	lector	n$n-m	cat	lector	n$n-m
 	arg	lector	n-f	cat	lector	n-f
-	arg	lectura	n$n-f	cat	lectura	n$n-f
+	arg	lectura	n$n-f	cat	lectura	n-f$n
 	arg	legación	n$n-f	cat	legació	n-f$n
-	arg	legalidat	n$n-f	cat	legalitat	n$n-f
+	arg	legalidat	n$n-f	cat	legalitat	n-f$n
 	arg	legalización	n$n-f	cat	legalització	n-f$n
 	arg	lei	n$n-f	cat	llei	n$n-f
 	arg	leidano	n$n-m	cat	lleidatà	n$n-m$n-m-pl
@@ -12117,19 +12117,19 @@ RL	arg	lavador	n-f	cat	safareig	n-f
 	arg	leit	n$n-f	cat	llet	n-f$n
 	arg	leito	n-m$n	cat	jaç	n-m$n
 	arg	leito	n-m$n	cat	llit	n-m$n
-	arg	leixanía	n$n-f	cat	llunyania	n$n-f
+	arg	leixanía	n$n-f	cat	llunyania	n-f$n
 	arg	lema	n$n-m	cat	lema	n-m$n
 	arg	lematización	n$n-f	cat	lematització	n-f$n
 	arg	leninismo	n$n-m	cat	leninisme	n-m$n$n-m-sg
 	arg	leninista	n$n-mf	cat	leninista	n-mf$n$
-	arg	lentilla	n$n-f	cat	llentia	n$n-f
+	arg	lentilla	n$n-f	cat	llentia	n-f$n
 	arg	lentilla	n$n-f	cat	llentilla	n-f$n
 	arg	lentitut	n$n-f	cat	lentitud	n$n-f
 	arg	lenya	n$n-f	cat	llenya	n-f$n$n-f-sg
 	arg	leproso	n$n-m	cat	leprós	n$n-m
 	arg	leproso	n-f	cat	leprós	n-f
 	arg	lesbianismo	n$n-m	cat	lesbianisme	n-m$n
-	arg	lesión	n$n-f	cat	lesió	n$n-f
+	arg	lesión	n$n-f	cat	lesió	n-f$n
 	arg	letra	n$n-f	cat	lletra	n-f$n$n-f-pl
 	arg	letrista	n$n-mf	cat	lletrista	n-mf$n
 	arg	levantinista	n$n-mf	cat	levantinista	n$n-mf
@@ -12137,7 +12137,7 @@ RL	arg	lavador	n-f	cat	safareig	n-f
 	arg	lexicalización	n$n-f	cat	lexicalització	n$n-f
 	arg	lexicografía	n$n-f	cat	lexicografia	n-f$n
 	arg	lexicolochía	n$n-f	cat	lexicologia	n-f$n
-	arg	leyaltat	n$n-f	cat	lleialtat	n$n-f
+	arg	leyaltat	n$n-f	cat	lleialtat	n-f$n
 	arg	leyenda	n$n-f	cat	llegenda	n$n-f
 	arg	libel	n$n-m	cat	nivell	n$n-m
 	arg	libelación	n$n-f	cat	anivellació	n-f$n
@@ -12159,9 +12159,9 @@ RL	arg	lavador	n-f	cat	safareig	n-f
 	arg	lición	n$n-f	cat	lliçó	n$n-f
 	arg	licor	n$n-m	cat	licor	n-m$n
 	arg	lienzo	n$n-m	cat	llenç	n-m$n
-	arg	liga	n$n-f	cat	lliga	n$n-f
+	arg	liga	n$n-f	cat	lliga	n-f$n
 	arg	lila	n$n-f	cat	lila	n-f$n
-	arg	limitación	n$n-f	cat	limitació	n$n-f
+	arg	limitación	n$n-f	cat	limitació	n-f$n
 	arg	limite	n$n-m	cat	límit	n-m$n
 	arg	limnolochía	n$n-f	cat	limnologia	n-f$n
 	arg	limonada	n$n-f	cat	llimonada	n-f$n
@@ -12175,14 +12175,14 @@ RL	arg	lavador	n-f	cat	safareig	n-f
 	arg	linier	n$n-m	cat	linier	n-m$n
 	arg	linzuelo	n-m	cat	llençol	n-m$n-m-pl$n
 	arg	liofilización	n$n-f	cat	liofilització	n-f$n
-	arg	liquación	n$n-f	cat	liquació	n$n-f
+	arg	liquación	n$n-f	cat	liquació	n-f$n
 	arg	liquadora	n$n-f	cat	liquadora	n-f$n
 	arg	liquidez	n$n-f	cat	liquiditat	n-f$n
 	arg	liquideza	n$n-f	cat	liquiditat	n-f$n
 	arg	liquididat	n$n-f	cat	liquiditat	n-f$n
 	arg	liqüefacción	n$n-f	cat	liqüefacció	n-f$n
 	arg	lista	n$n-f	cat	llista	n-f$n
-	arg	literatura	n$n-f	cat	literatura	n$n-f
+	arg	literatura	n$n-f	cat	literatura	n-f$n
 	arg	litigación	n$n-f	cat	litigació	n$n-f
 	arg	litispendencia	n$n-f	cat	litispendència	n$n-f
 	arg	litografía	n$n-f	cat	litografia	n-f$n
@@ -12195,7 +12195,7 @@ RL	arg	lavador	n-f	cat	safareig	n-f
 	arg	localidat	n$n-f	cat	localitat	n-f$n$n-f-ND
 	arg	localismo	n$n-m	cat	localisme	n-m$n$n-m-sg
 	arg	localización	n$n-f	cat	localització	n-f$n
-	arg	lochica	n$n-f	cat	lògica	n$n-f
+	arg	lochica	n$n-f	cat	lògica	n-f$n
 	arg	lochista	n$n-mf	cat	logista	n$n-mf
 	arg	loción	n$n-f	cat	loció	n-f$n
 	arg	locomoción	n$n-f	cat	locomoció	n-f$n
@@ -12219,7 +12219,7 @@ RL	arg	lavador	n-f	cat	safareig	n-f
 	arg	lubricación	n$n-f	cat	lubricació	n-f$n
 	arg	lubrificación	n$n-f	cat	lubrificació	n-f$n
 	arg	lucimiento	n$n-m	cat	lluïment	n-m$n
-	arg	luenga	n$n-f	cat	llengua	n$n-f
+	arg	luenga	n$n-f	cat	llengua	n-f$n
 	arg	luengache	n$n-m	cat	llenguatge	n-m$n
 	arg	lugar	n$n-m	cat	poble	n-m$n$n-m-pl
 	arg	luitador	n$n-m	cat	lluitador	n$n-m$
@@ -12233,7 +12233,7 @@ RL	arg	lavador	n-f	cat	safareig	n-f
 	arg	lupa	n$n-f	cat	lupa	n-f$n
 	arg	luso	n$n-m	cat	lusità	n$n-m
 	arg	luso	n-f	cat	lusità	n-f
-	arg	lustración	n$n-f	cat	lustració	n$n-f
+	arg	lustración	n$n-f	cat	lustració	n-f$n
 	arg	luxación	n$n-f	cat	luxació	n-f$n
 	arg	luxemburgués	n$n-m	cat	luxemburguès	n$n-m
 	arg	luxemburgués	n-f	cat	luxemburguès	n-f
@@ -12255,24 +12255,24 @@ RL	arg	lavador	n-f	cat	safareig	n-f
 	arg	magnetismo	n$n-m	cat	magnetisme	n-m$n$n-m-sg
 	arg	magnetización	n$n-f	cat	magnetització	n-f$n
 	arg	magnitut	n$n-f	cat	magnitud	n$n-f
-	arg	mai	n$n-f	cat	mare	n$n-f
+	arg	mai	n$n-f	cat	mare	n-f$n
 	arg	mainada	n$n-f	cat	mainada	n-f$n
 	arg	maitinada	n$n-f	cat	matinada	n$n-f$n-f-pl
 	arg	maitín	n-m	cat	matí	n-m$n
-	arg	mal	n$n-m	cat	mal	n$n-m$n-m-sg
+	arg	mal	n$n-m	cat	mal	n-m$n$n-m-sg
 	arg	mal minchador	n$n-m	cat	càncer	n-m$n
 	arg	malabarista	n$n-mf	cat	malabarista	n$n-mf
 	arg	malacatón	n$n-m	cat	préssec	n-m$n
 	arg	malacolochía	n$n-f	cat	malacologia	n-f$n
 	arg	maldición	n$n-f	cat	maledicció	n-f$n
-	arg	maleta	n$n-f	cat	maleta	n$n-f
-	arg	malevolencia	n$n-f	cat	malvolença	n$n-f
+	arg	maleta	n$n-f	cat	maleta	n-f$n
+	arg	malevolencia	n$n-f	cat	malvolença	n-f$n
 	arg	malformación	n$n-f	cat	malformació	n-f$n
 	arg	malicia	n$n-f	cat	malícia	n-f$n
 	arg	mallorquinista	n$n-mf	cat	mallorquinista	n$n-mf
 	arg	malnutrición	n$n-f	cat	malnutrició	n-f$n
-	arg	malotía	n-f$n	cat	malaltia	n$n-f
-	arg	malotía	n-f$n	cat	malura	n$n-f
+	arg	malotía	n-f$n	cat	malaltia	n-f$n
+	arg	malotía	n-f$n	cat	malura	n-f$n
 	arg	malva	n$n-f	cat	malva	n-f$n
 	arg	malversación	n$n-f	cat	malversació	n-f$n
 	arg	mama	n$n-f	cat	mamà	n$n-f
@@ -12286,17 +12286,17 @@ RL	arg	lavador	n-f	cat	safareig	n-f
 	arg	mancomunidat	n$n-f	cat	mancomunitat	n-f$n
 	arg	mandamiento	n$n-m	cat	manament	n-m$n
 	arg	mandarina	n$n-f	cat	mandarina	n-f$n
-	arg	mandibula	n$n-f	cat	mandíbula	n$n-f
-	arg	manera	n$n-f	cat	manera	n$n-f$n-f-pl
+	arg	mandibula	n$n-f	cat	mandíbula	n-f$n
+	arg	manera	n$n-f	cat	manera	n-f$n$n-f-pl
 	arg	manga	n$n-f	cat	màniga	n-f$n
 	arg	manierismo	n$n-m	cat	manierisme	n-m$n$n-m-sg
 	arg	manifestación	n$n-f	cat	manifestació	n-f$n
 	arg	manillar	n$n-m	cat	manillar	n-m$n
 	arg	maniobrabilidat	n$n-f	cat	maniobrabilitat	n-f$n
-	arg	manipulación	n$n-f	cat	manipulació	n$n-f
+	arg	manipulación	n$n-f	cat	manipulació	n-f$n
 	arg	maniquiello	n-m	cat	canell	n-m
 	arg	mansión	n$n-f	cat	mansió	n-f$n
-	arg	manta	n-f$n	cat	flassada	n$n-f
+	arg	manta	n-f$n	cat	flassada	n-f$n
 	arg	manta	n-f$n	cat	manta	n-f$n
 	arg	manteca	n$n-f	cat	mantega	n-f$n
 	arg	mantención	n$n-f	cat	manutenció	n-f$n
@@ -12310,7 +12310,7 @@ LR	arg	manyo	n-f	cat	saragossà	n-f
 	arg	mapa	n$n-m	cat	mapa	n-m$n
 	arg	maqueta	n$n-f	cat	maqueta	n-f$n
 	arg	maquetación	n$n-f	cat	maquetació	n$n-f
-	arg	maquina	n$n-f	cat	màquina	n$n-f
+	arg	maquina	n$n-f	cat	màquina	n-f$n
 	arg	maquinación	n$n-f	cat	maquinació	n-f$n
 	arg	maquinaria	n$n-f	cat	maquinària	n-f$n
 	arg	maquinista	n$n-mf	cat	maquinista	n-mf$n
@@ -12319,12 +12319,12 @@ LR	arg	manyo	n-f	cat	saragossà	n-f
 	arg	marcador	n$n-m	cat	marcador	n-m$n
 	arg	margarina	n$n-f	cat	margarina	n-f$n
 	arg	marguin	n-f	cat	marge	n-m$n
-	arg	marguinación	n$n-f	cat	marginació	n$n-f
+	arg	marguinación	n$n-f	cat	marginació	n-f$n
 	arg	marina	n$n-f	cat	marina	n-f$n
 	arg	marinero	n$n-m	cat	mariner	n$n-m$
 	arg	marinero	n-f	cat	mariner	n-f
 	arg	marioneta	n$n-f	cat	marioneta	n-f$n
-	arg	mariu	n$n-m	cat	marit	n$n-m
+	arg	mariu	n$n-m	cat	marit	n-m$n
 	arg	marmota	n$n-f	cat	marmota	n-f$n
 	arg	martes	n$n-m	cat	dimarts	n-m-sp$n-m$n
 	arg	martir	n-mf	cat	màrtir	n-mf$n
@@ -12339,42 +12339,42 @@ LR	arg	manyo	n-f	cat	saragossà	n-f
 	arg	mascaruta	n-f$n	cat	màsquera	n-f$n
 	arg	mascota	n$n-f	cat	mascota	n-f$n
 	arg	masificación	n$n-f	cat	massificació	n-f$n
-	arg	masticación	n$n-f	cat	masticació	n$n-f
+	arg	masticación	n$n-f	cat	masticació	n-f$n
 	arg	mastografía	n$n-f	cat	mastografia	n-f$n
-	arg	masturbación	n$n-f	cat	masturbació	n$n-f
+	arg	masturbación	n$n-f	cat	masturbació	n-f$n
 	arg	matematica	n$n-f	cat	matemàtic	n$n-f
 	arg	materia	n-f$n	cat	matèria	n-f$n
 	arg	materialista	n$n-mf	cat	materialista	n-mf$n
 	arg	materialización	n$n-f	cat	materialització	n-f$n
 	arg	maternidat	n$n-f	cat	maternitat	n-f$n$n-f-ND
-	arg	matización	n$n-f	cat	matisació	n$n-f
+	arg	matización	n$n-f	cat	matisació	n-f$n
 	arg	matricla	n$n-f	cat	matrícula	n-f$n
-	arg	matriculación	n$n-f	cat	matriculació	n$n-f
+	arg	matriculación	n$n-f	cat	matriculació	n-f$n
 	arg	matrimonio	n$n-m	cat	matrimoni	n-m$n$n-m-sg
 	arg	maximalista	n$n-mf	cat	maximalista	n-mf$n
 	arg	maximización	n$n-f	cat	maximització	n-f$n
 	arg	mayo	n$n-m	cat	maig	n$n-m
 	arg	mayonesa	n$n-f	cat	maionesa	n-f$n
 	arg	mayorista	n$n-mf	cat	majorista	n-mf$n
-	arg	mayoría	n$n-f	cat	majoria	n$n-f$n-f-sg
+	arg	mayoría	n$n-f	cat	majoria	n-f$n$n-f-sg
 	arg	mayuscla	n$n-f	cat	majúscula	n-f$n
 	arg	mazana	n$n-f	cat	poma	n$n-f
 	arg	mazanera	n-f	cat	pomera	n-f
 	arg	mecanica	n$n-f	cat	mecànic	n-f$n
 	arg	mecanismo	n$n-m	cat	mecanisme	n-m$n
-	arg	mecanización	n$n-f	cat	mecanització	n$n-f
+	arg	mecanización	n$n-f	cat	mecanització	n-f$n
 	arg	mecanografía	n$n-f	cat	mecanografia	n$n-f
 	arg	medalla	n$n-f	cat	medalla	n-f$n
 	arg	medallista	n$n-mf	cat	medallista	n-mf$n
-	arg	medecina	n-f$n	cat	medicina	n$n-f
+	arg	medecina	n-f$n	cat	medicina	n-f$n
 	arg	mediatización	n$n-f	cat	mediatització	n-f$n
 	arg	medicación	n$n-f	cat	medicació	n-f$n
-	arg	medicina	n$n-f	cat	medicina	n$n-f
+	arg	medicina	n$n-f	cat	medicina	n-f$n
 	arg	medico	n$n-m	cat	metge	n-m
 	arg	medico	n-f	cat	metge	n$n-f
 	arg	medidor	n$n-m	cat	mesurador	n-m$n
 	arg	mediocampista	n$n-mf	cat	migcampista	n-mf$n
-	arg	meditación	n$n-f	cat	meditació	n$n-f
+	arg	meditación	n$n-f	cat	meditació	n-f$n
 LR	arg	medrana	n-f	cat	por	n-f$n
 	arg	medusa	n$n-f	cat	medusa	n-f$n
 	arg	megabit	n$n-m	cat	megabit	n-m$n
@@ -12384,12 +12384,12 @@ LR	arg	medrana	n-f	cat	por	n-f$n
 	arg	melico	n-m$n	cat	melic	n-m$n
 	arg	mellasca	n$n-f	cat	caspa	n-f$n
 	arg	melodía	n$n-f	cat	melodia	n-f$n
-	arg	memoria	n-f$n	cat	memòria	n$n-f$n-f-pl
+	arg	memoria	n-f$n	cat	memòria	n-f$n$n-f-pl
 	arg	memorialista	n$n-mf	cat	memorialista	n-mf$n
-	arg	memorización	n$n-f	cat	memorització	n$n-f
+	arg	memorización	n$n-f	cat	memorització	n-f$n
 	arg	mención	n$n-f	cat	menció	n-f$n
 	arg	mendicidat	n$n-f	cat	mendicitat	n-f$n
-	arg	mengrana	n$n-f	cat	magrana	n$n-f
+	arg	mengrana	n$n-f	cat	magrana	n-f$n
 	arg	menister	n-m$n	cat	menester	n-m$n
 	arg	mensache	n$n-m	cat	missatge	n-m$n
 	arg	mensachería	n$n-f	cat	missatgeria	n$n-f
@@ -12424,7 +12424,7 @@ RL	arg	mesache	n-f	cat	xic	n-f$n$
 	arg	metalurchia	n$n-f	cat	metal·lúrgia	n-f$n
 	arg	metamorfismo	n$n-m	cat	metamorfisme	n-m$n
 	arg	metat	n-f$n	cat	meitat	n$n-f$n-f-ND
-	arg	metat	n-f$n	cat	mitat	n$n-f$n-f-sg
+	arg	metat	n-f$n	cat	mitat	n-f$n$n-f-sg
 	arg	metatesi	n-f$n-f-pl	cat	metàtesi	n-f$n-f-ND
 	arg	meteorización	n$n-f	cat	meteorització	n-f$n
 	arg	meteorolochía	n$n-f	cat	meteorologia	n$n-f
@@ -12437,7 +12437,7 @@ RL	arg	mesache	n-f	cat	xic	n-f$n$
 	arg	mexicano	n$n-m	cat	mexicà	n$n-m
 	arg	mexicano	n-f	cat	mexicà	n-f
 	arg	meya	n$n-f	cat	mitjana	n-f$n
-	arg	meyación	n$n-f	cat	mediació	n$n-f
+	arg	meyación	n$n-f	cat	mediació	n-f$n
 	arg	meyana	n-f$n	cat	mediana	n-f$n
 	arg	meyana	n-f$n	cat	mitjana	n-f$n
 	arg	meyas	n$n-f-pl	cat	mitges	n-f-pl
@@ -12447,7 +12447,7 @@ RL	arg	mesache	n-f	cat	xic	n-f$n$
 	arg	meyodía	n-m$n	cat	migdia	n-m$n
 	arg	meyodía	n-m$n	cat	migjorn	n-m$n
 	arg	mezquita	n$n-f	cat	mesquita	n$n-f
-	arg	micción	n$n-f	cat	micció	n$n-f
+	arg	micción	n$n-f	cat	micció	n-f$n
 	arg	microbiolochía	n$n-f	cat	microbiologia	n$n-f$n-f-sg
 	arg	microcredito	n$n-m	cat	microcrèdit	n-m$n
 	arg	microedición	n$n-f	cat	microedició	n$n-f
@@ -12475,15 +12475,15 @@ RL	arg	mesache	n-f	cat	xic	n-f$n$
 	arg	militarización	n$n-f	cat	militarització	n-f$n
 	arg	milla	n$n-f	cat	milla	n-f$n
 RL	arg	milloca	n-f	cat	dacsa	n-f$n-f-sg
-	arg	millora	n$n-f	cat	millora	n$n-f
+	arg	millora	n$n-f	cat	millora	n-f$n
 	arg	millón	n$n-m	cat	milió	n$n-m
-	arg	milorcha	n-f	cat	catxerulo	n-m$n
+	arg	milorcha	n-f	cat	catxerulo	n-m
 	arg	milorcha	n-f	cat	estel	n-m$n
-	arg	milorcha	n-f	cat	milotxa	n-f$n
+	arg	milorcha	n-f	cat	milotxa	n-f
 	arg	mimica	n$n-f	cat	mímica	n-f$n
 	arg	mina	n$n-f	cat	mina	n$n-f
 	arg	minchador	n$n-m	cat	menjador	n-m$n
-	arg	mineralización	n$n-f	cat	mineralització	n$n-f
+	arg	mineralización	n$n-f	cat	mineralització	n-f$n
 	arg	mineralochía	n$n-f	cat	mineralogia	n-f$n
 	arg	minero	n$n-m	cat	miner	n$n-m
 	arg	minero	n-f	cat	miner	n-f
@@ -12498,24 +12498,24 @@ RL	arg	milloca	n-f	cat	dacsa	n-f$n-f-sg
 	arg	minorista	n-mf$n	cat	detallista	n$n-mf
 	arg	minorista	n-mf$n	cat	minorista	n-mf$n
 	arg	minorización	n$n-f	cat	minorització	n$n-f
-	arg	minoría	n$n-f	cat	minoria	n$n-f
-	arg	minuciosidat	n$n-f	cat	minuciositat	n$n-f
+	arg	minoría	n$n-f	cat	minoria	n-f$n
+	arg	minuciosidat	n$n-f	cat	minuciositat	n-f$n
 	arg	mirador	n$n-m	cat	mirador	n-m$n
 LR	arg	mirallo	n$n-m	cat	mirall	n-m$n
 	arg	miramiento	n$n-m	cat	mirament	n-m$n
 	arg	misa	n$n-f	cat	missa	n$n-f
 	arg	miscelania	n$n-f	cat	miscel·lània	n-f$n
 	arg	miseria	n$n-f	cat	misèria	n-f$n
-	arg	misión	n$n-f	cat	missió	n$n-f
+	arg	misión	n$n-f	cat	missió	n-f$n
 	arg	misticismo	n$n-m	cat	misticisme	n-m$n$n-m-sg
 	arg	mitificación	n$n-f	cat	mitificació	n$n-f
-	arg	mitigación	n$n-f	cat	mitigació	n$n-f
+	arg	mitigación	n$n-f	cat	mitigació	n-f$n
 	arg	mitografía	n$n-f	cat	mitografia	n$n-f
 	arg	mitolochía	n$n-f	cat	mitologia	n-f$n
 	arg	mixín	n$n-m	cat	gat	n$n-m
 	arg	mixín	n-f	cat	gat	n-f
 	arg	mobil	n$n-m	cat	mòbil	n-m$n
-	arg	mobilidat	n$n-f	cat	mobilitat	n$n-f
+	arg	mobilidat	n$n-f	cat	mobilitat	n-f$n
 	arg	mobilización	n$n-f	cat	mobilització	n-f$n
 	arg	moblista	n$n-mf	cat	moblista	n$n-mf
 	arg	mocador	n$n-m	cat	mocador	n-m$n
@@ -12543,7 +12543,7 @@ RL	arg	mocet	n-f	cat	xic	n-f$n$
 	arg	molín	n$n-m	cat	molí	n-m$n
 	arg	momento	n$n-m	cat	moment	n-m$n
 	arg	momia	n$n-f	cat	mòmia	n$n-f
-	arg	momificación	n$n-f	cat	momificació	n$n-f
+	arg	momificación	n$n-f	cat	momificació	n-f$n
 	arg	monarquismo	n$n-m	cat	monarquisme	n-m$n
 	arg	monarquía	n$n-f	cat	monarquia	n-f$n
 	arg	monche	n$n-m	cat	monjo	n$n-m
@@ -12561,16 +12561,16 @@ RL	arg	mocet	n-f	cat	xic	n-f$n$
 	arg	montanya	n$n-f	cat	muntanya	n-f$n
 	arg	montanyismo	n$n-m	cat	muntanyisme	n-m$n
 	arg	montura	n$n-f	cat	muntura	n-f$n
-	arg	monya	n-f$n	cat	monyica	n$n-f
+	arg	monya	n-f$n	cat	monyica	n-f$n
 	arg	monya	n-f$n	cat	nina	n-f$n
 	arg	monyaco	n$n-m	cat	ninot	n-m$n
 	arg	monyiquera	n$n-f	cat	polsera	n-f$n
-	arg	moqueta	n$n-f	cat	moqueta	n$n-f
+	arg	moqueta	n$n-f	cat	moqueta	n-f$n
 	arg	moralidat	n$n-f	cat	moralitat	n-f$n
 	arg	moralismo	n$n-m	cat	moralisme	n$n-m$n-m-sg
 	arg	moralista	n$n-mf	cat	moralista	n-mf$n
 	arg	moralización	n$n-f	cat	moralització	n-f$n
-	arg	morbilidat	n$n-f	cat	morbiditat	n$n-f
+	arg	morbilidat	n$n-f	cat	morbiditat	n-f$n
 	arg	morciella	n$n-f	cat	botifarra	n-f$n
 	arg	mordaza	n$n-f	cat	mordassa	n-f$n
 	arg	morfina	n$n-f	cat	morfina	n-f$n
@@ -12583,7 +12583,7 @@ RL	arg	mocet	n-f	cat	xic	n-f$n$
 	arg	moro	n-f	cat	moro	n-f
 	arg	mortalidat	n$n-f	cat	mortalitat	n-f$n$n-f-ND
 	arg	mosaico	n$n-m	cat	mosaic	n-m$n
-	arg	mosca	n$n-f	cat	mosca	n$n-f
+	arg	mosca	n$n-f	cat	mosca	n-f$n
 LR	arg	mosen	n-m	cat	capellà	n-m$n
 	arg	mosica	n$n-f	cat	músic	n-f
 	arg	mostaza	n$n-f	cat	mostassa	n-f$n
@@ -12611,7 +12611,7 @@ LR	arg	mosén	n-m	cat	capellà	n-m$n
 	arg	mulato	n$n-m	cat	mulat	n$n-m
 	arg	mulato	n-f	cat	mulat	n-f
 	arg	muller	n$n-f	cat	dona	n-f$n
-	arg	muller	n$n-f	cat	muller	n$n-f
+	arg	muller	n$n-f	cat	muller	n-f$n
 	arg	multiplicación	n$n-f	cat	multiplicació	n-f$n
 	arg	multiplicidat	n$n-f	cat	multiplicitat	n-f$n
 	arg	multiprocesador	n$n-m	cat	multiprocessador	n-m$n
@@ -12619,7 +12619,7 @@ LR	arg	mosén	n-m	cat	capellà	n-m$n
 	arg	mundialista	n$n-mf	cat	mundialista	n$n-mf
 	arg	mundialización	n$n-f	cat	mundialització	n$n-f
 	arg	mundo	n$n-m	cat	món	n$n-m
-	arg	municipalidat	n$n-f	cat	municipalitat	n$n-f
+	arg	municipalidat	n$n-f	cat	municipalitat	n-f$n
 	arg	municipio	n$n-m	cat	municipi	n-m$n
 	arg	munición	n$n-f	cat	munició	n-f$n
 	arg	muralista	n$n-mf	cat	muralista	n-mf$n
@@ -12629,10 +12629,10 @@ LR	arg	mosén	n-m	cat	capellà	n-m$n
 	arg	musulmán	n$n-m	cat	musulmà	n$n-m
 	arg	musulmán	n-f	cat	musulmà	n-f
 	arg	mutación	n$n-f	cat	mutació	n-f$n
-	arg	mutilación	n$n-f	cat	mutilació	n$n-f
+	arg	mutilación	n$n-f	cat	mutilació	n-f$n
 	arg	mutualismo	n$n-m	cat	mutualisme	n-m$n
 	arg	n	n$n-f	cat	n	n$n-f
-	arg	nacionalidat	n$n-f	cat	nacionalitat	n$n-f
+	arg	nacionalidat	n$n-f	cat	nacionalitat	n-f$n
 	arg	nacionalismo	n$n-m	cat	nacionalisme	n-m$n
 	arg	nacionalista	n$n-mf	cat	nacionalista	n-mf$n$
 	arg	nacionalización	n$n-f	cat	nacionalització	n-f$n
@@ -12643,8 +12643,8 @@ LR	arg	mosén	n-m	cat	capellà	n-m$n
 	arg	naiximiento	n$n-m	cat	naixement	n-m$n
 	arg	nanofabricación	n$n-f	cat	nanofabricació	n$n-f
 	arg	nanotecnolochía	n$n-f	cat	nanotecnologia	n-f$n
-	arg	narancha	n$n-f	cat	taronja	n$n-f
-	arg	naranchada	n$n-f	cat	taronjada	n$n-f
+	arg	narancha	n$n-f	cat	taronja	n-f$n
+	arg	naranchada	n$n-f	cat	taronjada	n-f$n
 	arg	narcisismo	n$n-m	cat	narcisisme	n-m$n
 	arg	narración	n$n-f	cat	narració	n-f$n
 	arg	narrativa	n$n-f	cat	narrativa	n-f$n
@@ -12655,15 +12655,15 @@ LR	arg	mosén	n-m	cat	capellà	n-m$n
 	arg	nativo	n$n-m	cat	nadiu	n$n-m
 	arg	nativo	n-f	cat	nadiu	n-f
 	arg	natura	n$n-f	cat	vulva	n-f$n
-	arg	naturaleza	n$n-f	cat	naturalesa	n$n-f
-	arg	naturalidat	n$n-f	cat	naturalitat	n$n-f
+	arg	naturaleza	n$n-f	cat	naturalesa	n-f$n
+	arg	naturalidat	n$n-f	cat	naturalitat	n-f$n
 	arg	naturalismo	n$n-m	cat	naturalisme	n-m$n$n-m-sg
-	arg	naturalista	n$n-mf	cat	naturalista	n$n-mf
+	arg	naturalista	n$n-mf	cat	naturalista	n-mf$n$
 	arg	naturista	n$n-mf	cat	naturista	n-mf$n
 	arg	navarro	n$n-m	cat	navarrès	n$n-m
 	arg	navarro	n-f	cat	navarrès	n-f
 	arg	navegabilidat	n$n-f	cat	navegabilitat	n-f$n
-	arg	navegación	n$n-f	cat	navegació	n$n-f
+	arg	navegación	n$n-f	cat	navegació	n-f$n
 	arg	navegador	n$n-m	cat	navegador	n$n-m
 	arg	navegador	n-f	cat	navegador	n-f
 	arg	nazismo	n$n-m	cat	nazisme	n-m$n
@@ -12674,7 +12674,7 @@ LR	arg	mosén	n-m	cat	capellà	n-m$n
 	arg	negación	n$n-f	cat	negació	n-f$n
 	arg	negativa	n$n-f	cat	negativa	n-f$n
 	arg	neglichencia	n$n-f	cat	negligència	n-f$n
-	arg	negociación	n$n-f	cat	negociació	n$n-f
+	arg	negociación	n$n-f	cat	negociació	n-f$n
 	arg	negocio	n$n-m	cat	negoci	n-m$n
 	arg	negreta	n$n-f	cat	negreta	n-f$n
 	arg	neoclasicismo	n$n-m	cat	neoclassicisme	n-m$n$n-m-sg
@@ -12684,7 +12684,7 @@ LR	arg	mosén	n-m	cat	capellà	n-m$n
 	arg	neolochía	n$n-f	cat	neologia	n-f$n
 	arg	neonacionalista	n$n-mf	cat	neonacionalista	n$n-mf
 	arg	neoplatonismo	n$n-m	cat	neoplatonisme	n-m$n$n-m-sg
-	arg	nerviación	n$n-f	cat	nervació	n$n-f
+	arg	nerviación	n$n-f	cat	nervació	n-f$n
 	arg	neumolochía	n$n-f	cat	pneumologia	n-f$n
 	arg	neurofisiolochía	n$n-f	cat	neurofisiologia	n$n-f
 	arg	neurolochía	n$n-f	cat	neurologia	n-f$n
@@ -12702,7 +12702,7 @@ RL	arg	nino	n-m$n	cat	xiquet	n$n-m
 	arg	nino	n-f	cat	nen	n-f
 RL	arg	nino	n-f	cat	xiquet	n-f
 	arg	nitrificación	n$n-f	cat	nitrificació	n-f$n
-	arg	no-res	n-m	cat	no-res	n$n-m$n-m-sg
+	arg	no-res	n-m	cat	no-res	n-m$n$n-m-sg
 	arg	noción	n$n-f	cat	noció	n-f$n
 	arg	nodo	n$n-m	cat	node	n-m$n
 	arg	noguera	n-f	cat	noguera	n-f$n
@@ -12724,10 +12724,10 @@ RL	arg	nino	n-f	cat	xiquet	n-f
 	arg	noruego	n$n-m	cat	noruec	n$n-m
 	arg	noruego	n-f	cat	noruec	n-f
 	arg	notación	n$n-f	cat	notació	n-f$n
-	arg	noticia	n$n-f	cat	notícia	n$n-f$n-f-sg
-	arg	notificación	n$n-f	cat	notificació	n$n-f
+	arg	noticia	n$n-f	cat	notícia	n-f$n$n-f-sg
+	arg	notificación	n$n-f	cat	notificació	n-f$n
 	arg	novación	n$n-f	cat	novació	n-f$n
-	arg	novedat	n$n-f	cat	novetat	n$n-f
+	arg	novedat	n$n-f	cat	novetat	n-f$n
 	arg	novela	n$n-f	cat	novel·la	n-f$n
 	arg	novelista	n$n-mf	cat	novel·lista	n-mf$n
 	arg	noviembre	n$n-m	cat	novembre	n$n-m
@@ -12756,12 +12756,12 @@ RL	arg	nino	n-f	cat	xiquet	n-f
 	arg	obesidat	n$n-f	cat	obesitat	n-f$n$n-f-ND
 	arg	obligacionista	n$n-mf	cat	obligacionista	n-mf$n
 	arg	obligación	n$n-f	cat	obligació	n-f$n
-	arg	obra	n$n-f	cat	obra	n$n-f
+	arg	obra	n$n-f	cat	obra	n-f$n
 	arg	obrero	n$n-m	cat	obrer	n-m
 	arg	obrero	n-f	cat	obrer	n-f
 	arg	obridura	n$n-f	cat	obertura	n-f$n
-	arg	obscenidat	n$n-f	cat	obscenitat	n$n-f
-	arg	obserbación	n$n-f	cat	observació	n$n-f
+	arg	obscenidat	n$n-f	cat	obscenitat	n-f$n
+	arg	obserbación	n$n-f	cat	observació	n-f$n
 	arg	observancia	n$n-f	cat	observança	n-f$n
 	arg	obsesión	n-f$n	cat	dèria	n-f$n
 	arg	obsesión	n-f$n	cat	obsessió	n-f$n
@@ -12769,13 +12769,13 @@ RL	arg	nino	n-f	cat	xiquet	n-f
 	arg	obstinación	n$n-f	cat	obstinació	n-f$n
 	arg	obstrucción	n$n-f	cat	obstrucció	n-f$n
 	arg	obtención	n$n-f	cat	obtenció	n-f$n
-	arg	obturación	n$n-f	cat	obturació	n$n-f
+	arg	obturación	n$n-f	cat	obturació	n-f$n
 	arg	obtusanglo	n$n-m	cat	obtusangle	n$n-m
 	arg	ocasión	n$n-f	cat	ocasió	n$n-f
 	arg	occitán	n$n-m	cat	occità	n$n-m
 	arg	occitán	n-f	cat	occità	n-f
 	arg	oceanografía	n$n-f	cat	oceanografia	n-f$n
-	arg	oclusión	n$n-f	cat	oclusió	n$n-f
+	arg	oclusión	n$n-f	cat	oclusió	n-f$n
 	arg	octava	n$n-f	cat	octava	n-f$n
 	arg	octubre	n$n-m	cat	octubre	n$n-m
 	arg	oculista	n$n-mf	cat	oculista	n-mf$n
@@ -12790,7 +12790,7 @@ RL	arg	nino	n-f	cat	xiquet	n-f
 	arg	oficina	n$n-f	cat	oficina	n-f$n
 	arg	oficinista	n$n-mf	cat	oficinista	n$n-mf
 	arg	oficio	n$n-m	cat	ofici	n-m$n
-	arg	ofierta	n$n-f	cat	oferta	n$n-f
+	arg	ofierta	n$n-f	cat	oferta	n-f$n
 	arg	ofreiximiento	n$n-m	cat	oferiment	n-m$n
 	arg	oftalmolochía	n$n-f	cat	oftalmologia	n-f$n$n-f-sg
 	arg	ofuscación	n$n-f	cat	ofuscació	n$n-f
@@ -12804,13 +12804,13 @@ RL	arg	nino	n-f	cat	xiquet	n-f
 	arg	olor	n-f	cat	flaire	n-f$n
 	arg	olor	n-f	cat	olor	n-f$n
 	arg	olor	n-f	cat	sentor	n-f$n
-	arg	omisión	n$n-f	cat	omissió	n$n-f
-	arg	omnisciencia	n$n-f	cat	omnisciència	n$n-f
+	arg	omisión	n$n-f	cat	omissió	n-f$n
+	arg	omnisciencia	n$n-f	cat	omnisciència	n-f$n
 	arg	onanista	n$n-mf	cat	onanista	n$n-mf
 	arg	oncolochía	n$n-f	cat	oncologia	n-f$n
 	arg	onda	n$n-f	cat	ona	n$n-f
 	arg	ondulación	n$n-f	cat	ondulació	n$n-f
-	arg	onomastica	n$n-f	cat	onomàstica	n$n-f$n-f-sg
+	arg	onomastica	n$n-f	cat	onomàstica	n-f$n$n-f-sg
 	arg	onso	n$n-m	cat	ós	n$n-m$n-m-ND
 	arg	onso	n-f	cat	ós	n-f
 	arg	ontolochía	n$n-f	cat	ontologia	n-f$n
@@ -12822,18 +12822,18 @@ RL	arg	nino	n-f	cat	xiquet	n-f
 	arg	opinión	n$n-f	cat	opinió	n$n-f
 	arg	oportunidat	n$n-f	cat	oportunitat	n-f$n$n-f-sg
 	arg	oportunista	n$n-mf	cat	oportunista	n-mf$$n
-	arg	oposición	n$n-f	cat	oposició	n$n-f
+	arg	oposición	n$n-f	cat	oposició	n-f$n
 	arg	opresión	n$n-f	cat	opressió	n-f$n
 	arg	opresor	n$n-m	cat	opressor	n$n-m
 	arg	opresor	n-f	cat	opressor	n-f
 	arg	optimismo	n$n-m	cat	optimisme	n$n-m
 	arg	optimista	n$n-mf	cat	optimista	n-mf$n
 	arg	optimización	n$n-f	cat	optimització	n-f$n
-	arg	opulencia	n$n-f	cat	opulència	n$n-f
-	arg	oración	n$n-f	cat	oració	n$n-f
+	arg	opulencia	n$n-f	cat	opulència	n-f$n
+	arg	oración	n$n-f	cat	oració	n-f$n
 	arg	orador	n$n-m	cat	orador	n$n-m
 	arg	orador	n-f	cat	orador	n-f
-	arg	orbita	n$n-f	cat	òrbita	n$n-f
+	arg	orbita	n$n-f	cat	òrbita	n-f$n
 	arg	orchata	n$n-f	cat	orxata	n-f$n
 	arg	orchía	n$n-f	cat	orgia	n$n-f
 	arg	ordinador	n-m$n	cat	ordinador	n-m$n
@@ -12863,20 +12863,20 @@ RL	arg	nino	n-f	cat	xiquet	n-f
 	arg	osasunista	n$n-mf	cat	osasunista	n$n-mf
 	arg	osca	n$n-f	cat	osca	n-f$n
 	arg	oscilación	n$n-f	cat	oscil·lació	n-f$n
-	arg	osificación	n$n-f	cat	ossificació	n$n-f
+	arg	osificación	n$n-f	cat	ossificació	n-f$n
 	arg	ostache	n$n-mf	cat	ostatge	n$n-mf
-	arg	ostentación	n$n-f	cat	ostentació	n$n-f
+	arg	ostentación	n$n-f	cat	ostentació	n-f$n
 	arg	ostra	n$n-f	cat	ostra	n-f$n
 	arg	otomano	n$n-m	cat	otomà	n$n-m
 	arg	otomano	n-f	cat	otomà	n-f
 	arg	otorrinolaringolochía	n$n-f	cat	otorinolaringologia	n-f$n
 	arg	ovación	n$n-f	cat	ovació	n-f$n
 	arg	ovulación	n$n-f	cat	ovulació	n-f$n
-	arg	oxidación	n$n-f	cat	oxidació	n$n-f
+	arg	oxidación	n$n-f	cat	oxidació	n-f$n
 	arg	oyimiento	n$n-m	cat	oïment	n$n-m
 	arg	p	n$n-f	cat	p	n$n-f
 	arg	paca	n$n-f	cat	bala	n-f$n
-	arg	pachina	n$n-f	cat	pàgina	n$n-f
+	arg	pachina	n$n-f	cat	pàgina	n-f$n
 	arg	pachinación	n$n-f	cat	paginació	n-f$n
 	arg	paciencia	n$n-f	cat	paciència	n-f$n
 	arg	pacificación	n$n-f	cat	pacificació	n-f$n
@@ -12911,7 +12911,7 @@ RL	arg	nino	n-f	cat	xiquet	n-f
 	arg	paludismo	n$n-m	cat	paludisme	n-m$n
 	arg	pan	n$n-m	cat	pa	n-m$n
 	arg	pancarta	n$n-f	cat	pancarta	n-f$n
-	arg	panda	n-f	cat	colla	n$n-f
+	arg	panda	n-f	cat	colla	n-f$n
 	arg	panda	n-f	cat	panda	n-m$n-m-sg
 	arg	pandereta	n$n-f	cat	pandereta	n-f$n
 	arg	panel	n$n-m	cat	panell	n-m$n
@@ -12922,8 +12922,8 @@ RL	arg	nino	n-f	cat	xiquet	n-f
 	arg	pansa	n$n-f	cat	pansa	n-f$n
 	arg	pantalla	n$n-f	cat	pantalla	n-f$n
 	arg	pantera	n$n-f	cat	pantera	n-f$n
-	arg	papa	n$n-m	cat	papa	n$n-m
-	arg	papa	n$n-m	cat	papà	n$n-m$n-m-ND
+	arg	papa	n$n-m	cat	papa	n-m$n
+	arg	papa	n$n-m	cat	papà	n-m$n$n-m-ND
 	arg	papel	n$n-m	cat	paper	n-m$n$n-m-sg
 	arg	papelera	n$n-f	cat	paperera	n$n-f
 	arg	papelería	n$n-f	cat	papereria	n$n-f
@@ -12937,9 +12937,9 @@ RL	arg	nino	n-f	cat	xiquet	n-f
 	arg	paraguayo	n-f	cat	paraguaià	n-f
 	arg	paralela	n$n-f	cat	paral·lela	n-f$n
 	arg	paralelismo	n$n-m	cat	paral·lelisme	n-m$n
-	arg	paralisi	n-f$n-f-pl	cat	paràlisi	n-f$n-f-ND$n
-	arg	paralización	n$n-f	cat	paralització	n$n-f
-LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
+	arg	paralisi	n-f$n-f-pl	cat	paràlisi	n-f$n-f-ND
+	arg	paralización	n$n-f	cat	paralització	n-f$n
+LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND
 	arg	parametrización	n$n-f	cat	parametrització	n-f$n
 	arg	parametro	n$n-m	cat	paràmetre	n$n-m
 	arg	paranza	n$n-f	cat	preparació	n-f$n
@@ -12949,7 +12949,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	parella	n$n-f	cat	parella	n-f$n
 	arg	paremiolochía	n$n-f	cat	paremiologia	n-f$n
 	arg	parentalla	n$n-f	cat	parentela	n-f$n
-	arg	parentesi	n-m$n-m-pl	cat	parèntesi	n-m$n$n-m-ND
+	arg	parentesi	n-m$n-m-pl	cat	parèntesi	n-m$n-m-ND$n
 	arg	paret	n$n-f	cat	paret	n-f$n
 	arg	paridat	n$n-f	cat	paritat	n-f$n$n-f-ND
 	arg	parisino	n$n-m	cat	parisenc	n-m$n
@@ -12991,7 +12991,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	pavimentación	n$n-f	cat	pavimentació	n-f$n
 	arg	paz	n$n-f	cat	pau	n$n-f$n-f-ND
 	arg	país	n$n-m	cat	país	n-m$n$n-m-ND
-	arg	peatonalización	n$n-f	cat	peatonalització	n$n-f
+	arg	peatonalización	n$n-f	cat	peatonalització	n-f$n
 	arg	peceta	n$n-f	cat	pesseta	n-f$n
 	arg	peculiaridat	n$n-f	cat	peculiaritat	n-f$n
 	arg	pedagochía	n$n-f	cat	pedagogia	n-f$n
@@ -13009,7 +13009,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	pelicla	n$n-f	cat	pel·lícula	n-f$n
 	arg	pelleta	n-f	cat	pell	n-f$n
 	arg	pelo	n$n-m	cat	pèl	n$n-m
-	arg	peluca	n$n-f	cat	perruca	n$n-f
+	arg	peluca	n$n-f	cat	perruca	n-f$n
 	arg	peluquería	n$n-f	cat	perruqueria	n-f$n
 	arg	pena	n$n-f	cat	pena	n-f$n
 	arg	penalización	n$n-f	cat	penalització	n-f$n
@@ -13029,31 +13029,31 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	percha	n$n-f	cat	perxa	n-f$n
 	arg	percolación	n$n-f	cat	percolació	n-f$n
 	arg	percusionista	n$n-mf	cat	percussionista	n-mf$n
-	arg	percusión	n$n-f	cat	percussió	n$n-f
+	arg	percusión	n$n-f	cat	percussió	n-f$n
 	arg	perdedor	n$n-m	cat	perdedor	n$n-m$
 	arg	perdedor	n-f	cat	perdedor	n-f
 	arg	perera	n-f	cat	perera	n-f
-	arg	perfeccionamiento	n$n-m	cat	perfeccionament	n$n-m
+	arg	perfeccionamiento	n$n-m	cat	perfeccionament	n-m$n
 	arg	perfeccionista	n$n-mf	cat	perfeccionista	n-mf$$n
 	arg	perfección	n$n-f	cat	perfecció	n-f$n
 	arg	perfil	n$n-m	cat	perfil	n-m$n
 	arg	perforación	n$n-f	cat	perforació	n-f$n
 	arg	perfumería	n$n-f	cat	perfumeria	n-f$n
-	arg	periglo	n$n-m	cat	perill	n$n-m
+	arg	periglo	n$n-m	cat	perill	n-m$n
 	arg	periodicidat	n$n-f	cat	periodicitat	n-f$n
 	arg	periodismo	n$n-m	cat	periodisme	n-m$n
 	arg	periodista	n$n-mf	cat	periodista	n-mf$n
-	arg	periodización	n$n-f	cat	periodització	n$n-f
+	arg	periodización	n$n-f	cat	periodització	n-f$n
 	arg	periodo	n$n-m	cat	període	n-m$n
 	arg	peritación	n$n-f	cat	peritació	n$n-f
-	arg	perla	n$n-f	cat	perla	n$n-f
+	arg	perla	n$n-f	cat	perla	n-f$n
 	arg	permanencia	n$n-f	cat	permanència	n-f$n
 	arg	permeabilidat	n$n-f	cat	permeabilitat	n-f$n
 	arg	permeancia	n$n-f	cat	permeància	n-f$n
 	arg	permiso	n$n-m	cat	permís	n-m$n$n-m-ND
-	arg	permutación	n$n-f	cat	permutació	n$n-f
+	arg	permutación	n$n-f	cat	permutació	n-f$n
 	arg	peronista	n$n-mf	cat	peronista	n-mf$n
-	arg	perpetuación	n$n-f	cat	perpetuació	n$n-f
+	arg	perpetuación	n$n-f	cat	perpetuació	n-f$n
 	arg	persecución	n$n-f	cat	persecució	n-f$n
 	arg	perseverancia	n$n-f	cat	perseverança	n$n-f
 	arg	persiana	n$n-f	cat	persiana	n-f$n
@@ -13063,13 +13063,13 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	personalidat	n$n-f	cat	personalitat	n-f$n$n-f-ND
 	arg	personalización	n$n-f	cat	personalització	n-f$n
 	arg	personificación	n$n-f	cat	personificació	n-f$n
-	arg	perspectiva	n$n-f	cat	perspectiva	n$n-f
+	arg	perspectiva	n$n-f	cat	perspectiva	n-f$n
 	arg	persuasión	n$n-f	cat	persuasió	n-f$n
 	arg	pertenencia	n$n-f	cat	pertinença	n-f$n
 	arg	pertiguista	n$n-mf	cat	perxista	n$n-mf
 	arg	pertinancia	n$n-f	cat	pertinància	n$n-f
 	arg	pertinencia	n$n-f	cat	pertinència	n-f$n
-	arg	perturbación	n$n-f	cat	pertorbació	n$n-f
+	arg	perturbación	n$n-f	cat	pertorbació	n-f$n
 	arg	peruano	n$n-m	cat	peruà	n$n-m
 	arg	peruano	n-f	cat	peruà	n-f
 	arg	perversión	n$n-f	cat	perversió	n-f$n
@@ -13083,7 +13083,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	petista	n$n-mf	cat	petista	n$n-mf
 	arg	petrografía	n$n-f	cat	petrografia	n-f$n
 	arg	petrolochía	n$n-f	cat	petrologia	n-f$n
-	arg	petulancia	n$n-f	cat	petulància	n$n-f
+	arg	petulancia	n$n-f	cat	petulància	n-f$n
 	arg	pezón	n$n-m	cat	mugró	n-m$n
 	arg	pianista	n$n-mf	cat	pianista	n-mf$n
 	arg	picaresca	n$n-f	cat	picardia	n-f$n
@@ -13109,13 +13109,13 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	pintacoda	n$n-f	cat	tombarella	n-f$n
 	arg	pintor	n$n-m	cat	pintor	n$n-m
 	arg	pintor	n-f	cat	pintor	n-f
-	arg	pintura	n$n-f	cat	pintura	n$n-f
+	arg	pintura	n$n-f	cat	pintura	n-f$n
 	arg	pinya	n$n-f	cat	pinya	n-f$n
 	arg	pion	n-m$n	cat	manobre	n-m$n
 	arg	pion	n-m$n	cat	peó	n-m$n
 	arg	pionero	n$n-m	cat	pioner	n$n-m
 	arg	pionero	n-f	cat	pioner	n-f
-	arg	pipa	n$n-f	cat	pipa	n$n-f
+	arg	pipa	n$n-f	cat	pipa	n-f$n
 	arg	piragüismo	n$n-m	cat	piragüisme	n-m$n$n-m-sg
 	arg	piragüista	n$n-mf	cat	piragüista	n-mf$n
 	arg	piscina	n$n-f	cat	piscina	n-f$n
@@ -13129,7 +13129,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	pizza	n$n-f	cat	pizza	n-f$n
 	arg	pizzería	n$n-f	cat	pizzeria	n-f$n
 	arg	placa	n$n-f	cat	placa	n-f$n
-	arg	placha	n$n-f	cat	platja	n$n-f
+	arg	placha	n$n-f	cat	platja	n-f$n
 	arg	plaga	n$n-f	cat	nafra	n-f$n
 	arg	plan	n$n-m	cat	pla	n-m$n$
 	arg	planetolochía	n$n-f	cat	planetologia	n-f$n
@@ -13148,7 +13148,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	platina	n$n-f	cat	platina	n$n-f
 	arg	plato	n$n-m	cat	plat	n-m$n
 	arg	plaza	n$n-f	cat	plaça	n-f$n
-	arg	plazo	n$n-m	cat	termini	n$n-m
+	arg	plazo	n$n-m	cat	termini	n-m$n
 	arg	plegamiento	n$n-m	cat	plegament	n-m$n
 	arg	plenipotencia	n$n-f	cat	plenipotència	n-f$n
 	arg	plenitut	n$n-f	cat	plenitud	n-f$n
@@ -13164,7 +13164,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	plusmarquista	n$n-mf	cat	recordista	n-mf$n
 	arg	población	n$n-f	cat	població	n$n-f
 	arg	poblamiento	n$n-m	cat	poblament	n-m$n
-	arg	pobreza	n$n-f	cat	pobresa	n$n-f$n-f-sg
+	arg	pobreza	n$n-f	cat	pobresa	n-f$n$n-f-sg
 	arg	pocha	n-f	cat	butxaca	n-f$n
 	arg	poción	n$n-f	cat	poció	n-f$n
 	arg	poder	n$n-m	cat	poder	n$n-m
@@ -13176,8 +13176,8 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	polaco	n-f	cat	polonès	n-f
 	arg	polarización	n$n-f	cat	polarització	n-f$n
 	arg	polarografía	n$n-f	cat	polarografia	n-f$n
-	arg	polemica	n$n-f	cat	polèmica	n$n-f
-	arg	polideza	n$n-f	cat	bellesa	n$n-f
+	arg	polemica	n$n-f	cat	polèmica	n-f$n
+	arg	polideza	n$n-f	cat	bellesa	n-f$n
 	arg	poligono	n$n-m	cat	polígon	n-m$n
 	arg	polimerización	n$n-f	cat	polimerització	n-f$n
 	arg	polinización	n$n-f	cat	pol·linització	n-f$n
@@ -13185,7 +13185,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	politico	n$n-m	cat	polític	n-m$n
 	arg	politico	n-f	cat	polític	n-f
 	arg	politización	n$n-f	cat	politització	n-f$n
-	arg	polivalencia	n$n-f	cat	polivalència	n$n-f
+	arg	polivalencia	n$n-f	cat	polivalència	n-f$n
 	arg	polmón	n$n-m	cat	pulmó	n$n-m
 	arg	polonés	n$n-m	cat	polonès	n$n-m
 	arg	polonés	n-f	cat	polonès	n-f
@@ -13237,7 +13237,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	potencia	n$n-f	cat	potència	n-f$n
 	arg	potenciación	n$n-f	cat	potenciació	n-f$n
 	arg	potestat	n$n-f	cat	potestat	n-f$n
-	arg	practica	n$n-f	cat	pràctica	n$n-f
+	arg	practica	n$n-f	cat	pràctica	n-f$n
 	arg	pragmatismo	n$n-m	cat	pragmatisme	n-m$n$n-m-sg
 	arg	prau	n$n-m	cat	prat	n-m$n
 	arg	pre	n$n-m	cat	preu	n-m$n$n-m-ND
@@ -13247,20 +13247,20 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	precacción	n$n-f	cat	precaució	n-f$n
 	arg	precedencia	n$n-f	cat	precedència	n-f$n
 	arg	preciosista	n$n-mf	cat	preciosista	n$n-mf
-	arg	precipitación	n$n-f	cat	precipitació	n$n-f
+	arg	precipitación	n$n-f	cat	precipitació	n-f$n
 	arg	precisión	n$n-f	cat	precisió	n-f$n
 	arg	precondición	n$n-f	cat	precondició	n-f$n
-	arg	predestinación	n$n-f	cat	predestinació	n$n-f
+	arg	predestinación	n$n-f	cat	predestinació	n-f$n
 	arg	predeterminación	n$n-f	cat	predeterminació	n$n-f
 	arg	predicación	n$n-f	cat	predicació	n-f$n
-	arg	predicción	n$n-f	cat	predicció	n$n-f
+	arg	predicción	n$n-f	cat	predicció	n-f$n
 	arg	predilección	n$n-f	cat	predilecció	n-f$n
 	arg	predisposición	n$n-f	cat	predisposició	n-f$n
 	arg	predominancia	n$n-f	cat	predominança	n-f$n
 	arg	preedición	n$n-f	cat	preedició	n$n-f
 	arg	preeminencia	n$n-f	cat	preeminència	n-f$n
 	arg	preexistencia	n$n-f	cat	preexistència	n$n-f
-	arg	preferencia	n$n-f	cat	preferència	n$n-f
+	arg	preferencia	n$n-f	cat	preferència	n-f$n
 	arg	prefiguración	n$n-f	cat	prefiguració	n$n-f
 	arg	prefixación	n$n-f	cat	prefixació	n-f$n
 	arg	prefixo	n$n-m	cat	prefix	n-m$n
@@ -13274,7 +13274,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	prencipio	n$n-m	cat	principi	n-m$n
 	arg	prenda	n-f$n	cat	peça	n-f$n
 	arg	prenda	n-f$n	cat	penyora	n-f$n
-	arg	prensa	n$n-f	cat	premsa	n$n-f
+	arg	prensa	n$n-f	cat	premsa	n-f$n
 	arg	prensión	n$n-f	cat	prensió	n$n-f
 	arg	preocupación	n$n-f	cat	preocupació	n-f$n
 	arg	preparación	n$n-f	cat	preparació	n-f$n
@@ -13283,37 +13283,37 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	prepotencia	n$n-f	cat	prepotència	n-f$n
 	arg	preproducción	n$n-f	cat	preproducció	n$n-f
 	arg	presa	n$n-f	cat	pres	n$n-f
-	arg	prescripción	n$n-f	cat	prescripció	n$n-f
+	arg	prescripción	n$n-f	cat	prescripció	n-f$n
 	arg	preselección	n$n-f	cat	preselecció	n-f$n
-	arg	presencia	n$n-f	cat	presència	n$n-f
-	arg	presentación	n$n-f	cat	presentació	n$n-f
+	arg	presencia	n$n-f	cat	presència	n-f$n
+	arg	presentación	n$n-f	cat	presentació	n-f$n
 	arg	presentador	n$n-m	cat	presentador	n$n-m
 	arg	presentador	n-f	cat	presentador	n-f
 	arg	presentimiento	n$n-m	cat	pressentiment	n-m$n
 	arg	preservación	n$n-f	cat	preservació	n-f$n
-	arg	presidencia	n$n-f	cat	presidència	n$n-f
+	arg	presidencia	n$n-f	cat	presidència	n-f$n
 	arg	presidencialista	n$n-mf	cat	presidencialista	n$n-mf
 	arg	president	n$n-m	cat	president	n$n-m
 	arg	president	n-f	cat	president	n-f
 	arg	presiego	n$n-m	cat	préssec	n-m$n
-	arg	presión	n$n-f	cat	pressió	n$n-f
+	arg	presión	n$n-f	cat	pressió	n-f$n
 	arg	preso	n$n-m	cat	pres	n-m
 	arg	preso	n-f	cat	pres	n$n-f
 	arg	prestación	n$n-f	cat	prestació	n-f$n$n-f-pl
 	arg	presunción	n$n-f	cat	presumpció	n-f$n
-	arg	presuposición	n$n-f	cat	pressuposició	n$n-f
+	arg	presuposición	n$n-f	cat	pressuposició	n-f$n
 	arg	presupuesto	n-m$n	cat	pressupost	n-m$n$n-m-sg
 	arg	presupuesto	n-m$n	cat	pressupòsit	n-m$n
 	arg	presurización	n$n-f	cat	pressurització	n-f$n
-	arg	pretensión	n$n-f	cat	pretensió	n$n-f
+	arg	pretensión	n$n-f	cat	pretensió	n-f$n
 	arg	pretratamiento	n$n-m	cat	pretractament	n$n-m
 	arg	prevalencia	n$n-f	cat	prevalença	n-f$n
 	arg	prevaricación	n$n-f	cat	prevaricació	n-f$n
 	arg	prevención	n-f$n	cat	prevenció	n-f$n
-	arg	previsión	n$n-f	cat	previsió	n$n-f
+	arg	previsión	n$n-f	cat	previsió	n-f$n
 	arg	previsualización	n$n-f	cat	previsualització	n$n-f
 	arg	preza	n$n-f	cat	mandra	n-f$n
-	arg	primavera	n$n-f	cat	primavera	n$n-f$n-f-ND
+	arg	primavera	n$n-f	cat	primavera	n-f$n$n-f-ND
 	arg	primicia	n$n-f	cat	primícia	n-f$n
 	arg	primo	n$n-m	cat	cosí	n$n-m
 	arg	primo	n-f	cat	cosí	n-f
@@ -13325,20 +13325,20 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	prisión	n-f$n	cat	garjola	n-f$n
 	arg	prisión	n-f$n	cat	presó	n-f$n
 	arg	privacidat	n$n-f	cat	privadesa	n-f$n$n-f-sg
-	arg	privación	n$n-f	cat	privació	n$n-f
-	arg	privatización	n$n-f	cat	privatització	n$n-f
+	arg	privación	n$n-f	cat	privació	n-f$n
+	arg	privatización	n$n-f	cat	privatització	n-f$n
 	arg	privilechio	n$n-m	cat	privilegi	n-m$n
 	arg	probabilidat	n$n-f	cat	probabilitat	n-f$n$n-f-ND
 	arg	problema	n$n-m	cat	problema	n-m$n
 	arg	problematica	n$n-f	cat	problemàtica	n-f$n$n-f-sg
-	arg	procedencia	n$n-f	cat	procedència	n$n-f
+	arg	procedencia	n$n-f	cat	procedència	n-f$n
 	arg	procedimiento	n$n-m	cat	procediment	n-m$n
 	arg	procesador	n$n-m	cat	processador	n-m$n
 	arg	procesamiento	n$n-m	cat	processament	n-m$n
 	arg	procesión	n$n-f	cat	processó	n$n-f
 	arg	proceso	n$n-m	cat	procés	n-m$n$n-m-ND
 	arg	procheccionista	n$n-mf	cat	projeccionista	n-mf$n
-	arg	prochección	n$n-f	cat	projecció	n$n-f
+	arg	prochección	n$n-f	cat	projecció	n-f$n
 	arg	prochecto	n$n-m	cat	projecte	n-m$n
 	arg	prochector	n$n-m	cat	projector	n-m$n
 	arg	proclamación	n$n-f	cat	proclamació	n-f$n
@@ -13350,7 +13350,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	productor	n-f	cat	productor	n-f
 	arg	profanación	n$n-f	cat	profanació	n-f$n
 	arg	profesionalización	n$n-f	cat	professionalització	n-f$n
-	arg	profesión	n$n-f	cat	professió	n$n-f
+	arg	profesión	n$n-f	cat	professió	n-f$n
 	arg	profesor	n$n-m	cat	professor	n-m
 	arg	profesor	n-f	cat	professor	n-f
 	arg	profeta	n$n-mf	cat	profeta	n-mf$n
@@ -13361,14 +13361,14 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	programación	n$n-f	cat	programació	n-f$n
 	arg	progresión	n$n-f	cat	progressió	n-f$n
 	arg	progreso	n$n-m	cat	progrés	n-m$n
-	arg	prohibición	n$n-f	cat	prohibició	n$n-f
+	arg	prohibición	n$n-f	cat	prohibició	n-f$n
 	arg	proletarización	n$n-f	cat	proletarització	n-f$n
-	arg	proliferación	n$n-f	cat	proliferació	n$n-f
+	arg	proliferación	n$n-f	cat	proliferació	n-f$n
 	arg	prolongación	n$n-f	cat	prolongació	n-f$n
 	arg	promesa	n$n-f	cat	promès	n$n-f
 	arg	promeyo	n$n-m	cat	terme mitjà	n$n-m
 	arg	prominencia	n$n-f	cat	prominència	n-f$n
-	arg	promoción	n$n-f	cat	promoció	n$n-f
+	arg	promoción	n$n-f	cat	promoció	n-f$n
 	arg	promulgación	n$n-f	cat	promulgació	n-f$n
 	arg	pronombre	n$n-m	cat	pronom	n-m$n
 	arg	pronominalización	n$n-f	cat	pronominalització	n-f$n
@@ -13380,7 +13380,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	pronunciación	n-f$n	cat	pronúncia	n-f$n
 	arg	pronunciamiento	n$n-m	cat	pronunciament	n-m$n
 	arg	propagación	n$n-f	cat	propagació	n-f$n
-	arg	propaganda	n$n-f	cat	propaganda	n$n-f
+	arg	propaganda	n$n-f	cat	propaganda	n-f$n
 	arg	propagandista	n$n-mf	cat	propagandista	n-mf$n
 	arg	propensión	n$n-f	cat	propensió	n-f$n
 	arg	propiedat	n$n-f	cat	propietat	n-f$n$n-f-sg
@@ -13388,7 +13388,7 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	propietario	n-f	cat	propietari	n$n-f
 	arg	propina	n$n-f	cat	propina	n-f$n
 	arg	proporcionalidat	n$n-f	cat	proporcionalitat	n-f$n
-	arg	proporción	n$n-f	cat	proporció	n$n-f
+	arg	proporción	n$n-f	cat	proporció	n-f$n
 	arg	proposición	n$n-f	cat	proposició	n$n-f
 	arg	proposito	n$n-m	cat	propòsit	n$n-m
 	arg	propuesta	n$n-f	cat	proposta	n$n-f
@@ -13404,8 +13404,8 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	prostitución	n$n-f	cat	prostitució	n-f$n
 	arg	protagonismo	n$n-m	cat	protagonisme	n-m$n
 	arg	protagonista	n$n-mf	cat	protagonista	n-mf$n
-	arg	protección	n$n-f	cat	protecció	n$n-f
-	arg	protesi	n-f$n-f-pl	cat	pròtesi	n-f$n-f-ND$n
+	arg	protección	n$n-f	cat	protecció	n-f$n
+	arg	protesi	n-f$n-f-pl	cat	pròtesi	n-f$n-f-ND
 	arg	protestantismo	n$n-m	cat	protestantisme	n-m$n
 	arg	proteína	n$n-f	cat	proteïna	n-f$n
 	arg	protocolo	n$n-m	cat	protocol	n$n-m
@@ -13413,25 +13413,25 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	protuberancia	n$n-f	cat	protuberància	n-f$n
 	arg	provedimiento	n$n-m	cat	proveïment	n$n-m
 	arg	providencia	n$n-f	cat	providència	n-f$n
-	arg	provincia	n$n-f	cat	província	n$n-f
+	arg	provincia	n$n-f	cat	província	n-f$n
 	arg	provincialismo	n$n-m	cat	provincialisme	n-m$n
-	arg	provisión	n$n-f	cat	provisió	n$n-f
+	arg	provisión	n$n-f	cat	provisió	n-f$n
 	arg	provocación	n$n-f	cat	provocació	n-f$n
-	arg	proximidat	n$n-f	cat	proximitat	n$n-f$n-f-sg
+	arg	proximidat	n$n-f	cat	proximitat	n-f$n$n-f-sg
 	arg	prudencia	n$n-f	cat	prudència	n$n-f
-	arg	psicoanalisi	n-f$n-f-pl	cat	psicoanàlisi	n-f$n$n-f-ND
-	arg	psicoanalista	n$n-mf	cat	psicoanalista	n$n-mf
+	arg	psicoanalisi	n-f$n-f-pl	cat	psicoanàlisi	n-f$n-f-ND
+	arg	psicoanalista	n$n-mf	cat	psicoanalista	n-mf$n
 	arg	psicolochía	n$n-f	cat	psicologia	n-f$n
 	arg	psicopedagochía	n$n-f	cat	psicopedagogia	n-f$n$n-f-sg
 	arg	pubertat	n$n-f	cat	pubertat	n-f$n
-	arg	publicación	n$n-f	cat	publicació	n$n-f
+	arg	publicación	n$n-f	cat	publicació	n-f$n
 	arg	publicidat	n$n-f	cat	publicitat	n-f$n$n-f-ND
 	arg	publicista	n$n-mf	cat	publicista	n-mf$n
 	arg	pudor	n-f	cat	pudor	n-f
 	arg	pudor	n-m	cat	pudor	n-m$n
 	arg	pueblo	n$n-m	cat	poble	n-m$n$n-m-pl
 	arg	puent	n$n-m	cat	pont	n$n-m
-	arg	puerta	n$n-f	cat	porta	n$n-f
+	arg	puerta	n$n-f	cat	porta	n-f$n
 	arg	puerto	n$n-m	cat	port	n-m$n
 	arg	puertorriquenyo	n$n-m	cat	porto-riqueny	n$n-m
 	arg	puertorriquenyo	n-f	cat	porto-riqueny	n-f
@@ -13447,19 +13447,19 @@ LR	arg	paralís	n-m$n-m-sg	cat	paràlisi	n-f$n-f-ND$n
 	arg	puntero	n$n-m	cat	punter	n-m$n
 	arg	punto	n$n-m	cat	punt	n-m$n
 	arg	puntuación	n$n-f	cat	puntuació	n-f$n
-	arg	puntualización	n$n-f	cat	puntualització	n$n-f
+	arg	puntualización	n$n-f	cat	puntualització	n-f$n
 	arg	punyo	n$n-m	cat	puny	n$n-m
 	arg	pureza	n$n-f	cat	puresa	n-f$n
 	arg	purificación	n$n-f	cat	purificació	n-f$n
 	arg	purista	n$n-mf	cat	purista	n-mf$n
-	arg	putrefacción	n$n-f	cat	putrefacció	n$n-f
+	arg	putrefacción	n$n-f	cat	putrefacció	n-f$n
 	arg	q	n$n-f	cat	q	n$n-f
 	arg	quaderno	n$n-m	cat	quadern	n$n-m
 	arg	quadranglo	n$n-m	cat	quadrangle	n-m$n
 	arg	quadricula	n$n-f	cat	quadrícula	n-f$n
 	arg	quadro	n$n-m	cat	quadre	n-m$n
-	arg	qualidat	n$n-f	cat	qualitat	n$n-f$n-f-ND
-	arg	qualificación	n$n-f	cat	qualificació	n$n-f
+	arg	qualidat	n$n-f	cat	qualitat	n-f$n$n-f-ND
+	arg	qualificación	n$n-f	cat	qualificació	n-f$n
 	arg	quantificación	n$n-f	cat	quantificació	n-f$n
 	arg	quantum	n$n-m	cat	quàntum	n$n-m
 	arg	quaresma	n$n-f	cat	quaresma	n-f$n-f-sg$n
@@ -13495,9 +13495,9 @@ LR	arg	raboso	n-m	cat	guineu	n-f$n
 	arg	radiador	n$n-m	cat	radiador	n-m$n
 	arg	radiancia	n$n-f	cat	radiància	n-f$n
 	arg	radicación	n$n-f	cat	radicació	n-f$n
-	arg	radicalización	n$n-f	cat	radicalització	n$n-f
+	arg	radicalización	n$n-f	cat	radicalització	n-f$n
 	arg	radio	n-f	cat	ràdio	n-f$n$n-f-sg
-	arg	radiocomunicación	n$n-f	cat	radiocomunicació	n$n-f
+	arg	radiocomunicación	n$n-f	cat	radiocomunicació	n-f$n
 	arg	radiodifusión	n$n-f	cat	radiodifusió	n-f$n
 	arg	radiofreqüencia	n$n-f	cat	radiofreqüència	n-f$n
 	arg	radiografía	n$n-f	cat	radiografia	n-f$n
@@ -13505,20 +13505,20 @@ LR	arg	raboso	n-m	cat	guineu	n-f$n
 	arg	radioscopia	n$n-f	cat	radioscòpia	n$n-f
 	arg	radiotelegrafía	n$n-f	cat	radiotelegrafia	n$n-f$n-f-sg
 	arg	radiotelevisión	n$n-f	cat	radiotelevisió	n$n-f
-	arg	radiz	n$n-f	cat	arrel	n$n-f
+	arg	radiz	n$n-f	cat	arrel	n-f$n
 	arg	ralentización	n$n-f	cat	ralentització	n-f$n
 	arg	rama	n$n-f	cat	branca	n-f$n
 	arg	ramificación	n$n-f	cat	ramificació	n-f$n
 	arg	ran	n$n-m	cat	nivell	n$n-m
-	arg	rana	n$n-f	cat	granota	n$n-f
+	arg	rana	n$n-f	cat	granota	n-f$n
 	arg	rango	n$n-m	cat	rang	n-m$n
-	arg	rapideza	n$n-f	cat	rapidesa	n$n-f
+	arg	rapideza	n$n-f	cat	rapidesa	n-f$n
 	arg	raqueta	n$n-f	cat	raqueta	n-f$n
 	arg	rasera	n$n-f	cat	escumadora	n-f$n
 	arg	raspa	n$n-f	cat	espina	n-f$n
 	arg	rastro	n$n-m	cat	rastre	n-m$n
 	arg	rata	n$n-f	cat	rata	n-f$n
-	arg	ratificación	n$n-f	cat	ratificació	n$n-f
+	arg	ratificación	n$n-f	cat	ratificació	n-f$n
 	arg	rato	n$n-m	cat	rata	n-f$n
 	arg	rato	n$n-m	cat	ratolí	n-m$n$n-m-ND
 	arg	rayo	n-m	cat	radi	n-m$n$n-m-sg
@@ -13537,30 +13537,30 @@ LR	arg	raboso	n-m	cat	guineu	n-f$n
 	arg	reagrupación	n$n-f	cat	reagrupació	n-f$n
 	arg	reagrupamiento	n$n-m	cat	reagrupament	n$n-m
 	arg	realcuentro	n$n-m	cat	retrobament	n-m$n
-	arg	realidat	n$n-f	cat	realitat	n$n-f$n-f-ND
+	arg	realidat	n$n-f	cat	realitat	n-f$n$n-f-ND
 	arg	realismo	n$n-m	cat	realisme	n$n-m$n-m-sg
-	arg	realización	n$n-f	cat	realització	n$n-f
+	arg	realización	n$n-f	cat	realització	n-f$n
 	arg	reanimación	n$n-f	cat	reanimació	n-f$n
 	arg	reaparición	n$n-f	cat	reaparició	n-f$n
-	arg	reapertura	n$n-f	cat	reobertura	n$n-f
+	arg	reapertura	n$n-f	cat	reobertura	n-f$n
 	arg	reapreciación	n$n-f	cat	reapreciació	n$n-f
 	arg	reasignación	n$n-f	cat	reassignació	n-f$n
 	arg	reatribución	n$n-f	cat	reatribució	n$n-f
-	arg	reavaluación	n$n-f	cat	reavaluació	n$n-f
-	arg	rebaixada	n$n-f	cat	humiliació	n$n-f
+	arg	reavaluación	n$n-f	cat	reavaluació	n-f$n
+	arg	rebaixada	n$n-f	cat	humiliació	n-f$n
 	arg	rebelión	n$n-f	cat	rebel·lió	n-f$n
 	arg	recalentamiento	n$n-m	cat	reescalfament	n-m$n
 LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	recapitulación	n$n-f	cat	recapitulació	n-f$n
-	arg	recaudación	n$n-f	cat	recaptació	n$n-f
+	arg	recaudación	n$n-f	cat	recaptació	n-f$n
 	arg	recensión	n$n-f	cat	recensió	n-f$n
 	arg	recepcionista	n$n-mf	cat	recepcionista	n-mf$n
 	arg	recepción	n$n-f	cat	recepció	n-f$n
-	arg	receptividat	n$n-f	cat	receptivitat	n$n-f
+	arg	receptividat	n$n-f	cat	receptivitat	n-f$n
 	arg	receptor	n$n-m	cat	receptor	n$n-m
 	arg	receptor	n-f	cat	receptor	n-f
 	arg	recesión	n$n-f	cat	recessió	n-f$n
-	arg	rechencia	n$n-f	cat	regència	n$n-f
+	arg	rechencia	n$n-f	cat	regència	n-f$n
 	arg	recheneración	n$n-f	cat	regeneració	n-f$n
 	arg	rechimen	n$n-m	cat	règim	n-m$n
 	arg	rechimiento	n$n-m	cat	regiment	n-m$n
@@ -13589,7 +13589,7 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	reconcome	n-m	cat	neguit	n-m$n
 	arg	reconducción	n$n-f	cat	reconducció	n-f$n
 	arg	reconfiguración	n$n-f	cat	reconfiguració	n-f$n
-	arg	reconsideración	n$n-f	cat	reconsideració	n$n-f
+	arg	reconsideración	n$n-f	cat	reconsideració	n-f$n
 	arg	reconstitución	n$n-f	cat	reconstitució	n$n-f
 	arg	reconstrucción	n$n-f	cat	reconstrucció	n-f$n
 	arg	reconversión	n$n-f	cat	reconversió	n-f$n
@@ -13618,7 +13618,7 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	redirección	n$n-f	cat	redirecció	n-f$n
 	arg	redistribución	n$n-f	cat	redistribució	n-f$n
 	arg	redolín	n$n-m	cat	torn	n-m$n
-	arg	redoma	n-f$n	cat	ampolla	n$n-f
+	arg	redoma	n-f$n	cat	ampolla	n-f$n
 	arg	redoma	n-f$n	cat	botella	n-f$n
 	arg	reducción	n$n-f	cat	reducció	n-f$n
 	arg	redundancia	n$n-f	cat	redundància	n-f$n
@@ -13641,11 +13641,11 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	reformulación	n$n-f	cat	reformulació	n-f$n
 	arg	reforzamiento	n$n-m	cat	reforçament	n$n-m
 	arg	refracción	n$n-f	cat	refracció	n-f$n
-	arg	refricheración	n$n-f	cat	refrigeració	n$n-f
+	arg	refricheración	n$n-f	cat	refrigeració	n-f$n
 	arg	refuchio	n$n-m	cat	refugi	n-m$n
 	arg	refundación	n$n-f	cat	refundació	n-f$n
 	arg	refutación	n$n-f	cat	refutació	n-f$n
-	arg	reglamentación	n$n-f	cat	reglamentació	n$n-f
+	arg	reglamentación	n$n-f	cat	reglamentació	n-f$n
 	arg	regresión	n$n-f	cat	regressió	n-f$n
 	arg	regulación	n$n-f	cat	regulació	n-f$n
 	arg	regularidat	n$n-f	cat	regularitat	n-f$n
@@ -13655,7 +13655,7 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	rei	n-f	cat	rei	n-f
 	arg	reificación	n$n-f	cat	reificació	n-f$n
 	arg	reimpresión	n$n-f	cat	reimpressió	n-f$n
-	arg	reincidencia	n$n-f	cat	reincidència	n$n-f
+	arg	reincidencia	n$n-f	cat	reincidència	n-f$n
 	arg	reincorporación	n$n-f	cat	reincorporació	n-f$n
 	arg	reindustrialización	n$n-f	cat	reindustrialització	n-f$n
 	arg	reingreso	n$n-m	cat	reingrés	n-m$n
@@ -13663,7 +13663,7 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	reino	n-m$n	cat	regne	n-m$n
 	arg	reino	n-m$n	cat	reialme	n$n-m
 	arg	reinserción	n$n-f	cat	reinserció	n-f$n
-	arg	reinstalación	n$n-f	cat	reinstal·lació	n$n-f
+	arg	reinstalación	n$n-f	cat	reinstal·lació	n-f$n
 	arg	reinstauración	n$n-f	cat	reinstauració	n$n-f
 	arg	reintegración	n$n-f	cat	reintegració	n-f$n
 	arg	reinterpretación	n$n-f	cat	reinterpretació	n-f$n
@@ -13674,12 +13674,12 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	reiteración	n$n-f	cat	reiteració	n-f$n
 	arg	reivindicación	n$n-f	cat	reivindicació	n$n-f
 	arg	reixa	n$n-f	cat	reixa	n-f$n
-	arg	reixeta	n$n-f	cat	reixeta	n$n-f
+	arg	reixeta	n$n-f	cat	reixeta	n-f$n
 	arg	relación	n$n-f	cat	relació	n-f$n
 	arg	relanzamiento	n$n-m	cat	rellançament	n-m$n
 	arg	relatinización	n$n-f	cat	rellatinització	n$n-f
 	arg	relatividat	n$n-f	cat	relativitat	n-f$n
-	arg	relaxación	n-f$n	cat	relaxació	n-f$n
+	arg	relaxación	n-f$n	cat	relaxació	n-f
 	arg	relevancia	n$n-f	cat	rellevància	n-f$n
 	arg	relichiosidat	n$n-f	cat	religiositat	n-f$n
 	arg	relichioso	n$n-m	cat	religiós	n$n-m
@@ -13697,7 +13697,7 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	remolacha	n$n-f	cat	remolatxa	n-f$n
 	arg	remor	n-f	cat	remor	n-f$n
 	arg	remordimiento	n$n-m	cat	remordiment	n-m$n
-	arg	remuneración	n$n-f	cat	remuneració	n$n-f
+	arg	remuneración	n$n-f	cat	remuneració	n-f$n
 	arg	renacentista	n$n-mf	cat	renaixentista	n$n-mf
 	arg	renaiximiento	n$n-m	cat	renaixement	n-m$n
 	arg	renda	n$n-f	cat	renda	n-f$n
@@ -13708,8 +13708,8 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	renta	n$n-f	cat	renda	n-f$n
 	arg	rentabilidat	n$n-f	cat	rendibilitat	n-f$n
 	arg	renuncia	n$n-f	cat	renúncia	n-f$n
-	arg	reobertura	n$n-f	cat	reobertura	n$n-f
-	arg	reobridura	n$n-f	cat	reobertura	n$n-f
+	arg	reobertura	n$n-f	cat	reobertura	n-f$n
+	arg	reobridura	n$n-f	cat	reobertura	n-f$n
 	arg	reolochía	n$n-f	cat	reologia	n-f$n
 	arg	reordenación	n$n-f	cat	reordenació	n-f$n
 	arg	reordinamiento	n$n-m	cat	reordenament	n$n-m
@@ -13718,13 +13718,13 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	repalmar	n$n-m	cat	estant	n-m$n
 	arg	repalmar	n$n-m	cat	prestatge	n-m$n
 	arg	reparación	n$n-f	cat	reparació	n-f$n
-	arg	repartición	n$n-f	cat	repartició	n$n-f
+	arg	repartición	n$n-f	cat	repartició	n-f$n
 	arg	repartidor	n$n-m	cat	repartidor	n-m$n
 	arg	repartidor	n-f	cat	repartidor	n-f
 	arg	repartimiento	n$n-m	cat	repartiment	n-m$n
 	arg	repatriación	n$n-f	cat	repatriació	n-f$n
-	arg	repercusión	n$n-f	cat	repercussió	n$n-f
-	arg	repetición	n$n-f	cat	repetició	n$n-f
+	arg	repercusión	n$n-f	cat	repercussió	n-f$n
+	arg	repetición	n$n-f	cat	repetició	n-f$n
 	arg	repetidor	n$n-m	cat	repetidor	n-m$n
 	arg	repetidor	n-f	cat	repetidor	n-f
 	arg	replantiamiento	n$n-m	cat	replantejament	n$n-m
@@ -13733,22 +13733,22 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	repoblación	n$n-f	cat	repoblació	n-f$n
 	arg	repoblamiento	n$n-m	cat	repoblament	n-m$n
 	arg	reposición	n$n-f	cat	reposició	n-f$n
-	arg	reprebación	n$n-f	cat	reprovació	n$n-f
+	arg	reprebación	n$n-f	cat	reprovació	n-f$n
 	arg	reprensión	n$n-f	cat	reprensió	n-f$n
-	arg	representación	n$n-f	cat	representació	n$n-f
+	arg	representación	n$n-f	cat	representació	n-f$n
 	arg	representant	n$n-mf	cat	representant	n-mf$n
 	arg	representatividat	n$n-f	cat	representativitat	n-f$n
-	arg	represión	n$n-f	cat	repressió	n$n-f
+	arg	represión	n$n-f	cat	repressió	n-f$n
 	arg	repretamiento	n$n-m	cat	restrenyiment	n-m$n
-	arg	reproducción	n$n-f	cat	reproducció	n$n-f
+	arg	reproducción	n$n-f	cat	reproducció	n-f$n
 	arg	reprografía	n$n-f	cat	reprografia	n-f$n
 	arg	reprogramación	n$n-f	cat	reprogramació	n-f$n
-	arg	republica	n$n-f	cat	república	n$n-f
+	arg	republica	n$n-f	cat	república	n-f$n
 	arg	republicanismo	n$n-m	cat	republicanisme	n-m$n
 	arg	republicano	n$n-m	cat	republicà	n$n-m
 	arg	republicano	n-f	cat	republicà	n-f
-	arg	repudiación	n$n-f	cat	repudiació	n$n-f
-	arg	repugnancia	n$n-f	cat	repugnància	n$n-f
+	arg	repudiación	n$n-f	cat	repudiació	n-f$n
+	arg	repugnancia	n$n-f	cat	repugnància	n-f$n
 	arg	repulsión	n$n-f	cat	repulsió	n-f$n
 	arg	reputación	n$n-f	cat	reputació	n-f$n
 	arg	requadro	n$n-m	cat	requadre	n-m$n
@@ -13757,13 +13757,13 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	resarcimiento	n$n-m	cat	rescabalament	n-m$n
 	arg	rescisión	n$n-f	cat	rescissió	n-f$n
 	arg	resentimiento	n$n-m	cat	ressentiment	n-m$n
-	arg	residencia	n$n-f	cat	residència	n$n-f
+	arg	residencia	n$n-f	cat	residència	n-f$n
 	arg	resident	n$n-mf	cat	resident	n-mf$n$
 	arg	resignación	n$n-f	cat	resignació	n-f$n
 	arg	resina	n$n-f	cat	resina	n-f$n
 	arg	resistencia	n$n-f	cat	resistència	n-f$n
 	arg	resistividat	n$n-f	cat	resistivitat	n-f$n
-	arg	resolución	n$n-f	cat	resolució	n$n-f
+	arg	resolución	n$n-f	cat	resolució	n-f$n
 	arg	resonancia	n$n-f	cat	ressonància	n-f$n
 	arg	respecto	n$n-m	cat	respecte	n-m$n
 	arg	respiración	n$n-f	cat	respiració	n-f$n
@@ -13771,13 +13771,13 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	respuesta	n$n-f	cat	resposta	n-f$n
 	arg	resta	n-f$n	cat	resta	n-f$n-f-pl$n
 	arg	restablimiento	n$n-m	cat	restabliment	n-m$n
-	arg	restauración	n$n-f	cat	restauració	n$n-f
+	arg	restauración	n$n-f	cat	restauració	n-f$n
 	arg	restaurant	n$n-m	cat	restaurant	n-m$n
 	arg	restitución	n$n-f	cat	restitució	n-f$n
 	arg	restricción	n$n-f	cat	restricció	n-f$n
 	arg	restructuración	n$n-f	cat	reestructuració	n$n-f
 	arg	resurchencia	n$n-f	cat	ressurgència	n-f$n
-	arg	resurrección	n$n-f	cat	resurrecció	n$n-f
+	arg	resurrección	n$n-f	cat	resurrecció	n-f$n
 	arg	resurtimiento	n$n-m	cat	ressorgiment	n-m$n
 	arg	ret	n-m	cat	xarxa	n-f$n
 	arg	retaxación	n$n-f	cat	retaxació	n$n-f
@@ -13791,9 +13791,9 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	retransmisión	n$n-f	cat	retransmissió	n-f$n
 	arg	retratista	n$n-mf	cat	retratista	n-mf$n
 	arg	retrayimiento	n$n-m	cat	retraïment	n$n-m
-	arg	retribución	n$n-f	cat	retribució	n$n-f
+	arg	retribución	n$n-f	cat	retribució	n-f$n
 	arg	retroalimentación	n$n-f	cat	retroalimentació	n-f$n
-	arg	retrocesión	n$n-f	cat	retrocessió	n$n-f
+	arg	retrocesión	n$n-f	cat	retrocessió	n-f$n
 	arg	reubicación	n$n-f	cat	reubicació	n-f$n
 	arg	reumatismo	n$n-m	cat	reumatisme	n-m$n$n-m-sg
 	arg	reunificación	n$n-f	cat	reunificació	n-f$n
@@ -13804,15 +13804,15 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	revacunación	n$n-f	cat	revacunació	n$n-f
 	arg	revalidación	n$n-f	cat	revalidació	n$n-f
 	arg	revalorización	n$n-f	cat	revaloració	n-f$n
-	arg	revaluación	n$n-f	cat	revaluació	n$n-f
+	arg	revaluación	n$n-f	cat	revaluació	n-f$n
 	arg	revanchismo	n$n-m	cat	revengisme	n$n-m
-	arg	revelación	n$n-f	cat	revelació	n$n-f
+	arg	revelación	n$n-f	cat	revelació	n-f$n
 	arg	revenda	n$n-f	cat	revenda	n-f$n
 	arg	reverberación	n$n-f	cat	reverberació	n-f$n
 	arg	reverencia	n$n-f	cat	reverència	n-f$n
 	arg	reversión	n$n-f	cat	reversió	n-f$n
 	arg	revestimiento	n$n-m	cat	revestiment	n-m$n
-	arg	revisión	n$n-f	cat	revisió	n$n-f
+	arg	revisión	n$n-f	cat	revisió	n-f$n
 	arg	revisor	n$n-m	cat	revisor	n-m$n
 	arg	revisor	n-f	cat	revisor	n-f
 	arg	revista	n$n-f	cat	revista	n-f$n
@@ -13831,7 +13831,7 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	ringlera	n$n-f	cat	filera	n-f$n
 	arg	rinyón	n-m$n	cat	renyó	n$n-m
 	arg	rinyón	n-m$n	cat	ronyó	n-m$n
-	arg	riqueza	n$n-f	cat	riquesa	n$n-f
+	arg	riqueza	n$n-f	cat	riquesa	n-f$n
 	arg	risgo	n$n-m	cat	risc	n-m$n
 	arg	ritmo	n$n-m	cat	ritme	n-m$n
 	arg	rival	n$n-mf	cat	rival	n-mf$n
@@ -13844,7 +13844,7 @@ LR	arg	recalificación	n$n-f	cat	requalificació	n-f$n
 	arg	romano	n$n-m	cat	romà	n$n-m
 	arg	romano	n-f	cat	romà	n-f
 	arg	romanticismo	n$n-m	cat	romanticisme	n-m$n$n-m-sg
-	arg	ropa	n$n-f	cat	roba	n$n-f$n-f-sg
+	arg	ropa	n$n-f	cat	roba	n-f$n$n-f-sg
 	arg	rosca	n$n-f	cat	rosca	n-f$n
 	arg	roscada	n$n-f	cat	bugada	n$n-f
 	arg	rostro	n$n-m	cat	rostre	n-m$n
@@ -13891,7 +13891,7 @@ RL	arg	salida	n-f$n	cat	eixida	n-f$n
 	arg	salvador	n$n-m	cat	salvador	n-m
 	arg	salvador	n-f	cat	salvador	n-f
 	arg	salvoconducto	n$n-m	cat	salconduit	n-m$n
-	arg	sanción	n$n-f	cat	sanció	n$n-f
+	arg	sanción	n$n-f	cat	sanció	n-f$n
 	arg	sandalia	n$n-f	cat	sandàlia	n-f$n
 	arg	sandinista	n$n-mf	cat	sandinista	n-mf$n
 	arg	sangre	n$n-f	cat	sang	n-f$n
@@ -13906,23 +13906,23 @@ RL	arg	salida	n-f$n	cat	eixida	n-f$n
 	arg	sardina	n$n-f	cat	sardina	n-f$n
 	arg	sargantana	n$n-f	cat	sargantana	n-f$n
 	arg	satisfacción	n$n-f	cat	satisfacció	n-f$n
-	arg	saturación	n$n-f	cat	saturació	n$n-f
+	arg	saturación	n$n-f	cat	saturació	n-f$n
 	arg	saturnismo	n$n-m	cat	saturnisme	n-m$n
 	arg	sauna	n$n-f	cat	sauna	n-f$n
 	arg	saxofonista	n$n-mf	cat	saxofonista	n-mf$n
 	arg	saya	n-f$n	cat	falda	n-f$n$n-f-sg
 	arg	saya	n-f$n	cat	faldilla	n-f$n
 	arg	sazón	n$n-f	cat	saó	n-f$n
-	arg	scena	n$n-f	cat	escena	n$n-f
+	arg	scena	n$n-f	cat	escena	n-f$n
 	arg	scenificación	n$n-f	cat	escenificació	n-f$n
 	arg	scenografía	n$n-f	cat	escenografia	n-f$n
 	arg	scepticismo	n$n-m	cat	escepticisme	n-m$n$n-m-sg
-	arg	sciencia	n$n-f	cat	ciència	n$n-f
-	arg	scientifico	n$n-m	cat	científic	n-m
-	arg	scientifico	n-f	cat	científic	n$n-f
+	arg	sciencia	n$n-f	cat	ciència	n-f$n
+	arg	scientifico	n$n-m	cat	científic	n$n-m
+	arg	scientifico	n-f	cat	científic	n-f
 	arg	scisión	n$n-f	cat	escissió	n-f$n
 	arg	seccionamiento	n$n-m	cat	seccionament	n$n-m
-	arg	sección	n$n-f	cat	secció	n$n-f
+	arg	sección	n$n-f	cat	secció	n-f$n
 	arg	secesionista	n$n-mf	cat	secessionista	n-mf$n$
 	arg	secesión	n$n-f	cat	secessió	n-f$n
 	arg	secreción	n$n-f	cat	secreció	n-f$n
@@ -13938,18 +13938,18 @@ RL	arg	salida	n-f$n	cat	eixida	n-f$n
 	arg	sedición	n$n-f	cat	sedició	n-f$n
 	arg	sedimentación	n$n-f	cat	sedimentació	n-f$n
 	arg	sedimentolochía	n$n-f	cat	sedimentologia	n-f$n
-	arg	seducción	n$n-f	cat	seducció	n$n-f
+	arg	seducción	n$n-f	cat	seducció	n-f$n
 	arg	segador	n	cat	segador	n
 	arg	segmentación	n$n-f	cat	segmentació	n-f$n
 	arg	segmento	n$n-m	cat	segment	n-m$n
-	arg	segregación	n$n-f	cat	segregació	n$n-f
+	arg	segregación	n$n-f	cat	segregació	n-f$n
 	arg	seguimiento	n$n-m	cat	seguiment	n-m$n
 	arg	seguranza	n-f$n	cat	assegurança	n-f$n
 	arg	seguranza	n-f$n	cat	seguretat	n-f$n
 	arg	seguridat	n$n-f	cat	seguretat	n-f$n
 	arg	selección	n$n-f	cat	selecció	n-f$n
 	arg	selector	n$n-m	cat	selector	n-m$n
-	arg	semana	n$n-f	cat	setmana	n$n-f
+	arg	semana	n$n-f	cat	setmana	n-f$n
 	arg	semifinalista	n$n-mf	cat	semifinalista	n-mf$n
 	arg	seminarista	n$n-mf	cat	seminarista	n-mf$n
 	arg	semiolochía	n$n-f	cat	semiologia	n-f$n
@@ -13958,7 +13958,7 @@ RL	arg	salida	n-f$n	cat	eixida	n-f$n
 	arg	senderista	n$n-mf	cat	senderista	n$n-mf
 	arg	sensación	n$n-f	cat	sensació	n-f$n
 	arg	sensibilidat	n$n-f	cat	sensibilitat	n-f$n
-	arg	sensibilización	n$n-f	cat	sensibilització	n$n-f
+	arg	sensibilización	n$n-f	cat	sensibilització	n-f$n
 	arg	sensor	n$n-m	cat	sensor	n-m$n
 	arg	sensualidat	n$n-f	cat	sensualitat	n-f$n
 	arg	sentencia	n$n-f	cat	sentència	n-f$n
@@ -13966,12 +13966,12 @@ RL	arg	salida	n-f$n	cat	eixida	n-f$n
 	arg	separatismo	n$n-m	cat	separatisme	n-m$n
 	arg	separatista	n$n-mf	cat	separatista	n-mf$n
 	arg	sequera	n$n-f	cat	sequera	n$n-f$n-f-sg
-	arg	seqüencia	n$n-f	cat	seqüència	n$n-f
+	arg	seqüencia	n$n-f	cat	seqüència	n-f$n
 	arg	seqüenciación	n$n-f	cat	seqüenciació	n-f$n
 	arg	seqüenciamiento	n$n-m	cat	seqüenciament	n$n-m
 	arg	serbio	n$n-m	cat	serbi	n$n-m
 	arg	serbio	n-f	cat	serbi	n-f
-	arg	serenidat	n-f$n	cat	serenitat	n$n-f
+	arg	serenidat	n-f$n	cat	serenitat	n-f$n
 	arg	serenidat	n-f$n	cat	serenor	n-f$n
 	arg	seriación	n$n-f	cat	seriació	n$n-f
 	arg	serie	n$n-f	cat	sèrie	n-f$n$n-f-sg
@@ -13982,9 +13982,9 @@ RL	arg	salida	n-f$n	cat	eixida	n-f$n
 	arg	servidor	n$n-m	cat	servidor	n$n-m
 	arg	servidor	n-f	cat	servidor	n-f
 	arg	servilla	n$n-f	cat	safata	n-f$n
-	arg	sesión	n$n-f	cat	sessió	n$n-f
+	arg	sesión	n$n-f	cat	sessió	n-f$n
 	arg	setiembre	n$n-m	cat	setembre	n$n-m
-	arg	seu	n$n-f	cat	catedral	n$n-f
+	arg	seu	n$n-f	cat	catedral	n-f$n
 	arg	severidat	n$n-f	cat	severitat	n-f$n
 	arg	sevillano	n$n-m	cat	sevillà	n-m$n
 	arg	sevillano	n-f	cat	sevillà	n-f
@@ -14016,8 +14016,8 @@ LR	arg	sida	n-acr-f	cat	sida	n-acr-f-sg$n-acr-f$n-f
 	arg	simpatía	n$n-f	cat	simpatia	n-f$n
 	arg	simplicidat	n$n-f	cat	simplicitat	n-f$n
 	arg	simplificación	n$n-f	cat	simplificació	n-f$n
-	arg	simulación	n$n-f	cat	simulació	n$n-f
-	arg	sinceridat	n$n-f	cat	sinceritat	n$n-f
+	arg	simulación	n$n-f	cat	simulació	n-f$n
+	arg	sinceridat	n$n-f	cat	sinceritat	n-f$n
 	arg	sincretismo	n$n-m	cat	sincretisme	n-m$n
 	arg	sincronización	n$n-f	cat	sincronització	n-f$n
 	arg	sindicación	n$n-f	cat	sindicació	n-f$n
@@ -14026,9 +14026,9 @@ LR	arg	sida	n-acr-f	cat	sida	n-acr-f-sg$n-acr-f$n-f
 	arg	sindicato	n$n-m	cat	sindicat	n-m$n
 	arg	singularidat	n$n-f	cat	singularitat	n-f$n
 	arg	sino	n$n-m	cat	si	n$n-m
-	arg	sintaxi	n-f$n-f-pl	cat	sintaxi	n-f$n$n-f-ND
+	arg	sintaxi	n-f$n-f-pl	cat	sintaxi	n-f$n-f-ND$n
 	arg	sinterización	n$n-f	cat	sinterització	n-f$n
-	arg	sintesi	n-f$n-f-pl	cat	síntesi	n-f$n$n-f-ND
+	arg	sintesi	n-f$n-f-pl	cat	síntesi	n-f$n-f-ND$n
 	arg	sintoma	n$n-m	cat	símptoma	n-m$n
 	arg	sintomatolochía	n$n-f	cat	simptomatologia	n-f$n
 	arg	sinyal	n-m	cat	senyal	n-m$n
@@ -14081,8 +14081,8 @@ LR	arg	sobrecalificación	n$n-f	cat	sobrequalificació	n-f$n
 	arg	socorrista	n$n-mf	cat	socorrista	n-mf$n
 	arg	sofista	n$n-mf	cat	sofista	n-mf$n
 	arg	sofisticación	n$n-f	cat	sofisticació	n-f$n
-	arg	sofocación	n$n-f	cat	sufocació	n$n-f
-RL	arg	software	n-m-sp$n	cat	programari	n$n-m$n-m-sg
+	arg	sofocación	n$n-f	cat	sufocació	n-f$n
+RL	arg	software	n-m-sp$n	cat	programari	n-m$n$n-m-sg
 RL	arg	software	n-m-sp$n	cat	programari	n-m-pl
 LR	arg	software	n-m-pl	cat	programari	n-m-ND
 	arg	sol	n$n-m	cat	sol	n$n-m
@@ -14101,8 +14101,8 @@ LR	arg	soldau	n-mf$n	cat	soldat	n$n-GD
 	arg	solitut	n$n-f	cat	solitud	n-f$n
 	arg	solubilidat	n$n-f	cat	solubilitat	n-f$n
 	arg	solubilización	n$n-f	cat	solubilització	n$n-f
-	arg	solución	n$n-f	cat	solució	n$n-f
-	arg	solvencia	n$n-f	cat	solvència	n$n-f
+	arg	solución	n$n-f	cat	solució	n-f$n
+	arg	solvencia	n$n-f	cat	solvència	n-f$n
 	arg	somero	n-m$n	cat	burro	n-m$n
 	arg	somero	n-m$n	cat	ruc	n$n-m
 	arg	somero	n-f	cat	burro	n-f
@@ -14111,9 +14111,9 @@ LR	arg	soldau	n-mf$n	cat	soldat	n$n-GD
 	arg	somnolencia	n$n-f	cat	somnolència	n-f$n
 	arg	son	n$n-m	cat	so	n$n-m
 	arg	sonoridat	n$n-f	cat	sonoritat	n-f$n
-	arg	sonorización	n$n-f	cat	sonorització	n$n-f
+	arg	sonorización	n$n-f	cat	sonorització	n-f$n
 	arg	sopa	n$n-f	cat	sopa	n-f$n
-	arg	sopera	n$n-f	cat	sopera	n$n-f
+	arg	sopera	n$n-f	cat	sopera	n-f$n
 	arg	sostenimiento	n$n-m	cat	sosteniment	n-m$n
 	arg	soterramiento	n$n-m	cat	soterrament	n-m$n
 	arg	sotobamiento	n$n-m	cat	estovament	n-m$n
@@ -14125,7 +14125,7 @@ RL	arg	soya	n-f$n	cat	soja	n-f$n
 	arg	subcadena	n$n-f	cat	subcadena	n-f$n
 	arg	subcategoría	n$n-f	cat	subcategoria	n-f$n
 	arg	subchección	n$n-f	cat	subjecció	n-f$n
-	arg	subchugación	n$n-f	cat	subjugació	n$n-f
+	arg	subchugación	n$n-f	cat	subjugació	n-f$n
 	arg	subcomisión	n$n-f	cat	subcomissió	n$n-f
 	arg	subconchunto	n$n-m	cat	subconjunt	n-m$n
 	arg	subcontratación	n$n-f	cat	subcontractació	n-f$n
@@ -14139,7 +14139,7 @@ RL	arg	soya	n-f$n	cat	soja	n-f$n
 	arg	subestimación	n$n-f	cat	subestimació	n$n-f
 	arg	subgobernación	n$n-f	cat	sotsgovernació	n$n-f
 	arg	subindiz	n$n-m	cat	subíndex	n-m$n
-	arg	sublevación	n-f$n	cat	revolta	n$n-f
+	arg	sublevación	n-f$n	cat	revolta	n-f$n
 	arg	sublevación	n-f$n	cat	sublevació	n-f$n
 	arg	sublimación	n$n-f	cat	sublimació	n-f$n
 	arg	submarinista	n$n-mf	cat	submarinista	n$n-mf
@@ -14160,7 +14160,7 @@ RL	arg	soya	n-f$n	cat	soja	n-f$n
 RL	arg	subtracción	n-f$n	cat	sostració	n-f$n
 	arg	subtracción	n-f$n	cat	substracció	n-f$n
 	arg	subvención	n$n-f	cat	subvenció	n-f$n
-	arg	subversión	n$n-f	cat	subversió	n$n-f
+	arg	subversión	n$n-f	cat	subversió	n-f$n
 	arg	succesión	n$n-f	cat	successió	n-f$n
 	arg	succión	n$n-f	cat	succió	n-f$n
 	arg	sucherencia	n$n-f	cat	suggerència	n$n-f
@@ -14176,7 +14176,7 @@ RL	arg	subtracción	n-f$n	cat	sostració	n-f$n
 	arg	suerte	n$n-f	cat	sort	n-f$n
 	arg	suficiencia	n$n-f	cat	suficiència	n-f$n
 	arg	sufismo	n$n-m	cat	sufisme	n-m$n
-	arg	sufixación	n$n-f	cat	sufixació	n$n-f
+	arg	sufixación	n$n-f	cat	sufixació	n-f$n
 	arg	sufixo	n$n-m	cat	sufix	n-m$n
 	arg	sufrachio	n$n-m	cat	sufragi	n-m$n
 	arg	sufrimiento	n-m$n	cat	patiment	n-m$n
@@ -14186,18 +14186,18 @@ RL	arg	subtracción	n-f$n	cat	sostració	n-f$n
 	arg	sumerio	n$n-m	cat	sumeri	n$n-m
 	arg	sumerio	n-f	cat	sumeri	n-f
 	arg	suministro	n$n-m	cat	subministrament	n-m$n
-	arg	sumisión	n-f$n	cat	submissió	n-f$n
+	arg	sumisión	n-f$n	cat	submissió	n-f
 	arg	supeditación	n$n-f	cat	supeditació	n$n-f
 	arg	superación	n$n-f	cat	superació	n-f$n
 	arg	superavit	n$n-m	cat	superàvit	n-m$n
 	arg	superdotación	n$n-f	cat	superdotació	n$n-f
 	arg	superficie	n$n-f	cat	superfície	n-f$n
 	arg	superindiz	n$n-m	cat	superíndex	n-m$n
-	arg	superioridat	n$n-f	cat	superioritat	n$n-f
+	arg	superioridat	n$n-f	cat	superioritat	n-f$n
 	arg	superpoblación	n$n-f	cat	superpoblació	n-f$n
 	arg	superposición	n$n-f	cat	superposició	n-f$n
 	arg	superpotencia	n$n-f	cat	superpotència	n-f$n
-	arg	superproducción	n$n-f	cat	superproducció	n$n-f
+	arg	superproducción	n$n-f	cat	superproducció	n-f$n
 	arg	superstición	n$n-f	cat	superstició	n-f$n
 	arg	superstructura	n$n-f	cat	superestructura	n-f$n
 	arg	supervisión	n$n-f	cat	supervisió	n-f$n
@@ -14206,17 +14206,17 @@ RL	arg	subtracción	n-f$n	cat	sostració	n-f$n
 	arg	suplencia	n$n-f	cat	suplència	n-f$n
 	arg	suposición	n$n-f	cat	suposició	n-f$n
 	arg	suprapartidista	n$n-mf	cat	suprapartidista	n$n-mf
-	arg	supresión	n$n-f	cat	supressió	n$n-f
+	arg	supresión	n$n-f	cat	supressió	n-f$n
 	arg	surfista	n$n-mf	cat	surfista	n$n-mf
 	arg	surrealismo	n$n-m	cat	surrealisme	n-m$n
 	arg	surrealista	n$n-mf	cat	surrealista	n-mf$n
 	arg	surtimiento	n$n-m	cat	sorgiment	n-m$n
 	arg	susceptancia	n$n-f	cat	susceptància	n-f$n
-	arg	suspensión	n$n-f	cat	suspensió	n$n-f
+	arg	suspensión	n$n-f	cat	suspensió	n-f$n
 	arg	sustentación	n$n-f	cat	sustentació	n-f$n
 	arg	suterrano	n$n-m	cat	soterrani	n-m$n
 	arg	t	n-f-sg	cat	t	n$n-f-sp$n-f
-	arg	tabierna	n-f$n	cat	taverna	n$n-f
+	arg	tabierna	n-f$n	cat	taverna	n-f$n
 	arg	tabla	n-f$n	cat	post	n-f$n
 	arg	tabla	n-f$n	cat	taula	n-f$n
 	arg	tablero	n$n-m	cat	empostissat	n-m$n
@@ -14226,7 +14226,7 @@ RL	arg	subtracción	n-f$n	cat	sostració	n-f$n
 	arg	tabulación	n$n-f	cat	tabulació	n-f$n
 	arg	tabulador	n$n-m	cat	tabulador	n-m$n
 	arg	taca	n$n-f	cat	taca	n-f$n
-	arg	tallador	n-m$n-m-ND	cat	maquineta	n-f$n$n-f-ND
+	arg	tallador	n-m$n-m-ND	cat	maquineta	n-f$n-f-ND$n
 	arg	tallafuego	n$n-m	cat	tallafoc	n$n-m
 	arg	taller	n$n-m	cat	taller	n-m$n
 	arg	tallo	n-m	cat	tall	n-m$n
@@ -14251,15 +14251,15 @@ RL	arg	tarde	n-f$n	cat	vesprada	n-f$n
 	arg	tarima	n$n-f	cat	tarima	n-f$n
 	arg	tartameco	n$n-m	cat	tartamut	n$n-m
 	arg	tartameco	n-f	cat	tartamut	n-f
-	arg	tasación	n$n-f	cat	taxació	n$n-f
+	arg	tasación	n$n-f	cat	taxació	n-f$n
 	arg	tasca	n-f	cat	gespa	n-f$n
 	arg	tautolochía	n$n-f	cat	tautologia	n-f$n
 	arg	taxa	n$n-f	cat	taxa	n-f$n$n-f-ND
 	arg	taxi	n$n-m	cat	taxi	n-m$n$n-m-sg
 	arg	taxista	n$n-mf	cat	taxista	n-mf$n
-	arg	taza	n$n-f	cat	tassa	n$n-f
+	arg	taza	n$n-f	cat	tassa	n-f$n
 	arg	teatro	n$n-m	cat	teatre	n-m$n
-	arg	tecla	n$n-f	cat	tecla	n$n-f
+	arg	tecla	n$n-f	cat	tecla	n-f$n
 	arg	teclau	n$n-m	cat	teclat	n-m$n
 	arg	teclista	n$n-mf	cat	teclista	n-mf$n
 	arg	tecnica	n$n-f	cat	tècnic	n$n-f
@@ -14271,7 +14271,7 @@ RL	arg	tarde	n-f$n	cat	vesprada	n-f$n
 	arg	tecnostructura	n$n-f	cat	tecnoestructura	n-f$n
 	arg	tela	n$n-f	cat	tela	n-f$n
 	arg	telar	n$n-m	cat	teler	n-m$n
-	arg	telecomunicación	n$n-f	cat	telecomunicació	n$n-f
+	arg	telecomunicación	n$n-f	cat	telecomunicació	n-f$n
 	arg	teleconferencia	n$n-f	cat	teleconferència	n-f$n
 	arg	teledetección	n$n-f	cat	teledetecció	n-f$n
 	arg	teledifusión	n$n-f	cat	teledifusió	n-f$n
@@ -14284,14 +14284,14 @@ RL	arg	tarde	n-f$n	cat	vesprada	n-f$n
 	arg	teleoperación	n$n-f	cat	teleoperació	n$n-f
 	arg	telesiella	n-f	cat	telecadira	n$n-m
 	arg	telesiella	n-f	cat	telesella	n-m
-	arg	televisión	n$n-f	cat	televisió	n$n-f
+	arg	televisión	n$n-f	cat	televisió	n-f$n
 	arg	televisor	n$n-m	cat	televisor	n-m$n
 	arg	tella	n$n-f	cat	teula	n-f$n
 	arg	tema	n$n-m	cat	tema	n-m$n
 	arg	tematización	n$n-f	cat	tematització	n$n-f
-	arg	temperatura	n$n-f	cat	temperatura	n$n-f
+	arg	temperatura	n$n-f	cat	temperatura	n-f$n
 	arg	tempestat	n$n-f	cat	tempestat	n-f$n
-	arg	temporada	n$n-f	cat	temporada	n$n-f
+	arg	temporada	n$n-f	cat	temporada	n-f$n
 	arg	temporalización	n$n-f	cat	temporalització	n$n-f
 	arg	temporización	n$n-f	cat	temporització	n$n-f
 	arg	temporizador	n$n-m	cat	temporitzador	n-m$n
@@ -14303,7 +14303,7 @@ RL	arg	tarde	n-f$n	cat	vesprada	n-f$n
 	arg	tenista	n-mf$n	cat	tenista	n-mf$n
 	arg	tenista	n-mf$n	cat	tennista	n-mf$n
 	arg	tenor	n$n-m	cat	tenor	n-m$n
-	arg	tensión	n$n-f	cat	tensió	n$n-f
+	arg	tensión	n$n-f	cat	tensió	n-f$n
 	arg	tentación	n$n-f	cat	temptació	n-f$n
 	arg	teolochía	n$n-f	cat	teologia	n-f$n
 	arg	teorico	n$n-m	cat	teòric	n$n-m
@@ -14311,12 +14311,12 @@ RL	arg	tarde	n-f$n	cat	vesprada	n-f$n
 	arg	teorización	n$n-f	cat	teorització	n$n-f
 	arg	teoría	n$n-f	cat	teoria	n-f$n
 	arg	tercermundista	n$n-mf	cat	tercermundista	n$n-mf
-	arg	terchiversación	n$n-f	cat	tergiversació	n$n-f
+	arg	terchiversación	n$n-f	cat	tergiversació	n-f$n
 	arg	termin	n$n-m	cat	terme	n$n-m
 	arg	terminación	n$n-f	cat	terminació	n-f$n
 	arg	terminolochía	n$n-f	cat	terminologia	n$n-f
 	arg	termografía	n$n-f	cat	termografia	n-f$n
-	arg	ternura	n$n-f	cat	tendresa	n$n-f
+	arg	ternura	n$n-f	cat	tendresa	n-f$n
 	arg	terraza	n$n-f	cat	terrassa	n-f$n
 	arg	territorialidat	n$n-f	cat	territorialitat	n-f$n
 	arg	territorio	n$n-m	cat	territori	n-m$n
@@ -14368,7 +14368,7 @@ LR	arg	tocino	n-f	cat	porca	n-f$n
 	arg	torsión	n$n-f	cat	torsió	n-f$n
 	arg	tortiella	n$n-f	cat	truita	n-f$n
 	arg	tortuga	n$n-f	cat	tortuga	n-f$n
-	arg	tortura	n$n-f	cat	tortura	n$n-f
+	arg	tortura	n$n-f	cat	tortura	n-f$n
 	arg	toscano	n$n-m	cat	toscà	n$n-m
 	arg	toscano	n-f	cat	toscà	n-f
 	arg	totalidat	n$n-f	cat	totalitat	n-f$n
@@ -14383,7 +14383,7 @@ LR	arg	tozuelo	n-m	cat	cap	n-f
 	arg	tractau	n$n-m	cat	tractat	n-m$n
 	arg	tracto	n$n-m	cat	tracte	n-m$n
 	arg	tractor	n$n-m	cat	tractor	n-m$n
-	arg	tradición	n$n-f	cat	tradició	n$n-f
+	arg	tradición	n$n-f	cat	tradició	n-f$n
 	arg	tradición	n$n-f	cat	traïció	n-f$n
 	arg	traducción	n$n-f	cat	traducció	n$n-f
 	arg	traductor	n$n-m	cat	traductor	n$n-m
@@ -14396,7 +14396,7 @@ LR	arg	tozuelo	n-m	cat	cap	n-f
 	arg	tramitación	n$n-f	cat	tramitació	n-f$n
 	arg	tramvía	n$n-m	cat	tramvia	n-m$n$n-m-sg
 	arg	tranquilidat	n$n-f	cat	tranquil·litat	n-f$n
-	arg	transacción	n$n-f	cat	transacció	n$n-f
+	arg	transacción	n$n-f	cat	transacció	n-f$n
 	arg	transalpino	n$n-m	cat	transalpí	n$n-m
 	arg	transalpino	n-f	cat	transalpí	n-f
 	arg	transbordador	n$n-m	cat	transbordador	n-m$n
@@ -14406,18 +14406,18 @@ LR	arg	tozuelo	n-m	cat	cap	n-f
 	arg	transcurso	n$n-m	cat	transcurs	n-m$n
 	arg	transfección	n$n-f	cat	transfecció	n-f$n
 	arg	transferencia	n$n-f	cat	transferència	n-f$n
-	arg	transformación	n$n-f	cat	transformació	n$n-f
+	arg	transformación	n$n-f	cat	transformació	n-f$n
 	arg	transfusión	n$n-f	cat	transfusió	n-f$n
-	arg	transgresión	n$n-f	cat	transgressió	n$n-f
+	arg	transgresión	n$n-f	cat	transgressió	n-f$n
 	arg	transición	n$n-f	cat	transició	n-f$n
 	arg	translación	n$n-f	cat	translació	n-f$n
 	arg	transliteración	n$n-f	cat	transliteració	n-f$n
 	arg	translocación	n$n-f	cat	translocació	n-f$n
-	arg	transmisión	n$n-f	cat	transmissió	n$n-f
+	arg	transmisión	n$n-f	cat	transmissió	n-f$n
 	arg	transmisor	n$n-m	cat	transmissor	n-m$n
 	arg	transmitancia	n$n-f	cat	transmitància	n-f$n
 	arg	transmutación	n$n-f	cat	transmutació	n-f$n
-	arg	transparencia	n$n-f	cat	transparència	n$n-f
+	arg	transparencia	n$n-f	cat	transparència	n-f$n
 	arg	transpiración	n$n-f	cat	transpiració	n-f$n
 	arg	transportador	n$n-m	cat	transportador	n-m$n
 	arg	transportista	n$n-mf	cat	transportista	n-mf$n
@@ -14432,7 +14432,7 @@ LR	arg	tozuelo	n-m	cat	cap	n-f
 	arg	travesía	n-f$n	cat	travessia	n-f$n
 	arg	traviesa	n$n-f	cat	travessa	n-f$n$n-f-sg
 	arg	traviés	n$n-m	cat	través	n$n-m
-	arg	traza	n$n-f	cat	manera	n$n-f$n-f-pl
+	arg	traza	n$n-f	cat	manera	n-f$n$n-f-pl
 	arg	traza	n$n-f	cat	traça	n-f$n
 	arg	treballador	n$n-m	cat	treballador	n-m
 	arg	treballador	n-f	cat	treballador	n-f
@@ -14447,7 +14447,7 @@ LR	arg	tozuelo	n-m	cat	cap	n-f
 	arg	triboluminiscencia	n$n-f	cat	triboluminescència	n-f$n
 	arg	tribuna	n$n-f	cat	tribuna	n-f$n
 	arg	tribunal	n$n-m	cat	tribunal	n-m$n
-	arg	tributación	n$n-f	cat	tributació	n$n-f
+	arg	tributación	n$n-f	cat	tributació	n-f$n
 	arg	trillón	n$n-m	cat	trilió	n$n-m
 	arg	trilochía	n$n-f	cat	trilogia	n-f$n
 	arg	trinidat	n$n-f	cat	trinitat	n-f$n
@@ -14473,7 +14473,7 @@ RL	arg	trunfa	n-f$n	cat	creïlla	n-f$n
 	arg	trunfa	n-f$n	cat	patata	n$n-f
 	arg	tuixo	n-m$n	cat	queix	n-m$n
 	arg	tumor	n$n-m	cat	tumor	n-m$n
-	arg	turbación	n$n-f	cat	torbació	n$n-f
+	arg	turbación	n$n-f	cat	torbació	n-f$n
 	arg	turbulencia	n$n-f	cat	turbulència	n-f$n
 	arg	turco	n$n-m	cat	turc	n$n-m
 	arg	turco	n-f	cat	turc	n-f
@@ -14483,7 +14483,7 @@ RL	arg	trunfa	n-f$n	cat	creïlla	n-f$n
 	arg	turradora	n$n-f	cat	torrador	n$n-f
 	arg	tutor	n$n-m	cat	tutor	n$n-m
 	arg	tutor	n-f	cat	tutor	n-f
-	arg	tío	n$n-f	cat	tia	n$n-f
+	arg	tío	n$n-f	cat	tia	n-f$n
 	arg	tío	n-m	cat	oncle	n-m$n
 	arg	ubicación	n$n-f	cat	ubicació	n-f$n
 	arg	ubridor	n$n-m	cat	obridor	n-m$n
@@ -14495,7 +14495,7 @@ RL	arg	trunfa	n-f$n	cat	creïlla	n-f$n
 	arg	uella	n$n-f	cat	ovella	n-f$n
 	arg	uellada	n$n-f	cat	ullada	n-f$n
 	arg	uello	n$n-m	cat	ull	n$n-m
-	arg	uembra	n$n-f	cat	ombra	n$n-f
+	arg	uembra	n$n-f	cat	ombra	n-f$n
 	arg	ueso	n-m$n	cat	os	n-m$n$n-m-ND
 	arg	ueso	n-m$n	cat	pinyol	n-m$n
 	arg	ueste	n$n-m	cat	oest	n-m$n
@@ -14503,7 +14503,7 @@ RL	arg	trunfa	n-f$n	cat	creïlla	n-f$n
 	arg	ulceración	n$n-f	cat	ulceració	n-f$n
 	arg	ultranacionalista	n$n-mf	cat	ultranacionalista	n$n-mf
 	arg	ultrarrealista	n$n-mf	cat	ultrarrealista	n$n-mf
-	arg	unanimidat	n$n-f	cat	unanimitat	n$n-f
+	arg	unanimidat	n$n-f	cat	unanimitat	n-f$n
 	arg	unción	n$n-f	cat	unció	n-f$n
 	arg	ungla	n$n-f	cat	ungla	n-f$n
 	arg	unidat	n$n-f	cat	unitat	n-f$n$n-f-sg
@@ -14513,7 +14513,7 @@ RL	arg	trunfa	n-f$n	cat	creïlla	n-f$n
 	arg	unipartidista	n$n-mf	cat	unipartidista	n$n-mf
 	arg	unitarismo	n$n-m	cat	unitarisme	n-m$n
 	arg	universalización	n$n-f	cat	universalització	n-f$n
-	arg	universidat	n$n-f	cat	universitat	n$n-f$n-f-ND
+	arg	universidat	n$n-f	cat	universitat	n-f$n$n-f-ND
 	arg	universitario	n$n-m	cat	universitari	n$n-m
 	arg	universitario	n-f	cat	universitari	n-f
 	arg	unión	n$n-f	cat	unió	n-f$n
@@ -14524,7 +14524,7 @@ RL	arg	trunfa	n-f$n	cat	creïlla	n-f$n
 	arg	urbano	n$n-m	cat	urbà	n$n-m
 	arg	urbano	n-f	cat	urbà	n-f
 	arg	urchencia	n$n-f	cat	urgència	n-f$n
-	arg	urnia	n$n-f	cat	urna	n$n-f
+	arg	urnia	n$n-f	cat	urna	n-f$n
 	arg	urolochía	n$n-f	cat	urologia	n-f$n
 	arg	uruguayo	n$n-m	cat	uruguaià	n$n-m
 	arg	uruguayo	n-f	cat	uruguaià	n-f
@@ -14534,10 +14534,10 @@ RL	arg	trunfa	n-f$n	cat	creïlla	n-f$n
 	arg	usuario	n-f	cat	usuari	n-f
 	arg	usurpación	n$n-f	cat	usurpació	n-f$n
 	arg	utilidat	n$n-f	cat	utilitat	n-f$n
-	arg	utilización	n$n-f	cat	utilització	n$n-f
+	arg	utilización	n$n-f	cat	utilització	n-f$n
 	arg	v	n$n-f	cat	v	n$n-f$n-f-sg
 	arg	vaca	n$n-f	cat	vaca	n-f$n
-	arg	vacancias	n-f-pl$n	cat	vacacions	n$n-f-pl
+	arg	vacancias	n-f-pl$n	cat	vacacions	n-f-pl$n$n-f
 	arg	vacancias	n-f-pl$n	cat	vacances	n-f-pl$n$n-f
 	arg	vachina	n$n-f	cat	vagina	n-f$n
 	arg	vacilación	n$n-f	cat	vacil·lació	n-f$n
@@ -14549,7 +14549,7 @@ LR	arg	vada	n$n-f	cat	vaga	n-f$n
 	arg	vaina	n-f$n	cat	baina	n-f$n
 	arg	vaina	n-f$n	cat	beina	n-f$n
 	arg	vaina	n-f$n	cat	tavella	n-f$n
-	arg	vaixiella	n$n-f	cat	vaixella	n$n-f
+	arg	vaixiella	n$n-f	cat	vaixella	n-f$n
 	arg	val	n-f	cat	vall	n-f$n
 	arg	valencia	n$n-f	cat	valència	n-f$n
 	arg	valencianismo	n$n-m	cat	valencianisme	n$n-m
@@ -14560,7 +14560,7 @@ LR	arg	vada	n$n-f	cat	vaga	n-f$n
 	arg	validación	n$n-f	cat	validació	n-f$n
 	arg	valoración	n$n-f	cat	valoració	n-f$n
 	arg	valorización	n$n-f	cat	valorització	n-f$n
-	arg	valvula	n$n-f	cat	vàlvula	n$n-f
+	arg	valvula	n$n-f	cat	vàlvula	n-f$n
 	arg	vandalismo	n$n-m	cat	vandalisme	n-m$n$n-m-sg
 	arg	vaporización	n$n-f	cat	vaporització	n-f$n
 	arg	vaquero	n$n-m	cat	vaquer	n$n-m
@@ -14569,9 +14569,9 @@ LR	arg	vada	n$n-f	cat	vaga	n-f$n
 	arg	variación	n$n-f	cat	variació	n-f$n
 	arg	variant	n$n-f	cat	variant	n-f$n
 	arg	varianza	n$n-f	cat	variància	n-f$n
-	arg	variedat	n$n-f	cat	varietat	n-f$n$n-f-pl
-	arg	variella	n$n-f	cat	mandíbula	n$n-f
-	arg	vasodilatación	n$n-f	cat	vasodilatació	n$n-f
+	arg	variedat	n$n-f	cat	varietat	n-f$n-f-pl$n
+	arg	variella	n$n-f	cat	mandíbula	n-f$n
+	arg	vasodilatación	n$n-f	cat	vasodilatació	n-f$n
 	arg	vasuera	n$n-f	cat	brossa	n-f$n
 	arg	vater	n$n-m	cat	vàter	n-m$n
 	arg	vechetación	n$n-f	cat	vegetació	n-f$n
@@ -14591,7 +14591,7 @@ LR	arg	vada	n$n-f	cat	vaga	n-f$n
 	arg	vencedor	n$n-m	cat	vencedor	n$n-m
 	arg	vencedor	n-f	cat	vencedor	n-f
 	arg	vencimiento	n$n-m	cat	venciment	n-m$n
-	arg	venda	n$n-f	cat	venda	n$n-f
+	arg	venda	n$n-f	cat	venda	n-f$n
 	arg	vendedor	n$n-m	cat	venedor	n$n-m
 	arg	vendedor	n-f	cat	venedor	n-f
 	arg	vendema	n$n-f	cat	verema	n-f$n
@@ -14608,7 +14608,7 @@ LR	arg	vada	n$n-f	cat	vaga	n-f$n
 	arg	vergüenya	n$n-f	cat	vergonya	n-f$n
 	arg	verificación	n$n-f	cat	verificació	n-f$n
 	arg	verista	n$n-mf	cat	verista	n-mf$n
-	arg	verosimilitut	n$n-f	cat	versemblança	n$n-f
+	arg	verosimilitut	n$n-f	cat	versemblança	n-f$n
 	arg	versatilidat	n$n-f	cat	versatilitat	n-f$n
 	arg	versión	n$n-f	cat	versió	n-f$n
 	arg	vertebra	n$n-f	cat	vèrtebra	n-f$n
@@ -14623,13 +14623,13 @@ LR	arg	vada	n$n-f	cat	vaga	n-f$n
 	arg	vibración	n$n-f	cat	vibració	n-f$n
 	arg	vicepresidencia	n$n-f	cat	vicepresidència	n-f$n
 	arg	vichencia	n$n-f	cat	vigència	n-f$n
-	arg	vichilancia	n$n-f	cat	vigilància	n$n-f
-	arg	vicisitut	n$n-f	cat	vicissitud	n$n-f
+	arg	vichilancia	n$n-f	cat	vigilància	n-f$n
+	arg	vicisitut	n$n-f	cat	vicissitud	n-f$n
 	arg	vico	n$n-m	cat	barri	n-m$n
-	arg	victima	n$n-f	cat	víctima	n$n-f
+	arg	victima	n$n-f	cat	víctima	n-f$n
 	arg	victimización	n$n-f	cat	victimització	n-f$n
-	arg	victoria	n$n-f	cat	victòria	n$n-f
-	arg	vida	n$n-f	cat	vida	n$n-f
+	arg	victoria	n$n-f	cat	victòria	n-f$n
+	arg	vida	n$n-f	cat	vida	n-f$n
 	arg	vident	n$n-mf	cat	vident	n-mf$n
 	arg	video	n$n-m	cat	vídeo	n-m$n$n-m-sg
 	arg	videoconferencia	n$n-f	cat	videoconferència	n-f$n
@@ -14650,7 +14650,7 @@ LR	arg	vada	n$n-f	cat	vaga	n-f$n
 	arg	vinclo	n-m$n	cat	vincle	n-m$n
 	arg	vinculación	n$n-f	cat	vinculació	n-f$n
 	arg	violación	n$n-f	cat	violació	n-f$n
-	arg	violencia	n$n-f	cat	violència	n$n-f
+	arg	violencia	n$n-f	cat	violència	n-f$n
 	arg	violinista	n$n-mf	cat	violinista	n-mf$n
 	arg	violonchelista	n$n-mf	cat	violoncel·lista	n$n-mf
 	arg	virchinidat	n$n-f	cat	virginitat	n-f$n$n-f-ND
@@ -14668,7 +14668,7 @@ LR	arg	vada	n$n-f	cat	vaga	n-f$n
 	arg	visor	n$n-m	cat	visor	n-m$n
 	arg	vispra	n$n-f	cat	vespra	n-f$n
 	arg	vista	n$n-f	cat	vista	n-f$n
-	arg	visualización	n$n-f	cat	visualització	n$n-f
+	arg	visualización	n$n-f	cat	visualització	n-f$n
 	arg	vitalidat	n$n-f	cat	vitalitat	n-f$n
 	arg	vitamina	n$n-f	cat	vitamina	n-f$n
 	arg	vitrificación	n$n-f	cat	vitrificació	n-f$n
@@ -14676,12 +14676,12 @@ LR	arg	vada	n$n-f	cat	vaga	n-f$n
 	arg	viudo	n$n-m	cat	vidu	n$n-m
 	arg	viudo	n-f	cat	vidu	n-f
 	arg	viuelista	n$n-mf	cat	violista	n$n-mf
-	arg	vivencia	n$n-f	cat	vivència	n$n-f
+	arg	vivencia	n$n-f	cat	vivència	n-f$n
 	arg	vivisección	n$n-f	cat	vivisecció	n-f$n
 	arg	vizconde	n$n-m	cat	vescomte	n$n-m
 	arg	vizconde	n-f	cat	vescomte	n-f
 	arg	vocabulario	n$n-m	cat	vocabulari	n-m$n
-	arg	vocación	n$n-f	cat	vocació	n$n-f
+	arg	vocación	n$n-f	cat	vocació	n-f$n
 	arg	vocalista	n$n-mf	cat	vocalista	n-mf$n
 	arg	vocalización	n$n-f	cat	vocalització	n-f$n
 	arg	voda	n$n-f	cat	boda	n-f$n
@@ -14695,7 +14695,7 @@ LR	arg	vada	n$n-f	cat	vaga	n-f$n
 	arg	vorruca	n$n-f	cat	berruga	n-f$n
 	arg	votación	n$n-f	cat	votació	n-f$n
 	arg	voto	n$n-m	cat	vot	n-m$n
-	arg	voz	n$n-f	cat	veu	n$n-f$n-f-ND
+	arg	voz	n$n-f	cat	veu	n-f$n$n-f-ND
 	arg	vueitre	n$n-m	cat	voltor	n-m$n
 	arg	vuixiga	n$n-f	cat	bufeta	n-f$n
 	arg	vulcanolochía	n$n-f	cat	vulcanologia	n-f$n
@@ -14736,7 +14736,7 @@ LR	arg	zagal	n-f	cat	nen	n-f
 	arg	zifra	n$n-f	cat	xifra	n-f$n
 	arg	ziga-zaga	n$n-m	cat	ziga-zaga	n-f
 	arg	zocalo	n$n-m	cat	sòcol	n-m$n
-	arg	zona	n$n-f	cat	zona	n$n-f
+	arg	zona	n$n-f	cat	zona	n-f$n
 	arg	zonación	n$n-f	cat	zonació	n-f$n
 	arg	zonificación	n$n-f	cat	zonificació	n-f$n
 	arg	zoocheografía	n$n-f	cat	zoogeografia	n$n-f$n-f-sg

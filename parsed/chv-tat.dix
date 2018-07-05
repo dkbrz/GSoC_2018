@@ -1,3 +1,4 @@
+	chv	км	abbr	tat	км	abbr
 	chv	и	qst	tat	мы	qst
 	chv	ӗ	cop	tat	и	cop$cop-aor-p3-sg
 LR	chv	ах	emph	tat		num$
@@ -57,7 +58,7 @@ LR	chv	ах	emph	tat		num$
 	chv	атту	cnjcoo	tat	юкса	cnjcoo
 	chv	ахалӗн	cnjcoo	tat	юкса	cnjcoo
 	chv	енчен	cnjcoo	tat	әгәр дә	cnjcoo
-	chv	ешлӗ	cnjcoo	tat	 	cnjcoo
+	chv	ешлӗ	cnjsub	tat	әгәр	cnjsub
 	chv	анчах та	cnjcoo	tat	алай да	cnjcoo
 	chv	эппин	cnjcoo	tat	алайса	cnjcoo
 	chv	анчах	cnjcoo	tat	аның каравы	cnjcoo
@@ -80,14 +81,16 @@ LR	chv	ах	emph	tat		num$
 	chv	каланӑ тӑрӑх	cnjcoo	tat	уйлавынча	cnjcoo
 	chv	каланӑ тӑрӑх	cnjcoo	tat	әйтүенчә	cnjcoo
 	chv	шутланӑ тӑрӑх	cnjcoo	tat	фикеренчә	cnjcoo
-RL	chv		n$	tat	белән	post
+	chv	витӗр	post	tat	аша	post
 	chv	кӑна	cnjcoo	tat	бары тик	cnjcoo
 	chv	кӑна	cnjcoo	tat	фәкать	cnjcoo
 	chv	пуҫне	post	tat	баш	n-px3sp-acc
-	chv	витӗр	post	tat	аша	post
-	chv	хыҫҫӑн	post	tat	соң	post
-	chv	урлӑ	post	tat	аша	post
 	chv	ҫине	post	tat	таба	post
+	chv	тӑрӑх	post	tat	буенча	post
+	chv	урлӑ	post	tat	аша	post
+	chv	хыҫҫӑн	post	tat	соң	post
+RL	chv		n$	tat	белән	post
+	chv	таран	post	tat	әле	post
 	chv	эсир	prn-pers$prn-pers-p2-pl	tat	сез	prn-pers$prn-pers-p2-pl$prn-pers-p2-pl-gen
 	chv	вӗсем	prn-pers$prn-pers-p3-pl	tat	алар	prn-pers$prn-pers-p3$prn-pers-p3-pl
 	chv	ку	prn-dem	tat	бу	prn-dem$prn-dem-sg
@@ -141,12 +144,18 @@ RL	chv	унран	prn-pers-p3-sg-abl	tat	аннан	prn-pers-p3-sg-abl
 	chv	хам	prn-dem-sg	tat	үзе	prn-dem-sg
 	chv	ҫак	prn-dem$prn-dem-sg	tat	бу	prn-dem$prn-dem-sg
 	chv	ҫак	prn-dem$prn-dem-sg	tat	шушы	prn-dem$prn-dem-sg
+	chv	ху	prn-pers-p2-sg	tat	кавантест	prn-pers-p2-sg
+	chv	хӑй	prn-pers-p3-sg	tat	кавантест	prn-pers-p3-sg
+	chv	хамӑр	prn-pers-p1-sg	tat	кавантест	prn-pers-p1-sg
+	chv	хӑвӑр	prn-pers-p2-sg	tat	кавантест	prn-pers-p2-sg
+	chv	хӑйсем	prn-pers-p3-pl	tat	кавантест	prn-pers-p3-pl
 	chv	ҫав	prn-dem-sg	tat	бусы	prn-dem-sg
 	chv	ҫав	prn-dem-sg	tat	ансы	prn-dem-sg
 	chv	кам	prn-dem-sg	tat	кем	prn-dem-sg
 	chv	кам	prn-dem-sg	tat	кемнәр	prn-dem-sg
 	chv	мӗн	prn$prn-dem-sg	tat	нәрсә	prn-dem-sg
 	chv	мӗн	prn$prn-dem-sg	tat	ни	prn-dem-sg
+	chv	хӑшӗ	prn$prn-dem-sg	tat	кавантест	prn-dem-sg
 	chv	миҫе	prn-dem-sg	tat	күпме	prn-dem-sg
 	chv	миҫе	prn-dem-sg	tat	ничә	prn-dem-sg
 	chv	мӗнле	prn-dem-sg	tat	нинди	prn-dem-sg
@@ -251,54 +260,56 @@ LR	chv	тӑхӑрвун	num	tat	туксан	num$num-ord
 	chv	миллиард	num	tat	миллиард	num$num-ord
 	chv	триллион	num	tat	триллион	num
 	chv	триллиард	num	tat	триллиард	num
-	chv	ум	n	tat	алд	n$n-px3sp-loc
-	chv	хыҫ	n	tat	арт	n$n-loc$n-px3sp-loc
-	chv	пат	n	tat	ян	n$n-px3sp-dat
 	chv	ай	n	tat	аст	n$n-px3sp-dat
-	chv	йӗри-тавра	n	tat	тирә-як	n
-	chv	территори	n	tat	территория	n
 	chv	алӑ	n	tat	кул	n
 	chv	анне	n	tat	әни	n
 	chv	ача	n	tat	бала	n
 	chv	вӑйӑ	n	tat	уен	n
+	chv	вӑрҫӑ	n	tat	сугыш	n
 	chv	вӑхӑт	n	tat	вакыт	n
+	chv	ӗмӗр	n	tat	гасыр	n$n-attr$n-loc-attr
+	chv	йӑмӑк	n	tat	сеңел	n
+	chv	йӗри-тавра	n	tat	тирә-як	n
 	chv	йывӑҫ	n	tat	агач	n$n-attr
 	chv	йытӑ	n	tat	эт	n
-	chv	йӑмӑк	n	tat	сеңел	n
+	chv	информаци	n	tat	мәгълүмат	n
 	chv	кайӑк	n	tat	кош	n
 	chv	кил	n	tat	өй	n
-	chv	кушак	n	tat	песи	n
 	chv	куҫ	n	tat	күз	n
+	chv	кушак	n	tat	песи	n
+	chv	пат	n	tat	ян	n$n-px3sp-dat
 	chv	пахча	n	tat	бакча	n
 	chv	пукан	n	tat	утыргыч	n
-	chv	пуҫ	n	tat	баш	n$n-attr
 	chv	пӳрт	n	tat	өй	n
-	chv	сасӑ	n	tat	тавыш	n
-	chv	сӗтел	n	tat	өстәл	n
-	chv	урам	n	tat	тыш	n
-	chv	хурав	n	tat	җавап	n
-	chv	хӗрача	n	tat	кызыкай	n
-	chv	чӗрчун	n	tat	хайван	n
-	chv	чӳрече	n	tat	тәрәзә	n
-	chv	шыв	n	tat	су	n
-	chv	ыйту	n	tat	сорау	n
+	chv	пуҫ	n	tat	баш	n$n-attr
 	chv	ҫанталӑк	n	tat	Һава	n
-	chv	ҫул	n	tat	яшь	n$n-px3sp-loc
-	chv	ҫул	n	tat	юл	n
-	chv	ҫурт	n	tat	өй	n
-	chv	ҫи	n	tat	сорау	n
-	chv	ҫын	n	tat	кеше	n
-	chv	ҫӗр	n	tat	урын	n
-	chv	юханшыв	n	tat	елга	n
-	chv	ҫурҫӗр	n	tat	төньяк	n$n-attr
-	chv	тинӗс	n	tat	диңгез	n$n-attr
-	chv	вӑрҫӑ	n	tat	сугыш	n
-	chv	суту-илӳ	n	tat	сәүдә	n
-	chv	чухне	n	tat	җавап	n
 	chv	сас	n	tat	тавыш	n
+	chv	сасӑ	n	tat	тавыш	n
+	chv	ҫӗр	n	tat	урын	n
+	chv	сӗтел	n	tat	өстәл	n
+	chv	ҫи	n	tat	сорау	n
+	chv	ҫул	n	tat	юл	n
+	chv	ҫул	n	tat	яшь	n$n-px3sp-loc
+	chv	ҫурҫӗр	n	tat	төньяк	n$n-attr
+	chv	ҫурт	n	tat	өй	n
+	chv	суту-илӳ	n	tat	сәүдә	n
+	chv	ҫын	n	tat	кеше	n
+	chv	территори	n	tat	территория	n
+	chv	тинӗс	n	tat	диңгез	n$n-attr
+	chv	ум	n	tat	алд	n$n-px3sp-loc
+	chv	урам	n	tat	тыш	n
+	chv	ут	n	tat	ат	n
+	chv	хӗрача	n	tat	кызыкай	n
+	chv	хурав	n	tat	җавап	n
+	chv	хыҫ	n	tat	арт	n$n-loc$n-px3sp-loc
 	chv	центр	n	tat	мәркәз	n
 	chv	центр	n	tat	үзәк	n$n-attr
-	chv	ӗмӗр	n	tat	гасыр	n$n-attr$n-loc-attr
+	chv	чӗрчун	n	tat	хайван	n
+	chv	чӳрече	n	tat	тәрәзә	n
+	chv	чухне	n	tat	җавап	n
+	chv	шыв	n	tat	су	n
+	chv	ыйту	n	tat	сорау	n
+	chv	юханшыв	n	tat	елга	n
 	chv	тинĕс	n	tat	диңгез	n$n-attr
 	chv	хутлăх	n	tat	ераклык	n
 	chv	çыран	n	tat	яры	n
@@ -327,6 +338,7 @@ LR	chv	тӑхӑрвун	num	tat	туксан	num$num-ord
 	chv	август	n	tat	август	n
 LR	chv	ҫурла	n	tat	август	n
 LR	chv	ҫурла уйӑхӗ	n	tat	август	n
+	chv	авиаци	n	tat	авиация	n
 	chv	автобус	n	tat	автобус	n
 	chv	автономи	n	tat	автономия	n
 	chv	автор	n	tat	автор	n
@@ -1063,6 +1075,7 @@ LR	chv	ҫӑрӑлчӑк	n	tat	пычрак	n
 	chv	пӗвӗ	n	tat	буа	n
 RL	chv	пӗвӗ	n	tat	дамба	n
 	chv	числа	n	tat	дата	n
+	chv	дата	n	tat	дата	n
 	chv	алӑк	n	tat	ишек	n
 	chv	алӑк	n	tat	ишек	n
 	chv	юхӑм	n	tat	хәрәкәт	n
@@ -1549,6 +1562,7 @@ LR	chv	мул	n	tat	мөлкәт	n
 LR	chv	пурлӑх	n	tat	мөлкәт	n
 LR	chv	япала	n	tat	мөлкәт	n
 	chv	хисеп ячӗ	n	tat	сан	n
+	chv	индекс	n	tat	индекс	n
 	chv	индианаполис	n	tat	индианаполис	n
 	chv	инди	n	tat	индий	n
 	chv	пусару	n	tat	башлангыч	n
@@ -1733,6 +1747,7 @@ LR	chv	ункӑ	n	tat	йөзек	n
 LR	chv	вӑрӑмтуна	n	tat	озынборын	n
 	chv	вӑрӑм туна	n	tat	черки	n
 LR	chv	вӑрӑмтуна	n	tat	черки	n
+	chv	командир	n	tat	командир	n
 	chv	вутлӑ хӳре	n	tat	комета	n
 LR	chv	комета	n	tat	комета	n
 	chv	пӳлӗм	n	tat	бүлмә	n
@@ -3090,6 +3105,8 @@ LR	chv	ҫыру	n	tat	язу	n
 LR	chv	пӳре	n	tat	бөер	n
 	chv	каҫару	n	tat	рәхим	n
 	chv	поэма	n	tat	шигырь	n
+	chv	почта	n	tat	почта	n
+	chv	почтӑ	n	tat	почта	n
 	chv	сӑвӑҫ	n	tat	шагыйрь	n
 LR	chv	сӑвӑҫӑ	n	tat	шагыйрь	n
 	chv	пиҫиххи	n	tat	билбау	n
@@ -4339,6 +4356,7 @@ LR	chv	никӗсле	n	tat	фундамент	n
 	chv	халиф	n	tat	хәлифә	n
 	chv	хан	n	tat	каган	n
 RL	chv	хан	n	tat	хан	n
+	chv	Хантӑ-Манси	adj	tat	Хант-Манси	adj
 	chv	йӗркесӗрлӗх	n	tat	хаос	n
 	chv	кӑмӑл	n	tat	характер	n
 LR	chv	характер	n	tat	характер	n
@@ -4531,6 +4549,7 @@ LR	chv	кӗҫнерникун	n	tat	пәнҗешәмбе	n
 LR	chv	шут	n	tat	сан	n
 	chv	вулавҫӑ	n	tat	укучы	n
 	chv	пыршӑ	n	tat	карын	n
+	chv	чӑваш	n	tat	чуваш	n
 	chv	сисӗм	n	tat	тойгы	n
 LR	chv	туйӑм	n	tat	тойгы	n
 	chv	сисӗм	n	tat	хис	n
@@ -4678,13 +4697,13 @@ LR	chv	сунтӑх	n	tat	тартма	n
 LR	chv	ещӗк	n	tat	ящек	n
 LR	chv	сунтӑх	n	tat	ящек	n
 	chv	округ	n	tat	округ	n$n-attr
-RL	chv	тӑрӑх	n	tat	округ	n$n-attr
+	chv	тӑрӑх	n	tat	округ	n$n-attr
 	chv	участок	n	tat	участок	n
 	chv	геоинформаци	n	tat	геоинформация	n
-	chv	агентство	n	tat	агентство	n
+	chv	агентство	n	tat	агентлык	n
 	chv	федераци	n	tat	федерация	n
 	chv	система	n	tat	система	n
-	chv	км	n	tat	км	n
+	chv	км	abbr	tat	км	abbr
 	chv	территори	n	tat	территория	n
 	chv	ресурс	n	tat	ресурс	n
 	chv	область	n	tat	өлкә	n$n-attr
@@ -6045,16 +6064,19 @@ RL	chv	тӑрӑх	n	tat	округ	n$n-attr
 	chv	Двина-Печора	np-top	tat	Двина-Печора	np-top
 	chv	Иртыш	np-top	tat	Иртеш	np-top
 	chv	Атӑл	np-top	tat	Идел	np-top
+	chv	Чулман Атӑл	np-top	tat	Чулман	np-top
 	chv	Двина	np-top	tat	Идел	np-top
 	chv	Обь	np-top	tat	Об	np-top
 RL	chv	Обь	np-top	tat	Уба	np-top
 RL	chv	Обь	np-top	tat	Үмәр	np-top
 	chv	Печора	np-top	tat	Печора	np-top
 	chv	Сосьва	np-top	tat	Сосьва	np-top
-	chv	ОКАТО	np	tat	ОКАТО	np
+	chv	ОКАТО	abbr	tat	ОКАТО	abbr
+	chv	АО	abbr	tat	АО	abbr
 	chv	Алтай	np-top	tat	Алтай	np-top
 	chv	Коми	np-top	tat	Коми	np-top
 	chv	Югра	np-top	tat	Югра	np-top
+	chv	Ненец	np-top	tat	Ненец	np-top
 	chv	Ямал-Ненец	np-top	tat	Ямал-Ненец	np-top
 	chv	Чӑваш Ен	np-top	tat	Чуашстан	np-top
 RL	chv	Чӑваш Республики	np-top	tat	Чуашстан	np-top
@@ -6437,6 +6459,7 @@ LR	chv	янтӑ	adj	tat	әзер	adj
 	chv	тӳрккес	adj	tat	тупас	adj$adj-advl
 LR	chv	хӑлӑхсӑр	adj	tat	тупас	adj$adj-advl
 LR	chv	чурӑс	adj	tat	тупас	adj$adj-advl
+LR	chv	чи	adj	tat	иң	adj
 	chv	тӳрккес	adj	tat	якынча	adj
 LR	chv	хӑлӑхсӑр	adj	tat	якынча	adj
 LR	chv	чурӑс	adj	tat	якынча	adj
@@ -6982,6 +7005,7 @@ LR	chv	ӳркенчӗк	adj	tat	ялкау	adj$adj-advl
 LR	chv	чуман	adj	tat	ялкау	adj$adj-advl
 LR	chv	юлхав	adj	tat	ялкау	adj$adj-advl
 	chv	вӑрман	adj	tat	урман	adj
+	chv	ҫулхи	adj	tat	кавантест	adj
 	chv	ҫу	adj	tat	җәйге	adj
 LR	chv	ҫуллахи	adj	tat	җәйге	adj
 	chv	харпӑр	adj	tat	үз	adj
@@ -7440,6 +7464,7 @@ LR	chv	халичченхи	adj	tat	үткән	adj
 	chv	кивӗ	adj	tat	элекке	adj
 LR	chv	унчченхи	adj	tat	элекке	adj
 LR	chv	халичченхи	adj	tat	элекке	adj
+	chv	автономлӑ	adj	tat	үзидарәле	adj
 	chv	аван	adj	tat	бик яхшы	adj
 LR	chv	чипер	adj	tat	бик яхшы	adj
 LR	chv	шеп	adj	tat	бик яхшы	adj
@@ -7843,6 +7868,7 @@ LR	chv	шутсӑр	adj	tat	куркыныч	adj$adj-advl
 	chv	хӑрушӑ	adj	tat	имәнеч	adj
 RL	chv	хӑрушӑ	adj	tat	куркыныч	adj$adj-advl
 	chv	перевҫӗ	adj	tat	укчы	adj
+	chv	перевҫӗсен	adj	tat	укчы	adj
 	chv	йӑрӑс	adj	tat	сылу	adj
 LR	chv	кӗрнеклӗ	adj	tat	сылу	adj
 LR	chv	яштак	adj	tat	сылу	adj
@@ -8321,6 +8347,7 @@ LR	chv	тӑрӑ	adj	tat	якты	adj$adj-advl
 LR	chv	уяр	adj	tat	якты	adj$adj-advl
 LR	chv	янкӑр	adj	tat	якты	adj$adj-advl
 	chv	хуллен	adj$adj-advl	tat	әкрен генә	adv
+	chv	федераллӑ	adj	tat	федераль	adj
 	chv	ҫутӑ хӑмӑр	adj	tat	аксыл көрән	adj
 	chv	шурӑ	adj	tat	күмәч	adj
 	chv	хӗрлӗрех сарӑ	adj	tat	кызгылт сары	adj
@@ -8591,14 +8618,14 @@ LR	chv	пӗрех	adv	tat	кебек	adv
 	chv	епле	adv	tat	күк	adv
 LR	chv	мӗнле	adv	tat	күк	adv
 LR	chv	пӗрех	adv	tat	күк	adv
-	chv	епле	adv	tat	ничек	adv-itg$adv
-LR	chv	мӗнле	adv	tat	ничек	adv-itg$adv
-LR	chv	пӗрех	adv	tat	ничек	adv-itg$adv
+	chv	епле	adv	tat	ничек	adv$adv-itg
+LR	chv	мӗнле	adv	tat	ничек	adv$adv-itg
+LR	chv	пӗрех	adv	tat	ничек	adv$adv-itg
 	chv	епле	adv	tat	сыман	adv
 LR	chv	мӗнле	adv	tat	сыман	adv
 LR	chv	пӗрех	adv	tat	сыман	adv
-	chv	епле	adv	tat	ничек	adv-itg$adv
-LR	chv	мӗнле	adv	tat	ничек	adv-itg$adv
+	chv	епле	adv	tat	ничек	adv$adv-itg
+LR	chv	мӗнле	adv	tat	ничек	adv$adv-itg
 	chv	чух	adv	tat	кайчан	adv-itg$adv
 	chv	паллах	adv	tat	әлбәттә	adv
 	chv	кӗске	adv	tat	кыска	adv
@@ -8785,8 +8812,8 @@ LR	chv	уҫӑмлӑ	adv	tat	ачык	adv
 LR	chv	уҫҫӑн	adv	tat	ачык	adv
 	chv	ӑҫта	adv$adv-itg	tat	кайда	adv-itg$adv
 LR	chv	ӑҫтан	adv	tat	кайда	adv-itg$adv
-	chv	ӑҫта	adv$adv-itg	tat	кайдан	adv-itg$adv
-LR	chv	ӑҫтан	adv	tat	кайдан	adv-itg$adv
+	chv	ӑҫта	adv$adv-itg	tat	кайдан	adv$adv-itg
+LR	chv	ӑҫтан	adv	tat	кайдан	adv$adv-itg
 	chv	кунтан	adv	tat	моннан	adv
 LR	chv	ҫакӑнтан	adv	tat	моннан	adv
 	chv	лерен	adv	tat	аннан	adv
@@ -9336,8 +9363,12 @@ LR	chv	янкӑр	adv	tat	аяз	adv
 	chv	пултар	v-tv	tat	ал	v-tv$v-tv-pass$v-tv-pass-ifi-p3-sg
 	chv	ҫухат	v-tv	tat	югалт	v-tv
 	chv	йӗркеле	v-tv	tat	оештыр	v-tv
-	chv	пыр	v-tv	tat	кил	v-iv$v
-	chv	ҫӳре	v-tv	tat	йөр	v-iv
+	chv	пыр	v-iv	tat	кил	v-iv$v
+	chv	ҫурал	v-tv	tat	таб	v-tv
+	chv	тух	v-iv$v	tat	чыгарга	v-iv
+	chv	пурӑн	v-iv	tat	яшә	v-iv
+	chv	кӗр	v-iv	tat	кер	v-iv
+	chv	ҫӳре	v-iv	tat	йөр	v-iv
 	chv	хатӗрле	v-tv	tat	әзерлә	v-tv
 	chv	вырнаҫ	v-iv	tat	урнаш	v-iv
 	chv	кӗр	v-iv	tat	кер	v-iv

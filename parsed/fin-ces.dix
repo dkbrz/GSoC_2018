@@ -4,8 +4,8 @@
 	fin	kaksi	num$num-card-sg$num-card	ces	dva	num-mi
 	fin	kolme	num-card-sg$num$num-card	ces	tři	num$num-mf
 	fin	neljä	num$num-card-sg$num-card	ces	čtyři	num-mf$num
-	fin	viisi	num$num-card-sg$num-card	ces	pět	num$num-qnt$num-qnt-nm
-	fin	kuusi	num-card-sg$num$num-card	ces	šest	num-qnt$num$num-qnt-nm
+	fin	viisi	num$num-card-sg$num-card	ces	pět	num$num-qnt$num-qnt-mf
+	fin	kuusi	num-card-sg$num$num-card	ces	šest	num-qnt$num$num-qnt-mf
 	fin	1	num	ces	1	num-sg$num
 	fin	2	num	ces	2	num-pl$num
 	fin	3	num	ces	3	num-pl$num
@@ -94,30 +94,30 @@
 	fin	500.	num	ces	500.	num
 	fin	puutarha	n$n-ND	ces	zahrada	n-f
 	fin	sää	n	ces	počasí	n-nt
-	fin	talo	n$n-sg	ces	dům	n-mi
+	fin	talo	n$n-ND	ces	dům	n-mi
 	fin	poika	n$n-ND	ces	kluk	n-ma
-	fin	vuosi	n$n-sg	ces	léto	n-nt
+	fin	vuosi	n$n-ND	ces	léto	n-nt
 	fin	tyttö	n$n-ND	ces	holka	n-f
 	fin	sisko	n	ces	sestra	n-f
 	fin	koira	n$n-ND	ces	pes	n-ma
 	fin	kissa	n$n-ND	ces	kočka	n-f
 	fin	lapsi	n$n-ND	ces	ditě	n-nt
 	fin	äiti	n	ces	matka	n-f
-	fin	ikkuna	n$n-sg	ces	okno	n-nt
+	fin	ikkuna	n$n-ND	ces	okno	n-nt
 	fin	puu	n$n-ND	ces	strom	n-mi
 	fin	käsi	n$n-ND	ces	ruce	n-f
 	fin	silmä	n$n-ND	ces	oko	n-f
 	fin	leikki	n$n-ND	ces	hrat	n-f
 	fin	laskeminen	n	ces	počítáním	n-nt
-	fin	vastaus	n$n-sg	ces	odpověď	n-nt
+	fin	vastaus	n	ces	odpověď	n-nt
 	fin	kysymys	n$n-ND	ces	otázka	n-f
 	fin	ihminen	n$n-pl	ces	lidi	n-ma
-	fin	pöytä	n$n-sg	ces	stůl	n-mi
+	fin	pöytä	n$n-ND	ces	stůl	n-mi
 	fin	tuoli	n$n-ND	ces	židle	n-f
-	fin	ääni	n$n-sg	ces	zvuk	n-mi
+	fin	ääni	n$n-ND	ces	zvuk	n-mi
 	fin	lintu	n$n-ND	ces	pták	n-ma
-	fin	eläin	n$n-sg	ces	žvíře	n-f
-	fin	pää	n$n-sg-nom$n-sg	ces	hlava	n-f
+	fin	eläin	n$n-ND	ces	žvíře	n-f
+	fin	pää	n$n-sg-nom	ces	hlava	n-f
 	fin	vesi	n$n-ND	ces	voda	n-f
 	fin	ei	vblex$vblex-neg$vblex-neg-cnjcoo	ces	ne	adv
 	fin	voida	vaux$vaux-neg	ces	moci	vaux-impf-ma$vaux-impf
@@ -128,9 +128,9 @@
 	fin	nukkua	vblex	ces	spit	vblex-impf
 	fin	katsoa	vblex$vblex-pr	ces	dívat	vblex-impf
 	fin	nähdä	vblex	ces	vidět	vblex-impf
-	fin	tietää	vblex	ces	vědět	vblex-impf
+	fin	tietää	vblex	ces	vědět	vblex-impf$vblex
 	fin	laskea	vblex$vblex-der_minen	ces	počítat	vblex-impf
-	fin	tehdä	vblex	ces	dělat	vblex$vblex-impf
+	fin	tehdä	vblex	ces	dělat	vblex-impf$vblex
 	fin	etsiä	vblex$vblex-actv-infe-sg-ins	ces	hledat	vblex$vblex-impf
 	fin	mennä	vblex	ces	jít	vblex-impf
 	fin	kysyä	vblex	ces	zeptat	vblex$vblex-perf$vblex-perf-ref
@@ -147,7 +147,7 @@
 	fin	lämmin	adj$adj-comp	ces	teplo	n-nt
 	fin	kylmä	adj$adj-comp	ces	hladan	n-f
 	fin	iso	adj	ces	velký	adj$adj-sint$adj-sint-nt
-	fin	pieni	adj	ces	malý	adj-sint$adj$adj-sint-mi
+	fin	pieni	adj	ces	malý	adj$adj-sint$adj-sint-mi
 	fin	iloinen	adj$adj-pos	ces	radost	n-f
 	fin	vanha	adj	ces	star	adj-sint-ma
 	fin	edessä	pr	ces	před	pr
@@ -196,7 +196,7 @@
 	fin	minä	prn$prn-pers-p1$prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-gen	ces	prpers	prn$prn-p3-nt-sg$prn-p3-nt
 	fin	sinä	prn$prn-pers-p2$prn-pers$prn-pers-p2-sg	ces	prpers	prn-p2-mf-sg
 	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers	ces	prpers	prn$prn-p3-nt-sg$prn-p3-nt
-	fin	me	prn$prn-pers-p1$prn-pers-p1-pl$prn-pers$prn-pers-p1-pl-gen	ces	prpers	prn$prn-p3-nt-sg$prn-p3-nt
+	fin	me	prn$prn-pers-p1-pl$prn-pers-p1$prn-pers$prn-pers-p1-pl-gen	ces	prpers	prn$prn-p3-nt-sg$prn-p3-nt
 	fin	te	prn$prn-pers-p2-pl$prn-pl	ces	prpers	prn$prn-p3-nt-sg$prn-p3-nt
 	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen	ces	prpers	prn-p3-ma-pl$prn-p3-ma-pl-nom
 	fin	nämä	prn$prn-dem	ces	oba	prn-ind-nt

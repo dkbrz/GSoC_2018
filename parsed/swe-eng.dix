@@ -109,7 +109,7 @@ LR	swe	då	cnjadv	eng	so	cnjsub
 	swe	över	pr	eng	across	pr
 	swe	över	pr	eng	over	pr$
 	swe	jag	prn-pers-p1-ut$prn-pers$prn	eng	I	prn-pers-p1-mf$prn-pers-p1-mf-sg
-	swe	du	prn$prn-pers$prn-pers-p2-ut$	eng	you	prn-pers-p2-mf$prn-pers-p2-mf-sg$prn-pers-p2
+	swe	du	prn-pers-p2-ut$prn$prn-pers$	eng	you	prn-pers-p2-mf$prn-pers-p2-mf-sg$prn-pers-p2
 	swe	hon	prn-pers-p3-f$$prn	eng	she	prn-pers-p3-f$prn-pers-p3-f-sg
 	swe	han	prn-pers-p3-m$$prn$prn-pers	eng	he	prn-pers-p3-m$prn-pers$prn-pers-p3-m-sg
 	swe	hen	prn-pers-p3-ut	eng	they	prn-pers-p3$prn-pers-p3-mf$prn-pers-p3-mf-pl
@@ -142,7 +142,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	viss	$adj$adj-sint$adj-sint-pst-un-pl-def	eng	some	prn-tn-mf-pl$prn-tn-pl$prn
 	swe	själv	prn-ref$$prn$prn-ref-ut-sg	eng	self	prn-ref$prn$prn-ref-PD-GD-ND
 	swe	en	det-ind$det	eng	a	det-ind-sg$det-ind$det$
-	swe	den	det-dem$det	eng	that	det-dem$det$det-dem-sg
+	swe	den	det-dem$det$det-dem-ut	eng	that	det-dem$det$det-dem-sg
 	swe	min	det-pos	eng	my	det-pos$det-pos-sp$det
 	swe	din	det-pos	eng	your	det-pos$det-pos-sp$det
 	swe	brev	n-nt	eng	letter	n$n-ND
@@ -6237,7 +6237,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	skåp	n-nt	eng	cupboard	n$n-ND
 	swe	skäppa	n-ut	eng	bushel	n
 	swe	skara	n-ut	eng	flock	n
-	swe	skära	$n-ut	eng	slice	n$n-ND
+	swe	skära	n-ut	eng	slice	n$n-ND
 	swe	skarf	n-ut	eng	scarf	n$n-ND
 	swe	skärm	n-ut	eng	screen	n$n-ND
 	swe	skärm	n-ut	eng	visor	n
@@ -8954,9 +8954,9 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	galen	adj-sint$adj$	eng	crazy	adj-sint$adj
 	swe	galen	adj-sint$adj$	eng	mad	adj$adj-sint
 	swe	galen	adj-sint$adj$	eng	mad	adj$adj-sint
-	swe	gammal	$adj-sint$adj	eng	elderly	adj$adj-sint
-	swe	gammal	$adj-sint$adj	eng	elderly	adj$adj-sint
-	swe	gammal	$adj-sint$adj	eng	elderly	adj$adj-sint
+	swe	gammal	$adj-sint$adj$adj-sint-pst	eng	elderly	adj$adj-sint
+	swe	gammal	$adj-sint$adj$adj-sint-pst	eng	elderly	adj$adj-sint
+	swe	gammal	$adj-sint$adj$adj-sint-pst	eng	elderly	adj$adj-sint
 	swe	gasformig	adj$adj-sint	eng	gaseous	adj
 	swe	gemensam	adj-sint$$adj	eng	common	adj$adj-sint
 	swe	gemensam	adj-sint$$adj	eng	common	adj$adj-sint
@@ -8987,8 +8987,8 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	girig	adj-sint$adj	eng	miserly	adj
 	swe	gisten	adj-sint	eng	leaky	adj$adj-sint
 	swe	gisten	adj-sint	eng	leaky	adj$adj-sint
-	swe	glad	$adj$adj-sint	eng	glad	adj$adj-sint
-	swe	glad	$adj$adj-sint	eng	happy	adj-sint$adj
+	swe	glad	$adj$adj-sint$adj-sint-pst-sg	eng	glad	adj$adj-sint
+	swe	glad	$adj$adj-sint$adj-sint-pst-sg	eng	happy	adj-sint$adj
 	swe	glamorös	adj$adj-sint	eng	glamorous	adj
 	swe	global	adj-sint	eng	global	adj
 	swe	glupsk	adj-sint	eng	ravenous	adj
@@ -9358,10 +9358,10 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	lingvistisk	$adj$adj-sint	eng	linguistic	adj
 	swe	linjär	adj-sint	eng	linear	adj
 	swe	listig	adj-sint	eng	tricky	adj$adj-sint
-	swe	liten	$adj-sint$adj	eng	small	adj-sint$adj
-	swe	liten	$adj-sint$adj	eng	small	adj-sint$adj
-	swe	liten	$adj-sint$adj	eng	small	adj-sint$adj
-	swe	liten	$adj-sint$adj	eng	small	adj-sint$adj
+	swe	liten	$adj-sint$adj$adj-sint-pst	eng	small	adj-sint$adj
+	swe	liten	$adj-sint$adj$adj-sint-pst	eng	small	adj-sint$adj
+	swe	liten	$adj-sint$adj$adj-sint-pst	eng	small	adj-sint$adj
+	swe	liten	$adj-sint$adj$adj-sint-pst	eng	small	adj-sint$adj
 	swe	litterär	$adj$adj-sint	eng	literary	adj
 	swe	liturgisk	$adj$adj-sint	eng	liturgical	adj
 	swe	livlig	adj-sint$$adj	eng	buoyant	adj
@@ -10132,9 +10132,9 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	rimlig	$adj$adj-sint	eng	plausible	adj
 	swe	rimlig	$adj$adj-sint	eng	reasonable	adj
 	swe	rituell	adj-sint	eng	ritual	adj
-	swe	rolig	$adj$adj-sint	eng	droll	adj
-	swe	rolig	$adj$adj-sint	eng	fun	adj-sint$adj
-	swe	rolig	$adj$adj-sint	eng	funny	adj-sint$adj
+	swe	rolig	$adj$adj-sint$adj-sint-pst	eng	droll	adj
+	swe	rolig	$adj$adj-sint$adj-sint-pst	eng	fun	adj-sint$adj
+	swe	rolig	$adj$adj-sint$adj-sint-pst	eng	funny	adj-sint$adj
 	swe	romantisk	$adj$adj-sint	eng	romantic	adj
 	swe	rosig	adj-sint	eng	rosy	adj$adj-sint
 	swe	rostig	$adj$adj-sint	eng	rusty	adj$adj-sint
@@ -10409,9 +10409,9 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	stilfull	adj-sint	eng	classy	adj$adj-sint
 	swe	stilig	$adj$adj-sint	eng	stylish	adj
 	swe	stingslig	adj-sint	eng	touchy	adj$adj-sint
-	swe	stor	adj-sint	eng	great	adj-sint$adj$adj-sint-comp
-	swe	stor	adj-sint	eng	large	adj-sint$adj
-	swe	stor	adj-sint	eng	major	adj
+	swe	stor	$adj$adj-sint$adj-sint-pst	eng	great	adj-sint$adj$adj-sint-comp
+	swe	stor	$adj$adj-sint$adj-sint-pst	eng	large	adj-sint$adj
+	swe	stor	$adj$adj-sint$adj-sint-pst	eng	major	adj
 	swe	stormig	adj$adj-sint	eng	stormy	adj$adj-sint
 	swe	storslagen	adj-sint$adj	eng	epic	adj
 	swe	storslagen	adj-sint$adj	eng	epic	adj
@@ -11420,7 +11420,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	vara¹	$vblex	eng	be	vbser$vbser-past$vbser-past-p3-sg
 	swe	vara²	$vblex	eng	be	vblex$vblex-pp
 	swe	skola¹	$vblex	eng	will	vaux$vaux-inf
-	swe	ha	vblex	eng	have	vbhaver$vbhaver-neg
+	swe	ha	vblex$	eng	have	vbhaver$vbhaver-neg
 	swe	kunna	vblex$	eng	can	vaux$vaux-past
 	swe	få	vblex$	eng	get	vblex$vblex-sep
 	swe	få	vblex$	eng	can	vaux$vaux-past
@@ -11468,7 +11468,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	måla	$vblex	eng	paint	vblex
 	swe	spela	$vblex	eng	play	vblex$vblex-subst
 	swe	regna	$vblex	eng	rain	vblex
-	swe		det-qnt$	eng		vblex
+	swe		$det-qnt	eng		vblex
 	swe	läsa	$vblex	eng	read	vblex$vblex-perf
 	swe	springa	$n-ut	eng	run	vblex
 	swe	säga	$vblex	eng	say	vblex$vblex-pprs
@@ -11478,8 +11478,8 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	skicka	$vblex	eng	send	vblex$vblex-sep
 	swe	sova	$vblex	eng	sleep	vblex
 	swe	tala	$vblex	eng	speak	vblex
-	swe		det-qnt$	eng		vblex
-	swe		det-qnt$	eng		vblex
+	swe		$det-qnt	eng		vblex
+	swe		$det-qnt	eng		vblex
 	swe	prata	$vblex	eng	talk	vblex
 	swe	undervisa	$vblex	eng	teach	vblex
 	swe	resa	n-ut$	eng	travel	vblex
@@ -11500,7 +11500,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	blåsa	$vblex	eng	blow	vblex$vblex-sep
 	swe	brinna	$vblex	eng	burn	vblex
 	swe	räkna	$vblex	eng	count	vblex$vblex-subst
-	swe	skära	$n-ut	eng	cut	vblex$vblex-sep
+	swe	skära	$vblex	eng	cut	vblex$vblex-sep
 	swe	gräva	$vblex	eng	dig	vblex$vblex-sep
 	swe	falla	$vblex	eng	fall	vblex$vblex-pprs
 	swe	frukta	$vblex	eng	fear	vblex
@@ -12725,9 +12725,9 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	skämta	$vblex	eng	kid	vblex
 	swe	skänka	$vblex	eng	donate	vblex
 	swe	skänka	$vblex	eng	subscribe	vblex
-	swe	skära	$n-ut	eng	reap	vblex
-	swe	skära	$n-ut	eng	slice	vblex
-	swe	skära	$n-ut	eng	trim	vblex$vblex-ger
+	swe	skära	$vblex	eng	reap	vblex
+	swe	skära	$vblex	eng	slice	vblex
+	swe	skära	$vblex	eng	trim	vblex$vblex-ger
 	swe	skärpa	$n-ut	eng	band	vblex
 	swe	skärpa	$n-ut	eng	intensify	vblex
 	swe	skärpa	$n-ut	eng	sharpen	vblex
@@ -13448,5 +13448,5 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe		cm	eng		cm
 	swe		lquot	eng		lquot
 	swe		rquot	eng		rquot
-	swe		det-qnt$	eng		det-qnt
-	swe		det-qnt$	eng		det-qnt
+	swe		$det-qnt	eng		det-qnt
+	swe		$det-qnt	eng		det-qnt

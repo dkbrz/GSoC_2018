@@ -1,7 +1,7 @@
 	isl	ég	prn$prn-pers	swe	jag	prn-pers-p1-ut$prn-pers$prn
 LR	isl	vér	prn$prn-pers	swe	jag	prn-pers-p1-ut$prn-pers$prn
-	isl	þú	prn$prn-pers	swe	du	prn$prn-pers$prn-pers-p2-ut$
-LR	isl	þér	prn$prn-pers	swe	du	prn$prn-pers$prn-pers-p2-ut$
+	isl	þú	prn$prn-pers	swe	du	prn-pers-p2-ut$prn$prn-pers$
+LR	isl	þér	prn$prn-pers	swe	du	prn-pers-p2-ut$prn$prn-pers$
 	isl	hann	prn$prn-pers	swe	han	prn-pers-p3-m$$prn$prn-pers
 	isl	sig	prn-ref$prn-ref-m-sg	swe	sig	prn$prn-ref$
 	isl	minn	prn-pos	swe	min	prn-pos
@@ -54,8 +54,8 @@ LR	isl	hvers vegna	prn-itg	swe	varför	prn-itg
 	isl		num	swe		num
 	isl	°C	num	swe	°C	num
 	isl	°C	num	swe	°C	num
-	isl	klukkan 		swe		det-qnt$
-	isl	klukkan 		swe		det-qnt$
+	isl	klukkan 		swe		$det-qnt
+	isl	klukkan 		swe		$det-qnt
 	isl	núll	num	swe	noll	num
 	isl	einn	num	swe	en	num
 	isl	tveir	num$num-un-pl	swe	två	num$num-un-pl
@@ -745,7 +745,7 @@ LR	isl	þarna	adv	swe	där	adv
 	isl	þvert á móti	adv	swe	snarare	adv
 	isl	þétt	adv	swe	tätt	adv
 	isl	fyrstur	adj-ord$adj	swe	först	adj-ord
-	isl	annar	adj-ord$adj	swe	annan	adj-ord
+	isl	annar	adj-ord$adj	swe	annan	adj$adj-ord
 	isl	þriðji	adj-ord	swe	tredje	$adj$adj-ord
 	isl	fjórði	adj-ord	swe	fjärde	$adj-ord
 	isl	fimmti	adj-ord	swe	femte	$adj$adj-ord
@@ -1011,7 +1011,7 @@ RL	isl	gagnlegur	adj	swe	användbar	adj$adj-sint
 	isl	gagnlegur	adj	swe	nyttig	adj$$adj-sint
 	isl	gagnrýninn	adj	swe	kritisk	$adj-sint$adj
 	isl	gallaður	adj	swe	felaktig	adj$adj-sint
-	isl	gamall	adj	swe	gammal	$adj-sint$adj
+	isl	gamall	adj	swe	gammal	$adj-sint$adj$adj-sint-pst
 	isl	geislavirkur	adj	swe	radioaktiv	$adj
 LR	isl	georgískur	adj$adj-sint	swe	georgisk	$adj$adj-unsint
 RL	isl	georgískur	adj$adj-sint	swe	georgisk	$adj$adj-unsint
@@ -1045,7 +1045,7 @@ RL	isl	góður	adj$adj-pst-nt	swe	god	$adj-sint$adj$adj-sint-pst
 	isl	hagkvæmur	adj	swe	livskraftig	adj
 	isl	hagnýtur	adj	swe	pragmatisk	$adj$adj-sint
 	isl	hagstæður	adj	swe	fördelaktig	adj$adj-sint
-	isl	hamingjusamur	adj	swe	glad	$adj$adj-sint
+	isl	hamingjusamur	adj	swe	glad	$adj$adj-sint$adj-sint-pst-sg
 RL	isl	hamingjusamur	adj	swe	lycklig	$adj$adj-sint
 	isl	handahófskenndur	adj	swe	godtycklig	adj$adj-sint
 	isl	handtekinn	adj	swe	arresterad	adj
@@ -1214,7 +1214,7 @@ RL	isl	líkamlegur	adj$adj-sint	swe	fysisk	$adj$adj-unsint
 LR	isl	eðlisfræðilegur	adj	swe	fysisk	$adj$adj-unsint
 RL	isl	líklegur	adj	swe	sannolik	$adj$adj-sint
 	isl	líklegur	adj	swe	trolig	$adj$adj-pst
-	isl	lítill	adj	swe	liten	$adj-sint$adj
+	isl	lítill	adj	swe	liten	$adj-sint$adj$adj-sint-pst
 RL	isl	lítill	adj	swe	små	adj$adj-unsint
 	isl	lítinn	adj	swe	lilla	adj
 	isl	lögfræðilegur	adj	swe	rättslig	adj$$adj-sint
@@ -1459,7 +1459,7 @@ RL	isl	stjórnskipulegur	adj$adj-sint	swe	konstitutionell	adj$adj-unsint
 LR	isl	stuttorður	adj$adj-sint	swe	kortfattad	adj$adj-unsint
 RL	isl	stuttorður	adj$adj-sint	swe	kortfattad	adj$adj-unsint
 	isl	stuttur	adj	swe	kort	adj
-	isl	stór	adj	swe	stor	adj-pst$$adj
+	isl	stór	adj	swe	stor	$adj$adj-sint$adj-sint-pst
 	isl	stórfelldur	adj	swe	storskalig	adj
 LR	isl	stórkostlegur	adj$adj-sint	swe	dramatisk	$adj$adj-unsint
 RL	isl	stórkostlegur	adj$adj-sint	swe	dramatisk	$adj$adj-unsint
@@ -1900,7 +1900,7 @@ LR	isl	fallinn	adj$adj-unsint	swe	fallen	adj$adj-sint
 RL	isl	fallinn	adj$adj-unsint	swe	fallen	adj$adj-sint
 	isl	falskur	adj	swe	falsk	adj-sint$$adj
 	isl	farinn	adj	swe	borta	adj
-	isl	fastur	adj	swe	fast	adj
+	isl	fastur	adj	swe	fast	adj$adj-sint-pst-sg
 	isl	feginn	adj	swe	belåten	adj
 	isl	feitur	adj	swe	fet	adj$adj-sint
 	isl	fertugur	adj	swe	fyrtioårig	adj
@@ -1923,7 +1923,7 @@ RL	isl	frábrugðinn	adj$adj-sint	swe	avvikande	adj$adj-unsint
 LR	isl	fróðlegur	adj$adj-sint	swe	informativ	$adj$adj-unsint
 RL	isl	fróðlegur	adj$adj-sint	swe	informativ	$adj$adj-unsint
 	isl	furðulegur	adj	swe	konstig	adj$adj-sint
-	isl	fyndinn	adj	swe	rolig	$adj$adj-sint
+	isl	fyndinn	adj	swe	rolig	$adj$adj-sint$adj-sint-pst
 	isl	fyrirhugaður	adj	swe	menad	adj
 	isl	fyrrnefndur	adj	swe	ovannämnd	$adj
 	isl	fáeinir	adj	swe	fåtal	adj
@@ -1942,7 +1942,7 @@ RL	isl	gefinn	adj$adj-unsint	swe	given	adj$adj-sint
 	isl	gerður	adj	swe	tillverkad	adj
 	isl	geymdur	adj	swe	lagrad	adj
 	isl	giftur	adj	swe	gift	adj
-	isl	glaður	adj	swe	glad	$adj$adj-sint
+	isl	glaður	adj	swe	glad	$adj$adj-sint$adj-sint-pst-sg
 	isl	gljáandi	adj	swe	glänsande	adj
 	isl	glottandi	adj	swe	grinande	adj
 LR	isl	glæsilegur	adj$adj-sint	swe	elegant	$adj$adj-unsint
@@ -2052,7 +2052,7 @@ LR	isl	marktækur	adj$adj-sint	swe	betydande	adj$$adj-unsint
 RL	isl	marktækur	adj$adj-sint	swe	betydande	adj$$adj-unsint
 	isl	merktur	adj	swe	markerad	adj
 	isl	merkur	adj	swe	märklig	adj$adj-sint
-	isl	mikill	adj	swe	stor	adj-pst$$adj
+	isl	mikill	adj	swe	stor	$adj$adj-sint$adj-sint-pst
 	isl	mildur	adj	swe	mild	adj$$adj-sint
 	isl	minnisstæður	adj	swe	minnesvärd	adj-sint$adj
 	isl	minnkandi	adj	swe	minskande	adj
@@ -2097,7 +2097,7 @@ RL	isl	ringlaður	adj$adj-sint	swe	förvirrad	adj$adj-unsint
 	isl	sjálfsagður	adj	swe	naturlig	$adj$adj-sint
 	isl	skakkur	adj	swe	sned	adj$$adj-sint
 	isl	skammur	adj	swe	kort	adj
-	isl	skemmtilegur	adj	swe	rolig	$adj$adj-sint
+	isl	skemmtilegur	adj	swe	rolig	$adj$adj-sint$adj-sint-pst
 	isl	skerandi	adj	swe	genomborrande	adj
 	isl	skilgetinn	adj	swe	legitim	adj$
 	isl	skilinn	adj	swe	frånskild	adj
@@ -2119,7 +2119,7 @@ RL	isl	skær	adj$adj-sint	swe	strålande	adj$adj-unsint
 	isl	slæmur	adj	swe	dålig	$adj$adj-sint
 LR	isl	smár	adj$adj-sint	swe	små	adj$adj-unsint
 RL	isl	smár	adj$adj-sint	swe	små	adj$adj-unsint
-	isl	sniðugur	adj	swe	rolig	$adj$adj-sint
+	isl	sniðugur	adj	swe	rolig	$adj$adj-sint$adj-sint-pst
 	isl	snjallur	adj	swe	utmärkt	$adj
 LR	isl	snyrtilegur	adj$adj-sint	swe	vårdad	adj$adj-unsint
 RL	isl	snyrtilegur	adj$adj-sint	swe	vårdad	adj$adj-unsint
@@ -6518,7 +6518,7 @@ LR	isl	geta	vbmod	swe	kunna	vbmod
 LR	isl	munu	vbmod	swe	skola	vbmod
 	isl	eiga	vbmod	swe	böra	$vbmod
 	isl	mega	vbmod	swe	få	vbmod
-	isl	hafa	vbhaver	swe	ha	vbhaver$
+	isl	hafa	vbhaver	swe	ha	vbhaver
 	isl	afhenda	vblex	swe	leverera	$vblex
 	isl	afhjúpa	vblex	swe	utsätta	$vblex
 	isl	aflétta	vblex	swe	mildra	$vblex
@@ -6756,7 +6756,7 @@ RL	isl	grípa	vblex	swe	fånga	$vblex
 RL	isl	hafa	vblex	swe	inverka	$vblex
 	isl	hafa	vblex	swe	påverka	$vblex
 	isl	hafa	vblex	swe	oroa	vblex$
-	isl	hafa	vblex	swe	ha	vblex
+	isl	hafa	vblex	swe	ha	vblex$
 RL	isl	hafna	vblex	swe	avslå	$vblex
 	isl	hafna	vblex	swe	avvisa	$vblex
 RL	isl	hafna	vblex	swe	förkasta	$vblex
@@ -6881,7 +6881,7 @@ RL	isl	leiða	vblex	swe	resultera	$vblex
 	isl	leyfa	vblex	swe	tillåta	$vblex
 	isl	leysa	vblex	swe	lösa	$vblex
 	isl	lifa	vblex	swe	överleva	$vblex
-	isl	liggja	vblex	swe	ha	vblex
+	isl	liggja	vblex	swe	ha	vblex$
 	isl	liggja	vblex	swe	ligga	$vblex
 	isl	ljúka	vblex	swe	avsluta	$vblex
 RL	isl	ljúka	vblex	swe	slutföra	$vblex
@@ -7037,7 +7037,7 @@ RL	isl	senda	vblex	swe	sända	$vblex
 	isl	skammast	vblex	swe	skämmas	$vblex
 	isl	skapa	vblex	swe	skapa	$vblex
 	isl	skaða	vblex	swe	skada	vblex
-	isl	skera	vblex	swe	skära	vblex
+	isl	skera	vblex	swe	skära	$vblex
 	isl	skerpa	vblex	swe	intensifiera	$vblex
 	isl	skerpa	vblex	swe	skärpa	vblex
 	isl	skila	vblex	swe	avge	$vblex
@@ -7509,7 +7509,7 @@ LR	isl	hoppa	vblex	swe	hoppa	$vblex$vblex-pasv
 	isl	kinka	vblex	swe	nicka	$vblex
 	isl	kippa	vblex	swe	rycka	$vblex
 	isl	klifra	vblex	swe	klättra	$vblex
-	isl	klippa	vblex	swe	skära	vblex
+	isl	klippa	vblex	swe	skära	$vblex
 	isl	kljúfa	vblex	swe	klyva	$vblex
 	isl	klæða	vblex	swe	klä	$vblex
 	isl	klípa	vblex	swe	nypa	$vblex

@@ -4295,7 +4295,7 @@ LR	sme	buolašgráda	n	nob	kuldegrad	n-m
 	sme	báikeovddideapmi	n	nob	stedsutvikling	n
 	sme	báikerádio	n	nob	lokalradio	n-m
 	sme	báiki	n	nob	sted	n-nt
-	sme	oahpahusbáiki	n	nob	undervisningsted	n-nt
+	sme	oahpahusbáiki	n	nob	undervisningssted	n-nt
 	sme	báikkiolmmoš	n	nob	sambygding	n-m
 	sme	lagasolmmoš	n	nob	nær person	n-m
 	sme	vierroolmmoš	n	nob	fremmedfolk	n-nt
@@ -6497,6 +6497,7 @@ LR	sme	eadneolmmoš	n	nob	mor	n$
 	sme	eamiálbmotdássodat	n	nob	urfolksstandard	n-m
 	sme	eamiálbmotealáhus	n	nob	urfolksnæring	n
 	sme	eamiálbmotfierpmádat	n	nob	urfolksnettverk	n-nt
+	sme	eamiálbmotfilosofiija	n	nob	urfolksfilosofi	n-m
 	sme	eamiálbmotfoanda	n	nob	urfolksfond	n-nt
 	sme	eamiálbmotfáddá	n	nob	urfolkstema	n-nt
 	sme	eamiálbmotgažaldat	n	nob	urfolksspørsmål	n-nt
@@ -6512,6 +6513,7 @@ LR	sme	eadneolmmoš	n	nob	mor	n$
 	sme	eamiálbmotinstitušuvdna	n	nob	urfolksinstitusjon	n-m
 	sme	eamiálbmotjoavku	n	nob	urfolksgruppe	n
 	sme	eamiálbmotjournalistihkka	n	nob	urfolksjournalistikk	n-m
+	sme	ođasjournalistihkka	n	nob	nyhetsjournalistikk	n-m
 	sme	eamiálbmotjulggaštus	n	nob	urfolkserklæring	n
 	sme	eamiálbmotkantuvra	n	nob	urfolkskontor	n-nt
 	sme	eamiálbmotkongreassa	n-g3	nob	urfolkskongress	n-m
@@ -9441,6 +9443,7 @@ LR	sme	govvidus	n	nob	fotografering	n$
 	sme	guhkindovdda	n	nob	fjernsans	n-m
 	sme	guhkkodat	n	nob	utstrekning	$n-m
 	sme	guhkkodat	n	nob	lengde	n-m
+	sme	guhkkodat	n	nob	varighet	n-m$
 	sme	guhkkodatnjuiken	n	nob	lengdehopp	n-nt
 	sme	guhkkodatrádji	n	nob	lengdegrense	n
 	sme	guhkkár	n	nob	tobakkspung	n-m
@@ -15215,7 +15218,7 @@ RL	sme	máhka	n	nob	filleonkel	n-m
 	sme	mánáidgárdelokten	n	nob	barnehageløft	n-nt
 	sme	mánáidgárdeláhka	n$n-sem_rule	nob	barnehagelov	n-m
 	sme	mánáidgárdemánná	n	nob	barnehagebarn	n-nt
-	sme	mánáidgárdeoahpaheaddjeoahppu	n	nob	barnehagelærerutdanning	n
+	sme	mánáidgárdeoahpaheaddjeoahppu	n	nob	førskolelærerutdanning	n
 	sme	mánáidgárdeossodat	n	nob	barnehageavdeling	n
 	sme	mánáidgárdeovttasbargu	n	nob	barnehagesamarbeid	n-nt
 	sme	mánáidgárdeplána	n	nob	barnehagepersonale	n-nt
@@ -21834,6 +21837,7 @@ LR	sme	suhkerláda	n	nob	sjokolade	n-m
 	sme	teadjabaste	n	nob	teskje	n$n-m
 	sme	teahkka	n	nob	teak	n-m
 	sme	teaiga	n	nob	teig	n-m
+	sme	deaksta	n	nob	tekst	n-m$n$
 	sme	teaksta	n	nob	tekst	n-m$n$
 	sme	teakstaanalysa	n	nob	tekstanalyse	n-m
 	sme	teakstabihttá	n	nob	avsnitt	n-nt
@@ -22494,6 +22498,8 @@ LR	sme	unnoraš	n	nob	unge	n-m
 	sme	vearredahku	n	nob	lovbrudd	n-nt
 	sme	vearrodahku	n	nob	lovbrudd	n-nt
 	sme	vearreoahppa	n	nob	vranglære	n-m
+	sme	teakstaoahppa	n	nob	tekstlære	n-m
+	sme	deakstaoahppa	n	nob	tekstlære	n-m
 	sme	vearri	n	nob	urett	n-m
 	sme	vearrivuohta	n	nob	urett	n-m
 	sme	vearroboahtu	n	nob	skatteinntekt	n-m
@@ -24286,6 +24292,10 @@ RL	sme	vuola	n	nob	øl	n-nt
 	sme	álgosáhkavuorru	n	nob	toppledersamling	n
 	sme	álgosátni	n	nob	forord	n-nt
 	sme	álgoteaksta	n	nob	innledningstekst	n$n-m
+	sme	fágateaksta	n	nob	fagtekst	n-m
+	sme	fágadeaksta	n	nob	fagtekst	n-m
+	sme	áššeteaksta	n	nob	fagtekst	n-m
+	sme	áššedeaksta	n	nob	fagtekst	n-m
 	sme	álgoveahkkekursa	n	nob	førstehjelpskurs	n-nt
 	sme	álgoveahkki	n	nob	førstehjelp	n
 	sme	álgovuolgga	n	nob	opprinnelse	n-m
@@ -31085,7 +31095,7 @@ RL	sme	vuola	n	nob	øl	n-nt
 	sme	máksinkontu	n	nob	oppgjørskonto	n-m
 	sme	sarretmeastu	n	nob	blåbærsyltetøy	n-nt
 	sme	goastu	n	nob	gjengjeld	$n-m
-	sme	bistu	n	nob	varighet	$n-m
+	sme	bistu	n	nob	varighet	n-m$
 	sme	johttisápmelaččaidlistu	n	nob	flyttsameliste	n
 	sme	albmáidlistu	n	nob	mannsliste	n
 	sme	lullisámelistu	n	nob	sørsameliste	n
@@ -31719,7 +31729,6 @@ RL	sme	Hu	np	nob	Hu	np
 	sme	Ahvenlampi	np	nob	Ahvenlampi	np$np-top
 	sme	Ahvenniemi	np	nob	Ahvenniemi	np$np-top
 	sme	Ahvonen	np	nob	Ahvonen	np
-	sme	Ai	np	nob	Ai	np$np-top
 	sme	Aias	np	nob	Aias	np$np-top
 	sme	Aid	np	nob	Aid	np
 	sme	Aida	np	nob	Aida	np$np-f
@@ -36527,6 +36536,34 @@ RL	sme	Hu	np	nob	Hu	np
 	sme	Sámi logut muitalit 9	np	nob	Samiske tall forteller 9	np
 	sme	Sámi logut muitalit 10	np	nob	Samiske tall forteller 10	np
 	sme	sámi statistihkka fágaseminára	n	nob	fagseminar for samisk statistikk	n-nt
+	sme	Siiddastallan ja boazodoalu hálddašeapmi	np	nob	Siidautøvelse og forvaltning av reindrift	np
+	sme	Boazodoallofága metoda	np	nob	Reindriftsfagets metode	np
+	sme	Árbevirolaš duoji bajásdoallan ja ealáskahttin	np	nob	Bevaring og revitalisering av tradisjonell duodji	np
+	sme	Plánen, hutkáivuohta ja duddjon	np	nob	Planlegging, kreativitet ja håndverk	np
+	sme	Duodje- ja digitálamuitalusat	np	nob	Duodji og digitale fortellinger	np
+	sme	Duddjoma ja hábmema bargovuogit	np	nob	Arbeidsmetoder innenfor håndverk og design	np
+	sme	Duddjon ja sámegiella	np	nob	Duodji og samisk	np
+	sme	Sosiála mediat	np	nob	Sosiale medier	np
+	sme	Govven- ja filbmenoahppu	np	nob	Opplæring i fotografering og filming	np
+	sme	Journalistihka giellagáhtten	np	nob	Språkrøkt innafor journalistikk	np
+	sme	Sámi journalistihka bachelorgráda	np	nob	Bachelorgrad i samisk journalistikk	np
+	sme	Matematihkka 2 joatkkaoahppun 5.-10. ceahki vuođđoskuvlaoahpaheddjiide	np	nob	Matematikk 2 som videreutdanning for grunnkolelærere i 5.-10. klasse	np
+	sme	Praktihkalaš pedagogalaš oahppu	np	nob	Praktisk pedagogisk utdanning	np
+	sme	Sámi mánáidgárdeoahpaheaddjeoahppu bargosajis	np	nob	Samisk førskolelæreropplæring på arbeidsplassen	np
+	sme	Diehtu, dieđalaš bargu ja dutkanmetodat	np	nob	Data, vitenskapelig arbeid og forskningsmetoder	np
+	sme	Giellagáhtten ja deakstaoahppa	np	nob	Språkrøkt og tekstlære	np
+	sme	Sámegiella ja sámi girjjálašvuohta - dutkanhistorjá	np	nob	Samisk språk og samisk litteraturs forkningshistorie	np
+	sme	Sámi vuođđoskuvlaoahpaheaddjeoahpu 1.-7. ceahki mastergráda	np	nob	Mastergrad i grunnskolelærerutdanning for 1.-7. klasse	np
+	sme	Sámi vuođđoskuvlaoahpaheaddjeoahpu 5.-10. ceahki mastergráda	np	nob	Mastergrad i grunnskolelærerutdanning for 5.-10. klasse	np
+	sme	Suomagiella 2 joatkkaoahppun 5.-10. ceahki vuođđoskuvlaoahpaheddjiide	np	nob	Finsk 2 som videreutdanning for grunnskolelærere i 5.-10. klasse	np
+	sme	Davvisámegiela morfologiija ja cealkkaoahppa	np	nob	Nordsamisk morfologi og syntaks	np
+	sme	Davvisámi fonetihkka, fonologiija ja čállinvuogit	np	nob	Nordsamisk fonetikk, fonologi og ortografier	np
+	sme	Sámi girjjálašvuođa vuođđokursa	np	nob	Grunnkurs i samisk litteratur	np
+	sme	Gielladieđa ja fonetihkka	np	nob	Språkvitenskap og fonetikk	np
+	sme	Etihkka, eamiálbmotdiehtu ja -metodologiija	np	nob	Etikk, urfolkskunnskap og -metologi	np
+	sme	Akademalaš čállin sámegillii	np	nob	Akademisk skriving på samisk	np
+	sme	Sámegiella joatkkaoahppun 1.-7. ceahki vuođđoskuvlaoahpaheddjiide	np	nob	Videreutdanning i samisk for grunnskolelærere i 1.-7. klasse	np
+	sme	Sámegiella joatkkaoahppun 1.-7. ceahki vuođđoskuvlaoahpaheddjiide: Ovddidit vuođđogálggaid lohkamis, čállimis ja njálmmálaš giellageavaheamis	np	nob	Videreutdanning i samisk for grunnskolelærere i 1.-7. klasse: Fremming av grunnferdigheter i lesing, skriving og muntlig språkbruk	np
 	sme	JUO Master in Sámi Journalism from an Indigenous Perspective	np	nob	JUO Master in Sámi Journalism from an Indigenous Perspective	np
 	sme	Sámi journalistihka mastergráda álgoálbmot perspektiivvas	np	nob	Mastergrad i samisk journalistikk med urfolksperspektiv	np
 	sme	Eatnamiid ja guođoheami máhttu	np	nob	Kunnskap om landskap og beiting	np
@@ -74845,6 +74882,7 @@ LR	sme	álohii	adv	nob	alltid	adv
 	sme	jua	ij	nob	jada	ij
 	sme	ojá	ij	nob	åja	ij
 	sme	justte	ij	nob	akkurat	ij
+	sme	juo	ij	nob	ja	ij
 	sme	ammal	pcle	nob	sikkert	adv
 	sme	aitto	pcle	nob	nettopp	adv
 	sme	almma	pcle	nob	ikke sant	adv

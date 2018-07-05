@@ -109,11 +109,11 @@
 	tur	bir	det-ind$det	aze	bir	det$
 	tur	her	det$det-dem	aze	hər	det
 	tur	tek	det$det-ind	aze	tək	$det
-	tur	hiçbir	det$det-qnt	aze	heç bir	det
+	tur	hiçbir	det-qnt$det	aze	heç bir	det
 	tur	herhangi bir	det$det-ind	aze	hər hansı bir	det
 	tur	diğer	det$det-ind	aze	digər	$det
 	tur	bütün	det-qnt$det	aze	bütün	$det
-	tur	birçok	det$det-qnt	aze	bir çox	det
+	tur	birçok	det-qnt$det	aze	bir çox	det
 	tur	tüm	det$det-qnt$	aze	bütün	$det
 	tur	bu kadar	det$det-qnt	aze	bu kadər	det
 	tur	bir miktar	det$det-qnt	aze	bir miqdar	det
@@ -499,7 +499,7 @@
 	tur	çatal	n$	aze	çəngəl	
 	tur	çay	n$	aze	çay	
 	tur	çayır	n$	aze	çayır	
-	tur	çaylak	$n	aze	çalağan	
+	tur	çaylak	n$	aze	çalağan	
 	tur	cazibe	n$	aze	cazibə	
 	tur	cehalet	n$	aze	cəhalət	
 	tur	cehennem	n$	aze	cəhənnəm	
@@ -1922,7 +1922,7 @@
 	tur	pay	n$	aze	pay	
 	tur	pazarlık	n$	aze	bazarlıg	
 	tur	peder	n$	aze	ata	
-	tur	pençe		aze	pəncə	
+	tur	pençe	$n	aze	pəncə	
 	tur	pepe		aze	kəkə	
 	tur	perakende	$n	aze	pərəkəndə	
 	tur	perde	n$	aze	pərdə	
@@ -2638,7 +2638,7 @@
 	tur	yemek	n$	aze	yemək	
 	tur	yem	n$	aze	yem	
 	tur	yemin	n$	aze	and	
-	tur	yengeç	$n	aze	xarçəng	
+	tur	yengeç	n$	aze	xarçəng	
 	tur	yeni	adj$	aze	yeni	$adv
 	tur	yenge	n$	aze	yenge	
 	tur	yen	v-tv$$v$v-tv-pass	aze	paltar	
@@ -2852,7 +2852,7 @@
 	tur	bütünleşme		aze	inteqrasiya	
 	tur	girişim	n$	aze	cəhd	
 	tur	bulunma	$n	aze	olma	
-	tur	kalma	$n	aze	qalma	
+	tur	kalma	n$	aze	qalma	
 	tur	personel	n$	aze	işçilər	
 	tur	gündem	n$	aze	gündəm	
 	tur	tutuklama	$n	aze	həbs	
@@ -3959,7 +3959,7 @@
 	tur	harika	adj$	aze	xariqə	
 	tur	hantal	adj$	aze	ağır	$adv
 	tur	hafif	adj$	aze	xəfif	
-	tur	biraz	det$	aze	bir az	$adv
+	tur	biraz	adv$	aze	bir az	$adv
 	tur	talihsiz	adj$	aze	nəhs	
 	tur	seramik	$n	aze	keramika	
 	tur	özgün	adj$	aze	özgün	
@@ -5877,7 +5877,7 @@
 	tur	Memnun	np	aze	Memnun	np
 	tur	Fırat	np-top$np	aze	Fırat	np
 	tur	Edirne	np$np-top	aze	Edirne	np
-	tur	Binali	np$np-cog-mf	aze	Binali	np
+	tur	Binali	np-ant-m$np	aze	Binali	np
 	tur	Asker	np	aze	Asker	np
 	tur	Taliban	np$np-org	aze	Taliban	np
 	tur	Şemdinli	np	aze	Şemdinli	np
@@ -7464,7 +7464,7 @@
 	tur	neredeyse	adv	aze	az qala	adv
 	tur	nerdeyse	adv	aze	az qala	adv
 	tur	zaten	adv	aze	onsuz da	adv
-	tur	biraz	adv	aze	bir az	$adv
+	tur	biraz	adv$	aze	bir az	$adv
 	tur	yaşar	v	aze	otur	v
 	tur	endişelen	v-tv$v	aze	endişelen	v
 	tur	otur	v-iv$v	aze	otur	v
@@ -7584,7 +7584,7 @@
 	tur	küs	v-iv$v	aze	küs	v
 	tur	mele	v	aze	mələ	v
 	tur	miyavla	v-iv$v	aze	miyovulda	v
-	tur	otla	v$v-iv	aze	otla	v
+	tur	otla	v-iv$v	aze	otla	v
 	tur	ovala	v$v-tv	aze	ovxala	v
 	tur	oyla	v-tv$v	aze	səsə qoy	v
 	tur	oyna	v-tv$v	aze	oyna	v

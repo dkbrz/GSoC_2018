@@ -135,7 +135,7 @@
 	fin	elinkeino	n	fkv	elinkeino	n
 	fin	elo	n	fkv	elo	n
 	fin	elukka	n	fkv	elukka	n
-	fin	eläin	n$n-sg	fkv	elläin	n
+	fin	eläin	n$n-ND	fkv	elläin	n
 	fin	elämä	n	fkv	elämä	n
 	fin	elämäntyö	n	fkv	elämäntyö	n
 	fin	emä	n	fkv	emä	n
@@ -341,8 +341,8 @@
 	fin	ihmisjoukko	n	fkv	ihmisjoukko	n
 	fin	ihmisyys	n	fkv	ihmisyys	n
 	fin	iho	n	fkv	iho	n
-	fin	ikkuna	n$n-sg	fkv	ikkuna	n
-	fin	ikkuna	n$n-sg	fkv	klasi	n
+	fin	ikkuna	n$n-ND	fkv	ikkuna	n
+	fin	ikkuna	n$n-ND	fkv	klasi	n
 	fin	ikuisuus	n	fkv	ikuisuus	n
 	fin	ikä	n	fkv	ikä	n
 	fin	ikäihminen	n	fkv	ikäihminen	n
@@ -1705,7 +1705,7 @@
 	fin	pyörä	n	fkv	pyörä	n
 	fin	päivä	n$n-ND	fkv	päivä	n
 	fin	pännä	n	fkv	pännä	n
-	fin	pää	n$n-sg-nom$n-sg	fkv	pää	n
+	fin	pää	n$n-sg-nom	fkv	pää	n
 	fin	pääkallo	n	fkv	pääkallo	n
 	fin	pääkaupunki	n	fkv	pääkaupunki	n
 	fin	pääkipu	n	fkv	pääkipu	n
@@ -1722,7 +1722,7 @@
 	fin	pölkky	n	fkv	pölkky	n
 	fin	pöllö	n	fkv	pöllö	n
 	fin	pöly	n	fkv	pöly	n
-	fin	pöytä	n$n-sg	fkv	pöytä	n
+	fin	pöytä	n$n-ND	fkv	pöytä	n
 	fin	pöytäliina	n	fkv	pöytäliina	n
 	fin	raaja	n	fkv	raaja	n
 	fin	raajarikko	n	fkv	raajarikko	n
@@ -2098,7 +2098,7 @@
 	fin	talitiainen	n	fkv	talitiainen	n
 	fin	talja	n	fkv	talja	n
 	fin	talli	n	fkv	talli	n
-	fin	talo	n$n-sg	fkv	talo	n
+	fin	talo	n$n-ND	fkv	talo	n
 	fin	talonpoika	n	fkv	talonpoika	n
 	fin	talvi	n$n-ND	fkv	talvi	n
 	fin	tamma	n	fkv	tamma	n
@@ -2373,7 +2373,7 @@
 	fin	vasta	n	fkv	vasta	n
 	fin	vastaranta	n	fkv	vastaranta	n
 	fin	vastatuuli	n	fkv	vastatuuli	n
-	fin	vastaus	n$n-sg	fkv	vastaus	n
+	fin	vastaus	n	fkv	vastaus	n
 	fin	vastavirta	n	fkv	vastavirta	n
 	fin	vastus	n	fkv	vastus	n
 	fin	vatti	n	fkv	vatti	n
@@ -2466,8 +2466,8 @@
 	fin	vuono	n	fkv	vuono	n
 	fin	vuoro	n	fkv	vuoro	n
 	fin	vuorokausi	n	fkv	vuorokausi	n
-	fin	vuosi	n$n-sg	fkv	vuo	n
-	fin	vuosi	n$n-sg	fkv	vuosi	n
+	fin	vuosi	n$n-ND	fkv	vuo	n
+	fin	vuosi	n$n-ND	fkv	vuosi	n
 	fin	vuosikymmen	n	fkv	vuosikymmen	n
 	fin	vuosiluku	n	fkv	vuosiluku	n
 	fin	vuosipalkka	n	fkv	vuosipalkka	n
@@ -2520,7 +2520,7 @@
 	fin	äyri	n	fkv	äyri	n
 	fin	äänestäjä	n$n-pl	fkv	äänestäjä	n
 	fin	äänettömyys	n	fkv	äänettömyys	n
-	fin	ääni	n$n-sg	fkv	ääni	n
+	fin	ääni	n$n-ND	fkv	ääni	n
 	fin	öljy	n	fkv	öljy	n
 	fin	öljykaivo	n	fkv	öljykaivo	n
 	fin	öljykenttä	n	fkv	öljykenttä	n
@@ -4373,7 +4373,7 @@
 	fin	he	prn$prn-pers-p3$prn-pers-p3-pl$prn-pers$prn-pers-p3-pl-gen	fkv	het	prn
 	fin	hän	prn$prn-pers-p3$prn-pers-p3-sg$prn-pers-p3-sg-gen$prn-pers	fkv	hän	prn
 	fin	itse	prn$prn-ref$prn-ref-pl	fkv	itte	prn
-	fin	me	prn$prn-pers-p1$prn-pers-p1-pl$prn-pers$prn-pers-p1-pl-gen	fkv	met	prn
+	fin	me	prn$prn-pers-p1-pl$prn-pers-p1$prn-pers$prn-pers-p1-pl-gen	fkv	met	prn
 	fin	miksi	prn$prn-itg	fkv	miksi	prn
 	fin	minä	prn$prn-pers-p1$prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-gen	fkv	mie	prn
 	fin	mitään	prn	fkv	mithään	prn

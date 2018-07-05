@@ -563,7 +563,7 @@
 	fra	candidat	n$n-GD	nld	verkiezingskandidaat	n
 	fra	canon	n-m$n$n-m-ND	nld	canon	n$n-m
 	fra	capacité	n-f$n$n-f-ND	nld	capaciteit	n-f$n
-	fra	capitaine	n$n-mf$n-mf-ND	nld	kapitein	n$n-m
+	fra	capitaine	n-mf$n$n-mf-ND	nld	kapitein	n$n-m
 	fra	tête	n-f$n$n-f-ND	nld	hoofd	n-nt$n
 	fra	capitale	n-f$n$n-f-ND	nld	hoofdstad	n-f$n
 	fra	capitalisme	n$n-m$n-m-ND	nld	kapitalisme	n-nt$n
@@ -980,7 +980,7 @@
 	fra	industrie	n$n-f$n-f-ND	nld	industrie	n-f$n
 	fra	indépendance	n$n-f$n-f-ND	nld	onafhankelijkheid	n-f$n
 	fra	infini	n$n-m$n-m-ND	nld	oneindig	n
-	fra	inflammation	n-f$n	nld	ontsteking	n$n-f
+	fra	inflammation	n$n-f	nld	ontsteking	n$n-f
 	fra	inflation	n$n-f$n-f-ND	nld	inflatie	n-f$n
 	fra	information	n$n-f$n-f-ND	nld	informatie	n$n-f
 	fra	ingénieur	n-mf$n$n-mf-ND	nld	ingenieur	n$n-m
@@ -1073,7 +1073,7 @@
 	fra	lèvre	n-f$n$n-f-ND	nld	lip	n$n-m
 	fra	légende	n$n-f$n-f-ND	nld	legende	n-f$n
 	fra	législation	n$n-f$n-f-ND	nld	wet	n$n-f
-	fra	m	n$n-m$n-acr-m	nld	m	n$n-acr-m
+	fra	m	n$n-m$n-m-sp	nld	m	n$n-acr-m
 	fra	machine	n-f$n$n-f-ND	nld	machine	n$n-f
 	fra	machine	n-f$n$n-f-ND	nld	machine	n$n-f
 	fra	magie	n$n-f$n-f-ND	nld	magie	n$n-f
@@ -1093,9 +1093,9 @@
 	fra	manie	n$n-f$n-f-ND	nld	manie	n
 	fra	manifestation	n-f$n$n-f-ND	nld	betoging	n$n-f
 	fra	mannequin	n$n-m	nld	model	n$n-nt
-	fra	maquillage	n$n-m	nld	visagie	n
+	fra	maquillage	n-m$n	nld	visagie	n
 	fra	marbre	n$n-m$n-m-ND	nld	marmer	n$n-nt
-	fra	marchandise	n$n-f$n-f-ND	nld	commodities	n
+	fra	marchandise	n-f$n$n-f-ND	nld	commodities	n
 	fra	marché	n$n-m$n-m-ND	nld	markt	n$n-mf
 	fra	mardi	n-m-ND$n-m$n	nld	dinsdag	n$n-m
 	fra	mari	n$n-m$n-m-ND	nld	mari	n
@@ -1108,7 +1108,7 @@
 	fra	matin	n-m$n$n-m-ND	nld	morgen	n$n-m
 	fra	matière	n$n-f$n-f-ND	nld	materie	n$n-f
 	fra	menace	n$n-f$n-f-ND	nld	bedreiging	n-f$n
-	fra	m	n$n-m$n-acr-m	nld	m	n$n-acr-m
+	fra	m	n$n-m$n-m-sp	nld	m	n$n-acr-m
 	fra	mensonge	n-m$n$n-m-ND	nld	leugen	n$n-mf
 	fra	mer	n-f$n	nld	zee	n-m$n
 	fra	mercredi	n-m-sg$n-m$n	nld	woensdag	n$n-m
@@ -1139,7 +1139,7 @@
 	fra	monde	n-m$n$n-m-ND	nld	wereld	n-mf$n
 	fra	monnaie	n$n-f$n-f-ND	nld	geld	n$n-nt
 	fra	monopole	n$n-m	nld	monopolie	n-nt$n
-	fra	m	n$n-m$n-acr-m	nld	m	n$n-acr-m
+	fra	m	n$n-m$n-m-sp	nld	m	n$n-acr-m
 	fra	montage	n$n-m$n-m-ND	nld	montage 	n
 	fra	montagne	n-f$n$n-f-ND	nld	berg 	n
 	fra	monument	n$n-m$n-m-ND	nld	monument	n-nt$n
@@ -1250,7 +1250,7 @@
 	fra	paradis	n-m-sp$n-m$n	nld	paradijs	n-nt$n
 	fra	parallèle	n-f$n	nld	parallellie	n
 	fra	parc	n$n-m$n-m-ND	nld	park	n-nt$n
-	fra	parfum	n-m$n$n-m-ND	nld	parfum	n-nt$n
+	fra	parfum	n$n-m$n-m-ND	nld	parfum	n-nt$n
 	fra	parlement	n$n-m$n-m-ND	nld	parlement	n$n-nt
 	fra	parlementaire	n-mf$n$n-mf-ND	nld	parlement	n$n-nt
 	fra	paroisse	n-f$n$n-f-ND	nld	kerspel	n
@@ -1541,7 +1541,7 @@
 	fra	sujet	n$n-m$n-m-ND	nld	onderwerp	n-nt$n
 	fra	supplice	n-m$n	nld	martelen	n
 	fra	surréalisme	n$n-m	nld	surrealisme	n-nt$n
-	fra	symbole	n-m$n$n-m-ND	nld	symbool	n-nt$n
+	fra	symbole	n$n-m$n-m-ND	nld	symbool	n-nt$n
 	fra	symptôme	n$n-m$n-m-ND	nld	symptoom	n$n-nt
 	fra	syndicat	n$n-m$n-m-ND	nld	vakbond	n-m$n
 	fra	système	n-m$n$n-m-ND	nld	systeem	n-nt$n

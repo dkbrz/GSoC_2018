@@ -5,10 +5,10 @@ LR	fin	tietenkään	adv	olo	hai	adv
 LR	fin	yhä	adv	olo		$sent
 LR	fin	pa	foc	olo		$sent
 	fin	aika	n$n-ND	olo	aigu	n
-	fin	eläin	n$n-sg	olo	elätti	n
+	fin	eläin	n$n-ND	olo	elätti	n
 	fin	hyvä	n$n-ND	olo	hyvä	n
 	fin	ihminen	n$n-pl	olo	rahvas	n
-	fin	ikkuna	n$n-sg	olo	ikkun	n
+	fin	ikkuna	n$n-ND	olo	ikkun	n
 	fin	ikä	n	olo	igä	n
 	fin	kisa	n	olo	kiža	n
 	fin	kissa	n$n-ND	olo	kaži	n
@@ -29,8 +29,8 @@ LR	fin	pa	foc	olo		$sent
 	fin	poika	n$n-ND	olo	brihačču	n
 	fin	puu	n$n-ND	olo	puu	n
 	fin	puutarha	n$n-ND	olo	sadu	n
-	fin	pää	n$n-sg-nom$n-sg	olo	piä	n
-	fin	pöytä	n$n-sg	olo	stola	n
+	fin	pää	n$n-sg-nom	olo	piä	n
+	fin	pöytä	n$n-ND	olo	stola	n
 	fin	rahvas	n	olo	rahvas	n
 	fin	sana	n$n-ND	olo	sana	n
 	fin	satu	n	olo	sadu	n
@@ -41,16 +41,16 @@ LR	fin	pa	foc	olo		$sent
 	fin	sisko	n	olo	sizär	n
 	fin	sää	n	olo	siä	n
 	fin	tahto	n	olo	tahto	n
-	fin	talo	n$n-sg	olo	taloi	n
+	fin	talo	n$n-ND	olo	taloi	n
 	fin	tuoli	n$n-ND	olo	stuulu	n
 	fin	tyttö	n$n-ND	olo	tyttö	n
-	fin	vastaus	n$n-sg	olo	vastavus	n
+	fin	vastaus	n	olo	vastavus	n
 	fin	vesi	n$n-ND	olo	vezi	n
 	fin	vilu	n	olo	vilu	n
 	fin	voi	n$n-ND	olo	voi	n
-	fin	vuosi	n$n-sg	olo	vuozi	n
+	fin	vuosi	n$n-ND	olo	vuozi	n
 	fin	äiti	n	olo	muamu	n
-	fin	ääni	n$n-sg	olo	iäni	n
+	fin	ääni	n$n-ND	olo	iäni	n
 	fin	kettu	n$n-ND	olo	reboi	n
 	fin	maa	n$n-ND	olo	mua	n
 	fin	pesä	n$n-ND	olo	pezä	n

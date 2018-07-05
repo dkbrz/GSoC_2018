@@ -54,12 +54,12 @@ RL	cat	el	det-def-GD$det-def-GD-ND	cos	u	det-def-mf$det-def-mf-sp
 	cat	set	num$$num-mf-sp	cos	sette	num
 	cat	vuit	num$$num-mf-sp	cos	ottu	num
 	cat	nou	num$num-mf-sp	cos	nove	num
-	cat	aigua	n$n-f	cos	acqua	n-f
-	cat	ciència	n$n-f	cos	scienza	n-f
+	cat	aigua	n-f$n	cos	acqua	n-f
+	cat	ciència	n-f$n	cos	scienza	n-f
 	cat	cosmologia	n-f$n	cos	cosmolugia	n-f
 	cat	traducció	n$n-f	cos	traduzzione	n-f
 	cat	relació	n-f$n	cos	relazione	n-f
-	cat	tradició	n$n-f	cos	tradizione	n-f
+	cat	tradició	n-f$n	cos	tradizione	n-f
 	cat	ciutat	n-f$n$n-f-sg	cos	cità	n-f
 	cat	animal	n-m$n$	cos	animale	n-m
 	cat	objecte	n-m$n	cos	oggettu	n-m
@@ -71,24 +71,24 @@ RL	cat	el	det-def-GD$det-def-GD-ND	cos	u	det-def-mf$det-def-mf-sp
 	cat	força	n-f$n	cos	forza	n-f
 	cat	àrea	n-f$n	cos	area	n-f
 	cat	paraula	n-f$n	cos	parola	n-f
-	cat	distribució	n$n-f	cos	distribuzione	n-f
+	cat	distribució	n-f$n	cos	distribuzione	n-f
 	cat	calor	n-f$n	cos	calore	n-f
 	cat	cap	n-m$n$n-m-pl	cos	capu	n-m
 	cat	cap	n-m$n$n-m-pl	cos	testa	n-f
 	cat	casa	n-f$n	cos	casa	n-f
 	cat	superfície	n-f$n	cos	superficia	n-f
-	cat	comunitat	n$n-f$n-f-sg	cos	cumunità	n-f
+	cat	comunitat	n-f$n$n-f-sg	cos	cumunità	n-f
 	cat	gat	n$n-m	cos	ghjattu	n-m
 	cat	gent	n-f-sg$n-f$n	cos	ghjente	n-f
 	cat	germà	n-m$n-m-pl	cos	fratéllu	n-m
 	cat	germà	n$n-f	cos	surella	n-f
 	cat	gos	n$n-m	cos	cane	n-m
-	cat	hora	n$n-f	cos	ora	n-f
+	cat	hora	n-f$n	cos	ora	n-f
 	cat	terra	n-f$n	cos	terra	n-f
 	cat	jardí	n-m$n	cos	ortu	n-m
 	cat	joc	n-m$n	cos	ghjocu	n-m
 	cat	mà	n-f$n	cos	manu	n-f
-	cat	mare	n$n-f	cos	madre	n-f
+	cat	mare	n-f$n	cos	madre	n-f
 	cat	ocell	n-m$n	cos	acellu	n-m
 	cat	resposta	n-f$n	cos	risposta	n-f
 	cat	filosofia	n-f$n	cos	filosofia	n-f
@@ -99,7 +99,7 @@ RL	cat	el	det-def-GD$det-def-GD-ND	cos	u	det-def-mf$det-def-mf-sp
 	cat	pregunta	n$n-f	cos	dumanda	n-f
 	cat	matèria	n-f$n	cos	materia	n-f
 	cat	energia	n$n-f	cos	energia	n-f
-	cat	setmana	n$n-f	cos	sittimana	n-f
+	cat	setmana	n-f$n	cos	sittimana	n-f
 	cat	regió	n-f$n	cos	regione	n-f
 	cat	informació	n-f$n	cos	infurmazione	n-f
 	cat	ull	n$n-m	cos	ochju	n-m
@@ -108,7 +108,7 @@ RL	cat	el	det-def-GD$det-def-GD-ND	cos	u	det-def-mf$det-def-mf-sp
 	cat	home	n-m$n	cos	omu	n-m
 	cat	dona	n-f$n	cos	donna	n-f
 	cat	escriptura	n-f$n	cos	scrittura	n-f
-	cat	llengua	n$n-f	cos	lingua	n-f
+	cat	llengua	n-f$n	cos	lingua	n-f
 	cat	disposició	n-f$n$n-f-sg	cos	dispusizione	n-f
 	cat	investigació	n-f$n	cos	ricerca	n-f
 	cat	manifestació	n-f$n	cos	manifestazione	n-f
@@ -125,46 +125,46 @@ RL	cat	el	det-def-GD$det-def-GD-ND	cos	u	det-def-mf$det-def-mf-sp
 	cat	dia	n-m$n	cos	ghjornu	n-m
 	cat	aglomeració	n-f$n	cos	agglumerazione	n-f
 	cat	aparició	n-f$n	cos	apparizione	n-f
-	cat	aplicació	n$n-f	cos	applicazione	n-f
+	cat	aplicació	n-f$n	cos	applicazione	n-f
 	cat	acció	n-f$n	cos	azzione	n-f
-	cat	celebració	n$n-f	cos	celebrazione	n-f
+	cat	celebració	n-f$n	cos	celebrazione	n-f
 	cat	civilització	n-f$n$n-f-sg	cos	civilisazione	n-f
 	cat	classificació	n-f$n	cos	classificazione	n-f
-	cat	coalició	n$n-f	cos	coalizione	n-f
-	cat	constitució	n$n-f	cos	costituzione	n-f
-	cat	creació	n$n-f	cos	creazione	n-f
+	cat	coalició	n-f$n	cos	coalizione	n-f
+	cat	constitució	n-f$n	cos	costituzione	n-f
+	cat	creació	n-f$n	cos	creazione	n-f
 	cat	competició	n-f$n	cos	cumpetizione	n-f
-	cat	comunicació	n$n-f	cos	cumunicazione	n-f
+	cat	comunicació	n-f$n	cos	cumunicazione	n-f
 	cat	constel·lació	n-f$n	cos	custellazione	n-f
-	cat	constitució	n$n-f	cos	custituzione	n-f
+	cat	constitució	n-f$n	cos	custituzione	n-f
 	cat	construcció	n-f$n	cos	custruzzione	n-f
 	cat	declinació	n-f$n	cos	declinazione	n-f
-	cat	definició	n$n-f	cos	definizione	n-f
-	cat	direcció	n$n-f	cos	direzzione	n-f
-	cat	distinció	n$n-f	cos	distinzione	n-f
+	cat	definició	n-f$n	cos	definizione	n-f
+	cat	direcció	n-f$n	cos	direzzione	n-f
+	cat	distinció	n-f$n	cos	distinzione	n-f
 	cat	educació	n-f$n	cos	educazione	n-f
 	cat	equació	n-f$n	cos	equazione	n-f
 	cat	extinció	n-f$n	cos	estinzione	n-f
-	cat	evolució	n$n-f	cos	evuluzione	n-f
-	cat	fundació	n$n-f	cos	fundazione	n-f
+	cat	evolució	n-f$n	cos	evuluzione	n-f
+	cat	fundació	n-f$n	cos	fundazione	n-f
 	cat	funció	n-f$n	cos	funzione	n-f
 	cat	formació	n-f$n	cos	furmazione	n-f
 	cat	informació	n-f$n	cos	infurmazioni	n-f
 	cat	interpretació	n-f$n	cos	interpretazione	n-f
-	cat	navegació	n$n-f	cos	navigazione	n-f
+	cat	navegació	n-f$n	cos	navigazione	n-f
 	cat	nació	n-f$n	cos	nazione	n-f
 	cat	ocupació	n-f$n	cos	occupazione	n-f
-	cat	oposició	n$n-f	cos	opposizione	n-f
-	cat	observació	n$n-f	cos	osservazione	n-f
+	cat	oposició	n-f$n	cos	opposizione	n-f
+	cat	observació	n-f$n	cos	osservazione	n-f
 	cat	població	n$n-f	cos	populazione	n-f
 	cat	posició	n-f$n	cos	posizione	n-f
 	cat	producció	n-f$n	cos	produzzione	n-f
-	cat	protecció	n$n-f	cos	prutezzione	n-f
+	cat	protecció	n-f$n	cos	prutezzione	n-f
 	cat	posició	n-f$n	cos	pusizione	n-f
 	cat	relació	n-f$n	cos	relazione	n-f
 	cat	revolució	n-f$n	cos	rivoluzione	n-f
 	cat	situació	n-f$n	cos	situazione	n-f
-	cat	solució	n$n-f	cos	soluzione	n-f
+	cat	solució	n-f$n	cos	soluzione	n-f
 	cat	expedició	n-f$n	cos	spedizione	n-f
 	cat	temptació	n-f$n	cos	tentazione	n-f
 	cat	transició	n-f$n	cos	transizione	n-f

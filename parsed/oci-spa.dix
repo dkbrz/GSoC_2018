@@ -80,18 +80,18 @@ LR	oci	d'aute	adj	spa	otro	adj$adj-ind-GD$adj-ind$adj-ind-GD-pl
 LR	oci	d'autre	adj	spa	otro	adj$adj-ind-GD$adj-ind$adj-ind-GD-pl
 RL	oci	aute	adj$adj-ind-GD-ND	spa	demás	adj$adj-ind-mf-sp$adj-mf-sp
 RL	oci	autre	adj$adj-ind$adj-ind-GD-ND	spa	demás	adj$adj-ind-mf-sp$adj-mf-sp
-	oci	mieu	adj$adj-pos	spa	mío	adj-pos$adj$adj-pos-m-sg$adj-pos-m
+	oci	mieu	adj	spa	mío	adj-pos$adj$adj-pos-m-sg$adj-pos-m
 	oci	mèn	adj	spa	mío	adj-pos$adj$adj-pos-m-sg$adj-pos-m
 	oci	nòste	adj	spa	nuestro	adj-pos$adj$adj-pos-m-sg
-	oci	nòstre	adj$adj-pos	spa	nuestro	adj-pos$adj$adj-pos-m-sg
-	oci	sieu	adj$adj-pos	spa	suyo	adj-pos$adj$adj-pos-m$adj-pos-m-sg
+	oci	nòstre	adj	spa	nuestro	adj-pos$adj$adj-pos-m-sg
+	oci	sieu	adj	spa	suyo	adj-pos$adj$adj-pos-m$adj-pos-m-sg
 	oci	sòn	adj	spa	suyo	adj-pos$adj$adj-pos-m$adj-pos-m-sg
-	oci	tieu	adj$adj-pos	spa	tuyo	adj$adj-pos$adj-pos-m$adj-pos-m-sg
+	oci	tieu	adj	spa	tuyo	adj$adj-pos$adj-pos-m$adj-pos-m-sg
 	oci	tòn	adj	spa	tuyo	adj$adj-pos$adj-pos-m$adj-pos-m-sg
 LR	oci	un aute	adj	spa	otro	adj$adj-ind-GD$adj-ind$adj-ind-GD-pl
 LR	oci	un autre	adj	spa	otro	adj$adj-ind-GD$adj-ind$adj-ind-GD-pl
 	oci	vòste	adj	spa	vuestro	adj-pos$adj$adj-pos-m-sg
-	oci	vòstre	adj$adj-pos	spa	vuestro	adj-pos$adj$adj-pos-m-sg
+	oci	vòstre	adj	spa	vuestro	adj-pos$adj$adj-pos-m-sg
 LR	oci	donc	cnjadv	spa	pues	cnjadv
 	oci	doncas	cnjadv	spa	por lo tanto	cnjadv
 LR	oci	per tant	cnjadv	spa	por lo tanto	cnjadv
@@ -540,11 +540,11 @@ RL	oci	açò	prn	spa	eso	prn$prn-tn-nt$prn-tn
 LR	oci	bèth un	prn	spa	alguno	prn$prn-tn-m-pl$prn-tn$prn-tn-m
 	oci	cadun	prn$prn-tn-m	spa	cada uno	prn$prn-tn-m$prn-tn-m-sg
 RL	oci	cadun	prn$prn-tn-m	spa	cada cual	prn-tn-mf$prn-tn-mf-sg
-LR	oci	cap	prn-tn-mf-sg$prn	spa	ninguno	prn-tn$prn$prn-tn-GD-sg$prn-tn-GD
-RL	oci	cap	prn-tn-mf-sg$prn	spa	ninguno	prn-tn-f-pl$prn-tn-f
-RL	oci	cap	prn-tn-mf-sg$prn	spa	ninguno	prn-tn-f-sg
-RL	oci	cap	prn-tn-mf-sg$prn	spa	ninguno	prn-tn-m-pl$prn-tn-m
-RL	oci	cap	prn-tn-mf-sg$prn	spa	ninguno	prn-tn-m-sg
+LR	oci	cap	prn-tn-mf-sg$prn$prn-tn	spa	ninguno	prn-tn$prn$prn-tn-GD-sg$prn-tn-GD
+RL	oci	cap	prn-tn-mf-sg$prn$prn-tn	spa	ninguno	prn-tn-f-pl$prn-tn-f
+RL	oci	cap	prn-tn-mf-sg$prn$prn-tn	spa	ninguno	prn-tn-f-sg
+RL	oci	cap	prn-tn-mf-sg$prn$prn-tn	spa	ninguno	prn-tn-m-pl$prn-tn-m
+RL	oci	cap	prn-tn-mf-sg$prn$prn-tn	spa	ninguno	prn-tn-m-sg
 	oci	degun	prn$prn-tn-mf	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn
 	oci	el	prn-tn$prn-tn-p3$prn-tn-p3-m-sg	spa	él	prn$prn-tn$prn-tn-p3-m-pl$prn-tn-p3-m$prn-tn-m
 	oci	eth	prn-tn	spa	él	prn$prn-tn$prn-tn-p3-m-pl$prn-tn-p3-m$prn-tn-m
@@ -572,8 +572,8 @@ RL	oci	li	prn-enc-p3-mf-sg	spa	le	prn-enc-p3-mf-sp
 RL	oci	li	prn-pro-p3-mf-sg$prn	spa	le	prn-pro-p3-mf-sp
 	oci	lo	prn$prn-pro-p3-m$prn-pro-p3-m-sg	spa	lo	prn-pro-p3-m-sg$prn-pro-p3-m
 	oci	lo	prn-pro-p3-f$prn-pro-p3-f-sg	spa	lo	prn-pro-p3-f-pl$prn-pro-p3-f
-	oci	lo	prn-enc-p3-m	spa	lo	prn-enc-p3-m-sg$prn-enc-p3-m
-	oci	lo	prn-enc-p3-f	spa	lo	prn-enc-p3-f$prn-enc-p3-f-pl
+	oci	lo	prn-enc-p3-m$prn-enc-p3-m-sg	spa	lo	prn-enc-p3-m-sg$prn-enc-p3-m
+	oci	lo	prn-enc-p3-f$prn-enc-p3-f-sg	spa	lo	prn-enc-p3-f$prn-enc-p3-f-pl
 LR	oci	lo mieu	prn	spa	el mío	prn$prn-pos-GD$prn-pos$prn-pos-GD-ND
 LR	oci	lo nòstre	prn$prn-tn-pos-f-sg	spa	el nuestro	prn$prn-pos-GD$prn-pos$prn-pos-GD-ND
 LR	oci	lo sieu	prn	spa	el suyo	prn$prn-tn$prn-tn-pos$prn-tn-pos-GD
@@ -955,7 +955,7 @@ LR	oci	Abruces	np	spa	Abruzos	np$np-loc
 	oci	Adiguesia	np	spa	Adiguesia	np$np-loc
 	oci	Adolf	np$np-ant-m-sg	spa	Adolf	np$np-ant
 	oci	Adolfo	np$np-ant-m-sg	spa	Adolfo	np$np-ant
-	oci	Adriana	np	spa	Adriana	np$np-ant$np-ant-f-sg
+	oci	Adriana	np$np-ant-f-sg	spa	Adriana	np$np-ant$np-ant-f-sg
 	oci	Adrià	np	spa	Adrià	np$np-ant
 	oci	Adrián	np	spa	Adrián	np$np-ant$np-ant-m-sg
 	oci	Adán	np$np-cog-mf-sp	spa	Adán	np$np-ant$np-ant-m-sg
@@ -974,7 +974,7 @@ LR	oci	Abruces	np	spa	Abruzos	np$np-loc
 	oci	Agustín	np$np-cog-mf-sp	spa	Agustín	np$np-ant
 	oci	Ahmadabad	np	spa	Ahmedabad	np$np-loc
 	oci	Ahmed	np$np-ant-m-sg	spa	Ahmed	np$np-ant
-	oci	Aiacciu	np	spa	Ajaccio	np$np-loc
+	oci	Aiacciu	np$np-top-m-sg	spa	Ajaccio	np$np-loc
 	oci	Aiguamòg	np	spa	Aiguamòg	np$np-loc
 	oci	Aigüestòrtes	np	spa	Aigüestortes	np$np-loc
 	oci	Ainé	np	spa	Aisne	np$np-loc
@@ -997,7 +997,7 @@ RL	oci	Alacant	np$np-top-m-sg	spa	Alacant	np$np-loc-f$np-loc
 	oci	Albatera	np	spa	Albatera	np$np-loc$np-loc-f
 	oci	Albelda	np$np-cog-mf-sp	spa	Albelda	np$np-ant
 	oci	Albero	np$np-cog-mf-sp	spa	Albero	np$np-cog$np-cog-mf
-	oci	Albert	np$np-ant-m-sg	spa	Albert	np$np-ant$np-ant-m
+	oci	Albert	np$np-cog-mf-sp	spa	Albert	np$np-ant$np-ant-m
 	oci	Albertis	np	spa	Albertis	np
 	oci	Alberto	np$np-ant-m-sg	spa	Alberto	np$np-ant$np-ant-m
 	oci	Albiol	np$np-cog-mf-sp	spa	Albiol	np$np-cog$np-cog-mf
@@ -1005,8 +1005,8 @@ RL	oci	Alacant	np$np-top-m-sg	spa	Alacant	np$np-loc-f$np-loc
 	oci	Alcalá	np$np-ant	spa	Alcalá	np-ant
 	oci	Alcalá	np-loc	spa	Alcalá	np$np-loc$np-loc-m
 	oci	Alcaraz	np$np-cog-mf-sp	spa	Alcaraz	np$np-cog$np-cog-mf
-RL	oci	Alcoi	np	spa	Alcoy	np$np-loc$np-loc-f
-	oci	Alcoi	np	spa	Alcoi	np$np-loc$np-loc-f
+RL	oci	Alcoi	np$np-top-m-sg	spa	Alcoy	np$np-loc$np-loc-f
+	oci	Alcoi	np$np-top-m-sg	spa	Alcoi	np$np-loc$np-loc-f
 	oci	Alcover	np$np-cog-mf-sp	spa	Alcover	np$np-cog
 RL	oci	Alcàsser	np	spa	Alcácer	np$np-cog
 	oci	Alcàsser	np	spa	Alcàsser	np$np-loc$np-loc-f
@@ -1018,7 +1018,7 @@ RL	oci	Aldaia	np	spa	Aldaya	np
 	oci	Aldaia	np	spa	Aldaia	np$np-loc$np-loc-f
 	oci	Aleixandre	np$np-cog-mf-sp	spa	Aleixandre	np$np-ant
 	oci	Alejandra	np	spa	Alejandra	np$np-ant$np-ant-f-sg
-	oci	Alejandro	np	spa	Alejandro	np-ant$np$np-ant-m$np-ant-m-sg
+	oci	Alejandro	np$np-ant-m-sg	spa	Alejandro	np-ant$np$np-ant-m$np-ant-m-sg
 	oci	Alemanha	np$np-top-f-sg	spa	Alemania	np$np-loc$np-loc-f
 	oci	Alex	np$np-ant-m-sg	spa	Alex	np$np-ant$np-ant-m-sg
 	oci	Alexander	np$np-ant-m-sg	spa	Alexander	np$np-ant
@@ -1031,7 +1031,7 @@ RL	oci	Alexàndria	np	spa	Alessandria	np-loc$np
 	oci	Alfaro	np$np-cog-mf-sp	spa	Alfaro	np$np-cog$np-cog-mf
 	oci	Alfonso	np$np-ant-m-sg	spa	Alfonso	np-ant$np
 	oci	Alfred	np$np-ant-m-sg	spa	Alfred	np$np-ant$np-ant-m
-	oci	Alfredo	np	spa	Alfredo	np$np-ant$np-ant-m$np-ant-m-sg
+	oci	Alfredo	np$np-ant-m-sg	spa	Alfredo	np$np-ant$np-ant-m$np-ant-m-sg
 	oci	Algarra	np$np-cog-mf-sp	spa	Algarra	np$np-cog$np-cog-mf
 LR	oci	Algeria	np$np-loc	spa	Argelia	np-loc$np$np-loc-f
 	oci	Algèria	np$np-loc	spa	Argelia	np-loc$np$np-loc-f
@@ -1065,7 +1065,7 @@ RL	oci	Alzira	np	spa	Alcira	np$np-ant
 	oci	America	np$np-top-f-sg	spa	América	np$np-loc$np-loc-f
 	oci	America Centrala	np	spa	América Central	np-top-f$np$np-top
 	oci	America del Nòrd	np$np-top-f-sg	spa	América del Norte	np$np-top-f$np-top
-	oci	Amians	np	spa	Amiens	np$np-loc
+	oci	Amians	np$np-top-m-sg	spa	Amiens	np$np-loc
 	oci	Amman	np$np-top-m-sg	spa	Ammán	np$np-loc$np-loc-m
 	oci	Amorós	np$np-cog-mf-sp	spa	Amorós	np$np-cog
 	oci	Amsterdam	np$np-top-m-sg	spa	Amsterdam	np$np-loc$np-loc-f
@@ -1084,10 +1084,10 @@ RL	oci	Alzira	np	spa	Alcira	np$np-ant
 	oci	Andy	np$np-ant-f-sg	spa	Andy	np$np-ant
 	oci	Andòrra	np$np-top-f-sg	spa	Andorra	np$np-loc$np-loc-f
 	oci	Andòrra la Vièlha	np	spa	Andorra la Vieja	np$np-loc
-	oci	Anecí	np	spa	Annecy	np$np-loc
+	oci	Anecí	np$np-top-m-sg	spa	Annecy	np$np-loc
 	oci	Angela	np$np-ant-f-sg	spa	Angela	np$np-ant$np-ant-f
-	oci	Angeles	np	spa	Angeles	np
-	oci	Angelina	np	spa	Angelina	np$np-ant$np-ant-f-sg
+	oci	Angeles	np$np-ant-f-sg	spa	Angeles	np
+	oci	Angelina	np$np-ant-f-sg	spa	Angelina	np$np-ant$np-ant-f-sg
 	oci	Angieus	np$np-top-m-sg	spa	Angers	np$np-cog
 	oci	Anglada	np$np-cog-mf-sp	spa	Anglada	np$np-cog$np-cog-mf
 	oci	Anglatèrra	np$np-top-f-sg	spa	Inglaterra	np$np-loc$np-loc-f
@@ -1140,7 +1140,7 @@ RL	oci	Alzira	np	spa	Alcira	np$np-ant
 	oci	Aranda	np$np-cog-mf-sp	spa	Aranda	np$np-cog$np-cog-mf
 	oci	Aransalut	np	spa	Aransalut	np
 	oci	Arboç	np	spa	Arboç	np$np-loc
-	oci	Arcadi	np	spa	Arcadi	np
+	oci	Arcadi	np$np-ant-m-sg	spa	Arcadi	np
 	oci	Arcadia	np	spa	Arcadia	np$np-loc
 	oci	Arce	np$np-cog-mf-sp	spa	Arce	np$np-cog$np-cog-mf
 	oci	Ardecha	np$np-top-f-sg	spa	Ardèche	np$np-loc
@@ -1181,7 +1181,7 @@ LR	oci	Argeria	np$np-top-f-sg	spa	Argelia	np-loc$np$np-loc-f
 	oci	Artur	np$np-ant-m-sg	spa	Artur	np$np-ant
 	oci	Arturo	np$np-ant-m-sg	spa	Arturo	np$np-ant$np-ant-m-sg
 	oci	Artés	np$np-cog-mf-sp	spa	Artois	np$np-loc
-	oci	Aruba	np	spa	Aruba	np$np-top
+	oci	Aruba	np$np-top-f-sg	spa	Aruba	np$np-top
 	oci	Arévalo	np$np-cog-mf-sp	spa	Arévalo	np$np-cog$np-cog-mf
 	oci	Asensi	np$np-cog-mf-sp	spa	Asensi	np$np-cog
 	oci	Asensio	np$np-cog-mf-sp	spa	Asensio	np$np-cog
@@ -1201,14 +1201,14 @@ LR	oci	Atenas	np$np-top-f-sg	spa	Atenas	np$np-loc$np-loc-f
 	oci	Atlanta	np$np-top-f-sg	spa	Atlanta	np$np-loc$np-loc-f
 	oci	Atutxa	np$np-cog-mf-sp	spa	Atutxa	np$np-ant
 	oci	Aubèrt	np	spa	Aubèrt	np$np-loc
-	oci	Auckland	np	spa	Auckland	np$np-loc
+	oci	Auckland	np$np-top-m-sg	spa	Auckland	np$np-loc
 	oci	Aude	np$np-ant-f-sg	spa	Aude	np$np-ant
 	oci	Audrey	np$np-ant-f-sg	spa	Audrey	np$np-ant
 	oci	Augsborg	np	spa	Augsburgo	np$np-loc$np-loc-m
-	oci	Augusto	np	spa	Augusto	np$np-ant$np-ant-m
+	oci	Augusto	np$np-ant-m-sg	spa	Augusto	np$np-ant$np-ant-m
 	oci	Aups	np$np-top-m-pl	spa	Alpes	np$np-loc$np-loc-m
 	oci	Aura	np$np-cog-mf-sp	spa	Aura	np$np-ant
-	oci	Aurelio	np	spa	Aurelio	np$np-ant
+	oci	Aurelio	np$np-ant-m-sg	spa	Aurelio	np$np-ant
 	oci	Aurora	np$np-ant-f-sg	spa	Aurora	np$np-ant$np-ant-f-sg
 	oci	Aurèlia	np	spa	Aurèlia	np
 	oci	Aussau	np	spa	Aussau	np$np-loc
@@ -1217,7 +1217,7 @@ LR	oci	Atenas	np$np-top-f-sg	spa	Atenas	np$np-loc$np-loc-f
 	oci	Austràlia	np$np-top-f-sg	spa	Australia	np$np-top$np-top-f
 	oci	Ausàs	np	spa	Ausàs	np
 	oci	Autan	np	spa	Autan	np
-LR	oci	Auvèrnha	np	spa	Auvernia	np$np-loc
+LR	oci	Auvèrnha	np$np-top-f-sg	spa	Auvernia	np$np-loc
 	oci	Auvèrnhe	np$np-top-f-sg	spa	Auvernia	np$np-loc
 	oci	Auxiliadora	np	spa	Auxiliadora	np
 	oci	Avairon	np$np-top-m-sg	spa	Aveyron	np$np-loc
@@ -1233,9 +1233,9 @@ LR	oci	Auvèrnha	np	spa	Auvernia	np$np-loc
 	oci	Baalbèc	np	spa	Baalbek	np$np-loc
 	oci	Bachelet	np$np-cog-mf-sp	spa	Bachelet	np
 	oci	Bacon	np$np-cog-mf-sp	spa	Bacon	np$np-cog
-	oci	Badajoz	np	spa	Badajoz	np$np-loc$np-loc-f
+	oci	Badajoz	np$np-top-m-sg	spa	Badajoz	np$np-loc$np-loc-f
 	oci	Badalona	np	spa	Badalona	np$np-loc$np-loc-f
-	oci	Baden-Württemberg	np	spa	Baden-Wurttemberg	np$np-loc
+	oci	Baden-Württemberg	np$np-top-m-sg	spa	Baden-Wurttemberg	np$np-loc
 	oci	Baeza	np$np-cog-mf-sp	spa	Baeza	np$np-cog$np-cog-mf
 	oci	Bagdad	np	spa	Bagdad	np$np-loc$np-loc-m
 	oci	Bagergue	np	spa	Bagergue	np$np-loc
@@ -1266,7 +1266,7 @@ RL	oci	Bancaixa	np	spa	Bancaixa	np
 	oci	Bangkòk	np$np-top-m-sg	spa	Bangkok	np$np-loc$np-loc-m
 	oci	Bangladesh	np	spa	Bangladesh	np$np-loc$np-loc-f
 LR	oci	Bangladèsh	np	spa	Bangladesh	np$np-loc$np-loc-f
-	oci	Bangui	np	spa	Bangui	np$np-loc$np-loc-m
+	oci	Bangui	np$np-top-m-sg	spa	Bangui	np$np-loc$np-loc-m
 	oci	Banjul	np	spa	Banjul	np$np-loc$np-loc-m
 	oci	Banyoles	np	spa	Bañolas	np$np-loc
 	oci	Barak	np	spa	Barak	np
@@ -1295,7 +1295,7 @@ LR	oci	Barcelonès	np	spa	Barcelonès	np$np-loc
 	oci	Barça	np$np-al-m-sg	spa	Barça	np$np-al$np-al-m
 	oci	Bartolomé	np$np-cog-mf-sp	spa	Bartolomé	np$np-ant$np-ant-m
 	oci	Bartomeu	np$np-cog-mf-sp	spa	Bartomeu	np$np-ant
-	oci	Bascoat	np	spa	País Vasco	np$np-top$np-top-m
+	oci	Bascoat	np$np-top-m-sg	spa	País Vasco	np$np-top$np-top-m
 	oci	Basilicata	np	spa	Basilicata	np$np-loc
 	oci	Basilio	np	spa	Basilio	np$np-ant
 	oci	Basilèa	np$np-top-f-sg	spa	Basilea	np$np-loc
@@ -1303,14 +1303,14 @@ LR	oci	Barcelonès	np	spa	Barcelonès	np$np-loc
 	oci	Bassa Saxònia	np	spa	Baja Sajonia	np$np-loc
 	oci	Basseterre	np	spa	Basseterre	np$np-loc
 	oci	Bassòra	np	spa	Basora	np$np-loc
-	oci	Bastia	np	spa	Bastia	np$np-loc
+	oci	Bastia	np$np-top-f-sg	spa	Bastia	np$np-loc
 	oci	Batasuna	np$np-al-f-sg	spa	Batasuna	np$np-al
-	oci	Batman	np	spa	Batman	np$np-ant
+	oci	Batman	np$np-ant-m-sg	spa	Batman	np$np-ant
 	oci	Bausen	np	spa	Bausén	np$np-loc
 	oci	Bautista	np$np-cog-mf-sp	spa	Bautista	np$np-ant
 	oci	Bavièra	np	spa	Baviera	np$np-loc$np-loc-f
 	oci	Bea	np$np-cog-mf-sp	spa	Bea	np$np-ant
-	oci	Bearn	np	spa	Bearn	np$np-loc
+	oci	Bearn	np$np-top-m-sg	spa	Bearn	np$np-loc
 	oci	Beatles	np$np-al	spa	Beatles	np$np-al-m
 	oci	Beatriz	np	spa	Beatriz	np$np-ant
 	oci	Becerril	np$np-cog-mf-sp	spa	Becerril	np$np-cog-mf
@@ -1323,7 +1323,7 @@ LR	oci	Barcelonès	np	spa	Barcelonès	np$np-loc
 	oci	Belbel	np$np-cog-mf-sp	spa	Belbel	np
 	oci	Belda	np$np-cog-mf-sp	spa	Belda	np$np-cog
 	oci	Belenguer	np$np-cog-mf-sp	spa	Belenguer	np$np-cog
-	oci	Belfòrt	np	spa	Belfort	np$np-loc
+	oci	Belfòrt	np$np-top-m-sg	spa	Belfort	np$np-loc
 	oci	Belgica	np$np-top-f-sg	spa	Bélgica	np$np-loc$np-loc-f
 	oci	Belgrad	np$np-top-m-sg	spa	Belgrado	np$np-loc$np-loc-m
 	oci	Belinchón	np$np-cog-mf-sp	spa	Belinchón	np$np-ant
@@ -1348,7 +1348,7 @@ RL	oci	Benarès	np	spa	Benarés	np$np-loc
 	oci	Bengazi	np	spa	Bengasi	np$np-loc$np-loc-m
 	oci	Benidorm	np	spa	Benidorm	np$np-loc$np-loc-f
 	oci	Benin	np$np-top-m-sg	spa	Benín	np$np-loc$np-loc-m
-	oci	Benito	np	spa	Benito	np$np-ant
+	oci	Benito	np$np-ant-m-sg	spa	Benito	np$np-ant
 	oci	Benjamin	np$np-ant-m-sg	spa	Benjamin	np$np-ant$np-ant-m
 	oci	Benítez	np$np-cog-mf-sp	spa	Benítez	np$np-cog
 	oci	Benós	np	spa	Benós	np$np-loc
@@ -1406,7 +1406,7 @@ LR	oci	Betleèm	np$np-loc	spa	Belén	np-loc$np$np-loc-m
 	oci	Bono	np$np-cog-mf-sp	spa	Bono	np$np-top
 	oci	Bonotren	np	spa	Bonotren	np
 	oci	Boquer	np$np-cog-mf-sp	spa	Boquer	np
-	oci	Borbonés	np	spa	Borbonés	np$np-loc
+	oci	Borbonés	np$np-top-m-sg	spa	Borbonés	np$np-loc
 	oci	Bordeta	np	spa	Bordeta	np$np-loc
 	oci	Bordèu	np$np-top-m-sg	spa	Burdeos	np$np-loc
 	oci	Bordèus	np	spa	Burdeos	np$np-loc
@@ -1433,7 +1433,7 @@ LR	oci	Betleèm	np$np-loc	spa	Belén	np-loc$np$np-loc-m
 	oci	Bravo	np$np-cog-mf-sp	spa	Bravo	np$np-cog$np-cog-mf
 	oci	Bretanha	np$np-top-f-sg	spa	Bretaña	np$np-top
 	oci	Brian	np$np-ant-m-sg	spa	Brian	np$np-ant
-	oci	Bridget	np	spa	Bridget	np$np-ant
+	oci	Bridget	np$np-ant-f-sg	spa	Bridget	np$np-ant
 	oci	Briz	np$np-cog-mf-sp	spa	Briz	np$np-cog
 	oci	Broadway	np$np-top-m-sg	spa	Broadway	np$np-loc$np-loc-m-sg
 	oci	Bromera	np	spa	Bromera	np
@@ -1473,14 +1473,14 @@ RL	oci	Burjassot	np	spa	Burjasot	np
 	oci	Caballer	np$np-cog-mf-sp	spa	Caballer	np$np-cog
 	oci	Cabrera	np$np-cog-mf-sp	spa	Cabrera	np$np-cog$np-cog-mf
 	oci	Cadafalch	np$np-cog-mf-sp	spa	Cadafalch	np
-	oci	Cadaqués	np	spa	Cadaqués	np$np-loc$np-loc-f
+	oci	Cadaqués	np$np-top-m-sg	spa	Cadaqués	np$np-loc$np-loc-f
 	oci	Cadis	np	spa	Cádiz	np$np-loc$$np-loc-f
 	oci	Caine	np$np-cog-mf-sp	spa	Caine	np
 	oci	Caishmir	np	spa	Cachemira	np$np-loc
 	oci	Caixaforum	np	spa	Caixaforum	np
 	oci	Calafell	np$np-cog-mf-sp	spa	Calafell	np$np-cog
 	oci	Calais	np	spa	Calais	np$np-loc
-	oci	Calandreta	np	spa	Calandreta	np
+	oci	Calandreta	np$np-al-f-sg	spa	Calandreta	np
 	oci	Calbetó	np$np-cog-mf-sp	spa	Calbetó	np
 	oci	Calderón	np$np-cog-mf-sp	spa	Calderón	np$np-cog$np-cog-mf
 	oci	Caldes	np$np-cog-mf-sp	spa	Caldes	np$np-cog
@@ -1522,7 +1522,7 @@ RL	oci	Calp	np	spa	Calpe	np$np-cog
 	oci	Caparrós	np$np-cog-mf-sp	spa	Caparrós	np$np-cog-mf
 	oci	Capdevila	np$np-cog-mf-sp	spa	Capdevila	np$np-cog
 	oci	Capmany	np$np-cog-mf-sp	spa	Capmany	np$np-loc-f
-	oci	Caracas	np	spa	Caracas	np$np-loc$np-loc-f
+	oci	Caracas	np$np-top-m-sg	spa	Caracas	np$np-loc$np-loc-f
 	oci	Carballo	np$np-cog-mf-sp	spa	Carballo	np$np-cog$np-cog-mf
 	oci	Carbonell	np$np-cog-mf-sp	spa	Carbonell	np$np-cog
 	oci	Carcaixent	np	spa	Carcagente	np$np-loc
@@ -1531,7 +1531,7 @@ RL	oci	Calp	np	spa	Calpe	np$np-cog
 	oci	Carlemanh	np	spa	Carlemany	np
 	oci	Carles	np$np-ant-m-sg	spa	Carles	np$np-ant
 	oci	Carlos	np$np-ant-m-sg	spa	Carlos	np$np-ant$np-ant-m-sg
-	oci	Carlota	np	spa	Carlota	np$np-ant
+	oci	Carlota	np$np-ant-f-sg	spa	Carlota	np$np-ant
 	oci	Carme	np	spa	Carme	np$np-ant
 	oci	Carmen	np$np-ant-f-sg	spa	Carmen	np-ant$np$np-ant-f$np-ant-f-sg
 	oci	Carmona	np$np-cog-mf-sp	spa	Carmona	np$np-cog$np-cog-mf
@@ -1574,21 +1574,21 @@ RL	oci	Castelló	np$np-cog-mf-sp	spa	Castellón	np$np-cog
 	oci	Castièro	np	spa	Castièro	np$np-loc
 	oci	Castro	np$np-cog-mf-sp	spa	Castro	np$np-ant
 	oci	Catair	np	spa	Catair	np
-	oci	Catalina	np	spa	Catalina	np$np-ant$np-ant-f
+	oci	Catalina	np$np-ant-f-sg	spa	Catalina	np$np-ant$np-ant-f
 RL	oci	Catalonha	np$np-top-f-sg	spa	Catalunya	np$np-loc-f$np-loc
 	oci	Catalonha	np$np-top-f-sg	spa	Cataluña	np$np-loc$np-loc-f
 LR	oci	Catalunya	np	spa	Cataluña	np$np-loc$np-loc-f
 	oci	Català	np$np-cog-mf-sp	spa	Català	np$np-cog
-	oci	Caterina	np	spa	Caterina	np-ant$np
+	oci	Caterina	np$np-ant-f-sg	spa	Caterina	np-ant$np
 	oci	Catherine	np$np-ant-f-sg	spa	Catherine	np$np-ant
 	oci	Catral	np	spa	Catral	np$np-loc$np-loc-f
 	oci	Cava	np$np-cog-mf-sp	spa	Cava	np$np-cog
 	oci	Cavero	np$np-cog-mf-sp	spa	Cavero	np$np-cog
-	oci	Cazacstan	np	spa	Kazajistán	np$np-top-m$np-top
+	oci	Cazacstan	np$np-top-m-sg	spa	Kazajistán	np$np-top-m$np-top
 	oci	Cazorla	np$np-cog-mf-sp	spa	Cazorla	np$np-cog
 	oci	Cañizares	np$np-cog-mf-sp	spa	Cañizares	np$np-cog
 	oci	Cebrià	np$np-cog-mf-sp	spa	Cebrià	np$np-cog
-	oci	Cecilia	np	spa	Cecilia	np$np-ant$np-ant-f-sg
+	oci	Cecilia	np$np-ant-f-sg	spa	Cecilia	np$np-ant$np-ant-f-sg
 	oci	Cedanha	np	spa	Cedanya	np$np-loc
 	oci	Cela	np$np-cog-mf-sp	spa	Cela	np$np-cog
 	oci	Celia	np	spa	Celia	np$np-ant
@@ -1597,8 +1597,8 @@ LR	oci	Catalunya	np	spa	Cataluña	np$np-loc$np-loc-f
 	oci	Cerquiglini	np$np-cog-mf-sp	spa	Cerquiglini	np
 	oci	Cervantes	np$np-cog-mf-sp	spa	Cervantes	np$np-cog$np-cog-mf
 	oci	Cervera	np$np-cog-mf-sp	spa	Cervera	np$np-cog
-	oci	Cesc	np	spa	Cesc	np$np-ant
-	oci	Ceuta	np	spa	Ceuta	np$np-loc$np-loc-f
+	oci	Cesc	np$np-ant-m-sg	spa	Cesc	np$np-ant
+	oci	Ceuta	np$np-top-f-sg	spa	Ceuta	np$np-loc$np-loc-f
 	oci	Chacón	np$np-cog-mf-sp	spa	Chacón	np$np-cog$np-cog-mf
 	oci	Chad	np	spa	Chad	np$np-ant
 	oci	Chamartín	np	spa	Chamartín	np$np-loc-f
@@ -1620,7 +1620,7 @@ LR	oci	Chicago	np$np-top-m-sg	spa	Chicago	np$np-loc$np-loc-m
 	oci	Chipre	np$np-top-m-sg	spa	Chipre	np$np-loc$np-loc-m
 	oci	Chirac	np$np-cog	spa	Chirac	np$np-cog$np-cog-mf
 	oci	Christian	np$np-ant-m-sg	spa	Christian	np-ant$np
-	oci	Christina	np	spa	Christina	np$np-ant
+	oci	Christina	np$np-ant-f-sg	spa	Christina	np$np-ant
 	oci	Christopher	np$np-cog-mf-sp	spa	Christopher	np$np-ant
 	oci	Chueca	np$np-cog-mf-sp	spa	Chueca	np$np-cog
 	oci	Chávez	np$np-cog-mf-sp	spa	Chávez	np$np-cog$np-cog-mf
@@ -1641,7 +1641,7 @@ LR	oci	Chicago	np$np-top-m-sg	spa	Chicago	np$np-loc$np-loc-m
 	oci	Claude	np$np-ant-m-sg	spa	Claude	np$np-ant
 	oci	Claudia	np$np-ant-f-sg	spa	Claudia	np$np-ant$np-ant-f$np-ant-f-sg
 	oci	Claudio	np$np-ant-m-sg	spa	Claudio	np-ant$np$np-ant-m
-	oci	Clemente	np	spa	Clemente	np$np-ant
+	oci	Clemente	np$np-ant-m-sg	spa	Clemente	np$np-ant
 	oci	Cleveland	np	spa	Cleveland	np$np-loc
 	oci	Clickair	np	spa	Clickair	np
 LR	oci	Climent	np$np-cog-mf-sp	spa	Climent	np$np-cog
@@ -1677,7 +1677,7 @@ LR	oci	Colombia	np	spa	Colombia	np$np-top$np-top-f
 	oci	Conangles	np	spa	Conangles	np$np-loc
 	oci	Concha	np$np-cog-mf-sp	spa	Concha	np$np-ant
 	oci	Conchi	np	spa	Conchi	np
-	oci	Condoleezza	np	spa	Condoleezza	np$np-ant
+	oci	Condoleezza	np$np-ant-f-sg	spa	Condoleezza	np$np-ant
 	oci	Condò	np$np-cog-mf-sp	spa	Condò	np
 	oci	Conesa	np$np-cog-mf-sp	spa	Conesa	np$np-cog
 	oci	Conflent	np	spa	Conflent	np$np-loc
@@ -1706,7 +1706,7 @@ RL	oci	Corsega	np$np-top-f-sg	spa	Córcega	np$np-loc$np-loc-f
 	oci	Crespo	np$np-cog-mf-sp	spa	Crespo	np$np-cog
 	oci	Crespí	np$np-cog-mf-sp	spa	Crespí	np
 	oci	Crist	np$np-al-m-sg	spa	Cristo	np$np-ant$np-ant-m
-	oci	Cristian	np	spa	Cristian	np$np-ant
+	oci	Cristian	np$np-ant-m-sg	spa	Cristian	np$np-ant
 	oci	Cristina	np$np-ant-f-sg	spa	Cristina	np$np-ant
 	oci	Cristóbal	np$np-cog-mf-sp	spa	Cristóbal	np$np-ant
 	oci	Croàcia	np$np-top-f-sg	spa	Croacia	np$np-loc$np-loc-f
@@ -1732,7 +1732,7 @@ RL	oci	Càrcer	np	spa	Càrcer	np$np-loc$np-loc-f
 	oci	Còsta d'Evòri	np$np-top-f-sg	spa	Costa de Marfil	np$np-loc$np-loc-f
 	oci	Dakar	np$np-top-m-sg	spa	Dakar	np$np-loc$np-loc-m
 	oci	Dakòta	np	spa	Dakota	np$np-ant
-LR	oci	Dalfinat	np	spa	Delfinado	np$np-loc
+LR	oci	Dalfinat	np$np-top-m-sg	spa	Delfinado	np$np-loc
 	oci	Dalí	np$np-cog-mf-sp	spa	Dalí	np$np-ant
 	oci	Damasc	np	spa	Damasco	np$np-loc$np-loc-m
 	oci	Damià	np	spa	Damià	np$np-ant
@@ -1744,7 +1744,7 @@ LR	oci	Danemarc	np$np-top-m-sg	spa	Dinamarca	np$np-loc$np-loc-f
 	oci	Dante	np$np-ant-m-sg	spa	Dante	np$np-ant
 	oci	Darwin	np$np-cog-mf-sp	spa	Darwin	np$np-ant
 	oci	Darío	np	spa	Darío	np$np-ant
-	oci	Daufinat	np	spa	Delfinado	np$np-loc
+	oci	Daufinat	np$np-top-m-sg	spa	Delfinado	np$np-loc
 	oci	David	np$np-cog-mf-sp	spa	David	np$np-ant$np-ant-m$np-ant-m-sg
 	oci	Davis	np$np-cog-mf-sp	spa	Davis	np$np-ant
 	oci	Delaurens	np$np-cog-mf-sp	spa	Delaurens	np
@@ -1752,7 +1752,7 @@ LR	oci	Danemarc	np$np-top-m-sg	spa	Dinamarca	np$np-loc$np-loc-f
 	oci	Denis	np$np-cog-mf-sp	spa	Denis	np$np-ant
 	oci	Dennis	np$np-cog-mf-sp	spa	Dennis	np$np-ant
 	oci	Devesa	np$np-cog-mf-sp	spa	Devesa	np$np-cog
-	oci	Dexter	np	spa	Dexter	np$np-ant
+	oci	Dexter	np$np-ant-m-sg	spa	Dexter	np$np-ant
 	oci	Dharma	np	spa	Dharma	np
 	oci	Diagonal	np$np-loc	spa	Diagonal	np-loc$np
 	oci	Diagonal	np$np-loc	spa	Diagonal	np-loc$np
@@ -1764,7 +1764,7 @@ LR	oci	Danemarc	np$np-top-m-sg	spa	Dinamarca	np$np-loc$np-loc-f
 	oci	Djibouti	np	spa	Yibuti	np$np-loc$np-loc-m
 	oci	Dolcet	np$np-cog-mf-sp	spa	Dolcet	np$np-cog
 	oci	Dolly	np	spa	Dolly	np$np-ant
-	oci	Dolores	np	spa	Dolores	np$np-ant
+	oci	Dolores	np$np-ant-f-sg	spa	Dolores	np$np-ant
 	oci	Dolors	np	spa	Dolors	np$np-ant
 	oci	Domingo	np$np-cog-mf-sp	spa	Domingo	np$np-ant
 	oci	Dominique	np$np-ant-m-sg	spa	Dominique	np-ant$np
@@ -1781,7 +1781,7 @@ LR	oci	Danemarc	np$np-top-m-sg	spa	Dinamarca	np$np-loc$np-loc-f
 	oci	Duarte	np$np-cog-mf-sp	spa	Duarte	np$np-cog
 	oci	Dublín	np	spa	Dublín	np$np-loc$np-loc-m
 	oci	Durán	np$np-cog-mf-sp	spa	Durán	np$np-cog$np-cog-mf
-	oci	Dustin	np	spa	Dustin	np$np-ant
+	oci	Dustin	np$np-ant-m-sg	spa	Dustin	np$np-ant
 	oci	Dylan	np$np-ant-m-sg	spa	Dylan	np-ant$np
 	oci	Dénia	np	spa	Dénia	np$np-loc$np-loc-f
 	oci	Díaz	np$np-cog-mf-sp	spa	Díaz	np$np-cog$np-cog-mf
@@ -1800,13 +1800,13 @@ RL	oci	EUA	np	spa	EEUU	np$np-loc$np-loc-m$np-loc-m-pl
 	oci	Egea	np$np-cog-mf-sp	spa	Egea	np$np-cog
 	oci	Egipte	np$np-top-m-sg	spa	Egipto	np$np-loc$np-loc-m
 	oci	Einstein	np$np-cog-mf-sp	spa	Einstein	np$np-ant
-RL	oci	Eivissa	np	spa	Ibiza	np$np-loc$np-loc-f
-	oci	Eivissa	np	spa	Eivissa	np$np-loc-f
+RL	oci	Eivissa	np$np-top-f-sg	spa	Ibiza	np$np-loc$np-loc-f
+	oci	Eivissa	np$np-top-f-sg	spa	Eivissa	np$np-loc-f
 	oci	Eixample	np	spa	Eixample	np$np-loc
 	oci	Eizaguirre	np$np-cog-mf-sp	spa	Eizaguirre	np
 	oci	El Campello	np	spa	Campello	np$np-ant
 	oci	El Clot	np	spa	El Clot	np$np-loc
-	oci	El Greco	np-ant	spa	El Greco	np-ant$np
+	oci	El Greco	np-ant$np-ant-m-sg	spa	El Greco	np-ant$np
 	oci	El Periódico	np	spa	El Periódico	np
 	oci	El Prat	np	spa	El Prat	np$np-loc-f
 RL	oci	El Vendrell	np-loc$np	spa	Vendrell	np$np-loc
@@ -1815,9 +1815,9 @@ RL	oci	El Vendrell	np-loc$np	spa	Vendrell	np$np-loc
 	oci	Elda	np	spa	Elda	np$np-loc$np-loc-f
 	oci	Elena	np$np-ant-f-sg	spa	Elena	np$np-ant$np-ant-f-sg
 	oci	Eli	np$np-ant-m-sg	spa	Eli	np$np-ant
-	oci	Elia	np	spa	Elia	np$np-ant
+	oci	Elia	np$np-ant-m-sg	spa	Elia	np$np-ant
 	oci	Elias	np$np-cog-mf-sp	spa	Elias	np$np-ant
-	oci	Elisa	np	spa	Elisa	np$np-ant$np-ant-f-sg
+	oci	Elisa	np$np-ant-f-sg	spa	Elisa	np$np-ant$np-ant-f-sg
 	oci	Elisabeth	np$np-ant-f-sg	spa	Elisabeth	np$np-ant
 	oci	Eliseo	np	spa	Eliseo	np$np-ant$np-ant-m
 	oci	Elizabeth	np$np-ant-f-sg	spa	Elizabeth	np$np-ant
@@ -1863,7 +1863,7 @@ LR	oci	Eraur	np	spa	Hérault	np$np-cog
 	oci	Escòcia	np$np-top-f-sg	spa	Escocia	np$np-loc$np-loc-f
 	oci	Eslovaquia	np$np-top-f-sg	spa	Eslovaquia	np$np-loc$np-loc-f
 	oci	Eslovènia	np$np-top-f-sg	spa	Eslovenia	np$np-loc$np-loc-f
-	oci	Esmeralda	np	spa	Esmeralda	np$np-ant$np-ant-f$np-ant-f-sg
+	oci	Esmeralda	np$np-ant-f-sg	spa	Esmeralda	np$np-ant$np-ant-f$np-ant-f-sg
 	oci	Espadaler	np$np-cog-mf-sp	spa	Espadaler	np
 	oci	Espanha	np$np-top-f-sg	spa	España	np$np-top$np-top-f
 	oci	Español	np$np-cog-mf-sp	spa	Español	np$np-cog
@@ -1881,7 +1881,7 @@ RL	oci	Esquerdo	np$np-cog-mf-sp	spa	Esquerdo	np
 	oci	Estanislao	np	spa	Estanislao	np$np-ant
 	oci	Estats Federats de Micronèsia	np	spa	Estados Federados de Micronesia	np$np-loc
 	oci	Estats Units	np$np-top-m-pl	spa	Estados Unidos	np$np-loc$np-loc-m$np-loc-m-pl
-	oci	Esteban	np$np-cog-mf-sp	spa	Esteban	np$np-ant$np-ant-m$np-ant-m-sg
+	oci	Esteban	np$np-ant-m-sg	spa	Esteban	np$np-ant$np-ant-m$np-ant-m-sg
 	oci	Estefanía	np	spa	Estefanía	np$np-ant
 	oci	Estellés	np$np-cog-mf-sp	spa	Estellés	np
 	oci	Esteve	np$np-ant-m-sg	spa	Esteve	np$np-cog
@@ -1898,7 +1898,7 @@ RL	oci	Esquerdo	np$np-cog-mf-sp	spa	Esquerdo	np
 	oci	Eto'o	np$np-cog-mf-sp	spa	Eto'o	np
 	oci	Etoo	np$np-cog-mf-sp	spa	Etoo	np
 	oci	Eugenia	np	spa	Eugenia	np$np-ant
-	oci	Eugenio	np	spa	Eugenio	np$np-ant
+	oci	Eugenio	np$np-ant-m-sg	spa	Eugenio	np$np-ant
 	oci	Eulàlia	np$np-ant	spa	Eulàlia	np-ant$np
 	oci	Eure	np$np-top-m-sg	spa	Eure	np$np-loc
 	oci	Euromed	np	spa	Euromed	np
@@ -1906,12 +1906,12 @@ RL	oci	Esquerdo	np$np-cog-mf-sp	spa	Esquerdo	np
 	oci	Euroregion	np	spa	Euroregión	np$np-loc
 	oci	Euròpa	np$np-top-f-sg	spa	Europa	np$np-loc$np-loc-f
 	oci	Eusebio	np	spa	Eusebio	np$np-ant
-	oci	Euskadi	np	spa	Euskadi	np$np-loc$np-loc-m$np-loc-m-sg
+	oci	Euskadi	np$np-top-m-sg	spa	Euskadi	np$np-loc$np-loc-m$np-loc-m-sg
 	oci	Eva	np$np-ant-f-sg	spa	Eva	np$np-ant$np-ant-f$np-ant-f-sg
 	oci	Explorer	np$np-al-m-sg	spa	Explorer	np$np-al-m
 	oci	Extremadura	np	spa	Extremadura	np$np-loc$np-loc-f
 	oci	FP	np-al	spa	FP	np-al$np
-	oci	Fabio	np	spa	Fabio	np$np-ant
+	oci	Fabio	np$np-ant-m-sg	spa	Fabio	np$np-ant
 	oci	Fabra	np$np-cog-mf-sp	spa	Fabra	np$np-cog
 	oci	Fajardo	np$np-cog-mf-sp	spa	Fajardo	np$np-cog
 	oci	Falcó	np$np-cog-mf-sp	spa	Falcó	np$np-cog
@@ -1921,7 +1921,7 @@ RL	oci	Esquerdo	np$np-cog-mf-sp	spa	Esquerdo	np
 	oci	Fecsa-Endesa	np	spa	Fecsa-Endesa	np
 	oci	Federico	np$np-ant-m-sg	spa	Federico	np$np-ant
 	oci	Felip	np$np-ant-m-sg	spa	Felip	np$np-ant
-	oci	Felipe	np	spa	Felipe	np-ant$np$np-ant-m$np-ant-m-sg
+	oci	Felipe	np$np-ant-m-sg	spa	Felipe	np-ant$np$np-ant-m$np-ant-m-sg
 	oci	Feliu	np$np-cog-mf-sp	spa	Feliu	np$np-cog
 	oci	Fermín	np	spa	Fermín	np$np-ant
 	oci	Fernanda	np	spa	Fernanda	np$np-ant$np-ant-f-sg
@@ -1972,7 +1972,7 @@ LR	oci	Foish	np-loc	spa	Foix	np$np-loc
 	oci	Fox	np$np-al	spa	Fox	np$np-cog$np-cog-mf
 	oci	Fraga	np$np-cog-mf-sp	spa	Fraga	np$np-cog
 	oci	GB	np	spa	GB	np
-	oci	Fran	np	spa	Fran	np$np-ant$np-ant-m
+	oci	Fran	np$np-ant-m-sg	spa	Fran	np$np-ant$np-ant-m
 	oci	Francesc	np	spa	Francesc	np$np-ant
 	oci	Francesca	np$np-ant-f-sg	spa	Francesca	np-ant$np
 	oci	Francesco	np$np-ant-m-sg	spa	Francesco	np$np-ant
@@ -2017,11 +2017,11 @@ LR	oci	Foish	np-loc	spa	Foix	np$np-loc
 	oci	Gandia	np$np-cog-mf-sp	spa	Gandia	np$np-cog
 	oci	Garci	np$np-cog-mf-sp	spa	Garci	np
 	oci	Garcia	np$np-cog-mf-sp	spa	Garcia	np$np-cog$np-cog-mf
-	oci	Garcilaso	np	spa	Garcilaso	np
+	oci	Garcilaso	np$np-ant-m-sg	spa	Garcilaso	np
 	oci	Garcés	np$np-cog-mf-sp	spa	Garcés	np$np-cog
 	oci	García	np$np-cog-mf-sp	spa	García	np$np-cog-mf$np-cog
 	oci	Gard	np$np-top-m-sg	spa	Gard	np$np-loc
-	oci	Garfield	np	spa	Garfield	np$np-ant
+	oci	Garfield	np$np-ant-m-sg	spa	Garfield	np$np-ant
 	oci	Gargallo	np$np-cog-mf-sp	spa	Gargallo	np$np-cog
 	oci	Garona	np$np-loc	spa	Garona	np$np-loc
 	oci	Garrido	np$np-cog-mf-sp	spa	Garrido	np$np-cog
@@ -2035,7 +2035,7 @@ LR	oci	Foish	np-loc	spa	Foix	np$np-loc
 	oci	Gasconha	np$np-top-f-sg	spa	Gascuña	np$np-loc$np-loc-f
 	oci	Gascón	np$np-cog-mf-sp	spa	Gascón	np$np-cog$np-cog-mf
 	oci	Gasol	np$np-cog-mf-sp	spa	Gasol	np$np-cog
-	oci	Gaspar	np	spa	Gaspar	np$np-ant
+	oci	Gaspar	np$np-ant-m-sg	spa	Gaspar	np$np-ant
 	oci	Gasset	np$np-cog-mf-sp	spa	Gasset	np$np-cog
 	oci	Gaston	np$np-cog-mf-sp	spa	Gaston	np$np-ant
 	oci	Gates	np$np-cog-mf-sp	spa	Gates	np$np-cog$np-cog-mf
@@ -2055,7 +2055,7 @@ LR	oci	Foish	np-loc	spa	Foix	np$np-loc
 	oci	Gerardo	np	spa	Gerardo	np$np-ant$np-ant-m-sg
 	oci	Germán	np$np-cog-mf-sp	spa	Germán	np$np-ant
 	oci	Gerry	np$np-ant-m-sg	spa	Gerry	np$np-ant
-	oci	Gers	np	spa	Gers	np$np-loc
+	oci	Gers	np$np-top-m-sg	spa	Gers	np$np-loc
 	oci	Gessa	np	spa	Gessa	np$np-loc
 	oci	Getafe	np	spa	Getafe	np$np-loc$np-loc-f
 	oci	Ghana	np$np-top-f-sg	spa	Ghana	np$np-loc-f$np-loc
@@ -2072,10 +2072,10 @@ LR	oci	Foish	np-loc	spa	Foix	np$np-loc
 	oci	Giralt	np$np-cog-mf-sp	spa	Giralt	np$np-cog
 RL	oci	Girona	np$np-cog-mf-sp	spa	Gerona	np$np-loc-f
 	oci	Girona	np$np-cog-mf-sp	spa	Girona	np$np-loc-f$np-loc
-	oci	Gironda	np	spa	Gironda	np$np-loc
+	oci	Gironda	np$np-top-f-sg	spa	Gironda	np$np-loc
 	oci	Gironella	np$np-cog-mf-sp	spa	Gironella	np$np-cog
 	oci	Giró	np$np-cog-mf-sp	spa	Giró	np
-	oci	Gisela	np	spa	Gisela	np$np-ant
+	oci	Gisela	np$np-ant-f-sg	spa	Gisela	np$np-ant
 	oci	Gloria	np$np-ant-f-sg	spa	Gloria	np$np-ant$np-ant-f-sg
 	oci	Godella	np	spa	Godella	np$np-loc$np-loc-f
 	oci	Godoy	np$np-cog-mf-sp	spa	Godoy	np$np-cog
@@ -2117,7 +2117,7 @@ RL	oci	Girona	np$np-cog-mf-sp	spa	Gerona	np$np-loc-f
 	oci	Guatemala	np$np-top-f-sg	spa	Guatemala	np$np-top-f$np-top
 	oci	Guernsey	np	spa	Guernsey	np$np-top
 	oci	Guerrero	np$np-al	spa	Guerrero	np$np-cog$np-cog-mf
-	oci	Guiana	np	spa	Guyena	np$np-loc
+	oci	Guiana	np$np-top-f-sg	spa	Guyena	np$np-loc
 	oci	Guijarro	np$np-cog-mf-sp	spa	Guijarro	np$np-cog
 	oci	Guilera	np$np-cog-mf-sp	spa	Guilera	np$np-cog
 	oci	Guillaume	np$np-cog-mf-sp	spa	Guillaume	np$np-ant
@@ -2142,7 +2142,7 @@ RL	oci	Girona	np$np-cog-mf-sp	spa	Gerona	np$np-loc-f
 	oci	Gómez	np$np-cog-mf-sp	spa	Gómez	np$np-cog$np-cog-mf
 	oci	Göring	np$np-cog-mf-sp	spa	Göring	np
 	oci	Güell	np$np-cog-mf-sp	spa	Güell	np$np-cog
-	oci	Günter	np	spa	Günter	np
+	oci	Günter	np$np-ant-m-sg	spa	Günter	np
 	oci	Haití	np$np-top-m-sg	spa	Haití	np$np-loc$np-loc-m
 	oci	Hamàs	np	spa	Hamàs	np
 	oci	Hanks	np$np-cog-mf-sp	spa	Hanks	np
@@ -2188,8 +2188,8 @@ RL	oci	Hezbollah	np	spa	Hezbol·lah	np$np-al
 	oci	Hospitalet	np-loc	spa	Hospitalet	np-loc$np$np-loc-m
 	oci	Hostafrancs	np	spa	Hostafrancs	np$np-loc
 	oci	Howard	np$np-cog-mf-sp	spa	Howard	np$np-ant
-	oci	Huelva	np	spa	Huelva	np$np-loc$np-loc-f
-	oci	Hugh	np	spa	Hugh	np$np-ant
+	oci	Huelva	np$np-top-f-sg	spa	Huelva	np$np-loc$np-loc-f
+	oci	Hugh	np$np-ant-m-sg	spa	Hugh	np$np-ant
 	oci	Hugo	np$np-ant-m-sg	spa	Hugo	np$np-ant$np-ant-m-sg
 	oci	Huguet	np$np-cog-mf-sp	spa	Huguet	np$np-cog
 	oci	Hurtado	np$np-cog-mf-sp	spa	Hurtado	np$np-cog
@@ -2255,20 +2255,20 @@ RL	oci	Hezbollah	np	spa	Hezbol·lah	np$np-al
 	oci	Isaura	np	spa	Isaura	np$np-ant
 	oci	Isidoro	np	spa	Isidoro	np$np-ant
 	oci	Isidre	np	spa	Isidre	np
-	oci	Isidro	np	spa	Isidro	np$np-ant
+	oci	Isidro	np$np-ant-m-sg	spa	Isidro	np$np-ant
 	oci	Islàndia	np$np-top-f-sg	spa	Islandia	np$np-loc$np-loc-f
 	oci	Israèl	np$np-top-m-sg	spa	Israel	np$np-ant$np-ant-m$np-ant-m-sg
-	oci	Isèra	np	spa	Isèra	np$np-loc
+	oci	Isèra	np$np-top-f-sg	spa	Isèra	np$np-loc
 	oci	Itàlia	np$np-top-f-sg	spa	Italia	np$np-loc$np-loc-f
 	oci	Ivan	np$np-ant-m-sg	spa	Ivan	np$np-ant$np-ant-m
 	oci	Ivanovic	np$np-cog-mf-sp	spa	Ivanovic	np
 	oci	Ivona	np$np-ant-f-sg	spa	Ivona	np
-	oci	Iván	np	spa	Iván	np$np-ant$np-ant-m-sg
+	oci	Iván	np$np-ant-m-sg	spa	Iván	np$np-ant$np-ant-m-sg
 	oci	Iàsser	np	spa	Iàsser	np
 	oci	Iñaki	np	spa	Iñaki	np$np-ant
 	oci	Iñaqui	np	spa	Iñaqui	np
 	oci	Jaca	np-loc	spa	Jaca	np-loc$np$np-loc-f
-	oci	Jacinta	np	spa	Jacinta	np$np-ant
+	oci	Jacinta	np$np-ant-f-sg	spa	Jacinta	np$np-ant
 	oci	Jacinto	np-ant$np-ant-m-sg	spa	Jacinto	np-ant$np
 	oci	Jack	np$np-ant-m-sg	spa	Jack	np$np-ant
 	oci	Jackson	np$np-cog-mf-sp	spa	Jackson	np$np-ant
@@ -2279,17 +2279,17 @@ RL	oci	Hezbollah	np	spa	Hezbol·lah	np$np-al
 	oci	James	np$np-ant-m-sg	spa	James	np$np-ant$np-ant-m
 	oci	Jan	np$np-ant-m-sg	spa	Jan	np$np-ant
 	oci	Jan Mayen	np	spa	Jan Mayen	np$np-loc
-	oci	Jana	np	spa	Jana	np$np-ant$np-ant-f
+	oci	Jana	np$np-ant-f-sg	spa	Jana	np$np-ant$np-ant-f
 	oci	Jane	np$np-ant-f-sg	spa	Jane	np$np-ant
 	oci	Janeiro	np$np-cog-mf-sp	spa	Janeiro	np$np-ant
 	oci	Japon	np$np-top-m-sg	spa	Japón	np$np-top-m$np-top
 	oci	Jara	np$np-cog-mf-sp	spa	Jara	np$np-ant
 	oci	Jarque	np$np-cog-mf-sp	spa	Jarque	np$np-cog
 	oci	Jason	np$np-ant-m-sg	spa	Jason	np$np-ant
-	oci	Jaume	np	spa	Jaume	np$np-ant
+	oci	Jaume	np$np-ant-m-sg	spa	Jaume	np$np-ant
 	oci	Javi	np	spa	Javi	np$np-ant
-	oci	Javier	np	spa	Javier	np$np-ant$np-ant-m-sg
-	oci	Jaén	np	spa	Jaén	np$np-loc$np-loc-f
+	oci	Javier	np$np-ant-m-sg	spa	Javier	np$np-ant$np-ant-m-sg
+	oci	Jaén	np$np-top-m-sg	spa	Jaén	np$np-loc$np-loc-f
 	oci	Jean	np$np-ant-m-sg	spa	Jean	np$np-ant
 	oci	Jennifer	np$np-ant-f-sg	spa	Jennifer	np$np-ant
 	oci	Jensen	np$np-cog-mf-sp	spa	Jensen	np$np-ant
@@ -2313,8 +2313,8 @@ RL	oci	Jerusalem	np	spa	Jerusalem	np$np-loc
 	oci	Joaquim	np$np-ant-m-sg	spa	Joaquim	np$np-ant
 	oci	Joaquín	np$np-ant-m-sg	spa	Joaquín	np$np-ant$np-ant-m-sg
 	oci	Joe	np$np-ant-m-sg	spa	Joe	np$np-ant
-	oci	Joel	np	spa	Joel	np$np-ant$np-ant-m$np-ant-m-sg
-	oci	Johan	np	spa	Johan	np$np-ant
+	oci	Joel	np$np-ant-m-sg	spa	Joel	np$np-ant$np-ant-m$np-ant-m-sg
+	oci	Johan	np$np-ant-m-sg	spa	Johan	np$np-ant
 	oci	Johansson	np$np-cog-mf-sp	spa	Johansson	np$np-ant
 	oci	John	np$np-ant-m-sg	spa	John	np$np-ant$np-ant-m
 	oci	Johnny	np$np-ant-m-sg	spa	Johnny	np$np-ant
@@ -2327,11 +2327,11 @@ RL	oci	Jerusalem	np	spa	Jerusalem	np$np-loc
 	oci	Jorge	np$np-ant-m-sg	spa	Jorge	np$np-ant$np-ant-m-sg
 	oci	Jose	np$np-ant-m-sg	spa	Jose	np$np-ant
 	oci	Joseba	np	spa	Joseba	np$np-ant
-	oci	Josefa	np	spa	Josefa	np$np-ant
+	oci	Josefa	np$np-ant-f-sg	spa	Josefa	np$np-ant
 	oci	Josefina	np$np-ant-f-sg	spa	Josefina	np$np-ant
 	oci	Josep	np$np-ant-m-sg	spa	Josep	np$np-ant
 	oci	Joseph	np$np-ant-m-sg	spa	Joseph	np$np-ant
-	oci	Joshua	np	spa	Joshua	np$np-ant
+	oci	Joshua	np$np-ant-m-sg	spa	Joshua	np$np-ant
 	oci	Josu	np	spa	Josu	np$np-ant
 	oci	Josué	np	spa	Josué	np$np-ant$np-ant-m$np-ant-m-sg
 	oci	Josèp	np-ant-m-sg$np	spa	Josèp	np
@@ -2367,7 +2367,7 @@ RL	oci	Jerusalem	np	spa	Jerusalem	np$np-loc
 	oci	Karl	np$np-ant-m-sg	spa	Karl	np$np-ant
 	oci	Karlos	np	spa	Karlos	np$np-ant-m-sg
 	oci	Kate	np$np-ant-f-sg	spa	Kate	np$np-ant
-	oci	Katrina	np	spa	Katrina	np$np-ant
+	oci	Katrina	np$np-ant-f-sg	spa	Katrina	np$np-ant
 	oci	Kazakhstan	np	spa	Kazajistán	np$np-top-m$np-top
 	oci	Keeling	np$np-cog-mf-sp	spa	Keeling	np$np-loc
 	oci	Kelly	np$np-cog-mf-sp	spa	Kelly	np$np-ant
@@ -2378,8 +2378,8 @@ RL	oci	Jerusalem	np	spa	Jerusalem	np$np-loc
 	oci	Kidman	np-ant	spa	Kidman	np-ant$np
 	oci	Kim	np$np-ant-f-sg	spa	Kim	np$np-ant
 	oci	Kirguizistan	np	spa	Kirguistán	np$np-loc$np-loc-m
-	oci	Kiribati	np	spa	Kiribati	np$np-loc$np-loc-f
-	oci	Kofi	np	spa	Kofi	np$np-ant
+	oci	Kiribati	np$np-top-m-sg	spa	Kiribati	np$np-loc$np-loc-f
+	oci	Kofi	np$np-ant-m-sg	spa	Kofi	np$np-ant
 	oci	Koldo	np	spa	Koldo	np$np-ant
 	oci	Kosovo	np-loc$np	spa	Kosovo	np-loc$np$np-loc-m
 	oci	Kowait	np	spa	Kuwait	np$np-top$np-top-m
@@ -2402,7 +2402,7 @@ RL	oci	Kyoto	np	spa	Kioto	np$np-loc
 	oci	Lanas	np$np-top-f-pl	spa	Landas	np$np-loc
 	oci	Los Angeles	np$np-top-m-sg	spa	Los Ángeles	np$np-loc$np-loc-m-pl$np-loc-m
 LR	oci	Languadòc	np	spa	Languedoc	np$np-loc
-	oci	Lanzarote	np	spa	Lanzarote	np$np-ant
+	oci	Lanzarote	np$np-top-m-sg	spa	Lanzarote	np$np-ant
 	oci	Laos	np	spa	Laos	np$np-loc$np-loc-m
 	oci	Laporta	np$np-cog-mf-sp	spa	Laporta	np$np-cog
 	oci	Lara	np$np-ant-f-sg	spa	Lara	np$np-ant
@@ -2431,8 +2431,8 @@ LR	oci	Lemòtges	np$np-top-m-sg	spa	Limoges	np$np-loc
 	oci	Letícia	np	spa	Letícia	np$np-ant
 	oci	Letònia	np$np-top-f-sg	spa	Letonia	np$np-loc$np-loc-f
 	oci	Lewis	np$np-cog-mf-sp	spa	Lewis	np$np-ant
-RL	oci	Lhèida	np	spa	Lérida	np$np-ant
-	oci	Lhèida	np	spa	Lleida	np$np-loc-f
+RL	oci	Lhèida	np$np-top-f-sg	spa	Lérida	np$np-ant
+	oci	Lhèida	np$np-top-f-sg	spa	Lleida	np$np-loc-f
 	oci	Liat	np	spa	Liat	np$np-loc
 	oci	Liban	np$np-top-m-sg	spa	Líbano	np$np-loc$np-loc-m
 	oci	Libia	np$np-top-f-sg	spa	Libia	np$np-loc$np-loc-f
@@ -2440,7 +2440,7 @@ RL	oci	Lhèida	np	spa	Lérida	np$np-ant
 	oci	Lidia	np	spa	Lidia	np$np-ant$np-ant-f
 	oci	Liechtenstein	np$np-top-m-sg	spa	Liechtenstein	np$np-loc$np-loc-m
 	oci	Ligúria	np	spa	Liguria	np$np-loc
-	oci	Liliana	np	spa	Liliana	np$np-ant$np-ant-f-sg
+	oci	Liliana	np$np-ant-f-sg	spa	Liliana	np$np-ant$np-ant-f-sg
 	oci	Limòtges	np$np-top-m-sg	spa	Limoges	np$np-loc
 	oci	Linares	np$np-cog-mf-sp	spa	Linares	np$np-cog
 	oci	Lindo	np$np-cog-mf-sp	spa	Lindo	np
@@ -2470,9 +2470,9 @@ LR	oci	Lleida	np	spa	Lleida	np$np-loc-f
 	oci	Loir	np	spa	Loir	np$np-loc
 	oci	Loiret	np$np-top-m-sg	spa	Loiret	np$np-loc
 	oci	Lois	np$np-ant-f-sg	spa	Lois	np$np-ant
-	oci	Lola	np	spa	Lola	np$np-ant$np-ant-f-sg
+	oci	Lola	np$np-ant-f-sg	spa	Lola	np$np-ant$np-ant-f-sg
 	oci	Loli	np	spa	Loli	np
-	oci	Lolita	np	spa	Lolita	np$np-ant
+	oci	Lolita	np$np-ant-f-sg	spa	Lolita	np$np-ant
 	oci	Lombardia	np$np-top-f-sg	spa	Lombardia	np$np-loc
 	oci	Londres	np$np-top-m-sg	spa	Londres	np$np-loc$np-loc-m$np-loc-m-sg
 	oci	Lorca	np$np-cog-mf-sp	spa	Lorca	np$np-cog
@@ -2495,7 +2495,7 @@ LR	oci	Lleida	np	spa	Lleida	np$np-loc-f
 	oci	Lugo	np$np-cog-mf-sp	spa	Lugo	np$np-loc$np-loc-f
 	oci	Luigi	np$np-ant-m-sg	spa	Luigi	np$np-ant
 	oci	Luis	np$np-ant-m-sg	spa	Luis	np$np-ant$np-ant-m-sg
-	oci	Luisa	np	spa	Luisa	np$np-ant
+	oci	Luisa	np$np-ant-f-sg	spa	Luisa	np$np-ant
 	oci	Lula	np	spa	Lula	np$np-ant
 	oci	Lunnis	np	spa	Lunnis	np
 	oci	Luque	np$np-cog-mf-sp	spa	Luque	np$np-cog
@@ -2506,7 +2506,7 @@ LR	oci	Lleida	np	spa	Lleida	np$np-loc-f
 	oci	Lídia	np	spa	Lídia	np$np-ant
 	oci	López	np$np-cog-mf-sp	spa	López	np$np-cog$np-cog-mf
 	oci	MNAC	np	spa	MNAC	np
-	oci	Mabel	np	spa	Mabel	np$np-ant
+	oci	Mabel	np$np-ant-f-sg	spa	Mabel	np$np-ant
 	oci	Macau	np	spa	Macao	np$np-loc
 	oci	Maccabi	np	spa	Maccabi	np
 	oci	Macedònia	np$np-top-f-sg	spa	Macedonia	np$np-loc$np-loc-f
@@ -2516,13 +2516,13 @@ LR	oci	Lleida	np	spa	Lleida	np$np-loc-f
 	oci	Maestre	np$np-cog-mf-sp	spa	Maestre	np$np-cog
 	oci	Magda	np	spa	Magda	np$np-ant
 	oci	Magdalena	np$np-ant-f-sg	spa	Magdalena	np$np-ant$np-ant-f
-	oci	Maggie	np	spa	Maggie	np$np-ant
+	oci	Maggie	np$np-ant-f-sg	spa	Maggie	np$np-ant
 	oci	Magràs	np$np-cog-mf-sp	spa	Carnestoltes	np
 	oci	Mahfuz	np$np-cog-mf-sp	spa	Mahfuz	np
 	oci	Mahoma	np	spa	Mahoma	np$np-ant
 	oci	Maine	np$np-top-m-sg	spa	Maine	np$np-loc$np-loc-m
 	oci	Maite	np	spa	Maite	np$np-ant
-	oci	Maiòta	np	spa	Mayotte	np$np-loc
+	oci	Maiòta	np$np-top-f-sg	spa	Mayotte	np$np-loc
 	oci	Majó	np$np-cog-mf-sp	spa	Majó	np$np-cog
 	oci	Malabo	np	spa	Malabo	np$np-loc$np-loc-m
 	oci	Malawi	np$np-top-m-sg	spa	Malawi	np$np-loc$np-loc-m
@@ -2546,7 +2546,7 @@ LR	oci	Lleida	np	spa	Lleida	np$np-loc-f
 	oci	Manrique	np$np-cog-mf-sp	spa	Manrique	np$np-ant-m$np-ant
 	oci	Manu	np$np-ant-m-sg	spa	Manu	np$np-ant
 	oci	Manuel	np-ant$np-ant-m-sg	spa	Manuel	np-ant$np$np-ant-m-sg
-	oci	Manuela	np	spa	Manuela	np$np-ant
+	oci	Manuela	np$np-ant-f-sg	spa	Manuela	np$np-ant
 	oci	Manuqueta	np	spa	Manuqueta	np
 	oci	Manzano	np$np-cog-mf-sp	spa	Manzano	np$np-cog
 	oci	Manèl	np	spa	Manèl	np
@@ -2579,7 +2579,7 @@ LR	oci	Lleida	np	spa	Lleida	np$np-loc-f
 	oci	Marisa	np	spa	Marisa	np$np-ant
 	oci	Marisol	np	spa	Marisol	np$np-ant$np-ant-f-sg
 	oci	Mark	np$np-ant-m-sg	spa	Mark	np$np-ant
-	oci	Markus	np	spa	Markus	np$np-ant
+	oci	Markus	np$np-ant-m-sg	spa	Markus	np$np-ant
 	oci	Marna	np$np-top-m-sg	spa	Marna	np$np-loc
 	oci	Maroto	np$np-cog-mf-sp	spa	Maroto	np$np-cog$np-cog-mf
 	oci	Marquina	np$np-cog-mf-sp	spa	Marquina	np$np-cog
@@ -2593,9 +2593,9 @@ LR	oci	Marseille	np$np-cog-mf-sp	spa	Marsella	np$np-loc-f$np-loc
 	oci	Martin	np$np-ant-m-sg	spa	Martin	np$np-ant$np-ant-m
 	oci	Martinez	np$np-cog-mf-sp	spa	Martinez	np$np-cog$np-cog-mf
 	oci	Martinhon	np$np-cog-mf-sp	spa	Martinhon	np
-	oci	Martinica	np	spa	Martinica	np$np-loc$np-loc-f
+	oci	Martinica	np$np-top-f-sg	spa	Martinica	np$np-loc$np-loc-f
 	oci	Martorell	np$np-cog-mf-sp	spa	Martorell	np$np-cog$np-cog-mf
-	oci	Martí	np	spa	Martí	np$np-ant
+	oci	Martí	np$np-cog-mf-sp	spa	Martí	np$np-ant
 	oci	Martín	np	spa	Martín	np$np-ant$np-ant-m-sg
 	oci	Martínez	np$np-cog-mf-sp	spa	Martínez	np$np-cog$np-cog-mf
 LR	oci	Marx	np$np-cog-mf-sp	spa	Marx	np$np-cog$np-cog-mf
@@ -2605,7 +2605,7 @@ RL	oci	Marés	np$np-cog-mf-sp	spa	Marés	np$np-cog
 	oci	Marés	np$np-cog-mf-sp	spa	Marés	np$np-cog
 	oci	María	np$np-ant-f-sg	spa	María	np$np-ant$np-ant-f$np-ant-f-sg
 	oci	Marín	np$np-cog-mf-sp	spa	Marín	np$np-cog$np-cog-mf
-	oci	Mas	np-al$np	spa	Mas	np-al
+	oci	Mas	np$np-al	spa	Mas	np-al
 	oci	Mas	np-ant	spa	Mas	np-ant
 	oci	Mascarell	np$np-cog-mf-sp	spa	Mascarell	np$np-cog
 	oci	Massip	np$np-cog-mf-sp	spa	Massip	np
@@ -2630,8 +2630,8 @@ RL	oci	Maó	np	spa	Mahón	np
 	oci	Medina	np$np-cog-mf-sp	spa	Medina	np$np-loc$np-loc-f
 	oci	Mediterrani	np	spa	Mediterráneo	np-loc$np$np-loc-m
 	oci	Melbourne	np$np-top-m-sg	spa	Melbourne	np$np-loc
-	oci	Melilla	np	spa	Melilla	np$np-loc$np-loc-f
-	oci	Melinda	np	spa	Melinda	np$np-ant
+	oci	Melilla	np$np-top-f-sg	spa	Melilla	np$np-loc$np-loc-f
+	oci	Melinda	np$np-ant-f-sg	spa	Melinda	np$np-ant
 	oci	Memphis	np	spa	Memphis	np
 	oci	Mena	np$np-cog-mf-sp	spa	Mena	np$np-cog
 	oci	Mendoza	np$np-cog-mf-sp	spa	Mendoza	np$np-cog$np-cog-mf
@@ -2642,7 +2642,7 @@ RL	oci	Maó	np	spa	Mahón	np
 	oci	Mercè	np$np-cog-mf-sp	spa	Mercè	np$np-ant
 	oci	Meridiana	np	spa	Meridiana	np$np-loc
 	oci	Merino	np$np-cog-mf-sp	spa	Merino	np$np-cog$np-cog-mf
-	oci	Meritxell	np	spa	Meritxell	np$np-ant
+	oci	Meritxell	np$np-ant-f-sg	spa	Meritxell	np$np-ant
 	oci	Merkel	np$np-cog-mf-sp	spa	Merkel	np$np-cog
 	oci	Mescladís	np	spa	Mescladís	np
 	oci	Meseguer	np$np-cog-mf-sp	spa	Meseguer	np$np-cog
@@ -2661,7 +2661,7 @@ RL	oci	Mexic	np$np-top-m-sg	spa	Méjico	np$np-top-m$np-top
 	oci	Mieras	np$np-cog-mf-sp	spa	Mieras	np
 	oci	Miguel	np$np-ant-m-sg	spa	Miguel	np$np-ant$np-ant-m$np-ant-m-sg
 	oci	Mijaran	np-loc	spa	Mijaran	np-loc$np
-	oci	Mikel	np	spa	Mikel	np$np-ant
+	oci	Mikel	np$np-ant-m-sg	spa	Mikel	np$np-ant
 	oci	Mila	np	spa	Mila	np$np-ant$np-ant-f
 	oci	Milena	np	spa	Milena	np$np-ant$np-ant-f
 	oci	Miller	np$np-cog-mf-sp	spa	Miller	np$np-cog$np-cog-mf
@@ -2673,14 +2673,14 @@ RL	oci	Mexic	np$np-top-m-sg	spa	Méjico	np$np-top-m$np-top
 	oci	Minerva	np	spa	Minerva	np$np-ant$np-ant-f
 	oci	Minnesota	np$np-top-f-sg	spa	Minnesota	np$np-loc$np-loc-f
 	oci	Minoves	np$np-cog-mf-sp	spa	Minoves	np
-	oci	Miquel	np	spa	Miquel	np$np-ant
+	oci	Miquel	np$np-ant-m-sg	spa	Miquel	np$np-ant
 	oci	Miquelet	np	spa	Miquelet	np
 	oci	Miquèu	np	spa	Miquèu	np
 	oci	Miralles	np$np-cog-mf-sp	spa	Miralles	np$np-cog
 	oci	Miranda	np$np-cog-mf-sp	spa	Miranda	np$np-ant$np-ant-f-sg
 	oci	Miravitlles	np	spa	Miravitlles	np$np-loc
 	oci	Mireia	np	spa	Mireia	np$np-ant
-	oci	Miriam	np	spa	Miriam	np$np-ant$np-ant-f-sg
+	oci	Miriam	np$np-ant-f-sg	spa	Miriam	np$np-ant$np-ant-f-sg
 	oci	Miró	np$np-cog-mf-sp	spa	Miró	np$np-cog
 	oci	Mislata	np	spa	Mislata	np$np-loc$np-loc-f
 	oci	Mistral	np$np-cog	spa	Mistral	np$np-loc
@@ -2696,7 +2696,7 @@ RL	oci	Mexic	np$np-top-m-sg	spa	Méjico	np$np-top-m$np-top
 	oci	Mollet	np	spa	Mollet	np$np-loc$np-loc-f
 	oci	Monclòa	np	spa	Monclòa	np
 	oci	Monge	np$np-cog-mf-sp	spa	Monge	np$np-cog
-	oci	Mongolia	np	spa	Mongolia	np$np-loc$np-loc-f
+	oci	Mongolia	np$np-top-f-sg	spa	Mongolia	np$np-loc$np-loc-f
 	oci	Monica	np$np-ant-f-sg	spa	Monica	np$np-ant
 	oci	Montalbán	np$np-cog-mf-sp	spa	Montalbán	np$np-cog
 	oci	Montardo	np	spa	Montardo	np$np-loc
@@ -2764,7 +2764,7 @@ RL	oci	Mutxamel	np	spa	Muchamiel	np
 	oci	Mònica	np	spa	Mònica	np$np-ant
 	oci	Mónegue	np	spa	Mónaco	np$np-loc$np-loc-m
 	oci	Mónica	np	spa	Mónica	np$np-ant$np-ant-f-sg
-	oci	Móstoles	np	spa	Móstoles	np$np-loc$np-loc-f
+	oci	Móstoles	np$np-top-m-sg	spa	Móstoles	np$np-loc$np-loc-f
 	oci	Múgica	np$np-cog-mf-sp	spa	Múgica	np
 	oci	Múrcia	np$np-loc	spa	Murcia	np$np-loc$np-loc-f
 	oci	Nacho	np	spa	Nacho	np$np-ant
@@ -2780,7 +2780,7 @@ RL	oci	Narcís	np	spa	Narcís	np$np-ant
 	oci	Narváez	np$np-cog-mf-sp	spa	Narváez	np$np-cog
 	oci	Natalia	np$np-ant-f-sg	spa	Natalia	np$np-ant$np-ant-f-sg
 	oci	Natalie	np$np-ant-f-sg	spa	Natalie	np$np-ant
-	oci	Natividad	np	spa	Natividad	np$np-ant
+	oci	Natividad	np$np-ant-f-sg	spa	Natividad	np$np-ant
 	oci	Nature	np-al	spa	Nature	np-al$np
 	oci	Natàlia	np	spa	Natàlia	np$np-ant
 	oci	Naua Caledònia	np	spa	Nueva Caledonia	np$np-loc$np-loc-f
@@ -2808,7 +2808,7 @@ RL	oci	Narcís	np	spa	Narcís	np$np-ant
 	oci	Niro	np	spa	Niro	np$np-cog
 	oci	Niue	np	spa	Niue	np$np-loc
 	oci	Niça	np$np-top-f-sg	spa	Niza	np$np-loc$np-loc-f
-	oci	Nièvre	np	spa	Nièvre	np$np-loc
+	oci	Nièvre	np$np-top-m-sg	spa	Nièvre	np$np-loc
 	oci	Nobel	np$np-cog-mf-sp	spa	Nobel	np$np-cog-mf
 	oci	Noddy	np	spa	Noddy	np
 	oci	Noelia	np	spa	Noelia	np$np-ant
@@ -2823,7 +2823,7 @@ LR	oci	Noruega	np	spa	Noruega	np$np-loc$np-loc-f
 	oci	Norvègia	np$np-top-f-sg	spa	Noruega	np$np-loc$np-loc-f
 	oci	Nouvel	np$np-cog-mf-sp	spa	Nouvel	np
 	oci	Numància	np	spa	Numancia	np$np-loc
-	oci	Nuria	np	spa	Nuria	np$np-ant
+	oci	Nuria	np$np-ant-f-sg	spa	Nuria	np$np-ant
 	oci	Nàpols	np$np-top-m-sg	spa	Nápoles	np$np-loc$np-loc-m
 	oci	Nàstic	np	spa	Nàstic	np
 	oci	Núria	np	spa	Núria	np$np-ant
@@ -2839,7 +2839,7 @@ LR	oci	Noruega	np	spa	Noruega	np$np-loc$np-loc-f
 	oci	Olanda	np$np-top-f-sg	spa	Holanda	np$np-loc$np-loc-f
 	oci	Oleguer	np	spa	Oleguer	np$np-ant
 	oci	Olesa	np	spa	Olesa	np$np-loc$np-loc-f
-	oci	Olga	np	spa	Olga	np$np-ant$np-ant-f
+	oci	Olga	np$np-ant-f-sg	spa	Olga	np$np-ant$np-ant-f
 	oci	Oliva	np$np-cog-mf-sp	spa	Oliva	np$np-loc$np-loc-f
 	oci	Olivares	np$np-cog-mf-sp	spa	Olivares	np$np-cog$np-cog-mf
 	oci	Oliveira	np$np-cog-mf-sp	spa	Oliveira	np$np-cog
@@ -2904,7 +2904,7 @@ LR	oci	Pallars	np	spa	Pallars	np$np-loc
 	oci	Pamplona	np$np-cog-mf-sp	spa	Pamplona	np$np-loc-f$np-loc
 	oci	Panamà	np$np-top-m-sg	spa	Panamá	np$np-top-m$np-top
 	oci	Panza	np$np-cog-mf-sp	spa	Panza	np$np-cog-mf
-	oci	Paola	np	spa	Paola	np$np-ant$np-ant-f-sg
+	oci	Paola	np$np-ant-f-sg	spa	Paola	np$np-ant$np-ant-f-sg
 	oci	Paolo	np$np-ant-m-sg	spa	Paolo	np$np-ant
 	oci	Papagueno	np	spa	Papagueno	np
 	oci	Papoa Naua Guinèa	np	spa	Papúa Nueva Guinea	np$np-loc$np-loc-f
@@ -2917,12 +2917,12 @@ LR	oci	Paquistan	np$np-top-m-sg	spa	Pakistán	np$np-loc$np-loc-m
 	oci	Partal	np$np-cog-mf-sp	spa	Partal	np
 	oci	París	np$np-top-m-sg	spa	París	np$np-loc$np-loc-m
 	oci	Pascal	np$np-cog-mf-sp	spa	Pascal	np$np-ant
-	oci	Pascual	np	spa	Pascual	np$np-ant
+	oci	Pascual	np$np-ant-m-sg	spa	Pascual	np$np-ant
 	oci	Pasqual	np$np-cog-mf-sp	spa	Pasqual	np$np-ant
-	oci	Paterna	np	spa	Paterna	np$np-loc$np-loc-f
+	oci	Paterna	np$np-top-f-sg	spa	Paterna	np$np-loc$np-loc-f
 	oci	Patricia	np$np-ant-f-sg	spa	Patricia	np$np-ant$np-ant-f-sg
 	oci	Patrick	np$np-ant-m-sg	spa	Patrick	np$np-ant
-	oci	Patxi	np	spa	Patxi	np$np-ant
+	oci	Patxi	np$np-ant-m-sg	spa	Patxi	np$np-ant
 	oci	Pau	np-ant-m-sg$np$np-ant	spa	Pau	np$np-ant
 	oci	Paul	np$np-ant-f-sg	spa	Paul	np$np-ant
 	oci	Paula	np$np-ant-f-sg	spa	Paula	np$np-ant
@@ -2935,7 +2935,7 @@ LR	oci	Paquistan	np$np-top-m-sg	spa	Pakistán	np$np-loc$np-loc-m
 	oci	Pedro	np$np-ant-m-sg	spa	Pedro	np$np-ant$np-ant-m$np-ant-m-sg
 	oci	Pedrosa	np$np-cog-mf-sp	spa	Pedrosa	np$np-cog
 	oci	Pedrós	np$np-cog-mf-sp	spa	Pedrós	np$np-cog
-	oci	Peitau	np	spa	Peitau	np$np-loc
+	oci	Peitau	np$np-top-m-sg	spa	Peitau	np$np-loc
 	oci	Pelayo	np$np-cog-mf-sp	spa	Pelayo	np$np-ant
 	oci	Pellicer	np$np-cog-mf-sp	spa	Pellicer	np$np-cog
 	oci	Penedès	np-loc	spa	Penedès	np$np-loc
@@ -2950,7 +2950,7 @@ LR	oci	Paquistan	np$np-top-m-sg	spa	Pakistán	np$np-loc$np-loc-m
 	oci	Perales	np$np-cog-mf-sp	spa	Perales	np$np-cog
 	oci	Peralta	np$np-cog-mf-sp	spa	Peralta	np$np-cog
 	oci	Perdices	np$np-cog-mf-sp	spa	Perdices	np
-	oci	Pere	np	spa	Pere	np$np-ant
+	oci	Pere	np$np-ant-m-sg	spa	Pere	np$np-ant
 	oci	Perea	np$np-cog-mf-sp	spa	Perea	np$np-cog
 	oci	Pereira	np$np-cog-mf-sp	spa	Pereira	np$np-cog
 	oci	Perelló	np$np-cog-mf-sp	spa	Perelló	np$np-cog
@@ -2974,7 +2974,7 @@ RL	oci	Picanya	np	spa	Picaña	np
 	oci	Pierce	np$np-cog-mf-sp	spa	Pierce	np$np-ant
 	oci	Pierre	np$np-ant-m-sg	spa	Pierre	np$np-ant
 	oci	Piferrer	np$np-cog-mf-sp	spa	Piferrer	np$np-cog
-	oci	Pilar	np	spa	Pilar	np$np-ant$np-ant-f
+	oci	Pilar	np$np-ant-f-sg	spa	Pilar	np$np-ant$np-ant-f
 	oci	Pili	np	spa	Pili	np$np-ant
 	oci	Pinaret	np	spa	Pinaret	np$np-loc
 	oci	Pineda	np$np-cog-mf-sp	spa	Pineda	np$np-cog
@@ -3004,7 +3004,7 @@ RL	oci	Pizarro	np$np-cog-mf-sp	spa	Pizarro	np$np-cog-mf$np-cog
 	oci	Politecnica	np	spa	Politècnica	np
 	oci	Politkòvskaia	np	spa	Politkòvskaia	np
 LR	oci	Polonha	np$np-top-f-sg	spa	Polonia	np$np-loc$np-loc-f
-	oci	Polítkovskaia	np	spa	Polítkovskaia	np
+	oci	Polítkovskaia	np$np-cog-mf-sp	spa	Polítkovskaia	np
 	oci	Polònia	np	spa	Polonia	np$np-loc$np-loc-f
 	oci	Pomares	np$np-cog-mf-sp	spa	Pomares	np$np-cog
 	oci	Pompeu	np	spa	Pompeu	np
@@ -3012,7 +3012,7 @@ LR	oci	Polonha	np$np-top-f-sg	spa	Polonia	np$np-loc$np-loc-f
 	oci	Pons	np$np-cog-mf-sp	spa	Pons	np$np-ant
 	oci	Pont	np-al$np	spa	Pont	np-al
 	oci	Pont	np-ant	spa	Pont	np-ant
-	oci	Pontevedra	np	spa	Pontevedra	np$np-loc$np-loc-f
+	oci	Pontevedra	np$np-top-f-sg	spa	Pontevedra	np$np-loc$np-loc-f
 	oci	Portabella	np$np-cog-mf-sp	spa	Portabella	np$np-cog
 	oci	Portaferrissa	np	spa	Portaferrissa	np$np-loc
 	oci	Portbou	np	spa	Portbou	np$np-loc$np-loc-f
@@ -3052,7 +3052,7 @@ LR	oci	Prouvènço	np	spa	Provenza	np$np-loc$np-loc-f
 	oci	Putin	np$np-cog-mf-sp	spa	Putin	np$np-cog$np-cog-mf
 	oci	Puyal	np$np-cog-mf-sp	spa	Puyal	np$np-cog
 	oci	Puyol	np$np-cog-mf-sp	spa	Puyol	np$np-cog
-	oci	Puèi Domat	np	spa	Puèi Domat	np$np-loc
+	oci	Puèi Domat	np$np-top-m-sg	spa	Puèi Domat	np$np-loc
 	oci	Pyongyang	np	spa	Pyongyang	np$np-loc
 	oci	Pàmies	np$np-cog-mf-sp	spa	Pàmies	np$np-cog
 	oci	Pèir	np	spa	Pèir	np
@@ -3078,10 +3078,10 @@ LR	oci	Prouvènço	np	spa	Provenza	np$np-loc$np-loc-f
 	oci	Rabobank	np-al	spa	Rabobank	np-al$np$np-al-mf
 	oci	Rachel	np$np-ant-f-sg	spa	Rachel	np$np-ant
 	oci	Racing	np$np-al-m-sg	spa	Racing	np
-	oci	Rafa	np	spa	Rafa	np$np-ant
+	oci	Rafa	np$np-ant-m-sg	spa	Rafa	np$np-ant
 	oci	Rafael	np$np-ant-m-sg	spa	Rafael	np$np-ant$np-ant-m$np-ant-m-sg
 	oci	Rafèl	np	spa	Rafèl	np
-	oci	Raimon	np	spa	Raimon	np$np-ant
+	oci	Raimon	np$np-ant-m-sg	spa	Raimon	np$np-ant
 	oci	Raimundo	np	spa	Raimundo	np$np-ant
 	oci	Rajadell	np	spa	Rajadell	np$np-loc-f
 	oci	Rajoy	np$np-cog-mf-sp	spa	Rajoy	np$np-ant
@@ -3096,7 +3096,7 @@ LR	oci	Prouvènço	np	spa	Provenza	np$np-loc$np-loc-f
 	oci	Ratzinger	np$np-cog-mf-sp	spa	Ratzinger	np$np-ant
 	oci	Ray	np$np-ant-m-sg	spa	Ray	np$np-ant
 	oci	Raymond	np$np-ant-m-sg	spa	Raymond	np$np-ant
-	oci	Raúl	np	spa	Raúl	np$np-ant$np-ant-m-sg
+	oci	Raúl	np$np-ant-m-sg	spa	Raúl	np$np-ant$np-ant-m-sg
 	oci	Raül	np	spa	Raül	np$np-ant
 	oci	Rebeca	np	spa	Rebeca	np$np-ant$np-ant-f
 	oci	Recha	np$np-cog-mf-sp	spa	Recha	np
@@ -3169,9 +3169,9 @@ RL	oci	Romania	np$np-top-f-sg	spa	Rumania	np$np-top-f$np-top
 	oci	Romeo	np$np-cog-mf-sp	spa	Romeo	np$np-ant$np-ant-m
 	oci	Romero	np$np-cog-mf-sp	spa	Romero	np$np-cog$np-cog-mf
 	oci	Romeu	np$np-cog-mf-sp	spa	Romeu	np$np-cog
-	oci	Román	np	spa	Román	np$np-ant$np-ant-m-sg
-	oci	Ronaldinho	np	spa	Ronaldinho	np
-	oci	Ronaldo	np	spa	Ronaldo	np$np-ant
+	oci	Román	np$np-ant-m-sg	spa	Román	np$np-ant$np-ant-m-sg
+	oci	Ronaldinho	np$np-ant-m-sg	spa	Ronaldinho	np
+	oci	Ronaldo	np$np-ant-m-sg	spa	Ronaldo	np$np-ant
 	oci	Roosevelt	np$np-cog-mf-sp	spa	Roosevelt	np$np-ant
 	oci	Roque	np$np-cog-mf-sp	spa	Roque	np$np-cog
 	oci	Ros	np$np-cog-mf-sp	spa	Ros	np$np-cog
@@ -3197,7 +3197,7 @@ RL	oci	Rosselhon	np$np-top-m-sg	spa	Rosellón	np$np-loc
 	oci	Rubí	np$np-cog-mf-sp	spa	Rubí	np$np-ant
 	oci	Ruda	np	spa	Ruda	np$np-loc
 	oci	Rudy	np$np-ant-m-sg	spa	Rudy	np$np-ant
-	oci	Rufino	np	spa	Rufino	np$np-ant
+	oci	Rufino	np$np-ant-m-sg	spa	Rufino	np$np-ant
 	oci	Ruiz	np$np-cog-mf-sp	spa	Ruiz	np$np-cog-mf$np-cog
 	oci	Rupert	np$np-cog-mf-sp	spa	Rupert	np$np-cog
 	oci	Ruscalleda	np$np-cog-mf-sp	spa	Ruscalleda	np$np-cog
@@ -3206,16 +3206,16 @@ RL	oci	Rosselhon	np$np-top-m-sg	spa	Rosellón	np$np-loc
 	oci	Rwanda	np$np-top-f-sg	spa	Ruanda	np$np-loc$np-loc-f
 	oci	Ryan	np$np-ant-m-sg	spa	Ryan	np$np-ant
 	oci	Ryanair	np	spa	Ryanair	np
-	oci	Ròc	np	spa	Ròc	np
+	oci	Ròc	np$np-ant-m-sg	spa	Ròc	np
 	oci	Ròse	np$np-top-m-sg	spa	Ròse	np$np-loc
 	oci	Rússia	np	spa	Rusia	np$np-top$np-top-f
 	oci	Saavedra	np$np-cog-mf-sp	spa	Saavedra	np$np-cog$np-cog-mf
 	oci	Sabadell	np$np-cog-mf-sp	spa	Sabadell	np$np-cog
 	oci	Saco	np	spa	Saco	np
 	oci	Sadam	np	spa	Sadam	np$np-ant
-LR	oci	Saddam	np	spa	Saddam	np$np-ant
-RL	oci	Saddam	np	spa	Saddam	np$np-ant
-	oci	Saddam	np	spa	Saddam	np$np-ant
+LR	oci	Saddam	np$np-ant-m-sg	spa	Saddam	np$np-ant
+RL	oci	Saddam	np$np-ant-m-sg	spa	Saddam	np$np-ant
+	oci	Saddam	np$np-ant-m-sg	spa	Saddam	np$np-ant
 	oci	Safor	np	spa	Safor	np$np-loc
 	oci	Sagarra	np$np-cog-mf-sp	spa	Sagarra	np$np-cog
 	oci	Sagra	np	spa	Sagra	np$np-loc$np-loc-f
@@ -3253,7 +3253,7 @@ LR	oci	Salzburg	np	spa	Salzburgo	np$np-loc
 	oci	Sanchís	np$np-cog-mf-sp	spa	Sanchís	np$np-cog
 	oci	Sandoval	np$np-cog-mf-sp	spa	Sandoval	np$np-cog
 	oci	Sandra	np$np-ant-f-sg	spa	Sandra	np$np-ant$np-ant-f-sg
-	oci	Sandro	np	spa	Sandro	np$np-ant
+	oci	Sandro	np$np-ant-m-sg	spa	Sandro	np$np-ant
 	oci	Sangenís	np$np-cog-mf-sp	spa	Sangenís	np$np-cog
 	oci	Sanger	np$np-cog-mf-sp	spa	Sanger	np
 	oci	Sanjuán	np$np-cog-mf-sp	spa	Sanjuán	np
@@ -3287,7 +3287,7 @@ LR	oci	Salzburg	np	spa	Salzburgo	np$np-loc
 	oci	Saura	np$np-cog-mf-sp	spa	Saura	np$np-ant
 	oci	Saviola	np$np-cog-mf-sp	spa	Saviola	np
 	oci	Savòia	np$np-top-f-sg	spa	Saboya	np-loc$np$np-loc-f
-	oci	Scarlett	np	spa	Scarlett	np$np-ant
+	oci	Scarlett	np$np-ant-f-sg	spa	Scarlett	np$np-ant
 	oci	Schröder	np$np-cog-mf-sp	spa	Schröder	np$np-ant
 	oci	Schumacher	np$np-cog-mf-sp	spa	Schumacher	np$np-ant
 	oci	Schönberg	np$np-cog-mf-sp	spa	Schönberg	np
@@ -3335,7 +3335,7 @@ LR	oci	Seychelles	np	spa	Seychelles	np$np-loc-f-pl$np-loc$np-loc-f
 LR	oci	Singapur	np	spa	Singapur	np$np-loc$np-loc-m
 	oci	Sinisterra	np$np-cog-mf-sp	spa	Sinisterra	np
 	oci	Siria	np$np-top-f-sg	spa	Siria	np$np-loc$np-loc-f
-	oci	Sitges	np	spa	Sitges	np$np-loc$np-loc-f
+	oci	Sitges	np$np-top-f-sg	spa	Sitges	np$np-loc$np-loc-f
 	oci	Smith	np$np-cog-mf-sp	spa	Smith	np$np-cog-mf$np-cog
 	oci	Socasau	np$np-cog-mf-sp	spa	Socasau	np
 	oci	Sodan	np$np-top-m-sg	spa	Sudán	np$np-top$np-top-m
@@ -3345,7 +3345,7 @@ LR	oci	Singapur	np	spa	Singapur	np$np-loc$np-loc-m
 	oci	Solana	np$np-cog-mf-sp	spa	Solana	np$np-ant
 	oci	Solbes	np$np-cog-mf-sp	spa	Solbes	np
 	oci	Sole	np$np-cog-mf-sp	spa	Sole	np
-	oci	Soledad	np	spa	Soledad	np$np-ant
+	oci	Soledad	np$np-ant-f-sg	spa	Soledad	np$np-ant
 	oci	Soler	np$np-cog-mf-sp	spa	Soler	np$np-cog$np-cog-mf
 	oci	Solà	np$np-cog-mf-sp	spa	Solà	np$np-cog
 	oci	Solé	np$np-cog-mf-sp	spa	Solé	np$np-cog
@@ -3389,7 +3389,7 @@ LR	oci	Singapur	np	spa	Singapur	np$np-loc$np-loc-m
 LR	oci	Suèda	np	spa	Suecia	np$np-loc$np-loc-f
 	oci	Suïls	np	spa	Suïls	np
 	oci	Suñer	np$np-cog-mf-sp	spa	Suñer	np$np-cog
-	oci	Svalbard	np	spa	Svalbard	np$np-loc
+	oci	Svalbard	np$np-top-m-sg	spa	Svalbard	np$np-loc
 LR	oci	Swansea	np	spa	Swansea	np$np-loc
 	oci	Swazilàndia	np	spa	Suazilandia	np$np-top-f$np-top
 	oci	Sydney	np$np-top-m-sg	spa	Sydney	np$np-loc
@@ -3406,7 +3406,7 @@ LR	oci	Swansea	np	spa	Swansea	np$np-loc
 	oci	Taiwan	np$np-top-m-sg	spa	Taiwán	np$np-loc$np-loc-m
 	oci	Talgo	np	spa	Talgo	np
 	oci	Tamino	np	spa	Tamino	np
-	oci	Tania	np	spa	Tania	np$np-ant
+	oci	Tania	np$np-ant-f-sg	spa	Tania	np$np-ant
 	oci	Tanzania	np	spa	Tanzania	np$np-top-f$np-top
 	oci	Tapiador	np$np-cog-mf-sp	spa	Tapiador	np
 	oci	Tarantino	np$np-cog-mf-sp	spa	Tarantino	np$np-cog$np-cog-mf
@@ -3426,7 +3426,7 @@ LR	oci	Swansea	np	spa	Swansea	np$np-loc
 	oci	Telefónica	np	spa	Telefónica	np$np-al-f
 	oci	Tello	np$np-cog-mf-sp	spa	Tello	np$np-cog
 	oci	Tena	np$np-cog-mf-sp	spa	Tena	np$np-cog
-	oci	Tenerife	np	spa	Tenerife	np$np-loc$np-loc-m
+	oci	Tenerife	np$np-top-m-sg	spa	Tenerife	np$np-loc$np-loc-m
 	oci	Teodora	np	spa	Teodora	np$np-ant
 	oci	Teodoro	np$np-cog-mf-sp	spa	Teodoro	np$np-ant
 	oci	Tere	np	spa	Tere	np$np-ant
@@ -3489,7 +3489,7 @@ LR	oci	Trentin	np	spa	Trento	np$np-loc
 	oci	Turin	np$np-top-m-sg	spa	Turín	np$np-loc$np-loc-m
 	oci	Turkmenistan	np	spa	Turkmenistán	np$np-loc$np-loc-m
 	oci	Turquia	np$np-top-f-sg	spa	Turquía	np$np-loc$np-loc-f
-	oci	Tuvalu	np	spa	Tuvalu	np$np-loc
+	oci	Tuvalu	np$np-top-m-sg	spa	Tuvalu	np$np-loc
 	oci	Tàpies	np$np-cog-mf-sp	spa	Tàpies	np$np-cog$np-cog-mf
 	oci	Tàrrega	np$np-cog-mf-sp	spa	Tàrrega	np$np-loc$np-loc-f
 	oci	Tárrega	np$np-cog-mf-sp	spa	Tárrega	np
@@ -3509,9 +3509,9 @@ LR	oci	Urgell	np$np-cog-mf-sp	spa	Urgell	np$np-cog
 	oci	Uzbekistan	np	spa	Uzbekistán	np$np-loc$np-loc-m
 	oci	Val d'Aosta	np	spa	Valle de Aosta	np$np-loc
 	oci	Valdés	np$np-cog-mf-sp	spa	Valdés	np$np-cog$np-cog-mf
-	oci	Valentino	np	spa	Valentino	np$np-ant
+	oci	Valentino	np$np-ant-m-sg	spa	Valentino	np$np-ant
 	oci	Valentín	np$np-cog-mf-sp	spa	Valentín	np$np-ant
-	oci	Valeria	np	spa	Valeria	np$np-ant$np-ant-f-sg
+	oci	Valeria	np$np-ant-f-sg	spa	Valeria	np$np-ant$np-ant-f-sg
 	oci	Valero	np$np-cog-mf-sp	spa	Valero	np$np-cog$np-cog-mf
 	oci	Valladolid	np$np-top-m-sg	spa	Valladolid	np$np-loc-f$np-loc
 	oci	Vallcarca	np	spa	Vallcarca	np$np-loc
@@ -3556,7 +3556,7 @@ RL	oci	Vic	np$np-top-m-sg	spa	Vich	np
 	oci	Vicens	np$np-cog-mf-sp	spa	Vicens	np$np-cog
 	oci	Vicent	np	spa	Vicent	np$np-cog
 	oci	Vicenta	np	spa	Vicenta	np$np-ant
-	oci	Vicente	np	spa	Vicente	np$np-ant
+	oci	Vicente	np$np-ant-m-sg	spa	Vicente	np$np-ant
 	oci	Vicenç	np$np-cog-mf-sp	spa	Vicenç	np
 	oci	Victoria	np$np-ant-f-sg	spa	Victoria	np-ant$np$np-ant-f-sg
 	oci	Vidal	np$np-cog-mf-sp	spa	Vidal	np$np-ant
@@ -3591,9 +3591,9 @@ RL	oci	Vinaròs	np	spa	Vinaroz	np
 	oci	Vince	np$np-cog-mf-sp	spa	Vince	np
 	oci	Vincent	np$np-cog-mf-sp	spa	Vincent	np$np-ant
 	oci	Vinci	np$np-cog-mf-sp	spa	Vinci	np$np-ant
-	oci	Vinhana	np	spa	Vinhana	np$np-loc
+	oci	Vinhana	np$np-top-f-sg	spa	Vinhana	np$np-loc
 	oci	tour	np	spa	tour	np
-	oci	Violeta	np	spa	Violeta	np$np-ant
+	oci	Violeta	np$np-ant-f-sg	spa	Violeta	np$np-ant
 	oci	Virgin	np	spa	Virgin	np
 	oci	Virginia	np$np-ant-f-sg	spa	Virginia	np-ant$np$np-ant-f-sg
 	oci	Vitòria	np	spa	Vitoria	np$np-loc$np-loc-f
@@ -3606,7 +3606,7 @@ RL	oci	Vinaròs	np	spa	Vinaroz	np
 	oci	Vázquez	np$np-cog-mf-sp	spa	Vázquez	np$np-cog
 	oci	Vélez	np$np-cog-mf-sp	spa	Vélez	np$np-cog
 	oci	Víctor	np$np-ant-m-sg	spa	Víctor	np$np-ant$np-ant-m-sg
-	oci	Vòges	np	spa	Vosgos	np$np-loc
+	oci	Vòges	np$np-top-m-pl	spa	Vosgos	np$np-loc
 	oci	Waals	np$np-cog-mf-sp	spa	Waals	np
 	oci	Wallis e Futuna	np	spa	Wallis y Futuna	np$np-loc
 	oci	Wanadoo	np	spa	Wanadoo	np
@@ -3624,12 +3624,12 @@ RL	oci	Vinaròs	np	spa	Vinaroz	np
 	oci	Winterthur	np	spa	Winterthur	np
 	oci	Wojtyla	np$np-cog-mf-sp	spa	Wojtyla	np
 	oci	Wolfgang	np$np-ant-m-sg	spa	Wolfgang	np$np-ant
-	oci	Woody	np	spa	Woody	np$np-ant
+	oci	Woody	np$np-ant-m-sg	spa	Woody	np$np-ant
 	oci	Word	np$np-al-m-sg	spa	Word	np
 	oci	World Community Grid	np	spa	World Community Grid	np
 RL	oci	Xaló	np	spa	Jalón	np$np-loc$np-loc-m
 	oci	Xaló	np	spa	Xaló	np$np-loc-f
-	oci	Xavi	np	spa	Xavi	np$np-ant
+	oci	Xavi	np$np-ant-m-sg	spa	Xavi	np$np-ant
 	oci	Xavier	np$np-ant-m-sg	spa	Xavier	np$np-ant$np-ant-m-sg
 	oci	Xesco	np	spa	Xesco	np
 RL	oci	Xest	np	spa	Xest	np
@@ -4228,7 +4228,7 @@ LR	oci	arròc	n-m	spa	roca	n$n-f$n-f-sg
 	oci	arròs	n$n-m	spa	arroz	n-m$n$n-m-ND
 	oci	arsenal	n$n-m	spa	arsenal	n$n-m$n-m-ND
 	oci	art	n$n-m	spa	arte	n$n-m$n-m-sg
-	oci	artefacte	n-m$n	spa	artefacto	n$n-m$n-m-sg
+	oci	artefacte	n$n-m	spa	artefacto	n$n-m$n-m-sg
 	oci	artesania	n	spa	artesanía	n-f$n
 	oci	article	n$n-m	spa	artículo	n-m$n$n-m-sg
 	oci	articulacion	n$n-f	spa	articulación	n-f$n$n-f-ND
@@ -4402,7 +4402,7 @@ LR	oci	bandiment	n$n-m	spa	despido	n$n-m$n-m-ND
 	oci	bandit	n$n-m	spa	bandido	n$n-m
 	oci	brevet	n-m	spa	patente	n-f$n$n-f-ND
 LR	oci	bandièira	n	spa	bandera	n-f$n$n-f-sg
-	oci	bandièra	n-f$n	spa	bandera	n-f$n$n-f-sg
+	oci	bandièra	n$n-f	spa	bandera	n-f$n$n-f-sg
 LR	oci	bandèra	n	spa	bandera	n-f$n$n-f-sg
 	oci	banh	n$n-m	spa	baño	n-m$n$n-m-ND
 	oci	banqueta	n-f$n	spa	banquillo	n-m$n$n-m-ND
@@ -4733,11 +4733,11 @@ RL	oci	cantre	n	spa	botijo	n-m$n
 LR	oci	canvi	n$n-m	spa	cambio	n-m$n$n-m-sg
 	oci	cançon	n$n-f	spa	canción	n-f$n$n-f-sg
 LR	oci	canèla	n-f$n	spa	grifo	n-m$n
-RL	oci	cap	n-mf	spa	jefe	n$n-m-sg$n-m
-RL	oci	cap	n-mf	spa	jefe	n-f$n-f-sg
-RL	oci	cap	n-m$n	spa	líder	n$n-mf$n-mf-ND
-	oci	cap	n-mf	spa	cabeza	n-f$n$n-f-sg
-RL	oci	cap	n-mf	spa	cabo	n-m$n$n-m-ND
+RL	oci	cap	n-mf$n	spa	jefe	n$n-m-sg$n-m
+RL	oci	cap	n-mf$n	spa	jefe	n-f$n-f-sg
+RL	oci	cap	n-mf$n	spa	líder	n$n-mf$n-mf-ND
+	oci	cap	n-mf$n	spa	cabeza	n-f$n$n-f-sg
+RL	oci	cap	n-mf$n	spa	cabo	n-m$n$n-m-ND
 	oci	cap-lòc	n-m	spa	capital	n-f$n$n-f-sg
 	oci	capa	n-f$n	spa	capa	n-f$n$n-f-ND
 	oci	capacitacion	n	spa	capacitación	n$n-f$n-f-sg
@@ -5068,7 +5068,7 @@ LR	oci	comerçant	n-f	spa	comerciante	n-mf$n$n-mf-ND
 	oci	comission	n$n-f	spa	comisión	n$n-f$n-f-sg
 	oci	comitat	n$n-m	spa	comité	n$n-m$n-m-sg
 LR	oci	comitè	n$n-m	spa	comité	n$n-m$n-m-sg
-	oci	comjat	n-m$n	spa	despedida	n-f$n$n-f-ND
+	oci	comjat	n$n-m	spa	despedida	n-f$n$n-f-ND
 	oci	commemoracion	n$n-f	spa	conmemoración	n$n-f$n-f-sg
 	oci	comoditat	n-f$n	spa	comodidad	n-f$n$n-f-ND
 LR	oci	comonicacion	n$n-f	spa	comunicación	n$n-f$n-f-sg
@@ -5142,7 +5142,7 @@ LR	oci	concorsant	n-f	spa	concursante	n-mf$n
 LR	oci	concorsant	n-m	spa	concursante	n-mf$n
 RL	oci	concorsant	n-GD	spa	concursante	n-mf$n
 	oci	concrecion	n$n-f	spa	concreción	n$n-f
-LR	oci	concurréncia	n-f$n	spa	competición	n$n-f$n-f-ND
+LR	oci	concurréncia	n$n-f	spa	competición	n$n-f$n-f-ND
 	oci	concèpte	n$n-m	spa	concepto	n$n-m$n-m-sg
 	oci	concèrt	n$n-m	spa	concierto	n-m$n$n-m-sg
 	oci	concòrdia	n	spa	concordia	n$n-f
@@ -5175,7 +5175,7 @@ LR	oci	confinh	n$n-m	spa	límite	n$n-m$n-m-sg
 	oci	confitura	n$n-f	spa	confitura	n$n-f
 	oci	conflament	n-m	spa	hinchazón	n$n-f
 	oci	conflicte	n$n-m	spa	conflicto	n-m$n$n-m-pl
-	oci	confluéncia	n-f$n	spa	confluencia	n$n-f
+	oci	confluéncia	n$n-f	spa	confluencia	n$n-f
 	oci	conformitat	n$n-f	spa	conformidad	n$n-f$n-f-sg
 	oci	confrontacion	n$n-f	spa	confrontación	n$n-f$n-f-ND
 RL	oci	confusion	n-f$n	spa	desconcierto	n-m$n$n-m-ND
@@ -5582,7 +5582,7 @@ RL	oci	densitat	n$n-f	spa	densidad	n$n-f$n-f-ND
 	oci	densitat	n$n-f	spa	densidad	n$n-f$n-f-ND
 	oci	dent	n-m$n	spa	diente	n-m$n$n-m-sg
 	oci	dentilha	n	spa	lenteja	n$n-f
-	oci	denóncia	n-f$n	spa	denuncia	n$n-f$n-f-sg
+	oci	denóncia	n$n-f	spa	denuncia	n$n-f$n-f-sg
 	oci	departament	n$n-m	spa	departamento	n$n-m$n-m-sg
 	oci	depaus	n	spa	depósito	n-m$n$n-m-sg
 	oci	dependéncia	n$n-f	spa	dependencia	n$n-f$n-f-sg
@@ -6025,7 +6025,7 @@ LR	oci	entraïnament	n$n-m	spa	entrenamiento	n$n-m$n-m-sg
 	oci	entrenament	n	spa	entrenamiento	n$n-m$n-m-sg
 	oci	entrepresa	n$n-f	spa	empresa	n$n-f$n-f-sg
 LR	oci	entretòc	n$n-m	spa	parecido	n-m$n
-	oci	entrevista	n-f$n	spa	entrevista	n-f$n$n-f-sg
+	oci	entrevista	n$n-f	spa	entrevista	n-f$n$n-f-sg
 RL	oci	entèsta	n-f$n	spa	membrete	n-m$n-m-ND
 	oci	entèsta	n-f$n	spa	cabecera	n-f$n$n-f-ND
 	oci	enveja	n$n-f	spa	envidia	n$n-f$n-f-ND
@@ -6644,7 +6644,7 @@ RL	oci	gach	n-m$n-m-pl$n	spa	víveres	n$n-m$n-m-pl
 	oci	gala	n$n-f	spa	gala	n$n-f$n-f-pl
 LR	oci	galapian	n	spa	comilón	n$n-f
 RL	oci	galapian	n	spa	comilón	n$n-f
-	oci	galaria	n	spa	galería	n$n-f$n-f-ND
+	oci	galaria	n$n-f	spa	galería	n$n-f$n-f-ND
 	oci	galariá	n$n-f	spa	galería	n$n-f$n-f-ND
 LR	oci	galejada	n$n-f	spa	broma	n$n-f$n-f-ND
 	oci	galeria	n$n-f	spa	galería	n$n-f$n-f-ND
@@ -6765,7 +6765,7 @@ LR	oci	govèrnament	n	spa	mandato	n$n-m-sg$n-m
 	oci	grafia	n$n-f	spa	grafía	n$n-f
 	oci	grafèma	n-m$n	spa	grafema	n$n-f
 	oci	gram	n$n-m	spa	gramo	n-m$n$n-m-ND
-	oci	gramatica	$n$n-f	spa	gramática	n-f$n$n-f-sg
+	oci	gramatica	n$$n-f	spa	gramática	n-f$n$n-f-sg
 	oci	gramatician	n	spa	gramático	n$n-GD
 RL	oci	grana	n$n-f	spa	pepita	n$n-f$n-f-ND
 	oci	grana	n$n-f	spa	semilla	n-f$n$n-f-ND
@@ -6953,7 +6953,7 @@ LR	oci	idia	n	spa	idea	n$n-f$n-f-sg
 	oci	igualtat	n	spa	igualdad	n$n-f$n-f-sg
 LR	oci	ilha	n$n-f	spa	isla	n$n-f$n-f-sg
 LR	oci	ièrla	n$n-f	spa	isla	n$n-f$n-f-sg
-LR	oci	iscla	n-f$n	spa	isla	n$n-f$n-f-sg
+LR	oci	iscla	n$n-f	spa	isla	n$n-f$n-f-sg
 LR	oci	illa	n$n-f	spa	isla	n$n-f$n-f-sg
 	oci	isla	n$n-f	spa	isla	n$n-f$n-f-sg
 	oci	illegalitat	n$n-f	spa	ilegalidad	n$n-f
@@ -6963,7 +6963,7 @@ LR	oci	illon	n$n-m	spa	islote	n$n-m
 	oci	illòt	n$n-m	spa	islote	n$n-m
 	oci	image	n$n-m	spa	imagen	n-f$n$n-f-sg
 	oci	imaginacion	n$n-f	spa	imaginación	n$n-f$n-f-ND
-	oci	imatge	n$n-m	spa	imagen	n-f$n$n-f-sg
+	oci	imatge	n$n-f	spa	imagen	n-f$n$n-f-sg
 	oci	immaturitat	n	spa	inmadurez	n$n-f
 	oci	immigracion	n$n-f	spa	inmigración	n$n-f$n-f-sg
 LR	oci	immigrant	n-f	spa	inmigrante	n-mf$n$n-mf-ND
@@ -7224,8 +7224,8 @@ RL	oci	jutjament	n$n-m	spa	dictamen	n-m-ND$n$n-m
 	oci	jutjat	n	spa	juzgado	n$n-m$n-m-ND
 	oci	juxtaposicion	n$n-f	spa	yuxtaposición	n-f$n
 	oci	jòc	n$n-m	spa	juego	n-m$n$n-m-sg
-RL	oci	jòia	n-f$n	spa	alegría	n-f$n$n-f-ND
-	oci	jòia	n-f$n	spa	joya	n$n-f$n-f-pl
+RL	oci	jòia	n$n-f	spa	alegría	n-f$n$n-f-ND
+	oci	jòia	n$n-f	spa	joya	n$n-f$n-f-pl
 LR	oci	jòus	n	spa	jueves	n-m-sp$n$n-m
 	oci	k	n	spa	k	n$n-f
 	oci	km	n$n-m	spa	km	n$n-m$n-m-sp
@@ -7291,8 +7291,8 @@ LR	oci	legénda	n	spa	leyenda	n$n-f$n-f-sg
 LR	oci	leialtat	n$n-f	spa	lealtad	n$n-f$n-f-sg
 	oci	leiautat	n$n-f	spa	lealtad	n$n-f$n-f-sg
 	oci	leitaria	n	spa	lechería	n$n-f
-RL	oci	leiçon	n-f$n	spa	escarmiento	n$n-m
-	oci	leiçon	n-f$n	spa	lección	n$n-f$n-f-sg
+RL	oci	leiçon	n$n-f	spa	escarmiento	n$n-m
+	oci	leiçon	n$n-f	spa	lección	n$n-f$n-f-sg
 	oci	lenga	n$n-f	spa	lengua	n-f$n$n-f-ND
 	oci	lengatge	n$n-m	spa	lenguaje	n-m$n$n-m-sg
 	oci	lengua	n	spa	lengua	n-f$n$n-f-ND
@@ -7427,7 +7427,7 @@ RL	oci	lòc	n$n-m	spa	puesto	n-m$n$n-m-sg
 	oci	lòt	n$n-m	spa	lote	n$n-m
 	oci	lòtja	n$n-f	spa	lonja	n-f$n$n-f-ND
 RL	oci	lòtja	n$n-f	spa	palco	n-m$n$n-m-ND
-	oci	m	n$n-m	spa	m	n$n-f$n-f-sg
+	oci	m	n$n-m-sp	spa	m	n$n-f$n-f-sg
 	oci	macrodepartament	n	spa	macrodepartamento	n
 	oci	madama	n-f	spa	señor	n$n-f$n-f-pl
 LR	oci	maduretat	n$n-f	spa	madurez	n$n-f$n-f-ND
@@ -7483,7 +7483,7 @@ RL	oci	maladeta	n$n-f	spa	maleficio	n$n-m
 RL	oci	malefici	n-m$n	spa	maleficio	n$n-m
 	oci	malefici	n-m$n	spa	maldición	n$n-f$n-f-ND
 	oci	malestar	n	spa	malestar	n$n-m$n-m-ND
-LR	oci	maleta	n-f$n	spa	maleta	n$n-f$n-f-ND
+LR	oci	maleta	n$n-f	spa	maleta	n$n-f$n-f-ND
 	oci	malfisança	n-f	spa	recelo	n-m$n$n-m-ND
 	oci	malh	n	spa	acantilado	n-m$n$n-m-sg
 LR	oci	malhum	n-m	spa	red	n-f$n$n-f-sg
@@ -7605,7 +7605,7 @@ RL	oci	material	n$n-m	spa	material	n$n-m$n-m-sg
 	oci	maturitat	n$n-f	spa	madurez	n$n-f$n-f-ND
 RL	oci	matèria	n$n-f	spa	asignatura	n$n-f$n-f-ND
 	oci	matèria	n$n-f	spa	materia	n$n-f$n-f-sg
-	oci	matís	n-m$n	spa	matiz	n-m$n
+	oci	matís	n$n-m	spa	matiz	n-m$n
 	oci	mau	n	spa	mal	n$n-m$n-m-ND
 	oci	mautractament	n	spa	maltrato	n$n-m$n-m-sg
 	oci	mauversacion	n	spa	malversación	n
@@ -7756,7 +7756,7 @@ RL	oci	mitan ambient	n	spa	medioambiente	n$n-m$n-m-sg
 	oci	miugrana	n$n-f	spa	granada	n$n-f$n-f-ND
 	oci	miègjorn	n$n-m	spa	mediodía	n$n-m$n-m-ND
 LR	oci	miègjorn	n$n-m	spa	mediodía	n$n-m$n-m-ND
-	oci	mobiliari	n-m$n	spa	mobiliario	n$n-m$n-m-sg
+	oci	mobiliari	n$n-m	spa	mobiliario	n$n-m$n-m-sg
 	oci	mobilitat	n$n-f	spa	movilidad	n$n-f$n-f-ND
 	oci	mobilizacion	n$n-f	spa	movilización	n$n-f$n-f-sg
 LR	oci	moc	n	spa	moco	n-m$n
@@ -7787,7 +7787,7 @@ LR	oci	monastièr	n$n-m	spa	monasterio	n-m$n$n-m-ND
 	oci	monastèri	n$n-m	spa	monasterio	n-m$n$n-m-ND
 	oci	mond	n$n-m	spa	mundo	n$n-m$n-m-sg
 LR	oci	monde	n-m	spa	gente	n-f-sg$n$n-f
-	oci	moneda	n-f$n	spa	moneda	n-f$n$n-f-sg
+	oci	moneda	n$n-f	spa	moneda	n-f$n$n-f-sg
 	oci	monge	n$n-m	spa	monje	n$n-f
 RL	oci	mongeta	n$n-f	spa	habichuela	n$n-f
 	oci	mongeta	n$n-f	spa	alubia	n-f$n$n-f-ND
@@ -7877,7 +7877,7 @@ LR	oci	món	n$n-m	spa	mundo	n$n-m$n-m-sg
 	oci	nacionalisme	n$n-m	spa	nacionalismo	n$n-m$n-m-ND
 	oci	nacionalitat	n$n-f	spa	nacionalidad	n$n-f$n-f-sg
 	oci	nacionalizacion	n$n-f	spa	nacionalización	n$n-f
-	oci	nadal	n$n-m	spa	navidad	n-f$n-f-ND$n
+	oci	nadal	n$n-m$n-m-sg	spa	navidad	n-f$n-f-ND$n
 	oci	nadau	n$n-m	spa	navidad	n-f$n-f-ND$n
 LR	oci	naishement	n	spa	nacimiento	n-m$n$n-m-ND
 	oci	naissença	n-f	spa	nacimiento	n-m$n$n-m-ND
@@ -7968,7 +7968,7 @@ LR	oci	numerò	n$n-m	spa	número	n$n-m$n-m-sg
 	oci	numèro	n$n-m	spa	número	n$n-m$n-m-sg
 	oci	nuèch	n$n-f	spa	noche	n-f$n$n-f-sg
 LR	oci	nuèit	n$n-f	spa	noche	n-f$n$n-f-sg
-LR	oci	nèbla	n-f$n	spa	niebla	n-f$n$n-f-ND
+LR	oci	nèbla	n$n-f	spa	niebla	n-f$n$n-f-ND
 	oci	nèrvi	n$n-m	spa	nervio	n$n-m$n-m-ND
 	oci	nèu	n$n-f	spa	nieve	n$n-f$n-f-ND
 	oci	nèxe	n	spa	nexo	n$n-m$n-m-sg
@@ -8190,10 +8190,10 @@ LR	oci	pare	n	spa	padre	n$n-m$n-m-sg
 LR	oci	paredèr	n-f	spa	albañil	n-mf$n$n-mf-ND
 LR	oci	paredèr	n-m	spa	albañil	n-mf$n$n-mf-ND
 RL	oci	paredèr	n-GD	spa	albañil	n-mf$n$n-mf-ND
-	oci	parelh	n-m$n	spa	par	n-m$n$n-m-sg
+	oci	parelh	n$n-m	spa	par	n-m$n$n-m-sg
 LR	oci	parelha	n	spa	pareja	n-f$n$n-f-ND
 	oci	paret	n$n-f	spa	pared	n-f$n$n-f-sg
-	oci	pargue	n-m$n	spa	parque	n$n-m$n-m-ND
+	oci	pargue	n$n-m	spa	parque	n$n-m$n-m-ND
 	oci	parla	n$n-f	spa	habla	n-f$n$n-f-ND
 LR	oci	parlaire	n-f	spa	hablante	n-mf$n$n-mf-sg
 LR	oci	parlaire	n-m	spa	hablante	n-mf$n$n-mf-sg
@@ -8277,7 +8277,7 @@ RL	oci	patron	n$n-m	spa	patrono	n$n-f
 	oci	patz	n$n-f	spa	paz	n$n-f$n-f-sg
 	oci	patè	n$n-m	spa	paté	n-m$n
 LR	oci	pauc	n-m$n	spa	poco	n$n-m
-	oci	paumon	n	spa	pulmón	n$n-m$n-m-ND
+	oci	paumon	n$n-m	spa	pulmón	n$n-m$n-m-ND
 	oci	paupeta	n-f$n	spa	párpado	n-m$n$n-m-ND
 	oci	paur	n-f$n	spa	miedo	n-m$n$n-m-ND
 	oci	pausa	n$n-f	spa	pausa	n$n-f$n-f-ND
@@ -8366,7 +8366,7 @@ LR	oci	pensament	n$n-m	spa	pensamiento	n-m$n$n-m-sg
 	oci	persecucion	n$n-f	spa	persecución	n$n-f$n-f-ND
 	oci	perseguèr	n	spa	melocotonero	n$n-m
 	oci	perseverança	n	spa	perseverancia	n$n-f$n-f-sg
-	oci	persona	$n$n-f	spa	persona	n-f$n$n-f-sg
+	oci	persona	n$$n-f	spa	persona	n-f$n$n-f-sg
 	oci	personal	n$n-m-sg	spa	personal	n$n-m-sg$n-m
 LR	oci	personalitat	n$n-f	spa	personalidad	n$n-f$n-f-sg
 RL	oci	personalitat	n$n-f	spa	personalidad	n$n-f$n-f-sg
@@ -8397,7 +8397,7 @@ LR	oci	peülla	n	spa	pezuña	n$n-f
 RL	oci	piano	n$n-m	spa	piano	n$n-m$n-m-ND
 	oci	piano	n$n-m	spa	piano	n$n-m$n-m-ND
 	oci	pic	n$n-m	spa	pico	n-m$n$n-m-ND
-LR	oci	pica	n-f$n	spa	hacha	n$n-f$n-f-sg
+LR	oci	pica	n$n-f	spa	hacha	n$n-f$n-f-sg
 RL	oci	pichèr	n$n-m	spa	búcaro	n$n-m
 RL	oci	pichèr	n$n-m	spa	jarro	n-m$n$n-m-ND
 	oci	pichèr	n$n-m	spa	jarrón	n$n-m
@@ -8767,7 +8767,7 @@ LR	oci	psiquiatre	n-f	spa	psiquiatra	n$n-mf$n-mf-sg
 RL	oci	psiquiatre	n-GD	spa	psiquiatra	n$n-mf$n-mf-sg
 	oci	public	n$n-m	spa	público	n-m$n$n-m-sg
 	oci	publicacion	n$n-f	spa	publicación	n-f$n$n-f-sg
-	oci	publicitat	n-f$n	spa	publicidad	n-f$n$n-f-sg
+	oci	publicitat	n$n-f	spa	publicidad	n-f$n$n-f-sg
 LR	oci	pudor	n-f$n	spa	mal olor	n-m$n-m-ND
 RL	oci	pudor	n-f$n	spa	hedor	n-m$n$n-m-ND
 	oci	pudor	n-m	spa	pudor	n-m$n$n-m-ND
@@ -8935,7 +8935,7 @@ LR	oci	reconeishement	n	spa	reconocimiento	n-m$n$n-m-sg
 	oci	reculh	n$n-m	spa	compilación	n$n-f$n-f-sg
 	oci	reculhiment	n	spa	recogimiento	n$n-m
 	oci	recuperacion	n-f$n	spa	recuperación	n-f$n$n-f-sg
-	oci	recuèlh	n-m$n	spa	compilación	n$n-f$n-f-sg
+	oci	recuèlh	n$n-m	spa	compilación	n$n-f$n-f-sg
 	oci	recèpta	n$n-f	spa	receta	n$n-f
 	oci	recèrca	n$n-f	spa	búsqueda	n-f$n$n-f-sg
 	oci	recòrd	n$n-m	spa	récord	n$n-m$n-m-sg
@@ -8965,8 +8965,8 @@ LR	oci	refortiment	n$n-m	spa	reforzamiento	n$n-m
 	oci	refugi	n$n-m	spa	refugio	n$n-m$n-m-sg
 	oci	refugiat	n	spa	refugiado	n$n-m$n-m-sg
 LR	oci	refòrma	n$n-f	spa	reforma	n$n-f$n-f-ND
-RL	oci	refús	n-m$n	spa	denegación	n$n-f$n-f-sg
-	oci	refús	n-m$n	spa	rechazo	n$n-m-ND$n-m
+RL	oci	refús	n$n-m	spa	denegación	n$n-f$n-f-sg
+	oci	refús	n$n-m	spa	rechazo	n$n-m-ND$n-m
 	oci	rega	n-f	spa	surco	n-m$n
 	oci	rega	n-f	spa	trazo	n$n-m
 	oci	regal	n	spa	regalo	n$n-m$n-m-sg
@@ -9022,7 +9022,7 @@ LR	oci	renaishença	n-f	spa	renacimiento	n-m$n$n-m-ND
 	oci	renaissença	n-f$n	spa	renacimiento	n-m$n$n-m-ND
 	oci	renauiment	n-m	spa	renovación	n-f$n$n-f-sg
 	oci	rencontre	n	spa	reencuentro	n$n-m
-	oci	renda	n-f$n	spa	renta	n$n-f$n-f-ND
+	oci	renda	n$n-f	spa	renta	n$n-f$n-f-ND
 	oci	rendabilitat	n$n-f	spa	rentabilidad	n$n-f-sg$n-f
 LR	oci	rendement	n$n-m	spa	rendimiento	n$n-m$n-m-sg
 	oci	rendicion	n	spa	rendición	n$n-f$n-f-sg
@@ -9069,7 +9069,7 @@ LR	oci	repòs	n	spa	reposo	n-m$n$n-m-ND
 LR	oci	requeriment	n	spa	requerimiento	n-m$n$n-m-sg
 	oci	requeréncia	n-f	spa	requerimiento	n-m$n$n-m-sg
 	oci	requisit	n	spa	requisito	n$n-m-sg$n-m
-	oci	rescat	n-m$n	spa	rescate	n-m$n$n-m-sg
+	oci	rescat	n$n-m	spa	rescate	n-m$n$n-m-sg
 LR	oci	reserva	n$n-f	spa	reserva	n-f$n$n-f-ND
 LR	oci	resident	n-f	spa	residente	n-mf$n$n-mf-ND
 LR	oci	resident	n-m	spa	residente	n-mf$n$n-mf-ND
@@ -9131,7 +9131,7 @@ LR	oci	revirada	n$n-f	spa	traducción	n$n-f$n-f-sg
 	oci	revirador	n	spa	traductor	n$n-GD$n-GD-ND
 RL	oci	revision	n-f$n	spa	repaso	n-m$n
 	oci	revision	n-f$n	spa	revisión	n$n-f$n-f-sg
-	oci	revista	n-f$n	spa	revista	n-f$n$n-f-ND
+	oci	revista	n$n-f	spa	revista	n-f$n$n-f-ND
 	oci	revolucion	n$n-f	spa	revolución	n$n-f$n-f-sg
 	oci	reïncidéncia	n	spa	reincidencia	n
 LR	oci	reïntroduccion	n$n-f	spa	reintroducción	n$n-f
@@ -9513,7 +9513,7 @@ RL	oci	suggestion	n$n-f	spa	sugestión	n$n-f
 	oci	suicidi	n$n-m	spa	suicidio	n-m$n$n-m-ND
 	oci	superacion	n	spa	superación	n$n-f
 	oci	supereròi	n	spa	superhéroe	n$n-m-ND
-LR	oci	superficia	$n$n-f	spa	superficie	n$n-f$n-f-sg
+LR	oci	superficia	n$n-f$	spa	superficie	n$n-f$n-f-sg
 	oci	superfícia	n$n-f	spa	superficie	n$n-f$n-f-sg
 LR	oci	superfície	n$n-f	spa	superficie	n$n-f$n-f-sg
 	oci	superioritat	n$n-f	spa	superioridad	n$n-f$n-f-ND
@@ -9878,8 +9878,8 @@ RL	oci	trèma	n-m-ND	spa	diéresis	n-f-sp$n$n-f
 	oci	trèva	n-f$n	spa	tregua	n$n-f$n-f-ND
 	oci	tròn	n$n-m	spa	trono	n$n-m$n-m-ND
 LR	oci	tròpa	n$n-f	spa	tropa	n$n-f$n-f-ND
-RL	oci	tròç	n-m$n	spa	pedazo	n-m$n$n-m-ND
-	oci	tròç	n-m$n	spa	trozo	n-m$n$n-m-ND
+RL	oci	tròç	n$n-m	spa	pedazo	n-m$n$n-m-ND
+	oci	tròç	n$n-m	spa	trozo	n-m$n$n-m-ND
 LR	oci	tsunami	n$n-m	spa	tsunami	n$n-m$n-m-sg
 RL	oci	tsunami	n$n-m	spa	tsunami	n$n-m$n-m-sg
 	oci	tsunami	n$n-m	spa	tsunami	n$n-m$n-m-sg
@@ -9888,8 +9888,8 @@ RL	oci	tsunami	n$n-m	spa	tsunami	n$n-m$n-m-sg
 	oci	tuc	n	spa	cerro	n-m$n$n-m-ND
 	oci	tunèl	n$n-m	spa	túnel	n$n-m$n-m-sg
 LR	oci	tuqueta	n-f	spa	cerro	n-m$n$n-m-ND
-RL	oci	turbina	n-f$n	spa	rodillo	n$n-m
-	oci	turbina	n-f$n	spa	turbina	n$n-f
+RL	oci	turbina	n$n-f	spa	rodillo	n$n-m
+	oci	turbina	n$n-f	spa	turbina	n$n-f
 	oci	tutolatge	n-m	spa	tutela	n$n-f
 LR	oci	tutoratge	n-m	spa	tutela	n$n-f
 	oci	tutèla	n$n-f	spa	tutela	n$n-f
@@ -10184,7 +10184,7 @@ LR	oci	òr	n$n-m	spa	oro	n-m$n$n-m-sg
 LR	oci	òra	n$n-f	spa	hora	n-f$n$n-f-sg
 	oci	òrdre	n$n-m	spa	orden	n-m$n$n-m-sg
 LR	oci	òrgan	n$n-m	spa	órgano	n$n-m$n-m-sg
-	oci	òrt	n-m$n	spa	huerto	n$n-m$n-m-sg
+	oci	òrt	n$n-m	spa	huerto	n$n-m$n-m-sg
 	oci	òrta	n	spa	huerta	n-f$n$n-f-ND
 	oci	acetilèn	n$n-m	spa	acetileno	n$n-m
 	oci	acordeon	n$n-m	spa	acordeón	n-m$n
@@ -10500,7 +10500,7 @@ LR	oci	eissam	n$n-m	spa	enjambre	n$n-m
 	oci	emboish	n-m$n	spa	funda	n-f$n
 	oci	EMD	n-acr	spa	EMD	n-acr
 	oci	emir	n$n-m	spa	emir	n$n-m
-LR	oci	encoratjament	n-m$n	spa	coraje	n$n-m$n-m-ND
+LR	oci	encoratjament	n$n-m	spa	coraje	n$n-m$n-m-ND
 LR	oci	ensem	n	spa	conjunto	n$n-m$n-m-ND
 LR	oci	entrèga	n	spa	entrega	n-f$n$n-f-sg
 LR	oci	entrega	n	spa	entrega	n-f$n$n-f-sg
@@ -10798,7 +10798,7 @@ LR	oci	forquilha	n$n-f	spa	tenedor	n-m$n$n-m-sg
 LR	oci	fraudaria	n-f	spa	fraude	n-m$n$n-m-ND
 LR	oci	fruta	n	spa	fruta	n-f$n$n-f-sg
 LR	oci	funeralhes	n-f-pl	spa	funeral	n-m$n$n-m-sg
-LR	oci	galaria	n	spa	galería	n$n-f$n-f-ND
+LR	oci	galaria	n$n-f	spa	galería	n$n-f$n-f-ND
 LR	oci	gargolha	n	spa	rana	n$n-f$n-f-sg
 LR	oci	garia	n	spa	gallina	n$n-f$n-f-ND
 LR	oci	gasòl	n$n-m	spa	gasóleo	n$n-m$n-m-sg
@@ -10880,7 +10880,7 @@ LR	oci	hèt	n	spa	hecho	n$n-m$n-m-sg
 LR	oci	hònt	n	spa	fuente	n-f$n$n-f-sg
 LR	oci	hòssa	n	spa	fosa	n$n-f$n-f-ND
 LR	oci	igualtat	n	spa	igualdad	n$n-f$n-f-sg
-LR	oci	imatge	n$n-m	spa	imagen	n-f$n$n-f-sg
+LR	oci	imatge	n$n-f	spa	imagen	n-f$n$n-f-sg
 LR	oci	includiment	n-m	spa	inclusión	n$n-f$n-f-sg
 LR	oci	ingenuïtat	n	spa	ingenuidad	n$n-f
 LR	oci	ingrès	n	spa	ingreso	n$n-m$n-m-pl
@@ -10971,7 +10971,7 @@ LR	oci	partitura	n	spa	partitura	n$n-f
 LR	oci	passatgèr	n	spa	pasajero	n$n-m-sg$n-m
 LR	oci	pastissaria	n	spa	pastelería	n$n-f
 LR	oci	pastèra	n	spa	patera	n$n-f
-LR	oci	paumon	n	spa	pulmón	n$n-m$n-m-ND
+LR	oci	paumon	n$n-m	spa	pulmón	n$n-m$n-m-ND
 LR	oci	pebe	n$n-m	spa	pimienta	n-f$n
 LR	oci	peirèra	n	spa	cantera	n$n-f$n-f-ND
 LR	oci	peish	n	spa	pescado	n$n-m$n-m-sg
@@ -11292,8 +11292,8 @@ RL	oci	anormal	adj-GD	spa	anormal	adj-mf$adj$$adj-mf-ND
 	oci	antartic	adj	spa	antártico	adj$adj-GD$adj-GD-ND
 LR	oci	anterior	adj-f	spa	anterior	adj$adj-mf$adj-mf-ND
 LR	oci	anterior	adj-m	spa	anterior	adj$adj-mf$adj-mf-ND
-RL	oci	anterior	adj$adj-GD	spa	anterior	adj$adj-mf$adj-mf-ND
-	oci	anterior	adj$adj-GD	spa	anterior	adj$adj-mf$adj-mf-ND
+RL	oci	anterior	adj-GD$adj	spa	anterior	adj$adj-mf$adj-mf-ND
+	oci	anterior	adj-GD$adj	spa	anterior	adj$adj-mf$adj-mf-ND
 	oci	antialcoolic	adj	spa	antialcohólico	adj
 LR	oci	antic	adj	spa	antiguo	adj$adj-GD-ND$adj-GD
 	oci	antidemocratic	adj	spa	antidemocrático	adj$adj-GD
@@ -11793,7 +11793,7 @@ RL	oci	corrent	adj-GD$adj	spa	corriente	adj$adj-mf$adj-mf-sg
 	oci	corrent	adj-GD$adj	spa	corriente	adj$adj-mf$adj-mf-sg
 RL	oci	correspondent	adj-GD	spa	correspondiente	adj-mf$adj$adj-mf-ND$
 LR	oci	correspondent	adj-f	spa	correspondiente	adj-mf$adj$adj-mf-ND$
-LR	oci	correspondent	adj$adj-m	spa	correspondiente	adj-mf$adj$adj-mf-ND$
+LR	oci	correspondent	adj-m$adj	spa	correspondiente	adj-mf$adj$adj-mf-ND$
 RL	oci	corresponent	adj-GD	spa	correspondiente	adj-mf$adj$adj-mf-ND$
 LR	oci	corresponent	adj-f	spa	correspondiente	adj-mf$adj$adj-mf-ND$
 LR	oci	corresponent	adj-m	spa	correspondiente	adj-mf$adj$adj-mf-ND$

@@ -1485,8 +1485,8 @@ RL	bre	eizhkornek	adj-mf-sp	fra	octogonal	adj-m-sg
 RL	bre	eizhkornek	adj-mf-sp	fra	octogonal	adj-m-pl
 RL	bre	eizhkornek	adj-mf-sp	fra	octogonal	adj-f-sg
 RL	bre	eizhkornek	adj-mf-sp	fra	octogonal	adj-f-pl
-LR	bre	feodel	adj-sint	fra	féodal	$adj$adj-GD-ND
-LR	bre	feodel	adj-mf-sp	fra	féodal	$adj$adj-GD-ND
+LR	bre	feodel	adj-sint	fra	féodal	adj$adj-GD-ND$
+LR	bre	feodel	adj-mf-sp	fra	féodal	adj$adj-GD-ND$
 RL	bre	feodel	adj-mf-sp	fra	féodal	adj-m-sg
 RL	bre	feodel	adj-mf-sp	fra	féodal	adj-m-pl
 RL	bre	feodel	adj-mf-sp	fra	féodal	adj-f-sg
@@ -2454,8 +2454,8 @@ LR	bre	divlaz	adj-sint	fra	insipide	adj-mf-ND$adj
 LR	bre	divlaz	adj-mf-sp	fra	insipide	adj-mf-ND$adj
 RL	bre	divlaz	adj-mf-sp	fra	insipide	adj-mf-sg
 RL	bre	divlaz	adj-mf-sp	fra	insipide	adj-mf-pl
-LR	bre	anfurmel	adj-sint	fra	informel	adj$adj-GD$$adj-GD-ND
-LR	bre	anfurmel	adj-mf-sp	fra	informel	adj$adj-GD$$adj-GD-ND
+LR	bre	anfurmel	adj-sint	fra	informel	adj$adj-GD$adj-GD-ND$
+LR	bre	anfurmel	adj-mf-sp	fra	informel	adj$adj-GD$adj-GD-ND$
 RL	bre	anfurmel	adj-mf-sp	fra	informel	adj-m$adj-m-sg
 RL	bre	anfurmel	adj-mf-sp	fra	informel	adj-m-pl
 RL	bre	anfurmel	adj-mf-sp	fra	informel	adj-f$adj-f-sg
@@ -2952,8 +2952,8 @@ RL	bre	hollc’halloudek	adj-mf-sp$adj	fra	tout puissant	adj-f-sg
 RL	bre	hollc’halloudek	adj-mf-sp$adj	fra	tout puissant	adj-f-pl
 RL	bre	hollc’halloudek	adj-mf-sp$adj	fra	tout puissant	adj-m-sg
 RL	bre	hollc’halloudek	adj-mf-sp$adj	fra	tout puissant	adj-m-pl
-LR	bre	impalaerel	adj-sint	fra	impérial	adj$$adj-GD-ND
-LR	bre	impalaerel	adj-mf-sp	fra	impérial	adj$$adj-GD-ND
+LR	bre	impalaerel	adj-sint	fra	impérial	adj$adj-GD-ND$
+LR	bre	impalaerel	adj-mf-sp	fra	impérial	adj$adj-GD-ND$
 RL	bre	impalaerel	adj-mf-sp	fra	impérial	adj-m-sg
 RL	bre	impalaerel	adj-mf-sp	fra	impérial	adj-m-pl
 RL	bre	impalaerel	adj-mf-sp	fra	impérial	adj-f-sg
@@ -3001,8 +3001,8 @@ RL	bre	kentelius	adj-mf-sp	fra	instructif	adj-m-sg
 RL	bre	kentelius	adj-mf-sp	fra	instructif	adj-m-pl
 RL	bre	kentelius	adj-mf-sp	fra	instructif	adj-f-sg
 RL	bre	kentelius	adj-mf-sp	fra	instructif	adj-f-pl
-LR	bre	kevatal	adj-sint	fra	égal	adj$adj-GD-ND$$adj-GD
-LR	bre	kevatal	adj-mf-sp$adj	fra	égal	adj$adj-GD-ND$$adj-GD
+LR	bre	kevatal	adj-sint	fra	égal	adj$adj-GD-ND$adj-GD$
+LR	bre	kevatal	adj-mf-sp$adj	fra	égal	adj$adj-GD-ND$adj-GD$
 RL	bre	kevatal	adj-mf-sp$adj	fra	égal	adj-m$adj-m-sg
 RL	bre	kevatal	adj-mf-sp$adj	fra	égal	adj-m-pl
 RL	bre	kevatal	adj-mf-sp$adj	fra	égal	adj-f$adj-f-sg
@@ -4488,8 +4488,8 @@ LR	bre	belgiat	adj-sint	fra	belge	adj$adj-mf-ND$adj-mf
 LR	bre	belgiat	adj-mf-sp	fra	belge	adj$adj-mf-ND$adj-mf
 RL	bre	belgiat	adj-mf-sp	fra	belge	adj-mf-sg
 RL	bre	belgiat	adj-mf-sp	fra	belge	adj-mf-pl
-LR	bre	berber	adj-sint	fra	berbère	adj-mf-ND$adj
-LR	bre	berber	adj-mf-sp	fra	berbère	adj-mf-ND$adj
+LR	bre	berber	adj-sint	fra	berbère	adj$adj-mf-ND
+LR	bre	berber	adj-mf-sp	fra	berbère	adj$adj-mf-ND
 RL	bre	berber	adj-mf-sp	fra	berbère	adj-mf-sg
 RL	bre	berber	adj-mf-sp	fra	berbère	adj-mf-pl
 LR	bre	bosniat	adj-sint	fra	bosniaque	adj-mf-ND$adj
@@ -6048,12 +6048,12 @@ LR	bre	etrekeltiek	adj-sint	fra	interceltique	adj-mf-ND
 LR	bre	etrekeltiek	adj-mf-sp	fra	interceltique	adj-mf-ND
 RL	bre	etrekeltiek	adj-mf-sp	fra	interceltique	adj-mf-sg
 RL	bre	etrekeltiek	adj-mf-sp	fra	interceltique	adj-mf-pl
-LR	bre	kelt	adj-sint	fra	celtique	adj-mf$adj$adj-mf-ND
-LR	bre	kelt	adj-mf-sp	fra	celtique	adj-mf$adj$adj-mf-ND
+LR	bre	kelt	adj-sint	fra	celtique	adj-mf$adj-mf-ND$adj
+LR	bre	kelt	adj-mf-sp	fra	celtique	adj-mf$adj-mf-ND$adj
 RL	bre	kelt	adj-mf-sp	fra	celtique	adj-mf-sg
 RL	bre	kelt	adj-mf-sp	fra	celtique	adj-mf-pl
-LR	bre	keltiek	adj-sint	fra	celtique	adj-mf$adj$adj-mf-ND
-LR	bre	keltiek	adj-mf-sp$adj	fra	celtique	adj-mf$adj$adj-mf-ND
+LR	bre	keltiek	adj-sint	fra	celtique	adj-mf$adj-mf-ND$adj
+LR	bre	keltiek	adj-mf-sp$adj	fra	celtique	adj-mf$adj-mf-ND$adj
 RL	bre	keltiek	adj-mf-sp$adj	fra	celtique	adj-mf-sg
 RL	bre	keltiek	adj-mf-sp$adj	fra	celtique	adj-mf-pl
 LR	bre	begek	adj-sint	fra	benêt	adj-mf-ND
@@ -6704,8 +6704,8 @@ RL	bre	trovanel	adj-mf-sp	fra	tropical	adj-m$adj-m-sg
 RL	bre	trovanel	adj-mf-sp	fra	tropical	adj-m-pl
 RL	bre	trovanel	adj-mf-sp	fra	tropical	adj-f$adj-f-sg
 RL	bre	trovanel	adj-mf-sp	fra	tropical	adj-f-pl
-LR	bre	sonerezhel	adj-sint	fra	musical	adj$adj-GD-ND$$adj-GD
-LR	bre	sonerezhel	adj-mf-sp	fra	musical	adj$adj-GD-ND$$adj-GD
+LR	bre	sonerezhel	adj-sint	fra	musical	adj$adj-GD-ND$adj-GD$
+LR	bre	sonerezhel	adj-mf-sp	fra	musical	adj$adj-GD-ND$adj-GD$
 RL	bre	sonerezhel	adj-mf-sp	fra	musical	adj-m$adj-m-sg
 RL	bre	sonerezhel	adj-mf-sp	fra	musical	adj-m-pl
 RL	bre	sonerezhel	adj-mf-sp	fra	musical	adj-f$adj-f-sg
@@ -6716,19 +6716,19 @@ RL	bre	ampar	adj-mf-sp	fra	impair	adj-m-sg
 RL	bre	ampar	adj-mf-sp	fra	impair	adj-m-pl
 RL	bre	ampar	adj-mf-sp	fra	impair	adj-f-sg
 RL	bre	ampar	adj-mf-sp	fra	impair	adj-f-pl
-LR	bre	yezhadurel	adj-sint	fra	grammatical	adj$adj-GD-ND$$adj-GD
-LR	bre	yezhadurel	adj-mf-sp	fra	grammatical	adj$adj-GD-ND$$adj-GD
+LR	bre	yezhadurel	adj-sint	fra	grammatical	adj$adj-GD-ND$adj-GD$
+LR	bre	yezhadurel	adj-mf-sp	fra	grammatical	adj$adj-GD-ND$adj-GD$
 RL	bre	yezhadurel	adj-mf-sp	fra	grammatical	adj-m$adj-m-sg
 RL	bre	yezhadurel	adj-mf-sp	fra	grammatical	adj-m-pl
 RL	bre	yezhadurel	adj-mf-sp	fra	grammatical	adj-f$adj-f-sg
 RL	bre	yezhadurel	adj-mf-sp	fra	grammatical	adj-f-pl
-LR	bre	par	adj-mf-sp	fra	égal	adj$adj-GD-ND$$adj-GD
+LR	bre	par	adj-mf-sp	fra	égal	adj$adj-GD-ND$adj-GD$
 RL	bre	par	adj-mf-sp	fra	égal	adj-m$adj-m-sg
 RL	bre	par	adj-mf-sp	fra	égal	adj-m-pl
 RL	bre	par	adj-mf-sp	fra	égal	adj-f$adj-f-sg
 RL	bre	par	adj-mf-sp	fra	égal	adj-f-pl
-LR	bre	proviñsel	adj-sint	fra	provincial	adj$adj-GD-ND$$adj-GD
-LR	bre	proviñsel	adj-mf-sp	fra	provincial	adj$adj-GD-ND$$adj-GD
+LR	bre	proviñsel	adj-sint	fra	provincial	adj$adj-GD-ND$adj-GD$
+LR	bre	proviñsel	adj-mf-sp	fra	provincial	adj$adj-GD-ND$adj-GD$
 RL	bre	proviñsel	adj-mf-sp	fra	provincial	adj-m$adj-m-sg
 RL	bre	proviñsel	adj-mf-sp	fra	provincial	adj-m-pl
 RL	bre	proviñsel	adj-mf-sp	fra	provincial	adj-f$adj-f-sg
@@ -6749,7 +6749,7 @@ LR	bre	bedel	adj-sint	fra	mondial	adj-GD$adj-GD-ND
 LR	bre	bedel	adj-mf-sp$adj	fra	mondial	adj-GD$adj-GD-ND
 RL	bre	bedel	adj-mf-sp$adj	fra	mondial	adj-m$adj-m-sg
 RL	bre	bedel	adj-mf-sp$adj	fra	mondial	adj-m-pl
-RL	bre	bedel	adj-mf-sp$adj	fra	mondial	adj$$adj-f$adj-f-sg
+RL	bre	bedel	adj-mf-sp$adj	fra	mondial	adj$adj-f$$adj-f-sg
 RL	bre	bedel	adj-mf-sp$adj	fra	mondial	adj-f-pl
 LR	bre	tiriadel	adj-sint	fra	territorial	adj-GD$adj-GD-ND
 LR	bre	tiriadel	adj-mf-sp	fra	territorial	adj-GD$adj-GD-ND
@@ -6769,8 +6769,8 @@ RL	bre	broadel	adj-mf-sp	fra	national	adj-m$adj-m-sg
 RL	bre	broadel	adj-mf-sp	fra	national	adj-m-pl
 RL	bre	broadel	adj-mf-sp	fra	national	adj$adj-f$$adj-f-sg
 RL	bre	broadel	adj-mf-sp	fra	national	adj-f-pl
-LR	bre	etrebroadel	adj-sint	fra	international	$adj$adj-GD-ND$adj-GD
-LR	bre	etrebroadel	adj-mf-sp	fra	international	$adj$adj-GD-ND$adj-GD
+LR	bre	etrebroadel	adj-sint	fra	international	adj$adj-GD-ND$adj-GD$
+LR	bre	etrebroadel	adj-mf-sp	fra	international	adj$adj-GD-ND$adj-GD$
 RL	bre	etrebroadel	adj-mf-sp	fra	international	adj-m$adj-m-sg
 RL	bre	etrebroadel	adj-mf-sp	fra	international	adj-m-pl
 RL	bre	etrebroadel	adj-mf-sp	fra	international	adj-f$adj-f-sg
@@ -6844,8 +6844,8 @@ RL	bre	danvezel	adj-mf-sp	fra	matériel	adj-m$adj-m-sg
 RL	bre	danvezel	adj-mf-sp	fra	matériel	adj-m-pl
 RL	bre	danvezel	adj-mf-sp	fra	matériel	adj$adj-f$adj-f-sg
 RL	bre	danvezel	adj-mf-sp	fra	matériel	adj-f-pl
-LR	bre	greantel	adj-sint	fra	industriel	adj$$adj-GD-ND$adj-GD
-LR	bre	greantel	adj-mf-sp	fra	industriel	adj$$adj-GD-ND$adj-GD
+LR	bre	greantel	adj-sint	fra	industriel	adj$adj-GD-ND$adj-GD$
+LR	bre	greantel	adj-mf-sp	fra	industriel	adj$adj-GD-ND$adj-GD$
 RL	bre	greantel	adj-mf-sp	fra	industriel	adj-m$adj-m-sg
 RL	bre	greantel	adj-mf-sp	fra	industriel	adj-m-pl
 RL	bre	greantel	adj-mf-sp	fra	industriel	adj-f$adj-f-sg
@@ -6873,8 +6873,8 @@ RL	bre	dreistordinal	adj-mf-sp	fra	exceptionnel	adj-m$adj-m-sg
 RL	bre	dreistordinal	adj-mf-sp	fra	exceptionnel	adj-m-pl
 RL	bre	dreistordinal	adj-mf-sp	fra	exceptionnel	adj-f$adj-f-sg
 RL	bre	dreistordinal	adj-mf-sp	fra	exceptionnel	adj-f-pl
-LR	bre	frammadurel	adj-sint	fra	structurel	$adj$adj-GD-ND
-LR	bre	frammadurel	adj-mf-sp	fra	structurel	$adj$adj-GD-ND
+LR	bre	frammadurel	adj-sint	fra	structurel	adj$adj-GD-ND$
+LR	bre	frammadurel	adj-mf-sp	fra	structurel	adj$adj-GD-ND$
 RL	bre	frammadurel	adj-mf-sp	fra	structurel	adj-m-sg
 RL	bre	frammadurel	adj-mf-sp	fra	structurel	adj-m-pl
 RL	bre	frammadurel	adj-mf-sp	fra	structurel	adj-f-sg
@@ -6985,8 +6985,8 @@ RL	bre	hiniennel	adj-mf-sp	fra	individuel	adj-m$adj-m-sg
 RL	bre	hiniennel	adj-mf-sp	fra	individuel	adj-m-pl
 RL	bre	hiniennel	adj-mf-sp	fra	individuel	adj-f$adj-f-sg
 RL	bre	hiniennel	adj-mf-sp	fra	individuel	adj-f-pl
-LR	bre	bloaziek	adj-sint	fra	annuel	adj$adj-GD$$adj-GD-ND
-LR	bre	bloaziek	adj-mf-sp	fra	annuel	adj$adj-GD$$adj-GD-ND
+LR	bre	bloaziek	adj-sint	fra	annuel	adj$adj-GD$adj-GD-ND$
+LR	bre	bloaziek	adj-mf-sp	fra	annuel	adj$adj-GD$adj-GD-ND$
 RL	bre	bloaziek	adj-mf-sp	fra	annuel	adj-m$adj-m-sg
 RL	bre	bloaziek	adj-mf-sp	fra	annuel	adj-m-pl
 RL	bre	bloaziek	adj-mf-sp	fra	annuel	adj-f$adj-f-sg
@@ -8718,8 +8718,8 @@ LR	bre	gorrek	adj-mf-sp	fra	lent	adj$adj-GD-ND
 RL	bre	gorrek	adj-mf-sp	fra	lent	adj$adj-GD-ND
 LR	bre	gourel	adj-mf-sp$adj	fra	masculin	adj$adj-GD-ND
 RL	bre	gourel	adj-mf-sp$adj	fra	masculin	adj$adj-GD-ND
-LR	bre	greantel	adj-mf-sp	fra	industriel	adj$$adj-GD-ND$adj-GD
-RL	bre	greantel	adj-mf-sp	fra	industriel	adj$$adj-GD-ND$adj-GD
+LR	bre	greantel	adj-mf-sp	fra	industriel	adj$adj-GD-ND$adj-GD$
+RL	bre	greantel	adj-mf-sp	fra	industriel	adj$adj-GD-ND$adj-GD$
 LR	bre	groñs	adj-mf-sp	fra	formel	adj$adj-GD-ND$adj-GD
 RL	bre	groñs	adj-mf-sp	fra	formel	adj$adj-GD-ND$adj-GD
 LR	bre	gwadek	adj-mf-sp	fra	sanglant	adj$adj-GD-ND
@@ -8766,8 +8766,8 @@ LR	bre	pounner	adj-mf-sp	fra	lourd	adj$adj-GD-ND
 RL	bre	pounner	adj-mf-sp	fra	lourd	adj$adj-GD-ND
 LR	bre	prizius	adj-mf-sp	fra	précieux	adj-GD-ND
 RL	bre	prizius	adj-mf-sp	fra	précieux	adj-m-sp$adj
-LR	bre	proviñsel	adj-mf-sp	fra	provincial	adj$adj-GD-ND$$adj-GD
-RL	bre	proviñsel	adj-mf-sp	fra	provincial	adj$adj-GD-ND$$adj-GD
+LR	bre	proviñsel	adj-mf-sp	fra	provincial	adj$adj-GD-ND$adj-GD$
+RL	bre	proviñsel	adj-mf-sp	fra	provincial	adj$adj-GD-ND$adj-GD$
 LR	bre	pur	adj-mf-sp$adj	fra	pur	adj$adj-GD-ND
 RL	bre	pur	adj-mf-sp$adj	fra	pur	adj$adj-GD-ND
 LR	bre	rannvroel	adj-mf-sp	fra	régional	adj-GD$adj$adj-GD-ND$
@@ -8786,8 +8786,8 @@ LR	bre	seder	adj-mf-sp	fra	serein	adj$adj-GD-ND
 RL	bre	seder	adj-mf-sp	fra	serein	adj$adj-GD-ND
 LR	bre	skañv	adj-mf-sp$adj	fra	léger	adj$adj-GD-ND$adj-GD
 RL	bre	skañv	adj-mf-sp$adj	fra	léger	adj$adj-GD-ND$adj-GD
-LR	bre	sonerezhel	adj-mf-sp	fra	musical	adj$adj-GD-ND$$adj-GD
-RL	bre	sonerezhel	adj-mf-sp	fra	musical	adj$adj-GD-ND$$adj-GD
+LR	bre	sonerezhel	adj-mf-sp	fra	musical	adj$adj-GD-ND$adj-GD$
+RL	bre	sonerezhel	adj-mf-sp	fra	musical	adj$adj-GD-ND$adj-GD$
 LR	bre	sot	adj-mf-sp	fra	fou	adj$adj-GD-ND
 RL	bre	sot	adj-mf-sp	fra	fou	adj$adj-GD-ND
 LR	bre	speredek	adj-mf-sp	fra	intelligent	adj$adj-GD-ND$adj-GD
@@ -8808,8 +8808,8 @@ LR	bre	trovanel	adj-mf-sp	fra	tropical	adj$adj-GD-ND$adj-GD$
 RL	bre	trovanel	adj-mf-sp	fra	tropical	adj$adj-GD-ND$adj-GD$
 LR	bre	vak	adj-mf-sp	fra	vacant	adj-GD$adj-GD-ND
 RL	bre	vak	adj-mf-sp	fra	vacant	adj$adj-f$adj-f-sg
-LR	bre	yezhadurel	adj-mf-sp	fra	grammatical	adj$adj-GD-ND$$adj-GD
-RL	bre	yezhadurel	adj-mf-sp	fra	grammatical	adj$adj-GD-ND$$adj-GD
+LR	bre	yezhadurel	adj-mf-sp	fra	grammatical	adj$adj-GD-ND$adj-GD$
+RL	bre	yezhadurel	adj-mf-sp	fra	grammatical	adj$adj-GD-ND$adj-GD$
 LR	bre	gwigourus	adj-sint	fra	grinçant	adj-GD-ND$adj-GD
 LR	bre	gwigourus	adj-mf-sp	fra	grinçant	adj-GD-ND$adj-GD
 RL	bre	gwigourus	adj-mf-sp	fra	grinçant	adj-m$adj-m-sg
@@ -9180,8 +9180,8 @@ LR	bre	douarek	adj-mf-sp	fra	terreux	adj-GD-ND$adj
 RL	bre	douarek	adj-mf-sp	fra	terreux	adj-m-sp
 RL	bre	douarek	adj-mf-sp	fra	terreux	adj-f-sg
 RL	bre	douarek	adj-mf-sp	fra	terreux	adj-f-pl
-LR	bre	euver	adj-sint	fra	égal	adj$adj-GD-ND$$adj-GD
-LR	bre	euver	adj-mf-sp	fra	égal	adj$adj-GD-ND$$adj-GD
+LR	bre	euver	adj-sint	fra	égal	adj$adj-GD-ND$adj-GD$
+LR	bre	euver	adj-mf-sp	fra	égal	adj$adj-GD-ND$adj-GD$
 RL	bre	euver	adj-mf-sp	fra	égal	adj-m$adj-m-sg
 RL	bre	euver	adj-mf-sp	fra	égal	adj-m-pl
 RL	bre	euver	adj-mf-sp	fra	égal	adj-f$adj-f-sg
@@ -9247,8 +9247,8 @@ RL	bre	diaezus	adj-mf-sp	fra	embêtant	adj-m-sg
 RL	bre	diaezus	adj-mf-sp	fra	embêtant	adj-m-pl
 RL	bre	diaezus	adj-mf-sp	fra	embêtant	adj-f-sg
 RL	bre	diaezus	adj-mf-sp	fra	embêtant	adj-f-pl
-LR	bre	korfel	adj-sint	fra	corporel	adj$$adj-GD-ND
-LR	bre	korfel	adj-mf-sp	fra	corporel	adj$$adj-GD-ND
+LR	bre	korfel	adj-sint	fra	corporel	adj$adj-GD-ND$
+LR	bre	korfel	adj-mf-sp	fra	corporel	adj$adj-GD-ND$
 RL	bre	korfel	adj-mf-sp	fra	corporel	adj-m-sg
 RL	bre	korfel	adj-mf-sp	fra	corporel	adj-m-pl
 RL	bre	korfel	adj-mf-sp	fra	corporel	adj-f-sg
@@ -9751,7 +9751,7 @@ RL	bre	armerzhour	n-GD	fra	économiste	n$n-mf$n-mf-ND
 	bre	arnodskrid	n-m	fra	essai	n-m$n$n-m-ND
 	bre	arnodva	n-m	fra	laboratoire	n$n-m$n-m-ND
 	bre	arouaregezh	n-f	fra	oisiveté	n-f
-	bre	arouez	n-f	fra	symbole	n-m$n$n-m-ND
+	bre	arouez	n-f	fra	symbole	n$n-m$n-m-ND
 	bre	arouezenn	n-f	fra	caractère	n$n-m$n-m-ND
 	bre	arrebeuri	n-m	fra	meuble	n-m$n$n-m-pl
 	bre	arroudenn	n-f	fra	piste	n-f$n$n-f-ND
@@ -10835,7 +10835,7 @@ LR	bre	buzore	n-m-pl	fra	niais	n-m-sp$n
 	bre	chalotez	n-f	fra	échalote	n-f
 	bre	chambarle	n-m	fra	porche	n-m$n$n-m-ND
 	bre	champouenn	n-f	fra	shampoing	n-m
-	bre	chañs	n-f	fra	chance	n-f$n$n-f-ND
+	bre	chañs	n-f	fra	chance	n$n-f$n-f-ND
 	bre	chañson	n-f	fra	chanson	n-f$n$n-f-ND
 	bre	chanter	n-m	fra	chantier	n-m$n-m-ND
 	bre	chaodouron	n-m	fra	chaudron	n-m
@@ -11091,7 +11091,7 @@ LR	bre	danevell	n-f	fra	rapport financier	n-m
 	bre	daranver	n-f	fra	annonceur	n-f
 	bre	dañs	n-m	fra	danse	n-f$n
 	bre	dañjer	n-m	fra	danger	n$n-m$n-m-ND
-	bre	dar	n-f	fra	dalle	n-f$n$n-f-ND
+	bre	dar	n-f	fra	dalle	n$n-f$n-f-ND
 	bre	darbod	n-m	fra	tesson	n-m
 	bre	darempred	n-m	fra	relation	n-f$n$n-f-ND
 	bre	darempredadur	n-m	fra	compagnie	n$n-f$n-f-ND
@@ -11391,7 +11391,7 @@ LR	bre	dibaberezh	n-m-pl	fra	choix	n-m-sp$n-m
 	bre	dilhad	n-m	fra	maillot	n-m$n$n-m-pl
 	bre	dilhad	n-m	fra	vêtement	n-m-pl$n-m$n
 	bre	dilojadeg	n-f	fra	déménagement	n-m
-	bre	dimezell	n-f	fra	demoiselle	n-f$n$n-f-ND
+	bre	dimezell	n-f	fra	demoiselle	n$n-f$n-f-ND
 	bre	dimezellig	n-f	fra	petite demoiselle	n-f
 	bre	dimeziñ	n-m	fra	mariage	n-m$n$n-m-ND
 	bre	dimeziñ	n-m	fra	mariage arrangé	n-m
@@ -12040,7 +12040,7 @@ LR	bre	fan	n-m	fra	fan	n-mf$n
 LR	bre	fan	n-f	fra	fan	n-mf$n
 RL	bre	fan	n-GD	fra	fan	n-mf$n
 	bre	fankigell	n-f	fra	fondrière	n-f
-	bre	fard	n-m	fra	maquillage	n$n-m
+	bre	fard	n-m	fra	maquillage	n-m$n
 	bre	Farizian	n-m	fra	Pharisien	n$n-m
 	bre	Farizian	n-f	fra	Pharisien	n-f
 	bre	farouell	n-m	fra	bouffon	n$n-m
@@ -13289,7 +13289,7 @@ LR	bre	jezuist	n-f	fra	jésuite	n-mf$n
 LR	bre	Kabil	n-m	fra	Kabyle	n-mf
 LR	bre	Kabil	n-f	fra	Kabyle	n-mf
 RL	bre	Kabil	n-GD	fra	Kabyle	n-mf
-	bre	kabiten	n-m	fra	capitaine	n$n-mf$n-mf-ND
+	bre	kabiten	n-m	fra	capitaine	n-mf$n$n-mf-ND
 	bre	kad	n-f	fra	combat	n-m$n$n-m-ND
 	bre	kadarnadur	n-m	fra	confirmation	n$n-f$n-f-ND
 	bre	kadoniour	n-m	fra	tacticien	n$n-m
@@ -13680,7 +13680,7 @@ RL	bre	Kemperad	n-m-ND	fra	Quimpérois	n-m-sp
 	bre	kenaozadur	n-m	fra	combinaison	n-f$n$n-f-ND
 	bre	kenaozer	n-m	fra	organisateur	n$n-m$n-m-ND
 	bre	kenaozer	n-f	fra	organisateur	n-f
-	bre	kenarouez	n-f	fra	symbole	n-m$n$n-m-ND
+	bre	kenarouez	n-f	fra	symbole	n$n-m$n-m-ND
 	bre	kenatebegezh	n-f	fra	coresponsabilité	n-f
 	bre	kenbrezeger	n-m	fra	interlocuteur	n$n-m$n-m-ND
 	bre	kenbrezeger	n-f	fra	interlocuteur	n-f
@@ -14800,7 +14800,7 @@ RL	bre	Luksembourgad	n-m-ND	fra	Luxembourgeois	n-m-sp$n
 	bre	lutig	n-m	fra	lumignon	n-m
 	bre	luz	n-m	fra	embrouille	n-f
 	bre	luziadell	n-f	fra	énigme	n-f
-	bre	m	n-m	fra	m	n$n-m$n-acr-m
+	bre	m	n-m	fra	m	n$n-m$n-m-sp
 LR	bre	mab	n-m$n-m-sg	fra	fils	n-m-sp$n-m$n
 LR	bre	mab	n-m-pl	fra	fils	n-m-sp$n-m$n
 RL	bre	mab	n-m-ND	fra	fils	n-m-sp$n-m$n
@@ -14937,7 +14937,7 @@ LR	bre	marbr	n-m	fra	marbre	n$n-m$n-m-ND
 	bre	marc’had	n-m	fra	marché	n$n-m$n-m-ND
 	bre	marc’hadour	n-m	fra	marchand	n$n-m
 	bre	marc’hadour	n-f	fra	marchand	n-f
-	bre	marc’hadourezh	n-f	fra	marchandise	n$n-f$n-f-ND
+	bre	marc’hadourezh	n-f	fra	marchandise	n-f$n$n-f-ND
 	bre	marc’h	n-m	fra	leader	n$n-m
 	bre	marc’h	n-m	fra	cheval	n-m$n$n-m-ND
 	bre	marc’heg	n-m	fra	chevalier	n-m$n
@@ -15900,7 +15900,7 @@ RL	bre	Penmarc’had	n-m-ND	fra	Penmarchais	n-m-sp
 	bre	pennkêr	n-m	fra	village	n-m$n
 	bre	pennlavarenn	n-f	fra	proposition principale	n-f
 	bre	pennlec’h	n-m	fra	chef-lieu	n-m
-	bre	pennlizherenn	n-f	fra	majuscule	n-f$$n
+	bre	pennlizherenn	n-f	fra	majuscule	n-f$n$
 	bre	pennorin	n-m	fra	source	n-f$n$n-f-ND
 	bre	pennrann	n-f	fra	radical	n-m$$n
 	bre	pennreolenn	n-f	fra	règle fondamentale	n-f
@@ -16170,7 +16170,7 @@ RL	bre	poltredour	n-GD	fra	portraitiste	n-mf
 	bre	porched	n-m	fra	porche	n-m$n$n-m-ND
 	bre	porched	n-m	fra	portail média	n-m
 	bre	poread	n-m	fra	infection	n-f$n$n-f-ND
-	bre	porfum	n-m	fra	parfum	n-m$n$n-m-ND
+	bre	porfum	n-m	fra	parfum	n$n-m$n-m-ND
 	bre	porfumerezh	n-f	fra	parfumerie	n-f
 	bre	pornografiezh	n-f	fra	pornographie	n-f$n
 	bre	porpant	n-m	fra	veste	n-f
@@ -17522,7 +17522,7 @@ RL	bre	Taiwanad	n-m-ND	fra	Taïwanais	n-m-sp$n
 	bre	tan	n-m	fra	incendie	n-m$n$n-m-ND
 	bre	tangwall	n-m	fra	incendie	n-m$n$n-m-ND
 	bre	tanidigezh	n-f	fra	incendie	n-m$n$n-m-ND
-	bre	tanijenn	n-f	fra	inflammation	n-f$n
+	bre	tanijenn	n-f	fra	inflammation	n$n-f
 	bre	tank	n-m	fra	tank	n-m$n$n-m-ND
 	bre	tant	n-m	fra	corde	n-f$n$n-f-ND
 	bre	tantad	n-m	fra	feu	n-m$n$n-m-ND
@@ -17723,9 +17723,9 @@ RL	bre	Togoad	n-m-ND	fra	Togolais	n-m-sp$n
 LR	bre	torr	n-m-sg$n-m	fra	casse-noix	n-m-sp
 LR	bre	torr	n-m-pl	fra	casse-noix	n-m-sp
 RL	bre	torr	n-m-ND	fra	casse-noix	n-m-sp
-LR	bre	torr	n-m-sg$n-m	fra	casse-tête	n-m-sp$n-m
-LR	bre	torr	n-m-pl	fra	casse-tête	n-m-sp$n-m
-RL	bre	torr	n-m-ND	fra	casse-tête	n-m-sp$n-m
+LR	bre	torr	n-m-sg$n-m	fra	casse-tête	n-m$n-m-sp
+LR	bre	torr	n-m-pl	fra	casse-tête	n-m$n-m-sp
+RL	bre	torr	n-m-ND	fra	casse-tête	n-m$n-m-sp
 	bre	tort	n-m	fra	bossu	n-m$n
 	bre	torzhell	n-f	fra	tubercule	n-m
 	bre	torzhell	n-f	fra	excroissance	n-f
@@ -18279,7 +18279,7 @@ RL	bre	eiler	n-f	fra	auxiliaire	n-mf$n$n-mf-ND
 	bre	frezilhon	n-m	fra	frange	n-f$n$n-f-ND
 	bre	fromadenn	n-f	fra	émotion	n-f$n$n-f-ND
 	bre	frondenn	n-f	fra	cravate	n$n-f$n-f-ND
-	bre	frond	n-m	fra	parfum	n-m$n$n-m-ND
+	bre	frond	n-m	fra	parfum	n$n-m$n-m-ND
 	bre	froudad	n-m	fra	courant	n-m$n$n-m-ND
 	bre	froudenn	n-f	fra	caprice	n-m$n$n-m-ND
 	bre	fulenn	n-f	fra	étincelle	n-f$n$n-f-ND
@@ -18942,9 +18942,9 @@ LR	bre	galleg	n-m-pl	fra	français	n-m-sp$n
 RL	bre	nederlandeg	n-m-ND$n-m	fra	néerlandais	n-m-sp$n$n-m
 LR	bre	nederlandeg	n-m-sg	fra	néerlandais	n-m-sp$n$n-m
 LR	bre	nederlandeg	n-m-pl	fra	néerlandais	n-m-sp$n$n-m
-RL	bre	iwerzhoneg	n-m$n-m-ND	fra	irlandais	n$n-m-sp
-LR	bre	iwerzhoneg	n-m-sg	fra	irlandais	n$n-m-sp
-LR	bre	iwerzhoneg	n-m-pl	fra	irlandais	n$n-m-sp
+RL	bre	iwerzhoneg	n-m$n-m-ND	fra	irlandais	n-m-sp$n
+LR	bre	iwerzhoneg	n-m-sg	fra	irlandais	n-m-sp$n
+LR	bre	iwerzhoneg	n-m-pl	fra	irlandais	n-m-sp$n
 	bre	trimizvezh	n-f	fra	trimestre	n-m$n$n-m-ND
 	bre	killi	n-f	fra	bosquet	n-m
 	bre	bazilik	n-m	fra	basilic	n-m
@@ -18982,7 +18982,7 @@ LR	bre	aloubidigezh	n-f	fra	invasion	n-f$n$n-f-ND
 	bre	angerc’hadenn	n-f	fra	consultation	n-f$n$n-f-ND
 	bre	argammedadur	n-m	fra	progression	n-f$n$n-f-ND
 	bre	argammed	n-m	fra	raison	n-f$n$n-f-ND
-	bre	argel	n-m	fra	symbole	n-m$n$n-m-ND
+	bre	argel	n-m	fra	symbole	n$n-m$n-m-ND
 	bre	argemmenn	n-f	fra	variable	n-f$n$n-f-ND
 	bre	argouraouadur	n-m	fra	dotation	n-f$n
 LR	bre	argouraouerezh	n-m	fra	dotation	n-f$n
@@ -20661,7 +20661,7 @@ LR	bre	kevroz	n-f-pl	fra	cens	n-m-sp$n-m
 RL	bre	kevroz	n-f-ND	fra	cens	n-m-sp$n-m
 	bre	kewazell	n-f	fra	conjonction	n-f$n
 	bre	kigennadur	n-m	fra	musculature	n$n-f
-	bre	kinkailherezh	n-f	fra	marchandise	n$n-f$n-f-ND
+	bre	kinkailherezh	n-f	fra	marchandise	n-f$n$n-f-ND
 	bre	kizidigezh	n-f	fra	sensibilité	n-f$n$n-f-ND
 	bre	brizhenn	n-f	fra	tache	n-f$n$n-f-ND
 	bre	saotr	n-m	fra	tache	n-f$n$n-f-ND
@@ -20772,7 +20772,7 @@ RL	bre	darbarer	n-GD	fra	aide	n-mf
 	bre	Aragon	np-top-sg	fra	Aragon	np$np-top-m-sg$np-top$np-top-m
 	bre	Arc’hantina	np-top-sg	fra	Argentine	np$np-top-f$np-top-f-sg$np-top
 	bre	Armenia	np-top-sg	fra	Arménie	np-top$np-top-f$np-top-f-sg
-	bre	Aruba	np-top-sg	fra	Aruba	np$np-top$np-top-f
+	bre	Aruba	np-top-sg	fra	Aruba	np$np-top$np-top-f$np-top-f-sg
 	bre	Arvorig	np-top-sg	fra	Armorique	np-top$np-top-f-sg
 	bre	Atacama	np-top-sg	fra	Atacama	np$np-top
 	bre	Azerbaidjan	np-top-sg	fra	Azerbaïdjan	np$np-top-m$np-top$np-top-m-sg
@@ -20812,7 +20812,7 @@ LR	bre	bro-Ulad	np-top-sg	fra	Ulster	np-top$np
 	bre	BZH	np-top-sg	fra	BZH	np-top
 	bre	Elzas	np-top-sg	fra	Alsace	np-top-f-sg$np-top$np-top-f
 	bre	Europa	np-top-sg$np-top	fra	Europe	np$np-top-f-sg$np-top$np-top-f
-	bre	Euskal Herria	np-top-sg	fra	Pays Basque	np$np-top$np-top-m
+	bre	Euskal Herria	np-top-sg	fra	Pays Basque	np$np-top$np-top-m$np-top-m-sg
 	bre	Dakar	np-top-sg	fra	Dakar	np$np-top-m-sg$np-top$np-top-m
 	bre	Galiza	np-top-sg	fra	Galice	np-top-f-sg$np-top$np-top-f
 	bre	Gres	np-top-sg	fra	Grèce	np$np-top$np-top-f$np-top-f-sg
@@ -20846,7 +20846,7 @@ LR	bre	Hellaz	np-top-sg	fra	Grèce	np$np-top$np-top-f$np-top-f-sg
 	bre	ledenez Iberia	np-top-sg	fra	péninsule Ibérique	np-top
 	bre	ledenez Iberek	np-top-sg	fra	péninsule Ibérique	np-top
 	bre	Leon	np-top$np-top-sg	fra	Leon	np-top
-	bre	Liger	np-top-sg	fra	Loire	np$np-top$np-top-f-sg
+	bre	Liger	np-top-sg	fra	Loire	np-top-f-sg$np$np-top
 	bre	Lituania	np-top-sg	fra	Lithuanie	np-top
 	bre	Maesyfed	np-top$np-top-sg	fra	New Radnor	np-top
 	bre	mor Baltek	np-top-sg	fra	mer Baltique	np-top$np-top-f-sg
@@ -20876,7 +20876,7 @@ LR	bre	Unvaniezh Europa	np-top-sg	fra	Union Européenne	np-top
 	bre	Eritrea	np-top-sg	fra	Érythrée	np$np-top-f$np-top$np-top-f-sg
 	bre	Estonia	np-top-sg	fra	Estonie	np$np-top-f$np-top-f-sg$np-top
 	bre	Etiopia	np-top-sg	fra	Éthiopie	np$np-top-f$np-top-f-sg$np-top
-	bre	Euskadi	np-top-sg	fra	Pays Basque	np$np-top$np-top-m
+	bre	Euskadi	np-top-sg	fra	Pays Basque	np$np-top$np-top-m$np-top-m-sg
 	bre	Korsika	np-top-sg	fra	Corse	np$np-top-f-sg$np-top
 	bre	Faero	np-top-sg	fra	Îles Féroé	np$np-top
 	bre	Filipinez	np-top-pl	fra	Philippines	np$np-top-f-pl$np-top$np-top-f
@@ -20916,7 +20916,7 @@ LR	bre	Guernesey	np-top-sg	fra	Guernesey	np-top$np
 	bre	Izelvroioù	np-top-pl	fra	Pays-Bas	np$np-top$np-top-f-pl
 	bre	Azorez	np-top-pl	fra	Açores	np-top
 	bre	Antilhez	np-top-pl	fra	Antilles	np$np-top$np-top-f-pl
-	bre	Berry	np-top-sg	fra	Berry	np-top
+	bre	Berry	np-top-sg	fra	Berry	np-top-m-sg$np-top
 	bre	bro-Gembre	np-top-sg	fra	Pays de Galles	np$np-top$np-top-m-sg$np-top-m
 	bre	bro-Spagn	np-top-sg	fra	Espagne	np$np-top$np-top-f$np-top-f-sg
 	bre	Japan	np-top-sg$np-top	fra	Japon	np$np-top-m$np-top-m-sg$np-top
@@ -20929,9 +20929,9 @@ LR	bre	Guernesey	np-top-sg	fra	Guernesey	np-top$np
 	bre	Kanada	np-top-sg$np-top	fra	Canada	np$np-top-m$np-top-m-sg$np-top
 	bre	Katalonia	np-top-sg	fra	Catalogne	np$np-top-f-sg$np-top$np-top-f
 	bre	Katar	np-top-sg	fra	Qatar	np$np-top-m$np-top$np-top-m-sg
-	bre	Kazakstan	np-top-sg	fra	Kazakhstan	np$np-top-m$np-top$np-top-m-sg
+	bre	Kazakstan	np-top-sg	fra	Kazakhstan	np$np-top-m$np-top-m-sg$np-top
 	bre	Kembre	np-top-sg$np-top	fra	Pays de Galles	np$np-top$np-top-m-sg$np-top-m
-	bre	Kemper	np-top-sg$np-top	fra	Quimper	np$np-top
+	bre	Kemper	np-top-sg$np-top	fra	Quimper	np$np-top$np-top-m-sg
 	bre	Kenya	np-top-sg	fra	Kenya	np$np-top-m-sg$np-top$np-top-m
 	bre	Keoded ar Vatikan	np-top-sg	fra	Vatican	np$np-top$np-top-m-sg$np-top-m
 	bre	Kerampuilh	np-top-sg	fra	Kerampuilh	np-top
@@ -20971,7 +20971,7 @@ LR	bre	Guernesey	np-top-sg	fra	Guernesey	np-top$np
 	bre	Maoris	np-top-sg	fra	Maurice	np-top$np$np-top-m-sg$np-top-m
 	bre	Maouritania	np-top-sg	fra	Mauritanie	np$np-top-f$np-top$np-top-f-sg
 	bre	Maroko	np-top-sg	fra	Maroc	np$np-top-m$np-top-m-sg$np-top
-	bre	Martinik	np-top-sg	fra	Martinique	np$np-top$np-top-f
+	bre	Martinik	np-top-sg	fra	Martinique	np$np-top$np-top-f$np-top-f-sg
 	bre	Mec’hiko	np-top-sg	fra	Mexique	np$np-top-m$np-top-m-sg$np-top
 	bre	Moldova	np-top-sg	fra	Moldavie	np$np-top$np-top-f$np-top-f-sg
 	bre	Monako	np-top-sg	fra	Monaco	np$np-top-m$np-top-m-sg$np-top
@@ -20990,7 +20990,7 @@ LR	bre	Guernesey	np-top-sg	fra	Guernesey	np-top$np
 	bre	Okitania	np-top-sg	fra	Occitanie	np$np-top-f-sg$np-top
 	bre	Ouzbekistan	np-top-sg	fra	Ouzbékistan	np$np-top-m$np-top$np-top-m-sg
 	bre	Pakistan	np-top-sg	fra	Pakistan	np$np-top-m$np-top-m-sg$np-top
-	bre	Palestina	np-top-sg	fra	Palestine	np$np-top
+	bre	Palestina	np-top-sg	fra	Palestine	np$np-top$np-top-f-sg
 	bre	Panamá	np-top-sg	fra	Panamá	np$np-top$np-top-m
 	bre	Papoua Ginea-Nevez	np-top-sg	fra	Papouasie-Nouvelle-Guinée	np$np-top$np-top-f$np-top-f-sg
 	bre	Paraguay	np-top-sg	fra	Paraguay	np$np-top-m$np-top$np-top-m-sg
@@ -21045,7 +21045,7 @@ LR	bre	Rzhn	np-top-sg	fra	Rennes	np-top$np$np-top-m-sg
 	bre	Suafrika	np-top-sg	fra	Afrique du Sud	np-top-f$np-top-f-sg$np-top
 	bre	Suis	np-top-sg	fra	Suisse	np-top-f$np-top-f-sg$np-top
 	bre	Surinam	np-top-sg	fra	Suriname	np-top-m-sg$np-top
-	bre	Svalbard	np-top-sg	fra	Svalbard	np$np-top
+	bre	Svalbard	np-top-sg	fra	Svalbard	np$np-top$np-top-m-sg
 	bre	Swaziland	np-top-sg	fra	Swaziland	np$np-top$np-top-f
 	bre	Tadjikistan	np-top-sg	fra	Tadjikistan	np$np-top-m$np-top$np-top-m-sg
 	bre	Tanzania	np-top-sg	fra	Tanzanie	np$np-top-f$np-top$np-top-f-sg
@@ -21058,12 +21058,12 @@ LR	bre	Rzhn	np-top-sg	fra	Rennes	np-top$np$np-top-m-sg
 	bre	Tolosa	np-top-sg	fra	Toulouse	np$np-top-f-sg$np-top
 	bre	Tonga	np-top-sg	fra	Tonga	np$np-top$np-top-f$np-top-f-pl
 	bre	Transvaal	np-top-sg	fra	Transvaal	np-top
-	bre	Treuzsilvania	np-top-sg	fra	Transylvanie	np$np-top
+	bre	Treuzsilvania	np-top-sg	fra	Transylvanie	np$np-top$np-top-f-sg
 	bre	Tristan da Cunha	np-top-sg	fra	Île Tristan da Cunha	np-top
 	bre	Tunizia	np-top-sg	fra	Tunisie	np$np-top-m$np-top
 	bre	Turkia	np-top-sg$np-top	fra	Turquie	np$np-top-f$np-top-f-sg$np-top
 	bre	Turkmenistan	np-top-sg	fra	Turkménistan	np$np-top$np-top-m$np-top-m-sg
-	bre	Tuvalu	np-top-sg	fra	Tuvalu	np$np-top$np-top-m
+	bre	Tuvalu	np-top-sg	fra	Tuvalu	np$np-top$np-top-m$np-top-m-sg
 	bre	Ukraina	np-top-sg	fra	Ukraine	np$np-top-f$np-top-f-sg$np-top
 	bre	Ulad	np-top-sg	fra	Ulster	np-top$np
 	bre	Uruguay	np-top-sg	fra	Uruguay	np$np-top-m$np-top-m-sg$np-top
@@ -21096,10 +21096,10 @@ LR	bre	Rzhn	np-top-sg	fra	Rennes	np-top$np$np-top-m-sg
 	bre	bro-Vrest	np-top-sg	fra	Pays de Brest	np-top
 	bre	bro-Vigoudenn	np-top-sg	fra	Pays Bigouden	np-top
 	bre	bro-Zol	np-top-sg	fra	Pays de Dol	np-top
-	bre	Broioù-al-Liger	np-top-sg	fra	Pays de la Loire	np-top
+	bre	Broioù-al-Liger	np-top-sg	fra	Pays de la Loire	np-top$np-top-m-pl
 	bre	Aodoù-an-Arvor	np-top-sg	fra	Côtes-d’Armor	np-top
 	bre	Aodoù-an-Hanternoz	np-top-sg	fra	Côtes-du-Nord	np-top
-	bre	Il-ha-Gwilen	np-top-sg	fra	Ille-et-Vilaine	np$np-top
+	bre	Il-ha-Gwilen	np-top-sg	fra	Ille-et-Vilaine	np$np-top$np-top-f-sg
 	bre	Roazhon	np-top-sg$np-top	fra	Rennes	np-top$np$np-top-m-sg
 	bre	Gwengamp	np-top-sg$np-top	fra	Guingamp	np-top$np$np-top-m-sg
 	bre	Mor-Bihan	np-top-sg	fra	Morbihan	np$np-top$np-top-m-sg
@@ -21108,8 +21108,8 @@ LR	bre	Morbihan	np-top-sg	fra	Morbihan	np$np-top$np-top-m-sg
 	bre	Sant-Jakez	np-top-sg	fra	Saint-Jacques	np-top
 	bre	Sant-Maloù	np-top-sg$np-top	fra	Saint-Malo	np$np-top$np-top-m-sg
 	bre	Naoned	np-top-sg$np-top	fra	Nantes	np$np-top$np-top-m-sg
-	bre	Liger	np-top-sg	fra	Loire	np$np-top$np-top-f-sg
-	bre	Liger-Atlantel	np-top-sg	fra	Loire-Atlantique	np$np-top$np-top-f-sg
+	bre	Liger	np-top-sg	fra	Loire	np-top-f-sg$np$np-top
+	bre	Liger-Atlantel	np-top-sg	fra	Loire-Atlantique	np$np-top-f-sg$np-top
 	bre	Liger-Izelañ	np-top-sg	fra	Loire-Inférieure	np-top
 	bre	Åland	np-top-sg	fra	Åland	np-top
 	bre	Barcelona	np-top-sg	fra	Barcelone	np-top-f-sg$np-top$np-top-f
@@ -21151,7 +21151,7 @@ LR	bre	Morbihan	np-top-sg	fra	Morbihan	np$np-top$np-top-m-sg
 	bre	Ouganda	np-top-sg	fra	Ouganda	np$np-top$np-top-f
 	bre	Oxford	np-top$np-top-sg	fra	Oxford	np-top
 	bre	Pariz	np-top-sg$np-top	fra	Paris	np$np-top-m-sg$np-top$np-top-m
-	bre	Penn-ar-Bed	np-top-sg	fra	Finistère	np$np-top
+	bre	Penn-ar-Bed	np-top-sg	fra	Finistère	np$np-top$np-top-m-sg
 	bre	Penfro	np-top$np-top-sg	fra	Pembroke	np-top
 	bre	Powys	np-top$np-top-sg	fra	Powys	np-top
 	bre	Pretoria	np-top-sg	fra	Pretoria	np$np-top$np-top-f$np-top-f-sg
@@ -21170,7 +21170,7 @@ LR	bre	Morbihan	np-top-sg	fra	Morbihan	np$np-top$np-top-m-sg
 	bre	Leger	np-top-sg	fra	Léguer	np-top
 	bre	Leri	np-top-sg	fra	Léry	np-top
 	bre	Leverin	np-top-sg	fra	Leverin	np-top
-	bre	Liger	np-top-sg	fra	Loire	np$np-top$np-top-f-sg
+	bre	Liger	np-top-sg	fra	Loire	np-top-f-sg$np$np-top
 	bre	Lon	np-top-sg	fra	Logne	np-top
 	bre	Aber	np-top-sg	fra	Aber	np-top
 	bre	Aer	np-top-sg	fra	Arz	np-top
@@ -21252,7 +21252,7 @@ LR	bre	Morbihan	np-top-sg	fra	Morbihan	np$np-top$np-top-m-sg
 	bre	Ar Gwilieg	np-top-sg	fra	Le Guillec	np-top
 	bre	Ar Jarlo	np-top-sg	fra	Rivière Jarlot	np-top
 	bre	Loc’h	np-top-sg	fra	Loc’h	np-top
-	bre	Ar Mañs	np-top-sg	fra	Le Mans	np$np-top
+	bre	Ar Mañs	np-top-sg	fra	Le Mans	np$np-top$np-top-m-sg
 	bre	Ar Mendi	np-top-sg	fra	Ar Mendi	np-top
 	bre	Ar Menez	np-top-sg	fra	Ar Menez	np-top
 	bre	Ar Menez Du	np-top-sg	fra	Les Montagnes Noires	np-top
@@ -21294,7 +21294,7 @@ LR	bre	Morbihan	np-top-sg	fra	Morbihan	np$np-top$np-top-m-sg
 	bre	Bro Wenn	np-top-sg	fra	Pays Blanc	np-top
 	bre	Yar	np-top-sg	fra	Yar	np-top
 	bre	Yeodi	np-top-sg	fra	Jaudy	np-top
-	bre	Ardana	np-top-sg	fra	Ardennes	np$np-top$np-top-f-pl
+	bre	Ardana	np-top-sg	fra	Ardennes	np-top-f-pl$np$np-top
 	bre	Aron	np-top-sg	fra	Aron	np-top
 	bre	Auxence	np-top-sg	fra	Auxence	np-top
 	bre	Bae Bourc’hnevez	np-top-sg	fra	Baie de Bourgneuf	np-top
@@ -21592,7 +21592,7 @@ LR	bre	Brekilien	np-top-sg	fra	Brocéliande	np-top
 	bre	Al Loc’h	np-top-sg	fra	Lou-du-Lac	np-top
 	bre	Amanliz	np-top-sg	fra	Amanlis	np-top
 	bre	Ambon	np-top-sg	fra	Ambon	np-top
-	bre	Amiens	np-top-sg	fra	Amiens	np$np-top
+	bre	Amiens	np-top-sg	fra	Amiens	np$np-top$np-top-m-sg
 	bre	An Alloz	np-top-sg	fra	Lalleu	np-top
 	bre	An Alre	np-top-sg	fra	Auray	np-top
 	bre	An Ardeven	np-top-sg	fra	Erdeven	np-top
@@ -21689,7 +21689,7 @@ LR	bre	Brekilien	np-top-sg	fra	Brocéliande	np-top
 	bre	Ar Pouldu	np-top-sg	fra	Pouldu	np-top
 	bre	Ar Poulgwenn	np-top-sg	fra	Pouliguen	np-top
 	bre	Ar Releg-Kerhuon	np-top-sg	fra	Relecq-Kerhuon	np-top
-	bre	Ar Reünion	np-top-sg	fra	La Réunion	np-top
+	bre	Ar Reünion	np-top-sg	fra	La Réunion	np-top$np-top-f-sg
 	bre	Ar Roc’h-Bernez	np-top-sg	fra	Roche-Bernard	np-top
 	bre	Ar Roc’h-Derrien	np-top-sg	fra	Roche-Derrien	np-top
 	bre	Ar Roc’h-Morvan	np-top-sg	fra	Roche-Maurice	np-top
@@ -21709,7 +21709,7 @@ LR	bre	Brekilien	np-top-sg	fra	Brocéliande	np-top
 	bre	Arzhal	np-top-sg	fra	Arzal	np-top
 	bre	Arzhon-Raez	np-top-sg	fra	Arthon-en-Retz	np-top
 	bre	Arzhon-Rewiz	np-top-sg	fra	Arzon	np-top
-	bre	Auckland	np-top-sg	fra	Auckland	np$np-top
+	bre	Auckland	np-top-sg	fra	Auckland	np$np-top$np-top-m-sg
 	bre	Avallod-ar-Sec’h	np-top-sg	fra	Availles-sur-Seiche	np-top
 	bre	Avalon	np-top-sg	fra	Avalon	np-top
 	bre	Aven	np-top-sg	fra	Aven	np-top
@@ -21723,7 +21723,7 @@ LR	bre	Brekilien	np-top-sg	fra	Brocéliande	np-top
 	bre	Baez	np-top-sg	fra	Bais	np-top
 	bre	Bagar-Bihan	np-top-sg	fra	Baguer-Pican	np-top
 	bre	Bagar-Morvan	np-top-sg	fra	Baguer-Morvan	np-top
-	bre	Bali	np-top-sg	fra	Bali	np$np-top
+	bre	Bali	np-top-sg	fra	Bali	np$np-top$np-top-f-sg
 	bre	Balieg	np-top-sg	fra	Baillé	np-top
 	bre	Ballon	np-top-sg	fra	Ballon	np-top
 	bre	Banaleg-ar-Gevred	np-top-sg	fra	Geneston	np-top
@@ -21742,7 +21742,7 @@ LR	bre	Brekilien	np-top-sg	fra	Brocéliande	np-top
 	bre	Begerel	np-top-sg	fra	Bécherel	np-top
 	bre	Begnen	np-top-sg	fra	Bignan	np-top
 	bre	Bei	np-top-sg	fra	Baye	np-top
-	bre	Beijing	np-top-sg	fra	Beijing	np$np-top
+	bre	Beijing	np-top-sg	fra	Beijing	np$np-top$np-top-m-sg
 	bre	Belenieg	np-top-sg	fra	Belligné	np-top
 	bre	Beler	np-top-sg	fra	Billiers	np-top
 	bre	Belezeg	np-top-sg	fra	Balazé	np-top
@@ -21862,7 +21862,7 @@ LR	bre	Brekilien	np-top-sg	fra	Brocéliande	np-top
 	bre	Dompêr-an-Hent	np-top-sg	fra	Dompierre-du-Chemin	np-top
 	bre	Donez	np-top-sg	fra	Donges	np-top
 	bre	Douarnenez	np-top-sg$np-top	fra	Douarnenez	np-top
-	bre	Douai	np-top-sg	fra	Douai	np-top
+	bre	Douai	np-top-sg	fra	Douai	np-top$np-top-m-sg
 	bre	Dourdan	np-top-sg	fra	Dourdain	np-top
 	bre	Dovanieg	np-top-sg	fra	Domagné	np-top
 	bre	Doveneleg	np-top-sg	fra	Dominelais	np-top
@@ -21905,7 +21905,7 @@ LR	bre	Dublin	np-top-sg	fra	Dublin	np$np-top$np-top-m-sg$np-top-m
 	bre	Ferred	np-top-sg	fra	Ferré	np-top
 	bre	Ferreg	np-top-sg	fra	Fercé	np-top
 	bre	Finioù	np-top-sg	fra	Feins	np-top
-	bre	Firenze	np-top-sg	fra	Florence	np-top
+	bre	Firenze	np-top-sg	fra	Florence	np-top$np-top-f-sg
 	bre	Flurinieg	np-top-sg	fra	Fleurigné	np-top
 	bre	Fouenant	np-top-sg	fra	Fouesnant	np-top
 	bre	Frehel	np-top-sg	fra	Fréhel	np-top
@@ -22110,7 +22110,7 @@ LR	bre	Dublin	np-top-sg	fra	Dublin	np$np-top$np-top-m-sg$np-top-m
 	bre	Kempenieg	np-top-sg	fra	Campénéac	np-top
 	bre	Kemper-Gwezhenneg	np-top-sg	fra	Quemper-Guézennec	np-top
 	bre	Kemperle	np-top-sg	fra	Quimperlé	np-top
-	bre	Kemper	np-top-sg$np-top	fra	Quimper	np$np-top
+	bre	Kemper	np-top-sg$np-top	fra	Quimper	np$np-top$np-top-m-sg
 	bre	Kemperven	np-top-sg	fra	Quemperven	np-top
 	bre	Kentreg	np-top-sg	fra	Cintré	np-top
 	bre	Kerango	np-top-sg	fra	Kerango	np-top
@@ -22322,7 +22322,7 @@ LR	bre	Dublin	np-top-sg	fra	Dublin	np$np-top$np-top-m-sg$np-top-m
 	bre	Laozag	np-top-sg	fra	Lauzach	np-top
 	bre	Lare	np-top-sg	fra	Larré	np-top
 	bre	Larruen	np-top-sg	fra	Lanrivain	np-top
-	bre	Laval	np-top-sg	fra	Laval	np$np-top$np-top-m-sg
+	bre	Laval	np-top-sg	fra	Laval	np-top$np-top-m-sg
 	bre	Lavreer	np-top-sg	fra	Loroux	np-top
 	bre	Lavreer-an-Dezerzh	np-top-sg	fra	Loroux-du-Désert	np-top
 	bre	Lavreer-Botorel	np-top-sg	fra	Loroux-Bottereau	np-top
@@ -22428,7 +22428,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Meled	np-top-sg	fra	Melesse	np-top
 	bre	Melereg-Breizh	np-top-sg	fra	Meilleraye-de-Bretagne	np-top
 	bre	Melieg	np-top-sg	fra	Meillac	np-top
-	bre	Melined	np-top-sg	fra	Moulins	np$np-top
+	bre	Melined	np-top-sg	fra	Moulins	np$np-top$np-top-m-sg
 	bre	Meliner	np-top-sg	fra	Monnières	np-top
 	bre	Melin	np-top-sg	fra	Meslin	np-top
 	bre	Melioneg	np-top-sg	fra	Mellionnec	np-top
@@ -22734,7 +22734,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Poullaouen	np-top-sg	fra	Poullaouen	np-top
 	bre	Poulmarc’h	np-top-sg	fra	Poulmarc’h	np-top
 	bre	Pozieg	np-top-sg	fra	Pocé-les-Bois	np-top
-	bre	Prad	np-top-sg	fra	Prat	np-top$np-top-m-sg
+	bre	Prad	np-top-sg	fra	Prat	np$np-top-m-sg$np-top
 	bre	Pradvael	np-top-sg	fra	Préfailles	np-top
 	bre	Presperieg	np-top-sg	fra	Pipriac	np-top
 	bre	Prevel	np-top-sg	fra	Primelin	np-top
@@ -23517,7 +23517,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Voynet	np-cog-mf-sg	fra	Voynet	np$np-cog$np-cog-mf-sp
 	bre	Wayne	np-cog-mf-sg	fra	Wayne	np-cog
 	bre	Zaoumi	np-cog-mf-sg	fra	Zaoumi	np-cog
-	bre	Adeline	np-ant-f-sg	fra	Adeline	np-ant$np-ant-f-sg
+	bre	Adeline	np-ant-f-sg	fra	Adeline	np-ant-f-sg$np-ant
 	bre	Agata	np-ant-f-sg	fra	Agata	np-ant-f-sg$np-ant
 	bre	Agathe	np-ant-f-sg	fra	Agathe	np-ant-f-sg$np-ant
 	bre	Ahez	np-ant-f-sg	fra	Ahez	np-ant
@@ -23539,7 +23539,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Anna Vreizh	np-ant-f-sg	fra	Anne de Bretagne	np-ant
 	bre	Anne	np-ant-f-sg	fra	Anne	np-ant-f-sg$np$np-ant
 	bre	Anne-Marie	np-ant-f-sg	fra	Anne-Marie	np$np-ant$np-ant-f-sg
-	bre	Annick	np-ant-f-sg	fra	Annick	np-ant$np-ant-f-sg
+	bre	Annick	np-ant-f-sg	fra	Annick	np-ant-f-sg$np-ant
 	bre	Annie	np-ant-f-sg	fra	Annie	np-ant-f-sg$np$np-ant
 	bre	Angèle	np-ant-f-sg	fra	Angèle	np-ant$np-ant-f-sg
 	bre	Añjel	np-ant-f-sg	fra	Añjel	np-ant
@@ -23561,7 +23561,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Carole	np-ant-f-sg	fra	Carole	np-ant-f-sg$np$np-ant
 	bre	Caroline	np-ant-f-sg	fra	Caroline	np-ant-f-sg$np$np-ant
 	bre	Catherine	np-ant-f-sg	fra	Catherine	np-ant-f-sg$np-ant$np
-	bre	Cathy	np-ant-f-sg	fra	Cathy	np-ant$np-ant-f-sg
+	bre	Cathy	np-ant-f-sg	fra	Cathy	np-ant-f-sg$np-ant
 	bre	Cécile	np-ant-f-sg	fra	Cécile	np$np-ant$np-ant-f-sg
 	bre	Cecilia	np-ant-f-sg	fra	Cecilia	np$np-ant$np-ant-f-sg
 	bre	Cécilia	np-ant-f-sg	fra	Cécilia	np$np-ant$np-ant-f-sg
@@ -23589,7 +23589,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Delphine	np-ant-f-sg	fra	Delphine	np-ant-f-sg$np-ant
 	bre	Deneza	np-ant-f-sg	fra	Deneza	np-ant
 	bre	Denise	np-ant-f-sg	fra	Denise	np-ant-f-sg$np-ant
-	bre	Dolores	np-ant-f-sg	fra	Dolores	np-ant$np-ant-f-sg
+	bre	Dolores	np-ant-f-sg	fra	Dolores	np-ant-f-sg$np-ant
 	bre	Dolorès	np-ant-f-sg	fra	Dolorès	np-ant
 	bre	Dora	np-ant-f-sg	fra	Dora	np-ant-f-sg$np-ant
 	bre	Edith	np-ant-f-sg	fra	Edith	np-ant-f-sg$np-ant
@@ -23603,7 +23603,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Emma	np-ant-f-sg	fra	Emma	np$np-ant$np-ant-f-sg
 	bre	Enora	np-ant-f-sg	fra	Enora	np-ant
 	bre	Erell	np-ant-f-sg	fra	Erell	np-ant
-	bre	Fabienne	np-ant-f-sg	fra	Fabienne	np-ant$np-ant-f-sg
+	bre	Fabienne	np-ant-f-sg	fra	Fabienne	np-ant-f-sg$np-ant
 	bre	Fanny	np-ant-f-sg	fra	Fanny	np-ant-f-sg$np-ant
 	bre	Fant	np-ant-f-sg	fra	Fant	np-ant
 	bre	Fantig	np-ant-f-sg	fra	Fantig	np-ant
@@ -23615,8 +23615,8 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Gaelle	np-ant-f-sg	fra	Gaelle	np-ant
 	bre	Gaëlle	np-ant-f-sg	fra	Gaëlle	np-ant$np-ant-f-sg
 	bre	Geneviève	np-ant-f-sg	fra	Geneviève	np-ant-f-sg$np$np-ant
-	bre	Georgette	np-ant-f-sg	fra	Georgette	np-ant$np-ant-f-sg
-	bre	Gisèle	np-ant-f-sg	fra	Gisèle	np-ant$np-ant-f-sg
+	bre	Georgette	np-ant-f-sg	fra	Georgette	np-ant-f-sg$np-ant
+	bre	Gisèle	np-ant-f-sg	fra	Gisèle	np-ant-f-sg$np-ant
 	bre	Gloria	np-ant-f-sg	fra	Gloria	np-ant-f-sg$np-ant
 	bre	Grace	np-ant-f-sg	fra	Grace	np-ant-f-sg$np-ant
 	bre	Gwen	np-ant-f-sg	fra	Gwen	np-ant
@@ -23636,7 +23636,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Jakeza	np-ant-f-sg	fra	Jakeza	np-ant
 	bre	Jamila	np-ant-f-sg	fra	Jamila	np-ant$np-ant-f-sg
 	bre	Jamy	np-ant-f-sg	fra	Jamy	np-ant
-	bre	Janice	np-ant-f-sg	fra	Janice	np-ant$np-ant-f-sg
+	bre	Janice	np-ant-f-sg	fra	Janice	np-ant-f-sg$np-ant
 	bre	Janig	np-ant-f-sg	fra	Janig	np-ant
 	bre	Jann	np-ant-f-sg	fra	Jann	np-ant
 	bre	Jeanne	np-ant-f-sg	fra	Jeanne	np-ant-f-sg$np-ant$np
@@ -23644,7 +23644,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Joelle	np-ant-f-sg	fra	Joëlle	np$np-ant$np-ant-f-sg
 	bre	Johanna	np-ant-f-sg	fra	Johanna	np-ant-f-sg$np-ant
 	bre	Joséphine	np-ant-f-sg	fra	Joséphine	np$np-ant-f-sg$np-ant
-	bre	Josette	np-ant-f-sg	fra	Josette	np-ant$np-ant-f-sg
+	bre	Josette	np-ant-f-sg	fra	Josette	np-ant-f-sg$np-ant
 	bre	Judith	np-ant-f-sg	fra	Judith	np$np-ant$np-ant-f-sg
 	bre	Julia	np-ant-f-sg	fra	Julia	np$np-ant$np-ant-f-sg
 	bre	Julie	np-ant-f-sg	fra	Julie	np-ant-f-sg$np$np-ant
@@ -23661,8 +23661,8 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Kristell	np-ant-f-sg	fra	Kristell	np-ant
 	bre	Kristen	np-ant-f-sg	fra	Kristen	np-ant$np-ant-f-sg
 	bre	Kristen Noguès	np-ant-f-sg	fra	Kristen Noguès	np-ant
-	bre	Kristin	np-ant-f-sg	fra	Kristin	np-ant$np-ant-f-sg
-	bre	Kristina	np-ant-f-sg	fra	Kristina	np-ant$np-ant-f-sg
+	bre	Kristin	np-ant-f-sg	fra	Kristin	np-ant-f-sg$np-ant
+	bre	Kristina	np-ant-f-sg	fra	Kristina	np-ant-f-sg$np-ant
 	bre	Laetitia	np-ant-f-sg	fra	Laetitia	np$np-ant$np-ant-f-sg
 	bre	Laura	np-ant-f-sg	fra	Laura	np$np-ant$np-ant-f-sg
 	bre	Laure	np-ant-f-sg	fra	Laure	np-ant-f-sg$np$np-ant
@@ -23683,7 +23683,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Madalen	np-ant-f-sg	fra	Madalen	np-ant
 	bre	Maela	np-ant-f-sg	fra	Maela	np-ant
 	bre	Maëlle	np-ant-f-sg	fra	Maëlle	np-ant
-	bre	Magalie	np-ant-f-sg	fra	Magalie	np-ant$np-ant-f-sg
+	bre	Magalie	np-ant-f-sg	fra	Magalie	np-ant-f-sg$np-ant
 	bre	Maï	np-ant-f-sg	fra	Maï	np-ant
 	bre	Maïa	np-ant-f-sg	fra	Maïa	np-ant
 	bre	Maia	np-ant-f-sg	fra	Maia	np$np-ant$np-ant-f-sg
@@ -23692,7 +23692,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Maiwenn	np-ant-f-sg	fra	Maiwenn	np-ant
 	bre	Maïwenn	np-ant-f-sg	fra	Maïwenn	np-ant
 	bre	Malika	np-ant-f-sg	fra	Malika	np-ant
-	bre	Manon	np-ant-f-sg	fra	Manon	np-ant$np-ant-f-sg
+	bre	Manon	np-ant-f-sg	fra	Manon	np-ant-f-sg$np-ant
 	bre	Marc’harid	np-ant-f-sg	fra	Marc’harid	np-ant
 	bre	Marguerite	np-ant-f-sg	fra	Marguerite	np-ant-f-sg$np-ant
 	bre	Mari	np-ant-f-sg	fra	Mari	np$np-ant$np-ant-f-sg
@@ -23745,7 +23745,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Olwen	np-ant-f-sg	fra	Olwen	np-ant
 	bre	Pascale	np-ant-f-sg	fra	Pascale	np$np-ant$np-ant-f-sg
 	bre	Patricia	np-ant-f-sg	fra	Patricia	np$np-ant$np-ant-f-sg
-	bre	Paulette	np-ant-f-sg	fra	Paulette	np-ant$np-ant-f-sg
+	bre	Paulette	np-ant-f-sg	fra	Paulette	np-ant-f-sg$np-ant
 	bre	Pauline	np-ant-f-sg	fra	Pauline	np-ant-f-sg$np-ant
 	bre	Rachel	np-ant-f-sg	fra	Rachel	np-ant-f-sg$np-ant
 	bre	Renée	np-ant-f-sg	fra	Renée	np-ant-f-sg$np-ant
@@ -23767,7 +23767,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Selesta	np-ant-f-sg	fra	Selesta	np-ant
 	bre	Séverine	np-ant-f-sg	fra	Séverine	np-ant
 	bre	Sidoni	np-ant-f-sg	fra	Sidoni	np-ant
-	bre	Sidonie	np-ant-f-sg	fra	Sidonie	np-ant$np-ant-f-sg
+	bre	Sidonie	np-ant-f-sg	fra	Sidonie	np-ant-f-sg$np-ant
 	bre	Silvi	np-ant-f-sg	fra	Silvi	np-ant
 	bre	Soaz	np-ant-f-sg	fra	Soaz	np-ant
 	bre	Soazig	np-ant-f-sg	fra	Soazig	np-ant
@@ -23881,7 +23881,7 @@ LR	bre	Marseille	np-top-sg	fra	Marseille	np$np-top$np-top-f-sg$np-top-f
 	bre	Clovis	np-ant-m-sg	fra	Clovis	np-ant
 	bre	Colin	np-ant-m-sg	fra	Colin	np-ant-m-sg$np-ant
 	bre	Corentin	np-ant-m-sg	fra	Corentin	np-ant
-	bre	Cyril	np-ant-m-sg	fra	Cyril	np-ant$np-ant-m-sg
+	bre	Cyril	np-ant-m-sg	fra	Cyril	np-ant-m-sg$np-ant
 	bre	Daniel	np-ant-m-sg	fra	Daniel	np-ant$np$np-ant-m-sg
 	bre	David	np-ant-m-sg	fra	David	np-ant$np$np-ant-m-sg
 	bre	Davy Crockett	np-ant-m-sg	fra	Davy Crockett	np-ant
@@ -24230,7 +24230,7 @@ LR	bre	tad Nedeleg	np-ant-m-sg	fra	père Noël	np-ant
 	bre	Tom	np-ant-m-sg	fra	Tom	np$np-ant$np-ant-m-sg
 	bre	Tomaz	np-ant-m-sg	fra	Tomaz	np-ant
 	bre	Tony	np-ant-m-sg	fra	Tony	np$np-ant$np-ant-m-sg
-	bre	Tristan	np-ant-m-sg	fra	Tristan	np-ant$np-ant-m-sg
+	bre	Tristan	np-ant-m-sg	fra	Tristan	np-ant-m-sg$np-ant
 	bre	Ulysse	np-ant-m-sg	fra	Ulysse	np-ant$np-ant-m-sg$np
 	bre	Valentin	np-ant-m-sg	fra	Valentin	np-ant$np-ant-m-sg
 	bre	Veig	np-ant-m-sg	fra	Veig	np-ant
@@ -24245,11 +24245,11 @@ LR	bre	tad Nedeleg	np-ant-m-sg	fra	père Noël	np-ant
 	bre	Williams	np-ant-m-sg	fra	Williams	np$np-ant
 	bre	Willy	np-ant-m-sg	fra	Willy	np$np-ant$np-ant-m-sg
 	bre	Xavier	np-ant-m-sg	fra	Xavier	np$np-ant-m-sg$np-ant
-	bre	Yann	np-ant-m-sg	fra	Yann	np$np-ant$np-ant-m-sg
+	bre	Yann	np-ant-m-sg	fra	Yann	np$np-ant-m-sg$np-ant
 	bre	Yann IV	np-ant-m-sg	fra	Jean IV	np-ant
 	bre	Yann-Bêr	np-ant-m-sg	fra	Yann-Bêr	np-ant
 	bre	Yann-Erwan	np-ant-m-sg	fra	Yann-Erwan	np-ant
-	bre	Yannick	np-ant-m-sg	fra	Yannick	np$np-ant$np-ant-m-sg
+	bre	Yannick	np-ant-m-sg	fra	Yannick	np$np-ant-m-sg$np-ant
 	bre	Yannig	np-ant-m-sg	fra	Yannig	np-ant
 	bre	Yannik	np-ant-m-sg	fra	Yannik	np-ant
 	bre	Yann-Loeiz	np-ant-m-sg	fra	Yann-Loeiz	np-ant
@@ -24292,7 +24292,7 @@ LR	bre	tad Nedeleg	np-ant-m-sg	fra	père Noël	np-ant
 	bre	Brud Nevez	np-al-mf-sg	fra	Brud Nevez	np-al
 	bre	Buez ar Zent	np-al-mf-sg	fra	Buez ar Zent	np-al
 	bre	Buhez ar Sent	np-al-mf-sg	fra	Buhez ar Sent	np-al
-	bre	Calandreta	np-al-mf-sg	fra	Calandreta	np-al
+	bre	Calandreta	np-al-mf-sg	fra	Calandreta	np-al$np-al-f-sg
 	bre	Carrefour	np-al-mf-sg	fra	Carrefour	np-al$np-al-m-sg$np
 	bre	Cetelem	np-al-mf-sg	fra	Cetelem	np-al
 	bre	Citroën	np-al-mf-sg	fra	Citroën	np$np-al$np-al-mf
@@ -24309,7 +24309,7 @@ LR	bre	tad Nedeleg	np-ant-m-sg	fra	père Noël	np-ant
 	bre	Divskouarn	np-al-mf-sg	fra	Divskouarn	np-al
 	bre	Div Yezh	np-al-mf-sg	fra	Div Yezh	np-al
 	bre	Div Yezh Breizh	np-al-mf-sg	fra	Div Yezh Breizh	np-al
-	bre	Diwan	np-al-mf-sg	fra	Diwan	np-al
+	bre	Diwan	np-al-mf-sg	fra	Diwan	np-al$np-al-m-sg
 	bre	Diwan Breizh	np-al-mf-sg	fra	Diwan Breizh	np-al
 	bre	Dizale	np-al-mf-sg	fra	Dizale	np-al
 	bre	Dudi Kreiz treger	np-al-mf-sg	fra	Dudi Kreiz Treger	np-al

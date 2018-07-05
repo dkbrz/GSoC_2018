@@ -137,7 +137,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	kimse	prn-qnt$	kir	кимдир бирөө	prn-ind
 	tur	başka	prn-ind	kir	башка	prn-ind
 	tur	bu	det-dem$det$det-dem-qnt	kir	бул	det-dem
-	tur	hiçbir	det$det-qnt	kir	эч бир	det-ind
+	tur	hiçbir	det-qnt$det	kir	эч бир	det-ind
 	tur	her	det$det-dem	kir	ар	det-ind
 	tur	bazı	det-ind	kir	кээбир	det-ind
 	tur	bazı	det-qnt$det	kir	бир нече	det-qnt
@@ -148,7 +148,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	herhangi bir	det$det-ind	kir	кайсы бир	det-ind
 	tur	diğer	det$det-ind	kir	башка	det-ind
 	tur	diğer	det$det-ind	kir	берки	det-ind
-	tur	birçok	det$det-qnt	kir	бир далай	det-qnt
+	tur	birçok	det-qnt$det	kir	бир далай	det-qnt
 	tur	bütün	det-qnt$det	kir	бүт баары	det-qnt
 	tur	bütün	det-ind	kir	толук	det-ind
 	tur	birkaç	det-qnt	kir	бир канча	det-qnt
@@ -610,7 +610,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	çatal	n$	kir	вилка	n
 	tur	çay	n$	kir	чай	n
 	tur	çayır	n$	kir	чайыр	n
-	tur	çaylak	$n	kir	чайлак	n
+	tur	çaylak	n$	kir	чайлак	n
 	tur	cazibe	n$	kir	тартылуу	n
 	tur	cehalet	n$	kir	сабатсыздык	n
 	tur	cehennem	n$	kir	тозок	n
@@ -5757,7 +5757,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	aksine	adv	kir	терсине	adv
 	tur	çoğu	adv	kir	көбүнчө	adv
 	tur	bugün	adv$	kir	бүгүн	adv$adv-subst
-	tur	biraz	adv	kir	бираз	adv
+	tur	biraz	adv$	kir	бираз	adv
 	tur	böylelikle	adv	kir	ошентип	adv
 	tur	zaten	adv	kir	баарыбир	adv
 	tur	aylardır	adv	kir	айлардан бери	adv
@@ -6110,7 +6110,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	kurula	v-tv$v	kir	кургат	v-tv
 	tur	küs	v-iv$v	kir	таарын	v-iv
 	tur	miyavla	v-iv$v	kir	мыйооло	v-iv
-	tur	otla	v$v-iv	kir	отто	v-iv
+	tur	otla	v-iv$v	kir	отто	v-iv
 	tur	ovala	v$v-tv	kir	ушала	v-tv
 	tur	oyla	v-tv$v	kir	шайла	v-tv
 	tur	öde	v-tv$v	kir	төлө	v-tv

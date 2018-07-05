@@ -300,7 +300,7 @@
 	chv	араб	unk	tur	arap	unk
 	chv	аравасӑр	adv	tur	çokça	adv
 	chv	аран	unk	tur	ancak	unk
-	chv	аранҫӑ	det	tur	biraz	det$
+	chv	аранҫӑ	det	tur	biraz	det$det-qnt
 	chv	аранҫӑ	det	tur	az	det
 	chv	араслан	n	tur	arslan	n$
 	chv	арӑк	unk	tur	etek	unk
@@ -2242,7 +2242,7 @@
 	chv	кӑларӑм	n	tur	çıkarma	n$
 	chv	кӑларасси	n	tur	çıkarma	n$
 	chv	кӑл-кал	adv	tur	bazen	adv
-	chv	кӑлт	det	tur	biraz	det$
+	chv	кӑлт	det	tur	biraz	det$det-qnt
 	chv	кӑлтӑк	n	tur	hata	n$
 	chv	кӑлтӑк	n	tur	boşluk	n$
 	chv	кӑлтӑклӑ	n	tur	yanlış	n$
@@ -2347,7 +2347,7 @@
 	chv	кӑшличӗ	n	tur	keçi	n$
 	chv	кӑшлинчӗ	n	tur	keçi	n$
 	chv	качака кӗпҫи	n	tur	keçi	n$
-	chv	кӑшт	det	tur	biraz	det$
+	chv	кӑшт	det	tur	biraz	det$det-qnt
 	chv	кӑшт	det	tur	az	det
 	chv	кӑштӑркка	adj	tur	sert	adj$
 	chv	квадрат	n	tur	kare	n$
@@ -2392,7 +2392,7 @@
 	chv	кӗлӗ	n	tur	dua	n$
 	chv	кӗлӗмҫе	n	tur	dilenci	n
 	chv	кӗлмӗҫ	n	tur	dilenci	n
-	chv	кӗлт	det	tur	biraz	det$
+	chv	кӗлт	det	tur	biraz	det$det-qnt
 	chv	кӗмелли	unk	tur	giriş	unk
 	chv	кӗмӗл	n	tur	gümüş	n$
 	chv	кӗмӗркке	n	tur	top	n$
@@ -3463,8 +3463,8 @@
 	chv	никӗс	n	tur	temel	n$
 	chv	никӗс	n	tur	altyapı	n$
 	chv	никӗссӗр	adj	tur	çürük	adj$
-	chv	никӗш	det	tur	hiçbir	det$det-qnt
-	chv	никӑш	det	tur	hiçbir	det$det-qnt
+	chv	никӗш	det	tur	hiçbir	det-qnt$det
+	chv	никӑш	det	tur	hiçbir	det-qnt$det
 	chv	нимекелентер	v-tv	tur	yık	v-tv$v
 	chv	нимӗнле	adv	tur	hiç	adv
 	chv	нимӗнле	adv	tur	asla	adv
@@ -3472,7 +3472,7 @@
 	chv	нимӗскерле	adv	tur	hiç	adv
 	chv	нимӗскерле	adv	tur	asla	adv
 	chv	нимӗрӗл	v-iv	tur	yumuşa	v-iv$v
-	chv	нихӑш	det	tur	hiçbir	det$det-qnt
+	chv	нихӑш	det	tur	hiçbir	det-qnt$det
 	chv	ноль	unk	tur	sıfır	unk
 	chv	нуль	unk	tur	sıfır	unk
 	chv	номер	n	tur	numara	n$
@@ -3485,7 +3485,7 @@
 	chv	нота	n	tur	nota	n$
 	chv	нотариус	n	tur	noter	n$
 	chv	нумай	det	tur	çok	det$det-qnt
-	chv	нумай	det	tur	birçok	det$det-qnt
+	chv	нумай	det	tur	birçok	det-qnt$det
 	chv	нумайлан	v-iv	tur	art	v-iv$$v
 	chv	нумайлӑ	n	tur	çoğul	n$
 	chv	нумайрахӑшӗ	n	tur	çoğunluk	n$
@@ -3797,11 +3797,11 @@
 	chv	пӑрнӑҫ	n	tur	çevirme	n$
 	chv	пӑрсӑмса	n	tur	kuzey	n$$n-attr
 	chv	пӑрҫа	n	tur	bezelye	n
-	chv	пӑртак	det	tur	biraz	det$
+	chv	пӑртак	det	tur	biraz	det$det-qnt
 	chv	пӑртак	det	tur	az	det
-	chv	пӑртакҫӑ	det	tur	biraz	det$
+	chv	пӑртакҫӑ	det	tur	biraz	det$det-qnt
 	chv	пӑртакҫӑ	det	tur	az	det
-	chv	пӑртик	det	tur	biraz	det$
+	chv	пӑртик	det	tur	biraz	det$det-qnt
 	chv	пӑртик	det	tur	az	det
 	chv	пӑртлат	n	tur	uçuş	n$
 	chv	пӑртопой	adv	tur	hep	adv$
@@ -4605,7 +4605,7 @@
 	chv	район	n	tur	alan	n$$n-pl
 	chv	район	n	tur	saha	n$
 	chv	район	n	tur	ilçe	n$
-	chv	рак	n	tur	yengeç	$n
+	chv	рак	n	tur	yengeç	n$
 	chv	ракатка	unk	tur	parmaklık	unk
 	chv	ракета	n	tur	roket	n$
 	chv	ракета	n	tur	füze	n$
@@ -4872,7 +4872,7 @@
 	chv	сахал	adj	tur	hafif	adj$
 	chv	сахаллан	v-iv	tur	eksil	v-iv$v
 	chv	сахаллат	v-tv	tur	kıs	v-tv$v
-	chv	сахаллӑн	det	tur	biraz	det$
+	chv	сахаллӑн	det	tur	biraz	det$det-qnt
 	chv	сахаллӑннисем	n	tur	azınlık	n$
 	chv	сахалрахашӗ	n	tur	azınlık	n$
 	chv	сахалрах пайӗ	n	tur	azınlık	n$
@@ -5598,7 +5598,7 @@
 	chv	ҫӑмӑл	n	tur	gereksinim	n$
 	chv	ҫӑмӑл	n	tur	gerek	n$
 	chv	ҫӑмӑллан	v-tv	tur	doğur	v-tv
-	chv	ҫӑмӑллӑн	det	tur	biraz	det$
+	chv	ҫӑмӑллӑн	det	tur	biraz	det$det-qnt
 	chv	ҫӑмӑлҫах	adj	tur	basit	adj$
 	chv	ҫӑмӑлҫах	adj	tur	hafif	adj$
 	chv	ҫӑмӑлттай	adj	tur	yaramaz	adj$
@@ -8028,7 +8028,7 @@
 	chv	хӑтсӑр	adj	tur	ters	adj$
 	chv	хӑтсӑр	adj	tur	gayet	adj
 	chv	хӑть	n	tur	dahi	n$
-	chv	хӑшӗ	prn	tur	hangi	prn-itg$prn$prn-itg-abl
+	chv	хӑшӗ	prn$prn-dem-sg	tur	hangi	prn-itg$prn$prn-itg-abl
 	chv	хӑш	prn	tur	hangi	prn-itg$prn$prn-itg-abl
 	chv	хӑшкӑлтар	v-tv	tur	yor	v-tv$v
 	chv	хӑшпӗр	det	tur	başka	det$det-ind
@@ -8941,7 +8941,7 @@
 	chv	чыкан	n	tur	çingene	n$
 	chv	чыкарккӑ	n	tur	sigara	n
 	chv	чылай	det	tur	çok	det$det-qnt
-	chv	чылай	det	tur	birçok	det$det-qnt
+	chv	чылай	det	tur	birçok	det-qnt$det
 	chv	чылайхи	adv	tur	eskiden	adv
 	chv	чыс	n	tur	şeref	n$
 	chv	чыс	n	tur	onur	n$
@@ -19380,7 +19380,7 @@
 	chv	пӗтӗм	det$det-qnt	tur	herşey	$det
 	chv	пӗтӗмлетӳ	unk	tur	genelleştirme	unk
 	chv	пӗтӗмлетӳ	unk	tur	genelleme	unk
-	chv	пӗтӗмӗшпе	adv	tur	hep beraber	adv
+	chv	пӗтӗмӗшпе	adv	tur	hep beraber	adv$adv-qnt
 	chv	пӗтӗмӗшпе	adv	tur	tamamıyla	adv
 	chv	пӗтӗмӗшпе	adv	tur	bütünüyle	adv
 	chv	пӗтӗмле	adv	tur	genelde	adv
@@ -28071,7 +28071,7 @@
 	chv	хӑть	n	tur	bari	n
 	chv	хӑть	n	tur	-dığı halde	n
 	chv	хӑть	n	tur	-mesine rağmen	n
-	chv	хӑшӗ	prn	tur	hangisi	prn
+	chv	хӑшӗ	prn$prn-dem-sg	tur	hangisi	prn
 	chv	хӑш	prn	tur	hangisi	prn
 	chv	хӑшкӑл	v-tv	tur	canı çık	v-tv
 	chv	хӑшкӑл	v-tv	tur	çok çek	v-tv
