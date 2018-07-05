@@ -7,23 +7,6 @@ def node_search(G, node, l2, cutoff, metric='exp'):
     results = {}
     candidates = possible_translations(G, node, l2, cutoff=cutoff, n=20)
     results = evaluation(G, node, candidates, mode=metric, cutoff=cutoff)
-    #k = 0
-    #if len(s) > 100:
-    #    s = s.lang(l2)
-    #    if len(s) > 5 :s = s[:20]
-    #else:
-    #    while k < 8:
-    #        s = FilteredList(nx.single_source_shortest_path_length(G, node, cutoff=cutoff+k))
-    #        s = s.lang(l2)
-    #        if len(s) > 5:
-    #            s = s[:20]
-    #            break
-    #        else: k += 1#translations(G, word, cutoff)
-    #    for translation in s:
-    #        t = Counter([len(i) for i in nx.all_simple_paths(G, node, translation, cutoff=cutoff+k)])
-    #        coef = 0
-    #        for i in t: coef += exp(-t[i])
-    #        results[translation] = coef
     return list(sorted(results, key=results.get, reverse=True))
     
 def two_node_search (G, node1, node2, l1, l2, cutoff, metric='exp'):
@@ -74,3 +57,89 @@ def metric(G, word, translation, cutoff, mode='exp'):
         for path in nx.all_simple_paths(G, word, translation, cutoff=cutoff):
             for key, value in enumerate(path[1:]):
                 coef -= G[path[key-1]][value]['weight']
+
+def get_evaluation_pairs(G, dictionary, target, n=500):
+    k = 4
+    pairs = []
+    while len(pairs) < n:
+        candidates = random.sample(dictionary, k*n)
+        pairs = []
+        for i in candidates:
+            if i in G.nodes():
+                ne = list(G.neighbors(i))
+                s = FilteredList(ne).lang(target)
+                if len(s) == 1 and len(ne) > 1: pairs.append((i, s[0], n))
+        print (k*n, len(pairs))
+        k+=1
+    return pairs[:n]
+
+def one_iter_evaluation(lang1, lang2, G, k, l1, l2, cutoff=4):
+    a = []
+    candidates = random.sample(l1, k)
+    pairs = []
+    for i in candidates:
+        if len(pairs) < 1000 and i in G.nodes():
+            s = FilteredList(list(G.neighbors(i))).lang(lang2)
+            if len(s) == 1:
+                pairs.append((i, s[0]))
+        elif len(pairs) >= 1000:
+            break
+    if len(pairs) == 0:
+        return 'no one-variant'
+    pairs2 = pairs[:1000]
+    result = evaluate(G, pairs2, lang1, lang2, 4)
+    del G, l1, l2, pairs
+    try:
+        return sum(result)/len(pairs2)
+    except:
+        return 0
+
+def loop(lang1, lang2, n=10, cutoff=4, n_iter=10):
+    get_relevant_languages(lang1, lang2)
+    load_file(lang1, lang2, n=n)
+    change_encoding('{}-{}'.format(lang1,lang2))
+    G = built_from_file('{}-{}'.format(lang1,lang2))
+    l1, l2 = dictionaries(lang1, lang2)
+    k = len(l1)
+    if k > 10000: k =10000
+    elif k < 1000: return 'less than 1000'
+    else: k = len(l1)
+    a = []
+    #print ('+',end='\t')
+    for _ in tqdm(range(n_iter)):
+        a.append(one_iter_evaluation(lang1, lang2, G, k, l1, l2, cutoff=cutoff))
+    print (a)
+    print (st.t.interval(0.95, len(a)-1, loc=np.mean(a), scale=st.sem(a)))
+
+def addition(lang1, lang2, n=10, cutoff=4):
+    get_relevant_languages(lang1, lang2)
+    load_file(lang1, lang2, n=n)
+    change_encoding('{}-{}'.format(lang1,lang2))
+    G = built_from_file('{}-{}'.format(lang1,lang2))
+    l1, l2 = dictionaries(lang1, lang2)
+    k1, k2 = [0,0,0,0], [0,0,0,0] #existant, failed, new, errors
+    for node in tqdm(l1):
+        if node in G:
+            s = FilteredList(list(G.neighbors(node))).lang(lang2)
+            if not len(s):
+                candidates = possible_translations(G, node, lang2, cutoff=cutoff, n=20)
+                if candidates: k1[2] += 1
+                else: k1[1] += 1
+            else:
+                k1[0] += 1
+        else: k1[3] +=1
+    
+    print ('Exist: {}, failed: {}, NEW: {}, errors: {}'.format(k1[0]/len(l1), k1[1]/len(l1), k1[2]/len(l1), k1[3]/len(l1)))
+    
+    for node in tqdm(l2):
+        if node in G:
+            s = FilteredList(list(G.neighbors(node))).lang(lang1)
+            if not len(s):
+                candidates = possible_translations(G, node, lang1, cutoff=cutoff, n=20)
+                if candidates: k2[2] += 1
+                else: k2[1] += 1
+            else:
+                k2[0] += 1
+        else: k2[3] += 1
+    
+    print ('Exist: {}, failed: {}, NEW: {}, errors: {}'.format(k2[0]/len(l2), k2[1]/len(l2), k2[2]/len(l2), k2[3]/len(l2)))
