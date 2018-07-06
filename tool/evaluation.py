@@ -19,10 +19,10 @@ def node_search(G, node, l2, cutoff, metric='exp'):
 #    if node1 in res2: coefficient += 0.5*(len(res2) - res2.index(node1))/len(res2) 
 #    return coefficient
     
-def evaluate(G, pairs, l1, l2, cutoff=4, metric='exp'):
+def evaluate(G, pairs, l1, l2, cutoff=4, metric='exp', topn=5):
     result = []
     for i in pairs:
-        result.append(two_node_search (G, i[0], i[1], l1, l2, cutoff, metric=metric))
+        result.append(two_node_search (G, i[0], i[1], l1, l2, cutoff, metric=metric, topn=topn))
     return result
 
 def evaluation(G, word, candidates, mode='exp', cutoff=4):
@@ -68,7 +68,8 @@ def get_evaluation_pairs(G, dictionary, target, n=500):
             if i in G.nodes():
                 ne = list(G.neighbors(i))
                 s = FilteredList(ne).lang(target)
-                if len(s) == 1 and len(ne) > 1: pairs.append((i, s[0], n))
+                if len(s) == 1 and len(ne) > 1 and (s[0], i) in G.edges() and (i, s[0]) in G.edges(): 
+                    pairs.append((i, s[0], n))
         #print (k*n, len(pairs))
         k+=1
     return pairs[:n]
@@ -145,17 +146,24 @@ def addition(lang1, lang2, n=10, cutoff=4):
     
     print ('Exist: {}, failed: {}, NEW: {}, errors: {}'.format(k2[0]/len(l2), k2[1]/len(l2), k2[2]/len(l2), k2[3]/len(l2)))
 
-def two_node_search (G, node1, node2, l1, l2, cutoff, metric='exp'):
+def two_node_search (G, node1, node2, l1, l2, cutoff, metric='exp', topn=5):
+    lng = 20
     if (node1, node2) in G.edges(): G.remove_edge(node1, node2)
     if (node2, node1) in G.edges(): G.remove_edge(node2, node1)
-    res1 = node_search(G, node1, l2, cutoff, metric=metric)[:10]
-    res2 = node_search(G, node2, l1, cutoff, metric=metric)[:10]
+    res1 = node_search(G, node1, l2, cutoff, metric=metric)[:lng]
+    res2 = node_search(G, node2, l1, cutoff, metric=metric)[:lng]
     coefficient = 0
-    if node2 in res1: coefficient += 0.5*(10 - res1.index(node2))/10
-    if node1 in res2: coefficient += 0.5*(10 - res2.index(node1))/10
+    if node2 in res1: 
+        pos = res1.index(node2)
+        if pos < topn: coefficient += 0.5*(lng - pos)/lng
+        else: coefficient += 0.01
+    if node1 in res2: 
+        pos = res2.index(node1)
+        if pos < topn: coefficient += 0.5*(lng - pos)/lng
+        else: coefficient += 0.01
     return coefficient
 
-def _one_iter(lang1, lang2, G, k, l1, l2, cutoff=4, p=0.8):
+def _one_iter(lang1, lang2, G, k, l1, l2, cutoff=4, p=0.8, topn=5):
     a = []
     candidates = random.sample(l1, k)
     pairs = []
@@ -170,19 +178,21 @@ def _one_iter(lang1, lang2, G, k, l1, l2, cutoff=4, p=0.8):
     if len(pairs) == 0:
         return 'no one-variant'
     pairs2 = pairs[:1000]
-    result = evaluate(G, pairs2, lang1, lang2, 4)
+    result = evaluate(G, pairs2, lang1, lang2, 4, topn=topn)
     #del G, l1, l2, pairs
     try:
         precision = sum(1 for i in result if i >= p) / sum(1 for i in result if i > 0)
         recall = sum(1 for i in result if i >= p) / sum(1 for i in result)
         f1 = 2 * precision * recall / (precision + recall)
         #logging.info ('finish evaluation')
-        print ('Precision : {}, recall : {}, f1-score : {}, \tSum : {}'.format(precision, recall, f1, sum(result)/(len(pairs2)//100)))
+        #print ('Precision : {}, recall : {}, f1-score : {}, \tSum : {}'.format(precision, recall, f1, sum(result)/(len(pairs2)//100)))
+        print ('Precision : {}, recall : {}, f1-score : {}'.format(precision, recall, f1))
     except:
         print ('error')
     del G, l1, l2, pairs
 
-def eval_loop(lang1, lang2, n=10, cutoff=4, n_iter=10, p=0.8):
+def eval_loop(lang1, lang2, n=10, cutoff=4, n_iter=10, topn=5):
+    p = (21 - topn)/20
     get_relevant_languages(lang1, lang2)
     load_file(lang1, lang2, n=n)
     change_encoding('{}-{}'.format(lang1,lang2))
