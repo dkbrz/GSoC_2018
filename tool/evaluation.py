@@ -9,15 +9,15 @@ def node_search(G, node, l2, cutoff, metric='exp'):
     results = evaluation(G, node, candidates, mode=metric, cutoff=cutoff)
     return list(sorted(results, key=results.get, reverse=True))
     
-def two_node_search (G, node1, node2, l1, l2, cutoff, metric='exp'):
-    if (node1, node2) in G.edges(): G.remove_edge(node1, node2)
-    if (node2, node1) in G.edges(): G.remove_edge(node2, node1)
-    res1 = node_search(G, node1, l2, cutoff, metric=metric)
-    res2 = node_search(G, node2, l1, cutoff, metric=metric)
-    coefficient = 0
-    if node2 in res1: coefficient += 0.5*(len(res1) - res1.index(node2))/len(res1)
-    if node1 in res2: coefficient += 0.5*(len(res2) - res2.index(node1))/len(res2) 
-    return coefficient
+#def two_node_search (G, node1, node2, l1, l2, cutoff, metric='exp'):
+#    if (node1, node2) in G.edges(): G.remove_edge(node1, node2)
+#    if (node2, node1) in G.edges(): G.remove_edge(node2, node1)
+#    res1 = node_search(G, node1, l2, cutoff, metric=metric)
+#    res2 = node_search(G, node2, l1, cutoff, metric=metric)
+#    coefficient = 0
+#    if node2 in res1: coefficient += 0.5*(len(res1) - res1.index(node2))/len(res1)
+#    if node1 in res2: coefficient += 0.5*(len(res2) - res2.index(node1))/len(res2) 
+#    return coefficient
     
 def evaluate(G, pairs, l1, l2, cutoff=4, metric='exp'):
     result = []
@@ -69,7 +69,7 @@ def get_evaluation_pairs(G, dictionary, target, n=500):
                 ne = list(G.neighbors(i))
                 s = FilteredList(ne).lang(target)
                 if len(s) == 1 and len(ne) > 1: pairs.append((i, s[0], n))
-        print (k*n, len(pairs))
+        #print (k*n, len(pairs))
         k+=1
     return pairs[:n]
 
@@ -144,3 +144,58 @@ def addition(lang1, lang2, n=10, cutoff=4):
         else: k2[3] += 1
     
     print ('Exist: {}, failed: {}, NEW: {}, errors: {}'.format(k2[0]/len(l2), k2[1]/len(l2), k2[2]/len(l2), k2[3]/len(l2)))
+
+def two_node_search (G, node1, node2, l1, l2, cutoff, metric='exp'):
+    if (node1, node2) in G.edges(): G.remove_edge(node1, node2)
+    if (node2, node1) in G.edges(): G.remove_edge(node2, node1)
+    res1 = node_search(G, node1, l2, cutoff, metric=metric)[:10]
+    res2 = node_search(G, node2, l1, cutoff, metric=metric)[:10]
+    coefficient = 0
+    if node2 in res1: coefficient += 0.5*(10 - res1.index(node2))/10
+    if node1 in res2: coefficient += 0.5*(10 - res2.index(node1))/10
+    return coefficient
+
+def _one_iter(lang1, lang2, G, k, l1, l2, cutoff=4, p=0.8):
+    a = []
+    candidates = random.sample(l1, k)
+    pairs = []
+    for i in candidates:
+        if len(pairs) < 1000 and i in G.nodes():
+            ne = list(G.neighbors(i))
+            s = FilteredList(ne).lang(lang2)
+            if len(s) == 1 and len(ne) > 1:
+                pairs.append((i, s[0]))
+        elif len(pairs) >= 1000:
+            break
+    if len(pairs) == 0:
+        return 'no one-variant'
+    pairs2 = pairs[:1000]
+    result = evaluate(G, pairs2, lang1, lang2, 4)
+    #del G, l1, l2, pairs
+    try:
+        precision = sum(1 for i in result if i >= p) / sum(1 for i in result if i > 0)
+        recall = sum(1 for i in result if i >= p) / sum(1 for i in result)
+        f1 = 2 * precision * recall / (precision + recall)
+        #logging.info ('finish evaluation')
+        print ('Precision : {}, recall : {}, f1-score : {}, \tSum : {}'.format(precision, recall, f1, sum(result)/(len(pairs2)//100)))
+    except:
+        print ('error')
+    del G, l1, l2, pairs
+
+def eval_loop(lang1, lang2, n=10, cutoff=4, n_iter=10, p=0.8):
+    get_relevant_languages(lang1, lang2)
+    load_file(lang1, lang2, n=n)
+    change_encoding('{}-{}'.format(lang1,lang2))
+    G = built_from_file('{}-{}'.format(lang1,lang2))
+    l1, l2 = dictionaries(lang1, lang2)
+    k = len(l1)
+    if k > 10000: k =10000
+    elif k < 1000: return 'less than 1000'
+    else: k = len(l1)
+    a = []
+    #print ('+',end='\t')
+    for _ in tqdm(range(n_iter)):
+        G = built_from_file('{}-{}'.format(lang1,lang2))
+        _one_iter(lang1, lang2, G, k, l1, l2, cutoff=cutoff, p=p)
+    #print (a)
+    #print (st.t.interval(0.95, len(a)-1, loc=np.mean(a), scale=st.sem(a)))    
