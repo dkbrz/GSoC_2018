@@ -342,29 +342,6 @@ def existance(pair, nodes):
     if pair[0] in nodes and pair[1] in nodes: return True
     else: return False
 
-#def load_file(l1, l2):
-#    "Creating a loading file that is used to load graph to work with. Get language list, convert bidixes in full tag format and join them"
-#    with open ('language_list.csv','r',encoding='utf-8') as f:
-#        languages = set([i.split('\t')[1].strip() for i in f.readlines()])
-#    with open ('{}-{}'.format(l1, l2), 'w', encoding='utf-16') as f:
-#        for root, dirs, files in os.walk ('./dictionaries/'):
-#            for fl in files:
-#                pair = fl.replace('.dix','').split('-')
-#                if existance(pair, languages):
-#                    logging.info('{}-{} started'.format(pair[0], pair[1]))
-#                    lang1 = import_mono(pair[0])
-#                    lang2 = import_mono(pair[1])
-#                    with open (root+fl, 'r', encoding='utf-8') as d:
-#                        try:
-#                            tree = ET.fromstring(d.read().replace('<b/>',' ').replace('<.?g>',''))
-#                            for word1, word2, side in parse_bidix (tree, pair[0], pair[1]):
-#                                try:
-#                                    word1, word2 = check (word1, word2, lang1, lang2)
-#                                    string = str(side) + '\t' + word1.write(mode='bi') + '\t' + word2.write(mode='bi') + '\n'
-#                                    f.write(string)
-#                                except: pass
-#                        except: print ('ERROR: {}-{}'.format(pair[0], pair[1]))
-
 def preprocessing():
     if not os.path.exists('./parsed/'):
         os.makedirs('./parsed/')
