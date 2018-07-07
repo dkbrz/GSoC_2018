@@ -524,7 +524,6 @@ def load_file(l1,l2, n=10000):
                     #print (pair)
                     with open (root+fl, 'r', encoding='utf-8') as d:
                         f.write(d.read())
-    #print (languages)
 
 def check_graph(l1, l2, n=10):
     G = nx.Graph()
@@ -542,21 +541,21 @@ def check_graph(l1, l2, n=10):
     languages = languages | set([l1,l2])
     nx.draw_shell(G.subgraph(languages), with_labels = True, font_size = 20, node_color = 'white')
 
-def evaluation(G, word, candidates, metric, cutoff=4):
-    result = {}
-    for translation in candidates:
-        result[translation] = metric(G, word, translation, cutoff=cutoff, mode=metric)
-    return result
-
-def metric(G, word, translation, cutoff, mode='exp'):
-    coef = 0
-    if mode in ('exp', 'len'):
-        t = Counter([len(i) for i in nx.all_simple_paths(G, word, translation, cutoff=cutoff)])
-        if mode == 'exp': 
-            for i in t: 
-                coef += exp(-i)*t[i]
-            return coef
-        if mode == 'len':
-            for i in t: 
-                coef += t[i]*i
-            return coef
+#def evaluation(G, word, candidates, metric, cutoff=4):
+#    result = {}
+#    for translation in candidates:
+#        result[translation] = metric(G, word, translation, cutoff=cutoff, mode=metric)
+#    return result
+#
+#def metric(G, word, translation, cutoff, mode='exp'):
+#    coef = 0
+#    if mode in ('exp', 'len'):
+#        t = Counter([len(i) for i in nx.all_simple_paths(G, word, translation, cutoff=cutoff)])
+#        if mode == 'exp': 
+#            for i in t: 
+#                coef += exp(-i)*t[i]
+#            return coef
+#        if mode == 'len':
+#            for i in t: 
+#                coef += t[i]*i
+#            return coef

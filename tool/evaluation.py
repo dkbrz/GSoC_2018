@@ -209,3 +209,38 @@ def eval_loop(lang1, lang2, n=10, cutoff=4, n_iter=10, topn=5):
         _one_iter(lang1, lang2, G, k, l1, l2, cutoff=cutoff, p=p)
     #print (a)
     #print (st.t.interval(0.95, len(a)-1, loc=np.mean(a), scale=st.sem(a)))    
+
+def addition2(lang1, lang2, n=10, cutoff=4):
+    get_relevant_languages(lang1, lang2)
+    load_file(lang1, lang2, n=n)
+    change_encoding('{}-{}'.format(lang1,lang2))
+    G = built_from_file('{}-{}'.format(lang1,lang2))
+    l1, l2 = dictionaries(lang1, lang2)
+    k1, k2 = [0,0,0,0], [0,0,0,0] #existant, failed, new, errors
+    for node in l1:
+        if node in G:
+            s = FilteredList(list(G.neighbors(node))).lang(lang2)
+            if not len(s):
+                candidates = possible_translations(G, node, lang2, cutoff=cutoff, n=20)
+                if candidates: k1[2] += 1
+                else: k1[1] += 1
+            else:
+                k1[0] += 1
+        else: k1[3] +=1
+    if k1[0] > 0: c = k1[2]/k1[0]*100
+    else: c = 0
+    print ('{}->{}\tExist: {}, failed: {}, NEW: {} +{}%, NA: {}'.format(lang1, lang2, k1[0], k1[1], k1[2], round(c, 0), k1[3]))
+    
+    for node in l2:
+        if node in G:
+            s = FilteredList(list(G.neighbors(node))).lang(lang1)
+            if not len(s):
+                candidates = possible_translations(G, node, lang1, cutoff=cutoff, n=20)
+                if candidates: k2[2] += 1
+                else: k2[1] += 1
+            else:
+                k2[0] += 1
+        else: k2[3] += 1
+    if k2[0] > 0: c = k2[2]/k2[0]*100
+    else: c = 0
+    print ('{}->{}\tExist: {}, failed: {}, NEW: {} +{}%, NA: {}'.format(lang2, lang1, k2[0], k2[1], k2[2], round(c, 0), k2[3]))
