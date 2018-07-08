@@ -127,7 +127,6 @@ class SetWithFilter(set):
     def lemma(self, value): return set(i for i in self if i.lemma == value)
     def lang(self, value): return set(i for i in self if i.lang == value)
 
-
 class FilteredList(list):
     def lemma(self, value): return list(i for i in self if i.lemma == value)
     def lang(self, value): return list(i for i in self if i.lang == value)
@@ -482,7 +481,6 @@ def print_results(results, n=7):
         for j in sorted(results[i], key=results[i].get, reverse=True)[:n]:
             print (j, results[i][j])
 
-
 def print_lemma_results(results, n=10):
     for i in results:
         print ('\t\t', i)
@@ -510,7 +508,6 @@ def get_relevant_languages(source, target):
     with open ('language_list.csv','w', encoding='utf-8') as f:
         for i in sorted(result, key=result.get):
             f.write(str(result[i][0])+'\t'+str(i)+'\t:\t'+' '.join(result[i][1])+'\n')
-
 
 def load_file(l1,l2, n=10000):
     with open ('language_list.csv','r',encoding='utf-8') as f:
@@ -540,22 +537,3 @@ def check_graph(l1, l2, n=10):
         languages = set([i.split('\t')[1].strip() for i in islice(f.readlines(), 0, n)])
     languages = languages | set([l1,l2])
     nx.draw_shell(G.subgraph(languages), with_labels = True, font_size = 20, node_color = 'white')
-
-#def evaluation(G, word, candidates, metric, cutoff=4):
-#    result = {}
-#    for translation in candidates:
-#        result[translation] = metric(G, word, translation, cutoff=cutoff, mode=metric)
-#    return result
-#
-#def metric(G, word, translation, cutoff, mode='exp'):
-#    coef = 0
-#    if mode in ('exp', 'len'):
-#        t = Counter([len(i) for i in nx.all_simple_paths(G, word, translation, cutoff=cutoff)])
-#        if mode == 'exp': 
-#            for i in t: 
-#                coef += exp(-i)*t[i]
-#            return coef
-#        if mode == 'len':
-#            for i in t: 
-#                coef += t[i]*i
-#            return coef
