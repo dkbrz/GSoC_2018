@@ -1,4 +1,4 @@
-from .functions import *
+from .func2 import *
 
 def node_search(G, node, l2, cutoff, metric='exp', n=20):
     if node not in G.nodes():
@@ -169,7 +169,7 @@ def _one_iter(lang1, lang2, G, k, l1, l2, cutoff=4, p=0.8, topn=5):
         return 'no one-variant'
     pairs2 = pairs[:1000]
     result = evaluate(G, pairs2, lang1, lang2, 4, topn=topn)
-    print ('N=',len(pairs2), end='\t')
+    print (len(pairs2))
     try:
         precision = sum(1 for i in result if i >= p) / sum(1 for i in result if i > 0)
         recall = sum(1 for i in result if i >= p) / sum(1 for i in result)
@@ -191,7 +191,6 @@ def eval_loop(lang1, lang2, n=10, cutoff=4, n_iter=10, topn=5):
     k = len(l1)
     if k > 10000: k =10000
     elif k < 1000: return 'less than 1000'
-    else: k = len(l1)
     a = []
     #print ('+',end='\t')
     for _ in tqdm(range(n_iter)):
