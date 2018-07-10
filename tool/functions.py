@@ -446,19 +446,21 @@ def dictionaries(lang1,lang2):
 
 # SEARCH
 
-def _single_shortest_path_length(adj, firstlevel, cutoff, lang):
+def _single_shortest_path_length(adj, firstlevel, cutoff, lang, n):
     """ Variant of NetworkX function _single_shortest_path_length"""
     seen = {}                  # level (number of hops) when seen in BFS
     level = 0                  # the current level
     nextlevel = firstlevel     # dict of nodes to check at next level
-
-    while nextlevel and cutoff >= level:
+    k = 0
+    while nextlevel and cutoff >= level and k < n:
         thislevel = nextlevel  # advance to next level
         nextlevel = {}         # and start a new list (fringe)
         for v in thislevel:
             if v not in seen:
                 seen[v] = level  # set the level of vertex v
-                if v.lang == lang: yield v
+                if v.lang == lang: 
+                    k += 1
+                    yield v
                 else: nextlevel.update(adj[v])
         level += 1
     del seen
@@ -468,7 +470,7 @@ def possible_translations(G, source, lang, cutoff=4, n = 20):
     if source not in G: raise nx.NodeNotFound('Source {} is not in G'.format(source))
     if cutoff is None: cutoff = float('inf')
     nextlevel = {source: 1}
-    return list(islice(_single_shortest_path_length(G.adj, nextlevel, cutoff, lang), n))
+    return list(_single_shortest_path_length(G.adj, nextlevel, cutoff, lang, n))
 
 def sorting(result, n):
     result = [(x, result[x]) for x in sorted(result, key=result.get, reverse=True)[:n]]

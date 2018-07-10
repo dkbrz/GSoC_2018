@@ -412,7 +412,6 @@ def all_languages():
             G.add_edge(pair[0], pair[1])
     d = dict(G.degree())
     d = sorted(d, key=d.get, reverse=True)
-    #print (d)
     with open('languages','w',encoding='utf-8') as f:
         f.write('\t'.join(d))
 
@@ -447,21 +446,19 @@ def dictionaries(lang1,lang2):
 
 # SEARCH
 
-def _single_shortest_path_length(adj, firstlevel, cutoff, lang, n=20):
+def _single_shortest_path_length(adj, firstlevel, cutoff, lang):
     """ Variant of NetworkX function _single_shortest_path_length"""
     seen = {}                  # level (number of hops) when seen in BFS
     level = 0                  # the current level
     nextlevel = firstlevel     # dict of nodes to check at next level
-    k = 0
-    while nextlevel and cutoff >= level and k < n:
+
+    while nextlevel and cutoff >= level:
         thislevel = nextlevel  # advance to next level
         nextlevel = {}         # and start a new list (fringe)
         for v in thislevel:
             if v not in seen:
                 seen[v] = level  # set the level of vertex v
-                if v.lang == lang: 
-                    k += 1
-                    yield v
+                if v.lang == lang: yield v
                 else: nextlevel.update(adj[v])
         level += 1
     del seen
@@ -471,7 +468,7 @@ def possible_translations(G, source, lang, cutoff=4, n = 20):
     if source not in G: raise nx.NodeNotFound('Source {} is not in G'.format(source))
     if cutoff is None: cutoff = float('inf')
     nextlevel = {source: 1}
-    return list(_single_shortest_path_length(G.adj, nextlevel, cutoff, lang, n))
+    return list(islice(_single_shortest_path_length(G.adj, nextlevel, cutoff, lang), n))
 
 def sorting(result, n):
     result = [(x, result[x]) for x in sorted(result, key=result.get, reverse=True)[:n]]
@@ -496,7 +493,6 @@ def get_relevant_languages(source, target):
     with open ('./files/stats.csv', 'r', encoding='utf-8') as f:
         for line in f:
             data = line.split('\t')
-            #coef = 1/log10(10+float(data[2])*float(data[3])*float(data[4]))
             coef = 1/log10(10+float(data[2])+0.5*float(data[3])+0.5*float(data[4]))
             if coef < 1:
                 G.add_edge(data[0], data[1], weight=coef)
@@ -506,7 +502,6 @@ def get_relevant_languages(source, target):
         for node in path:
             if node not in result:
                 result[node]  = (length, path)
-        #print(path, length)
     with open ('language_list.csv','w', encoding='utf-8') as f:
         for i in sorted(result, key=result.get):
             f.write(str(result[i][0])+'\t'+str(i)+'\t:\t'+' '.join(result[i][1])+'\n')
@@ -532,9 +527,6 @@ def check_graph(l1, l2, n=10):
             coef = 1/log10(10+float(data[2])+0.5*float(data[3])+0.5*float(data[4]))
             if coef < 1:
                 G.add_edge(data[0], data[1], weight=coef)
-                #print (data[:2])
-    #if (l1, l2) in G.edges():
-    #    G.remove_edge(l1, l2)
     with open ('language_list.csv','r',encoding='utf-8') as f:
         languages = set([i.split('\t')[1].strip() for i in islice(f.readlines(), 0, n)])
     languages = languages | set([l1,l2])

@@ -155,14 +155,16 @@ def two_node_search (G, node1, node2, l1, l2, cutoff, metric='exp', topn=5):
 
 def _one_iter(lang1, lang2, G, k, l1, l2, cutoff=4, p=0.8, topn=5):
     a = []
-    candidates = random.sample(l1, k)
+    candidates = random.sample(l1, len(l1))
     pairs = []
     for i in candidates:
         if len(pairs) < 1000 and i in G.nodes():
             ne = list(G.neighbors(i))
             s = FilteredList(ne).lang(lang2)
             if len(s) == 1 and len(ne) > 1:
-                pairs.append((i, s[0]))
+                ne = list(G.neighbors(s[0]))
+                if len(FilteredList(ne).lang(lang1)) == 1 and len(ne)>1 and FilteredList(ne).lang(lang1)[0]==i:
+                    pairs.append((i, s[0]))
         elif len(pairs) >= 1000:
             break
     if len(pairs) == 0:

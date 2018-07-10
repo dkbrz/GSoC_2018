@@ -1,4 +1,4 @@
-from .func2 import *
+from .functions import *
 
 def node_search(G, node, l2, cutoff, metric='exp', n=20):
     if node not in G.nodes():
@@ -59,82 +59,11 @@ def get_evaluation_pairs(G, dictionary, target, n=500):
                 ne = list(G.neighbors(i))
                 s = FilteredList(ne).lang(target)
                 if len(s) == 1 and len(ne) > 1 and (s[0], i) in G.edges() and (i, s[0]) in G.edges(): 
-                    pairs.append((i, s[0], n))
+                    if len(FilteredList(list(G.neighbors(s[0]))).lang(target)) == 1:
+                        pairs.append((i, s[0], n))
         print (k*n, len(pairs))
         k+=1
     return pairs[:n]
-
-def one_iter_evaluation(lang1, lang2, G, k, l1, l2, cutoff=4):
-    a = []
-    candidates = random.sample(l1, k)
-    pairs = []
-    for i in candidates:
-        if len(pairs) < 1000 and i in G.nodes():
-            ne = list(G.neighbors(i))
-            s = FilteredList(ne).lang(lang2)
-            if len(s) == 1 and len(ne) > 1:
-                pairs.append((i, s[0]))
-        elif len(pairs) >= 1000:
-            break
-    if len(pairs) == 0:
-        return 'no one-variant'
-    pairs2 = pairs[:1000]
-    result = evaluate(G, pairs2, lang1, lang2, 4)
-    del G, l1, l2, pairs
-    try:
-        return sum(result)/len(pairs2)
-    except:
-        return 0
-
-def loop(lang1, lang2, n=10, cutoff=4, n_iter=10):
-    get_relevant_languages(lang1, lang2)
-    load_file(lang1, lang2, n=n)
-    change_encoding('{}-{}'.format(lang1,lang2))
-    G = built_from_file('{}-{}'.format(lang1,lang2))
-    l1, l2 = dictionaries(lang1, lang2)
-    k = len(l1)
-    if k > 10000: k =10000
-    elif k < 1000: return 'less than 1000'
-    else: k = len(l1)
-    a = []
-    #print ('+',end='\t')
-    for _ in tqdm(range(n_iter)):
-        a.append(one_iter_evaluation(lang1, lang2, G, k, l1, l2, cutoff=cutoff))
-    print (a)
-    print (st.t.interval(0.95, len(a)-1, loc=np.mean(a), scale=st.sem(a)))
-
-def addition(lang1, lang2, n=10, cutoff=4):
-    get_relevant_languages(lang1, lang2)
-    load_file(lang1, lang2, n=n)
-    change_encoding('{}-{}'.format(lang1,lang2))
-    G = built_from_file('{}-{}'.format(lang1,lang2))
-    l1, l2 = dictionaries(lang1, lang2)
-    k1, k2 = [0,0,0,0], [0,0,0,0] #existant, failed, new, errors
-    for node in tqdm(l1):
-        if node in G:
-            s = FilteredList(list(G.neighbors(node))).lang(lang2)
-            if not len(s):
-                candidates = possible_translations(G, node, lang2, cutoff=cutoff, n=20)
-                if candidates: k1[2] += 1
-                else: k1[1] += 1
-            else:
-                k1[0] += 1
-        else: k1[3] +=1
-    
-    print ('Exist: {}, failed: {}, NEW: {}, errors: {}'.format(k1[0]/len(l1), k1[1]/len(l1), k1[2]/len(l1), k1[3]/len(l1)))
-    
-    for node in tqdm(l2):
-        if node in G:
-            s = FilteredList(list(G.neighbors(node))).lang(lang1)
-            if not len(s):
-                candidates = possible_translations(G, node, lang1, cutoff=cutoff, n=20)
-                if candidates: k2[2] += 1
-                else: k2[1] += 1
-            else:
-                k2[0] += 1
-        else: k2[3] += 1
-    
-    print ('Exist: {}, failed: {}, NEW: {}, errors: {}'.format(k2[0]/len(l2), k2[1]/len(l2), k2[2]/len(l2), k2[3]/len(l2)))
 
 def two_node_search (G, node1, node2, l1, l2, cutoff, metric='exp', topn=5):
     lng = 20
@@ -155,21 +84,22 @@ def two_node_search (G, node1, node2, l1, l2, cutoff, metric='exp', topn=5):
 
 def _one_iter(lang1, lang2, G, k, l1, l2, cutoff=4, p=0.8, topn=5):
     a = []
-    candidates = random.sample(l1, k)
+    candidates = random.sample(l1, len(l1))
     pairs = []
     for i in candidates:
         if len(pairs) < 1000 and i in G.nodes():
             ne = list(G.neighbors(i))
             s = FilteredList(ne).lang(lang2)
             if len(s) == 1 and len(ne) > 1:
-                pairs.append((i, s[0]))
+                if len(FilteredList(list(G.neighbors(s[0]))).lang(lang1)) == 1:
+                    pairs.append((i, s[0]))
         elif len(pairs) >= 1000:
             break
     if len(pairs) == 0:
         return 'no one-variant'
     pairs2 = pairs[:1000]
     result = evaluate(G, pairs2, lang1, lang2, 4, topn=topn)
-    print (len(pairs2))
+    print ('N=',len(pairs2), end='\t')
     try:
         precision = sum(1 for i in result if i >= p) / sum(1 for i in result if i > 0)
         recall = sum(1 for i in result if i >= p) / sum(1 for i in result)
@@ -191,6 +121,7 @@ def eval_loop(lang1, lang2, n=10, cutoff=4, n_iter=10, topn=5):
     k = len(l1)
     if k > 10000: k =10000
     elif k < 1000: return 'less than 1000'
+    else: k = len(l1)
     a = []
     #print ('+',end='\t')
     for _ in tqdm(range(n_iter)):
@@ -233,3 +164,5 @@ def addition2(lang1, lang2, n=10, cutoff=4):
     if k2[0] > 0: c = k2[2]/k2[0]*100
     else: c = 0
     print ('{}->{}\tExist: {}, failed: {}, NEW: {} +{}%, NA: {}'.format(lang2, lang1, k2[0], k2[1], k2[2], round(c, 0), k2[3]))
+    
+
