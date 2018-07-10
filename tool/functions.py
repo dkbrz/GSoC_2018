@@ -533,3 +533,4 @@ def check_graph(l1, l2, n=10):
         languages = set([i.split('\t')[1].strip() for i in islice(f.readlines(), 0, n)])
     languages = languages | set([l1,l2])
     nx.draw_shell(G.subgraph(languages), with_labels = True, font_size = 20, node_color = 'white')
+
