@@ -9,7 +9,7 @@
 	epo	Anglio	np-loc$np	nep	बेलायत	np
 	epo	Antarkto	np-loc$np	nep	कुमेरु	np
 	epo	Arabo	np	nep	अरब	np
-	epo	Azio	np-loc$np	nep	एसिया	np
+	epo	Azio	np$np-loc	nep	एसिया	np
 	epo	Aŭstralio	np-loc$np	nep	अस्ट्रेलिया	np
 	epo	Barato	np-loc$np	nep	भारत	np
 	epo	Bosnio Hercegovino	np	nep	बोस्निया हर्जगोभिना	np
@@ -51,7 +51,7 @@
 	epo	Jesuo	np-ant$np	nep	येशु	np
 	epo	Jetio	np	nep	यती	np
 	epo	Jugoslavio	np-loc$np	nep	युगोस्लाभीया	np
-	epo	Jupitero	np-loc$np	nep	वृहस्पति	np
+	epo	Jupitero	np$np-loc	nep	वृहस्पति	np
 	epo	Kamerunio	np$np-loc	nep	केमरुन	np
 	epo	Kanado	np-loc$np	nep	क्यानाडा	np
 	epo	Kankro	np$np-loc	nep	कर्कट	np
@@ -62,7 +62,7 @@
 	epo	Kostariko	np$np-loc	nep	कोस्टारिका	np
 	epo	Kristo	np$np-ant	nep	ख्रिस्ट	np
 	epo	Kubo	np$np-loc	nep	क्युबा	np
-	epo	Leono	np-loc$np	nep	सिंह	np
+	epo	Leono	np$np-loc	nep	सिंह	np
 	epo	Libano	np-loc$np	nep	लेबनान	np
 	epo	Litovio	np$np-loc	nep	लिटोभिया	np
 	epo	Malajzio	np$np-loc	nep	मलेसिया	np
@@ -85,14 +85,14 @@
 	epo	Panamo	np-loc$np	nep	पानामा	np
 	epo	Peruo	np-loc$np	nep	पेरु	np
 	epo	Pesilo	np$np-loc	nep	तुला	np
-	epo	Pollando	np-loc$np	nep	पोल्याण्ड	np
+	epo	Pollando	np$np-loc	nep	पोल्याण्ड	np
 	epo	Portugalo	np	nep	पोर्तुगल	np
 	epo	Rusio	np$np-loc	nep	रसीया	np
 	epo	Rusio	np$np-loc	nep	रुस	np
 	epo	Sagitario	np	nep	धनु	np
 	epo	Satano	np	nep	शैतान	np
 	epo	Satano	np	nep	सैतान	np
-	epo	Saturno	np-loc$np	nep	शनि	np
+	epo	Saturno	np$np-loc	nep	शनि	np
 	epo	Sirio	np-loc$np	nep	सिरिया	np
 	epo	Skorpio	np	nep	वृश्‍चिक	np
 	epo	Slovakio	np$np-loc	nep	स्लोभाकिया	np
@@ -103,8 +103,8 @@
 	epo	Sudafriko	np	nep	दक्षिण अफ्रिका	np
 	epo	Sudameriko	np$np-loc	nep	दक्षिण अमेरिका	np
 	epo	Sudano	np$np-loc	nep	सुडान	np
-	epo	Svedio	np-loc$np	nep	स्वीडेन	np
-	epo	Svislando	np-loc$np	nep	स्विट्जरल्यान्ड	np
+	epo	Svedio	np$np-loc	nep	स्वीडेन	np
+	epo	Svislando	np$np-loc	nep	स्विट्जरल्यान्ड	np
 	epo	Tahitio	np	nep	टाहिटी	np
 	epo	Tajlando	np$np-loc	nep	थाइल्याण्ड	np
 	epo	Tajvano	np$np-loc	nep	ताइवान	np
@@ -8895,7 +8895,7 @@
 	epo	dudek ses	num$	nep	छब्बीस	num
 	epo	dudek tri	num$	nep	तेइस	num
 	epo	dudek unu	num$	nep	एक्काइस	num
-	epo	kvar	num$	nep	चार	num
+	epo	kvar	num	nep	चार	num
 	epo	kvardek du	num	nep	बयालीस	num
 	epo	kvardek kvar	num	nep	चवालीस	num
 	epo	kvardek kvin	num	nep	पैँतालीस	num
@@ -8905,7 +8905,7 @@
 	epo	kvardek ses	num	nep	छयालीस	num
 	epo	kvardek tri	num	nep	त्रिचालीस	num
 	epo	kvardek unu	num	nep	एकचालीस	num
-	epo	kvin	num$	nep	पाँच	num
+	epo	kvin	num	nep	पाँच	num
 	epo	kvindek	num$	nep	पचास	num
 	epo	kvindek du	num	nep	बाउन्न	num
 	epo	kvindek kvar	num	nep	चवन्न	num
@@ -8917,7 +8917,7 @@
 	epo	kvindek tri	num	nep	त्रिपन्न	num
 	epo	kvindek unu	num	nep	एकाउन्न	num
 	epo	mil	num$	nep	हजार	num
-	epo	naŭ	num$	nep	नौ	num
+	epo	naŭ	num	nep	नौ	num
 	epo	naŭdek	num$	nep	नब्बे	num
 	epo	naŭdek du	num	nep	बयानब्बे	num
 	epo	naŭdek kvin	num	nep	पन्चानब्बे	num
@@ -8937,7 +8937,7 @@
 	epo	okdek ses	num	nep	छयासी	num
 	epo	okdek tri	num	nep	त्रियासी	num
 	epo	okdek unu	num	nep	एकासी	num
-	epo	sep	num$	nep	सात	num
+	epo	sep	num	nep	सात	num
 	epo	sep dek	num	nep	सत्तरी	num
 	epo	sepdek du	num	nep	बहत्तर	num
 	epo	sepdek kvar	num	nep	चौहत्तर	num
@@ -8948,7 +8948,7 @@
 	epo	sepdek ses	num	nep	छयहत्तर	num
 	epo	sepdek tri	num	nep	त्रिहत्तर	num
 	epo	sepdek unu	num	nep	एकहत्तर	num
-	epo	ses	num$	nep	छ	num
+	epo	ses	num	nep	छ	num
 	epo	sesdek	num$	nep	साठी	num
 	epo	sesdek du	num	nep	बैसठ्ठी	num
 	epo	sesdek kvar	num	nep	चौसट्ठी	num
@@ -9145,9 +9145,9 @@
 	epo	nuntempe	adv	nep	अचेल	adv
 	epo	nuntempe	adv	nep	आजकल	adv
 	epo	nuntempe	adv	nep	हालसाल	adv
-	epo	nur	adv	nep	खालि	adv
-	epo	nur	adv	nep	मात्र	adv
-	epo	nur	adv	nep	सिर्फ	adv
+	epo	nur	adv$	nep	खालि	adv
+	epo	nur	adv$	nep	मात्र	adv
+	epo	nur	adv$	nep	सिर्फ	adv
 	epo	ofte	adv	nep	अक्सर	adv
 	epo	ofte	adv	nep	प्रायः	adv
 	epo	ofte	adv	nep	बरोबर	adv

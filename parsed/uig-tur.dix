@@ -2,11 +2,11 @@ LR	uig	ئى	cop	tur
 LR	uig	ئې	cop	tur	 	
 LR	uig	ئىكەن	cop-dub	tur	 	
 LR	uig	ئەمەس	cop-neg	tur	 	
-LR	uig	قا	v-iv	tur	 	
 	uig	ئى	v-iv	tur	ol	v-iv$v$v-iv-neg
 	uig	ۋە	cnjcoo	tur	ve	cnjcoo
 	uig	ئەمما	cnjcoo	tur	ama	cnjcoo
 	uig	ياكى	cnjcoo	tur	veya	cnjcoo
+	uig	مۇ	postadv	tur	da	postadv
 	uig	ئارتۇق	post	tur	fazla	post
 	uig	قاتارلىق	post	tur	gibi	post
 	uig	بېرى	post	tur	beri	post
@@ -14,8 +14,12 @@ LR	uig	قا	v-iv	tur
 	uig	ئىتىبارەن	post	tur	itibaren	post
 	uig	قارشى	post	tur	karşı	post
 	uig	ئۇ	prn-pers	tur	o	prn-pers$prn$prn-pers-p3-sg
-	uig	نە	adv-itg	tur	ne	adv$adv-itg
-	uig	نېمە	adv-itg	tur	ne	adv$adv-itg
+	uig	ئا	prn-pers	tur	o	prn-pers$prn$prn-pers-p3-sg
+	uig	نە	adv-itg	tur	ne	adv-itg$adv
+	uig	نېمە	adv-itg	tur	ne	adv-itg$adv
+	uig	نەگە	adv-itg	tur	nereye	adv-itg
+	uig	نىمىلا	adv-itg	tur	ne	adv-itg$adv
+	uig	نىمە	adv-itg	tur	ne	adv-itg$adv
 	uig	قانداق	adv$adv-itg	tur	nasıl	adv$adv-itg
 	uig	كىم	prn-itg	tur	kim	prn-itg
 	uig	قەيەر	prn-itg	tur	nere	prn-itg$prn-itg-loc
@@ -109,7 +113,6 @@ LR	uig	قا	v-iv	tur
 	uig	باشلانغۇچ	n	tur	başlangıç	n$
 	uig	ئوسمان	n	tur	Osmanlı	n
 	uig	جەھەت	n	tur	açı	n$
-	uig	كىرىش	n	tur	giriş	n$
 	uig	ئۆتىش	n	tur	geçiş	n
 	uig	تاماملىنىش	n	tur	tamamlanış	n
 	uig	يېلىن	n	tur	meme	n$
@@ -138,6 +141,7 @@ LR	uig	قا	v-iv	tur
 	uig	مۇنقەرز قىل	v-tv	tur	fethet	v-tv$v
 	uig	قىل	v-tv	tur	yap	v-tv$v
 	uig	قىل	v-tv	tur	et	v-tv$$v
+	uig	قىل	v-tv	tur	kıl	v-tv$$v
 	uig	بىچارە	adj	tur	biçare	adj
 	uig	قاملىشىدىغاندەك	adj	tur	olacak gibi	adj
 	uig	خوپ	adj	tur	iyi	adj$
@@ -149,6 +153,7 @@ LR	uig	قا	v-iv	tur
 	uig	پەسكەش	adj	tur	mendebur	adj
 	uig	قولاي	adj	tur	kolay	adj$
 	uig	ھەقلىق	adj	tur	haklı	adj
+	uig	ھەقلىق	adj	tur	layık	adj$
 	uig	ساقاللىق	adj	tur	sakallı	adj
 	uig	بىچارە	adj	tur	zavallı	adj
 	uig	ئاپلا	ij	tur	hayda	ij
@@ -162,7 +167,7 @@ LR	uig	قا	v-iv	tur
 	uig	توشىغىل	n	tur	taşıma	n
 	uig	ئەۋلىيا	n	tur	evliya	n
 	uig	قىيناق	n	tur	işkence	n$
-	uig	قورساق	n	tur	mide	n
+	uig	قورساق	n	tur	mide	n$
 	uig	يېشيىش	n	tur	yeme	n
 	uig	مېڭىش	n	tur	yürüme	n
 	uig	ئېيتقىن	n	tur	laf	n$
@@ -191,7 +196,8 @@ LR	uig	قا	v-iv	tur
 	uig	قېرى	n	tur	yaşlı	n
 	uig	بۇرادەر	n	tur	kardeş	n$
 	uig	ئالقىش	n	tur	alkış	n$
-	uig	ھىچكىم	prn-pers	tur	kimse	prn-pers
+	uig	ئالقىش	n	tur	övgü	n$
+	uig	ھىچكىم	prn-qnt	tur	kimse	prn-qnt$
 	uig	ئىككىلىسى	prn-pers	tur	ikisi	prn-pers
 	uig	ھەممەيلەن	prn-qnt	tur	herkes	prn-qnt$
 	uig	ھەممەيلەن	adv	tur	hep beraber	adv$adv-qnt
@@ -199,8 +205,6 @@ LR	uig	قا	v-iv	tur
 	uig	دىيىشىگە	adv	tur	der demez	adv
 	uig	قىينال	v-iv	tur	acı çek	v-iv
 	uig	ئاچ	v-iv	tur	acık	v-iv
-	uig	قا	v-iv	tur	kal	v-iv$$v
-	uig	كە	v-iv	tur	gel	v-iv$v
 	uig	ھېرىپ كەت	v-iv	tur	yorul	v-iv
 	uig	ھېساپلان	v-iv	tur	sayıl	v-iv
 	uig	چىدا	v-iv	tur	dayan	v-iv
@@ -302,12 +306,12 @@ LR	uig	قا	v-iv	tur
 	uig	رەخت	n	tur	kumaş	n$
 	uig	كېتىش	n	tur	gidiş	n
 	uig	فېننىگ	n	tur	kuruş	n
-	uig	ھېچكىم	prn-pers	tur	kimse	prn-pers
-	uig	بىرى	prn-pers	tur	biri	prn-pers
-	uig	ھېچنېمە	prn-pers	tur	hiçbir şey	prn-pers
+	uig	ھېچكىم	prn-qnt	tur	kimse	prn-qnt$
+	uig	بىرى	prn-misc	tur	biri	prn-ind$$prn$prn-ind-px3pl-nom
+	uig	ھېچنېمە	prn-neg	tur	hiçbir şey	prn-neg
 	uig	جىمجىت	adv	tur	usulca	adv
 	uig	زادىلا	adv	tur	asla	adv
-	uig	نېمىدېگەن	adv	tur	ne	adv$adv-itg
+	uig	نېمىدېگەن	adv	tur	ne	adv-itg$adv
 	uig	راستىنلا	adv	tur	doğrudan	adv
 	uig	ئىختىيارسىز	adv	tur	istemeden	adv
 	uig	نەدىن	adv	tur	nereden	adv
@@ -333,7 +337,6 @@ LR	uig	قا	v-iv	tur
 	uig	چىشلە	v-tv	tur	dişle	v-tv
 	uig	يەپ	v-tv	tur	ye	v-tv$v
 	uig	ئويلان	v-tv	tur	düşün	v-tv$v$
-	uig	قىلات	v-tv	tur	yap	v-tv$v
 	uig	ئاپار	v-tv	tur	apar	v-tv
 	uig	ئاپار	v-tv	tur	götür	v-tv$v
 	uig	چىشلە	v-tv	tur	ısır	v-tv
@@ -351,6 +354,7 @@ LR	uig	ئېرۇر	v-iv-imp	tur	ol	v-iv-fut
 	uig	ئىگىلە	v-tv	tur	oluştur	v-tv
 	uig	ئىگىلىگەن	adj	tur	oluşturan	adj
 	uig	بۈيۈك	adj	tur	büyük	adj$
+	uig	بۈيۈك	adj	tur	yüce	adj$
 	uig	قېتىملىق	adj	tur	seferlik	adj
 	uig	بىپايان	adj	tur	uçsuz bucaksız	adj
 	uig	تاتلىق	adj	tur	tatlı	adj$
@@ -380,7 +384,6 @@ LR	uig	ئېرۇر	v-iv-imp	tur	ol	v-iv-fut
 	uig	يەككە	adj	tur	yalnız	adj$
 	uig	ئېقىلسىز	adj	tur	akılsız	adj
 	uig	ئەقىلسىز	adj	tur	akılsız	adj
-	uig	قىلغۇچى	adj	tur	yapıcı	adj
 	uig	قىلغۇچ	adj	tur	yapan	adj
 	uig	جىڭ	adj	tur	sıkı	adj$$adj-advl
 	uig	ئېقىللىق	adj	tur	akıllı	adj
@@ -650,6 +653,103 @@ LR	uig	ئېرۇر	v-iv-imp	tur	ol	v-iv-fut
 	uig	ئۆتە	v-tv	tur	öde	v-tv$v
 	uig	ئاخىرلاشاتۇر	v-tv	tur	bitir	v-tv
 	uig	ئاخىرلاشاتۇر	v-tv	tur	sonlandır	v-tv
+	uig	نوزۇگۇم	np-ant-f	tur	Nozugum	np-ant-f
+	uig	ئەلبانىي	np-cog-mf	tur	Elbani	np-cog-mf
+	uig	گىتلېر	np-cog-mf	tur	Hitler	np-cog$np$np-cog-mf
+	uig	راۋان	adj	tur	yürürlükte	adj
+	uig	تۈرلى	adj	tur	çeşitli	adj$
+	uig	مەغلۇب	adj	tur	yenik	adj$
+	uig	بۆيۈك	adj	tur	büyük	adj$
+	uig	ئېنىق	adj	tur	açık	adj$
+	uig	رەزىل	adj	tur	rezil	adj$
+	uig	غېرىپ	adj	tur	garip	adj$
+	uig	ئىقتىدارلىق	adj	tur	güçlü	adj$
+	uig	باھالىق	adj	tur	pahalı	adj$
+	uig	غەيرى	adj	tur	gayrı	adj
+	uig	سەللاللاھۇ	ij	tur	sallallahu	ij
+	uig	ياقۇپ	np-ant-m	tur	Yakup	np-ant-m
+	uig	ئەكبەر	np-ant-m	tur	Ekber	np-ant-m
+	uig	ئىندىئان	n	tur	kızılderili	n
+	uig	ئىبىن	n	tur	ibni	n
+	uig	ئۆرنەك	n	tur	örnek	n$
+	uig	قەھرىمانلىق	n	tur	kahramanlık	n
+	uig	كومپيوتېر	n	tur	bilgisayar	n$
+	uig	گۆر	n	tur	mezar	n$
+	uig	قەبرە	n	tur	kabir	n$
+	uig	تۇمۇر	n	tur	tümör	n
+	uig	سالامەت	n	tur	selamet	n
+	uig	ئىبرەت	n	tur	ibret	n
+	uig	دەرۋىش	n	tur	derviş	n$
+	uig	بۇرھانىيە	np-top	tur	Burhaniye	np-top
+	uig	چۇقۇم	adv	tur	kesinlikle	adv
+	uig	بارغانسىرى	adv	tur	gittikçe	adv
+	uig	بېك	adv	tur	pek	adv
+	uig	كۆي	v-iv	tur	yan	v-iv$v
+	uig	بويلا	v-tv	tur	boyla	v-tv
+	uig	ئۇت	v-tv	tur	kazan	v-tv$v
+	uig	ماجە	np-cog-mf	tur	Mace	np-cog-mf
+	uig	ھۇرەيرە	np-cog-mf	tur	Hureyre	np-cog-mf
+	uig	فارابى	np-cog-mf	tur	Farabi	np-cog-mf
+	uig	بۇخارىي	np-cog-mf	tur	Buhari	np-cog-mf
+	uig	نوكىيا	np-org	tur	Nokia	np$np-org
+	uig	ياخۇ	np-org	tur	Yahoo	np-org
+	uig	ۋوردپرەس	np-org	tur	WordPress	np-org
+	uig	زەئىپ	adj	tur	zayıf	adj$
+	uig	پەزىلەتلىك	adj	tur	erdemli	adj
+	uig	كۇپايە	adj	tur	yeterli	adj$
+	uig	نوچى	adj	tur	iyi	adj$
+	uig	نادان	adj	tur	nadan	adj
+	uig	قەتئى	adj	tur	kesin	adj
+	uig	قەتئىي	adj	tur	kesin	adj
+	uig	ئىگىز	adj	tur	uzun	adj$
+	uig	قالايمىقان	adj	tur	şaşkın	$adj
+	uig	ۋاجىب	adj	tur	vacip	adj
+LR	uig	بۇخىل	adj	tur	bu tür	adj
+	uig	ناتايىن	adj	tur	belirsiz	adj$
+	uig	ماركىلىق	adj	tur	markalı	adj
+	uig	كەڭرى	adj	tur	geniş	adj$
+	uig	مەرھابا	ij	tur	merhaba	ij
+	uig	خۇلاسە	ij	tur	hülasa	ij
+	uig	فۇرقان	np-ant-m	tur	Furkan	np$np-ant-m
+	uig	ئەشۇ	det-dem	tur	şu	det-dem$det
+	uig	ياخۇي	n	tur	Yehova	n
+	uig	بىلدۈرگۈ	n	tur	bildirge	n$
+	uig	مەسىھ	n	tur	mesih	n
+	uig	سەھىھۇل	n	tur	sahih-i	n
+	uig	ھەنەفىي	n	tur	Hanefi	n
+	uig	تۇلۇق	n	tur	çark	n$
+	uig	تەرك	n	tur	terk	n$
+	uig	تۈركىزم	n	tur	Türkçülük	n
+	uig	پەزىلەت	n	tur	erdem	n$
+	uig	قەۋم	n	tur	kavim	n
+	uig	ئىستىمال	n	tur	kullanım	n$
+	uig	ئەزان	n	tur	ezan	n
+	uig	تېلفون	n	tur	telefon	n$
+	uig	پۇتۇن	n	tur	bütün	n
+	uig	دەرسلىك	n	tur	kitap	n$
+	uig	كالېندار	n	tur	takvim	n$
+	uig	زىكىر	n	tur	zikir	n
+	uig	تەپسىر	n	tur	tefsir	n
+	uig	بولۇر	n	tur	olur	n
+	uig	ئەۋزەل	n	tur	süs	n$
+	uig	زاكات	n	tur	zekat	n
+	uig	ئەۋلاد	n	tur	evlat	n$
+	uig	رىقابەت	n	tur	rekabet	n$
+	uig	مەغفىرەت	n	tur	mağfiret	n
+	uig	مەغپىرەت	n	tur	mağfiret	n
+	uig	غەلبە	n	tur	galibiyet	n$
+	uig	فونت	n	tur	font	n
+	uig	رۇكۇ	n	tur	rüku	n
+	uig	نوچى	n	tur	kabadayı	n$
+	uig	تورداش	n	tur	sayfadaş	n
+	uig	ۋەھالەنكى	cnjcoo	tur	öyle ki	cnjcoo
+	uig	چۇنكى	cnjcoo	tur	çünkü	cnjcoo
+	uig	ئامىرىكا	np-top	tur	Amerika	np-top$np
+	uig	غەززە	np-top	tur	Gazze	np$np-top
+	uig	دىگۈدەك	adv	tur	nerdeyse	adv
+	uig	دېگۈدەك	adv	tur	nerdeyse	adv
+	uig	كېرەككى	adv	tur	gerek ki	adv
+	uig	ئىپادىلە	v-tv	tur	ifade et	v-tv
 	uig	نىشانلىق	adj	tur	işaretli	adj
 	uig	مەنئى	adj	tur	mani	adj
 	uig	مېتېئورولوگىيەلىك	adj	tur	meteorolojik	adj
@@ -739,9 +839,9 @@ LR	uig	كۈتۈنۈش	n	tur	kendine bakma	n
 	uig	ئۇيۇش	v-iv	tur	örgütlen	v-iv
 	uig	دۇچ بول	v-iv	tur	karşılaş	v-iv$v
 	uig	دۇچ كەل	v-iv	tur	karşılaş	v-iv$v
-	uig	دۇچ كەلگەنلىك	n	tur	karşılaşma	n
+	uig	دۇچ قىل	v-iv	tur	karşılaştır	v-iv
 	uig	ئۇيۇش	v-iv	tur	birleş	v-iv
-	uig	تۈگەت	v-tv	tur	tamamla	v-tv$v
+	uig	تۈگەت	v-tv	tur	sonlandır	v-tv
 	uig	لايىھەلە	v-tv	tur	planla	v-tv$v
 	uig	كاپالەتلەندۈر	v-tv	tur	garantile	v-tv$v
 	uig	يەش	v-tv	tur	çıkar	v-tv$$v
@@ -771,10 +871,9 @@ LR	uig	كۈتۈنۈش	n	tur	kendine bakma	n
 	uig	كېلەر	adj	tur	gelecek	adj
 	uig	مۇبارەك	adj	tur	mübarek	$adj
 	uig	ئىستىراتېگىيەلىك	adj	tur	stratejik	adj$
-	uig	كاتتا	adj	tur	büyük	adj$
+	uig	كاتتا	adj	tur	yüce	adj$
 	uig	ئايلىق	adj	tur	aylık	adj
 	uig	خۇسۇسىي	adj	tur	özel	adj$
-	uig	نازىل	adj	tur	nazil	adj
 	uig	مەھكەم	adj	tur	sağlam	adj$
 	uig	ھارام	adj	tur	haram	adj
 	uig	ئۇچار	adj	tur	uçan	adj
@@ -787,6 +886,7 @@ LR	uig	كۈتۈنۈش	n	tur	kendine bakma	n
 	uig	تائالا	ij	tur	teala	ij
 	uig	ئامىن	ij	tur	amin	ij
 	uig	رەزىيەللاھۇ ئەنھۇ	ij	tur	radıyallahu anh	ij
+	uig	رەزىيەللاھۇ ئەنھۇ	n	tur	radıyallahu anh	n
 	uig	يۇسۇف	np-ant-m	tur	Yusuf	np-ant-m$np$np-ant
 	uig	فەتھۇللاھ	np-ant-m	tur	Fethullah	np$np-ant-m
 	uig	ئەردال	np-ant-m	tur	Erdal	np$np-ant-m
@@ -894,6 +994,7 @@ LR	uig	كۈتۈنۈش	n	tur	kendine bakma	n
 	uig	ئارچېر	np-cog-mf	tur	Archer	np-cog-mf
 	uig	ئارىستوتېل	np-ant-m	tur	Aristoteles	np-ant-m
 	uig	كەنت ئېف ئېم	np-org	tur	Kent FM	np-org
+	uig	مىكروسوفت	np-org	tur	Microsoft	np$np-org
 	uig	نوبىل مۇكاپات	np-org	tur	Nobel Ödül	np-org
 	uig	ت ر ت ئاۋازى	np-org	tur	TRT Avaz	np-org
 	uig	مېھمان رېستورانى	np-org	tur	Mihman Restoranı	np-org
@@ -973,7 +1074,7 @@ LR	uig	كۈتۈنۈش	n	tur	kendine bakma	n
 	uig	نورماندى	np-top	tur	Normandy	np-top
 	uig	قىزىلتاغ	np-top	tur	Kızıldağ	np-top
 	uig	نېمى	prn-pers	tur	ne	prn-pers
-	uig	نەگە	prn-pers	tur	ne	prn-pers
+	uig	نەگە	prn-itg	tur	ne	adv-itg$adv
 	uig	مەڭ	prn-pers	tur	ben	prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-adv
 	uig	ناھايتى	adv	tur	en fazla	adv
 	uig	ناھايتى	adv	tur	olsa olsa	adv
@@ -1082,6 +1183,8 @@ LR	uig	كۈتۈنۈش	n	tur	kendine bakma	n
 	uig	بەشىكتاش	np-top	tur	Beşiktaş	np-top
 	uig	ھەممە	prn-qnt	tur	hep	prn-qnt
 	uig	ھەممى	prn-qnt	tur	hep	prn-qnt
+	uig	ھەممى	prn-qnt	tur	her şey	prn-qnt
+	uig	ھەممە	prn-qnt	tur	her şey	prn-qnt
 	uig	ھەممىسى	prn-qnt	tur	hepsi	prn-qnt
 	uig	ناۋادا	post	tur	ise	post
 	uig	ئاخىرى	adv	tur	sonunda	adv
@@ -1121,7 +1224,7 @@ LR	uig	كۈتۈنۈش	n	tur	kendine bakma	n
 	uig	قىبرىس	np-top	tur	Kıbrıs	np-top
 	uig	ئانادولۇ	np-top	tur	Anadolu	np-top$np
 	uig	مۇنبىچ	np-top	tur	Münbiç	np-top
-	uig	بىرسى	prn-pers	tur	birisi	prn-pers
+	uig	بىرسى	prn-pers	tur	birisi	prn-ind$prn-ind-px3sp-nom
 	uig	توغرۇلۇق	post	tur	hakkında	post
 	uig	بىلەن	post	tur	ile	post
 	uig	توغرۇلۇق	post	tur	için	post$
@@ -1170,16 +1273,19 @@ LR	uig	كۈتۈنۈش	n	tur	kendine bakma	n
 	uig	خەنزۇ	n	tur	Han	n
 	uig	خوجايىن	n	tur	patron	n$
 	uig	بىيۇرو	n	tur	büro	n$
-	uig	رەھمەت	n	tur	teşekkür	n$
+	uig	تەشەككۈر	n	tur	şükran	n$
+	uig	رەھمەت	n	tur	rahmet	n
 	uig	ماركسىزملىق	n	tur	Marksist	n
 	uig	جاۋابكار	n	tur	sorumlu	n$
 	uig	دورىگەر	n	tur	eczacı	n
 	uig	تۇڭ	n	tur	fıçı	n$
+	uig	ماختىنىش	n	tur	övülme	n
 	uig	تەرجىمىھال	n	tur	özgeçmiş	n$
 	uig	ئېلىش	n	tur	alış	n
 	uig	ئەلا	adv	tur	pek iyi	adv
 	uig	تۈزىتىل	v-iv	tur	düzeltil	v-iv
 	uig	تايان	v-iv	tur	dayan	v-iv
+	uig	تايان	v-iv	tur	güven	v-iv
 	uig	مۇجەسسەملە	v-tv	tur	cisimleştir	v-tv
 	uig	تاپقۇز	v-tv	tur	buldur	v-tv
 	uig	تۈزەت	v-tv	tur	düzelt	v-tv
@@ -1214,6 +1320,7 @@ LR	uig	كۈتۈنۈش	n	tur	kendine bakma	n
 	uig	چەكلىمە	n	tur	sınırlama	n
 	uig	تېما	n	tur	tema	n$
 	uig	ئۇچرىشىش	n	tur	karşılaşma	n
+	uig	ئۇچرىشىش	n	tur	kavuşma	n
 	uig	ياۋروپا	np-top	tur	Avrupa	np-top$np
 	uig	ماقالە	n	tur	makale	n$
 	uig	ئەدلىيە	n	tur	adliye	n$
@@ -1376,6 +1483,7 @@ LR	uig	ئۇنداقتا	adv	tur	o	prn-dem$prn-dem-loc
 	uig	دىپلوماتىيە	n	tur	diplomasi	n$
 	uig	ئىشچى	n	tur	işçi	n$
 	uig	زات	n	tur	kişi	n$
+	uig	زات	n	tur	zat	n
 	uig	كىشى	n	tur	kişi	n$
 	uig	قوشۇمچە	n	tur	ek	n$
 	uig	قوللاش	n	tur	destek	n$
@@ -1391,6 +1499,7 @@ LR	uig	ئۇنداقتا	adv	tur	o	prn-dem$prn-dem-loc
 	uig	ئىنتىزام	n	tur	intizam	n
 	uig	تونۇشتۇرۇش	n	tur	takdim	n$
 	uig	قۇرئانى كەرىم	n	tur	Kuran-ı Kerim	n
+	uig	قۇرئان كەرىم	n	tur	Kuran-ı Kerim	n
 	uig	ئوقۇتۇش	n	tur	öğretim	n$
 	uig	يېتىم	n	tur	yetim	n
 	uig	مۇنبەر	n	tur	platform	n$
@@ -1466,6 +1575,7 @@ LR	uig	ئۇنداقتا	adv	tur	o	prn-dem$prn-dem-loc
 	uig	ئا ر	np-org	tur	AR	np-org
 	uig	ي پ گ	np-org	tur	YPG	np-org
 	uig	پ ك ك	np-org	tur	PKK	np-org
+	uig	خاماس	np-org	tur	Hamas	np-org
 	uig	ك ج ك	np-org	tur	KCK	np-org
 	uig	پ ج ك	np-org	tur	PCK	np-org
 	uig	د ھ ك پ – ج	np-org	tur	DHKP-C	np-org
@@ -1540,6 +1650,51 @@ LR	uig	ئۇنداقتا	adv	tur	o	prn-dem$prn-dem-loc
 	uig	دې	v-tv	tur	de	v-tv$v
 	uig	ئورتاقلاش	v-tv	tur	ortaklaş	v-tv
 	uig	ئورتاقلاش	v-tv	tur	paylaş	v-tv$v
+	uig	نەۋائىي	np-cog-mf	tur	Nevai	np-cog-mf
+	uig	ئۇسەيمىن	np-cog-mf	tur	Useymin	np-cog-mf
+	uig	ئىككىنجى	adj	tur	ikinci	adj
+	uig	مالىك	adj	tur	malik	adj
+	uig	جىنسىي	adj	tur	cinsel	adj$
+	uig	يەككە	adj	tur	tekil	adj
+	uig	تۈمەن	adj	tur	tümen	adj
+	uig	مۈمكىن	adj	tur	mümkün	adj$
+	uig	ئىشەنچىلىك	adj	tur	güvenilir	adj$
+	uig	ئىشەنچلىك	adj	tur	güvenilir	adj$
+	uig	ھالقىلىق	adj	tur	halkalı	adj
+	uig	مە	ij	tur	me	ij
+	uig	ئىشقىلىپ	ij	tur	her neyse	ij
+	uig	ئەسسالامۇ	ij	tur	esselamu	ij
+	uig	ئەللامە	np-ant-m	tur	Ellame	np-ant-m
+	uig	زەئىف	np-ant-m	tur	Raif	np-ant-m
+	uig	ئۇمەر	np-ant-m	tur	Ömer	np-ant-m$np-ant$np
+	uig	كەتمەنباي	np-ant-m	tur	Ketmenbay	np-ant-m
+	uig	ئابدۇلئەزىز	np-ant-m	tur	Abdülaziz	np-ant-m$np$np-ant
+	uig	كۆرەش	np-ant-m	tur	Küreş	np-ant-m
+	uig	ئۇشبۇ	det-dem	tur	işbu	det-dem
+	uig	كۆرەش	n	tur	kavga	n$
+	uig	تائالا	n	tur	Teala	n
+	uig	ساھابە	n	tur	sahabe	n
+	uig	سەجدە	n	tur	secde	n
+	uig	كۇنۇپكا	n	tur	düğme	n
+	uig	بىلوگ	n	tur	blog	n
+	uig	شەرھ	n	tur	şerh	n
+	uig	تۇرك	n	tur	Türk	n$n-attr
+	uig	ۋەسەللەم	n	tur	vesselam	n
+	uig	يەر تەۋرىەد	n	tur	deprem	n$
+	uig	يەر تەۋرەش	n	tur	deprem	n$
+	uig	توتېم	n	tur	totem	n
+	uig	تۈمەن	n	tur	tümen	n
+	uig	تەكبىر	n	tur	tekbir	$n
+	uig	روس	n	tur	Rus	n
+	uig	ناسارا	n	tur	İsevî	n
+	uig	غەرپ	n	tur	batı	n$$n-attr
+	uig	ئامرىكا	np-top	tur	Amerika	np-top$np
+	uig	كەبى	post	tur	gibi	post
+LR	uig	بولمىسىمۇ	adv	tur	olmasa da	adv
+	uig	مەخپى	adv	tur	gizlice	adv
+	uig	مەخپىي	adv	tur	gizlice	adv
+	uig	ئاللىبۇرۇن	adv	tur	zaten	adv
+	uig	نازىل بول	v-iv	tur	indiril	v-iv
 	uig	سىڭدۈرۈشچان	adj	tur	emici	adj
 	uig	تەرتىپلىك	adj	tur	düzenli	adj$
 	uig	پاك	adj	tur	pak	adj
@@ -1591,7 +1746,7 @@ LR	uig	ئۇنداقتا	adv	tur	o	prn-dem$prn-dem-loc
 	uig	ھېساب	n	tur	hesap	n$
 	uig	ۋەتەنپەرۋەر	n	tur	vatansever	n$
 	uig	سەپ	n	tur	dikkat	n$
-	uig	شاۋكەت	n	tur	şevket	$n
+	uig	شاۋكەت	n	tur	şevket	n$
 	uig	ئومۇمىيەت	n	tur	umumiyet	n
 	uig	باشلامچى	n	tur	öncü	n$
 	uig	ئورمانچى	n	tur	ormancı	n
@@ -1640,6 +1795,7 @@ LR	uig	ئۇنداقتا	adv	tur	o	prn-dem$prn-dem-loc
 	uig	ئەمەلدار	n	tur	sorumlu	n$
 	uig	ئاكا	n	tur	ağabey	n
 	uig	نەرسە	n	tur	şey	n$$n-itg
+	uig	نەرسە	n	tur	nimet	n$
 	uig	ھاجى	n	tur	hacı	n$
 	uig	چاغان	n	tur	Çin Yeni Yılı	n
 	uig	ياش	n	tur	yaş	n$n-px3sp-loc-attr
@@ -1752,7 +1908,8 @@ LR	uig	بۇندىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	ئۆگەن	v-tv	tur	öğren	v-tv$v
 	uig	ئىزچىللاشتۇر	v-tv	tur	süreklileştir	v-tv
 	uig	مۇكەممەللەشتۈر	v-tv	tur	mükemmelleştir	v-tv
-	uig	قالدۇر	v-tv	tur	kaldır	v-tv
+	uig	قالدۇر	v-tv	tur	bırak	v-tv$v
+	uig	قالدۇر	v-tv	tur	ayır	v-tv$v
 	uig	يەڭگىللە	v-tv	tur	kolaylaştır	v-tv
 	uig	سامسۇڭ	np-org	tur	Samsung	np-org
 	uig	يۇقارقى	adj	tur	yukariki	adj
@@ -1853,6 +2010,7 @@ LR	uig	بۇندىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	ئېيتىڭا	np-ant-m	tur	Aytunga	np-ant-m
 	uig	ئاماننىسا	np-ant-f	tur	Amannisa	np-ant-f
 	uig	مېھرىبان	np-ant-f	tur	Mihriban	np-ant-f
+	uig	مېھرىبان	adj	tur	mihriban	adj
 	uig	ئايخان	np-ant-m	tur	Ayhan	np-ant-m$np$np-ant
 	uig	مەسئۇت	np-ant-m	tur	Mesut	np-ant-m
 	uig	ئايتۇغدى	np-ant-m	tur	Aydoğdu	np$np-ant-m
@@ -1950,10 +2108,11 @@ LR	uig	بۇندىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	نەدە	adv	tur	nerede	adv
 	uig	نەچچەيلەن	adv	tur	ne ile	adv
 	uig	ئەمىسە	adv	tur	böyle	adv$
-	uig	نېمىدە	adv	tur	ne	adv$adv-itg
+	uig	نېمىدە	adv	tur	ne	adv-itg$adv
 	uig	ھۆمۈدەپ	adv	tur	zorlanarak	adv
 	uig	كەمچىل	adv	tur	eksik	adv
 	uig	كېيىنلا	adv	tur	sonradan	adv
+	uig	كېيىنمۇ	adv	tur	sonra da	adv
 	uig	ھەمىشە	adv	tur	her zaman	adv
 	uig	ئاس	adv	tur	muhtemelen	adv
 	uig	گاھى	adv	tur	bazen	adv
@@ -1967,6 +2126,7 @@ LR	uig	بۇندىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	ئېرى	v-iv	tur	eri	v-iv$v
 	uig	ئۆرلە	v-iv	tur	yüksel	v-iv$v
 	uig	ئېگىل	v-iv	tur	eğil	v-iv
+	uig	ناماز ئوقۇ	v-iv	tur	namaz kıl	v-iv
 	uig	ئەسقات	v-iv	tur	yardımcı ol	v-iv
 	uig	ئۆچ	v-iv	tur	sol	v-iv$v
 	uig	ئۆڭ	v-iv	tur	sol	v-iv$v
@@ -2143,6 +2303,8 @@ LR	uig	بۇندىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	قاق	adj	tur	kuru	adj$
 	uig	قۇپقۇرۇق	adj	tur	kupkuru	adj
 	uig	شەكسىز	adj	tur	şüphesiz	adj
+	uig	شەك	n	tur	kuşku	n$
+	uig	شۈبھىسىز	adj	tur	şüphesiz	adj
 	uig	سىلىق	adj	tur	düz	adj
 	uig	سىلىق	adj	tur	pürüzsüz	adj
 	uig	ساناقسىز	adj	tur	hesapsız	adj
@@ -2477,7 +2639,6 @@ LR	uig	بۇندىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	سادا	n	tur	ses	n$
 	uig	ھەركەت	n	tur	hareket	n$
 	uig	ۋەھىمىلىك	n	tur	vehamet	n
-	uig	سوز	n	tur	esnet	n
 	uig	ھەسرەت	n	tur	hasret	n
 	uig	ئەجەپ	n	tur	hayret	n$
 	uig	روھىيەت	n	tur	ruhiyet	n
@@ -2492,7 +2653,7 @@ LR	uig	بۇندىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	سادا	n	tur	yankı	n$
 	uig	ئۇرۇش	n	tur	savaş	n$
 	uig	ھېرىپ	n	tur	savaş	n$
-	uig	ئىككىيلەن	prn-pers	tur	ikisi	prn-pers
+	uig	ئىككىيلەن	prn-misc	tur	iki	num-px3sg
 	uig	ئىتتىك	adv	tur	hızlıca	adv
 	uig	ئەجەپ	adv	tur	iyi	adv
 	uig	ئەجەپ	adv	tur	çok	adv$adv-subst
@@ -2513,7 +2674,6 @@ LR	uig	بۇندىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	يۈر	v-iv	tur	gez	v-iv$$v
 	uig	يۇلا	v-iv	tur	yaklaş	v-iv$v
 	uig	ئۇرۇش	v-iv	tur	savaş	v-iv$v
-	uig	ئېيتىش	v-iv	tur	konuş	v-iv$v
 	uig	ئۇرۇش	v-iv	tur	vuruş	v-iv
 	uig	يۈگۈرۈش	v-iv	tur	koşuş	v-iv
 	uig	ئۇرۇش	v-iv	tur	dövüş	v-iv
@@ -2568,8 +2728,8 @@ LR	uig	بۇندىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	بېقىش	n	tur	bakış	n$
 	uig	پەم	n	tur	anlayış	n$
 	uig	بالاساغۇن	np-top	tur	Balasagun	np-top
-	uig	بىرەيلەن	prn-pers	tur	birileri	prn-pers
-	uig	بىربىر	prn-pers	tur	birbir	prn-pers
+LR	uig	بىرەيلەن	prn-misc	tur	biri	prn-ind$$prn$prn-ind-px3pl-nom
+	uig	بىربىرى	prn-misc	tur	birbiri	prn-recip
 	uig	تۇرۇقلۇق	post	tur	rağmen	post
 	uig	پاللىدا	adv	tur	bir anda	adv
 	uig	ھاسىراپ	adv	tur	zorla	adv
@@ -2697,8 +2857,9 @@ LR	uig	بۇندىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	چۈش	n	tur	düş	n
 	uig	چاۋاك	n	tur	alkış	n$
 	uig	تاسما	n	tur	kayış	n
-	uig	ھېچنىمە	prn-pers	tur	hiçbir şey	prn-pers
+	uig	ھېچنىمە	prn-neg	tur	hiçbir şey	prn-neg
 	uig	ھېچقانچە	prn-qnt	tur	hiç	prn-qnt
+	uig	ھەركىم	prn-qnt	tur	herkes	prn-qnt$
 	uig	تېزلا	adv	tur	çabucak	adv
 	uig	چالا	adv	tur	yarım yamalak	adv
 	uig	تالاي	adv	tur	çok	adv$adv-subst
@@ -2804,7 +2965,7 @@ LR	uig	ئۆزگىرىشچان	adj	tur	değişime açık	adj
 	uig	ئاممىۋىي	adj	tur	kamusal	adj
 	uig	بولغۇچى	adj	tur	olan	adj
 	uig	ئىشلةتكۈچى	adj	tur	yapan	adj
-	uig	*بەرگۈچى	adj	tur	veren	adj
+	uig	بەرگۈچى	adj	tur	veren	adj
 	uig	پاراۋان	adj	tur	zengin	adj$
 	uig	بەختىيار	adj	tur	bahtiyar	adj
 	uig	مەجبور	adj	tur	mecbur	adj$
@@ -2865,7 +3026,6 @@ LR	uig	ئۆزگىرىشچان	adj	tur	değişime açık	adj
 	uig	ئارخې'ئولوگ	n	tur	arkeolog	n$
 	uig	پاراۋانلىق	n	tur	refah	n$
 	uig	بوغالتىرلىق	n	tur	muhasebeci	n
-	uig	بەرگۈچى	n	tur	verici	n$
 	uig	شافىئىي	n	tur	Şafi	n
 	uig	پىداگوگىكا	n	tur	pedagoji	n
 	uig	پېداگوگىكا	n	tur	pedagoji	n
@@ -3012,10 +3172,12 @@ LR	uig	بۇنىڭدىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	تەكىتلى	v-tv	tur	tekit et	v-tv
 	uig	سانى	v-tv	tur	say	v-tv$$v
 	uig	ئەمەس	adj	tur	değil	adj
+	uig	ئۆزىمىز بىلگەن	adj	tur	bildiğimiz	adj
 	uig	ياق	ij	tur	yok	ij
 	uig	ئەي	ij	tur	ey	ij
 	uig	مەيلى	ij	tur	peki	ij
 	uig	پاش	ij	tur	bakınız	ij
+	uig	خەتمە	n	tur	Hatme	n
 	uig	يەسەۋىي	np-cog-mf	tur	Yesevi	np-cog-mf
 	uig	بىلگە	adj	tur	bilge	adj$
 	uig	فىزىكىلىق	adj	tur	fiziki	adj
@@ -3023,7 +3185,7 @@ LR	uig	بۇنىڭدىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	باراۋەر	adj	tur	denk	adj
 	uig	ئاپتونومىيىلىك	adj	tur	özerk	adj$
 	uig	ئاپتونۇم	adj	tur	özerk	adj$
-	uig	مۇقەددەس	adj	tur	kutsal	adj$
+	uig	مۇقەددەس	adj	tur	mukaddes	adj
 	uig	چىرايلىق	adj	tur	güzel	adj$adj-advl
 	uig	سول	adj	tur	sol	adj
 	uig	ھېلىق	adj	tur	bahsedilen	adj
@@ -3060,7 +3222,7 @@ LR	uig	بۇنىڭدىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	سوممىس	n	tur	toplam	n$
 	uig	تېرىلغۇ	n	tur	ekim	n$
 	uig	ئوقۇتقۇچىلىق	n	tur	öğretim	n$
-	uig	ھالەت	n	tur	durum	n$
+	uig	ھالەت	n	tur	hal	n$
 	uig	دولان	n	tur	Dolan	n
 	uig	چارۋا	n	tur	hayvan	n$
 	uig	قازان	n	tur	kazan	n
@@ -3338,11 +3500,14 @@ LR	uig	بۇنىڭدىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	غېنى	adj	tur	bol	adj$
 	uig	ئاشقان	adj	tur	aşan	adj
 	uig	ھەممە	adj	tur	bütün	adj$
+	uig	ھەممە	adj	tur	her	adj
 	uig	غايىب	adj	tur	kayıp	adj$
 	uig	خاس	adj	tur	has	adj$
+	uig	خاس	adj	tur	özel	adj$
 	uig	ئاساس	adj	tur	esas	adj
 	uig	ئۆكتىچى	adj	tur	karşıt	adj$
 	uig	ھەقسىز	adj	tur	haksız	adj
+	uig	مال-ۋارانلار	n	tur	mal mülk	n
 	uig	بىرقانچە	adj	tur	birkaç	adj$
 	uig	ھېچ	adj	tur	hiç	adj
 	uig	تەرەققىي	adj	tur	gelişmiş	adj
@@ -3412,6 +3577,75 @@ LR	uig	بۇنىڭدىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	بېغىشلا	v-tv	tur	bağışla	v-tv
 	uig	ئۇيۇشتۇر	v-tv	tur	düzenle	v-tv$v
 	uig	سۈر	v-tv	tur	sür	v-tv$v
+	uig	بابباراۋەر	adj	tur	eşit	adj$
+	uig	ئوڭايسىز	adj	tur	utandırıcı	adj
+	uig	ئە	ij	tur	e	ij
+	uig	ۋۇي	ij	tur	hey	ij
+	uig	ماۋۇ	det-dem	tur	bu	det-dem$det$det-dem-qnt
+	uig	بىرئاز	det-dem	tur	biraz	det$det-dem
+	uig	ساقا	n	tur	saka	n
+	uig	مېڭىش	n	tur	gitme	n
+	uig	چىۋىن	n	tur	sinek	n
+	uig	جاھىللىق	n	tur	cahillik	n
+	uig	قېرىنداشلىق	n	tur	kardeşlik	n
+	uig	بىردەم	n	tur	bir an	n
+	uig	تەگ	n	tur	taban	n$
+	uig	كارتون	n	tur	karton	n
+	uig	ئىززەت	n	tur	onur	n$
+	uig	مەززە	n	tur	tat	n$
+	uig	ئىززەت	n	tur	izzet	n
+	uig	يىيىش	n	tur	yiyiş	n
+	uig	زاتىدىنلا	adv	tur	doğuştan	adv
+	uig	زاتىدىنلا	adv	tur	kendiliğinden	adv
+	uig	تۇنجۇق	v-iv	tur	boğul	v-iv
+	uig	ئوڭايسىزلان	v-iv	tur	utan	v-iv
+	uig	يان	v-iv	tur	yan	v-iv$v
+	uig	قون	v-iv	tur	kon	v-iv$v
+	uig	قارىش	v-iv	tur	karış	v-iv$$v
+	uig	ئېيتىش	v-tv	tur	de	v-tv$v
+	uig	ئوڭايسىزلا	v-tv	tur	utandır	v-tv
+	uig	سوز	v-tv	tur	uzat	v-tv
+	uig	چاپ	v-tv	tur	oy	v-tv$v
+	uig	چاپ	v-tv	tur	kaz	v-tv$$v
+	uig	چەچ	v-tv	tur	çöz	v-tv$v$v-tv-neg
+	uig	چاپ	v-tv	tur	deş	v-tv
+	uig	دېيىش	v-tv	tur	konuş	v-tv
+	uig	مەشغۇل	adj	tur	meşgul	adj$
+	uig	ئېچىنىشلىق	adj	tur	elim	adj
+	uig	ئېچىنىشلىق	adj	tur	elim	adj
+	uig	كەمبەغەل	adj	tur	fakir	adj$
+	uig	ئىخچام	adj	tur	kompakt	adj
+	uig	ئاچكۆز	adj	tur	aç gözlü	adj
+	uig	ئالما	n	tur	elma	n
+	uig	يوللانما	n	tur	yollanma	n
+	uig	يۈگۈرۈش	n	tur	koşma	n
+	uig	ئاشقازان	n	tur	mide	n$
+	uig	نار	n	tur	deve	n$
+	uig	كەيىپ	n	tur	keyif	n$
+	uig	ئۆچكە	n	tur	keçi	n$
+	uig	ئۆمۈچۈك	n	tur	örümcek	n$
+	uig	ئۆمۈچۈك	n	tur	örümcek	n$
+	uig	مەسەل	n	tur	masal	n$
+	uig	تارام	n	tur	tutam	n
+	uig	ئان	n	tur	an	n$
+	uig	تاپ	n	tur	an	n$
+	uig	كەمپۈت	n	tur	şeker	n$
+	uig	ئەنجۈر	n	tur	incir	n$
+	uig	نەسىھەت	n	tur	nasihat	n$
+	uig	مەرھەمەت	n	tur	merhamet	n$
+	uig	ئۆ	n	tur	Ö	n
+	uig	ئاسانلا	adv	tur	kolayca	adv
+	uig	بىركۈنى	adv	tur	bir gün	adv
+	uig	بۇرۇل	v-iv	tur	burul	v-iv
+	uig	يوللان	v-iv	tur	yollan	v-iv
+	uig	مۆكۈن	v-iv	tur	gizlen	v-iv
+	uig	بېسىق	v-iv	tur	sakinleş	v-iv
+	uig	ئۇرۇن	v-tv	tur	başla	v-tv$v
+	uig	مۆكۈ	v-tv	tur	gizle	v-tv$v$v-tv-pass
+	uig	ئۇرۇن	v-tv	tur	dene	v-tv$v
+	uig	ئوغرىلا	v-tv	tur	çal	v-tv$v
+	uig	مۆكۈۋال	v-tv	tur	gizleyiver	v-tv
+	uig	ئىسسىت	v-tv	tur	ısıt	v-tv$v
 	uig	ئەر	n	tur	koca	n$
 	uig	مۇسابىقە	n	tur	müsabaka	$n
 	uig	توپلاش	n	tur	toplama	n
@@ -3436,6 +3670,7 @@ LR	uig	بۇنىڭدىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	باھانە	n	tur	bahane	n$
 	uig	مۇددەت	n	tur	süre	n$
 	uig	مالىيە	n	tur	maliye	n$
+	uig	مالىيس	n	tur	maliye	n$
 	uig	ۋىزا	n	tur	vize	n$
 	uig	ژۇرنالىست	n	tur	gazeteci	n$
 	uig	ئىستراتېگىيە	n	tur	strateji	n$
@@ -3449,7 +3684,7 @@ LR	uig	بۇنىڭدىن	adv	tur	bu	prn-dem$prn-dem-abl$prn
 	uig	پارىخورلۇق	n	tur	rüşvetçilik	n
 	uig	زوراۋانلىق	n	tur	zalimlik	n
 	uig	ئىگىلىش	n	tur	sahiplik	n
-	uig	ئىتتىپاقلىق	n	tur	birlik	n$
+	uig	ئىتتىپاقلىق	n	tur	beraberlik	n
 	uig	سەھىيە	n	tur	temizlik	n$
 	uig	غۇلغۇلا	n	tur	panik	n$
 	uig	مۇزىكا	n	tur	müzik	n$
@@ -3638,6 +3873,7 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	ئەسكەرت	v-tv	tur	uyar	v-tv$v
 	uig	ئەۋەت	v-tv	tur	gönder	v-tv$$v
 	uig	سورا	v-tv	tur	sor	v-tv$v
+	uig	سورا	v-tv	tur	iste	v-tv$v
 	uig	ئۆلتۈر	v-tv	tur	öldür	v-tv
 	uig	تاشلا	v-tv	tur	at	v-tv$v$
 	uig	ئۆتكۈز	v-tv	tur	taşı	v-tv$v
@@ -3669,7 +3905,7 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	مەسخىرىلىك	adj	tur	alaycı	adj
 	uig	ياپىلاق	adj	tur	yassı	adj$
 	uig	بىرمۇنچە	det-qnt	tur	birçok	det-qnt$det
-	uig	بىرئاز	det-qnt	tur	biraz	det$det-qnt
+	uig	بىرئاز	det-qnt	tur	biraz	det-qnt
 	uig	تازقارا	n	tur	akbaba	n
 	uig	چۈمۈلە	n	tur	karınca	n$
 	uig	چاقچاق	n	tur	şaka	n$
@@ -3713,8 +3949,9 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	قىسقۇچپاقا	n	tur	yengeç	n$
 	uig	يالغانچى	n	tur	yalancı	n
 	uig	مۈشۈكياپىلاق	n	tur	baykuş	n$
-	uig	ئىككىلى	prn-pers	tur	iki	num$num-coll
-	uig	ھىچبىر	det-qnt	tur	hiçbir	det-qnt$det
+	uig	ئىككىلى	prn-qnt	tur	iki	num$num-coll
+	uig	ھىچبىر	det-qnt	tur	hiçbir	det-neg
+	uig	ھېچبىر	det-qnt	tur	hiçbir	det-neg
 	uig	نىمانچە	adv	tur	niye	adv
 	uig	نېمانچە	adv	tur	niye	adv
 	uig	نىمىشقا	adv	tur	neden	adv$adv-itg
@@ -3771,8 +4008,8 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	ئەۋەتىڭ	n	tur	ebediyet	n
 	uig	يۈز	n	tur	yüz	n$
 	uig	تور	n	tur	ağ	n$
-	uig	ئۆز	prn-ref$prn-ref-px3sp	tur	kendi	prn-pers$prn-pers-px3sg
-	uig	ئۆز	prn-ref$prn-ref-px3sp	tur	kendi	prn-pers$prn-pers-px3sg
+	uig	ئۆز	prn-ref	tur	kendi	det-ref
+	uig	ئۆز	prn-ref	tur	kendi	prn-ref$prn$$prn-ref-px3sp
 	uig	ئۇلار	prn-pers	tur	onlar	prn-pers$prn-pers-p3-pl
 	uig	شۇ	prn-pers	tur	şu	prn-pers
 	uig	ھەقتە	post	tur	hakkında	post
@@ -3783,6 +4020,7 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	يەنىمۇ	adv	tur	yine de	adv
 	uig	يەنە	adv	tur	yine	adv
 	uig	ھازىر	adv	tur	şimdi	adv
+	uig	ھازىر	n	tur	şu an	n
 	uig	ئىلگىرى	adv	tur	ileri	adv$
 	uig	تۇتۇل	v-iv	tur	tutul	v-iv
 	uig	كېتىل	v-iv	tur	götürül	v-iv
@@ -3829,13 +4067,14 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	ئالاھىدە	adj	tur	özel	adj$
 	uig	يېقىن	adj	tur	yakın	adj$
 	uig	ئېغىر	adj	tur	ağır	adj$
-	uig	بەزى	adj	tur	bazı	adj$
+	uig	بەزى	det-qnt	tur	bazı	det-qnt$det$
+	uig	بەزى	adj	tur	bazı	adj
 	uig	ئىگە	n	tur	sahip	n$
 	uig	دوكتور	n	tur	doktor	n$
 	uig	سوۋېت	n	tur	Sovyet	n
 	uig	قىلىش	n	tur	davranış	n
 	uig	ھەمدە	cnjcoo	tur	hem de	cnjcoo
-	uig	ھەم	cnjcoo	tur	de	cnjcoo
+	uig	ھەم	cnjcoo	tur	da	cnjcoo
 	uig	يەنى	cnjcoo	tur	yani	cnjcoo
 	uig	رۇسىيە	np-top	tur	Rusya	np-top
 	uig	ئۈرۈمچى	np-top	tur	Urumçi	np-top
@@ -3889,7 +4128,7 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	قالسا	post	tur	sonra	post
 	uig	شۇنداقلا	adv	tur	şu halde	adv
 	uig	ھېساپلا	v-tv	tur	hesapla	v-tv$v
-	uig	ھېساپلىن	v-iv	tur	hesaplan	v-iv
+	uig	ھېساپلان	v-iv	tur	hesaplan	v-iv
 	uig	تەكشۈر	v-tv	tur	incele	v-tv$v
 	uig	تاقى	v-tv	tur	it	v-tv$v
 	uig	شۇنىڭدەك	adj	tur	şunun gibi	adj
@@ -3907,7 +4146,7 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	مەركىزىي	adj	tur	merkezi	adj$
 	uig	ئىقتىسادى	adj	tur	ekonomik	adj$
 	uig	دېموكراتىك	adj	tur	demokratik	adj$
-	uig	ئاشكارا	adj	tur	açık seçik	adj
+	uig	ئاشكارا	adj	tur	aşikâr	adj
 	uig	ئوچۇق	adj	tur	açık	adj$
 	uig	ئاممىۋى	adj	tur	kamusal	adj
 	uig	ئاساسلىق	adj	tur	temel	adj
@@ -3921,7 +4160,7 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	مەجبۇر	adj	tur	mecbur	adj$
 	uig	ئەنە	adj	tur	bizzat	adj
 	uig	ئىبارەت	adj	tur	ibaret	adj$
-	uig	ئائىت	adj	tur	ait	adj
+	uig	ئائىت	adj	tur	ait	adj$
 	uig	مەۋجۇت	adj	tur	mevcut	adj
 	uig	توغرا	adj	tur	doğru	adj$
 	uig	بىكار	adj	tur	işsiz	adj
@@ -3932,6 +4171,7 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	قوراللىق	adj	tur	silahlı	adj
 	uig	داۋاملىق	adj	tur	devamlı	adj
 	uig	تەپسىلىي	adj	tur	detaylı	adj
+	uig	تەپسىلىي	adv	tur	titizlikle	adv
 	uig	ئەينى	adj	tur	aynı	adj$
 	uig	يۇقىرىقى	adj	tur	yukarı	adj
 	uig	ئايرىم	adj	tur	ayrı	adj$
@@ -3954,7 +4194,7 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	مۇھاكىمە	n	tur	muhakeme	$n
 	uig	بىرلەشمە	n	tur	birleşme	n$
 	uig	ئىدارە	n	tur	idare	n$
-	uig	ئاتا	n	tur	hediye	n$
+	uig	ئاتا	n	tur	armağan	n$
 	uig	ئەندىشە	n	tur	endişe	n$
 	uig	ئەتراپ	n	tur	etraf	n$
 	uig	تەكلىپ	n	tur	teklif	n$
@@ -4019,7 +4259,7 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	پەمىدۇر	n	tur	domates	n$
 	uig	كۈندۈز	n	tur	gündüz	n$
 	uig	كەچ	n	tur	geç	n
-	uig	قىلغۇچى	n	tur	yapıcı	n
+	uig	قىلغۇچى	adj	tur	eden	adj
 	uig	تۈركىستانلىق	n	tur	Türkistanlı	n
 	uig	قۇرۇلغانلىق	n	tur	kuruluş	n
 	uig	بېرىش	n	tur	varış	n
@@ -4053,7 +4293,7 @@ LR	uig	بۇنىڭدا	adv	tur	bu	prn-dem-loc
 	uig	ئىسىملىك	adj	tur	isimli	adj
 	uig	ئومۇميۈزلۈك	adj	tur	umumi	adj
 	uig	كۈندىلىك	adj	tur	gündelik	adj
-	uig	كۈنلۈك	adj	tur	günlük	adj$
+	uig	كۈنلۈك	adj	tur	günlük	adj
 	uig	قانۇنىي	adj	tur	yasal	adj$
 	uig	قەدىمىي	adj	tur	kadim	adj
 	uig	دەپسەندە	adj	tur	mazlum	adj$
@@ -4280,6 +4520,7 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	توپراق	n	tur	toprak	n$
 	uig	دۆلەت	n	tur	devlet	n$
 	uig	تىل	n	tur	dil	n$
+	uig	دىل	n	tur	dil	n$
 	uig	شەھەر	n	tur	şehir	n$
 	uig	پايتەخت	n	tur	başkent	n$
 	uig	كۈن	n	tur	gün	n$
@@ -4319,7 +4560,7 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	پۈتكۈل	adj	tur	bütün	adj$
 	uig	يادرو	adj	tur	nükleer	adj$
 	uig	مەشھۇر	adj	tur	meşhur	adj$
-	uig	قاراشلىق	adj	tur	ait	adj
+	uig	قاراشلىق	adj	tur	ait	adj$
 	uig	كوممۇنىست	adj	tur	komünist	adj
 	uig	تىنچ	adj	tur	huzurlu	adj
 	uig	ئاتاقلىق	adj	tur	ünlü	adj$
@@ -4327,6 +4568,7 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	قانلىق	adj	tur	kanlı	adj
 	uig	بومبا	n	tur	bomba	n$
 	uig	تەشۋىق	n	tur	propaganda	n$
+	uig	قاتار	n	tur	ara	n$
 	uig	قاتار	n	tur	sıra	n$
 	uig	شىنخۇا	n	tur	Şinhua	n
 	uig	پارچە	n	tur	parça	n$
@@ -4386,6 +4628,235 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	خەۋپسىزلىك	n	tur	emniyet	n$
 	uig	چاغ	n	tur	vakit	n$
 	uig	ئۈست	n	tur	üst	n$
+	uig	ئۇنىڭدىكى	adj	tur	üzerindeki	adj
+	uig	بەرىكەتلىك	adj	tur	bereketli	adj
+	uig	شانۇ-شەۋكەتلىك	adj	tur	şan u şevketli	adj
+	uig	شەۋكەتلىك	adj	tur	şevketli	adj
+	uig	نېئمەتلىك	adj	tur	nimetli	adj
+	uig	بەرھەق	adj	tur	mutlak	adj$
+	uig	ئادا-جۇدا	adj	tur	uzak	adj$
+	uig	ساخاۋەتلىك	adj	tur	rahman	adj
+	uig	پەرۋىش قىلغۇچى	adj	tur	olduran	adj
+	uig	قىلغۇچى	adj	tur	olduran	adj
+	uig	بەھرىمەن قىلغۇچى	adj	tur	yararlandıran	adj
+	uig	ئاگاھلاندۇرغۇچى	adj	tur	tebliğ eden	adj
+	uig	چىقارغۇچى	adj	tur	getiren	adj
+	uig	ئورونلاشتۇرغۇچى	adj	tur	düzenleyen	adj
+	uig	تۇرغۇچى	adj	tur	gözetleyen	adj
+	uig	روشەنلىك	adj	tur	ruşen	adj
+	uig	غالىب	adj	tur	galip	adj$
+	uig	مۇيەسسەر	adj	tur	müyesser	adj
+	uig	قادىر	adj	tur	kadir	adj$
+	uig	شەك-شۈبھىسىز	adj	tur	şüphe edilmez	adj
+	uig	توسالغۇسىز	adj	tur	sınırsız	adj$
+	uig	بېشارەت بەرگۈچى	adj	tur	müjdeleyen	adj
+	uig	قۇرئانى	adj	tur	Kuranî	adj
+	uig	ھەمدۇ-سانا	n	tur	hamd ü sena	n
+	uig	ئاسمان-زېمىن	n	tur	dünya	n
+	uig	ھەمدۇ	n	tur	hamd	n
+	uig	ئىختىلاپ	n	tur	ihtilaf	n$
+	uig	ئىلتىپات	n	tur	lütuf	n
+	uig	ئاسىي	n	tur	asi	n
+	uig	ۋاران	n	tur	mülk	n$
+	uig	بالا-چاقىسىز	adj	tur	çocuksuz	adj
+	uig	كاتتىلىق	n	tur	büyüklük	n
+	uig	يورۇقلۇق	n	tur	aydınlık	n
+	uig	ئىلك	n	tur	el	n$
+	uig	دىدەك	n	tur	kul	n$
+	uig	بەندە	n	tur	kul	n$
+	uig	كالام	n	tur	kelam	n
+	uig	ئۆچمەنلىك	n	tur	gazap	n
+	uig	قەبرى	n	tur	kabir	n$
+	uig	بىدئەت	n	tur	bidat	n
+	uig	ئىلتىپات	n	tur	lütuf	n
+	uig	شەۋكەت	n	tur	şevket	n$
+	uig	نېئمەت	n	tur	nimet	n$
+	uig	ئۈممەت	n	tur	ümmet	n
+	uig	دۇرۇت	n	tur	hürmet	n$
+	uig	زالالەت	n	tur	zillet	n
+	uig	كەمبەغەللىك	n	tur	fakirlik	n
+	uig	مۇتەشابىھ	n	tur	müteşabih ayet	n
+	uig	مۇھكەم	n	tur	muhkem ayet	n
+	uig	ھىدايەت	n	tur	hidayet	$n
+	uig	كۇكۇلا	n	tur	saç	n$
+	uig	ماختاش	n	tur	övgü	n$
+	uig	مەخلۇقات	n	tur	canlı	n
+	uig	جەسەت	n	tur	ceset	n$
+	uig	ئومۇمىي جەھەتتىن	adv	tur	etraflıca	adv
+	uig	ساڭىلا	adv	tur	yalnız sana	adv
+	uig	ئەتىگەن-ئاخشاملاردا	adv	tur	gece gündüz	adv
+	uig	ھېساب ئال	v-iv	tur	hesap sor	v-iv
+	uig	ئىمان ئېيت	v-iv	tur	iman et	v-iv
+	uig	تەشەككۈر ئېيت	v-iv	tur	teşekkür et	v-iv
+	uig	ھەمدۇ ئېيت	v-iv	tur	hamd et	v-iv
+	uig	ئەمەل قىل	v-iv	tur	uy	v-iv$v
+	uig	باش قوي	v-iv	tur	baş eğ	v-iv
+	uig	يېقىنلاش	v-iv	tur	yakınlaş	v-iv
+	uig	تامام قىل	v-tv	tur	tamamla	v-tv$v
+	uig	بەخش ئەت	v-tv	tur	bağışla	v-tv
+	uig	توسا	v-tv	tur	sakın	v-tv
+	uig	نازىل قىل	v-tv	tur	indir	v-tv
+	uig	يېقىنلاشتۇر	v-tv	tur	yakınlaştır	v-tv
+	uig	كىيىندۈر	v-tv	tur	donat	v-tv$v-tv-p3-sg
+	uig	ئاپىرىدە قىل	v-tv	tur	yarat	v-tv
+	uig	ئېتىقاد قىل	v-tv	tur	kabul et	v-tv$v
+	uig	تەلىم بەر	v-tv	tur	öğret	v-tv$v
+	uig	تىرىلدۈر	v-tv	tur	dirilt	v-tv
+	uig	تىلاۋەت قىل	v-tv	tur	oku	v-tv$v
+	uig	ھەجەر	np-ant-f	tur	Hacer	np-ant-f
+	uig	قەشقەرى	np-cog-mf	tur	Kaşgari	np-cog-mf
+	uig	ئەزھەر	np-cog-mf	tur	Ezher	np-cog-mf
+	uig	ئىدىقۇت	np-cog-mf	tur	İdikut	np-cog-mf
+	uig	ئاۋارە	adj	tur	avare	adj
+	uig	جىددى	adj	tur	ciddi	adj$
+	uig	رېئال	adj	tur	gerçek	adj$
+	uig	ئەھمىيەتلىك	adj	tur	anlamlı	adj
+	uig	باغلىق	adj	tur	bağlı	adj
+	uig	ئەنەس	np-ant-m	tur	Enes	np$np-ant-m
+	uig	ئۇممۇ	np-ant-f	tur	Ümmü	np-ant-f
+	uig	يازما	n	tur	yazma	n$
+	uig	مۇستەملىكە	n	tur	müstemleke	n
+	uig	مۇستەملىكە	n	tur	manda	n
+	uig	مۇستەملىكە	n	tur	sömürge	n$
+	uig	چېكىلىش	n	tur	işleme	n
+	uig	جەمئىيەتشۇناس	n	tur	sosyolog	n$
+	uig	سەئۇدىي	n	tur	Suudi	n
+	uig	جەمئىيەتشۇناسلىق	n	tur	sosyoloji	n
+	uig	ئەنئەنە	n	tur	gelenek	n$
+	uig	چاتاق	n	tur	sorun	n$
+	uig	ئەخلەت	n	tur	çöp	n$
+	uig	ھۈنەر	n	tur	hüner	n
+	uig	تۈمۈر	n	tur	demir	n$
+	uig	ئەسىر	n	tur	esir	n$
+	uig	ئەسىر	n	tur	asır	n$
+	uig	رەكئەت	n	tur	rekat	n
+	uig	خىيانەت	n	tur	hıyanet	n
+	uig	بېيىت	n	tur	beyit	n
+	uig	مۇرشىد	n	tur	mürşit	n
+	uig	پاكىت	n	tur	olgu	n$
+	uig	مۇ	cnjcoo	tur	da	cnjcoo
+	uig	ﺋﻪﻣﻤﺎ	cnjcoo	tur	ama	cnjcoo
+	uig	مەدىنە	np-top	tur	Medine	np-top
+	uig	مۇنداقچە	adv	tur	böylece	adv
+	uig	قەيەردە	adv	tur	nerede	adv
+	uig	دېمەككى	adv	tur	demek ki	adv
+	uig	كىمىكى	adv	tur	kim	adv
+	uig	بۇرۇنلا	adv	tur	önceden	adv
+	uig	نىسپەتەن	adv	tur	nispeten	adv
+	uig	چېكىل	v-iv	tur	işlen	v-iv
+	uig	ئەسىرگە چۈش	v-iv	tur	esir düş	v-iv
+	uig	ئارىلاش	v-iv	tur	karış	v-iv$$v
+	uig	تىزىملەت	v-tv	tur	kaydettir	v-tv
+	uig	ھىسابلات	v-tv	tur	hesaplat	v-tv
+	uig	نەسائىي	np-cog-mf	tur	Nesai	np-cog-mf
+	uig	سىدىق	np-cog-mf	tur	Sıddık	np-cog-mf
+	uig	بۇلۇغۇلمەرام	np-al	tur	Bülüğ'ul Meram	np-al
+	uig	ماددى	adj	tur	maddi	adj
+	uig	ئۆزلۈك	adj	tur	kendi	adj
+	uig	مالىي	adj	tur	mali	adj$
+	uig	شەكىللىك	adj	tur	şekilli	adj
+	uig	يۇشۇرۇن	adj	tur	gizli	adj$
+	uig	پارلاق	adj	tur	parlak	adj$
+	uig	ئۇز	adj	tur	çevik	adj$
+	uig	ئاشكارە	adj	tur	açık	adj$
+	uig	باتىل	adj	tur	batıl	adj$
+	uig	ئۆزلۈك	adj	tur	dönüşlü	adj
+	uig	ئوڭۇشلۇق	adj	tur	başarılı	adj
+	uig	كامىل	np-ant-m	tur	Kamil	np-ant-m
+	uig	سەئىدخان	np-ant-m	tur	Seyidhan	np-ant-m
+	uig	سوقرات	np-ant-m	tur	Sokrates	np-ant-m
+	uig	ئىملا	n	tur	imla	n
+	uig	زىنا	n	tur	zina	n$
+	uig	ئۇستاز	n	tur	usta	n$
+	uig	مەسلە	n	tur	mesele	n$
+	uig	ئېيتىش	n	tur	deme	n
+	uig	ئىستىخارە	n	tur	istihare	n
+	uig	رەددىيە	n	tur	reddiye	n
+	uig	سوۋغا	n	tur	hediye	n$
+	uig	پادىشا	n	tur	padişah	n
+	uig	ابن	n	tur	ibni	n
+	uig	كىسىل	n	tur	hastalık	n$
+	uig	رامزان	n	tur	Ramazan	n
+	uig	يېن	n	tur	yen	n
+	uig	زېمىن	n	tur	zemin	n$
+	uig	ھون	n	tur	Hun	n
+	uig	ساۋاب	n	tur	sevap	n
+	uig	كۈلتۈر	n	tur	kültür	n$
+	uig	ئىخلاس	n	tur	İhlas	n
+	uig	قىياس	n	tur	kıyas	n$
+	uig	ئىجابەت	n	tur	icabet	n
+	uig	مەدىنىيەت	n	tur	medeniyet	n$
+	uig	جىلد	n	tur	cilt	n$
+	uig	قورقۇنچ	n	tur	korku	n$
+	uig	قىلىچ	n	tur	kılınç	n
+	uig	ئوڭۇش	n	tur	başarı	n$
+	uig	بۇلىش	n	tur	oluş	n
+	uig	مەۋجۇتلۇق	n	tur	varoluş	n
+	uig	جاۋا	np-top	tur	Java	np-top
+	uig	كۆپىيىپ	adv	tur	giderek	adv
+	uig	ھەقىقەتەنمۇ	adv	tur	hakikaten	adv
+	uig	ھىسابلان	v-iv	tur	hesaplan	v-iv
+	uig	ھىسابلا	v-tv	tur	hesapla	v-tv$v
+	uig	ئىسپاتلا	v-tv	tur	ispatla	v-tv$v
+	uig	قازان	v-tv	tur	kazan	v-tv$v
+	uig	ئۆچۈر	v-tv	tur	çıkar	v-tv$$v
+	uig	ھەيدە	v-tv	tur	güt	v-tv$v
+	uig	ئەلبانى	np-cog-mf	tur	Elbai	np-cog-mf
+	uig	گېگېل	np-cog-mf	tur	Hegel	np$np-cog-mf
+	uig	پان	np-cog-mf	tur	Pan	np-cog-mf
+	uig	ئوتتۇرغا	adj	tur	ortalama	adj
+	uig	سەھىھ	adj	tur	sahih	adj
+	uig	ئايان	adj	tur	ayan	adj
+	uig	ئەپ	adj	tur	uyumlu	adj
+	uig	ھىچقانداق	adj	tur	hiç	adj
+	uig	ھېچقانداق	adj	tur	hiç	adj
+	uig	ئىپتىدائىي	adj	tur	iptidaî	adj
+	uig	تەپسىلى	adj	tur	detaylı	adj
+	uig	مەنھەج	adj	tur	geniş	adj$
+	uig	لا	ij	tur	la	ij
+	uig	رەھىمەھۇللاھ	ij	tur	rahmanullah	ij
+	uig	ۋەسسەللەم	n	tur	vesselam	n
+	uig	ئەلەيكۇم	ij	tur	aleyküm	ij
+	uig	سەللەللاھۇ	ij	tur	sallallahu	ij
+	uig	رەزىيەللاھۇ	ij	tur	radiyullahu	ij
+	uig	ئەنھۇ	ij	tur	enhu	ij
+	uig	ئەلىشىر	np-ant-m	tur	Ali Şir	np-ant-m
+	uig	نۇسخا	n	tur	nüsha	n$
+	uig	خالاس	n	tur	kurtarma	n$
+	uig	ئېلخەت	n	tur	e-posta	n
+	uig	پەتىۋا	n	tur	fetva	n
+	uig	كود	n	tur	kod	n$
+	uig	ئېنگلىزچە	n	tur	İngilizce	n
+	uig	گۇگول	np-org	tur	Google	np-org
+	uig	گۇگۇل	np-org	tur	Google	np-org
+	uig	بىلىك	n	tur	bilig	n
+	uig	بلوگ	n	tur	blog	n
+	uig	مونولوگ	n	tur	monolog	n
+	uig	مۇھەددىس	n	tur	muhaddis	n
+	uig	ھالاك	n	tur	helak	n
+	uig	بېكەت	n	tur	durak	n$
+	uig	كۈنىلىك	n	tur	günlük	n$
+	uig	ئازسانلىق	n	tur	azınlık	n$
+	uig	ئىقبال	n	tur	ikbal	n
+	uig	كىلىپ	n	tur	klip	$n
+	uig	مىكروسكوپ	n	tur	mikroskop	n
+	uig	ئۇسلۇب	n	tur	üslup	n$
+	uig	دوكتۇر	n	tur	doktor	n$
+	uig	ئادرېس	n	tur	adres	n$
+	uig	تاھارەت	n	tur	taharet	n
+	uig	دەئۋەت	n	tur	davet	n$
+	uig	سوۋىت	n	tur	Sovyet	n
+	uig	سۇئال	n	tur	soru	n$
+	uig	تەپسىلات	n	tur	detay	n$
+	uig	پەرز	n	tur	farz	n$
+	uig	كاشغەرىي	n	tur	Kaşgarlı	n
+	uig	خالاس	n	tur	kurtuluş	n
+	uig	لىكىن	cnjcoo	tur	ama	cnjcoo
+	uig	قاراخانىلار	np-top	tur	Karahanlılar	np-top
+	uig	بولسىمۇ	adv	tur	olsa da	adv
+	uig	باز	adv	tur	yine	adv
+	uig	كىمكى	adv	tur	kim ki	adv
+	uig	بوپ	adv	tur	olup	adv
 	uig	جىنلۇڭ	np-cog-mf	tur	Cinlung	np-cog-mf
 	uig	ئېنلە	np-cog-mf	tur	Enley	np-cog-mf
 	uig	ھەرىكەتلەندۈرگۈچ	adj	tur	ateşleyici	adj
@@ -4627,7 +5098,6 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	روسىيە	np-top	tur	Rusya	np-top
 	uig	جۇڭگۇ	np-top	tur	Çin	np-top
 	uig	پارىژ	np-top	tur	Paris	np-top$np
-	uig	نىمە	prn-pers	tur	ne	prn-pers
 	uig	كەيىن	adv	tur	sonra	adv$
 	uig	پەش	adv	tur	gizlice	adv
 	uig	ئومۇمەن	adv	tur	genellikle	adv
@@ -4842,7 +5312,6 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	جانىۋار	n	tur	canavar	n$
 	uig	قوڭغۇراق	n	tur	çancı	n
 	uig	دۇمباق	n	tur	çan	n$
-	uig	قاش	n	tur	can	n$
 	uig	قوڭغۇراق	n	tur	çan	n$
 	uig	ھۇجۇم	n	tur	hücum	n$
 	uig	ئامال	n	tur	çare	n$
@@ -4873,6 +5342,7 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	كىتابلار	n	tur	cilt	n$
 	uig	جىن	n	tur	cin	n$
 	uig	چىن	adj	tur	gerçek	adj$
+	uig	چىن	adj	tur	tam	adj$
 	uig	جىنس	n	tur	cinsiyet	n$
 	uig	مەھەل	n	tur	civar	n$
 	uig	بالا	n	tur	çocuk	n$
@@ -5013,7 +5483,7 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	ئايرىمچىلىق	n	tur	ayrıcalık	n$
 	uig	مەجبۇرىيەت	n	tur	mecburiyet	n
 	uig	دەۋر	n	tur	çağ	n$
-	uig	مەنسۇپ	n	tur	fatura	n$
+	uig	مەنسۇپ	adj	tur	ait	adj$
 	uig	پايدا	n	tur	fayda	n$
 	uig	قۇربان	n	tur	feda	n$
 	uig	ئاپەت	n	tur	felaket	n$
@@ -5056,6 +5526,7 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	كېمە	n	tur	gemi	n$
 	uig	ياش	n	tur	genç	n
 	uig	ئومۇمىي	n	tur	genel	n
+	uig	ئومۇمىي	adj	tur	umumî	adj
 	uig	ئەر-ئايال	n	tur	karı koca	n
 	uig	گېن	n	tur	gen	n$
 	uig	چىنلىق	n	tur	gerçeklik	n
@@ -5073,14 +5544,14 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	كىيىم	n	tur	giyim	n
 	uig	كىيىم	n	tur	giysi	n$
 	uig	مەيدە	n	tur	göğüs	n$
-	uig	مەيدە	n	tur	mide	n
+	uig	مەيدە	n	tur	mide	n$
 	uig	ئاسمان	n	tur	gök	n$$n-attr
 	uig	ئاسمان	n	tur	gök yüzü	n
 	uig	ئاسمان	n	tur	gökyüzü	n
 	uig	كۆل	n	tur	göl	n$
 	uig	كۆڭلەك	n	tur	gömlek	n
 	uig	ئەلەم	n	tur	elem	n$
-	uig	سۈپەت	n	tur	vasıf	$n
+	uig	سۈپەت	n	tur	sıfat	n$
 	uig	تۇرغۇ	n	tur	durum	n$
 	uig	كۆرسەتكۈچ	n	tur	gösterge	n$
 	uig	كۆرسەتكۈچ	n	tur	karne	$n
@@ -5149,7 +5620,6 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	بىخ	n	tur	hece	n
 	uig	مەقسەت	n	tur	hedef	n$
 	uig	ھاكىم	n	tur	hekim	n$
-	uig	مەنسۇپ	n	tur	hesap	n$
 	uig	جادۇگەر	n	tur	heykel	n$
 	uig	يادنامە	n	tur	heykel	n$
 	uig	ھىدروگېن	n	tur	hidrojen	n$
@@ -5272,7 +5742,7 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	كېپىل	n	tur	kefil	n
 	uig	سۆز	n	tur	kelime	n$
 	uig	كاللەك	n	tur	kesek	n
-	uig	بۆلەكلەر	n	tur	kesim	n$
+	uig	بۆلەك	n	tur	kesim	n$
 	uig	زاپچاس	n	tur	kesim	n$
 	uig	كۆرسەتكۈچ	n	tur	kılavuz	n$
 	uig	شەمشەر	n	tur	kılıç	n$
@@ -5285,7 +5755,7 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	قىمىز	n	tur	kımız	n$
 	uig	راي	n	tur	kip	n
 	uig	كىرپىك	n	tur	kirpik	n
-	uig	بۆلەكلەر	n	tur	kısım	n$
+	uig	بۆلەك	n	tur	kısım	n$
 	uig	زاپچاس	n	tur	kısım	n$
 	uig	ئۈلۈش	n	tur	kısım	n$
 	uig	تەقسىر	n	tur	kişi	n$
@@ -5313,7 +5783,6 @@ LR	uig	ئۇنىڭدىن	adv	tur	o	prn-dem-abl
 	uig	ھال	n	tur	konum	n$
 	uig	راي	n	tur	konum	n$
 	uig	تېما	n	tur	konu	n$
-	uig	تۇرغۇچى	n	tur	konut	n$
 	uig	كۈچۈك	n	tur	köpek	n$
 	uig	ناچار	n	tur	kötülük	n$
 	uig	چېلەك	n	tur	kova	n$
@@ -5426,7 +5895,6 @@ LR	uig	ئىنى	n	tur	kardeş	n$
 	uig	رەت	n	tur	müddet	n
 	uig	مەۋسۈم	n	tur	mühlet	n$
 	uig	ئاپتونومىيە	n	tur	muhtariyet	n
-	uig	بايلىق	n	tur	mülk	n$
 	uig	قۇتلۇق	n	tur	mülk	n$
 	uig	مۈلۈك	n	tur	mülk	n$
 	uig	مۇسۇلمان	n	tur	müslüman	n
@@ -5599,7 +6067,6 @@ LR	uig	ئىنى	n	tur	kardeş	n$
 	uig	قۇشقاچ	n	tur	serçe	n
 	uig	شەرىئەت	n	tur	şeriat	n$
 	uig	شېرىك	n	tur	ortak	n$
-	uig	بايلىق	n	tur	servet	n$
 	uig	تاۋۇش	n	tur	ses	n$
 	uig	ئاۋاز	n	tur	ses	n$
 	uig	ئۈن	n	tur	ün	n$
@@ -5771,7 +6238,6 @@ LR	uig	ئىنى	n	tur	kardeş	n$
 	uig	ۋاقىت	n	tur	vakit	n$
 	uig	رەت	n	tur	vakit	n$
 	uig	مەۋسۈم	n	tur	vakit	n$
-	uig	بايلىق	n	tur	varlık	n$
 	uig	تىرىكچىلىك	n	tur	varlık	n$
 	uig	قۇتلۇق	n	tur	varlık	n$
 	uig	ئۆلۈم	n	tur	vefat	n$
@@ -5852,7 +6318,6 @@ LR	uig	ئىنى	n	tur	kardeş	n$
 	uig	زەيتۇن	n	tur	zeytin	n$
 	uig	پاراسەت	n	tur	zihin	n$
 	uig	زېھىن	n	tur	zihin	n$
-	uig	مەنسۇپ	n	tur	zimmet	n$
 	uig	باش	n	tur	zirve	n$
 	uig	زۇلۇم	n	tur	zulüm	n$
 	uig	رايون	n	tur	rayon	n
@@ -6007,8 +6472,8 @@ LR	uig	ئىنى	n	tur	kardeş	n$
 	uig	كۈلۈمسىرەش	n	tur	gülümseyiş	n
 	uig	قۇش	n	tur	kuş	n$
 	uig	كۈلكە	n	tur	gülüş	n
-	uig	ئۇياق	prn-pers	tur	o taraf	prn-pers
-	uig	ھېچنەرسە	prn-pers	tur	hiçbir şey	prn-pers
+	uig	ئۇياق	prn-adv	tur	o taraf	prn-adv
+	uig	ھېچنەرسە	prn-neg	tur	hiçbir şey	prn-neg
 	uig	ئالدىراش	adv	tur	acele	adv
 	uig	تۇرۇپلا	adv	tur	durup	adv
 	uig	كۈلۈمسىرە	v-iv	tur	gülümse	v-iv$v
@@ -6106,7 +6571,7 @@ LR	uig	ئىنى	n	tur	kardeş	n$
 	uig	زۆرۈر	adj	tur	gerekli	adj$
 	uig	سىستېملى	adj	tur	sistemli	adj
 	uig	چۈشكۈن	adj	tur	kederli	adj
-	uig	يېتەرلىك	adj	tur	yeterli	adj$
+	uig	يېتەرلىك	adj	tur	yeten	adj
 	uig	زەھەرلىك	adj	tur	zehirli	adj
 	uig	كاپالەتلىك	adj	tur	kefaletli	adj
 	uig	دائىمىي	adj	tur	daimi	adj$
@@ -6504,7 +6969,7 @@ LR	uig	ئىنى	n	tur	kardeş	n$
 	uig	ئايدىڭلاشتۇر	v-tv	tur	tanımla	v-tv$v
 	uig	توشۇ	v-tv	tur	taşı	v-tv$v
 	uig	قانائەت	n	tur	kanaat	n$
-	uig	ئىنتىل	v-iv	tur	telaş et	v-iv
+	uig	ئىنتىل	v-iv	tur	yönel	v-iv$v
 	uig	شتامپلا	v-tv	tur	tepele	v-tv
 	uig	يىغ	v-tv	tur	topla	v-tv$$v
 	uig	تۇت	v-tv	tur	tut	v-tv$v

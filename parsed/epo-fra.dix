@@ -96,7 +96,7 @@ LR	epo	abatinejo	n	fra	abbaye	n-f$n
 	epo	abelisto	n	fra	apiculteur	n$n-m
 	epo	abelmanĝulo	n	fra	guêpier	n
 	epo	abelo	n	fra	abeille	n$n-f$n-f-ND
-LR	epo	Abelo	np-ant$np	fra	Abel	np-ant$np$np-ant-m-sg
+LR	epo	Abelo	np-ant$np	fra	Abel	np-ant$np-ant-m-sg$np
 LR	epo	abelreĝino	n	fra	reine	n-f$n$n-f-ND
 LR	epo	abelŝedo	n	fra	rucher	n-m
 LR	epo	abelsvarmo	n	fra	essaim	n-m
@@ -578,8 +578,8 @@ RL	epo	afrik	pref	fra	afro	adj$adj-preadj
 	epo	Afriko	np-loc$np	fra	Afrique	np-loc-f
 	epo	afrik-usona	adj	fra	afro-américain	adj
 	epo	afrik-usonano	n	fra	Afro-américain	n
-LR	epo	Afrodita	np-ant	fra	Aphrodite	np-ant$np$np-ant-f-sg
-	epo	Afrodito	np-ant	fra	Aphrodite	np-ant$np$np-ant-f-sg
+LR	epo	Afrodita	np-ant$np	fra	Aphrodite	np-ant$np$np-ant-f-sg
+	epo	Afrodito	np-ant$np	fra	Aphrodite	np-ant$np$np-ant-f-sg
 	epo	afto	n	fra	aphte	n-m
 	epo	aftozo	n	fra	fièvre aphteuse	n-f
 	epo	afusto	n	fra	affût	n-m
@@ -671,7 +671,7 @@ RL	epo	agronutra	adj	fra	agro-alimentaire	adj-mf$adj
 	epo	aha	ij	fra	aha	ij
 	epo	aha	ij	fra	tiens-tiens	ij
 	epo	aĥi	vblex	fra	pousser	vblex
-	epo	Aĥilo	np-ant$np	fra	Achille	np$np-ant$np-ant-m-sg
+	epo	Aĥilo	np$np-ant	fra	Achille	np$np-ant$np-ant-m-sg
 	epo	aidoso	n	fra	sida	n-m$n$n-m-ND
 	epo	aidosulo	n	fra	sidéen	n
 RL	epo	aidosulo	n	fra	sidatique	n
@@ -1225,7 +1225,7 @@ LR	epo	alkutimigi	vbtr	fra	habituer	vblex
 LR	epo	allasebleco	n	fra	admissibilité	n-f
 	epo	allasi	vbtr	fra	laisser	vblex
 	epo	Alliance Boots	np-al	fra	Alliance Boots	np-al-mf
-	epo	Allianz	np-al	fra	Allianz	np$np-al-mf
+	epo	Allianz	np-al	fra	Allianz	np$np-al$np-al-mf
 	epo	Allier	np-loc	fra	Allier	np$np-loc-f
 LR	epo	alligi	vbtr	fra	attacher	vblex
 	epo	alloga	adj	fra	attractif	adj$adj-GD-ND
@@ -1297,7 +1297,7 @@ LR	epo	alprunti	vbtr	fra	prêter	vblex
 	epo	alrigidiĝi	vbntr	fra	cramponner	vblex
 	epo	alrigidiĝi	vbntr	fra	crisper	vblex
 LR	epo	alŝtatigo	n	fra	nationalisation	n-f$n
-	epo	Alsthom	np-al	fra	Alsthom	np$np-al-mf
+	epo	Alsthom	np-al	fra	Alsthom	np$np-al$np-al-mf
 	epo	Alstom	np-al	fra	Alstom	np$np-al$np-al-mf
 	epo	alta	adj	fra	élevé	adj$adj-GD-ND
 	epo	alta	adj	fra	haut	adj$adj-GD-ND
@@ -1447,7 +1447,7 @@ LR	epo	ambasadorejo	n	fra	ambassade	n$n-f$n-f-ND
 	epo	ambaŭdirekta implikacio	n	fra	équivalence	n-f$n
 	epo	ambaŭseksa	adj	fra	bisexué	adj
 	epo	ambaŭseksa	adj	fra	des deux sexes	adj
-	epo	ambaŭseksema	adj	fra	bisexuel	adj$
+	epo	ambaŭseksema	adj	fra	bisexuel	$adj
 	epo	ambaŭseksemeco	n	fra	bisexualité	n-f$n
 	epo	ambaŭseksemulo	n	fra	bisexuel	n
 LR	epo	ambaŭseksulo	n	fra	androgyne	n-f
@@ -2231,7 +2231,7 @@ LR	epo	aplikado	n	fra	application	n$n-f$n-f-ND
 	epo	apokrifo	n	fra	apocryphe	n-m
 	epo	apologio	n	fra	apologie	n-f$n$n-f-ND
 	epo	apologo	n	fra	apologue	n$n-m
-	epo	Apolono	np-ant	fra	Apollon	np-ant$np-ant-m-sg
+	epo	Apolono	np-ant	fra	Apollon	np-ant-m-sg$np-ant
 	epo	apopleksio	n	fra	apoplexie	n-f
 	epo	apopleksio	n	fra	ictus apoplectique	n-m
 	epo	apostata	adj	fra	apostat	adj$adj-f
@@ -2892,7 +2892,7 @@ LR	epo	Aŭgusto	np-ant$np	fra	Auguste	np-ant-m-sg$np-ant
 	epo	aŭko	n	fra	petit pingouin	n-m
 	epo	Aulnay-sous-Bois	np-loc	fra	Aulnay-sous-Bois	np-loc-f
 	epo	aŭlo	n	fra	salle	n-f$n$n-f-ND
-	epo	Aŭreliano	np$np-ant	fra	Aurélien	np$np-ant$np-ant-m-sg
+	epo	Aŭreliano	np$np-ant	fra	Aurélien	np$np-ant-m-sg$np-ant
 	epo	aŭreolo	n	fra	auréole	n-f
 	epo	aŭriklo	n	fra	oreillette	n-f
 	epo	aŭrikulo	n	fra	auricule	n-f
@@ -3071,7 +3071,7 @@ RL	epo	azi	pref	fra	asiatico	adj$adj-preadj
 	epo	azilpetanto	n	fra	demandeur	n$n-f
 	epo	azilrajto	n	fra	droit	n-m$n$n-m-ND
 	epo	azimuto	n	fra	azimut	n-m
-	epo	Azio	np-loc$np	fra	Asie	np-loc-f
+	epo	Azio	np$np-loc	fra	Asie	np-loc-f
 	epo	azotacido	n	fra	acide nitrique	n-m
 	epo	azoto	n	fra	azote	n$n-m
 	epo	Azova Maro	np-loc$np	fra	mer d'Azov	np$np-loc-f
@@ -3081,7 +3081,7 @@ RL	epo	azi	pref	fra	asiatico	adj$adj-preadj
 	epo	azuleĥo	n	fra	azulejo	n-m
 	epo	ba	ij	fra	bah	ij
 	epo	ba	ij	fra	tiens	ij
-	epo	b	n-acr$n	fra	b	n$n-m$n-acr-m
+	epo	b	n-acr	fra	b	n$n-m$n-acr-m
 	epo	babao	n	fra	baba	n-m
 	epo	Babelo	np-loc$np	fra	Babel	np-loc-f
 	epo	Babelturo	np$np-al	fra	tour de Babel	np$np-al-mf
@@ -3481,7 +3481,7 @@ LR	epo	baziĝi	vbntr	fra	baser	vblex
 	epo	bazilio	n	fra	pistou	n-m
 LR	epo	bazilisko	n	fra	basilic	n-m
 LR	epo	Bazilo	np$np-ant	fra	Basile	np-cog-mf-sp$np
-LR	epo	Bazilo	np$np-ant	fra	Basilio	np$np-ant$np-ant-m-sg
+LR	epo	Bazilo	np$np-ant	fra	Basilio	np$np-ant-m-sg$np-ant
 	epo	bazo	n	fra	base	n-f$n$n-f-ND
 	epo	bazotrunko	n	fra	porte-greffe	n-m
 LR	epo	bazpilkado	n	fra	base-ball	n$n-m$n-m-sg
@@ -3545,7 +3545,7 @@ LR	epo	beletristo	n	fra	écrivain	n$n-m
 	epo	Belfasto	np-loc	fra	Belfast	np-loc-f
 	epo	Belfort	np-loc	fra	Belfort	np-loc-f
 	epo	belga	adj	fra	belge	adj$adj-mf-ND$adj-mf
-	epo	Belgio	np-loc$np	fra	Belgique	np-loc-f
+	epo	Belgio	np$np-loc	fra	Belgique	np-loc-f
 	epo	belgo	n	fra	Belge	n$n-mf
 	epo	belgrajno	n	fra	grain	n-m$n$n-m-ND
 	epo	beligaĵo	n	fra	embellissement	n-m
@@ -3570,7 +3570,7 @@ LR	epo	bendo	n	fra	cassette	n-f$n$n-f-ND
 LR	epo	bendo	n	fra	ruban	n-m$n-m-ND
 	epo	benedikta	adj	fra	bénédictin	adj
 	epo	benediktano	n	fra	bénédictin	n$n-m
-LR	epo	Benedikto	np-ant$np	fra	Benoit	np$np-ant$np-ant-m-sg
+LR	epo	Benedikto	np-ant$np	fra	Benoit	np$np-ant-m-sg$np-ant
 LR	epo	Benedikto	np-ant$np	fra	Benoît	np-ant-m-sg$np-ant$np
 	epo	benefico	n	fra	spectacle	n-m$n$n-m-ND
 	epo	beneficulo	n	fra	bénéficiaire	n$n-mf
@@ -3578,8 +3578,8 @@ LR	epo	Benedikto	np-ant$np	fra	Benoît	np-ant-m-sg$np-ant$np
 	epo	Bengalio	np-loc	fra	Bengale	np$np-loc-f
 	epo	bengalo	n	fra	Bengali	n
 	epo	beni	vbtr	fra	bénir	vblex
-	epo	benina	adj	fra	béninois	adj-GD-ND$adj
-	epo	beninano	n	fra	Béninois	n-m-sp$n
+	epo	benina	adj	fra	béninois	adj$adj-GD-ND
+	epo	beninano	n	fra	Béninois	n$n-m-sp
 	epo	Benino	np$np-loc	fra	Bénin	np-loc-f
 LR	epo	Benjamen	np-ant	fra	Benjamin	np-ant$np$np-ant-m-sg
 LR	epo	Benjameno	np-ant	fra	Benjamin	np-ant$np$np-ant-m-sg
@@ -3631,7 +3631,7 @@ LR	epo	Bernardo	np-ant$np	fra	Bernard	np-ant-m-sg$np$np-ant
 	epo	Berno	np-loc	fra	Berne	np$np-loc-f
 	epo	bero	n	fra	baie	n-f$n$n-f-ND
 	epo	berserko	n	fra	berserk	n-m
-	epo	Bertelsmann	np-al	fra	Bertelsmann	np$np-al-mf
+	epo	Bertelsmann	np-al	fra	Bertelsmann	np$np-al$np-al-mf
 LR	epo	Bertrando	np$np-ant	fra	Bertrand	np-ant$np$np-ant-m-sg
 	epo	Besançon	np-loc	fra	Besançon	np-loc-f
 	epo	Besançon-a	adj	fra	bisontin	adj
@@ -4256,7 +4256,7 @@ LR	epo	brido	n	fra	bride	n-f
 	epo	brikoli	vblex	fra	bricoler	vblex
 	epo	brila	adj	fra	brillant	adj$adj-GD-ND$adj-GD
 	epo	brila	adj	fra	éclatant	adj$adj-f
-	epo	brila	adj	fra	luisant	adj-f$adj
+	epo	brila	adj	fra	luisant	adj$adj-f
 	epo	brileco	n	fra	brillance	n-f
 	epo	brili	vbntr	fra	briller	vblex
 	epo	brili	vbntr	fra	luire	vblex
@@ -4366,7 +4366,7 @@ LR	epo	brulvundi	vbtr	fra	blesser	vblex
 	epo	brusela	adj	fra	bruxellois	adj
 	epo	bruselano	n	fra	Bruxellois	n
 	epo	bruselbrasiko	n	fra	chou	n-m
-	epo	Bruselo	np-loc$np	fra	Bruxelles	np$np-loc$np-loc-f
+	epo	Bruselo	np$np-loc	fra	Bruxelles	np$np-loc$np-loc-f
 	epo	Bruselo-Ĉefurbo	np-loc	fra	Bruxelles-Capitale	np-loc-f
 	epo	bruske	adv	fra	brusquement	adv
 LR	epo	brustaĵo	n	fra	poitrine	n-f$n-f-ND
@@ -4526,7 +4526,7 @@ LR	epo	burokratio	n	fra	bureaucratie	n$n-f
 	epo	burokrato	n	fra	bureaucrate	n
 	epo	burokrato	n	fra	employé	n$n-m-pl$n-m
 LR	epo	burso	n	fra	bourse	n-f$n$n-f-ND
-	epo	burunda	adj	fra	burundais	adj-GD-ND$adj
+	epo	burunda	adj	fra	burundais	adj$adj-GD-ND
 	epo	burundano	n	fra	Burundais	n-m-sp$n
 	epo	Burundo	np-loc$np	fra	Burundi	np-loc-f
 	epo	buŝa	adj	fra	buccal	adj
@@ -5543,7 +5543,7 @@ LR	epo	dajmono	n	fra	démon	n-m$n$n-m-ND
 	epo	daktilo	n	fra	dactyle	n-m
 	epo	daktilo	n	fra	datte	n-f
 LR	epo	daktilujo	n	fra	dattier	n-m
-	epo	da	n$	fra	da	
+	epo	da	adj$	fra	da	
 	epo	dalio	n	fra	dahlia	n-m
 	epo	dalmatiko	n	fra	dalmatique	n-f
 	epo	daltonismo	n	fra	daltonisme	n-m
@@ -5555,7 +5555,7 @@ LR	epo	daktilujo	n	fra	dattier	n-m
 	epo	damaski	vblex	fra	damasser	vblex
 	epo	damasko	n	fra	damas	n-m
 	epo	Damasko	np-loc$np	fra	Damas	np-loc-f
-LR	epo	Damiano	np$np-ant	fra	Damien	np$np-ant$np-ant-m-sg
+LR	epo	Damiano	np$np-ant	fra	Damien	np-ant-m-sg$np$np-ant
 	epo	damludo	n	fra	jeu	n-m$n$n-m-ND
 	epo	Dammarie-lès-Lys	np-loc	fra	Dammarie-lès-Lys	np-loc-f
 	epo	Damme	np-loc	fra	Damme	np-loc-f
@@ -5825,7 +5825,7 @@ LR	epo	deiri	vbntr	fra	partir	vblex
 LR	epo	deiri	vbntr	fra	quitter	vblex
 	epo	deismo	n	fra	déisme	n-m
 	epo	deĵeti	vbtr	fra	laisser	vblex
-	epo	Dejmo	np-loc$np	fra	Deimos	np-loc
+	epo	Dejmo	np$np-loc	fra	Deimos	np-loc
 	epo	deĵora	adj	fra	de garde	adj
 	epo	deĵora	adj	fra	de service	adj
 	epo	deĵori	vbntr	fra	être	vblex$vblex-pp
@@ -7367,7 +7367,7 @@ LR	epo	duopo	n	fra	duo	n-m$n
 	epo	duŝo	n	fra	douche	n-f$n$n-f-ND
 LR	epo	duto	n	fra	seconde	n-f$n-f-ND
 	epo	duuma	adj	fra	binaire	adj$adj-mf
-	epo	DVD	n$n-acr	fra	DVD	n-acr$n-acr-m-sg$n-acr-m
+	epo	DVD	n-acr$n	fra	DVD	n-acr$n-acr-m-sg$n-acr-m
 	epo	DZ	np-al	fra	DZ	np-al-mf
 	epo	DZ Bank	np-al	fra	DZ Bank	np-al-mf
 	epo	EADS	np-al	fra	EADS	np-al-mf
@@ -7852,7 +7852,7 @@ LR	epo	eksterlando	n	fra	étranger	n$n-m$n-m-ND
 	epo	eksterordinara	adj	fra	extraordinaire	adj-mf$adj$adj-mf-ND
 RL	epo	eksterordinara	adj	fra	formidable	adj$adj-mf
 RL	epo	eksterordinare	adv	fra	formidablement	adv
-LR	epo	eksterpartia	adj	fra	impartial	adj$adj-f
+LR	epo	eksterpartia	adj	fra	impartial	adj$adj-f$
 LR	epo	eksterpartia	adj	fra	neutre	adj$adj-mf-ND
 	epo	eksterpoli	vblex	fra	extrapoler	vblex
 	epo	ekstertema	adj	fra	hors-sujet	adj
@@ -7910,7 +7910,7 @@ LR	epo	eksulo	n	fra	ancien	n$n-f-ND
 	epo	ekumena koncilio	n	fra	concile œcuménique	n-m
 	epo	ekvaciaro	n	fra	système	n-m$n$n-m-ND
 	epo	ekvaciigi	vbtr	fra	mettre	vblex
-	epo	ekvacio	n	fra	équation	n-f$n$n-f-ND
+	epo	ekvacio	n	fra	équation	n$n-f$n-f-ND
 	epo	Ekvadoro	np-loc$np	fra	Equateur	np$np-loc-f
 	epo	Ekvadoro	np-loc$np	fra	Équateur	np-loc-f
 	epo	ekvalidi	vblex	fra	entrer	vblex
@@ -8198,7 +8198,7 @@ LR	epo	elirvojo	n	fra	issue	n-f$n$n-f-ND
 	epo	elitismo	n	fra	élitisme	n-m
 	epo	elito	n	fra	élite	n-f$n
 	epo	elitro	n	fra	élytre	n-m
-LR	epo	Eliza	np-ant	fra	Elisa	np-ant$np$np-ant-f-sg
+LR	epo	Eliza	np-ant	fra	Elisa	np-ant$np-ant-f-sg$np
 	epo	elizea	adj	fra	élyséen	adj
 	epo	elizeano	n	fra	élyséen	n
 	epo	Elizeo	np-loc-sg$np-loc	fra	Élysée	np$np-loc-f
@@ -9103,11 +9103,11 @@ LR	epo	etudo	n	fra	étude	n-f$n-f-ND
 	epo	eŭforigilo	n	fra	euphorisant	n-m
 	epo	eŭforiiga	adj	fra	euphorisant	adj$adj-f
 	epo	eŭforio	n	fra	euphorie	n-f$n$n-f-ND
-	epo	Eŭfrato	np-loc$np	fra	Euphrate	np$np-loc-f
+	epo	Eŭfrato	np$np-loc	fra	Euphrate	np$np-loc-f
 	epo	eŭgeniko	n	fra	eugénique	n-f
 	epo	eŭgeniko	n	fra	eugénisme	n-m
 LR	epo	Eŭgeno	np$np-ant	fra	Eugène	np-ant$np$np-ant-m-sg
-LR	epo	Eŭgeno	np$np-ant	fra	Eugenio	np$np-ant$np-ant-m-sg
+LR	epo	Eŭgeno	np$np-ant	fra	Eugenio	np-ant-m-sg$np$np-ant
 LR	epo	eŭĥaristio	n	fra	eucharistie	n-f
 	epo	eŭkalipto	n	fra	eucalyptus	n-m
 	epo	eŭkaristio	n	fra	eucharistie	n-f
@@ -9519,7 +9519,7 @@ LR	epo	farti	vbntr	fra	porter	vblex
 	epo	farunaĵo	n	fra	bouillie	n-f
 	epo	faruno	n	fra	farine	n$n-f
 	epo	fasado	n	fra	façade	n-f$n$n-f-ND
-	epo	fascina	adj	fra	fascinant	adj-f$adj
+	epo	fascina	adj	fra	fascinant	adj$adj-f
 	epo	fascini	vblex	fra	fasciner	vblex
 	epo	fascino	n	fra	fascination	n-f$n
 	epo	fasĉino	n	fra	fascine	n-f
@@ -9842,7 +9842,7 @@ RL	epo	fiasko	n	fra	ratage	n-m
 	epo	fie	adv	fra	méprisablement	adv
 	epo	fiera	adj	fra	fier	adj$adj-GD-ND
 	epo	fiera	adj	fra	hautain	adj
-	epo	fiera	adj	fra	orgueilleux	adj-f$adj
+	epo	fiera	adj	fra	orgueilleux	adj$adj-f
 	epo	fiere	adv	fra	orgueilleusement	adv
 LR	epo	fiereco	n	fra	fierté	n-f
 	epo	fieri	vbntr	fra	être	vblex$vblex-pp
@@ -9855,9 +9855,9 @@ LR	epo	fiereco	n	fra	fierté	n-f
 	epo	fifro	n	fra	piccolo	n-m
 	epo	fifro	n	fra	picolo	n-m
 	epo	figarbo	n	fra	figuier	n-m$n
-	epo	fiĝia	adj	fra	fidjien	adj-GD-ND$adj
+	epo	fiĝia	adj	fra	fidjien	adj$adj-GD-ND
 	epo	fiĝiano	n	fra	Fidjien	n$n-m
-	epo	Fiĝioj	np-loc	fra	Fidji	np$np-loc-f
+	epo	Fiĝioj	np-loc	fra	Fidji	np-loc-f
 	epo	figo	n	fra	figue	n-f
 	epo	figokakto	n	fra	figuier	n-m$n
 LR	epo	figujo	n	fra	figuier	n-m$n
@@ -10312,7 +10312,7 @@ LR	epo	flusi	vblex	fra	monter	vblex
 	epo	fluto	n	fra	flûte	n-f$n
 	epo	FNAC	np-al	fra	FNAC	np-al-mf
 	epo	fobio	n	fra	phobie	n-f$n
-	epo	Fobo	np-loc$np	fra	Phobos	np-loc-f
+	epo	Fobo	np$np-loc	fra	Phobos	np-loc-f
 	epo	foino	n	fra	fouine	n-f
 	epo	foira	adj	fra	forain	adj
 	epo	foirejo	n	fra	champ	n-m$n$n-m-ND
@@ -10880,7 +10880,7 @@ RL	epo	fridujo	n	fra	frigo	n-m
 	epo	fripono	n	fra	escroc	n-m$n
 	epo	fripono	n	fra	fripon	n
 	epo	frisa	adj	fra	frison	adj-GD-ND$adj
-	epo	Frisio	np-loc$np	fra	Frise	np$np-loc-f
+	epo	Frisio	np$np-loc	fra	Frise	np$np-loc-f
 	epo	friso	n$n-m	fra	Frison	n$n-m
 RL	epo	friso	n$n-m	fra	frise	n-f
 	epo	fritaĵo	n	fra	friture	n-f
@@ -11145,7 +11145,7 @@ LR	epo	fuziliero	n	fra	fusilier	n-m
 	epo	g	n-acr	fra	g	n$n-m$n-acr-m
 	epo	gabio	n	fra	gabion	n-m
 	epo	gabona	adj	fra	gabonais	adj$adj-GD-ND
-	epo	gabonano	n	fra	Gabonais	n-m-sp$n
+	epo	gabonano	n	fra	Gabonais	n$n-m-sp
 	epo	Gabono	np-loc$np	fra	Gabon	np-loc-f
 LR	epo	Gabrielo	np-ant	fra	Gabriel	np-ant$np$np-ant-m-sg
 	epo	gadedo	n	fra	gadidé	n-m
@@ -11439,7 +11439,7 @@ RL	epo	gazetisto	n	fra	journaliste	n$n-mf$n-mf-ND
 LR	epo	ĝazo	n	fra	jazz	n-m$n$n-m-sp
 	epo	gazono	n	fra	gazon	n-m
 	epo	gazono	n	fra	pelouse	n-f$n$n-f-ND
-	epo	Gazprom	np-al	fra	Gazprom	np$np-al-mf
+	epo	Gazprom	np-al	fra	Gazprom	np$np-al$np-al-mf
 	epo	GB	n-acr	fra	GB	n-acr-m
 	epo	Gbajto	n	fra	Goctet	n-m
 	epo	GDF	np-al	fra	GDF	np$np-al-mf
@@ -11609,7 +11609,7 @@ LR	epo	genro	n	fra	genre	n-m$n$n-m-ND
 	epo	ĝentilhomo	n	fra	gentilhomme	n-m$n
 	epo	ĝentlemano	n	fra	gentleman	n-m
 	epo	gento	n$n-pl	fra	peuplade	n-f
-	epo	Gento	np-loc$np	fra	Gand	np-loc-f
+	epo	Gento	np$np-loc	fra	Gand	np-loc-f
 LR	epo	gento	n$n-pl	fra	lignée	n-f$n-f-ND
 LR	epo	gento	n$n-pl	fra	peuple	n$n-m$n-m-ND
 LR	epo	gento	n$n-pl	fra	race	n$n-f$n-f-ND
@@ -11678,7 +11678,7 @@ LR	epo	Georgo	np-ant$np	fra	Georges	np-ant-m-sg$np-ant$np
 LR	epo	geotrupo	n	fra	géotrupe	n-f
 	epo	gepardo	n	fra	guépard	n-m
 	epo	gepatra	adj	fra	parental	adj
-	epo	gepatroj	n-pl$n	fra	parent	n-m$n$n-m-pl
+	epo	gepatroj	n$n-pl	fra	parent	n-m$n$n-m-pl
 LR	epo	gepostnepoj	n	fra	arrière-petits-enfants	n-m
 LR	epo	gepraavoj	n	fra	arrière-grands-parents	n-m
 LR	epo	gepranepoj	n	fra	arrière-petits-enfants	n-m
@@ -11951,7 +11951,7 @@ RL	epo	globkrajono	n	fra	stylo	n-m$n
 	epo	glora	adj	fra	glorieux	adj-m-sp$adj
 	epo	glora	adj	fra	illustre	adj$adj-mf-ND
 LR	epo	gloramo	n	fra	ambition	n$n-f
-LR	epo	gloravida	adj	fra	orgueilleux	adj-f$adj
+LR	epo	gloravida	adj	fra	orgueilleux	adj$adj-f
 LR	epo	gloravide	adv	fra	orgueilleusement	adv
 	epo	glore	adv	fra	glorieusement	adv
 	epo	glori	vbtr	fra	glorifier	vblex
@@ -11983,7 +11983,7 @@ LR	epo	gluilo	n	fra	colle	n-f$n
 	epo	glukozo	n	fra	glucose	n-f
 	epo	glumo	n	fra	glume	n-f
 	epo	gluo	n	fra	colle	n-f$n
-	epo	glutamato	$n	fra	glutamate	n-m
+	epo	glutamato	n$	fra	glutamate	n-m
 	epo	glutejo	n	fra	gosier	n-m
 	epo	glutema	adj	fra	glouton	adj
 	epo	glutemulo	n	fra	glouton	n$n-m
@@ -12011,7 +12011,7 @@ LR	epo	gnomo	n$n-m	fra	nain	n$n-m
 	epo	gnozo	n	fra	gnose	n-f
 	epo	GNU	np-al$np	fra	GNU	np-al-mf
 	epo	gnuo	n	fra	gnou	n-m
-	epo	Go	n$n-acr	fra	Go	n-acr-m
+	epo	Go	n-acr	fra	Go	n-acr-m
 	epo	gobango	n	fra	morpion	n-m
 LR	epo	gobeleno	n	fra	tapisserie	n-f$n$n-f-ND
 LR	epo	gobelino	n	fra	tapisserie	n-f$n$n-f-ND
@@ -12144,8 +12144,8 @@ LR	epo	Granda Fasto	np$np-al	fra	carême	n-m$n-m-ND
 	epo	Granda Oriento	np-loc	fra	Grand Est	np-loc-f
 	epo	granda pando	n	fra	panda géant	n-m
 	epo	granda premio	n	fra	grand prix	n-m
-	epo	Granda Ursino	np-loc$np	fra	Grande Ourse	np$np-loc-f
-RL	epo	Granda Ursino	np-loc$np	fra	Grand Charriot	np-loc-f
+	epo	Granda Ursino	np$np-loc	fra	Grande Ourse	np$np-loc-f
+RL	epo	Granda Ursino	np$np-loc	fra	Grand Charriot	np-loc-f
 	epo	grandaĝa	adj	fra	de grand âge	adj
 	epo	grandaĝa	adj	fra	très agé	adj
 	epo	grandaĝulo	n	fra	personne âgée	n$n-f$n-f-pl
@@ -12302,7 +12302,7 @@ LR	epo	grioto	n	fra	cerise	n-f$n
 	epo	grizo	n	fra	gris	n-m-sp$n-m$n
 	epo	grogo	n	fra	grog	n-m
 	epo	Groningeno	np-loc	fra	Groningue	np-loc-f
-	epo	gronlanda	adj	fra	groenlandais	adj-GD-ND$adj
+	epo	gronlanda	adj	fra	groenlandais	adj$adj-GD-ND
 	epo	gronlandano	n	fra	Groenlandais	n-m-sp$n
 	epo	Gronlando	np$np-loc	fra	Groenland	np-loc-f
 	epo	gropo	n	fra	croupe	n-f$n
@@ -12465,7 +12465,7 @@ LR	epo	gvidmarkilo	n	fra	balise	n-f$n
 RL	epo	hadiso	n	fra	hadîth	n-m
 	epo	hadrono	n	fra	hadron	n-m
 	epo	hafnio	n	fra	hafnium	n-m
-	epo	Hago	np-loc$np	fra	La Haye	np$np-loc-f
+	epo	Hago	np$np-loc	fra	La Haye	np$np-loc-f
 	epo	haĝo	n	fra	hajj	n$n-m
 	epo	Haguenau	np-loc	fra	Haguenau	np-loc-f
 LR	epo	haĝulo	n	fra	hajj	n$n-m
@@ -12903,7 +12903,7 @@ LR	epo	herbovorulo	n	fra	herbivore	n-m$n
 	epo	hermafrodito	n	fra	hermaphrodite	n-m
 LR	epo	Hermano	np	fra	Hermann	np-ant-m-sg$np
 	epo	hermeneŭtiko	n	fra	herméneutique	n-f
-	epo	Hermeso	np-ant$np	fra	Hermès	np$np-ant
+	epo	Hermeso	np$np-ant	fra	Hermès	np$np-ant
 	epo	hermetika	adj	fra	étanche	adj
 	epo	hermetika	adj	fra	hermétique	adj-mf$adj
 	epo	hermetike	adv	fra	hermétiquement	adv
@@ -12947,7 +12947,7 @@ LR	epo	heteroseksulo	n	fra	hétérosexuel	n$n-m
 	epo	hevisida funkcio	n	fra	échelon unité	n-m
 	epo	hevisida funkcio	n	fra	fonction	n-f$n$n-f-ND
 	epo	Hevisido	np$np-loc	fra	Heaviside	np-loc-f
-	epo	Hewlett-Packard	np-al	fra	Hewlett-Packard	np$np-al-mf
+	epo	Hewlett-Packard	np-al	fra	Hewlett-Packard	np-al-mf
 	epo	Heziodo	np	fra	Hésiode	np
 	epo	hezitema	adj	fra	hésitant	adj$adj-GD-ND$adj-GD
 	epo	heziti	vblex	fra	broncher	vblex
@@ -13220,7 +13220,7 @@ LR	epo	hokstango	n	fra	gaffe	n-f$n
 	epo	hola	ij	fra	holà	ij
 LR	epo	holanda	adj	fra	hollandais	adj-m-sp$adj
 LR	epo	holandano	n	fra	Hollandais	n
-	epo	Holando	np-loc$np	fra	Hollande	np-loc-f
+	epo	Holando	np$np-loc	fra	Hollande	np-loc-f
 	epo	Holcim	np-al	fra	Holcim	np$np-al-mf
 	epo	holdingo	n	fra	holding	n-m
 	epo	holdo	n	fra	cale	n-f$n
@@ -13528,7 +13528,7 @@ LR	epo	ideologiisto	n	fra	idéologue	n
 	epo	idilio	n	fra	idylle	n-f
 	epo	idiolekta	adj	fra	idiolectal	adj
 	epo	idiolekto	n	fra	idiolecte	n-m
-	epo	idioma	adj	fra	idiomatique	adj-mf$adj
+	epo	idioma	adj	fra	idiomatique	adj$adj-mf
 	epo	idiomaĵo	n	fra	expression idiomatique	n-f
 	epo	idiomaĵo	n	fra	idiotisme	n-m
 	epo	idiome	adv	fra	idiomatiquement	adv
@@ -13554,7 +13554,7 @@ LR	epo	idista	adj	fra	idiste	adj
 LR	epo	ido	n	fra	petit	n$n-m
 	epo	idolano	n	fra	idolâtre	n$n-mf
 	epo	idolo	n	fra	idole	n-f$n$n-f-ND
-	epo	iduo	n-pl	fra	ides	n-f-pl
+	epo	iduo	n$n-pl	fra	ides	n-f-pl
 LR	epo	iduo	n-sg	fra	ides	n-f-pl
 	epo	ie	adv	fra	quelque part	adv
 	epo	iele	adv	fra	d'une certaine manière	adv
@@ -14679,8 +14679,8 @@ RL	epo	ISO	n-acr	fra	OSI	n-acr-f
 LR	epo	israelido	n	fra	juif	n$n-f
 	epo	Israelo	np-loc$np	fra	Israël	np-loc-f
 	epo	Issy-les-Moulineaux	np-loc	fra	Issy-les-Moulineaux	np-loc-f
-	epo	Istanbulo	np-loc	fra	Istambul	np-loc-f
-	epo	Istanbulo	np-loc	fra	Istanbul	np-loc-f
+	epo	Istanbulo	np-loc$np	fra	Istambul	np-loc-f
+	epo	Istanbulo	np-loc$np	fra	Istanbul	np-loc-f
 LR	epo	istmo	n	fra	isthme	n-f
 	epo	Istres	np-loc	fra	Istres	np-loc-f
 	epo	itala	adj	fra	italien	adj$adj-GD-ND
@@ -15001,7 +15001,7 @@ RL	epo	junulo	n-m	fra	jeune homme	n-m$n
 RL	epo	junulo	n-m	fra	jeunes gens	n-m$n-m-pl
 	epo	jupeto	n	fra	jupette	n-f
 	epo	Jupitero	np-ant	fra	Jupiter	np-ant$np
-	epo	Jupitero	np-loc$np	fra	Jupiter	np-loc$np-loc-f
+	epo	Jupitero	np$np-loc	fra	Jupiter	np-loc$np-loc-f
 	epo	jupo	n	fra	jupe	n-f$n$n-f-ND
 	epo	jura	adj	fra	juridique	adj-mf$adj$adj-mf-ND
 LR	epo	Jura	np-loc	fra	Jura	np$np-loc-f
@@ -15313,7 +15313,7 @@ LR	epo	kalvinisto	n	fra	calviniste	n$n-mf
 	epo	kamarado	n-m	fra	copain	n-m$n
 	epo	kamarilo	n	fra	camarilla	n-f
 	epo	kambio	n	fra	lettre	n-f$n$n-f-ND
-	epo	kamboĝa	adj	fra	cambodgien	adj-GD-ND$adj
+	epo	kamboĝa	adj	fra	cambodgien	adj$adj-GD-ND
 	epo	kamboĝano	n	fra	Cambodgien	n$n-m
 	epo	Kamboĝo	np-loc$np	fra	Cambodge	np-loc-f
 	epo	kambria	adj	fra	cambrien	adj
@@ -16999,7 +16999,7 @@ RL	epo	komizo	n$n-mf	fra	auxiliaire	n-mf$n$n-mf-ND
 	epo	komocii	vblex	fra	commotionner	vblex
 LR	epo	komocio	n	fra	commotion	n-f$n
 	epo	komodo	n	fra	commode	n$n-f
-	epo	komora	adj	fra	comorien	adj-GD-ND$adj
+	epo	komora	adj	fra	comorien	adj$adj-GD-ND
 	epo	komorano	n	fra	Comorien	n$n-m
 	epo	Komoroj	np-loc	fra	Comores	np-loc-f
 	epo	kompakta	adj	fra	compact	adj$adj-GD-ND
@@ -17768,7 +17768,7 @@ LR	epo	konsistenco	n	fra	consistance	n-f
 LR	epo	konstanta tensio	n	fra	tension continue	n-f
 	epo	konstante	adv	fra	en permanence	adv
 	epo	Konstanteno	np-ant$np	fra	Constantin	np-ant-m-sg$np
-	epo	Konstantinopolo	np-loc	fra	Constantinople	np-loc-f
+	epo	Konstantinopolo	np-loc$np	fra	Constantinople	np-loc-f
 	epo	konstanto	n	fra	constante	n-f$n
 LR	epo	konstatado	n	fra	constatation	n-f$n$n-f-ND
 	epo	konstati	vbtr	fra	constater	vblex
@@ -18292,7 +18292,7 @@ RL	epo	kosmetiko	n	fra	cosmétique	n-f
 	epo	kosmoŝipo	n	fra	vaisseau spatial	n-m
 	epo	kosmoso	n	fra	Cosmos	n-m
 LR	epo	kosmoveturilo	n	fra	vaisseau spatial	n-m
-	epo	kosova	adj	fra	kosovar	adj-GD-ND$adj$adj-GD
+	epo	kosova	adj	fra	kosovar	adj$adj-GD-ND$adj-GD
 	epo	kosovano	n	fra	Kosovar	n$n-m
 	epo	Kosovo	np-loc$np	fra	Kosovo	np-loc$np$np-loc-f
 	epo	kosta	adj	fra	couteux	adj
@@ -18563,8 +18563,8 @@ LR	epo	kristismo	n	fra	christianisme	n-m$n$n-m-ND
 	epo	kristnaska kanto	n	fra	chant	n-m$n$n-m-ND
 	epo	Kristnasko	np$np-al	fra	Noël	np-al-mf
 	epo	Kristo	np$np-ant	fra	christ	np
-LR	epo	Kristoforo	np-ant$$np	fra	Cristóbal	np$np-cog$np-cog-mf-sp
-LR	epo	Kristoforo	np-ant$$np	fra	Christophe	np-ant$np-ant-m-sg$np
+LR	epo	Kristoforo	np-ant$np	fra	Cristóbal	np$np-ant-m-sg$np-ant
+LR	epo	Kristoforo	np-ant$np	fra	Christophe	np-ant$np-ant-m-sg$np
 	epo	kriterio	n	fra	critère	n$n-m$n-m-ND
 	epo	kritika	adj	fra	critique	adj-mf$adj$adj-mf-ND
 	epo	kritikaĉi	vbtr	fra	déprécier	vblex
@@ -18672,7 +18672,7 @@ LR	epo	krucisto	n	fra	croisé	n-m
 	epo	kruĉo	n	fra	broc	n-m
 	epo	kruĉo	n	fra	cruche	n-f
 	epo	kruĉo	n	fra	pichet	n-m$n
-	epo	Krucolevo	np-al	fra	Exaltation de la Croix	np-al-mf
+	epo	Krucolevo	np$np-al	fra	Exaltation de la Croix	np-al-mf
 	epo	krucumi	vbtr	fra	crucifier	vblex
 	epo	kruda	adj	fra	à vif	adj
 	epo	kruda	adj	fra	brut	adj
@@ -18700,7 +18700,7 @@ LR	epo	krucisto	n	fra	croisé	n-m
 LR	epo	kruti	vblex	fra	béer	vblex
 LR	epo	kruti	vblex	fra	élever	vblex
 	epo	kruzado	n	fra	cruzade	n-f
-LR	epo	Ksavero	$np$np-ant	fra	Javier	np$np-ant$np-ant-m-sg
+LR	epo	Ksavero	np$np-ant	fra	Javier	np$np-ant-m-sg$np-ant
 	epo	ksenofobia	adj	fra	xénophobe	adj-mf$adj
 	epo	ksenofobio	n	fra	xénophobie	n$n-f
 	epo	ksenofobiulo	n	fra	xénophobe	n
@@ -19131,7 +19131,7 @@ LR	epo	kvantigilo	n	fra	quantificateur	n-m
 LR	epo	kvantoro	n	fra	quantificateur	n-m
 	epo	kvantummeĥaniko	n	fra	mécanique quantique	n-f
 	epo	kvantumo	n	fra	quantum	n-m
-	epo	kvar	num$	fra	quatre	num$num-mf-pl
+	epo	kvar	num	fra	quatre	num$num-mf-pl
 LR	epo	kvara	adj	fra	quatrième	adj-preadj
 RL	epo	kvara	adj	fra	quatrième	adj$adj-mf$adj-mf-ND
 	epo	kvarangula	adj	fra	quadrangulaire	adj
@@ -19200,7 +19200,7 @@ LR	epo	kvestaĵo	n	fra	offrande	n-f$n
 	epo	kvieto	n	fra	calme	n-m$n-m-ND
 LR	epo	kviki	vblex	fra	couiner	vblex
 	epo	kvina	adj	fra	quint	adj
-	epo	kvin	num$	fra	cinq	num$num-mf-sp
+	epo	kvin	num	fra	cinq	num$num-mf-sp
 LR	epo	kvina	adj	fra	cinquième	adj-preadj
 RL	epo	kvina	adj	fra	cinquième	adj$adj-mf$adj-mf-ND
 	epo	kvincent	num	fra	cinq cents	num$num-mf-pl
@@ -19495,7 +19495,7 @@ LR	epo	latero	n	fra	côté	n-m$n$n-m-ND
 	epo	latinida lingvo	n	fra	langue romane	n-f
 RL	epo	latinida lingvo	n	fra	langue néolatine	n-f
 	epo	latino	n	fra	latin	n$n-m-sg$n-m
-	epo	Latino	np-al$np-al-sg	fra	latin	n$n-m-sg$n-m
+	epo	Latino	np$np-al$np-al-sg	fra	latin	n$n-m-sg$n-m
 	epo	latiso	n	fra	claie	n-f
 	epo	latiso	n	fra	treillage	n-m
 	epo	latitudo	n	fra	latitude	n$n-f$n-f-ND
@@ -19561,8 +19561,8 @@ LR	epo	laŭorda	adj	fra	ordonné	adj$adj-GD-ND
 LR	epo	laŭregula	adj	fra	réglementaire	adj-mf$adj
 LR	epo	laŭregule	adv	fra	réglementairement	adv
 	epo	laŭrencio	n	fra	lawrencium	n-m
-LR	epo	Laŭrenco	np$np-ant$	fra	Lorenzo	np$np-ant$np-ant-m-sg
-LR	epo	Laŭrenco	np$np-ant$	fra	Laurent	np-ant$np-ant-m-sg$np
+LR	epo	Laŭrenco	np$np-ant	fra	Lorenzo	np$np-ant$np-ant-m-sg
+LR	epo	Laŭrenco	np$np-ant	fra	Laurent	np-ant$np-ant-m-sg$np
 LR	epo	laŭrentio	n	fra	archéen	n-m
 	epo	laŭro	n	fra	laurier	n-m$n$n-m-ND
 LR	epo	laŭta	adj	fra	fort	adj-GD-ND$adj$adj-GD
@@ -19722,7 +19722,7 @@ LR	epo	lento	n	fra	lentille	n$n-f
 	epo	leonfaŭko	n	fra	muflier	n-m
 	epo	leono	n	fra	lion	n$n-m$n-m-ND
 	epo	Leono	np-al	fra	Lion	np-al$np-al-mf
-	epo	Leono	np-loc$np	fra	Lion	np-loc-f
+	epo	Leono	np$np-loc	fra	Lion	np-loc-f
 LR	epo	Leono	np-ant	fra	Léon	np-ant-m-sg$np-ant
 	epo	leontodo	n	fra	pissenlit	n-m
 	epo	leopardo	n	fra	léopard	n-m$n
@@ -19914,7 +19914,7 @@ LR	epo	liĉiarbo	n	fra	litchi	n-m
 LR	epo	liĉiujo	n	fra	litchi	n-m
 	epo	lieĝa	adj	fra	liégeois	adj
 	epo	lieĝano	n	fra	Liégeois	n
-	epo	Lieĝo	np-loc$np	fra	Liège	np-loc-f
+	epo	Lieĝo	np$np-loc	fra	Liège	np-loc-f
 	epo	lieno	n	fra	rate	n-f$n
 	epo	Liero	np-loc	fra	Lierre	np-loc-f
 	epo	Lierre	np-loc	fra	Lierre	np-loc-f
@@ -20297,8 +20297,8 @@ LR	epo	loteca variablo	n	fra	variable aléatoire	n-f
 LR	epo	loto	n	fra	lot	n-m$n
 LR	epo	lotujo	n	fra	urne	n-f$n$n-f-ND
 	epo	lotumi	vbtr	fra	tirer	vblex
-	epo	Loveno	np-loc$np	fra	Louvain	np$np-loc-f
-RL	epo	Loveno	np-loc$np	fra	Leuven	np-loc-f
+	epo	Loveno	np$np-loc	fra	Louvain	np$np-loc-f
+RL	epo	Loveno	np$np-loc	fra	Leuven	np-loc-f
 	epo	Lowe's	np-al	fra	Lowe's	np-al-mf
 	epo	lozanĝo	n	fra	losange	n-m
 	epo	Lozère	np-loc	fra	Lozère	np$np-loc-f
@@ -20327,7 +20327,7 @@ LR	epo	ludoni	vblex	fra	louer	vblex
 	epo	ludoteko	n	fra	ludothèque	n-f
 LR	epo	Ludoviko	np-ant$$np	fra	Luis	np$np-ant$np-ant-m-sg
 LR	epo	Ludoviko	np-ant$$np	fra	Louis	np-ant-m-sg$np$np-ant
-LR	epo	Ludoviko	np-ant$$np	fra	Ludovic	np$np-ant$np-ant-m-sg
+LR	epo	Ludoviko	np-ant$$np	fra	Ludovic	np-ant-m-sg$np$np-ant
 	epo	lufo	n	fra	courge-éponge	n-f
 	epo	Lufthansa	np-al	fra	Lufthansa	np-al-mf
 	epo	Lufthansa Group	np-al	fra	Lufthansa Group	np-al-mf
@@ -20351,8 +20351,8 @@ LR	epo	lukontrakto	n	fra	bail	n-m
 	epo	lukse	adv	fra	somptueusement	adv
 	epo	luksemburga	adj	fra	luxembourgeois	adj$adj-GD-ND
 	epo	luksemburgano	n	fra	Luxembourgeois	n-m-sp$n
-	epo	Luksemburgio	np-loc$np	fra	Luxembourg	np$np-loc-f
-LR	epo	Luksemburgo	np-loc$np	fra	Luxembourg	np$np-loc-f
+	epo	Luksemburgio	np$np-loc	fra	Luxembourg	np$np-loc-f
+LR	epo	Luksemburgo	np$np-loc	fra	Luxembourg	np$np-loc-f
 	epo	lukso	n	fra	luxe	n$n-m$n-m-ND
 	epo	lukti	vblex	fra	bagarrer	vblex
 	epo	lukti	vblex	fra	lutter	vblex
@@ -20512,7 +20512,7 @@ LR	epo	magra	adj	fra	maigre	adj$adj-mf$adj-mf-ND
 	epo	Mahaviro	np	fra	Mahavira	np
 	epo	maĥinacii	vblex	fra	machiner	vblex
 	epo	maĥinacio	n	fra	machination	n-f$n
-	epo	Mahometo	np$$np-ant	fra	Mahomet	np$np-ant-m-sg$np-ant
+	epo	Mahometo	np$np-ant	fra	Mahomet	np$np-ant-m-sg$np-ant
 	epo	Maine-et-Loire	np-loc	fra	Maine-et-Loire	np$np-loc-f
 	epo	Maisons-Alfort	np-loc	fra	Maisons-Alfort	np-loc-f
 	epo	Maisons-Laffitte	np-loc	fra	Maisons-Laffitte	np-loc-f
@@ -20926,8 +20926,8 @@ RL	epo	malgranda	adj	fra	petit	adj$adj-GD-ND
 	epo	malgranda fingro	n	fra	petit doigt	n-m
 	epo	malgranda kalorio	n	fra	petite calorie	n-f
 	epo	malgranda pando	n	fra	petit panda	n-m
-	epo	Malgranda Ursino	np-loc	fra	Petite Ourse	np$np-loc-f
-RL	epo	Malgranda Ursino	np-loc	fra	Petit Charriot	np-loc-f
+	epo	Malgranda Ursino	np-loc$np	fra	Petite Ourse	np$np-loc-f
+RL	epo	Malgranda Ursino	np-loc$np	fra	Petit Charriot	np-loc-f
 LR	epo	malgrandegulo	n	fra	nain	n$n-m
 LR	epo	malgrandigo	n	fra	diminution	n-f$n$n-f-ND
 	epo	malgrandioza	adj	fra	minable	adj
@@ -20970,11 +20970,11 @@ LR	epo	malhonesteco	n	fra	malhonnêteté	n-f$n
 	epo	malhonesto	n	fra	malhonnêteté	n-f$n
 	epo	malhonora	adj	fra	déshonorant	adj
 	epo	malhonori	vbtr	fra	déshonorer	vblex
-	epo	malhonoro	n	fra	déshonneur	n$n-m
+	epo	malhonoro	n	fra	déshonneur	n-m$n
 	epo	malhumana	adj	fra	inhumain	adj
 LR	epo	malhumila	adj	fra	fier	adj$adj-GD-ND
 LR	epo	malhumila	adj	fra	hautain	adj
-	epo	malia	adj	fra	malien	adj-GD-ND$adj$adj-GD
+	epo	malia	adj	fra	malien	adj$adj-GD-ND$adj-GD
 	epo	maliano	n	fra	Malien	n-m$n
 	epo	malica	adj	fra	malicieux	adj-m-sp$adj
 	epo	malice	adv	fra	malicieusement	adv
@@ -21858,7 +21858,7 @@ LR	epo	masaĝi	vblex	fra	masser	vblex
 	epo	maŝine	adv	fra	mécaniquement	adv
 	epo	maŝinejo	n	fra	salle	n-f$n$n-f-ND
 	epo	maŝinismo	n	fra	machinisme	n-m
-	epo	maŝinisto	n	fra	machiniste	n$n-mf
+	epo	maŝinisto	n	fra	machiniste	n-mf$n
 	epo	maŝinlingvo	n	fra	langage machine	n-m
 RL	epo	maŝinlingvo	n	fra	code machine	n-m
 	epo	maŝino	n	fra	machine	n-f$n$n-f-ND
@@ -21978,7 +21978,7 @@ LR	epo	matrica unuo	n	fra	matrice unité	n-f
 LR	epo	maŭista	adj	fra	maoïste	adj
 	epo	maŭisto	n	fra	maoïste	n
 	epo	maŭra	adj	fra	maure	adj
-	epo	maŭritania	adj	fra	mauritanien	adj-GD-ND$adj
+	epo	maŭritania	adj	fra	mauritanien	adj$adj-GD-ND
 	epo	maŭritaniano	n	fra	Mauritanien	n$n-m
 	epo	Maŭritanio	np-loc$np	fra	Mauritanie	np-loc-f
 	epo	maŭro	n	fra	Maure	n
@@ -22583,7 +22583,7 @@ LR	epo	minora	adj	fra	mineur	adj$adj-GD-ND
 	epo	minoritata	adj	fra	minoritaire	adj-mf$adj$adj-mf-ND
 	epo	minoritate	adv	fra	minoritairement	adv
 LR	epo	minoritato	n	fra	minorité	n-f$n$n-f-ND
-	epo	Minorko	np-loc	fra	Minorque	np$np-loc-f
+	epo	Minorko	np-loc	fra	Minorque	np-loc-f
 	epo	Minotaŭro	np$np-al	fra	Minotaure	np-al-mf
 LR	epo	minus	adv	fra	moins	adv
 	epo	minuskla	adj	fra	bas	adj-m-sp$adj
@@ -22615,7 +22615,7 @@ LR	epo	miriapodo	n	fra	myriapode	n-m
 	epo	mirinda	adj	fra	magnifique	adj-mf$adj$adj-mf-ND
 	epo	mirinda	adj	fra	merveilleux	adj-m-sp$adj
 	epo	mirindaĵo	n	fra	merveille	n-f$n
-	epo	mirindaĵo	n	fra	prodige	n$n-m$n-m-ND
+	epo	mirindaĵo	n	fra	prodige	n-m$n$n-m-ND
 	epo	mirinde	adv	fra	magnifiquement	adv
 	epo	mirinde	adv	fra	merveilleusement	adv
 	epo	mirinfano	n	fra	enfant surdoué	n-m
@@ -22907,7 +22907,7 @@ LR	epo	monedo	n	fra	choucas	n-m
 	epo	monero	n	fra	monnaie	n$n-f$n-f-ND
 	epo	monero	n	fra	pièce	n-f$n$n-f-ND
 	epo	monfalsisto	n	fra	faux-monnayeur	n
-	epo	mongola	adj	fra	mongol	adj$adj-GD-ND$
+	epo	mongola	adj	fra	mongol	$adj$adj-GD-ND
 	epo	Mongolio	np-loc$np	fra	Mongolie	np-loc-f
 	epo	mongolisma	adj	fra	mongolien	adj
 	epo	mongolismo	n	fra	mongolisme	n-m
@@ -23479,7 +23479,7 @@ LR	epo	naskiĝtago	n	fra	anniversaire	n$n-m$n-m-ND
 	epo	National Australia Bank	np-al	fra	National Australia Bank	np-al-mf
 	epo	National Grid	np-al	fra	National Grid	np-al-mf
 	epo	Nationwide	np-al	fra	Nationwide	np-al-mf
-	epo	NATO	n-acr$n	fra	OTAN	n-acr$n-acr-f
+	epo	NATO	n-acr	fra	OTAN	n-acr$n-acr-f
 	epo	natrio	n	fra	sodium	n$n-m
 	epo	natura	adj	fra	naturel	adj$adj-f$adj-f-sg
 	epo	natura entjero	n	fra	entier naturel	n-m
@@ -23505,7 +23505,7 @@ LR	epo	naturparko	n	fra	réserve naturelle	n-f
 	epo	naturprotekto	n	fra	protection	n-f$n$n-f-ND
 	epo	naturrezervejo	n	fra	parc naturel	n-m
 	epo	naturrezervejo	n	fra	réserve naturelle	n-f
-	epo	naŭ	num$	fra	neuf	num$num-mf-sp
+	epo	naŭ	num	fra	neuf	num$num-mf-sp
 LR	epo	naŭa	adj	fra	neuvième	adj-preadj
 RL	epo	naŭa	adj	fra	neuvième	adj$adj-mf$adj-mf-ND
 	epo	naŭcent	num	fra	neuf cents	num$num-mf-pl
@@ -23584,10 +23584,10 @@ LR	epo	naztabako	n	fra	tabac	n$n-m$n-m-ND
 	epo	NBA	np-al	fra	NBA	np-al-mf
 	epo	NBC	np-al	fra	NBC	np-al-mf
 	epo	n-dimensia	adj	fra	à n dimensions	adj
-	epo	ne	adv	fra	ne	adv
+	epo	ne	adv$	fra	ne	adv
 LR	epo	nea	adj	fra	négatif	adj$adj-GD-ND
-RL	epo	ne	adv	fra	non	adv
-RL	epo	ne	adv	fra	pas	adv
+RL	epo	ne	adv$	fra	non	adv
+RL	epo	ne	adv$	fra	pas	adv
 	epo	neadekvata	adj	fra	inadéquat	adj
 	epo	neadekvate	adv	fra	inadéquatement	adv
 	epo	neadekvateco	n	fra	inadéquation	n-f$n
@@ -23796,7 +23796,7 @@ LR	epo	neigi	vbtr	fra	nier	vblex
 	epo	neinversigebla	adj	fra	non inversible	adj
 	epo	neinversigeble	adv	fra	irréversiblement	adv
 	epo	neirebla	adj	fra	impraticable	adj
-	epo	nek	cnjcoo	fra	ni	cnjcoo
+	epo	nek	cnjcoo$	fra	ni	cnjcoo
 	epo	nekapabla	adj	fra	incapable	adj$adj-mf$adj-mf-ND
 	epo	nekapable	adv	fra	incapablement	adv
 LR	epo	nekapableco	n	fra	inaptitude	n-f
@@ -23888,7 +23888,7 @@ LR	epo	nemalhaveble	adv	fra	indispensablement	adv
 	epo	nematureco	n	fra	immaturité	n-f
 	epo	nememorebla	adj	fra	immémorial	adj
 	epo	nememorebla	adj	fra	impossible	adj$adj-mf-ND$adj-mf
-LR	epo	nemortigebla	adj	fra	immortel	adj$adj-m$adj-m-sg
+LR	epo	nemortigebla	adj	fra	immortel	adj$adj-m$$adj-m-sg
 	epo	nemovebla	adj	fra	inamovible	adj
 	epo	nemoveblaĵa	adj	fra	immobilier	adj
 RL	epo	nemoveblaĵa	adj	fra	immeuble	adj
@@ -24219,8 +24219,8 @@ LR	epo	nihilista	adj	fra	nihiliste	adj
 	epo	nikeli	vblex	fra	nickeler	vblex
 	epo	nikelo	n	fra	nickel	n-m$n
 	epo	Nikodemo	np	fra	Nicodème	np
-LR	epo	Nikolao	np-ant$$np	fra	Nicolás	np$np-ant$np-ant-m-sg
-LR	epo	Nikolao	np-ant$$np	fra	Nicolas	np-ant-m-sg$np$np-ant
+LR	epo	Nikolao	np-ant$np	fra	Nicolás	np$np-ant$np-ant-m-sg
+LR	epo	Nikolao	np-ant$np	fra	Nicolas	np-ant-m-sg$np$np-ant
 	epo	nikotino	n	fra	nicotine	n$n-f$n-f-ND
 	epo	Nikozio	np-loc	fra	Nicosie	np-loc-f
 	epo	nikso	n	fra	nixe	n-f
@@ -24465,7 +24465,7 @@ LR	epo	novenaskito	n	fra	poupon	n-m$n
 LR	epo	novfaŝista	adj	fra	néofasciste	adj
 	epo	novfaŝisto	n	fra	néofasciste	n$n-mf
 	epo	Nov-Francio	np-loc	fra	Nouvelle-France	np-loc-f
-	epo	Nov-Gvineo	np$np-loc	fra	Nouvelle-Guinée	np$np-loc-f
+	epo	Nov-Gvineo	np$np-loc	fra	Nouvelle-Guinée	np-loc-f
 	epo	Nov-Hebridoj	np-loc	fra	Nouvelles-Hébrides	np$np-loc-f
 	epo	novica	adj	fra	novice	adj-mf$adj
 	epo	novico	n	fra	novice	n
@@ -24479,7 +24479,7 @@ LR	epo	novismo	n	fra	néologisme	n-m$n
 	epo	nov-jorka	adj	fra	new-yorkais	adj$adj-m-sp
 	epo	nov-jorkano	n	fra	New-yorkais	n
 	epo	Nov-Jorko	np-loc	fra	New York	np-loc-f
-	epo	nov-kaledonia	adj	fra	néo-calédonien	adj-GD-ND$adj
+	epo	nov-kaledonia	adj	fra	néo-calédonien	adj$adj-GD-ND
 	epo	nov-kaledoniano	n	fra	Néo-calédonien	n
 	epo	Nov-Kaledonio	np-loc	fra	Nouvelle-Calédonie	np-loc-f
 	epo	novkejnsisma	adj	fra	néo-keynésien	adj
@@ -24579,8 +24579,8 @@ LR	epo	nune	adv	fra	à présent	adv
 	epo	nuntempa	adj	fra	contemporain	adj$adj-GD-ND
 	epo	nuntempe	adv	fra	à l'heure actuelle	adv
 	epo	nuntempe	adv	fra	actuellement	adv
-	epo	nur	adv	fra	seulement	adv
-	epo	nur	adv	fra	uniquement	adv
+	epo	nur	adv$	fra	seulement	adv
+	epo	nur	adv$	fra	uniquement	adv
 LR	epo	nura	adj	fra	simple	adj-mf$adj$adj-mf-ND
 LR	epo	nura	adj	fra	unique	adj-mf$adj$adj-mf-ND
 	epo	nur se	adv	fra	seulement si	adv
@@ -24682,7 +24682,7 @@ LR	epo	oceanologiisto	n	fra	océanologue	n
 RL	epo	oceanologo	n	fra	océanologiste	n
 	epo	oĉjo	n	fra	tonton	n-m
 	epo	odekolono	n	fra	eau	n$n-f$n-f-ND
-	epo	odiseado	n	fra	odyssée	n$n-f
+	epo	odiseado	n	fra	odyssée	n-f$n
 	epo	Odiseado	np$np-al	fra	Odyssée	np$np-al$np-al-mf
 	epo	Odiseo	np-ant$np	fra	Ulysse	np-ant$np-ant-m-sg$np
 	epo	odo	n	fra	ode	n-f$n
@@ -25184,7 +25184,7 @@ LR	epo	origino	n	fra	origine	n-f$n$n-f-ND
 	epo	orikso	n	fra	oryx	n-m
 LR	epo	orioledo	n	fra	loriot	n-m
 	epo	oriolo	n	fra	loriot	n-m
-	epo	Oriono	np-loc$np	fra	Orion	np-loc-f
+	epo	Oriono	np$np-loc	fra	Orion	np-loc-f
 	epo	orkestro	n	fra	orchestre	n-m$n
 	epo	Orléans	np-loc	fra	Orléans	np$np-loc-f
 	epo	Orlen	np-al	fra	Orlen	np-al-mf
@@ -25607,8 +25607,8 @@ LR	epo	parlamentejo	n	fra	parlement	n$n-m$n-m-ND
 	epo	parodio	n	fra	parodie	n-f$n
 	epo	paroĥa	adj	fra	paroissial	adj$
 	epo	paroĥanaro	n-sg	fra	ouaille	n-f-pl
-LR	epo	paroĥanaro	n-pl$n	fra	ouaille	n-f-pl
-LR	epo	paroĥanaro	n-pl$n	fra	paroissien	n$n-m-pl
+LR	epo	paroĥanaro	n$n-pl	fra	ouaille	n-f-pl
+LR	epo	paroĥanaro	n$n-pl	fra	paroissien	n$n-m-pl
 	epo	paroĥano	n	fra	paroissien	n$n-m-pl
 	epo	paroĥestrejo	n	fra	presbytère	n-f
 	epo	paroĥestro	n	fra	curé	n-m$n
@@ -26491,7 +26491,7 @@ LR	epo	platglobo	n	fra	planisphère	n-m
 RL	epo	platona	adj	fra	platonicien	adj
 	epo	platona solido	n	fra	solide platonicien	n-m
 	epo	platone	adv	fra	platoniquement	adv
-	epo	Platono	$np-ant$np$np-ant-m	fra	Platon	np$np-ant-m-sg$np-ant
+	epo	Platono	np-ant$np$np-ant-m	fra	Platon	np$np-ant-m-sg$np-ant
 	epo	plaŭdado	n	fra	clapotis	n-m
 	epo	plaŭdi	vbntr	fra	clapoter	vblex
 	epo	pleba	adj	fra	plébéien	adj
@@ -26834,7 +26834,7 @@ LR	epo	policisto	n	fra	policier	n-f$n$n-f-sg
 	epo	poliklinika	adj	fra	polyclinique	adj
 	epo	polikliniko	n	fra	polyclinique	n-f
 	epo	polimero	n	fra	polymère	n-m
-	epo	polinezia	adj	fra	polynésien	adj-GD-ND$adj
+	epo	polinezia	adj	fra	polynésien	adj$adj-GD-ND
 	epo	polineziano	n	fra	Polynésien	n$n-m
 	epo	Polinezio	np-loc	fra	Polynésie	np$np-loc-f
 	epo	polinoma	adj	fra	polynomial	adj
@@ -26846,7 +26846,7 @@ LR	epo	polinoma nulo	n	fra	polynôme nul	n-m
 LR	epo	polinoma unuo	n	fra	polynôme unité	n-m
 	epo	polinomo	n	fra	polynôme	n-m
 	epo	polinomringo	n	fra	anneau	n-m$n$n-m-ND
-LR	epo	Polio	np-loc$np	fra	Pologne	np$np-loc-f
+LR	epo	Polio	np$np-loc	fra	Pologne	np$np-loc-f
 	epo	poliomjelito	n	fra	poliomyélite	n-f
 	epo	poliptero	n	fra	polyptère	n-m
 LR	epo	poliso	n	fra	police	n-f$n$n-f-ND
@@ -26876,7 +26876,7 @@ RL	epo	politikisto	n$n-m	fra	homme politique	n-m$n
 RL	epo	politikisto	n$n-m	fra	politique	n-m
 	epo	politiko	n	fra	politique	n-f$n-f-ND
 	epo	polko	n	fra	polka	n-f
-	epo	Pollando	np-loc$np	fra	Pologne	np$np-loc-f
+	epo	Pollando	np$np-loc	fra	Pologne	np$np-loc-f
 	epo	polmo	n	fra	paume	n-f$n$n-f-ND
 	epo	polmo	n	fra	plat	n-m
 	epo	polo	n	fra	Polonais	n-m-sp$n
@@ -28807,7 +28807,7 @@ LR	epo	reinvestaĵo	n	fra	réinvestissement	n-m
 	epo	reinvesto	n	fra	réinvestissement	n-m
 	epo	reiri	vbntr	fra	aller	vblex
 	epo	Rejkio	np-al	fra	reiki	n-m
-	epo	Rejno	np-loc$np	fra	Rhin	np-loc-f
+	epo	Rejno	np$np-loc	fra	Rhin	np-loc-f
 	epo	rejunigi	vbtr	fra	rajeunir	vblex
 LR	epo	rejunigo	n	fra	rajeunissement	n-m$n
 	epo	rejuniĝo	n	fra	rajeunissement	n-m$n
@@ -29693,7 +29693,7 @@ LR	epo	rozeta	adj	fra	rosé	adj
 	epo	rozo	n	fra	rose	n-f$n$n-f-ND
 	epo	RPR	n-acr	fra	RPR	n-acr$n-acr-f
 	epo	RRDtool	np-al	fra	RRDtool	np$np-al-mf
-	epo	ruanda	adj	fra	rwandais	adj-GD-ND$adj
+	epo	ruanda	adj	fra	rwandais	adj$adj-GD-ND
 	epo	ruandano	n	fra	Rwandais	n-m-sp$n
 	epo	Ruando	np$np-loc	fra	Rwanda	np-loc-f
 	epo	rubando	n	fra	ruban	n-m$n-m-ND
@@ -30119,10 +30119,10 @@ LR	epo	samranga	adj	fra	pair	adj$adj-f
 	epo	samsangeco	n	fra	consanguinité	n-f$n
 	epo	samsangulo	n	fra	consanguin	n
 	epo	samseksa	adj	fra	de même sexe	adj
-LR	epo	samseksama	adj	fra	homosexuel	adj$
+LR	epo	samseksama	adj	fra	homosexuel	$adj
 LR	epo	samseksamulo	n$n-f	fra	homosexuel	n-f$n
 LR	epo	samseksamulo	n$n-f	fra	lesbienne	n-f$n
-	epo	samseksema	adj	fra	homosexuel	adj$
+	epo	samseksema	adj	fra	homosexuel	$adj
 LR	epo	samseksemuleco	n	fra	homosexualité	n-f$n
 	epo	samseksemulo	n$n-f	fra	homosexuel	n-f$n
 LR	epo	samseksemulo	n$n-f	fra	lesbienne	n-f$n
@@ -30309,7 +30309,7 @@ LR	epo	saturado	n	fra	saturation	n$n-f
 	epo	saturi	vbtr	fra	saturer	vblex
 LR	epo	saturna festo	n	fra	saturnales	n-f
 	epo	Saturno	np-al	fra	Saturne	np-al-mf
-	epo	Saturno	np-loc$np	fra	Saturne	np-loc-f
+	epo	Saturno	np$np-loc	fra	Saturne	np-loc-f
 	epo	saturnofesto	n	fra	saturnales	n-f
 	epo	saturo	n	fra	saturation	n$n-f
 	epo	saŭco	n	fra	sauce	n-f$n
@@ -30439,8 +30439,8 @@ LR	epo	segregaciista	adj	fra	ségrégationniste	adj
 	epo	Seine-Saint-Denis	np-loc	fra	Seine-Saint-Denis	np-loc-f
 	epo	seismo	n	fra	séisme	n-f
 	epo	Sejno	np-loc	fra	Seine	np-loc-f
-	epo	sejŝela	adj	fra	seychellois	adj-GD-ND$adj
-	epo	sejŝelano	n	fra	Seychellois	n-m-sp$n
+	epo	sejŝela	adj	fra	seychellois	adj$adj-GD-ND
+	epo	sejŝelano	n	fra	Seychellois	n$n-m-sp
 	epo	Sejŝeloj	np-loc	fra	Seychelles	np-loc-f
 	epo	seka	adj	fra	sec	adj$adj-GD-ND
 	epo	sekalo	n	fra	seigle	n-m
@@ -30564,7 +30564,7 @@ RL	epo	sekvojo	n	fra	sequoia	n-m
 	epo	semajna	adj	fra	hebdomadaire	adj$adj-mf-ND$adj-mf
 	epo	semajnfino	n	fra	week-end	n-m$n$n-m-ND
 	epo	semajno	n	fra	semaine	n-f$n$n-f-ND
-	epo	semestra	adj	fra	semestriel	adj$adj-f
+	epo	semestra	adj	fra	semestriel	adj$adj-f$
 	epo	semestre	adv	fra	semestriellement	adv
 	epo	semestro	n	fra	semestre	n-m$n
 	epo	semgrajno	n	fra	graine	n-f
@@ -30861,7 +30861,7 @@ LR	epo	senluksa	adj	fra	simple	adj-mf$adj$adj-mf-ND
 	epo	senmezura	adj	fra	immodéré	adj
 	epo	senmiksa	adj	fra	sans mélange	adj
 	epo	senmoraligi	vbtr	fra	pervertir	vblex
-	epo	senmorta	adj	fra	immortel	adj$adj-m$adj-m-sg
+	epo	senmorta	adj	fra	immortel	adj$adj-m$$adj-m-sg
 	epo	senmorteco	n	fra	immortalité	n$n-f
 	epo	senmortigi	vbtr	fra	immortaliser	vblex
 	epo	senmova	adj	fra	immobile	adj$adj-mf-ND$adj-mf
@@ -30893,7 +30893,7 @@ RL	epo	senpage	adv	fra	gratis	adv
 	epo	senpaneigo	n	fra	dépannage	n-m
 	epo	senpaperulo	n	fra	clandestin	n
 	epo	senpaperulo	n	fra	sans-papier	n
-	epo	senpartia	adj	fra	impartial	adj$adj-f
+	epo	senpartia	adj	fra	impartial	adj$adj-f$
 	epo	senpartieco	n	fra	impartialité	n$n-f
 	epo	senpaŝa klavo	n	fra	touche morte	n-f
 	epo	senpaŝa klavo	n	fra	touche	n-f$n
@@ -31053,7 +31053,7 @@ LR	epo	senutileco	n	fra	inutilité	n-f$n
 LR	epo	senvualigi	vbtr	fra	dévoiler	vblex
 	epo	senvunda	adj	fra	indemne	adj$adj-mf
 	epo	senzorga	adj	fra	insouciant	adj
-	epo	sep	num$	fra	sept	num$num-mf-sp
+	epo	sep	num	fra	sept	num$num-mf-sp
 LR	epo	sepa	adj	fra	septième	adj-preadj
 RL	epo	sepa	adj	fra	septième	adj$adj-mf$adj-mf-ND
 	epo	sepangula	adj	fra	heptagonal	adj
@@ -31172,7 +31172,7 @@ LR	epo	servanto	n	fra	serviteur	n$n-f
 LR	epo	servutigado	n	fra	assujétissement	n-m
 	epo	servutigo	n	fra	assujétissement	n-m
 	epo	servutulo	n	fra	serf	n$n-m
-	epo	ses	num$	fra	six	num$num-mf-sp
+	epo	ses	num	fra	six	num$num-mf-sp
 	epo	ses	pref	fra	six	adj
 LR	epo	sesa	adj	fra	sixième	adj-preadj
 RL	epo	sesa	adj	fra	sixième	adj$adj-mf$adj-mf-ND
@@ -31346,7 +31346,7 @@ LR	epo	silentema	adj	fra	discret	adj$adj-GD-ND
 	epo	siluria	adj	fra	silurien	adj
 	epo	silurio	n	fra	silurien	n-m
 LR	epo	Silvano	np-ant	fra	Silvain	np-ant
-LR	epo	Silvano	np-ant	fra	Sylvain	np-ant$np$np-ant-m-sg
+LR	epo	Silvano	np-ant	fra	Sylvain	np-ant$np-ant-m-sg$np
 	epo	Silvestro	np$np-ant	fra	Sylvestre	np-ant
 LR	epo	silviedo	n	fra	fauvette	n-f
 	epo	silvio	n	fra	fauvette	n-f
@@ -31626,7 +31626,7 @@ RL	epo	sitaro	n	fra	sîtâr	n-m
 	epo	skarpo	n	fra	écharpe	n-f$n
 	epo	skatolo	n	fra	boîte	n-f$n$n-f-ND
 	epo	skeĉo	n	fra	sketch	n-m
-	epo	Skeldo	np-loc	fra	Escaut	np$np-loc-f
+	epo	Skeldo	np-loc$np	fra	Escaut	np$np-loc-f
 	epo	skeleta	adj	fra	squelettique	adj-mf$adj
 	epo	skelete	adv	fra	squelettiquement	adv
 	epo	skeleto	n$n-sg	fra	squelette	n$n-m
@@ -31680,7 +31680,7 @@ LR	epo	skistoforme	adv	fra	schisteusement	adv
 	epo	skleroza	adj	fra	sclérosé	adj
 	epo	skleroziĝi	vbntr	fra	scléroser	vblex
 	epo	sklerozo	n	fra	sclérose	n-f
-	epo	Skoda	np-al	fra	Skoda	np$np-al-mf
+	epo	Skoda	np-al	fra	Skoda	np$np-al$np-al-mf
 	epo	skolastika	adj	fra	scolastique	adj
 	epo	skolastike	adv	fra	scolastiquement	adv
 	epo	skolastiko	n	fra	scolastique	n-f$n
@@ -31906,7 +31906,7 @@ LR	epo	sojfabo	n	fra	soja	n-m
 	epo	ŝoko	n	fra	commotion	n-f$n
 	epo	sokrata	adj	fra	socratique	adj
 	epo	sokrate	adv	fra	socratiquement	adv
-	epo	Sokrato	np-ant$$np$np-ant-m	fra	Socrate	np$np-ant$np-ant-m-sg
+	epo	Sokrato	np-ant$np$np-ant-m	fra	Socrate	np$np-ant$np-ant-m-sg
 	epo	sola	adj	fra	unique	adj-mf$adj$adj-mf-ND
 LR	epo	sola	adj	fra	seul	adj-preadj_nh
 RL	epo	sola	adj	fra	seul	adj$adj-mf-sg$
@@ -33389,7 +33389,7 @@ LR	epo	svatulo	n	fra	prétendant	n$n-f
 	epo	Svazilando	np-loc$np	fra	Swaziland	np-loc-f
 LR	epo	ŝvebi	vblex	fra	flotter	vblex
 	epo	sveda	adj	fra	suédois	adj-m-sp$adj
-	epo	Svedio	np-loc$np	fra	Suède	np-loc-f
+	epo	Svedio	np$np-loc	fra	Suède	np-loc-f
 	epo	svedlingva	adj	fra	suédophone	adj
 	epo	svedlingvano	n	fra	suédophone	n
 	epo	svedo	n	fra	Suédois	n-m-sp$n
@@ -33408,9 +33408,9 @@ LR	epo	ŝvebi	vblex	fra	flotter	vblex
 	epo	svingiĝi	vbntr	fra	gigoter	vblex
 	epo	svingilo	n	fra	marteau	n-m$n
 	epo	svisa	adj	fra	suisse	adj-mf$adj$adj-mf-ND
-LR	epo	Svisio	np-loc$np	fra	Suisse	np$np-loc-f
-	epo	Svislando	np-loc$np	fra	Suisse	np$np-loc-f
-RL	epo	Svislando	np-loc$np	fra	la Suisse	np-loc-f
+LR	epo	Svisio	np$np-loc	fra	Suisse	np$np-loc-f
+	epo	Svislando	np$np-loc	fra	Suisse	np$np-loc-f
+RL	epo	Svislando	np$np-loc	fra	la Suisse	np-loc-f
 	epo	sviso	n	fra	Suisse	n$n-mf
 	epo	ŝvitbano	n	fra	bain	n-m$n$n-m-ND
 	epo	ŝviti	vbntr	fra	suer	vblex
@@ -33482,7 +33482,7 @@ LR	epo	tagolilio	n	fra	hémérocalle	n-f
 	epo	tajĝiĉuano	n	fra	tài jí quán	n
 	epo	tajĝiĉuano	n	fra	tai-chi-chuan	n
 	epo	tajgo	n	fra	taïga	n-f
-	epo	tajlanda	adj	fra	thaïlandais	adj-m-sp$adj
+	epo	tajlanda	adj	fra	thaïlandais	adj$adj-m-sp
 	epo	tajlandano	n	fra	Thaïlandais	n-m-sp$n
 	epo	Tajlando	np$np-loc	fra	Thaïlande	np-loc-f
 LR	epo	tajli	vblex	fra	couper	vblex
@@ -34148,7 +34148,7 @@ LR	epo	tirado	n	fra	traction	n$n-f$n-f-ND
 	epo	tirane	adv	fra	tyranniquement	adv
 	epo	tiraneco	n	fra	tyrannie	n$n-f
 	epo	tirano	n	fra	tyran	n$n-m
-	epo	Tirano	np-loc	fra	Tirana	np$np-loc-f
+	epo	Tirano	np-loc	fra	Tirana	np-loc-f
 LR	epo	tirboji	vbntr	fra	hurler	vblex
 LR	epo	tirharmoniko	n	fra	accordéon	n-m$n
 	epo	tiri	vbtr	fra	tirer	vblex
@@ -34189,7 +34189,7 @@ LR	epo	tiu ĉi	prn$prn-tn	fra	celui-ci	prn$prn-tn$prn-tn-f-sg
 	epo	to-ĉemizo	n	fra	tee-shirt	n-m
 	epo	togo	n	fra	toge	n-f$n
 	epo	togola	adj	fra	togolais	adj$adj-GD-ND
-	epo	togolano	n	fra	Togolais	n-m-sp$n
+	epo	togolano	n	fra	Togolais	n$n-m-sp
 	epo	Togolo	np-loc	fra	Togo	np-loc-f
 	epo	Tohoku Electric Power	np-al	fra	Tohoku Electric Power	np-al-mf
 	epo	tohuvabohuo	n	fra	tohu-bohu	n-m
@@ -34312,7 +34312,7 @@ LR	epo	torpedŝipo	n	fra	torpilleur	n-m
 	epo	torturi	vblex	fra	torturer	vblex
 	epo	torturo	n	fra	supplice	n-m$n
 	epo	torturo	n	fra	torture	n$n-f$n-f-ND
-	epo	Toshiba	np-al	fra	Toshiba	np$np-al-mf
+	epo	Toshiba	np-al	fra	Toshiba	np-al-mf
 	epo	toskana	adj	fra	toscan	adj
 	epo	Toskanio	np-loc$np	fra	Toscane	np$np-loc-f
 	epo	toskano	n	fra	Toscan	n
@@ -34876,7 +34876,7 @@ LR	epo	turiste	adv	fra	touristiquement	adv
 	epo	turka	adj	fra	turc	adj$adj-GD-ND
 	epo	Turkio	np-loc$np	fra	Turquie	np-loc-f
 	epo	turkiso	n	fra	turquoise	n-f
-	epo	turkmena	adj	fra	turkmène	adj-mf-ND$adj
+	epo	turkmena	adj	fra	turkmène	adj$adj-mf-ND
 	epo	Turkmenio	np-loc$np	fra	Turkménistan	np-loc-f
 	epo	turkmeno	n	fra	Turkmène	n-mf$n
 	epo	turko	n	fra	Turc	n$n-m
@@ -34970,7 +34970,7 @@ LR	epo	tutslavista	adj	fra	panslaviste	adj
 	epo	UEA	n-acr	fra	UEA	n-acr-f
 	epo	UEFA	n-acr	fra	UEFA	n$n-acr-f
 	epo	UFJ	np-al	fra	UFJ	np-al-mf
-	epo	uganda	adj	fra	ougandais	adj-GD-ND$adj
+	epo	uganda	adj	fra	ougandais	adj$adj-GD-ND
 	epo	ugandano	n	fra	Ougandais	n-m-sp$n
 	epo	Ugando	np-loc$np	fra	Ouganda	np-loc-f
 	epo	ugviso	n	fra	bouscarle chanteuse	n-f
@@ -35870,7 +35870,7 @@ LR	epo	veturigisto	n	fra	conducteur	n$n-m$n-m-ND
 LR	epo	VI	num	fra	VI	num$num-mf-sp
 RL	epo	via	adj	fra	à toi	adj-pos-mf-sp$adj-pos
 RL	epo	via	adj	fra	à vous	adj-pos-mf-sp$adj-pos
-RL	epo	via	det$det-pos	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos
+RL	epo	via	det$det-pos	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det
 	epo	via tuta	det	fra	tout votre	det
 RL	epo	via tuta	det	fra	tout ton	det
 	epo	viadukto	n	fra	viaduc	n$n-m
@@ -35880,7 +35880,7 @@ LR	epo	viandisto	n	fra	boucher	n$n-f
 	epo	viatiko	n	fra	viatique	n-f
 	epo	vi mem	prn-subj	fra	toi-même	prn-tn-p2$prn-tn
 	epo	vi mem	prn-subj	fra	vous-même	prn-tn-p2-mf-pl$prn-tn-p2$prn-tn
-	epo	vibra	adj	fra	vibrant	adj-f$adj
+	epo	vibra	adj	fra	vibrant	adj$adj-f
 	epo	vibri	vblex	fra	vibrer	vblex
 	epo	vibro	n	fra	vibration	n$n-f$n-f-ND
 LR	epo	vic	pref	fra	vice	adj$adj-preadj
@@ -36213,7 +36213,7 @@ LR	epo	voĉi	vbntr	fra	voter	vblex
 	epo	voĉlegi	vbtr	fra	lire	vblex
 	epo	voĉo	n	fra	voix	n-f-sp$n-f$n
 	epo	voĉtubo	n	fra	porte-voix	n-m
-	epo	Vodafone	np-al	fra	Vodafone	np$np-al-mf
+	epo	Vodafone	np-al	fra	Vodafone	np-al-mf
 	epo	vodevilo	n	fra	vaudeville	n-f
 	epo	vodko	n	fra	vodka	n-f
 	epo	voduismo	n	fra	vaudou	n-m
@@ -36310,7 +36310,7 @@ LR	epo	Voltero	np-ant	fra	Voltaire	np-ant
 	epo	vomi	vbtr	fra	vomir	vblex
 	epo	vomnuksarbo	n	fra	vomiquier	n-m
 	epo	vomnukso	n	fra	noix vomique	n-f
-	epo	von	n$	fra	von	
+	epo	von	vblex$	fra	von	
 	epo	vono	n	fra	won	n-m
 	epo	vori	vblex	fra	dévorer	vblex
 LR	epo	vorta	adj	fra	oral	adj$adj-f$
@@ -36440,7 +36440,7 @@ LR	epo	Zamenhofo	np-ant	fra	Zamenhof	np-ant
 	epo	zefiro	n	fra	zéphyr	n-m
 	epo	zekeno	n	fra	sequin	n-m
 	epo	zekino	n	fra	paillette	n-f$n
-	epo	Zelando	np-loc$np	fra	Zélande	np-loc-f
+	epo	Zelando	np$np-loc	fra	Zélande	np-loc-f
 	epo	zelkovo	n	fra	zelkova	n-m
 	epo	zeloto	n	fra	passionné	n$n-m$n-m-ND
 	epo	zeloto	n	fra	supporter	n-mf$n$n-mf-ND
@@ -36460,7 +36460,7 @@ LR	epo	zigomo	n	fra	pommette	n-f$n-f-ND
 	epo	Zigouli	np-al	fra	Zigouli	np-al-mf
 	epo	zigzagi	vblex	fra	zigzaguer	vblex
 	epo	zigzago	n	fra	zigzag	n-m$n
-	epo	zimbabva	adj	fra	zimbabwéen	adj-GD-ND$adj
+	epo	zimbabva	adj	fra	zimbabwéen	adj$adj-GD-ND
 	epo	zimbabvano	n	fra	Zimbabwéen	n$n-m
 	epo	Zimbabvo	np-loc$np	fra	Zimbabwe	np-loc-f
 	epo	zimbalono	n	fra	cymbalum	n-m

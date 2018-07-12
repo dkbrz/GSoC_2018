@@ -1,5 +1,5 @@
-	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl	ita	alcun	det-ind$det$det-ind-m-pl
-RL	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl	ita	qualche	det-ind-mf$det$det-ind$det-ind-mf-sg
+	spa	alguno	det-ind$det$det-ind-m-pl$det-ind-m	ita	alcun	det-ind$det$det-ind-m-pl
+RL	spa	alguno	det-ind-GD$det-ind-GD-pl	ita	qualche	det-ind-mf$det$det-ind$det-ind-mf-sg
 	spa	ambos	det$det-ind$det-ind-GD-pl$det-ind-GD	ita	entrambi i	det-ind$det-ind-GD-pl
 RL	spa	ambos	det$det-ind$det-ind-GD-pl$det-ind-GD	ita	tutt'e due i	det-ind
 LR	spa	aquel	det$det-dem-GD$det-dem$det-dem-GD-ND	ita	quello	det-dem$det-dem-mf-sg$det
@@ -28,7 +28,7 @@ RL	spa	mío	det-pos-mf$det-pos-mf-sg$det$det-pos$	ita	mio	det-pos-f$det-pos-f-sg
 	spa	ninguno	det-ind$det-ind-GD-sg$det-ind-GD$det	ita	nessuno	det-ind$det$det-ind-GD-ND$det-ind-GD
 	spa	nuestro	det$det-pos$det-pos-GD$det-pos-GD-ND	ita	il nostro	det-pos$det-pos-GD-ND
 RL	spa	nuestro	det$det-pos$det-pos-GD$det-pos-GD-ND	ita	nostro	det-pos$det-pos-m
-	spa	otro	det-ind-m-sg$det-ind$det$det-ind-m	ita	un altro	det-ind$det$det-ind-GD$det-ind-GD-pl
+	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m	ita	un altro	det-ind$det$det-ind-GD$det-ind-GD-pl
 	spa	otros muchos	det$det-ind	ita	tanti altri	det-ind
 	spa	poco	det-ind$det$det-ind-GD-ND	ita	poco	det-ind$det-ind-GD-pl
 RL	spa	suyo	det-pos-mf$det-pos-mf-ND$det$det-pos	ita	il suo	det-pos-m$det-pos-m-sg
@@ -45,7 +45,7 @@ RL	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl	ita	il tuo	det-pos-f$det-pos-f-
 LR	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl	ita	il tuo	det-pos-GD$det-pos-GD-ND
 RL	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl	ita	tuo	det-pos-m$det-pos
 RL	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl	ita	tuo	det-pos-f
-	spa	uno	det-ind-m-sg$det$det-ind$det-ind-m	ita	un	det-ind-m-sg$det$det-ind$det-ind-m
+	spa	uno	det-ind$det-ind-m-sg$det$det-ind-m	ita	un	det-ind-m-sg$det$det-ind$det-ind-m
 	spa	uno	det-ind-f-pl$det-ind-f	ita	un	det-ind-f-sg$det-ind-f
 RL	spa	uno	det-ind-GD$det-ind-GD-ND	ita	un	det-ind-mf$det-ind-mf-sg
 	spa	vario	det$det-ind-GD$det-ind$det-ind-GD-ND	ita	vario	$det$det-ind$det-ind-GD-pl
@@ -101,7 +101,7 @@ RL	spa	mil	num$num-mf$num-mf-sp	ita	mila	num
 	spa	uno	num$num-m-sp$num-m	ita	uno	num$$num-m-sp
 	spa	uno	det-def-f-sp	ita	uno	num-f-sp
 	spa	catorce	num$$num-mf$num-mf-sp	ita	quattordici	$num-mf-sp$num
-	spa	cien	num$num-mf$num-mf-sp$	ita	cento	$num-mf-sp$num
+	spa	cien	num$num-mf-sp$num-mf$	ita	cento	$num-mf-sp$num
 	spa	cinco	num$num-mf-sp$	ita	cinque	num-mf-sp$$num
 	spa	cincuenta	num$$num-mf	ita	cinquanta	$num-mf-sp$num
 	spa	cincuenta	num$$num-mf	ita	cinquanta	$num-mf-sp$num
@@ -128,8 +128,8 @@ RL	spa	mil	num$num-mf$num-mf-sp	ita	mila	num
 	spa	dieciocho	num$num-mf-sp$$num-mf	ita	diciotto	$num-mf-sp$num
 	spa	diecisiete	num$$num-mf$num-mf-sp	ita	diciassette	$num-mf-sp$num
 	spa	dieciséis	num$$num-mf$num-mf-sp	ita	sedici	num-mf-sp$$num
-	spa	diez	num$num-mf$$num-mf-sp	ita	dieci	$num-mf-sp$num
-	spa	diez	num$num-mf$$num-mf-sp	ita	dieci	$num-mf-sp$num
+	spa	diez	num$num-mf$num-mf-sp$	ita	dieci	$num-mf-sp$num
+	spa	diez	num$num-mf$num-mf-sp$	ita	dieci	$num-mf-sp$num
 	spa	doce	num$num-mf-pl$$num-mf	ita	dodici	$num-mf-sp$num
 	spa	dos	num$num-mf$num-mf-sp$	ita	due	num-mf-sp$$num
 	spa	dos	num$num-mf$num-mf-sp$	ita	due	num-mf-sp$$num
@@ -185,7 +185,7 @@ RL	spa	mil	num$num-mf$num-mf-sp	ita	mila	num
 	spa	treinta y seis	num$$num-mf	ita	trentasei	num-mf-sp$$num
 	spa	treinta y siete	num$$num-mf	ita	trentasette	num-mf-sp$$num
 	spa	treinta y uno	num$$num-m	ita	trentuno	$num$num-m
-	spa	tres	num$$num-mf-sp	ita	tre	$num-mf-sp$num
+	spa	tres	num$num-mf-sp$	ita	tre	$num-mf-sp$num
 	spa	veinte	num$$num-mf$num-mf-sp	ita	venti	$num-mf-sp$num
 	spa	veinticinco	num$$num-mf	ita	venticinque	num-mf-sp$num$
 	spa	veinticuatro	num$$num-mf	ita	ventiquattro	num-mf-sp$$num
@@ -1108,7 +1108,7 @@ RL	spa	egoísta	adj-mf$adj$adj-mf-sg	ita	egoista	adj-f
 LR	spa	embarazoso	adj$adj-m	ita	imbarazzante	adj$adj-mf$
 LR	spa	embarazoso	adj-f	ita	imbarazzante	adj$adj-mf$
 RL	spa	embarazoso	adj-GD	ita	imbarazzante	adj$adj-mf$
-	spa	emergente	adj-mf$adj$adj-mf-sg	ita	emergente	adj$adj-mf
+	spa	emergente	adj$adj-mf$adj-mf-sg	ita	emergente	adj$adj-mf
 	spa	emocionado	adj-GD-ND$adj	ita	eccitato	$adj
 	spa	emocional	adj$adj-mf$adj-mf-sg	ita	impressionabile	adj$adj-mf
 RL	spa	emocional	adj$adj-mf$adj-mf-sg	ita	emotivo	$adj$adj-m
@@ -1177,7 +1177,7 @@ RL	spa	escultural	adj-mf$adj$adj-mf-sg	ita	scultoreo	adj-f
 	spa	espectral	adj$adj-mf$adj-mf-sg	ita	spettrale	adj$adj-mf
 	spa	especulativa	adj	ita	speculativa	adj
 	spa	específico	adj$adj-GD-ND$adj-GD	ita	specifico	adj$$adj-sup
-	spa	espinal	adj-mf$adj$adj-mf-sg	ita	spinale	adj$adj-mf
+	spa	espinal	adj$adj-mf$adj-mf-sg	ita	spinale	adj$adj-mf
 	spa	espiritual	adj$adj-mf$adj-mf-pl$	ita	spirituale	adj$$adj-mf
 	spa	espléndido	adj$adj-GD$adj-GD-ND	ita	splendido	$adj
 	spa	espontáneo	adj$adj-m-sg$$adj-m	ita	spontaneo	$adj$adj-sup
@@ -1441,7 +1441,7 @@ RL	spa	gris	adj-mf$adj-mf-ND$adj$	ita	grigio	adj-f
 LR	spa	gubernamental	adj-mf$adj$adj-mf-sg	ita	governativo	adj-GD
 RL	spa	gubernamental	adj-mf$adj$adj-mf-sg	ita	governativo	adj-m$adj
 RL	spa	gubernamental	adj-mf$adj$adj-mf-sg	ita	governativo	adj-f
-	spa	guerrero	adj$$adj-GD-ND	ita	guerriero	adj$$adj-sup
+	spa	guerrero	adj$adj-GD-ND	ita	guerriero	adj$$adj-sup
 	spa	gutural	adj-mf$adj$adj-mf-sg	ita	gutturale	adj$$adj-mf
 	spa	habitable	adj$adj-mf-pl$adj-mf	ita	abitabile	adj
 	spa	habituado	adj	ita	abituato	adj$$adj-sup
@@ -1651,7 +1651,7 @@ RL	spa	inmunológico	adj-GD-ND	ita	di immunologia	adj-mf-sp
 	spa	intangible	adj$adj-mf$adj-mf-sg	ita	intangibile	adj$adj-mf
 	spa	integral	adj$adj-mf$adj-mf-ND	ita	integrale	$adj$adj-mf
 	spa	intelectual	adj-mf$adj$adj-mf-ND	ita	intellettuale	adj$$adj-mf
-	spa	inteligente	adj-mf$adj-mf-ND$adj	ita	intelligente	$adj$adj-mf
+	spa	inteligente	adj-mf$adj$adj-mf-ND	ita	intelligente	$adj$adj-mf
 	spa	intemporal	adj-mf$adj$adj-mf-sg	ita	atemporale	adj$adj-mf
 	spa	intencional	adj$adj-mf-ND	ita	intenzionale	$adj
 	spa	intensivo	adj$adj-GD-ND$adj-GD	ita	intensivo	adj$$adj-sup
@@ -1853,7 +1853,7 @@ RL	spa	marinero	adj-GD$adj-GD-pl	ita	marinaio	adj-m
 LR	spa	marroquí	adj-mf$adj$adj-mf-sg	ita	marocchino	adj-GD
 RL	spa	marroquí	adj-mf$adj$adj-mf-sg	ita	marocchino	adj-m$adj
 RL	spa	marroquí	adj-mf$adj$adj-mf-sg	ita	marocchino	adj-f
-	spa	marrón	adj$adj-mf$adj-mf-ND$	ita	marrone	adj$$adj-mf
+	spa	marrón	adj-mf$adj$adj-mf-ND$	ita	marrone	adj$$adj-mf
 	spa	marítimo	adj$adj-GD$adj-GD-ND	ita	marittimo	adj$$adj-sup
 	spa	masculino	adj$adj-GD-ND	ita	mascolino	adj$
 	spa	masiva	adj	ita	massiccia	adj
@@ -1962,7 +1962,7 @@ RL	spa	mundanal	adj-mf-pl$adj-mf$adj	ita	mondano	adj-f
 	spa	múltiple	adj-mf$adj-mf-ND$adj	ita	molteplice	$adj$adj-mf
 	spa	múltiplo	adj	ita	multiplo	adj$adj-m
 	spa	nacido	adj$adj-m-sg	ita	nato	adj$$adj-sup
-	spa	nacional	adj$adj-mf$adj-mf-pl	ita	nazionale	adj$$adj-mf
+	spa	nacional	adj-mf$adj$adj-mf-pl	ita	nazionale	adj$$adj-mf
 	spa	natal	adj$adj-mf$adj-mf-pl	ita	natale	adj$adj-mf
 	spa	nativo	adj$adj-m-sg	ita	nativo	adj$$adj-sup
 LR	spa	nato	adj	ita	nato	adj$$adj-sup
@@ -2036,7 +2036,7 @@ RL	spa	obligado	adj$adj-GD-ND	ita	costretto	$adj
 	spa	ocupacional	adj$adj-mf	ita	occupazionale	adj$adj-mf
 	spa	ocupado	adj$adj-GD-ND	ita	occupato	$adj$adj-sup
 	spa	odioso	adj$adj-GD-ND	ita	odioso	adj$$adj-sup
-	spa	oficial	adj$adj-mf$adj-mf-pl	ita	ufficiale	adj$$adj-mf
+	spa	oficial	adj-mf$adj$adj-mf-pl	ita	ufficiale	adj$$adj-mf
 	spa	olfativo	adj$adj-m-sg	ita	olfattivo	adj
 	spa	olímpico	adj$adj-GD$adj-GD-ND	ita	olimpico	adj$
 	spa	omnipresente	adj$adj-mf$adj-mf-sg	ita	onnipresente	adj$$adj-sup
@@ -2422,9 +2422,9 @@ RL	spa	sexy	adj-ND	ita	sexy	adj-sp$$adj-mf-sp
 	spa	significativo	adj$adj-GD-ND	ita	significativo	$adj$adj-sup
 	spa	siguiente	adj-mf$adj$adj-mf-sg	ita	seguente	adj$$adj-mf
 	spa	silencioso	adj$adj-f	ita	silenzioso	adj$$adj-sup
-LR	spa	silvestre	adj-mf$adj-mf-sg$adj	ita	selvatico	$adj$adj-GD
-RL	spa	silvestre	adj-mf$adj-mf-sg$adj	ita	selvatico	adj-m
-RL	spa	silvestre	adj-mf$adj-mf-sg$adj	ita	selvatico	adj-f
+LR	spa	silvestre	adj-mf$adj$adj-mf-sg	ita	selvatico	$adj$adj-GD
+RL	spa	silvestre	adj-mf$adj$adj-mf-sg	ita	selvatico	adj-m
+RL	spa	silvestre	adj-mf$adj$adj-mf-sg	ita	selvatico	adj-f
 LR	spa	similar	adj$adj-mf$adj-mf-ND	ita	simile	$adj$adj-mf
 	spa	simpatizante	adj-mf$adj$adj-mf-sg	ita	simpatizzante	adj$adj-mf
 	spa	simple	adj-mf-ND$adj$adj-mf	ita	semplice	$adj-mf$adj
@@ -2471,9 +2471,9 @@ RL	spa	soltero	adj-GD-pl	ita	single	adj-mf-sp$$adj
 	spa	sospechoso	adj$adj-GD-ND$	ita	sospettoso	adj$
 	spa	sostenible	adj$adj-mf$adj-mf-ND	ita	sostenibile	adj$$adj-mf
 	spa	soviética	adj	ita	sovietica	adj
-RL	spa	suave	adj-mf$adj-mf-ND$adj	ita	morbido	$adj$adj-m
-RL	spa	suave	adj-mf$adj-mf-ND$adj	ita	morbido	adj-f
-LR	spa	suave	adj-mf$adj-mf-ND$adj	ita	morbido	adj-GD
+RL	spa	suave	adj-mf$adj$adj-mf-ND	ita	morbido	$adj$adj-m
+RL	spa	suave	adj-mf$adj$adj-mf-ND	ita	morbido	adj-f
+LR	spa	suave	adj-mf$adj$adj-mf-ND	ita	morbido	adj-GD
 	spa	subcutáneo	adj$adj-m-sg	ita	sottocutaneo	adj
 	spa	subjetivo	adj$adj-m-sg	ita	soggettivo	adj$$adj-sup
 	spa	subnormal	adj-mf$adj$adj-mf-pl	ita	subnormale	adj$adj-mf
@@ -2883,7 +2883,7 @@ LR	spa	abad	n-f$n-f-sg	ita	abate	n-m
 	spa	abdomen	n-m$n$n-m-ND	ita	addome	n-m$n
 	spa	abdomen	n-m$n$n-m-ND	ita	pancia	n-f$n
 	spa	abecedario	n-m$n	ita	abbecedario	n$n-m
-	spa	abeja	n$n-f$n-f-ND	ita	ape	n$n-f
+	spa	abeja	n-f$n$n-f-ND	ita	ape	n$n-f
 	spa	aberración	n$n-f	ita	aberrazione	n$n-f
 	spa	abeto	n$n-m	ita	abete	n$n-m
 RL	spa	abismo	n$n-m$n-m-ND	ita	baratro	n-m$n
@@ -3111,7 +3111,7 @@ LR	spa	agresividad	n-f-pl	ita	aggressività	n-f-sp$n-f
 RL	spa	agresividad	n$n-f$n-f-ND	ita	aggressività	n-f-sp$n-f
 	spa	agresión	n$n-f$n-f-sg	ita	aggressione	n-f
 	spa	agresor	n$n-m-sg$n-m	ita	aggressore	n$$n-GD
-	spa	agricultor	n$n-m-sg$n-m	ita	agricoltore	n$n-m
+	spa	agricultor	n$n-m$n-m-sg	ita	agricoltore	n$n-m
 	spa	agricultura	n-f$n$n-f-sg	ita	agricoltura	n-f$n
 	spa	agronomía	n$n-f	ita	agronomia	n$n-f
 	spa	agroquímico	n$n-m	ita	agrochimico	n$n-GD
@@ -3185,7 +3185,7 @@ RL	spa	alerta	n-f-ND	ita	allerta	n-f-sp$n-f
 	spa	alfabeto	n-m$n$n-m-ND	ita	alfabeto	n$n-m
 	spa	alfiler	n-m$n$n-m-ND	ita	spilla	n-f
 	spa	alfombra	n-f$n$n-f-ND	ita	tappeto	n-m$n
-	spa	alga	n$n-f	ita	alga	n$n-f
+	spa	alga	n-f$n	ita	alga	n$n-f
 	spa	algodón	n-m$n$n-m-sg	ita	cotone	n-m$n
 	spa	algoritmo	n-m$n$n-m-ND	ita	algoritmo	n-m$n
 	spa	alguien	n	ita	qualcun	n
@@ -3215,7 +3215,7 @@ RL	spa	almirante	n$n-mf	ita	ammiraglio	n-f
 LR	spa	almirante	n$n-mf	ita	ammiraglio	n-GD
 	spa	almuerzo	n-m$n$n-m-sg	ita	spuntino	n-m$n
 	spa	almuédano	n	ita	muezzin	n$n-m
-	spa	alojamiento	n$n-m$n-m-sg	ita	alloggio	n-m$n
+	spa	alojamiento	n-m$n$n-m-sg	ita	alloggio	n-m$n
 	spa	alpinismo	n-m$n	ita	alpinismo	n$n-m
 	spa	alpino	n$n-m	ita	alpino	n$n-GD
 	spa	alquiler	n-m$n$n-m-sg	ita	affitto	n-m$n
@@ -3464,7 +3464,7 @@ LR	spa	aristócrata	n-mf$n	ita	aristocratico	n-GD
 RL	spa	aristócrata	n-mf$n	ita	aristocratico	n-m$n
 RL	spa	aristócrata	n-mf$n	ita	aristocratico	n-f
 	spa	aritmética	n$n-f$n-f-ND	ita	aritmetica	n$n-f
-	spa	arma	n$n-f$n-f-sg	ita	arma	n-f$n
+	spa	arma	n-f$n$n-f-sg	ita	arma	n-f$n
 	spa	armada	n$n-f	ita	armata	n-f$n
 	spa	armadura	n$n-f	ita	armatura	n-f$n
 	spa	armamento	n-m$n$n-m-sg	ita	armamento	n-m$n
@@ -3675,7 +3675,7 @@ LR	spa	autoría	n-f-pl	ita	responsabilità	n-f-sp$n-f
 LR	spa	autónomo	n$n-m	ita	autonomo	n$n-m
 	spa	auxiliar	n$n-mf$n-mf-ND	ita	ausiliario	n-m
 	spa	aval	n$n-m	ita	avallo	n$n-m
-	spa	avalancha	n-f$n	ita	valanga	n-f$n
+	spa	avalancha	n$n-f	ita	valanga	n-f$n
 	spa	avance	n$n-m$n-m-ND	ita	avanzo	n$n-m
 	spa	avaricia	n$n-f	ita	avarizia	n$n-f
 	spa	avaro	n$n-GD	ita	avido	n$n-m
@@ -3778,7 +3778,7 @@ LR	spa	barbero	n$n-m$n-m-sg	ita	barbiere	n-m
 LR	spa	barbero	n-f$n-f-sg	ita	barbiere	n-m
 RL	spa	barbero	n-GD$n-GD-ND	ita	barbiere	n-m
 	spa	barbilla	n-f$n$n-f-ND	ita	mento	n-m$n
-	spa	barca	n$n-f$n-f-ND	ita	barca	n-f$n
+	spa	barca	n-f$n$n-f-ND	ita	barca	n-f$n
 LR	spa	barco	n-m$n$n-m-sg	ita	barca	n-f$n
 	spa	barco	n-m$n$n-m-sg	ita	nave	n-f$n
 	spa	barra	n$n-f$n-f-ND	ita	barra	n-f$n
@@ -3910,7 +3910,7 @@ LR	spa	blogger	n-f-pl	ita	blogger	n-mf-sp$n-mf
 LR	spa	bloque	n$n-m$n-m-ND	ita	blocco	n-m$n
 	spa	bloqueo	n-m$n$n-m-ND	ita	blocco	n-m$n
 	spa	bobina	n$n-f	ita	bobina	n$n-m
-	spa	boca	n$n-f$n-f-ND	ita	bocca	n-f$n
+	spa	boca	n-f$n$n-f-ND	ita	bocca	n-f$n
 	spa	bocado	n-m$n$n-m-sg	ita	boccone	n-m$n$n-m-sg
 	spa	boceto	n$n-m$n-m-ND	ita	schizzo	n-m$n
 LR	spa	boda	n-f$n$n-f-sg	ita	nozze	n-f-pl$n-f$n
@@ -3976,12 +3976,12 @@ RL	spa	boyardo	n-GD	ita	boiaro	n-m
 	spa	bozal	n-m$n	ita	museruola	n-f
 	spa	brasa	n-f$n	ita	brace	n$n-f
 	spa	brasileño	n$n-m	ita	brasiliano	n$n-GD
-LR	spa	brazo	n-m-sg$n-m$n	ita	braccio	n-m-sg$n-m$n
+LR	spa	brazo	n-m$n-m-sg$n	ita	braccio	n-m-sg$n-m$n
 RL	spa	brazo	n-m-pl	ita	braccio	n-GD-pl
-RL	spa	brazo	n-m-sg$n-m$n	ita	braccio	n-m-sg$n-m$n
+RL	spa	brazo	n-m$n-m-sg$n	ita	braccio	n-m-sg$n-m$n
 RL	spa	brazo	n-m-pl	ita	braccio	n-m-pl
 RL	spa	brazo	n-m-pl	ita	braccio	n-f-pl$n-f
-	spa	brazo	n-m-sg$n-m$n	ita	braccio	n-f-pl$n-f
+	spa	brazo	n-m$n-m-sg$n	ita	braccio	n-f-pl$n-f
 	spa	breakfast	n	ita	breakfast	n
 	spa	brecha	n$n-f	ita	falla	n$n-f
 	spa	breve	n	ita	breve	n$n-mf
@@ -3995,8 +3995,8 @@ RL	spa	broma	n$n-f$n-f-ND	ita	battuta	n-f
 	spa	bronce	n$n-m$n-m-ND	ita	bronzo	n-m$n
 	spa	bronceado	n-m$n	ita	abbronzatura	n-f
 LR	spa	bronconeumonía	n	ita	polmonite	n$n-f
-	spa	brote	n-m$n	ita	focolaio	n
-	spa	brote	n-m$n	ita	scoppio	n-m$n
+	spa	brote	n$n-m	ita	focolaio	n
+	spa	brote	n$n-m	ita	scoppio	n-m$n
 LR	spa	browser	n	ita	browser	n-m-sp$n$n-m
 	spa	brujo	n$n-m	ita	stregone	n-m$n
 	spa	bruma	n$n-f$n-f-ND	ita	foschia	n-f$n
@@ -4055,7 +4055,7 @@ LR	spa	búsqueda	n-f$n$n-f-sg	ita	ricerca	n-f$n
 	spa	cabaña	n$n-f$n-f-ND	ita	capanna	n-f$n
 LR	spa	cabecera	n-f-sg	ita	header	n-m-sp
 LR	spa	cabecera	n-f-pl	ita	header	n-m-sp
-RL	spa	cabecera	n-f$n$n-f-ND	ita	header	n-m-sp
+RL	spa	cabecera	n$n-f$n-f-ND	ita	header	n-m-sp
 	spa	cabellera	n-f$n	ita	criniera	n-f$n
 	spa	cabello	n-m$n$n-m-ND	ita	capello	n-m$n
 	spa	cabestrillo	n-m$n	ita	fasciatura	n-f
@@ -4243,7 +4243,7 @@ RL	spa	carmín	n$n-m	ita	carmino	n
 	spa	carmín	n$n-m	ita	carminio	n$n-m
 	spa	carnaval	n$n-m$n-m-ND	ita	carnevale	n-m$n
 	spa	carne	n-f$n$n-f-ND	ita	carne	n-f$n
-	spa	carpa	n$n-f	ita	carpa	n$n-f
+	spa	carpa	n-f$n	ita	carpa	n$n-f
 	spa	carpeta	n-f$n	ita	cartella	n-f$n
 RL	spa	carpintero	n-GD	ita	carpentiere	n-m$n
 LR	spa	carpintero	n$n-m	ita	falegname	n-m
@@ -4286,7 +4286,7 @@ LR	spa	cartilla	n$n-f	ita	credito	n-m$n
 LR	spa	caso	n-m$n$n-m-sg	ita	caso	n-m$n
 	spa	caspa	n$n-f	ita	forfora	n$n-f
 	spa	castaño	n$n-m$n-m-ND	ita	castagno	n-m$n
-	spa	castellano	n$n-m-ND$n-m	ita	castigliano	n$n-GD
+	spa	castellano	n$n-m$n-m-ND	ita	castigliano	n$n-GD
 	spa	castellonense	n-mf$n	ita	castiglionese	n-mf$n
 RL	spa	castidad	n$n-f$n-f-ND	ita	castità	n-f-sp$n-f
 LR	spa	castidad	n-f-sg	ita	castità	n-f-sp$n-f
@@ -4337,13 +4337,13 @@ LR	spa	cavidad	n-f-pl	ita	cavità	n-f-sp$n-f
 	spa	cebolla	n$n-f$n-f-ND	ita	cipolla	n-f$n
 	spa	cebra	n$n-f	ita	zebra	n-f$n
 	spa	cedro	n$n-m	ita	cedro	n-m$n
-RL	spa	ceguera	n$n-f$n-f-ND	ita	cecità	n-f-sp$n-f
+RL	spa	ceguera	n-f$n$n-f-ND	ita	cecità	n-f-sp$n-f
 LR	spa	ceguera	n-f-sg	ita	cecità	n-f-sp$n-f
 LR	spa	ceguera	n-f-pl	ita	cecità	n-f-sp$n-f
-LR	spa	ceja	n$n-f$n-f-sg	ita	sopracciglio	n-m-sg$n-m$n
+LR	spa	ceja	n-f$n$n-f-sg	ita	sopracciglio	n-m-sg$n-m$n
 RL	spa	ceja	n-f-pl	ita	sopracciglio	n-m-pl
 RL	spa	ceja	n-f-pl	ita	sopracciglio	n-f-pl
-RL	spa	ceja	n$n-f$n-f-sg	ita	sopracciglio	n-m-sg$n-m$n
+RL	spa	ceja	n-f$n$n-f-sg	ita	sopracciglio	n-m-sg$n-m$n
 LR	spa	ceja	n-f-pl	ita	sopracciglio	n-GD-pl
 	spa	celda	n$n-f$n-f-ND	ita	cella	n-f$n
 	spa	celebración	n$n-f$n-f-sg	ita	celebrazione	n-f$n
@@ -4493,7 +4493,7 @@ RL	spa	cientifidad	n-f-ND	ita	scientificità	n-f-sp
 	spa	científico	n$n-m$n-m-sg	ita	scienziato	n$n-m
 	spa	cierre	n$n-m$n-m-ND	ita	chiusura	n-f$n
 RL	spa	cierre	n$n-m$n-m-ND	ita	fermo	n-m$n
-	spa	ciervo	n$n-m$n-m-sg	ita	cervo	n$n-m
+	spa	ciervo	n-m$n$n-m-sg	ita	cervo	n$n-m
 	spa	cifra	n-f$n$n-f-ND	ita	cifra	n-f
 	spa	cigarrillo	n-m$n$n-m-ND	ita	sigaretta	n-f$n
 	spa	cigarro	n$n-m	ita	sigaro	n$n-m
@@ -4586,14 +4586,14 @@ RL	spa	clímax	n-sp	ita	culmine	n-sg
 RL	spa	clímax	n-sp	ita	culmine	n-pl
 LR	spa	clímax	n-sp	ita	culmine	n-ND
 	spa	clínica	n$n-f$n-f-sg	ita	clinica	n-f$n
-	spa	clítoris	n-m$n$n-m-sp	ita	clitoride	n-f
-	spa	clítoris	n-m$n$n-m-sp	ita	clitoride	n-f
+	spa	clítoris	n-m$n-m-sp$n	ita	clitoride	n-f
+	spa	clítoris	n-m$n-m-sp$n	ita	clitoride	n-f
 	spa	cm	n$n-acr-m$n-acr-m-sg	ita	cm	n
 	spa	coagulación	n$n-f	ita	coagulazione	n$n-f
 	spa	coalición	n$n-f$n-f-sg	ita	coalizione	n-f$n
 	spa	cobaya	n-m	ita	cavia	n-f
 	spa	cobertura	n-f$n$n-f-sg	ita	copertura	n-f$n
-	spa	cobre	n$n-m$n-m-sg	ita	rame	n-m$n
+	spa	cobre	n-m$n$n-m-sg	ita	rame	n-m$n
 	spa	cobro	n$n-m	ita	riscossione	n-f
 LR	spa	coca	n$n-f$n-f-ND	ita	torta	n-f$n
 	spa	cocaína	n$n-f$n-f-ND	ita	cocaina	n$n-f
@@ -4656,7 +4656,7 @@ RL	spa	colocación	n$n-f$n-f-sg	ita	sistemazione	n-f$n
 	spa	colonialismo	n$n-m$n-m-sg	ita	colonialismo	n-m$n
 	spa	colonización	n$n-f$n-f-ND	ita	colonizzazione	n$n-f
 	spa	colono	n$n-mf	ita	colono	n-m$n
-	spa	color	n-m$n-m-sg$n	ita	colore	n-m$n
+	spa	color	n-m$n$n-m-sg	ita	colore	n-m$n
 	spa	coloración	n$n-f	ita	colorazione	n$n-f
 	spa	colorante	n	ita	colorante	n-m$n
 	spa	columna	n$n-f$n-f-ND	ita	colonna	n-f$n
@@ -4817,7 +4817,7 @@ LR	spa	conectividad	n$n-f$n-f-sg	ita	connettività	n-f-sp$n-f
 LR	spa	conectividad	n-f-pl	ita	connettività	n-f-sp$n-f
 RL	spa	conectividad	n-f-ND	ita	connettività	n-f-sp$n-f
 	spa	conectoma	n	ita	connettoma	n
-LR	spa	conejo	n$n-m$n-m-sg	ita	coniglio	n-m$n
+LR	spa	conejo	n-m$n$n-m-sg	ita	coniglio	n-m$n
 LR	spa	conejo	n-f	ita	coniglio	n-m$n
 RL	spa	conejo	n-GD	ita	coniglio	n-m$n
 	spa	conexión	n$n-f$n-f-ND	ita	connessione	n-f$n
@@ -5016,7 +5016,7 @@ RL	spa	cordobés	n-GD$n-GD-pl	ita	cordovese	n-mf
 	spa	coreano	n$n-m-sg	ita	coreano	n$$n-GD
 	spa	coreografía	n$n-f	ita	coreografia	n-f$n
 	spa	cornisa	n$n-f	ita	cornice	n-f$n
-	spa	coro	n$n-m$n-m-ND	ita	coro	n-m$n
+	spa	coro	n-m$n$n-m-ND	ita	coro	n-m$n
 	spa	corona	n$n-f$n-f-ND	ita	corona	n-f$n
 	spa	coronación	n$n-f	ita	coronazione	n$n-f
 RL	spa	coronación	n$n-f	ita	incoronazione	n-f$n
@@ -5026,7 +5026,7 @@ LR	spa	corporación	n-pl	ita	corporation	n-sp
 RL	spa	corporación	n-ND	ita	corporation	n-sp
 	spa	correa	n-f$n	ita	guinzaglio	n-m
 	spa	corrección	n-f$n	ita	correzione	n-f$n
-	spa	corredor	n-m$n$n-m-sg	ita	corridore	n$n-m
+	spa	corredor	n$n-m$n-m-sg	ita	corridore	n$n-m
 	spa	correlación	n$n-f$n-f-ND	ita	correlazione	n$n-f
 	spa	correo	n$n-m$n-m-pl	ita	posta	n-f
 LR	spa	correo electrónico	n-m	ita	email	n-mf
@@ -5177,8 +5177,8 @@ LR	spa	cuenta	n-sg	ita	account	n-sp
 LR	spa	cuenta	n-pl	ita	account	n-sp
 RL	spa	cuenta	n-GD	ita	account	n-sp
 LR	spa	cuento	n$n-m$n-m-ND	ita	storia	n-f$n
-	spa	cuerda	n$n-f$n-f-ND	ita	corda	n-f$n
-	spa	cuerda	n$n-f$n-f-ND	ita	corda	n-f$n
+	spa	cuerda	n-f$n$n-f-ND	ita	corda	n-f$n
+	spa	cuerda	n-f$n$n-f-ND	ita	corda	n-f$n
 	spa	cuero	n-m$n$n-m-ND	ita	cuoio	n$n-m$n-f-m
 	spa	cuerpo	n-m$n$n-m-sg	ita	corpo	n-m$n
 	spa	cuervo	n-m$n$n-m-sg	ita	corvo	n-m$n
@@ -5274,7 +5274,7 @@ RL	spa	cónsul	n$n-mf-ND$n-mf	ita	console	n-GD-ND
 	spa	da	n	ita	da	n
 	spa	dado	n-m$n	ita	dado	n-m$n
 	spa	dama	n$n-f$n-f-ND	ita	dama	n-f$n
-	spa	danza	n$n-f$n-f-sg	ita	danza	n-f$n
+	spa	danza	n-f$n$n-f-sg	ita	danza	n-f$n
 LR	spa	danés	n$n-m$n-m-ND	ita	danese	n-mf$n
 LR	spa	danés	n-f$n-f-sg	ita	danese	n-mf$n
 RL	spa	danés	n-GD$n-GD-pl	ita	danese	n-mf$n
@@ -5564,7 +5564,7 @@ RL	spa	diagnóstico	n-m-ND	ita	diagnosi	n-f-sp$n-f
 LR	spa	diagrama	n-sg	ita	diagramma	n-sp
 LR	spa	diagrama	n-pl	ita	diagramma	n-sp
 RL	spa	diagrama	n-ND	ita	diagramma	n-sp
-	spa	dialecto	n$n-m$n-m-ND	ita	dialetto	n-m$n
+	spa	dialecto	n-m$n$n-m-ND	ita	dialetto	n-m$n
 	spa	dialéctica	n$n-f	ita	dialettica	n$n-f
 	spa	diamante	n-m$n$n-m-sg	ita	diamante	n$n-m
 	spa	diana	n$n-f	ita	diana	n$n-f
@@ -5936,7 +5936,7 @@ RL	spa	elevador	n-GD	ita	elevatore	n-m
 LR	spa	empoderamiento	n$n-m	ita	responsabilizzazione	n-f
 	spa	empollón	n	ita	secchione	n$n-mf
 	spa	emprendedor	n$n-f-pl	ita	imprenditore	n$n-m
-	spa	empresa	n$n-f$n-f-sg	ita	impresa	n-f$n
+	spa	empresa	n-f$n$n-f-sg	ita	impresa	n-f$n
 	spa	empresario	n$n-m$n-m-sg	ita	imprenditore	n$n-m
 	spa	emt	n	ita	emt	n
 	spa	emulación	n-f$n	ita	emulazione	n$n-f
@@ -6111,7 +6111,7 @@ RL	spa	escritorio	n-m$n$n-m-ND	ita	desktop	n-m-sp$n-m
 	spa	escritorio	n-m$n$n-m-ND	ita	scrivania	n-f
 	spa	escritura	n$n-f$n-f-sg	ita	scrittura	n-f$n
 	spa	escudería	n$n-f	ita	scuderia	n-f$n
-	spa	escudo	n$n-m$n-m-ND	ita	scudo	n-m$n
+	spa	escudo	n-m$n$n-m-ND	ita	scudo	n-m$n
 	spa	escuela	n-f$n$n-f-sg	ita	scuola	n-f$n
 LR	spa	escuela secundaria	n-f	ita	liceo	n-m$n
 	spa	escultor	n$n-m$n-m-pl	ita	scultore	n$n-m
@@ -6226,7 +6226,7 @@ RL	spa	estación	n-f$n$n-f-ND	ita	stazione	n-f$n
 	spa	estanque	n$n-m$n-m-ND	ita	stagno	n-m$n$
 	spa	estante	n$n-m$n-m-ND	ita	scaffale	n-m$n
 	spa	estante	n$n-m$n-m-ND	ita	scaffale	n-m$n
-	spa	estatua	n$n-f$n-f-ND	ita	statua	n$n-f
+	spa	estatua	n-f$n$n-f-ND	ita	statua	n$n-f
 	spa	estatura	n$n-f$n-f-ND	ita	statura	n-f$n
 	spa	estatus	n$n-m$n-m-sp	ita	status	n-m$n
 LR	spa	estaño	n-m$n$n-m-ND	ita	stagno	n-m$n$
@@ -6850,8 +6850,8 @@ LR	spa	gel	n-m-pl	ita	gel	n-m-sp$n-m
 RL	spa	gel	n$n-m$n-m-ND	ita	gel	n-m-sp$n-m
 	spa	gelatina	n$n-f	ita	gelatina	n$n-f
 	spa	gema	n$n-f	ita	gemma	n-f$n
-	spa	gemelo	n$n-m$n-m-ND	ita	gemello	n$$n-m
-	spa	gemelo	n$n-m$n-m-ND	ita	gemello	n$$n-m
+	spa	gemelo	n$n-f	ita	gemello	n$$n-m
+	spa	gemelo	n$n-f	ita	gemello	n$$n-m
 	spa	geminación	n$n-f	ita	geminazione	n$n-f
 	spa	gen	n$n-m$n-m-ND	ita	gene	n$n-m
 	spa	genealogía	n$n-f	ita	genealogia	n$n-f
@@ -6961,7 +6961,7 @@ LR	spa	golpista	n$n-mf	ita	golpista	n-GD
 LR	spa	gorila	n-sg	ita	gorilla	n-sp
 LR	spa	gorila	n-pl	ita	gorilla	n-sp
 RL	spa	gorila	n-ND	ita	gorilla	n-sp
-	spa	gorra	n$n-f	ita	berretto	n-m
+	spa	gorra	n-f$n	ita	berretto	n-m
 	spa	gota	n-f$n$n-f-ND	ita	goccia	n$n-f
 	spa	goteo	n$n-m	ita	gocciolio	n
 	spa	gozo	n$n-m$n-m-ND	ita	godimento	n-m$n
@@ -7046,9 +7046,9 @@ RL	spa	guardián	n$n-GD$n-GD-pl	ita	custode	n-mf
 	spa	guarnición	n$n-f	ita	guarnigione	n$n-f
 	spa	guau	ij	ita	wow	ij
 	spa	guerra	n-f$n$n-f-sg	ita	guerra	n-f$n
-LR	spa	guerrero	n$n-m$n-m-sg	ita	guerriero	n-GD
-RL	spa	guerrero	n$n-m$n-m-sg	ita	guerriero	n$n-m
-RL	spa	guerrero	n$n-m$n-m-sg	ita	guerriero	n-f
+LR	spa	guerrero	n$n-m$n-m-sg$	ita	guerriero	n-GD
+RL	spa	guerrero	n$n-m$n-m-sg$	ita	guerriero	n$n-m
+RL	spa	guerrero	n$n-m$n-m-sg$	ita	guerriero	n-f
 LR	spa	guerrilla	n$n-f$n-f-sg	ita	guerriglia	n-f$n
 RL	spa	guerrilla	n$n-f$n-f-sg	ita	guerrigliero	n$n-m
 RL	spa	guerrilla	n$n-f$n-f-sg	ita	guerrigliero	n-f
@@ -7144,7 +7144,7 @@ RL	spa	herencia	n-f$n$n-f-ND	ita	eredità	n-f-sp$n-f
 	spa	herido	n$n-m$n-m-ND	ita	ferito	n$$n-m
 	spa	hermana	n-f$n$n-f-sg	ita	sorella	n-f$n
 	spa	hermandad	n$n-f$n-f-sg	ita	fratellanza	n-f$n
-	spa	hermano	n-m$n$n-m-sg	ita	fratello	n-m$n
+	spa	hermano	n-m$n-m-sg	ita	fratello	n-m$n
 	spa	hernia	n$n-f	ita	ernia	n-f$n
 	spa	heroína	n$n-f$n-f-sg	ita	eroina	n-f$n
 	spa	herpes	n-m$n$n-m-sp	ita	herpes	n-m$n-m-sp
@@ -7179,7 +7179,7 @@ RL	spa	hilaridad	n$n-f$n-f-ND	ita	ilarità	n-f-sp$n-f
 LR	spa	hilaridad	n-f-sg	ita	ilarità	n-f-sp$n-f
 LR	spa	hilaridad	n-f-pl	ita	ilarità	n-f-sp$n-f
 	spa	hilo	n$n-m$n-m-ND	ita	filo	n-m$n$n-f-m
-	spa	himen	n$n-m	ita	imene	n$n-m
+	spa	himen	n-m$n	ita	imene	n$n-m
 	spa	himno	n-m$n$n-m-sg	ita	inno	n-m$n
 LR	spa	hincapié	n$n-m	ita	attenzione	n-f$n
 LR	spa	hindú	n$n-mf$n-mf-sg	ita	indù	n-mf-sp
@@ -7253,7 +7253,7 @@ RL	spa	honor	n-m$n$n-m-sg	ita	onorificenza	n-f$n
 LR	spa	honra	n$n-f$n-f-ND	ita	onore	n-m$n
 	spa	hora	n-f$n$n-f-sg	ita	ora	n-f$n
 	spa	horario	n-m$n$n-m-ND	ita	orario	n-m$n$
-	spa	horca	n$n-f	ita	forca	n-f$n
+	spa	horca	n-f$n	ita	forca	n-f$n
 	spa	horizontal	n-f$n	ita	orizzontale	n$n-f
 	spa	horizonte	n$n-m$n-m-ND	ita	orizzonte	n-m$n
 LR	spa	horma	n-f$n$n-f-ND	ita	forma	n-f$n
@@ -7279,7 +7279,7 @@ LR	spa	hotel	n-m-pl	ita	hotel	n-m-sp$n-m
 RL	spa	hotel	n-m-ND	ita	hotel	n-m-sp$n-m
 RL	spa	hoyo	n$n-m	ita	fossa	n-f$n
 	spa	hoyo	n$n-m	ita	buco	n-m$n
-	spa	hucha	n$n-f	ita	salvadanaio	n-m
+	spa	hucha	n-f$n	ita	salvadanaio	n-m
 LR	spa	hueco	n-m$n$n-m-ND	ita	spazio	n-m$n
 	spa	huelga	n$n-f$n-f-ND	ita	sciopero	n-m$n
 	spa	huelga	n$n-f$n-f-ND	ita	sciopero	n-m$n
@@ -7319,9 +7319,9 @@ LR	spa	humorista	n$n-mf	ita	umorista	n-GD
 	spa	huracán	n$n-m$n-m-ND	ita	uragano	n-m$n
 LR	spa	hurto	n$n-m	ita	furto	n$n-m
 	spa	huérfano	n$n-m-sg$n-m	ita	orfano	n$$n-m
-LR	spa	huésped	n-m$n-m-ND	ita	ospite	n-mf$$n
+LR	spa	huésped	n$n-m$n-m-ND	ita	ospite	n-mf$$n
 LR	spa	huésped	n-f	ita	ospite	n-mf$$n
-RL	spa	huésped	n$n-GD	ita	ospite	n-mf$$n
+RL	spa	huésped	n-GD	ita	ospite	n-mf$$n
 LR	spa	hábitat	n$n-m$n-m-sg	ita	habitat	n-m-sp$n-m
 LR	spa	hábitat	n-m-pl	ita	habitat	n-m-sp$n-m
 RL	spa	hábitat	n-m-ND	ita	habitat	n-m-sp$n-m
@@ -7576,8 +7576,8 @@ RL	spa	instalación	n$n-f$n-f-sg	ita	impianto	n-m$n
 	spa	instauración	n$n-f$n-f-ND	ita	instaurazione	n$n-f
 	spa	instigación	n$n-f$n-f-sg	ita	istigazione	n$n-f
 	spa	instinto	n$n-m$n-m-ND	ita	istinto	n-m$n
-	spa	institución	n$n-f$n-f-sg	ita	istituzione	n-f$n
-	spa	institución	n$n-f$n-f-sg	ita	istituto	n-m$n
+	spa	institución	n-f$n$n-f-sg	ita	istituzione	n-f$n
+	spa	institución	n-f$n$n-f-sg	ita	istituto	n-m$n
 	spa	instituto	n-m$n$n-m-sg	ita	liceo	n-m$n
 	spa	instrucción	n$n-f$n-f-sg	ita	istruzione	n-f$n
 	spa	instructor	n$n-m$n-m-sg	ita	istruttore	n-m$n
@@ -7835,7 +7835,7 @@ RL	spa	labrador	n$n-GD$n-GD-ND	ita	labrador	n-mf-sp
 	spa	lado	n-m$n$n-m-ND	ita	lato	n-m$n$
 	spa	ladrillo	n-m$n$n-m-ND	ita	mattone	n-m$n
 	spa	ladrillo	n-m$n$n-m-ND	ita	mattone	n-m$n
-	spa	ladrón	n-m$n$n-m-sg	ita	ladro	n$n-m$
+	spa	ladrón	n$n-m$n-m-sg	ita	ladro	n$n-m$
 	spa	lagartija	n$n-f	ita	lucertola	n-f$n
 	spa	lago	n$n-m$n-m-sg	ita	lago	n-m$n
 	spa	laguna	n$n-f$n-f-sg	ita	laguna	n$n-f
@@ -7927,7 +7927,7 @@ LR	spa	letargia	n$n-f	ita	letargo	n-m$n
 	spa	levita	n$n-mf	ita	levita	n$n-m
 	spa	ley	n$n-f$n-f-sg	ita	legge	n-f$n
 	spa	leyenda	n$n-f$n-f-sg	ita	leggenda	n-f$n
-	spa	leña	n$n-f$n-f-sg	ita	legna	n$n-f
+	spa	leña	n-f$n$n-f-sg	ita	legna	n$n-f
 	spa	león	n$n-m$n-m-sg	ita	leone	n-m$n
 	spa	liberación	n-f$n$n-f-ND	ita	liberazione	n-f$n
 	spa	liberalismo	n$n-m	ita	liberalismo	n$n-m
@@ -7980,7 +7980,7 @@ LR	spa	lista	n-f$n$n-f-sg	ita	elenco	n-m$n
 	spa	litro	n-m$n$n-m-ND	ita	litro	n-m$n
 	spa	lituano	n$n-GD	ita	lituano	n$n-GD
 	spa	liturgia	n$n-f$n-f-ND	ita	liturgia	n-f$n
-	spa	llama	n$n-f$n-f-ND	ita	fiamma	n-f$n
+	spa	llama	n-f$n$n-f-ND	ita	fiamma	n-f$n
 	spa	llamado	n	ita	richiamo	n-m$n
 	spa	llanta	n$n-f	ita	pneumatico	n$n-m$
 	spa	llanto	n$n-m$n-m-ND	ita	pianto	n-m$n
@@ -8093,7 +8093,7 @@ RL	spa	magrebí	n-mf$n	ita	magrebino	n-f
 LR	spa	mail	n$n-m$n-m-sg	ita	mail	n-f-sp$n-f
 LR	spa	mail	n-m-pl	ita	mail	n-f-sp$n-f
 RL	spa	mail	n-m-ND	ita	mail	n-f-sp$n-f
-	spa	mal	n$n-m$n-m-ND	ita	male	n-m$n
+	spa	mal	n-m$n$n-m-ND	ita	male	n-m$n
 	spa	malagueño	n	ita	malagueño	n
 	spa	malaria	n$n-f$n-f-sg	ita	malaria	n-f$n
 	spa	maldad	n$n-f$n-f-ND	ita	cattiveria	n-f$n
@@ -8328,7 +8328,7 @@ RL	spa	mesa	n-f$n$n-f-sg	ita	tavolo	n-f
 	spa	mesón	n-m$n	ita	mesone	n$n-m
 	spa	meta	n$n-f$n-f-ND	ita	meta	n-f$n
 	spa	metabolismo	n-m$n	ita	metabolismo	n-m$n
-	spa	metal	n$n-m$n-m-ND	ita	metallo	n$n-m
+	spa	metal	n-m$n$n-m-ND	ita	metallo	n$n-m
 	spa	metalurgia	n$n-f$n-f-sg	ita	metallurgia	n-f$n
 	spa	metamorfosis	n-f-sp$n$n-f	ita	metamorfosi	n-f-sp$n-f
 	spa	metano	n$n-m	ita	metano	n$n-m
@@ -8351,8 +8351,8 @@ RL	spa	mezcla	n-f$n$n-f-ND	ita	miscela	n-f$n
 LR	spa	micro	n$n-m-sg	ita	micro	n-m-sp$n-m
 LR	spa	micro	n-m-pl	ita	micro	n-m-sp$n-m
 RL	spa	micro	n-m-ND	ita	micro	n-m-sp$n-m
-	spa	microbio	n$n-m	ita	microrganismo	n$n-m
-	spa	microbio	n$n-m	ita	microbio	n
+	spa	microbio	n-m$n	ita	microrganismo	n$n-m
+	spa	microbio	n-m$n	ita	microbio	n
 LR	spa	microonda	n$n-f$n-f-sg	ita	microonde	n-m-sp$n-m
 LR	spa	microonda	n-f-pl	ita	microonde	n-m-sp$n-m
 RL	spa	microonda	n-f-ND	ita	microonde	n-m-sp$n-m
@@ -8361,11 +8361,11 @@ RL	spa	microonda	n-f-ND	ita	microonde	n-m-sp$n-m
 	spa	miedo	n-m$n$n-m-ND	ita	paura	n-f$n
 	spa	miel	n-f$n$n-f-ND	ita	miele	n-m
 	spa	miembro	n-mf$n$n-mf-ND	ita	membro	n-mf
-	spa	mierda	n$n-f$n-f-ND	ita	merda	n-f$n
+	spa	mierda	n-f$n$n-f-ND	ita	merda	n-f$n
 	spa	migración	n$n-f$n-f-sg	ita	migrazione	n$n-f
 	spa	migrante	n	ita	migrante	n$n-mf
 	spa	migraña	n-f$n$n-f-sg	ita	emicrania	n$n-f
-	spa	milagro	n$n-m$n-m-ND	ita	miracolo	n-m$n
+	spa	milagro	n-m$n$n-m-ND	ita	miracolo	n-m$n
 	spa	milenio	n-m$n$n-m-ND	ita	millennio	n$n-m
 	spa	milisegundo	n$n-m	ita	millisecondo	n$n-m
 	spa	militar	n$n-mf$n-mf-ND	ita	militare	n-m$
@@ -8543,15 +8543,15 @@ LR	spa	mundanidad	n$n-f-sg	ita	mondanità	n-f-sp$n-f
 LR	spa	mundanidad	n-f-pl	ita	mondanità	n-f-sp$n-f
 RL	spa	mundanidad	n-f-ND	ita	mondanità	n-f-sp$n-f
 	spa	mundialización	n	ita	globalizzazione	n$n-f
-	spa	mundo	n$n-m$n-m-sg	ita	mondo	n-m$n$
+	spa	mundo	n-m$n$n-m-sg	ita	mondo	n-m$n$
 LR	spa	municipalidad	n$n-f$n-f-sg	ita	municipalità	n-f-sp$n-f
 LR	spa	municipalidad	n-f-pl	ita	municipalità	n-f-sp$n-f
 RL	spa	municipalidad	n-f-ND	ita	municipalità	n-f-sp$n-f
 	spa	municipio	n-m$n$n-m-ND	ita	municipio	n-m$n
 	spa	munición	n$n-f$n-f-ND	ita	munizione	n$n-f
 	spa	mural	n$n-m$n-m-ND	ita	murale	n$n-m
-	spa	murciélago	n$n-m	ita	pipistrello	n$n-m
-	spa	murciélago	n$n-m	ita	pipistrello	n$n-m
+	spa	murciélago	n-m$n	ita	pipistrello	n$n-m
+	spa	murciélago	n-m$n	ita	pipistrello	n$n-m
 	spa	murmullo	n$n-m	ita	brusio	n-m$n
 LR	spa	muro	n-m$n$n-m-pl	ita	muro	n-GD-pl
 LR	spa	muro	n-m-sg	ita	muro	n-m$n-m-sg$n
@@ -8593,9 +8593,9 @@ LR	spa	módulo	n$n-m	ita	modulo	n$n-m
 	spa	músico	n$n-m$n-m-ND	ita	musicista	n$n-mf-m$n-m
 	spa	nacimiento	n-m$n$n-m-ND	ita	nascita	n-f$n
 RL	spa	nacionalidad	n-f-ND	ita	nazionalità	n-f-sp$n-f
-LR	spa	nacionalidad	n$n-f$n-f-sg	ita	nazionalità	n-f-sp$n-f
+LR	spa	nacionalidad	n-f$n$n-f-sg	ita	nazionalità	n-f-sp$n-f
 LR	spa	nacionalidad	n-f-pl	ita	nazionalità	n-f-sp$n-f
-LR	spa	nacionalidad	n$n-f$n-f-sg	ita	nazionalità	n-f-sp$n-f
+LR	spa	nacionalidad	n-f$n$n-f-sg	ita	nazionalità	n-f-sp$n-f
 LR	spa	nacionalidad	n-f-pl	ita	nazionalità	n-f-sp$n-f
 RL	spa	nacionalidad	n-f-ND	ita	nazionalità	n-f-sp$n-f
 	spa	nacionalismo	n$n-m$n-m-ND	ita	nazionalismo	n-m$n
@@ -8753,7 +8753,7 @@ RL	spa	nube	n-f$n$n-f-ND	ita	nube	n-f$n
 LR	spa	nubosidad	n$n-f$n-f-sg	ita	nebulosità	n-f-sp$n-f
 LR	spa	nubosidad	n-f-pl	ita	nebulosità	n-f-sp$n-f
 RL	spa	nubosidad	n-f-ND	ita	nebulosità	n-f-sp$n-f
-	spa	nudo	n$n-m$n-m-ND	ita	nodo	n-m$n
+	spa	nudo	n-m$n$n-m-ND	ita	nodo	n-m$n
 	spa	nuera	n$n-f	ita	nuora	n$n-f
 	spa	nuez	n$n-f$n-f-ND	ita	noce	n-f$n
 	spa	numeración	n$n-f	ita	numerazione	n-f$n
@@ -8810,7 +8810,7 @@ LR	spa	oculista	n-mf$n	ita	oculista	n-GD
 	spa	ocultación	n$n-f	ita	occultamento	n-m
 	spa	ocultación	n$n-f	ita	occultazione	n$n-f
 	spa	ocupación	n-f$n$n-f-ND	ita	occupazione	n-f$n
-	spa	océano	n$n-m$n-m-sg	ita	oceano	n-m$n
+	spa	océano	n-m$n$n-m-sg	ita	oceano	n-m$n
 	spa	odio	n-m$n$n-m-ND	ita	odio	n-m$n
 	spa	odisea	n$n-f	ita	odissea	n-f$n
 	spa	odontología	n$n-f$n-f-sg	ita	odontoiatria	n$n-f
@@ -8834,7 +8834,7 @@ RL	spa	odontología	n$n-f$n-f-sg	ita	odontologia	n$n-f
 LR	spa	oliva	n$n-f	ita	oliva	n$n-f
 	spa	olivo	n-m$n$n-m-ND	ita	olivo	n$n-m
 RL	spa	olivo	n-m$n$n-m-ND	ita	ulivo	n$n-m
-	spa	olla	n$n-f	ita	pentola	n-f$n
+	spa	olla	n-f$n	ita	pentola	n-f$n
 	spa	olmo	n-m$n	ita	olmo	n$n-m
 	spa	olor	n-m$n$n-m-ND	ita	odore	n-m$n
 	spa	olvido	n$n-m$n-m-ND	ita	oblio	n$n-m
@@ -9066,7 +9066,7 @@ LR	spa	partido	n-m$n$n-m-sg	ita	partita	n-f
 	spa	parábola	n$n-f	ita	parabola	n-f$n
 	spa	parálisis	n-f-sp$n-f$n	ita	paralisi	n-f-sp$n-f
 	spa	parámetro	n$n-m$n-m-sg	ita	parametro	n$n-m
-	spa	parásito	n$n-m$n-m-sg	ita	parassita	n-m$$n
+	spa	parásito	n-m$n$n-m-sg	ita	parassita	n-m$$n
 	spa	paréntesis	n-m-sp$n-m$n	ita	parentesi	n-f-sp$n-f
 	spa	pasado	n-m$n$n-m-ND	ita	passato	$n-m$n
 LR	spa	pasaje	n-m$n	ita	passaggio	n-m$n
@@ -9151,7 +9151,7 @@ RL	spa	pediatra	n-mf$n$n-mf-sg	ita	pediatra	n-f$n-f-pl
 	spa	pediatría	n$n-f	ita	pediatria	n$n-f
 	spa	pedo	n-m$n$n-m-sg	ita	peto	n$n-m
 	spa	pegamento	n-m$n$n-m-sg	ita	adesivo	n-m$n
-	spa	peine	n$n-m$n-m-sg	ita	pettine	n$n-m
+	spa	peine	n-m$n$n-m-sg	ita	pettine	n$n-m
 	spa	pelea	n$n-f	ita	colluttazione	n-f$n
 	spa	peletería	n	ita	pellicceria	n$n-f
 	spa	peligro	n$n-m$n-m-sg	ita	pericolo	n-m$n
@@ -9177,7 +9177,7 @@ RL	spa	penalización	n-f-ND	ita	penalità	n-f-sp$n-f
 	spa	pendiente	n-m$n-m-sg	ita	orecchino	n-m$n
 	spa	pendiente	n-f$n$n-f-sg	ita	pendenza	n-f
 	spa	pendiente	n-f$n$n-f-sg	ita	versante	n-m
-	spa	pene	n-m$n-m-ND$n	ita	pene	n-m$n$n-m-ND
+	spa	pene	n-m$n$n-m-ND	ita	pene	n-m$n$n-m-ND
 	spa	penetración	n$n-f$n-f-ND	ita	penetrazione	n$n-f
 	spa	penicilina	n$n-f	ita	penicillina	n$n-f
 	spa	penitenciaría	n-f	ita	penitenziario	n-m$n-f-m
@@ -9189,7 +9189,7 @@ RL	spa	penalización	n-f-ND	ita	penalità	n-f-sp$n-f
 	spa	pentagrama	n-m$n	ita	pentagramma	n$n-m
 	spa	pentágono	n-m$n$n-m-sg	ita	pentagono	n-m$n
 	spa	península	n$n-f$n-f-ND	ita	penisola	n-f$n
-	spa	pepino	n$n-m$n-m-pl	ita	cetriolo	n$n-m
+	spa	pepino	n-m$n$n-m-pl	ita	cetriolo	n$n-m
 	spa	per	n	ita	per	n$n-f
 	spa	percepción	n$n-f$n-f-ND	ita	percezione	n-f$n
 LR	spa	perdedor	n-m$n-m-pl	ita	perdente	n-mf
@@ -9293,7 +9293,7 @@ RL	spa	piedad	n-f-ND	ita	pietà	n-f$n-f-sp
 	spa	piedra	n-f$n$n-f-sg	ita	sasso	n-m
 	spa	piel	n-f$n$n-f-ND	ita	pelle	n-f$n
 LR	spa	pienso	n$n-m	ita	materia	n-f$n
-	spa	pierna	n$n-f$n-f-ND	ita	gamba	n-f$n
+	spa	pierna	n-f$n$n-f-ND	ita	gamba	n-f$n
 	spa	pieza	n-f$n$n-f-ND	ita	pezzo	n-m$n
 	spa	pieza	n-f$n$n-f-ND	ita	tassello	n-m
 	spa	pigmentación	n$n-f	ita	pigmentazione	n$n-f
@@ -9316,7 +9316,7 @@ RL	spa	piloto	n-m$n-m-sg	ita	pilota	n-f
 	spa	pintura	n-f$n$n-f-ND	ita	vernice	n-f$n
 LR	spa	pintura	n-f$n$n-f-ND	ita	prodotto	n-m$n
 	spa	pintura	n-f$n$n-f-ND	ita	pittura	n-f$n
-	spa	piojo	n$n-m	ita	pidocchio	n-m$n
+	spa	piojo	n-m$n	ita	pidocchio	n-m$n
 	spa	piolet	n$n-m	ita	piccozza	n-f
 	spa	pionero	n$n-m$n-m-sg	ita	pioniere	n-m$n
 	spa	pipa	n$n-f$n-f-ND	ita	pipa	n$n-f
@@ -9396,7 +9396,7 @@ RL	spa	pobreza	n-f-ND	ita	povertà	n-f-sp$n-f
 	spa	pocilga	n-f$n	ita	porcile	n-m
 	spa	poción	n$n-f	ita	pozione	n$n-f
 	spa	poder	n$n-m$n-m-sg	ita	potere	n-m$$n
-	spa	poema	n$n-m$n-m-ND	ita	poema	n-m$n
+	spa	poema	n-m$n$n-m-ND	ita	poema	n-m$n
 	spa	poesía	n$n-f$n-f-sg	ita	poesia	n-f$n
 LR	spa	poeta	n-mf$n$n-mf-ND	ita	poeta	n-GD
 RL	spa	poeta	n-mf$n$n-mf-ND	ita	poeta	n-m$n
@@ -9518,7 +9518,7 @@ RL	spa	predicción	n$n-f$n-f-ND	ita	predizione	n$n-f
 	spa	predisposición	n$n-f	ita	predisposizione	n-f$n
 	spa	prefacio	n-m$n	ita	prefazione	n-f
 	spa	preferencia	n$n-f$n-f-ND	ita	preferenza	n-f$n
-	spa	pregunta	n$n-f$n-f-ND	ita	domanda	n-f$n
+	spa	pregunta	n-f$n$n-f-ND	ita	domanda	n-f$n
 	spa	prehistoria	n$n-f	ita	preistoria	n$n-f
 	spa	prejuicio	n$n-m$n-m-sg	ita	pregiudizio	n-m$n
 	spa	preludio	n$n-m	ita	preludio	n-m$n
@@ -9757,7 +9757,7 @@ LR	spa	puntaje	n-m$n	ita	punteggio	n-m$n
 	spa	punto	n-m$n$n-m-ND	ita	puntino	n-m$n
 	spa	puntuación	n$n-f$n-f-sg	ita	punteggio	n-m$n
 	spa	puntualización	n$n-f	ita	precisazione	n$n-f
-	spa	pupila	n$n-f$n-f-ND	ita	pupilla	n$n-f
+	spa	pupila	n-f$n$n-f-ND	ita	pupilla	n$n-f
 	spa	purificación	n$n-f	ita	purificazione	n$n-f
 LR	spa	pus	n-m$n$n-m-sg	ita	pus	n-m-sp$n-m
 LR	spa	pus	n-m-pl	ita	pus	n-m-sp$n-m
@@ -10198,11 +10198,11 @@ RL	spa	robot	n$n-m$n-m-ND	ita	robot	n-m-sp$n-m
 	spa	roca	n$n-f$n-f-sg	ita	roccia	n-f$n
 	spa	roce	n$n-m$n-m-ND	ita	attrito	n-m$n
 	spa	rock	n$n-m$n-m-sg	ita	rock	n$n-m
-LR	spa	rodilla	n-f$n-f-sg$n	ita	ginocchio	n-m-sg$n-m$n
+LR	spa	rodilla	n-f$n$n-f-sg	ita	ginocchio	n-m-sg$n-m$n
 LR	spa	rodilla	n-f-pl	ita	ginocchio	n-GD-pl
 RL	spa	rodilla	n-f-pl	ita	ginocchio	n-f-pl
 RL	spa	rodilla	n-f-pl	ita	ginocchio	n-m-pl
-RL	spa	rodilla	n-f$n-f-sg$n	ita	ginocchio	n-m-sg$n-m$n
+RL	spa	rodilla	n-f$n$n-f-sg	ita	ginocchio	n-m-sg$n-m$n
 	spa	rojo	n$n-GD	ita	rosso	n-m$n
 	spa	rol	n$n-m	ita	ruolo	n-m$n
 LR	spa	romance	n$n-m$n-m-ND	ita	romanzo	n-m$n$
@@ -10548,7 +10548,7 @@ LR	spa	sofá	n-m-pl	ita	sofà	n-m-sp$n-m
 RL	spa	sofá	n$n-m$n-m-ND	ita	sofà	n-m-sp$n-m
 	spa	sofá	n$n-m$n-m-ND	ita	divano	n-m$n
 	spa	soja	n$n-f$n-f-sg	ita	soia	n$n-f
-	spa	sol	n$n-m$n-m-ND	ita	sole	n-m$n
+	spa	sol	n-m$n$n-m-ND	ita	sole	n-m$n
 	spa	solapa	n$n-f$n-f-ND	ita	risvolto	n-m
 LR	spa	soldado	n-mf$n$n-mf-sg	ita	soldato	n-m$n$n-m-sg
 LR	spa	soldado	n-mf-pl	ita	soldato	n-f-pl
@@ -10643,7 +10643,7 @@ LR	spa	sueco	n$n-m$n-m-sg	ita	svedese	n-mf$n
 LR	spa	sueco	n-f$n-f-sg	ita	svedese	n-mf$n
 RL	spa	sueco	n-GD$n-GD-ND	ita	svedese	n-mf$n
 	spa	sueldo	n$n-m$n-m-sg	ita	stipendio	n-m$n
-	spa	suelo	n$n-m$n-m-sg	ita	suolo	n-m$n
+	spa	suelo	n-m$n$n-m-sg	ita	suolo	n-m$n
 LR	spa	suerte	n$n-f$n-f-sg	ita	regime	n-m$n
 	spa	suerte	n$n-f$n-f-sg	ita	fortuna	n-f$n
 	spa	sueño	n$n-m$n-m-sg	ita	sonno	n-m$n
@@ -10756,7 +10756,7 @@ LR	spa	tamaño	n-m$n$n-m-sg	ita	dimensione	n-f$n
 	spa	tangente	n$n-f	ita	tangente	n-f$n
 	spa	tanque	n$n-m$n-m-sg	ita	serbatoio	n-m$n
 	spa	tanque	n$n-m$n-m-sg	ita	serbatoio	n-m$n
-	spa	tanto	n-m$n	ita	tanto	n-m$n
+	spa	tanto	n$n-m	ita	tanto	n-m$n
 	spa	tapa	n-f$n	ita	coperchio	n-m
 	spa	tapadera	n-f$n	ita	coperchio	n-m
 	spa	tapicería	n$n-f	ita	tappezzeria	n-f$n
@@ -10795,7 +10795,7 @@ RL	spa	taxista	n-mf$n	ita	tassista	n-f
 	spa	tecnólogo	n	ita	tecnologo	n
 	spa	tejado	n-m$n$n-m-ND	ita	tetto	n-m$n
 	spa	tejido	n$n-m	ita	tessuto	n-m$n
-	spa	tela	n$n-f$n-f-ND	ita	tessuto	n-m$n
+	spa	tela	n-f$n$n-f-ND	ita	tessuto	n-m$n
 	spa	telaraña	n-f$n$n-f-ND	ita	ragnatela	n-f$n
 	spa	tele	n$n-f$n-f-ND	ita	televisione	n-f$n
 	spa	telecomunicación	n$n-f$n-f-sg	ita	telecomunicazione	n$n-f
@@ -10871,8 +10871,8 @@ RL	spa	test	n-m$n$n-m-ND	ita	test	n-m$n-m-sp$n
 	spa	testosterona	n$n-f	ita	testosterone	n-m$n
 	spa	testosterona	n$n-f	ita	testosterone	n-m$n
 	spa	testosterona	n$n-f	ita	testosterone	n-m$n
-	spa	testículo	n$n-m	ita	testicolo	n-m$n
-	spa	testículo	n$n-m	ita	testicolo	n-m$n
+	spa	testículo	n-m$n	ita	testicolo	n-m$n
+	spa	testículo	n-m$n	ita	testicolo	n-m$n
 LR	spa	teta	n$n-f	ita	mammella	n$n-f
 	spa	tetera	n-f$n$n-f-sg	ita	teiera	n-f$n
 	spa	texto	n-m$n$n-m-sg	ita	testo	n-m$n$n-m-sg
@@ -10897,8 +10897,8 @@ RL	spa	tigre	n-GD	ita	tigre	n-f
 	spa	tilde	n$n-f	ita	tilde	n-mf
 	spa	timbre	n$n-m$n-m-ND	ita	timbro	n-m$n
 	spa	timo	n-m$n$n-m-ND	ita	truffa	n-f$n
-	spa	tinta	n$n-f$n-f-sg	ita	inchiostro	n-m
-	spa	tinta	n$n-f$n-f-sg	ita	inchiostro	n-m
+	spa	tinta	n-f$n$n-f-sg	ita	inchiostro	n-m
+	spa	tinta	n-f$n$n-f-sg	ita	inchiostro	n-m
 	spa	tipo	n-m$n-m-sg$n	ita	tipo	n-m$n$
 	spa	tipografía	n$n-f	ita	tipografia	n-f$n
 	spa	tipología	n$n-f	ita	tipologia	n$n-f
@@ -10939,8 +10939,8 @@ RL	spa	tonalidad	n-f-ND	ita	tonalità	n-f$n-f-sp
 LR	spa	torrente	n-m$n$n-m-ND	ita	flusso	n-m$n
 	spa	torso	n$n-m	ita	torso	n$n-m
 	spa	torta	n$n-f$n-f-ND	ita	torta	n-f$n
-	spa	tortuga	n$n-f$n-f-sg	ita	tartaruga	n-f$n
-	spa	tortuga	n$n-f$n-f-sg	ita	tartaruga	n-f$n
+	spa	tortuga	n-f$n$n-f-sg	ita	tartaruga	n-f$n
+	spa	tortuga	n-f$n$n-f-sg	ita	tartaruga	n-f$n
 	spa	tortura	n$n-f$n-f-ND	ita	tortura	n-f$n
 	spa	tos	n-f$n$n-f-sg	ita	tosse	n$n-f$n-f-sg
 LR	spa	totalidad	n-f-sg	ita	totalità	n-f$n-f-sp
@@ -10956,7 +10956,7 @@ RL	spa	toxicómano	n$n-GD	ita	tossicomane	n-mf$
 	spa	toxina	n$n-f	ita	tossina	n$n-f
 	spa	trabajador	n$n-m-sg$n-m	ita	lavoratore	n-m$n$
 RL	spa	trabajador	n-GD$n-GD-ND	ita	lavorante	n-mf
-	spa	trabajo	n-m$n-m-sg$n	ita	lavoro	n-m$n
+	spa	trabajo	n-m$n$n-m-sg	ita	lavoro	n-m$n
 	spa	tracción	n$n-f$n-f-ND	ita	trazione	n-f$n
 	spa	tractor	n$n-m$n-m-ND	ita	trattore	n-m$n
 	spa	tradición	n-f$n$n-f-ND	ita	tradizione	n-f$n
@@ -11067,8 +11067,8 @@ RL	spa	troika	n-f-ND	ita	troika	n-f-sp$n-f
 LR	spa	tsunami	n$n-m$n-m-sg	ita	tsunami	n-m-sp
 LR	spa	tsunami	n-m-pl	ita	tsunami	n-m-sp
 RL	spa	tsunami	n-m-ND	ita	tsunami	n-m-sp
-	spa	tuberculosis	n-f-sp$n-f$n	ita	tubercolosi	n-f-sp$n$n-f
-	spa	tuberculosis	n-f-sp$n-f$n	ita	tubercolosi	n-f-sp$n$n-f
+	spa	tuberculosis	n-f-sp$n$n-f	ita	tubercolosi	n-f-sp$n$n-f
+	spa	tuberculosis	n-f-sp$n$n-f	ita	tubercolosi	n-f-sp$n$n-f
 	spa	tubería	n$n-f$n-f-sg	ita	conduttura	n-f$n
 	spa	tubo	n$n-m$n-m-ND	ita	tubo	n-m$n
 	spa	tubo	n$n-m$n-m-ND	ita	tubo	n-m$n
@@ -11116,7 +11116,7 @@ RL	spa	tío	n$n-m$n-m-sg	ita	tizio	n-m$n
 LR	spa	túnel	n$n-m$n-m-sg	ita	tunnel	n-m-sp$n-m
 LR	spa	túnel	n-m-pl	ita	tunnel	n-m-sp$n-m
 RL	spa	túnel	n-m-ND	ita	tunnel	n-m-sp$n-m
-	spa	túnica	n$n-f$n-f-ND	ita	tunica	n$n-f
+	spa	túnica	n-f$n$n-f-ND	ita	tunica	n$n-f
 	spa	ubicación	n$n-f$n-f-sg	ita	ubicazione	n$n-f
 	spa	ultimación	n	ita	ultimazione	n-f$n
 LR	spa	ultimátum	n-m-sg	ita	ultimatum	n-m-sp$n-m
@@ -11145,7 +11145,7 @@ RL	spa	uniformidad	n-f-ND	ita	uniformità	n-f-sp$n-f
 RL	spa	universidad	n-f-ND	ita	università	n-f-sp$n-f
 LR	spa	universidad	n-f$n$n-f-sg	ita	università	n-f-sp$n-f
 LR	spa	universidad	n-f-pl	ita	università	n-f-sp$n-f
-	spa	universo	n$n-m$n-m-ND	ita	universo	n-m$n
+	spa	universo	n-m$n$n-m-ND	ita	universo	n-m$n
 	spa	unión	n$n-f$n-f-ND	ita	unione	n-f$n
 	spa	uranio	n$n-m$n-m-ND	ita	uranio	n$n-m
 	spa	urbanismo	n$n-m	ita	urbanistica	n-f
@@ -11296,7 +11296,7 @@ LR	spa	vestíbulo	n-m-pl	ita	hall	n-m-sp$n-m
 RL	spa	vestíbulo	n-m$n$n-m-ND	ita	hall	n-m-sp$n-m
 	spa	veterinario	n$n-m	ita	veterinario	n$n-m
 	spa	veto	n$n-m	ita	veto	n$n-m
-	spa	vez	n-f$n-f-ND$n	ita	volta	n-f$n
+	spa	vez	n-f$n$n-f-ND	ita	volta	n-f$n
 LR	spa	viabilidad	n$n-f-sg$n-f	ita	viabilità	n-f-sp$n-f
 LR	spa	viabilidad	n-f-pl	ita	viabilità	n-f-sp$n-f
 RL	spa	viabilidad	n-f-ND	ita	viabilità	n-f-sp$n-f
@@ -11306,7 +11306,7 @@ RL	spa	viabilidad	n-f-ND	ita	viabilità	n-f-sp$n-f
 	spa	vibración	n$n-f$n-f-ND	ita	vibrazione	n-f$n
 	spa	vicario	n$n-m	ita	parroco	n-m$n
 	spa	victoria	n$n-f$n-f-sg	ita	vittoria	n$n-f
-	spa	vida	n$n-f$n-f-sg	ita	vita	n-f$n
+	spa	vida	n-f$n$n-f-sg	ita	vita	n-f$n
 LR	spa	video	n$n-m$n-m-sg	ita	video	n-m-sp$n-m
 LR	spa	video	n-m-pl	ita	video	n-m-sp$n-m
 LR	spa	videoconsola	n$n-f$n-f-sg	ita	videoconsole	n-f-sp$n-f
@@ -11489,12 +11489,12 @@ RL	spa	ébola	n-m-sg$n$n-m	ita	ebola	n-f-pl
 LR	spa	ébola	n-m-sg$n$n-m	ita	ebola	n-f-ND
 	spa	élite	n$n-f	ita	élite	n-f$n
 	spa	énfasis	n-m-sp$n-m$n	ita	enfasi	n-f
-	spa	época	n$n-f$n-f-ND	ita	epoca	n-f$n
+	spa	época	n-f$n$n-f-ND	ita	epoca	n-f$n
 	spa	éxito	n-m$n$n-m-sg	ita	successo	n-m$n
 RL	spa	éxito	n-m$n$n-m-sg	ita	esito	n-m$n
 	spa	éxodo	n$n-m$n-m-sg	ita	esodo	n-m$n
 	spa	éxtasis	n-m-sp$n-m$n	ita	estasi	n-f
-	spa	ídolo	n-m$n$n-m-ND	ita	idolo	n-m$n
+	spa	ídolo	n$n-m$n-m-ND	ita	idolo	n-m$n
 	spa	ímpetu	n$n-m	ita	slancio	n-m$n
 	spa	índice	n$n-m$n-m-ND	ita	indice	n-m$n
 LR	spa	ópera	n-f$n$n-f-ND	ita	opera	n-f$n
@@ -11533,8 +11533,8 @@ LR	spa	acabar	vblex	ita	finire	$vblex
 	spa	acoger	vblex	ita	accogliere	$vblex
 	spa	acompañar	vblex	ita	accompagnare	$vblex
 	spa	aconsejar	vblex	ita	consigliare	$vblex
-	spa	acordar	vblex	ita	accordare	$vblex
-RL	spa	acordar	vblex	ita	ricordare	$vblex
+	spa	acordar	vblex$vblex-pron	ita	accordare	$vblex
+RL	spa	acordar	vblex$vblex-pron	ita	ricordare	$vblex
 	spa	acreditar	vblex	ita	accreditare	vblex$
 	spa	activar	vblex	ita	attivare	vblex$
 	spa	actualizar	vblex	ita	aggiornare	$vblex
@@ -11545,7 +11545,7 @@ RL	spa	acordar	vblex	ita	ricordare	$vblex
 	spa	adaptar	vblex	ita	adattare	$vblex
 	spa	adecuar	vblex	ita	adeguare	vblex$
 	spa	adentrar	vblex	ita	addentrare	vblex
-	spa	adherir	vblex	ita	aderire	$vblex
+	spa	adherir	vblex$vblex-pron	ita	aderire	$vblex
 	spa	adiestrar	vblex	ita	addestrare	$vblex
 	spa	adivinar	vblex	ita	indovinare	$vblex
 	spa	administrar	vblex	ita	amministrare	$vblex
@@ -11830,7 +11830,7 @@ RL	spa	contestar	vblex	ita	contestare	$vblex
 	spa	convencer	vblex	ita	convincere	vblex$
 	spa	converger	vblex	ita	convergere	$vblex
 	spa	conversar	vblex	ita	conversare	$vblex
-RL	spa	convertir	vblex	ita	convertire	vblex$
+RL	spa	convertir	vblex$vblex-pron	ita	convertire	vblex$
 	spa	convivir	vblex$	ita	convivere	vblex$
 	spa	convocar	vblex	ita	convocare	$vblex
 	spa	cooperar	vblex	ita	cooperare	vblex$
@@ -12130,7 +12130,7 @@ RL	spa	flotar	vblex	ita	fluttuare	$vblex
 	spa	fraccionar	vblex	ita	frazionare	vblex$
 	spa	fregar	vblex	ita	strofinare	$vblex
 	spa	frenar	vblex	ita	frenare	$vblex
-	spa	freír	vblex	ita	friggere	$vblex
+	spa	freír	vblex$vblex-pron	ita	friggere	$vblex
 	spa	frustrar	vblex	ita	vanificare	$vblex
 RL	spa	frustrar	vblex	ita	frustrare	vblex$
 	spa	fulminar	vblex	ita	fulminare	$vblex
@@ -12334,7 +12334,7 @@ LR	spa	morar	vblex	ita	abitare	$vblex
 	spa	mostrar	vblex	ita	mostrare	$vblex
 	spa	motivar	vblex	ita	motivare	vblex$
 	spa	motorizar	vblex	ita	motorizzare	vblex
-	spa	mover	vblex	ita	muovere	$vblex
+	spa	mover	vblex$vblex-pron	ita	muovere	$vblex
 	spa	multar	vblex	ita	multare	vblex$
 	spa	multiplicar	vblex	ita	moltiplicare	vblex$
 	spa	murmurar	vblex	ita	mormorare	$vblex
@@ -12380,15 +12380,15 @@ RL	spa	obligar	vblex	ita	obbligare	$vblex
 	spa	pagar	vblex	ita	pagare	$vblex
 	spa	paralizar	vblex	ita	paralizzare	$vblex
 	spa	parar	vblex	ita	fermare	$vblex
-RL	spa	parecer	vblex$	ita	parere	vblex
-	spa	parecer	vblex$	ita	sembrare	$vblex
+RL	spa	parecer	vblex$$vblex-pron	ita	parere	vblex
+	spa	parecer	vblex$$vblex-pron	ita	sembrare	$vblex
 	spa	parir	vblex	ita	partorire	$vblex
 	spa	participar	vblex	ita	partecipare	$vblex
 	spa	partir	vblex	ita	partire	$vblex
 	spa	pasar	vblex	ita	passare	$vblex
 	spa	pedir	vblex	ita	chiedere	$vblex
-LR	spa	pegar	vblex	ita	attaccare	$vblex
-RL	spa	pegar	vblex	ita	incollare	$vblex
+LR	spa	pegar	vblex$vblex-pron	ita	attaccare	$vblex
+RL	spa	pegar	vblex$vblex-pron	ita	incollare	$vblex
 	spa	pelar	vblex	ita	pelare	$vblex
 	spa	pelear	vblex	ita	litigare	$vblex
 	spa	pender	vblex	ita	pendere	$vblex
@@ -12581,7 +12581,7 @@ LR	spa	devolver	vblex	ita	restituire	$vblex
 RL	spa	retorcer	vblex	ita	storcere	$vblex
 LR	spa	retornar	vblex	ita	ritornare	$vblex
 	spa	retroceder	vblex	ita	retrocedere	$vblex
-	spa	reunir	vblex	ita	riunire	$vblex
+	spa	reunir	vblex$vblex-pron	ita	riunire	$vblex
 RL	spa	revelar	vblex	ita	rivelare	$vblex
 LR	spa	revelar	vblex	ita	sviluppare	vblex$
 	spa	revisar	vblex	ita	revisionare	vblex$
@@ -12747,7 +12747,7 @@ RL	spa	validar	vblex	ita	convalidare	$vblex
 	spa	visualizar	vblex	ita	visualizzare	vblex
 	spa	vivir	vblex	ita	vivere	$vblex
 	spa	volar	vblex	ita	volare	$vblex
-	spa	volver	vblex	ita	tornare	$vblex
+	spa	volver	vblex$vblex-pron	ita	tornare	$vblex
 	spa	vomitar	vblex	ita	vomitare	vblex$
 	spa	votar	vblex	ita	votare	$vblex
 	spa	ser	vbser$vbser-ger	ita	essere	$vbser$vbser-auxser
@@ -12872,7 +12872,7 @@ LR	spa	consumir	vblex	ita	mangiare	vblex$
 	spa	contrarrestar	vblex	ita	controbilanciare	vblex
 	spa	contratar	vblex	ita	assumere	$vblex
 RL	spa	controlar	vblex	ita	monitorare	vblex$
-	spa	convertir	vblex	ita	devenire	vblex
+	spa	convertir	vblex$vblex-pron	ita	devenire	vblex
 LR	spa	cosechar	vblex	ita	raccogliere	$vblex
 	spa	crecer	vblex	ita	crescere	$vblex
 	spa	crecer	vblex	ita	crescere	$vblex
@@ -13073,8 +13073,8 @@ LR	spa	oler	vblex	ita	odorare	$vblex
 	spa	oír	vblex	ita	udire	$vblex
 	spa	pactar	vblex	ita	patteggiare	$vblex
 	spa	padecer	vblex	ita	soffrire	$vblex
-RL	spa	parecer	vblex$	ita	assomigliare	$vblex
-	spa	parecer	vblex$	ita	somigliare	$vblex
+RL	spa	parecer	vblex$$vblex-pron	ita	assomigliare	$vblex
+	spa	parecer	vblex$$vblex-pron	ita	somigliare	$vblex
 	spa	pasar	vblex	ita	sfuggire	$vblex
 	spa	pasear	vblex	ita	fare	$vblex
 	spa	penalizar	vblex	ita	penalizzare	vblex
@@ -13205,9 +13205,9 @@ LR	spa	topar	vblex	ita	incontrare	vblex$
 	spa	traspasar	vblex	ita	oltrepassare	$vblex
 	spa	trazar	vblex	ita	tracciare	$vblex
 	spa	trazar	vblex	ita	tracciare	$vblex
-RL	spa	volver	vblex	ita	diventare	vblex$
+RL	spa	volver	vblex$vblex-pron	ita	diventare	vblex$
 RL	spa	volver a	vblex	ita	ricadere	$vblex
-	spa	volver	vblex	ita	ripulire	$vblex
+	spa	volver	vblex$vblex-pron	ita	ripulire	$vblex
 	spa	yacer	vblex	ita	giacere	$vblex
 LR	spa	zanjar	vblex	ita	chiudere	$vblex
 RL	spa		num$$num-percent	ita	ci	prn$prn-pro-adv$prn-pro
@@ -13218,7 +13218,7 @@ RL	spa		num$$num-percent	ita	ce	adv$prn-pro-adv
 	spa	algo	prn$prn-tn$prn-tn-nt-sg$prn-tn-nt	ita	qualcosa	prn$prn-tn$prn-tn-nt-sg
 RL	spa	algo	prn$prn-tn$prn-tn-nt-sg$prn-tn-nt	ita	alcunché	prn$prn-tn$prn-tn-nt
 RL	spa	alguien	prn-tn-mf$prn-tn-mf-sg	ita	qualcuno	prn$prn-tn-f$prn-tn
-	spa	alguno	prn$prn-tn-m-pl$prn-tn$prn-tn-m	ita	alcuno	$prn-tn-m$prn-tn-m-pl$prn-tn$prn
+	spa	alguno	prn-tn-m-pl$prn-tn-m	ita	alcuno	$prn-tn-m$prn-tn-m-pl$prn-tn$prn
 	spa	alguno	prn-tn-f-pl$prn-tn-f	ita	alcuno	prn-tn-f$prn-tn-f-pl
 	spa	ambas	prn$prn-tn-f$prn-tn	ita	entrambi	prn$prn-tn-f$$prn-tn
 RL	spa	ambos	prn$prn-tn$prn-tn-m$prn-tn-m-pl	ita	tutti e due	prn$prn-tn-f
@@ -13229,10 +13229,10 @@ RL	spa	ambos	prn$prn-tn$prn-tn-m$prn-tn-m-pl	ita	tutti e due	prn$prn-tn-f
 RL	spa	aquel	prn$prn-tn-m$prn-tn	ita	colui	prn-tn-p3-m
 RL	spa	aquel	prn-tn-f	ita	colui	prn-tn-p3-f$prn$prn-tn$prn-tn-p3
 RL	spa	aquel	prn-tn-GD$prn-tn-GD-pl	ita	colui	prn-tn-p3-mf$prn-tn-p3-mf-pl
-	spa	aquello	prn-tn-nt	ita	quello	prn-tn-nt-sg$prn-tn-nt
+	spa	aquello	prn-tn-nt$prn-nt	ita	quello	prn-tn-nt-sg$prn-tn-nt
 LR	spa	cada cual	prn-tn-mf$prn-tn-mf-sg	ita	ognuno	prn$prn-tn$prn-tn-GD
-	spa	cada uno	prn$prn-tn-m$prn-tn-m-sg	ita	ognuno	prn$prn-tn$prn-tn-GD
-RL	spa	cada uno	prn$prn-tn-m$prn-tn-m-sg	ita	ciascuno	prn$$prn-tn
+	spa	cada uno	prn$prn-tn-GD-sg	ita	ognuno	prn$prn-tn$prn-tn-GD
+RL	spa	cada uno	prn$prn-tn-GD-sg	ita	ciascuno	prn$$prn-tn
 RL	spa		prn	ita	ce	prn
 	spa	conmigo	prn$prn-tn	ita	con me	prn
 RL	spa	conmigo	prn$prn-tn	ita	meco	prn
@@ -13243,13 +13243,13 @@ RL	spa	contigo	prn$prn-tn	ita	teco	prn
 RL	spa	cualquier otra cosa	prn-mf	ita	tutt'altro	prn-m
 RL	spa	cualquier otra cosa	prn-mf	ita	tutt'altro	prn-f
 LR	spa	cualquier otra cosa	prn-mf	ita	tutt'altro	prn-GD
-LR	spa	cualquiera	prn-tn-mf-sg	ita	qualunque	prn-tn-mf-sp$$prn
+LR	spa	cualquiera	prn-tn-mf-sg$prn-mf	ita	qualunque	prn-tn-mf-sp$$prn
 LR	spa	cualquiera	prn-tn-mf-pl	ita	qualunque	prn-tn-mf-sp$$prn
 RL	spa	cualquiera	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn	ita	qualunque	prn-tn-mf-sp$$prn
 RL	spa	cualquiera	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn	ita	qualsivoglia	prn-tn-mf-sp$prn
 RL	spa	cualquiera	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn	ita	qualsiasi	prn-tn-mf-sp$prn$prn-tn
 	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-itg	ita	quale	prn-itg$prn
-	spa	cuánto	prn$prn-itg-m$prn-itg$prn-itg-m-sg	ita	quanto	prn$prn-itg$prn-itg-GD-sg
+	spa	cuánto	prn$prn-itg$prn-itg-m$prn-itg-m-sg	ita	quanto	prn$prn-itg$prn-itg-GD-sg
 LR	spa	demás	prn-tn	ita	d'altro	prn-tn
 	spa	el mío	prn$prn-pos-GD$prn-pos$prn-pos-GD-ND	ita	il mio	prn$prn-tn-pos$prn-tn-pos-GD-ND
 	spa	el nuestro	prn-tn-pos$prn-tn	ita	il nostro	prn-tn-pos$prn$prn-pos
@@ -13261,7 +13261,7 @@ LR	spa	ello	prn-tn-p3-nt$prn$prn-tn-nt$prn-tn	ita	quello	prn-tn-nt-sg$prn-tn-nt
 RL	spa	ello	prn-tn-p3-nt$prn$prn-tn-nt$prn-tn	ita	ciò	prn-tn-nt-sg$prn$prn-tn
 LR	spa	ese	prn$prn-tn-m$prn-tn	ita	quello	prn-tn-m
 LR	spa	ese	prn-tn-f	ita	quello	prn$prn-tn-f$$prn-tn
-RL	spa	eso	prn$prn-tn-nt$prn-tn	ita	codesto	prn-tn-nt$prn-tn$prn$prn-tn-nt-sg
+RL	spa	eso	prn$prn-tn$prn-tn-nt	ita	codesto	prn-tn-nt$prn-tn$prn$prn-tn-nt-sg
 RL	spa	este	prn$prn-tn-m$prn-tn$prn-tn-m-sg	ita	codesto	prn-tn-m-sg
 RL	spa	este	prn-tn-f$prn-tn-f-sg	ita	codesto	prn-tn-f-sg
 RL	spa	este	prn-tn-m-pl	ita	codesto	prn-tn-m-pl
@@ -13284,13 +13284,13 @@ LR	spa	le	prn-pro-p3-mf-sp	ita	gli	prn-pro-p3-m-sg$prn-m$prn$prn-pro-p3-m
 	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg	ita	lo	prn-pro$prn-pro-p3-nt$prn-pro-p3
 	spa	lo	prn-enc-p3-nt$prn-enc	ita	lo	prn-enc$prn-enc-p3-nt$prn
 	spa	lo demás	prn$prn-tn-nt-sg	ita	il resto	prn$prn-tn-nt-sg
-	spa	los demás	prn-tn$prn$prn-tn-GD-pl	ita	gli altri	prn-tn
+	spa	los demás	prn$prn-tn$prn-tn-GD-pl	ita	gli altri	prn-tn
 LR	spa	los dos	prn$prn-tn-m	ita	entrambi	prn$prn-tn-f$$prn-tn
 	spa	los dos	prn-m-pl	ita	tutti e due	prn-m-pl
 	spa	los dos	prn-f-pl	ita	tutti e due	prn-f-pl
 	spa	me	prn-pro$prn$prn-pro-p1-mf$prn-pro-p1-mf-sg	ita	mi	prn-pro$prn$prn-pro-p1
 	spa	me	prn-enc$prn-enc-p1-mf$prn-enc-p1-mf-sg	ita	mi	prn-enc$prn-enc-p1$prn-enc-p1-mf
-	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn	ita	me	prn-tn$prn-tn-p1$prn-tn-p1-mf-sg
+	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf	ita	me	prn-tn$prn-tn-p1$prn-tn-p1-mf-sg
 	spa	nada	prn-tn-nt$prn$prn-tn	ita	niente	prn$prn-tn-nt$prn-tn-nt-sg$$prn-tn
 RL	spa	nada	prn-tn-nt$prn$prn-tn	ita	nulla	prn$prn-tn-nt-sg
 LR	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn	ita	nessuno	prn-tn-m$prn$$prn-tn$prn-tn-m-sg
@@ -13300,7 +13300,7 @@ LR	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn	ita	nessuno	prn-tn-m$prn$$prn-tn$
 	spa	nos	prn-enc$prn-enc-p1-mf-pl	ita	ci	prn-enc$prn-enc-p1$prn-enc-p1-mf
 LR	spa	nosotros	prn-tn-p1-m$prn-tn-p1-m-pl	ita	noi	prn-tn-p1-mf$prn-mf$prn$prn-tn-p1-mf-pl
 LR	spa	nosotros	prn-tn-p1-f$prn-tn-p1-f-pl	ita	noi	prn-tn-p1-mf$prn-mf$prn$prn-tn-p1-mf-pl
-RL	spa	nosotros	prn-tn-p1-GD$prn-tn$prn-tn-p1-GD-pl$prn	ita	noi	prn-tn-p1-mf$prn-mf$prn$prn-tn-p1-mf-pl
+RL	spa	nosotros	prn-tn-p1-GD$prn-tn-p1-GD-pl$prn-tn$prn	ita	noi	prn-tn-p1-mf$prn-mf$prn$prn-tn-p1-mf-pl
 	spa	os	prn-pro$prn-pro-p2-mf-pl$prn-pro-p2	ita	vi	prn$prn-pro$prn-pro-p2
 	spa	os	prn$prn-enc$prn-enc-p2-mf-pl	ita	vi	prn-enc$prn-enc-p2$prn-enc-p2-mf
 RL	spa	otro	prn$prn-tn$prn-tn-m-sg$prn-tn-m	ita	altro	$prn$prn-tn$prn-tn-m-sg$prn-tn-m
@@ -13310,7 +13310,7 @@ RL	spa	otro	prn$prn-tn$prn-tn-m-sg$prn-tn-m	ita	altro	$prn$prn-tn$prn-tn-m-sg$pr
 	spa	quien	prn$prn-tn	ita	chi	prn$prn-itg-mf-sp$prn-mf-sp
 LR	spa	quienquiera	prn-tn-mf-sg$prn$prn-tn	ita	qualunque	prn-tn-mf-sp$$prn
 LR	spa	quienquiera	prn-tn-mf-pl	ita	qualunque	prn-tn-mf-sp$$prn
-LR	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg	ita	chi	prn$prn-itg-mf-sp$prn-mf-sp
+LR	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg	ita	chi	prn$prn-itg-mf-sp$prn-mf-sp
 LR	spa	quién	prn-itg-mf-pl	ita	chi	prn$prn-itg-mf-sp$prn-mf-sp
 RL	spa	quién	prn-itg-mf-ND	ita	chi	prn$prn-itg-mf-sp$prn-mf-sp
 LR	spa	qué	prn$prn-itg$prn-itg-mf-sg$prn-itg-mf	ita	che	prn$$prn-itg-mf-sg$prn-mf
@@ -13323,13 +13323,13 @@ RL	spa	sí	prn-tn$prn$prn-tn-ref-p3-mf-sp	ita	sè	prn-tn
 	spa	tal	prn	ita	tale	$prn$prn-tn-mf-sg
 	spa	te	prn-pro$prn$prn-pro-p2-mf-sg	ita	ti	prn-pro$prn$prn-pro-p2
 	spa	te	prn-enc$prn-enc-p2-mf$prn-enc-p2-mf-sg	ita	ti	prn-enc$prn-enc-p2$prn-enc-p2-mf
-	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn	ita	te	prn-tn$prn-tn-p2$prn$prn-tn-p2-mf-sg
+	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf	ita	te	prn-tn$prn-tn-p2$prn$prn-tn-p2-mf-sg
 	spa	todo	prn$prn-tn$prn-tn-m$prn-tn-m-sg	ita	tutto	$prn$prn-tn$prn-tn-m$prn-tn-m-ND
 RL	spa	todo el mundo	prn$prn-tn-m-sg$prn-tn-m	ita	tutti quanti	prn$prn-tn-mf-sp
 	spa	tú	prn$prn-tn$prn-tn-p2-mf$prn-tn-p2-mf-sg	ita	tu	prn-tn$prn$prn-tn-p2$prn-tn-p2-mf
-	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg	ita	uno	prn-tn-m-sg$prn-tn-m
+	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg	ita	uno	prn-tn-m-sg$prn-tn-m
 	spa	uno	prn-tn-f-sg$prn-tn-f	ita	uno	prn-tn-f-sg$prn$prn-tn-f
-LR	spa	uno	prn-tn-m-pl	ita	alcuno	$prn-tn-m$prn-tn-m-pl$prn-tn$prn
+LR	spa	uno	prn-tn-m-pl$prn-m	ita	alcuno	$prn-tn-m$prn-tn-m-pl$prn-tn$prn
 LR	spa	uno	prn-tn-f-pl	ita	alcuno	prn-tn-f$prn-tn-f-pl
 RL	spa	uno solo	prn	ita	tutt'uno	prn
 	spa	usted	prn-tn-p3-mf-pl$prn-tn$prn$prn-tn-p3$prn-tn-p3-mf	ita	Lei	prn$prn-tn$prn-tn-p3$prn-tn-p3-mf-sg
@@ -14780,7 +14780,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Aznar	np-ant	ita	Aznar	np-cog-mf-sp$np
 	spa	BMW	np$np-al-mf	ita	BMW	np-org-f$np-org-f-sg
 	spa	Babbage	np	ita	Babbage	np
-	spa	Babilonia	np-loc-f$np	ita	Babilonia	np
+	spa	Babilonia	np-loc-f$np$np-f	ita	Babilonia	np
 	spa	Baeza	np-ant	ita	Baeza	np-cog-mf-sp$np
 	spa	Bagnasco	np-ant	ita	Bagnasco	np-cog-mf-sp
 	spa	Bahamas	np$np-loc$np-loc-f-pl$np-loc-f	ita	Bahamas	np$np-loc-f$np-loc-f-pl
@@ -15034,7 +15034,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Franklin	np-ant$np	ita	Franklin	np-ant-m$np-ant$np-ant-m-sg
 	spa	Frattini	np-ant	ita	Frattini	np-cog-mf-sp
 	spa	Friedman	np$np-cog	ita	Friedman	np
-	spa	Fujimori	np-ant$np-ant-mf	ita	Fujimori	np-cog-mf-sp
+	spa	Fujimori	np-ant	ita	Fujimori	np-cog-mf-sp
 	spa	Gabby	np	ita	Gabby	np
 	spa	Galilei	np-ant	ita	Galilei	np-cog-mf-sp$np-cog-mf
 	spa	Gallagher	np-ant	ita	Gallagher	np-cog-mf-sp$np-cog-mf
@@ -15051,7 +15051,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Gaudí	np-ant$np	ita	Gaudí	np-cog-mf-sp$np$np-cog
 	spa	Gauss	np$np-ant	ita	Gauss	np-cog-mf-sp$np-cog$np-cog-mf
 	spa	Gautier	np$np-ant	ita	Gautier	np-cog-mf-sp$np$np-cog
-	spa	Gaza	np$np-loc$np-loc-f	ita	Gaza	np$np-loc-f
+	spa	Gaza	np$np-f$np-loc-f	ita	Gaza	np$np-loc-f
 	spa	Gene	np	ita	Gene	np
 	spa	Geographic	np	ita	Geographic	np
 	spa	Geronimo	np$np-ant	ita	Geronimo	np$np-ant
@@ -15327,7 +15327,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Pallerols	np-ant	ita	Pallerols	np-cog-mf-sp
 	spa	Pamesa	np	ita	Pamesa	np$np-al-m
 	spa	Panara	np-ant	ita	Panara	np-cog-mf-sp
-	spa	Parker	np$np-ant$np-ant-mf	ita	Parker	np-cog-mf-sp$np$np-cog-mf
+	spa	Parker	np$np-ant	ita	Parker	np-cog-mf-sp$np$np-cog-mf
 	spa	Parrish	np-ant	ita	Parrish	np-cog-mf-sp
 	spa	Pasteur	np-ant$np	ita	Pasteur	np-cog-mf-sp$np
 	spa	Patrick Honohan	np	ita	Patrick Honohan	np
@@ -15342,7 +15342,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Piebalgs	np-ant	ita	Piebalgs	np-cog-mf-sp
 	spa	Piketty	np	ita	Piketty	np
 	spa	Pinochet	np$np-ant	ita	Pinochet	np-cog-mf-sp$np
-	spa	Pizarro	np-ant$np-ant-mf	ita	Pizarro	np-cog-mf-sp$np
+	spa	Pizarro	np-ant	ita	Pizarro	np-cog-mf-sp$np
 	spa	Planck	np$np-ant	ita	Planck	np-cog-mf-sp$np-cog
 	spa	Posta	np-al	ita	Posta	np-al-f-sg
 	spa	Potonik	np-ant	ita	Potonik	np-cog-mf-sp
@@ -15490,7 +15490,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Ángeles	np	ita	Angeles	np
 	spa	Ártico	np	ita	Artico	np
 	spa	Úlehla	np-ant	ita	Úlehla	np-cog-mf-sp
-	spa	Abel	np$np-ant$np-ant-m$np-ant-m-sg	ita	Abel	np-ant-m$np-ant-m-sg$np$np-ant
+	spa	Abel	np$np-ant$np-ant-m-sg	ita	Abel	np-ant-m$np-ant-m-sg$np$np-ant
 	spa	Abraham	np-ant$np$np-ant-m$np-ant-m-sg	ita	Abramo	np-ant$np-ant-m$np-ant-m-sg
 	spa	Aquiles	np$np-ant	ita	Achille	np-ant$np-ant-m$np-ant-m-sg
 	spa	Adam	np-ant$np$np-ant-m	ita	Adam	np-ant-m$np-ant-m-sg$np$np-ant
@@ -15545,7 +15545,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Andrea	np$np-ant$np-ant-f-sg	ita	Andrea	np-ant-f$np-ant-f-sg
 	spa	Andrea	np$np-ant$np-ant-f-sg	ita	Andrea	np-ant-m$np-ant-m-sg$np$np-ant
 	spa	Andrew	np$np-ant	ita	Andrés	np-ant-m-sg$np$np-ant$np-ant-m
-	spa	Andrés	np$np-ant$np-ant-m$np-ant-m-sg	ita	Andrew	np-ant-m$np-ant$np-ant-m-sg
+	spa	Andrés	np$np-ant$np-ant-m-sg	ita	Andrew	np-ant-m$np-ant$np-ant-m-sg
 	spa	Andy	np$np-ant	ita	Andy	np-ant$np-ant-m$np-ant-m-sg
 	spa	Ángela	np$np-ant$np-ant-f-sg	ita	Ángela	np-ant-f-sg$np$np-ant$np-ant-f
 	spa	Anna	np$np-ant	ita	Anna	np-ant-f$np-ant-f-sg$np$np-ant
@@ -15571,7 +15571,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Atocha	np-ant	ita	Atocha	np$np-ant-f-sg
 	spa	Aurelio	np$np-ant	ita	Aurelio	np-ant-m-sg$np$np-ant$np-ant-m
 	spa	Aurora	np$np-ant$np-ant-f-sg	ita	Aurora	np-ant-f$np-ant-f-sg$np$np-ant
-	spa	Australia	np-loc$np-loc-f	ita	Australia	np-loc-f$np$np-loc-f-sg
+	spa	Australia	np$np-loc$np-loc-f	ita	Australia	np-loc-f$np$np-loc-f-sg
 	spa	Austria	np$np-loc$np-loc-f	ita	Austria	np$np-loc-f$np-loc-f-sg
 	spa	Ávila	np$np-loc$np-loc-f	ita	Ávila	np$np-loc-m$np-loc-m-sg
 	spa	Avilés	np-loc$np-loc-f	ita	Avilés	np$np-loc-m$np-loc-m-sg
@@ -15593,7 +15593,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Barreda Fontes	np-cog$np-cog-mf	ita	Barreda Fontes	np-cog-mf-sp
 	spa	Barry	np-ant$np	ita	Barry	np-ant$np-ant-m$np-ant-m-sg
 	spa	Bartolomeo	np-ant	ita	Bartolomeo	np-ant-m$np-ant$np-ant-m-sg
-	spa	Bartolomé	np$np-ant$np-ant-m	ita	Bartolomé	np$np-ant$np-ant-m-sg
+	spa	Bartolomé	np$np-ant	ita	Bartolomé	np$np-ant$np-ant-m-sg
 	spa	Basora	np$np-loc	ita	Bàssora	np$np-loc-m$np-loc-m-sg
 	spa	Batasuna	np$np-al	ita	Batasuna	np-al-m-sg$np$np-al-m
 	spa	Bayona	np$np-loc	ita	Bayonne	np$np-loc-m$np-loc-m-sg
@@ -15603,7 +15603,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Beirut	np$np-loc$np-loc-m	ita	Beirut	np$np-loc-m$np-loc-m-sg
 	spa	Bélgica	np$np-loc$np-loc-f	ita	Belgio	np$np-loc-m$np-loc-m-sg
 	spa	Belmonte	np$np-loc$np-loc-f	ita	Belmonte	np$np-loc-m$np-loc-m-sg
-	spa	Belén	np-ant$np-ant-f	ita	Belén	np-ant-f-sg$np$np-ant$np-ant-f
+	spa	Belén	np-ant	ita	Belén	np-ant-f-sg$np$np-ant$np-ant-f
 	spa	Benidorm	np$np-loc$np-loc-f	ita	Benidorm	np$np-loc-m$np-loc-m-sg
 	spa	Benjamin	np$np-ant$np-ant-m	ita	Benjamin	np-ant-m$np-ant$np-ant-m-sg
 	spa	Ben	np$np-ant	ita	Ben	np-ant-m$np-ant$np-ant-m-sg
@@ -15652,7 +15652,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Camboya	np$np-loc$np-loc-f	ita	Cambogia	np-loc-f$np-loc-f-sg
 	spa	Cambridge	np$np-loc$np-loc-m	ita	Cambridge	np-loc-m-sg
 	spa	Camerún	np-loc$np-loc-m	ita	Camerun	np$np-loc-m$np-loc-m-sg
-	spa	Canadá	np$np-loc-m$np-loc	ita	Canada	np$np-loc-m$np-loc-m-sg
+	spa	Canadá	np-loc-m$np-loc	ita	Canada	np$np-loc-m$np-loc-m-sg
 	spa	Canals	np-loc$np-loc-f	ita	Canals	np$np-loc-m-sg
 	spa	Canarias	np$np-loc$np-loc-f	ita	Canarie	np-loc-m-sg
 	spa	Canfranc	np-loc$np$np-loc-f	ita	Canfranc	np$np-loc-m$np-loc-m-sg
@@ -15660,7 +15660,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Caracas	np$np-loc$np-loc-f	ita	Caracas	np-loc-m$np$np-loc-m-sg
 	spa	Carl	np-ant$np	ita	Carl	np-ant-m$np-ant$np-ant-m-sg
 	spa	Carlos	np$np-ant$np-ant-m-sg	ita	Carlo	np-ant-m$np-ant-m-sg$np-ant
-	spa	Carmen	np-ant$np$np-ant-f$np-ant-f-sg	ita	Carmen	np$np-ant-f$np-ant$np-ant-f-sg
+	spa	Carmen	np-ant$np$np-ant-f-sg	ita	Carmen	np$np-ant-f$np-ant$np-ant-f-sg
 	spa	Carme	np$np-ant	ita	Carme	np$np-ant-f$np-ant-f-sg
 	spa	Carolina	np$np-ant$np-ant-f-sg	ita	Carolina	np-ant-f$np$np-ant$np-ant-f-sg
 	spa	Carrefour	np-ant	ita	Carrefour	np-al-m-sg$np$np-al-m
@@ -15671,13 +15671,13 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Castell	np-loc	ita	Castell	np$np-loc-m$np-loc-m-sg
 	spa	Castelló	np-loc	ita	Castelló	np$np-loc-m$np-loc-m-sg
 	spa	Castilla	np$np-loc$np-loc-f	ita	Castiglia	np$np-loc-f-sg
-	spa	Catalina	np$np-ant$np-ant-f	ita	Catalina	np$np-ant-f$np-ant$np-ant-f-sg
+	spa	Catalina	np-ant$np$np-ant-f	ita	Catalina	np$np-ant-f$np-ant$np-ant-f-sg
 	spa	Cataluña	np$np-loc$np-loc-f	ita	Catalogna	np$np-loc-f$np-loc-f-sg
 	spa	Caterina	np-ant$np	ita	Caterina	np-ant-f$np$np-ant$np-ant-f-sg
 	spa	Catherine	np$np-ant	ita	Catherine	np-ant-f-sg$np$np-ant$np-ant-f
 	spa	Cazorla	np-loc$np-loc-f	ita	Cazorla	np$np-loc-m$np-loc-m-sg
 	spa	Cervera	np-loc$np-loc-f	ita	Cervera	np$np-loc-m$np-loc-m-sg
-	spa	César	np$np-ant$np-ant-m$np-ant-m-sg	ita	César	np-ant$np-ant-m$np-ant-m-sg
+	spa	César	np$np-ant$np-ant-m-sg	ita	César	np-ant$np-ant-m$np-ant-m-sg
 	spa	Ceuta	np$np-loc$np-loc-f	ita	Ceuta	np$np-loc-m$np-loc-m-sg
 	spa	Chad	np-loc$np-loc-f	ita	Chad	np-loc-m-sg
 	spa	Charles	np$np-ant	ita	Charles	np-ant-m-sg$np-ant-m$np-ant
@@ -15691,7 +15691,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Chuck	np-ant$np	ita	Chuck	np-ant-m$np-ant-m-sg
 	spa	Chueca	np-loc$np-loc-f	ita	Chueca	np$np-loc-m$np-loc-m-sg
 	spa	Cisjordania	np$np-loc$np-loc-f	ita	Cisgiordania	np$np-loc-f-sg
-	spa	Claudio	np-ant$np$np-ant-m	ita	Claudio	np$np-ant$np-ant-m$np-ant-m-sg
+	spa	Claudio	np-ant$np	ita	Claudio	np$np-ant$np-ant-m$np-ant-m-sg
 	spa	Cofrentes	np$np-loc$np-loc-f	ita	Cofrentes	np$np-loc-m$np-loc-m-sg
 	spa	Colmenar	np$np-loc$np-loc-f	ita	Colmenar	np$np-loc-m$np-loc-m-sg
 	spa	Colombia	np-loc$np-loc-f	ita	Colombia	np-loc-f$np$np-loc-f-sg
@@ -15707,14 +15707,14 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Cristina	np$np-ant	ita	Cristina	np-ant-f$np-ant-f-sg$np-ant
 	spa	Cristo	np$np-ant$np-ant-m	ita	Cristo	np-ant$np-ant-m-sg$np-ant-m
 	spa	Croacia	np$np-loc$np-loc-f	ita	Croazia	np$np-loc-f$np-loc-f-sg
-	spa	Cuba	np-loc$np-loc-f	ita	Cuba	np$np-loc-m$np-loc-m-sg
+	spa	Cuba	np$np-loc$np-loc-f	ita	Cuba	np$np-loc-m$np-loc-m-sg
 	spa	Cupido	np$np-ant	ita	Cupido	np$np-ant-m$np-ant-m-sg
 	spa	Dacia	np-loc	ita	Dacia	np-loc-f$np-loc-f-sg
 	spa	Dakar	np$np-loc$np-loc-m	ita	Dakar	np$np-loc-m$np-loc-m-sg
 	spa	Dallas	np-loc$np-loc-m	ita	Dallas	np-loc-m$np-loc-m-pl
 	spa	Damasco	np$np-loc$np-loc-m	ita	Damasco	np$np-loc-m$np-loc-m-sg
-	spa	Daniele	np-ant$np$np-ant-f	ita	Daniele	np-ant-m$np-ant-m-sg$np-ant
-	spa	Daniel	np$np-ant$np-ant-m$np-ant-m-sg	ita	Daniel	np-ant-m$np-ant-m-sg$np$np-ant
+	spa	Daniele	np-ant$np	ita	Daniele	np-ant-m$np-ant-m-sg$np-ant
+	spa	Daniel	np$np-ant$np-ant-m-sg	ita	Daniel	np-ant-m$np-ant-m-sg$np$np-ant
 	spa	Darío	np$np-ant	ita	Darío	np$np-ant$np-ant-m$np-ant-m-sg
 	spa	David	np$np-ant$np-ant-m$np-ant-m-sg	ita	David	np$np-ant-m$np-ant$np-ant-m-sg
 	spa	Davide	np-ant$np	ita	Davide	np-ant-m$np$np-ant$np-ant-m-sg
@@ -15736,9 +15736,9 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Elda	np$np-loc$np-loc-f	ita	Elda	np-loc-m$np-loc-m-sg
 	spa	Elena	np$np-ant$np-ant-f-sg	ita	Elena	np-ant-f$np-ant-f-sg$np$np-ant
 	spa	Elia	np$np-ant	ita	Elia	np-ant-m$np-ant-m-sg$np$np-ant
-	spa	Elías	np$np-ant$np-ant-m$np-ant-m-sg	ita	Elías	np-ant-m-sg$np$np-ant
+	spa	Elías	np$np-ant$np-ant-m-sg	ita	Elías	np-ant-m-sg$np$np-ant
 	spa	Elisa	np$np-ant$np-ant-f-sg	ita	Elisa	np$np-ant-f$np-ant$np-ant-f-sg
-	spa	Eliseo	np$np-ant$np-ant-m	ita	Eliseo	np-ant-m-sg$np$np-ant$np-ant-m
+	spa	Eliseo	np$np-ant	ita	Eliseo	np-ant-m-sg$np$np-ant$np-ant-m
 	spa	Elizabeth	np$np-ant	ita	Elizabeth	np-ant-f$np-ant-f-sg$np$np-ant
 	spa	Elx	np$np-loc$np-loc-f	ita	Elx	np$np-loc-m$np-loc-m-sg
 	spa	Emilia	np$np-ant$np-ant-f-sg	ita	Emilia	np-ant-f$np-ant-f-sg$np$np-ant
@@ -15750,7 +15750,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Enrique	np-ant$np$np-ant-m-sg	ita	Enrique	np-ant-m$np-ant-m-sg$np$np-ant
 	spa	Eric	np$np-ant	ita	Eric	np-ant-m$np-ant-m-sg$np-ant
 	spa	Ernesto	np$np-ant$np-ant-m-sg	ita	Ernesto	np-ant-m-sg$np$np-ant$np-ant-m
-	spa	Esmeralda	np$np-ant$np-ant-f$np-ant-f-sg	ita	Esmeralda	np-ant-f-sg$np$np-ant
+	spa	Esmeralda	np$np-ant$np-ant-f-sg	ita	Esmeralda	np-ant-f-sg$np$np-ant
 	spa	Estonia	np$np-loc$np-loc-f	ita	Estonia	np$np-loc-f$np-loc-f-sg
 	spa	Extremadura	np$np-loc$np-loc-f	ita	Estremadura	np-loc-m$np-loc-m-sg
 	spa	Etiopía	np$np-loc$np-loc-f	ita	Etiopia	np$np-loc-f$np-loc-f-sg
@@ -15763,8 +15763,8 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Facebook	np$np-al$np-al-m	ita	Facebook	np-al-m$np-al-m-sg
 	spa	Fco	np-ant	ita	Fco	np-ant-m-sg
 	spa	Federico	np$np-ant	ita	Federico	np-ant-m$np-ant-m-sg$np$np-ant
-	spa	Felipe	np-ant$np$np-ant-m$np-ant-m-sg	ita	Felipe	np-ant-m-sg$np$np-ant$np-ant-m
-	spa	Félix	np$np-ant$np-ant-m	ita	Félix	np-ant-m-sg$np$np-ant$np-ant-m
+	spa	Felipe	np-ant$np$np-ant-m-sg	ita	Felipe	np-ant-m-sg$np$np-ant$np-ant-m
+	spa	Félix	np$np-ant	ita	Félix	np-ant-m-sg$np$np-ant$np-ant-m
 	spa	Ferdinando	np-ant	ita	Ferdinando	np-ant-m$np-ant$np-ant-m-sg
 	spa	Fernández	np$np-ant	ita	Fernández	np-ant-m-sg
 	spa	Fernando	np$np-ant$np-ant-m-sg	ita	Fernando	np-ant-m$np-ant-m-sg$np$np-ant
@@ -15778,13 +15778,13 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Fran	np$np-ant$np-ant-m	ita	Fran	np-ant-m$np$np-ant-m-sg
 	spa	Francesco	np$np-ant	ita	Francesco	np-ant-m$np-ant-m-sg$np$np-ant
 	spa	Francia	np-loc$np-loc-f	ita	Francia	np$np-loc-f$np-loc-f-sg
-	spa	Francis	np-ant$np$np-ant-m	ita	Francis	np-ant-m$np-ant$np-ant-m-sg
+	spa	Francis	np-ant$np	ita	Francis	np-ant-m$np-ant$np-ant-m-sg
 	spa	Francisca	np$np-ant	ita	Francisca	np$np-ant-f$np-ant$np-ant-f-sg
-	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg	ita	Francisco	np-ant-m$np$np-ant$np-ant-m-sg
+	spa	Francisco	np-ant$np$np-ant-m-sg	ita	Francisco	np-ant-m$np$np-ant$np-ant-m-sg
 	spa	Frank	np$np-ant	ita	Frank	np-ant-m$np-ant$np-ant-m-sg
 	spa	Frankfurt	np$np-loc$np-loc-m	ita	Francoforte	np-loc-f-sg
 	spa	Gabriele	np-ant	ita	Gabriele	np-ant-m$np-ant$np-ant-m-sg
-	spa	Gabriel	np$np-ant$np-ant-m$np-ant-m-sg	ita	Gabriel	np-ant-m$np-ant-m-sg$np$np-ant
+	spa	Gabriel	np$np-ant$np-ant-m-sg	ita	Gabriel	np-ant-m$np-ant-m-sg$np$np-ant
 	spa	Galileo	np$np-ant	ita	Galileo	np-ant-m$np$np-ant$np-ant-m-sg
 	spa	Galicia	np$np-loc$np-loc-f	ita	Galizia	np$np-loc-f-sg
 	spa	Gales	np-loc$np-loc-m	ita	Galles	np$np-loc-m$np-loc-m-sg
@@ -15801,7 +15801,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Gerardo	np$np-ant$np-ant-m-sg	ita	Gerardo	np-ant-m-sg$np$np-ant$np-ant-m
 	spa	Alemania	np$np-loc$np-loc-f	ita	Germania	np-loc-f$np$np-loc-f-sg
 	spa	Jerusalén	np$np-loc$np-loc-m	ita	Gerusalemme	np$np-loc-m$np-loc-m-sg
-	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg	ita	Gesù	np$np-ant-m$np-ant-m-sg$np-ant
+	spa	Jesús	np$np-ant$np-ant-m-sg	ita	Gesù	np$np-ant-m$np-ant-m-sg$np-ant
 	spa	Getafe	np$np-loc$np-loc-f	ita	Getafe	np$np-loc-m$np-loc-m-sg
 	spa	Giacinto	np-ant	ita	Giacinto	np-ant$np-ant-m$np-ant-m-sg
 	spa	Giacomo	np-ant	ita	Giacomo	np-ant-m$np-ant$np-ant-m-sg
@@ -15892,8 +15892,8 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Jaca	np-loc$np$np-loc-f	ita	Jaca	np$np-loc-m$np-loc-m-sg
 	spa	Jacinto	np-ant$np	ita	Jacinto	np-ant-m-sg$np$np-ant
 	spa	Jack	np$np-ant	ita	Jack	np-ant$np-ant-m$np-ant-m-sg
-	spa	Jacobo	np$np-ant$np-ant-m	ita	Jacobo	np-ant$np-ant-m-sg
-	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg	ita	Jaime	np$np-ant-m$np-ant$np-ant-m-sg
+	spa	Jacobo	np$np-ant	ita	Jacobo	np-ant$np-ant-m-sg
+	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m	ita	Jaime	np$np-ant-m$np-ant$np-ant-m-sg
 	spa	Jalón	np$np-loc$np-loc-m	ita	Jalón	np$np-loc-m$np-loc-m-sg
 	spa	James	np$np-ant$np-ant-m	ita	James	np-ant$np-ant-m$np-ant-m-sg
 	spa	Jaén	np$np-loc$np-loc-f	ita	Jaén	np$np-loc-m$np-loc-m-sg
@@ -15903,7 +15903,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Jean	np$np-ant	ita	Jean	np-ant-m$np-ant-m-sg$np$np-ant
 	spa	Jerez	np-loc	ita	Jerez	np$np-loc-m$np-loc-m-sg
 	spa	Jerónimo	np$np-ant	ita	Jerónimo	np-ant-m-sg$np$np-ant
-	spa	Joan	np$np-ant$np-ant-m	ita	Joan	np-ant-m$np-ant-m-sg$np-ant
+	spa	Joan	np$np-ant	ita	Joan	np-ant-m$np-ant-m-sg$np-ant
 	spa	Joaquín	np$np-ant$np-ant-m-sg	ita	Joaquín	np-ant-m-sg$np$np-ant$np-ant-m
 	spa	John	np$np-ant$np-ant-m	ita	John	np-ant$np-ant-m$np-ant-m-sg
 	spa	Jordi	np$np-ant	ita	Jordi	np-ant-m-sg$np$np-ant$np-ant-m
@@ -15934,7 +15934,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Lorca	np-loc$np-loc-f	ita	Lorca	np$np-loc-m$np-loc-m-sg
 	spa	Lorena	np-ant$np	ita	Lorena	np$np-ant-f$np-ant-f-sg$np-ant
 	spa	Lorenzo	np-ant$np$np-ant-m-sg	ita	Lorenzo	np-ant-m$np-ant-m-sg$np$np-ant
-	spa	Lucio	np$np-ant$np-ant-m	ita	Lucio	np-ant-m$np-ant-m-sg$np$np-ant
+	spa	Lucio	np$np-ant	ita	Lucio	np-ant-m$np-ant-m-sg$np$np-ant
 	spa	Lugo	np$np-loc$np-loc-f	ita	Lugo	np$np-loc-m$np-loc-m-sg
 	spa	Luis	np$np-ant$np-ant-m-sg	ita	Luis	np-ant$np-ant-m$np-ant-m-sg
 	spa	Luxemburgo	np$np-loc$np-loc-m	ita	Lussemburgo	np$np-loc-m$np-loc-m-sg
@@ -15942,7 +15942,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Macedonia	np$np-loc$np-loc-f	ita	Macedonia	np$np-loc-f-sg$np-loc-f
 	spa	Madagascar	np$np-loc$np-loc-m	ita	Madagascar	np$np-loc-m-sg$np-loc-m
 	spa	Madrid	np$np-loc$np-loc-m	ita	Madrid	np$np-loc-m$np-loc-m-sg
-	spa	Magdalena	np$np-ant$np-ant-f	ita	Magdalena	np$np-ant-f$np-ant$np-ant-f-sg
+	spa	Magdalena	np$np-ant	ita	Magdalena	np$np-ant-f$np-ant$np-ant-f-sg
 	spa	Magreb	np$np-loc$np-loc-m	ita	Maghreb	np$np-loc-m$np-loc-m-sg
 	spa	Mallorca	np$np-loc$np-loc-f	ita	Maiorca	np$np-loc-f-sg$np-loc-f
 	spa	Malabo	np$np-loc$np-loc-m	ita	Malabo	np$np-loc-m$np-loc-m-sg
@@ -15959,17 +15959,17 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Marcelo	np$np-ant	ita	Marcelo	np-ant-m-sg$np$np-ant
 	spa	Mariana	np$np-ant$np-ant-f-sg	ita	Mariana	np-ant-f$np-ant-f-sg$np$np-ant
 	spa	Maria	np$np-ant	ita	Maria	np-ant-f$np-ant-f-sg$np-ant$np
-	spa	María	np$np-ant$np-ant-f$np-ant-f-sg	ita	María	np-ant-f-sg$np-ant$np-ant-f
+	spa	María	np$np-ant$np-ant-f-sg$np-ant-f	ita	María	np-ant-f-sg$np-ant$np-ant-f
 	spa	Mari	np$np-ant$np-ant-f	ita	Mari	np-ant-f$np$np-ant$np-ant-f-sg
 	spa	Mario	np$np-ant$np-ant-m-sg	ita	Mario	np-ant-m-sg$np-ant-m$np-ant
 	spa	Marruecos	np-ant	ita	Marruecos	np$np-ant-m-sg
-	spa	Marta	np$np-ant$np-ant-f	ita	Marta	np-ant-f$np-ant-f-sg$np$np-ant
+	spa	Marta	np$np-ant	ita	Marta	np-ant-f$np-ant-f-sg$np$np-ant
 	spa	Marte	np$np-al	ita	Marte	np-al-m-sg
 	spa	Martorell	np-loc$np-loc-f	ita	Martorell	np$np-loc-m$np-loc-m-sg
 	spa	Martí	np$np-ant	ita	Martí	np$np-ant$np-ant-m$np-ant-m-sg
 	spa	Martín	np$np-ant$np-ant-m-sg	ita	Martín	np-ant$np-ant-m-sg$np-ant-m
 	spa	Mataró	np-loc$np-loc-f	ita	Mataró	np$np-loc-m$np-loc-m-sg
-	spa	Mateo	np$np-ant$np-ant-m$np-ant-m-sg	ita	Mateo	np$np-ant$np-ant-m$np-ant-m-sg
+	spa	Mateo	np$np-ant$np-ant-m-sg	ita	Mateo	np$np-ant$np-ant-m$np-ant-m-sg
 	spa	Matteo	np-ant$np	ita	Matteo	np-ant-m$np-ant-m-sg$np-ant
 	spa	Matthew	np$np-ant	ita	Matthew	np-ant-m$np-ant$np-ant-m-sg
 	spa	Mauricio	np$np-loc$np-loc-m	ita	Mauritius	np$np-loc-m-sg$np-loc-m
@@ -16022,7 +16022,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Nápoles	np$np-loc$np-loc-m	ita	Napoli	np$np-loc-m$np-loc-m-sg
 	spa	Napster	np-al$np	ita	Napster	np-al-m-sg$np$np-al-m
 	spa	Nature	np-al$np	ita	Nature	np-al-m-sg$np$np-al-m
-	spa	Nazaret	np-loc$np-loc-m	ita	Nazaret	np$np-loc-m$np-loc-m-sg
+	spa	Nazaret	np-loc	ita	Nazaret	np$np-loc-m$np-loc-m-sg
 	spa	Nepal	np$np-loc$np-loc-m	ita	Nepal	np$np-loc-m-sg$np-loc-m
 	spa	Nicola	np-ant	ita	Nicola	np-ant-m$np-ant$np-ant-m-sg
 	spa	Nicolás	np-ant$np$np-ant-m-sg	ita	Nicolás	np-ant-m-sg$np$np-ant$np-ant-m
@@ -16050,7 +16050,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Osuna	np-loc$np-loc-f	ita	Osuna	np$np-loc-m$np-loc-m-sg
 	spa	Ourense	np$np-loc$np-loc-f	ita	Ourense	np$np-loc-m$np-loc-m-sg
 	spa	Oviedo	np$np-loc$np-loc-f	ita	Oviedo	np$np-loc-m$np-loc-m-sg
-	spa	Pablo	np-ant$np$np-ant-m$np-ant-m-sg	ita	Pablo	np-ant-m$np-ant-m-sg$np$np-ant
+	spa	Pablo	np-ant$np$np-ant-m-sg	ita	Pablo	np-ant-m$np-ant-m-sg$np$np-ant
 	spa	Paco	np-ant	ita	Paco	np-ant-m-sg$np-ant
 	spa	Padua	np$np-loc	ita	Padova	np-loc-f$np-loc-f-sg
 	spa	Pakistán	np$np-loc$np-loc-m	ita	Pakistan	np$np-loc-m$np-loc-m-sg
@@ -16067,7 +16067,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Paula	np$np-ant	ita	Paula	np-ant-f$np-ant-f-sg$np$np-ant
 	spa	Paul	np$np-ant	ita	Paul	np-ant$np-ant-m$np-ant-m-sg
 	spa	Pau	np$np-ant	ita	Pau	np$np-ant$np-ant-m$np-ant-m-sg
-	spa	Pedro	np$np-ant$np-ant-m$np-ant-m-sg	ita	Pedro	np-ant-m-sg$np-ant-m$np-ant
+	spa	Pedro	np$np-ant$np-ant-m-sg	ita	Pedro	np-ant-m-sg$np-ant-m$np-ant
 	spa	Pegaso	np$np-al	ita	Pegaso	np-al-m-sg$np
 	spa	Pekín	np$np-loc$np-loc-m	ita	Pechino	np$np-loc-m$np-loc-m-sg
 	spa	Pelayo	np$np-ant	ita	Pelayo	np$np-ant$np-ant-m-sg
@@ -16080,8 +16080,8 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Filadelfia	np$np-loc$np-loc-f	ita	Philadelphia	np-loc-f-sg
 	spa	Picanya	np$np-loc$np-loc-f	ita	Picanya	np$np-loc-m$np-loc-m-sg
 	spa	Piera	np$np-ant	ita	Piera	np-ant-f$np-ant-f-sg$np$np-ant
-	spa	Pilar	np$np-ant$np-ant-f	ita	Pilar	np$np-ant$np-ant-f$np-ant-f-sg
-	spa	Pirineo	np-loc$np$np-loc-m-sg	ita	Pirenei	np$np-loc-m-sg
+	spa	Pilar	np$np-ant	ita	Pilar	np$np-ant$np-ant-f$np-ant-f-sg
+	spa	Pirineo	np$np-loc$np-loc-m-sg	ita	Pirenei	np$np-loc-m-sg
 	spa	Platón	np$np-ant$np-ant-m	ita	Platone	np-ant-m$np-ant$np-ant-m-sg
 	spa	Policía	np-al	ita	Polizia	np$np-al-f-sg
 	spa	Polonia	np$np-loc$np-loc-f	ita	Polonia	np-loc-f$np$np-loc-f-sg
@@ -16098,7 +16098,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Rafael	np$np-ant$np-ant-m$np-ant-m-sg	ita	Rafael	np-ant-m-sg$np-ant-m$np-ant
 	spa	Rambla	np-ant	ita	Rambla	np-ant-f-sg
 	spa	Ramón	np$np-ant$np-ant-m-sg	ita	Ramón	np-ant$np-ant-m-sg$np-ant-m
-	spa	Raquel	np$np-ant$np-ant-f$np-ant-f-sg	ita	Raquel	np$np-ant-f$np-ant$np-ant-f-sg
+	spa	Raquel	np$np-ant$np-ant-f-sg	ita	Raquel	np$np-ant-f$np-ant$np-ant-f-sg
 	spa	Raúl	np$np-ant$np-ant-m-sg	ita	Raúl	np$np-ant$np-ant-m$np-ant-m-sg
 	spa	Renfe	np-al$np	ita	Renfe	np$np-al-m$np-al-m-sg
 	spa	Repsol	np$np-al$np-al-m	ita	Repsol	np-al-m-sg$np$np-al-m
@@ -16123,7 +16123,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Roque	np-ant	ita	Roque	np$np-ant$np-ant-m-sg
 	spa	Rosellón	np$np-loc	ita	Roussillon	np$np-loc-m$np-loc-m-sg
 	spa	Ruanda	np$np-loc$np-loc-f	ita	Ruanda	np$np-loc-m$np-loc-m-sg
-	spa	Rubén	np$np-ant$np-ant-m$np-ant-m-sg	ita	Rubén	np-ant-m$np-ant-m-sg$np-ant
+	spa	Rubén	np$np-ant$np-ant-m-sg	ita	Rubén	np-ant-m$np-ant-m-sg$np-ant
 	spa	Rubí	np-loc$np-loc-f	ita	Rubí	np$np-loc-m$np-loc-m-sg
 	spa	Rusia	np-loc$np-loc-f	ita	Russia	np$np-loc-f$np-loc-f-sg
 	spa	Sabadell	np-loc$np-loc-m	ita	Sabadell	np$np-loc-m$np-loc-m-sg
@@ -16137,8 +16137,8 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Samuel	np$np-ant$np-ant-m$np-ant-m-sg	ita	Samuele	np-ant-m$np-ant$np-ant-m-sg
 	spa	Samuele	np-ant	ita	Samuel	np-ant-m$np-ant-m-sg$np$np-ant
 	spa	Santander	np$np-loc$np-loc-f	ita	Santander	np$np-loc-m$np-loc-m-sg
-	spa	Santiago	np-loc$np-loc-m	ita	Santiago	np$np-loc-m$np-loc-m-sg
-	spa	Sara	np$np-ant$np-ant-f$np-ant-f-sg	ita	Sara	np$np-ant-f$np-ant$np-ant-f-sg
+	spa	Santiago	np-loc	ita	Santiago	np$np-loc-m$np-loc-m-sg
+	spa	Sara	np$np-ant$np-ant-f-sg	ita	Sara	np$np-ant-f$np-ant$np-ant-f-sg
 	spa	Sarajevo	np$np-loc$np-loc-f	ita	Sarajevo	np$np-loc-m$np-loc-m-sg
 	spa	Cerdeña	np$np-loc$np-loc-f	ita	Sardegna	np-loc-f$np$np-loc-f-sg
 	spa	Satanás	np$np-ant	ita	Satana	np$np-ant-m-sg
@@ -16157,7 +16157,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Shane	np-ant	ita	Shane	np-ant$np-ant-m-sg
 	spa	Shanghai	np$np-loc$np-loc-m	ita	Shanghai	np$np-loc-m$np-loc-m-sg
 	spa	Simone	np-ant$np	ita	Simone	np-ant-m$np-ant-m-sg$np$np-ant
-	spa	Simón	np$np-ant$np-ant-m$np-ant-m-sg	ita	Simón	np-ant-m-sg$np$np-ant
+	spa	Simón	np$np-ant$np-ant-m-sg	ita	Simón	np-ant-m-sg$np$np-ant
 	spa	Singapur	np$np-loc$np-loc-m	ita	Singapore	np$np-loc-m-sg$np-loc-m
 	spa	Siria	np$np-loc$np-loc-f	ita	Siria	np-loc-f-sg
 	spa	Sitges	np$np-loc$np-loc-f	ita	Sitges	np$np-loc-m$np-loc-m-sg
@@ -16168,7 +16168,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Somalia	np$np-loc$np-loc-f	ita	Somalia	np-loc-f-sg$np-loc-f
 	spa	Sony	np$np-al$np-al-mf	ita	Sony	np-al-m-sg$np
 	spa	Soria	np-loc$np-loc-f$np	ita	Soria	np-loc-f$np$np-loc-f-sg
-	spa	España	np-loc$np-loc-f	ita	Spagna	np$np-loc-f$np-loc-f-sg
+	spa	España	np$np-loc$np-loc-f	ita	Spagna	np$np-loc-f$np-loc-f-sg
 	spa	Estados Unidos	np$np-loc$np-loc-m$np-loc-m-pl	ita	Stati Uniti	np$np-loc-m$np-loc-m-pl
 	spa	Estocolmo	np$np-loc$np-loc-m	ita	Stoccolma	np$np-loc-f$np-loc-f-sg
 	spa	Estrasburgo	np$np-loc$np-loc-m	ita	Strasburgo	np$np-loc-m$np-loc-m-sg
@@ -16190,7 +16190,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Teherán	np$np-loc$np-loc-m	ita	Teheran	np$np-loc-m$np-loc-m-sg
 	spa	Telecinco	np-al$np	ita	Telecinco	np-al-m-sg$np$np-al-m
 	spa	Tenerife	np$np-loc$np-loc-m	ita	Tenerife	np$np-loc-m$np-loc-m-sg
-	spa	Teresa	np$np-ant$np-ant-f	ita	Teresa	np-ant-f$np-ant-f-sg$np$np-ant
+	spa	Teresa	np$np-ant	ita	Teresa	np-ant-f$np-ant-f-sg$np$np-ant
 	spa	Terra	np-loc$np	ita	Terra	np$np-loc-f$np-loc-f-sg
 	spa	Terrassa	np$np-loc$np-loc-f	ita	Terrassa	np$np-loc-m$np-loc-m-sg
 	spa	Teruel	np$np-loc$np-loc-f	ita	Teruel	np$np-loc-m$np-loc-m-sg
@@ -16220,7 +16220,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Ugo	np-ant	ita	Ugo	np-ant-m$np-ant$np-ant-m-sg
 	spa	Hungría	np$np-loc$np-loc-f	ita	Ungheria	np$np-loc-f$np-loc-f-sg
 	spa	Unix	np$np-al-mf$np-al	ita	Unix	np-al-m-sg$np$np-al-m
-	spa	Uruguay	np-loc$np-loc-m	ita	Uruguay	np-loc-m$np$np-loc-m-sg
+	spa	Uruguay	np$np-loc$np-loc-m	ita	Uruguay	np-loc-m$np$np-loc-m-sg
 	spa	EE.UU.	np$np-loc-m-pl$np-loc	ita	USA	np$np-loc-m-pl
 	spa	Valencia	np$np-loc$np-loc-f	ita	Valenzia	np-loc-f$np-loc-f-sg
 	spa	Valladolid	np$np-loc-f$np-loc	ita	Valladolid	np$np-loc-m$np-loc-m-sg
@@ -16292,7 +16292,7 @@ RL	spa	buenas noches	ij	ita	buona notte	ij
 	spa	hasta pronto	ij	ita	a presto	ij
 	spa	por favor	ij	ita	per favore	ij
 	spa	de nada	ij	ita	prego	ij
-LR	spa	adonde	rel$rel-adv	ita	dove	rel$rel-adv
+LR	spa	adonde	rel-adv$rel	ita	dove	rel$rel-adv
 	spa	como	rel-adv$rel	ita	come	rel$rel-adv
 LR	spa	cual	rel-adv	ita	come	rel$rel-adv
 	spa	cuando	rel$rel-adv	ita	quando	rel$rel-adv
@@ -16310,7 +16310,7 @@ LR	spa	en lo que	rel-adv	ita	nel quale	rel-an-m-sg$rel-an
 LR	spa	lo que	rel-an-nt$rel$rel-an	ita	quello che	rel-an-m-sg
 	spa	que	rel$rel-an$rel-an-mf-sp	ita	che	rel$rel-an$rel-an-mf-sp
 LR	spa	quien	rel-nn-mf-sg$rel-nn	ita	chi	rel-nn-mf-sp$rel-nn
-LR	spa	quien	rel-nn-mf-pl	ita	chi	rel-nn-mf-sp$rel-nn
+LR	spa	quien	rel-nn-mf-pl$rel-mf	ita	chi	rel-nn-mf-sp$rel-nn
 RL	spa	quien	rel-nn-mf-ND	ita	chi	rel-nn-mf-sp$rel-nn
 RL	spa	lo	detnt	ita	lo	detnt
 	spa	lo	detnt	ita	quello	det-dem-m-sg
@@ -16319,7 +16319,7 @@ RL	spa	lo	detnt	ita	lo	detnt
 RL	spa	haber	vbhaver$vbhaver-ger	ita	avere	vbhaver$vbhaver-pprs-mf-sg
 	spa	que	cnjsub	ita	che	cnjsub
 	spa	dignidad	n-f$n$n-f-sg	ita	dignità	n-f$n-f-sp
-	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg	ita	qualcuno	prn$prn-tn-f$prn-tn
+	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m	ita	qualcuno	prn$prn-tn-f$prn-tn
 	spa	milanés	adj$adj-m-sg	ita	milanese	adj
 	spa	laborioso	adj$adj-m-sg	ita	operoso	$adj$adj-sup
 	spa	lombardo	adj$$adj-m-sg	ita	lombardo	adj$adj-sup

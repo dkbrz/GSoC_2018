@@ -91,7 +91,7 @@ RL	epo	samtempe ke	cnjadv	spa	a la vez que	cnjadv
 	epo	ĝismorte	adv	spa	a muerte	adv
 RL	epo	ekstreme	adv	spa	a más no poder	adv
 	epo	krom se	cnjadv	spa	a no ser que	cnjadv
-RL	epo	nur	adv	spa	a palo seco	adv
+RL	epo	nur	adv$	spa	a palo seco	adv
 RL	epo	egale	adv	spa	a partes iguales	adv
 RL	epo	de	pr	spa	a partir de	pr
 	epo	etskala	adj	spa	a pequeña escala	adj
@@ -118,7 +118,7 @@ RL	epo	intence	adv	spa	a propósito	adv
 	epo	sekve de	pr	spa	a raíz de	pr
 RL	epo	malvolonte	adv	spa	a regañadientes	adv
 	epo	sekure	adv	spa	a salvo	adv
-RL	epo	nur	adv	spa	a secas	adv
+RL	epo	nur	adv$	spa	a secas	adv
 RL	epo	sola	adj	spa	a solas	adj
 RL	epo	sole	adv	spa	a solas	adv
 	epo	siavice	adv	spa	a su vez	adv
@@ -134,7 +134,7 @@ RL	epo	en	pr$	spa	a en	pr
 RL	epo	por	pr	spa	a por	pr
 RL	epo	pri	pr	spa	a pri	pr
 	epo	Aarab	np-cog$np-cog-mf	spa	Aarab	np-cog
-	epo	Aaron	np-ant$np	spa	Aaron	np$np-ant$np-ant-m
+	epo	Aaron	np-ant$np	spa	Aaron	np$np-ant
 	epo	Aarón	np-ant	spa	Aarón	np$np-ant
 	epo	Ababuj	np-loc	spa	Ababuj	np$np-loc-f
 	epo	abato	n$n-f	spa	abad	n$n-m$n-m-sg
@@ -220,14 +220,14 @@ LR	epo	provizumado	n	spa	abastecimiento	n$n-m$n-m-sg
 LR	epo	alfabeto	n	spa	abecé	n$n-m
 	epo	betulo	n	spa	abedul	n$n-m$n-m-ND
 	epo	Abegondo	np-loc	spa	Abegondo	np$np-loc-f
-	epo	abelo	n	spa	abeja	n$n-f$n-f-ND
+	epo	abelo	n	spa	abeja	n-f$n$n-f-ND
 	epo	Abejar	np-loc	spa	Abejar	np-loc-f
 RL	epo	abelujo	n	spa	abejera	n-f
 	epo	burdo	n	spa	abejorro	n$n-m
 	epo	Abejuela	np-loc	spa	Abejuela	np$np-loc-f
-LR	epo	Abelo	np-ant$np	spa	Abel	np$np-ant$np-ant-m$np-ant-m-sg
+LR	epo	Abelo	np-ant$np	spa	Abel	np$np-ant$np-ant-m-sg
 	epo	Abel	np-cog-mf$np-cog	spa	Abel	np-cog
-	epo	Abel	np-ant$np	spa	Abel	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Abel	np-ant$np	spa	Abel	np$np-ant$np-ant-m-sg
 	epo	abela	adj	spa	abeliano	adj
 	epo	Abella	np-cog$np-cog-mf	spa	Abella	np-cog
 	epo	Abella de la Conca	np-loc	spa	Abella de la Conca	np$np-loc-f
@@ -465,7 +465,7 @@ RL	epo	signifo	n	spa	acepción	n$n-f
 	epo	akcepteble	adv	spa	aceptablemente	adv
 	epo	akcepto	n	spa	aceptación	n$n-f$n-f-sg
 	epo	akcepti	vbtr	spa	aceptar	vblex
-	epo	irigacia kanalo	n	spa	acequia	n$n-f$n-f-ND
+	epo	irigacia kanalo	n	spa	acequia	n-f$n$n-f-ND
 	epo	Acer	np-al	spa	Acer	np-al-mf
 	epo	trotuaro	n	spa	acera	n-f$n$n-f-ND
 	epo	pri	pr	spa	acerca de	pr
@@ -526,8 +526,8 @@ RL	epo	kondiĉi	vbtr	spa	acondicionar	vblex
 	epo	provizo	n	spa	acopio	n$n-m
 	epo	kupli	vblex	spa	acoplar	vblex
 	epo	ŝirmi	vbtr	spa	acorazar	vblex
-	epo	akordigi	vbtr	spa	acordar	vblex
-RL	epo	akordigi	vbtr	spa	acordar	vblex
+	epo	akordigi	vbtr	spa	acordar	vblex$vblex-pron
+RL	epo	akordigi	vbtr	spa	acordar	vblex$vblex-pron
 	epo	akordo	n	spa	acorde	n-m$n$n-m-sg
 	epo	akordiono	n	spa	acordeón	n-m$n
 	epo	mallongigi	vbtr	spa	acortar	vblex
@@ -536,7 +536,7 @@ RL	epo	akordigi	vbtr	spa	acordar	vblex
 	epo	Acosta	np-cog-mf$np-cog	spa	Acosta	np$np-cog$np-cog-mf
 	epo	enlitigi	vbtr	spa	acostar	vblex
 LR	epo	sterni	vbtr	spa	acostar	vblex
-	epo	enlitiĝi	vbntr	spa	acostarse	vblex$vblex-pron
+	epo	enlitiĝi	vbntr	spa	acostarse	vblex-pron$vblex
 	epo	kutimi	vbntr	spa	acostumbrar	vblex
 RL	epo	kutimi	vbntr	spa	acostumbrar	vblex
 	epo	akro	n	spa	acre	n-m$n
@@ -665,9 +665,9 @@ LR	epo	malplipeziĝi	vbntr	spa	adelgazar	vblex
 	epo	enen	adv	spa	adentro	adv
 	epo	adepto	n	spa	adepto	n$n-m
 	epo	adhero	n	spa	adherencia	n$n-f
-LR	epo	adheri	vbtr	spa	adherir	vblex
-LR	epo	alglui	vbtr	spa	adherir	vblex
-	epo	glui	vbtr	spa	adherir	vblex
+LR	epo	adheri	vbtr	spa	adherir	vblex$vblex-pron
+LR	epo	alglui	vbtr	spa	adherir	vblex$vblex-pron
+	epo	glui	vbtr	spa	adherir	vblex$vblex-pron
 	epo	adhera	adj	spa	adhesivo	adj$adj-m-sg
 	epo	aliĝo	n	spa	adhesión	n$n-f$n-f-ND
 LR	epo	alligiteco	n	spa	adhesión	n$n-f$n-f-ND
@@ -771,7 +771,7 @@ RL	epo	intence	adv	spa	adrede	adv
 	epo	Adrián	np-ant	spa	Adrián	np$np-ant$np-ant-m-sg
 	epo	adria	adj	spa	adriático	adj$adj-m-sg
 LR	epo	adriatika	adj	spa	adriático	adj$adj-m-sg
-RL	epo	Adriatiko	np-loc	spa	Adriático	np-loc-m
+RL	epo	Adriatiko	np-loc	spa	Adriático	np-m$np-loc-m
 	epo	Adroher	np-cog$np-cog-mf	spa	Adroher	np-cog
 	epo	adsorbi	vblex	spa	adsorber	vblex
 	epo	adsorbo	n	spa	adsorción	n$n-f
@@ -904,8 +904,8 @@ RL	epo	loko	n	spa	aforo	n$n-m
 	epo	Afrika	np$np-ant	spa	Afrika	np-ant
 RL	epo	afrik	adj	spa	afro-	adj
 	epo	afrik-usona	adj	spa	afro-americano	adj
-LR	epo	Afrodita	np-ant	spa	Afrodita	np-ant$np
-	epo	Afrodito	np-ant	spa	Afrodita	np-ant$np
+LR	epo	Afrodita	np-ant$np	spa	Afrodita	np-ant$np
+	epo	Afrodito	np-ant$np	spa	Afrodita	np-ant$np
 	epo	alfronti	vbtr	spa	afrontar	vblex
 	epo	afto	n	spa	afta	n-f$n$n-f-ND
 	epo	ekstere	adv	spa	afuera	adv
@@ -1004,9 +1004,9 @@ RL	epo	ofendo	n	spa	agravio	n$n-m$n-m-ND
 	epo	agresanto	n	spa	agresor	n$n-m-sg$n-m
 LR	epo	agresinto	n	spa	agresor	n$n-m-sg$n-m
 	epo	acide	adv	spa	agriamente	adv
-	epo	terkulturisto	n	spa	agricultor	n$n-m-sg$n-m
-LR	epo	agrikulturisto	n	spa	agricultor	n$n-m-sg$n-m
-LR	epo	agrokulturisto	n	spa	agricultor	n$n-m-sg$n-m
+	epo	terkulturisto	n	spa	agricultor	n$n-m$n-m-sg
+LR	epo	agrikulturisto	n	spa	agricultor	n$n-m$n-m-sg
+LR	epo	agrokulturisto	n	spa	agricultor	n$n-m$n-m-sg
 	epo	agrikulturo	n	spa	agricultura	n-f$n$n-f-sg
 LR	epo	agrokulturo	n	spa	agricultura	n-f$n$n-f-sg
 	epo	Agricultural Bank of China	np-al	spa	Agricultural Bank of China	np-al-mf
@@ -1769,7 +1769,7 @@ RL	epo	kuriero	n	spa	alfil	n$n-m
 	epo	Alfántega	np-loc	spa	Alfántega	np-loc-f
 	epo	Alférez	np-cog$np-cog-mf	spa	Alférez	np-cog
 	epo	Alfés	np-loc	spa	Alfés	np$np-loc-f
-	epo	algo	n	spa	alga	n$n-f
+	epo	algo	n	spa	alga	n-f$n
 	epo	Algaba	np-cog$np-cog-mf	spa	Algaba	np-cog
 	epo	Algadefe	np-loc	spa	Algadefe	np-loc-f
 	epo	Algaida	np-loc	spa	Algaida	np$np-loc-f
@@ -1812,10 +1812,10 @@ LR	epo	karobujo	n	spa	algarrobo	n-m$n
 	epo	Alguazas	np-loc	spa	Alguazas	np$np-loc-f
 	epo	Alguero	np-cog$np-cog-mf	spa	Alguero	np-cog
 	epo	Algueña	np-loc	spa	Algueña	np$np-loc-f
-	epo	iu	prn$prn-tn$prn-tn-sg	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg
+	epo	iu	prn$prn-tn$prn-tn-sg	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m
 	epo	io	prn$prn-tn	spa	alguna cosa	prn-tn-f$prn
-RL	epo	iu	det-qnt$det$det-qnt-pl	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
-	epo	iu	prn$prn-tn$prn-tn-sg	spa	alguno	prn$prn-tn-m-pl$prn-tn$prn-tn-m
+RL	epo	iu	det-qnt$det$det-qnt-pl	spa	alguno	det-ind$det$det-ind-m-pl$det-ind-m
+	epo	iu	prn$prn-tn$prn-tn-sg	spa	alguno	prn$prn-tn-GD-pl$prn-tn$prn-tn-GD
 	epo	kelkaj	adj	spa	algunos	adj
 	epo	Algámitas	np-loc	spa	Algámitas	np-loc-f
 RL	epo	algebre	adv	spa	algébricamente	adv
@@ -1852,7 +1852,7 @@ LR	epo	Alicante	np-loc	spa	Alicante	np$np-loc-f$np-loc
 	epo	alakanta	adj	spa	alicantino	adj$adj-m-sg
 	epo	tenajlo	n	spa	alicates	n-m$n
 	epo	Alice	np-ant$np	spa	Alice	np-ant$np
-	epo	Alicia	np-ant$np	spa	Alicia	np$np-ant$np-ant-f$np-ant-f-sg
+	epo	Alicia	np-ant$np	spa	Alicia	np$np-ant$np-ant-f-sg
 	epo	allogo	n	spa	aliciente	n-m$n
 	epo	Alicún	np-loc	spa	Alicún	np-loc-f
 	epo	Alicún de Ortega	np-loc	spa	Alicún de Ortega	np-loc-f
@@ -2044,7 +2044,7 @@ LR	epo	migdalujo	n	spa	almendrero	n-m
 	epo	fola	adj	spa	alocado	adj$adj-m-sg
 	epo	Alocén	np-loc	spa	Alocén	np-loc-f
 	epo	aloo	n	spa	aloe	n$n-m
-	epo	tranoktejo	n	spa	alojamiento	n$n-m$n-m-sg
+	epo	tranoktejo	n	spa	alojamiento	n-m$n$n-m-sg
 	epo	loĝigi	vbtr	spa	alojar	vblex
 	epo	Aloma	np-ant	spa	Aloma	np-ant
 	epo	alaŭdo	n	spa	alondra	n-f$n
@@ -2197,7 +2197,7 @@ LR	epo	halucine	adv	spa	alucinantemente	adv
 	epo	Alustante	np-loc	spa	Alustante	np-loc-f
 	epo	aluvio	n	spa	aluvión	n-m$n
 	epo	Alva	np-cog$np-cog-mf	spa	Alva	np-cog
-	epo	Alvarado	np-cog-mf$np-cog	spa	Alvarado	np$np-cog$np-cog-mf
+	epo	Alvarado	np-cog-mf$np-cog	spa	Alvarado	np$np-cog-mf$np-cog
 	epo	Alvarenga	np-cog$np-cog-mf	spa	Alvarenga	np-cog
 	epo	Alvarez	np-cog$np-cog-mf	spa	Alvarez	np$np-cog$np-cog-mf
 	epo	Alves	np-cog-mf$np-cog	spa	Alves	np$np-cog
@@ -2578,8 +2578,8 @@ LR	epo	al-andaluso	n	spa	andalusí	n$n-mf
 	epo	Andrews	np-cog$np-cog-mf	spa	Andrews	np$np-cog
 	epo	André	np-cog$np-cog-mf	spa	André	np-cog
 	epo	André	np-ant	spa	André	np$np-ant
-LR	epo	Andreo	np-ant$np	spa	Andrés	np$np-ant$np-ant-m$np-ant-m-sg
-	epo	Andrés	np-ant	spa	Andrés	np$np-ant$np-ant-m$np-ant-m-sg
+LR	epo	Andreo	np-ant$np	spa	Andrés	np$np-ant$np-ant-m-sg
+	epo	Andrés	np-ant	spa	Andrés	np$np-ant$np-ant-m-sg
 	epo	Andrés	np-cog$np-cog-mf	spa	Andrés	np-cog
 	epo	androgina	adj	spa	andrógino	adj$adj-m-sg
 	epo	Andromedo	np-loc$np	spa	Andrómeda	np$np-loc-f
@@ -2888,7 +2888,7 @@ LR	epo	kontraŭmilitarista	adj	spa	antimilitarista	adj$adj-mf$adj-mf-sg
 	epo	kontraŭnatura	adj	spa	antinatural	adj-mf$adj$adj-mf-sg
 	epo	kontraŭatoma	adj	spa	antinuclear	adj$adj-mf-sg
 	epo	Antjokio	np-loc	spa	Antioquia	np$np-loc-f
-	epo	Antioĥio	np-loc	spa	Antioquía	np$np-loc$np-loc-f
+	epo	Antioĥio	np-loc	spa	Antioquía	np-loc$np-loc-f
 	epo	rust-imunigaĵo	n	spa	antioxidante	n$n-m
 	epo	rust-imuniga	adj	spa	antioxidante	adj$adj-mf$adj-mf-sg
 LR	epo	antioksidanto	n	spa	antioxidante	n$n-m
@@ -3014,7 +3014,7 @@ LR	epo	anoncado	n	spa	anunciación	n$n-f
 	epo	analizo	n	spa	análisis	n-m-sp$n-m$n
 	epo	analoge	adv	spa	análogamente	adv
 	epo	analoga	adj	spa	análogo	adj$adj-GD-ND$adj-GD
-	epo	Anás	np-ant	spa	Anás	np-ant$np-ant-m
+	epo	Anás	np-ant	spa	Anás	np-ant
 	epo	anekdoto	n	spa	anécdota	n$n-f$n-f-ND
 	epo	anelido	n	spa	anélido	n-m$n
 	epo	Aníbal	np-ant	spa	Aníbal	np$np-ant
@@ -3215,7 +3215,7 @@ LR	epo	stabi	vblex	spa	apuñalar	vblex
 	epo	tiu	det$det-dem	spa	aquel	det$det-dem-GD$det-dem$det-dem-GD-ND
 RL	epo	tiu	prn$prn-tn	spa	aquel	prn$prn-tn-m$prn-tn
 	epo	tio	prn$prn-tn$prn-tn-sg$prn-tn-sg-nom	spa	aquello	prn$prn-tn$prn-tn-m-sp
-	epo	Aĥilo	np-ant$np	spa	Aquiles	np$np-ant
+	epo	Aĥilo	np$np-ant	spa	Aquiles	np$np-ant
 	epo	Aquin	np-cog$np-cog-mf	spa	Aquin	np-cog
 	epo	Aquino	np-cog-mf$np-cog	spa	Aquino	np$np-cog
 	epo	Akvitanio	np-loc	spa	Aquitania	np$np-loc$np-loc-f
@@ -3251,7 +3251,7 @@ RL	epo	tiu	prn$prn-tn	spa	aquél	prn$prn-tn$prn-tn-m
 	epo	Araitz	np-loc	spa	Araitz	np$np-loc-f
 	epo	Arakaldo	np-loc	spa	Arakaldo	np$np-loc-f
 	epo	Arakil	np-loc	spa	Arakil	np$np-loc-f
-	epo	Aram	np-ant	spa	Aram	np-ant$np-ant-m
+	epo	Aram	np-ant	spa	Aram	np-ant
 	epo	Arama	np-loc	spa	Arama	np-loc-f
 	epo	Aramaio	np-loc	spa	Aramaio	np$np-loc-f
 	epo	arameo	n	spa	arameo	n$n-m
@@ -3365,7 +3365,7 @@ LR	epo	arĥivisto	n	spa	archivista	n
 	epo	argilo	n	spa	arcilla	n$n-f$n-f-ND
 	epo	arko	n	spa	arco	n-m$n$n-m-ND
 	epo	Arco	np-cog$np-cog-mf	spa	Arco	np-cog
-	epo	ĉielarko	n	spa	arco iris	n-m$n-m-sg
+	epo	ĉielarko	n	spa	arco iris	n-m$n$n-m-sg
 	epo	Arconada	np-loc	spa	Arconada	np$np-loc-f
 	epo	Arcones	np-loc	spa	Arcones	np-loc-f
 	epo	Arcos	np-cog$np-cog-mf	spa	Arcos	np-cog
@@ -3431,7 +3431,7 @@ LR	epo	areno	n	spa	arena	n-f$n$n-f-sg
 	epo	Ares	np-loc	spa	Ares	np-loc-f
 	epo	Ares	np-ant	spa	Ares	np-ant
 	epo	Ares del Maestre	np-loc	spa	Ares del Maestre	np$np-loc-f
-	epo	Areso	np-loc$np	spa	Areso	np$np-loc-f
+	epo	Areso	np$np-loc	spa	Areso	np$np-loc-f
 	epo	Areste	np-cog$np-cog-mf	spa	Areste	np-cog
 	epo	Aretxabaleta	np-loc	spa	Aretxabaleta	np$np-loc-f
 	epo	Areva	np-al	spa	Areva	np$np-al-mf
@@ -3546,10 +3546,10 @@ LR	epo	aristokrataro	n	spa	aristocracia	n$n-f
 	epo	Arlanzón	np-loc	spa	Arlanzón	np$np-loc-f
 	epo	arlekeno	n	spa	arlequín	n-m$n
 	epo	Arlet	np-ant	spa	Arlet	np-ant
-	epo	armilo	n	spa	arma	n$n-f$n-f-sg
+	epo	armilo	n	spa	arma	n-f$n$n-f-sg
 	epo	armeo	n$n-sg	spa	armada	n$n-f
 	epo	Armada	np-cog$np-cog-mf	spa	Armada	np-cog
-	epo	dazipo	n	spa	armadillo	n$n-m
+	epo	dazipo	n	spa	armadillo	n-m$n
 	epo	armaĵo	n	spa	armadura	n$n-f
 	epo	floso	n	spa	armadía	n$n-f
 	epo	Armallones	np-loc	spa	Armallones	np-loc-f
@@ -3905,7 +3905,7 @@ LR	epo	asfiksii	vbtr	spa	asfixiar	vblex
 	epo	Ashley	np-ant	spa	Ashley	np-ant$np
 	epo	Ashraf	np-cog$np-cog-mf	spa	Ashraf	np-cog
 	epo	Ashton	np-cog$np-cog-mf	spa	Ashton	np-cog
-	epo	Azio	np-loc$np	spa	Asia	np$np-loc$np-loc-f
+	epo	Azio	np$np-loc	spa	Asia	np$np-loc$np-loc-f
 	epo	Malgrand-Azio	np$np-loc	spa	Asia Menor	np$np-loc-f
 	epo	sidloko	n	spa	asiento	n$n-m$n-m-ND
 	epo	Asier	np-ant	spa	Asier	np$np-ant
@@ -4247,8 +4247,8 @@ RL	epo	sono	n	spa	audio	n$n-m
 	epo	aŭguro	n	spa	augurio	n$n-m
 	epo	Auguste	np-cog$np-cog-mf	spa	Auguste	np-cog
 	epo	Augustin	np-cog$np-cog-mf	spa	Augustin	np-cog
-LR	epo	Aŭgusto	np-ant$np	spa	Augusto	np$np-ant$np-ant-m
-	epo	Augusto	np-ant	spa	Augusto	np$np-ant$np-ant-m
+LR	epo	Aŭgusto	np-ant$np	spa	Augusto	np$np-ant
+	epo	Augusto	np-ant	spa	Augusto	np$np-ant
 	epo	Augusto	np-cog$np-cog-mf	spa	Augusto	np-cog
 	epo	Augé	np-cog$np-cog-mf	spa	Augé	np-cog
 	epo	klasĉambro	n	spa	aula	n$n-f$n-f-sg
@@ -4297,7 +4297,7 @@ LR	epo	aŭstereco	n	spa	austeridad	n$n-f$n-f-sg
 	epo	aŭstera	adj	spa	austero	adj$adj-m-sg
 	epo	Austin	np-cog$np-cog-mf	spa	Austin	np-cog
 	epo	aŭstrala	adj	spa	austral	adj$adj-mf$adj-mf-sg
-	epo	Aŭstralio	np-loc$np	spa	Australia	np-loc$np-loc-f
+	epo	Aŭstralio	np-loc$np	spa	Australia	np$np-loc$np-loc-f
 	epo	aŭstraliano	n	spa	australiano	n$n-GD
 	epo	aŭstralia	adj	spa	australiano	adj$adj-m-sg
 	epo	aŭstrale	adv	spa	australmente	adv
@@ -4408,7 +4408,7 @@ LR	epo	rapida ŝoseo	n	spa	autovía	n$n-f
 	epo	Auñón	np-loc	spa	Auñón	np-loc-f
 	epo	avalo	n	spa	aval	n$n-m
 	epo	garantio	n	spa	aval	n$n-m
-	epo	lavango	n	spa	avalancha	n-f$n
+	epo	lavango	n	spa	avalancha	n$n-f
 	epo	garantii	vbtr	spa	avalar	vblex
 	epo	avali	vbtr	spa	avalar	vblex
 	epo	antaŭeniro	n	spa	avance	n$n-m$n-m-ND
@@ -4525,8 +4525,8 @@ LR	epo	magistrato	n	spa	ayuntamiento	n$n-m$n-m-ND
 	epo	Ayuso	np-cog$np-cog-mf	spa	Ayuso	np$np-cog
 	epo	Ayza	np-cog$np-cog-mf	spa	Ayza	np-cog
 	epo	Ayódar	np-loc	spa	Ayódar	np$np-loc-f
-	epo	hojo	n	spa	azada	n$n-f
-	epo	sarkilo	n	spa	azada	n$n-f
+	epo	hojo	n	spa	azada	n-f$n
+	epo	sarkilo	n	spa	azada	n-f$n
 	epo	stevardino	n	spa	azafata	n-f$n
 	epo	safrano	n	spa	azafrán	n$n-m
 	epo	Azagra	np-loc	spa	Azagra	np-loc-f
@@ -4568,7 +4568,7 @@ LR	epo	vipo	n	spa	azote	n-m$n
 	epo	Azuaga	np-loc	spa	Azuaga	np-loc-f
 	epo	Azuara	np-cog$np-cog-mf	spa	Azuara	np-cog
 	epo	Azuara	np-loc	spa	Azuara	np-loc-f
-	epo	suker-fabriko	n	spa	azucarera	n$n-f
+	epo	suker-fabriko	n	spa	azucarera	n-f$n
 	epo	sukerujo	n	spa	azucarero	n-m$n
 	epo	sukera	adj	spa	azucarero	adj$adj-m-sg
 	epo	sukerpeco	n	spa	azucarillo	n$n-m
@@ -4609,7 +4609,7 @@ RL	epo	instigi	vbtr	spa	azuzar	vblex
 	epo	Añón de Moncayo	np-loc	spa	Añón de Moncayo	np-loc-f
 	epo	ankoraŭ	adv	spa	aún	adv
 	epo	eĉ	adv	spa	aún	adv
-	epo	b	n-acr$n	spa	b	n-acr-m
+	epo	b	n-acr	spa	b	n-acr-m
 	epo	Ba	np-cog$np-cog-mf	spa	Ba	np-cog
 	epo	bavo	n	spa	baba	n$n-f
 	epo	bavi	vblex	spa	babear	vblex
@@ -4617,8 +4617,8 @@ RL	epo	instigi	vbtr	spa	azuzar	vblex
 	epo	salivtuko	n	spa	babero	n$n-m
 	epo	Babeux	np-cog$np-cog-mf	spa	Babeux	np-cog
 	epo	Babilafuente	np-loc	spa	Babilafuente	np-loc-f
-	epo	Babilono	np-loc$np	spa	Babilonia	np-loc-f$np
-LR	epo	Babilonio	np-loc$np	spa	Babilonia	np-loc-f$np
+	epo	Babilono	np-loc$np	spa	Babilonia	np-loc-f$np$np-f
+LR	epo	Babilonio	np-loc$np	spa	Babilonia	np-loc-f$np$np-f
 	epo	babilona	adj	spa	babilonio	adj$adj-m-sg
 	epo	babilonano	n	spa	babilonio	n$n-GD
 LR	epo	babilonia	adj	spa	babilonio	adj$adj-m-sg
@@ -5006,8 +5006,8 @@ LR	epo	barbhava	adj	spa	barbudo	adj$adj-m-sg
 	epo	Barbà	np-cog$np-cog-mf	spa	Barbà	np-cog
 	epo	Barbá	np-cog$np-cog-mf	spa	Barbá	np-cog
 	epo	Barbé	np-cog$np-cog-mf	spa	Barbé	np-cog
-	epo	barko	n	spa	barca	n$n-f$n-f-ND
-	epo	boato	n	spa	barca	n$n-f$n-f-ND
+	epo	barko	n	spa	barca	n-f$n$n-f-ND
+	epo	boato	n	spa	barca	n-f$n$n-f-ND
 	epo	Barca	np-loc	spa	Barca	np$np-loc-f
 	epo	barkarolo	n	spa	barcarola	n-f$n
 	epo	Barcarrota	np-loc	spa	Barcarrota	np-loc-f
@@ -5225,7 +5225,7 @@ LR	epo	Bazilo	np$np-ant	spa	Basilio	np$np-ant
 	epo	se nur	cnjadv	spa	basta con que	cnjadv
 	epo	ne plu trompu	ij	spa	basta de farsas	ij
 	epo	sufiĉas ke	cnjadv	spa	basta que	cnjadv
-	epo	sufiĉe da	det-qnt$det	spa	bastante	det$det-ind-mf$det-ind-mf-ND
+	epo	sufiĉe da	det-qnt$det	spa	bastante	det$det-qnt-mf$det-qnt-mf-ND
 	epo	sufiĉe	adv	spa	bastante	adv
 	epo	sufiĉa	adj	spa	bastante	adj$adj-mf$adj-mf-sg
 	epo	sufiĉi	vblex	spa	bastar	vblex
@@ -5551,7 +5551,7 @@ LR	epo	belgino	n	spa	belga	n$n-mf$n-mf-ND
 	epo	Belvís de la Jara	np-loc	spa	Belvís de la Jara	np$np-loc-f
 	epo	Belvís de Monroy	np-loc	spa	Belvís de Monroy	np-loc-f
 	epo	Belzile	np-cog$np-cog-mf	spa	Belzile	np-cog
-	epo	Belén	np-ant	spa	Belén	np-ant$np-ant-f
+	epo	Belén	np-ant	spa	Belén	np-ant
 	epo	Betlehemo	np-loc	spa	Belén	np-loc$np$np-loc-m
 	epo	kripo	n	spa	belén	n$n-m
 	epo	Bembibre	np-loc	spa	Bembibre	np$np-loc-f
@@ -5670,7 +5670,7 @@ LR	epo	benedikta	adj	spa	benedictino	adj$adj-m-sg
 	epo	Benito	np-cog$np-cog-mf	spa	Benito	np-cog
 	epo	Benizalón	np-loc	spa	Benizalón	np-loc-f
 	epo	Benjamin	np-cog$np-cog-mf	spa	Benjamin	np-cog
-	epo	Benjamín	np-ant	spa	Benjamín	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Benjamín	np-ant	spa	Benjamín	np$np-ant$np-ant-m-sg
 	epo	Benjumea	np-cog$np-cog-mf	spa	Benjumea	np-cog
 	epo	Benlloch	np-loc	spa	Benlloch	np$np-loc$np-loc-f
 	epo	Benlolo	np-cog$np-cog-mf	spa	Benlolo	np-cog
@@ -6231,7 +6231,7 @@ RL	epo	stultulo	n	spa	bobo	n$n-m
 	epo	bufono	n	spa	bobo	n$n-m
 	epo	horloĝo	n	spa	bobo	n$n-m
 	epo	Boborás	np-loc	spa	Boborás	np$np-loc-f
-	epo	buŝo	n	spa	boca	n$n-f$n-f-ND
+	epo	buŝo	n	spa	boca	n-f$n$n-f-ND
 	epo	Boca de Huérgano	np-loc	spa	Boca de Huérgano	np-loc-f
 	epo	surventre	adv	spa	boca abajo	adv
 	epo	surdorse	adv	spa	boca arriba	adv
@@ -6725,7 +6725,7 @@ LR	epo	braĥicefalo	n	spa	braquicéfalo	n-m
 	epo	braceleto	n	spa	brazalete	n$n-m
 	epo	Brazatortas	np-loc	spa	Brazatortas	np-loc-f
 	epo	Brazeau	np-cog$np-cog-mf	spa	Brazeau	np-cog
-	epo	brako	n	spa	brazo	n-m-sg$n-m$n
+	epo	brako	n	spa	brazo	n-m$n-m-sg$n
 	epo	Brazuelo	np-loc	spa	Brazuelo	np-loc-f
 	epo	Brañosera	np-loc	spa	Brañosera	np-loc-f
 	epo	gudro	n	spa	brea	n$n-f
@@ -6843,8 +6843,8 @@ LR	epo	bruska	adj	spa	bronco	adj$adj-m-sg
 	epo	Brosseau	np-cog$np-cog-mf	spa	Brosseau	np-cog
 	epo	Brossoit	np-cog$np-cog-mf	spa	Brossoit	np-cog
 	epo	burĝoni	vbntr	spa	brotar	vblex
-	epo	burĝono	n	spa	brote	n-m$n
-LR	epo	ŝoso	n	spa	brote	n-m$n
+	epo	burĝono	n	spa	brote	n$n-m
+LR	epo	ŝoso	n	spa	brote	n$n-m
 	epo	Broto	np-loc	spa	Broto	np-loc-f
 	epo	Brotons	np-cog$np-cog-mf	spa	Brotons	np$np-cog
 	epo	Brotó	np-cog$np-cog-mf	spa	Brotó	np-cog
@@ -6887,7 +6887,7 @@ LR	epo	ŝoso	n	spa	brote	n-m$n
 	epo	bruske	adv	spa	bruscamente	adv
 	epo	bruska	adj	spa	brusco	adj$adj-GD-ND$adj-GD
 	epo	malafabla	adj	spa	brusco	adj$adj-GD-ND$adj-GD
-	epo	Bruselo	np-loc$np	spa	Bruselas	np$np-loc$np-loc-f$np-loc-f-sg
+	epo	Bruselo	np$np-loc	spa	Bruselas	np$np-loc$np-loc-f$np-loc-f-sg
 	epo	brutala	adj	spa	brutal	adj$adj-mf$adj-mf-ND
 	epo	brutale	adv	spa	brutalmente	adv
 LR	epo	brute	adv	spa	brutamente	adv
@@ -7184,7 +7184,7 @@ LR	epo	burokrata	adj	spa	burocrático	adj$adj-GD$adj-GD-ND
 	epo	Béland	np-cog$np-cog-mf	spa	Béland	np-cog
 	epo	Bélanger	np-cog$np-cog-mf	spa	Bélanger	np-cog
 	epo	Bélec	np-cog$np-cog-mf	spa	Bélec	np-cog
-	epo	Belgio	np-loc$np	spa	Bélgica	np$np-loc$np-loc-f
+	epo	Belgio	np$np-loc	spa	Bélgica	np$np-loc$np-loc-f
 	epo	milite	adv	spa	bélicamente	adv
 RL	epo	milita	adj	spa	bélico	adj$adj-GD-ND
 	epo	Bélisle	np-cog$np-cog-mf	spa	Bélisle	np-cog
@@ -7272,7 +7272,7 @@ LR	epo	kavaliro	n$n-m	spa	caballero	n-m$n$n-m-ND
 	epo	Cabañas Raras	np-loc	spa	Cabañas Raras	np-loc-f
 	epo	Cabañero	np-cog$np-cog-mf	spa	Cabañero	np-cog
 	epo	Cabañes de Esgueva	np-loc	spa	Cabañes de Esgueva	np-loc-f
-	epo	kaploko	n	spa	cabecera	n-f$n$n-f-ND
+	epo	kaploko	n	spa	cabecera	n$n-f$n-f-ND
 	epo	bandestro	n	spa	cabecilla	n-mf$n
 	epo	Cabedo	np-cog$np-cog-mf	spa	Cabedo	np-cog
 	epo	hararo	n$n-sg	spa	cabellera	n-f$n
@@ -7394,7 +7394,7 @@ LR	epo	kapro	n$n-f	spa	cabrón	n$n-m$n-m-pl
 	epo	ĉiu	det$det-qnt	spa	cada	det$det-ind$det-ind-mf$det-ind-mf-sg
 	epo	ĉiu	prn$prn-tn-pl$prn-tn$prn-tn-m-pl	spa	cada cual	prn$prn-tn-m
 	epo	ĉiutage	adv	spa	cada día	adv
-	epo	ĉiu	prn$prn-tn-pl$prn-tn$prn-tn-m-pl	spa	cada uno	prn$prn-tn-m$prn-tn-m-sg
+	epo	ĉiu	prn$prn-tn-pl$prn-tn$prn-tn-m-pl	spa	cada uno	prn$prn-tn-GD-sg
 	epo	ĉiufoje	cnjadv	spa	cada vez	cnjadv
 	epo	ĉiufoje pli	cnjadv	spa	cada vez más	cnjadv
 	epo	ĉiufoje kiam	cnjadv	spa	cada vez que	cnjadv
@@ -7761,7 +7761,7 @@ RL	epo	kverelema	adj	spa	camorrero	adj
 RL	epo	kverelemulo	n	spa	camorrero	n
 	epo	kverelema	adj	spa	camorrista	adj-mf$adj-mf-sg$adj
 	epo	kverelemulo	n	spa	camorrista	n-mf$n
-RL	epo	batato	n	spa	camote	n-m
+RL	epo	batato	n	spa	camote	n-m$n
 	epo	Camp	np-cog$np-cog-mf	spa	Camp	np$np-cog
 	epo	Campa	np-cog$np-cog-mf	spa	Campa	np$np-cog
 	epo	Campabadal	np-cog$np-cog-mf	spa	Campabadal	np-cog
@@ -7877,7 +7877,7 @@ RL	epo	universitatejo	n	spa	campus universitario	n-m
 	epo	Canadell	np-cog$np-cog-mf	spa	Canadell	np-cog
 	epo	kanadano	n	spa	canadiense	n$n-mf
 	epo	kanada	adj	spa	canadiense	adj-mf$adj$adj-mf-sg
-	epo	Kanado	np-loc$np	spa	Canadá	np$np-loc-m$np-loc
+	epo	Kanado	np-loc$np	spa	Canadá	np-loc-m$np-loc
 	epo	kanalo	n	spa	canal	n-m$n$n-m-sg
 	epo	Canal	np-cog$np-cog-mf	spa	Canal	np-cog
 	epo	Canal de Berdún	np-loc	spa	Canal de Berdún	np-loc-f
@@ -8318,7 +8318,7 @@ LR	epo	Karlo	np-ant	spa	Carlos	np$np-ant$np-ant-m-sg
 	epo	Carme	np-loc	spa	Carme	np-loc-f
 	epo	Carme	np-ant$np	spa	Carme	np$np-ant
 	epo	Carmel	np-cog$np-cog-mf	spa	Carmel	np-cog
-	epo	Carmen	np-ant	spa	Carmen	np-ant$np$np-ant-f$np-ant-f-sg
+	epo	Carmen	np-ant	spa	Carmen	np-ant$np$np-ant-f-sg
 	epo	Carmena	np-loc	spa	Carmena	np-loc-f
 	epo	karmezina	adj	spa	carmesí	adj-mf$adj
 	epo	karmezino	n	spa	carmesí	n$n-m
@@ -8370,7 +8370,7 @@ LR	epo	idento-karto	n	spa	carné	n-m$n
 	epo	karolida	adj	spa	carolingio	adj$adj-m-sg
 	epo	Caron	np-cog$np-cog-mf	spa	Caron	np-cog
 	epo	Ĥarono	n	spa	Caronte	n-m
-	epo	karpo	n	spa	carpa	n$n-f
+	epo	karpo	n	spa	carpa	n-f$n
 	epo	Carpena	np-cog$np-cog-mf	spa	Carpena	np-cog
 	epo	Carpentier	np-cog$np-cog-mf	spa	Carpentier	np$np-cog
 	epo	dosierujo	n	spa	carpeta	n-f$n
@@ -8611,7 +8611,7 @@ RL	epo	rubo	n$n-sg	spa	cascote	n$n-m
 	epo	Caseres	np-loc	spa	Caseres	np$np-loc-f
 	epo	hejma	adj	spa	casero	adj$adj-m-sg
 	epo	hejmama	adj	spa	casero	adj$adj-m-sg
-	epo	Casero	np-cog$np-cog-mf	spa	Casero	np-cog
+	epo	Casero	np-cog$np-cog-mf	spa	Casero	np$np-cog
 	epo	farmodomo	n	spa	caserío	n$n-m
 	epo	Cases	np-cog$np-cog-mf	spa	Cases	np-cog
 	epo	budo	n	spa	caseta	n$n-f
@@ -8696,8 +8696,8 @@ LR	epo	kaŝtanujo	n	spa	castaño	n$n-m$n-m-ND
 RL	epo	hispaniĝo	n	spa	castellanización	n$n-f
 LR	epo	hispanigo	n	spa	castellanización	n$n-f
 RL	epo	hispanigi	vbtr	spa	castellanizar	vblex
-LR	epo	kastilano	n	spa	castellano	n$n-m-ND$n-m
-	epo	kastiliano	n	spa	castellano	n$n-m-ND$n-m
+LR	epo	kastilano	n	spa	castellano	n$n-m$n-m-ND
+	epo	kastiliano	n	spa	castellano	n$n-m$n-m-ND
 	epo	kastilia	adj	spa	castellano	adj$adj-m-sg
 LR	epo	kastila	adj	spa	castellano	adj$adj-m-sg
 	epo	Castellano	np-cog$np-cog-mf	spa	Castellano	np-cog
@@ -8903,7 +8903,7 @@ RL	epo	katalunparolanto	n	spa	catalanoparlante	n
 RL	epo	katalunparolanta	adj	spa	catalanoparlante	adj
 	epo	lorno	n$n-sg	spa	catalejo	n-m
 	epo	katalepsio	n	spa	catalepsia	n$n-f
-	epo	Catalina	np-ant$np	spa	Catalina	np$np-ant$np-ant-f
+	epo	Catalina	np-ant$np	spa	Catalina	np-ant$np$np-ant-f
 	epo	katalizilo	n	spa	catalizador	n$n-m$n-m-sg
 	epo	katalogado	n	spa	catalogación	n$n-f$n-f-sg
 	epo	katalogi	vblex	spa	catalogar	vblex
@@ -9031,7 +9031,7 @@ LR	epo	ŝpini	vbtr	spa	cavilar	vblex
 	epo	ĉasado	n	spa	caza	n$n-f$n-f-ND
 	epo	Caza	np-cog$np-cog-mf	spa	Caza	np-cog
 	epo	ĉasisto	n	spa	cazador	n$n-m$n-m-sg
-	epo	Oriono	np-loc$np	spa	Cazador del Cielo	np-loc-m
+	epo	Oriono	np$np-loc	spa	Cazador del Cielo	np-loc-m
 	epo	Cazalegas	np-loc	spa	Cazalegas	np-loc-f
 	epo	Cazalilla	np-loc	spa	Cazalilla	np-loc-f
 	epo	Cazalla	np-cog$np-cog-mf	spa	Cazalla	np-cog
@@ -9045,7 +9045,7 @@ LR	epo	ŝpini	vbtr	spa	cavilar	vblex
 RL	epo	kaserolo	n	spa	cazuela	n$n-f
 	epo	Cazurra	np-loc	spa	Cazurra	np-loc-f
 	epo	falo	n	spa	caída	n$n-f$n-f-sg
-	epo	Kaino	np-ant	spa	Caín	np-ant$np$np-ant-m
+	epo	Kaino	np-ant	spa	Caín	np-ant$np
 	epo	kano	n	spa	caña	n-f$n$n-f-ND
 	epo	sukerkano	n	spa	caña	n-f$n$n-f-ND
 	epo	Cañabate	np-cog$np-cog-mf	spa	Cañabate	np-cog
@@ -9141,7 +9141,7 @@ LR	epo	ĥaosa	adj	spa	caótico	adj$adj-GD
 	epo	Cehegín	np-loc	spa	Cehegín	np$np-loc-f
 	epo	Ceinos de Campos	np-loc	spa	Ceinos de Campos	np-loc-f
 	epo	Ceitlin	np-cog$np-cog-mf	spa	Ceitlin	np-cog
-	epo	brovo	n	spa	ceja	n$n-f$n-f-sg
+	epo	brovo	n	spa	ceja	n-f$n$n-f-sg
 	epo	Cejas	np-cog$np-cog-mf	spa	Cejas	np-cog
 	epo	Cejudo	np-cog$np-cog-mf	spa	Cejudo	np$np-cog
 	epo	Cela	np-cog$np-cog-mf	spa	Cela	np$np-cog
@@ -9346,7 +9346,7 @@ LR	epo	greno	n	spa	cereal	n-m$n$n-m-ND
 	epo	cerio	n	spa	cerio	n$n-m
 	epo	Cernadilla	np-loc	spa	Cernadilla	np-loc-f
 	epo	ŝvebi	vblex	spa	cerner	vblex
-	epo	nul	num	spa	cero	num$num-mf$num-mf-sp
+	epo	nul	num	spa	cero	num$num-mf-sp$num-mf
 	epo	nulo	n	spa	cero	n-m$n$n-m-sg
 LR	epo	nul	n	spa	cero	n-m$n$n-m-sg
 	epo	Cerone	np-cog$np-cog-mf	spa	Cerone	np-cog
@@ -9875,7 +9875,7 @@ RL	epo	fanfaronulo	n	spa	chulapo	n
 	epo	blinda	adj	spa	ciego	adj$adj-GD$$adj-GD-ND
 	epo	ĉielo	n	spa	cielo	n-m$n$n-m-sg
 	epo	Ciempozuelos	np-loc	spa	Ciempozuelos	np-loc-f
-	epo	cent	num	spa	cien	num$num-mf$num-mf-sp$
+	epo	cent	num	spa	cien	num$num-mf-sp$num-mf$
 	epo	cent mil	num	spa	cien mil	num
 	epo	scienco	n	spa	ciencia	n-f$n$n-f-sg
 	epo	sciencfikcio	n	spa	ciencia ficción	n$n-f
@@ -9889,7 +9889,7 @@ RL	epo	cento	n	spa	cientos	n-m$n-m-pl
 	epo	iu	det-qnt$det$det-qnt-pl	spa	cierto	det$det-ind$det-ind-m-sg
 	epo	vera	adj	spa	cierto	adj$adj-GD-ND
 LR	epo	certa	adj	spa	cierto	adj$adj-GD-ND
-	epo	cervo	n	spa	ciervo	n$n-m$n-m-sg
+	epo	cervo	n	spa	ciervo	n-m$n$n-m-sg
 	epo	Cieza	np-loc	spa	Cieza	np$np-loc-f
 	epo	cifero	n	spa	cifra	n-f$n$n-f-ND
 	epo	kodi	vblex	spa	cifrar	vblex
@@ -9932,7 +9932,7 @@ RL	epo	fundamento	n	spa	cimiento	n$n-m$n-m-ND
 	epo	Cinca	np-cog$np-cog-mf	spa	Cinca	np-cog
 	epo	ĉizilo	n$n-sg	spa	cincel	n$n-m
 	epo	ĉizi	vbtr	spa	cincelar	vblex
-	epo	kvin	num$	spa	cinco	num$num-mf-sp$
+	epo	kvin	n$	spa	cinco	num$num-mf-sp$
 	epo	Cinco Olivas	np-loc	spa	Cinco Olivas	np-loc-f
 	epo	Cincovillas	np-loc	spa	Cincovillas	np-loc-f
 	epo	Cinctorres	np-loc	spa	Cinctorres	np$np-loc-f
@@ -10120,9 +10120,9 @@ LR	epo	klasigi	vbtr	spa	clasificar	vblex
 	epo	Claude	np-cog$np-cog-mf	spa	Claude	np-cog
 	epo	Claudel	np-cog$np-cog-mf	spa	Claudel	np-cog
 	epo	Claudi	np-ant	spa	Claudi	np-ant
-	epo	Claudia	np-ant	spa	Claudia	np$np-ant$np-ant-f$np-ant-f-sg
-LR	epo	Klaŭdo	$np$np-ant	spa	Claudio	np-ant$np$np-ant-m
-	epo	Claudio	np-ant	spa	Claudio	np-ant$np$np-ant-m
+	epo	Claudia	np-ant	spa	Claudia	np$np-ant$np-ant-f-sg
+LR	epo	Klaŭdo	$np$np-ant	spa	Claudio	np-ant$np
+	epo	Claudio	np-ant	spa	Claudio	np-ant$np
 	epo	klostro	n	spa	claustro	n$n-m
 	epo	klostrofobio	n	spa	claustrofobia	n$n-f
 RL	epo	fermo	n	spa	clausura	n-f$n$n-f-sg
@@ -10220,7 +10220,7 @@ LR	epo	klimatologiisto	n	spa	climatólogo	n
 	epo	klimakso	n	spa	clímax	n-m-sp$n-m
 	epo	kliniko	n	spa	clínica	n$n-f$n-f-sg
 	epo	klinika	adj	spa	clínico	adj$adj-GD$adj-GD-ND
-	epo	klitoro	n	spa	clítoris	n-m$n$n-m-sp
+	epo	klitoro	n	spa	clítoris	n-m$n-m-sp$n
 	epo	klonika	adj	spa	clónico	adj$adj-m-sg
 	epo	cm	n-acr	spa	cm	n$n-acr-m$n-acr-m-sg
 	epo	CNP Assurances	np-al	spa	CNP Assurances	np-al-mf
@@ -10250,7 +10250,7 @@ LR	epo	senkuraĝa	adj	spa	cobarde	adj-mf$adj$adj-mf-ND
 	epo	malkuraĝaĉa	adj	spa	cobardica	adj-mf$adj$adj-mf-sg
 	epo	malkuraĝulaĉo	n	spa	cobardica	n
 	epo	Cobas	np-cog$np-cog-mf	spa	Cobas	np$np-cog
-	epo	kobajo	n	spa	cobaya	n-f$n
+	epo	kobajo	n	spa	cobaya	n-f
 	epo	Cobeja	np-loc	spa	Cobeja	np-loc-f
 	epo	barako	n	spa	cobertizo	n-m$n
 LR	epo	alero	n	spa	cobertizo	n-m$n
@@ -10268,7 +10268,7 @@ LR	epo	markezo	n	spa	cobertizo	n-m$n
 	epo	hindia kobro	n	spa	cobra	n$n-f
 	epo	biletvendisto	n	spa	cobrador	n$n-f-pl
 	epo	enspezi	vbtr	spa	cobrar	vblex
-	epo	kupro	n	spa	cobre	n$n-m$n-m-sg
+	epo	kupro	n	spa	cobre	n-m$n$n-m-sg
 	epo	Cobreros	np-loc	spa	Cobreros	np$np-loc-f
 	epo	Coca	np-cog$np-cog-mf	spa	Coca	np-cog
 	epo	Coca	np-loc	spa	Coca	np-loc-f
@@ -10515,7 +10515,7 @@ RL	epo	kolonia	adj	spa	colonizador	adj$adj-m-sg
 	epo	familiara	adj	spa	coloquial	adj$adj-mf$adj-mf-pl
 	epo	familiare	adv	spa	coloquialmente	adv
 	epo	konversacio	n	spa	coloquio	n$n-m
-	epo	koloro	n	spa	color	n-m$n-m-sg$n
+	epo	koloro	n	spa	color	n-m$n$n-m-sg
 RL	epo	ruĝe	adv	spa	coloradamente	adv
 RL	epo	ruĝa	adj	spa	colorado	adj$adj-m-sg
 	epo	Colorado	np-cog$np-cog-mf	spa	Colorado	np$np-cog
@@ -10958,7 +10958,7 @@ LR	epo	konduktilo	n	spa	conductor	n$n-m$n-m-sg
 	epo	konekti	vblex	spa	conectar	vblex
 	epo	konektilo	n	spa	conector	n$n-m
 	epo	Conejero	np-cog$np-cog-mf	spa	Conejero	np$np-cog
-	epo	kuniklo	n	spa	conejo	n$n-m$n-m-sg
+	epo	kuniklo	n	spa	conejo	n-m$n$n-m-sg
 	epo	Conejo	np-cog$np-cog-mf	spa	Conejo	np-cog
 	epo	Conesa	np-cog$np-cog-mf	spa	Conesa	np$np-cog
 	epo	Conesa	np-loc	spa	Conesa	np-loc-f
@@ -11210,7 +11210,7 @@ LR	epo	konstante	adv	spa	constantemente	adv
 	epo	Constantineau	np-cog$np-cog-mf	spa	Constantineau	np-cog
 LR	epo	Konstanteno	np-ant$np	spa	Constantino	np-ant$np
 	epo	Constantino	np-ant	spa	Constantino	np-ant$np
-	epo	Konstantinopolo	np-loc	spa	Constantinopla	np$np-loc$np-loc-f
+	epo	Konstantinopolo	np-loc$np	spa	Constantinopla	np$np-loc$np-loc-f
 	epo	Constantí	np-loc	spa	Constantí	np$np-loc$np-loc-f
 	epo	Constanzana	np-loc	spa	Constanzana	np-loc-f
 	epo	konsisti	vbntr	spa	constar	vblex
@@ -11444,9 +11444,9 @@ RL	epo	konverĝi	vblex	spa	converger	vblex
 RL	epo	paroli	vbtr	spa	conversar	vblex
 	epo	konvertiĝo	n	spa	conversión	n$n-f$n-f-ND
 	epo	kabrioleto	n	spa	convertible	n-m
-LR	epo	konverti	vbtr	spa	convertir	vblex
-	epo	igi	vbtr	spa	convertir	vblex
-RL	epo	igi	vbtr	spa	convertir	vblex
+LR	epo	konverti	vbtr	spa	convertir	vblex$vblex-pron
+	epo	igi	vbtr	spa	convertir	vblex$vblex-pron
+RL	epo	igi	vbtr	spa	convertir	vblex$vblex-pron
 	epo	fariĝi	vbntr	spa	convertirse	vblex
 LR	epo	iĝi	vbntr	spa	convertirse	vblex
 	epo	konvekse	adv	spa	convexamente	adv
@@ -11607,7 +11607,7 @@ LR	epo	koruskanti	vbtr_ntr	spa	corear	vblex
 	epo	korintika	adj	spa	corintio	adj$adj-m-sg
 LR	epo	korinta	adj	spa	corintio	adj$adj-m-sg
 	epo	korintano	n	spa	corintio	n
-	epo	Korinto	np-loc	spa	Corinto	np$np-loc$np-loc-m
+	epo	Korinto	np-loc	spa	Corinto	np$np-m$np-loc-m
 	epo	Coriolan	np-cog$np-cog-mf	spa	Coriolan	np-cog
 	epo	Coripe	np-loc	spa	Coripe	np$np-loc-f
 	epo	Coristanco	np-loc	spa	Coristanco	np$np-loc-f
@@ -11631,7 +11631,7 @@ LR	epo	korinta	adj	spa	corintio	adj$adj-m-sg
 	epo	Cornudella	np-cog$np-cog-mf	spa	Cornudella	np-cog
 	epo	Cornudella de Montsant	np-loc	spa	Cornudella de Montsant	np$np-loc-f
 	epo	kokrito	n$n-m	spa	cornudo	n$n-m
-	epo	koruso	n	spa	coro	n$n-m$n-m-ND
+	epo	koruso	n	spa	coro	n-m$n$n-m-ND
 	epo	korolo	n	spa	corola	n$n-f
 	epo	Coromina	np-cog$np-cog-mf	spa	Coromina	np$np-cog
 	epo	Corominas	np-cog$np-cog-mf	spa	Corominas	np$np-cog
@@ -11678,9 +11678,9 @@ LR	epo	ĝentila	adj	spa	correcto	adj$adj-GD-ND
 	epo	korektisto	n	spa	corrector	n$n-f-pl$n-f
 	epo	literumilo	n	spa	corrector ortográfico	n-m
 	epo	Corredera	np-cog$np-cog-mf	spa	Corredera	np-cog
-LR	epo	kuranto	n$n-f	spa	corredor	n-m$n$n-m-sg
+LR	epo	kuranto	n$n-f	spa	corredor	n$n-m$n-m-sg
 RL	epo	kuranto	n$n-f	spa	corredor	n-f$n-f-pl
-	epo	koridoro	n	spa	corredor	n-m$n$n-m-sg
+	epo	koridoro	n	spa	corredor	n$n-m$n-m-sg
 	epo	kura	adj	spa	corredor	adj$adj-m-sg
 	epo	Corredor	np-cog$np-cog-mf	spa	Corredor	np$np-cog
 	epo	koregidoro	n	spa	corregidor	n$n-f-pl
@@ -12049,7 +12049,7 @@ LR	epo	kristaneco	n	spa	cristianismo	n$n-m$n-m-ND
 	epo	Kristo	np$np-ant	spa	Cristo	np$np-ant$np-ant-m
 LR	epo	Cristo	np-ant	spa	Cristo	np$np-ant$np-ant-m
 	epo	Cristòfol	np-cog$np-cog-mf	spa	Cristòfol	np$np-cog
-LR	epo	Kristoforo	np-ant$$np	spa	Cristóbal	np$np-ant
+LR	epo	Kristoforo	np-ant$np	spa	Cristóbal	np$np-ant
 	epo	Cristóbal	np-cog$np-cog-mf	spa	Cristóbal	np-cog
 	epo	Cristóbal	np-loc	spa	Cristóbal	np-loc-f
 	epo	Cristóbal	np-ant	spa	Cristóbal	np$np-ant
@@ -12225,8 +12225,8 @@ LR	epo	trionjara	adj	spa	cuatrimestral	adj$adj-mf-sg
 	epo	kvarmonate	adv	spa	cuatrimestralmente	adv
 	epo	kvarmonato	n	spa	cuatrimestre	n$n-m
 LR	epo	jartriono	n	spa	cuatrimestre	n$n-m
-	epo	kvar	num$	spa	cuatro	num$$num-mf-sp
-	epo	Kubo	np$np-loc	spa	Cuba	np-loc$np-loc-f
+	epo	kvar	n$	spa	cuatro	num$$num-mf-sp
+	epo	Kubo	np$np-loc	spa	Cuba	np$np-loc$np-loc-f
 	epo	kuba	adj	spa	cubano	adj$adj-GD-ND
 	epo	kubano	n	spa	cubano	n$n-m-ND
 	epo	Cubas de la Sagra	np-loc	spa	Cubas de la Sagra	np$np-loc-f
@@ -12295,7 +12295,7 @@ RL	epo	razilo	n	spa	cuchilla	n$n-f$n-f-ND
 	epo	kilometronombrilo	n	spa	cuentakilómetros	n-m$n
 	epo	kilometroregistrilo	n	spa	cuentakilómetros	n-m$n
 	epo	fabelo	n	spa	cuento	n$n-m$n-m-ND
-	epo	ŝnuro	n	spa	cuerda	n$n-f$n-f-ND
+	epo	ŝnuro	n	spa	cuerda	n-f$n$n-f-ND
 	epo	ĥordo	n	spa	cuerda dorsal	n-f
 	epo	mense sane	adv	spa	cuerdamente	adv
 	epo	mense sana	adj	spa	cuerdo	adj$adj-m-sg
@@ -12475,7 +12475,7 @@ RL	epo	kiom	prn$prn-itg	spa	cuán	prn
 	epo	kiam	adv-itg$adv	spa	cuándo	adv$adv-itg
 	epo	kvantuma	adj	spa	cuántico	adj$adj-GD-ND
 	epo	kiom	adv-itg$adv	spa	cuánto	adv$adv-itg
-	epo	kiom	prn$prn-itg	spa	cuánto	prn$prn-itg-m$prn-itg$prn-itg-m-sg
+	epo	kiom	prn$prn-itg	spa	cuánto	prn$prn-itg$prn-itg-m$prn-itg-m-sg
 	epo	kvakera	adj	spa	cuáquero	adj$adj-m-sg
 	epo	kvakero	n	spa	cuáquero	n
 	epo	Cuéllar	np-cog$np-cog-mf	spa	Cuéllar	np$np-cog$np-cog-mf
@@ -12533,7 +12533,7 @@ LR	epo	kantabra	adj	spa	cántabro	adj$adj-m-sg
 	epo	kantabria	adj	spa	cántabro	adj$adj-m-sg
 LR	epo	kantabro	n	spa	cántabro	n$n-m-sg
 	epo	kantabriano	n	spa	cántabro	n$n-m-sg
-	epo	kruĉo	n	spa	cántaro	n$n-m
+	epo	kruĉo	n	spa	cántaro	n-m$n
 	epo	kantiko	n	spa	cántico	n-m$n
 	epo	kanulo	n	spa	cánula	n-f
 	epo	kapsulo	n	spa	cápsula	n$n-f
@@ -12575,9 +12575,9 @@ RL	epo	centre	adv	spa	céntricamente	adv
 	epo	centra	adj	spa	céntrico	adj$adj-GD
 	epo	cervedo	n	spa	cérvido	n$n-m
 	epo	Céré	np-cog$np-cog-mf	spa	Céré	np-cog
-LR	epo	Cezaro	np$np-ant$np-ant-m	spa	César	np$np-ant$np-ant-m$np-ant-m-sg
+LR	epo	Cezaro	np$np-ant$np-ant-m	spa	César	np$np-ant$np-ant-m-sg
 	epo	César	np-cog$np-cog-mf	spa	César	np-cog
-	epo	César	np-ant	spa	César	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	César	np-ant	spa	César	np$np-ant$np-ant-m-sg
 	epo	gazono	n	spa	césped	n-m$n$n-m-ND
 	epo	Céspedes	np-cog$np-cog-mf	spa	Céspedes	np-cog
 	epo	cicero	n	spa	cícero	n$n-m
@@ -12611,7 +12611,7 @@ LR	epo	citro	n	spa	cítrico	n-m$n
 LR	epo	ĥolero	n	spa	cólera	n-m$n-m-sg
 	epo	kolero	n	spa	cólera	n-f$n
 	epo	koliko	n	spa	cólico	n-m$n
-	epo	komikso	n-m$n	spa	cómic	n-m$n
+	epo	komikso	n$n-m	spa	cómic	n-m$n
 	epo	komike	adv	spa	cómicamente	adv
 	epo	komika	adj	spa	cómico	adj$adj-m$adj-m-sg
 LR	epo	amuza	adj	spa	cómico	adj$adj-m$adj-m-sg
@@ -12704,7 +12704,7 @@ LR	epo	kubo	n	spa	dado	n-m$n
 	epo	Dalia	np-ant	spa	Dalia	np-ant
 	epo	Dalila	np-ant	spa	Dalila	np-ant
 	epo	Dallaire	np-cog$np-cog-mf	spa	Dallaire	np-cog
-	epo	Dalmatio	np-loc	spa	Dalmacia	np$np-loc$np-loc-f
+	epo	Dalmatio	np-loc	spa	Dalmacia	np-loc$np-loc-f
 	epo	Dalmases	np-cog$np-cog-mf	spa	Dalmases	np-cog
 	epo	Dalmau	np-cog$np-cog-mf	spa	Dalmau	np-cog
 	epo	Dalmau	np-ant	spa	Dalmau	np-ant
@@ -12754,7 +12754,7 @@ LR	epo	damludo	n	spa	dama	n$n-f$n-f-ND
 	epo	Dani	np-ant	spa	Dani	np$np-ant
 	epo	Dania	np-ant	spa	Dania	np-ant
 	epo	Daniel	np-cog-mf$np-cog	spa	Daniel	np-cog
-	epo	Daniel	np-ant$np	spa	Daniel	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Daniel	np-ant$np	spa	Daniel	np$np-ant$np-ant-m-sg
 	epo	Daniela	np-ant$np	spa	Daniela	np$np-ant$np-ant-f-sg
 	epo	Daniella	np-ant	spa	Daniella	np-ant$np-ant-f-sg
 	epo	Daniels	np-cog$np-cog-mf	spa	Daniels	np$np-cog
@@ -12771,7 +12771,7 @@ LR	epo	damludo	n	spa	dama	n$n-f$n-f-ND
 	epo	Dantonio	np-cog$np-cog-mf	spa	Dantonio	np-cog
 	epo	danuba	adj	spa	danubiano	adj
 	epo	Danubo	np-loc$np	spa	Danubio	np$np-loc-m$np-loc-m-sg
-RL	epo	danco	n	spa	danza	n$n-f$n-f-sg
+RL	epo	danco	n	spa	danza	n-f$n$n-f-sg
 RL	epo	danci	vbtr_ntr	spa	danzar	vblex
 	epo	dano	n	spa	danés	n$n-m$n-m-ND
 	epo	dana	adj	spa	danés	adj$adj-m-sg$adj-m
@@ -12903,7 +12903,7 @@ LR	epo	noci	vblex	spa	dañar	vblex
 	epo	morta damaĝo	n	spa	daño mortal	n-m
 	epo	pK	n-acr	spa	dC	n-acr-f
 	epo	de	pr	spa	de	pr$pr-det-def-m-sg
-LR	epo	da	adj	spa	de	adj
+LR	epo	da	adj$	spa	de	adj
 	epo	de Almeida	np-cog$np-cog-mf	spa	de Almeida	np-cog
 	epo	de Andrés	np-cog$np-cog-mf	spa	de Andrés	np-cog
 	epo	de Arriba	np-cog$np-cog-mf	spa	de Arriba	np-cog
@@ -13173,7 +13173,7 @@ LR	epo	dekora	adj	spa	decorativo	adj$adj-GD-ND
 	epo	dekremento	n	spa	decremento	n$n-m
 	epo	logaritma dekremento	n	spa	decremento logarítmico	n-m
 	epo	dekreti	vblex	spa	decretar	vblex$vblex-tv
-	epo	dekreto	n	spa	decreto	n$n-m$n-m-sg
+	epo	dekreto	n	spa	decreto	n-m$n$n-m-sg
 	epo	kaduke	adv	spa	decrépitamente	adv
 RL	epo	kaduka	adj	spa	decrépito	adj
 LR	epo	elvivinta	adj	spa	decrépito	adj
@@ -13275,7 +13275,7 @@ RL	epo	gluti	vbtr	spa	deglutir	vblex
 	epo	diaĵo	n	spa	deidad	n$n-f
 	epo	Deierri	np-loc	spa	Deierri	np-loc-f
 	epo	Deifontes	np-loc	spa	Deifontes	np-loc-f
-	epo	Dejmo	np-loc$np	spa	Deimos	np-loc-m
+	epo	Dejmo	np$np-loc	spa	Deimos	np-loc-m
 	epo	neglektemo	n	spa	dejadez	n$n-f
 	epo	lasi	vbtr	spa	dejar	vblex
 LR	epo	forlasi	vbtr	spa	dejar	vblex
@@ -13419,7 +13419,7 @@ RL	epo	diskuti	vblex	spa	deliberar	vblex
 	epo	Demelo	np-cog$np-cog-mf	spa	Demelo	np-cog
 	epo	demenco	n	spa	demencia	n$n-f
 	epo	Demers	np-cog$np-cog-mf	spa	Demers	np-cog
-	epo	Demetrio	np-ant	spa	Demetrio	np-ant$np$np-ant-m
+	epo	Demetrio	np-ant	spa	Demetrio	np-ant$np
 	epo	Demeule	np-cog$np-cog-mf	spa	Demeule	np-cog
 	epo	Demirdjian	np-cog$np-cog-mf	spa	Demirdjian	np-cog
 	epo	demokratio	n	spa	democracia	n$n-f$n-f-sg
@@ -14084,10 +14084,10 @@ RL	epo	eksceso	n	spa	desmán	n$n-m$n-m-ND
 	epo	nude	adv	spa	desnudamente	adv
 	epo	nudigi	vbtr	spa	desnudar	vblex
 	epo	nuda	adj	spa	desnudo	adj$adj-m-sg
-	epo	nudo	n	spa	desnudo	n-m$n
-LR	epo	nudaĵo	n	spa	desnudo	n-m$n
-LR	epo	nud-pentraĵo	n	spa	desnudo	n-m$n
-LR	epo	nud-foto	n	spa	desnudo	n-m$n
+	epo	nudo	n	spa	desnudo	n$n-m
+LR	epo	nudaĵo	n	spa	desnudo	n$n-m
+LR	epo	nud-pentraĵo	n	spa	desnudo	n$n-m
+LR	epo	nud-foto	n	spa	desnudo	n$n-m
 RL	epo	subnutrite	adv	spa	desnutridamente	adv
 RL	epo	subnutrita	adj	spa	desnutrido	adj
 	epo	malobei	vbtr	spa	desobedecer	vblex
@@ -14462,7 +14462,7 @@ RL	epo	okazi	vbser	spa	devenir	vblex
 	epo	Diakité	np-cog$np-cog-mf	spa	Diakité	np-cog
 	epo	dialekta	adj	spa	dialectal	adj-mf$adj$adj-mf-sg
 	epo	dialekte	adv	spa	dialectalmente	adv
-	epo	dialekto	n	spa	dialecto	n$n-m$n-m-ND
+	epo	dialekto	n	spa	dialecto	n-m$n$n-m-ND
 	epo	dializi	vbtr	spa	dializar	vblex
 	epo	Diallo	np-cog-mf$np-cog	spa	Diallo	np-cog
 	epo	dialogi	vblex	spa	dialogar	vblex
@@ -14472,7 +14472,7 @@ RL	epo	okazi	vbser	spa	devenir	vblex
 	epo	diamanto	n	spa	diamante	n-m$n$n-m-sg
 	epo	Diamond	np-cog$np-cog-mf	spa	Diamond	np-cog
 	epo	veksignalo	n	spa	diana	n$n-f
-	epo	Diana	np-ant	spa	Diana	np-ant$np$np-ant-f$np-ant-f-sg
+	epo	Diana	np-ant	spa	Diana	np-ant$np$np-ant-f-sg
 	epo	Diao	np-cog$np-cog-mf	spa	Diao	np-cog
 	epo	diapazono	n	spa	diapasón	n$n-f
 	epo	diapazono	n	spa	diapasón	n-m
@@ -14550,8 +14550,8 @@ LR	epo	dekstramana	adj	spa	diestro	adj$adj-m-sg
 	epo	agendo	n	spa	dietario	n-m$n
 	epo	Dieudonné	np-cog$np-cog-mf	spa	Dieudonné	np-cog
 	epo	Dieujuste	np-cog$np-cog-mf	spa	Dieujuste	np-cog
-	epo	dek	num$	spa	diez	num$num-mf$$num-mf-sp
-	epo	dek	num$	spa	diez	num$num-mf$$num-mf-sp
+	epo	dek	num$	spa	diez	num$num-mf$num-mf-sp$
+	epo	dek	num$	spa	diez	num$num-mf$num-mf-sp$
 	epo	Diezma	np-loc	spa	Diezma	np-loc-f
 	epo	diferenco	n	spa	diferencia	n-f$n$n-f-sg
 	epo	diferencialo	n	spa	diferencial	n$n-m$n-m-ND
@@ -15198,7 +15198,7 @@ RL	epo	kapablo	n	spa	dote	n-f
 	epo	Doyon	np-cog$np-cog-mf	spa	Doyon	np-cog
 	epo	Dozois	np-cog$np-cog-mf	spa	Dozois	np-cog
 	epo	Dozón	np-loc	spa	Dozón	np$np-loc-f
-	epo	dona	n	spa	doña	n$n-f
+	epo	dona	n	spa	doña	n-f$n
 	epo	Doña	np-cog$np-cog-mf	spa	Doña	np-cog
 	epo	Doña Mencía	np-loc	spa	Doña Mencía	np$np-loc-f
 	epo	Doñate	np-cog$np-cog-mf	spa	Doñate	np$np-cog
@@ -15350,7 +15350,7 @@ LR	epo	mastro	n	spa	dueño	n$n-m$n-m-ND
 	epo	Duncan	np-cog$np-cog-mf	spa	Duncan	np-cog
 	epo	Dunia	np-ant	spa	Dunia	np-ant
 	epo	Dunn	np-cog$np-cog-mf	spa	Dunn	np-cog
-	epo	duodeno	n	spa	duodeno	n$n-m
+	epo	duodeno	n	spa	duodeno	n-m$n
 	epo	dekdue	adv	spa	duodécimamente	adv
 	epo	dekdua	adj	spa	duodécimo	adj$adj-f$$adj-f-pl
 	epo	Duong	np-cog$np-cog-mf	spa	Duong	np-cog
@@ -15410,7 +15410,7 @@ LR	epo	duriujo	n	spa	durazno	n-m$n
 	epo	Dutrisac	np-cog$np-cog-mf	spa	Dutrisac	np-cog
 	epo	Duval	np-cog-mf$np-cog	spa	Duval	np-cog
 	epo	doĝo	n	spa	dux	n-m
-	epo	DVD	n$n-acr	spa	DVD	n$n-acr-m$n-acr
+	epo	DVD	n-acr$n	spa	DVD	n$n-acr-m$n-acr
 	epo	Dwyer	np-cog$np-cog-mf	spa	Dwyer	np-cog
 	epo	Dyer	np-cog$np-cog-mf	spa	Dyer	np-cog
 	epo	Dylan	np-ant	spa	Dylan	np-ant$np
@@ -16102,7 +16102,7 @@ RL	epo	eskapi	vblex	spa	eludir	vblex
 	epo	elektre	adv	spa	eléctricamente	adv
 	epo	elektra	adj	spa	eléctrico	adj$adj-GD$adj-GD-ND
 	epo	Elías	np-cog$np-cog-mf	spa	Elías	np-cog
-	epo	Elías	np-ant	spa	Elías	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Elías	np-ant	spa	Elías	np$np-ant$np-ant-m-sg
 	epo	Elíes	np-cog$np-cog-mf	spa	Elíes	np-cog
 	epo	Elíes	np-ant	spa	Elíes	np-ant
 	epo	elipse	adv	spa	elípticamente	adv
@@ -16168,7 +16168,7 @@ RL	epo	impliki	vbtr	spa	embrollar	vblex
 	epo	trompo	n	spa	embuste	n-m$n
 	epo	kolbaso	n	spa	embutido	n$n-m
 	epo	kriz-okazo	n	spa	emergencia	n$n-f-sg$n-f
-	epo	emerĝa	adj	spa	emergente	adj-mf$adj$adj-mf-sg
+	epo	emerĝa	adj	spa	emergente	adj$adj-mf$adj-mf-sg
 	epo	emerĝe	adv	spa	emergentemente	adv
 	epo	emerĝi	vblex	spa	emerger	vblex
 	epo	Emerson	np-al	spa	Emerson	np-al-mf
@@ -16278,7 +16278,7 @@ LR	epo	malriĉigo	n	spa	empobrecimiento	n-m$n
 	epo	enfiksi	vbtr	spa	empotrar	vblex
 LR	epo	enmasonigi	vbtr	spa	empotrar	vblex
 	epo	entrepreni	vbtr	spa	emprender	vblex
-	epo	entrepreno	n	spa	empresa	n$n-f$n-f-sg
+	epo	entrepreno	n	spa	empresa	n-f$n$n-f-sg
 LR	epo	entreprenista	adj	spa	empresarial	adj$adj-mf$adj-mf-ND
 	epo	dungista	adj	spa	empresarial	adj$adj-mf$adj-mf-ND
 LR	epo	mastrara	adj	spa	empresarial	adj$adj-mf$adj-mf-ND
@@ -16898,7 +16898,7 @@ RL	epo	enkadrigi	vbtr	spa	enmarcar	vblex
 	epo	mutiĝi	vbntr	spa	enmudecer	vblex
 	epo	nigrigi	vbtr	spa	ennegrecer	vblex
 	epo	Ennis	np-cog$np-cog-mf	spa	Ennis	np-cog
-	epo	Enoc	np-ant	spa	Enoc	np-ant$np-ant-m
+	epo	Enoc	np-ant	spa	Enoc	np-ant
 RL	epo	ĉagreni	vbtr	spa	enojar	vblex
 RL	epo	ĉagreno	n	spa	enojo	n-m$n
 RL	epo	ĉagrene	adv	spa	enojosamente	adv
@@ -16996,7 +16996,7 @@ LR	epo	sekvonta	adj	spa	entrante	adj
 	epo	venonte	adv	spa	entrantemente	adv
 	epo	eniri	vbntr	spa	entrar	vblex
 RL	epo	kontakti	vbtr	spa	entrar	vblex
-	epo	internaĵo	n	spa	entraña	n$n-f$n-f-ND
+	epo	internaĵo	n	spa	entraña	n$n-f-pl$n-f
 	epo	enteni	vbtr	spa	entrañar	vblex
 	epo	inter	pr	spa	entre	pr
 	epo	postkulisa	adj	spa	entre bastidores	adj
@@ -17283,7 +17283,7 @@ LR	epo	suprensprintisto	n	spa	escalador	n$n-GD
 	epo	skalaro	n	spa	escalar	n-m
 	epo	skalara	adj	spa	escalar	adj
 	epo	grimpi	vblex	spa	escalar	vblex
-	epo	Skeldo	np-loc	spa	Escalda	np$np-loc-f
+	epo	Skeldo	np-loc$np	spa	Escalda	np$np-loc-f
 	epo	brogi	vbtr	spa	escaldar	vblex
 	epo	skaleno	n	spa	escaleno	n-m
 	epo	ŝtuparo	n	spa	escalera	n-f$n$n-f-sg
@@ -17464,7 +17464,7 @@ RL	epo	ŝirmi	vbtr	spa	escudar	vblex
 	epo	Escuder	np-cog$np-cog-mf	spa	Escuder	np$np-cog
 	epo	Escudero	np-cog$np-cog-mf	spa	Escudero	np$np-cog
 	epo	bovlo	n	spa	escudilla	n$n-f
-	epo	ŝildo	n	spa	escudo	n$n-m$n-m-ND
+	epo	ŝildo	n	spa	escudo	n-m$n$n-m-ND
 	epo	Escudé	np-cog$np-cog-mf	spa	Escudé	np-cog
 	epo	lernejo	n	spa	escuela	n-f$n$n-f-sg
 	epo	Escuer	np-cog$np-cog-mf	spa	Escuer	np-cog
@@ -17536,12 +17536,12 @@ LR	epo	ĉiela sfero	n	spa	esfera celeste	n-f
 	epo	slovena	adj	spa	esloveno	adj$adj-m-sg
 	epo	emajlo	n	spa	esmalte	n$n-m
 	epo	smeraldo	n	spa	esmeralda	n-f$n
-	epo	Esmeralda	np-ant	spa	Esmeralda	np$np-ant$np-ant-f$np-ant-f-sg
+	epo	Esmeralda	np-ant	spa	Esmeralda	np$np-ant$np-ant-f-sg
 	epo	zorgego	n	spa	esmero	n-m$n$n-m-ND
 	epo	smokingo	n	spa	esmoquin	n$n-m$n-m-sg
 	epo	snoba	adj	spa	esnob	adj$adj-mf-pl$adj-mf
 	epo	snobo	n	spa	esnob	n$n-m
-RL	epo	tio	prn$prn-tn$prn-tn-sg$prn-tn-sg-nom	spa	eso	prn$prn-tn-nt$prn-tn
+RL	epo	tio	prn$prn-tn$prn-tn-sg$prn-tn-sg-nom	spa	eso	prn$prn-tn$prn-tn-nt
 	epo	esoterismo	n	spa	esoterismo	n$n-m
 	epo	esotere	adv	spa	esotéricamente	adv
 	epo	esotera	adj	spa	esotérico	adj$adj-m$adj-m-sg
@@ -17586,7 +17586,7 @@ LR	epo	plastro	n	spa	esparadrapo	n$n-m
 	epo	Esparza	np-cog$np-cog-mf	spa	Esparza	np$np-cog
 	epo	Esparza de Salazar	np-loc	spa	Esparza de Salazar	np-loc-f
 	epo	Espasa	np-cog$np-cog-mf	spa	Espasa	np$np-cog
-	epo	Hispanio	np-loc$np	spa	España	np-loc$np-loc-f
+	epo	Hispanio	np-loc$np	spa	España	np$np-loc$np-loc-f
 	epo	España	np-cog$np-cog-mf	spa	España	np-cog
 	epo	Hispanioj	np-loc	spa	Españas	np-loc-f
 	epo	hispano	n	spa	español	n$n-m$n-m-sg
@@ -17852,7 +17852,7 @@ RL	epo	eksplodi	vbntr	spa	estallar	vblex
 RL	epo	eksplodo	n	spa	estallido	n$n-m$n-m-sg
 	epo	Estamariu	np-loc	spa	Estamariu	np$np-loc-f
 	epo	stameno	n	spa	estambre	n$n-m
-	epo	Istanbulo	np-loc	spa	Estambul	np$np-loc$np-loc-m
+	epo	Istanbulo	np-loc$np	spa	Estambul	np$np-loc$np-loc-m
 RL	epo	bildo	n	spa	estampa	n$n-f$n-f-ND
 LR	epo	stampo	n	spa	estampa	n$n-f$n-f-ND
 	epo	stampi	vbtr	spa	estampar	vblex
@@ -17863,7 +17863,7 @@ LR	epo	stampo	n	spa	estampa	n$n-f$n-f-ND
 LR	epo	stagnado	n	spa	estancamiento	n$n-m$n-m-sg
 	epo	stagni	vblex	spa	estancar	vblex
 	epo	estado	n	spa	estancia	n-f$n$n-f-ND
-	epo	cigarbutiko	n	spa	estanco	n$n-m
+	epo	cigarbutiko	n	spa	estanco	n-m$n
 LR	epo	normigo	n	spa	estandarización	n$n-f$n-f-ND
 	epo	normiĝo	n	spa	estandarización	n$n-f$n-f-ND
 RL	epo	normigi	vbtr	spa	estandarizar	vblex
@@ -17932,7 +17932,7 @@ RL	epo	ŝtatigi	vbtr	spa	estatalizar	vblex
 	epo	ŝtate	adv	spa	estatalmente	adv
 RL	epo	ŝtatigo	n	spa	estatización	n-f
 RL	epo	ŝtatigi	vbtr	spa	estatizar	vblex
-	epo	statuo	n	spa	estatua	n$n-f$n-f-ND
+	epo	statuo	n	spa	estatua	n-f$n$n-f-ND
 	epo	staturo	n	spa	estatura	n$n-f$n-f-ND
 RL	epo	rango	n	spa	estatus	n$n-m$n-m-sp
 RL	epo	statuto	n$n-sg	spa	estatut	n-m$n
@@ -17947,7 +17947,7 @@ RL	epo	orienta	adj	spa	este	adj
 	epo	ĉi tiu	prn$prn-tn	spa	este	prn$prn-tn-m$prn-tn$prn-tn-m-sg
 	epo	Esteba	np-cog$np-cog-mf	spa	Esteba	np-cog
 	epo	Esteban	np-cog$np-cog-mf	spa	Esteban	np-cog
-	epo	Esteban	np-ant	spa	Esteban	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Esteban	np-ant	spa	Esteban	np$np-ant$np-ant-m-sg
 	epo	Estefania	np-ant	spa	Estefania	np-ant
 	epo	Estefanía	np-ant	spa	Estefanía	np$np-ant
 	epo	Estel	np-ant	spa	Estel	np-ant
@@ -18176,7 +18176,7 @@ RL	epo	stulte	adv	spa	estúpidamente	adv
 RL	epo	stulta	adj	spa	estúpido	adj$adj-GD-ND$adj-GD$
 	epo	svastiko	n	spa	esvástica	n$n-f
 LR	epo	hokokruco	n	spa	esvástica	n$n-f
-	epo	ezofago	n	spa	esófago	n$n-m
+	epo	ezofago	n	spa	esófago	n-m$n
 	epo	etano	n	spa	etano	n$n-m
 	epo	etapo	n	spa	etapa	n$n-f$n-f-sg
 	epo	Etapp	np-cog$np-cog-mf	spa	Etapp	np-cog
@@ -18812,7 +18812,7 @@ RL	epo	pako	n	spa	fardo	n-m$n
 LR	epo	pakego	n	spa	fardo	n-m$n
 	epo	Farell	np-cog$np-cog-mf	spa	Farell	np-cog
 	epo	Fares	np-cog$np-cog-mf	spa	Fares	np-cog
-	epo	Fares	np-ant	spa	Fares	np-ant$np-ant-m
+	epo	Fares	np-ant	spa	Fares	np-ant
 	epo	Fargas	np-cog$np-cog-mf	spa	Fargas	np$np-cog
 	epo	Farhat	np-cog$np-cog-mf	spa	Farhat	np-cog
 	epo	Faria	np-cog$np-cog-mf	spa	Faria	np$np-cog
@@ -18978,9 +18978,9 @@ LR	epo	federista	adj	spa	federalista	adj$adj-mf-sg$adj-mf
 	epo	feliso	n	spa	felino	n-m$n
 	epo	Felip	np-cog$np-cog-mf	spa	Felip	np-cog
 	epo	Felip	np-ant	spa	Felip	np$np-ant
-LR	epo	Filipo	np-ant$np	spa	Felipe	np-ant$np$np-ant-m$np-ant-m-sg
+LR	epo	Filipo	np-ant$np	spa	Felipe	np-ant$np$np-ant-m-sg
 	epo	Felipe	np-cog$np-cog-mf	spa	Felipe	np-cog
-	epo	Felipe	np-ant	spa	Felipe	np-ant$np$np-ant-m$np-ant-m-sg
+	epo	Felipe	np-ant	spa	Felipe	np-ant$np$np-ant-m-sg
 	epo	Feliu	np-cog$np-cog-mf	spa	Feliu	np$np-cog
 	epo	Felix	np-loc	spa	Felix	np-loc-f
 	epo	feliĉa	adj	spa	feliz	adj-mf$adj-mf-ND$adj
@@ -19000,7 +19000,7 @@ LR	epo	feminista	adj	spa	feminista	adj$adj-mf$adj-mf-sg
 	epo	feminisma	adj	spa	feminista	adj$adj-mf$adj-mf-sg
 	epo	Fene	np-loc	spa	Fene	np$np-loc-f
 	epo	Feng	np-cog$np-cog-mf	spa	Feng	np-cog
-	epo	Fenicio	np-loc	spa	Fenicia	np$np-loc-f
+	epo	Fenicio	np-loc	spa	Fenicia	np$np-f$np-loc-f
 	epo	fenico	n	spa	fenicio	n$n-GD
 	epo	fenica	adj	spa	fenicio	adj$adj-m-sg
 	epo	karbolo	n	spa	fenol	n-m$n
@@ -19456,7 +19456,7 @@ RL	epo	fluo	n	spa	flujo	n-m$n$n-m-ND
 	epo	fluoro	n	spa	flúor	n-m$n
 RL	epo	Internacia Mona Fonduso	np-al$np	spa	FMI	np$np-al-mf
 	epo	fobio	n	spa	fobia	n$n-f
-	epo	Fobo	np-loc$np	spa	Fobos	np-loc-m
+	epo	Fobo	np$np-loc	spa	Fobos	np-loc-m
 	epo	foko	n	spa	foca	n$n-f$n-f-sg
 	epo	Foch	np-cog$np-cog-mf	spa	Foch	np-cog
 	epo	fuliko	n	spa	focha	n$n-f
@@ -19762,8 +19762,8 @@ RL	epo	monaĥo	n$n-f	spa	fraile	n$n-m$n-m-ND
 	epo	Francisca	np-ant	spa	Francisca	np$np-ant
 	epo	franciskana	adj	spa	franciscano	adj$adj-m-sg
 	epo	franciskano	n	spa	franciscano	n
-LR	epo	Francisko	np-ant$np	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg
-	epo	Francisco	np-ant	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg
+LR	epo	Francisko	np-ant$np	spa	Francisco	np-ant$np$np-ant-m-sg
+	epo	Francisco	np-ant	spa	Francisco	np-ant$np$np-ant-m-sg
 	epo	Francisco	np-cog-mf$np-cog	spa	Francisco	np-cog
 	epo	Franco	np-ant$np-ant-m	spa	Franco	np$np-ant$np-ant-m
 RL	epo	sincera	adj	spa	franco	adj$adj-GD-ND
@@ -19901,7 +19901,7 @@ LR	epo	frunto	n	spa	frente	n-m
 	epo	Fresno el Viejo	np-loc	spa	Fresno el Viejo	np$np-loc-f
 	epo	Fresquet	np-cog$np-cog-mf	spa	Fresquet	np-cog
 	epo	frajo	n	spa	freza	n-f
-	epo	friti	vblex	spa	freír	vblex
+	epo	friti	vblex	spa	freír	vblex$vblex-pron
 	epo	malvarmeco	n	spa	frialdad	n$n-f
 	epo	Frias	np-cog-mf$np-cog	spa	Frias	np$np-cog
 	epo	frikativo	n	spa	fricativa	n-f
@@ -19924,7 +19924,7 @@ LR	epo	frunto	n	spa	frente	n-m
 	epo	Friol	np-loc	spa	Friol	np-loc-f
 	epo	bagatelo	n	spa	friolera	n-f$n
 	epo	Friolet	np-cog$np-cog-mf	spa	Friolet	np-cog
-	epo	Frislando	np-loc$np	spa	Frisia	np$np-loc-f
+	epo	Frislando	np$np-loc	spa	Frisia	np$np-loc-f
 RL	epo	frise	adv	spa	frisiamente	adv
 RL	epo	friso	n$n-m	spa	frisio	n
 RL	epo	frisa	adj	spa	frisio	adj
@@ -20242,7 +20242,7 @@ LR	epo	futura	adj	spa	futuro	adj$adj-GD-ND
 	epo	Félez	np-cog$np-cog-mf	spa	Félez	np-cog
 	epo	felisedo	n	spa	félido	n$n-m
 	epo	Félix	np-cog-mf$np-cog	spa	Félix	np-cog
-	epo	Félix	np-ant$np	spa	Félix	np$np-ant$np-ant-m
+	epo	Félix	np-ant$np	spa	Félix	np$np-ant
 	epo	femurosto	n	spa	fémur	n-m$n
 	epo	fenikso	n	spa	fénix	n-m$n-m-sp$n
 	epo	ĉerko	n	spa	féretro	n$n-m
@@ -20298,7 +20298,7 @@ LR	epo	halfutbalo	n	spa	fútbol sala
 	epo	Gaboriault	np-cog$np-cog-mf	spa	Gaboriault	np-cog
 	epo	Gaboury	np-cog$np-cog-mf	spa	Gaboury	np-cog
 	epo	Gabriel	np-cog-mf$np-cog	spa	Gabriel	np-cog
-	epo	Gabriel	np-ant$np	spa	Gabriel	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Gabriel	np-ant$np	spa	Gabriel	np$np-ant$np-ant-m-sg
 	epo	Gabriela	np-ant$np	spa	Gabriela	np$np-ant$np-ant-f-sg
 	epo	palto	n	spa	gabán	n-m$n
 	epo	Gabono	np-loc$np	spa	Gabón	np$np-loc$np-loc-m
@@ -20385,7 +20385,7 @@ LR	epo	Gallio	np-loc	spa	Galia	np$np-loc-f$np-loc
 	epo	Galegio	np-loc	spa	Galicia	np$np-loc$np-loc-f
 	epo	Galicia	np-cog$np-cog-mf	spa	Galicia	np-cog
 	epo	galicismo	n	spa	galicismo	n$n-m
-	epo	Galilea	np-loc	spa	Galilea	np-loc-f
+	epo	Galilea	np-loc	spa	Galilea	np-f$np-loc-f
 	epo	Galimany	np-cog$np-cog-mf	spa	Galimany	np-cog
 	epo	galimatio	n	spa	galimatías	n$n-m
 	epo	Galindo	np-cog$np-cog-mf	spa	Galindo	np-cog
@@ -20510,7 +20510,7 @@ LR	epo	epoleto	n	spa	galón	n-m$n
 	epo	Gannon	np-cog$np-cog-mf	spa	Gannon	np-cog
 	epo	stultaĵo	n	spa	gansada	n$n-f
 	epo	ansero	n	spa	ganso	n-m$n$n-m-ND
-	epo	Gento	np-loc$np	spa	Gante	np$np-loc$np-loc-m
+	epo	Gento	np$np-loc	spa	Gante	np$np-loc$np-loc-m
 	epo	dirko	n	spa	ganzúa	n$n-f
 	epo	Gao	np-cog$np-cog-mf	spa	Gao	np-cog
 	epo	Gaona	np-cog$np-cog-mf	spa	Gaona	np$np-cog
@@ -20748,7 +20748,7 @@ LR	epo	konsumado	n	spa	gasto	n-m$n-m-sg$n
 LR	epo	burĝono	n	spa	gema	n$n-f
 	epo	Gema	np-loc	spa	Gema	np-loc-f
 	epo	Gema	np-ant	spa	Gema	np$np-ant
-	epo	manumbutono	n	spa	gemelo	n$n-m$n-m-ND
+	epo	manumbutono	n	spa	gemelo	n$n-f
 RL	epo	dulorneto	n	spa	gemelos	n-m-pl$n-m
 	epo	ĝemo	n	spa	gemido	n$n-m
 	epo	ĝemi	vbntr	spa	gemir	vblex
@@ -21254,7 +21254,7 @@ LR	epo	ŝtatrenverso	n	spa	golpe	n-m$n$n-m-ND
 	epo	Gorliz	np-loc	spa	Gorliz	np$np-loc-f
 	epo	Gorman	np-cog$np-cog-mf	spa	Gorman	np-cog
 	epo	Gormaz	np-loc	spa	Gormaz	np-loc-f
-	epo	kaskedo	n	spa	gorra	n$n-f
+	epo	kaskedo	n	spa	gorra	n-f$n
 	epo	Gorreta	np-cog$np-cog-mf	spa	Gorreta	np-cog
 	epo	pasero	n	spa	gorrión	n-m$n
 	epo	ĉapo	n	spa	gorro	n-m$n
@@ -21598,7 +21598,7 @@ RL	epo	grafikaĵo	n	spa	gráfica	n-f$n
 	epo	gruo	n	spa	grúa	n$n-f$n-f-ND
 	epo	GS	np-al	spa	GS	np-al-mf
 	epo	GS Holdings	np-al	spa	GS Holdings	np-al-mf
-	epo	arao	n	spa	guacamayo	n$n-m
+	epo	arao	n	spa	guacamayo	n-m$n
 	epo	Guadahortuna	np-loc	spa	Guadahortuna	np-loc-f
 	epo	Guadalajara	np-loc	spa	Guadalajara	np-loc-f
 	epo	Guadalaviar	np-loc	spa	Guadalaviar	np-loc-f
@@ -21700,8 +21700,8 @@ LR	epo	intercivitana milito	n	spa	guerra civil
 	epo	militi	vbntr	spa	guerrear	vblex
 	epo	Guerrera	np-cog$np-cog-mf	spa	Guerrera	np-cog
 RL	epo	milite	adv	spa	guerreramente	adv
-RL	epo	soldato	n	spa	guerrero	n$n-m$n-m-sg
-RL	epo	milita	adj	spa	guerrero	adj$$adj-GD-ND
+RL	epo	soldato	n	spa	guerrero	n$n-m$n-m-sg$
+RL	epo	milita	adj	spa	guerrero	adj$adj-GD-ND
 	epo	Guerrero	np-cog-mf$np-cog	spa	Guerrero	np$np-cog$np-cog-mf
 	epo	Guerrier	np-cog$np-cog-mf	spa	Guerrier	np-cog
 	epo	Guerriero	np-cog$np-cog-mf	spa	Guerriero	np-cog
@@ -22346,9 +22346,9 @@ RL	epo	Hercegovino	np-loc$np	spa	Hercegovina	np-loc-f
 	epo	Herman	np$np-cog$np-cog-mf	spa	Herman	np$np-cog$np-cog-mf
 	epo	frateco	n	spa	hermandad	n$n-f$n-f-sg
 	epo	Hermandad de Campoo de Suso	np-loc	spa	Hermandad de Campoo de Suso	np-loc-f
-	epo	frato	n$n-m	spa	hermano	n-m$n$n-m-sg
+	epo	frato	n$n-m	spa	hermano	n-f$n$n-f-ND
 	epo	gefratoj	n$n-pl	spa	hermano	n-m-pl
-	epo	Hermeso	np-ant$np	spa	Hermes	np$np-ant$np-ant-m
+	epo	Hermeso	np$np-ant	spa	Hermes	np$np-ant
 	epo	Hermida	np-cog$np-cog-mf	spa	Hermida	np$np-cog
 	epo	Hermigua	np-loc	spa	Hermigua	np-loc-f
 	epo	Hermisende	np-loc	spa	Hermisende	np-loc-f
@@ -22375,7 +22375,7 @@ LR	epo	belegeco	n	spa	hermosura	n-f$n
 	epo	Hernán	np-ant	spa	Hernán	np$np-ant
 	epo	Hernán-Pérez	np-loc	spa	Hernán-Pérez	np-loc-f
 	epo	Hernández	np-cog$np-cog-mf	spa	Hernández	np$np-cog$np-cog-mf
-	epo	Herodo	np-ant-m	spa	Herodes	np-ant-m$np$np-ant
+	epo	Herodo	np-ant-m	spa	Herodes	np$np-ant$np-ant-m
 	epo	Herodier	np-cog$np-cog-mf	spa	Herodier	np-cog
 	epo	heroe	adv	spa	heroicamente	adv
 	epo	heroaĵo	n	spa	heroicidad	n-f$n
@@ -22546,7 +22546,7 @@ RL	epo	vico	n	spa	hilera	n$n-f$n-f-ND
 	epo	Hillman	np-cog$np-cog-mf	spa	Hillman	np-cog
 	epo	fadeno	n	spa	hilo	n$n-m$n-m-ND
 	epo	Himalajo	np$np-loc	spa	Himalaya	np$np-loc$np-loc-f
-	epo	himeno	n	spa	himen	n$n-m
+	epo	himeno	n	spa	himen	n-m$n
 	epo	himno	n	spa	himno	n-m$n$n-m-sg
 	epo	Hinarejos	np-cog$np-cog-mf	spa	Hinarejos	np-cog
 RL	epo	zeloto	n	spa	hincha	n-mf$n
@@ -22727,7 +22727,7 @@ LR	epo	pigreco	n	spa	holgazanería	n-f
 RL	epo	pigra	adj	spa	holgazán	adj$adj-m-sg
 LR	epo	maldiligenta	adj	spa	holgazán	adj$adj-m-sg
 	epo	Holguera	np-loc	spa	Holguera	np-loc-f
-	epo	Holguín	np-cog$np-cog-mf	spa	Holguín	np-cog$np-cog-mf
+	epo	Holguín	np-cog$np-cog-mf	spa	Holguín	np-cog-mf$np-cog
 	epo	Holland	np$np-cog$np-cog-mf	spa	Holland	np$np-cog
 	epo	Hollande	np-cog$np-cog-mf	spa	Hollande	np$np-cog
 	epo	treti	vblex	spa	hollar	vblex
@@ -22830,8 +22830,8 @@ LR	epo	virta	adj	spa	honrado	adj$adj-m-sg
 	epo	Horan	np-cog$np-cog-mf	spa	Horan	np-cog
 	epo	horaro	n	spa	horario	n-m$n$n-m-ND
 	epo	hora	adj	spa	horario	adj$adj-GD$adj-GD-ND
-	epo	forkego	n	spa	horca	n$n-f
-LR	epo	pendigilo	n	spa	horca	n$n-f
+	epo	forkego	n	spa	horca	n-f$n
+LR	epo	pendigilo	n	spa	horca	n-f$n
 	epo	Horcajo de la Sierra	np-loc	spa	Horcajo de la Sierra	np$np-loc-f
 	epo	Horcajo de las Torres	np-loc	spa	Horcajo de las Torres	np$np-loc-f
 	epo	Horcajo de los Montes	np-loc	spa	Horcajo de los Montes	np$np-loc-f
@@ -22987,7 +22987,7 @@ RL	epo	truo	n	spa	hoyo	n$n-m
 	epo	Huawei Technologies	np-al	spa	Huawei Technologies	np-al-mf
 	epo	Huberdeau	np-cog$np-cog-mf	spa	Huberdeau	np-cog
 	epo	Hubert	np-cog$np-cog-mf	spa	Hubert	np-cog
-	epo	ŝparmonujo	n	spa	hucha	n$n-f
+	epo	ŝparmonujo	n	spa	hucha	n-f$n
 	epo	Huda	np-ant	spa	Huda	np-ant
 	epo	Hudon	np-cog$np-cog-mf	spa	Hudon	np-cog
 	epo	Hudson	np-cog$np-cog-mf	spa	Hudson	np-cog
@@ -23049,7 +23049,7 @@ LR	epo	vanta	adj	spa	hueco	adj$adj-m-sg
 	epo	laktolo	n	spa	hule	n-m$n
 	epo	Hull	np-cog$np-cog-mf	spa	Hull	np-cog
 	epo	Humada	np-loc	spa	Humada	np-loc-f
-	epo	Humala	np-cog	spa	Humala	np-cog$np-cog-mf
+	epo	Humala	np-cog	spa	Humala	np-cog-mf$np-cog
 	epo	Humana	np-al	spa	Humana	np-al-mf
 	epo	home	adv	spa	humanamente	adv
 	epo	Humanes	np-cog$np-cog-mf	spa	Humanes	np-cog
@@ -23139,7 +23139,7 @@ LR	epo	priŝteli	vbtr	spa	hurtar	vblex
 	epo	Huérmeces	np-loc	spa	Huérmeces	np-loc-f
 	epo	Huérmeces del Cerro	np-loc	spa	Huérmeces del Cerro	np$np-loc-f
 	epo	Huéscar	np-loc	spa	Huéscar	np-loc-f
-	epo	gasto	n	spa	huésped	n$n-GD
+	epo	gasto	n	spa	huésped	n$n-m$n-m-ND
 	epo	Huétor de Santillán	np-loc	spa	Huétor de Santillán	np-loc-f
 	epo	Huétor Tájar	np-loc	spa	Huétor Tájar	np-loc-f
 	epo	Huétor Vega	np-loc	spa	Huétor Vega	np-loc-f
@@ -23676,7 +23676,7 @@ LR	epo	nesupreneble	adv	spa	inasumiblemente	adv
 	epo	inaŭgura	adj	spa	inaugural	adj$adj-mf$adj-mf-sg
 	epo	inaŭguri	vblex	spa	inaugurar	vblex
 	epo	inkaa	adj	spa	inca	adj$adj-mf-sg
-	epo	inkao	n	spa	inca	n$n-m
+	epo	inkao	n	spa	inca	n-m$n
 	epo	Inca	np-loc	spa	Inca	np-loc-f
 	epo	nekalkulebla	adj	spa	incalculable	adj$adj-mf$adj-mf-sg
 	epo	nekalkuleble	adv	spa	incalculablemente	adv
@@ -24436,7 +24436,7 @@ LR	epo	iniciati	vbtr	spa	instigar	vblex
 LR	epo	instituciigo	n	spa	institucionalización	n-f$n
 	epo	instituciigi	vbtr	spa	institucionalizar	vblex
 	epo	institucie	adv	spa	institucionalmente	adv
-	epo	institucio	n	spa	institución	n$n-f$n-f-sg
+	epo	institucio	n	spa	institución	n-f$n$n-f-sg
 RL	epo	estigi	vbtr	spa	instituir	vblex
 LR	epo	starigi	vbtr	spa	instituir	vblex
 	epo	mezlernejo	n	spa	instituto	n-m$n$n-m-sg
@@ -24515,7 +24515,7 @@ LR	epo	intelekteco	n	spa	intelectualidad	n$n-f
 	epo	intelekte	adv	spa	intelectualmente	adv
 	epo	inteligenteco	n	spa	inteligencia	n$n-f$n-f-sg
 	epo	artefarita intelekto	n	spa	inteligencia artificial	n-f
-	epo	inteligenta	adj	spa	inteligente	adj-mf$adj-mf-ND$adj
+	epo	inteligenta	adj	spa	inteligente	adj-mf$adj$adj-mf-ND
 	epo	inteligente	adv	spa	inteligentemente	adv
 RL	epo	komprenebla	adj	spa	inteligible	adj-mf$adj$adj-mf-sg
 RL	epo	kompreneble	adv	spa	inteligiblemente	adv
@@ -24923,7 +24923,7 @@ LR	epo	traakvigi	vbtr	spa	irrigar	vblex
 	epo	ironie	adv	spa	irónicamente	adv
 	epo	ironia	adj	spa	irónico	adj$adj-GD
 	epo	Isaac	np-cog$np-cog-mf	spa	Isaac	np-cog
-	epo	Isaac	np-ant$np	spa	Isaac	np-ant$np$np-ant-m
+	epo	Isaac	np-ant$np	spa	Isaac	np-ant$np
 	epo	Isaba	np-loc	spa	Isaba	np-loc-f
 LR	epo	Izabela	$np$np-ant	spa	Isabel	np$np-ant$np-ant-f-sg
 	epo	Isabel	np-ant$np	spa	Isabel	np$np-ant$np-ant-f-sg
@@ -24938,7 +24938,7 @@ LR	epo	Izabela	$np$np-ant	spa	Isabel	np$np-ant$np-ant-f-sg
 	epo	Isar	np-loc	spa	Isar	np-loc-f
 	epo	Isart	np-cog$np-cog-mf	spa	Isart	np-cog
 	epo	Isaura	np-ant	spa	Isaura	np$np-ant
-	epo	Isaías	np-ant	spa	Isaías	np$np-ant$np-ant-m
+	epo	Isaías	np-ant	spa	Isaías	np$np-ant
 	epo	ISBN	n-acr	spa	ISBN	n-acr-m
 	epo	Iserhoff	np-cog$np-cog-mf	spa	Iserhoff	np-cog
 	epo	Isern	np-cog$np-cog-mf	spa	Isern	np-cog
@@ -24972,7 +24972,7 @@ RL	epo	insula	adj	spa	isleño	adj$adj-m
 	epo	insuleto	n	spa	islote	n$n-m
 RL	epo	islame	adv	spa	islámicamente	adv
 RL	epo	islama	adj	spa	islámico	adj$adj-GD$adj-GD-ND
-	epo	Ismael	np-ant$np	spa	Ismael	np$np-ant$np-ant-m
+	epo	Ismael	np-ant$np	spa	Ismael	np$np-ant
 	epo	Ismail	np-cog$np-cog-mf	spa	Ismail	np-cog
 	epo	Ismaíl	np-ant	spa	Ismaíl	np-ant
 	epo	Ismaïl	np-ant	spa	Ismaïl	np-ant
@@ -24992,7 +24992,7 @@ RL	epo	islama	adj	spa	islámico	adj$adj-GD$adj-GD-ND
 	epo	Israa	np-ant	spa	Israa	np-ant
 	epo	Israe	np-ant	spa	Israe	np-ant
 	epo	Israelo	np-loc$np	spa	Israel	np-loc$np-loc-m
-	epo	Israel	np-ant$	spa	Israel	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Israel	np-ant$	spa	Israel	np$np-ant$np-ant-m-sg
 RL	epo	israela	adj	spa	israelita	adj$adj-mf-sg
 RL	epo	israelano	n	spa	israelita	n
 	epo	israela	adj	spa	israelí	adj-mf$adj$adj-mf-sg
@@ -25107,7 +25107,7 @@ RL	epo	fanto	n	spa	jack	n
 	epo	Jack	np-cog$np-cog-mf	spa	Jack	np-cog
 	epo	Jackson	np-cog$np-cog-mf	spa	Jackson	np-cog$np-cog-mf
 	epo	Jacob	np-cog$np-cog-mf	spa	Jacob	np-cog
-	epo	Jacob	np-ant	spa	Jacob	np-ant$np$np-ant-m
+	epo	Jacob	np-ant	spa	Jacob	np-ant$np
 	epo	jakobena	adj	spa	jacobino	adj$adj-m-sg
 	epo	jakobeno	n	spa	jacobino	n
 	epo	Jacobs	np-cog$np-cog-mf	spa	Jacobs	np-cog
@@ -25125,11 +25125,11 @@ RL	epo	fanto	n	spa	jack	n
 	epo	Jafre	np-loc	spa	Jafre	np$np-loc-f
 	epo	jaguaro	n	spa	jaguar	n$n-m
 	epo	Jahn	np-cog$np-cog-mf	spa	Jahn	np-cog$np-cog-mf
-LR	epo	Jakobo	np-ant$np	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg
+LR	epo	Jakobo	np-ant$np	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m
 	epo	Jaime	np-cog$np-cog-mf	spa	Jaime	np-cog
-	epo	Jaime	np-ant	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg
+	epo	Jaime	np-ant	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m
 	epo	Jaimez	np-cog$np-cog-mf	spa	Jaimez	np-cog
-	epo	Jairo	np-ant	spa	Jairo	np-ant$np-ant-m$np-ant-m-sg
+	epo	Jairo	np-ant	spa	Jairo	np-ant$np-ant-m-sg
 	epo	Jaiteh	np-cog$np-cog-mf	spa	Jaiteh	np-cog
 	epo	Jalance	np-loc	spa	Jalance	np$np-loc-f
 	epo	jalapo	n	spa	jalapa	n-f
@@ -25150,7 +25150,7 @@ LR	epo	Jakobo	np-ant$np	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg
 RL	epo	neniam	adv	spa	jamás	adv
 	epo	ŝinko	n	spa	jamón	n$n-m$n-m-ND
 	epo	Jan	np-ant$np	spa	Jan	np$np-ant
-	epo	Jana	np-ant$np	spa	Jana	np$np-ant$np-ant-f
+	epo	Jana	np-ant$np	spa	Jana	np$np-ant
 	epo	Janat	np-ant	spa	Janat	np-ant
 	epo	Jane	np$np-ant	spa	Jane	np$np-ant
 	epo	Janelle	np-cog$np-cog-mf	spa	Janelle	np-cog
@@ -25229,7 +25229,7 @@ RL	epo	kruĉo	n	spa	jarro	n-m$n$n-m-ND
 	epo	java	adj	spa	javanés	adj
 	epo	Javed	np-cog$np-cog-mf	spa	Javed	np-cog
 	epo	Javi	np-ant	spa	Javi	np$np-ant
-LR	epo	Ksavero	$np$np-ant	spa	Javier	np$np-ant$np-ant-m-sg
+LR	epo	Ksavero	np$np-ant	spa	Javier	np$np-ant$np-ant-m-sg
 	epo	Javier	np-cog-mf$np-cog	spa	Javier	np-cog
 	epo	Javier	np-loc	spa	Javier	np-loc-f
 	epo	Javier	np-ant	spa	Javier	np$np-ant$np-ant-m-sg
@@ -25285,12 +25285,12 @@ RL	epo	ĵinzo	n$n-pl	spa	jeans	n-m
 LR	epo	Ĵeromo	$np$np-ant	spa	Jerónimo	np$np-ant
 	epo	Jerôme	np-cog$np-cog-mf	spa	Jerôme	np-cog
 	epo	Jessica	np-ant	spa	Jessica	np$np-ant
-	epo	Jesuo-Kristo	np-ant	spa	Jesucristo	np$np-ant$np-ant-m
+	epo	Jesuo-Kristo	np-ant	spa	Jesucristo	np$np-ant
 	epo	jezuito	n	spa	jesuita	n-f
 	epo	jezuita	adj	spa	jesuítico	adj$adj-m-sg
-LR	epo	Jesuo	np-ant$np	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg
+LR	epo	Jesuo	np-ant$np	spa	Jesús	np$np-ant$np-ant-m-sg
 	epo	Jesús	np-cog$np-cog-mf	spa	Jesús	np-cog
-	epo	Jesús	np-ant	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Jesús	np-ant	spa	Jesús	np$np-ant$np-ant-m-sg
 	epo	jeto	n	spa	jet	n-m$n$n-m-sg
 	epo	Jete	np-loc	spa	Jete	np-loc-f
 	epo	Jetté	np-cog$np-cog-mf	spa	Jetté	np-cog
@@ -25323,7 +25323,7 @@ LR	epo	Jesuo	np-ant$np	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg
 RL	epo	Olimpikoj	np-al$np-al-pl	spa	JJ OO	n-acr-m-pl
 	epo	Joachim	np-cog$np-cog-mf	spa	Joachim	np$np-cog
 	epo	Joan	np-cog$np-cog-mf	spa	Joan	np-cog
-	epo	Joan	np-ant$np	spa	Joan	np$np-ant$np-ant-m
+	epo	Joan	np-ant$np	spa	Joan	np$np-ant
 	epo	Joana	np-ant$np	spa	Joana	np$np-ant
 	epo	Joanisse	np-cog$np-cog-mf	spa	Joanisse	np-cog
 	epo	Joanna	np-ant	spa	Joanna	np-ant
@@ -25344,7 +25344,7 @@ RL	epo	fek	ij	spa	joder	ij
 	epo	Jodoin	np-cog$np-cog-mf	spa	Jodoin	np-cog
 	epo	Jodry	np-cog$np-cog-mf	spa	Jodry	np-cog
 	epo	Joe	np-ant	spa	Joe	np$np-ant
-	epo	Joel	np-ant$np	spa	Joel	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Joel	np-ant$np	spa	Joel	np$np-ant$np-ant-m-sg
 	epo	Joffre	np-cog$np-cog-mf	spa	Joffre	np-cog
 	epo	Jofre	np-cog$np-cog-mf	spa	Jofre	np$np-cog
 	epo	Jofre	np-ant	spa	Jofre	np-ant
@@ -25414,7 +25414,7 @@ LR	epo	prifiki	vblex	spa	jorobar	vblex
 	epo	Joseph	np-cog$np-cog-mf	spa	Joseph	np-cog
 	epo	Jospin	np-cog$np-cog-mf	spa	Jospin	np$np-cog
 	epo	Josuè	np-ant	spa	Josuè	np-ant
-	epo	Josué	np-ant	spa	Josué	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Josué	np-ant	spa	Josué	np$np-ant$np-ant-m-sg
 	epo	Josà	np-cog$np-cog-mf	spa	Josà	np-cog
 	epo	Josá	np-cog$np-cog-mf	spa	Josá	np-cog
 LR	epo	Jozefo	np-ant$np	spa	José	np$np-ant$np-ant-m$np-ant-m-sg
@@ -25451,8 +25451,8 @@ LR	epo	gemisto	n	spa	joyero	n$n-m
 LR	epo	Johano	np-ant$np	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg
 	epo	Juan	np-ant	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg
 	epo	Juan	np-cog$np-cog-mf	spa	Juan	np-cog
-LR	epo	Johanino	np-ant$np	spa	Juana	np-ant$np$np-ant-f
-	epo	Juana	np-ant	spa	Juana	np-ant$np$np-ant-f
+LR	epo	Johanino	np-ant$np	spa	Juana	np-ant$np
+	epo	Juana	np-ant	spa	Juana	np-ant$np
 	epo	Juanes	np-cog$np-cog-mf	spa	Juanes	np-cog
 	epo	Juanola	np-cog$np-cog-mf	spa	Juanola	np-cog
 	epo	Juanpere	np-cog$np-cog-mf	spa	Juanpere	np-cog
@@ -25506,7 +25506,7 @@ RL	epo	Olimpikoj	np-al$np-al-pl	spa	juegos olímpicos
 	epo	Juià	np-loc	spa	Juià	np$np-loc-f
 	epo	Julen	np-ant	spa	Julen	np$np-ant
 	epo	Jules	np-cog$np-cog-mf	spa	Jules	np-cog
-	epo	Julia	np-ant$np	spa	Julia	np$np-ant$np-ant-f$np-ant-f-sg
+	epo	Julia	np-ant$np	spa	Julia	np$np-ant$np-ant-f-sg
 	epo	Julian	np$np-cog$np-cog-mf	spa	Julian	np-cog
 	epo	Juliana	np-ant	spa	Juliana	np-ant$np$np-ant-f-sg
 	epo	julia	adj	spa	juliano	adj$adj-m-sg
@@ -25622,7 +25622,7 @@ RL	epo	ioniano	n	spa	jónico	n
 	epo	hokeo	n	spa	jóquey	n-m
 	epo	ĝojego	n	spa	júbilo	n-m$n
 	epo	Júlia	np-ant$np	spa	Júlia	np$np-ant
-	epo	Jupitero	np-loc$np	spa	Júpiter	np-loc-m$np-loc
+	epo	Jupitero	np$np-loc	spa	Júpiter	np-loc-m$np-loc
 	epo	Júzcar	np-loc	spa	Júzcar	np-loc-f
 	epo	Kabir	np-cog$np-cog-mf	spa	Kabir	np-cog
 	epo	Kabulo	np-loc	spa	Kabul	np$np-loc-m$np-loc
@@ -26150,7 +26150,7 @@ RL	epo	kirgizo	n	spa	kirguiz	n
 	epo	La Zoma	np-loc	spa	La Zoma	np$np-loc-f
 	epo	La Zubia	np-loc	spa	La Zubia	np-loc-f
 	epo	Havano	np-loc	spa	La Habana	np$np-loc$np-loc-f
-	epo	Hago	np-loc$np	spa	La Haya	np$np-loc$np-loc-f
+	epo	Hago	np$np-loc	spa	La Haya	np$np-loc$np-loc-f
 RL	epo	Barato	np-loc$np	spa	la India	np-loc-f
 	epo	la plimulto da	det	spa	la majoria de	det
 	epo	Mekko	np-loc	spa	La Meca	np$np-loc-f
@@ -26240,7 +26240,7 @@ RL	epo	konciza	adj	spa	lacónico	adj$adj-m-sg
 	epo	Ladrie	np-cog$np-cog-mf	spa	Ladrie	np-cog
 	epo	Ladrillar	np-loc	spa	Ladrillar	np-loc-f
 	epo	briko	n	spa	ladrillo	n-m$n$n-m-ND
-	epo	ŝtelisto	n	spa	ladrón	n-m$n$n-m-sg
+	epo	ŝtelisto	n	spa	ladrón	n$n-m$n-m-sg
 	epo	Ladurantaye	np-cog$np-cog-mf	spa	Ladurantaye	np-cog
 	epo	Ladéroute	np-cog$np-cog-mf	spa	Ladéroute	np-cog
 	epo	Lafaille	np-cog$np-cog-mf	spa	Lafaille	np-cog
@@ -26370,7 +26370,7 @@ RL	epo	bedaŭrinda	adj	spa	lamentable	adj-mf$adj$adj-mf-ND
 RL	epo	bedaŭrinde	adv	spa	lamentablemente	adv
 	epo	lamento	n	spa	lamentación	n$n-f
 	epo	lamenti	vblex	spa	lamentar	vblex
-RL	epo	lamento	n	spa	lamento	n-m$n$n-m-ND
+RL	epo	lamento	n	spa	lamento	n$n-m$n-m-ND
 	epo	leki	vbtr	spa	lamer	vblex
 	epo	Lamer	np-cog$np-cog-mf	spa	Lamer	np-cog
 	epo	Lamia	np-ant	spa	Lamia	np-ant
@@ -26396,7 +26396,7 @@ RL	epo	lamento	n	spa	lamento	n-m$n$n-m-ND
 	epo	Lancaster	np-cog$np-cog-mf	spa	Lancaster	np$np-cog
 RL	epo	okazaĵo	n	spa	lance	n$n-m
 	epo	Lance	np-cog$np-cog-mf	spa	Lance	np-cog
-	epo	boato	n	spa	lancha	n$n-f
+	epo	boato	n	spa	lancha	n-f$n
 	epo	motorboato	n	spa	lanchamotora	n-f
 	epo	Lancharro	np-cog$np-cog-mf	spa	Lancharro	np-cog
 	epo	Lancho	np-cog$np-cog-mf	spa	Lancho	np-cog
@@ -26634,7 +26634,7 @@ RL	epo	bati	vbtr_ntr	spa	latir	vblex
 	epo	Latreille	np-cog$np-cog-mf	spa	Latreille	np-cog
 	epo	Latremouille	np-cog$np-cog-mf	spa	Latremouille	np-cog
 	epo	Latulippe	np-cog$np-cog-mf	spa	Latulippe	np-cog
-	epo	Latino	np-al$np-al-sg	spa	latín	n$n-m-sg$n-m
+	epo	Latino	np$np-al$np-al-sg	spa	latín	n$n-m-sg$n-m
 	epo	latuno	n	spa	latón	n$n-m
 LR	epo	flava kupro	n	spa	latón	n$n-m
 	epo	Lau	np-cog$np-cog-mf	spa	Lau	np-cog
@@ -26925,7 +26925,7 @@ LR	epo	leninista	adj	spa	leninista	adj$adj-mf-sg
 	epo	kontaktolenso	n	spa	lentilla	n$n-f
 	epo	malrapideco	n	spa	lentitud	n$n-f
 	epo	malrapida	adj	spa	lento	adj$adj-GD-ND
-	epo	Leono	np-loc$np	spa	Leo	np-loc-m
+	epo	Leono	np$np-loc	spa	Leo	np-loc-m
 	epo	Leo	np-cog$np-cog-mf	spa	Leo	np-cog
 	epo	Leo	np-ant	spa	Leo	np-ant$np
 	epo	Leonardo	np-ant	spa	Leonardo	np$np-ant$np-ant-m-sg
@@ -27061,12 +27061,12 @@ RL	epo	maldekstruma	adj	spa	levógiro	adj
 	epo	Lezo	np-loc	spa	Lezo	np-loc-f
 	epo	Lezuza	np-loc	spa	Lezuza	np-loc-f
 	epo	Lezáun	np-loc	spa	Lezáun	np-loc-f
-	epo	brulligno	n	spa	leña	n$n-f$n-f-sg
+	epo	brulligno	n	spa	leña	n-f$n$n-f-sg
 	epo	arbohakisto	n	spa	leñador	n$n-m$n-m-pl
 	epo	lignaĵo	n	spa	leño	n$n-m$n-m-ND
 	epo	León	np-ant	spa	León	np$np-ant
 	epo	leono	n	spa	león	n$n-m$n-m-sg
-	epo	Leono	np-loc$np	spa	León	np-loc$np-loc-m
+	epo	Leono	np$np-loc	spa	León	np-loc$np-loc-m
 	epo	León	np-cog$np-cog-mf	spa	León	np-cog
 	epo	León	np-loc	spa	León	np-loc-f
 	epo	LG	np-al	spa	LG	np$np-al-mf
@@ -27153,13 +27153,13 @@ LR	epo	maldungi	vbtr	spa	licenciar	vblex
 	epo	ĉefeco	n	spa	liderato	n$n-m
 RL	epo	ĉefeco	n	spa	liderazgo	n$n-m$n-m-sg
 	epo	toreado	n	spa	lidia	n-f
-	epo	Lidia	np-ant	spa	Lidia	np$np-ant$np-ant-f
+	epo	Lidia	np-ant	spa	Lidia	np$np-ant
 	epo	Lidon	np-cog$np-cog-mf	spa	Lidon	np-cog
 	epo	Lidón	np-loc	spa	Lidón	np-loc-f
 	epo	Lieberman	np-cog$np-cog-mf	spa	Lieberman	np$np-cog$np-cog-mf
 	epo	leporo	n	spa	liebre	n$n-f
 	epo	Liĥtenŝtejno	np-loc$np	spa	Liechtenstein	np$np-loc$np-loc-m
-	epo	Lieĝo	np-loc$np	spa	Lieja	np$np-loc-f
+	epo	Lieĝo	np$np-loc	spa	Lieja	np$np-loc-f
 	epo	Liendo	np-loc	spa	Liendo	np-loc-f
 	epo	tolo	n	spa	lienzo	n$n-m
 	epo	Lieu	np-cog$np-cog-mf	spa	Lieu	np-cog
@@ -27349,7 +27349,7 @@ RL	epo	proceso	n	spa	litigio	n$n-m
 	epo	Lladós	np-cog$np-cog-mf	spa	Lladós	np-cog
 	epo	Llagostera	np-cog$np-cog-mf	spa	Llagostera	np$np-cog
 	epo	Llagostera	np-loc	spa	Llagostera	np-loc-f
-	epo	flamo	n	spa	llama	n$n-f$n-f-ND
+	epo	flamo	n	spa	llama	n-f$n$n-f-ND
 	epo	alvoko	n	spa	llamada	n-f$n$
 	epo	voko	n	spa	llamada	n-f$n$
 	epo	nomite	adv	spa	llamadamente	adv
@@ -27635,7 +27635,7 @@ LR	epo	longitude	adv	spa	longitudinalmente	adv
 	epo	Lorena	np-ant$np	spa	Lorena	np-ant$np
 	epo	Lorente	np-cog$np-cog-mf	spa	Lorente	np$np-cog
 	epo	Lorenz	np-cog$np-cog-mf	spa	Lorenz	np-cog
-LR	epo	Laŭrenco	np$np-ant$	spa	Lorenzo	np-ant$np$np-ant-m-sg
+LR	epo	Laŭrenco	np$np-ant	spa	Lorenzo	np-ant$np$np-ant-m-sg
 	epo	Lorenzo	np-ant	spa	Lorenzo	np-ant$np$np-ant-m-sg
 	epo	Lorenzo	np-cog$np-cog-mf	spa	Lorenzo	np-cog
 	epo	Lores	np-cog$np-cog-mf	spa	Lores	np$np-cog
@@ -27726,7 +27726,7 @@ LR	epo	loto	n	spa	lotería	n$n-f
 	epo	Lourenzá	np-loc	spa	Lourenzá	np$np-loc-f
 	epo	Lousame	np-loc	spa	Lousame	np$np-loc-f
 	epo	Louttit	np-cog$np-cog-mf	spa	Louttit	np-cog
-	epo	Loveno	np-loc$np	spa	Lovaina	np$np-loc-f
+	epo	Loveno	np$np-loc	spa	Lovaina	np$np-loc-f
 	epo	Lowe	np-cog$np-cog-mf	spa	Lowe	np-cog
 	epo	Lowe's	np-al	spa	Lowe's	np-al-mf
 	epo	Lowen	np-cog$np-cog-mf	spa	Lowen	np-cog
@@ -27757,9 +27757,9 @@ RL	epo	lubriko	n	spa	lubricación	n$n-f
 	epo	Lubrín	np-loc	spa	Lubrín	np-loc-f
 	epo	Luc	np-cog$np-cog-mf	spa	Luc	np-cog
 	epo	Lucainena de las Torres	np-loc	spa	Lucainena de las Torres	np$np-loc-f
-LR	epo	Luko	np-ant	spa	Lucas	np$np-ant$np-ant-m$np-ant-m-sg
+LR	epo	Luko	np-ant	spa	Lucas	np$np-ant$np-ant-m-sg
 	epo	Lucas	np-cog-mf$np-cog	spa	Lucas	np-cog
-	epo	Lucas	np-ant$np	spa	Lucas	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Lucas	np-ant$np	spa	Lucas	np$np-ant$np-ant-m-sg
 	epo	Luce	np-cog$np-cog-mf	spa	Luce	np-cog
 	epo	Lucea	np-cog$np-cog-mf	spa	Lucea	np-cog
 	epo	Lucena	np-cog$np-cog-mf	spa	Lucena	np-cog
@@ -27901,7 +27901,7 @@ RL	epo	portugalo	n	spa	luso	n
 	epo	Luu	np-cog$np-cog-mf	spa	Luu	np-cog
 RL	epo	lukso	n	spa	lux	n-m
 	epo	Lux	np-cog$np-cog-mf	spa	Lux	np-cog$np-cog-mf
-	epo	Luksemburgio	np-loc$np	spa	Luxemburgo	np$np-loc$np-loc-m
+	epo	Luksemburgio	np$np-loc	spa	Luxemburgo	np$np-loc$np-loc-m
 	epo	luksemburga	adj	spa	luxemburgués	adj$adj-m-sg
 LR	epo	luksemburgia	adj	spa	luxemburgués	adj$adj-m-sg
 	epo	luksemburgiano	n	spa	luxemburgués	n$n-m-sg
@@ -28033,7 +28033,7 @@ RL	epo	fruktosalato	n	spa	macedonio	n$n-f
 LR	epo	masklista	adj	spa	machista	adj$adj-mf$adj-mf-sg
 	epo	masklisma	adj	spa	machista	adj$adj-mf$adj-mf-sg
 	epo	viro	n$n-f	spa	macho	n$n-m$n-m-sg
-	epo	virseksa	adj	spa	macho	adj$adj-mf
+	epo	virseksa	adj	spa	macho	adj$adj-mf$adj-mf-sp
 	epo	Macho	np-cog$np-cog-mf	spa	Macho	np-cog
 	epo	Machuca	np-cog$np-cog-mf	spa	Machuca	np-cog
 	epo	ŝraŭbborilo	n	spa	machuelo	n-m
@@ -28137,7 +28137,7 @@ LR	epo	mafiulo	n	spa	mafioso	n$n-f
 	epo	Magaña	np-cog$np-cog-mf	spa	Magaña	np-cog
 	epo	Magaña	np-loc	spa	Magaña	np-loc-f
 	epo	Magda	np-ant	spa	Magda	np$np-ant
-	epo	Magdalena	np-ant$np	spa	Magdalena	np$np-ant$np-ant-f
+	epo	Magdalena	np-ant$np	spa	Magdalena	np$np-ant
 	epo	Magdaleno	np-cog$np-cog-mf	spa	Magdaleno	np-cog
 	epo	Mageau	np-cog$np-cog-mf	spa	Mageau	np-cog
 	epo	Magem	np-cog$np-cog-mf	spa	Magem	np-cog
@@ -28192,7 +28192,7 @@ RL	epo	granda	adj	spa	magno	adj$adj-sup
 	epo	Mahide	np-loc	spa	Mahide	np-loc-f
 	epo	Mahmood	np-cog-mf$np-cog	spa	Mahmood	np-cog
 	epo	Mahnoor	np-ant	spa	Mahnoor	np-ant
-	epo	Mahometo	np$$np-ant	spa	Mahoma	np$np-ant
+	epo	Mahometo	np$np-ant	spa	Mahoma	np$np-ant
 RL	epo	islama	adj	spa	mahometano	adj$adj-m-sg
 RL	epo	islamano	n	spa	mahometano	n
 LR	epo	mahometano	adj	spa	mahometano	adj$adj-m-sg
@@ -28244,7 +28244,7 @@ LR	epo	mahometano	n	spa	mahometano	n
 	epo	Mak	np-cog$np-cog-mf	spa	Mak	np-cog
 	epo	Makhoul	np-cog$np-cog-mf	spa	Makhoul	np-cog
 	epo	Makris	np-cog$np-cog-mf	spa	Makris	np-cog
-	epo	malbono	n	spa	mal	n$n-m$n-m-ND
+	epo	malbono	n	spa	mal	n-m$n$n-m-ND
 	epo	malbona	adj	spa	mal	adj$adj-m-sg
 	epo	malbone	adv	spa	mal	adv
 	epo	malbone	preadv	spa	mal	preadv
@@ -28494,7 +28494,7 @@ LR	epo	manifestacii	vblex	spa	manifestar	vblex
 	epo	Manquillos	np-loc	spa	Manquillos	np-loc-f
 	epo	Manresa	np-cog$np-cog-mf	spa	Manresa	np$np-cog
 	epo	Manresa	np-loc	spa	Manresa	np-loc$np-loc-f
-	epo	Manrique	np-cog$np-cog-mf	spa	Manrique	np-cog$np-cog-mf
+	epo	Manrique	np-cog$np-cog-mf	spa	Manrique	np-cog-mf$np-cog
 	epo	Manrubia	np-cog$np-cog-mf	spa	Manrubia	np-cog
 	epo	malsovaĝe	adv	spa	mansamente	adv
 	epo	mansardo	n	spa	mansarda	n-f
@@ -28525,7 +28525,7 @@ RL	epo	teni	vbtr	spa	mantener	vblex
 	epo	Mantilla	np-cog$np-cog-mf	spa	Mantilla	np-cog
 	epo	Mantinos	np-loc	spa	Mantinos	np-loc-f
 	epo	manto	n	spa	mantis	n-f
-	epo	mantelo	n	spa	manto	n$n-m$n-m-ND
+	epo	mantelo	n	spa	manto	n-m$n$n-m-ND
 	epo	mantro	n	spa	mantra	n-f
 	epo	ŝalo	n	spa	mantón	n$n-m
 	epo	manlibro	n	spa	manual	n-m$n$n-m-sg
@@ -28623,8 +28623,8 @@ LR	epo	Kaspia Maro	np-loc	spa	mar Caspio	np-loc-m
 	epo	Ruĝa Maro	np-loc	spa	mar Rojo	np-loc-m
 	epo	Tirena Maro	np-loc	spa	mar Tirreno	np-loc-m
 	epo	Lapteva Maro	np-ant	spa	mar	n-m$n-m-sg
-	epo	Mara	np-loc	spa	Mara	np-loc-f
-	epo	Mara	np-ant	spa	Mara	np-ant$np$np-ant-f
+	epo	Mara	np-loc	spa	Mara	np-f$np-loc-f
+	epo	Mara	np-ant	spa	Mara	np-ant$np
 	epo	marabuo	n	spa	marabú	n-m
 	epo	marako	n	spa	maraca	n$n-f
 	epo	Maracena	np-loc	spa	Maracena	np-loc-f
@@ -28842,7 +28842,7 @@ LR	epo	markizejdo	n	spa	marquesado	n$n-m
 	epo	Marrugat	np-cog$np-cog-mf	spa	Marrugat	np-cog
 	epo	Marrupe	np-loc	spa	Marrupe	np-loc-f
 	epo	Marró	np-cog$np-cog-mf	spa	Marró	np-cog
-	epo	bruna	adj	spa	marrón	adj$adj-mf$adj-mf-ND$
+	epo	bruna	adj	spa	marrón	adj-mf$adj$adj-mf-ND$
 	epo	Marsal	np-cog$np-cog-mf	spa	Marsal	np-cog
 	epo	Marsan	np-cog$np-cog-mf	spa	Marsan	np-cog
 	epo	Marseille	np-cog$np-cog-mf	spa	Marseille	np-cog
@@ -28860,7 +28860,7 @@ LR	epo	markizejdo	n	spa	marquesado	n$n-m
 	epo	Marsà	np-cog$np-cog-mf	spa	Marsà	np-cog
 	epo	Marsá	np-cog$np-cog-mf	spa	Marsá	np-cog
 	epo	marteso	n	spa	marta	n-f$n$
-	epo	Marta	np-ant$np	spa	Marta	np$np-ant$np-ant-f
+	epo	Marta	np-ant$np	spa	Marta	np$np-ant
 	epo	zibelo	n	spa	marta cebellina	n-f
 	epo	Marso	np$np-loc	spa	Marte	np-loc-m$np-loc
 	epo	Martel	np-cog$np-cog-mf	spa	Martel	np-cog
@@ -28932,10 +28932,10 @@ LR	epo	marksista	adj	spa	marxista	adj$adj-mf-sg$adj-mf
 	epo	Maréchal	np-cog$np-cog-mf	spa	Maréchal	np-cog
 	epo	Marés	np-cog$np-cog-mf	spa	Marés	np$np-cog
 	epo	Marí	np-cog$np-cog-mf	spa	Marí	np$np-cog
-	epo	Maria	np-ant$np	spa	María	np$np-ant$np-ant-f$np-ant-f-sg
-	epo	María	np-ant	spa	María	np$np-ant$np-ant-f$np-ant-f-sg
+	epo	Maria	np-ant$np	spa	María	np$np-ant$np-ant-f-sg$np-ant-f
+	epo	María	np-ant	spa	María	np$np-ant$np-ant-f-sg$np-ant-f
 	epo	María	np-cog$np-cog-mf	spa	María	np-cog
-	epo	María	np-loc	spa	María	np-loc-f
+	epo	María	np-loc	spa	María	np-f$np-loc-f
 	epo	María de Huerva	np-loc	spa	María de Huerva	np-loc-f
 	epo	Marín	np-cog$np-cog-mf	spa	Marín	np$np-cog$np-cog-mf
 	epo	Marín	np-loc	spa	Marín	np-loc-f
@@ -29078,7 +29078,7 @@ RL	epo	matematiko	n$n-pl	spa	matemática	n-f$n$n-f-ND
 	epo	matematikisto	n	spa	matemático	n$n-m
 	epo	Matencio	np-cog$np-cog-mf	spa	Matencio	np-cog
 	epo	Mateo	np-cog$np-cog-mf	spa	Mateo	np-cog
-	epo	Mateo	np-ant$np	spa	Mateo	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Mateo	np-ant$np	spa	Mateo	np$np-ant$np-ant-m-sg
 	epo	Mateos	np-cog$np-cog-mf	spa	Mateos	np$np-cog$np-cog-mf
 	epo	materio	n	spa	materia	n$n-f$n-f-sg
 	epo	materialo	n	spa	material	n$n-m$n-m-sg
@@ -29164,7 +29164,7 @@ LR	epo	matriarka reĝimo	n	spa	matriarcado	n-m$n
 	epo	Matute	np-loc	spa	Matute	np-loc-f
 	epo	Maté	np-cog$np-cog-mf	spa	Maté	np-cog
 	epo	Matías	np-cog$np-cog-mf	spa	Matías	np-cog
-	epo	Matías	np-ant	spa	Matías	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Matías	np-ant	spa	Matías	np$np-ant$np-ant-m-sg
 	epo	bravulaĉo	n	spa	matón	n-m$n$n-m-pl
 	epo	Mauger	np-cog$np-cog-mf	spa	Mauger	np-cog
 	epo	miaŭi	vblex	spa	maullar	vblex
@@ -29639,7 +29639,7 @@ LR	epo	senhava	adj	spa	menesteroso	adj
 	epo	malkreske	adv	spa	menguantemente	adv
 RL	epo	malpliiĝi	vbntr	spa	menguar	vblex
 	epo	Mengíbar	np-loc	spa	Mengíbar	np-loc-f
-	epo	menhiro	n	spa	menhir	n$n-m
+	epo	menhiro	n	spa	menhir	n-m$n
 	epo	meningo	n	spa	meninge	n-f$n
 	epo	meningito	n	spa	meningitis	n-f-sp$n$n-f
 	epo	menisko	n	spa	menisco	n$n-m
@@ -29778,7 +29778,7 @@ RL	epo	merita	adj	spa	merecido	adj
 RL	epo	centramerika	adj	spa	mesoamericano	adj
 RL	epo	Centr-Ameriko	np-loc	spa	Mesoamérica	np-loc-f
 	epo	Mesones de Isuela	np-loc	spa	Mesones de Isuela	np-loc-f
-	epo	Mezopotamio	np$np-loc	spa	Mesopotamia	np$np-loc$np-loc-f
+	epo	Mezopotamio	np$np-loc	spa	Mesopotamia	np-loc$np-loc-f
 	epo	mezopotamia	adj	spa	mesopotámico	adj$adj-m-sg
 	epo	mezopotamiano	n	spa	mesopotámico	n
 	epo	Messervier	np-cog$np-cog-mf	spa	Messervier	np-cog
@@ -29814,7 +29814,7 @@ RL	epo	celo	n	spa	meta	n$n-f$n-f-ND
 	epo	metafiziko	n	spa	metafísica	n-f$n
 	epo	metafizike	adv	spa	metafísicamente	adv
 	epo	metafizika	adj	spa	metafísico	adj$adj-GD$adj-GD-ND
-	epo	metalo	n	spa	metal	n$n-m$n-m-ND
+	epo	metalo	n	spa	metal	n-m$n$n-m-ND
 	epo	Metallic	np-cog$np-cog-mf	spa	Metallic	np-cog
 	epo	metaloido	n	spa	metaloide	n$n-m
 	epo	metalurgio	n	spa	metalurgia	n$n-f$n-f-sg
@@ -29916,7 +29916,7 @@ LR	epo	etspirita	adj	spa	mezquino	adj
 	epo	Mico	np-cog$np-cog-mf	spa	Mico	np$np-cog
 	epo	mikozo	n	spa	micosis	n-f-sp$n$n-f
 	epo	mikrono	n	spa	micra	n$n-f
-	epo	mikrobo	n	spa	microbio	n$n-m
+	epo	mikrobo	n	spa	microbio	n-m$n
 	epo	mikrobiologio	n	spa	microbiología	n$n-f
 	epo	mikrobiologia	adj	spa	microbiológico	adj$adj-m-sg
 	epo	mikrobiologo	n	spa	microbiólogo	n
@@ -29956,7 +29956,7 @@ RL	epo	timemulo	n	spa	miedoso	n
 RL	epo	dum	cnjadv	spa	mientras que	cnjadv
 	epo	dume	adv	spa	mientras tanto	adv
 	epo	Miera	np-loc	spa	Miera	np-loc-f
-	epo	merdo	n	spa	mierda	n$n-f$n-f-ND
+	epo	merdo	n	spa	mierda	n-f$n$n-f-ND
 	epo	fek	ij	spa	mierda	ij
 	epo	Mieres	np-loc	spa	Mieres	np$np-loc-f
 	epo	Mieza	np-loc	spa	Mieza	np-loc-f
@@ -29988,7 +29988,7 @@ LR	epo	Mikaelo	np$$np-ant	spa	Miguel	np$np-ant$np-ant-m$np-ant-m-sg
 	epo	mil	num$	spa	mil	num$num-mf$num-mf-sp
 	epo	miliardo	n	spa	mil millones	n-m-sp$n-m
 	epo	Mila	np-ant	spa	Mila	np$np-ant$np-ant-f
-	epo	miraklo	n	spa	milagro	n$n-m$n-m-ND
+	epo	miraklo	n	spa	milagro	n-m$n$n-m-ND
 	epo	Milagro	np-loc	spa	Milagro	np$np-loc-f
 	epo	Milagros	np-loc	spa	Milagros	np-loc-f
 	epo	mirakle	adv	spa	milagrosamente	adv
@@ -30365,7 +30365,7 @@ LR	epo	modernista	adj	spa	modernista	adj$adj-mf-sg$adj-mf$
 	epo	Moineau	np-cog$np-cog-mf	spa	Moineau	np-cog
 	epo	Moisan	np-cog$np-cog-mf	spa	Moisan	np-cog
 	epo	Moisès	np-ant	spa	Moisès	np-ant
-	epo	Moisés	np-ant	spa	Moisés	np$np-ant$np-ant-m
+	epo	Moisés	np-ant	spa	Moisés	np$np-ant
 	epo	Moix	np-cog$np-cog-mf	spa	Moix	np$np-cog
 	epo	Moixent	np-loc	spa	Moixent	np$np-loc-f
 	epo	Moià	np-loc	spa	Moià	np$np-loc-f
@@ -30819,7 +30819,7 @@ RL	epo	kamemoro	n	spa	mora de los pantanos	n-f
 	epo	Moraleja de Matacabras	np-loc	spa	Moraleja de Matacabras	np-loc-f
 	epo	Moraleja de Sayago	np-loc	spa	Moraleja de Sayago	np-loc-f
 	epo	Moraleja del Vino	np-loc	spa	Moraleja del Vino	np$np-loc-f
-	epo	Morales	np-cog-mf$np-cog	spa	Morales	np$np-cog$np-cog-mf
+	epo	Morales	np-cog-mf$np-cog	spa	Morales	np$np-cog-mf$np-cog
 	epo	Morales de Campos	np-loc	spa	Morales de Campos	np-loc-f
 	epo	Morales de Rey	np-loc	spa	Morales de Rey	np$np-loc-f
 	epo	Morales de Toro	np-loc	spa	Morales de Toro	np$np-loc-f
@@ -31049,7 +31049,7 @@ RL	epo	ribelo	n	spa	motín	n-m$n
 	epo	Mousseau	np-cog$np-cog-mf	spa	Mousseau	np-cog
 	epo	Moussette	np-cog$np-cog-mf	spa	Moussette	np-cog
 	epo	Moustapha	np-ant	spa	Moustapha	np-ant$np
-	epo	movi	vbtr	spa	mover	vblex
+	epo	movi	vbtr	spa	mover	vblex$vblex-pron
 	epo	umado	n	spa	movida	n$n-f
 	epo	movebleco	n	spa	movilidad	n$n-f$n-f-ND
 	epo	mobilizo	n	spa	movilización	n$n-f$n-f-sg
@@ -31223,7 +31223,7 @@ LR	epo	tutmonda	adj	spa	mundial	adj$adj-mf$adj-mf-pl$
 LR	epo	terglobe	adv	spa	mundialmente	adv
 LR	epo	tutmonde	adv	spa	mundialmente	adv
 	epo	monde	adv	spa	mundialmente	adv
-	epo	mondo	n	spa	mundo	n$n-m$n-m-sg
+	epo	mondo	n	spa	mundo	n-m$n$n-m-sg
 	epo	Mundo	np-cog$np-cog-mf	spa	Mundo	np-cog
 	epo	Munera	np-cog$np-cog-mf	spa	Munera	np-cog
 	epo	Munera	np-loc	spa	Munera	np-loc-f
@@ -31272,7 +31272,7 @@ LR	epo	Murcia	np-loc	spa	Murcia	np$np-loc$np-loc-f
 	epo	murciano	n	spa	murciano	n
 	epo	murcia	adj	spa	murciano	adj$adj-m-sg
 	epo	Murciano	np-cog$np-cog-mf	spa	Murciano	np-cog
-	epo	vesperto	n	spa	murciélago	n$n-m
+	epo	vesperto	n	spa	murciélago	n-m$n
 	epo	Murdock	np-cog$np-cog-mf	spa	Murdock	np-cog
 	epo	Murero	np-loc	spa	Murero	np-loc-f
 	epo	Muresan	np-cog$np-cog-mf	spa	Muresan	np-cog
@@ -31449,7 +31449,7 @@ RL	epo	Meksiko	np-loc$np$np-loc-sg	spa	Méjico	np-loc$np-loc-m
 	epo	metriko	n	spa	métrica	n$n-f
 	epo	Meksiko	np-loc$np$np-loc-sg	spa	México	np-loc$np-loc-m
 RL	epo	Meksikurbo	np-loc	spa	México D. F.	np-loc-m
-RL	epo	prpers	prn-subj-p1-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+RL	epo	prpers	prn-subj-p1-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	epo	mimiko	n	spa	mímica	n$n-f
 	epo	Mínguez	np-cog$np-cog-mf	spa	Mínguez	np$np-cog
 	epo	minimume	adv	spa	mínimamente	adv
@@ -31498,11 +31498,11 @@ LR	epo	naskiĝinta	adj	spa	nacido	adj$adj-m-sg
 	epo	naskiĝante	adv	spa	nacientemente	adv
 	epo	naskiĝo	n	spa	nacimiento	n-m$n$n-m-ND
 	epo	Nacimiento	np-loc	spa	Nacimiento	np-loc-f
-	epo	nacia	adj	spa	nacional	adj$adj-mf$adj-mf-pl
+	epo	nacia	adj	spa	nacional	adj-mf$adj$adj-mf-pl
 	epo	naci-katolikismo	n	spa	nacionalcatolicismo	n$n-m
 	epo	naci-katoliko	n	spa	nacionalcatólico	n
 	epo	naci-katolika	adj	spa	nacionalcatólico	adj
-	epo	nacieco	n	spa	nacionalidad	n$n-f$n-f-sg
+	epo	nacieco	n	spa	nacionalidad	n-f$n$n-f-sg
 	epo	naciismo	n	spa	nacionalismo	n$n-m$n-m-ND
 	epo	naciisto	n	spa	nacionalista	n$n-mf$n-mf-ND
 	epo	naciisma	adj	spa	nacionalista	adj$adj-mf$adj-mf-sg
@@ -31654,7 +31654,7 @@ LR	epo	nazale	adv	spa	nasalmente	adv
 	epo	Natalia	np-ant	spa	Natalia	np$np-ant$np-ant-f-sg
 	epo	naskokvanto	n	spa	natalidad	n$n-f$n-f-ND
 	epo	denaske	adv	spa	natamente	adv
-	epo	Natan	np-ant	spa	Natan	np-ant$np-ant-m
+	epo	Natan	np-ant	spa	Natan	np-ant
 	epo	Nathalie	np-ant	spa	Nathalie	np-ant$np
 	epo	Nathan	np-cog$np-cog-mf	spa	Nathan	np-cog
 	epo	Nathan	np-ant	spa	Nathan	np-ant$np
@@ -32020,7 +32020,7 @@ RL	epo	Nov-Jorko	np-loc	spa	New York	np$np-loc$np-loc-f
 	epo	Ngo	np-cog$np-cog-mf	spa	Ngo	np-cog
 	epo	Nguon	np-cog$np-cog-mf	spa	Nguon	np-cog
 	epo	Nguyen	np-cog$np-cog-mf	spa	Nguyen	np-cog
-	epo	nek	cnjcoo	spa	ni	cnjcoo
+	epo	nek	cnjcoo$	spa	ni	cnjcoo
 	epo	eĉ ne tiel	adv	spa	ni aun así	adv
 	epo	eĉ ne	adv	spa	ni siquiera	adv
 	epo	eĉ ne iomete da	pr	spa	ni un ápice de	pr
@@ -32042,7 +32042,7 @@ RL	epo	Nov-Jorko	np-loc	spa	New York	np$np-loc$np-loc-f
 	epo	Nicolau	np-ant$np	spa	Nicolau	np$np-ant
 	epo	Nicole	np-ant$np	spa	Nicole	np$np-ant
 	epo	Nicolàs	np-ant	spa	Nicolàs	np$np-ant
-LR	epo	Nikolao	np-ant$$np	spa	Nicolás	np-ant$np$np-ant-m-sg
+LR	epo	Nikolao	np-ant$np	spa	Nicolás	np-ant$np$np-ant-m-sg
 	epo	Nicolás	np-ant	spa	Nicolás	np-ant$np$np-ant-m-sg
 	epo	Nikozio	np-loc	spa	Nicosia	np$np-loc$np-loc-f
 	epo	nikotino	n	spa	nicotina	n$n-f$n-f-ND
@@ -32135,7 +32135,7 @@ LR	epo	knabo	n-m-pl	spa	niño	n-m-pl
 	epo	Niño	np-cog$np-cog-mf	spa	Niño	np-cog
 	epo	NKSJ	np-al	spa	NKSJ	np-al-mf
 	epo	NKSJ Holdings	np-al	spa	NKSJ Holdings	np-al-mf
-	epo	ne	adv	spa	no	adv$
+	epo	ne	adv$	spa	no	adv$
 	epo	neengaĝiteco	n	spa	no alineación	n-f
 	epo	neengaĝita	adj	spa	no alineado	adj
 	epo	nekulpeco	n	spa	no culpabilidad	n-f
@@ -32378,10 +32378,10 @@ LR	epo	koramiko	n$n-f	spa	novio	n$n-m$n-m-ND
 	epo	Noè	np-cog$np-cog-mf	spa	Noè	np-cog
 	epo	Noè	np-ant	spa	Noè	np-ant
 	epo	Noèlia	np-ant	spa	Noèlia	np$np-ant
-LR	epo	Noaĥo	np-ant	spa	Noé	np-ant$np-ant-m$np-ant-m-sg
-	epo	Noa	np-ant$np	spa	Noé	np-ant$np-ant-m$np-ant-m-sg
+LR	epo	Noaĥo	np$np-ant	spa	Noé	np-ant$np-ant-m-sg
+	epo	Noa	np-ant$np	spa	Noé	np-ant$np-ant-m-sg
 	epo	Noé	np-cog$np-cog-mf	spa	Noé	np-cog
-LR	epo	Noé	np-ant	spa	Noé	np-ant$np-ant-m$np-ant-m-sg
+LR	epo	Noé	np-ant	spa	Noé	np-ant$np-ant-m-sg
 	epo	Noël	np-cog$np-cog-mf	spa	Noël	np-cog
 	epo	Nualart	np-cog$np-cog-mf	spa	Nualart	np-cog
 	epo	nubego	n	spa	nubarrón	n$n-m
@@ -32402,7 +32402,7 @@ LR	epo	nuklee	adv	spa	nuclearmente	adv
 	epo	nudisto	n	spa	nudista	n
 LR	epo	nudista	adj	spa	nudista	adj$adj-mf$adj-mf-sg
 	epo	nudisma	adj	spa	nudista	adj$adj-mf$adj-mf-sg
-	epo	nodo	n	spa	nudo	n$n-m$n-m-ND
+	epo	nodo	n	spa	nudo	n-m$n$n-m-ND
 	epo	Nudo	np-cog$np-cog-mf	spa	Nudo	np-cog
 	epo	Nueno	np-loc	spa	Nueno	np-loc-f
 	epo	bofilo	n$n-f	spa	nuera	n$n-f
@@ -32416,7 +32416,7 @@ LR	epo	nudista	adj	spa	nudista	adj$adj-mf$adj-mf-sg
 	epo	Nov-Jorko	np-loc	spa	Nueva York	np$np-loc$np-loc-f
 	epo	Nov-Zelando	np-loc$np	spa	Nueva Zelanda	np$np-loc$np-loc-f
 	epo	denove	adv	spa	nuevamente	adv
-	epo	naŭ	num$	spa	nueve	num$$num-mf-sp
+	epo	naŭ	$n	spa	nueve	num$$num-mf-sp
 	epo	nova	adj	spa	nuevo	adj$adj-GD-ND
 	epo	Nuevo	np-cog$np-cog-mf	spa	Nuevo	np-cog
 	epo	Nuevo Baztán	np-loc	spa	Nuevo Baztán	np-loc-f
@@ -32703,7 +32703,7 @@ LR	epo	okupacianto	n	spa	ocupante	n-mf$n
 	epo	spritaĵo	n	spa	ocurrencia	n$n-f$n-f-ND
 	epo	okazi	vbser	spa	ocurrir	vblex
 	epo	sukcesi	vbntr	spa	ocurrir	vblex
-	epo	oceano	n	spa	océano	n$n-m$n-m-sg
+	epo	oceano	n	spa	océano	n-m$n$n-m-sg
 	epo	Atlantiko	np-loc$np	spa	océano Atlántico	np$np-loc-m
 	epo	Pacifiko	np-loc$np	spa	océano Pacífico	np-loc-m
 	epo	Hinda Oceano	np-loc$np	spa	océano Índico	np-loc-m
@@ -32734,7 +32734,7 @@ LR	epo	ataka	adj	spa	ofensivo	adj$adj-GD$adj-GD-ND
 RL	epo	propono	n	spa	oferta	n$n-f$n-f-ND
 	epo	oferti	vblex	spa	ofertar	vblex
 	epo	ofseto	n	spa	offset	n-m$n
-	epo	oficiala	adj	spa	oficial	adj$adj-mf$adj-mf-pl
+	epo	oficiala	adj	spa	oficial	adj-mf$adj$adj-mf-pl
 LR	epo	oficialulo	n	spa	oficial	n-mf$n$n-mf-ND
 	epo	oficiro	n	spa	oficial	n-mf$n$n-mf-ND
 	epo	registarismo	n	spa	oficialismo	n-m
@@ -32897,7 +32897,7 @@ LR	epo	olivujo	n	spa	olivo	n-m$n$n-m-ND
 	epo	Oliván	np-cog$np-cog-mf	spa	Oliván	np-cog
 	epo	Olivé	np-cog$np-cog-mf	spa	Olivé	np-cog
 	epo	Olivés	np-cog$np-cog-mf	spa	Olivés	np-cog
-	epo	marmito	n	spa	olla	n$n-f
+	epo	marmito	n	spa	olla	n-f$n
 	epo	olapodrido	n	spa	olla podrida	n-f
 	epo	Ollanta	np-ant	spa	Ollanta	np-ant-m$np-ant
 	epo	Ollauri	np-loc	spa	Ollauri	np-loc-f
@@ -33212,7 +33212,7 @@ LR	epo	originale	adv	spa	originalmente	adv
 	epo	devenanta	adj	spa	oriundo	adj$adj-m$adj-m-sg
 	epo	Orive	np-cog$np-cog-mf	spa	Orive	np-cog
 	epo	Orivé	np-cog$np-cog-mf	spa	Orivé	np-cog
-	epo	Oriono	np-loc$np	spa	Orión	np-loc-m
+	epo	Oriono	np$np-loc	spa	Orión	np-loc-m
 	epo	Orkoien	np-loc	spa	Orkoien	np-loc-f
 	epo	Orlando	np-cog$np-cog-mf	spa	Orlando	np-cog
 	epo	borderi	vbtr	spa	orlar	vblex
@@ -33312,8 +33312,8 @@ LR	epo	ortodoksismo	n	spa	ortodoxia	n$n-f
 	epo	Os Blancos	np-loc	spa	Os Blancos	np$np-loc-f
 	epo	Os de Balaguer	np-loc	spa	Os de Balaguer	np$np-loc-f
 	epo	Osa de la Vega	np-loc	spa	Osa de la Vega	np$np-loc-f
-	epo	Granda Ursino	np-loc$np	spa	Osa Mayor	np$np-loc-m
-	epo	Malgranda Ursino	np-loc	spa	Osa Menor	np$np-loc-m
+	epo	Granda Ursino	np$np-loc	spa	Osa Mayor	np$np-loc-m
+	epo	Malgranda Ursino	np-loc$np	spa	Osa Menor	np$np-loc-m
 	epo	aŭdace	adv	spa	osadamente	adv
 	epo	aŭdaca	adj	spa	osado	adj
 	epo	aŭdaco	n	spa	osadía	n$n-f$n-f-ND
@@ -33371,7 +33371,7 @@ RL	epo	elmontri	vbtr	spa	ostentar	vblex
 	epo	Osés	np-cog$np-cog-mf	spa	Osés	np$np-cog
 	epo	Ot	np-ant	spa	Ot	np-ant
 	epo	Otal	np-cog$np-cog-mf	spa	Otal	np-cog
-	epo	NATO	n-acr$n	spa	OTAN	n-acr-f$n$n-acr$n-acr-f-sg
+	epo	NATO	n-acr	spa	OTAN	n-acr-f$n$n-acr$n-acr-f-sg
 	epo	Oteiza	np-loc	spa	Oteiza	np$np-loc-f
 	epo	Otero	np-cog$np-cog-mf	spa	Otero	np$np-cog$np-cog-mf
 	epo	Otero	np-loc	spa	Otero	np-loc-f
@@ -33389,7 +33389,7 @@ RL	epo	doni	vbtr	spa	otorgar	vblex
 	epo	aŭtuna	adj	spa	otoñal	adj-mf$adj$adj-mf-sg
 	epo	aŭtuno	n	spa	otoño	n-m$n$n-m-sg
 	epo	alie	adv	spa	otramente	adv
-	epo	alia	det$det-ind	spa	otro	det-ind-m-sg$det-ind$det$det-ind-m
+	epo	alia	det$det-ind	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m
 	epo	alia	adj	spa	otro	adj$adj-ind-GD$adj-ind$adj-ind-GD-pl
 	epo	alia	prn$prn-tn$prn-tn-sg$prn-tn-sg-nom	spa	otro	prn$prn-tn$prn-tn-m-sg$prn-tn-m
 RL	epo	alia vojo	n-sg	spa	otros derroteros	n-m-pl
@@ -33464,8 +33464,8 @@ LR	epo	oksidigi	vbtr	spa	oxidar	vblex
 	epo	Oñate	np-cog$np-cog-mf	spa	Oñate	np$np-cog$np-cog-mf
 	epo	Oñati	np-loc	spa	Oñati	np$np-loc-f
 	epo	pavilono	n	spa	pabellón	n$n-m$n-m-sg
-LR	epo	Paŭlo	np-ant$np	spa	Pablo	np-ant$np$np-ant-m$np-ant-m-sg
-	epo	Pablo	np-ant	spa	Pablo	np-ant$np$np-ant-m$np-ant-m-sg
+LR	epo	Paŭlo	np-ant$np	spa	Pablo	np-ant$np$np-ant-m-sg
+	epo	Pablo	np-ant	spa	Pablo	np-ant$np$np-ant-m-sg
 	epo	Pablo	np-cog$np-cog-mf	spa	Pablo	np-cog
 	epo	Pablos	np-cog$np-cog-mf	spa	Pablos	np-cog
 	epo	Pace	np-cog$np-cog-mf	spa	Pace	np-cog
@@ -33508,7 +33508,7 @@ LR	epo	pacifista	adj	spa	pacifista	adj$adj-mf-sg$adj-mf
 LR	epo	geduonpatroj	n-pl	spa	padrastro	n-m$n$n-m-pl
 	epo	duonpatro	n-m	spa	padrastro	n-m$n$n-m-pl
 	epo	duonpatro	n$n-f	spa	padrastro	n-m$n$n-m-pl
-	epo	gepatroj	n-pl$n	spa	padre	n-m-pl
+	epo	gepatroj	n$n-pl	spa	padre	n-m-pl
 	epo	patro	n$n-m	spa	padre	n$n-m$n-m-sg
 	epo	Padrenda	np-loc	spa	Padrenda	np$np-loc-f
 	epo	baptopatro	n-m	spa	padrino	n-m$n
@@ -33718,8 +33718,8 @@ LR	epo	pufmaizo	n	spa	palomitas	n-f
 	epo	pano	n	spa	pan	n-m$n$n-m-ND
 	epo	Pan	np-cog-mf$np-cog	spa	Pan	np-cog
 	epo	branpano	n	spa	pan integral	n-m
-	epo	kordurojo	n	spa	pana	n-f$n
-	epo	paneo	n	spa	pana	n-f$n
+	epo	kordurojo	n	spa	pana	n$n-f
+	epo	paneo	n	spa	pana	n$n-f
 	epo	panaceo	n	spa	panacea	n$n-f
 	epo	panisto	n	spa	panadero	n$n-m
 	epo	Panadero	np-cog$np-cog-mf	spa	Panadero	np-cog
@@ -33909,7 +33909,7 @@ LR	epo	griza	adj	spa	pardo	adj$adj-f
 	epo	Pardos	np-loc	spa	Pardos	np-loc-f
 LR	epo	simili	vbtr	spa	parecer	vbser
 	epo	ŝajni	vbser	spa	parecer	vbser
-	epo	aspekti	vbser	spa	parecer	vblex$
+	epo	aspekti	vbser	spa	parecer	vblex$$vblex-pron
 	epo	simile	adv	spa	parecidamente	adv
 	epo	simila	adj	spa	parecido	adj$adj-GD
 	epo	muro	n	spa	pared	n-f$n$n-f-sg
@@ -34052,7 +34052,7 @@ LR	epo	partikulo	n	spa	partícula	n-f$n$n-f-ND
 	epo	parabolo	n	spa	parábola	n$n-f
 	epo	paralizo	n	spa	parálisis	n-f-sp$n-f$n
 	epo	parametro	n	spa	parámetro	n$n-m$n-m-sg
-	epo	parazito	n	spa	parásito	n$n-m$n-m-sg
+	epo	parazito	n	spa	parásito	n-m$n$n-m-sg
 	epo	Paré	np-cog-mf$np-cog	spa	Paré	np-cog
 	epo	krampo	n	spa	paréntesis	n-m-sp$n-m$n
 LR	epo	parentezo	n	spa	paréntesis	n-m-sp$n-m$n
@@ -34247,7 +34247,7 @@ LR	epo	laŭgrada	adj	spa	paulatino	adj$adj-m$adj-m-sg
 	epo	Paulin	np-cog$np-cog-mf	spa	Paulin	np-cog
 	epo	Paulina	np-ant	spa	Paulina	np-ant$np
 	epo	Paulino	np-cog$np-cog-mf	spa	Paulino	np-cog
-	epo	Paulo	np-ant	spa	Paulo	np$np-ant$np-ant-m
+	epo	Paulo	np-ant	spa	Paulo	np$np-ant
 	epo	paŭzo	n	spa	pausa	n$n-f$n-f-ND
 	epo	liniaro	n	spa	pauta	n$n-f$n-f-sg
 	epo	Pauzé	np-cog$np-cog-mf	spa	Pauzé	np-cog
@@ -34370,8 +34370,8 @@ LR	epo	pederastieco	n	spa	pederastia	n$n-f
 	epo	Pedret i Marzà	np-loc	spa	Pedret i Marzà	np$np-loc-f
 	epo	Pedrezuela	np-loc	spa	Pedrezuela	np-loc-f
 	epo	Pedreño	np-cog$np-cog-mf	spa	Pedreño	np$np-cog
-LR	epo	Petro	np-ant	spa	Pedro	np$np-ant$np-ant-m$np-ant-m-sg
-	epo	Pedro	np-ant	spa	Pedro	np$np-ant$np-ant-m$np-ant-m-sg
+LR	epo	Petro	np-ant	spa	Pedro	np$np-ant$np-ant-m-sg
+	epo	Pedro	np-ant	spa	Pedro	np$np-ant$np-ant-m-sg
 	epo	Pedro	np-cog$np-cog-mf	spa	Pedro	np-cog
 	epo	Pedro Abad	np-loc	spa	Pedro Abad	np-loc-f
 	epo	Pedro Bernardo	np-loc	spa	Pedro Bernardo	np-loc-f
@@ -34400,9 +34400,9 @@ LR	epo	Petro	np-ant	spa	Pedro	np$np-ant$np-ant-m$np-ant-m-sg
 	epo	Peeters	np-cog$np-cog-mf	spa	Peeters	np-cog
 	epo	Pegalajar	np-loc	spa	Pegalajar	np-loc-f
 	epo	gluaĵo	n	spa	pegamento	n-m$n$n-m-sg
-	epo	bati	vbtr_ntr	spa	pegar	vblex
-LR	epo	glui	vbtr	spa	pegar	vblex
-	epo	afiŝi	vblex	spa	pegar	vblex
+	epo	bati	vbtr_ntr	spa	pegar	vblex$vblex-pron
+LR	epo	glui	vbtr	spa	pegar	vblex$vblex-pron
+	epo	afiŝi	vblex	spa	pegar	vblex$vblex-pron
 	epo	Pegazo	np-loc	spa	Pegaso	np-loc-m
 	epo	gluetikedo	n	spa	pegatina	n-f
 	epo	Pego	np-loc	spa	Pego	np$np-loc-f
@@ -34414,8 +34414,8 @@ LR	epo	glui	vbtr	spa	pegar	vblex
 	epo	Peig	np-cog$np-cog-mf	spa	Peig	np-cog
 	epo	Peinado	np-cog$np-cog-mf	spa	Peinado	np$np-cog
 	epo	kombi	vbtr	spa	peinar	vblex
-	epo	kombilo	n	spa	peine	n$n-m$n-m-sg
-	epo	diraka kombilo	n	spa	peine	n$n-m$n-m-sg
+	epo	kombilo	n	spa	peine	n-m$n$n-m-sg
+	epo	diraka kombilo	n	spa	peine	n-m$n$n-m-sg
 	epo	Peiró	np-cog$np-cog-mf	spa	Peiró	np$np-cog
 	epo	Peix	np-cog$np-cog-mf	spa	Peix	np-cog
 	epo	Pekino	np-loc	spa	Pekín	np$np-loc$np-loc-m
@@ -34511,7 +34511,7 @@ RL	epo	puni	vbtr	spa	penar	vblex
 	epo	flanko	n	spa	pendiente	n-f$n$n-f-sg
 	epo	pritraktata	adj	spa	pendiente	adj-mf$adj$adj-mf-sg
 	epo	pritraktate	adv	spa	pendientemente	adv
-	epo	peniso	n	spa	pene	n-m$n-m-ND$n
+	epo	peniso	n	spa	pene	n-m$n$n-m-ND
 	epo	Penella	np-cog$np-cog-mf	spa	Penella	np$np-cog
 	epo	Penelles	np-loc	spa	Penelles	np$np-loc-f
 	epo	penetreblo	n	spa	penetrabilidad	n-f$n
@@ -34568,7 +34568,7 @@ LR	epo	kvinlatero	n	spa	pentágono	n-m$n$n-m-sg
 RL	epo	suĉilo	n	spa	pepe	n-m
 	epo	Pepe	np-cog$np-cog-mf	spa	Pepe	np-cog
 	epo	Pepe	np-ant	spa	Pepe	np$np-ant
-	epo	kukumo	n	spa	pepino	n$n-m$n-m-pl
+	epo	kukumo	n	spa	pepino	n-m$n$n-m-pl
 	epo	Pepino	np-loc	spa	Pepino	np-loc-f
 	epo	grajno	n	spa	pepita	n$n-f$n-f-ND
 	epo	PepsiCo	np-al	spa	PepsiCo	np-al-mf
@@ -35059,7 +35059,7 @@ RL	epo	akrigilo	n	spa	piedra	n-f$n$n-f-sg
 	epo	furaĝo	n	spa	pienso	n$n-m
 	epo	Piera	np-cog$np-cog-mf	spa	Piera	np-cog
 	epo	Piera	np-loc	spa	Piera	np-loc-f
-	epo	kruro	n	spa	pierna	n$n-f$n-f-ND
+	epo	kruro	n	spa	pierna	n-f$n$n-f-ND
 	epo	Piero	np-ant	spa	Piero	np-ant
 	epo	Pierre	np-cog$np-cog-mf	spa	Pierre	np-cog
 	epo	Pierrelouis	np-cog$np-cog-mf	spa	Pierrelouis	np-cog
@@ -35083,7 +35083,7 @@ RL	epo	akrigilo	n	spa	piedra	n-f$n$n-f-sg
 	epo	pilo	n	spa	pila	n-f$n$n-f-ND
 LR	epo	stako	n	spa	pila	n-f$n$n-f-ND
 	epo	kolono	n	spa	pilar	n$n-m
-	epo	Pilar	np-ant	spa	Pilar	np$np-ant$np-ant-f
+	epo	Pilar	np-ant	spa	Pilar	np$np-ant
 	epo	Pilar de la Horadada	np-loc	spa	Pilar de la Horadada	np$np-loc-f
 	epo	Pilas	np-loc	spa	Pilas	np-loc-f
 RL	epo	pilĉardo	n	spa	pilchard	n-m
@@ -35191,7 +35191,7 @@ LR	epo	tenajlo	n	spa	pinzas	n-f$n
 	epo	spajro	n	spa	pináculo	n$n-m
 	epo	Pinós	np-cog$np-cog-mf	spa	Pinós	np$np-cog
 	epo	Pinós	np-loc	spa	Pinós	np-loc-f
-	epo	pediko	n	spa	piojo	n$n-m
+	epo	pediko	n	spa	piojo	n-m$n
 	epo	Pion	np-cog$np-cog-mf	spa	Pion	np-cog
 	epo	pionire	adv	spa	pioneramente	adv
 	epo	pioniro	n	spa	pionero	n$n-m$n-m-sg
@@ -35221,7 +35221,7 @@ RL	epo	piratado	n	spa	pirateo	n-m
 	epo	piratado	n	spa	piratería	n$n-f$n-f-sg
 	epo	pirenea	adj	spa	pirenaico	adj$adj-GD-ND
 	epo	Pires	np-cog-mf$np-cog	spa	Pires	np$np-cog
-RL	epo	Pireneoj	np-loc-pl$np-loc	spa	Pirineo	np-loc$np$np-loc-m-sg
+RL	epo	Pireneoj	np-loc-pl$np-loc	spa	Pirineo	np$np-loc$np-loc-m-sg
 	epo	Pireneoj	np-loc-pl$np-loc	spa	Pirineos	np$np-loc$np-loc-m$np-loc-m-pl
 	epo	Piris	np-cog$np-cog-mf	spa	Piris	np-cog
 	epo	Piriz	np-cog$np-cog-mf	spa	Piriz	np-cog
@@ -35398,7 +35398,7 @@ RL	epo	babili	vbtr_ntr	spa	platicar	vblex
 	epo	Platja d'Aro	np-loc	spa	Platja d'Aro	np-loc-f
 	epo	telero	n	spa	plato	n-m$n$n-m-ND
 	epo	pozejo	n	spa	plató	n$n-m
-	epo	Platono	$np-ant$np$np-ant-m	spa	Platón	np$np-ant$np-ant-m
+	epo	Platono	np-ant$np$np-ant-m	spa	Platón	np$np-ant$np-ant-m
 	epo	platone	adv	spa	platónicamente	adv
 	epo	platona	adj	spa	platónico	adj$adj-m-sg
 	epo	strando	n	spa	playa	n$n-f$n-f-sg
@@ -35537,7 +35537,7 @@ RL	epo	potenco	n	spa	poderío	n$n-m
 	epo	podio	n	spa	podio	n$n-m$n-m-ND
 	epo	putre	adv	spa	podridamente	adv
 	epo	putra	adj	spa	podrido	adj$adj-m$adj-m-sg
-	epo	poemo	n	spa	poema	n$n-m$n-m-ND
+	epo	poemo	n	spa	poema	n-m$n$n-m-ND
 	epo	poezio	n	spa	poesía	n$n-f$n-f-sg
 	epo	poeto	n	spa	poeta	n-mf$n$n-mf-ND
 	epo	Poio	np-loc	spa	Poio	np-loc-f
@@ -35628,7 +35628,7 @@ LR	epo	kokidino	n	spa	polla	n$n-f
 	epo	Pollos	np-loc	spa	Pollos	np-loc-f
 	epo	poluso	n	spa	polo	n-m$n$n-m-ND
 	epo	Polo	np-cog$np-cog-mf	spa	Polo	np-cog
-	epo	Pollando	np-loc$np	spa	Polonia	np$np-loc$np-loc-f
+	epo	Pollando	np$np-loc	spa	Polonia	np$np-loc$np-loc-f
 	epo	polonio	n	spa	polonio	n$n-m
 	epo	Polonio	np-cog$np-cog-mf	spa	Polonio	np-cog
 	epo	polo	n	spa	polonés	n
@@ -35654,7 +35654,7 @@ RL	epo	poligloto	n	spa	polígloto	n
 RL	epo	poliglota	adj	spa	polígloto	adj
 	epo	plurangulo	n	spa	polígono	n-m$n$n-m-sg
 	epo	polimero	n	spa	polímero	n$n-m$n-m-sg
-	epo	politiko	n	spa	política	n$n-f$n-f-sg
+	epo	politiko	n	spa	política	n-f$n$n-f-sg
 	epo	politike	adv	spa	políticamente	adv
 	epo	politikisto	n$n-m	spa	político	n$n-GD
 	epo	politika	adj	spa	político	adj$adj-GD$adj-GD-ND
@@ -35962,7 +35962,7 @@ RL	epo	estonteco	n	spa	porvenir	n$n-m$n-m-ND
 	epo	Porzuna	np-loc	spa	Porzuna	np-loc-f
 	epo	post	adj	spa	pos	adj
 RL	epo	post	adj	spa	pos-	adj
-	epo	gastejo	n	spa	posada	n$n-f
+	epo	gastejo	n	spa	posada	n-f$n
 	epo	Posada	np-cog$np-cog-mf	spa	Posada	np-cog
 	epo	Posada de Valdeón	np-loc	spa	Posada de Valdeón	np$np-loc-f
 	epo	Posadas	np-loc	spa	Posadas	np-loc-f
@@ -36279,7 +36279,7 @@ LR	epo	antaŭafikso	n	spa	prefijo	n-m$n
 	epo	anoncisto	n	spa	pregonero	n
 LR	epo	antaŭmilita tempo	n	spa	preguerra	n-f
 	epo	antaŭmilita periodo	n	spa	preguerra	n-f
-	epo	demando	n	spa	pregunta	n$n-f$n-f-ND
+	epo	demando	n	spa	pregunta	n-f$n$n-f-ND
 	epo	demandi	vbtr	spa	preguntar	vblex$vblex-inf
 	epo	demandi	vbntr	spa	preguntarse	vblex$vblex-pron
 	epo	malferma parolado	n	spa	pregón	n-m$n$n-m-pl
@@ -37195,7 +37195,7 @@ LR	epo	preciziĝo	n	spa	puntualización	n$n-f
 	epo	pika	adj	spa	punzante	adj$adj-mf$adj-mf-sg
 	epo	pustulo	n	spa	pupa	n$n-f
 LR	epo	pupo	n	spa	pupa	n$n-f
-	epo	pupilo	n	spa	pupila	n$n-f$n-f-ND
+	epo	pupilo	n	spa	pupila	n-f$n$n-f-ND
 	epo	pupitro	n	spa	pupitre	n-m$n
 	epo	simple nur	adv	spa	puramente	adv
 	epo	Puras	np-loc	spa	Puras	np-loc-f
@@ -37245,7 +37245,7 @@ LR	epo	malboniĝo	n	spa	putrefacción	n$n-f
 	epo	Pálmaces de Jadraque	np-loc	spa	Pálmaces de Jadraque	np-loc-f
 	epo	pankreato	n	spa	páncreas	n-m$n-m-sp$n
 	epo	paniko	n	spa	pánico	n$n-m$n-m-ND
-	epo	dezerta ebenaĵo	n	spa	páramo	n$n-m
+	epo	dezerta ebenaĵo	n	spa	páramo	n-m$n
 	epo	Páramo de Boedo	np-loc	spa	Páramo de Boedo	np-loc-f
 	epo	Páramo del Sil	np-loc	spa	Páramo del Sil	np$np-loc-f
 	epo	palpebro	n	spa	párpado	n-m$n$n-m-ND
@@ -37508,7 +37508,7 @@ LR	epo	ĥitino	n	spa	quitina	n-f$n
 	epo	Kito	np-loc	spa	Quito	np$np-loc$np-loc-m
 	epo	eble	adv	spa	quizá	adv
 	epo	eble	adv	spa	quizás	adv
-	epo	kiu	prn$prn-itg	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg
+	epo	kiu	prn$prn-itg	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg
 	epo	Quiñonero	np-cog$np-cog-mf	spa	Quiñonero	np-cog
 	epo	Quiñonería	np-loc	spa	Quiñonería	np-loc-f
 	epo	Quiñones	np-cog$np-cog-mf	spa	Quiñones	np-cog
@@ -37748,7 +37748,7 @@ LR	epo	rabobirdo	n	spa	rapaz	n-f$n
 	epo	rapideco	n	spa	rapidez	n$n-f$n-f-ND
 	epo	Raposo	np-cog-mf$np-cog	spa	Raposo	np$np-cog
 	epo	aedo	n	spa	rapsoda	n$n-m
-	epo	Raquel	np-ant$np	spa	Raquel	np$np-ant$np-ant-f$np-ant-f-sg
+	epo	Raquel	np-ant$np	spa	Raquel	np$np-ant$np-ant-f-sg
 	epo	Raquepas	np-cog$np-cog-mf	spa	Raquepas	np-cog
 	epo	rakio	n	spa	raquis	n$n-m
 	epo	malofte	adv	spa	raramente	adv
@@ -37910,7 +37910,7 @@ LR	epo	reflamigi	vbtr	spa	reavivar	vblex
 LR	epo	rebapti	vbtr	spa	rebautizar	vblex
 	epo	renomi	vbtr	spa	rebautizar	vblex
 	epo	grego	n	spa	rebaño	n-m$n$n-m-ND
-	epo	Rebeca	np-ant	spa	Rebeca	np$np-ant$np-ant-f
+	epo	Rebeca	np-ant	spa	Rebeca	np$np-ant
 	epo	ĉamo	n	spa	rebeco	n$n-m
 	epo	ribeli	vbntr	spa	rebelar	vblex
 	epo	ribelulo	n	spa	rebelde	n$n-mf$n-mf-ND
@@ -38338,7 +38338,7 @@ LR	epo	reenplanti	vblex	spa	reimplantar	vblex
 	epo	reenkonduki	vbtr	spa	reimplantar	vblex
 	epo	represo	n	spa	reimpresión	n$n-f
 	epo	represi	vbtr	spa	reimprimir	vblex
-	epo	reĝino	n	spa	reina	n$n-f$
+	epo	reĝino	n	spa	reina	n-f$n$
 	epo	Reina	np-cog$np-cog-mf	spa	Reina	np-cog
 	epo	Reina	np-loc	spa	Reina	np-loc-f
 	epo	reĝado	n	spa	reinado	n-m$n
@@ -38907,10 +38907,10 @@ LR	epo	retroira	adj	spa	retrógrado	adj$adj-m-sg
 	epo	reunuiĝo	n	spa	reunificación	n$n-f$n-f-sg
 LR	epo	reunuigo	n	spa	reunificación	n$n-f$n-f-sg
 	epo	reunuigi	vbtr	spa	reunificar	vblex
-	epo	kunveni	vbntr	spa	reunir	vblex
-LR	epo	kunvenigi	vbtr	spa	reunir	vblex
-LR	epo	kunigi	vbtr	spa	reunir	vblex
-RL	epo	kunigi	vbtr	spa	reunir	vblex
+	epo	kunveni	vbntr	spa	reunir	vblex$vblex-pron
+LR	epo	kunvenigi	vbtr	spa	reunir	vblex$vblex-pron
+LR	epo	kunigi	vbtr	spa	reunir	vblex$vblex-pron
+RL	epo	kunigi	vbtr	spa	reunir	vblex$vblex-pron
 	epo	kunveno	n	spa	reunión	n$n-f$n-f-ND
 	epo	Reus	np-cog$np-cog-mf	spa	Reus	np$np-cog
 	epo	Reus	np-loc	spa	Reus	np-loc$np-loc-f
@@ -39126,7 +39126,7 @@ LR	epo	rigora	adj	spa	riguroso	adj$adj-GD-ND
 	epo	Rimbau	np-cog$np-cog-mf	spa	Rimbau	np-cog
 	epo	bombasta	adj	spa	rimbombante	adj
 	epo	bombaste	adv	spa	rimbombantemente	adv
-	epo	Rejno	np-loc$np	spa	Rin	np$np-loc-m
+	epo	Rejno	np$np-loc	spa	Rin	np$np-loc-m
 	epo	Rinaldi	np-cog$np-cog-mf	spa	Rinaldi	np-cog
 	epo	angulo	n	spa	rincón	n-m$n$n-m-ND
 	epo	Rincón	np-cog$np-cog-mf	spa	Rincón	np$np-cog
@@ -39346,7 +39346,7 @@ LR	epo	rokenrola	adj	spa	rockero	adj
 	epo	Rodezno	np-loc	spa	Rodezno	np-loc-f
 	epo	Rodgers	np-cog$np-cog-mf	spa	Rodgers	np-cog
 	epo	Rodier	np-cog$np-cog-mf	spa	Rodier	np-cog
-	epo	genuo	n	spa	rodilla	n-f$n-f-sg$n
+	epo	genuo	n	spa	rodilla	n-f$n$n-f-sg
 	epo	rulo	n	spa	rodillo	n$n-m
 	epo	Rodin	np-cog$np-cog-mf	spa	Rodin	np-cog
 	epo	rodio	n	spa	rodio	n-m
@@ -39561,7 +39561,7 @@ RL	epo	ĵurnalo	n	spa	rotativo	n-m$n
 	epo	trafikcirklo	n	spa	rotonda	n$n-f
 	epo	Rotondo	np-cog$np-cog-mf	spa	Rotondo	np-cog
 	epo	Rottenberg	np-cog$np-cog-mf	spa	Rottenberg	np-cog
-	epo	Roterdamo	np-loc	spa	Rotterdam	np$np-loc-m
+	epo	Roterdamo	np-loc$np	spa	Rotterdam	np$np-loc-m
 	epo	feltkrajono	n	spa	rotulador	n$n-m
 	epo	etikedi	vblex	spa	rotular	vblex
 	epo	kategorie	adv	spa	rotundamente	adv
@@ -39645,7 +39645,7 @@ RL	epo	enkursigilo	n	spa	router	n-m
 	epo	hontruĝo	n	spa	rubor	n-m$n
 RL	epo	subskribi	vbtr	spa	rubricar	vblex
 	epo	Rubèn	np-ant	spa	Rubèn	np$np-ant
-	epo	Rubén	np-ant	spa	Rubén	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Rubén	np-ant	spa	Rubén	np$np-ant$np-ant-m-sg
 	epo	rubeno	n	spa	rubí	n-m$n
 	epo	Rubí	np-cog$np-cog-mf	spa	Rubí	np-cog
 	epo	Rubí	np-loc	spa	Rubí	np-loc$np-loc-f
@@ -39705,8 +39705,8 @@ RL	epo	kaduka	adj	spa	ruinoso	adj$adj-m-sg
 	epo	famo	n	spa	rumor	n-m$n$n-m-ND
 	epo	klaĉo	n	spa	rumor	n-m$n$n-m-ND
 	epo	disfamigi	vbtr	spa	rumorear	vblex
-	epo	rubo	n$n-sg	spa	runa	n$n-f
-	epo	runo	n	spa	runa	n$n-f
+	epo	rubo	n$n-sg	spa	runa	n-f$n
+	epo	runo	n	spa	runa	n-f$n
 	epo	Rupert	np-cog$np-cog-mf	spa	Rupert	np$np-cog
 	epo	Ruperthouse	np-cog$np-cog-mf	spa	Ruperthouse	np-cog
 	epo	surroka	adj	spa	rupestre	adj$adj-mf-sg$adj-mf
@@ -39732,7 +39732,7 @@ LR	epo	ruso	n	spa	ruso	n$n-GD
 	epo	Russell	np-cog$np-cog-mf	spa	Russell	np-cog
 	epo	Russo	np-cog$np-cog-mf	spa	Russo	np$np-cog
 	epo	Rusu	np-cog$np-cog-mf	spa	Rusu	np-cog
-	epo	Rut	np-ant	spa	Rut	np-ant$np-ant-f
+	epo	Rut	np-ant	spa	Rut	np-ant
 RL	epo	itinero	n	spa	ruta	n$n-f$n-f-sg
 	epo	Rute	np-loc	spa	Rute	np-loc-f
 	epo	rutenio	n	spa	rutenio	n$n-m
@@ -39751,8 +39751,8 @@ RL	epo	itinero	n	spa	ruta	n$n-f$n-f-sg
 	epo	Ràmia	np-cog$np-cog-mf	spa	Ràmia	np-cog
 	epo	Rània	np-ant	spa	Rània	np-ant
 	epo	Rábade	np-loc	spa	Rábade	np$np-loc-f
-	epo	rafano	n	spa	rábano	n$n-m
-LR	epo	rafaneto	n	spa	rábano	n$n-m
+	epo	rafano	n	spa	rábano	n-m$n
+LR	epo	rafaneto	n	spa	rábano	n-m$n
 	epo	Rábano	np-loc	spa	Rábano	np$np-loc-f
 	epo	Rábano de Aliste	np-loc	spa	Rábano de Aliste	np-loc-f
 	epo	Rábanos	np-loc	spa	Rábanos	np-loc-f
@@ -39791,7 +39791,7 @@ RL	epo	Uralo	np-loc$np-loc-sg	spa	río Ural	np-loc-m
 	epo	ritme	adv	spa	rítmicamente	adv
 	epo	ritma	adj	spa	rítmico	adj$adj-m-sg
 	epo	Ródenas	np-loc	spa	Ródenas	np$np-loc-f
-	epo	Roterdamo	np-loc	spa	Róterdam	np-loc-f
+	epo	Roterdamo	np-loc$np	spa	Róterdam	np-loc-f
 	epo	Rótova	np-loc	spa	Rótova	np$np-loc-f
 	epo	patelo	n	spa	rótula	n$n-f
 	epo	afiŝo	n	spa	rótulo	n-m$n
@@ -40172,7 +40172,7 @@ LR	epo	escepte de	pr	spa	salvo	pr
 	epo	samnito	n	spa	samnita	n-f
 	epo	Samoo	np$np-loc	spa	Samoa	np-loc-f
 	epo	Samoisette	np-cog$np-cog-mf	spa	Samoisette	np-cog
-	epo	Samos	np-loc	spa	Samos	np$np-loc-f
+	epo	Samos	np-loc	spa	Samos	np-loc-f
 	epo	Sampedro	np-cog$np-cog-mf	spa	Sampedro	np$np-cog
 	epo	Samper	np-cog$np-cog-mf	spa	Samper	np$np-cog
 	epo	Samper de Calanda	np-loc	spa	Samper de Calanda	np-loc-f
@@ -40718,7 +40718,7 @@ RL	epo	Sankta Skribo	np-al-sp$np$np-al	spa	Santas Escrituras	n-f-pl
 	epo	Santi	np-ant	spa	Santi	np$np-ant
 	epo	Santiago	np-ant$np	spa	Santiago	np$np-ant$np-ant-m$np-ant-m-sg
 	epo	Santiago	np-cog-mf$np-cog	spa	Santiago	np-cog
-	epo	Santiago	np-loc	spa	Santiago	np-loc$np-loc-m
+	epo	Santiago	np-loc	spa	Santiago	np-m$np-loc-m
 	epo	Santiago de Alcántara	np-loc	spa	Santiago de Alcántara	np-loc-f
 	epo	Santiago de Calatrava	np-loc	spa	Santiago de Calatrava	np-loc-f
 	epo	Santiago de Compostela	np-loc	spa	Santiago de Compostela	np$np-loc-f
@@ -40799,7 +40799,7 @@ RL	epo	Sankta Skribo	np-al-sp$np$np-al	spa	Santas Escrituras	n-f-pl
 	epo	rabanta	adj	spa	saqueador	adj-m-sg$adj
 	epo	disrabi	vbtr	spa	saquear	vblex
 	epo	disrabado	n	spa	saqueo	n$n-m
-	epo	Sara	np-ant$np	spa	Sara	np$np-ant$np-ant-f$np-ant-f-sg
+	epo	Sara	np-ant$np	spa	Sara	np$np-ant$np-ant-f-sg
 	epo	Sarabia	np-cog$np-cog-mf	spa	Sarabia	np$np-cog
 	epo	Sarah	np-ant	spa	Sarah	np$np-ant
 	epo	Sarai	np-ant	spa	Sarai	np-ant
@@ -40885,7 +40885,7 @@ LR	epo	pilĉardo	n	spa	sardina	n$n-f
 LR	epo	satrapejo	n	spa	satrapía	n-f$n
 	epo	satraplando	n	spa	satrapía	n-f$n
 	epo	saturi	vbtr	spa	saturar	vblex
-	epo	Saturno	np-loc$np	spa	Saturno	np$np-loc-m
+	epo	Saturno	np$np-loc	spa	Saturno	np$np-loc-m
 	epo	satano	n	spa	satán	n-m
 	epo	satelito	n	spa	satélite	n$n-m$n-m-sg
 	epo	sputniko	n	spa	satélite artificial	n-m
@@ -40947,7 +40947,7 @@ RL	epo	saksofono	n	spa	saxófono	n-m$n
 	epo	Saïd	np-ant	spa	Saïd	np-ant
 	epo	Sañé	np-cog$np-cog-mf	spa	Sañé	np-cog
 	epo	Saúca	np-loc	spa	Saúca	np-loc-f
-	epo	Saúl	np-ant	spa	Saúl	np-ant$np$np-ant-m$np-ant-m-sg
+	epo	Saúl	np-ant	spa	Saúl	np-ant$np$np-ant-m-sg
 	epo	Saül	np-ant	spa	Saül	np$np-ant
 	epo	Sbeiti	np-cog$np-cog-mf	spa	Sbeiti	np-cog
 	epo	Sberbank	np-al	spa	Sberbank	np-al-mf
@@ -41122,7 +41122,7 @@ RL	epo	laŭ	pr	spa	según opinión de	pr
 	epo	Seijo	np-cog$np-cog-mf	spa	Seijo	np$np-cog
 	epo	Seiki	np-al	spa	Seiki	np-al-mf
 	epo	Seira	np-loc	spa	Seira	np-loc-f
-	epo	ses	num$	spa	seis	num$num-mf-sp$
+	epo	ses	n$	spa	seis	num$num-mf-sp$
 	epo	Sejas	np-cog$np-cog-mf	spa	Sejas	np-cog
 	epo	Selas	np-loc	spa	Selas	np-loc-f
 	epo	Selaya	np-loc	spa	Selaya	np-loc-f
@@ -41452,9 +41452,9 @@ RL	epo	servi	vbtr	spa	servir	vblex
 	epo	kunsido	n	spa	sesión	n$n-f-sg$n-f
 	epo	Sesma	np-cog$np-cog-mf	spa	Sesma	np$np-cog
 	epo	Sesma	np-loc	spa	Sesma	np-loc-f
-LR	epo	cerbaĵo	n$n-pl	spa	seso	n-m$n-m-pl$n
-LR	epo	cerbaĵo	n-sg	spa	seso	n-m$n-m-pl$n
-RL	epo	cerbo	n$n-sg	spa	seso	n-m$n-m-pl$n
+LR	epo	cerbaĵo	n$n-pl	spa	seso	n-m$n$n-m-pl
+LR	epo	cerbaĵo	n-sg	spa	seso	n-m$n$n-m-pl
+RL	epo	cerbo	n$n-sg	spa	seso	n-m$n$n-m-pl
 RL	epo	cerbo	n$n-sg	spa	seso	n-m-sg
 	epo	Sestao	np-loc	spa	Sestao	np$np-loc-f
 	epo	Sestrica	np-loc	spa	Sestrica	np-loc-f
@@ -41641,7 +41641,7 @@ LR	epo	segilo	n	spa	sierra	n$n-f$n-f-ND
 	epo	sklavo	n	spa	siervo	n
 LR	epo	servanto	n	spa	siervo	n
 	epo	dormeto	n	spa	siesta	n$n-f$n-f-sg
-	epo	sep	num$	spa	siete	num$$num-mf-sp
+	epo	sep	n$	spa	siete	num$$num-mf-sp
 	epo	Siete Aguas	np-loc	spa	Siete Aguas	np$np-loc-f
 	epo	Siete Iglesias de Trabancos	np-loc	spa	Siete Iglesias de Trabancos	np$np-loc-f
 RL	epo	Plejadoj	np-loc	spa	Siete Cabritas	np-loc-m
@@ -41770,7 +41770,7 @@ RL	epo	samtempe	adv	spa	simultáneamente	adv
 	epo	Simó	np-cog$np-cog-mf	spa	Simó	np$np-cog
 	epo	Simó	np-ant	spa	Simó	np-ant
 	epo	Simón	np-cog$np-cog-mf	spa	Simón	np-cog
-	epo	Simón	np-ant	spa	Simón	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Simón	np-ant	spa	Simón	np$np-ant$np-ant-m-sg
 	epo	sen	pr	spa	sin	pr
 	epo	Sin	np-cog$np-cog-mf	spa	Sin	np-cog
 	epo	sen helpo de	pr	spa	sin ayuda de	pr
@@ -42121,12 +42121,12 @@ LR	epo	sufokiĝo	n	spa	sofoco	n-m$n
 	epo	Sojuela	np-loc	spa	Sojuela	np-loc-f
 	epo	Sok	np-cog$np-cog-mf	spa	Sok	np-cog
 	epo	Sokaina	np-ant	spa	Sokaina	np-ant
-LR	epo	sol	n	spa	sol	n$n-m$n-m-ND
-	epo	suno	n	spa	sol	n$n-m$n-m-ND
+LR	epo	sol	n	spa	sol	n-m$n$n-m-ND
+	epo	suno	n	spa	sol	n-m$n$n-m-ND
 	epo	Sol	np-cog$np-cog-mf	spa	Sol	np-cog
 	epo	Sol	np-ant	spa	Sol	np-ant
 	epo	Solaiman	np-ant	spa	Solaiman	np-ant
-RL	epo	nur	adv	spa	solamente	adv
+RL	epo	nur	adv$	spa	solamente	adv
 	epo	Solana	np-cog$np-cog-mf	spa	Solana	np-cog
 	epo	Solana de los Barros	np-loc	spa	Solana de los Barros	np$np-loc-f
 	epo	Solana de Rioalmar	np-loc	spa	Solana de Rioalmar	np-loc-f
@@ -42188,7 +42188,7 @@ LR	epo	solitero	n	spa	solitario	n$n-m
 	epo	Sollana	np-loc	spa	Sollana	np$np-loc-f
 	epo	sturgo	n	spa	sollo	n-m
 	epo	sola	adj	spa	solo	adj$adj-GD-ND
-RL	epo	nur	adv	spa	solo	adv
+RL	epo	nur	adv$	spa	solo	adv
 	epo	fileo	n	spa	solomillo	n$n-m
 	epo	Solomon	np-cog$np-cog-mf	spa	Solomon	np-cog
 	epo	Solorzano	np-cog-mf$np-cog	spa	Solorzano	np-cog
@@ -42511,7 +42511,7 @@ RL	epo	svahila	adj	spa	suajili	adj
 	epo	Suances	np-loc	spa	Suances	np-loc-f
 	epo	Suarez	np-cog$np-cog-mf	spa	Suarez	np$np-cog$np-cog-mf
 	epo	Suau	np-cog$np-cog-mf	spa	Suau	np-cog
-	epo	milda	adj	spa	suave	adj-mf$adj-mf-ND$adj
+	epo	milda	adj	spa	suave	adj-mf$adj$adj-mf-ND
 	epo	milde	adv	spa	suavemente	adv
 	epo	Ŝvabio	np-loc	spa	Suavia	np-loc-f
 	epo	mildeco	n	spa	suavidad	n-f$n
@@ -42645,7 +42645,7 @@ LR	epo	sud-afrikano	n	spa	sudafricano	n
 	epo	sudafrika	adj	spa	sudafricano	adj
 	epo	sudamerikano	n	spa	sudamericano	n
 	epo	sudamerika	adj	spa	sudamericano	adj
-RL	epo	Sud-Ameriko	np-loc	spa	Sudamérica	np$np-loc$np-loc-f
+RL	epo	Sud-Ameriko	np-loc	spa	Sudamérica	np-loc$np-loc-f
 	epo	Sudanell	np-loc	spa	Sudanell	np$np-loc-f
 	epo	ŝviti	vbntr	spa	sudar	vblex
 RL	epo	sud-aziano	n	spa	sudasiático	n
@@ -42664,7 +42664,7 @@ RL	epo	sudorienta	adj	spa	sudoriental	adj
 	epo	Sud-Afriko	np-loc$np	spa	Sudáfrica	np-loc$np-loc-f
 	epo	Sudano	np$np-loc	spa	Sudán	np-loc$np-loc-m
 	epo	Sueca	np-loc	spa	Sueca	np$np-loc-f
-	epo	Svedio	np-loc$np	spa	Suecia	np$np-loc$np-loc-f
+	epo	Svedio	np$np-loc	spa	Suecia	np$np-loc$np-loc-f
 	epo	svedo	n	spa	sueco	n$n-m$n-m-sg
 	epo	sveda	adj	spa	sueco	adj$adj-m-sg$adj-m
 	epo	bopatro	n$n-f	spa	suegro	n$n-f$n-f-sg
@@ -42673,8 +42673,8 @@ LR	epo	bogepatroj	n$n-pl	spa	suegro	n-m$n-m-pl
 	epo	plandumo	n	spa	suela	n$n-f
 	epo	salajro	n	spa	sueldo	n$n-m$n-m-sg
 	epo	Suellacabras	np-loc	spa	Suellacabras	np-loc-f
-	epo	planko	n	spa	suelo	n$n-m$n-m-sg
-	epo	tero	n	spa	suelo	n$n-m$n-m-sg
+	epo	planko	n	spa	suelo	n-m$n$n-m-sg
+	epo	tero	n	spa	suelo	n-m$n$n-m-sg
 	epo	Suera	np-loc	spa	Suera	np$np-loc-f
 	epo	Sueras	np-loc	spa	Sueras	np$np-loc-f
 	epo	serumo	n	spa	suero	n-m$n
@@ -42719,7 +42719,7 @@ LR	epo	postafikso	n	spa	sufijo	n-m$n
 LR	epo	suicido	n	spa	suicidio	n-m$n$n-m-ND
 	epo	memmortigo	n	spa	suicidio	n-m$n$n-m-ND
 	epo	Suissa	np-cog$np-cog-mf	spa	Suissa	np-cog
-	epo	Svislando	np-loc$np	spa	Suiza	np$np-loc$np-loc-f
+	epo	Svislando	np$np-loc	spa	Suiza	np$np-loc$np-loc-f
 	epo	svisa	adj	spa	suizo	adj$adj-GD$adj-GD-ND
 	epo	sviso	n	spa	suizo	n$n-GD$n-GD-ND
 	epo	submetiĝo	n	spa	sujeción	n$n-f$n-f-sg
@@ -43062,13 +43062,13 @@ RL	epo	psika	adj	spa	síquico	adj
 	epo	sisma	adj	spa	sísmico	adj$adj-m-sg
 	epo	Sònia	np-ant$np	spa	Sònia	np$np-ant
 	epo	Sòria	np-cog$np-cog-mf	spa	Sòria	np-cog
-	epo	Sokrato	np-ant$$np$np-ant-m	spa	Sócrates	np$np-ant$np-ant-m
+	epo	Sokrato	np-ant$np$np-ant-m	spa	Sócrates	np$np-ant$np-ant-m
 	epo	Sofoklo	np-ant	spa	Sófocles	np-ant$np
 	epo	solide	adv	spa	sólidamente	adv
 	epo	solida	adj	spa	sólido	adj$adj-GD-ND$adj-GD
-	epo	solido	n	spa	sólido	n-m$n$n-m-sg
+	epo	solido	n	spa	sólido	n$n-m$n-m-sg
 	epo	Sóller	np-loc	spa	Sóller	np$np-loc-f
-	epo	nur	adv	spa	sólo	adv
+	epo	nur	adv$	spa	sólo	adv
 RL	epo	malnoble	adv	spa	sórdidamente	adv
 RL	epo	malnobla	adj	spa	sórdido	adj
 RL	epo	kelo	n	spa	sótano	n$n-m
@@ -43228,8 +43228,8 @@ LR	epo	vatbulo	n	spa	tampón	n-m$n
 	epo	Tamurejo	np-loc	spa	Tamurejo	np-loc-f
 	epo	tiel	preadv	spa	tan	preadv
 	epo	Tan	np-cog$np-cog-mf	spa	Tan	np-cog
-RL	epo	nur	adv	spa	tan solo	adv
-RL	epo	nur	adv	spa	tan sólo	adv
+RL	epo	nur	adv$	spa	tan solo	adv
+RL	epo	nur	adv$	spa	tan sólo	adv
 	epo	funebrejo	n	spa	tanatorio	n$n-m
 	epo	tankao	n	spa	tanca	n-f
 	epo	Tang	np-cog$np-cog-mf	spa	Tang	np-cog
@@ -43255,16 +43255,16 @@ LR	epo	tanilo	n	spa	tanino	n-m$n
 LR	epo	benzinujo	n	spa	tanque	n$n-m$n-m-sg
 	epo	tanko	n	spa	tanque	n$n-m$n-m-sg
 	epo	tantalo	n	spa	tantalio	n-m$n
-	epo	poento	n	spa	tanto	n-m$n
-	epo	golo	n	spa	tanto	n-m$n
-	epo	sumo	n	spa	tanto	n-m$n
+	epo	poento	n	spa	tanto	n$n-m
+	epo	golo	n	spa	tanto	n$n-m
+	epo	sumo	n	spa	tanto	n$n-m
 	epo	tioma	adj	spa	tanto	adj$adj-m-sg$adj-m
 LR	epo	tiom	adv	spa	tanto	adv
 LR	epo	same	adv	spa	tanto	adv
 	epo	tiel	adv	spa	tanto	adv
 LR	epo	tiel multe	adv	spa	tanto	adv
 	epo	eĉ pli konsiderante ke	cnjadv	spa	tanto más cuanto	cnjadv
-RL	epo	procento	n	spa	tanto	n-m$n
+RL	epo	procento	n	spa	tanto	n$n-m
 RL	epo	same	adv	spa	tanto same	adv
 	epo	Tanzanio	np-loc$np	spa	Tanzania	np-loc$np-loc-f
 	epo	tanzaniano	n	spa	tanzano	n
@@ -43427,7 +43427,7 @@ LR	epo	taŭra	adj	spa	taurino	adj$adj-m-sg
 	epo	teba	adj	spa	tebano	adj$adj-m-sg
 	epo	Tebar	np-cog$np-cog-mf	spa	Tebar	np-cog
 	epo	Tebo	np-loc	spa	Tebas	np-loc-f
-	epo	komikso	n-m$n	spa	tebeo	n$n-m
+	epo	komikso	n$n-m	spa	tebeo	n$n-m
 	epo	teko	n	spa	teca	n-f$n
 	epo	Tech Data	np-al	spa	Tech Data	np-al-mf
 	epo	plafono	n	spa	techo	n-m$n$n-m-sg
@@ -43478,7 +43478,7 @@ RL	epo	intrigo	n	spa	tejemaneje	n-m
 	epo	taksuso	n	spa	tejo	n$n-m
 	epo	melo	n	spa	tejón	n$n-m
 	epo	tel.	n-acr	spa	tel.	n$n-acr-m
-	epo	ŝtofo	n$n-pl	spa	tela	n$n-f$n-f-ND
+	epo	ŝtofo	n$n-pl	spa	tela	n-f$n$n-f-ND
 	epo	dreliko	n$n-pl	spa	tela vaquera	n-f
 	epo	teksilo	n	spa	telar	n$n-m$n-m-ND
 	epo	araneaĵo	n	spa	telaraña	n-f$n$n-f-ND
@@ -43684,8 +43684,8 @@ RL	epo	tria	adj	spa	tercer	adj$adj-f$adj-f-pl
 	epo	triono	n	spa	tercio	n$n-m$n-m-ND
 	epo	veluro	n	spa	terciopelo	n-m$n$n-m-ND
 	epo	obstina	adj	spa	terco	adj
-	epo	Teresa	np-loc	spa	Teresa	np-loc-f
-	epo	Teresa	np-ant	spa	Teresa	np$np-ant$np-ant-f
+	epo	Teresa	np-loc	spa	Teresa	np-f$np-loc-f
+	epo	Teresa	np-ant	spa	Teresa	np$np-ant
 	epo	Teresa de Cofrentes	np-loc	spa	Teresa de Cofrentes	np$np-loc-f
 	epo	varmobana	adj	spa	termal	adj$adj-mf$adj-mf-sg
 	epo	varmobane	adv	spa	termalmente	adv
@@ -43794,7 +43794,7 @@ RL	epo	tesalia	adj	spa	tesaliense	adj
 	epo	ateste	adv	spa	testimonialmente	adv
 	epo	atesti	vbtr	spa	testimoniar	vblex
 	epo	atesto	n	spa	testimonio	n-m$n$n-m-sg
-	epo	testiko	n	spa	testículo	n$n-m
+	epo	testiko	n	spa	testículo	n-m$n
 	epo	persisteco	n	spa	tesón	n-m$n
 	epo	mamo	n	spa	teta	n$n-f
 	epo	tekruĉo	n	spa	tetera	n-f$n$n-f-sg
@@ -43860,7 +43860,7 @@ LR	epo	teujo	n	spa	tetera	n-f$n$n-f-sg
 	epo	Théorêt	np-cog$np-cog-mf	spa	Théorêt	np-cog
 	epo	Thériault	np-cog$np-cog-mf	spa	Thériault	np-cog
 	epo	Théroux	np-cog$np-cog-mf	spa	Théroux	np-cog
-RL	epo	prpers	prn-subj-p2-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+RL	epo	prpers	prn-subj-p2-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	epo	TIAA	np-al	spa	TIAA	np-al-mf
 	epo	TIAA-CREF	np-al	spa	TIAA-CREF	np-al-mf
 	epo	Tiago	np-ant	spa	Tiago	np$np-ant
@@ -43929,7 +43929,7 @@ LR	epo	prudulo	n	spa	timorato	n
 RL	epo	timema	adj	spa	timorato	adj$adj-m-sg$adj-m
 RL	epo	timemulo	n	spa	timorato	n
 	epo	direktado	n	spa	timón	n-m$n
-	epo	ĵarego	n	spa	tinaja	n-f
+	epo	ĵarego	n	spa	tinaja	n$n-f
 	epo	Tinajas	np-loc	spa	Tinajas	np-loc-f
 	epo	Tinajo	np-loc	spa	Tinajo	np-loc-f
 	epo	Tineo	np-cog$np-cog-mf	spa	Tineo	np$np-cog
@@ -43939,7 +43939,7 @@ RL	epo	timemulo	n	spa	timorato	n
 	epo	Tinieblas de la Sierra	np-loc	spa	Tinieblas de la Sierra	np$np-loc-f
 	epo	Tinkler	np-cog$np-cog-mf	spa	Tinkler	np-cog
 	epo	Tinoco	np-cog$np-cog-mf	spa	Tinoco	np-cog
-	epo	inko	n	spa	tinta	n$n-f$n-f-sg
+	epo	inko	n	spa	tinta	n-f$n$n-f-sg
 	epo	ĉina inko	n	spa	tinta china	n-f
 	epo	tinkturi	vblex	spa	tintar	vblex
 	epo	inkujo	n	spa	tintero	n-m$n
@@ -44150,7 +44150,7 @@ RL	epo	foriri	vbntr	spa	tomar	vblex$vblex-inf
 RL	epo	volumo	n	spa	tomo	n-m$n$n-m-ND
 	epo	Tomàs	np-ant$np	spa	Tomàs	np$np-ant
 	epo	Tomás	np-cog$np-cog-mf	spa	Tomás	np-cog
-	epo	Tomás	np-ant	spa	Tomás	np$np-ant$np-ant-m$np-ant-m-sg
+	epo	Tomás	np-ant	spa	Tomás	np$np-ant$np-ant-m-sg
 	epo	Tomé	np-cog$np-cog-mf	spa	Tomé	np-cog
 	epo	Ton	np-cog$np-cog-mf	spa	Ton	np-cog
 	epo	Ton	np-ant	spa	Ton	np-ant
@@ -44442,7 +44442,7 @@ RL	epo	reveni	vbntr	spa	tornar	vblex
 	epo	Tortosa	np-loc	spa	Tortosa	np$np-loc-f
 	epo	Tortuera	np-loc	spa	Tortuera	np-loc-f
 	epo	Tortuero	np-loc	spa	Tortuero	np-loc-f
-	epo	testudo	n	spa	tortuga	n$n-f$n-f-sg
+	epo	testudo	n	spa	tortuga	n-f$n$n-f-sg
 	epo	kurboplene	adv	spa	tortuosamente	adv
 	epo	kurboplena	adj	spa	tortuoso	adj$adj-GD-ND
 LR	epo	serpentuma	adj	spa	tortuoso	adj$adj-GD-ND
@@ -44520,7 +44520,7 @@ RL	epo	turneo	n	spa	tournée	n-f
 	epo	laboristo	n	spa	trabajador	n$n-m-sg$n-m
 	epo	laborema	adj	spa	trabajador	adj$adj-GD-ND
 	epo	labori	vbntr	spa	trabajar	vblex
-	epo	laboro	n	spa	trabajo	n-m$n-m-sg$n
+	epo	laboro	n	spa	trabajo	n-m$n$n-m-sg
 	epo	manlaboro	n	spa	trabajo manual	n-m
 	epo	laborige	adv	spa	trabajosamente	adv
 	epo	laboriga	adj	spa	trabajoso	adj$adj-m-sg
@@ -44733,7 +44733,7 @@ RL	epo	klopodi	vbntr	spa	tratar	vblex$vblex-inf
 	epo	Travería	np-cog$np-cog-mf	spa	Travería	np-cog
 	epo	ŝpalo	n	spa	travesaño	n$n-m
 	epo	Traveset	np-cog$np-cog-mf	spa	Traveset	np-cog
-	epo	travestiito	n	spa	travesti	n-m
+	epo	travestiito	n	spa	travesti	n$n-m
 	epo	alivesti	vbtr	spa	travestir	vblex
 	epo	tranavigado	n	spa	travesía	n$n-f
 LR	epo	malbonkondute	adv	spa	traviesamente	adv
@@ -44779,7 +44779,7 @@ RL	epo	plektaĵo	n	spa	trenza	n-f$n
 	epo	grimpema	adj	spa	trepador	adj-m-sg$adj
 	epo	grimpi	vblex	spa	trepar	vblex
 	epo	Trepat	np-cog$np-cog-mf	spa	Trepat	np-cog
-	epo	tri	n$	spa	tres	num$$num-mf-sp
+	epo	tri	n$	spa	tres	num$num-mf-sp$
 	epo	Tres Cantos	np-loc	spa	Tres Cantos	np$np-loc-f
 	epo	Trescasas	np-loc	spa	Trescasas	np-loc-f
 	epo	benkseĝaro	n	spa	tresillo	n$n-m
@@ -44987,8 +44987,8 @@ RL	epo	triglifo	n	spa	tríglifo	n-m
 	epo	cunamo	n	spa	tsunami	n$n-m$n-m-sg
 	epo	tubjo	n	spa	tuba	n-f$n
 	epo	Tubau	np-cog$np-cog-mf	spa	Tubau	np$np-cog
-	epo	ftizo	n	spa	tuberculosis	n-f-sp$n-f$n
-	epo	tuberkulozo	n	spa	tuberculosis	n-f-sp$n-f$n
+	epo	ftizo	n	spa	tuberculosis	n-f-sp$n$n-f
+	epo	tuberkulozo	n	spa	tuberculosis	n-f-sp$n$n-f
 	epo	tubero	n	spa	tuberosidad	n$n-f
 	epo	Tubert	np-cog$np-cog-mf	spa	Tubert	np-cog
 	epo	tubaro	n	spa	tubería	n$n-f$n-f-sg
@@ -45183,7 +45183,7 @@ RL	epo	tendenco	n	spa	tónica	n$n-f
 	epo	tombmonteto	n	spa	túmulo	n$n-m
 	epo	tunelo	n	spa	túnel	n$n-m$n-m-sg
 	epo	Tunizio	np-loc$np	spa	Túnez	np$np-loc-m$np-loc
-	epo	tuniko	n	spa	túnica	n$n-f$n-f-ND
+	epo	tuniko	n	spa	túnica	n-f$n$n-f-ND
 	epo	tjurka	adj	spa	túrquico	adj
 	epo	U.S. Bancorp	np-al	spa	U.S. Bancorp	np-al-mf
 	epo	U.S. Postal Service	np-al	spa	U.S. Postal Service	np-al-mf
@@ -45360,7 +45360,7 @@ LR	epo	unuecigi	vbtr	spa	unir	vblex
 	epo	universitato	n	spa	universidad	n-f$n$n-f-sg
 	epo	universitatano	n	spa	universitario	n$n-m-ND
 	epo	universitata	adj	spa	universitario	adj$adj-GD$adj-GD-ND
-	epo	universo	n	spa	universo	n$n-m$n-m-ND
+	epo	universo	n	spa	universo	n-m$n$n-m-ND
 LR	epo	Unix	np$np-al	spa	Unix	np$np-al-mf$np-al
 	epo	Unikso	np-al$np	spa	Unix	np$np-al-mf$np-al
 	epo	kuniĝo	n	spa	unión	n$n-f$n-f-ND
@@ -45373,14 +45373,14 @@ LR	epo	unueco	n	spa	unión	n$n-f$n-f-ND
 	epo	Sovetio	np-loc$np-loc-sg	spa	Unión Soviética	np-loc-f$np
 LR	epo	Sovet-Unio	np-loc	spa	Unión Soviética	np-loc-f$np
 LR	epo	Sovetunio	np-loc	spa	Unión Soviética	np-loc-f$np
-	epo	la	det-def$det	spa	uno	det-ind-m-sg$det$det-ind$det-ind-m
+	epo	la	det-def$det	spa	uno	det-ind$det-ind-m-sg$det$det-ind-m
 	epo	unu	num	spa	uno	num$num-m-sp$num-m
 RL	epo	unu	num	spa	uno	num-f
-RL	epo	unu	prn	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg
+RL	epo	unu	prn	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg
 RL	epo	unuope	adv	spa	uno a uno	adv
 	epo	unu el	det	spa	uno de	det
 	epo	unu de la alia	adv	spa	uno de otro	adv
-	epo	kelka	det$det-qnt-pl$det-qnt	spa	unos cuantos	det$det-qnt-GD
+	epo	kelka	det$det-qnt-pl$det-qnt	spa	unos cuantos	det$det-qnt-m-pl
 	epo	unuj de la aliaj	adv	spa	unos de otros	adv
 	epo	Unsdorfer	np-cog$np-cog-mf	spa	Unsdorfer	np-cog
 	epo	ŝmiri	vbtr	spa	untar	vblex
@@ -45457,7 +45457,7 @@ RL	epo	Sovetio	np-loc$np-loc-sg	spa	URSS	np$np-loc-f
 	epo	urtikaco	n	spa	urticácea	n-f
 	epo	Urueña	np-loc	spa	Urueña	np-loc-f
 	epo	Urueñas	np-loc	spa	Urueñas	np-loc-f
-	epo	Urugvajo	np-loc$np	spa	Uruguay	np-loc$np-loc-m
+	epo	Urugvajo	np-loc$np	spa	Uruguay	np$np-loc$np-loc-m
 	epo	urugvajano	n	spa	uruguayo	n$n-GD
 	epo	urugvaja	adj	spa	uruguayo	adj$adj-m-sg
 	epo	Uruñuela	np-loc	spa	Uruñuela	np-loc-f
@@ -46130,7 +46130,7 @@ RL	epo	dudek unu	num$	spa	veintiuno	num-f
 	epo	vela	adj	spa	velar	adj$adj-mf-sg
 	epo	vuali	vbtr	spa	velar	vblex$
 	epo	Velarde	np-cog$np-cog-mf	spa	Velarde	np-cog
-	epo	Velasco	np-cog-mf$np-cog	spa	Velasco	np$np-cog$np-cog-mf
+	epo	Velasco	np-cog-mf$np-cog	spa	Velasco	np$np-cog-mf$np-cog
 	epo	Velascálvaro	np-loc	spa	Velascálvaro	np-loc-f
 	epo	Velasquez	np-cog$np-cog-mf	spa	Velasquez	np-cog
 	epo	Velayos	np-loc	spa	Velayos	np-loc-f
@@ -46403,7 +46403,7 @@ LR	epo	bestokuracista	adj	spa	veterinario	adj$adj-GD
 LR	epo	bestokuracisto	n	spa	veterinario	n$n-m
 LR	epo	veterinaro	n	spa	veterinario	n$n-m
 	epo	vetoo	n	spa	veto	n$n-m
-	epo	fojo	n$n-pl	spa	vez	n-f$n-f-ND$n
+	epo	fojo	n$n-pl	spa	vez	n-f$n$n-f-ND
 	epo	Vezdemarbán	np-loc	spa	Vezdemarbán	np-loc-f
 	epo	6a	adj	spa	VI	adj
 	epo	Via	np-cog$np-cog-mf	spa	Via	np-cog
@@ -46476,7 +46476,7 @@ RL	epo	inverse	adv	spa	viceversa	adv
 	epo	Victòria	np-ant$np	spa	Victòria	np-ant
 	epo	Vicéns	np-cog$np-cog-mf	spa	Vicéns	np-cog
 	epo	vito	n	spa	vid	n$n-f$n-f-ND
-	epo	vivo	n	spa	vida	n$n-f$n-f-sg
+	epo	vivo	n	spa	vida	n-f$n$n-f-sg
 	epo	Vidal	np-cog-mf$np-cog	spa	Vidal	np-cog
 	epo	Vidayanes	np-loc	spa	Vidayanes	np-loc-f
 	epo	Videmala	np-loc	spa	Videmala	np-loc-f
@@ -47360,10 +47360,10 @@ RL	epo	granda	adj	spa	voluminoso	adj$adj-m-sg
 	epo	volontulo	n	spa	voluntario	n$n-GD
 	epo	propra-vola	adj	spa	voluntario	adj$adj-GD-ND$adj-GD
 	epo	volupto	n	spa	voluptuosidad	n$n-f
-	epo	reveni	vbntr	spa	volver	vblex
-LR	epo	alkonformigi	vbtr	spa	volver	vblex
-	epo	konformigi	vbtr	spa	volver	vblex
-RL	epo	reveni	vbntr	spa	volver	vblex
+	epo	reveni	vbntr	spa	volver	vblex$vblex-pron
+LR	epo	alkonformigi	vbtr	spa	volver	vblex$vblex-pron
+	epo	konformigi	vbtr	spa	volver	vblex$vblex-pron
+RL	epo	reveni	vbntr	spa	volver	vblex$vblex-pron
 	epo	Volvo	np-al	spa	Volvo	np$np-al-mf
 	epo	ŝanĝiĝema	adj	spa	volátil	adj$adj-mf$adj-mf-sg
 	epo	ŝanĝiĝeme	adv	spa	volátilmente	adv
@@ -47906,7 +47906,7 @@ RL	epo	ŝuo	n	spa	zapata	n$n-f$n-f-ND
 LR	epo	zapatista	adj	spa	zapatista	adj
 	epo	ŝuo	n	spa	zapato	n-m$n$n-m-ND
 	epo	caro	n-m	spa	zar	n$n-m
-	epo	Zara	np-ant	spa	Zara	np$np-ant$np-ant-f
+	epo	Zara	np-ant	spa	Zara	np$np-ant
 	epo	sarabando	n	spa	zarabanda	n-f
 	epo	Zaragoza	np-cog$np-cog-mf	spa	Zaragoza	np-cog
 	epo	Zaragozo	np-loc	spa	Zaragoza	np$np-loc$np-loc-f
@@ -47954,7 +47954,7 @@ LR	epo	zapatista	adj	spa	zapatista	adj
 	epo	Zegama	np-loc	spa	Zegama	np-loc-f
 	epo	Zeidan	np-cog$np-cog-mf	spa	Zeidan	np-cog
 	epo	Zeinab	np-ant	spa	Zeinab	np-ant
-	epo	Zelando	np-loc$np	spa	Zelanda	np$np-loc-f
+	epo	Zelando	np$np-loc	spa	Zelanda	np$np-loc-f
 	epo	zelandano	n	spa	zelandés	n$n-m-sg
 LR	epo	zelanda	n	spa	zelandés	n$n-m-sg
 	epo	Zelaya	np-cog-mf$np-cog	spa	Zelaya	np-cog$np-cog-mf
@@ -48179,7 +48179,7 @@ LR	epo	nordpolusa	adj	spa	ártico	adj$adj-GD-ND
 	epo	Écija	np-cog$np-cog-mf	spa	Écija	np$np-cog
 	epo	Écija	np-loc	spa	Écija	np-loc-f
 	epo	Édouard	np-cog$np-cog-mf	spa	Édouard	np-cog
-	epo	Efeso	np$np-loc	spa	Éfeso	np-loc-m$np
+	epo	Efeso	np$np-loc	spa	Éfeso	np-loc-m$np$np-m
 	epo	egido	n	spa	égida	n$n-f
 	epo	eklogo	n	spa	égloga	n$n-f
 	epo	Électricité de France	np-al	spa	Électricité de France	np-al-mf
@@ -48200,7 +48200,7 @@ RL	epo	rivalo	n	spa	émulo	n
 	epo	epopee	adv	spa	épicamente	adv
 	epo	epopea	adj	spa	épico	adj$adj-GD
 	epo	Épila	np-loc	spa	Épila	np-loc-f
-	epo	epoko	n	spa	época	n$n-f$n-f-ND
+	epo	epoko	n	spa	época	n-f$n$n-f-ND
 RL	epo	tiu	prn$prn-tn	spa	ése	prn$prn-tn-m$prn-tn
 RL	epo	ĉi tiu	prn$prn-tn	spa	éste	prn$prn-tn-m$prn-tn
 	epo	etero	n	spa	éter	n-m$n
@@ -48211,7 +48211,7 @@ RL	epo	ĉi tiu	prn$prn-tn	spa	éste	prn$prn-tn-m$prn-tn
 	epo	Étienne	np-cog$np-cog-mf	spa	Étienne	np-cog
 	epo	etne	adv	spa	étnicamente	adv
 	epo	etna	adj	spa	étnico	adj$adj-GD$adj-GD-ND
-	epo	Eŭfrato	np-loc$np	spa	Éufrates	np-loc$np$np-loc-m
+	epo	Eŭfrato	np$np-loc	spa	Éufrates	np-loc$np$np-loc-m
 	epo	Évrard	np-cog$np-cog-mf	spa	Évrard	np-cog
 	epo	sukceso	n	spa	éxito	n-m$n$n-m-sg
 	epo	amas-elmigrado	n	spa	éxodo	n$n-m$n-m-sg
@@ -48219,7 +48219,7 @@ RL	epo	ĉi tiu	prn$prn-tn	spa	éste	prn$prn-tn-m$prn-tn
 	epo	ibero	n	spa	íbero	n
 	epo	ibera	adj	spa	íbero	adj$adj-m-sg
 	epo	ibekso	n	spa	íbice	n-m
-	epo	idolo	n	spa	ídolo	n-m$n$n-m-ND
+	epo	idolo	n	spa	ídolo	n$n-m$n-m-ND
 	epo	ileo	n	spa	íleon	n-m$n
 	epo	impeto	n	spa	ímpetu	n$n-m
 	epo	penige	adv	spa	ímprobamente	adv
@@ -48282,7 +48282,7 @@ LR	epo	kolokasio	n	spa	ñame	n-m
 	epo	lasta	adj	spa	último	adj$adj-GD
 LR	epo	unike	adv	spa	únicamente	adv
 LR	epo	sole	adv	spa	únicamente	adv
-RL	epo	nur	adv	spa	únicamente	adv
+RL	epo	nur	adv$	spa	únicamente	adv
 LR	epo	unika	adj	spa	único	adj$adj-GD-ND$adj-GD
 RL	epo	sola	adj	spa	único	adj$adj-GD-ND$adj-GD
 	epo	Úrbel del Castillo	np-loc	spa	Úrbel del Castillo	np$np-loc-f

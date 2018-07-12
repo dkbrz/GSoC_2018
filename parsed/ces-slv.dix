@@ -68,7 +68,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	první	num-ord	slv	prvi	num$num-ord
 	ces	auto	n-nt	slv	avto	n-m
 	ces	rok	n-m	slv	leto	n-nt
-	ces	srdce	n-nt	slv	srce	n-nt$n
+	ces	srdce	n-nt$n	slv	srce	n-nt$n
 	ces	chlapec	n-m	slv	fant	n-m
 	ces	král	n-m	slv	kralj	n-m
 	ces	herec	n-m	slv	igralec	n-m
@@ -76,15 +76,15 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	počátek	n-m	slv	začetek	n-m
 	ces	muž	n-m	slv	mož	n-m
 	ces	Bůh	n-m	slv	Bog	n-m
-	ces	nebe	n-nt$n-nt-sg	slv	nebo	n-nt$n
-	ces	jablko	n-nt	slv	jabolko	n-nt$n
+	ces	nebe	n-nt$n-nt-sg$n	slv	nebo	n-nt$n
+	ces	jablko	n-nt$n	slv	jabolko	n-nt$n
 	ces	mléko	n-nt	slv	mleko	n-nt
-	ces	země	n-f	slv	zemlja	n-f
+	ces	země	n-f$n	slv	zemlja	n-f
 	ces	dívka	n-f	slv	dekle	n-nt
-	ces	kočka	n-f	slv	mačka	n-f$n
+	ces	kočka	n-f$n	slv	mačka	n-f$n
 	ces	březen	n-m	slv	marec	n-m
 	ces	otec	n-m	slv	oče	n-m$n
-	ces	kniha	n-f	slv	knjiga	n-f
+	ces	kniha	n-f$n	slv	knjiga	n-f
 	ces	dohoda	n-f	slv	sporazum	n-m
 	ces	vláda	n-f	slv	vlada	n-f$n
 	ces	energie	n-f	slv	energija	n-f$n
@@ -94,24 +94,24 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	kilogram	n-m	slv	kilogram	n-m$n
 	ces	program	n-m	slv	program	n-m$n
 	ces	materiál	n-m	slv	material	n-m
-	ces	podnik	n-m	slv	podjetje	n-nt$n
+	ces	podnik	n$n-m	slv	podjetje	n-nt$n
 	ces	společenství	n-nt	slv	skupnost	n-f$n
-	ces	soulad	n-m	slv	sklad	n-m
+	ces	soulad	n$n-m	slv	sklad	n-m
 	ces	článek	n-m	slv	člen	n-m
 	ces	území	n-nt	slv	ozemlje	n-nt
 	ces	okolnost	n-f	slv	okoliščina	n-f
 	ces	oko	n-f	slv	oko	n-nt$n
 	ces	republika	n-f	slv	republika	n-f$n
 	ces	komise	n-f	slv	komisija	n-f$n
-	ces	instituce	n-f	slv	institucija	n-f$n
+	ces	instituce	n-f$n	slv	institucija	n-f$n
 	ces	koncentrace	n-f	slv	koncentracija	n-f$n
 	ces	politika	n-f	slv	politika	n-f$n
 	ces	kůra	n-f	slv	skorja	n-f
 	ces	agentura	n-f	slv	agencija	n-f$n
 	ces	období	n-nt	slv	obdobje	n-nt
-	ces	město	n-nt	slv	mesto	n-nt
+	ces	město	n-nt$n	slv	mesto	n-nt
 	ces	důstojnost	n-f	slv	dostojanstvo	n-nt
-	ces	právo	n-nt	slv	pravica	n-f
+	ces	právo	n-nt$n	slv	pravica	n-f
 	ces	člověk	n-m$n-m-sg	slv	človek	n-m
 	ces	jazyk	n-m	slv	jezik	n-m
 	ces	protokol	n-m	slv	protokol	n-m$n
@@ -187,8 +187,8 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	infrastruktura	n-f	slv	infrastruktura	n-f$n
 	ces	inženýr	n-m	slv	inženir	n-m
 	ces	ion	n-m	slv	ion	n$n-m
-	ces	jasnost	n-f	slv	jasnost	n-f$n
-	ces	jezero	n-nt	slv	jezero	n-nt$n
+	ces	jasnost	n-f$n	slv	jasnost	n-f$n
+	ces	jezero	n-nt$n	slv	jezero	n-nt$n
 	ces	jez	n-m	slv	jez	n-m
 	ces	jod	n-m	slv	jod	n$n-m
 	ces	jogurt	n-m	slv	jogurt	n-m$n
@@ -226,7 +226,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	mig	n-m	slv	mig	n$n-m
 	ces	mikrofon	n-m	slv	mikrofon	n-m$n
 	ces	minomet	n-m	slv	minomet	n$n-m
-	ces	minuta	n-f	slv	minuta	n-f$n
+	ces	minuta	n-f$n	slv	minuta	n-f$n
 	ces	model	n-m	slv	model	n-m
 	ces	monopol	n-m	slv	monopol	n$n-m
 	ces	mora	n-f	slv	mora	n-f$n
@@ -241,11 +241,11 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	objem	n-m	slv	objem	n-m
 	ces	oblak	n-m	slv	oblak	n-m$n
 	ces	oblast	n-f	slv	oblast	n-f
-	ces	okno	n-nt	slv	okno	n-nt$n
-	ces	oko	n-nt	slv	oko	n-nt$n
+	ces	okno	n-nt$n	slv	okno	n-nt$n
+	ces	oko	n-nt$n	slv	oko	n-nt$n
 	ces	okov	n-m	slv	okov	n$n-m
 	ces	oliva	n-f	slv	oliva	n-f$n
-	ces	opat	n-m	slv	opat	n$n-m
+	ces	opat	n$n-m	slv	opat	n$n-m
 	ces	oves	n-m	slv	oves	n$n-m
 	ces	pacient	n-m	slv	pacient	n-m
 	ces	pakt	n-m	slv	pakt	n-m$n
@@ -260,7 +260,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	patent	n-m	slv	patent	n$n-m
 	ces	patriot	n-m	slv	patriot	n$n-m
 	ces	pes	n-m	slv	pes	n-m
-	ces	pivo	n-nt	slv	pivo	n-nt
+	ces	pivo	n-nt$n	slv	pivo	n-nt
 	ces	plamen	n-m	slv	plamen	n-m
 	ces	plato	n-nt	slv	plato	n$n-m
 	ces	plazma	n-f	slv	plazma	n-f$n
@@ -288,20 +288,20 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	salon	n-m	slv	salon	n-m$n
 	ces	samota	n-f	slv	samota	n-f$n
 	ces	sektor	n-m	slv	sektor	n-m
-	ces	sekunda	n-f	slv	sekunda	n-f$n
-	ces	sen	n-m	slv	sen	n$n-m
+	ces	sekunda	n-f$n	slv	sekunda	n-f$n
+	ces	sen	n$n-m	slv	sen	n$n-m
 	ces	sever	n-m	slv	sever	n-m
 	ces	seznam	n-m	slv	seznam	n-m
 	ces	sir	n-m	slv	ser	n$n-m
-	ces	skupina	n-f	slv	skupina	n-f
+	ces	skupina	n-f$n	slv	skupina	n-f
 	ces	slepota	n-f	slv	slepota	n-f$n
 	ces	slina	n-f	slv	slina	n-f$n
 	ces	služba	n-f	slv	služba	n-f$n
-	ces	sobota	n-f	slv	sobota	n-f
+	ces	sobota	n-f$n	slv	sobota	n-f
 	ces	spor	n-m	slv	spor	n-m
 	ces	stadion	n-m	slv	stadion	n-m
 	ces	standard	n-m	slv	standard	n-m$n
-	ces	stan	n-m	slv	stan	n$n-m
+	ces	stan	n$n-m	slv	stan	n$n-m
 	ces	stroj	n-m	slv	stroj	n-m
 	ces	strop	n-m	slv	strop	n-m
 	ces	struktura	n-f	slv	struktura	n-f$n
@@ -336,9 +336,9 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	virus	n-m	slv	virus	n-m
 	ces	vitamin	n-m	slv	vitamin	n-m
 	ces	vnuk	n-m	slv	vnuk	n-m
-	ces	voda	n-f	slv	voda	n-f$n
-	ces	železo	n-nt	slv	železo	n-nt$n
-	ces	zlato	n-nt	slv	zlato	n-nt$n
+	ces	voda	n-f$n	slv	voda	n-f$n
+	ces	železo	n-nt$n	slv	železo	n-nt$n
+	ces	zlato	n-nt$n	slv	zlato	n-nt$n
 	ces	zlo	n-nt	slv	zlo	n$n-nt
 	ces	červený	adj$adj-sint	slv	rdeč	adj$adj-add_comp
 	ces	atomový	adj	slv	atomski	adj$adj-add_comp
@@ -362,12 +362,12 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	zemský	adj	slv	zemeljski	adj$adj-add_comp
 	ces	dánský	adj	slv	danski	adj$adj-add_comp
 	ces	modrý	adj$adj-sint	slv	moder	adj$adj-comp
-	ces	nový	adj-sint$adj	slv	nov	adj$adj-comp
+	ces	nový	adj$adj-sint	slv	nov	adj$adj-comp
 	ces	malý	adj$adj-sint$adj-sint-mi	slv	mali	adj
 	ces	velký	adj$adj-sint$adj-sint-nt	slv	velik	adj
 	ces	dlouhý	adj	slv	dolg	adj
-	ces	široký	adj-sint$adj	slv	širok	adj$adj-add_comp
-	ces	těžký	adj-sint$adj	slv	težek	adj
+	ces	široký	adj$adj-sint	slv	širok	adj$adj-add_comp
+	ces	těžký	adj$adj-sint	slv	težek	adj
 	ces	krátký	adj-sint$adj	slv	kratek	adj
 	ces	úzký	adj-sint$adj	slv	ozek	adj
 	ces	tenký	adj$adj-sint	slv	tanek	adj$adj-add_comp
@@ -389,7 +389,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	barbarský	adj	slv	barbarski	adj$adj-add_comp
 	ces	bělavý	adj	slv	belkast	adj
 	ces	bílo	adj	slv	bel	adj$adj-add_comp
-	ces	bílý	adj-sint$adj	slv	bel	adj$adj-add_comp
+	ces	bílý	adj$adj-sint	slv	bel	adj$adj-add_comp
 	ces	biologický	adj	slv	biološki	adj
 	ces	brazilský	adj	slv	brazilski	adj$adj-add_comp
 	ces	bruselský	adj	slv	bruseljski	adj
@@ -442,7 +442,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	milánský	adj	slv	milanski	adj$adj-add_comp
 	ces	miniaturní	adj	slv	miniaturen	adj
 	ces	mírový	adj	slv	miroven	adj$adj-add_comp
-	ces	mladý	adj-sint$adj	slv	mlad	adj
+	ces	mladý	adj$adj-sint	slv	mlad	adj
 	ces	mletý	adj	slv	mlet	adj
 	ces	mobilní	adj	slv	mobilen	adj$adj-add_comp
 	ces	moderní	adj	slv	moderen	adj$adj-comp
@@ -456,7 +456,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	noční	adj	slv	nočen	adj
 	ces	norský	adj	slv	norveški	adj$adj-add_comp
 	ces	novorozený	adj	slv	novorojen	adj
-	ces	nový	adj-sint$adj	slv	nov	adj$adj-comp
+	ces	nový	adj$adj-sint	slv	nov	adj$adj-comp
 	ces	objektivní	adj	slv	objektiven	adj$adj-comp
 	ces	oční	adj	slv	očesen	adj
 	ces	olympijský	adj	slv	olimpijski	adj$adj-add_comp
@@ -545,7 +545,7 @@ LR	ces	jenž	prn-itg	slv	kateri	prn$prn-itg
 	ces	stvořit	vblex	slv	ustvariti	vblex$vblex-perf
 	ces	nakreslit	vblex	slv	narisati	vblex$vblex-perf
 	ces	umřít	vblex$vblex-perf	slv	umreti	vblex$vblex-perf
-	ces	vědět	vblex-impf$vblex	slv	vedeti	vblex$vblex-imperf
+	ces	vědět	vblex$vblex-impf	slv	vedeti	vblex$vblex-imperf
 	ces	začít	vblex$vblex-perf	slv	začeti	vblex-perf$vblex$vblex-perf-tv
 	ces	diskutovat	vblex	slv	razpravljati	vblex$vblex-imperf
 	ces	kde	adv-itg	slv	kje	adv-itg

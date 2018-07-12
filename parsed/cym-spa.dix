@@ -30,7 +30,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	,	cm	spa	,	cm
 	cym	-	guio	spa	-	guio
 	cym	Aaliyah	np-ant	spa	Aaliyah	np-ant
-	cym	Aaron	np-ant	spa	Aaron	np$np-ant$np-ant-m
+	cym	Aaron	np-ant	spa	Aaron	np$np-ant
 	cym	Abbey	np-ant	spa	Abbey	np-ant$np
 	cym	Abbie	np-ant	spa	Abbie	np-ant
 	cym	Abby	np-ant	spa	Abby	np-ant
@@ -76,7 +76,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Ali	np-ant	spa	Ali	np-ant$np
 	cym	Ali	np-cog	spa	Ali	np-ant$np
 	cym	Alice	np-ant	spa	Alice	np-ant$np
-	cym	Alicia	np-ant	spa	Alicia	np$np-ant$np-ant-f$np-ant-f-sg
+	cym	Alicia	np-ant	spa	Alicia	np$np-ant$np-ant-f-sg
 	cym	Alisha	np-ant	spa	Alisha	np-ant
 	cym	Allan	np-ant	spa	Allan	np-ant$np
 	cym	Allan	np-cog	spa	Allan	np-ant$np
@@ -114,7 +114,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Aragón	np-top-f	spa	Aragón	np-top-m
 	cym	Archie	np-ant	spa	Archie	np-ant$np
 	cym	Ariadna	np-ant	spa	Ariadna	np$np-ant
-	cym	Ariannin	np-top-f$np-top	spa	Argentina	np$np-top$np-top-f
+	cym	Ariannin	np-top-f$np-top	spa	Argentina	np$np-top-f$np-top
 	cym	Arizona	np-top-f	spa	Arizona	np-top-f
 	cym	Arkansas	np-top-f	spa	Arkansas	np-top-f
 	cym	Armenia	np-top-f	spa	Armenia	np-top-f
@@ -124,15 +124,15 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Ashleigh	np-ant	spa	Ashleigh	np-ant
 	cym	Ashley	np-ant	spa	Ashley	np-ant$np
 	cym	Ashton	np-ant	spa	Ashton	np-ant
-	cym	Asia	np-top-f	spa	Asia	np-ant$np-ant-f-sg$np-ant-f
-	cym	Asia	np-top-f	spa	Asia	np-top$np-top-f
+	cym	Asia	np-top-f	spa	Asia	np-ant$np-ant-f-sg
+	cym	Asia	np-top-f	spa	Asia	np-top-f$np-top
 	cym	Asturias	np-top-f	spa	Asturias	np-top-f
-	cym	Athen	np-top-f	spa	Atenas	np-top-f
+	cym	Athen	np-top-f	spa	Atenas	np-f$np-top-f
 	cym	Audrey	np-ant	spa	Audrey	np$np-ant
 	cym	Augsburg	np-top-f	spa	Augsburgo	np-top-m
 	cym	Ava	np-ant	spa	Ava	np-ant
 	cym	Awst	n-m	spa	agosto	n$n-m$n-m-ND
-	cym	Awstralia	np-top-f$np-top	spa	Australia	np$np-top$np-top-f
+	cym	Awstralia	np-top-f$np-top	spa	Australia	np-top-f$np-top
 	cym	Awstria	np-top-f	spa	Austria	np-top$np-top-f
 	cym	Ayden	np-ant	spa	Ayden	np-ant
 	cym	Ayla	np-ant	spa	Ayla	np-ant
@@ -179,7 +179,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Botswana	np-top-f	spa	Botsuana	np-top$np-top-f
 	cym	Bradley	np-ant	spa	Bradley	np-ant$np
 	cym	Brandon	np-ant	spa	Brandon	np-ant
-	cym	Brasil	np-top-f	spa	Brasil	np-top$np-top-m
+	cym	Brasil	np-top-f	spa	Brasil	np-top-m$np-top
 	cym	Brasília	np-top-f	spa	Brasilia	np-top-f
 	cym	Brayden	np-ant	spa	Brayden	np-ant
 	cym	Brendan	np-ant	spa	Brendan	np-ant
@@ -216,7 +216,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Cameroon	np-top-f	spa	Camerún	np$np-top-m$np-top
 	cym	Cameroun	np-top-f	spa	Camerún	np$np-top-m$np-top
 	cym	Camerŵn	np-top-f	spa	Camerún	np$np-top-m$np-top
-	cym	Canada	np-top-f$np-top	spa	Canadá	np-top$np-top-m
+	cym	Canada	np-top-f$np-top	spa	Canadá	np$np-top-m$np-top
 	cym	Canberra	np-top-f	spa	Camberra	np-top-f
 	cym	Candela	np-ant	spa	Candela	np$np-ant
 	cym	Cantabria	np-top-f	spa	Cantabria	np-top-f
@@ -227,7 +227,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Carlota	np-ant	spa	Carlota	np$np-ant
 	cym	Carly	np-ant	spa	Carly	np-ant
 	cym	Carme	np-ant	spa	Carme	np$np-ant
-	cym	Carmen	np-ant	spa	Carmen	np-ant$np$np-ant-f$np-ant-f-sg
+	cym	Carmen	np-ant	spa	Carmen	np-ant$np$np-ant-f-sg
 	cym	Carolina	np-ant	spa	Carolina	np$np-ant$np-ant-f-sg
 	cym	Carrie	np-ant	spa	Carrie	np-ant$np
 	cym	Carson	np-ant	spa	Carson	np-ant
@@ -237,7 +237,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Casacstân	np-top-f	spa	Kazajistán	np$np-top-m$np-top
 	cym	Casey	np-ant	spa	Casey	np-ant$np
 	cym	Cassie	np-ant	spa	Cassie	np-ant
-	cym	Catalina	np-ant	spa	Catalina	np$np-ant$np-ant-f
+	cym	Catalina	np-ant	spa	Catalina	np-ant$np$np-ant-f
 	cym	Catalonia	np-top-f$np-top	spa	Catalunya	np-top$np-top-f
 	cym	Catalonia	np-top-f$np-top	spa	Cataluña	np-top$np-top-f
 	cym	Caterina	np-ant	spa	Caterina	np-ant$np
@@ -263,17 +263,17 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Christopher	np-ant	spa	Christopher	np$np-ant
 	cym	Chwefror	n-m	spa	febrero	n$n-m$n-m-sg
 	cym	Ciara	np-ant	spa	Ciara	np-ant
-	cym	Ciwba	np-top-f	spa	Cuba	np$np-top$np-top-f
+	cym	Ciwba	np-top-f	spa	Cuba	np-top-f$np-top
 	cym	Claire	np-ant	spa	Claire	np-ant$np
 	cym	Clara	np-ant	spa	Clara	np-ant$np$np-ant-f-sg
 	cym	Clark	np-cog	spa	Clark	np$np-ant
-	cym	Claudia	np-ant	spa	Claudia	np$np-ant$np-ant-f$np-ant-f-sg
+	cym	Claudia	np-ant	spa	Claudia	np$np-ant$np-ant-f-sg
 	cym	Clàudia	np-ant	spa	Clàudia	np$np-ant
 	cym	Cody	np-ant	spa	Cody	np-ant
 	cym	Cole	np-ant	spa	Cole	np-ant
 	cym	Colin	np-ant	spa	Colin	np$np-ant
 	cym	Colman	np-cog	spa	Colman	np-ant
-	cym	Colombia	np-top-f	spa	Colombia	np$np-top$np-top-f
+	cym	Colombia	np-top-f	spa	Colombia	np$np-top-f$np-top
 	cym	Congo	np-top-f	spa	Congo	np-top$np-top-m
 	cym	Conner	np-ant	spa	Conner	np$np-ant
 	cym	Connor	np-ant	spa	Connor	np-ant$np
@@ -289,15 +289,15 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Cristina	np-ant	spa	Cristina	np$np-ant
 	cym	Croasia	np-top-f	spa	Croacia	np-top-f$np-top
 	cym	Croatia	np-top-f	spa	Croacia	np-top-f$np-top
-	cym	Cuba	np-top-f	spa	Cuba	np$np-top$np-top-f
+	cym	Cuba	np-top-f	spa	Cuba	np-top-f$np-top
 	cym	Curtis	np-ant	spa	Curtis	np-ant$np
 	cym	Cymru	np-top$np-top-f	spa	Gales	np$np-top$np-top-m
-	cym	Cyprus	np-top-f	spa	Chipre	np-top-m$np-top
+	cym	Cyprus	np-top-f	spa	Chipre	np-top$np-top-m
 	cym	Daisy	np-ant	spa	Daisy	np-ant
-	cym	Damascus	np-top-f	spa	Damasco	np-top-m
+	cym	Damascus	np-top-f	spa	Damasco	np-m$np-top-m
 	cym	Damian	np-ant	spa	Damian	np-ant
 	cym	Damien	np-ant	spa	Damien	np-ant$np
-	cym	Daniel	np-ant	spa	Daniel	np$np-ant$np-ant-m$np-ant-m-sg
+	cym	Daniel	np-ant	spa	Daniel	np$np-ant$np-ant-m-sg
 	cym	Daniela	np-ant	spa	Daniela	np$np-ant$np-ant-f-sg
 	cym	Danielle	np-ant	spa	Danielle	np-ant$np
 	cym	Danny	np-ant	spa	Danny	np$np-ant
@@ -370,12 +370,12 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Evelyn	np-ant	spa	Evelyn	np-ant$np
 	cym	Evie	np-ant	spa	Evie	np-ant
 	cym	Ewan	np-ant	spa	Ewan	np$np-ant
-	cym	Ewrop	np-top-f$np-top	spa	Europa	np-top$np-top-f
+	cym	Ewrop	np-top-f$np-top	spa	Europa	np-top-f$np-top
 	cym	Extremadura	np-top-f	spa	Extremadura	np-top-f
 	cym	Faith	np-ant	spa	Faith	np-ant
 	cym	Feneswela	np-top-f	spa	Venezuela	np$np-top-f$np-top
 	cym	Fernando	np-ant	spa	Fernando	np$np-ant$np-ant-m-sg
-	cym	Ffederasiwn Rwsia	np-top-f	spa	Rusia	np$np-top$np-top-f
+	cym	Ffederasiwn Rwsia	np-top-f	spa	Rusia	np$np-top-f$np-top
 	cym	Ffiji	np-top-f	spa	Fiyi	np-top-f
 	cym	Ffrainc	np-top$np-top-f	spa	Francia	np$np-top$np-top-f
 	cym	Fiet Nam	np-top-f	spa	Vietnam	np$np-top-m
@@ -389,13 +389,13 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Frances	np-ant	spa	Frances	np-ant
 	cym	Francesc	np-ant	spa	Francesc	np$np-ant
 	cym	Francesca	np-ant	spa	Francesca	np-ant$np
-	cym	Francis	np-ant	spa	Francis	np-ant$np$np-ant-m
+	cym	Francis	np-ant	spa	Francis	np-ant$np
 	cym	Frankfurt am Main	np-top-f	spa	Frankfurt	np-top-m
 	cym	Fred	np-ant	spa	Fred	np$np-ant
 	cym	Frederick	np-ant	spa	Frederick	np-ant
 	cym	Freya	np-ant	spa	Freya	np-ant
 	cym	Gabon	np-top-f	spa	Gabón	np-top$np-top-m
-	cym	Gabriel	np-ant	spa	Gabriel	np$np-ant$np-ant-m$np-ant-m-sg
+	cym	Gabriel	np-ant	spa	Gabriel	np$np-ant$np-ant-m-sg
 	cym	Gabriela	np-ant	spa	Gabriela	np$np-ant$np-ant-f-sg
 	cym	Gabriella	np-ant	spa	Gabriella	np-ant
 	cym	Gabrielle	np-ant	spa	Gabrielle	np-ant
@@ -439,8 +439,8 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Guyana	np-top-f	spa	Guayana	np$np-top-f
 	cym	Guyana	np-top-f	spa	Guyana	np$np-top-f$np-top
 	cym	Gwatemala	np-top-f	spa	Guatemala	np$np-top-f$np-top
-	cym	Gwener	np-top-f	spa	Venus	np$np-ant
-	cym	Gwener	np-top-f	spa	Venus	np-top-m
+	cym	Gwener	np-top-f	spa	Venus	np-ant
+	cym	Gwener	np-top-f	spa	Venus	np$np-top-m
 	cym	Gweriniaeth De Affrica	np-top-f	spa	Sudáfrica	np$np-top-f$np-top
 	cym	Gweriniaeth De Affrica	np-top-f	spa	Suráfrica	np-top-f
 	cym	Gweriniaeth y Tsieciaid	np-top-f	spa	República Checa	np$np-top-f$np-top
@@ -476,8 +476,8 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Henry	np-ant	spa	Henry	np$np-ant
 	cym	Hollie	np-ant	spa	Hollie	np-ant
 	cym	Holly	np-ant	spa	Holly	np-ant$np
-	cym	Honduras	np-top-f	spa	Honduras	np-top$np-top-f
-	cym	Hondwras	np-top-f	spa	Honduras	np-top$np-top-f
+	cym	Honduras	np-top-f	spa	Honduras	np-top-f$np-top
+	cym	Hondwras	np-top-f	spa	Honduras	np-top-f$np-top
 	cym	Hong Cong	np-top-f	spa	Hong Kong	np-top$np-top-m
 	cym	Hope	np-ant	spa	Hope	np-ant
 	cym	Hugh	np-ant	spa	Hugh	np$np-ant
@@ -500,14 +500,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Iran	np-top-f	spa	Irán	np-top-m$np-top
 	cym	Irene	np-ant	spa	Irene	np$np-ant
 	cym	Iràn	np-top-f	spa	Irán	np-top-m$np-top
-	cym	Isaac	np-ant	spa	Isaac	np-ant$np$np-ant-m
+	cym	Isaac	np-ant	spa	Isaac	np-ant$np
 	cym	Isabel	np-ant	spa	Isabel	np$np-ant$np-ant-f-sg
 	cym	Isabella	np-ant	spa	Isabella	np-ant$np$np-ant-f-sg
 	cym	Isabelle	np-ant	spa	Isabelle	np$np-ant
 	cym	Islamabad	np-top-f	spa	Islamabad	np-top-m
-	cym	Ismael	np-ant	spa	Ismael	np$np-ant$np-ant-m
+	cym	Ismael	np-ant	spa	Ismael	np$np-ant
 	cym	Isobel	np-ant	spa	Isobel	np-ant
-	cym	Israel	np-top-f$np-top	spa	Israel	np$np-ant$np-ant-m$np-ant-m-sg
+	cym	Israel	np-top-f$np-top	spa	Israel	np$np-ant$np-ant-m-sg
 	cym	Israel	np-top-f$np-top	spa	Israel	np-top$np-top-m
 	cym	Ivan	np-ant	spa	Ivan	np$np-ant$np-ant-m
 	cym	Ivo	np-ant	spa	Ivo	np$np-ant
@@ -516,9 +516,9 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Jack	np-ant	spa	Jack	np$np-ant
 	cym	Jackson	np-ant	spa	Jackson	np$np-ant
 	cym	Jackson	np-cog	spa	Jackson	np$np-ant
-	cym	Jacob	np-ant	spa	Jacob	np-ant$np$np-ant-m
+	cym	Jacob	np-ant	spa	Jacob	np-ant$np
 	cym	Jade	np-ant	spa	Jade	np-ant
-	cym	Jaime	np-ant	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg
+	cym	Jaime	np-ant	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Jakarta	np-top-f	spa	Yakarta	np-top-f
 	cym	Jake	np-ant	spa	Jake	np-ant$np
 	cym	Jamaica	np-top-f	spa	Jamaica	np-top-f
@@ -542,12 +542,12 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Jennifer	np-ant	spa	Jennifer	np$np-ant
 	cym	Jersey	np-top-f	spa	Jersey	np$np-top$np-top-m
 	cym	Jessica	np-ant	spa	Jessica	np$np-ant
-	cym	Jesús	np-ant	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg
-	cym	Joan	np-ant	spa	Joan	np$np-ant$np-ant-m
+	cym	Jesús	np-ant	spa	Jesús	np$np-ant$np-ant-m-sg
+	cym	Joan	np-ant	spa	Joan	np$np-ant
 	cym	Joanna	np-ant	spa	Joanna	np-ant
 	cym	Jodie	np-ant	spa	Jodie	np-ant$np
 	cym	Joe	np-ant	spa	Joe	np$np-ant
-	cym	Joel	np-ant	spa	Joel	np$np-ant$np-ant-m$np-ant-m-sg
+	cym	Joel	np-ant	spa	Joel	np$np-ant$np-ant-m-sg
 	cym	John	np-ant	spa	John	np$np-ant$np-ant-m
 	cym	Johnathan	np-ant	spa	Johnathan	np-ant
 	cym	Jon	np-ant	spa	Jon	np$np-ant
@@ -565,7 +565,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Jude	np-ant	spa	Jude	np-ant$np
 	cym	Judith	np-ant	spa	Judith	np$np-ant
 	cym	Juli	np-ant	spa	Juli	np$np-ant
-	cym	Julia	np-ant	spa	Julia	np$np-ant$np-ant-f$np-ant-f-sg
+	cym	Julia	np-ant	spa	Julia	np$np-ant$np-ant-f-sg
 	cym	Julian	np-ant	spa	Julian	np$np-ant
 	cym	Justin	np-ant	spa	Justin	np$np-ant
 	cym	Júlia	np-ant	spa	Júlia	np$np-ant
@@ -671,14 +671,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Louis	np-ant	spa	Louis	np$np-ant
 	cym	Louise	np-ant	spa	Louise	np$np-ant
 	cym	Luca	np-ant	spa	Luca	np$np-ant
-	cym	Lucas	np-ant	spa	Lucas	np$np-ant$np-ant-m$np-ant-m-sg
+	cym	Lucas	np-ant	spa	Lucas	np$np-ant$np-ant-m-sg
 	cym	Lucia	np-ant	spa	Lucia	np$np-ant
 	cym	Lucy	np-ant	spa	Lucy	np$np-ant
 	cym	Luke	np-ant	spa	Luke	np$np-ant
 	cym	Luxembourg	np-top-f	spa	Luxemburgo	np-top-m$np-top
 	cym	Lwcsembwrg	np-top-f	spa	Luxemburgo	np-top-m$np-top
 	cym	Lídia	np-ant	spa	Lídia	np$np-ant
-	cym	Macedonia	np-top-f	spa	Macedonia	np-ant$np-ant-f
+	cym	Macedonia	np-top-f	spa	Macedonia	np-ant
 	cym	Mackenzie	np-ant	spa	Mackenzie	np-ant$np
 	cym	Mackenzie	np-cog	spa	Mackenzie	np-ant$np
 	cym	Macy	np-ant	spa	Macy	np-ant
@@ -689,7 +689,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Madeline	np-ant	spa	Madeline	np-ant
 	cym	Madison	np-ant	spa	Madison	np-ant$np
 	cym	Madrid	np-top-f	spa	Madrid	np-top$np-top-m
-	cym	Magdalena	np-ant	spa	Magdalena	np$np-ant$np-ant-f
+	cym	Magdalena	np-ant	spa	Magdalena	np$np-ant
 	cym	Mai	n-m	spa	mayo	n$n-m$n-m-sg
 	cym	Maia	np-ant	spa	Maia	np-ant$np
 	cym	Maisie	np-ant	spa	Maisie	np-ant
@@ -717,7 +717,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Marley	np-ant	spa	Marley	np-ant
 	cym	Marseille	np-top-f	spa	Marsella	np-top-f
 	cym	Marshall	np-cog	spa	Marshall	np$np-ant
-	cym	Marta	np-ant	spa	Marta	np$np-ant$np-ant-f
+	cym	Marta	np-ant	spa	Marta	np$np-ant
 	cym	Martha	np-ant	spa	Martha	np$np-ant
 	cym	Martin	np-ant	spa	Martin	np$np-ant$np-ant-m
 	cym	Martin	np-cog	spa	Martin	np$np-ant$np-ant-m
@@ -813,7 +813,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Nicholas	np-ant	spa	Nicholas	np$np-ant
 	cym	Nichole	np-ant	spa	Nichole	np-ant
 	cym	Nico	np-ant	spa	Nico	np-ant$np
-	cym	Nicolas	np-ant	spa	Nicolas	np$np-ant$np-ant-m
+	cym	Nicolas	np-ant	spa	Nicolas	np$np-ant
 	cym	Nicolau	np-ant	spa	Nicolau	np$np-ant
 	cym	Nicole	np-ant	spa	Nicole	np$np-ant
 	cym	Niger	np-top-f	spa	Níger	np-top-m$np-top
@@ -845,7 +845,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Papwa Gini Newydd	np-top-f	spa	Papúa Nueva Guinea	np-top-f
 	cym	Paraguay	np-top-f	spa	Paraguay	np$np-top-m$np-top
 	cym	Paragwâi	np-top-f	spa	Paraguay	np$np-top-m$np-top
-	cym	Parker	np-cog	spa	Parker	np$np-ant$np-ant-mf
+	cym	Parker	np-cog	spa	Parker	np$np-ant
 	cym	Parker	np-cog	spa	Parker	np-cog-mf$np-cog$np-cog-mf-sp
 	cym	Patrick	np-ant	spa	Patrick	np$np-ant
 	cym	Pau	np-ant	spa	Pau	np$np-ant
@@ -873,7 +873,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Rabat	np-top-f	spa	Rabat	np-top-m
 	cym	Ralph	np-ant	spa	Ralph	np$np-ant
 	cym	Ramon	np-ant	spa	Ramon	np$np-ant
-	cym	Raquel	np-ant	spa	Raquel	np$np-ant$np-ant-f$np-ant-f-sg
+	cym	Raquel	np-ant	spa	Raquel	np$np-ant$np-ant-f-sg
 	cym	Raymond	np-ant	spa	Raymond	np$np-ant
 	cym	Raúl	np-ant	spa	Raúl	np$np-ant$np-ant-m-sg
 	cym	Reece	np-ant	spa	Reece	np-ant
@@ -882,7 +882,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Reuben	np-ant	spa	Reuben	np-ant
 	cym	Reykjavík	np-top-f	spa	Reikiavik	np-top-m
 	cym	Rhagfyr	n-m	spa	diciembre	n$n-m$n-m-ND
-	cym	Rhufain	np-top-f	spa	Roma	np-top-f$np-top
+	cym	Rhufain	np-top-f	spa	Roma	np-top$np-top-f
 	cym	Rhys	np-ant	spa	Rhys	np$np-ant
 	cym	Richard	np-ant	spa	Richard	np-ant$np
 	cym	Riley	np-ant	spa	Riley	np-ant$np
@@ -912,7 +912,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Rwmania	np-top-f	spa	Rumanía	np-top-f$np-top
 	cym	Rwseg	n-f	spa	ruso	n$n-GD
 	cym	Rwseg	n-f	spa	ruso	n$n-GD
-	cym	Rwsia	np-top-f$np-top	spa	Rusia	np$np-top$np-top-f
+	cym	Rwsia	np-top-f$np-top	spa	Rusia	np$np-top-f$np-top
 	cym	Ryan	np-ant	spa	Ryan	np$np-ant
 	cym	Sahara	np-top-f	spa	Sáhara	np-top-m
 	cym	Salma	np-ant	spa	Salma	np-ant$np
@@ -924,10 +924,10 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Sandra	np-ant	spa	Sandra	np$np-ant$np-ant-f-sg
 	cym	Sandy	np-ant	spa	Sandy	np-ant$np
 	cym	Santiago	np-ant	spa	Santiago	np$np-ant$np-ant-m$np-ant-m-sg
-	cym	Sara	np-ant	spa	Sara	np$np-ant$np-ant-f$np-ant-f-sg
+	cym	Sara	np-ant	spa	Sara	np$np-ant$np-ant-f-sg
 	cym	Saray	np-ant	spa	Saray	np-ant$np
 	cym	Saul	np-ant	spa	Saul	np-ant
-	cym	Sbaen	np-top$np-top-f	spa	España	np$np-top$np-top-f
+	cym	Sbaen	np-top$np-top-f	spa	España	np-top-f$np-top
 	cym	Scott	np-ant	spa	Scott	np$np-ant
 	cym	Scott	np-cog	spa	Scott	np$np-ant
 	cym	Sean	np-ant	spa	Sean	np-ant$np
@@ -972,14 +972,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Stuart	np-ant	spa	Stuart	np$np-ant
 	cym	Sudan	np-top-f	spa	Sudán	np$np-top$np-top-m
 	cym	Sul	n-m	spa	domingo	n$n-m$n-m-sg
-	cym	Surinam	np-top-f	spa	Surinam	np-top-m$np$np-top
-	cym	Suriname	np-top-f	spa	Surinam	np-top-m$np$np-top
+	cym	Surinam	np-top-f	spa	Surinam	np-top-m$np
+	cym	Suriname	np-top-f	spa	Surinam	np-top-m$np
 	cym	Susan	np-ant	spa	Susan	np$np-ant
 	cym	Swaziland	np-top-f	spa	Suazilandia	np$np-top-f$np-top
 	cym	Swdan	np-top-f	spa	Sudán	np$np-top$np-top-m
 	cym	Sweden	np-top-f	spa	Suecia	np-top$np-top-f
-	cym	Swrinam	np-top-f	spa	Surinam	np-top-m$np$np-top
-	cym	Swrinâm	np-top-f	spa	Surinam	np-top-m$np$np-top
+	cym	Swrinam	np-top-f	spa	Surinam	np-top-m$np
+	cym	Swrinâm	np-top-f	spa	Surinam	np-top-m$np
 	cym	Syria	np-top-f	spa	Siria	np-top$np-top-f
 	cym	Sénégal	np-top-f	spa	Senegal	np$np-top-m$np-top
 	cym	Sílvia	np-ant	spa	Sílvia	np$np-ant
@@ -1016,7 +1016,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Tsiad	np-top-f	spa	Chad	np$np-ant
 	cym	Tsiad	np-top-f	spa	Chad	np-top-f$np-top
 	cym	Tsiecoslofacia	np-top-f	spa	Checoslovaquia	np-top-f
-	cym	Tsieina	np-top-f	spa	China	np-top$np-top-f
+	cym	Tsieina	np-top-f	spa	China	np-top-f$np-top
 	cym	Tsili	np-top-f	spa	Chile	np$np-top-m$np-top
 	cym	Tunis	np-top-f	spa	Túnez	np-top-m$np-top
 	cym	Tunisia	np-top-f	spa	Túnez	np-top-m$np-top
@@ -1027,7 +1027,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Uganda	np-top-f	spa	Uganda	np-top-f$np-top
 	cym	Ukrain	np-top-f	spa	Ucrania	np-top-f$np-top
 	cym	Ursula	np-ant	spa	Ursula	np-ant
-	cym	Uruguay	np-top-f	spa	Uruguay	np$np-top$np-top-m
+	cym	Uruguay	np-top-f	spa	Uruguay	np-top-m$np-top
 	cym	Uzbekistan	np-top-f	spa	Uzbekistán	np-top-m$np-top
 	cym	Venezuela	np-top-f	spa	Venezuela	np$np-top-f$np-top
 	cym	Victoria	np-top-f	spa	Victoria	np-ant$np$np-ant-f-sg
@@ -1049,7 +1049,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Wilson	np-cog	spa	Wilson	np$np-ant
 	cym	Wranws	np-top-f	spa	Urano	np-top-m
 	cym	Wright	np-cog	spa	Wright	np-cog-mf$np-cog$np-cog-mf-sp
-	cym	Wrwgwái	np-top-f	spa	Uruguay	np$np-top$np-top-m
+	cym	Wrwgwái	np-top-f	spa	Uruguay	np-top-m$np-top
 	cym	Wsbecistan	np-top-f	spa	Uzbekistán	np-top-m$np-top
 	cym	Xander	np-ant	spa	Xander	np-ant
 	cym	Xavier	np-ant	spa	Xavier	np$np-ant$np-ant-m-sg
@@ -1063,7 +1063,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Ynysoedd y Philippines	np-top-f	spa	Filipinas	np$np-loc-f-pl$np-loc$np-loc-f
 	cym	Ynysoedd y Pilipins	np-top-f	spa	Filipinas	np$np-loc-f-pl$np-loc$np-loc-f
 	cym	Yr Alban	np-top-f$np-top	spa	Escocia	np-top-f$np-top
-	cym	Ysbaen	np-top-f	spa	España	np$np-top$np-top-f
+	cym	Ysbaen	np-top-f	spa	España	np-top-f$np-top
 	cym	Zachary	np-ant	spa	Zachary	np-ant
 	cym	Zack	np-ant	spa	Zack	np-ant
 	cym	Zaira	np-ant	spa	Zaira	np-ant$np
@@ -1134,7 +1134,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	adeg	n-f	spa	tiempo	n-m$n-m-ND$n
 	cym	adeg	n-f	spa	tiempo	n-m-pl
 	cym	adeg	n-f	spa	tiempo	n-m-sg
-	cym	adeg	n-f	spa	vez	n-f$n-f-ND$n
+	cym	adeg	n-f	spa	vez	n-f$n$n-f-ND
 	cym	adeilad	n-mf	spa	construcción	n-f$n$n-f-sg
 	cym	adeilad	n-mf	spa	edificio	n-m$n$n-m-sg
 	cym	adeilad	n-mf	spa	nave	n-f$n$n-f-ND
@@ -1221,7 +1221,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	agoriad	n-m	spa	tecla	n$n-f$n-f-sg
 	cym	agoriad	n-m	spa	tono	n-m$n$n-m-sg
 	cym	agos	adj-sint	spa	cercano	adj$adj-GD-ND$adj-GD
-	cym	agosáu	vblex	spa	acercarse	vblex$vblex-pron
+	cym	agosáu	vblex	spa	acercarse	vblex-pron$vblex
 	cym	agwedd	n-f	spa	aspecto	n-m$n$n-m-sg
 	cym	agwedd	n-f	spa	viso	n-m$n
 	cym	ai	cnjcoo	spa	o	cnjcoo
@@ -1373,7 +1373,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	amser	n-m	spa	tiempo	n-m$n-m-ND$n
 	cym	amser	n-m	spa	tiempo	n-m-pl
 	cym	amser	n-m	spa	tiempo	n-m-sg
-	cym	amser	n-m	spa	vez	n-f$n-f-ND$n
+	cym	amser	n-m	spa	vez	n-f$n$n-f-ND
 	cym	amserlen	n-f	spa	horario	n-m$n$n-m-ND
 	cym	amserol	adj	spa	oportuno	adj$adj-GD-ND$adj-GD
 	cym	amseru	vblex	spa	cronometrar	vblex
@@ -1609,7 +1609,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	aredig	vblex	spa	labrar	vblex
 	cym	arestio	vblex	spa	arrestar	vblex
 	cym	areulder	n-m	spa	serenidad	n$n-f$n-f-ND
-	cym	arf	n-mf	spa	arma	n$n-f$n-f-sg
+	cym	arf	n-mf	spa	arma	n-f$n$n-f-sg
 	cym	arf	n-mf	spa	arma	n-f-pl
 	cym	arfaethu	vblex	spa	pretender	vblex
 	cym	arfarniad	n-m	spa	valoración	n-f$n$n-f-ND
@@ -1751,9 +1751,9 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	ategu	vblex	spa	apoyar	vblex
 	cym	ategu	vblex	spa	apadrinar	vblex
 	cym	atgof	n-m	spa	recordatorio	n$n-m
-	cym	atgoffa	vblex	spa	acordar	vblex
+	cym	atgoffa	vblex	spa	acordar	vblex$vblex-pron
 	cym	atgoffa	vblex	spa	recordar	vblex
-	cym	atgoffáu	vblex	spa	acordar	vblex
+	cym	atgoffáu	vblex	spa	acordar	vblex$vblex-pron
 	cym	atgoffáu	vblex	spa	recordar	vblex
 	cym	atgyfodi	vblex	spa	resucitar	vblex
 	cym	atgynhyrchu	vblex	spa	reproducir	vblex
@@ -1854,7 +1854,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	bas	adj	spa	superficial	adj$adj-mf$adj-mf-ND
 	cym	basged	n-f	spa	cesta	n$n-f$n-f-sg
 	cym	basged	n-f	spa	chistera	n$n-f
-	cym	bat	n-m	spa	murciélago	n$n-m
+	cym	bat	n-m	spa	murciélago	n-m$n
 	cym	bath	n-m	spa	bañera	n$n-f
 	cym	bath	n-m	spa	baño	n-m$n$n-m-ND
 	cym	bathodi	vblex	spa	acuñar	vblex
@@ -1984,7 +1984,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	braf	adj	spa	fino	adj$adj-m$adj-m-sg
 	cym	brag	n-m	spa	malta	n-f$n
 	cym	braich	n-f	spa	arma	n-f-pl
-	cym	braich	n-f	spa	brazo	n-m-sg$n-m$n
+	cym	braich	n-f	spa	brazo	n-m$n-m-sg$n
 	cym	braich	n-f	spa	brazo	n-m-pl
 	cym	braidd	adv	spa	bastante	adv
 	cym	braint	n-mf	spa	privilegio	n-m$n$n-m-sg
@@ -1995,7 +1995,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	braster	n-m	spa	grasa	n-f$n$n-f-ND
 	cym	brasáu	vblex	spa	engordar	vblex
 	cym	brathu	vblex	spa	morder	vblex
-	cym	brawd	n-m	spa	hermano	n-m$n$n-m-sg
+	cym	brawd	n-m	spa	hermano	n-m$n-m-sg
 	cym	brawddeg	n-f	spa	frase	n-f$n$n-f-sg
 	cym	brawddeg	n-f	spa	sentencia	n$n-f$n-f-sg
 	cym	brecio	vblex	spa	frenar	vblex
@@ -2026,7 +2026,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	bron	adv	spa	casi	adv
 	cym	bron	n-f	spa	pecho	n-m$n$n-m-sg
 	cym	bron	n-f	spa	seno	n-m$n
-	cym	brown	adj	spa	marrón	adj$adj-mf$adj-mf-ND$
+	cym	brown	adj	spa	marrón	adj-mf$adj$adj-mf-ND$
 	cym	brown	adj	spa	castaño	adj$adj-GD-ND
 	cym	brwd	adj-sint$adj	spa	caliente	adj-mf$adj$adj-mf-ND
 	cym	brwdfrydedd	n-m	spa	entusiasmo	n-m$n$n-m-sg
@@ -2085,7 +2085,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	bwyta	vblex	spa	comer	vblex$vblex-vbact
 	cym	bychain	adj	spa	pequeño	adj$adj-GD-ND
 	cym	bychan	adj	spa	pequeño	adj$adj-GD-ND
-	cym	byd	n-m	spa	mundo	n$n-m$n-m-sg
+	cym	byd	n-m	spa	mundo	n-m$n$n-m-sg
 	cym	byddar	adj	spa	sordo	adj$$adj-GD-ND
 	cym	byddin	n-f	spa	ejército	n-m$n$n-m-sg
 	cym	bydwraig	n-f	spa	matrona	n$n-f
@@ -2108,13 +2108,13 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	bysell	n-f	spa	tecla	n$n-f$n-f-sg
 	cym	bysell	n-f	spa	tono	n-m$n$n-m-sg
 	cym	bysellfwrdd	n-m	spa	teclado	n-m$n$n-m-sg
-	cym	byw	n-m	spa	vida	n$n-f$n-f-sg
+	cym	byw	n-m	spa	vida	n-f$n$n-f-sg
 	cym	byw	vblex	spa	vivir	vblex
 	cym	bywgraffyddol	adj	spa	biográfico	adj$adj-m-sg
 	cym	bywiog	adj	spa	vivo	adj$adj-GD-ND
 	cym	bywiol	adj	spa	vivo	adj$adj-GD-ND
 	cym	bywluniad	n-m	spa	animación	n$n-f
-	cym	bywyd	n-m	spa	vida	n$n-f$n-f-sg
+	cym	bywyd	n-m	spa	vida	n-f$n$n-f-sg
 	cym	bôn	n-m	spa	base	n-f$n$n-f-sg
 	cym	cabinet	n-m	spa	armario	n-m$n$n-m-sg
 	cym	cabinet	n-m	spa	gabinete	n$n-m$n-m-sg
@@ -2313,7 +2313,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cefnogi	vblex	spa	apadrinar	vblex
 	cym	cefnogwr	n-m	spa	seguidor	n$n-GD$n-GD-ND
 	cym	cefnogwr	n-m	spa	seguidor	n$n-GD$n-GD-ND
-	cym	ceg	n-f	spa	boca	n$n-f$n-f-ND
+	cym	ceg	n-f	spa	boca	n-f$n$n-f-ND
 	cym	ceg	n-f	spa	desembocadura	n-f$n
 	cym	cegin	n-f	spa	cocina	n-f$n$n-f-sg
 	cym	cegrythu	vblex	spa	bostezar	vblex
@@ -2335,7 +2335,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	celu	vblex	spa	receptar	vblex
 	cym	cemegol	adj	spa	químico	adj$adj-GD$adj-GD-ND
 	cym	cenedl	n-f	spa	nación	n$n-f$n-f-sg
-	cym	cenedlaethol	adj	spa	nacional	adj$adj-mf$adj-mf-pl
+	cym	cenedlaethol	adj	spa	nacional	adj-mf$adj$adj-mf-pl
 	cym	cenedlaetholdeb	n-m	spa	nacionalismo	n$n-m$n-m-ND
 	cym	cenedlaetholgar	adj	spa	nacionalista	adj$adj-mf$adj-mf-sg
 	cym	cenfigennu	vblex	spa	envidiar	vblex
@@ -2343,7 +2343,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cenhedlaeth	n-f	spa	generación	n$n-f$n-f-ND
 	cym	cenhinen	n-f	spa	puerro	n$n-m
 	cym	cerbyd	n-m	spa	transporte	n-m$n$n-m-sg
-	cym	cerdd	n-f	spa	poema	n$n-m$n-m-ND
+	cym	cerdd	n-f	spa	poema	n-m$n$n-m-ND
 	cym	cerdd	n-f	spa	música	n$n-f$n-f-ND
 	cym	cerdded	vblex	spa	andar	vblex$
 	cym	cerdded	vblex	spa	caminar	vblex$vblex-inf
@@ -2353,12 +2353,12 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cerddorol	adj	spa	musical	adj$adj-mf$adj-mf-pl
 	cym	cerdyn	n-m	spa	carta	n-f$n$n-f-ND
 	cym	cerdyn	n-m	spa	tarjeta	n$n-f$n-f-sg
-	cym	cerflun	n-m	spa	estatua	n$n-f$n-f-ND
+	cym	cerflun	n-m	spa	estatua	n-f$n$n-f-ND
 	cym	cerrynt	n-m	spa	corriente	n-f$n-f-sg$n
 	cym	cetrisen	n-f	spa	cartucho	n-m$n
 	cym	ceudod	n-m	spa	cavidad	n$n-f$n-f-ND
 	cym	ceugrwm	adj	spa	cóncavo	adj$adj-m-sg
-	cym	chwaer	n-f	spa	hermano	n-f$n-f-ND
+	cym	chwaer	n-f	spa	hermano	n-f$n$n-f-ND
 	cym	chwaith	adv	spa	tampoco	adv
 	cym	chwalfa	n-f	spa	accidente	n-m$n$n-m-sg
 	cym	chwalfa	n-f	spa	choque	n-m$n$n-m-ND
@@ -2501,7 +2501,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	coelio	vblex	spa	creer	vblex
 	cym	cof	n-m	spa	memoria	n$n-f$n-f-sg
 	cym	coffi	n-m	spa	café	n-m$n$n-m-sg
-	cym	cofio	vblex	spa	acordar	vblex
+	cym	cofio	vblex	spa	acordar	vblex$vblex-pron
 	cym	cofio	vblex	spa	recordar	vblex
 	cym	cofnod	n-m	spa	registro	n-m$n$n-m-ND
 	cym	cofnod	n-m	spa	récord	n$n-m$n-m-sg
@@ -2555,7 +2555,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	corfannu	vblex	spa	escanear	vblex
 	cym	corff	n-m	spa	cuerpo	n-m$n$n-m-sg
 	cym	corffoli	vblex	spa	encarnar	vblex
-	cym	corfforaeth	n-f	spa	empresa	n$n-f$n-f-sg
+	cym	corfforaeth	n-f	spa	empresa	n-f$n$n-f-sg
 	cym	corfforaethol	adj	spa	corporativo	adj$adj-m-sg
 	cym	corfforedig	adj	spa	corporativo	adj$adj-m-sg
 	cym	corffori	vblex	spa	encarnar	vblex
@@ -2667,21 +2667,21 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cwato	vblex	spa	ocultar	vblex
 	cym	cwblhad	n-m	spa	conclusión	n-f$n$n-f-sg
 	cym	cwblhau	vblex	spa	completar	vblex
-	cym	cwch	n-m	spa	barca	n$n-f$n-f-ND
+	cym	cwch	n-m	spa	barca	n-f$n$n-f-ND
 	cym	cwci	n-m	spa	galleta	n-f$n$n-f-sg
 	cym	cwestiwn	n-m	spa	cuestión	n-f$n$n-f-sg
-	cym	cwestiwn	n-m	spa	pregunta	n$n-f$n-f-ND
+	cym	cwestiwn	n-m	spa	pregunta	n-f$n$n-f-ND
 	cym	cwestiynu	vblex	spa	cuestionar	vblex
 	cym	cwffio	vblex	spa	luchar	vblex
-	cym	cwlwm	n-m	spa	nudo	n$n-m$n-m-ND
+	cym	cwlwm	n-m	spa	nudo	n-m$n$n-m-ND
 	cym	cwm	n-m	spa	valle	n-m$n$n-m-ND
 	cym	cwmni	n-m	spa	compañía	n$n-f$n-f-ND
-	cym	cwmni	n-m	spa	empresa	n$n-f$n-f-sg
+	cym	cwmni	n-m	spa	empresa	n-f$n$n-f-sg
 	cym	cwmpas	n-m	spa	alcance	n-m$n$n-m-sg
 	cym	cwmpasu	vblex	spa	rodear	vblex
 	cym	cwmwl	n-m	spa	nube	n-f$n$n-f-ND
 	cym	cwningen	n-f	spa	conejo	n-GD
-	cym	cwningen	n-f	spa	conejo	n$n-m$n-m-sg
+	cym	cwningen	n-f	spa	conejo	n-m$n$n-m-sg
 	cym	cwnnu	vblex	spa	aumentar	vblex
 	cym	cwota	n-m	spa	cuota	n-f-sg$n$n-f
 	cym	cwpan	n-mf	spa	copa	n-f$n$n-f-ND
@@ -2741,7 +2741,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cydgyfeirio	vblex	spa	converger	vblex
 	cym	cydgyffwrdd	vblex	spa	coincidir	vblex
 	cym	cydgyfranogi	vblex	spa	participar	vblex
-	cym	cydladd	vblex	spa	acordar	vblex
+	cym	cydladd	vblex	spa	acordar	vblex$vblex-pron
 	cym	cydladd	vblex	spa	concordar	vblex
 	cym	cydladd	vblex	spa	estar	vblex$vblex-inf
 	cym	cydlyniad	n-m	spa	cohesión	n$n-f-sg$n-f
@@ -2761,7 +2761,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cydroddi	vblex	spa	contribuir	vblex
 	cym	cydroddi	vblex	spa	aportar	vblex
 	cym	cydsyniad	n-m	spa	consentimiento	n$n-m$n-m-sg
-	cym	cydsynio	vblex	spa	acordar	vblex
+	cym	cydsynio	vblex	spa	acordar	vblex$vblex-pron
 	cym	cydsynio	vblex	spa	concordar	vblex
 	cym	cydsynio	vblex	spa	estar	vblex$vblex-inf
 	cym	cyduno	vblex	spa	unir	vblex
@@ -2926,7 +2926,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cyfnewidfa	n-f	spa	intercambio	n$n-m$n-m-sg
 	cym	cyfnewidiol	adj	spa	variable	adj-mf$adj$adj-mf-ND
 	cym	cyfnod	n-m	spa	periodo	n-m$n$n-m-sg
-	cym	cyfnod	n-m	spa	época	n$n-f$n-f-ND
+	cym	cyfnod	n-m	spa	época	n-f$n$n-f-ND
 	cym	cyfnodol	adj	spa	periódico	adj$adj-GD-ND$adj-GD
 	cym	cyfochrog	adj	spa	paralelo	adj$adj-GD-ND$adj-GD
 	cym	cyfoes	adj	spa	moderno	adj$adj-GD-ND$adj-GD
@@ -3110,7 +3110,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cynanu	vblex	spa	pronunciar	vblex
 	cym	cynddaredd	n-f	spa	rabia	n-f$n$n-f-ND
 	cym	cynefin	n-m	spa	hábitat	n$n-m$n-m-sg
-	cym	cynfas	n-m	spa	tela	n$n-f$n-f-ND
+	cym	cynfas	n-m	spa	tela	n-f$n$n-f-ND
 	cym	cynffon	n-f	spa	cola	n-f$n$n-f-ND
 	cym	cynffon	n-f	spa	rabo	n-m$n$n-m-ND
 	cym	cyngerdd	n-mf	spa	concierto	n-m$n$n-m-sg
@@ -3176,7 +3176,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cynnu	vblex	spa	encender	vblex
 	cym	cynnu	vblex	spa	iluminar	vblex
 	cym	cynnull	vblex	spa	allegar	vblex
-	cym	cynnull	vblex	spa	reunir	vblex
+	cym	cynnull	vblex	spa	reunir	vblex$vblex-pron
 	cym	cynnwys	n-m	spa	contenido	n-m$n$n-m-ND
 	cym	cynnwys	vblex	spa	contener	vblex
 	cym	cynnydd	n-m	spa	progreso	n-m$n-m-ND$n
@@ -3209,7 +3209,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cyrchnod	n-m	spa	gol	n$n-m$n-m-ND
 	cym	cyrchnod	n-m	spa	objetivo	n-m$n$n-m-sg
 	cym	cyrchnod	n-m	spa	portería	n$n-f
-	cym	cyrchu	vblex	spa	acercarse	vblex$vblex-pron
+	cym	cyrchu	vblex	spa	acercarse	vblex-pron$vblex
 	cym	cyrchydd	n-m	spa	cursor	n$n-m$n-m-sg
 	cym	cyrhaeddiad	n-m	spa	consecución	n$n-f$n-f-sg
 	cym	cyrion	n-mf	spa	margen	n-m$n-m-sg$n
@@ -3250,7 +3250,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cysylltu	vblex	spa	enlazar	vblex
 	cym	cysyniad	n-m	spa	concepto	n$n-m$n-m-sg
 	cym	cytgord	n-m	spa	armonía	n-f$n$n-f-ND
-	cym	cythru	vblex	spa	apresurarse	vblex$vblex-pron
+	cym	cythru	vblex	spa	apresurarse	vblex-pron$vblex
 	cym	cythruddo	vblex	spa	provocar	vblex
 	cym	cythryblu	vblex	spa	acosar	vblex
 	cym	cytsain	n-f	spa	consonante	n$n-f$n-f-ND
@@ -3258,7 +3258,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cytundeb	n-m	spa	contrato	n$n-m$n-m-ND
 	cym	cytundeb	n-m	spa	convenio	n$n-m$n-m-sg
 	cym	cytunedd	n-m	spa	compatibilidad	n$n-f$n-f-sg
-	cym	cytuno	vblex	spa	acordar	vblex
+	cym	cytuno	vblex	spa	acordar	vblex$vblex-pron
 	cym	cytuno	vblex	spa	concordar	vblex
 	cym	cytuno	vblex	spa	estar	vblex$vblex-inf
 	cym	cywair	n-m	spa	clave	n-f$n$n-f-ND
@@ -3279,7 +3279,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cywiro	vblex	spa	corregir	vblex
 	cym	cân	n-f	spa	canción	n-f$n$n-f-sg
 	cym	côn	n-m	spa	cono	n$n-m
-	cym	côr	n-m	spa	coro	n$n-m$n-m-ND
+	cym	côr	n-m	spa	coro	n-m$n$n-m-ND
 	cym	cŵl	adj	spa	fresco	adj$adj-f
 	cym	da	adj-sint$adj	spa	buen	adj$adj-m-sg
 	cym	da	adj-sint$adj	spa	bueno	adj-m-sg
@@ -3326,7 +3326,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	dalen	n-f	spa	chapa	n$n-f
 	cym	daliad	n-m	spa	holding	n-m$n
 	cym	dall	adj	spa	ciego	adj$adj-GD$$adj-GD-ND
-	cym	dallineb	n-m	spa	ceguera	n$n-f$n-f-ND
+	cym	dallineb	n-m	spa	ceguera	n-f$n$n-f-ND
 	cym	dallu	vblex	spa	cegar	vblex
 	cym	damcaniaethol	adj	spa	teórico	adj$adj-GD$adj-GD-ND
 	cym	damwain	n-f	spa	accidente	n-m$n$n-m-sg
@@ -3402,7 +3402,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	datseilio	vblex	spa	socavar	vblex
 	cym	dawn	n-mf	spa	talento	n-m$n$n-m-sg
 	cym	dawns	n-f	spa	baile	n-m$n$n-m-sg
-	cym	dawns	n-f	spa	danza	n$n-f$n-f-sg
+	cym	dawns	n-f	spa	danza	n-f$n$n-f-sg
 	cym	dawnsio	vblex	spa	bailar	vblex
 	cym	dawnswr	n-m	spa	bailaor	n$n-f-sg
 	cym	dawnswr	n-m	spa	bailarín	n-GD$n-GD-ND
@@ -3415,7 +3415,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	deall	vblex	spa	entender	vblex
 	cym	dealltwriaeth	n-f	spa	comprensión	n$n-f$n-f-sg
 	cym	deallus	adj	spa	listo	adj$adj-GD-ND
-	cym	deallus	adj	spa	inteligente	adj-mf$adj-mf-ND$adj
+	cym	deallus	adj	spa	inteligente	adj-mf$adj$adj-mf-ND
 	cym	deallusol	adj	spa	intelectual	adj-mf$adj$adj-mf-ND
 	cym	debyd	n-m	spa	débito	n$n-m
 	cym	dechrau	n-m	spa	comienzo	n$n-m$n-m-sg
@@ -3438,7 +3438,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	defnyddiwr	n-m	spa	usuario	n$n-GD
 	cym	defnyddiwr	n-m	spa	usuario	n$n-GD
 	cym	defodaeth	n-f	spa	ritualismo	n-m$n
-	cym	deg	num	spa	diez	num$num-mf$$num-mf-sp
+	cym	deg	num	spa	diez	num$num-mf$num-mf-sp$
 	cym	deg	n-m	spa	decena	n$n-f$n-f-pl
 	cym	degaid	n-m	spa	década	n-f$n$n-f-ND
 	cym	degawd	n-m	spa	década	n-f$n$n-f-ND
@@ -3902,8 +3902,8 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	dyn gasedd	n-m	spa	misantropía	n$n-f
 	cym	dynameg	n-f	spa	dinámica	n$n-f$n-f-ND
 	cym	dynamig	adj	spa	dinámico	adj$adj-GD-ND$adj-GD
-	cym	dynesu	vblex	spa	acercarse	vblex$vblex-pron
-	cym	dynesáu	vblex	spa	acercarse	vblex$vblex-pron
+	cym	dynesu	vblex	spa	acercarse	vblex-pron$vblex
+	cym	dynesáu	vblex	spa	acercarse	vblex-pron$vblex
 	cym	dynodi	vblex	spa	denotar	vblex
 	cym	dynol	adj	spa	humano	adj$adj-GD-ND
 	cym	dynolryw	n-f	spa	humanidad	n$n-f$n-f-sg
@@ -3942,12 +3942,12 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	edmygedd	n-m	spa	admiración	n$n-f$n-f-ND
 	cym	edmygu	vblex	spa	admirar	vblex
 	cym	edrych	vblex	spa	mirar	vblex$vblex-vbact
-	cym	edrych	vblex	spa	parecer	vblex$
+	cym	edrych	vblex	spa	parecer	vblex$$vblex-pron
 	cym	edrychiad	n-m	spa	aspecto	n-m$n$n-m-sg
 	cym	edrychiad	n-m	spa	mirada	n-f$n$n-f-ND
 	cym	edrychiad	n-m	spa	viso	n-m$n
 	cym	edrychyd	vblex	spa	mirar	vblex$vblex-vbact
-	cym	edrychyd	vblex	spa	parecer	vblex$
+	cym	edrychyd	vblex	spa	parecer	vblex$$vblex-pron
 	cym	efallai	adv	spa	quizá	adv
 	cym	efallai	adv	spa	quizás	adv
 	cym	efelychiad	n-m	spa	emulación	n-f$n
@@ -4224,7 +4224,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	ffit	adj	spa	apto	adj$adj-m-sg$adj-m
 	cym	ffitio	vblex	spa	caber	vblex
 	cym	ffiwdaliaeth	n-f	spa	feudalismo	n$n-m
-	cym	fflam	n-f	spa	llama	n$n-f$n-f-ND
+	cym	fflam	n-f	spa	llama	n-f$n$n-f-ND
 	cym	fflat	n-f	spa	piso	n-m$n$n-m-ND
 	cym	ffo	n-m	spa	vuelo	n-m$n$n-m-ND
 	cym	ffoadur	n-m	spa	refugiado	n$n-m$n-m-sg
@@ -4264,7 +4264,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	ffres	adj	spa	fresco	adj$adj-f
 	cym	ffrind	n-m	spa	amigo	n-GD
 	cym	ffrind	n-m	spa	amigo	n$n-m$n-m-ND
-	cym	ffrio	vblex	spa	freír	vblex
+	cym	ffrio	vblex	spa	freír	vblex$vblex-pron
 	cym	ffroenell	n-f	spa	tobera	n-f$n
 	cym	ffrwd	n-m	spa	corriente	n-f$n-f-sg$n
 	cym	ffrwydrad	n-m	spa	explosión	n-f$n$n-f-ND
@@ -4303,7 +4303,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	ffyddlon	adj	spa	fiel	adj-mf$adj$adj-mf-ND
 	cym	ffynhonnell	n-f	spa	fuente	n-f$n$n-f-sg
 	cym	ffyniant	n-m	spa	prosperidad	n-f$n$n-f-sg
-	cym	ffyrm	n-f	spa	empresa	n$n-f$n-f-sg
+	cym	ffyrm	n-f	spa	empresa	n-f$n$n-f-sg
 	cym	ffyrnig	adj	spa	feroz	adj-mf$adj$adj-mf-pl
 	cym	ffôn	n-m$n	spa	teléfono	n$n-m$n-m-sg
 	cym	fideo	n-m	spa	vídeo	n$n-m$n-m-sg
@@ -4539,20 +4539,20 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	gwahardd	vblex	spa	prohibir	vblex
 	cym	gwaharddiad	n-m	spa	prohibición	n$n-f$n-f-sg
 	cym	gwahodd	vblex	spa	invitar	vblex
-	cym	gwahoddedig	n-m	spa	huésped	n$n-GD
-	cym	gwahoddedig	n-m	spa	huésped	n$n-GD
+	cym	gwahoddedig	n-m	spa	huésped	n-GD
+	cym	gwahoddedig	n-m	spa	huésped	n$n-m$n-m-ND
 	cym	gwahoddiad	n-m	spa	invitación	n-f$n$n-f-ND
 	cym	gwahân	adj	spa	separado	adj$adj-GD-ND
 	cym	gwair	n-m	spa	heno	n-m$n
 	cym	gwaith	n-m	spa	curro	n-m$n$n-m-ND
 	cym	gwaith	n-m	spa	faena	n-f$n$n-f-ND
 	cym	gwaith	n-m	spa	obra	n-f$n$n-f-ND
-	cym	gwaith	n-m	spa	trabajo	n-m$n-m-sg$n
+	cym	gwaith	n-m	spa	trabajo	n-m$n$n-m-sg
 	cym	gwaith	n-f	spa	hora	n-f$n$n-f-sg
 	cym	gwaith	n-f	spa	tiempo	n-m$n-m-ND$n
 	cym	gwaith	n-f	spa	tiempo	n-m-pl
 	cym	gwaith	n-f	spa	tiempo	n-m-sg
-	cym	gwaith	n-f	spa	vez	n-f$n-f-ND$n
+	cym	gwaith	n-f	spa	vez	n-f$n$n-f-ND
 	cym	gwalcio	vblex	spa	aparecer	vblex
 	cym	gwall	n-m	spa	error	n-m$n$n-m-sg
 	cym	gwallau	n-m	spa	error	n-m$n$n-m-sg
@@ -4689,7 +4689,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	gwenu	vblex	spa	sonreír	vblex
 	cym	gwenwyn	n-m	spa	veneno	n-m$n$n-m-sg
 	cym	gwenwyno	vblex	spa	envenenar	vblex
-	cym	gwenynen	n-f	spa	abeja	n$n-f$n-f-ND
+	cym	gwenynen	n-f	spa	abeja	n-f$n$n-f-ND
 	cym	gwepio	vblex	spa	llorar	vblex
 	cym	gwerdd	adj	spa	verde	adj-mf$adj$adj-mf-pl
 	cym	gweriniaeth	n-f	spa	república	n$n-f$n-f-ND
@@ -4708,8 +4708,8 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	gwerthusiad	n-m	spa	evaluación	n$n-f$n-f-sg
 	cym	gwerthwr	n-m	spa	vendedor	n-GD$n-GD-pl
 	cym	gwerthwr	n-m	spa	vendedor	n-m$n$n-m-ND
-	cym	gwestai	n-m	spa	huésped	n$n-GD
-	cym	gwestai	n-m	spa	huésped	n$n-GD
+	cym	gwestai	n-m	spa	huésped	n-GD
+	cym	gwestai	n-m	spa	huésped	n$n-m$n-m-ND
 	cym	gwesteiwr	n-m	spa	anfitrión	n-GD
 	cym	gwesteiwr	n-m	spa	anfitrión	n$n-m$n-m-sg
 	cym	gwesty	n-m	spa	hotel	n-m$n$n-m-sg
@@ -4717,7 +4717,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	gwifren	n-f	spa	alambre	n-m$n
 	cym	gwifren	n-f	spa	cable	n-m$n$n-m-ND
 	cym	gwin	n-m	spa	vino	n$n-m$n-m-sg
-	cym	gwinau	adj	spa	marrón	adj$adj-mf$adj-mf-ND$
+	cym	gwinau	adj	spa	marrón	adj-mf$adj$adj-mf-ND$
 	cym	gwinau	adj	spa	castaño	adj$adj-GD-ND
 	cym	gwir	adj	spa	cierto	adj$adj-GD-ND
 	cym	gwir	adj	spa	verdadero	adj$adj-GD-ND$adj-GD
@@ -4734,12 +4734,12 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	gwlad Basg	np-top-f	spa	País Vasco	np$np-top$np-top-m
 	cym	gwlad Thai	np-top-f	spa	Tailandia	np-top$np-top-f
 	cym	gwladgarwch	n-m	spa	patriotismo	n-m$n
-	cym	gwladol	adj	spa	nacional	adj$adj-mf$adj-mf-pl
+	cym	gwladol	adj	spa	nacional	adj-mf$adj$adj-mf-pl
 	cym	gwledd	n-f	spa	festín	n-m$n
 	cym	gwledig	adj	spa	rural	adj$adj-mf$adj-mf-ND
 	cym	gwleidydd	n-m	spa	político	n$n-GD
 	cym	gwleidydd	n-m	spa	político	n$n-GD
-	cym	gwleidyddiaeth	n-f	spa	política	n$n-f$n-f-sg
+	cym	gwleidyddiaeth	n-f	spa	política	n-f$n$n-f-sg
 	cym	gwleidyddol	adj	spa	político	adj$adj-GD$adj-GD-ND
 	cym	gwlyb	adj	spa	húmedo	adj$adj-GD$adj-GD-ND
 	cym	gwneud	vblex	spa	hacer	vblex$vblex-inf
@@ -4809,7 +4809,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	gwylio	vblex	spa	mirar	vblex$vblex-vbact
 	cym	gwylio	vblex	spa	vigilar	vblex
 	cym	gwyllt	adj-sint	spa	salvaje	adj-mf$adj$adj-mf-sg
-	cym	gwymon	n-m	spa	alga	n$n-f
+	cym	gwymon	n-m	spa	alga	n-f$n
 	cym	gwyn	adj-sint$adj	spa	blanco	adj$adj-GD-ND
 	cym	gwynt	n-m	spa	viento	n$n-m$n-m-ND
 	cym	gwyntio	vblex	spa	oler	vblex
@@ -4870,7 +4870,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	hapusrwydd	n-m	spa	felicidad	n-f$n$n-f-ND
 	cym	harbwr	n-m	spa	puerto	n-m$n$n-m-sg
 	cym	harmonig	adj	spa	armónico	adj$adj-f
-	cym	haul	n-m	spa	sol	n$n-m$n-m-ND
+	cym	haul	n-m	spa	sol	n-m$n$n-m-ND
 	cym	hawdd	adj-sint$adj	spa	fácil	adj-mf$adj$adj-mf-ND
 	cym	hawl	n-f	spa	derecha	n$n-f$n-f-ND
 	cym	hawl	n-f	spa	derecho	n-m$n$n-m-sg
@@ -5119,7 +5119,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	imperial	adj	spa	imperial	adj-mf$adj$adj-mf-pl
 	cym	imperialaeth	n-f	spa	imperialismo	n$n-m$n-m-ND
 	cym	impetws	n-m	spa	ímpetu	n$n-m
-	cym	inc	n-m	spa	tinta	n$n-f$n-f-sg
+	cym	inc	n-m	spa	tinta	n-f$n$n-f-sg
 	cym	incwm	n-m	spa	ingreso	n$n-m$n-m-pl
 	cym	injan	n-f	spa	motor	n-m$n$n-m-sg
 	cym	integreiddiad	n-m	spa	integración	n-f$n$n-f-sg
@@ -5154,7 +5154,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	lafant	n-m	spa	espliego	n-m$n
 	cym	lafant	n-m	spa	lavanda	n-f$n
 	cym	lamp	n-f	spa	lámpara	n-f$n$n-f-ND
-	cym	lansiad	n-m	spa	lancha	n$n-f
+	cym	lansiad	n-m	spa	lancha	n-f$n
 	cym	lansiad	n-m	spa	lanzamiento	n-m$n$n-m-ND
 	cym	lansio	vblex	spa	arrojar	vblex
 	cym	lansio	vblex	spa	lanzar	vblex
@@ -5186,7 +5186,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	llafar	n-m	spa	discurso	n-m$n$n-m-ND
 	cym	llafar	n-m	spa	habla	n-f$n$n-f-ND
 	cym	llafariad	n-f	spa	vocal	n$n-f$n-f-ND
-	cym	llafur	n-m	spa	trabajo	n-m$n-m-sg$n
+	cym	llafur	n-m	spa	trabajo	n-m$n$n-m-sg
 	cym	llais	n-m	spa	voz	n$n-f$n-f-sg
 	cym	llam	n-m	spa	salto	n-m$n$n-m-ND
 	cym	llamu	vblex	spa	saltar	vblex
@@ -5201,7 +5201,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	llawdriniaeth	n-f	spa	funcionamiento	n-m$n$n-m-sg
 	cym	llawdriniaeth	n-f	spa	operación	n$n-f$n-f-sg
 	cym	llawen	adj	spa	alegre	adj-mf$adj$adj-mf-pl
-	cym	llawer o	det-qnt	spa	mucho	det-qnt-GD-ND$det-qnt$det-qnt-GD
+	cym	llawer o	det-qnt	spa	mucho	det-qnt$det-qnt-GD-ND$det-qnt-GD
 	cym	llawer o	det-qnt	spa	mucho	det-ind$det$det-ind-GD-ND
 	cym	llawfeddyg	n-m	spa	cirujano	n-GD
 	cym	llawfeddyg	n-m	spa	cirujano	n$n-m
@@ -5210,7 +5210,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	llawn	adj-sint$adj	spa	pleno	adj$adj-GD-ND
 	cym	llawr	n-m	spa	tierra	n-f$n$n-f-sg
 	cym	llawr	n-m	spa	piso	n-m$n$n-m-ND
-	cym	llawr	n-m	spa	suelo	n$n-m$n-m-sg
+	cym	llawr	n-m	spa	suelo	n-m$n$n-m-sg
 	cym	llawysgrif	n-f	spa	manuscrito	n$n-m$n-m-sg
 	cym	lle	adv-itg	spa	adónde	adv$adv-itg
 	cym	lle	adv-itg	spa	dónde	adv$adv-itg
@@ -5271,7 +5271,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	lletya	vblex	spa	hospedar	vblex
 	cym	lleuad	n-f	spa	luna	n$n-f$n-f-sg
 	cym	lleuadol	adj	spa	lunar	adj$adj-mf$adj-mf-sg
-	cym	lleuen	n-f	spa	piojo	n$n-m
+	cym	lleuen	n-f	spa	piojo	n-m$n
 	cym	llew	n-m	spa	león	n-GD$n-GD-pl
 	cym	llew	n-m	spa	león	n$n-m$n-m-sg
 	cym	llewyrch	n-m	spa	radiancia	n$n-f
@@ -5291,11 +5291,11 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	llinell	n-f	spa	renglón	n-m$n-m-ND
 	cym	lliniaru	vblex	spa	aliviar	vblex
 	cym	llinol	adj	spa	lineal	adj$adj-mf$adj-mf-sg
-	cym	llinyn	n-m	spa	cuerda	n$n-f$n-f-ND
+	cym	llinyn	n-m	spa	cuerda	n-f$n$n-f-ND
 	cym	llipa	adj	spa	flexible	adj$adj-mf-ND$adj-mf
 	cym	llithio	vblex	spa	nutrir	vblex
 	cym	llithro	vblex	spa	resbalar	vblex
-	cym	lliw	n-m	spa	color	n-m$n-m-sg$n
+	cym	lliw	n-m	spa	color	n-m$n$n-m-sg
 	cym	lliwio	vblex	spa	pintar	vblex
 	cym	lloches	n-f	spa	asilo	n$n-m$n-m-ND
 	cym	lloeren	n-f	spa	satélite	n$n-m$n-m-sg
@@ -5430,7 +5430,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	logarithmig	adj	spa	logarítmico	adj$adj-m-sg
 	cym	losen	n-f	spa	chuchería	n$n-f
 	cym	losen	n-f	spa	golosina	n-f$n
-	cym	lot o	det-qnt	spa	mucho	det-qnt-GD-ND$det-qnt$det-qnt-GD
+	cym	lot o	det-qnt	spa	mucho	det-qnt$det-qnt-GD-ND$det-qnt-GD
 	cym	lot o	det-qnt	spa	mucho	det-ind$det$det-ind-GD-ND
 	cym	loteri	n-m	spa	lotería	n$n-f
 	cym	lotri	n-f	spa	lotería	n$n-f
@@ -5531,7 +5531,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	medd	n-m	spa	aguamiel	n-f$n
 	cym	medd	vblex	spa	decir	vblex$vblex-inf$
 	cym	meddal	adj	spa	blando	adj$adj-m-sg$adj-m
-	cym	meddal	adj	spa	suave	adj-mf$adj-mf-ND$adj
+	cym	meddal	adj	spa	suave	adj-mf$adj$adj-mf-ND
 	cym	meddalhau	vblex	spa	suavizar	vblex
 	cym	meddalu	vblex	spa	suavizar	vblex
 	cym	meddalwch	n-m	spa	suavidad	n-f$n
@@ -5582,7 +5582,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	melyn	adj	spa	amarillo	adj$adj-GD-ND$adj-GD$
 	cym	melys	adj	spa	dulce	adj-mf$adj$adj-mf-ND
 	cym	memorandwm	n-m	spa	memorándum	n-m$n$n-m-sg
-	cym	menter	n-f	spa	empresa	n$n-f$n-f-sg
+	cym	menter	n-f	spa	empresa	n-f$n$n-f-sg
 	cym	menu	vblex	spa	estorbar	vblex
 	cym	menu	vblex	spa	perturbar	vblex
 	cym	menu	vblex	spa	trastornar	vblex
@@ -5596,7 +5596,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	mesuriad	n-m	spa	medida	n-f$n$n-f-sg
 	cym	mesuro	vblex	spa	medir	vblex
 	cym	metaboleg	n-f	spa	metabolismo	n-m$n
-	cym	metel	n-m	spa	metal	n$n-m$n-m-ND
+	cym	metel	n-m	spa	metal	n-m$n$n-m-ND
 	cym	metelyddiaeth	n-f	spa	metalurgia	n$n-f$n-f-sg
 	cym	methdaliad	n-m	spa	bancarrota	n-f$n
 	cym	methiant	n-m	spa	avería	n$n-f$n-f-ND
@@ -5718,7 +5718,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	mwyafswm	n-m	spa	máximo	n-m$n
 	cym	mwyhau	vblex	spa	ampliar	vblex
 	cym	mwyn	n-m	spa	mineral	n-m$n$n-m-sg
-	cym	mwyn	adj	spa	suave	adj-mf$adj-mf-ND$adj
+	cym	mwyn	adj	spa	suave	adj-mf$adj$adj-mf-ND
 	cym	mwyngloddwr	n-m	spa	minero	n-GD
 	cym	mwyngloddwr	n-m	spa	minero	n$n-m
 	cym	mwynhad	n-m	spa	diversión	n-f$n$n-f-ND
@@ -5805,8 +5805,8 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	nerthu	vblex	spa	fortalecer	vblex
 	cym	nes	cnjadv	spa	hasta que	cnjadv
 	cym	nesaf	adj	spa	próximo	adj$adj-GD$adj-GD-ND
-	cym	nesu	vblex	spa	acercarse	vblex$vblex-pron
-	cym	nesáu	vblex	spa	acercarse	vblex$vblex-pron
+	cym	nesu	vblex	spa	acercarse	vblex-pron$vblex
+	cym	nesáu	vblex	spa	acercarse	vblex-pron$vblex
 	cym	neu	cnjcoo	spa	o	cnjcoo
 	cym	neu	cnjcoo	spa	o bien	cnjcoo
 	cym	neuadd	n-f	spa	sala	n$n-f$n-f-sg
@@ -6026,9 +6026,9 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	pedrant	n-m	spa	cuadrante	n-m$n
 	cym	pedrochr	n-m	spa	cuadrilátero	n$n-m
 	cym	pedrongl	n-m	spa	cuadrángulo	n$n-m
-	cym	pedwaredd	det-ord	spa	cuarto	det-ord-GD-ND$det-ord$det
-	cym	pedwaredd	det-ord	spa	cuarto	det-ord-GD-ND$det-ord$det
-	cym	pedwerydd	det-ord	spa	cuarto	det-ord-GD-ND$det-ord$det
+	cym	pedwaredd	det-ord	spa	cuarto	det-ord$det-ord-GD-ND$det
+	cym	pedwaredd	det-ord	spa	cuarto	det-ord$det-ord-GD-ND$det
+	cym	pedwerydd	det-ord	spa	cuarto	det-ord$det-ord-GD-ND$det
 	cym	pegynol	adj	spa	polar	adj$adj-mf$adj-mf-sg
 	cym	pegynu	vblex	spa	polarizar	vblex
 	cym	peidio	vblex	spa	detener	vblex
@@ -6212,7 +6212,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	poethi	vblex	spa	animar	vblex
 	cym	poethi	vblex	spa	calentar	vblex
 	cym	polareiddio	vblex	spa	polarizar	vblex
-	cym	polisi	n-m	spa	política	n$n-f$n-f-sg
+	cym	polisi	n-m	spa	política	n-f$n$n-f-sg
 	cym	polygon	n-m	spa	polígono	n-m$n$n-m-sg
 	cym	polyhedron	n-m	spa	poliedro	n-m$n
 	cym	polynomaidd	adj	spa	polinómico	adj$adj-m
@@ -6242,7 +6242,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	poster	n-m	spa	póster	n$n-m$n-m-sg
 	cym	pot	n-m	spa	tarro	n$n-m
 	cym	pot	n-m	spa	maceta	n-f$n$n-f-ND
-	cym	pot	n-m	spa	olla	n$n-f
+	cym	pot	n-m	spa	olla	n-f$n
 	cym	pot	n-m	spa	puchero	n-m$n
 	cym	potelu	vblex	spa	embotellar	vblex
 	cym	potensial	n-m	spa	potencial	n$n-m$n-m-sg
@@ -6263,7 +6263,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	presennol	adj	spa	presente	adj$adj-mf$adj-mf-sg
 	cym	presenoldeb	n-m	spa	presencia	n-f$n$n-f-ND
 	cym	presenoli	vblex	spa	presentar	vblex
-	cym	pridd	n-m	spa	suelo	n$n-m$n-m-sg
+	cym	pridd	n-m	spa	suelo	n-m$n$n-m-sg
 	cym	pridd	n-m	spa	tierra	n-f$n$n-f-sg
 	cym	prif	adj	spa	principal	adj$adj-mf$adj-mf-ND
 	cym	prifddinas	n-f	spa	capital	n-m$n-m-sg
@@ -6332,14 +6332,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-subj-p1-mf-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-subj-p1-mf-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-subj-p1-mf-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-subj-p1-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-subj-p1-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-subj-p1-mf-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-subj-p1-mf-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-subj-p1-mf-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-subj-p1-mf-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-subj-p1-mf-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-subj-p1-mf-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-subj-p1-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-subj-p1-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-subj-p1-mf-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-subj-p1-mf-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-subj-p1-mf-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -6381,14 +6381,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	prpers	prn-pro-p3-mf-sg$prn-pro
 	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-subj-p2-mf-GD$prn-subj-p2-mf	spa	prpers	prn-enc-p3-mf-sg
@@ -6418,14 +6418,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-subj-p2-mf-sp	spa	prpers	prn-pro-p3-mf-sg$prn-pro
 	cym	prpers	prn-subj-p2-mf-sp	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-subj-p2-mf-sp	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-subj-p2-mf-sp	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-subj-p2-mf-sp	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-subj-p2-mf-sp	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-subj-p2-mf-sp	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-subj-p2-mf-sp	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-subj-p2-mf-sp	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-subj-p2-mf-sp	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-subj-p2-mf-sp	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-subj-p2-mf-sp	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-subj-p2-mf-sp	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-subj-p2-mf-sp	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-subj-p2-mf-sp	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-subj-p2-mf-sp	spa	prpers	prn-enc-p3-mf-sg
@@ -6456,14 +6456,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-subj-p3-m-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-subj-p3-m-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-subj-p3-m-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-subj-p3-m-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-subj-p3-m-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-subj-p3-m-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-subj-p3-m-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-subj-p3-m-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-subj-p3-m-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-subj-p3-m-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-subj-p3-m-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-subj-p3-m-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-subj-p3-m-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-subj-p3-m-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-subj-p3-m-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-subj-p3-m-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -6494,14 +6494,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-subj-p3-f-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-subj-p3-f-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-subj-p3-f-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-subj-p3-f-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-subj-p3-f-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-subj-p3-f-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-subj-p3-f-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-subj-p3-f-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-subj-p3-f-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-subj-p3-f-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-subj-p3-f-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-subj-p3-f-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-subj-p3-f-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-subj-p3-f-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-subj-p3-f-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-subj-p3-f-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -6532,14 +6532,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-subj-p3-nt-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-subj-p3-nt-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-subj-p3-nt-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-subj-p3-nt-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-subj-p3-nt-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-subj-p3-nt-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-subj-p3-nt-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-subj-p3-nt-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-subj-p3-nt-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-subj-p3-nt-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-subj-p3-nt-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-subj-p3-nt-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-subj-p3-nt-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-subj-p3-nt-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-subj-p3-nt-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-subj-p3-nt-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -6570,14 +6570,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-subj-p1-mf-pl	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-subj-p1-mf-pl	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-subj-p1-mf-pl	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-subj-p1-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-subj-p1-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-subj-p1-mf-pl	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-subj-p1-mf-pl	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-subj-p1-mf-pl	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-subj-p1-mf-pl	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-subj-p1-mf-pl	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-subj-p1-mf-pl	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-subj-p1-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-subj-p1-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-subj-p1-mf-pl	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-subj-p1-mf-pl	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-subj-p1-mf-pl	spa	prpers	prn-enc-p3-mf-sg
@@ -6608,14 +6608,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-subj-p3-mf-pl	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-subj-p3-mf-pl	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-subj-p3-mf-pl	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-subj-p3-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-subj-p3-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-subj-p3-mf-pl	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-subj-p3-mf-pl	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-subj-p3-mf-pl	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-subj-p3-mf-pl	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-subj-p3-mf-pl	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-subj-p3-mf-pl	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-subj-p3-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-subj-p3-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-subj-p3-mf-pl	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-subj-p3-mf-pl	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-subj-p3-mf-pl	spa	prpers	prn-enc-p3-mf-sg
@@ -6646,14 +6646,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-obj-p1-mf-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-obj-p1-mf-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-obj-p1-mf-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-obj-p1-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-obj-p1-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-obj-p1-mf-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-obj-p1-mf-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-obj-p1-mf-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-obj-p1-mf-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-obj-p1-mf-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-obj-p1-mf-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-obj-p1-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-obj-p1-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-obj-p1-mf-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-obj-p1-mf-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-obj-p1-mf-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -6684,14 +6684,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-obj-p2-mf-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-obj-p2-mf-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-obj-p2-mf-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-obj-p2-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-obj-p2-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-obj-p2-mf-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-obj-p2-mf-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-obj-p2-mf-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-obj-p2-mf-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-obj-p2-mf-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-obj-p2-mf-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-obj-p2-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-obj-p2-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-obj-p2-mf-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-obj-p2-mf-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-obj-p2-mf-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -6722,14 +6722,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-obj-p2-mf-pl	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-obj-p2-mf-pl	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-obj-p2-mf-pl	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-obj-p2-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-obj-p2-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-obj-p2-mf-pl	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-obj-p2-mf-pl	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-obj-p2-mf-pl	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-obj-p2-mf-pl	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-obj-p2-mf-pl	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-obj-p2-mf-pl	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-obj-p2-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-obj-p2-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-obj-p2-mf-pl	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-obj-p2-mf-pl	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-obj-p2-mf-pl	spa	prpers	prn-enc-p3-mf-sg
@@ -6760,14 +6760,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-obj-p3-m-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-obj-p3-m-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-obj-p3-m-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-obj-p3-m-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-obj-p3-m-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-obj-p3-m-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-obj-p3-m-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-obj-p3-m-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-obj-p3-m-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-obj-p3-m-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-obj-p3-m-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-obj-p3-m-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-obj-p3-m-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-obj-p3-m-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-obj-p3-m-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-obj-p3-m-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -6798,14 +6798,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-obj-p3-f-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-obj-p3-f-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-obj-p3-f-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-obj-p3-f-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-obj-p3-f-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-obj-p3-f-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-obj-p3-f-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-obj-p3-f-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-obj-p3-f-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-obj-p3-f-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-obj-p3-f-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-obj-p3-f-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-obj-p3-f-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-obj-p3-f-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-obj-p3-f-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-obj-p3-f-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -6836,14 +6836,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-obj-p3-mf-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-obj-p3-mf-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-obj-p3-mf-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-obj-p3-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-obj-p3-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-obj-p3-mf-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-obj-p3-mf-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-obj-p3-mf-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-obj-p3-mf-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-obj-p3-mf-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-obj-p3-mf-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-obj-p3-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-obj-p3-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-obj-p3-mf-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-obj-p3-mf-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-obj-p3-mf-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -6874,14 +6874,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-obj-p1-mf-pl	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-obj-p1-mf-pl	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-obj-p1-mf-pl	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-obj-p1-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-obj-p1-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-obj-p1-mf-pl	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-obj-p1-mf-pl	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-obj-p1-mf-pl	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-obj-p1-mf-pl	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-obj-p1-mf-pl	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-obj-p1-mf-pl	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-obj-p1-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-obj-p1-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-obj-p1-mf-pl	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-obj-p1-mf-pl	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-obj-p1-mf-pl	spa	prpers	prn-enc-p3-mf-sg
@@ -6912,14 +6912,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-obj-p3-mf-pl	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-obj-p3-mf-pl	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-obj-p3-mf-pl	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-obj-p3-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-obj-p3-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-obj-p3-mf-pl	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-obj-p3-mf-pl	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-obj-p3-mf-pl	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-obj-p3-mf-pl	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-obj-p3-mf-pl	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-obj-p3-mf-pl	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-obj-p3-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-obj-p3-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-obj-p3-mf-pl	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-obj-p3-mf-pl	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-obj-p3-mf-pl	spa	prpers	prn-enc-p3-mf-sg
@@ -6950,14 +6950,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-emph-p1-mf-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-emph-p1-mf-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-emph-p1-mf-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-emph-p1-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-emph-p1-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-emph-p1-mf-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-emph-p1-mf-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-emph-p1-mf-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-emph-p1-mf-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-emph-p1-mf-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-emph-p1-mf-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-emph-p1-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-emph-p1-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-emph-p1-mf-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-emph-p1-mf-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-emph-p1-mf-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -6988,14 +6988,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-emph-p2-mf-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-emph-p2-mf-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-emph-p2-mf-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-emph-p2-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-emph-p2-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-emph-p2-mf-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-emph-p2-mf-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-emph-p2-mf-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-emph-p2-mf-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-emph-p2-mf-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-emph-p2-mf-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-emph-p2-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-emph-p2-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-emph-p2-mf-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-emph-p2-mf-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-emph-p2-mf-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -7026,14 +7026,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-emph-p2-mf-pl	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-emph-p2-mf-pl	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-emph-p2-mf-pl	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-emph-p2-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-emph-p2-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-emph-p2-mf-pl	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-emph-p2-mf-pl	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-emph-p2-mf-pl	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-emph-p2-mf-pl	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-emph-p2-mf-pl	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-emph-p2-mf-pl	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-emph-p2-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-emph-p2-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-emph-p2-mf-pl	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-emph-p2-mf-pl	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-emph-p2-mf-pl	spa	prpers	prn-enc-p3-mf-sg
@@ -7064,14 +7064,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-emph-p3-m-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-emph-p3-m-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-emph-p3-m-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-emph-p3-m-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-emph-p3-m-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-emph-p3-m-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-emph-p3-m-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-emph-p3-m-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-emph-p3-m-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-emph-p3-m-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-emph-p3-m-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-emph-p3-m-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-emph-p3-m-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-emph-p3-m-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-emph-p3-m-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-emph-p3-m-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -7102,14 +7102,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-emph-p3-f-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-emph-p3-f-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-emph-p3-f-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-emph-p3-f-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-emph-p3-f-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-emph-p3-f-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-emph-p3-f-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-emph-p3-f-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-emph-p3-f-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-emph-p3-f-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-emph-p3-f-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-emph-p3-f-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-emph-p3-f-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-emph-p3-f-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-emph-p3-f-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-emph-p3-f-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -7140,14 +7140,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-emph-p3-mf-sg	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-emph-p3-mf-sg	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-emph-p3-mf-sg	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-emph-p3-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-emph-p3-mf-sg	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-emph-p3-mf-sg	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-emph-p3-mf-sg	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-emph-p3-mf-sg	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-emph-p3-mf-sg	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-emph-p3-mf-sg	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-emph-p3-mf-sg	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-emph-p3-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-emph-p3-mf-sg	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-emph-p3-mf-sg	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-emph-p3-mf-sg	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-emph-p3-mf-sg	spa	prpers	prn-enc-p3-mf-sg
@@ -7178,14 +7178,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-emph-p1-mf-pl	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-emph-p1-mf-pl	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-emph-p1-mf-pl	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-emph-p1-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-emph-p1-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-emph-p1-mf-pl	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-emph-p1-mf-pl	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-emph-p1-mf-pl	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-emph-p1-mf-pl	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-emph-p1-mf-pl	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-emph-p1-mf-pl	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-emph-p1-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-emph-p1-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-emph-p1-mf-pl	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-emph-p1-mf-pl	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-emph-p1-mf-pl	spa	prpers	prn-enc-p3-mf-sg
@@ -7216,14 +7216,14 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prpers	prn-emph-p3-mf-pl	spa	prpers	prn-pro-p3-m-sg
 	cym	prpers	prn-emph-p3-mf-pl	spa	prpers	prn-pro-p1-mf-pl
 	cym	prpers	prn-emph-p3-mf-pl	spa	prpers	prn-pro-p2-mf-pl
-	cym	prpers	prn-emph-p3-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn
+	cym	prpers	prn-emph-p3-mf-pl	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf
 	cym	prpers	prn-emph-p3-mf-pl	spa	prpers	prn-pro-p3-mf-pl
 	cym	prpers	prn-emph-p3-mf-pl	spa	prpers	prn-pro-p3-mf-sp
 	cym	prpers	prn-emph-p3-mf-pl	spa	prpers	prn-pro-p3-f-sg
 	cym	prpers	prn-emph-p3-mf-pl	spa	prpers	prn-pro-p3-m-pl
 	cym	prpers	prn-emph-p3-mf-pl	spa	prpers	prn-pro-p3-f-pl
 	cym	prpers	prn-emph-p3-mf-pl	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
-	cym	prpers	prn-emph-p3-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	cym	prpers	prn-emph-p3-mf-pl	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	cym	prpers	prn-emph-p3-mf-pl	spa	prpers	prn-enc-p1-mf-sg
 	cym	prpers	prn-emph-p3-mf-pl	spa	prpers	prn-enc-p2-mf-sg
 	cym	prpers	prn-emph-p3-mf-pl	spa	prpers	prn-enc-p3-mf-sg
@@ -7258,8 +7258,8 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	prynwr	n-m	spa	comprador	n$n-m$n-m-ND
 	cym	prysur	adj	spa	ocupado	adj$adj-GD-ND
 	cym	prysuro	vblex	spa	darse	vblex-pron$vblex
-	cym	pumed	det-ord	spa	quinto	det-ord-GD-ND$det-ord$det
-	cym	pumed	det-ord	spa	quinto	det-ord-GD-ND$det-ord$det
+	cym	pumed	det-ord	spa	quinto	det-ord$det-ord-GD-ND$det
+	cym	pumed	det-ord	spa	quinto	det-ord$det-ord-GD-ND$det
 	cym	pupur	n-m	spa	pimienta	n-f$n
 	cym	pupur	n-m	spa	pimiento	n$n-m
 	cym	pur	adj	spa	puro	adj$adj-GD-ND
@@ -7275,15 +7275,15 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	pwnc	n-m	spa	sujeto	n-m$n$n-m-ND
 	cym	pwnc	n-m	spa	tema	n-m$n-m-sg$n
 	cym	pwno	vblex	spa	acertar	vblex
-	cym	pwno	vblex	spa	pegar	vblex
+	cym	pwno	vblex	spa	pegar	vblex$vblex-pron
 	cym	pwrcasu	vblex	spa	adquirir	vblex
 	cym	pwrpas	n-m	spa	propósito	n-m$n$n-m-ND
 	cym	pwrpasol	adj	spa	adecuado	adj$adj-GD-ND$adj-GD
 	cym	pwrpasu	vblex	spa	pretender	vblex
 	cym	pwy	prn$prn-itg	spa	quién	prn-itg-mf-ND
 	cym	pwy	prn$prn-itg	spa	quién	prn-itg-mf-pl
-	cym	pwy	prn$prn-itg	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg
-	cym	pwy	prn$prn-itg	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg
+	cym	pwy	prn$prn-itg	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg
+	cym	pwy	prn$prn-itg	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg
 	cym	pwyllgor	n-m	spa	comité	n$n-m$n-m-sg
 	cym	pwyllo	vblex	spa	estimar	vblex
 	cym	pwyllo	vblex	spa	considerar	vblex
@@ -7376,7 +7376,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	rhediad	n-m	spa	conjugación	n$n-f
 	cym	rhediad	n-m	spa	carrera	n$n-f$n-f-sg
 	cym	rhedwr	n-m	spa	corredor	n-GD$n-GD-pl
-	cym	rhedwr	n-m	spa	corredor	n-m$n$n-m-sg
+	cym	rhedwr	n-m	spa	corredor	n$n-m$n-m-sg
 	cym	rhegi	vblex	spa	jurar	vblex
 	cym	rheilffordd	n-f	spa	ferrocarril	n$n-m$n-m-sg
 	cym	rheilffordd	n-f	spa	vía	n$n-f$n-f-ND
@@ -7458,7 +7458,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	rhombws	n-m	spa	rombo	n-m$n
 	cym	rhugl	adj	spa	fluido	adj$adj-GD
 	cym	rhuo	vblex	spa	rugir	vblex
-	cym	rhuthro	vblex	spa	apresurarse	vblex$vblex-pron
+	cym	rhuthro	vblex	spa	apresurarse	vblex-pron$vblex
 	cym	rhwbio	vblex	spa	frotar	vblex
 	cym	rhwng	pr	spa	entre	pr
 	cym	rhwng	pr	spa	por entre	pr
@@ -7513,7 +7513,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	rhywiol	adj	spa	sexual	adj-mf$adj$adj-mf-pl
 	cym	rhywogaeth	n-f	spa	especie	n$n-f$n-f-sg
 	cym	rhywsut	adv	spa	de alguna manera	adv
-	cym	rhywun	prn-tn-m-sg-tn-m-sg	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg
+	cym	rhywun	prn-tn-m-sg-tn-m-sg	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m
 	cym	rhôl	n-f	spa	corro	n-m$n$n-m-ND
 	cym	risg	n-m	spa	riesgo	n$n-m$n-m-sg
 	cym	rowlio	vblex	spa	rodar	vblex
@@ -7570,13 +7570,13 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	sbectrwm	n-m	spa	espectro	n$n-m$n-m-sg
 	cym	sbeis	n-m	spa	especia	n$n-f
 	cym	sbio	vblex	spa	mirar	vblex$vblex-vbact
-	cym	sbio	vblex	spa	parecer	vblex$
+	cym	sbio	vblex	spa	parecer	vblex$$vblex-pron
 	cym	sboncio	vblex	spa	botar	vblex
 	cym	sboncio	vblex	spa	brincar	vblex
 	cym	sbwriel	n-m	spa	basura	n$n-f$n-f-sg
 	cym	sbwriel	n-m	spa	basura	n-f-pl
 	cym	sbïo	vblex	spa	mirar	vblex$vblex-vbact
-	cym	sbïo	vblex	spa	parecer	vblex$
+	cym	sbïo	vblex	spa	parecer	vblex$$vblex-pron
 	cym	sebon	n-m	spa	jabón	n$n-m$n-m-ND
 	cym	seco	vblex	spa	despedir	vblex
 	cym	secondio	vblex	spa	secundar	vblex
@@ -7587,7 +7587,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	sedd	n-f	spa	butaca	n-f$n$n-f-ND
 	cym	sedd	n-f	spa	escaño	n-m$n$n-m-ND
 	cym	sedd	n-f	spa	localidad	n-f$n$n-f-ND
-	cym	sefydliad	n-m	spa	institución	n$n-f$n-f-sg
+	cym	sefydliad	n-m	spa	institución	n-f$n$n-f-sg
 	cym	sefydliad	n-m	spa	establecimiento	n-m$n$n-m-sg
 	cym	sefydliadol	adj	spa	institucional	adj$adj-mf$adj-mf-sg
 	cym	sefydlog	adj	spa	fijo	adj$adj-GD-ND$adj-GD
@@ -7734,7 +7734,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	soddi	vblex	spa	hundirse	vblex$vblex-pron
 	cym	soddi	vblex	spa	hundir	vblex
 	cym	solet	adj	spa	sólido	adj$adj-GD-ND$adj-GD
-	cym	solid	n-m	spa	sólido	n-m$n$n-m-sg
+	cym	solid	n-m	spa	sólido	n$n-m$n-m-sg
 	cym	sombi	n-m	spa	zombi	n$n-m
 	cym	somi	vblex	spa	decepcionar	vblex
 	cym	sonio	vblex	spa	mencionar	vblex$vblex-inf
@@ -7811,22 +7811,22 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	swp	n-m	spa	lote	n$n-m
 	cym	swydd	n-f	spa	faena	n-f$n$n-f-ND
 	cym	swydd	n-f	spa	oficio	n-m$n$n-m-ND
-	cym	swydd	n-f	spa	trabajo	n-m$n-m-sg$n
+	cym	swydd	n-f	spa	trabajo	n-m$n$n-m-sg
 	cym	swyddfa	n-f	spa	oficina	n-f$n$n-f-sg
 	cym	swyddog	n-m	spa	agente	n-mf$n$n-mf-ND
 	cym	swyddogaeth	n-f	spa	función	n-f$n$n-f-sg
 	cym	swyddogaeth	n-f	spa	funcionalidad	n$n-f$n-f-pl
 	cym	swyddogaethol	adj	spa	funcional	adj$adj-mf$adj-mf-sg
-	cym	swyddogol	adj	spa	oficial	adj$adj-mf$adj-mf-pl
+	cym	swyddogol	adj	spa	oficial	adj-mf$adj$adj-mf-pl
 	cym	sych	adj	spa	seco	adj$adj-GD-ND
 	cym	sychlyd	adj	spa	seco	adj$adj-GD-ND
 	cym	sychu	vblex	spa	secar	vblex
 	cym	sydyn	adj	spa	repentino	adj$adj-GD-ND
 	cym	sydyn	adj	spa	súbito	adj$adj-GD-ND
 	cym	syflu	vblex	spa	cambiar	vblex
-	cym	syflu	vblex	spa	mover	vblex
+	cym	syflu	vblex	spa	mover	vblex$vblex-pron
 	cym	syflyd	vblex	spa	cambiar	vblex
-	cym	syflyd	vblex	spa	mover	vblex
+	cym	syflyd	vblex	spa	mover	vblex$vblex-pron
 	cym	sylfaen	n-f	spa	fundación	n$n-f$n-f-ND
 	cym	sylfaen	n-f	spa	base	n-f$n$n-f-sg
 	cym	sylfaenol	adj	spa	fundamental	adj$adj-mf$adj-mf-ND
@@ -7855,7 +7855,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	symlu	vblex	spa	instar	vblex
 	cym	symposiwm	n-m	spa	simposio	n-m$n$n-m-sg
 	cym	symptom	n-m	spa	síntoma	n$n-m$n-m-ND
-	cym	symud	vblex	spa	mover	vblex
+	cym	symud	vblex	spa	mover	vblex$vblex-pron
 	cym	symud	vblex	spa	trasladar	vblex
 	cym	symud	vblex	spa	trasponer	vblex
 	cym	symudadwy	adj	spa	desmontable	adj-mf$adj$adj-mf-sg
@@ -7910,7 +7910,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	taflu	vblex	spa	echar	vblex
 	cym	taflunio	vblex	spa	proyectar	vblex
 	cym	taflunio	vblex	spa	sobresalir	vblex
-	cym	tafodiaith	n-f	spa	dialecto	n$n-m$n-m-ND
+	cym	tafodiaith	n-f	spa	dialecto	n-m$n$n-m-ND
 	cym	tafoli	vblex	spa	equilibrar	vblex
 	cym	taid	n-m	spa	abuelo	n-m$n$n-m-sg
 	cym	taid	n-m	spa	abuelo	n-m$n$n-m-sg
@@ -7944,7 +7944,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	tanseilio	vblex	spa	socavar	vblex
 	cym	tansoddi	vblex	spa	sumergir	vblex
 	cym	tansuddo	vblex	spa	sumergir	vblex
-	cym	tant	n-m	spa	cuerda	n$n-f$n-f-ND
+	cym	tant	n-m	spa	cuerda	n-f$n$n-f-ND
 	cym	tanwydd	n-m	spa	combustible	n$n-m$n-m-sg
 	cym	tanwydd	n-m	spa	fuel	n$n-m
 	cym	tanysgrifiad	n-m	spa	suscripción	n$n-f
@@ -7960,7 +7960,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	targed	n-m	spa	diana	n$n-f
 	cym	targed	n-m	spa	objetivo	n-m$n$n-m-sg
 	cym	targedu	vblex	spa	apuntar	vblex
-	cym	tarian	n-f	spa	escudo	n$n-m$n-m-ND
+	cym	tarian	n-f	spa	escudo	n-m$n$n-m-ND
 	cym	taro	n-m	spa	crisis	n-f-sp$n-f$n
 	cym	taro	n-m	spa	crisis	n-f-sp$n-f$n
 	cym	taro	n-m	spa	emergencia	n$n-f-sg$n-f
@@ -8137,7 +8137,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	trawsgludo	vblex	spa	transportar	vblex
 	cym	trawsgyweiriad	n-m	spa	transposición	n$n-f
 	cym	trawsnewid	n-m	spa	conversión	n$n-f$n-f-ND
-	cym	trawsnewid	vblex	spa	convertir	vblex
+	cym	trawsnewid	vblex	spa	convertir	vblex$vblex-pron
 	cym	trawsnewidiad	n-m	spa	transición	n$n-f$n-f-sg
 	cym	trawsyrru	vblex	spa	transmitir	vblex
 	cym	tre	n-f	spa	ciudad	n-f$n$n-f-sg
@@ -8225,7 +8225,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	trosglwyddiad	n-m	spa	traslado	n-m$n$n-m-ND
 	cym	trosglwyddo	vblex	spa	transferir	vblex
 	cym	trosi	vblex	spa	traducir	vblex
-	cym	trosi	vblex	spa	convertir	vblex
+	cym	trosi	vblex	spa	convertir	vblex$vblex-pron
 	cym	trosiad	n-m	spa	puerto	n-m$n$n-m-sg
 	cym	trosiant	n-m	spa	facturación	n-f$n
 	cym	troslun	n-m	spa	transbordo	n-m$n
@@ -8252,9 +8252,9 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	trychinebus	adj	spa	desastroso	adj$adj-m-sg
 	cym	trydan	n-m	spa	electricidad	n$n-f$n-f-sg
 	cym	trydanol	adj	spa	eléctrico	adj$adj-GD$adj-GD-ND
-	cym	trydedd	det-ord	spa	tercer	det-ord-GD-ND$det$det-ord
-	cym	trydedd	det-ord	spa	tercer	det-ord-GD-ND$det$det-ord
-	cym	trydydd	det-ord	spa	tercer	det-ord-GD-ND$det$det-ord
+	cym	trydedd	det-ord	spa	tercer	det-ord-GD-ND$det-ord$det
+	cym	trydedd	det-ord	spa	tercer	det-ord-GD-ND$det-ord$det
+	cym	trydydd	det-ord	spa	tercer	det-ord-GD-ND$det-ord$det
 	cym	trylifo	vblex	spa	filtrar	vblex
 	cym	tryloyw	adj	spa	transparente	adj-mf$adj$adj-mf-pl
 	cym	tryloywder	n-m	spa	transparencia	n$n-f$n-f-sg
@@ -8393,9 +8393,9 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	unlliw	adj	spa	monocromo	adj$adj-m-sg
 	cym	uno	vblex	spa	unir	vblex
 	cym	unoli	vblex	spa	unir	vblex
-	cym	unrhywun	prn-tn-m-sg	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg
+	cym	unrhywun	prn-tn-m-sg	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m
 	cym	unrhywun	prn-tn-m-sg	spa	nadie	prn-tn-m-sg$prn-tn-m
-	cym	unrhywun	prn-tn-m-sg	spa	cualquiera	prn-tn-mf-sg
+	cym	unrhywun	prn-tn-m-sg	spa	cualquiera	prn-tn-mf-sg$prn-mf
 	cym	unswydd	adj	spa	específico	adj$adj-GD-ND$adj-GD
 	cym	unwaith	adv	spa	una vez	adv
 	cym	unwaith ac am byth	adv	spa	de una vez por todas	adv
@@ -8445,7 +8445,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	y Deyrnas Gyfunol	np-top-f	spa	Reino Unido	np-top-m$np-top
 	cym	y Seishêls	np-top-f	spa	Seychelles	np$np-loc-f-pl$np-loc$np-loc-f
 	cym	y Swdan	np-top-f	spa	Sudán	np$np-top$np-top-m
-	cym	y Taleithiau Unedig	np-top-f	spa	Estados Unidos	np-top-m$np-top$np-top-m-pl
+	cym	y Taleithiau Unedig	np-top-f	spa	Estados Unidos	np-top-m$np-top-m-pl
 	cym	y Weriniaeth Slofacaidd	np-top-f	spa	Eslovaquia	np-top-f$np-top
 	cym	y Weriniaeth Tsiec	np-top-f	spa	República Checa	np$np-top-f$np-top
 	cym	y Weriniaeth Tsiecaidd	np-top-f	spa	República Checa	np$np-top-f$np-top
@@ -8508,7 +8508,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	ymdannu	vblex	spa	extender	vblex
 	cym	ymdannu	vblex	spa	untar	vblex
 	cym	ymddangos	vblex	spa	aparecer	vblex
-	cym	ymddangos	vblex	spa	parecer	vblex$
+	cym	ymddangos	vblex	spa	parecer	vblex$$vblex-pron
 	cym	ymddangosiad	n-m	spa	aspecto	n-m$n$n-m-sg
 	cym	ymddangosiad	n-m	spa	viso	n-m$n
 	cym	ymddangosiadol	adj	spa	aparente	adj-mf$adj$adj-mf-sg
@@ -8577,7 +8577,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	ymgynghorydd	n-m	spa	asesor	n-GD$n-GD-ND
 	cym	ymgynghorydd	n-m	spa	asesor	n$n-m$n-m-sg
 	cym	ymgynghorydd	n-m	spa	consejero	n$n-GD-ND$n-GD
-	cym	ymgynnull	vblex	spa	reunir	vblex
+	cym	ymgynnull	vblex	spa	reunir	vblex$vblex-pron
 	cym	ymgyrch	n-f	spa	campaña	n$n-f$n-f-sg
 	cym	ymgyrchu	vblex	spa	atacar	vblex
 	cym	ymgyrchu	vblex	spa	atentar	vblex
@@ -8601,7 +8601,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	ymlynu	vblex	spa	perseguir	vblex
 	cym	ymneilltuo	vblex	spa	retirar	vblex
 	cym	ymochel	vblex	spa	evitar	vblex
-	cym	ymod	vblex	spa	mover	vblex
+	cym	ymod	vblex	spa	mover	vblex$vblex-pron
 	cym	ymod	vblex	spa	trasladar	vblex
 	cym	ymod	vblex	spa	trasponer	vblex
 	cym	ymofyn	vblex	spa	buscar	vblex$vblex-vbact
@@ -8704,7 +8704,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	yr Antarctig	np-top-f	spa	Antártida	np-top-f
 	cym	yr Eidal	np-top-f$np-top	spa	Italia	np-top$np-top-f
 	cym	yr Aifft	np-top-f$np-top	spa	Egipto	np-top$np-top-m
-	cym	yr Unol Daleithiau	np-top-f	spa	Estados Unidos	np-top-m$np-top$np-top-m-pl
+	cym	yr Unol Daleithiau	np-top-f	spa	Estados Unidos	np-top-m$np-top-m-pl
 	cym	ysbaddu	vblex	spa	castrar	vblex
 	cym	ysbarduno	vblex	spa	motivar	vblex
 	cym	ysbeidiol	adj	spa	intermitente	adj$adj-mf$adj-mf-sg
@@ -8721,7 +8721,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	ysbyty	n-m	spa	hospital	n$n-m$n-m-sg
 	cym	ysbïaeth	n-f	spa	espionaje	n-m$n$n-m-sg
 	cym	ysbïo	vblex	spa	mirar	vblex$vblex-vbact
-	cym	ysbïo	vblex	spa	parecer	vblex$
+	cym	ysbïo	vblex	spa	parecer	vblex$$vblex-pron
 	cym	ysbïwr	n-m	spa	espía	n-mf$n$n-mf-sg
 	cym	ysgafn	adj-sint$adj	spa	claro	adj$adj-GD-ND
 	cym	ysgafn	adj-sint$adj	spa	ligero	adj$adj-GD-ND
@@ -8771,7 +8771,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	ystadegol	adj	spa	estadístico	adj$adj-GD$adj-GD-ND
 	cym	ystafell	n-f	spa	habitación	n$n-f$n-f-sg
 	cym	ystafell	n-f	spa	sala	n$n-f$n-f-sg
-	cym	ystlum	n-m	spa	murciélago	n$n-m
+	cym	ystlum	n-m	spa	murciélago	n-m$n
 	cym	ystod	n-f	spa	alcance	n-m$n$n-m-sg
 	cym	ystod	n-f	spa	gama	n$n-f$n-f-sg
 	cym	ystum	n-mf	spa	gesto	n$n-m$n-m-ND

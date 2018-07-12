@@ -73,7 +73,7 @@
 	eus	Bilbo	np$np-ant	fra	Bilbao	np$np-cog-mf-sp
 	eus	Bizkaia	np$np-loc	fra	Biscaye	np$np-top-f-sg
 	eus	Blair	np$np-ant	fra	Blair	np$np-cog-mf-sp$np-cog
-	eus	Bolivia	np$np-loc	fra	Bolivie	np$np-top-f$np-top-f-sg$np-top
+	eus	Bolivia	np$np-loc	fra	Bolivie	np$np-top-f-sg$np-top-f$np-top
 	eus	Bordele	np$np-loc	fra	Bordeaux	np$np-loc-f
 	eus	Bosnia	np$np-loc	fra	Bosnie	np$np-top-f$np-top-f-sg
 	eus	Brasil	np$np-loc	fra	Brésil	np$np-top-m$np-top-m-sg$np-top
@@ -111,7 +111,7 @@
 	eus	Eibar	np$np-loc	fra	Eibar	np
 	eus	Elgoibar	np$np-loc	fra	Elgoibar	np
 	eus	Ermua	np$np-loc	fra	Ermua	np$np-cog-mf-sp
-	eus	Erresuma Batua	np$np-loc	fra	Royaume-Uni	np$np-top-m$np-top-m-sg$np-top
+	eus	Erresuma Batua	np$np-loc	fra	Royaume-Uni	np-top-m-sg$np$np-top-m$np-top
 	eus	Errumania	np$np-loc	fra	Roumanie	np$np-top-f$np-top-f-sg$np-top
 	eus	Errusia	np$np-loc	fra	Russie	np$np-loc-f
 	eus	Espainia	np-loc	fra	Espagne	np$np-top$np-top-f$np-top-f-sg
@@ -134,7 +134,7 @@
 	eus	Gasteiz	np$np-loc	fra	Vitoria	np$np-top-f$np-top-f-sg
 	eus	Gaza	np$np-loc	fra	Gaza	np$np-loc-f
 	eus	Gaztela	np$np-loc	fra	Castille	np$np-loc-f
-	eus	Generalitat	np-al	fra	Generalitat	np-al$np$np-al-f-sg
+	eus	Generalitat	np-al	fra	Generalitat	np-al$np-al-f-sg$np
 	eus	Geneva	np$np-loc	fra	Genève	np$np-top-f-sg
 	eus	George	np$np-ant	fra	George	np$np-ant$np-ant-m-sg
 	eus	Gernika	np$np-loc	fra	Gernika	np
@@ -174,7 +174,7 @@
 	eus	Iñigo	np$np-ant	fra	Íñigo	np$np-cog-mf-sp
 	eus	Japonia	np$np-loc	fra	Japon	np$np-top-m$np-top-m-sg$np-top
 	eus	Jaunaren jaiotza	n	fra	noël	n-m-sp$n-sp
-	eus	Javier	np$np-ant	fra	Javier	np$np-ant$np-ant-m-sg
+	eus	Javier	np$np-ant	fra	Javier	np$np-ant-m-sg$np-ant
 	eus	Jean	np$np-ant	fra	Jean	np-ant-m-sg$np$np-ant
 	eus	Jesus	np$np-ant	fra	Jesús	np$np-ant$np-ant-m-sg
 	eus	Jimenez	np$np-ant	fra	Jiménez	np$np-cog-mf-sp$np-cog
@@ -187,7 +187,7 @@
 	eus	Josu	np$np-ant	fra	Josu	np$np-ant$np-ant-m-sg
 	eus	Joxe	np$np-ant	fra	Joxe	np$np-cog-mf-sp
 	eus	Juan	np$np-ant	fra	Juan	np$np-ant$np-ant-m-sg
-	eus	Juana	np$np-ant	fra	Juana	np$np-ant$np-ant-f-sg
+	eus	Juana	np$np-ant	fra	Juana	np$np-ant-f-sg$np-ant
 	eus	Julia	np$np-ant	fra	Julia	np$np-ant$np-ant-f-sg
 	eus	KPI	n-acr	fra	IPC	n$n-acr$n-acr-m$n-acr-m-sg
 	eus	KPI	n-acr	fra	IPC	n$n-acr$n-acr-m$n-acr-m-sg
@@ -205,11 +205,11 @@
 	eus	Kristo	np-ant	fra	Christ	np$np-al$np-al-m-sg
 	eus	Kuba	np$np-loc	fra	Cuba	np$np-top-m-sg$np-top
 	eus	Kubako	adj	fra	cubain	adj$adj-GD-ND
-	eus	Kurdistan	np$np-loc	fra	Kurdistan	np$np-top$np-top-m$np-top-m-sg
+	eus	Kurdistan	np$np-loc	fra	Kurdistan	np$np-top-m-sg$np-top$np-top-m
 	eus	LAB	n-acr	fra	LAB	n$n-acr-m
 	eus	Lapurdi	np$np-loc	fra	Labourd	np$np-top-m-sg
 	eus	Latinoamerika	np$np-loc	fra	Amérique latine	np$np-loc-f
-	eus	Leon	np$np-loc	fra	León	np$np-ant$np-ant-m-sg
+	eus	Leon	np$np-loc	fra	León	np$np-ant-m-sg$np-ant
 	eus	Libano	np$np-loc	fra	Liban	np$np-top-m$np-top-m-sg$np-top
 	eus	Lisboa	np$np-loc	fra	Lisboa	np$np-loc-f
 	eus	Lisboa	np$np-loc	fra	Lisbonne	np$np-loc-f
@@ -246,7 +246,7 @@
 	eus	Otegi	np$np-ant	fra	Otegi	np$np-cog-mf-sp
 	eus	PAN	n-acr	fra	ANP	n-acr
 	eus	PP	n-acr	fra	PP	n-acr$n-acr-m$n$n-acr-m-sg
-	eus	PSE	n-acr	fra	PSE	n-acr$n-acr-m-sg
+	eus	PSE	n-acr	fra	PSE	n-acr$n-acr-m$n-acr-m-sg
 	eus	PSN	n-acr	fra	PSN	n$n-acr$n-acr-m$n-acr-m-sg
 	eus	PSN	n-acr	fra	PSN	n$n-acr$n-acr-m$n-acr-m-sg
 	eus	PSOE	n-acr	fra	PSOE	n-acr$n-acr-m$n-acr-m-sg
@@ -2332,7 +2332,7 @@ LR	eus	eguraldi	n	fra	temps	n-m-sp$n$n-m
 	eus	ekonomiko	adj$adj-izo	fra	économique	adj-mf$adj$adj-mf-ND
 	eus	ekonomista	n	fra	économiste	n$n-mf$n-mf-ND
 	eus	ekortu	vblex	fra	balayer	vblex
-	eus	ekuazio	n	fra	équation	n-f$n$n-f-ND
+	eus	ekuazio	n	fra	équation	n$n-f$n-f-ND
 	eus	eldarnio	n	fra	délire	n$n-m$n-m-ND
 	eus	ele	n	fra	mot	n-m$n$n-m-ND
 	eus	eleberri	n	fra	roman	n-m$n$n-m-ND
@@ -3423,10 +3423,10 @@ LR	eus	gas	n	fra	gaz	n-m-sp$n-m$n
 	eus	gazte	n	fra	jeune fille	n-GD-ND
 	eus	gazte	adj$adj-izo	fra	juvénile	adj$adj-mf$adj-mf-ND
 	eus	gazte	adj$adj-izo	fra	jeune	adj$adj-mf-ND$adj-mf
-	eus	gaztelania	n	fra	castillan	n$n-m$n-m-ND
-	eus	gaztelau	n	fra	castillan	n$n-m$n-m-ND
+	eus	gaztelania	n	fra	castillan	n$n-m-ND$n-m
+	eus	gaztelau	n	fra	castillan	n$n-m-ND$n-m
 	eus	gaztelau	adj	fra	castillan	adj$adj-GD-ND
-	eus	gaztelera	n	fra	castillan	n$n-m$n-m-ND
+	eus	gaztelera	n	fra	castillan	n$n-m-ND$n-m
 	eus	gaztelu	n	fra	château	n$n-m$n-m-ND
 	eus	gaztetasun	n	fra	jeunesse	n-f$n$n-f-ND
 	eus	gehiago	adv	fra	davantage	adv
@@ -5713,7 +5713,7 @@ LR	eus	martxo	n	fra	mars	n-m-sp$n$n-m
 	eus	miragarri	adj	fra	prodigieux	adj-GD-sp
 	eus	miragarri	adj	fra	prodigieux	adj-GD-ND
 	eus	mirari	n	fra	miracle	n$n-m$n-m-ND
-	eus	mirari	n	fra	prodige	n$n-m$n-m-ND
+	eus	mirari	n	fra	prodige	n-m$n$n-m-ND
 	eus	mirarizko	adj	fra	miraculeux	adj-GD-sp
 	eus	mirarizko	adj	fra	miraculeux	adj-GD-ND
 	eus	miresgarri	adj$adj-izo	fra	admirable	adj$adj-mf$adj-mf-ND

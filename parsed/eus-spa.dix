@@ -26,13 +26,13 @@ LR	eus	hori	det-dem$	spa	ese	det-dem-GD-ND$det-dem-GD
 LR	eus	hura	det-dem	spa	aquel	det$det-dem-GD$det-dem$det-dem-GD-ND
 LR	eus	berau	det-dem$det-dem-sg	spa	esto mismo	prn-tn-nt
 LR	eus	berauek	det-dem$det-dem-pl	spa	estos mismos	prn-tn-nt
-	eus	dezente	det-ind-sp	spa	bastante	det$det-ind-mf$det-ind-mf-ND
+	eus	dezente	det-ind-sp	spa	bastante	det-ind-mf$det-ind-mf-ND
 	eus	franko	det-ind-sp	spa	mucho	det-ind$det$det-ind-GD-ND
 LR	eus	beste	adj$adj-izl	spa	otro	det-ind-GD$det-ind-GD-ND
 LR	eus	bat	num$num-sg	spa	uno	det-ind-GD$det-ind-GD-ND
 LR	eus	batto	num	spa	uno	num$num-m-sp$num-m
-LR	eus	batzuk	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
-LR	eus	batzuok	det-ind$det-ind-pl	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+LR	eus	batzuk	det-ind	spa	alguno	det-ind-GD$det-ind-GD-pl
+LR	eus	batzuok	det-ind$det-ind-pl	spa	alguno	det-ind-GD$det-ind-GD-pl
 	eus	bezalako	rel-adv	spa	como	rel-adv$rel
 	eus	gainerakoan	cnjloc	spa	por lo demás	adv
 LR	eus	gainontzean	cnjloc	spa	por lo demás	adv
@@ -41,11 +41,11 @@ LR	eus	bera	adj	spa	mismo	adjant-GD-ND
 RL	eus	bera	pos$pos-mi	spa	propio	parol
 	eus	delako	adj	spa	dicho	adjant-GD-ND
 	eus	ni	prn$prn-pers-p1$prn-pers-p1-sg	spa	yo	prn$prn-tn-p1-mf-sg$prn-tn$prn-tn-p1-mf
-LR	eus	nihaur	prn-pers-p1$prn-pers-p1-sg	spa	yo mismo	prn-tn-p1-GD$prn$prn-tn-p1-GD-sg
-LR	eus	nerau	prn-pers-p1$prn-pers-p1-sg	spa	yo mismo	prn-tn-p1-GD$prn$prn-tn-p1-GD-sg
+LR	eus	nihaur	prn-pers-p1$prn-pers-p1-sg	spa	yo mismo	prn$prn-tn-p1-GD$prn-tn-p1-GD-sg
+LR	eus	nerau	prn-pers-p1$prn-pers-p1-sg	spa	yo mismo	prn$prn-tn-p1-GD$prn-tn-p1-GD-sg
 LR	eus	en	prn-pers-p1$prn-pers-p1-sg	spa	yo	prn$prn-tn-p1-mf-sg$prn-tn$prn-tn-p1-mf
-LR	eus	gu	prn$prn-pers-p1$prn-pers-p1-pl	spa	nosotros	prn-tn-p1-GD$prn-tn$prn-tn-p1-GD-pl$prn
-LR	eus	guhaur	prn-pers-p1$prn-pers-p1-pl	spa	nosotros	prn-tn-p1-GD$prn-tn$prn-tn-p1-GD-pl$prn
+LR	eus	gu	prn$prn-pers-p1$prn-pers-p1-pl	spa	nosotros	prn-tn-p1-GD$prn-tn-p1-GD-pl$prn-tn$prn
+LR	eus	guhaur	prn-pers-p1$prn-pers-p1-pl	spa	nosotros	prn-tn-p1-GD$prn-tn-p1-GD-pl$prn-tn$prn
 	eus	zu	prn-pers-p2$prn$prn-pers-p2-sg	spa	tú	prn$prn-tn$prn-tn-p2-mf$prn-tn-p2-mf-sg
 LR	eus	zuhaur	prn-pers-p2$prn-pers-p2-sg	spa	tú mismo	prn$prn-tn-p2-GD$prn-tn-p2-GD-sg
 LR	eus	hi	prn-pers-p2$prn-pers-p2-sg	spa	tú	prn$prn-tn$prn-tn-p2-mf$prn-tn-p2-mf-sg
@@ -56,7 +56,7 @@ RL	eus	hura	prn-pers-p3-pl	spa	él	prn$prn-tn$prn-tn-p3-m-pl$prn-tn-p3-m$prn-tn-
 RL	eus	hura	prn-pers-p3-sg$prn	spa	él	prn-tn-p3-f-sg$prn-tn-p3-f
 RL	eus	hura	prn-pers-p3-pl	spa	él	prn-tn-p3-f-pl
 LR	eus	ber	prn-pers-p3$prn$prn-pers-p3-sg	spa	él	prn-tn-p3-GD$prn-tn-p3-GD-pl
-	eus	neu	prn-pers-p1-sg	spa	yo mismo	prn-tn-p1-GD$prn$prn-tn-p1-GD-sg
+	eus	neu	prn-pers-p1-sg	spa	yo mismo	prn$prn-tn-p1-GD$prn-tn-p1-GD-sg
 LR	eus	heu	prn-pers-p2-sg	spa	tu mismo	prn-tn-p2-GD-sg
 	eus	zeu	prn-pers-p2-sg	spa	tú mismo	prn$prn-tn-p2-GD$prn-tn-p2-GD-sg
 	eus	geu	prn-pers-p1-pl	spa	nosotros mismos	prn$prn-tn-p1-GD-pl
@@ -66,7 +66,7 @@ LR	eus	beraiek	prn-pers-p3-pl	spa	él	prn-tn-p3-GD$prn-tn-p3-GD-pl
 LR	eus	eurak	prn-pers-p3-pl$prn	spa	él	prn-tn-p3-GD$prn-tn-p3-GD-pl
 	eus	zenbait	det-indizl-sp	spa	alguno	det-ind-GD-ND
 	eus	edozer	det-indizl-sg	spa	cualquier	det-ind-mf-sg
-	eus	nahiko	det-indizl	spa	bastante	det$det-ind-mf$det-ind-mf-ND
+	eus	nahiko	det-indizl	spa	bastante	det-ind-mf$det-ind-mf-ND
 	eus	elkar	prn-rec	spa	mutuamente	adv
 	eus	elkarrekin	adv	spa	junto	adj-GD-pl
 	eus	elkarren ondoan	adv	spa	uno junto al otro	adv
@@ -102,13 +102,13 @@ LR	eus	dena	prn-ind-sg	spa	todo	prn$prn-tn$prn-tn-m$prn-tn-m-sg
 LR	eus	den-dena	prn-ind-sg	spa	todo	prn$prn-tn$prn-tn-m$prn-tn-m-sg
 	eus	norbait	prn-ind-sg$prn-ind	spa	alguien	prn-tn-mf$prn-tn-mf-sg
 	eus	edozer	prn-ind$prn-ind-sg	spa	cualquier cosa	prn-tn-nt
-	eus	edonor	prn-ind-sg	spa	cualquiera	prn-tn-mf-sg
+	eus	edonor	prn-ind-sg	spa	cualquiera	prn-tn-mf-sg$prn-mf
 RL	eus	edonor	pos	spa	quienquiera	parol
 LR	eus	nahinor	prn-ind$prn-ind-sg	spa	cualquiera	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn
 LR	eus	nornahi	prn-ind$prn-ind-sg	spa	cualquiera	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn
-	eus	edozein	prn-ind-sg	spa	cualquiera	prn-tn-mf-sg
+	eus	edozein	prn-ind-sg	spa	cualquiera	prn-tn-mf-sg$prn-mf
 	eus	edozein	det-indizl-sg	spa	cualquier	det-ind-mf-sg
-LR	eus	batbedera	prn-ind$prn-ind-sg	spa	cada uno	prn$prn-tn-m$prn-tn-m-sg
+LR	eus	batbedera	prn-ind$prn-ind-sg	spa	cada uno	prn-tn-m-sg$prn-tn-m
 	eus	ezer	prn-ind$prn-ind-sg	spa	nada	prn-tn-nt$prn$prn-tn
 	eus	ezertxo	prn-ind-sg$prn-ind	spa	nada de nada	prn-tn-nt
 LR	eus	deus	prn-ind$prn-ind-sg	spa	nada	prn-tn-nt$prn$prn-tn
@@ -123,7 +123,7 @@ RL	eus	guzti	pos-mi	spa	todito	parol
 	eus	nola	adv$adv-itg	spa	cómo	adv$adv-itg
 	eus	zer	prn-itg$prn$prn-itg-sg	spa	qué	prn$prn-itg$prn-itg-mf-sg$prn-itg-mf
 	eus	zein	prn-itg$prn-itg-sg$prn	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-itg
-	eus	nor	prn-itg$prn$prn-itg-sg	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg
+	eus	nor	prn-itg$prn$prn-itg-sg	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg
 	eus	noizko	adv$adv-itg	spa	para cuándo	adv
 	eus	non	adv$adv-itg	spa	dónde	adv$adv-itg
 	eus	n	rel	spa	que	rel$rel-an$rel-an-mf-sp
@@ -336,15 +336,15 @@ LR	eus	barik	spost	spa	sin	pr
 	eus	kakara		spa	clo	
 	eus	txiki-txiki	$adj-izo	spa	cochi	
 	eus	elkarrekin bizi		spa	convivir	vblex$
-	eus	milagarren	adj	spa	milésimo	det-ord-GD-ND$det$det-ord
+	eus	milagarren	adj	spa	milésimo	det-ord$det-ord-GD-ND$det
 	eus	laurogeigarren	adj	spa	octogésimo	det-ord-GD-ND$det$det-ord
 	eus	hogeigarren	adj	spa	vigésimo	det-ord-GD-ND$det$det-ord
 	eus	hirurogeigarren	adj	spa	sexagésimo	det-ord-GD-ND$det$det-ord
 	eus	berrogeigarren	adj	spa	cuadragésimo	det-ord-GD-ND$det$det-ord
-LR	eus	laugarren	adj	spa	cuarto	det-ord-GD-ND$det-ord$det
-LR	eus	bosgarren	adj	spa	quinto	det-ord-GD-ND$det-ord$det
-LR	eus	bostgarren	adj	spa	quinto	det-ord-GD-ND$det-ord$det
-LR	eus	ehungarren	adj	spa	centésimo	det-ord-GD-ND$det$det-ord
+LR	eus	laugarren	adj	spa	cuarto	det-ord$det-ord-GD-ND$det
+LR	eus	bosgarren	adj	spa	quinto	det-ord$det-ord-GD-ND$det
+LR	eus	bostgarren	adj	spa	quinto	det-ord$det-ord-GD-ND$det
+LR	eus	ehungarren	adj	spa	centésimo	det-ord-GD-ND$det-ord$det
 	eus	orekatze		spa	equilibrado	adj$adj-GD-ND$
 	eus	izan ezik		spa	excepto	pr$
 	eus	gizona		spa	hombre	n-m$n$n-m-sg$
@@ -352,11 +352,11 @@ LR	eus	ehungarren	adj	spa	centésimo	det-ord-GD-ND$det$det-ord
 	eus	arraioa		spa	leñe	
 	eus	markaketa		spa	marcado	adj$
 	eus	mila	num-pl	spa	mil	num$num-mf$num-mf-sp
-	eus	hamar	num-pl$num	spa	diez	num$num-mf$$num-mf-sp
+	eus	hamar	num-pl$num	spa	diez	num$num-mf$num-mf-sp$
 	eus	lau	num-pl$num	spa	cuatro	num$$num-mf-sp
-	eus	ehun	num-pl	spa	cien	num$num-mf$num-mf-sp$
-	eus	zero	num-pl$num	spa	cero	num$num-mf$num-mf-sp
-LR	eus	bostogei	num-pl	spa	cien	num$num-mf$num-mf-sp$
+	eus	ehun	num-pl	spa	cien	num$num-mf-sp$num-mf$
+	eus	zero	num-pl$num	spa	cero	num$num-mf-sp$num-mf
+LR	eus	bostogei	num-pl	spa	cien	num$num-mf-sp$num-mf$
 LR	eus	bederatziehun	num-pl	spa	novecientos	num$$num-GD-sp
 LR	eus	berrehun	num-pl	spa	doscientos	num-GD-sp
 LR	eus	bostehun	num-pl	spa	quinientos	num$num-GD-sp$
@@ -365,7 +365,7 @@ LR	eus	laurehun	num-pl	spa	cuatrocientos	num$$num-GD-sp
 LR	eus	seiehun	num-pl	spa	seiscientos	num$$num-GD-sp
 LR	eus	zazpiehun	num-pl	spa	setecientos	num$$num-GD-sp
 LR	eus	zortziehun	num-pl	spa	ochocientos	num$$num-GD-sp
-	eus	hiru	num-pl$num	spa	tres	num$$num-mf-sp
+	eus	hiru	num-pl$num	spa	tres	num$num-mf-sp$
 	eus	hamaika	num-pl	spa	once	num$$num-mf$num-mf-sp
 	eus	bost	num-pl$num	spa	cinco	num$num-mf-sp$
 	eus	hamabost	num-pl	spa	quince	num$$num-mf$num-mf-sp
@@ -403,14 +403,14 @@ LR	eus	zortzigarren	adj	spa	octavo	det-ord$det-ord-GD-ND$det
 	eus	hamazortzigarren	adj$adj-izl	spa	decimoctavo	det-ord-GD-ND$det$det-ord
 	eus	hemezortzigarren	adj$adj-izl	spa	decimoctavo	det-ord-GD-ND$det$det-ord
 	eus	hemeretzigarren	adj$adj-izl	spa	decimonoveno	det-ord-GD-ND$det$det-ord
-	eus	irudi	n$	spa	parecer	vblex$
+	eus	irudi	n$	spa	parecer	vblex$$vblex-pron
 	eus	arraioa		spa	puñeta	$n
 	eus	dioenez		spa	según	pr$
 LR	eus	bigarren	adj	spa	segundo	det-ord$det-ord-GD-ND$det
 	eus	zazpigarren	adj	spa	séptimo	det-ord$det-ord-GD-ND$det
 LR	eus	seigarren	adj	spa	sexto	det-ord$det-ord-GD-ND$det
-LR	eus	hirugarren	adj	spa	tercer	det-ord-GD-ND$det$det-ord
-LR	eus	heren	adj	spa	tercer	det-ord-GD-ND$det$det-ord
+LR	eus	hirugarren	adj	spa	tercer	det-ord-GD-ND$det-ord$det
+LR	eus	heren	adj	spa	tercer	det-ord-GD-ND$det-ord$det
 	eus	ekarri	vblex	spa	traer	vblex
 LR	eus	ekarri	vbsint	spa	traer	vblex
 	eus	bai zera		spa	tururú	
@@ -663,8 +663,8 @@ LR	eus	hizpide	n	spa	tema	n-m-ND
 	eus	eraikuntza	n	spa	construcción	n-f-ND
 	eus	konbergentzia	n	spa	convergencia	n$n-f$n-f-ND
 	eus	hazkunde	n	spa	crecimiento	n-m-ND
-	eus	korda	n	spa	cuerda	n$n-f$n-f-ND
-	eus	soka	n	spa	cuerda	n$n-f$n-f-ND
+	eus	korda	n	spa	cuerda	n-f$n$n-f-ND
+	eus	soka	n	spa	cuerda	n-f$n$n-f-ND
 	eus	apologia	n	spa	apología	n$n-f$n-f-ND
 	eus	ausiki	n	spa	mordedura	n$n-f$n-f-ND
 	eus	ardura	n	spa	cuidado	n-m-ND
@@ -836,7 +836,7 @@ RL	eus	farol	n	spa	farol	n-m$n$n-m-ND
 	eus	liga	n	spa	liga	n$n-f$n-f-ND
 	eus	lira	n	spa	lira	n-f$n$n-f-ND
 	eus	manta	n	spa	manta	n-f$n$n-f-ND
-	eus	mantu	n	spa	manto	n$n-m$n-m-ND
+	eus	mantu	n	spa	manto	n-m$n$n-m-ND
 	eus	marka	n	spa	marca	n-f-ND
 	eus	masa	n	spa	masa	n-f$n$n-f-ND
 	eus	moda	n	spa	moda	n-f$n$n-f-ND
@@ -870,7 +870,7 @@ RL	eus	presa	n	spa	presa	n$n-f$n-f-ND
 	eus	salto	n	spa	salto	n-m$n$n-m-ND
 	eus	susto	n	spa	susto	n$n-m$n-m-ND
 	eus	taula	n	spa	tabla	n$n-f$n-f-ND
-	eus	tela	n	spa	tela	n$n-f$n-f-ND
+	eus	tela	n	spa	tela	n-f$n$n-f-ND
 	eus	tipo	n	spa	tipo	n-m-ND
 	eus	mota	n	spa	tipo	n-m-ND
 	eus	tripa	n	spa	tripa	n-f-ND
@@ -1155,7 +1155,7 @@ LR	eus	antzoki	n	spa	teatro	n-m-ND
 	eus	hornikuntza	n	spa	abastecimiento	n-m-ND
 	eus	hornidura	n	spa	abasto	n$n-m$n-m-ND
 	eus	urki	n	spa	abedul	n$n-m$n-m-ND
-	eus	erle	n	spa	abeja	n$n-f$n-f-ND
+	eus	erle	n	spa	abeja	n-f$n$n-f-ND
 	eus	irekidura	n	spa	apertura	n$n-f$n-f-ND
 	eus	amildegi	n	spa	abismo	n$n-m$n-m-ND
 	eus	abokatu	n	spa	abogado	n-m-ND
@@ -1180,7 +1180,7 @@ RL	eus	ekintza	n	spa	acción	n-f-ND
 	eus	olio	n	spa	aceite	n-m-ND
 	eus	azentu	n	spa	acento	n$n-m$n-m-ND
 	eus	onarpen	n	spa	aceptación	n-f-ND
-	eus	ubide	n	spa	acequia	n$n-f$n-f-ND
+	eus	ubide	n	spa	acequia	n-f$n$n-f-ND
 	eus	espaloi	n	spa	acera	n-f$n$n-f-ND
 	eus	altzairu	n	spa	acero	n-m-ND
 RL	eus	ondare	n	spa	acervo	n$n-m$n-m-ND
@@ -1414,7 +1414,7 @@ RL	eus	kutxa	n	spa	arca	n-f$n$n-f-ND
 	eus	bosten	n$	spa	quinto	n-m$n$n-m-ND
 	eus	harmonia	n	spa	armonía	n-f$n$n-f-ND
 RL	eus	aro	n	spa	aro	n$n-m$n-m-ND
-	eus	aro	n	spa	época	n$n-f$n-f-ND
+	eus	aro	n	spa	época	n-f$n$n-f-ND
 	eus	erdi aro	n	spa	edad media	
 	eus	foro	n	spa	foro	n$n-m$n-m-ND
 	eus	lurrin	n	spa	aroma	n-m$n$n-m-ND
@@ -1532,7 +1532,7 @@ RL	eus	baranda	n	spa	baranda	n$n-f$n-f-ND
 	eus	astakeria	n	spa	barbaridad	n$n-f$n-f-ND
 	eus	barbaro	n	spa	bárbaro	n$n-m$n-m-ND
 	eus	kokots	n	spa	barbilla	n-f$n$n-f-ND
-	eus	txalupa	n	spa	barca	n$n-f$n-f-ND
+	eus	txalupa	n	spa	barca	n-f$n$n-f-ND
 RL	eus	ontzi	n	spa	recipiente	n$n-m$n-m-ND
 	eus	ontzi	n	spa	nave	n-f$n$n-f-ND
 	eus	itsasontzi	n	spa	barco	n-m-ND
@@ -1571,7 +1571,7 @@ RL	eus	txartel	n$	spa	billete	n-m-ND
 	eus	zuri	n	spa	blanco	n$n-m$n-m-ND
 	eus	bloke	n	spa	bloque	n$n-m$n-m-ND
 	eus	blokeo	n	spa	bloqueo	n-m$n$n-m-ND
-	eus	aho	n	spa	boca	n$n-f$n-f-ND
+	eus	aho	n	spa	boca	n-f$n$n-f-ND
 	eus	ogitarteko	n	spa	bocadillo	n-m-ND
 RL	eus	zirriborro	n	spa	boceto	n$n-m$n-m-ND
 RL	eus	ezkontza	n	spa	boda	n-f-ND
@@ -1623,7 +1623,7 @@ RL	eus	bilaketa	n	spa	busca	n-f$n$n-f-ND
 	eus	sotil	n	spa	caballero	n-m$n$n-m-ND
 	eus	zaldi	n$	spa	caballo	n-m-ND
 	eus	etxola	n	spa	cabaña	n$n-f$n-f-ND
-	eus	oheburu	n	spa	cabecera	n-f$n$n-f-ND
+	eus	oheburu	n	spa	cabecera	n$n-f$n-f-ND
 RL	eus	ile	n	spa	cabello	n-m$n$n-m-ND
 LR	eus	buru	n	spa	cabeza	n-f-ND
 LR	eus	abelburu	n	spa	res	n-f$n$n-f-ND
@@ -1747,9 +1747,9 @@ RL	eus	itxura	n	spa	cariz	n$n-m$n-m-ND
 	eus	kasu	n	spa	caso	n-m-ND
 	eus	ilara	n	spa	atasco	n$n-m$n-m-ND
 	eus	gaztainondo	n	spa	castaño	n$n-m$n-m-ND
-	eus	gaztelau	n	spa	castellano	n$n-m-ND$n-m
-	eus	gaztelania	n	spa	castellano	n$n-m-ND$n-m
-	eus	gaztelera	n	spa	castellano	n$n-m-ND$n-m
+	eus	gaztelau	n	spa	castellano	n$n-m$n-m-ND
+	eus	gaztelania	n	spa	castellano	n$n-m$n-m-ND
+	eus	gaztelera	n	spa	castellano	n$n-m$n-m-ND
 RL	eus	zigor	n	spa	castigo	n-m-ND
 	eus	gaztelu	n	spa	castillo	n-m$n$n-m-ND
 	eus	zikiratze	n	spa	castración	n$n-f$n-f-ND
@@ -2063,7 +2063,7 @@ RL	eus	lankidetza	n	spa	cooperación	n$n-f$n-f-ND
 	eus	arkume	n$	spa	cordero	n-m-ND
 	eus	mendikate	n$	spa	cordillera	n-f-ND
 	eus	lokarri	n	spa	cordón	n-m$n$n-m-ND
-	eus	koru	n	spa	coro	n$n-m$n-m-ND
+	eus	koru	n	spa	coro	n-m$n$n-m-ND
 	eus	koroa	n	spa	corona	n$n-f$n-f-ND
 	eus	antxoa	n	spa	anchoa	n$n-f$n-f-ND
 	eus	koronel	n	spa	coronel	n-mf$n$n-mf-ND
@@ -2273,7 +2273,7 @@ RL	eus	kalte	n	spa	detrimento	n$n-m$n-m-ND
 	eus	jaiegun	n$	spa	día festivo	n$n-m$n-m-ND
 	eus	deabru	n$	spa	diablo	n$n-m$n-m-ND
 	eus	diagrama	n	spa	diagrama	n$n-m$n-m-ND
-	eus	dialekto	n	spa	dialecto	n$n-m$n-m-ND
+	eus	dialekto	n	spa	dialecto	n-m$n$n-m-ND
 	eus	elkarrizketa	n	spa	diálogo	n-m-ND
 	eus	zozketa	n	spa	sorteo	n$n-m$n-m-ND
 	eus	diametro	n	spa	diámetro	n$n-m$n-m-ND
@@ -2437,7 +2437,7 @@ RL	eus	arte	n	spa	encina	n$n-f$n-f-ND
 	eus	nor bere baitan biltze	n	spa	ensimismamiento	n-m$n-m-ND
 	eus	amets	n	spa	sueño	n-m-ND
 	eus	ehorzketa	n	spa	entierro	n$n-m$n-m-ND
-	eus	errai	n	spa	entraña	n$n-f$n-f-ND
+	eus	errai	n	spa	entraña	n-f-ND
 	eus	entrenatzaile	n	spa	entrenador	n-m-ND
 	eus	entrenamendu	n	spa	entrenamiento	n-m-ND
 	eus	zoko	n	spa	entresijo	n-m$n$n-m-ND
@@ -2445,8 +2445,8 @@ RL	eus	arte	n	spa	encina	n$n-f$n-f-ND
 	eus	enuntziatu	n	spa	enunciado	n$n-m$n-m-ND
 	eus	entzima	n	spa	enzima	n-f$n$n-f-ND
 	eus	epistemologia	n	spa	epistemología	n$n-f$n-f-ND
-	eus	garai	n	spa	época	n$n-f$n-f-ND
-	eus	sasoi	n	spa	época	n$n-f$n-f-ND
+	eus	garai	n	spa	época	n-f$n$n-f-ND
+	eus	sasoi	n	spa	época	n-f$n$n-f-ND
 	eus	oreka	n	spa	equilibrio	n-m-ND
 RL	eus	hornikuntza	n	spa	equipamiento	n$n-m$n-m-ND
 RL	eus	talde	n	spa	equipo	n-m-ND
@@ -2475,7 +2475,7 @@ RL	eus	zatiketa	n	spa	escisión	n$n-f$n-f-ND
 LR	eus	idazle	n	spa	escritor	n-GD$n-GD-ND
 	eus	idazmahai	n	spa	escritorio	n-m$n$n-m-ND
 	eus	idazte	n	spa	escritura	n-f-ND
-	eus	ezkutu	n	spa	escudo	n$n-m$n-m-ND
+	eus	ezkutu	n	spa	escudo	n-m$n$n-m-ND
 	eus	eskola	n	spa	escuela	n-f-ND
 	eus	ikastola	n	spa	ikastola	n$n-f$n-f-ND
 	eus	eskultura	n	spa	escultura	n$n-f$n-f-ND
@@ -2512,7 +2512,7 @@ LR	eus	senar-emazte	n	spa	esposo	n$n-m-pl$n-m
 RL	eus	urmael	n	spa	estanque	n$n-m$n-m-ND
 	eus	apal	n	spa	estante	n$n-m$n-m-ND
 	eus	eztainu	n	spa	estaño	n-m$n$n-m-ND
-	eus	estatua	n	spa	estatua	n$n-f$n-f-ND
+	eus	estatua	n	spa	estatua	n-f$n$n-f-ND
 RL	eus	garaiera	n	spa	estatura	n$n-f$n-f-ND
 	eus	estatutu	n	spa	estatuto	n-m-ND
 	eus	estela	n	spa	estela	n-f$n$n-f-ND
@@ -2715,7 +2715,7 @@ RL	eus	dotoretasun	n	spa	garbo	n-m$n$n-m-ND
 	eus	gastu	n	spa	gasto	n-m-ND
 	eus	katu	n	spa	gato	n-m-ND
 	eus	gel	n	spa	gel	n$n-m$n-m-ND
-	eus	biki	n	spa	gemelo	n$n-m$n-m-ND
+	eus	biki	n	spa	gemelo	n-m$n-m-ND
 	eus	gene	n	spa	gen	n$n-m$n-m-ND
 	eus	sortze	n	spa	creación	n-f-ND
 	eus	belaunaldi	n	spa	generación	n$n-f$n-f-ND
@@ -2796,13 +2796,13 @@ RL	eus	kirats	n	spa	hedor	n-m$n$n-m-ND
 	eus	oinordeko	n	spa	heredero	n$n-m$n-m-ND
 	eus	zauri	n	spa	herida	n-f$n$n-f-ND
 	eus	zauritu	n	spa	herido	n$n-m$n-m-ND
-	eus	aizpa	n	spa	hermano	n-f$n-f-ND
+	eus	aizpa	n	spa	hermano	n-f$n$n-f-ND
 	eus	anaia	n	spa	hermano	n-m-ND
 	eus	anai	n	spa	hermano	n-m-ND
-	eus	arreba	n	spa	hermano	n-f$n-f-ND
+	eus	arreba	n	spa	hermano	n-f$n$n-f-ND
 	eus	anai-arreba	n	spa	hermano	n-m-pl
 LR	eus	neba	n	spa	hermano	n-m-ND
-LR	eus	ahizpa	n	spa	hermano	n-f$n-f-ND
+LR	eus	ahizpa	n	spa	hermano	n-f$n$n-f-ND
 LR	eus	senide	n	spa	hermano	n-GD-ND
 	eus	heroi	n	spa	héroe	n-GD$n-GD-ND
 	eus	erreminta	n	spa	herramienta	n-f-ND
@@ -2854,7 +2854,7 @@ RL	eus	zulo	n	spa	hueco	n-m$n$n-m-ND
 RL	eus	baratze	n	spa	huerta	n-f$n$n-f-ND
 	eus	baratze	n	spa	huerto	n-m-ND
 	eus	hezur	n	spa	hueso	n-m-ND
-	eus	ostalari	n	spa	huésped	n-m$n-m-ND
+	eus	ostalari	n	spa	huésped	n$n-m$n-m-ND
 	eus	arrautza	n	spa	huevo	n-m-ND
 	eus	ihes	n	spa	huida	n$n-f$n-f-ND
 	eus	gizateria	n	spa	humanidad	n-f-ND
@@ -2870,7 +2870,7 @@ RL	eus	baratze	n	spa	huerta	n-f$n$n-f-ND
 	eus	ideologia	n	spa	ideología	n-f-ND
 RL	eus	hizkuntza	n	spa	idioma	n-m-ND
 	eus	hizkuntza	n	spa	lengua	n-f$n$n-f-ND
-	eus	idolo	n	spa	ídolo	n-m$n$n-m-ND
+	eus	idolo	n	spa	ídolo	n$n-m$n-m-ND
 	eus	eliza	n	spa	iglesia	n-f-ND
 	eus	ezjakintasun	n	spa	ignorancia	n$n-f$n-f-ND
 	eus	berdintasun	n	spa	igualdad	n-f-ND
@@ -3050,7 +3050,7 @@ RL	eus	hegal	n	spa	ladera	n-f$n$n-f-ND
 	eus	aintzira	n	spa	lago	n-m-ND
 	eus	malko	n	spa	lágrima	n$n-f$n-f-ND
 	eus	urmael	n	spa	laguna	n-f-ND
-	eus	auhen	n	spa	lamento	n-m$n$n-m-ND
+	eus	auhen	n	spa	lamento	n$n-m$n-m-ND
 	eus	lanpara	n	spa	lámpara	n-f$n$n-f-ND
 	eus	artile	n	spa	lana	n$n-f$n-f-ND
 	eus	jaurtiketa	n	spa	lanzamiento	n-m$n$n-m-ND
@@ -3112,7 +3112,7 @@ RL	eus	muga	n	spa	límite	n-m-ND
 	eus	itsasertz	n	spa	litoral	n$n-m$n-m-ND
 	eus	litro	n	spa	litro	n-m$n$n-m-ND
 	eus	liturgia	n	spa	liturgia	n$n-f$n-f-ND
-	eus	gar	n	spa	llama	n$n-f$n-f-ND
+	eus	gar	n	spa	llama	n-f$n$n-f-ND
 	eus	dei	n$	spa	llamamiento	n-m$n$n-m-ND
 	eus	negar	n	spa	llanto	n$n-m$n-m-ND
 	eus	ordoki	n$	spa	llanura	n-f$n$n-f-ND
@@ -3162,8 +3162,8 @@ RL	eus	gordeleku	n	spa	madriguera	n-f$n$n-f-ND
 	eus	tregoa	n	spa	tregua	n$n-f$n-f-ND
 	eus	magistratu	n	spa	magistrado	n-m$n-m-ND
 	eus	mago	n	spa	mago	n$n-m$n-m-ND
-	eus	gaitz	n	spa	mal	n$n-m$n-m-ND
-	eus	gaizki	n	spa	mal	n$n-m$n-m-ND
+	eus	gaitz	n	spa	mal	n-m$n$n-m-ND
+	eus	gaizki	n	spa	mal	n-m$n$n-m-ND
 	eus	gaiztakeria	n$	spa	maldad	n$n-f$n-f-ND
 	eus	madarikazio	n	spa	maldición	n$n-f$n-f-ND
 	eus	ondoez	n	spa	malestar	n$n-m$n-m-ND
@@ -3251,7 +3251,7 @@ RL	eus	helburu	n	spa	meta	n$n-f$n-f-ND
 	eus	helmuga	n	spa	meta	n$n-f$n-f-ND
 	eus	metafisikari	n	spa	metafísico	n$n-m$n-m-ND
 	eus	metafora	n	spa	metáfora	n$n-f$n-f-ND
-	eus	metal	n	spa	metal	n$n-m$n-m-ND
+	eus	metal	n	spa	metal	n-m$n$n-m-ND
 	eus	metodo	n	spa	método	n-m-ND
 	eus	metodologia	n	spa	metodología	n$n-f$n-f-ND
 	eus	metro	n	spa	metro	n-m-ND
@@ -3260,9 +3260,9 @@ RL	eus	helburu	n	spa	meta	n$n-f$n-f-ND
 	eus	beldur	n	spa	miedo	n-m$n$n-m-ND
 	eus	ezti	n	spa	miel	n-f$n$n-f-ND
 	eus	gorputz-adar	n	spa	miembro	n-mf$n$n-mf-ND
-	eus	kaka	n	spa	mierda	n$n-f$n-f-ND
+	eus	kaka	n	spa	mierda	n-f$n$n-f-ND
 	eus	migrazio	n	spa	migración	n-f-ND
-	eus	mirari	n	spa	milagro	n$n-m$n-m-ND
+	eus	mirari	n	spa	milagro	n-m$n$n-m-ND
 	eus	milurteko	n	spa	milenio	n-m$n$n-m-ND
 	eus	soldadutza	n$	spa	mili	n$n-f$n-f-ND
 	eus	miligramo	n	spa	miligramo	n-m$n$n-m-ND
@@ -3435,7 +3435,7 @@ LR	eus	albiste	n	spa	noticia	n-f-ND
 	eus	ezkonberri	n	spa	novio	n$n-m$n-m-ND
 	eus	hodei	n	spa	nube	n-f$n$n-f-ND
 	eus	garondo	n	spa	nuca	n-f$n$n-f-ND
-	eus	korapilo	n	spa	nudo	n$n-m$n-m-ND
+	eus	korapilo	n	spa	nudo	n-m$n$n-m-ND
 	eus	intxaur	n	spa	nuez	n$n-f$n-f-ND
 RL	eus	eragozpen	n	spa	óbice	n$n-m$n-m-ND
 	eus	apezpikutza	n	spa	obispado	n-m$n$n-m-ND
@@ -3690,7 +3690,7 @@ RL	eus	arrain	n	spa	pez	n-m-ND
 	eus	oin	n	spa	pie	n-m$n$n-m-ND
 	eus	erruki	n	spa	compasión	n$n-f$n-f-ND
 	eus	harri	n	spa	piedra	n-f-ND
-	eus	hanka	n	spa	pierna	n$n-f$n-f-ND
+	eus	hanka	n	spa	pierna	n-f$n$n-f-ND
 	eus	pieza	n	spa	pieza	n-f$n$n-f-ND
 	eus	pila	n$	spa	pila	n-f$n$n-f-ND
 	eus	pilotu	n	spa	piloto	n$n-mf$n-mf-ND
@@ -3729,7 +3729,7 @@ RL	eus	osotasun	n	spa	plenitud	n$n-f$n-f-ND
 	eus	milizia	n	spa	milicia	n$n-f$n-f-ND
 	eus	miliziano	n	spa	miliciano	n$n-GD-ND
 	eus	podium	n	spa	podio	n$n-m$n-m-ND
-	eus	poema	n	spa	poema	n$n-m$n-m-ND
+	eus	poema	n	spa	poema	n-m$n$n-m-ND
 	eus	poesia	n$	spa	poesía	n-f-ND
 	eus	polemika	n	spa	polémica	n$n-f$n-f-ND
 RL	eus	polizia	n	spa	policía	n-mf$n$n-mf-ND
@@ -3793,7 +3793,7 @@ LR	eus	aurreko	n	spa	precedente	n$n-m$n-m-ND
 	eus	nagusigo	n	spa	predominio	n$n-m$n-m-ND
 	eus	lehentasun	n	spa	preferencia	n$n-f$n-f-ND
 	eus	erreferentzia	n	spa	referencia	n$n-f$n-f-ND
-	eus	galdera	n	spa	pregunta	n$n-f$n-f-ND
+	eus	galdera	n	spa	pregunta	n-f$n$n-f-ND
 	eus	aurreiritzi	n	spa	prejuicio	n-m-ND
 	eus	sari	n	spa	premio	n-m-ND
 	eus	prentsa	n	spa	prensa	n-f-ND
@@ -3898,7 +3898,7 @@ RL	eus	irrika	n	spa	pulsión	n$n-f-ND
 	eus	abiapuntu	n	spa	punto	n-m$n$n-m-ND
 	eus	esku bete	n	spa	puñado	n-m$n$n-m-ND
 	eus	ukabil	n	spa	puño	n$n-m$n-m-ND
-	eus	begi-nini	n$	spa	pupila	n$n-f$n-f-ND
+	eus	begi-nini	n$	spa	pupila	n-f$n$n-f-ND
 	eus	zeregin	n	spa	quehacer	n$n-m$n-m-ND
 	eus	kexa	n	spa	queja	n$n-f$n-f-ND
 	eus	kexu	n	spa	queja	n$n-f$n-f-ND
@@ -4225,7 +4225,7 @@ RL	eus	izu	n	spa	espanto	n$n-m$n-m-ND
 	eus	filologo	n	spa	filólogo	n$n-GD$n-GD-ND
 	eus	sorospen	n	spa	socorro	n-m-ND
 	eus	sofa	n	spa	sofá	n$n-m$n-m-ND
-	eus	eguzki	n	spa	sol	n$n-m$n-m-ND
+	eus	eguzki	n	spa	sol	n-m$n$n-m-ND
 	eus	papar-hegal	n	spa	solapa	n$n-f$n-f-ND
 	eus	leinu	n	spa	solar	n$n-m$n-m-ND
 	eus	soldadu	n	spa	soldado	n-mf-ND
@@ -4449,7 +4449,7 @@ RL	eus	zati	n	spa	trozo	n-m$n$n-m-ND
 	eus	hilobi	n	spa	tumba	n-f-ND
 	eus	garabi	n	spa	grúa	n$n-f$n-f-ND
 	eus	tunel	n	spa	túnel	n-m-ND
-	eus	tunika	n	spa	túnica	n$n-f$n-f-ND
+	eus	tunika	n	spa	túnica	n-f$n$n-f-ND
 	eus	zohikatz	n	spa	turba	n$n-f$n-f-ND
 	eus	turismo	n	spa	turismo	n-m-ND
 	eus	turista	n	spa	turista	n$n-mf$n-mf-ND
@@ -4465,7 +4465,7 @@ RL	eus	zati	n	spa	trozo	n-m$n$n-m-ND
 	eus	unibertsaltasun	n	spa	universalidad	n-f-ND
 	eus	unibertsitate	n	spa	universidad	n-f-ND
 	eus	unibertsitario	n	spa	universitario	n$n-m-ND
-	eus	unibertso	n	spa	universo	n$n-m$n-m-ND
+	eus	unibertso	n	spa	universo	n-m$n$n-m-ND
 	eus	azazkal	n	spa	uña	n$n-f$n-f-ND
 	eus	azkazal	n	spa	uña	n$n-f$n-f-ND
 	eus	uranio	n	spa	uranio	n$n-m$n-m-ND
@@ -4532,7 +4532,7 @@ RL	eus	lotsa	n	spa	vergüenza	n$n-f$n-f-ND
 	eus	isurialde	n	spa	vertiente	n-f$n$n-f-ND
 	eus	soineko	n	spa	vestido	n-m-ND
 	eus	beteranotasun	n	spa	veteranía	n-f$n$n-f-ND
-	eus	aldi	n$	spa	vez	n-f$n-f-ND$n
+	eus	aldi	n$	spa	vez	n-f$n$n-f-ND
 RL	eus	bide	n	spa	vía	n$n-f$n-f-ND
 	eus	bidaiari	n	spa	viajero	n-GD$n-GD-ND
 	eus	bidaia	n	spa	viaje	n-m-ND
@@ -4699,7 +4699,7 @@ RL	eus	zuku	n	spa	zumo	n-m$n$n-m-ND
 	eus	hesi	n$	spa	cerca	adv$
 	eus	txerri	n$	spa	chancha	
 	eus	gaztelaniazko ch digramaren izen		spa	che	
-	eus	hartxintxar		spa	china	$n-f
+	eus	hartxintxar		spa	china	
 	eus	txiza	$n	spa	chis	
 	eus	txakur	n$	spa	chucho	$n-m
 	eus	itsu	adj$	spa	ciego	adj$adj-GD$$adj-GD-ND
@@ -4760,7 +4760,7 @@ RL	eus	zuku	n	spa	zumo	n-m$n$n-m-ND
 	eus	gotiko	adj$	spa	gótico	adj$adj-GD$$adj-GD-ND
 	eus	handiki	n$	spa	grande	adj-mf$adj$adj-mf-ND$
 	eus	gris	adj$	spa	gris	adj-mf$adj-mf-ND$adj$
-	eus	gerrari	$n	spa	guerrero	adj$$adj-GD-ND
+	eus	gerrari	$n	spa	guerrero	n$n-m$n-m-sg$
 	eus	hipokrita	adj$$adj-izo	spa	hipócrita	adj$adj-mf$adj-mf-sg$
 	eus	holograma		spa	holograma	n$$n-m
 	eus	eredu	n$	spa	ideal	adj$adj-mf$adj-mf-sg$
@@ -4835,7 +4835,7 @@ RL	eus	dei	n$	spa	llamada	n-f$n$
 	eus	Markak		spa	marca	n-f$n$n-f-sg$
 	eus	bigarren mailako		spa	maría	n$
 	eus	markesa		spa	marquesa	n$
-	eus	marroi	adj$$adj-izo	spa	marrón	adj$adj-mf$adj-mf-ND$
+	eus	marroi	adj$$adj-izo	spa	marrón	adj-mf$adj$adj-mf-ND$
 	eus	lepahori	$n	spa	marta	n-f$n$
 	eus	martxo	n	spa	marzo	n-m-ND
 	eus	matematikari		spa	matemático	adj$adj-GD$$adj-GD-ND
@@ -4899,7 +4899,7 @@ RL	eus	neska	n$	spa	muchacha
 	eus	matxino	$n	spa	rebelde	adj$adj-mf$adj-mf-sg$
 	eus	biribilki	n$	spa	redondo	adj$adj-GD-ND$
 	eus	erreguladore		spa	regulador	adj$adj-m-sg$
-	eus	erregina	n$	spa	reina	n$n-f$
+	eus	erregina	n$	spa	reina	n-f$n$
 	eus	erlatibo	adj$$adj-izo	spa	relativo	adj$adj-GD-ND$
 	eus	berriztatzaile	$adj	spa	renovador	adj$adj-m-sg$
 	eus	erretoriko	adj$	spa	retórico	adj$$adj-GD-ND
@@ -4915,7 +4915,7 @@ RL	eus	neska	n$	spa	muchacha
 	eus	idazkari	n$	spa	secretaria	$n-f
 	eus	seiren		spa	seisavo	adj$$adj-m-sg
 	eus	iritzi	vblex$	spa	sentir	vblex$
-RL	eus	neska	n$	spa	señorita	n-f$
+RL	eus	neska	n$	spa	señorita	n-f$$n
 	eus	irail	n	spa	septiembre	n$n-m$n-m-ND
 	eus	zazpiren		spa	séptimo	adj$adj-f$$adj-f-pl
 	eus	zazpikoitz		spa	séptuplo	n$
@@ -11406,7 +11406,7 @@ LR	eus	Iruñea	np$np-loc	spa	Pamplona	np$np-loc-f$np-loc
 	eus	Tibet	np$np-loc	spa	Tíbet	np$np-loc
 	eus	Istanbul	np$np-loc	spa	Estambul	np$np-loc$np-loc-m
 	eus	Dulantzi	np$np-loc	spa	Alegría	np$np-cog
-	eus	Argentina	np$np-loc	spa	Argentina	np$np-top$np-top-f
+	eus	Argentina	np$np-loc	spa	Argentina	np$np-top-f$np-top
 	eus	Korsika	np$np-loc	spa	Córcega	np$np-loc$np-loc-f
 	eus	Latinoamerika	np$np-loc	spa	Latinoamérica	np$np-loc-f$np-loc
 	eus	Alemania	np$np-loc	spa	Alemania	np$np-loc$np-loc-f
@@ -11450,7 +11450,7 @@ LR	eus	Iruñea	np$np-loc	spa	Pamplona	np$np-loc-f$np-loc
 	eus	Palestina	np$np-loc	spa	Palestina	np$np-loc$np-loc-f
 	eus	Brasil	np$np-loc	spa	Brasil	np$np-loc$np-loc-m
 	eus	Nepal	np$np-loc	spa	Nepal	np$np-loc$np-loc-m
-	eus	Israel	np$np-ant	spa	Israel	np$np-ant$np-ant-m$np-ant-m-sg
+	eus	Israel	np$np-ant	spa	Israel	np$np-ant$np-ant-m-sg
 	eus	Madril	np$np-loc	spa	Madrid	np$np-loc$np-loc-m
 	eus	Paris	np$np-loc	spa	París	np$np-loc$np-loc-m
 	eus	Londres	np$np-loc	spa	Londres	np$np-loc$np-loc-m$np-loc-m-sg
@@ -11461,7 +11461,7 @@ LR	eus	Iruñea	np$np-loc	spa	Pamplona	np$np-loc-f$np-loc
 	eus	Bagdad	np$np-loc	spa	Bagdad	np$np-loc$np-loc-m
 	eus	Munich	np$np-loc	spa	Múnich	np$np-loc$np-loc-m
 	eus	Gaztela	np$np-loc	spa	Castilla	np$np-loc$np-loc-f
-	eus	Gaza	np$np-loc	spa	Gaza	np$np-loc$np-loc-f
+	eus	Gaza	np$np-loc	spa	Gaza	np$np-f$np-loc-f
 	eus	Gernika	np$np-loc	spa	Gernika	np$np-loc-f
 	eus	Libano	np$np-loc	spa	Líbano	np$np-loc$np-loc-m
 	eus	Kongo	np$np-loc	spa	Congo	np$np-loc$np-loc-m
@@ -11474,9 +11474,9 @@ LR	eus	Iruñea	np$np-loc	spa	Pamplona	np$np-loc-f$np-loc
 	eus	Txile	np$np-loc	spa	Chile	np$np-top-m$np-top
 	eus	Txina	np$np-loc	spa	China	np$np-loc$np-loc-f$np-loc-f-sg
 	eus	Kolonia	np$np-loc	spa	Colonia	np
-	eus	Kolonbia	np$np-loc	spa	Colombia	np$np-top$np-top-f
+	eus	Kolonbia	np$np-loc	spa	Colombia	np$np-top-f$np-top
 	eus	Komunioi	np	spa	Comunión	np
-	eus	Kuba	np$np-loc	spa	Cuba	np$np-top$np-top-f
+	eus	Kuba	np$np-loc	spa	Cuba	np$np-loc$np-loc-f
 	eus	Cuenca	np$np-loc	spa	Cuenca	np$np-loc-f$np-loc
 	eus	Geneva	np$np-loc	spa	Ginebra	np$np-loc-f
 	eus	Granada	np$np-loc	spa	Granada	np$np-loc-f$np-loc
@@ -11496,7 +11496,7 @@ LR	eus	Iruñea	np$np-loc	spa	Pamplona	np$np-loc-f$np-loc
 	eus	Amman	np$np-loc	spa	Ammán	np$np-loc$np-loc-m
 	eus	Ruanda	np$np-loc	spa	Ruanda	np$np-loc$np-loc-f
 	eus	Finlandia	np$np-loc	spa	Finlandia	np$np-loc$np-loc-f
-	eus	Errusia	np$np-loc	spa	Rusia	np$np-top$np-top-f
+	eus	Errusia	np$np-loc	spa	Rusia	np$np-top-f$np-top
 	eus	Bielorrusia	np$np-loc	spa	Bielorrusia	np$np-loc$np-loc-f
 	eus	Indonesia	np$np-loc	spa	Indonesia	np$np-loc$np-loc-f
 	eus	Ukraina	np$np-loc	spa	Ucrania	np$np-loc$np-loc-f
@@ -11521,7 +11521,7 @@ LR	eus	Iruñea	np$np-loc	spa	Pamplona	np$np-loc-f$np-loc
 	eus	Moncloa	np$np-loc	spa	la Moncloa	np
 	eus	Ipar Katalunia	np$np-loc	spa	Cataluña del Norte	np
 	eus	Katalunia	np$np-loc	spa	Cataluña	np$np-loc$np-loc-f
-	eus	Kanada	np$np-loc	spa	Canadá	np$np-loc-m$np-loc
+	eus	Kanada	np$np-loc	spa	Canadá	np$np-top-m$np-top
 	eus	Kantabria	np$np-loc	spa	Cantabria	np$np-loc$np-loc-f
 	eus	Donostia	np$np-loc	spa	San Sebastián	np$np-loc$np-loc-f
 	eus	Ordizia	np	spa	Ordizia	np$np-loc-m
@@ -11559,7 +11559,7 @@ LR	eus	Hondarribi	np$np-loc	spa	Hondarribia	np$np-loc-f
 	eus	Igor	np$np-ant	spa	Igor	np$np-ant$np-ant-m
 	eus	Unai	np$np-ant	spa	Unai	np$np-ant
 	eus	Begoña	np$np-ant	spa	Begoña	np$np-ant
-	eus	Pedro	np$np-ant	spa	Pedro	np$np-ant$np-ant-m$np-ant-m-sg
+	eus	Pedro	np$np-ant	spa	Pedro	np$np-ant$np-ant-m-sg
 	eus	Koldo	np$np-ant	spa	Koldo	np$np-ant
 	eus	Mariano	np$np-ant	spa	Mariano	np$np-ant
 	eus	Ala	np$np-ant	spa	Alá	np$np-ant
@@ -11575,7 +11575,7 @@ LR	eus	Bilbao	np$np-ant	spa	Bilbao	np$np-loc$np-loc-f
 	eus	Kristo	np-ant	spa	Cristo	np-al
 	eus	Domingo	np$np-ant	spa	Domingo	np$np-ant
 	eus	Iñigo	np$np-ant	spa	Íñigo	np$np-ant
-	eus	Juana	np$np-ant	spa	Juana	np-ant$np$np-ant-f
+	eus	Juana	np$np-ant	spa	Juana	np-ant$np
 	eus	de Juana	np$np-ant	spa	de Juana	np
 	eus	de la Vega	np$np-ant	spa	de la Vega	np$np-cog
 	eus	Bernart	np$np-ant	spa	Bernart	np$np-ant
@@ -11591,9 +11591,9 @@ RL	eus	Domingo	np$np-ant	spa	Domingo	np$np-ant
 	eus	Arnaldo	np$np-ant	spa	Arnaldo	np$np-ant
 	eus	Genesia	np	spa	Genesia	np
 	eus	Aintzane	np$np-ant	spa	Aintzane	np$np-ant
-	eus	Jesus	np$np-ant	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg
+	eus	Jesus	np$np-ant	spa	Jesús	np$np-ant$np-ant-m-sg
 	eus	Jurgi	np$np-ant	spa	Jurgi	np$np-ant
-	eus	Joan	np$np-ant	spa	Joan	np$np-ant$np-ant-m
+	eus	Joan	np$np-ant	spa	Joan	np$np-ant
 	eus	Jean	np$np-ant	spa	Jean	np$np-ant
 	eus	Juan	np$np-ant	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg
 	eus	Jon	np$np-ant	spa	Jon	np$np-ant
@@ -11601,7 +11601,7 @@ RL	eus	Domingo	np$np-ant	spa	Domingo	np$np-ant
 	eus	Roberto	np$np-ant	spa	Roberto	np$np-ant$np-ant-m-sg
 	eus	Miren	np-ant$np	spa	Miren	np$np-ant
 	eus	Martin	np$np-ant	spa	Martín	np$np-ant$np-ant-m-sg
-	eus	Julia	np$np-ant	spa	Julia	np$np-ant$np-ant-f$np-ant-f-sg
+	eus	Julia	np$np-ant	spa	Julia	np$np-ant$np-ant-f-sg
 	eus	Julio	np$np-ant	spa	Julio	np$np-ant$np-ant-m-sg
 	eus	Justi	np$np-ant	spa	Justi	np$np-ant
 	eus	Lana	np$np-ant	spa	Lana	np-ant$np
@@ -11613,7 +11613,7 @@ RL	eus	Domingo	np$np-ant	spa	Domingo	np$np-ant
 	eus	Marko	np$np-ant	spa	Marko	np$np-ant
 	eus	Maria	np$np-ant	spa	Maria	np$np-ant
 	eus	Marino	np$np-ant	spa	Marino	np$np-ant
-	eus	Marta	np$np-ant	spa	Marta	np$np-ant$np-ant-f
+	eus	Marta	np$np-ant	spa	Marta	np$np-ant
 	eus	Maximo	np$np-ant	spa	Máximo	np-ant$np
 	eus	Mikel	np$np-ant	spa	Mikel	np$np-ant
 	eus	Miguel	np$np-ant	spa	Miguel	np$np-ant$np-ant-m$np-ant-m-sg
@@ -11630,7 +11630,7 @@ RL	eus	Domingo	np$np-ant	spa	Domingo	np$np-ant
 	eus	Ertzaintza	n	spa	ertzaintza	n-f-sg
 	eus	Jose	np$np-ant	spa	Jose	np$np-ant
 	eus	Modesto	np$np-ant	spa	Modesto	np$np-ant
-	eus	Paulo	np$np-ant	spa	Paulo	np$np-ant$np-ant-m
+	eus	Paulo	np$np-ant	spa	Paulo	np$np-ant
 	eus	Paulina	np$np-ant	spa	Paulina	np-ant$np
 	eus	Aurkene	np$np-ant	spa	Aurkene	np$np-ant
 	eus	Agirre	np$np-ant	spa	Agirre	np$np-ant
@@ -11639,10 +11639,10 @@ RL	eus	Domingo	np$np-ant	spa	Domingo	np$np-ant
 	eus	Segundo	np$np-ant	spa	Segundo	np$np-ant
 	eus	Severo	np$np-ant	spa	Severo	np$np-ant
 	eus	Bakarne	np$np-ant	spa	Bakarne	np$np-ant
-	eus	Teresa	np$np-ant	spa	Teresa	np$np-ant$np-ant-f
+	eus	Teresa	np$np-ant	spa	Teresa	np$np-ant
 	eus	Tiro	np	spa	Tiro	np
 	eus	Tito	np$np-ant	spa	Tito	np$np-ant$np-ant-m
-	eus	Urbano	np$np-ant	spa	Urbano	np-ant$np$np-ant-m
+	eus	Urbano	np$np-ant	spa	Urbano	np-ant$np
 	eus	Viktoria	np$np-ant	spa	Viktoria	np$np-ant
 	eus	Virgo	np	spa	Virgo	np$np-loc-m
 	eus	Atutxa	np$np-ant	spa	Atutxa	np$np-ant
@@ -11742,7 +11742,7 @@ LR	eus	on	adj$adj-izo	spa	bueno	adj$adj-GD-ND
 	eus	haur	adj	spa	infantil	adj-mf-ND
 	eus	azpiko	adj	spa	inferior	adj-mf-ND$adj$adj-mf
 	eus	gutxiegi	adj	spa	insuficiente	adj-mf$adj-mf-ND$adj
-	eus	adimentsu	adj	spa	inteligente	adj-mf$adj-mf-ND$adj
+	eus	adimentsu	adj	spa	inteligente	adj-mf$adj$adj-mf-ND
 RL	eus	gazte	adj$adj-izo	spa	juvenil	adj-mf-ND
 	eus	negargarri	adj$adj-izo	spa	lamentable	adj-mf$adj$adj-mf-ND
 	eus	larri	adj-izo$adj	spa	grave	adj$adj-mf-ND$adj-mf
@@ -11756,7 +11756,7 @@ LR	eus	altu	adj$adj-izo	spa	alto	adj$adj-GD-ND
 LR	eus	liso	adj$adj-izo	spa	liso	adj$adj-GD-ND
 	eus	lokal	adj	spa	local	adj-mf-ND
 	eus	pobre	adj$adj-izo$	spa	pobre	adj-mf$adj$adj-mf-ND$
-	eus	suabe	adj	spa	suave	adj-mf$adj-mf-ND$adj
+	eus	suabe	adj	spa	suave	adj-mf$adj$adj-mf-ND
 LR	eus	tonto	adj$	spa	tonto	adj$adj-GD$$adj-GD-ND
 LR	eus	turko	adj	spa	turco	adj-GD-ND
 LR	eus	aktibo	adj	spa	activo	adj$adj-GD-ND
@@ -12346,7 +12346,7 @@ LR	eus	itsusi	adj$adj-izo	spa	feo	adj$adj-GD-ND$
 LR	eus	itxurazko	adj	spa	ficticio	adj$adj-GD-ND
 LR	eus	finko	adj$adj-izo	spa	fijo	adj$adj-GD-ND$adj-GD
 LR	eus	filosofiko	adj$adj-izo	spa	filosófico	adj$adj-GD$adj-GD-ND
-	eus	azkeneko	adj	spa	último	det-ord-GD-ND$det-ord$det
+	eus	azkeneko	adj	spa	último	det$det-ord$det-ord-GD-ND
 LR	eus	finantzario	adj	spa	financiero	adj$$adj-GD-ND
 LR	eus	mehe	adj$adj-izo	spa	fino	adj-GD$adj-GD-ND
 LR	eus	fisiko	adj$adj-izo	spa	físico	adj$adj-GD-ND$adj-GD
@@ -12413,7 +12413,7 @@ RL	eus	barregarri	adj$adj-izo	spa	grotesco	adj$adj-GD-ND$adj-GD
 LR	eus	lodi	adj$adj-izo	spa	grueso	adj$adj-GD-ND
 RL	eus	eder	adj$adj-izo	spa	guapo	adj$adj-GD-ND
 	eus	gobernuko	adj	spa	gubernamental	adj-mf-ND
-LR	eus	gerrazale	adj	spa	guerrero	adj$$adj-GD-ND
+LR	eus	gerrazale	adj	spa	guerrero	adj$adj-GD-ND
 	eus	trebe	adj-izo$adj	spa	hábil	adj-mf-ND
 	eus	ohizko	adj	spa	habitual	adj-mf-ND
 LR	eus	goseti	adj	spa	hambriento	adj$adj-GD-ND
@@ -12617,7 +12617,7 @@ LR	eus	miragarri	adj	spa	maravilloso	adj$adj-GD-ND
 LR	eus	itsastar	adj	spa	marino	adj$adj-GD-ND
 	eus	itsas	adj	spa	marino	adj$adj-GD-ND
 LR	eus	itsasoko	adj	spa	marítimo	adj$adj-GD$adj-GD-ND
-	eus	marroi	adj$$adj-izo	spa	marrón	adj$adj-mf$adj-mf-ND$
+	eus	marroi	adj$$adj-izo	spa	marrón	adj-mf$adj$adj-mf-ND$
 	eus	marxista	adj	spa	marxista	adj-mf-ND
 LR	eus	jendetsu	adj	spa	masivo	adj$adj-GD-ND
 LR	eus	matematiko	adj$adj-izo	spa	matemático	adj$adj-GD$$adj-GD-ND
@@ -13121,7 +13121,7 @@ LR	eus	hogeita hamarren	adj	spa	trigésimo	adj$adj-GD$adj-GD-ND
 LR	eus	arre	adj$adj-izo	spa	turbio	adj-GD-ND
 LR	eus	turistiko	adj	spa	turístico	adj$adj-GD$adj-GD-ND
 RL	eus	geroko	adj	spa	ulterior	adj-mf-ND
-LR	eus	azken	adj	spa	último	det-ord-GD-ND$det-ord$det
+LR	eus	azken	adj	spa	último	det$det-ord$det-ord-GD-ND
 	eus	ahobatezko	adj	spa	unánime	adj-mf$adj$adj-mf-ND
 	eus	aho bateko	adj	spa	unánime	adj-mf$adj$adj-mf-ND
 RL	eus	bakar	adj	spa	único	adj$adj-GD-ND$adj-GD
@@ -15688,7 +15688,7 @@ RL	eus	erail	vblex	spa	matar	vblex
 RL	eus	joan	vblex	spa	acudir	vblex
 LR	eus	ero	vblex	spa	matar	vblex
 	eus	eragin	vblex	spa	causar	vblex
-	eus	iruditu	vblex	spa	parecer	vblex$
+	eus	iruditu	vblex	spa	parecer	vblex$$vblex-pron
 	eus	erail	vblex	spa	asesinar	vblex
 RL	eus	aholkatu	vblex	spa	advertir	vblex
 	eus	deklaratu	vblex	spa	declarar	vblex
@@ -15786,10 +15786,10 @@ RL	eus	uste izan	vblex	spa	presumir	vblex
 	eus	murgildu	vblex	spa	sumir	vblex
 RL	eus	erregutu	vblex	spa	suplicar	vblex
 	eus	ehundu	vblex	spa	tejer	vblex
-	eus	elkartu	vblex	spa	reunir	vblex
+	eus	elkartu	vblex	spa	reunir	vblex$vblex-pron
 	eus	europartu	vblex	spa	europeizar	vblex
-	eus	birlotu	vblex	spa	reunir	vblex
-	eus	batzartu	vblex	spa	reunir	vblex
+	eus	birlotu	vblex	spa	reunir	vblex$vblex-pron
+	eus	batzartu	vblex	spa	reunir	vblex$vblex-pron
 	eus	bateratu	vblex	spa	unir	vblex
 	eus	garaitu	vblex	spa	vencer	vblex
 	eus	abandonatu	vblex	spa	abandonar	vblex
@@ -15894,8 +15894,8 @@ RL	eus	hartu	vblex	spa	acoger	vblex
 	eus	lagundu	vblex	spa	acompañar	vblex
 	eus	aholkatu	vblex	spa	aconsejar	vblex
 RL	eus	gertatu	vblex	spa	acontecer	vblex
-RL	eus	erabaki	vblex	spa	acordar	vblex
-	eus	adostu	vblex	spa	acordar	vblex
+RL	eus	erabaki	vblex	spa	acordar	vblex$vblex-pron
+	eus	adostu	vblex	spa	acordar	vblex$vblex-pron
 RL	eus	eraso	vblex$	spa	acosar	vblex
 	eus	ohitu	vblex	spa	acostumbrar	vblex
 	eus	gehitu	vblex	spa	aumentar	vblex
@@ -15909,7 +15909,7 @@ RL	eus	moldatu	vblex	spa	adaptar	vblex
 	eus	birmoldatu	vblex	spa	remodelar	vblex
 	eus	egokitu	vblex	spa	adecuar	vblex
 RL	eus	aurreratu	vblex	spa	adelantar	vblex
-RL	eus	itsatsi	vblex	spa	adherir	vblex
+RL	eus	itsatsi	vblex	spa	adherir	vblex$vblex-pron
 	eus	igarri	vblex	spa	adivinar	vblex
 	eus	administratu	vblex	spa	administrar	vblex
 	eus	miretsi	vblex	spa	admirar	vblex
@@ -16009,7 +16009,7 @@ RL	eus	harrapatu	vblex	spa	arrebatar	vblex
 LR	eus	harrapatu	vblex	spa	coger	vblex
 	eus	areagotu	vblex	spa	intensificar	vblex
 	eus	konpondu	vblex	spa	arreglar	vblex
-RL	eus	damutu	vblex	spa	arrepentirse	vblex$vblex-pron
+RL	eus	damutu	vblex	spa	arrepentirse	vblex-pron$vblex
 	eus	damutu	vblex	spa	dañar	vblex
 	eus	arriskatu	vblex	spa	arriesgar	vblex
 	eus	zimurtu	vblex	spa	arrugar	vblex
@@ -16178,7 +16178,7 @@ RL	eus	aitortu	vblex	spa	confesar	vblex
 	eus	itxuratu	vblex	spa	configurar	vblex
 	eus	baieztatu	vblex	spa	confirmar	vblex
 RL	eus	batu	vblex	spa	confluir	vblex
-	eus	batu	vblex	spa	reunir	vblex
+	eus	batu	vblex	spa	reunir	vblex$vblex-pron
 RL	eus	osatu	vblex	spa	conformar	vblex
 RL	eus	nahasi	vblex	spa	confundir	vblex
 	eus	izoztu	vblex	spa	congelar	vblex
@@ -16540,7 +16540,7 @@ RL	eus	sustatu	vblex	spa	fomentar	vblex
 	eus	fotografiatu	vblex	spa	fotografiar	vblex
 RL	eus	huts egin	vblex	spa	fracasar	vblex
 	eus	maiztu	vblex	spa	frecuentar	vblex
-	eus	frijitu	vblex	spa	freír	vblex
+	eus	frijitu	vblex	spa	freír	vblex$vblex-pron
 	eus	balaztatu	vblex	spa	frenar	vblex
 	eus	bridatu	vblex	spa	refrenar	vblex
 	eus	igurtzi	vblex	spa	frotar	vblex
@@ -16634,7 +16634,7 @@ RL	eus	sartu	vblex	spa	introducir	vblex
 	eus	asmatu	vblex	spa	inventar	vblex
 	eus	alderantzikatu	vblex	spa	invertir	vblex
 	eus	inbertitu	vblex	spa	invertir	vblex
-	eus	bilakatu	vblex	spa	convertir	vblex
+	eus	bilakatu	vblex	spa	convertir	vblex$vblex-pron
 	eus	ikertu	vblex	spa	investigar	vblex
 	eus	gonbidatu	vblex$	spa	invitar	vblex
 	eus	laguntza eskatu	vblex	spa	invocar	vblex
@@ -16701,7 +16701,7 @@ RL	eus	bizi izan	vblex	spa	morar	vblex
 	eus	erakutsi	vblex	spa	mostrar	vblex
 LR	eus	erakutsi	vbsint	spa	mostrar	vblex
 RL	eus	eragin	vblex	spa	motivar	vblex
-	eus	mugitu	vblex	spa	mover	vblex
+	eus	mugitu	vblex	spa	mover	vblex$vblex-pron
 	eus	mobilizatu	vblex	spa	movilizar	vblex
 	eus	jantziz aldatu	vblex	spa	mudar	vblex
 	eus	jaio	vblex	spa	nacer	vblex
@@ -16729,7 +16729,7 @@ RL	eus	entzun	vblex	spa	oír	vblex
 	eus	usain hartu	vblex	spa	oler	vblex
 	eus	ahaztu	vblex	spa	olvidar	vblex
 	eus	iritzi	vblex$	spa	opinar	vblex
-RL	eus	iritzi	vblex$	spa	parecer	vblex$
+RL	eus	iritzi	vblex$	spa	parecer	vblex$$vblex-pron
 LR	eus	iritzi	vbsint	spa	opinar	vblex
 RL	eus	zapaldu	vblex	spa	oprimir	vblex
 	eus	ordenatu	vblex	spa	ordenar	vblex$vblex-tv
@@ -16757,7 +16757,7 @@ RL	eus	gelditu	vblex	spa	parar	vblex
 	eus	bekatu egin	vblex	spa	pecar	vblex
 	eus	eskatu	vblex	spa	pedir	vblex
 LR	eus	galdegin	vblex	spa	pedir	vblex
-	eus	itsatsi	vblex	spa	pegar	vblex
+	eus	itsatsi	vblex	spa	pegar	vblex$vblex-pron
 	eus	orraztu	vblex	spa	peinar	vblex
 	eus	ilea moztu	vblex	spa	pelar	vblex
 RL	eus	borrokatu	vblex	spa	pelear	vblex
@@ -16965,8 +16965,8 @@ LR	eus	atxiki	vbsint	spa	mantener	vblex
 	eus	atzeratu	vblex	spa	retrasar	vblex
 	eus	erretratatu	vblex	spa	retratar	vblex
 	eus	atzera egin	vblex	spa	retroceder	vblex
-	eus	bildu	vblex	spa	reunir	vblex
-	eus	elkarretaratu	vblex	spa	reunir	vblex
+	eus	bildu	vblex	spa	reunir	vblex$vblex-pron
+	eus	elkarretaratu	vblex	spa	reunir	vblex$vblex-pron
 	eus	ezagutarazi	vblex	spa	revelar	vblex
 RL	eus	estali	vblex	spa	revestir	vblex
 	eus	berrikusi	vblex	spa	revisar	vblex
@@ -17070,7 +17070,7 @@ RL	eus	hartu	vblex	spa	tomar	vblex$vblex-inf
 	eus	topatu	vblex	spa	encontrar	vblex$vblex-vbact
 RL	eus	topatu	vblex	spa	topar	vblex
 RL	eus	bihurritu	vblex	spa	torcer	vblex
-	eus	bihurtu	vblex	spa	volver	vblex
+	eus	bihurtu	vblex	spa	volver	vblex$vblex-pron
 	eus	landu	vblex	spa	trabajar	vblex
 RL	eus	itzuli	vblex	spa	traducir	vblex
 	eus	erdaratu	vblex	spa	traducir	vblex
@@ -17115,7 +17115,7 @@ RL	eus	bortxatu	vblex	spa	violar	vblex
 LR	eus	bizitu	vblex	spa	vivir	vblex
 	eus	hegan egin	vblex	spa	volar	vblex
 	eus	irauli	vblex	spa	volcar	vblex
-RL	eus	itzuli	vblex	spa	volver	vblex
+RL	eus	itzuli	vblex	spa	volver	vblex$vblex-pron
 LR	eus	botoa eman	vblex	spa	votar	vblex
 	eus	bozkatu	vblex	spa	votar	vblex
 	eus	botatu	vblex	spa	votar	vblex
@@ -19276,7 +19276,7 @@ LR	eus	esker mila	ij	spa	muchas gracias	ij
 	eus	bai horixe		spa	exacto	adj$adj-m-sg$
 	eus	aupa	ij$	spa	hurra	ij$
 	eus	arraioa		spa	mecachis	
-	eus	inola ere ez		spa	nanay	$vblex
+	eus	inola ere ez		spa	nanay	
 	eus	baita zera ere		spa	narices	
 	eus	arraioa		spa	ostras	ij$
 	eus	alajainkoa		spa	pardiez	

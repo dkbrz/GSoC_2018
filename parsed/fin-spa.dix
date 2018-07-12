@@ -2,7 +2,7 @@
 	fin	Jaakko	np$np-ant-m	spa	Jaakko	np-ant-m
 	fin	yksi	num$num-card-sg$num-card	spa	uno	num$num-m-sp$num-m
 	fin	kaksi	num$num-card-sg$num-card	spa	dos	num$num-mf$num-mf-sp$
-	fin	kolme	num-card-sg$num$num-card	spa	tres	num$$num-mf-sp
+	fin	kolme	num-card-sg$num$num-card	spa	tres	num$num-mf-sp$
 	fin	neljä	num$num-card-sg$num-card	spa	cuatro	num$$num-mf-sp
 	fin	viisi	num$num-card-sg$num-card	spa	cinco	num$num-mf-sp$
 	fin	kuusi	num-card-sg$num$num-card	spa	seis	num$num-mf-sp$
@@ -99,7 +99,7 @@
 	fin	poika	n$n-ND	spa	niño	n$n-m$n-m-sg
 	fin	vuosi	n$n-ND	spa	año	n-m$n$n-m-sg
 	fin	tyttö	n$n-ND	spa	niño	n-f$n-f-sg
-	fin	sisko	n	spa	hermano	n-f$n-f-ND
+	fin	sisko	n	spa	hermano	n-f$n$n-f-ND
 	fin	koira	n$n-ND	spa	perro	n$n-m$n-m-sg
 	fin	kissa	n$n-ND	spa	gato	n$n-m$n-m-sg
 	fin	lapsi	n$n-ND	spa	niño	n$n-m$n-m-sg
@@ -110,7 +110,7 @@
 	fin	käsi	n$n-ND	spa	mano	n-f$n$n-f-sg
 	fin	silmä	n$n-ND	spa	ojo	n$n-m$n-m-sg
 	fin	vastaus	n	spa	respuesta	n-f$n-f-sg$n
-	fin	kysymys	n$n-ND	spa	pregunta	n$n-f$n-f-ND
+	fin	kysymys	n$n-ND	spa	pregunta	n-f$n$n-f-ND
 	fin	ihminen	n$n-pl	spa	gente	n-f-sg$n$n-f
 	fin	pöytä	n$n-ND	spa	mesa	n-f$n$n-f-sg
 	fin	tuoli	n$n-ND	spa	silla	n-f$n$n-f-sg
@@ -121,7 +121,7 @@
 	fin	vesi	n$n-ND	spa	agua	n-f$n$n-f-sg
 	fin	meno	n	spa	curso	n-m$n-m-sg$n
 	fin	piilo	n	spa	guarida	n-f$n$n-f-ND
-	fin	mari	n	spa	María	np$np-ant$np-ant-f$np-ant-f-sg
+	fin	mari	n	spa	María	np$np-ant$np-ant-f-sg$np-ant-f
 	fin	mari	n	spa	marihuana	n$n-f$n-f-ND
 	fin	laskeminen	n	spa	cuenta	n-f$n$n-f-sg
 	fin	taka	n	spa	revés	n$n-m$n-m-ND
@@ -277,7 +277,7 @@ RL	fin	kiitos	ij	spa	por favor	ij
 	fin	miksi	prn$prn-itg	spa	qué	prn$prn-itg$prn-itg-mf-sg$prn-itg-mf
 	fin	muu	prn	spa	otro	prn-tn-f-sg$prn-tn-f
 	fin	muu	prn	spa	otro	prn$prn-tn$prn-tn-m-sg$prn-tn-m
-	fin	yksi	prn$prn-sg-gen	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg
+	fin	yksi	prn$prn-sg-gen	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg
 	fin	yksi	prn$prn-sg-gen	spa	una	prn-tn-m
 	fin	minä	prn$prn-pers-p1$prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-gen	spa	yo	prn$prn-tn-p1-mf-sg$prn-tn$prn-tn-p1-mf
 	fin	sinä	prn$prn-pers-p2$prn-pers$prn-pers-p2-sg	spa	tú	prn$prn-tn$prn-tn-p2-mf$prn-tn-p2-mf-sg

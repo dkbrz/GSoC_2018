@@ -111,9 +111,9 @@ LR	swe	då	cnjadv	eng	so	cnjsub
 	swe	jag	prn-pers-p1-ut$prn-pers$prn	eng	I	prn-pers-p1-mf$prn-pers-p1-mf-sg
 	swe	du	prn-pers-p2-ut$prn$prn-pers$	eng	you	prn-pers-p2-mf$prn-pers-p2-mf-sg$prn-pers-p2
 	swe	hon	prn-pers-p3-f$$prn	eng	she	prn-pers-p3-f$prn-pers-p3-f-sg
-	swe	han	prn-pers-p3-m$$prn$prn-pers	eng	he	prn-pers-p3-m$prn-pers$prn-pers-p3-m-sg
+	swe	han	prn-pers-p3-m$$prn$prn-pers	eng	he	prn-pers-p3-m$prn-pers-p3-m-sg
 	swe	hen	prn-pers-p3-ut	eng	they	prn-pers-p3$prn-pers-p3-mf$prn-pers-p3-mf-pl
-	swe	den	prn-pers-p3-ut$prn$	eng	he	prn-pers-p3-m$prn-pers$prn-pers-p3-m-sg
+	swe	den	prn-pers-p3-ut$prn$	eng	he	prn-pers-p3-m$prn-pers-p3-m-sg
 	swe	den	prn-pers-p3-ut$prn$	eng	she	prn-pers-p3-f$prn-pers-p3-f-sg
 	swe	den	prn-pers-p3-nt	eng	it	prn-pers-p3-nt$prn-pers-p3-nt-sg
 	swe	vi	prn-pers-p1$prn$prn-pers-p1-un	eng	we	prn-pers-p1$prn-pers-p1-mf-pl
@@ -194,10 +194,10 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	affär	n-ut	eng	affair	n$n-ND
 	swe	affär	n-ut	eng	affair	n-pl
 	swe	affär	n-ut	eng	business	n$n-unc
-	swe	affär	n-ut	eng	businesswoman	n
+	swe	affär	n-ut	eng	businesswoman	n$n-pl
 	swe	affär	n-ut	eng	deal	n$n-ND
 	swe	affär	n-ut	eng	shop	n$n-sg
-	swe	affärsman	n-ut	eng	businessman	n
+	swe	affärsman	n-ut	eng	businessman	n$n-pl
 	swe	affärsuppgörelse	n-ut	eng	bargain	n$n-ND
 	swe	affekt	n-ut	eng	emotion	n$n-ND
 	swe	affidavit	n-nt	eng	affidavit	n
@@ -518,7 +518,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	artist	n-ut	eng	performer	n$n-ND
 	swe	art	n-ut	eng	species	n$n-ND
 	swe	artrit	n-ut	eng	arthritis	n$n-ND
-	swe	ärtväxt	n-ut	eng	pea	n$n-sg
+	swe	ärtväxt	n-ut	eng	pea	n$n-pl
 	swe	arvinge	n-ut	eng	heir	n$n-ND
 	swe	asbest	n-ut	eng	asbestos	n$n-pl
 	swe	asfalt	n-ut	eng	asphalt	n$n-ND
@@ -1312,7 +1312,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	cittra	n-ut	eng	zither	n
 	swe	civilist	n-ut	eng	civilian	n$n-ND
 	swe	cockpit	n-ut	eng	cockpit	n
-	swe	cocktail	n-ut	eng	cocktail	n$n-sg
+	swe	cocktail	n-ut	eng	cocktail	n$n-pl
 	swe	cola	n-ut	eng	cola	n
 	swe	collage	n-nt	eng	collage	n
 	swe	college	n-nt	eng	college	n$n-sg
@@ -2547,7 +2547,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	gren	n-ut	eng	branch	n$n-sg
 	swe	grepp	n-nt	eng	snatch	n
 	swe	grimma	n-ut	eng	halter	n
-	swe	grind	n-ut	eng	gate	n$n-ND
+	swe	grind	n-ut	eng	gate	n$n-pl
 	swe	groda	n-ut	eng	frog	n$n-sg
 	swe	grodyngel	n-nt	eng	tadpole	n
 	swe	groende	n-nt	eng	germination	n
@@ -2766,7 +2766,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	hertiginna	n-ut	eng	duchess	n
 	swe	hertig	n-ut	eng	duke	n$n-ND
 	swe	hierarki	n-ut	eng	hierarchy	n$n-ND
-	swe	himmel	n-ut	eng	heaven	n$n-ND
+	swe	himmel	n-ut	eng	heaven	n$n-pl
 	swe	hinder	n-nt	eng	barrier	n$n-ND
 	swe	hinder	n-nt	eng	impediment	n
 	swe	hinder	n-nt	eng	obstacle	n$n-ND
@@ -2803,7 +2803,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	högfärd	n-ut	eng	conceit	n
 	swe	hög	n-ut$	eng	high	n
 	swe	hög	n-ut$	eng	hillock	n
-	swe	hög	n-ut$	eng	pile	n$n-ND
+	swe	hög	n-ut$	eng	pile	n$n-pl
 	swe	högskola	n-ut	eng	college	n$n-sg
 	swe	högskoleadjunkt	n-ut	eng	instructor	n$n-sg
 	swe	högtalare	n-ut	eng	loudspeaker	n
@@ -2996,7 +2996,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	innehåll	n-nt	eng	content	n-pl
 	swe	innehavare	n-ut	eng	occupant	n
 	swe	innehavare	n-ut	eng	possessor	n
-	swe	innehav	n-nt	eng	holding	n
+	swe	innehav	n-nt	eng	holding	n$n-pl
 	swe	innehav	n-nt	eng	possession	n$n-ND
 	swe	innovation	n-ut	eng	innovation	n$n-sg
 	swe	innovatör	n-ut	eng	innovator	n
@@ -3183,10 +3183,10 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	kägla	n-ut	eng	skittle	n$n-pl
 	swe	kägla	n-ut	eng	skittle	n$n-pl
 	swe	kajak	n-ut	eng	kayak	n
-	swe	kaj	n-ut$n	eng	dock	n$n-ND
+	swe	kaj	n-ut$n	eng	dock	n$n-pl
 	swe	kaj	n-ut$n	eng	quay	n
 	swe	kaka	n-ut	eng	biscuit	n$n-sg
-	swe	kaka	n-ut	eng	cake	n$n-ND
+	swe	kaka	n-ut	eng	cake	n$n-pl
 	swe	kakao	n-ut	eng	cocoa	n$n-sg
 	swe	kakel	n-nt	eng	tile	n$n-ND
 	swe	kakelplatta	n-ut	eng	tile	n$n-ND
@@ -3445,7 +3445,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	knippa	n-ut	eng	bunch	n$n-ND
 	swe	knippe	n-nt	eng	bundle	n$n-ND
 	swe	kniv	n-ut	eng	knife	n$n-ND
-	swe	knoge	n-ut	eng	knuckle	n
+	swe	knoge	n-ut	eng	knuckle	n$n-pl
 	swe	knöl	n-ut	eng	hunch	n$n-ND
 	swe	knöl	n-ut	eng	protuberance	n$n-ND
 	swe	knopp	n-ut	eng	bud	n$n-ND
@@ -3593,7 +3593,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	kontroll	n-ut	eng	command	n$n-ND
 	swe	kontroll	n-ut	eng	containment	n$n-unc
 	swe	kontroll	n-ut	eng	control	n$n-ND
-	swe	kontroll	n-ut	eng	screening	n$n-ND
+	swe	kontroll	n-ut	eng	screening	n$n-pl
 	swe	kontrollstation	n-ut	eng	checkpoint	n
 	swe	kontur	n-ut	eng	contour	n$n-ND
 	swe	kö	n-ut	eng	queue	n$n-ND
@@ -4331,7 +4331,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	mikrobiologi	n-ut	eng	microbiology	n$n-sg
 	swe	mikrob	n-ut	eng	microbe	n$n-sg
 	swe	mikrofon	n-ut	eng	microphone	n$n-ND
-	swe	mikrosekund	n-ut	eng	microsecond	n
+	swe	mikrosekund	n-ut	eng	microsecond	n$n-pl
 	swe	mikroskop	n-nt	eng	microscope	n$n-sg
 	swe	mikrovåg	n-ut	eng	microwave	n$n-sg
 	swe	militarism	n-ut	eng	militarism	n$n-ND
@@ -4349,7 +4349,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	milstolpe	n-ut	eng	milestone	n$n-ND
 	swe	mina	n-ut	eng	mine	n$n-sg
 	swe	minaret	n-ut	eng	minaret	n
-	swe	mineral	n-nt	eng	mineral	n$n-ND
+	swe	mineral	n-nt	eng	mineral	n$n-pl
 	swe	minfält	n-nt	eng	minefield	n
 	swe	miniatyr	n-ut	eng	miniature	n
 	swe	minibil	n-ut	eng	compact	n
@@ -4492,7 +4492,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	motorcykel	n-ut	eng	motorcycle	n
 	swe	motorhotell	n-nt	eng	motel	n$n-sg
 	swe	motorhuv	n-ut	eng	bonnet	n$n-ND
-	swe	motor	n-ut	eng	engine	n$n-ND
+	swe	motor	n-ut	eng	engine	n$n-pl
 	swe	motor	n-ut	eng	motor	n$n-ND
 	swe	motorstopp	n-nt	eng	stall	n$n-sg
 	swe	motorväg	n-ut	eng	motorway	n
@@ -4593,11 +4593,11 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	närvaro	n-ut	eng	attendance	n$n-unc
 	swe	närvaro	n-ut	eng	presence	n$n-ND
 	swe	nasalisering	n-ut	eng	nasalisation	n
-	swe	näsborre	n-ut	eng	nostril	n$n-sg
+	swe	näsborre	n-ut	eng	nostril	n$n-pl
 	swe	näsduk	n-ut	eng	handkerchief	n$n-ND
 	swe	nässla	n-ut	eng	nettle	n$n-ND
 	swe	näste	n-nt	eng	den	n
-	swe	näthinna	n-ut	eng	retina	n$n-ND
+	swe	näthinna	n-ut	eng	retina	n$n-pl
 	swe	nationalekonomi	n-ut	eng	economics	n$n-pl
 	swe	nationalism	n-ut	eng	nationalism	n$n-ND
 	swe	nationalist	n-ut	eng	nationalist	n$n-ND
@@ -4650,7 +4650,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	nisch	n-ut	eng	niche	n
 	swe	nitrat	n-nt	eng	nitrate	n
 	swe	nitroglycerin	n-un	eng	nitroglycerine	n
-	swe	njure	n-ut	eng	kidney	n$n-sg
+	swe	njure	n-ut	eng	kidney	n$n-pl
 	swe	njutning	n-ut	eng	gusto	n
 	swe	njutning	n-ut	eng	relish	n
 	swe	njutning	n-ut	eng	treat	n
@@ -4923,7 +4923,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	orgasm	n-ut	eng	orgasm	n$n-ND
 	swe	orgel	n-ut	eng	organ	n$n-ND
 	swe	orgie	n-ut	eng	orgy	n$n-ND
-	swe	örhänge	n-nt	eng	earring	n$n-sg
+	swe	örhänge	n-nt	eng	earring	n$n-pl
 	swe	orientalism	n-ut	eng	orientalism	n
 	swe	orientering	n-ut	eng	orientation	n$n-ND
 	swe	originalitet	n-ut	eng	originality	n$n-ND
@@ -5069,8 +5069,8 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	pakt	n-ut	eng	pact	n$n-ND
 	swe	påläggande	n-nt	eng	imposition	n
 	swe	pålägg	n-nt	eng	topping	n
-	swe	påle	n-ut	eng	pile	n$n-ND
-	swe	påle	n-ut	eng	pile	n-pl
+	swe	påle	n-ut	eng	pile	n$n-pl
+	swe	påle	n-ut	eng	pile	n$n-pl
 	swe	palett	n-ut	eng	palette	n
 	swe	palimpsest	n-ut	eng	palimpsest	n
 	swe	palindrom	n-un	eng	royal	n
@@ -5340,7 +5340,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	portion	n-ut	eng	installment	n
 	swe	portion	n-ut	eng	portion	n
 	swe	portmonnä	n-ut	eng	purse	n$n-ND
-	swe	port	n-ut	eng	gate	n$n-ND
+	swe	port	n-ut	eng	gate	n$n-pl
 	swe	port	n-ut	eng	gateway	n$n-ND
 	swe	porto	n-nt	eng	postage	n$n-unc
 	swe	porträttering	n-ut	eng	portrayal	n
@@ -5980,7 +5980,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	samverkan	n-ut	eng	liaison	n
 	swe	samvete	n-nt	eng	conscience	n$n-unc
 	swe	sanatorium	n-nt	eng	sanatorium	n
-	swe	sandal	n-ut	eng	sandal	n
+	swe	sandal	n-ut	eng	sandal	n$n-pl
 	swe	sandbank	n-ut	eng	shelf	n$n-ND
 	swe	sandkorn	n-nt	eng	grit	n
 	swe	sändning	n-ut	eng	broadcast	n$n-sg
@@ -6044,7 +6044,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	schema	n-nt	eng	timetable	n$n-ND
 	swe	schism	n-ut	eng	split	n$n-ND
 	swe	schizofreni	n-ut	eng	schizophrenia	n
-	swe	sebra	n-ut	eng	zebra	n$n-ND
+	swe	sebra	n-ut	eng	zebra	n
 	swe	sedan	n-ut	eng	sedan	n
 	swe	sedel	n-ut	eng	bill	n$n-ND
 	swe	sediment	n-nt	eng	sediment	n$n-ND
@@ -6273,7 +6273,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	skicklighet	n-ut	eng	accomplishment	n
 	swe	skidåkare	n-ut	eng	skier	n
 	swe	skidåkning	n-ut	eng	skiing	n$n-unc
-	swe	skida	n-ut$	eng	ski	n$n-sg
+	swe	skida	n-ut$	eng	ski	n$n-pl
 	swe	skifferplatta	n-ut	eng	slate	n
 	swe	skifte	n-nt	eng	shift	n$n-sg
 	swe	skiftning	n-ut	eng	fluctuation	n
@@ -6319,7 +6319,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	skopa	$n-ut	eng	ladle	n$n-sg
 	swe	skopa	$n-ut	eng	scoop	n$n-ND
 	swe	skördemaskin	n-ut	eng	header	n$n-ND
-	swe	skörd	n-ut	eng	crop	n$n-ND
+	swe	skörd	n-ut	eng	crop	n$n-pl
 	swe	skörd	n-ut	eng	harvest	n$n-ND
 	swe	skorpa	n-ut	eng	crust	n
 	swe	skorpa	n-ut	eng	scab	n$n-ND
@@ -6381,7 +6381,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	skrockande	n-nt	eng	chuck	n$n-sg
 	swe	skrupel	n-ut	eng	qualm	n
 	swe	skruv	n-ut	eng	pin	n$n-sg
-	swe	skruv	n-ut	eng	screw	n
+	swe	skruv	n-ut	eng	screw	n$n-pl
 	swe	skruvstäd	n-nt	eng	vice	n$n-ND
 	swe	skrymsle	n-nt	eng	recess	n
 	swe	skrymtare	n-ut	eng	hypocrite	n
@@ -6557,7 +6557,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	snack	n-nt	eng	chat	n$n-ND
 	swe	snack	n-nt	eng	prattle	n
 	swe	snack	n-nt	eng	talk	n$n-sg
-	swe	snagg	n-ut	eng	crop	n$n-ND
+	swe	snagg	n-ut	eng	crop	n$n-pl
 	swe	snara	n-ut$	eng	noose	n$n-ND
 	swe	snatteri	n-nt	eng	shoplifting	n
 	swe	snedstreck	n-nt	eng	slash	n
@@ -6820,7 +6820,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	ståt	n-ut	eng	pomp	n
 	swe	stat	n-ut	eng	state	n$n-sg
 	swe	statsman	n-ut	eng	politician	n$n-ND
-	swe	statsman	n-ut	eng	statesman	n
+	swe	statsman	n-ut	eng	statesman	n$n-pl
 	swe	statsråd	n-nt	eng	minister	n$n-sg
 	swe	staty	n-ut	eng	statue	n$n-ND
 	swe	stavelse	n-ut	eng	syllable	n$n-sg
@@ -6972,7 +6972,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	struktur	n-ut	eng	texture	n$n-sg
 	swe	strul	n-nt	eng	hassle	n
 	swe	strumpa	n-ut	eng	hose	n
-	swe	strumpa	n-ut	eng	stocking	n$n-sg
+	swe	strumpa	n-ut	eng	stocking	n$n-pl
 	swe	struntprat	n-nt	eng	bilge	n
 	swe	struntprat	n-nt	eng	rubbish	n$n-sg
 	swe	strupe	n-ut	eng	throat	n$n-sg
@@ -7204,7 +7204,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	tärningsspel	n-nt	eng	dice	n-pl
 	swe	tår	n-ut	eng	tear	n$n-ND
 	swe	tår	n-ut	eng	toe	n$n-sg
-	swe	tårta	n-ut$	eng	cake	n$n-ND
+	swe	tårta	n-ut$	eng	cake	n$n-pl
 	swe	tårta	n-ut$	eng	trifle	n$n-sg
 	swe	täthet	n-ut	eng	density	n$n-ND
 	swe	täthet	n-ut	eng	frequency	n$n-ND
@@ -7237,7 +7237,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	tegelsten	n-ut	eng	brick	n$n-ND
 	swe	teism	n-ut	eng	theism	n
 	swe	tejp	n-ut	eng	elder	n$n-ND
-	swe	tejp	n-ut	eng	tape	n$n-ND
+	swe	tejp	n-ut	eng	tape	n$n-pl
 	swe	teknikalitet	n-ut	eng	technicality	n
 	swe	tekniker	n-ut	eng	engineering	n$n-unc
 	swe	tekniker	n-ut	eng	technician	n$n-ND
@@ -7645,7 +7645,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	tyg	n-nt	eng	cloth	n$n-pl$
 	swe	tyg	n-nt	eng	fabric	n
 	swe	tygrulle	n-ut	eng	bolt	n$n-sg
-	swe	typ	n-ut	eng	cookie	n
+	swe	typ	n-ut	eng	cookie	n$n-pl
 	swe	typ	n-ut	eng	type	n$n-ND
 	swe	typografi	n-ut	eng	typography	n
 	swe	typsnitt	n-nt	eng	font	n$n-ND
@@ -7842,7 +7842,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	urinblåsa	n-ut	eng	bladder	n
 	swe	urin	n-ut	eng	urine	n$n-sg
 	swe	urinrör	n-nt	eng	urethra	n
-	swe	urklipp	n-nt	eng	cutting	n
+	swe	urklipp	n-nt	eng	cutting	n$n-pl
 	swe	urna	n-ut	eng	urn	n$n-ND
 	swe	urologi	n-ut	eng	urology	n
 	swe	urolog	n-ut	eng	urologist	n
@@ -7977,7 +7977,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	uttömmande	n-nt	eng	exhaustion	n$n-ND
 	swe	utträde	n-nt	eng	withdrawal	n$n-ND
 	swe	uttryck	n-nt	eng	expression	n$n-ND
-	swe	uttryckssätt	n-nt	eng	phrase	n$n-ND
+	swe	uttryckssätt	n-nt	eng	phrase	n$n-pl
 	swe	utvärdering	n-ut	eng	evaluation	n$n-ND
 	swe	utväxt	n-ut	eng	excrescence	n
 	swe	utväxt	n-ut	eng	outgrowth	n
@@ -8262,7 +8262,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	vikt	n-ut	eng	weight	n$n-ND
 	swe	vila	n-ut$	eng	bear	n$n-ND
 	swe	vila	n-ut$	eng	rest	n$n-ND
-	swe	vildapel	n-ut	eng	crab	n
+	swe	vildapel	n-ut	eng	crab	n$n-pl
 	swe	vilde	n-ut	eng	savage	n$n-ND
 	swe	vildmark	n-ut	eng	outback	n
 	swe	vilja	n-ut$	eng	will	n$n-ND
@@ -8384,7 +8384,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	yttre	n-nt	eng	outside	n$n-ND
 	swe	yttre	n-nt	eng	peripheral	n
 	swe	yxa	n-ut	eng	axe	n$n-sg
-	swe	zebra	n-ut	eng	zebra	n$n-ND
+	swe	zebra	n-ut	eng	zebra	n
 	swe	zenit	n-ut	eng	zenith	n
 	swe	zink	n-ut	eng	zinc	n$n-sg
 	swe	zirkonium	n-nt	eng	zirconium	n

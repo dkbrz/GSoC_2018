@@ -41,7 +41,7 @@ LR	pol	grupa abelowa	adj	epo	abela	adj
 	pol	absurdalny	adj	epo	absurda	adj
 	pol	absurdalny	adj	epo	sensenca	adj
 	pol	aceton	n-mi$n	epo	acetono	n
-	pol	Achilles	np	epo	Aĥilo	np-ant$np
+	pol	Achilles	np	epo	Aĥilo	np$np-ant
 	pol	acykliczny	adj	epo	sencikla	adj
 LR	pol	graf acykliczny	adj	epo	sencikla	adj
 	pol	Adam	ij	epo	Adamo	ij
@@ -169,7 +169,7 @@ LR	pol	ale piwo	n	epo	elo	n
 	pol	Aleksander Macedoński	adj	epo	Aleksandro la Granda	adj
 	pol	Aleksander Wielki	adj	epo	Aleksandro la Granda	adj
 	pol	aleluja	adj	epo	haleluja	adj
-	pol	ależ	adj	epo	ja	adj
+	pol	ależ	adj	epo	ja	adj$
 	pol	alfa	n-f$n	epo	alfo	n
 	pol	alfabet	n-mi$n	epo	aboco	n
 	pol	alfabet Morse'a	ij	epo	morsa kodo	ij
@@ -388,7 +388,7 @@ LR	pol	relacja antysymetryczna	adj	epo	malsimetria	adj
 	pol	areał	n	epo	areo	n
 	pol	area sinus hiperboliczny	n	epo	inversa hiperbola sinuso	n
 	pol	area tangens hiperboliczny	n	epo	inversa hiperbola tangento	n
-	pol	Ares	np$np-ant-mp	epo	Areso	np-loc$np
+	pol	Ares	np$np-ant-mp	epo	Areso	np$np-loc
 	pol	areszt	n-mi$n	epo	arestejo	n
 	pol	aresztant	n$n-mp	epo	arestito	n
 	pol	aresztować	vblex$vblex-impf	epo	aresti	vblex
@@ -504,7 +504,7 @@ LR	pol	argument zmienna niezależna	n	epo	argumento	n
 	pol	awizować	vblex	epo	avizi	vblex
 	pol	Azerbejdżan	np-top-mi$np	epo	Azerbajĝano	np-loc$np
 	pol	Republika Azerbejdżanu	np	epo	Azerbajĝano	np-loc$np
-	pol	Azja	np-top-f$np	epo	Azio	np-loc$np
+	pol	Azja	np-top-f$np	epo	Azio	np$np-loc
 	pol	Azja Mniejsza	np$np-top-f	epo	Malgrand-Azio	np$np-loc
 	pol	Azja południowa	np	epo	Suda Azio	np
 	pol	Azja południowo-wschodnia	np	epo	Orienta Azio	np-loc$np
@@ -811,7 +811,7 @@ LR	pol	bąk zabawka	n	epo	turbo	n
 	pol	beletrysta	n	epo	beletristo	n
 	pol	beletrystyka	n-f$n	epo	beletro	n
 	pol	Belg	n	epo	belgo	n
-	pol	Belgia	np-top-f$np	epo	Belgio	np-loc$np
+	pol	Belgia	np-top-f$np	epo	Belgio	np$np-loc
 	pol	Belgia	np-top-f$np	epo	Belgujo	np
 	pol	belgijski	adj	epo	belga	adj
 	pol	Belgrad	np$np-top-mi	epo	Beogrado	np-loc$np
@@ -1365,7 +1365,7 @@ LR	pol	bok wielokąta	n	epo	latero	n
 	pol	browning	n	epo	braŭningo	n
 	pol	bruderszaft	n$n-mi	epo	frateco	n
 	pol	Brugia	np	epo	Bruĝo	np-loc$np
-	pol	Bruksela	np-top-f$np	epo	Bruselo	np-loc$np
+	pol	Bruksela	np-top-f$np	epo	Bruselo	np$np-loc
 	pol	brukselka	ij	epo	burĝonbrasiko	ij
 	pol	Brunei	np$np-top-nt	epo	Brunejo	np-loc$np
 	pol	Brunei Darussalam	np	epo	Brunejo	np-loc$np
@@ -2570,7 +2570,7 @@ LR	pol	dawać w najem wynajmować	vblex	epo	ludoni	vblex
 	pol	deinotherium	n	epo	dinoterio	n
 	pol	deizm	n-mi$n	epo	deismo	n
 	pol	deizm	n-mi$n	epo	diismo	n
-	pol	Dejmos	np	epo	Dejmo	np-loc$np
+	pol	Dejmos	np	epo	Dejmo	np$np-loc
 	pol	deka	n	epo	dago	n
 	pol	dekada	n-f$n	epo	dekado	n
 	pol	dekadencja	n-f$n	epo	dekadenco	n
@@ -4185,7 +4185,7 @@ RL	pol	gąbczasta encefalopatia bydła	ij	epo	bova spongeca encefalopatio BSE	ij
 	pol	eufemizm	n-mi$n	epo	eŭfemismo	n
 	pol	eufemizm	n-mi$n	epo	evitvorto	n
 	pol	eufonia	n-f$n	epo	eŭfonio	n
-	pol	Eufrat	np	epo	Eŭfrato	np-loc$np
+	pol	Eufrat	np	epo	Eŭfrato	np$np-loc
 	pol	eugenika	n-f$n	epo	eŭgeniko	n
 	pol	Eŭgeniusz	np	epo	Eŭgeno	np$np-ant
 	pol	eukaliptus	n-mi$n	epo	eŭkalipto	n
@@ -4410,7 +4410,7 @@ RL	pol	gąbczasta encefalopatia bydła	ij	epo	bova spongeca encefalopatio BSE	ij
 	pol	flota morska	n	epo	mararmeo	n
 	pol	admirał floty	np	epo	ŝiparestro	np
 	pol	fluor	n-mi$n	epo	fluoro	n
-	pol	Fobos	np	epo	Fobo	np-loc$np
+	pol	Fobos	np	epo	Fobo	np$np-loc
 	pol	foch	n	epo	grimaco	n
 	pol	stroić fochy	vblex	epo	grimaci	vblex
 	pol	fok	np	epo	ĵibo	np
@@ -4512,8 +4512,8 @@ LR	pol	wielościan foremny	adj	epo	regula	adj
 	pol	frykas	n	epo	frandaĵo	n
 	pol	frytka	n$n-f	epo	terpomfingro	n
 	pol	fryz	n$n-mi	epo	friso	n$n-m
-	pol	Fryzja	np	epo	Frisio	np-loc$np
-	pol	Fryzja	np	epo	Frislando	np-loc$np
+	pol	Fryzja	np	epo	Frisio	np$np-loc
+	pol	Fryzja	np	epo	Frislando	np$np-loc
 	pol	Fryzja	np	epo	Frisujo	np
 	pol	fujarka	n	epo	bekfluto	n
 	pol	fundacja	n-f$n	epo	establaĵo	n
@@ -4630,7 +4630,7 @@ LR	pol	funkcja odwrotna do danej funkcji	n	epo	inversa bildigo	n
 	pol	Gambia	np-top-f$np	epo	Gambio	np-loc$np
 	pol	Republika Gambii	np	epo	Gambio	np-loc$np
 	pol	gambit	n-mi$n	epo	gambito	n
-	pol	Gandawa	np	epo	Gento	np-loc$np
+	pol	Gandawa	np	epo	Gento	np$np-loc
 	pol	ganek	n$n-mi	epo	perono	n
 	pol	gang	n-mi$n	epo	bandaĉo	n
 	pol	gang	n-mi$n	epo	bando	n
@@ -5142,7 +5142,7 @@ LR	pol	grupa struktura algebraiczna	n	epo	grupo	n
 	pol	hafn	n-mi$n	epo	hafnio	n
 	pol	haft	n$n-mi	epo	brodaĵo	n
 	pol	haftować	vblex	epo	brodi	vblex
-	pol	Haga	np	epo	Hago	np-loc$np
+	pol	Haga	np	epo	Hago	np$np-loc
 	pol	Haiti	np$np-top-nt	epo	Haitio	np$np-loc
 	pol	Republika Haiti	np	epo	Haitio	np$np-loc
 	pol	hak	n-mi$n	epo	hoko	n
@@ -5252,7 +5252,7 @@ LR	pol	przestrzeń Hausdorffa	adj	epo	apartiga	adj
 	pol	herezjarcha	np	epo	ĉefherezulo	np
 	pol	hermafrodyta	n	epo	ambaŭseksulo	n
 	pol	hermafrodyta	n	epo	hermafrodito	n
-	pol	Hermes	np	epo	Hermeso	np-ant$np
+	pol	Hermes	np	epo	Hermeso	np$np-ant
 	pol	hermetyczny	adj	epo	hermetika	adj
 	pol	Hermite'a	adj	epo	hermita	adj
 	pol	Hermite	np	epo	Hermito	np
@@ -5327,7 +5327,7 @@ LR	pol	macierz hermitowska	adj	epo	hermita	adj
 	pol	hodowla	n-f$n	epo	bredejo	n
 	pol	hojny	adj$adj-sint	epo	donacema	adj
 	pol	hokus-pokus	n	epo	abrakadabro	n
-	pol	Holandia	np-top-f$np	epo	Holando	np-loc$np
+	pol	Holandia	np-top-f$np	epo	Holando	np$np-loc
 	pol	Holandia	np-top-f$np	epo	Nederlando	np-loc-sg$np$np-loc
 	pol	Holender	n	epo	nederlandano	n$n-m
 	pol	holenderski	adj	epo	nederlanda	adj
@@ -5905,7 +5905,7 @@ LR	pol	pierścień z jedynką	adj	epo	unuhava	adj
 	pol	Jordańczyk	n	epo	jordaniano	n
 	pol	jordański	adj	epo	jordania	adj
 	pol	co do joty	adj	epo	strikta	adj
-	pol	Jowisz	np	epo	Jupitero	np-loc$np
+	pol	Jowisz	np	epo	Jupitero	np$np-loc
 	pol	juan	n	epo	juano	n
 	pol	judaszowiec	n	epo	cerciso	n
 	pol	Jugosławia	np-top-f$np	epo	Jugoslavio	np-loc$np
@@ -7286,7 +7286,7 @@ LR	pol	miećlat	vblex	epo	aĝi	vblex
 	pol	laufer	n	epo	kuriero	n
 	pol	laur	n	epo	laŭro	n
 	pol	Laurazja	np	epo	Laŭrazio	np$np-loc
-	pol	Laurencja	np	epo	Laŭrenco	np$np-ant$
+	pol	Laurencja	np	epo	Laŭrenco	np$np-ant
 	pol	wieniec laurowy	n	epo	laŭrokrono	n
 	pol	laury	ij	epo	laŭroj	ij
 	pol	lawować	vblex	epo	lavumi	vblex
@@ -7330,7 +7330,7 @@ LR	pol	miećlat	vblex	epo	aĝi	vblex
 	pol	leniwiec	n	epo	bradipo	n
 	pol	leniwy	adj	epo	maldiligenta	adj
 	pol	leń	n$n-mp	epo	maldiligentulo	n
-	pol	Leodium	np	epo	Lieĝo	np-loc$np
+	pol	Leodium	np	epo	Lieĝo	np$np-loc
 	pol	lepiej później niż wcale	ij	epo	pli bone malfrue ol neniam	ij
 	pol	lepsze jest wrogiem dobrego	n	epo	plibono estas malamiko de bono	n
 	pol	lepton	n	epo	leptono	n
@@ -7345,7 +7345,7 @@ LR	pol	miećlat	vblex	epo	aĝi	vblex
 	pol	leukocyt	n	epo	blanka sangoĉelo	n
 	pol	leukocyt	n	epo	leŭkocito	n
 	pol	lew	n-ma$n	epo	leono	n
-	pol	Lew	np	epo	Leono	np-loc$np
+	pol	Lew	np	epo	Leono	np$np-loc
 	pol	lewa	n$n-f	epo	levo	n
 LR	pol	lewa waluta Bułgarii	n	epo	levo	n
 	pol	lewar	n	epo	kriko	n
@@ -7546,7 +7546,7 @@ LR	pol	logarytm przy podstawie a	n	epo	logaritmo	n
 	pol	lotnictwo	n-nt$n	epo	aeronaŭtiko	n
 	pol	lotnik	n-mp$n	epo	aviadisto	n
 	pol	lotopałanka karłowata	n	epo	sukersciuro	n
-	pol	Lowanium	np	epo	Loveno	np-loc$np
+	pol	Lowanium	np	epo	Loveno	np$np-loc
 	pol	lowelas	n	epo	amaĵisto	n
 	pol	lowelas	n	epo		n$$n-acr-re$n-acr
 	pol	lowelas	n	epo	amoranto	n$n-f
@@ -7576,8 +7576,8 @@ LR	pol	logarytm przy podstawie a	n	epo	logaritmo	n
 	pol	luka	n-f$n	epo	breĉo	n
 	pol	luka	n-f$n	epo	truo	n
 	pol	zrobić lukę	ij	epo	breĉigi	ij
-	pol	Luksemburg	np-top-mi$np	epo	Luksemburgio	np-loc$np
-	pol	Luksemburg	np-top-mi$np	epo	Luksemburgo	np-loc$np
+	pol	Luksemburg	np-top-mi$np	epo	Luksemburgio	np$np-loc
+	pol	Luksemburg	np-top-mi$np	epo	Luksemburgo	np$np-loc
 	pol	lulek	n	epo	hiskiamo	n
 	pol	lump	np	epo	ĉifonisto	np
 	pol	lump	np	epo	ĉifonulo	np
@@ -10117,7 +10117,7 @@ LR	pol	okupywać płacić okup	vblex	epo	elaĉeti	vblex
 	pol	punkt orientacyjny	n	epo	gvidilo	n
 	pol	orientować	vblex$vblex-perf	epo	orienti	vblex
 	pol	orientować się	vblex	epo	sin gvidi	vblex
-	pol	Orion	np	epo	Oriono	np-loc$np
+	pol	Orion	np	epo	Oriono	np$np-loc
 	pol	orkan	n	epo	uragano	n
 	pol	orkiestra	n-f$n	epo	muzikistaro	n
 	pol	orkisz pszenny	n	epo	spelto	n
@@ -10913,7 +10913,7 @@ LR	pol	ideał pierwszy	adj	epo	prima	adj
 	pol	plastyczny	adj	epo	plastika	adj
 	pol	plastyka	n-f$n	epo	plastiko	n
 	pol	platan	n-mi$n	epo	platano	n
-	pol	Platon	np	epo	Platono	$np-ant$np$np-ant-m
+	pol	Platon	np	epo	Platono	np-ant$np$np-ant-m
 	pol	platyna	n-f$n	epo	plateno	n
 	pol	plazma	n-f$n	epo	plasmo	n
 	pol	plaża	n-f$n	epo	plaĝo	n
@@ -11396,8 +11396,8 @@ LR	pol	pokrycie zbioru zbiorami	n	epo	kovro	n
 	pol	polować z nagonką	vblex	epo	batui	vblex
 	pol	polowanie	np	epo	ĉaso	np
 	pol	polowanie z nagonką	n	epo	batuo	n
-	pol	Polska	np-top-f$np	epo	Polio	np-loc$np
-	pol	Polska	np-top-f$np	epo	Pollando	np-loc$np
+	pol	Polska	np-top-f$np	epo	Polio	np$np-loc
+	pol	Polska	np-top-f$np	epo	Pollando	np$np-loc
 	pol	Polska	np-top-f$np	epo	Polujo	np
 	pol	polski	adj$adj-sint	epo	pola	adj
 	pol	poła	n-f$n	epo	basko	n
@@ -12103,7 +12103,7 @@ LR	pol	przechodzić np. przez punkt	vblex	epo	trairi	vblex
 	pol	przeciągać	vblex-impf$vblex	epo	tiri	vblex
 	pol	przeciągać się	vblex	epo	sin etendi	vblex
 	pol	przeciekać	vblex	epo	traflueti	vblex
-	pol	przecież	adj	epo	ja	adj
+	pol	przecież	adj	epo	ja	adj$
 	pol	przecięcie	n-nt$n	epo	komunaĵo	n
 LR	pol	przecięcie zbiorów	n	epo	komunaĵo	n
 	pol	przecięcie się	n	epo	intersekco	n
@@ -12913,7 +12913,7 @@ LR	pol	krzywa rektyfikowalna	adj	epo	rektifebla	adj
 	pol	religijny	adj-sint$adj	epo	religia	adj
 	pol	ren	n$n-mi	epo	boaco	n
 	pol	ren	n$n-mi	epo	renio	n
-	pol	Ren	np	epo	Rejno	np-loc$np
+	pol	Ren	np	epo	Rejno	np$np-loc
 	pol	renderować	vblex	epo	bildigi	vblex
 	pol	renesans	n$n-mi	epo	renesanco	n
 	pol	renifer	n-ma$n	epo	boaco	n
@@ -13690,7 +13690,7 @@ LR	pol	rzut przekształcenie	n	epo	projekcio	n
 	pol	satelita	n$n-mi	epo	luno	n
 	pol	satelita	n$n-mi	epo	satelito	n
 	pol	satelita szpiegowski	n	epo	spionsatelito	n
-	pol	Saturn	np	epo	Saturno	np-loc$np
+	pol	Saturn	np	epo	Saturno	np$np-loc
 	pol	satyr	n	epo	satiruso	n
 	pol	sauna	n$n-f	epo	saŭnejo	n
 	pol	sauna	n$n-f	epo	saŭno	n
@@ -14183,7 +14183,7 @@ LR	pol	punkt skupienia	adj	epo	akumuliĝa	adj
 	pol	sokół	n$n-ma	epo	falko	n
 	pol	sok pokarmowy	np	epo	ĉilo	np
 	pol	sok pokarmowy	np	epo	ĥilo	np
-	pol	Sokrates	np$np-ant-mp	epo	Sokrato	np-ant$$np$np-ant-m
+	pol	Sokrates	np$np-ant-mp	epo	Sokrato	np-ant$np$np-ant-m
 	pol	solić	vblex	epo	sali	vblex
 	pol	solidny	adj-sint$adj	epo	firma	adj
 	pol	solidny grunt	n	epo	tera firmaĵo	n
@@ -15052,11 +15052,11 @@ LR	pol	sześcian niekoniecznie foremny	n	epo	sesedro	n
 	pol	szwagierka	n-f$n	epo	bofratino	n
 	pol	szwagrostwo	ij	epo	bogefratoj	ij
 	pol	Szwajcar	n-mp$n	epo	sviso	n
-	pol	Szwajcaria	np-top-f$np	epo	Svisio	np-loc$np
-	pol	Szwajcaria	np-top-f$np	epo	Svislando	np-loc$np
+	pol	Szwajcaria	np-top-f$np	epo	Svisio	np$np-loc
+	pol	Szwajcaria	np-top-f$np	epo	Svislando	np$np-loc
 	pol	Szwajcaria	np-top-f$np	epo	Svisujo	np
 	pol	szwajcarski	adj	epo	svisa	adj
-	pol	Szwecja	np-top-f$np	epo	Svedio	np-loc$np
+	pol	Szwecja	np-top-f$np	epo	Svedio	np$np-loc
 	pol	Szwecja	np-top-f$np	epo	Svedujo	np
 	pol	Szwed	n$n-mp	epo	svedo	n
 	pol	szwedzki	adj	epo	sveda	adj
@@ -16788,7 +16788,7 @@ LR	pol	wartość oczekiwana zmiennej losowej	n	epo	ekspekto	n
 	pol	Watykan	np-top-mi$np	epo	Vatikano	np-loc$np
 	pol	watykański	adj	epo	Vatikana	adj
 	pol	wawrzynek	n-mi$n	epo	dafno	n
-	pol	Wawrzyniec	np	epo	Laŭrenco	np$np-ant$
+	pol	Wawrzyniec	np	epo	Laŭrenco	np$np-ant
 	pol	waza	n-f$n	epo	vazo	n
 	pol	wazon	n-mi$n	epo	florpoto	n
 	pol	ważne sprawy	ij	epo	gravaj aferoj	ij
@@ -17015,7 +17015,7 @@ LR	pol	wiek stulecie	n	epo	jarcento	n
 	pol	tak wiele	ij	epo	tiom multaj	ij
 	pol	Wielka Brytania	np-top-f$np	epo	Britio	np-loc$np
 	pol	Wielka Brytania	np-top-f$np	epo	Britujo	np
-	pol	Wielka Niedźwiedzica	np	epo	Granda Ursino	np-loc$np
+	pol	Wielka Niedźwiedzica	np	epo	Granda Ursino	np$np-loc
 	pol	Wielkanoc	np	epo	Pasko	np$np-loc
 	pol	Wielka Sobota	np	epo	Sankta Sabato	np
 	pol	wielki	n	epo	ega	n
@@ -18816,7 +18816,7 @@ LR	pol	zbiór wartości funkcji	n	epo	bildaro	n
 	pol	zejść na manowce	vblex	epo	elvojiri	vblex
 	pol	zejść z drogi	vblex	epo	devojiĝi	vblex
 	pol	zejść z drogi	vblex	epo	elvojiri	vblex
-	pol	Zelandia	np-top-f$np	epo	Zelando	np-loc$np
+	pol	Zelandia	np-top-f$np	epo	Zelando	np$np-loc
 	pol	zelant	n	epo	zeloto	n
 	pol	zelówka	n$n-f	epo	plando	n
 	pol	zelówka	n$n-f	epo	plandumo	n

@@ -1,17 +1,17 @@
 	bul	и	cnjcoo	ell	και	cnjcoo
 	bul	на	pr	ell	πάνω	pr
 	bul	в	pr	ell	σε	pr
-	bul	столица	n-f	ell	πρωτεύουσα	n-f
-	bul	град	n-m	ell	πόλη	n-f
-	bul	страна	n-f	ell	χώρα	n-f
+	bul	столица	n-f	ell	πρωτεύουσα	n-f$n
+	bul	град	n-m	ell	πόλη	n-f$n
+	bul	страна	n-f	ell	χώρα	n$n-f
 	bul	аборт	n-m	ell	έκτρωση	n-f
 	bul	абсолютизъм	n-m	ell	απολυταρχία	n-f
 	bul	абсорпция	n-f	ell	εφίζηση	n-f
 	bul	август	n-m	ell	αύγουστος	n-m
-	bul	автобус	n-m	ell	λεωφορείο	n-nt
+	bul	автобус	n-m	ell	λεωφορείο	n$n-nt
 	bul	автокефалност	n-f	ell	αυτοκεφαλία	n-f
 	bul	автомагистрала	n-f	ell	αυτοκινητόδρομος	n-f
-	bul	автомобил	n-m	ell	αυτοκίνητο	n-nt
+	bul	автомобил	n-m	ell	αυτοκίνητο	n-nt$n
 	bul	автономия	n-f	ell	αυτονομία	n-f
 	bul	автор	n-m	ell	συγγραφέας	n-m
 	bul	агора	n-f	ell	αγορά	n-f
@@ -59,7 +59,7 @@
 	bul	басня	n-f	ell	παραμύθι	n-nt
 	bul	бедност	n-f	ell	φτώχεια	n-f
 	bul	безкрайност	n-f	ell	άπειρο	n-nt
-	bul	безработица	n-f	ell	ανεργία	n-f
+	bul	безработица	n-f	ell	ανεργία	n$n-f
 	bul	библия	n-f	ell	αγία γραφή	n-f
 	bul	бизнес	n-m	ell	επιχείρηση	n-f
 	bul	биолог	n-m	ell	βιολογίαος	n-m
@@ -71,7 +71,7 @@
 	bul	богохулство	n-nt	ell	βλασφημία	n-f
 	bul	бойкот	n-m	ell	μποϊκοτάζ	n-nt
 	bul	болест	n-f	ell	ασθένεια	n-f
-	bul	болница	n-f	ell	νοσοκομείο	n-nt
+	bul	болница	n-f	ell	νοσοκομείο	n-nt$n
 	bul	бомба	n-f	ell	βόμβα	n-f
 	bul	борба	n-f	ell	πάλη	n-f
 	bul	борса	n-f	ell	χρηματιστήριο	n-nt
@@ -82,40 +82,40 @@
 	bul	бряг	n-m	ell	ακτή	n-f
 	bul	бук	n-m	ell	οξιά	n-f
 	bul	българин	n-m	ell	βούλγαρος	n-m
-	bul	вагина	n-f	ell	κόλπος	n-m
+	bul	вагина	n-f	ell	κόλπος	n-m$n
 	bul	валеж	n-m	ell	υετός	n-m
-	bul	вандал	n-m	ell	βάνδαλος	n-m
+	bul	вандал	n-m	ell	βάνδαλος	n$n-m
 	bul	вегетарианство	n-nt	ell	χορτοφαγία	n-m
-	bul	век	n-m	ell	αιώνας	n-m
+	bul	век	n-m	ell	αιώνας	n-m$n
 	bul	верига	n-f	ell	αλυσίδα	n-f
-	bul	вестник	n-m	ell	εφημερίδα	n-f
+	bul	вестник	n-m	ell	εφημερίδα	n-f$n
 	bul	вето	n-nt	ell	αρνησικυρία	n-nt
 	bul	вид	n-m	ell	τύπος	n-m
 	bul	вина	n-f	ell	δόλος	n-m
 	bul	вирус	n-m	ell	ιός	n-m
 	bul	вицепремиер	n-m	ell	πρωθυπουργός	n-m
-	bul	влагалище	n-nt	ell	κόλπος	n-m
+	bul	влагалище	n-nt	ell	κόλπος	n-m$n
 	bul	влажност	n-f	ell	υγρασία	n-f
-	bul	влак	n-m	ell	τραίνο	n-nt
+	bul	влак	n-m	ell	τραίνο	n-nt$n
 	bul	вода	n-f	ell	νερό	n-nt$n
 	bul	война	n-f	ell	πόλεμος	n-m
 	bul	врата	n-f	ell	πόρτα	n-f
-	bul	време	n-nt	ell	χρόνος	n-m
+	bul	време	n-nt	ell	χρόνος	n-m$n
 	bul	вторник	n-m	ell	τρίτη	n-f
-	bul	вулкан	n-m	ell	ηφαίστειο	n-nt
+	bul	вулкан	n-m	ell	ηφαίστειο	n-nt$n
 	bul	въже	n-nt	ell	σχοινί	n-nt
 	bul	вълна	n-f	ell	κύμα	n-f
-	bul	вятър	n-m	ell	άνεμος	n-m
-	bul	газ	n-m	ell	αέριο	n-nt
+	bul	вятър	n-m	ell	άνεμος	n-m$n
+	bul	газ	n-m	ell	αέριο	n-nt$n
 	bul	ген	n-m	ell	γονίδιο	n-nt
 	bul	генерал	n-m	ell	στρατηγός	n-m
 	bul	геноцид	n-m	ell	γενοκτονία	n-f
-	bul	геройство	n-nt	ell	ήρωας	n-m
+	bul	геройство	n-nt	ell	ήρωας	n-m$n
 	bul	гигант	n-m	ell	γίγαντας	n-m
 	bul	глас	n-m	ell	φωνή	n-f
 	bul	глобализация	n-f	ell	παγκοσμιοποίηση	n-f
 	bul	глупост	n-f	ell	βλακεία	n-f
-	bul	година	n-f	ell	έτος	n-m
+	bul	година	n-f	ell	έτος	n$n-m
 	bul	големина	n-f	ell	ηλεκτροπληξία	n-f
 	bul	гора	n-f	ell	δάσος	n-m
 	bul	господ	n-m	ell	θεός	n-m
@@ -147,7 +147,7 @@
 	bul	държава	n-f	ell	κράτος	n-m
 	bul	еволюция	n-f	ell	εξέλιξη	n-f
 	bul	евро	n-nt	ell	ευρώ	n-nt
-	bul	езеро	n-nt	ell	λίμνη	n-f
+	bul	езеро	n-nt	ell	λίμνη	n$n-f
 	bul	езичество	n-nt	ell	παγανισμός	n-m
 	bul	екзекуция	n-f	ell	εκτέλεσης	n-m
 	bul	екипаж	n-m	ell	πλήρωμα	n-nt
@@ -158,21 +158,21 @@
 	bul	енергия	n-f	ell	ενέργεια	n-f
 	bul	енциклопедия	n-f	ell	εγκυκλοπαίδεια	n-f
 	bul	есен	n-f	ell	φθινόπωρο	n-nt
-	bul	жена	n-f	ell	γυναίκα	n-f
-	bul	живот	n-m	ell	ζωή	n-f
+	bul	жена	n-f	ell	γυναίκα	n-f$n
+	bul	живот	n-m	ell	ζωή	n-f$n
 	bul	животно	n-nt	ell	ζώο	n-nt$n
 	bul	заболяване	n-nt	ell	ασθένεια	n-m
 	bul	заем	n-m	ell	δάνειο	n-nt
 	bul	зазоряване	n-nt	ell	αυγή	n-f
 	bul	закон	n-m	ell	ηόμοςη	n-f
-	bul	запад	n-m	ell	δύση	n-f
+	bul	запад	n-m	ell	δύση	n-f$n
 	bul	захар	n-f	ell	ζάχαρη	n-f
 	bul	звезда	n-f	ell	αστέρας	n-m
 	bul	здраве	n-nt	ell	υγεία	n-f
 	bul	земеделие	n-nt	ell	γεωργίας	n-m
 	bul	земетресение	n-nt	ell	σεισμός	n-m
 	bul	земя	n-f	ell	γη	n-f
-	bul	злато	n-nt	ell	χρυσός	n-m
+	bul	злато	n-nt	ell	χρυσός	n$n-m
 	bul	змия	n-f	ell	φίδι	n-nt
 	bul	знаме	n-nt	ell	σημαία	n-f
 	bul	знание	n-nt	ell	γνώση	n-f
@@ -180,8 +180,8 @@
 	bul	игра	n-f	ell	παιχνίδι	n-nt$n
 	bul	идея	n-f	ell	ιδέα	n-f
 	bul	извор	n-m	ell	άνοιξη	n-f
-	bul	изкуство	n-nt	ell	τέχνη	n-f
-	bul	изток	n-m	ell	ανατολή	n-f
+	bul	изкуство	n-nt	ell	τέχνη	n-f$n
+	bul	изток	n-m	ell	ανατολή	n-f$n
 	bul	изход	n-m	ell	έξοδος	n-f
 	bul	иконоборство	n-nt	ell	έικονομαχία	n-f
 	bul	икономика	n-f	ell	οικονομία	n-f
@@ -219,8 +219,8 @@
 	bul	климатизация	n-f	ell	κλιματισμός	n-m
 	bul	клониране	n-nt	ell	κλωνοποίηση	n-f
 	bul	кмет	n-m	ell	δήμαρχος	n-m
-	bul	книга	n-f	ell	βιβλίο	n-nt
-	bul	кожа	n-f	ell	δέρμα	n-nt
+	bul	книга	n-f	ell	βιβλίο	n-nt$n
+	bul	кожа	n-f	ell	δέρμα	n-nt$n
 	bul	кокаин	n-m	ell	κοκαΐνη	n-f
 	bul	компютър	n-m	ell	υπολογιστής	n-m
 	bul	комунизъм	n-m	ell	κομμουνισμός	n-m
@@ -238,7 +238,7 @@
 	bul	кръв	n-f	ell	αίμα	n-nt
 	bul	кръг	n-m	ell	κύκλος	n-m
 	bul	култура	n-f	ell	πολιτισμός	n-m
-	bul	куче	n-nt	ell	σκύλος	n-m
+	bul	куче	n-nt	ell	σκύλος	n-m$n
 	bul	къща	n-f	ell	κατοικία	n-f
 	bul	лев	n-m	ell	λεβ	n-nt
 	bul	лед	n-m	ell	πάγος	n-m
@@ -246,7 +246,7 @@
 	bul	летище	n-nt	ell	αεροδρόμιο	n-nt
 	bul	лечение	n-nt	ell	θεραπεία	n-f
 	bul	лист	n-m	ell	φύλλο	n-nt
-	bul	литература	n-f	ell	λογοτεχνία	n-f
+	bul	литература	n-f	ell	λογοτεχνία	n$n-f
 	bul	луна	n-f	ell	σελήνη	n-f
 	bul	любопитство	n-nt	ell	περιέργεια	n-f
 	bul	лютеранство	n-nt	ell	λουθηρανισμός	n-m
@@ -267,13 +267,13 @@
 	bul	меч	n-m	ell	ξίφος	n-m
 	bul	миля	n-f	ell	μίλι	n-nt
 	bul	министър	n-m	ell	υπουργός	n-m
-	bul	минута	n-f	ell	λεπτό	n-nt
+	bul	минута	n-f	ell	λεπτό	n$n-nt
 	bul	мир	n-m	ell	ειρήνη	n-f
 	bul	митология	n-f	ell	μυθολογία	n-f
 	bul	множество	n-nt	ell	σύνολο	n-nt
 	bul	мобилизация	n-f	ell	επιστράτευση	n-f
 	bul	мозайка	n-f	ell	ψηφιδωτό	n-nt
-	bul	момиче	n-nt	ell	γυναίκα	n-f
+	bul	момиче	n-nt	ell	γυναίκα	n-f$n
 	bul	монопол	n-m	ell	μονοπώλιο	n-nt
 	bul	море	n-nt	ell	θάλασσα	n-f
 	bul	мост	n-m	ell	γέφυρα	n-f
@@ -284,7 +284,7 @@
 	bul	мутация	n-f	ell	μετάλλαξη	n-f
 	bul	мъгла	n-f	ell	ομίχλη	n-f
 	bul	мъдрост	n-f	ell	σοφία	n-f
-	bul	мъж	n-m	ell	άνδρας	n-m
+	bul	мъж	n-m	ell	άνδρας	n-m$n
 	bul	мюсюлманство	n-nt	ell	ισλάμ	n-nt
 	bul	навигация	n-f	ell	ναυσιπλοΐα	n-f
 	bul	наводнение	n-nt	ell	πλημμύρα	n-f
@@ -300,7 +300,7 @@
 	bul	независимост	n-f	ell	ανεξαρτησία	n-f
 	bul	нефт	n-m	ell	πετρέλαιο	n-nt
 	bul	ноември	n-m	ell	νοέμβριος	n-m
-	bul	нос	n-m	ell	μύτη	n-f
+	bul	нос	n-m	ell	μύτη	n-f$n
 	bul	облак	n-m	ell	νέφος	n-m
 	bul	облигация	n-f	ell	ομόλογο	n-nt
 	bul	образование	n-nt$n-n	ell	εκπαίδευση	n-f
@@ -309,21 +309,21 @@
 	bul	община	n-f	ell	δήμος	n-m
 	bul	общност	n-f	ell	κοινότητα	n-f
 	bul	огън	n-m	ell	φωτιά	n-f
-	bul	океан	n-m	ell	ωκεανός	n-m
-	bul	око	n-nt	ell	μάτι	n-nt$n
+	bul	океан	n-m	ell	ωκεανός	n-m$n
+	bul	око	n-nt	ell	μάτι	n$n-nt
 	bul	октомври	n-m	ell	οκτώβριος	n-m
 	bul	омраза	n-f	ell	μίσος	n-m
-	bul	оптимизъм	n-m	ell	αισιοδοξία	n-f
+	bul	оптимизъм	n-m	ell	αισιοδοξία	n-f$n
 	bul	орган	n-m	ell	όργανο	n-nt
 	bul	оръжие	n-nt	ell	όπλο	n-nt
-	bul	оса	n-f	ell	σφήκα	n-f
+	bul	оса	n-f	ell	σφήκα	n$n-f
 	bul	основа	n-f	ell	βάση	n-f
 	bul	остров	n-m	ell	νησί	n-nt
 	bul	отдел	n-m	ell	τμήμα	n-f
 	bul	отпадък	n-m	ell	απορρίμματα	n-nt
 	bul	памук	n-m	ell	βαμβάκι	n-nt
-	bul	папа	n-m	ell	πάπας	n-m
-	bul	папство	n-nt	ell	πάπας	n-m
+	bul	папа	n-m	ell	πάπας	n-m$n
+	bul	папство	n-nt	ell	πάπας	n-m$n
 	bul	пара	n-f	ell	ατμός	n-m
 	bul	партия	n-f	ell	κόμμα	n-nt
 	bul	паспорт	n-m	ell	διαβατήριο	n-nt
@@ -336,7 +336,7 @@
 	bul	печатарство	n-nt	ell	τυπογραφία	f-nt
 	bul	пиратство	n-nt	ell	πειρατεία	n-f
 	bul	писменост	n-f	ell	γραφή	n-f
-	bul	писмо	n-nt	ell	επιστολή	n-f
+	bul	писмо	n-nt	ell	επιστολή	n-f$n
 	bul	планина	n-f	ell	βουνό	n-nt
 	bul	плод	n-m	ell	καρπός	n-m
 	bul	площ	n-f	ell	εμβαδόν	n-nt
@@ -349,7 +349,7 @@
 	bul	полуостров	n-m	ell	χερσόνησος	n-m
 	bul	поляризация	n-f	ell	πόλωση	n-f
 	bul	помятане	n-nt	ell	έκτρωση	n-f
-	bul	понеделник	n-m	ell	δευτέρα	n-f
+	bul	понеделник	n-m	ell	δευτέρα	n$n-f
 	bul	посолство	n-nt	ell	πρεσβεία	n-f
 	bul	пост	n-m	ell	νηστεία	n-f
 	bul	потенциал	n-m	ell	δυναμικό	n-nt
@@ -364,7 +364,7 @@
 	bul	престъпление	n-nt	ell	εγκληματικότητα	n-f
 	bul	пречупване	n-nt	ell	διάθλαση	n-f
 	bul	прилив	n-m	ell	παλίρροια	n-nt
-	bul	природа	n-f	ell	φύση	n-f
+	bul	природа	n-f	ell	φύση	n$n-f
 	bul	пристанище	n-nt	ell	λιμένας	n-m
 	bul	програма	n-f	ell	πρόγραμμα	n-f
 	bul	проект	n-m	ell	έργο	n-nt
@@ -396,7 +396,7 @@
 	bul	ресторант	n-m	ell	εστιατόριο	n-nt
 	bul	реторика	n-f	ell	ρητορική	n-f
 	bul	референдум	n-m	ell	δημοψήφισμα	n-nt
-	bul	речник	n-m	ell	λεξικό	n-nt
+	bul	речник	n-m	ell	λεξικό	n-nt$n
 	bul	риба	n-f	ell	ψάρι	n-nt
 	bul	риболов	n-m	ell	αλιεία	n-f
 	bul	рис	n-m	ell	λύγκας	n-m
@@ -407,7 +407,7 @@
 	bul	роман	n-m	ell	μυθιστόρημα	n-nt
 	bul	самолет	n-m	ell	αεροπλάνο	n-nt
 	bul	сграда	n-f	ell	κτίριο	n-nt
-	bul	север	n-m	ell	βορράς	n-m
+	bul	север	n-m	ell	βορράς	n-m$n
 	bul	сезон	n-m	ell	εποχές	n-m
 	bul	семе	n-nt	ell	σπόρος	n-m
 	bul	семейство	n-nt$n-n	ell	οικογένεια	n-f
@@ -422,7 +422,7 @@
 	bul	слух	n-m	ell	ακοή	n-f
 	bul	слънце	n-nt	ell	ήλιος	n-m
 	bul	смърт	n-f	ell	θάνατος	n-m
-	bul	сняг	n-m	ell	χιόνι	n-nt
+	bul	сняг	n-m	ell	χιόνι	n$n-nt
 	bul	сол	n-f	ell	άλας	n-m
 	bul	софтуер	n-m	ell	λογισμικό	n-nt
 	bul	социалист	n-m	ell	σοσιαλισμός	n-m
@@ -434,9 +434,9 @@
 	bul	статистика	n-f	ell	στατιστική	n-f
 	bul	статия	n-f	ell	άρθρο	n-nt
 	bul	стачка	n-f	ell	απεργία	n-f
-	bul	столетие	n-nt	ell	αιώνας	n-m
-	bul	столица	n-f	ell	πρωτεύουσα	n-f
-	bul	стомана	n-f	ell	χάλυβας	n-m
+	bul	столетие	n-nt	ell	αιώνας	n-m$n
+	bul	столица	n-f	ell	πρωτεύουσα	n-f$n
+	bul	стомана	n-f	ell	χάλυβας	n$n-m
 	bul	стомах	n-m	ell	στόμαχος	n-m
 	bul	стопанство	n-nt	ell	οικονομία	n-f
 	bul	страна	n-f	ell	κράτος	n-m
@@ -455,7 +455,7 @@
 	bul	тероризъм	n-m	ell	τρομοκρατία	n-f
 	bul	терорист	n-m	ell	τρομοκρατίος	n-m
 	bul	технология	n-f	ell	τεχνολογία	n-f
-	bul	течност	n-f	ell	υγρό	n-nt
+	bul	течност	n-f	ell	υγρό	n$n-nt
 	bul	топене	n-nt	ell	τήξη	n-f
 	bul	транспорт	n-m	ell	μεταφορές	n-m
 	bul	триъгълник	n-m	ell	τρίγωνο	n-nt
@@ -465,14 +465,14 @@
 	bul	търговия	n-f	ell	εμπόριο	n-nt
 	bul	уеб	n-m	ell	παγκόσμιος ιστός	n-m
 	bul	умение	n-nt	ell	δεξιότητα	n-f
-	bul	университет	n-m	ell	πανεπιστήμιο	n-nt
+	bul	университет	n-m	ell	πανεπιστήμιο	n-nt$n
 	bul	управление	n-nt	ell	διοίκηση	n-f
 	bul	ураган	n-m	ell	τυφώνας	n-m
 	bul	урбанизация	n-f	ell	αστικοποίηση	n-f
 	bul	услуга	n-f	ell	υπηρεσία	n-f
 	bul	ухо	n-nt	ell	αυτί	n-nt
 	bul	учен	n-m	ell	επιστήμονας	n-m
-	bul	училище	n-nt	ell	σχολείο	n-nt
+	bul	училище	n-nt	ell	σχολείο	n-nt$n
 	bul	фабрика	n-f	ell	εργοστάσιο	n-nt
 	bul	фармация	n-f	ell	φαρμακολογία	n-f
 	bul	февруари	n-m	ell	φεβρουάριος	n-m
@@ -480,26 +480,26 @@
 	bul	филм	n-m	ell	κινηματογράφος	n-m
 	bul	функция	n-f	ell	συνάρτηση	n-f
 	bul	футбол	n-m	ell	ποδόσφαιρο	n-nt
-	bul	хектар	n-m	ell	εκτάριο	n-nt
-	bul	хеликоптер	n-m	ell	ελικόπτερο	n-nt
+	bul	хектар	n-m	ell	εκτάριο	n-nt$n
+	bul	хеликоптер	n-m	ell	ελικόπτερο	n-nt$n
 	bul	хероин	n-m	ell	ηρωίνη	n-f
 	bul	хиперинфлация	n-f	ell	πληθωρισμός	n-m
 	bul	храна	n-f	ell	τροφή	n-f
 	bul	християнство	n-nt	ell	χριστιανισμός	n-m
-	bul	цар	n-m	ell	τσάρος	n-m
-	bul	царство	n-nt	ell	τσάρος	n-m
+	bul	цар	n-m	ell	τσάρος	n-m$n
+	bul	царство	n-nt	ell	τσάρος	n-m$n
 	bul	цена	n-f	ell	τιμή	n-f
 	bul	цензура	n-f	ell	λογοκρισία	n-f
-	bul	час	n-m	ell	ώρα	n-f
-	bul	часовник	n-m	ell	ρολόι	n-nt
+	bul	час	n-m	ell	ώρα	n-f$n
+	bul	часовник	n-m	ell	ρολόι	n$n-nt
 	bul	чаша	n-f	ell	ποτήρι	n-nt
 	bul	червей	n-m	ell	σκουλήκι	n-nt
 	bul	чесън	n-m	ell	σκόρδο	n-nt
 	bul	четвъртък	n-m	ell	πέμπτη	n-f
 	bul	число	n-nt	ell	αριθμός	n-m
-	bul	човек	n-m	ell	άνθρωπος	n-m
-	bul	човечество	n-nt	ell	άνθρωπος	n-m
-	bul	ъгъл	n-m	ell	γωνία	n-f
+	bul	човек	n-m	ell	άνθρωπος	n-m$n
+	bul	човечество	n-nt	ell	άνθρωπος	n-m$n
+	bul	ъгъл	n-m	ell	γωνία	n-f$n
 	bul	юг	n-m	ell	νότος	n-m
 	bul	юли	n-m	ell	ιούλιος	n-m
 	bul	юни	n-m	ell	ιούνιος	n-m
@@ -507,26 +507,26 @@
 	bul	Швеция	np-top-f	ell	Σουηδία	np-top-f
 	bul	Венеция	np-top-f	ell	Βενετία	np-top-f
 	bul	Далмация	np-top-f	ell	Δαλματία	np-top-f
-	bul	Азия	np-top-f	ell	Ασία	np-top-f
+	bul	Азия	np-top-f	ell	Ασία	np$np-top-f
 	bul	Югославия	np-top-f	ell	Γιουγκοσλαβία	np-top-f
 	bul	Англия	np-top-f	ell	Αγγλία	np-top-f
 	bul	Естония	np-top-f	ell	Εσθονία	np-top-f
 	bul	Кения	np-top-f	ell	Κένυα	np-top-f
 	bul	Нигерия	np-top-f	ell	Νιγηρία	np-top-f
-	bul	Швейцария	np-top-f	ell	Ελβετία	np-top-f
+	bul	Швейцария	np-top-f	ell	Ελβετία	np$np-top-f
 	bul	България	np-top-f	ell	Βουλγαρία	np-top-f
 	bul	Германия	np-top-f	ell	Γερμανία	np-top-f
-	bul	Франция	np-top-f	ell	Γαλλία	np-top-f
+	bul	Франция	np-top-f	ell	Γαλλία	np-top-f$np
 	bul	Италия	np-top-f	ell	Ιταλία	np-top-f
 	bul	Македония	np-top-f	ell	Μακεδονία	np-top-f
 	bul	Русия	np-top-f	ell	Ρωσία	np-top-f
-	bul	Гърция	np-top-f	ell	Ελλάδα	np-top-f
+	bul	Гърция	np-top-f	ell	Ελλάδα	np-top-f$np
 	bul	Сърбия	np-top-f	ell	Σερβία	np-top-f
 	bul	Испания	np-top-f	ell	Ισπανία	np-top-f
 	bul	Турция	np-top-f	ell	Τουρκία	np-top-f
 	bul	Румъния	np-top-f	ell	Ρουμανία	np-top-f
 	bul	Византия	np-top-f	ell	Βυζαντινή	np-top-f
-	bul	Индия	np-top-f	ell	Ινδία	np-top-f
+	bul	Индия	np-top-f	ell	Ινδία	np-top-f$np
 	bul	Австралия	np-top-f	ell	Αυστραλία	np-top-f
 	bul	Австрия	np-top-f	ell	Αυστρία	np-top-f
 	bul	Унгария	np-top-f	ell	Ουγγαρία	np-top-f
@@ -537,13 +537,13 @@
 	bul	Сирия	np-top-f	ell	Συρία	np-top-f
 	bul	Словения	np-top-f	ell	Σλοβενία	np-top-f
 	bul	Дания	np-top-f	ell	Δανία	np-top-f
-	bul	Нидерландия	np-top-f	ell	Ολλανδία	np-top-f
+	bul	Нидерландия	np-top-f	ell	Ολλανδία	np-top-f$np
 	bul	Словакия	np-top-f	ell	Σλοβακία	np-top-f
 	bul	Колумбия	np-top-f	ell	Κολομβία	np-top-f
 	bul	Южна Корея	np-top-f	ell	Νότια Κορέα	np-top-f
 	bul	София	np-top-f	ell	Σόφια	np-top-f
 	bul	Япония	np-top-f	ell	Ιαπωνία	np-top-f
-	bul	Холандия	np-top-f	ell	Ολλανδία	np-top-f
+	bul	Холандия	np-top-f	ell	Ολλανδία	np-top-f$np
 	bul	Баня Лука	np-top-f	ell	Μπάνια Λούκα	np-top-f
 	bul	Стара Загора	np-top-f	ell	Στάρα Ζαγόρα	np-top-f
 	bul	Черна Гора	np-top-f	ell	Μαυροβούνιο	np-top-nt
@@ -555,7 +555,7 @@
 	bul	Африка	np-top-f	ell	Αφρική	np-top-f
 	bul	Москва	np-top-f	ell	Μόσχα	np-top-f
 	bul	Пловдив	np-top-m	ell	Φιλιππούπολη	np-top-f
-	bul	Рим	np-top-m	ell	Ρώμη	np-top-f
+	bul	Рим	np-top-m	ell	Ρώμη	np$np-top-f
 	bul	Ню Йорк	np-top-m	ell	Νέα Υόρκη	np-top-f
 	bul	Благоевград	np-top-m	ell	Μπλαγκόεβγκραντ	np-top-nt
 	bul	Асеновград	np-top-m	ell	Στενήμαχος	np-top-m
@@ -584,7 +584,7 @@
 	bul	Тирана	np-top-f	ell	Τίρανα	np-top-f
 	bul	Украйна	np-top-f	ell	Ουκρανία	np-top-f
 	bul	Фамагуста	np-top-f	ell	Αμμόχωστος	np-top-m
-	bul	Хага	np-top-f	ell	Χάγη	np-top-f
+	bul	Хага	np-top-f	ell	Χάγη	np$np-top-f
 	bul	Хърватска	np-top-f	ell	Κροατία	np-top-f
 	bul	Гренландия	np-top-f	ell	Γροιλανδία	np-top-f
 	bul	Великобритания	np-top-f	ell	Ηνωμένο Βασίλειο	np-top-nt
@@ -614,12 +614,12 @@
 	bul	Израел	np-top-m	ell	Ισραήλ	np-top-nt
 	bul	Ирак	np-top-m	ell	Ιράκ	np-top-nt
 	bul	Иран	np-top-m	ell	Ιράν	np-top-nt
-	bul	Истанбул	np-top-m	ell	Κωνσταντινούπολη	np-top-f
+	bul	Истанбул	np-top-m	ell	Κωνσταντινούπολη	np$np-top-f
 	bul	Китай	np-top-m	ell	Κίνας	np-top-m
 	bul	Кипър	np-top-m	ell	Κύπρος	np-top-m
 	bul	Косово	np-top-nt	ell	Κοσσυφοπέδιο	np-top-nt
 	bul	Ливан	np-top-m	ell	Λίβανος	np-top-m
-	bul	Люксембург	np-top-m	ell	Λουξεμβούργο	np-top-nt
+	bul	Люксембург	np-top-m	ell	Λουξεμβούργο	np$np-top-nt
 	bul	Мадрид	np-top-m	ell	Μαδρίτη	np-top-f
 	bul	Мостар	np-top-m	ell	Μοστάρ	np-top-nt
 	bul	Ниш	np-top-m	ell	Νις	np-top-nt

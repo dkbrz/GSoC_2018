@@ -2361,7 +2361,7 @@ RL	epo	Azerio	np-loc	cat	Azerbaitjan	np-loc-m
 	epo	Azoroj	np-loc	cat	Açores	np$np-loc$np-loc-f
 	epo	izoli	vblex	cat	aïllar	vblex
 	epo	ilo	n	cat	aïna	n-f$n
-	epo	b	n-acr$n	cat	b	n-acr-m
+	epo	b	n-acr	cat	b	n-acr-m
 	epo	birdotimigilo	n	cat	babarota	n-f
 	epo	simplulo	n	cat	babau	n
 LR	epo	stultulo	n	cat	babau	n
@@ -3050,7 +3050,7 @@ LR	epo	kitelo	n	cat	brusa	n-f$n
 	epo	abrupta	adj	cat	brusc	adj$
 	epo	bruska	adj	cat	brusc	adj$
 	epo	malĝentila	adj	cat	brusc	adj$
-	epo	Bruselo	np-loc$np	cat	Brussel·les	np-loc$np$np-loc-f
+	epo	Bruselo	np$np-loc	cat	Brussel·les	np-loc$np$np-loc-f
 	epo	malpura	adj	cat	brut	adj$$adj-sup
 	epo	brutala	adj	cat	brutal	adj$adj-mf$
 LR	epo	sovaĝa	adj	cat	brutal	adj$adj-mf$
@@ -3129,7 +3129,7 @@ LR	epo	tendaro	n	cat	bàndol	n-m$n
 LR	epo	golo	n	cat	bàsquet	n$n-m$n-m-sg
 	epo	basketbalo	n	cat	bàsquet	n$n-m$n-m-sg
 LR	epo	korbopilko	n	cat	bàsquet	n$n-m$n-m-sg
-	epo	Belgio	np-loc$np	cat	Bèlgica	np$np-loc$np-loc-f
+	epo	Belgio	np$np-loc	cat	Bèlgica	np$np-loc$np-loc-f
 RL	epo	milita	adj	cat	bèl·lic	adj$
 	epo	besto	n	cat	bèstia	n-f$n
 	epo	havaĵo	n$n-pl	cat	bé	n$n-m
@@ -3414,7 +3414,7 @@ LR	epo	kanelo	n	cat	canal	n$n-m
 	epo	Canal de Navarrés	np-loc	cat	Canal de Navarrés	np-loc-f
 	epo	kanelo	n	cat	canaleta	n$n-f
 	epo	kanaligi	vblex	cat	canalitzar	vblex
-	epo	kanajlo	n	cat	canalla	n-f$n-f-sg$n
+	epo	kanajlo	n	cat	canalla	n-f-sg$n$n-f
 	epo	kanapo	n	cat	canapè	n-m$n$n-m-sg
 	epo	kanario	n	cat	canari	n$n-m
 LR	epo	kanariano	n	cat	canari	n$n-m
@@ -3489,7 +3489,7 @@ LR	epo	valuto	n	cat	canvi	n-m$n
 LR	epo	kanzono	n	cat	cançó	n-f$n
 	epo	kanto	n	cat	cançó	n-f$n
 	epo	hunda	adj	cat	caní	adj$
-	epo	kanibalo	n	cat	caníbal	n$n-mf
+	epo	kanibalo	n	cat	caníbal	n-mf$n
 	epo	varmega epoko	n	cat	canícula	n-f$n
 	epo	kanona	adj	cat	canònic	adj$
 	epo	kanona	adv	cat	canònicament	adv
@@ -4168,7 +4168,7 @@ LR	epo	cigareto	n	cat	cigarreta	n-f
 	epo	cemento	n	cat	ciment	n-m$n
 LR	epo	pintkunsido	n	cat	cimera	n-f$n
 	epo	pintkunveno	n	cat	cimera	n-f$n
-	epo	kvin	num$	cat	cinc	num$$num-mf-sp
+	epo	kvin	n$	cat	cinc	num$$num-mf-sp
 	epo	kvincenta	adj	cat	cinc-centè	adj$adj-ord$adj-ord-GD-ND
 	epo	kinkono	n	cat	cincona	n-f
 LR	epo	kino	n	cat	cine	n$n-m
@@ -5070,8 +5070,8 @@ LR	epo	kolego	n	cat	consoci	n$n-GD
 	epo	Constance	np	cat	Constance	np$np-ant-f-sg
 	epo	konstanto	n	cat	constant	n-f$n$
 	epo	konstanta	adj	cat	constant	adj$adj-mf
-	epo	Konstantinopolo	np-loc	cat	Constantinoble	np$np-loc$np-loc-f
-RL	epo	Konstantinopolo	np-loc	cat	Constantinòpolis	np-loc-f
+	epo	Konstantinopolo	np-loc$np	cat	Constantinoble	np$np-loc$np-loc-f
+RL	epo	Konstantinopolo	np-loc$np	cat	Constantinòpolis	np-loc-f
 	epo	senĉese	adv	cat	constantment	adv
 	epo	Konstanteno	np-ant$np	cat	Constantí	np-ant-m-sg$np-ant$np
 	epo	konsisti	vblex	cat	constar	vblex
@@ -5739,7 +5739,7 @@ RL	epo	kruĉo	n	cat	cànter	n-m$n
 	epo	kruĉo	n	cat	càntir	n$n-m
 	epo	kapsulo	n	cat	càpsula	n-f$n
 LR	epo	kufo	n	cat	càpsula	n-f$n
-	epo	kario	n	cat	càries	n-f$n-f-sp$n
+	epo	kario	n	cat	càries	n-f-sp$n-f$n
 LR	epo	ofico	n	cat	càrrec	n-m$n
 	epo	posteno	n	cat	càrrec	n-m$n
 LR	epo	kargo	n	cat	càrrega	n-f$n$n-f-ND
@@ -5783,7 +5783,7 @@ RL	epo	ĥolero	n	cat	còlera	n-m
 LR	epo	ĥolero	n	cat	còlera	n-mf$n
 	epo	koliko	n	cat	còlic	n-m$n
 	epo	kojlo	n	cat	còlon	n-m$n
-LR	epo	komikso	n-m$n	cat	còmic	n-m$n
+LR	epo	komikso	n$n-m	cat	còmic	n-m$n
 	epo	komikisto	n	cat	còmic	n-m$n
 	epo	komika	adj	cat	còmic	adj$
 	epo	komika	adv	cat	còmicament	adv
@@ -10334,8 +10334,8 @@ LR	epo	fragila	adj	cat	fràgil	adj$adj-mf$
 	epo	delikata	adv	cat	fràgil	adv
 LR	epo	fragila	adv	cat	fràgil	adv
 	epo	frangolo	n	cat	fràngula	n-f
-LR	epo	Frisio	np-loc$np	cat	Frísia	np-loc-f$np
-	epo	Frislando	np-loc$np	cat	Frísia	np-loc-f$np
+LR	epo	Frisio	np$np-loc	cat	Frísia	np-loc-f$np
+	epo	Frislando	np$np-loc	cat	Frísia	np-loc-f$np
 	epo	frivola	adj	cat	frívol	adj$
 LR	epo	malserioza	adj	cat	frívol	adj$
 	epo	frivole	adv	cat	frívolament	adv
@@ -11363,7 +11363,7 @@ LR	epo	fabelo	n	cat	història	n-f$n
 	epo	hobio	n	cat	hobby	n-m$n
 LR	epo	ĉevaleto	n	cat	hobby	n-m$n
 	epo	saluton	ij	cat	hola	ij
-LR	epo	Holando	np-loc$np	cat	Holanda	np$np-loc$np-loc-f
+LR	epo	Holando	np$np-loc	cat	Holanda	np$np-loc$np-loc-f
 	epo	Nederlando	np-loc-sg$np$np-loc	cat	Holanda	np$np-loc$np-loc-f
 	epo	nederlanda	adj	cat	holandès	adj$$adj-m
 	epo	nederlandano	n$n-m	cat	holandès	n$n-m
@@ -12703,7 +12703,7 @@ RL	epo	kolero	n	cat	irritació	n-f$n
 	epo	hebrea	adj	cat	israelita	adj
 	epo	israela	adj	cat	israelià	adj$adj-GD$
 	epo	israelano	n	cat	israelià	n-f$n
-	epo	Istanbulo	np-loc	cat	Istanbul	np-loc$np-loc-m
+	epo	Istanbulo	np-loc$np	cat	Istanbul	np-loc$np-loc-m
 	epo	istmo	n	cat	istme	n-m$n
 LR	epo	terkolo	n	cat	istme	n-m$n
 	epo	izobaro	n	cat	isòbara	n-f$n
@@ -12885,7 +12885,7 @@ RL	epo	saĝo	n	cat	juí	n-m$n
 	epo	ĵokero	n	cat	jòquer	n-m$n
 	epo	cipero	n	cat	jónçara	n-f
 	epo	Júlia	np-ant$np	cat	Júlia	np$np-ant-f-sg$np-ant
-	epo	Jupitero	np-loc$np	cat	Júpiter	np$np-loc$np-loc-m
+	epo	Jupitero	np$np-loc	cat	Júpiter	np$np-loc$np-loc-m
 	epo	Kabulo	np-loc	cat	Kabul	np$np-loc$np-loc-m
 	epo	Kampalo	np-loc	cat	Kampala	np$np-loc-f
 	epo	Kansaso	np-loc	cat	Kansas	np$np-loc$np-loc-m
@@ -13504,7 +13504,7 @@ RL	epo	portugallingvano	n	cat	lusòfon	n
 RL	epo	lukso	n	cat	lux	n-m
 	epo	elartikiĝo	n	cat	luxació	n-f$n
 	epo	lukso	n	cat	luxe	n$n-m
-	epo	Luksemburgo	np-loc$np	cat	Luxemburg	np$np-loc$np-loc-m
+	epo	Luksemburgo	np$np-loc	cat	Luxemburg	np$np-loc$np-loc-m
 	epo	luksemburga	adj	cat	luxemburguès	adj
 	epo	luksemburgano	n	cat	luxemburguès	n$n-m
 	epo	voluptema	adj	cat	luxuriós	adj
@@ -13600,7 +13600,7 @@ RL	epo	magrebano	n	cat	magrebí	n$n-GD
 	epo	magreba	adj	cat	magribí	adj
 	epo	magrebano	n	cat	magribí	n
 	epo	Majenco	np-loc$np	cat	Magúncia	np$np-loc$np-loc-f
-	epo	Mahometo	np$$np-ant	cat	Mahoma	np$np-ant-m-sg$np-ant
+	epo	Mahometo	np$np-ant	cat	Mahoma	np$np-ant-m-sg$np-ant
 	epo	neniam	adv	cat	mai	adv
 	epo	majao	n	cat	maia	n$n-f
 	epo	majo	n	cat	maig	n$n-m
@@ -14945,8 +14945,8 @@ LR	epo	neta	adj	cat	net	adj$$adj-GD-ND
 	epo	neŭtrono	n	cat	neutró	n-m$n
 	epo	neĝi	vblex	cat	nevar	vblex
 	epo	fridujo	n	cat	nevera	n-f$n
-	epo	nek	cnjcoo	cat	ni	cnjcoo
-	epo	nek	cnjcoo	cat	ni tampoc	cnjcoo
+	epo	nek	cnjcoo$	cat	ni	cnjcoo
+	epo	nek	cnjcoo$	cat	ni tampoc	cnjcoo
 	epo	eĉ ne	adv	cat	ni tan sols	adv
 	epo	nesti	vblex	cat	niar	vblex
 	epo	Nibelung	np-loc	cat	Nibelung	np-loc-m
@@ -14984,13 +14984,13 @@ LR	epo	azoto	n	cat	nitrogen	n-m$n
 	epo	nesto	n	cat	niu	n-m$n
 LR	epo	loĝejo	n	cat	niu	n-m$n
 	epo	nivelo	n	cat	nivell	n$n-m
-	epo	ne	adv	cat	no	adv
+	epo	ne	adv$	cat	no	adv
 	epo	neperforto	n	cat	no-violència	n-f
 	epo	tion ne necesas diri	adv	cat	no cal dir-ho	adv
 	epo	ne tute	adv	cat	no del tot	adv
 RL	epo	tamen	adv	cat	no obstant	adv
 	epo	malgraŭ tio	adv	cat	no obstant això	adv
-	epo	ne	adv	cat	no pas	adv
+	epo	ne	adv$	cat	no pas	adv
 	epo	ne malpli ol	pr	cat	no pas menys de	pr
 	epo	ne pli ol	pr	cat	no pas més de	pr
 	epo	ne valoras la penon mencii	adv	cat	no val la pena mencionar	adv
@@ -15027,7 +15027,7 @@ LR	epo	antaŭnomo	n	cat	nom	n-m$n
 	epo	nominala	adj	cat	nominal	adj$$adj-mf
 	epo	nominala	adv	cat	nominal	adv
 	epo	nominativo	n	cat	nominatiu	n-m$n
-	epo	nur	adv	cat	només	adv
+	epo	nur	adv$	cat	només	adv
 	epo	nur tiel	adv	cat	només d'aquesta manera	adv
 	epo	nurskribebla	adv	cat	només d'escriptura	adv
 	epo	nurlegebla	adv	cat	només de lectura	adv
@@ -15094,7 +15094,7 @@ LR	epo	eminentulo	n$n-m	cat	notable	n$n-m
 LR	epo	notico	n	cat	notícia	n-f$n$n-f-sg
 	epo	novaĵo	n	cat	notícia	n-f$n$n-f-sg
 	epo	evidente	adv	cat	notòriament	adv
-	epo	naŭ	num$	cat	nou	adj$
+	epo	naŭ	$n	cat	nou	adj$
 LR	epo	juglando	n	cat	nou	n-f$n$n-f-ND
 	epo	nukso	n	cat	nou	n-f$n$n-f-ND
 	epo	nova	adj	cat	nou	adj$
@@ -15517,7 +15517,7 @@ LR	epo	garantiulo	n	cat	ostatge	n$n-mf
 RL	epo	ostrogota	adj	cat	ostrogot	adj
 	epo	ostrogota	adj	cat	ostrogòtic	adj
 	epo	ostrogota	adv	cat	ostrogòticament	adv
-	epo	NATO	n-acr$n	cat	OTAN	n-acr-f$n$n-acr$n-acr-f-sg
+	epo	NATO	n-acr	cat	OTAN	n-acr-f$n$n-acr$n-acr-f-sg
 	epo	otomana	adj	cat	otomà	adj$
 	epo	otomano	n	cat	otomà	n$n-m
 	epo	Otavo	np-loc	cat	Ottawa	np-loc-f
@@ -15710,7 +15710,7 @@ LR	epo	parolo	n	cat	paraula	n-f$n
 	epo	parta	adj	cat	parcial	adj$adj-mf$
 	epo	parte	adv	cat	parcialment	adv
 	epo	pasero	n	cat	pardal	n$n-m
-	epo	gepatroj	n-pl$n	cat	pare	n-m$n-m-pl$n
+	epo	gepatroj	n$n-pl	cat	pare	n-m$n-m-pl$n
 	epo	gefiloj	n-pl$n	cat	fill	n$n-m$n-m-pl
 	epo	gefratoj	n$n-pl	cat	germà	n-m$n-m-pl
 	epo	geduonpatroj	n-pl	cat	padrastre	n-m$n-m-pl$n
@@ -16527,7 +16527,7 @@ LR	epo	strando	n	cat	platja	n-f$n
 	epo	plateno	n	cat	platí	n-m$n
 	epo	platona	adj	cat	platònic	adj$
 	epo	platona	adv	cat	platònicament	adv
-	epo	Platono	$np-ant$np$np-ant-m	cat	Plató	np-ant-m-sg$np$np-ant
+	epo	Platono	np-ant$np$np-ant-m	cat	Plató	np-ant-m-sg$np$np-ant
 	epo	plaĉi	vblex	cat	plaure	vblex
 	epo	aplaŭdinda	adj	cat	plausible	adj$adj-mf$
 	epo	placo	n	cat	plaça	n-f$n
@@ -16754,8 +16754,8 @@ LR	epo	polucio	n	cat	pol·lució	n-f$n$n-f-ND
 	epo	politikisto	n$n-m	cat	polític	n-m$n
 	epo	politiko	n	cat	política	n-f$n
 	epo	politike	adv	cat	políticament	adv
-	epo	Pollando	np-loc$np	cat	Polònia	np$np-loc$np-loc-f
-LR	epo	Polio	np-loc$np	cat	Polònia	np$np-loc$np-loc-f
+	epo	Pollando	np$np-loc	cat	Polònia	np$np-loc$np-loc-f
+LR	epo	Polio	np$np-loc	cat	Polònia	np$np-loc$np-loc-f
 LR	epo	fasko	n	cat	pom	n-m$n
 LR	epo	bukedo	n	cat	pom	n-m$n
 	epo	manilo	n	cat	pom	n-m$n
@@ -17767,7 +17767,7 @@ LR	epo	kvardeko	n	cat	quarantena	n-f
 	epo	preskaŭ ĉie	adv	cat	quasi a tot arreu	adv
 	epo	preskaŭ neniam	adv	cat	quasi mai	adv
 	epo	preskaŭ ĉiam	adv	cat	quasi sempre	adv
-	epo	kvar	num$	cat	quatre	num$$num-mf-sp
+	epo	kvar	n$	cat	quatre	num$$num-mf-sp
 RL	epo	kvara	adj	cat	quatrè	adj
 	epo	ke	cnjsub	cat	que	cnjsub
 	epo	ol	cnjcoo	cat	que	cnjcoo
@@ -18858,7 +18858,7 @@ LR	epo	rostro	n	cat	rostre	n-m$n
 	epo	rulo	n	cat	rotlle	n-m$n
 	epo	rulo	n	cat	rotllo	n-m$n
 	epo	rotondo	n	cat	rotonda	n-f$n
-	epo	Roterdamo	np-loc	cat	Rotterdam	np$np-loc-m
+	epo	Roterdamo	np-loc$np	cat	Rotterdam	np$np-loc-m
 	epo	definitiva	adj	cat	rotund	adj
 	epo	kategorie	adv	cat	rotundament	adv
 	epo	kverko	n	cat	roure	n-m$n
@@ -19094,7 +19094,7 @@ LR	epo	pilĉardo	n	cat	sardina	n-f$n
 LR	epo	sata	adj	cat	satisfet	adj$
 	epo	kontenta	adv	cat	satisfet	adv
 LR	epo	sata	adv	cat	satisfet	adv
-	epo	Saturno	np-loc$np	cat	Saturn	np-loc-m
+	epo	Saturno	np$np-loc	cat	Saturn	np-loc-m
 	epo	satelito	n	cat	satèl·lit	n$n-m
 	epo	saŭno	n	cat	sauna	n-f$n
 	epo	saŭro	n	cat	saure	n-m$n
@@ -19345,7 +19345,7 @@ LR	epo	seanco	n	cat	sessió	n-f$n
 LR	epo	kunsido	n	cat	sessió	n-f$n
 	epo	sesio	n	cat	sessió	n-f$n
 	epo	siesto	n	cat	sesta	n-f
-	epo	sep	num$	cat	set	num$$num-mf-sp
+	epo	sep	n$	cat	set	num$$num-mf-sp
 	epo	sepdek	num$	cat	setanta	num$$num-mf-sp
 	epo	sepdeko	n	cat	setantena	n$n-f
 	epo	sepdeka	adj	cat	setantè	adj$adj-ord$adj-ord-GD-ND
@@ -19482,7 +19482,7 @@ RL	epo	siriano	n$n-m	cat	siri	n$n-m
 	epo	siriano	n$n-m	cat	siri	n$n-m
 	epo	siria	adj	cat	sirià	adj
 	epo	siriano	n$n-m	cat	sirià	n$n-m
-	epo	ses	num$	cat	sis	num$$num-mf-sp
+	epo	ses	n$	cat	sis	num$$num-mf-sp
 	epo	sismo	n	cat	sisme	n-m$n
 	epo	sistemo	n	cat	sistema	n-m$n
 LR	epo	ismo	n	cat	sistema	n-m$n
@@ -19971,7 +19971,7 @@ RL	epo	subteni	vblex	cat	sustentar	vblex
 	epo	fulgo	n	cat	sutja	n-f
 	epo	kunkudro	n	cat	sutura	n-f$n
 	epo	Suzanne	np	cat	Suzanne	np$np-ant-f-sg
-	epo	Svedio	np-loc$np	cat	Suècia	np$np-loc$np-loc-f
+	epo	Svedio	np$np-loc	cat	Suècia	np$np-loc$np-loc-f
 	epo	svisa	adj	cat	suís	adj$
 	epo	sviso	n	cat	suís	n$n-m
 LR	epo	suicida	adj	cat	suïcida	adj$adj-mf
@@ -19981,8 +19981,8 @@ LR	epo	memmortiga	adj	cat	suïcida	adj$adj-mf
 	epo	memmortigi	vblex	cat	suïcidar	vblex
 LR	epo	suicido	n	cat	suïcidi	n-m$n
 	epo	memmortigo	n	cat	suïcidi	n-m$n
-	epo	Svislando	np-loc$np	cat	Suïssa	np$np-loc$np-loc-f
-LR	epo	Svisio	np-loc$np	cat	Suïssa	np$np-loc$np-loc-f
+	epo	Svislando	np$np-loc	cat	Suïssa	np$np-loc$np-loc-f
+LR	epo	Svisio	np$np-loc	cat	Suïssa	np$np-loc$np-loc-f
 	epo	Svazilando	np-loc$np	cat	Swazilàndia	np$np-loc$np-loc-f
 	epo	Sybell	np	cat	Sybell	np-ant-f-sg$np
 	epo	Sybil	np	cat	Sybil	np$np-ant-f-sg
@@ -20037,7 +20037,7 @@ LR	epo	citrolo	n	cat	síndria	n-f$n
 	epo	Sirio	np-loc$np	cat	Síria	np$np-loc$np-loc-f
 	epo	sobre	adv	cat	sòbriament	adv
 	epo	soklo	n	cat	sòcol	n-m$n
-	epo	Sokrato	np-ant$$np$np-ant-m	cat	Sòcrates	np-ant-m-sg$np-ant$np
+	epo	Sokrato	np-ant$np$np-ant-m	cat	Sòcrates	np-ant-m-sg$np-ant$np
 	epo	grundo	n	cat	sòl	n-m$n
 LR	epo	planko	n	cat	sòl	n-m$n
 	epo	solido	n	cat	sòlid	n-m
@@ -20548,7 +20548,7 @@ RL	epo	bruna	adj	cat	torrat	adj
 LR	epo	vilao	n	cat	torre	n-f$n
 	epo	torento	n	cat	torrent	n-m$n
 RL	epo	ravino	n	cat	torrental	n-m
-RL	epo	ravino	n	cat	torrentera	n-f
+RL	epo	ravino	n	cat	torrentera	n$n-f
 LR	epo	kupolo	n	cat	torreta	n-f$n
 LR	epo	florpoto	n	cat	torreta	n-f$n
 	epo	tureto	n	cat	torreta	n-f$n
@@ -21912,7 +21912,7 @@ LR	epo	arnikaĵo	n	cat	àrnica	n-f
 RL	epo	Arkta oceano	np-loc	cat	Àrtic	np$np-loc-m
 	epo	arkta	adj	cat	àrtic	adj$
 	epo	arkta	adv	cat	àrticament	adv
-	epo	Azio	np-loc$np	cat	Àsia	np$np-loc$np-loc-f
+	epo	Azio	np$np-loc	cat	Àsia	np$np-loc$np-loc-f
 	epo	Malgranda Azio	np-loc	cat	Àsia Menor	np-loc-f
 	epo	aspido	n	cat	àspid	n-m
 	epo	atiko	n	cat	àtic	n-m$n
@@ -21992,7 +21992,7 @@ RL	epo	sola	adj	cat	únic	adj$
 LR	epo	senegala	adj	cat	únic	adj$
 LR	epo	unika	adj	cat	únic	adj$
 LR	epo	ununura	adj	cat	únic	adj$
-	epo	nur	adv	cat	únicament	adv
+	epo	nur	adv$	cat	únicament	adv
 	epo	uzo	n	cat	ús	n-m$n
 LR	epo	uzado	n	cat	ús	n-m$n
 	epo	utero	n	cat	úter	n-m$n
@@ -36532,7 +36532,7 @@ LR	epo	Alacant	np-loc	cat	Alacant	np$np-loc$np-loc-m
 	epo	Artzi	np-loc	cat	Artzi	np-loc-f
 	epo	Los Arcos	np-loc	cat	Los Arcos	np-loc-f
 	epo	Arellano	np-loc	cat	Arellano	np-loc-f
-	epo	Areso	np-loc$np	cat	Areso	np-loc-f
+	epo	Areso	np$np-loc	cat	Areso	np-loc-f
 	epo	Arguedas	np-loc	cat	Arguedas	np-loc-f
 	epo	Aria	np-loc	cat	Aria	np-loc-f
 	epo	Aribe	np-loc	cat	Aribe	np-loc-f
@@ -39814,7 +39814,7 @@ LR	epo	Sabadell	np-loc	cat	Sabadell	np-loc-f
 	epo	Alcalà de Xivert	np-loc	cat	Alcalà de Xivert	np$np-loc-f
 	epo	L'Alcora	np-loc	cat	L'Alcora	np-loc-f
 	epo	Alcudia de Veo	np-loc	cat	Alcudia de Veo	np-loc-f
-	epo	Alfondeguilla	np-loc	cat	Alfondeguilla	np-loc-f
+	epo	Alfondeguilla	np-loc	cat	Alfondeguilla	np$np-loc-f
 	epo	Algimia de Almonacid	np-loc	cat	Algimia de Almonacid	np-loc-f
 	epo	Almazora	np-loc	cat	Almazora	np-loc-f
 	epo	Almassora	np-loc	cat	Almassora	np$np-loc-f
@@ -42981,7 +42981,7 @@ LR	epo	Tarragona	np-loc	cat	Tarragona	np$np-loc$np-loc-f$
 	epo	Alcalà de Xivert	np-loc	cat	Alcalà de Xivert	np$np-loc-f
 	epo	L'Alcora	np-loc	cat	L'Alcora	np-loc-f
 	epo	Alcudia de Veo	np-loc	cat	Alcudia de Veo	np-loc-f
-	epo	Alfondeguilla	np-loc	cat	Alfondeguilla	np-loc-f
+	epo	Alfondeguilla	np-loc	cat	Alfondeguilla	np$np-loc-f
 	epo	Algimia de Almonacid	np-loc	cat	Algimia de Almonacid	np-loc-f
 	epo	Almazora	np-loc	cat	Almazora	np-loc-f
 	epo	Almassora	np-loc	cat	Almassora	np$np-loc-f

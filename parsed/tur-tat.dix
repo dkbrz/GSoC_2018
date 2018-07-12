@@ -37,32 +37,32 @@ RL	tur	son	n$$n-px3sp-loc	tat	саен	post
 	tur	kim	prn-itg	tat	нинди	prn-itg-sim$prn-itg
 	tur	hangi	prn-itg$prn$prn-itg-abl	tat	нинди	prn-itg-sim$prn-itg
 	tur	hangi	prn-itg$prn$prn-itg-abl	tat	кайсы	prn-itg
-	tur	bu	prn-dem$prn-dem-abl$prn	tat	бу	prn-dem$prn-dem-sg
+	tur	bu	prn-dem$prn-dem-abl$prn	tat	бу	prn-dem$prn-dem-loc
 	tur	şu	prn-dem$prn-dem-dat	tat	шул	prn-dem$prn-dem-abl
 	tur	ne	prn-itg$prn$prn-itg-abl	tat	ни	prn-itg
 	tur	ne	prn-itg$prn$prn-itg-abl	tat	нәрсә	prn-itg
-	tur	nere	prn-itg$prn-itg-loc	tat	кайда	adv-itg$adv
-	tur	nere	prn-itg-dat	tat	кая	adv-itg$adv
+	tur	nere	prn-itg$prn-itg-loc	tat	кайда	adv-itg
+	tur	nere	prn-itg-dat	tat	кая	adv-itg
 	tur	kim	prn-itg	tat	кем	prn-itg
-	tur	ben	prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-adv	tat	мин	prn-pers$prn-pers-p1-sg-nom$prn-pers-p1-sg
-	tur	sen	prn-pers$prn-pers-p2-sg	tat	син	prn-pers$prn-pers-p2-sg-nom$prn-pers-p2-sg
-	tur	o	prn-pers$prn$prn-pers-p3-sg	tat	ул	prn-pers-p3-sg$prn-pers$prn-pers-p3-sg-gen
+	tur	ben	prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-adv	tat	мин	prn-pers$prn-pers-p1-sg-gen$prn-pers-p1-sg
+	tur	sen	prn-pers$prn-pers-p2-sg	tat	син	prn-pers$prn-pers-p2-sg-gen$prn-pers-p2-sg
+	tur	o	prn-pers$prn$prn-pers-p3-sg	tat	ул	prn-pers$prn-pers-p3-sg$prn-pers-p3-sg-gen
 	tur	o	prn-dem$prn-dem-loc	tat	ул	prn-dem$prn-dem-gen$prn-dem-pl-gen
 	tur	biz	prn-pers$prn-pers-p1-pl	tat	без	prn-pers$prn-pers-p1-pl-gen$prn-pers-p1-pl
 	tur	siz	prn-pers$prn-pers-p2-pl	tat	сез	prn-pers$prn-pers-p2-pl$prn-pers-p2-pl-gen
 	tur	onlar	prn-pers$prn-pers-p3-pl	tat	алар	prn-pers$prn-pers-p3$prn-pers-p3-pl
 	tur	hiçbir şey	prn-ind	tat	бернәрсә	prn-neg
 	tur	öz	prn-ref	tat	үз	prn-ref$prn-ref-px1pl
-LR	tur	ora	prn-adv$$prn$prn-adv-loc	tat	ул	prn-pers-p3-sg$prn-pers$prn-pers-p3-sg-gen
-	tur	bazı	det-qnt$det	tat	кайбер	det-ind
-	tur	hiçbir	det-qnt$det	tat	бернинди	det-neg
+LR	tur	ora	prn-adv$$prn$prn-adv-loc	tat	ул	prn-pers$prn-pers-p3-sg$prn-pers-p3-sg-gen
+	tur	bazı	det-qnt$det$	tat	кайбер	det-ind
+	tur	hiçbir	det$det-qnt	tat	бернинди	det-neg
 	tur	kendi	det-ref	tat	үз	det-ref
 	tur	hangi	det-itg	tat	кайсы	det-itg
 	tur	bir	det-ind$det	tat	бер	det-ind
 	tur	bu	det-dem$det$det-dem-qnt	tat	бу	det-dem
 	tur	bu	det-dem$det$det-dem-qnt	tat	шушы	det-dem
 	tur	şu	det-dem$det	tat	шул	det-dem
-	tur	hiçbir	det-qnt$det	tat	һичбер	det-ind
+	tur	hiçbir	det$det-qnt	tat	һичбер	det-ind
 	tur	her	det$det-dem	tat	бөтен	det-qnt$det
 	tur	başka	det$det-ind	tat	бүтән	adj
 	tur	her	det$det-dem	tat	һәр	det-qnt
@@ -813,12 +813,12 @@ RL	tur	ilk	adj$$adj-advl	tat	берничә	det-qnt
 	tur	gündüzdeki	n	tat	көндезге	n
 	tur	güney	n$$n-attr	tat	көньяк	n$n-attr
 	tur	güneş	n$	tat	кояш	n
-	tur	günlük	n	tat	агымдагы	n
-	tur	günlük	n	tat	актуаль	n
-	tur	günlük	n	tat	көндәлек	n
-	tur	günlük	n	tat	көнкүреш	n$n-attr
-	tur	günlük	n	tat	көнлек	n
-	tur	günlük	n	tat	көнүзәк	n
+	tur	günlük	n$	tat	агымдагы	n
+	tur	günlük	n$	tat	актуаль	n
+	tur	günlük	n$	tat	көндәлек	n
+	tur	günlük	n$	tat	көнкүреш	n$n-attr
+	tur	günlük	n$	tat	көнлек	n
+	tur	günlük	n$	tat	көнүзәк	n
 	tur	güreş	n$	tat	көрәш	n
 	tur	güruh	n	tat	груһ	n
 	tur	gürültü	n$	tat	гөж	n
@@ -1908,7 +1908,7 @@ RL	tur	ilk	adj$$adj-advl	tat	берничә	det-qnt
 	tur	beyaz	adj$	tat	ак	adj
 	tur	yavaş	adj$	tat	акрын	adj$adj-advl
 	tur	aktif	adj$	tat	актив	adj$adj-advl
-	tur	günlük	adj$	tat	актуаль	adj
+	tur	günlük	adj	tat	актуаль	adj
 	tur	akıllı	adj	tat	акыллы	adj
 	tur	pembe	adj$	tat	алсу	adj
 	tur	analitik	adj$	tat	аналитик	adj
@@ -2031,10 +2031,10 @@ RL	tur	ilk	adj$$adj-advl	tat	берничә	det-qnt
 	tur	kısa	adj$	tat	кыска	adj$adj-advl
 	tur	cesur	adj$	tat	кыю	adj$adj-advl
 	tur	yiğit	adj	tat	кыю	adj$adj-advl
-	tur	günlük	adj$	tat	көндәлек	adj
-	tur	günlük	adj$	tat	көнлек	adj
+	tur	günlük	adj	tat	көндәлек	adj
+	tur	günlük	adj	tat	көнлек	adj
 	tur	doğu	adj	tat	көнчыгыш	adj
-	tur	günlük	adj$	tat	көнүзәк	adj
+	tur	günlük	adj	tat	көнүзәк	adj
 	tur	kahverengi	adj$	tat	көрән	adj
 	tur	güçsüz	adj	tat	көчсез	adj
 	tur	mavi	adj$	tat	күк	adj
@@ -3617,7 +3617,7 @@ RL	tur	ortalama	n$n-attr$	tat	уртача	adj
 	tur	politika	n	tat	юнәлеш	n
 	tur	savaşçı	n$	tat	сугышчы	n
 	tur	sempati	n$	tat	теләктәшлек	n
-	tur	sınırla	v-tv$v	tat	чиклә	v-tv
+	tur	sınırla	v-tv$v	tat	чиклә	v-tv$v-tv-coop
 	tur	stratejik	adj$	tat	стратегик	adj
 	tur	telefon	n$	tat	телефон	n
 	tur	uçak	n$	tat	очкыч	n

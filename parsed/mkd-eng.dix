@@ -677,7 +677,7 @@
 	mkd	простор	n-m$n	eng	room	n$n-ND
 	mkd	простор	n-m$n	eng	area	n$n-ND
 	mkd	небо	n-nt$n	eng	sky	n$n-unc
-	mkd	небо	n-nt$n	eng	heaven	n$n-ND
+	mkd	небо	n-nt$n	eng	heaven	n$n-pl
 	mkd	чаша	n-f$n	eng	cup	n$n-ND
 	mkd	чаша	n-f$n	eng	glass	n$n-ND
 	mkd	чаша	n-f$n	eng	bowl	n$n-ND
@@ -685,7 +685,7 @@
 	mkd	абортус	n-m	eng	abortion	n$n-ND
 	mkd	авијација	n-f	eng	aviation	n$n-unc
 	mkd	автентичност	n-f	eng	authenticity	n$n-unc
-	mkd	автобус	n-m$n	eng	bus	n$n-sg
+	mkd	автобус	n-m$n	eng	bus	n$n-pl
 	mkd	автокефалност	n-f	eng	independence	n$n-ND
 	mkd	автономија	n-f$n	eng	autonomy	n$n-ND
 	mkd	автопат	n-m	eng	highway	n$n-ND
@@ -729,7 +729,7 @@
 	mkd	амбиција	n-f$n	eng	ambition	n
 	mkd	амнестија	n-f	eng	amnesty	n$n-ND
 	mkd	анализа	n-f$n	eng	analysis	n$n-ND
-	mkd	анализа	n-f$n	eng	screening	n$n-ND
+	mkd	анализа	n-f$n	eng	screening	n$n-pl
 	mkd	аналитичар	n-m	eng	analyst	n
 	mkd	анархија	n-f	eng	anarchy	n
 	mkd	ангажираност	n-f$n	eng	commitment	n$n-ND
@@ -788,7 +788,7 @@
 	mkd	берза	n-f	eng	market	n$n-ND
 	mkd	библија	n-f$n	eng	bible	n$n-ND
 	mkd	бизнис	n-m	eng	business	n$n-unc
-	mkd	бизнисмен	n-m	eng	businessman	n
+	mkd	бизнисмен	n-m	eng	businessman	n$n-pl
 	mkd	билка	n-f$n	eng	plant	n$n-sg
 	mkd	билка	n-f$n	eng	herb	n
 	mkd	биолог	n-m$n	eng	biologist	n$n-ND
@@ -840,7 +840,7 @@
 	mkd	бројка	n-f$n	eng	number	n$n-sg
 	mkd	бројка	n-f$n	eng	size	n$n-ND
 	mkd	бруталност	n-f	eng	brutality	n$n-ND
-	mkd	бубрег	n-m	eng	kidney	n$n-sg
+	mkd	бубрег	n-m	eng	kidney	n$n-pl
 	mkd	русин	n-m	eng	Russian	n$n-ND
 	mkd	бугарин	n-m	eng	Bulgarian	n
 	mkd	будност	n-f$n	eng	need	n$n-sg
@@ -931,7 +931,7 @@
 	mkd	вработување	n-nt	eng	employment	n$n-ND
 	mkd	врат	n-m$n	eng	neck	n$n-ND
 	mkd	врата	n-f$n	eng	door	n$n-sg
-	mkd	врата	n-f$n	eng	gate	n$n-ND
+	mkd	врата	n-f$n	eng	gate	n$n-pl
 	mkd	врв	n-m$n	eng	top	n$n-ND
 	mkd	врв	n-m$n	eng	peak	n$n-ND
 	mkd	врв	n-m$n	eng	crown	n$n-ND
@@ -2406,7 +2406,7 @@
 	mkd	приход	n-m	eng	income	n$n-sg
 	mkd	проверка	n-f$n	eng	check	n$n-ND
 	mkd	проверка	n-f$n	eng	inspection	n$n-ND
-	mkd	проверка	n-f$n	eng	screening	n$n-ND
+	mkd	проверка	n-f$n	eng	screening	n$n-pl
 	mkd	проверка	n-f$n	eng	review	n$n-ND
 	mkd	провинција	n-f$n	eng	province	n$n-sg
 	mkd	прогласување	n-nt$n	eng	statement	n$n-ND
@@ -3462,7 +3462,7 @@
 	mkd	силување	n-nt$n	eng	rape	n$n-ND
 	mkd	сирење	n-nt$n	eng	cheese	n$n-sg
 	mkd	скијање	n-nt	eng	skiing	n$n-unc
-	mkd	скијање	n-nt	eng	ski	n$n-sg
+	mkd	скијање	n-nt	eng	ski	n$n-pl
 	mkd	слетување	n-nt	eng	landing	n$n-ND
 	mkd	сместување	n-nt	eng	housing	n$n-sg
 	mkd	сместување	n-nt	eng	accommodation	n
@@ -3590,7 +3590,7 @@
 	mkd	лабораторија	n-f$n	eng	laboratory	n$n-ND
 	mkd	контекст	n-m$n	eng	context	n$n-ND
 	mkd	стадион	n-m$n	eng	stadium	n$n-ND
-	mkd	холдинг	n-m	eng	holding	n
+	mkd	холдинг	n-m	eng	holding	n$n-pl
 	mkd	пилот	n-m$n	eng	pilot	n$n-ND
 	mkd	ветеран	n-m	eng	veteran	n$n-sg
 	mkd	реактор	n-m$n	eng	reactor	n
@@ -3793,7 +3793,7 @@
 	mkd	складиште	n-nt	eng	depot	n
 	mkd	слика	n-f$n	eng	picture	n$n-ND
 	mkd	смелост	n-f	eng	bravery	n$n-unc
-	mkd	снимка	n-f$n	eng	tape	n$n-ND
+	mkd	снимка	n-f$n	eng	tape	n$n-pl
 	mkd	соодветност	n-f	eng	suitability	n$n-ND
 	mkd	сопнување	n-nt	eng	contention	n
 	mkd	сопстевеност	n-f	eng	ownership	n$n-sg
@@ -3959,7 +3959,7 @@
 	mkd	цвеќарство	n-nt	eng	floriculture	n
 	mkd	абдицирање	n-nt	eng	abdication	n
 	mkd	сираче	n-nt	eng	orphan	n$n-sg
-	mkd	бизнесмен	n-m	eng	businessman	n
+	mkd	бизнесмен	n-m	eng	businessman	n$n-pl
 	mkd	градус	n-m	eng	grade	n$n-ND
 	mkd	журналист	n-m	eng	journalist	n$n-ND
 	mkd	алкохоличар	n-m	eng	alcoholic	n$n-sg
@@ -4253,7 +4253,7 @@
 	mkd	коларство	n-nt	eng	carting	n-unc$n
 	mkd	краварство	n-nt	eng	dairy farming	n
 	mkd	леарство	n-nt	eng	founding	n
-	mkd	леарство	n-nt	eng	casting	n
+	mkd	леарство	n-nt	eng	casting	n$n-pl
 	mkd	леарство	n-nt	eng	smelting	n
 	mkd	мевлем	n-m	eng	ointment	n
 	mkd	месарство	n-nt	eng	butchery	n$n-unc

@@ -40,7 +40,7 @@
 	tat	авто	n	eng	auto	n-sg
 	tat	автобензин	n	eng	gasoline	n$n-sg
 	tat	автобиография	n	eng	autobiography	n$n-sg
-	tat	автобус	n	eng	bus	n$n-sg
+	tat	автобус	n	eng	bus	n-sg
 	tat	автовокзал	n	eng	bus station	n$n-sg
 	tat	автомат мылтык	n	eng	machine gun	n$n-sg
 	tat	автомат	n	eng	machine	n$n-sg
@@ -966,7 +966,7 @@
 	tat	бораула	v-tv	eng	drill	vblex
 	tat	борт	n	eng	board	n-sg
 	tat	борча	n	eng	flea	n$n-sg
-	tat	борчак	n	eng	pea	n$n-sg
+	tat	борчак	n	eng	pea	n-sg
 	tat	борчыл	v-iv	eng	be anxious	vblex
 	tat	борчыл	v-iv	eng	be nervous	vblex
 	tat	борчыл	v-iv	eng	worry	vblex
@@ -974,7 +974,7 @@
 	tat	борылма	n	eng	turn	n-sg
 	tat	борылыш	n	eng	bend	n-sg
 	tat	борылыш	n	eng	turning-point	n$n-sg
-	tat	борын тишеге	n	eng	nostril	n$n-sg
+	tat	борын тишеге	n	eng	nostril	n-sg
 	tat	борын	n	eng	nose	n$n-sg
 	tat	борыч	n	eng	pepper	n$n-sg
 	tat	бот	n	eng	hip	n-sg
@@ -991,7 +991,7 @@
 	tat	ботка	n	eng	porridge	n$n-sg
 	tat	бөгелчән	n	eng	gadfly	n$n-sg
 	tat	бөдрәлә	v-tv$v-tv-pass	eng	curl	vblex
-	tat	бөер	n	eng	kidney	n$n-sg
+	tat	бөер	n	eng	kidney	n-sg
 	tat	бөҗәк	n	eng	insect	n-sg
 	tat	бөк	v-tv	eng	bend down	vblex
 	tat	бөк	v-tv	eng	bow	vblex$vblex-sep
@@ -1033,7 +1033,7 @@
 	tat	брюнет	n	eng	brunette	n$n-sg
 	tat	бу	det-dem	eng	this	det-dem$det$det-dem-sg
 	tat	бу	n	eng	steam	n-sg
-	tat	бу	prn-dem$prn-dem-sg	eng	this	prn-dem$prn-dem-mf$prn-dem-mf-sg$dem
+	tat	бу	prn-dem$prn-dem-loc	eng	this	prn-dem$prn-dem-mf$prn-dem-mf-sg$dem
 	tat	бу	v-tv	eng	suffocate	vblex
 	tat	буа	n	eng	dam	n$n-sg
 	tat	бугаз	n	eng	larynx	n$n-sg
@@ -1424,7 +1424,7 @@
 	tat	гражданин	n	eng	citizen	n$n-sg
 	tat	гражданлык	n$n-attr	eng	citizenship	n$n-sg
 	tat	гражданство	n	eng	citizenship	n$n-sg
-	tat	грам	n	eng	gramm	n$n-sg
+	tat	грам	n	eng	gramm	n-sg
 	tat	грамм	n	eng	gramme	n-sg
 	tat	грамматик	n	eng	grammarian	n-sg
 	tat	грамматика	n	eng	grammar	n-sg
@@ -1564,7 +1564,7 @@
 	tat	дәфга	n	eng	time	n-sg
 	tat	дәфен бул	v-iv	eng	be# buried	vblex
 	tat	дәфен ит	v-tv	eng	bury	vblex
-	tat	дәфен	$n	eng	burial	n-sg
+	tat	дәфен	n$	eng	burial	n-sg
 	tat	дәфтәр	n	eng	notebook	n$n-sg
 	tat	дәфтәр	n	eng	notebook	n$n-sg
 	tat	дәхи	adv	eng	also	adv$n-adv
@@ -2119,8 +2119,8 @@
 	tat	икмәкче	n	eng	backer	n$n-sg
 	tat	икмәкче	n	eng	baker	n$n-sg
 	tat	икърар әйлә	v-tv	eng	acknowledge	vblex
-	tat	икърар кыл	v$v-tv	eng	acknowledge	vblex
-	tat	икърар кыл	v$v-tv	eng	acknowledge	vblex
+	tat	икърар кыл	v-tv$v	eng	acknowledge	vblex
+	tat	икърар кыл	v-tv$v	eng	acknowledge	vblex
 	tat	икърар	n	eng	acknowledgement	n$n-sg
 	tat	икъраре шәргый кыл	v-iv	eng	acknowledge, as prescribed by Islamic law	vblex
 	tat	икътисад	n	eng	economy	n$n-sg
@@ -2811,7 +2811,7 @@
 	tat	койма	n	eng	fence	n$n-sg
 	tat	койрык	n	eng	tail	n-sg
 	tat	кол	n	eng	slave	n-sg
-	tat	колак алкасы	n	eng	earring	n$n-sg
+	tat	колак алкасы	n	eng	earring	n-sg
 	tat	колак	n	eng	ear	n$n-sg
 	tat	колач	n	eng	embrace	n$n-sg
 	tat	коллектив	n	eng	group	n$n-sg
@@ -3551,8 +3551,8 @@
 	tat	миль	n	eng	mile	n$n-sg
 	tat	мимика	n	eng	facial expression	n-sg
 	tat	мимика	n	eng	mimicry	n$n-sg
-	tat	мин	prn-pers-p1-sg-gen	eng	my	det-pos$det-pos-sp$det
-	tat	мин	prn-pers$prn-pers-p1-sg-nom$prn-pers-p1-sg	eng	I	prn-subj$prn-subj-p1-mf-sg
+	tat	мин	prn-pers$prn-pers-p1-sg-gen$prn-pers-p1-sg	eng	my	det-pos$det-pos-sp$det
+	tat	мин	prn-pers-p1-sg-nom	eng	I	prn-subj$prn-subj-p1-mf-sg
 	tat	мина	n	eng	mine	n$n-sg
 	tat	минерал	n	eng	mineral	n-sg
 	tat	минимум	n	eng	minimum	n-sg
@@ -3753,7 +3753,7 @@
 	tat	образ	n	eng	image	n-sg
 	tat	объект	n	eng	object	n$n-sg
 	tat	одеял	n	eng	blanket	n$n-sg
-	tat	оек	n	eng	stocking	n$n-sg
+	tat	оек	n	eng	stocking	n-sg
 	tat	оет	v-tv	eng	drowse	vblex
 	tat	оеткы	n	eng	ferment	n$n-sg
 	tat	оеш	v-iv	eng	form	vblex
@@ -4278,7 +4278,7 @@
 	tat	сил	n	eng	lung	n$n-sg
 	tat	силикат	n	eng	silicate	n$n-sg
 	tat	символ	n	eng	symbol	n-sg
-	tat	син	prn-pers$prn-pers-p2-sg-nom$prn-pers-p2-sg	eng	prpers	prn-subj-p2-mf-sg
+	tat	син	prn-pers-p2-sg-nom	eng	prpers	prn-subj-p2-mf-sg
 	tat	синоним	n	eng	synonym	n-sg
 	tat	синтез	n	eng	synthesis	n-sg
 	tat	сип	v-tv	eng	strew	vblex
@@ -5053,13 +5053,13 @@
 	tat	укы	v-tv	eng	read	vblex$vblex-perf
 	tat	укытучы	n	eng	teacher	n$n-sg
 	tat	ул	n	eng	son	n$n-sg
-	tat	ул	prn-pers-p3-sg$prn-pers$prn-pers-p3-sg-gen	eng	prpers	prn-pos-p3-m-sg
+	tat	ул	prn-pers$prn-pers-p3-sg$prn-pers-p3-sg-gen	eng	prpers	prn-pos-p3-m-sg
 	tat	ула	v-iv	eng	howl	vblex
 	tat	ула	v-iv	eng	wail	vblex
 	tat	умарта	n	eng	hive	n$n-sg
 	tat	умартачылык	n	eng	beekeeping	n-sg
 	tat	умырзая	n	eng	snowdrop	n$n-sg
-	tat	умыртка	n	eng	vertebra	n$n-sg
+	tat	умыртка	n	eng	vertebra	n-sg
 	tat	ун	num$num-ord	eng	ten	num-sg
 	tat	ун	num$num-ord	eng	tenth	adj$adj-ord
 	tat	уналты	num$num-ord	eng	sixteen	num-sg
@@ -5538,7 +5538,7 @@
 	tat	чама	n	eng	estimate	n-sg
 	tat	чана	n	eng	sleigh	n$n-sg
 	tat	чаң	n	eng	bell	n-sg
-	tat	чаңгы	n	eng	ski	n$n-sg
+	tat	чаңгы	n	eng	ski	n-sg
 	tat	чап	v-iv	eng	race along	vblex
 	tat	чап	v-iv	eng	run	vblex
 	tat	чапан	n	eng	caftan	n$n-sg
@@ -5594,7 +5594,7 @@
 	tat	чәчәк	n	eng	smallpox	n$n-sg
 	tat	чәчәклек	n	eng	flower garden	n$n-sg
 	tat	чәчкеч	n	eng	seeding-machine	n-sg
-	tat	чәчүлек	n	eng	crop	n-pl
+	tat	чәчүлек	n	eng	crop	n$n-pl
 	tat	чәшке	n	eng	mink	n$n-sg
 	tat	чибәрлек	n	eng	beauty	n$n-sg
 	tat	чиген	v-iv	eng	move backwards	vblex
@@ -6294,7 +6294,7 @@
 	tat	Анжела	np-ant-f	eng	Anjela	np-ant-f-sg
 	tat	Анна	np-ant-f	eng	Anna	np-ant$np$np-ant-f-sg$np-ant-f
 	tat	Ансар	np-ant-m	eng	Ansar	np-ant-m$np-ant-m-sg
-	tat	Антон	np$np-ant-m	eng	Anton	np-ant$np-ant-m-sg$np$np-ant-m
+	tat	Антон	np-ant-m$np	eng	Anton	np-ant$np-ant-m-sg$np$np-ant-m
 	tat	Анчар	np-ant-m	eng	Ançar	np-ant-m-sg
 	tat	Аня	np-ant-f	eng	Anya	np-ant$np-ant-f-sg$np$np-ant-f
 	tat	Аңсар	np-ant-m	eng	Añsar	np-ant-m-sg
@@ -6909,7 +6909,7 @@
 	tat	Валентина	np-ant-f	eng	Walentina	np-ant-f-sg
 	tat	Валерий	np-ant-m	eng	Waleriy	np-ant-m-sg
 	tat	Валиулла	np-ant-m	eng	Waliulla	np-ant-m-sg
-	tat	Ваня	np$np-ant-m	eng	Wanya	np-ant-m-sg
+	tat	Ваня	np-ant-m$np	eng	Wanya	np-ant-m-sg
 	tat	Варвара	np-ant-f	eng	Warwara	np-ant-f-sg
 	tat	Васил	np-ant-m	eng	Wasil	np-ant-m-sg
 	tat	Василий	np-ant-m	eng	Wasiliy	np-ant-m-sg
@@ -8768,7 +8768,7 @@
 	tat	Маһтап	np-ant-f	eng	Mahtap	np-ant-f-sg
 	tat	Маһфәрвәз	np-ant-f	eng	Mahfärwäz	np-ant-f-sg
 	tat	Мачников	np-ant-m	eng	Maçnikov	np-ant-m-sg
-	tat	Маша	np$np-ant-f	eng	Maşa	np-ant-f-sg
+	tat	Маша	np-ant-f$np	eng	Maşa	np-ant-f-sg
 	tat	Мерәс	np-ant-m	eng	Meräs	np-ant-m-sg
 	tat	Мәгаз	np-ant-m	eng	Mäğaz	np-ant-m-sg
 	tat	Мәгафетдин	np-ant-m	eng	Mäğäfetdin	np-ant-m-sg
@@ -9404,7 +9404,7 @@
 	tat	Мөхәммәдхафиз	np-ant-m	eng	Möxämmädxafiz	np-ant-m-sg
 	tat	Мөхәммәдхәй	np-ant-m	eng	Möxämmädxäy	np-ant-m-sg
 	tat	Мөхәммәдхәким	np-ant-m	eng	Möxämmädxäkim	np-ant-m-sg
-	tat	Мөхәммәдхәләфи	$np-ant-m	eng	Möxämmädxäläfi	$np-ant-m-sg
+	tat	Мөхәммәдхәләфи	np-ant-m$	eng	Möxämmädxäläfi	$np-ant-m-sg
 	tat	Мөхәммәдхәлил	np-ant-m	eng	Möxämmädxälil	np-ant-m-sg
 	tat	Мөхәммәдхәлим	np-ant-m	eng	Möxämmädxälim	np-ant-m-sg
 	tat	Мөхәммәдхәлиф	np-ant-m	eng	Möxämmädxälif	np-ant-m-sg
@@ -11214,7 +11214,7 @@
 	tat	Архангелький	np-cog	eng	Arxangel'kiy	np-cog
 	tat	Арханский	np-cog	eng	Arxanskiy	np-cog
 	tat	Арысланов	np-cog	eng	Arıslanov	np-cog
-	tat	Ахуни	np-cog	eng	Axuni	np-cog
+	tat	Ахуни	np-cog-mf$np-cog	eng	Axuni	np-cog
 	tat	Бабаков	np-cog	eng	Babaqov	np-cog
 	tat	Багданов	np-cog	eng	Bağdanov	np-cog
 	tat	Баҗанов	np-cog	eng	Bacanov	np-cog
@@ -11229,7 +11229,7 @@
 	tat	Баланов	np-cog	eng	Balanov	np-cog
 	tat	Баласяров	np-cog	eng	Balasyarow	np-cog
 	tat	Барашев	np-cog	eng	Baraşev	np-cog
-	tat	Баруди	np-cog	eng	Barudi	np-cog
+	tat	Баруди	np-cog$np-cog-mf	eng	Barudi	np-cog
 	tat	Барышев	np-cog	eng	Barışev	np-cog
 	tat	Бастиев	np-cog	eng	Bastiev	np-cog
 	tat	Басыйров	np-cog	eng	Basıyrov	np-cog
@@ -11245,9 +11245,9 @@
 	tat	Баязитов	np-cog	eng	Bayazitov	np-cog
 	tat	Белозеров	np-cog	eng	Belozerov	np-cog
 	tat	Бәдровский	np-cog	eng	Bädrovskiy	np-cog
-	tat	Бәнири	np-cog	eng	Bäniri	np-cog
+	tat	Бәнири	np-cog$np-cog-mf	eng	Bäniri	np-cog
 	tat	Бәхтиев	np-cog	eng	Bäxtiev	np-cog
-	tat	Бәхтияри	np-cog	eng	Bäxtiäri	np-cog
+	tat	Бәхтияри	np-cog$np-cog-mf	eng	Bäxtiäri	np-cog
 	tat	Бәхтияров	np-cog	eng	Bäxtiyarow	np-cog
 	tat	Бәширов	np-cog	eng	Bäşirov	np-cog
 	tat	Бигаев	np-cog	eng	Biğayev	np-cog
@@ -11280,7 +11280,7 @@
 	tat	Бикшиев	np-cog	eng	Bikşiev	np-cog
 	tat	Билсаяров	np-cog	eng	Bilsayarov	np-cog
 	tat	Борнаев	np-cog	eng	Bornayev	np-cog
-	tat	Бохари	np-cog	eng	Boxari	np-cog
+	tat	Бохари	np-cog$np-cog-mf	eng	Boxari	np-cog
 	tat	Бохаров	np-cog	eng	Boxarov	np-cog
 	tat	Будлаков	np-cog	eng	Budlaqov	np-cog
 	tat	Буламитов	np-cog	eng	Bulamitov	np-cog
@@ -11295,7 +11295,7 @@
 	tat	Вахитов	np-cog	eng	Waxitov	np-cog
 	tat	Ваһапов	np-cog	eng	Wahapov	np-cog
 	tat	Венецианов	np-cog	eng	Venetsianov	np-cog
-	tat	Вәиси	np-cog	eng	Wäisi	np-cog
+	tat	Вәиси	np-cog$np-cog-mf	eng	Wäisi	np-cog
 	tat	Вәисов	np-cog	eng	Wäisov	np-cog
 	tat	Вәлиев	np-cog	eng	Wäliev	np-cog
 	tat	Вәлиллин	np-cog	eng	Wälillin	np-cog
@@ -11319,7 +11319,7 @@
 	tat	Габделрафыйков	np-cog	eng	Ğabdelrafıyqov	np-cog
 	tat	Габделрәсүлев	np-cog	eng	Ğabdelräsülev	np-cog
 	tat	Габделрәхимов	np-cog	eng	Ğabdelräximov	np-cog
-	tat	Габделрәшити	np-cog	eng	Ğabdelräşiti	np-cog
+	tat	Габделрәшити	np-cog$np-cog-mf	eng	Ğabdelräşiti	np-cog
 	tat	Габделрәшитов	np-cog	eng	Ğabdelräşitov	np-cog
 	tat	Габделсаттаров	np-cog	eng	Ğabdelsattarov	np-cog
 	tat	Габделссәләмов	np-cog	eng	Ğabdelssälämow	np-cog
@@ -11352,7 +11352,7 @@
 	tat	Гафуров	np-cog	eng	Ğafurov	np-cog
 	tat	Гаффаров	np-cog	eng	Gaffarov	np-cog
 	tat	Гәзиев	np-cog	eng	Gäziev	np-cog
-	tat	Гәрәфи	np-cog	eng	Gäräfi	np-cog
+	tat	Гәрәфи	np-cog-mf$np-cog	eng	Gäräfi	np-cog
 	tat	Гибадуллин	np-cog	eng	Gibadullin	np-cog
 	tat	Гобәев	np-cog	eng	Ğöbäyev	np-cog
 	tat	Гобәйдуллаин	np-cog	eng	Ğöbäydullain	np-cog
@@ -11427,107 +11427,107 @@
 	tat	Әзимов	np-cog	eng	Äzimov	np-cog
 	tat	Әкбәров	np-cog	eng	Äkbärov	np-cog
 	tat	Әкмаев	np-cog	eng	Äkmayev	np-cog
-	tat	әл-Айбаши	np-cog	eng	äl-Aybaşi	np-cog
-	tat	әл-Ансарый	np-cog	eng	äl-Ansarıy	np-cog
-	tat	әл-Анчар	np-cog	eng	äl-Ançar	np-cog
-	tat	әл-Апанай	np-cog	eng	äl-Apanay	np-cog
-	tat	әл-Ашытый	np-cog	eng	äl-Aşıtıy	np-cog
-	tat	әл-Багдани	np-cog	eng	äl-Bagdani	np-cog
-	tat	әл-Балтаси	np-cog	eng	äl-Baltasi	np-cog
-	tat	әл-Балтачи	np-cog	eng	äl-Baltaçi	np-cog
-	tat	әл-Баруди	np-cog	eng	äl-Barudi	np-cog
-	tat	әл-Бәрәзәви	np-cog	eng	äl-Bäräzäwi	np-cog
-	tat	әл-Бәрәскәви	np-cog	eng	äl-Bäräskäwi	np-cog
-	tat	әл-Бәхтияри	np-cog	eng	äl-Bäxtiäri	np-cog
-	tat	әл-Бәшири	np-cog	eng	äl-Bäşiri	np-cog
-	tat	әл-Бикколый	np-cog	eng	äl-Bikkolıy	np-cog
+	tat	әл-Айбаши	np-cog$np-cog-mf	eng	äl-Aybaşi	np-cog
+	tat	әл-Ансарый	np-cog$np-cog-mf	eng	äl-Ansarıy	np-cog
+	tat	әл-Анчар	np-cog$np-cog-mf	eng	äl-Ançar	np-cog
+	tat	әл-Апанай	np-cog$np-cog-mf	eng	äl-Apanay	np-cog
+	tat	әл-Ашытый	np-cog$np-cog-mf	eng	äl-Aşıtıy	np-cog
+	tat	әл-Багдани	np-cog$np-cog-mf	eng	äl-Bagdani	np-cog
+	tat	әл-Балтаси	np-cog$np-cog-mf	eng	äl-Baltasi	np-cog
+	tat	әл-Балтачи	np-cog$np-cog-mf	eng	äl-Baltaçi	np-cog
+	tat	әл-Баруди	np-cog$np-cog-mf	eng	äl-Barudi	np-cog
+	tat	әл-Бәрәзәви	np-cog$np-cog-mf	eng	äl-Bäräzäwi	np-cog
+	tat	әл-Бәрәскәви	np-cog$np-cog-mf	eng	äl-Bäräskäwi	np-cog
+	tat	әл-Бәхтияри	np-cog$np-cog-mf	eng	äl-Bäxtiäri	np-cog
+	tat	әл-Бәшири	np-cog$np-cog-mf	eng	äl-Bäşiri	np-cog
+	tat	әл-Бикколый	np-cog$np-cog-mf	eng	äl-Bikkolıy	np-cog
 	tat	Әлбин	np-cog	eng	Älbin	np-cog
-	tat	әл-Богдадный	np-cog	eng	äl-Boğdadnıy	np-cog
-	tat	әл-Бохари	np-cog	eng	äl-Boxari	np-cog
-	tat	әл-Буави	np-cog	eng	äl-Buawi	np-cog
-	tat	әл-Вәлит	np-cog	eng	äl-Wälit	np-cog
-	tat	әл-Вилдан	np-cog	eng	äl-Vildan	np-cog
-	tat	әл-Газани	np-cog	eng	äl-Ğazani	np-cog
-	tat	әл-Гибади	np-cog	eng	äl-Gibadi	np-cog
-	tat	әл-Гомәри	np-cog	eng	äl-Ğömäri	np-cog
-	tat	әл-Гыйддәтәйн	np-cog	eng	äl-Ğiddätäyn	np-cog
-	tat	әл-Гыйсмәти	np-cog	eng	äl-Ğismäti	np-cog
+	tat	әл-Богдадный	np-cog$np-cog-mf	eng	äl-Boğdadnıy	np-cog
+	tat	әл-Бохари	np-cog$np-cog-mf	eng	äl-Boxari	np-cog
+	tat	әл-Буави	np-cog$np-cog-mf	eng	äl-Buawi	np-cog
+	tat	әл-Вәлит	np-cog-mf$np-cog	eng	äl-Wälit	np-cog
+	tat	әл-Вилдан	np-cog$np-cog-mf	eng	äl-Vildan	np-cog
+	tat	әл-Газани	np-cog$np-cog-mf	eng	äl-Ğazani	np-cog
+	tat	әл-Гибади	np-cog$np-cog-mf	eng	äl-Gibadi	np-cog
+	tat	әл-Гомәри	np-cog$np-cog-mf	eng	äl-Ğömäri	np-cog
+	tat	әл-Гыйддәтәйн	np-cog$np-cog-mf	eng	äl-Ğiddätäyn	np-cog
+	tat	әл-Гыйсмәти	np-cog$np-cog-mf	eng	äl-Ğismäti	np-cog
 	tat	Әлдербишев	np-cog	eng	Älderbişev	np-cog
-	tat	әл-Әгмә	np-cog	eng	äl-Ägmä	np-cog
-	tat	әл-Әгъма	np-cog	eng	äl-Äğma	np-cog
-	tat	әл-Әгъмә	np-cog	eng	äl-Äğmä	np-cog
-	tat	әл-Әмирхани	np-cog	eng	äl-Ämirxani	np-cog
-	tat	әл-Әнасария	np-cog	eng	äl-Änasariä	np-cog
-	tat	әл-Әнсари	np-cog	eng	äl-Änsari	np-cog
-	tat	әл-Әнсарый	np-cog	eng	äl-Änsarıy	np-cog
-	tat	әл-Җәләли	np-cog	eng	äl-Cäläli	np-cog
-	tat	әл-Җәрәкси	np-cog	eng	äl-Cäräksi	np-cog
-	tat	әл-Җәркәси	np-cog	eng	äl-Cärkäsi	np-cog
-	tat	әл-Җиркәсе	np-cog	eng	äl-Cirkäse	np-cog
-	tat	әл-Иманколый	np-cog	eng	äl-İmankolıy	np-cog
-	tat	әл-Кавали	np-cog	eng	äl-Qawali	np-cog
-	tat	әл-Кавалый	np-cog	eng	äl-Qawalıy	np-cog
-	tat	әл-Казани	np-cog	eng	äl-Qazani	np-cog
-	tat	әл-Кенәри	np-cog	eng	äl-Kenäri	np-cog
-	tat	әл-Кәрими	np-cog	eng	äl-Kärimi	np-cog
-	tat	әл-Кәчәви	np-cog	eng	äl-Käçäwi	np-cog
-	tat	әл-Кирмәншаһи	np-cog	eng	äl-Kirmänşahi	np-cog
-	tat	әл-Кишети	np-cog	eng	äl-Kişeti	np-cog
-	tat	әл-Корадагани	np-cog	eng	äl-Qoradağäni	np-cog
-	tat	әл-Корткачыни	np-cog	eng	äl-Qortqaçıni	np-cog
-	tat	әл-Курыкмаси	np-cog	eng	äl-Qurıkmasi	np-cog
-	tat	әл-Кушари	np-cog	eng	äl-Quşari	np-cog
-	tat	әл-Кушлавичи	np-cog	eng	äl-Quşlawiçi	np-cog
-	tat	әл-Кушлавучи	np-cog	eng	äl-Quşlawuçi	np-cog
-	tat	әл-Кушлавычи	np-cog	eng	äl-Quşlawıçi	np-cog
-	tat	әл-Күлбаши	np-cog	eng	äl-Külbaşi	np-cog
-	tat	әл-Күлтәси	np-cog	eng	äl-Kültäsi	np-cog
-	tat	әл-Күстәрбай	np-cog	eng	äl-Küstärbay	np-cog
-	tat	әл-Максуди	np-cog	eng	äl-Maqsudi	np-cog
-	tat	әл-Максутов	np-cog	eng	äl-Maqsutov	np-cog
-	tat	әл-Мәдинәтел	np-cog	eng	äl-Mädinätel	np-cog
-	tat	әл-Мәлик	np-cog	eng	äl-Mälik	np-cog
-	tat	әл-Мәнгәри	np-cog	eng	äl-Mängäri	np-cog
-	tat	әл-Мәраҗни	np-cog	eng	äl-Märacni	np-cog
-	tat	әл-Мәрҗани	np-cog	eng	äl-Märcani	np-cog
-	tat	әл-Мораги	np-cog	eng	äl-Moragi	np-cog
-	tat	әл-Морагый	np-cog	eng	äl-Morağıy	np-cog
-	tat	әл-Мортаза	np-cog	eng	äl-Mortaza	np-cog
-	tat	әл-Мортзый	np-cog	eng	äl-Mortzıy	np-cog
-	tat	әл-Мохтари	np-cog	eng	äl-Moxtari	np-cog
-	tat	әл-Мөәдзин	np-cog	eng	äl-Möädzin	np-cog
-	tat	әл-Мөәзин	np-cog	eng	äl-Möäzin	np-cog
+	tat	әл-Әгмә	np-cog$np-cog-mf	eng	äl-Ägmä	np-cog
+	tat	әл-Әгъма	np-cog$np-cog-mf	eng	äl-Äğma	np-cog
+	tat	әл-Әгъмә	np-cog$np-cog-mf	eng	äl-Äğmä	np-cog
+	tat	әл-Әмирхани	np-cog$np-cog-mf	eng	äl-Ämirxani	np-cog
+	tat	әл-Әнасария	np-cog$np-cog-mf	eng	äl-Änasariä	np-cog
+	tat	әл-Әнсари	np-cog$np-cog-mf	eng	äl-Änsari	np-cog
+	tat	әл-Әнсарый	np-cog$np-cog-mf	eng	äl-Änsarıy	np-cog
+	tat	әл-Җәләли	np-cog$np-cog-mf	eng	äl-Cäläli	np-cog
+	tat	әл-Җәрәкси	np-cog$np-cog-mf	eng	äl-Cäräksi	np-cog
+	tat	әл-Җәркәси	np-cog$np-cog-mf	eng	äl-Cärkäsi	np-cog
+	tat	әл-Җиркәсе	np-cog$np-cog-mf	eng	äl-Cirkäse	np-cog
+	tat	әл-Иманколый	np-cog$np-cog-mf	eng	äl-İmankolıy	np-cog
+	tat	әл-Кавали	np-cog$np-cog-mf	eng	äl-Qawali	np-cog
+	tat	әл-Кавалый	np-cog$np-cog-mf	eng	äl-Qawalıy	np-cog
+	tat	әл-Казани	np-cog-mf$np-cog	eng	äl-Qazani	np-cog
+	tat	әл-Кенәри	np-cog$np-cog-mf	eng	äl-Kenäri	np-cog
+	tat	әл-Кәрими	np-cog$np-cog-mf	eng	äl-Kärimi	np-cog
+	tat	әл-Кәчәви	np-cog$np-cog-mf	eng	äl-Käçäwi	np-cog
+	tat	әл-Кирмәншаһи	np-cog$np-cog-mf	eng	äl-Kirmänşahi	np-cog
+	tat	әл-Кишети	np-cog$np-cog-mf	eng	äl-Kişeti	np-cog
+	tat	әл-Корадагани	np-cog$np-cog-mf	eng	äl-Qoradağäni	np-cog
+	tat	әл-Корткачыни	np-cog$np-cog-mf	eng	äl-Qortqaçıni	np-cog
+	tat	әл-Курыкмаси	np-cog$np-cog-mf	eng	äl-Qurıkmasi	np-cog
+	tat	әл-Кушари	np-cog$np-cog-mf	eng	äl-Quşari	np-cog
+	tat	әл-Кушлавичи	np-cog$np-cog-mf	eng	äl-Quşlawiçi	np-cog
+	tat	әл-Кушлавучи	np-cog$np-cog-mf	eng	äl-Quşlawuçi	np-cog
+	tat	әл-Кушлавычи	np-cog$np-cog-mf	eng	äl-Quşlawıçi	np-cog
+	tat	әл-Күлбаши	np-cog$np-cog-mf	eng	äl-Külbaşi	np-cog
+	tat	әл-Күлтәси	np-cog$np-cog-mf	eng	äl-Kültäsi	np-cog
+	tat	әл-Күстәрбай	np-cog$np-cog-mf	eng	äl-Küstärbay	np-cog
+	tat	әл-Максуди	np-cog$np-cog-mf	eng	äl-Maqsudi	np-cog
+	tat	әл-Максутов	np-cog$np-cog-mf	eng	äl-Maqsutov	np-cog
+	tat	әл-Мәдинәтел	np-cog$np-cog-mf	eng	äl-Mädinätel	np-cog
+	tat	әл-Мәлик	np-cog$np-cog-mf	eng	äl-Mälik	np-cog
+	tat	әл-Мәнгәри	np-cog$np-cog-mf	eng	äl-Mängäri	np-cog
+	tat	әл-Мәраҗни	np-cog$np-cog-mf	eng	äl-Märacni	np-cog
+	tat	әл-Мәрҗани	np-cog$np-cog-mf	eng	äl-Märcani	np-cog
+	tat	әл-Мораги	np-cog$np-cog-mf	eng	äl-Moragi	np-cog
+	tat	әл-Морагый	np-cog$np-cog-mf	eng	äl-Morağıy	np-cog
+	tat	әл-Мортаза	np-cog$np-cog-mf	eng	äl-Mortaza	np-cog
+	tat	әл-Мортзый	np-cog$np-cog-mf	eng	äl-Mortzıy	np-cog
+	tat	әл-Мохтари	np-cog$np-cog-mf	eng	äl-Moxtari	np-cog
+	tat	әл-Мөәдзин	np-cog$np-cog-mf	eng	äl-Möädzin	np-cog
+	tat	әл-Мөәзин	np-cog$np-cog-mf	eng	äl-Möäzin	np-cog
 	tat	Әлмөхәммәдов	np-cog	eng	Älmöxämmädov	np-cog
-	tat	әл-Музин	np-cog	eng	äl-Muzin	np-cog
-	tat	әл-Нәҗари	np-cog	eng	äl-Näcari	np-cog
-	tat	әл-Өмми	np-cog	eng	äl-Ömmi	np-cog
-	tat	әл-Сабави	np-cog	eng	äl-Sabawi	np-cog
-	tat	әл-Сабаи	np-cog	eng	äl-Sabai	np-cog
-	tat	әл-Сасмакый	np-cog	eng	äl-Sasmaqıy	np-cog
-	tat	әл-Ташкичуви	np-cog	eng	äl-Taşkiçuwi	np-cog
-	tat	әл-Фарис	np-cog	eng	äl-Faris	np-cog
-	tat	әл-Фарси	np-cog	eng	äl-Farsi	np-cog
-	tat	әл-Фарук	np-cog	eng	äl-Faruq	np-cog
-	tat	әл-Фәрук	np-cog	eng	äl-Färuk	np-cog
-	tat	әл-Хаҗи	np-cog	eng	äl-Xaci	np-cog
-	tat	әл-Хаҗиев	np-cog	eng	äl-Xaciev	np-cog
-	tat	әл-Халиди	np-cog	eng	äl-Xalidi	np-cog
-	tat	әл-Халит	np-cog	eng	äl-Xalit	np-cog
-	tat	әл-Хафиз	np-cog	eng	äl-Xafiz	np-cog
-	tat	әл-Хаффар	np-cog	eng	äl-Xaffar	np-cog
-	tat	әл-Хәфаф	np-cog	eng	äl-Xäfaf	np-cog
-	tat	әл-Хорәер	np-cog	eng	äl-Xoräyer	np-cog
-	tat	әл-Хөррәмәйн	np-cog	eng	äl-Xörrämäyn	np-cog
-	tat	әл-Хөс	np-cog	eng	äl-Xös	np-cog
-	tat	әл-Хөсәен	np-cog	eng	äl-Xösäyen	np-cog
-	tat	әл-Хөсәени	np-cog	eng	äl-Xösäyeni	np-cog
-	tat	әл-Чиркәси	np-cog	eng	äl-Çirkäsi	np-cog
-	tat	әл-Чуашиле	np-cog	eng	äl-Çuaşile	np-cog
-	tat	әл-Чуашили	np-cog	eng	äl-Çuaşili	np-cog
-	tat	әл-Чулпычи	np-cog	eng	äl-Çulpıçi	np-cog
-	tat	әл-Энби	np-cog	eng	äl-Enbi	np-cog
-	tat	әл-Юртыши	np-cog	eng	äl-Yurtışi	np-cog
-	tat	әл-Яүм	np-cog	eng	äl-Yäwm	np-cog
+	tat	әл-Музин	np-cog$np-cog-mf	eng	äl-Muzin	np-cog
+	tat	әл-Нәҗари	np-cog$np-cog-mf	eng	äl-Näcari	np-cog
+	tat	әл-Өмми	np-cog$np-cog-mf	eng	äl-Ömmi	np-cog
+	tat	әл-Сабави	np-cog$np-cog-mf	eng	äl-Sabawi	np-cog
+	tat	әл-Сабаи	np-cog$np-cog-mf	eng	äl-Sabai	np-cog
+	tat	әл-Сасмакый	np-cog$np-cog-mf	eng	äl-Sasmaqıy	np-cog
+	tat	әл-Ташкичуви	np-cog$np-cog-mf	eng	äl-Taşkiçuwi	np-cog
+	tat	әл-Фарис	np-cog$np-cog-mf	eng	äl-Faris	np-cog
+	tat	әл-Фарси	np-cog$np-cog-mf	eng	äl-Farsi	np-cog
+	tat	әл-Фарук	np-cog$np-cog-mf	eng	äl-Faruq	np-cog
+	tat	әл-Фәрук	np-cog$np-cog-mf	eng	äl-Färuk	np-cog
+	tat	әл-Хаҗи	np-cog$np-cog-mf	eng	äl-Xaci	np-cog
+	tat	әл-Хаҗиев	np-cog$np-cog-mf	eng	äl-Xaciev	np-cog
+	tat	әл-Халиди	np-cog$np-cog-mf	eng	äl-Xalidi	np-cog
+	tat	әл-Халит	np-cog$np-cog-mf	eng	äl-Xalit	np-cog
+	tat	әл-Хафиз	np-cog$np-cog-mf	eng	äl-Xafiz	np-cog
+	tat	әл-Хаффар	np-cog$np-cog-mf	eng	äl-Xaffar	np-cog
+	tat	әл-Хәфаф	np-cog$np-cog-mf	eng	äl-Xäfaf	np-cog
+	tat	әл-Хорәер	np-cog$np-cog-mf	eng	äl-Xoräyer	np-cog
+	tat	әл-Хөррәмәйн	np-cog$np-cog-mf	eng	äl-Xörrämäyn	np-cog
+	tat	әл-Хөс	np-cog$np-cog-mf	eng	äl-Xös	np-cog
+	tat	әл-Хөсәен	np-cog-mf$np-cog	eng	äl-Xösäyen	np-cog
+	tat	әл-Хөсәени	np-cog$np-cog-mf	eng	äl-Xösäyeni	np-cog
+	tat	әл-Чиркәси	np-cog$np-cog-mf	eng	äl-Çirkäsi	np-cog
+	tat	әл-Чуашиле	np-cog$np-cog-mf	eng	äl-Çuaşile	np-cog
+	tat	әл-Чуашили	np-cog$np-cog-mf	eng	äl-Çuaşili	np-cog
+	tat	әл-Чулпычи	np-cog$np-cog-mf	eng	äl-Çulpıçi	np-cog
+	tat	әл-Энби	np-cog$np-cog-mf	eng	äl-Enbi	np-cog
+	tat	әл-Юртыши	np-cog-mf$np-cog	eng	äl-Yurtışi	np-cog
+	tat	әл-Яүм	np-cog$np-cog-mf	eng	äl-Yäwm	np-cog
 	tat	Әмзин	np-cog	eng	Ämzin	np-cog
 	tat	Әминов	np-cog	eng	Äminov	np-cog
 	tat	Әмиров	np-cog	eng	Ämirov	np-cog
@@ -11535,7 +11535,7 @@
 	tat	Әпиков	np-cog	eng	Äpikov	np-cog
 	tat	Әптикәев	np-cog	eng	Äptikäyev	np-cog
 	tat	Әптикиев	np-cog	eng	Äptikiev	np-cog
-	tat	әс-Салихи	np-cog	eng	äs-Salixi	np-cog
+	tat	әс-Салихи	np-cog$np-cog-mf	eng	äs-Salixi	np-cog
 	tat	Әсфәндияров	np-cog	eng	Äsfändiyarow	np-cog
 	tat	Әүхәдиев	np-cog	eng	Äwxädiev	np-cog
 	tat	Әхметов	np-cog	eng	Äxmetov	np-cog
@@ -11558,7 +11558,7 @@
 	tat	Җәзәев	np-cog	eng	Cäzäyev	np-cog
 	tat	Җәләлетдинов	np-cog	eng	Cäläletdinov	np-cog
 	tat	Җәлилов	np-cog	eng	Cälilov	np-cog
-	tat	Җәркәси	np-cog	eng	Cärkäsi	np-cog
+	tat	Җәркәси	np-cog$np-cog-mf	eng	Cärkäsi	np-cog
 	tat	Җомаголов	np-cog	eng	Comagolov	np-cog
 	tat	Җөзәев	np-cog	eng	Cözäyev	np-cog
 	tat	Заитов	np-cog	eng	Zaitov	np-cog
@@ -11630,7 +11630,7 @@
 	tat	Кадыйров	np-cog	eng	Qadıyrov	np-cog
 	tat	Кадыров	np-cog	eng	Qadırov	np-cog
 	tat	Казаков	np-cog	eng	Qazaqov	np-cog
-	tat	Казани	np-cog	eng	Qazani	np-cog
+	tat	Казани	np-cog$np-cog-mf	eng	Qazani	np-cog
 	tat	Казилов	np-cog	eng	Qäzilov	np-cog
 	tat	Калинев	np-cog	eng	Kalinev	np-cog
 	tat	Калинин	np-cog	eng	Qälinin	np-cog
@@ -11658,9 +11658,9 @@
 	tat	Кенягигин	np-cog	eng	Kenyagigin	np-cog
 	tat	Кәлинин	np-cog	eng	Kälinin	np-cog
 	tat	Кәлинов	np-cog	eng	Kälinov	np-cog
-	tat	Кәрими	np-cog	eng	Kärimi	np-cog
+	tat	Кәрими	np-cog$np-cog-mf	eng	Kärimi	np-cog
 	tat	Кәримов	np-cog	eng	Kärimov	np-cog
-	tat	Кәрниз	np-cog	eng	Kärniz	np-cog
+	tat	Кәрниз	np-cog$np-cog-mf	eng	Kärniz	np-cog
 	tat	Кидеков	np-cog	eng	Kidekov	np-cog
 	tat	Кизкәнбашский	np-cog	eng	Kizkänbaşsqiy	np-cog
 	tat	Кикин	np-cog	eng	Kikin	np-cog
@@ -11697,7 +11697,7 @@
 	tat	Кутиев	np-cog	eng	Qutiev	np-cog
 	tat	Кушаев	np-cog	eng	Quşayev	np-cog
 	tat	Күвәтлин	np-cog	eng	Küwätlin	np-cog
-	tat	Күҗи	np-cog	eng	Küci	np-cog
+	tat	Күҗи	np-cog$np-cog-mf	eng	Küci	np-cog
 	tat	Күрсинков	np-cog	eng	Kürsinkov	np-cog
 	tat	Күстәнбаев	np-cog	eng	Küstänbayev	np-cog
 	tat	Күтлин	np-cog	eng	Kütlin	np-cog
@@ -11710,7 +11710,7 @@
 	tat	Магъсудов	np-cog	eng	Mağsudov	np-cog
 	tat	Макаев	np-cog	eng	Maqayev	np-cog
 	tat	Макнаев	np-cog	eng	Maqnayev	np-cog
-	tat	Максуди	np-cog	eng	Maqsudi	np-cog
+	tat	Максуди	np-cog$np-cog-mf	eng	Maqsudi	np-cog
 	tat	Максутов	np-cog	eng	Maqsutov	np-cog
 	tat	Малагин	np-cog	eng	Malagin	np-cog
 	tat	Мамаев	np-cog	eng	Mamayev	np-cog
@@ -11739,7 +11739,7 @@
 	tat	Мәмәшев	np-cog	eng	Mämäşev	np-cog
 	tat	Мәнгушев	np-cog	eng	Mänğuşev	np-cog
 	tat	Мәрәткиев	np-cog	eng	Märätkiev	np-cog
-	tat	Мәрҗани	np-cog	eng	Märcani	np-cog
+	tat	Мәрҗани	np-cog-mf$np-cog	eng	Märcani	np-cog
 	tat	Мәртәкиев	np-cog	eng	Märtäkiev	np-cog
 	tat	Мәсгутов	np-cog	eng	Mäsğutov	np-cog
 	tat	Мәстәков	np-cog	eng	Mästäkov	np-cog
@@ -11772,7 +11772,7 @@
 	tat	Мортазин	np-cog	eng	Mortazin	np-cog
 	tat	Мостаев	np-cog	eng	Mostayev	np-cog
 	tat	Мостафин	np-cog	eng	Mostafin	np-cog
-	tat	Мохтари	np-cog	eng	Moxtari	np-cog
+	tat	Мохтари	np-cog$np-cog-mf	eng	Moxtari	np-cog
 	tat	Мохтаров	np-cog	eng	Moxtarov	np-cog
 	tat	Мөбәракшин	np-cog	eng	Möbärakşin	np-cog
 	tat	Мөнасыйпов	np-cog	eng	Mönasıypov	np-cog
@@ -11810,7 +11810,7 @@
 	tat	Мулкеев	np-cog	eng	Mulkeew	np-cog
 	tat	Мулласитдыйк	np-cog	eng	Mullasitdıyk	np-cog
 	tat	Муллин	np-cog	eng	Mullin	$np-cog
-	tat	Муллини	np-cog	eng	Mullini	np-cog
+	tat	Муллини	np-cog$np-cog-mf	eng	Mullini	np-cog
 	tat	Мулюков	np-cog	eng	Mulyukov	np-cog
 	tat	Муралов	np-cog	eng	Muralov	np-cog
 	tat	Мурашов	np-cog	eng	Muraşov	np-cog
@@ -11836,7 +11836,7 @@
 	tat	Нигаев	np-cog	eng	Niğayev	np-cog
 	tat	Нигъматуллин	np-cog	eng	Niğmatullin	np-cog
 	tat	Нигъмәтҗанов	np-cog	eng	Niğmätcanov	np-cog
-	tat	Нигъмәти	np-cog	eng	Niğmäti	np-cog
+	tat	Нигъмәти	np-cog$np-cog-mf	eng	Niğmäti	np-cog
 	tat	Нигъмәттуллин	np-cog	eng	Niğmättullin	np-cog
 	tat	Нигъмәтуллин	np-cog	eng	Niğmätullin	np-cog
 	tat	Никаев	np-cog	eng	Nikayev	np-cog
@@ -11882,7 +11882,7 @@
 	tat	Салаватов	np-cog	eng	Salawatov	np-cog
 	tat	Салавиев	np-cog	eng	Salawiev	np-cog
 	tat	Салиев	np-cog	eng	Saliev	np-cog
-	tat	Салихи	np-cog	eng	Salixi	np-cog
+	tat	Салихи	np-cog$np-cog-mf	eng	Salixi	np-cog
 	tat	Салихов	np-cog	eng	Salixov	np-cog
 	tat	Салманов	np-cog	eng	Salmanov	np-cog
 	tat	Саттаров	np-cog	eng	Sattarov	np-cog
@@ -11908,7 +11908,7 @@
 	tat	Сәлиев	np-cog	eng	Säliev	np-cog
 	tat	Сәлимов	np-cog	eng	Sälimov	np-cog
 	tat	Сәмитов	np-cog	eng	Sämitov	np-cog
-	tat	Сәфәри	np-cog	eng	Säfäri	np-cog
+	tat	Сәфәри	np-cog$np-cog-mf	eng	Säfäri	np-cog
 	tat	Сәфиров	np-cog	eng	Säfirov	np-cog
 	tat	Сибгатуллин	np-cog	eng	Sibğatullin	np-cog
 	tat	Сиберяков	np-cog	eng	Siberyakov	np-cog
@@ -11948,7 +11948,7 @@
 	tat	Тинишев	np-cog	eng	Tinişev	np-cog
 	tat	Төхфәтуллин	np-cog	eng	Töxfätullin	np-cog
 	tat	Туйкин	np-cog	eng	Tuykin	np-cog
-	tat	Туйкич	np-cog	eng	Tuykich	np-cog
+	tat	Туйкич	np-cog$np-cog-mf	eng	Tuykich	np-cog
 	tat	Туктаров	np-cog	eng	Tuqtarov	np-cog
 	tat	Тылмачев	np-cog	eng	Tılmaçev	np-cog
 	tat	Укмасов	np-cog	eng	Uqmasov	np-cog
@@ -11979,7 +11979,7 @@
 	tat	Фәхретдинов	np-cog	eng	Fäxretdinov	np-cog
 	tat	Фәхртединов	np-cog	eng	Fäxrtedinov	np-cog
 	tat	Хаҗиев	np-cog	eng	Xaciev	np-cog
-	tat	Халиди	np-cog	eng	Xalidi	np-cog
+	tat	Халиди	np-cog$np-cog-mf	eng	Xalidi	np-cog
 	tat	Халиков	np-cog	eng	Xalikov	np-cog
 	tat	Халитов	np-cog	eng	Xalitov	np-cog
 	tat	Хамзин	np-cog	eng	Xamzin	np-cog
@@ -12047,7 +12047,7 @@
 	tat	Шәфиев	np-cog	eng	Şäfiev	np-cog
 	tat	Шимчин	np-cog	eng	Şimçin	np-cog
 	tat	Шиһабетдинов	np-cog	eng	Şihabetdinov	np-cog
-	tat	Шиһаби	np-cog	eng	Şihabi	np-cog
+	tat	Шиһаби	np-cog$np-cog-mf	eng	Şihabi	np-cog
 	tat	Щукин	np-cog	eng	Şçukin	np-cog
 	tat	Эстарадов	np-cog	eng	Estaradov	np-cog
 	tat	Юзаев	np-cog	eng	Yuzayev	np-cog
@@ -14806,7 +14806,7 @@
 	tat	бер талакы баин кылды		eng	finally divorced for the first time	
 	tat	берлә		eng	with	pr$
 	tat	бикадри хәл		eng	to the extent possible	
-	tat	бикер		eng	maiden	n$$n-ND
+	tat	бикер	$n	eng	maiden	n$$n-ND
 	tat	билетный		eng	reserve	n$$n-ND
 	tat	бирмәк булдым		eng	I committed to give	
 	tat	битәразый җанибәйн вә тәсалихы тарафәйн		eng	with mutual consent and goodwill of the parties	
@@ -14831,7 +14831,7 @@
 	tat	гәваһ булып		eng	as witness	
 	tat	дефект документа		eng	document defect	
 	tat	дәгъвәт кыл		eng	[here] promise	
-	tat	дәфен	$n	eng	was buried	
+	tat	дәфен	n$	eng	was buried	
 	tat	әүвәлге		eng	first	adv$
 	tat	әһле зирагатьтән		eng	granary workers	
 	tat	җанибәйн		eng	the parties	
@@ -14842,12 +14842,12 @@
 	tat	ике талак баин кылдым		eng	finally divorced for the second time	
 	tat	ике талакы баин кылды		eng	finally divorced for the second time	
 	tat	ике талакы баин кылдым		eng	finally divorced for the second time	
-	tat	икән		eng	they say	
+	tat	икән	$n	eng	they say	
 	tat	инкыйзаи гыйддә бәгъдендә		eng	after iddah period ends	
 	tat	ир	n$	eng	male	n$n-ND$
 	tat	ирем		eng	my husband	
 	tat	ишетеп		eng	hearing	n$$n-ND
-	tat	кабыз		eng	received	adj$
+	tat	кабыз	$v-tv	eng	received	adj$
 	tat	кайтарып		eng	returning	$n
 	tat	кайтарып бирергә		eng	to return	
 	tat	кайтарып вирмәк		eng	to return	
@@ -14889,7 +14889,7 @@
 	tat	мөәҗҗәл		eng	deferred	adj$
 	tat	мөәнәсә		eng	female	n$$n-ND
 	tat	мөҗәррәдләр		eng	both maiden/bachelor	
-	tat	Мөхәммәдхәләфи	$np-ant-m	eng	Möxämmädxäläfi	$np-ant-m-sg
+	tat	Мөхәммәдхәләфи	np-ant-m$	eng	Möxämmädxäläfi	$np-ant-m-sg
 	tat	муафыйк шәрг		eng	according to the Islamic law	$adv
 	tat	муафыйк шәрг		eng	according to the Islamic law	$adv
 	tat	на кириллице		eng	in Cyrillic	

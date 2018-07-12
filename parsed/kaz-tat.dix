@@ -175,19 +175,19 @@ LR	kaz	-ақ	postadv	tat	гына	postadv
 	kaz	XX	num$num-ord	tat	XX	num$num-ord
 	kaz	XXI	num$num-ord	tat	XXI	num$num-ord
 	kaz	неше	num$num-itg	tat	ничә	num-itg$num$num-itg-subst
-	kaz	мен	prn-pers$prn-pers-p1-sg-gen$prn-pers-p1-sg$prn-pers-p1-sg-gen-subst	tat	мин	prn-pers$prn-pers-p1-sg-nom$prn-pers-p1-sg
-	kaz	сен	prn-pers$prn-pers-p2-sg-gen$prn-pers-p2-sg$prn	tat	син	prn-pers$prn-pers-p2-sg-nom$prn-pers-p2-sg
-	kaz	ол	prn-pers$prn-pers-p3-sg-gen$prn-pers-p3$prn-pers-p3-sg$prn	tat	ул	prn-pers-p3-sg$prn-pers$prn-pers-p3-sg-gen
+	kaz	мен	prn-pers$prn-pers-p1-sg-gen$prn-pers-p1-sg$prn-pers-p1-sg-gen-subst	tat	мин	prn-pers$prn-pers-p1-sg-gen$prn-pers-p1-sg
+	kaz	сен	prn-pers$prn-pers-p2-sg-gen$prn-pers-p2-sg$prn	tat	син	prn-pers$prn-pers-p2-sg-gen$prn-pers-p2-sg
+	kaz	ол	prn-pers$prn-pers-p3-sg-gen$prn-pers-p3$prn-pers-p3-sg$prn	tat	ул	prn-pers$prn-pers-p3-sg$prn-pers-p3-sg-gen
 	kaz	біз	prn-pers$prn-pers-p1-pl-gen$prn-pers-p1-pl$prn-pers-p1-pl-gen-subst	tat	без	prn-pers$prn-pers-p1-pl-gen$prn-pers-p1-pl
 	kaz	сендер	prn-pers-p2-pl$prn-pers$prn-pers-p2-pl-gen	tat	сез	prn-pers$prn-pers-p2-pl$prn-pers-p2-pl-gen
 	kaz	олар	prn-pers$prn-pers-p3-pl$prn-pers-p3-pl-gen$prn$prn-pers-p3	tat	алар	prn-pers$prn-pers-p3$prn-pers-p3-pl
 	kaz	сіз	prn-pers-p2-sg-frm$prn-pers$prn-pers-p2-sg$prn-pers-p2-sg-frm-gen$prn-pers-p2-sg-frm-gen-subst-nom	tat	Сез	prn-pers-p2-sp-frm$prn-pers-p2-sp-frm-gen
 LR	kaz	сіздер	prn-pers-p2-pl-frm$prn-pers	tat	Сез	prn-pers-p2-sp-frm$prn-pers-p2-sp-frm-gen
 	kaz	ана	prn-dem	tat	теге	prn-dem$prn-dem-loc
-	kaz	бұл	prn-dem$prn-dem-nom$prn	tat	бу	prn-dem$prn-dem-sg
-LR	kaz	мына	prn-dem$prn-dem-nom	tat	бу	prn-dem$prn-dem-sg
+	kaz	бұл	prn-dem$prn-dem-nom$prn	tat	бу	prn-dem$prn-dem-loc
+LR	kaz	мына	prn-dem$prn-dem-nom	tat	бу	prn-dem$prn-dem-loc
 	kaz	ол	prn-dem$prn-dem-qnt	tat	ул	prn-dem$prn-dem-gen$prn-dem-pl-gen
-	kaz	осы	prn-dem	tat	шушы	prn-dem$prn-dem-sg
+	kaz	осы	prn-dem	tat	шушы	prn-dem
 	kaz	сол	prn-dem	tat	шул	prn-dem$prn-dem-abl
 	kaz	нәрсе	prn-itg$prn	tat	нәрсә	prn-itg
 RL	kaz	нәрсе	prn-itg$prn	tat	нимә	prn-itg
@@ -645,7 +645,7 @@ LR	kaz	бау-бақша	n	tat	бакча	n
 	kaz	білім	n	tat	белем	n
 	kaz	бірлестік	n	tat	берләшмә	n
 	kaz	бірлік	n	tat	берлек	n
-	kaz	бітімгершілік	n	tat	тынычлык урнаштыр	v-iv-ger
+	kaz	бітімгершілік	n	tat	тынычлык урнаштыр	v-iv$v-iv-ger
 	kaz	блог	n	tat	блог	n
 	kaz	бокс	n	tat	бокс	n
 	kaz	болат	n	tat	булат	n
@@ -1544,7 +1544,7 @@ LR	kaz	қаламұш	n	tat	каләм	n
 	kaz	қасиет	n	tat	хасият	n
 	kaz	қасірет	n	tat	хәсрәт	n
 	kaz	қасқыр	n	tat	бүре	n
-	kaz	қастандық	n	tat	хаслан	v-iv-ger
+	kaz	қастандық	n	tat	хаслан	v-iv$v-iv-ger
 	kaz	қастер	n	tat	дәрәҗә	n
 	kaz	қастық	n	tat	дошманлык	n
 	kaz	қастық	n	tat	усаллык	n
@@ -2331,7 +2331,7 @@ LR	kaz	сәуле	n	tat	нур	n
 	kaz	сиыр	n	tat	сыер	n
 	kaz	сия	n	tat	кара	n
 	kaz	сияқ	n	tat	кыяфәт	n
-	kaz	сілкініс	n	tat	тетрә	v-iv-ger
+	kaz	сілкініс	n	tat	тетрә	v-iv$v-iv-ger
 	kaz	сілтеме	n	tat	сылтама	n
 	kaz	сіңлі	n	tat	сеңел	n
 	kaz	скрипка	n	tat	скрипка	n
@@ -3197,7 +3197,7 @@ RL	kaz	немісше	adv	tat	нимесчә	adv
 	kaz	Андрей	np-ant-m	tat	Андрей	np-ant-m$np
 	kaz	Анжела	np-ant-f	tat	Анжела	np-ant-f
 	kaz	Анна	np-ant-f	tat	Анна	np-ant-f
-	kaz	Антон	np-ant-m	tat	Антон	np$np-ant-m
+	kaz	Антон	np-ant-m	tat	Антон	np-ant-m$np
 	kaz	Аня	np-ant-f	tat	Аня	np-ant-f
 	kaz	Аңсар	np-ant-m	tat	Аңсар	np-ant-m
 	kaz	Арай	np-ant-m	tat	Арай	np-ant-m
@@ -4163,284 +4163,284 @@ LR	kaz	Грегориус	np-ant-m	tat	Григориан	np-ant-m
 	kaz	Македонский	np-cog-m	tat	Македонский	np-cog-m
 	kaz	Островский	np-cog-m	tat	Островский	np-cog-m
 	kaz	Репин	np-cog-m	tat	Репин	np-cog-m
-	kaz	Римский-Корсаков	np-cog-m	tat	Римский-Корсаков	np-cog-m
+	kaz	Римский-Корсаков	np-cog-m	tat	Римский-Корсаков	np-cog$np-cog-m
 	kaz	Станиславский	np-cog-m	tat	Станиславский	np-cog-m
 	kaz	Толстой	np-cog-m	tat	Толстой	np-cog-m
 	kaz	Чайковский	np-cog-m	tat	Чайковский	np-cog-m
-	kaz	Авраменко	np-cog	tat	Авраменко	np-cog
+	kaz	Авраменко	np-cog	tat	Авраменко	np-cog$np-cog-mf
 	kaz	Аққұлы	np-cog-mf	tat	Аккулы	np-cog-mf
-	kaz	Анищенко	np-cog	tat	Анищенко	np-cog
-	kaz	Антоненко	np-cog	tat	Антоненко	np-cog
-	kaz	Асад	np-cog	tat	Асад	np-cog
-	kaz	Ассанж	np-cog	tat	Ассанж	np-cog
-	kaz	Аталай	np-cog	tat	Аталай	np-cog
-	kaz	Атрошенко	np-cog	tat	Атрошенко	np-cog
+	kaz	Анищенко	np-cog	tat	Анищенко	np-cog$np-cog-mf
+	kaz	Антоненко	np-cog	tat	Антоненко	np-cog$np-cog-mf
+	kaz	Асад	np-cog	tat	Асад	np-cog$np-cog-mf
+	kaz	Ассанж	np-cog	tat	Ассанж	np-cog$np-cog-mf
+	kaz	Аталай	np-cog	tat	Аталай	np-cog$np-cog-mf
+	kaz	Атрошенко	np-cog	tat	Атрошенко	np-cog$np-cog-mf
 	kaz	Ахмадинежад	np-cog-mf	tat	Ахмадинежад	np-cog-mf
 	kaz	Әл-Истахри	np-cog-mf	tat	Әл-Истахри	np-cog-mf
 	kaz	Әл-Истахри	np-cog-mf	tat	Әл-Истахри	np-cog-mf
 	kaz	Әл-Масуди	np-cog-mf	tat	Әл-Масуди	np-cog-mf
 	kaz	Әл-Фараби	np-cog-mf	tat	Әл-Фараби	np-cog-mf
 	kaz	Бабамкожа	np-cog-mf	tat	Бабамкожа	np-cog-mf
-	kaz	Бабенко	np-cog	tat	Бабенко	np-cog
+	kaz	Бабенко	np-cog	tat	Бабенко	np-cog$np-cog-mf
 	kaz	Байден	np-cog-mf	tat	Байден	np-cog-mf
-	kaz	Байрон	np-cog	tat	Байрон	np-cog
-	kaz	Банко	np-cog	tat	Банко	np-cog
+	kaz	Байрон	np-cog	tat	Байрон	np-cog$np-cog-mf
+	kaz	Банко	np-cog	tat	Банко	np-cog$np-cog-mf
 	kaz	Бартушка	np-cog-mf	tat	Бартушка	np-cog-mf
-	kaz	Бек	np-cog	tat	Бек	np-cog
-	kaz	Бекер	np-cog	tat	Бекер	np-cog
-	kaz	Белинский	np-cog-m$np-cog	tat	Белинский	np-cog
-	kaz	Берлиоз	np-cog	tat	Берлиоз	np-cog
-	kaz	Берцелиус	np-cog	tat	Берцелиус	np-cog
+	kaz	Бек	np-cog	tat	Бек	np-cog$np-cog-mf
+	kaz	Бекер	np-cog	tat	Бекер	np-cog$np-cog-mf
+	kaz	Белинский	np-cog-m$np-cog	tat	Белинский	np-cog$np-cog-mf
+	kaz	Берлиоз	np-cog	tat	Берлиоз	np-cog$np-cog-mf
+	kaz	Берцелиус	np-cog	tat	Берцелиус	np-cog$np-cog-mf
 	kaz	Бестай	np-cog-mf	tat	Бестай	np-cog-mf
-	kaz	Бисмарк	np-cog	tat	Бисмарк	np-cog
-	kaz	Бланко	np-cog	tat	Бланко	np-cog
-	kaz	Блэр	np-cog$np-cog-m	tat	Блэр	np-cog
-	kaz	Бранко	np-cog	tat	Бранко	np-cog
+	kaz	Бисмарк	np-cog	tat	Бисмарк	np-cog$np-cog-mf
+	kaz	Бланко	np-cog	tat	Бланко	np-cog$np-cog-mf
+	kaz	Блэр	np-cog$np-cog-m	tat	Блэр	np-cog$np-cog-mf
+	kaz	Бранко	np-cog	tat	Бранко	np-cog$np-cog-mf
 	kaz	Бурсик	np-cog-mf	tat	Бурсик	np-cog-mf
-	kaz	Бусленко	np-cog	tat	Бусленко	np-cog
-	kaz	Бутенко	np-cog	tat	Бутенко	np-cog
-	kaz	Бухари	np-cog	tat	Бухари	np-cog
-	kaz	Буценко	np-cog	tat	Буценко	np-cog
-	kaz	Буш	np-cog$np-cog-mf	tat	Буш	np-cog
-	kaz	Бэкон	np-cog	tat	Бэкон	np-cog
-	kaz	ван Гог	np-cog	tat	ван Гог	np-cog
-	kaz	Васенко	np-cog	tat	Васенко	np-cog
-	kaz	Василенко	np-cog	tat	Василенко	np-cog
-	kaz	Вдовиченко	np-cog	tat	Вдовиченко	np-cog
-	kaz	Веремеенко	np-cog	tat	Веремеенко	np-cog
-	kaz	Викторенко	np-cog	tat	Викторенко	np-cog
-	kaz	Витренко	np-cog	tat	Витренко	np-cog
-	kaz	Владыченко	np-cog	tat	Владыченко	np-cog
-	kaz	Выграненко	np-cog	tat	Выграненко	np-cog
-	kaz	Галилей	np-cog	tat	Галилей	np-cog
+	kaz	Бусленко	np-cog	tat	Бусленко	np-cog$np-cog-mf
+	kaz	Бутенко	np-cog	tat	Бутенко	np-cog$np-cog-mf
+	kaz	Бухари	np-cog	tat	Бухари	np-cog$np-cog-mf
+	kaz	Буценко	np-cog	tat	Буценко	np-cog$np-cog-mf
+	kaz	Буш	np-cog$np-cog-mf	tat	Буш	np-cog$np-cog-mf
+	kaz	Бэкон	np-cog	tat	Бэкон	np-cog$np-cog-mf
+	kaz	ван Гог	np-cog	tat	ван Гог	np-cog$np-cog-mf
+	kaz	Васенко	np-cog	tat	Васенко	np-cog$np-cog-mf
+	kaz	Василенко	np-cog	tat	Василенко	np-cog$np-cog-mf
+	kaz	Вдовиченко	np-cog	tat	Вдовиченко	np-cog$np-cog-mf
+	kaz	Веремеенко	np-cog	tat	Веремеенко	np-cog$np-cog-mf
+	kaz	Викторенко	np-cog	tat	Викторенко	np-cog$np-cog-mf
+	kaz	Витренко	np-cog	tat	Витренко	np-cog$np-cog-mf
+	kaz	Владыченко	np-cog	tat	Владыченко	np-cog$np-cog-mf
+	kaz	Выграненко	np-cog	tat	Выграненко	np-cog$np-cog-mf
+	kaz	Галилей	np-cog	tat	Галилей	np-cog$np-cog-mf
 	kaz	Гедмин	np-cog-mf	tat	Гедмин	np-cog-mf
-	kaz	Гей-Люссак	np-cog	tat	Гей-Люссак	np-cog
+	kaz	Гей-Люссак	np-cog	tat	Гей-Люссак	np-cog$np-cog-mf
 	kaz	Гейтс	np-cog-mf	tat	Гейтс	np-cog-mf
-	kaz	Генко	np-cog	tat	Генко	np-cog
-	kaz	Герасименко	np-cog	tat	Герасименко	np-cog
-	kaz	Гете	np-cog$np-cog-mf	tat	Гете	np-cog
+	kaz	Генко	np-cog	tat	Генко	np-cog$np-cog-mf
+	kaz	Герасименко	np-cog	tat	Герасименко	np-cog$np-cog-mf
+	kaz	Гете	np-cog$np-cog-mf	tat	Гете	np-cog$np-cog-mf
 	kaz	Ги Мун	np-cog-mf	tat	Ги Мун	np-cog-mf
-	kaz	Гитлер	np-cog-m$np-cog	tat	Гитлер	np-cog
+	kaz	Гитлер	np-cog-m$np-cog	tat	Гитлер	np-cog$np-cog-mf
 	kaz	Гиффен	np-cog-mf	tat	Гиффен	np-cog-mf
-	kaz	Глущенко	np-cog	tat	Глущенко	np-cog
-	kaz	Гнеденко	np-cog	tat	Гнеденко	np-cog
-	kaz	Гоголь	np-cog	tat	Гоголь	np-cog
-	kaz	Голль	np-cog	tat	Голль	np-cog
-	kaz	Голубченко	np-cog	tat	Голубченко	np-cog
-	kaz	Гольбах	np-cog	tat	Гольбах	np-cog
-	kaz	Горленко	np-cog	tat	Горленко	np-cog
-	kaz	Григоренко	np-cog	tat	Григоренко	np-cog
-	kaz	Гриненко	np-cog	tat	Гриненко	np-cog
-	kaz	Гриценко	np-cog	tat	Гриценко	np-cog
-	kaz	Гузенко	np-cog	tat	Гузенко	np-cog
-	kaz	Гуленко	np-cog	tat	Гуленко	np-cog
-	kaz	Гурченко	np-cog	tat	Гурченко	np-cog
-	kaz	да Винчи	np-cog	tat	да Винчи	np-cog
-	kaz	да Гама	np-cog	tat	да Гама	np-cog
-	kaz	Данко	np-cog	tat	Данко	np-cog
-	kaz	Данченко	np-cog	tat	Данченко	np-cog
-	kaz	Дарвин	np-cog	tat	Дарвин	np-cog
-	kaz	Дворяненко	np-cog	tat	Дворяненко	np-cog
-	kaz	Декарт	np-cog$np-cog-mf	tat	Декарт	np-cog
-	kaz	Демченко	np-cog	tat	Демченко	np-cog
-	kaz	Денисенко	np-cog	tat	Денисенко	np-cog
-	kaz	Депардье	np-cog$np-cog-mf	tat	Депардье	np-cog
-	kaz	Джефферсон	np-cog	tat	Джефферсон	np-cog
-	kaz	Дзюнко	np-cog	tat	Дзюнко	np-cog
-	kaz	Дидро	np-cog	tat	Дидро	np-cog
-	kaz	Дмитренко	np-cog	tat	Дмитренко	np-cog
-	kaz	Довженко	np-cog	tat	Довженко	np-cog
-	kaz	Донченко	np-cog	tat	Донченко	np-cog
-	kaz	Доренко	np-cog	tat	Доренко	np-cog
-	kaz	Доценко	np-cog	tat	Доценко	np-cog
-	kaz	Дубровченко	np-cog	tat	Дубровченко	np-cog
-	kaz	Думенко	np-cog	tat	Думенко	np-cog
-	kaz	Дыбенко	np-cog	tat	Дыбенко	np-cog
-	kaz	Дьяченко	np-cog	tat	Дьяченко	np-cog
-	kaz	Дяченко	np-cog	tat	Дяченко	np-cog
+	kaz	Глущенко	np-cog	tat	Глущенко	np-cog$np-cog-mf
+	kaz	Гнеденко	np-cog	tat	Гнеденко	np-cog$np-cog-mf
+	kaz	Гоголь	np-cog	tat	Гоголь	np-cog$np-cog-mf
+	kaz	Голль	np-cog	tat	Голль	np-cog$np-cog-mf
+	kaz	Голубченко	np-cog	tat	Голубченко	np-cog$np-cog-mf
+	kaz	Гольбах	np-cog	tat	Гольбах	np-cog$np-cog-mf
+	kaz	Горленко	np-cog	tat	Горленко	np-cog$np-cog-mf
+	kaz	Григоренко	np-cog	tat	Григоренко	np-cog$np-cog-mf
+	kaz	Гриненко	np-cog	tat	Гриненко	np-cog$np-cog-mf
+	kaz	Гриценко	np-cog	tat	Гриценко	np-cog$np-cog-mf
+	kaz	Гузенко	np-cog	tat	Гузенко	np-cog$np-cog-mf
+	kaz	Гуленко	np-cog	tat	Гуленко	np-cog$np-cog-mf
+	kaz	Гурченко	np-cog	tat	Гурченко	np-cog$np-cog-mf
+	kaz	да Винчи	np-cog	tat	да Винчи	np-cog$np-cog-mf
+	kaz	да Гама	np-cog	tat	да Гама	np-cog$np-cog-mf
+	kaz	Данко	np-cog	tat	Данко	np-cog$np-cog-mf
+	kaz	Данченко	np-cog	tat	Данченко	np-cog$np-cog-mf
+	kaz	Дарвин	np-cog	tat	Дарвин	np-cog$np-cog-mf
+	kaz	Дворяненко	np-cog	tat	Дворяненко	np-cog$np-cog-mf
+	kaz	Декарт	np-cog$np-cog-mf	tat	Декарт	np-cog$np-cog-mf
+	kaz	Демченко	np-cog	tat	Демченко	np-cog$np-cog-mf
+	kaz	Денисенко	np-cog	tat	Денисенко	np-cog$np-cog-mf
+	kaz	Депардье	np-cog$np-cog-mf	tat	Депардье	np-cog$np-cog-mf
+	kaz	Джефферсон	np-cog	tat	Джефферсон	np-cog$np-cog-mf
+	kaz	Дзюнко	np-cog	tat	Дзюнко	np-cog$np-cog-mf
+	kaz	Дидро	np-cog	tat	Дидро	np-cog$np-cog-mf
+	kaz	Дмитренко	np-cog	tat	Дмитренко	np-cog$np-cog-mf
+	kaz	Довженко	np-cog	tat	Довженко	np-cog$np-cog-mf
+	kaz	Донченко	np-cog	tat	Донченко	np-cog$np-cog-mf
+	kaz	Доренко	np-cog	tat	Доренко	np-cog$np-cog-mf
+	kaz	Доценко	np-cog	tat	Доценко	np-cog$np-cog-mf
+	kaz	Дубровченко	np-cog	tat	Дубровченко	np-cog$np-cog-mf
+	kaz	Думенко	np-cog	tat	Думенко	np-cog$np-cog-mf
+	kaz	Дыбенко	np-cog	tat	Дыбенко	np-cog$np-cog-mf
+	kaz	Дьяченко	np-cog	tat	Дьяченко	np-cog$np-cog-mf
+	kaz	Дяченко	np-cog	tat	Дяченко	np-cog$np-cog-mf
 	kaz	Ердоған	np-cog-mf	tat	Эрдоган	np-cog-mf
-	kaz	Жовтис	np-cog$np-cog-mf	tat	Жовтис	np-cog$np-cog-mf
-	kaz	Жовтис	np-cog$np-cog-mf	tat	Жовтис	np-cog$np-cog-mf
-	kaz	Захарченко	np-cog	tat	Захарченко	np-cog
-	kaz	Здоровенко	np-cog	tat	Здоровенко	np-cog
-	kaz	Зинченко	np-cog	tat	Зинченко	np-cog
-	kaz	Зощенко	np-cog	tat	Зощенко	np-cog
+	kaz	Жовтис	np-cog$np-cog-mf	tat	Жовтис	np-cog-mf$np-cog
+	kaz	Жовтис	np-cog$np-cog-mf	tat	Жовтис	np-cog-mf$np-cog
+	kaz	Захарченко	np-cog	tat	Захарченко	np-cog$np-cog-mf
+	kaz	Здоровенко	np-cog	tat	Здоровенко	np-cog$np-cog-mf
+	kaz	Зинченко	np-cog	tat	Зинченко	np-cog$np-cog-mf
+	kaz	Зощенко	np-cog	tat	Зощенко	np-cog$np-cog-mf
 	kaz	Ибн Руста	np-cog-mf	tat	Ибн Руста	np-cog-mf
 	kaz	Ибн Хордадбех	np-cog-mf	tat	Ибн Хордадбех	np-cog-mf
-	kaz	Ибсен	np-cog	tat	Ибсен	np-cog
-	kaz	Иванко	np-cog	tat	Иванко	np-cog
-	kaz	Иванченко	np-cog	tat	Иванченко	np-cog
-	kaz	Иващенко	np-cog	tat	Иващенко	np-cog
-	kaz	Ивченко	np-cog	tat	Ивченко	np-cog
-	kaz	Ильющенко	np-cog	tat	Ильющенко	np-cog
-	kaz	Кальвин	np-cog	tat	Кальвин	np-cog
-	kaz	Кант	np-cog	tat	Кант	np-cog
+	kaz	Ибсен	np-cog	tat	Ибсен	np-cog$np-cog-mf
+	kaz	Иванко	np-cog	tat	Иванко	np-cog$np-cog-mf
+	kaz	Иванченко	np-cog	tat	Иванченко	np-cog$np-cog-mf
+	kaz	Иващенко	np-cog	tat	Иващенко	np-cog$np-cog-mf
+	kaz	Ивченко	np-cog	tat	Ивченко	np-cog$np-cog-mf
+	kaz	Ильющенко	np-cog	tat	Ильющенко	np-cog$np-cog-mf
+	kaz	Кальвин	np-cog	tat	Кальвин	np-cog$np-cog-mf
+	kaz	Кант	np-cog	tat	Кант	np-cog$np-cog-mf
 	kaz	Карзай	np-cog-mf	tat	Карзай	np-cog-mf
-	kaz	Карпенко	np-cog	tat	Карпенко	np-cog
+	kaz	Карпенко	np-cog	tat	Карпенко	np-cog$np-cog-mf
 	kaz	Кастро	np-cog-mf	tat	Кастро	np-cog-mf
-	kaz	Кей	np-cog	tat	Кей	np-cog
-	kaz	Кеплер	np-cog$np-cog-mf	tat	Кеплер	np-cog
-	kaz	Китаенко	np-cog	tat	Китаенко	np-cog
-	kaz	Клименко	np-cog	tat	Клименко	np-cog
+	kaz	Кей	np-cog	tat	Кей	np-cog$np-cog-mf
+	kaz	Кеплер	np-cog$np-cog-mf	tat	Кеплер	np-cog$np-cog-mf
+	kaz	Китаенко	np-cog	tat	Китаенко	np-cog$np-cog-mf
+	kaz	Клименко	np-cog	tat	Клименко	np-cog$np-cog-mf
 	kaz	Клинтон	np-cog-mf	tat	Клинтон	np-cog-mf
-	kaz	Кносс	np-cog	tat	Кносс	np-cog
-	kaz	Ковалевский	np-cog	tat	Ковалевский	np-cog
-	kaz	Коваленко	np-cog	tat	Коваленко	np-cog
-	kaz	Колесниченко	np-cog	tat	Колесниченко	np-cog
-	kaz	Колумб	np-cog	tat	Колумб	np-cog
-	kaz	Кондратенко	np-cog	tat	Кондратенко	np-cog
-	kaz	Кононенко	np-cog	tat	Кононенко	np-cog
-	kaz	Короленко	np-cog	tat	Короленко	np-cog
-	kaz	Кравченко	np-cog	tat	Кравченко	np-cog
-	kaz	Крамаренко	np-cog	tat	Крамаренко	np-cog
-	kaz	Крыленко	np-cog	tat	Крыленко	np-cog
-	kaz	Кузьменко	np-cog	tat	Кузьменко	np-cog
-	kaz	Курзенко	np-cog	tat	Курзенко	np-cog
-	kaz	Кучеренко	np-cog	tat	Кучеренко	np-cog
-	kaz	Кушнаренко	np-cog	tat	Кушнаренко	np-cog
+	kaz	Кносс	np-cog	tat	Кносс	np-cog$np-cog-mf
+	kaz	Ковалевский	np-cog	tat	Ковалевский	np-cog$np-cog-mf
+	kaz	Коваленко	np-cog	tat	Коваленко	np-cog$np-cog-mf
+	kaz	Колесниченко	np-cog	tat	Колесниченко	np-cog$np-cog-mf
+	kaz	Колумб	np-cog	tat	Колумб	np-cog$np-cog-mf
+	kaz	Кондратенко	np-cog	tat	Кондратенко	np-cog$np-cog-mf
+	kaz	Кононенко	np-cog	tat	Кононенко	np-cog$np-cog-mf
+	kaz	Короленко	np-cog	tat	Короленко	np-cog$np-cog-mf
+	kaz	Кравченко	np-cog	tat	Кравченко	np-cog$np-cog-mf
+	kaz	Крамаренко	np-cog	tat	Крамаренко	np-cog$np-cog-mf
+	kaz	Крыленко	np-cog	tat	Крыленко	np-cog$np-cog-mf
+	kaz	Кузьменко	np-cog	tat	Кузьменко	np-cog$np-cog-mf
+	kaz	Курзенко	np-cog	tat	Курзенко	np-cog$np-cog-mf
+	kaz	Кучеренко	np-cog	tat	Кучеренко	np-cog$np-cog-mf
+	kaz	Кушнаренко	np-cog	tat	Кушнаренко	np-cog$np-cog-mf
 	kaz	Кэмерон	np-cog-mf	tat	Кэмерон	np-cog-mf
-	kaz	Лавриненко	np-cog	tat	Лавриненко	np-cog
-	kaz	Лазаренко	np-cog	tat	Лазаренко	np-cog
-	kaz	Левченко	np-cog	tat	Левченко	np-cog
-	kaz	Лелюшенко	np-cog	tat	Лелюшенко	np-cog
-	kaz	Лессинг	np-cog	tat	Лессинг	np-cog
-	kaz	Лещенко	np-cog	tat	Лещенко	np-cog
+	kaz	Лавриненко	np-cog	tat	Лавриненко	np-cog$np-cog-mf
+	kaz	Лазаренко	np-cog	tat	Лазаренко	np-cog$np-cog-mf
+	kaz	Левченко	np-cog	tat	Левченко	np-cog$np-cog-mf
+	kaz	Лелюшенко	np-cog	tat	Лелюшенко	np-cog$np-cog-mf
+	kaz	Лессинг	np-cog	tat	Лессинг	np-cog$np-cog-mf
+	kaz	Лещенко	np-cog	tat	Лещенко	np-cog$np-cog-mf
 	kaz	Ли	np-cog-mf	tat	Ли	np-cog-mf
-	kaz	Линкольн	np-cog	tat	Линкольн	np-cog
-	kaz	Линней	np-cog	tat	Линней	np-cog
-	kaz	Логвиненко	np-cog	tat	Логвиненко	np-cog
-	kaz	Локк	np-cog	tat	Локк	np-cog
+	kaz	Линкольн	np-cog	tat	Линкольн	np-cog$np-cog-mf
+	kaz	Линней	np-cog	tat	Линней	np-cog$np-cog-mf
+	kaz	Логвиненко	np-cog	tat	Логвиненко	np-cog$np-cog-mf
+	kaz	Локк	np-cog	tat	Локк	np-cog$np-cog-mf
 	kaz	Лукашенко	np-cog-mf	tat	Лукашенко	np-cog-mf
-	kaz	Лукьяненко	np-cog	tat	Лукьяненко	np-cog
-	kaz	Луценко	np-cog	tat	Луценко	np-cog
-	kaz	Лысенко	np-cog	tat	Лысенко	np-cog
+	kaz	Лукьяненко	np-cog	tat	Лукьяненко	np-cog$np-cog-mf
+	kaz	Луценко	np-cog	tat	Луценко	np-cog$np-cog-mf
+	kaz	Лысенко	np-cog	tat	Лысенко	np-cog$np-cog-mf
 	kaz	Лю	np-cog-mf	tat	Лю	np-cog-mf
 	kaz	Мавлоний	np-cog-mf	tat	Мавлоний	np-cog-mf
-	kaz	Магеллан	np-cog	tat	Магеллан	np-cog
-	kaz	Макаренко	np-cog	tat	Макаренко	np-cog
-	kaz	Максименко	np-cog	tat	Максименко	np-cog
-	kaz	Мақсуди	np-cog	tat	Максуди	np-cog
-	kaz	Манко	np-cog	tat	Манко	np-cog
+	kaz	Магеллан	np-cog	tat	Магеллан	np-cog$np-cog-mf
+	kaz	Макаренко	np-cog	tat	Макаренко	np-cog$np-cog-mf
+	kaz	Максименко	np-cog	tat	Максименко	np-cog$np-cog-mf
+	kaz	Мақсуди	np-cog	tat	Максуди	np-cog$np-cog-mf
+	kaz	Манко	np-cog	tat	Манко	np-cog$np-cog-mf
 	kaz	Марғұлан	np-cog-mf	tat	Маргулан	np-cog-mf
-	kaz	Маркс	np-cog$np-cog-m	tat	Маркс	np-cog
-	kaz	Марченко	np-cog$np-cog-mf	tat	Марченко	np-cog
-	kaz	Маршал	np-cog	tat	Маршал	np-cog
-	kaz	Матвеенко	np-cog	tat	Матвеенко	np-cog
-	kaz	Матвиенко	np-cog	tat	Матвиенко	np-cog
+	kaz	Маркс	np-cog$np-cog-m	tat	Маркс	np-cog$np-cog-mf
+	kaz	Марченко	np-cog$np-cog-mf	tat	Марченко	np-cog$np-cog-mf
+	kaz	Маршал	np-cog	tat	Маршал	np-cog$np-cog-mf
+	kaz	Матвеенко	np-cog	tat	Матвеенко	np-cog$np-cog-mf
+	kaz	Матвиенко	np-cog	tat	Матвиенко	np-cog$np-cog-mf
 	kaz	Машкевич	np-cog-mf	tat	Машкевич	np-cog-mf
-	kaz	Мейер	np-cog	tat	Мейер	np-cog
-	kaz	Мендель	np-cog	tat	Мендель	np-cog
-	kaz	Мендельсон	np-cog$np-cog-mf	tat	Мендельсон	np-cog
+	kaz	Мейер	np-cog	tat	Мейер	np-cog$np-cog-mf
+	kaz	Мендель	np-cog	tat	Мендель	np-cog$np-cog-mf
+	kaz	Мендельсон	np-cog$np-cog-mf	tat	Мендельсон	np-cog$np-cog-mf
 	kaz	Меркель	np-cog-mf	tat	Меркель	np-cog-mf
-	kaz	Мирошниченко	np-cog	tat	Мирошниченко	np-cog
-	kaz	Михайленко	np-cog	tat	Михайленко	np-cog
-	kaz	Мокиенко	np-cog	tat	Мокиенко	np-cog
-	kaz	Мольер	np-cog	tat	Мольер	np-cog
-	kaz	Монтень	np-cog	tat	Монтень	np-cog
-	kaz	Москаленко	np-cog	tat	Москаленко	np-cog
-	kaz	Муравленко	np-cog	tat	Муравленко	np-cog
-	kaz	Нахименко	np-cog	tat	Нахименко	np-cog
-	kaz	Ни	np-cog	tat	Ни	np-cog
-	kaz	Низами	np-cog	tat	Низами	np-cog
-	kaz	Никитенко	np-cog	tat	Никитенко	np-cog
-	kaz	Никитченко	np-cog	tat	Никитченко	np-cog
-	kaz	Николаенко	np-cog	tat	Николаенко	np-cog
+	kaz	Мирошниченко	np-cog	tat	Мирошниченко	np-cog$np-cog-mf
+	kaz	Михайленко	np-cog	tat	Михайленко	np-cog$np-cog-mf
+	kaz	Мокиенко	np-cog	tat	Мокиенко	np-cog$np-cog-mf
+	kaz	Мольер	np-cog	tat	Мольер	np-cog$np-cog-mf
+	kaz	Монтень	np-cog	tat	Монтень	np-cog$np-cog-mf
+	kaz	Москаленко	np-cog	tat	Москаленко	np-cog$np-cog-mf
+	kaz	Муравленко	np-cog	tat	Муравленко	np-cog$np-cog-mf
+	kaz	Нахименко	np-cog	tat	Нахименко	np-cog$np-cog-mf
+	kaz	Ни	np-cog	tat	Ни	np-cog$np-cog-mf
+	kaz	Низами	np-cog	tat	Низами	np-cog$np-cog-mf
+	kaz	Никитенко	np-cog	tat	Никитенко	np-cog$np-cog-mf
+	kaz	Никитченко	np-cog	tat	Никитченко	np-cog$np-cog-mf
+	kaz	Николаенко	np-cog	tat	Николаенко	np-cog$np-cog-mf
 	kaz	Нобель	np-cog-mf	tat	Нобель	np-cog-mf
-	kaz	Ньютон	np-cog	tat	Ньютон	np-cog
+	kaz	Ньютон	np-cog	tat	Ньютон	np-cog$np-cog-mf
 	kaz	Обама	np-cog-mf	tat	Обама	np-cog-mf
-	kaz	Овсеенко	np-cog	tat	Овсеенко	np-cog
-	kaz	Онищенко	np-cog	tat	Онищенко	np-cog
-	kaz	Онуфриенко	np-cog	tat	Онуфриенко	np-cog
-	kaz	Основьяненко	np-cog	tat	Основьяненко	np-cog
+	kaz	Овсеенко	np-cog	tat	Овсеенко	np-cog$np-cog-mf
+	kaz	Онищенко	np-cog	tat	Онищенко	np-cog$np-cog-mf
+	kaz	Онуфриенко	np-cog	tat	Онуфриенко	np-cog$np-cog-mf
+	kaz	Основьяненко	np-cog	tat	Основьяненко	np-cog$np-cog-mf
 	kaz	Панеке	np-cog-mf	tat	Панеке	np-cog-mf
-	kaz	Паскаль	np-cog	tat	Паскаль	np-cog
-	kaz	Пахоменко	np-cog	tat	Пахоменко	np-cog
-	kaz	Перес	np-cog-mf$np-cog	tat	Перес	np-cog
+	kaz	Паскаль	np-cog	tat	Паскаль	np-cog$np-cog-mf
+	kaz	Пахоменко	np-cog	tat	Пахоменко	np-cog$np-cog-mf
+	kaz	Перес	np-cog-mf$np-cog	tat	Перес	np-cog$np-cog-mf
 	kaz	Петреус	np-cog-mf	tat	Петреус	np-cog-mf
-	kaz	Планк	np-cog	tat	Планк	np-cog
+	kaz	Планк	np-cog	tat	Планк	np-cog$np-cog-mf
 	kaz	Платини	np-cog-mf	tat	Платини	np-cog-mf
-	kaz	Полтавченко	np-cog	tat	Полтавченко	np-cog
-	kaz	Порошенко	np-cog	tat	Порошенко	np-cog
-	kaz	Пришепенко	np-cog	tat	Пришепенко	np-cog
-	kaz	Прохоренко	np-cog	tat	Прохоренко	np-cog
-	kaz	Пустовойтенко	np-cog	tat	Пустовойтенко	np-cog
-	kaz	Радченко	np-cog	tat	Радченко	np-cog
-	kaz	Ревенко	np-cog	tat	Ревенко	np-cog
-	kaz	Рено	np-cog	tat	Рено	np-cog
-	kaz	Родзянко	np-cog	tat	Родзянко	np-cog
-	kaz	Родченко	np-cog	tat	Родченко	np-cog
-	kaz	Романенко	np-cog	tat	Романенко	np-cog
-	kaz	Ромни	np-cog	tat	Ромни	np-cog
-	kaz	Ронко	np-cog	tat	Ронко	np-cog
-	kaz	Росковшенко	np-cog	tat	Росковшенко	np-cog
-	kaz	Руденко	np-cog	tat	Руденко	np-cog
-	kaz	Рузвельт	np-cog$np-cog-m	tat	Рузвельт	np-cog
-	kaz	Руссо	np-cog	tat	Руссо	np-cog
-	kaz	Рыженко	np-cog	tat	Рыженко	np-cog
-	kaz	Сааведра	np-cog	tat	Сааведра	np-cog
+	kaz	Полтавченко	np-cog	tat	Полтавченко	np-cog$np-cog-mf
+	kaz	Порошенко	np-cog	tat	Порошенко	np-cog$np-cog-mf
+	kaz	Пришепенко	np-cog	tat	Пришепенко	np-cog$np-cog-mf
+	kaz	Прохоренко	np-cog	tat	Прохоренко	np-cog$np-cog-mf
+	kaz	Пустовойтенко	np-cog	tat	Пустовойтенко	np-cog$np-cog-mf
+	kaz	Радченко	np-cog	tat	Радченко	np-cog$np-cog-mf
+	kaz	Ревенко	np-cog	tat	Ревенко	np-cog$np-cog-mf
+	kaz	Рено	np-cog	tat	Рено	np-cog$np-cog-mf
+	kaz	Родзянко	np-cog	tat	Родзянко	np-cog$np-cog-mf
+	kaz	Родченко	np-cog	tat	Родченко	np-cog$np-cog-mf
+	kaz	Романенко	np-cog	tat	Романенко	np-cog$np-cog-mf
+	kaz	Ромни	np-cog	tat	Ромни	np-cog$np-cog-mf
+	kaz	Ронко	np-cog	tat	Ронко	np-cog$np-cog-mf
+	kaz	Росковшенко	np-cog	tat	Росковшенко	np-cog$np-cog-mf
+	kaz	Руденко	np-cog	tat	Руденко	np-cog$np-cog-mf
+	kaz	Рузвельт	np-cog$np-cog-m	tat	Рузвельт	np-cog$np-cog-mf
+	kaz	Руссо	np-cog	tat	Руссо	np-cog$np-cog-mf
+	kaz	Рыженко	np-cog	tat	Рыженко	np-cog$np-cog-mf
+	kaz	Сааведра	np-cog	tat	Сааведра	np-cog$np-cog-mf
 	kaz	Сабиров	np-cog	tat	Сабиров	np-cog
-	kaz	Савченко	np-cog	tat	Савченко	np-cog
-	kaz	Санко	np-cog	tat	Санко	np-cog
+	kaz	Савченко	np-cog	tat	Савченко	np-cog$np-cog-mf
+	kaz	Санко	np-cog	tat	Санко	np-cog$np-cog-mf
 	kaz	Саркози	np-cog-mf	tat	Саркози	np-cog-mf
 	kaz	Сатыбалды	np-cog-mf	tat	Сатыбалды	np-cog-mf
 	kaz	Сәрсенбайұлы	np-cog-mf	tat	Cәрсенбайулы	np-cog-mf
-	kaz	Святенко	np-cog	tat	Святенко	np-cog
-	kaz	Семененко	np-cog	tat	Семененко	np-cog
-	kaz	Сиданко	np-cog	tat	Сиданко	np-cog
-	kaz	Сидоренко	np-cog	tat	Сидоренко	np-cog
-	kaz	Силенко	np-cog	tat	Силенко	np-cog
-	kaz	Сонко	np-cog	tat	Сонко	np-cog
-	kaz	Старченко	np-cog	tat	Старченко	np-cog
-	kaz	Стэнли	np-cog	tat	Стэнли	np-cog
+	kaz	Святенко	np-cog	tat	Святенко	np-cog$np-cog-mf
+	kaz	Семененко	np-cog	tat	Семененко	np-cog$np-cog-mf
+	kaz	Сиданко	np-cog	tat	Сиданко	np-cog$np-cog-mf
+	kaz	Сидоренко	np-cog	tat	Сидоренко	np-cog$np-cog-mf
+	kaz	Силенко	np-cog	tat	Силенко	np-cog$np-cog-mf
+	kaz	Сонко	np-cog	tat	Сонко	np-cog$np-cog-mf
+	kaz	Старченко	np-cog	tat	Старченко	np-cog$np-cog-mf
+	kaz	Стэнли	np-cog	tat	Стэнли	np-cog$np-cog-mf
 	kaz	Сюй	np-cog-mf	tat	Сюй	np-cog-mf
-	kaz	Телесинко	np-cog	tat	Телесинко	np-cog
-	kaz	Теличенко	np-cog	tat	Теличенко	np-cog
+	kaz	Телесинко	np-cog	tat	Телесинко	np-cog$np-cog-mf
+	kaz	Теличенко	np-cog	tat	Теличенко	np-cog$np-cog-mf
 	kaz	Тимошенко	np-cog-mf	tat	Тимошенко	np-cog-mf
-	kaz	Тирмизи	np-cog	tat	Тирмизи	np-cog
-	kaz	Титаренко	np-cog	tat	Титаренко	np-cog
-	kaz	Ткаченко	np-cog	tat	Ткаченко	np-cog
+	kaz	Тирмизи	np-cog	tat	Тирмизи	np-cog$np-cog-mf
+	kaz	Титаренко	np-cog	tat	Титаренко	np-cog$np-cog-mf
+	kaz	Ткаченко	np-cog	tat	Ткаченко	np-cog$np-cog-mf
 	kaz	Тұяқбай	np-cog-mf	tat	Тоякбай	np-cog-mf
-	kaz	Угоренко	np-cog	tat	Угоренко	np-cog
-	kaz	Федосеенко	np-cog	tat	Федосеенко	np-cog
-	kaz	Филиппенко	np-cog	tat	Филиппенко	np-cog
-	kaz	Фламенко	np-cog	tat	Фламенко	np-cog
-	kaz	Фоменко	np-cog	tat	Фоменко	np-cog
-	kaz	Франко	np-cog	tat	Франко	np-cog
-	kaz	Фридман	np-cog	tat	Фридман	np-cog
-	kaz	Фурсенко	np-cog	tat	Фурсенко	np-cog
-	kaz	Ханко	np-cog	tat	Ханко	np-cog
-	kaz	Холбрук	np-cog	tat	Холбрук	np-cog
-	kaz	Хоменко	np-cog	tat	Хоменко	np-cog
-	kaz	Христенко	np-cog	tat	Христенко	np-cog
+	kaz	Угоренко	np-cog	tat	Угоренко	np-cog$np-cog-mf
+	kaz	Федосеенко	np-cog	tat	Федосеенко	np-cog$np-cog-mf
+	kaz	Филиппенко	np-cog	tat	Филиппенко	np-cog$np-cog-mf
+	kaz	Фламенко	np-cog	tat	Фламенко	np-cog$np-cog-mf
+	kaz	Фоменко	np-cog	tat	Фоменко	np-cog$np-cog-mf
+	kaz	Франко	np-cog	tat	Франко	np-cog$np-cog-mf
+	kaz	Фридман	np-cog	tat	Фридман	np-cog$np-cog-mf
+	kaz	Фурсенко	np-cog	tat	Фурсенко	np-cog$np-cog-mf
+	kaz	Ханко	np-cog	tat	Ханко	np-cog$np-cog-mf
+	kaz	Холбрук	np-cog	tat	Холбрук	np-cog$np-cog-mf
+	kaz	Хоменко	np-cog	tat	Хоменко	np-cog$np-cog-mf
+	kaz	Христенко	np-cog	tat	Христенко	np-cog$np-cog-mf
 	kaz	Ху	np-cog-mf	tat	Ху	np-cog-mf
 	kaz	Хьюман	np-cog-mf	tat	Хьюман	np-cog-mf
-	kaz	Челах	np-cog	tat	Челах	np-cog
-	kaz	Червиченко	np-cog	tat	Червиченко	np-cog
-	kaz	Червоненко	np-cog	tat	Червоненко	np-cog
-	kaz	Черевиченко	np-cog	tat	Черевиченко	np-cog
-	kaz	Черенко	np-cog	tat	Черенко	np-cog
-	kaz	Черненко	np-cog	tat	Черненко	np-cog
-	kaz	Черчилль	np-cog$np-cog-mf	tat	Черчилль	np-cog
+	kaz	Челах	np-cog	tat	Челах	np-cog$np-cog-mf
+	kaz	Червиченко	np-cog	tat	Червиченко	np-cog$np-cog-mf
+	kaz	Червоненко	np-cog	tat	Червоненко	np-cog$np-cog-mf
+	kaz	Черевиченко	np-cog	tat	Черевиченко	np-cog$np-cog-mf
+	kaz	Черенко	np-cog	tat	Черенко	np-cog$np-cog-mf
+	kaz	Черненко	np-cog	tat	Черненко	np-cog$np-cog-mf
+	kaz	Черчилль	np-cog$np-cog-mf	tat	Черчилль	np-cog$np-cog-mf
 	kaz	Шварценберг	np-cog-mf	tat	Шварценберг	np-cog-mf
-	kaz	Шевченко	np-cog	tat	Шевченко	np-cog
-	kaz	Шевченко	np-cog	tat	Шевченко	np-cog
-	kaz	Шекспир	np-cog$np-cog-mf	tat	Шекспир	np-cog
-	kaz	Шиллер	np-cog$np-cog-m	tat	Шиллер	np-cog
-	kaz	Шинкаренко	np-cog	tat	Шинкаренко	np-cog
-	kaz	Шинко	np-cog	tat	Шинко	np-cog
-	kaz	Шуляченко	np-cog	tat	Шуляченко	np-cog
+	kaz	Шевченко	np-cog	tat	Шевченко	np-cog$np-cog-mf
+	kaz	Шевченко	np-cog	tat	Шевченко	np-cog$np-cog-mf
+	kaz	Шекспир	np-cog$np-cog-mf	tat	Шекспир	np-cog$np-cog-mf
+	kaz	Шиллер	np-cog$np-cog-m	tat	Шиллер	np-cog$np-cog-mf
+	kaz	Шинкаренко	np-cog	tat	Шинкаренко	np-cog$np-cog-mf
+	kaz	Шинко	np-cog	tat	Шинко	np-cog$np-cog-mf
+	kaz	Шуляченко	np-cog	tat	Шуляченко	np-cog$np-cog-mf
 	kaz	Эванс	np-cog-mf	tat	Эванс	np-cog-mf
-	kaz	Эйнштейн	np-cog$np-cog-mf	tat	Эйнштейн	np-cog
-	kaz	Энгельс	np-cog	tat	Энгельс	np-cog
-	kaz	Юм	np-cog	tat	Юм	np-cog
+	kaz	Эйнштейн	np-cog$np-cog-mf	tat	Эйнштейн	np-cog$np-cog-mf
+	kaz	Энгельс	np-cog	tat	Энгельс	np-cog$np-cog-mf
+	kaz	Юм	np-cog	tat	Юм	np-cog$np-cog-mf
 	kaz	Ющенко	np-cog-mf	tat	Ющенко	np-cog-mf
-	kaz	Якеменко	np-cog	tat	Якеменко	np-cog
-	kaz	Яковенко	np-cog	tat	Яковенко	np-cog
-	kaz	Якубенко	np-cog	tat	Якубенко	np-cog
-	kaz	Янко	np-cog	tat	Янко	np-cog
+	kaz	Якеменко	np-cog	tat	Якеменко	np-cog$np-cog-mf
+	kaz	Яковенко	np-cog	tat	Яковенко	np-cog$np-cog-mf
+	kaz	Якубенко	np-cog	tat	Якубенко	np-cog$np-cog-mf
+	kaz	Янко	np-cog	tat	Янко	np-cog$np-cog-mf
 	kaz	Янукович	np-cog-mf	tat	Янукович	np-cog-mf
-	kaz	Ясауи	np-cog	tat	Ясави	np-cog
-	kaz	Яценко	np-cog	tat	Яценко	np-cog
+	kaz	Ясауи	np-cog	tat	Ясави	np-cog$np-cog-mf
+	kaz	Яценко	np-cog	tat	Яценко	np-cog$np-cog-mf
 	kaz	Абайділданов	np-cog	tat	Абайделданов	np-cog
 	kaz	Абдолов	np-cog	tat	Абдолов	np-cog
 	kaz	Абдрахманов	np-cog	tat	Абдрахманов	np-cog
@@ -7046,7 +7046,7 @@ LR	kaz	еуропалық	adj	tat	Аурупа	np-top$np-top-attr
 	kaz	антропологиялық	adj	tat	антропологик	adj
 	kaz	антропологиялық	adj	tat	антропологик	adj
 	kaz	апелляциялық	adj	tat	апелляцион	adj
-	kaz	апелляциялық	adj	tat	апелляция	n-attr
+	kaz	апелляциялық	adj	tat	апелляция	n$n-attr
 	kaz	араз	adj	tat	талашкан	adj
 	kaz	арктикалық	adj	tat	арктик	adj
 	kaz	артиллериялық	adj	tat	артиллерик	adj
@@ -7790,7 +7790,7 @@ RL	kaz	кішкентай	adj	tat	бәләкәй	adj
 	kaz	нық	adj	tat	нык	adj$adj-advl
 	kaz	облыстық	adj	tat	өлкә	n$n-attr
 	kaz	оқшау	adj$adj-advl	tat	аерым	adj$adj-advl
-	kaz	оқшау	adj$adj-advl	tat	аерымлан	v-iv-gpr_past
+	kaz	оқшау	adj$adj-advl	tat	аерымлан	v-iv$v-iv-gpr_past
 	kaz	оқшау	adj$adj-advl	tat	аерыл	v-iv$v-iv-prc_perf
 	kaz	оң	adj	tat	уң	adj
 	kaz	оңай	adj	tat	җиңел	adj$adj-advl
@@ -7898,9 +7898,9 @@ LR	kaz	түпкілікті	adj	tat	төпле	adj$adj-advl
 RL	kaz	еш қашан	adv$adv-itg	tat	һичкайчан	adv
 	kaz	ешқашан	adv	tat	беркайчан да	adv
 	kaz	ешқашан	adv	tat	һичкайчан	adv
-	kaz	қайда	adv-itg$adv	tat	кайда	adv-itg$adv
-RL	kaz	қайда	adv-itg$adv	tat	кая	adv-itg$adv
-	kaz	қайдан	adv-itg	tat	кайдан	adv$adv-itg
+	kaz	қайда	adv-itg$adv	tat	кайда	adv-itg
+RL	kaz	қайда	adv-itg$adv	tat	кая	adv-itg
+	kaz	қайдан	adv-itg	tat	кайдан	adv-itg
 	kaz	қалай	adv-itg	tat	ничек	adv$adv-itg
 	kaz	қалайша	adv	tat	ник алай	adv
 	kaz	қаншалық	adv$adv-itg	tat	никадәр	adv-itg$adv
@@ -9677,7 +9677,7 @@ LR	kaz	шай	v-tv	tat	чайка	v-tv
 	kaz	шегеле	v-tv	tat	кадакла	v-tv
 	kaz	шегін	v-iv	tat	чиген	v-iv
 	kaz	шек	v-tv	tat	чик	v-tv
-	kaz	шекте	v-tv	tat	чиклә	v-tv
+	kaz	шекте	v-tv	tat	чиклә	v-tv$v-tv-coop
 	kaz	шеш	v-tv$v-tv-neg	tat	чиш	v-tv
 	kaz	шиелен	v-iv	tat	чиялән	v-iv
 	kaz	шілте	v-tv	tat	шелтәлә	v-tv

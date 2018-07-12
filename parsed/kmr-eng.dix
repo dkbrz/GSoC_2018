@@ -216,7 +216,7 @@ LR	kmr	ev	prn-dem-mf-sp	eng	this	prn-dem-mf-ND
 	kmr	hukm	n-m	eng	verdict	n
 	kmr	cemser	n-m	eng	pole	n$n-sg
 	kmr	dergeh	n-f	eng	shrine	n$n-ND
-	kmr	dergeh	n-f	eng	gate	n$n-ND
+	kmr	dergeh	n-f	eng	gate	n$n-pl
 	kmr	dergeh	n-f	eng	door	n$n-sg
 	kmr	keya	n-m	eng	mayor	n$n-sg
 	kmr	asl	n-m	eng	origin	n$n-ND
@@ -623,7 +623,7 @@ LR	kmr	ev	prn-dem-mf-sp	eng	this	prn-dem-mf-ND
 	kmr	weşanger	n-m	eng	publisher	n$n-ND
 	kmr	bazirgan	n-m	eng	merchant	n$n-sg
 	kmr	bestekar	n-m	eng	composer	n$n-ND
-	kmr	bihuşt	n-f	eng	heaven	n$n-ND
+	kmr	bihuşt	n-f	eng	heaven	n$n-pl
 	kmr	bindestî	n-f	eng	captivity	n$n-ND
 	kmr	bindestî	n-f	eng	oppression	n$n-sg
 	kmr	demjimêr	n-f	eng	hour	n$n-ND
@@ -811,7 +811,7 @@ LR	kmr	ev	prn-dem-mf-sp	eng	this	prn-dem-mf-ND
 	kmr	benî	n-m	eng	pepperoni	n
 	kmr	benî	n-f	eng	captivity	n$n-ND
 	kmr	benî	n-m	eng	captivity	n$n-ND
-	kmr	karsaz	n-m	eng	businessman	n
+	kmr	karsaz	n-m	eng	businessman	n$n-pl
 	kmr	kereng	n-f	eng	thistle	n
 RL	kmr	kinc	n-f	eng	laundry	n$n-sg
 RL	kmr	kinc	n-f	eng	outfit	n
@@ -1985,11 +1985,11 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	daxuyanî	n-f	eng	statement	n$n-ND
 	kmr	çareserî	n-f	eng	solution	n$n-sg
 	kmr	birrîn	n-f	eng	shearing	n
-	kmr	birrîn	n-f	eng	cutting	n
+	kmr	birrîn	n-f	eng	cutting	n$n-pl
 	kmr	birrîn	n-f	eng	depletion	n
 	kmr	birrîn	n-f	eng	extinction	n
 	kmr	birîn	n-f	eng	shearing	n
-	kmr	birîn	n-f	eng	cutting	n
+	kmr	birîn	n-f	eng	cutting	n$n-pl
 	kmr	birîn	n-f	eng	depletion	n
 	kmr	birîn	n-f	eng	extinction	n
 	kmr	bere	n-f	eng	front	n$n-sg
@@ -2232,8 +2232,8 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	asêgeh	n-f	eng	*fortification	n
 	kmr	asfalt	n-f	eng	asphalt	n$n-ND
 	kmr	asîd	n-f	eng	acid	n$n-ND
-	kmr	asiman	n-m	eng	heaven	n$n-ND
-	kmr	asîman	n-m	eng	heaven	n$n-ND
+	kmr	asiman	n-m	eng	heaven	n$n-pl
+	kmr	asîman	n-m	eng	heaven	n$n-pl
 	kmr	asîmîlasiyon	n-f	eng	assimilation	n$n-ND
 	kmr	asîmîlasyon	n-f	eng	assimilation	n$n-ND
 	kmr	asin	n-m	eng	iron	n$n-ND
@@ -2244,7 +2244,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	asîw	n-f	eng	calamity	n$n-sg
 	kmr	asîw	n-f	eng	catastrophe	n$n-ND
 	kmr	asîw	n-f	eng	*disasater	n
-	kmr	asman	n-m	eng	heaven	n$n-ND
+	kmr	asman	n-m	eng	heaven	n$n-pl
 	kmr	asman	n-m	eng	sky	n$n-unc
 	kmr	aşnayî	n-f	eng	*acquaintance	n
 	kmr	aşnayî	n-f	eng	*acquirement	n
@@ -2562,7 +2562,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	berberî	n-f	eng	comparison	n$n-ND
 	kmr	berber	n-f	eng	barber	n
 	kmr	berber	n-f	eng	hairdresser	n
-	kmr	berbes	n-f	eng	mineral	n$n-ND
+	kmr	berbes	n-f	eng	mineral	n$n-pl
 	kmr	berbihevhatin	n-f	eng	cooperation	n$n-ND
 	kmr	berbijar	n-f	eng	candidate	n$n-ND
 	kmr	berbînî	n-f	eng	vision	n$n-ND
@@ -2630,7 +2630,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	bêrî	n-f	eng	longing	n
 	kmr	berî	n-f	eng	pocket	n$n-ND
 	kmr	berkêşk	n-f	eng	desk	n$n-ND
-	kmr	berkurk	n-f	eng	crop	n$n-ND
+	kmr	berkurk	n-f	eng	crop	n$n-pl
 	kmr	bermîl	n-f	eng	barrel	n$n-sg
 	kmr	bermîl	n-f	eng	*cask	n
 	kmr	bermil	n-f	eng	load	n$n-ND
@@ -2698,7 +2698,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	beton	n-f	eng	concrete	n$n-sg
 	kmr	bêvil	n-f	eng	nose	n$n-sg
 	kmr	bêvîl	n-f	eng	nose	n$n-sg
-	kmr	bêvîl	n-f	eng	nostril	n$n-sg
+	kmr	bêvîl	n-f	eng	nostril	n$n-pl
 	kmr	bêxewî	n-f	eng	sleeplessness	n
 	kmr	bêxîretî	n-f	eng	laziness	n$n-unc
 	kmr	bêxîretî	n-f	eng	*sloth	n
@@ -2805,7 +2805,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	bişir	n-f	eng	smile	n$n-ND
 	kmr	bişiş	n-f	eng	smile	n$n-ND
 	kmr	biskêt	n-f	eng	biscuit	n$n-sg
-	kmr	biskêt	n-f	eng	cookie	n
+	kmr	biskêt	n-f	eng	cookie	n$n-pl
 	kmr	bişkoj	n-f	eng	bud	n$n-ND
 	kmr	bişkok	n-f	eng	button	n$n-sg
 	kmr	bişkurr	n-f	eng	smile	n$n-ND
@@ -2820,7 +2820,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	biv	n-m	eng	buzz	n
 	kmr	biwêj	n-f	eng	expression	n$n-ND
 	kmr	biwêj	n-f	eng	idiom	n
-	kmr	biwêj	n-f	eng	phrase	n$n-ND
+	kmr	biwêj	n-f	eng	phrase	n$n-pl
 	kmr	biyang	n-f	eng	evidence	n$n-unc
 	kmr	biyang	n-f	eng	proof	n$n-ND
 	kmr	biyang	n-f	eng	sign	n$n-sg
@@ -3202,7 +3202,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	cimhûriyet	n-f	eng	republic	n$n-sg
 	kmr	çinage	n-f	eng	chin	n$n-ND
 	kmr	çinage	n-f	eng	jaw	n
-	kmr	çinîn	n-f	eng	crop	n$n-ND
+	kmr	çinîn	n-f	eng	crop	n$n-pl
 	kmr	çinîn	n-f	eng	harvest	n$n-ND
 	kmr	cinîn	n-f	eng	orchard	n$n-ND
 	kmr	cî	n-m	eng	place	n$n-ND
@@ -3723,7 +3723,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	dîrok	n-f	eng	history	n$n-ND
 	kmr	dîrok	n-f	eng	story	n$n-ND
 	kmr	diro	n-f	eng	lie	n$n-ND
-	kmr	dirûn	n-f	eng	crop	n$n-ND
+	kmr	dirûn	n-f	eng	crop	n$n-pl
 	kmr	dirûn	n-f	eng	harvest	n$n-ND
 	kmr	dirûşm	n-f	eng	slogan	n$n-sg
 	kmr	dîsîplîn	n-f	eng	discipline	n$n-ND
@@ -4029,7 +4029,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	eşkele	n-f	eng	staple	n
 	kmr	esker	n-m	eng	soldier	n$n-ND$
 	kmr	eskîmoyî	n-f	eng	*Eskimo	n
-	kmr	esman	n-m	eng	heaven	n$n-ND
+	kmr	esman	n-m	eng	heaven	n$n-pl
 	kmr	esna	n-f	eng	course	n$n-ND
 	kmr	esna	n-f	eng	*intant	n
 	kmr	esna	n-f	eng	interval	n$n-sg
@@ -4097,7 +4097,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	ezim	n-f	eng	endeavour	n
 	kmr	ezim	n-f	eng	struggle	n$n-ND
 	kmr	êzing	n-m	eng	firewood	n$n-sg
-	kmr	ezman	n-m	eng	heaven	n$n-ND
+	kmr	ezman	n-m	eng	heaven	n$n-pl
 	kmr	ezman	n-m	eng	sky	n$n-unc
 	kmr	ezperistî	n-f	eng	*egoism	n
 	kmr	ezperistî	n-f	eng	selfishness	n$n-sg
@@ -4299,7 +4299,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	firrin	n-f	eng	*bakeshop	n
 	kmr	firr	n-f	eng	flight	n$n-ND
 	kmr	firr	n-f	eng	flying	n$n-ND
-	kmr	firrnik	n-f	eng	nostril	n$n-sg
+	kmr	firrnik	n-f	eng	nostril	n$n-pl
 	kmr	firroke	n-f	eng	aeroplane	n$n-ND
 	kmr	firroke	n-f	eng	airplane	n$n-ND
 	kmr	firtone	n-f	eng	gale	n
@@ -4696,7 +4696,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	gun	n-m	eng	*testis	n
 	kmr	gupik	n-f	eng	peak	n$n-ND
 	kmr	gupik	n-f	eng	top	n$n-ND
-	kmr	gurçik	n-f	eng	kidney	n$n-sg
+	kmr	gurçik	n-f	eng	kidney	n$n-pl
 	kmr	gurdarî	n-f	eng	attention	n$n-sg
 	kmr	gurîn	n-f	eng	*clamor	n
 	kmr	gurîn	n-f	eng	noise	n$n-sg
@@ -5069,7 +5069,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	hokar	n-m	eng	vocation	n$n-ND
 	kmr	hokey	n-f	eng	hockey	n$n-sg
 	kmr	hokey	n-f	eng	*puck	n
-	kmr	holdîng	n-f	eng	holding	n
+	kmr	holdîng	n-f	eng	holding	n$n-pl
 	kmr	holik	n-f	eng	hut	n$n-ND
 	kmr	hol	n-f	eng	ball	n$n-sg
 	kmr	hoparlor	n-f	eng	loudspeaker	n
@@ -5115,7 +5115,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	îbare	n-f	eng	*cluase	n
 	kmr	îbare	n-f	eng	expression	n$n-ND
 	kmr	îbare	n-f	eng	paragraph	n$n-ND
-	kmr	îbare	n-f	eng	phrase	n$n-ND
+	kmr	îbare	n-f	eng	phrase	n$n-pl
 	kmr	îbare	n-f	eng	section	n$n-sg
 	kmr	ibtida	n-f	eng	beginning	n$n-ND
 	kmr	ibtida	n-f	eng	commencement	n
@@ -5162,7 +5162,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	îdxal	n-f	eng	import	n$n-sg
 	kmr	îdyom	n-f	eng	expression	n$n-ND
 	kmr	îdyom	n-f	eng	idiom	n
-	kmr	îdyom	n-f	eng	phrase	n$n-ND
+	kmr	îdyom	n-f	eng	phrase	n$n-pl
 	kmr	ifade	n-f	eng	testimony	n$n-sg
 	kmr	iflas	n-f	eng	bankruptcy	n
 	kmr	îflas	n-f	eng	bankruptcy	n
@@ -5626,7 +5626,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	kehanet	n-f	eng	*oracular	n
 	kmr	kehanet	n-f	eng	prediction	n$n-ND
 	kmr	kehanet	n-f	eng	prophecy	n$n-ND
-	kmr	kêk	n-f	eng	cake	n$n-ND
+	kmr	kêk	n-f	eng	cake	n$n-pl
 	kmr	kêlbetan	n-m	eng	pliers	n$n-pl
 	kmr	kelef	n-m	eng	hank	n
 	kmr	kelef	n-m	eng	*skein	n
@@ -5744,7 +5744,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	keveşk	n-f	eng	*sculf	n
 	kmr	kevînk	n-f	eng	*headscarf	n
 	kmr	kevir	n-m	eng	stone	n$n-ND
-	kmr	kevjal	n-f	eng	crab	n
+	kmr	kevjal	n-f	eng	crab	n$n-pl
 	kmr	kevjal	n-f	eng	*crawfish	n
 	kmr	kevjal	n-f	eng	*crayfish	n
 	kmr	kevlan	n-m	eng	*scabbard	n
@@ -5868,7 +5868,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	kokaîn	n-f	eng	cocaine	n$n-ND
 	kmr	kok	n-f	eng	make-up	n
 	kmr	kok	n-f	eng	toilet	n$n-sg
-	kmr	kokteyl	n-f	eng	cocktail	n$n-sg
+	kmr	kokteyl	n-f	eng	cocktail	n$n-pl
 	kmr	kolaj	n-f	eng	collage	n
 	kmr	kolan	n-f	eng	*anteroom	n
 	kmr	kolan	n-f	eng	hall	n$n-sg
@@ -5899,7 +5899,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	komirr	n-f	eng	coal	n$n-ND
 	kmr	komîte	n-f	eng	committee	n$n-ND
 	kmr	komkujî	n-f	eng	massacre	n
-	kmr	kom	n-f	eng	pile	n$n-ND
+	kmr	kom	n-f	eng	pile	n$n-pl
 	kmr	kom	n-f	eng	group	n$n-sg
 	kmr	kompanya	n-f	eng	company	n$n-sg
 	kmr	kompanya	n-f	eng	concern	n$n-ND
@@ -6131,8 +6131,8 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	lêkolîner	n-m	eng	researcher	n$n-ND
 	kmr	lêkolîn	n-f	eng	research	n$n-ND
 	kmr	lenf	n-f	eng	lymph	n$n-sg
-	kmr	lepik	n-f	eng	glove	n$n-ND
-	kmr	lepik	n-m	eng	glove	n$n-ND
+	kmr	lepik	n-f	eng	glove	n$n-pl
+	kmr	lepik	n-m	eng	glove	n$n-pl
 	kmr	lep	n-m	eng	paw	n$n-sg
 	kmr	lêv	n-f	eng	lip	n$n-sg
 	kmr	lewhe	n-f	eng	sign	n$n-sg
@@ -6661,7 +6661,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	minasibet	n-f	eng	happening	n
 	kmr	minasibet	n-f	eng	occasion	n$n-ND
 	kmr	mindal	n-m	eng	child	n$n-pl
-	kmr	mîneral	n-f	eng	mineral	n$n-ND
+	kmr	mîneral	n-f	eng	mineral	n$n-pl
 	kmr	minet	n-f	eng	obligation	n$n-ND
 	kmr	mî	n-f	eng	sheep	n$n-sg
 	kmr	mî	n-m	eng	sheep	n$n-sg
@@ -6801,7 +6801,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	moşek	n-f	eng	missile	n$n-ND
 	kmr	motêl	n-f	eng	motel	n$n-sg
 	kmr	motîvasyon	n-f	eng	motivation	n$n-ND
-	kmr	motor	n-f	eng	engine	n$n-ND
+	kmr	motor	n-f	eng	engine	n$n-pl
 	kmr	motor	n-f	eng	motor	n$n-ND
 	kmr	movik	n-m	eng	joint	n$n-sg
 	kmr	movik	n-m	eng	*vertebra	n
@@ -7128,7 +7128,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	otoban	n-f	eng	*expressway	n
 	kmr	otoban	n-f	eng	*freeway	n
 	kmr	otoban	n-f	eng	motorway	n
-	kmr	otobûs	n-f	eng	bus	n$n-sg
+	kmr	otobûs	n-f	eng	bus	n$n-pl
 	kmr	otomobîl	n-f	eng	car	n$n-ND
 	kmr	otomobîl	n-f	eng	transport	n$n-ND
 	kmr	otomobîl	n-f	eng	vehicle	n$n-ND
@@ -8334,7 +8334,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	samîmiyet	n-f	eng	seriousness	n$n-ND
 	kmr	samîmiyet	n-f	eng	*sincereness	n
 	kmr	samogîtî	n-f	eng	*Samogitian	n
-	kmr	sandal	n-f	eng	sandal	n
+	kmr	sandal	n-f	eng	sandal	n$n-pl
 	kmr	şaneşîn	n-f	eng	balcony	n$n-ND
 	kmr	sa	n-f	eng	shadow	n$n-sg
 	kmr	şan	n-f	eng	*honeycomb	n
@@ -9501,7 +9501,7 @@ RL	kmr	kinc	n-f	eng	outfit	n
 	kmr	tomar	n-f	eng	register	n$n-ND
 	kmr	ton	n-f	eng	tone	n$n-ND
 	kmr	ton	n-m	eng	tonne	n$n-ND
-	kmr	topik	n-f	eng	pile	n$n-ND
+	kmr	topik	n-f	eng	pile	n$n-pl
 	kmr	top	n-f	eng	bankruptcy	n
 	kmr	top	n-f	eng	*cannonball	n
 	kmr	top	n-f	eng	cannon	n$n-ND

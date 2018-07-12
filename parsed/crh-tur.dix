@@ -51,8 +51,8 @@
 	crh	şu	prn-dem	tur	şu	prn-dem$prn-dem-dat
 	crh	şu	prn-dem	tur	bu	prn-dem$prn-dem-abl$prn
 	crh	ne	prn-itg	tur	ne	prn-itg$prn$prn-itg-abl
-	crh	kendi	prn-ref	tur	kendi	prn$prn-ref$$prn-ref-px3sp
-	crh	öz	prn-ref	tur	kendi	prn$prn-ref$$prn-ref-px3sp
+	crh	kendi	prn-ref	tur	kendi	prn-ref$prn$$prn-ref-px3sp
+	crh	öz	prn-ref	tur	kendi	prn-ref$prn$$prn-ref-px3sp
 	crh	o	prn	tur	o	prn-pers$prn$prn-pers-p3-sg
 	crh	men	prn-pers	tur	ben	prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-adv
 	crh	sen	prn-pers	tur	sen	prn-pers$prn-pers-p2-sg
@@ -78,7 +78,7 @@
 	crh	diger	det-ind	tur	diğer	adj$$adj-subst
 	crh	diger	prn-ind	tur	diğer	adj$$adj-subst
 	crh	cümle	det-ind	tur	bütün	det-qnt$det
-	crh	bazı	det-ind	tur	bazı	det-qnt$det
+	crh	bazı	det-ind	tur	bazı	det-qnt$det$
 	crh	bu	det-dem	tur	bu	det-dem$det$det-dem-qnt
 	crh	o	det-dem	tur	o	det-dem
 	crh	qaç	det-itg	tur	kaç	det-qnt
@@ -1439,7 +1439,7 @@ LR	crh	gvardiya	n$n-pl	tur	muhafız	n-pl$$n
 	crh	Lâtifzade	np-cog	tur	Latifzade	np-cog
 	crh	Davutoğlu	np-cog	tur	Davutoğlu	np$np-cog$np-cog-mf
 	crh	Roosevelt	np-cog	tur	Roosevelt	np-cog
-	crh	Hitler	np-cog	tur	Hitler	np-cog$np
+	crh	Hitler	np-cog	tur	Hitler	np-cog$np$np-cog-mf
 	crh	Otis	np-cog	tur	Otis	np-cog
 	crh	Müftizade	np-cog	tur	Müftizade	np-cog
 	crh	Necefzade	np-cog	tur	Necefzade	np-cog
@@ -1454,7 +1454,7 @@ LR	crh	gvardiya	n$n-pl	tur	muhafız	n-pl$$n
 	crh	İzmaylov	np-cog	tur	İzmaylov	
 	crh	Gülümoğlu	np-cog	tur	Gülümoğlu	np-cog
 	crh	Gözlev	np-cog	tur	Gözlev	
-	crh	Gitler	np-cog	tur	Hitler	np-cog$np
+	crh	Gitler	np-cog	tur	Hitler	np-cog$np$np-cog-mf
 	crh	Gagarin	np-cog	tur	Gagarin	
 	crh	Erdoğan	np-cog	tur	Erdoğan	np-cog-mf$np-cog
 	crh	Çergeyev	np-cog	tur	Çergeyev	
@@ -1775,7 +1775,7 @@ LR	crh	gvardiya	n$n-pl	tur	muhafız	n-pl$$n
 	crh	Abdülkerim	np-ant$np-ant-m	tur	Abdülkerim	np-ant-m$np-ant
 	crh	Abdülhakim	np-ant	tur	Abdülhakim	np-ant
 	crh	Abdulge	np-ant	tur	Abdülge	np-ant
-	crh	Abdülaziz	np-ant$np-ant-m	tur	Abdülaziz	np$np-ant$np-ant-m
+	crh	Abdülaziz	np-ant$np-ant-m	tur	Abdülaziz	np-ant-m$np$np-ant
 	crh	Abdulalim	np-ant	tur	Abdülalim	np-ant
 	crh	Abdulafat	np-ant	tur	Abdülafat	np-ant
 	crh	Abdu	np-ant	tur	Abdu	np-ant
@@ -2174,7 +2174,7 @@ LR	crh	gvardiya	n$n-pl	tur	muhafız	n-pl$$n
 	crh	Valeriy	np-ant$np-ant-m	tur	Valeriy	np-ant-m
 	crh	Yuriy	np-ant$np-ant-m	tur	Yuriy	np-ant-m
 	crh	Cengiz	np-ant$np-ant-m	tur	Cengiz	np-ant-m$np$np-ant
-	crh	Abdülaziz	np-ant$np-ant-m	tur	Abdülaziz	np$np-ant$np-ant-m
+	crh	Abdülaziz	np-ant$np-ant-m	tur	Abdülaziz	np-ant-m$np$np-ant
 	crh	Franz	np-ant$np-ant-m	tur	Franz	np-ant$np-ant-m
 	crh	Stalin	np-cog$np-cog-m	tur	Stalin	np-cog-mf$np$np-cog
 	crh	Putin	np-cog$np-cog-m	tur	Putin	np-cog-mf$np$np-cog
@@ -4476,7 +4476,7 @@ LR	crh	tuvğan	adj	tur	kendi	det-ref
 	crh	maddiy	adj	tur	maddi	adj
 	crh	mütenasip	adj	tur	uygun	adj$
 	crh	ufaq	adj	tur	ufak	adj$
-	crh	maliyeviy	adj	tur	mali	adj
+	crh	maliyeviy	adj	tur	mali	adj$
 	crh	ruhiy	adj	tur	ruhsal	adj
 	crh	tınç	adj	tur	barışçıl	adj$
 	crh	maneviy	adj	tur	manevi	adj$
@@ -4657,7 +4657,7 @@ LR	crh	tuvğan	adj	tur	kendi	det-ref
 	crh	ilmiy	adj	tur	ilmi	adj
 	crh	ilmiy	adj	tur	bilimsel	adj$
 	crh	meşur	adj	tur	meşhur	adj$
-	crh	ait	adj	tur	ait	post$
+	crh	ait	adj	tur	ait	post
 	crh	yüksek	adj	tur	yüksek	adj$
 	crh	daimiy	adj	tur	daimi	adj$
 	crh	balaban	adj	tur	büyük	adj$

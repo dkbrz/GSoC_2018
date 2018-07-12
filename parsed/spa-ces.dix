@@ -43,11 +43,11 @@
 	spa	de	pr$pr-det-def-m-sg	ces	z	pr
 	spa	por	pr	ces	za	pr
 	spa	masa	n-f$n$n-f-ND	ces	těsto	n-nt
-	spa	murciélago	n$n-m	ces	netopýr	n-mi
-	spa	lengua	n-f$n$n-f-ND	ces	jazyk	n-mi
-	spa	casa	n-f$n$n-f-sg	ces	dům	n-mi
+	spa	murciélago	n-m$n	ces	netopýr	n-mi
+	spa	lengua	n-f$n$n-f-ND	ces	jazyk	n-mi$n
+	spa	casa	n-f$n$n-f-sg	ces	dům	n-mi$n
 	spa	mujer	n-f$n$n-f-sg	ces	žena	n-f
-	spa	hombre	n-m$n$n-m-sg$	ces	muž	n-ma
+	spa	hombre	n-m$n$n-m-sg$	ces	muž	n-ma$n
 	spa	leer	vblex	ces	číst	vblex$vblex-imperf
 	spa	leer	vblex	ces	přečíst	vblex-perf$vblex
 	spa	financiero	adj$$adj-GD-ND	ces	finanční	adj
@@ -55,51 +55,51 @@
 	spa	democrático	adj$adj-GD$adj-GD-ND	ces	demokratický	adj
 	spa	vegetariano	adj$adj-m-sg	ces	vegetariánský	adj
 	spa	típico	adj$adj-GD-ND$adj-GD	ces	typický	adj
-LR	spa	niño	n$n-m$n-m-sg	ces	dítě	n-nt
-LR	spa	niño	n-f$n-f-sg	ces	dítě	n-nt
-RL	spa	niño	n-GD$n-GD-ND	ces	dítě	n-nt
-	spa	enero	n$n-m$n-m-sg	ces	leden	n-mi
-	spa	febrero	n$n-m$n-m-sg	ces	únor	n-mi
-	spa	marzo	n-m$n$n-m-sg	ces	březen	n-mi
-	spa	abril	n$n-m$n-m-sg	ces	duben	n-mi
+LR	spa	niño	n$n-m$n-m-sg	ces	dítě	n-nt$n
+LR	spa	niño	n-f$n-f-sg	ces	dítě	n-nt$n
+RL	spa	niño	n-GD$n-GD-ND	ces	dítě	n-nt$n
+	spa	enero	n$n-m$n-m-sg	ces	leden	n-mi$n
+	spa	febrero	n$n-m$n-m-sg	ces	únor	n-mi$n
+	spa	marzo	n-m$n$n-m-sg	ces	březen	n-mi$n
+	spa	abril	n$n-m$n-m-sg	ces	duben	n-mi$n
 RL	spa	mayo	n$n-m$n-m-sg	ces	maj	n-mi
-	spa	mayo	n$n-m$n-m-sg	ces	květen	n-mi
-	spa	junio	n$n-m$n-m-sg	ces	červen	n-mi
-	spa	julio	n$n-m$n-m-sg	ces	červenec	n-mi
-	spa	agosto	n$n-m$n-m-ND	ces	srpen	n-mi
-	spa	septiembre	n$n-m$n-m-ND	ces	září	n-mi
-	spa	octubre	n$n-m$n-m-ND	ces	říjen	n-mi
-	spa	noviembre	n$n-m$n-m-sg	ces	listopad	n-mi
-	spa	diciembre	n$n-m$n-m-ND	ces	prosinec	n-mi
+	spa	mayo	n$n-m$n-m-sg	ces	květen	n-mi$n
+	spa	junio	n$n-m$n-m-sg	ces	červen	n-mi$n
+	spa	julio	n$n-m$n-m-sg	ces	červenec	n-mi$n
+	spa	agosto	n$n-m$n-m-ND	ces	srpen	n-mi$n
+	spa	septiembre	n$n-m$n-m-ND	ces	září	n-mi$n
+	spa	octubre	n$n-m$n-m-ND	ces	říjen	n-mi$n
+	spa	noviembre	n$n-m$n-m-sg	ces	listopad	n-mi$n
+	spa	diciembre	n$n-m$n-m-ND	ces	prosinec	n-mi$n
 	spa	ardilla	n-f$n$n-f-ND	ces	vever	n-f
 	spa	avestruz	n-f$n	ces	pštros	n-ma
 	spa	vaca	n-f$n$n-f-ND	ces	kráva	n-f
 	spa	avellano	n-m$n	ces	zajíc	n-ma
-	spa	pato	n-mf	ces	kachna	n-f
-	spa	caballo	n$n-m$n-m-sg	ces	kůň	n-ma
-	spa	tortuga	n$n-f$n-f-sg	ces	želva	n-f
+	spa	pato	n-mf	ces	kachna	n-f$n
+	spa	caballo	n$n-m$n-m-sg	ces	kůň	n$n-ma
+	spa	tortuga	n-f$n$n-f-sg	ces	želva	n-f
 	spa	oveja	n$n-f$n-f-ND	ces	ovc	n-f
 	spa	rinoceronte	n$n-m$n-m-sg	ces	nosorož	n-ma
-	spa	lobo	n$n-m$n-m-ND	ces	vlk	n-ma
-	spa	garganta	n-f$n$n-f-sg	ces	krk	n-mi
+	spa	lobo	n$n-m$n-m-ND	ces	vlk	n-ma$n
+	spa	garganta	n-f$n$n-f-sg	ces	krk	n-mi$n
 	spa	jirafa	n$n-f$n-f-sg	ces	žirafa	n-f
 	spa	cabra	n$n-f$n-f-ND	ces	koz	n-f
 	spa	pez	n$n-m$n-m-sg	ces	ryba	n-f
-	spa	gaviota	n-f$n	ces	racek	n-m
+	spa	gaviota	n-f$n	ces	racek	n$n-m
 	spa	mariposa	n-f$n$n-f-ND	ces	motýl	n-m
 	spa	dinosaurio	n$n-m$n-m-ND	ces	dinosaur	n-ma
 	spa	rana	n$n-f$n-f-sg	ces	žába	n-f
 	spa	gato	n$n-m$n-m-sg	ces	koč	n-f
-	spa	ciervo	n$n-m$n-m-sg	ces	jelen	n-ma
+	spa	ciervo	n-m$n$n-m-sg	ces	jelen	n-ma
 	spa	gorrión	n-m$n	ces	vrab	n-m
-	spa	cisne	n$n-m	ces	labuť	n-f
+	spa	cisne	n$n-m	ces	labuť	n$n-f
 	spa	hiena	n$n-f	ces	hyena	n-f
 	spa	grajo	n-m	ces	vrána	n-f
-	spa	elefante	n$n-m$n-m-ND	ces	slon	n-ma
+	spa	elefante	n$n-m$n-m-ND	ces	slon	n-ma$n
 	spa	pingüino	n$n-m$n-m-ND	ces	tučňák	n-m
 	spa	hormiga	n$n-f$n-f-ND	ces	mraven	n-m
 	spa	ratón	n$n-m$n-m-sg	ces	myš	n-f
-	spa	abeja	n$n-f$n-f-ND	ces	včel	n-f
+	spa	abeja	n-f$n$n-f-ND	ces	včel	n-f
 	spa	delfín	n$n-m	ces	delfín	n-ma
 	spa	gallo	n$n-m$n-m-ND	ces	kohout	n-m
 	spa	gallina	n$n-f$n-f-ND	ces	slepice	n-f
@@ -108,11 +108,11 @@ RL	spa	mayo	n$n-m$n-m-sg	ces	maj	n-mi
 	spa	mono	n-m$n$n-m-sg	ces	opice	n-f
 	spa	ave	n-f$n$n-f-ND	ces	pták	n-m
 	spa	burro	n$n-m$n-m-ND	ces	osel	n-ma
-	spa	perro	n$n-m$n-m-sg	ces	pes	n-ma
+	spa	perro	n$n-m$n-m-sg	ces	pes	n-ma$n
 	spa	cuero	n-m$n$n-m-ND	ces	kůž	n-f
 	spa	camello	n$n-m$n-m-sg	ces	velbloud	n-ma
 	spa	gusano	n-m$n$n-m-ND	ces	červ	n-m
-	spa	manzana	n$n-f$n-f-ND	ces	jablko	n-nt
+	spa	manzana	n$n-f$n-f-ND	ces	jablko	n-nt$n
 	spa	ciruela	n$n-f	ces	švest	n-f
 	spa	albaricoque	n-m$n	ces	meruňka	n-f
 	spa	tomate	n-m$n$n-m-sg	ces	rajče	n-nt
@@ -120,19 +120,19 @@ RL	spa	mayo	n$n-m$n-m-sg	ces	maj	n-mi
 	spa	banana	n-f$n	ces	banán	n-mi
 	spa	cebolla	n$n-f$n-f-ND	ces	cibul	n-f
 	spa	piña	n$n-f$n-f-sg	ces	ananas	n-mi
-	spa	fruta	n-f$n$n-f-sg	ces	ovoce	n-nt
+	spa	fruta	n-f$n$n-f-sg	ces	ovoce	n$n-nt
 	spa	breva	n$n-f	ces	fík	n-m
 	spa	semilla	n-f$n$n-f-ND	ces	semeno	n-nt
 	spa	patata	n$n-f$n-f-sg	ces	brambora	n-f
 	spa	ajo	n$n-m$n-m-sg	ces	česnek	n-m
 	spa	melón	n$n-m$n-m-sg	ces	meloun	n-mi
 	spa	verdura	n-f$n	ces	zelenina	n-f
-	spa	pepino	n$n-m$n-m-pl	ces	okur	n-f
+	spa	pepino	n-m$n$n-m-pl	ces	okur	n-f
 	spa	ensalada	n$n-f$n-f-sg	ces	salát	n-m
 	spa	coliflor	n-f$n	ces	květák	n-m
 	spa	collar	n-m$n$n-m-ND	ces	náhrdelník	n-m
 	spa	joya	n$n-f$n-f-pl	ces	šperk	n-m
-	spa	gorra	n$n-f	ces	čepice	n-f
+	spa	gorra	n-f$n	ces	čepice	n-f
 	spa	algodón	n-m$n$n-m-sg	ces	bavlna	n-f
 	spa	guante	n-m$n$n-m-ND	ces	rukavice	n-f
 	spa	escaño	n-m$n$n-m-ND	ces	lavič	n-f
@@ -159,53 +159,53 @@ RL	spa	mayo	n$n-m$n-m-sg	ces	maj	n-mi
 	spa	restaurante	n$n-m$n-m-sg	ces	restaurace	n-f
 	spa	piscina	n$n-f$n-f-sg	ces	plovárna	n-f
 	spa	sed	n-f$n$n-f-sg	ces	žízeň	n-f
-	spa	boca	n$n-f$n-f-ND	ces	ústa	n-nt
+	spa	boca	n-f$n$n-f-ND	ces	ústa	n$n-nt
 	spa	nervio	n$n-m$n-m-ND	ces	nerv	n-m
 	spa	pecho	n-m$n$n-m-sg	ces	prso	n-nt
-	spa	brazo	n-m-sg$n-m$n	ces	paž	n-f
-	spa	nariz	n-f$n$n-f-sg	ces	nos	n-mi
-	spa	voz	n$n-f$n-f-sg	ces	hlas	n-mi
+	spa	brazo	n-m$n-m-sg$n	ces	paž	n-f
+	spa	nariz	n-f$n$n-f-sg	ces	nos	n-mi$n
+	spa	voz	n$n-f$n-f-sg	ces	hlas	n-mi$n
 	spa	cuello	n-m$n$n-m-sg	ces	krk	n-m
-	spa	diente	n-m$n$n-m-sg	ces	zub	n-mi
-	spa	cabeza	n-f$n$n-f-sg	ces	hlava	n-f
+	spa	diente	n-m$n$n-m-sg	ces	zub	n-mi$n
+	spa	cabeza	n-f$n$n-f-sg	ces	hlava	n-f$n
 	spa	lágrima	n$n-f$n-f-ND	ces	slz	n-f
-	spa	ojo	n$n-m$n-m-sg	ces	oko	n-nt
-	spa	pierna	n$n-f$n-f-ND	ces	noha	n-f
-	spa	cuerpo	n-m$n$n-m-sg	ces	tělo	n-nt
+	spa	ojo	n$n-m$n-m-sg	ces	oko	n-nt$n
+	spa	pierna	n-f$n$n-f-ND	ces	noha	n-f$n
+	spa	cuerpo	n-m$n$n-m-sg	ces	tělo	n-nt$n
 	spa	dedo	n-m$n$n-m-sg	ces	prst	n-m
 	spa	vientre	n-m$n$n-m-ND	ces	břicho	n-nt
 	spa	barbilla	n-f$n$n-f-ND	ces	brada	n$n-f
-	spa	rodilla	n-f$n-f-sg$n	ces	koleno	n-nt
+	spa	rodilla	n-f$n$n-f-sg	ces	koleno	n-nt
 	spa	hueso	n-m$n$n-m-pl	ces	kost	n-f
 	spa	mente	n-f$n$n-f-ND	ces	mysl	n-f
-	spa	vulva	n-f$n	ces	pochva	n-f
+	spa	vulva	n-f$n	ces	pochva	n-f$n
 	spa	estatura	n$n-f$n-f-ND	ces	postava	n-f
-	spa	corazón	n-m$n$n-m-sg	ces	srdce	n-nt
+	spa	corazón	n-m$n$n-m-sg	ces	srdce	n-nt$n
 	spa	cólera	n-mf$n-mf-ND	ces	cholera	n-f$n
-	spa	lengua	n-f$n$n-f-ND	ces	jazyk	n-mi
+	spa	lengua	n-f$n$n-f-ND	ces	jazyk	n-mi$n
 	spa	estómago	n-m$n$n-m-ND	ces	břicho	n-nt
 	spa	arena	n-f$n$n-f-sg	ces	písek	n-m
 	spa	selva	n-f$n$n-f-ND	ces	les	n-mi
-	spa	noche	n-f$n$n-f-sg	ces	noc	n-f
-	spa	país	n-m$n$n-m-sg	ces	země	n-f
+	spa	noche	n-f$n$n-f-sg	ces	noc	n-f$n
+	spa	país	n-m$n$n-m-sg	ces	země	n-f$n
 	spa	isla	n$n-f$n-f-sg	ces	ostrov	n-mi
-	spa	norte	n-m$n$n-m-sg	ces	sever	n-mi
-	spa	mundo	n$n-m$n-m-sg	ces	svět	n-mi
+	spa	norte	n-m$n$n-m-sg	ces	sever	n-mi$n
+	spa	mundo	n-m$n$n-m-sg	ces	svět	n-mi$n
 	spa	polvo	n-m$n$n-m-sg	ces	pra	n-m
 	spa	continente	n-m$n$n-m-ND	ces	kontinent	n-mi
 	spa	duna	n$n-f$n-f-ND	ces	duna	n-f
 	spa	distrito	n$n-m$n-m-ND	ces	okres	n-mi
 	spa	oasis	n-m-sp$n-m$n	ces	oáz	n-f
-	spa	ciudad	n-f$n$n-f-sg	ces	město	n-nt
+	spa	ciudad	n-f$n$n-f-sg	ces	město	n-nt$n
 	spa	mar	n-mf$n$n-mf-ND	ces	moře	n-nt
-	spa	madera	n-f$n$n-f-sg	ces	dřevo	n-nt
+	spa	madera	n-f$n$n-f-sg	ces	dřevo	n-nt$n
 	spa	gasolina	n$n-f$n-f-ND	ces	benzín	n-m
 	spa	aceleración	n-f$n	ces	zrychlení	n-nt
-	spa	círculo	n-m$n$n-m-sg	ces	kruh	n-mi
+	spa	círculo	n-m$n$n-m-sg	ces	kruh	n-mi$n
 	spa	velocidad	n-f$n$n-f-sg	ces	rychlost	n-f
 	spa	presión	n-f$n$n-f-sg	ces	tlak	n-m
 	spa	luz	n-f$n$n-f-sg	ces	světlo	n-nt
-	spa	luna	n$n-f$n-f-sg	ces	měsíc	n-mi
+	spa	luna	n$n-f$n-f-sg	ces	měsíc	n-mi$n
 	spa	satélite	n$n-m$n-m-sg	ces	satelit	n-mi
 	spa	bomba	n$n-f$n-f-ND	ces	bomba	n-f
 	spa	azufre	n-m$n	ces	síra	n-f
@@ -221,9 +221,9 @@ RL	spa	mayo	n$n-m$n-m-sg	ces	maj	n-mi
 	spa	elección	n-f$n$n-f-sg	ces	volba	n-f
 	spa	victoria	n$n-f$n-f-sg	ces	vítězství	n-nt
 	spa	protocolo	n$n-m$n-m-sg	ces	protokol	n-mi
-	spa	revolución	n$n-f$n-f-sg	ces	revoluce	n-f
+	spa	revolución	n$n-f$n-f-sg	ces	revoluce	n-f$n
 	spa	república	n$n-f$n-f-ND	ces	republika	n-f
-	spa	frontera	n$n-f$n-f-sg	ces	hranice	n-f
+	spa	frontera	n$n-f$n-f-sg	ces	hranice	n-f$n
 	spa	guerra	n-f$n$n-f-sg	ces	vál	n-f
 	spa	prohibición	n$n-f$n-f-sg	ces	zákaz	n-m
 	spa	campaña	n$n-f$n-f-sg	ces	kampaň	n-f
@@ -246,11 +246,11 @@ RL	spa	mayo	n$n-m$n-m-sg	ces	maj	n-mi
 	spa	régimen	n-m$n$n-m-sg	ces	režim	n-m
 	spa	comité	n$n-m$n-m-sg	ces	výbor	n-m
 	spa	ministerio	n-m$n$n-m-sg	ces	ministerstvo	n-nt
-	spa	patria	n$n-f$n-f-ND	ces	domov	n-m
+	spa	patria	n$n-f$n-f-ND	ces	domov	n$n-m
 	spa	delegación	n-f$n$n-f-ND	ces	delegace	n-f
-	spa	nacionalidad	n$n-f$n-f-sg	ces	národnost	n-f
+	spa	nacionalidad	n-f$n$n-f-sg	ces	národnost	n-f
 	spa	red	n-f$n$n-f-sg	ces	síť	n-f
-	spa	lámpara	n-f$n$n-f-ND	ces	lampa	n-f
+	spa	lámpara	n-f$n$n-f-ND	ces	lampa	n-f$n
 	spa	paraguas	n-m-sp$n-m$n	ces	deštník	n-m
 	spa	televisor	n$n-m$n-m-ND	ces	televizor	n-mi
 	spa	llave	n-f$n$n-f-ND	ces	klíč	n-m
@@ -260,12 +260,12 @@ RL	spa	mayo	n$n-m$n-m-sg	ces	maj	n-mi
 	spa	taza	n$n-f$n-f-sg	ces	šálek	n-m
 	spa	mapa	n-m$n$n-m-sg	ces	mapa	n-f
 	spa	mechero	n$n-m	ces	zapalovač	n-m
-	spa	cristal	n-m$n$n-m-ND	ces	sklenice	n-f
-	spa	hora	n-f$n$n-f-sg	ces	hodina	n-f
+	spa	cristal	n-m$n$n-m-ND	ces	sklenice	n-f$n
+	spa	hora	n-f$n$n-f-sg	ces	hodina	n-f$n
 	spa	mueble	n$n-m$n-m-ND	ces	nábytek	n-m
-	spa	mesa	n-f$n$n-f-sg	ces	stůl	n-mi
+	spa	mesa	n-f$n$n-f-sg	ces	stůl	n-mi$n
 	spa	imagen	n-f$n$n-f-sg	ces	obrázek	n-mi
-	spa	cama	n-f$n$n-f-sg	ces	postel	n-f
+	spa	cama	n-f$n$n-f-sg	ces	postel	n-f$n
 	spa	turista	n$n-mf$n-mf-ND	ces	turista	n-ma
 	spa	tren	n$n-m$n-m-sg	ces	vlak	n-m
 	spa	monumento	n-m$n$n-m-sg	ces	pozoruhodnost	n-f
@@ -277,30 +277,30 @@ RL	spa	mayo	n$n-m$n-m-sg	ces	maj	n-mi
 	spa	campeonato	n-m$n$n-m-ND	ces	soutěž	n-f
 	spa	medalla	n$n-f$n-f-ND	ces	medail	n-f
 	spa	palma	n-f$n$n-f-ND	ces	palma	n-f
-	spa	flora	n$n-f$n-f-ND	ces	květ	n-mi
+	spa	flora	n$n-f$n-f-ND	ces	květ	n-mi$n
 	spa	yate	n-m$n$n-m-sg	ces	jachta	n-f
 	spa	ola	n-f$n$n-f-sg	ces	vlna	n-f
 	spa	piedra	n-f$n$n-f-sg	ces	kámen	n-mi
 	spa	huevo	n-m$n$n-m-pl	ces	vejce	n-nt
 	spa	néctar	n-m$n	ces	nektar	n-mi
 	spa	miel	n-f$n$n-f-ND	ces	med	n-mi
-	spa	cerveza	n$n-f$n-f-ND	ces	pivo	n-nt
-	spa	queso	n-m$n$n-m-sg	ces	sýr	n-mi
+	spa	cerveza	n$n-f$n-f-ND	ces	pivo	n-nt$n
+	spa	queso	n-m$n$n-m-sg	ces	sýr	n-mi$n
 	spa	leche	n-f$n$n-f-sg	ces	mléko	n-nt
 	spa	centeno	n-m$n	ces	žito	n-nt
-	spa	pan	n-m$n$n-m-ND	ces	chléb	n-mi
+	spa	pan	n-m$n$n-m-ND	ces	chléb	n$n-mi
 	spa	vinagre	n-m$n$n-m-sg	ces	ocet	n-mi
-	spa	harina	n$n-f	ces	mouka	n-f
-	spa	medicamento	n-m$n$n-m-sg	ces	lék	n-mi
+	spa	harina	n$n-f	ces	mouka	n-f$n
+	spa	medicamento	n-m$n$n-m-sg	ces	lék	n-mi$n
 	spa	arroz	n-m$n$n-m-ND	ces	rýž	n-f
 	spa	oliva	n$n-f	ces	oliva	n-f
-	spa	mantequilla	n-f$n$n-f-ND	ces	máslo	n-nt
-	spa	azúcar	n-m$n$n-m-ND	ces	cukr	n-mi
+	spa	mantequilla	n-f$n$n-f-ND	ces	máslo	n-nt$n
+	spa	azúcar	n-m$n$n-m-ND	ces	cukr	n-mi$n
 	spa	cigarrillo	n-m$n$n-m-ND	ces	cigareta	n-f
-	spa	té	n-m$n$n-m-sg	ces	čaj	n-mi
+	spa	té	n-m$n$n-m-sg	ces	čaj	n-mi$n
 	spa	sopa	n-f$n$n-f-ND	ces	polév	n-f
 	spa	zumo	n-m$n$n-m-ND	ces	džus	n-m
-	spa	hongo	n$n-m	ces	houba	n-f
+	spa	hongo	n$n-m	ces	houba	n$n-f
 	spa	trigo	n$n-m$n-m-ND	ces	pšenice	n-f
 	spa	carne	n-f$n$n-f-ND	ces	maso	n-nt$n
 	spa	almendra	n-f$n$n-f-pl	ces	mandl	n-f
@@ -309,14 +309,14 @@ RL	spa	mayo	n$n-m$n-m-sg	ces	maj	n-mi
 	spa	bolígrafo	n-m$n	ces	pero	n-nt
 	spa	traducción	n$n-f$n-f-sg	ces	překlad	n-mi
 	spa	explicación	n-f$n$n-f-ND	ces	vysvětlení	n-nt
-	spa	ejercicio	n-m$n$n-m-sg	ces	cvičení	n-nt
-	spa	página	n-f$n$n-f-sg	ces	strana	n-f
-	spa	lección	n$n-f$n-f-sg	ces	lekce	n-f
+	spa	ejercicio	n-m$n$n-m-sg	ces	cvičení	n$n-nt
+	spa	página	n-f$n$n-f-sg	ces	strana	n-f$n
+	spa	lección	n$n-f$n-f-sg	ces	lekce	n-f$n
 RL	spa	estudiante	n-mf$n$n-mf-ND	ces	student	n-GD
 LR	spa	estudiante	n-mf$n$n-mf-ND	ces	student	n-ma$n
-	spa	título	n-m$n$n-m-sg	ces	titul	n-mi
+	spa	título	n-m$n$n-m-sg	ces	titul	n-mi$n
 	spa	diccionario	n-m$n$n-m-ND	ces	slovník	n-mi
-	spa	palabra	n-f$n$n-f-sg	ces	slovo	n-nt
+	spa	palabra	n-f$n$n-f-sg	ces	slovo	n-nt$n
 	spa	facultad	n$n-f$n-f-ND	ces	fakulta	n-f
 	spa	filología	n$n-f$n-f-ND	ces	filologie	n-f
 	spa	ponencia	n-f$n$n-f-ND	ces	přednáš	n-f
@@ -342,31 +342,31 @@ LR	spa	estudiante	n-mf$n$n-mf-ND	ces	student	n-ma$n
 	spa	resina	n$n-f$n-f-ND	ces	pryskyřice	n-f
 	spa	centeno	n-m$n	ces	žito	n-nt
 	spa	almidón	n-m$n	ces	škrob	n-m
-	spa	azúcar	n-m$n$n-m-ND	ces	cukr	n-mi
+	spa	azúcar	n-m$n$n-m-ND	ces	cukr	n-mi$n
 	spa	girasol	n$n-m	ces	slunečnice	n-f
 	spa	cirugía	n$n-f	ces	chirurgie	n-f
-	spa	árbol	n-m$n$n-m-sg	ces	strom	n-mi
+	spa	árbol	n-m$n$n-m-sg	ces	strom	n-mi$n
 	spa	lana	n$n-f$n-f-ND	ces	vlna	n-f
 	spa	cadáver	n-m$n$n-m-ND	ces	mrtvola	n-f
 	spa	Egipto	np-top$np-top-m	ces	Egypt	np-top-m
 	spa	Irak	np-top	ces	Irák	np-top-m
-	spa	Alemania	np-top$np-top-f	ces	Německo	np-top-nt$np-top-nt-sg
+	spa	Alemania	np-top$np-top-f	ces	Německo	np-top-nt$np$np-top-nt-sg
 	spa	América	np-top$np-top-f	ces	Amerika	np-top-f
-	spa	España	np$np-top$np-top-f	ces	Španělsko	np-top-nt
-	spa	Australia	np$np-top$np-top-f	ces	Austráli	np-top-f
+	spa	España	np-top-f$np-top	ces	Španělsko	np-top-nt
+	spa	Australia	np-top-f$np-top	ces	Austráli	np-top-f
 	spa	Israel	np-top$np-top-m	ces	Izrael	np-top-m
 	spa	Italia	np-top$np-top-f	ces	Itáli	np-top-f
 	spa	Portugal	np$np-top$np-top-m	ces	Portugalsko	np-top-nt
 	spa	Bélgica	np-top$np-top-f	ces	Belgi	np-top-f
 	spa	Babilonio	np-top-f	ces	Babylon	np-top-m
-	spa	Polonia	np-top-f$np-top	ces	Polsko	np-top-nt
+	spa	Polonia	np-top-f$np-top	ces	Polsko	np$np-top-nt
 	spa	Turquía	np-top$np-top-f	ces	Turecko	np-top-nt
 	spa	Túnez	np-top-m$np-top	ces	Tunis	np-top-m
 	spa	Jartum	np$np-top	ces	Chartúm	np-top-m
 	spa	Dinamarca	np-top$np-top-f	ces	Dánsko	np-top-nt
-	spa	Rusia	np$np-top$np-top-f	ces	Rusko	np-top-nt
+	spa	Rusia	np$np-top-f$np-top	ces	Rusko	np-top-nt
 	spa	Sudán	np$np-top$np-top-m	ces	Súdán	np-top-m
-	spa	Suecia	np-top$np-top-f	ces	Švédsko	np-top-nt
+	spa	Suecia	np-top$np-top-f	ces	Švédsko	np$np-top-nt
 	spa	Somalia	np-top$np-top-f	ces	Somálsko	np-top-nt
 	spa	Omán	np$np-top$np-top-m	ces	Omán	np-top-m
 	spa	Francia	np$np-top$np-top-f	ces	Franci	np-top-f

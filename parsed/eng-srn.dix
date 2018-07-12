@@ -762,7 +762,7 @@ LR	eng	broadcast	vblex	srn	bari	vblex
 	eng	cage	n$n-ND	srn	koi	n
 	eng	caimito (fruit)	n	srn	apra	n
 	eng	caimito (fruit)	n	srn	sterapra	n
-	eng	cake	n$n-ND	srn	kuku	n
+	eng	cake	n$n-pl	srn	kuku	n
 	eng	calabash	n	srn	krabasi	n
 	eng	calaloo (plant)	n	srn	klarun	n
 	eng	calculate	vblex	srn	teri luku	vblex
@@ -1077,7 +1077,7 @@ LR	eng	command	vblex	srn	bari	vblex
 	eng	cook	vblex	srn	bori	vblex
 	eng	cook	vblex	srn	gari	vblex
 	eng	cooked (completely)	adj	srn	gari	adj
-	eng	cookie	n	srn	kuku	n
+	eng	cookie	n$n-pl	srn	kuku	n
 	eng	cooking fat	n	srn	fatu	n
 	eng	cooking oil	n	srn	nyan-oli	n
 	eng	cooking platform	n	srn	brantmiri	n
@@ -1126,7 +1126,7 @@ LR	eng	command	vblex	srn	bari	vblex
 	eng	cowardly	adj	srn	lagi	adj
 	eng	cowhide	n	srn	kawbuba	n
 	eng	cowpea	n	srn	blaka-ai pesi	n
-	eng	crab	n	srn	krabu	n
+	eng	crab	n$n-pl	srn	krabu	n
 	eng	crack	n$n-ND	srn	prit'priti	n
 	eng	crack	n$n-ND	srn	priti	n
 	eng	crafty	adj$adj-sint	srn	haira	adj
@@ -1377,8 +1377,8 @@ LR	eng	crow	vblex	srn	bari	vblex
 	eng	dizzy	adj$adj-sint	srn	waiwai	adj
 	eng	do	vblex$vblex-past	srn	du	vblex
 	eng	do	vblex$vblex-past	srn	sani	vblex
-	eng	dock	n$n-ND	srn	broki	n
-	eng	dock	n$n-ND	srn	plata broki	n
+	eng	dock	n$n-pl	srn	broki	n
+	eng	dock	n$n-pl	srn	plata broki	n
 	eng	dockhand	n	srn	syowman	n
 	eng	doctor	n$n-ND	srn	datra	n
 	eng	document	n$n-ND	srn	papira	n
@@ -1475,7 +1475,7 @@ LR	eng	doubt	vblex	srn	degedege	vblex
 	eng	early	adv	srn	fruku	adv
 	eng	earn	vblex$vblex-pprs	srn	wroko moni	vblex
 	eng	earnestly	adv	srn	trangatranga	adv
-	eng	earring	n$n-sg	srn	yesilinga	n
+	eng	earring	n$n-pl	srn	yesilinga	n
 	eng	earth	n$n-ND	srn	gron	n
 	eng	earth	n$n-ND	srn	grontapu	n
 	eng	earth	n$n-ND	srn	tokotoko	n
@@ -1539,7 +1539,7 @@ LR	eng	doubt	vblex	srn	degedege	vblex
 	eng	endure	vblex	srn	psa	vblex
 	eng	endure	vblex	srn	tyari	vblex
 	eng	enemy	n$n-ND	srn	feyanti	n
-	eng	engine	n$n-ND	srn	masyin	n
+	eng	engine	n$n-pl	srn	masyin	n
 	eng	enjoy	vblex	srn	abi prisiri	vblex
 	eng	enjoy	vblex	srn	nyan	vblex
 	eng	enlarge	vblex	srn	hari	vblex
@@ -1917,7 +1917,7 @@ LR	eng	doubt	vblex	srn	degedege	vblex
 	eng	gardener	n$n-sg	srn	dyariman	n
 	eng	garlic	n$n-ND	srn	konofroku	n
 	eng	gasoline	n$n-sg	srn	oli	n
-	eng	gate	n$n-ND	srn	nengredoro	n
+	eng	gate	n$n-pl	srn	nengredoro	n
 	eng	gathering	n$n-sg	srn	konmakandra	n
 	eng	gecko	n	srn	kamrawenke	n
 	eng	genip (fruit)	n	srn	knepa	n
@@ -2162,8 +2162,8 @@ LR	eng	govern	vblex	srn	rigeri	vblex
 	eng	heat up	vblex	srn	hati	vblex
 	eng	heat up	vblex	srn	skreki	vblex
 	eng	heat up	vblex	srn	waran	vblex
-	eng	heaven	n$n-ND	srn	Gadokondre	n
-	eng	heaven	n$n-ND	srn	heimel	n
+	eng	heaven	n$n-pl	srn	Gadokondre	n
+	eng	heaven	n$n-pl	srn	heimel	n
 	eng	heavy	adj$adj-sint	srn	hebi	adj
 	eng	heavy	adj$adj-sint	srn	yere skin	adj
 	eng	heel	n$n-ND	srn	baka-iri	n
@@ -2440,7 +2440,7 @@ LR	eng	human	n$n-ND	srn	sma	n
 	eng	kettle	n$n-sg	srn	ketre	n
 	eng	key	n$n-ND	srn	sroto	n
 	eng	kick	vblex$vblex-sep	srn	skopu	vblex
-	eng	kidney	n$n-sg	srn	niri	n
+	eng	kidney	n$n-pl	srn	niri	n
 	eng	kids	n	srn	yosyosi	n
 	eng	kill	vblex$vblex-pp	srn	kiri	vblex
 	eng	killer	n	srn	kiriman	n
@@ -2479,7 +2479,7 @@ LR	eng	human	n$n-ND	srn	sma	n
 	eng	know	vblex$vblex-sep	srn	sabi	vblex
 	eng	knowledge	n$n-ND	srn	koni	n
 	eng	knowledge	n$n-ND	srn	sabi	n
-	eng	knuckle	n	srn	koko	n
+	eng	knuckle	n$n-pl	srn	koko	n
 	eng	labor	vblex	srn	haswa	vblex
 	eng	laborer	n	srn	wrokoman	n
 	eng	lack	vblex	srn	mankeri	vblex
@@ -2499,7 +2499,7 @@ LR	eng	human	n$n-ND	srn	sma	n
 	eng	lantern	n$n-ND	srn	lanteri	n
 	eng	large	adj-sint$adj	srn	bigi	adj
 	eng	large	adj-sint$adj	srn	kankan	adj
-	eng	larva	n	srn	woron	n
+	eng	larva	n$n-pl	srn	woron	n
 	eng	lascivious	adj	srn	krasi	adj
 	eng	lasi pasi; SEE : pasi; ~ weight	vblex	srn	hari	vblex
 	eng	last	adj$adj-ord$adj-ord-sp	srn	kriboi	adj
@@ -3006,7 +3006,7 @@ LR	eng	lead	vblex	srn	rigeri	vblex
 	eng	noontime	n	srn	brekten	n
 	eng	north	n$n-unc	srn	noordsei	n
 	eng	nose	n$n-sg	srn	noso	n
-	eng	nostril	n$n-sg	srn	noso-olo	n
+	eng	nostril	n$n-pl	srn	noso-olo	n
 	eng	not	adv	srn	no	adv
 	eng	notary public	n	srn	notarsi	n
 	eng	notch	n	srn	tyepi	n
@@ -3200,8 +3200,8 @@ LR	eng	lead	vblex	srn	rigeri	vblex
 	eng	pay	vblex$vblex-sep	srn	pai	vblex
 	eng	payment	n$n-ND	srn	pai	n
 	eng	payment	n$n-ND	srn	paiman	n
-	eng	pea	n$n-sg	srn	dyar'pesi	n
-	eng	pea	n$n-sg	srn	pesi	n
+	eng	pea	n$n-pl	srn	dyar'pesi	n
+	eng	pea	n$n-pl	srn	pesi	n
 	eng	peace	n$n-sg	srn	freide	n
 	eng	peacock	n	srn	prodokaka	n
 	eng	peanut	n$n-ND	srn	pinda	n
@@ -3266,7 +3266,7 @@ LR	eng	lead	vblex	srn	rigeri	vblex
 	eng	pigeon	n	srn	doifi	n
 	eng	pigpen	n	srn	agupen	n
 	eng	pigsty	n$n-sg	srn	agupen	n
-	eng	pile	n$n-ND	srn	ipi	n
+	eng	pile	n$n-pl	srn	ipi	n
 	eng	pill	n	srn	perki	n
 	eng	pillow	n$n-ND	srn	kunsu	n
 	eng	pimple	n$n-sg	srn	poisi	n
@@ -3835,7 +3835,7 @@ LR	eng	rule	vblex	srn	rigeri	vblex
 	eng	scratch	vblex	srn	krab'krabu	vblex
 	eng	scratched up	adj	srn	krab'krabu	adj
 	eng	scrawny	adj$adj-sint	srn	mangri	adj
-	eng	screw	n	srn	skrufu	n
+	eng	screw	n$n-pl	srn	skrufu	n
 	eng	scribble	vblex	srn	krab'krabu	vblex
 	eng	scribbled on	adj	srn	krab'krabu	adj
 	eng	scrub	vblex	srn	bosro	vblex
@@ -4343,7 +4343,7 @@ LR	eng	sift	vblex	srn	doro	vblex
 	eng	stink	vblex	srn	tingi	vblex
 	eng	stinky	adj$adj-sint	srn	tingi	adj
 	eng	stir	vblex$vblex-sep	srn	drai	vblex
-	eng	stocking	n$n-sg	srn	kowsu	n
+	eng	stocking	n$n-pl	srn	kowsu	n
 	eng	stocky	adj$adj-sint	srn	stampu	adj
 	eng	stomach	n$n-ND	srn	bere	n
 	eng	stomachache	n$n-sg	srn	ber'ati	n

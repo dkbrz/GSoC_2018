@@ -1197,7 +1197,7 @@
 	tur	indeks	n	uzb	ko'rsatkich	n
 	tur	rivayet	n	uzb	rivoyat	n
 	tur	aktör	n$	uzb	aktyor	n
-	tur	detay	$n	uzb	detal	n
+	tur	detay	n$	uzb	detal	n
 	tur	kanuniyet	n	uzb	qonuniyat	n
 	tur	gözlem	n$	uzb	kuzatish	n
 	tur	hücre	n$	uzb	hujra	n
@@ -1810,7 +1810,7 @@
 	tur	muamma	$n	uzb	muammo	n
 	tur	saha	n$	uzb	soha	n
 	tur	hapis	n$	uzb	hibs	n
-	tur	üslup	$n	uzb	uslub	n
+	tur	üslup	n$	uzb	uslub	n
 	tur	camia	n$	uzb	jamoa	n
 	tur	kaynak	n$	uzb	manba	n
 	tur	anane	n$	uzb	an'ana	n
@@ -1935,7 +1935,7 @@
 	tur	kadar	post	uzb	qadar	post
 	tur	karşı	post	uzb	qarshi	post
 	tur	rağmen	post	uzb	qaramay	post
-	tur	ait	post$	uzb	oid	post
+	tur	ait	post	uzb	oid	post
 	tur	dek	post$	uzb	dovur	post
 	tur	aykırı	post	uzb	zid	post
 	tur	başka	post	uzb	boshqa	post
@@ -2142,7 +2142,7 @@
 	tur	siz	prn-pers$prn-pers-p2-pl	uzb	sizlar	prn-pers-p2-pl
 	tur	onlar	prn-pers$prn-pers-p3-pl	uzb	ular	prn-pers-p3-pl
 	tur	o	prn-dem$prn-dem-loc	uzb	u	prn-dem
-	tur	kendi	prn$prn-ref$$prn-ref-px3sp	uzb	o'z	prn-ref
+	tur	kendi	prn-ref$prn$$prn-ref-px3sp	uzb	o'z	prn-ref
 	tur	şu	prn-dem$prn-dem-dat	uzb	shu	prn-dem
 	tur	bu	prn-dem$prn-dem-abl$prn	uzb	bu	prn-dem
 	tur	hangi	prn-itg$prn$prn-itg-abl	uzb	qaysi	prn-itg
@@ -2514,7 +2514,7 @@
 	tur	savaşçı	adj	uzb	jangovar	adj
 	tur	kahverengi	adj$	uzb	jigarrang	adj
 	tur	cinai	adj	uzb	jinoiy	adj
-	tur	cinsel	adj	uzb	jinsiy	adj
+	tur	cinsel	adj$	uzb	jinsiy	adj
 	tur	cinsî	adj	uzb	jinsiy	adj
 	tur	canlı	adj	uzb	jonli	adj
 	tur	diri	adj$	uzb	jonli	adj
@@ -2797,7 +2797,7 @@
 	tur	tarihi	adj$	uzb	tarixiy	adj
 	tur	örgütsel	adj	uzb	tashkiliy	adj
 	tur	teşkili	adj	uzb	tashkiliy	adj
-	tur	ait	adj	uzb	tegishli	adj
+	tur	ait	adj$	uzb	tegishli	adj
 	tur	dair	adj	uzb	tegishli	adj
 	tur	ilgili	adj	uzb	tegishli	adj
 	tur	mensup	adj	uzb	tegishli	adj

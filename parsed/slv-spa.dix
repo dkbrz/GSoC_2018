@@ -278,15 +278,15 @@
 	slv	enak	prn	spa	igual	prn
 	slv	isti	prn$prn-ind	spa	mismo	prn-tn$prn$prn-tn-m
 	slv	kateri	prn$prn-itg	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-itg
-	slv	kdo	prn$prn-itg	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg
+	slv	kdo	prn$prn-itg	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg
 	slv	koliko	prn-itg$prn	spa	cómo	prn
 	slv	ta	prn-dem$prn	spa	este	prn$prn-tn-m$prn-tn$prn-tn-m-sg
-	slv	nekdo	prn$prn-ind-m-sg	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg
+	slv	nekdo	prn$prn-ind-m-sg	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m
 	slv	nič	prn$prn-neg-sg	spa	nada	prn-tn-nt$prn$prn-tn
 	slv	nihče	prn$prn-neg-sg	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn
 	slv	vsak	prn$prn-ind	spa	cada	prn$prn-tn
 	slv	drug	prn$prn-ind	spa	otro	prn$prn-tn$prn-tn-m-sg$prn-tn-m
-	slv	en	prn$prn-ind	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg
+	slv	en	prn$prn-ind	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg
 	slv	kakršenkoli	prn$prn-ind	spa	cualquiera	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn
 	slv	karkoli	prn$prn-ind-mf	spa	cualquier cosa	prn$prn-tn-f$prn-tn-f-sg
 	slv	katerikoli	prn-ind$prn	spa	cualquiera	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn
@@ -326,9 +326,9 @@
 	slv	stoti	det	spa		det
 	slv	prvi	det-ord	spa	primer	det-ord$det-ord-GD-ND$det
 	slv	drugi	det-ord	spa	segundo	det-ord$det-ord-GD-ND$det
-	slv	tretji	det-ord	spa	tercer	det-ord-GD-ND$det$det-ord
-	slv	četrti	det-ord	spa	cuarto	det-ord-GD-ND$det-ord$det
-	slv	peti	det-ord	spa	quinto	det-ord-GD-ND$det-ord$det
+	slv	tretji	det-ord	spa	tercer	det-ord-GD-ND$det-ord$det
+	slv	četrti	det-ord	spa	cuarto	det-ord$det-ord-GD-ND$det
+	slv	peti	det-ord	spa	quinto	det-ord$det-ord-GD-ND$det
 	slv	šesti	det-ord	spa	sexto	det-ord$det-ord-GD-ND$det
 	slv	sedmi	det-ord	spa	séptimo	det-ord$det-ord-GD-ND$det
 	slv	osmi	det-ord	spa	octavo	det-ord$det-ord-GD-ND$det
@@ -425,14 +425,14 @@
 	slv	devetindevetdeseti	det-ord	spa	nonagésimo noveno	det-ord
 	slv	en	num	spa	un	num$num-GD
 	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
-	slv	tri	num	spa	tres	num$$num-mf-sp
+	slv	tri	num	spa	tres	num$num-mf-sp$
 	slv	štiri	num	spa	cuatro	num$$num-mf-sp
 	slv	pet	num	spa	cinco	num$num-mf-sp$
 	slv	šest	num	spa	seis	num$num-mf-sp$
 	slv	sedem	num	spa	siete	num$$num-mf-sp
 	slv	osem	num	spa	ocho	num$$num-mf-sp
 	slv	devet	num	spa	nueve	num$$num-mf-sp
-	slv	deset	num	spa	diez	num$num-mf$$num-mf-sp
+	slv	deset	num	spa	diez	num$num-mf$num-mf-sp$
 	slv	jezik	n-mi	spa	lengua	n-f$n$n-f-ND
 	slv	reč	n-f	spa	cosa	n$n-f$n-f-sg
 	slv	narod	n-m	spa	nación	n$n-f$n-f-sg
@@ -440,8 +440,8 @@
 	slv	zemlja	n-f	spa	tierra	n-f$n$n-f-sg
 	slv	hiša	n-f	spa	casa	n-f$n$n-f-sg
 	slv	srce	n-nt$n	spa	corazón	n-m$n$n-m-sg
-	slv	brat	n-ma$n	spa	hermano	n-m$n$n-m-sg
-	slv	svet	n-mi$n	spa	mundo	n$n-m$n-m-sg
+	slv	brat	n-ma$n	spa	hermano	n-m$n-m-sg
+	slv	svet	n-mi$n	spa	mundo	n-m$n$n-m-sg
 	slv	burja	n-f$n	spa	viento	n$n-m$n-m-ND
 	slv	burja	n-f$n	spa	tempesto	n-m
 	slv	slovan	n$n-m	spa	eslavo	n$n-m
@@ -551,7 +551,7 @@
 	slv	injekcija	n-f$n	spa	inyección	n$n-f$n-f-ND
 	slv	inkvizicija	n-f$n	spa	inquisición	n$n-f
 	slv	inspiracija	n-f$n	spa	inspiración	n$n-f$n-f-ND
-	slv	institucija	n-f$n	spa	institución	n$n-f$n-f-sg
+	slv	institucija	n-f$n	spa	institución	n-f$n$n-f-sg
 	slv	integracija	n-f$n	spa	integración	n-f$n$n-f-sg
 	slv	interpretacija	n-f$n	spa	interpretación	n-f$n$n-f-sg
 	slv	intervencija	n-f$n	spa	intervención	n-f$n$n-f-sg
@@ -637,7 +637,7 @@ LR	slv	gruden	n-mi	spa	diciembre	n$n-m$n-m-ND
 	slv	norvežan	n$n-ma	spa	noruego	n$n-m$n-m-sg
 	slv	rusjan	n$n-ma	spa	ruso	n-m$n-m-sg
 	slv	albin	n$n-ma	spa	albino	n-m
-	slv	sestra	n-f$n	spa	hermano	n-f$n-f-ND
+	slv	sestra	n-f$n	spa	hermano	n-f$n$n-f-ND
 	slv	bolnišnica	n-f$n	spa	hospital	n$n-m$n-m-sg
 	slv	center	n-mi	spa	centro	n-m$n$n-m-ND
 	slv	izobraževanje	n-nt$n	spa	educación	n$n-f$n-f-ND
@@ -659,7 +659,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	govedo	n-nt$n	spa	ganado	n-m$n$n-m-sg
 	slv	grlo	n-nt	spa	garganta	n-f$n$n-f-sg
 	slv	jezero	n-nt$n	spa	lago	n$n-m$n-m-sg
-	slv	koleno	n-nt	spa	rodilla	n-f$n-f-sg$n
+	slv	koleno	n-nt	spa	rodilla	n-f$n$n-f-sg
 	slv	kosilo	n-nt	spa	almuerzo	n-m$n$n-m-sg
 	slv	leto	n-nt	spa	año	n-m$n$n-m-sg
 	slv	milo	n-f	spa	jabón	n$n-m$n-m-ND
@@ -681,7 +681,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	zlato	n-f	spa	oro	n-m$n$n-m-sg
 	slv	ambasada	n-f$n	spa	embajada	n$n-f$n-f-sg
 	slv	banka	n-f$n	spa	banco	n-m$n$n-m-sg
-	slv	barva	n-f	spa	color	n-m$n-m-sg$n
+	slv	barva	n-f	spa	color	n-m$n$n-m-sg
 	slv	beseda	n-f	spa	palabra	n-f$n$n-f-sg
 	slv	bolečina	n-f	spa	dolor	n-m$n$n-m-ND
 	slv	bolha	n-f$n	spa	pulga	n-f$n
@@ -734,14 +734,14 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	koča	n-f$n	spa	cabaña	n$n-f$n-f-ND
 	slv	kopalnica	n-f$n	spa	cuarto	n-f
 	slv	korala	n-f	spa	coral	n$n-m
-	slv	kovina	n-f$n	spa	metal	n$n-m$n-m-ND
+	slv	kovina	n-f$n	spa	metal	n-m$n$n-m-ND
 	slv	koza	n-f$n	spa	cabra	n$n-f$n-f-ND
 	slv	koža	n-f$n	spa	piel	n-f$n$n-f-ND
 	slv	krema	n-f$n	spa	crema	n$n-f
 	slv	krsta	n-m	spa	ataúd	n-m$n
 	slv	kuhinja	n-f	spa	cocina	n-f$n$n-f-sg
 	slv	kukavica	n-f$n	spa	cuco	n-f
-	slv	kumara	n-f$n	spa	pepino	n$n-m$n-m-pl
+	slv	kumara	n-f$n	spa	pepino	n-m$n$n-m-pl
 	slv	lasulja	n-f$n	spa	peluca	n-m
 	slv	lekarna	n-f$n	spa	farmacia	n-f$n$n-f-sg
 	slv	lobanja	n-f	spa	calavera	n-f$n$n-f-ND
@@ -844,7 +844,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	teža	n-f$n	spa	peso	n-m$n$n-m-ND
 	slv	težava	n-f	spa	dificultad	n-f$n$n-f-sg
 	slv	tišina	n-f$n	spa	silencio	n$n-m$n-m-sg
-	slv	tkanina	n-f$n	spa	tela	n$n-f$n-f-ND
+	slv	tkanina	n-f$n	spa	tela	n-f$n$n-f-ND
 	slv	toča	n-f$n	spa	granizo	n-m$n
 	slv	torba	n-f$n	spa	bolsa	n-f$n$n-f-sg
 	slv	trava	n-f	spa	hierba	n-f$n$n-f-ND
@@ -876,7 +876,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	antibiotik	n-mi$n	spa	antibiótico	n-m$n$n-m-sg
 	slv	dežnik	n-mi$n	spa	paraguas	n-m-sp$n-m$n
 	slv	dimnik	n-mi	spa	chimenea	n-m
-	slv	glavnik	n-mi	spa	peine	n$n-m$n-m-sg
+	slv	glavnik	n-mi	spa	peine	n-m$n$n-m-sg
 	slv	hladilnik	n-mi$n	spa	nevera	n$n-f$n-f-ND
 	slv	hodnik	n-mi$n	spa	pasillo	n-m$n$n-m-ND
 	slv	imenik	n-mi$n	spa	listado	n-m$n
@@ -929,7 +929,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	pesem	n-f	spa	canción	n-f$n$n-f-sg
 	slv	kazen	n-f	spa	castigo	n-m$n$n-m-sg
 	slv	ljubezen	n-f	spa	amor	n-m$n$n-m-ND
-	slv	obrv	n-f	spa	ceja	n$n-f$n-f-sg
+	slv	obrv	n-f	spa	ceja	n-f$n$n-f-sg
 	slv	polnoč	n-f	spa	medianoche	n-f$n$n-f-ND
 	slv	pomoč	n-f	spa	ayuda	n-f$n$n-f-sg
 	slv	volk	n-m	spa	lobo	n$n-m$n-m-ND
@@ -955,7 +955,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	sir	n-m	spa	queso	n-m$n$n-m-sg
 	slv	tovor	n-m	spa	cargo	n-m$n$n-m-sg
 	slv	umor	n-m	spa	asesinato	n-m$n$n-m-sg
-	slv	brat	n-m	spa	hermano	n-m$n$n-m-sg
+	slv	brat	n-m	spa	hermano	n-m$n-m-sg
 	slv	bik	n-m	spa	toro	n$n-m$n-m-ND
 	slv	bolnik	n-m	spa	paciente	n-mf$n$n-mf-ND
 	slv	jetnik	n-m	spa	preso	n-m$n-m-sg
@@ -986,13 +986,13 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	kruh	n-m	spa	pan	n-m$n$n-m-ND
 	slv	bombaž	n-m	spa	algodón	n-m$n$n-m-sg
 	slv	riž	n-m	spa	arroz	n-m$n$n-m-ND
-	slv	čudež	n-m	spa	milagro	n$n-m$n-m-ND
+	slv	čudež	n-m	spa	milagro	n-m$n$n-m-ND
 	slv	križ	n-m	spa	cruz	n-f$n$n-f-ND
 	slv	nož	n-m	spa	cuchillo	n-m$n$n-m-ND
 	slv	sedež	n-m	spa	asiento	n$n-m$n-m-ND
 	slv	dostop	n-m	spa	acceso	n$n-m$n-m-sg
 	slv	hrup	n-m	spa	sonido	n-m$n$n-m-sg
-	slv	kip	n-m	spa	estatua	n$n-f$n-f-ND
+	slv	kip	n-m	spa	estatua	n-f$n$n-f-ND
 	slv	rop	n-m	spa	robo	n-m$n$n-m-ND
 	slv	sklep	n-m	spa	articulación	n-f$n$n-f-ND
 	slv	stolp	n-m	spa	torre	n-f$n$n-f-ND
@@ -1025,7 +1025,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	musliman	n-m	spa	musulmán	n$n-m$n-m-sg
 	slv	grof	n-m	spa	conde	n$n-m$n-m-ND
 	slv	kmet	n-m	spa	campesino	n$n-m$n-m-ND
-	slv	tla	n-nt	spa	suelo	n$n-m$n-m-sg
+	slv	tla	n-nt	spa	suelo	n-m$n$n-m-sg
 	slv	stop	n-m	spa	terminar	n-m
 	slv	gumi	n-m	spa	chicle	n$n-m$n-m-sg
 	slv	čevelj	n-mi	spa	zapato	n-m$n$n-m-ND
@@ -1036,7 +1036,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	rebro	n-nt$n	spa	costilla	n$n-f
 	slv	komolec	n-m	spa	codo	n$n-m$n-m-ND
 	slv	kovanec	n-m	spa	moneda	n-f$n$n-f-sg
-	slv	lonec	n-m	spa	olla	n$n-f
+	slv	lonec	n-m	spa	olla	n-f$n
 	slv	marec	n-m	spa	marzo	n-m$n$n-m-sg
 	slv	udarec	n-m	spa	golpe	n-m$n$n-m-ND
 	slv	želodec	n-m	spa	estómago	n-m$n$n-m-ND
@@ -1082,7 +1082,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	pristanišče	n-nt$n	spa	puerto	n-m$n$n-m-sg
 	slv	sabljanje	n-nt$n	spa	esgrima	n$n-f
 	slv	sodišče	n-nt$n	spa	tribunal	n-m$n$n-m-sg
-	slv	sonce	n-nt$n	spa	sol	n$n-m$n-m-ND
+	slv	sonce	n-nt$n	spa	sol	n-m$n$n-m-ND
 	slv	središče	n-nt	spa	centro	n-m$n$n-m-ND
 	slv	stanovanje	n-nt	spa	piso	n-m$n$n-m-ND
 	slv	stopnišče	n-nt	spa	escalera	n-f$n$n-f-sg
@@ -1090,7 +1090,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	trčenje	n-nt$n	spa	colisión	n$n-f
 	slv	upanje	n-nt	spa	esperanza	n$n-f$n-f-ND
 	slv	vedenje	n-nt	spa	comportamiento	n$n-m$n-m-sg
-	slv	vprašanje	n-nt	spa	pregunta	n$n-f$n-f-ND
+	slv	vprašanje	n-nt	spa	pregunta	n-f$n$n-f-ND
 	slv	zanimanje	n-nt	spa	interés	n$n-m$n-m-sg
 	slv	zaupanje	n-nt	spa	confianza	n$n-f$n-f-sg
 	slv	znanje	n-nt	spa	conocimiento	n-m$n$n-m-sg
@@ -1138,7 +1138,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	boter	n-m	spa	padrino	n-m$n
 	slv	minister	n-m	spa	ministro	n$n-m$n-m-sg
 	slv	smisel	n-m	spa	razón	n-f$n$n-f-sg
-	slv	vozel	n-m	spa	nudo	n$n-m$n-m-ND
+	slv	vozel	n-m	spa	nudo	n-m$n$n-m-ND
 	slv	julij	n-m	spa	julio	n$n-m$n-m-sg
 	slv	strah	n-m	spa	miedo	n-m$n$n-m-ND
 	slv	steza	n-f	spa	sendero	n-m$n$n-m-ND
@@ -1150,7 +1150,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	pomlad	n-f$n	spa	primavera	n-f$n$n-f-ND
 	slv	član	n-m	spa	miembro	n-mf$n$n-mf-ND
 	slv	fazan	n-m	spa	faisán	n-m$n
-	slv	jelen	n-m	spa	ciervo	n$n-m$n-m-sg
+	slv	jelen	n-m	spa	ciervo	n-m$n$n-m-sg
 	slv	kapetan	n-m	spa	capitán	n$n-m$n-m-sg
 	slv	slon	n-m	spa	elefante	n$n-m$n-m-ND
 	slv	vohun	n-m	spa	espía	n-mf$n$n-mf-sg
@@ -1223,7 +1223,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	učenec	n-m	spa	alumno	n$n-m$n-m-sg
 	slv	upokojenec	n-m	spa	jubilado	n$n-m
 	slv	uslužbenec	n-m	spa	empleado	n$n-m$n-m-sg
-	slv	zajec	n-m	spa	conejo	n$n-m$n-m-sg
+	slv	zajec	n-m	spa	conejo	n-m$n$n-m-sg
 	slv	vrt	n-m	spa	jardín	n-m$n$n-m-sg
 	slv	članek	n-m	spa	artículo	n-m$n$n-m-sg
 	slv	dogodek	n-m	spa	acontecimiento	n-m$n$n-m-sg
@@ -1244,14 +1244,14 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	orodje	n-nt	spa	herramienta	n-f$n$n-f-sg
 	slv	osebje	n-nt$n	spa	personal	n$n-m-sg$n-m
 	slv	petje	n-nt	spa	canto	n-m$n$n-m-ND
-	slv	podjetje	n-nt$n	spa	empresa	n$n-f$n-f-sg
+	slv	podjetje	n-nt$n	spa	empresa	n-f$n$n-f-sg
 	slv	podnebje	n-nt$n	spa	clima	n-m$n$n-m-sg
 	slv	poletje	n-nt$n	spa	verano	n$n-m$n-m-sg
 	slv	stoletje	n-nt	spa	siglo	n-m$n$n-m-sg
 	slv	zapestje	n-nt	spa	muñeca	n$n-f$n-f-sg
 	slv	jetra	n-nt$n	spa	hígado	n$n-m$n-m-ND
 	slv	vrat	n-m$n	spa	cuello	n-m$n$n-m-sg
-	slv	uš	n-f$n	spa	piojo	n$n-m
+	slv	uš	n-f$n	spa	piojo	n-m$n
 	slv	pismo	n-nt	spa	carta	n-f$n$n-f-ND
 	slv	vojska	n-f	spa	ejército	n-m$n$n-m-sg
 	slv	gleženj	n-m	spa	tobillo	n-m$n
@@ -1259,7 +1259,7 @@ RL	slv	dva	num$num-GD-du	spa	dos	num$num-mf$num-mf-sp$
 	slv	oko	n-nt$n	spa	ojo	n$n-m$n-m-sg
 	slv	galeb	n-m	spa	gaviota	n-f$n
 	slv	nebesa	n-nt$n	spa	cielo	n-m$n$n-m-sg
-	slv	usta	n-nt	spa	boca	n$n-f$n-f-ND
+	slv	usta	n-nt	spa	boca	n-f$n$n-f-ND
 	slv	žival	n-f	spa	animal	n-m$n$n-m-sg
 	slv	čustvo	n-nt	spa	sentimiento	n-m$n$n-m-sg
 	slv	ministrstvo	n-nt	spa	ministerio	n-m$n$n-m-sg
@@ -1356,7 +1356,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	gospodarstvo	n-nt	spa	economía	n$n-f$n-f-sg
 	slv	direktor	n-m	spa	director	n$n-m$n-m-sg
 	slv	zavest	n-f	spa	conciencia	n$n-f-sg$n-f
-	slv	delo	n-nt	spa	trabajo	n-m$n-m-sg$n
+	slv	delo	n-nt	spa	trabajo	n-m$n$n-m-sg
 	slv	cena	n-f$n	spa	precio	n$n-m$n-m-sg
 	slv	forma	n-f$n	spa	horma	n-f$n$n-f-ND
 	slv	glasba	n-f	spa	música	n$n-f$n-f-ND
@@ -1375,7 +1375,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	tlak	n-mi	spa	presión	n-f$n$n-f-sg
 	slv	čoln	n-mi	spa	barco	n-m$n$n-m-sg
 	slv	bolezen	n-f	spa	enfermedad	n$n-f$n-f-sg
-	slv	vrv	n-f$n	spa	cuerda	n$n-f$n-f-ND
+	slv	vrv	n-f$n	spa	cuerda	n-f$n$n-f-ND
 	slv	noč	n-f	spa	noche	n-f$n$n-f-sg
 	slv	inventar	n-mi$n	spa	inventario	n-m$n$n-m-sg
 	slv	prostor	n-mi$n	spa	espacio	n-m$n$n-m-sg
@@ -1694,7 +1694,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	sloga	n-mi$n	spa	armonía	n-f$n$n-f-ND
 	slv	sluznica	n$n-f	spa	mucosa	n$n-f
 	slv	služba	n-f$n	spa	servicio	n-m$n$n-m-sg
-	slv	soha	n-f$n	spa	estatua	n$n-f$n-f-ND
+	slv	soha	n-f$n	spa	estatua	n-f$n$n-f-ND
 	slv	sorodnica	n-f$n	spa	pariente	n-mf$n$n-mf-ND
 	slv	soseska	n-f$n	spa	barrio	n$n-m$n-m-sg
 	slv	soseščina	n-f$n	spa	barrio	n$n-m$n-m-sg
@@ -1721,7 +1721,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	surovina	n-f$n	spa	material	n$n-m$n-m-sg
 	slv	svečka	n-f$n	spa	vela	n-f$n$n-f-ND
 	slv	svežina	n-f$n	spa	frescura	n$n-f
-	slv	svinjarija	n-f$n	spa	mierda	n$n-f$n-f-ND
+	slv	svinjarija	n-f$n	spa	mierda	n-f$n$n-f-ND
 	slv	škatlica	n-f$n	spa	caja	n$n-f$n-f-sg
 	slv	šota	n-f$n	spa	turba	n$n-f$n-f-ND
 	slv	špijonaža	n-f	spa	espionaje	n-m$n$n-m-sg
@@ -1790,7 +1790,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	zasedba	n-f$n	spa	banda	n-f$n$n-f-ND
 	slv	zasnova	n$n-f	spa	esbozo	n$n-m$n-m-sg
 	slv	zaznava	n-f$n	spa	percepción	n$n-f$n-f-ND
-	slv	zenica	n-f$n	spa	pupila	n$n-f$n-f-ND
+	slv	zenica	n-f$n	spa	pupila	n-f$n$n-f-ND
 	slv	zgodba	n-f	spa	historia	n-f$n$n-f-sg
 	slv	zgodbica	n-f$n	spa	historia	n-f$n$n-f-sg
 	slv	zgradba	n-f	spa	estructura	n-f$n$n-f-sg
@@ -1814,7 +1814,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	deležnik	n-mi$n	spa	participio	n-m$n$n-m-sg
 	slv	disk	n-mi$n	spa	disco	n-m$n$n-m-ND
 	slv	dotok	n-mi$n	spa	flujo	n-m$n$n-m-ND
-	slv	drek	n-mi$n	spa	mierda	n$n-f$n-f-ND
+	slv	drek	n-mi$n	spa	mierda	n-f$n$n-f-ND
 	slv	izrek	n-mi$n	spa	teorema	n-m$n$n-m-sg
 	slv	letnik	n-mi$n	spa	año	n-m$n$n-m-sg
 	slv	lok	n-mi$n	spa	arco	n-m$n$n-m-ND
@@ -1825,7 +1825,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	nauk	n-mi$n	spa	lección	n$n-f$n-f-sg
 	slv	nebotičnik	n-mi$n	spa	rascacielos	n-m-sp$n$n-m
 	slv	neolitik	n-mi	spa	neolítico	n$n-m
-	slv	obok	n-mi$n	spa	vez	n-f$n-f-ND$n
+	slv	obok	n-mi$n	spa	vez	n-f$n$n-f-ND
 	slv	odlok	n-mi$n	spa	orden	n-m$n$n-m-sg
 	slv	odmik	n-mi$n	spa	desviación	n-f$n$n-f-ND
 	slv	odsek	n-mi	spa	sección	n$n-f$n-f-sg
@@ -1909,7 +1909,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	obračun	n-mi$n	spa	declaración	n-f$n$n-f-ND
 	slv	odklon	n-mi	spa	desviación	n-f$n$n-f-ND
 	slv	organ	n-mi$n	spa	órgano	n$n-m$n-m-sg
-	slv	plamen	n-mi	spa	llama	n$n-f$n-f-ND
+	slv	plamen	n-mi	spa	llama	n-f$n$n-f-ND
 	slv	pogin	n-mi$n	spa	muerte	n-f$n$n-f-sg
 	slv	poklon	n-mi$n	spa	don	n-m$n$n-m-pl
 	slv	pomen	n-mi	spa	importancia	n$n-f$n-f-sg
@@ -2008,7 +2008,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	šifra	n-f$n	spa	código	n-m$n$n-m-sg
 	slv	blagor	n-mi	spa	bienestar	n$n-m$n-m-sg
 	slv	deblo	n$n-nt	spa	tronco	n-m$n$n-m-ND
-	slv	zlo	n-f	spa	mal	n$n-m$n-m-ND
+	slv	zlo	n-f	spa	mal	n-m$n$n-m-ND
 	slv	nivo	n-mi$n	spa	nivel	n$n-m$n-m-sg
 	slv	delitev	n-f$n	spa	división	n-f$n$n-f-sg
 	slv	določitev	n-f$n	spa	determinación	n$n-f$n-f-sg
@@ -2145,13 +2145,13 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	prijatelj	n-ma	spa	amigo	n$n-m$n-m-ND
 	slv	rešitelj	n-ma$n	spa	salvador	n$n-m$n-m-ND
 	slv	ustanovitelj	n-ma$n	spa	fundador	n$n-m$n-m-sg
-	slv	bedro	n-nt$n	spa	pierna	n$n-f$n-f-ND
+	slv	bedro	n-nt$n	spa	pierna	n-f$n$n-f-ND
 	slv	utež	n-f$n	spa	peso	n-m$n$n-m-ND
 	slv	delec	n-mi$n	spa	partícula	n-f$n$n-f-ND
 	slv	drobec	n-mi	spa	fragmento	n-m$n$n-m-ND
 	slv	dvorec	n-mi$n	spa	palacio	n-m$n$n-m-ND
 	slv	goltanec	n-mi$n	spa	gula	n-m
-	slv	kipec	n-mi$n	spa	estatua	n$n-f$n-f-ND
+	slv	kipec	n-mi$n	spa	estatua	n-f$n$n-f-ND
 	slv	novec	n-mi$n	spa	moneda	n-f$n$n-f-sg
 	slv	obrazec	n-mi$n	spa	módulo	n$n-m
 	slv	ojačevalec	n-mi$n	spa	amplificador	n-m$n$n-m-pl
@@ -2232,7 +2232,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	abeceda	n-f$n	spa	alfabeto	n-m$n$n-m-ND
 	slv	afera	n$n-f	spa	escándalo	n$n-m$n-m-sg
 	slv	agentka	n-f	spa	agente	n-mf$n$n-mf-ND
-	slv	alga	n$n-f	spa	alga	n$n-f
+	slv	alga	n$n-f	spa	alga	n-f$n
 	slv	analogija	n-f$n	spa	analogía	n$n-f
 	slv	anketa	n-f$n	spa	sondeo	n-m$n
 	slv	aretacija	n-f	spa	arresto	n-m$n$n-m-sg
@@ -2262,7 +2262,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	cerkvica	n-f$n	spa	iglesia	n$n-f$n-f-sg
 	slv	cipa	n-f$n	spa	puta	n-f$n
 	slv	čarovnija	n-f$n	spa	magia	n$n-f$n-f-ND
-	slv	čebela	n-f$n	spa	abeja	n$n-f$n-f-ND
+	slv	čebela	n-f$n	spa	abeja	n-f$n$n-f-ND
 	slv	čestitka	n-f$n	spa	felicitación	n$n-f
 	slv	čistoča	n-f$n	spa	limpieza	n$n-f$n-f-ND
 	slv	članica	n-f	spa	estado	n-m$n$n-m-sg
@@ -2290,7 +2290,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	segment	n$n-mi	spa	segmento	n$n-m$n-m-sg
 	slv	skelet	n-mi$n	spa	esqueleto	n-m$n
 	slv	splet	n-mi$n	spa	embrollo	n$n-m
-	slv	ščit	n-mi$n	spa	escudo	n$n-m$n-m-ND
+	slv	ščit	n-mi$n	spa	escudo	n-m$n$n-m-ND
 	slv	takt	n-mi$n	spa	tiempo	n-m$n-m-ND$n
 	slv	talent	n$n-mi	spa	talento	n-m$n$n-m-sg
 	slv	tekst	n$n-mi	spa	texto	n-m$n$n-m-sg
@@ -2488,7 +2488,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	šolanje	n-nt$n	spa	instrucción	n$n-f$n-f-sg
 	slv	špekuliranje	n-nt$n	spa	especulación	n$n-f$n-f-ND
 	slv	teženje	n$n-nt	spa	tendencia	n-f$n$n-f-sg
-	slv	tiščanje	n$n-nt	spa	mal	n$n-m$n-m-ND
+	slv	tiščanje	n$n-nt	spa	mal	n-m$n$n-m-ND
 	slv	treniranje	n$n-nt	spa	entrenamiento	n$n-m$n-m-sg
 	slv	trobljenje	n$n-nt	spa	sonido	n-m$n$n-m-sg
 	slv	tveganje	n-nt	spa	riesgo	n$n-m$n-m-sg
@@ -2513,7 +2513,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	vodenje	n-nt$n	spa	gestión	n-f$n$n-f-sg
 	slv	vohunjenje	n-nt	spa	espionaje	n-m$n$n-m-sg
 	slv	vojskovanje	n-nt	spa	guerra	n-f$n$n-f-sg
-	slv	vozlišče	n$n-nt	spa	nudo	n$n-m$n-m-ND
+	slv	vozlišče	n$n-nt	spa	nudo	n-m$n$n-m-ND
 	slv	vplivanje	n$n-nt	spa	influencia	n$n-f$n-f-ND
 	slv	vretence	n$n-nt	spa	vértebra	n$n-f
 	slv	vstajenje	n$n-nt	spa	resurrección	n$n-f$n-f-ND
@@ -2547,12 +2547,12 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	rastlinje	n$n-nt	spa	vegetación	n$n-f$n-f-ND
 	slv	rod	n-mi$n	spa	generación	n$n-f$n-f-ND
 	slv	sram	n$n-mi	spa	vergüenza	n$n-f$n-f-ND
-	slv	vile	n$n-f	spa	horca	n$n-f
+	slv	vile	n$n-f	spa	horca	n-f$n
 	slv	dvig	n$n-mi	spa	aumento	n-m$n$n-m-sg
 	slv	inženiring	n-mi$n	spa	ingeniería	n$n-f$n-f-sg
 	slv	obseg	n-mi	spa	volumen	n$n-m$n-m-sg
 	slv	odlog	n-mi	spa	retraso	n$n-m$n-m-ND
-	slv	podvig	n$n-mi	spa	empresa	n$n-f$n-f-sg
+	slv	podvig	n$n-mi	spa	empresa	n-f$n$n-f-sg
 	slv	predlog	n-mi$n	spa	propuesta	n$n-f$n-f-sg
 	slv	razlog	n-mi	spa	razón	n-f$n$n-f-sg
 	slv	sarkofag	n$n-mi	spa	sarcófago	n$n-m
@@ -2608,7 +2608,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	obroč	n-mi	spa	anillo	n-m$n$n-m-ND
 	slv	stolpič	n$n-mi	spa	palacio	n-m$n$n-m-ND
 	slv	admiral	n-ma$n	spa	almirante	n$n-mf
-	slv	idol	n-ma	spa	ídolo	n-m$n$n-m-ND
+	slv	idol	n-ma	spa	ídolo	n$n-m$n-m-ND
 	slv	nadangel	n$n-ma	spa	arcángel	n$n-m
 	slv	prid	n-mi	spa	favor	n$n-m$n-m-sg
 	slv	trud	n$n-mi	spa	esfuerzo	n-m$n$n-m-ND
@@ -2727,8 +2727,8 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	družboslovec	n$n-ma	spa	sociólogo	n-m
 	slv	godec	n$n-ma	spa	músico	n$n-m$n-m-ND
 	slv	izdelovalec	n$n-ma	spa	productor	n$n-m$n-m-sg
-	slv	kmetovalec	n$n-ma	spa	agricultor	n$n-m-sg$n-m
-	slv	kradljivec	n$n-ma	spa	ladrón	n-m$n$n-m-sg
+	slv	kmetovalec	n$n-ma	spa	agricultor	n$n-m$n-m-sg
+	slv	kradljivec	n$n-ma	spa	ladrón	n$n-m$n-m-sg
 	slv	krivec	n$n-ma	spa	culpable	n-mf$n
 	slv	kupec	n$n-ma	spa	comprador	n$n-m$n-m-ND
 	slv	lepotec	n$n-ma	spa	belleza	n$n-f$n-f-ND
@@ -2781,7 +2781,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	opravek	n-mi$n	spa	comisión	n$n-f$n-f-sg
 	slv	osnutek	n-mi$n	spa	proyecto	n$n-m$n-m-sg
 	slv	ostanek	n-mi$n	spa	resto	n-m$n$n-m-pl
-	slv	plamenček	n$n-mi	spa	llama	n$n-f$n-f-ND
+	slv	plamenček	n$n-mi	spa	llama	n-f$n$n-f-ND
 	slv	podaljšek	n$n-mi	spa	extensión	n$n-f$n-f-sg
 	slv	pododdelek	n$n-mi	spa	subsección	n$n-f
 	slv	ponaredek	n$n-mi	spa	falso	n$n-m
@@ -2849,7 +2849,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	soglasje	n-nt	spa	consenso	n$n-m$n-m-sg
 	slv	sozvočje	n$n-nt	spa	armonía	n-f$n$n-f-ND
 	slv	sožitje	n-nt$n	spa	armonía	n-f$n$n-f-ND
-	slv	ustje	n$n-nt	spa	boca	n$n-f$n-f-ND
+	slv	ustje	n$n-nt	spa	boca	n-f$n$n-f-ND
 	slv	vnebovzetje	n$n-nt	spa	asunción	n$n-f
 	slv	vraževerje	n$n-nt	spa	superstición	n$n-f
 	slv	vzdušje	n-nt	spa	atmósfera	n-f$n$n-f-sg
@@ -2898,7 +2898,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	mastodont	n$n-ma	spa	mastodonte	n$n-m
 	slv	pacient	n-ma$n	spa	paciente	n-mf$n$n-mf-ND
 	slv	pankrt	n$n-ma	spa	bastardo	n-m$n
-	slv	parazit	n-ma	spa	parásito	n$n-m$n-m-sg
+	slv	parazit	n-ma	spa	parásito	n-m$n$n-m-sg
 	slv	referent	n$n-ma	spa	empleado	n$n-m$n-m-sg
 	slv	impulz	n$n-mi	spa	impulso	n-m$n$n-m-sg
 	slv	odraz	n$n-mi	spa	reflexión	n-f$n$n-f-sg
@@ -3134,7 +3134,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	pižama	n-f$n	spa	pijama	n$n-m$n-m-sg
 	slv	podgana	n-f	spa	rata	n-f$n$n-f-ND
 	slv	podpora	n-f$n	spa	apoyo	n-m$n$n-m-ND
-	slv	politika	n-ma	spa	política	n$n-f$n-f-sg
+	slv	politika	n-ma	spa	política	n-f$n$n-f-sg
 	slv	postaja	n-f	spa	estación	n-f$n$n-f-ND
 	slv	poškodba	n-f$n	spa	lesión	n$n-f$n-f-sg
 	slv	puščica	n-f	spa	flecha	n$n-f$n-f-sg
@@ -3180,7 +3180,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	žaba	n-f$n	spa	rana	n$n-f$n-f-sg
 	slv	žaga	n-f$n	spa	sierra	n$n-f$n-f-ND
 	slv	železnica	n-f$n	spa	ferrocarril	n$n-m$n-m-sg
-	slv	želva	n-f$n	spa	tortuga	n$n-f$n-f-sg
+	slv	želva	n-f$n	spa	tortuga	n-f$n$n-f-sg
 	slv	žila	n-f$n	spa	vena	n$n-f$n-f-ND
 	slv	elektrika	n-f$n	spa	electricidad	n$n-f$n-f-sg
 	slv	dotik	n-mi	spa	toque	n-f
@@ -3195,7 +3195,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	okno	n-nt$n	spa	ventana	n$n-f$n-f-sg
 	slv	bariton	n$n-mi	spa	barítono	n$n-m
 	slv	delfin	n$n-mi	spa	delfin	n-m
-	slv	ocean	n-mi	spa	océano	n$n-m$n-m-sg
+	slv	ocean	n-mi	spa	océano	n-m$n$n-m-sg
 	slv	zločin	n-mi	spa	crimen	n-m$n$n-m-sg
 	slv	val	n-mi	spa	ola	n-f$n$n-f-sg
 	slv	miš	n$n-f	spa	ratón	n$n-m$n-m-sg
@@ -3244,7 +3244,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	jadranje	n$n-nt	spa	navegación	n$n-f$n-f-sg
 	slv	skladišče	n-nt$n	spa	almacén	n-m$n$n-m-ND
 	slv	veslanje	n$n-nt	spa	remo	n$n-m
-	slv	življenje	n-nt	spa	vida	n$n-f$n-f-sg
+	slv	življenje	n-nt	spa	vida	n-f$n$n-f-sg
 	slv	ožilje	n$n-nt	spa	venas	n-f
 	slv	dom	n-mi	spa	casa	n-f$n$n-f-sg
 	slv	ovca	n$n-f	spa	oveja	n$n-f$n-f-ND
@@ -3265,7 +3265,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	plašč	n-mi	spa	abrigo	n-m$n$n-m-ND
 	slv	mah	n-mi	spa	musgo	n-m$n$n-m-ND
 	slv	gozd	n-mi	spa	bosque	n-m$n$n-m-sg
-	slv	tat	n-ma	spa	ladrón	n-m$n$n-m-sg
+	slv	tat	n-ma	spa	ladrón	n$n-m$n-m-sg
 	slv	berač	n$n-ma	spa	mendigo	n-m$n-m-ND
 	slv	hrošč	n-ma	spa	escarabajo	n$n-m
 	slv	prašič	n$n-ma	spa	cerdo	n-m$n$n-m-ND
@@ -3339,7 +3339,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	potnik	n-ma$n	spa	pasajero	n$n-m-sg$n-m
 	slv	fotoaparat	n-mi$n	spa	cámara	n-mf$n-mf-ND
 	slv	pešačenje	n$n-nt	spa	caminata	n$n-f
-	slv	prenočišče	n$n-nt	spa	alojamiento	n$n-m$n-m-sg
+	slv	prenočišče	n$n-nt	spa	alojamiento	n-m$n$n-m-sg
 	slv	počitnice	n-f$n	spa	vacaciones	n-f-pl$n$n-f
 	slv	prebivalec	n-ma	spa	habitante	n-mf$n$n-mf-ND
 	slv	dobiček	n-mi$n	spa	beneficio	n-m$n-m-sg$n
@@ -3353,7 +3353,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	mora	n-f$n	spa	pesadilla	n-f$n$n-f-ND
 	slv	para	n-mi$n	spa	vapor	n-m$n$n-m-sg
 	slv	predstava	n-f	spa	representación	n$n-f$n-f-sg
-	slv	vrvica	n-f$n	spa	cuerda	n$n-f$n-f-ND
+	slv	vrvica	n-f$n	spa	cuerda	n-f$n$n-f-ND
 	slv	salon	n-mi	spa	salón	n-m$n$n-m-ND
 	slv	poklic	n-mi$n	spa	profesión	n$n-f$n-f-ND
 	slv	up	n-mi$n	spa	esperanza	n$n-f$n-f-ND
@@ -3382,14 +3382,14 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	niz	n-mi$n	spa	secuencia	n$n-f$n-f-sg
 	slv	last	n-f	spa	propiedad	n-f$n$n-f-sg
 	slv	pero	n-nt	spa	pluma	n$n-f$n-f-ND
-	slv	baker	n$n-mi	spa	cobre	n$n-m$n-m-sg
+	slv	baker	n$n-mi	spa	cobre	n-m$n$n-m-sg
 	slv	avto	n-mi$n$n-mi-sg	spa	coche	n-m$n$n-m-sg
 	slv	hitrost	n-f$n	spa	velocidad	n-f$n$n-f-sg
 	slv	odgovornost	n-f$n	spa	responsabilidad	n$n-f$n-f-sg
 	slv	trst	n$n-mi	spa	caña	n-f$n$n-f-ND
 	slv	cedilo	n-nt$n	spa	colador	n-m$n
 	slv	čistilo	n-nt$n	spa	limpiador	n$n-m$n-m-sg
-	slv	črnilo	n-nt	spa	tinta	n$n-f$n-f-sg
+	slv	črnilo	n-nt	spa	tinta	n-f$n$n-f-sg
 	slv	čudo	n-nt$n	spa	maravilla	n$n-f
 	slv	držalo	n-nt$n	spa	soporte	n-m$n$n-m-sg
 	slv	gorivo	n-nt$n	spa	combustible	n$n-m$n-m-sg
@@ -3434,7 +3434,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	avtoriteta	n-f	spa	autoridad	n-f$n$n-f-sg
 	slv	bajta	n-f$n	spa	cabaña	n$n-f$n-f-ND
 	slv	barikada	n-f$n	spa	barricada	n$n-f
-	slv	barka	n-f$n	spa	barca	n$n-f$n-f-ND
+	slv	barka	n-f$n	spa	barca	n-f$n$n-f-ND
 	slv	beda	n-f$n	spa	miseria	n$n-f$n-f-ND
 	slv	begunka	n-f$n	spa	refugiado	n$n-m$n-m-sg
 	slv	beležka	n-f$n	spa	nota	n-f$n$n-f-sg
@@ -3634,7 +3634,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	simpatija	n$n-f	spa	simpatía	n$n-f$n-f-ND
 	slv	skodela	n-f$n	spa	taza	n$n-f$n-f-sg
 	slv	skušnjava	n-f	spa	tentación	n-f$n$n-f-ND
-	slv	slepota	n-f$n	spa	ceguera	n$n-f$n-f-ND
+	slv	slepota	n-f$n	spa	ceguera	n-f$n$n-f-ND
 	slv	sodba	n-f	spa	sentencia	n$n-f$n-f-sg
 	slv	sodnica	n-f$n	spa	juez	n$n-m$n-m-ND
 	slv	soseda	n-ma	spa	vecino	n$n-m-sg$n-m
@@ -3907,7 +3907,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	amulet	n$n-mi	spa	amuleto	n-m$n
 	slv	argument	n-mi	spa	argumento	n-m$n$n-m-ND
 	slv	asfalt	n$n-mi	spa	asfalto	n-m$n$n-m-ND
-	slv	dekret	n$n-mi	spa	decreto	n$n-m$n-m-sg
+	slv	dekret	n$n-mi	spa	decreto	n-m$n$n-m-sg
 	slv	grafit	n-mi	spa	grafito	n-m$n
 	slv	hit	n-mi$n	spa	éxito	n-m$n$n-m-sg
 	slv	inšpektorat	n-mi$n	spa	inspector	n$n-m$n-m-sg
@@ -3937,7 +3937,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	spoznanje	n-nt	spa	conocimiento	n-m$n$n-m-sg
 	slv	svetišče	n-nt$n	spa	templo	n-m$n$n-m-ND
 	slv	tekmovanje	n-nt	spa	concurso	n$n-m$n-m-ND
-	slv	vesolje	n-nt	spa	universo	n$n-m$n-m-ND
+	slv	vesolje	n-nt	spa	universo	n-m$n$n-m-ND
 	slv	dolgočasje	n-nt	spa	aburrimiento	n-m$n
 	slv	domoljubje	n$n-nt	spa	patriotismo	n-m$n
 	slv	gostoljubje	n$n-nt	spa	hospitalidad	n$n-f$n-f-sg
@@ -4020,7 +4020,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	nezvestoba	n$n-f	spa	infidelidad	n$n-f$n-f-ND
 	slv	revščina	n-f	spa	pobreza	n$n-f$n-f-sg
 	slv	skleroza	n$n-f	spa	esclerosis	n-f-sp$n-f$n
-	slv	drva	n$n-nt	spa	leña	n$n-f$n-f-sg
+	slv	drva	n$n-nt	spa	leña	n-f$n$n-f-sg
 	slv	škaf	n-mi	spa	tina	n-f$n
 	slv	nasilnež	n$n-ma	spa	matón	n-m$n$n-m-pl
 	slv	nesrečnež	n$n-ma	spa	desgraciado	n$n-m
@@ -4221,8 +4221,8 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	mladost	n-f$n	spa	juventud	n$n-f$n-f-ND
 	slv	moškost	n$n-f	spa	masculinidad	n-f$n
 	slv	možnost	n-f$n	spa	posibilidad	n-f$n$n-f-sg
-	slv	nacionalnost	n-f$n	spa	nacionalidad	n$n-f$n-f-sg
-	slv	napačnost	n$n-f	spa	mal	n$n-m$n-m-ND
+	slv	nacionalnost	n-f$n	spa	nacionalidad	n-f$n$n-f-sg
+	slv	napačnost	n$n-f	spa	mal	n-m$n$n-m-ND
 	slv	natančnost	n-f	spa	precisión	n-f$n$n-f-ND
 	slv	navdušenost	n-f$n	spa	entusiasmo	n-m$n$n-m-sg
 	slv	nedorečenost	n$n-f	spa	incompleto	n-m
@@ -4271,7 +4271,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	tožilec	n-ma$n	spa	acusador	n$n-m
 	slv	ubijalec	n$n-ma	spa	asesino	n$n-m$n-m-sg
 	slv	ustvarjalec	n$n-ma	spa	creador	n-m$n-m-sg
-	slv	vlomilec	n$n-ma	spa	ladrón	n-m$n$n-m-sg
+	slv	vlomilec	n$n-ma	spa	ladrón	n$n-m$n-m-sg
 	slv	volivec	n-ma$n	spa	elector	n$n-m$n-m-sg
 	slv	vsiljivec	n$n-ma	spa	intruso	n-m-ND$n-m
 	slv	zbiralec	n$n-ma	spa	coleccionista	n-mf$n
@@ -4306,7 +4306,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	strdek	n$n-mi	spa	coágulo	n$n-m
 	slv	sunek	n$n-mi	spa	golpe	n-m$n$n-m-ND
 	slv	venček	n$n-mi	spa	corona	n$n-f$n-f-ND
-	slv	vršiček	n$n-mi	spa	brote	n-m$n
+	slv	vršiček	n$n-mi	spa	brote	n$n-m
 	slv	vzdevek	n$n-mi	spa	apodo	n-m$n$n-m-ND
 	slv	zadek	n$n-mi	spa	trasero	n-m$n$n-m-ND
 	slv	zaimek	n$n-mi	spa	pronombre	n-m$n$n-m-sg
@@ -4422,7 +4422,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	poglavar	n$n-ma	spa	cacique	n$n-m
 	slv	reformator	n$n-ma	spa	reformador	n$n-m
 	slv	romar	n$n-ma	spa	peregrino	n-m
-	slv	ropar	n$n-ma	spa	ladrón	n-m$n$n-m-sg
+	slv	ropar	n$n-ma	spa	ladrón	n$n-m$n-m-sg
 	slv	samotar	n$n-ma	spa	solitario	n$n-m
 	slv	sponzor	n$n-ma	spa	patrocinador	n-m$n$n-m-sg
 	slv	vikar	n$n-ma	spa	vicario	n$n-m
@@ -4539,7 +4539,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	prepona	n-f$n	spa	diafragma	n-m$n
 	slv	trska	n-f$n	spa	astilla	n$n-f
 	slv	vzporednica	n-f$n	spa	paralela	n$n-f
-	slv	hranilnik	n-mi$n	spa	hucha	n$n-f
+	slv	hranilnik	n-mi$n	spa	hucha	n-f$n
 	slv	vodnjak	n-mi$n	spa	pozo	n$n-m$n-m-ND
 	slv	kol	n-mi	spa	estaca	n-f$n
 	slv	poštenjak	n-ma$n	spa	honestidad	n$n-f$n-f-ND
@@ -4590,7 +4590,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	bilje	n$n-nt	spa	hierba	n-f$n$n-f-ND
 	slv	blagostanje	n$n-nt	spa	prosperidad	n-f$n$n-f-sg
 	slv	bliskanje	n-nt$n	spa	rayo	n-m$n$n-m-ND
-	slv	bojevnik	n-ma$n	spa	guerrero	n$n-m$n-m-sg
+	slv	bojevnik	n-ma$n	spa	guerrero	n$n-m$n-m-sg$
 	slv	brazilec	n$n-ma	spa	brasileño	n$n-m
 	slv	britanec	n$n-ma	spa	inglés	n$n-m$n-m-pl
 	slv	broška	n-f$n	spa	broche	n$n-m
@@ -4645,12 +4645,12 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	heroj	n-ma$n	spa	héroe	n-m-ND$n-m
 	slv	hrasta	n-mi	spa	roble	n$n-m$n-m-ND
 	slv	hudičevka	n-f$n	spa	diablo	n$n-m$n-m-ND
-	slv	hudoba	n-f$n	spa	mal	n$n-m$n-m-ND
+	slv	hudoba	n-f$n	spa	mal	n-m$n$n-m-ND
 	slv	hudodelec	n$n-ma	spa	culpable	n-mf$n
 	slv	indijanec	n$n-ma	spa	indio	n$n-m$n-m-ND
 	slv	indijec	n$n-ma	spa	indio	n$n-m$n-m-ND
 	slv	italijan	n$n-m	spa	italiano	n$n-m$n-m-sg
-	slv	izbruh	n-mi$n	spa	brote	n-m$n
+	slv	izbruh	n-mi$n	spa	brote	n$n-m
 	slv	izkop	n-mi$n	spa	excavación	n$n-f$n-f-ND
 	slv	izpostava	n-f$n	spa	rama	n-f$n$n-f-sg
 	slv	izvajalec	n-ma$n	spa	empresario	n$n-m$n-m-sg
@@ -4674,7 +4674,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	klanec	n-mi$n	spa	cuesta	n-f$n
 	slv	kljubovanje	n-nt$n	spa	desafío	n-m$n$n-m-ND
 	slv	kljubovanje	n-nt$n	spa	reto	n-m$n$n-m-sg
-	slv	kmetica	n-f$n	spa	agricultor	n$n-m-sg$n-m
+	slv	kmetica	n-f$n	spa	agricultor	n$n-m$n-m-sg
 	slv	kolesar	n-ma$n	spa	ciclista	n-mf$n$n-mf-ND
 	slv	kolona	n$n-f	spa	fila	n-f$n$n-f-sg
 	slv	koma	n-f	spa	coma	n-m$n$n-m-ND
@@ -4688,7 +4688,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	kuharica	n-f$n	spa	cocinero	n$n-m$n-m-sg
 	slv	kukalo	n-nt$n	spa	mirilla	n-f$n
 	slv	kulisa	n-f$n	spa	bastidor	n-m$n$n-m-ND
-	slv	kunec	n$n-ma	spa	conejo	n$n-m$n-m-sg
+	slv	kunec	n$n-ma	spa	conejo	n-m$n$n-m-sg
 	slv	kurir	n$n-ma	spa	mensajero	n$n-m$n-m-ND
 	slv	laser	n$n-mi	spa	láser	n$n-m$n-m-ND
 	slv	lastnica	n-f$n	spa	dueño	n$n-m$n-m-ND
@@ -4865,7 +4865,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	svatba	n-f$n	spa	boda	n-f$n$n-f-sg
 	slv	svetovalec	n-ma$n	spa	asesor	n$n-m$n-m-sg
 	slv	tabla	n-f$n	spa	pizarra	n$n-f$n-f-ND
-	slv	tekač	n-ma	spa	corredor	n-m$n$n-m-sg
+	slv	tekač	n-ma	spa	corredor	n$n-m$n-m-sg
 	slv	televizija	n-f$n	spa	televisión	n$n-f$n-f-sg
 	slv	test	n-mi$n	spa	test	n-m$n$n-m-ND
 	slv	test	n-mi$n	spa	prueba	n-f$n$n-f-sg
@@ -4986,7 +4986,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	sila	n-f$n	spa	fuerza	n-f$n$n-f-sg
 	slv	grad	n-mi$n	spa	castillo	n-m$n$n-m-ND
 	slv	morje	n-nt	spa	mar	n-m$n-m-sg
-	slv	politika	n-ma	spa	política	n$n-f$n-f-sg
+	slv	politika	n-ma	spa	política	n-f$n$n-f-sg
 	slv	morala	n-f	spa	moral	n$n-f$n-f-sg
 	slv	moštvo	n-nt	spa	equipo	n-m$n-m-sg$n
 	slv	igralec	n-ma$n	spa	actor	n$n-m$n-m-sg
@@ -5007,7 +5007,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	mati	n-mi	spa	madre	n$n-f$n-f-sg
 	slv	motor	n-mi$n	spa	motor	n-m$n$n-m-sg
 	slv	vojak	n-ma$n	spa	soldado	n-m$n-m-sg
-	slv	roka	n-mi	spa	brazo	n-m-sg$n-m$n
+	slv	roka	n-mi	spa	brazo	n-m$n-m-sg$n
 	slv	oddelek	n-mi$n	spa	departamento	n$n-m$n-m-sg
 	slv	naloga	n-mi	spa	tarea	n-f$n$n-f-ND
 	slv	moč	n-f	spa	potencia	n$n-f$n-f-sg
@@ -5020,7 +5020,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	sever	n-mi$n	spa	norte	n-m$n$n-m-sg
 	slv	lista	n-mi	spa	lista	n-f$n$n-f-sg
 	slv	trg	n-mi	spa	mercado	n-m$n$n-m-sg
-	slv	orožje	n-nt	spa	arma	n$n-f$n-f-sg
+	slv	orožje	n-nt	spa	arma	n-f$n$n-f-sg
 	slv	uspeh	n-mi$n	spa	éxito	n-m$n$n-m-sg
 	slv	okvir	n-mi	spa	marco	n-m$n$n-m-sg
 	slv	postopek	n-mi$n	spa	procedimiento	n-m$n$n-m-sg
@@ -5074,7 +5074,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	lastnik	n-ma$n	spa	propietario	n-m$n-m-sg
 	slv	radio	n-mi$n	spa	radio	n-m$n-m-sg
 	slv	prireditev	n-f$n	spa	acontecimiento	n-m$n$n-m-sg
-	slv	noga	n-f$n	spa	pierna	n$n-f$n-f-ND
+	slv	noga	n-f$n	spa	pierna	n-f$n$n-f-ND
 	slv	kmet	n-ma$n	spa	peón	n$n-m$n-m-ND
 	slv	tenis	n-mi	spa	tenis	n$n-m$n-m-sp
 	slv	pevec	n-ma$n	spa	cantante	n-mf$n$n-mf-ND
@@ -5149,12 +5149,12 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	portret	n-mi$n	spa	retrato	n-m$n$n-m-ND
 	slv	okus	n-mi	spa	gusto	n-m$n$n-m-sg
 	slv	komisar	n-ma$n	spa	comisario	n-m$n-m-ND
-	slv	ples	n-mi$n	spa	danza	n$n-f$n-f-sg
+	slv	ples	n-mi$n	spa	danza	n-f$n$n-f-sg
 	slv	francoz	n-ma$n	spa	francés	n-m$n-m-ND
 	slv	zid	n-mi	spa	muro	n-m$n$n-m-pl
 	slv	odpadek	n-mi$n	spa	basura	n$n-f$n-f-sg
 	slv	strah	n-mi	spa	temor	n-m$n$n-m-ND
-	slv	kip	n-mi	spa	estatua	n$n-f$n-f-ND
+	slv	kip	n-mi	spa	estatua	n-f$n$n-f-ND
 	slv	duh	n-mi-sg$n-mi	spa	fantasma	n-mf$n-mf-ND
 	slv	angleščina	n-f$n	spa	inglés	n$n-m$n-m-pl
 	slv	napis	n-mi$n	spa	inscripción	n-f$n$n-f-sg
@@ -5200,7 +5200,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	rt	n$n-mi	spa	cabo	n-m$n$n-m-ND
 	slv	top	n-m$n	spa	cañón	n-m$n$n-m-ND
 	slv	odhod	n-mi$n	spa	salida	n-f$n$n-f-ND
-	slv	usta	n-f$n	spa	boca	n$n-f$n-f-ND
+	slv	usta	n-f$n	spa	boca	n-f$n$n-f-ND
 	slv	posestvo	n-nt$n	spa	propiedad	n-f$n$n-f-sg
 	slv	zapora	n-mi$n	spa	barrera	n$n-f$n-f-ND
 	slv	odstotek	n-mi$n	spa	porcentaje	n-m$n$n-m-sg
@@ -5275,7 +5275,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	avtobus	n-mi$n	spa	autobús	n-m$n$n-m-ND
 	slv	zvezek	n-mi$n	spa	cuaderno	n$n-m$n-m-ND
 	slv	naročilo	n-nt	spa	pedido	n-m$n$n-m-ND
-	slv	zajec	n-ma	spa	conejo	n$n-m$n-m-sg
+	slv	zajec	n-ma	spa	conejo	n-m$n$n-m-sg
 	slv	flota	n-f$n	spa	flota	n$n-f$n-f-ND
 	slv	sok	n-mi$n	spa	zumo	n-m$n$n-m-ND
 	slv	drog	n$n-mi	spa	palo	n-m$n$n-m-ND
@@ -5326,7 +5326,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	Koreja	np-top-f	spa	Corea	np-top-f
 	slv	Barcelona	np-top-f	spa	Barcelona	np-top-f$np-top
 	slv	Beograd	np-top-mi$np-top	spa	Beogrado	np-top-m
-	slv	Sodoma	np-top-f	spa	Sodoma	np$np-top-f
+	slv	Sodoma	np-top-f	spa	Sodoma	np-top-f
 	slv	Varšava	np-top-f	spa	Varsovia	np-top-f
 	slv	Anton	np-top$np-top-ma	spa	Anton	np-top-m
 	slv	Boštjan	np-top$np-top-ma	spa	Boštjan	np-top-m
@@ -5793,7 +5793,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	visok	adj	spa	alto	adj$adj-GD-ND
 	slv	kriv	adj$adj-add_comp	spa	culpable	adj-mf$adj$adj-mf-sg
 	slv	nepremočljiv	adj	spa	impermeable	adj$adj-mf$adj-mf-sg
-	slv	rjav	adj$adj-add_comp	spa	marrón	adj$adj-mf$adj-mf-ND$
+	slv	rjav	adj$adj-add_comp	spa	marrón	adj-mf$adj$adj-mf-ND$
 	slv	siv	adj$adj-add_comp	spa	gris	adj-mf$adj-mf-ND$adj$
 	slv	zanimiv	adj	spa	interesante	adj-mf$adj$adj-mf-pl
 	slv	zdrav	adj$adj-add_comp	spa	sano	adj$adj-GD-ND
@@ -5932,7 +5932,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	megličast	adj$adj-add_comp	spa	nebuloso	adj
 	slv	mišičast	adj	spa	muscular	adj$adj-mf$adj-mf-sg
 	slv	pravcat	adj	spa	verdadero	adj$adj-GD-ND$adj-GD
-	slv	rjavkast	adj	spa	marrón	adj$adj-mf$adj-mf-ND$
+	slv	rjavkast	adj	spa	marrón	adj-mf$adj$adj-mf-ND$
 	slv	suhljat	adj$adj-add_comp	spa	sutil	adj$adj-mf$adj-mf-sg
 	slv	temnopolt	adj	spa	negro	adj$adj-GD-ND$adj-GD
 	slv	vegast	adj	spa	irregular	adj-mf$adj$adj-mf-pl
@@ -5964,7 +5964,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	basovski	adj	spa	bajo	adj$adj-GD-ND
 	slv	biološki	adj	spa	biológico	adj$adj-GD-ND$adj-GD
 	slv	bivanjski	adj	spa	existencial	adj$adj-mf$adj-mf-sg
-	slv	bojevniški	adj	spa	guerrero	adj$$adj-GD-ND
+	slv	bojevniški	adj	spa	guerrero	adj$adj-GD-ND
 	slv	bolniški	adj	spa	enfermo	adj$adj-GD-ND$adj-GD
 	slv	dejanski	adj$adj-add_comp	spa	efectivo	adj$adj-GD-ND
 	slv	diplomatski	adj$adj-add_comp	spa	diplomático	adj$adj-GD$adj-GD-ND
@@ -6080,7 +6080,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	trajen	adj$adj-comp	spa	permanente	adj$adj-mf-ND$adj-mf
 	slv	ustvarjalen	adj$adj-comp	spa	creativo	adj$adj-GD-ND
 	slv	značilen	adj$adj-comp	spa	típico	adj$adj-GD-ND$adj-GD
-	slv	bister	adj	spa	inteligente	adj-mf$adj-mf-ND$adj
+	slv	bister	adj	spa	inteligente	adj-mf$adj$adj-mf-ND
 	slv	bivši	adj$adj-nt-sg-acc-ind	spa	ex	adj$adj-mf-sp
 	slv	dosedanji	adj$adj-nt-sg-acc-ind	spa	corriente	adj$adj-mf$adj-mf-sg
 	slv	nadaljnji	adj	spa	ulterior	adj$adj-mf-sg$adj-mf
@@ -6212,7 +6212,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	trenuten	adj$adj-add_comp	spa	corriente	adj$adj-mf$adj-mf-sg
 	slv	trivialen	adj	spa	banal	adj-mf$adj$adj-mf-sg
 	slv	univerzalen	adj	spa	universal	adj$adj-mf$adj-mf-ND
-	slv	uraden	adj$adj-add_comp	spa	oficial	adj$adj-mf$adj-mf-pl
+	slv	uraden	adj$adj-add_comp	spa	oficial	adj-mf$adj$adj-mf-pl
 	slv	uslužen	adj	spa	servicial	adj$adj-mf$adj-mf-sg
 	slv	ustaven	adj$adj-add_comp	spa	constitucional	adj-mf$adj$adj-mf-sg
 	slv	verbalen	adj$adj-add_comp	spa	verbal	adj$adj-mf$adj-mf-pl
@@ -6258,7 +6258,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	zbolel	adj	spa	enfermo	adj$adj-GD-ND$adj-GD
 	slv	enostaven	adj	spa	fácil	adj-mf$adj$adj-mf-ND
 	slv	finalen	adj	spa	final	adj$adj-mf$adj-mf-sg
-	slv	inteligenten	adj$adj-comp	spa	inteligente	adj-mf$adj-mf-ND$adj
+	slv	inteligenten	adj$adj-comp	spa	inteligente	adj-mf$adj$adj-mf-ND
 	slv	intimen	adj$adj-comp	spa	íntimo	adj$adj-GD
 	slv	neploden	adj	spa	estéril	adj-mf$adj$adj-mf-ND
 	slv	nestabilen	adj$adj-comp	spa	inestable	adj$adj-mf-sg$adj-mf
@@ -6312,7 +6312,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	svet	adj	spa	mundo	adj
 	slv	miren	adj$adj-comp	spa	tranquilo	adj$adj-GD-ND$adj-GD
 	slv	raven	adj	spa	liso	adj$adj-GD-ND
-	slv	gladek	adj$adj-add_comp	spa	suave	adj-mf$adj-mf-ND$adj
+	slv	gladek	adj$adj-add_comp	spa	suave	adj-mf$adj$adj-mf-ND
 	slv	mehek	adj	spa	blando	adj$adj-m-sg$adj-m
 	slv	dolg	adj	spa	deuda	adj
 	slv	razen	adj	spa	excepto	adj
@@ -6367,7 +6367,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	navzoč	adj	spa	presente	adj$adj-mf$adj-mf-sg
 	slv	ljubosumen	adj	spa	celoso	adj$adj-GD-ND
 	slv	mednaroden	adj$adj-add_comp	spa	internacional	adj-mf$adj$adj-mf-pl
-	slv	naroden	adj$adj-add_comp	spa	nacional	adj$adj-mf$adj-mf-pl
+	slv	naroden	adj$adj-add_comp	spa	nacional	adj-mf$adj$adj-mf-pl
 	slv	navidezen	adj	spa	virtual	adj-mf$adj$adj-mf-sg
 	slv	nezavesten	adj	spa	inconsciente	adj-mf$adj$adj-mf-sg$
 	slv	odsoten	adj$adj-add_comp	spa	ausente	adj-mf$adj$adj-mf-ND
@@ -6435,7 +6435,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	nag	adj	spa	desnudo	adj$adj-m-sg
 	slv	ubog	adj$adj-add_comp	spa	pobre	adj-mf$adj$adj-mf-ND$
 	slv	tog	adj$adj-add_comp	spa	rígido	adj$adj-m-sg$adj-m
-	slv	blag	adj	spa	suave	adj-mf$adj-mf-ND$adj
+	slv	blag	adj	spa	suave	adj-mf$adj$adj-mf-ND
 	slv	ljubek	adj$adj-add_comp	spa	bonito	adj$adj-GD-ND$
 	slv	opolzek	adj	spa	obsceno	adj$adj-m-sg
 	slv	spolzek	adj	spa	resbaladizo	adj$adj-m-sg
@@ -6457,7 +6457,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	mlačen	adj	spa	tibio	adj$adj-m-sg
 	slv	nedoločen	adj$adj-nt-sg-acc-ind$adj-nt-sg-acc-ind-add_comp	spa	indefinido	adj$adj-m-sg
 	slv	nehoten	adj	spa	involuntario	adj$adj-m-sg
-	slv	položen	adj$adj-comp	spa	suave	adj-mf$adj-mf-ND$adj
+	slv	položen	adj$adj-comp	spa	suave	adj-mf$adj$adj-mf-ND
 	slv	častitljiv	adj	spa	venerable	adj$adj-mf$adj-mf-sg
 	slv	čitljiv	adj	spa	legible	adj-mf$adj
 	slv	dvomljiv	adj$adj-add_comp	spa	dudoso	adj$adj-m-sg
@@ -6528,7 +6528,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	pust	adj	spa	desierto	adj$adj-m-sg
 	slv	trmast	adj$adj-add_comp	spa	obstinado	adj
 	slv	piker	adj	spa	mordaz	adj-mf$adj-mf-pl$adj
-	slv	nežen	adj	spa	suave	adj-mf$adj-mf-ND$adj
+	slv	nežen	adj	spa	suave	adj-mf$adj$adj-mf-ND
 	slv	ohlapen	adj	spa	suelto	adj$$adj-GD-ND
 	slv	primeren	adj$adj-comp	spa	adecuado	adj$adj-GD-ND$adj-GD
 	slv	relativen	adj$adj-comp	spa	relativo	adj$adj-GD-ND$
@@ -6796,7 +6796,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	mističen	adj	spa	místico	adj$adj-GD
 	slv	moden	adj$adj-add_comp	spa	de moda	adj$adj-mf
 	slv	mrzličen	adj	spa	febril	adj$adj-mf$adj-mf-sg
-	slv	nacionalen	adj$adj-add_comp	spa	nacional	adj$adj-mf$adj-mf-pl
+	slv	nacionalen	adj$adj-add_comp	spa	nacional	adj-mf$adj$adj-mf-pl
 	slv	nacističen	adj	spa	nazi	adj$adj-mf$adj-mf-ND
 	slv	nameren	adj$adj-add_comp	spa	deliberado	adj$adj-m-sg
 	slv	nedopusten	adj	spa	inadmisible	adj$adj-mf$adj-mf-sg
@@ -7761,7 +7761,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	zaupati	vblex$vblex-imperf	spa	confiar	vblex
 	slv	zaupati	vblex$vblex-imperf	spa	confiar	vblex
 	slv	umreti	vblex$vblex-perf	spa	morir	vblex
-	slv	cvreti	vblex$vblex-imperf	spa	freír	vblex
+	slv	cvreti	vblex$vblex-imperf	spa	freír	vblex$vblex-pron
 	slv	žreti	vblex$vblex-imperf	spa	devorar	vblex
 	slv	čitati	vblex$vblex-imperf$vblex-imperf-tv	spa	leer	vblex
 	slv	domišljati	vblex$vblex-imperf	spa	imaginar	vblex
@@ -7931,7 +7931,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	odnašati	vblex$vblex-imperf-tv	spa	sacar	vblex
 	slv	odpravljati	vblex	spa	eliminar	vblex
 	slv	odvzemati	vblex	spa	sacar	vblex
-	slv	opominjati	vblex$vblex-imperf	spa	acordar	vblex
+	slv	opominjati	vblex$vblex-imperf	spa	acordar	vblex$vblex-pron
 	slv	oponašati	vblex	spa	imitar	vblex
 	slv	opotekati	vblex	spa	vacilar	vblex
 	slv	opravljati	vblex$vblex-imperf	spa	trabajar	vblex
@@ -8045,7 +8045,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	izpostaviti	vblex$vblex-perf	spa	exponer	vblex
 	slv	iztrebiti	vblex$vblex-perf	spa	exterminar	vblex
 	slv	nabaviti	vblex	spa	comprar	vblex
-	slv	nalepiti	vblex	spa	pegar	vblex
+	slv	nalepiti	vblex	spa	pegar	vblex$vblex-pron
 	slv	natopiti	vblex	spa	saturar	vblex
 	slv	odkupiti	vblex$vblex-perf	spa	comprar	vblex
 	slv	oslabiti	vblex$vblex-perf	spa	debilitar	vblex
@@ -8094,7 +8094,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	izriniti	vblex	spa	cazar	vblex
 	slv	povzdigniti	vblex	spa	elevar	vblex
 	slv	razgrniti	vblex	spa	deshacer	vblex
-	slv	spreobrniti	vblex	spa	convertir	vblex
+	slv	spreobrniti	vblex	spa	convertir	vblex$vblex-pron
 	slv	ukreniti	vblex	spa	actuar	vblex
 	slv	vdihniti	vblex	spa	inhalar	vblex
 	slv	vriniti	vblex	spa	insertar	vblex
@@ -8357,9 +8357,9 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	deliti	vblex$vblex-imperf	spa	dividir	vblex
 	slv	govoriti	vblex$vblex-imperf-tv$vblex-imperf	spa	hablar	vblex$vblex-vbact
 	slv	žaliti	vblex$vblex-imperf	spa	insultar	vblex
-	slv	dogovoriti	vblex$vblex-perf	spa	acordar	vblex
+	slv	dogovoriti	vblex$vblex-perf	spa	acordar	vblex$vblex-pron
 	slv	spomniti	vblex$vblex-perf-tv	spa	recordar	vblex
-	slv	udariti	vblex$vblex-perf-tv	spa	pegar	vblex
+	slv	udariti	vblex$vblex-perf-tv	spa	pegar	vblex$vblex-pron
 	slv	skriti	vblex$vblex-perf-tv	spa	esconder	vblex$vblex-vbact
 	slv	vzeti	vblex$vblex-perf	spa	tomar	vblex$vblex-inf
 	slv	okusiti	vblex	spa	probar	vblex
@@ -8372,7 +8372,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	kontrolirati	vblex-imperf-tv$vblex$vblex-imperf	spa	comprobar	vblex
 	slv	kontrolirati	vblex-imperf-tv$vblex$vblex-imperf	spa	comprobar	vblex
 	slv	nadaljevati	vblex$vblex-imperf$vblex-imperf-tv	spa	continuar	vblex
-	slv	premakniti	vblex$vblex-perf	spa	mover	vblex
+	slv	premakniti	vblex$vblex-perf	spa	mover	vblex$vblex-pron
 	slv	rezati	vblex$vblex-imperf	spa	cortar	vblex
 	slv	jezditi	vblex	spa	montar	vblex
 	slv	zvoniti	vblex	spa	tocar	vblex
@@ -8397,7 +8397,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	pripasti	vblex$vblex-perf	spa	pertenecer	vblex
 	slv	povzpeti	vblex	spa	subir	vblex
 	slv	uvesti	vblex$vblex-perf	spa	introducir	vblex
-	slv	gibati	vblex	spa	mover	vblex
+	slv	gibati	vblex	spa	mover	vblex$vblex-pron
 	slv	črtati	vblex	spa	borrar	vblex
 	slv	grajati	vblex$vblex-imperf	spa	criticar	vblex
 	slv	nadzirati	vblex	spa	controlar	vblex
@@ -8505,7 +8505,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	eksistirati	vblex	spa	existir	vblex
 	slv	funkcionirati	vblex	spa	funcionar	vblex
 	slv	izdajati	vblex$vblex-imperf	spa	publicar	vblex
-	slv	izgledati	vblex$vblex-imperf	spa	parecer	vblex$
+	slv	izgledati	vblex$vblex-imperf	spa	parecer	vblex$$vblex-pron
 	slv	izhajati	vblex-imperf$vblex	spa	venir	vblex
 	slv	izjavljati	vblex	spa	declarar	vblex
 	slv	izpadati	vblex	spa	caer	vblex
@@ -8516,7 +8516,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	nadomeščati	vblex	spa	sustituir	vblex
 	slv	nahajati	vblex$vblex-imperf	spa	hallar	vblex
 	slv	nanašati	vblex$vblex-imperf-tv	spa	referir	vblex
-	slv	napadati	vblex	spa	pegar	vblex
+	slv	napadati	vblex	spa	pegar	vblex$vblex-pron
 	slv	napenjati	vblex	spa	tender	vblex
 	slv	naraščati	vblex$vblex-imperf	spa	aumentar	vblex
 	slv	naslanjati	vblex	spa	apoyar	vblex
@@ -8824,7 +8824,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	trditi	vblex$vblex-imperf	spa	afirmar	vblex
 	slv	voditi	vblex-imperf$vblex	spa	conducir	vblex
 	slv	meniti	vblex$vblex-imperf	spa	pensar	vblex$vblex-vbact
-	slv	lepiti	vblex	spa	pegar	vblex
+	slv	lepiti	vblex	spa	pegar	vblex$vblex-pron
 	slv	oblačiti	vblex$vblex-imperf	spa	vestir	vblex
 	slv	pomniti	vblex	spa	significar	vblex
 	slv	tolmačiti	vblex$vblex-imperf	spa	interpretar	vblex
@@ -8883,7 +8883,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	ukloniti	vblex	spa	declinar	vblex
 	slv	ustvariti	vblex$vblex-perf	spa	crear	vblex
 	slv	zameriti	vblex	spa	ofender	vblex
-	slv	zapomniti	vblex$vblex-perf	spa	acordar	vblex
+	slv	zapomniti	vblex$vblex-perf	spa	acordar	vblex$vblex-pron
 	slv	zmeniti	vblex	spa	concordar	vblex
 	slv	voliti	vblex$vblex-imperf-tv	spa	votar	vblex
 	slv	izpiti	vblex	spa	beber	vblex$vblex-vbact
@@ -9023,7 +9023,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	pokusiti	vblex	spa	probar	vblex
 	slv	poskusiti	vblex	spa	intentar	vblex
 	slv	izmeriti	vblex	spa	medir	vblex
-	slv	sprijeti	vblex	spa	pegar	vblex
+	slv	sprijeti	vblex	spa	pegar	vblex$vblex-pron
 	slv	veseliti	vblex	spa	alegrar	vblex
 	slv	renčati	vblex	spa	gruñir	vblex
 	slv	zakričati	vblex$vblex-perf	spa	gritar	vblex
@@ -9108,7 +9108,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	daljšati	vblex	spa	alargar	vblex
 	slv	dodajati	vblex$vblex-imperf	spa	añadir	vblex
 	slv	dogajati	vblex-imperf$vblex	spa	pasar	vblex
-	slv	dogovarjati	vblex	spa	acordar	vblex
+	slv	dogovarjati	vblex	spa	acordar	vblex$vblex-pron
 	slv	domnevati	vblex	spa	suponer	vblex
 	slv	eksperimentirati	vblex	spa	experimentar	vblex
 	slv	hujskati	vblex	spa	instigar	vblex
@@ -9133,7 +9133,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	manjšati	vblex	spa	reducir	vblex
 	slv	mehčati	vblex	spa	ablandar	vblex
 	slv	mežikati	vblex	spa	parpadear	vblex
-	slv	migati	vblex	spa	mover	vblex
+	slv	migati	vblex	spa	mover	vblex$vblex-pron
 	slv	motati	vblex	spa	devanar	vblex
 	slv	načenjati	vblex	spa	corroer	vblex
 	slv	nagajati	vblex	spa	molestar	vblex
@@ -9166,7 +9166,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	pokati	vblex	spa	reventar	vblex
 	slv	pokopavati	vblex	spa	enterrar	vblex
 	slv	pometati	vblex	spa	barrer	vblex
-	slv	pomikati	vblex	spa	mover	vblex
+	slv	pomikati	vblex	spa	mover	vblex$vblex-pron
 	slv	popuščati	vblex	spa	disminuir	vblex
 	slv	posegati	vblex	spa	interferir	vblex
 	slv	pospravljati	vblex	spa	ordenar	vblex$vblex-tv
@@ -9178,7 +9178,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	prekrivati	vblex	spa	cubrir	vblex
 	slv	prelagati	vblex	spa	trasladar	vblex
 	slv	premetavati	vblex$vblex-imperf	spa	revolver	vblex
-	slv	premikati	vblex-imperf$vblex	spa	mover	vblex
+	slv	premikati	vblex-imperf$vblex	spa	mover	vblex$vblex-pron
 	slv	prepletati	vblex	spa	entrelazar	vblex
 	slv	prerekati	vblex	spa	discutir	vblex
 	slv	preživljati	vblex$vblex-imperf	spa	pasar	vblex
@@ -9281,7 +9281,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	nadeti	vblex	spa	poner	vblex
 	slv	bogatiti	vblex	spa	enriquecer	vblex
 	slv	bremeniti	vblex	spa	cargar	vblex
-	slv	sporazumeti	vblex	spa	acordar	vblex
+	slv	sporazumeti	vblex	spa	acordar	vblex$vblex-pron
 	slv	hlepeti	vblex	spa	anhelar	vblex
 	slv	razdreti	vblex$vblex-perf	spa	descomponer	vblex
 	slv	javiti	vblex	spa	comunicar	vblex
@@ -9301,12 +9301,12 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	poživiti	vblex	spa	estimular	vblex
 	slv	prebaviti	vblex	spa	digerir	vblex
 	slv	preklopiti	vblex	spa	cambiar	vblex
-	slv	prelepiti	vblex	spa	adherir	vblex
+	slv	prelepiti	vblex	spa	adherir	vblex$vblex-pron
 	slv	prelomiti	vblex	spa	romper	vblex
 	slv	preplaviti	vblex	spa	inundar	vblex
 	slv	preslepiti	vblex	spa	engañar	vblex
 	slv	prestaviti	vblex	spa	trasladar	vblex
-	slv	prilepiti	vblex	spa	pegar	vblex
+	slv	prilepiti	vblex	spa	pegar	vblex$vblex-pron
 	slv	proslaviti	vblex$vblex-perf	spa	celebrar	vblex
 	slv	razlomiti	vblex	spa	romper	vblex
 	slv	razveljaviti	vblex$vblex-perf	spa	anular	vblex$
@@ -9320,7 +9320,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	zapraviti	vblex	spa	gastar	vblex
 	slv	zaslepiti	vblex	spa	deslumbrar	vblex
 	slv	zastrupiti	vblex	spa	envenenar	vblex
-	slv	zlepiti	vblex	spa	pegar	vblex
+	slv	zlepiti	vblex	spa	pegar	vblex$vblex-pron
 	slv	zvabiti	vblex	spa	atraer	vblex
 	slv	drobiti	vblex	spa	desmenuzar	vblex
 	slv	rabiti	vblex$vblex-imperf	spa	necesitar	vblex
@@ -9403,14 +9403,14 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	ugrizniti	vblex	spa	morder	vblex
 	slv	ukiniti	vblex	spa	cancelar	vblex
 	slv	uščipniti	vblex	spa	pellizcar	vblex
-	slv	vrniti	vblex$vblex-perf	spa	volver	vblex
+	slv	vrniti	vblex$vblex-perf	spa	volver	vblex$vblex-pron
 	slv	vtakniti	vblex	spa	introducir	vblex
 	slv	zamahniti	vblex	spa	agitar	vblex
 	slv	zamakniti	vblex	spa	desplazar	vblex
 	slv	zatisniti	vblex	spa	tapar	vblex
-	slv	zganiti	vblex	spa	mover	vblex
+	slv	zganiti	vblex	spa	mover	vblex$vblex-pron
 	slv	zriniti	vblex	spa	empujar	vblex
-	slv	zvrniti	vblex	spa	volver	vblex
+	slv	zvrniti	vblex	spa	volver	vblex$vblex-pron
 	slv	preplesti	vblex	spa	entrelazar	vblex
 	slv	zaplesti	vblex	spa	enredar	vblex
 	slv	zgnesti	vblex	spa	amasar	vblex
@@ -9426,7 +9426,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	potešiti	vblex	spa	saciar	vblex
 	slv	izkazati	vblex$vblex-perf$vblex-perf-tv	spa	sobresalir	vblex
 	slv	dojemati	vblex	spa	comprender	vblex
-	slv	zdeti	vblex$vblex-imperf	spa	parecer	vblex$
+	slv	zdeti	vblex$vblex-imperf	spa	parecer	vblex$$vblex-pron
 	slv	napovedati	vblex-perf$vblex	spa	anunciar	vblex
 	slv	temniti	vblex	spa	oscurecer	vblex
 	slv	potiti	vblex	spa	sudar	vblex
@@ -9554,7 +9554,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	zasmejati	vblex	spa	reír	vblex$vblex-inf
 	slv	zakopati	vblex	spa	enterrar	vblex
 	slv	vdreti	vblex	spa	entrar	vblex
-	slv	oprijemati	vblex	spa	pegar	vblex
+	slv	oprijemati	vblex	spa	pegar	vblex$vblex-pron
 	slv	sprijemati	vblex	spa	coger	vblex
 	slv	pozvati	vblex$vblex-perf	spa	llamar	vblex$vblex-pp
 	slv	žeti	vblex	spa	cosechar	vblex
@@ -10123,7 +10123,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	grmeti	vblex	spa	tronar	vblex
 	slv	puhteti	vblex	spa	disipar	vblex
 	slv	vzdrhteti	vblex	spa	temblar	vblex
-	slv	zazdeti	vblex	spa	parecer	vblex$
+	slv	zazdeti	vblex	spa	parecer	vblex$$vblex-pron
 	slv	nadišaviti	vblex	spa	perfumar	vblex
 	slv	pokupiti	vblex	spa	acaparar	vblex
 	slv	pristaviti	vblex	spa	poner	vblex
@@ -10203,14 +10203,14 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	pokrasti	vblex	spa	robar	vblex
 	slv	butniti	vblex	spa	empujar	vblex
 	slv	kloniti	vblex	spa	ceder	vblex
-	slv	migniti	vblex	spa	mover	vblex
+	slv	migniti	vblex	spa	mover	vblex$vblex-pron
 	slv	odjekniti	vblex	spa	resonar	vblex
 	slv	poginiti	vblex	spa	morir	vblex
 	slv	sikniti	vblex	spa	silbar	vblex
 	slv	šepniti	vblex	spa	susurrar	vblex
 	slv	utoniti	vblex	spa	ahogar	vblex
 	slv	zavzdihniti	vblex	spa	suspirar	vblex
-	slv	zmigniti	vblex	spa	mover	vblex
+	slv	zmigniti	vblex	spa	mover	vblex$vblex-pron
 	slv	blatiti	vblex	spa	manchar	vblex
 	slv	krušiti	vblex	spa	desmenuzar	vblex
 	slv	izmučiti	vblex	spa	agotar	vblex
@@ -10346,7 +10346,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	nameščati	vblex	spa	instalar	vblex
 	slv	naseliti	vblex	spa	poblar	vblex
 	slv	naslikati	vblex	spa	pintar	vblex
-	slv	navezati	vblex	spa	pegar	vblex
+	slv	navezati	vblex	spa	pegar	vblex$vblex-pron
 	slv	obžalovati	vblex$vblex-imperf	spa	deplorar	vblex
 	slv	odmašiti	vblex	spa	destapar	vblex
 	slv	odpovedati	vblex$vblex-perf$vblex-perf-tv	spa	rescindir	vblex
@@ -10357,7 +10357,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	podvomiti	vblex	spa	dudar	vblex
 	slv	pogubiti	vblex	spa	matar	vblex
 	slv	presekati	vblex$vblex-perf	spa	cortar	vblex
-	slv	pretepsti	vblex$vblex-perf-tv	spa	pegar	vblex
+	slv	pretepsti	vblex$vblex-perf-tv	spa	pegar	vblex$vblex-pron
 	slv	prisesti	vblex$vblex-perf	spa	sentar	vblex$vblex-inf
 	slv	prizadevati	vblex$vblex-imperf	spa	herir	vblex
 	slv	razbežati	vblex	spa	dispersar	vblex
@@ -10436,7 +10436,7 @@ RL	slv	pilot	n-GD	spa	piloto	n$n-mf$n-mf-ND
 	slv	naslikati	vblex	spa	pintar	vblex
 	slv	zastaviti	vblex	spa	poner	vblex
 	slv	ohladiti	vblex	spa	enfriar	vblex
-	slv	navezati	vblex	spa	pegar	vblex
+	slv	navezati	vblex	spa	pegar	vblex$vblex-pron
 	slv	tikati	vblex	spa	tutear	vblex
 	slv	odlagati	vblex$vblex-imperf	spa	dejar	vblex
 	slv	izvesti	vblex-perf$vblex	spa	realizar	vblex
@@ -10511,7 +10511,7 @@ LR	slv	zaskeleti	vblex	spa	picar	vblex
 LR	slv	izčistiti	vblex	spa	limpiar	vblex
 LR	slv	prekrstiti	vblex	spa	bautizar	vblex
 LR	slv	nalomiti	vblex	spa	romper	vblex
-LR	slv	polepiti	vblex	spa	pegar	vblex
+LR	slv	polepiti	vblex	spa	pegar	vblex$vblex-pron
 LR	slv	prikupiti	vblex	spa	comprar	vblex
 LR	slv	zakriviti	vblex	spa	doblar	vblex
 LR	slv	porezati	vblex	spa	cortar	vblex

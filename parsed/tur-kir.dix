@@ -103,7 +103,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	süresince	post	kir	боюнча	post
 	tur	yukarı	post	kir	өйдө	post
 	tur	ile	post	kir	менен	post
-	tur	ait	post$	kir	караштуу	post
+	tur	ait	post	kir	караштуу	post
 	tur	dolu	post	kir	бою	post
 	tur	orta	n$	kir	орто	n
 	tur	üst	n$	kir	үст	n
@@ -117,7 +117,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	onlar	prn-pers$prn-pers-p3-pl	kir	алар	prn-pers-p3-pl$prn-pers
 	tur	o	prn-dem$prn-dem-loc	kir	ал	prn-dem
 	tur	bu	prn-dem$prn-dem-abl$prn	kir	бул	prn-dem
-	tur	kendi	prn$prn-ref$$prn-ref-px3sp	kir	өз	prn-ref
+	tur	kendi	prn-ref$prn$$prn-ref-px3sp	kir	өз	prn-ref
 	tur	birbir	$n	kir	бири-бир	n
 	tur	şu	prn-dem$prn-dem-dat	kir	ушул	prn-dem
 	tur	bura	prn-dem	kir	бул жер	prn-dem
@@ -130,17 +130,17 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	öteki	prn-dem$prn	kir	тиги	prn-dem
 	tur	şura	prn-adv	kir	ушу жер	prn-dem
 	tur	hepsi	prn-ind	kir	баары	prn-ind
-	tur	biri	prn-ind$$prn	kir	бир	num$num-coll
-	tur	biri	prn-ind$$prn	kir	кимдир бирөө	prn-ind
+	tur	biri	prn-ind$$prn$prn-ind-px3pl-nom	kir	бир	num$num-coll
+	tur	biri	prn-ind$$prn$prn-ind-px3pl-nom	kir	кимдир бирөө	prn-ind
 	tur	birisi	prn-qnt$prn	kir	бир	num$num-coll
-	tur	birisi	prn-ind	kir	кимдир бирөө	prn-ind
+	tur	birisi	prn-ind$prn-ind-px3sp-nom	kir	кимдир бирөө	prn-ind
 	tur	kimse	prn-qnt$	kir	кимдир бирөө	prn-ind
 	tur	başka	prn-ind	kir	башка	prn-ind
 	tur	bu	det-dem$det$det-dem-qnt	kir	бул	det-dem
-	tur	hiçbir	det-qnt$det	kir	эч бир	det-ind
+	tur	hiçbir	det$det-qnt	kir	эч бир	det-ind
 	tur	her	det$det-dem	kir	ар	det-ind
 	tur	bazı	det-ind	kir	кээбир	det-ind
-	tur	bazı	det-qnt$det	kir	бир нече	det-qnt
+	tur	bazı	det-qnt$det$	kir	бир нече	det-qnt
 	tur	bir	det-ind$det	kir	бир	det-ind
 	tur	tek	det$det-ind	kir	жалгыз	det-ind
 	tur	kendi	det-ref	kir	өз	det-ref
@@ -824,7 +824,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	dergi	n$	kir	журнал	n
 	tur	dernek	n$	kir	коом	n
 	tur	dershane	n$	kir	класс	n
-	tur	derviş	$n	kir	дербиш	n
+	tur	derviş	n$	kir	дербиш	n
 	tur	desen	n$	kir	оймо	n
 	tur	destan	n$	kir	дастан	n
 	tur	destek	n$	kir	колдоо	n
@@ -2857,7 +2857,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	hareket	n$	kir	аракет	n
 	tur	hareket	n$	kir	кыймыл	n
 	tur	balkan	$n	kir	тоолуу коргон	n
-	tur	günlük	n	kir	күндөлүк	n
+	tur	günlük	n$	kir	күндөлүк	n
 	tur	oran	n$	kir	барабардык	n
 	tur	oran	n$	kir	пропортсия	n
 	tur	banka	n	kir	банк	n
@@ -2879,8 +2879,8 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	soruşturma	n$	kir	сурамжылоо	n
 	tur	art	n$n-px3sp-abl	kir	арт	n
 	tur	art	n$n-px3sp-abl	kir	анан	adv
-	tur	mali	n$	kir	акчалуу	n
-	tur	mali	n$	kir	каражатту	n
+	tur	mali	n	kir	акчалуу	n
+	tur	mali	n	kir	каражатту	n
 	tur	para	n$	kir	акча	n
 	tur	para	n$	kir	пул	n
 	tur	bölgesel	n	kir	аймактык	n
@@ -3734,7 +3734,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	açlık	n$	kir	ачкачылык	n
 	tur	tabi	n	kir	көз каранды	n
 	tur	post	n$	kir	пост	n
-	tur	kıyas	$n	kir	салыштыруу	n
+	tur	kıyas	n$	kir	салыштыруу	n
 	tur	kenar	n$	kir	чет	n
 	tur	sicil	$n	kir	өздүк дело	n
 	tur	amiral	n$	kir	адмирал	n
@@ -3811,7 +3811,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	merci	n$	kir	чечкен орган	n
 	tur	işveren	n$	kir	ишкер	n
 	tur	dilim	n$	kir	тилим	n
-	tur	cinsel	$n	kir	жыныстык	n
+	tur	cinsel	n	kir	жыныстык	n
 	tur	uygulama	n$	kir	колдонмо	n
 	tur	dönüşüm	n$	kir	өзгөрүш	n
 	tur	dijital	$n	kir	санарип	n
@@ -4392,7 +4392,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	bildirim	$n	kir	эскертүү	n
 	tur	ast	n$	kir	аст	n
 	tur	alüminyum	n$	kir	алюминий	n
-	tur	zina	$n	kir	никеден тышкары жыныстык байланыш	n
+	tur	zina	n$	kir	никеден тышкары жыныстык байланыш	n
 	tur	vesile	n$	kir	себеп	n
 	tur	verim	n$	kir	өндүрүмдүүлүк	n
 	tur	vasıta	n$	kir	каражат	n
@@ -5085,8 +5085,8 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	uluslararası	adj$	kir	эларалык	adj
 	tur	ulusal	adj$	kir	улуттук	adj
 	tur	ilişkin	adj$	kir	байланыштуу	adj
-	tur	bazı	adj$	kir	кээбир	adj
-	tur	bazı	adj$	kir	айрым	adj
+	tur	bazı	adj	kir	кээбир	adj
+	tur	bazı	adj	kir	айрым	adj
 	tur	kamu	adj	kir	коомчулуктуу	adj
 	tur	mevcut	adj	kir	камтылган	adj
 	tur	gelecek	adj	kir	келечек	adj
@@ -5297,7 +5297,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	negatif	adj$	kir	негативдүү	adj
 	tur	ekşi	adj	kir	кычкыл	adj
 	tur	yiğit	adj	kir	эр жүрөк	adj
-	tur	yenik	$adj	kir	утулган	adj
+	tur	yenik	adj$	kir	утулган	adj
 	tur	taklit	adj	kir	тууранды	adj
 	tur	sözkonusu	$adj	kir	кеп болуп жаткан	adj
 	tur	manevi	adj$	kir	рухий	adj
@@ -5622,7 +5622,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	kare	adj	kir	чарчы	adj
 	tur	kalpazan	$adj	kir	алдамчы	adj
 	tur	kahverengi	adj$	kir	күроң	adj
-	tur	kabadayı	adj$	kir	зөөкүр	adj
+	tur	kabadayı	adj	kir	зөөкүр	adj
 	tur	isveçli	adj$	kir	швед	adj
 	tur	ıslak	adj$	kir	ным	adj
 	tur	inik	$adj	kir	түшүрүлгөн	adj
@@ -5830,7 +5830,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	yeni	adv	kir	эми	adv
 	tur	ara sıra	adv	kir	анда санда	adv
 	tur	bir	adv	kir	бир	adv
-	tur	ne	adv$adv-itg	kir	эмне	adv
+	tur	ne	adv-itg$adv	kir	эмне	adv
 	tur	iyi	adv	kir	жакшы	adv
 	tur	açık	adv	kir	ачык	adv
 	tur	kaçak	adv	kir	уруксаатсыз	adv
@@ -6730,7 +6730,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	mahvet	v-tv$v	kir	жок кыл	v-tv
 	tur	lanetle	v$v-tv	kir	карга	v-iv
 	tur	kutsa	v-tv$v	kir	ыйык көр	v-iv
-	tur	ispatla	v$v-tv	kir	тастыкта	v-tv
+	tur	ispatla	v-tv$v	kir	тастыкта	v-tv
 	tur	dizginle	v-tv$v	kir	тизгинде	v-tv
 	tur	çürü	v-tv$v	kir	чири	v-tv
 	tur	cezala	v$v-iv	kir	жазала	v-tv

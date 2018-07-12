@@ -387,18 +387,18 @@ LR	ces	čí	det-itg$det-itg-ma	slk	čí	det-itg$det-itg-ma
 	ces	tři sta	num-qnt-nm	slk	tristo	num-qnt-mf
 	ces	čtyři sta	num-qnt-nm	slk	štyristo	num-qnt-mf
 	ces	indikátor	n-mi	slk	indikátor	n-mi
-	ces	leden	n-mi	slk	január	n-mi
-	ces	únor	n-mi	slk	február	n-mi
-	ces	březen	n-mi	slk	marec	n-mi
-	ces	duben	n-mi	slk	apríl	n-mi
-	ces	květen	n-mi	slk	máj	n-mi
-	ces	červen	n-mi	slk	jún	n-mi
-	ces	červenec	n-mi	slk	júl	n-mi
-	ces	srpen	n-mi	slk	august	n-mi
-	ces	září	n-mi	slk	september	n-mi
-	ces	říjen	n-mi	slk	október	n-mi
-	ces	listopad	n-mi	slk	november	n-mi
-	ces	prosinec	n-mi	slk	december	n-mi
+	ces	leden	n-mi$n	slk	január	n-mi
+	ces	únor	n-mi$n	slk	február	n-mi
+	ces	březen	n-mi$n	slk	marec	n-mi
+	ces	duben	n-mi$n	slk	apríl	n-mi
+	ces	květen	n-mi$n	slk	máj	n-mi
+	ces	červen	n-mi$n	slk	jún	n-mi
+	ces	červenec	n-mi$n	slk	júl	n-mi
+	ces	srpen	n-mi$n	slk	august	n-mi
+	ces	září	n-mi$n	slk	september	n-mi
+	ces	říjen	n-mi$n	slk	október	n-mi
+	ces	listopad	n-mi$n	slk	november	n-mi
+	ces	prosinec	n-mi$n	slk	december	n-mi
 	ces	abaka	n-f	slk	abaka	n-f
 	ces	abakan	n-mi	slk	abakan	n-mi
 	ces	abakus	n-mi	slk	abakus	n-mi
@@ -446,7 +446,7 @@ LR	ces	čí	det-itg$det-itg-ma	slk	čí	det-itg$det-itg-ma
 	ces	antivitamín	n-f	slk	antivitamín	n-mi
 	ces	anýzovka	n-f	slk	anýzovka	n-f
 	ces	apatit	n-mi	slk	apatit	n-mi
-	ces	chuť	n-mi	slk	chuť	n-mi
+	ces	chuť	n$n-mi	slk	chuť	n-mi
 LR	ces	afélium	n-nt	slk	afélium	n-mi
 	ces	apostrof	n-f	slk	apostrof	n-mi
 	ces	aquapark	n-mi	slk	aquapark	n-mi
@@ -579,7 +579,7 @@ RL	ces	businessman	n-ma	slk	businessman	n-ma
 	ces	chanát	n-mi	slk	chanát	n-mi
 	ces	charisma	n-f	slk	charizma	n-f
 	ces	chalva	n-f	slk	chalva	n-f
-	ces	chinin	n-f	slk	chinín	n-mi
+	ces	chinin	n$n-f	slk	chinín	n-mi
 	ces	chinolin	n-f	slk	chinolín	n-mi
 	ces	čipset	n-mi	slk	čipset	n-mi
 	ces	chloroform	n-mi	slk	chloroform	n-mi
@@ -690,7 +690,7 @@ LR	ces	střecha	n-mi	slk	strecha	n-f
 	ces	fikus	n-mi	slk	fikus	n-mi
 	ces	filé	n-f	slk	filé	n-mi
 	ces	kélimek	n-f	slk	kelímok	n-mi
-	ces	šálek	n-mi	slk	šálka	n-f
+	ces	šálek	n-mi$n	slk	šálka	n-f
 	ces	flakón	n-mi	slk	flakón	n-mi
 	ces	flavonoid	n-mi	slk	flavonoid	n-mi
 	ces	flegmatik	n-mi	slk	flegmatik	n-mi
@@ -727,7 +727,7 @@ LR	ces	barkarola	n-f	slk	barkarola	n-f
 	ces	hrach	n-mi	slk	hrach	n-mi
 	ces	tuberkolóza	n-f	slk	tuberkolóza	n-f
 	ces	gryf	n-mi	slk	gryf	n-mi
-	ces	hřích	n-mi	slk	hriech	n-mi
+	ces	hřích	n-mi$n	slk	hriech	n-mi
 	ces	hřišník	n-ma	slk	hriešnik	n-ma
 	ces	gumovky	n-mi	slk	gumovky	n-mi
 	ces	gulag	n-mi	slk	gulag	n-mi
@@ -881,7 +881,7 @@ LR	ces	barkarola	n-f	slk	barkarola	n-f
 	ces	mikroanalýza	n-f	slk	mikroanalýza	n-f
 	ces	mikroflóra	n-f	slk	mikroflóra	n-f
 	ces	mikrokapsle	n-f	slk	mikrokapsule	n-f
-	ces	milice	n-f	slk	milícia	n-f
+	ces	milice	n$n-f	slk	milícia	n-f
 	ces	netýkavka	n-f	slk	netýkavka	n-f
 	ces	internacionál	n-f	slk	internacionál	n-mi
 	ces	mlekář	n-ma	slk	mliekar	n-ma
@@ -927,7 +927,7 @@ LR	ces	barkarola	n-f	slk	barkarola	n-f
 	ces	nobelant	n-mi	slk	nobelant	n-mi
 	ces	nobelantka	n-f	slk	nobelantka	n-f
 	ces	nocleh	n-mi	slk	nocľah	n-mi
-	ces	noha	n-f	slk	noha	n-f
+	ces	noha	n-f$n	slk	noha	n-f
 	ces	nohavička	n-f	slk	nohavička	n-f
 	ces	notářka	n-f	slk	notárka	n-f
 	ces	notebook	n-mi	slk	notebook	n-mi
@@ -1022,7 +1022,7 @@ LR	ces	plánovač	n-ma	slk	plánovač	n-mi
 	ces	podtyp	n-mi	slk	podtyp	n-mi
 	ces	podsoubor	n-mi	slk	podsúbor	n-mi
 	ces	podiv	n-mi	slk	podiv	n-mi
-	ces	podlaha	n-f	slk	podlaha	n-f
+	ces	podlaha	n-f$n	slk	podlaha	n-f
 	ces	honba	n-f	slk	honba	n-f
 	ces	polymeráza	n-f	slk	polymeráza	n-f
 	ces	pontifikát	n-mi	slk	pontifikát	n-mi
@@ -1054,7 +1054,7 @@ RL	ces	rozloha	n-f	slk	rozloha	n-f
 	ces	programátor	n-mi	slk	programátor	n-mi
 	ces	vývojář	n-ma	slk	vývojár	n-ma
 	ces	prolog	n-mi	slk	prológ	n-mi
-	ces	prase	n-nt	slk	prasa	n-n$n-mi
+	ces	prase	n$n-nt	slk	prasa	n-n$n-mi
 	ces	baloun	n-mi	slk	balón	n-mi
 	ces	usměrňovač	n-mi	slk	usmerňovač	n-mi
 	ces	zapisovatel	n-mi	slk	zapisovateľ	n-mi
@@ -1069,7 +1069,7 @@ RL	ces	rozloha	n-f	slk	rozloha	n-f
 	ces	remake	n-f	slk	remake	n-f
 	ces	nadnešeně	n-f	slk	nadnesene	n-mi
 	ces	pověra	n-mi	slk	povera	n-f
-	ces	vedoucí	n-mi	slk	vedúci	n-mi
+	ces	vedoucí	n$n-mi	slk	vedúci	n-mi
 	ces	dopravce	n-ma	slk	dopravca	n-f
 	ces	přístavba	n-f	slk	prístavba	n-f
 	ces	adheze	n-nt	slk	adhézia	n-f
@@ -1213,7 +1213,7 @@ LR	ces	taktik	n-ma	slk	taktik	n-mi
 	ces	transdukce	n-f	slk	transdukcia	n-f
 	ces	transkriptáza	n-f	slk	transkriptáza	n-f
 	ces	transsexuál	n-mi	slk	transsexuál	n-mi
-	ces	tráva	n-f	slk	tráva	n-f
+	ces	tráva	n-f$n	slk	tráva	n-f
 	ces	trauler	n-mi	slk	trauler	n-mi
 	ces	trias	n-mi	slk	trias	n-mi
 	ces	triforium	n-nt	slk	trifórium	n-mi
@@ -1299,7 +1299,7 @@ LR	ces	strach	n-f	slk	strach	n-mi
 	ces	patogen	n-mi	slk	patogén	n-mi
 	ces	zárodek	n-mi	slk	zárodok	n-mi
 	ces	závlačka	n-f	slk	závlačka	n-f
-	ces	sešit	n-mi	slk	zošit	n-mi
+	ces	sešit	n-mi$n	slk	zošit	n-mi
 	ces	vypověđ	n-nt	slk	vypoveď	n-mi
 	ces	vřídek	n-nt	slk	vriedok	n-mi
 	ces	lasička	n-f	slk	lasička	n-f
@@ -1320,7 +1320,7 @@ LR	ces	strach	n-f	slk	strach	n-mi
 	ces	štěrk	n-mi	slk	štrk	n-mi
 	ces	ručitel	n-mi	slk	ručiteľ	n-mi
 	ces	girondisté	n-mi	slk	girondisti	n-mi
-	ces	živel	n-mi	slk	živel	n-mi
+	ces	živel	n-mi$n	slk	živel	n-mi
 	ces	kostival	n-mi	slk	kostival	n-mi
 	ces	živorodá	n-f	slk	živorodá	n-f
 	ces	živorodá	n-mi	slk	živorodý	n-f
@@ -1572,13 +1572,13 @@ LR	ces	rouhání	n-f	slk	rúhanie	n-nt
 	ces	myrta	n-f	slk	myrta	n-f
 	ces	mínění	n-nt	slk	mienka	n-f
 	ces	pomočování	n-nt	slk	pomočovanie	n-nt
-	ces	mono	n$n-f	slk	mono	n-nt
+	ces	mono	n-f	slk	mono	n-nt
 	ces	moralista	n-ma	slk	moralista	n-f
 	ces	poučení	n-mi	slk	poučenie	n-nt
 	ces	moteto	n-ma	slk	moteto	n-nt
 	ces	motocyklista	n-ma	slk	motocyklista	n-f
 	ces	motovidlo	n-nt	slk	motovidlo	n-nt
-	ces	mýdlo	n-nt	slk	mydlo	n-nt
+	ces	mýdlo	n-nt$n	slk	mydlo	n-nt
 	ces	mýto	n-nt	slk	mýto	n-nt
 	ces	čištění	n-nt	slk	čistenie	n-nt
 	ces	omladina	n-f	slk	omladina	n-f
@@ -1617,7 +1617,7 @@ LR	ces	rouhání	n-f	slk	rúhanie	n-nt
 	ces	ochlazení	n-nt	slk	ochladnutie	n-nt
 	ces	dýchání	n-mi	slk	dýchanie	n-nt
 	ces	odškodnění	n-nt	slk	odškodnenie	n-nt
-	ces	příležitost	n-f	slk	príležitosť	n-f
+	ces	příležitost	n-f$n	slk	príležitosť	n-f
 	ces	okénko	n-nt	slk	okienko	n-nt
 	ces	okultista	n-ma	slk	okultista	n-f
 	ces	hlošina	n-mi	slk	hlošina	n-f
@@ -1647,7 +1647,7 @@ LR	ces	rouhání	n-f	slk	rúhanie	n-nt
 	ces	pyžamo	n-f	slk	pyžamo	n-nt
 	ces	pečivo	n-nt	slk	pečivo	n-nt
 	ces	razítko	n-f	slk	pečiatka	n-f
-	ces	kamna	n-mi	slk	pec	n-f
+	ces	kamna	n$n-mi	slk	pec	n-f
 	ces	pinie	n-f	slk	pínie	n-f
 	ces	pipeta	n-f	slk	pipeta	n-f
 	ces	psaníčko	n-nt	slk	lístoček	n-nt
@@ -1710,7 +1710,7 @@ LR	ces	rouhání	n-f	slk	rúhanie	n-nt
 	ces	radost	n-f	slk	radosť	n-f
 	ces	radikálnost	n-f	slk	radikálnosť	n-f
 	ces	chapadlo	n-f	slk	chápadlo	n-nt
-	ces	rameno	n-f	slk	rameno	n-nt
+	ces	rameno	n$n-f	slk	rameno	n-nt
 	ces	rasista	n-ma	slk	rasista	n-f
 	ces	rdesno	n-mi	slk	stavikrv	n-nt
 	ces	realista	n-ma	slk	realista	n-f
@@ -1809,11 +1809,11 @@ LR	ces	zuřivec	n-ma	slk	zúrivec	n-ma
 	ces	odůvodnění	n-nt	slk	odôvodnenie	n-nt
 	ces	kyvadlo	n-nt	slk	kyvadlo	n-nt
 	ces	blbec	n-ma	slk	blbec	n-ma
-	ces	lýkovec	n-mi	slk	lykovec	n-ma
+	ces	lýkovec	n$n-mi	slk	lykovec	n-ma
 	ces	vtělení	n-nt	slk	vtelenie	n-nt
 	ces	ověření	n-f	slk	overenie	n-nt
 	ces	veto	n-nt	slk	veto	n-nt
-	ces	víno	n-nt	slk	víno	n-nt
+	ces	víno	n-nt$n	slk	víno	n-nt
 	ces	předvolání	n-nt	slk	predvolanie	n-nt
 	ces	věnec	n-mi	slk	venec	n-ma
 	ces	věno	n-nt	slk	veno	n-nt
@@ -2022,7 +2022,7 @@ RL	ces	odvážnost	n-f	slk	odvážnosť	n-f
 	ces	geolokace	n-f	slk	geolokácia	n-f
 	ces	habilitace	n-f	slk	habilitácia	n-f
 	ces	hibernace	n-f	slk	hibernácia	n-f
-	ces	implikace	n-f	slk	implikácia	n-f
+	ces	implikace	n-f$n	slk	implikácia	n-f
 	ces	inhalace	n-f	slk	inhalácia	n-f
 	ces	insolace	n-f	slk	insolácia	n-f
 	ces	iterace	n-f	slk	iterácia	n-f
@@ -2175,7 +2175,7 @@ LR	ces	alpinismus	n-mi	slk	alpinizmus	n-mi
 	ces	didaktika	n-ma	slk	didaktika	n-f
 	ces	diplomatika	n-ma	slk	diplomatika	n-f
 	ces	exotika	n-f	slk	exotika	n-f
-	ces	ekliptika	n-f	slk	ekliptika	n-f
+	ces	ekliptika	n-f$n	slk	ekliptika	n-f
 	ces	ekoturistika	n-f	slk	ekoturistika	n-f
 	ces	elektrodynamika	n-f	slk	elektrodynamika	n-f
 	ces	elektrostatika	n-f	slk	elektrostatika	n-f
@@ -2298,7 +2298,7 @@ RL	ces	andělíček	n-ma	slk	anjeliček	n-ma
 	ces	katoda	n-f	slk	katóda	n-f
 	ces	kinematograf	n-mi	slk	kinematograf	n-mi
 	ces	klásek	n-mi	slk	klások	n-mi
-	ces	knedlík	n-mi	slk	knedla	n-mi
+	ces	knedlík	n-mi$n	slk	knedla	n-mi
 	ces	knihkupectví	n-f	slk	kníhkupectvo	n-mi
 	ces	knírač	n-ma	slk	bradáč	n-ma
 	ces	kočár	n-f	slk	kočiar	n-mi
@@ -2388,7 +2388,7 @@ RL	ces	andělíček	n-ma	slk	anjeliček	n-ma
 	ces	pilník	n-mi	slk	pilník	n-mi
 	ces	plagiát	n-mi	slk	plagiát	n-mi
 	ces	plameňák	n-mi	slk	plameniak	n-ma
-	ces	plameňák	n-ma	slk	plameniak	n-ma
+	ces	plameňák	n-ma$n	slk	plameniak	n-ma
 	ces	planetárium	n-nt	slk	planetárium	n-nt
 	ces	plantáž	n-f	slk	plantáž	n-f
 	ces	playback	n-mi	slk	playback	n-mi
@@ -2408,7 +2408,7 @@ RL	ces	andělíček	n-ma	slk	anjeliček	n-ma
 	ces	popálenina	n-nt	slk	popálenina	n-f
 	ces	potrubí	n-mi	slk	potrubie	n-mi
 	ces	pověra	n-mi	slk	povera	n-f
-	ces	pravidlo	n-nt	slk	pravidlo	n-nt
+	ces	pravidlo	n-nt$n	slk	pravidlo	n-nt
 	ces	pravoslaví	n-nt	slk	pravoslávie	n-mi
 	ces	predátor	n-ma	slk	predátor	n-ma
 	ces	předloktí	n-nt	slk	predlaktie	n-mi
@@ -2455,7 +2455,7 @@ RL	ces	andělíček	n-ma	slk	anjeliček	n-ma
 	ces	velitel	n-ma	slk	veliteľ	n-ma
 	ces	reforma	n-f	slk	reforma	n-f
 	ces	pejsek	n-ma	slk	psík	n-ma
-	ces	přítel	n-ma	slk	priateľ	n-ma
+	ces	přítel	n-ma$n	slk	priateľ	n-ma
 	ces	zrcadlo	n-nt	slk	zrkadlo	n-nt
 	ces	emisař	n-ma	slk	emisár	n-ma
 	ces	zmínka	n-f	slk	zmienka	n-f
@@ -2470,11 +2470,11 @@ RL	ces	učiliště	n-f	slk	učilisko	n-nt
 LR	ces	hra	n-nt	slk	hra	n-f
 	ces	kníže	n-ma	slk	knieža	n-ma
 	ces	středisko	n-mi	slk	stredisko	n-nt
-	ces	centrum	n-nt	slk	centrum	n-nt
+	ces	centrum	n-nt$n	slk	centrum	n-nt
 	ces	úspěch	n-mi	slk	úspech	n-mi
 	ces	brak	n-mi	slk	brak	n-mi
-	ces	cesta	n-f	slk	cesta	n-f
-RL	ces	dráha	n-f	slk	dráha	n-f
+	ces	cesta	n-f$n	slk	cesta	n-f
+RL	ces	dráha	n-f$n	slk	dráha	n-f
 	ces	dualismus	n-mi	slk	dualizmus	n-mi
 	ces	žurnalistika	n-nt	slk	žurnalistika	n-f
 	ces	exhibicionismus	n-mi	slk	exhibicionizmus	n-mi
@@ -2512,7 +2512,7 @@ RL	ces	dráha	n-f	slk	dráha	n-f
 	ces	pádlo	n-nt	slk	veslo	n-nt
 RL	ces	veslo	n-nt	slk	veslo	n-nt
 	ces	aldehyd	n-mi	slk	aldehyd	n-mi
-	ces	okno	n-nt	slk	okno	n-nt
+	ces	okno	n-nt$n	slk	okno	n-nt
 	ces	svatba	n-nt	slk	svatba	n-nt
 	ces	děvče	n-nt	slk	dievča	n-nt
 	ces	adaptér	n-mi	slk	adaptér	n-ma
@@ -2531,19 +2531,19 @@ RL	ces	veslo	n-nt	slk	veslo	n-nt
 	ces	bojar	n-ma	slk	bojar	n-ma
 	ces	bojovník	n-ma	slk	bojovník	n-ma
 	ces	čepel	n-mi	slk	čepeľ	n-mi
-	ces	car	n-ma	slk	cár	n-ma
+	ces	car	n-ma$n	slk	cár	n-ma
 	ces	korouhev	n-f	slk	štandarda	n-f
 	ces	bačkora	n-f	slk	bačkora	n-f
 	ces	bačkora	n-f	slk	bačkora	n-f
 	ces	zázrak	n-mi	slk	zázrak	n-mi
 RL	ces	příslušník	n-ma	slk	príslušník	n-ma
-	ces	člen	n-mi	slk	člen	n-mi
+	ces	člen	n-mi$n	slk	člen	n-mi
 	ces	dalajláma	n-ma	slk	dalajláma	n-ma
 	ces	denunciant	n-mi	slk	denunciant	n-ma
 	ces	diesel	n-mi	slk	diesel	n-ma
-	ces	děd	n-ma	slk	ded	n-ma
+	ces	děd	n-ma$n	slk	ded	n-ma
 	ces	zahrádkář	n-ma	slk	zahrádkár	n-ma
-	ces	ptakopysk	n-ma	slk	vtákopysk	n-ma
+	ces	ptakopysk	n-ma$n	slk	vtákopysk	n-ma
 	ces	zobák	n-mi	slk	zobák	n-mi
 	ces	faul	n-ma	slk	faul	n-mi
 	ces	gigant	n-mi	slk	gigant	n-ma
@@ -2569,10 +2569,10 @@ RL	ces	tajenka	n-nt	slk	tajnička	n-f
 	ces	korál	n-mi	slk	korál	n-ma
 	ces	ufon	n-ma	slk	ufón	n-ma
 	ces	králík	n-ma	slk	králik	n-ma
-	ces	kurzor	n-mi	slk	kurzor	n-mi
+	ces	kurzor	n-mi$n	slk	kurzor	n-mi
 	ces	mrzák	n-ma	slk	mrzák	n-ma
 	ces	manekýn	n-mi	slk	manekýn	n-ma
-	ces	nábytek	n-mi	slk	nábytok	n-mi
+	ces	nábytek	n-mi$n	slk	nábytok	n-mi
 	ces	metr	n-mi	slk	meter	n-mi
 	ces	mestic	n-ma	slk	mestic	n-ma
 	ces	stíhačka	n-ma	slk	stíhačka	n-f
@@ -2590,7 +2590,7 @@ RL	ces	tajenka	n-nt	slk	tajnička	n-f
 	ces	perník	n-mi	slk	perník	n-mi
 	ces	krasavec	n-ma	slk	krásavec	n-ma
 	ces	pirueta	n-mi	slk	pirueta	n-f
-	ces	náměstí	n-mi	slk	námestie	n-mi
+	ces	náměstí	n-mi$n	slk	námestie	n-mi
 	ces	plavec	n-ma	slk	plavec	n-ma
 	ces	pošťák	n-ma	slk	poštár	n-ma
 	ces	pokora	n-f	slk	pokora	n-f
@@ -2599,12 +2599,12 @@ RL	ces	tajenka	n-nt	slk	tajnička	n-f
 	ces	půst	n-mi	slk	pôst	n-mi
 	ces	důvod	n-mi	slk	dôvod	n-mi
 	ces	převodník	n-mi	slk	prevodník	n-mi
-	ces	případ	n-mi	slk	prípad	n-mi
+	ces	případ	n-mi$n	slk	prípad	n-mi
 	ces	poustevník	n-ma	slk	pustovník	n-ma
 	ces	karcinom	n-mi	slk	karcinóm	n-mi
 	ces	rak	n-ma	slk	rak	n-ma
 	ces	červ	n-ma	slk	červ	n-ma
-	ces	rys	n-ma	slk	rys	n-ma
+	ces	rys	n-ma$n	slk	rys	n-ma
 	ces	samec	n-ma	slk	samec	n-ma
 	ces	sedan	n-mi	slk	sedan	n-mi
 	ces	skeč	n-mi	slk	skeč	n-mi
@@ -2637,7 +2637,7 @@ RL	ces	tajenka	n-nt	slk	tajnička	n-f
 	ces	instytut	n-mi	slk	inštitút	n-ma
 	ces	los	n-mi	slk	los	n-mi
 	ces	sval	n-mi	slk	sval	n-mi
-	ces	válka	n-f	slk	vojna	n-f
+	ces	válka	n-f$n	slk	vojna	n-f
 	ces	název	n-f	slk	názov	n-mi
 	ces	absurdita	n-mi	slk	absurdita	n-f
 	ces	adaptér	n-mi	slk	adaptér	n-mi
@@ -2691,7 +2691,7 @@ LR	ces	baseball	n-mi	slk	baseball	n-mi
 	ces	klempíř	n-ma	slk	klampiar	n-ma
 	ces	blamáž	n-mi	slk	blamáž	n-f
 	ces	chyba	n-mi	slk	chyba	n-f
-	ces	jezevec	n-ma	slk	jazvec	n-ma
+	ces	jezevec	n-ma$n	slk	jazvec	n-ma
 	ces	bob	n-mi	slk	bob	n-mi
 	ces	brankář	n-ma	slk	brankár	n-ma
 	ces	gólman	n-ma	slk	gólman	n-ma
@@ -2707,7 +2707,7 @@ LR	ces	baseball	n-mi	slk	baseball	n-mi
 	ces	chobot	n-mi	slk	chobot	n-mi
 	ces	vzpěrač	n-ma	slk	vzpierač	n-ma
 	ces	cizinec	n-ma	slk	cudzinec	n-ma
-	ces	cukr	n-mi	slk	cukor	n-mi
+	ces	cukr	n-mi$n	slk	cukor	n-mi
 	ces	cypřiš	n-mi	slk	cyprus	n-mi
 	ces	civil	n-mi	slk	civil	n-mi
 	ces	časopis	n-nt	slk	časopis	n-mi
@@ -2723,7 +2723,7 @@ LR	ces	baseball	n-mi	slk	baseball	n-mi
 	ces	dravec	n-ma	slk	dravec	n-ma
 	ces	cestář	n-ma	slk	cestár	n-ma
 	ces	silničář	n-ma	slk	cestár	n-ma
-	ces	drozd	n-ma	slk	drozd	n-ma
+	ces	drozd	n-ma$n	slk	drozd	n-ma
 	ces	dabing	n-mi	slk	dabing	n-mi
 	ces	nádraží	n-mi	slk	nástupisko	n-mi
 	ces	obojživelník	n-ma	slk	obojživelník	n-ma
@@ -2749,17 +2749,17 @@ LR	ces	baseball	n-mi	slk	baseball	n-mi
 	ces	generál	n-ma	slk	generál	n-ma
 	ces	genitálie	n-nt	slk	genitálie	n-f
 	ces	gepard	n-ma	slk	gepard	n-ma
-	ces	husa	n-f	slk	husa	n-f
+	ces	husa	n-f$n	slk	husa	n-f
 	ces	glóbus	n-mi	slk	glóbus	n-mi
-	ces	hlava	n-f	slk	hlava	n-f
+	ces	hlava	n-f$n	slk	hlava	n-f
 	ces	gobelín	n-mi	slk	gobelín	n-mi
 	ces	panák	n-ma	slk	panák	n-ma
-	ces	holub	n-ma	slk	holub	n-ma
+	ces	holub	n-ma$n	slk	holub	n-ma
 	ces	honič	n-m	slk	honič	n-ma
 	ces	gorila	n-ma	slk	gorila	n-f
 	ces	hospodyňka	n-f	slk	gazdinka	n-f
 	ces	krupobití	n-nt	slk	krupobitie	n-mi
-	ces	hrůza	n-f	slk	hrôza	n-f
+	ces	hrůza	n-f$n	slk	hrôza	n-f
 	ces	hlodavec	n-ma	slk	hlodavec	n-ma
 	ces	guláš	n-mi	slk	guláš	n-mi
 	ces	handicap	n-mi	slk	handicap	n-mi
@@ -2779,7 +2779,7 @@ LR	ces	baseball	n-mi	slk	baseball	n-mi
 	ces	invalida	n-ma	slk	invalid	n-ma
 	ces	inventář	n-mi	slk	inventár	n-mi
 	ces	jakobín	n-mi	slk	jakobín	n-ma
-	ces	jezevčík	n-ma	slk	jazvečík	n-ma
+	ces	jezevčík	n$n-ma	slk	jazvečík	n-ma
 	ces	klon	n-mi	slk	klon	n-mi
 	ces	hedvábí	n-mi	slk	hodváb	n-mi
 	ces	jmelí	n-f	slk	imelo	n-mi
@@ -2792,7 +2792,7 @@ LR	ces	baseball	n-mi	slk	baseball	n-mi
 	ces	kamufláž	n-mi	slk	kamufláž	n-f
 	ces	kanibal	n-ma	slk	kanibal	n-ma
 	ces	kaňon	n-mi	slk	kaňon	n-mi
-	ces	klobouk	n-mi	slk	klobúk	n-mi
+	ces	klobouk	n-mi$n	slk	klobúk	n-mi
 	ces	karatista	n-ma	slk	karatista	n-ma
 	ces	kartel	n-mi	slk	kartel	n-mi
 	ces	kastelán	n-ma	slk	kastelán	n-ma
@@ -2807,7 +2807,7 @@ LR	ces	baseball	n-mi	slk	baseball	n-mi
 	ces	komentář	n-mi	slk	komentár	n-mi
 	ces	koncept	n-mi	slk	koncept	n-mi
 	ces	myšlenka	n-mi	slk	myšlienka	n-f
-	ces	konec	n-mi	slk	koniec	n-mi
+	ces	konec	n-mi$n	slk	koniec	n-mi
 	ces	koník	n-ma	slk	koník	n-ma
 	ces	konopí	n-nt	slk	konope	n-mi
 	ces	konzul	n-ma	slk	konzul	n-ma
@@ -2818,13 +2818,13 @@ LR	ces	baseball	n-mi	slk	baseball	n-mi
 	ces	kovář	n-ma	slk	kovár	n-ma
 	ces	trpaslík	n-ma	slk	trpaslík	n-ma
 	ces	kravata	n-mi	slk	kravata	n-f
-	ces	kroužek	n-mi	slk	krúžek	n-mi
+	ces	kroužek	n-mi$n	slk	krúžek	n-mi
 	ces	obratlovec	n-ma	slk	stavovec	n-ma
 	ces	krůček	n-mi	slk	krôčik	n-mi
 	ces	krokodýl	n-ma	slk	krokodýl	n-ma
 	ces	havran	n-ma	slk	havran	n-ma
 	ces	kriminalista	n-ma	slk	kriminalista	n-ma
-	ces	křivka	n-f	slk	krivka	n-f
+	ces	křivka	n-f$n	slk	krivka	n-f
 	ces	kříž	n-mi	slk	kríž	n-mi
 	ces	kněžna	n-f	slk	kňažna	n-f
 	ces	kýbl	n-mi	slk	vedro	n-mi
@@ -2888,7 +2888,7 @@ LR	ces	baseball	n-mi	slk	baseball	n-mi
 	ces	napětí	n-nt	slk	napětí	n-mi
 	ces	aparát	n-mi	slk	aparát	n-mi
 	ces	následník	n-m	slk	následník	n-ma
-	ces	medvěd	n-ma	slk	medvěd	n-ma
+	ces	medvěd	n-ma$n	slk	medvěd	n-ma
 	ces	nekuřák	n-m	slk	nekuřák	n-ma
 	ces	neúroda	n-mi	slk	neúroda	n-f
 	ces	přenašeč	n-ma	slk	přenašeč	n-ma
@@ -2948,7 +2948,7 @@ LR	ces	odpad	n-mi	slk	odpad	n-mi
 	ces	subsystém	n-mi	slk	subsystém	n-mi
 	ces	úsudek	n-mi	slk	úsudek	n-mi
 	ces	paluba	n-mi	slk	paluba	n-f
-	ces	pokoj	n-mi	slk	pokoj	n-mi
+	ces	pokoj	n-mi$n	slk	pokoj	n-mi
 	ces	politolog	n-ma	slk	politolog	n-ma
 	ces	půl	n-f	slk	půl	n-f
 	ces	polovina	n-f	slk	polovina	n-f
@@ -2992,8 +2992,8 @@ RL	ces	pórek	n-mi	slk	pórek	n-mi
 	ces	zážitek	n-nt	slk	zážitek	n-mi
 	ces	zážitek	n-nt	slk	zážitek	n-mi
 	ces	přídomek	n-mi	slk	přídomek	n-mi
-	ces	příklad	n-mi	slk	příklad	n-mi
-	ces	přísloví	n-nt	slk	přísloví	n-mi
+	ces	příklad	n-mi$n	slk	příklad	n-mi
+	ces	přísloví	n-nt$n	slk	přísloví	n-mi
 	ces	včela	n-f	slk	včela	n-f
 	ces	pták	n-ma	slk	pták	n-ma
 	ces	puč	n-mi	slk	puč	n-mi
@@ -3018,7 +3018,7 @@ RL	ces	pórek	n-mi	slk	pórek	n-mi
 	ces	viník	n-ma	slk	viník	n-ma
 	ces	rozvoj	n-mi	slk	rozvoj	n-mi
 	ces	rubl	n-mi	slk	rubl	n-mi
-	ces	rys	n-ma	slk	rys	n-mi
+	ces	rys	n-ma$n	slk	rys	n-mi
 	ces	rýže	n-f	slk	rýže	n-f
 RL	ces	vláda	n-f	slk	vláda	n-f
 	ces	vláda	n-mi	slk	vláda	n-f
@@ -3042,12 +3042,12 @@ LR	ces	bilance	n-nt	slk	bilance	n-f
 	ces	skinhead	n-mi	slk	skinhead	n-ma
 	ces	souprava	n-mi	slk	souprava	n-f
 	ces	pokraj	n-mi	slk	pokraj	n-mi
-	ces	slon	n-ma	slk	slon	n-ma
+	ces	slon	n-ma$n	slk	slon	n-ma
 	ces	drak	n-ma	slk	drak	n-ma
 	ces	dvojník	n-ma	slk	dvojník	n-ma
 	ces	spojenectví	n-mi	slk	spojenectví	n-mi
 	ces	soul	n-mi	slk	soul	n-mi
-	ces	sova	n-f	slk	sova	n$n-f
+	ces	sova	n-f$n	slk	sova	n$n-f
 	ces	dědic	n-m	slk	dědic	n-ma
 	ces	zplodina	n-nt	slk	zplodina	n-f
 	ces	sýpka	n-mi	slk	sýpka	n-f
@@ -3071,7 +3071,7 @@ LR	ces	sportovec	n-ma	slk	sportovec	n-ma
 	ces	stodola	n-f	slk	stodola	n-f
 	ces	striptýz	n-mi	slk	striptýz	n-mi
 	ces	pštros	n-ma	slk	pštros	n-ma
-	ces	strýc	n-ma	slk	strýc	n-ma
+	ces	strýc	n-ma$n	slk	strýc	n-ma
 	ces	šíp	n-f	slk	šíp	n-mi
 	ces	střelec	n-ma	slk	střelec	n-ma
 	ces	studna	n-f	slk	studna	n-f
@@ -3095,8 +3095,8 @@ LR	ces	šlágr	n-mi	slk	šlágr	n-mi
 	ces	světonázor	n-mi	slk	světonázor	n-mi
 	ces	taxikář	n-ma	slk	taxikář	n-ma
 	ces	talent	n-mi	slk	talent	n-mi
-	ces	talíř	n-mi	slk	talíř	n-mi
-	ces	tanečník	n-ma	slk	tanečník	n-ma
+	ces	talíř	n-mi$n	slk	talíř	n-mi
+	ces	tanečník	n-ma$n	slk	tanečník	n-ma
 	ces	gauč	n-mi	slk	gauč	n-mi
 	ces	teletext	n-mi	slk	teletext	n-mi
 	ces	terapeut	n-ma	slk	terapeut	n-ma
@@ -3104,7 +3104,7 @@ LR	ces	šlágr	n-mi	slk	šlágr	n-mi
 	ces	tchán	n-ma	slk	tchán	n-ma
 	ces	tuk	n-f	slk	tuk	n$n-mi
 	ces	talár	n-f	slk	talár	n-mi
-	ces	taška	n-f	slk	taška	n-f
+	ces	taška	n-f$n	slk	taška	n-f
 	ces	tramvaj	n-mi	slk	tramvaj	n-f
 	ces	trojboj	n-mi	slk	trojboj	n$n-mi
 	ces	trubadúr	n-ma	slk	trubadúr	n-ma
@@ -3132,7 +3132,7 @@ LR	ces	šlágr	n-mi	slk	šlágr	n-mi
 	ces	vstup	n-nt	slk	vstup	n-mi
 	ces	směnka	n-mi	slk	směnka	n-f
 	ces	vlna	n-f	slk	vlna	n-f
-	ces	uhlí	n-mi	slk	uhlí	n-mi
+	ces	uhlí	n-mi$n	slk	uhlí	n-mi
 	ces	úhoř	n-ma	slk	úhoř	n-ma
 	ces	kbelík	n-nt	slk	kbelík	n-mi
 	ces	vír	n-f	slk	vír	n-mi
@@ -3151,7 +3151,7 @@ LR	ces	šlágr	n-mi	slk	šlágr	n-mi
 	ces	vnitřek	n-mi	slk	vnitřek	n-mi
 	ces	vodopád	n-mi	slk	vodopád	n-mi
 	ces	hejtman	n-ma	slk	hejtman	n-ma
-	ces	vrabec	n-ma	slk	vrabec	n-ma
+	ces	vrabec	n-ma$n	slk	vrabec	n-ma
 	ces	soukmenovec	n-mi	slk	soukmenovec	n-ma
 	ces	souřadnice	n-f	slk	souřadnice	n-f
 	ces	stud	n-mi	slk	stud	n-mi
@@ -3186,14 +3186,14 @@ LR	ces	šlágr	n-mi	slk	šlágr	n-mi
 	ces	svitek	n-mi	slk	svitek	n-mi
 	ces	vítězka	n-f	slk	vítězka	n-f
 	ces	úzus	n-mi	slk	úzus	n-mi
-	ces	zvyk	n-mi	slk	zvyk	n-mi
+	ces	zvyk	n-mi$n	slk	zvyk	n-mi
 	ces	žal	n-mi	slk	žal	n-mi
 	ces	jachting	n-nt	slk	jachting	n-nt
 	ces	gel	n-mi	slk	gel	n-mi
 	ces	žluč	n-f	slk	žluč	n-f
 	ces	lustr	n-mi	slk	lustr	n-mi
 	ces	akademik	n-mi	slk	akademik	n-ma
-	ces	přízvuk	n-mi	slk	přízvuk	n-mi
+	ces	přízvuk	n-mi$n	slk	přízvuk	n-mi
 	ces	aktivista	n-ma	slk	aktivista	n-ma
 	ces	ambulance	n-mi	slk	ambulance	n-f
 	ces	lékárník	n-ma	slk	lékárník	n-ma
@@ -3215,8 +3215,8 @@ LR	ces	šlágr	n-mi	slk	šlágr	n-mi
 	ces	ceremoniál	n-f	slk	ceremoniál	n-mi
 	ces	klukovina	n-f	slk	klukovina	n-f
 	ces	tahač	n-mi	slk	tahač	n-mi
-	ces	hmota	n-f	slk	hmota	n-f
-	ces	čert	n-ma	slk	čert	n-ma
+	ces	hmota	n-f$n	slk	hmota	n-f
+	ces	čert	n-ma$n	slk	čert	n-ma
 	ces	nákres	n-mi	slk	nákres	n-mi
 	ces	dokumentarista	n-ma	slk	dokumentarista	n-ma
 	ces	dolina	n-f	slk	dolina	n-f
@@ -3241,7 +3241,7 @@ LR	ces	šlágr	n-mi	slk	šlágr	n-mi
 	ces	gymnastika	n-f	slk	gymnastika	n-f
 	ces	gymnastika	n-f	slk	gymnastika	n-f
 	ces	kytarista	n-ma	slk	kytarista	n-ma
-	ces	háček	n-mi	slk	háček	n-mi
+	ces	háček	n-mi$n	slk	háček	n-mi
 	ces	hinduismus	n-mi	slk	hinduismus	n-mi
 	ces	humanista	n-ma	slk	humanista	n-ma
 	ces	humorista	n-ma	slk	humorista	n-ma
@@ -3265,7 +3265,7 @@ RL	ces	jas	n-f	slk	jas	n-mi
 	ces	kotník	n-f	slk	kotník	n-mi
 	ces	knížka	n-f	slk	knížka	n-f
 	ces	kontura	n-f	slk	kontura	n-f
-	ces	květ	n-mi	slk	květ	n-mi
+	ces	květ	n-mi$n	slk	květ	n-mi
 	ces	lek	n-mi	slk	lek	n-mi
 	ces	lingvista	n-ma	slk	lingvista	n-ma
 	ces	litera	n-f	slk	litera	n-f
@@ -3300,7 +3300,7 @@ RL	ces	jas	n-f	slk	jas	n-mi
 	ces	patronace	n-mi	slk	patronace	n-f
 	ces	záštita	n-mi	slk	záštita	n-f
 	ces	klavírista	n-ma	slk	klavírista	n-ma
-	ces	průkopník	n-ma	slk	průkopník	n-ma
+	ces	průkopník	n-ma$n	slk	průkopník	n-ma
 	ces	hanebnost	n-f	slk	hanebnost	n-f
 	ces	příručka	n-mi	slk	příručka	n-f
 	ces	polder	n-mi	slk	polder	n-mi
@@ -3322,7 +3322,7 @@ RL	ces	jas	n-f	slk	jas	n-mi
 LR	ces	převrat	n-f	slk	převrat	n-mi
 	ces	cyklista	n-ma	slk	cyklista	n-ma
 	ces	příkop	n-mi	slk	příkop	n-mi
-	ces	ruina	n-f	slk	ruina	n-f
+	ces	ruina	n-f$n	slk	ruina	n-f
 	ces	zřícenina	n-f	slk	zřícenina	n-f
 	ces	saxofonista	n-ma	slk	saxofonista	n-ma
 	ces	auťák	n-mi	slk	auťák	n-mi
@@ -3339,14 +3339,14 @@ LR	ces	lakomec	n-ma	slk	lakomec	n-ma
 	ces	látka	n-f	slk	látka	n-f
 	ces	septik	n-nt	slk	septik	n-mi
 	ces	skelet	n-mi	slk	skelet	n-mi
-	ces	sklenice	n-f	slk	sklenice	n-f
+	ces	sklenice	n-f$n	slk	sklenice	n-f
 	ces	pěšina	n-f	slk	pěšina	n-f
 	ces	tenista	n-ma	slk	tenista	n-ma
 	ces	zboží	n-mi	slk	zboží	n-mi
 	ces	turista	n-ma	slk	turista	n-ma
 	ces	tvrdost	n-f	slk	tvrdost	n-f
 	ces	obličej	n-f	slk	obličej	n-mi
-	ces	tvář	n-f	slk	tvář	n-f
+	ces	tvář	n-f$n	slk	tvář	n-f
 	ces	držák	n-mi	slk	držák	n-mi
 	ces	úlomek	n-mi	slk	úlomek	n-mi
 	ces	zlomek	n-mi	slk	zlomek	n-mi
@@ -3361,8 +3361,8 @@ LR	ces	lakomec	n-ma	slk	lakomec	n-ma
 	ces	vyhnanství	n-nt	slk	vyhnanství	n-mi
 	ces	zabiják	n-mi	slk	zabiják	n-ma
 	ces	zahraničí	n-f	slk	zahraničí	n-mi
-	ces	spolek	n-mi	slk	spolek	n-mi
-	ces	svaz	n-mi	slk	svaz	n-mi
+	ces	spolek	n-mi$n	slk	spolek	n-mi
+	ces	svaz	n-mi$n	slk	svaz	n-mi
 	ces	skokan	n-f	slk	skokan	n-ma
 LR	ces	letoun	n-mi	slk	letoun	n-mi
 	ces	agentura	n-f	slk	agentura	n-f
@@ -3454,7 +3454,7 @@ LR	ces	jantar	n-mi	slk	jantar	n-mi
 	ces	kalorie	n-f	slk	kalorie	n-f
 	ces	lom	n-mi	slk	lom	n-mi
 	ces	kamínek	n-mi	slk	kamínek	n-mi
-	ces	kancelář	n-f	slk	kancelář	n-f
+	ces	kancelář	n-f$n	slk	kancelář	n-f
 	ces	karambol	n-f	slk	karambol	n-mi
 	ces	sanitka	n-f	slk	sanitka	n-f
 	ces	karosérie	n-f	slk	karosérie	n-f
@@ -3463,7 +3463,7 @@ LR	ces	jantar	n-mi	slk	jantar	n-mi
 	ces	garsonka	n-f	slk	garsonka	n-f
 	ces	komedie	n-f	slk	komedie	n-f
 	ces	korekce	n-f	slk	korekce	n-f
-	ces	kohout	n-mi	slk	kohout	n-mi
+	ces	kohout	n-mi$n	slk	kohout	n-mi
 	ces	mříž	n-f	slk	mříž	n-f
 	ces	krvinka	n-f	slk	krvinka	n-f
 	ces	kulka	n-f	slk	kulka	n-f
@@ -3489,7 +3489,7 @@ LR	ces	metodik	n-ma	slk	metodik	n-f
 	ces	mlékárna	n-f	slk	mlékárna	n-f
 	ces	samolepka	n-f	slk	samolepka	n-f
 	ces	vozovka	n-f	slk	vozovka	n-f
-	ces	jasnost	n-f	slk	jasnost	n-f
+	ces	jasnost	n-f$n	slk	jasnost	n-f
 	ces	invalidita	n-f	slk	invalidita	n-f
 	ces	novinka	n-f	slk	novinka	n-f
 	ces	obscénnost	n-f	slk	obscénnost	n-f
@@ -3505,12 +3505,12 @@ LR	ces	potlesk	n-mi	slk	potlesk	n-mi
 	ces	horda	n-f	slk	horda	n-f
 	ces	organizátor	n-ma	slk	organizátor	n-ma
 	ces	palladium	n-ma	slk	palladium	n-nt
-	ces	panenka	n-f	slk	panenka	n-f
+	ces	panenka	n-f$n	slk	panenka	n-f
 	ces	parodie	n-f	slk	parodie	n-f
-	ces	strana	n-f	slk	strana	n-f
+	ces	strana	n-f$n	slk	strana	n-f
 	ces	parfém	n-f	slk	parfém	n-mi
 	ces	okraj	n-nt	slk	okraj	n-mi
-	ces	prsten	n-mi	slk	prsten	n-mi
+	ces	prsten	n-mi$n	slk	prsten	n-mi
 	ces	prvňák	n-ma	slk	prvňák	n-ma
 	ces	pohnutka	n-f	slk	pohnutka	n-f
 	ces	klad	n-nt	slk	klad	n-mi
@@ -3536,7 +3536,7 @@ LR	ces	potlesk	n-mi	slk	potlesk	n-mi
 	ces	rozum	n-mi	slk	rozum	n-mi
 	ces	rubidium	n-ma	slk	rubidium	n-nt
 	ces	mobilita	n-f	slk	mobilita	n-f
-	ces	vteřina	n-f	slk	vteřina	n-f
+	ces	vteřina	n-f$n	slk	vteřina	n-f
 	ces	série	n-f	slk	série	n-f
 	ces	motorek	n-mi	slk	motorek	n-f
 	ces	skandium	n-ma	slk	skandium	n-nt
@@ -3546,7 +3546,7 @@ RL	ces	akronymum	n-mi	slk	akronymum	n-nt
 	ces	akronym	n-mi	slk	akronym	n-mi
 	ces	argot	n-mi	slk	argot	n-mi
 	ces	cukrovinka	n-f	slk	cukrovinka	n-f
-	ces	kohout	n-mi	slk	kohout	n-mi
+	ces	kohout	n-mi$n	slk	kohout	n-mi
 	ces	podprsenka	n-mi	slk	podprsenka	n-f
 	ces	struska	n-f	slk	struska	n-f
 	ces	ovladač	n-mi	slk	ovladač	n-mi
@@ -3605,11 +3605,11 @@ LR	ces	tapeta	n-nt	slk	tapeta	n-f
 	ces	poledne	n-nt	slk	poledne	n-nt
 	ces	poprsí	n-nt	slk	poprsí	n-mi
 RL	ces	ovzduší	n-nt	slk	ovzduší	n-mi
-	ces	vzduch	n-nt	slk	vzduch	n-mi
+	ces	vzduch	n$n-nt	slk	vzduch	n-mi
 	ces	pololetí	n-nt	slk	pololetí	n-mi
 	ces	předjaří	n-nt	slk	předjaří	n-mi
 	ces	příměří	n-nt	slk	příměří	n-mi
-	ces	srdce	n-nt	slk	srdce	n-nt
+	ces	srdce	n-nt$n	slk	srdce	n-nt
 	ces	středověk	n-nt	slk	středověk	n-mi
 	ces	tisíciletí	n-nt	slk	tisíciletí	n-mi
 	ces	pobřeží	n-nt	slk	pobřeží	n-mi
@@ -3625,7 +3625,7 @@ RL	ces	ústrání	n-nt	slk	ústrání	n-mi
 	ces	agent	n-ma	slk	agent	n-ma
 	ces	angrešt	n-mi	slk	angrešt	n-mi
 	ces	aktér	n-ma	slk	aktér	n-ma
-	ces	herec	n-ma	slk	herec	n-ma
+	ces	herec	n-ma$n	slk	herec	n-ma
 	ces	akvárium	n-nt	slk	akvárium	n$n-nt
 	ces	alej	n-f	slk	alej	n-f
 	ces	abeceda	n-mi	slk	abeceda	n-f
@@ -3670,7 +3670,7 @@ RL	ces	výrobek	n-mi	slk	výrobek	n-mi
 	ces	vědec	n-ma	slk	vědec	n-ma
 	ces	výzkumník	n-ma	slk	výzkumník	n-ma
 	ces	výzkum	n-nt	slk	výzkum	n-mi
-	ces	kufr	n-mi	slk	kufr	n-mi
+	ces	kufr	n-mi$n	slk	kufr	n-mi
 	ces	bajonet	n-mi	slk	bajonet	n-mi
 	ces	balon	n-mi	slk	balon	n-mi
 	ces	barbar	n-nt	slk	barbar	n-ma
@@ -3680,9 +3680,9 @@ RL	ces	výrobek	n-mi	slk	výrobek	n-mi
 	ces	báze	n-f	slk	báze	n-f
 	ces	základna	n-f	slk	základna	n-f
 	ces	bazilika	n-f	slk	bazilika	n-f
-	ces	bažant	n-ma	slk	bažant	n-mi
+	ces	bažant	n-ma$n	slk	bažant	n-mi
 	ces	bečka	n-f	slk	bečka	n-f
-	ces	sud	n-f	slk	sud	n-mi
+	ces	sud	n$n-f	slk	sud	n-mi
 	ces	beta	n-f	slk	beta	n-f
 	ces	bezpečnost	n-nt	slk	bezpečnost	n-f
 	ces	neplodnost	n-f	slk	neplodnost	n-f
@@ -3700,7 +3700,7 @@ LR	ces	kancelář	n-nt	slk	kancelář	n-f
 	ces	panelák	n-mi	slk	panelák	n-mi
 	ces	membrána	n-f	slk	membrána	n-f
 	ces	blesk	n-f	slk	blesk	n-mi
-	ces	čáp	n-ma	slk	čáp	n-ma
+	ces	čáp	n-ma$n	slk	čáp	n-ma
 	ces	bohatství	n-nt	slk	bohatství	n-mi
 	ces	bok	n-mi	slk	bok	n-mi
 	ces	box	n-mi	slk	box	n-mi
@@ -3719,7 +3719,7 @@ LR	ces	tahák	n-mi	slk	tahák	n-mi
 LR	ces	dobytek	n-nt	slk	dobytek	n-mi
 	ces	celek	n-f	slk	celek	n-mi
 	ces	cibule	n-f	slk	cibule	n-f
-	ces	cedr	n-mi	slk	cedr	n-mi
+	ces	cedr	n-mi$n	slk	cedr	n-mi
 	ces	celibát	n-mi	slk	celibát	n-mi
 	ces	celník	n-ma	slk	celník	n-ma
 	ces	gól	n-f	slk	gól	n-mi
@@ -3760,7 +3760,7 @@ RL	ces	chtivost	n-f	slk	chtivost	n-f
 	ces	částka	n-f	slk	částka	n-f
 	ces	frekvence	n-f	slk	frekvence	n-f
 RL	ces	díl	n-f	slk	díl	n-mi
-	ces	část	n-f	slk	část	n-f
+	ces	část	n-f$n	slk	část	n-f
 	ces	špička	n-f	slk	špička	n-f
 	ces	česnek	n-mi	slk	česnek	n-mi
 	ces	faktor	n-mi	slk	faktor	n-mi
@@ -3775,7 +3775,7 @@ RL	ces	díl	n-f	slk	díl	n-mi
 	ces	dekret	n-mi	slk	dekret	n-mi
 	ces	delegát	n-ma	slk	delegát	n-ma
 	ces	delta	n-f	slk	delta	n-f
-	ces	démon	n-ma	slk	démon	n-ma
+	ces	démon	n-ma$n	slk	démon	n-ma
 	ces	departement	n-mi	slk	departement	n-mi
 	ces	dezert	n-mi	slk	dezert	n-mi
 	ces	dialektika	n-f	slk	dialektika	n-f
@@ -3808,7 +3808,7 @@ LR	ces	tým	n-f	slk	tým	n-mi
 	ces	dukát	n-ma	slk	dukát	n-mi
 	ces	duma	n-f	slk	duma	n-f
 	ces	duplikát	n-mi	slk	duplikát	n-mi
-	ces	duše	n-f	slk	duše	n-f
+	ces	duše	n-f$n	slk	duše	n-f
 	ces	dvorek	n-f	slk	dvorek	n-mi
 	ces	diplom	n-mi	slk	diplom	n-mi
 	ces	dirigent	n-ma	slk	dirigent	n-ma
@@ -3859,7 +3859,7 @@ LR	ces	tým	n-f	slk	tým	n-mi
 	ces	továrna	n-f	slk	továrna	n-f
 	ces	fagot	n-mi	slk	fagot	n-mi
 	ces	faktor	n-mi	slk	faktor	n-mi
-	ces	fakt	n-mi	slk	fakt	n-mi
+	ces	fakt	n-mi$n	slk	fakt	n-mi
 	ces	fan	n-mi	slk	fan	n-mi
 	ces	fáze	n-f	slk	fáze	n-f
 	ces	festival	n-mi	slk	festival	n-mi
@@ -3895,7 +3895,7 @@ LR	ces	tým	n-f	slk	tým	n-mi
 	ces	kytara	n-f	slk	kytara	n-f
 	ces	hloubka	n-f	slk	hloubka	n-f
 	ces	hloubka	n-f	slk	hloubka	n-f
-	ces	hlas	n-mi	slk	hlas	n-mi
+	ces	hlas	n-mi$n	slk	hlas	n-mi
 	ces	hlasitost	n-f	slk	hlasitost	n-f
 	ces	hladomor	n-mi	slk	hladomor	n-mi
 	ces	hlad	n-mi	slk	hlad	n-mi
@@ -3907,13 +3907,13 @@ LR	ces	tým	n-f	slk	tým	n-mi
 	ces	hráč	n-ma	slk	hráč	n-ma
 	ces	grafik	n-f	slk	grafik	n-ma
 	ces	gramatika	n-f	slk	gramatika	n-f
-	ces	mluvnice	n-f	slk	mluvnice	n-f
-	ces	hranice	n-f	slk	hranice	n-f
+	ces	mluvnice	n-f$n	slk	mluvnice	n-f
+	ces	hranice	n-f$n	slk	hranice	n-f
 	ces	limita	n-f	slk	limita	n-f
 	ces	hrobka	n-mi	slk	hrobka	n-f
 	ces	hrob	n-mi	slk	hrob	n-mi
-	ces	hruška	n-f	slk	hruška	n-f
-	ces	chřipka	n-f	slk	chřipka	n-f
+	ces	hruška	n-f$n	slk	hruška	n-f
+	ces	chřipka	n-f$n	slk	chřipka	n-f
 	ces	hřbet	n-mi	slk	hřbet	n-mi
 	ces	hřib	n-ma	slk	hřib	n-mi
 	ces	hříva	n-f	slk	hříva	n-f
@@ -3953,7 +3953,7 @@ RL	ces	počet	n-f	slk	počet	n-mi
 	ces	iniciátor	n-mi	slk	iniciátor	n-mi
 	ces	inspektor	n-ma	slk	inspektor	n-ma
 	ces	instrument	n-mi	slk	instrument	n-mi
-	ces	nástroj	n-mi	slk	nástroj	n-mi
+	ces	nástroj	n-mi$n	slk	nástroj	n-mi
 	ces	institut	n-mi	slk	institut	n-mi
 	ces	rozhraní	n-mi	slk	rozhraní	n-mi
 	ces	islám	n-mi	slk	islám	n-mi
@@ -3961,7 +3961,7 @@ RL	ces	počet	n-f	slk	počet	n-mi
 	ces	jistota	n-f	slk	jistota	n-f
 	ces	komora	n-f	slk	komora	n-f
 	ces	světnice	n-f	slk	světnice	n-f
-	ces	vlaštovka	n-f	slk	vlaštovka	n-f
+	ces	vlaštovka	n-f$n	slk	vlaštovka	n-f
 	ces	ještěr	n-f	slk	ještěr	n-ma
 	ces	jízda	n-f	slk	jízda	n-f
 	ces	zajatec	n-ma	slk	zajatec	n-ma
@@ -3969,7 +3969,7 @@ RL	ces	počet	n-f	slk	počet	n-mi
 	ces	iont	n-mi	slk	iont	n-mi
 	ces	junior	n-ma	slk	junior	n-ma
 	ces	kabina	n-f	slk	kabina	n-f
-	ces	kachna	n-f	slk	kachna	n-f
+	ces	kachna	n-f$n	slk	kachna	n-f
 	ces	kadet	n-ma	slk	kadet	n-ma
 	ces	kedlubna	n-f	slk	kedlubna	n-f
 	ces	bobek	n-mi	slk	bobek	n-mi
@@ -4001,17 +4001,17 @@ RL	ces	počet	n-f	slk	počet	n-mi
 	ces	katastrofa	n-f	slk	katastrofa	n-f
 	ces	kat	n-f	slk	kat	n-ma
 	ces	katedrála	n-f	slk	katedrála	n-f
-	ces	katolík	n-ma	slk	katolík	n-ma
-	ces	kousek	n-mi	slk	kousek	n-mi
-	ces	kus	n-mi	slk	kus	n-mi
+	ces	katolík	n-ma$n	slk	katolík	n-ma
+	ces	kousek	n-mi$n	slk	kousek	n-mi
+	ces	kus	n-mi$n	slk	kus	n-mi
 	ces	ústraní	n-mi	slk	ústraní	n-mi
 	ces	kečup	n-mi	slk	kečup	n-mi
 	ces	vedení	n-nt	slk	vedení	n-mi
-	ces	směr	n-mi	slk	směr	n-mi
+	ces	směr	n-mi$n	slk	směr	n-mi
 	ces	kilometr	n-mi	slk	kilometr	n-mi
 	ces	tmel	n-f	slk	tmel	n-mi
 	ces	klan	n-mi	slk	klan	n-mi
-	ces	třída	n-f	slk	třída	n-f
+	ces	třída	n-f$n	slk	třída	n-f
 	ces	klaun	n-ma	slk	klaun	n-ma
 	ces	klávesnice	n-f	slk	klávesnice	n-f
 	ces	klient	n-ma	slk	klient	n-ma
@@ -4033,9 +4033,9 @@ RL	ces	počet	n-f	slk	počet	n-mi
 	ces	komediant	n-ma	slk	komediant	n-ma
 	ces	kamínek	n-mi	slk	kamínek	n-mi
 	ces	komisař	n-ma	slk	komisař	n-ma
-	ces	výbor	n-mi	slk	výbor	n-mi
+	ces	výbor	n-mi$n	slk	výbor	n-mi
 	ces	koncern	n-mi	slk	koncern	n-mi
-	ces	koncert	n-mi	slk	koncert	n-mi
+	ces	koncert	n-mi$n	slk	koncert	n-mi
 	ces	konflikt	n-mi	slk	konflikt	n-mi
 	ces	svár	n-mi	slk	svár	n-mi
 	ces	kongres	n-mi	slk	kongres	n-mi
@@ -4051,16 +4051,16 @@ RL	ces	počet	n-f	slk	počet	n-mi
 	ces	kontrast	n-mi	slk	kontrast	n-mi
 	ces	kontinent	n-mi	slk	kontinent	n-mi
 	ces	končetina	n-f	slk	končetina	n-f
-	ces	obálka	n-f	slk	obálka	n-f
+	ces	obálka	n-f$n	slk	obálka	n-f
 	ces	korektor	n-ma	slk	korektor	n-ma
 	ces	korespondence	n-f	slk	korespondence	n-f
 	ces	korpus	n-mi	slk	korpus	n-mi
 	ces	kurt	n-mi	slk	kurt	n-mi
 	ces	výhoda	n-f	slk	výhoda	n-f
 	ces	můra	n-mi	slk	můra	n-f
-	ces	košile	n-f	slk	košile	n-f
+	ces	košile	n-f$n	slk	košile	n-f
 	ces	basketbal	n-f	slk	basketbal	n-mi
-	ces	kočka	n-f	slk	kočka	n-f
+	ces	kočka	n-f$n	slk	kočka	n-f
 	ces	kotlina	n-f	slk	kotlina	n-f
 	ces	krab	n-ma	slk	krab	n-ma
 	ces	krádež	n-f	slk	krádež	n-f
@@ -4069,7 +4069,7 @@ RL	ces	počet	n-f	slk	počet	n-mi
 	ces	puk	n-mi	slk	puk	n-mi
 	ces	křižník	n-mi	slk	křižník	n-mi
 	ces	páteř	n-mi	slk	páteř	n-f
-	ces	krok	n-mi	slk	krok	n-mi
+	ces	krok	n-mi$n	slk	krok	n-mi
 	ces	kronika	n-f	slk	kronika	n-f
 	ces	tečka	n-f	slk	tečka	n-f
 	ces	hrtan	n-f	slk	hrtan	n-mi
@@ -4082,9 +4082,9 @@ RL	ces	počet	n-f	slk	počet	n-mi
 	ces	kopírka	n-f	slk	kopírka	n-f
 	ces	knížectví	n-nt	slk	knížectví	n-mi
 	ces	princezna	n-f	slk	princezna	n-f
-	ces	tvar	n-mi	slk	tvar	n-mi
+	ces	tvar	n-mi$n	slk	tvar	n-mi
 	ces	hrnek	n-mi	slk	hrnek	n-mi
-	ces	kukačka	n-f	slk	kukačka	n-f
+	ces	kukačka	n-f$n	slk	kukačka	n-f
 	ces	koule	n-f	slk	koule	n-f
 	ces	kuna	n-f	slk	kuna	n-f
 	ces	kupa	n-f	slk	kupa	n-f
@@ -4099,8 +4099,8 @@ LR	ces	diletant	n-ma	slk	diletant	n-ma
 RL	ces	diletant	n-ma	slk	diletant	n-ma
 	ces	laik	n-ma	slk	laik	n-ma
 	ces	lak	n-mi	slk	lak	n-mi
-	ces	panenka	n-f	slk	panenka	n-f
-	ces	lampa	n-f	slk	lampa	n-f
+	ces	panenka	n-f$n	slk	panenka	n-f
+	ces	lampa	n-f$n	slk	lampa	n-f
 	ces	laureát	n-ma	slk	laureát	n-ma
 	ces	láva	n-f	slk	láva	n-f
 	ces	lavina	n-f	slk	lavina	n-f
@@ -4131,8 +4131,8 @@ RL	ces	letectví	n-nt	slk	letectví	n-mi
 	ces	lán	n-mi	slk	lán	n-mi
 	ces	úplatek	n-f	slk	úplatek	n-mi
 	ces	lom	n-mi	slk	lom	n-mi
-	ces	oblouk	n-mi	slk	oblouk	n-mi
-	ces	lžíce	n-f	slk	lžíce	n-f
+	ces	oblouk	n-mi$n	slk	oblouk	n-mi
+	ces	lžíce	n-f$n	slk	lžíce	n-f
 	ces	matice	n-f	slk	matice	n-f
 	ces	mačeta	n-f	slk	mačeta	n-f
 	ces	magazín	n-mi	slk	magazín	n-mi
@@ -4154,12 +4154,12 @@ RL	ces	letectví	n-nt	slk	letectví	n-mi
 	ces	materiál	n-mi	slk	materiál	n-mi
 	ces	maturita	n-f	slk	maturita	n-f
 	ces	mauzoleum	n-nt	slk	mauzoleum	n-nt
-	ces	mouka	n-f	slk	mouka	n-f
-LR	ces	muž	n-ma	slk	muž	n-ma
-	ces	muž	n-ma	slk	muž	n-ma
+	ces	mouka	n-f$n	slk	mouka	n-f
+LR	ces	muž	n-ma$n	slk	muž	n-ma
+	ces	muž	n-ma$n	slk	muž	n-ma
 	ces	mechanik	n-f	slk	mechanik	n-ma
 	ces	mechanismus	n-mi	slk	mechanismus	n-mi
-	ces	zápas	n-mi	slk	zápas	n-mi
+	ces	zápas	n-mi$n	slk	zápas	n-mi
 	ces	medaile	n-mi	slk	medaile	n-f
 	ces	medúza	n-f	slk	medúza	n-f
 	ces	meloun	n-mi	slk	meloun	n-mi
@@ -4182,7 +4182,7 @@ RL	ces	kov	n-mi	slk	kov	n-mi
 	ces	mód	n-f	slk	mód	n-mi
 	ces	modul	n-mi	slk	modul	n-mi
 	ces	most	n-mi	slk	most	n-mi
-	ces	motiv	n-mi	slk	motiv	n-mi
+	ces	motiv	n-mi$n	slk	motiv	n-mi
 	ces	mozek	n-mi	slk	mozek	n-mi
 	ces	mravenec	n-f	slk	mravenec	n-ma
 	ces	muzeum	n-nt	slk	muzeum	n-nt
@@ -4231,14 +4231,14 @@ RL	ces	snímek	n-f	slk	snímek	n-mi
 	ces	ritus	n-mi	slk	ritus	n-mi
 	ces	observatoř	n-nt	slk	observatoř	n-f
 	ces	podpora	n-f	slk	podpora	n-f
-	ces	areál	n-mi	slk	areál	n-mi
+	ces	areál	n-mi$n	slk	areál	n-mi
 	ces	obvod	n-mi	slk	obvod	n-mi
 	ces	oceán	n-mi	slk	oceán	n-mi
 	ces	dobrovolník	n-ma	slk	dobrovolník	n-ma
 	ces	óda	n-f	slk	óda	n-f
 	ces	úsečka	n-mi	slk	úsečka	n-f
 	ces	pobočka	n-mi	slk	pobočka	n-f
-	ces	vzdálenost	n-f	slk	vzdálenost	n-f
+	ces	vzdálenost	n-f$n	slk	vzdálenost	n-f
 	ces	odrůda	n-f	slk	odrůda	n-f
 	ces	varieta	n-f	slk	varieta	n-f
 	ces	odkaz	n-nt	slk	odkaz	n-mi
@@ -4252,7 +4252,7 @@ RL	ces	snímek	n-f	slk	snímek	n-mi
 	ces	ohon	n-mi	slk	ohon	n-mi
 	ces	zahrádka	n-f	slk	zahrádka	n-f
 	ces	zahrada	n-mi	slk	zahrada	n-f
-	ces	obálka	n-f	slk	obálka	n-f
+	ces	obálka	n-f$n	slk	obálka	n-f
 	ces	okolí	n-f	slk	okolí	n-mi
 	ces	doba	n-mi	slk	doba	n-f
 	ces	období	n-mi	slk	období	n-mi
@@ -4261,17 +4261,17 @@ RL	ces	snímek	n-f	slk	snímek	n-mi
 	ces	údobí	n-mi	slk	údobí	n-mi
 	ces	ponorka	n-mi	slk	ponorka	n-f
 	ces	olej	n-mi	slk	olej	n-mi
-	ces	opatství	n-nt	slk	opatství	n-mi
+	ces	opatství	n$n-nt	slk	opatství	n-mi
 	ces	opěrka	n-mi	slk	opěrka	n-f
 	ces	opera	n-f	slk	opera	n-f
 	ces	operátor	n-ma	slk	operátor	n-ma
 	ces	správa	n-f	slk	správa	n-f
 	ces	popis	n-mi	slk	popis	n-mi
 	ces	poplatek	n-f	slk	poplatek	n-mi
-	ces	opona	n-f	slk	opona	n-f
+	ces	opona	n-f$n	slk	opona	n-f
 	ces	pneumatika	n-f	slk	pneumatika	n-f
 	ces	povídka	n-nt	slk	povídka	n-f
-	ces	pohádka	n-f	slk	pohádka	n-f
+	ces	pohádka	n-f$n	slk	pohádka	n-f
 	ces	opozice	n-f	slk	opozice	n-f
 	ces	protiklad	n-f	slk	protiklad	n-mi
 	ces	odpor	n-mi	slk	odpor	n-mi
@@ -4303,7 +4303,7 @@ RL	ces	snímek	n-f	slk	snímek	n-mi
 	ces	upomínka	n-f	slk	upomínka	n-f
 	ces	panna	n-f	slk	panna	n-f
 	ces	panoráma	n-f	slk	panoráma	n-f
-	ces	pán	n-ma	slk	pán	n-ma
+	ces	pán	n-ma$n	slk	pán	n-ma
 	ces	paradox	n-mi	slk	paradox	n-mi
 	ces	parametr	n-mi	slk	parametr	n-mi
 	ces	dvojice	n-f	slk	dvojice	n-f
@@ -4346,7 +4346,7 @@ RL	ces	snímek	n-f	slk	snímek	n-mi
 	ces	pizza	n-f	slk	pizza	n-f
 	ces	plakát	n-mi	slk	plakát	n-mi
 	ces	pláž	n-f	slk	pláž	n-f
-	ces	plus	n-mi	slk	plus	n-mi
+	ces	plus	n-mi$n	slk	plus	n-mi
 	ces	plot	n-mi	slk	plot	n-mi
 	ces	plyn	n-mi	slk	plyn	n-mi
 	ces	roztok	n-mi	slk	roztok	n-mi
@@ -4362,7 +4362,7 @@ RL	ces	vláček	n-mi	slk	vláček	n-mi
 	ces	počátek	n-mi	slk	počátek	n-mi
 	ces	začátek	n-mi	slk	začátek	n-mi
 	ces	čekárna	n-f	slk	čekárna	n-f
-	ces	pošta	n-f	slk	pošta	n-f
+	ces	pošta	n-f$n	slk	pošta	n-f
 	ces	pódium	n-nt	slk	pódium	n-nt
 	ces	podmět	n-mi	slk	podmět	n-mi
 RL	ces	obdoba	n-nt	slk	obdoba	n-f
@@ -4370,7 +4370,7 @@ RL	ces	obdoba	n-nt	slk	obdoba	n-f
 	ces	podobnost	n-nt	slk	podobnost	n-f
 	ces	poddůstojník	n-ma	slk	poddůstojník	n-ma
 	ces	podpis	n-mi	slk	podpis	n-mi
-	ces	cesta	n-f	slk	cesta	n-f
+	ces	cesta	n-f$n	slk	cesta	n-f
 	ces	báze	n-f	slk	báze	n-f
 	ces	postava	n-f	slk	postava	n-f
 	ces	základ	n-f	slk	základ	n-mi
@@ -4393,13 +4393,13 @@ RL	ces	obdoba	n-nt	slk	obdoba	n-f
 	ces	nápověda	n-f	slk	nápověda	n-f
 	ces	pomoc	n-f	slk	pomoc	n-f
 	ces	omyl	n-f	slk	omyl	n-mi
-	ces	pondělí	n-mi	slk	pondělí	n-mi
+	ces	pondělí	n-mi$n	slk	pondělí	n-mi
 	ces	podpora	n-mi	slk	podpora	n-f
 	ces	porážka	n-f	slk	porážka	n-f
 	ces	porod	n-mi	slk	porod	n-mi
 	ces	portrét	n-mi	slk	portrét	n-mi
 	ces	port	n-nt	slk	port	n-f
-	ces	pořádek	n-mi	slk	pořádek	n-mi
+	ces	pořádek	n-mi$n	slk	pořádek	n-mi
 	ces	pořadí	n-mi	slk	pořadí	n-mi
 	ces	řád	n-mi	slk	řád	n-mi
 	ces	rybíz	n-f	slk	rybíz	n-mi
@@ -4408,7 +4408,7 @@ RL	ces	obdoba	n-nt	slk	obdoba	n-f
 	ces	poselství	n-nt	slk	poselství	n-mi
 	ces	postava	n-f	slk	postava	n-f
 	ces	postoj	n-f	slk	postoj	n-mi
-	ces	pokrok	n-mi	slk	pokrok	n-mi
+	ces	pokrok	n-mi$n	slk	pokrok	n-mi
 	ces	vývoj	n-mi	slk	vývoj	n-mi
 	ces	postulát	n-mi	slk	postulát	n-mi
 	ces	potenciál	n-mi	slk	potenciál	n-mi
@@ -4441,7 +4441,7 @@ RL	ces	obdoba	n-nt	slk	obdoba	n-f
 	ces	profesor	n-ma	slk	profesor	n-ma
 	ces	profil	n-mi	slk	profil	n-mi
 	ces	radiace	n-nt	slk	radiace	n-f
-	ces	paprsek	n-mi	slk	paprsek	n-mi
+	ces	paprsek	n-mi$n	slk	paprsek	n-mi
 	ces	poloměr	n-mi	slk	poloměr	n-mi
 	ces	obdélník	n-mi	slk	obdélník	n-mi
 	ces	prototyp	n-mi	slk	prototyp	n-mi
@@ -4477,7 +4477,7 @@ LR	ces	poukázka	n-mi	slk	poukázka	n-f
 	ces	zločin	n-nt	slk	zločin	n-mi
 	ces	prostor	n-f	slk	prostor	n-mi
 	ces	prostranství	n-f	slk	prostranství	n-mi
-	ces	překážka	n-f	slk	překážka	n-f
+	ces	překážka	n-f$n	slk	překážka	n-f
 	ces	minulost	n-f	slk	minulost	n-f
 	ces	drátek	n-mi	slk	drátek	n-mi
 	ces	příčina	n-f	slk	příčina	n-f
@@ -4485,7 +4485,7 @@ LR	ces	poukázka	n-mi	slk	poukázka	n-f
 	ces	záminka	n-f	slk	záminka	n-f
 	ces	příslušnost	n-f	slk	příslušnost	n-f
 	ces	sounáležitost	n-f	slk	sounáležitost	n-f
-	ces	příroda	n-f	slk	příroda	n-f
+	ces	příroda	n-f$n	slk	příroda	n-f
 	ces	nárůst	n-mi	slk	nárůst	n-mi
 	ces	pseudonym	n-mi	slk	pseudonym	n-mi
 RL	ces	veřejnost	n-f	slk	veřejnost	n-f
@@ -4528,7 +4528,7 @@ LR	ces	zbytek	n-f	slk	zbytek	n-mi
 	ces	kapitola	n-mi	slk	kapitola	n-f
 	ces	věhlas	n-mi	slk	věhlas	n-mi
 LR	ces	pokyn	n-mi	slk	pokyn	n-mi
-	ces	rozkaz	n-mi	slk	rozkaz	n-mi
+	ces	rozkaz	n-mi$n	slk	rozkaz	n-mi
 	ces	rozměr	n-mi	slk	rozměr	n-mi
 	ces	velikost	n-mi	slk	velikost	n-f
 	ces	zábava	n-f	slk	zábava	n-f
@@ -4570,20 +4570,20 @@ LR	ces	pokyn	n-mi	slk	pokyn	n-mi
 	ces	senátor	n-ma	slk	senátor	n$n-ma
 	ces	senát	n-mi	slk	senát	n$n-mi
 	ces	senior	n-ma	slk	senior	n$n-ma
-	ces	smysl	n-mi	slk	smysl	n-mi
+	ces	smysl	n-mi$n	slk	smysl	n-mi
 	ces	seriál	n-mi	slk	seriál	n$n-mi
 	ces	nádobí	n-mi	slk	nádobí	n-mi
 	ces	stovka	n-f	slk	stovka	n-f
 	ces	sezóna	n-mi	slk	sezóna	n-f
-	ces	sup	n-ma	slk	sup	n-ma
+	ces	sup	n-ma$n	slk	sup	n-ma
 LR	ces	koule	n-f	slk	koule	n-f
 	ces	sféra	n-f	slk	sféra	n-f
 	ces	mřížka	n-f	slk	mřížka	n-f
 	ces	volejbal	n-f	slk	volejbal	n-mi
 	ces	srpek	n-mi	slk	srpek	n-mi
-	ces	sýkora	n-f	slk	sýkora	n-f
+	ces	sýkora	n-f$n	slk	sýkora	n-f
 	ces	motor	n-mi	slk	motor	n-mi
-	ces	stroj	n-mi	slk	stroj	n-mi
+	ces	stroj	n-mi$n	slk	stroj	n-mi
 	ces	silák	n-ma	slk	silák	n-ma
 	ces	modus	n-f	slk	modus	n-mi
 	ces	stupnice	n-f	slk	stupnice	n-f
@@ -4604,7 +4604,7 @@ LR	ces	koule	n-f	slk	koule	n-f
 	ces	čočka	n-f	slk	čočka	n-f
 	ces	solidarita	n-f	slk	solidarita	n-f
 	ces	dědictví	n-mi	slk	dědictví	n-mi
-	ces	pád	n-mi	slk	pád	n-mi
+	ces	pád	n-mi$n	slk	pád	n-mi
 	ces	pokles	n-mi	slk	pokles	n-mi
 	ces	padák	n-mi	slk	padák	n-mi
 	ces	komunita	n-f	slk	komunita	n-f
@@ -4617,7 +4617,7 @@ LR	ces	účinnost	n-f	slk	účinnost	n-f
 LR	ces	stabilita	n-f	slk	stabilita	n-f
 	ces	stadium	n-nt	slk	stadium	n-nt
 	ces	post	n-nt	slk	post	n-mi
-LR	ces	stát	n-mi	slk	stát	n-mi
+LR	ces	stát	n-mi$n	slk	stát	n-mi
 RL	ces	stav	n-mi	slk	stav	n-mi
 	ces	starověk	n-f	slk	starověk	n-mi
 	ces	start	n-mi	slk	start	n-mi
@@ -4638,7 +4638,7 @@ LR	ces	areál	n-f	slk	areál	n-mi
 	ces	region	n-f	slk	region	n-mi
 	ces	zóna	n-f	slk	zóna	n-f
 	ces	struktura	n-f	slk	struktura	n-f
-	ces	tok	n-mi	slk	tok	n-mi
+	ces	tok	n-mi$n	slk	tok	n-mi
 	ces	šipka	n-f	slk	šipka	n-f
 	ces	student	n-ma$n	slk	student	n-ma
 RL	ces	vysokoškolák	n-ma	slk	vysokoškolák	n-ma
@@ -4661,7 +4661,7 @@ LR	ces	surovina	n-mi	slk	surovina	n-f
 LR	ces	oděv	n-f	slk	oděv	n-mi
 	ces	detail	n-mi	slk	detail	n-mi
 	ces	podrobnost	n-mi	slk	podrobnost	n-f
-	ces	kartáč	n-f	slk	kartáč	n-mi
+	ces	kartáč	n$n-f	slk	kartáč	n-mi
 	ces	štít	n-mi	slk	štít	n-mi
 	ces	vrchol	n-mi	slk	vrchol	n-mi
 LR	ces	série	n-mi	slk	série	n-f
@@ -4698,7 +4698,7 @@ LR	ces	vědomí	n-f	slk	vědomí	n-mi
 	ces	text	n-mi	slk	text	n-mi
 	ces	videoklip	n-mi	slk	videoklip	n-mi
 	ces	teleskop	n-mi	slk	teleskop	n-mi
-	ces	předmět	n-mi	slk	předmět	n-mi
+	ces	předmět	n-mi$n	slk	předmět	n-mi
 	ces	tematika	n-f	slk	tematika	n-f
 LR	ces	rychlost	n-nt	slk	rychlost	n-f
 	ces	terén	n-mi	slk	terén	n-mi
@@ -4716,14 +4716,14 @@ LR	ces	rychlost	n-nt	slk	rychlost	n-f
 	ces	toaleta	n-f	slk	toaleta	n-f
 	ces	záchod	n-f	slk	záchod	n-mi
 	ces	přípitek	n-mi	slk	přípitek	n-mi
-	ces	díl	n-mi	slk	díl	n-mi
+	ces	díl	n-mi$n	slk	díl	n-mi
 	ces	svazek	n-mi	slk	svazek	n-mi
 	ces	tón	n-f	slk	tón	n-mi
 	ces	vačnatec	n-ma	slk	vačnatec	n-ma
 LR	ces	společnost	n-nt	slk	společnost	n-f
 	ces	identita	n-f	slk	identita	n-f
 	ces	totožnost	n-f	slk	totožnost	n-f
-	ces	mír	n-mi	slk	mír	n-mi
+	ces	mír	n-mi$n	slk	mír	n-mi
 	ces	trakt	n-mi	slk	trakt	n-mi
 	ces	přenos	n-mi	slk	přenos	n-mi
 	ces	přesun	n-mi	slk	přesun	n-mi
@@ -4741,7 +4741,7 @@ LR	ces	tělo	n-f	slk	tělo	n-nt
 RL	ces	obtíž	n-f	slk	obtíž	n-f
 	ces	potíž	n-f	slk	potíž	n-f
 	ces	mrtvola	n-ma	slk	mrtvola	n-f
-LR	ces	způsob	n-mi	slk	způsob	n-mi
+LR	ces	způsob	n-mi$n	slk	způsob	n-mi
 	ces	tribunál	n-mi	slk	tribunál	n-mi
 	ces	rákos	n-f	slk	rákos	n-mi
 	ces	třtina	n-f	slk	třtina	n-f
@@ -4751,7 +4751,7 @@ LR	ces	způsob	n-mi	slk	způsob	n-mi
 	ces	turistika	n-f	slk	turistika	n-f
 	ces	věta	n-nt	slk	věta	n-f
 	ces	týdeník	n-mi	slk	týdeník	n-mi
-	ces	titul	n-mi	slk	titul	n-mi
+	ces	titul	n-mi$n	slk	titul	n-mi
 	ces	obleček	n-nt	slk	obleček	n-mi
 LR	ces	oděv	n-nt	slk	oděv	n-mi
 	ces	útlak	n-mi	slk	útlak	n-mi
@@ -4763,13 +4763,13 @@ LR	ces	oděv	n-nt	slk	oděv	n-mi
 	ces	úcta	n-f	slk	úcta	n-f
 	ces	akcie	n-mi	slk	akcie	n-f
 	ces	podíl	n-mi	slk	podíl	n-mi
-	ces	ulice	n-f	slk	ulice	n-f
+	ces	ulice	n-f$n	slk	ulice	n-f
 	ces	univerzita	n-mi	slk	univerzita	n-f
 	ces	úpadek	n-mi	slk	úpadek	n-mi
 	ces	úprava	n-f	slk	úprava	n-f
 	ces	úraz	n-f	slk	úraz	n-mi
 	ces	úraz	n-f	slk	úraz	n-mi
-	ces	slavnost	n-f	slk	slavnost	n-f
+	ces	slavnost	n-f$n	slk	slavnost	n-f
 	ces	přístroj	n-nt	slk	přístroj	n-mi
 	ces	úředník	n-ma	slk	úředník	n-ma
 	ces	ztráta	n-f	slk	ztráta	n-f
@@ -4781,7 +4781,7 @@ LR	ces	oděv	n-nt	slk	oděv	n-mi
 	ces	vápník	n-mi	slk	vápník	n-mi
 	ces	varianta	n-mi	slk	varianta	n-f
 	ces	workshop	n-mi	slk	workshop	n-mi
-	ces	hodnota	n-f	slk	hodnota	n-f
+	ces	hodnota	n-f$n	slk	hodnota	n-f
 	ces	podmínka	n-mi	slk	podmínka	n-f
 	ces	vařečka	n-f	slk	vařečka	n-f
 	ces	zelenina	n-nt	slk	zelenina	n-f
@@ -4789,7 +4789,7 @@ LR	ces	oděv	n-nt	slk	oděv	n-mi
 	ces	vážka	n-f	slk	vážka	n-f
 	ces	pochybnost	n-f	slk	pochybnost	n-f
 	ces	drift	n-f	slk	drift	n-mi
-	ces	zpráva	n-f	slk	zpráva	n-f
+	ces	zpráva	n-f$n	slk	zpráva	n-f
 	ces	jilm	n-mi	slk	jilm	n-mi
 	ces	vaz	n-mi	slk	vaz	n-mi
 	ces	pohled	n-mi	slk	pohled	n-mi
@@ -4816,7 +4816,7 @@ LR	ces	vězení	n-mi	slk	vězení	n-mi
 	ces	návštěva	n-f	slk	návštěva	n-f
 	ces	vlásek	n-mi	slk	vlásek	n-mi
 	ces	chloupek	n-mi	slk	chloupek	n-mi
-	ces	vlas	n-mi	slk	vlas	n-mi
+	ces	vlas	n-mi$n	slk	vlas	n-mi
 	ces	závěr	n-mi	slk	závěr	n-mi
 	ces	válečník	n-ma	slk	válečník	n-ma
 	ces	sáček	n-mi	slk	sáček	n-mi
@@ -4830,7 +4830,7 @@ LR	ces	vězení	n-mi	slk	vězení	n-mi
 	ces	úvod	n-mi	slk	úvod	n-mi
 	ces	výběr	n-mi	slk	výběr	n-mi
 	ces	výchova	n-nt	slk	výchova	n-f
-	ces	výlet	n-f	slk	výlet	n-mi
+	ces	výlet	n$n-f	slk	výlet	n-mi
 	ces	výkonnost	n-f	slk	výkonnost	n-f
 	ces	událost	n-nt	slk	událost	n-f
 	ces	vydavatelství	n-nt	slk	vydavatelství	n-mi
@@ -4850,16 +4850,16 @@ LR	ces	vězení	n-mi	slk	vězení	n-mi
 	ces	příslušenství	n-nt	slk	příslušenství	n-mi
 	ces	výbava	n-nt	slk	výbava	n-f
 	ces	výprava	n-f	slk	výprava	n-f
-	ces	výraz	n-mi	slk	výraz	n$n-mi
-	ces	úsilí	n-mi	slk	úsilí	n-mi
+	ces	výraz	n-mi$n	slk	výraz	n$n-mi
+	ces	úsilí	n-mi$n	slk	úsilí	n-mi
 	ces	výstava	n-f	slk	výstava	n-f
-	ces	vzor	n-mi	slk	vzor	n-mi
+	ces	vzor	n-mi$n	slk	vzor	n-mi
 	ces	růst	n-mi	slk	růst	n-mi
 	ces	vzestup	n-mi	slk	vzestup	n-mi
 	ces	zábava	n-f	slk	zábava	n-f
 	ces	hračka	n-f	slk	hračka	n-f
 	ces	vrah	n-nt	slk	vrah	n-ma
-	ces	západ	n-mi	slk	západ	n-mi
+	ces	západ	n-mi$n	slk	západ	n-mi
 	ces	záhada	n-f	slk	záhada	n-f
 	ces	zákaz	n-mi	slk	zákaz	n-mi
 	ces	nákaza	n-nt	slk	nákaza	n-f
@@ -4871,21 +4871,21 @@ LR	ces	vězení	n-mi	slk	vězení	n-mi
 	ces	klad	n-f	slk	klad	n-mi
 	ces	výhoda	n-f	slk	výhoda	n-f
 	ces	závislost	n-f	slk	závislost	n-f
-	ces	hrad	n-mi	slk	hrad	n-mi
-LR	ces	hrad	n-mi	slk	hrad	n-mi
+	ces	hrad	n-mi$n	slk	hrad	n-mi
+LR	ces	hrad	n-mi$n	slk	hrad	n-mi
 	ces	zámek	n-mi	slk	zámek	n-mi
 	ces	úmysl	n-mi	slk	úmysl	n-mi
 	ces	objednávka	n-nt	slk	objednávka	n-f
 	ces	zakázka	n-nt	slk	zakázka	n-f
 	ces	zánět	n-nt	slk	zánět	n-mi
 	ces	inventura	n-mi	slk	inventura	n-f
-	ces	zápas	n-mi	slk	zápas	n-mi
+	ces	zápas	n-mi$n	slk	zápas	n-mi
 	ces	zápis	n-mi	slk	zápis	n-mi
 	ces	obzor	n-mi	slk	obzor	n-mi
 RL	ces	dolet	n-mi	slk	dolet	n-mi
 	ces	rádius	n-mi	slk	rádius	n-mi
 	ces	záliv	n-f	slk	záliv	n-mi
-	ces	zátoka	n-f	slk	zátoka	n-f
+	ces	zátoka	n-f$n	slk	zátoka	n-f
 	ces	důvěra	n-nt	slk	důvěra	n-f
 	ces	důvěryhodnost	n-nt	slk	důvěryhodnost	n-f
 	ces	podmínka	n-mi	slk	podmínka	n-f
@@ -4919,7 +4919,7 @@ RL	ces	dolet	n-mi	slk	dolet	n-mi
 	ces	značka	n-mi	slk	značka	n-f
 	ces	znak	n-mi	slk	znak	n-mi
 	ces	známka	n-mi	slk	známka	n-f
-	ces	polévka	n-f	slk	polévka	n-f
+	ces	polévka	n-f$n	slk	polévka	n-f
 	ces	příznivec	n-ma	slk	příznivec	n-ma
 	ces	stoupenec	n-ma	slk	stoupenec	n-ma
 	ces	vítězství	n-nt	slk	vítězství	n-mi
@@ -4929,7 +4929,7 @@ RL	ces	výdělek	n-mi	slk	výdělek	n-mi
 	ces	žár	n-mi	slk	žár	n-mi
 	ces	žehlička	n-nt	slk	žehlička	n-f
 	ces	zmije	n-f	slk	zmije	n-f
-	ces	žaludek	n-mi	slk	žaludek	n-mi
+	ces	žaludek	n-mi$n	slk	žaludek	n-mi
 	ces	voják	n-ma	slk	voják	n-ma
 	ces	vojín	n-ma	slk	vojín	n-ma
 	ces	žloutek	n-nt	slk	žloutek	n-mi
@@ -5053,7 +5053,7 @@ LR	ces	zvonek	n-mi	slk	zvonek	n-mi
 	ces	kaktus	n-mi	slk	kaktus	n-mi
 	ces	kameník	n-ma	slk	kameník	n-ma
 	ces	chlebíček	n-f	slk	chlebíček	n-mi
-	ces	kapela	n-f	slk	kapela	n-f
+	ces	kapela	n-f$n	slk	kapela	n-f
 	ces	krčmář	n-ma	slk	krčmář	n-ma
 	ces	kousíček	n-mi	slk	kousíček	n-mi
 	ces	kavárna	n-f	slk	kavárna	n-f
@@ -5079,7 +5079,7 @@ LR	ces	zvonek	n-mi	slk	zvonek	n-mi
 	ces	kriminál	n-mi	slk	kriminál	n-mi
 	ces	křivda	n-f	slk	křivda	n-f
 	ces	křížek	n-mi	slk	křížek	n-mi
-	ces	královna	n-f	slk	královna	n-f
+	ces	královna	n-f$n	slk	královna	n-f
 	ces	krátkozrakost	n-f	slk	krátkozrakost	n-f
 	ces	knihkupec	n-ma	slk	knihkupec	n-ma
 	ces	kulisa	n-f	slk	kulisa	n-f
@@ -5116,7 +5116,7 @@ LR	ces	zvonek	n-mi	slk	zvonek	n-mi
 	ces	zmatek	n-mi	slk	zmatek	n-mi
 	ces	návěs	n-f	slk	návěs	n-mi
 	ces	záhlaví	n-mi	slk	záhlaví	n-mi
-	ces	rozkaz	n-mi	slk	rozkaz	n-mi
+	ces	rozkaz	n-mi$n	slk	rozkaz	n-mi
 	ces	náležitost	n-f	slk	náležitost	n-f
 	ces	útočník	n-ma	slk	útočník	n-ma
 	ces	nedostatek	n-mi	slk	nedostatek	n-mi
@@ -5227,7 +5227,7 @@ LR	ces	stanice	n-mi	slk	stanice	n-f
 LR	ces	útulek	n-nt	slk	útulek	n-mi
 	ces	povaleč	n-ma	slk	povaleč	n-ma
 	ces	pružnost	n-f	slk	pružnost	n-f
-	ces	krabice	n-nt	slk	krabice	n-f
+	ces	krabice	n$n-nt	slk	krabice	n-f
 	ces	podsvětí	n-mi	slk	podsvětí	n-mi
 	ces	váček	n-mi	slk	váček	n-mi
 	ces	plátek	n-mi	slk	plátek	n-mi
@@ -5242,7 +5242,7 @@ LR	ces	útulek	n-nt	slk	útulek	n-mi
 	ces	povodí	n-nt	slk	povodí	n-mi
 LR	ces	nepozornost	n-nt	slk	nepozornost	n-f
 	ces	rynek	n-mi	slk	rynek	n-mi
-	ces	rukopis	n-mi	slk	rukopis	n-mi
+	ces	rukopis	n-mi$n	slk	rukopis	n-mi
 	ces	sazenice	n-f	slk	sazenice	n-f
 	ces	salónek	n-mi	slk	salónek	n-mi
 	ces	ospalost	n-f	slk	ospalost	n-f
@@ -5278,11 +5278,11 @@ LR	ces	otevřenost	n-f	slk	otevřenost	n-f
 	ces	špionáž	n-nt	slk	špionáž	n-f
 	ces	šibenice	n-f	slk	šibenice	n-f
 	ces	sběrnice	n-f	slk	sběrnice	n-f
-	ces	tanečnice	n-f	slk	tanečnice	n-f
+	ces	tanečnice	n-f$n	slk	tanečnice	n-f
 	ces	templář	n-ma	slk	templář	n-ma
 	ces	současnost	n-f	slk	současnost	n-f
 	ces	terorizmus	n-mi	slk	terorizmus	n-mi
-	ces	tradice	n-f	slk	tradice	n-f
+	ces	tradice	n-f$n	slk	tradice	n-f
 	ces	mrtvola	n-f	slk	mrtvola	n-f
 	ces	tuberkulóza	n-f	slk	tuberkulóza	n-f
 	ces	běženec	n-ma	slk	běženec	n-ma
@@ -5422,7 +5422,7 @@ LR	ces	reflektor	n-mi	slk	reflektor	n-mi
 	ces	skandál	n-mi	slk	skandál	n-mi
 	ces	stížnost	n-f	slk	stížnost	n-f
 	ces	smutek	n-mi	slk	smutek	n-mi
-	ces	straka	n-f	slk	straka	n-f
+	ces	straka	n-f$n	slk	straka	n-f
 	ces	stativ	n-mi	slk	stativ	n-mi
 	ces	stážistka	n-f	slk	stážistka	n-f
 LR	ces	stánek	n-nt	slk	stánek	n-mi
@@ -5464,7 +5464,7 @@ LR	ces	transplantace	n-f	slk	transplantace	n-f
 	ces	tyran	n-ma	slk	tyran	n-ma
 	ces	titulek	n-mi	slk	titulek	n-mi
 	ces	tep	n-nt	slk	tep	n-mi
-	ces	tlumič	n-mi	slk	tlumič	n-mi
+	ces	tlumič	n-mi$n	slk	tlumič	n-mi
 	ces	úbytek	n-mi	slk	úbytek	n-mi
 	ces	pytlík	n-mi	slk	pytlík	n-mi
 	ces	přestupek	n-nt	slk	přestupek	n-mi
@@ -5485,7 +5485,7 @@ LR	ces	blesk	n-mi	slk	blesk	n-mi
 	ces	cedník	n-mi	slk	cedník	n-mi
 	ces	výměník	n-f	slk	výměník	n-mi
 	ces	kapesník	n-f	slk	kapesník	n-mi
-	ces	tok	n-mi	slk	tok	n-mi
+	ces	tok	n-mi$n	slk	tok	n-mi
 	ces	dotisk	n-mi	slk	dotisk	n-mi
 	ces	dopink	n-mi	slk	dopink	n-mi
 	ces	fíkovník	n-mi	slk	fíkovník	n-mi
@@ -5493,7 +5493,7 @@ LR	ces	blesk	n-mi	slk	blesk	n-mi
 	ces	jarmark	n-mi	slk	jarmark	n-mi
 	ces	joystick	n-mi	slk	joystick	n-mi
 	ces	květák	n-mi	slk	květák	n-mi
-	ces	krk	n-mi	slk	krk	n-mi
+	ces	krk	n-mi$n	slk	krk	n-mi
 	ces	kaučuk	n-mi	slk	kaučuk	n-mi
 	ces	košík	n-mi	slk	košík	n-mi
 	ces	kostelík	n-mi	slk	kostelík	n-mi
@@ -5579,12 +5579,12 @@ LR	ces	styk	n-mi	slk	styk	n-mi
 	ces	přihrádka	n-f	slk	přihrádka	n-f
 	ces	parašutista	n-ma	slk	parašutista	n-ma
 	ces	omítka	n-mi	slk	omítka	n-f
-	ces	agroturistika	n-f	slk	agroturistika	n-f
+	ces	agroturistika	n-f$n	slk	agroturistika	n-f
 	ces	akát	n-f	slk	akát	n-mi
 	ces	altán	n-f	slk	altán	n-mi
 	ces	atletika	n-f	slk	atletika	n-f
 	ces	bazén	n-f	slk	bazén	n-mi
-	ces	chata	n-f	slk	chata	n-f
+	ces	chata	n$n-f	slk	chata	n-f
 	ces	diagnostika	n-f	slk	diagnostika	n-f
 	ces	dynamika	n-f	slk	dynamika	n-f
 	ces	ekonomika	n-f	slk	ekonomika	n-f
@@ -5616,7 +5616,7 @@ LR	ces	ekonomika	n-f	slk	ekonomika	n-f
 	ces	rutina	n-f	slk	rutina	n-f
 LR	ces	salát	n-f	slk	salát	n-mi
 	ces	schůze	n-f	slk	schůze	n-f
-	ces	škoda	n-f	slk	škoda	n-f
+	ces	škoda	n-f$n	slk	škoda	n-f
 	ces	snímač	n-f	slk	snímač	n-mi
 	ces	stěrač	n-f	slk	stěrač	n-mi
 	ces	stylistika	n-f	slk	stylistika	n-f
@@ -5681,7 +5681,7 @@ LR	ces	karát	n-mi	slk	karát	n-mi
 	ces	přijímač	n-mi	slk	přijímač	n-mi
 	ces	proletariát	n-mi	slk	proletariát	n-mi
 	ces	protektorát	n-mi	slk	protektorát	n-mi
-	ces	prst	n-mi	slk	prst	n-mi
+	ces	prst	n-mi$n	slk	prst	n-mi
 	ces	rozvalina	n-mi	slk	rozvalina	n-f
 	ces	rukáv	n-mi	slk	rukáv	n-mi
 	ces	sacharid	n-mi	slk	sacharid	n-mi
@@ -5691,7 +5691,7 @@ LR	ces	karát	n-mi	slk	karát	n-mi
 	ces	triumvirát	n-mi	slk	triumvirát	n-mi
 	ces	urychlovač	n-mi	slk	urychlovač	n-mi
 	ces	vysílač	n-mi	slk	vysílač	n-mi
-	ces	základ	n-mi	slk	základ	n-mi
+	ces	základ	n-mi$n	slk	základ	n-mi
 	ces	zapalovač	n-mi	slk	zapalovač	n-mi
 LR	ces	astrofyzik	n-ma	slk	astrofyzik	n-ma
 	ces	groš	n-mi	slk	groš	n-mi
@@ -5787,16 +5787,16 @@ LR	ces	narážka	n-mi	slk	narážka	n-f
 	ces	perlička	n-f	slk	perlička	n-f
 	ces	pleva	n-f	slk	pleva	n-f
 	ces	podložka	n-f	slk	podložka	n-f
-	ces	podmínka	n-f	slk	podmínka	n-f
-LR	ces	pohádka	n-f	slk	pohádka	n-f
+	ces	podmínka	n-f$n	slk	podmínka	n-f
+LR	ces	pohádka	n-f$n	slk	pohádka	n-f
 	ces	pohrůžka	n-f	slk	pohrůžka	n-f
 	ces	pokladnička	n-f	slk	pokladnička	n-f
 	ces	ponožka	n-f	slk	ponožka	n-f
 	ces	potyčka	n-f	slk	potyčka	n-f
 	ces	poukázka	n-f	slk	poukázka	n-f
 LR	ces	poukázka	n-mi	slk	poukázka	n-f
-	ces	povídka	n-f	slk	povídka	n-f
-	ces	poznámka	n-f	slk	poznámka	n-f
+	ces	povídka	n-f$n	slk	povídka	n-f
+	ces	poznámka	n-f$n	slk	poznámka	n-f
 	ces	prababička	n-f	slk	prababička	n-f
 	ces	překližka	n-f	slk	překližka	n-f
 LR	ces	přezdívka	n-f	slk	přezdívka	n-f
@@ -5827,7 +5827,7 @@ LR	ces	schránka	n-mi	slk	schránka	n-f
 	ces	soubor	n-mi	slk	soubor	n-mi
 	ces	souhláska	n-f	slk	souhláska	n-f
 	ces	sousedka	n-f	slk	sousedka	n-f
-	ces	stránka	n-f	slk	stránka	n-f
+	ces	stránka	n-f$n	slk	stránka	n-f
 	ces	struna	n-f	slk	struna	n-f
 	ces	šunka	n-f	slk	šunka	n-f
 LR	ces	svíčka	n-f	slk	svíčka	n-f
@@ -6074,7 +6074,7 @@ RL	ces	výsada	n-f	slk	výsada	n-f
 	ces	efedrin	n-f	slk	efedrin	n-mi
 	ces	poprava	n-f	slk	poprava	n-f
 	ces	ekosystém	n-mi	slk	ekosystém	n-mi
-	ces	excelence	n-f	slk	excelence	n-f
+	ces	excelence	n-f$n	slk	excelence	n-f
 	ces	exces	n-mi	slk	exces	n-mi
 	ces	exhumace	n-f	slk	exhumace	n-f
 	ces	expanze	n-f	slk	expanze	n-f
@@ -6183,7 +6183,7 @@ RL	ces	exces	n-mi	slk	exces	n-mi
 	ces	instance	n-f	slk	instance	n-f
 	ces	instrukce	n-f	slk	instrukce	n-f
 	ces	instrumentace	n-f	slk	instrumentace	n-f
-	ces	instituce	n-f	slk	instituce	n-f
+	ces	instituce	n-f$n	slk	instituce	n-f
 	ces	inteligence	n-f	slk	inteligence	n-f
 	ces	intenzita	n-f	slk	intenzita	n-f
 	ces	interakce	n-f	slk	interakce	n-f
@@ -6304,7 +6304,7 @@ RL	ces	kredit	n-mi	slk	kredit	n-mi
 	ces	levandule	n-f	slk	levandule	n-f
 	ces	lebeda	n-f	slk	lebeda	n-f
 	ces	legie	n-f	slk	legie	n-f
-	ces	lekce	n-f	slk	lekce	n-f
+	ces	lekce	n-f$n	slk	lekce	n-f
 	ces	lexikon	n-mi	slk	lexikon	n-mi
 	ces	limonáda	n-f	slk	limonáda	n-f
 	ces	letargie	n-mi	slk	letargie	n-f
@@ -6405,7 +6405,7 @@ RL	ces	reference	n-mi	slk	reference	n-f
 	ces	parita	n-f	slk	parita	n-f
 	ces	pašije	n-f	slk	pašije	n-f
 	ces	pavilon	n-mi	slk	pavilon	n-mi
-	ces	dráp	n-mi	slk	dráp	n-mi
+	ces	dráp	n-mi$n	slk	dráp	n-mi
 	ces	penicilin	n-f	slk	penicilin	n-mi
 	ces	perkuse	n-f	slk	perkuse	n-f
 	ces	personifikace	n-f	slk	personifikace	n-f
@@ -6415,10 +6415,10 @@ RL	ces	reference	n-mi	slk	reference	n-f
 	ces	pinzeta	n-f	slk	pinzeta	n-f
 	ces	pionýr	n-ma	slk	pionýr	n-ma
 	ces	pyramida	n-f	slk	pyramida	n-f
-	ces	skvrna	n-f	slk	skvrna	n-f
+	ces	skvrna	n-f$n	slk	skvrna	n-f
 	ces	fáma	n-f	slk	fáma	n-f
 	ces	rovina	n-f	slk	rovina	n-f
-	ces	plod	n-mi	slk	plod	n-mi
+	ces	plod	n-mi$n	slk	plod	n-mi
 	ces	pochod	n-mi	slk	pochod	n-mi
 	ces	poezie	n-f	slk	poezie	n-f
 	ces	pohovor	n-f	slk	pohovor	n-mi
@@ -6448,7 +6448,7 @@ RL	ces	reference	n-mi	slk	reference	n-f
 	ces	funkce	n-nt	slk	funkce	n-f
 	ces	převod	n-mi	slk	převod	n-mi
 	ces	metafora	n-f	slk	metafora	n-f
-	ces	přípona	n-f	slk	přípona	n-f
+	ces	přípona	n-f$n	slk	přípona	n-f
 	ces	přeprava	n-f	slk	přeprava	n-f
 	ces	slunovrat	n-nt	slk	slunovrat	n-mi
 	ces	kriminalita	n-f	slk	kriminalita	n-f
@@ -6483,7 +6483,7 @@ LR	ces	rekreace	n-f	slk	rekreace	n-f
 	ces	republikán	n-ma	slk	republikán	n-ma
 	ces	revize	n-f	slk	revize	n-f
 LR	ces	revizor	n-ma	slk	revizor	n-ma
-	ces	revoluce	n-f	slk	revoluce	n-f
+	ces	revoluce	n-f$n	slk	revoluce	n-f
 	ces	revolver	n-mi	slk	revolver	n-mi
 	ces	rezervace	n-f	slk	rezervace	n-f
 	ces	přehrada	n-mi	slk	přehrada	n-f
@@ -6513,7 +6513,7 @@ LR	ces	senzor	n-mi	slk	senzor	n-mi
 LR	ces	motiv	n-f	slk	motiv	n-mi
 	ces	škrob	n-f	slk	škrob	n-mi
 	ces	skútr	n-mi	slk	skútr	n-mi
-	ces	sláma	n-f	slk	sláma	n-f
+	ces	sláma	n-f$n	slk	sláma	n-f
 	ces	socialismus	n-mi	slk	socialismus	n-mi
 	ces	sociologie	n-f	slk	sociologie	n-f
 LR	ces	mezera	n-f	slk	mezera	n-f
@@ -6558,7 +6558,7 @@ LR	ces	teriér	n-ma	slk	teriér	n-ma
 	ces	turbína	n-f	slk	turbína	n-f
 	ces	tyranie	n-f	slk	tyranie	n-f
 	ces	úchyt	n-mi	slk	úchyt	n-mi
-	ces	sleva	n-f	slk	sleva	n-f
+	ces	sleva	n-f$n	slk	sleva	n-f
 RL	ces	úleva	n-f	slk	úleva	n-f
 	ces	unie	n-f	slk	unie	n-f
 	ces	univerziáda	n-f	slk	univerziáda	n-f
@@ -6616,7 +6616,7 @@ RL	ces	úleva	n-f	slk	úleva	n-f
 	ces	záliv	n-mi	slk	záliv	n-mi
 	ces	zápal	n-mi	slk	zápal	n-mi
 	ces	odměna	n-f	slk	odměna	n-f
-	ces	záclona	n-f	slk	záclona	n-f
+	ces	záclona	n-f$n	slk	záclona	n-f
 	ces	náhrada	n-nt	slk	náhrada	n-f
 	ces	zácpa	n-nt	slk	zácpa	n-f
 	ces	infarkt	n-mi	slk	infarkt	n-mi
@@ -6648,7 +6648,7 @@ LR	ces	agentura	n-f	slk	agentura	n-f
 	ces	agresor	n-ma	slk	agresor	n-ma
 	ces	akupresura	n-f	slk	akupresura	n-f
 	ces	akupunktura	n-f	slk	akupunktura	n-f
-	ces	albatros	n-ma	slk	albatros	n-ma
+	ces	albatros	n-ma$n	slk	albatros	n-ma
 	ces	alergik	n-ma	slk	alergik	n-ma
 	ces	amfora	n-f	slk	amfora	n-f
 	ces	amplituda	n-f	slk	amplituda	n-f
@@ -6709,7 +6709,7 @@ LR	ces	agentura	n-f	slk	agentura	n-f
 	ces	puma	n-f	slk	puma	n-f
 	ces	reduta	n-f	slk	reduta	n-f
 	ces	samba	n-f	slk	samba	n-f
-	ces	samouk	n-ma	slk	samouk	n-ma
+	ces	samouk	n-ma$n	slk	samouk	n-ma
 	ces	schizofrenik	n-ma	slk	schizofrenik	n-ma
 	ces	sonda	n-f	slk	sonda	n$n-f
 	ces	tapeta	n-f	slk	tapeta	n-f
@@ -6838,7 +6838,7 @@ RL	ces	baryum	n-mi	slk	baryum	n-mi
 	ces	bufet	n-mi	slk	bufet	n-mi
 	ces	centimetr	n-mi	slk	centimetr	n-mi
 	ces	chemoreceptor	n-mi	slk	chemoreceptor	n-mi
-	ces	cholesterol	n-mi	slk	cholesterol	n-mi
+	ces	cholesterol	n-mi$n	slk	cholesterol	n-mi
 	ces	chronometr	n-mi	slk	chronometr	n-mi
 	ces	cyklon	n-mi	slk	cyklon	n-mi
 	ces	dar	n-mi	slk	dar	n-mi
@@ -6873,7 +6873,7 @@ RL	ces	baryum	n-mi	slk	baryum	n-mi
 	ces	patogen	n-mi	slk	patogen	n-mi
 	ces	pigment	n-mi	slk	pigment	n-mi
 	ces	potenciometr	n-mi	slk	potenciometr	n-mi
-	ces	abatyše	n-f	slk	abatyše	n-f
+	ces	abatyše	n-f$n	slk	abatyše	n-f
 	ces	absolvent	n-ma	slk	absolvent	n-ma
 	ces	vrstevnice	n-f	slk	vrstevnice	n-f
 	ces	hvězdokupa	n-mi	slk	hvězdokupa	n-f
@@ -6881,17 +6881,17 @@ RL	ces	baryum	n-mi	slk	baryum	n-mi
 	ces	prdel	n-f	slk	prdel	n-mi
 	ces	těsto	n-nt	slk	těsto	n-nt
 	ces	počasí	n-f	slk	počasí	n-nt
-	ces	jazyk	n-mi	slk	jazyk	n-mi
+	ces	jazyk	n-mi$n	slk	jazyk	n-mi
 	ces	izoterma	n-f	slk	izoterma	n-f
 	ces	izoglosa	n-f	slk	izoglosa	n-f
-	ces	kniha	n-f	slk	kniha	n-f
+	ces	kniha	n-f$n	slk	kniha	n-f
 	ces	šance	n-f	slk	šance	n-f
 	ces	izobara	n-f	slk	izobara	n-f
-	ces	hora	n-f	slk	hora	n-f
+	ces	hora	n-f$n	slk	hora	n-f
 	ces	dívka	n-f	slk	dívka	n-f
 	ces	děvka	n-f	slk	děvka	n-f
 RL	ces	holka	n-f	slk	holka	n-f
-	ces	lavice	n-f	slk	lavice	n-f
+	ces	lavice	n-f$n	slk	lavice	n-f
 	ces	andělika	n-mi	slk	andělika	n-f
 	ces	pranostika	n-f	slk	pranostika	n-f
 	ces	plán	n-mi	slk	plán	n-mi
@@ -6932,8 +6932,8 @@ LR	ces	Afričan	n-ma	slk	Afričan	n-ma
 LR	ces	podprsenka	n-mi	slk	podprsenka	n-f
 	ces	bismut	n-mi	slk	bismut	n-mi
 	ces	blog	n-mi	slk	blog	n-mi
-	ces	bratr	n-ma	slk	bratr	n-ma
-	ces	synovec	n-ma	slk	synovec	n-ma
+	ces	bratr	n-ma$n	slk	bratr	n-ma
+	ces	synovec	n-ma$n	slk	synovec	n-ma
 	ces	neteř	n-f	slk	neteř	n-f
 	ces	švagrová	n-f	slk	švagrová	n-f
 	ces	brada	n$n-f	slk	brada	n$n-f
@@ -7050,7 +7050,7 @@ LR	ces	podprsenka	n-mi	slk	podprsenka	n-f
 	ces	katoda	n-f	slk	katoda	n-f
 	ces	kinematograf	n-mi	slk	kinematograf	n-mi
 	ces	klásek	n-mi	slk	klásek	n-mi
-	ces	knedlík	n-mi	slk	knedlík	n-mi
+	ces	knedlík	n-mi$n	slk	knedlík	n-mi
 	ces	knihkupectví	n-f	slk	knihkupectví	n-mi
 	ces	knírač	n-ma	slk	knírač	n-ma
 	ces	kočár	n-f	slk	kočár	n-mi
@@ -7139,7 +7139,7 @@ LR	ces	podprsenka	n-mi	slk	podprsenka	n-f
 	ces	pieta	n-f	slk	pieta	n-f
 	ces	pilník	n-mi	slk	pilník	n-mi
 	ces	plagiát	n-mi	slk	plagiát	n-mi
-	ces	plameňák	n-ma	slk	plameňák	n-ma
+	ces	plameňák	n-ma$n	slk	plameňák	n-ma
 	ces	planetárium	n-nt	slk	planetárium	n-nt
 	ces	plantáž	n-f	slk	plantáž	n-f
 	ces	playback	n-mi	slk	playback	n-mi
@@ -7213,7 +7213,7 @@ LR	ces	podprsenka	n-mi	slk	podprsenka	n-f
 	ces	závist	n-f	slk	závist	n-f
 	ces	pýcha	n-f	slk	pýcha	n-f
 	ces	lesbička	n	slk	lesbička	n
-	ces	naděje	n-f	slk	naděje	n-f
+	ces	naděje	n-f$n	slk	naděje	n-f
 	ces	arzen	n-mi	slk	arzen	n-mi
 	ces	snídaně	n-nt	slk	snídaně	n-f
 	ces	beletrie	n-f	slk	beletrie	n-f
@@ -7254,7 +7254,7 @@ LR	ces	molekula	n-f	slk	molekula	n-f
 	ces	oligarchie	n-f	slk	oligarchie	n-f
 	ces	vypařování	n-nt	slk	vypařování	n-nt
 	ces	patron	n-ma	slk	patron	n-ma
-	ces	prsten	n-mi	slk	prsten	n-mi
+	ces	prsten	n-mi$n	slk	prsten	n-mi
 	ces	spermie	n-f	slk	spermie	n-f
 	ces	plíseň	n-f	slk	plíseň	n-f
 	ces	poručík	n-ma	slk	poručík	n-ma
@@ -7276,7 +7276,7 @@ LR	ces	molekula	n-f	slk	molekula	n-f
 	ces	náboženství	n-f	slk	náboženství	n-nt
 LR	ces	náboženství	n-nt	slk	náboženství	n-nt
 	ces	rhenium	n-mi	slk	rhenium	n-nt
-	ces	robot	n-ma	slk	robot	n-ma
+	ces	robot	n-ma$n	slk	robot	n-ma
 	ces	rod	n-mi	slk	rod	n-mi
 	ces	rhodium	n-mi	slk	rhodium	n-nt
 	ces	čeleď	n-f	slk	čeleď	n-f
@@ -7298,9 +7298,9 @@ LR	ces	roztok	n-mi	slk	roztok	n-mi
 	ces	třešeň	n-f	slk	třešeň	n-f
 	ces	kontradikce	n-f	slk	kontradikce	n-f
 	ces	vulva	n-mi	slk	vulva	n-f
-	ces	strop	n-mi	slk	strop	n-mi
+	ces	strop	n-mi$n	slk	strop	n-mi
 	ces	vojín	n-ma	slk	vojín	n-ma
-	ces	dýka	n-mi	slk	dýka	n-f
+	ces	dýka	n$n-mi	slk	dýka	n-f
 	ces	sekera	n-f	slk	sekera	n-f
 RL	ces	sekyra	n-f	slk	sekyra	n-f
 	ces	troll	n-ma	slk	troll	n-ma
@@ -7320,10 +7320,10 @@ LR	ces	jed	n-f	slk	jed	n-mi
 	ces	mrak	n-f	slk	mrak	n-mi
 	ces	zirkonium	n-mi	slk	zirkonium	n-nt
 	ces	lebka	n-f	slk	lebka	n-f
-	ces	třešně	n-f	slk	třešně	n-f
+	ces	třešně	n-f$n	slk	třešně	n-f
 	ces	tank	n-mi	slk	tank	n-mi
 	ces	ťuhýk	n-f	slk	ťuhýk	n-ma
-	ces	vlajka	n-f	slk	vlajka	n-f
+	ces	vlajka	n-f$n	slk	vlajka	n-f
 	ces	kožešina	n-nt	slk	kožešina	n-f
 	ces	homosexuál	n-ma	slk	homosexuál	n-ma
 	ces	orkán	n-mi	slk	orkán	n-mi
@@ -7340,11 +7340,11 @@ LR	ces	jed	n-f	slk	jed	n-mi
 	ces	kadmium	n-mi	slk	kadmium	n-nt
 	ces	kalifornium	n-mi	slk	kalifornium	n-nt
 	ces	kalkulačka	n-mi	slk	kalkulačka	n-f
-	ces	javor	n-mi	slk	javor	n-mi
-	ces	kolo	n-nt$n	slk	kolo	n-nt
+	ces	javor	n-mi$n	slk	javor	n-mi
+	ces	kolo	n-nt	slk	kolo	n-nt
 	ces	počítač	n-mi	slk	počítač	n-ma
 	ces	kondenzace	n-f	slk	kondenzace	n-f
-	ces	kraj	n-mi	slk	kraj	n-mi
+	ces	kraj	n-mi$n	slk	kraj	n-mi
 	ces	židle	n-nt	slk	židle	n-f
 	ces	keř	n-mi	slk	keř	n-mi
 	ces	lanthan	n-mi	slk	lanthan	n-mi
@@ -7376,7 +7376,7 @@ LR	ces	jed	n-f	slk	jed	n-mi
 	ces	hermafrodit	n-ma	slk	hermafrodit	n-ma
 	ces	kružnice	n-mi	slk	kružnice	n-f
 	ces	oftalmolog	n-ma	slk	oftalmolog	n-ma
-	ces	tužka	n-mi	slk	tužka	n-f
+	ces	tužka	n$n-mi	slk	tužka	n-f
 	ces	olovo	n-mi	slk	olovo	n-nt
 	ces	organizmus	n-mi	slk	organizmus	n-mi$n
 	ces	osmium	n-mi	slk	osmium	n-nt
@@ -7385,11 +7385,11 @@ LR	ces	jed	n-f	slk	jed	n-mi
 	ces	palladium	n-mi	slk	palladium	n-nt
 	ces	stát	n-nt	slk	stát	n-mi
 	ces	tučňák	n-ma	slk	tučňák	n-ma
-	ces	planeta	n-f	slk	planeta	n-f
+	ces	planeta	n-f$n	slk	planeta	n-f
 	ces	plutonium	n-mi	slk	plutonium	n-nt
 	ces	vagína	n-f	slk	vagína	n-f
 	ces	učebnice	n-mi	slk	učebnice	n-f
-	ces	puberta	n-nt	slk	puberta	n-f
+	ces	puberta	n$n-nt	slk	puberta	n-f
 	ces	polka	n-f	slk	polka	n-f
 	ces	pomeranč	n-f	slk	pomeranč	n-mi
 	ces	portál	n-mi	slk	portál	n-mi
@@ -7433,13 +7433,13 @@ LR	ces	jed	n-f	slk	jed	n-mi
 	ces	vlkodlak	n-ma	slk	vlkodlak	n-ma
 	ces	višeň	n-f	slk	višeň	n-f
 	ces	vodík	n-mi	slk	vodík	n-mi
-	ces	úterý	n-mi	slk	úterý	n-nt
+	ces	úterý	n$n-mi	slk	úterý	n-nt
 	ces	výslovnost	n-f	slk	výslovnost	n-f
 	ces	ostrov	n-f	slk	ostrov	n-mi
 	ces	nadhlavník	n-mi	slk	nadhlavník	n-mi
-RL	ces	zem	n-f	slk	zem	n-f
+RL	ces	zem	n-f$n	slk	zem	n-f
 	ces	jev	n-nt	slk	jev	n-mi
-	ces	zlato	n-nt	slk	zlato	n-nt
+	ces	zlato	n-nt$n	slk	zlato	n-nt
 	ces	sloučenina	n-mi	slk	sloučenina	n-f
 	ces	obratník	n-mi	slk	obratník	n-mi
 	ces	buňka	n-f	slk	buňka	n-f
@@ -7454,13 +7454,13 @@ RL	ces	cezium	n-mi	slk	cezium	n-nt
 RL	ces	církev	n-mi	slk	církev	n-f
 	ces	kostel	n-mi	slk	kostel	n-mi
 	ces	cynik	n-ma	slk	cynik	n-ma
-	ces	ďábel	n-ma	slk	ďábel	n-mi
+	ces	ďábel	n$n-ma	slk	ďábel	n-mi
 	ces	anděl	n-ma	slk	anděl	n-ma
 	ces	dalekohled	n-f	slk	dalekohled	n-mi
 	ces	dermatolog	n-ma	slk	dermatolog	n-ma
 	ces	desátník	n-ma	slk	desátník	n-ma
 	ces	déšť	n-mi	slk	déšť	n-mi
-	ces	dopis	n-mi	slk	dopis	n-mi
+	ces	dopis	n-mi$n	slk	dopis	n-mi
 	ces	doprava	n-mi	slk	doprava	n-f
 	ces	candát	n-ma	slk	candát	n-ma
 	ces	cache	n-mi	slk	cache	n-f
@@ -7517,18 +7517,18 @@ RL	ces	helium	n-mi	slk	helium	n-nt
 	ces	kudlanka	n-f	slk	kudlanka	n-f
 	ces	kulka	n-mi	slk	kulka	n-f
 	ces	lopatka	n-f	slk	lopatka	n-f
-	ces	loutka	n-f	slk	loutka	n-f
+	ces	loutka	n-f$n	slk	loutka	n-f
 	ces	mandarinka	n-f	slk	mandarinka	n-f
 	ces	matka	n-f	slk	matka	n-f
 	ces	modelka	n-f	slk	modelka	n-f
 	ces	motorka	n-mi	slk	motorka	n-f
 	ces	muslim	n-ma	slk	muslim	n-f
-	ces	panenka	n-f	slk	panenka	n-f
+	ces	panenka	n-f$n	slk	panenka	n-f
 	ces	partnerka	n-f	slk	partnerka	n-f
 	ces	pastelka	n-f	slk	pastelka	n-f
 	ces	plechovka	n-f	slk	plechovka	n-f
 	ces	plenka	n-f	slk	plenka	n-f
-	ces	rodina	n-f	slk	rodina	n-f
+	ces	rodina	n-f$n	slk	rodina	n-f
 	ces	rohovka	n-f	slk	rohovka	n-f
 	ces	rozinka	n-f	slk	rozinka	n-f
 	ces	rybka	n-f	slk	rybka	n-f
@@ -7548,7 +7548,7 @@ RL	ces	helium	n-mi	slk	helium	n-nt
 	ces	uvozovka	n-mi	slk	uvozovka	n-f
 	ces	virtuos	n-ma	slk	virtuos	n-f
 	ces	vodka	n-f	slk	vodka	n-f
-	ces	volavka	n-f	slk	volavka	n-f
+	ces	volavka	n-f$n	slk	volavka	n-f
 	ces	zkumavka	n-f	slk	zkumavka	n-f
 	ces	barometr	n-mi	slk	barometr	n-mi
 	ces	alkohol	n-mi	slk	alkohol	n-mi
@@ -7556,24 +7556,24 @@ RL	ces	helium	n-mi	slk	helium	n-nt
 	ces	atom	n-mi	slk	atom	n-mi
 	ces	banka	n-mi	slk	banka	n-f
 	ces	buk	n-mi	slk	buk	n-mi
-	ces	čas	n-mi	slk	čas	n-mi
+	ces	čas	n-mi$n	slk	čas	n-mi
 	ces	analýza	n-f	slk	analýza	n-f
 	ces	anténa	n-f	slk	anténa	n-f
 LR	ces	barva	n-f	slk	barva	n-f
-	ces	oko	n-nt	slk	oko	n-nt
+	ces	oko	n-nt$n	slk	oko	n-nt
 	ces	zlo	n-nt	slk	zlo	n-nt
 	ces	mléko	n-nt	slk	mléko	n-nt
 	ces	auto	n-mi	slk	auto	n-nt
 LR	ces	auto	n-nt	slk	auto	n-nt
-	ces	léto	n-nt	slk	léto	n-nt
-	ces	vnuk	n-ma	slk	vnuk	n-ma
-	ces	město	n-nt	slk	město	n-nt
+	ces	léto	n-nt$n	slk	léto	n-nt
+	ces	vnuk	n-ma$n	slk	vnuk	n-ma
+	ces	město	n-nt$n	slk	město	n-nt
 LR	ces	město	n-f	slk	město	n-nt
 	ces	tur	n-ma	slk	tur	n-ma
-	ces	otec	n-ma	slk	otec	n-ma
+	ces	otec	n-ma$n	slk	otec	n-ma
 	ces	testosteron	n-mi	slk	testosteron	n-mi
 	ces	disertace	n-f	slk	disertace	n-f
-	ces	pes	n-ma	slk	pes	n-ma
+	ces	pes	n-ma$n	slk	pes	n-ma
 	ces	anatom	n-ma	slk	anatom	n-ma
 	ces	arsen	n-mi	slk	arsen	n-mi
 	ces	baletka	n-f	slk	baletka	n-f
@@ -7596,8 +7596,8 @@ LR	ces	axiom	n-mi	slk	axiom	n-mi
 	ces	axiom	n-mi	slk	axiom	n-mi
 	ces	bajt	n-mi	slk	bajt	n-mi
 	ces	bizmut	n-mi	slk	bizmut	n-mi
-	ces	čtvrtek	n-mi	slk	čtvrtek	n-mi
-	ces	den	n-mi	slk	den	n-mi
+	ces	čtvrtek	n-mi$n	slk	čtvrtek	n-mi
+	ces	den	n-mi$n	slk	den	n-mi
 	ces	dialekt	n-mi	slk	dialekt	n-mi
 	ces	fax	n-mi	slk	fax	n-mi
 	ces	fjord	n-mi	slk	fjord	n-mi
@@ -7615,9 +7615,9 @@ LR	ces	axiom	n-mi	slk	axiom	n-mi
 	ces	modem	n-mi	slk	modem	n-mi
 	ces	nůž	n-mi	slk	nůž	n-mi
 	ces	objekt	n-mi	slk	objekt	n-mi
-	ces	pás	n-mi	slk	pás	n-mi
-	ces	pátek	n-mi	slk	pátek	n-mi
-	ces	rok	n-mi	slk	rok	n-mi
+	ces	pás	n-mi$n	slk	pás	n-mi
+	ces	pátek	n-mi$n	slk	pátek	n-mi
+	ces	rok	n-mi$n	slk	rok	n-mi
 	ces	smoking	n-mi	slk	smoking	n-mi
 	ces	škuner	n-mi	slk	škuner	n-mi
 	ces	strom	n-nt	slk	strom	n-mi
@@ -7625,22 +7625,22 @@ LR	ces	axiom	n-mi	slk	axiom	n-mi
 	ces	televizor	n-mi	slk	televizor	n-mi
 	ces	zenit	n-mi	slk	zenit	n-mi
 	ces	zinek	n-mi	slk	zinek	n-mi
-	ces	způsob	n-mi	slk	způsob	n-mi
-	ces	zub	n-mi	slk	zub	n-mi
-LR	ces	život	n-mi	slk	život	n-mi
+	ces	způsob	n-mi$n	slk	způsob	n-mi
+	ces	zub	n-mi$n	slk	zub	n-mi
+LR	ces	život	n-mi$n	slk	život	n-mi
 	ces	život	n-nt	slk	život	n-mi
 	ces	expozitura	n-f	slk	expozitura	n-f
 	ces	xenon	n-mi	slk	xenon	n-mi
 	ces	xylofon	n-mi	slk	xylofon	n-mi
 	ces	teodolit	n-mi	slk	teodolit	n-mi
 	ces	titan	n-mi	slk	titan	n-mi
-	ces	svět	n-mi	slk	svět	n-mi
+	ces	svět	n-mi$n	slk	svět	n-mi
 	ces	stereotyp	n-mi	slk	stereotyp	n-mi
 	ces	proton	n-mi	slk	proton	n-mi
 	ces	nikl	n-mi	slk	nikl	n-mi
 	ces	mlýn	n-mi	slk	mlýn	n-mi
-	ces	mír	n-mi	slk	mír	n-mi
-	ces	měsíc	n-mi	slk	měsíc	n-mi
+	ces	mír	n-mi$n	slk	mír	n-mi
+	ces	měsíc	n-mi$n	slk	měsíc	n-mi
 	ces	mikroorganismus	n-mi	slk	mikroorganismus	n-mi
 	ces	organismus	n-mi	slk	organismus	n-mi
 	ces	neutron	n-mi	slk	neutron	n-mi
@@ -7697,11 +7697,11 @@ LR	ces	alergie	n-f	slk	alergie	n-f
 	ces	hexakosioihexekontahexafobie	n-f	slk	hexakosioihexekontahexafobie	n-f
 	ces	fylogeneze	n-f	slk	fylogeneze	n-f
 	ces	triskaidekafobie	n-f	slk	triskaidekafobie	n-f
-	ces	hodina	n-f	slk	hodina	n-f
+	ces	hodina	n-f$n	slk	hodina	n-f
 	ces	halucinace	n-f	slk	halucinace	n-f
 	ces	hvězda	n-f	slk	hvězda	n-f
 	ces	hydrosféra	n-f	slk	hydrosféra	n-f
-	ces	hygiena	n-f	slk	hygiena	n-f
+	ces	hygiena	n-f$n	slk	hygiena	n-f
 	ces	hyperkeratóza	n-f	slk	hyperkeratóza	n-f
 	ces	inflace	n-f	slk	inflace	n-f
 	ces	inkubace	n-f	slk	inkubace	n-f
@@ -7711,7 +7711,7 @@ LR	ces	alergie	n-f	slk	alergie	n-f
 	ces	kardiologie	n-f	slk	kardiologie	n-f
 	ces	kartografie	n-f	slk	kartografie	n-f
 	ces	kost	n-f	slk	kost	n-f
-	ces	krev	n-f	slk	krev	n-f
+	ces	krev	n-f$n	slk	krev	n-f
 	ces	kultura	n-f	slk	kultura	n-f
 	ces	lípa	n-f	slk	lípa	n-f
 	ces	lokomotiva	n-f	slk	lokomotiva	n-f
@@ -7728,8 +7728,8 @@ LR	ces	alergie	n-f	slk	alergie	n-f
 	ces	šíje	n-f	slk	šíje	n-f
 	ces	síla	n-f	slk	síla	n-f
 	ces	simulace	n-f	slk	simulace	n-f
-LR	ces	strana	n-f	slk	strana	n-f
-	ces	středa	n-f	slk	středa	n-f
+LR	ces	strana	n-f$n	slk	strana	n-f
+	ces	středa	n-f$n	slk	středa	n-f
 	ces	teologie	n-f	slk	teologie	n-f
 	ces	trigonometrie	n-f	slk	trigonometrie	n-f
 	ces	velryba	n-ma	slk	velryba	n-f
@@ -7737,7 +7737,7 @@ LR	ces	strana	n-f	slk	strana	n-f
 	ces	želva	n-ma	slk	želva	n-f
 	ces	žena	n-f	slk	žena	n-f
 LR	ces	žena	n-f	slk	žena	n-f
-	ces	zima	n-f	slk	zima	n-f
+	ces	zima	n-f$n	slk	zima	n-f
 	ces	zoologie	n-f	slk	zoologie	n-f
 	ces	datovat	vblex-imperf	slk	datovat	vblex-imperf
 	ces	kastrovat	vblex$vblex-imperf	slk	kastrovat	vblex-imperf
@@ -7754,10 +7754,10 @@ LR	ces	žena	n-f	slk	žena	n-f
 	ces	daleký	adj-sint	slk	daleký	adj-sint
 	ces	finanční	adj	slk	finanční	adj
 	ces	úřední	adj	slk	úřední	adj
-	ces	člověk	n-ma$n-ma-sg	slk	člověk	n-ma-sg
+	ces	člověk	n-ma$n-ma-sg$n	slk	člověk	n-ma-sg
 	ces	lidi	n-ma-pl$n-pl	slk	lidi	n-ma-pl
 	ces	studie	n-nt	slk	studie	n-f
-	ces	dáma	n-f	slk	dáma	n-f
+	ces	dáma	n$n-f	slk	dáma	n-f
 	ces	dinosaurus	n-ma	slk	dinosaurus	n-ma
 	ces	tyranosaurus	n-ma	slk	tyranosaurus	n-ma
 	ces	alamosaurus	n-ma	slk	alamosaurus	n-ma
@@ -7794,17 +7794,17 @@ LR	ces	žena	n-f	slk	žena	n-f
 	ces	varanosaurus	n-ma	slk	varanosaurus	n-ma
 	ces	dobro	n-nt	slk	dobro	n-nt
 	ces	dobrý	adj-sint$adj	slk	dobrý	adj-sint$adj
-	ces	démon	n-ma	slk	démon	n-ma
+	ces	démon	n-ma$n	slk	démon	n-ma
 	ces	delfín	n-ma	slk	delfín	n-ma
 	ces	dialog	n-mi	slk	dialog	n-mi
 	ces	dojit	vblex	slk	dojit	vblex
 	ces	doktor	n-ma	slk	doktor	n-ma
 	ces	přesnost	n-f	slk	přesnost	n-f
-	ces	dům	n-mi	slk	dům	n-mi
+	ces	dům	n-mi$n	slk	dům	n-mi
 	ces	genitiv	n-mi	slk	genitiv	n-mi
 	ces	věk	n-mi	slk	věk	n-mi
 	ces	dostupný	adj$adj-sint	slk	dostupný	adj$adj-sint
-	ces	dřevo	n-nt	slk	dřevo	n-nt
+	ces	dřevo	n-nt$n	slk	dřevo	n-nt
 	ces	dromedár	n-ma	slk	dromedár	n-ma
 	ces	droždí	n-nt	slk	droždí	n-nt
 	ces	dvojka	n-f	slk	dvojka	n-f
@@ -7818,13 +7818,13 @@ LR	ces	kouřit	vblex	slk	kouřit	vblex
 	ces	slavný	adj	slk	slavný	adj
 	ces	slazený	adj	slk	slazený	adj
 	ces	dětství	n-nt	slk	dětství	n-nt
-	ces	dítě	n-nt	slk	dítě	n-nt
+	ces	dítě	n-nt$n	slk	dítě	n-nt
 	ces	dědictví	n-nt	slk	dědictví	n-nt
 	ces	lakomství	n-f	slk	lakomství	n-nt
 LR	ces	sklo	n-nt	slk	sklo	n-nt
-	ces	jablko	n-nt	slk	jablko	n-nt
+	ces	jablko	n-nt$n	slk	jablko	n-nt
 	ces	ohryzek	n-nt	slk	ohryzek	n-mi
-	ces	jméno	n-nt	slk	jméno	n-nt
+	ces	jméno	n-nt$n	slk	jméno	n-nt
 	ces	liga	n-f	slk	liga	n-f
 	ces	viagra	n-f	slk	viagra	n-f
 	ces	kobaltin	n-mi	slk	kobaltin	n-mi
@@ -7841,7 +7841,7 @@ LR	ces	bohatství	n-f	slk	bohatství	n-f
 	ces	bohatství	n-nt	slk	bohatství	n-f
 	ces	vojsko	n-nt	slk	vojsko	n-nt
 	ces	kruh	n-nt	slk	kruh	n-mi
-	ces	přísloví	n-nt	slk	přísloví	n-nt
+	ces	přísloví	n-nt$n	slk	přísloví	n-nt
 	ces	zdroj	n-nt	slk	zdroj	n-mi
 LR	ces	abeceda	n-nt	slk	abeceda	n-f
 	ces	světlo	n-nt	slk	světlo	n-nt
@@ -7898,7 +7898,7 @@ RL	ces	lidstvo	n-f	slk	lidstvo	n-nt
 	ces	směšnost	n-f	slk	směšnost	n-f
 	ces	temnost	n-f	slk	temnost	n-f
 	ces	červenost	n-f	slk	červenost	n-f
-	ces	jasnost	n-f	slk	jasnost	n-f
+	ces	jasnost	n-f$n	slk	jasnost	n-f
 	ces	mezinárodní	adj	slk	mezinárodní	adj
 	ces	bílský	adj	slk	bílský	adj
 LR	ces	bílský	adj	slk	bílský	adj
@@ -7981,7 +7981,7 @@ LR	ces	latinský	adj	slk	latinský	adj
 	ces	židovský	adj	slk	židovský	adj
 	ces	tematický	adj	slk	tematický	adj
 	ces	německý	adj	slk	německý	adj
-	ces	nový	adj-sint$adj	slk	nový	adj-sint
+	ces	nový	adj$adj-sint	slk	nový	adj-sint
 	ces	jasný	adj-sint$adj	slk	jasný	adj-sint
 	ces	sektor	n-mi	slk	sektor	n-mi
 	ces	projekt	n-mi	slk	projekt	n-mi
@@ -7990,18 +7990,18 @@ LR	ces	latinský	adj	slk	latinský	adj
 	ces	tabu	n-nt	slk	tabu	n-mi
 	ces	salon	n-mi	slk	salon	n-mi
 LR	ces	režim	n-mi	slk	režim	n-mi
-	ces	právo	n-nt	slk	právo	n-nt
-	ces	inženýr	n-ma	slk	inženýr	n-ma
+	ces	právo	n-nt$n	slk	právo	n-nt
+	ces	inženýr	n-ma$n	slk	inženýr	n-ma
 	ces	proces	n-mi	slk	proces	n-mi
-	ces	ráno	n-nt	slk	ráno	n-nt
-	ces	pivo	n-nt	slk	pivo	n-nt
+	ces	ráno	n-nt$n	slk	ráno	n-nt
+	ces	pivo	n-nt$n	slk	pivo	n-nt
 	ces	deklarace	n-f	slk	deklarace	n-f
-	ces	nos	n-mi	slk	nos	n-mi
+	ces	nos	n-mi$n	slk	nos	n-mi
 	ces	cigareta	n-mi	slk	cigareta	n-f
 	ces	cena	n-f$n	slk	cena	n-f$n
-	ces	voda	n-f	slk	voda	n-f
-	ces	řeka	n-f	slk	řeka	n-f
-	ces	noc	n-f	slk	noc	n-f
+	ces	voda	n-f$n	slk	voda	n-f
+	ces	řeka	n-f$n	slk	řeka	n-f
+	ces	noc	n-f$n	slk	noc	n-f
 	ces	kajak	n-mi	slk	kajak	n-mi
 	ces	dlaň	n-f	slk	dlaň	n-f
 	ces	antikomunismus	n-mi	slk	antikomunismus	n-mi
@@ -8286,7 +8286,7 @@ RL	ces	kristianizace	n-f	slk	kristianizace	n-f
 	ces	argon	n-mi	slk	argon	n-mi
 	ces	astronaut	n-ma	slk	astronaut	n-ma
 	ces	astronom	n-ma	slk	astronom	n-ma
-	ces	tělo	n-nt	slk	tělo	n-nt
+	ces	tělo	n-nt$n	slk	tělo	n-nt
 	ces	bohemistika	n-f	slk	bohemistika	n-f
 	ces	jantar	n-mi	slk	jantar	n-mi
 	ces	bylina	n-f	slk	bylina	n-f
@@ -8307,12 +8307,12 @@ RL	ces	kristianizace	n-f	slk	kristianizace	n-f
 	ces	ichtyosaurus	n-ma	slk	ichtyosaurus	n-ma
 	ces	idea	n-f	slk	idea	n-f
 	ces	ido	n-nt	slk	ido	n-nt
-	ces	káva	n-f	slk	káva	n-f
+	ces	káva	n-f$n	slk	káva	n-f
 	ces	kolaborace	n-f	slk	kolaborace	n-f
 	ces	kosa	n-f	slk	kosa	n-f
 	ces	kretén	n-ma	slk	kretén	n-ma
 	ces	xenofobie	n-f	slk	xenofobie	n-f
-	ces	máslo	n-nt	slk	máslo	n-nt
+	ces	máslo	n-nt$n	slk	máslo	n-nt
 	ces	matematika	n-f	slk	matematika	n-f
 	ces	meandr	n-mi	slk	meandr	n-mi
 	ces	médium	n-nt	slk	médium	n-nt
@@ -8321,20 +8321,20 @@ RL	ces	kristianizace	n-f	slk	kristianizace	n-f
 	ces	nominativ	n-mi	slk	nominativ	n-mi
 	ces	maso	n-nt$n	slk	maso	n-nt
 	ces	minerál	n-mi	slk	minerál	n-mi
-	ces	minuta	n-f	slk	minuta	n-f
+	ces	minuta	n-f$n	slk	minuta	n-f
 	ces	moč	n-f	slk	moč	n-f
 	ces	monitor	n-mi	slk	monitor	n-mi
 	ces	moréna	n-f	slk	moréna	n-f
 	ces	moře	n-nt	slk	moře	n-nt
 	ces	motocykl	n-mi	slk	motocykl	n-mi
 	ces	neologismus	n-mi	slk	neologismus	n-mi
-	ces	neděle	n-f	slk	neděle	n-f
+	ces	neděle	n-f$n	slk	neděle	n-f
 	ces	omnibus	n-mi	slk	omnibus	n-mi
-	ces	osoba	n-f	slk	osoba	n-f
+	ces	osoba	n-f$n	slk	osoba	n-f
 	ces	pacient	n-ma	slk	pacient	n-ma
 	ces	pedosféra	n-f	slk	pedosféra	n-f
 	ces	platina	n-f	slk	platina	n-f
-	ces	pochva	n-f	slk	pochva	n-f
+	ces	pochva	n-f$n	slk	pochva	n-f
 	ces	podplukovník	n-ma	slk	podplukovník	n-ma
 	ces	radar	n-mi	slk	radar	n-mi
 	ces	radon	n-mi	slk	radon	n-mi
@@ -8342,37 +8342,37 @@ RL	ces	kristianizace	n-f	slk	kristianizace	n-f
 	ces	relace	n-f	slk	relace	n-f
 	ces	romanistika	n-f	slk	romanistika	n-f
 	ces	schizofrenie	n-f	slk	schizofrenie	n-f
-	ces	sekunda	n-f	slk	sekunda	n-f
+	ces	sekunda	n-f$n	slk	sekunda	n-f
 	ces	seno	n-nt	slk	seno	n$n-nt
-	ces	slunce	n-nt	slk	slunce	n-nt
+	ces	slunce	n-nt$n	slk	slunce	n-nt
 	ces	smrtka	n-f	slk	smrtka	n-f
-	ces	sobota	n-f	slk	sobota	n-f
+	ces	sobota	n-f$n	slk	sobota	n-f
 	ces	borovice	n-f	slk	borovice	n-f
 	ces	stříbro	n-nt	slk	stříbro	n-nt
-	ces	stůl	n-mi	slk	stůl	n-mi
+	ces	stůl	n-mi$n	slk	stůl	n-mi
 	ces	stomatologie	n-f	slk	stomatologie	n-f
 LR	ces	subvence	n-f	slk	subvence	n-f
-	ces	syn	n-ma	slk	syn	n-ma
+	ces	syn	n-ma$n	slk	syn	n-ma
 	ces	termopauza	n-f	slk	termopauza	n-f
 	ces	trojúhelník	n-mi	slk	trojúhelník	n-mi
 	ces	trolejbus	n-mi	slk	trolejbus	n-mi
 	ces	trůn	n-mi	slk	trůn	n-mi
 	ces	tundra	n-f	slk	tundra	n-f
-	ces	týden	n-mi	slk	týden	n-mi
+	ces	týden	n-mi$n	slk	týden	n-mi
 	ces	vana	n-f	slk	vana	n-f
-	ces	vesnice	n-f	slk	vesnice	n-f
-	ces	vlk	n-ma	slk	vlk	n-ma
+	ces	vesnice	n-f$n	slk	vesnice	n-f
+	ces	vlk	n-ma$n	slk	vlk	n-ma
 	ces	svoboda	n-f	slk	svoboda	n-f
 	ces	zdraví	n-nt	slk	zdraví	n-nt
 	ces	parodontóza	n-f	slk	parodontóza	n-f
 	ces	sakristie	n-f	slk	sakristie	n-f
 	ces	zkurvysyn	n-ma	slk	zkurvysyn	n-ma
 	ces	sarkazmus	n-mi	slk	sarkazmus	n-mi
-	ces	železo	n-nt	slk	železo	n-nt
+	ces	železo	n-nt$n	slk	železo	n-nt
 	ces	vanilka	n-f	slk	vanilka	n-f
-	ces	ucho	n-nt	slk	ucho	n-nt
+	ces	ucho	n-nt$n	slk	ucho	n-nt
 	ces	neurologie	n-f	slk	neurologie	n-f
-	ces	nebe	n-nt$n-nt-sg	slk	nebe	n-nt-sg
+	ces	nebe	n-nt$n-nt-sg$n	slk	nebe	n-nt-sg
 RL	ces	nebe	n-nt-pl	slk	nebe	n-nt-pl
 	ces	nebesa	n-nt$n-nt-pl	slk	nebesa	n-nt$n-nt-pl
 	ces	neon	n-mi	slk	neon	n-mi
@@ -8388,7 +8388,7 @@ RL	ces	nebe	n-nt-pl	slk	nebe	n-nt-pl
 	ces	klarinet	n-mi	slk	klarinet	n-mi
 	ces	gram	n-mi	slk	gram	n-mi
 	ces	kapitán	n-ma	slk	kapitán	n-ma
-	ces	jezero	n-nt	slk	jezero	n-nt
+	ces	jezero	n-nt$n	slk	jezero	n-nt
 	ces	izobáta	n-f	slk	izobáta	n-f
 	ces	izolinie	n-f	slk	izolinie	n-f
 	ces	jídelna	n-f	slk	jídelna	n-f
@@ -8422,7 +8422,7 @@ LR	ces	chudoba	n-f	slk	chudoba	n-f
 	ces	faktor	n-mi	slk	faktor	n-mi
 	ces	gigolo	n-ma	slk	gigolo	n-ma
 	ces	půda	n-f	slk	půda	n-f
-	ces	skupina	n-f	slk	skupina	n-f
+	ces	skupina	n-f$n	slk	skupina	n-f
 	ces	guvernantka	n-f	slk	guvernantka	n-f
 	ces	imunita	n-mi	slk	imunita	n-f
 	ces	karambol	n-mi	slk	karambol	n-mi
@@ -8446,7 +8446,7 @@ LR	ces	obyvatel	n-ma	slk	obyvatel	n-ma
 	ces	ropa	n-f	slk	ropa	n-f
 	ces	rafinerie	n-f	slk	rafinerie	n-f
 	ces	rafinérie	n-f	slk	rafinérie	n-f
-RL	ces	vteřina	n-f	slk	vteřina	n-f
+RL	ces	vteřina	n-f$n	slk	vteřina	n-f
 	ces	kaligram	n-mi	slk	kaligram	n-mi
 	ces	družice	n-ma	slk	družice	n-f
 RL	ces	vřídlo	n-nt	slk	vřídlo	n-nt
@@ -8471,11 +8471,11 @@ RL	ces	automobilka	n-mi	slk	automobilka	n-f
 	ces	busola	n-mi	slk	busola	n-f
 LR	ces	busola	n-f	slk	busola	n-f
 	ces	buzola	n-mi	slk	buzola	n-f
-	ces	býk	n-ma	slk	býk	n-ma
+	ces	býk	n-ma$n	slk	býk	n-ma
 	ces	cenovka	n-f	slk	cenovka	n-f
 	ces	četař	n-ma	slk	četař	n-ma
 	ces	chatka	n-f	slk	chatka	n-f
-	ces	chlapec	n-ma	slk	chlapec	n-ma
+	ces	chlapec	n-ma$n	slk	chlapec	n-ma
 	ces	čubka	n-f	slk	čubka	n-f
 RL	ces	čurák	n-mi	slk	čurák	n-ma
 	ces	penis	n-mi	slk	penis	n-mi
@@ -8525,16 +8525,16 @@ RL	ces	komp	n-mi	slk	komp	n-mi
 	ces	konsenzus	n-mi	slk	konsenzus	n-mi
 	ces	kontrolka	n-f	slk	kontrolka	n-f
 	ces	kopa	n-f	slk	kopa	n-f
-	ces	koruna	n-f	slk	koruna	n-f
+	ces	koruna	n-f$n	slk	koruna	n-f
 	ces	krkavec	n-ma	slk	krkavec	n-ma
-	ces	kruh	n-mi	slk	kruh	n-mi
+	ces	kruh	n-mi$n	slk	kruh	n-mi
 	ces	krumpáč	n-mi	slk	krumpáč	n-mi
 	ces	krvesmilstvo	n-nt	slk	krvesmilstvo	n-nt
 	ces	kuchař	n-ma	slk	kuchař	n-ma
 	ces	kupka	n-f	slk	kupka	n-f
 	ces	kurevník	n-ma	slk	kurevník	n-ma
 	ces	kvádr	n-mi	slk	kvádr	n-mi
-	ces	lék	n-mi	slk	lék	n-mi
+	ces	lék	n-mi$n	slk	lék	n-mi
 	ces	líska	n-f	slk	líska	n-f
 	ces	lodyha	n-f	slk	lodyha	n-f
 	ces	lůžko	n-f	slk	lůžko	n-nt
@@ -8544,7 +8544,7 @@ RL	ces	komp	n-mi	slk	komp	n-mi
 	ces	mezzosopranistka	n-f	slk	mezzosopranistka	n-f
 	ces	milenka	n-f	slk	milenka	n-f
 	ces	miska	n-f	slk	miska	n-f
-	ces	místo	n-nt	slk	místo	n-nt
+	ces	místo	n-nt$n	slk	místo	n-nt
 	ces	momentka	n-mi	slk	momentka	n-f
 	ces	mys	n-mi	slk	mys	n-mi
 	ces	nauka	n-f	slk	nauka	n-f
@@ -8565,7 +8565,7 @@ RL	ces	komp	n-mi	slk	komp	n-mi
 	ces	pochoutka	n-mi	slk	pochoutka	n-f
 	ces	pojistka	n-f	slk	pojistka	n-f
 	ces	pramen	n-mi	slk	pramen	n-mi
-	ces	předmět	n-mi	slk	předmět	n-mi
+	ces	předmět	n-mi$n	slk	předmět	n-mi
 	ces	primitiv	n-mi	slk	primitiv	n-ma
 	ces	prostitutka	n-f	slk	prostitutka	n-f
 	ces	rezignace	n-f	slk	rezignace	n-f
@@ -8579,7 +8579,7 @@ RL	ces	komp	n-mi	slk	komp	n-mi
 	ces	sinologie	n-f	slk	sinologie	n-f
 	ces	sklenka	n-f	slk	sklenka	n-f
 	ces	slepice	n-f	slk	slepice	n-f
-	ces	slovo	n-nt	slk	slovo	n-nt
+	ces	slovo	n-nt$n	slk	slovo	n-nt
 	ces	slupka	n-f	slk	slupka	n-f
 	ces	smokink	n-mi	slk	smokink	n-mi
 	ces	snob	n-ma	slk	snob	n-ma
@@ -8601,14 +8601,14 @@ LR	ces	tabulka	n-f	slk	tabulka	n-f
 	ces	topmodelka	n-f	slk	topmodelka	n-f
 	ces	topůrko	n-mi	slk	topůrko	n-nt
 	ces	treska	n-ma	slk	treska	n-f
-	ces	troska	n-f	slk	troska	n-f
+	ces	troska	n-f$n	slk	troska	n-f
 	ces	tutovka	n-mi	slk	tutovka	n-f
 	ces	tvar	n-f	slk	tvar	n-mi
 	ces	typ	n-mi	slk	typ	n-mi
 	ces	úkol	n-nt	slk	úkol	n-mi
 	ces	ulita	n-f	slk	ulita	n-f
 	ces	ultimátum	n-nt	slk	ultimátum	n-nt
-	ces	věc	n-f	slk	věc	n-f
+	ces	věc	n-f$n	slk	věc	n-f
 	ces	lidé	n-ma-pl	slk	lidé	n-f
 	ces	veverka	n-f	slk	veverka	n-f
 	ces	vilka	n-mi	slk	vilka	n-f
@@ -8621,7 +8621,7 @@ LR	ces	vuvuzela	n-f	slk	vuvuzela	n-f
 	ces	vozidlo	n-mi	slk	vozidlo	n-nt
 	ces	vstupenka	n-mi	slk	vstupenka	n-f
 	ces	vsuvka	n-nt	slk	vsuvka	n-f
-	ces	vůz	n-mi	slk	vůz	n-mi
+	ces	vůz	n-mi$n	slk	vůz	n-mi
 	ces	výjimka	n-mi	slk	výjimka	n-f
 	ces	vysočina	n-f	slk	vysočina	n-f
 	ces	vzduchovka	n-f	slk	vzduchovka	n-f
@@ -8629,7 +8629,7 @@ LR	ces	vuvuzela	n-f	slk	vuvuzela	n-f
 	ces	žalud	n-mi	slk	žalud	n-mi
 	ces	zambo	n-mi	slk	zambo	n-ma
 LR	ces	zbytek	n-f	slk	zbytek	n-mi
-	ces	země	n-f	slk	země	n-f
+	ces	země	n-f$n	slk	země	n-f
 	ces	hlinka	n-f	slk	hlinka	n-f
 	ces	hovado	n-nt	slk	hovado	n-nt
 	ces	hubka	n-nt	slk	hubka	n-f
@@ -8647,7 +8647,7 @@ LR	ces	zbytek	n-f	slk	zbytek	n-mi
 	ces	ohnisko	n-nt	slk	ohnisko	n-nt
 	ces	plotice	n-f	slk	plotice	n-f
 	ces	pocit	n-nt	slk	pocit	n-mi
-	ces	pohovka	n-f	slk	pohovka	n-f
+	ces	pohovka	n-f$n	slk	pohovka	n-f
 	ces	primář	n-ma	slk	primář	n-ma
 	ces	prvek	n-mi	slk	prvek	n-mi
 	ces	pusinka	n-f	slk	pusinka	n-f
@@ -8984,7 +8984,7 @@ LR	ces	dobytek	n-mi$n	slk	dobytek	n-mi
 	ces	Mojžíš	np-ant-ma	slk	Mojžíš	np-ant-ma
 	ces	Morfeus	np-ant-ma	slk	Morfeus	np-ant-ma
 	ces	Sókratés	np-ant-ma	slk	Sókratés	np-ant-ma
-	ces	Varšava	np-top-f	slk	Varšava	np-top-f
+	ces	Varšava	np-top-f$np	slk	Varšava	np-top-f
 	ces	Ekvádor	np-top-mi	slk	Ekvádor	np-top-mi
 	ces	Kypr	np-top-mi	slk	Kypr	np-top-mi
 	ces	Gruzie	np-top-f	slk	Gruzie	np-top-f
@@ -8992,9 +8992,9 @@ LR	ces	dobytek	n-mi$n	slk	dobytek	n-mi
 	ces	Eritrea	np-top-f	slk	Eritrea	np-top-f
 	ces	Dálný Východ	np-top-mi	slk	Dálný Východ	np-top-mi
 	ces	Praha	np-top-f	slk	Praha	np-top-f
-	ces	Belgie	np-top-f	slk	Belgie	np-top-f
+	ces	Belgie	np-top-f$np	slk	Belgie	np-top-f
 	ces	Kanada	np-top-f	slk	Kanada	np-top-f
-	ces	Francie	np-top-f	slk	Francie	np-top-f
+	ces	Francie	np-top-f$np	slk	Francie	np-top-f
 	ces	Kosovo	np-top-nt-sg	slk	Kosovo	np-top-nt-sg
 RL	ces	Kosovo	np-top-nt-sg	slk	Kosovo	np-top-nt-pl
 	ces	Bílsko-Bělá	np-top-nt	slk	Bílsko-Bělá	np-top-nt
@@ -9052,7 +9052,7 @@ RL	ces	Maďarsko	np-top-f-pl	slk	Maďarsko	np-top-nt-pl
 	ces	Litva	np-top-f	slk	Litva	np-top-f
 	ces	Itálie	np-top-mi	slk	Itálie	np-top-f
 	ces	Londýn	np-top-mi	slk	Londýn	np-top-mi
-	ces	Lucembursko	np-top-mi	slk	Lucembursko	np-top-nt
+	ces	Lucembursko	np$np-top-mi	slk	Lucembursko	np-top-nt
 	ces	Lvov	np-top-mi	slk	Lvov	np-top-mi
 	ces	Lyon	np-top-mi	slk	Lyon	np-top-mi
 	ces	Makedonie	np-top-f	slk	Makedonie	np-top-f
@@ -9154,7 +9154,7 @@ LR	ces	Irská republika	np-top-f	slk	Irská republika	np-top-f
 	ces	Bratislava	np-top-f	slk	Bratislava	np-top-f
 	ces	Brazílie	np-top-f	slk	Brazílie	np-top-f
 	ces	Bretaň	np-top-f	slk	Bretaň	np-top-mi
-	ces	Brusel	np-top-f	slk	Brusel	np-top-mi
+	ces	Brusel	np$np-top-f	slk	Brusel	np-top-mi
 	ces	Budapešť	np-top-mi	slk	Budapešť	np-top-mi
 	ces	Bukurešť	np-top-mi	slk	Bukurešť	np-top-mi
 	ces	Alpy	np-top-f	slk	Alpy	np-top-f
@@ -9198,11 +9198,11 @@ LR	ces	spojený	adj$adj-sint	slk	spojený	adj-sint
 RL	ces	grandiózní	adj	slk	grandiózní	adj
 	ces	bledý	adj-sint	slk	bledý	adj-sint
 	ces	bleděmodrý	adj$adj-sint	slk	bleděmodrý	adj-sint
-	ces	blízký	adj-sint	slk	blízký	adj-sint
+	ces	blízký	adj-sint$adj	slk	blízký	adj-sint
 	ces	bodrý	adj$adj-sint	slk	bodrý	adj-sint
 	ces	bystrý	adj-sint	slk	bystrý	adj-sint
 LR	ces	bystrý	adj-sint	slk	bystrý	adj-sint
-	ces	bílý	adj-sint$adj	slk	bílý	adj-sint
+	ces	bílý	adj$adj-sint	slk	bílý	adj-sint
 RL	ces	břitký	adj-sint	slk	břitký	adj-sint
 	ces	ostrý	adj-sint	slk	ostrý	adj-sint
 	ces	chudý	adj-sint$adj	slk	chudý	adj-sint$adj
@@ -9210,7 +9210,7 @@ LR	ces	chudý	adj-sint$adj	slk	chudý	adj-sint$adj
 RL	ces	ubohý	adj-sint	slk	ubohý	adj-sint
 	ces	divoký	adj-sint	slk	divoký	adj-sint
 LR	ces	divoký	adj-sint	slk	divoký	adj-sint
-	ces	drahý	adj-sint	slk	drahý	adj-sint
+	ces	drahý	adj-sint$adj	slk	drahý	adj-sint
 RL	ces	hebký	adj-sint	slk	hebký	adj-sint
 LR	ces	měkký	adj-sint$adj	slk	měkký	adj-sint
 	ces	měkký	adj-sint$adj	slk	měkký	adj-sint
@@ -9229,14 +9229,14 @@ LR	ces	hluboký	adj-sint$adj	slk	hluboký	adj-sint
 	ces	křehký	adj-sint	slk	křehký	adj-sint
 	ces	lehký	adj-sint	slk	lehký	adj-sint
 	ces	lichý	adj$adj-sint	slk	lichý	adj-sint
-	ces	mladý	adj-sint$adj	slk	mladý	adj-sint
+	ces	mladý	adj$adj-sint	slk	mladý	adj-sint
 	ces	mladistvý	adj	slk	mladistvý	adj
 LR	ces	mladistvý	adj	slk	mladistvý	adj
 LR	ces	lichý	adj$adj-sint	slk	lichý	adj-sint
 RL	ces	modrý	adj$adj-sint	slk	modrý	adj$adj-sint
 RL	ces	nebeský	adj	slk	nebeský	adj
 	ces	mokrý	adj-sint	slk	mokrý	adj-sint
-	ces	moudrý	adj-sint	slk	moudrý	adj-sint
+	ces	moudrý	adj-sint$adj	slk	moudrý	adj-sint
 	ces	movitý	adj$adj-sint	slk	movitý	adj-sint
 LR	ces	mělký	adj$adj-sint	slk	mělký	adj-sint
 	ces	plochý	adj$adj-sint	slk	plochý	adj-sint
@@ -9249,9 +9249,9 @@ LR	ces	pestrý	adj-sint$adj	slk	pestrý	adj-sint
 LR	ces	ponurý	adj-sint$adj	slk	ponurý	adj-sint
 	ces	ponurý	adj-sint$adj	slk	ponurý	adj-sint
 	ces	prostoduchý	adj-sint	slk	prostoduchý	adj-sint
-	ces	prostý	adj-sint	slk	prostý	adj-sint
-	ces	prudký	adj-sint	slk	prudký	adj-sint
-LR	ces	prudký	adj-sint	slk	prudký	adj-sint
+	ces	prostý	adj-sint$adj	slk	prostý	adj-sint
+	ces	prudký	adj-sint$adj	slk	prudký	adj-sint
+LR	ces	prudký	adj-sint$adj	slk	prudký	adj-sint
 	ces	příkrý	adj-sint$adj	slk	příkrý	adj-sint
 LR	ces	příkrý	adj-sint$adj	slk	příkrý	adj-sint
 	ces	slabý	adj-sint	slk	slabý	adj-sint
@@ -9271,13 +9271,13 @@ LR	ces	tichý	adj-sint$adj	slk	tichý	adj-sint
 	ces	tuhý	adj$adj-sint	slk	tuhý	adj-sint
 	ces	tvrdý	adj-sint	slk	tvrdý	adj$adj-sint
 RL	ces	obtížný	adj$adj-sint	slk	obtížný	adj$adj-sint
-	ces	těžký	adj-sint$adj	slk	těžký	adj-sint
+	ces	těžký	adj$adj-sint	slk	těžký	adj-sint
 	ces	úzký	adj-sint$adj	slk	úzký	adj-sint
 	ces	vlhký	adj$adj-sint	slk	vlhký	adj-sint
 LR	ces	vlhký	adj$adj-sint	slk	vlhký	adj-sint
 	ces	vratký	adj-sint	slk	vratký	adj-sint
 LR	ces	vratký	adj-sint	slk	vratký	adj-sint
-	ces	široký	adj-sint$adj	slk	široký	adj$adj-sint
+	ces	široký	adj$adj-sint	slk	široký	adj$adj-sint
 	ces	hojný	adj-sint	slk	hojný	adj-sint
 	ces	štědrý	adj-sint	slk	štědrý	adj-sint
 	ces	řídký	adj-sint	slk	řídký	adj-sint
@@ -9574,7 +9574,7 @@ RL	ces	zeměpisný	adj	slk	zeměpisný	adj
 	ces	burzovní	adj	slk	burzovní	adj
 	ces	kytarový	adj	slk	kytarový	adj
 	ces	globální	adj	slk	globální	adj
-	ces	hlasitý	adj-sint	slk	hlasitý	adj-sint
+	ces	hlasitý	adj-sint$adj	slk	hlasitý	adj-sint
 	ces	hluchoněmý	adj	slk	hluchoněmý	adj
 	ces	hodinový	adj	slk	hodinový	adj
 	ces	golfový	adj	slk	golfový	adj
@@ -9618,8 +9618,8 @@ LR	ces	špatný	adj-sint$adj	slk	špatný	adj-sint
 	ces	hydraulický	adj	slk	hydraulický	adj
 	ces	hydrologický	adj	slk	hydrologický	adj
 	ces	idealistický	adj	slk	idealistický	adj
-RL	ces	stejný	adj-sint	slk	stejný	adj-sint
-	ces	podobný	adj-sint	slk	podobný	adj-sint
+RL	ces	stejný	adj-sint$adj	slk	stejný	adj-sint
+	ces	podobný	adj-sint$adj	slk	podobný	adj-sint
 	ces	identický	adj	slk	identický	adj
 	ces	ideologický	adj	slk	ideologický	adj
 	ces	jehličnatý	adj	slk	jehličnatý	adj
@@ -10767,7 +10767,7 @@ LR	ces	hlavní	adj$adj-sint	slk	hlavní	adj
 	ces	levý	adj	slk	levý	adj
 	ces	spravedlivý	adj	slk	spravedlivý	adj
 	ces	pochopitelný	adj-sint	slk	pochopitelný	adj-sint
-	ces	vzdálený	adj-sint	slk	vzdálený	adj-sint
+	ces	vzdálený	adj-sint$adj	slk	vzdálený	adj-sint
 	ces	statečný	adj$adj-sint	slk	statečný	adj$adj-sint
 	ces	plážový	adj	slk	plážový	adj
 	ces	pokojový	adj	slk	pokojový	adj
@@ -10976,7 +10976,7 @@ LR	ces	rapidní	adj$adj-sint	slk	rapidní	adj
 	ces	ohleduplný	adj$adj-sint	slk	ohleduplný	adj
 	ces	víkendový	adj	slk	víkendový	adj
 	ces	typický	adj	slk	typický	adj
-	ces	svatý	adj-sint	slk	svatý	adj-sint
+	ces	svatý	adj-sint$adj	slk	svatý	adj-sint
 	ces	jarní	adj	slk	jarní	adj
 	ces	katalánsky	adj	slk	katalánsky	adj
 	ces	velšský	adj	slk	velšský	adj
@@ -11349,7 +11349,7 @@ RL	ces	tak nebo tak	adv	slk	tak nebo tak	adv
 	ces	dávno	adv$adv-sint	slk	dávno	adv
 	ces	hustě	adv-sint	slk	hustě	adv-sint
 	ces	aktuálně	adv$adv-sint	slk	aktuálně	adv-sint
-	ces	často	adv-sint	slk	často	adv$adv-sint
+	ces	často	adv-sint$adv	slk	často	adv$adv-sint
 RL	ces	mnohdy	adv$adv-sint	slk	mnohdy	adv
 	ces	těžko	adv$adv-sint	slk	těžko	adv
 LR	ces	trapně	adv$adv-sint	slk	trapně	adv-sint
@@ -11713,16 +11713,16 @@ LR	ces	příliš	preadv	slk	příliš	preadv
 LR	ces	příliš	preadv	slk	příliš	preadv
 LR	ces	příliš	preadv	slk	příliš	preadv
 	ces	pokrývat	vblex-imperf	slk	pokrývať	vblex-imperf
-	ces	potřebovat	vblex-imperf	slk	potrebovať	vblex-imperf
-	ces	souhlasit	vblex-imperf	slk	súhlasiť	vblex-imperf
+	ces	potřebovat	vblex-imperf$vblex	slk	potrebovať	vblex-imperf
+	ces	souhlasit	vblex-imperf$vblex	slk	súhlasiť	vblex-imperf
 	ces	zabít	vblex-perf	slk	zabiť	vblex-perf
-	ces	tančit	vblex-imperf	slk	tancovať	vblex-imperf
+	ces	tančit	vblex-imperf$vblex	slk	tancovať	vblex-imperf
 	ces	přeložit	vblex-perf$vblex	slk	preložiť	vblex$vblex-perf
 	ces	líbit	vblex-imperf	slk	páčiť	vblex-imperf
 	ces	usednout	vblex-perf	slk	usadnúť	vblex-perf
 	ces	kout	vblex-imperf	slk	kuť	vblex-imperf
 	ces	deformovat	vblex-imperf	slk	deformovať	vblex-imperf
-	ces	potřebovat	vblex-imperf	slk	potrebovať	vblex-imperf
+	ces	potřebovat	vblex-imperf$vblex	slk	potrebovať	vblex-imperf
 	ces	demonstrovat	vblex-imperf	slk	demonštrovať	vblex-imperf
 	ces	dokumentovat	vblex-imperf	slk	dokumentovať	vblex-imperf
 	ces	fungovat	vblex-imperf	slk	fungovať	vblex-imperf
@@ -11732,10 +11732,10 @@ LR	ces	příliš	preadv	slk	příliš	preadv
 	ces	přezimovat	vblex-perf	slk	prezimovať	vblex-imperf
 	ces	panovat	vblex-imperf	slk	panovať	vblex-imperf
 	ces	operovat	vblex-imperf	slk	operovať	vblex-imperf
-	ces	ukázat	vblex-perf	slk	ukázať	vblex-perf
+	ces	ukázat	vblex-perf$vblex	slk	ukázať	vblex-perf
 	ces	závidět	vblex-imperf	slk	závidieť	vblex-imperf
 	ces	vidět	vblex-imperf	slk	vidieť	vblex-imperf
-	ces	souhlasit	vblex-imperf	slk	súhlasiť	vblex-imperf
+	ces	souhlasit	vblex-imperf$vblex	slk	súhlasiť	vblex-imperf
 	ces	uvítat	vblex-perf	slk	uvítať	vblex-perf
 	ces	přivítat	vblex	slk	privítať	vblex
 	ces	vypadat	vblex-imperf	slk	vyzerať	vblex-imperf
@@ -11762,19 +11762,19 @@ RL	ces	projít	vblex-perf	slk	presť	vblex-perf
 	ces	obejít	vblex-perf	slk	obísť	vblex-perf
 	ces	popojít	vblex-perf	slk	popoísť	vblex-perf
 	ces	předejít	vblex-perf	slk	predísť	vblex-perf
-	ces	platit	vblex-imperf	slk	platiť	vblex-imperf
+	ces	platit	vblex-imperf$vblex	slk	platiť	vblex-imperf
 	ces	zjednodušit	vblex-perf	slk	zjednodušiť	vblex-perf
 	ces	dojít	vblex-perf$vblex	slk	dôjsť	vblex$vblex-perf
 	ces	nadejít	vblex-perf	slk	nadísť	vblex-perf
 	ces	přinést	vblex-perf	slk	priniesť	vblex-perf
 	ces	zajišťovat	vblex-imperf	slk	zaisťovať	vblex-imperf
 	ces	zajistit	vblex-perf	slk	zaistiť	vblex-perf
-	ces	ztratit	vblex-perf	slk	ztratiť	vblex-perf
+	ces	ztratit	vblex-perf$vblex	slk	ztratiť	vblex-perf
 	ces	zrušit	vblex-perf	slk	zrušiť	vblex-perf
 	ces	vyvážit	vblex-perf	slk	vyvážiť	vblex-perf
-	ces	zůstat	vblex-perf	slk	zostať	vblex-perf
+	ces	zůstat	vblex-perf$vblex	slk	zostať	vblex-perf
 	ces	tahat	vblex-imperf	slk	ťahať	vblex$vblex-imperf
-	ces	znát	vblex-imperf	slk	poznať	vblex$vblex-imperf
+	ces	znát	vblex-imperf$vblex	slk	poznať	vblex$vblex-imperf
 	ces	adoptovat	vblex	slk	adoptovať	vblex
 	ces	aprobovat	vblex	slk	aprobovať	vblex
 	ces	útočit	vblex	slk	útočiť	vblex
@@ -11906,7 +11906,7 @@ RL	ces	vypálit	vblex	slk	vypáliť	vblex
 	ces	přijmout	vblex	slk	prijať	vblex
 	ces	zrcadlit	vblex	slk	zrkadliť	vblex
 	ces	odemknout	vblex	slk	odomknúť	vblex
-	ces	konat	vblex-impf$vblex	slk	konať	vblex
+	ces	konat	vblex$vblex-impf	slk	konať	vblex
 	ces	odlehčit	vblex	slk	odľahčiť	vblex
 	ces	odřezávat	vblex	slk	odrezávať	vblex
 	ces	odtrhávat	vblex	slk	odtrhávať	vblex
@@ -12503,7 +12503,7 @@ LR	ces	bojovat	vblex$vblex-impf	slk	bojovať	vblex
 	ces	kýchat	vblex-imperf	slk	kýchať	vblex-imperf
 	ces	plánovat	vblex-imperf	slk	plánovať	vblex-imperf
 	ces	programovat	vblex-imperf	slk	programovať	vblex-imperf
-	ces	vyhrát	vblex-perf	slk	vyhrať	vblex-perf
+	ces	vyhrát	vblex-perf$vblex	slk	vyhrať	vblex-perf
 	ces	elektrizovat	vblex-imperf	slk	elektrizovať	vblex-imperf
 	ces	otiskovat	vblex-imperf	slk	otláčať	vblex-imperf
 	ces	dojít	vblex-perf$vblex	slk	dôjsť	vblex$vblex-perf
@@ -12554,7 +12554,7 @@ RL	ces	udržovat	vblex-imperf	slk	udržiavať	vblex-imperf
 	ces	odoperovat	vblex	slk	odoperovať	vblex
 	ces	podmanit	vblex-imperf	slk	podmaniť	vblex-perf
 	ces		vblex-imperf	slk		vblex-imperf
-	ces	litovat	vblex-imperf	slk	ľutovať	vblex-imperf
+	ces	litovat	vblex-imperf$vblex	slk	ľutovať	vblex-imperf
 	ces	archivovat	vblex$vblex-imperf	slk	archivovať	vblex$vblex-imperf
 	ces	artikulovat	vblex$vblex-imperf	slk	artikulovať	vblex$vblex-imperf
 	ces	deklasovat	vblex$vblex-imperf	slk	deklasovať	vblex$vblex-imperf
@@ -12571,13 +12571,13 @@ LR	ces	expandovat	vblex-imperf$vblex	slk	expandovať	vblex-imperf$vblex
 	ces	integrovat	vblex-imperf	slk	integrovať	vblex-imperf
 	ces	katapultovat	vblex-imperf	slk	katapultovať	vblex-imperf
 	ces	kódovat	vblex-imperf	slk	kódovať	vblex-imperf
-	ces	kontrolovat	vblex-imperf	slk	kontrolovať	vblex-imperf
+	ces	kontrolovat	vblex-imperf$vblex	slk	kontrolovať	vblex-imperf
 	ces	lobbovat	vblex-imperf	slk	lobbovať	vblex-imperf
 	ces	maximalizovat	vblex-imperf	slk	maximalizovať	vblex-imperf
 	ces	minimalizovat	vblex-imperf	slk	minimalizovať	vblex-imperf
 	ces	monitorovat	vblex$vblex-imperf	slk	monitorovať	vblex$vblex-imperf
 	ces	nastavovat	vblex-imperf	slk	nastavovať	vblex-imperf
-	ces	vyučovat	vblex-imperf	slk	vyučovať	vblex-imperf
+	ces	vyučovat	vblex-imperf$vblex	slk	vyučovať	vblex-imperf
 	ces	nominovat	vblex$vblex-imperf	slk	nominovať	vblex$vblex-imperf
 	ces	obsahovat	vblex-imperf	slk	obsahovať	vblex-imperf
 	ces	ocenit	vblex-perf	slk	oceniť	vblex-perf
@@ -12589,16 +12589,16 @@ LR	ces	expandovat	vblex-imperf$vblex	slk	expandovať	vblex-imperf$vblex
 	ces	optimalizovat	vblex-imperf	slk	optimalizovať	vblex-imperf
 	ces	varovat	vblex-imperf	slk	varovať	vblex-imperf
 	ces	osvojovat	vblex-imperf	slk	osvojovať	vblex-imperf
-	ces	lemovat	vblex-imperf	slk	lemovať	vblex-imperf
+	ces	lemovat	vblex-imperf$vblex	slk	lemovať	vblex-imperf
 	ces	osvětlovat	vblex-imperf	slk	osvetlovať	vblex-imperf
-	ces	pamatovat	vblex-imperf	slk	pamätať	vblex-imperf
+	ces	pamatovat	vblex-imperf$vblex	slk	pamätať	vblex-imperf
 	ces	parafrázovat	vblex-imperf	slk	parafrázovať	vblex-imperf
 	ces	obdivovat	vblex$vblex-imperf	slk	obdivovať	vblex$vblex-imperf
 	ces	pohybovat	vblex-imperf	slk	pohybovať	vblex-imperf
 	ces	zvětšovat	vblex-imperf	slk	zvetšovať	vblex-imperf
 	ces	pozdravovat	vblex-imperf	slk	pozdravovať	vblex-imperf
 	ces	dovolovat	vblex-imperf	slk	dovolovať	vblex-imperf
-	ces	věnovat	vblex-imperf	slk	venovať	vblex-imperf
+	ces	věnovat	vblex-imperf$vblex	slk	venovať	vblex-imperf
 	ces	přetěžovat	vblex-imperf	slk	preťažovať	vblex-imperf
 	ces	prodlužovat	vblex-imperf	slk	predlžovať	vblex-imperf
 	ces	předstihovat	vblex-imperf	slk	predstihovať	vblex-imperf
@@ -12677,7 +12677,7 @@ LR	ces	expandovat	vblex-imperf$vblex	slk	expandovať	vblex-imperf$vblex
 	ces	čekat	vblex-imperf	slk	čakať	vblex-imperf
 	ces	očekávat	vblex$vblex-impf	slk	očakávať	vblex
 	ces	vézt	vblex-imperf	slk	viezť	vblex-imperf
-	ces	péci	vblex-imperf	slk	piecť	vblex-imperf
+	ces	péci	vblex$vblex-imperf	slk	piecť	vblex-imperf
 	ces	hřát	vblex-imperf	slk	hriať	vblex-imperf
 	ces	zahřát	vblex-perf	slk	zahriať	vblex-perf
 	ces	pumpovat	vblex-imperf	slk	pumpovať	vblex-imperf
@@ -12708,7 +12708,7 @@ LR	ces	expandovat	vblex-imperf$vblex	slk	expandovať	vblex-imperf$vblex
 	ces	brát	vblex$vblex-imperf	slk	brať	vblex$vblex-imperf
 	ces	bučet	vblex	slk	bučať	vblex
 	ces	budit	vblex	slk	budiť	vblex
-	ces	bydlet	vblex-imperf	slk	bývať	vblex$vblex-imperf
+	ces	bydlet	vblex-imperf$vblex	slk	bývať	vblex$vblex-imperf
 	ces	cestovat	vblex$vblex-imperf	slk	cestovať	vblex$vblex-imperf
 	ces	cítit	vblex	slk	cítiť	vblex
 	ces	citovat	vblex$vblex-imperf	slk	citovať	vblex$vblex-imperf
@@ -12716,10 +12716,10 @@ LR	ces	expandovat	vblex-imperf$vblex	slk	expandovať	vblex-imperf$vblex
 	ces	černat	vblex	slk	černať	vblex
 	ces	orat	vblex-imperf	slk	orať	vblex-imperf
 	ces	malovat	vblex-imperf	slk	maľovať	vblex-imperf
-	ces	věřit	vblex-imperf	slk	veriť	vblex-imperf
+	ces	věřit	vblex-imperf$vblex	slk	veriť	vblex-imperf
 	ces	hřmít	vblex-imperf	slk	hrmieť	vblex-imperf
 	ces	rozkázat	vblex-perf	slk	rozkázať	vblex-perf
-	ces	kousat	vblex-imperf	slk	kúsať	vblex-imperf
+	ces	kousat	vblex-imperf$vblex	slk	kúsať	vblex-imperf
 	ces	začít	vblex$vblex-perf	slk	začať	vblex$vblex-perf
 	ces	ostřelovat	vblex-imperf	slk	ostrelovať	vblex-imperf
 	ces	absorbovat	vblex$vblex-imperf	slk	absorbovať	vblex$vblex-imperf
@@ -12754,7 +12754,7 @@ LR	ces	expandovat	vblex-imperf$vblex	slk	expandovať	vblex-imperf$vblex
 	ces	diktovat	vblex-imperf	slk	diktovať	vblex-imperf
 	ces	diskreditovat	vblex$vblex-imperf	slk	diskreditovať	vblex$vblex-imperf
 	ces	disponovat	vblex$vblex-imperf	slk	disponovať	vblex$vblex-imperf
-	ces	děkovat	vblex-imperf$vblex	slk	ďakovať	vblex$vblex-imperf
+	ces	děkovat	vblex$vblex-imperf	slk	ďakovať	vblex$vblex-imperf
 	ces	existovat	vblex-imperf	slk	existovať	vblex$vblex-imperf
 	ces	experimentovat	vblex$vblex-imperf	slk	experimentovať	vblex$vblex-imperf
 	ces	explodovat	vblex$vblex-imperf	slk	explodovať	vblex$vblex-imperf
@@ -12762,7 +12762,7 @@ LR	ces	expandovat	vblex-imperf$vblex	slk	expandovať	vblex-imperf$vblex
 	ces	evakuovat	vblex-imperf	slk	evakuovať	vblex-imperf
 	ces	filtrovat	vblex-imperf	slk	filtrovať	vblex-imperf
 	ces	flirtovat	vblex-imperf	slk	flirtovať	vblex-imperf
-	ces	formovat	vblex-imperf	slk	formovať	vblex-imperf
+	ces	formovat	vblex-imperf$vblex	slk	formovať	vblex-imperf
 	ces	fotografovat	vblex-imperf	slk	fotografovať	vblex-imperf
 	ces	gratulovat	vblex$vblex-imperf	slk	gratulovať	vblex$vblex-imperf
 	ces	harmonizovat	vblex-imperf	slk	harmonizovať	vblex-imperf
@@ -12812,7 +12812,7 @@ LR	ces	korigovat	vblex-imperf	slk	korigovať	vblex-imperf
 	ces	maskovat	vblex-imperf	slk	maskovať	vblex-imperf
 	ces	masírovat	vblex$vblex-imperf	slk	masírovať	vblex$vblex-imperf
 	ces	jmenovat	vblex-imperf	slk	menovať	vblex-imperf
-	ces	barvit	vblex-imperf	slk	farbiť	vblex-imperf
+	ces	barvit	vblex-imperf$vblex	slk	farbiť	vblex-imperf
 	ces	pokrývat	vblex-imperf	slk	pokrývať	vblex-imperf
 	ces	modelovat	vblex$vblex-imperf	slk	modelovať	vblex$vblex-imperf
 	ces	modernizovat	vblex$vblex-imperf	slk	modernizovať	vblex$vblex-imperf
@@ -12828,7 +12828,7 @@ RL	ces	nazývat	vblex-imperf	slk	nazývať	vblex-imperf
 	ces	obětovat	vblex$vblex-imperf	slk	obetovať	vblex$vblex-imperf
 	ces	organizovat	vblex-imperf	slk	organizovať	vblex-imperf
 	ces	parodovat	vblex-imperf	slk	parodovať	vblex-imperf
-	ces	ošetřovat	vblex-imperf	slk	ošetrovať	vblex-imperf
+	ces	ošetřovat	vblex-imperf$vblex	slk	ošetrovať	vblex-imperf
 	ces	pilotovat	vblex-imperf	slk	pilotovať	vblex-imperf
 	ces	cestovat	vblex$vblex-imperf	slk	cestovať	vblex$vblex-imperf
 	ces	postupovat	vblex-imperf	slk	postupovať	vblex-imperf
@@ -12848,8 +12848,8 @@ LR	ces	postupovat	vblex-imperf	slk	postupovať	vblex-imperf
 	ces	dát	vblex$vblex-perf	slk	dať	vblex$vblex-perf
 	ces	deaktivovat	vblex	slk	deaktivovať	vblex
 	ces	deklasovat	vblex$vblex-imperf	slk	deklasovať	vblex$vblex-imperf
-	ces	děkovat	vblex-imperf$vblex	slk	ďakovať	vblex$vblex-imperf
-	ces	dělat	vblex-impf$vblex	slk	robiť	vblex$vblex-imperf
+	ces	děkovat	vblex$vblex-imperf	slk	ďakovať	vblex$vblex-imperf
+	ces	dělat	vblex$vblex-impf	slk	robiť	vblex$vblex-imperf
 	ces	dělit	vblex	slk	deliť	vblex
 	ces	demaskovat	vblex$vblex-imperf	slk	demaskovať	vblex$vblex-imperf
 	ces	deportovat	vblex$vblex-imperf	slk	deportovať	vblex$vblex-imperf
@@ -12920,7 +12920,7 @@ LR	ces	postupovat	vblex-imperf	slk	postupovať	vblex-imperf
 	ces	mávnout	vblex	slk	mávnuť	vblex
 	ces	mazat	vblex$vblex-imperf	slk	mazať	vblex$vblex-imperf
 	ces	měřit	vblex	slk	merať	vblex
-	ces	minout	vblex-perf	slk	minúť	vblex-perf
+	ces	minout	vblex-perf$vblex	slk	minúť	vblex-perf
 	ces	milovat	vblex$vblex-imperf	slk	milovať	vblex$vblex-imperf
 	ces	mlčet	vblex	slk	mlčať	vblex
 	ces	mluvit	vblex$vblex-impf	slk	hovoriť	vblex
@@ -12953,8 +12953,8 @@ LR	ces	postupovat	vblex-imperf	slk	postupovať	vblex-imperf
 	ces	česat	vblex	slk	česať	vblex
 	ces	kupovat	vblex$vblex-impf	slk	kupovať	vblex
 	ces	prosit	vblex$vblex-imperf	slk	prosiť	vblex
-	ces	volat	vblex-impf$vblex	slk	volať	vblex$vblex-imperf
-	ces	přijít	vblex-perf	slk	prísť	vblex-perf
+	ces	volat	vblex$vblex-impf	slk	volať	vblex$vblex-imperf
+	ces	přijít	vblex-perf$vblex	slk	prísť	vblex-perf
 	ces	povinen	vaux	slk	povinný	vaux
 	ces	moci	vaux-imperf$vaux-imperf-tv	slk	môcť	vaux-imperf
 	ces	muset	vaux-imperf	slk	musieť	vaux-imperf
@@ -12964,16 +12964,16 @@ RL	ces	lze	vaux	slk	možno	vaux
 	ces	číst	vblex$vblex-imperf	slk	čítať	vblex-imperf$vblex
 	ces	vědět	vblex-imperf$vblex-imperf-tv	slk	vedieť	vblex-imperf
 	ces	chtít	vblex-imperf	slk	chcieť	vblex$vblex-imperf
-	ces	jíst	vblex-imperf	slk	jesť	vblex-imperf
-	ces	pít	vblex-imperf	slk	piť	vblex-imperf
-	ces	bít	vblex-impf$vblex	slk	biť	vblex
+	ces	jíst	vblex-imperf$vblex	slk	jesť	vblex-imperf
+	ces	pít	vblex-imperf$vblex	slk	piť	vblex-imperf
+	ces	bít	vblex$vblex-impf	slk	biť	vblex
 	ces	šít	vblex$vblex-imperf	slk	šiť	vblex
 	ces	sít	vblex$vblex-imperf	slk	siať	vblex
 	ces	brát	vblex$vblex-imperf	slk	brať	vblex$vblex-imperf
-	ces	vzít	vblex-perf	slk	vziať	vblex$vblex-perf
+	ces	vzít	vblex-perf$vblex	slk	vziať	vblex$vblex-perf
 	ces	projet	vblex-perf	slk	prejsť	vblex-perf
 	ces	odpovídat	vblex-imperf	slk	odpovedať	vblex-imperf
-	ces	odpovědět	vblex-perf$vblex-perf-iv	slk	odpovedať	vblex-perf
+	ces	odpovědět	vblex-perf$vblex$vblex-perf-iv	slk	odpovedať	vblex-perf
 	ces	oddát	vblex-perf	slk	oddať	vblex-perf
 	ces	oddávat	vblex-imperf	slk	oddávať	vblex-imperf
 	ces	dát	vblex$vblex-perf	slk	dať	vblex$vblex-perf
@@ -12981,16 +12981,16 @@ RL	ces	lze	vaux	slk	možno	vaux
 	ces	slibovat	vblex$vblex-imperf	slk	sľubovať	vblex$vblex-imperf
 	ces	slíbit	vblex-perf	slk	sľúbiť	vblex-perf
 	ces	nosit	vblex$vblex-imperf	slk	nosiť	vblex$vblex-imperf
-	ces	nést	vblex-imperf	slk	niesť	vblex-imperf
+	ces	nést	vblex-imperf$vblex	slk	niesť	vblex-imperf
 	ces	čistit	vblex$vblex-imperf	slk	čistiť	vblex$vblex-imperf
 	ces	čistit	vblex$vblex-imperf	slk	čistiť	vblex$vblex-imperf
 LR	ces	doplnit	vblex$vblex-perf	slk	doplnit	vblex-perf
 	ces	doplnit	vblex$vblex-perf	slk	doplniť	vblex
 	ces	rozumět	vblex	slk	rozumieť	vblex
 	ces	mazat	vblex$vblex-imperf	slk	mazať	vblex$vblex-imperf
-	ces	ležet	vblex-imperf	slk	ležať	vblex-imperf
-	ces	jít	vblex-imperf$vblex-imperf-fti$vblex-imperf-fti-imp	slk	ísť	vblex-imperf
-	ces	jít	vblex-imperf$vblex-imperf-fti$vblex-imperf-fti-imp	slk	ísť	vblex-imperf
+	ces	ležet	vblex-imperf$vblex	slk	ležať	vblex-imperf
+	ces	jít	vblex-imperf$vblex$vblex-imperf-fti$vblex-imperf-fti-imp	slk	ísť	vblex-imperf
+	ces	jít	vblex-imperf$vblex$vblex-imperf-fti$vblex-imperf-fti-imp	slk	ísť	vblex-imperf
 	ces	napsat	vblex-perf$vblex$vblex-perf-pres	slk	napísať	vblex$vblex-perf
 	ces	chtít	vblex$vblex-impf	slk	chcieť	vblex$vblex-imperf
 	ces	chrápat	vblex	slk	chrápať	vblex
@@ -13061,7 +13061,7 @@ RL	ces	čís	abbr	slk	čís	abbr
 	ces	rep	abbr	slk	rep	abbr
 	ces	gen	n-ma	slk	gen	n-ma
 	ces	gen	n-f	slk	gen	n-f
-	ces	por	n-ma$n	slk	por	n-ma
+	ces	por	n-ma	slk	por	n-ma
 	ces	por	n-f	slk	por	n-f
 	ces	ppor	n-ma	slk	ppor	n-ma
 	ces	ppor	n-f	slk	ppor	n-f
@@ -13097,7 +13097,7 @@ RL	ces	čís	abbr	slk	čís	abbr
 	ces	violista	n-ma	slk	violista	n-ma
 	ces	viola	n-f	slk	viola	n-f
 	ces	homiletika	n-f	slk	homiletika	n-f
-	ces	jazyk	n-mi	slk	jazyk	n-mi
+	ces	jazyk	n-mi$n	slk	jazyk	n-mi
 	ces	metafyzika	n-f	slk	metafyzika	n-f
 	ces	národnost	n-f	slk	národnost	n-f
 	ces	číslo	n-mi	slk	číslo	n-nt

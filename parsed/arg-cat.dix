@@ -9305,7 +9305,7 @@ LR	arg	calificación	n-f	cat	qualificació	n-f$n
 	arg	canal	n-f	cat	canal	n-mf
 	arg	canalización	n-f$n	cat	canalització	n-f$n
 	arg	canalla	n$n-mf	cat	canalla	n-mf
-	arg	canalla	n-f$n-f-sg	cat	canalla	n-f$n-f-sg$n
+	arg	canalla	n-f$n-f-sg	cat	canalla	n-f-sg$n$n-f
 	arg	canario	n$n-m	cat	canari	n$n-m
 	arg	canario	n-f	cat	canari	n-f
 	arg	cancelación	n$n-f	cat	cancel·lació	n-f$n
@@ -9366,7 +9366,7 @@ LR	arg	canta	n$n-f	cat	cançó	n-f$n
 	arg	caricatura	n$n-f	cat	caricatura	n-f$n
 	arg	caricaturista	n$n-mf	cat	caricaturista	n-mf$n
 	arg	caridat	n$n-f	cat	caritat	n-f$n
-	arg	caries	n$n-f	cat	càries	n-f$n-f-sp$n
+	arg	caries	n$n-f	cat	càries	n-f-sp$n-f$n
 	arg	carlismo	n$n-m	cat	carlisme	n$n-m$n-m-sg
 	arg	carne	n$n-f	cat	carn	n$n-f
 	arg	carpeta	n$n-f	cat	carpeta	n-f$n

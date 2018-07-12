@@ -143,7 +143,7 @@ RL	spa	ambiental	adj$adj-mf$adj-mf-sg	ron	ambiental	adj-mn-sg
 RL	spa	acompañar	vblex	ron	acompania	vblex
 RL	spa	acompañar	vblex	ron	întovărăși	vblex
 	spa	aconsejar	vblex	ron	sfătui	vblex
-	spa	acordar	vblex	ron	aminti	vblex
+	spa	acordar	vblex$vblex-pron	ron	aminti	vblex
 	spa	acosar	vblex	ron	hărțui	vblex
 	spa	acostumbrar	vblex	ron	obișnui	vblex
 	spa	acrecentar	vblex	ron	spori	vblex
@@ -392,7 +392,7 @@ LR	spa	alemán	adj-m-pl	ron	nemțesc	adj-mfn-pl$adj$
 	spa	alemán	adj-m-sg	ron	nemțesc	adj-mn-sg
 	spa	alentar	vblex	ron	încuraja	vblex
 	spa	alfabeto	n-m$n$n-m-ND	ron	alfabet	n$n-nt
-	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl	ron	vreun	det$det-ind$det-ind-GD
+	spa	alguno	det-ind$det$det-ind-m-pl$det-ind-m	ron	vreun	det$det-ind$det-ind-GD
 	spa	este	det$det-dem$det-dem-GD$det-dem-GD-pl	ron	acest	det$det-dem-f-sg
 	spa	éste	prn$prn-tn-m$prn-tn	ron	acesta	prn
 	spa	aquel	prn$prn-tn-m$prn-tn	ron	acela	prn
@@ -533,7 +533,7 @@ LR	spa	ambos	prn$prn-tn$prn-tn-m$prn-tn-m-pl	ron	amândoi	prn$prn-tn-mf-pl
 	spa	ambos	prn-tn-f-pl$prn-tn-f	ron	amândoi	prn-tn-f-pl
 LR	spa	ambos	prn-tn-f-pl$prn-tn-f	ron	amândoi	prn$prn-tn-mf-pl
 RL	spa	ambos	prn$prn-tn$prn-tn-m$prn-tn-m-pl	ron	ambii	prn$prn-tn-m-pl
-	spa	yo mismo	prn-tn-p1-GD$prn$prn-tn-p1-GD-sg	ron	eu însumi	prn$prn-tn-p1-m-sg
+	spa	yo mismo	prn$prn-tn-p1-GD$prn-tn-p1-GD-sg	ron	eu însumi	prn$prn-tn-p1-m-sg
 	spa	yo misma	prn	ron	eu însămi	prn$prn-tn-p1-f-sg
 	spa	tú mismo	prn$prn-tn-p2-GD$prn-tn-p2-GD-sg	ron	tu însuți	prn$prn-tn-p2-m-sg
 	spa	tú misma	prn	ron	tu însăți	prn$prn-tn-p2-f-sg
@@ -828,7 +828,7 @@ RL	spa	arena	n-f$n$n-f-sg	ron	arenă	n-f$n
 	spa	gótico	adj$adj-GD$$adj-GD-ND	ron	gotic	$adj$adj-GD
 	spa	argumento	n-m$n$n-m-ND	ron	argument	n-nt$n
 	spa	armamento	n-m$n$n-m-sg	ron	armament	n-nt$n
-	spa	arma	n$n-f$n-f-sg	ron	armă	n$n-f
+	spa	arma	n-f$n$n-f-sg	ron	armă	n$n-f
 	spa	armario	n-m$n$n-m-sg	ron	dulap	n$n-nt
 	spa	armar	vblex	ron	înarma	vblex
 	spa	armonía	n-f$n$n-f-ND	ron	armonie	n$n-f
@@ -1118,7 +1118,7 @@ RL	spa	bastante	adj$adj-mf$adj-mf-sg	ron	destul	adj-mn-sg
 	spa	OTAN	n-acr-f$n$n-acr$n-acr-f-sg	ron	NATO	n$n-acr$n-acr-nt
 	spa	FMI	n$n-acr-m$n-acr	ron	FMI	n-acr-nt$n
 	spa	UE	n$n-acr$n-acr-f	ron	UE	n-acr$n
-	spa	ONU	n$n-acr-f$n-acr-f-sg$n-acr	ron	ONU	n-acr$n$n-acr-m
+	spa	ONU	n$n-acr-f$n-acr-f-sg$n-acr	ron	ONU	n-acr-m$n$n-acr
 	spa	UNICEF	n$n-acr	ron	UNICEF	n-acr
 	spa	BOR (iglesia ortodoxa rumana)	n-acr	ron	BOR	n-acr
 	spa	bebida	n$n-f$n-f-sg	ron	băutură	n$n-f
@@ -1171,7 +1171,7 @@ LR	spa	blando	adj$adj-m-sg$adj-m	ron	moale	$adj-mfn$adj
 RL	spa	blando	adj-GD$adj-GD-ND	ron	moale	$adj-mfn$adj
 	spa	bloquear	vblex	ron	bloca	vblex
 	spa	bloque	n$n-m$n-m-ND	ron	bloc	n-nt$n
-	spa	boca	n$n-f$n-f-ND	ron	gură	n$n-f
+	spa	boca	n-f$n$n-f-ND	ron	gură	n$n-f
 	spa	boda	n-f$n$n-f-sg	ron	nuntă	n-f$n
 	spa	bracero	n	ron	salahor	n
 	spa	acacia	n-f$n$n-f-ND	ron	salcâm	n-m
@@ -1195,7 +1195,7 @@ RL	spa	bote	n-m$n$n-m-ND	ron	luntre	n-f
 	spa	lupanar	n$n-m	ron	lupanar	n-nt
 	spa	botón	n$n-m$n-m-sg	ron	buton	n-nt$n
 	spa	bóveda	n-f$n$n-f-ND	ron	boltă	n$n-f
-	spa	brazo	n-m-sg$n-m$n	ron	braț	n-nt$n
+	spa	brazo	n-m$n-m-sg$n	ron	braț	n-nt$n
 LR	spa	breve	adj-mf$adj$adj-mf-ND	ron	concis	adj-GD
 RL	spa	breve	adj-mf-pl	ron	concis	adj-fn-pl
 RL	spa	breve	adj-mf-pl	ron	concis	adj-m-pl
@@ -1366,7 +1366,7 @@ RL	spa	consuetudinario	adj	ron	cutumiar	$adj
 	spa	fonética	n$n-f$n-f-ND	ron	fonetică	n$n-f
 	spa	enclítico	adj$adj-m-sg	ron	enclitic	$adj
 	spa	fonología	n$n-f	ron	fonologie	n
-	spa	runa	n$n-f	ron	rună	n$n-f
+	spa	runa	n-f$n	ron	rună	n$n-f
 	spa	utilitario	adj$adj-m-sg	ron	utilitar	$adj
 	spa	germánico	adj$adj-GD-ND	ron	germanic	$adj
 	spa	escandinavo	adj$adj-GD	ron	scandinav	$adj$adj-GD
@@ -1923,7 +1923,7 @@ RL	spa	casual	adj-mf-sg	ron	cazual	adj-mn-sg
 	spa	cebolla	n$n-f$n-f-ND	ron	ceapă	n$n-f
 	spa	cebra	n$n-f	ron	zebră	n$n-f
 	spa	ceder	vblex	ron	ceda	vblex
-	spa	ceja	n$n-f$n-f-sg	ron	sprânceană	n-f$n
+	spa	ceja	n-f$n$n-f-sg	ron	sprânceană	n-f$n
 	spa	celda	n$n-f$n-f-ND	ron	chilie	n
 	spa	know-how	n-m	ron	know-how	n-nt
 	spa	celebrar	vblex	ron	celebra	vblex
@@ -2083,11 +2083,11 @@ RL	spa	congregacional	adj-mf-pl$adj$adj-mf	ron	congregațional	adj-fn-pl
 RL	spa	congregacional	adj-mf-pl$adj$adj-mf	ron	congregațional	adj-m-pl
 RL	spa	congregacional	adj-mf-sg	ron	congregațional	adj-f-sg
 RL	spa	congregacional	adj-mf-sg	ron	congregațional	adj-mn-sg
-LR	spa	silvestre	adj-mf$adj-mf-sg$adj	ron	păduros	$adj-GD
+LR	spa	silvestre	adj-mf$adj$adj-mf-sg	ron	păduros	$adj-GD
 RL	spa	silvestre	adj-mf-pl	ron	păduros	adj-fn-pl
 RL	spa	silvestre	adj-mf-pl	ron	păduros	adj-m-pl
-RL	spa	silvestre	adj-mf$adj-mf-sg$adj	ron	păduros	adj-f-sg
-RL	spa	silvestre	adj-mf$adj-mf-sg$adj	ron	păduros	adj-mn-sg
+RL	spa	silvestre	adj-mf$adj$adj-mf-sg	ron	păduros	adj-f-sg
+RL	spa	silvestre	adj-mf$adj$adj-mf-sg	ron	păduros	adj-mn-sg
 LR	spa	intocable	adj$adj-mf$adj-mf-sg	ron	intușabil	$adj-GD
 RL	spa	intocable	adj-mf-pl	ron	intușabil	adj-fn-pl
 RL	spa	intocable	adj-mf-pl	ron	intușabil	adj-m-pl
@@ -2904,7 +2904,7 @@ RL	spa	cerebral	adj$adj-mf$adj-mf-sg	ron	cerebral	adj-mn-sg
 	spa	chasis	n-m-sp$n$n-m	ron	șasiu	n$n-nt
 	spa	chat	n-m$n$n-m-sg	ron	chat	n-nt
 	spa	chaval	n$n-m-sg	ron	puști	n
-	spa	chica	n-f-sg$n	ron	fată	n$n-f
+	spa	chica	n-f-sg$n$n-f	ron	fată	n$n-f
 	spa	chiquilla	n	ron	fetiță	n-f$n
 	spa	chiquillo	n$n-f	ron	băiețel	n$n-m
 	spa	chicle	n$n-m$n-m-sg	ron	gumă	n$n-f
@@ -2972,7 +2972,7 @@ RL	spa	chófer	n-mf$n$n-mf-ND	ron	șofer	n-m
 	spa	cielo	n-m$n$n-m-sg	ron	cer	n-nt$n
 	spa	ciencia	n-f$n$n-f-sg	ron	știință	n$n-f
 	spa	omnisciencia	n	ron	omnisciență	n$n-f
-RL	spa	cien	num$num-mf$num-mf-sp$	ron	o sută de	num
+RL	spa	cien	num$num-mf-sp$num-mf$	ron	o sută de	num
 	spa	científico	adj$adj-GD$adj-GD-ND	ron	științific	adj$$adj-GD
 	spa	científico	n$n-m$n-m-sg	ron	om de știință	n$n-m
 	spa	cientos de	num	ron	sute de	num
@@ -3056,7 +3056,7 @@ RL	spa	clima	n-m$n$n-m-sg	ron	climat	n-f$n
 	spa	cobertura	n-f$n$n-f-sg	ron	acoperire	n$n-f
 	spa	cobijo	n$n-m$n-m-ND	ron	adăpost	n-nt$n
 	spa	cobrar	vblex	ron	încasa	vblex
-	spa	cobre	n$n-m$n-m-sg	ron	cupru	n$n-nt
+	spa	cobre	n-m$n$n-m-sg	ron	cupru	n$n-nt
 	spa	cocer	vblex	ron	coace	vblex
 	spa	automóvil	n-m$n$n-m-ND	ron	automobil	n$n-nt
 	spa	coche	n-m$n$n-m-sg	ron	mașină	n-f
@@ -3138,7 +3138,7 @@ RL	spa	colgar	vblex	ron	anina	vblex
 	spa	colocar	vblex	ron	coloca	vblex
 	spa	colonia	n$n-f$n-f-ND	ron	colonie	n
 	spa	colorar	vblex	ron	colora	vblex
-	spa	color	n-m$n-m-sg$n	ron	culoare	n-f
+	spa	color	n-m$n$n-m-sg	ron	culoare	n-f
 LR	spa	colosal	adj$adj-mf$adj-mf-sg	ron	colosal	adj-GD
 RL	spa	colosal	adj-mf-pl	ron	colosal	adj-fn-pl
 RL	spa	colosal	adj-mf-pl	ron	colosal	adj-m-pl
@@ -3715,11 +3715,11 @@ RL	spa	excedente	adj$adj-mf-pl$adj-mf	ron	excedentar	adj-fn-pl
 RL	spa	excedente	adj$adj-mf-pl$adj-mf	ron	excedentar	adj-m-pl
 RL	spa	excedente	adj-mf-sg	ron	excedentar	adj-f-sg
 RL	spa	excedente	adj-mf-sg	ron	excedentar	adj-mn-sg
-LR	spa	emergente	adj-mf$adj$adj-mf-sg	ron	emergent	adj-GD
+LR	spa	emergente	adj$adj-mf$adj-mf-sg	ron	emergent	adj-GD
 RL	spa	emergente	adj-mf-pl	ron	emergent	adj-fn-pl
 RL	spa	emergente	adj-mf-pl	ron	emergent	adj-m-pl
-RL	spa	emergente	adj-mf$adj$adj-mf-sg	ron	emergent	adj-f-sg
-RL	spa	emergente	adj-mf$adj$adj-mf-sg	ron	emergent	adj-mn-sg
+RL	spa	emergente	adj$adj-mf$adj-mf-sg	ron	emergent	adj-f-sg
+RL	spa	emergente	adj$adj-mf$adj-mf-sg	ron	emergent	adj-mn-sg
 LR	spa	elocuente	adj$adj-mf$adj-mf-sg	ron	elocvent	adj-GD
 RL	spa	elocuente	adj-mf-pl	ron	elocvent	adj-fn-pl
 RL	spa	elocuente	adj-mf-pl	ron	elocvent	adj-m-pl
@@ -3802,7 +3802,7 @@ RL	spa	consciencia	n$n-f$n-f-ND	ron	conștientizare	n$n-f
 	spa	tabla numérica	n$n-f	ron	tabel numeric	n-nt
 	spa	el otro	adj	ron	celălalt	$adj
 	spa	los otros	adj	ron	ceilalți	adj
-	spa	los demás	prn-tn$prn$prn-tn-GD-pl	ron	ceilalți	prn$prn-m-pl
+	spa	los demás	prn$prn-tn$prn-tn-GD-pl	ron	ceilalți	prn$prn-m-pl
 	spa	las otras	adj	ron	celelalte	adj
 	spa	las demás	prn	ron	celelalte	prn$prn-fn-pl
 	spa	la otra	adj	ron	cealaltă	adj
@@ -3850,7 +3850,7 @@ RL	spa	cuerpo sin vida	n-m	ron	corp neînsuflețit	n-nt
 	spa	orégano	n-m$n	ron	cimbru	n$n-m
 	spa	celuloide	n-m$n	ron	celuloid	n-nt
 	spa	celulosa	n$n-f	ron	celuloză	n$n-f
-	spa	carpe	n$n-m	ron	carpen	n
+	spa	carpe	n$n-m	ron	carpen	n$n-m
 	spa	normalidad	n$n-f$n-f-ND	ron	normalitate	n$n-f
 	spa	complementaridad	n	ron	complementaritate	n$n-f
 	spa	formalidad	n$n-f	ron	formalitate	n$n-f
@@ -3946,7 +3946,7 @@ RL	spa	convencional	adj$adj-mf$adj-mf-sg	ron	convențional	adj-f-sg
 RL	spa	convencional	adj$adj-mf$adj-mf-sg	ron	convențional	adj-mn-sg
 	spa	convenir	vblex	ron	conveni	vblex
 	spa	conversar	vblex	ron	conversa	vblex
-	spa	convertir	vblex	ron	converti	vblex
+	spa	convertir	vblex$vblex-pron	ron	converti	vblex
 LR	spa	convincente	adj$adj-mf$adj-mf-sg	ron	convingător	adj-GD
 RL	spa	convincente	adj-mf-pl	ron	convingător	adj-fn-pl
 RL	spa	convincente	adj-mf-pl	ron	convingător	adj-m-pl
@@ -4049,7 +4049,7 @@ RL	spa	criminal	adj$adj-mf$adj-mf-sg	ron	criminal	adj-mn-sg
 RL	spa	paquete	n-m$n$n-m-ND	ron	colet	n$n-nt
 RL	spa	crédito	n$n-m-sg$n-m	ron	creanță	n-f$n
 	spa	crédito	n$n-m-sg$n-m	ron	credit	n$n-nt
-	spa	decreto	n$n-m$n-m-sg	ron	decret	n$n-nt
+	spa	decreto	n-m$n$n-m-sg	ron	decret	n$n-nt
 	spa	algoritmo	n-m$n$n-m-ND	ron	algoritm	n$n-nt
 	spa	alambique	n$n-m	ron	alambic	n$n-nt
 	spa	conglomerado	n$n-m$n-m-ND	ron	conglomerat	n$n-nt
@@ -4080,11 +4080,11 @@ RL	spa	cualquier	det-ind-mf$det-ind-mf-ND$det-ind$det	ron	oricare	det-ind-mn
 RL	spa	cualquier	det-ind-mf$det-ind-mf-ND$det-ind$det	ron	orice	det-ind$det$det-ind-mf
 	spa	cuándo	adv$adv-itg	ron	când	adv
 	spa	cuando quiera	adv	ron	oricând	adv
-	spa	cuánto	prn$prn-itg-m$prn-itg$prn-itg-m-sg	ron	cât	prn$prn-itg-GD-ND
-	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg	ron	cineva	prn$prn-tn-mf
+	spa	cuánto	prn$prn-itg$prn-itg-m$prn-itg-m-sg	ron	cât	prn$prn-itg-GD-ND
+	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m	ron	cineva	prn$prn-tn-mf
 RL	spa	otro	prn$prn-tn$prn-tn-m-sg$prn-tn-m	ron	altcineva	prn$prn-tn-m-sg
 RL	spa	cualquiera	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn	ron	oricine	prn-tn-mf-sg$prn
-LR	spa	cualquiera	prn-tn-mf-sg	ron	oricine	prn-tn-mf-sg$prn
+LR	spa	cualquiera	prn-tn-mf-sg$prn-mf	ron	oricine	prn-tn-mf-sg$prn
 LR	spa	cualquiera	prn-tn-mf-pl	ron	oricine	prn-tn-mf-sg$prn
 	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn	ron	nimeni	prn$prn-tn-mf-sg
 	spa	cubrir	vblex	ron	acoperi	vblex
@@ -4130,7 +4130,7 @@ RL	spa	curar	vblex	ron	lecui	vblex
 	spa	teniendo en cuenta que	cnjadv	ron	ținând cont că	cnjadv
 	spa	dado	n-m$n	ron	zar	n-nt$n
 	spa	dama	n$n-f$n-f-ND	ron	damă	n$n-f
-LR	spa	danza	n$n-f$n-f-sg	ron	dans	n$n-nt
+LR	spa	danza	n-f$n$n-f-sg	ron	dans	n$n-nt
 	spa	problemática	n$n-m-sg	ron	problematică	n$n-f
 	spa	dañar	vblex	ron	dăuna	vblex
 	spa	MAE	n-acr	ron	MAE	n-acr
@@ -4193,7 +4193,7 @@ RL	spa	definición	n-f$n$n-f-sg	ron	definire	n$n-f
 	spa	de hecho	adv	ron	de fapt	adv
 	spa	dejar	vblex	ron	lăsa	vblex
 	spa	desenvolver	vblex	ron	descurca	vblex
-	spa	volver	vblex	ron	reveni	vblex
+	spa	volver	vblex$vblex-pron	ron	reveni	vblex
 	spa	delante	adv	ron	înainte	adv
 	spa	delgado	adj$adj-GD$adj-GD-ND	ron	slab	adj-GD$$adj
 	spa	delicado	adj$adj-GD-ND	ron	delicat	adj$
@@ -4246,7 +4246,7 @@ RL	spa	depositar	vblex	ron	depozita	vblex
 	spa	establecimiento	n-m$n$n-m-sg	ron	stabilire	n-f$n
 	spa	estabilización	n$n-f$n-f-sg	ron	stabilizare	n$n-f
 	spa	decenio	n-m$n$n-m-ND	ron	deceniu	n-nt$n
-	spa	señorío	n$n-m	ron	boierie	n$n-f
+	spa	señorío	n$n-m	ron	boierie	n-f
 	spa	bol	n-m$n	ron	bol	n-nt
 	spa	decepción	n$n-f$n-f-sg	ron	decepție	n$n-f
 	spa	decisión	n-f$n$n-f-sg	ron	decizie	n$n-f
@@ -4860,8 +4860,8 @@ RL	spa	empeño	n-m$n$n-m-sg	ron	stăruință	n-f$n
 	spa	empleo	n-m$n$n-m-ND	ron	ocupare a forțelor de muncă	n-f$n
 RL	spa	empleo	n-m$n$n-m-ND	ron	slujbă	n$n-f
 	spa	comitología	n	ron	comitologie	n
-	spa	empresa	n$n-f$n-f-sg	ron	firmă	n$n-f
-RL	spa	empresa	n$n-f$n-f-sg	ron	întreprindere	n$n-f
+	spa	empresa	n-f$n$n-f-sg	ron	firmă	n$n-f
+RL	spa	empresa	n-f$n$n-f-sg	ron	întreprindere	n$n-f
 	spa	empresario	n$n-m$n-m-sg	ron	impresar	n$n-GD
 	spa	encaje	n-m$n	ron	asamblare	n-f
 	spa	encanto	n$n-m$n-m-ND	ron	farmec	n$n-nt
@@ -4906,7 +4906,7 @@ RL	spa	enseñanza	n-f$n$n-f-sg	ron	învățătură	n-f$n
 	spa	entierro	n$n-m$n-m-ND	ron	înmormântare	n-f$n
 	spa	entorno	n-m$n$n-m-sg	ron	ambianță	n-f$n
 	spa	entrada	n-f$n$n-f-sg	ron	intrare	n$n-f
-	spa	entraña	n$n-f$n-f-ND	ron	măruntaie	n
+	spa	entraña	n$n-f-pl$n-f	ron	măruntaie	n
 	spa	encajar	vblex	ron	potrivi	vblex
 	spa	encantar	vblex$vblex-vbact	ron	încânta	vblex
 	spa	encargar	vblex	ron	însărcina	vblex
@@ -5031,9 +5031,9 @@ LR	spa	erguir	vblex	ron	înălța	vblex
 	spa	entrevista	n-f$n$n-f-sg	ron	interviu	n$n-nt
 	spa	entusiasmo	n-m$n$n-m-sg	ron	entuziasm	n-nt
 	spa	episodio	n$n-m	ron	episod	n$n-nt
-RL	spa	época	n$n-f$n-f-ND	ron	ev	n$n-nt
+RL	spa	época	n-f$n$n-f-ND	ron	ev	n$n-nt
 	spa	epistemología	n$n-f$n-f-ND	ron	epistemologie	n
-	spa	época	n$n-f$n-f-ND	ron	epocă	n$n-f
+	spa	época	n-f$n$n-f-ND	ron	epocă	n$n-f
 	spa	equilibrio	n-m$n$n-m-sg	ron	echilibru	n$n-nt
 	spa	desequilibrio	n$n-m$n-m-ND	ron	dezechilibru	n$n-nt
 	spa	equipaje	n-m$n$n-m-ND	ron	bagaj	n$n-nt
@@ -5082,7 +5082,7 @@ RL	spa	portavoz	n-mf$n$n-mf-ND	ron	purtător de cuvânt	n-f$n
 	spa	grupo de trabajo	n-m	ron	grup de lucru	n-nt
 	spa	refresco	n$n-m	ron	băutură răcoritoare	n-f$n
 	spa	tocador	n-m$n$n-m-ND	ron	măsuță de toaletă	n-f
-RL	spa	arriate	n-m	ron	brazdă de flori	n-f$n
+RL	spa	arriate	n-m	ron	brazdă de flori	n-f
 	spa	taquilla	n$n-f	ron	casă de bilete	n$n-f
 	spa	quitanieves	n$n-f	ron	utilaj de deszăpezire	n-nt
 RL	spa	quitanieves	n$n-f	ron	mașină de deszăpezire	n
@@ -5090,7 +5090,7 @@ RL	spa	quitanieves	n$n-f	ron	mașină de deszăpezire	n
 	spa	jornalero	n	ron	lucrător cu ziua	n
 RL	spa	jornalero	n	ron	zilier	n
 	spa	leñador	n$n-m$n-m-pl	ron	tăietor de lemne	n$n-f
-RL	spa	estanco	n$n-m	ron	debit de tutun	n-nt$n
+RL	spa	estanco	n-m$n	ron	debit de tutun	n-nt$n
 	spa	novela corta	n	ron	nuvelă	n$n-f
 	spa	joven actriz	n	ron	starletă	n$n-f
 	spa	apio montano	n	ron	leuștean	n
@@ -5115,7 +5115,7 @@ RL	spa	piscina	n$n-f$n-f-sg	ron	bazin de înot	n$n-nt
 	spa	caja de caudales	n-f	ron	seif	n-nt
 	spa	peón de carretera	n	ron	drumar	n
 	spa	caja fuerte		ron	casă de bani	n$n-f
-	spa	piedra angular	n	ron	cheie de boltă	n$n-f
+	spa	piedra angular	n	ron	cheie de boltă	n-f$n
 	spa	palanca de cambios	n-f	ron	schimbător de viteze	n-nt
 	spa	azúcar cande	n-m	ron	zahăr candel	n-nt
 	spa	hoja de afeitar	n	ron	lamă de ras	n
@@ -5289,13 +5289,13 @@ RL	spa	ingeniero de sonido	n	ron	sunetist	n
 	spa	director de escena	n	ron	regizor	n
 	spa	escritor	n$n-m$n-m-sg	ron	scriitor	n
 	spa	elector	n$n-m$n-m-sg	ron	alegător	n
-	spa	corredor	n-m$n$n-m-sg	ron	alergător	n$n-GD
-RL	spa	corredor	n-m$n$n-m-sg	ron	coridor	n$n-m
+	spa	corredor	n$n-m$n-m-sg	ron	alergător	n$n-GD
+RL	spa	corredor	n$n-m$n-m-sg	ron	coridor	n$n-m
 RL	spa	elector	n$n-m$n-m-sg	ron	elector	n
 	spa	escritura	n$n-f$n-f-sg	ron	scriere	n$n-f
 	spa	reescritura	n$n-f	ron	rescriere	n$n-f
-	spa	escudo	n$n-m$n-m-ND	ron	scut	n$n-nt
-RL	spa	escudo	n$n-m$n-m-ND	ron	stemă	n-f$n
+	spa	escudo	n-m$n$n-m-ND	ron	scut	n$n-nt
+RL	spa	escudo	n-m$n$n-m-ND	ron	stemă	n-f$n
 	spa	escuela	n-f$n$n-f-sg	ron	școală	n$n-f
 	spa	escultura	n$n-f$n-f-ND	ron	sculptură	n$n-f
 	spa	esencia	n$n-f$n-f-ND	ron	esență	n$n-f
@@ -5408,7 +5408,7 @@ RL	spa	estadio	n-m$n$n-m-ND	ron	stadion	n$n-nt
 	spa	gramática	n-f$n$n-f-sg	ron	gramatică	n$n-f
 	spa	estampa	n$n-f$n-f-ND	ron	stampă	n$n-f
 	spa	estancia	n-f$n$n-f-ND	ron	ședere	n-f$n
-	spa	estatua	n$n-f$n-f-ND	ron	statuie	n
+	spa	estatua	n-f$n$n-f-ND	ron	statuie	n
 	spa	estatura	n$n-f$n-f-ND	ron	statură	n-f$n
 	spa	este	n$n-m$n-m-sg	ron	est	n-nt$n
 	spa	estela	n-f$n$n-f-ND	ron	siaj	n$n-nt
@@ -6319,7 +6319,7 @@ RL	spa	hecho	n$n-m$n-m-sg	ron	faptă	n-f$n
 	spa	helar	vblex	ron	îngheța	vblex
 	spa	heredar	vblex	ron	moșteni	vblex
 	spa	herir	vblex	ron	răni	vblex
-	spa	hermano	n-m$n$n-m-sg	ron	frate	n-m$n
+	spa	hermano	n-f$n$n-f-ND	ron	frate	n-m$n
 	spa	hermoso	adj$adj-GD-ND	ron	frumos	adj$
 LR	spa	bello	adj$adj-GD-ND	ron	frumos	adj$
 LR	spa	bonito	adj$adj-GD-ND$	ron	frumos	adj$
@@ -6510,7 +6510,7 @@ RL	spa	ilustre	adj-mf-sg	ron	ilustru	adj-mn-sg
 	spa	identificación	n$n-f$n-f-sg	ron	identificare	n$n-f
 	spa	ideología	n$n-f$n-f-sg	ron	ideologie	n
 	spa	idioma	n$n-m$n-m-sg	ron	idiom	n$n-nt
-	spa	ídolo	n-m$n$n-m-ND	ron	idol	n$n-m
+	spa	ídolo	n$n-m$n-m-ND	ron	idol	n$n-m
 	spa	iglesia	n$n-f$n-f-sg	ron	biserică	n$n-f
 	spa	ignorancia	n$n-f$n-f-ND	ron	ignoranță	n$n-f
 RL	spa	ignorancia	n$n-f$n-f-ND	ron	neștiință	n$n-f
@@ -6852,8 +6852,8 @@ RL	spa	instalación	n$n-f$n-f-sg	ron	instalare	n$n-f
 	spa	instauración	n$n-f$n-f-ND	ron	instaurare	n$n-f
 RL	spa	instauración	n$n-f$n-f-ND	ron	înființare	n$n-f
 	spa	implantación	n$n-f	ron	implantare	n$n-f
-	spa	institución	n$n-f$n-f-sg	ron	instituție	n$n-f
-RL	spa	institución	n$n-f$n-f-sg	ron	instituire	n$n-f
+	spa	institución	n-f$n$n-f-sg	ron	instituție	n$n-f
+RL	spa	institución	n-f$n$n-f-sg	ron	instituire	n$n-f
 	spa	instituto	n-m$n$n-m-sg	ron	institut	n$n-nt
 RL	spa	instituto	n-m$n$n-m-sg	ron	liceu	n$n-nt
 	spa	instrucción	n$n-f$n-f-sg	ron	instrucție	n$n-f
@@ -6991,7 +6991,7 @@ RL	spa	insoportable	adj$adj-mf$adj-mf-sg	ron	insuportabil	adj-mn-sg
 	spa	reencarnar	vblex	ron	reîncarna	vblex
 	spa	reintegrar	vblex	ron	reintegra	vblex
 RL	spa	reintegrar	vblex	ron	reîncadra	vblex
-LR	spa	inteligente	adj-mf$adj-mf-ND$adj	ron	inteligent	adj-GD
+LR	spa	inteligente	adj-mf$adj$adj-mf-ND	ron	inteligent	adj-GD
 RL	spa	inteligente	adj-mf-pl	ron	inteligent	adj-fn-pl
 RL	spa	inteligente	adj-mf-pl	ron	inteligent	adj-m-pl
 RL	spa	inteligente	adj-mf-sg	ron	inteligent	adj-f-sg
@@ -7269,11 +7269,11 @@ RL	spa	juvenil	adj$adj-mf$adj-mf-sg	ron	juvenil	adj-mn-sg
 	spa	losa	n$n-f$n-f-ND	ron	lespede	n
 	spa	lado	n-m$n$n-m-ND	ron	latură	n-f$n
 	spa	ladrillo	n-m$n$n-m-ND	ron	cărămidă	n-f
-	spa	ladrón	n-m$n$n-m-sg	ron	hoț	n$n-f
+	spa	ladrón	n$n-m$n-m-sg	ron	hoț	n$n-f
 	spa	laberinto	n-m$n$n-m-ND	ron	labirint	n$n-nt
 	spa	lágrima	n$n-f$n-f-ND	ron	lacrimă	n$n-f
 	spa	laguna	n$n-f$n-f-sg	ron	lagună	n$n-f
-	spa	lamento	n-m$n$n-m-ND	ron	lamentație	n-f
+	spa	lamento	n$n-m$n-m-ND	ron	lamentație	n-f
 	spa	lámpara	n-f$n$n-f-ND	ron	lampă	n-f$n
 	spa	lucero	n-m$n	ron	luceafăr	n
 	spa	luz	n-f$n$n-f-sg	ron	lumină	n-f$n
@@ -7315,7 +7315,7 @@ RL	spa	deplorar	vblex	ron	deplânge	vblex
 RL	spa	lanzamiento	n-m$n$n-m-ND	ron	aruncare	n-f$n
 	spa	florero	n$n-m	ron	vază	n-f
 	spa	láser	n$n-m$n-m-ND	ron	laser	n-nt$n
-	spa	sol	n$n-m$n-m-ND	ron	soare	n$n-f
+	spa	sol	n-m$n$n-m-ND	ron	soare	n$n-f
 	spa	lástima	n$n-f$n-f-ND	ron	milă	n-f$n
 	spa	llanta	n$n-f	ron	jantă	n-f$n
 	spa	lata	n-f$n$n-f-ND	ron	conservă	n$n-f
@@ -7419,7 +7419,7 @@ RL	spa	libre	adj-mf-sg	ron	liber	adj-mn-sg
 	spa	litro	n-m$n$n-m-ND	ron	litru	n
 	spa	liturgia	n$n-f$n-f-ND	ron	liturghie	n
 	spa	cucharilla	n$n-f	ron	linguriță	n$n-f
-	spa	llama	n$n-f$n-f-ND	ron	flacără	n$n-f
+	spa	llama	n-f$n$n-f-ND	ron	flacără	n$n-f
 	spa	plañido	n-m	ron	jeluire	n-f
 	spa	llanto	n$n-m$n-m-ND	ron	plânset	n-nt$n
 RL	spa	llanto	n$n-m$n-m-ND	ron	bocet	n$n-nt
@@ -7525,7 +7525,7 @@ LR	spa	lechaza	n-f-pl	ron	lapți	n-m-pl
 LR	spa	lechaza	n-f-sg	ron	lapți	n-m-pl
 	spa	malestar	n$n-m$n-m-ND	ron	indispoziție	n-f$n
 	spa	maleta	n$n-f$n-f-ND	ron	valiză	n$n-f
-	spa	mal	n$n-m$n-m-ND	ron	rău	n$n-nt
+	spa	mal	n-m$n$n-m-ND	ron	rău	n$n-nt
 	spa	mancha	n-f$n$n-f-ND	ron	pată	n$n-f
 	spa	mandato	n$n-m-sg$n-m	ron	mandat	n$n-nt
 	spa	mando	n-m$n$n-m-ND	ron	comandă	n-f$n
@@ -7567,7 +7567,7 @@ RL	spa	mantenimiento	n-m$n$n-m-sg	ron	mentenanță	n-f$n
 	spa	sucursal	n$n-f$n-f-ND	ron	sucursală	n$n-f
 	spa	deterioro	n-m$n$n-m-sg	ron	deteriorare	n-f$n
 	spa	desgaste	n-m$n	ron	uzură	n-f
-	spa	manto	n$n-m$n-m-ND	ron	față de masă	n-f$n
+	spa	manto	n-m$n$n-m-ND	ron	față de masă	n-f$n
 	spa	manual	n-m$n$n-m-sg	ron	manual	n-nt$n
 	spa	mañana	n-f$n$n-f-sg	ron	dimineață	n$n-f
 	spa	mapa	n-m$n$n-m-sg	ron	hartă	n-f
@@ -7751,7 +7751,7 @@ RL	spa	mental	adj$adj-mf$adj-mf-sg	ron	mintal	adj-mn-sg
 	spa	merced	n$n-f$n-f-ND	ron	milostenie	n
 	spa	mérito	n$n-m$n-m-ND	ron	merit	n$n-nt
 	spa	metáfora	n$n-f$n-f-ND	ron	metaforă	n$n-f
-	spa	metal	n$n-m$n-m-ND	ron	metal	n$n-nt
+	spa	metal	n-m$n$n-m-ND	ron	metal	n$n-nt
 	spa	meta	n$n-f$n-f-ND	ron	țintă	n$n-f
 RL	spa	meta	n$n-f$n-f-ND	ron	țel	n-nt$n
 	spa	método	n$n-m$n-m-sg	ron	metodă	n-f$n
@@ -7809,8 +7809,8 @@ RL	spa	militar	adj$adj-mf-sg$adj-mf	ron	militar	adj-mn-sg
 RL	spa	mil	num$num-mf$num-mf-sp	ron	o mie de	num$num-mf-sg
 	spa	ministro	n$n-m$n-m-sg	ron	ministru	n$n-m
 	spa	miedo	n-m$n$n-m-ND	ron	frică	n-f
-	spa	mierda	n$n-f$n-f-ND	ron	căcat	n-m$n
-	spa	milagro	n$n-m$n-m-ND	ron	miracol	n$n-nt
+	spa	mierda	n-f$n$n-f-ND	ron	căcat	n-m$n
+	spa	milagro	n-m$n$n-m-ND	ron	miracol	n$n-nt
 	spa	milenio	n-m$n$n-m-ND	ron	mileniu	n$n-nt
 	spa	milímetro	n$n-m$n-m-ND	ron	milimetru	n
 RL	spa	militante	n-mf$n$n-mf-ND	ron	militant	n-f
@@ -7905,7 +7905,7 @@ LR	spa	morar	vblex	ron	locui	vblex
 	spa	mostrador	n$n-m$n-m-ND	ron	tejghea	n$n-f
 RL	spa	barra	n$n-f$n-f-ND	ron	tejghea	n$n-f
 RL	spa	barra	n$n-f$n-f-ND	ron	baton	n$n-nt
-	spa	mover	vblex	ron	mișca	vblex
+	spa	mover	vblex$vblex-pron	ron	mișca	vblex
 LR	spa	móvil	adj$adj-mf$adj-mf-sg	ron	mobil	adj-GD
 RL	spa	móvil	adj-mf-pl	ron	mobil	adj-fn-pl
 RL	spa	móvil	adj-mf-pl	ron	mobil	adj$adj-m-pl$
@@ -7985,7 +7985,7 @@ RL	spa	múltiple	adj-mf-sg	ron	multiplu	adj-f-sg
 RL	spa	múltiple	adj-mf-sg	ron	multiplu	adj-mn-sg
 RL	spa	multiplicar	vblex	ron	multiplica	vblex
 	spa	multiplicar	vblex	ron	înmulți	vblex
-	spa	mundo	n$n-m$n-m-sg	ron	lume	n$n-f$n-f-sg
+	spa	mundo	n-m$n$n-m-sg	ron	lume	n$n-f$n-f-sg
 LR	spa	municipal	adj$adj-mf$adj-mf-sg	ron	municipal	adj-GD
 RL	spa	municipal	adj-mf-pl	ron	municipal	adj-fn-pl
 RL	spa	municipal	adj-mf-pl	ron	municipal	adj-m-pl
@@ -8012,14 +8012,14 @@ RL	spa	músico	n$n-m$n-m-ND	ron	muzicant	n
 	spa	muslo	n-m$n$n-m-ND	ron	coapsă	n-f
 	spa	musulmán	n$n-m$n-m-sg	ron	musulman	n$
 	spa	nacimiento	n-m$n$n-m-ND	ron	naștere	n-f$n
-	spa	nacionalidad	n$n-f$n-f-sg	ron	naționalitate	n$n-f
+	spa	nacionalidad	n-f$n$n-f-sg	ron	naționalitate	n$n-f
 	spa	nación	n$n-f$n-f-sg	ron	națiune	n$n-f
 	spa	nalga	n$n-f$n-f-ND	ron	bucă	n$n-f
 	spa	naranja	n-f$n$n-f-ND	ron	portocală	n$n-f
 	spa	nacer	vblex	ron	naște	vblex
-LR	spa	nacional	adj$adj-mf$adj-mf-pl	ron	național	adj-GD
-RL	spa	nacional	adj$adj-mf$adj-mf-pl	ron	național	adj-fn-pl
-RL	spa	nacional	adj$adj-mf$adj-mf-pl	ron	național	adj-m-pl
+LR	spa	nacional	adj-mf$adj$adj-mf-pl	ron	național	adj-GD
+RL	spa	nacional	adj-mf$adj$adj-mf-pl	ron	național	adj-fn-pl
+RL	spa	nacional	adj-mf$adj$adj-mf-pl	ron	național	adj-m-pl
 RL	spa	nacional	adj-mf-sg	ron	național	adj-f-sg
 RL	spa	nacional	adj-mf-sg	ron	național	adj-mn-sg
 LR	spa	promocional	adj$adj-mf$adj-mf-sg	ron	promoțional	adj-GD
@@ -8187,7 +8187,7 @@ RL	spa	novelista	n-mf$n$n-mf-ND	ron	romancier	n-m
 	spa	ninguno	prn-tn$prn$prn-tn-GD-sg$prn-tn-GD	ron	nici unul	prn$prn-tn
 	spa	niño	n$n-m$n-m-sg	ron	copil	n$n-m
 	spa	amortización	n$n-f	ron	amortizare	n-f$n
-	spa	uno	det-ind-m-sg$det$det-ind$det-ind-m	ron	câțiva	det$det-ind-fn-pl
+	spa	uno	det-ind$det-ind-m-sg$det$det-ind-m	ron	câțiva	det$det-ind-fn-pl
 	spa	ninguno	det-ind$det-ind-GD-sg$det-ind-GD$det	ron	niciun	det-ind$det$det-ind-mn-sg
 RL	spa	ninguno	det-ind$det-ind-GD-sg$det-ind-GD$det	ron	nici un	det-ind$det
 	spa	vario	det$det-ind-GD$det-ind$det-ind-GD-ND	ron	mai mulți	det$det-ind$det-ind-GD
@@ -8213,7 +8213,7 @@ RL	spa	terminal	n-m	ron	aerogară	n-f$n
 	spa	palabra clave		ron	cuvânt cheie	n-nt
 	spa	hora punta	n	ron	oră de vârf	n
 	spa	objeto de exposición	n-m	ron	exponat	n-nt
-	spa	arco iris	n-m$n-m-sg	ron	curcubeu	n-nt
+	spa	arco iris	n-m$n$n-m-sg	ron	curcubeu	n-nt
 	spa	dominio web	n-m	ron	site	n-nt
 	spa	GPS	n-m$n-m-sg	ron	GPS	n-nt$n-nt-ND
 	spa	mando a distancia		ron	telecomandă	n-f
@@ -8443,10 +8443,10 @@ RL	spa	investigar	vblex	ron	ancheta	vblex
 	spa	imitador	n$n-GD$n-GD-pl	ron	imitator	n
 	spa	falsificador	n	ron	falsificator	n
 RL	spa	falsificador	n	ron	măsluitor	n
-	spa	agricultor	n$n-m-sg$n-m	ron	agricultor	n
+	spa	agricultor	n$n-m$n-m-sg	ron	agricultor	n
 	spa	nuca	n-f$n$n-f-ND	ron	ceafă	n-f$n
-RL	spa	nudo	n$n-m$n-m-ND	ron	nud	n$n-nt$
-	spa	nudo	n$n-m$n-m-ND	ron	nod	n$n-nt
+RL	spa	nudo	n-m$n$n-m-ND	ron	nud	n$n-nt$
+	spa	nudo	n-m$n$n-m-ND	ron	nod	n$n-nt
 RL	spa	obediencia	n$n-f$n-f-ND	ron	ascultare	n$n-f
 	spa	obediencia	n$n-f$n-f-ND	ron	obediență	n$n-f
 	spa	obispo	n$n-m$n-m-ND	ron	episcop	n
@@ -8474,7 +8474,7 @@ RL	spa	restauración	n$n-f$n-f-ND	ron	restaurație	n$n-f
 	spa	ocasión	n$n-f$n-f-sg	ron	ocazie	n$n-f
 RL	spa	ocasión	n-m	ron	prilej	n$n-nt
 	spa	occidente	n$n-m$n-m-ND	ron	occident	n$n-nt
-	spa	océano	n$n-m$n-m-sg	ron	ocean	n$n-nt
+	spa	océano	n-m$n$n-m-sg	ron	ocean	n$n-nt
 	spa	ocio	n$n-m$n-m-ND	ron	timp liber	n$n-nt
 	spa	ocupación	n-f$n$n-f-ND	ron	ocupație	n$n-f
 RL	spa	ocupación	n-f$n$n-f-ND	ron	ocupare	n$n-f
@@ -8560,9 +8560,9 @@ RL	spa	no oficial	adj-mf-pl$adj-mf	ron	neoficial	adj-fn-pl
 RL	spa	no oficial	adj-mf-pl$adj-mf	ron	neoficial	adj-m-pl
 RL	spa	no oficial	adj-mf-sg	ron	neoficial	adj-f-sg
 RL	spa	no oficial	adj-mf-sg	ron	neoficial	adj-mn-sg
-LR	spa	oficial	adj$adj-mf$adj-mf-pl	ron	oficial	adj-GD
-RL	spa	oficial	adj$adj-mf$adj-mf-pl	ron	oficial	adj-fn-pl
-RL	spa	oficial	adj$adj-mf$adj-mf-pl	ron	oficial	adj-m-pl
+LR	spa	oficial	adj-mf$adj$adj-mf-pl	ron	oficial	adj-GD
+RL	spa	oficial	adj-mf$adj$adj-mf-pl	ron	oficial	adj-fn-pl
+RL	spa	oficial	adj-mf$adj$adj-mf-pl	ron	oficial	adj-m-pl
 RL	spa	oficial	adj-mf-sg	ron	oficial	adj-f-sg
 RL	spa	oficial	adj-mf-sg	ron	oficial	adj-mn-sg
 	spa	ofrecer	vblex	ron	oferi	vblex
@@ -8791,7 +8791,7 @@ RL	spa	sodio	n$n-m	ron	natriu	n$n-nt
 	spa	otorgar	vblex	ron	acorda	vblex
 	spa	otro	prn$prn-tn$prn-tn-m-sg$prn-tn-m	ron	altul	prn$prn-tn-GD-sg
 RL	spa	otro	det-ind-GD-pl	ron	alt	det-ind-mfn-pl$$det
-	spa	otro	det-ind-m-sg$det-ind$det$det-ind-m	ron	alt	det-ind-mn-sg
+	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m	ron	alt	det-ind-mn-sg
 	spa	otro	det-ind-f-sg$det-ind-f	ron	alt	det-ind-f-sg
 	spa	otro	det-ind-f-pl	ron	alt	det-ind-fn-pl
 	spa	otro	det-ind-m-pl	ron	alt	det-ind-m-pl
@@ -8821,9 +8821,9 @@ RL	spa	llanura	n-f$n$n-f-ND	ron	câmpie	n
 RL	spa	pálido	adj$adj-GD-ND$adj-GD	ron	pal	adj$$adj-f
 	spa	palpar	vblex	ron	palpa	vblex
 	spa	pantalón	n-m$n$n-m-pl	ron	pantalon	n
-RL	spa	papanatas	n-mf$n	ron	bleg	n-f
-LR	spa	papanatas	n-mf$n	ron	bleg	n-GD
-RL	spa	papanatas	n-mf$n	ron	bleg	n-m
+RL	spa	papanatas	n-mf$n	ron	bleg	n-f$n-f-sg
+LR	spa	papanatas	n-mf$n	ron	bleg	n-GD$n-GD-ND
+RL	spa	papanatas	n-mf$n	ron	bleg	n-m$n-m-sg
 	spa	papar	vblex	ron	păpa	vblex
 	spa	paradójico	adj$adj-f	ron	paradoxal	adj$
 	spa	paralelo	adj$adj-GD-ND$adj-GD	ron	paralel	$adj$adj-GD
@@ -8869,9 +8869,9 @@ RL	spa	parcial	adj$adj-mf$adj-mf-sg	ron	parțial	adj-f-sg
 RL	spa	parcial	adj$adj-mf$adj-mf-sg	ron	parțial	adj-mn-sg
 	spa	parece que	cnjadv	ron	se pare că	cnjadv
 RL	spa	parece que	cnjadv	ron	parcă	cnjadv
-	spa	parecer	vblex$	ron	părea	vblex
-RL	spa	parecer	vblex$	ron	semăna	vblex
-RL	spa	parecer	vblex$	ron	asemăna	vblex
+	spa	parecer	vblex$$vblex-pron	ron	părea	vblex
+RL	spa	parecer	vblex$$vblex-pron	ron	semăna	vblex
+RL	spa	parecer	vblex$$vblex-pron	ron	asemăna	vblex
 	spa	pared	n-f$n$n-f-sg	ron	perete	n-m$n
 	spa	pajarito	n$n-m	ron	păsărică	n-f
 	spa	pajar	n-m$n$n-m-sg	ron	căpiță	n-f
@@ -8979,7 +8979,7 @@ RL	spa	peligro	n$n-m$n-m-sg	ron	primejdie	n-f$n
 	spa	pelo	n$n-m$n-m-ND	ron	păr	n$n-m
 	spa	pedir	vblex	ron	cere	vblex
 RL	spa	pedir	vblex	ron	comanda	vblex
-	spa	pegar	vblex	ron	lipi	vblex
+	spa	pegar	vblex$vblex-pron	ron	lipi	vblex
 	spa	peinar	vblex	ron	pieptăna	vblex
 	spa	mendigar	vblex	ron	cerși	vblex
 	spa	regañar	vblex	ron	certa	vblex
@@ -8989,7 +8989,7 @@ RL	spa	regañar	vblex	ron	boscorodi	vblex
 	spa	película	n-f$n$n-f-sg	ron	film	n-nt$n
 	spa	peligroso	adj$adj-GD-ND	ron	periculos	adj$adj-f$
 	spa	pernicioso	adj$adj-m-sg	ron	pernicios	adj$
-	spa	pendenciero	n	ron	certăreț	n$
+	spa	pendenciero	n	ron	certăreț	$n$n-f-sg
 	spa	pendenciero	adj$adj-m-sg	ron	certăreț	adj
 	spa	parrandero	adj	ron	chefliu	$adj
 RL	spa	camorrista	n-mf$n	ron	bătăuș	$n$n-f
@@ -9230,7 +9230,7 @@ RL	spa	agente de policía	n-mf	ron	polițist	n-m$n-m-pl
 	spa	Ammán	np$np-loc$np-loc-m	ron	Amman	np$np-loc
 	spa	Antártida	np$np-loc$np-loc-f	ron	Antarctica	np$np-loc
 	spa	Angola	np$np-loc$np-loc-f	ron	Angola	np$np-loc
-	spa	Antioquía	np$np-loc$np-loc-f	ron	Antiohia	np$np-loc
+	spa	Antioquía	np-loc$np-loc-f	ron	Antiohia	np$np-loc
 	spa	Andrinópolis	np-loc	ron	Adrianopol	np-loc
 	spa	Annapolis	np$np-loc	ron	Annapolis	np$np-loc
 	spa	Andorra	np$np-loc$np-loc-f	ron	Andorra	np$np-loc
@@ -9243,7 +9243,7 @@ RL	spa	Andorra	np$np-loc$np-loc-f	ron	Andora	np$np-loc
 LR	spa	Amberes	np$np-loc$np-loc-m	ron	Antwerpen	np$np-loc
 	spa	América	np$np-loc$np-loc-f	ron	America	np$np-loc
 	spa	Asia	np$np-loc$np-loc-f	ron	Asia	np$np-loc
-	spa	Australia	np-loc$np-loc-f	ron	Australia	np$np-loc
+	spa	Australia	np$np-loc$np-loc-f	ron	Australia	np$np-loc
 	spa	Austria	np$np-loc$np-loc-f	ron	Austria	np$np-loc
 	spa	Bélgica	np$np-loc$np-loc-f	ron	Belgia	np$np-loc
 	spa	India	np$np-loc$np-loc-f	ron	India	np$np-loc
@@ -9251,7 +9251,7 @@ LR	spa	Amberes	np$np-loc$np-loc-m	ron	Antwerpen	np$np-loc
 	spa	Dios	np-al	ron	Dumnezeu	np-al$np
 	spa	Europa	np$np-loc$np-loc-f	ron	Europa	np$np-loc
 	spa	Barcelona	np$np-loc$np-loc-f	ron	Barcelona	np$np-loc
-	spa	Canadá	np$np-loc-m$np-loc	ron	Canada	np-loc-f
+	spa	Canadá	np-loc-m$np-loc	ron	Canada	np-loc-f
 	spa	Alpes	np$np-loc$np-loc-m	ron	Alpi	np$np-loc
 	spa	Balcanes	np$np-loc$np-loc-m-pl$np-loc-m	ron	Balcani	np-loc
 	spa	Cárpatos	np-loc$np	ron	Carpați	np-loc
@@ -9272,7 +9272,7 @@ LR	spa	Amberes	np$np-loc$np-loc-m	ron	Antwerpen	np$np-loc
 	spa	Nairobi	np$np-loc	ron	Nairobi	np$np-loc
 	spa	Bulgaria	np$np-loc$np-loc-f	ron	Bulgaria	np$np-loc
 	spa	Etiopía	np$np-loc$np-loc-f	ron	Etiopia	np$np-loc
-	spa	Dalmacia	np$np-loc$np-loc-f	ron	Dalmația	np$np-loc
+	spa	Dalmacia	np-loc$np-loc-f	ron	Dalmația	np$np-loc
 	spa	Venecia	np$np-loc$np-loc-f	ron	Veneția	np$np-loc
 	spa	Viena	np$np-loc$np-loc-f	ron	Viena	np$np-loc
 	spa	Anatolia	np$np-loc$np-loc-f	ron	Anatolia	np$np-loc
@@ -9320,7 +9320,7 @@ RL	spa	Westfalia	np$np-loc	ron	Vestfalia	np$np-loc
 	spa	Achkabad	np-loc	ron	Așhabad	np-loc
 	spa	Islamabad	np$np-loc$np-loc-m	ron	Islamabad	np$np-loc
 	spa	Abjasia	np$np-loc$np-loc-f	ron	Abhazia	np$np-loc
-	spa	Acaya	np$np-loc	ron	Ahaia	np$np-loc
+	spa	Acaya	np-loc	ron	Ahaia	np$np-loc
 	spa	Lisboa	np$np-loc$np-loc-f	ron	Lisabona	np$np-loc
 	spa	Egipto	np$np-loc$np-loc-m	ron	Egipt	np$np-loc
 	spa	Libia	np$np-loc$np-loc-f	ron	Libia	np$np-loc
@@ -9382,13 +9382,13 @@ RL	spa	Westfalia	np$np-loc	ron	Vestfalia	np$np-loc
 RL	spa	Estrasburgo	np$np-loc$np-loc-m	ron	Strasburg	np$np-loc
 	spa	Estrasburgo	np$np-loc$np-loc-m	ron	Strasbourg	np$np-loc
 	spa	Estocolmo	np$np-loc$np-loc-m	ron	Stockholm	np$np-loc
-	spa	Corinto	np$np-loc$np-loc-m	ron	Corint	np$np-loc
+	spa	Corinto	np-loc	ron	Corint	np$np-loc
 	spa	Escandinavia	np$np-loc$np-loc-f	ron	Scandinavia	np$np-loc
 	spa	Escocia	np$np-loc$np-loc-f	ron	Scoția	np$np-loc
 	spa	Marruecos	np$np-loc$np-loc-m	ron	Maroc	np$np-loc
 	spa	Eslovaquia	np$np-loc$np-loc-f	ron	Slovacia	np$np-loc
 	spa	Eslovenia	np$np-loc$np-loc-f	ron	Slovenia	np$np-loc
-	spa	España	np-loc$np-loc-f	ron	Spania	np$np-loc
+	spa	España	np$np-loc$np-loc-f	ron	Spania	np$np-loc
 	spa	Estonia	np$np-loc$np-loc-f	ron	Estonia	np$np-loc
 	spa	Finlandia	np$np-loc$np-loc-f	ron	Finlanda	np$np-loc
 	spa	Francia	np-loc$np-loc-f	ron	Franța	np$np-loc
@@ -9463,7 +9463,7 @@ RL	spa	Bucarest	np$np-loc$np-loc-m-sg$np-loc-m	ron	București	np-loc-m-pl
 	spa	Alina	np$np-ant$np-ant-f-sg	ron	Alina	np$
 	spa	Ion	np-ant$np$np-ant-m	ron	Ion	$np$np-ant-m
 	spa	Anca	np-ant-f	ron	Anca	$np-ant-f
-	spa	Catalina	np$np-ant$np-ant-f	ron	Catalina	np$np-ant-f
+	spa	Catalina	np-ant$np$np-ant-f	ron	Catalina	np$np-ant-f
 	spa	Roxana	np-ant$np-ant-f	ron	Roxana	$np-ant-f
 	spa	Gabi	np$np-ant-f	ron	Gabi	np-ant-f
 	spa	Trajano	np	ron	Traian	np$
@@ -9482,8 +9482,8 @@ RL	spa	Virgilio	np$np-ant	ron	Vergiliu	np
 	spa	Breton	np$np-cog	ron	Breton	np
 	spa	Bush	np$np-cog-mf$np-cog	ron	Bush	np
 	spa	Superman	np$np-ant	ron	Superman	np
-	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg	ron	Isus	np$
-RL	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg	ron	Iisus	np$
+	spa	Jesús	np$np-ant$np-ant-m-sg	ron	Isus	np$
+RL	spa	Jesús	np$np-ant$np-ant-m-sg	ron	Iisus	np$
 	spa	Ford	np-al-m	ron	Ford	np$np-al-nt
 	spa	internet	n$n-m$n-m-ND	ron	internet	n-nt
 	spa	político	adj$adj-GD$adj-GD-ND	ron	politic	adj$$adj-GD
@@ -9579,7 +9579,7 @@ RL	spa	precoz	adj-mf-sg	ron	precoce	adj-mn$adj-mn-sg
 LR	spa	precoz	adj-mf$adj$adj-mf-pl	ron	precoce	adj-GD$$adj
 	spa	predecir	vblex	ron	prezice	vblex
 	spa	preferir	vblex	ron	prefera	vblex
-	spa	pregunta	n$n-f$n-f-ND	ron	întrebare	n$n-f
+	spa	pregunta	n-f$n$n-f-ND	ron	întrebare	n$n-f
 RL	spa	conexión	n$n-f$n-f-ND	ron	conectare	n$n-f
 	spa	exportación	n$n-f$n-f-ND	ron	exportare	n$n-f
 	spa	perfeccionamiento	n$n-m	ron	perfecționare	n-f
@@ -9828,7 +9828,7 @@ LR	spa	el cual	rel$rel-nn-GD-ND	ron	cel care	rel$rel-an$rel-an-mn-sg-dg
 	spa	por lo cual	rel	ron	fapt pentru care	rel
 	spa	qué	prn$prn-itg$prn-itg-mf-sg$prn-itg-mf	ron	ce	prn
 RL	spa	quién	prn-itg-mf-ND	ron	cine	prn-itg-mf-sg$prn
-LR	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg	ron	cine	prn-itg-mf-sg$prn
+LR	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg	ron	cine	prn-itg-mf-sg$prn
 LR	spa	quién	prn-itg-mf-pl	ron	cine	prn-itg-mf-sg$prn
 	spa	quebrar	vblex	ron	zdrobi	vblex
 RL	spa	quebrar	vblex	ron	frânge	vblex
@@ -10296,7 +10296,7 @@ RL	spa	responsable	adj-mf-sg	ron	responsabil	adj-mn-sg
 LR	spa	retrasar	vblex	ron	întârzia	vblex
 	spa	retratar	vblex	ron	zugrăvi	vblex
 	spa	reunión	n$n-f$n-f-ND	ron	reuniune	n
-	spa	reunir	vblex	ron	reuni	vblex
+	spa	reunir	vblex$vblex-pron	ron	reuni	vblex
 	spa	revelar	vblex	ron	revela	vblex
 	spa	revisar	vblex	ron	revizui	vblex
 	spa	revolucionario	adj$adj-GD$adj-GD-ND	ron	revoluționar	adj$$adj-GD
@@ -10822,7 +10822,7 @@ RL	spa	suave	adj-mf-pl	ron	suav	adj-fn-pl
 RL	spa	suave	adj-mf-pl	ron	suav	adj-m-pl
 RL	spa	suave	adj-mf-sg	ron	suav	adj-f-sg
 RL	spa	suave	adj-mf-sg	ron	suav	adj-mn-sg
-LR	spa	suave	adj-mf$adj-mf-ND$adj	ron	suav	adj-GD
+LR	spa	suave	adj-mf$adj$adj-mf-ND	ron	suav	adj-GD
 RL	spa	subir	vblex	ron	mări	vblex
 	spa	subir	vblex	ron	urca	vblex
 	spa	ampliar	vblex	ron	lărgi	vblex
@@ -11038,7 +11038,7 @@ RL	spa	trabajar	vblex	ron	munci	vblex
 	spa	arbitrar	vblex	ron	arbitra	vblex
 	spa	pavimentar	vblex	ron	pava	vblex
 RL	spa	servir	vblex	ron	sluji	vblex
-	spa	trabajo	n-m$n-m-sg$n	ron	muncă	n-f
+	spa	trabajo	n-m$n$n-m-sg	ron	muncă	n-f
 RL	spa	tenista	n-mf$n	ron	tenisman	n-f
 LR	spa	tenista	n-mf$n	ron	tenisman	n-GD
 RL	spa	tenista	n-mf$n	ron	tenisman	n-m$n
@@ -11060,7 +11060,7 @@ RL	spa	tranquilo	adj-m-pl	ron	cuminte	adj-m$adj-m-pl
 RL	spa	tranquilo	adj-f$adj-f-pl	ron	cuminte	adj-fn-pl
 RL	spa	tranquilo	adj-f-sg	ron	cuminte	adj-f$adj-f-sg
 	spa	chocho	adj$adj-m-sg	ron	ramolit	adj
-	spa	chocho	n$n-m	ron	ramolit	n$
+	spa	chocho	n-m$n	ron	ramolit	n$
 	spa	transcurrir	vblex	ron	scurge	vblex
 RL	spa	correr	vblex$vblex-vbact	ron	curge	vblex
 	spa	transformar	vblex	ron	transforma	vblex
@@ -11131,13 +11131,13 @@ LR	spa	ulterior	adj$adj-mf-sg$adj-mf	ron	ulterior	adj-GD
 	spa	como	rel-adv$rel	ron	ca	rel
 	spa	cuando	rel$rel-adv	ron	când	rel
 	spa	cuanto	rel$rel-adv$	ron	cât	rel$rel-adv
-	spa	uno	det-ind-m-sg$det$det-ind$det-ind-m	ron	un	det-ind-m-pl$det$det-ind
+	spa	uno	det-ind$det-ind-m-sg$det$det-ind-m	ron	un	det-ind-m-pl$det$det-ind
 	spa	unión	n$n-f$n-f-ND	ron	uniune	n$n-f
 RL	spa	unión	n$n-f$n-f-ND	ron	unire	n$n-f
 	spa	unir	vblex	ron	uni	vblex
 	spa	desunir	vblex	ron	dezbina	vblex
 	spa	una vez más	adv	ron	încă o dată	adv
-	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg	ron	unul	prn
+	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg	ron	unul	prn
 	spa	a este respecto	adv	ron	în această privință	adv
 RL	spa	universal	adj-mf-pl	ron	universal	adj-fn-pl
 RL	spa	universal	adj-mf-pl	ron	universal	adj-m-pl
@@ -11220,7 +11220,7 @@ RL	spa	inherente	adj-mf$adj$adj-mf-sg	ron	inerent	adj-mn-sg
 	spa	vano	adj$adj-GD-ND	ron	van	adj$
 	spa	contratación	n$n-f-sg$n-f	ron	contractare	n$n-f
 RL	spa	contratación	n$n-f-sg$n-f	ron	angajare	n$n-f
-	spa	vaqueros	n	ron	blugi	n
+	spa	vaqueros	n	ron	blugi	n$n-nt
 	spa	variante	n$n-f$n-f-ND	ron	variantă	n$n-f
 	spa	variar	vblex	ron	varia	vblex
 	spa	averiar	vblex	ron	avaria	vblex
@@ -11380,7 +11380,7 @@ LR	spa	vertical	adj$adj-mf$adj-mf-ND	ron	vertical	adj-GD
 	spa	viajar	vblex	ron	călători	vblex
 	spa	vestir	vblex	ron	îmbrăca	vblex
 	spa	vía	n$n-f$n-f-ND	ron	cale	n$n-f
-	spa	vida	n$n-f$n-f-sg	ron	viață	n$n-f
+	spa	vida	n-f$n$n-f-sg	ron	viață	n$n-f
 LR	spa	viejo	adj-f$adj-f-pl	ron	vechi	adj-mfn-pl
 LR	spa	viejo	adj-m-pl	ron	vechi	adj-mfn-pl
 	spa	viejo	adj-f-sg	ron	vechi	adj-f-sg$adj-f
@@ -11436,7 +11436,7 @@ LR	spa	vivo	adj-m-pl	ron	viu	adj-mfn-pl$$adj
 RL	spa	vosotros	prn-tn-p2-GD$prn-tn$prn-tn-p2-GD-pl$prn	ron	voi	prn-tn-p2-mf$prn
 LR	spa	vosotros	prn-tn-p2-m$prn-tn-p2-m-pl	ron	voi	prn-tn-p2-mf$prn
 LR	spa	vosotros	prn-tn-p2-f$prn-tn-p2-f-pl	ron	voi	prn-tn-p2-mf$prn
-RL	spa	nosotros	prn-tn-p1-GD$prn-tn$prn-tn-p1-GD-pl$prn	ron	noi	prn-tn-p1-mf$prn
+RL	spa	nosotros	prn-tn-p1-GD$prn-tn-p1-GD-pl$prn-tn$prn	ron	noi	prn-tn-p1-mf$prn
 LR	spa	nosotros	prn-tn-p1-m$prn-tn-p1-m-pl	ron	noi	prn-tn-p1-mf$prn
 LR	spa	nosotros	prn-tn-p1-f$prn-tn-p1-f-pl	ron	noi	prn-tn-p1-mf$prn
 	spa	votar	vblex	ron	vota	vblex
@@ -11493,16 +11493,16 @@ RL	spa	ya que	cnjadv	ron	de vreme ce	cnjadv
 	spa	XVIII	num	ron	XVIII	num$$num-mf-pl
 	spa	XX	num	ron	XX	num$$num-mf-pl
 	spa	XXI	num	ron	XXI	num$$num-mf-pl
-	spa	cero	num$num-mf$num-mf-sp	ron	zero	num$num-m-sg
+	spa	cero	num$num-mf-sp$num-mf	ron	zero	num$num-m-sg
 	spa	uno	num$num-m-sp$num-m	ron	u	num
-	spa	tres	num$$num-mf-sp	ron	trei	num$num-mf-pl
+	spa	tres	num$num-mf-sp$	ron	trei	num$num-mf-pl
 	spa	cuatro	num$$num-mf-sp	ron	patru	num$num-mf-pl
 	spa	cinco	num$num-mf-sp$	ron	cinci	num$num-mf-pl
 	spa	seis	num$num-mf-sp$	ron	șase	num$num-mf-pl
 	spa	siete	num$$num-mf-sp	ron	șapte	num$num-mf-pl
 	spa	ocho	num$$num-mf-sp	ron	opt	num$num-mf-pl
 	spa	nueve	num$$num-mf-sp	ron	nouă	num$num-mf-pl
-	spa	diez	num$num-mf$$num-mf-sp	ron	zece	num$num-mf-pl
+	spa	diez	num$num-mf$num-mf-sp$	ron	zece	num$num-mf-pl
 	spa	once	num$$num-mf$num-mf-sp	ron	unsprezece	num$num-mf-pl
 	spa	trece	num$$num-mf$num-mf-sp	ron	treisprezece	num$num-mf-pl
 	spa	catorce	num$$num-mf$num-mf-sp	ron	paisprezece	num$num-mf-pl
@@ -11530,7 +11530,7 @@ RL	spa	cincuenta y dos	num-mf$num-mf-sp$num$	ron	cincizeci și doi	num-m-sp
 	spa	setenta	num$$num-mf	ron	șaptezeci	num$num-mf-pl
 	spa	ochenta	num$$num-mf$num-mf-sp	ron	optzeci	num$num-mf-pl
 	spa	noventa	num$$num-mf	ron	nouăzeci	num$num-mf-pl
-	spa	cien	num$num-mf$num-mf-sp$	ron	o sută	num$num-mf-pl
+	spa	cien	num$num-mf-sp$num-mf$	ron	o sută	num$num-mf-pl
 LR	spa	ciento	num$num-m-sp$	ron	o sută	num$num-mf-pl
 	spa	doscientos	num$$num-mf	ron	două sute	num-mf-pl$num
 	spa	trescientos	num$$num-mf	ron	trei sute	num-mf-pl$num
@@ -11641,7 +11641,7 @@ RL	spa	ochenta y dos	num-mf-pl	ron	optzeci și doi	num-m-pl$num
 	spa	locomotora	n$n-f	ron	locomotivă	n$n-f
 	spa	logotipo	n$n-m	ron	logotip	n$n-nt
 RL	spa	llamamiento	n-m$n$n-m-ND	ron	chemare	n-f
-RL	spa	llama	n$n-f$n-f-ND	ron	lamă	n$n-f
+RL	spa	llama	n-f$n$n-f-ND	ron	lamă	n$n-f
 	spa	lluvioso	adj$adj-m-sg	ron	ploios	$adj
 	spa	resinoso	adj$adj-m-sg	ron	rășinos	$adj
 LR	spa	loable	adj$adj-mf$adj-mf-sg	ron	lăudabil	adj-GD$$adj
@@ -11795,7 +11795,7 @@ RL	spa	medición	n$n-f$n-f-sg	ron	măsurătoare	n$n-f
 	spa	mestizaje	n-m$n	ron	metisaj	n-nt$n
 	spa	mesón	n-m$n	ron	han	n$n-nt
 	spa	meteorito	n$n-m	ron	meteorit	n$n-m
-	spa	microbio	n$n-m	ron	microb	n
+	spa	microbio	n-m$n	ron	microb	n
 	spa	microonda	n$n-f$n-f-sg	ron	microundă	n$n-f
 RL	spa	migración	n$n-f$n-f-sg	ron	migrație	n$n-f
 	spa	mili	n$n-f$n-f-ND	ron	militărie	n$n-f
@@ -12143,7 +12143,7 @@ RL	spa	ocupante	n-mf$n	ron	ocupant	n-f
 	spa	olimpiada	n$n-f	ron	olimpiadă	n$n-f
 	spa	oliva	n$n-f	ron	măslină	n$n-f
 	spa	olivo	n-m$n$n-m-ND	ron	măslin	n$n-m
-	spa	olla	n$n-f	ron	oală	n$n-f
+	spa	olla	n-f$n	ron	oală	n$n-f
 	spa	ombligo	n-m$n	ron	buric	n$n-nt
 	spa	operador	n$n-m$n-m-pl	ron	operator	n
 	spa	operario	n$n-f	ron	lucrător	n$
@@ -12246,7 +12246,7 @@ RL	spa	pediatra	n-mf$n$n-mf-sg	ron	pediatru	n-f
 	spa	penalización	n$n-f$n-f-sg	ron	penalizare	n$n-f
 	spa	penalti	n$n-m$n-m-ND	ron	penalti	n-nt$n
 	spa	picha	n$n-f	ron	pulă	n$n-f
-	spa	pene	n-m$n-m-ND$n	ron	penis	n-nt$n
+	spa	pene	n-m$n$n-m-ND	ron	penis	n-nt$n
 	spa	penetración	n$n-f$n-f-ND	ron	penetrare	n$n-f
 RL	spa	acceso	n$n-m$n-m-sg	ron	pătrundere	n$n-f
 	spa	penitencia	n$n-f	ron	penitență	n$n-f
@@ -12394,7 +12394,7 @@ RL	spa	judío	n$n-f	ron	jidov	n
 	spa	regreso	n-m$n$n-m-sg	ron	revenire	n-f$n
 	spa	abejaruco	n$n-m	ron	prigorie	n-f$n
 RL	spa	abejaruco	n$n-m	ron	albinărel	n
-	spa	murciélago	n$n-m	ron	liliac	n-m$n
+	spa	murciélago	n-m$n	ron	liliac	n-m$n
 	spa	abejar	n-m	ron	prisacă	n-f
 	spa	avefría	n-f	ron	nagâț	n-m
 	spa	garza real	n-f	ron	bâtlan	n-m
@@ -12539,7 +12539,7 @@ RL	spa	ateneo	n$n-m	ron	ateneu	n-nt
 	spa	población	n$n-f$n-f-sg	ron	populație	n$n-f
 	spa	pobreza	n$n-f$n-f-sg	ron	sărăcie	n$n-f
 	spa	podio	n$n-m$n-m-ND	ron	podium	n$n-nt
-	spa	poema	n$n-m$n-m-ND	ron	poem	n$n-nt
+	spa	poema	n-m$n$n-m-ND	ron	poem	n$n-nt
 	spa	poesía	n$n-f$n-f-sg	ron	poezie	n
 	spa	afonía	n$n-f	ron	afonie	n
 RL	spa	paraje	n-m$n	ron	plai	n-nt$n
@@ -12580,7 +12580,7 @@ RL	spa	poeta	n-mf$n$n-mf-ND	ron	poet	n-f
 	spa	polvo	n-m$n$n-m-sg	ron	praf	n-nt$n
 	spa	polémica	n$n-f$n-f-ND	ron	polemică	n$n-f
 	spa	polígono	n-m$n$n-m-sg	ron	poligon	n$n-nt
-	spa	política	n$n-f$n-f-sg	ron	politică	n$n-f
+	spa	política	n-f$n$n-f-sg	ron	politică	n$n-f
 	spa	ponencia	n-f$n$n-f-ND	ron	expozeu	n-nt
 RL	spa	exposición	n-f$n$n-f-sg	ron	expunere	n$n-f
 	spa	popularidad	n$n-f$n-f-sg	ron	popularitate	n$n-f
@@ -12652,7 +12652,7 @@ RL	spa	prestación	n$n-f$n-f-sg	ron	prestare	n$n-f
 	spa	yogur	n$n-m$n-m-sg	ron	iaurt	n-nt$n
 	spa	yate	n-m$n$n-m-sg	ron	iaht	n$n-nt
 	spa	yayo	n	ron	tataia	n
-	spa	yaya	n-m$n	ron	mamaia	n
+	spa	yaya	n	ron	mamaia	n
 	spa	yacimiento	n$n-m	ron	zăcământ	n-nt$n
 	spa	pestillo	n$n-m	ron	zăvor	n-nt
 	spa	wáter	n-m	ron	veceu	n-nt
@@ -12857,7 +12857,7 @@ RL	spa	vigilante	n-mf$n	ron	paznic	n-f
 	spa	viaje	n-m$n$n-m-sg	ron	călătorie	n-f$n
 	spa	viaducto	n$n-m	ron	viaduct	n$n-nt
 	spa	viabilidad	n$n-f-sg$n-f	ron	viabilitate	n$n-f
-	spa	vez	n-f$n-f-ND$n	ron	oară	n$n-f$n-f-ND
+	spa	vez	n-f$n$n-f-ND	ron	oară	n$n-f$n-f-ND
 	spa	veterano	n$n-GD	ron	veteran	n
 	spa	vestíbulo	n-m$n$n-m-ND	ron	vestibul	n-nt$n
 	spa	vestuario	n$n-m	ron	vestiar	n$n-nt
@@ -12944,7 +12944,7 @@ RL	spa	validez	n$n-f$n-f-ND	ron	valabilitate	n$n-f
 	spa	unanimidad	n$n-f$n-f-sg	ron	unanimitate	n$n-f
 	spa	umbral	n-m$n$n-m-ND	ron	prag	n-nt$n
 	spa	ubicación	n$n-f$n-f-sg	ron	situare	n$n-f
-	spa	túnica	n$n-f$n-f-ND	ron	tunică	n$n-f
+	spa	túnica	n-f$n$n-f-ND	ron	tunică	n$n-f
 	spa	túnel	n$n-m$n-m-sg	ron	tunel	n-nt$n
 	spa	tópico	n$n-m$n-m-ND	ron	topic	n$n-nt
 	spa	títere	n-m$n	ron	fantoșă	n-f
@@ -13061,7 +13061,7 @@ RL	spa	traficante	n-mf$n	ron	traficant	n-f
 	spa	total	n$n-m$n-m-ND	ron	total	n$n-nt
 	spa	tos	n-f$n$n-f-sg	ron	tuse	n$n-f-ND$n-f
 	spa	tortura	n$n-f$n-f-ND	ron	tortură	n$n-f
-	spa	tortuga	n$n-f$n-f-sg	ron	țestoasă	n$n-f
+	spa	tortuga	n-f$n$n-f-sg	ron	țestoasă	n$n-f
 	spa	tortilla	n$n-f	ron	omletă	n$n-f
 	spa	torta	n$n-f$n-f-ND	ron	turtă	n$n-f
 	spa	torreta	n$n-f	ron	turelă	n$n-f
@@ -13156,7 +13156,7 @@ RL	spa	temor	n-m$n$n-m-ND	ron	teamă	n-f
 	spa	telefonía	n$n-f$n-f-sg	ron	telefonie	n
 	spa	telediario	n$n-m$n-m-ND	ron	telejurnal	n-nt$n
 	spa	telecomunicación	n$n-f$n-f-sg	ron	telecomunicație	n$n-f
-	spa	tela	n$n-f$n-f-ND	ron	pânză	n$n-f
+	spa	tela	n-f$n$n-f-ND	ron	pânză	n$n-f
 	spa	tejido	n$n-m	ron	țesătură	n-f$n
 RL	spa	tejido	n$n-m	ron	țesut	n$n-nt
 	spa	tejado	n-m$n$n-m-ND	ron	acoperiș	n-nt
@@ -13269,7 +13269,7 @@ RL	spa	suicida	n-mf$n$n-mf-ND	ron	sinucigaș	n-f$n
 	spa	sugerencia	n$n-f$n-f-sg	ron	sugestie	n$n-f
 	spa	sufrimiento	n-m$n$n-m-sg	ron	suferință	n-f
 	spa	sufragio	n$n-m	ron	sufragiu	n-nt$n
-	spa	suelo	n$n-m$n-m-sg	ron	sol	n-nt$n
+	spa	suelo	n-m$n$n-m-sg	ron	sol	n-nt$n
 	spa	sueldo	n$n-m$n-m-sg	ron	leafă	n-f$n
 	spa	sargento	n$n-mf$n-mf-ND	ron	sergent	n$n-mf
 	spa	sangre	n-f$n$n-f-sg	ron	sânge	n-nt
@@ -13365,7 +13365,7 @@ RL	spa	ropa	n$n-f$n-f-sg	ron	rufă	n$n-f$n-f-pl
 	spa	romance	n$n-m$n-m-ND	ron	romanță	n-f$n
 	spa	rollo	n-m$n$n-m-ND	ron	rulou	n-nt$n
 	spa	rodillo	n$n-m	ron	rolă	n-f
-	spa	rodilla	n-f$n-f-sg$n	ron	genunchi	n-m$n
+	spa	rodilla	n-f$n$n-f-sg	ron	genunchi	n-m$n
 	spa	rodeo	n-m$n$n-m-pl	ron	ocoliș	n-nt
 	spa	rodaje	n-m$n	ron	rodaj	n-nt$n
 	spa	rock	n$n-m$n-m-sg	ron	rock	n$n-nt
@@ -13563,7 +13563,7 @@ RL	spa	aprendiz	n-mf$n	ron	ucenic	n-f
 	spa	teta	n$n-f	ron	țâță	n$n-f
 	spa	urraca	n$$n-f	ron	țarcă	n$n-f
 	spa	címbalo	n$n-m	ron	țambal	n-nt$n
-	spa	estanco	n$n-m	ron	tutungerie	n-f$n
+	spa	estanco	n-m$n	ron	tutungerie	n-f$n
 	spa	turbina	n$n-f	ron	turbină	n$n-f
 	spa	turba	n$n-f$n-f-ND	ron	turbă	n$n-f
 	spa	tour	n-m$n$n-m-ND	ron	tur	n-nt
@@ -13623,7 +13623,7 @@ RL	spa	disipación	n$n-f	ron	disipație	n$n-f
 	spa	mazorca	n$n-f	ron	știulete	n-m$n
 	spa	lucio	n-m$n	ron	știucă	n-f
 	spa	colmena	n-f$n	ron	stup	n-m$n
-	spa	abeja	n$n-f$n-f-ND	ron	albină	n$n-f
+	spa	abeja	n-f$n$n-f-ND	ron	albină	n$n-f
 	spa	verborrea	n$n-f	ron	poliloghie	n
 RL	spa	verborrea	n$n-f	ron	polologhie	n
 	spa	casaca	n$n-f	ron	mantă	n$n-f
@@ -13867,7 +13867,7 @@ RL	spa	garrote	n$n-m	ron	ciomag	n-nt
 	spa	cuarto	n-m$n$n-m-ND	ron	sfert	n-nt$n
 	spa	esferómetro	n-m	ron	sferometru	n-nt
 	spa	remolacha	n$n-f	ron	sfeclă	n$n-f
-	spa	pepino	n$n-m$n-m-pl	ron	castravete	n
+	spa	pepino	n-m$n$n-m-pl	ron	castravete	n
 	spa	desgarrón	n-m	ron	sfâșietură	n-f
 	spa	sesión	n$n-f-sg$n-f	ron	sesiune	n$n-f
 	spa	recesión	n$n-f$n-f-ND	ron	recesiune	n$n-f
@@ -14092,7 +14092,7 @@ RL	spa	cinturón	n-m$n$n-m-sg	ron	curea	n-f$n
 	spa	regola	n	ron	rigolă	n$n-f
 	spa	rima	n$n-f	ron	rimă	n$n-f
 	spa	ring	n$n-m	ron	ring	n-nt
-	spa	rábano	n$n-m	ron	ridiche	n-f
+	spa	rábano	n-m$n	ron	ridiche	n-f
 	spa	despilfarro	n$n-m	ron	risipă	n-f$n
 	spa	religión	n$n-f$n-f-sg	ron	religie	n
 	spa	relieve	n$n-m$n-m-ND	ron	relief	n-nt$n
@@ -14182,7 +14182,7 @@ RL	spa	reproducción	n$n-f$n-f-ND	ron	redare	n$n-f
 	spa	carretilla	n$n-f$n-f-ND	ron	roabă	n$n-f
 	spa	molinillo	n$n-m	ron	râșniță	n-f
 	spa	golondrina	n-f$n	ron	rândunică	n-f$n
-	spa	guerrero	n$n-m$n-m-sg	ron	războinic	n$n-m
+	spa	guerrero	n$n-m$n-m-sg$	ron	războinic	n$n-m
 	spa	desbarajuste	n$n-m	ron	răvășeală	n-f
 	spa	entrecruzamiento	n$n-m	ron	încrucișare	n-f
 	spa	malévolo	n	ron	răuvoitor	n$
@@ -14393,7 +14393,7 @@ RL	spa	pomada	n$n-f	ron	alifie	n$n-f
 	spa	piloto	n$n-mf$n-mf-ND	ron	pilot	n$n-m
 RL	spa	enchufe	n$n-m$n-m-sg	ron	pilă	n-f
 	spa	melocotón	n$n-m$n-m-sg	ron	piersică	n-f
-	spa	peine	n$n-m$n-m-sg	ron	pieptene	n$n-m
+	spa	peine	n-m$n$n-m-sg	ron	pieptene	n$n-m
 	spa	chaleco	n-m$n	ron	vestă	n-f
 	spa	juerga	n$n-f	ron	chef	n-nt$n
 	spa	parranda	n$n-f	ron	petrecere	n
@@ -14442,7 +14442,7 @@ RL	spa	perejil	n-m$n$n-m-sg	ron	pătrunjel	n-f
 	spa	panocha	n	ron	pănușă	n$n-f
 	spa	telaraña	n-f$n$n-f-ND	ron	păienjeniș	n-nt$n
 	spa	pagano	n$n-m	ron	păgân	n$
-	spa	piojo	n$n-m	ron	păduche	n
+	spa	piojo	n-m$n	ron	păduche	n
 	spa	formulación	n$n-f-sg$n-f	ron	formulare	n$n-f
 	spa	datación	n$n-f$n-f-ND	ron	datare	n$n-f
 	spa	embuste	n-m$n	ron	balivernă	n-f
@@ -14486,7 +14486,7 @@ RL	spa	parricida	n$n-mf	ron	paricid	n-m
 	spa	parapeto	n$n-m	ron	parapet	n-nt
 	spa	terraplén	n$n-m	ron	rambleu	n-nt
 	spa	pararrayos	n$n-m-sp$n-m	ron	paratrăznet	n-nt$n
-	spa	parásito	n$n-m$n-m-sg	ron	parazit	n
+	spa	parásito	n-m$n$n-m-sg	ron	parazit	n
 	spa	papelería	n$n-f	ron	papetărie	n
 	spa	papagayo	n-m$n	ron	papagal	n
 	spa	panoplia	n	ron	panoplie	n
@@ -14521,7 +14521,7 @@ RL	spa	oscilación	n$n-f$n-f-ND	ron	oscilare	n$n-f
 	spa	amigote	n$n-f-pl	ron	ortac	n
 	spa	ornamento	n$n-m	ron	ornament	n-nt$n
 	spa	huérfano	n$n-m-sg$n-m	ron	orfan	n
-	spa	ceguera	n$n-f$n-f-ND	ron	orbire	n-f$n
+	spa	ceguera	n-f$n$n-f-ND	ron	orbire	n-f$n
 	spa	naranjada	n$n-f	ron	oranjadă	n$n-f
 	spa	opulencia	n$n-f	ron	opulență	n$n-f
 	spa	honorario	n$n-m	ron	onorariu	n-nt$n
@@ -14544,7 +14544,7 @@ RL	spa	alfarería	n$n-f	ron	olărit	n-nt$n
 	spa	ovejita	n	ron	oiță	n$n-f
 	spa	ojiva	n$n-f-sg$n-f	ron	ogivă	n$n-f
 	spa	galgo	n$n-m	ron	ogar	n
-	spa	tuberculosis	n-f-sp$n-f$n	ron	tuberculoză	n-f$n
+	spa	tuberculosis	n-f-sp$n$n-f	ron	tuberculoză	n-f$n
 	spa	ofensiva	n$n-f$n-f-sg	ron	ofensivă	n$n-f
 	spa	desmembración	n-f$n	ron	dezmembrare	n-f$n
 	spa	convulsión	n$n-f	ron	convulsie	n$n-f
@@ -14585,7 +14585,7 @@ RL	spa	bronca	n$n-f$n-f-ND	ron	ocară	n$n-f
 	spa	objeción	n-f$n	ron	obiecție	n$n-f
 	spa	procedencia	n$n-f$n-f-ND	ron	obârșie	n$n-f
 	spa	oasis	n-m-sp$n-m$n	ron	oază	n-f
-	spa	huésped	n$n-GD	ron	musafir	n
+	spa	huésped	n$n-m$n-m-ND	ron	musafir	n
 	spa	forraje	n$n-m	ron	furaj	n-nt$n
 	spa	pastura	n-f$n$n-f-ND	ron	nutreț	n-nt
 	spa	nogal	n-m$n	ron	nuc	n
@@ -14800,7 +14800,7 @@ RL	spa	conquistador	n$n-m-sg	ron	conchistador	n
 RL	spa	emperador	n$n-m$n-m-ND	ron	crai	n
 RL	spa	arenque	n-m$n	ron	hering	n
 	spa	inquisidor	n$n-f-pl	ron	inchizitor	n
-RL	spa	chanchullero	n	ron	bișnițar	n
+RL	spa	chanchullero	n	ron	bișnițar	n$n-m
 RL	spa	tesorero	n$n-GD	ron	vistier	n
 RL	spa	tesorero	n$n-GD	ron	vistiernic	n
 	spa	tesorero	n$n-GD	ron	trezorier	n
@@ -14814,7 +14814,7 @@ RL	spa	predicador	n$n-GD$n-GD-pl	ron	propovăduitor	n
 RL	spa	grano	n-m$n$n-m-ND	ron	bob	n$n-nt
 RL	spa	capón	n$n-m	ron	clapon	n
 RL	spa	peletero	n$n-m	ron	pielar	n
-	spa	peletero	n$n-m	ron	blănar	n
+	spa	peletero	n$n-m	ron	blănar	n$n-m
 	spa	capullo	n$n-m	ron	boboc	n-m$n
 RL	spa	tallo	n$n-m$n-m-ND	ron	lujer	n$n-m
 	spa	anís	n$n-m	ron	anason	n
@@ -14826,7 +14826,7 @@ RL	spa	barril	n-m$n	ron	baril	n
 RL	spa	pintor	n$n-GD$n-GD-pl	ron	zugrav	n$n-f
 	spa	lutier	n	ron	lutier	n
 RL	spa	niño	n$n-m$n-m-sg	ron	prunc	n$n-m
-RL	spa	huésped	n$n-GD	ron	oaspete	n
+RL	spa	huésped	n$n-m$n-m-ND	ron	oaspete	n
 RL	spa	gitano	n$n-m$n-m-ND	ron	gitan	n$
 RL	spa	gitano	n$n-m$n-m-ND	ron	rom	n$$n-nt
 RL	spa	ratero	n$n-GD	ron	pungaș	n
@@ -15365,7 +15365,7 @@ LR	spa	jesuita	n$n-mf$n-mf-sg	ron	iezuit	n-GD
 RL	spa	jesuita	n$n-mf$n-mf-sg	ron	iezuit	n-m
 RL	spa	jesuita	n$n-mf$n-mf-sg	ron	iezuit	n-f
 	spa	pesebre	n$n-m	ron	iesle	n-f$n
-	spa	conejo	n$n-m$n-m-sg	ron	iepure	n$n-m
+	spa	conejo	n-m$n$n-m-sg	ron	iepure	n$n-m
 	spa	conejito	n	ron	iepuraș	n
 	spa	abaratamiento	n-m$n	ron	ieftinire	n-f
 	spa	cabrito	n$n-m	ron	ied	n
@@ -15396,7 +15396,7 @@ RL	spa	jesuita	n$n-mf$n-mf-sg	ron	iezuit	n-f
 	spa	hipersensibilidad	n$n-f	ron	hipersensibilitate	n$n-f
 	spa	hiperacidez	n	ron	hiperaciditate	n$n-f
 	spa	acidez	n$n-f$n-f-ND	ron	aciditate	n-f$n
-	spa	himen	n$n-m	ron	himen	n-nt$n
+	spa	himen	n-m$n	ron	himen	n-nt$n
 	spa	higrómetro	n$n-m	ron	higrometru	n-nt$n
 	spa	hiena	n$n-f	ron	hienă	n$n-f
 	spa	hidróxido	n$n-m	ron	hidroxid	n
@@ -15469,11 +15469,11 @@ RL	spa	balbuceo	n-m$n	ron	bolboroseală	n-f
 RL	spa	catalejo	n-m	ron	lunetă	n-f
 	spa	laparoscopio	n-m	ron	laparoscop	n-nt
 RL	spa	nube	n-f$n$n-f-ND	ron	nour	n-m
-RL	spa	lamento	n-m$n$n-m-ND	ron	jelanie	n-f
+RL	spa	lamento	n$n-m$n-m-ND	ron	jelanie	n-f
 RL	spa	eje	n-m$n$n-m-ND	ron	osie	n-f$n
 RL	spa	práctica	n$n-f$n-f-sg	ron	stagiu	n$n-nt
 RL	spa	práctica	n$n-f$n-f-sg	ron	practicare	n$n-f
-RL	spa	institución	n$n-f$n-f-sg	ron	așezământ	n$n-nt
+RL	spa	institución	n-f$n$n-f-sg	ron	așezământ	n$n-nt
 	spa	aguacero	n-m$n	ron	aversă	n-f
 	spa	florecimiento	n-m$n$n-m-ND	ron	înflorire	n-f$n
 RL	spa	victoria	n$n-f$n-f-sg	ron	izbândă	n$n-f
@@ -15859,7 +15859,7 @@ RL	spa	orujo	n-m$n	ron	rachiu	n-nt
 RL	spa	ocaso	n-m$n	ron	asfințit	n-nt$n
 RL	spa	arco	n-m$n$n-m-ND	ron	arcuș	n$n-nt
 RL	spa	costumbre	n-f$n$n-f-sg	ron	morav	n-nt$n
-RL	spa	mierda	n$n-f$n-f-ND	ron	rahat	n$n-nt
+RL	spa	mierda	n-f$n$n-f-ND	ron	rahat	n$n-nt
 	spa	orujo	n-m$n	ron	tescovină	n-f
 	spa	tarot	n$n-m	ron	tarot	n-nt
 	spa	derecho	n-m$n$n-m-sg	ron	drept	n$n-nt
@@ -15881,7 +15881,7 @@ RL	spa	escritura	n$n-f$n-f-sg	ron	scris	n-nt$n
 RL	spa	sentido	n-m$n$n-m-ND	ron	simț	n-nt$n
 	spa	pizca	n-f$n	ron	dram	n$n-nt
 	spa	friolera	n-f$n	ron	fleac	n-nt
-	spa	universo	n$n-m$n-m-ND	ron	univers	n-nt$n
+	spa	universo	n-m$n$n-m-ND	ron	univers	n-nt$n
 	spa	pelvis	n-f-sp$n$n-f	ron	pelvis	n-nt
 RL	spa	remedio	n$n-m$n-m-ND	ron	leac	n-nt$n
 	spa	boxeo	n-m$n	ron	box	n-nt$n-nt-sg
@@ -16374,7 +16374,7 @@ RL	spa	disolvente	n	ron	diluant	n
 	spa	deformidad	n-f$n	ron	diformitate	n$n-f
 	spa	maña	n$n-f	ron	dibăcie	n
 	spa	diarrea	n-f$n$n-f-sg	ron	diaree	n
-	spa	dialecto	n$n-m$n-m-ND	ron	dialect	n-nt$n
+	spa	dialecto	n-m$n$n-m-ND	ron	dialect	n-nt$n
 	spa	diagnóstico	n-m$n$n-m-sg	ron	diagnostic	n-nt$n
 	spa	pronóstico	n$n-m$n-m-sg	ron	pronostic	n-nt$n
 	spa	diabetes	n-f-sp$n$n-f	ron	diabet	n-nt$n-nt-ND
@@ -16502,8 +16502,8 @@ RL	spa	acreedor	n$n-m-sg	ron	creanțier	n
 	spa	arbolado	n$n-m	ron	crâng	n-nt
 RL	spa	guión	n$n-m$n-m-sg	ron	cratimă	n-f$n
 	spa	cráter	n$n-m	ron	crater	n-nt$n
-	spa	carpa	n$n-f	ron	crap	n-m$n
-RL	spa	carpa	n$n-f	ron	cort	n-nt$n
+	spa	carpa	n-f$n	ron	crap	n-m$n
+RL	spa	carpa	n-f$n	ron	cort	n-nt$n
 	spa	toldo	n-m$n	ron	prelată	n-f$n
 	spa	cráneo	n$n-m	ron	craniu	n-nt$n
 	spa	calambre	n-m$n	ron	crampă	n-f
@@ -16550,7 +16550,7 @@ RL	spa	revisionista	n-mf	ron	revizionist	n-f
 	spa	coeficiente	n$n-m$n-m-sg	ron	coeficient	n
 	spa	cóctel	n$n-m$n-m-ND	ron	cocteil	n-nt$n
 	spa	pocilga	n-f$n	ron	cocină	n-f$n
-	spa	cobaya	n-f$n	ron	cobai	n$n-f
+	spa	cobaya	n-mf$n	ron	cobai	n$n-f
 	spa	melena	n$n-f$n-f-ND	ron	coamă	n$n-f
 	spa	coágulo	n$n-m	ron	coagul	n
 	spa	grosella	n-f$n	ron	coacăză	n$n-f
@@ -16601,7 +16601,7 @@ RL	spa	guitarrista	n$n-mf	ron	chitarist	n-f$n
 	spa	artimaña	n-m	ron	șiretlic	n-nt$n
 	spa	cuestionario	n-m$n$n-m-sg	ron	chestionar	n-nt$n
 	spa	kebab	n-m$n$n-m-sg	ron	chebap	n-nt
-	spa	cuajo	n-m$n	ron	cheag	n$n-nt
+	spa	cuajo	n-m$n	ron	cheag	n-nt$n
 	spa	cesárea	n	ron	cezariană	n$n-f
 	spa	tacita	n	ron	ceșcuță	n-f$n
 	spa	convicción	n$n-f$n-f-sg	ron	convingere	n$n-f
@@ -16615,7 +16615,7 @@ RL	spa	guitarrista	n$n-mf	ron	chitarist	n-f$n
 	spa	fragilidad	n$n-f$n-f-ND	ron	fragilitate	n$n-f
 	spa	ceremonial	n$n-m	ron	ceremonial	n-nt
 	spa	cereal	n-m$n$n-m-ND	ron	cereală	n-f
-	spa	ciervo	n$n-m$n-m-sg	ron	cerb	n$n-m
+	spa	ciervo	n-m$n$n-m-sg	ron	cerb	n$n-m
 	spa	cierva	n	ron	căprioară	n$n-f
 	spa	central	n$n-f$n-f-ND	ron	centrală	n$n-f
 	spa	central termoeléctrica	n	ron	termocentrală	n$n-f
@@ -16713,7 +16713,7 @@ RL	spa	vacaciones	n-f-pl$n$n-f	ron	concediu	n$n-nt$n-nt-sg
 	spa	forro	n-m$n	ron	căptușeală	n-f
 	spa	capitanía	n$n-f	ron	căpitănie	n
 	spa	cabecilla	n-mf$n	ron	căpetenie	n$n-f
-	spa	cabecera	n-f$n$n-f-ND	ron	căpătâi	n-nt
+	spa	cabecera	n$n-f$n-f-ND	ron	căpătâi	n-nt
 	spa	camello	n$n-m$n-m-sg	ron	cămilă	n-f
 	spa	tapita	n-f	ron	căpăcel	n-m
 	spa	usura	n$n-f	ron	cămătărie	n
@@ -16725,7 +16725,7 @@ RL	spa	vacaciones	n-f-pl$n$n-f	ron	concediu	n$n-nt$n-nt-sg
 	spa	gorrito	n$n-m	ron	căciuliță	n-f
 	spa	gorro	n-m$n	ron	căciulă	n-f$n
 	spa	hospedaje	n-m$n	ron	găzduire	n$n-f
-	spa	alojamiento	n$n-m$n-m-sg	ron	cazare	n-f$n
+	spa	alojamiento	n-m$n$n-m-sg	ron	cazare	n-f$n
 	spa	nicho	n-m$n	ron	nișă	n-f
 RL	spa	nicho	n-m$n	ron	loc de veci	n-nt
 	spa	bañador	n$n-m$n-m-sg	ron	costum de baie	n-nt
@@ -16747,7 +16747,7 @@ RL	spa	caja	n$n-f$n-f-sg	ron	casierie	n
 	spa	cartílago	n-m$n	ron	cartilaj	n-nt$n
 RL	spa	cartílago	n-m$n	ron	cartilagiu	n-nt$n
 	spa	carrocería	n$n-f	ron	caroserie	n
-	spa	caries	n$n-f-sp$n-f	ron	carie	n
+	spa	caries	n$n-f-sp$n-f	ron	carie	n$n-f-sg
 LR	spa	arribista	n-mf	ron	arivist	n-GD
 RL	spa	arribista	n-mf	ron	arivist	n-m
 RL	spa	arribista	n-mf	ron	arivist	n-f
@@ -16789,9 +16789,9 @@ RL	spa	broche	n$n-m	ron	broșă	n-f$n
 	spa	cancillería	n$n-f	ron	cancelarie	n
 	spa	calumnia	n$n-f$n-f-ND	ron	calomnie	n
 	spa	cualificación	n$n-f$n-f-ND	ron	calificare	n$n-f
-LR	spa	pelagatos	n-mf$n	ron	calic	n-GD
-RL	spa	pelagatos	n-mf$n	ron	calic	n-m
-RL	spa	pelagatos	n-mf$n	ron	calic	n-f
+LR	spa	pelagatos	n-mf$n	ron	calic	n-GD$n-GD-ND
+RL	spa	pelagatos	n-mf$n	ron	calic	n-m$n-m-sg
+RL	spa	pelagatos	n-mf$n	ron	calic	n-f$n-f-sg
 	spa	computación	n-f$n	ron	calculare	n-f$n
 	spa	horma	n-f$n$n-f-ND	ron	calapod	n$n-nt
 	spa	calamidad	n$n-f$n-f-ND	ron	calamitate	n$n-f
@@ -16840,7 +16840,7 @@ RL	spa	algodón	n-m$n$n-m-sg	ron	vată	n-f
 	spa	búho	n-m$n	ron	bufniță	n-f
 	spa	bufón	n$n-f-pl	ron	bufon	n
 	spa	pudín	n-m$n$n-m-sg	ron	budincă	n-f
-	spa	enredo	n$n-m	ron	bucluc	n-nt
+	spa	enredo	n-m$n	ron	bucluc	n-nt
 	spa	ramillete	n-m$n	ron	buchet	n-nt
 	spa	mariquita	n$n-f	ron	buburuză	n$n-f
 	spa	divieso	n-m	ron	buboi	n-nt
@@ -16996,7 +16996,7 @@ RL	spa	haber	n$n-m	ron	avuție	n-f$n
 	spa	avería	n$n-f$n-f-ND	ron	avarie	n
 	spa	avaro	n$n-GD	ron	avar	n
 RL	spa	vanguardia	n$n-f	ron	avangardă	n$n-f
-	spa	avalancha	n-f$n	ron	avalanșă	n$n-f
+	spa	avalancha	n$n-f	ron	avalanșă	n$n-f
 	spa	autovía	n$n-f	ron	autostradă	n$n-f
 	spa	autoservicio	n$n-m	ron	autoservire	n-f$n
 	spa	automatización	n$n-f	ron	automatizare	n$n-f
@@ -17354,7 +17354,7 @@ RL	spa	inclinación	n-f$n$n-f-ND	ron	aplecare	n$n-f
 	spa	validación	n$n-f	ron	validare	n$n-f
 	spa	antropofagia	n$n-f	ron	antropofagie	n$n-f
 	spa	resoplo	n-m	ron	răsuflare	n-f
-	spa	caníbal	n$n-mf	ron	canibal	n
+	spa	caníbal	n$n-mf	ron	canibal	n-m$n
 	spa	canibalismo	n$n-m	ron	canibalism	n-nt$n
 	spa	solomillo	n$n-m	ron	antricot	n-nt
 LR	spa	contratista	n-mf$n$n-mf-sg	ron	antreprenor	n-GD
@@ -17450,7 +17450,7 @@ RL	spa	alivio	n$n-m$n-m-ND	ron	alinare	n-f$n
 	spa	coartada	n-f$n	ron	alibi	n-nt
 	spa	aleación	n-f$n	ron	aliaj	n-nt$n
 	spa	álgebra	n$n-f$n-f-ND	ron	algebră	n$n-f
-	spa	alga	n$n-f	ron	algă	n$n-f
+	spa	alga	n-f$n	ron	algă	n$n-f
 	spa	alfabetización	n$n-f$n-f-sg	ron	alfabetizare	n$n-f
 	spa	abecedario	n-m$n	ron	abecedar	n-nt$n
 	spa	alerta	n$n-f-sg$n-f	ron	alertă	n-f$n
@@ -17506,7 +17506,7 @@ RL	spa	agudeza	n$n-f	ron	ascuțime	n$n-f
 RL	spa	fusión	n$n-f$n-f-ND	ron	contopire	n$n-f
 	spa	conjugación	n$n-f	ron	conjugare	n$n-f
 	spa	inmolación	n	ron	imolație	n$n-f
-	spa	bastarno	n	ron	bastarn	n
+	spa	bastarno	n	ron	bastarn	n$n-m
 	spa	conquista	n$n-f	ron	cucerire	n$n-f
 RL	spa	caución	n$n-f	ron	cauțiune	n$n-f
 RL	spa	paramento	n$n-m$n-m-sg	ron	valtrap	n-nt$n
@@ -17565,7 +17565,7 @@ RL	spa	cuarto	n-m$n$n-m-ND	ron	pătrime	n-f$n
 	spa	erisipela	n-f	ron	erizipel	n-nt
 	spa	endodermo	n$n-m	ron	endoderm	n-nt$n
 	spa	exudado	n-m$n	ron	exsudat	n-nt
-	spa	esófago	n$n-m	ron	esofag	n-nt
+	spa	esófago	n-m$n	ron	esofag	n-nt
 	spa	epistaxis	n-f	ron	epistaxis	n-nt
 	spa	epigastrio	n-m$n	ron	epigastru	n-nt
 	spa	hipocondrio	n-m	ron	hipocondru	n-nt
@@ -17634,7 +17634,7 @@ RL	spa	suerte	n$n-f$n-f-sg	ron	baftă	n$n-f
 	spa	inapetencia	n	ron	inapetență	n$n-f
 	spa	apetencia	n$n-f	ron	apetență	n$n-f
 	spa	latencia	n$n-f	ron	latență	n$n-f
-	spa	pierna	n$n-f$n-f-ND	ron	gambă	n$n-f
+	spa	pierna	n-f$n$n-f-ND	ron	gambă	n$n-f
 RL	spa	laguna	n$n-f$n-f-sg	ron	lacună	n$n-f
 	spa	funda	n-f$n	ron	husă	n$n-f
 	spa	puertecita	n	ron	portiță	n$n-f
@@ -17658,7 +17658,7 @@ RL	spa	fluidez	n$n-f$n-f-sg	ron	fluență	n$n-f
 	spa	copa	n-f$n$n-f-ND	ron	cupă	n$n-f
 	spa	supercopa	n$n-f	ron	supercupă	n$n-f
 	spa	tarde	n-f$n$n-f-ND	ron	după-amiază	n-f$n$n-f-ND
-	spa	poema	n$n-m$n-m-ND	ron	poemă	n$n-f
+	spa	poema	n-m$n$n-m-ND	ron	poemă	n$n-f
 	spa	congoja	n$n-f$n-f-ND	ron	jale	n
 RL	spa	mâhnire	n	ron	jale	n
 RL	spa	escarcha	n-f$n	ron	brumă	n$n-f
@@ -17786,16 +17786,16 @@ RL	spa	cortesía	n$n-f$n-f-sg	ron	curtenie	n
 	spa	chocolatera	n	ron	ciocolatieră	n
 	spa	heparina	n$n-f	ron	heparină	n$n-f
 	spa	visera	n-f$n	ron	vizieră	n$n-f
-	spa	gorra	n$n-f	ron	șapcă	n-f$n
-RL	spa	gorra	n$n-f	ron	baretă	n-f$n
+	spa	gorra	n-f$n	ron	șapcă	n-f$n
+RL	spa	gorra	n-f$n	ron	baretă	n-f$n
 	spa	posfecha	n	ron	postdată	n$n-f
 	spa	luminosidad	n$n-f$n-f-ND	ron	luminozitate	n$n-f
 	spa	ingenuidad	n$n-f	ron	ingenuitate	n$n-f
 RL	spa	ingenuidad	n$n-f	ron	naivitate	n$n-f
 	spa	tacha	n-f$n	ron	hibă	n$n-f
-	spa	cuerda	n$n-f$n-f-ND	ron	coardă	n$n-f
-RL	spa	cuerda	n$n-f$n-f-ND	ron	strună	n$n-f
-RL	spa	cuerda	n$n-f$n-f-ND	ron	frânghie	n
+	spa	cuerda	n-f$n$n-f-ND	ron	coardă	n$n-f
+RL	spa	cuerda	n-f$n$n-f-ND	ron	strună	n$n-f
+RL	spa	cuerda	n-f$n$n-f-ND	ron	frânghie	n
 	spa	piedra	n-f$n$n-f-sg	ron	piatră	n$n-f
 RL	spa	etapa	n$n-f$n-f-sg	ron	manșă	n$n-f
 RL	spa	facilidad	n$n-f$n-f-sg	ron	ușurință	n$n-f
@@ -19139,11 +19139,11 @@ RL	spa	repelente	adj-mf$adj$adj-mf-sg	ron	spurcat	adj-fn
 	spa	esporádico	adj$adj-m-sg	ron	sporadic	$adj
 	spa	fricativo	adj$adj-m-sg	ron	spirant	$adj
 	spa	espinoso	adj$adj-m-sg	ron	spinos	$adj
-LR	spa	espinal	adj-mf$adj$adj-mf-sg	ron	spinal	adj-GD
-RL	spa	espinal	adj-mf$adj$adj-mf-sg	ron	spinal	adj-m$$adj
-RL	spa	espinal	adj-mf$adj$adj-mf-sg	ron	spinal	adj-f
-RL	spa	espinal	adj-mf$adj$adj-mf-sg	ron	spinal	adj-mn
-RL	spa	espinal	adj-mf$adj$adj-mf-sg	ron	spinal	adj-fn
+LR	spa	espinal	adj$adj-mf$adj-mf-sg	ron	spinal	adj-GD
+RL	spa	espinal	adj$adj-mf$adj-mf-sg	ron	spinal	adj-m$$adj
+RL	spa	espinal	adj$adj-mf$adj-mf-sg	ron	spinal	adj-f
+RL	spa	espinal	adj$adj-mf$adj-mf-sg	ron	spinal	adj-mn
+RL	spa	espinal	adj$adj-mf$adj-mf-sg	ron	spinal	adj-fn
 	spa	asustadizo	adj$adj-m-sg	ron	sperios	$adj
 LR	spa	espectral	adj$adj-mf$adj-mf-sg	ron	spectral	adj-GD
 RL	spa	espectral	adj$adj-mf$adj-mf-sg	ron	spectral	adj-m$$adj
@@ -19756,11 +19756,11 @@ RL	spa	terrenal	adj$adj-mf$adj-mf-pl	ron	pământesc	adj-m-pl$$adj
 	spa	terrenal	adj-mf-sg	ron	pământesc	adj-f-sg
 	spa	pagano	adj$adj-m-sg	ron	păgân	adj
 	spa	cristiano	n$n-m-sg$n-m	ron	creștin	n$
-LR	spa	silvestre	adj-mf$adj-mf-sg$adj	ron	silvestru	$adj-GD
-RL	spa	silvestre	adj-mf$adj-mf-sg$adj	ron	silvestru	adj-m
-RL	spa	silvestre	adj-mf$adj-mf-sg$adj	ron	silvestru	adj-f
-RL	spa	silvestre	adj-mf$adj-mf-sg$adj	ron	silvestru	adj-mn
-RL	spa	silvestre	adj-mf$adj-mf-sg$adj	ron	silvestru	adj-fn
+LR	spa	silvestre	adj-mf$adj$adj-mf-sg	ron	silvestru	$adj-GD
+RL	spa	silvestre	adj-mf$adj$adj-mf-sg	ron	silvestru	adj-m
+RL	spa	silvestre	adj-mf$adj$adj-mf-sg	ron	silvestru	adj-f
+RL	spa	silvestre	adj-mf$adj$adj-mf-sg	ron	silvestru	adj-mn
+RL	spa	silvestre	adj-mf$adj$adj-mf-sg	ron	silvestru	adj-fn
 	spa	piojoso	adj	ron	păduchios	$adj
 	spa	pecador	adj$adj-m-sg	ron	păcătos	adj
 	spa	pecador	n$n-GD	ron	păcătos	n$
@@ -21315,7 +21315,7 @@ RL	spa	insensible	adj-mf$adj$adj-mf-sg	ron	insensibil	adj-mn
 RL	spa	insensible	adj-mf$adj$adj-mf-sg	ron	insensibil	adj-fn
 	spa	inoportuno	adj$adj-m-sg	ron	inoportun	adj$
 RL	spa	inquietud	n$n-f-pl$n-f	ron	inchietudine	n
-	spa	tinta	n$n-f$n-f-sg	ron	cerneală	n$n-f
+	spa	tinta	n-f$n$n-f-sg	ron	cerneală	n$n-f
 	spa	circunspección	n$n-f	ron	circumspecție	n$n-f
 	spa	opresión	n$n-f$n-f-sg	ron	opresiune	n$n-f
 RL	spa	opresión	n$n-f$n-f-sg	ron	oprimare	n$n-f
@@ -22943,8 +22943,8 @@ RL	spa	equipamiento	n$n-m$n-m-ND	ron	echipare	n-f$n
 	spa	ahondar	vblex	ron	adânci	vblex
 	spa	profundizar	vblex	ron	aprofunda	vblex
 	spa	engatusar	vblex	ron	ademeni	vblex
-	spa	adherir	vblex	ron	adera	vblex
-RL	spa	adherir	vblex	ron	ralia	vblex
+	spa	adherir	vblex$vblex-pron	ron	adera	vblex
+RL	spa	adherir	vblex$vblex-pron	ron	ralia	vblex
 	spa	afiliar	vblex	ron	afilia	vblex
 	spa	autentificar	vblex	ron	autentifica	vblex
 	spa	legalizar	vblex	ron	legaliza	vblex
@@ -23122,7 +23122,7 @@ RL	spa	gorro	n-m$n	ron	bonetă	n-f$n
 RL	spa	escape	n-m$n	ron	scăpare	n-f
 RL	spa	taco	n$n-m	ron	tac	n-nt$n
 	spa	bombardero	n$n-m$n-m-sg	ron	bombardier	n-nt
-	spa	briefing	n$n-m	ron	briefing	n-nt$n
+	spa	briefing	n$n-m	ron	briefing	n-nt
 	spa	perno	n-m$n	ron	bolț	n-nt
 	spa	andrajo	n$n-m	ron	boarfă	n-f
 	spa	bluf	n-m	ron	bluf	n-nt
@@ -23429,7 +23429,7 @@ RL	spa	sudar	vblex	ron	năduși	vblex
 	spa	pescar	vblex	ron	pescui	vblex
 	spa	en ayunas	adv	ron	pe nemâncate	adv
 	spa	rumorear	vblex	ron	zvoni	vblex
-	spa	freír	vblex	ron	prăji	vblex
+	spa	freír	vblex$vblex-pron	ron	prăji	vblex
 	spa	vaticinar	vblex	ron	prevesti	vblex
 	spa	profetizar	vblex	ron	profeți	vblex
 RL	spa	profetizar	vblex	ron	profetiza	vblex
@@ -23529,7 +23529,7 @@ RL	spa	edificar	vblex	ron	zidi	vblex
 	spa	abuchear	vblex	ron	huidui	vblex
 	spa	ovacionar	vblex	ron	ovaționa	vblex
 	spa	aclamar	vblex	ron	aclama	vblex
-RL	spa	vida	n$n-f$n-f-sg	ron	trai	n$n-nt
+RL	spa	vida	n-f$n$n-f-sg	ron	trai	n$n-nt
 	spa	torturar	vblex	ron	tortura	vblex
 	spa	regatear	vblex	ron	tocmi	vblex
 	spa	telefonear	vblex	ron	telefona	vblex
@@ -23946,7 +23946,7 @@ RL	spa	fruncir	vblex	ron	încreți	vblex
 RL	spa	fruncir	vblex	ron	plisa	vblex
 RL	spa	cometer	vblex	ron	săvârși	vblex
 RL	spa	proceder	vblex	ron	decurge	vblex
-RL	spa	reunir	vblex	ron	întruni	vblex
+RL	spa	reunir	vblex$vblex-pron	ron	întruni	vblex
 RL	spa	significar	vblex	ron	semnifica	vblex
 	spa	diversificar	vblex	ron	diversifica	vblex
 	spa	versificar	vblex	ron	versifica	vblex
@@ -24201,7 +24201,7 @@ RL	spa	detección	n$n-f$n-f-sg	ron	depistare	n$n-f
 	spa	fauna	n$n-f$n-f-sg	ron	faună	n$n-f
 RL	spa	urraca	n$$n-f	ron	coțofană	n$n-f
 RL	spa	vestido	n-m$n$n-m-sg	ron	rochiță	n-f
-RL	spa	cobre	n$n-m$n-m-sg	ron	aramă	n-f$n
+RL	spa	cobre	n-m$n$n-m-sg	ron	aramă	n-f$n
 	spa	guarida	n-f$n$n-f-ND	ron	bârlog	n-nt
 	spa	fábula	n$n-f$n-f-sg	ron	fabulă	n-f$n
 	spa	novia	n$n-m-sg	ron	mireasă	n$n-f
@@ -24307,7 +24307,7 @@ RL	spa	planta	n$n-f$n-f-ND	ron	talpă	n$n-f
 LR	spa	documentalista	n$n-mf	ron	documentarist	n-GD
 RL	spa	documentalista	n$n-mf	ron	documentarist	n-m
 RL	spa	documentalista	n$n-mf	ron	documentarist	n-f
-RL	spa	acordar	vblex	ron	aduce	vblex
+RL	spa	acordar	vblex$vblex-pron	ron	aduce	vblex
 	spa	recordar	vblex	ron	reaminti	vblex
 RL	spa	acceder	vblex	ron	accesa	vblex
 RL	spa	acceder	vblex	ron	accede	vblex
@@ -24379,17 +24379,17 @@ RL	spa	latiguear	vblex	ron	plesni	vblex
 	spa	estar	vblex$vblex-inf	ron	sta	vblex
 RL	spa	estar	vblex$vblex-inf	ron	sta	vblex
 RL	spa	estar	vblex$vblex-inf	ron	sta	vblex
-	spa	volver	vblex	ron	revedea	vblex
+	spa	volver	vblex$vblex-pron	ron	revedea	vblex
 	spa	reducir	vblex	ron	înjumătăți	vblex
 	spa	poner	vblex	ron	blegi	vblex
 	spa	cazar	vblex	ron	bracona	vblex
 	spa	mantener	vblex	ron	coresponda	vblex
 	spa	dar	vblex	ron	lustrui	vblex
-	spa	volver	vblex	ron	reintra	vblex
+	spa	volver	vblex$vblex-pron	ron	reintra	vblex
 	spa	poblar	vblex	ron	împăduri	vblex
-	spa	volver	vblex	ron	readuce	vblex
-	spa	volver	vblex	ron	reauzi	vblex
-	spa	volver	vblex	ron	redeveni	vblex
+	spa	volver	vblex$vblex-pron	ron	readuce	vblex
+	spa	volver	vblex$vblex-pron	ron	reauzi	vblex
+	spa	volver	vblex$vblex-pron	ron	redeveni	vblex
 	spa	meter	vblex	ron	gafa	vblex
 	spa	dar	vblex	ron	externa	vblex
 	spa	quedar	vblex	ron	încremeni	vblex
@@ -24402,7 +24402,7 @@ RL	spa	estar	vblex$vblex-inf	ron	sta	vblex
 RL	spa	salir	vblex	ron	ajunge	vblex
 	spa	salir	vblex	ron	ieși	vblex
 	spa	llegar	vblex	ron	ajunge	vblex
-	spa	pegar	vblex	ron	lipi	vblex
+	spa	pegar	vblex$vblex-pron	ron	lipi	vblex
 	spa	tener	vblex$vblex-pis	ron	sta	vblex
 	spa	sacar	vblex	ron	trage	vblex
 	spa	pillar	vblex	ron	trage	vblex

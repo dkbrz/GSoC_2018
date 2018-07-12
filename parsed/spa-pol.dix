@@ -25,14 +25,14 @@ LR	spa	el	det-def$det-def-GD$det$det-def-GD-ND	pol		num$num-ord$
 	spa	para	pr	pol	do	pr
 	spa	entre	pr	pol	między	pr
 	spa	fuera	pr	pol	poza	pr
-	spa	alguno	prn$prn-tn-m-pl$prn-tn$prn-tn-m	pol	niektóry	prn$prn-ind$prn-ind-mp
-	spa	alguno	prn$prn-tn-m-pl$prn-tn$prn-tn-m	pol	jakiś	prn$prn-ind$prn-ind-mp
+	spa	alguno	prn$prn-tn-GD-pl$prn-tn$prn-tn-GD	pol	niektóry	prn$prn-ind$prn-ind-mp
+	spa	alguno	prn$prn-tn-GD-pl$prn-tn$prn-tn-GD	pol	jakiś	prn$prn-ind$prn-ind-mp
 	spa	ninguno	prn-tn$prn$prn-tn-GD-sg$prn-tn-GD	pol	żaden	prn$prn-ind$prn-ind-mp
 	spa	se	prn-enc-ref-p3-mf-sp$prn$prn-enc$prn-enc-ref	pol	się	prn$prn-ref
 	spa	todo	prn$prn-tn$prn-tn-m$prn-tn-m-sg	pol	wszyscy	prn-ind-nm-pl$prn$prn-ind
 	spa	qué	prn$prn-itg$prn-itg-mf-sg$prn-itg-mf	pol	co	prn$prn-itg
-	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg	pol	kto	prn$prn-itg$prn-itg-mp
-	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg	pol	ktoś	prn$prn-ind$prn-ind-mp
+	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg	pol	kto	prn$prn-itg$prn-itg-mp
+	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m	pol	ktoś	prn$prn-ind$prn-ind-mp
 	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn	pol	nikt	prn$prn-ind$prn-ind-mp
 	spa	nada	prn-tn-nt$prn$prn-tn	pol	nic	prn$prn-ind$prn-ind-nt
 	spa	algo	prn$prn-tn$prn-tn-nt-sg$prn-tn-nt	pol	coś	prn$prn-ind
@@ -42,14 +42,14 @@ LR	spa	el	det-def$det-def-GD$det$det-def-GD-ND	pol		num$num-ord$
 	spa	todo el mundo	prn$prn-tn-m-sg$prn-tn-m	pol	wszyscy	prn-ind-nm-pl$prn$prn-ind
 	spa	un	num$num-GD	pol	jeden	num$num-mp
 	spa	dos	num$num-mf$num-mf-sp$	pol	dwa	num$num-mp
-	spa	tres	num$$num-mf-sp	pol	trzy	num$num-mp
+	spa	tres	num$num-mf-sp$	pol	trzy	num$num-mp
 	spa	cuatro	num$$num-mf-sp	pol	cztery	num$num-mp
 	spa	cinco	num$num-mf-sp$	pol	pięć	num$num-qnt$num-qnt-mp
 	spa	seis	num$num-mf-sp$	pol	sześć	num$num-qnt$num-qnt-mp
 	spa	siete	num$$num-mf-sp	pol	siedem	num$num-qnt$num-qnt-mp
 	spa	ocho	num$$num-mf-sp	pol	osiem	num$num-qnt$num-qnt-mp
 	spa	nueve	num$$num-mf-sp	pol	dziewięć	num$num-qnt$num-qnt-mp
-	spa	diez	num$num-mf$$num-mf-sp	pol	dziesięć	num$num-qnt$num-qnt-mp
+	spa	diez	num$num-mf$num-mf-sp$	pol	dziesięć	num$num-qnt$num-qnt-mp
 	spa	abreviatura	n$n-f$n-f-sg	pol	skrót	n-mi$n
 	spa	accidente	n-m$n$n-m-sg	pol	wypadek	n-mi
 	spa	acción	n-f$n$n-f-sg	pol	działanie	n-nt$n
@@ -117,7 +117,7 @@ LR	spa	el	det-def$det-def-GD$det$det-def-GD-ND	pol		num$num-ord$
 	spa	desinencia	n$n-f	pol	formant	n-mi
 	spa	desviación	n-f$n$n-f-ND	pol	odstępstwo	n-nt
 	spa	día	n-m$n$n-m-sg	pol	dzień	n-mi$n
-	spa	dialecto	n$n-m$n-m-ND	pol	dialekt	n-mi$n
+	spa	dialecto	n-m$n$n-m-ND	pol	dialekt	n-mi$n
 	spa	dialectología	n$n-f	pol	dialektologia	n-f
 	spa	dicción	n$n-f	pol	dykcja	n-f
 	spa	diccionario	n-m$n$n-m-ND	pol	słownik	n-mi$n
@@ -199,7 +199,7 @@ LR	spa	el	det-def$det-def-GD$det$det-def-GD-ND	pol		num$num-ord$
 	spa	momento	n-m$n$n-m-sg	pol	chwila	n-f$n
 	spa	morfología	n$n-f$n-f-ND	pol	morfologia	n-f
 	spa	motivación	n$n-f$n-f-sg	pol	uzasadnienie	n-nt
-	spa	mundo	n$n-m$n-m-sg	pol	świat	n-mi$n
+	spa	mundo	n-m$n$n-m-sg	pol	świat	n-mi$n
 	spa	neologismo	n$n-m	pol	neologizm	n-mi
 	spa	nombre	n-m$n$n-m-sg	pol	nazwa	n-f$n
 	spa	nominativo	n$n-m	pol	mianownik	n-mi$n
@@ -233,7 +233,7 @@ LR	spa	el	det-def$det-def-GD$det$det-def-GD-ND	pol		num$num-ord$
 	spa	predicado	n-m$n	pol	orzeczenie	n-nt$n
 	spa	prefijo	n-m$n	pol	prefiks	n-mi
 	spa	prefijo	n-m$n	pol	przedrostek	n-mi
-	spa	pregunta	n$n-f$n-f-ND	pol	pytanie	n-nt$n
+	spa	pregunta	n-f$n$n-f-ND	pol	pytanie	n-nt$n
 	spa	preposición	n$n-f$n-f-ND	pol	przyimek	n-mi
 	spa	préstamo	n$n-m$n-m-ND	pol	zapożyczenie	n-nt$n
 	spa	proceso	n$n-m$n-m-ND	pol	proces	n-mi$n

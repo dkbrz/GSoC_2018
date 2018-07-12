@@ -45,7 +45,7 @@
 RL	fra	abattre	vblex	por	derrotar	vblex
 	fra	Abaunza	np	por	Abaunza	np
 	fra	Abaurreas	np	por	Abaurreas	np
-	fra	Abba	np	por	Abba	np
+	fra	Abba	np$np-al	por	Abba	np
 	fra	Abbas	np$np-ant-m-sg$np-ant	por	Abbas	np
 	fra	abbaye	n-f$n	por	abadia	n
 LR	fra	à bientot	ij	por	até depois	ij
@@ -68,7 +68,7 @@ LR	fra	à coté	adv	por	perto	adv
 	fra	à dedans	adv	por	adentro	adv
 	fra	à défaut de	pr	por	a falta de	pr
 	fra	à dehors	adv	por	fora	adv
-	fra	Abdel	np$np-ant$np-ant-m-sg	por	Abdel	np
+	fra	Abdel	np-ant-m-sg$np$np-ant	por	Abdel	np
 	fra	Abdelaziz	np$np-ant-m-sg	por	Abdelaziz	np
 	fra	Abdelghani	np	por	Abdelghani	np
 	fra	Abdelhadi	np	por	Abdelhadi	np
@@ -102,7 +102,7 @@ LR	fra	à coté	adv	por	perto	adv
 	fra	Abed	np	por	Abed	np
 	fra	abeille	n$n-f$n-f-ND	por	ferrão	n$n-m
 	fra	abeille	n$n-f$n-f-ND	por	ferrão	n$n-m
-	fra	Abel	np-ant$np$np-ant-m-sg	por	Abel	np
+	fra	Abel	np-ant$np-ant-m-sg$np	por	Abel	np
 	fra	Abellán	np$np-cog-mf-sp$np-cog	por	Abellán	np
 	fra	Abenza	np$np-cog-mf-sp	por	Abenza	np
 	fra	Abera	np	por	Abera	np
@@ -122,7 +122,7 @@ LR	fra	abime	n-f$n	por	abismo	n$n-m
 LR	fra	abimer	vblex	por	estragar	vblex
 	fra	abîmer	vblex	por	estragar	vblex
 RL	fra	abîmer	vblex	por	abismar	vblex
-	fra	Abkhazie	np	por	Abecásia	np
+	fra	Abkhazie	np$np-top-f-sg	por	Abecásia	np
 	fra	à la demande de	pr	por	a pedido de	pr
 	fra	à la fin de	pr	por	no final de	pr
 	fra	à la fois	adv	por	ao mesmo tempo	adv
@@ -405,7 +405,7 @@ RL	fra	actuel	adj$adj-f$$adj-f-sg	por	actual	adj$adj-mf-ND
 	fra	Adamns	np	por	Adamns	np
 	fra	Adams	np$np-cog-mf-sp$np-cog	por	Adams	np
 	fra	Adamstown	np	por	Adamstown	np
-	fra	Adana	np	por	Adana	np
+	fra	Adana	np$np-al	por	Adana	np
 	fra	Adán	np$np-cog$np-cog-mf-sp	por	Adán	np
 	fra	Adánez	np$np-cog-mf-sp	por	Adánez	np
 	fra	adaptabilité	n-f$n	por	adaptabilidade	n
@@ -642,7 +642,7 @@ LR	fra	age	n-m	por	idade	n$n-f$n-f-ND
 RL	fra	Agnès	np$np-ant-f-sg$np-ant	por	Agnes	np
 	fra	Agnès Gonxha Bojaxhiu	np	por	Agnès Gonxha Bojaxhiu	np
 	fra	Agnew	np-cog-mf-sp$np	por	Agnew	np
-	fra	Agnieszka	np$np-ant$np-ant-f-sg	por	Agnieszka	np
+	fra	Agnieszka	np$np-ant-f-sg$np-ant	por	Agnieszka	np
 	fra	Agnolutto	np	por	Agnolutto	np
 	fra	Agoitz	np	por	Aoiz	np
 	fra	agonie	n-f$n	por	agonia	n
@@ -672,7 +672,7 @@ RL	fra	Agnès	np$np-ant-f-sg$np-ant	por	Agnes	np
 	fra	agriculteur	n$n-GD	por	agricultor	n$n-m-ND
 	fra	agriculture	n$n-f$n-f-ND	por	agricultura	n$n-f-ND
 RL	fra	agriculture	n$n-f$n-f-ND	por	colheita	n
-	fra	Agrigente	np	por	Agrigento	np
+	fra	Agrigente	np$np-top-m-sg	por	Agrigento	np
 	fra	Agrippa	np$np-ant-m-sg	por	Agrippa	np
 	fra	Agrippine	np$np-ant-f-sg$np-ant	por	Agrippine	np
 	fra	Agritubel	np	por	Agritubel	np
@@ -720,8 +720,8 @@ RL	fra	agriculture	n$n-f$n-f-ND	por	colheita	n
 	fra	Aiboa	np	por	Aiboa	np
 	fra	Aibo	np	por	Aibo	np
 	fra	Aichi	np	por	Aichi	np
-	fra	Aida	np$np-ant-f-sg$np-ant	por	Aida	np
-	fra	Aidan	np$np-ant$np-ant-m-sg	por	Aidan	np
+	fra	Aida	np-ant-f-sg$np$np-ant	por	Aida	np
+	fra	Aidan	np$np-ant-m-sg$np-ant	por	Aidan	np
 	fra	aide	n-f$n$n-f-ND	por	ajuda	n-f$n$n-f-ND
 	fra	aider	vblex	por	ajudar	vblex
 RL	fra	aider	vblex	por	auxiliar	vblex
@@ -877,7 +877,7 @@ LR	fra	ajustement	n-m$n	por	ajuste	n
 	fra	Alawi	np	por	Alawi	np
 	fra	Alawwa	np	por	Alawwa	np
 	fra	Alazne	np	por	Alazne	np
-	fra	Albacete	np$np-cog-mf-sp	por	Albacete	np
+	fra	Albacete	np$np-top-m-sg	por	Albacete	np
 	fra	Albadalejo	np$np-cog-mf-sp	por	Albadalejo	np
 	fra	Albaida	np$np-top-f-sg	por	Albaida	np
 	fra	Alban	np$np-top-m-sg	por	St Albans	np
@@ -935,10 +935,10 @@ RL	fra	Albiol	np$np-cog-mf-sp$np-cog	por	L'Albiol	np
 	fra	Alcàsser	np$np-top-m-sg	por	Alcàsser	np
 	fra	Alcatel	np$np-al-m-sg	por	Alcatel	np
 	fra	Alcatel-Lucent	np$np-al-mf	por	Alcatel-Lucent	np
-	fra	Alcatraz	np	por	Ilha de Alcatraz	np
+	fra	Alcatraz	np$np-top-m-sg	por	Ilha de Alcatraz	np
 	fra	Alçay	np	por	Alçay-Alçabéhéty-Sunharette	np
 	fra	Alcée	np$np-ant	por	Alceu	np
-	fra	Alceste	np$np-al	por	Alceste	np
+	fra	Alceste	np-al$np	por	Alceste	np
 	fra	alchimie	n-f$n$n-f-sg	por	alquimia	n
 	fra	Alcira	np$np-ant$np-ant-f-sg	por	Alzira	np
 	fra	Alcoa	np$np-al-mf	por	Alcoa	np
@@ -1012,11 +1012,11 @@ RL	fra	Albiol	np$np-cog-mf-sp$np-cog	por	L'Albiol	np
 	fra	Alemán	np$np-cog-mf-sp	por	Alemán	np
 	fra	Alena	np$np-ant$np-ant-f-sg	por	Alena	np
 	fra	Alençon	np$np-loc-f	por	Alençon	np
-	fra	Alenia	np	por	Alenia	np
+	fra	Alenia	np$np-al	por	Alenia	np
 	fra	Alep	np	por	Alepo	np
 	fra	alerte	adv	por	alerta	adv
 	fra	alerter	vblex	por	alertar	vblex
-	fra	Alessandra	np$np-ant-f-sg$np-ant	por	Alessandra	np
+	fra	Alessandra	np-ant-f-sg$np$np-ant	por	Alessandra	np
 	fra	Alessandro	np$np-ant$np-ant-m-sg	por	Alessandro	np
 	fra	Alessandro Algardi	np	por	Alessandro Algardi	np
 	fra	Alessio	np$np-ant-m-sg	por	Alessio	np
@@ -1024,7 +1024,7 @@ RL	fra	Albiol	np$np-cog-mf-sp$np-cog	por	L'Albiol	np
 	fra	Alex	np$np-ant$np-ant-m-sg	por	Alex	np
 	fra	Alexander	np$np-ant-m-sg$np-ant	por	Alexander	np
 	fra	Alexandra	np$np-ant-f-sg$np-ant	por	Alexandra	np
-	fra	Alexandr	np$np-ant	por	Alexandr	np
+	fra	Alexandr	np$np-ant$np-ant-m-sg	por	Alexandr	np
 	fra	Alexandre	np-ant$np$np-ant-m-sg	por	Alexandre	np$np-ant
 	fra	Alexandre Dumas	np$np-ant-m-sg	por	Alexandre Dumas	np
 	fra	Alexandre Farnèse	np	por	Alexandre Farnèse	np
@@ -1045,7 +1045,7 @@ RL	fra	Albiol	np$np-cog-mf-sp$np-cog	por	L'Albiol	np
 	fra	Alfa Romeo	np$np-al	por	Alfa Romeo	np
 	fra	Alfaz del Pi	np	por	L'Alfàs del Pi	np
 	fra	Alfie	np$np-ant	por	Alfie	np
-	fra	Alfons	np$np-ant$np-ant-m-sg	por	Alfons	np
+	fra	Alfons	np$np-ant-m-sg$np-ant	por	Alfons	np
 	fra	Alfonsina	np$np-ant$np-ant-f-sg	por	Alfonsina	np
 	fra	Alfonso	np$np-ant$np-ant-m-sg	por	Alfonso	np
 	fra	Alfontso	np	por	Alfontso	np
@@ -1062,14 +1062,14 @@ RL	fra	Albiol	np$np-cog-mf-sp$np-cog	por	L'Albiol	np
 	fra	Alger	np$np-top-m-sg$np-top	por	Argel	np
 	fra	Algérie	np$np-loc$np-loc-f	por	Argélia	np$np-loc
 	fra	algérien	adj$adj-GD-ND	por	argelino	adj
-	fra	Al Gore	np$np-ant	por	Al Gore	np
+	fra	Al Gore	np$np-ant$np-ant-m-sg	por	Al Gore	np
 	fra	algorithme	n-m$n	por	algoritmo	n
 	fra	Algorri	np	por	Algorri	np
 	fra	Algorta	np	por	Algorta	np
 	fra	algue	n-f$n	por	alga	n
 	fra	Alhama	np$np-top-f-sg	por	Alhama	np
 	fra	Alhambra	np$np-top-f-sg	por	Alhambra	np
-	fra	Alhucemas	np	por	Alhucemas	np
+	fra	Alhucemas	np$np-top-f-sg	por	Alhucemas	np
 	fra	Ali	np$np-ant-m-sg$np-ant	por	Alí	np
 	fra	Aliaksandr	np$np-ant	por	Aliaksandr	np
 	fra	Aliance Evangélique	np	por	Aliance Evangélique	np
@@ -1091,7 +1091,7 @@ RL	fra	Albiol	np$np-cog-mf-sp$np-cog	por	L'Albiol	np
 RL	fra	alimentaire	adj-mf$adj$adj-mf-ND	por	alimentar	adj-mf$adj$adj-mf-ND
 	fra	alimentation	n$n-f$n-f-ND	por	alimentação	n$n-f-ND
 	fra	alimenter	vblex	por	alimentar	vblex
-	fra	Alina	np$np-ant$np-ant-f-sg	por	Alina	np
+	fra	Alina	np$np-ant-f-sg$np-ant	por	Alina	np
 	fra	alinéa	n-m$n	por	alínea	n-f
 	fra	aliquote	adj	por	alíquota	adj
 	fra	Alirio	np	por	Alirio	np
@@ -1140,10 +1140,10 @@ LR	fra	allant	n-m$n-m-ND	por	disposição	n$n-f
 	fra	allergisant	adj	por	alergênico	adj
 	fra	allergisant	adj	por	alergénico	adj
 	fra	Alleyhoop	np	por	Alleyhoop	np
-	fra	Allgemeine	np	por	Allgemeine	np
+	fra	Allgemeine	np$np-al	por	Allgemeine	np
 	fra	Alli	np	por	Alli	np
 	fra	alliance	n-f$n$n-f-ND	por	aliança	n
-	fra	Allianz	np$np-al-mf	por	Allianz	np
+	fra	Allianz	np$np-al$np-al-mf	por	Allianz	np
 	fra	allié	n$n-GD$n-GD-ND	por	aliado	n$n-m
 	fra	Allier	np$np-loc-f	por	Allier	np
 	fra	allier	vblex	por	aliar	vblex
@@ -1184,7 +1184,7 @@ LR	fra	allure	n-f$n-f-ND	por	aspecto	n$n-m$n-m-ND
 LR	fra	Almodovar	np	por	Almodóvar	np
 	fra	Almodóvar	np$np-cog-mf-sp$np-cog	por	Almodóvar	np
 	fra	Almorza	np	por	Almorza	np
-	fra	Almudena	np$np-ant$np-ant-f-sg	por	Almudena	np
+	fra	Almudena	np$np-ant-f-sg$np-ant	por	Almudena	np
 	fra	Almuedo	np	por	Almuedo	np
 	fra	Almuñécar	np	por	Almuñécar	np
 	fra	Almunia	np$np-cog-mf-sp$np-cog	por	Almunia	np
@@ -1231,7 +1231,7 @@ RL	fra	Al-Qaida	np$np-al	por	Al-Qaeda	np
 	fra	Alsace	np$np-loc-f	por	Alsácia	np
 	fra	Alsasua	np	por	Alsasua	np
 	fra	Alsina	np$np-cog-mf-sp	por	Alsina	np
-	fra	Alsthom	np$np-al-mf	por	Alsthom	np
+	fra	Alsthom	np$np-al$np-al-mf	por	Alsthom	np
 	fra	Alstom	np$np-al$np-al-mf	por	Alstom	np
 	fra	Alston	np$np-cog-mf-sp	por	Alston	np
 	fra	Altadis	np$np-al-m-sg	por	Altadis	np
@@ -1274,7 +1274,7 @@ RL	fra	Al-Qaida	np$np-al	por	Al-Qaeda	np
 	fra	Alvalade	np	por	Alvalade	np
 	fra	Alvarado	np$np-cog-mf-sp	por	Alvarado	np
 	fra	Álvarez	np$np-cog$np-cog-mf-sp	por	Álvarez	np
-	fra	Alvaro	np$np-ant$np-ant-m-sg	por	Alvaro	np
+	fra	Alvaro	np$np-ant-m-sg$np-ant	por	Alvaro	np
 	fra	Álvaro	np$np-ant$np-ant-m-sg	por	Álvaro	np
 	fra	alvéole	n-f	por	alvéolo	n-m
 	fra	Alvertis	np	por	Alvertis	np
@@ -1294,8 +1294,8 @@ RL	fra	Al-Qaida	np$np-al	por	Al-Qaeda	np
 	fra	Alzuza	np	por	Alzuza	np
 	fra	Am	np$np-al	por	Am	np
 	fra	Amable Arias Yebra	np	por	Amable Arias Yebra	np
-	fra	Amadeo	np$np-ant$np-ant-m-sg	por	Amadeo	np
-	fra	Amadeus	np$np-ant$np-ant-m-sg	por	Amadeus	np
+	fra	Amadeo	np$np-ant-m-sg$np-ant	por	Amadeo	np
+	fra	Amadeus	np$np-ant-m-sg$np-ant	por	Amadeus	np
 	fra	Amador	np$np-cog$np-cog-mf-sp	por	Amador	np
 	fra	Amadori	np	por	Amadori	np
 	fra	Amadou	np$np-ant-m-sg	por	Amadou	np
@@ -1348,7 +1348,7 @@ LR	fra	ame	n	por	alma	n
 	fra	Amédée de Savoie	np	por	Amédée de Savoie	np
 	fra	Amegrove	np	por	Amegrove	np
 	fra	Ameijeiras	np	por	Ameijeiras	np
-	fra	Amel	np	por	Amel	np
+	fra	Amel	np$np-al	por	Amel	np
 	fra	Amelan	np	por	Amelan	np
 	fra	Amelie	np$np-ant$np-ant-f-sg	por	Amelie	np
 	fra	Amélie	np-ant$np$np-ant-f-sg	por	Amélie	np
@@ -1433,9 +1433,9 @@ RL	fra	américain	adj$adj-GD-ND$adj-GD	por	estadunidense	adj
 	fra	Amour	np$np-loc-f	por	Amor	np
 	fra	amour-propre	n$n-m	por	estima	n
 	fra	Amoyal	np	por	Amoyal	np
-	fra	AMP	np	por	AMP	np
+	fra	AMP	np$np-al	por	AMP	np
 	fra	Amparanoia	np	por	Amparanoia	np
-	fra	Amparo	np$np-ant-f-sg$np-ant	por	Amparo	np
+	fra	Amparo	np-ant-f-sg$np$np-ant	por	Amparo	np
 	fra	amphibie	adj	por	anfíbio	adj
 	fra	amphitryon	n	por	anfitrião	n
 	fra	ample	adj-mf$adj$adj-mf-ND	por	amplo	adj
@@ -1490,7 +1490,7 @@ RL	fra	Amstel	np$np-al	por	Rio Amstel	np
 	fra	Anari	np	por	Anari	np
 	fra	Anartz	np	por	Anartz	np
 	fra	Anasagasti	np$np-cog-mf-sp	por	Anasagasti	np
-	fra	Anastasie	np$np-ant$np-ant-f-sg	por	Anastasie	np
+	fra	Anastasie	np$np-ant-f-sg$np-ant	por	Anastasie	np
 	fra	Anastasio	np$np-ant	por	Anastasio	np
 	fra	Anatolie	np$np-top-f-sg	por	Anatólia	np
 	fra	Anatoly	np$np-ant	por	Anatoly	np
@@ -1565,7 +1565,7 @@ RL	fra	Amstel	np$np-al	por	Rio Amstel	np
 	fra	Andreo	np$np-cog-mf-sp	por	Andreo	np
 	fra	Andrés	np$np-ant$np-ant-m-sg	por	Andrés	np
 	fra	Andresen	np$np-cog-mf-sp	por	Andresen	np
-	fra	Andreu	np$np-cog$np-cog-mf-sp	por	Andreu	np
+	fra	Andreu	np$np-ant-m-sg	por	Andreu	np
 	fra	Andrew	np$np-ant$np-ant-m-sg	por	Andrew	np
 	fra	Andrews	np$np-cog-mf-sp	por	Andrews	np
 	fra	Andrey	np	por	Andrey	np
@@ -1605,7 +1605,7 @@ LR	fra	ane	n	por	asno	n$n-m
 	fra	Angela	np$np-ant-f-sg$np-ant	por	Angela	np
 	fra	Angela	np$np-ant-f-sg$np-ant	por	Ângela	np
 	fra	Angel	np$np-cog-mf-sp	por	Angel	np
-	fra	Angela Merkel	np$np-ant$np-ant-f-sg	por	Angela Merkel	np
+	fra	Angela Merkel	np$np-ant-f-sg$np-ant	por	Angela Merkel	np
 	fra	Angeles	np-ant-f-sg$np	por	Angeles	np
 	fra	Angélica	np$np-ant$np-ant-f-sg	por	Angélica	np
 	fra	Angelich	np$np-cog-mf-sp	por	Angelich	np
@@ -1628,10 +1628,10 @@ LR	fra	ane	n	por	asno	n$n-m
 	fra	angoissé	adj	por	agoniado	adj
 	fra	angoisser	vblex	por	angustiar	vblex
 	fra	Angoitia	np	por	Angoitia	np
-	fra	Angola	np$np-top$np-top-f	por	Angola	np$np-top
+	fra	Angola	np$np-top-m-sg$np-top$np-top-m	por	Angola	np$np-top
 	fra	Angoulême	np$np-top$np-top-f-sg	por	Angoulême	np
 	fra	Angra	np	por	Angra	np
-	fra	Anguilla	np$np-top	por	Anguilla	np
+	fra	Anguilla	np$np-top$np-top-f-sg	por	Anguilla	np
 	fra	Anguita	np$np-cog-mf-sp	por	Anguita	np
 	fra	angulaire	adj$adj-mf	por	angular	adj
 	fra	Angulo	np$np-cog$np-cog-mf-sp	por	Angulo	np
@@ -1665,8 +1665,8 @@ LR	fra	ane	n	por	asno	n$n-m
 	fra	ankylostome	n$n-m	por	ancilóstomo	n
 	fra	Anna	np$np-ant$np-ant-f-sg	por	Ana	np$np-ant
 	fra	Ann	np$np-ant$np-ant-f-sg	por	Ann	np
-	fra	Annabel	np$np-ant-f-sg$np-ant	por	Annabel	np
-	fra	Annabella	np$np-ant-f-sg$np-ant	por	Annabella	np
+	fra	Annabel	np-ant-f-sg$np$np-ant	por	Annabel	np
+	fra	Annabella	np-ant-f-sg$np$np-ant	por	Annabella	np
 RL	fra	annal	adj$adj-f	por	anual	adj$adj-mf-ND
 	fra	Annam	np	por	Annam	np
 	fra	Annan	np$np-cog-mf-sp	por	Annan	np
@@ -1714,7 +1714,7 @@ RL	fra	annuler	vblex	por	cancelar	vblex
 	fra	Ansola	np	por	Ansola	np
 	fra	Ansorena	np	por	Ansorena	np
 	fra	Ansotegi	np$np-cog-mf-sp	por	Ansotegi	np
-	fra	Antalya	np	por	Antália	np
+	fra	Antalya	np$np-top-f-sg	por	Antália	np
 	fra	Antawn	np	por	Antawn	np
 	fra	antécédent	n-m$n$n-m-pl	por	antecedente	n
 	fra	Antelo	np$np-cog-mf-sp	por	Antelo	np
@@ -1737,8 +1737,8 @@ RL	fra	antérieur	adj$adj-f	por	anterior	adj
 	fra	anticiper	vblex	por	antecipar	vblex
 	fra	anticonstitutionnellement	adv	por	anticonstitucionalmente	adv
 	fra	Antigone	np$np-ant-f-sg	por	Antigone	np
-	fra	Antigua	np	por	Antigua	np
-	fra	Antigua-et-Barbuda	np$np-top$np-top-f	por	Antígua e Barbuda	np
+	fra	Antigua	np$np-top-f-sg	por	Antigua	np
+	fra	Antigua-et-Barbuda	np$np-top$np-top-f$np-top-f-sg	por	Antígua e Barbuda	np
 	fra	Antilles	np$np-top$np-top-f-pl	por	Antilles	np
 	fra	Antilles hollandaises	np	por	Antilhas Holandesas	np
 LR	fra	Antilles néerlandaises	np$np-top	por	Antilhas Holandesas	np
@@ -1750,7 +1750,7 @@ LR	fra	Antilles néerlandaises	np$np-top	por	Antilhas Holandesas	np
 	fra	antiterroriste	adj$adj-mf	por	antiterrorista	adj
 	fra	antithèse	n-f$n	por	antítese	n$n-f-ND
 	fra	antiviral	adj	por	antiviral	adj
-	fra	Antofagasta	np	por	Antofagasta	np
+	fra	Antofagasta	np$np-al	por	Antofagasta	np
 	fra	Antoine	np-ant-m-sg$np-ant$np	por	Antoine	np
 	fra	Anton	np$np-ant$np-ant-m-sg	por	Anton	np
 	fra	Antón	np$np-cog$np-cog-mf-sp	por	Antón	np
@@ -1911,7 +1911,7 @@ RL	fra	Aquarium	np	por	Aquarium	np
 	fra	Arabia	np-loc$np$np-loc-f	por	Arabia	np
 	fra	Arabie	np$np-loc-f	por	Arábia	np
 	fra	Arabie Saoudite	np$np-loc-f	por	Arábia Saudita	np$np-top
-LR	fra	Arabie saoudite	np$np-top$np-top-f$np-top-f-sg	por	Arábia Saudita	np$np-top
+LR	fra	Arabie saoudite	np-top-f-sg$np$np-top$np-top-f	por	Arábia Saudita	np$np-top
 	fra	Arabsat	np	por	Arabsat	np
 	fra	Araceli	np$np-ant$np-ant-f-sg	por	Araceli	np
 	fra	Aracena	np$np-top-f-sg	por	Aracena	np
@@ -1951,7 +1951,7 @@ LR	fra	Arabie saoudite	np$np-top$np-top-f$np-top-f-sg	por	Arábia Saudita	np$np-
 	fra	Aranguiz	np	por	Aranguiz	np
 	fra	Aranguren	np	por	Aranguren	np
 	fra	Aranjuez	np	por	Aranjuez	np
-	fra	Arantxa	np$np-ant-f-sg	por	Arantxa	np
+	fra	Arantxa	np-ant-f-sg$np	por	Arantxa	np
 	fra	Arantza	np$np-ant-f-sg	por	Arantza	np
 	fra	Arantzategi	np	por	Arantzategi	np
 	fra	Arantzatzu	np	por	Arantzatzu	np
@@ -1999,7 +1999,7 @@ RL	fra	arbitre	n$n-mf$n-mf-ND	por	colegiado	n
 	fra	arc	n-m$n$n-m-ND	por	arco	n$n-m
 	fra	Arcachon	np$np-top-m-sg	por	Arcachon	np
 	fra	arcade	n-f$n	por	arcada	n
-	fra	Arcadi	np$np-ant-m-sg	por	Arcadi	np
+	fra	Arcadi	np-ant-m-sg$np	por	Arcadi	np
 	fra	Arcas	np$np-cog-mf-sp	por	Arcas	np
 	fra	Arcaute	np	por	Arcaute	np
 	fra	Arcauz	np	por	Arcauz	np
@@ -2109,11 +2109,11 @@ RL	fra	arbitre	n$n-mf$n-mf-ND	por	colegiado	n
 	fra	Arlanza	np	por	Arlanza	np
 	fra	Arlanzón	np	por	Arlanzón	np
 	fra	Arlequin	np	por	Arlequim	np
-	fra	Arlette	np$np-ant-f-sg$np-ant	por	Arlette	np
+	fra	Arlette	np-ant-f-sg$np$np-ant	por	Arlette	np
 	fra	armada	n-f$n	por	armada	n
 	fra	Armagnac	np$np-top-m-sg	por	Armagnac	np
 	fra	Armand	np$np-ant-m-sg$np-ant	por	Armand	np
-	fra	Armando	np$np-ant-m-sg$np-ant	por	Armando	np$np-ant
+	fra	Armando	np-ant-m-sg$np$np-ant	por	Armando	np$np-ant
 	fra	arme	n$n-f$n-f-pl	por	arma	n
 	fra	armée	n-f$n$n-f-ND	por	exército	n$n-m
 	fra	Armee Blanche	np	por	Armee Blanche	np
@@ -2220,7 +2220,7 @@ RL	fra	artificiel	adj-GD-ND$adj$adj-GD$	por	artificial	adj
 	fra	Asepam	np	por	Asepam	np
 	fra	Asepeyo	np$np-al-f-sg	por	Asepeyo	np
 	fra	Ash	np$np-cog-mf-sp	por	Ash	np
-	fra	Ashland	np	por	Ashland	np
+	fra	Ashland	np$np-al	por	Ashland	np
 	fra	asiatique	adj-mf$adj$adj-mf-ND	por	asiático	adj$adj-GD-ND
 	fra	asie	n	por	Ásia	n
 	fra	Asie	np$np-top-f-sg$np-top$np-top-f	por	Ásia	np$np-top-f-sg
@@ -2447,7 +2447,7 @@ RL	fra	audacieux	adj$adj-m-sp	por	ousado	adj
 RL	fra	Augustin	np$np-ant-m-sg$np-ant	por	Augustin	np
 	fra	Augustine	np$np-ant-f-sg	por	Augustine	np
 	fra	Augustinus	np	por	Augustinus	np
-	fra	Augusto	np$np-ant-m-sg$np-ant	por	Augusto	np
+	fra	Augusto	np-ant-m-sg$np$np-ant	por	Augusto	np
 	fra	aujourd'hui	adv	por	hoje em dia	adv
 	fra	aujourd'hui	adv	por	hoje	adv
 	fra	Aukera Guztiak	np	por	Aukera Guztiak	np
@@ -2459,13 +2459,13 @@ LR	fra	aumone	n	por	esmola	n
 	fra	auparavant	adv	por	dantes	adv
 	fra	auprès	adv	por	perto	adv
 	fra	auquel	cnjadv	por	para o qual	cnjadv
-	fra	Aura	np$np-cog-mf-sp	por	Aura	np
+	fra	Aura	np$np-ant-f-sg	por	Aura	np
 	fra	Aurèle	np$np-ant	por	Aurèle	np
 	fra	Aurelia	np$np-ant-f-sg	por	Aurelia	np
 	fra	Aureliano	np$np-ant$np-ant-m-sg	por	Aureliano	np
 	fra	Aurélie	np$np-ant$np-ant-f-sg	por	Aurélie	np
-	fra	Aurélien	np$np-ant$np-ant-m-sg	por	Aurélien	np
-	fra	Aurelio	np$np-ant$np-ant-m-sg	por	Aurelio	np
+	fra	Aurélien	np$np-ant-m-sg$np-ant	por	Aurélien	np
+	fra	Aurelio	np-ant-m-sg$np$np-ant	por	Aurelio	np
 	fra	auriculaire	adj	por	auricular	adj
 	fra	Aurillac	np$np-loc-f	por	Aurillac	np
 	fra	Auritz-Burguete	np	por	Auritz	np
@@ -2583,7 +2583,7 @@ RL	fra	aversion	n-f$n	por	aborrecimento	n$n-m
 	fra	avertissement	n-m$n-m-ND	por	advertência	n$n-f
 	fra	aveugle	adj$adj-mf$adj-mf-ND	por	cego	adj
 	fra	Aveyron	np$np-loc-f	por	Aveyron	np
-	fra	Avia	np	por	Avia	np
+	fra	Avia	np$np-al	por	Avia	np
 	fra	aviation	n-f$n$n-f-ND	por	aviação	n$n-f
 	fra	Avicenne	np	por	Avicena	np
 	fra	avicole	adj	por	avícola	adj
@@ -2633,7 +2633,7 @@ LR	fra	avoir envie de	vblex	por	querer	vblex
 	fra	Ayrton	np	por	Ayrton	np
 	fra	Ayuda	np	por	Ayuda	np
 	fra	Azbine	np	por	Azbine	np
-	fra	Azerbaïdjan	np$np-top-m$np-top$np-top-m-sg	por	Azerbaijão	np$np-top
+	fra	Azerbaïdjan	np$np-top-m$np-top-m-sg$np-top	por	Azerbaijão	np$np-top
 	fra	Aziz	np-cog-mf-sp$np	por	Aziz	np
 	fra	Azkarate	np$np-cog-mf-sp	por	Azkarate	np
 	fra	Azkarraga	np$np-cog-mf-sp	por	Azkarraga	np
@@ -2813,7 +2813,7 @@ RL	fra	basculer	vblex	por	migrar	vblex
 	fra	base-ball	n$n-m$n-m-sg	por	basebol	n$n-m
 	fra	baser	vblex	por	basear	vblex
 	fra	baser	vblex	por	fundar	vblex
-	fra	Basilio	np$np-ant$np-ant-m-sg	por	Basilio	np
+	fra	Basilio	np$np-ant-m-sg$np-ant	por	Basilio	np
 	fra	basilique	n-f$n$n-f-ND	por	basílica	n$n-f
 	fra	basique	adj-mf$adj$adj-mf-ND	por	básico	adj$adj-GD-ND
 	fra	basiquement	adv	por	basicamente	adv
@@ -2870,7 +2870,7 @@ LR	fra	baton	n$n-m	por	pau	n
 	fra	Bayrou	np$np-cog$np-cog-mf-sp	por	Bayrou	np
 	fra	BD	n$n-acr-f	por	BD	n
 	fra	BDD	n$n-acr-f	por	BBDD	n
-	fra	Bea	np$np-ant$np-ant-f-sg	por	Bea	np
+	fra	Bea	np-ant-f-sg$np$np-ant	por	Bea	np
 	fra	beagle	n	por	beagle	n
 	fra	Beasain	np	por	Beasain	np
 	fra	Beaskoetxea	np$np-cog-mf-sp	por	Beaskoetxea	np
@@ -2911,12 +2911,12 @@ LR	fra	beaucoup	preadv	por	muito	preadv
 	fra	Belgique	np$np-top$np-top-f$np-top-f-sg	por	Bélgica	np$np-top-f-sg
 	fra	Belgrade	np$np-top-m-sg$np-top-m	por	Belgrado	np
 	fra	Belinchón	np$np-cog$np-cog-mf-sp	por	Belinchón	np
-	fra	Belize	np$np-top-m$np-top	por	Belize	np
+	fra	Belize	np$np-top-m$np-top$np-top-m-sg	por	Belize	np
 	fra	Belle Epoque	np	por	Belle Epoque	np
 	fra	Bellido	np$np-cog$np-cog-mf-sp	por	Bellido	np
 	fra	Bellotti	np	por	Bellotti	np
 	fra	Bellver	np$np-cog-mf-sp	por	Bellver	np
-	fra	Belmonte	np$np-cog-mf-sp	por	Belmonte	np
+	fra	Belmonte	np$np-top-m-sg	por	Belmonte	np
 	fra	Belmopan	np	por	Belmopan	np
 	fra	Beloki	np$np-cog-mf-sp	por	Beloki	np
 	fra	Beltrán	np$np-cog$np-cog-mf-sp	por	Beltrán	np
@@ -2941,17 +2941,17 @@ LR	fra	beaucoup	preadv	por	muito	preadv
 	fra	béni	adj	por	bendito	adj
 	fra	Benicasim	np	por	Benicasim	np
 	fra	Benidorm	np$np-top-m-sg	por	Benidorm	np
-	fra	Benigno	np$np-ant$np-ant-m-sg	por	Benigno	np
+	fra	Benigno	np$np-ant-m-sg$np-ant	por	Benigno	np
 	fra	Bénin	np$np-top-m$np-top-m-sg$np-top	por	Benim	np$np-top
 	fra	bénir	vblex	por	abençoar	vblex
 	fra	Benítez	np$np-cog$np-cog-mf-sp	por	Benítez	np
-	fra	Benito	np$np-ant-m-sg$np-ant	por	Benito	np
+	fra	Benito	np-ant-m-sg$np$np-ant	por	Benito	np
 	fra	Benjamin	np-ant$np$np-ant-m-sg	por	Benjamin	np
 	fra	Benkimoun	np	por	Benkimoun	np
 	fra	Bennati	np$np-cog-mf-sp	por	Bennati	np
 	fra	Bennett	np$np-cog-mf-sp	por	Bennett	np
-	fra	Benoit	np$np-ant$np-ant-m-sg	por	Benoit	np
-LR	fra	Benoit	np$np-ant$np-ant-m-sg	por	Benoît	np
+	fra	Benoit	np$np-ant-m-sg$np-ant	por	Benoit	np
+LR	fra	Benoit	np$np-ant-m-sg$np-ant	por	Benoît	np
 	fra	Benoît	np-ant-m-sg$np-ant$np	por	Benoît	np
 LR	fra	Benoit XVI	np	por	Benoît XVI	np
 	fra	Benoît XVI	np$np-ant	por	Benoît XVI	np
@@ -2965,7 +2965,7 @@ LR	fra	Benoit XVI	np	por	Benoît XVI	np
 	fra	Berbalagun	np	por	Berbalagun	np
 	fra	berceau	n-m$n	por	berço	n$n-m
 	fra	Bercy	np$np-cog-mf-sp	por	Bercy	np
-	fra	Berenguer	np$np-ant-m-sg	por	Berenguer	np
+	fra	Berenguer	np-ant-m-sg$np	por	Berenguer	np
 	fra	Bereziartua	np$np-cog-mf-sp	por	Bereziartua	np
 	fra	Berezovski	np$np-cog-mf-sp	por	Berezovski	np
 	fra	Bergara	np$np-cog-mf-sp	por	Bergara	np
@@ -2981,7 +2981,7 @@ LR	fra	berge	n-f$n$n-f-ND	por	margem	n-f$n
 	fra	Berlusconi	np$np-cog$np-cog-mf-sp	por	Berlusconi	np
 	fra	Bermejo	np$np-cog$np-cog-mf-sp	por	Bermejo	np
 	fra	Bermeo	np$np-cog-mf-sp	por	Bermeo	np
-	fra	Bermudes	np	por	Bermudas	np
+	fra	Bermudes	np$np-top-f-pl	por	Bermudas	np
 	fra	Bermúdez	np$np-cog$np-cog-mf-sp	por	Bermúdez	np
 	fra	Bernabéu	np$np-cog-mf-sp	por	Bernabéu	np
 	fra	Bernadette	np-ant-f-sg$np$np-ant	por	Bernadette	np
@@ -2998,7 +2998,7 @@ LR	fra	berge	n-f$n$n-f-ND	por	margem	n-f$n
 	fra	Berrueta	np	por	Berrueta	np
 	fra	Berry	np-cog-mf-sp$np	por	Província de Berry	np
 	fra	Berta	np$np-ant$np-ant-f-sg	por	Berta	np
-	fra	Bertelsmann	np$np-al-mf	por	Bertelsmann	np
+	fra	Bertelsmann	np$np-al$np-al-mf	por	Bertelsmann	np
 	fra	Bertrán	np$np-cog$np-cog-mf-sp	por	Bertrán	np
 	fra	Bertrand	np-ant$np$np-ant-m-sg	por	Bertrand	np
 	fra	Besaide	np	por	Besaide	np
@@ -3023,7 +3023,7 @@ LR	fra	béton	n$n-m	por	betão	n
 	fra	Beyrouth	np$np-top-m-sg$np-top-m	por	Beirute	np
 	fra	Bezat	np	por	Bezat	np
 	fra	Bharrat Jagdeo	np	por	Bharrat Jagdeo	np
-	fra	Bhoutan	np$np-top$np-top-m	por	Butão	np$np-top
+	fra	Bhoutan	np$np-top$np-top-m$np-top-m-sg	por	Butão	np$np-top
 	fra	Bhutto	np$np-cog-mf-sp	por	Bhutto	np
 LR	fra	biais	n-m-sp$n-m	por	distorção	n$n-f
 	fra	Bianchi	np$np-cog-mf-sp	por	Bianchi	np
@@ -3038,7 +3038,7 @@ LR	fra	biais	n-m-sp$n-m	por	distorção	n$n-f
 	fra	biblique	adj-mf$adj$adj-mf-ND	por	bíblico	adj
 	fra	Bichkek	np	por	Bisqueque	np
 LR	fra	bicyclette	n$n-f$n-f-ND	por	bicicleta	n
-	fra	Bidart	np	por	Bidart	np
+	fra	Bidart	np$np-top-m-sg	por	Bidart	np
 	fra	Bidasoa	np	por	Rio Bidasoa	np
 	fra	Bidassoa	np	por	Rio Bidasoa	np
 	fra	Bidouze	np	por	Bidouze	np
@@ -3072,7 +3072,7 @@ LR	fra	bientot après	adv	por	pouco depois	adv
 	fra	Bilbao	np$np-cog-mf-sp	por	Bilbau	np
 	fra	Bilbao Basket	np	por	Bilbao Basket	np
 	fra	Bilbao Exhibition Centre	np	por	Bilbao Exhibition Centre	np
-	fra	Bild	np	por	Bild	np
+	fra	Bild	np$np-al	por	Bild	np
 	fra	Bild-Zeitung	np	por	Bild-Zeitung	np
 	fra	Bileka	np	por	Bileka	np
 	fra	Bill	np$np-ant-m-sg	por	Bill	np
@@ -3172,7 +3172,7 @@ RL	fra	bois	n-m-sp$n-m$n	por	arvoredo	n$n-m
 	fra	Bolado	np	por	Bolado	np
 	fra	Bolena	np$np-cog-mf-sp	por	Bolena	np
 	fra	bolet	n-m$n	por	boleto	n
-	fra	Bolivie	np$np-top-f$np-top-f-sg$np-top	por	Bolívia	np$np-top
+	fra	Bolivie	np$np-top-f-sg$np-top-f$np-top	por	Bolívia	np$np-top
 	fra	bolivien	adj$adj-GD-ND	por	boliviano	adj
 	fra	bolivien	n	por	boliviano	n
 	fra	Bollywood	np$np-al	por	Bollywood	np
@@ -3205,7 +3205,7 @@ RL	fra	Bonn	np	por	Bonn	np
 	fra	Bonnaire	np	por	Bonnaire	np
 	fra	bonne nuit	ij	por	boa noite	ij
 	fra	bonnement	adv	por	simplesmente	adv
-	fra	Bono	np$np-cog-mf-sp	por	Bono	np
+	fra	Bono	np-ant-m-sg$np$np-ant	por	Bono	np
 	fra	bonté	n-f$n$n-f-ND	por	bondade	n$n-f
 	fra	Boomerang	np$np-al	por	Boomerang	np
 RL	fra	Boomerang	np$np-al	por	Bumerangue	np
@@ -3351,7 +3351,7 @@ LR	fra	briser	vblex	por	romper	vblex
 	fra	britannique	adj-mf$adj$adj-mf-ND	por	britânico	adj
 	fra	britannique	n	por	britânico	n$n-m
 	fra	British	np	por	British	np
-	fra	Britney Spears	np$np-ant$np-ant-f-sg	por	Britney Spears	np
+	fra	Britney Spears	np$np-ant-f-sg$np-ant	por	Britney Spears	np
 	fra	Brito	np-cog-mf-sp$np	por	Brito	np
 	fra	Briz	np$np-cog$np-cog-mf-sp	por	Briz	np
 	fra	Brizuela	np$np-cog-mf-sp	por	Brizuela	np
@@ -3483,7 +3483,7 @@ RL	fra	ça va	ij	por	tudo bom	ij
 	fra	Cachemire	np$np-top-m-sg	por	Caxemira	np
 	fra	cacher	vblex	por	esconder	vblex
 	fra	cacheter	vblex	por	fechar	vblex
-	fra	cacique	n$n-m	por	cacique	n
+	fra	cacique	n-m$n	por	cacique	n
 	fra	Cadaqués	np$np-top-m-sg	por	Cadaqués	np
 	fra	cadavre	n$n-m$n-m-ND	por	cadáver	n
 	fra	cadeau	n$n-m$n-m-ND	por	presente	n$n-m
@@ -3555,7 +3555,7 @@ RL	fra	calcul	n-m$n$n-m-ND	por	computação	n$n-f
 	fra	Cameroun	np$np-top-m$np-top-m-sg$np-top	por	Camarões	np$np-top
 	fra	Camilla	np	por	Camilla	np
 	fra	Camille	np-ant$np-ant-f-sg$np	por	Camille	np
-	fra	Camilo	np$np-ant$np-ant-m-sg	por	Camilo	np
+	fra	Camilo	np$np-ant-m-sg$np-ant	por	Camilo	np
 	fra	camion	n$n-m$n-m-ND	por	caminhão	n
 	fra	camion	n$n-m$n-m-ND	por	camião	n
 	fra	camionneur	n	por	caminhoneiro	n
@@ -3690,7 +3690,7 @@ LR	fra	car	cnjadv	por	porque	cnjadv
 	fra	Carlos	np$np-ant$np-ant-m-sg	por	Carlos	np$np-ant
 	fra	Carlota	np$np-ant-f-sg$np-ant	por	Carlota	np
 	fra	Carme	np$np-ant-f-sg	por	Carme	np
-	fra	Carmelo	np$np-ant-m-sg$np-ant	por	Carmelo	np
+	fra	Carmelo	np-ant-m-sg$np$np-ant	por	Carmelo	np
 	fra	Carmen	np$np-ant-f-sg$np-ant	por	Carmen	np
 	fra	Carmona	np$np-cog$np-cog-mf-sp	por	Carmona	np
 	fra	carnaval	n$n-m$n-m-sp	por	carnaval	n
@@ -3703,7 +3703,7 @@ LR	fra	car	cnjadv	por	porque	cnjadv
 	fra	Caroline du Nord	np$np-top-f$np-top-ind-f	por	Carolina do Norte	np
 	fra	Caroline du Sud	np$np-top-f$np-top-ind-f	por	Carolina do Sul	np
 	fra	Carolines	np	por	Ilhas Carolinas	np
-	fra	Carolis	np	por	Carolis	np
+	fra	Carolis	np$np-ant-m-sg	por	Carolis	np
 	fra	Carolus Linnaeus	np	por	Carolus Linnaeus	np
 	fra	Carolyn	np$np-ant-f-sg$np-ant	por	Carolyn	np
 	fra	carotte	n-f$n	por	cenoura	n
@@ -3759,7 +3759,7 @@ RL	fra	cascade	n-f$n	por	cachoeira	n
 	fra	Castelo Branco	np	por	Castelo Branco	np
 	fra	Castelo Branco	np	por	Castelo Branco	np
 	fra	castillan	adj$adj-GD-ND	por	castelhano	adj
-	fra	castillan	n$n-m$n-m-ND	por	castelhano	n$n-m
+	fra	castillan	n$n-m-ND$n-m	por	castelhano	n$n-m
 	fra	Castille	np$np-loc-f	por	Castilla	np
 	fra	Castille-et-Léon	np$np-top-f-sg$np-top-f	por	Castela e Leão	np
 	fra	Castille-La Manche	np$np-top-f-sg	por	Castilla-La Mancha	np
@@ -3792,7 +3792,7 @@ RL	fra	cascade	n-f$n	por	cachoeira	n
 	fra	Catherine la Grande	np	por	Catherine la Grande	np
 	fra	catholicisme	n-m$n	por	catolicismo	n
 	fra	catholique	adj-mf$adj$adj-mf-ND	por	católico	adj$adj-GD-ND
-	fra	Caton	np$np-ant$np-ant-m-sg	por	Caton	np
+	fra	Caton	np$np-ant-m-sg$np-ant	por	Caton	np
 	fra	Caucase	np$np-top$np-top-m-sg	por	Cáucaso	np
 	fra	Caucchioli	np	por	Caucchioli	np
 	fra	cauchemar	n-m$n$n-m-ND	por	pesadelo	n-m$n$n-m-ND
@@ -3823,14 +3823,14 @@ RL	fra	ce	det-dem-mf-pl$det$det-dem$det-dem-mf	por	este	det$det-dem-GD-ND$det-de
 	fra	Cebu	np$np-top-m-sg	por	Cebu	np
 	fra	ceci	prn$prn-tn-nt$prn-tn-nt-sg	por	isto	prn$prn-tn
 	fra	Cécile	np$np-ant$np-ant-f-sg	por	Cécile	np
-	fra	Cecilia	np$np-ant$np-ant-f-sg	por	Cecilia	np
+	fra	Cecilia	np$np-ant-f-sg$np-ant	por	Cecilia	np
 	fra	Cécilia	np$np-ant$np-ant-f-sg	por	Cécilia	np
 	fra	cécité	n-f$n	por	cegueira	n$n-f
 	fra	céder	vblex	por	ceder	vblex
-	fra	Cedric	np$np-ant	por	Cedric	np
-	fra	Cédric	np$np-ant$np-ant-m-sg	por	Cédric	np
+	fra	Cedric	np$np-ant$np-ant-m-sg	por	Cedric	np
+	fra	Cédric	np-ant-m-sg$np$np-ant	por	Cédric	np
 	fra	CEE	np$np-al	por	CEE	np
-	fra	Cegetel	np	por	Cegetel	np
+	fra	Cegetel	np$np-al	por	Cegetel	np
 	fra	ceindre	vblex	por	cingir	vblex
 	fra	ceinture	n-f$n-f-ND	por	cinto	n$n-m
 	fra	ceinturer	vblex	por	cingir	vblex
@@ -4109,7 +4109,7 @@ LR	fra	chercher	vblex	por	procurar	vblex
 LR	fra	chez	pr	por	em	pr
 	fra	Chiapas	np$np-top-m-sg	por	Chiapas	np
 	fra	Chicago	np$np-top-m-sg$np-top-m	por	Chicago	np
-	fra	Chico	np-cog-mf-sp$np	por	Chico	np
+	fra	Chico	np-ant-m-sg$np	por	Chico	np
 RL	fra	chien	n$n-m$n-m-ND	por	cão	n$n-m$n-m-ND
 	fra	chien	n$n-m$n-m-ND	por	cachorro	n
 	fra	chien	n$n-m$n-m-ND	por	cão	n$n-m$n-m-ND
@@ -4160,7 +4160,7 @@ LR	fra	chomage	n	por	desemprego	n$n-m-ND
 	fra	Christensen	np-cog-mf-sp$np	por	Christensen	np
 	fra	Christian	np$np-ant-m-sg$np-ant	por	Christian	np
 	fra	Christine	np-ant-f-sg$np$np-ant	por	Christine	np
-	fra	Christoph	np$np-ant$np-ant-m-sg	por	Christoph	np
+	fra	Christoph	np$np-ant-m-sg$np-ant	por	Christoph	np
 	fra	Christophe	np-ant$np-ant-m-sg$np	por	Christophe	np
 	fra	Christophe Colomb	np$np-ant-m-sg	por	Cristóvão Colombo	np
 	fra	Christopher	np$np-ant-m-sg$np-ant	por	Christopher	np
@@ -4286,12 +4286,12 @@ RL	fra	classe	n-f$n$n-f-ND	por	aula	n$n-f-ND
 	fra	Clavero	np$np-cog-mf-sp	por	Clavero	np
 	fra	clavier	n-m$n	por	teclado	n
 	fra	clé	n-f$n$n-f-ND	por	chave	n$n-f$n-f-ND
-	fra	Clearstream	np	por	Clearstream	np
+	fra	Clearstream	np$np-al	por	Clearstream	np
 RL	fra	clef	n$n-f$n-f-ND	por	chave	n$n-f$n-f-ND
 	fra	Clemenceau	np$np-cog-mf-sp	por	Clemenceau	np
 	fra	Clément	np-ant-m-sg$np$np-ant	por	São Clemente	np
 RL	fra	Clément	np-ant-m-sg$np$np-ant	por	Clément	np
-	fra	Clemente	np$np-ant-m-sg$np-ant	por	Clemente	np
+	fra	Clemente	np-ant-m-sg$np$np-ant	por	Clemente	np
 LR	fra	Cléopatre	np	por	Cleópatra	np
 	fra	Cléopâtre	np$np-ant-f-sg$np-ant$np-ant-f	por	Cleópatra	np
 	fra	Clerc	np$np-cog-mf-sp	por	Clerc	np
@@ -4305,7 +4305,7 @@ RL	fra	cliché	n$n-m$n-m-ND	por	tópico	n$n-m-ND
 RL	fra	clientèle	n$n-f$n-f-ND	por	clientela	n
 	fra	climat	n$n-m$n-m-ND	por	clima	n
 	fra	climatique	adj-mf$adj$adj-mf-ND	por	climático	adj$adj-GD-ND
-	fra	Climent	np$np-cog-mf-sp	por	Climent	np
+	fra	Climent	np-ant-m-sg$np	por	Climent	np
 	fra	Clínica Euskalduna	np	por	Clínica Euskalduna	np
 	fra	clinique	n$n-f$n-f-ND	por	clínica	n$n-f-ND
 	fra	Clint	np$np-ant$np-ant-m-sg	por	Clint	np
@@ -4522,7 +4522,7 @@ RL	fra	commune	n-f$n-f-ND	por	concelho	n$n-m
 	fra	communiquer	vblex	por	comunicar	vblex
 	fra	communisme	n$n-m$n-m-ND	por	comunismo	n
 	fra	communiste	adj$adj-mf$adj-mf-ND	por	comunista	adj
-	fra	Comores	np$np-top$np-top-f-pl	por	Comores	np$np-top
+	fra	Comores	np$np-top-f-pl$np-top	por	Comores	np$np-top
 	fra	compact	adj$adj-GD-ND	por	compacto	adj
 	fra	compagnie	n$n-f$n-f-ND	por	companhia	n$n-f-ND
 	fra	compagnon	n-m$n$n-m-ND	por	companheiro	n$n-m-ND
@@ -4647,7 +4647,7 @@ RL	fra	conceptuel	adj	por	conceitual	adj
 	fra	condition requise	n-f	por	requisito	n$n-m$n-m-ND
 	fra	conditionnel	adj	por	condicional	adj
 	fra	conditionner	vblex	por	condicionar	vblex
-	fra	Condoleezza	np$np-ant-f-sg$np-ant	por	Condoleezza	np
+	fra	Condoleezza	np-ant-f-sg$np$np-ant	por	Condoleezza	np
 	fra	conducteur	adj	por	condutor	adj
 	fra	conducteur	n$n-m$n-m-ND	por	condutor	n-GD$n
 	fra	conducteur	n$n-m$n-m-ND	por	condutor	n-GD$n
@@ -4791,7 +4791,7 @@ LR	fra	constat	n-m$n-m-ND	por	conclusão	n$n-f$n-f-ND
 	fra	constructif	adj	por	construtivo	adj
 	fra	construction	n-f$n$n-f-ND	por	construção	n$n-f$n-f-ND
 	fra	construire	vblex	por	construir	vblex
-	fra	Consuelo	np$np-ant$np-ant-f-sg	por	Consuelo	np
+	fra	Consuelo	np$np-ant-f-sg$np-ant	por	Consuelo	np
 	fra	consultant	n$n-m	por	consultor	n$n-m-ND
 	fra	consultatif	adj	por	consultivo	adj$adj-GD-ND
 	fra	consultation	n-f$n$n-f-ND	por	consulta	n$n-f-ND$n-f
@@ -4946,14 +4946,14 @@ RL	fra	Corinne	np$np-ant$np-ant-f-sg	por	Corina	np
 	fra	Coromina	np$np-cog-mf-sp	por	Coromina	np
 	fra	Corominas	np$np-cog$np-cog-mf-sp	por	Corominas	np
 	fra	coronavirus	n-m	por	coronavírus	n-f
-	fra	Corporate	np	por	Corporate	np
+	fra	Corporate	np$np-al	por	Corporate	np
 	fra	corporatif	adj	por	corporativo	adj
 	fra	corporation	n$n-f$n-f-ND	por	corporação	n
 	fra	corporel	adj$adj-GD-ND$	por	corporal	adj
 	fra	corps	n-m-sp$n-m$n	por	corpo	n$n-m$n-m-ND
 	fra	corpulent	adj$adj-GD-ND	por	corpulento	adj
 	fra	Corrales	np$np-cog-mf-sp	por	Corrales	np
-	fra	Correa	np$np-cog-mf-sp	por	Correa	np
+	fra	Correa	np-ant-f-sg$np$np-ant	por	Correa	np
 	fra	correct	adj$adj-GD-ND	por	certo	adj$adj-m-sg
 RL	fra	correct	adj$adj-GD-ND	por	correto	adj$adj-m-sg
 RL	fra	correct	adj$adj-GD-ND	por	correcto	adj$adj-m-sg
@@ -5138,7 +5138,7 @@ RL	fra	criminel	adj$adj-f$	por	criminal	adj$adj-mf-ND
 	fra	cristalliser	vblex	por	cristalizar	vblex
 	fra	Cristian	np$np-ant-m-sg$np-ant	por	Cristian	np
 	fra	Cristina	np$np-ant$np-ant-f-sg	por	Cristina	np
-	fra	Cristóbal	np$np-cog$np-cog-mf-sp	por	Cristóbal	np
+	fra	Cristóbal	np$np-ant-m-sg$np-ant	por	Cristóbal	np
 	fra	critère	n$n-m$n-m-ND	por	critério	n
 	fra	critique	adj-mf$adj$adj-mf-ND	por	crítico	adj$adj-GD-ND
 	fra	critiquer	vblex	por	criticar	vblex
@@ -5243,7 +5243,7 @@ LR	fra	d'accord	ij	por	tudo bem	ij
 	fra	Dahiatsu	np	por	Dahiatsu	np
 	fra	Dahir Riyale Kahin	np	por	Dahir Riyale Kahin	np
 	fra	daigner	vblex	por	dignar	vblex
-	fra	Dailymotion	np	por	Dailymotion	np
+	fra	Dailymotion	np$np-al	por	Dailymotion	np
 	fra	Daimler	np$np-cog-mf-sp	por	Daimler	np
 	fra	Dakar	np$np-top-m-sg$np-top$np-top-m	por	Dakar	np
 	fra	Dakota du Nord	np$np-top-f	por	Dakota do Norte	np
@@ -5255,14 +5255,14 @@ LR	fra	d'accord	ij	por	tudo bem	ij
 	fra	dalle	n$n-f$n-f-ND	por	lousa	n
 	fra	daller	vblex	por	lajear	vblex
 	fra	Dalmatie	np$np-top-f-sg	por	Dalmácia	np
-	fra	Damart	np	por	Damart	np
+	fra	Damart	np$np-al	por	Damart	np
 	fra	Damas	np$np-cog-mf-sp	por	Damasco	np
 	fra	dame	n-f$n$n-f-ND	por	dama	n
 	fra	dame	n-f$n$n-f-ND	por	senhor	n$n-m$n-m-ND
 	fra	damer	vblex	por	coroar	vblex
 	fra	Damián	np$np-cog$np-cog-mf-sp	por	Damián	np
-	fra	Damiano	np$np-ant$np-ant-m-sg	por	Damiano	np
-	fra	Damien	np$np-ant$np-ant-m-sg	por	Damien	np
+	fra	Damiano	np$np-ant-m-sg$np-ant	por	Damiano	np
+	fra	Damien	np-ant-m-sg$np$np-ant	por	Damien	np
 	fra	Damoclès	np$np-ant$np-ant-m-sg	por	Damoclès	np
 	fra	Dan	np$np-ant$np-ant-m-sg	por	Dan	np
 	fra	Danemark	np$np-loc-f	por	Dinamarca	np$np-top-f-sg
@@ -5272,9 +5272,9 @@ LR	fra	d'accord	ij	por	tudo bem	ij
 	fra	Dani	np$np-ant-m-sg	por	Dani	np
 	fra	Daniel	np-ant$np$np-ant-m-sg	por	Daniel	np$np-ant
 	fra	Daniele	np$np-ant$np-ant-m-sg	por	Daniele	np$np-ant
-	fra	Danièle	np$np-ant$np-ant-f-sg	por	Danièle	np
+	fra	Danièle	np-ant-f-sg$np$np-ant	por	Danièle	np
 	fra	Danielle	np$np-ant$np-ant-f-sg	por	Danielle	np
-	fra	Daniel Ortega	np$np-ant$np-ant-m-sg	por	Daniel Ortega	np
+	fra	Daniel Ortega	np$np-ant-m-sg$np-ant	por	Daniel Ortega	np
 	fra	Daniels	np$np-cog-mf-sp	por	Daniels	np
 	fra	Danilo	np$np-ant$np-ant-m-sg	por	Danilo	np
 	fra	Danny	np$np-ant-m-sg$np-ant	por	Danny	np
@@ -5295,7 +5295,7 @@ LR	fra	dans le cours de	pr	por	em decorrência de	pr
 	fra	Dardanelles	np$np-loc-f	por	Dardanelos	np
 	fra	Darfour	np$np-top-m-sg	por	Darfur	np
 RL	fra	Darfour	np$np-top-m-sg	por	Darfour	np
-	fra	Dario	np$np-ant$np-ant-m-sg	por	Dario	np
+	fra	Dario	np$np-ant-m-sg$np-ant	por	Dario	np
 	fra	Darío	np$np-ant$np-ant-m-sg	por	Darío	np
 	fra	Dario Fo	np	por	Dario Fo	np
 	fra	Dariusz	np$np-ant-m-sg	por	Dariusz	np
@@ -5395,7 +5395,7 @@ RL	fra	décharger	vblex	por	desabafar	vblex
 	fra	décider	vblex	por	decidir	vblex
 	fra	décisif	adj$adj-GD-ND	por	decisivo	adj
 	fra	décision	n$n-f$n-f-ND	por	decisão	n$n-f-ND
-	fra	Decker	np	por	Decker	np
+	fra	Decker	np$np-al	por	Decker	np
 	fra	declaration	n$n-f-ND$n-f	por	declaração	n$n-f-ND
 	fra	déclaration	n-f$n$n-f-ND	por	declaração	n$n-f-ND
 	fra	Déclaration des droits de l'homme et du citoyen	np	por	Déclaration des droits de l'homme et du citoyen	np
@@ -5487,7 +5487,7 @@ LR	fra	dégouter	vblex	por	enfadar	vblex
 	fra	dehors	adv	por	afora	adv
 	fra	dehors	adv	por	fora	adv
 	fra	Deia	np	por	Deia	np
-	fra	Deira	np	por	Deira	np
+	fra	Deira	np$np-al	por	Deira	np
 	fra	déjà	adv	por	já	adv
 	fra	déjeuner	n-m$n-m-ND$n	por	comida	n-f$n$n-f-ND
 	fra	déjeuner	vblex	por	almoçar	vblex
@@ -5570,7 +5570,7 @@ LR	fra	Dème	adj-sp	por	D	num
 	fra	dénier	vblex	por	denegar	vblex
 	fra	Denilson	np	por	Denilson	np
 	fra	Denis	np-ant$np-ant-m-sg$np	por	Denis	np
-	fra	Dennis	np$np-ant$np-ant-m-sg	por	Dennis	np$np-ant
+	fra	Dennis	np$np-ant-m-sg$np-ant	por	Dennis	np$np-ant
 	fra	dénomination	n$n-f$n-f-ND	por	denominação	n
 	fra	dénommer	vblex	por	denominar	vblex
 	fra	dénoncer	vblex	por	denunciar	vblex
@@ -5881,7 +5881,7 @@ RL	fra	digne	adj$adj-mf$adj-mf-ND	por	valioso	adj
 	fra	diminuer	vblex	por	desvanecer	vblex
 	fra	diminuer	vblex	por	diminuir	vblex
 	fra	diminution	n-f$n$n-f-ND	por	diminuição	n
-	fra	Dimitri	np$np-ant-m-sg$np-ant	por	Dimitri	np
+	fra	Dimitri	np-ant-m-sg$np$np-ant	por	Dimitri	np
 LR	fra	diner	n-m$n	por	jantar	n-m$n
 LR	fra	diner	n-m$n	por	ceia	n-f$n
 LR	fra	diner	vblex	por	jantar	vblex
@@ -6080,7 +6080,7 @@ RL	fra	Dominique	np-ant$np-ant-m-sg$np	por	Dominic	np
 	fra	dompter	vblex	por	domar	vblex
 	fra	Donald	np$np-ant-m-sg$np-ant	por	Donald	np
 	fra	Doñana	np	por	Doñana	np
-	fra	Donatello	np$np-ant-m-sg$np-ant	por	Donatello	np
+	fra	Donatello	np-ant-m-sg$np$np-ant	por	Donatello	np
 	fra	donation	n-f$n	por	doação	n$n-f-ND
 	fra	donc	cnjadv	por	pois	cnjadv
 	fra	Donibane	np	por	Donibane	np
@@ -6242,7 +6242,7 @@ RL	fra	eau de javel	n	por	lixívia	n
 	fra	eau	n$n-f$n-f-ND	por	água sanitária	n
 	fra	eau	n$n-f$n-f-ND	por	lixívia	n
 	fra	ébaucher	vblex	por	esboçar	vblex
-	fra	eBay	np	por	EBay	np
+	fra	eBay	np$np-al	por	EBay	np
 	fra	EBay	np	por	eBay	np
 	fra	EBBerdeak	np	por	EBBerdeak	np
 LR	fra	éberluer	vblex	por	surpreender	vblex
@@ -6288,7 +6288,7 @@ RL	fra	éclatant	adj$adj-f	por	brilhante	adj
 	fra	éclater	vblex	por	retumbar	vblex
 RL	fra	éclater	vblex	por	estoirar	vblex
 	fra	éclat	n-m$n$n-m-ND	por	gargalhada	n$n-f
-	fra	ECO	np	por	ECO	np
+	fra	ECO	np$np-al	por	ECO	np
 	fra	écoeurer	vblex	por	enojar	vblex
 	fra	école	n-f$n$n-f-ND	por	escola	n$n-f$n-f-ND
 	fra	Ecolmare	np	por	Ecolmare	np
@@ -6471,7 +6471,7 @@ RL	fra	Égypte	np$np-top-f-sg$np-top$np-top-f	por	Egito	np
 	fra	éleveur	n$n-m$n-m-ND	por	ganadeiro	n
 	fra	Elgoibar	np	por	Elgoibar	np
 	fra	Elgorriaga	np	por	Elgorriaga	np
-	fra	Elia	np$np-ant$np-ant-m-sg	por	Elia	np
+	fra	Elia	np-ant-m-sg$np$np-ant	por	Elia	np
 	fra	Eli	np$np-ant$np-ant-m-sg	por	Eli	np
 	fra	Elía	np	por	Elía	np
 	fra	Elías	np$np-ant$np-ant-m-sg	por	Elías	np
@@ -6481,7 +6481,7 @@ RL	fra	Égypte	np$np-top-f-sg$np-top$np-top-f	por	Egito	np
 	fra	éliminer	vblex	por	eliminar	vblex
 RL	fra	elire	adj	por	eleger	adj
 	fra	élire	vblex	por	eleger	vblex$vblex-pp-GD-ND
-	fra	Elisa	np-ant$np$np-ant-f-sg	por	Elisa	np
+	fra	Elisa	np-ant$np-ant-f-sg$np	por	Elisa	np
 	fra	Elisabeth	np$np-ant-f-sg$np-ant	por	Elisabeth	np
 	fra	Eliseo	np$np-ant$np-ant-m-sg	por	Eliseo	np
 	fra	élite	n-f$n	por	elite	n
@@ -6511,14 +6511,14 @@ RL	fra	elire	adj	por	eleger	adj
 	fra	élu	adj	por	eleito	adj
 	fra	éluder	vblex	por	eludir	vblex
 	fra	Elustondo	np	por	Elustondo	np
-	fra	Elvira	np$np-ant-f-sg$np-ant	por	Elvira	np
+	fra	Elvira	np-ant-f-sg$np$np-ant	por	Elvira	np
 	fra	Elvis	np$np-ant$np-ant-m-sg	por	Elvis	np
 	fra	Elysée	np	por	Elísios	np
 	fra	email	n$n-m	por	email	n
 	fra	e-mail	n$n-m	por	e-mail	n
 	fra	Emakunde	np	por	Emakunde	np
 	fra	émanation	n-f$n	por	emanação	n
-	fra	Emanuele	np$np-ant$np-ant-m-sg	por	Emanuele	np
+	fra	Emanuele	np$np-ant-m-sg$np-ant	por	Emanuele	np
 	fra	Emaus	np	por	Emaus	np
 	fra	embarcation	n$n-f	por	embarcação	n
 	fra	embarquer	vblex	por	embarcar	vblex
@@ -6863,7 +6863,7 @@ LR	fra	épuration	n$n-f	por	depuração	n
 	fra	épurer	vblex	por	depurar	vblex
 	fra	Equateur	np$np-loc-f	por	Equador	np$np-top
 	fra	Équateur	np$np-top-m$np-top-m-sg$np-top	por	Equador	np$np-top
-	fra	équation	n-f$n$n-f-ND	por	equação	n
+	fra	équation	n$n-f$n-f-ND	por	equação	n
 	fra	équatorial	adj	por	equatorial	adj
 	fra	équatorien	adj	por	equatoriano	adj
 	fra	équatorien	n	por	equatoriano	n
@@ -6933,7 +6933,7 @@ RL	fra	escalader	vblex	por	escalar	vblex
 LR	fra	escroquerie	n$n-f	por	fraude	n$n-f
 	fra	Escudero	np$np-cog$np-cog-mf-sp	por	Escudero	np
 	fra	Esculape	np$np-ant-m-sg	por	Esculape	np
-	fra	Esmeralda	np$np-ant$np-ant-f-sg	por	Esmeralda	np
+	fra	Esmeralda	np-ant-f-sg$np$np-ant	por	Esmeralda	np
 	fra	Esnal	np$np-cog-mf-sp	por	Esnal	np
 	fra	espace	n-m$n$n-m-ND	por	espaço	n$n-m$n-m-ND
 	fra	espacer	vblex	por	espaçar	vblex
@@ -6989,7 +6989,7 @@ LR	fra	est-ce que	prn$prn-itg-mf-sp$prn-itg	por		$num$num-percent
 	fra	estomac	n$n-m$n-m-ND	por	estômago	n$n-m
 	fra	Estonie	np$np-top-f$np-top-f-sg$np-top	por	Estónia	np$np-top-f-sg
 RL	fra	Estonie	np$np-top-f$np-top-f-sg$np-top	por	Estônia	np
-	fra	Estrada	np$np-cog-mf-sp	por	Estrada	np
+	fra	Estrada	np$np-top-f-sg	por	Estrada	np
 	fra	Estrémadure	np$np-loc-f	por	Extremadura	np
 	fra	Estrosi	np	por	Estrosi	np
 	fra	estuaire	n-m$n	por	estuário	n
@@ -7096,13 +7096,13 @@ RL	fra	étudier	vblex	por	estudar	vblex
 	fra	Eudel	np	por	Eudel	np
 	fra	Eugène	np-ant$np$np-ant-m-sg	por	Eugène	np
 	fra	Eugenia	np$np-ant-f-sg	por	Eugenia	np
-	fra	Eugenio	np$np-ant$np-ant-m-sg	por	Eugenio	np
+	fra	Eugenio	np-ant-m-sg$np$np-ant	por	Eugenio	np
 	fra	euh	ij	por	eh	ij
 	fra	Euphrate	np$np-loc-f	por	Rio Eufrates	np
 	fra	Eurasie	np$np-loc-f	por	Eurásia	np
 	fra	Eure	np$np-loc-f	por	Eure	np
 	fra	Eure-et-Loire	np	por	Eure-et-Loir	np
-	fra	Eureka	np	por	Eureka	np
+	fra	Eureka	np$np-al	por	Eureka	np
 	fra	eurêka	ij	por	heureca	ij
 	fra	Euribor	np	por	Euribor	np
 	fra	Euripide	np	por	Eurípedes	np
@@ -7339,14 +7339,14 @@ RL	fra	extérieur	adj$adj-GD$adj-GD-ND	por	exterior	adj$adj-mf-ND
 	fra	Fabia	np$np-ant$np-ant-f-sg	por	Fabia	np
 	fra	Fabian	np$np-cog-mf-sp	por	Fabián	np
 	fra	Fabien	np$np-ant$np-ant-m-sg	por	Fabien	np
-	fra	Fabio	np$np-ant-m-sg$np-ant	por	Fabio	np
-	fra	Fabiola	np$np-ant$np-ant-f-sg	por	Fabiola	np
+	fra	Fabio	np-ant-m-sg$np$np-ant	por	Fabio	np
+	fra	Fabiola	np$np-ant-f-sg$np-ant	por	Fabiola	np
 	fra	Fabius	np$np-cog$np-cog-mf-sp	por	Fabius	np
 	fra	fable	n-f$n	por	fábula	n
 	fra	Fabra	np$np-cog$np-cog-mf-sp	por	Fabra	np
 	fra	fabricant	n-m$n	por	fabricante	n
 	fra	fabrication	n-f$n$n-f-ND	por	fabricação	n
-	fra	Fabrice	np$np-ant$np-ant-m-sg	por	Fabrice	np
+	fra	Fabrice	np-ant-m-sg$np$np-ant	por	Fabrice	np
 	fra	fabrique	n$n-f$n-f-ND	por	fábrica	n
 	fra	fabriquer	vblex	por	fabricar	vblex
 	fra	façade	n-f$n$n-f-ND	por	fachada	n
@@ -7454,7 +7454,7 @@ RL	fra	fatal	adj$adj-f$	por	fatal	adj$adj-mf
 	fra	fatigue	n-f$n$n-f-ND	por	estafa	n$n-m
 	fra	fatiguer	vblex	por	fatigar	vblex
 RL	fra	fatiguer	vblex	por	estafar	vblex
-	fra	Fátima	np$np-ant$np-ant-f-sg	por	Fátima	np
+	fra	Fátima	np$np-ant-f-sg$np-ant	por	Fátima	np
 	fra	faucille	n-f$n	por	foice	n
 	fra	faune	n$n-f	por	fauna	n
 	fra	Faure	np$np-cog-mf-sp	por	Faure	np
@@ -7494,13 +7494,13 @@ RL	fra	fédéral	adj$adj-f$$adj-f-sg	por	federal	adj$adj-mf-ND
 	fra	félicité	n$n-f$n-f-ND	por	felicidade	n
 	fra	féliciter	vblex	por	felicitar	vblex
 	fra	Felip	np$np-ant-m-sg$np-ant	por	Felip	np
-	fra	Felipe	np$np-ant$np-ant-m-sg	por	Felipe	np
+	fra	Felipe	np-ant-m-sg$np$np-ant	por	Felipe	np
 	fra	Felipe Calderón	np	por	Felipe Calderón	np
 	fra	Felipe de Bourbón et de Grèce	np	por	Felipe de Bourbón et de Grèce	np
 	fra	Feliu	np$np-cog$np-cog-mf-sp	por	Feliu	np
 LR	fra	Felix	np$np-ant$np-ant-m-sg	por	Félix	np
 	fra	Félix	np-ant$np$np-ant-m-sg	por	Félix	np
-	fra	Fellowship	np	por	Fellowship	np
+	fra	Fellowship	np$np-al	por	Fellowship	np
 	fra	femelle	n$n-f$n-f-ND	por	fêmea	n
 	fra	féminin	adj$adj-GD-ND	por	feminino	adj
 	fra	femme	n-f$n$n-f-ND	por	mulher	n$n-f$n-f-ND
@@ -7523,7 +7523,7 @@ RL	fra	fermer	vblex	por	interditar	vblex
 	fra	fermeture	n-f$n$n-f-ND	por	encerramento	n$n-m$n-m-ND
 	fra	fermeture	n-f$n$n-f-ND	por	fechamento	n$n-m
 	fra	Fermín	np$np-ant$np-ant-m-sg	por	Fermín	np
-	fra	Fernanda	np$np-ant$np-ant-f-sg	por	Fernanda	np
+	fra	Fernanda	np-ant-f-sg$np$np-ant	por	Fernanda	np
 	fra	Fernand de Magellan	np	por	Fernão de Magalhães	np
 	fra	Fernandes	np-cog-mf-sp$np	por	Fernandes	np$np-cog
 	fra	Fernandez	np-cog-mf-sp$np$np-cog	por	Fernandez	np
@@ -7584,7 +7584,7 @@ RL	fra	fidèle	adj$adj-mf-ND$$adj-mf	por	confiável	adj
 	fra	fidéliser	vblex	por	fidelizar	vblex
 	fra	fidélité	n$n-f$n-f-ND	por	fidelidade	n
 	fra	Fideliza	np	por	Fideliza	np
-	fra	Fidji	np$np-loc-f	por	Fiji	np
+	fra	Fidji	np$np-top-f-pl$np-top-f	por	Fiji	np
 	fra	fier	adj$adj-GD-ND	por	orgulhoso	adj$adj-GD-ND
 	fra	fier	vblex	por	fiar	vblex
 RL	fra	fier	adj$adj-GD-ND	por	orgulhoso	adj$adj-GD-ND
@@ -7784,7 +7784,7 @@ RL	fra	formel	adj$adj-GD-ND$adj-GD	por	formal	adj$adj-mf-ND
 	fra	fortifier	vblex	por	fortalecer	vblex
 	fra	fortifier	vblex	por	fortificar	vblex
 RL	fra	fortifier	vblex	por	fortalecer	vblex
-	fra	Fortis	np$np-cog-mf-sp	por	Fortis	np
+	fra	Fortis	np$np-al	por	Fortis	np
 	fra	fortuitement	adv	por	casualmente	adv
 	fra	fortune	n$n-f$n-f-ND	por	fortuna	n
 	fra	fortuné	adj	por	afortunado	adj
@@ -7855,9 +7855,9 @@ RL	fra	fournisseur	n$n-m	por	fornecedor	n$n-m-ND
 	fra	franchir	vblex	por	franquear	vblex
 	fra	franchir	vblex	por	superar	vblex
 	fra	franchise	n-f$n	por	franquia	n
-	fra	Francine	np$np-ant-f-sg$np-ant	por	Francine	np
+	fra	Francine	np-ant-f-sg$np$np-ant	por	Francine	np
 	fra	Francis	np$np-ant$np-ant-m-sg	por	Francis	np
-	fra	Francis Bacon	np$np-ant	por	Francis Bacon	np
+	fra	Francis Bacon	np$np-ant$np-ant-m-sg	por	Francis Bacon	np
 	fra	Francisca	np$np-ant$np-ant-f-sg	por	Francisca	np
 	fra	Francisco	np$np-ant-m-sg$np-ant	por	Francisco	np$np-ant
 	fra	Francisco Camps	np	por	Francisco Camps	np
@@ -7981,7 +7981,7 @@ LR	fra	gacher	vblex	por	amargurar	vblex
 	fra	gâcher	vblex	por	amargurar	vblex
 	fra	Gadea	np$np-cog$np-cog-mf-sp	por	Gadea	np
 	fra	Gadonneix	np	por	Gadonneix	np
-	fra	Gael	np$np-ant	por	Gael	np
+	fra	Gael	np$np-ant$np-ant-m-sg	por	Gael	np
 	fra	Gagarine	np$np-cog-mf-sp	por	Gagarine	np
 	fra	gagnant	adj	por	ganhador	adj
 	fra	gagner	vblex	por	ganhar	vblex
@@ -8039,7 +8039,7 @@ RL	fra	Galilée	np$np-top-f-sg	por	Galilée	np
 	fra	Gantour	np	por	Gantour	np
 	fra	Ganymède	np	por	Ganímedes	np
 	fra	Gap	np$np-loc-f	por	Gap	np
-	fra	Gara	np	por	Gara	np
+	fra	Gara	np$np-al	por	Gara	np
 	fra	garage	n-m$n$n-m-ND	por	garagem	n-f
 	fra	Garai	np$np-cog-mf-sp	por	Garai	np
 	fra	Garaikoetxea	np	por	Garaikoetxea	np
@@ -8055,7 +8055,7 @@ RL	fra	Galilée	np$np-top-f-sg	por	Galilée	np
 	fra	Garcia	np-cog-mf-sp$np	por	Garcia	np
 	fra	Garci	np$np-cog$np-cog-mf-sp	por	Garci	np
 	fra	García	np$np-cog-mf-sp$np-cog	por	García	np
-	fra	Garcilaso	np$np-ant-m-sg	por	Garcilaso	np
+	fra	Garcilaso	np-ant-m-sg$np	por	Garcilaso	np
 	fra	garçon	n-m$n$n-m-sg	por	garoto	n$n-f-ND
 	fra	Gard	np$np-loc-f	por	Gard	np
 	fra	garde	n-mf$n$n-mf-ND	por	guarda	n
@@ -8086,7 +8086,7 @@ RL	fra	garde civile	n	por	policia civil	n
 	fra	Gascogne	np$np-loc-f	por	Gasconha	np
 	fra	Gascón	np$np-cog$np-cog-mf-sp	por	Gascón	np
 	fra	Gasol	np$np-cog-mf-sp	por	Gasol	np
-	fra	Gaspar	np$np-ant-m-sg$np-ant	por	Gaspar	np
+	fra	Gaspar	np-ant-m-sg$np$np-ant	por	Gaspar	np
 	fra	Gaspar Astete	np	por	Gaspar Astete	np
 	fra	Gasquet	np$np-cog-mf-sp	por	Gasquet	np
 	fra	Gasset	np$np-cog$np-cog-mf-sp	por	Gasset	np
@@ -8111,7 +8111,7 @@ LR	fra	gateau	n	por	bolo	n
 	fra	gay	adj	por	gay	adj
 	fra	Gaza	np$np-loc-f	por	Gaza	np
 	fra	gaz	n-m-sp$n-m$n	por	gás	n
-	fra	Gazprom	np$np-al-mf	por	Gazprom	np
+	fra	Gazprom	np$np-al$np-al-mf	por	Gazprom	np
 	fra	Gaztañaga	np	por	Gaztañaga	np
 	fra	Gaztedi	np	por	Gaztedi	np
 	fra	gaztekutxa	np	por	gaztekutxa	np
@@ -8128,7 +8128,7 @@ RL	fra	géant	n$n-m$n-m-ND	por	gigante	n
 	fra	Gemayel	np	por	Gemayel	np
 	fra	Gemeaux	np	por	Gemeaux	np
 	fra	gémir	vblex	por	gemer	vblex
-	fra	Gemma	np$np-ant$np-ant-f-sg	por	Gemma	np
+	fra	Gemma	np$np-ant-f-sg$np-ant	por	Gemma	np
 	fra	gênant	adj$adj-GD-ND	por	molesto	adj
 	fra	gène	n-m$n$n-m-ND	por	gene	n
 	fra	gêne	n-f$n$n-f-ND	por	moléstia	n
@@ -8140,7 +8140,7 @@ RL	fra	géant	n$n-m$n-m-ND	por	gigante	n
 	fra	généralement	adv	por	geralmente	adv
 	fra	généralisation	n$n-f$n-f-ND	por	generalização	n
 	fra	généraliser	vblex	por	generalizar	vblex
-	fra	Generalitat	np-al$np$np-al-f-sg	por	Generalitat	np$np-al
+	fra	Generalitat	np-al$np-al-f-sg$np	por	Generalitat	np$np-al
 	fra	généralité	n-f$n	por	generalidade	n$n-f-ND
 	fra	générateur	n-m$n	por	gerador	n$n-m-ND
 	fra	génération	n$n-f$n-f-ND	por	geração	n$n-f-ND
@@ -8174,8 +8174,8 @@ RL	fra	genre	n-m$n$n-m-ND	por	género	n$n-m-ND
 	fra	George W. Bush	np$np-ant-m-sg	por	George W. Bush	np
 	fra	Géorgie	np$np-loc-f	por	Geórgia	np$np-top
 	fra	Georgie du Sud-et-les Îles Sandwich du Sud	np	por	Georgie du Sud-et-les Îles Sandwich du Sud	np
-	fra	Gérald	np$np-ant-m-sg$np-ant	por	Gérald	np
-	fra	Géraldine	np$np-ant-f-sg$np-ant	por	Géraldine	np
+	fra	Gérald	np-ant-m-sg$np$np-ant	por	Gérald	np
+	fra	Géraldine	np-ant-f-sg$np$np-ant	por	Géraldine	np
 	fra	gérance	n$n-f	por	gerência	n
 	fra	Gerard	np$np-ant$np-ant-m-sg	por	Gerard	np
 	fra	Gérard	np-ant-m-sg$np$np-ant	por	Gérard	np
@@ -8227,7 +8227,7 @@ RL	fra	Ghana	np$np-top-m-sg$np-top$np-top-m	por	Ghana	np
 	fra	Gijón	np$np-cog-mf-sp	por	Gijón	np
 	fra	Gil	np$np-ant-m-sg$np-ant	por	Gil	np$np-ant
 	fra	Gilbert	np-ant-m-sg$np$np-ant	por	Gilbert	np
-	fra	Gilberto	np$np-ant-m-sg$np-ant	por	Gilberto	np
+	fra	Gilberto	np-ant-m-sg$np$np-ant	por	Gilberto	np
 	fra	Gilberto Gil	np	por	Gilberto Gil	np
 	fra	Gilles	np-ant-m-sg$np$np-ant	por	Gilles	np
 	fra	Giménez	np$np-cog-mf-sp$np-cog	por	Giménez	np
@@ -8235,7 +8235,7 @@ RL	fra	Ghana	np$np-top-m-sg$np-top$np-top-m	por	Ghana	np
 	fra	Giner	np$np-cog$np-cog-mf-sp	por	Giner	np
 	fra	Giorgio	np$np-ant$np-ant-m-sg	por	Giorgio	np
 	fra	Giorgio Napolitano	np	por	Giorgio Napolitano	np
-	fra	Giovanna	np$np-ant-f-sg$np-ant	por	Giovanna	np
+	fra	Giovanna	np-ant-f-sg$np$np-ant	por	Giovanna	np
 	fra	Giovanni	np$np-ant$np-ant-m-sg	por	Giovanni	np
 	fra	Giovanni Boccaccio	np	por	Giovanni Boccaccio	np
 	fra	Giraud	np$np-cog$np-cog-mf-sp	por	Giraud	np
@@ -8244,7 +8244,7 @@ RL	fra	Ghana	np$np-top-m-sg$np-top$np-top-m	por	Ghana	np
 	fra	Gironde	np$np-loc-f	por	Gironde	np
 	fra	Giscard	np$np-cog$np-cog-mf-sp	por	Giscard	np
 	fra	Giscard d'Estaing	np$np-cog-mf-sp	por	Giscard d'Estaing	np
-	fra	Giuliana	np$np-ant-f-sg$np-ant	por	Giuliana	np
+	fra	Giuliana	np-ant-f-sg$np$np-ant	por	Giuliana	np
 	fra	Giuliano	np$np-ant$np-ant-m-sg	por	Giuliano	np
 	fra	Giuseppe	np$np-ant-m-sg$np-ant	por	Giuseppe	np
 	fra	Givenchy	np	por	Givenchy	np
@@ -8281,7 +8281,7 @@ RL	fra	globe	n$n-m-ND$n-m	por	globo	n
 	fra	Goirizelaia	np$np-cog-mf-sp	por	Goirizelaia	np
 	fra	Goizaldi	np	por	Goizaldi	np
 	fra	Golan	np$np-loc-f	por	Colinas de Golã	np
-	fra	Golda	np	por	Golda	np
+	fra	Golda	np$np-ant-f-sg	por	Golda	np
 	fra	Gold	np-cog-mf-sp$np	por	Gold	np
 	fra	Golden Retriever	np	por	Golden Retriever	np
 	fra	Goldman	np$np-cog-mf-sp	por	Goldman	np
@@ -8400,7 +8400,7 @@ RL	fra	Grand Schisme d'Occident	np	por	Grand Schisme d'Occident	np
 	fra	gratter	vblex	por	raspar	vblex
 	fra	gratuit	adj$adj-GD-ND	por	gratuito	adj
 	fra	gratuitement	adv	por	gratuitamente	adv
-	fra	Grau	np$np-cog-mf-sp	por	Grau	np
+	fra	Grau	np$np-top-m-sg	por	Grau	np
 	fra	gravat	n$n-m$n-m-pl	por	escombro	n
 	fra	grave	adj$adj-mf-ND$adj-mf	por	grave	adj
 	fra	gravement	adv	por	gravemente	adv
@@ -8419,7 +8419,7 @@ LR	fra	gravide	adj	por	grávido	adj
 	fra	gregaire	adj	por	gregário	adj
 	fra	Gregal	np	por	Gregal	np
 	fra	Grégoire	np-ant-m-sg$np$np-ant	por	Grégoire	np
-	fra	Gregorio	np$np-ant-m-sg$np-ant	por	Gregorio	np
+	fra	Gregorio	np-ant-m-sg$np$np-ant	por	Gregorio	np
 	fra	Gregory	np$np-cog-mf-sp	por	Gregory	np
 	fra	Grêmio	np	por	Grêmio	np
 	fra	grenade	n-f$n$n-f-ND	por	granada	n
@@ -8443,8 +8443,8 @@ LR	fra	gravide	adj	por	grávido	adj
 	fra	gris	adj$adj-m-sp	por	gris	adj
 	fra	gris	n-m-sp$n-m$n	por	cinza	n-f$n
 	fra	Grischa	np	por	Grischa	np
-	fra	Groenland	np$np-top$np-top-f	por	Groenlândia	np
-	fra	Groenland	np$np-top$np-top-f	por	Gronelândia	np
+	fra	Groenland	np$np-top-m-sg$np-top	por	Groenlândia	np
+	fra	Groenland	np$np-top-m-sg$np-top	por	Gronelândia	np
 	fra	grogner	vblex	por	rosnar	vblex
 	fra	grognon	adj	por	resmungão	adj
 	fra	gros	adj-m-sp$adj	por	grosso	adj
@@ -8484,7 +8484,7 @@ RL	fra	grotte	n-f$n$n-f-ND	por	oca	n
 	fra	guérir	vblex	por	curar	vblex
 	fra	guérir	vblex	por	sanar	vblex
 LR	fra	guérir	vblex	por	curar	vblex
-	fra	Guernesey	np-top$np	por	Guernsey	np
+	fra	Guernesey	np-top$np$np-top-m-sg	por	Guernsey	np
 	fra	Guernica	np	por	Guernica	np
 	fra	guerre	n$n-f$n-f-ND	por	guerra	n$n-f-ND
 	fra	guerre austro-prusienne	np	por	guerre austro-prusienne	np
@@ -8552,12 +8552,12 @@ LR	fra	guérir	vblex	por	curar	vblex
 	fra	Gutierrez	np$np-cog-mf-sp	por	Gutierrez	np
 	fra	Gutiérrez	np$np-cog-mf-sp$np-cog	por	Gutiérrez	np
 	fra	Guy	np-ant-m-sg$np$np-ant	por	Guy	np
-	fra	Guyana	np$np-top$np-top-f	por	Guiana	np$np-top
+	fra	Guyana	np$np-top$np-top-f$np-top-f-sg	por	Guiana	np$np-top
 	fra	Guyane	np$np-loc-f	por	Guiana Francesa	np
 	fra	Guyane Française	np$np-top	por	Guiana Francesa	np
 	fra	Guydansk	np	por	Guydansk	np
 	fra	Guzman	np$np-cog-mf-sp	por	Guzman	np
-	fra	Guzmán	np$np-ant-m-sg$np-ant	por	Guzmán	np
+	fra	Guzmán	np-ant-m-sg$np$np-ant	por	Guzmán	np
 	fra	gynécologie	n$n-f	por	ginecologia	n
 	fra	Gyurcsany	np$np-cog-mf-sp	por	Gyurcsany	np
 	fra	h	n$n-m	por	h	n-m$n
@@ -8610,7 +8610,7 @@ RL	fra	habituel	adj$adj-f$	por	habitual	adj
 	fra	Hamas	np$np-al$np-al-mf	por	Hamas	np
 	fra	Hambourg	np$np-loc-f	por	Hamburgo	np
 	fra	hameçon	n-f$n	por	anzol	n$n-m-ND
-	fra	Hamid	np$np-ant-m-sg	por	Hamid	np
+	fra	Hamid	np-ant-m-sg$np	por	Hamid	np
 	fra	Hamilton	np-cog-mf-sp$np	por	Hamilton	np
 	fra	Hamlet	np-ant-m-sg$np	por	Hamlet	np
 	fra	Hammourabi	np	por	Hammourabi	np
@@ -8639,7 +8639,7 @@ RL	fra	habituel	adj$adj-f$	por	habitual	adj
 	fra	Haro	np$np-cog-mf-sp	por	Haro	np
 	fra	harpe	n-f$n	por	harpa	n
 	fra	Harper	np-cog-mf-sp$np	por	Harper	np
-	fra	Harrison	np-cog-mf-sp$np	por	Harrison	np
+	fra	Harrison	np-ant-m-sg$np	por	Harrison	np
 	fra	Harry	np$np-ant$np-ant-m-sg	por	Harry	np
 	fra	Harvard	np$np-top-m-sg	por	Universidade Harvard	np
 	fra	hasard	n-m$n$n-m-ND	por	casualidade	n$n-f
@@ -8675,10 +8675,10 @@ LR	fra	Haute-Saone	np	por	Haute-Saône	np
 	fra	Haut-Rhin	np$np-top-m-sg	por	Alto Reno	np
 	fra	Hauts-de-Seine	np$np-loc-f	por	Altos do Sena	np
 	fra	Hawaii	np$np-loc-f	por	Havaí	np
-	fra	Hayley	np$np-ant$np-ant-f-sg	por	Hayley	np
+	fra	Hayley	np$np-ant-f-sg$np-ant	por	Hayley	np
 	fra	Head	np$np-al	por	Head	np
 	fra	Heard	np$np-top-m-sg	por	Heard	np
-	fra	Heather	np$np-ant-f-sg$np-ant	por	Heather	np
+	fra	Heather	np-ant-f-sg$np$np-ant	por	Heather	np
 	fra	Heathrow	np$np-top-m-sg	por	Aeroporto de Londres Heathrow	np
 	fra	heaume	n-m$n	por	elmo	n
 	fra	hebdomadaire	adj$adj-mf-ND$adj-mf	por	semanal	adj
@@ -8769,7 +8769,7 @@ RL	fra	Herzégovine	np$np-loc-f	por	Herzegóvina	np
 	fra	heureusement	cnjadv	por	ainda bem	cnjadv
 	fra	heureusement que	cnjadv	por	ainda bem que	cnjadv
 	fra	heurter	vblex	por	colidir	vblex
-	fra	Hewlett-Packard	np$np-al-mf	por	Hewlett-Packard	np
+	fra	Hewlett-Packard	np$np-al-f-sg	por	Hewlett-Packard	np
 	fra	hexagone	n-m$n	por	hexágono	n
 	fra	Hexagone	np	por	Hexágono	np
 	fra	Hezbollah	np$np-al-mf	por	Hezbollah	np
@@ -8830,11 +8830,11 @@ RL	fra	homme	n$n-m$n-m-ND	por	varão	n$n-m
 	fra	homonyme	adj	por	homónimo	adj
 	fra	homonyme	adj	por	homônimo	adj
 	fra	homonymie	n-f$n	por	homónimo	n$n-m
-	fra	homosexuel	adj$	por	homossexual	adj
+	fra	homosexuel	$adj	por	homossexual	adj
 	fra	Honchar	np	por	Honchar	np
 	fra	Honda	np-al-f-sg$np	por	Honda	np
 	fra	Hondarribia	np	por	Hondarribia	np
-	fra	Honduras	np$np-top$np-top-f	por	Honduras	np
+	fra	Honduras	np$np-top-m-sg$np-top$np-top-m	por	Honduras	np
 	fra	Hong Kong	np$np-top$np-top-m$np-top-m-sg	por	Hong Kong	np
 	fra	Hongkong	np$np-top-m-sg	por	Hong Kong	np
 	fra	Hong Kong	np$np-top$np-top-m$np-top-m-sg	por	Hong Kong	np
@@ -8865,9 +8865,9 @@ RL	fra	Horace	np-ant$np-ant-m-sg$np	por	Horace	np
 	fra	hors	adv	por	fora	adv
 LR	fra	hors	pr	por	excepto	pr
 	fra	hors délai	cnjadv	por	fora do prazo	cnjadv
-	fra	Hortefeux	np	por	Hortefeux	np
-	fra	Hosni	np	por	Hosni	np
-	fra	Hospitalet	np$np-loc	por	Hospitalet	np
+	fra	Hortefeux	np$np-top-f-sg	por	Hortefeux	np
+	fra	Hosni	np$np-ant-m-sg	por	Hosni	np
+	fra	Hospitalet	np$np-top-m-sg	por	Hospitalet	np
 	fra	hospitalisation	n-f$n	por	hospitalização	n
 	fra	hospitaliser	vblex	por	hospitalizar	vblex
 	fra	hospitalité	n$n-f	por	hospitalidade	n$n-f-ND
@@ -8885,7 +8885,7 @@ LR	fra	hotellerie	n	por	hotelaria	n
 	fra	Houellebecq	np$np-cog-mf-sp	por	Houellebecq	np
 	fra	House	np$np-cog-mf-sp	por	House	np
 	fra	houspiller	vblex	por	descompor	vblex
-	fra	Houston	np$np-cog-mf-sp	por	Houston	np
+	fra	Houston	np-ant-m-sg$np$np-ant	por	Houston	np
 	fra	Howard	np$np-cog-mf-sp	por	Howard	np
 	fra	Howland	np	por	Howland	np
 	fra	hoyInversión	np	por	hoyInversión	np
@@ -8908,7 +8908,7 @@ LR	fra	hotellerie	n	por	hotelaria	n
 	fra	Huesca	np$np-cog-mf-sp	por	Huesca	np
 	fra	Huffel	np	por	Huffel	np
 	fra	Hugo	np$np-ant$np-ant-m-sg	por	Hugo	np$np-ant
-	fra	Hugo Chávez	np	por	Hugo Chávez	np
+	fra	Hugo Chávez	np$np-ant-m-sg	por	Hugo Chávez	np
 	fra	Hugo Chávez Frías	np	por	Hugo Chávez Frías	np
 	fra	Hugues	np-ant$np-ant-m-sg$np	por	Hugues	np
 	fra	Huidobro	np$np-cog-mf-sp	por	Huidobro	np
@@ -8925,7 +8925,7 @@ LR	fra	hotellerie	n	por	hotelaria	n
 	fra	humanitaire	adj-mf$adj$adj-mf-ND	por	humanitário	adj$adj-GD-ND
 	fra	humanité	n$n-f$n-f-ND	por	humanidade	n$n-f-ND
 	fra	Humbert	np$np-cog-mf-sp	por	Humbert	np
-	fra	Humberto	np$np-ant	por	Humberto	np$np-ant
+	fra	Humberto	np$np-ant$np-ant-m-sg	por	Humberto	np$np-ant
 	fra	humble	adj$adj-mf-ND	por	humilde	adj
 	fra	humblement	adv	por	humildemente	adv
 	fra	humeur	n-f$n-f-ND	por	humor	n$n-m
@@ -9044,9 +9044,9 @@ LR	fra	ile	n$n-f	por	ilha	n
 	fra	Île aux Ours	np$np-top-f	por	Ilha do Urso	np
 	fra	Île de la Passion	np	por	Ilha de Clipperton	np
 	fra	Île de l'Ascension	np	por	Ascensão	np
-	fra	Île de Man	np$np-top	por	Ilha de Man	np
+	fra	Île de Man	np$np-top$np-top-f-sg	por	Ilha de Man	np
 LR	fra	Île de Paques	np	por	Ilha de Páscoa	np
-	fra	Île de Pâques	np$np-top-f	por	Ilha de Páscoa	np
+	fra	Île de Pâques	np$np-top-f$np-top-f-sg	por	Ilha de Páscoa	np
 	fra	Île du Nord	np$np-top-f	por	Ilha Norte	np
 	fra	Île du Prince	np	por	Ilha do Príncipe	np
 	fra	Île du Sud	np$np-top-f	por	Ilha Sul	np
@@ -9082,9 +9082,9 @@ LR	fra	ile de l'ascension	n	por	ascensão	n$n-f
 	fra	Îles Salomon	np$np-loc-f	por	Ilhas Salomão	np
 	fra	Îles Tchagos	np	por	Arquipélago de Chagos	np
 	fra	Îles Turques-et-Caïques	np	por	Turks e Caicos	np
-	fra	Îles Vierges	np$np-top-f	por	Ilhas Virgens	np
-	fra	Îles Vierges américaines	np	por	Ilhas Virgens Americanas	np
-	fra	Îles Vierges britanniques	np$np-top-f	por	Ilhas Virgens Britânicas	np
+	fra	Îles Vierges	np$np-top-f$np-top-f-pl	por	Ilhas Virgens	np
+	fra	Îles Vierges américaines	np$np-top-f-pl	por	Ilhas Virgens Americanas	np
+	fra	Îles Vierges britanniques	np$np-top-f$np-top-f-pl	por	Ilhas Virgens Britânicas	np
 	fra	Îles Zaffarines	np	por	Ilhas Chafarinas	np
 	fra	Iliade	np$np-al-mf	por	Ilíada	np
 	fra	Illarramendi	np$np-cog-mf-sp	por	Illarramendi	np
@@ -9112,7 +9112,7 @@ RL	fra	illuminer	vblex	por	alumiar	vblex
 	fra	imagination	n$n-f$n-f-ND	por	imaginação	n
 	fra	imaginer	vblex	por	imaginar	vblex
 	fra	Imagotipo	np	por	Imagotipo	np
-	fra	Imanol	np$np-ant$np-ant-m-sg	por	Imanol	np
+	fra	Imanol	np$np-ant-m-sg$np-ant	por	Imanol	np
 	fra	Imaz	np$np-cog-mf-sp	por	Imaz	np
 	fra	imbécile	adj$adj-mf-ND	por	imbecil	adj
 RL	fra	imbécile	adj$adj-mf-ND	por	néscio	adj
@@ -9139,10 +9139,10 @@ RL	fra	imbécile	adj$adj-mf-ND	por	néscio	adj
 	fra	immobilier	adj	por	imobiliário	adj
 	fra	immobiliser	vblex	por	imobilizar	vblex
 	fra	immortalité	n$n-f	por	imortalidade	n
-	fra	immortel	adj$adj-m$adj-m-sg	por	imortal	adj
+	fra	immortel	adj$adj-m$$adj-m-sg	por	imortal	adj
 	fra	immunologique	adj	por	imunológico	adj
 	fra	impact	n$n-m$n-m-ND	por	impacto	n$n-m-ND
-RL	fra	impartial	adj$adj-f	por	imparcial	adj
+RL	fra	impartial	adj$adj-f$	por	imparcial	adj
 	fra	impartialité	n$n-f	por	imparcialidade	n$n-f-ND
 	fra	impatience	n-f$n$n-f-ND	por	impaciência	n
 	fra	impatient	adj$adj-GD-ND	por	impaciente	adj
@@ -9413,7 +9413,7 @@ RL	fra	informel	adj$adj-GD$adj-GD-ND$	por	informal	adj
 	fra	ingéniosité	n-f$n-f-ND	por	talento	n$n-m$n-m-ND
 	fra	ingérer	vblex	por	ingerir	vblex
 	fra	ingestion	n-f$n	por	ingestão	n
-	fra	Ingmar	np$np-ant-m-sg	por	Ingmar	np
+	fra	Ingmar	np-ant-m-sg$np	por	Ingmar	np
 	fra	ingratitude	n	por	ingratidão	n
 	fra	ingrédient	n-m$n$n-m-ND	por	ingrediente	n
 	fra	Ingrid	np$np-ant-f-sg$np-ant	por	Ingrid	np
@@ -9720,7 +9720,7 @@ RL	fra	Irlande	np$np-top$np-top-f$np-top-f-sg	por	Irlanda	np$np-loc
 	fra	Isdabe	np	por	Isdabe	np
 	fra	Isère	np$np-loc-f	por	Isère	np
 	fra	Isidoro	np$np-ant$np-ant-m-sg	por	Isidoro	np
-	fra	Isidro	np$np-ant-m-sg$np-ant	por	Isidro	np
+	fra	Isidro	np-ant-m-sg$np$np-ant	por	Isidro	np
 	fra	islam	n$n-m$n-m-sg	por	islã	n
 	fra	islam	n$n-m$n-m-sg	por	islão	n
 	fra	Islamabad	np$np-top-m$np-top-m-sg	por	Islamabad	np
@@ -9729,7 +9729,7 @@ RL	fra	Irlande	np$np-top$np-top-f$np-top-f-sg	por	Irlanda	np$np-loc
 	fra	islamiste	n$n-mf	por	islamista	n
 RL	fra	islamiste	adj$adj-mf	por	islamita	adj
 	fra	Islande	np$np-top-f$np-top-f-sg$np-top	por	Islândia	np$np-top-f-sg
-	fra	Ismael	np$np-ant-m-sg$np-ant	por	Ismael	np
+	fra	Ismael	np-ant-m-sg$np$np-ant	por	Ismael	np
 	fra	Isocrate	np	por	Isócrates	np
 	fra	isolement	n$n-m$n-m-ND	por	isolamento	n
 	fra	isoler	vblex	por	isolar	vblex$vblex-pp-GD-ND
@@ -9765,7 +9765,7 @@ RL	fra	italien	n$n-m$n-m-ND	por	italiano	n$n-m
 	fra	iurbentia	np	por	iurbentia	np
 	fra	IV	num$num-mf-sp	por	IV	num
 	fra	Ivan	np$np-ant-m-sg$np-ant	por	Ivan	np
-	fra	Iván	np$np-ant-m-sg$np-ant	por	Iván	np
+	fra	Iván	np-ant-m-sg$np$np-ant	por	Iván	np
 	fra	Ivan Gasparovic	np	por	Ivan Gasparovic	np
 	fra	Ivanov	np-cog-mf-sp$np	por	Ivanov	np
 	fra	Ivanovic	np$np-cog-mf-sp	por	Ivanovic	np
@@ -9822,7 +9822,7 @@ RL	fra	Jacob	np$np-cog$np-cog-mf-sp	por	Jacob	np
 	fra	Janez Jansa	np	por	Janez Jansa	np
 	fra	Jan Pieter Balkenende	np	por	Jan Pieter Balkenende	np
 	fra	Janubio	np	por	Janubio	np
-	fra	Janus	np$np-ant$np-ant-m-sg	por	Janus	np
+	fra	Janus	np$np-ant-m-sg$np-ant	por	Janus	np
 	fra	janvier	n$n-m$n-m-sg	por	janeiro	n$n-m$n-m-ND
 	fra	Japon	np$np-top-m$np-top-m-sg$np-top	por	Japão	np$np-loc
 	fra	japonais	adj-m-sp$adj	por	japonês	adj$adj-GD-ND
@@ -9854,11 +9854,11 @@ RL	fra	Jason	np$np-ant-m-sg$np-ant	por	Jason	np
 	fra	JavaME	np	por	JavaME	np
 	fra	Jávea	np$np-top-f-sg	por	Jávea	np
 	fra	Javi	np$np-ant-m-sg	por	Javi	np
-	fra	Javier	np$np-ant$np-ant-m-sg	por	Javier	np
+	fra	Javier	np$np-ant-m-sg$np-ant	por	Javier	np
 	fra	je	prn$prn-tn-p1-mf-sg$prn-tn-p1$prn-tn	por	eu	prn$prn-tn$prn-tn-p1-mf
 	fra	Jean	np-ant-m-sg$np$np-ant	por	Jean	np
-	fra	Jean-Baptiste	np$np-ant-m-sg$np-ant	por	Jean-Baptiste	np
-	fra	Jean-Bernard	np$np-ant$np-ant-m-sg	por	Jean-Bernard	np
+	fra	Jean-Baptiste	np-ant-m-sg$np$np-ant	por	Jean-Baptiste	np
+	fra	Jean-Bernard	np$np-ant-m-sg$np-ant	por	Jean-Bernard	np
 	fra	Jean Scot Érigène	np	por	João Escoto Erígena	np
 	fra	Jean Cabot	np$np-ant	por	Giovanni Caboto	np
 	fra	Jean Calvin	np$np-ant$np-ant-m-sg	por	João Calvino	np
@@ -9895,7 +9895,7 @@ RL	fra	Jérôme	np$np-ant$np-ant-m-sg	por	São Jerónimo	np
 	fra	Jêrome Bosphore	np	por	Jêrome Bosphore	np
 	fra	Jerónimo	np$np-ant$np-ant-m-sg	por	Jerónimo	np
 	fra	Jerry	np$np-ant-m-sg$np-ant	por	Jerry	np
-	fra	Jersey	np$np-top$np-top-m$np-top-m-sg	por	Jersey	np
+	fra	Jersey	np$np-top-m-sg$np-top$np-top-m	por	Jersey	np
 	fra	Jérusalem	np$np-top-m-sg$np-top	por	Jerusalém	np
 	fra	Jessica	np-ant-f-sg$np$np-ant	por	Jessica	np
 	fra	Jesus	np$np-ant$np-ant-m-sg	por	Jesus	np$np-ant
@@ -9931,14 +9931,14 @@ RL	fra	Joana	np$np-ant-f-sg$np-ant	por	Joana	np
 	fra	Joanes Leizarraga	np	por	Joanes Leizarraga	np
 	fra	João	np	por	João	np$np-ant
 	fra	Joaquim	np$np-ant-m-sg	por	Joaquim	np
-	fra	Joaquin	np$np-cog-mf-sp	por	Joaquin	np
+	fra	Joaquin	np-ant-m-sg$np$np-ant	por	Joaquin	np
 	fra	Joaquín	np$np-ant$np-ant-m-sg	por	Joaquín	np
 	fra	Job	np$np-ant	por	Pateta	np
 	fra	Jobs	np-cog-mf-sp$np	por	Jobs	np
 	fra	Joe	np$np-ant$np-ant-m-sg	por	Joe	np$np-ant
 	fra	Joel	np$np-ant-m-sg$np-ant	por	Joel	np
 	fra	Joël	np$np-ant$np-ant-m-sg	por	Joël	np
-	fra	Joëlle	np$np-ant$np-ant-f-sg	por	Joëlle	np
+	fra	Joëlle	np-ant-f-sg$np$np-ant	por	Joëlle	np
 	fra	Joffrin	np$np-cog-mf-sp	por	Joffrin	np
 	fra	Johann	np$np-ant-m-sg	por	Johann	np
 	fra	Johannesburg	np$np-top	por	Joanesburgo	np
@@ -9947,7 +9947,7 @@ RL	fra	Joana	np$np-ant-f-sg$np-ant	por	Joana	np
 	fra	John Compton	np	por	John Compton	np
 	fra	John Fredrik Reinfeldt	np	por	John Fredrik Reinfeldt	np
 	fra	John Howard	np	por	John Howard	np
-	fra	Johnnie	np$np-ant$np-ant-m-sg	por	Johnnie	np
+	fra	Johnnie	np$np-ant-m-sg$np-ant	por	Johnnie	np
 	fra	Johnny	np$np-ant-m-sg$np-ant	por	Johnny	np
 	fra	Johnson	np$np-cog-mf-sp$np-cog	por	Johnson	np
 	fra	Johnston	np-cog-mf-sp$np	por	Johnston	np
@@ -9978,7 +9978,7 @@ LR	fra	joignable	adj	por	disponível	adj$adj-mf-ND
 	fra	Jose	np$np-ant-m-sg$np-ant	por	Jose	np
 	fra	José	np$np-ant-m-sg$np-ant	por	José	np$np-ant
 	fra	Joseba	np$np-ant$np-ant-m-sg	por	Joseba	np
-	fra	Josefa	np$np-ant-f-sg$np-ant	por	Josefa	np
+	fra	Josefa	np-ant-f-sg$np$np-ant	por	Josefa	np
 	fra	Josefina	np$np-ant-f-sg$np-ant	por	Josefina	np
 	fra	José Luis Rodríguez Zapatero	np$np-ant	por	José Luis Rodríguez Zapatero	np
 	fra	José María Aznar	np$np-ant	por	José María Aznar	np
@@ -10030,7 +10030,7 @@ LR	fra	journalier	adj	por	diário	adj
 	fra	Joyce	np$np-cog-mf-sp	por	Joyce	np
 	fra	joyeusement	adv	por	felizmente	adv
 	fra	joyeux	adj-m-sp$adj	por	feliz	adj-mf$adj
-	fra	Juana	np$np-ant$np-ant-f-sg	por	Juana	np
+	fra	Juana	np$np-ant-f-sg$np-ant	por	Juana	np
 	fra	Juan	np$np-ant$np-ant-m-sg	por	Juan	np
 	fra	Juan Carlos Ier	np$np-ant	por	Juan Carlos Ier	np
 	fra	Juanito	np$np-ant$np-ant-m-sg	por	Juanito	np
@@ -10110,7 +10110,7 @@ RL	fra	justification	n$n-f$n-f-ND	por	justificação	n
 	fra	justifier	vblex	por	justificar	vblex
 	fra	Jutland	np$np-top-m-sg	por	Jutlândia	np
 	fra	juvénile	adj$adj-mf$adj-mf-ND	por	juvenil	adj
-	fra	Juventud	np	por	Juventud	np
+	fra	Juventud	np$np-al	por	Juventud	np
 	fra	k	n$n-m	por	k	n$n-m
 	fra	Kabardino-Balkarie	np	por	Cabárdia-Balcária	np
 	fra	Kabila	np$np-cog-mf-sp	por	Kabila	np
@@ -10118,7 +10118,7 @@ RL	fra	justification	n$n-f$n-f-ND	por	justificação	n
 	fra	Kaboul	np$np-loc-f	por	Kabul	np
 	fra	Kaczynski	np-cog-mf-sp$np	por	Kaczynski	np
 	fra	Kadhafi	np-cog-mf-sp$np	por	Kadhafi	np
-	fra	Kadima	np	por	Kadima	np
+	fra	Kadima	np$np-al	por	Kadima	np
 	fra	Kafe Antzokia	np	por	Kafe Antzokia	np
 	fra	Kairouan	np	por	Kairouan	np
 	fra	Kalifornia	np	por	Kalifornia	np
@@ -10138,7 +10138,7 @@ RL	fra	justification	n$n-f$n-f-ND	por	justificação	n
 	fra	Karanka	np$np-cog-mf-sp	por	Karanka	np
 	fra	Karen	np$np-ant-f-sg$np-ant	por	Karen	np
 	fra	Karim	np$np-cog-mf-sp	por	Karim	np
-	fra	Karina	np$np-ant$np-ant-f-sg	por	Karina	np
+	fra	Karina	np$np-ant-f-sg$np-ant	por	Karina	np
 	fra	Karl	np$np-ant$np-ant-m-sg	por	Karl	np
 	fra	Karlos	np$np-ant-m-sg	por	Karlos	np
 	fra	Karmona	np	por	Karmona	np
@@ -10147,10 +10147,10 @@ RL	fra	justification	n$n-f$n-f-ND	por	justificação	n
 	fra	Karpets	np	por	Karpets	np
 	fra	Karpin	np	por	Karpin	np
 	fra	Kate	np$np-ant-f-sg$np-ant	por	Kate	np
-	fra	Katia	np$np-ant-f-sg$np-ant	por	Katia	np
+	fra	Katia	np-ant-f-sg$np$np-ant	por	Katia	np
 	fra	Katmandou	np	por	Catmandu	np
 	fra	Katmandu	np	por	Katmandu	np
-	fra	Katrina	np$np-ant$np-ant-f-sg	por	Katrina	np
+	fra	Katrina	np$np-ant-f-sg$np-ant	por	Katrina	np
 	fra	Katsav	np$np-cog-mf-sp	por	Katsav	np
 	fra	Katxo	np	por	Katxo	np
 	fra	Kauta	np	por	Kauta	np
@@ -10178,7 +10178,7 @@ LR	fra	Kevin	np$np-ant$np-ant-m-sg	por	Kevin	np$np-ant
 	fra	Khartoum	np	por	Cartum	np
 	fra	Khéops	np	por	Khufu	np
 	fra	Khephren	np	por	Khephren	np
-	fra	KIA	np	por	KIA	np
+	fra	KIA	np$np-al	por	KIA	np
 	fra	Kide	np	por	Kide	np
 	fra	Kidman	np-ant$np	por	Kidman	np
 	fra	kidnapper	vblex	por	seqüestrar	vblex
@@ -10207,15 +10207,15 @@ LR	fra	Kevin	np$np-ant$np-ant-m-sg	por	Kevin	np$np-ant
 	fra	Kingstown	np	por	Kingstown	np
 	fra	Kinshasa	np$np-top-f-sg	por	Kinshasa	np
 	fra	Kirchner	np$np-cog-mf-sp	por	Kirchner	np
-	fra	Kirghizistan	np$np-top$np-top-m-sg	por	Quirguistão	np$np-top
+	fra	Kirghizistan	np$np-top-m-sg$np-top	por	Quirguistão	np$np-top
 	fra	Kiribati	np$np-loc-f	por	Kiribati	np
 	fra	Klarsfeld	np$np-cog-mf-sp	por	Klarsfeld	np
-	fra	Klaus	np$np-ant$np-ant-m-sg	por	Klaus	np
+	fra	Klaus	np$np-ant-m-sg$np-ant	por	Klaus	np
 	fra	Klein	np$np-cog-mf-sp	por	Klein	np
 	fra	Klimt	np$np-cog-mf-sp	por	Klimt	np
 	fra	km	n$n-m$n-acr-m	por	km	n$n-m
 	fra	Knesset	np	por	Knesset	np
-	fra	Kofi	np$np-ant-m-sg	por	Kofi	np
+	fra	Kofi	np-ant-m-sg$np	por	Kofi	np
 	fra	Koikili	np	por	Koikili	np
 	fra	Koizumi	np$np-cog-mf-sp	por	Koizumi	np
 	fra	Koldo	np$np-ant$np-ant-m-sg	por	Koldo	np
@@ -10238,8 +10238,8 @@ LR	fra	Kevin	np$np-ant$np-ant-m-sg	por	Kevin	np$np-ant
 	fra	Kourgan	np	por	Kourgan	np
 	fra	Koursk	np	por	Kursk	np
 	fra	Kovacevic	np	por	Kovacevic	np
-	fra	Koweït	np$np-top-m$np-top	por	Kuwait	np$np-top-m-sg
-RL	fra	Koweït	np$np-top-m$np-top	por	Koweit	np
+	fra	Koweït	np$np-top-m$np-top$np-top-m-sg	por	Kuwait	np$np-top-m-sg
+RL	fra	Koweït	np$np-top-m$np-top$np-top-m-sg	por	Koweit	np
 	fra	Koxtape	np	por	Koxtape	np
 	fra	Krakatau	np	por	Krakatoa	np
 	fra	Krauss	np$np-cog-mf-sp	por	Krauss	np
@@ -10257,7 +10257,7 @@ RL	fra	Koweït	np$np-top-m$np-top	por	Koweit	np
 	fra	Kundera	np$np-cog-mf-sp	por	Kundera	np
 	fra	Kuoni	np	por	Kuoni	np
 	fra	kurde	adj-mf$adj$adj-mf-ND	por	curdo	adj
-	fra	Kurdistan	np$np-top$np-top-m$np-top-m-sg	por	Curdistão	np
+	fra	Kurdistan	np$np-top-m-sg$np-top$np-top-m	por	Curdistão	np
 	fra	Kuribayashi	np$np-cog-mf-sp	por	Kuribayashi	np
 	fra	Kursaal	np	por	Kursaal	np
 	fra	Kurt	np$np-ant$np-ant-m-sg	por	Kurt	np
@@ -10329,7 +10329,7 @@ RL	fra	La Corogne	np$np-top-f-sg	por	Coruña	np
 	fra	l'actu en patates	np	por	l'actu en patates	np
 	fra	Laden	np$np-cog-mf-sp	por	Laden	np
 	fra	L'Adieux aux Armes	np	por	L'Adieux aux Armes	np
-	fra	Laetitia	np$np-ant$np-ant-f-sg	por	Laetitia	np
+	fra	Laetitia	np-ant-f-sg$np$np-ant	por	Laetitia	np
 	fra	Lafarge	np$np-cog-mf-sp	por	Lafarge	np
 	fra	Lafayette	np$np-cog-mf-sp	por	Lafayette	np
 	fra	Lafont	np$np-cog$np-cog-mf-sp	por	Lafont	np
@@ -10385,7 +10385,7 @@ LR	fra	langagier	adj	por	linguístico	adj
 	fra	Lanzarote	np$np-top-m-sg	por	Lançarote	np
 	fra	Laocoon	np	por	Laocoonte	np
 	fra	Laon	np$np-loc-f	por	Laon	np
-	fra	Laos	np$np-top-m$np-top	por	Laos	np$np-top
+	fra	Laos	np$np-top-m$np-top$np-top-m-sg	por	Laos	np$np-top
 	fra	La Palma	np$np-top-f	por	La Palma	np
 	fra	lapider	vblex	por	lapidar	vblex
 	fra	lapin	n$n-m$n-m-ND	por	coelho	n
@@ -10445,7 +10445,7 @@ LR	fra	langagier	adj	por	linguístico	adj
 	fra	Lázaro	np$np-cog$np-cog-mf-sp	por	Lázaro	np
 	fra	Lazkano	np	por	Lazkano	np
 	fra	Lazkao	np	por	Lazkao	np
-	fra	LCD	np	por	LCD	np
+	fra	LCD	np$np-al	por	LCD	np
 	fra	le	det-def-f-sg	por	o	det-def-f-sg$det-def-f
 	fra	le	det-def-m-sg	por	o	det-def-m-sg$det-def-m
 	fra	le	prn-enc-p3-f-sg	por	o	prn-enc-p3-f$prn-enc-p3-f-sg
@@ -10589,7 +10589,7 @@ RL	fra	Lénine	np$np-ant	por	Lénine	np
 	fra	lentille	n$n-f	por	lente	n
 	fra	Léo	np$np-cog-mf-sp	por	Leo	np
 RL	fra	Léo	np$np-cog-mf-sp	por	Léo	np
-	fra	León	np$np-ant$np-ant-m-sg	por	León	np
+	fra	León	np$np-ant-m-sg$np-ant	por	León	np
 	fra	Léonard	np$np-cog$np-cog-mf-sp	por	Leonard	np
 RL	fra	Léonard	np$np-cog$np-cog-mf-sp	por	Léonard	np
 	fra	Léonard de Vinci	np$np-ant$np-ant-m-sg	por	Leonardo da Vinci	np
@@ -10598,7 +10598,7 @@ RL	fra	Léonard	np$np-cog$np-cog-mf-sp	por	Léonard	np
 	fra	Leonel Fernández Reyna	np	por	Leonel Fernández Reyna	np
 	fra	Leonor	np$np-ant$np-ant-f-sg	por	Leonor	np
 	fra	Léopold	np$np-ant$np-ant-m-sg	por	Léopold	np
-	fra	Leopoldo	np$np-ant-m-sg$np-ant	por	Leopoldo	np$np-ant
+	fra	Leopoldo	np-ant-m-sg$np$np-ant	por	Leopoldo	np$np-ant
 	fra	Léotard	np$np-ant-m-sg	por	Léotard	np
 	fra	Lépante	np	por	Lepanto	np
 	fra	Le Pen	np$np-cog$np-cog-mf-sp	por	Le Pen	np
@@ -10633,7 +10633,7 @@ LR	fra	lequel	rel-m-sg	por	que	rel$rel-an-mf-sp$rel-an-mf-sp-m-sg$rel-an
 	fra	Les Lumières	np	por	Les Lumières	np
 	fra	Lesnes	np	por	Lesnes	np
 	fra	Le Soir	np$np-al-m-sg	por	Le Soir	np
-	fra	Lesotho	np$np-top-m$np-top	por	Lesoto	np$np-top
+	fra	Lesotho	np$np-top-m$np-top$np-top-m-sg	por	Lesoto	np$np-top
 	fra	Les Peters	np	por	Les Peters	np
 	fra	les temps chauds	np	por	les temps chauds	np
 	fra	Les Vosges	np	por	Les Vosges	np
@@ -10683,9 +10683,9 @@ RL	fra	libéral	adj$adj-GD$adj-GD-ND$	por	liberal	adj
 	fra	libérer	vblex	por	libertar	vblex
 RL	fra	libérer	adj	por	libertar	adj
 RL	fra	libérer	vblex	por	liberar	vblex
-	fra	Libéria	np$np-top$np-top-m	por	Libéria	np$np-top
+	fra	Libéria	np$np-top$np-top-m$np-top-m-sg	por	Libéria	np$np-top
 	fra	liberté	n$n-f$n-f-ND	por	liberdade	n$n-f-ND
-	fra	Liberty	np$np-ant-f-sg$np-ant	por	Liberty	np
+	fra	Liberty	np-ant-f-sg$np$np-ant	por	Liberty	np
 	fra	Libie	np	por	Libie	np
 	fra	libraire	n-mf$n	por	livreiro	n
 RL	fra	libraire	n-mf$n	por	livraria	n$n-f
@@ -10726,8 +10726,8 @@ RL	fra	libre	adj-mf-ND$adj$adj-mf	por	vago	adj
 	fra	Ligue Régulier	np	por	Ligue Régulier	np
 	fra	Ligurie	np$np-loc-f	por	Ligúria	np
 	fra	Likoud	np	por	Likud	np
-	fra	Liliana	np$np-ant-f-sg$np-ant	por	Liliana	np$np-ant
-	fra	Lilian	np$np-ant-f-sg$np-ant	por	Lilian	np
+	fra	Liliana	np-ant-f-sg$np$np-ant	por	Liliana	np$np-ant
+	fra	Lilian	np-ant-f-sg$np$np-ant	por	Lilian	np
 	fra	Lille	np$np-loc-f	por	Lille	np
 	fra	Lilongwe	np	por	Lilongwe	np
 	fra	Lima	np$np-top-f-sg$np-top-f	por	Lima	np
@@ -10738,8 +10738,8 @@ RL	fra	libre	adj-mf-ND$adj$adj-mf	por	vago	adj
 	fra	limiter	vblex	por	limitar	vblex$vblex-pp-GD-ND
 	fra	Limoges	np$np-top-f-sg	por	Limoges	np
 	fra	Limousin	np$np-top-m-sg	por	Limusino	np
-	fra	Lina	np$np-ant$np-ant-f-sg	por	Lina	np
-	fra	Linares	np$np-cog-mf-sp	por	Linares	np
+	fra	Lina	np-ant-f-sg$np$np-ant	por	Lina	np
+	fra	Linares	np$np-top-m-sg	por	Linares	np
 	fra	Linda	np$np-ant-f-sg$np-ant	por	Linda	np
 	fra	linéaire	adj$adj-mf	por	linear	adj
 	fra	lingerie	n$n-f	por	lingerie	n
@@ -10851,10 +10851,10 @@ LR	fra	logiciel d'application	n	por	aplicativo	n$n-m
 	fra	Loir-et-Cher	np$np-loc-f	por	Loir-et-Cher	np
 	fra	loisir	n-m$n$n-m-pl	por	lazer	n
 	fra	Loiu	np	por	Loiu	np
-	fra	Lola	np-ant$np$np-ant-f-sg	por	Lola	np
+	fra	Lola	np-ant$np-ant-f-sg$np	por	Lola	np
 	fra	Loli	np$np-ant-f-sg	por	Loli	np
 	fra	Lolín	np	por	Lolín	np
-	fra	Lolita	np$np-ant$np-ant-f-sg	por	Lolita	np
+	fra	Lolita	np-ant-f-sg$np$np-ant	por	Lolita	np
 	fra	lombaire	adj	por	lombar	adj
 	fra	Lombard	np$np-cog-mf-sp	por	Lombard	np
 	fra	Lombardi	np$np-cog-mf-sp	por	Lombardi	np
@@ -10916,7 +10916,7 @@ RL	fra	louer	vblex	por	arrendar	vblex
 RL	fra	lourd	adj$adj-GD-ND	por	chato	adj
 	fra	lourdement	adv	por	pesadamente	adv
 	fra	Lourdes	np$np-top$np-top-f-sg	por	Lourdes	np
-	fra	Lou Reed	np$np-ant$np-ant-m-sg	por	Lou Reed	np
+	fra	Lou Reed	np$np-ant-m-sg$np-ant	por	Lou Reed	np
 	fra	Louvain	np$np-loc-f	por	Lovaina	np
 	fra	louve	n	por	loba	n
 	fra	Louvre	np$np-loc-f	por	Louvre	np
@@ -10924,7 +10924,7 @@ RL	fra	lourd	adj$adj-GD-ND	por	chato	adj
 	fra	loyauté	n-f$n	por	lealdade	n
 	fra	loyer	n-m$n$n-m-ND	por	aluguel	n
 	fra	loyer	n-m$n$n-m-ND	por	aluguer	n
-	fra	Loyola	np$np-ant-f-sg	por	Loyola	np
+	fra	Loyola	np-ant-f-sg$np	por	Loyola	np
 	fra	Lozano	np$np-cog$np-cog-mf-sp	por	Lozano	np
 	fra	Lozère	np$np-loc-f	por	Lozère	np
 	fra	Lozoya	np$np-cog$np-cog-mf-sp	por	Lozoya	np
@@ -10942,13 +10942,13 @@ RL	fra	Lucia	np$np-ant-f-sg$np-ant	por	Lucia	np$np-ant
 	fra	lucidité	n$n-f	por	lucidez	n
 	fra	Lucie	np-ant-f-sg$np$np-ant	por	Lucia	np$np-ant
 	fra	Lucien	np$np-cog-mf-sp	por	Lucien	np
-	fra	Lucio	np$np-ant$np-ant-m-sg	por	Lucio	np
+	fra	Lucio	np-ant-m-sg$np$np-ant	por	Lucio	np
 	fra	Luçon	np$np-top-m-sg	por	Luçon	np
 	fra	lucratif	adj	por	lucrativo	adj
 	fra	lucre	n-m$n	por	lucro	n
 	fra	Lucy	np$np-ant-f-sg$np-ant	por	Lucy	np
 	fra	ludique	adj-mf$adj	por	lúdico	adj
-	fra	Ludovic	np$np-ant$np-ant-m-sg	por	Ludovic	np
+	fra	Ludovic	np-ant-m-sg$np$np-ant	por	Ludovic	np
 	fra	Ludwig Scotty	np	por	Ludwig Scotty	np
 	fra	Luengo	np$np-cog$np-cog-mf-sp	por	Luengo	np
 	fra	Luesma	np	por	Luesma	np
@@ -10964,10 +10964,10 @@ RL	fra	lui	prn-enc-p3-mf-sg$prn-enc-p3-mf	por	lhe	prn-enc-p3-mf-sp
 	fra	Luis	np$np-ant$np-ant-m-sg	por	Luis	np$np-ant
 RL	fra	Luisa	np$np-ant-f-sg$np-ant	por	Luisa	np
 	fra	Luís	np-ant-m-sg$np	por	Luís	np$np-ant
-	fra	Luiz	np$np-ant-m-sg	por	Luiz	np
+	fra	Luiz	np-ant-m-sg$np	por	Luiz	np
 	fra	Luiz Inácio Lula da Silva	np	por	Luiz Inácio Lula da Silva	np
 	fra	Lujanbio	np$np-cog-mf-sp	por	Lujanbio	np
-	fra	Lula	np$np-ant-f-sg$np-ant	por	Lula	np
+	fra	Lula	np-ant-f-sg$np$np-ant	por	Lula	np
 	fra	Lula da Silva	np$np-cog-mf-sp	por	Lula da Silva	np
 	fra	Lulling	np	por	Lulling	np
 	fra	lumière	n-f$n$n-f-ND	por	luz	n-f$n$n-f-ND
@@ -10981,8 +10981,8 @@ RL	fra	Luisa	np$np-ant-f-sg$np-ant	por	Luisa	np
 	fra	lupin	adj	por	lupino	adj
 	fra	Luque	np$np-cog$np-cog-mf-sp	por	Luque	np
 	fra	Lurralde Bus	np	por	Lurralde Bus	np
-	fra	Lusace	np	por	Lusácia	np
-	fra	Lusaka	np	por	Lusaka	np
+	fra	Lusace	np$np-top-f-sg	por	Lusácia	np
+	fra	Lusaka	np$np-top-f-sg	por	Lusaka	np
 	fra	Lusitanie	np$np-top-f-sg	por	Lusitânia	np
 	fra	lusophone	adj	por	lusófono	adj
 	fra	Lutèce	np$np-top-f-sg	por	Lutécia	np
@@ -11009,9 +11009,9 @@ RL	fra	Luisa	np$np-ant-f-sg$np-ant	por	Luisa	np
 	fra	M	num$$num-mf-sp	por	M	num
 	fra	Ma'aleh Adumim	np	por	Ma'ale Adummim	np
 	fra	Maastricht	np$np-top-m-sg	por	Maastricht	np
-	fra	Mabel	np$np-ant-f-sg$np-ant	por	Mabel	np
+	fra	Mabel	np-ant-f-sg$np$np-ant	por	Mabel	np
 	fra	Mac	np$np-cog-mf-sp	por	Mac	np
-	fra	Macao	np	por	Macao	np
+	fra	Macao	np$np-top-m-sg	por	Macao	np
 	fra	Maccabi	np	por	Maccabi	np
 	fra	Macédoine	np$np-top-f-sg$np-top$np-top-f	por	Macedónia	np$np-top
 	fra	MacGyver	np-cog-mf-sp$np	por	MacGyver	np
@@ -11026,7 +11026,7 @@ LR	fra	machoire	n$n-f	por	queixo	n
 	fra	mâchoire	n-f$n	por	queixo	n
 	fra	Macijauscas	np$np-cog-mf-sp	por	Macijauscas	np
 	fra	Macijauskas	np$np-cog-mf-sp	por	Macijauskas	np
-	fra	Mackenzie	np$np-cog-mf-sp	por	Mackenzie	np
+	fra	Mackenzie	np-ant-f-sg$np$np-ant	por	Mackenzie	np
 LR	fra	Macon	np	por	Mâcon	np
 	fra	maçon	n$n-f	por	pedreiro	n$n-mf-ND
 	fra	Mâcon	np$np-loc-f	por	Mâcon	np
@@ -11049,18 +11049,18 @@ RL	fra	Madrid	np$np-top-m-sg$np-top$np-top-m	por	Madrid	np$np-top
 	fra	madrilène	adj-mf$adj$adj-mf-ND	por	madrileno	adj
 RL	fra	madrilène	adj-mf$adj$adj-mf-ND	por	madrilenho	adj
 	fra	Mads	np	por	Mads	np
-	fra	Maes	np	por	Maes	np
+	fra	Maes	np$np-al	por	Maes	np
 	fra	Maestre	np$np-cog$np-cog-mf-sp	por	Maestre	np
 	fra	mafia	n$n-f$n-f-ND	por	máfia	n
 	fra	mafieux	adj	por	mafioso	adj
 	fra	magasin	n-m$n$n-m-ND	por	loja	n$n-f
 	fra	magazine	n-m$n-m-ND	por	revista	n$n-f$n-f-ND
-	fra	Magda	np$np-ant$np-ant-f-sg	por	Magda	np
+	fra	Magda	np$np-ant-f-sg$np-ant	por	Magda	np
 	fra	Magdalena	np$np-ant$np-ant-f-sg	por	Magdalena	np
 	fra	mage	n$n-m	por	mago	n
-	fra	Magellan	np$np-al	por	Magellan	np-al
-	fra	Magellan	np-ant$np-ant-m-sg	por	Magalhães	np$np-ant
-	fra	Maggie	np$np-ant-f-sg$np-ant	por	Maggie	np
+	fra	Magellan	np-al	por	Magellan	np-al
+	fra	Magellan	np-ant-m-sg$np$np-ant	por	Magalhães	np$np-ant
+	fra	Maggie	np-ant-f-sg$np$np-ant	por	Maggie	np
 	fra	Maghreb	np$np-top-m-sg	por	Magrebe	np
 	fra	magie	n$n-f$n-f-ND	por	magia	n
 	fra	Magie	np	por	Magie	np
@@ -11199,7 +11199,7 @@ RL	fra	manche	n-m$n	por	set	n
 	fra	manipuler	vblex	por	manipular	vblex
 	fra	Manny Mori	np	por	Manny Mori	np
 	fra	manoeuvre	n$n-f$n-f-ND	por	manobra	n
-	fra	Manolo	np$np-ant$np-ant-m-sg	por	Manolo	np
+	fra	Manolo	np$np-ant-m-sg$np-ant	por	Manolo	np
 RL	fra	manquant	adj$adj-m	por	ausente	adj
 	fra	manque	n-m$n-m-ND	por	carência	n$n-f
 	fra	manquer	vblex	por	carecer	vblex
@@ -11222,7 +11222,7 @@ RL	fra	manuel	adj$adj-f	por	manual	adj$adj-mf-ND
 RL	fra	manuel	n-m$n$n-m-ND	por	manual	n
 	fra	Manuel Chaves	np	por	Manuel Chaves	np
 	fra	Manuel Chaves González	np	por	Manuel Chaves González	np
-	fra	Manuele	np	por	Manuele	np
+	fra	Manuele	np$np-ant-m-sg	por	Manuele	np
 	fra	Manuel Zelaya	np	por	Manuel Zelaya	np
 	fra	manufacturier	adj	por	manufatureiro	adj
 	fra	manufacturier	adj	por	manufactureiro	adj
@@ -11272,7 +11272,7 @@ RL	fra	manuel	n-m$n$n-m-ND	por	manual	n
 	fra	Marfan	np	por	Marfan	np
 	fra	Margaret	np$np-ant-f-sg$np-ant	por	Margaret	np
 	fra	Margarita	np$np-ant-f-sg$np-ant	por	Margarita	np
-	fra	Marge	np$np-ant-f-sg	por	Marge	np
+	fra	Marge	np-ant-f-sg$np	por	Marge	np
 	fra	marginer	vblex	por	marginar	vblex
 	fra	Maria	np$np-ant$np-ant-f-sg	por	Maria	np$np-ant
 	fra	mari	n$n-m$n-m-ND	por	marido	n$n-m$n-m-ND
@@ -11281,7 +11281,7 @@ RL	fra	manuel	n-m$n$n-m-ND	por	manual	n
 	fra	mariage	n-m$n$n-m-ND	por	casal	n$n-m
 	fra	mariage	n-m$n$n-m-ND	por	casamento	n$n-m-pl$n-m
 	fra	Mariana	np$np-ant$np-ant-f-sg	por	Mariana	np
-	fra	Marian	np$np-ant-f-sg$np-ant	por	Marian	np
+	fra	Marian	np-ant-f-sg$np$np-ant	por	Marian	np
 	fra	Marianne	np$np-ant$np-ant-f-sg	por	Marianne	np
 	fra	Mariano	np$np-ant-m-sg$np-ant	por	Mariano	np$np-ant
 	fra	Mariano Rajoy	np$np-ant-m-sg	por	Mariano Rajoy	np
@@ -11313,18 +11313,18 @@ RL	fra	marin	n$n-m	por	marinheiro	n
 	fra	Mário	np	por	Mário	np
 	fra	Marion	np-ant-f-sg$np$np-ant	por	Marion	np
 	fra	marionnette	n-f$n	por	fantoche	n$n-m
-	fra	Marisa	np$np-ant$np-ant-f-sg	por	Marisa	np
+	fra	Marisa	np$np-ant-f-sg$np-ant	por	Marisa	np
 	fra	Marisol	np$np-ant$np-ant-f-sg	por	Marisol	np
 	fra	maritime	adj-mf$adj$adj-mf-ND	por	marítimo	adj$adj-GD-ND
 	fra	Maritxalar	np$np-cog-mf-sp	por	Maritxalar	np
-	fra	Marius	np$np-ant-m-sg$np-ant	por	Marius	np
+	fra	Marius	np-ant-m-sg$np$np-ant	por	Marius	np
 	fra	Marjinalia	np	por	Marjinalia	np
 	fra	Mark	np$np-ant$np-ant-m-sg	por	Mark	np$np-ant
 	fra	Markell	np	por	Markell	np
 	fra	marketing	n-m$n$n-m-sg	por	marketing	n$n-m-sg$n-m
 	fra	Markina	np$np-top-f-sg	por	Markina	np
-	fra	Markus	np$np-ant$np-ant-m-sg	por	Markus	np$np-ant
-	fra	Marlene	np$np-ant$np-ant-f-sg	por	Marlene	np
+	fra	Markus	np-ant-m-sg$np$np-ant	por	Markus	np$np-ant
+	fra	Marlene	np$np-ant-f-sg$np-ant	por	Marlene	np
 	fra	Marley	np	por	Marley	np
 	fra	Marley & Moi	np	por	Marley & Eu	np
 	fra	Marne	np$np-top-f-sg$np-top	por	Marne	np
@@ -11392,7 +11392,7 @@ RL	fra	Martin Luther	np$np-ant-m-sg	por	Martin Luther	np
 	fra	Massif des Vosges	np	por	Vosges	np
 	fra	massif Vinson	np	por	Maciço Vinson	np
 	fra	massification	n$n-f	por	massificação	n
-	fra	Massimiliano	np$np-ant	por	Massimiliano	np
+	fra	Massimiliano	np$np-ant$np-ant-m-sg	por	Massimiliano	np
 	fra	Massimo	np$np-ant$np-ant-m-sg	por	Massimo	np
 	fra	massivement	adv	por	em massa	adv
 	fra	master	n-m$n	por	mestrado	n$n-m-ND
@@ -11435,7 +11435,7 @@ LR	fra	mat	n-m$n	por	mastro	n
 	fra	matrice	n-f$n$n-f-ND	por	matriz	n$n-f-ND
 	fra	Matteo	np-ant$np$np-ant-m-sg	por	Matteo	np
 	fra	Matthew	np$np-cog-mf-sp	por	Matthew	np
-	fra	Matthias	np$np-ant-m-sg$np-ant	por	Matthias	np
+	fra	Matthias	np-ant-m-sg$np$np-ant	por	Matthias	np
 	fra	maturité	n-f$n$n-f-ND	por	maturidade	n$n-f-ND
 	fra	Matxin	np	por	Matxin	np
 	fra	maudire	vblex	por	amaldiçoar	vblex
@@ -11451,7 +11451,7 @@ LR	fra	maussade	adj$adj-mf$adj-mf-ND	por	desagradável	adj
 	fra	Maxi	np$np-al	por	Maxi	np
 	fra	maximal	adj$$adj-GD-ND	por	máximo	adj$adj-GD-ND
 	fra	maximiser	vblex	por	maximizar	vblex
-	fra	Maximo	np$np-ant	por	Maximo	np
+	fra	Maximo	np$np-ant$np-ant-m-sg	por	Maximo	np
 	fra	Maya	np$np-ant-f-sg$np-ant	por	Maya	np
 	fra	Mayence	np$np-loc-f	por	Mainz	np
 	fra	Mayenne	np$np-loc-f	por	Mayenne	np
@@ -11624,7 +11624,7 @@ RL	fra	mer Baltique	np$np-loc-f	por	mer Baltique	np
 	fra	mer d'Okhotsk	np$np-loc-f	por	Mar de Okhotsk	np
 	fra	mer d'Oman	np	por	Mar Arábico	np
 	fra	mer du Groenland	np	por	Mar da Gronelândia	np
-	fra	mer du Japon	np	por	Mar do Japão	np
+	fra	mer du Japon	np$np-top-f-sg	por	Mar do Japão	np
 	fra	mer du Labrador	np	por	Mar do Labrador	np
 	fra	mer du Nord	np$np-loc-f	por	Mar do Norte	np
 	fra	mer Égée	np-top-f-sg$np	por	Mar Egeu	np
@@ -11632,7 +11632,7 @@ RL	fra	mer Baltique	np$np-loc-f	por	mer Baltique	np
 	fra	mer Ionienne	np$np-loc-f	por	Mar Jônico	np
 	fra	mer Jaune	np$np-loc-f	por	Mar Amarelo	np
 	fra	mer Méditerranée	np$np-loc-f	por	Mar Mediterrâneo	np
-	fra	mer Morte	np	por	Mar Morto	np
+	fra	mer Morte	np$np-top-f-sg	por	Mar Morto	np
 	fra	mer Noire	np$np-loc-f	por	Mar Negro	np
 	fra	mer Rouge	np$np-loc-f	por	Mar Vermelho	np
 	fra	mer Tyrrhénienne	np-top-f-sg$np	por	Mar Tirreno	np
@@ -11660,12 +11660,12 @@ LR	fra	mercatique	n-f	por	marketing	n$n-m-sg$n-m
 	fra	Merino	np$np-cog$np-cog-mf-sp	por	Merino	np
 	fra	mérite	n-m$n$n-m-ND	por	mérito	n
 	fra	mériter	vblex	por	merecer	vblex
-	fra	Meritxell	np$np-ant-f-sg	por	Meritxell	np
+	fra	Meritxell	np-ant-f-sg$np	por	Meritxell	np
 	fra	Merkel	np$np-cog-mf-sp	por	Merkel	np
 	fra	Merrill Lynch	np	por	Merrill Lynch	np
 	fra	merveille	n-f$n	por	maravilha	n$n-f
 	fra	merveilleux	adj-m-sp$adj	por	maravilhoso	adj
-	fra	Meryl	np$np-ant-f-sg$np-ant	por	Meryl	np
+	fra	Meryl	np-ant-f-sg$np$np-ant	por	Meryl	np
 	fra	Meseguer	np$np-cog$np-cog-mf-sp	por	Meseguer	np
 	fra	Meseta Ibérique	np	por	Meseta Ibérique	np
 	fra	Mésopotamie	np$np-top-f-sg	por	Mesopotâmia	np
@@ -11722,7 +11722,7 @@ RL	fra	mettre son veto à	vblex	por	vetar	vblex
 	fra	mexicain	adj$adj-GD-ND	por	mexicano	adj
 	fra	Mexique	np$np-top-m$np-top-m-sg$np-top	por	México	np
 	fra	Miami	np-loc$np	por	Miami	np$np-loc
-	fra	Micaela	np$np-ant-f-sg$np-ant	por	Micaela	np
+	fra	Micaela	np-ant-f-sg$np$np-ant	por	Micaela	np
 	fra	Michael	np$np-ant$np-ant-m-sg	por	Michael	np
 	fra	Michel	np-ant$np-ant-m-sg$np	por	Michel	np
 	fra	Michelangelo	np$np-cog-mf-sp	por	Michelangelo	np
@@ -11739,7 +11739,7 @@ RL	fra	mettre son veto à	vblex	por	vetar	vblex
 	fra	micro	n-m$n	por	micro	n
 	fra	micro-électronique	n	por	microeletrônica	n
 	fra	microentreprise	n$n-f	por	microempresa	n
-	fra	Micronésie	np$np-top-f	por	Micronésie	np
+	fra	Micronésie	np$np-top-f$np-top-f-sg	por	Micronésie	np
 	fra	microphone	n-m$n$n-m-ND	por	microfone	n
 	fra	Microsoft	np$np-al-m-sg$np-al$np-al-m	por	Microsoft	np
 	fra	midi	n$n-m$n-m-ND	por	meio dia	n
@@ -11766,7 +11766,7 @@ RL	fra	Mikhaïl	np$np-ant-m-sg	por	Mikhaïl	np
 	fra	Mikhaïl Gorbatchev	np	por	Mikhail Gorbachev	np
 	fra	Mikhaïl Sergueïevitch	np	por	Mikhaïl Sergueïevitch	np
 	fra	Mikheil Saakachvili	np	por	Mikheil Saakashvili	np
-	fra	Mila	np$np-ant$np-ant-f-sg	por	Mila	np
+	fra	Mila	np$np-ant-f-sg$np-ant	por	Mila	np
 	fra	Milan	np$np-loc$np-loc-f	por	Milão	np$np-loc
 	fra	Milena	np$np-ant$np-ant-f-sg	por	Milena	np
 	fra	milenar	adj	por	milenar	adj
@@ -11820,7 +11820,7 @@ LR	fra	minimal	adj$$adj-GD-ND	por	mínimo	adj$adj-GD-ND
 	fra	Minnesota	np$np-top-f	por	Minnesota	np
 	fra	minoritaire	adj-mf$adj$adj-mf-ND	por	minoritário	adj
 	fra	minorité	n-f$n$n-f-ND	por	minoria	n
-	fra	Minorque	np$np-loc-f	por	Minorca	np
+	fra	Minorque	np$np-top-f-sg	por	Minorca	np
 	fra	Minsk	np$np-top-m-sg	por	Minsk	np
 	fra	Mintzola	np	por	Mintzola	np
 	fra	minuit	adv	por	meia noite	adv
@@ -11844,8 +11844,8 @@ RL	fra	minuscule	adj-mf$adj$$adj-mf-ND	por	diminuto	adj
 	fra	Miren Azkarate	np	por	Miren Azkarate	np
 	fra	Mirentxu	np	por	Mirentxu	np
 	fra	mirer	vblex	por	olhar	vblex
-	fra	Miriam	np$np-ant-f-sg$np-ant	por	Miriam	np
-	fra	Mirko	np$np-ant	por	Mirko	np
+	fra	Miriam	np-ant-f-sg$np$np-ant	por	Miriam	np
+	fra	Mirko	np$np-ant$np-ant-m-sg	por	Mirko	np
 	fra	miroir	n-m$n$n-m-ND	por	espelho	n$n-m
 	fra	mise	n-f$n	por	exclusão	n
 	fra	miser	vblex	por	apostar	vblex
@@ -12120,12 +12120,12 @@ RL	fra	moyenne	n-f$n$n-f-ND	por	mídia	n
 	fra	moyennement	adv	por	mediamente	adv
 	fra	Moyen-Orient	np$np-loc-f	por	Médio Oriente	np
 RL	fra	Moyen-Orient	np$np-loc-f	por	Oriente Médio	np
-	fra	Mozambique	np$np-top-m$np-top$np-top-m-sg	por	Moçambique	np$np-top
+	fra	Mozambique	np$np-top-m$np-top-m-sg$np-top	por	Moçambique	np$np-top
 	fra	Mozart	np-cog-mf-sp$np	por	Mozart	np
 	fra	mp3	n$n-acr-m	por	mp3	n
 	fra	MP3	np$np-al	por	MP3	np
 RL	fra	mp3	n$n-acr-m	por	mp3	n
-	fra	MP4	np	por	MP4	np
+	fra	MP4	np$np-al	por	MP4	np
 	fra	MRW	np	por	MRW	np
 	fra	MSN	np$np-al	por	MSN	np
 	fra	Muchamiel	np$np-top-m-sg	por	Mutxamel	np
@@ -12258,7 +12258,7 @@ RL	fra	naïf	adj$adj-GD-ND	por	ingénuo	adj
 LR	fra	naitre	vblex	por	nascer	vblex
 	fra	naître	vblex	por	nascer	vblex
 	fra	Nambaryn Enkhbayar	np	por	Nambaryn Enkhbayar	np
-	fra	Namibie	np$np-top-f$np-top$np-top-f-sg	por	Namíbia	np$np-top
+	fra	Namibie	np$np-top-f$np-top-f-sg$np-top	por	Namíbia	np$np-top
 	fra	Nanclares	np	por	Nanclares	np
 	fra	Nancy	np$np-loc-f	por	Nancy	np$np-ant
 	fra	Nano	np	por	Nano	np
@@ -12300,7 +12300,7 @@ RL	fra	national	adj$adj-f$$adj-f-sg	por	nacional	adj$adj-mf-ND
 	fra	nationaliste	n$n-mf$n-mf-ND	por	nacionalista	n$n-mf-ND
 	fra	nationalité	n$n-f$n-f-ND	por	nacionalidade	n
 	fra	Nations unies	np$np-al-f-pl	por	Nations unies	np
-	fra	Natividad	np$np-ant-f-sg$np-ant	por	Natividad	np
+	fra	Natividad	np-ant-f-sg$np$np-ant	por	Natividad	np
 	fra	NATO	np	por	NATO	np
 	fra	Natra	np	por	Natra	np
 	fra	Naturalia	np	por	Naturalia	np
@@ -12423,7 +12423,7 @@ RL	fra	New York	np$np-top-m-sg	por	Nova York	np
 	fra	ni	cnjcoo	por	nem	cnjcoo
 	fra	Niagara	np$np-top-m-sg	por	Niágara	np
 	fra	Niamey	np$np-loc-f	por	Niamey	np
-	fra	Nicanor	np$np-ant$np-ant-m-sg	por	Nicanor	np
+	fra	Nicanor	np$np-ant-m-sg$np-ant	por	Nicanor	np
 	fra	Nicanor Duarte Frutos	np	por	Nicanor Duarte	np
 	fra	Nicaragua	np$np-top-m-sg$np-top$np-top-m	por	Nicarágua	np
 	fra	Nice	np$np-top-f-sg$np-top$np-top-f	por	Nice	np
@@ -12431,7 +12431,7 @@ RL	fra	New York	np$np-top-m-sg	por	Nova York	np
 	fra	niche	n-f$n	por	nicho	n
 	fra	nichée	n$n-f	por	ninhada	n
 	fra	nicher	vblex	por	aninhar	vblex
-	fra	Nicholas	np$np-ant-m-sg$np-ant	por	Nicholas	np
+	fra	Nicholas	np-ant-m-sg$np$np-ant	por	Nicholas	np
 	fra	Nicholas Liverpool	np	por	Nicholas Liverpool	np
 	fra	Nicholson	np-cog-mf-sp$np	por	Nicholson	np
 	fra	Nick	np$np-ant-m-sg$np-ant	por	Nick	np
@@ -12449,7 +12449,7 @@ RL	fra	New York	np$np-top-m-sg	por	Nova York	np
 	fra	Niermann	np$np-cog-mf-sp	por	Niermann	np
 	fra	Nietzsche	np-cog-mf-sp$np	por	Nietzsche	np
 	fra	Nièvre	np$np-loc-f	por	Nièvre	np
-	fra	Niger	np$np-top-m$np-top$np-top-m-sg	por	Níger	np$np-top
+	fra	Niger	np$np-top-m$np-top-m-sg$np-top	por	Níger	np$np-top
 	fra	Nigeria	np$np-top$np-top-f	por	Nigéria	np$np-top-f-sg
 	fra	nigérien	adj$adj-GD-ND	por	nigeriano	adj
 	fra	Nihat	np$np-ant-m-sg	por	Nihat	np
@@ -12586,7 +12586,7 @@ RL	fra	nouvelle	n$n-f$n-f-ND	por	novela	n
 	fra	Nouvelle-Espagne	np	por	Vice-Reino da Nova Espanha	np
 	fra	Nouvelle Géorgie	np	por	Nouvelle Géorgie	np
 	fra	Nouvelle-Grenade	np	por	Vice-Reino de Nova Granada	np
-	fra	Nouvelle-Guinée	np$np-loc-f	por	Nova Guiné	np
+	fra	Nouvelle-Guinée	np$np-top-f-sg	por	Nova Guiné	np
 	fra	Nouvelle-Irlande	np	por	Nova Irlanda	np
 	fra	Nouvelle-Orléans	np$np-loc-f	por	Nova Orleães	np
 	fra	Nouvelles-Hébrides	np$np-loc-f	por	Nouvelles-Hébrides	np
@@ -12624,7 +12624,7 @@ LR	fra	Nouvelle-Zélande	np$np-top-f$np-top-f-sg$np-top	por	Nova Zelândia	np
 	fra	Núñez	np$np-cog$np-cog-mf-sp	por	Núñez	np
 	fra	Nuno	np	por	Nuno	np
 	fra	nuptial	adj$	por	nupcial	adj
-	fra	Nuria	np$np-ant-f-sg$np-ant	por	Nuria	np
+	fra	Nuria	np-ant-f-sg$np$np-ant	por	Nuria	np
 	fra	Núria	np$np-top	por	Núria	np
 	fra	nutriment	n-m$n	por	nutriente	n
 	fra	nutrition	n$n-f	por	nutrição	n$n-f-ND
@@ -12678,7 +12678,7 @@ RL	fra	obscurité	n$n-f$n-f-ND	por	escuridade	n
 	fra	obtenir	vblex	por	obter	vblex
 	fra	obtention	n$n-f	por	obtenção	n
 	fra	obusier	n	por	obus	n
-	fra	Ocaña	np$np-cog-mf-sp	por	Ocaña	np
+	fra	Ocaña	np$np-top-f-sg	por	Ocaña	np
 	fra	occasion	n$n-f$n-f-ND	por	chance	n
 	fra	occasion	n$n-f$n-f-ND	por	ocasião	n$n-f-ND
 	fra	occasion	n$n-f$n-f-ND	por	oportunidade	n$n-f-ND
@@ -12771,7 +12771,7 @@ LR	fra	oecuménique	adj	por	ecuménico	adj
 	fra	olfactif	adj	por	olfativo	adj
 	fra	Olga	np$np-ant-f-sg$np-ant	por	Olga	np
 	fra	Olimpija	np	por	Olimpija	np
-	fra	Oliva	np$np-cog-mf-sp	por	Oliva	np
+	fra	Oliva	np$np-top-f-sg	por	Oliva	np
 	fra	Olivares	np$np-cog-mf-sp$np-cog	por	Olivares	np
 	fra	olive	n-m$n	por	azeitona	n$n-f
 	fra	Oliveira	np$np-cog$np-cog-mf-sp	por	Oliveira	np
@@ -12919,7 +12919,7 @@ RL	fra	originalité	n$n-f$n-f-ND	por	genialidade	n
 	fra	orner	vblex	por	enfeitar	vblex
 	fra	Oropesa del Mar	np	por	Oropesa del Mar	np
 	fra	Orozco	np$np-cog$np-cog-mf-sp	por	Orozco	np
-	fra	Orphée	np$np-ant$np-ant-m-sg	por	Orfeu	np
+	fra	Orphée	np$np-ant-m-sg$np-ant	por	Orfeu	np
 	fra	orphelin	adj$	por	órfão	adj
 	fra	orphelin	n$n-f	por	órfão	n
 	fra	Orphéon Donostiarra	np	por	Orphéon Donostiarra	np
@@ -12948,8 +12948,8 @@ RL	fra	originalité	n$n-f$n-f-ND	por	genialidade	n
 	fra	Oslo	np$np-top$np-top-m$np-top-m-sg	por	Oslo	np
 	fra	Osona	np$np-top-f-sg	por	Osona	np
 	fra	ossements	n$n-m$n-m-pl	por	ossada	n-f
-	fra	Ossétie	np	por	Ossétia	np
-	fra	Ossétie du Sud	np$np-top	por	Ossétia do Sul	np
+	fra	Ossétie	np$np-top-f-sg	por	Ossétia	np
+	fra	Ossétie du Sud	np-top-f-sg$np$np-top	por	Ossétia do Sul	np
 	fra	ostéologie	n$n-f	por	osteologia	n
 	fra	Osuna	np$np-cog-mf-sp	por	Osuna	np
 	fra	Otaegi	np$np-cog-mf-sp	por	Otaegi	np
@@ -13010,9 +13010,9 @@ LR	fra	ouvrage	n-m$n-m-ND	por	obra	n$n-f$n-f-ND
 RL	fra	ouvrier	n$n-f	por	funcionário	n$n-m-ND
 RL	fra	ouvrier	n$n-f	por	operário	n
 	fra	ouvrir	vblex	por	abrir	vblex
-	fra	Ouzbékistan	np$np-top-m$np-top$np-top-m-sg	por	Uzbekistan	np
-	fra	Ouzbékistan	np$np-top-m$np-top$np-top-m-sg	por	Uzbequistão	np$np-top
-RL	fra	Ouzbékistan	np$np-top-m$np-top$np-top-m-sg	por	Uzbekistan	np
+	fra	Ouzbékistan	np$np-top-m$np-top-m-sg$np-top	por	Uzbekistan	np
+	fra	Ouzbékistan	np$np-top-m$np-top-m-sg$np-top	por	Uzbequistão	np$np-top
+RL	fra	Ouzbékistan	np$np-top-m$np-top-m-sg$np-top	por	Uzbekistan	np
 	fra	ovaire	n-m$n	por	ovário	n
 	fra	ovation	n-f$n	por	ovação	n
 	fra	Oviedo	np$np-cog-mf-sp	por	Oviedo	np
@@ -13058,7 +13058,7 @@ LR	fra	paitre	vblex	por	pastar	vblex
 	fra	palais de la Moncloa	np	por	palácio da Moncloa	np
 	fra	palais des Tuileries	np	por	Palácio das Tulherias	np
 	fra	Palais Euskalduna	np	por	Palais Euskalduna	np
-	fra	Palaos	np	por	Palau	np
+	fra	Palaos	np$np-top-f-pl	por	Palau	np
 	fra	Palatinat	np$np-top-m-sg	por	Palatinado	np
 	fra	Palau	np$np-top-m-sg	por	Palau	np
 	fra	Palazuelo	np	por	Palazuelo	np
@@ -13102,7 +13102,7 @@ RL	fra	Panathinaïkos	np	por	Panathinaikos	np
 	fra	Pantxoa	np	por	Pantxoa	np
 	fra	Pantxo	np	por	Pantxo	np
 	fra	Panza	np$np-cog$np-cog-mf-sp	por	Panza	np
-	fra	Paola	np$np-ant$np-ant-f-sg	por	Paola	np
+	fra	Paola	np-ant-f-sg$np$np-ant	por	Paola	np
 	fra	Paolini	np$np-cog-mf-sp	por	Paolini	np
 	fra	Paolo	np$np-ant-m-sg$np-ant	por	Paolo	np
 	fra	Paolo Caliari	np	por	Paolo Caliari	np
@@ -13120,7 +13120,7 @@ LR	fra	paperasserie	n-f$n	por	documentação	n$n-f$n-f-ND
 	fra	papilloter	vblex	por	piscar	vblex
 	fra	Papito	np	por	Papito	np
 	fra	Papon	np$np-cog-mf-sp	por	Papon	np
-	fra	Papouasie-Nouvelle-Guinée	np$np-top$np-top-f$np-top-f-sg	por	Papua-Nova Guiné	np$np-top
+	fra	Papouasie-Nouvelle-Guinée	np$np-top-f-sg$np-top$np-top-f	por	Papua-Nova Guiné	np$np-top
 LR	fra	Paques	np	por	Páscoa	np
 	fra	Pâques	np$np-ant	por	Páscoa	np
 RL	fra	Pâques	np$np-ant	por	Pâques	np
@@ -13141,7 +13141,7 @@ RL	fra	parachutiste	n$n-mf	por	paraquedista	n
 	fra	paradoxalement	adv	por	paradoxalmente	adv
 	fra	paradoxe	n-m$n$n-m-ND	por	paradoxo	n$n-m
 	fra	paragraphe	n-m$n$n-m-ND	por	parágrafo	n
-	fra	Paraguay	np$np-top-m$np-top$np-top-m-sg	por	Paraguai	np$np-top
+	fra	Paraguay	np$np-top-m$np-top-m-sg$np-top	por	Paraguai	np$np-top
 	fra	paraguayen	adj	por	paraguaio	adj
 	fra	paraguayen	n$n-GD	por	paraguaio	n
 LR	fra	paraitre	vblex	por	aparecer	vblex
@@ -13272,7 +13272,7 @@ RL	fra	passer	vblex	por	passar	vblex
 	fra	passionné	n$n-m$n-m-ND	por	aficionado	n
 	fra	passionner	vblex	por	apaixonar	vblex
 	fra	passivité	n-f$n$n-f-ND	por	passividade	n
-	fra	Passo	np	por	Passo	np
+	fra	Passo	np$np-al	por	Passo	np
 	fra	Pasteur	np$np-cog-mf-sp$np-cog	por	Pasteur	np
 	fra	Pastor	np$np-cog-mf-sp	por	Pastor	np
 RL	fra	pastoral	adj$$adj-f	por	pastoral	adj
@@ -13340,7 +13340,7 @@ LR	fra	payer des impots	vblex	por	tributar	vblex
 	fra	Pays de Loire	np$np-loc-f	por	País do Loira	np
 	fra	Pays-de-la-Loire	np	por	País do Loira	np
 	fra	PC	n-acr$n-acr-m$n	por	PC	n$n-acr-m
-	fra	PDA	np	por	PDA	np
+	fra	PDA	np$np-al	por	PDA	np
 	fra	pdf	np$np-al-m-sg	por	pdf	np
 	fra	péage	n$n-m	por	portagem	n-f
 	fra	Peanuts	np	por	Peanuts	np
@@ -13670,8 +13670,8 @@ LR	fra	piger	vblex	por	entender	vblex
 LR	fra	piloter	vblex	por	conduzir	vblex
 	fra	pinacle	n-f$n	por	pináculo	n
 	fra	Pinault	np$np-cog-mf-sp	por	Pinault	np
-	fra	Pineda	np$np-cog-mf-sp	por	Pineda	np
-	fra	Pinilla	np$np-cog-mf-sp	por	Pinilla	np
+	fra	Pineda	np$np-top-f-sg	por	Pineda	np
+	fra	Pinilla	np$np-top-f-sg	por	Pinilla	np
 	fra	Pinochet	np$np-cog$np-cog-mf-sp	por	Pinochet	np
 	fra	Pinotti	np$np-cog-mf-sp	por	Pinotti	np
 	fra	pinscher	n	por	pinscher	n
@@ -13718,7 +13718,7 @@ LR	fra	plafonnement	n$n-m	por	limite	n$n-m$n-m-ND
 RL	fra	plaire	vblex	por	agradar	vblex
 RL	fra	plaire	vblex	por	gostar	vblex
 	fra	plaisir	n-m$n$n-m-ND	por	prazer	n
-	fra	Plana	np$np-cog-mf-sp	por	Plana	np
+	fra	Plana	np$np-top-f-sg	por	Plana	np
 	fra	plan	n-m$n$n-m-ND	por	plano	n$n-m-ND
 	fra	planche	n-f$n	por	tábuas	n
 	fra	planer	vblex	por	planear	vblex
@@ -13853,7 +13853,7 @@ RL	fra	Pologne	np$np-loc-f	por	Polônia	np
 RL	fra	polonais	adj-m-sp$adj	por	polaco	adj
 	fra	polygone	n-m$n	por	polígono	n
 	fra	Polynésie	np$np-loc-f	por	Polinésia	np
-	fra	Polynésie française	np$np-top-f	por	Polinésia Francesa	np
+	fra	Polynésie française	np$np-top-f$np-top-f-sg	por	Polinésia Francesa	np
 	fra	polytechnique	adj	por	politécnico	adj
 	fra	Pomares	np$np-cog$np-cog-mf-sp	por	Pomares	np
 	fra	Pombo	np$np-cog-mf-sp	por	Pombo	np
@@ -14133,7 +14133,7 @@ RL	fra	présent	adj$adj-GD$adj-GD-ND	por	presente	adj
 	fra	président	n$n-GD$n-GD-ND	por	presidente	n$n-m-ND
 RL	fra	présidentiel	adj$adj-f$$adj-f-sg	por	presidencial	adj$adj-mf-ND
 	fra	présider	vblex	por	presidir	vblex
-	fra	Presley	np$np-ant-m-sg$np-ant	por	Presley	np
+	fra	Presley	np-ant-m-sg$np$np-ant	por	Presley	np
 	fra	présomption	n$n-f	por	presunção	n
 	fra	presque	preadv	por	quase	preadv
 RL	fra	pressant	adj$adj-f	por	urgente	adj$adj-mf-ND
@@ -14234,7 +14234,7 @@ LR	fra	prier	vblex	por	rogar	vblex
 	fra	procureur	n-m$n	por	procurador	n$n-m-ND
 RL	fra	procureur	n-m$n	por	promotor	n$n-f
 	fra	Prodi	np$np-cog-mf-sp	por	Prodi	np
-	fra	prodige	n$n-m$n-m-ND	por	prodígio	n$n-m
+	fra	prodige	n-m$n$n-m-ND	por	prodígio	n$n-m
 	fra	producteur	adj	por	produtor	adj
 	fra	producteur	n$n-f	por	produtor	n$n-m-ND
 	fra	productif	adj$adj-GD-ND	por	produtivo	adj
@@ -14423,7 +14423,7 @@ RL	fra	prudence	n$n-f$n-f-ND	por	cautela	n$n-f
 	fra	pudeur	n-f	por	pudor	n$n-m
 	fra	Puebla de Arganzón	np	por	Puebla de Arganzón	np
 	fra	Puerto del Rosario	np	por	Puerto del Rosario	np
-	fra	Puig	np$np-cog-mf-sp	por	Puig	np
+	fra	Puig	np$np-top-m-sg	por	Puig	np
 	fra	puis	adv	por	depois	adv
 LR	fra	puisque	cnjadv	por	já que	cnjadv
 	fra	puissamment	adv	por	poderosamente	adv
@@ -14460,7 +14460,7 @@ LR	fra	Puy-de-Dome	np	por	Puy-de-Dôme	np
 	fra	pyrotechnique	adj	por	pirotécnico	adj
 	fra	Pythagore	np$np-ant$np-ant-m-sg	por	Pitágoras	np
 	fra	q	n$n-m	por	q	n$n-m
-	fra	Qatar	np$np-top-m$np-top$np-top-m-sg	por	Qatar	np
+	fra	Qatar	np$np-top-m$np-top-m-sg$np-top	por	Qatar	np
 LR	fra	quadriller	vblex	por	quadricular	vblex
 	fra	qualificatif	adj	por	qualificativo	adj
 	fra	qualification	n$n-f$n-f-ND	por	qualificação	n$n-f-ND
@@ -14626,7 +14626,7 @@ RL	fra	radical	adj$adj-f	por	radical	adj$adj-mf-ND
 	fra	Rafa	np$np-ant-m-sg$np-ant	por	Rafa	np
 	fra	Rafael	np$np-ant$np-ant-m-sg	por	Rafael	np$np-ant
 	fra	Rafael Correa	np	por	Rafael Correa	np
-	fra	Raffaele	np$np-ant$np-ant-m-sg	por	Raffaele	np
+	fra	Raffaele	np$np-ant-m-sg$np-ant	por	Raffaele	np
 	fra	Raffaello Sanzio	np	por	Raffaello Sanzio	np
 	fra	Raffarin	np$np-cog-mf-sp	por	Raffarin	np
 	fra	raffiner	vblex	por	refinar	vblex
@@ -14639,8 +14639,8 @@ LR	fra	rafistoler	vblex	por	arranjar	vblex
 	fra	raidir	vblex	por	puxar	vblex
 	fra	raie	n-f$n	por	listra	n
 	fra	Raikkonen	np$np-cog-mf-sp	por	Raikkonen	np
-	fra	Raimon	np$np-ant-m-sg	por	Raimon	np
-	fra	Raimundo	np$np-ant$np-ant-m-sg	por	Raimundo	np
+	fra	Raimon	np-ant-m-sg$np	por	Raimon	np
+	fra	Raimundo	np$np-ant-m-sg$np-ant	por	Raimundo	np
 	fra	Rainiero	np	por	Rainiero	np
 	fra	raisin sec	n-m$n	por	passa	n
 	fra	raison	n-f$n$n-f-ND	por	razão	n$n-f$n-f-ND
@@ -14663,7 +14663,7 @@ LR	fra	rajouter	vblex	por	acrescentar	vblex
 	fra	ramification	n$n-f	por	ramificação	n
 	fra	Ramirez	np-cog-mf-sp$np	por	Ramirez	np
 	fra	Ramírez	np$np-cog-mf-sp$np-cog	por	Ramírez	np
-	fra	Ramiro	np$np-cog$np-cog-mf-sp	por	Ramiro	np
+	fra	Ramiro	np$np-ant-m-sg$np-ant	por	Ramiro	np
 	fra	Ramona	np$np-ant$np-ant-f-sg	por	Ramona	np
 	fra	Ramon	np$np-ant-m-sg$np-ant	por	Ramon	np
 	fra	Ramón	np$np-ant-m-sg$np-ant	por	Ramón	np$np-ant
@@ -14717,7 +14717,7 @@ LR	fra	rassemblement	n-m$n-m-ND	por	concentração	n$n-f
 LR	fra	rattraper	vblex	por	atingir	vblex
 	fra	Ratu Josefa Iloilovatu	np	por	Ratu Josefa Iloilovatu	np
 	fra	Ratzinger	np-cog-mf-sp$np	por	Ratzinger	np
-	fra	Raul	np$np-ant$np-ant-m-sg	por	Raul	np$np-ant
+	fra	Raul	np$np-ant-m-sg$np-ant	por	Raul	np$np-ant
 	fra	Raúl	np$np-ant-m-sg	por	Raúl	np
 	fra	Raúl Castro	np	por	Raúl Castro	np
 	fra	rauque	adj	por	rouco	adj
@@ -15068,7 +15068,7 @@ RL	fra	renforcement	n-m$n	por	fortalecimento	n$n-m-ND
 	fra	renfort	n-m$n	por	reforço	n$n-m-ND
 	fra	Renier	np	por	Renier	np
 	fra	Rennes	np-top$np$np-top-m-sg	por	Rennes	np
-	fra	Renny	np	por	Renny	np
+	fra	Renny	np$np-ant-m-sg	por	Renny	np
 	fra	renom	n-m$n	por	renome	n
 	fra	renommé	adj	por	renomeado	adj
 	fra	renommée	n$n-f$n-f-ND	por	fama	n
@@ -15364,7 +15364,7 @@ LR	fra	Rhone-Alpes	np	por	Ródano-Alpes	np
 	fra	Ribes	np$np-cog$np-cog-mf-sp	por	Ribes	np
 	fra	Ricard	np$np-ant-m-sg$np-ant	por	Ricard	np
 	fra	Ricardo	np$np-ant-m-sg$np-ant	por	Ricardo	np$np-ant
-	fra	Rice	np$np-cog-mf-sp	por	Rice	np
+	fra	Rice	np-ant-m-sg$np	por	Rice	np
 	fra	Richard	np-ant$np-ant-m-sg$np	por	Richard	np$np-ant
 	fra	Richardson	np-cog-mf-sp$np	por	Richardson	np
 	fra	riche	adj-mf$adj$adj-mf-ND	por	rico	adj$adj-GD-ND
@@ -15372,7 +15372,7 @@ LR	fra	Rhone-Alpes	np	por	Ródano-Alpes	np
 	fra	richement	adv	por	ricamente	adv
 	fra	richesse	n-f$n$n-f-ND	por	riqueza	n
 	fra	Richter	np$np-cog-mf-sp	por	Richter	np
-	fra	Rick	np$np-ant-m-sg$np-ant	por	Rick	np
+	fra	Rick	np-ant-m-sg$np$np-ant	por	Rick	np
 	fra	rider	vblex	por	enrugar	vblex
 	fra	ridicule	adj-mf$adj$adj-mf-ND	por	ridículo	adj
 	fra	ridiculiser	vblex	por	ridícularizar	vblex
@@ -15386,7 +15386,7 @@ LR	fra	Rhone-Alpes	np	por	Ródano-Alpes	np
 	fra	rigoler	vblex	por	caçoar	vblex
 	fra	rigoreux	adj	por	rigoroso	adj
 	fra	rigueur	n-f$n-f-ND	por	rigor	n$n-m
-	fra	Rina	np$np-ant-f-sg$np-ant	por	Rina	np
+	fra	Rina	np-ant-f-sg$np$np-ant	por	Rina	np
 	fra	Rin-tin-tin	np	por	Rin-tin-tin	np
 	fra	Rio de Janeiro	np$np-top-m-sg	por	Rio de Janeiro	np
 	fra	Rioja	np-top-f-sg$np	por	La Rioja	np
@@ -15449,7 +15449,7 @@ LR	fra	roder	vblex	por	rondar	vblex
 LR	fra	rodeur	n	por	vagabundo	n
 LR	fra	rôdeur	n	por	vagabundo	n
 	fra	Rodez	np$np-loc-f	por	Rodez	np
-	fra	Rodolfo	np$np-ant-m-sg$np-ant	por	Rodolfo	np
+	fra	Rodolfo	np-ant-m-sg$np$np-ant	por	Rodolfo	np
 	fra	Rodolfo Nin Novoa	np	por	Rodolfo Nin Novoa	np
 	fra	Rodolphe	np$np-ant$np-ant-m-sg	por	Rodolphe	np
 	fra	Rodrigo	np$np-ant	por	Rodrigo	np
@@ -15459,7 +15459,7 @@ LR	fra	rôdeur	n	por	vagabundo	n
 	fra	Rodríguez	np$np-cog-mf-sp$np-cog	por	Rodríguez	np
 	fra	Roge	np	por	Roge	np
 	fra	Roger	np$np-ant$np-ant-m-sg	por	Roger	np
-	fra	Roger Bacon	np$np-ant$np-ant-m-sg	por	Roger Bacon	np
+	fra	Roger Bacon	np$np-ant-m-sg$np-ant	por	Roger Bacon	np
 	fra	rogner	vblex	por	recortar	vblex
 	fra	Roh	np$np-ant-m-sg	por	Roh	np
 	fra	Roh Moo-hyun	np	por	Roh Moo-hyun	np
@@ -15482,7 +15482,7 @@ LR	fra	role principal	n	por	protagonismo	n
 	fra	romain	adj$adj-GD-ND	por	romano	adj
 	fra	roman	n-m$n$n-m-ND	por	romance	n$n-m
 	fra	Roman	np$np-cog-mf-sp	por	Roman	np
-	fra	Román	np$np-ant-m-sg$np-ant	por	Román	np
+	fra	Román	np-ant-m-sg$np$np-ant	por	Román	np
 	fra	Romano	np$np-cog-mf-sp	por	Romano	np
 	fra	Romano Prodi	np	por	Romano Prodi	np
 	fra	romantique	adj-mf$adj$adj-mf-ND	por	romântico	adj
@@ -15490,7 +15490,7 @@ LR	fra	role principal	n	por	protagonismo	n
 	fra	Romareda	np	por	Romareda	np
 	fra	Romário	np	por	Romário	np
 	fra	Rome	np$np-top-f-sg$np-top$np-top-f	por	Roma	np
-	fra	Romeo	np$np-ant-m-sg$np-ant	por	Romeo	np
+	fra	Romeo	np-ant-m-sg$np$np-ant	por	Romeo	np
 	fra	Romeu	np$np-cog$np-cog-mf-sp	por	Romeu	np
 LR	fra	rompre	vblex	por	romper	vblex
 	fra	Roms	np	por	Roms	np
@@ -15563,7 +15563,7 @@ RL	fra	royal	adj$adj-GD-ND	por	real	adj
 	fra	Royal Sporting Club Anderlecht	np	por	Royal Sporting Club Anderlecht	np
 	fra	royaume	n-m$n$n-m-ND	por	reino	n$n-m$n-m-ND
 	fra	royaume des Deux-Roses	np	por	royaume des Deux-Roses	np
-	fra	Royaume-Uni	np$np-top-m$np-top-m-sg$np-top	por	Reino Unido	np$np-top
+	fra	Royaume-Uni	np-top-m-sg$np$np-top-m$np-top	por	Reino Unido	np$np-top
 	fra	Royaume-Uni de Grande-Bretagne et d'Irlande du Nord	np$np-top-m	por	Reino Unido	np$np-top
 	fra	Royaume-Uni de Grande-Bretagne et d'Irlande	np$np-top-m	por	Reino Unido da Grã-Bretanha e Irlanda	np
 	fra	Royo	np$np-cog$np-cog-mf-sp	por	Royo	np
@@ -15579,7 +15579,7 @@ RL	fra	royal	adj$adj-GD-ND	por	real	adj
 	fra	Rubicón	np	por	Rubicón	np
 	fra	rue	n-f$n-f-ND$n	por	rua	n$n-f$n-f-ND
 	fra	Rufi	np	por	Rufi	np
-	fra	Rufino	np$np-ant-m-sg$np-ant	por	Rufino	np
+	fra	Rufino	np-ant-m-sg$np$np-ant	por	Rufino	np
 	fra	rugir	vblex	por	rugir	vblex
 	fra	Rui	np	por	Rui	np
 	fra	ruine	n-f$n	por	ruína	n
@@ -15621,7 +15621,7 @@ RL	fra	rumeur	n-f$n-f-ND	por	boato	n-m$n
 	fra	Sabadell	np$np-cog-mf-sp	por	Sabadell	np
 	fra	Sabaliauskas	np$np-cog-mf-sp	por	Sabaliauskas	np
 	fra	Sabine	np$np-ant-f-sg$np-ant	por	Sabine	np
-	fra	Sabino	np$np-ant$np-ant-m-sg	por	Sabino	np$np-cog
+	fra	Sabino	np$np-ant-m-sg$np-ant	por	Sabino	np$np-cog
 	fra	Sabio	np-cog-mf-sp$np	por	Sabio	np
 	fra	sable	n-m$n$n-m-ND	por	areia	n$n-f-ND$n-f
 	fra	sabotage	n-m$n	por	sabotagem	n$n-f
@@ -15647,7 +15647,7 @@ RL	fra	Sadam	np$np-ant-m-sg	por	Saddam	np
 	fra	Sáez	np$np-cog-mf-sp$np-cog	por	Sáez	np
 	fra	Sagarzazu	np$np-cog-mf-sp	por	Sagarzazu	np
 	fra	sage	adj$adj-mf-ND$adj-mf	por	prudente	adj
-	fra	Sagem	np	por	Sagem	np
+	fra	Sagem	np$np-al	por	Sagem	np
 	fra	SAGEM	np	por	SAGEM	np
 	fra	sagesse	n$n-f$n-f-ND	por	sabedoria	n
 	fra	sagesse	n$n-f$n-f-ND	por	sensatez	n$n-f
@@ -15774,7 +15774,7 @@ RL	fra	Salvador	np$np-top-m-sg$np-top$np-top-m	por	Salvador	np
 	fra	Samertolameu	np	por	Samertolameu	np
 	fra	Sam Hinds	np	por	Sam Hinds	np
 	fra	Samoa	np$np-top-m$np-top	por	Samoa	np
-	fra	Samoa américaines	np$np-top	por	Samoa Americana	np
+	fra	Samoa américaines	np$np-top$np-top-f-pl	por	Samoa Americana	np
 	fra	Samothrace	np	por	Samotrácia	np
 	fra	Samper	np$np-cog$np-cog-mf-sp	por	Samper	np
 	fra	Sampras	np$np-cog$np-cog-mf-sp	por	Sampras	np
@@ -15795,7 +15795,7 @@ RL	fra	Salvador	np$np-top-m-sg$np-top$np-top-m	por	Salvador	np
 	fra	Sánchez	np$np-cog-mf-sp$np-cog	por	Sánchez	np
 	fra	Sanchis	np$np-cog$np-cog-mf-sp	por	Sanchis	np
 	fra	Sanchís	np$np-cog$np-cog-mf-sp	por	Sanchís	np
-	fra	Sancho	np$np-ant-m-sg$np-ant	por	Sancho	np
+	fra	Sancho	np-ant-m-sg$np$np-ant	por	Sancho	np
 	fra	sanction	n$n-f$n-f-ND	por	sanção	n
 	fra	sanctionner	vblex	por	sancionar	vblex
 	fra	sanctuaire	n-m$n	por	santuário	n$n-m-ND
@@ -15921,7 +15921,7 @@ RL	fra	sauver	vblex	por	aforrar	vblex
 	fra	scapulaire	adj	por	escapular	adj
 	fra	Scaramella	np$np-cog-mf-sp	por	Scaramella	np
 	fra	Scarlatti	np$np-cog-mf-sp	por	Scarlatti	np
-	fra	Scarlett	np$np-ant-f-sg$np-ant	por	Scarlett	np
+	fra	Scarlett	np-ant-f-sg$np$np-ant	por	Scarlett	np
 	fra	Scarponi	np-cog-mf-sp$np	por	Scarponi	np
 	fra	Scarselli	np	por	Scarselli	np
 	fra	sceau	n-f$n$n-f-ND	por	selo	n$n-m
@@ -16020,7 +16020,7 @@ RL	fra	Seat	np$np-al-mf	por	SEAT	np
 	fra	secteur	n$n-m$n-m-ND	por	sector	n$n-m-ND
 	fra	section	n$n-f$n-f-ND	por	seção	n
 	fra	section	n$n-f$n-f-ND	por	secção	n$n-f-ND
-	fra	sectoriel	adj$adj-GD	por	sectorial	adj
+	fra	sectoriel	adj$adj-GD$	por	sectorial	adj
 	fra	sécurité	n$n-f$n-f-ND	por	segurança	n$n-mf
 	fra	sédentaire	adj	por	sedentário	adj
 	fra	séduction	n-f$n	por	sedução	n
@@ -16077,7 +16077,7 @@ RL	fra	sélectionner	vblex	por	seleccionar	vblex$vblex-pp-GD-ND
 	fra	sembler	vblex	por	parecer	vblex
 	fra	semer	vblex	por	semear	vblex
 	fra	semestre	n-m$n	por	semestre	n
-RL	fra	semestriel	adj$adj-f	por	semestral	adj
+RL	fra	semestriel	adj$adj-f$	por	semestral	adj
 	fra	semestriellement	adv	por	semestralmente	adv
 	fra	séminaire	n-m$n	por	seminário	n$n-m-ND
 	fra	Senado	np	por	Senado espanhol	np
@@ -16127,7 +16127,7 @@ RL	fra	semestriel	adj$adj-f	por	semestral	adj
 	fra	Serge	np$np-ant$np-ant-m-sg	por	Sérgio	np
 RL	fra	Serge	np$np-ant$np-ant-m-sg	por	Serge	np
 	fra	Serge Gainsbourg	np	por	Serge Gainsbourg	np
-	fra	Sergi	np	por	Sergi	np
+	fra	Sergi	np$np-ant-m-sg	por	Sergi	np
 	fra	Sergio	np$np-ant-m-sg$np-ant	por	Sergio	np
 	fra	Serhiy	np	por	Serhiy	np
 	fra	série	n-f$n	por	série	n$n-f-ND
@@ -16177,14 +16177,14 @@ RL	fra	Serge	np$np-ant$np-ant-m-sg	por	Serge	np
 	fra	seulement	adv	por	tão só	adv
 	fra	sévère	adj-mf$adj$adj-mf-ND	por	severo	adj
 	fra	sévèrement	adv	por	severamente	adv
-	fra	Severiano	np$np-ant$np-ant-m-sg	por	Severiano	np
+	fra	Severiano	np$np-ant-m-sg$np-ant	por	Severiano	np
 	fra	Séville	np$np-loc-f	por	Sevilha	np
 	fra	Séville	np$np-loc-f	por	Sevilla	np
 	fra	sexe	n$n-m$n-m-ND	por	sexo	n
 	fra	sexuel	adj-GD-ND$adj$adj-GD$	por	sexual	adj
 	fra	sexuellement	adv	por	sexualmente	adv
 	fra	sexy	adj$adj-mf	por	sexy	adj
-	fra	Seychelles	np$np-top$np-top-f-pl	por	Seychelles	np
+	fra	Seychelles	np$np-top-f-pl$np-top	por	Seychelles	np
 	fra	sficionado	adj	por	aficionado	adj
 	fra	Sgrena	np	por	Sgrena	np
 	fra	Shakespeare	np-cog-mf-sp$np	por	Shakespeare	np
@@ -16223,7 +16223,7 @@ LR	fra	si tant est que	cnjadv	por	mesmo que	cnjadv
 RL	fra	siège	n-m$n$n-m-ND	por	assédio	n
 RL	fra	siège	n-m$n$n-m-ND	por	assento	n
 	fra	Siemens	np$np-al$np-al-mf	por	Siemens	np
-	fra	Sierra Leone	np$np-top-f$np-top$np-top-f-sg	por	Serra Leoa	np
+	fra	Sierra Leone	np$np-top-f$np-top-f-sg$np-top	por	Serra Leoa	np
 	fra	Sierra Morena	np	por	Serra Morena	np
 	fra	sifflement	n-m$n	por	apito	n$n-m
 	fra	siffler	vblex	por	assobiar	vblex
@@ -16255,15 +16255,15 @@ LR	fra	s'il arrivait que	cnjadv	por	supondo que	cnjadv
 	fra	sillonner	vblex	por	sulcar	vblex
 	fra	Silva	np$np-cog$np-cog-mf-sp	por	Silva	np
 	fra	Silverspace	np	por	Silverspace	np
-	fra	Silverstone	np	por	Silverstone	np
-	fra	Silvestre	np$np-ant-m-sg$np-ant	por	Silvestre	np
+	fra	Silverstone	np$np-top-m-sg	por	Silverstone	np
+	fra	Silvestre	np-ant-m-sg$np$np-ant	por	Silvestre	np
 	fra	Silvia	np$np-ant-f-sg$np-ant	por	Silvia	np
 	fra	Silvio	np$np-ant-m-sg$np-ant	por	Silvio	np
 	fra	SIMCAV	np	por	SIMCAV	np
 	fra	Simenon	np$np-cog-mf-sp	por	Simenon	np
 	fra	similaire	adj$adj-mf-ND$adj-mf	por	similar	adj
 	fra	Simon	np$np-ant$np-ant-m-sg	por	Simon	np
-	fra	Simón	np$np-ant$np-ant-m-sg	por	Simón	np
+	fra	Simón	np-ant-m-sg$np$np-ant	por	Simón	np
 	fra	Simone	np-ant-f-sg$np$np-ant	por	Simone	np
 	fra	Simoni	np$np-cog-mf-sp	por	Simoni	np
 	fra	simple	adj-mf$adj$adj-mf-ND	por	simples	adj-mf-sp$adj
@@ -16318,7 +16318,7 @@ RL	fra	situer	vblex	por	situar	vblex
 	fra	ski	n$n-m	por	esquí	n
 	fra	ski	n$n-m	por	esqui	n
 	fra	skier	vblex	por	esquiar	vblex
-	fra	Skoda	np$np-al-mf	por	Skoda	np
+	fra	Skoda	np$np-al$np-al-mf	por	Skoda	np
 	fra	Skopje	np	por	Skopje	np
 	fra	Skrela	np$np-cog-mf-sp	por	Skrela	np
 	fra	Skype	np$np-al-m-sg$np-al	por	Skype	np
@@ -16402,7 +16402,7 @@ LR	fra	soixante et un	det$det-def	por	sessenta e um	det
 	fra	sol	n-m$n$n-m-ND	por	chão	n
 	fra	sol	n-m$n$n-m-ND	por	solo	n
 	fra	Solabarrieta	np	por	Solabarrieta	np
-	fra	Solana	np$np-ant-f-sg$np-ant	por	Solana	np
+	fra	Solana	np-ant-f-sg$np$np-ant	por	Solana	np
 	fra	Solberg	np	por	Solberg	np
 	fra	Solbes	np$np-cog$np-cog-mf-sp	por	Solbes	np
 	fra	solde	n$n-m$n-m-pl	por	saldo	n$n-m
@@ -16424,8 +16424,8 @@ RL	fra	sollicitude	n$n-f	por	requisição	n
 	fra	solution	n-f$n$n-f-ND	por	solução	n$n-f-ND
 	fra	solvable	adj$adj-mf	por	solvente	adj
 	fra	Solynova	np	por	Solynova	np
-	fra	Somalie	np$np-top-f$np-top	por	Somália	np$np-top
-	fra	Somaliland	np$np-top	por	Somalilândia	np
+	fra	Somalie	np$np-top-f$np-top$np-top-f-sg	por	Somália	np$np-top
+	fra	Somaliland	np$np-top$np-top-m-sg	por	Somalilândia	np
 	fra	sombre	adj-mf$adj$adj-mf-ND	por	sombrio	adj
 	fra	sommaire	n$n-m$n-m-ND	por	sumário	n
 	fra	somme	n-f$n$n-f-ND	por	soma	n$n-f
@@ -16464,7 +16464,7 @@ RL	fra	son	det-pos-m-sg$det	por	o seu	det-pos-m-sg
 	fra	sorte	n-f$n-f-ND$n	por	tipo	n-m$n$n-m-sg
 	fra	sortie	n-f$n$n-f-ND	por	saída	n
 	fra	sortir	vblex	por	sair	vblex
-	fra	Sotheby's	np	por	Sotheby's	np
+	fra	Sotheby's	np$np-al	por	Sotheby's	np
 	fra	Soto	np$np-top-m-sg	por	Soto	np
 	fra	Sotomayor	np$np-cog$np-cog-mf-sp	por	Sotomayor	np
 	fra	sottise	n-f$n	por	bobagem	n
@@ -16524,7 +16524,7 @@ LR	fra	souper	n-m$n$n-m-ND	por	jantar	n-m$n
 	fra	Sous-continent Indien	np	por	Subcontinente indiano	np
 	fra	souscription	n$n-f	por	assinatura	n$n-f$n-f-ND
 	fra	souscrire	vblex	por	subscrever	vblex
-RL	fra	sous-directeur	n-m$n	por	subdiretor	n
+RL	fra	sous-directeur	n$n-m	por	subdiretor	n
 	fra	sous-embranchement	n	por	subfilo	n
 	fra	sous-espèce	n-f$n	por	subespécie	n
 	fra	sous-estimer	vblex	por	subestimar	vblex
@@ -16603,8 +16603,8 @@ RL	fra	sportif	adj$adj-GD-ND$adj-GD	por	esportivo	adj
 	fra	Springsteen	np-cog-mf-sp$np	por	Springsteen	np
 	fra	Sputnik	np	por	Sputnik	np
 	fra	squelette	n$n-m	por	esqueleto	n
-	fra	Sri Lanka	np$np-top$np-top-m	por	Sri Lanka	np$np-top
-	fra	Sri Lanka	np$np-top$np-top-m	por	Sri Lanka	np$np-top
+	fra	Sri Lanka	np$np-top$np-top-m$np-top-m-sg	por	Sri Lanka	np$np-top
+	fra	Sri Lanka	np$np-top$np-top-m$np-top-m-sg	por	Sri Lanka	np$np-top
 	fra	SSL	np	por	SSL	np
 	fra	stabilisation	n-f$n$n-f-ND	por	estabilização	n$n-f-ND
 	fra	stabiliser	vblex	por	estabilizar	vblex
@@ -16647,7 +16647,7 @@ RL	fra	standard	n$n-m$n-m-ND	por	standard	n
 RL	fra	statut	n-m$n$n-m-sg	por	estatuto	n$n-m-ND
 	fra	statutaire	adj-mf$adj$adj-mf-ND	por	estatutário	adj
 	fra	Steaua Bucarest	np	por	Steaua Bucarest	np
-	fra	Stefano	np$np-ant$np-ant-m-sg	por	Stefano	np
+	fra	Stefano	np$np-ant-m-sg$np-ant	por	Stefano	np
 	fra	Steinmeier	np-cog-mf-sp$np	por	Steinmeier	np
 	fra	Stendhal	np$np-cog-mf-sp	por	Stendhal	np
 	fra	Stepanakert	np	por	Stepanakert	np
@@ -16847,7 +16847,7 @@ LR	fra	sûreté	n-mf	por	segurança	n$n-mf
 	fra	surface	n-f$n$n-f-ND	por	superfície	n
 	fra	surfer	vblex	por	surfar	vblex
 	fra	surgir	vblex	por	surgir	vblex
-	fra	Surinam	np$np-top-m	por	Suriname	np$np-top
+	fra	Surinam	np$np-top-m$np-top-m-sg	por	Suriname	np$np-top
 	fra	surmonter	vblex	por	superar	vblex
 	fra	surnommer	vblex	por	cognominar	vblex
 	fra	surpasser	vblex	por	superar	vblex
@@ -16893,11 +16893,11 @@ RL	fra	suspendre	vblex	por	suspender	vblex
 	fra	Suzuki	np$np-cog-mf-sp	por	Suzuki	np
 	fra	Svalbard	np$np-top$np-top-m-sg	por	Svalbard	np
 	fra	svelte	adj	por	esbelto	adj
-	fra	Swaziland	np$np-top$np-top-f	por	Suazilândia	np$np-top
+	fra	Swaziland	np$np-top-m-sg$np-top$np-top-m	por	Suazilândia	np$np-top
 	fra	Sydney	np$np-top-m-sg$np-top	por	Sydney	np
 	fra	syllabe	n-f$n	por	sílaba	n
-	fra	Sylvain	np-ant$np$np-ant-m-sg	por	Sylvain	np
-	fra	Sylvester Stallone	np$np-ant$np-ant-m-sg	por	Sylvester Stallone	np
+	fra	Sylvain	np-ant$np-ant-m-sg$np	por	Sylvain	np
+	fra	Sylvester Stallone	np$np-ant-m-sg$np-ant	por	Sylvester Stallone	np
 	fra	sylvestre	adj	por	silvestre	adj
 	fra	Sylvie	np-ant-f-sg$np$np-ant	por	Sylvie	np
 	fra	Sylwester Szmyd	np	por	Sylwester Szmyd	np
@@ -16963,7 +16963,7 @@ LR	fra	symptome	n	por	sintoma	n
 	fra	tactique	n$n-f$n-f-ND	por	tática	n
 	fra	tactique	adj-mf$adj$adj-mf-ND	por	táctico	adj
 	fra	Tadej	np	por	Tadej	np
-	fra	Tadjikistan	np$np-top-m$np-top$np-top-m-sg	por	Tadjiquistão	np
+	fra	Tadjikistan	np$np-top-m$np-top-m-sg$np-top	por	Tadjiquistão	np
 	fra	Tage	np$np-top-m-sg	por	Rio Tejo	np
 	fra	Tahiti	np$np-top-m-sg	por	Taiti	np
 	fra	taille	n-f$n$n-f-ND	por	tamanho	n-m$n
@@ -16977,7 +16977,7 @@ RL	fra	taille	n-f$n$n-f-ND	por	talha	n
 	fra	Taïwan	np$np-loc-f	por	Ilha de Formosa	np
 	fra	Tajonar	np	por	Tajonar	np
 	fra	Taka	np	por	Taka	np
-	fra	Takeo	np	por	Takeo	np
+	fra	Takeo	np$np-ant-m-sg	por	Takeo	np
 	fra	Talabani	np$np-cog-mf-sp	por	Talabani	np
 	fra	Talabardon	np	por	Talabardon	np
 	fra	Talaiberri	np	por	Talaiberri	np
@@ -16988,11 +16988,11 @@ RL	fra	taille	n-f$n$n-f-ND	por	talha	n
 	fra	Talmud	np	por	Talmude	np
 	fra	Tamayo	np$np-cog-mf-sp	por	Tamayo	np
 	fra	tambour	n$n-m	por	tambor	n
-	fra	Tananarive	np	por	Antananarivo	np
+	fra	Tananarive	np$np-top-f-sg	por	Antananarivo	np
 LR	fra	tandis que	cnjadv	por	enquanto	cnjadv
 	fra	Tanganyika	np	por	Tanganyika	np
 	fra	Tanger	np$np-top-m-sg	por	Tânger	np
-	fra	Tania	np$np-ant$np-ant-f-sg	por	Tania	np
+	fra	Tania	np-ant-f-sg$np$np-ant	por	Tania	np
 	fra	tank	n-m$n$n-m-ND	por	tanque	n$n-m$n-m-ND
 LR	fra	tant	adv	por	tanto	adv
 	fra	Tantale	np	por	Tantale	np
@@ -17000,7 +17000,7 @@ LR	fra	tant	adv	por	tanto	adv
 LR	fra	tant que	cnjadv	por	desde que	cnjadv
 LR	fra	tantot	adv	por	depois	adv
 	fra	tantôt	adv	por	depois	adv
-	fra	Tanzanie	np$np-top-f$np-top$np-top-f-sg	por	Tanzânia	np$np-top
+	fra	Tanzanie	np$np-top-f$np-top-f-sg$np-top	por	Tanzânia	np$np-top
 	fra	Taoufik	np$np-cog-mf-sp	por	Taoufik	np
 	fra	taper	vblex	por	colar	vblex
 	fra	taper	vblex	por	digitar	vblex
@@ -17050,7 +17050,7 @@ RL	fra	taxe	n-f$n$n-f-ND	por	taxa	n$n-f-ND
 	fra	Taylor	np-ant-f-sg$np$np-ant	por	Taylor	np
 	fra	Tayyip	np$np-ant-m-sg	por	Tayyip	np
 	fra	Tbilissi	np	por	Tbilisi	np
-	fra	Tchad	np$np-top$np-top-f	por	Chade	np$np-top
+	fra	Tchad	np$np-top-m-sg$np-top$np-top-m	por	Chade	np$np-top
 	fra	Tchaikovski	np	por	Piotr Ilitch Tchaikovsky	np
 	fra	Tchang Kaï-Chek	np	por	Tchang Kaï-Chek	np
 	fra	Tchao Mong-Fou	np	por	Tchao Mong-Fou	np
@@ -17158,7 +17158,7 @@ LR	fra	tendre	adj-mf$adj$adj-mf-ND	por	terno	adj$adj-m-sg
 	fra	tenter	vblex	por	tentar	vblex
 	fra	ténu	adj	por	tênue	adj
 	fra	ténu	adj	por	ténue	adj
-	fra	Teodoro	np$np-cog$np-cog-mf-sp	por	Teodoro	np
+	fra	Teodoro	np$np-ant-m-sg$np-ant	por	Teodoro	np
 	fra	Tere	np$np-ant$np-ant-f-sg	por	Tere	np
 	fra	Teresa	np$np-ant$np-ant-f-sg	por	Teresa	np
 	fra	teriyaki	np	por	Teriyaki	np
@@ -17216,7 +17216,7 @@ RL	fra	terroriste	adj$adj-mf$adj-mf-ND	por	terrorista	adj
 	fra	Textiline	np	por	Textiline	np
 	fra	texture	n-f$n	por	textura	n
 	fra	TF1	np$np-al	por	TF1	np
-	fra	thaïlandais	adj-m-sp$adj	por	tailandês	adj$adj-GD-ND
+	fra	thaïlandais	adj$adj-m-sp	por	tailandês	adj$adj-GD-ND
 	fra	Thaïlande	np$np-top-f$np-top$np-top-f-sg	por	Tailândia	np$np-top
 	fra	Thaksin	np	por	Thaksin	np
 	fra	Thalès	np$np-ant$np-ant-m-sg	por	Tales de Mileto	np
@@ -17269,7 +17269,7 @@ RL	fra	Thésée	np$np-ant-m-sg	por	Thésée	np
 	fra	Thuram	np$np-cog-mf-sp	por	Thuram	np
 	fra	Thuringe	np	por	Turíngia	np
 	fra	ThyssenKrupp	np$np-al-mf	por	ThyssenKrupp	np
-	fra	Tiago	np$np-ant	por	Tiago	np$np-ant
+	fra	Tiago	np$np-ant$np-ant-m-sg	por	Tiago	np$np-ant
 	fra	Tibériade	np	por	Tiberíades	np
 	fra	Tibet	np$np-top-m-sg$np-top	por	Tibete	np
 	fra	tibétain	n	por	tibetano	n
@@ -17295,7 +17295,7 @@ RL	fra	Thésée	np$np-ant-m-sg	por	Thésée	np
 	fra	tirage	n-m$n	por	sorteio	n
 	fra	tir à l'arc	n	por	arqueiro	n
 	fra	Tiralongo	np$np-cog-mf-sp	por	Tiralongo	np
-	fra	Tirana	np$np-loc-f	por	Tirana	np
+	fra	Tirana	np$np-top-f-sg	por	Tirana	np
 	fra	Tiran	np	por	Tiran	np
 	fra	Tirán	np	por	Tirán	np
 	fra	Tiraspol	np	por	Tiraspol	np
@@ -17316,7 +17316,7 @@ RL	fra	Thésée	np$np-ant-m-sg	por	Thésée	np
 	fra	TNS-Sofres	np	por	TNS-Sofres	np
 	fra	Tobrouk	np	por	Tobruk	np
 	fra	TOF	np	por	TOF	np
-	fra	Togo	np$np-top-m$np-top$np-top-m-sg	por	Togo	np$np-top
+	fra	Togo	np$np-top-m$np-top-m-sg$np-top	por	Togo	np$np-top
 LR	fra	toi	prn$prn-tn-p2-mf-sg$prn-tn$prn-tn-p2	por	tu	prn$prn-tn$prn-tn-p2-mf
 RL	fra	toi	prn$prn-tn-p2-mf-sg$prn-tn$prn-tn-p2	por	ti	prn$prn-tn
 	fra	toile	n-f$n$n-f-ND	por	teia	n
@@ -17357,7 +17357,7 @@ RL	fra	ton	det-pos-mf-pl$pos	por	teu	det-pos-f-pl
 RL	fra	ton	det-pos-mf-pl$pos	por	teu	det-pos-m-pl
 RL	fra	ton	det-pos-m-sg$det-pos-m$det	por	o teu	det-pos-m-sg
 RL	fra	ton	n$n-m$n-m-ND	por	tom	n
-	fra	Tonga	np$np-top$np-top-f$np-top-f-pl	por	Tonga	np
+	fra	Tonga	np$np-top-f-pl$np-top$np-top-f	por	Tonga	np
 	fra	Toni	np$np-ant-m-sg$np-ant	por	Toni	np
 	fra	tonne	n-f$n$n-f-ND	por	tonelada	n$n-f-ND
 	fra	tonneau	n$n-m	por	barril	n
@@ -17365,7 +17365,7 @@ RL	fra	ton	n$n-m$n-m-ND	por	tom	n
 	fra	Tonti	np	por	Tonti	np
 	fra	Tontxu	np	por	Tontxu	np
 	fra	Tony	np$np-ant$np-ant-m-sg	por	Tony	np
-	fra	Tony Blair	np$np-ant$np-ant-m-sg	por	Tony Blair	np
+	fra	Tony Blair	np$np-ant-m-sg$np-ant	por	Tony Blair	np
 	fra	Toomas Hendrik Ilves	np	por	Toomas Hendrik Ilves	np
 	fra	Top16	np	por	Top16	np
 	fra	topographie	n-f$n	por	topografia	n
@@ -17398,7 +17398,7 @@ RL	fra	ton	n$n-m$n-m-ND	por	tom	n
 	fra	Tosar	np	por	Tosar	np
 	fra	Tosatto	np	por	Tosatto	np
 	fra	Toscane	np$np-loc-f	por	Toscana	np
-	fra	Toshiba	np$np-al-mf	por	Toshiba	np
+	fra	Toshiba	np$np-al-f-sg	por	Toshiba	np
 	fra	Tostartean	np	por	Tostartean	np
 LR	fra	tot	adv	por	cedo	adv
 	fra	tôt	adv	por	cedo	adv
@@ -17701,7 +17701,7 @@ RL	fra	trouble	n$n-m$n-m-ND	por	transtorno	n
 	fra	turc	adj$adj-GD-ND	por	turco	adj
 	fra	turc	n$n-m$n-m-ND	por	turco	n$n-m
 	fra	Turin	np$np-top-m-sg	por	Turim	np
-	fra	Turkménistan	np$np-top$np-top-m$np-top-m-sg	por	Turquemenistão	np$np-top
+	fra	Turkménistan	np$np-top-m-sg$np-top$np-top-m	por	Turquemenistão	np$np-top
 	fra	Turquie	np$np-top-f$np-top-f-sg$np-top	por	Turquia	np$np-top-f-sg
 	fra	Tusk	np$np-cog-mf-sp	por	Tusk	np
 	fra	tutelle	n-f$n	por	tutela	n$n-f-ND
@@ -17899,13 +17899,13 @@ RL	fra	ustensile	n-m$n	por	utensílio	n
 	fra	Val-de-Marne	np$np-loc-f	por	Val-de-Marne	np
 	fra	Valdés	np$np-cog$np-cog-mf-sp	por	Valdés	np
 	fra	Valdis Zatlers	np	por	Valdis Zatlers	np
-	fra	Valdo	np$np-ant$np-ant-m-sg	por	Valdo	np
+	fra	Valdo	np$np-ant-m-sg$np-ant	por	Valdo	np
 	fra	Val-d'Oise	np$np-loc-f	por	Val-d'Oise	np
 	fra	Valence	np$np-top-f-sg	por	Valence	np
 	fra	Valence	np$np-top-f-sg	por	Valencia	np
 	fra	valencien	adj$adj-GD-ND	por	valenciano	adj
 	fra	Valentín	np$np-cog$np-cog-mf-sp	por	Valentín	np
-	fra	Valentino	np$np-ant-m-sg$np-ant	por	Valentino	np
+	fra	Valentino	np-ant-m-sg$np$np-ant	por	Valentino	np
 	fra	Valérie	np$np-ant$np-ant-f-sg	por	Valérie	np
 	fra	Valero	np$np-cog$np-cog-mf-sp	por	Valero	np
 	fra	Valery	np	por	Valery	np
@@ -18055,7 +18055,7 @@ RL	fra	verre	n-m$n$n-m-ND	por	copo	n
 LR	fra	verrouiller	vblex	por	bloquear	vblex
 	fra	vers	n-m-sp$n-m$n	por	verso	n
 LR	fra	vers	pr	por	para	pr
-	fra	Versace	np	por	Versace	np
+	fra	Versace	np$np-al	por	Versace	np
 	fra	Versailles	np$np-top-f-sg	por	Versalhes	np
 	fra	versant	n-m$n$n-m-ND	por	vertente	n-f$n
 	fra	versatile	adj$adj-mf	por	versátil	adj
@@ -18278,7 +18278,7 @@ RL	fra	vital	adj$adj-f$	por	vital	adj$adj-mf-ND
 	fra	vocabulaire	n$n-m$n-m-ND	por	vocabulário	n
 RL	fra	vocal	adj$$adj-f	por	vocal	adj$adj-mf-ND
 	fra	vocation	n$n-f$n-f-ND	por	vocação	n
-	fra	Vodafone	np$np-al-mf	por	Vodafone	np
+	fra	Vodafone	np$np-al-f-sg	por	Vodafone	np
 	fra	voeu	n-m$n$n-m-ND	por	voto	n$n-m-ND
 	fra	Vogels	np-cog-mf-sp$np	por	Vogels	np
 	fra	voie	n-f$n$n-f-ND	por	via	n$n-f
@@ -18329,12 +18329,12 @@ RL	fra	voler	vblex	por	roubar	vblex
 	fra	votation	n-f$n$n-f-ND	por	votação	n$n-f-ND
 	fra	vote	n$n-m$n-m-ND	por	voto	n$n-m-ND
 	fra	voter	vblex	por	votar	vblex
-LR	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	por	o vosso	det$det-pos$det-pos-GD
-LR	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	por	vosso	det$det-pos-GD-ND$det-pos$det-pos-GD
-RL	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	por	o vosso	det-pos-f
-RL	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	por	o vosso	det-pos-m
-RL	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	por	vosso	det-pos-f
-RL	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	por	vosso	det-pos-m
+LR	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	por	o vosso	det$det-pos$det-pos-GD
+LR	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	por	vosso	det$det-pos-GD-ND$det-pos$det-pos-GD
+RL	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	por	o vosso	det-pos-f
+RL	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	por	o vosso	det-pos-m
+RL	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	por	vosso	det-pos-f
+RL	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	por	vosso	det-pos-m
 	fra	vouer	vblex	por	consagrar	vblex
 	fra	vouloir	vblex	por	querer	vblex
 	fra	vouloir	vbmod	por	querer	vbmod
@@ -18395,7 +18395,7 @@ RL	fra	Wall Street	np$np-al	por	Wall Street	np
 	fra	Wii	np$np-al-f-sg	por	Wii	np
 	fra	Wikeriadur	np$np-al	por	Wikeriadur	np
 	fra	Wikimédia	np	por	Wikimédia	np
-	fra	Wikipedia	np$np-al-f-sg	por	Wikipedia	np
+	fra	Wikipedia	np-al-f-sg$np	por	Wikipedia	np
 	fra	Wikipédia	np$np-al-f-sg$np-al	por	Wikipédia	np$np-al
 	fra	Wikispecies	np	por	Wikispecies	np
 	fra	Wiktionnaire	np	por	Wikcionário	np
@@ -18418,13 +18418,13 @@ RL	fra	Willy	np$np-ant$np-ant-m-sg	por	Willie	np
 	fra	Wolfgang	np$np-ant-m-sg	por	Wolfgang	np
 	fra	Wong	np$np-cog$np-cog-mf-sp	por	Wong	np
 	fra	Woodworth	np-cog-mf-sp$np	por	Woodworth	np
-	fra	Woody	np$np-ant-m-sg	por	Woody	np
+	fra	Woody	np-ant-m-sg$np	por	Woody	np
 	fra	World Trade Center	np$np-al	por	World Trade Center	np
 	fra	Wou Tchen	np	por	Wou Tchen	np
 	fra	Wu Zhen	np	por	Wu Zhen	np
 	fra	x	n-m$n$n-m-sp	por	x	n$n-m
 	fra	X	num$num-mf-sp	por	X	num
-	fra	Xabi	np$np-ant-m-sg	por	Xabi	np
+	fra	Xabi	np-ant-m-sg$np	por	Xabi	np
 	fra	Xabier	np$np-ant$np-ant-m-sg	por	Xabier	np
 	fra	Xavier	np$np-ant-m-sg$np-ant	por	Xavier	np$np-ant
 	fra	Xbox	np$np-al-f-sg	por	Xbox	np
@@ -18475,8 +18475,8 @@ LR	fra	y	prn-pro-adv$adv	por		prn
 	fra	Yan	np$np-cog-mf-sp	por	Yan	np
 	fra	Yangon	np	por	Yangon	np
 	fra	Yangzi Jiang	np	por	Rio Yangtzé	np
-	fra	Yann	np$np-ant-m-sg$np-ant	por	Yann	np
-	fra	Yannick	np$np-ant-m-sg$np-ant	por	Yannick	np
+	fra	Yann	np-ant-m-sg$np$np-ant	por	Yann	np
+	fra	Yannick	np-ant-m-sg$np$np-ant	por	Yannick	np
 	fra	Yaoundé	np$np-top-m-sg	por	Yaoundé	np
 	fra	Yard	np	por	Yard	np
 	fra	Yaren	np	por	Yaren	np
@@ -18495,7 +18495,7 @@ RL	fra	Yémen	np$np-top-m$np-top$np-top-m-sg	por	Iémene	np
 	fra	Yémen	np$np-top-m$np-top$np-top-m-sg	por	Iémen	np$np-top
 	fra	yen	n-m$n	por	iene	n
 	fra	Yeste	np$np-cog-mf-sp	por	Yeste	np
-	fra	Yolanda	np$np-ant$np-ant-f-sg	por	Yolanda	np
+	fra	Yolanda	np$np-ant-f-sg$np-ant	por	Yolanda	np
 	fra	Yonne	np$np-loc-f	por	Yonne	np
 	fra	York	np$np-cog-mf-sp	por	York	np
 	fra	Yougoslavie	np$np-top-f$np-top-f-sg$np-top	por	Jugoslávia	np
@@ -18559,7 +18559,7 @@ RL	fra	Yougoslavie	np$np-top-f$np-top-f-sg$np-top	por	Iugoslávia	np
 	fra	Zimbabwe	np$np-top-m-sg$np-top$np-top-m	por	Zimbabwe	np$np-top
 	fra	zinc	n-m$n	por	zinco	n
 	fra	Zinedine	np$np-ant$np-ant-m-sg	por	Zinedine	np
-	fra	Zinédine	np$np-ant-m-sg	por	Zinédine	np
+	fra	Zinédine	np-ant-m-sg$np	por	Zinédine	np
 	fra	Zinoviev	np$np-cog-mf-sp	por	Zinoviev	np
 	fra	Zizurkil	np	por	Zizurkil	np
 	fra	zone	n$n-f$n-f-ND	por	área	n$n-f-ND

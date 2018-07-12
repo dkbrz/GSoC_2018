@@ -176,12 +176,14 @@ class DictionaryStats:
 # LOADING
 
 def l(lang, mode=3):
-    "Two-three language code converter"
-    mode = mode % 2
-    if len(lang)==2:
-        if lang in lang_codes[mode]: return lang_codes[mode][lang]
-        else: return lang
+    "Language code converter"
+    if lang in lang_codes: return lang_codes[lang]
     else: return lang
+    #mode = mode % 2
+    #if len(lang)==2:
+    #    if lang in lang_codes[mode]: return lang_codes[mode][lang]
+    #    else: return lang
+    #else: return lang
 
 def repo_names(user):
     "List of language pair repos in Apertium"

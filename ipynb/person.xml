@@ -1,0 +1,43 @@
+<dictionary>
+  <alphabet />
+  <sdefs>
+    <sdef c="Noun" n="n" />
+    <sdef c="Proper noun" n="np" />
+    <sdef c="Pronoun" n="prn" />
+    <sdef c="Determiner" n="det" />
+    <sdef c="Possessive" n="pos" />
+
+    <sdef c="1st person" n="p1" />
+    <sdef c="2nd person" n="p2" />
+    <sdef c="3rd person" n="p3" />
+
+    <sdef c="Neuter" n="nt" />
+    <sdef c="No gender" n="un" />
+    <sdef c="Masculine / feminine, also utrum in nouns" n="mf" />
+    <sdef c="Masculine / feminine / neuter" n="mfn" />
+    <sdef c="Masculine / neuter" n="mn" />
+    <sdef c="Feminine" n="f" />
+    <sdef c="Masculine" n="m" />
+    <sdef c="Utrum" n="ut" />
+
+    <sdef c="Singular / plural" n="sp" />
+    <sdef c="Singular" n="sg" />
+    <sdef c="Plural" n="pl" />
+
+    <sdef c="Indefinite" n="ind" />
+    <sdef c="Definite" n="def" />
+
+    <sdef c="Nominative" n="nom" />
+    <sdef c="Accusative" n="acc" />        
+    <sdef c="Genitive" n="gen" />
+
+    <sdef c="Demonstrative" n="dem" />
+    <sdef c="Question word / interrogative" n="itg" />
+    <sdef c="Quantifier" n="qnt" />
+    <sdef c="Negative" n="neg" />
+    <sdef c="Emphatic" n="emph" />
+
+    <sdef c="Verb" n="vblex" />
+    <sdef c="Verb – essere" n="vbser" />
+    <sdef c="-st verb (Nynorsk)" n="pstv" />
+    <sdef

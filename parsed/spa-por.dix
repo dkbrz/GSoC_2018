@@ -58,7 +58,7 @@ LR	spa	concertación	n$n-f	por	acordo	n$n-m$n-m-ND
 	spa	norteamericano	adj$adj-GD-ND	por	norte-americano	adj
 	spa	llevar	vblex	por	levar	vblex
 	spa	mismo	adj$adj-f-pl$adj-f	por	mesmo	adj
-	spa	vez	n-f$n-f-ND$n	por	vez	n$n-f-ND
+	spa	vez	n-f$n$n-f-ND	por	vez	n$n-f-ND
 	spa	parte	n-f$n$n-f-sg	por	parte	n$n-f$n-f-ND
 	spa	semana	n$n-f$n-f-sg	por	semana	n$n-f$n-f-ND
 	spa	pequeño	adj$adj-GD-ND	por	pequeno	adj$adj-GD-ND
@@ -80,7 +80,7 @@ LR	spa	cercano	adj$adj-GD-ND$adj-GD	por	próximo	adj$adj-GD$adj-GD-ND
 	spa	recibir	vblex	por	receber	vblex
 	spa	ciudad	n-f$n$n-f-sg	por	cidade	n$n-f$n-f-ND
 	spa	encontrar	vblex$vblex-vbact	por	encontrar	vblex
-	spa	Israel	np$np-ant$np-ant-m$np-ant-m-sg	por	Israel	np$np-loc
+	spa	Israel	np$np-ant$np-ant-m-sg	por	Israel	np$np-loc
 	spa	Clinton	np$np-ant	por	Clinton	np$np-cog
 	spa	indicar	vblex	por	indicar	vblex
 	spa	tiempo	n-m$n-m-ND$n	por	tempo	n$n-m-ND
@@ -112,7 +112,7 @@ RL	spa	crisis	n-f-sp$n-f$n	por	crise	n-f-pl
 	spa	presentar	vblex	por	apresentar	vblex
 	spa	intentar	vblex	por	tentar	vblex
 LR	spa	tentar	vblex	por	tentar	vblex
-	spa	empresa	n$n-f$n-f-sg	por	empresa	n$n-f-ND
+	spa	empresa	n-f$n$n-f-sg	por	empresa	n$n-f-ND
 	spa	equipo	n-m$n-m-sg$n	por	equipe	n-f$n
 	spa	provocar	vblex	por	provocar	vblex
 	spa	ley	n$n-f$n-f-sg	por	lei	n$n-f-ND
@@ -123,7 +123,7 @@ LR	spa	precisar	vblex	por	precisar	vblex
 	spa	ONU	n$n-acr-f$n-acr-f-sg$n-acr	por	ONU	n$n-acr-f
 	spa	hora	n-f$n$n-f-sg	por	hora	n$n-f-pl
 	spa	autoridad	n-f$n$n-f-sg	por	autoridade	n$n-f$n-f-ND
-	spa	mundo	n$n-m$n-m-sg	por	mundo	n$n-m$n-m-ND
+	spa	mundo	n-m$n$n-m-sg	por	mundo	n$n-m$n-m-ND
 	spa	alto	adj$adj-GD-ND	por	alto	adj$adj-GD-ND
 	spa	proceso	n$n-m$n-m-ND	por	processo	n$n-m-ND
 	spa	Chuvashia	np	por	Chuváchia	np
@@ -139,14 +139,14 @@ LR	spa	asunto de faldas	n	por	caso	n$n-m$n-m-ND
 	spa	medida	n-f$n$n-f-sg	por	medida	n
 	spa	brasileño	adj$adj-GD-ND	por	brasileiro	adj$adj-GD-ND
 	spa	participar	vblex	por	participar	vblex
-	spa	reunir	vblex	por	reunir	vblex
+	spa	reunir	vblex$vblex-pron	por	reunir	vblex
 	spa	causar	vblex	por	causar	vblex
 	spa	político	adj$adj-GD$adj-GD-ND	por	político	adj$adj-GD-ND
 	spa	jefe	n$n-m-sg$n-m	por	chefe	n-f$n
 	spa	sufrir	vblex	por	sofrer	vblex
 	spa	segundo	adj$adj-f$adj-f-pl	por	segundo	adj$adj-GD-ND
 	spa	perder	vblex	por	perder	vblex$vblex-pp-m-ND
-	spa	oficial	adj$adj-mf$adj-mf-pl	por	oficial	adj$adj-mf-ND
+	spa	oficial	adj-mf$adj$adj-mf-pl	por	oficial	adj$adj-mf-ND
 	spa	internacional	adj-mf$adj$adj-mf-pl	por	internacional	adj$adj-mf-ND
 	spa	poder	n$n-m$n-m-sg	por	poder	n$n-m-ND
 	spa	provenir	vblex	por	provir	vblex
@@ -154,7 +154,7 @@ LR	spa	asunto de faldas	n	por	caso	n$n-m$n-m-ND
 	spa	venir	vblex	por	vir	vblex
 	spa	vivir	vblex	por	viver	vblex
 	spa	Jacques	np$np-ant	por	Jacques	np
-	spa	volver	vblex	por	voltar	vblex
+	spa	volver	vblex$vblex-pron	por	voltar	vblex
 	spa	ocurrir	vblex	por	ocorrer	vblex
 	spa	fuente	n-f$n$n-f-sg	por	fonte	n
 	spa	final	n-m$n$n-m-ND	por	final	n
@@ -170,7 +170,7 @@ LR	spa	asunto de faldas	n	por	caso	n$n-m$n-m-ND
 	spa	militar	adj$adj-mf-sg$adj-mf	por	militar	adj$adj-mf-ND
 	spa	seguridad	n$n-f$n-f-sg	por	segurança	n-f$n-f-ND
 	spa	guarda jurado		por	segurança	n$n-mf
-	spa	vida	n$n-f$n-f-sg	por	vida	n$n-f-ND$n-f
+	spa	vida	n-f$n$n-f-sg	por	vida	n$n-f-ND$n-f
 	spa	principal	adj$adj-mf$adj-mf-ND	por	principal	adj$adj-mf-ND
 LR	spa	troncal	adj$adj-mf	por	principal	adj$adj-mf-ND
 	spa	representar	vblex	por	representar	vblex
@@ -217,8 +217,8 @@ RL	spa	creer	vblex	por	acreditar	vblex
 	spa	público	adj$adj-GD-ND	por	público	adj$adj-GD-ND
 	spa	contar	vblex$vblex-vbact	por	contar	vblex
 	spa	fuerza	n-f$n$n-f-sg	por	força	n$n-f-ND
-	spa	trabajo	n-m$n-m-sg$n	por	trabalho	n-m$n$n-m-ND
-	spa	parecer	vblex$	por	parecer	vblex
+	spa	trabajo	n-m$n$n-m-sg	por	trabalho	n-m$n$n-m-ND
+	spa	parecer	vblex$$vblex-pron	por	parecer	vblex
 	spa	trabajar	vblex	por	trabalhar	vblex
 	spa	billón	n$n-m	por	bilião	n
 	spa	víctima	n$n-f$n-f-sg	por	vítima	n$n-f-ND
@@ -226,7 +226,7 @@ RL	spa	creer	vblex	por	acreditar	vblex
 	spa	hijo	n$n-f$n-f-ND	por	filho	n$n-m$n-m-ND
 	spa	jugador	n$n-m$n-m-pl	por	jogador	n$n-m-ND
 	spa	fin	n-m$n$n-m-sg	por	fim	n-m$n$n-m-ND
-	spa	acordar	vblex	por	lembrar	vblex
+	spa	acordar	vblex$vblex-pron	por	lembrar	vblex
 	spa	dirigir	vblex	por	dirigir	vblex
 	spa	noche	n-f$n$n-f-sg	por	noite	n$n-f$n-f-ND
 	spa	accidente	n-m$n$n-m-sg	por	acidente	n
@@ -271,7 +271,7 @@ LR	spa	afrontar	vblex	por	enfrentar	vblex
 	spa	operación	n$n-f$n-f-sg	por	operação	n$n-f-ND
 	spa	cuenta	n-f$n$n-f-sg	por	conta	n$n-f
 LR	spa	minuta	n$n-f	por	conta	n$n-f
-	spa	Argentina	np$np-top$np-top-f	por	Argentina	np$np-top-f-sg
+	spa	Argentina	np$np-top-f$np-top	por	Argentina	np$np-top-f-sg
 	spa	dirigente	adj$adj-mf$adj-mf-ND	por	dirigente	adj
 LR	spa	gobernante	adj$adj-mf$adj-mf-sg	por	dirigente	adj
 	spa	organización	n-f$n$n-f-sg	por	organização	n$n-f-ND
@@ -295,7 +295,7 @@ RL	spa	viernes	n-m-sp$n$n-m	por	sexta-feira	n-f-sg
 RL	spa	viernes	n-m-sp$n$n-m	por	sexta-feira	n-f-pl
 	spa	evitar	vblex	por	evitar	vblex
 	spa	negar	vblex	por	negar	vblex
-	spa	Diana	np-ant$np$np-ant-f$np-ant-f-sg	por	Diana	np
+	spa	Diana	np-ant$np$np-ant-f-sg	por	Diana	np
 	spa	economía	n$n-f$n-f-sg	por	economia	n$n-f-ND
 	spa	responsable	adj$adj-mf$adj-mf-ND	por	responsável	adj$adj-mf-ND
 	spa	choque	n-m$n$n-m-ND	por	choque	n$n-m-ND$n-m
@@ -308,14 +308,14 @@ LR	spa	calambre	n-m$n	por	choque	n$n-m-ND$n-m
 	spa	abrir	vblex	por	abrir	vblex
 	spa	coche	n-m$n$n-m-sg	por	carro	n$n-m$n-m-ND
 	spa	guerra	n-f$n$n-f-sg	por	guerra	n$n-f-ND
-	spa	Rusia	np$np-top$np-top-f	por	Rússia	np$np-top-f-sg
+	spa	Rusia	np$np-top-f$np-top	por	Rússia	np$np-top-f-sg
 	spa	inicio	n$n-m$n-m-sg	por	início	n$n-m
 	spa	Arafat	np$np-cog$np-cog-mf	por	Arafat	np
 	spa	registrar	vblex	por	registrar	vblex
 	spa	registrar	vblex	por	registar	vblex
 LR	spa	empadronar	vblex	por	registrar	vblex
 LR	spa	empadronar	vblex	por	registar	vblex
-	spa	arma	n$n-f$n-f-sg	por	arma	n
+	spa	arma	n-f$n$n-f-sg	por	arma	n
 	spa	valor	n-m$n$n-m-sg	por	valor	n$n-m$n-m-ND
 	spa	disponer	vblex	por	dispor	vblex
 	spa	crear	vblex	por	criar	vblex
@@ -326,7 +326,7 @@ LR	spa	idear	vblex	por	criar	vblex
 	spa	encuentro	n-m$n$n-m-sg	por	encontro	n-m$n$n-m-ND
 	spa	llamar	vblex$vblex-pp	por	chamar	vblex
 LR	spa	tildar	vblex	por	chamar	vblex
-	spa	nacional	adj$adj-mf$adj-mf-pl	por	nacional	adj$adj-mf-ND
+	spa	nacional	adj-mf$adj$adj-mf-pl	por	nacional	adj$adj-mf-ND
 	spa	iniciar	vblex	por	iniciar	vblex
 	spa	apoyar	vblex	por	apoiar	vblex
 	spa	América	np$np-loc$np-loc-f	por	América	np$np-top-f-sg
@@ -511,7 +511,7 @@ LR	spa	bajón	n$n-m	por	baixo	n
 LR	spa	ordenanza	n$n-f$n-f-sg	por	ordem	n-f$n$n-f-ND
 	spa	especial	adj$adj-mf$adj-mf-ND	por	especial	adj$adj-mf-ND
 	spa	mar	n-mf$n$n-mf-ND	por	mar	n-m$n$n-m-ND
-	spa	España	np$np-top$np-top-f	por	Espanha	np$np-top
+	spa	España	np$np-loc$np-loc-f	por	Espanha	np$np-top
 	spa	Bahía	np	por	Bahia	np
 	spa	armar	vblex	por	armar	vblex$vblex-pp-GD-ND
 	spa	norte	n-m$n$n-m-sg	por	norte	n
@@ -730,7 +730,7 @@ LR	spa	desarollo	n	por	desenvolvimento	n$n-m-ND
 	spa	español	adj$adj-GD-ND	por	espanhol	adj$adj-GD-ND
 	spa	autor	n$n-GD$n-GD-pl	por	autor	n$n-m$n-m-ND
 	spa	amigo	n$n-m$n-m-ND	por	amigo	n
-	spa	época	n$n-f$n-f-ND	por	época	n
+	spa	época	n-f$n$n-f-ND	por	época	n
 	spa	Cisjordania	np$np-loc$np-loc-f	por	Cisjordânia	np$np-loc
 	spa	poseer	vblex	por	possuir	vblex
 	spa	vuelta	n-f$n$n-f-ND	por	volta	n$n-f
@@ -783,7 +783,7 @@ LR	spa	substituir	vblex	por	substituir	vblex
 	spa	expresar	vblex	por	expressar	vblex
 	spa	sentido	n-m$n$n-m-ND	por	sentido	n$n-m-ND
 	spa	récord	n$n-m$n-m-sg	por	recorde	n$n-m
-	spa	hermano	n-m$n$n-m-sg	por	irmão	n$n-m$n-m-pl
+	spa	hermano	n-f$n$n-f-ND	por	irmão	n$n-m$n-m-pl
 	spa	clasificar	vblex	por	classificar	vblex
 	spa	suspender	vblex	por	suspender	vblex
 	spa	reforzar	vblex	por	reforçar	vblex
@@ -832,7 +832,7 @@ LR	spa	sendero	n-m$n$n-m-ND	por	caminho	n$n-m
 	spa	participación	n-f$n$n-f-ND	por	participação	n$n-f-ND
 LR	spa	concurrencia	n$n-f	por	participação	n$n-f-ND
 	spa	etapa	n$n-f$n-f-sg	por	etapa	n$n-f-ND
-	spa	Colombia	np$np-top$np-top-f	por	Colômbia	np$np-top
+	spa	Colombia	np$np-top-f$np-top	por	Colômbia	np$np-top
 	spa	Enrique	np-ant$np$np-ant-m-sg	por	Enrique	np
 	spa	árabe	adj-mf$adj$adj-mf-sg	por	árabe	adj
 	spa	sesión	n$n-f-sg$n-f	por	sessão	n$n-f-ND
@@ -879,7 +879,7 @@ LR	spa	trasformar	vblex	por	transformar	vblex$vblex-pp-GD-ND
 LR	spa	trasmitir	vblex	por	transmitir	vblex
 	spa	quitar	vblex	por	tirar	vblex
 	spa	preferir	vblex	por	preferir	vblex
-	spa	institución	n$n-f$n-f-sg	por	instituição	n$n-f-ND
+	spa	institución	n-f$n$n-f-sg	por	instituição	n$n-f-ND
 	spa	fase	n-f$n$n-f-sg	por	fase	n$n-f-ND
 	spa	electoral	adj$adj-mf$adj-mf-sg	por	eleitoral	adj
 	spa	tierra	n-f$n$n-f-sg	por	terra	n$n-f$n-f-ND
@@ -929,7 +929,7 @@ LR	spa	tutear	vblex	por	atuar	vblex
 LR	spa	fregadero	n-m$n$n-m-ND	por	tanque	n$n-m$n-m-ND
 	spa	señal	n-f$n$n-f-sg	por	sinal	n-m$n$n-m-ND
 	spa	privado	adj$adj-GD-ND	por	privado	adj$adj-GD-ND
-	spa	Uruguay	np$np-top$np-top-m	por	Uruguai	np$np-top-m-sg
+	spa	Uruguay	np$np-loc$np-loc-m	por	Uruguai	np$np-top-m-sg
 	spa	transportar	vblex	por	transportar	vblex
 LR	spa	trasportar	vblex	por	transportar	vblex
 	spa	terrorista	adj$adj-mf$adj-mf-sg	por	terrorista	adj
@@ -983,7 +983,7 @@ RL	spa	investigar	vblex	por	investigar	vblex
 	spa	carretera	n$n-f$n-f-sg	por	estrada	n$n-f$n-f-ND
 	spa	creación	n$n-f$n-f-sg	por	criação	n$n-f-ND
 LR	spa	crianza	n-f$n	por	criação	n$n-f-ND
-	spa	convertir	vblex	por	converter	vblex
+	spa	convertir	vblex$vblex-pron	por	converter	vblex
 	spa	lluvia	n-f$n$n-f-sg	por	chuva	n$n-f-ND
 	spa	asesinato	n-m$n$n-m-sg	por	assassinato	n
 	spa	duda	n-f$n$n-f-ND	por	dúvida	n-f$n
@@ -1140,7 +1140,7 @@ LR	spa	linea	n$n-f-sg	por	linha	n$n-f-ND
 	spa	pareja	n-f$n$n-f-ND	por	casal	n$n-m
 LR	spa	matrimonio	n-m$n$n-m-sg	por	casal	n$n-m
 	spa	campeonato	n-m$n$n-m-ND	por	campeonato	n
-	spa	Teresa	np$np-ant$np-ant-f	por	Teresa	np
+	spa	Teresa	np$np-ant	por	Teresa	np
 	spa	pronunciar	vblex	por	pronunciar	vblex
 	spa	presidir	vblex	por	presidir	vblex
 	spa	confianza	n$n-f$n-f-sg	por	confiança	n$n-f-ND
@@ -1309,7 +1309,7 @@ LR	spa	libertación	n	por	libertação	n$n-f$n-f-ND
 	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg	por	Juan	np
 	spa	japonés	n$n-m-sg$n-m	por	japonês	n$n-m
 	spa	estrella	n-f$n$n-f-sg	por	estrela	n$n-f-ND
-	spa	Canadá	np$np-loc-m$np-loc	por	Canadá	np
+	spa	Canadá	np$np-top-m$np-top	por	Canadá	np
 RL	spa	baloncesto	n$n-m$n-m-ND	por	basquetebol	n$n-m
 	spa	Annan	np$np-cog	por	Annan	np
 	spa	unidad	n-f$n$n-f-sg	por	unidade	n$n-f-ND
@@ -1488,7 +1488,7 @@ LR	spa	sueldo	n$n-m$n-m-sg	por	salário	n$n-m-ND
 	spa	islámico	adj$adj-GD$adj-GD-ND	por	islâmico	adj
 	spa	interesar	vblex	por	interessar	vblex
 	spa	FC	n$n-acr-m	por	FC	n
-	spa	Cuba	np$np-top$np-top-f	por	Cuba	np$np-top
+	spa	Cuba	np$np-loc$np-loc-f	por	Cuba	np$np-top
 	spa	continente	n-m$n$n-m-ND	por	continente	n$n-m-ND
 	spa	Castro	np$np-ant	por	Castro	np
 	spa	Castro	np$np-ant	por	Castro	np
@@ -1521,7 +1521,7 @@ LR	spa	mediano	adj$adj-GD-ND	por	médio	adj$adj-GD-ND
 LR	spa	lucro	n$n-m$n-m-sg	por	lucro	n
 LR	spa	Los Ángeles	np$np-loc$np-loc-m-pl$np-loc-m	por	Los Angeles	np
 	spa	Los Angeles	np$np-al	por	Los Angeles	np
-	spa	Gaza	np$np-loc$np-loc-f	por	Gaza	np
+	spa	Gaza	np$np-f$np-loc-f	por	Gaza	np
 	spa	desempeñar	vblex	por	desempenhar	vblex
 	spa	derrota	n$n-f$n-f-ND	por	derrota	n
 	spa	violar	vblex	por	violar	vblex
@@ -1536,7 +1536,7 @@ RL	spa	éxito	n-m$n$n-m-sg	por	êxito	n
 	spa	excluir	vblex	por	excluir	vblex
 	spa	desafío	n-m$n$n-m-ND	por	desafio	n$n-m-ND
 	spa	concesión	n$n-f$n-f-ND	por	concessão	n$n-f-ND
-	spa	brazo	n-m-sg$n-m$n	por	braço	n$n-m$n-m-ND
+	spa	brazo	n-m$n-m-sg$n	por	braço	n$n-m$n-m-ND
 	spa	beneficio	n-m$n-m-sg$n	por	benefício	n$n-m$n-m-ND
 	spa	reaccionar	vblex	por	reagir	vblex
 	spa	piedra	n-f$n$n-f-sg	por	pedra	n$n-f$n-f-ND
@@ -1556,7 +1556,7 @@ LR	spa	compaginar	vblex	por	compartilhar	vblex
 LR	spa	escaño	n-m$n$n-m-ND	por	cadeira	n$n-f
 	spa	entrenador	n$n-m$n-m-sg	por	treinador	n$n-m-ND
 	spa	traducir	vblex	por	traduzir	vblex
-	spa	reina	n$n-f$	por	rainha	n-f$n$n-f-ND
+	spa	reina	n-f$n$	por	rainha	n-f$n$n-f-ND
 LR	spa	fiscal	n-mf$n$n-mf-ND	por	promotor	n-GD
 RL	spa	fiscal	n-mf$n$n-mf-ND	por	promotor	n-m
 RL	spa	fiscal	n-mf$n$n-mf-ND	por	promotor	n$n-f
@@ -1877,7 +1877,7 @@ LR	spa	Rio de Janeiro	np$np-loc-m	por	Rio de Janeiro	np
 	spa	informe	n$n-m$n-m-sg	por	relatório	n$n-m-ND
 	spa	productor	n$n-m$n-m-sg	por	produtor	n$n-m-ND
 	spa	prioridad	n$n-f$n-f-sg	por	prioridade	n$n-f-ND
-	spa	mal	n$n-m$n-m-ND	por	mal	n
+	spa	mal	n-m$n$n-m-ND	por	mal	n
 	spa	investigador	adj$adj-m-sg	por	investigador	adj
 	spa	favorito	adj$$adj-GD-ND	por	favorito	adj
 	spa	elaborar	vblex	por	elaborar	vblex
@@ -1910,11 +1910,11 @@ RL	spa	keniata	adj-mf$adj	por	queniano	adj-f
 RL	spa	sacudir	vblex	por	abalar	vblex
 	spa	volumen	n$n-m$n-m-sg	por	volume	n
 LR	spa	caudal	n$n-m$n-m-ND	por	volume	n
-	spa	llama	n$n-f$n-f-ND	por	lume	n-m$n
+	spa	llama	n-f$n$n-f-ND	por	lume	n-m$n
 	spa	Rodríguez	np$np-cog$np-cog-mf	por	Rodríguez	np
 	spa	Pelé	np$np-ant	por	Pelé	np
-	spa	Paulo	np$np-ant$np-ant-m	por	Paulo	np$np-ant
-	spa	Paulo	np$np-ant$np-ant-m	por	Paulo	np$np-ant
+	spa	Paulo	np$np-ant	por	Paulo	np$np-ant
+	spa	Paulo	np$np-ant	por	Paulo	np$np-ant
 	spa	Oscar	np$np-ant	por	Oscar	np
 LR	spa	lacra	n-f$n	por	marca	n$n-f
 	spa	marca	n-f$n$n-f-sg$	por	marca	n$n-f
@@ -2002,7 +2002,7 @@ LR	spa	cualidad	n$n-f$n-f-ND	por	qualidade	n$n-f-ND
 	spa	negativo	adj$adj-GD-ND	por	negativo	adj$adj-GD-ND
 	spa	Berlusconi	np$np-cog	por	Berlusconi	np
 	spa	Marte	np$np-al	por	Marte	np$np-al
-	spa	Venus	np$np-ant	por	Vénus	np
+	spa	Venus	np$np-top-m	por	Vénus	np
 	spa	Sicilia	np$np-loc-f$np-loc	por	Sicília	np
 	spa	térmico	adj$adj-m-sg$adj-m	por	térmico	adj$adj-GD-ND
 	spa	Corleone	np	por	Corleone	np
@@ -2053,7 +2053,7 @@ LR	spa	liderato	n$n-m	por	liderança	n-f$n-f-ND
 	spa	combustible	n$n-m$n-m-sg	por	combustível	n
 LR	spa	carburante	n$n-m	por	combustível	n
 	spa	climático	adj$adj-GD$adj-GD-ND	por	climático	adj$adj-GD-ND
-	spa	Australia	np$np-top$np-top-f	por	Austrália	np$np-top-f-sg
+	spa	Australia	np$np-loc$np-loc-f	por	Austrália	np$np-top-f-sg
 	spa	arte	n$n-m$n-m-sg	por	arte	n-f$n$n-f-ND
 	spa	amistoso	adj$adj-GD$adj-GD-ND	por	amistoso	adj
 	spa	alcance	n-m$n$n-m-sg	por	alcance	n$n-m
@@ -2165,7 +2165,7 @@ LR	spa	trocar	vblex	por	trocar	vblex
 	spa	propiedad	n-f$n$n-f-sg	por	propriedade	n$n-f$n-f-ND
 RL	spa	plaza	n-f$n$n-f-ND	por	praça	n$n-f
 	spa	Portugal	np$np-top$np-top-m	por	Portugal	np$np-top
-	spa	pregunta	n$n-f$n-f-ND	por	pergunta	n$n-f-ND
+	spa	pregunta	n-f$n$n-f-ND	por	pergunta	n$n-f-ND
 	spa	parcial	adj$adj-mf$adj-mf-sg	por	parcial	adj
 RL	spa	vivir	vblex	por	morar	vblex
 LR	spa	morar	vblex	por	morar	vblex
@@ -2374,11 +2374,11 @@ RL	spa	entrenamiento	n$n-m$n-m-sg	por	treino	n
 LR	spa	chequeo	n-m$n	por	revisão	n$n-f$n-f-ND
 	spa	potencia	n$n-f$n-f-sg	por	potência	n$n-f-ND
 	spa	superpotencia	n$n-f	por	superpotência	n
-	spa	Pedro	np$np-ant$np-ant-m$np-ant-m-sg	por	Pedro	np$np-ant
-	spa	Pedro	np$np-ant$np-ant-m$np-ant-m-sg	por	Pedro	np$np-ant
+	spa	Pedro	np$np-ant$np-ant-m-sg	por	Pedro	np$np-ant
+	spa	Pedro	np$np-ant$np-ant-m-sg	por	Pedro	np$np-ant
 RL	spa	presupuestario	adj$adj-GD$adj-GD-ND	por	orçamentário	adj
 	spa	negro	n$n-m-sg$n-m	por	negro	n$n-m$n-m-sg
-	spa	María	np$np-ant$np-ant-f$np-ant-f-sg	por	María	np
+	spa	María	np$np-ant$np-ant-f-sg$np-ant-f	por	María	np
 	spa	mafia	n$n-f$n-f-ND	por	máfia	n
 LR	spa	cabal	adj$adj-mf$adj-mf-sg	por	justo	adj$adj-GD$adj-GD-ND
 	spa	justo	adj$adj-GD$adj-GD-ND	por	justo	adj$adj-GD$adj-GD-ND
@@ -2451,8 +2451,8 @@ LR	spa	subscripción	n-f$n	por	assinatura	n$n-f$n-f-ND
 	spa	Holanda	np$np-loc$np-loc-f	por	Holanda	np$np-top
 LR	spa	humareda	n$n-f	por	fumaça	n$n-f
 	spa	humo	n-m$n$n-m-ND	por	fumaça	n$n-f
-	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg	por	Francisco	np$np-ant
-	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg	por	Francisco	np$np-ant
+	spa	Francisco	np-ant$np$np-ant-m-sg	por	Francisco	np$np-ant
+	spa	Francisco	np-ant$np$np-ant-m-sg	por	Francisco	np$np-ant
 	spa	formal	adj-mf$adj$adj-mf-pl	por	formal	adj$adj-mf-ND
 	spa	cerrado	adj$adj-f	por	fechado	adj
 LR	spa	exquisito	adj$adj-m-sg	por	extraordinário	adj$adj-GD-ND
@@ -2466,8 +2466,8 @@ RL	spa	enfermedad	n$n-f$n-f-sg	por	enfermidade	n
 	spa	distancia	n-f$n$n-f-sg	por	distância	n$n-f-ND
 	spa	disidente	n-mf$n$n-mf-sg	por	dissidente	n
 	spa	dispositivo	n-m$n$n-m-sg	por	dispositivo	n
-	spa	Daniel	np$np-ant$np-ant-m$np-ant-m-sg	por	Daniel	np$np-ant
-	spa	Daniel	np$np-ant$np-ant-m$np-ant-m-sg	por	Daniel	np$np-ant
+	spa	Daniel	np$np-ant$np-ant-m-sg	por	Daniel	np$np-ant
+	spa	Daniel	np$np-ant$np-ant-m-sg	por	Daniel	np$np-ant
 	spa	criterio	n$n-m$n-m-sg	por	critério	n
 	spa	contribución	n-f$n$n-f-sg	por	contribuição	n$n-f$n-f-ND
 RL	spa	contribución	n-f$n$n-f-sg	por	contributo	n-m
@@ -2487,7 +2487,7 @@ LR	spa	aportación	n-f$n$n-f-sg	por	contribuição	n$n-f$n-f-ND
 	spa	soviético	adj$adj-GD$adj-GD-ND	por	soviético	adj
 	spa	cuadro	n$n-m$n-m-sg	por	quadro	n
 	spa	Prodi	np	por	Prodi	np
-	spa	pierna	n$n-f$n-f-ND	por	perna	n$n-f$n-f-ND
+	spa	pierna	n-f$n$n-f-ND	por	perna	n$n-f$n-f-ND
 	spa	orientación	n$n-f$n-f-sg	por	orientação	n$n-f-ND
 	spa	opositor	n$n-m$n-m-pl	por	opositor	n
 	spa	olímpico	adj$adj-GD$adj-GD-ND	por	olímpico	adj
@@ -2495,7 +2495,7 @@ LR	spa	aportación	n-f$n$n-f-sg	por	contribuição	n$n-f$n-f-ND
 	spa	motivar	vblex	por	motivar	vblex
 	spa	mansión	n$n-f$n-f-ND	por	mansão	n$n-f
 	spa	Mandela	np$np-cog-mf	por	Mandela	np
-	spa	rodilla	n-f$n-f-sg$n	por	joelho	n-m$n$n-m-ND
+	spa	rodilla	n-f$n$n-f-sg	por	joelho	n-m$n$n-m-ND
 	spa	individuo	n$n-m$n-m-ND	por	indivíduo	n$n-f
 	spa	indicio	n$n-m$n-m-ND	por	indício	n
 	spa	heredero	n$n-m$n-m-ND	por	herdeiro	n
@@ -2605,7 +2605,7 @@ LR	spa	rentar	vblex	por	render	vblex
 	spa	expansión	n$n-f$n-f-sg	por	expansão	n
 	spa	especializar	vblex	por	especializar	vblex$vblex-pp-GD-ND
 	spa	oficina	n-f$n$n-f-sg	por	escritório	n-m$n-m-ND
-	spa	decreto	n$n-m$n-m-sg	por	decreto	n$n-m-ND
+	spa	decreto	n-m$n$n-m-sg	por	decreto	n$n-m-ND
 	spa	cultura	n$n-f$n-f-sg	por	cultura	n$n-f-ND
 	spa	cuidado	n-m$n$n-m-sg	por	cuidado	n$n-m
 	spa	cota	n$n-f	por	cota	n$n-f
@@ -2651,8 +2651,8 @@ LR	spa	excusa	n$n-f$n-f-ND	por	desculpa	n
 LR	spa	gris	n-m$n-m-ND	por	cinza	n-f$n
 	spa	ceniza	n$n-f$n-f-ND	por	cinza	n-f$n
 	spa	Chicago	np$np-loc$np-loc-m	por	Chicago	np
-	spa	César	np$np-ant$np-ant-m$np-ant-m-sg	por	César	np$np-ant
-	spa	César	np$np-ant$np-ant-m$np-ant-m-sg	por	César	np$np-ant
+	spa	César	np$np-ant$np-ant-m-sg	por	César	np$np-ant
+	spa	César	np$np-ant$np-ant-m-sg	por	César	np$np-ant
 	spa	cantar	vblex$	por	cantar	vblex
 	spa	campesino	n$n-m$n-m-ND	por	camponês	n
 	spa	Bruno	np$np-ant	por	Bruno	np
@@ -2732,7 +2732,7 @@ RL	spa	culpable	n-mf$n	por	culpado	n-f
 LR	spa	culpable	n-mf$n	por	culpado	n-GD
 	spa	crítico	adj$adj-GD-ND$adj-GD	por	crítico	adj$adj-GD-ND
 	spa	consideración	n$n-f$n-f-sg	por	consideração	n$n-f$n-f-ND
-LR	spa	América del Sur	np-top-f$np$np-top	por	América do Sul	np
+LR	spa	América del Sur	np-top-f$np	por	América do Sul	np
 	spa	Alca	n	por	Alca	n
 	spa	agresión	n$n-f$n-f-sg	por	agressão	n
 	spa	teoría	n-f$n$n-f-sg	por	teoria	n$n-f-ND
@@ -2808,7 +2808,7 @@ LR	spa	butrón	n$n-m	por	buraco	n
 RL	spa	biberón	n$n-m	por	mamadeira	n$n-f
 	spa	BBC	n$n-acr-f$n-acr	por	BBC	n$n-acr-f
 	spa	aguardar	vblex	por	aguardar	vblex
-	spa	adherir	vblex	por	aderir	vblex
+	spa	adherir	vblex$vblex-pron	por	aderir	vblex
 	spa	acoger	vblex	por	acolher	vblex
 	spa	Vietnam	np$np-top-m	por	Vietnã	np
 	spa	útil	adj$adj-mf$adj-mf-ND	por	útil	adj$adj-mf-ND
@@ -2816,7 +2816,7 @@ RL	spa	testimonio	n-m$n$n-m-sg	por	testemunho	n
 	spa	rodar	vblex	por	rodar	vblex
 	spa	remedio	n$n-m$n-m-ND	por	remédio	n
 	spa	propósito	n-m$n$n-m-ND	por	propósito	n
-	spa	nacionalidad	n$n-f$n-f-sg	por	nacionalidade	n
+	spa	nacionalidad	n-f$n$n-f-sg	por	nacionalidade	n
 	spa	muro	n-m$n$n-m-pl	por	muro	n
 	spa	milicia	n$n-f$n-f-ND	por	milícia	n
 	spa	Johnson	np$np-ant	por	Johnson	np
@@ -2924,8 +2924,8 @@ LR	spa	referendo	n$n-m	por	referendo	n$n-m
 	spa	firmeza	n$n-f$n-f-ND	por	firmeza	n
 LR	spa	fijeza	n	por	firmeza	n
 	spa	finalizar	vblex	por	finalizar	vblex
-	spa	Felipe	np-ant$np$np-ant-m$np-ant-m-sg	por	Felipe	np
-	spa	Felipe	np-ant$np$np-ant-m$np-ant-m-sg	por	Felipe	np
+	spa	Felipe	np-ant$np$np-ant-m-sg	por	Felipe	np
+	spa	Felipe	np-ant$np$np-ant-m-sg	por	Felipe	np
 	spa	excepcional	adj$adj-mf$adj-mf-ND	por	excepcional	adj
 	spa	Estocolmo	np$np-loc$np-loc-m	por	Estocolmo	np
 RL	spa	espía	adj-mf	por	espião	adj$adj-m
@@ -2938,7 +2938,7 @@ RL	spa	pareja	n-f$n$n-f-ND	por	dupla	n-f$n
 	spa	dar	vblex	por	dar	vblex
 LR	spa	impartir	vblex	por	dar	vblex
 	spa	credibilidad	n$n-f$n-f-ND	por	credibilidade	n$n-f-ND
-	spa	color	n-m$n-m-sg$n	por	cor	n-f
+	spa	color	n-m$n$n-m-sg	por	cor	n-f
 RL	spa	corazón	n-m$n$n-m-sg	por	cor	n-m$n
 	spa	continuar	vblex	por	continuar	vblex
 	spa	conocimiento	n-m$n$n-m-sg	por	conhecimento	n$n-m$n-m-ND
@@ -2997,7 +2997,7 @@ RL	spa	ala	n$n-f$n-f-ND	por	ala	n
 	spa	trimestre	n-m$n$n-m-ND	por	trimestre	n
 	spa	tortura	n$n-f$n-f-ND	por	tortura	n
 	spa	tiroteo	n$n-m$n-m-ND	por	tiroteio	n$n-m
-	spa	suelo	n$n-m$n-m-sg	por	solo	n
+	spa	suelo	n-m$n$n-m-sg	por	solo	n
 	spa	Simpson	np$np-cog$np-cog-mf	por	Simpson	np
 	spa	selva	n-f$n$n-f-ND	por	selva	n
 LR	spa	jungla	n$n-f	por	selva	n
@@ -3134,7 +3134,7 @@ LR	spa	tesis	n-f-sp$n$n-f	por	tese	n-f-ND$n$n-f
 RL	spa	tesis	n-f-sp$n$n-f	por	tese	n-f-sg
 RL	spa	tesis	n-f-sp$n$n-f	por	tese	n-f-pl
 	spa	terrorista	n$n-mf$n-mf-ND	por	terrorista	n
-	spa	sol	n$n-m$n-m-ND	por	sol	n$n-m-ND
+	spa	sol	n-m$n$n-m-ND	por	sol	n$n-m-ND
 	spa	similar	adj$adj-mf$adj-mf-ND	por	similar	adj
 	spa	sensible	adj$adj-mf$adj-mf-sg	por	sensível	adj
 	spa	semestre	n$n-m$n-m-sg	por	semestre	n
@@ -3272,9 +3272,9 @@ LR	spa	estafa	n-f$n	por	fraude	n$n-f
 	spa	perpetuo	adj$adj-m-sg	por	perpétuo	adj$adj-GD-ND
 	spa	oído	n-m$n$n-m-sg	por	ouvido	n$n-m
 	spa	negativa	n$n-f$n-f-ND	por	negativa	n
-	spa	mover	vblex	por	mover	vblex
+	spa	mover	vblex$vblex-pron	por	mover	vblex
 	spa	molotov	adj	por	molotov	adj
-	spa	metal	n$n-m$n-m-ND	por	metal	n
+	spa	metal	n-m$n$n-m-ND	por	metal	n
 	spa	mental	adj$adj-mf$adj-mf-sg	por	mental	adj$adj-mf-ND
 	spa	lazo	n-m$n$n-m-ND	por	laço	n$n-m$n-m-ND
 LR	spa	moño	n$n-m$n-m-ND	por	laço	n$n-m$n-m-ND
@@ -3518,7 +3518,7 @@ LR	spa	pellejo	n-m$n	por	pele	n-f$n$n-f-ND
 	spa	lujo	n$n-m$n-m-ND	por	luxo	n
 	spa	luto	n$n-m$n-m-ND	por	luto	n
 	spa	limpieza	n$n-f$n-f-ND	por	limpeza	n
-	spa	ladrón	n-m$n$n-m-sg	por	ladrão	n$n-GD
+	spa	ladrón	n$n-m$n-m-sg	por	ladrão	n$n-GD
 LR	spa	atracador	n$n-m$n-m-ND	por	ladrão	n$n-GD
 	spa	King	np$np-cog-mf$np-cog	por	King	np
 	spa	jurar	vblex	por	jurar	vblex
@@ -3568,8 +3568,8 @@ LR	spa	buen	adj$adj-m-sg	por	bom	adj$adj-m-sg
 	spa	básico	adj$adj-GD-ND$adj-GD	por	básico	adj$adj-GD-ND
 	spa	bar	n-m$n$n-m-sg	por	bar	n$n-m
 	spa	aventura	n$n-f$n-f-ND	por	aventura	n
-	spa	Augusto	np$np-ant$np-ant-m	por	Augusto	np
-	spa	Augusto	np$np-ant$np-ant-m	por	Augusto	np
+	spa	Augusto	np$np-ant	por	Augusto	np
+	spa	Augusto	np$np-ant	por	Augusto	np
 	spa	aspirar	vblex	por	aspirar	vblex
 	spa	andar	vblex$	por	andar	vblex
 RL	spa	marcha	n-f$n$n-f-ND	por	andamento	n-m
@@ -3798,8 +3798,8 @@ LR	spa	asignatura	n$n-f$n-f-ND	por	matéria	n$n-f$n-f-ND
 	spa	lateral	n$n-m$n-m-ND	por	lateral	n
 	spa	jurado	n-m$n$n-m-ND	por	júri	n
 	spa	cena	n-f$n$n-f-ND	por	jantar	n-m$n
-	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg	por	Jaime	np$np-ant
-	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg	por	Jaime	np$np-ant
+	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m	por	Jaime	np$np-ant
+	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m	por	Jaime	np$np-ant
 	spa	inundar	vblex	por	inundar	vblex
 	spa	informático	adj$adj-GD$adj-GD-ND	por	informático	adj$adj-GD-ND
 	spa	inesperado	adj$adj-GD-ND	por	inesperado	adj
@@ -3811,8 +3811,8 @@ RL	spa	haber	vbhaver$vbhaver-ger	por	haver	vblex
 	spa	Guga	np	por	Guga	np
 	spa	golear	vblex	por	golear	vblex
 	spa	genocidio	n$n-m$n-m-sg	por	genocídio	n
-	spa	Gabriel	np$np-ant$np-ant-m$np-ant-m-sg	por	Gabriel	np$np-ant
-	spa	Gabriel	np$np-ant$np-ant-m$np-ant-m-sg	por	Gabriel	np$np-ant
+	spa	Gabriel	np$np-ant$np-ant-m-sg	por	Gabriel	np$np-ant
+	spa	Gabriel	np$np-ant$np-ant-m-sg	por	Gabriel	np$np-ant
 	spa	exiliado	n	por	exilado	n
 	spa	espionaje	n-m$n$n-m-sg	por	espionagem	n-f$n
 	spa	agotar	vblex	por	esgotar	vblex
@@ -3866,7 +3866,7 @@ RL	spa	cosecha	n$n-f$n-f-ND	por	safra	n
 	spa	pendiente	adj-mf$adj$adj-mf-sg	por	pendente	adj$adj-mf-ND
 	spa	mirar	vblex$vblex-vbact	por	olhar	vblex
 	spa	New York	np$np-loc$np-loc-f	por	New York	np
-RL	spa	mover	vblex	por	movimentar	vblex
+RL	spa	mover	vblex$vblex-pron	por	movimentar	vblex
 	spa	llover	vblex	por	chover	vblex
 	spa	mercancía	n$n-f$n-f-ND	por	mercadoria	n
 LR	spa	mercadería	n$n-f$n-f-sg	por	mercadoria	n
@@ -3917,7 +3917,7 @@ LR	spa	redondel	n$n-m$n-m-ND	por	círculo	n
 	spa	arrasar	vblex	por	arrasar	vblex
 	spa	antecesor	n$n-m$n-m-sg	por	antecessor	n
 	spa	amistad	n$n-f$n-f-sg	por	amizade	n$n-f-ND
-	spa	agricultor	n$n-m-sg$n-m	por	agricultor	n$n-m-ND
+	spa	agricultor	n$n-m$n-m-sg	por	agricultor	n$n-m-ND
 	spa	Afganistán	np$np-loc$np-loc-m	por	Afeganistão	np$np-top-m-sg
 	spa	accionar	vblex	por	acionar	vblex
 	spa	aceptación	n$n-f$n-f-sg	por	aceitação	n
@@ -3936,8 +3936,8 @@ LR	spa	cohecho	n$n-m	por	suborno	n
 	spa	registro	n-m$n$n-m-ND	por	registro	n$n-m
 LR	spa	empadronamiento	n$n-m	por	registro	n$n-m
 	spa	recepción	n$n-f$n-f-sg	por	recepção	n$n-f
-	spa	Raquel	np$np-ant$np-ant-f$np-ant-f-sg	por	Raquel	np
-	spa	Raquel	np$np-ant$np-ant-f$np-ant-f-sg	por	Raquel	np
+	spa	Raquel	np$np-ant$np-ant-f-sg	por	Raquel	np
+	spa	Raquel	np$np-ant$np-ant-f-sg	por	Raquel	np
 	spa	rapidez	n$n-f$n-f-ND	por	rapidez	n
 	spa	pulmón	n$n-m$n-m-ND	por	pulmão	n$n-m-ND
 	spa	proximidad	n$n-f$n-f-ND	por	proximidade	n
@@ -3959,7 +3959,7 @@ LR	spa	empadronamiento	n$n-m	por	registro	n$n-m
 	spa	paciencia	n$n-f$n-f-ND	por	paciência	n$n-f-ND
 	spa	oración	n$n-f$n-f-ND	por	oração	n$n-f-ND
 	spa	Oklahoma	np$np-loc$np-loc-m	por	Oklahoma	np
-	spa	océano	n$n-m$n-m-sg	por	oceano	n$n-m-ND
+	spa	océano	n-m$n$n-m-sg	por	oceano	n$n-m-ND
 	spa	Nicholas	np$np-ant	por	Nicholas	np
 	spa	naufragar	vblex	por	naufragar	vblex
 	spa	Martínez	np$np-cog$np-cog-mf	por	Martínez	np
@@ -3985,7 +3985,7 @@ LR	spa	empadronamiento	n$n-m	por	registro	n$n-m
 	spa	fotografiar	vblex	por	fotografar	vblex
 	spa	habla	n-f$n$n-f-ND	por	fala	n$n-f$n-f-ND
 RL	spa	violación	n$n-f$n-f-sg	por	estupro	n-m
-	spa	estatua	n$n-f$n-f-ND	por	estátua	n$n-f-ND
+	spa	estatua	n-f$n$n-f-ND	por	estátua	n$n-f-ND
 	spa	chafar	vblex	por	esmagar	vblex
 LR	spa	machacar	vblex	por	esmagar	vblex
 	spa	erradicar	vblex	por	erradicar	vblex
@@ -4003,12 +4003,12 @@ LR	spa	chasco	n-m$n	por	decepção	n-f$n
 	spa	culminar	vblex	por	culminar	vblex
 	spa	Cruz	np$np-ant	por	Cruz	np
 	spa	pasillo	n-m$n$n-m-ND	por	corredor	n
-LR	spa	corredor	n-m$n$n-m-sg	por	corredor	n
+LR	spa	corredor	n$n-m$n-m-sg	por	corredor	n
 	spa	copa	n-f$n$n-f-ND	por	copa	n
 	spa	concurso	n$n-m$n-m-ND	por	concurso	n$n-m-ND
 	spa	concierto	n-m$n$n-m-sg	por	concerto	n$n-m-ND
 	spa	comercializar	vblex	por	comercializar	vblex
-	spa	Claudio	np-ant$np$np-ant-m	por	Claudio	np
+	spa	Claudio	np-ant$np	por	Claudio	np
 	spa	Chen	np$np-cog	por	Chen	np
 	spa	canción	n-f$n$n-f-sg	por	canção	n$n-f-ND
 	spa	Bilbao	np$np-loc$np-loc-f	por	Bilbao	np
@@ -4016,8 +4016,8 @@ LR	spa	averiar	vblex	por	avariar	vblex
 	spa	asustar	vblex	por	assustar	vblex
 	spa	arruinar	vblex	por	arruinar	vblex
 	spa	incautar	vblex	por	apreender	vblex
-	spa	Andrés	np$np-ant$np-ant-m$np-ant-m-sg	por	Andrés	np
-	spa	Andrés	np$np-ant$np-ant-m$np-ant-m-sg	por	Andrés	np
+	spa	Andrés	np$np-ant$np-ant-m-sg	por	Andrés	np
+	spa	Andrés	np$np-ant$np-ant-m-sg	por	Andrés	np
 	spa	André	np$np-ant	por	André	np
 	spa	Alex	np$np-ant$np-ant-m-sg	por	Alex	np
 	spa	Alexandre	np$np-ant	por	Alexandre	np$np-ant
@@ -4065,7 +4065,7 @@ LR	spa	estándar	adj-mf-ND$adj$adj-mf	por	regular	adj$adj-mf
 	spa	levantamiento	n-m$n	por	levantamento	n$n-m-ND
 LR	spa	alzamiento	n$n-m	por	levantamento	n$n-m-ND
 	spa	leche	n-f$n$n-f-sg	por	leite	n-m$n
-	spa	Israel	np$np-ant$np-ant-m$np-ant-m-sg	por	Israel	np$np-loc
+	spa	Israel	np$np-ant$np-ant-m-sg	por	Israel	np$np-loc
 	spa	infancia	n$n-f$n-f-sg	por	infância	n$n-f
 	spa	indignar	vblex	por	indignar	vblex
 	spa	incursión	n$n-f	por	incursão	n
@@ -4405,8 +4405,8 @@ LR	spa	papel mojado	n	por	nada	n$n-m
 	spa	milla	n-f$n$n-f-sg	por	milha	n$n-f
 	spa	mejora	n$n-f$n-f-sg	por	melhora	n
 	spa	mejor	adj-mf$adj$adj-mf-ND	por	melhor	adj$adj-mf-ND
-	spa	Marta	np$np-ant$np-ant-f	por	Marta	np
-	spa	Marta	np$np-ant$np-ant-f	por	Marta	np
+	spa	Marta	np$np-ant	por	Marta	np
+	spa	Marta	np$np-ant	por	Marta	np
 	spa	manuscrito	n$n-m$n-m-sg	por	manuscrito	n
 	spa	abanico	n$n-m$n-m-ND	por	leque	n
 	spa	leyenda	n$n-f$n-f-sg	por	lenda	n
@@ -4439,7 +4439,7 @@ LR	spa	forzoso	adj$adj-m-sg	por	forçado	adj
 	spa	oscuro	adj$adj-GD-ND	por	escuro	adj
 	spa	enfurecer	vblex	por	enfurecer	vblex
 	spa	enérgico	adj$adj-GD-ND$adj-GD	por	enérgico	adj
-	spa	emergente	adj-mf$adj$adj-mf-sg	por	emergente	adj
+	spa	emergente	adj$adj-mf$adj-mf-sg	por	emergente	adj
 	spa	distrito	n$n-m$n-m-ND	por	distrito	n$n-m-ND
 	spa	diseminación	n$n-f	por	disseminação	n
 	spa	disolución	n$n-f	por	dissolução	n
@@ -4573,7 +4573,7 @@ LR	spa	fastidiar	vblex	por	incomodar	vblex
 	spa	implantación	n$n-f	por	implantação	n
 	spa	imperio	n-m$n$n-m-sg	por	império	n
 	spa	anciano	n$n-m$n-m-sg	por	idoso	n$n-m-ND
-	spa	ídolo	n-m$n$n-m-ND	por	ídolo	n
+	spa	ídolo	n$n-m$n-m-ND	por	ídolo	n
 	spa	Honda	np$np-al	por	Honda	np
 	spa	Henry	np$np-ant	por	Henry	np
 	spa	festivo	n	por	feriado	n$n-m
@@ -4606,13 +4606,13 @@ LR	spa	fastidiar	vblex	por	incomodar	vblex
 	spa	coincidencia	n$n-f$n-f-ND	por	coincidência	n
 RL	spa	autoridad	n-f$n$n-f-sg	por	chefia	n$n-f
 	spa	chapa	n$n-f	por	chapa	n
-RL	spa	suelo	n$n-m$n-m-sg	por	chão	n
+RL	spa	suelo	n-m$n$n-m-sg	por	chão	n
 	spa	centenario	n$n-m	por	centenário	n
 	spa	cazar	vblex	por	caçar	vblex
 	spa	brecha	n$n-f	por	brecha	n
 	spa	Brasil	np$np-loc$np-loc-m	por	Brasil	np$np-loc
 	spa	boicot	n$n-m	por	boicote	n$n-m
-	spa	boca	n$n-f$n-f-ND	por	boca	n$n-f-ND
+	spa	boca	n-f$n$n-f-ND	por	boca	n$n-f-ND
 	spa	borracho	n-GD$n	por	bêbado	n
 	spa	barato	adj$adj-GD-ND$adj-GD$	por	barato	adj
 	spa	banda	n-f$n$n-f-ND	por	banda	n$n-f$n-f-ND
@@ -4645,7 +4645,7 @@ RL	spa	transcurrir	vblex	por	transcorrer	vblex
 	spa	Smith	np$np-cog-mf$np-cog	por	Smith	np
 	spa	sepultar	vblex	por	sepultar	vblex
 	spa	semestral	adj$adj-mf$adj-mf-sg	por	semestral	adj
-	spa	Santa Cruz	np$np-ant-f	por	Santa Cruz	np
+	spa	Santa Cruz	np$np-f	por	Santa Cruz	np
 	spa	salto	n-m$n$n-m-ND	por	salto	n
 LR	spa	tacón	n$n-m$n-m-ND	por	salto	n
 	spa	saltar	vblex	por	saltar	vblex
@@ -4677,8 +4677,8 @@ RL	spa	pisar	vblex	por	pisar	vblex
 	spa	pedir	vblex	por	pedir	vblex
 	spa	Parkinson	np$np-cog	por	Parkinson	np
 	spa	paralelo	adj$adj-GD-ND$adj-GD	por	paralelo	adj$adj-GD-ND
-	spa	Pablo	np-ant$np$np-ant-m$np-ant-m-sg	por	Pablo	np
-	spa	Pablo	np-ant$np$np-ant-m$np-ant-m-sg	por	Pablo	np
+	spa	Pablo	np-ant$np$np-ant-m-sg	por	Pablo	np
+	spa	Pablo	np-ant$np$np-ant-m-sg	por	Pablo	np
 	spa	enorgullecer	vblex	por	orgulhar	vblex
 	spa	ofender	vblex	por	ofender	vblex
 	spa	normalización	n$n-f$n-f-sg	por	normalização	n
@@ -4700,7 +4700,7 @@ LR	spa	neutral	adj$adj-mf$adj-mf-ND	por	neutro	adj$adj-GD
 	spa	irregularidad	n$n-f$n-f-ND	por	irregularidade	n$n-f-ND
 	spa	intermediario	adj$adj-GD	por	intermediário	adj
 	spa	interferir	vblex	por	interferir	vblex
-	spa	inteligente	adj-mf$adj-mf-ND$adj	por	inteligente	adj
+	spa	inteligente	adj-mf$adj$adj-mf-ND	por	inteligente	adj
 	spa	obediente	adj$adj-mf$adj-mf-pl	por	obediente	adj
 	spa	desobediente	adj$adj-mf-sg$adj-mf	por	desobediente	adj
 	spa	inspiración	n$n-f$n-f-ND	por	inspiração	n
@@ -4741,7 +4741,7 @@ RL	spa	conectar	vblex	por	conectar	vblex
 	spa	socialismo	n$n-m$n-m-ND	por	socialismo	n
 	spa	vandalismo	n$n-m	por	vandalismo	n
 	spa	estrago	n$n-m	por	estrago	n
-	spa	Claudia	np$np-ant$np-ant-f$np-ant-f-sg	por	Claudia	np
+	spa	Claudia	np$np-ant$np-ant-f-sg	por	Claudia	np
 	spa	clan	n-m$n$n-m-ND	por	clã	n
 	spa	Ciudad del Cabo	np$np-loc	por	Cidade do Cabo	np
 	spa	llegar	vblex	por	chegar	vblex
@@ -4771,11 +4771,11 @@ LR	spa	bregar	vblex	por	brigar	vblex
 	spa	vengar	vblex	por	vingar	vblex
 	spa	vietnamita	adj$adj-mf$adj-mf-sg	por	vietnamita	adj
 	spa	viciar	vblex	por	viciar	vblex
-	spa	universo	n$n-m$n-m-ND	por	universo	n
+	spa	universo	n-m$n$n-m-ND	por	universo	n
 	spa	UNESCO	n-acr-f$n$n-acr	por	UNESCO	n$n-acr-f-sg
-LR	spa	tuberculosis	n-f-sp$n-f$n	por	tuberculose	n$n-f-ND
-RL	spa	tuberculosis	n-f-sp$n-f$n	por	tuberculose	n-f-sg
-RL	spa	tuberculosis	n-f-sp$n-f$n	por	tuberculose	n-f-pl
+LR	spa	tuberculosis	n-f-sp$n$n-f	por	tuberculose	n$n-f-ND
+RL	spa	tuberculosis	n-f-sp$n$n-f	por	tuberculose	n-f-sg
+RL	spa	tuberculosis	n-f-sp$n$n-f	por	tuberculose	n-f-pl
 	spa	transparente	adj-mf$adj$adj-mf-pl	por	transparente	adj
 	spa	traductor	n$n-GD$n-GD-ND	por	tradutor	n$n-m-ND
 RL	spa	término	n$n-m$n-m-sg	por	término	n
@@ -4970,7 +4970,7 @@ LR	spa	preciado	adj$adj-m-sg	por	precioso	adj$adj-GD-ND
 LR	spa	transnacional	adj-mf$adj$adj-mf-ND	por	multinacional	adj
 	spa	multilateral	adj$adj-mf$adj-mf-sg	por	multilateral	adj$adj-mf-ND
 	spa	mosquito	n-m$n$n-m-sg	por	mosquito	n$n-m$n-m-ND
-	spa	milagro	n$n-m$n-m-ND	por	milagre	n$n-m-ND
+	spa	milagro	n-m$n$n-m-ND	por	milagre	n$n-m-ND
 	spa	Mar	np$np-ant	por	Mar	np
 	spa	marcador	n$n-m	por	marcador	n
 	spa	marcación	n	por	marcação	n$n-f
@@ -5393,16 +5393,16 @@ LR	spa	aun	adv	por	ainda	adv
 	spa	el cual	rel$rel-nn-GD-ND	por	o qual	rel$rel-an$rel-an-m
 	spa	el que	rel$rel-an$rel-an-m	por	o que	rel
 	spa	como	rel-adv$rel	por	como	adv$rel-adv
-LR	spa	adonde	rel$rel-adv	por	onde	adv$rel-adv
+LR	spa	adonde	rel-adv$rel	por	onde	adv$rel-adv
 	spa	donde	rel$rel-adv	por	onde	adv$rel-adv
 	spa	cuando	rel$rel-adv	por	quando	adv$rel-adv
 	spa	cuanto	rel-nn$rel-nn-m-sg	por	quanto	rel-nn$rel$rel-nn-GD-ND
 LR	spa	quien	rel-nn-mf-sg$rel-nn	por	quem	rel-nn-mf-sp$rel-nn
-LR	spa	quien	rel-nn-mf-pl	por	quem	rel-nn-mf-sp$rel-nn
+LR	spa	quien	rel-nn-mf-pl$rel-mf	por	quem	rel-nn-mf-sp$rel-nn
 RL	spa	quien	rel-nn-mf-ND	por	quem	rel-nn-mf-sp$rel-nn
 	spa	el	det-def$det-def-GD$det$det-def-GD-ND	por	o	det$det-def-GD$det-def$det-def-GD-ND
-	spa	uno	det-ind-m-sg$det$det-ind$det-ind-m	por	um	det$det-ind-m-sg
-	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl	por	algum	det$det-ind-GD-ND$det-ind$det-ind-GD
+	spa	uno	det-ind$det-ind-m-sg$det$det-ind-m	por	um	det$det-ind-m-sg
+	spa	alguno	det-ind$det$det-ind-m-pl$det-ind-m	por	algum	det$det-ind-GD-ND$det-ind$det-ind-GD
 	spa	ninguno	det-ind$det-ind-GD-sg$det-ind-GD$det	por	nenhum	det-ind$det$det-ind-GD$det-ind-GD-sg
 	spa	cada	det$det-ind$det-ind-mf$det-ind-mf-sg	por	cada	det-ind-mf-sp$det$det-ind-mf$det-ind
 	spa	cierto	det$det-ind$det-ind-m-sg	por	certo	det$det-ind
@@ -5410,7 +5410,7 @@ RL	spa	correcto	adj$adj-GD-ND	por	certo	adj$adj-m-sg
 	spa	tamaño	det	por	tamanho	det$det-ind
 	spa	cualquier	det-ind-mf$det-ind-mf-ND$det-ind$det	por	qualquer	det-ind-mf$det$det-ind-mf-ND
 	spa	demás	det$det-ind$det-ind-mf-sp	por	restantes	det
-	spa	otro	det-ind-m-sg$det-ind$det$det-ind-m	por	outro	det-ind-f-sg$det$det-ind
+	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m	por	outro	det-ind-f-sg$det$det-ind
 	spa	vario	det$det-ind-GD$det-ind$det-ind-GD-ND	por	vário	det$det-ind-GD-pl$det-ind-GD$det-ind
 LR	spa	mío	det-pos-mf$det-pos-mf-sg$det$det-pos$	por	meu	det-pos-GD$det-pos-GD-pl
 RL	spa	mío	det-pos-mf$det-pos-mf-sg$det$det-pos$	por	meu	det-pos-m-sg$det-pos-m
@@ -5446,8 +5446,8 @@ RL	spa	el vuestro	prn$prn-pos-GD$prn-pos$prn-pos-GD-ND	por	o vosso	prn$prn-tn-po
 	spa	aquel	det$det-dem-GD$det-dem$det-dem-GD-ND	por	aquele	det$det-dem$det-dem-GD$det-dem-GD-ND
 	spa	todo	predet$predet-ind-GD	por	todo	predet$predet-GD-ND
 	spa	algo	prn$prn-tn$prn-tn-nt-sg$prn-tn-nt	por	algo	prn-tn-nt-sg$prn-tn
-	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg	por	alguém	prn$prn-tn$prn-tn-mf
-	spa	alguno	prn$prn-tn-m-pl$prn-tn$prn-tn-m	por	algum	prn$prn-tn$prn-tn-f-pl
+	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m	por	alguém	prn$prn-tn$prn-tn-mf
+	spa	alguno	prn$prn-tn-GD-pl$prn-tn$prn-tn-GD	por	algum	prn$prn-tn$prn-tn-f-pl
 RL	spa	sí mismo	prn	por	si próprio	prn$prn-tn
 	spa	ambos	prn$prn-tn$prn-tn-m$prn-tn-m-pl	por	ambos	prn$prn-tn
 	spa	ambas	prn$prn-tn-f$prn-tn	por	ambas	prn$prn-tn
@@ -5455,8 +5455,8 @@ RL	spa	ambos	prn$prn-tn$prn-tn-m$prn-tn-m-pl	por	ambos os	prn$prn-tn
 RL	spa	ambas	prn$prn-tn-f$prn-tn	por	ambas as	prn$prn-tn
 	spa	cualquiera	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn	por	qualquer	prn$prn-tn-mf-ND
 	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-itg	por	qual	prn-itg-mf$prn
-	spa	cuánto	prn$prn-itg-m$prn-itg$prn-itg-m-sg	por	quanto	prn$prn-itg$prn-itg-GD-ND
-	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg	por	um	prn$prn-tn
+	spa	cuánto	prn$prn-itg$prn-itg-m$prn-itg-m-sg	por	quanto	prn$prn-itg$prn-itg-GD-ND
+	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg	por	um	prn$prn-tn
 	spa	nada	prn-tn-nt$prn$prn-tn	por	nada	prn-tn-nt$prn-tn
 	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn	por	ninguém	prn-tn-mf-sg$prn-tn
 	spa	ninguno	prn-tn$prn$prn-tn-GD-sg$prn-tn-GD	por	nenhum	prn-tn$prn-tn-GD
@@ -5466,7 +5466,7 @@ LR	spa	quienquiera	prn-tn-mf-sg$prn$prn-tn	por	quem quer	prn-tn-mf-sp
 LR	spa	quienquiera	prn-tn-mf-pl	por	quem quer	prn-tn-mf-sp
 RL	spa	quienquiera	prn-tn-mf-ND	por	quem quer	prn-tn-mf-sp
 RL	spa	quién	prn-itg-mf-ND	por	quem	prn-itg-mf-sp$prn-itg
-LR	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg	por	quem	prn-itg-mf-sp$prn-itg
+LR	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg	por	quem	prn-itg-mf-sp$prn-itg
 LR	spa	quién	prn-itg-mf-pl	por	quem	prn-itg-mf-sp$prn-itg
 	spa	qué	prn$prn-itg$prn-itg-mf-sg$prn-itg-mf	por	que	prn-itg$prn$prn-itg-mf-sp
 RL	spa	el mío	prn$prn-pos-GD$prn-pos$prn-pos-GD-ND	por	o meu	prn$prn-tn-pos
@@ -5478,7 +5478,7 @@ RL	spa	el vuestro	prn$prn-pos-GD$prn-pos$prn-pos-GD-ND	por	o vosso	prn$prn-tn-po
 	spa	tú	prn$prn-tn$prn-tn-p2-mf$prn-tn-p2-mf-sg	por	tu	prn$prn-tn$prn-tn-p2-mf
 	spa	usted	prn-tn-p3-mf-pl$prn-tn$prn$prn-tn-p3$prn-tn-p3-mf	por	você	prn-tn-p3-mf-pl$prn-tn-p3-mf
 	spa	él	prn$prn-tn$prn-tn-p3-m-pl$prn-tn-p3-m$prn-tn-m	por	ele	prn$prn-tn$prn-tn-p3-GD
-RL	spa	nosotros	prn-tn-p1-GD$prn-tn$prn-tn-p1-GD-pl$prn	por	nós	prn-tn-p1-mf$prn-tn
+RL	spa	nosotros	prn-tn-p1-GD$prn-tn-p1-GD-pl$prn-tn$prn	por	nós	prn-tn-p1-mf$prn-tn
 LR	spa	nosotros	prn-tn-p1-m$prn-tn-p1-m-pl	por	nós	prn-tn-p1-mf$prn-tn
 LR	spa	nosotros	prn-tn-p1-f$prn-tn-p1-f-pl	por	nós	prn-tn-p1-mf$prn-tn
 RL	spa	vosotros	prn-tn-p2-GD$prn-tn$prn-tn-p2-GD-pl$prn	por	vós	prn-tn$prn-tn-p2-mf-pl
@@ -5494,11 +5494,11 @@ LR	spa	aquél	prn$prn-tn$prn-tn-m	por	aquele	prn$prn-tn
 	spa	esto	prn$prn-tn$prn-tn-nt	por	isto	prn$prn-tn
 	spa	todo esto	prn	por	tudo isto	prn$prn-tn
 	spa	todo el mundo	prn$prn-tn-m-sg$prn-tn-m	por	todo mundo	prn$prn-tn$prn-tn-nt
-	spa	eso	prn$prn-tn-nt$prn-tn	por	isso	prn$prn-tn-nt$prn-tn
+	spa	eso	prn$prn-tn$prn-tn-nt	por	isso	prn$prn-tn-nt$prn-tn
 	spa	aquello	prn$prn-tn$prn-tn-m-sp	por	aquilo	prn$prn-tn
 LR	spa	ello	prn-tn-p3-nt$prn$prn-tn-nt$prn-tn	por	isso	prn$prn-tn-nt$prn-tn
-	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn	por	mim	prn$prn-tn
-	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn	por	ti	prn$prn-tn
+	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf	por	mim	prn$prn-tn
+	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf	por	ti	prn$prn-tn
 	spa	sí	prn-tn$prn$prn-tn-ref-p3-mf-sp	por	si	prn
 	spa	conmigo	prn$prn-tn	por	comigo	prn$prn-tn
 	spa	contigo	prn$prn-tn	por	contigo	prn$prn-tn
@@ -5516,19 +5516,19 @@ LR	spa	se	prn-pro-p3	por	lhe	prn-pro$prn-pro-p3$prn-pro-p3-mf-pl
 	spa	nos	prn-pro$prn$prn-pro-p1-mf-pl	por	nos	prn-pro$prn
 	spa	os	prn-pro$prn-pro-p2-mf-pl$prn-pro-p2	por	vos	prn-pro$prn
 	spa	todo	prn$prn-tn$prn-tn-m$prn-tn-m-sg	por	tudo	prn$prn-tn-nt
-	spa	cero	num$num-mf$num-mf-sp	por	zero	num$num-m-sg
+	spa	cero	num$num-mf-sp$num-mf	por	zero	num$num-m-sg
 	spa	uno	num$num-m-sp$num-m	por	um	num
 LR	spa	dos	num$num-mf$num-mf-sp$	por	dois	num$num-GD$num-GD-sp
 RL	spa	dos	num$num-mf$num-mf-sp$	por	dois	num-m
 RL	spa	dos	num$num-mf$num-mf-sp$	por	dois	num-f
-	spa	tres	num$$num-mf-sp	por	três	num$num-mf-sp
+	spa	tres	num$num-mf-sp$	por	três	num$num-mf-sp
 	spa	cuatro	num$$num-mf-sp	por	quatro	num$num-mf-sp
 	spa	cinco	num$num-mf-sp$	por	cinco	num$num-mf-sp
 	spa	seis	num$num-mf-sp$	por	seis	num$num-mf-sp
 	spa	siete	num$$num-mf-sp	por	sete	num$num-mf-sp
 	spa	ocho	num$$num-mf-sp	por	oito	num$num-mf-sp
 	spa	nueve	num$$num-mf-sp	por	nove	num$num-mf-sp
-	spa	diez	num$num-mf$$num-mf-sp	por	dez	num$num-mf-sp
+	spa	diez	num$num-mf$num-mf-sp$	por	dez	num$num-mf-sp
 	spa	once	num$$num-mf$num-mf-sp	por	onze	num$num-mf-sp
 	spa	doce	num$num-mf-pl$$num-mf	por	doze	num$num-mf-sp
 	spa	trece	num$$num-mf$num-mf-sp	por	treze	num$num-mf-sp
@@ -5563,7 +5563,7 @@ RL	spa	veintidós	num-mf$num$	por	vinte e dois	num-f
 	spa	ochenta y 		por	oitenta e 	
 	spa	noventa	num$$num-mf	por	noventa	num$num-mf-sp
 	spa	noventa y 		por	noventa e 	
-	spa	cien	num$num-mf$num-mf-sp$	por	cem	num$num-mf-sp
+	spa	cien	num$num-mf-sp$num-mf$	por	cem	num$num-mf-sp
 	spa	doscientos	num$$num-mf	por	duzentos	num$num-GD-sp
 	spa	trescientos	num$$num-mf	por	trezentos	num
 	spa	cuatrocientos	num$$num-GD-sp	por	quatrocentos	num
@@ -7934,8 +7934,8 @@ RL	spa	defraudador	n	por	fraudador	n
 RL	spa	desinfectante	n$n-m	por	desinfetante	n
 	spa	dialéctica	n$n-f	por	dialéctica	n
 	spa	dialéctica	n$n-f	por	dialética	n
-	spa	dialecto	n$n-m$n-m-ND	por	dialecto	n
-	spa	dialecto	n$n-m$n-m-ND	por	dialeto	n
+	spa	dialecto	n-m$n$n-m-ND	por	dialecto	n
+	spa	dialecto	n-m$n$n-m-ND	por	dialeto	n
 	spa	doblaje	n$n-m	por	dobragem	n-f$n
 RL	spa	doblaje	n$n-m	por	dublagem	n-f$n
 	spa	frecuencia	n$n-f$n-f-sg	por	frequência	n
@@ -8228,7 +8228,7 @@ RL	spa	Túnez	np$np-loc-m$np-loc	por	Tunes	np$np-loc-m
 	spa	riba	n	por	beira	n
 	spa	auditorio	n-m$n$n-m-sg	por	auditório	n$n-m
 	spa	arrendamiento	n$n-m$n-m-sg	por	arrendamento	n$n-m$n-m-ND
-	spa	alojamiento	n$n-m$n-m-sg	por	alojamento	n
+	spa	alojamiento	n-m$n$n-m-sg	por	alojamento	n
 	spa	sumario	n$n-m$n-m-sg	por	sumário	n
 	spa	feria	n$n-f$n-f-ND	por	feira	n
 	spa	periodismo	n$n-m$n-m-ND	por	jornalismo	n$n-m-ND
@@ -8269,7 +8269,7 @@ RL	spa	agrupación	n$n-f$n-f-ND	por	agrupação	n$n-f
 	spa	transformador	n$n-m$n-m-pl	por	transformador	n
 	spa	restitución	n$n-f$n-f-sg	por	restituição	n
 	spa	experiencia	n-f$n$n-f-sg	por	experiência	n$n-f-ND
-	spa	conejo	n$n-m$n-m-sg	por	coelho	n
+	spa	conejo	n-m$n$n-m-sg	por	coelho	n
 	spa	biblioteca	n$n-f$n-f-sg	por	biblioteca	n$n-f-ND
 	spa	pabellón	n$n-m$n-m-sg	por	pavilhão	n
 	spa	horario	n-m$n$n-m-ND	por	horário	n
@@ -8484,7 +8484,7 @@ LR	spa	novedoso	adj$adj-m-sg	por	inovador	adj
 	spa	espejo	n$n-m$n-m-ND	por	espelho	n$n-m
 	spa	enigmático	adj$adj-m-sg$adj-m	por	enigmático	adj
 	spa	diccionario	n-m$n$n-m-ND	por	dicionário	n$n-m-ND
-	spa	coro	n$n-m$n-m-ND	por	coro	n
+	spa	coro	n-m$n$n-m-ND	por	coro	n
 	spa	coral	n$n-m	por	coral	n
 	spa	coral	adj$adj-mf$adj-mf-ND	por	coral	adj
 	spa	autárquico	adj	por	autárquico	adj$adj-GD
@@ -8517,7 +8517,7 @@ RL	spa	propina	n-f$n$n-f-sg	por	propina	n
 	spa	preámbulo	n$n-m$n-m-ND	por	preâmbulo	n
 	spa	porqué	n$n-m$n-m-ND	por	porquê	n
 	spa	puntual	adj-mf$adj$adj-mf-sg	por	pontual	adj
-	spa	poema	n$n-m$n-m-ND	por	poema	n
+	spa	poema	n-m$n$n-m-ND	por	poema	n
 	spa	pesadilla	n-f$n$n-f-ND	por	pesadelo	n-m$n$n-m-ND
 	spa	pauta	n$n-f$n-f-sg	por	pauta	n
 	spa	patético	adj$adj-GD-ND	por	patético	adj
@@ -8644,7 +8644,7 @@ LR	spa	Catalunya	np$np-loc-f$np-loc	por	Cataluña	np
 RL	spa	cine	n$n-m$n-m-ND	por	cine	n
 	spa	pegamento	n-m$n$n-m-sg	por	cola	n-f$n
 LR	spa	colar	vblex	por	colar	vblex
-	spa	pegar	vblex	por	colar	vblex
+	spa	pegar	vblex$vblex-pron	por	colar	vblex
 	spa	collar	n-m$n$n-m-ND	por	colar	n
 	spa	deportar	vblex	por	deportar	vblex
 RL	spa	desnudar	vblex	por	desnudar	vblex
@@ -8722,7 +8722,7 @@ RL	spa	vasco	adj$adj-f$adj-f-pl	por	vasco	adj
 	spa	Zaragoza	np$np-loc$np-loc-f	por	Zaragoza	np$np-ant
 	spa	Zaragoza	np$np-loc$np-loc-f	por	Zaragoza	np$np-ant
 	spa	Adolfo	np$np-ant	por	Adolfo	np
-	spa	castellano	n$n-m-ND$n-m	por	castelhano	n$n-m
+	spa	castellano	n$n-m$n-m-ND	por	castelhano	n$n-m
 	spa	castellano	adj$adj-m-sg	por	castelhano	adj
 	spa	celda	n$n-f$n-f-ND	por	cela	n
 	spa	gallego	adj$adj-GD-ND	por	galego	adj
@@ -8767,7 +8767,7 @@ LR	spa	explosionar	vblex	por	explodir	vblex
 	spa	ideología	n$n-f$n-f-sg	por	ideologia	n$n-f-ND
 	spa	inflamable	adj$adj-mf$adj-mf-sg	por	inflamável	adj
 	spa	IRPF	n$n-acr$n-acr-m	por	IRPF	n
-	spa	Joan	np$np-ant$np-ant-m	por	Joan	np
+	spa	Joan	np$np-ant	por	Joan	np
 	spa	Josep	np$np-ant	por	Josep	np
 	spa	Karachi	np$np-loc	por	Karachi	np
 	spa	laicismo	n$n-m$n-m-sg	por	laicismo	n
@@ -8856,7 +8856,7 @@ RL	spa	cobardía	n$n-f	por	cobardia	n
 RL	spa	alcista	adj$adj-mf	por	altista	adj
 	spa	alejamiento	n$n-m	por	afastamento	n
 	spa	artesanal	adj$adj-mf$adj-mf-sg	por	artesanal	adj
-	spa	barca	n$n-f$n-f-ND	por	barca	n$n-f
+	spa	barca	n-f$n$n-f-ND	por	barca	n$n-f
 	spa	BCE	n$n-acr-m$n-acr	por	BCE	n
 	spa	diferencial	adj$adj-mf$adj-mf-ND	por	diferencial	adj
 	spa	diferencial	n$n-m$n-m-ND	por	diferencial	n
@@ -8948,11 +8948,11 @@ RL	spa	Asturias	np$np-loc$np-loc-f	por	Asturias	np
 	spa	atajar	vblex	por	atalhar	vblex
 	spa	augurio	n$n-m	por	augúrio	n
 	spa	Augusta	np	por	Augusta	np
-	spa	Augusto	np$np-ant$np-ant-m	por	Augusto	np
-	spa	Augusto	np$np-ant$np-ant-m	por	Augusto	np
+	spa	Augusto	np$np-ant	por	Augusto	np
+	spa	Augusto	np$np-ant	por	Augusto	np
 	spa	autodeterminación	n$n-f$n-f-ND	por	autodeterminação	n$n-f-ND
 	spa	autogobierno	n$n-m	por	autogoverno	n
-	spa	avalancha	n-f$n	por	avalanche	n$n-f
+	spa	avalancha	n$n-f	por	avalanche	n$n-f
 	spa	avícola	adj-mf$adj$adj-mf-sg	por	avícola	adj
 	spa	azotar	vblex	por	açoitar	vblex
 	spa	barajar	vblex	por	baralhar	vblex
@@ -8961,7 +8961,7 @@ RL	spa	Asturias	np$np-loc$np-loc-f	por	Asturias	np
 	spa	bienestar	n$n-m$n-m-sg	por	bem-estar	n
 	spa	brindar	vblex	por	brindar	vblex
 	spa	bromear	vblex	por	caçoar	vblex
-	spa	cabecera	n-f$n$n-f-ND	por	cabeceira	n$n-f
+	spa	cabecera	n$n-f$n-f-ND	por	cabeceira	n$n-f
 	spa	cagar	vblex	por	cagar	vblex
 	spa	caníbal	n$n-mf	por	canibal	n$n-mf
 	spa	caníbal	adj$adj-mf-sg	por	canibal	adj
@@ -9057,8 +9057,8 @@ RL	spa	incumplimiento	n$n-m$n-m-ND	por	inadimplência	n
 	spa	islamista	adj$adj-mf$adj-mf-sg	por	islamista	adj
 	spa	IU	np-al$np	por	IU	np$np-al
 	spa	jamón	n$n-m$n-m-ND	por	presunto	n$n-m
-	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg	por	Jesús	np
-	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg	por	Jesús	np
+	spa	Jesús	np$np-ant$np-ant-m-sg	por	Jesús	np
+	spa	Jesús	np$np-ant$np-ant-m-sg	por	Jesús	np
 	spa	Jon	np$np-ant	por	Jon	np
 	spa	lácteo	adj	por	lácteo	adj
 	spa	lácteo	n	por	lacticínio	n
@@ -9151,7 +9151,7 @@ RL	spa	reparto	n-m$n$n-m-ND	por	compartilhamento	n$n-m
 	spa	Solana	np$np-ant	por	Solana	np
 	spa	talla	n$n-f	por	talha	n
 	spa	tallar	vblex	por	talhar	vblex
-	spa	Tomás	np$np-ant$np-ant-m$np-ant-m-sg	por	Tomás	np$np-ant
+	spa	Tomás	np$np-ant$np-ant-m-sg	por	Tomás	np$np-ant
 	spa	traición	n$n-f$n-f-ND	por	traição	n$n-f$n-f-ND
 	spa	tramitación	n$n-f-sg$n-f	por	tramitação	n
 	spa	traumatismo	n$n-m	por	traumatismo	n
@@ -9224,7 +9224,7 @@ RL	spa	aterrizar	vblex	por	aterrizar	vblex
 	spa	carcajada	n$n-f$n-f-ND	por	gargalhada	n$n-f
 	spa	cariñoso	adj$adj-m-sg$adj-m	por	carinhoso	adj
 	spa	casual	adj$adj-mf-ND$adj-mf	por	casual	adj
-	spa	ceja	n$n-f$n-f-sg	por	sobrancelha	n$n-f
+	spa	ceja	n-f$n$n-f-sg	por	sobrancelha	n$n-f
 	spa	ceño	n	por	cenho	n
 	spa	choza	n$n-f$n-f-ND	por	choça	n
 	spa	ciego	adj$adj-GD$$adj-GD-ND	por	cego	adj
@@ -9336,8 +9336,8 @@ RL	spa	frialdad	n$n-f	por	frieza	n
 	spa	glacial	adj$adj-mf-ND$adj-mf	por	glacial	adj
 	spa	gruñir	vblex	por	rosnar	vblex
 	spa	guardián	n$n-GD$n-GD-pl	por	guardião	n
-	spa	guerrero	adj$$adj-GD-ND	por	guerreiro	adj
-	spa	guerrero	n$n-m$n-m-sg	por	guerreiro	n
+	spa	guerrero	adj$adj-GD-ND	por	guerreiro	adj
+	spa	guerrero	n$n-m$n-m-sg$	por	guerreiro	n
 	spa	hebra	n-f$n	por	fibra	n
 	spa	helar	vblex	por	gelar	vblex
 	spa	hoja	n-f$n$n-f-sg	por	folha	n-f$n$n-f-ND
@@ -9515,7 +9515,7 @@ LR	spa	sirviente	n-m$n$n-m-sg	por	servente	n-mf$n
 	spa	solitario	adj$adj-GD-ND$$adj-GD	por	solitário	adj
 	spa	sonreír	vblex	por	sorrir	vblex
 	spa	sonrisa	n-f$n$n-f-ND	por	sorriso	n-m$n
-	spa	suave	adj-mf$adj-mf-ND$adj	por	suave	adj
+	spa	suave	adj-mf$adj$adj-mf-ND	por	suave	adj
 	spa	sumir	vblex	por	sumir	vblex
 	spa	superstición	n$n-f	por	superstição	n
 RL	spa	superstición	n$n-f	por	crendice	n
@@ -9774,7 +9774,7 @@ RL	spa	casco	n-m$n$n-m-sg	por	casco	n
 	spa	caverna	n$n-f$n-f-sg	por	caverna	n$n-f-ND
 	spa	cazador	n$n-m$n-m-sg	por	caçador	n
 	spa	cebo	n-m$n	por	isca	n$n-f
-	spa	ceguera	n$n-f$n-f-ND	por	cegueira	n$n-f
+	spa	ceguera	n-f$n$n-f-ND	por	cegueira	n$n-f
 	spa	celar	vblex	por	zelar	vblex
 	spa	celeste	adj$adj-mf$adj-mf-sg$	por	celeste	adj
 	spa	celoso	adj$adj-GD-ND	por	zeloso	adj
@@ -9968,7 +9968,7 @@ RL	spa	enamorar	vblex	por	namorar	vblex
 LR	spa	ensalzar	vblex	por	engrandecer	vblex
 	spa	engrandecer	vblex	por	engrandecer	vblex
 	spa	entonar	vblex	por	entoar	vblex
-	spa	entraña	n$n-f$n-f-ND	por	entranha	n$n-f-ND
+	spa	entraña	n$n-f-pl$n-f	por	entranha	n$n-f-ND
 	spa	entrañar	vblex	por	entranhar	vblex
 	spa	entretenimiento	n$n-m	por	entretenimento	n
 	spa	envejecer	vblex	por	envelhecer	vblex
@@ -9990,7 +9990,7 @@ RL	spa	esclavitud	n-f$n$n-f-sg	por	escravidão	n
 	spa	esclavo	adj$adj-GD-ND	por	escravo	adj
 	spa	escondite	n$n-m	por	esconderijo	n
 LR	spa	escondrijo	n$n-m	por	esconderijo	n
-	spa	escudo	n$n-m$n-m-ND	por	escudo	n
+	spa	escudo	n-m$n$n-m-ND	por	escudo	n
 	spa	escupir	vblex	por	cuspir	vblex
 	spa	esgrimir	vblex	por	esgrimir	vblex
 	spa	espada	n$n-f$n-f-pl	por	espada	n
@@ -10072,7 +10072,7 @@ LR	spa	filo	n-m$n$n-m-ND	por	fio	n
 	spa	garra	n-f$n$n-f-pl	por	garra	n
 	spa	ge	n$n-f	por	ge	n$n-m
 	spa	gema	n$n-f	por	gema	n
-RL	spa	gemelo	n$n-m$n-m-ND	por	panturrilha	n
+RL	spa	gemelo	n$n-f	por	panturrilha	n
 	spa	genealogía	n$n-f	por	genealogia	n
 	spa	Gil	np$np-ant	por	Gil	np$np-ant
 	spa	Gil	np$np-ant	por	Gil	np$np-ant
@@ -10133,8 +10133,8 @@ LR	spa	horadar	vblex	por	furar	vblex
 RL	spa	hoz	n$n-f	por	podadeira	n
 	spa	hueco	n-m$n$n-m-ND	por	oco	n
 	spa	hueso	n-m$n$n-m-pl	por	osso	n$n-m$n-m-ND
-RL	spa	huésped	n$n-GD	por	hóspede	n-mf$n
-LR	spa	huésped	n-m$n-m-ND	por	hóspede	n-mf$n
+RL	spa	huésped	n-GD	por	hóspede	n-mf$n
+LR	spa	huésped	n$n-m$n-m-ND	por	hóspede	n-mf$n
 LR	spa	huésped	n-f	por	hóspede	n-mf$n
 	spa	hueste	n	por	hoste	n
 	spa	idolatría	n$n-f	por	idolatria	n
@@ -10183,7 +10183,7 @@ LR	spa	imperecedero	adj-f	por	imperecível	adj-mf$adj
 	spa	invisible	adj$adj-mf$adj-mf-sg	por	invisível	adj
 	spa	invocación	n$n-f	por	invocação	n
 	spa	iris	n$n-m-sp$n-m	por	íris	n
-	spa	Isaías	np$np-ant$np-ant-m	por	Isaías	np
+	spa	Isaías	np$np-ant	por	Isaías	np
 RL	spa	jinete	n-mf$n$n-mf-ND	por	cavaleiro	n$n-m
 	spa	jinete	n-mf$n$n-mf-ND	por	ginete	n
 LR	spa	jorobar	vblex	por	importunar	vblex
@@ -10210,7 +10210,7 @@ RL	spa	látigo	n-m$n	por	chibata	n
 	spa	lecho	n$n-m$n-m-ND	por	leito	n
 	spa	legua	n$n-f	por	légua	n
 	spa	lejanía	n$n-f	por	lonjura	n
-	spa	leña	n$n-f$n-f-sg	por	lenha	n$n-f
+	spa	leña	n-f$n$n-f-sg	por	lenha	n$n-f
 LR	spa	leño	n$n-m$n-m-ND	por	lenha	n$n-f
 	spa	león	n$n-m$n-m-sg	por	leão	n
 	spa	levadura	n-f$n	por	fermento	n$n-m
@@ -10226,8 +10226,8 @@ LR	spa	leño	n$n-m$n-m-ND	por	lenha	n$n-f
 	spa	llanura	n-f$n$n-f-ND	por	planície	n$n-f-ND
 	spa	locución	n$n-f	por	locução	n
 	spa	lomo	n-m$n$n-m-ND	por	lombo	n$n-m
-	spa	Lucas	np$np-ant$np-ant-m$np-ant-m-sg	por	Lucas	np
-	spa	Lucas	np$np-ant$np-ant-m$np-ant-m-sg	por	Lucas	np
+	spa	Lucas	np$np-ant$np-ant-m-sg	por	Lucas	np
+	spa	Lucas	np$np-ant$np-ant-m-sg	por	Lucas	np
 	spa	lucidez	n$n-f$n-f-sg	por	lucidez	n
 	spa	lucir	vblex	por	luzir	vblex
 	spa	luminosidad	n$n-f$n-f-ND	por	luminosidade	n
@@ -10250,7 +10250,7 @@ RL	spa	maduro	adj$adj-GD-ND	por	maturo	adj
 	spa	malograr	vblex	por	malograr	vblex
 	spa	manantial	n-m$n	por	manancial	n
 	spa	manar	vblex	por	manar	vblex
-	spa	manto	n$n-m$n-m-ND	por	manto	n
+	spa	manto	n-m$n$n-m-ND	por	manto	n
 RL	spa	manzana	n$n-f$n-f-ND	por	quadra	n$n-f
 	spa	manzana	n$n-f$n-f-ND	por	maçã	n
 	spa	Mar	np$np-ant	por	Mar	np
@@ -10291,8 +10291,8 @@ RL	spa	mendigo	n$n-GD	por	pedinte	n$n-f
 	spa	modal	adj$adj-mf$adj-mf-sg	por	modal	adj
 	spa	modestia	n$n-f	por	modéstia	n
 	spa	moho	n-m$n	por	mofo	n$n-m
-	spa	Moisés	np$np-ant$np-ant-m	por	Moisés	np
-	spa	Moisés	np$np-ant$np-ant-m	por	Moisés	np
+	spa	Moisés	np$np-ant	por	Moisés	np
+	spa	Moisés	np$np-ant	por	Moisés	np
 	spa	molestar	vblex	por	molestar	vblex
 	spa	molesto	adj$adj-GD-ND$adj-GD	por	molesto	adj
 RL	spa	molesto	adj$adj-GD-ND$adj-GD	por	chateado	adj
@@ -10305,7 +10305,7 @@ RL	spa	mono	n-m$n$n-m-sg	por	macacão	n$n-f
 LR	spa	muelle	n-m$n$n-m-ND	por	berço	n$n-m
 	spa	multicolor	adj$adj-m-sg	por	multicolor	adj
 	spa	muralla	n-f$n$n-f-ND	por	muralha	n
-	spa	murciélago	n$n-m	por	morcego	n
+	spa	murciélago	n-m$n	por	morcego	n
 	spa	nadar	vblex	por	nadar	vblex
 	spa	narración	n$n-f$n-f-ND	por	narração	n
 	spa	náusea	n$n-f$n-f-sg	por	náusea	n
@@ -10321,7 +10321,7 @@ RL	spa	nauseabundo	adj-GD	por	nauseante	adj-mf$adj
 RL	spa	niebla	n-f$n$n-f-ND	por	névoa	n$n-f
 	spa	Nietzsche	np-ant$np	por	Nietzsche	np
 	spa	nobleza	n-f$n$n-f-ND	por	nobreza	n
-	spa	nudo	n$n-m$n-m-ND	por	nodo	n
+	spa	nudo	n-m$n$n-m-ND	por	nodo	n
 	spa	nuez	n$n-f$n-f-ND	por	noz	n
 	spa	nupcial	adj$adj-mf$adj-mf-sg	por	nupcial	adj
 	spa	oasis	n-m-sp$n-m$n	por	oásis	n$n-m
@@ -10362,10 +10362,10 @@ RL	spa	pantano	n-m$n$n-m-ND	por	brejo	n$n-m
 	spa	parábola	n$n-f	por	parábola	n
 	spa	paradoja	n-f$n$n-f-ND	por	paradoxo	n$n-m
 	spa	paralelismo	n$n-m$n-m-ND	por	paralelismo	n
-	spa	páramo	n$n-m	por	páramo	n
-	spa	parásito	n$n-m$n-m-sg	por	parasita	n$n-mf
+	spa	páramo	n-m$n	por	páramo	n
+	spa	parásito	n-m$n$n-m-sg	por	parasita	n$n-mf
 	spa	parásito	adj$adj-GD	por	parasita	adj-mf$adj
-RL	spa	parásito	n$n-m$n-m-sg	por	parasito	n
+RL	spa	parásito	n-m$n$n-m-sg	por	parasito	n
 	spa	parentesco	n-m$n	por	parentesco	n$n-m
 	spa	parodia	n$n-f	por	paródia	n
 	spa	parodiar	vblex	por	parodiar	vblex
@@ -10403,7 +10403,7 @@ LR	spa	perecedero	adj-f	por	perecível	adj-mf$adj
 	spa	picar	vblex	por	picar	vblex
 	spa	pico	n-m$n$n-m-ND	por	bico	n$n-m
 	spa	pilar	n$n-m	por	pilar	n$n-m-ND
-	spa	Pilar	np$np-ant$np-ant-f	por	Pilar	np
+	spa	Pilar	np$np-ant	por	Pilar	np
 	spa	pináculo	n$n-m	por	pináculo	n
 	spa	plantar	vblex	por	plantar	vblex
 	spa	plata	n-f$n$n-f-ND	por	prata	n$n-f$n-f-ND
@@ -10597,7 +10597,7 @@ RL	spa	tierno	adj$adj-GD$adj-GD-ND	por	tenro	adj$adj-m-sg
 	spa	timón	n-m$n	por	timão	n
 	spa	tiniebla	n$n-f-ND	por	treva	n
 	spa	tino	n$n-m	por	tino	n
-	spa	tinta	n$n-f$n-f-sg	por	tinta	n
+	spa	tinta	n-f$n$n-f-sg	por	tinta	n
 	spa	tirano	n$n-GD	por	tirano	n
 	spa	titular	vblex	por	titular	vblex
 RL	spa	titular	n-m	por	manchete	n-f
@@ -10760,7 +10760,7 @@ RL	spa	acúfeno	n	por	acúfeno	n
 	spa	concretización	n	por	concretização	n
 RL	spa	tener	vblex$vblex-pis	por	ter	vblex
 	spa	creer	vblex	por	achar	vblex
-	spa	volver	vblex	por	recriar	vblex
+	spa	volver	vblex$vblex-pron	por	recriar	vblex
 RL	spa	creer	vblex	por	crer	vblex
 	spa	formar	vblex	por	fazer	vblex
 	spa	formar	vblex	por	fazer	vblex
@@ -10779,7 +10779,7 @@ LR	spa	valer	vblex	por	valer	vblex
 	spa	echar	vblex	por	sentir	vblex
 	spa	pasar	vblex	por	vistoriar	vblex
 	spa	tener	vblex$vblex-pis	por	ter	vblex
-	spa	volver	vblex	por	recrescer	vblex
+	spa	volver	vblex$vblex-pron	por	recrescer	vblex
 	spa	dar	vblex	por	dar	vblex
 	spa	dar	vblex	por	dar	vblex
 	spa	concejal	n$n-GD	por	vereador	n
@@ -11178,7 +11178,7 @@ LR	spa	capa	n-f$n$n-f-ND	por	capa	n$n-f
 	spa	crónico	adj$adj-GD$adj-GD-ND	por	crónico	adj
 	spa	calentar	vblex	por	aquecer	vblex
 	spa	hoz	n$n-f	por	fouce	n
-	spa	gemelo	n$n-m$n-m-ND	por	gémeo	n
+	spa	gemelo	n$n-f	por	gémeo	n
 	spa	irónico	adj$adj-GD	por	irónico	adj
 	spa	óptimo	adj$adj-GD-ND$adj-GD	por	óptimo	adj
 	spa	despido justificado	cnjadv	por	despedimento por justa causa	cnjadv
@@ -11494,7 +11494,7 @@ RL	spa	secuencia	n$n-f$n-f-sg	por	seqüência	n
 	spa	crónico	adj$adj-GD$adj-GD-ND	por	crônico	adj
 	spa	calentar	vblex	por	esquentar	vblex
 	spa	hoz	n$n-f	por	foice	n
-	spa	gemelo	n$n-m$n-m-ND	por	gêmeo	n
+	spa	gemelo	n$n-f	por	gêmeo	n
 	spa	irónico	adj$adj-GD	por	irônico	adj
 	spa	óptimo	adj$adj-GD-ND$adj-GD	por	ótimo	adj
 RL	spa	a consecuencia de	pr	por	em conseqüência de	pr
@@ -11725,7 +11725,7 @@ RL	spa	trivial	adj-mf$adj$adj-mf-sg	por	corriqueiro	adj$adj-m
 RL	spa	trivial	adj-mf$adj$adj-mf-sg	por	corriqueiro	adj-f
 	spa	pila	n-f$n$n-f-ND	por	pilha	n
 	spa	pantalla	n-f$n$n-f-ND	por	ecrã	n$n-m
-	spa	tela	n$n-f$n-f-ND	por	teia	n
+	spa	tela	n-f$n$n-f-ND	por	teia	n
 	spa	espolvorear	vblex	por	polvilhar	vblex
 	spa	cucaracha	n$n-f$n-f-sg	por	barata	n
 	spa	detección remota	n$n-f	por	detecção remota	n
@@ -11737,8 +11737,8 @@ RL	spa	pesado	adj$adj-GD-ND	por	chato	adj
 	spa	fotocopia	n$n-f$n-f-sg	por	fotocópia	n
 RL	spa	cansar	vblex	por	estafar	vblex
 	spa	escalfar	vblex	por	escalfar	vblex
-RL	spa	freír	vblex	por	frigir	vblex
-	spa	freír	vblex	por	fritar	vblex
+RL	spa	freír	vblex$vblex-pron	por	frigir	vblex
+	spa	freír	vblex$vblex-pron	por	fritar	vblex
 	spa	biodiversidad	n$n-f$n-f-sg	por	biodiversidade	n
 	spa	imitación	n-f$n	por	imitação	n
 	spa	mobiliario	n$n-m$n-m-sg	por	mobiliário	n
@@ -12662,7 +12662,7 @@ LR	spa	calco	n-m$n$n-m-ND	por	sobreposição	n-f$n
 	spa	barra	n$n-f$n-f-ND	por	barra	n$n-f
 	spa	base	n-f$n$n-f-sg	por	banco	n$n-m$n-m-ND
 LR	spa	hacer	vblex$vblex-inf	por	clicar	vblex
-LR	spa	volver	vblex	por	tentar	vblex
+LR	spa	volver	vblex$vblex-pron	por	tentar	vblex
 	spa	freno	n$n-m$n-m-ND	por	freio	n
 	spa	línea	n-f$n$n-f-sg	por	linha	n$n-f-ND
 	spa	acotar	vblex	por	dimensionar	vblex
@@ -12811,7 +12811,7 @@ RL	spa	pertinente	adj-mf$adj$adj-mf-ND	por	apropriado	adj-f
 	spa	cíclico	adj$adj-GD	por	cíclico	adj
 	spa	redefinición	n$n-f	por	redefinição	n
 LR	spa	predecible	adj$adj-mf	por	previsível	adj
-	spa	peine	n$n-m$n-m-sg	por	pente	n
+	spa	peine	n-m$n$n-m-sg	por	pente	n
 	spa	paramétricamente	adv	por	parametricamente	adv
 	spa	deshabilitado	adj	por	desabilitado	adj
 	spa	tabulador	n$n-m	por	tabulação	n$n-f
@@ -13340,7 +13340,7 @@ RL	spa	conciliación	n$n-f$n-f-sg	por	concertação	n
 	spa	navidad	n-f$n-f-ND$n	por	natal	n$n-m
 RL	spa	alimento	n-m$n$n-m-ND	por	género	n$n-m-ND
 RL	spa	alimentos	n	por	géneros	n
-	spa	trabajo	n-m$n-m-sg$n	por	biscate	n
+	spa	trabajo	n-m$n$n-m-sg	por	biscate	n
 	spa	auxilio	n$n-m	por	auxílio	n
 	spa	voluntad	n$n-f$n-f-sg	por	vontade	n$n-f-sg
 	spa	prevención	n$n-f$n-f-sg	por	prevenção	n$n-f$n-f-ND
@@ -13366,7 +13366,7 @@ RL	spa	percibir	vblex	por	aperceber	vblex
 RL	spa	rescatar	vblex	por	aforrar	vblex
 	spa	revitalizar	vblex	por	revigorar	vblex
 	spa	revitalizar	vblex	por	revigorar	vblex
-	spa	volver	vblex	por	rever	vblex
+	spa	volver	vblex$vblex-pron	por	rever	vblex
 	spa	penalizar	vblex	por	penalizar	vblex
 	spa	menospreciar	vblex	por	menosprezar	vblex
 	spa	mediar	vblex	por	mediar	vblex
@@ -13651,7 +13651,7 @@ RL	spa	mucho más	adv	por	muito mais	adv
 	spa	Messi	np$np-cog$np-cog-mf	por	Messi	np
 	spa	Margarida	np$np-ant	por	Margarida	np
 	spa	Hulk	np	por	Hulk	np
-	spa	Esmeralda	np$np-ant$np-ant-f$np-ant-f-sg	por	Esmeralda	np
+	spa	Esmeralda	np$np-ant$np-ant-f-sg	por	Esmeralda	np
 	spa	Bernardo	np$np-ant	por	Bernardo	np
 	spa	Alípio	np	por	Alípio	np
 	spa	Murray	np$np-cog$np-cog-mf	por	Murray	np
@@ -13672,9 +13672,9 @@ RL	spa	mucho más	adv	por	muito mais	adv
 	spa	Carmargo	np	por	Carmargo	np
 	spa	Brian	np$np-ant	por	Brian	np
 	spa	Melo	np$np-cog	por	Melo	np
-	spa	Félix	np$np-ant$np-ant-m	por	Félix	np
+	spa	Félix	np$np-ant	por	Félix	np
 	spa	Yuki	np	por	Yuki	np
-	spa	Nicolas	np$np-ant$np-ant-m	por	Nicolas	np
+	spa	Nicolas	np$np-ant	por	Nicolas	np
 	spa	Pires	np$np-cog	por	Pires	np$np-cog
 	spa	Ondine	np	por	Ondine	np
 	spa	Noesis	np	por	Noesis	np
@@ -14423,7 +14423,7 @@ LR	spa	PD	n	por	PS	n
 	spa	Erbiti	np	por	Erbiti	np
 	spa	Tesoro	np	por	Tesoro	np
 	spa	Corral	np$np-cog	por	Corral	np
-	spa	Sudamérica	np$np-loc$np-loc-f	por	América do Sul	np
+	spa	Sudamérica	np$np-top-f	por	América do Sul	np
 	spa	Argaman	np	por	Argaman	np
 	spa	Kaufman	np$np-cog	por	Kaufman	np
 	spa	Reynolds	np$np-cog	por	Reynolds	np
@@ -14992,7 +14992,7 @@ LR	spa	escritorio	n-m$n$n-m-ND	por	escritório	n-m$n-m-ND
 	spa	compresa	n$n-f	por	compressa	n-f
 	spa	compresa	n$n-f	por	absorvente	n-m
 	spa	tibia	n$n-f	por	tíbia	n
-	spa	cuerda	n$n-f$n-f-ND	por	corda	n$n-f-ND
+	spa	cuerda	n-f$n$n-f-ND	por	corda	n$n-f-ND
 LR	spa	acoso	n$n-m$n-m-sg	por	assédio	n
 	spa	colegiado	n$n-GD	por	colegiado	n
 	spa	inamovilidad	n	por	inamovilidade	n
@@ -15100,7 +15100,7 @@ LR	spa	papeleo	n-m$n	por	documentação	n$n-f$n-f-ND
 	spa	potabilización	n	por	potabilização	n
 	spa	ácido	n$n-m$n-m-ND	por	ácido	n
 	spa	inativación	n	por	inativação	n
-	spa	alga	n$n-f	por	alga	n
+	spa	alga	n-f$n	por	alga	n
 	spa	mol	n$n-m	por	mol	n
 	spa	ión	n$n-m	por	íon	n
 LR	spa	ion	n$n-m	por	íon	n

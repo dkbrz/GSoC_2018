@@ -1571,7 +1571,7 @@ RL	spa	ebrio	adj$adj-GD	arg	ebrio	adj
 	spa	emblemático	adj$adj-GD	arg	emblematico	adj
 	spa	embrionario	adj$adj-GD	arg	embrionario	adj
 	spa	embrionario	adj$adj-GD	arg	embrionario	adj
-	spa	emergente	adj-mf$adj$adj-mf-sg	arg	emerchent	adj
+	spa	emergente	adj$adj-mf$adj-mf-sg	arg	emerchent	adj
 	spa	eminente	adj$adj-mf$adj-mf-sg	arg	eminent	adj
 	spa	eminente	adj$adj-mf$adj-mf-sg	arg	eminent	adj
 	spa	emocional	adj$adj-mf$adj-mf-sg	arg	emocional	adj
@@ -1734,8 +1734,8 @@ LR	spa	espeluznante	adj-mf$adj$adj-mf-sg	arg	horripilant	adj
 	spa	esperpéntico	adj	arg	esperpentico	adj
 	spa	espeso	adj$adj-f	arg	espeso	adj
 	spa	espeso	adj$adj-f	arg	espeso	adj
-	spa	espinal	adj-mf$adj$adj-mf-sg	arg	espinal	adj
-	spa	espinal	adj-mf$adj$adj-mf-sg	arg	espinal	adj
+	spa	espinal	adj$adj-mf$adj-mf-sg	arg	espinal	adj
+	spa	espinal	adj$adj-mf$adj-mf-sg	arg	espinal	adj
 	spa	espinoso	adj$adj-m-sg	arg	espinoso	adj
 	spa	espinoso	adj$adj-m-sg	arg	espinoso	adj
 	spa	espiral	adj$adj-mf-sg	arg	espiral	adj
@@ -2281,7 +2281,7 @@ RL	spa	gris	adj-mf$adj-mf-ND$adj$	arg	griso	adj-m
 	spa	gubernamental	adj-mf$adj$adj-mf-sg	arg	gubernamental	adj
 	spa	gubernamental	adj-mf$adj$adj-mf-sg	arg	gubernamental	adj
 	spa	gubernativo	adj$adj-m-sg	arg	gubernativo	adj
-	spa	guerrero	adj$$adj-GD-ND	arg	guerrero	adj
+	spa	guerrero	adj$adj-GD-ND	arg	guerrero	adj
 	spa	guerrillero	adj$adj-mf-ND	arg	guerrillero	adj
 	spa	guionista	adj	arg	guionista	adj
 	spa	guipuzcoano	adj$adj-GD	arg	guipuzcoano	adj
@@ -2839,7 +2839,7 @@ RL	spa	insulso	adj$adj-m-sg	arg	insulso	adj
 	spa	integérrimo	adj	arg	intecherrimo	adj
 	spa	intelectual	adj-mf$adj$adj-mf-ND	arg	intelectual	adj
 	spa	intelectual	adj-mf$adj$adj-mf-ND	arg	intelectual	adj
-	spa	inteligente	adj-mf$adj-mf-ND$adj	arg	intelichent	adj
+	spa	inteligente	adj-mf$adj$adj-mf-ND	arg	intelichent	adj
 	spa	inteligible	adj-mf$adj$adj-mf-sg	arg	intelichible	adj
 	spa	intemporal	adj-mf$adj$adj-mf-sg	arg	intemporal	adj
 	spa	intencionado	adj$adj-m$adj-m-sg	arg	intencionau	adj
@@ -3262,7 +3262,7 @@ RL	spa	marchito	adj$adj-GD-ND	arg	chinorrau	adj
 	spa	marinero	adj$adj-m-sg$adj-m	arg	marinero	adj
 	spa	marino	adj$adj-GD-ND	arg	marino	adj
 	spa	marroquí	adj-mf$adj$adj-mf-sg	arg	marroquí	adj
-	spa	marrón	adj$adj-mf$adj-mf-ND$	arg	marrón	adj
+	spa	marrón	adj-mf$adj$adj-mf-ND$	arg	marrón	adj
 	spa	marxista	adj$adj-mf-sg$adj-mf	arg	marxista	adj
 	spa	masculino	adj$adj-GD-ND	arg	masculín	adj
 RL	spa	masculino	adj$adj-GD-ND	arg	masculino	adj
@@ -3531,8 +3531,8 @@ LR	spa	mísero	adj-f	arg	miserable	adj$adj-mf
 	spa	múltiple	adj-mf$adj-mf-ND$adj	arg	múltiple	adj
 	spa	múltiple	adj-mf$adj-mf-ND$adj	arg	multiple	adj
 	spa	naciente	adj$adj-mf-sg	arg	naixient	adj
-	spa	nacional	adj$adj-mf$adj-mf-pl	arg	nacional	adj
-	spa	nacional	adj$adj-mf$adj-mf-pl	arg	nacional	adj
+	spa	nacional	adj-mf$adj$adj-mf-pl	arg	nacional	adj
+	spa	nacional	adj-mf$adj$adj-mf-pl	arg	nacional	adj
 	spa	nacionalista	adj$adj-mf$adj-mf-sg	arg	nacionalista	adj
 	spa	nadador	adj$adj-m-sg	arg	nadador	adj
 	spa	napolitano	adj$adj-m-sg	arg	napolitano	adj
@@ -3696,8 +3696,8 @@ RL	spa	oculto	adj$adj-GD$adj-GD-ND	arg	oculto	adj
 	spa	odioso	adj$adj-GD-ND	arg	odioso	adj
 	spa	ofensivo	adj$adj-GD$adj-GD-ND	arg	ofensivo	adj
 	spa	ofensivo	adj$adj-GD$adj-GD-ND	arg	ofensivo	adj
-	spa	oficial	adj$adj-mf$adj-mf-pl	arg	oficial	adj
-	spa	oficial	adj$adj-mf$adj-mf-pl	arg	oficial	adj
+	spa	oficial	adj-mf$adj$adj-mf-pl	arg	oficial	adj
+	spa	oficial	adj-mf$adj$adj-mf-pl	arg	oficial	adj
 	spa	oficialista	adj	arg	oficialista	adj
 	spa	oficioso	adj$adj-GD-ND	arg	oficioso	adj
 	spa	oficioso	adj$adj-GD-ND	arg	oficioso	adj
@@ -4707,8 +4707,8 @@ RL	spa	serio	adj$adj-f	arg	serio	adj
 	spa	siguiente	adj-mf$adj$adj-mf-sg	arg	siguient	adj
 	spa	silencioso	adj$adj-f	arg	silencioso	adj
 	spa	silencioso	adj$adj-f	arg	silencioso	adj
-	spa	silvestre	adj-mf$adj-mf-sg$adj	arg	silvestre	adj
-	spa	silvestre	adj-mf$adj-mf-sg$adj	arg	silvestre	adj
+	spa	silvestre	adj-mf$adj$adj-mf-sg	arg	silvestre	adj
+	spa	silvestre	adj-mf$adj$adj-mf-sg	arg	silvestre	adj
 	spa	silábico	adj$adj-m-sg	arg	silabico	adj
 	spa	simbólico	adj$adj-GD$adj-GD-ND	arg	simbolico	adj
 	spa	simbólico	adj$adj-GD$adj-GD-ND	arg	simbolico	adj
@@ -4812,7 +4812,7 @@ LR	spa	soso	adj$adj-GD	arg	insulso	adj
 	spa	soviético	adj$adj-GD$adj-GD-ND	arg	sovietico	adj
 	spa	soñador	adj$adj-GD-ND	arg	sonyador	adj
 	spa	soñador	adj$adj-GD-ND	arg	soniador	adj
-	spa	suave	adj-mf$adj-mf-ND$adj	arg	suau	adj
+	spa	suave	adj-mf$adj$adj-mf-ND	arg	suau	adj
 	spa	suavizante	adj	arg	suavizant	adj
 	spa	subacuático	adj$adj-m-sg	arg	subaqüatico	adj
 	spa	subdesarrollado	adj$adj-m-sg	arg	subdesembolicau	adj
@@ -9288,14 +9288,14 @@ LR	spa	de que	cnjsub	arg	que	cnjsub
 RL	spa	que no	cnjsub	arg	que no pas	cnjsub
 	spa	alguno	det-ind-m-sg	arg	bell	det-ind-m-sg$det
 	spa	alguno	det-ind-f-sg	arg	bell	det-ind-f-sg
-RL	spa	alguno	det-ind-m-pl$det-ind-m	arg	bell	det-ind-m-pl
+RL	spa	alguno	det-ind$det$det-ind-m-pl$det-ind-m	arg	bell	det-ind-m-pl
 RL	spa	alguno	det-ind-f-pl$det-ind-f	arg	bell	det-ind-f-pl
-RL	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl	arg	algún	det
+RL	spa	alguno	det-ind$det$det-ind-m-pl$det-ind-m	arg	algún	det
 RL	spa	alguno	det-ind-GD-sg	arg	qualque	det-ind-mf-sg
-RL	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl	arg	qualque	det-ind-mf-pl
+RL	spa	alguno	det-ind-GD$det-ind-GD-pl	arg	qualque	det-ind-mf-pl
 LR	spa	alguno	det-ind-m-sg	arg	qualque	det-ind-mf-sg
 LR	spa	alguno	det-ind-f-sg	arg	qualque	det-ind-mf-sg
-LR	spa	alguno	det-ind-m-pl$det-ind-m	arg	qualque	det-ind-mf-pl
+LR	spa	alguno	det-ind$det$det-ind-m-pl$det-ind-m	arg	qualque	det-ind-mf-pl
 LR	spa	alguno	det-ind-f-pl$det-ind-f	arg	qualque	det-ind-mf-pl
 	spa	algún otro	det-ind	arg	belatro	det$det-ind
 	spa	aquel	det$det-dem-GD$det-dem$det-dem-GD-ND	arg	aquell	det
@@ -9322,9 +9322,9 @@ RL	spa	ninguno	det-ind$det-ind-GD-sg$det-ind-GD$det	arg	cap	det-ind$det-ind-mf-s
 RL	spa	ninguno	det-ind$det-ind-GD-sg$det-ind-GD$det	arg	dengún	det$det-ind-m
 	spa	nuestro	det$det-pos$det-pos-GD$det-pos-GD-ND	arg	o nuestro	det$det-pos
 	spa	otro	det-ind-f-sg$det-ind-f	arg	unatro	det-ind-f-sg
-	spa	otro	det-ind-m-sg$det-ind$det$det-ind-m	arg	unatro	det-ind-m-sg
+	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m	arg	unatro	det-ind-m-sg
 RL	spa	otro	det-ind-f-sg$det-ind-f	arg	atro	det-ind-f-sg
-RL	spa	otro	det-ind-m-sg$det-ind$det$det-ind-m	arg	atro	det-ind-m-sg$det
+RL	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m	arg	atro	det-ind-m-sg$det
 	spa	otro	det-ind-m-pl	arg	atro	det-ind-m-pl
 	spa	otro	det-ind-f-pl	arg	atro	det-ind-f-pl
 RL	spa	otro	det-ind-f-pl	arg	unatro	det-ind-f-pl
@@ -9341,7 +9341,7 @@ LR	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl	arg	o tuyo	det-pos$det-pos-GD
 RL	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl	arg	o tuyo	det-pos-f
 RL	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl	arg	o tuyo	det-pos-m
 RL	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl	arg	tu	det-pos-mf
-	spa	uno	det-ind-m-sg$det$det-ind$det-ind-m	arg	un	det$det-ind
+	spa	uno	det-ind$det-ind-m-sg$det$det-ind-m	arg	un	det$det-ind
 	spa	vario	det$det-ind-GD$det-ind$det-ind-GD-ND	arg	quantos	det
 RL	spa	vario	det$det-ind-GD$det-ind$det-ind-GD-ND	arg	varios	det
 	spa	veintiuno	det$det-def	arg	vintiun	det
@@ -9822,7 +9822,7 @@ RL	spa	abaratamiento	n-m$n	arg	abaratamiento	n$n-m
 	spa	abdicación	n$n-f	arg	abdicación	n$n-f
 	spa	abdomen	n-m$n$n-m-ND	arg	abdomen	n$n-m
 	spa	abducción	n$n-f	arg	abducción	n$n-f
-	spa	abeja	n$n-f$n-f-ND	arg	abella	n$n-f
+	spa	abeja	n-f$n$n-f-ND	arg	abella	n$n-f
 	spa	aberración	n$n-f	arg	aberración	n$n-f
 	spa	abismo	n$n-m$n-m-ND	arg	abismo	n$n-m
 	spa	abjuración	n$n-f	arg	abchuración	n$n-f
@@ -9882,7 +9882,7 @@ LR	spa	abultamiento	n$n-m	arg	bulligón	n$n-m
 	spa	acentuación	n$n-f	arg	accentuación	n$n-f
 	spa	acepción	n$n-f	arg	acepción	n$n-f
 	spa	aceptación	n$n-f$n-f-sg	arg	acceptación	n$n-f
-	spa	acequia	n$n-f$n-f-ND	arg	ceiquia	n-f$n
+	spa	acequia	n-f$n$n-f-ND	arg	ceiquia	n-f$n
 	spa	acercamiento	n$n-m	arg	amanamiento	n-m$n
 RL	spa	acercamiento	n$n-m	arg	acercamiento	n-m$n
 	spa	acidificación	n$n-f$n-f-sg	arg	acidificación	n$n-f
@@ -10009,7 +10009,7 @@ LR	spa	agobio	n$n-m	arg	angunia	n-f$n
 	spa	agravamiento	n-m$n$n-m-sg	arg	agreviamiento	n$n-m
 	spa	agregación	n$n-f	arg	agregación	n$n-f
 	spa	agresión	n$n-f$n-f-sg	arg	agresión	n$n-f
-	spa	agricultor	n$n-m-sg$n-m	arg	agricultor	n$n-m
+	spa	agricultor	n$n-m$n-m-sg	arg	agricultor	n$n-m
 	spa	agricultura	n-f$n$n-f-sg	arg	agricultura	n$n-f
 	spa	agroecología	n$n-f	arg	agroecolochía	n$n-f
 	spa	agrología	n$n-f	arg	agrolochía	n$n-f
@@ -10055,7 +10055,7 @@ RL	spa	alejamiento	n$n-m	arg	aluenyamiento	n$n-m
 	spa	alfabeto	n-m$n$n-m-ND	arg	alfabeto	n$n-m
 	spa	alfalfa	n$n-f$n-f-sg	arg	alfalz	n-m$n-m-sg
 	spa	alfombra	n-f$n$n-f-ND	arg	alfombra	n$n-f
-	spa	alga	n$n-f	arg	alga	n$n-f
+	spa	alga	n-f$n	arg	alga	n$n-f
 	spa	algoritmo	n-m$n$n-m-ND	arg	algorismo	n-m$n
 	spa	alianza	n$n-f$n-f-sg	arg	alianza	n$n-f
 	spa	alias	n$n-m$n-m-sp	arg	alias	n$n-mf
@@ -10075,8 +10075,8 @@ RL	spa	alejamiento	n$n-m	arg	aluenyamiento	n$n-m
 	spa	almohadón	n-m	arg	coixín	n-m
 	spa	almíbar	n-m$n	arg	almibar	n-f
 	spa	alocución	n$n-f	arg	alocución	n$n-f
-	spa	alojamiento	n$n-m$n-m-sg	arg	aloch	n$n-m
-RL	spa	alojamiento	n$n-m$n-m-sg	arg	alochamiento	n$n-m
+	spa	alojamiento	n-m$n$n-m-sg	arg	aloch	n$n-m
+RL	spa	alojamiento	n-m$n$n-m-sg	arg	alochamiento	n$n-m
 	spa	alpinista	n$n-mf	arg	alpinista	n$n-mf
 	spa	alquimista	n$n-mf	arg	alquimista	n$n-mf
 	spa	alrededores	n-m-pl$n$n-m	arg	redolada	n-f-sg
@@ -10495,7 +10495,7 @@ RL	spa	axila	n-f$n	arg	ixalla	n$n-f
 	spa	ayuntamiento	n$n-m$n-m-ND	arg	concello	n$n-m
 	spa	ayuntamiento	n$n-m$n-m-ND	arg	achuntamiento	n$n-m
 	spa	ayuntamiento	n$n-m$n-m-ND	arg	casa d'o lugar	n
-	spa	azada	n$n-f	arg	ixada	n
+	spa	azada	n-f$n	arg	ixada	n
 	spa	azulejo	n-m$n$n-m-ND	arg	rechola	n-f$n
 LR	spa	añada	n$n-m	arg	anyada	n-f$n
 	spa	año	n-m$n$n-m-sg	arg	anyo	n$n-m
@@ -10537,7 +10537,7 @@ LR	spa	bar	n-m$n$n-m-sg	arg	tabierna	n-f$n
 	spa	barbarismo	n-m$n	arg	barbarismo	n$n-m
 	spa	barbería	n$n-f	arg	barbería	n$n-f
 	spa	barbilla	n-f$n$n-f-ND	arg	barba	n$n-f
-	spa	barca	n$n-f$n-f-ND	arg	barca	n$n-f
+	spa	barca	n-f$n$n-f-ND	arg	barca	n$n-f
 	spa	barcelonista	n$n-mf	arg	barcelonista	n$n-mf
 	spa	barco	n-m$n$n-m-sg	arg	barco	n$n-m
 	spa	barra	n$n-f$n-f-ND	arg	barra	n$n-f
@@ -10617,7 +10617,7 @@ RL	spa	belleza	n$n-f$n-f-ND	arg	polideza	n$n-f
 	spa	blusa	n$n-f$n-f-sg	arg	brusa	n$n-f
 	spa	boa	n$n-f	arg	boa	n$n-f
 	spa	bobina	n$n-f	arg	bobina	n$n-f
-	spa	boca	n$n-f$n-f-ND	arg	boca	n$n-f
+	spa	boca	n-f$n$n-f-ND	arg	boca	n$n-f
 	spa	bocina	n$n-f	arg	bocina	n$n-f
 	spa	boda	n-f$n$n-f-sg	arg	voda	n$n-f
 	spa	bodega	n-f$n	arg	bodega	n
@@ -10657,7 +10657,7 @@ RL	spa	botella	n-f$n$n-f-ND	arg	botella	n-f$n
 	spa	brasileño	n$n-m	arg	brasilenyo	n$n-m
 	spa	brazalete	n$n-m	arg	brazalera	n-f
 RL	spa	brazalete	n$n-m	arg	brazalet	n
-	spa	brazo	n-m-sg$n-m$n	arg	brazo	n$n-m
+	spa	brazo	n-m$n-m-sg$n	arg	brazo	n$n-m
 	spa	brigadista	n	arg	brigadista	n$n-mf
 	spa	broma	n$n-f$n-f-ND	arg	chanza	n$n-f
 RL	spa	broma	n$n-f$n-f-ND	arg	broma	n$n-f
@@ -10711,9 +10711,9 @@ RL	spa	búsqueda	n-f$n$n-f-sg	arg	busca	n$n-f
 	spa	caballería	n$n-f$n-f-ND	arg	caballería	n-f
 	spa	caballo	n$n-m$n-m-sg	arg	caballo	n$n-m
 	spa	cabaña	n$n-f$n-f-ND	arg	cabana	n-f$n
-	spa	cabecera	n-f$n$n-f-ND	arg	cabecera	n
-	spa	cabecera	n-f$n$n-f-ND	arg	capitero	n$n-m
-RL	spa	cabecera	n-f$n$n-f-ND	arg	cabecero	n-m
+	spa	cabecera	n$n-f$n-f-ND	arg	cabecera	n
+	spa	cabecera	n$n-f$n-f-ND	arg	capitero	n$n-m
+RL	spa	cabecera	n$n-f$n-f-ND	arg	cabecero	n-m
 LR	spa	cabecero	n$n-m	arg	capitero	n$n-m
 	spa	cabeza	n-f$n$n-f-sg	arg	cabeza	n$n-f
 RL	spa	cabeza	n-f$n$n-f-sg	arg	tozuelo	n-m
@@ -10871,7 +10871,7 @@ LR	spa	casilla	n-f$n	arg	caixeta	n$n-f
 	spa	castaño	n$n-m$n-m-ND	arg	castanyera	n-f
 	spa	castellanismo	n	arg	castellanismo	n
 	spa	castellanización	n$n-f	arg	castellanización	n$n-f
-	spa	castellano	n$n-m-ND$n-m	arg	castellán	n$n-m
+	spa	castellano	n$n-m$n-m-ND	arg	castellán	n$n-m
 	spa	castidad	n$n-f$n-f-ND	arg	castidat	n$n-f
 	spa	castillo	n-m$n$n-m-ND	arg	castiello	n$n-m
 	spa	castor	n$n-m	arg	castor	n$n-m
@@ -10913,7 +10913,7 @@ LR	spa	cayado	n-m	arg	gayata	n-f
 	spa	cebolla	n$n-f$n-f-ND	arg	cebolla	n$n-f
 RL	spa	cebolla	n$n-f$n-f-ND	arg	bruno	n-m
 	spa	cebra	n$n-f	arg	zebra	n$n-f
-	spa	ceja	n$n-f$n-f-sg	arg	cella	n$n-f
+	spa	ceja	n-f$n$n-f-sg	arg	cella	n$n-f
 	spa	celda	n$n-f$n-f-ND	arg	celda	n$n-f
 	spa	celebración	n$n-f$n-f-sg	arg	celebración	n$n-f
 	spa	celebridad	n$n-f$n-f-ND	arg	celebridat	n$n-f
@@ -11122,7 +11122,7 @@ RL	spa	cojón	n	arg	macaco	n
 	spa	colonialismo	n$n-m$n-m-sg	arg	colonialismo	n$n-m
 	spa	colonialista	n$n-mf	arg	colonialista	n$n-mf
 	spa	colonización	n$n-f$n-f-ND	arg	colonización	n$n-f
-	spa	color	n-m$n-m-sg$n	arg	color	n-f
+	spa	color	n-m$n$n-m-sg	arg	color	n-f
 	spa	coloración	n$n-f	arg	coloración	n$n-f
 	spa	colorista	n	arg	colorista	n$n-mf
 	spa	columna	n$n-f$n-f-ND	arg	columna	n$n-f
@@ -11246,7 +11246,7 @@ RL	spa	conde	n$n-m$n-m-ND	arg	conte	n$n-m
 	spa	conducto	n$n-m$n-m-sg	arg	conducto	n$n-m
 	spa	conductor	n$n-m$n-m-sg	arg	conductor	n$n-m
 	spa	conectividad	n$n-f$n-f-sg	arg	conectividat	n$n-f
-	spa	conejo	n$n-m$n-m-sg	arg	conello	n$n-m
+	spa	conejo	n-m$n$n-m-sg	arg	conello	n$n-m
 	spa	conexión	n$n-f$n-f-ND	arg	connexión	n$n-f
 	spa	confabulación	n	arg	confabulación	n$n-f
 	spa	confección	n$n-f	arg	confección	n$n-f
@@ -11428,7 +11428,7 @@ RL	spa	coronel	n-mf$n$n-mf-ND	arg	coronel	n-mf$n
 	spa	corrección	n-f$n	arg	corrección	n$n-f
 	spa	corrector	n$n-f-pl$n-f	arg	corrector	n$n-m
 	spa	corredor	n-f$n-f-pl	arg	corredor	n-f
-	spa	corredor	n-m$n$n-m-sg	arg	corredor	n-m
+	spa	corredor	n$n-m$n-m-sg	arg	corredor	n-m
 	spa	correlación	n$n-f$n-f-ND	arg	correlación	n$n-f
 	spa	correo	n$n-m$n-m-pl	arg	correu	n$n-m
 	spa	correspondencia	n$n-f$n-f-ND	arg	correspondencia	n$n-f
@@ -11546,7 +11546,7 @@ LR	spa	cucharón	n-m$n	arg	cullar	n$n-m
 	spa	cuenca	n$n-f$n-f-sg	arg	cuenca	n$n-f
 	spa	cuenta	n-f$n$n-f-sg	arg	cuenta	n
 	spa	cuentista	n$n-mf-sg	arg	cuentista	n$n-mf
-	spa	cuerda	n$n-f$n-f-ND	arg	cuerda	n$n-f
+	spa	cuerda	n-f$n$n-f-ND	arg	cuerda	n$n-f
 	spa	cuerpo	n-m$n$n-m-sg	arg	cuerpo	n$n-m
 	spa	cuestionamiento	n	arg	qüestionamiento	n$n-m
 	spa	cuestión	n-f$n$n-f-sg	arg	qüestión	n$n-f
@@ -11598,7 +11598,7 @@ RL	spa	cártel	n$n-m	arg	cártel	n$n-m
 	spa	dactilografía	n	arg	dactilografía	n$n-f
 	spa	daltonismo	n$n-m	arg	daltonismo	n$n-m
 	spa	dama	n$n-f$n-f-ND	arg	dama	n$n-f
-	spa	danza	n$n-f$n-f-sg	arg	danza	n$n-f
+	spa	danza	n-f$n$n-f-sg	arg	danza	n$n-f
 	spa	danés	n$n-m$n-m-ND	arg	danés	n$n-m
 	spa	darwinismo	n$n-m	arg	darwinismo	n$n-m
 	spa	darwinista	n	arg	darwinista	n$n-mf
@@ -11901,7 +11901,7 @@ RL	spa	desvanecimiento	n$n-m	arg	esmorteiximiento	n$n-m
 	spa	diadema	n$n-f	arg	diadema	n$n-f
 	spa	diagonalización	n	arg	diagonalización	n$n-f
 	spa	diagrama	n$n-m$n-m-ND	arg	diagrama	n$n-m
-	spa	dialecto	n$n-m$n-m-ND	arg	dialecto	n$n-m
+	spa	dialecto	n-m$n$n-m-ND	arg	dialecto	n$n-m
 	spa	dialectología	n$n-f	arg	dialectolochía	n$n-f
 	spa	diana	n$n-f	arg	diana	n$n-f
 	spa	diapositiva	n-f$n	arg	diapositiva	n$n-f
@@ -12057,7 +12057,7 @@ RL	spa	dolor	n-m$n$n-m-ND	arg	dolor	n-f
 	spa	dossier	n$n-m	arg	dossier	n$n-m
 	spa	dotación	n$n-f$n-f-sg	arg	dotación	n$n-f
 	spa	dote	n-mf$n	arg	dote	n-m
-	spa	doña	n$n-f	arg	donya	n
+	spa	doña	n-f$n	arg	donya	n
 	spa	drama	n$n-m$n-m-ND	arg	drama	n$n-m
 	spa	dramatismo	n$n-m	arg	dramatismo	n$n-m
 	spa	dramatización	n$n-f	arg	dramatización	n$n-f
@@ -12192,7 +12192,7 @@ LR	spa	electrólisis	n-f-sp$n$n-f	arg	electrolisi	n-f-ND
 	spa	empleado	n$n-m$n-m-sg	arg	emplegau	n$n-m
 	spa	empleo	n-m$n$n-m-ND	arg	emplego	n$n-m
 	spa	empobrecimiento	n-m$n	arg	empobrimiento	n$n-m
-	spa	empresa	n$n-f$n-f-sg	arg	interpresa	n$n-f
+	spa	empresa	n-f$n$n-f-sg	arg	interpresa	n$n-f
 	spa	empresario	n$n-m$n-m-sg	arg	interpresario	n$n-m
 	spa	emulación	n-f$n	arg	emulación	n$n-f
 	spa	emulsión	n$n-f	arg	emulsión	n$n-f
@@ -12282,7 +12282,7 @@ LR	spa	entablado	n$n-m	arg	tablero	n$n-m
 	spa	entrelazamiento	n	arg	entrelazamiento	n$n-m
 	spa	entrenador	n$n-m$n-m-sg	arg	entrenador	n$n-m
 	spa	entrenamiento	n$n-m$n-m-sg	arg	entrenamiento	n$n-m
-	spa	entrepierna	n$n-f	arg	forcacha	n
+	spa	entrepierna	n-f$n	arg	forcacha	n
 	spa	entretenimiento	n$n-m	arg	entretenimiento	n$n-m
 	spa	entrevista	n-f$n$n-f-sg	arg	entrevista	n$n-f
 	spa	entroncamiento	n-m$n	arg	entroncamiento	n$n-m
@@ -12435,7 +12435,7 @@ RL	spa	estación	n-f$n$n-f-ND	arg	gara	n$n-f
 	spa	estante	n$n-m$n-m-ND	arg	repalmar	n$n-m
 	spa	estantería	n-f$n	arg	aparador	n-m$n
 	spa	estatismo	n$n-m	arg	estatismo	n$n-m
-	spa	estatua	n$n-f$n-f-ND	arg	estactua	n$n-f
+	spa	estatua	n-f$n$n-f-ND	arg	estactua	n$n-f
 	spa	estatura	n$n-f$n-f-ND	arg	estatura	n-f$n
 	spa	estatuto	n-m$n$n-m-sg	arg	estatuto	n-m
 	spa	estatuto	n-m$n$n-m-sg	arg	ordinación	n-f
@@ -12958,7 +12958,7 @@ RL	spa	golpe	n-m$n$n-m-ND	arg	tozolón	n$n-m
 	spa	golpista	n$n-mf	arg	golpista	n$n-mf
 	spa	goma	n$n-f$n-f-ND	arg	goma	n$n-f
 	spa	gorila	n$n-mf$n-mf-ND	arg	gorila	n$n-mf
-	spa	gorra	n$n-f	arg	gorra	n$n-f
+	spa	gorra	n-f$n	arg	gorra	n$n-f
 	spa	gorrión	n-m$n	arg	gurrión	n
 	spa	gota	n-f$n$n-f-ND	arg	gota	n$n-f
 RL	spa	gozo	n$n-m$n-m-ND	arg	gozo	n$n-m
@@ -13060,7 +13060,7 @@ LR	spa	hemodiálisis	n-f-sp$n	arg	hemodialisi	n-f-ND
 	spa	heredero	n$n-m$n-m-ND	arg	hereu	n
 	spa	herencia	n-f$n$n-f-ND	arg	herencio	n-m
 	spa	hermanamiento	n$n-m	arg	achirmanamiento	n$n-m
-	spa	hermano	n-m$n$n-m-sg	arg	chirmán	n$n-m
+	spa	hermano	n-f$n$n-f-ND	arg	chirmán	n$n-m
 	spa	hermetismo	n	arg	hermetismo	n$n-m
 	spa	heroísmo	n$n-m	arg	heroísmo	n$n-m
 	spa	herradura	n$n-f	arg	ferradura	n$n-f
@@ -13133,7 +13133,7 @@ LR	spa	histéresis	n-f-sp	arg	histeresi	n-f-ND
 	spa	honra	n$n-f$n-f-ND	arg	honor	n-f$n
 RL	spa	honra	n$n-f$n-f-ND	arg	honra	n$n-f
 	spa	hora	n-f$n$n-f-sg	arg	hora	n$n-f
-	spa	horca	n$n-f	arg	forca	n
+	spa	horca	n-f$n	arg	forca	n
 	spa	horchata	n$n-f	arg	orchata	n$n-f
 	spa	hormiga	n$n-f$n-f-ND	arg	forniga	n$n-f
 LR	spa	hornero	n$n-m	arg	fornero	n$n-m
@@ -13269,8 +13269,8 @@ RL	spa	inauguración	n$n-f$n-f-sg	arg	inauguración	n$n-f
 	spa	incapacitación	n	arg	incapacitación	n$n-f
 	spa	incautación	n$n-f	arg	incautación	n$n-f
 	spa	incendio	n-m$n$n-m-sg	arg	incendio	n$n-m
-	spa	incentivación	n$n-f	arg	incentivación	n$n-f
-	spa	incentivación	n$n-f	arg	incentivación	n$n-f
+	spa	incentivación	n	arg	incentivación	n$n-f
+	spa	incentivación	n	arg	incentivación	n$n-f
 	spa	incidencia	n$n-f$n-f-sg	arg	incidencia	n$n-f
 	spa	incineración	n$n-f$n-f-ND	arg	incineración	n$n-f
 	spa	incisión	n$n-f	arg	incisión	n$n-f
@@ -13432,7 +13432,7 @@ RL	spa	inauguración	n$n-f$n-f-sg	arg	inauguración	n$n-f
 	spa	instauración	n$n-f$n-f-ND	arg	instauración	n$n-f
 	spa	instigación	n$n-f$n-f-sg	arg	instigación	n$n-f
 	spa	institucionalización	n-f$n	arg	institucionalización	n$n-f
-	spa	institución	n$n-f$n-f-sg	arg	institución	n$n-f
+	spa	institución	n-f$n$n-f-sg	arg	institución	n$n-f
 	spa	instituto	n-m$n$n-m-sg	arg	instituto	n$n-m
 	spa	instrucción	n$n-f$n-f-sg	arg	instrucción	n$n-f
 	spa	instructor	n$n-m$n-m-sg	arg	instructor	n$n-m
@@ -13631,7 +13631,7 @@ RL	spa	lagartija	n$n-f	arg	engardaixina	n$n-f
 	spa	lambda	n$n-f	arg	lambda	n$n-f
 	spa	lamentación	n$n-f	arg	lamentación	n$n-f
 	spa	lana	n$n-f$n-f-ND	arg	lana	n$n-f
-	spa	lancha	n$n-f	arg	lancha	n$n-f
+	spa	lancha	n-f$n	arg	lancha	n$n-f
 	spa	langosta	n$n-f$n-f-sg	arg	langosta	n$n-f
 	spa	lanzador	n$n-GD	arg	lanzador	n$n-m
 	spa	lanzamiento	n-m$n$n-m-ND	arg	lanzamiento	n$n-m
@@ -13698,7 +13698,7 @@ RL	spa	lentilla	n$n-f	arg	lentilla	n$n-f
 	spa	lexicología	n$n-f	arg	lexicolochía	n$n-f
 	spa	ley	n$n-f$n-f-sg	arg	lei	n$n-f
 	spa	leyenda	n$n-f$n-f-sg	arg	leyenda	n$n-f
-	spa	leña	n$n-f$n-f-sg	arg	lenya	n$n-f
+	spa	leña	n-f$n$n-f-sg	arg	lenya	n$n-f
 	spa	leñador	n$n-m$n-m-pl	arg	picador	n
 	spa	liberación	n-f$n$n-f-ND	arg	liberación	n
 	spa	liberalismo	n$n-m	arg	liberalismo	n$n-m
@@ -13750,7 +13750,7 @@ RL	spa	liquidez	n$n-f-sg$n-f	arg	liquidez	n$n-f
 	spa	lituano	n$n-GD	arg	lituano	n$n-m
 	spa	llaga	n$n-f	arg	plaga	n$n-f
 RL	spa	llaga	n$n-f	arg	llaga	n$n-f
-	spa	llama	n$n-f$n-f-ND	arg	flama	n-f$n
+	spa	llama	n-f$n$n-f-ND	arg	flama	n-f$n
 	spa	llamada	n-f$n$	arg	gritada	n$n-f
 	spa	llamamiento	n-m$n$n-m-ND	arg	clamamiento	n
 	spa	llamarada	n$n-f	arg	flamarada	n-f$n
@@ -13826,7 +13826,7 @@ RL	spa	madrugada	n$n-f$n-f-ND	arg	manyanada	n$n-f
 	spa	magnetización	n$n-f	arg	magnetización	n$n-f
 	spa	magnitud	n$n-f-sg$n-f	arg	magnitut	n$n-f
 	spa	majestad	n$n-f	arg	machestat	n$n-f
-	spa	mal	n$n-m$n-m-ND	arg	mal	n$n-m
+	spa	mal	n-m$n$n-m-ND	arg	mal	n$n-m
 RL	spa	mal olor	n-m$n-m-ND	arg	mala olor	n-f
 	spa	mal olor	n-m$n-m-ND	arg	pudor	n-f
 	spa	malabarista	n$n-mf	arg	malabarista	n$n-mf
@@ -14025,7 +14025,7 @@ RL	spa	miedo	n-m$n$n-m-ND	arg	por	n-f
 RL	spa	miedo	n-m$n$n-m-ND	arg	cera	n-f
 RL	spa	miedo	n-m$n$n-m-ND	arg	cerina	n-f
 	spa	miembro	n-mf$n$n-mf-ND	arg	miembro	n$n-mf
-	spa	mierda	n$n-f$n-f-ND	arg	mierda	n$n-f
+	spa	mierda	n-f$n$n-f-ND	arg	mierda	n$n-f
 	spa	migración	n$n-f$n-f-sg	arg	migración	n$n-f
 	spa	milanista	n	arg	milanista	n$n-mf
 	spa	milanista	n	arg	milanista	n$n-mf
@@ -14171,7 +14171,7 @@ RL	spa	mulo	n-m$n	arg	macho	n-m
 	spa	multitud	n$n-f$n-f-ND	arg	multitut	n$n-f
 	spa	mundialista	n	arg	mundialista	n$n-mf
 	spa	mundialización	n	arg	mundialización	n$n-f
-	spa	mundo	n$n-m$n-m-sg	arg	mundo	n$n-m
+	spa	mundo	n-m$n$n-m-sg	arg	mundo	n$n-m
 	spa	municipalidad	n$n-f$n-f-sg	arg	municipalidat	n$n-f
 	spa	municipio	n-m$n$n-m-ND	arg	municipio	n$n-m
 	spa	munición	n$n-f$n-f-ND	arg	munición	n$n-f
@@ -14203,7 +14203,7 @@ RL	spa	máscara	n-f$n	arg	mascaruta	n-f$n
 	spa	n	n$n-f	arg	n	n$n-f
 	spa	nacimiento	n-m$n$n-m-ND	arg	naixencia	n-f
 RL	spa	nacimiento	n-m$n$n-m-ND	arg	naiximiento	n$n-m
-	spa	nacionalidad	n$n-f$n-f-sg	arg	nacionalidat	n$n-f
+	spa	nacionalidad	n-f$n$n-f-sg	arg	nacionalidat	n$n-f
 	spa	nacionalismo	n$n-m$n-m-ND	arg	nacionalismo	n$n-m
 	spa	nacionalista	n$n-mf$n-mf-ND	arg	nacionalista	n$n-mf
 	spa	nacionalización	n$n-f	arg	nacionalización	n$n-f
@@ -14318,7 +14318,7 @@ LR	spa	nube	n-f$n$n-f-ND	arg	boira	n$n-f
 RL	spa	nube	n-f$n$n-f-ND	arg	nuble	n
 	spa	nuca	n-f$n$n-f-ND	arg	foyeta	n
 	spa	nudillo	n-m$n	arg	chunta	n-f
-	spa	nudo	n$n-m$n-m-ND	arg	nyudo	n-m$n
+	spa	nudo	n-m$n$n-m-ND	arg	nyudo	n-m$n
 	spa	nuera	n$n-f	arg	chovena	n$n-f
 	spa	nulidad	n$n-f	arg	nulidat	n$n-f
 	spa	numeración	n$n-f	arg	numeración	n$n-f
@@ -14387,7 +14387,7 @@ RL	spa	oficina	n-f$n$n-f-sg	arg	oficina	n$n-f
 	spa	oligarquía	n$n-f	arg	oligarquía	n$n-f
 	spa	olimpiada	n$n-f	arg	olimpiada	n$n-f
 	spa	olivo	n-m$n$n-m-ND	arg	olivera	n-f
-	spa	olla	n$n-f	arg	olla	n$n-f
+	spa	olla	n-f$n	arg	olla	n$n-f
 	spa	olor	n-m$n$n-m-ND	arg	olor	n-f
 	spa	ombligo	n-m$n	arg	melico	n-m$n
 	spa	omisión	n$n-f	arg	omisión	n$n-f
@@ -14718,7 +14718,7 @@ RL	spa	peón	n$n-m$n-m-ND	arg	pion	n-m$n
 	spa	pie	n-m$n$n-m-ND	arg	piet	n$n-m
 	spa	piedra	n-f$n$n-f-sg	arg	piedra	n-f$n
 	spa	piel	n-f$n$n-f-ND	arg	piel	n
-	spa	pierna	n$n-f$n-f-ND	arg	garra	n$n-f
+	spa	pierna	n-f$n$n-f-ND	arg	garra	n$n-f
 	spa	pieza	n-f$n$n-f-ND	arg	pieza	n$n-f
 	spa	pigmentación	n$n-f	arg	pigmentación	n$n-f
 	spa	pignoración	n$n-f	arg	pignoración	n$n-f
@@ -14790,7 +14790,7 @@ LR	spa	pixel	n$n-m	arg	pixel	n$n-m
 	spa	poción	n$n-f	arg	poción	n$n-f
 	spa	poder	n$n-m$n-m-sg	arg	poder	n$n-m
 	spa	podología	n$n-f	arg	podolochía	n$n-f
-	spa	poema	n$n-m$n-m-ND	arg	poema	n$n-m
+	spa	poema	n-m$n$n-m-ND	arg	poema	n$n-m
 	spa	poesía	n$n-f$n-f-sg	arg	poesía	n$n-f
 	spa	poeta	n-mf$n$n-mf-ND	arg	poeta	n$n-mf
 RL	spa	polaco	n$n-m	arg	polonés	n$n-m
@@ -14809,7 +14809,7 @@ RL	spa	polaco	n$n-m	arg	polonés	n$n-m
 	spa	polvorización	n$n-f	arg	polvorización	n$n-f
 	spa	polémica	n$n-f$n-f-ND	arg	polemica	n$n-f
 	spa	polígono	n-m$n$n-m-sg	arg	poligono	n$n-m
-	spa	política	n$n-f$n-f-sg	arg	politica	n$n-f
+	spa	política	n-f$n$n-f-sg	arg	politica	n$n-f
 	spa	político	n$n-GD	arg	politico	n$n-m
 	spa	pomada	n$n-f	arg	pomada	n$n-f
 	spa	ponderación	n$n-f$n-f-sg	arg	ponderación	n$n-f
@@ -14881,7 +14881,7 @@ LR	spa	postgrado	n$n-m$n-m-sg	arg	postgrau	n$n-m
 	spa	prefiguración	n	arg	prefiguración	n$n-f
 	spa	prefijación	n$n-f	arg	prefixación	n$n-f
 	spa	prefijo	n-m$n	arg	prefixo	n$n-m
-	spa	pregunta	n$n-f$n-f-ND	arg	pregunta	n$n-f
+	spa	pregunta	n-f$n$n-f-ND	arg	pregunta	n$n-f
 	spa	preinscripción	n	arg	preinscripción	n$n-f
 	spa	preinstalación	n	arg	preinstalación	n$n-f
 	spa	prelación	n	arg	prelación	n$n-f
@@ -15069,7 +15069,7 @@ RL	spa	pulmón	n$n-m$n-m-ND	arg	polmón	n$n-m
 	spa	punto	n-m$n$n-m-ND	arg	punto	n$n-m
 	spa	puntuación	n$n-f$n-f-sg	arg	puntuación	n$n-f
 	spa	puntualización	n$n-f	arg	puntualización	n$n-f
-	spa	pupila	n$n-f$n-f-ND	arg	nineta	n$n-f
+	spa	pupila	n-f$n$n-f-ND	arg	nineta	n$n-f
 	spa	pureza	n$n-f	arg	pureza	n$n-f
 	spa	purga	n$n-f	arg	porgadura	n-f$n
 	spa	purificación	n$n-f	arg	purificación	n$n-f
@@ -15482,7 +15482,7 @@ RL	spa	rigor	n-m$n$n-m-ND	arg	rigor	n-f
 RL	spa	roca	n$n-f$n-f-sg	arg	roca	n$n-f
 RL	spa	roca	n$n-f$n-f-sg	arg	rocha	n
 	spa	rodamiento	n$n-m	arg	rodamiento	n$n-m
-	spa	rodilla	n-f$n-f-sg$n	arg	chenullo	n-m
+	spa	rodilla	n-f$n$n-f-sg	arg	chenullo	n-m
 	spa	rodillera	n$n-f	arg	chenullera	n$n-f
 	spa	rojez	n$n-f	arg	royura	n
 	spa	rol	n$n-m	arg	rol	n$n-m
@@ -15512,7 +15512,7 @@ RL	spa	roca	n$n-f$n-f-sg	arg	rocha	n
 	spa	ruso	n$n-GD	arg	ruso	n$n-m
 	spa	ruta	n$n-f$n-f-sg	arg	rota	n$n-f
 	spa	rutinización	n$n-f	arg	rutinización	n$n-f
-	spa	rábano	n$n-m	arg	rabaneta	n-f
+	spa	rábano	n-m$n	arg	rabaneta	n-f
 	spa	rédito	n$n-m	arg	reuto	n$n-m
 	spa	régimen	n-m$n$n-m-sg	arg	rechimen	n$n-m
 	spa	réplica	n$n-f$n-f-ND	arg	replica	n$n-f
@@ -15734,7 +15734,7 @@ RL	spa	sobrecalificación	n	arg	sobrecalificación	n$n-f
 	spa	sofocación	n$n-f	arg	sofocación	n$n-f
 	spa	software	n$n-m$n-m-sp	arg	software	n-m-sp$n
 	spa	soja	n$n-f$n-f-sg	arg	soya	n-f$n
-	spa	sol	n$n-m$n-m-ND	arg	sol	n$n-m
+	spa	sol	n-m$n$n-m-ND	arg	sol	n$n-m
 	spa	solar	n$n-m$n-m-ND	arg	solar	n$n-m
 	spa	soldado	n-mf$n$n-mf-sg	arg	soldau	n-mf$n
 	spa	soldadura	n$n-f	arg	soldadura	n$n-f
@@ -15925,7 +15925,7 @@ LR	spa	tapón	n-m$n	arg	tape	n-m$n
 	spa	tecnoestructura	n$n-f	arg	tecnostructura	n$n-f
 	spa	tecnología	n$n-f$n-f-sg	arg	tecnolochía	n$n-f
 	spa	teja	n$n-f	arg	tella	n$n-f
-	spa	tela	n$n-f$n-f-ND	arg	tela	n$n-f
+	spa	tela	n-f$n$n-f-ND	arg	tela	n$n-f
 	spa	telar	n$n-m$n-m-ND	arg	telar	n$n-m
 	spa	telecomunicación	n$n-f$n-f-sg	arg	telecomunicación	n$n-f
 	spa	teleconferencia	n$n-f	arg	teleconferencia	n$n-f
@@ -15995,7 +15995,7 @@ RL	spa	tiempo	n-m$n-m-ND$n	arg	temps	n-m$n-m-sp
 	spa	tigre	n$n-m$n-m-sg	arg	tigre	n
 	spa	timbre	n$n-m$n-m-ND	arg	trucador	n$n-m
 	spa	tinción	n$n-f	arg	tinción	n$n-f
-	spa	tinta	n$n-f$n-f-sg	arg	tinta	n$n-f
+	spa	tinta	n-f$n$n-f-sg	arg	tinta	n$n-f
 	spa	tintorería	n$n-f	arg	tintorería	n$n-f
 	spa	tipificación	n$n-f$n-f-sg	arg	tipificación	n$n-f
 	spa	tipo	n-m$n-m-sg$n	arg	tipo	n
@@ -16032,7 +16032,7 @@ LR	spa	tisis	n-f-sp$n$n-f	arg	tisi	n-f-ND
 	spa	torrefacción	n$n-f	arg	torrefacción	n$n-f
 	spa	torsión	n$n-f	arg	torsión	n$n-f
 	spa	tortilla	n$n-f	arg	tortiella	n$n-f
-	spa	tortuga	n$n-f$n-f-sg	arg	tortuga	n$n-f
+	spa	tortuga	n-f$n$n-f-sg	arg	tortuga	n$n-f
 	spa	tortura	n$n-f$n-f-ND	arg	tortura	n$n-f
 	spa	toscano	n	arg	toscano	n$n-m
 	spa	tostadora	n$n-f$n-f-sg	arg	turradora	n$n-f
@@ -16042,7 +16042,7 @@ LR	spa	tisis	n-f-sp$n$n-f	arg	tisi	n-f-ND
 	spa	toxicología	n$n-f	arg	toxicolochía	n$n-f
 	spa	traba	n-f$n	arg	estorbadura	n$n-f
 	spa	trabajador	n$n-m-sg$n-m	arg	treballador	n$n-m
-	spa	trabajo	n-m$n-m-sg$n	arg	treballo	n$n-m
+	spa	trabajo	n-m$n$n-m-sg	arg	treballo	n$n-m
 	spa	tracción	n$n-f$n-f-ND	arg	tracción	n$n-f
 	spa	tractor	n$n-m$n-m-ND	arg	tractor	n$n-m
 	spa	tradición	n-f$n$n-f-ND	arg	tradición	n$n-f
@@ -16280,8 +16280,8 @@ RL	spa	verano	n$n-m$n-m-sg	arg	estiu	n
 RL	spa	veterinario	n-GD	arg	albeitar	n-mf
 LR	spa	veterinario	n$n-m	arg	albeitar	n-mf
 LR	spa	veterinario	n-f	arg	albeitar	n-mf
-	spa	vez	n-f$n-f-ND$n	arg	vegada	n$n-f
-RL	spa	vez	n-f$n-f-ND$n	arg	vez	n$n-f
+	spa	vez	n-f$n$n-f-ND	arg	vegada	n$n-f
+RL	spa	vez	n-f$n$n-f-ND	arg	vez	n$n-f
 	spa	viabilidad	n$n-f-sg$n-f	arg	viabilidat	n$n-f
 	spa	viaje	n-m$n$n-m-sg	arg	viache	n$n-m
 	spa	vibración	n$n-f$n-f-ND	arg	vibración	n$n-f
@@ -16291,8 +16291,8 @@ RL	spa	vez	n-f$n-f-ND$n	arg	vez	n$n-f
 	spa	vicisitud	n$n-f$n-f-ND	arg	vicisitut	n$n-f
 	spa	victimización	n$n-f$n-f-sg	arg	victimización	n$n-f
 	spa	victoria	n$n-f$n-f-sg	arg	victoria	n$n-f
-	spa	vida	n$n-f$n-f-sg	arg	vida	n$n-f
-	spa	vida	n$n-f$n-f-sg	arg	vida	n$n-f
+	spa	vida	n-f$n$n-f-sg	arg	vida	n$n-f
+	spa	vida	n-f$n$n-f-sg	arg	vida	n$n-f
 	spa	vidente	n$n-mf	arg	vident	n$n-mf
 	spa	videoconferencia	n$n-f$n-f-sg	arg	videoconferencia	n$n-f
 	spa	videofrecuencia	n	arg	videofreqüencia	n$n-f
@@ -16425,11 +16425,11 @@ RL	spa	zorro	n-m$n	arg	raboso	n-m
 	spa	árbol	n-m$n$n-m-sg	arg	arbol	n$n-m
 RL	spa	árbol	n-m$n$n-m-sg	arg	abre	n$n-m
 	spa	área	n-f$n$n-f-sg	arg	aria	n$n-f
-	spa	época	n$n-f$n-f-ND	arg	epoca	n$n-f
+	spa	época	n-f$n$n-f-ND	arg	epoca	n$n-f
 	spa	étimo	n$n-m	arg	etimo	n$n-m
 	spa	éxito	n-m$n$n-m-sg	arg	exito	n$n-m
-	spa	ídolo	n-m$n$n-m-ND	arg	idolo	n$n-m
-RL	spa	ídolo	n-m$n$n-m-ND	arg	idola	n-f
+	spa	ídolo	n$n-m$n-m-ND	arg	idolo	n$n-m
+RL	spa	ídolo	n$n-m$n-m-ND	arg	idola	n-f
 	spa	índice	n$n-m$n-m-ND	arg	indiz	n$n-m
 	spa	óleo	n$n-m$n-m-ND	arg	olio	n-m
 	spa	óptica	n$n-f	arg	optica	n
@@ -16446,7 +16446,7 @@ RL	spa	ídolo	n-m$n$n-m-ND	arg	idola	n-f
 	spa	APA	np$np-al	arg	APA	np
 	spa	ASCII	np	arg	ASCII	np
 	spa	AVV	np$np-al	arg	AVV	np
-	spa	Aaron	np$np-ant$np-ant-m	arg	Aaron	np
+	spa	Aaron	np$np-ant	arg	Aaron	np
 	spa	Abad	np$np-cog$np-cog-mf	arg	Abad	np
 	spa	Abajas	np$np-loc-f	arg	Abajas	np
 	spa	Abanilla	np$np-loc-f	arg	Abanilla	np
@@ -16457,7 +16457,7 @@ RL	spa	ídolo	n-m$n$n-m-ND	arg	idola	n-f
 	spa	Abdel	np$np-ant	arg	Abdel	np
 	spa	Abdul	np$np-ant	arg	Abdul	np
 	spa	Abdullah	np-ant$np	arg	Abdullah	np
-	spa	Abel	np$np-ant$np-ant-m$np-ant-m-sg	arg	Abel	np
+	spa	Abel	np$np-ant$np-ant-m-sg	arg	Abel	np
 	spa	Abelardo	np$np-ant	arg	Abelardo	np
 	spa	Abella de la Conca	np$np-loc-f	arg	Abella de la Conca	np
 	spa	Abelleira	np	arg	Abelleira	np
@@ -16773,7 +16773,7 @@ LR	spa	Algar de Palància	np	arg	Algar de Palancia	np
 	spa	Alicante	np$np-loc-f$np-loc	arg	Alicant	np
 RL	spa	Alicante	np$np-loc-f$np-loc	arg	Alicante	np
 	spa	Alice	np-ant$np	arg	Alice	np
-	spa	Alicia	np$np-ant$np-ant-f$np-ant-f-sg	arg	Alicia	np
+	spa	Alicia	np$np-ant$np-ant-f-sg	arg	Alicia	np
 	spa	Alierta	np	arg	Alierta	np
 	spa	Alifonso	np	arg	Alifonso	np
 	spa	Alins	np$np-loc-f	arg	Alins	np
@@ -16892,8 +16892,8 @@ LR	spa	Almusafes	np	arg	Almussafes	np
 	spa	Amurrio	np$np-loc-f	arg	Amurrio	np
 	spa	Amèlia	np$np-ant	arg	Amèlia	np
 	spa	América	np$np-loc$np-loc-f	arg	America	np
-	spa	América Central	np-top-f$np$np-top	arg	América Central	np
-	spa	América del Norte	np$np-top-f$np-top	arg	América del Norte	np
+	spa	América Central	np-top-f$np	arg	América Central	np
+	spa	América del Norte	np-top-f$np	arg	América del Norte	np
 	spa	An-shan	np$np-loc	arg	An-shan	np
 	spa	Ana	np$np-ant$np-ant-f$np-ant-f-sg	arg	Ana	np
 	spa	Anabella	np	arg	Anabella	np
@@ -16920,7 +16920,7 @@ RL	spa	Andalucía	np$np-loc$np-loc-f	arg	Andalucía	np
 	spa	Andreu	np$np-ant	arg	Andreu	np
 	spa	Andrew	np$np-ant	arg	Andrew	np
 	spa	Andrino	np	arg	Andrino	np
-	spa	Andrés	np$np-ant$np-ant-m$np-ant-m-sg	arg	Andrés	np
+	spa	Andrés	np$np-ant$np-ant-m-sg	arg	Andrés	np
 	spa	Andy	np$np-ant	arg	Andy	np
 	spa	Aneas	np	arg	Aneas	np
 	spa	Angel	np-ant$np	arg	Angel	np
@@ -16986,7 +16986,7 @@ RL	spa	Andalucía	np$np-loc$np-loc-f	arg	Andalucía	np
 	spa	Aparisi	np	arg	Aparisi	np
 	spa	Apeninos	np$np-loc$np-loc-m	arg	Apeninos	np
 	spa	Apertium	np$np-al-m$np-al	arg	Apertium	np
-	spa	Apia	np$np-loc$np-loc-f	arg	Apia	np
+	spa	Apia	np$np-f$np-loc-f	arg	Apia	np
 	spa	Apolo	np$np-ant	arg	Apolo	np
 	spa	Apple	np$np-al$np-al-m	arg	Apple	np
 	spa	Aprilia	np	arg	Aprilia	np
@@ -17066,7 +17066,7 @@ RL	spa	Arañuel	np$np-loc$np-loc-f	arg	Arañuel	np
 	spa	Argelita	np$np-loc-f	arg	Argelita	np
 	spa	Argentaria	np$np-al-mf	arg	Argentaria	np
 	spa	Argente	np$np-loc-f	arg	Argente	np
-	spa	Argentina	np$np-top$np-top-f	arg	Archentina	np
+	spa	Argentina	np$np-top-f$np-top	arg	Archentina	np
 	spa	Argentona	np$np-loc-f	arg	Argentona	np
 	spa	Argençola	np$np-loc-f	arg	Argençola	np
 	spa	Argos	np$np-loc$np-loc-f	arg	Argos	np
@@ -17173,7 +17173,7 @@ RL	spa	Arañuel	np$np-loc$np-loc-f	arg	Arañuel	np
 	spa	Asepeyo	np	arg	Asepeyo	np
 	spa	Ashjabad	np	arg	Ashjabad	np
 	spa	Asia	np$np-loc$np-loc-f	arg	Asia	np$np-loc
-	spa	Asia	np-ant$np-ant-f-sg$np-ant-f	arg	Asia	np-ant
+	spa	Asia	np-ant$np-ant-f-sg	arg	Asia	np-ant
 	spa	Askorbe	np	arg	Askorbe	np
 	spa	Asmara	np$np-loc	arg	Asmara	np
 	spa	Asp	np$np-loc	arg	Asp	np
@@ -17212,7 +17212,7 @@ RL	spa	Arañuel	np$np-loc$np-loc-f	arg	Arañuel	np
 	spa	Audiovisual Sport	np	arg	Audiovisual Sport	np
 	spa	Audrey	np$np-ant	arg	Audrey	np
 	spa	Augsburgo	np$np-loc$np-loc-m	arg	Augsburgo	np
-	spa	Augusto	np$np-ant$np-ant-m	arg	Augusto	np
+	spa	Augusto	np$np-ant	arg	Augusto	np
 	spa	Aung	np$np-ant	arg	Aung	np
 	spa	Aura	np$np-ant	arg	Aura	np
 	spa	Aureli	np	arg	Aureli	np
@@ -17224,7 +17224,7 @@ RL	spa	Arañuel	np$np-loc$np-loc-f	arg	Arañuel	np
 	spa	Ausiàs	np	arg	Ausiàs	np
 	spa	Aussau	np$np-loc	arg	Aussau	np
 	spa	Austin	np$np-ant	arg	Austin	np
-	spa	Australia	np$np-top$np-top-f	arg	Australia	np
+	spa	Australia	np$np-loc$np-loc-f	arg	Australia	np
 	spa	Austria	np$np-loc$np-loc-f	arg	Austria	np
 	spa	Ausàs	np	arg	Ausàs	np
 	spa	Autan	np	arg	Autan	np
@@ -17421,7 +17421,7 @@ LR	spa	Azerbaiján	np$np-loc	arg	Azerbaichán	np
 	spa	Bartau	np	arg	Bartau	np
 	spa	Bartholomew	np	arg	Bartholomew	np
 	spa	Bartolo	np	arg	Bartolo	np
-	spa	Bartolomé	np$np-ant$np-ant-m	arg	Bartolomé	np
+	spa	Bartolomé	np$np-ant	arg	Bartolomé	np
 	spa	Bartomeu	np$np-ant	arg	Bartomeu	np
 	spa	Bartual	np	arg	Bartual	np
 	spa	Barx	np$np-loc-f	arg	Barx	np
@@ -17664,7 +17664,7 @@ LR	spa	Benimassot	np$np-loc-f	arg	Benimassot	np
 	spa	Bermúdez	np$np-cog	arg	Bermúdez	np
 	spa	Berna	np$np-loc$np-loc-f	arg	Berna	np
 	spa	Bernabeu	np$np-cog	arg	Bernabeu	np
-	spa	Bernabé	np$np-ant$np-ant-m	arg	Bernabé	np
+	spa	Bernabé	np$np-ant	arg	Bernabé	np
 	spa	Bernabéu	np$np-cog	arg	Bernabéu	np
 	spa	Bernad	np$np-cog	arg	Bernad	np
 	spa	Bernal	np$np-ant	arg	Bernal	np
@@ -18082,7 +18082,7 @@ LR	spa	Borredá	np	arg	Borredà	np
 	spa	Campà	np	arg	Campà	np
 	spa	Camós	np$np-cog	arg	Camós	np
 	spa	Can Tunis	np$np-loc	arg	Can Tunis	np
-	spa	Canadá	np$np-loc-m$np-loc	arg	Canadá	np
+	spa	Canadá	np$np-top-m$np-top	arg	Canadá	np
 	spa	Canal Nou	np$np-al	arg	Canal Nou	np
 	spa	Canal Plus	np$np-al	arg	Canal Plus	np
 	spa	Canales	np$np-cog	arg	Canales	np
@@ -18156,7 +18156,7 @@ LR	spa	Borredá	np	arg	Borredà	np
 	spa	Carlota	np$np-ant	arg	Carlota	np
 	spa	Carme	np$np-ant	arg	Carme	np
 	spa	Carmelo	np$np-ant	arg	Carmelo	np
-	spa	Carmen	np-ant$np$np-ant-f$np-ant-f-sg	arg	Carmen	np
+	spa	Carmen	np-ant$np$np-ant-f-sg	arg	Carmen	np
 	spa	Carmona	np$np-cog$np-cog-mf	arg	Carmona	np
 	spa	Carnes	np	arg	Carnes	np
 	spa	Carnestoltes	np	arg	Carnestoltes	np
@@ -18292,7 +18292,7 @@ LR	spa	Castilla-León	np$np-loc	arg	Castiella y Leyón	np
 	spa	Castro	np$np-ant	arg	Castro	np
 	spa	Catadau	np$np-loc-f	arg	Catadau	np
 	spa	Catair	np	arg	Catair	np
-	spa	Catalina	np$np-ant$np-ant-f	arg	Catalina	np
+	spa	Catalina	np-ant$np$np-ant-f	arg	Catalina	np
 	spa	Catalunya	np$np-loc-f$np-loc	arg	Catalunya	np
 	spa	Catalunya Ràdio	np$np-al	arg	Catalunya Ràdio	np
 	spa	Cataluña	np$np-loc$np-loc-f	arg	Cataluña	np
@@ -18479,8 +18479,8 @@ RL	spa	Cerdeña	np$np-loc$np-loc-f	arg	Cerdeña	np
 	spa	Clariana de Cardener	np$np-loc-f	arg	Clariana de Cardener	np
 	spa	Clarice	np$np-ant	arg	Clarice	np
 	spa	Claude	np$np-ant	arg	Claude	np
-	spa	Claudia	np$np-ant$np-ant-f$np-ant-f-sg	arg	Claudia	np
-	spa	Claudio	np-ant$np$np-ant-m	arg	Claudio	np
+	spa	Claudia	np$np-ant$np-ant-f-sg	arg	Claudia	np
+	spa	Claudio	np-ant$np	arg	Claudio	np
 	spa	Claus	np$np-ant	arg	Claus	np
 	spa	Clavel	np$np-cog	arg	Clavel	np
 	spa	Clavello	np	arg	Clavello	np
@@ -18527,7 +18527,7 @@ RL	spa	Cerdeña	np$np-loc$np-loc-f	arg	Cerdeña	np
 	spa	Colmenero	np$np-cog	arg	Colmenero	np
 	spa	Colom	np$np-cog$np-cog-mf	arg	Colom	np
 	spa	Coloma	np$np-cog$np-cog-mf	arg	Coloma	np
-	spa	Colombia	np$np-top$np-top-f	arg	Colombia	np
+	spa	Colombia	np$np-top-f$np-top	arg	Colombia	np
 	spa	Colombo	np$np-ant	arg	Colombo	np
 	spa	Colomer	np$np-cog$np-cog-mf	arg	Colomer	np
 	spa	Colomers	np$np-loc-f	arg	Colomers	np
@@ -18644,7 +18644,7 @@ RL	spa	Cerdeña	np$np-loc$np-loc-f	arg	Cerdeña	np
 	spa	Crespo	np$np-cog	arg	Crespo	np
 	spa	Crespí	np	arg	Crespí	np
 	spa	Crestian	np	arg	Crestian	np
-	spa	Creta	np$np-loc	arg	Creta	np
+	spa	Creta	np$np-m	arg	Creta	np
 	spa	Crevillent	np$np-loc-f	arg	Crevillent	np
 	spa	Crevillente	np	arg	Crevillente	np
 	spa	Cristian	np$np-ant	arg	Cristian	np
@@ -18665,7 +18665,7 @@ RL	spa	Cerdeña	np$np-loc$np-loc-f	arg	Cerdeña	np
 	spa	Cuartell	np	arg	Cuartell	np
 	spa	Cuatretonda	np	arg	Cuatretonda	np
 	spa	Cuatretondeta	np	arg	Cuatretondeta	np
-	spa	Cuba	np$np-top$np-top-f	arg	Cuba	np
+	spa	Cuba	np$np-loc$np-loc-f	arg	Cuba	np
 	spa	Cubelles	np$np-loc-f	arg	Cubelles	np
 	spa	Cubells	np$np-cog	arg	Cubells	np
 	spa	Cuenca	np$np-loc-f$np-loc	arg	Cuenca	np
@@ -18705,7 +18705,7 @@ RL	spa	Cerdeña	np$np-loc$np-loc-f	arg	Cerdeña	np
 	spa	Cáucaso	np-loc$np-loc-m$np	arg	Cáucaso	np
 	spa	Cèlia	np$np-ant	arg	Cèlia	np
 	spa	Cécilia	np$np-ant	arg	Cécilia	np
-	spa	César	np$np-ant$np-ant-m$np-ant-m-sg	arg	César	np$np-ant
+	spa	César	np$np-ant$np-ant-m-sg	arg	César	np$np-ant
 	spa	Córcega	np$np-loc$np-loc-f	arg	Córcega	np
 	spa	Córdoba	np$np-loc$np-loc-f	arg	Córdoba	np$np-cog
 	spa	Cúper	np	arg	Cúper	np
@@ -18732,7 +18732,7 @@ LR	spa	Daia Vieja	np	arg	Daya Viella	np
 	spa	Damián	np$np-ant	arg	Damián	np
 	spa	Damocles	np$np-ant	arg	Damocles	np
 	spa	Dani	np$np-ant	arg	Dani	np
-	spa	Daniel	np$np-ant$np-ant-m$np-ant-m-sg	arg	Daniel	np
+	spa	Daniel	np$np-ant$np-ant-m-sg	arg	Daniel	np
 	spa	Daniela	np$np-ant$np-ant-f-sg	arg	Daniela	np
 	spa	Danny	np$np-ant	arg	Danny	np
 	spa	Dante	np$np-ant	arg	Dante	np
@@ -18781,7 +18781,7 @@ LR	spa	Daia Vieja	np	arg	Daya Viella	np
 	spa	Dinamarca	np$np-loc$np-loc-f	arg	Dinamarca	np
 	spa	Dino	np$np-ant	arg	Dino	np
 	spa	Dionisia	np	arg	Dionisia	np
-	spa	Dionisio	np-ant$np$np-ant-m	arg	Dionisio	np
+	spa	Dionisio	np-ant$np	arg	Dionisio	np
 	spa	Dios	np$np-cog	arg	Dios	np
 	spa	Dirección de Kutxa	np	arg	Dirección de Kutxa	np
 	spa	Dirk	np	arg	Dirk	np
@@ -18950,7 +18950,7 @@ RL	spa	EE UU	np$np-loc	arg	E.U.A.	np
 	spa	Elisabeth	np$np-ant	arg	Elisabeth	np
 	spa	Elisardo	np	arg	Elisardo	np
 	spa	Elisenda	np$np-ant	arg	Elisenda	np
-	spa	Eliseo	np$np-ant$np-ant-m	arg	Eliseo	np
+	spa	Eliseo	np$np-ant	arg	Eliseo	np
 	spa	Eliseu	np	arg	Eliseu	np
 	spa	Elizabet	np	arg	Elizabet	np
 	spa	Elizabeth	np$np-ant	arg	Elizabeth	np
@@ -18967,7 +18967,7 @@ RL	spa	EE UU	np$np-loc	arg	E.U.A.	np
 	spa	Elvira	np$np-ant	arg	Elvira	np
 	spa	Elvis	np$np-ant	arg	Elvis	np
 	spa	Elx	np$np-loc$np-loc-f	arg	Elx	np
-	spa	Elías	np$np-ant$np-ant-m$np-ant-m-sg	arg	Elías	np
+	spa	Elías	np$np-ant$np-ant-m-sg	arg	Elías	np
 	spa	Elíseo	np$np-ant	arg	Elíseo	np
 	spa	Emila	np	arg	Emila	np
 	spa	Emili	np	arg	Emili	np
@@ -19052,8 +19052,8 @@ LR	spa	Erivan	np	arg	Ereván	np
 	spa	Eslida	np$np-loc-f	arg	Eslida	np
 	spa	Eslovaquia	np$np-loc$np-loc-f	arg	Eslovaquia	np
 	spa	Eslovenia	np$np-loc$np-loc-f	arg	Eslovenia	np
-	spa	Esmeralda	np$np-ant$np-ant-f$np-ant-f-sg	arg	Esmeralda	np
-	spa	Esmirna	np$np-top-m	arg	Esmirna	np
+	spa	Esmeralda	np$np-ant$np-ant-f-sg	arg	Esmeralda	np
+	spa	Esmirna	np$np-m	arg	Esmirna	np
 	spa	Esnarrizaga	np	arg	Esnarrizaga	np
 	spa	Espadaler	np	arg	Espadaler	np
 	spa	Espadella	np	arg	Espadella	np
@@ -19064,7 +19064,7 @@ LR	spa	Erivan	np	arg	Ereván	np
 	spa	Esparza	np$np-cog	arg	Esparza	np
 	spa	Espasa	np$np-cog	arg	Espasa	np
 	spa	Espasa Calpe	np$np-al-f	arg	Espasa Calpe	np
-	spa	España	np$np-top$np-top-f	arg	Espanya	np
+	spa	España	np$np-loc$np-loc-f	arg	Espanya	np
 	spa	Español	np$np-cog	arg	Español	np
 	spa	Esperanza	np$np-ant	arg	Esperanza	np
 	spa	Esperança	np	arg	Esperança	np
@@ -19103,7 +19103,7 @@ LR	spa	Erivan	np	arg	Ereván	np
 	spa	Estanislao	np$np-ant	arg	Estanislao	np
 	spa	Estaon	np	arg	Estaon	np
 	spa	Estaràs	np$np-loc-f	arg	Estaràs	np
-	spa	Esteban	np$np-ant$np-ant-m$np-ant-m-sg	arg	Esteban	np
+	spa	Esteban	np$np-ant$np-ant-m-sg	arg	Esteban	np
 	spa	Estefan	np$np-ant	arg	Estefan	np
 	spa	Estefanía	np$np-ant	arg	Estefanía	np
 	spa	Estela	np$np-ant	arg	Estela	np
@@ -19223,7 +19223,7 @@ LR	spa	Erivan	np	arg	Ereván	np
 	spa	Feliciana	np$np-ant	arg	Feliciana	np
 	spa	Feliciano	np$np-ant	arg	Feliciano	np
 	spa	Felip	np$np-ant	arg	Felip	np
-	spa	Felipe	np-ant$np$np-ant-m$np-ant-m-sg	arg	Felipe	np
+	spa	Felipe	np-ant$np$np-ant-m-sg	arg	Felipe	np
 	spa	Feliu	np$np-cog	arg	Feliu	np
 	spa	Fenollosa	np	arg	Fenollosa	np
 	spa	Fermina	np$np-ant	arg	Fermina	np
@@ -19376,9 +19376,9 @@ RL	spa	Fiyi	np$np-loc$np-loc-f	arg	Fidji	np
 RL	spa	Francia	np$np-top$np-top-f	arg	Franza	np
 	spa	Francia	np$np-top$np-top-f	arg	Francia	np
 	spa	Francina	np$np-ant	arg	Francina	np
-	spa	Francis	np-ant$np$np-ant-m	arg	Francis	np
+	spa	Francis	np-ant$np	arg	Francis	np
 	spa	Francisca	np$np-ant	arg	Francisca	np
-	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg	arg	Francisco	np
+	spa	Francisco	np-ant$np$np-ant-m-sg	arg	Francisco	np
 	spa	Franco	np$np-ant$np-ant-m	arg	Franco	np
 	spa	Frank	np$np-ant	arg	Frank	np
 	spa	Frankfurt	np$np-loc$np-loc-m	arg	Frankfurt	np
@@ -19428,7 +19428,7 @@ RL	spa	Francia	np$np-top$np-top-f	arg	Franza	np
 	spa	Fábregas	np$np-cog$np-cog-mf	arg	Fábregas	np
 	spa	Fátima	np$np-ant$np-ant-f-sg	arg	Fátima	np
 	spa	Fèlix	np$np-cog	arg	Fèlix	np
-	spa	Félix	np$np-ant$np-ant-m	arg	Félix	np
+	spa	Félix	np$np-ant	arg	Félix	np
 	spa	Fígols	np$np-loc-f	arg	Fígols	np
 	spa	Fígols Vell	np	arg	Fígols Vell	np
 	spa	Fígols d'Organyà	np	arg	Fígols d'Organyà	np
@@ -19446,7 +19446,7 @@ RL	spa	Francia	np$np-top$np-top-f	arg	Franza	np
 	spa	Gabino	np$np-ant	arg	Gabino	np
 	spa	Gabor	np	arg	Gabor	np
 	spa	Gaborone	np	arg	Gaborone	np
-	spa	Gabriel	np$np-ant$np-ant-m$np-ant-m-sg	arg	Gabriel	np
+	spa	Gabriel	np$np-ant$np-ant-m-sg	arg	Gabriel	np
 	spa	Gabriela	np$np-ant$np-ant-f-sg	arg	Gabriela	np
 	spa	Gaby	np	arg	Gaby	np
 	spa	Gabón	np$np-loc$np-loc-m	arg	Gabón	np
@@ -19540,7 +19540,7 @@ RL	spa	Francia	np$np-top$np-top-f	arg	Franza	np
 	spa	Gavet de la Conca	np$np-loc-f	arg	Gavet de la Conca	np
 	spa	Gavà	np$np-loc$np-loc-f	arg	Gavà	np
 	spa	Gayanes	np	arg	Gayanes	np
-	spa	Gaza	np$np-loc$np-loc-f	arg	Gaza	np
+	spa	Gaza	np$np-f$np-loc-f	arg	Gaza	np
 	spa	Gaztelumendi	np	arg	Gaztelumendi	np
 	spa	Gdansk	np-loc$np	arg	Gdansk	np
 	spa	Gea	np$np-ant	arg	Gea	np
@@ -19833,7 +19833,7 @@ RL	spa	Guernsey	np$np-top	arg	Guernsey	np
 	spa	Hereu	np$np-cog	arg	Hereu	np
 	spa	Hergueta	np	arg	Hergueta	np
 	spa	Hergé	np	arg	Hergé	np
-	spa	Hermes	np$np-ant$np-ant-m	arg	Hermes	np
+	spa	Hermes	np$np-ant	arg	Hermes	np
 	spa	Herminia	np$np-ant	arg	Herminia	np
 	spa	Hernandis	np	arg	Hernandis	np
 	spa	Hernando	np$np-ant	arg	Hernando	np
@@ -20005,7 +20005,7 @@ RL	spa	Hungría	np$np-loc$np-loc-f	arg	Hungría	np
 	spa	Irwin	np$np-cog	arg	Irwin	np
 	spa	Irán	np$np-loc$np-loc-m	arg	Irán	np
 	spa	Irún	np$np-loc	arg	Irún	np
-	spa	Isaac	np-ant$np$np-ant-m	arg	Isaac	np
+	spa	Isaac	np-ant$np	arg	Isaac	np
 	spa	Isabel	np$np-ant$np-ant-f-sg	arg	Isabel	np
 	spa	Isabella	np-ant$np$np-ant-f-sg	arg	Isabella	np
 	spa	Isabelle	np$np-ant	arg	Isabelle	np
@@ -20035,10 +20035,10 @@ RL	spa	Hungría	np$np-loc$np-loc-f	arg	Hungría	np
 	spa	Islas Marshall	np-loc$np$np-loc-f	arg	islas Marshall	np
 	spa	Islas Salomón	np$np-loc$np-loc-f	arg	islas Salomón	np
 	spa	Islas Turcas y Caicos	np$np-loc	arg	Islas Turcas y Caicos	np
-	spa	Ismael	np$np-ant$np-ant-m	arg	Ismael	np
+	spa	Ismael	np$np-ant	arg	Ismael	np
 	spa	Isona	np$np-ant	arg	Isona	np
 	spa	Isona i Conca Dellà	np$np-loc-f	arg	Isona i Conca Dellà	np
-	spa	Israel	np$np-ant$np-ant-m$np-ant-m-sg	arg	Israel	np
+	spa	Israel	np$np-ant$np-ant-m-sg	arg	Israel	np
 	spa	Isèra	np$np-loc	arg	Isèra	np
 	spa	Isòvol	np$np-loc-f	arg	Isòvol	np
 	spa	Itaca	np	arg	Itaca	np
@@ -20083,7 +20083,7 @@ LR	spa	JC	np	arg	Ch.C.	np
 	spa	Jafre	np$np-loc-f	arg	Jafre	np
 	spa	Jafre de Ter	np	arg	Jafre de Ter	np
 	spa	Jagger	np$np-ant	arg	Jagger	np
-	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg	arg	Jaime	np
+	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m	arg	Jaime	np
 	spa	Jakarta	np$np-loc	arg	Jakarta	np
 	spa	Jalabert	np	arg	Jalabert	np
 	spa	Jalance	np$np-loc-f	arg	Jalance	np
@@ -20095,7 +20095,7 @@ LR	spa	JC	np	arg	Ch.C.	np
 	spa	Jamiroquai	np	arg	Jamiroquai	np
 	spa	Jan	np$np-ant	arg	Jan	np
 	spa	Jan Mayen	np$np-loc	arg	Jan Mayen	np
-	spa	Jana	np$np-ant$np-ant-f	arg	Jana	np
+	spa	Jana	np$np-ant	arg	Jana	np
 	spa	Jane	np$np-ant	arg	Jane	np
 	spa	Janeiro	np$np-ant	arg	Janeiro	np
 	spa	Jané	np$np-cog	arg	Jané	np
@@ -20108,7 +20108,7 @@ RL	spa	Jasa	np$np-loc-f	arg	Jasa	np
 	spa	Jasa	np$np-loc-f	arg	Chasa	np
 	spa	Jasikevicius	np	arg	Jasikevicius	np
 	spa	Jason	np$np-ant	arg	Jason	np
-	spa	Jasón	np$np-ant-m	arg	Jasón	np
+	spa	Jasón	np$np-m	arg	Jasón	np
 	spa	Jaume	np$np-ant	arg	Jaume	np
 	spa	Javaloyas	np	arg	Javaloyas	np
 	spa	Javaloyes	np	arg	Javaloyes	np
@@ -20138,15 +20138,15 @@ LR	spa	Jerusalem	np$np-loc	arg	Cherusalem	np
 	spa	Jerusalén	np$np-loc$np-loc-m	arg	Cherusalem	np
 	spa	Jerónimo	np$np-ant	arg	Jerónimo	np
 	spa	Jessica	np$np-ant	arg	Jessica	np
-	spa	Jesucristo	np$np-ant$np-ant-m	arg	Jesucristo	np
+	spa	Jesucristo	np$np-ant	arg	Jesucristo	np
 	spa	Jesus	np$np-ant	arg	Jesus	np
-	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg	arg	Jesús	np
+	spa	Jesús	np$np-ant$np-ant-m-sg	arg	Jesús	np
 	spa	Jijona	np$np-loc-f	arg	Jijona	np
 	spa	Jim	np$np-ant	arg	Jim	np
 	spa	Jimmy	np$np-ant	arg	Jimmy	np
 	spa	Jiménez	np$np-cog$np-cog-mf	arg	Jiménez	np
 	spa	Jipet	np	arg	Jipet	np
-	spa	Joan	np$np-ant$np-ant-m	arg	Joan	np
+	spa	Joan	np$np-ant	arg	Joan	np
 	spa	Joan Lluís Vives	np	arg	Joan Lluís Vives	np
 	spa	Joana	np$np-ant	arg	Joana	np
 	spa	Joanchiquet	np	arg	Joanchiquet	np
@@ -20156,7 +20156,7 @@ LR	spa	Jerusalem	np$np-loc	arg	Cherusalem	np
 	spa	Joaquín	np$np-ant$np-ant-m-sg	arg	Joaquín	np
 	spa	Jobs	np$np-ant	arg	Jobs	np
 	spa	Joe	np$np-ant	arg	Joe	np
-	spa	Joel	np$np-ant$np-ant-m$np-ant-m-sg	arg	Joel	np
+	spa	Joel	np$np-ant$np-ant-m-sg	arg	Joel	np
 	spa	Johan	np$np-ant	arg	Johan	np
 	spa	Johannesburgo	np$np-loc$np-loc-m	arg	Johannesburgo	np
 	spa	Johansson	np$np-ant	arg	Johansson	np
@@ -20193,7 +20193,7 @@ LR	spa	Jerusalem	np$np-loc	arg	Cherusalem	np
 	spa	Joseph	np$np-ant	arg	Joseph	np
 	spa	Joshua	np$np-ant	arg	Joshua	np
 	spa	Josu	np$np-ant	arg	Josu	np
-	spa	Josué	np$np-ant$np-ant-m$np-ant-m-sg	arg	Josué	np
+	spa	Josué	np$np-ant$np-ant-m-sg	arg	Josué	np
 	spa	Josèp	np	arg	Josèp	np
 	spa	José	np$np-ant$np-ant-m$np-ant-m-sg	arg	José	np
 	spa	Jou	np$np-cog	arg	Jou	np
@@ -20206,12 +20206,12 @@ LR	spa	Jerusalem	np$np-loc	arg	Cherusalem	np
 	spa	Joèu	np$np-loc	arg	Joèu	np
 	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg	arg	Juan	np
 	spa	Juan Gil-Albert	np	arg	Juan Gil-Albert	np
-	spa	Juana	np-ant$np$np-ant-f	arg	Juana	np
+	spa	Juana	np-ant$np	arg	Juana	np
 	spa	Juande	np	arg	Juande	np
 	spa	Juanito	np$np-ant	arg	Juanito	np
 	spa	Juanma	np	arg	Juanma	np
-	spa	Judas	np-ant$np$np-ant-m	arg	Judas	np
-	spa	Judea	np$np-loc	arg	Chudea	np
+	spa	Judas	np-ant$np	arg	Judas	np
+	spa	Judea	np$np-m	arg	Chudea	np
 	spa	Judit	np$np-ant	arg	Judit	np
 	spa	Judith	np$np-ant	arg	Judith	np
 	spa	Juegos Olímpicos	np$np-al	arg	Chuegos Olimpicos	np
@@ -20221,7 +20221,7 @@ LR	spa	Jerusalem	np$np-loc	arg	Cherusalem	np
 	spa	Julen	np$np-ant	arg	Julen	np
 	spa	Jules	np$np-ant	arg	Jules	np
 	spa	Juli	np$np-ant	arg	Juli	np
-	spa	Julia	np$np-ant$np-ant-f$np-ant-f-sg	arg	Julia	np
+	spa	Julia	np$np-ant$np-ant-f-sg	arg	Julia	np
 	spa	Julian	np$np-ant	arg	Julian	np
 	spa	Juliana	np-ant$np$np-ant-f-sg	arg	Juliana	np
 	spa	Julieta	np$np-ant	arg	Julieta	np
@@ -20492,8 +20492,8 @@ LR	spa	Kazajstán	np$np-top	arg	Kazaquistán	np
 	spa	Libreville	np	arg	Libreville	np
 	spa	Librilla	np$np-loc-f	arg	Librilla	np
 	spa	Liceaga	np	arg	Liceaga	np
-	spa	Lidia	np$np-ant$np-ant-f	arg	Lidia	np$np-top
-	spa	Lidia	np$np-ant$np-ant-f	arg	Lídia	np
+	spa	Lidia	np$np-ant	arg	Lidia	np$np-top
+	spa	Lidia	np$np-ant	arg	Lídia	np
 	spa	Lieberman	np$np-cog$np-cog-mf	arg	Lieberman	np
 	spa	Liechtenstein	np$np-loc$np-loc-m	arg	Liechtenstein	np
 	spa	Lifante	np	arg	Lifante	np
@@ -20644,14 +20644,14 @@ LR	spa	Los Ángeles	np$np-loc$np-loc-m-pl$np-loc-m	arg	Los Angeles	np
 	spa	Loís	np	arg	Loís	np
 	spa	Luanda	np	arg	Luanda	np
 	spa	Luca	np$np-ant	arg	Luca	np$np-loc
-	spa	Lucas	np$np-ant$np-ant-m$np-ant-m-sg	arg	Lucas	np
+	spa	Lucas	np$np-ant$np-ant-m-sg	arg	Lucas	np
 	spa	Lucena del Cid	np$np-loc-f	arg	Lucena del Cid	np
 	spa	Luchente	np	arg	Luchente	np
 	spa	Lucia	np$np-ant	arg	Lucia	np
 	spa	Luciano	np$np-ant	arg	Luciano	np
 	spa	Lucie	np$np-ant	arg	Lucie	np
 	spa	Lucifer	np$np-ant	arg	Lucifer	np
-	spa	Lucio	np$np-ant$np-ant-m	arg	Lucio	np
+	spa	Lucio	np$np-ant	arg	Lucio	np
 	spa	Lucià	np	arg	Lucià	np
 	spa	Lucy	np$np-ant	arg	Lucy	np
 	spa	Lucía	np$np-ant$np-ant-f-sg	arg	Lucía	np
@@ -20685,7 +20685,7 @@ LR	spa	Los Ángeles	np$np-loc$np-loc-m-pl$np-loc-m	arg	Los Angeles	np
 	spa	Luís	np$np-ant	arg	Luís	np
 	spa	Lynch	np$np-cog$np-cog-mf	arg	Lynch	np
 	spa	Lyon	np$np-loc	arg	Lyon	np$np-cog
-	spa	Lázaro	np$np-ant$np-ant-m	arg	Lázaro	np
+	spa	Lázaro	np$np-ant	arg	Lázaro	np
 	spa	Lérida	np$np-ant	arg	Leida	np
 	spa	Lés	np	arg	Lés	np
 	spa	Líbano	np$np-loc$np-loc-m	arg	Líbano	np
@@ -20721,7 +20721,7 @@ RL	spa	Madrid	np$np-loc$np-loc-m	arg	Madrit	np-loc
 	spa	Maestre	np$np-cog	arg	Maestre	np
 	spa	Maestro	np$np-cog	arg	Maestro	np
 	spa	Magda	np$np-ant	arg	Magda	np
-	spa	Magdalena	np$np-ant$np-ant-f	arg	Magdalena	np
+	spa	Magdalena	np$np-ant	arg	Magdalena	np
 	spa	Magdeburgo	np	arg	Magdeburgo	np
 	spa	Maggie	np$np-ant	arg	Maggie	np
 	spa	Magreb	np$np-loc$np-loc-m	arg	Magreb	np
@@ -20869,7 +20869,7 @@ RL	spa	Madrid	np$np-loc$np-loc-m	arg	Madrit	np-loc
 	spa	Marsella	np$np-loc-f$np-loc	arg	Marsella	np
 	spa	Marselles	np	arg	Marselles	np
 	spa	Marshall	np$np-ant	arg	Marshall	np
-	spa	Marta	np$np-ant$np-ant-f	arg	Marta	np
+	spa	Marta	np$np-ant	arg	Marta	np
 	spa	Marte	np$np-al	arg	Marte	np
 	spa	Martha	np$np-ant	arg	Martha	np
 	spa	Martin	np$np-ant$np-ant-m	arg	Martin	np
@@ -20895,7 +20895,7 @@ RL	spa	Madrid	np$np-loc$np-loc-m	arg	Madrit	np-loc
 	spa	Marçà	np$np-loc-f	arg	Marçà	np
 	spa	Marés	np$np-cog	arg	Marés	np
 	spa	Marí	np$np-cog	arg	Marí	np
-	spa	María	np$np-ant$np-ant-f$np-ant-f-sg	arg	María	np
+	spa	María	np$np-ant$np-ant-f-sg$np-ant-f	arg	María	np
 	spa	Marías	np	arg	Marías	np
 	spa	Marín	np$np-cog$np-cog-mf	arg	Marín	np
 	spa	Mas	np$np-cog	arg	Mas	np
@@ -20935,7 +20935,7 @@ RL	spa	Madrid	np$np-loc$np-loc-m	arg	Madrit	np-loc
 	spa	Matarí	np	arg	Matarí	np
 	spa	Mataró	np$np-cog	arg	Mataró	np
 	spa	Matas	np$np-cog$np-cog-mf	arg	Matas	np
-	spa	Mateo	np$np-ant$np-ant-m$np-ant-m-sg	arg	Mateo	np
+	spa	Mateo	np$np-ant$np-ant-m-sg	arg	Mateo	np
 	spa	Mateos	np$np-cog$np-cog-mf	arg	Mateos	np
 	spa	Matet	np$np-loc-f	arg	Matet	np
 	spa	Mateu	np$np-cog	arg	Mateu	np
@@ -20946,7 +20946,7 @@ RL	spa	Madrid	np$np-loc$np-loc-m	arg	Madrit	np-loc
 	spa	Matthew	np$np-ant	arg	Matthew	np
 	spa	Mattia	np$np-ant	arg	Mattia	np
 	spa	Matutes	np	arg	Matutes	np
-	spa	Matías	np$np-ant$np-ant-m$np-ant-m-sg	arg	Matías	np
+	spa	Matías	np$np-ant$np-ant-m-sg	arg	Matías	np
 	spa	Maud	np	arg	Maud	np
 	spa	Maude	np$np-ant	arg	Maude	np
 	spa	Maulets	np	arg	Maulets	np
@@ -21141,7 +21141,7 @@ LR	spa	Misisipí	np$np-loc$np-loc-m	arg	Misisipi	np
 	spa	Mohammed	np$np-ant	arg	Mohammed	np
 	spa	Mohedano	np$np-cog	arg	Mohedano	np
 	spa	Mohedas	np	arg	Mohedas	np
-	spa	Moisés	np$np-ant$np-ant-m	arg	Moisés	np
+	spa	Moisés	np$np-ant	arg	Moisés	np
 	spa	Moixent	np$np-loc-f	arg	Moixent	np
 	spa	Moià	np$np-loc-f	arg	Moià	np
 	spa	Molas	np$np-cog	arg	Molas	np
@@ -21292,7 +21292,7 @@ LR	spa	Misisipí	np$np-loc$np-loc-m	arg	Misisipi	np
 	spa	Moraga	np$np-cog	arg	Moraga	np
 	spa	Moragues	np$np-cog	arg	Moragues	np
 	spa	Moral	np$np-cog	arg	Moral	np
-	spa	Morales	np$np-cog$np-cog-mf	arg	Morales	np
+	spa	Morales	np$np-cog-mf$np-cog	arg	Morales	np
 	spa	Morant	np$np-cog	arg	Morant	np
 	spa	Morata	np$np-cog	arg	Morata	np
 	spa	Moratalla	np$np-cog	arg	Moratalla	np
@@ -21463,7 +21463,7 @@ RL	spa	Nablús	np$np-loc	arg	Naplusa	np
 	spa	Nicholas	np$np-ant	arg	Nicholas	np
 	spa	Nick	np$np-ant	arg	Nick	np
 	spa	Nicky	np	arg	Nicky	np
-	spa	Nicolas	np$np-ant$np-ant-m	arg	Nicolas	np
+	spa	Nicolas	np$np-ant	arg	Nicolas	np
 	spa	Nicolau	np$np-ant	arg	Nicolau	np
 	spa	Nicole	np$np-ant	arg	Nicole	np
 	spa	Nicolàs	np$np-ant	arg	Nicolàs	np
@@ -21695,7 +21695,7 @@ RL	spa	Nablús	np$np-loc	arg	Naplusa	np
 	spa	Oxford	np$np-loc$np-loc-m	arg	Oxford	np
 	spa	PEC	np	arg	PEC	np
 	spa	PIMECAVA	np	arg	PIMECAVA	np
-	spa	Pablo	np-ant$np$np-ant-m$np-ant-m-sg	arg	Pablo	np
+	spa	Pablo	np-ant$np$np-ant-m-sg	arg	Pablo	np
 	spa	Pacheco	np$np-cog$np-cog-mf	arg	Pacheco	np
 	spa	Packard	np	arg	Packard	np
 	spa	Paco	np$np-cog	arg	Paco	np
@@ -21792,7 +21792,7 @@ RL	spa	Nablús	np$np-loc	arg	Naplusa	np
 	spa	Parets del Vallès	np$np-loc-f	arg	Parets del Vallès	np
 	spa	Paricio	np$np-cog	arg	Paricio	np
 	spa	Paris	np$np-ant	arg	Paris	np
-	spa	Parker	np$np-ant$np-ant-mf	arg	Parker	np
+	spa	Parker	np$np-ant	arg	Parker	np
 	spa	Parla	np$np-loc-f	arg	Parla	np
 	spa	Parlament	np	arg	Parlament	np
 	spa	Parlavà	np$np-loc-f	arg	Parlavà	np
@@ -21821,7 +21821,7 @@ RL	spa	Nablús	np$np-loc	arg	Naplusa	np
 	spa	Paulina	np-ant$np	arg	Paulina	np
 	spa	Pauling	np$np-ant	arg	Pauling	np
 	spa	Paulino	np$np-ant	arg	Paulino	np
-	spa	Paulo	np$np-ant$np-ant-m	arg	Paulo	np
+	spa	Paulo	np$np-ant	arg	Paulo	np
 	spa	Pavarotti	np	arg	Pavarotti	np
 	spa	Pavies	np	arg	Pavies	np
 	spa	Pavías	np$np-loc-f	arg	Pavías	np
@@ -21849,7 +21849,7 @@ RL	spa	Nablús	np$np-loc	arg	Naplusa	np
 	spa	Pedret	np$np-cog	arg	Pedret	np
 	spa	Pedret i Marzà	np$np-loc-f	arg	Pedret i Marzà	np
 	spa	Pedreño	np$np-cog	arg	Pedreño	np
-	spa	Pedro	np$np-ant$np-ant-m$np-ant-m-sg	arg	Pedro	np
+	spa	Pedro	np$np-ant$np-ant-m-sg	arg	Pedro	np
 	spa	Pedro Saputo	np	arg	Pedro Saputo	np
 	spa	Pedrosa	np$np-cog	arg	Pedrosa	np
 	spa	Pedrós	np$np-cog	arg	Pedrós	np
@@ -21954,7 +21954,7 @@ RL	spa	Nablús	np$np-loc	arg	Naplusa	np
 	spa	Pierre	np$np-ant	arg	Pierre	np
 	spa	Pietro	np-ant$np	arg	Pietro	np
 	spa	Piferrer	np$np-cog	arg	Piferrer	np
-	spa	Pilar	np$np-ant$np-ant-f	arg	Pilar	np
+	spa	Pilar	np$np-ant	arg	Pilar	np
 	spa	Pilar de la Horadada	np$np-loc-f	arg	Pilar de la Horadada	np
 	spa	Piles	np$np-loc-f	arg	Piles	np
 	spa	Pili	np$np-ant	arg	Pili	np
@@ -21985,11 +21985,11 @@ RL	spa	Nablús	np$np-loc	arg	Naplusa	np
 	spa	Pira	np$np-loc-f	arg	Pira	np
 	spa	Pirena	np	arg	Pirena	np
 	spa	Pires	np$np-cog	arg	Pires	np
-	spa	Pirineo	np-loc$np$np-loc-m-sg	arg	Pireneu	np
+	spa	Pirineo	np$np-loc$np-loc-m-sg	arg	Pireneu	np
 RL	spa	Pirineos	np$np-loc$np-loc-m$np-loc-m-pl	arg	Pirineos	np
 	spa	Pirineos	np$np-loc$np-loc-m$np-loc-m-pl	arg	Pireneus	np
 	spa	Pisa	np$np-cog	arg	Pisa	np
-	spa	Pisco	np$np-top-m	arg	Pisco	np
+	spa	Pisco	np$np-m	arg	Pisco	np
 	spa	Pitarch	np$np-cog	arg	Pitarch	np
 	spa	Pitcairn	np$np-loc	arg	Pitcairn	np
 	spa	Pitt	np$np-cog$np-cog-mf	arg	Pitt	np
@@ -22180,7 +22180,7 @@ RL	spa	Pirineos	np$np-loc$np-loc-m$np-loc-m-pl	arg	Pirineos	np
 	spa	Pèir	np	arg	Pèir	np
 	spa	Pèire	np	arg	Pèire	np
 	spa	Pérez	np$np-cog-mf$np-cog	arg	Pérez	np
-	spa	Pérgamo	np$np-top-m	arg	Pérgamo	np
+	spa	Pérgamo	np$np-m	arg	Pérgamo	np
 	spa	Pérsico	np	arg	Pérsico	np
 	spa	Pérsico	np	arg	Persico	adj
 	spa	Pío	np$np-ant	arg	Pío	np
@@ -22266,7 +22266,7 @@ RL	spa	Pirineos	np$np-loc$np-loc-m$np-loc-m-pl	arg	Pirineos	np
 	spa	Rangel	np$np-cog	arg	Rangel	np
 	spa	Rangún	np$np-loc	arg	Rangún	np
 	spa	Raphael	np$np-ant	arg	Raphael	np
-	spa	Raquel	np$np-ant$np-ant-f$np-ant-f-sg	arg	Raquel	np
+	spa	Raquel	np$np-ant$np-ant-f-sg	arg	Raquel	np
 	spa	Rashid	np$np-cog	arg	Rashid	np
 	spa	Rasmussen	np$np-cog	arg	Rasmussen	np
 	spa	Rasquera	np$np-loc-f	arg	Rasquera	np
@@ -22288,7 +22288,7 @@ RL	spa	Pirineos	np$np-loc$np-loc-m$np-loc-m-pl	arg	Pirineos	np
 	spa	Real de Gandía	np$np-loc-f	arg	Real de Gandía	np
 	spa	Real de Montroi	np$np-loc-f	arg	Real de Montroi	np
 	spa	Real de Montroy	np$np-loc	arg	Real de Montroy	np
-	spa	Rebeca	np$np-ant$np-ant-f	arg	Rebeca	np
+	spa	Rebeca	np$np-ant	arg	Rebeca	np
 	spa	Rebollar	np$np-loc-f	arg	Rebollar	np
 	spa	Recha	np	arg	Recha	np
 	spa	Reche	np$np-cog	arg	Reche	np
@@ -22538,7 +22538,7 @@ LR	spa	Ribagorça	np$np-loc	arg	Ribagorza	np
 	spa	Rubira	np$np-cog	arg	Rubira	np
 	spa	Rubió	np$np-cog	arg	Rubió	np
 	spa	Rubèn	np$np-ant	arg	Rubèn	np
-	spa	Rubén	np$np-ant$np-ant-m$np-ant-m-sg	arg	Rubén	np
+	spa	Rubén	np$np-ant$np-ant-m-sg	arg	Rubén	np
 	spa	Rubí	np$np-ant	arg	Rubí	np
 	spa	Ruda	np$np-loc	arg	Ruda	np
 	spa	Rudolf	np$np-ant	arg	Rudolf	np
@@ -22556,7 +22556,7 @@ LR	spa	Rumania	np$np-top-f$np-top	arg	Romanía	np
 	spa	Rupit	np	arg	Rupit	np
 	spa	Rupià	np$np-loc-f	arg	Rupià	np
 	spa	Ruscalleda	np$np-cog	arg	Ruscalleda	np
-	spa	Rusia	np$np-top$np-top-f	arg	Rusia	np
+	spa	Rusia	np$np-top-f$np-top	arg	Rusia	np
 	spa	Russell	np$np-ant	arg	Russell	np
 	spa	Ruth	np$np-ant	arg	Ruth	np
 	spa	Ruvira	np	arg	Ruvira	np
@@ -22636,7 +22636,7 @@ LR	spa	Rumania	np$np-top-f$np-top	arg	Romanía	np
 	spa	Sallent de Llobregat	np	arg	Sallent de Llobregat	np
 	spa	Salma	np-ant$np	arg	Salma	np
 	spa	Salom	np$np-cog	arg	Salom	np
-	spa	Salomé	np$np-ant$np-ant-f	arg	Salomé	np
+	spa	Salomé	np$np-ant	arg	Salomé	np
 	spa	Salomó	np$np-cog	arg	Salomón	np
 	spa	Salort	np	arg	Salort	np
 	spa	Salou	np$np-loc-f	arg	Salou	np
@@ -22677,7 +22677,7 @@ LR	spa	Rumania	np$np-top-f$np-top	arg	Romanía	np
 	spa	San Juan de Moró	np	arg	San Juan de Moró	np
 	spa	San Juan de Énova	np	arg	San Juan de Énova	np
 	spa	San Marino	np$np-top	arg	San Marino	np
-	spa	San Mateo	np$np-top-m	arg	San Mateo	np
+	spa	San Mateo	np$np-m	arg	San Mateo	np
 	spa	San Miguel	np$np-cog	arg	San Miguel	np
 	spa	San Miguel de Salinas	np$np-loc-f	arg	San Miguel de Salinas	np
 	spa	San Pedro	np$np-ant	arg	San Pedro	np
@@ -22913,7 +22913,7 @@ LR	spa	Rumania	np$np-top-f$np-top	arg	Romanía	np
 	spa	Sanz	np$np-cog$np-cog-mf	arg	Sanz	np
 	spa	Sapeira	np	arg	Sapeira	np
 	spa	Saquete	np	arg	Saquete	np
-	spa	Sara	np$np-ant$np-ant-f$np-ant-f-sg	arg	Sara	np
+	spa	Sara	np$np-ant$np-ant-f-sg	arg	Sara	np
 	spa	Sarabia	np$np-cog	arg	Sarabia	np
 	spa	Sarah	np$np-ant	arg	Sarah	np
 	spa	Sarajevo	np$np-loc$np-loc-f	arg	Sarajevo	np
@@ -23069,7 +23069,7 @@ LR	spa	Rumania	np$np-top-f$np-top	arg	Romanía	np
 	spa	Simone	np-ant$np	arg	Simone	np
 	spa	Simpson	np$np-cog$np-cog-mf	arg	Simpson	np
 	spa	Simó	np$np-cog	arg	Simó	np
-	spa	Simón	np$np-ant$np-ant-m$np-ant-m-sg	arg	Simón	np
+	spa	Simón	np$np-ant$np-ant-m-sg	arg	Simón	np
 	spa	Sinarcas	np$np-loc-f	arg	Sinarcas	np
 	spa	Sinarques	np	arg	Sinarques	np
 	spa	Sinaí	np$np-loc	arg	Sinaí	np
@@ -23174,7 +23174,7 @@ LR	spa	Rumania	np$np-top-f$np-top	arg	Romanía	np
 	spa	Sucaina	np	arg	Sucaina	np
 	spa	Such	np	arg	Such	np
 	spa	Sucre	np$np-loc-m	arg	Sucre	np
-	spa	Sudamérica	np$np-loc$np-loc-f	arg	Sudamérica	np
+	spa	Sudamérica	np$np-top-f	arg	Sudamérica	np
 	spa	Sudanell	np$np-loc-f	arg	Sudanell	np
 	spa	Sudeste	np	arg	Sudeste	np
 	spa	Sudáfrica	np$np-top-f$np-top	arg	Sudáfrica	np
@@ -23196,8 +23196,8 @@ LR	spa	Rumania	np$np-top-f$np-top	arg	Romanía	np
 	spa	Supercopa	np	arg	Supercopa	np
 	spa	Superman	np$np-ant	arg	Superman	np
 	spa	Sur	np	arg	Sud	np
-	spa	Suramérica	np$np-loc	arg	Suramérica	np
-	spa	Surinam	np-top-m$np$np-top	arg	Surinam	np
+	spa	Suramérica	np$np-top-f	arg	Suramérica	np
+	spa	Surinam	np-top-m$np	arg	Surinam	np
 	spa	Suroeste	np	arg	Sudueste	np
 	spa	Surp	np	arg	Surp	np
 	spa	Suráfrica	np-loc$np$np-loc-f	arg	Suráfrica	np
@@ -23240,7 +23240,7 @@ LR	spa	Rumania	np$np-top-f$np-top	arg	Romanía	np
 	spa	Tabernero	np$np-cog	arg	Tabernero	np
 	spa	Tabernes Blanques	np	arg	Tabernes Blanques	np
 	spa	Tabernes de Valldigna	np	arg	Tabernes de Valldigna	np
-	spa	Tadeo	np$np-ant$np-ant-m	arg	Tadeo	np
+	spa	Tadeo	np$np-ant	arg	Tadeo	np
 	spa	Tagamanent	np$np-loc-f	arg	Tagamanent	np
 	spa	Tailandia	np$np-loc-f$np-loc	arg	Tailandia	np
 	spa	Taillac	np	arg	Taillac	np
@@ -23331,7 +23331,7 @@ LR	spa	Rumania	np$np-top-f$np-top	arg	Romanía	np
 	spa	Teodora	np$np-ant	arg	Teodora	np
 	spa	Teodoro	np$np-ant	arg	Teodoro	np
 	spa	Tere	np$np-ant	arg	Tere	np
-	spa	Teresa	np$np-ant$np-ant-f	arg	Teresa	np
+	spa	Teresa	np$np-ant	arg	Teresa	np
 	spa	Teresa de Cofrentes	np$np-loc-f	arg	Teresa de Cofrentes	np
 	spa	Teresa de Cofrents	np	arg	Teresa de Cofrents	np
 	spa	Tereseta	np	arg	Tereseta	np
@@ -23348,13 +23348,13 @@ LR	spa	Rumania	np$np-top-f$np-top	arg	Romanía	np
 	spa	Terricabras	np$np-cog	arg	Terricabras	np
 	spa	Terry	np$np-ant	arg	Terry	np
 	spa	Teruel	np$np-loc$np-loc-f	arg	Teruel	np
-	spa	Tesalónica	np$np-loc	arg	Tesalónica	np
+	spa	Tesalónica	np$np-m	arg	Tesalónica	np
 	spa	Teseo	np	arg	Teseo	np
 	spa	Tesoro	np	arg	Tesoro	np
 	spa	Teulada	np$np-loc-f	arg	Teulada	np
 	spa	Texas	np$np-loc-m$np-loc	arg	Texas	np
 	spa	Teófila	np$np-ant	arg	Teófila	np
-	spa	Teófilo	np$np-ant$np-ant-m	arg	Teófilo	np
+	spa	Teófilo	np$np-ant	arg	Teófilo	np
 	spa	Thames	np	arg	Thames	np
 	spa	The Guardian	np	arg	The Guardian	np
 	spa	The New York Times	np$np-al-m	arg	The New York Times	np
@@ -23411,7 +23411,7 @@ RL	spa	Tokyo	np$np-loc$np-loc-m	arg	Tokyo	np
 	spa	Tomas	np$np-ant	arg	Tomas	np
 	spa	Tommy	np$np-ant	arg	Tommy	np
 	spa	Tomàs	np$np-ant	arg	Tomàs	np
-	spa	Tomás	np$np-ant$np-ant-m$np-ant-m-sg	arg	Tomás	np
+	spa	Tomás	np$np-ant$np-ant-m-sg	arg	Tomás	np
 	spa	Tona	np$np-loc-f	arg	Tona	np
 	spa	Tonda	np	arg	Tonda	np
 	spa	Tonga	np$np-loc$np-loc-f	arg	Tonga	np
@@ -23613,7 +23613,7 @@ RL	spa	Ucrania	np$np-loc$np-loc-f	arg	Ucrania	np
 	spa	Uriol	np	arg	Uriol	np
 	spa	Urkullu	np$np-ant	arg	Urkullu	np
 	spa	Urtx	np	arg	Urtx	np
-	spa	Uruguay	np$np-top$np-top-m	arg	Uruguai	np
+	spa	Uruguay	np$np-loc$np-loc-m	arg	Uruguai	np
 	spa	Uría	np$np-cog	arg	Uría	np
 	spa	Urús	np$np-loc-f	arg	Urús	np
 	spa	Useras	np$np-loc-f	arg	Useras	np
@@ -23715,7 +23715,7 @@ LR	spa	València	np$np-cog	arg	Valencia	np
 	spa	Vega Baja	np	arg	Vega Baja	np
 	spa	Vegara	np	arg	Vegara	np
 	spa	Veiga	np$np-cog	arg	Veiga	np
-	spa	Velasco	np$np-cog$np-cog-mf	arg	Velasco	np
+	spa	Velasco	np$np-cog-mf$np-cog	arg	Velasco	np
 	spa	Velay	np$np-loc	arg	Velay	np
 	spa	Velázquez	np$np-cog$np-cog-mf	arg	Velázquez	np
 LR	spa	Vendrell	np$np-loc	arg	Vendrell	np
@@ -23726,7 +23726,7 @@ LR	spa	Vendrell	np$np-loc	arg	Vendrell	np
 	spa	Ventalló	np$np-loc-f	arg	Ventalló	np
 	spa	Ventura	np$np-ant	arg	Ventura	np
 	spa	Ventós	np	arg	Ventós	np
-	spa	Venus	np$np-ant	arg	Venus	np
+	spa	Venus	np$np-top-m	arg	Venus	np
 	spa	Vera	np$np-ant	arg	Vera	np
 	spa	Veracruz	np$np-loc-f	arg	Veracruz	np
 	spa	Vercher	np	arg	Vercher	np
@@ -24113,7 +24113,7 @@ LR	spa	Villarreal	np$np-cog	arg	Villarreyal	np
 	spa	cabo de la Nao	np$np-loc	arg	cabo d'a Nau	np
 	spa	cabo de las Huertas	np$np-loc	arg	cabo de l'Horta	np
 	spa	casadellibro.com	np$np-al-m	arg	casadellibro.com	np
-	spa	Centroamérica	np$np-top$np-top-f	arg	Centroamerica	np
+	spa	Centroamérica	np$np-top-f	arg	Centroamerica	np
 	spa	da Silva	np$np-cog	arg	da Silva	np
 	spa	don Juan	np	arg	don Juan	np
 	spa	don Juan Tenorio	np	arg	don Juan Tenorio	np
@@ -24494,8 +24494,8 @@ RL	spa	Álava	np$np-loc$np-loc-m	arg	Álava	np
 	spa	XX	num	arg	XX	num
 	spa	XXI	num	arg	XXI	num
 	spa	catorce	num$$num-mf$num-mf-sp	arg	catorce	num
-	spa	cero	num$num-mf$num-mf-sp	arg	zero	num
-	spa	cien	num$num-mf$num-mf-sp$	arg	cient	num$num-mf-sp
+	spa	cero	num$num-mf-sp$num-mf	arg	zero	num
+	spa	cien	num$num-mf-sp$num-mf$	arg	cient	num$num-mf-sp
 	spa	cinco	num$num-mf-sp$	arg	cinco	num
 	spa	cincuenta	num$$num-mf	arg	cinquanta	num
 	spa	cincuenta y cinco	num$$num-mf	arg	cinquanta y cinco	num
@@ -24523,7 +24523,7 @@ RL	spa	Álava	np$np-loc$np-loc-m	arg	Álava	np
 	spa	dieciocho	num$num-mf-sp$$num-mf	arg	deciueito	num
 	spa	diecisiete	num$$num-mf$num-mf-sp	arg	decisiet	num
 	spa	dieciséis	num$$num-mf$num-mf-sp	arg	deciséis	num
-	spa	diez	num$num-mf$$num-mf-sp	arg	diez	num
+	spa	diez	num$num-mf$num-mf-sp$	arg	diez	num
 	spa	doce	num$num-mf-pl$$num-mf	arg	dotze	num
 	spa	dos	num$num-mf$num-mf-sp$	arg	dos	num-mf$num
 	spa	doscientos	num$$num-mf	arg	docientos	num
@@ -24597,7 +24597,7 @@ RL	spa	mil trescientos	num$num-GD	arg	tretzecientos	num
 	spa	treinta y siete	num$$num-mf	arg	trenta y siet	num
 	spa	treinta y tres	num$$num-mf	arg	trenta y tres	num
 	spa	treinta y uno	num$$num-m	arg	trenta y un	num
-	spa	tres	num$$num-mf-sp	arg	tres	num
+	spa	tres	num$num-mf-sp$	arg	tres	num
 	spa	trescientos	num$$num-mf	arg	trecientos	num
 	spa	uno	num$num-m-sp$num-m	arg	un	num
 	spa	veinte	num$$num-mf$num-mf-sp	arg	vinte	num
@@ -24877,15 +24877,15 @@ RL	spa	alguien	prn-tn-mf$prn-tn-mf-sg	arg	qualcún	prn-tn-mf-sg
 RL	spa	alguno	prn-tn-f-sg	arg	algún	prn-tn-f-sg
 RL	spa	alguno	prn-tn-m-sg	arg	algún	prn-tn-m-sg
 RL	spa	alguno	prn-tn-f-pl$prn-tn-f	arg	algún	prn-tn-f-pl
-RL	spa	alguno	prn$prn-tn-m-pl$prn-tn$prn-tn-m	arg	algún	prn-tn-m-pl
+RL	spa	alguno	prn-tn-m-pl$prn-tn-m	arg	algún	prn-tn-m-pl
 	spa	alguno	prn-tn-f-sg	arg	belún	prn-tn-f-sg
 	spa	alguno	prn-tn-m-sg	arg	belún	prn-tn-m-sg
 	spa	alguno	prn-tn-f-pl$prn-tn-f	arg	belún	prn-tn-f-pl
-	spa	alguno	prn$prn-tn-m-pl$prn-tn$prn-tn-m	arg	belún	prn-tn-m-pl
+	spa	alguno	prn-tn-m-pl$prn-tn-m	arg	belún	prn-tn-m-pl
 RL	spa	alguno	prn-tn-f-sg	arg	qualcún	prn-tn-f-sg
 RL	spa	alguno	prn-tn-m-sg	arg	qualcún	prn-tn-m-sg
 RL	spa	alguno	prn-tn-f-pl$prn-tn-f	arg	qualcún	prn-tn-f-pl
-RL	spa	alguno	prn$prn-tn-m-pl$prn-tn$prn-tn-m	arg	qualcún	prn-tn-m-pl
+RL	spa	alguno	prn-tn-m-pl$prn-tn-m	arg	qualcún	prn-tn-m-pl
 	spa	algún otro	prn-tn	arg	belatro	prn$prn-tn
 LR	spa	ambas	prn$prn-tn-f$prn-tn	arg	totz dos	prn$prn-tn
 LR	spa	ambos	prn$prn-tn$prn-tn-m$prn-tn-m-pl	arg	totz dos	prn$prn-tn
@@ -24895,18 +24895,18 @@ LR	spa	aquello	prn$prn-tn$prn-tn-m-sp	arg	ixo	prn-tn$prn-tn-nt
 RL	spa	aquello	prn$prn-tn$prn-tn-m-sp	arg	aquello	prn-tn$prn-tn-nt
 LR	spa	aquél	prn$prn-tn$prn-tn-m	arg	aquell	prn
 LR	spa	cada cual	prn-tn-mf$prn-tn-mf-sg	arg	cadagún	prn-tn-GD-sg
-	spa	cada uno	prn$prn-tn-m$prn-tn-m-sg	arg	cadagún	prn$prn-tn-m-sg
+	spa	cada uno	prn$prn-tn-GD-sg	arg	cadagún	prn$prn-tn-m-sg
 	spa	conmigo	prn$prn-tn	arg	con yo	prn
 LR	spa	consigo	prn$prn-tn$prn-tn-p3-mf-sp	arg	con ell	prn-tn-p3-GD-ND
 LR	spa	consigo mismo	prn$prn-tn-p3	arg	con ell mesmo	prn-tn-p3
 	spa	contigo	prn$prn-tn	arg	con tu	prn
 RL	spa	cualquiera	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn	arg	qualsequiera	prn-tn-mf-sp
-LR	spa	cualquiera	prn-tn-mf-sg	arg	qualsequiera	prn-tn-mf-sp
+LR	spa	cualquiera	prn-tn-mf-sg$prn-mf	arg	qualsequiera	prn-tn-mf-sp
 LR	spa	cualquiera	prn-tn-mf-pl	arg	qualsequiera	prn-tn-mf-sp
 LR	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-itg	arg	quál	prn-itg-GD
 RL	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-itg	arg	quál	prn-itg-f
 RL	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-itg	arg	quál	prn-itg-m
-	spa	cuánto	prn$prn-itg-m$prn-itg$prn-itg-m-sg	arg	quánto	prn
+	spa	cuánto	prn$prn-itg$prn-itg-m$prn-itg-m-sg	arg	quánto	prn
 RL	spa	el mío	prn$prn-pos-GD$prn-pos$prn-pos-GD-ND	arg	o mío	prn
 RL	spa	el nuestro	prn$prn-pos-GD$prn-pos$prn-pos-GD-ND	arg	o nuestro	prn
 RL	spa	el suyo	prn$prn-tn$prn-tn-pos$prn-tn-pos-GD	arg	o suyo	prn
@@ -24914,8 +24914,8 @@ RL	spa	el tuyo	prn$prn-pos-GD	arg	o tuyo	prn
 RL	spa	el vuestro	prn$prn-pos-GD$prn-pos$prn-pos-GD-ND	arg	o vuestro	prn
 LR	spa	ello	prn-tn-p3-nt$prn$prn-tn-nt$prn-tn	arg	ixo	prn-tn$prn-tn-nt
 	spa	ese	prn$prn-tn-m$prn-tn	arg	ixe	prn
-	spa	eso	prn$prn-tn-nt$prn-tn	arg	ixo	prn-tn-p3
-RL	spa	eso	prn$prn-tn-nt$prn-tn	arg	ixo	prn-tn$prn-tn-nt
+	spa	eso	prn$prn-tn$prn-tn-nt	arg	ixo	prn-tn-p3
+RL	spa	eso	prn$prn-tn$prn-tn-nt	arg	ixo	prn-tn$prn-tn-nt
 	spa	este	prn$prn-tn-m$prn-tn$prn-tn-m-sg	arg	este	prn
 	spa	esto	prn$prn-tn$prn-tn-nt	arg	esto	prn-tn-p3
 RL	spa	esto	prn$prn-tn$prn-tn-nt	arg	esto	prn-tn-nt$prn-tn
@@ -24934,13 +24934,13 @@ RL	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg	arg	hu	prn-pro-p3-nt
 RL	spa	lo	prn-enc-p3-nt$prn-enc	arg	hue	prn-enc-p3-nt
 RL	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg	arg	hue	prn-pro-p3-nt
 	spa	lo demás	prn$prn-tn-nt-sg	arg	o de demás	prn-tn-nt-sg
-	spa	los demás	prn-tn$prn$prn-tn-GD-pl	arg	os de demás	prn-tn
+	spa	los demás	prn$prn-tn$prn-tn-GD-pl	arg	os de demás	prn-tn
 	spa	los dos	prn$prn-tn-m	arg	totz dos	prn$prn-tn
 	spa	me	prn-pro$prn$prn-pro-p1-mf$prn-pro-p1-mf-sg	arg	me	prn-pro
 	spa	me	prn-enc$prn-enc-p1-mf$prn-enc-p1-mf-sg	arg	me	prn-enc
 	spa	mucho	prn-tn$prn-tn-m-sg$prn	arg	muito	prn
 	spa	muchos	prn$prn-tn-m$prn-tn-m-pl	arg	muitos	prn
-LR	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn	arg	yo	prn-tn$prn
+LR	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf	arg	yo	prn-tn$prn
 	spa	nada	prn-tn-nt$prn$prn-tn	arg	cosa	prn-tn-nt
 RL	spa	nada	prn-tn-nt$prn$prn-tn	arg	res	prn-tn-nt
 RL	spa	nada	prn-tn-nt$prn$prn-tn	arg	no res	prn-tn-nt
@@ -24960,7 +24960,7 @@ RL	spa	ninguno	prn-tn$prn$prn-tn-GD-sg$prn-tn-GD	arg	cap	prn-tn-mf-sg
 RL	spa	ninguno	prn-tn$prn$prn-tn-GD-sg$prn-tn-GD	arg	dengún	prn-tn-mf-sg$prn-tn
 	spa	nos	prn-pro$prn$prn-pro-p1-mf-pl	arg	nos	prn-pro
 	spa	nos	prn-enc$prn-enc-p1-mf-pl	arg	nos	prn-enc
-	spa	nosotros	prn-tn-p1-GD$prn-tn$prn-tn-p1-GD-pl$prn	arg	nusatros	prn-tn$prn-tn-p1-GD
+	spa	nosotros	prn-tn-p1-GD$prn-tn-p1-GD-pl$prn-tn$prn	arg	nusatros	prn-tn$prn-tn-p1-GD
 	spa	os	prn-pro$prn-pro-p2-mf-pl$prn-pro-p2	arg	tos	prn-pro
 	spa	os	prn$prn-enc$prn-enc-p2-mf-pl	arg	tos	prn-enc
 	spa	otro	prn$prn-tn$prn-tn-m-sg$prn-tn-m	arg	unatro	prn-tn-m-sg
@@ -24983,7 +24983,7 @@ LR	spa	quienquiera	prn-tn-mf-sg$prn$prn-tn	arg	quiquiera	prn-tn-mf-sp
 LR	spa	quienquiera	prn-tn-mf-pl	arg	quiquiera	prn-tn-mf-sp
 RL	spa	quién	prn-itg-mf-ND	arg	quí	prn-itg-mf-sp$prn-itg-mf
 LR	spa	quién	prn-itg-mf-pl	arg	quí	prn-itg-mf-sp$prn-itg-mf
-LR	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg	arg	quí	prn-itg-mf-sp$prn-itg-mf
+LR	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg	arg	quí	prn-itg-mf-sp$prn-itg-mf
 	spa	qué	prn$prn-itg$prn-itg-mf-sg$prn-itg-mf	arg	qué	prn$prn-itg
 	spa	se	prn-enc-ref-p3-mf-sp$prn$prn-enc$prn-enc-ref	arg	se	prn-enc-ref$prn-enc-ref-p3-mf-sp
 RL	spa	se	prn-enc-ref-p3-mf-sp$prn$prn-enc$prn-enc-ref	arg	se	prn-enc-ref-p3-mf-sg
@@ -24992,7 +24992,7 @@ RL	spa	se	prn-enc-ref-p3-mf-sp$prn$prn-enc$prn-enc-ref	arg	se	prn-enc-ref-p3-mf-
 LR	spa	sí	prn-tn$prn$prn-tn-ref-p3-mf-sp	arg	ell	prn-tn$prn-tn-p3-GD-ND
 	spa	te	prn-pro$prn$prn-pro-p2-mf-sg	arg	te	prn-pro
 	spa	te	prn-enc$prn-enc-p2-mf$prn-enc-p2-mf-sg	arg	te	prn-enc
-LR	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn	arg	tu	prn-tn$prn
+LR	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf	arg	tu	prn-tn$prn
 	spa	todas juntas	prn	arg	todas chuntas	prn
 	spa	todo	prn$prn-tn$prn-tn-m$prn-tn-m-sg	arg	tot	prn$prn-tn-m-pl
 LR	spa	todo el mundo	prn$prn-tn-m-sg$prn-tn-m	arg	tot	prn$prn-tn-m-pl
@@ -25000,7 +25000,7 @@ LR	spa	todo el mundo	prn$prn-tn-m-sg$prn-tn-m	arg	tot	prn$prn-tn-m-pl
 	spa	todo y nada	prn	arg	tot y cosa	prn
 	spa	todos juntos	prn	arg	totz chuntos	prn
 	spa	tú	prn$prn-tn$prn-tn-p2-mf$prn-tn-p2-mf-sg	arg	tu	prn-tn$prn
-	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg	arg	un	prn
+	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg	arg	un	prn
 	spa	uno y otro	prn	arg	la uno y l'atro	prn
 	spa	usted	prn-tn-p3-mf-pl$prn-tn$prn$prn-tn-p3$prn-tn-p3-mf	arg	vusté	prn$prn-tn
 RL	spa	usted	prn-tn-p3-mf-ND	arg	vos	prn$prn-tn-p2-mf-pl
@@ -25016,7 +25016,7 @@ RL	spa	yo de él	prn$prn-tn	arg	yo que ell	prn$prn-tn
 	spa	él	prn$prn-tn$prn-tn-p3-m-pl$prn-tn-p3-m$prn-tn-m	arg	ell	prn-tn$prn-tn-p3-GD-ND
 LR	spa	ése	prn$prn-tn-m$prn-tn	arg	ixe	prn
 LR	spa	éste	prn$prn-tn-m$prn-tn	arg	este	prn
-LR	spa	adonde	rel$rel-adv	arg	an	rel
+LR	spa	adonde	rel-adv$rel	arg	an	rel
 	spa	como	rel-adv$rel	arg	como	rel-adv$rel
 RL	spa	cual	rel-an-mf$rel-an	arg	qual	rel-an-m
 RL	spa	cual	rel-an-mf$rel-an	arg	qual	rel-an-f
@@ -25034,13 +25034,13 @@ RL	spa	en cuanto	rel	arg	en que	rel
 LR	spa	lo cual	rel$rel-an-nt	arg	o qual	rel$rel-an-m-sg
 LR	spa	lo que	rel-an-nt$rel$rel-an	arg	o que	rel$rel-an-m-sg
 	spa	que	rel$rel-an$rel-an-mf-sp	arg	que	rel
-RL	spa	quien	rel-nn-mf-pl	arg	o que	rel-nn-f-pl
+RL	spa	quien	rel-nn-mf-pl$rel-mf	arg	o que	rel-nn-f-pl
 RL	spa	quien	rel-nn-mf-sg$rel-nn	arg	o que	rel-nn-f-sg
-RL	spa	quien	rel-nn-mf-pl	arg	o que	rel-nn-m-pl
+RL	spa	quien	rel-nn-mf-pl$rel-mf	arg	o que	rel-nn-m-pl
 RL	spa	quien	rel-nn-mf-sg$rel-nn	arg	o que	rel-nn-m-sg
 RL	spa	quien	rel-nn-mf-ND	arg	qui	rel-nn-mf-sp
 LR	spa	quien	rel-nn-mf-sg$rel-nn	arg	qui	rel-nn-mf-sp
-LR	spa	quien	rel-nn-mf-pl	arg	qui	rel-nn-mf-sp
+LR	spa	quien	rel-nn-mf-pl$rel-mf	arg	qui	rel-nn-mf-sp
 LR	spa	abalizar	vblex	arg	abalizar	vblex
 	spa	abanderar	vblex	arg	abanderar	vblex
 	spa	abandonar	vblex	arg	abandonar	vblex
@@ -25099,7 +25099,7 @@ RL	spa	aclarar	vblex	arg	esclarir	vblex
 	spa	acontecer	vblex	arg	escayeixer	vblex
 RL	spa	acontecer	vblex	arg	escayir	vblex
 	spa	acoplar	vblex	arg	acoplar	vblex
-	spa	acordar	vblex	arg	alcordar	vblex
+	spa	acordar	vblex$vblex-pron	arg	alcordar	vblex
 	spa	acortar	vblex	arg	alcorzar	vblex
 RL	spa	acostar	vblex	arg	acostar	vblex
 LR	spa	acostar	vblex	arg	chitar	vblex
@@ -25582,7 +25582,7 @@ RL	spa	concurrir	vblex	arg	concurrir	vblex
 	spa	convencer	vblex	arg	convencer	vblex
 	spa	convenir	vblex	arg	convenir	vblex
 	spa	conversar	vblex	arg	conversar	vblex
-	spa	convertir	vblex	arg	convertir	vblex
+	spa	convertir	vblex$vblex-pron	arg	convertir	vblex
 LR	spa	convidar	vblex	arg	convidar	vblex
 	spa	convivir	vblex$	arg	convivir	vblex
 	spa	convocar	vblex	arg	convocar	vblex
@@ -26162,7 +26162,7 @@ RL	spa	firmar	vblex	arg	firmar	vblex
 	spa	fregar	vblex	arg	fregar	vblex
 	spa	fregar	vblex	arg	fregar	vblex
 	spa	frenar	vblex	arg	frenar	vblex
-	spa	freír	vblex	arg	freyir	vblex
+	spa	freír	vblex$vblex-pron	arg	freyir	vblex
 	spa	frotar	vblex	arg	estregar	vblex
 	spa	fructificar	vblex	arg	fructificar	vblex
 	spa	fruncir	vblex	arg	fruncir	vblex
@@ -26466,7 +26466,7 @@ RL	spa	morder	vblex	arg	morder	vblex
 	spa	morir	vblex	arg	morir	vblex
 	spa	mortificar	vblex	arg	mortificar	vblex
 LR	spa	mostrar	vblex	arg	amostrar	vblex
-	spa	mover	vblex	arg	mover	vblex
+	spa	mover	vblex$vblex-pron	arg	mover	vblex
 	spa	mudar	vblex	arg	mudar	vblex
 	spa	mugir	vblex	arg	gramar	vblex
 	spa	multar	vblex	arg	pinyorar	vblex
@@ -26549,7 +26549,7 @@ RL	spa	pagar	vblex	arg	caixar	vblex
 RL	spa	pagar	vblex	arg	apoquinar	vblex
 	spa	parar	vblex	arg	aturar	vblex
 	spa	parcelar	vblex	arg	parcelar	vblex
-	spa	parecer	vblex$	arg	pareixer	vblex
+	spa	parecer	vblex$$vblex-pron	arg	pareixer	vblex
 	spa	parir	vblex	arg	parir	vblex
 	spa	parpadear	vblex	arg	parpaguiar	vblex
 	spa	participar	vblex	arg	participar	vblex
@@ -26560,9 +26560,9 @@ RL	spa	pasar	vblex	arg	pansir	vblex
 	spa	pecar	vblex	arg	pecar	vblex
 	spa	pedalear	vblex	arg	pedaliar	vblex
 	spa	pedir	vblex	arg	pedir	vblex
-RL	spa	pegar	vblex	arg	foter	vblex
-	spa	pegar	vblex	arg	apegar	vblex
-RL	spa	pegar	vblex	arg	pegar	vblex
+RL	spa	pegar	vblex$vblex-pron	arg	foter	vblex
+	spa	pegar	vblex$vblex-pron	arg	apegar	vblex
+RL	spa	pegar	vblex$vblex-pron	arg	pegar	vblex
 	spa	pelar	vblex	arg	pelar	vblex
 	spa	pelear	vblex	arg	peliar	vblex
 	spa	penetrar	vblex	arg	penetrar	vblex
@@ -26847,8 +26847,8 @@ RL	spa	respirar	vblex	arg	respirar	vblex
 	spa	retraer	vblex	arg	retrayer	vblex
 	spa	retrasar	vblex	arg	retardar	vblex
 	spa	retratar	vblex	arg	retratar	vblex
-	spa	reunir	vblex	arg	complegar	vblex
-	spa	reunir	vblex	arg	reunir	vblex
+	spa	reunir	vblex$vblex-pron	arg	complegar	vblex
+	spa	reunir	vblex$vblex-pron	arg	reunir	vblex
 	spa	revalidar	vblex	arg	revalidar	vblex
 	spa	revelar	vblex	arg	revelar	vblex
 	spa	revertir	vblex	arg	revertir	vblex
@@ -27121,8 +27121,8 @@ RL	spa	vaciar	vblex	arg	vaciar	vblex
 	spa	vivir	vblex	arg	vivir	vblex
 	spa	volar	vblex	arg	volar	vblex
 	spa	volcar	vblex	arg	vulcar	vblex
-RL	spa	volver	vblex	arg	volver	vblex
-	spa	volver	vblex	arg	tornar	vblex
+RL	spa	volver	vblex$vblex-pron	arg	volver	vblex
+	spa	volver	vblex$vblex-pron	arg	tornar	vblex
 	spa	vomitar	vblex	arg	vomecar	vblex
 	spa	votar	vblex	arg	votar	vblex
 	spa	yacer	vblex	arg	chacer	vblex

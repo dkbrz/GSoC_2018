@@ -312,9 +312,9 @@
 	ces	sto	num-qnt$num-qnt-mf	rus	сто	num$num-mfn-sg$num-mfn-sg-nom
 	ces	takže	cnjadv	rus	поэтому	adv
 	ces	tisíc	n-mi	rus	тысяча	num$num-f-nn$num-f-nn-sg-nom
-	ces	univerzita	n-f	rus	университет	n-m-nn$n$n-m
+	ces	univerzita	n-f$n	rus	университет	n-m-nn$n$n-m
 	ces	ústava	n-f	rus	конституция	n-f-nn$n-f$n
-	ces	kočka	n-f	rus	кошка	n-f-aa
+	ces	kočka	n-f$n	rus	кошка	n-f-aa
 	ces	region	n-mi	rus	регион	n-m-nn$m$n-m
 	ces	generál	n-ma	rus	генерал	n-m-nn
 	ces	absence	n-f	rus	отсутствие	n-nt-nn
@@ -337,18 +337,18 @@
 	ces	bezpečnost	n-f	rus	безопасность	n-f-nn$n-f
 	ces	bod	n-mi	rus	очко	n-nt-nn$n$n-nt-nn-pl
 	ces	bohatství	n-mi	rus	богатство	n-nt-nn$n$n-nt
-	ces	bolest	n-f	rus	боль	n-f-nn$n
+	ces	bolest	n-f$n	rus	боль	n-f-nn$n
 	ces	budoucnost	n-f	rus	будущее	n-nt-nn$n-nt$n
 	ces	budovatel	n-ma	rus	строитель	n-m-aa
 	ces	budova	n-f	rus	здание	n-nt-nn$n$n-nt
 	ces	byt	n-mi	rus	квартира	n-f-nn$n$n-f
-	ces	část	n-f	rus	деталь	n-f-nn$n
-	ces	část	n-f	rus	доля	n-f-nn$n
-	ces	část	n-f	rus	часть	n-f-nn$n$n-f
-	ces	čas	n-mi	rus	время	n-nt-nn$nt$n-nt
+	ces	část	n-f$n	rus	деталь	n-f-nn$n
+	ces	část	n-f$n	rus	доля	n-f-nn$n
+	ces	část	n-f$n	rus	часть	n-f-nn$n$n-f
+	ces	čas	n-mi$n	rus	время	n-nt-nn$nt$n-nt
 	ces	cena	n-f$n	rus	значение	n-nt-nn$n
 	ces	centimetr	n-mi	rus	сантиметр	n-m-nn$n
-	ces	centrum	n-nt	rus	центр	n-m-nn$n$n-m
+	ces	centrum	n-nt$n	rus	центр	n-m-nn$n$n-m
 	ces	charakter	n-mi	rus	природа	n-f-nn$n$n-f
 	ces	charakter	n-mi	rus	характер	n-m-nn$n$n-m
 	ces	choroba	n-f	rus	заболевание	n-nt-nn
@@ -358,20 +358,20 @@
 	ces	činnost	n-f	rus	деятельность	n-f-nn
 	ces	čin	n-mi	rus	действие	n-nt-nn$n
 	ces	císařství	n-mi	rus	империя	n-f-nn$n$n-f
-	ces	číslo	n-nt	rus	величина	n-f-nn$n
-	ces	číslo	n-nt	rus	номер	n-m-nn$n
-	ces	číslo	n-nt	rus	цифра	n-f-nn$n
+	ces	číslo	n-nt$n	rus	величина	n-f-nn$n
+	ces	číslo	n-nt$n	rus	номер	n-m-nn$n
+	ces	číslo	n-nt$n	rus	цифра	n-f-nn$n
 	ces	cit	n-mi	rus	чувство	n-nt-nn$n$n-nt
-	ces	čtvrtek	n-mi	rus	четверг	n-m-nn$n-m$n
-	ces	datum	n-mi	rus	дата	n-f-nn$n$n-f
+	ces	čtvrtek	n-mi$n	rus	четверг	n-m-nn$n-m$n
+	ces	datum	n-mi$n	rus	дата	n-f-nn$n$n-f
 	ces	definice	n-f	rus	определение	n-nt-nn$n
 	ces	děj	n-mi	rus	событие	n-nt-nn$n
 	ces	dělostřelectvo	n-nt	rus	артиллерия	n-f-nn$n
 	ces	detail	n-mi	rus	деталь	n-f-nn$n
 	ces	dětství	n-mi	rus	детство	n-nt-nn$n
 	ces	dispozice	n-f	rus	распоряжение	n-nt-nn$n
-	ces	dítě	n-nt	rus	младенец	n-m-aa$n
-	ces	dítě	n-nt	rus	ребёнок	n-m-aa$n$n-m
+	ces	dítě	n-nt$n	rus	младенец	n-m-aa$n
+	ces	dítě	n-nt$n	rus	ребёнок	n-m-aa$n$n-m
 	ces	divadlo	n-nt	rus	театр	n-m-nn$n$n-m
 	ces	doba	n-f	rus	время	n-nt-nn$nt$n-nt
 	ces	dohoda	n-f	rus	соглашение	n-nt-nn$n$n-nt
@@ -379,12 +379,12 @@
 	ces	dokument	n-mi	rus	документ	n-m-nn$n-m$n
 	ces	dopad	n-mi	rus	воздействие	n-nt-nn$n
 	ces	dopad	n-mi	rus	последствие	n-nt-nn$n
-	ces	dopis	n-mi	rus	письмо	n-nt-nn$n$n-nt
+	ces	dopis	n-mi$n	rus	письмо	n-nt-nn$n$n-nt
 	ces	doprava	n-f	rus	движение	n-nt-nn$n$n-nt
 	ces	dotaz	n-mi	rus	вопрос	n-m-nn$n-m$n
 	ces	drát	n-mi	rus	проволока	n-f-nn$n
 	ces	drobnost	n-f	rus	мелочь	n-f-nn$n
-	ces	družstvo	n-nt	rus	команда	n-f-nn$n$n-f
+	ces	družstvo	n-nt$n	rus	команда	n-f-nn$n$n-f
 	ces	důkaz	n-mi	rus	доказательство	n-nt-nn$n$n-nt
 	ces	důvěra	n-f	rus	доверие	n-nt-nn$n$n-nt
 	ces	důvod	n-mi	rus	основание	n-nt-nn$n$n-nt
@@ -397,7 +397,7 @@
 	ces	existence	n-f	rus	существование	n-nt-nn$n
 	ces	experiment	n-mi	rus	эксперимент	n-m-nn$n
 	ces	faktor	n-mi	rus	фактор	n-m-aa$n
-	ces	fakt	n-mi	rus	факт	n-m-nn$n-m$n
+	ces	fakt	n-mi$n	rus	факт	n-m-nn$n-m$n
 	ces	fantazie	n-f	rus	воображение	n-nt-nn$n
 	ces	fantazie	n-f	rus	фантазия	n-f-nn$n
 	ces	film	n-mi	rus	кино	n-nt-aa
@@ -405,15 +405,15 @@
 	ces	generace	n-f	rus	поколение	n-nt-nn$n
 	ces	gesto	n-nt	rus	жест	n-m-nn$n
 	ces	granát	n-mi	rus	граната	n-f-nn$n$n-f
-	ces	hlava	n-f	rus	голова	n-f-nn$n-f$n
+	ces	hlava	n-f$n	rus	голова	n-f-nn$n-f$n
 	ces	heslo	n-nt	rus	лозунг	n-m-nn$n
 	ces	historie	n-f	rus	история	n-f-nn$n$n-f
 	ces	hloupost	n-f	rus	глупость	n-f-nn$n
-	ces	hmota	n-f	rus	вещество	n-nt-nn$n
+	ces	hmota	n-f$n	rus	вещество	n-nt-nn$n
 	ces	hmotnost	n-f	rus	вес	n-m-nn$n$n-m-nn-pl
 	ces	hmotnost	n-f	rus	масса	n-f-nn$n$n-f$n-f-nn-sg
 	ces	hnutí	n-mi	rus	движение	n-nt-nn$n$n-nt
-	ces	hodnota	n-f	rus	значение	n-nt-nn$n
+	ces	hodnota	n-f$n	rus	значение	n-nt-nn$n
 	ces	horizont	n-mi	rus	горизонт	n-m-nn$n
 	ces	hořkost	n-f	rus	горечь	n-f-nn$n
 	ces	hospodářství	n-mi	rus	хозяйство	n-nt-nn
@@ -425,32 +425,32 @@
 	ces	instalace	n-f	rus	система	n-f-nn$n$n-f
 	ces	instalace	n-f	rus	установка	n-f-nn$n
 	ces	instinkt	n-mi	rus	инстинкт	n-m-nn$n
-	ces	instituce	n-f	rus	заведение	n-nt-nn$n
-	ces	instituce	n-f	rus	институт	n-m-nn$n$n-m
+	ces	instituce	n-f$n	rus	заведение	n-nt-nn$n
+	ces	instituce	n-f$n	rus	институт	n-m-nn$n$n-m
 	ces	instrukce	n-f	rus	инструкция	n-f-nn$n$n-f
 	ces	instrument	n-mi	rus	инструмент	n-m-nn$n$n-m-nn-sg
 	ces	interview	n-mi	rus	беседа	n-f-nn$n
 	ces	interview	n-mi	rus	интервью	n-nt-aa
-	ces	inzerát	n-mi	rus	объявление	n-nt-nn$n
-	ces	jablko	n-nt	rus	яблоко	n-nt-nn$n
+	ces	inzerát	n-mi$n	rus	объявление	n-nt-nn$n
+	ces	jablko	n-nt$n	rus	яблоко	n-nt-nn$n
 	ces	jaro	n-nt$n	rus	весна	n-f-nn$n$n-f
 	ces	jev	n-mi	rus	событие	n-nt-nn$n
 	ces	jev	n-mi	rus	явление	n-nt-nn$n
-	ces	jezero	n-nt	rus	озеро	n-nt-nn$n$n-nt
-	ces	jméno	n-nt	rus	имя	n-nt-nn$n$n-nt
+	ces	jezero	n-nt$n	rus	озеро	n-nt-nn$n$n-nt
+	ces	jméno	n-nt$n	rus	имя	n-nt-nn$n$n-nt
 	ces	kabinet	n-mi	rus	кабинет	n-m-nn$n
-	ces	kancelář	n-f	rus	бюро	n-nt-aa
+	ces	kancelář	n-f$n	rus	бюро	n-nt-aa
 	ces	kapitál	n-mi	rus	капитал	n-m-nn$n$n-m
 	ces	kategorie	n-f	rus	категория	n-f-nn$n
-	ces	káva	n-f	rus	кофе	n-m-aa
+	ces	káva	n-f$n	rus	кофе	n-m-aa
 	ces	kilometr	n-mi	rus	километр	n-m-nn$n$n-m
 	ces	klad	n-mi	rus	достоинство	n-nt-nn$n
 	ces	klášter	n-mi	rus	монастырь	n-m-nn$n$n-m
 	ces	klid	n-mi	rus	спокойствие	n-nt-nn$n
 	ces	kluk	n-ma	rus	мальчик	n-m-aa$n
 	ces	koeficient	n-mi	rus	показатель	n-m-nn$n
-	ces	kolo	n-nt$n	rus	велосипед	n-m-nn$n
-	ces	koncert	n-mi	rus	концерт	n-m-nn$n$n-m
+	ces	kolo	n-nt	rus	велосипед	n-m-nn$n
+	ces	koncert	n-mi$n	rus	концерт	n-m-nn$n$n-m
 	ces	konflikt	n-mi	rus	конфликт	n-m-nn$n$n-m
 	ces	konstrukce	n-f	rus	конструкция	n-f-nn$n$n-f
 	ces	kontakt	n-mi	rus	контакт	n-m-nn$n
@@ -467,20 +467,20 @@
 	ces	kost	n-f	rus	кость	n-f-nn$n-f
 	ces	kredit	n-mi	rus	кредит	n-f-nn
 	ces	křídlo	n-nt	rus	крыло	n-nt-nn$n-nt
-	ces	krk	n-mi	rus	горло	n-nt-nn$n
+	ces	krk	n-mi$n	rus	горло	n-nt-nn$n
 	ces	kulomet	n-mi	rus	пулемет	n-m-nn
 	ces	kvalita	n-f	rus	качество	n-nt-nn$n$n-nt
 	ces	kvantita	n-f	rus	количество	n-nt-nn$n
-	ces	květen	n-mi	rus	май	n-m-nn$n-m-nn-sg$n-m$n
+	ces	květen	n-mi$n	rus	май	n-m-nn$n-m-nn-sg$n-m$n
 	ces	laboratoř	n-f	rus	лаборатория	n-f-nn$n$n-f
 	ces	látka	n-f	rus	вещество	n-nt-nn$n
 	ces	léčivo	n-nt	rus	лекарство	n-nt-nn$n$n-nt
-	ces	lék	n-mi	rus	лекарство	n-nt-nn$n$n-nt
+	ces	lék	n-mi$n	rus	лекарство	n-nt-nn$n$n-nt
 	ces	letectvo	n-nt	rus	авиация	n-f-nn$n-f$n
-	ces	léto	n-nt	rus	лето	n-nt-nn$n$n-nt
+	ces	léto	n-nt$n	rus	лето	n-nt-nn$n$n-nt
 	ces	lidi	n-ma-pl$n-pl	rus	люди	n-pl-aa
 	ces	lidstvo	n-nt	rus	человечество	n-nt-nn$n
-	ces	listopad	n-mi	rus	ноябрь	n-m-nn$n-m$n
+	ces	listopad	n-mi$n	rus	ноябрь	n-m-nn$n-m$n
 	ces	list	n-mi	rus	газета	n-f-nn$n$n-f
 	ces	lokalita	n-f	rus	место	n-nt-nn$n$n-nt
 	ces	lůžko	n-nt	rus	кровать	n-f-nn
@@ -494,49 +494,49 @@
 	ces	medicína	n-f	rus	лекарство	n-nt-nn$n$n-nt
 	ces	medikament	n-mi	rus	лекарство	n-nt-nn$n$n-nt
 	ces	médium	n-nt	rus	среда	n-f-nn$n$n-f
-	ces	město	n-nt	rus	город	n-m-nn$n-m$n
+	ces	město	n-nt$n	rus	город	n-m-nn$n-m$n
 	ces	metropole	n-f	rus	столица	n-f-nn$n$n-f
 	ces	metr	n-mi	rus	метр	n-m-nn$n$n-m
 	ces	ministerstvo	n-nt	rus	министерство	n-nt-nn$n$n-nt
-	ces	místnost	n-f	rus	комната	n-f-nn$n
-	ces	místo	n-nt	rus	взамен	pr
-	ces	místo	n-nt	rus	вместо	pr
-	ces	místo	n-nt	rus	работа	n-f-nn$n$n-f
+	ces	místnost	n-f$n	rus	комната	n-f-nn$n
+	ces	místo	n-nt$n	rus	взамен	pr
+	ces	místo	n-nt$n	rus	вместо	pr
+	ces	místo	n-nt$n	rus	работа	n-f-nn$n$n-f
 	ces	mládí	n-mi	rus	молодость	n-f-nn$n
 	ces	mléko	n-nt	rus	молоко	n-nt-nn$n
 	ces	moment	n-mi	rus	момент	n-m-nn$n$n-m
 	ces	moře	n-nt	rus	море	n-nt-nn$n$n-nt
 	ces	most	n-mi	rus	мост	n-m-nn$n$n-m
-	ces	motiv	n-mi	rus	мотив	n-m-nn$n
+	ces	motiv	n-mi$n	rus	мотив	n-m-nn$n
 	ces	motocykl	n-mi	rus	мотоцикл	n-m-nn$n
 	ces	motor	n-mi	rus	двигатель	n-m-nn$n
 	ces	moudrost	n-f	rus	мудрость	n-f-nn$n$n-f
 	ces	možnost	n-f	rus	возможность	n-f-nn$n
-	ces	mrak	n-mi	rus	облако	n-nt-nn$n$n-nt
+	ces	mrak	n-mi$n	rus	облако	n-nt-nn$n$n-nt
 	ces	muzeum	n-nt	rus	музей	n-m-nn$n$n-m
-	ces	mýdlo	n-nt	rus	мыло	n-nt-nn$n
+	ces	mýdlo	n-nt$n	rus	мыло	n-nt-nn$n
 	ces	nabídka	n-f	rus	предложение	n-nt-nn$n$n-nt
 	ces	náboženství	n-nt	rus	вера	n-f-nn$n
 	ces	náboženství	n-nt	rus	религия	n-f-nn$n$n-f
-	ces	nábytek	n-mi	rus	мебель	n-f-nn$n
+	ces	nábytek	n-mi$n	rus	мебель	n-f-nn$n
 	ces	nádraží	n-mi	rus	вокзал	n-m-nn$n
 	ces	nakladatelství	n-mi	rus	издательство	n-nt-nn$n-nt
-	ces	nálada	n-f	rus	настроение	n-nt-nn$n
+	ces	nálada	n-f$n	rus	настроение	n-nt-nn$n
 	ces	nález	n-mi	rus	заключение	n-nt-nn$n
-	ces	náměstí	n-mi	rus	площадь	n-f-nn$n$n-f
+	ces	náměstí	n-mi$n	rus	площадь	n-f-nn$n$n-f
 	ces	námořnictvo	n-nt	rus	флот	n-m-nn$n
 	ces	napětí	n-mi	rus	напряжение	n-nt-nn$n
 	ces	národnost	n-f	rus	национальность	n-f-nn$n
 	ces	nárůst	n-mi	rus	повышение	n-nt-nn
 	ces	nárůst	n-mi	rus	увеличение	n-nt-nn
 	ces	následek	n-mi	rus	последствие	n-nt-nn$n
-	ces	nástroj	n-mi	rus	инструмент	n-m-nn$n$n-m-nn-sg
+	ces	nástroj	n-mi$n	rus	инструмент	n-m-nn$n$n-m-nn-sg
 	ces	nátlak	n-mi	rus	давление	n-nt-nn$n$n-nt
-	ces	název	n-mi	rus	имя	n-nt-nn$n$n-nt
-	ces	název	n-mi	rus	название	n-nt-nn$n
+	ces	název	n-mi$n	rus	имя	n-nt-nn$n$n-nt
+	ces	název	n-mi$n	rus	название	n-nt-nn$n
 	ces	nebezpečí	n-mi	rus	опасность	n-f-nn$n
-	ces	nebe	n-nt$n-nt-sg	rus	небо	n-nt-nn$n$n-nt
-	ces	neděle	n-f	rus	воскресенье	n-nt-nn$n
+	ces	nebe	n-nt$n-nt-sg$n	rus	небо	n-nt-nn$n$n-nt
+	ces	neděle	n-f$n	rus	воскресенье	n-nt-nn$n
 	ces	nedostatek	n-mi	rus	недостаток	n-m-nn$n
 	ces	neštěstí	n-nt	rus	беда	n-f-nn
 	ces	nominace	n-f	rus	назначение	n-nt-nn$n
@@ -550,12 +550,12 @@
 	ces	objev	n-mi	rus	открытие	n-nt-nn$n-nt
 	ces	oblast	n-f	rus	зона	n-f-nn$n$n-f
 	ces	oblast	n-f	rus	область	n-f-nn$n$n-f
-	ces	obličej	n-mi	rus	лицо	n-nt-nn$n$n-nt
+	ces	obličej	n-mi$n	rus	лицо	n-nt-nn$n$n-nt
 	ces	obnova	n-f	rus	восстановление	n-nt-nn$n
 	ces	obrat	n-mi	rus	оборот	n-m-nn$n
 	ces	obrat	n-mi	rus	перемена	n-f-nn
 	ces	obrat	n-mi	rus	поворот	n-m-nn
-	ces	obraz	n-mi	rus	изображение	n-nt-nn$n
+	ces	obraz	n-mi$n	rus	изображение	n-nt-nn$n
 	ces	obtížnost	n-f	rus	трудность	n-f-nn$n$n-f-nn-pl
 	ces	obtíž	n-f	rus	трудность	n-f-nn$n$n-f-nn-pl
 	ces	obyvatelstvo	n-nt	rus	население	n-nt-nn$n-nt$n
@@ -570,35 +570,35 @@
 	ces	ohled	n-mi	rus	внимание	n-nt-nn$n-nt$n
 	ces	ohnisko	n-nt	rus	очаг	n-m-nn$n
 	ces	ohnisko	n-nt	rus	центр	n-m-nn$n$n-m
-	ces	okamžik	n-mi	rus	мгновение	n-nt-nn$n
-	ces	okno	n-nt	rus	окно	n-nt-nn$n
+	ces	okamžik	n-mi$n	rus	мгновение	n-nt-nn$n
+	ces	okno	n-nt$n	rus	окно	n-nt-nn$n
 	ces	okolí	n-mi	rus	окружение	n-nt-nn$n
 	ces	okolnost	n-f	rus	обстоятельство	n-nt-nn$n
-	ces	oko	n-nt	rus	глаз	n-m-nn$n$n-m
+	ces	oko	n-nt$n	rus	глаз	n-m-nn$n$n-m
 	ces	olej	n-mi	rus	масло	n-nt-nn$n
 	ces	operace	n-f	rus	действие	n-nt-nn$n
 	ces	odpověď	n-mi	rus	ответ	n-m-nn$n$n-m
 	ces	orchestr	n-mi	rus	оркестр	n-m-nn$n
 	ces	organizace	n-f	rus	общество	n-nt-nn$n$n-nt
 	ces	orgán	n-mi	rus	ведомство	n-nt-nn$n
-	ces	osoba	n-f	rus	лицо	n-nt-nn$n$n-nt
+	ces	osoba	n-f$n	rus	лицо	n-nt-nn$n$n-nt
 	ces	osobnost	n-f	rus	деятель	n-m-aa
 	ces	osobnost	n-f	rus	личность	n-f-nn$n$n-f
 	ces	ostrov	n-mi	rus	остров	n-m-nn$n-m$n
 	ces	otvor	n-mi	rus	отверстие	n-nt-nn$n
 	ces	ovzduší	n-mi	rus	воздух	n-m-nn$n$n-m
 	ces	pachatel	n-ma	rus	преступник	n-m-aa
-	ces	pád	n-mi	rus	падение	n-nt-nn$n
+	ces	pád	n-mi$n	rus	падение	n-nt-nn$n
 	ces	pakt	n-mi	rus	договор	n-m-nn$n$n-m
 	ces	palivo	n-nt	rus	топливо	n-nt-nn$n$n-nt
 	ces	památník	n-mi	rus	памятник	n-m-nn$n
 	ces	parlament	n-mi	rus	парламент	n-m-nn$n-m$n
-	ces	pátek	n-mi	rus	пятница	n-f-nn$n$n-f
-	ces	peří	n-mi	rus	перо	n-nt-nn$n$n-nt
+	ces	pátek	n-mi$n	rus	пятница	n-f-nn$n$n-f
+	ces	peří	n-mi$n	rus	перо	n-nt-nn$n$n-nt
 	ces	pěst	n-f	rus	кулак	n-m-aa
 	ces	pevnost	n-f	rus	крепость	n-f-nn$n-f
-	ces	písmeno	n-nt	rus	буква	n-f-nn$n$n-f
-	ces	pivo	n-nt	rus	пиво	n-nt-nn$n$n-nt
+	ces	písmeno	n-nt$n	rus	буква	n-f-nn$n$n-f
+	ces	pivo	n-nt$n	rus	пиво	n-nt-nn$n$n-nt
 	ces	plakát	n-mi	rus	плакат	n-m-nn
 	ces	plot	n-mi	rus	забор	n-m-nn$n
 	ces	pobočka	n-f	rus	отделение	n-nt-nn$n
@@ -609,14 +609,14 @@
 	ces	pocit	n-mi	rus	ощущение	n-nt-nn$n
 	ces	pocit	n-mi	rus	чувство	n-nt-nn$n$n-nt
 	ces	podloží	n-mi	rus	основание	n-nt-nn$n$n-nt
-	ces	podmínka	n-f	rus	условие	n-nt-nn$n$n-nt
+	ces	podmínka	n-f$n	rus	условие	n-nt-nn$n$n-nt
 	ces	podrobnost	n-f	rus	деталь	n-f-nn$n
 	ces	pohlaví	n-mi	rus	пол	n-m-nn$n$n-m
 	ces	pohyb	n-mi	rus	движение	n-nt-nn$n$n-nt
 	ces	pokles	n-mi	rus	падение	n-nt-nn$n
 	ces	pokolení	n-mi	rus	поколение	n-nt-nn$n
 	ces	pokrm	n-mi	rus	блюдо	n-nt-nn$n
-	ces	pondělí	n-mi	rus	понедельник	n-m-nn$n-m$n
+	ces	pondělí	n-mi$n	rus	понедельник	n-m-nn$n-m$n
 	ces	popis	n-mi	rus	описание	n-nt-nn$n
 	ces	pořadí	n-mi	rus	очередь	n-f-nn$n
 	ces	pořadí	n-mi	rus	порядок	n-m-nn$n$n-m
@@ -633,20 +633,20 @@
 	ces	povinnost	n-f	rus	долг	n-m-nn$n$n-m
 	ces	povinnost	n-f	rus	обязанность	n-f-nn$n$n-f$n-f-nn-pl
 	ces	povodí	n-mi	rus	бассейн	n-m-nn$n
-	ces	požadavek	n-mi	rus	требование	n-nt-nn$n
+	ces	požadavek	n-mi$n	rus	требование	n-nt-nn$n
 	ces	pozadí	n-mi	rus	фон	n-m-aa
-	ces	poznámka	n-f	rus	замечание	n-nt-nn$n
+	ces	poznámka	n-f$n	rus	замечание	n-nt-nn$n
 	ces	pozornost	n-f	rus	внимание	n-nt-nn$n-nt$n
 	ces	pozůstatek	n-mi	rus	остаток	n-m-nn$n
 	ces	práce	n-f	rus	дело	n-nt-nn$n$n-nt
 	ces	prádlo	n-nt	rus	белье	n-nt-aa
 	ces	přátelství	n-mi	rus	дружба	n-f-nn$n$n-f
-	ces	pravidlo	n-nt	rus	правило	n-nt-nn$n
-	ces	právo	n-nt	rus	право	n-nt-nn$n$n-nt
+	ces	pravidlo	n-nt$n	rus	правило	n-nt-nn$n
+	ces	právo	n-nt$n	rus	право	n-nt-nn$n$n-nt
 	ces	preciznost	n-f	rus	точность	n-f-nn$n
-	ces	předměstí	n-mi	rus	окраина	n-f-nn$n
-	ces	předmět	n-mi	rus	объект	n-m-nn$n$n-m
-	ces	předmět	n-mi	rus	предмет	n-m-nn$n
+	ces	předměstí	n-mi$n	rus	окраина	n-f-nn$n
+	ces	předmět	n-mi$n	rus	объект	n-m-nn$n$n-m
+	ces	předmět	n-mi$n	rus	предмет	n-m-nn$n
 	ces	předpis	n-mi	rus	положение	n-nt-nn$n
 	ces	předpis	n-mi	rus	постановление	n-nt-nn$n
 	ces	předpis	n-mi	rus	правило	n-nt-nn$n
@@ -657,8 +657,8 @@
 	ces	představení	n-mi	rus	представление	n-nt-nn$n
 	ces	přesnost	n-f	rus	точность	n-f-nn$n
 	ces	přestupek	n-mi	rus	нарушение	n-nt-nn
-	ces	příležitost	n-f	rus	возможность	n-f-nn$n
-	ces	případ	n-mi	rus	дело	n-nt-nn$n$n-nt
+	ces	příležitost	n-f$n	rus	возможность	n-f-nn$n
+	ces	případ	n-mi$n	rus	дело	n-nt-nn$n$n-nt
 	ces	připravenost	n-f	rus	готовность	n-f-nn$n$n-f
 	ces	příručka	n-f	rus	руководство	n-nt-nn$n$n-nt
 	ces	přístav	n-mi	rus	порт	n-m-nn$n
@@ -683,7 +683,7 @@
 	ces	protokol	n-mi	rus	протокол	n-m-nn$n$n-m
 	ces	proud	n-mi	rus	течение	n-nt-nn$n$n-nt
 	ces	provoz	n-mi	rus	движение	n-nt-nn$n$n-nt
-	ces	prst	n-mi	rus	палец	n-m-nn$n
+	ces	prst	n-mi$n	rus	палец	n-m-nn$n
 	ces	ptactvo	n-nt	rus	птица	n-f-aa$n$n-f
 	ces	publikace	n-f	rus	издание	n-nt-nn$n
 	ces	původ	n-mi	rus	происхождение	n-nt-nn$n
@@ -695,10 +695,10 @@
 	ces	reprezentace	n-f	rus	представление	n-nt-nn$n
 	ces	respekt	n-mi	rus	уважение	n-nt-nn$n
 	ces	restaurace	n-f	rus	ресторан	n-m-nn$n$n-m
-	ces	rodina	n-f	rus	семейство	n-nt-nn$n
+	ces	rodina	n-f$n	rus	семейство	n-nt-nn$n
 	ces	rostlina	n-f	rus	растение	n-nt-nn$n
-	ces	rozdíl	n-mi	rus	отличие	n-nt-nn$n
-	ces	rozhovor	n-mi	rus	интервью	n-nt-aa
+	ces	rozdíl	n-mi$n	rus	отличие	n-nt-nn$n
+	ces	rozhovor	n-mi$n	rus	интервью	n-nt-aa
 	ces	rozmezí	n-mi	rus	период	n-m-nn$n$n-m
 	ces	roztok	n-mi	rus	раствор	n-m-nn$n
 	ces	rozvoj	n-mi	rus	развитие	n-nt-nn$n$n-nt
@@ -706,7 +706,7 @@
 	ces	růst	n-mi	rus	рост	n-m-nn$n
 	ces	rychlost	n-f	rus	скорость	n-f-nn$n
 	ces	rytmus	n-mi	rus	ритм	n-m-nn$n
-	ces	šátek	n-mi	rus	платок	n-m-nn$n
+	ces	šátek	n-mi$n	rus	платок	n-m-nn$n
 	ces	satelit	n-mi	rus	спутник	n-m-aa$n
 	ces	schopnost	n-f	rus	способность	n-f-nn$n$n-f
 	ces	schůze	n-f	rus	заседание	n-nt-nn$n$n-nt
@@ -725,14 +725,14 @@
 	ces	sklo	n-nt	rus	стекло	n-nt-nn$n
 	ces	skutečnost	n-f	rus	действительность	n-f-nn$n
 	ces	skutečnost	n-f	rus	факт	n-m-nn$n-m$n
-	ces	skvrna	n-f	rus	пятно	n-nt-nn$n
-	ces	slavnost	n-f	rus	торжество	n-nt-nn$n
+	ces	skvrna	n-f$n	rus	пятно	n-nt-nn$n
+	ces	slavnost	n-f$n	rus	торжество	n-nt-nn$n
 	ces	sloučenina	n-f	rus	соединение	n-nt-nn$n
-	ces	slovo	n-nt	rus	слово	n-nt-nn$n$n-nt
-	ces	slunce	n-nt	rus	солнце	n-nt-nn$n-nt$n
-	ces	směr	n-mi	rus	направление	n-nt-nn$n
+	ces	slovo	n-nt$n	rus	слово	n-nt-nn$n$n-nt
+	ces	slunce	n-nt$n	rus	солнце	n-nt-nn$n-nt$n
+	ces	směr	n-mi$n	rus	направление	n-nt-nn$n
 	ces	smutek	n-mi	rus	печаль	n-f-nn$n
-	ces	smysl	n-mi	rus	значение	n-nt-nn$n
+	ces	smysl	n-mi$n	rus	значение	n-nt-nn$n
 	ces	snímek	n-mi	rus	изображение	n-nt-nn$n
 	ces	souhlas	n-mi	rus	согласие	n-nt-nn$n
 	ces	spása	n-f	rus	спасение	n-nt-nn$n
@@ -751,7 +751,7 @@
 	ces	starost	n-f	rus	забота	n-f-nn$n$n-f-nn-pl
 	ces	status	n-mi	rus	статус	n-m-nn$n-m$n
 	ces	statut	n-mi	rus	статус	n-m-nn$n-m$n
-	ces	stát	n-mi	rus	государство	n-nt-nn$n$n-nt
+	ces	stát	n-mi$n	rus	государство	n-nt-nn$n$n-nt
 	ces	stavebnictví	n-mi	rus	строительство	n-nt-nn$n
 	ces	stavitel	n-ma	rus	строитель	n-m-aa
 	ces	stav	n-mi	rus	вид	n-m-nn$n$n-m
@@ -765,21 +765,21 @@
 	ces	stížnost	n-f	rus	жалоба	n-f-nn$n
 	ces	stráž	n-f	rus	охрана	n-f-nn$n
 	ces	stříbro	n-nt	rus	серебро	n-nt-nn$n-nt-nn-sg$n$n-nt
-	ces	stroj	n-mi	rus	машина	n-f-nn$n
-	ces	strom	n-mi	rus	дерево	n-nt-nn$n$n-nt
-	ces	strop	n-mi	rus	потолок	n-m-nn$n
+	ces	stroj	n-mi$n	rus	машина	n-f-nn$n
+	ces	strom	n-mi$n	rus	дерево	n-nt-nn$n$n-nt
+	ces	strop	n-mi$n	rus	потолок	n-m-nn$n
 	ces	strž	n-f	rus	овраг	n-m-nn$n
 	ces	stud	n-mi	rus	стыд	n-m-nn$n
-	ces	stůl	n-mi	rus	стол	n-m-nn$n
+	ces	stůl	n-mi$n	rus	стол	n-m-nn$n
 	ces	styk	n-mi	rus	контакт	n-m-nn$n
 	ces	styk	n-mi	rus	связь	n-f-nn$n$n-f
 	ces	styl	n-mi	rus	образ	n-m-nn$n
 	ces	styl	n-mi	rus	стиль	n-m-nn$n$n-m
 	ces	substance	n-f	rus	вещество	n-nt-nn$n
-	ces	svátek	n-mi	rus	праздник	n-m-nn$n$n-m
+	ces	svátek	n-mi$n	rus	праздник	n-m-nn$n$n-m
 	ces	svědomí	n-nt	rus	совесть	n-f-nn$n$n-f
 	ces	světlo	n-nt	rus	свет	n-m-nn$n$n-m-nn-sg
-	ces	svět	n-mi	rus	мир	n-m-nn$n$n-m
+	ces	svět	n-mi$n	rus	мир	n-m-nn$n$n-m
 	ces	systém	n-mi	rus	режим	n-m-nn$n$n-m
 	ces	systém	n-mi	rus	система	n-f-nn$n$n-f
 	ces	tabák	n-mi	rus	табак	n-m-nn$n
@@ -787,15 +787,15 @@
 	ces	tajemství	n-mi	rus	секрет	n-m-nn$n
 	ces	tajnost	n-f	rus	секрет	n-m-nn$n
 	ces	tajnost	n-f	rus	тайна	n-f-nn$n
-	ces	talíř	n-mi	rus	тарелка	n-f-nn$n
-	ces	tanec	n-mi	rus	танец	n-m-nn$n
+	ces	talíř	n-mi$n	rus	тарелка	n-f-nn$n
+	ces	tanec	n-mi$n	rus	танец	n-m-nn$n
 	ces	tank	n-mi	rus	танк	n-m-nn$n
 	ces	taxík	n-mi	rus	такси	n-nt-aa
 	ces	technologie	n-f	rus	технология	n-f-nn$n$n-f
 	ces	telefon	n-mi	rus	телефон	n-m-nn$n$n-m
 	ces	televize	n-f	rus	телевидение	n-nt-nn$n-nt$n
 	ces	televizor	n-mi	rus	телевизор	n-m-nn$n
-	ces	tělo	n-nt	rus	тело	n-nt-nn$n
+	ces	tělo	n-nt$n	rus	тело	n-nt-nn$n
 	ces	teorie	n-f	rus	теория	n-f-nn$n$n-f
 	ces	terén	n-mi	rus	местность	n-f-nn$n
 	ces	termín	n-mi	rus	срок	n-m-nn$n
@@ -805,15 +805,15 @@
 	ces	těžkost	n-f	rus	трудность	n-f-nn$n$n-f-nn-pl
 	ces	tisk	n-mi	rus	печать	n-f-nn$n
 	ces	tisk	n-mi	rus	пресса	n-f-nn$n
-	ces	titul	n-mi	rus	звание	n-nt-nn$n
-	ces	titul	n-mi	rus	название	n-nt-nn$n
+	ces	titul	n-mi$n	rus	звание	n-nt-nn$n
+	ces	titul	n-mi$n	rus	название	n-nt-nn$n
 	ces	tlak	n-mi	rus	давление	n-nt-nn$n$n-nt
-	ces	tok	n-mi	rus	движение	n-nt-nn$n$n-nt
-	ces	tok	n-mi	rus	поток	n-m-nn$n
+	ces	tok	n-mi$n	rus	движение	n-nt-nn$n$n-nt
+	ces	tok	n-mi$n	rus	поток	n-m-nn$n
 	ces	tón	n-mi	rus	звук	n-m-nn$n
 	ces	tón	n-mi	rus	оттенок	n-m-nn$n$n-m
 	ces	tón	n-mi	rus	тон	n-m-nn$n
-	ces	tradice	n-f	rus	традиция	n-f-nn$n-f$n
+	ces	tradice	n-f$n	rus	традиция	n-f-nn$n-f$n
 	ces	tragedie	n-f	rus	трагедия	n-f-nn$n
 	ces	traktor	n-mi	rus	трактор	n-m-nn$n
 	ces	trend	n-mi	rus	направление	n-nt-nn$n
@@ -821,11 +821,11 @@
 	ces	trest	n-mi	rus	наказание	n-nt-nn$n
 	ces	trpělivost	n-f	rus	терпение	n-nt-nn$n
 	ces	tuk	n-mi	rus	жир	n-m-nn$n
-	ces	tvář	n-f	rus	лицо	n-nt-nn$n$n-nt
-	ces	tvar	n-mi	rus	форма	n-f-nn$n$n-f
+	ces	tvář	n-f$n	rus	лицо	n-nt-nn$n$n-nt
+	ces	tvar	n-mi$n	rus	форма	n-f-nn$n$n-f
 	ces	tvor	n-ma	rus	создание	n-nt-nn$n$n-nt
 	ces	tvor	n-ma	rus	существо	n$n-nt-nn
-	ces	týden	n-mi	rus	неделя	n-f-nn$n-f$n
+	ces	týden	n-mi$n	rus	неделя	n-f-nn$n-f$n
 	ces	tým	n-mi	rus	группа	n-f-nn$n$n-f
 	ces	tým	n-mi	rus	команда	n-f-nn$n$n-f
 	ces	typ	n-mi	rus	вид	n-m-nn$n$n-m
@@ -833,23 +833,23 @@
 	ces	úbytek	n-mi	rus	потеря	n-f-nn$n-f
 	ces	účast	n-f	rus	присутствие	n-nt-nn
 	ces	účast	n-f	rus	участие	n-nt-nn$nt
-	ces	ucho	n-nt	rus	ухо	n-nt-nn$n$n-nt
+	ces	ucho	n-nt$n	rus	ухо	n-nt-nn$n$n-nt
 	ces	účinnost	n-f	rus	действие	n-nt-nn$n
 	ces	úcta	n-f	rus	уважение	n-nt-nn$n
 	ces	událost	n-f	rus	происшествие	n-nt-nn$n
 	ces	událost	n-f	rus	ситуация	n-f-nn$n$n-f
 	ces	událost	n-f	rus	событие	n-nt-nn$n
 	ces	údobí	n-mi	rus	период	n-m-nn$n$n-m
-	ces	údolí	n-nt	rus	долина	n-f-nn$n$n-f$n-f-nn-sg
-	ces	uhlí	n-mi	rus	уголь	n-m-nn$n$n-m-nn-sg
+	ces	údolí	n-nt$n	rus	долина	n-f-nn$n$n-f$n-f-nn-sg
+	ces	uhlí	n-mi$n	rus	уголь	n-m-nn$n$n-m-nn-sg
 	ces	ukazatel	n-mi	rus	показатель	n-m-nn$n
-	ces	úkol	n-mi	rus	задание	n-nt-nn$n
+	ces	úkol	n-mi$n	rus	задание	n-nt-nn$n
 	ces	úleva	n-f	rus	облегчение	n-nt-nn
 	ces	umění	n-mi	rus	искусство	n-nt-nn$n$n-nt
 	ces	úmysl	n-mi	rus	намерение	n-nt-nn$n
-	ces	úřad	n-mi	rus	бюро	n-nt-aa
-	ces	úsilí	n-mi	rus	стремление	n-nt-nn
-	ces	úsilí	n-mi	rus	усилие	n-nt-nn$n
+	ces	úřad	n-mi$n	rus	бюро	n-nt-aa
+	ces	úsilí	n-mi$n	rus	стремление	n-nt-nn
+	ces	úsilí	n-mi$n	rus	усилие	n-nt-nn$n
 	ces	úsudek	n-mi	rus	заключение	n-nt-nn$n
 	ces	úsvit	n-mi	rus	заря	n-f-nn$n
 	ces	úsvit	n-mi	rus	рассвет	n-m-nn$n-m
@@ -861,9 +861,9 @@
 	ces	užitek	n-mi	rus	польза	n-f-nn$n
 	ces	úzkost	n-f	rus	страх	n-m-nn$n
 	ces	vděčnost	n-f	rus	благодарность	n-f-nn$n$n-f
-	ces	věc	n-f	rus	дело	n-nt-nn$n$n-nt
+	ces	věc	n-f$n	rus	дело	n-nt-nn$n$n-nt
 	ces	vedení	n-mi	rus	руководство	n-nt-nn$n$n-nt
-	ces	vědomí	n-mi	rus	сознание	n-nt-nn$n
+	ces	vědomí	n-mi$n	rus	сознание	n-nt-nn$n
 	ces	velikost	n-f	rus	размер	n-m-nn$n$n-m
 	ces	velitel	n-ma	rus	командир	n-m-aa
 	ces	velvyslanectví	n-mi	rus	посольство	n-nt-nn$n-nt$n
@@ -874,11 +874,11 @@
 	ces	vězení	n-mi	rus	заключение	n-nt-nn$n
 	ces	vězení	n-mi	rus	тюрьма	n-f-nn$n
 	ces	viditelnost	n-f	rus	видимость	n-f-nn$n
-	ces	vina	n-f	rus	вина	n-f-nn$n$n-f
-	ces	víno	n-nt	rus	вино	n-nt-nn$n
+	ces	vina	n-f$n	rus	вина	n-f-nn$n$n-f
+	ces	víno	n-nt$n	rus	вино	n-nt-nn$n
 	ces	vítězství	n-mi	rus	победа	n-f-nn$n-f$n
 	ces	vláda	n-f	rus	правительство	n-nt-nn$n-nt$n
-	ces	vlajka	n-f	rus	знамя	n-nt-nn$n
+	ces	vlajka	n-f$n	rus	знамя	n-nt-nn$n
 	ces	vlastnost	n-f	rus	качество	n-nt-nn$n$n-nt
 	ces	vlastnost	n-f	rus	свойство	n-nt-nn$n
 	ces	vojsko	n-nt	rus	армия	n-f-nn$n-f$n
@@ -891,7 +891,7 @@
 	ces	výjimka	n-f	rus	исключение	n-nt-nn$n
 	ces	výkon	n-mi	rus	действие	n-nt-nn$n
 	ces	výkon	n-mi	rus	достижение	n-nt-nn$n-n
-	ces	výraz	n-mi	rus	выражение	n-nt-nn$n
+	ces	výraz	n-mi$n	rus	выражение	n-nt-nn$n
 	ces	výroba	n-f	rus	производство	n-nt-nn$n$n-nt
 	ces	výrobek	n-mi	rus	изделие	n-nt-nn$n
 	ces	výsada	n-f	rus	преимущество	n-nt-nn$n
@@ -904,7 +904,7 @@
 	ces	výzkum	n-mi	rus	изучение	n-nt-nn
 	ces	výzkum	n-mi	rus	исследование	n-nt-nn$n-nt
 	ces	význam	n-mi	rus	значение	n-nt-nn$n
-	ces	vzdálenost	n-f	rus	расстояние	n-nt-nn$n
+	ces	vzdálenost	n-f$n	rus	расстояние	n-nt-nn$n
 	ces	vzestup	n-mi	rus	повышение	n-nt-nn
 	ces	vztek	n-mi	rus	ярость	n-f-nn$n
 	ces	začátek	n-mi	rus	начало	n-nt-nn$n$n-nt
@@ -913,7 +913,7 @@
 	ces	žal	n-mi	rus	горе	n-nt-nn$n-nt-nn-sg
 	ces	zánět	n-mi	rus	воспаление	n-nt-nn$n
 	ces	zápal	n-mi	rus	воспаление	n-nt-nn$n
-	ces	září	n-mi	rus	сентябрь	n-m-nn$n-m$n
+	ces	září	n-mi$n	rus	сентябрь	n-m-nn$n-m$n
 	ces	žárlivost	n-f	rus	зависть	n-f-nn$n
 	ces	zásada	n-f	rus	правило	n-nt-nn$n
 	ces	závěr	n-mi	rus	заключение	n-nt-nn$n
@@ -927,24 +927,24 @@
 	ces	zbraň	n-f	rus	оружие	n-nt-nn$n$n-nt$n-nt-nn-sg
 	ces	zbytek	n-mi	rus	остальное	n-nt-nn$n
 	ces	zdraví	n-nt	rus	здоровье	n-nt-nn$n$n-nt$n-nt-nn-sg
-	ces	železo	n-nt	rus	железо	n-nt-aa
+	ces	železo	n-nt$n	rus	железо	n-nt-aa
 	ces	žena	n-f	rus	жена	n-f-aa$n
 	ces	žena	n-f	rus	женщина	n-f-aa$n$n-f
 	ces	žert	n-mi	rus	шутка	n-f-nn$n
 	ces	životopis	n-mi	rus	биография	n-f-nn$n
-	ces	život	n-mi	rus	жизнь	n-f-nn$n-f$n
-	ces	zkouška	n-f	rus	испытание	n-nt-nn$n
+	ces	život	n-mi$n	rus	жизнь	n-f-nn$n-f$n
+	ces	zkouška	n-f$n	rus	испытание	n-nt-nn$n
 	ces	zkušenost	n-f	rus	опыт	n-m-nn$n$n-m
-	ces	zlato	n-nt	rus	золото	n-nt-aa
+	ces	zlato	n-nt$n	rus	золото	n-nt-aa
 	ces	zločin	n-mi	rus	преступление	n-nt-nn$n-nt$n
 	ces	změna	n-f	rus	изменение	n-nt-nn
 	ces	znalost	n-f	rus	знание	n-nt-nn$n$n-nt
-	ces	znamení	n-mi	rus	знак	n-m-nn$n$n-m
-	ces	znamení	n-mi	rus	признак	n-m-nn$n
+	ces	znamení	n-mi$n	rus	знак	n-m-nn$n$n-m
+	ces	znamení	n-mi$n	rus	признак	n-m-nn$n
 	ces	zrcadlo	n-nt	rus	зеркало	n-nt-nn$n$n-nt
 	ces	zvyklost	n-f	rus	обычай	n-m-nn$n
 	ces	institut	n-mi	rus	институт	n-m-nn$n$n-m
-	ces	jazyk	n-mi	rus	язык	n-m-nn$n$n-m
+	ces	jazyk	n-mi$n	rus	язык	n-m-nn$n$n-m
 	ces	rys	n-mi	rus	черта	n-f-nn$n
 	ces	talent	n-mi	rus	дар	n-m-nn$n
 	ces	talent	n-mi	rus	способность	n-f-nn$n$n-f
@@ -954,12 +954,12 @@
 	ces	pilot	n-ma	rus	пилот	n-m-aa$n
 	ces	institut	n-mi	rus	институт	n-m-nn$n$n-m
 	ces	sekretář	n-ma	rus	секретарь	n-m-aa$n$n-m
-	ces	zem	n-f	rus	земля	n-f-nn$n$n-f
-	ces	zem	n-f	rus	страна	n-f-nn$n-f$n
-	ces	rok	n-mi	rus	год	n-m-nn$n-m$n
+	ces	zem	n-f$n	rus	земля	n-f-nn$n$n-f
+	ces	zem	n-f$n	rus	страна	n-f-nn$n-f$n
+	ces	rok	n-mi$n	rus	год	n-m-nn$n-m$n
 	ces	politik	n-ma	rus	политик	n-m-aa$n-m$n
-	ces	strana	n-f	rus	партия	n-f-nn$n-f$n
-	ces	válka	n-f	rus	война	n-f-nn$n-f$n
+	ces	strana	n-f$n	rus	партия	n-f-nn$n-f$n
+	ces	válka	n-f$n	rus	война	n-f-nn$n-f$n
 	ces	prezident	n-ma	rus	президент	n-m-aa$n-m$n$n-m-aa-pl
 	ces	problém	n-mi	rus	вопрос	n-m-nn$n-m$n
 	ces	problém	n-mi	rus	проблема	n-f-nn$n$n-f
@@ -971,22 +971,22 @@
 	ces	reforma	n-f	rus	реформа	n-f-nn$n-f
 	ces	dolar	n-mi	rus	доллар	n-m-nn$n-m$n
 	ces	unie	n-f	rus	союз	n-m-nn$n$n-m
-	ces	mír	n-mi	rus	мир	n-m-nn$n$n-m
+	ces	mír	n-mi$n	rus	мир	n-m-nn$n$n-m
 	ces	pomoc	n-f	rus	поддержка	n-f-nn$n
 	ces	pomoc	n-f	rus	помощь	n-f-nn$n
-	ces	způsob	n-mi	rus	вид	n-m-nn$n$n-m
-	ces	způsob	n-mi	rus	манера	n-f-nn$n
-	ces	způsob	n-mi	rus	метод	n-m-nn$n$n-m
-	ces	způsob	n-mi	rus	образ	n-m-nn$n
-	ces	způsob	n-mi	rus	способ	n-m-nn$n
+	ces	způsob	n-mi$n	rus	вид	n-m-nn$n$n-m
+	ces	způsob	n-mi$n	rus	манера	n-f-nn$n
+	ces	způsob	n-mi$n	rus	метод	n-m-nn$n$n-m
+	ces	způsob	n-mi$n	rus	образ	n-m-nn$n
+	ces	způsob	n-mi$n	rus	способ	n-m-nn$n
 	ces	podpora	n-f	rus	поддержка	n-f-nn$n
-	ces	skupina	n-f	rus	группа	n-f-nn$n$n-f
+	ces	skupina	n-f$n	rus	группа	n-f-nn$n$n-f
 	ces	firma	n-f	rus	компания	n-f-nn$n$n-f
 	ces	program	n-mi	rus	программа	n-f-nn$n-f$n
-	ces	cesta	n-f	rus	дорога	n-f-nn$n-f$n
-	ces	cesta	n-f	rus	путь	n-m-nn$n$n-m
+	ces	cesta	n-f$n	rus	дорога	n-f-nn$n-f$n
+	ces	cesta	n-f$n	rus	путь	n-m-nn$n$n-m
 	ces	režim	n-mi	rus	режим	n-m-nn$n$n-m
-	ces	konec	n-mi	rus	конец	n-m-nn$n
+	ces	konec	n-mi$n	rus	конец	n-m-nn$n
 	ces	obchod	n-mi	rus	бизнес	n-m-nn$n$n-m
 	ces	obchod	n-mi	rus	торговля	n-f-nn$n$n-f
 	ces	boj	n-mi	rus	битва	n-f-nn$n
@@ -997,37 +997,37 @@
 	ces	ropa	n-f	rus	нефть	n-f-nn$n$n-f
 	ces	potřeba	n-f	rus	необходимость	n-f-nn$n$n-f
 	ces	vzhled	n-mi	rus	вид	n-m-nn$n$n-m
-	ces	člen	n-mi	rus	участник	n-m-aa$n-m
-	ces	člen	n-mi	rus	член	n-m-nn$n$n-m
-	ces	západ	n-mi	rus	запад	n-m-nn$n$n-m
+	ces	člen	n-mi$n	rus	участник	n-m-aa$n-m
+	ces	člen	n-mi$n	rus	член	n-m-nn$n$n-m
+	ces	západ	n-mi$n	rus	запад	n-m-nn$n$n-m
 	ces	svoboda	n-f	rus	свобода	n-f-nn$n$n-f
-	ces	krok	n-mi	rus	шаг	n-m-nn$n$n-m
+	ces	krok	n-mi$n	rus	шаг	n-m-nn$n$n-m
 	ces	východ	n-mi	rus	восток	n-m-nn$n$n-m
 	ces	pravda	n-f	rus	истина	n-f-nn$n$n-f
 	ces	pravda	n-f	rus	правда	n-f-nn$n
 	ces	administrativa	n-f	rus	администрация	n-f-nn$n$n-f
 	ces	komise	n-f	rus	комиссия	n-f-nn$n$n-f
-	ces	hranice	n-f	rus	граница	n-f-nn$n$n-f
+	ces	hranice	n-f$n	rus	граница	n-f-nn$n$n-f
 	ces	profesor	n-ma	rus	преподаватель	n-m-aa$n
 	ces	profesor	n-ma	rus	профессор	n-m-aa$n$n-m$n-m-aa-pl
-	ces	den	n-mi	rus	день	n-m-nn$n-m$n
-	ces	základ	n-mi	rus	база	n-f-nn$n
-	ces	základ	n-mi	rus	основа	n-f-nn$n$n-f
-	ces	zpráva	n-f	rus	доклад	n-m-nn$n$n-m
-	ces	zpráva	n-f	rus	отчет	n-m-nn
-	ces	člověk	n-ma$n-ma-sg	rus	человек	n-m-aa$n$n-m$n-m-aa-pl
+	ces	den	n-mi$n	rus	день	n-m-nn$n-m$n
+	ces	základ	n-mi$n	rus	база	n-f-nn$n
+	ces	základ	n-mi$n	rus	основа	n-f-nn$n$n-f
+	ces	zpráva	n-f$n	rus	доклад	n-m-nn$n$n-m
+	ces	zpráva	n-f$n	rus	отчет	n-m-nn
+	ces	člověk	n-ma$n-ma-sg$n	rus	человек	n-m-aa$n$n-m$n-m-aa-pl
 	ces	náklad	n-mi	rus	груз	n-m-nn$n
 	ces	kontrola	n-f	rus	контроль	n-m-nn$n
 	ces	kurs	n-mi	rus	курс	n-m-nn
 	ces	měna	n-f	rus	валюта	n-f-nn$n$n-f
 	ces	reakce	n-f	rus	реакция	n-f-nn$n
-	ces	naděje	n-f	rus	надежда	n-f-nn$n-f$n
-	ces	kniha	n-f	rus	книга	n-f-nn$n$n-f
+	ces	naděje	n-f$n	rus	надежда	n-f-nn$n-f$n
+	ces	kniha	n-f$n	rus	книга	n-f-nn$n$n-f
 	ces	soud	n-mi	rus	суд	n-m-nn$n$n-m
 	ces	ochrana	n-f	rus	защита	n-f-nn$n$n-f
-	ces	měsíc	n-mi	rus	луна	n-f-nn$n-f$n
-	ces	měsíc	n-mi	rus	месяц	n-m-nn$n-m$n
-	ces	revoluce	n-f	rus	революция	n-f-nn$n$n-f
+	ces	měsíc	n-mi$n	rus	луна	n-f-nn$n-f$n
+	ces	měsíc	n-mi$n	rus	месяц	n-m-nn$n-m$n
+	ces	revoluce	n-f$n	rus	революция	n-f-nn$n$n-f
 	ces	energie	n-f	rus	энергия	n-f-nn$n$n-f
 	ces	armáda	n-f	rus	армия	n-f-nn$n-f$n
 	ces	myšlenka	n-f	rus	идея	n-f-nn$n-f$n
@@ -1035,26 +1035,26 @@
 	ces	plán	n-mi	rus	замысел	n-m-nn$n
 	ces	plán	n-mi	rus	план	n-m-nn$n$n-m
 	ces	fond	n-mi	rus	фонд	n-m-nn$n$n-m
-	ces	příklad	n-mi	rus	образец	n-m-nn$n
-	ces	příklad	n-mi	rus	пример	n-m-nn$n
-	ces	hlas	n-mi	rus	голос	n-m-nn$n$n-m
+	ces	příklad	n-mi$n	rus	образец	n-m-nn$n
+	ces	příklad	n-mi$n	rus	пример	n-m-nn$n
+	ces	hlas	n-mi$n	rus	голос	n-m-nn$n$n-m
 	ces	pohled	n-mi	rus	взгляд	n-m-nn$n
-	ces	druh	n-ma	rus	вид	n-m-nn$n$n-m
+	ces	druh	n-ma$n	rus	вид	n-m-nn$n$n-m
 	ces	plyn	n-mi	rus	газ	n-m-nn$n$n-m
 	ces	princip	n-mi	rus	основа	n-f-nn$n$n-f
 	ces	princip	n-mi	rus	принцип	n-m-nn$n$n-m
 	ces	polovina	n-f	rus	половина	n-f-nn$n
-	ces	pokrok	n-mi	rus	прогресс	n-m-nn$n
+	ces	pokrok	n-mi$n	rus	прогресс	n-m-nn$n
 	ces	informace	n-f	rus	информация	n-f-nn$n-f$n
-	ces	muž	n-ma	rus	муж	n-m-aa$n
-	ces	muž	n-ma	rus	мужчина	n-m-aa$n-m$n
+	ces	muž	n-ma$n	rus	муж	n-m-aa$n
+	ces	muž	n-ma$n	rus	мужчина	n-m-aa$n-m$n
 	ces	podoba	n-f	rus	вид	n-m-nn$n$n-m
 	ces	podoba	n-f	rus	форма	n-f-nn$n$n-f
 	ces	příčina	n-f	rus	источник	n-m-nn$n-m$n
 	ces	příčina	n-f	rus	причина	n-f-nn$n$n-f
 	ces	zisk	n-mi	rus	доход	n-m-nn$n
 	ces	zisk	n-mi	rus	прибыль	n-f-nn$n
-	ces	dům	n-mi	rus	дом	n-m-nn$n$n-m
+	ces	dům	n-mi$n	rus	дом	n-m-nn$n$n-m
 	ces	kandidát	n-ma	rus	кандидат	n-m-aa$n-m$n$n-m-aa-pl
 	ces	ztráta	n-f	rus	потеря	n-f-nn$n-f
 	ces	voják	n-ma	rus	боец	n-m-aa$n
@@ -1066,15 +1066,15 @@
 	ces	podíl	n-mi	rus	доля	n-f-nn$n
 	ces	iniciativa	n-f	rus	инициатива	n-f-nn$n
 	ces	pozice	n-f	rus	позиция	n-f-nn$n$n-f
-	ces	voda	n-f	rus	вода	n-f-nn$n$n-f
+	ces	voda	n-f$n	rus	вода	n-f-nn$n$n-f
 	ces	funkce	n-f	rus	должность	n-f-nn$n
 	ces	funkce	n-f	rus	пост	n-m-nn$n$n-m
-	ces	svaz	n-mi	rus	союз	n-m-nn$n$n-m
-	ces	překážka	n-f	rus	барьер	n-m-nn$n
+	ces	svaz	n-mi$n	rus	союз	n-m-nn$n$n-m
+	ces	překážka	n-f$n	rus	барьер	n-m-nn$n
 	ces	autor	n-ma	rus	автор	n-m-aa$n$n-m$n-m-aa-pl
-	ces	pokus	n-mi	rus	попытка	n-f-nn$n
+	ces	pokus	n-mi$n	rus	попытка	n-f-nn$n
 	ces	pacient	n-ma	rus	пациент	n-m-aa$n
-	ces	rámec	n-mi	rus	рамка	n-f-nn$n$n-f
+	ces	rámec	n-mi$n	rus	рамка	n-f-nn$n$n-f
 	ces	chyba	n-f	rus	недостаток	n-m-nn$n
 	ces	chyba	n-f	rus	ошибка	n-f-nn$n
 	ces	průmysl	n-mi	rus	промышленность	n-f-nn$n-f$n
@@ -1098,15 +1098,15 @@
 	ces	vůle	n-f	rus	воля	n-f-aa
 	ces	soustava	n-f	rus	система	n-f-nn$n$n-f
 	ces	vlna	n-f	rus	волна	n-f-nn$n$n-f
-	ces	výbor	n-mi	rus	комитет	n-m-nn$n$n-m
-	ces	výbor	n-mi	rus	совет	n-m-nn$n$n-m
+	ces	výbor	n-mi$n	rus	комитет	n-m-nn$n$n-m
+	ces	výbor	n-mi$n	rus	совет	n-m-nn$n$n-m
 	ces	metoda	n-f	rus	метод	n-m-nn$n$n-m
-	ces	stránka	n-f	rus	полоса	n-f-nn$n
-	ces	stránka	n-f	rus	сторона	n-f-nn$n
+	ces	stránka	n-f$n	rus	полоса	n-f-nn$n
+	ces	stránka	n-f$n	rus	сторона	n-f-nn$n
 	ces	půjčka	n-f	rus	кредит	n-f-nn
 	ces	základna	n-f	rus	база	n-f-nn$n
-	ces	třída	n-f	rus	группа	n-f-nn$n$n-f
-	ces	třída	n-f	rus	класс	n-m-nn$n
+	ces	třída	n-f$n	rus	группа	n-f-nn$n$n-f
+	ces	třída	n-f$n	rus	класс	n-m-nn$n
 	ces	článek	n-mi	rus	пункт	n-m-nn$n
 	ces	článek	n-mi	rus	статья	n-f-nn$n$n-f
 	ces	osud	n-mi	rus	судьба	n-f-nn$n
@@ -1121,15 +1121,15 @@
 	ces	církev	n-f	rus	церковь	n-f-nn$n$n-f
 	ces	pracovník	n-ma	rus	работник	n-m-aa$n$n-m
 	ces	stovka	n-f	rus	сотня	n-f-nn
-	ces	prosinec	n-mi	rus	декабрь	n-m-nn$n-m$n
-	ces	pořádek	n-mi	rus	порядок	n-m-nn$n$n-m
+	ces	prosinec	n-mi$n	rus	декабрь	n-m-nn$n-m$n
+	ces	pořádek	n-mi$n	rus	порядок	n-m-nn$n$n-m
 	ces	částka	n-f	rus	сумма	n-f-nn$n
 	ces	rezerva	n-f	rus	запас	n-m-nn$n$n-m-nn-pl
 	ces	zásoba	n-f	rus	запас	n-m-nn$n$n-m-nn-pl
 	ces	mozek	n-mi	rus	мозг	n-m-nn$n
-	ces	přítel	n-ma	rus	друг	n-m-aa$n$n-m
+	ces	přítel	n-ma$n	rus	друг	n-m-aa$n$n-m
 	ces	tajemník	n-ma	rus	секретарь	n-m-aa$n$n-m
-	ces	leden	n-mi	rus	январь	n-m-nn$n-m$n
+	ces	leden	n-mi$n	rus	январь	n-m-nn$n-m$n
 	ces	dělník	n-ma	rus	рабочий	n-m-aa$n
 	ces	analýza	n-f	rus	анализ	n-m-nn$n$n-m
 	ces	odchod	n-mi	rus	выход	n-m-nn$n
@@ -1139,28 +1139,28 @@
 	ces	úvěr	n-mi	rus	кредит	n-f-nn
 	ces	prvek	n-mi	rus	деталь	n-f-nn$n
 	ces	prvek	n-mi	rus	элемент	n-m-nn$n
-	ces	hodina	n-f	rus	час	n-m-nn$n$n-m
+	ces	hodina	n-f$n	rus	час	n-m-nn$n$n-m
 	ces	expert	n-ma	rus	эксперт	n-m-aa$n$n-m
 	ces	civilizace	n-f	rus	цивилизация	n-f-nn$n$n-f
 	ces	výměna	n-f	rus	обмен	n-m-nn
 	ces	novinář	n-ma	rus	журналист	n-m-aa$n$n-m
-	ces	účel	n-mi	rus	цель	n-f-nn$n$n-f
-	ces	planeta	n-f	rus	планета	n-f-nn$n
+	ces	účel	n-mi$n	rus	цель	n-f-nn$n$n-f
+	ces	planeta	n-f$n	rus	планета	n-f-nn$n
 	ces	policie	n-f	rus	полиция	n-f-nn$n-f$n
-	ces	počítač	n-ma	rus	компьютер	n-m-nn$n$n-m
-	ces	ulice	n-f	rus	улица	n-f-nn$n$n-f
+	ces	počítač	n-ma$n	rus	компьютер	n-m-nn$n$n-m
+	ces	ulice	n-f$n	rus	улица	n-f-nn$n$n-f
 	ces	scéna	n-f	rus	сцена	n-f-nn$n
 	ces	atmosféra	n-f	rus	атмосфера	n-f-nn$n$n-f
 	ces	zóna	n-f	rus	зона	n-f-nn$n$n-f
 	ces	celek	n-mi	rus	единица	n-f-nn$n$n-f
 	ces	celek	n-mi	rus	коллектив	n-m-nn$n
-	ces	březen	n-mi	rus	март	n-m-nn$n-m$n
+	ces	březen	n-mi$n	rus	март	n-m-nn$n-m$n
 	ces	zemědělec	n-ma	rus	крестьянин	n-m-aa
 	ces	sféra	n-f	rus	область	n-f-nn$n$n-f
 	ces	sféra	n-f	rus	сфера	n-f-nn$n
 	ces	odborník	n-ma	rus	специалист	n-m-aa$n
 	ces	odborník	n-ma	rus	эксперт	n-m-aa$n$n-m
-	ces	autorita	n-f	rus	авторитет	n-m-nn$n
+	ces	autorita	n-f$n	rus	авторитет	n-m-nn$n
 	ces	příslušník	n-ma	rus	представитель	n-m-aa$n$n-m
 	ces	příslušník	n-ma	rus	член	n-m-nn$n$n-m
 	ces	bomba	n-f	rus	бомба	n-f-nn$n$n-f
@@ -1168,23 +1168,23 @@
 	ces	sázka	n-f	rus	ставка	n-f-nn$n
 	ces	přechod	n-mi	rus	переход	n-m-nn
 	ces	jistota	n-f	rus	безопасность	n-f-nn$n-f
-	ces	kruh	n-mi	rus	круг	n-m-nn$n-m
+	ces	kruh	n-mi$n	rus	круг	n-m-nn$n-m
 	ces	hladina	n-f	rus	поверхность	n-f-nn$n
-	ces	říjen	n-mi	rus	октябрь	n-m-nn$n-m$n
+	ces	říjen	n-mi$n	rus	октябрь	n-m-nn$n-m$n
 	ces	manažer	n-ma	rus	директор	n-m-aa$n$n-m$n-m-aa-pl
 	ces	účastník	n-ma	rus	участник	n-m-aa$n-m
-	ces	příroda	n-f	rus	природа	n-f-nn$n$n-f
-	ces	vesnice	n-f	rus	деревня	n-f-nn$n$n-f
+	ces	příroda	n-f$n	rus	природа	n-f-nn$n$n-f
+	ces	vesnice	n-f$n	rus	деревня	n-f-nn$n$n-f
 	ces	půl	n-f	rus	половина	n-f-nn$n
-	ces	otec	n-ma	rus	отец	n-m-aa$n
-	ces	červen	n-mi	rus	июнь	n-m-nn$n-m$n
+	ces	otec	n-ma$n	rus	отец	n-m-aa$n
+	ces	červen	n-mi$n	rus	июнь	n-m-nn$n-m$n
 	ces	pár	n-mi	rus	пара	n-f-nn$n$n-f$n-f-nn-pl-gen
 	ces	návštěva	n-f	rus	визит	n-m-nn$n$n-m
 	ces	hráč	n-ma	rus	игрок	n-m-aa
 	ces	šok	n-mi	rus	удар	n-m-nn$n
-	ces	červenec	n-mi	rus	июль	n-m-nn$n-m$n
-	ces	známka	n-f	rus	знак	n-m-nn$n$n-m
-	ces	známka	n-f	rus	признак	n-m-nn$n
+	ces	červenec	n-mi$n	rus	июль	n-m-nn$n-m$n
+	ces	známka	n-f$n	rus	знак	n-m-nn$n$n-m
+	ces	známka	n-f$n	rus	признак	n-m-nn$n
 	ces	proměna	n-f	rus	перемена	n-f-nn
 	ces	nadace	n-f	rus	фонд	n-m-nn$n$n-m
 	ces	ochota	n-f	rus	готовность	n-f-nn$n$n-f
@@ -1194,26 +1194,26 @@
 	ces	seznam	n-mi	rus	список	n-m-nn$n$n-m
 	ces	fronta	n-f	rus	очередь	n-f-nn$n
 	ces	fronta	n-f	rus	фронт	n-m-nn$n
-	ces	díl	n-mi	rus	деталь	n-f-nn$n
-	ces	díl	n-mi	rus	доля	n-f-nn$n
+	ces	díl	n-mi$n	rus	деталь	n-f-nn$n
+	ces	díl	n-mi$n	rus	доля	n-f-nn$n
 	ces	bůh	n-ma	rus	бог	n-m-aa$n-m$n
 	ces	penze	n-f	rus	отставка	n-f-nn$n$n-f
 	ces	penze	n-f	rus	пенсия	n-f-nn$n$n-f
 	ces	obrázek	n-mi	rus	рисунок	n-m-nn$n
 	ces	symbol	n-mi	rus	символ	n-m-nn$n$n-m
-	ces	středa	n-f	rus	среда	n-f-nn$n$n-f
+	ces	středa	n-f$n	rus	среда	n-f-nn$n$n-f
 	ces	omyl	n-mi	rus	ошибка	n-f-nn$n
 	ces	cizinec	n-ma	rus	иностранец	n-m-aa$n
 	ces	signál	n-mi	rus	сигнал	n-m-nn$n$n-m
 	ces	provincie	n-f	rus	провинция	n-f-nn$n-f$n
 	ces	perspektiva	n-f	rus	перспектива	n-f-nn$n-f$n
-	ces	duben	n-mi	rus	апрель	n-m-nn$n-m$n
-	ces	sever	n-mi	rus	север	n-m-nn$n$n-m
-	ces	časopis	n-mi	rus	журнал	n-m-nn$n$n-m
+	ces	duben	n-mi$n	rus	апрель	n-m-nn$n-m$n
+	ces	sever	n-mi$n	rus	север	n-m-nn$n$n-m
+	ces	časopis	n-mi$n	rus	журнал	n-m-nn$n$n-m
 	ces	spousta	n-f	rus	масса	n-f-nn$n$n-f$n-f-nn-sg
 	ces	komunista	n-ma	rus	коммунист	n-m-aa$n
-	ces	zápas	n-mi	rus	борьба	n-f-nn$n-f-nn-sg$n-f
-	ces	srpen	n-mi	rus	август	n-m-nn$n-m$n
+	ces	zápas	n-mi$n	rus	борьба	n-f-nn$n-f-nn-sg$n-f
+	ces	srpen	n-mi$n	rus	август	n-m-nn$n-m$n
 	ces	raketa	n-f	rus	ракета	n-f-nn$n$n-f
 	ces	bojovník	n-ma	rus	боец	n-m-aa$n
 	ces	sbor	n-mi	rus	коллектив	n-m-nn$n
@@ -1226,13 +1226,13 @@
 	ces	příprava	n-f	rus	подготовка	n-f-nn$n$n-f
 	ces	les	n-mi	rus	лес	n-m-nn$n$n-m
 	ces	fyzika	n-f	rus	физика	n-f-nn$n
-	ces	únor	n-mi	rus	февраль	n-m-nn$n-m$n
+	ces	únor	n-mi$n	rus	февраль	n-m-nn$n-m$n
 	ces	soubor	n-mi	rus	комплекс	n-m-nn$n
 	ces	soubor	n-mi	rus	набор	n-m-nn$n
 	ces	ryba	n-f	rus	рыба	n-f-aa$n$n-f
-	ces	vzor	n-mi	rus	модель	n-f-nn$n
-	ces	vzor	n-mi	rus	образец	n-m-nn$n
-	ces	syn	n-ma	rus	сын	n-m-aa$n$n-m
+	ces	vzor	n-mi$n	rus	модель	n-f-nn$n
+	ces	vzor	n-mi$n	rus	образец	n-m-nn$n
+	ces	syn	n-ma$n	rus	сын	n-m-aa$n$n-m
 	ces	nemocnice	n-f	rus	больница	n-f-nn$n$n-f
 	ces	komisař	n-ma	rus	комиссар	n-m-aa$n$n-m-aa-pl
 	ces	klíč	n-mi	rus	ключ	n-m-nn$n$n-m
@@ -1241,14 +1241,14 @@
 	ces	stupeň	n-mi	rus	степень	n-f-nn$n
 	ces	skandál	n-mi	rus	скандал	n-m-nn$n
 	ces	rozum	n-mi	rus	разум	n-m-nn$n
-	ces	hrůza	n-f	rus	ужас	n-m-nn$n
+	ces	hrůza	n-f$n	rus	ужас	n-m-nn$n
 	ces	rozměr	n-mi	rus	масштаб	n-m-nn$n
 	ces	obzor	n-mi	rus	горизонт	n-m-nn$n
 	ces	protivník	n-ma	rus	противник	n-m-aa$n
 	ces	morálka	n-f	rus	мораль	n-f-nn$n
 	ces	korporace	n-f	rus	корпорация	n-f-nn$n-f
 	ces	organismus	n-mi	rus	организм	n-m-nn$n
-	ces	krev	n-f	rus	кровь	n-f-nn$n-f
+	ces	krev	n-f$n	rus	кровь	n-f-nn$n-f
 	ces	idea	n-f	rus	идея	n-f-nn$n-f$n
 	ces	fakulta	n-f	rus	факультет	n-m-nn$n$n-m
 	ces	soupeř	n-ma	rus	противник	n-m-aa$n
@@ -1260,11 +1260,11 @@
 	ces	teplota	n-f	rus	температура	n-f-nn$n$n-f
 	ces	série	n-f	rus	серия	n-f-nn$n
 	ces	poslanec	n-ma	rus	депутат	n-m-aa$n-m$n-m-aa-pl
-	ces	plod	n-mi	rus	плод	n-m-nn$n$n-m
+	ces	plod	n-mi$n	rus	плод	n-m-nn$n$n-m
 	ces	klub	n-mi	rus	клуб	n-m-nn$n
-	ces	noc	n-f	rus	ночь	n-f-nn$n$n-f
-	ces	duše	n-f	rus	дух	n-m-nn$n$n-m$n-m-nn-sg
-	ces	duše	n-f	rus	душа	n-f-nn$n$n-f
+	ces	noc	n-f$n	rus	ночь	n-f-nn$n$n-f
+	ces	duše	n-f$n	rus	дух	n-m-nn$n$n-m$n-m-nn-sg
+	ces	duše	n-f$n	rus	душа	n-f-nn$n$n-f
 	ces	továrna	n-f	rus	завод	n-m-nn$n
 	ces	rolník	n-ma	rus	крестьянин	n-m-aa
 	ces	hlad	n-mi	rus	голод	n-m-nn$n-m-nn-sg$n-m
@@ -1275,8 +1275,8 @@
 	ces	socialismus	n-mi	rus	социализм	n-m-nn$n$n-m
 	ces	panika	n-f	rus	паника	n-f-nn$n
 	ces	nákup	n-mi	rus	покупка	n-f-nn
-	ces	řeka	n-f	rus	река	n-f-nn$n$n-f
-	ces	podzim	n-mi	rus	осень	n-f-nn$n$n-f
+	ces	řeka	n-f$n	rus	река	n-f-nn$n$n-f
+	ces	podzim	n-mi$n	rus	осень	n-f-nn$n$n-f
 	ces	ideál	n-mi	rus	идеал	n-m-nn$n
 	ces	federace	n-f	rus	федерация	n-f-nn$n$n-f
 	ces	úrok	n-mi	rus	процент	n-m-nn$n$n-m
@@ -1285,8 +1285,8 @@
 	ces	výhled	n-mi	rus	перспектива	n-f-nn$n-f$n
 	ces	komodita	n-f	rus	товар	n-m-nn$n$n-m
 	ces	inspektor	n-ma	rus	инспектор	n-m-aa$n
-	ces	zvyk	n-mi	rus	обычай	n-m-nn$n
-	ces	zvyk	n-mi	rus	привычка	n-f-nn$n
+	ces	zvyk	n-mi$n	rus	обычай	n-m-nn$n
+	ces	zvyk	n-mi$n	rus	привычка	n-f-nn$n
 	ces	velvyslanec	n-ma	rus	посол	n-m-nn
 	ces	stopa	n-f	rus	след	n-m-nn$n$n-m
 	ces	kariéra	n-f	rus	карьера	n-f-nn$n
@@ -1294,8 +1294,8 @@
 	ces	vesmír	n-mi	rus	вселенная	n-f-nn$n
 	ces	oceán	n-mi	rus	океан	n-m-nn$n$n-m
 	ces	špička	n-f	rus	верхушка	n-f-nn$n
-	ces	kus	n-mi	rus	кусок	n-m-nn
-	ces	dráha	n-f	rus	дорога	n-f-nn$n-f$n
+	ces	kus	n-mi$n	rus	кусок	n-m-nn
+	ces	dráha	n-f$n	rus	дорога	n-f-nn$n-f$n
 	ces	zánik	n-mi	rus	гибель	n-f-nn
 	ces	vlastník	n-ma	rus	владелец	n-m-aa$n
 	ces	barva	n-f	rus	краска	n-f-nn
@@ -1309,13 +1309,13 @@
 	ces	kanál	n-mi	rus	канал	n-m-nn$n$n-m
 	ces	kámen	n-mi	rus	камень	n-m-nn$n$n-m
 	ces	obhajoba	n-f	rus	защита	n-f-nn$n$n-f
-	ces	hora	n-f	rus	гора	n-f-nn$n$n-f
+	ces	hora	n-f$n	rus	гора	n-f-nn$n$n-f
 	ces	akademik	n-ma	rus	академик	n-m-aa$n$n-m-aa-pl
 	ces	zákazník	n-ma	rus	клиент	n-m-aa$n
 	ces	mina	n-f	rus	мина	n-f-nn$n$n-f
 	ces	emoce	n-f	rus	эмоция	n-f-nn$n
 	ces	ulička	n-f	rus	переулок	n-m-nn
-	ces	inženýr	n-ma	rus	инженер	n-m-aa$n$n-m
+	ces	inženýr	n-ma$n	rus	инженер	n-m-aa$n$n-m
 	ces	deník	n-mi	rus	дневник	n-m-nn$n$n-m
 	ces	zlomek	n-mi	rus	доля	n-f-nn$n
 	ces	přestávka	n-f	rus	пауза	n-f-nn$n
@@ -1327,7 +1327,7 @@
 	ces	dar	n-mi	rus	подарок	n-m-nn$n
 	ces	akademie	n-f	rus	академия	n-f-nn$n$n-f
 	ces	propaganda	n-f	rus	пропаганда	n-f-nn$n
-	ces	bratr	n-ma	rus	брат	n-m-aa$n
+	ces	bratr	n-ma$n	rus	брат	n-m-aa$n
 	ces	rezignace	n-f	rus	отставка	n-f-nn$n$n-f
 	ces	mezera	n-f	rus	разрыв	n-m-nn
 	ces	dívka	n-f	rus	девушка	n-f-aa
@@ -1336,7 +1336,7 @@
 	ces	epizoda	n-f	rus	эпизод	n-m-nn$n
 	ces	bok	n-mi	rus	бок	n-m-nn$n
 	ces	novinka	n-f	rus	новость	n-f-nn$n-f$n
-	ces	noha	n-f	rus	нога	n-f-nn$n$n-f
+	ces	noha	n-f$n	rus	нога	n-f-nn$n$n-f
 	ces	kapitola	n-f	rus	глава	n-f-nn
 	ces	záznam	n-mi	rus	запись	n-f-nn$n
 	ces	hvězda	n-f	rus	звезда	n-f-nn$n$n-f
@@ -1347,21 +1347,21 @@
 	ces	park	n-mi	rus	парк	n-m-nn$n$n-m
 	ces	nápad	n-mi	rus	идея	n-f-nn$n-f$n
 	ces	náhled	n-mi	rus	взгляд	n-m-nn$n
-	ces	chlapec	n-ma	rus	мальчик	n-m-aa$n
+	ces	chlapec	n-ma$n	rus	мальчик	n-m-aa$n
 	ces	adresa	n-f	rus	адрес	n-m-nn$n
 	ces	lhůta	n-f	rus	срок	n-m-nn$n
 	ces	fráze	n-f	rus	фраза	n-f-nn$n
 	ces	varianta	n-f	rus	вариант	n-m-nn$n
-	ces	nula	n-f	rus	ноль	n-m-nn$n
-	ces	nula	n-f	rus	нуль	n$n-m-nn
-	ces	zima	n-f	rus	зима	n-f-nn$n
-	ces	zima	n-f	rus	холодный	n$n-f-nn
+	ces	nula	n-f$n	rus	ноль	n-m-nn$n
+	ces	nula	n-f$n	rus	нуль	n$n-m-nn
+	ces	zima	n-f$n	rus	зима	n-f-nn$n
+	ces	zima	n-f$n	rus	холодный	n$n-f-nn
 	ces	záminka	n-f	rus	повод	n-m-nn$n
 	ces	sportovec	n-ma	rus	спортсмен	n-m-aa$n$n-m
 	ces	prognóza	n-f	rus	прогноз	n-m-nn$n
 	ces	manželka	n-f	rus	жена	n-f-aa$n
 	ces	hladomor	n-mi	rus	голод	n-m-nn$n-m-nn-sg$n-m
-	ces	cukr	n-mi	rus	сахар	n-m-nn$n-m-nn-sg$n$n-m
+	ces	cukr	n-mi$n	rus	сахар	n-m-nn$n-m-nn-sg$n$n-m
 	ces	vlak	n-mi	rus	поезд	n-m-nn$n$n-m
 	ces	pozemek	n-mi	rus	земля	n-f-nn$n$n-f
 	ces	sjezd	n-mi	rus	съезд	n-m-nn$n
@@ -1369,17 +1369,17 @@
 	ces	hudba	n-f	rus	музыка	n-f-nn$n$n-f
 	ces	stezka	n-f	rus	дорожка	n-f-nn$n
 	ces	reklama	n-f	rus	реклама	n-f-nn$n
-	ces	pes	n-ma	rus	собака	n-f-aa$n$n-f
+	ces	pes	n-ma$n	rus	собака	n-f-aa$n$n-f
 	ces	literatura	n-f	rus	литература	n-f-nn$n$n-f
 	ces	entita	n-f	rus	сущность	n-f-nn$n
 	ces	dav	n-mi	rus	толпа	n-f-nn$n
 	ces	bílkovina	n-f	rus	белок	n-m-nn$n
 	ces	báze	n-f	rus	база	n-f-nn$n
 	ces	báze	n-f	rus	основа	n-f-nn$n$n-f
-	ces	zub	n-mi	rus	зуб	n-m-nn$n$n-m
+	ces	zub	n-mi$n	rus	зуб	n-m-nn$n$n-m
 	ces	převod	n-mi	rus	перевод	n-m-nn$n
 	ces	poprava	n-f	rus	казнь	n-f-nn
-	ces	lekce	n-f	rus	урок	n-m-nn$n
+	ces	lekce	n-f$n	rus	урок	n-m-nn$n
 	ces	suma	n-f	rus	сумма	n-f-nn$n
 	ces	srážka	n-f$n	rus	конфликт	n-m-nn$n$n-m
 	ces	profese	n-f	rus	профессия	n-f-nn$n
@@ -1394,9 +1394,9 @@
 	ces	dozor	n-mi	rus	контроль	n-m-nn$n
 	ces	básník	n-ma	rus	поэт	n-m-aa$n
 	ces	výdělek	n-mi	rus	доход	n-m-nn$n
-	ces	smysl	n-mi	rus	дух	n-m-nn$n$n-m$n-m-nn-sg
-	ces	smysl	n-mi	rus	значение	n-nt-nn$n
-	ces	smysl	n-mi	rus	смысл	n-m-nn$n
+	ces	smysl	n-mi$n	rus	дух	n-m-nn$n$n-m$n-m-nn-sg
+	ces	smysl	n-mi$n	rus	значение	n-nt-nn$n
+	ces	smysl	n-mi$n	rus	смысл	n-m-nn$n
 	ces	selekce	n-f	rus	выбор	n-m-nn$n$n-m-nn-pl$n-m
 	ces	procedura	n-f	rus	процедура	n-f-nn$n$n-f
 	ces	pramen	n-mi	rus	источник	n-m-nn$n-m$n
@@ -1417,14 +1417,14 @@
 	ces	vrah	n-ma	rus	убийца	n-m-aa$n
 	ces	učebnice	n-f	rus	учебник	n-m-nn$n
 	ces	pokyn	n-mi	rus	инструкция	n-f-nn$n$n-f
-	ces	pán	n-ma	rus	господин	n-m-aa$n
-	ces	pán	n-ma	rus	хозяин	n-m-aa$n
+	ces	pán	n-ma$n	rus	господин	n-m-aa$n
+	ces	pán	n-ma$n	rus	хозяин	n-m-aa$n
 	ces	krása	n-f	rus	красота	n-f-nn
 	ces	kopie	n-f	rus	копия	n-f-nn$n
 	ces	hloubka	n-f	rus	глубина	n-f-nn$n
 	ces	román	n-mi	rus	роман	n-m-nn$n$n-m
 	ces	pohnutka	n-f	rus	повод	n-m-nn$n
-	ces	medvěd	n-ma	rus	медведь	n-m-aa$n
+	ces	medvěd	n-ma$n	rus	медведь	n-m-aa$n
 	ces	krajina	n-f	rus	земля	n-f-nn$n$n-f
 	ces	umělec	n-ma	rus	артист	n-m-aa$n
 	ces	umělec	n-ma	rus	художник	n-m-aa$n$n-m
@@ -1434,7 +1434,7 @@
 	ces	přeprava	n-f	rus	транспорт	n-m-nn$n-m$n
 	ces	požár	n-mi	rus	пожар	n-m-nn$n
 	ces	mód	n-mi	rus	тип	n-m-aa$n
-	ces	minuta	n-f	rus	минута	n-f-nn$n$n-f
+	ces	minuta	n-f$n	rus	минута	n-f-nn$n$n-f
 	ces	marka	n-f	rus	марка	n-f-nn$n
 	ces	led	n-mi	rus	лед	n-m-nn
 	ces	delegace	n-f	rus	делегация	n-f-nn$n$n-f
@@ -1446,20 +1446,20 @@
 	ces	náčelník	n-ma	rus	вождь	n-m-aa$n
 	ces	náčelník	n-ma	rus	начальник	n-m-aa$n$n-m$n-m-aa-pl
 	ces	hrob	n-mi	rus	могила	n-f-nn$n
-	ces	car	n-ma	rus	царь	n-m-aa$n$n-m
+	ces	car	n-ma$n	rus	царь	n-m-aa$n$n-m
 	ces	značka	n-f	rus	знак	n-m-nn$n$n-m
 	ces	značka	n-f	rus	марка	n-f-nn$n
 	ces	zásilka	n-f	rus	груз	n-m-nn$n
 	ces	tabulka	n-f	rus	таблица	n-f-nn$n
 	ces	podpis	n-mi	rus	подпись	n-f-nn$n
-	ces	nos	n-mi	rus	нос	n-m-nn$n$n-m
+	ces	nos	n-mi$n	rus	нос	n-m-nn$n$n-m
 	ces	listina	n-f	rus	документ	n-m-nn$n-m$n
 	ces	byznys	n-mi	rus	бизнес	n-m-nn$n$n-m
 	ces	zrak	n-mi	rus	глаз	n-m-nn$n$n-m
 	ces	špionáž	n-f	rus	разведка	n-f-nn$n-f
-	ces	pokoj	n-mi	rus	комната	n-f-nn$n
-	ces	pokoj	n-mi	rus	мир	n-m-nn$n$n-m
-	ces	pokoj	n-mi	rus	палата	n-f-nn$n
+	ces	pokoj	n-mi$n	rus	комната	n-f-nn$n
+	ces	pokoj	n-mi$n	rus	мир	n-m-nn$n$n-m
+	ces	pokoj	n-mi$n	rus	палата	n-f-nn$n
 	ces	oděv	n-mi	rus	одежда	n-f-nn$n
 	ces	návyk	n-mi	rus	привычка	n-f-nn$n
 	ces	meta	n-f	rus	цель	n-f-nn$n$n-f
@@ -1470,7 +1470,7 @@
 	ces	výstava	n-f	rus	выставка	n-f-nn$n
 	ces	špion	n-ma	rus	разведчик	n-m-aa$n
 	ces	špion	n-ma	rus	шпион	n-m-aa$n
-	ces	rozkaz	n-mi	rus	приказ	n-m-nn$n
+	ces	rozkaz	n-mi$n	rus	приказ	n-m-nn$n
 	ces	osnova	n-f	rus	план	n-m-nn$n$n-m
 	ces	mák	n-mi	rus	мак	n-m-nn$n
 	ces	kulka	n-f	rus	пуля	n-f-nn$n$n-f
@@ -1485,29 +1485,29 @@
 	ces	kov	n-mi	rus	металл	n-m-nn$n
 	ces	balík	n-mi	rus	пакет	n-m-nn$n$n-m
 	ces	alkohol	n-mi	rus	алкоголь	n-m-nn$n$n-m
-	ces	vlas	n-mi	rus	волос	n-m-nn$n$n-m-nn-pl
-	ces	stát	n-mi	rus	государство	n-nt-nn$n$n-nt
+	ces	vlas	n-mi$n	rus	волос	n-m-nn$n$n-m-nn-pl
+	ces	stát	n-mi$n	rus	государство	n-nt-nn$n$n-nt
 	ces	přehled	n-mi	rus	анализ	n-m-nn$n$n-m
 	ces	nebesa	n-nt$n-nt-pl	rus	небо	n-nt-nn$n$n-nt
 	ces	linka	n-f	rus	линия	n-f-nn$n
-	ces	vůz	n-mi	rus	автомобиль	n-m-nn$n$n-m
+	ces	vůz	n-mi$n	rus	автомобиль	n-m-nn$n$n-m
 	ces	spánek	n-mi	rus	сон	n-m-nn$n
 	ces	reprezentant	n-ma	rus	представитель	n-m-aa$n$n-m
 	ces	redaktor	n-ma	rus	редактор	n-m-aa$n$n-m$n-m-aa-pl
 	ces	prodejna	n-f	rus	магазин	n-m-nn$n$n-m
 	ces	písek	n-mi	rus	песок	n-m-nn$n$n-m
-	ces	lavice	n-f	rus	скамья	n-f-nn$n
-	ces	kraj	n-mi	rus	край	n-m-nn$n-m
-	ces	etapa	n-f	rus	этап	n-m-nn$n
+	ces	lavice	n-f$n	rus	скамья	n-f-nn$n
+	ces	kraj	n-mi$n	rus	край	n-m-nn$n-m
+	ces	etapa	n-f$n	rus	этап	n-m-nn$n
 	ces	dárek	n-mi	rus	подарок	n-m-nn$n
 	ces	čistota	n-f	rus	чистота	n-f-nn$n-f-nn-sg
 	ces	výprava	n-f	rus	поход	n-m-nn$n
 	ces	přístup	n-mi	rus	доступ	n-m-nn$n$n-m
 	ces	přístup	n-mi	rus	подход	n-m-nn
-	ces	pás	n-mi	rus	пояс	n-m-nn$n
-	ces	pás	n-mi	rus	ремень	n-m-nn$n
+	ces	pás	n-mi$n	rus	пояс	n-m-nn$n
+	ces	pás	n-mi$n	rus	ремень	n-m-nn$n
 	ces	miska	n-f	rus	чашка	n-f-nn$n
-	ces	královna	n-f	rus	королева	n-f-aa
+	ces	královna	n-f$n	rus	королева	n-f-aa
 	ces	koš	n-mi	rus	корзина	n-f-nn
 	ces	specialista	n-ma	rus	специалист	n-m-aa$n
 	ces	sběr	n-mi	rus	сбор	n-m-nn
@@ -1519,8 +1519,8 @@
 	ces	kupec	n-ma	rus	покупатель	n-m-aa$n
 	ces	kněz	n-ma	rus	священник	n-m-aa$n
 	ces	kilogram	n-mi	rus	килограмм	n-m-nn$n$n-m
-	ces	spolek	n-mi	rus	союз	n-m-nn$n$n-m
-	ces	polévka	n-f	rus	суп	n-m-nn$n$n-m
+	ces	spolek	n-mi$n	rus	союз	n-m-nn$n$n-m
+	ces	polévka	n-f$n	rus	суп	n-m-nn$n$n-m
 	ces	paluba	n-f	rus	борт	n-m-nn
 	ces	oprava	n-f	rus	ремонт	n-m-nn$n
 	ces	opasek	n-mi	rus	пояс	n-m-nn$n
@@ -1531,19 +1531,19 @@
 	ces	důvod	n-mi	rus	мотив	n-m-nn$n
 	ces	důvod	n-mi	rus	основание	n-nt-nn$n$n-nt
 	ces	důvod	n-mi	rus	причина	n-f-nn$n$n-f
-	ces	žaludek	n-mi	rus	желудок	n-m-nn$n$n-m
+	ces	žaludek	n-mi$n	rus	желудок	n-m-nn$n$n-m
 	ces	večírek	n-mi	rus	вечер	n-m-nn$n
 	ces	úsměv	n-mi	rus	улыбка	n-f-nn$n
 	ces	slza	n-f	rus	слеза	n-f-nn$n$n-f-nn-pl
 	ces	sklad	n-mi	rus	склад	n-m-nn$n
 	ces	rýže	n-f	rus	рис	n-m-nn$n
-	ces	právo	n-nt	rus	право	n-nt-nn$n$n-nt
+	ces	právo	n-nt$n	rus	право	n-nt-nn$n$n-nt
 	ces	pochod	n-mi	rus	марш	n-m-nn$n
 	ces	páska	n-f	rus	лента	n-f-nn$n
 	ces	mrtvola	n-f	rus	труп	n-m-nn$n
 	ces	metropole	n-f	rus	столица	n-f-nn$n$n-f
 	ces	flotila	n-f	rus	флот	n-m-nn$n
-	ces	člun	n-mi	rus	лодка	n-f-nn$n
+	ces	člun	n-mi$n	rus	лодка	n-f-nn$n
 	ces	chrám	n-mi	rus	храм	n-m-nn$n$n-m
 	ces	advokát	n-ma	rus	адвокат	n-m-aa$n$n-m
 	ces	žurnalista	n-ma	rus	журналист	n-m-aa$n$n-m
@@ -1556,24 +1556,24 @@
 	ces	hračka	n-f	rus	игрушка	n-f-nn$n
 	ces	drak	n-ma	rus	дракон	n-m-aa$n
 	ces	babička	n-f	rus	бабушка	n-f-aa$n
-	ces	areál	n-mi	rus	территория	n-f-nn$n-f$n
+	ces	areál	n-mi$n	rus	территория	n-f-nn$n-f$n
 	ces	zabiják	n-ma	rus	убийца	n-m-aa$n
 	ces	výkaz	n-mi	rus	отчет	n-m-nn
-	ces	vlk	n-ma	rus	волк	n-m-nn
+	ces	vlk	n-ma$n	rus	волк	n-m-nn
 	ces	turista	n-ma	rus	турист	n-m-aa$n$n-m
 	ces	školák	n-ma	rus	школьник	n-m-aa$n-m-aa-pl
 	ces	sezóna	n-f	rus	сезон	n-m-nn$n
 	ces	sbírka	n-f	rus	коллекция	n-f-nn$n
 	ces	sbírka	n-f	rus	сбор	n-m-nn
-	ces	průkopník	n-ma	rus	пионер	n-m-aa$n
+	ces	průkopník	n-ma$n	rus	пионер	n-m-aa$n
 	ces	posádka	n-f	rus	команда	n-f-nn$n$n-f
-	ces	pohádka	n-f	rus	сказка	n-f-nn$n
+	ces	pohádka	n-f$n	rus	сказка	n-f-nn$n
 	ces	plukovník	n-ma	rus	полковник	n-m-aa$n$n-m$n-m-aa-pl
 	ces	památka	n-f	rus	памятник	n-m-nn$n
 	ces	památka	n-f	rus	память	n-f-nn$n
 	ces	otrok	n-ma	rus	раб	n-m-aa$n
 	ces	nomenklatura	n-f	rus	номенклатура	n-f-nn$n
-	ces	koberec	n-mi	rus	ковер	n-m-nn
+	ces	koberec	n-mi$n	rus	ковер	n-m-nn
 	ces	knihovna	n-f	rus	библиотека	n-f-nn$n
 	ces	kapitán	n-ma	rus	капитан	n-m-aa$n
 	ces	kamera	n-f	rus	камера	n-f-nn$n
@@ -1582,13 +1582,13 @@
 	ces	archiv	n-mi	rus	архив	n-m-nn$n$n-m
 	ces	válečník	n-ma	rus	воин	n-m-aa$n
 	ces	úlovek	n-mi	rus	добыча	n-f-nn$n
-	ces	tribuna	n-f	rus	трибуна	n-f-nn$n
+	ces	tribuna	n-f$n	rus	трибуна	n-f-nn$n
 	ces	režisér	n-ma	rus	режиссер	n-m-aa
 	ces	prostředek	n-mi	rus	орудие	n-nt-nn$n
 	ces	prostředek	n-mi	rus	средство	n-nt-nn$n$n-nt
 	ces	princezna	n-f	rus	принцесса	n-f-aa$n
 	ces	pauza	n-f	rus	пауза	n-f-nn$n
-	ces	loutka	n-f	rus	кукла	n-f-aa
+	ces	loutka	n-f$n	rus	кукла	n-f-aa
 	ces	konstruktér	n-ma	rus	конструктор	n-m-nn
 	ces	fašista	n-ma	rus	фашист	n-m-aa$n
 	ces	doktor	n-ma	rus	врач	n-m-aa$n$n-m
@@ -1609,13 +1609,13 @@
 	ces	nůž	n-mi	rus	нож	n-m-nn$n
 	ces	litera	n-f	rus	буква	n-f-nn$n$n-f
 	ces	lesk	n-mi	rus	блеск	n-m-nn$n
-	ces	květina	n-f	rus	цветок	n-m-nn$n
+	ces	květina	n-f$n	rus	цветок	n-m-nn$n
 	ces	kapka	n-f	rus	капля	n-f-nn$n
 	ces	helikoptéra	n-f	rus	вертолет	n-m-nn
 	ces	družice	n-f	rus	спутник	n-m-aa$n
 	ces	baron	n-ma	rus	барон	n-m-aa$n
 	ces	asistent	n-ma	rus	помощник	n-m-aa$n$n-m
-	ces	židle	n-f	rus	стул	n-m-nn$n
+	ces	židle	n-f$n	rus	стул	n-m-nn$n
 	ces	vysokoškolák	n-ma	rus	студент	n-m-aa$n$n-m
 	ces	vstupenka	n-f	rus	билет	n-m-nn$n
 	ces	temnota	n-f	rus	мрак	n-m-nn$n
@@ -1625,7 +1625,7 @@
 	ces	řádek	n-mi	rus	строка	n-f-nn$n
 	ces	pud	n-mi	rus	инстинкт	n-m-nn$n
 	ces	poezie	n-f	rus	поэзия	n-f-nn$n
-	ces	paprsek	n-mi	rus	луч	n-m-nn$n
+	ces	paprsek	n-mi$n	rus	луч	n-m-nn$n
 	ces	pánev	n-f	rus	бассейн	n-m-nn$n
 	ces	nerv	n-mi	rus	нерв	n-m-nn$n
 	ces	nával	n-mi	rus	порыв	n-m-nn$n
@@ -1639,7 +1639,7 @@
 	ces	bota	n-f	rus	туфля	n-f-nn$n
 	ces	benzín	n-mi	rus	бензин	n-m-nn$n
 	ces	bazar	n-mi	rus	базар	n-m-nn$n
-	ces	zahrada	n-f	rus	сад	n-m-nn$n
+	ces	zahrada	n-f$n	rus	сад	n-m-nn$n
 	ces	věž	n-f	rus	башня	n-f-nn$n
 	ces	věhlas	n-mi	rus	слава	n-f-nn$n
 	ces	vdova	n-f	rus	вдова	n-f-aa$n
@@ -1654,20 +1654,20 @@
 	ces	malíř	n-ma	rus	художник	n-m-aa$n$n-m
 	ces	humor	n-mi	rus	юмор	n-m-nn$n
 	ces	holčička	n-f	rus	девочка	n-f-aa$n
-	ces	čaj	n-mi	rus	чай	n-m-nn$n$n-m
+	ces	čaj	n-mi$n	rus	чай	n-m-nn$n$n-m
 	ces	bicykl	n-mi	rus	велосипед	n-m-nn$n
 	ces	banda	n-f	rus	банда	n-f-nn$n$n-f
 	ces	žebřík	n-mi	rus	лестница	n-f-nn$n
-	ces	vteřina	n-f	rus	секунда	n-f-nn$n
+	ces	vteřina	n-f$n	rus	секунда	n-f-nn$n
 	ces	verš	n-mi	rus	стихи	n-m-nn
 	ces	studna	n-f	rus	колодец	n-m-nn$n
-	ces	sobota	n-f	rus	суббота	n-f-nn$n$n-f
+	ces	sobota	n-f$n	rus	суббота	n-f-nn$n$n-f
 	ces	slepice	n-f	rus	курица	n-f-aa
 	ces	šablona	n-f	rus	модель	n-f-nn$n
 	ces	puška	n-f	rus	винтовка	n-f-nn$n
 	ces	průplav	n-mi	rus	канал	n-m-nn$n$n-m
 	ces	prášek	n-mi	rus	порошок	n-m-nn$n
-	ces	pošta	n-f	rus	почта	n-f-nn$n
+	ces	pošta	n-f$n	rus	почта	n-f-nn$n
 	ces	pokožka	n-f	rus	кожа	n-f-nn$n$n-f
 	ces	pohrůžka	n-f	rus	угроза	n-f-nn$n
 	ces	pěchota	n-f	rus	пехота	n-f-nn$n
@@ -1689,8 +1689,8 @@
 	ces	puma	n-f	rus	бомба	n-f-nn$n$n-f
 	ces	pilulka	n-f	rus	таблетка	n-f-nn$n
 	ces	perioda	n-f	rus	период	n-m-nn$n$n-m
-	ces	ruka	n-f	rus	рука	n-f-nn$n
-	ces	paže	n-f	rus	рука	n-f-nn$n
+	ces	ruka	n-f$n	rus	рука	n-f-nn$n
+	ces	paže	n-f$n	rus	рука	n-f-nn$n
 	ces	ochranka	n-f	rus	охрана	n-f-nn$n
 	ces	objednávka	n-f	rus	заказ	n-m-nn
 	ces	milovník	n-ma	rus	любитель	n-m-aa$n
@@ -1712,15 +1712,15 @@
 	ces	zmocněnec	n-ma	rus	комиссар	n-m-aa$n$n-m-aa-pl
 	ces	zmocněnec	n-ma	rus	представитель	n-m-aa$n$n-m
 	ces	tečka	n-f	rus	точка	n-f-nn$n$n-f
-	ces	strýc	n-ma	rus	дядя	n-m-aa$n
+	ces	strýc	n-ma$n	rus	дядя	n-m-aa$n
 	ces	sonda	n-f	rus	спутник	n-m-aa$n
-	ces	sklenice	n-f	rus	стакан	n-m-nn$n$n-m
+	ces	sklenice	n-f$n	rus	стакан	n-m-nn$n$n-m
 	ces	seržant	n-ma	rus	сержант	n-m-aa$n
 	ces	schopnost	n-f	rus	способность	n-f-nn$n$n-f
 	ces	salón	n-mi	rus	салон	n-m-nn$n
 	ces	rytíř	n-ma	rus	рыцарь	n-m-aa$n
 	ces	rekreace	n-f	rus	отдых	n-m-nn$n
-	ces	příležitost	n-f	rus	возможность	n-f-nn$n
+	ces	příležitost	n-f$n	rus	возможность	n-f-nn$n
 	ces	polibek	n-mi	rus	поцелуй	n-m-nn$n
 	ces	podplukovník	n-ma	rus	подполковник	n-m-aa$n$n-m
 	ces	pionýr	n-ma	rus	пионер	n-m-aa$n
@@ -1739,16 +1739,16 @@
 	ces	vodka	n-f	rus	водка	n-f-nn$n
 	ces	veličina	n-f	rus	величина	n-f-nn$n
 	ces	toaleta	n-f	rus	туалет	n-m-nn$n
-	ces	tanečník	n-ma	rus	танцор	n-m-aa
-	ces	svět	n-mi	rus	мир	n-m-nn$n$n-m
+	ces	tanečník	n-ma$n	rus	танцор	n-m-aa
+	ces	svět	n-mi$n	rus	мир	n-m-nn$n$n-m
 	ces	štěstí	n-mi	rus	счастье	n-nt-nn$n$n-nt-nn-sg
 	ces	štěstí	n-mi	rus	удача	n-f-nn$n
 	ces	spojitost	n-f	rus	связь	n-f-nn$n$n-f
 	ces	smečka	n-f	rus	стая	n-f-nn
-	ces	slon	n-ma	rus	слон	n-m-aa$n
+	ces	slon	n-ma$n	rus	слон	n-m-aa$n
 	ces	sekera	n-f	rus	топор	n-m-nn$n
 	ces	schod	n-mi	rus	ступень	n-f-nn$n
-	ces	šálek	n-mi	rus	чашка	n-f-nn$n
+	ces	šálek	n-mi$n	rus	чашка	n-f-nn$n
 	ces	rvačka	n-f	rus	драка	n-f-nn
 	ces	recepce	n-f	rus	прием	n-m-nn
 	ces	prasklina	n-f	rus	трещина	n-f-nn$n
@@ -1756,17 +1756,17 @@
 	ces	pohovor	n-mi	rus	беседа	n-f-nn$n
 	ces	plnovous	n-mi	rus	борода	n-f-nn$n
 	ces	pěšina	n-f	rus	дорожка	n-f-nn$n
-	ces	panenka	n-f	rus	кукла	n-f-aa
+	ces	panenka	n-f$n	rus	кукла	n-f-aa
 	ces	motýl	n-ma	rus	бабочка	n-f-aa$n$n-f
 	ces	lektor	n-ma	rus	преподаватель	n-m-aa$n
 	ces	kuchař	n-ma	rus	повар	n-m-aa$n
 	ces	kravata	n-f	rus	галстук	n-m-nn$n
 	ces	korespondent	n-ma	rus	корреспондент	n-m-aa
 	ces	kajuta	n-f	rus	каюта	n-f-nn$n
-	ces	jízdenka	n-f	rus	билет	n-m-nn$n
+	ces	jízdenka	n-f$n	rus	билет	n-m-nn$n
 	ces	jelen	n-ma	rus	олень	n-m-aa$n$n-m
-	ces	husa	n-f	rus	гусь	n-m-aa$n
-	ces	hrad	n-mi	rus	замок	n-m-nn$n
+	ces	husa	n-f$n	rus	гусь	n-m-aa$n
+	ces	hrad	n-mi$n	rus	замок	n-m-nn$n
 	ces	expozice	n-f	rus	выставка	n-f-nn$n
 	ces	důvěra	n-f	rus	доверие	n-nt-nn$n$n-nt
 	ces	cvik	n-mi	rus	практика	n-f-nn$n
@@ -1781,13 +1781,13 @@
 	ces	záchod	n-mi	rus	туалет	n-m-nn$n
 	ces	vláda	n-f	rus	власть	n-f-nn$n$n-f
 	ces	vláda	n-f	rus	правительство	n-nt-nn$n-nt$n
-	ces	věc	n-f	rus	вещь	n-f-nn$n
-	ces	věc	n-f	rus	дело	n-nt-nn$n$n-nt
+	ces	věc	n-f$n	rus	вещь	n-f-nn$n
+	ces	věc	n-f$n	rus	дело	n-nt-nn$n$n-nt
 	ces	užitek	n-mi	rus	благо	n-nt-nn$n
 	ces	užitek	n-mi	rus	польза	n-f-nn$n
 	ces	ústředna	n-f	rus	центр	n-m-nn$n$n-m
-	ces	úkol	n-mi	rus	задание	n-nt-nn$n
-	ces	úkol	n-mi	rus	задача	n-f-nn$n$n-f
+	ces	úkol	n-mi$n	rus	задание	n-nt-nn$n
+	ces	úkol	n-mi$n	rus	задача	n-f-nn$n$n-f
 	ces	tým	n-mi	rus	группа	n-f-nn$n$n-f
 	ces	tým	n-mi	rus	команда	n-f-nn$n$n-f
 	ces	trpělivost	n-f	rus	терпение	n-nt-nn$n
@@ -1800,7 +1800,7 @@
 	ces	růst	n-mi	rus	рост	n-m-nn$n
 	ces	rozbřesk	n-mi	rus	рассвет	n-m-nn$n-m
 	ces	radost	n-f	rus	радость	n-f-nn$n$n-f
-	ces	přízvuk	n-mi	rus	акцент	n-m-nn$n
+	ces	přízvuk	n-mi$n	rus	акцент	n-m-nn$n
 	ces	práce	n-f	rus	дело	n-nt-nn$n$n-nt
 	ces	práce	n-f	rus	работа	n-f-nn$n$n-f
 	ces	ponožka	n-f	rus	носок	n-m-nn$n
@@ -1821,32 +1821,32 @@
 	ces	náboženství	n-nt	rus	религия	n-f-nn$n$n-f
 	ces	muzika	n-f	rus	музыка	n-f-nn$n$n-f
 	ces	mřížka	n-f	rus	решетка	n-f-nn
-	ces	motiv	n-mi	rus	мотив	n-m-nn$n
+	ces	motiv	n-mi$n	rus	мотив	n-m-nn$n
 	ces	modelka	n-f	rus	модель	n-f-nn$n
-	ces	lžíce	n-f	rus	ложка	n-f-nn
+	ces	lžíce	n-f$n	rus	ложка	n-f-nn
 	ces	lednice	n-f	rus	холодильник	n-m-nn$n
 	ces	koupel	n-f	rus	ванна	n-f-nn$n
 	ces	knížka	n-f	rus	книжка	n-f-nn$n
 	ces	katedrála	n-f	rus	собор	n-m-nn$n$n-m
 	ces	kantor	n-ma	rus	учитель	n-m-aa$n
 	ces	kabina	n-f	rus	кабина	n-f-nn
-	ces	jméno	n-nt	rus	имя	n-nt-nn$n$n-nt
+	ces	jméno	n-nt$n	rus	имя	n-nt-nn$n$n-nt
 	ces	instrument	n-mi	rus	инструмент	n-m-nn$n$n-m-nn-sg
 	ces	holka	n-f	rus	девочка	n-f-aa$n
 	ces	hlína	n-f	rus	глина	n-f-nn$n
 	ces	garáž	n-f	rus	гараж	n-m-nn$n
 	ces	fontána	n-f	rus	фонтан	n-m-nn$n
 	ces	fabrika	n-f	rus	фабрика	n-f-nn$n$n-f
-	ces	dítě	n-nt	rus	младенец	n-m-aa$n
-	ces	dítě	n-nt	rus	ребёнок	n-m-aa$n$n-m
+	ces	dítě	n-nt$n	rus	младенец	n-m-aa$n
+	ces	dítě	n-nt$n	rus	ребёнок	n-m-aa$n$n-m
 	ces	demise	n-f	rus	отставка	n-f-nn$n$n-f
 	ces	črta	n-f	rus	черта	n-f-nn$n
 	ces	číslice	n-f	rus	цифра	n-f-nn$n
-	ces	čas	n-mi	rus	время	n-nt-nn$nt$n-nt
+	ces	čas	n-mi$n	rus	время	n-nt-nn$nt$n-nt
 	ces	bazén	n-mi	rus	бассейн	n-m-nn$n
 	ces	automobil	n-mi	rus	автомобиль	n-m-nn$n$n-m
-	ces	země	n-f	rus	земля	n-f-nn$n$n-f
-	ces	země	n-f	rus	страна	n-f-nn$n-f$n
+	ces	země	n-f$n	rus	земля	n-f-nn$n$n-f
+	ces	země	n-f$n	rus	страна	n-f-nn$n-f$n
 	ces	deficit	n-mi	rus	дефицит	n-m-nn$n
 	ces	opozice	n-f	rus	оппозиция	n-f-nn$n-f$n
 	ces	konkurence	n-f	rus	конкуренция	n-f-nn$n
@@ -1877,13 +1877,13 @@
 	ces	farmář	n-ma	rus	фермер	n-m-aa$n
 	ces	amnestie	n-f	rus	амнистия	n-f-nn$n-f$n
 	ces	harmonizace	n-f	rus	гармонизация	n-f-nn
-	ces	smysl	n-mi	rus	дух	n-m-nn$n$n-m$n-m-nn-sg
-	ces	smysl	n-mi	rus	значение	n-nt-nn$n
-	ces	smysl	n-mi	rus	смысл	n-m-nn$n
+	ces	smysl	n-mi$n	rus	дух	n-m-nn$n$n-m$n-m-nn-sg
+	ces	smysl	n-mi$n	rus	значение	n-nt-nn$n
+	ces	smysl	n-mi$n	rus	смысл	n-m-nn$n
 	ces	gen	n-mi	rus	ген	n-m-nn$n$n-m
 	ces	asimilace	n-f	rus	ассимиляция	n-f-nn$n-f
 	ces	apatie	n-f	rus	апатия	n-f-nn$n
-	ces	stát	n-mi	rus	государство	n-nt-nn$n$n-nt
+	ces	stát	n-mi$n	rus	государство	n-nt-nn$n$n-nt
 	ces	individualismus	n-mi	rus	индивидуализм	n-m-nn$n
 	ces	legalizace	n-f	rus	легализация	n-f-nn
 	ces	havárie	n-f	rus	авария	n-f-nn$n$n-f
@@ -1896,7 +1896,7 @@
 	ces	důvod	n-mi	rus	основание	n-nt-nn$n$n-nt
 	ces	důvod	n-mi	rus	причина	n-f-nn$n$n-f
 	ces	variace	n-f	rus	вариация	n-f-nn$n
-	ces	právo	n-nt	rus	право	n-nt-nn$n$n-nt
+	ces	právo	n-nt$n	rus	право	n-nt-nn$n$n-nt
 	ces	metropole	n-f	rus	столица	n-f-nn$n$n-f
 	ces	relativismus	n-mi	rus	релятивизм	n-m-nn$n
 	ces	kolaborace	n-f	rus	коллаборационизм	n-m-nn$n-m
@@ -1927,20 +1927,20 @@
 	ces	abstrakce	n-f	rus	абстракция	n-f-nn$n-f
 	ces	zeměpis	n-mi	rus	география	n-f-nn$n
 	ces	schopnost	n-f	rus	способность	n-f-nn$n$n-f
-	ces	příležitost	n-f	rus	возможность	n-f-nn$n
+	ces	příležitost	n-f$n	rus	возможность	n-f-nn$n
 	ces	pravda	n-f	rus	истина	n-f-nn$n$n-f
 	ces	pravda	n-f	rus	правда	n-f-nn$n
 	ces	politik	n-f	rus	политика	n-f-nn$n-f$n
 	ces	politik	n-ma	rus	политик	n-m-aa$n-m$n
 	ces	obojživelník	n-ma	rus	амфибия	n-f-nn
 	ces	nihilismus	n-mi	rus	нигилизм	n-m-nn$n
-	ces	naděje	n-f	rus	надежда	n-f-nn$n-f$n
+	ces	naděje	n-f$n	rus	надежда	n-f-nn$n-f$n
 	ces	moc	n-f	rus	власть	n-f-nn$n$n-f
 	ces	jistota	n-f	rus	безопасность	n-f-nn$n-f
 	ces	humanizmus	n-mi	rus	гуманизм	n-m-nn$n
 	ces	genialita	n-f	rus	гений	n-m-aa$n
 	ces	vulgarizace	n-f	rus	вульгаризация	n-f-nn
-	ces	svět	n-mi	rus	мир	n-m-nn$n$n-m
+	ces	svět	n-mi$n	rus	мир	n-m-nn$n$n-m
 	ces	štěstí	n-mi	rus	счастье	n-nt-nn$n$n-nt-nn-sg
 	ces	štěstí	n-mi	rus	удача	n-f-nn$n
 	ces	spojitost	n-f	rus	связь	n-f-nn$n$n-f
@@ -1963,12 +1963,12 @@
 	ces	vůle	n-f	rus	воля	n-f-aa
 	ces	vláda	n-f	rus	власть	n-f-nn$n$n-f
 	ces	vláda	n-f	rus	правительство	n-nt-nn$n-nt$n
-	ces	věc	n-f	rus	вещь	n-f-nn$n
-	ces	věc	n-f	rus	дело	n-nt-nn$n$n-nt
+	ces	věc	n-f$n	rus	вещь	n-f-nn$n
+	ces	věc	n-f$n	rus	дело	n-nt-nn$n$n-nt
 	ces	užitek	n-mi	rus	благо	n-nt-nn$n
 	ces	užitek	n-mi	rus	польза	n-f-nn$n
-	ces	úkol	n-mi	rus	задание	n-nt-nn$n
-	ces	úkol	n-mi	rus	задача	n-f-nn$n$n-f
+	ces	úkol	n-mi$n	rus	задание	n-nt-nn$n
+	ces	úkol	n-mi$n	rus	задача	n-f-nn$n$n-f
 	ces	tým	n-mi	rus	группа	n-f-nn$n$n-f
 	ces	tým	n-mi	rus	команда	n-f-nn$n$n-f
 	ces	trpělivost	n-f	rus	терпение	n-nt-nn$n
@@ -1998,21 +1998,21 @@
 	ces	náboženství	n-nt	rus	вера	n-f-nn$n
 	ces	náboženství	n-nt	rus	религия	n-f-nn$n$n-f
 	ces	myšlenka	n-f	rus	идея	n-f-nn$n-f$n
-	ces	motiv	n-mi	rus	мотив	n-m-nn$n
-	ces	mír	n-mi	rus	мир	n-m-nn$n$n-m
+	ces	motiv	n-mi$n	rus	мотив	n-m-nn$n
+	ces	mír	n-mi$n	rus	мир	n-m-nn$n$n-m
 	ces	merkantilismus	n-mi	rus	меркантилизм	n-m-nn$n
 	ces	mechanismus	n-mi	rus	механизм	n-m-nn$n
-	ces	konec	n-mi	rus	конец	n-m-nn$n
+	ces	konec	n-mi$n	rus	конец	n-m-nn$n
 	ces	komisař	n-ma	rus	комиссар	n-m-aa$n$n-m-aa-pl
-	ces	jméno	n-nt	rus	имя	n-nt-nn$n$n-nt
+	ces	jméno	n-nt$n	rus	имя	n-nt-nn$n$n-nt
 	ces	instrument	n-mi	rus	инструмент	n-m-nn$n$n-m-nn-sg
 	ces	hlad	n-mi	rus	голод	n-m-nn$n-m-nn-sg$n-m
 	ces	dohled	n-mi	rus	контроль	n-m-nn$n
-	ces	dítě	n-nt	rus	младенец	n-m-aa$n
-	ces	dítě	n-nt	rus	ребёнок	n-m-aa$n$n-m
+	ces	dítě	n-nt$n	rus	младенец	n-m-aa$n
+	ces	dítě	n-nt$n	rus	ребёнок	n-m-aa$n$n-m
 	ces	dělník	n-ma	rus	рабочий	adj-m-nn
-	ces	člověk	n-ma$n-ma-sg	rus	человек	n-m-aa$n$n-m$n-m-aa-pl
-	ces	čas	n-mi	rus	время	n-nt-nn$nt$n-nt
+	ces	člověk	n-ma$n-ma-sg$n	rus	человек	n-m-aa$n$n-m$n-m-aa-pl
+	ces	čas	n-mi$n	rus	время	n-nt-nn$nt$n-nt
 	ces	boj	n-mi	rus	битва	n-f-nn$n
 	ces	boj	n-mi	rus	бой	n-m-aa$n
 	ces	boj	n-mi	rus	борьба	n-f-nn$n-f-nn-sg$n-f
@@ -2022,15 +2022,15 @@
 	ces	archeologie	n-f	rus	археология	n-f-nn$n
 	ces	agentura	n-f	rus	агентство	n-nt-nn$n$n-nt
 	ces	delirium	n-nt	rus	бред	n-m-nn$n-m-nn-sg$n
-	ces	gusto	n$n-nt	rus	вкус	n-m-nn$n
+	ces	gusto	n-nt	rus	вкус	n-m-nn$n
 	ces	jídlo	n-nt	rus	блюдо	n-nt-nn$n
 	ces	jídlo	n-nt	rus	еда	n-f-nn$n-f-nn-sg$n
 	ces	jídlo	n-nt	rus	пища	n-f-nn$n-f-nn-sg$n$n-f
 	ces	křeslo	n-nt	rus	кресло	n-nt-nn
-	ces	lano	n-nt	rus	веревка	n-f-nn
+	ces	lano	n$n-nt	rus	веревка	n-f-nn
 	ces	minorita	n-f	rus	меньшинство	n-nt-nn$n-nt$n
 	ces	moře	n-nt	rus	море	n-nt-nn$n$n-nt
-	ces	mužstvo	n-nt	rus	команда	n-f-nn$n$n-f
+	ces	mužstvo	n$n-nt	rus	команда	n-f-nn$n$n-f
 	ces	plavidlo	n-nt	rus	судно	n-nt-nn$n$n-nt
 	ces	pouto	n-nt	rus	связь	n-f-nn$n$n-f
 	ces	představenstvo	n-nt	rus	правление	n-nt-nn$n
@@ -2039,9 +2039,9 @@
 	ces	studium	n-nt	rus	изучение	n-nt-nn
 	ces	studium	n-nt	rus	исследование	n-nt-nn$n-nt
 	ces	těleso	n-nt	rus	тело	n-nt-nn$n
-	ces	tempo	n$n-nt	rus	темп	n-m-nn$n-m
+	ces	tempo	n-nt	rus	темп	n-m-nn$n-m
 	ces	teritorium	n-nt	rus	территория	n-f-nn$n-f$n
-	ces	abeceda	n-f	rus	алфавит	n-m-nn$n$n-m
+	ces	abeceda	n-f$n	rus	алфавит	n-m-nn$n$n-m
 	ces	abonent	n-ma	rus	подписчик	n-m-aa
 	ces	absolutismus	n-mi	rus	абсолютизм	n-m-nn$n$n-m
 	ces	absolvent	n-ma	rus	выпускник	n-m-aa$n
@@ -2069,7 +2069,7 @@
 	ces	aktuálnost	n-f	rus	актуальность	n-f-nn
 	ces	akumulace	n-f	rus	накопление	n-nt-nn
 	ces	akupunktura	n-f	rus	иглоукалывание	n$n-nt-nn
-	ces	albatros	n-ma	rus	альбатрос	n-m-aa$n
+	ces	albatros	n-ma$n	rus	альбатрос	n-m-aa$n
 	ces	alergen	n-mi	rus	аллерген	n-m-nn
 	ces	algoritmus	n-mi	rus	алгоритм	n-m-nn$n
 	ces	aliance	n-f	rus	альянс	n-m-nn$n$n-m
@@ -2191,7 +2191,7 @@
 	ces	branec	n-ma	rus	новобранец	n-m-aa$n
 	ces	branec	n-ma	rus	призывник	n-m-aa$n
 	ces	branže	n-f	rus	отрасль	n-f-nn$n
-	ces	bratranec	n-ma	rus	кузен	n-m-aa
+	ces	bratranec	n-ma$n	rus	кузен	n-m-aa
 	ces	bratrství	n-mi	rus	братство	n-nt-nn$n
 	ces	bratrstvo	n-nt	rus	братство	n-nt-nn$n
 	ces	bravura	n-f	rus	бравада	n-f-nn
@@ -2210,7 +2210,7 @@
 	ces	byrokracie	n-f	rus	бюрократизм	n-m-nn
 	ces	byrokracie	n-f	rus	бюрократия	n-f-nn$n
 	ces	byznysmen	n-ma	rus	бизнесмен	n-m-aa$n
-	ces	čáp	n-ma	rus	аист	n-m-aa$n
+	ces	čáp	n-ma$n	rus	аист	n-m-aa$n
 	ces	čarodějnictví	n-mi	rus	колдовство	n-nt-nn$n$n-nt-nn-sg
 	ces	časovač	n-mi	rus	таймер	n-m-nn
 	ces	částice	n-f	rus	частица	n-f-nn$n
@@ -2244,10 +2244,10 @@
 	ces	chodec	n-ma	rus	пешеход	n-m-aa$n
 	ces	chod	n-mi	rus	функционирование	n-nt-nn
 	ces	cholera	n-f$n	rus	холера	n-f-nn$n
-	ces	cholesterol	n-mi	rus	холестерин	n-m-nn$n
+	ces	cholesterol	n-mi$n	rus	холестерин	n-m-nn$n
 	ces	chomáč	n-mi	rus	пучок	n-m-nn$n
 	ces	chráněnec	n-ma	rus	протеже	n-m-aa
-	ces	chřipka	n-f	rus	грипп	n-m-nn$n$n-m
+	ces	chřipka	n-f$n	rus	грипп	n-m-nn$n$n-m
 	ces	chrom	n-mi$n	rus	хром	n-m-nn$n
 	ces	chudina	n-f	rus	беднота	n-f-nn-sg$n-f-nn
 	ces	chudoba	n-f	rus	бедность	n-f-nn$n$n-f
@@ -2280,7 +2280,7 @@
 	ces	cynik	n-ma	rus	циник	n-m-aa$n
 	ces	dalekohled	n-mi	rus	телескоп	n-m-nn$n
 	ces	dálnice	n-f	rus	автомагистраль	n-f-nn$n-f
-	ces	datle	n-f	rus	финик	n-m-nn$n
+	ces	datle	n$n-f	rus	финик	n-m-nn$n
 	ces	dealer	n-ma	rus	дилер	n-m-aa
 	ces	debata	n-f	rus	дебаты	n-m-nn$n
 	ces	decentralizace	n-f	rus	децентрализация	n-f-nn
@@ -2385,7 +2385,7 @@
 	ces	dovednost	n-f	rus	мастерство	n-nt-nn$n
 	ces	dovoz	n-mi	rus	импорт	n-m-nn$n$n-m
 	ces	dramatik	n-ma	rus	драматург	n-m-aa
-	ces	dráp	n-mi	rus	коготь	n-m-nn$n
+	ces	dráp	n-mi$n	rus	коготь	n-m-nn$n
 	ces	dravec	n-ma	rus	хищник	n-m-aa
 	ces	dříví	n-mi	rus	древесина	n-f-nn$n
 	ces	droga	n-f	rus	наркотик	n-m-nn$n
@@ -2526,7 +2526,7 @@
 	ces	heroin	n-mi	rus	героин	n-m-nn$n-m
 	ces	hierarchie	n-f	rus	иерархия	n-f-nn$n
 	ces	hinduismus	n-mi	rus	индуизм	n-m-nn
-	ces	hlasatel	n-ma	rus	проповедник	n-m-aa
+	ces	hlasatel	n$n-ma	rus	проповедник	n-m-aa
 	ces	hlavolam	n-mi	rus	головоломка	n-f-nn$n
 	ces	hliník	n-mi	rus	алюминий	n-m-nn$n
 	ces	hlodavec	n-ma	rus	грызун	n-m-aa
@@ -2534,7 +2534,7 @@
 	ces	hojnost	n-f	rus	избыток	n-m-nn$n
 	ces	hojnost	n-f	rus	изобилие	n-nt-nn$n
 	ces	holič	n-ma	rus	парикмахер	n-m-aa$n
-	ces	holub	n-ma	rus	голубь	n-m-aa$n
+	ces	holub	n-ma$n	rus	голубь	n-m-aa$n
 	ces	homosexuál	n-ma	rus	гомосексуалист	n-m-aa$n
 	ces	honička	n-f	rus	гонка	n-f-nn
 	ces	horečka	n-f	rus	лихорадка	n-f-nn$n
@@ -2557,8 +2557,8 @@
 	ces	hustota	n-f	rus	плотность	n-f-nn$n
 	ces	hybrid	n-ma	rus	гибрид	n-m-nn$n
 	ces	hyena	n-f	rus	гиена	n-f-aa
-	ces	hygiena	n-f	rus	гигиена	n-f-nn$n
-	ces	hymna	n-f	rus	гимн	n-m-nn$n
+	ces	hygiena	n-f$n	rus	гигиена	n-f-nn$n
+	ces	hymna	n$n-f	rus	гимн	n-m-nn$n
 	ces	hypotéka	n-f	rus	залог	n-m-nn$n
 	ces	hypotéka	n-f	rus	ипотека	n-f-nn$n
 	ces	hypotéza	n-f	rus	гипотеза	n-f-nn$n
@@ -2641,8 +2641,8 @@
 	ces	izolacionismus	n-mi	rus	изоляционизм	n-m-nn
 	ces	izotop	n-mi	rus	изотоп	n-m-nn$n
 	ces	jahoda	n-f	rus	клубника	n-f-nn$n
-	ces	jasnost	n-f	rus	яркость	n-f-nn$n
-	ces	jasnost	n-f	rus	ясность	n-f-nn
+	ces	jasnost	n-f$n	rus	яркость	n-f-nn$n
+	ces	jasnost	n-f$n	rus	ясность	n-f-nn
 	ces	jásot	n-mi	rus	ликование	n-nt-nn
 	ces	jazykovědec	n-ma	rus	лингвист	n-m-aa$n
 	ces	jedinečnost	n-f	rus	уникальность	n-f-nn
@@ -2664,7 +2664,7 @@
 	ces	jubileum	n-nt	rus	юбилей	n-m-nn$n
 	ces	jurisdikce	n-f	rus	юрисдикция	n-f-nn$n-f
 	ces	kabelka	n-f	rus	сумочка	n-f-nn
-	ces	kabel	n-mi	rus	кабель	n-m-nn$n
+	ces	kabel	n$n-mi	rus	кабель	n-m-nn$n
 	ces	kacířství	n-mi	rus	ересь	n-f-nn$n
 	ces	kacíř	n-ma	rus	еретик	n-m-aa$n
 	ces	kadeřník	n-ma	rus	парикмахер	n-m-aa$n
@@ -2697,7 +2697,7 @@
 	ces	katarze	n-f	rus	катарсис	n-m-nn
 	ces	katar	n-mi	rus	катар	n-m-nn$n
 	ces	katolictví	n-mi	rus	католицизм	n-m-nn$n
-	ces	katolík	n-ma	rus	католик	n-m-aa$n$n-m
+	ces	katolík	n-ma$n	rus	католик	n-m-aa$n$n-m
 	ces	kauce	n-f	rus	залог	n-m-nn$n
 	ces	kazatel	n-ma	rus	проповедник	n-m-aa
 	ces	kazeta	n-f	rus	кассета	n-f-nn$n
@@ -2730,8 +2730,8 @@
 	ces	koláč	n-mi	rus	пирог	n-m-nn$n
 	ces	kolaps	n-mi	rus	коллапс	n-m-nn$n
 	ces	kolébka	n-f	rus	колыбель	n-f-nn$n
-	ces	kolej	n-f	rus	колея	n-f-nn$n
-	ces	kolej	n-f	rus	колледж	n-m-nn$n
+	ces	kolej	n-f$n	rus	колея	n-f-nn$n
+	ces	kolej	n-f$n	rus	колледж	n-m-nn$n
 	ces	kolektivizace	n-f	rus	коллективизация	n-f-nn
 	ces	kolonie	n-f	rus	колония	n-f-nn$n
 	ces	kolonizace	n-f	rus	колонизация	n-f-nn
@@ -2743,7 +2743,7 @@
 	ces	komentátor	n-ma	rus	комментатор	n-m-aa$n
 	ces	komerce	n-f	rus	коммерция	n-f-nn$n
 	ces	komercializace	n-f	rus	коммерциализация	n-f-nn
-	ces	kometa	n-f	rus	комета	n-f-nn$n
+	ces	kometa	n$n-f	rus	комета	n-f-nn$n
 	ces	kompas	n-mi	rus	компас	n-m-nn$n
 	ces	kompatibilita	n-f	rus	совместимость	n-f-nn
 	ces	kompenzace	n-f	rus	компенсация	n-f-nn$n$n-f
@@ -2804,11 +2804,11 @@
 	ces	korektiv	n-mi	rus	корректив	n-m-nn
 	ces	korektnost	n-f	rus	корректность	n-f-nn
 	ces	korelace	n-f	rus	корреляция	n-f-nn
-	ces	koruna	n-f	rus	корона	n-f-nn
+	ces	koruna	n-f$n	rus	корона	n-f-nn
 	ces	korunovace	n-f	rus	коронация	n-f-nn
 	ces	korupce	n-f	rus	коррупция	n-f-nn$n-f
 	ces	koryto	n-nt	rus	русло	n-nt-nn$n
-	ces	košile	n-f	rus	сорочка	n-f-nn$n
+	ces	košile	n-f$n	rus	сорочка	n-f-nn$n
 	ces	kosmetika	n-f	rus	косметика	n-f-nn
 	ces	kosmodrom	n-mi	rus	космодром	n-m-nn
 	ces	kosmologie	n-f	rus	космология	n-f-nn
@@ -2837,7 +2837,7 @@
 	ces	krokodýl	n-ma	rus	крокодил	n-m-aa
 	ces	krveprolití	n-mi	rus	кровопролитие	n-nt-nn
 	ces	krystal	n-mi	rus	кристалл	n-m-nn
-	ces	kufr	n-mi	rus	сундук	n-m-nn$n
+	ces	kufr	n-mi$n	rus	сундук	n-m-nn$n
 	ces	kukuřice	n-f	rus	кукуруза	n-f-nn
 	ces	kultivace	n-f	rus	культивация	n-f-nn
 	ces	kulturista	n-ma	rus	культурист	n-m-aa
@@ -2847,7 +2847,7 @@
 	ces	kurátor	n-ma	rus	куратор	n-m-aa
 	ces	kůrka	n-f	rus	корочка	n-f-nn
 	ces	kurt	n-mi	rus	корт	n-m-nn
-	ces	kurzor	n-mi	rus	курсор	n-m-nn
+	ces	kurzor	n-mi$n	rus	курсор	n-m-nn
 	ces	kvasnice	n-f	rus	дрожжи	n-m-nn$n
 	ces	kvóta	n-f	rus	квота	n-f-nn$n
 	ces	kyselost	n-f	rus	кислотность	n-f-nn
@@ -2894,8 +2894,8 @@
 	ces	limit	n-mi	rus	лимит	n-m-nn$n
 	ces	limuzína	n-f	rus	лимузин	n-m-nn
 	ces	lišák	n-ma	rus	лис	n-m-aa
-	ces	liška	n-f	rus	лиса	n-f-aa$n
-	ces	lístek	n-mi	rus	лепесток	n-m-nn$n
+	ces	liška	n-f$n	rus	лиса	n-f-aa$n
+	ces	lístek	n$n-mi	rus	лепесток	n-m-nn$n
 	ces	lithium	n-nt	rus	литий	n-m-nn$n
 	ces	liturgie	n-f	rus	литургия	n-f-nn
 	ces	loajalita	n-f	rus	лояльность	n-f-nn
@@ -2978,7 +2978,7 @@
 	ces	misionář	n-ma	rus	миссионер	n-m-aa$n
 	ces	mistrovství	n-mi	rus	чемпионат	n-m-nn
 	ces	mládež	n-f	rus	молодежь	n-f-nn
-	ces	mluvnice	n-f	rus	грамматика	n-f-nn$n
+	ces	mluvnice	n-f$n	rus	грамматика	n-f-nn$n
 	ces	mlýn	n-mi	rus	мельница	n-f-nn$n
 	ces	mniška	n-f	rus	монахиня	n-f-aa$n
 	ces	mobilita	n-f	rus	мобильность	n-f-nn
@@ -3120,7 +3120,7 @@
 	ces	nuance	n-f	rus	нюанс	n-m-nn$n
 	ces	nuda	n-f	rus	скука	n-f-nn$n
 	ces	oáza	n-f	rus	оазис	n-m-nn$n
-	ces	obálka	n-f	rus	обложка	n-f-nn$n
+	ces	obálka	n-f$n	rus	обложка	n-f-nn$n
 	ces	obava	n-f	rus	боязнь	n-f-nn$n$n-f-nn-sg
 	ces	obava	n-f	rus	озабоченность	n-f-nn$n
 	ces	obava	n-f	rus	опасение	n-nt-nn
@@ -3138,8 +3138,8 @@
 	ces	oblíbenec	n-ma	rus	любимец	n-m-aa$n
 	ces	oblíbenost	n-f	rus	популярность	n-f-nn
 	ces	obligace	n-f	rus	облигация	n-f-nn$n$n-f
-	ces	oblouk	n-mi	rus	арка	n-f-nn$n
-	ces	oblouk	n-mi	rus	дуга	n-f-nn$n
+	ces	oblouk	n-mi$n	rus	арка	n-f-nn$n
+	ces	oblouk	n-mi$n	rus	дуга	n-f-nn$n
 	ces	obřad	n-mi	rus	церемония	n-f-nn$n$n-f
 	ces	obranyschopnost	n-f	rus	обороноспособность	n-f-nn
 	ces	obratnost	n-f	rus	искусность	n-f-nn$n
@@ -3148,7 +3148,7 @@
 	ces	obrys	n-mi	rus	контур	n-m-nn$n
 	ces	obr	n-ma	rus	великан	n-m-aa$n
 	ces	obr	n-ma	rus	гигант	n-m-aa$n$n-m
-	ces	observatoř	n-f	rus	обсерватория	n-f-nn$n
+	ces	observatoř	n-f$n	rus	обсерватория	n-f-nn$n
 	ces	obstrukce	n-f	rus	обструкция	n-f-nn$n
 	ces	obušek	n-mi	rus	дубинка	n-f-nn
 	ces	ocel	n-f	rus	сталь	n-f-nn$n-f$n
@@ -3203,7 +3203,7 @@
 	ces	opera	n-f	rus	опера	n-f-nn$n
 	ces	opium	n-nt	rus	опий	n-m-nn
 	ces	opium	n-nt	rus	опиум	n-m-nn$n
-	ces	opona	n-f	rus	занавес	n-m-nn$n
+	ces	opona	n-f$n	rus	занавес	n-m-nn$n
 	ces	oponent	n-ma	rus	оппонент	n-m-aa
 	ces	opora	n-f	rus	опора	n-f-nn$n
 	ces	oportunista	n-ma	rus	оппортунист	n-m-aa$n
@@ -3494,7 +3494,7 @@
 	ces	proletariát	n-mi	rus	пролетариат	n-m-nn$n
 	ces	proletář	n-ma	rus	пролетарий	n-m-aa$n
 	ces	propad	n-mi	rus	обвал	n-m-nn$n
-	ces	propast	n-f	rus	бездна	n-f-nn$n
+	ces	propast	n$n-f	rus	бездна	n-f-nn$n
 	ces	proporce	n-f	rus	пропорция	n-f-nn$n
 	ces	proroctví	n-mi	rus	предсказание	n-nt-nn$n
 	ces	prorok	n-ma	rus	пророк	n-m-aa$n$n-m
@@ -3532,7 +3532,7 @@
 	ces	psychika	n-f	rus	психика	n-f-nn$n
 	ces	psychologie	n-f	rus	психология	n-f-nn$n
 	ces	psychóza	n-f	rus	психоз	n-m-nn$n
-	ces	ptakopysk	n-ma	rus	утконос	n-m-aa$n
+	ces	ptakopysk	n-ma$n	rus	утконос	n-m-aa$n
 	ces	puč	n-mi	rus	путч	n$n-m-nn
 	ces	půlměsíc	n-mi	rus	полумесяц	n-m-nn$n
 	ces	punč	n-mi	rus	пунш	n-m-nn$n
@@ -3571,7 +3571,7 @@
 	ces	rekvalifikace	n-f	rus	переквалификация	n-f-nn
 	ces	relativita	n-f	rus	относительность	n-f-nn
 	ces	řemeslník	n-ma	rus	ремесленник	n-m-aa$n
-	ces	řemeslo	n-nt	rus	ремесло	n-nt-nn$n
+	ces	řemeslo	n$n-nt	rus	ремесло	n-nt-nn$n
 	ces	renta	n-f	rus	рента	n-f-nn$n
 	ces	řepa	n-f	rus	свекла	n-f-nn
 	ces	repertoár	n-mi	rus	репертуар	n-m-nn$n
@@ -3596,7 +3596,7 @@
 	ces	riga	n-f	rus	рига	n$n-f-nn
 	ces	rivalita	n-f	rus	соперничество	n-nt-nn$n
 	ces	rival	n-ma	rus	соперник	n-m-aa$n
-	ces	robot	n-ma	rus	робот	n-m-aa$n
+	ces	robot	n-ma$n	rus	робот	n-m-aa$n
 	ces	rodák	n-ma	rus	соотечественник	n-m-aa$n
 	ces	rodák	n-ma	rus	уроженец	n-m-aa
 	ces	roj	n-mi	rus	рой	n-m-nn$n
@@ -3631,9 +3631,9 @@
 	ces	rubrika	n-f	rus	рубрика	n-f-nn$n
 	ces	ručitel	n-ma	rus	гарант	n-m-aa$n
 	ces	ruda	n-f	rus	руда	n-f-nn$n
-	ces	ruina	n-f	rus	руина	n-f-nn$n
+	ces	ruina	n-f$n	rus	руина	n-f-nn$n
 	ces	rukojmí	n-mi	rus	заложник	n-m-aa$n
-	ces	rukopis	n-mi	rus	манускрипт	n-m-nn$n
+	ces	rukopis	n-mi$n	rus	манускрипт	n-m-nn$n
 	ces	ruleta	n-f	rus	рулетка	n-f-nn
 	ces	rutina	n-f	rus	рутина	n-f-nn$n
 	ces	různorodost	n-f	rus	неоднородность	n-f-nn
@@ -3714,7 +3714,7 @@
 	ces	sklon	n-mi	rus	крутизна	n-f-nn-sg$n-f-nn
 	ces	sklon	n-mi	rus	склонность	n-f-nn$n
 	ces	sklon	n-mi	rus	тенденция	n-f-nn$n
-	ces	škoda	n-f	rus	вред	n-m-nn$n
+	ces	škoda	n-f$n	rus	вред	n-m-nn$n
 	ces	škodolibost	n-f	rus	злорадство	n-nt-nn
 	ces	školačka	n-f	rus	ученица	n-f-aa
 	ces	školačka	n-f	rus	школьница	n-f-aa
@@ -3726,11 +3726,11 @@
 	ces	slabost	n-f	rus	бессилие	n-nt-nn
 	ces	sládek	n-ma	rus	пивовар	n-m-aa
 	ces	sladkost	n-f	rus	сладость	n-f-nn$n
-	ces	sláma	n-f	rus	солома	n-f-nn$n
+	ces	sláma	n-f$n	rus	солома	n-f-nn$n
 	ces	slanina	n-f	rus	бекон	n-m-nn
 	ces	šlechtic	n-ma	rus	дворянин	n-m-aa$n
 	ces	slepota	n-f	rus	слепота	n-f-nn$n
-	ces	sleva	n-f	rus	скидка	n-f-nn$n
+	ces	sleva	n-f$n	rus	скидка	n-f-nn$n
 	ces	sloj	n-f	rus	пласт	n-m-nn$n
 	ces	slovník	n-mi	rus	словарь	n-m-nn$n$n-m
 	ces	složka	n-f	rus	ингредиент	n-m-nn$n
@@ -3742,7 +3742,7 @@
 	ces	smělost	n-f	rus	смелость	n-f-nn$n
 	ces	směnitelnost	n-f	rus	конвертируемость	n-f-nn
 	ces	směnka	n-f	rus	вексель	n-m-nn$n
-	ces	směrnice	n-f	rus	директива	n-f-nn$n
+	ces	směrnice	n$n-f	rus	директива	n-f-nn$n
 	ces	smolař	n-ma	rus	неудачник	n-m-aa
 	ces	smůla	n-f	rus	невезение	n-nt-nn
 	ces	snášenlivost	n-f	rus	терпимость	n-f-nn
@@ -3841,8 +3841,8 @@
 	ces	summit	n-mi	rus	саммит	n-m-nn
 	ces	šunka	n-f	rus	ветчина	n-f-nn$n
 	ces	supermarket	n-mi	rus	супермаркет	n$n-m-nn
-	ces	sup	n-ma	rus	коршун	n-m-aa
-	ces	sup	n-ma	rus	стервятник	n-m-aa
+	ces	sup	n-ma$n	rus	коршун	n-m-aa
+	ces	sup	n-ma$n	rus	стервятник	n-m-aa
 	ces	suverenita	n-f	rus	суверенитет	n-m-nn$n-m
 	ces	sval	n-mi	rus	мускул	n-m-nn$n
 	ces	svár	n-mi	rus	раздор	n-m-nn$n
@@ -3858,9 +3858,9 @@
 	ces	synchronizace	n-f	rus	синхронизация	n-f-nn
 	ces	syndrom	n-mi	rus	синдром	n-m-nn
 	ces	synonymum	n-nt	rus	синоним	n-m-nn$n
-	ces	synovec	n-ma	rus	племянник	n-m-aa$n
+	ces	synovec	n-ma$n	rus	племянник	n-m-aa$n
 	ces	syntéza	n-f	rus	синтез	n-m-nn$n
-	ces	sýr	n-mi	rus	сыр	n-m-nn$n$n-m
+	ces	sýr	n-mi$n	rus	сыр	n-m-nn$n$n-m
 	ces	tajfun	n-mi	rus	тайфун	n-m-nn$n
 	ces	taktika	n-f	rus	тактика	n-f-nn$n
 	ces	talár	n-mi	rus	мантия	n-f-nn$n
@@ -3883,7 +3883,7 @@
 	ces	tesák	n-mi	rus	клык	n$n-m-nn
 	ces	tisíciletí	n-mi	rus	тысячелетие	n-nt-nn$n
 	ces	titulek	n-mi	rus	заголовок	n-m-nn$n
-	ces	tlumič	n-mi	rus	амортизатор	n-m-nn$n
+	ces	tlumič	n-mi$n	rus	амортизатор	n-m-nn$n
 	ces	tmel	n-mi	rus	цемент	n-m-nn$n
 	ces	tolerance	n-f	rus	погрешность	n-f-nn$n
 	ces	tolerance	n-f	rus	терпимость	n-f-nn
@@ -4030,7 +4030,7 @@
 	ces	veto	n-nt	rus	вето	n-nt-nn$n$n-nt
 	ces	vibrace	n-f	rus	колебание	n-nt-nn$n
 	ces	videokamera	n-f	rus	видеокамера	n-f-nn
-	ces	vidlička	n-f	rus	вилка	n-f-nn$n
+	ces	vidlička	n-f$n	rus	вилка	n-f-nn$n
 	ces	vila	n-f	rus	вилла	n-f-nn$n
 	ces	viník	n-ma	rus	виновник	n-m-aa$n-m-aa-pl
 	ces	virulence	n-f	rus	вирулентность	n-f-nn
@@ -4046,7 +4046,7 @@
 	ces	vlastenectví	n-mi	rus	патриотизм	n-m-nn$n
 	ces	vlastenec	n-ma	rus	патриот	n-m-aa$n
 	ces	vlastnictví	n-mi	rus	владение	n-nt-nn
-	ces	vlaštovka	n-f	rus	ласточка	n-f-aa$n
+	ces	vlaštovka	n-f$n	rus	ласточка	n-f-aa$n
 	ces	vlast	n-f	rus	отечество	n-nt-nn$n
 	ces	vlčák	n-ma	rus	овчарка	n-f-aa$n
 	ces	vlhkost	n-f	rus	влажность	n-f-nn$n$n-f
@@ -4161,7 +4161,7 @@
 	ces	závazek	n-mi	rus	обязательство	n-nt-nn
 	ces	závaží	n-mi	rus	гиря	n-f-nn$n
 	ces	závažnost	n-f	rus	важность	n-f-nn$n
-	ces	závod	n-mi	rus	гонка	n-f-nn
+	ces	závod	n$n-mi	rus	гонка	n-f-nn
 	ces	závoj	n-mi	rus	покрывало	n-nt-nn$n
 	ces	zbabělost	n-f	rus	трусость	n-f-nn$n
 	ces	zběsilost	n-f	rus	неистовство	n-nt-nn$n
@@ -4175,7 +4175,7 @@
 	ces	zelenáč	n-ma	rus	новичок	n-m-aa$n
 	ces	železničář	n-ma	rus	железнодорожник	n-m-aa$n
 	ces	želva	n-f	rus	черепаха	n-f-aa$n
-	ces	zemědělství	n-mi	rus	земледелие	n-nt-nn$n
+	ces	zemědělství	n-mi$n	rus	земледелие	n-nt-nn$n
 	ces	zemětřesení	n-nt	rus	землетрясение	n-nt-nn$n$n-nt
 	ces	žhářství	n-mi	rus	поджог	n-m-nn
 	ces	zimnice	n-f	rus	лихорадка	n-f-nn$n
@@ -4211,11 +4211,11 @@
 	ces	nedostatek	n-mi	rus	дефект	n-m-nn$n
 	ces	nedostatek	n-mi	rus	дефицит	n-m-nn$n
 	ces	nedostatek	n-mi	rus	недостаток	n-m-nn$n
-	ces	mír	n-mi	rus	мир	n-m-nn$n$n-m
+	ces	mír	n-mi$n	rus	мир	n-m-nn$n$n-m
 	ces	vesmír	n-mi	rus	вселенная	n-f-nn$n
 	ces	obřad	n-mi	rus	церемония	n-f-nn$n$n-f
-	ces	úřad	n-mi	rus	должность	n-f-nn$n
-	ces	úřad	n-mi	rus	пост	n-m-nn$n$n-m
+	ces	úřad	n-mi$n	rus	должность	n-f-nn$n
+	ces	úřad	n-mi$n	rus	пост	n-m-nn$n$n-m
 	ces	student	n-ma$n	rus	студент	n-m-aa$n$n-m
 	ces	jazykovědec	n-ma	rus	лингвист	n-m-aa$n
 	ces	vědec	n-ma	rus	учёный	n-m-aa$n$n-m-aa-sg$n-m
@@ -4224,7 +4224,7 @@
 	ces	ministr	n-ma	rus	министр	n-m-aa$n-m$n$n-m-aa-pl
 	ces	množství	n-mi	rus	количество	n-nt-nn$n
 	ces	model	n-mi	rus	модель	n-f-nn$n
-	ces	odbor	n-mi	rus	отдел	n-m-nn$n
+	ces	odbor	n$n-mi	rus	отдел	n-m-nn$n
 	ces	penzista	n-ma	rus	пенсионер	n-m-aa$n
 	ces	plat	n-mi	rus	зарплата	n-f-nn$n
 	ces	populace	n-f	rus	население	n-nt-nn$n-nt$n
@@ -4236,18 +4236,18 @@
 	ces	soutěž	n-f	rus	конкуренция	n-f-nn$n
 	ces	uchazeč	n-ma	rus	кандидат	n-m-aa$n-m$n$n-m-aa-pl
 	ces	vliv	n-mi	rus	влияние	n-nt-nn$n
-	ces	záležitost	n-f	rus	вещь	n-f-nn$n
-	ces	záležitost	n-f	rus	дело	n-nt-nn$n$n-nt
+	ces	záležitost	n-f$n	rus	вещь	n-f-nn$n
+	ces	záležitost	n-f$n	rus	дело	n-nt-nn$n$n-nt
 	ces	zaměstnanec	n-ma	rus	работник	n-m-aa$n$n-m
 	ces	zástup	n-mi	rus	толпа	n-f-nn$n
-	ces	člen	n-mi	rus	член	n-m-nn$n$n-m
+	ces	člen	n-mi$n	rus	член	n-m-nn$n$n-m
 	ces	člen	n-ma	rus	участник	n-m-aa$n-m
-	ces	Německo	np-top-nt$np-top-nt-sg	rus	Германия	np-top-f$np-top
+	ces	Německo	np-top-nt$np$np-top-nt-sg	rus	Германия	np-top-f$np-top
 	ces	Itálie	np-top-f	rus	Италия	np-top-f$np-top
 	ces	Británie	np-top-f	rus	Британия	np-top-f
-	ces	Belgie	np-top-f	rus	Белгия	np-top-f
+	ces	Belgie	np-top-f$np	rus	Белгия	np-top-f
 	ces	Amerika	np-top-f	rus	Америка	np-top-f
-	ces	Francie	np-top-f	rus	Франция	np-top-f
+	ces	Francie	np-top-f$np	rus	Франция	np-top-f
 	ces	Evropa	np-top-f	rus	Европа	np-top-f$np-top
 	ces	Kuba	np-top-f	rus	Куба	np-top-f
 	ces	Milán	np-top-mi	rus	Милан	np-top-m
@@ -4303,7 +4303,7 @@
 	ces	jasný	adj-sint$adj	rus	простой	adj-sint$adj
 	ces	jasný	adj-sint$adj	rus	четкий	adj$adj-sint
 	ces	jasný	adj-sint$adj	rus	ясный	adj-sint$adj
-	ces	jediný	adj-sint	rus	единственный	adj-sint$adj
+	ces	jediný	adj$adj-sint	rus	единственный	adj-sint$adj
 	ces	jednotlivý	adj-sint$adj	rus	индивидуальный	adj$adj-sint
 	ces	jednotlivý	adj-sint$adj	rus	отдельный	adj-sint$adj
 	ces	jistý	adj-sint	rus	бесспорный	adj$adj-sint
@@ -4318,7 +4318,7 @@
 	ces	německý	adj	rus	германский	adj
 	ces	německý	adj	rus	немецкий	adj
 	ces	nestranný	adj-sint	rus	беспристрастный	adj-sint$adj
-	ces	nový	adj-sint$adj	rus	новый	adj-sint$adj
+	ces	nový	adj$adj-sint	rus	новый	adj-sint$adj
 	ces	obchodní	adj	rus	деловой	adj-sint$adj
 	ces	obchodní	adj	rus	торговый	adj$adj-sint
 	ces	obvyklý	adj	rus	нормальный	adj-sint$adj
@@ -4326,7 +4326,7 @@
 	ces	ohromný	adj-sint	rus	громадный	adj-sint$adj
 	ces	ohromný	adj-sint	rus	огромный	adj-sint$adj
 	ces	ospalý	adj	rus	сонный	adj-sint$adj
-	ces	pěkný	adj-sint$adj-sint-nt	rus	красивый	adj-sint$adj
+	ces	pěkný	adj$adj-sint$adj-sint-nt	rus	красивый	adj-sint$adj
 	ces	plodný	adj-sint$adj	rus	плодотворный	adj-sint$adj
 	ces	plodný	adj-sint$adj	rus	продуктивный	adj-sint$adj
 	ces	pomalý	adj	rus	медленный	adj-sint$adj
@@ -4921,7 +4921,7 @@
 	ces	zřejmě	adv$adv-sint	rus	очевидно	adv
 	ces	bedlivě	adv-sint	rus	внимательно	adv
 	ces	bezprostředně	adv-sint$adv	rus	непосредственно	adv
-	ces	často	adv-sint	rus	часто	adv
+	ces	často	adv-sint$adv	rus	часто	adv
 	ces	celkem	adv	rus	весьма	adv
 	ces	daleko	adv-sint$adv-sint-comp	rus	гораздо	adv
 	ces	daleko	adv-sint$adv-sint-comp	rus	далеко	adv
@@ -5011,12 +5011,12 @@
 	ces	akceptovat	vblex-impf	rus	принимать	vblex-impf-iv
 	ces	aplikovat	vblex-impf	rus	применять	vblex-impf-tv$vblex-impf
 	ces	aspirovat	vblex-impf	rus	стремиться	vblex-impf-tv
-	ces	běžet	vblex-impf	rus	бежать	vblex-impf$vblex-impf-iv
-	ces	bít	vblex-impf$vblex	rus	бить	vblex-impf$vblex-impf-tv
-	ces	bít	vblex-impf$vblex	rus	биться	vblex-impf-tv
+	ces	běžet	vblex$vblex-impf	rus	бежать	vblex-impf$vblex-impf-iv
+	ces	bít	vblex$vblex-impf	rus	бить	vblex-impf$vblex-impf-tv
+	ces	bít	vblex$vblex-impf	rus	биться	vblex-impf-tv
 	ces	bojovat	vblex$vblex-impf	rus	бороться	vblex-impf$vblex-impf-iv
-	ces	budovat	vblex-impf	rus	создавать	vblex-impf-tv$vblex-impf
-	ces	budovat	vblex-impf	rus	строить	vblex-impf$vblex-impf-tv
+	ces	budovat	vblex-impf$vblex	rus	создавать	vblex-impf-tv$vblex-impf
+	ces	budovat	vblex-impf$vblex	rus	строить	vblex-impf$vblex-impf-tv
 	ces	čekat	vblex-impf	rus	ждать	vblex-impf-tv$vblex-impf
 	ces	cestovat	vblex-impf	rus	ездить	vblex-impf-iv$vblex-impf
 	ces	chápat	vblex$vblex-impf	rus	воспринимать	vblex-impf-tv$vblex-impf
@@ -5030,8 +5030,8 @@
 	ces	definovat	vblex-impf	rus	определить	vblex-perf-tv$vblex-perf
 	ces	definovat	vblex-impf	rus	определять	vblex-impf-tv$vblex-impf
 	ces	děkovat	vblex-impf	rus	благодарить	vblex-impf-tv$vblex-impf
-	ces	dělat	vblex-impf$vblex	rus	выполнять	vblex-impf-tv$vblex-impf
-	ces	dělat	vblex-impf$vblex	rus	делать	vblex-impf-tv$vblex-impf
+	ces	dělat	vblex$vblex-impf	rus	выполнять	vblex-impf-tv$vblex-impf
+	ces	dělat	vblex$vblex-impf	rus	делать	vblex-impf-tv$vblex-impf
 	ces	demonstrovat	vblex-impf	rus	демонстрировать	vblex-impf-tv$vblex-impf
 	ces	disponovat	vblex-impf	rus	обладать	vblex-impf-iv$vblex-impf
 	ces	dívat	vblex-impf	rus	смотреть	vblex-impf-tv$vblex-impf
@@ -5049,8 +5049,8 @@
 	ces	existovat	vblex$vblex-impf	rus	существовать	vblex-impf-iv$vblex-impf
 	ces	explodovat	vblex-impf	rus	взорваться	vblex-perf-iv$vblex-perf
 	ces	formovat	vblex-impf	rus	создавать	vblex-impf-tv$vblex-impf
-	ces	fungovat	vblex-impf	rus	действовать	vblex-impf-iv$vblex-impf
-	ces	fungovat	vblex-impf	rus	работать	vblex-impf$vblex-impf-iv
+	ces	fungovat	vblex-impf$vblex	rus	действовать	vblex-impf-iv$vblex-impf
+	ces	fungovat	vblex-impf$vblex	rus	работать	vblex-impf$vblex-impf-iv
 	ces	gratulovat	vblex-impf	rus	поздравлять	vblex-impf-tv$vblex-impf
 	ces	házet	vblex$vblex-impf	rus	бросать	vblex-impf-tv$vblex-impf
 	ces	hledat	vblex$vblex-impf	rus	искать	vblex-impf-tv$vblex-impf
@@ -5061,9 +5061,9 @@
 	ces	jít	vblex-impf	rus	идти	vblex-impf$vblex-impf-iv
 	ces	jít	vblex-impf	rus	касаться	vblex-impf$vblex-impf-iv
 	ces	klamat	vblex-impf	rus	обманывать	vblex-impf-tv$vblex-impf
-	ces	konat	vblex-impf$vblex	rus	быть	vbser$vbser-adj
-	ces	konat	vblex-impf$vblex	rus	действовать	vblex-impf-iv$vblex-impf
-	ces	konat	vblex-impf$vblex	rus	делать	vblex-impf-tv$vblex-impf
+	ces	konat	vblex$vblex-impf	rus	быть	vbser$vbser-adj
+	ces	konat	vblex$vblex-impf	rus	действовать	vblex-impf-iv$vblex-impf
+	ces	konat	vblex$vblex-impf	rus	делать	vblex-impf-tv$vblex-impf
 	ces	kontrolovat	vblex-impf	rus	контролировать	vblex-impf-tv$vblex-impf
 	ces	kupovat	vblex$vblex-impf	rus	покупать	vblex-impf$vblex-impf-tv
 	ces	lamentovat	vblex-impf	rus	жаловаться	vblex-impf-tv
@@ -5098,8 +5098,8 @@
 	ces	odpovídat	vblex-impf	rus	отвечать	vblex-impf-iv$vblex-impf
 	ces	ohlašovat	vblex-impf	rus	объявлять	vblex-impf-tv$vblex-impf
 	ces	ohrožovat	vblex$vblex-impf	rus	угрожать	vblex-impf-iv$vblex-impf
-	ces	opakovat	vblex-impf	rus	повторить	vblex-perf-tv$vblex-perf
-	ces	opakovat	vblex-impf	rus	повторять	vblex-impf-tv$vblex-impf
+	ces	opakovat	vblex-impf$vblex	rus	повторить	vblex-perf-tv$vblex-perf
+	ces	opakovat	vblex-impf$vblex	rus	повторять	vblex-impf-tv$vblex-impf
 	ces	otáčet	vblex$vblex-impf	rus	поворачивать	vblex-impf-tv$vblex-impf
 	ces	pamatovat	vblex-impf	rus	помнить	vblex-perf-tv
 	ces	patřit	vblex-impf	rus	входить	vblex-impf-iv$vblex-impf$vblex
@@ -5110,7 +5110,7 @@
 	ces	platit	vblex-impf	rus	платить	vblex-impf-tv$vblex-impf
 	ces	plavat	vblex$vblex-impf	rus	плавать	vblex-impf$vblex-impf-iv
 	ces	pochybovat	vblex-impf	rus	сомневаться	vblex-impf$vblex-impf-iv
-	ces	počítat	vblex-impf	rus	считать	vblex-impf-tv$vblex-impf
+	ces	počítat	vblex-impf$vblex	rus	считать	vblex-impf-tv$vblex-impf
 	ces	počínat	vblex$vblex-impf	rus	начинать	vblex-impf-tv$vblex-impf
 	ces	počkat	vblex$vblex-perf	rus	подождать	vblex-perf-iv
 	ces	podepsat	vblex-perf$vblex	rus	подписать	vblex-perf-tv$vblex-perf
@@ -5131,8 +5131,8 @@
 	ces	povolit	vblex$vblex-perf	rus	позволить	vblex-perf-iv
 	ces	pozorovat	vblex$vblex-impf	rus	замечать	vblex-impf$vblex-impf-tv
 	ces	pozorovat	vblex$vblex-impf	rus	наблюдать	vblex-impf-tv$vblex-impf
-	ces	pracovat	vblex-impf	rus	действовать	vblex-impf-iv$vblex-impf
-	ces	pracovat	vblex-impf	rus	работать	vblex-impf$vblex-impf-iv
+	ces	pracovat	vblex-impf$vblex	rus	действовать	vblex-impf-iv$vblex-impf
+	ces	pracovat	vblex-impf$vblex	rus	работать	vblex-impf$vblex-impf-iv
 	ces	přečíst	vblex-perf$vblex	rus	прочесть	vblex-perf-tv
 	ces	přednášet	vblex$vblex-impf	rus	читать	vblex-impf-tv$vblex-impf
 	ces	představovat	vblex-impf	rus	представлять	vblex-impf-tv$vblex-impf
@@ -5141,8 +5141,8 @@
 	ces	přenášet	vblex$vblex-impf	rus	передавать	vblex-impf$vblex-impf-tv
 	ces	přesouvat	vblex$vblex-impf	rus	переводить	vblex-impf$vblex-impf-tv
 	ces	přidávat	vblex$vblex-impf	rus	добавлять	vblex-impf-iv
-	ces	přijít	vblex-perf	rus	наступить	vblex-perf-iv$vblex-perf
-	ces	přijít	vblex-perf	rus	прийти	vblex-perf$vblex-perf-iv
+	ces	přijít	vblex-perf$vblex	rus	наступить	vblex-perf-iv$vblex-perf
+	ces	přijít	vblex-perf$vblex	rus	прийти	vblex-perf$vblex-perf-iv
 	ces	přinést	vblex-perf	rus	принести	vblex-impf-tv
 	ces	připomínat	vblex$vblex-impf	rus	напоминать	vblex-impf$vblex-impf-tv
 	ces	probíhat	vblex$vblex-impf	rus	идти	vblex-impf$vblex-impf-iv
@@ -5170,7 +5170,7 @@
 	ces	snášet	vblex$vblex-impf	rus	переносить	vblex-impf$vblex-impf-tv
 	ces	snášet	vblex$vblex-impf	rus	терпеть	vblex-impf-tv
 	ces	souhlasit	vblex-impf	rus	согласиться	vblex-perf$vblex-perf-iv
-	ces	spát	vblex-impf	rus	спать	vblex-impf-iv$vblex-impf
+	ces	spát	vblex$vblex-impf	rus	спать	vblex-impf-iv$vblex-impf
 	ces	spoléhat	vblex$vblex-impf	rus	полагаться	vblex-impf$vblex-impf-tv
 	ces	spravovat	vblex-impf	rus	управлять	vblex-impf-iv$vblex-impf
 	ces	stíhat	vblex$vblex-impf	rus	преследовать	vblex-impf$vblex-impf-tv
@@ -5184,10 +5184,10 @@
 	ces	udržet	vblex-impf	rus	сохранить	vblex-perf-tv$vblex-perf
 	ces	udržovat	vblex-impf	rus	поддерживать	vblex-impf$vblex-impf-tv
 	ces	ujít	vblex-perf	rus	пройти	vblex-perf$vblex-perf-tv
-	ces	ukázat	vblex-perf	rus	показать	vblex-perf$vblex-perf-tv
+	ces	ukázat	vblex-perf$vblex	rus	показать	vblex-perf$vblex-perf-tv
 	ces	ukazovat	vblex$vblex-impf	rus	демонстрировать	vblex-impf-tv$vblex-impf
 	ces	ukazovat	vblex$vblex-impf	rus	показывать	vblex-impf-tv$vblex-impf
-	ces	umět	vblex-impf	rus	уметь	vblex-perf-iv
+	ces	umět	vblex$vblex-impf	rus	уметь	vblex-perf-iv
 	ces	umírat	vblex$vblex-impf	rus	умирать	vblex-impf$vblex-impf-iv
 	ces	umožňovat	vblex-impf	rus	делать	vblex-impf-tv$vblex-impf
 	ces	umožňovat	vblex-impf	rus	позволять	vblex-impf-tv$vblex-impf
@@ -5197,18 +5197,18 @@
 	ces	uvítat	vblex-perf	rus	приветствовать	vblex-impf$vblex-impf-tv
 	ces	varovat	vblex-impf	rus	предупредить	vblex-perf-iv
 	ces	varovat	vblex-impf	rus	предупреждать	vblex-impf-tv$vblex-impf
-	ces	vědět	vblex-impf$vblex	rus	знать²	vblex-impf-tv
+	ces	vědět	vblex$vblex-impf	rus	знать²	vblex-impf-tv
 	ces	vejít	vblex-perf	rus	войти	vblex-perf$vblex-perf-iv
 	ces	věnovat	vblex-impf	rus	посвятить	vblex-perf$vblex-perf-tv
 	ces	věřit	vblex-impf	rus	верить	vblex-impf$vblex-impf-iv
-	ces	vidět	vblex-impf	rus	видеть	vblex-impf-iv
-	ces	vidět	vblex-impf	rus	видеть1	vblex-impf-iv
+	ces	vidět	vblex-impf$vblex	rus	видеть	vblex-impf-iv
+	ces	vidět	vblex-impf$vblex	rus	видеть1	vblex-impf-iv
 	ces	vítat	vblex$vblex-impf	rus	встречать	vblex-impf-tv$vblex-impf
 	ces	vítat	vblex$vblex-impf	rus	приветствовать	vblex-impf$vblex-impf-tv
 	ces	vlastnit	vblex$vblex-impf	rus	владеть	vblex-impf$vblex-impf-iv
 	ces	vnímat	vblex$vblex-impf	rus	воспринимать	vblex-impf-tv$vblex-impf
-	ces	volat	vblex-impf$vblex	rus	кричать	vblex-impf$vblex-impf-iv
-	ces	volat	vblex-impf$vblex	rus	призывать	vblex-impf-tv$vblex-impf
+	ces	volat	vblex$vblex-impf	rus	кричать	vblex-impf$vblex-impf-iv
+	ces	volat	vblex$vblex-impf	rus	призывать	vblex-impf-tv$vblex-impf
 	ces	vracet	vblex$vblex-impf	rus	возвращать	vblex-impf-iv$vblex-impf
 	ces	vybírat	vblex$vblex-impf	rus	выбирать	vblex-impf-tv$vblex-impf
 	ces	vyčkávat	vblex$vblex-impf	rus	ждать	vblex-impf-tv$vblex-impf
@@ -5216,8 +5216,8 @@
 	ces	vydávat	vblex$vblex-impf	rus	выдавать	vblex-impf-tv$vblex-impf
 	ces	vydávat	vblex$vblex-impf	rus	выпускать	vblex-impf-tv$vblex-impf
 	ces	vydávat	vblex$vblex-impf	rus	тратить	vblex-impf-tv$vblex-impf
-	ces	vyhrát	vblex-perf	rus	выиграть	vblex-perf-iv
-	ces	vyhrát	vblex-perf	rus	победить	vblex-perf-iv
+	ces	vyhrát	vblex-perf$vblex	rus	выиграть	vblex-perf-iv
+	ces	vyhrát	vblex-perf$vblex	rus	победить	vblex-perf-iv
 	ces	vyjít	vblex-perf	rus	выйти	vblex-perf$vblex-perf-iv$vblex
 	ces	vykazovat	vblex$vblex-impf	rus	показывать	vblex-impf-tv$vblex-impf
 	ces	vykonávat	vblex-impf	rus	выполнять	vblex-impf-tv$vblex-impf
@@ -5233,7 +5233,7 @@
 	ces	vzdorovat	vblex$vblex-impf	rus	сопротивляться	vblex-impf$vblex-impf-iv
 	ces	vzrůstat	vblex$vblex-impf	rus	расти	vblex-impf-tv
 	ces	zabíjet	vblex$vblex-impf	rus	убивать	vblex-impf-tv$vblex-impf$vblex
-	ces	zachovat	vblex-impf	rus	сохранить	vblex-perf-tv$vblex-perf
+	ces	zachovat	vblex$vblex-impf	rus	сохранить	vblex-perf-tv$vblex-perf
 	ces	zadržovat	vblex$vblex-impf	rus	сдерживать	vblex-impf-tv$vblex-impf
 	ces	zahajovat	vblex-impf	rus	начинать	vblex-impf-tv$vblex-impf
 	ces	zahrnovat	vblex-impf	rus	включать	vblex-impf-iv
@@ -5251,8 +5251,8 @@
 	ces	zničit	vblex$vblex-perf	rus	разрушить	vblex-perf$vblex-perf-tv
 	ces	zpívat	vblex$vblex-impf	rus	петь	vblex-impf$vblex-impf-tv
 	ces	zrušit	vblex-perf	rus	отменить	vblex-perf-tv$vblex-perf
-	ces	ztratit	vblex-perf	rus	потерять	vblex-perf$vblex-perf-tv
-	ces	zůstat	vblex-perf	rus	остаться	vblex-perf-iv$vblex-perf
+	ces	ztratit	vblex-perf$vblex	rus	потерять	vblex-perf$vblex-perf-tv
+	ces	zůstat	vblex-perf$vblex	rus	остаться	vblex-perf-iv$vblex-perf
 	ces	zvýšit	vblex-perf	rus	увеличить	vblex-perf$vblex-perf-tv
 	ces	zabývat	vblex$vblex-perf	rus	заниматься	vblex-perf-tv
 	ces	zeptat	vblex$vblex-perf$vblex-perf-ref	rus	спрашивать	vblex-impf-tv$vblex-impf$vblex
@@ -5291,7 +5291,7 @@
 	ces	určovat	vblex-impf	rus	определять	vblex-impf-tv$vblex-impf
 	ces	utrácet	vblex-impf	rus	тратить	vblex-impf-tv$vblex-impf
 	ces	vstupovat	vblex-impf	rus	вступать	vblex-impf-iv$vblex-impf
-	ces	vychovávat	vblex-impf	rus	воспитывать	vblex-impf-tv$vblex-impf
+	ces	vychovávat	vblex$vblex-impf	rus	воспитывать	vblex-impf-tv$vblex-impf
 	ces	vyčnívat	vblex-impf	rus	выступать	vblex-impf-iv$vblex-impf
 	ces	vznikat	vblex-impf	rus	возникать	vblex-impf$vblex-impf-iv
 	ces	zacházet	vblex-impf	rus	заходить	vblex-perf$vblex-perf-iv

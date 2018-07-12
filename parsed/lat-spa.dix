@@ -52,7 +52,7 @@
 	lat	nisi	cnjcoo	spa	sino	cnjcoo$
 	lat	ego	prn$prn-tn-p1-mf-sg-nom	spa	yo	prn$prn-tn-p1-mf-sg$prn-tn$prn-tn-p1-mf
 	lat	ego	prn-tn-p1-mf-sg-dat	spa	me	prn-pro$prn$prn-pro-p1-mf$prn-pro-p1-mf-sg
-	lat	ego	prn-tn-p1-mf-sg-acc	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn
+	lat	ego	prn-tn-p1-mf-sg-acc	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	lat	is	prn-tn-p3-m-sg-nom	spa	él	prn-tn-p3-m-sg$prn-m-sg
 	lat	is	prn-tn-p3-f-sg-nom	spa	él	prn-tn-p3-f-sg$prn-tn-p3-f
 	lat	is	prn-tn-p3-m-pl-nom	spa	él	prn$prn-tn$prn-tn-p3-m-pl$prn-tn-p3-m$prn-tn-m
@@ -60,18 +60,18 @@
 	lat	nemo	prn-tn-mf	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn
 	lat	hic	det$det-dem	spa	este	det$det-dem$det-dem-GD$det-dem-GD-pl
 	lat	idem	det-dem	spa	el mismo	det$det-dem
-	lat	alius	det-ind	spa	otro	det-ind-m-sg$det-ind$det$det-ind-m
+	lat	alius	det-ind	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m
 	lat	omnis	det-ind	spa	cada	det$det-ind$det-ind-mf$det-ind-mf-sg
 	lat	unus	num	spa	uno	num$num-m-sp$num-m
 	lat	duo	num	spa	dos	num$num-mf$num-mf-sp$
-	lat	tres	num	spa	tres	num$$num-mf-sp
+	lat	tres	num	spa	tres	num$num-mf-sp$
 	lat	quattuor	num-mf-sp	spa	cuatro	num$$num-mf-sp
 	lat	quinque	num-mf-sp	spa	cinco	num$num-mf-sp$
 	lat	sex	num-mf-sp	spa	seis	num$num-mf-sp$
 	lat	septem	num-mf-sp	spa	siete	num$$num-mf-sp
 	lat	octo	num-mf-sp	spa	ocho	num$$num-mf-sp
 	lat	novem	num-mf-sp	spa	nueve	num$$num-mf-sp
-	lat	decem	num-mf-sp	spa	diez	num$num-mf$$num-mf-sp
+	lat	decem	num-mf-sp	spa	diez	num$num-mf$num-mf-sp$
 	lat	undecim	num-mf-sp	spa	once	num$$num-mf$num-mf-sp
 	lat	duodecim	num-mf-sp	spa	doce	num-mf-sp
 	lat	tredecim	num-mf-sp	spa	trece	num$$num-mf$num-mf-sp
@@ -85,8 +85,8 @@
 	lat	primus	det-ord	spa	primero	det-ord
 	lat	secundus	det-ord	spa	segundo	det-ord$det-ord-GD-ND$det
 	lat	tertius	det-ord	spa	tercio	det-ord
-	lat	quartus	det-ord	spa	cuarto	det-ord-GD-ND$det-ord$det
-	lat	quintus	det-ord	spa	quinto	det-ord-GD-ND$det-ord$det
+	lat	quartus	det-ord	spa	cuarto	det-ord$det-ord-GD-ND$det
+	lat	quintus	det-ord	spa	quinto	det-ord$det-ord-GD-ND$det
 	lat	sextus	det-ord	spa	sexto	det-ord$det-ord-GD-ND$det
 	lat	septimus	det-ord	spa	séptimo	det-ord$det-ord-GD-ND$det
 	lat	octavus	det-ord	spa	octavo	det-ord$det-ord-GD-ND$det
@@ -142,7 +142,7 @@
 	lat	abitare	vblex	spa	habitar	vblex
 	lat	accelerare	vblex	spa	acelerar	vblex
 	lat	acclamare	vblex	spa	aclamar	vblex
-	lat	accordare	vblex	spa	acordar	vblex
+	lat	accordare	vblex	spa	acordar	vblex$vblex-pron
 	lat	accumulare	vblex	spa	acumular	vblex
 	lat	accusare	vblex	spa	acusar	vblex
 	lat	adornare	vblex	spa	adornar	vblex
@@ -408,7 +408,7 @@
 	lat	temperare	vblex	spa	temperar	vblex
 	lat	tentare	vblex	spa	intentar	vblex
 	lat	terminare	vblex	spa	acabar	vblex
-	lat	tornare	vblex	spa	volver	vblex
+	lat	tornare	vblex	spa	volver	vblex$vblex-pron
 	lat	triplicare	vblex	spa	triplicar	vblex
 	lat	unificare	vblex	spa	unificar	vblex
 	lat	usurpare	vblex	spa	usurpar	vblex
@@ -437,7 +437,7 @@
 	lat	aroma	n	spa	aroma	n-m$n$n-m-ND
 	lat	benevolentia	n	spa	benevolencia	n
 	lat	benivolentia	n	spa	benevolencia	n
-	lat	statua	n	spa	estatua	n$n-f$n-f-ND
+	lat	statua	n	spa	estatua	n-f$n$n-f-ND
 	lat	taberna	n	spa	taberna	n$n-f$n-f-ND
 	lat	substantia	n	spa	substancia	n$n-f
 	lat	suaviloquentia	n	spa	suavilocuencia	n$n-f
@@ -491,7 +491,7 @@
 	lat	amphora	n	spa	ánfora	n$n-m
 	lat	amiculus	n	spa	amigito	n
 	lat	appetitus	n	spa	apetito	n$n-m$n-m-ND
-	lat	vita	n	spa	vida	n$n-f$n-f-sg
+	lat	vita	n	spa	vida	n-f$n$n-f-sg
 	lat	audacia	n	spa	audacia	n$n-f
 LR	lat	arula	n-f	spa	altar	n-m$n$n-m-ND
 	lat	aristocratia	n$n-f	spa	aristocracia	n$n-f
@@ -573,7 +573,7 @@ LR	lat	arula	n-f	spa	altar	n-m$n$n-m-ND
 	lat	mobilitas	n-f	spa	movilidad	n$n-f$n-f-ND
 	lat	moralitas	n-f	spa	moralidad	n$n-f$n-f-ND
 	lat	multiplicitas	n-f	spa	multiplicidad	n$n-f$n-f-sg
-	lat	nationalitas	n-f	spa	nacionalidad	n$n-f$n-f-sg
+	lat	nationalitas	n-f	spa	nacionalidad	n-f$n$n-f-sg
 	lat	neutralitas	n-f	spa	neutralidad	n$n-f$n-f-sg
 	lat	necessitas	n-f	spa	necesidad	n-f$n$n-f-sg
 	lat	nobilitas	n-f	spa	nobleza	n-f$n$n-f-ND
@@ -1014,10 +1014,10 @@ LR	lat	arula	n-f	spa	altar	n-m$n$n-m-ND
 	lat	martyrium	n-nt	spa	martirio	n-m$n
 	lat	memorandum	n-nt	spa	memorándum	n-m$n$n-m-sg
 	lat	meritum	n-nt	spa	mérito	n$n-m$n-m-ND
-	lat	metallum	n-nt	spa	metal	n$n-m$n-m-ND
+	lat	metallum	n-nt	spa	metal	n-m$n$n-m-ND
 	lat	meteorum	n-nt	spa	meteoro	n$n-m
 	lat	methanolum	n-nt	spa	metanol	n$n-m
-	lat	microbium	n-nt	spa	microbio	n$n-m
+	lat	microbium	n-nt	spa	microbio	n-m$n
 	lat	micrometrum	n-nt	spa	micrómetro	n$n-m
 	lat	microphonum	n-nt	spa	micrófono	n$n-m$n-m-ND
 	lat	microscopium	n-nt	spa	microscopio	n$n-m
@@ -1333,7 +1333,7 @@ LR	lat	arula	n-f	spa	altar	n-m$n$n-m-ND
 	lat	innovatio	n-f	spa	innovación	n$n-f$n-f-sg
 	lat	inspectio	n-f	spa	inspección	n-f$n$n-f-ND
 	lat	inspiratio	n-f	spa	inspiración	n$n-f$n-f-ND
-	lat	institutio	n-f	spa	institución	n$n-f$n-f-sg
+	lat	institutio	n-f	spa	institución	n-f$n$n-f-sg
 	lat	integratio	n-f	spa	integración	n-f$n$n-f-sg
 	lat	intentio	n-f	spa	intención	n$n-f$n-f-sg
 	lat	interactio	n-f	spa	interacción	n$n-f$n-f-sg
@@ -1719,7 +1719,7 @@ LR	lat	arula	n-f	spa	altar	n-m$n$n-m-ND
 	lat	ballaena	n-f	spa	ballena	n-f$n$n-f-sg
 	lat	ballena	n-f	spa	ballena	n-f$n$n-f-sg
 	lat	baronia	n-f	spa	baronía	n$n-f
-	lat	barca	n-f	spa	barca	n$n-f$n-f-ND
+	lat	barca	n-f	spa	barca	n-f$n$n-f-ND
 	lat	bellua	n-f	spa	bestia	n$n-f$n-f-ND
 	lat	belua	n-f	spa	bestia	n$n-f$n-f-ND
 	lat	bibliographia	n-f	spa	bibliografía	n$n-f$n-f-ND
@@ -1845,7 +1845,7 @@ LR	lat	arula	n-f	spa	altar	n-m$n$n-m-ND
 	lat	castor	n-m	spa	castor	n$n-m
 	lat	clamor	n-m	spa	clamor	n$n-m
 	lat	clon	n-m	spa	clon	n-m$n
-	lat	color	n-m	spa	color	n-m$n-m-sg$n
+	lat	color	n-m	spa	color	n-m$n$n-m-sg
 	lat	compositor	n-m	spa	compositor	n-m$n-m-pl
 	lat	cursor	n-m	spa	cursor	n$n-m$n-m-sg
 	lat	desertor	n-m	spa	desertor	n$n-m$n-m-pl
@@ -1867,7 +1867,7 @@ LR	lat	arula	n-f	spa	altar	n-m$n$n-m-ND
 	lat	rumor	n-m	spa	rumor	n-m$n$n-m-ND
 	lat	sal	n-m	spa	sal	n-m
 	lat	seductor	n-m	spa	seductor	n$n-m$n-m-ND
-	lat	sol	n-m	spa	sol	n$n-m$n-m-ND
+	lat	sol	n-m	spa	sol	n-m$n$n-m-ND
 	lat	sudor	n-m	spa	sudor	n-m$n$n-m-ND
 	lat	tenor	n-m	spa	tenor	n$n-m$n-m-sg
 	lat	terror	n-m	spa	terror	n-m$n$n-m-ND
@@ -1879,8 +1879,8 @@ LR	lat	arula	n-f	spa	altar	n-m$n$n-m-ND
 	lat	Brutus	np-ant	spa	Bruto	np$np-ant
 	lat	Lucius	np-ant	spa	Lucius	np-ant
 	lat	Marcus	np-ant	spa	Marcus	np-ant$np
-	lat	Isaacus	np-ant	spa	Isaac	np-ant$np$np-ant-m
-	lat	Iesus	np-ant	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg
+	lat	Isaacus	np-ant	spa	Isaac	np-ant$np
+	lat	Iesus	np-ant	spa	Jesús	np$np-ant$np-ant-m-sg
 	lat	Adamus	np-ant	spa	Adam	np-ant$np$np-ant-m
 	lat	Adam	np-ant	spa	Adam	np-ant$np$np-ant-m
 	lat	Eva	np-ant	spa	Eva	np$np-ant$np-ant-f$np-ant-f-sg

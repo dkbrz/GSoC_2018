@@ -6,7 +6,7 @@
 	fra		rpar	ron		rpar
 	fra		num$num-percent$	ron		num$
 	fra		num$num-percent$	ron		num$
-	fra	Abkhazie	np	ron	Abhazia	np$np-loc
+	fra	Abkhazie	np$np-top-f-sg	ron	Abhazia	np$np-loc
 	fra	Abidjan	np$np-top-m	ron	Abidjan	np$np-loc
 	fra	Adelaida	np$np-ant$np-ant-f-sg	ron	Adelaide	np$np-loc
 	fra	Afghanistan	np$np-top-m$np-top-m-sg$np-top	ron	Afganistan	np$np-loc
@@ -18,7 +18,7 @@ RL	fra	Achille	np$np-ant$np-ant-m-sg	ron	Ahile	np
 	fra	Alger	np$np-top-m-sg$np-top	ron	Alger	np$np-loc
 	fra	Algérie	np$np-loc$np-loc-f	ron	Algeria	np$np-loc
 	fra	Algérie	np$np-loc$np-loc-f	ron	Algeria	np$np-loc
-	fra	Alina	np$np-ant$np-ant-f-sg	ron	Alina	np$
+	fra	Alina	np$np-ant-f-sg$np-ant	ron	Alina	np$
 	fra	Alpes	np$np-top-f-pl$np-top	ron	Alpi	np$np-loc
 RL	fra	Alpes	np$np-top-f-pl$np-top	ron	Alpi	np$np-loc
 	fra	Alsace	np$np-loc-f	ron	Alsacia	np$np-loc
@@ -32,7 +32,7 @@ RL	fra	Amman	np$np-top-m-sg	ron	Amman	np$np-loc
 	fra	Andorre	np$np-top-f$np-top-f-sg$np-top	ron	Andora	np$np-loc
 	fra	Andorre	np$np-top-f$np-top-f-sg$np-top	ron	Andorra	np$np-loc
 	fra	Angleterre	np$np-top-f-sg$np-top$np-top-f	ron	Anglia	np$np-loc
-	fra	Angola	np$np-top$np-top-f	ron	Angola	np$np-loc
+	fra	Angola	np$np-top-m-sg$np-top$np-top-m	ron	Angola	np$np-loc
 	fra	Annapolis	np	ron	Annapolis	np$np-loc
 RL	fra	Antarctique	np$np-top-m-sg	ron	Antarctica	np$np-loc
 	fra	Antilles	np$np-top$np-top-f-pl	ron	Antile	np$np-loc
@@ -52,7 +52,7 @@ RL	fra	Asie	np$np-top-f-sg$np-top$np-top-f	ron	Asia	np$np-loc
 	fra	Athènes	np$np-top-f-sg$np-top-f	ron	Atena	np$$np-loc
 	fra	Australie	np$np-top-f$np-top-f-sg$np-top	ron	Australia	np$np-loc
 	fra	Autriche	np$np-top-f-sg$np-top-f$np-top	ron	Austria	np$np-loc
-	fra	Azerbaïdjan	np$np-top-m$np-top$np-top-m-sg	ron	Azerbaidjan	np$np-loc
+	fra	Azerbaïdjan	np$np-top-m$np-top-m-sg$np-top	ron	Azerbaidjan	np$np-loc
 	fra	BBC	n-acr$n-acr-f	ron	BBC	n-acr-nt$n-acr
 	fra	Bagdad	np$np-loc-f	ron	Bagdad	np$np-loc
 	fra	Baléares	np$np-top$np-top-f-pl	ron	Baleare	np$np-loc
@@ -74,7 +74,7 @@ RL	fra	Asie	np$np-top-f-sg$np-top$np-top-f	ron	Asia	np$np-loc
 	fra	Budapest	np$np-loc-f	ron	Budapesta	np$np-top-f-sg
 	fra	Bulgarie	np$np-top-f$np-top-f-sg$np-top	ron	Bulgaria	np$np-loc
 	fra	Bush	np$np-cog$np-cog-mf-sp	ron	Bush	np
-	fra	Bhoutan	np$np-top$np-top-m	ron	Butan	np$np-loc
+	fra	Bhoutan	np$np-top$np-top-m$np-top-m-sg	ron	Butan	np$np-loc
 	fra	C	num$num-mf-sp	ron	C	num$num-mf-pl
 	fra	Calcutta	np	ron	Calcutta	np$np-loc
 	fra	Californie	np$np-top-f-sg$np-top-f	ron	California	np$np-loc
@@ -154,7 +154,7 @@ RL	fra	Catalogne	np$np-top-f-sg$np-top$np-top-f	ron	Catalunia	np$np-loc
 	fra	Italie	np$np-top-f$np-top-f-sg$np-top	ron	Italia	np$np-loc
 	fra	Jamaïque	np$np-top-f$np-top-f-sg	ron	Jamaica	np$np-loc
 	fra	Japon	np$np-top-m$np-top-m-sg$np-top	ron	Japonia	np$np-top-f
-	fra	Katrina	np$np-ant$np-ant-f-sg	ron	Katrina	np
+	fra	Katrina	np$np-ant-f-sg$np-ant	ron	Katrina	np
 	fra	Kosovo	np-loc$np$np-loc-f	ron	Kosovo	np-loc$np
 	fra	Kremlin	np-al$np-al-m-sg$np	ron	Kremlin	np-al
 RL	fra	Kyoto	np$np-top$np-top-m-sg	ron	Kyoto	np$np-loc
@@ -162,7 +162,7 @@ RL	fra	Kyoto	np$np-top$np-top-m-sg	ron	Kyoto	np$np-loc
 	fra	Laponie	np$np-loc-f	ron	Laponia	np$np-loc
 	fra	Lettonie	np$np-top-f$np-top-f-sg$np-top	ron	Letonia	np$np-loc
 	fra	Liban	np$np-top-m$np-top-m-sg$np-top	ron	Liban	np$np-loc
-	fra	Libéria	np$np-top$np-top-m	ron	Liberia	np$np-loc
+	fra	Libéria	np$np-top$np-top-m$np-top-m-sg	ron	Liberia	np$np-loc
 	fra	Libye	np$np-top-f$np-top-f-sg$np-top	ron	Libia	np$np-loc
 LR	fra	Lisboa	np$np-loc-f	ron	Lisabona	np$np-loc
 	fra	Lisbonne	np$np-loc-f	ron	Lisabona	np$np-loc
@@ -245,7 +245,7 @@ LR	fra	Lisboa	np$np-loc-f	ron	Lisabona	np$np-loc
 	fra	Médine	np	ron	Medina	np$$np-loc
 	fra	Melilla	np$np-top-f-sg$np-top-f	ron	Melilla	np$np-loc
 	fra	Mendoza	np$np-top-f-sg	ron	Mendoza	np$$np-loc
-	fra	Minorque	np$np-loc-f	ron	Menorca	np$np-loc
+	fra	Minorque	np$np-top-f-sg	ron	Menorca	np$np-loc
 RL	fra	Mexique	np$np-top-m$np-top-m-sg$np-top	ron	Mexic	np$np-loc
 	fra	Moldavie	np$np-top$np-top-f$np-top-f-sg	ron	Moldova	np$np-loc
 	fra	Moscou	np$np-top-m-sg$np-top-m	ron	Moscova	np$np-loc
@@ -257,7 +257,7 @@ RL	fra	Mexique	np$np-top-m$np-top-m-sg$np-top	ron	Mexic	np$np-loc
 	fra	Nigeria	np$np-top$np-top-f	ron	Nigeria	np$np-loc
 	fra	Nil	np$np-top-m-sg$np-top	ron	Nil	$np$np-loc
 	fra	Norvège	np$np-top-f$np-top-f-sg$np-top	ron	Norvegia	np$np-loc
-	fra	ONU	n-acr$n-acr-f-sg	ron	ONU	n-acr$n$n-acr-m
+	fra	ONU	n-acr$n-acr-f-sg	ron	ONU	n-acr-m$n$n-acr
 	fra	Océanie	np$np-ant	ron	Oceania	np$np-loc
 	fra	Hollande	np$np-top-f-sg$np-top-f	ron	Olanda	np$np-loc
 	fra	Pakistan	np$np-top-m$np-top-m-sg$np-top	ron	Pakistan	np$np-loc
@@ -1110,9 +1110,9 @@ LR	fra	antiquité	n$n-f$n-f-ND	ron	antichitate	n$n-f
 	fra	contraceptif	adj	ron	anticoncepțional	adj$
 	fra	contraceptif	n-m$n	ron	anticoncepțional	n-nt$n
 	fra	anticorruption	n$n-f	ron	anticorupție	n
-LR	fra	antidémocratique	adj-mf$adj-mf-ND	ron	antidemocratic	$adj$adj-GD
-RL	fra	antidémocratique	adj-mf$adj-mf-ND	ron	antidemocratic	adj-m
-RL	fra	antidémocratique	adj-mf$adj-mf-ND	ron	antidemocratic	adj-f
+LR	fra	antidémocratique	adj-mf$adj-mf-ND$adj	ron	antidemocratic	$adj$adj-GD
+RL	fra	antidémocratique	adj-mf$adj-mf-ND$adj	ron	antidemocratic	adj-m
+RL	fra	antidémocratique	adj-mf$adj-mf-ND$adj	ron	antidemocratic	adj-f
 	fra	antifasciste	adj$adj-mf	ron	antifascist	$adj$adj-GD
 	fra	antimilitariste	adj$adj-mf	ron	antimilitarist	$adj$adj-GD
 	fra	antipode	n-m	ron	antipod	n$n-mf
@@ -1440,7 +1440,7 @@ LR	fra	allure	n-f$n-f-ND	ron	aspect	n-m
 	fra	aspect	n-m$n$n-m-ND	ron	aspect	n-nt$n
 LR	fra	pomper	vblex	ron	aspira	vblex
 	fra	aspirer	vblex	ron	aspira	vblex
-LR	fra	aspirant	n-m	ron	aspirant	n-mf
+LR	fra	aspirant	n-m$n	ron	aspirant	n-mf
 LR	fra	aspirant	n-f	ron	aspirant	n-mf
 RL	fra	aspirant	n-GD	ron	aspirant	n-mf
 LR	fra	aspirateur	n-m$n	ron	aspirator	n-GD
@@ -1780,7 +1780,7 @@ LR	fra	ivrogne	n-mf$n$n-mf-ND	ron	bețiv	n$n-GD
 RL	fra	ivrogne	n-mf$n$n-mf-ND	ron	bețiv	n-f
 RL	fra	ivrogne	n-mf$n$n-mf-ND	ron	bețiv	n-m
 LR	fra	semestriel	adj-m	ron	bianual	adj-mf$$adj
-LR	fra	semestriel	adj$adj-f	ron	bianual	adj-mf$$adj
+LR	fra	semestriel	adj$adj-f$	ron	bianual	adj-mf$$adj
 RL	fra	semestriel	adj-GD	ron	bianual	adj-mf$$adj
 LR	fra	biblique	adj-mf$adj$adj-mf-ND	ron	biblic	$adj$adj-GD
 RL	fra	biblique	adj-mf$adj$adj-mf-ND	ron	biblic	adj-f
@@ -1875,7 +1875,7 @@ RL	fra	rare	adj-mf$adj-mf-ND$adj	ron	bizar	adj-f
 	fra	blocage	n-m$n$n-m-ND	ron	blocare	n-f$n
 	fra	blog	n$n-m$n-m-ND	ron	blog	n$n-m
 	fra	blond	adj$adj-GD-ND	ron	blond	adj$
-	fra	jeans	n	ron	blugi	n
+	fra	jeans	n	ron	blugi	n$n-nt
 	fra	tendresse	n$n-f$n-f-ND	ron	blândețe	n$n-f
 	fra	grain	n-m$n$n-m-ND	ron	boabă	n-f$n
 	fra	maladie	n$n-f$n-f-ND	ron	boală	n$n-f
@@ -4227,7 +4227,7 @@ RL	fra	économique	adj-mf$adj$adj-mf-ND	ron	economic	adj-m
 	fra	écho	n-m$n$n-m-ND	ron	ecou	n$n-nt
 	fra	écran	n-m$n$n-m-ND	ron	ecran	n-f
 	fra	équateur	n-m$n	ron	ecuator	n$n-nt
-	fra	équation	n-f$n$n-f-ND	ron	ecuație	n$n-f
+	fra	équation	n$n-f$n-f-ND	ron	ecuație	n$n-f
 	fra	édification	n$n-f	ron	edificare	n$n-f
 LR	fra	édifice	n$n-m$n-m-ND	ron	edificiu	n$n-nt
 	fra	bâtiment	n-m$n$n-m-ND	ron	edificiu	n$n-nt
@@ -4765,7 +4765,7 @@ RL	fra	marionnette	n-f$n	ron	fantoșă	n-m
 	fra	farse	n$n-f	ron	farsă	n$n-f
 	fra	fasciner	vblex	ron	fascina	vblex
 LR	fra	fascinant	adj-m	ron	fascinant	adj-mf$$adj
-LR	fra	fascinant	adj-f$adj	ron	fascinant	adj-mf$$adj
+LR	fra	fascinant	adj$adj-f	ron	fascinant	adj-mf$$adj
 RL	fra	fascinant	adj-GD$adj-GD-ND	ron	fascinant	adj-mf$$adj
 	fra	fascination	n-f$n	ron	fascinație	n$n-f
 	fra	fasciste	adj$adj-mf$adj-mf-ND	ron	fascist	adj$adj-m-pl$adj-m
@@ -5676,7 +5676,7 @@ LR	fra	singer	vblex	ron	imita	vblex
 LR	fra	impact	n$n-m$n-m-ND	ron	impact	n$n-nt
 	fra	impardonnable	adj$adj-mf	ron	impardonabil	$adj$adj-GD
 LR	fra	impartial	adj-m	ron	imparțial	adj-mf$$adj
-LR	fra	impartial	adj$adj-f	ron	imparțial	adj-mf$$adj
+LR	fra	impartial	adj$adj-f$	ron	imparțial	adj-mf$$adj
 RL	fra	impartial	adj-GD	ron	imparțial	adj-mf$$adj
 	fra	impartialité	n$n-f	ron	imparțialitate	n$n-f
 	fra	impeccable	adj$adj-mf	ron	impecabil	$adj$adj-GD
@@ -6955,7 +6955,7 @@ RL	fra	maure	n-mf$n-mf-ND	ron	maur	n-f
 	fra	maximal	adj$$adj-GD-ND	ron	maximal	adj$
 	fra	machination	n-f$n	ron	mașinație	n$n-f
 	fra	machination	n-f$n	ron	mașinațiune	n$n-f
-	fra	machiniste	n$n-mf	ron	mașinist	n-f$n
+	fra	machiniste	n-mf$n	ron	mașinist	n-f$n
 	fra	voiture	n-f$n$n-f-ND	ron	mașină	n-m
 	fra	machine	n-f$n$n-f-ND	ron	mașină de spălat	n$n-f
 	fra	méandre	n-m$n	ron	meandru	n-nt$n
@@ -7596,7 +7596,7 @@ LR	fra	mécontentement	n-m$n	ron	nemulțumire	n$n-f
 	fra	mécontent	adj	ron	nemulțumit	adj$
 LR	fra	mécontent	adj	ron	nemulțumit	adj$
 	fra	immortalité	n$n-f	ron	nemurire	n$n-f
-LR	fra	immortel	adj$adj-m$adj-m-sg	ron	nemuritor	adj-mf$
+LR	fra	immortel	adj$adj-m$$adj-m-sg	ron	nemuritor	adj-mf$
 LR	fra	immortel	adj-f$adj-f-sg	ron	nemuritor	adj-mf$
 RL	fra	immortel	adj-GD$adj-GD-ND	ron	nemuritor	adj-mf$
 	fra	allemand	adj$adj-GD-ND	ron	nemțesc	adj-mfn-pl$adj$
@@ -7905,7 +7905,7 @@ LR	fra	odieux	adj-m-sp$adj	ron	odios	adj-m-ND
 RL	fra	odieux	adj-m-sp$adj	ron	odios	adj-m-sg
 RL	fra	odieux	adj-m-sp$adj	ron	odios	adj-m-pl
 	fra	odieux	adj-f	ron	odios	adj$$adj-f
-	fra	odyssée	n$n-f	ron	odisee	n
+	fra	odyssée	n-f$n	ron	odisee	n
 	fra	odontologie	n$n-f	ron	odontologie	n
 RL	fra	rejeton	n$n-m$n-m-ND	ron	odraslă	n-f$n
 	fra	ménage	n$n-m	ron	odăjdii	n-f-pl$n
@@ -8074,7 +8074,7 @@ LR	fra	organization	n$n-f-ND$n-f	ron	organizație	n$n-f
 	fra	orgasme	n$n-m$n-m-ND	ron	orgasm	n$n-nt
 	fra	orgie	n$n-f$n-f-ND	ron	orgie	n
 	fra	fier	adj$adj-GD-ND	ron	orgolios	adj$$adj-f
-LR	fra	orgueilleux	adj-f$adj	ron	orgolios	adj$$adj-f
+LR	fra	orgueilleux	adj$adj-f	ron	orgolios	adj$$adj-f
 LR	fra	orgueilleux	adj-m-sp	ron	orgolios	adj-m-ND
 	fra	orgueil	n-m$n$n-m-ND	ron	orgoliu	n$n-nt
 	fra	organe	n$n-m$n-m-ND	ron	orgă	n-f$n
@@ -10413,7 +10413,7 @@ RL	fra	secrétaire	n-mf$n$n-mf-ND	ron	secretar	n$n-m
 	fra	secrétariat	n-m$n$n-m-ND	ron	secretariat	n-f
 	fra	sécrétion	n-f$n	ron	secreție	n$n-f
 	fra	secteur	n$n-m$n-m-ND	ron	sector	n$n-nt
-RL	fra	sectoriel	adj$adj-GD	ron	sectorial	adj-mf$
+RL	fra	sectoriel	adj$adj-GD$	ron	sectorial	adj-mf$
 LR	fra	sectoriel	adj-m	ron	sectorial	adj-mf$
 LR	fra	sectoriel	adj-f	ron	sectorial	adj-mf$
 LR	fra	secondaire	adj-mf$adj$adj-mf-ND	ron	secundar	$adj$adj-GD
@@ -10453,7 +10453,7 @@ RL	fra	sémantique	adj-mf$adj$adj-mf-ND	ron	semantic	adj-m
 RL	fra	sémantique	adj-mf$adj$adj-mf-ND	ron	semantic	adj-f
 	fra	sémantique	n$n-f	ron	semantică	n$n-f
 LR	fra	semestriel	adj-m	ron	semestrial	adj-mf$$adj
-LR	fra	semestriel	adj$adj-f	ron	semestrial	adj-mf$$adj
+LR	fra	semestriel	adj$adj-f$	ron	semestrial	adj-mf$$adj
 RL	fra	semestriel	adj-GD	ron	semestrial	adj-mf$$adj
 	fra	semestre	n-m$n	ron	semestru	n-nt$n
 	fra	séminaire	n-m$n	ron	seminar	n$n-nt
@@ -10968,7 +10968,7 @@ LR	fra	d'autrui	adj-mf-sp$adj	ron	străin	adj$adj-GD-ND
 RL	fra	brillant	adj$adj-GD-ND$adj-GD	ron	strălucitor	adj-mf$
 LR	fra	brillant	adj-f-sg$adj-f	ron	strălucitor	adj-mf$
 LR	fra	brillant	adj-m-sg$adj-m	ron	strălucitor	adj-mf$
-LR	fra	luisant	adj-f$adj	ron	strălucitor	adj-mf$
+LR	fra	luisant	adj$adj-f	ron	strălucitor	adj-mf$
 LR	fra	luisant	adj-m	ron	strălucitor	adj-mf$
 LR	fra	éclatant	adj$adj-f	ron	strălucitor	adj-mf$
 LR	fra	éclatant	adj-m	ron	strălucitor	adj-mf$
@@ -12058,7 +12058,7 @@ LR	fra	faisabilité	n$n-f	ron	viabilitate	n$n-f
 	fra	vie	n$n-f$n-f-ND	ron	viață	n$n-f
 	fra	vibrer	vblex	ron	vibra	vblex
 LR	fra	vibrant	adj-m	ron	vibrant	adj-mf$$adj
-LR	fra	vibrant	adj-f$adj	ron	vibrant	adj-mf$$adj
+LR	fra	vibrant	adj$adj-f	ron	vibrant	adj-mf$$adj
 RL	fra	vibrant	adj-GD	ron	vibrant	adj-mf$$adj
 	fra	vibration	n$n-f$n-f-ND	ron	vibrație	n$n-f
 	fra	vicaire	n-m$n	ron	vicar	n

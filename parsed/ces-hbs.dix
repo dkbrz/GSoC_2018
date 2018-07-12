@@ -11,7 +11,7 @@
 	ces	běžet	vblex-imperf-iv	hbs	trčati	vblex-imperf-iv
 	ces	schovat	vblex$vblex-perf-ref	hbs	sakriti	vblex-perf-ref
 	ces	vědět	vblex-imperf$vblex-imperf-tv	hbs	znati	vblex$vblex-imperf$vblex-imperf-tv
-	ces	sedět	vblex-imperf-iv	hbs	sjediti	vblex$vblex-imperf-iv
+	ces	sedět	vblex$vblex-imperf-iv	hbs	sjediti	vblex$vblex-imperf-iv
 	ces	držet	vblex$vblex-imperf-tv	hbs	držati	vblex$vblex-imperf$vblex-imperf-tv
 	ces	odpočítavat	vblex-imperf-iv	hbs	odbrojavati	vblex$vblex-imperf$vblex-imperf-iv
 	ces	dělat	vblex-imperf-tv	hbs	raditi	vblex-imperf-tv
@@ -20,42 +20,42 @@
 	ces	odejít	vblex-perf-iv	hbs	otići	vblex-perf-iv$vblex$vblex-perf
 	ces	zeptat	vblex$vblex-perf$vblex-perf-ref	hbs	upitati	vblex$vblex-perf$vblex-perf-ref
 	ces	umět	vblex-imperf-tv	hbs	moći	vblex-imperf-tv
-	ces	odpovědět	vblex-perf$vblex-perf-iv	hbs	odgovoriti	vblex-perf-iv
+	ces	odpovědět	vblex-perf$vblex$vblex-perf-iv	hbs	odgovoriti	vblex-perf-iv
 	ces	dostat	vblex$vblex-perf-tv	hbs	dobiti	vblex-perf-tv$vblex
 	ces	dostavat	vblex-imperf-tv	hbs	dobivati	vblex$vblex-imperf-tv$vblex-imperf
 	ces	smát	vblex-imperf-ref	hbs	smijati	vblex$vblex-imperf-ref
 	ces	myslet	vblex$vblex-imperf-tv	hbs	misliti	vblex-imperf-tv
-	ces	říci	vblex-imperf-tv	hbs	reći	vblex-imperf-tv
+	ces	říci	vblex$vblex-imperf-tv	hbs	reći	vblex-imperf-tv
 	ces	ptát	vblex$vblex-imperf$vblex-imperf-ref	hbs	pitati	vblex$vblex-imperf$vblex-imperf-ref
 	ces	procházet	vblex-imperf-ref	hbs	šetati	vblex-imperf-iv
 	ces	snažit	vblex-imperf-ref	hbs	pokušavati	vblex$vblex-imperf-tv
 	ces	najít	vblex$vblex-perf-tv	hbs	naći	vblex-perf-tv$vblex$vblex-perf
 	ces	uslyšet	vblex-perf-tv	hbs	začuti	vblex-perf-tv$vblex
 	ces	přicházet	vblex-imperf-iv	hbs	dolaziti	vblex$vblex-imperf-iv
-	ces	poslouchat	vblex-imperf-iv	hbs	slušati	vblex-imperf-iv$vblex-imperf
-	ces	muset	vblex-imperf-tv	hbs	morati	vblex-imperf-tv
+	ces	poslouchat	vblex$vblex-imperf-iv	hbs	slušati	vblex-imperf-iv$vblex-imperf
+	ces	muset	vblex$vblex-imperf-tv	hbs	morati	vblex-imperf-tv
 	ces	uvidět	vblex-perf$vblex-perf-tv	hbs	ugledati	vblex$vblex-perf-tv
 	ces	povídat	vblex-imperf-iv	hbs	kaže	vblex-perf-iv
-	ces	jet	vblex-imperf-iv	hbs	ići	vblex-perf-iv
+	ces	jet	vblex$vblex-imperf-iv	hbs	ići	vblex-perf-iv
 	ces	sníst	vblex-perf-tv	hbs	pojesti	vblex-perf-tv$vblex$vblex-perf
 	ces	vypít	vblex-perf$vblex-perf-tv	hbs	popiti	vblex-perf-tv$vblex
-	ces	zahrada	n-f	hbs	vrt	n-mi$n
+	ces	zahrada	n-f$n	hbs	vrt	n-mi$n
 	ces	počasí	n-nt	hbs	vrijeme	n-nt$n
 	ces	dům	n-m	hbs	kuća	n-f$n
 	ces	chlapec	n-m	hbs	dječak	n-m
-	ces	léto	n-nt	hbs	godina	n-nt
+	ces	léto	n-nt$n	hbs	godina	n-nt
 	ces	holčička	n-f	hbs	djevojčica	n-f$n
 	ces	sestra	n-f	hbs	sestra	n-f$n
 	ces	pes	n-m	hbs	pas	n-m
-	ces	dítě	n-nt	hbs	dijete	n-nt$n
-	ces	kočka	n-f	hbs	mačka	n-f$n
+	ces	dítě	n-nt$n	hbs	dijete	n-nt$n
+	ces	kočka	n-f$n	hbs	mačka	n-f$n
 	ces	matka	n-f	hbs	majka	n-f$n
-	ces	okno	n-nt	hbs	prozor	n-m
+	ces	okno	n-nt$n	hbs	prozor	n-m
 	ces	strom	n-m	hbs	drvo	n-nt$n
-	ces	ruka	n-f	hbs	ruka	n-f$n
-	ces	oko	n-nt	hbs	oko	n-nt$n$n-nt-sg
+	ces	ruka	n-f$n	hbs	ruka	n-f$n
+	ces	oko	n-nt$n	hbs	oko	n-nt$n$n-nt-sg
 	ces	hra	n-f	hbs	igra	n-f$n
-	ces	voda	n-f	hbs	voda	n-f$n
+	ces	voda	n-f$n	hbs	voda	n-f$n
 	ces	odpověď	n-f	hbs	odgovor	n-m
 	ces	otázka	n-f	hbs	pitanje	n-nt$n
 	ces	maminka	n-f	hbs	mamica	n-f
@@ -66,7 +66,7 @@
 	ces	zvuk	n-m	hbs	zvuk	n-m
 	ces	strom	n-m	hbs	drvo	n-nt$n
 	ces	ptáček	n-m	hbs	pričica	n$n-f
-	ces	zvíře	n-nt	hbs	životinja	n-f
+	ces	zvíře	n$n-nt	hbs	životinja	n-f
 	ces	ručička	n-f	hbs	ručica	n-f$n
 	ces	hlavička	n-f	hbs	glavica	n$n-f
 	ces	čas	n-m	hbs	vrijeme	n-nt$n

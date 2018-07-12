@@ -73,7 +73,7 @@ RL	kaz		$sent	tur	ма	qst
 	kaz	екеу	prn-qnt-px3sp$prn-qnt	tur	iki	prn-qnt
 	kaz	мына	prn-dem$prn-dem-nom	tur	bu	prn-dem$prn-dem-abl$prn
 	kaz	біреу	prn-pers	tur	birisi	prn-pers
-	kaz	біреу	prn-ind$prn	tur	biri	prn-ind$$prn
+	kaz	біреу	prn-ind$prn	tur	biri	prn-ind$$prn$prn-ind-px3pl-nom
 	kaz	мен	prn-pers$prn-pers-p1-sg-gen$prn-pers-p1-sg$prn-pers-p1-sg-gen-subst	tur	ben	prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-adv
 	kaz	бірқатар	prn-qnt$prn-qnt-nom	tur	bazıları	prn-qnt
 	kaz	сен	prn-pers$prn-pers-p2-sg-gen$prn-pers-p2-sg$prn	tur	sen	prn-pers$prn-pers-p2-sg
@@ -93,7 +93,7 @@ RL	kaz		$sent	tur	ма	qst
 	kaz	ол	prn-pers$prn-pers-p3-sg-gen$prn-pers-p3$prn-pers-p3-sg$prn	tur	o	prn-pers$prn$prn-pers-p3-sg
 	kaz	ол	prn-dem-advl	tur	öyle	adv$
 	kaz	бұл	prn-dem-advl	tur	böyle	adv$
-	kaz	Ан	prn-ref-px3sp	tur	kendi	prn$prn-ref$$prn-ref-px3sp
+	kaz	Ан	prn-ref-px3sp	tur	kendi	prn-ref$prn$$prn-ref-px3sp
 	kaz	біз	prn-pers$prn-pers-p1-pl-gen$prn-pers-p1-pl$prn-pers-p1-pl-gen-subst	tur	biz	prn-pers$prn-pers-p1-pl
 	kaz	сендер	prn-pers-p2-pl$prn-pers$prn-pers-p2-pl-gen	tur	siz	prn-pers$prn-pers-p2-pl
 	kaz	қан	prn-pers	tur	ne	prn-itg$prn$prn-itg-abl
@@ -113,7 +113,7 @@ RL	kaz		$sent	tur	ма	qst
 	kaz	не	prn-itg$prn	tur	ne	prn-itg$prn$prn-itg-abl
 	kaz	қандай	prn-itg$prn-itg-sim-nom	tur	nasıl	adv$adv-itg
 	kaz	қандай	prn-itg$prn-itg-sim-nom	tur	nerde	adv$adv-itg
-	kaz	кім	prn-itg$prn$prn-itg-gen	tur	ne	adv$adv-itg
+	kaz	кім	prn-itg$prn$prn-itg-gen	tur	ne	adv-itg$adv
 	kaz	кім	prn-itg$prn$prn-itg-gen	tur	kim	prn-itg
 	kaz	қайсы	prn-itg	tur	hangi	prn-itg$prn$prn-itg-abl
 	kaz	олар	prn-pers$prn-pers-p3-pl$prn-pers-p3-pl-gen$prn$prn-pers-p3	tur	onlar	prn-pers$prn-pers-p3-pl
@@ -132,7 +132,7 @@ RL	kaz		$sent	tur	ма	qst
 	kaz	әр	det-qnt$det	tur	her	det$det-dem
 	kaz	көптеген	det-qnt$det	tur	birçok	det-qnt$det
 	kaz	көп	det-qnt	tur	çok	det$det-qnt
-	kaz	кейбір	det-ind$det	tur	bazı	det-qnt$det
+	kaz	кейбір	det-ind$det	tur	bazı	det-qnt$det$
 	kaz	кейбір	det-ind$det	tur	birkaç	det-ind$det
 	kaz	бір	det-ind$det	tur	bir	det-ind$det
 	kaz	сол	det-dem$det	tur	şu	det-dem$det
@@ -3628,7 +3628,7 @@ RL	kaz		$sent	tur	ма	qst
 	kaz	катастрофизм	n	tur	katastrofizm	n
 	kaz	катаболизм	n	tur	katabolizma	n
 	kaz	қасапшы	n	tur	kasap	n
-	kaz	қарын	n	tur	mide	n
+	kaz	қарын	n	tur	mide	n$
 	kaz	асу	n	tur	engel	n$
 	kaz	қаршығалар	n	tur	atmaca	n
 	kaz	картоп	n	tur	patates	n$
@@ -4036,7 +4036,7 @@ RL	kaz		$sent	tur	ма	qst
 	kaz	аспарагус	n	tur	kuşkonmaz	n
 	kaz	аспан	n	tur	gökyüzü	n
 	kaz	аскетизм	n	tur	çilecilik	n
-	kaz	асқазан	n	tur	mide	n
+	kaz	асқазан	n	tur	mide	n$
 	kaz	асимптота	n	tur	sonuşmaz	n
 	kaz	арыстан	n	tur	aslan	n$
 	kaz	арша	n	tur	ardıç	n
@@ -5437,7 +5437,7 @@ LR	kaz	гөрі	post	tur		$num$num-card-sg-nom
 	kaz	гигиеналық	adj	tur	hijyenik	adj$
 	kaz	дағдылы	adj	tur	olağan	adj$
 	kaz	дайын	adj$adj-subst	tur	hazır	adj$
-	kaz	дара	adj	tur	bazı	adj$
+	kaz	дара	adj	tur	bazı	adj
 	kaz	дәмді	adj	tur	leziz	adj$
 	kaz	дәрігерлік	adj	tur	tıbbi	adj$
 	kaz	дұрыс	adj$adj-subst	tur	doğru	adj$
@@ -6761,7 +6761,7 @@ LR	kaz	мм	n$n-nom	tur	mm	n-nom
 	kaz	әлгі	det$det-dem	tur	şu	det-dem$det
 	kaz	бірнеше	det-qnt$det	tur	birkaç	det-qnt
 	kaz	бұл	det-dem$det$det-dem-qnt	tur	bu	det-dem$det$det-dem-qnt
-	kaz	бірсыпыра	det-qnt	tur	bazı	det-qnt$det
+	kaz	бірсыпыра	det-qnt	tur	bazı	det-qnt$det$
 	kaz	бұл	prn-dem$prn-dem-nom$prn	tur	bu	prn-dem$prn-dem-abl$prn
 	kaz	бұл жолғы	adv	tur	böylesine	adv
 	kaz	бюджет	n	tur	bütçe	n$
@@ -6849,7 +6849,7 @@ LR	kaz	мм	n$n-nom	tur	mm	n-nom
 	kaz	төбелес	n	tur	dövüş	n
 	kaz	Еуровидение	np-al	tur	Eurovision	np-al
 	kaz	ӘЧ	np-al	tur	Dünya Şampiyonası	np-al
-	kaz	ешқандай	det-neg$det	tur	hiçbir	det-qnt$det
+	kaz	ешқандай	det-neg$det	tur	hiçbir	det$det-qnt
 	kaz	жабдық	n$n-pl	tur	alet	n$
 	kaz	Жабдық	n	tur	cihaz	n$
 	kaz	жабдық	n$n-pl	tur	ekipman	n$
@@ -6947,7 +6947,7 @@ LR	kaz	мм	n$n-nom	tur	mm	n-nom
 	kaz	заң	n	tur	kanun	n$
 	kaz	зейнетақы	n	tur	Emeklilik	n
 	kaz	зор	adj	tur	devasa	adj$
-	kaz	игілік	n	tur	nimet	$n
+	kaz	игілік	n	tur	nimet	n$
 	kaz	идея	n	tur	düşünce	n$
 	kaz	ие	n	tur	sahip	n$
 	kaz	инвестиция	n	tur	yatırım	n$
@@ -7232,7 +7232,7 @@ LR	kaz	мм	n$n-nom	tur	mm	n-nom
 	kaz	түлік	n	tur	stok	n$
 	kaz	қора	n	tur	avlu	n$
 	kaz	одақ	n	tur	ittifak	n$
-	kaz	өз	prn-ref$prn$prn-ref-px3sp	tur	kendi	prn$prn-ref$$prn-ref-px3sp
+	kaz	өз	prn-ref$prn$prn-ref-px3sp	tur	kendi	prn-ref$prn$$prn-ref-px3sp
 	kaz	өз	det-ref$det	tur	kendi	det-ref
 	kaz	бірқатар	prn-qnt$prn-qnt-nom	tur	birkaç	det-ind$det
 	kaz	өзара	adj	tur	karşılıklı	adj

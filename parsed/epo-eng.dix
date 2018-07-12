@@ -50,7 +50,7 @@ LR	epo	E-o	n	eng	Esperanto	n
 	epo	FBI	n-acr	eng	FBI	n-acr$n
 	epo	IBM	n-acr	eng	IBM	n-acr
 	epo	NASA	n-acr	eng	NASA	n-acr$n
-	epo	NATO	n-acr$n	eng	NATO	n-acr$n$n-acr-sg
+	epo	NATO	n-acr	eng	NATO	n-acr$n$n-acr-sg
 	epo	U.N.	n-acr	eng	U.N.	n-acr$n-acr-sg
 	epo	UN	n-acr$n	eng	UN	n-acr$n$n-acr-sg
 	epo	UEFA	n-acr	eng	UEFA	n-acr$n
@@ -130,12 +130,12 @@ RL	epo	televido	n	eng	TV	n$n-acr
 	epo	unu	num	eng	one	num$num-sg$$num-pl-sg
 	epo	du	num	eng	two	num$num-sp$
 	epo	tri	num	eng	three	num$num-sp$
-	epo	kvar	num$	eng	four	num$num-sp$
-	epo	kvin	num$	eng	five	num$num-sp$
-	epo	ses	num$	eng	six	num$num-sp$
-	epo	sep	num$	eng	seven	num$num-sp$
+	epo	kvar	num	eng	four	num$num-sp$
+	epo	kvin	num	eng	five	num$num-sp$
+	epo	ses	num	eng	six	num$num-sp$
+	epo	sep	num	eng	seven	num$num-sp$
 	epo	ok	num	eng	eight	num$num-sp$
-	epo	naŭ	num$	eng	nine	num$num-sp$
+	epo	naŭ	num	eng	nine	num$num-sp$
 	epo	dek	num$	eng	ten	num$num-sp$
 	epo	dek unu	num$	eng	eleven	num$num-sp$
 	epo	dek du	num$	eng	twelve	num$num-sp$
@@ -423,8 +423,8 @@ RL	epo	multan dankon	ij	eng	thanks a ton	ij
 	epo	sed	cnjcoo	eng	but	cnjcoo
 	epo	aŭ	cnjcoo	eng	or	cnjcoo
 RL	epo	aŭ	cnjcoo	eng	either	cnjcoo
-	epo	nek	cnjcoo	eng	neither	cnjcoo
-RL	epo	nek	cnjcoo	eng	nor	cnjcoo
+	epo	nek	cnjcoo$	eng	neither	cnjcoo
+RL	epo	nek	cnjcoo$	eng	nor	cnjcoo
 	epo	sed prefere	cnjcoo	eng	but rather	cnjcoo
 	epo	la	det-def$det	eng	the	det$det-def-sp$det-def
 	epo	det  a	det-ind	eng	a	det-ind-sg$det-ind$det$
@@ -1663,15 +1663,15 @@ RL	epo	kiu	rel-an$rel-an-sg-nom	eng	which	rel-an-mf-sp$rel-an$prn-rel-an-mf-sp
 	epo	kiam	adv-itg$adv	eng	when	adv$adv-itg
 	epo	kiel	adv$adv-itg	eng	how	adv$adv-itg
 	epo	kien	adv$adv-itg	eng	to where	adv-itg
-	epo	ne	adv	eng	no	adv
+	epo	ne	adv$	eng	no	adv
 	epo	ne-	adv	eng	non-	adv
-RL	epo	ne	adv	eng	non	adv
-RL	epo	ne	adv	eng	not	adv
+RL	epo	ne	adv$	eng	non	adv
+RL	epo	ne	adv$	eng	not	adv
 	epo	neniam	adv	eng	never	adv
 	epo	nun	adv	eng	now	adv$
-	epo	nur	adv	eng	only	adv
-RL	epo	nur	adv	eng	solely	adv
-RL	epo	nur	adv	eng	just	adv
+	epo	nur	adv$	eng	only	adv
+RL	epo	nur	adv$	eng	solely	adv
+RL	epo	nur	adv$	eng	just	adv
 	epo	tuj antaŭ	adv	eng	just before	adv
 	epo	tuj post	adv	eng	just after	adv
 	epo	plej	adv	eng	most	adv
@@ -3605,8 +3605,8 @@ LR	epo	ekpafado	n	eng	burst	n$n-ND
 LR	epo	ekŝpruci	vblex	eng	burst	vblex$vblex-ger
 LR	epo	ekŝpruco	n	eng	burst	n$n-ND
 LR	epo	ŝprucaĵo	n	eng	burst	n$n-ND
-	epo	aŭtobuso	n	eng	bus	n$n-sg
-LR	epo	buso	n	eng	bus	n$n-sg
+	epo	aŭtobuso	n	eng	bus	n$n-pl
+LR	epo	buso	n	eng	bus	n$n-pl
 	epo	komerco	n	eng	business	n$n-unc
 LR	epo	komercado	n	eng	business	n$n-unc
 RL	epo	komerca	adj	eng	business	adj
@@ -3626,8 +3626,8 @@ LR	epo	depeŝo	n	eng	cable	n$n-ND
 LR	epo	staĝanto	n	eng	cadet	n$n-sg
 	epo	kafejo	n	eng	cafe	n$n-ND
 	epo	kaĝo	n	eng	cage	n$n-ND
-	epo	kuko	n	eng	cake	n$n-ND
-LR	epo	kukaĵo	n	eng	cake	n$n-ND
+	epo	kuko	n	eng	cake	n$n-pl
+LR	epo	kukaĵo	n	eng	cake	n$n-pl
 RL	epo	kalkuli	vblex	eng	calculate	vblex
 LR	epo	prikalkuli	vblex	eng	calculate	vblex
 	epo	kalkulo	n	eng	calculation	n$n-ND
@@ -4653,7 +4653,7 @@ LR	epo	inkliniĝi	vblex	eng	convince	vblex
 LR	epo	kuiro	n	eng	cook	n$n-ND
 LR	epo	kuiristino	n	eng	cook	n$n-ND
 LR	epo	kuiristo	n	eng	cook	n$n-ND
-	epo	kuketo	n	eng	cookie	n
+	epo	kuketo	n	eng	cookie	n$n-pl
 	epo	kuiri	vblex	eng	cook	vblex
 LR	epo	kuiradi	vblex	eng	cook	vblex
 LR	epo	kuiriĝi	vblex	eng	cook	vblex
@@ -4878,8 +4878,8 @@ LR	epo	gravega	adj	eng	critical	adj
 LR	epo	vivminaca	adj	eng	critical	adj
 	epo	kritiki	vblex	eng	criticise	vblex
 LR	epo	riproĉi	vblex	eng	criticise	vblex
-	epo	kultivaĵo	n	eng	crop	n$n-ND
-LR	epo	rikoltaĵo	n	eng	crop	n$n-ND
+	epo	kultivaĵo	n	eng	crop	n$n-pl
+LR	epo	rikoltaĵo	n	eng	crop	n$n-pl
 LR	epo	transeni	vblex	eng	cross	vblex$vblex-sep
 RL	epo	kruco	n	eng	cross	n$n-ND
 	epo	transiri	vblex	eng	cross	vblex$vblex-sep
@@ -5644,7 +5644,7 @@ LR	epo	eksedzigi	vblex	eng	divorce	vblex
 	epo	obeema	adj	eng	docile	adj
 LR	epo	direktebla	adj	eng	docile	adj
 LR	epo	kondukebla	adj	eng	docile	adj
-	epo	doko	n	eng	dock	n$n-ND
+	epo	doko	n	eng	dock	n$n-pl
 	epo	ŝipkonstruejo	n	eng	dockyard	n
 	epo	doktoro	n	eng	doctor	n$n-ND
 LR	epo	kuracisto	n	eng	doctor	n$n-ND
@@ -6093,7 +6093,7 @@ LR	epo	fianĉiĝo	n	eng	engagement	n$n-ND
 LR	epo	fianĉiniĝo	n	eng	engagement	n$n-ND
 LR	epo	interbatalo	n	eng	engagement	n$n-ND
 LR	epo	engaĝi	vblex	eng	engage	vblex
-	epo	motoro	n	eng	engine	n$n-ND
+	epo	motoro	n	eng	engine	n$n-pl
 	epo	inĝeniero	n	eng	engineer	n$n-sg
 LR	epo	lokomotivestro	n	eng	engineer	n$n-sg
 	epo	inĝenieristiko	n	eng	engineering	n$n-unc
@@ -7272,9 +7272,9 @@ LR	epo	fuŝsendita	adj	eng	garbled	adj
 	epo	ajlo	n	eng	garlic	n$n-ND
 	epo	gaso	n	eng	gas	n$n-sg
 	epo	benzino	n	eng	gasoline	n$n-sg
-	epo	krado	n	eng	gate	n$n-ND
-LR	epo	pordeto	n	eng	gate	n$n-ND
-LR	epo	pordego	n	eng	gate	n$n-ND
+	epo	krado	n	eng	gate	n$n-pl
+LR	epo	pordeto	n	eng	gate	n$n-pl
+LR	epo	pordego	n	eng	gate	n$n-pl
 	epo	enirejo	n	eng	gateway	n$n-ND
 LR	epo	alirejo	n	eng	gateway	n$n-ND
 LR	epo	pordegejo	n	eng	gateway	n$n-ND
@@ -7384,7 +7384,7 @@ LR	epo	katizo	n	eng	gloss	n
 LR	epo	glaceo	n	eng	gloss	n
 LR	epo	gloso	n	eng	gloss	n
 LR	epo	ŝikeco	n	eng	gloss	n
-	epo	ganto	n	eng	glove	n$n-ND
+	epo	ganto	n	eng	glove	n$n-pl
 RL	epo	brilo	n	eng	glow	n$n-ND
 LR	epo	ardo	n	eng	glow	n$n-ND
 	epo	glukozo	n	eng	glucose	n$n-sg
@@ -7693,7 +7693,7 @@ LR	epo	hejti	vblex	eng	heat	vblex
 	epo	hejtado	n	eng	heating	n
 	epo	eklevi	vblex	eng	heave	vblex
 LR	epo	boli	vblex	eng	heave	vblex
-RL	epo	ĉielo	n	eng	heaven	n$n-ND
+RL	epo	ĉielo	n	eng	heaven	n$n-pl
 RL	epo	multe	adv	eng	heavily	adv
 LR	epo	grande	adv	eng	heavily	adv
 LR	epo	amase	adv	eng	heavily	adv
@@ -7789,7 +7789,7 @@ LR	epo	teno	n	eng	hold	n$n-ND
 LR	epo	kargujo	n	eng	hold	n$n-ND
 RL	epo	teni	vblex	eng	hold	vblex$vblex-sep
 LR	epo	tenadi	vblex	eng	hold	vblex$vblex-sep
-	epo	akciaro	n	eng	holding	n
+	epo	akciaro	n	eng	holding	n$n-pl
 	epo	truo	n	eng	hole	n$n-ND
 LR	epo	eltranĉo	n	eng	hole	n$n-ND
 LR	epo	kavernaĉo	n	eng	hole	n$n-ND
@@ -8630,7 +8630,7 @@ LR	epo	moketi	vblex	eng	kid	vblex
 LR	epo	inciteti	vblex	eng	kid	vblex
 	epo	forkapti	vblex	eng	kidnap	vblex$vblex-ger
 LR	epo	infanŝteli	vblex	eng	kidnap	vblex$vblex-ger
-	epo	reno	n	eng	kidney	n$n-sg
+	epo	reno	n	eng	kidney	n$n-pl
 	epo	mortigi	vblex	eng	kill	vblex$vblex-pp
 	epo	kilogramo	n	eng	kilo	n$n-ND
 RL	epo	kilogramo	n	eng	kilogram	n$n-ND
@@ -8739,7 +8739,7 @@ LR	epo	lingvaĵo	n	eng	language	n$n-ND
 	epo	lanterno	n	eng	lantern	n$n-ND
 RL	epo	granda	adj	eng	large	adj-sint$adj
 LR	epo	multenombra	adj	eng	large	adj-sint$adj
-	epo	larvo	n	eng	larva	n
+	epo	larvo	n	eng	larva	n$n-pl
 	epo	lasero	n	eng	laser	n$n-ND
 	epo	daŭri	vblex	eng	last	vblex
 LR	epo	elteni	vblex	eng	last	vblex
@@ -9488,9 +9488,9 @@ LR	epo	ofendiĝi	vblex	eng	mind	vblex
 LR	epo	minejo	n	eng	mine	n$n-sg
 LR	epo	fosejo	n	eng	mine	n$n-sg
 	epo	ministo	n	eng	miner	n
-	epo	mineralo	n	eng	mineral	n$n-ND
+	epo	mineralo	n	eng	mineral	n$n-pl
 	epo	minerala	adj	eng	mineral	adj
-LR	epo	minaĵo	n	eng	mineral	n$n-ND
+LR	epo	minaĵo	n	eng	mineral	n$n-pl
 	epo	miniaturo	n	eng	miniature	n
 	epo	minimuma	adj	eng	minimal	adj
 	epo	minimumo	n	eng	minimum	n$n-ND
@@ -10611,8 +10611,8 @@ LR	epo	fotografi	vblex	eng	photograph	vblex
 	epo	fotisto	n	eng	photographer	n$n-ND
 LR	epo	fotografisto	n	eng	photographer	n$n-ND
 	epo	fotografia	adj	eng	photographic	adj
-	epo	frazo	n	eng	phrase	n$n-ND
-LR	epo	parolturno	n	eng	phrase	n$n-ND
+	epo	frazo	n	eng	phrase	n$n-pl
+LR	epo	parolturno	n	eng	phrase	n$n-pl
 	epo	fizika	adj	eng	physical	adj
 LR	epo	korpa	adj	eng	physical	adj
 	epo	fizike	adv	eng	physically	adv
@@ -10635,8 +10635,8 @@ RL	epo	peco	n	eng	piece	n$n-ND
 LR	epo	deŝiraĵo	n	eng	piece	n$n-ND
 	epo	porko	n$n-m	eng	pig	n$n-sg
 LR	epo	fandaĵo	n	eng	pig	n$n-sg
-	epo	stako	n	eng	pile	n$n-ND
-LR	epo	paliso	n	eng	pile	n$n-ND
+	epo	stako	n	eng	pile	n$n-pl
+LR	epo	paliso	n	eng	pile	n$n-pl
 	epo	pilgrimanto	n	eng	pilgrim	n
 	epo	pilolo	n	eng	pill	n
 	epo	piloto	n	eng	pilot	n$n-ND
@@ -12475,7 +12475,7 @@ LR	epo	dolorkrio	n	eng	scream	n$n-ND
 	epo	ekrano	n	eng	screen	n$n-ND
 LR	epo	kribrilo	n	eng	screen	n$n-ND
 LR	epo	kradaĵo	n	eng	screen	n$n-ND
-	epo	ŝraŭbo	n	eng	screw	n
+	epo	ŝraŭbo	n	eng	screw	n$n-pl
 	epo	skribo	n	eng	script	n$n-sg
 LR	epo	scenaro	n	eng	script	n$n-sg
 LR	epo	dialogaro	n	eng	script	n$n-sg
@@ -12947,7 +12947,7 @@ LR	epo	glitado	n	eng	skating	n
 	epo	skeleto	n$n-sg	eng	skeleton	n
 	epo	skeptika	adj	eng	skeptical	adj
 LR	epo	dubema	adj	eng	skeptical	adj
-	epo	skio	n	eng	ski	n$n-sg
+	epo	skio	n	eng	ski	n$n-pl
 	epo	skiisto	n	eng	skier	n
 LR	epo	skianto	n	eng	skier	n
 	epo	kapablo	n	eng	skill	n$n-sg
@@ -13064,7 +13064,7 @@ LR	epo	socialisto	n	eng	socialist	n$n-ND
 LR	epo	socie	adv	eng	socially	adv
 	epo	socio	n	eng	society	n$n-ND
 LR	epo	societo	n	eng	society	n$n-ND
-	epo	ŝtrumpo	n	eng	stocking	n$n-sg
+	epo	ŝtrumpo	n	eng	stocking	n$n-pl
 	epo	ŝtrumpeto	n	eng	sock	n$n-ND
 	epo	natrio	n	eng	sodium	n
 	epo	sofo	n	eng	sofa	n$n-sg
@@ -13322,7 +13322,7 @@ LR	epo	eldiro	n	eng	statement	n$n-ND
 LR	epo	deklaro	n	eng	statement	n$n-ND
 LR	epo	depozicio	n	eng	statement	n$n-ND
 LR	epo	kontresumo	n	eng	statement	n$n-ND
-	epo	ŝtatisto	n	eng	statesman	n
+	epo	ŝtatisto	n	eng	statesman	n$n-pl
 	epo	stacio	n	eng	station	n$n-sg
 LR	epo	starejo	n	eng	station	n$n-sg
 LR	epo	haltejo	n	eng	station	n$n-sg
@@ -13843,7 +13843,7 @@ LR	epo	cisterno	n	eng	tank	n$n-ND
 	epo	frapeto	n	eng	tap	n$n-pl
 LR	epo	klako	n	eng	tap	n$n-pl
 LR	epo	krano	n	eng	tap	n$n-pl
-	epo	bendo	n	eng	tape	n$n-ND
+	epo	bendo	n	eng	tape	n$n-pl
 RL	epo	tapiŝo	n	eng	tapestry	n$n-ND
 LR	epo	malŝtopi	vblex	eng	tap	vblex
 	epo	frapeti	vblex	eng	tap	vblex
@@ -15103,7 +15103,7 @@ LR	epo	ovoflavo	n	eng	yoke	n$n-sg
 	epo	junulo	n$n-f	eng	youngster	n$n-ND
 	epo	junularo	n	eng	youth	n$n-ND
 LR	epo	junaĝo	n	eng	youth	n$n-ND
-	epo	zebro	n	eng	zebra	n$n-ND
+	epo	zebro	n	eng	zebra	n
 	epo	zinko	n	eng	zinc	n$n-sg
 	epo	zono	n	eng	zone	n$n-ND
 	epo	aberacio	n	eng	aberration	n
@@ -15362,7 +15362,7 @@ LR	epo	globulo	n	eng	globule	n
 LR	epo	gluetikedo	n	eng	sticker	n
 LR	epo	gluto	n	eng	draught	n$n-pl
 LR	epo	grafiko	n	eng	chart	n$n-ND
-RL	epo	grafiko	n	eng	graphics	n$n-ND
+RL	epo	grafiko	n	eng	graphics	n$n-pl
 LR	epo	grando	n	eng	magnitude	n$n-ND
 	epo	granito	n	eng	granite	n$n-sg
 LR	epo	greno	n	eng	cereal	n$n-ND
@@ -15375,7 +15375,7 @@ LR	epo	heĝo	n	eng	fence	n$n-sg
 	epo	hematomo	n	eng	hematoma	n
 LR	epo	hemikranio	n	eng	migraine	n$n-sg
 LR	epo	heroo	n$n-m	eng	hero	n$n-sg
-LR	epo	holdingo	n	eng	holding	n
+LR	epo	holdingo	n	eng	holding	n$n-pl
 	epo	homaro	n	eng	mankind	n$n-ND
 	epo	horizontalo	n	eng	horizontal	n
 LR	epo	humido	n	eng	humidity	n$n-ND
@@ -15441,13 +15441,13 @@ LR	epo	kelnero	n$n-f	eng	waiter	n$n-ND
 LR	epo	klipo	n	eng	clip	n$n-sg
 LR	epo	kloako	n	eng	scupper	n
 	epo	kloro	n	eng	chlorine	n$n-sg
-LR	epo	kluzpordo	n	eng	gate	n$n-ND
+LR	epo	kluzpordo	n	eng	gate	n$n-pl
 	epo	knelo	n	eng	meatball	n
 LR	epo	kohereco	n	eng	cohesion	n$n-unc
 LR	epo	kolbaso	n	eng	stuffing	n$n-sg
 	epo	kolofono	n	eng	colophon	n
 RL	epo	komerco	n	eng	trading	n$n-ND
-LR	epo	komikso	n-m$n	eng	comic	n$n-ND
+LR	epo	komikso	n$n-m	eng	comic	n$n-ND
 	epo	samranga	adj	eng	fellow	adj
 LR	epo	komparacio	n	eng	comparison	n$n-ND
 RL	epo	koncerto	n	eng	concerto	n$n-ND
@@ -15626,7 +15626,7 @@ LR	epo	pilĉardo	n	eng	sardine	n
 LR	epo	plakaĵo	n	eng	plate	n$n-ND
 LR	epo	plandumo	n	eng	sole	n$n-sg
 LR	epo	planizado	n	eng	planning	n$n-ND
-LR	epo	plantado	n	eng	crop	n$n-ND
+LR	epo	plantado	n	eng	crop	n$n-pl
 LR	epo	plenmano	n	eng	bunch	n$n-ND
 LR	epo	plotono	n	eng	pilot	n$n-ND
 	epo	plurangulo	n	eng	polygon	n$n-sg
@@ -15680,7 +15680,7 @@ RL	epo	resalto	n	eng	rebound	n$n-ND
 	epo	resanigo	n	eng	curing	n
 LR	epo	resono	n	eng	resonance	n$n-sg
 LR	epo	resto	n	eng	rest	n$n-ND
-	epo	retino	n	eng	retina	n$n-ND
+	epo	retino	n	eng	retina	n$n-pl
 LR	epo	retuŝo	n	eng	retouching	n
 LR	epo	revelacio	n	eng	disclosure	n$n-ND
 RL	epo	revolvero	n	eng	revolver	n$n-ND
@@ -15786,7 +15786,7 @@ LR	epo	toksomaniulo	n	eng	addict	n$n-sg
 LR	epo	tolkovro	n	eng	awning	n
 LR	epo	tombo-ŝtono	n	eng	gravestone	n
 	epo	topiko	n	eng	commonplace	n$n-ND
-LR	epo	torto	n	eng	cake	n$n-ND
+LR	epo	torto	n	eng	cake	n$n-pl
 LR	epo	totalo	n	eng	whole	n$n-ND
 LR	epo	trafikcirklo	n	eng	roundabout	n
 RL	epo	trafo	n	eng	tarpaulin	n$n-ND
@@ -17579,9 +17579,9 @@ LR	epo	kaŭsta	adj	eng	burning	adj
 	epo	tuneli	vblex	eng	burrow	vblex
 RL	epo	stipendio	n	eng	bursary	n
 	epo	arbusto	n	eng	bush	n$n-ND
-RL	epo	negocisto	n	eng	businessman	n
-	epo	negocistino	n	eng	businesswoman	n
-LR	epo	komercistino	n	eng	businesswoman	n
+RL	epo	negocisto	n	eng	businessman	n$n-pl
+	epo	negocistino	n	eng	businesswoman	n$n-pl
+LR	epo	komercistino	n	eng	businesswoman	n$n-pl
 	epo	busto	n	eng	bust	n$n-sg
 LR	epo	ĉebrusto	n	eng	bust	n$n-sg
 	epo	interpuŝiĝo	n	eng	bustle	n$n-sg
@@ -17959,7 +17959,7 @@ RL	epo	alkroĉiĝi	vblex	eng	cling	vblex
 	epo	skorio	n	eng	clinker	n
 RL	epo	tondi	vblex	eng	clip	vblex
 LR	epo	eltondi	vblex	eng	clip	vblex
-RL	epo	tondilo	n$n-pl	eng	clipper	n
+RL	epo	tondilo	n$n-pl	eng	clipper	n$n-pl
 	epo	tondaĵo	n	eng	clipping	n
 LR	epo	eltondaĵo	n	eng	clipping	n
 LR	epo	tranĉetaĵo	n	eng	clipping	n
@@ -18007,7 +18007,7 @@ RL	epo	kruda	adj	eng	coarse	adj$adj-sint
 RL	epo	tavoleto	n	eng	coating	n$n-ND
 	epo	kobalto	n	eng	cobalt	n
 RL	epo	levi	vblex	eng	cock	vblex
-	epo	koktelo	n	eng	cocktail	n$n-sg
+	epo	koktelo	n	eng	cocktail	n$n-pl
 	epo	kakao	n	eng	cocoa	n$n-sg
 	epo	kokoso	n	eng	coconut	n
 	epo	kokono	n	eng	cocoon	n
@@ -18424,7 +18424,7 @@ LR	epo	poltrono	n	eng	coward	n
 LR	epo	gaŭĉo	n	eng	cowboy	n
 LR	epo	fuŝulo	n	eng	cowboy	n
 	epo	kojoto	n	eng	coyote	n
-	epo	krabo	n	eng	crab	n
+	epo	krabo	n	eng	crab	n$n-pl
 RL	epo	kraketi	vblex	eng	crackle	vblex
 LR	epo	krepiti	vblex	eng	crackle	vblex
 LR	epo	kraketadi	vblex	eng	crackle	vblex
@@ -18555,8 +18555,8 @@ RL	epo	kutima	adj	eng	customary	adj
 	epo	kutiklo	n	eng	cuticle	n
 RL	epo	tranĉilo	n	eng	cutter	n$n-ND
 LR	epo	kutro	n	eng	cutter	n$n-ND
-RL	epo	tranĉeo	n	eng	cutting	n
-LR	epo	stikaĵo	n	eng	cutting	n
+RL	epo	tranĉeo	n	eng	cutting	n$n-pl
+LR	epo	stikaĵo	n	eng	cutting	n$n-pl
 	epo	ciberspaco	n	eng	cyberspace	n
 LR	epo	retlando	n	eng	cyberspace	n
 	epo	bicikliri	vblex	eng	cycle	vblex
@@ -19314,8 +19314,8 @@ LR	epo	frumonate	adv	eng	early	adv
 LR	epo	frujare	adv	eng	early	adv
 LR	epo	antaŭtempe	adv	eng	early	adv
 RL	epo	destini	vblex	eng	earmark	vblex
-	epo	orelringo	n	eng	earring	n$n-sg
-LR	epo	orelpendaĵo	n	eng	earring	n$n-sg
+	epo	orelringo	n	eng	earring	n$n-pl
+LR	epo	orelpendaĵo	n	eng	earring	n$n-pl
 RL	epo	malkreski	vblex	eng	ebb	vblex
 LR	epo	reflui	vblex	eng	ebb	vblex
 	epo	verva	adj	eng	ebullient	adj
@@ -19877,7 +19877,7 @@ RL	epo	batalado	n	eng	fighting	n
 LR	epo	interbatalado	n	eng	fighting	n
 	epo	fibreto	n	eng	filament	n
 	epo	gefila	adj	eng	filial	adj
-	epo	fajlado	n	eng	filing	n
+	epo	fajlado	n	eng	filing	n$n-pl
 RL	epo	rondaĵo	n	eng	fillet	n$n-ND
 RL	epo	ŝtopaĵo	n	eng	filling	n
 LR	epo	plombo	n	eng	filling	n
@@ -21294,7 +21294,7 @@ LR	epo	eksciinta	adj	eng	known	adj
 LR	epo	ekkoninta	adj	eng	known	adj
 LR	epo	koniĝinta	adj	eng	known	adj
 LR	epo	scipovinta	adj	eng	known	adj
-	epo	fingronodo	n	eng	knuckle	n
+	epo	fingronodo	n	eng	knuckle	n$n-pl
 	epo	kriptono	n	eng	krypton	n
 LR	epo	Kurdistano	np-top	eng	Kurdistan	np-top$np-top-sg$np
 	epo	Kurdio	np-top	eng	Kurdistan	np-top$np-top-sg$np
@@ -21804,7 +21804,7 @@ LR	epo	Mikaelo	np$$np-ant	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$
 	epo	mikrobiologio	n	eng	microbiology	n$n-sg
 	epo	mikroklimato	n	eng	microclimate	n
 	epo	mikroprocesoro	n	eng	microprocessor	n
-	epo	mikrosekundo	n	eng	microsecond	n
+	epo	mikrosekundo	n	eng	microsecond	n$n-pl
 	epo	mikroondo	n	eng	microwave	n$n-sg
 RL	epo	mezo	n	eng	middle	n$n-sg
 LR	epo	mezdaŭro	n	eng	middle	n$n-sg
@@ -22143,7 +22143,7 @@ RL	epo	norda	adj	eng	northern	adj
 	epo	nordulo	n	eng	northerner	n$n-sg
 LR	epo	nordano	n	eng	northerner	n$n-sg
 RL	epo	nordokcidenta	adj	eng	northwestern	adj
-	epo	nazotruo	n	eng	nostril	n$n-sg
+	epo	nazotruo	n	eng	nostril	n$n-pl
 	epo	neprofitocela	adj	eng	not-for-profit	adj
 	epo	signaro	n	eng	notation	n
 LR	epo	simbolaro	n	eng	notation	n
@@ -22555,7 +22555,7 @@ LR	epo	piedeto	n	eng	paw	n$n-sg
 	epo	lombardi	vblex	eng	pawn	vblex
 	epo	pagota	adj	eng	payable	adj
 	epo	ĝiranto	n	eng	payer	n
-	epo	pizo	n	eng	pea	n$n-sg
+	epo	pizo	n	eng	pea	n$n-pl
 	epo	pace	adv	eng	peacefully	adv
 LR	epo	paceme	adv	eng	peacefully	adv
 	epo	interpaciganto	n	eng	peacemaker	n
@@ -23783,7 +23783,7 @@ LR	epo	Samuelo	np	eng	Samuel	np-ant$np$np-ant-m$np-ant-m-sg
 LR	epo	sanktiĝi	vblex	eng	sanctify	vblex
 RL	epo	sankcii	vblex	eng	sanction	vblex
 	epo	embargo	n	eng	sanction	n$n-ND
-	epo	rimenŝuo	n	eng	sandal	n
+	epo	rimenŝuo	n	eng	sandal	n$n-pl
 	epo	sandviĉo	n	eng	sandwich	n$n-ND
 	epo	sableca	adj	eng	sandy	adj$adj-sint
 LR	epo	sablokovrita	adj	eng	sandy	adj$adj-sint
@@ -23879,12 +23879,12 @@ LR	epo	surekranigi	vblex	eng	screen	vblex
 RL	epo	kribri	vblex	eng	screen	vblex
 LR	epo	elkribri	vblex	eng	screen	vblex
 LR	epo	ĉirkaŭkradi	vblex	eng	screen	vblex
-	epo	kribro	n	eng	screening	n$n-ND
-LR	epo	kribrado	n	eng	screening	n$n-ND
-LR	epo	elkribro	n	eng	screening	n$n-ND
-LR	epo	filtrado	n	eng	screening	n$n-ND
-LR	epo	projekciado	n	eng	screening	n$n-ND
-LR	epo	surekranigo	n	eng	screening	n$n-ND
+	epo	kribro	n	eng	screening	n$n-pl
+LR	epo	kribrado	n	eng	screening	n$n-pl
+LR	epo	elkribro	n	eng	screening	n$n-pl
+LR	epo	filtrado	n	eng	screening	n$n-pl
+LR	epo	projekciado	n	eng	screening	n$n-pl
+LR	epo	surekranigo	n	eng	screening	n$n-pl
 	epo	ekranfono	n	eng	screensaver	n
 LR	epo	ekrankurteno	n	eng	screensaver	n
 	epo	ekranfoto	n	eng	screenshot	n
@@ -25908,27 +25908,27 @@ LR	epo	bestoĝardeno	n	eng	zoo	n$n-sg
 RL	epo	Jesuo	np-ant$np	eng	Jesús	np-ant$np$np-ant-m-sg
 	epo	Petro	np-ant	eng	Pedro	np-ant$np-ant-m-sg$np$np-ant-m
 	epo	Vaŝingtono	np-ant	eng	Washington	np-ant$np-ant-m-sg$np-ant-m
-	epo	Sokrato	np-ant$$np$np-ant-m	eng	Socrates	np-ant$np$np-ant-m$np-ant-m-sg$
-	epo	Platono	$np-ant$np$np-ant-m	eng	Plato	np-ant$np-ant-m$np$np-ant-m-sg$
-RL	epo	Platono	$np-ant$np$np-ant-m	eng	Platon	np-ant-m-sg$
+	epo	Sokrato	n$	eng	Socrates	np-ant$np$np-ant-m$np-ant-m-sg$
+	epo	Platono	n$	eng	Plato	np-ant$np-ant-m$np$np-ant-m-sg$
+RL	epo	Platono	n$	eng	Platon	np-ant-m-sg$
 	epo	Aristotelo	n$	eng	Aristotle	np$np-ant$np-ant-m$np-ant-m-sg$
 	epo	Aleksandro	n$	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$
 	epo	Eŭgeno	n$	eng	Eugene	np-ant$np$np-ant-m-sg$$np-ant-m
 	epo	Jakobo	n$	eng	Jacob	np-ant$np$np-ant-m$np-ant-m-sg$
-	epo	Kristoforo	np-ant$$np	eng	Christopher	np-ant$np$np-ant-m$np-ant-m-sg$
+	epo	Kristoforo	n$	eng	Christopher	np-ant$np$np-ant-m$np-ant-m-sg$
 	epo	Johano	n$	eng	Johan	np-ant$np-ant-m-sg$np$$np-ant-m
 	epo	Georgo	n$	eng	George	np-ant$np$np-ant-m$np-ant-m-sg$
 	epo	Gerardo	np-ant$	eng	Gerard	np-ant$np$np-ant-m$np-ant-m-sg$
 	epo	Jozefo	n$	eng	Josef	np-ant$np-ant-m-sg$$np
 	epo	Ĵeromo	$np$np-ant	eng	Jerome	np-ant$np-ant-m-sg$$np$np-ant-m
 	epo	Klaŭdo	$np$np-ant	eng	Claude	np-ant$np-ant-m$np-ant-m-sg$np$
-	epo	Ksavero	$np$np-ant	eng	Xavier	np-ant$np$np-ant-m-sg$
-	epo	Laŭrenco	np$np-ant$	eng	Lawrence	np-ant$np$$np-ant-m$np-ant-m-sg
+	epo	Ksavero	$n	eng	Xavier	np-ant$np$np-ant-m-sg$
+	epo	Laŭrenco	n$	eng	Lawrence	np-ant$np$$np-ant-m$np-ant-m-sg
 	epo	Ludoviko	np-ant$$np	eng	Ludovic	np-ant-m$
-	epo	Mahometo	np$$np-ant	eng	Muhammad	np-ant$np$np-ant-m$$np-ant-m-sg
+	epo	Mahometo	n$	eng	Muhammad	np-ant$np$np-ant-m$$np-ant-m-sg
 	epo	Marteno	np$np-ant$	eng	Martin	np-ant$np$np-ant-m$np-ant-m-sg$
 	epo	Mikaelo	np$$np-ant	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$
-	epo	Nikolao	np-ant$$np	eng	Nicholas	np-ant$np-ant-m$np$np-ant-m-sg$
+	epo	Nikolao	n$	eng	Nicholas	np-ant$np-ant-m$np$np-ant-m-sg$
 	epo	Vilhelmo	n$	eng	Wilhelm	np-ant$np-ant-m-sg$$np
 	epo	Merkuro	np$np-loc$	eng	Mercury	n$
 	epo	Izabela	$np$np-ant	eng	Izabella	np-ant$$np$np-ant-f-sg

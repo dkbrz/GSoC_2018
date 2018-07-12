@@ -651,7 +651,7 @@ LR	ron	catastrofic	adj$$adj-m	cat	catastròfic	adj$
 	ron	cerebral	adj-mf$$adj	cat	cerebral	adj$adj-mf$
 	ron	ceremonios	$adj	cat	cerimoniós	adj$
 	ron	ceresc	$adj-GD	cat	celestial	adj$adj-mf$
-	ron	certăreț	n$	cat	baralladís	$n
+	ron	certăreț	$n$n-f-sg	cat	baralladís	
 	ron	certat	$adj	cat	renyit	
 	ron	cert	$adj	cat	cert	adj$
 	ron	cert	$adj	cat	precís	adj$
@@ -1047,7 +1047,7 @@ LR	ron	descurajator	$adj	cat	descoratjador
 	ron	despletit	$adj	cat	destrenat	
 	ron	desprins	$adj	cat	desenganxat	
 	ron	despuiat		cat	despullat	adj$$adj-sup
-	ron	destabilizator	$adj	cat	desestabilitzador	
+	ron	destabilizator	$adj	cat	desestabilitzador	$adj
 	ron	deștept	adj$	cat	llest	adj$
 	ron	destinatar	n$	cat	destinatari	n$n-GD$
 	ron	destinat	$adj	cat	destinat	$adj
@@ -2133,7 +2133,7 @@ LR	ron	întâi		cat	primer	adj$adj-ord$$adj-ord-GD-ND
 	ron	interinstituțional	$adj-GD	cat	interinstitucional	$adj
 	ron	interiorizat	$adj	cat	interioritzat	
 	ron	interior	n$n-nt$	cat	interior	n-m$n$
-	ron	interjudețean	adj-m$$adj	cat	intercomarcal	
+	ron	interjudețean	adj-m$$adj	cat	intercomarcal	$adj
 	ron	intermediar	n$$n-GD	cat	intermediari	adj$
 	ron	interminabil	$adj$adj-GD	cat	interminable	adj$adj-mf$
 	ron	interministerial	$adj-GD	cat	interministerial	adj$$adj-mf
@@ -5048,7 +5048,7 @@ LR	ron	rămas bun	ij	cat	adéu	ij
 RL	ron	GPS	n-nt$n-nt-ND	cat	GPS	n-acr-m-sp$n$n-acr$n-acr-m
 LR	ron	GPS	n-nt-sg	cat	GPS	n-acr-m-sp$n$n-acr$n-acr-m
 LR	ron	GPS	n-nt-pl	cat	GPS	n-acr-m-sp$n$n-acr$n-acr-m
-	ron	ONU	n-acr$n$n-acr-m	cat	ONU	n-acr-f$n$n-acr$n-acr-f-sg
+	ron	ONU	n-acr-m$n$n-acr	cat	ONU	n-acr-f$n$n-acr$n-acr-f-sg
 	ron	PRO	n-acr	cat	PRO	n-acr
 	ron	TVA	n-acr-nt-sg$n-acr	cat	IVA	n-acr-m$n$n-acr-m-sg
 LR	ron	TVA	n-acr-nt-pl	cat	IVA	n-acr-m$n$n-acr-m-sg
@@ -6139,8 +6139,8 @@ LR	ron	ax	n$n-nt	cat	eix	n-m$n
 	ron	azil	n-nt$n	cat	asil	n-m$n
 	ron	azimut	n-nt	cat	azimut	n-m$n
 LR	ron	azot	n$n-nt	cat	nitrogen	n-m$n
-	ron	babă	n-f$n	cat	vella	n-f
-	ron	babă	n-f$n	cat	jai	n$n-f
+	ron	babă	n-f$n	cat	vell	n$n-f$n-f-pl
+RL	ron	babă	n-f$n	cat	jai	n$n-f
 	ron	babilonie	n$n-f	cat	babel	n-f
 	ron	babord	n-nt	cat	babord	n-m$n
 	ron	babor	n-nt$n	cat	babord	n-m$n
@@ -6189,7 +6189,7 @@ LR	ron	balans	n$n-nt	cat	balanç	n-m$n
 	ron	bâlbâială	n-f	cat	balboteig	n-m$n
 	ron	bâlbâială	n-f	cat	quequeig	n-m$n
 	ron	bâlbâială	n-f	cat	balbuceig	n-m
-	ron	bâlbâială	n-f	cat	tartamudeig	n-m
+RL	ron	bâlbâială	n-f	cat	tartamudeig	n-m
 	ron	bâlbâit	n	cat	tartamut	n$n-m
 	ron	bâlci	n-nt$n	cat	fira	n$n-f
 	ron	balcon	n$n-nt	cat	balcó	n-m$n
@@ -6297,7 +6297,7 @@ LR	ron	basm	n$n-nt	cat	conte	n-m$n
 	ron	basorelief	n-nt	cat	baix relleu	n-m$n
 	ron	bas	n	cat	baix	n-m$n
 	ron	bastard	n	cat	bastard	n$n-m
-	ron	bastarn	n	cat	bastarn	n
+	ron	bastarn	n$n-m	cat	bastarn	n-mf
 LR	ron	băștinaș	n-f	cat	indígena	n-mf$n
 RL	ron	băștinaș	n-GD	cat	indígena	n-mf$n
 LR	ron	băștinaș	n-m$n	cat	indígena	n-mf$n
@@ -6441,7 +6441,7 @@ LR	ron	bifurcare	n$n-f	cat	bifurcació	n-f$n
 RL	ron	bioxid	n	cat	biòxid	n
 	ron	bioxid	n	cat	diòxid	n-m$n
 	ron	bipartidism	n-nt$n	cat	bipartidisme	n-m$n$n-m-sg
-	ron	bipolaritate	n$n-f	cat	bipolaritat	n-f
+	ron	bipolaritate	n$n-f	cat	bipolaritat	n$n-f
 	ron	bipolarizare	n$n-f	cat	bipolarització	n-f$n
 	ron	birocrație	n$n-f	cat	burocràcia	n-f$n
 	ron	birocratizare	n$n-f	cat	burocratització	n-f$n
@@ -6460,7 +6460,7 @@ LR	ron	biruință	n$n-f	cat	triomf	n$n-m
 	ron	biserică	n$n-f	cat	esglèsia	n$n-f
 	ron	bismut	n-nt$n	cat	bismut	n-m$n
 LR	ron	bismut	n-nt$n	cat	quitrà	n-m$n
-LR	ron	bișnițar	n	cat	trafica	n
+LR	ron	bișnițar	n$n-m	cat	trafica	n-mf
 	ron	bișniță	n-f	cat	tripijoc	n$n-m
 	ron	bisturiu	n-nt	cat	bisturí	n-m$n
 	ron	biter	n-nt	cat	bíter	n-m
@@ -6477,8 +6477,8 @@ LR	ron	blagoslovire	n$n-f	cat	benedicció	n-f$n
 LR	ron	blamare	n$n-f	cat	reprovació	n-f$n
 LR	ron	blam	n$n-nt	cat	censura	n-f$n
 	ron	blănărie	n	cat	pelleteria	n$n-f
-	ron	blănar	n	cat	pellaire	n-mf$n
-	ron	blănar	n	cat	pelleter	n$n-GD
+	ron	blănar	n$n-m	cat	pellaire	n-mf
+	ron	blănar	n$n-m	cat	pelleter	n$n-GD
 LR	ron	blană	n-f$n	cat	pell	n-f$n
 LR	ron	blândețe	n$n-f	cat	tendresa	n-f$n
 	ron	blasfemie	n	cat	blasfèmia	n$n-f
@@ -6488,9 +6488,11 @@ LR	ron	blazare	n-f$n	cat	avorriment	n$n-m
 RL	ron	blefarită	n$n-f-ND	cat	blefaritis	n-f-sp
 LR	ron	blefarită	n-f-pl	cat	blefaritis	n-f-sp
 LR	ron	blefarită	n-f-sg	cat	blefaritis	n-f-sp
-LR	ron	bleg	n-f	cat	sòmines	n-mf
-RL	ron	bleg	n-GD	cat	sòmines	n-mf
-LR	ron	bleg	n-m	cat	sòmines	n-mf
+LR	ron	bleg	n-f$n-f-sg	cat	sòmines	n-mf-sp
+LR	ron	bleg	n-f-pl	cat	sòmines	n-mf-sp
+RL	ron	bleg	n-GD$n-GD-ND	cat	sòmines	n-mf-sp
+LR	ron	bleg	n-m$n-m-sg	cat	sòmines	n-mf-sp
+LR	ron	bleg	n-m-pl	cat	sòmines	n-mf-sp
 	ron	blenoragie	n	cat	blennorràgia	n
 	ron	blestemăție	n$n-f	cat	canallada	n-f
 	ron	blestem	n-nt$n	cat	maledicció	n-f$n
@@ -6508,7 +6510,7 @@ RL	ron	blestem	n-nt$n	cat	malefici	n-m$n
 	ron	blogger	n-m$n	cat	bloguer	n$n-GD
 	ron	blog	n$n-m	cat	blog	n-m$n$n-m-sg
 	ron	bluf	n-nt	cat	bluf	n-m$n-m-sg
-	ron	blugi	n	cat	vaquers	n
+	ron	blugi	n$n-nt	cat	texans	n-m-pl$n-m
 	ron	bluză	n$n-f	cat	brusa	n-f$n
 	ron	bluzon	n-nt	cat	brusa	n-f$n
 	ron	boabă	n-f$n	cat	gra	n-m$n$n-m-sg
@@ -6543,13 +6545,13 @@ LR	ron	bodiguard	n-m-sg	cat	guardaespatlles	n-mf-sp$n$n-mf
 RL	ron	bodyguard	n-m-ND	cat	guardaespatlles	n-mf-sp$n$n-mf
 LR	ron	bodyguard	n-m-pl	cat	guardaespatlles	n-mf-sp$n$n-mf
 LR	ron	bodyguard	n-m-sg	cat	guardaespatlles	n-mf-sp$n$n-mf
-	ron	boemie	n	cat	bohèmia	n
+	ron	Boemie	np-top	cat	Bohèmia	np-top$np-top-f-sg
 	ron	boem	n$	cat	bohemi	n
 	ron	bogăție	n$n-f	cat	riquesa	n-f$n
 	ron	boia	n-f$n	cat	pebre roig	n
 	ron	boia	n-f$n	cat	pebre vermell	n-m
 	ron	boicot	n-nt$n	cat	boicot	n-m$n
-	ron	boierie	n$n-f	cat	senyoriu	n-m$n
+	ron	boierie	n-f	cat	senyoriu	n-m$n
 LR	ron	boierime	n$n-f	cat	aristocràcia	n-f$n
 LR	ron	boier	n-f	cat	boiar	n-mf
 RL	ron	boier	n-GD	cat	boiar	n-mf
@@ -6631,8 +6633,7 @@ LR	ron	branșă	n-f	cat	ram	n-m$n
 	ron	bravadă	n$n-f	cat	bravata	n-f
 	ron	bravură	n-f$n	cat	bravesa	n-f$n
 	ron	bravură	n-f$n	cat	bravura	n$n-f
-	ron	brazdă de flori	n-f$n	cat	platabanda	n$n-f
-LR	ron	brazdă de flori	n-f$n	cat	arriata	n-m
+	ron	brazdă de flori	n-f	cat	platabanda	n-f$n
 	ron	brazdă	n-f	cat	solc	n-m$n
 	ron	brazilian	n	cat	brasiler	n$n-m
 	ron	breaslă	n-f	cat	gremi	n-m$n
@@ -6642,8 +6643,7 @@ LR	ron	brazdă de flori	n-f$n	cat	arriata	n-m
 LR	ron	brevet	n-nt$n	cat	patent	n-f$$n
 	ron	briceag	n-nt	cat	navalla	n-f$n
 	ron	brichetă	n-f	cat	encenedor	n-m$n
-	ron	briefing	n-nt$n	cat	brífing	n
-	ron	briefing	n-nt$n	cat	briefing	n-m
+	ron	briefing	n-nt	cat	brífing	n$n-m
 	ron	brigadă	n$n-f	cat	brigada	n-f$n
 	ron	briză	n$n-f	cat	brisa	n-f$n
 	ron	broască	n$n-f	cat	granota	n-f$n
@@ -6652,7 +6652,7 @@ LR	ron	brevet	n-nt$n	cat	patent	n-f$$n
 	ron	bronhie	n-f$n	cat	bronqui	n-m$n
 	ron	bronhopneumonie	n	cat	broncopneumònia	n
 	ron	bronhoscopie	n	cat	broncoscòpia	n$n-f
-	ron	bronhospasm	n-nt	cat	bronceospasme	n-m
+	ron	bronhospasm	n-nt	cat	broncospasme	n-m
 RL	ron	bronșită	n$n-f-ND	cat	bronquitis	n-f-sp$n-f$n
 LR	ron	bronșită	n-f-pl	cat	bronquitis	n-f-sp$n-f$n
 LR	ron	bronșită	n-f-sg	cat	bronquitis	n-f-sp$n-f$n
@@ -6822,9 +6822,11 @@ LR	ron	caldarâm	n-nt	cat	empedrat	n-m$n$n-m-ND
 	ron	calendar	n$n-nt	cat	calendari	n-m$n
 	ron	cale	n$n-f	cat	via	n-f$n
 	ron	calibru	n-nt$n	cat	calibre	n-m$n
-LR	ron	calic	n-f	cat	pelacanyes	n-mf
-RL	ron	calic	n-GD	cat	pelacanyes	n-mf
-LR	ron	calic	n-m	cat	pelacanyes	n-mf
+LR	ron	calic	n-f$n-f-sg	cat	pelacanyes	n-mf-sp
+LR	ron	calic	n-f-pl	cat	pelacanyes	n-mf-sp
+RL	ron	calic	n-GD$n-GD-ND	cat	pelacanyes	n-mf-sp
+LR	ron	calic	n-m$n-m-sg	cat	pelacanyes	n-mf-sp
+LR	ron	calic	n-m-pl	cat	pelacanyes	n-mf-sp
 	ron	calificare	n$n-f	cat	qualificació	n-f$n
 	ron	calificativ	n-nt	cat	qualificatiu	n-m
 	ron	calif	n	cat	califa	n-m$n
@@ -6881,7 +6883,7 @@ RL	ron	canabis	n-nt$n-nt-ND	cat	cànnabis	n-m-sp$n$n-m
 LR	ron	canabis	n-nt-pl	cat	cànnabis	n-m-sp$n$n-m
 LR	ron	canabis	n-nt-sg	cat	cànnabis	n-m-sp$n$n-m
 	ron	canal de scurgere	n-nt	cat	claveguera	n-f$n
-	ron	canalie	n-f	cat	canalla	n-f$n-f-sg$n
+	ron	canalie	n-f	cat	canalla	n-mf
 	ron	canalizare	n$n-f	cat	canalització	n-f$n
 	ron	canal	n$n-nt	cat	canal	n$n-m
 	ron	canapea	n-f$n	cat	canapè	n-m$n$n-m-sg
@@ -6902,7 +6904,8 @@ LR	ron	canabis	n-nt-sg	cat	cànnabis	n-m-sp$n$n-m
 	ron	cangrenă	n$n-f	cat	gangrena	n-f$n
 	ron	cangur	n$n-m	cat	cangur	n-mf$n
 	ron	canibalism	n-nt$n	cat	canibalisme	n-m$n$n-m-sg
-	ron	canibal	n	cat	caníbal	n$n-mf
+RL	ron	canibal	n-m$n	cat	caníbal	n-mf$n
+	ron	canibal	n-m$n	cat	antropòfag	n$n-mf
 	ron	caniculă	n$n-f	cat	canícula	n-f$n
 	ron	canoe	n	cat	canoa	n-f$n
 	ron	canonizare	n-f	cat	canonització	n-f$n
@@ -6954,7 +6957,8 @@ LR	ron	capitalist	n-m$	cat	capitalista	n-mf$n$
 	ron	căprioară	n$n-f	cat	cérvola	n-f
 	ron	capsă	n-f$n	cat	fermall	n-m$n
 	ron	cap	n$n-nt	cat	cap	n-m$n$n-m-pl
-	ron	capsoman	n	cat	testard	n
+RL	ron	capsoman	n	cat	testard	n
+	ron	capsoman	n	cat	porfidiós	n
 	ron	capsulă	n$n-f	cat	càpsula	n-f$n
 	ron	căpșună	n$n-f	cat	maduixa	n-f$n
 	ron	captare	n$n-f	cat	captació	n-f$n
@@ -6963,7 +6967,7 @@ LR	ron	capitalist	n-m$	cat	capitalista	n-mf$n$
 	ron	captură	n$n-f	cat	captura	n-f$n
 	ron	căptușeală	n-f	cat	folre	n-m$n
 	ron	căpușă	n$n-f	cat	paparra	n-f$n
-	ron	carabină	n-f$n	cat	carabina	n$n-f
+RL	ron	carabină	n-f$n	cat	carabina	n$n-f
 	ron	carabină	n-f$n	cat	carrabina	n-f
 	ron	carabinier	n	cat	carabiner	n
 	ron	cărăbuș	n	cat	abellot	n$n-m
@@ -7016,7 +7020,9 @@ LR	ron	cârciumă	n$n-f	cat	taverna	n-f$n
 	ron	caricatură	n$n-f	cat	caricatura	n-f$n
 	ron	carieră	n$n-f	cat	carrera	n-f$n
 	ron	carieră	n$n-f	cat	cursa	n-f$n
-	ron	carie	n	cat	càries	n-f$n-f-sp$n
+LR	ron	carie	n$n-f-sg	cat	càries	n-f-sp$n-f$n
+RL	ron	carie	n-f-ND	cat	càries	n-f-sp$n-f$n
+LR	ron	carie	n-f-pl	cat	càries	n-f-sp$n-f$n
 	ron	caritate	n$n-f	cat	caritat	n-f$n
 	ron	cârjă	n$n-f	cat	crossa	n-f$n
 	ron	cârlig	n$n-nt	cat	ganxo	n-m$n
@@ -7028,7 +7034,8 @@ LR	ron	cârciumă	n$n-f	cat	taverna	n-f$n
 	ron	caroserie	n	cat	carrosseria	n-f$n
 	ron	cârpaci	n	cat	sapastre	n
 	ron	cârpă	n-f$n	cat	drap	n-m$n
-	ron	carpen	n	cat	carpí	n
+	ron	carpen	n$n-m	cat	carpí	n-m
+LR	ron	carpen	n-f	cat	carpí	n-m
 	ron	cartă a Drepturilor Fundamentale	n	cat	carta dels Drets Fonamentals	n
 	ron	cartaginez	n$	cat	cartaginès	n
 	ron	carte de vizită	n$n-f	cat	targeta	n-f$n
@@ -7089,7 +7096,7 @@ LR	ron	casierie	n	cat	caixa	n-f$n
 	ron	catabolism	n-nt	cat	catabolisme	n-m$n$n-m-sg
 	ron	cataclism	n-nt	cat	cataclisme	n-m$n
 	ron	catacombă	n$n-f	cat	catacumba	n-f$n
-	ron	catafalc	n-nt	cat	catafalc	n-m
+	ron	catafalc	n-nt	cat	cadafal	n-m
 	ron	catalan	n$	cat	català	n$n-m
 	ron	catalepsie	n	cat	catalèpsia	n$n-f
 	ron	cataliză	n$n-f	cat	catàlisi	n-f$n-f-ND
@@ -7217,7 +7224,11 @@ RL	ron	cerșetor	n-GD	cat	mendicant	n-mf
 LR	ron	cerșetor	n-m	cat	mendicant	n-mf
 	ron	cerșit	n-nt$n	cat	mendicitat	n-f$n
 	ron	cer	n-nt$n	cat	cel	n$n-m
-	ron	certăreț	n$	cat	baralladís	$n
+LR	ron	certăreț	$n$n-f-sg	cat	cerca-raons	n-mf-sp
+LR	ron	certăreț	n-f-pl	cat	cerca-raons	n-mf-sp
+RL	ron	certăreț	n-GD-ND	cat	cerca-raons	n-mf-sp
+LR	ron	certăreț	n-m-sg	cat	cerca-raons	n-mf-sp
+LR	ron	certăreț	n-m-pl	cat	cerca-raons	n-mf-sp
 	ron	certificare	n-f	cat	certificació	n-f$n
 	ron	certificat	n$n-nt	cat	certificat	n-m$n
 	ron	certitudine	n$n-f	cat	certesa	n-f$n
@@ -7231,19 +7242,19 @@ LR	ron	cerșetor	n-m	cat	mendicant	n-mf
 	ron	cetățenie	n	cat	ciutadania	n-f$n
 LR	ron	cetate	n$n-f	cat	fortalesa	n-f$n
 LR	ron	cetățuie	n$n-f	cat	fortalesa	n-f$n
-LR	ron	cetină de brad	n-f$n-f-pl	cat	ram d'avet	n-m
-	ron	cetină	n-f$n-f-pl	cat	ram d'avet	n-m
+LR	ron	cetină de brad	n-f$n-f-pl	cat	ram	n-m$n
+	ron	cetină	n-f$n-f-pl	cat	ram	n-m$n
 RL	ron	cetiniș	n-nt	cat	avetosa	n-f
 	ron	cetiniș	n-nt	cat	avetar	n-m
 	ron	cezariană	n$n-f	cat	cesària	n$n-f
 	ron	charter	n-nt	cat	xàrter	n$n-m
 	ron	chat	n-nt	cat	xat	n-m$n$n-m-sg
-	ron	cheag	n$n-nt	cat	quall	n$n-m
-	ron	cheag	n$n-nt	cat	quallo	n-m
+	ron	cheag	n-nt$n	cat	quall	n$n-m
 	ron	chebap	n-nt	cat	kebab	n$n-m
 	ron	chefir	n$n-nt	cat	quefir	n$n-m$n-m-sg
 	ron	chef	n-nt$n	cat	tabola	n-f$n
-	ron	cheie de boltă	n$n-f	cat	pedra angular	n-f
+	ron	cheie de boltă	n-f$n	cat	pedra angular	n-f
+	ron	cheie de boltă	n-f$n	cat	clau	n-f$n
 	ron	cheie	n	cat	clau	n-f$n
 	ron	chei	n-nt$n	cat	molla	n-f$n
 	ron	chei	n-nt$n	cat	moll	n-m$n$
@@ -7359,7 +7370,6 @@ LR	ron	ciomag	n-nt	cat	garrot	n-m$n
 	ron	ciorchine	n	cat	penjoll	n-m$n
 	ron	ciorchine	n	cat	ram	n-m$n
 	ron	ciornă	n-f$n	cat	esborrany	n-m$n
-	ron	ciornă	n-f$n	cat	esborrador	n-m
 	ron	ciot	n$n-nt	cat	monyó	n-m
 	ron	cip	n-nt	cat	xip	n-m$n$n-m-sg
 	ron	circ	n$n-nt	cat	circ	n-m$n
@@ -7533,7 +7543,7 @@ LR	ron	colivie	n	cat	gàbia	n-f$n
 LR	ron	colonel	n-f	cat	coronel	n-mf$n
 RL	ron	colonel	n-GD	cat	coronel	n-mf$n
 LR	ron	colonel	n-m	cat	coronel	n-mf$n
-	ron	colonetă	n$n-f	cat	columnita	n-f
+	ron	colonetă	n$n-f	cat	columneta	n-f
 	ron	colonialism	n-nt$n	cat	colonialisme	n-m$n
 	ron	colonie	n	cat	colònia	n$n-f
 	ron	colonist	n$n-m	cat	colon	n$n-m
@@ -7891,7 +7901,7 @@ LR	ron	copac	n$n-m	cat	arbre	n$n-m
 	ron	copertă	n$n-f	cat	portada	n-f$n
 	ron	copie	n	cat	còpia	n$n-f
 	ron	copilărie	n$n-f	cat	infància	n-f$n
-	ron	copil	n$n-m	cat	canalla	n-f$n-f-sg$n
+	ron	copil	n$n-m	cat	canalla	n-f-sg$n$n-f
 	ron	copil	n$n-m	cat	infant	n-m$n
 	ron	copil	n$n-m	cat	nen	n-m$n$n-m-sg
 RL	ron	copil	n$n-m	cat	xiquet	n$n-m
@@ -11290,7 +11300,7 @@ LR	ron	licean	n-m	cat	col·legial	n-mf
 	ron	licență	n$n-f	cat	llicència	n-f$n
 	ron	licențiat	n$	cat	llicenciat	n$n-m$
 LR	ron	liceu	n$n-nt	cat	institut	n-m$n
-LR	ron	lichea	n	cat	canalla	n-f$n-f-sg$n
+LR	ron	lichea	n	cat	canalla	n-f-sg$n$n-f
 	ron	lichefiere	n$n-f	cat	liquació	n-f$n
 RL	ron	lichelism	n-nt	cat	cabronada	n-f
 	ron	lichelism	n-nt	cat	jugada	n-f$n
@@ -14157,7 +14167,7 @@ LR	ron	raționament	n$n-nt	cat	raonament	n-m$n
 	ron	răzbunare	n$n-f	cat	venjança	n-f$n
 	ron	razie	n	cat	ràtzia	n$n-f
 	ron	răzmeriță	n-f	cat	motí	n-m$n
-	ron	răzor	n-nt	cat	platabanda	n$n-f
+	ron	răzor	n-nt	cat	platabanda	n-f$n
 	ron	reabilitare	n$n-f	cat	rehabilitació	n-f$n
 	ron	reacție	n$n-f	cat	reacció	n-f$n
 	ron	reacționar	n$$n-GD	cat	reaccionari	n$n-m

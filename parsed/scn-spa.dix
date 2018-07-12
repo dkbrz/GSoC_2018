@@ -151,7 +151,7 @@ LR	scn	nuddu	prn-tn-m-sg	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn
 LR	scn	nuddu	prn-tn-f-sg	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn
 RL	scn	nuddu	prn-tn-m-sg	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn
 	scn	chi	prn-itg	spa	qué	prn$prn-itg$prn-itg-mf-sg$prn-itg-mf
-	scn	cui	prn-itg	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg
+	scn	cui	prn-itg	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg
 	scn	tutti e dui	prn-tn-mf	spa	ambos	prn$prn-tn$prn-tn-m$prn-tn-m-pl
 	scn	tutti e dui	prn-tn-mf	spa	ambas	prn$prn-tn-f$prn-tn
 	scn	miu	adj-pos-m-sg	spa	mío	adj-pos$adj$adj-pos-m-sg$adj-pos-m
@@ -176,7 +176,7 @@ RL	scn	so	adj-pos-mf	spa	suyo	adj-pos-f
 	scn	chiddu chi	rel-an-nt	spa	lo que	rel-an-nt$rel$rel-an
 	scn	lu	det-def$det-def-mf-pl	spa	el	det-def$det-def-GD$det$det-def-GD-ND
 LR	scn	lu	det-def-mf-sp	spa	el	det-def$det-def-GD$det$det-def-GD-ND
-	scn	un	det-ind-m-sg	spa	uno	det-ind-m-sg$det$det-ind$det-ind-m
+	scn	un	det-ind-m-sg	spa	uno	det-ind$det-ind-m-sg$det$det-ind-m
 	scn	un	det-ind-f-sg	spa	uno	det-ind-f-sg
 LR	scn	un	det-ind-mf-sg	spa	uno	det-ind-GD-sg
 RL	scn	arcunu	det-ind$det-ind-m-pl	spa	uno	det-ind-m-pl
@@ -195,9 +195,9 @@ LR	scn	so	det-pos-mf-sp	spa	suyo	det-pos-mf$det-pos-mf-ND$det$det-pos
 LR	scn	nuddu	det-ind$det-ind-mf-sp	spa	ninguno	det-ind-GD-ND
 	scn	nuddu	det-ind$det-ind-mf-sp	spa	ninguno	det-ind$det-ind-GD-sg$det-ind-GD$det
 	scn	ogni	det-ind	spa	cada	det$det-ind$det-ind-mf$det-ind-mf-sg
-LR	scn	ognidunu	det-ind$det-ind-GD-ND	spa	cada	det-ind-mf-sp
-	scn	quarchi	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
-	scn	arcunu	det-ind$det-ind-m-pl	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+LR	scn	ognidunu	det-ind$det-ind-GD-ND	spa	cada	det-ind-mf-sp$det-mf
+	scn	quarchi	det-ind	spa	alguno	det-ind$det$det-ind-m-pl$det-ind-m
+	scn	arcunu	det-ind$det-ind-m-pl	spa	alguno	det-ind$det$det-ind-m-pl$det-ind-m
 	scn	qualunqui	det-ind	spa	cualquier	det-ind-mf$det-ind-mf-ND$det-ind$det
 LR	scn	quarchidunu	det-ind	spa	cualquier	det-ind-mf$det-ind-mf-ND$det-ind$det
 LR	scn	quarcunu	det-ind	spa	cualquier	det-ind-mf$det-ind-mf-ND$det-ind$det
@@ -211,14 +211,14 @@ LR	scn	chiddu	det-dem$det-dem-mf-sp	spa	aquel	det$det-dem-GD$det-dem$det-dem-GD-
 	scn	dui	num	spa	dos	num$num-mf$num-mf-sp$
 	scn	sei	num	spa	seis	num$num-mf-sp$
 	scn	unu	num-mf	spa	uno	num$num-m-sp$num-m
-	scn	tri	num	spa	tres	num$$num-mf-sp
+	scn	tri	num	spa	tres	num$num-mf-sp$
 	scn	quattru	num	spa	cuatro	num$$num-mf-sp
 	scn	cincu	num	spa	cinco	num$num-mf-sp$
 	scn	sei	num	spa	seis	num$num-mf-sp$
 	scn	setti	num	spa	siete	num$$num-mf-sp
 	scn	ottu	num	spa	ocho	num$$num-mf-sp
 	scn	novi	num	spa	nueve	num$$num-mf-sp
-	scn	deci	num	spa	diez	num$num-mf$$num-mf-sp
+	scn	deci	num	spa	diez	num$num-mf$num-mf-sp$
 	scn	ùnnici	num	spa	once	num$$num-mf$num-mf-sp
 	scn	dùdici	num	spa	doce	num$num-mf-pl$$num-mf
 	scn	trìdici	num	spa	trece	num$$num-mf$num-mf-sp
@@ -584,7 +584,7 @@ RL	scn	vucceri	n-mf-sp	spa	carnicero	n-m-pl
 RL	scn	vucceri	n-mf-sp	spa	carnicero	n$n-f$n-f-sg
 RL	scn	vucceri	n-mf-sp	spa	carnicero	n-f-pl
 LR	scn	vucceri	n-mf-sp	spa	carnicero	n-GD-ND
-RL	scn	agriculturi	n-mf-sp	spa	agricultor	n$n-m-sg$n-m
+RL	scn	agriculturi	n-mf-sp	spa	agricultor	n$n-m$n-m-sg
 RL	scn	agriculturi	n-mf-sp	spa	agricultor	n-m-pl
 RL	scn	agriculturi	n-mf-sp	spa	agricultor	n-f-sg
 RL	scn	agriculturi	n-mf-sp	spa	agricultor	n-f-pl
@@ -766,7 +766,7 @@ LR	scn	pridicaturi	n-mf	spa	predicador	n$n-GD$n-GD-pl
 	scn	carusu	n-f	spa	chico	n-f$n-f-ND
 	scn	carusu	n-m	spa	niño	n$n-m$n-m-sg
 	scn	carusu	n-f	spa	niño	n-f$n-f-sg
-	scn	castigghianu	n-m	spa	castellano	n$n-m-ND$n-m
+	scn	castigghianu	n-m	spa	castellano	n$n-m$n-m-ND
 	scn	castigghianu	n-f	spa	castellano	n-f
 	scn	catàvaru	n-m	spa	difunto	n$n-m$n-m-ND
 	scn	catàvaru	n-f	spa	difunto	n-f
@@ -832,7 +832,7 @@ LR	scn	pridicaturi	n-mf	spa	predicador	n$n-GD$n-GD-pl
 	scn	jamiddu	n-f	spa	camello	n-f
 	scn	kazaku	n-m	spa	kazajo	n$n-m
 	scn	kazaku	n-f	spa	kazajo	n-f
-	scn	latru	n-m	spa	ladrón	n-m$n$n-m-sg
+	scn	latru	n-m	spa	ladrón	n$n-m$n-m-sg
 	scn	latru	n-f	spa	ladrón	n-f$n-f-pl
 	scn	littiratu	n-m	spa	literato	n$n-m
 	scn	littiratu	n-f	spa	literato	n-f
@@ -1073,7 +1073,7 @@ LR	scn	giùvini	n-mf-sp	spa	joven	n-mf-ND
 	scn	idrògginu	n-m	spa	hidrógeno	n$n-m$n-m-sg
 	scn	gradu	n-m	spa	grado	n-m$n$n-m-sg
 	scn	pruggettu	n-m	spa	proyecto	n$n-m$n-m-sg
-	scn	corridoiu	n-m	spa	corredor	n-m$n$n-m-sg
+	scn	corridoiu	n-m	spa	corredor	n$n-m$n-m-sg
 	scn	equazzioni	n-f	spa	equivalencia	n$n-f$n-f-ND
 	scn	funnazzioni	n-f	spa	fundación	n$n-f$n-f-ND
 	scn	sorti	n-f	spa	destino	n-m$n$n-m-sg
@@ -1091,14 +1091,14 @@ LR	scn	capu	n-m	spa	cabeza	n-f$n$n-f-sg
 	scn	cuvirnatura	n-f	spa	gobernación	n$n-f
 	scn	occhiu	n-m	spa	ojo	n$n-m$n-m-sg
 	scn	genti	n-f	spa	gente	n-f-sg$n$n-f
-	scn	vota	n-f	spa	vez	n-f$n-f-ND$n
+	scn	vota	n-f	spa	vez	n-f$n$n-f-ND
 	scn	acqua	n-f	spa	agua	n-f$n$n-f-sg
 	scn	armalu	n-m	spa	animal	n-m$n$n-m-sg
 	scn	sonu	n-m	spa	ruido	n-m$n$n-m-sg
 	scn	annu	n-m	spa	año	n-m$n$n-m-sg
 	scn	acieddu	n-m	spa	ave	n-f$n$n-f-ND
 	scn	risposta	n-f	spa	respuesta	n-f$n-f-sg$n
-	scn	dumanda	n-f	spa	pregunta	n$n-f$n-f-ND
+	scn	dumanda	n-f	spa	pregunta	n-f$n$n-f-ND
 	scn	seggia	n-f	spa	silla	n-f$n$n-f-sg
 	scn	vuci	n-f	spa	voz	n$n-f$n-f-sg
 	scn	màchina	n-f	spa	máquina	n$n-f$n-f-ND
@@ -1120,7 +1120,7 @@ LR	scn	capu	n-m	spa	cabeza	n-f$n$n-f-sg
 	scn	sedi	n-f	spa	sede	n-f$n$n-f-ND
 	scn	fusioni	n-f	spa	fusión	n$n-f$n-f-ND
 	scn	pòpulu	n-m	spa	población	n$n-f$n-f-sg
-	scn	munnu	n-m	spa	mundo	n$n-m$n-m-sg
+	scn	munnu	n-m	spa	mundo	n-m$n$n-m-sg
 	scn	rifiutu	n-m	spa	desecho	n-m$n-m-sg$n
 	scn	fasi	n-f	spa	fase	n-f$n$n-f-sg
 	scn	funziunamentu	n-m	spa	funcionamiento	n-m$n$n-m-sg
@@ -1187,7 +1187,7 @@ LR	scn	cittadi	n-f	spa	ciudad	n-f$n$n-f-sg
 	scn	testu	n-m	spa	texto	n-m$n$n-m-sg
 	scn	tipu	n-m	spa	tipo	n-m$n-m-sg$n
 	scn	argumentu	n-m	spa	argumento	n-m$n$n-m-ND
-	scn	puema	n-m	spa	poema	n$n-m$n-m-ND
+	scn	puema	n-m	spa	poema	n-m$n$n-m-ND
 	scn	riatturi	n-m	spa	reactor	n$n-m$n-m-sg
 	scn	test	n-m	spa	test	n-m$n$n-m-ND
 	scn	attribbuzzioni	n-f	spa	atribución	n$n-f$n-f-sg
@@ -1224,7 +1224,7 @@ LR	scn	chilòmitri	n-m	spa	kilómetro	n$n-m$n-m-ND
 	scn	costa	n-f	spa	costa	n-f$n$n-f-sg
 	scn	crisi	n-f	spa	crisis	n-f-sp$n-f$n
 	scn	cucina	n-f	spa	cocina	n-f$n$n-f-sg
-	scn	culuri	n-m	spa	color	n-m$n-m-sg$n
+	scn	culuri	n-m	spa	color	n-m$n$n-m-sg
 	scn	cumplessu	n-m	spa	complejo	n-m$n$n-m-sg
 	scn	cumunicazzioni	n-f	spa	comunicación	n$n-f$n-f-sg
 	scn	cumunitati	n-f	spa	comunidad	n$n-f$n-f-sg
@@ -1232,7 +1232,7 @@ LR	scn	chilòmitri	n-m	spa	kilómetro	n$n-m$n-m-ND
 	scn	cunquista	n-f	spa	conquista	n$n-f
 	scn	cuntinenti	n-m	spa	continente	n-m$n$n-m-ND
 	scn	cursu	n-m	spa	curso	n-m$n-m-sg$n
-	scn	dialettu	n-m	spa	dialecto	n$n-m$n-m-ND
+	scn	dialettu	n-m	spa	dialecto	n-m$n$n-m-ND
 	scn	diffirenza	n-f	spa	diferencia	n-f$n$n-f-sg
 	scn	diffusioni	n-f	spa	difusión	n$n-f$n-f-sg
 	scn	discu	n-m	spa	disco	n-m$n$n-m-ND
@@ -1274,7 +1274,7 @@ RL	scn	modu	n-m	spa	modo	n-m$n$n-m-ND
 	scn	muntagna	n-f	spa	montaña	n-f$n$n-f-sg
 	scn	mùsica	n-f	spa	música	n$n-f$n-f-ND
 	scn	mutivu	n-m	spa	motivo	n-m$n$n-m-sg
-	scn	nazziunalitati	n-f	spa	nacionalidad	n$n-f$n-f-sg
+	scn	nazziunalitati	n-f	spa	nacionalidad	n-f$n$n-f-sg
 	scn	nfruenza	n-f	spa	influencia	n$n-f$n-f-ND
 	scn	nfurmazzioni	n-f	spa	información	n-f$n$n-f-sg
 	scn	nicissitati	n-f	spa	necesidad	n-f$n$n-f-sg
@@ -1330,7 +1330,7 @@ LR	scn	scenza	n-f	spa	ciencia	n-f$n$n-f-sg
 	scn	stili	n-m	spa	estilo	n-m$n$n-m-ND
 	scn	struttura	n-f	spa	estructura	n-f$n$n-f-sg
 	scn	sucitati	n-f	spa	sociedad	n$n-f$n-f-sg
-	scn	suli	n-m	spa	sol	n$n-m$n-m-ND
+	scn	suli	n-m	spa	sol	n-m$n$n-m-ND
 	scn	supirfici	n-f	spa	superficie	n$n-f$n-f-sg
 	scn	tèrmini	n-m	spa	término	n$n-m$n-m-sg
 	scn	tiatru	n-m	spa	teatro	n-m$n$n-m-sg
@@ -1338,13 +1338,13 @@ LR	scn	scenza	n-f	spa	ciencia	n-f$n$n-f-sg
 	scn	tìtulu	n-m	spa	título	n-m$n$n-m-sg
 	scn	tradizzioni	n-f	spa	tradición	n-f$n$n-f-ND
 	scn	trasportu	n-m	spa	transporte	n-m$n$n-m-sg
-	scn	travagghiu	n-m	spa	trabajo	n-m$n-m-sg$n
+	scn	travagghiu	n-m	spa	trabajo	n-m$n$n-m-sg
 	scn	spinciuta	n-f	spa	impulso	n-m$n$n-m-sg
 	scn	tutalitati	n-f	spa	totalidad	n$n-f$n-f-ND
 	scn	uggettu	n-m	spa	objeto	n$n-m$n-m-sg
 	scn	umanitati	n-f	spa	humanidad	n$n-f$n-f-sg
 	scn	unitati	n-f	spa	unidad	n-f$n$n-f-sg
-	scn	universu	n-m	spa	universo	n$n-m$n-m-ND
+	scn	universu	n-m	spa	universo	n-m$n$n-m-ND
 	scn	urganizzazzioni	n-f	spa	organización	n-f$n$n-f-sg
 	scn	varietati	n-f	spa	variedad	n$n-f$n-f-ND
 	scn	verbu	n-m	spa	verbo	n$n-m$n-m-ND
@@ -1353,7 +1353,7 @@ LR	scn	scenza	n-f	spa	ciencia	n-f$n$n-f-sg
 	scn	vilucitati	n-f	spa	velocidad	n-f$n$n-f-sg
 	scn	vinu	n-m	spa	vino	n$n-m$n-m-sg
 	scn	viritati	n-f	spa	verdad	n-f$n$n-f-sg
-	scn	vita	n-f	spa	vida	n$n-f$n-f-sg
+	scn	vita	n-f	spa	vida	n-f$n$n-f-sg
 	scn	zona	n-f	spa	zona	n-f$n$n-f-sg
 	scn	finanziamentu	n-m	spa	financiación	n-f$n-f-sg$n
 	scn	cumuni	n-m	spa	comuna	n-f$n$n-f-sg
@@ -1432,14 +1432,14 @@ LR	scn	affizzioni	n-f	spa	enfermedad	n$n-f$n-f-sg
 	scn	alcool	n-m	spa	alcohol	n-m$n$n-m-ND
 	scn	alfabbetizzazioni	n-f	spa	alfabetización	n$n-f$n-f-sg
 	scn	tappitu	n-m	spa	alfombra	n-f$n$n-f-ND
-	scn	àlica	n-f	spa	alga	n$n-f
+	scn	àlica	n-f	spa	alga	n-f$n
 	scn	àlgibbra	n-f	spa	álgebra	n$n-f$n-f-ND
 	scn	cuttuni	n-m	spa	algodón	n-m$n$n-m-sg
 	scn	alguritmu	n-m	spa	algoritmo	n-m$n$n-m-ND
 RL	scn	pseudònimu	n-m	spa	alias	n-m-sg
 RL	scn	pseudònimu	n-m	spa	alias	n-m-pl
 	scn	arma	n-f	spa	alma	n-f$n$n-f-ND
-	scn	arma	n-f	spa	arma	n$n-f$n-f-sg
+	scn	arma	n-f	spa	arma	n-f$n$n-f-sg
 	scn	mènnula	n-f	spa	almendra	n-f$n$n-f-pl
 	scn	chiumazzu	n-m	spa	almohada	n-f$n$n-f-ND
 	scn	cuscinu	n-m	spa	almohadón	n-m
@@ -1538,7 +1538,7 @@ RL	scn	bicicletta	n-f	spa	bici	n$n-f
 	scn	blog	n-m	spa	blog	n$n-m$n-m-sg
 	scn	blues	n-m	spa	blues	n-m$n
 	scn	ruccheddu	n-m	spa	bobina	n$n-f
-	scn	vucca	n-f	spa	boca	n$n-f$n-f-ND
+	scn	vucca	n-f	spa	boca	n-f$n$n-f-ND
 	scn	vurza	n-f	spa	bolso	n-m$n$n-m-ND
 LR	scn	guddefi	n-m	spa	bosque	n-m$n$n-m-sg
 	scn	butànica	n-f	spa	botánica	n$n-f
@@ -1595,7 +1595,7 @@ LR	scn	càrciri	n-f	spa	cárcel	n-f$n$n-f-sg
 	scn	CBS	n-acr-f	spa	CBS	n$n-acr-f
 	scn	oriu	n-m	spa	cebada	n-f$n
 	scn	isca	n-f	spa	cebo	n-m$n
-	scn	orvu	n-m	spa	ceguera	n$n-f$n-f-ND
+	scn	orvu	n-m	spa	ceguera	n-f$n$n-f-ND
 	scn	cèllula	n-f	spa	célula	n$n-f$n-f-ND
 	scn	cìnniri	n-f	spa	ceniza	n$n-f$n-f-ND
 	scn	ciramica	n-f	spa	cerámica	n$n-f$n-f-sg
@@ -1622,7 +1622,7 @@ LR	scn	verru	n-m	spa	cerdo	n-m$n$n-m-ND
 	scn	firmatura	n-f	spa	clausura	n-f$n$n-f-sg
 	scn	cleru	n-m	spa	clero	n$n-m
 	scn	parruccianu	n-m	spa	clientela	n$n-f$n-f-ND
-	scn	ramu	n-m	spa	cobre	n$n-m$n-m-sg
+	scn	ramu	n-m	spa	cobre	n-m$n$n-m-sg
 	scn	cucaina	n-f	spa	cocaína	n$n-f$n-f-ND
 	scn	cucina	n-f	spa	cocción	n-f$n
 	scn	cuirenza	n-f	spa	coherencia	n$n-f$n-f-sg
@@ -1694,7 +1694,7 @@ RL	scn	fumettu	n-m	spa	cómic	n-m$n
 	scn	curiusitati	n-f	spa	curiosidad	n$n-f$n-f-ND
 	scn	curva	n-f	spa	curva	n$n-f$n-f-ND
 	scn	dadu	n-m	spa	dado	n-m$n
-	scn	abballu	n-m	spa	danza	n$n-f$n-f-sg
+	scn	abballu	n-m	spa	danza	n-f$n$n-f-sg
 	scn	dammaggiu	n-m	spa	daño	n-m$n$n-m-sg
 	scn	deci	n-f	spa	decena	n$n-f$n-f-pl
 	scn	purpuzza	n-f	spa	dedo	n-m$n$n-m-sg
@@ -1787,8 +1787,8 @@ LR	scn	purritumi	n-f	spa	descomposición	n$n-f
 	scn	stadda	n-f	spa	establo	n-m$n
 	scn	statu	n-m	spa	estado	n-m$n$n-m-sg
 	scn	scroccu	n-m	spa	estafa	n-f$n
-	scn	tabbaccarìa	n-f	spa	estanco	n$n-m
-	scn	stàtua	n-f	spa	estatua	n$n-f$n-f-ND
+	scn	tabbaccarìa	n-f	spa	estanco	n-m$n
+	scn	stàtua	n-f	spa	estatua	n-f$n$n-f-ND
 	scn	steppa	n-f	spa	estepa	n-f$n$n-f-ND
 	scn	estètica	n-f	spa	estética	n$n-f$n-f-sg
 	scn	scrusciu	n-m	spa	estrépito	n-m$n
@@ -1906,7 +1906,7 @@ RL	scn	ambienti	n-m$n-m-sp	spa	hábitat	n$n-m$n-m-sg
 	scn	unistati	n-f	spa	honestidad	n$n-f$n-f-ND
 	scn	funci	n-m	spa	hongo	n$n-m
 	scn	disonuri	n-m	spa	honor	n-m$n$n-m-sg
-	scn	furca	n-f	spa	horca	n$n-f
+	scn	furca	n-f	spa	horca	n-f$n
 	scn	urmoni	n-f	spa	hormona	n-f$n
 	scn	nicchia	n-f	spa	hornacina	n$n-f
 	scn	furneddu	n-m	spa	horno	n$n-m$n-m-sg
@@ -1914,7 +1914,7 @@ RL	scn	ambienti	n-m$n-m-sp	spa	hábitat	n$n-m$n-m-sg
 	scn	ortu	n-m	spa	huerta	n-f$n$n-f-ND
 	scn	ortu	n-m	spa	huerto	n$n-m$n-m-sg
 	scn	ossu	n-m	spa	hueso	n-m$n$n-m-pl
-	scn	òspiti	n-m	spa	huésped	n-m$n-m-ND
+	scn	òspiti	n-m	spa	huésped	n$n-m$n-m-ND
 	scn	affunnamentu	n-m	spa	hundimiento	n$n-m
 	scn	nfrinzaturi	n-m	spa	hurón	n-m$n
 	scn	cona	n-f	spa	icono	n-m$n$n-m-sg
@@ -1984,7 +1984,7 @@ RL	scn	jazz	n-m-sg	spa	jazz	n-f-sp
 	scn	lattuca	n-f	spa	lechuga	n-f$n
 	scn	vaiana	n-f	spa	legumbre	n-f$n
 	scn	lenti	n-f	spa	lente	n$n-f
-	scn	ligna	n-f	spa	leña	n$n-f$n-f-sg
+	scn	ligna	n-f	spa	leña	n-f$n$n-f-sg
 	scn	lebbra	n-f	spa	lepra	n-f$n
 	scn	licori	n-m	spa	licor	n-m$n$n-m-sg
 	scn	castrazzioni	n-f	spa	castración	n$n-f$n-f-ND
@@ -2054,7 +2054,7 @@ RL	scn	ambienti	n-m$n-m-sp	spa	medioambiente	n$n-m$n-m-sg
 	scn	mitafìsicu	n-f	spa	metafísico	n-f
 	scn	mitafìsicu	n-f	spa	metafísico	n$n-m$n-m-ND
 	scn	mitàfura	n-f	spa	metáfora	n$n-f$n-f-ND
-	scn	mitallu	n-m	spa	metal	n$n-m$n-m-ND
+	scn	mitallu	n-m	spa	metal	n-m$n$n-m-ND
 	scn	mitiuriti	n-m	spa	meteorito	n$n-m
 	scn	mitiuruluggìa	n-f	spa	meteorología	n$n-f$n-f-sg
 	scn	metru	n-m	spa	metro	n$n-m$n-m-sg
@@ -2081,7 +2081,7 @@ RL	scn	ambienti	n-m$n-m-sp	spa	medioambiente	n$n-m$n-m-sg
 	scn	motu	n-m	spa	moto	n$n-f$n-f-ND
 	scn	morti	n-f	spa	muerte	n-f$n$n-f-sg
 	scn	fìmmina	n-f	spa	mujer	n-f$n$n-f-sg
-	scn	taddarita	n-f	spa	murciélago	n$n-m
+	scn	taddarita	n-f	spa	murciélago	n-m$n
 	scn	tramutamentu	n-m	spa	mutación	n$n-f$n-f-ND
 	scn	nazziunalismu	n-m	spa	nacionalismo	n$n-m$n-m-ND
 	scn	arancia	n-f	spa	naranja	n-f$n$n-f-ND
@@ -2185,7 +2185,7 @@ RL	scn	paracqua	n-f-ND	spa	paraguas	n-m-sp$n-m$n
 	scn	manciaciumi	n-f	spa	picazón	n-f
 	scn	petra	n-f	spa	piedra	n-f$n$n-f-sg
 	scn	peddi	n-f	spa	piel	n-f$n$n-f-ND
-	scn	jamma	n-f	spa	pierna	n$n-f$n-f-ND
+	scn	jamma	n-f	spa	pierna	n-f$n$n-f-ND
 	scn	pittura	n-f	spa	pintura	n-f$n$n-f-ND
 	scn	piramidi	n-f	spa	pirámide	n$n-f$n-f-sg
 	scn	pistola	n-f	spa	pistola	n-f$n$n-f-sg
@@ -2206,7 +2206,7 @@ RL	scn	paracqua	n-f-ND	spa	paraguas	n-m-sp$n-m$n
 	scn	pòllini	n-m	spa	polen	n$n-m
 	scn	polizzia	n-f	spa	policía	n-mf$n$n-mf-ND
 	scn	pulìgunu	n-m	spa	polígono	n-m$n$n-m-sg
-	scn	pulìtica	n-f	spa	política	n$n-f$n-f-sg
+	scn	pulìtica	n-f	spa	política	n-f$n$n-f-sg
 	scn	jaddina	n-f	spa	pollo	n$n-m$n-m-ND
 	scn	pruvulazzu	n-m	spa	polvo	n-m$n$n-m-sg
 	scn	prùvuli	n-f	spa	pólvora	n$n-f
@@ -2347,7 +2347,7 @@ LR	scn	tirrimotu	n-m	spa	seísmo	n-m$n
 	scn	suttanzemi	n-m	spa	subconjunto	n$n-m
 	scn	subfamigghia	n-f	spa	subfamilia	n$n-f
 	scn	sustanza	n-f	spa	substancia	n$n-f
-	scn	tirrinu	n-m	spa	suelo	n$n-m$n-m-sg
+	scn	tirrinu	n-m	spa	suelo	n-m$n$n-m-sg
 	scn	sonnu	n-m	spa	sueño	n$n-m$n-m-sg
 	scn	furtuna	n-f	spa	suerte	n$n-f$n-f-sg
 	scn	sumeri	n-m	spa	sumerio	n-m
@@ -2382,8 +2382,8 @@ LR	scn	tirrimotu	n-m	spa	seísmo	n-m$n
 	scn	tirruri	n-m	spa	terror	n-m$n$n-m-ND
 	scn	trisoru	n-m	spa	tesoro	n$n-m$n-m-ND
 	scn	tistamentu	n-m	spa	testamento	n-m$n$n-m-ND
-	scn	cugghiuni	n-m	spa	testículo	n$n-m
-	scn	nchiostru	n-m	spa	tinta	n$n-f$n-f-sg
+	scn	cugghiuni	n-m	spa	testículo	n-m$n
+	scn	nchiostru	n-m	spa	tinta	n-f$n$n-f-sg
 	scn	tipugrafìa	n-f	spa	tipografía	n$n-f
 	scn	tiru	n-m	spa	tiro	n$n-m$n-m-ND
 	scn	titaniu	n-m	spa	titanio	n-m$n
@@ -2395,7 +2395,7 @@ LR	scn	tirrimotu	n-m	spa	seísmo	n-m$n
 	scn	timpesta	n-f	spa	tormenta	n-f$n$n-f-sg
 	scn	turnatu	n-m	spa	tornado	n-m$n
 	scn	turri	n-f	spa	torre	n-f$n$n-f-ND
-	scn	tartuca	n-f	spa	tortuga	n$n-f$n-f-sg
+	scn	tartuca	n-f	spa	tortuga	n-f$n$n-f-sg
 	scn	tutalitarismu	n-m	spa	totalitarismo	n$n-m
 	scn	traggèdia	n-f	spa	tragedia	n$n-f$n-f-sg
 	scn	tradimentu	n-m	spa	traición	n$n-f$n-f-ND
@@ -2415,7 +2415,7 @@ LR	scn	tirrimotu	n-m	spa	seísmo	n-m$n
 	scn	tronu	n-m	spa	trueno	n-m$n$n-m-ND
 	scn	tartufu	n-m	spa	trufa	n-f$n
 	scn	tsunami	n-m	spa	tsunami	n$n-m$n-m-sg
-	scn	tubbirculosi	n-f	spa	tuberculosis	n-f-sp$n-f$n
+	scn	tubbirculosi	n-f	spa	tuberculosis	n-f-sp$n$n-f
 	scn	tumuri	n-m	spa	tumor	n$n-m
 	scn	jallirìa	n-f	spa	túnel	n$n-m$n-m-sg
 	scn	turismu	n-m	spa	turismo	n-m$n$n-m-sg
@@ -2480,7 +2480,7 @@ RL	scn	omu	n-m	spa	varón	n-m$n$n-m-ND
 	scn	ricipienti	n-m	spa	receptáculo	n-m$n
 	scn	cuntrollu	n-m	spa	control	n-m$n$n-m-sg
 	scn	ntirfirenza	n-f	spa	interferencia	n$n-f$n-f-ND
-	scn	mprisa	n-f	spa	empresa	n$n-f$n-f-sg
+	scn	mprisa	n-f	spa	empresa	n-f$n$n-f-sg
 	scn	risunanza	n-f	spa	resonancia	n$n-f
 	scn	flussu	n-m	spa	flujo	n-m$n$n-m-ND
 	scn	flùidu	n-m	spa	flujo	n-m$n$n-m-ND
@@ -2499,8 +2499,8 @@ RL	scn	omu	n-m	spa	varón	n-m$n$n-m-ND
 	scn	URSS	n-acr-f	spa	URSS	n-acr-f$n
 	scn	UNESCO	n-acr-f	spa	Unesco	n$n-acr-f$n-acr
 	scn	AELE	n-acr-f	spa	EFTA	n$n-acr$n-acr-f
-	scn	surastra	n-f	spa	hermano	n-f$n-f-ND
-	scn	frati	n-m	spa	hermano	n-m$n$n-m-sg
+	scn	surastra	n-f	spa	hermano	n-f$n$n-f-ND
+	scn	frati	n-m	spa	hermano	n-m$n-m-sg
 	scn	prubblema	n-m	spa	problema	n-m$n$n-m-sg
 	scn	affirmazzioni	n-f	spa	afirmación	n-f$n$n-f-ND
 	scn	discrizzioni	n-f	spa	descripción	n-f$n$n-f-ND
@@ -2656,7 +2656,7 @@ LR	scn	scelta	n-f	spa	elección	n-f$n$n-f-sg
 	scn	cullezzioni	n-f	spa	colección	n$n-f$n-f-sg
 	scn	prutizzioni	n-f	spa	protección	n-f$n$n-f-sg
 	scn	appruvazzioni	n-f	spa	aprobación	n$n-f$n-f-ND
-	scn	istituzzioni	n-f	spa	institución	n$n-f$n-f-sg
+	scn	istituzzioni	n-f	spa	institución	n-f$n$n-f-sg
 	scn	ntigrazzioni	n-f	spa	integración	n-f$n$n-f-sg
 	scn	cunfidirazzioni	n-f	spa	confederación	n$n-f
 	scn	distinzioni	n-f	spa	distinción	n$n-f$n-f-sg
@@ -2793,7 +2793,7 @@ LR	scn	mancanza	n-f	spa	falta	n$n-f$n-f-ND
 	scn	falta	n-f	spa	falta	n$n-f$n-f-ND
 	scn	prupusizzioni	n-f	spa	proposición	n$n-f$n-f-ND
 	scn	ntirrugazzioni	n-f	spa	interrogación	n$n-f
-	scn	ntirrugazzioni	n-f	spa	pregunta	n$n-f$n-f-ND
+	scn	ntirrugazzioni	n-f	spa	pregunta	n-f$n$n-f-ND
 	scn	paritati	n-f	spa	paridad	n$n-f$n-f-sg
 	scn	applicazzioni	n-f	spa	aplicación	n-f$n$n-f-sg
 	scn	assimilazzioni	n-f	spa	asimilación	n$n-f$n-f-ND
@@ -2823,7 +2823,7 @@ LR	scn	mancanza	n-f	spa	falta	n$n-f$n-f-ND
 	scn	numiru	n-m	spa	número	n$n-m$n-m-sg
 	scn	linzolu	n-m	spa	hoja	n-f$n$n-f-sg
 	scn	ovu	n-m	spa	huevo	n-m$n$n-m-pl
-	scn	gigghiu	n-m	spa	ceja	n$n-f$n-f-sg
+	scn	gigghiu	n-m	spa	ceja	n-f$n$n-f-sg
 	scn	chiovu	n-m	spa	clavo	n-m$n$n-m-ND
 	scn	chilu	n-m	spa	kilo	n$n-m$n-m-ND
 	scn	cannolu	n-m	spa	tubo	n$n-m$n-m-ND
@@ -2841,7 +2841,7 @@ LR	scn	pizzu	n-m	spa	punto	n-m$n$n-m-ND
 	scn	munti	n-m	spa	montaña	n-f$n$n-f-sg
 	scn	latinizzazzioni	n-f	spa	latinización	n$n-f
 	scn	ciriveddu	n-m	spa	cerebro	n-m$n$n-m-sg
-	scn	ginocchiu	n-m	spa	rodilla	n-f$n-f-sg$n
+	scn	ginocchiu	n-m	spa	rodilla	n-f$n$n-f-sg
 	scn	labbru	n-m	spa	labio	n-m$n$n-m-sg
 	scn	ficatu	n-m	spa	hígado	n$n-m$n-m-ND
 	scn	pugnu	n-m	spa	puño	n$n-m$n-m-ND
@@ -3013,7 +3013,7 @@ LR	scn	cuntintizza	n-f	spa	felicidad	n-f$n$n-f-ND
 	scn	magghietta	n-f	spa	camiseta	n-f$n$n-f-sg
 	scn	maggiuranza	n-f	spa	mayoría	n$n-f$n-f-sg
 	scn	maggìa	n-f	spa	magia	n$n-f$n-f-ND
-	scn	maidda	n-f	spa	hucha	n$n-f
+	scn	maidda	n-f	spa	hucha	n-f$n
 	scn	malancunìa	n-f	spa	melancolía	n$n-f$n-f-ND
 	scn	malidizzioni	n-f	spa	maldición	n$n-f$n-f-ND
 	scn	marcia	n-f	spa	marcha	n-f$n$n-f-ND
@@ -3025,7 +3025,7 @@ LR	scn	cuntintizza	n-f	spa	felicidad	n-f$n$n-f-ND
 	scn	minzogna	n-f	spa	mentira	n-f$n$n-f-ND
 	scn	miravigghia	n-f	spa	maravilla	n$n-f
 	scn	mirenna	n-f	spa	merienda	n-f$n$n-f-sg
-	scn	mprenta	n-f	spa	empresa	n$n-f$n-f-sg
+	scn	mprenta	n-f	spa	empresa	n-f$n$n-f-sg
 	scn	mulletta	n-f	spa	muleta	n$n-f
 	scn	munacedda	n-f	spa	castañuela	n$n-f
 	scn	muntata	n-f	spa	subida	n$n-f$n-f-ND
@@ -3088,7 +3088,7 @@ LR	scn	cuntintizza	n-f	spa	felicidad	n-f$n$n-f-ND
 	scn	sclamazzioni	n-f	spa	exclamación	n$n-f
 	scn	scudedda	n-f	spa	escudilla	n$n-f
 	scn	scuma	n-f	spa	espuma	n$n-f
-	scn	scuzzara	n-f	spa	tortuga	n$n-f$n-f-sg
+	scn	scuzzara	n-f	spa	tortuga	n-f$n$n-f-sg
 	scn	sfirucia	n-f	spa	desconfianza	n$n-f$n-f-ND
 	scn	cridenza	n-f	spa	creencia	n$n-f$n-f-ND
 	scn	siccia	n-f	spa	sepia	n$n-f
@@ -3124,7 +3124,7 @@ LR	scn	cuntintizza	n-f	spa	felicidad	n-f$n$n-f-ND
 	scn	àcula	n-f	spa	águila	n$n-f$n-f-ND
 	scn	ànima	n-f	spa	alma	n-f$n$n-f-ND
 	scn	çiunna	n-f	spa	honda	n-f$n
-	scn	èbbuca	n-f	spa	época	n$n-f$n-f-ND
+	scn	èbbuca	n-f	spa	época	n-f$n$n-f-ND
 	scn	èddira	n-f	spa	hiedra	n$n-f$n-f-ND
 	scn	òstraca	n-f	spa	ostra	n$n-f$n-f-sg
 	scn	ùmmara	n-f	spa	sombra	n-f$n$n-f-sg
@@ -3244,7 +3244,7 @@ LR	scn	scupetta	n-f	spa	fusil	n-m$n$n-m-ND
 	scn	portafogghiu	n-m	spa	cartera	n-f$n$n-f-sg$
 	scn	sbagghiu	n-m	spa	equivocación	n$n-f
 	scn	schiticchiu	n-m	spa	merienda	n-f$n$n-f-sg
-	scn	supraccigghiu	n-m	spa	ceja	n$n-f$n-f-sg
+	scn	supraccigghiu	n-m	spa	ceja	n-f$n$n-f-sg
 	scn	ufficiu	n-m	spa	oficina	n-f$n$n-f-sg
 	scn	vaiu	n-m	spa	problema	n-m$n$n-m-sg
 	scn	pruspiritati	n-f	spa	prosperidad	n-f$n$n-f-sg
@@ -3252,7 +3252,7 @@ LR	scn	scupetta	n-f	spa	fusil	n-m$n$n-m-ND
 	scn	abbecceddariu	n-m	spa	abecedario	n-m$n
 	scn	addaurufogghiu	n-m	spa	acebo	n$n-m
 	scn	agliu	n-m	spa	ajo	n$n-m$n-m-sg
-	scn	alloggiu	n-m	spa	alojamiento	n$n-m$n-m-sg
+	scn	alloggiu	n-m	spa	alojamiento	n-m$n$n-m-sg
 	scn	alluminiu	n-m	spa	aluminio	n-m$n$n-m-ND
 	scn	anniscu	n-m	spa	cebo	n-m$n
 	scn	arcu	n-m	spa	arco	n-m$n$n-m-ND
@@ -3359,7 +3359,7 @@ LR	scn	zazzira	n-f	spa	cabello	n-m$n$n-m-ND
 	scn	bava	n-f	spa	saliva	n$n-f$n-f-sg
 	scn	biddizza	n-f	spa	belleza	n$n-f$n-f-ND
 	scn	birba	n-f	spa	belleza	n$n-f$n-f-ND
-	scn	birritta	n-f	spa	gorra	n$n-f
+	scn	birritta	n-f	spa	gorra	n-f$n
 	scn	biscusitati	n-f	spa	astucia	n$n-f$n-f-ND
 	scn	bittazza	n-f	spa	blasfemia	n-f$n
 	scn	bivuta	n-f	spa	biología	n$n-f$n-f-sg
@@ -3385,7 +3385,7 @@ LR	scn	zazzira	n-f	spa	cabello	n-m$n$n-m-ND
 	scn	cera	n-f	spa	silla	n-f$n$n-f-sg
 	scn	cerussa	n-f	spa	silla	n-f$n$n-f-sg
 	scn	chiaja	n-f	spa	herida	n-f$n$n-f-ND
-	scn	ciamma	n-f	spa	llama	n$n-f$n-f-ND
+	scn	ciamma	n-f	spa	llama	n-f$n$n-f-ND
 	scn	cianciamurrata	n-f	spa	pata	n-f$n$n-f-ND
 	scn	cigogna	n-f	spa	cigüeña	n$n-f
 	scn	cilebbra	n-f	spa	cigüeña	n$n-f
@@ -3458,7 +3458,7 @@ LR	scn	zazzira	n-f	spa	cabello	n-m$n$n-m-ND
 	scn	masunata	n-f	spa	familia	n-f$n$n-f-sg
 	scn	matricala	n-f	spa	mañana	n-f$n$n-f-sg
 	scn	meccia	n-f	spa	ambulancia	n$n-f$n-f-ND
-	scn	merda	n-f	spa	mierda	n$n-f$n-f-ND
+	scn	merda	n-f	spa	mierda	n-f$n$n-f-ND
 RL	scn	mieta	n-f	spa	mecha	n$n-f
 	scn	milidda	n-f	spa	almez	n-m$n
 	scn	miliunca	n-f	spa	almez	n-m$n
@@ -3490,7 +3490,7 @@ LR	scn	paranza	n-f	spa	igualdad	n$n-f$n-f-sg
 	scn	pastizza	n-f	spa	pasta	n$n-f$n-f-ND
 	scn	picontrìa	n-f	spa	hipocondría	n-f$n
 	scn	pircaccia	n-f	spa	provisión	n$n-f$n-f-pl
-	scn	pirnedda	n-f	spa	pupila	n$n-f$n-f-ND
+	scn	pirnedda	n-f	spa	pupila	n-f$n$n-f-ND
 	scn	pisciazza	n-f	spa	orina	n$n-f$n-f-sg
 	scn	plancia	n-f	spa	tabla	n$n-f$n-f-ND
 	scn	prisagghia	n-f	spa	preposición	n$n-f$n-f-ND
@@ -3524,7 +3524,7 @@ LR	scn	bacana	n-f	spa	desorden	n-m$n$n-m-ND
 LR	scn	bacaredda	n-f	spa	desorden	n-m$n$n-m-ND
 	scn	berta	n-f	spa	berilio	n-m$n
 	scn	bozza	n-f	spa	golpe	n-m$n$n-m-ND
-	scn	brudarìa	n-f	spa	brote	n-m$n
+	scn	brudarìa	n-f	spa	brote	n$n-m
 	scn	bucecia	n-f	spa	casco	n-m$n$n-m-sg
 	scn	buffa	n-f	spa	sapo	n-m$n
 	scn	burraccia	n-f	spa	frasco	n$n-m$n-m-ND
@@ -3536,8 +3536,8 @@ LR	scn	bacaredda	n-f	spa	desorden	n-m$n$n-m-ND
 	scn	calandrita	n-f	spa	caramelo	n-m$n$n-m-ND
 	scn	cammarata	n-f	spa	compañero	n$n-m$n-m-sg
 	scn	canigghia	n-f	spa	salvado	n-m$n$n-m-sg
-	scn	caramànnula	n-f	spa	conejo	n$n-m$n-m-sg
-	scn	caranna	n-f	spa	conejo	n$n-m$n-m-sg
+	scn	caramànnula	n-f	spa	conejo	n-m$n$n-m-sg
+	scn	caranna	n-f	spa	conejo	n-m$n$n-m-sg
 	scn	catammolia	n-f	spa	catecismo	n-m$n
 	scn	catrecia	n-f	spa	tugurio	n-m$n
 	scn	cattata	n-f	spa	tugurio	n-m$n
@@ -3547,12 +3547,12 @@ LR	scn	bacaredda	n-f	spa	desorden	n-m$n$n-m-ND
 	scn	cuntestu	n-m	spa	contexto	n-m-sg$n$n-m
 	scn	chica	n-f	spa	pliegue	n-m$n
 	scn	chicatura	n-f	spa	pliegue	n-m$n
-	scn	ciddazza	n-f	spa	pene	n-m$n-m-ND$n
-	scn	cifeca	n-f	spa	pene	n-m$n-m-ND$n
+	scn	ciddazza	n-f	spa	pene	n-m$n$n-m-ND
+	scn	cifeca	n-f	spa	pene	n-m$n$n-m-ND
 	scn	cilenna	n-f	spa	chaleco	n-m$n
 	scn	cina	n-f	spa	moquillo	n-m$n
 	scn	cinanca	n-f	spa	moquillo	n-m$n
-	scn	cogghia	n-f	spa	testículo	n$n-m
+	scn	cogghia	n-f	spa	testículo	n-m$n
 	scn	criscimogna	n-f	spa	crecimiento	n-m$n$n-m-sg
 	scn	cropa	n-f	spa	gancho	n-m$n$n-m-sg
 	scn	crozza	n-f	spa	cráneo	n$n-m
@@ -3601,8 +3601,8 @@ LR	scn	càrzira	n-f	spa	cárcel	n-f$n$n-f-sg
 	scn	mpanata	n-f	spa	pastel	n-m$n$n-m-sg
 	scn	mpannuzza	n-f	spa	pastel	n-m$n$n-m-sg
 	scn	mpiccicalora	n-f	spa	imperio	n-m$n$n-m-sg
-	scn	mprocchia	n-f	spa	brote	n-m$n
-	scn	mprìola	n-f	spa	brote	n-m$n
+	scn	mprocchia	n-f	spa	brote	n$n-m
+	scn	mprìola	n-f	spa	brote	n$n-m
 	scn	mucina	n-f	spa	moco	n-m$n
 	scn	muddacchina	n-f	spa	moco	n-m$n
 	scn	màrdula	n-f	spa	fuelle	n-m$n
@@ -3676,7 +3676,7 @@ LR	scn	cacamangia	n-f	spa	cárcel	n-f$n$n-f-sg
 LR	scn	cacaticchiu	n-m	spa	cárcel	n-f$n$n-f-sg
 LR	scn	cacchiu	n-m	spa	cárcel	n-f$n$n-f-sg
 	scn	calaiu	n-m	spa	albornoz	n-m$n
-	scn	caramuciu	n-m	spa	conejo	n$n-m$n-m-sg
+	scn	caramuciu	n-m	spa	conejo	n-m$n$n-m-sg
 	scn	checcu	n-m	spa	tartamudo	n$n-m
 	scn	chiaccu	n-m	spa	cable	n-m$n$n-m-ND
 	scn	ciascu	n-m	spa	fiasco	n$n-m
@@ -3753,7 +3753,7 @@ LR	scn	ciurlaniu	n-f	spa	florista	n-mf$n$n-mf-sg
 	scn	giubba	n-f	spa	melena	n$n-f$n-f-ND
 	scn	giucca	n-f	spa	enfado	n$n-m$n-m-ND
 	scn	grannìa	n-f	spa	arrogancia	n$n-f
-	scn	iassa	n-f	spa	nudo	n$n-m$n-m-ND
+	scn	iassa	n-f	spa	nudo	n-m$n$n-m-ND
 	scn	manùbbula	n-f	spa	maniobra	n$n-f$n-f-ND
 	scn	mariggiata	n-f	spa	oleaje	n-m$n
 	scn	mbrazzulata	n-f	spa	rosca	n$n-f
@@ -3897,7 +3897,7 @@ LR	scn	cacciu	n-m-sg	spa	fútbol	n-m-sg$n$n-m
 	scn	braccialettu	n-m	spa	pulsera	n-f$n
 	scn	braci	n-f	spa	brasa	n-f$n
 	scn	brattu	n-m	spa	cucaracha	n$n-f$n-f-sg
-LR	scn	brazzu	n-m	spa	brazo	n-m-sg$n-m$n
+LR	scn	brazzu	n-m	spa	brazo	n-m$n-m-sg$n
 	scn	brivettu	n-m	spa	patente	n-f$n$n-f-ND
 	scn	brodu	n-m	spa	caldo	n$n-m
 	scn	bruddu	n-m	spa	alegría	n-f$n$n-f-ND
@@ -3930,7 +3930,7 @@ LR	scn	carabbozzu	n-m	spa	cárcel	n-f$n$n-f-sg
 	scn	carcòcciulu	n-m	spa	alcachofa	n-f$n
 	scn	carramattu	n-m	spa	carro	n$n-m$n-m-ND
 	scn	carru	n-m	spa	carro	n$n-m$n-m-ND
-	scn	caruseddu	n-m	spa	hucha	n$n-f
+	scn	caruseddu	n-m	spa	hucha	n-f$n
 	scn	cascarda	n-f	spa	baile	n-m$n$n-m-sg
 	scn	casciolu	n-m	spa	cajón	n-m$n$n-m-ND
 	scn	castagnu	n-m	spa	castaño	n$n-m$n-m-ND
@@ -3943,7 +3943,7 @@ LR	scn	carabbozzu	n-m	spa	cárcel	n-f$n$n-f-sg
 	scn	cazzarìa	n-f	spa	bagatela	n-f$n
 	scn	cazzianu	n-m	spa	nodriza	n$n-f
 	scn	cazzottu	n-m	spa	puño	n$n-m$n-m-ND
-	scn	cervu	n-m	spa	ciervo	n$n-m$n-m-sg
+	scn	cervu	n-m	spa	ciervo	n-m$n$n-m-sg
 	scn	chiavetta	n-f	spa	clave	n-f$n$n-f-ND
 	scn	chiavi	n-f	spa	clave	n-f$n$n-f-ND
 	scn	chiaviruni	n-m	spa	estaca	n-f$n
@@ -3957,7 +3957,7 @@ LR	scn	carabbozzu	n-m	spa	cárcel	n-f$n$n-f-sg
 	scn	cimiteru	n-m	spa	cementerio	n-m$n$n-m-ND
 	scn	cintìmitru	n-m	spa	centímetro	n$n-m$n-m-ND
 	scn	cippu	n-m	spa	cepa	n-f$n$n-f-sg
-	scn	citrolu	n-m	spa	pepino	n$n-m$n-m-pl
+	scn	citrolu	n-m	spa	pepino	n-m$n$n-m-pl
 	scn	citru	n-m	spa	cedro	n$n-m
 	scn	ciucculatti	n-m	spa	chocolate	n$n-m$n-m-ND
 	scn	civu	n-m	spa	comida	n-f$n$n-f-sg
@@ -3965,7 +3965,7 @@ LR	scn	carabbozzu	n-m	spa	cárcel	n-f$n$n-f-sg
 	scn	cloru	n-m	spa	cloro	n$n-m
 	scn	colpu	n-m	spa	golpe	n-m$n$n-m-ND
 	scn	conti	n-m	spa	conde	n$n-m$n-m-ND
-	scn	coru	n-m	spa	coro	n$n-m$n-m-ND
+	scn	coru	n-m	spa	coro	n-m$n$n-m-ND
 	scn	cota	n-m	spa	cuota	n-f-sg$n$n-f
 	scn	crafocchiu	n-m	spa	hueco	n-m$n$n-m-ND
 	scn	criscenti	n-m	spa	levadura	n-f$n
@@ -3978,14 +3978,14 @@ LR	scn	carabbozzu	n-m	spa	cárcel	n-f$n$n-f-sg
 	scn	cumplementu	n-m	spa	complemento	n$n-m$n-m-ND
 	scn	cumunitati	n-f	spa	comuna	n-f$n$n-f-sg
 	scn	cuncutriddu	n-m	spa	cocodrilo	n$n-m$n-m-sg
-	scn	cunigliu	n-m	spa	conejo	n$n-m$n-m-sg
+	scn	cunigliu	n-m	spa	conejo	n-m$n$n-m-sg
 	scn	cunnizioni	n-f	spa	condición	n$n-f$n-f-sg
 	scn	cunsulatu	n-m	spa	consulado	n$n-m$n-m-sg
 	scn	cuntattu	n-m	spa	contacto	n$n-m$n-m-sg
 	scn	cuntu	n-m	spa	cuenta	n-f$n$n-f-sg
 	scn	disaccordiu	n-m	spa	desacuerdo	n$n-m$n-m-ND
 LR	scn	cunvegnu	n-m	spa	acuerdo	n-m$n$n-m-sg
-	scn	currituri	n-m	spa	corredor	n-m$n$n-m-sg
+	scn	currituri	n-m	spa	corredor	n$n-m$n-m-sg
 	scn	curti	n-f	spa	corte	n-f$n-f-sg
 	scn	curtili	n-m	spa	patio	n-m$n$n-m-sg
 	scn	càlculu	n-m	spa	cálculo	n-m$n$n-m-ND
@@ -4168,11 +4168,11 @@ RL	scn	nomi	n-m	spa	nombre	n-m$n$n-m-sg
 LR	scn	pilinguedda	n-f	spa	lengüeta	n$n-f
 	scn	pinzeli	n-m	spa	pincel	n$n-m
 	scn	pinzeri	n-m	spa	pensamiento	n-m$n$n-m-sg
-	scn	pinìu	n-m	spa	pene	n-m$n-m-ND$n
+	scn	pinìu	n-m	spa	pene	n-m$n$n-m-ND
 	scn	pirmissu	n-m	spa	lupa	n$n-f
 	scn	pirnici	n-f	spa	perdiz	n$n-f
 	scn	pisolu	n-m	spa	umbral	n-m$n$n-m-ND
-	scn	pitichinu	n-m	spa	pene	n-m$n-m-ND$n
+	scn	pitichinu	n-m	spa	pene	n-m$n$n-m-ND
 	scn	pitittu	n-m	spa	apetito	n$n-m$n-m-ND
 	scn	pitrusinu	n-m	spa	perejil	n-m$n$n-m-sg
 	scn	portugallu	n-m	spa	naranja	n-f$n$n-f-ND
@@ -4209,9 +4209,9 @@ LR	scn	pilinguedda	n-f	spa	lengüeta	n$n-f
 	scn	pàsculu	n-m	spa	pastura	n-f$n$n-f-ND
 LR	scn	pèlagu	n-m	spa	mar	n-mf$n$n-mf-ND
 LR	scn	mar	n-m	spa	mar	n-mf$n$n-mf-ND
-	scn	pèttini	n-m	spa	peine	n$n-m$n-m-sg
+	scn	pèttini	n-m	spa	peine	n-m$n$n-m-sg
 	scn	pìllicu	n-m	spa	avaro	n-m
-	scn	pìncinu	n-m	spa	peine	n$n-m$n-m-sg
+	scn	pìncinu	n-m	spa	peine	n-m$n$n-m-sg
 	scn	pìritu	n-m	spa	pedo	n-m$n$n-m-sg
 	scn	pòtisi	n-m	spa	fortaleza	n-f$n$n-f-ND
 	scn	pùddira	n-f	spa	mariposa	n-f$n$n-f-ND
@@ -4268,7 +4268,7 @@ LR	scn	segretu	n-m	spa	secreto	n-m$n$n-m-sg
 LR	scn	tilèfunu	n-m	spa	teléfono	n$n-m$n-m-sg
 LR	scn	turrenu	n-m	spa	terreno	n-m$n$n-m-sg
 	scn	tàuru	n-m	spa	toro	n$n-m$n-m-ND
-	scn	ucèanu	n-m	spa	océano	n$n-m$n-m-sg
+	scn	ucèanu	n-m	spa	océano	n-m$n$n-m-sg
 	scn	umirtati	n-f	spa	humildad	n$n-f$n-f-ND
 	scn	upinioni	n-f	spa	opinión	n$n-f$n-f-sg
 	scn	uraganu	n-m	spa	huracán	n$n-m$n-m-ND
@@ -4317,8 +4317,8 @@ LR	scn	urìggina	n-m	spa	origen	n-m$n-m-sg$n
 	scn	àsima	n-m	spa	asma	n-f$n$n-f-sg
 	scn	àstricu	n-m	spa	terraza	n$n-f$n-f-ND
 	scn	çiuri	n-m	spa	flor	n-f$n$n-f-ND
-	scn	ìdulu	n-m	spa	ídolo	n-m$n$n-m-ND
-LR	scn	ìnnici	n-m	spa	ídolo	n-m$n$n-m-ND
+	scn	ìdulu	n-m	spa	ídolo	n$n-m$n-m-ND
+LR	scn	ìnnici	n-m	spa	ídolo	n$n-m$n-m-ND
 	scn	òbbrigu	n-m	spa	obligación	n$n-f$n-f-sg
 	scn	òmunu	n-m	spa	hombre	n-m$n$n-m-sg$
 	scn	ùcciula	n-m	spa	úlcera	n-f$n
@@ -4343,7 +4343,7 @@ LR	scn	ìnnici	n-m	spa	ídolo	n-m$n$n-m-ND
 	scn	acitu	n-m	spa	vinagre	n-m$n$n-m-sg
 	scn	aliva	n-f	spa	aceituna	n$n-f
 	scn	ammatticata	n-f	spa	ocasión	n$n-f$n-f-sg
-	scn	apa	n-f	spa	abeja	n$n-f$n-f-ND
+	scn	apa	n-f	spa	abeja	n-f$n$n-f-ND
 	scn	arcova	n-f	spa	alcoba	n$n-f$n-f-ND
 	scn	asempiu	n-m	spa	ejemplo	n-m$n$n-m-sg
 	scn	assegnu	n-m	spa	cheque	n$n-m
@@ -4360,7 +4360,7 @@ LR	scn	ìnnici	n-m	spa	ídolo	n-m$n$n-m-ND
 	scn	puvirtati	n-f	spa	pobreza	n$n-f$n-f-sg
 	scn	signa	n-f	spa	mono	n-m$n$n-m-sg
 	scn	signu	n-m	spa	signo	n-m$n$n-m-sg
-	scn	varca	n-f	spa	barca	n$n-f$n-f-ND
+	scn	varca	n-f	spa	barca	n-f$n$n-f-ND
 	scn	prucidura	n-f	spa	procedimiento	n-m$n$n-m-sg
 	scn	viali	n-m	spa	calle	n-f$n$n-f-ND
 	scn	signali	n-m	spa	señal	n-f$n$n-f-sg
@@ -4497,7 +4497,7 @@ LR	scn	gioia	n-f	spa	alegría	n-f$n$n-f-ND
 	scn	guadagnu	n-m	spa	ganancia	n-f$n$n-f-ND
 	scn	guarigioni	n-f	spa	recuperación	n-f$n$n-f-sg
 	scn	gullittina	n-f	spa	guillotina	n-f$n
-	scn	inga	n-m	spa	tinta	n$n-f$n-f-sg
+	scn	inga	n-m	spa	tinta	n-f$n$n-f-sg
 LR	scn	iovi	n-m-sg	spa	jueves	n-m-sp$n$n-m
 	scn	itali	n-m	spa	dedal	n-m$n
 	scn	iumenta	n-f	spa	yegua	n$n-f$n-f-ND
@@ -4672,7 +4672,7 @@ LR	scn	vermi	n-m	spa	gusano	n-m$n$n-m-ND
 	scn	lardu	n-m	spa	tocino	n-m$n
 	scn	margu	n-m	spa	atasco	n$n-m$n-m-ND
 	scn	tavuledda	n-f	spa	tabla	n$n-f$n-f-ND
-	scn	tila	n-f	spa	tela	n$n-f$n-f-ND
+	scn	tila	n-f	spa	tela	n-f$n$n-f-ND
 	scn	supportu	n-m	spa	soporte	n-m$n$n-m-sg
 	scn	armatura	n-f	spa	trama	n-f$n$n-f-ND
 	scn	unifurmitati	n-f	spa	uniformidad	n-f$n$n-f-sg
@@ -4683,7 +4683,7 @@ LR	scn	vermi	n-m	spa	gusano	n-m$n$n-m-ND
 	scn	ndaraturi	n-m	spa	pintor	n-m$n-m-ND
 	scn	nficcatura	n-f	spa	subterfugio	n-m$n
 	scn	pernu	n-m	spa	perno	n-m$n
-	scn	pidalinu	n-m	spa	brote	n-m$n
+	scn	pidalinu	n-m	spa	brote	n$n-m
 	scn	pintàgunu	n-m	spa	pentágono	n-m$n$n-m-sg
 	scn	pitigghiu	n-m	spa	trozo	n-m$n$n-m-ND
 	scn	pridicatu	n-m	spa	predicado	n-m$n
@@ -4697,7 +4697,7 @@ LR	scn	vermi	n-m	spa	gusano	n-m$n$n-m-ND
 	scn	scarafagghiu	n-m	spa	cucaracha	n$n-f$n-f-sg
 	scn	scassu	n-m	spa	agujero	n$n-m$n-m-ND
 	scn	sennu	n-m	spa	razón	n-f$n$n-f-sg
-	scn	taddu	n-m	spa	brote	n-m$n
+	scn	taddu	n-m	spa	brote	n$n-m
 	scn	virticchiu	n-m	spa	desmayo	n-m$n
 	scn	zàgara	n-f	spa	azahar	n-m$n
 	scn	truppu	n-m	spa	división	n-f$n$n-f-sg
@@ -4733,7 +4733,7 @@ LR	scn	sbrizza	n-f	spa	gota	n-f$n$n-f-ND
 	scn	prupòsitu	n-m	spa	propósito	n-m$n$n-m-ND
 	scn	satèlliti	n-m	spa	satélite	n$n-m$n-m-sg
 	scn	rinascita	n-f	spa	florecimiento	n-m$n$n-m-ND
-	scn	miràculu	n-m	spa	milagro	n$n-m$n-m-ND
+	scn	miràculu	n-m	spa	milagro	n-m$n$n-m-ND
 	scn	affisa	n-f	spa	ofensa	n$n-f$n-f-ND
 	scn	affucazzu	n-m	spa	ronquera	n$n-f
 	scn	amministìa	n-f	spa	amnistía	n$n-f$n-f-ND
@@ -4741,7 +4741,7 @@ LR	scn	sbrizza	n-f	spa	gota	n-f$n$n-f-ND
 	scn	bisitu	n-m	spa	luto	n$n-m$n-m-ND
 	scn	boria	n-f	spa	vanidad	n$n-f$n-f-sg
 	scn	bunazza	n-f	spa	bonanza	n$n-f$n-f-ND
-	scn	cannarozzu	n-m	spa	esófago	n$n-m
+	scn	cannarozzu	n-m	spa	esófago	n-m$n
 	scn	cannarozzu	n-m	spa	tráquea	n-f$n
 	scn	trachèa	n-f	spa	tráquea	n-f$n
 	scn	carrittera	n-f	spa	carretero	n$n-m
@@ -4814,7 +4814,7 @@ LR	scn	stigghiu	n-m	spa	instrumento	n-m$n$n-m-sg
 	scn	senziu	n-m	spa	ingenio	n-m$n$n-m-ND
 	scn	rispettu	n-m	spa	respeto	n$n-m$n-m-ND
 	scn	chiavi	n-f	spa	llave	n-f$n$n-f-ND
-	scn	parrata	n-f	spa	dialecto	n$n-m$n-m-ND
+	scn	parrata	n-f	spa	dialecto	n-m$n$n-m-ND
 	scn	cumpusizzioni	n-f	spa	composición	n-f$n$n-f-sg
 	scn	munti	n-m	spa	monte	n-m$n
 	scn	canali	n-m	spa	canal	n-m$n$n-m-sg
@@ -4839,7 +4839,7 @@ LR	scn	stigghiu	n-m	spa	instrumento	n-m$n$n-m-sg
 	scn	millenniu	n-m	spa	milenio	n-m$n$n-m-ND
 	scn	cardinali	n-m	spa	cardenal	n$n-m$n-m-ND
 	scn	latu	n-m	spa	lado	n-m$n$n-m-ND
-	scn	danti	n-m	spa	ciervo	n$n-m$n-m-sg
+	scn	danti	n-m	spa	ciervo	n-m$n$n-m-sg
 	scn	matrici	n-f	spa	iglesia	n$n-f$n-f-sg
 	scn	cultu	n-m	spa	culto	n-m$n$n-m-sg
 	scn	jucatura	n-f	spa	juego	n-m$n$n-m-sg
@@ -5158,9 +5158,9 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	cunchiusioni	n-m	spa	conclusión	n-f$n$n-f-sg
 	scn	ni	cnjcoo	spa	ni	cnjcoo
 	scn	però	cnjcoo	spa	pero	cnjcoo
-	scn	María	np-ant	spa	María	np$np-ant$np-ant-f$np-ant-f-sg
+	scn	María	np-ant	spa	María	np$np-ant$np-ant-f-sg$np-ant-f
 	scn	Maria	np-ant	spa	Maria	np$np-ant
-	scn	Jaime	np-ant	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg
+	scn	Jaime	np-ant	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m
 	scn	Giacomo	np-ant	spa	Giacomo	np-ant
 	scn	Cristu	np-ant	spa	Cristo	np$np-ant$np-ant-m
 	scn	Lorenzu	np-ant	spa	Lorenzo	np-ant$np$np-ant-m-sg
@@ -5177,20 +5177,20 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Antoniu	np-ant	spa	Antonio	np$np-ant$np-ant-m$np-ant-m-sg
 	scn	Mariu	np-ant	spa	Mario	np$np-ant$np-ant-m-sg
 	scn	Enricu	np-ant	spa	Enrique	np-ant$np$np-ant-m-sg
-	scn	Dionisiu	np-ant	spa	Dionisio	np-ant$np$np-ant-m
+	scn	Dionisiu	np-ant	spa	Dionisio	np-ant$np
 	scn	Giuliu	np-ant	spa	Julio	np$np-ant$np-ant-m-sg
 	scn	Eugeniu	np-ant	spa	Eugenio	np$np-ant
 	scn	Basiliu	np-ant	spa	Basilio	np$np-ant
 	scn	Gnazziu	np-ant	spa	Ignacio	np-ant$np
 	scn	Ciciruni	np-ant	spa	Cicerón	np$np-ant
-	scn	Claudiu	np-ant	spa	Claudio	np-ant$np$np-ant-m
+	scn	Claudiu	np-ant	spa	Claudio	np-ant$np
 	scn	Laura	np-ant	spa	Laura	np-ant$np$np-ant-f-sg
 	scn	Aristotili	np-ant	spa	Aristóteles	np$np-ant$np-ant-m
 	scn	Galileu	np-ant	spa	Galileo	np$np-ant
 	scn	Aristòtili	np-ant	spa	Aristóteles	np$np-ant$np-ant-m
 	scn	Sòcrati	np-ant	spa	Sócrates	np$np-ant$np-ant-m
 	scn	Platuni	np-ant	spa	Platón	np$np-ant$np-ant-m
-	scn	Tomasi	np-ant	spa	Tomás	np$np-ant$np-ant-m$np-ant-m-sg
+	scn	Tomasi	np-ant	spa	Tomás	np$np-ant$np-ant-m-sg
 	scn	Aquinu	np-ant	spa	Aquino	np-ant
 	scn	Voltaire	np-ant	spa	Voltaire	np$np-ant
 	scn	Plutinu	np-ant	spa	Plotino	np$np-ant
@@ -5206,7 +5206,7 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Emilia	np-ant	spa	Emilia	np$np-ant$np-ant-f-sg
 	scn	Virginia	np-ant	spa	Virginia	np-ant$np$np-ant-f-sg
 	scn	Victoria	np-ant	spa	Victoria	np-ant$np$np-ant-f-sg
-	scn	Asia	np-ant	spa	Asia	np-ant$np-ant-f-sg$np-ant-f
+	scn	Asia	np-ant	spa	Asia	np-ant$np-ant-f-sg
 	scn	Silvia	np-ant	spa	Silvia	np$np-ant
 	scn	Angela	np-ant	spa	Angela	np$np-ant$np-ant-f
 	scn	Isabella	np-ant	spa	Isabella	np-ant$np$np-ant-f-sg
@@ -5224,16 +5224,16 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Madonna	np-ant	spa	Madonna	np$np-ant
 	scn	Barbara	np-ant	spa	Barbara	np$np-ant$np-ant-f
 	scn	Clara	np-ant	spa	Clara	np-ant$np$np-ant-f-sg
-	scn	Sara	np-ant	spa	Sara	np$np-ant$np-ant-f$np-ant-f-sg
+	scn	Sara	np-ant	spa	Sara	np$np-ant$np-ant-f-sg
 	scn	Petra	np-ant	spa	Petra	np-ant$np-ant-f
 	scn	Laura	np-ant	spa	Laura	np-ant$np$np-ant-f-sg
-	scn	Teresa	np-ant	spa	Teresa	np$np-ant$np-ant-f
+	scn	Teresa	np-ant	spa	Teresa	np$np-ant
 	scn	Elisa	np-ant	spa	Elisa	np$np-ant$np-ant-f-sg
 	scn	Lisa	np-ant	spa	Lisa	np$np-ant
 	scn	Rosa	np-ant	spa	Rosa	np$np-ant$np-ant-f$np-ant-f-sg
 	scn	Margarita	np-ant	spa	Margarita	np$np-ant
 	scn	Rita	np-ant	spa	Rita	np$np-ant
-	scn	Marta	np-ant	spa	Marta	np$np-ant$np-ant-f
+	scn	Marta	np-ant	spa	Marta	np$np-ant
 	scn	Eva	np-ant	spa	Eva	np$np-ant$np-ant-f$np-ant-f-sg
 	scn	Alice	np-ant	spa	Alice	np-ant$np
 	scn	Felice	np-ant	spa	Felice	np-ant$np
@@ -5252,13 +5252,13 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Jean	np-ant	spa	Jean	np$np-ant
 	scn	Morgan	np-ant	spa	Morgan	np$np-ant
 	scn	Jan	np-ant	spa	Jan	np$np-ant
-	scn	Joan	np-ant	spa	Joan	np$np-ant$np-ant-m
-	scn	Carmen	np-ant	spa	Carmen	np-ant$np$np-ant-f$np-ant-f-sg
+	scn	Joan	np-ant	spa	Joan	np$np-ant
+	scn	Carmen	np-ant	spa	Carmen	np-ant$np$np-ant-f-sg
 	scn	Ann	np-ant	spa	Ann	np$np-ant
 	scn	Mar	np-ant	spa	Mar	np$np-ant
 	scn	Vladimir	np-ant	spa	Vladimir	np$np-ant$np-ant-m
 	scn	Taylor	np-ant	spa	Taylor	np$np-ant
-	scn	Lucas	np-ant	spa	Lucas	np$np-ant$np-ant-m$np-ant-m-sg
+	scn	Lucas	np-ant	spa	Lucas	np$np-ant$np-ant-m-sg
 	scn	Paris	np-ant	spa	Paris	np$np-ant
 	scn	Margaret	np-ant	spa	Margaret	np$np-ant
 	scn	Nancy	np-ant	spa	Nancy	np-ant$np
@@ -5271,7 +5271,7 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Elia	np-ant	spa	Elia	np$np-ant
 	scn	Nicola	np-ant	spa	Nicola	np-ant
 	scn	Bob	np-ant	spa	Bob	np$np-ant$np-ant-m
-	scn	Isaac	np-ant	spa	Isaac	np-ant$np$np-ant-m
+	scn	Isaac	np-ant	spa	Isaac	np-ant$np
 	scn	Eric	np-ant	spa	Eric	np$np-ant
 	scn	Muhammad	np-ant	spa	Muhammad	np$np-ant
 	scn	Mohammed	np-ant	spa	Mohammed	np$np-ant
@@ -5300,7 +5300,7 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Charlie	np-ant	spa	Charlie	np-ant$np
 	scn	Mike	np-ant	spa	Mike	np$np-ant
 	scn	Michele	np-ant	spa	Michele	np-ant$np
-	scn	Daniele	np-ant	spa	Daniele	np-ant$np$np-ant-f
+	scn	Daniele	np-ant	spa	Daniele	np-ant$np
 	scn	Simone	np-ant	spa	Simone	np-ant$np
 	scn	Stone	np-ant	spa	Stone	np$np-ant
 	scn	Joe	np-ant	spa	Joe	np$np-ant
@@ -5325,11 +5325,11 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Mark	np-ant	spa	Mark	np$np-ant
 	scn	Rafael	np-ant	spa	Rafael	np$np-ant$np-ant-m$np-ant-m-sg
 	scn	Michael	np-ant	spa	Michael	np$np-ant
-	scn	Abel	np-ant	spa	Abel	np$np-ant$np-ant-m$np-ant-m-sg
+	scn	Abel	np-ant	spa	Abel	np$np-ant$np-ant-m-sg
 	scn	Marcel	np-ant	spa	Marcel	np$np-ant$np-ant-m
 	scn	Fidel	np-ant	spa	Fidel	np$np-ant
 	scn	Michel	np-ant	spa	Michel	np$np-ant
-	scn	Daniel	np-ant	spa	Daniel	np$np-ant$np-ant-m$np-ant-m-sg
+	scn	Daniel	np-ant	spa	Daniel	np$np-ant$np-ant-m-sg
 	scn	Miguel	np-ant	spa	Miguel	np$np-ant$np-ant-m$np-ant-m-sg
 	scn	Manuel	np-ant	spa	Manuel	np-ant$np$np-ant-m-sg
 	scn	Marshall	np-ant	spa	Marshall	np$np-ant
@@ -5358,7 +5358,7 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Alan	np-ant	spa	Alan	np-ant$np$np-ant-m$np-ant-m-sg
 	scn	Dylan	np-ant	spa	Dylan	np-ant$np
 	scn	Roman	np-ant	spa	Roman	np$np-ant$np-ant-m
-	scn	Joan	np-ant	spa	Joan	np$np-ant$np-ant-m
+	scn	Joan	np-ant	spa	Joan	np$np-ant
 	scn	Hassan	np-ant	spa	Hassan	np$np-ant
 	scn	Juan	np-ant	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg
 	scn	Ivan	np-ant	spa	Ivan	np$np-ant$np-ant-m
@@ -5386,7 +5386,7 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Franco	np-ant	spa	Franco	np$np-ant$np-ant-m
 	scn	Marco	np-ant	spa	Marco	np-ant$np$np-ant-m-sg
 	scn	Francesco	np-ant	spa	Francesco	np$np-ant
-	scn	Francisco	np-ant	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg
+	scn	Francisco	np-ant	spa	Francisco	np-ant$np$np-ant-m-sg
 	scn	Fernando	np-ant	spa	Fernando	np$np-ant$np-ant-m-sg
 	scn	Leonardo	np-ant	spa	Leonardo	np$np-ant$np-ant-m-sg
 	scn	Leo	np-ant	spa	Leo	np-ant$np
@@ -5397,20 +5397,20 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Ugo	np-ant	spa	Ugo	np-ant
 	scn	Hugo	np-ant	spa	Hugo	np$np-ant$np-ant-m-sg
 	scn	Fabio	np-ant	spa	Fabio	np$np-ant
-	scn	Claudio	np-ant	spa	Claudio	np-ant$np$np-ant-m
+	scn	Claudio	np-ant	spa	Claudio	np-ant$np
 	scn	Giorgio	np-ant	spa	Giorgio	np$np-ant
 	scn	Antonio	np-ant	spa	Antonio	np$np-ant$np-ant-m$np-ant-m-sg
 	scn	Mario	np-ant	spa	Mario	np$np-ant$np-ant-m-sg
 	scn	Tiudoru	np-ant	spa	Teodoro	np$np-ant
 	scn	Archimedi	np-ant	spa	Arquímedes	np-ant$np
-	scn	Pablo	np-ant	spa	Pablo	np-ant$np$np-ant-m$np-ant-m-sg
+	scn	Pablo	np-ant	spa	Pablo	np-ant$np$np-ant-m-sg
 	scn	Carmelo	np-ant	spa	Carmelo	np$np-ant
 	scn	Marcello	np-ant	spa	Marcello	np-ant$np
 	scn	Paolo	np-ant	spa	Paolo	np$np-ant
 	scn	Niccolò	np-ant	spa	Nicolás	np-ant$np$np-ant-m-sg
 	scn	Nicolò	np-ant	spa	Nicolás	np-ant$np$np-ant-m-sg
 	scn	Carlo	np-ant	spa	Carlo	np-ant$np
-	scn	Paulo	np-ant	spa	Paulo	np$np-ant$np-ant-m
+	scn	Paulo	np-ant	spa	Paulo	np$np-ant
 	scn	Giacomo	np-ant	spa	Giacomo	np-ant
 	scn	Stefano	np-ant	spa	Stefano	np-ant$np
 	scn	Adriano	np-ant	spa	Adriano	np$np-ant
@@ -5418,7 +5418,7 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Agostino	np-ant	spa	Agostino	np-ant$np
 	scn	Bruno	np-ant	spa	Bruno	np$np-ant
 	scn	Filippo	np-ant	spa	Filippo	np-ant$np
-	scn	Pedro	np-ant	spa	Pedro	np$np-ant$np-ant-m$np-ant-m-sg
+	scn	Pedro	np-ant	spa	Pedro	np$np-ant$np-ant-m-sg
 	scn	Alessandro	np-ant	spa	Alessandro	np-ant$np
 	scn	Pietro	np-ant	spa	Pietro	np-ant$np
 	scn	Benito	np-ant	spa	Benito	np$np-ant
@@ -5440,16 +5440,16 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Salvador	np-ant	spa	Salvador	np$np-ant$np-ant-m-sg
 	scn	Taylor	np-ant	spa	Taylor	np$np-ant
 	scn	Arthur	np-ant	spa	Arthur	np$np-ant
-	scn	Lucas	np-ant	spa	Lucas	np$np-ant$np-ant-m$np-ant-m-sg
+	scn	Lucas	np-ant	spa	Lucas	np$np-ant$np-ant-m-sg
 	scn	Dallas	np-ant	spa	Dallas	np$np-ant
-	scn	Nicolas	np-ant	spa	Nicolas	np$np-ant$np-ant-m
+	scn	Nicolas	np-ant	spa	Nicolas	np$np-ant
 	scn	Nicholas	np-ant	spa	Nicholas	np$np-ant
 	scn	Thomas	np-ant	spa	Thomas	np$np-ant
 	scn	Georges	np-ant	spa	Georges	np$np-ant
 	scn	Charles	np-ant	spa	Charles	np$np-ant
 	scn	James	np-ant	spa	James	np$np-ant$np-ant-m
 	scn	Jacques	np-ant	spa	Jacques	np$np-ant
-	scn	Francis	np-ant	spa	Francis	np-ant$np$np-ant-m
+	scn	Francis	np-ant	spa	Francis	np-ant$np
 	scn	Denis	np-ant	spa	Denis	np$np-ant
 	scn	Dennis	np-ant	spa	Dennis	np$np-ant
 	scn	François	np-ant	spa	François	np$np-ant
@@ -5490,18 +5490,18 @@ LR	scn	gistioni	n-f	spa	gestión	n-f$n$n-f-sg
 	scn	Binidittu	np-ant	spa	Benito	np$np-ant
 	scn	Tulumeu	np-ant	spa	Ptolomeo	np$np-ant$np-ant-m
 	scn	Casanova	np-ant	spa	Casanova	np$np-ant
-	scn	Diunisiu	np-ant	spa	Dionisio	np-ant$np$np-ant-m
+	scn	Diunisiu	np-ant	spa	Dionisio	np-ant$np
 	scn	Fermi	np-ant	spa	Fermi	np-ant
 	scn	Stefanu	np-ant	spa	Stefano	np-ant$np
 	scn	Riccardu	np-ant	spa	Ricardo	np$np-ant$np-ant-m-sg
 	scn	Richards	np-ant	spa	Richards	np-ant
-	scn	Luciu	np-ant	spa	Lucio	np$np-ant$np-ant-m
+	scn	Luciu	np-ant	spa	Lucio	np$np-ant
 	scn	Hussein	np-ant	spa	Hussein	np$np-ant
 	scn	Gugghiermu	np-ant	spa	Guillermo	np-ant$np$np-ant-m-sg
 	scn	Alissandru	np-ant	spa	Alejandro	np-ant$np$np-ant-m$np-ant-m-sg
 	scn	Lennon	np-ant	spa	Lennon	np$np-ant
 	scn	Sergiu	np-ant	spa	Sergio	np-ant$np$np-ant-m$np-ant-m-sg
-	scn	Paulu	np-ant	spa	Pablo	np-ant$np$np-ant-m$np-ant-m-sg
+	scn	Paulu	np-ant	spa	Pablo	np-ant$np$np-ant-m-sg
 	scn	Shakespeare	np-ant	spa	Shakespeare	np$np-ant
 	scn	Micheli	np-ant	spa	Michele	np-ant$np
 	scn	Eduardu	np-ant	spa	Eduardo	np$np-ant$np-ant-m-sg
@@ -5529,7 +5529,7 @@ LR	scn	Garibbardi	np-ant	spa	Garibaldi	np$np-ant
 	scn	Ruggeru	np-ant	spa	Roger	np$np-ant
 	scn	Faraday	np-ant	spa	Faraday	np-ant
 	scn	Piu	np-ant	spa	Pío	np$np-ant
-	scn	Franciscu	np-ant	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg
+	scn	Franciscu	np-ant	spa	Francisco	np-ant$np$np-ant-m-sg
 	scn	Alfonsu	np-ant	spa	Alfonso	np-ant$np
 	scn	Firdinannu	np-ant	spa	Ferdinando	np-ant
 	scn	Rubbertu	np-ant	spa	Roberto	np$np-ant$np-ant-m-sg
@@ -5614,7 +5614,7 @@ RL	scn	Carlu	np-ant	spa	Carlomagno	np-ant$np
 	scn	Caronda	np-ant	spa	Carondas	np-ant
 	scn	Cartesiu	np-ant	spa	René	np$np-ant
 	scn	Carwyn	np-ant	spa	Carwyn	np-ant
-	scn	Catirina	np-ant	spa	Catalina	np$np-ant$np-ant-f
+	scn	Catirina	np-ant	spa	Catalina	np-ant$np$np-ant-f
 	scn	Cesare	np-ant	spa	Cesare	np-ant
 	scn	Charlotte	np-ant	spa	Carlota	np$np-ant
 	scn	Chen	np-ant	spa	Chen	np-ant
@@ -5625,7 +5625,7 @@ RL	scn	Carlu	np-ant	spa	Carlomagno	np-ant$np
 	scn	Christiaan	np-ant	spa	Christiaan	np-ant
 	scn	Christine	np-ant	spa	Christine	np-ant$np
 	scn	Chuck	np-ant	spa	Chuck	np-ant$np
-LR	scn	Ciccu	np-ant	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg
+LR	scn	Ciccu	np-ant	spa	Francisco	np-ant$np$np-ant-m-sg
 	scn	Cilistinu	np-ant	spa	Celestino	np$np-ant
 	scn	Cilla	np-ant	spa	Cilla	np-ant
 	scn	Cimabui	np-ant	spa	Cimabue	np-ant
@@ -5637,12 +5637,12 @@ LR	scn	Ciccu	np-ant	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg
 	scn	Clotariu	np-ant	spa	Clotario	np-ant
 	scn	Cludiuni	np-ant	spa	Clodión	np-ant
 	scn	Cluduveu	np-ant	spa	Clodoveo	np-ant
-	scn	Corneliu	np-ant	spa	Cornelio	np-ant$np-ant-m
+	scn	Corneliu	np-ant	spa	Cornelio	np-ant
 	scn	Corrado	np-ant	spa	Corrado	np-ant$np
 LR	scn	Correggiu	np-ant	spa	Antonio	np$np-ant$np-ant-m$np-ant-m-sg
 	scn	Cunfuciu	np-ant	spa	Confucio	np-ant$np
 	scn	Cununi	np-ant	spa	Conón	np-ant
-	scn	Curneliu	np-ant	spa	Cornelio	np-ant$np-ant-m
+	scn	Curneliu	np-ant	spa	Cornelio	np-ant
 	scn	Curradinu	np-ant	spa	Conradino	np-ant
 	scn	Curradu	np-ant	spa	Conrado	np-ant$np
 	scn	Currau	np-ant	spa	Corrado	np-ant$np
@@ -5659,7 +5659,7 @@ LR	scn	Dan	np-ant	spa	Dan	np-ant$np
 	scn	Diofantu	np-ant	spa	Diofanto	np-ant
 LR	scn	Dioggini	np-ant	spa	Diógenes	np-ant$np
 	scn	Dioni	np-ant	spa	Dion	np-ant$np
-	scn	Dionigi	np-ant	spa	Dionisio	np-ant$np$np-ant-m
+	scn	Dionigi	np-ant	spa	Dionisio	np-ant$np
 	scn	Diudoru	np-ant	spa	Diodoro	np-ant
 	scn	Domenico	np-ant	spa	Domenico	np-ant$np
 	scn	Donatu	np-ant	spa	Donato	np-ant$np
@@ -5697,21 +5697,21 @@ LR	scn	Edmond	np-ant	spa	Edmund	np$np-ant
 	scn	Farinelli	np-ant	spa	Farinelli	np-ant
 	scn	Fats	np-ant	spa	Fats	np-ant
 	scn	Faustu	np-ant	spa	Fausto	np$np-ant
-	scn	Fedru	np-ant	spa	Gayo	np-ant$np-ant-m
+	scn	Fedru	np-ant	spa	Gayo	np-ant
 	scn	Felix	np-ant	spa	Felix	np$np-ant
 	scn	Ferdinand	np-ant	spa	Ferdinand	np-ant$np
 	scn	Fernand	np-ant	spa	Fernand	np$np-ant
 	scn	Fidia	np-ant	spa	Fidias	np$np-ant
 	scn	Filimer	np-ant	spa	Filimer	np-ant
-	scn	Filippu	np-ant	spa	Felipe	np-ant$np$np-ant-m$np-ant-m-sg
-RL	scn	Filippu	np-ant	spa	Filipo	np-ant$np$np-ant-m
+	scn	Filippu	np-ant	spa	Felipe	np-ant$np$np-ant-m-sg
+RL	scn	Filippu	np-ant	spa	Filipo	np-ant$np
 RL	scn	Filippu	np-ant	spa	Filippo	np-ant$np
 	scn	Flaviu	np-ant	spa	Flavio	np-ant$np
 LR	scn	Francescu	np-ant	spa	Francesco	np$np-ant
-LR	scn	Francischieddu	np-ant	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg
+LR	scn	Francischieddu	np-ant	spa	Francisco	np-ant$np$np-ant-m-sg
 	scn	Frida	np-ant	spa	Frida	np-ant$np
-LR	scn	Fulippu	np-ant	spa	Felipe	np-ant$np$np-ant-m$np-ant-m-sg
-	scn	Gabriel	np-ant	spa	Gabriel	np$np-ant$np-ant-m$np-ant-m-sg
+LR	scn	Fulippu	np-ant	spa	Felipe	np-ant$np$np-ant-m-sg
+	scn	Gabriel	np-ant	spa	Gabriel	np$np-ant$np-ant-m-sg
 	scn	Gabrieli	np-ant	spa	Gabriele	np-ant
 	scn	Gabriella	np-ant	spa	Gabriella	np-ant
 RL	scn	Gaetano	np-ant	spa	Gaetano	np-ant
@@ -5736,7 +5736,7 @@ LR	scn	Giannuminicu	np-ant	spa	Giovanni	np$np-ant
 	scn	Giuseppi	np-ant	spa	Giuseppe	np-ant$np
 	scn	Giustinianu	np-ant	spa	Justiniano	np-ant
 	scn	Giusy	np-ant	spa	Giusy	np-ant
-	scn	Giuvanna	np-ant	spa	Juana	np-ant$np$np-ant-f
+	scn	Giuvanna	np-ant	spa	Juana	np-ant$np
 	scn	Giuvianu	np-ant	spa	Joviano	np-ant
 	scn	Glenda	np-ant	spa	Glenda	np-ant
 	scn	Godfrey	np-ant	spa	Godfrey	np$np-ant
@@ -5768,7 +5768,7 @@ LR	scn	Giannuminicu	np-ant	spa	Giovanni	np$np-ant
 	scn	Isabel	np-ant	spa	Isabel	np$np-ant$np-ant-f-sg
 	scn	Isidoru	np-ant	spa	Isidoro	np$np-ant
 	scn	Italu	np-ant	spa	Italo	np-ant
-	scn	Jacobbi	np-ant	spa	Jacob	np-ant$np$np-ant-m
+	scn	Jacobbi	np-ant	spa	Jacob	np-ant$np
 	scn	Jakob	np-ant	spa	Jakob	np-ant$np-ant-m
 	scn	Janis	np-ant	spa	Janis	np-ant
 	scn	Jill	np-ant	spa	Jill	np-ant
@@ -5940,7 +5940,7 @@ LR	scn	Vicenzu	np-ant	spa	Vincenzo	np-ant$np
 	scn	Atlanta	np-top	spa	Atlanta	np$np-loc$np-loc-f
 	scn	Ocèanu Atlànticu	np-top	spa	Atlántico	np$np-loc$np-loc-m
 	scn	Auckland	np-top	spa	Auckland	np$np-loc
-	scn	Australia	np-top	spa	Australia	np-loc$np-loc-f
+	scn	Australia	np-top	spa	Australia	np$np-loc$np-loc-f
 	scn	Austria	np-top	spa	Austria	np$np-loc$np-loc-f
 	scn	Alvernia	np-top	spa	Auvernia	np$np-loc
 	scn	Auxerre	np-top	spa	Auxerre	np$np-loc
@@ -6022,7 +6022,7 @@ LR	scn	Vicenzu	np-ant	spa	Vincenzo	np-ant$np
 	scn	Cambridge	np-top	spa	Cambridge	np$np-loc$np-loc-m
 	scn	Camerun	np-top	spa	Camerún	np-loc$np-loc-m
 	scn	Campania	np-top	spa	Campania	np$np-loc
-	scn	Canadà	np-top	spa	Canadá	np$np-loc-m$np-loc
+	scn	Canadà	np-top	spa	Canadá	np-loc-m$np-loc
 	scn	Ìsuli Canarii	np-top	spa	Canarias	np$np-loc$np-loc-f
 	scn	Canberra	np-top	spa	Canberra	np$np-loc
 	scn	Cancún	np-top	spa	Cancún	np$np-loc$np-loc-m
@@ -6074,9 +6074,9 @@ LR	scn	Vicenzu	np-ant	spa	Vincenzo	np-ant$np
 	scn	Curnuvagghia	np-top	spa	Cornualles	np$np-loc
 	scn	Côte d'Ivoire	np-top	spa	Costa de Marfil	np$np-loc$np-loc-f
 	scn	Costa Rica	np-top	spa	Costa Rica	np$np-loc-f$np-loc
-	scn	Crita	np-top	spa	Creta	np$np-loc
+	scn	Crita	np-top	spa	Creta	np-loc
 	scn	Croazzia	np-top	spa	Croacia	np$np-loc$np-loc-f
-	scn	Cubba	np-top	spa	Cuba	np-loc$np-loc-f
+	scn	Cubba	np-top	spa	Cuba	np$np-loc$np-loc-f
 	scn	Cuneu	np-top	spa	Cuneo	np$np-loc
 	scn	Kurdistan	np-top	spa	Curdistán	np-loc$np
 	scn	Dacca	np-top	spa	Dacca	np$np-loc
@@ -6115,7 +6115,7 @@ LR	scn	Vicenzu	np-ant	spa	Vincenzo	np-ant$np
 	scn	Scozzia	np-top	spa	Escocia	np$np-loc$np-loc-f
 	scn	Slovacchia	np-top	spa	Eslovaquia	np$np-loc$np-loc-f
 	scn	Slovenia	np-top	spa	Eslovenia	np$np-loc$np-loc-f
-	scn	Spagna	np-top	spa	España	np-loc$np-loc-f
+	scn	Spagna	np-top	spa	España	np$np-loc$np-loc-f
 	scn	Stati Fidirati di Micronesia	np-top	spa	Estados Federados de Micronesia	np$np-loc
 	scn	Stati Uniti	np-top	spa	Estados Unidos	np$np-loc$np-loc-m$np-loc-m-pl
 	scn	Istanbul	np-top	spa	Estambul	np$np-loc$np-loc-m
@@ -6151,7 +6151,7 @@ LR	scn	Vicenzu	np-ant	spa	Vincenzo	np-ant$np
 	scn	Gent	np-top	spa	Gante	np$np-loc$np-loc-m
 	scn	Gard	np-top	spa	Gard	np$np-loc
 	scn	Gascògna	np-top	spa	Gascuña	np$np-loc$np-loc-f
-	scn	Gaza	np-top	spa	Gaza	np$np-loc$np-loc-f
+	scn	Gaza	np-top	spa	Gaza	np-loc
 	scn	Dànzica	np-top	spa	Gdansk	np-loc$np
 	scn	Gènuva	np-top	spa	Génova	np$np-loc$np-loc-f
 	scn	Giorgia	np-top	spa	Georgia	np-loc$np$np-loc-f
@@ -6327,7 +6327,7 @@ RL	scn	Mèssicu	np-top	spa	Méjico	np-loc$np-loc-m
 	scn	Melilla	np-top	spa	Melilla	np$np-loc$np-loc-f
 	scn	Minorca	np-top	spa	Menorca	np$np-loc$np-loc-f
 	scn	Missina	np-top	spa	Mesina	np-loc$np
-	scn	Mesopotamia	np-top	spa	Mesopotamia	np$np-loc$np-loc-f
+	scn	Mesopotamia	np-top	spa	Mesopotamia	np-loc$np-loc-f
 	scn	Mèssicu	np-top	spa	México	np-loc$np-loc-m
 	scn	Miami	np-top	spa	Miami	np-loc$np$np-loc-f
 	scn	Michigan	np-top	spa	Michigan	np$np-loc
@@ -6418,7 +6418,7 @@ RL	scn	Mississippi	np-top	spa	Misisipí	np$np-loc$np-loc-m
 	scn	San Pietruburgu	np-top	spa	Petrogrado	np$np-loc
 	scn	Phnom Penh	np-top	spa	Phnom Penh	np$np-loc
 	scn	Piemunti	np-top	spa	Piamonte	np$np-loc
-	scn	Pirinèi	np-top	spa	Pirineo	np-loc$np$np-loc-m-sg
+	scn	Pirinèi	np-top	spa	Pirineo	np$np-loc$np-loc-m-sg
 	scn	Pirinèi	np-top	spa	Pirineos	np$np-loc$np-loc-m$np-loc-m-pl
 	scn	Pisa	np-top	spa	Pisa	np-loc$np-loc-f
 	scn	Pitcairn	np-top	spa	Pitcairn	np$np-loc
@@ -6503,13 +6503,13 @@ RL	scn	Mississippi	np-top	spa	Misisipí	np$np-loc$np-loc-m
 	scn	Swaziland	np-top	spa	Suazilandia	np-loc$np-loc-f
 	scn	Marvasìa	np-top	spa	Subirat	np$np-loc
 	scn	Àfrica dû Sud	np-top	spa	Sudáfrica	np-loc$np-loc-f
-	scn	Amèrica dû Sud	np-top	spa	Sudamérica	np$np-loc$np-loc-f
+	scn	Amèrica dû Sud	np-top	spa	Sudamérica	np-loc$np-loc-f
 	scn	Sudan	np-top	spa	Sudán	np-loc$np-loc-m
 	scn	Svezzia	np-top	spa	Suecia	np$np-loc$np-loc-f
 	scn	Svìzzira	np-top	spa	Suiza	np$np-loc$np-loc-f
 	scn	Sumatra	np-top	spa	Sumatra	np$np-loc
 	scn	Àfrica dû Sud	np-top	spa	Suráfrica	np-loc$np$np-loc-f
-	scn	Amèrica dû Sud	np-top	spa	Suramérica	np$np-loc
+	scn	Amèrica dû Sud	np-top	spa	Suramérica	np-loc
 	scn	Surinami	np-top	spa	Surinam	np-loc$np-loc-m
 	scn	Svalbard	np-top	spa	Svalbard	np$np-loc
 	scn	Swaziland	np-top	spa	Swazilandia	np-loc$np-loc-f
@@ -6534,7 +6534,7 @@ RL	scn	Mississippi	np-top	spa	Misisipí	np$np-loc$np-loc-m
 	scn	Tennessee	np-top	spa	Tennessee	np$np-loc$np-loc-m
 	scn	Terrassa	np-top	spa	Terrassa	np$np-loc$np-loc-f
 	scn	Teruel	np-top	spa	Teruel	np$np-loc$np-loc-f
-	scn	Saluniccu	np-top	spa	Tesalónica	np$np-loc
+	scn	Saluniccu	np-top	spa	Tesalónica	np-loc
 	scn	Texas	np-top	spa	Texas	np$np-loc-m$np-loc
 	scn	Thimphu	np-top	spa	Thimbu	np$np-loc
 	scn	Tibet	np-top	spa	Tíbet	np$np-loc
@@ -6563,7 +6563,7 @@ RL	scn	Mississippi	np-top	spa	Misisipí	np$np-loc$np-loc-m
 	scn	Ucraina	np-top	spa	Ucrania	np$np-loc$np-loc-f
 	scn	Uganna	np-top	spa	Uganda	np$np-loc$np-loc-f
 	scn	Ulan Bator	np-top	spa	Ulan Bator	np$np-loc
-	scn	Uruguai	np-top	spa	Uruguay	np-loc$np-loc-m
+	scn	Uruguai	np-top	spa	Uruguay	np$np-loc$np-loc-m
 	scn	Utah	np-top	spa	Utah	np$np-loc-f$np-loc
 	scn	Uzbekistan	np-top	spa	Uzbekistán	np$np-loc$np-loc-m
 	scn	Vaduz	np-top	spa	Vaduz	np$np-loc
@@ -6631,7 +6631,7 @@ RL	scn	Mississippi	np-top	spa	Misisipí	np$np-loc$np-loc-m
 	scn	Einstein	np-cog	spa	Einstein	np$np-ant
 	scn	Obama	np-cog	spa	Obama	np$np-ant
 	scn	Nobel	np-cog	spa	Nobel	np-al$np-al-mf
-	scn	Gesù	np-ant	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg
+	scn	Gesù	np-ant	spa	Jesús	np$np-ant$np-ant-m-sg
 	scn	Wikipedia	np-al	spa	Wikipedia	np-al$np$np-al-mf
 	scn	Firefox	np-al	spa	Firefox	np$np-al
 	scn	Salvu	np-ant	spa	Salvador	np$np-ant$np-ant-m-sg
@@ -6940,7 +6940,7 @@ LR	scn	granni	adj-mf-sp	spa	grande	adj-mf$adj$adj-mf-ND$
 	scn	santu	adj	spa	santo	adj$adj-GD-ND
 	scn	priscrittivu	adj	spa	prescriptivo	adj$adj-m-sg
 	scn	àutru	adj-ind	spa	otro	adj$adj-ind-GD$adj-ind$adj-ind-GD-pl
-	scn	qualchi	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+	scn	qualchi	det-ind	spa	alguno	det-ind$det$det-ind-m-pl$det-ind-m
 	scn	argumentativu	adj	spa	argumentativo	adj
 	scn	rigurusu	adj	spa	riguroso	adj$adj-GD-ND
 	scn	apertu	adj	spa	abierto	adj$adj-GD-ND$
@@ -8042,9 +8042,9 @@ RL	scn	maniscu	adj-GD	spa	manejable	adj-mf$adj$adj-mf-sg
 LR	scn	marginalizzatu	adj-m	spa	marginal	adj-mf$adj$adj-mf-ND
 LR	scn	marginalizzatu	adj-f	spa	marginal	adj-mf$adj$adj-mf-ND
 RL	scn	marginalizzatu	adj-GD	spa	marginal	adj-mf$adj$adj-mf-ND
-LR	scn	marticanu	adj-m	spa	marrón	adj$adj-mf$adj-mf-ND$
-LR	scn	marticanu	adj-f	spa	marrón	adj$adj-mf$adj-mf-ND$
-RL	scn	marticanu	adj-GD	spa	marrón	adj$adj-mf$adj-mf-ND$
+LR	scn	marticanu	adj-m	spa	marrón	adj-mf$adj$adj-mf-ND$
+LR	scn	marticanu	adj-f	spa	marrón	adj-mf$adj$adj-mf-ND$
+RL	scn	marticanu	adj-GD	spa	marrón	adj-mf$adj$adj-mf-ND$
 LR	scn	matutinu	adj-m	spa	matinal	adj-mf$adj
 LR	scn	matutinu	adj-f	spa	matinal	adj-mf$adj
 RL	scn	matutinu	adj-GD	spa	matinal	adj-mf$adj
@@ -8741,10 +8741,10 @@ RL	scn	ntigrali	adj-mf-sp	spa	integral	adj-mf-sg
 LR	scn	ntillittuali	adj-mf-sp	spa	intelectual	adj-mf$adj$adj-mf-ND
 RL	scn	ntillittuali	adj-mf-sp	spa	intelectual	adj-mf-pl
 RL	scn	ntillittuali	adj-mf-sp	spa	intelectual	adj-mf-sg
-LR	scn	ntilliggenti	adj-mf-sp	spa	inteligente	adj-mf$adj-mf-ND$adj
+LR	scn	ntilliggenti	adj-mf-sp	spa	inteligente	adj-mf$adj$adj-mf-ND
 RL	scn	ntilliggenti	adj-mf-sp	spa	inteligente	adj-mf-pl
 RL	scn	ntilliggenti	adj-mf-sp	spa	inteligente	adj-mf-sg
-LR	scn	ntilligenti	adj-mf-sp	spa	inteligente	adj-mf$adj-mf-ND$adj
+LR	scn	ntilligenti	adj-mf-sp	spa	inteligente	adj-mf$adj$adj-mf-ND
 RL	scn	ntilligenti	adj-mf-sp	spa	inteligente	adj-mf-pl
 RL	scn	ntilligenti	adj-mf-sp	spa	inteligente	adj-mf-sg
 LR	scn	ntirissanti	adj-mf-sp	spa	interesante	adj-mf-ND
@@ -8828,7 +8828,7 @@ RL	scn	manuali	adj-mf-sp	spa	manual	adj-mf-sg
 LR	scn	marziali	adj-mf-sp	spa	marcial	adj-mf-ND
 RL	scn	marziali	adj-mf-sp	spa	marcial	adj-mf-pl
 RL	scn	marziali	adj-mf-sp	spa	marcial	adj$adj-mf$adj-mf-sg
-LR	scn	marruni	adj-mf-sp	spa	marrón	adj$adj-mf$adj-mf-ND$
+LR	scn	marruni	adj-mf-sp	spa	marrón	adj-mf$adj$adj-mf-ND$
 RL	scn	marruni	adj-mf-sp	spa	marrón	adj-mf-pl
 RL	scn	marruni	adj-mf-sp	spa	marrón	adj-mf-sg
 LR	scn	materiali	adj-mf-sp	spa	material	adj-mf-ND
@@ -8883,7 +8883,7 @@ LR	scn	nascenti	adj-mf-sp	spa	naciente	adj-mf-ND
 RL	scn	nascenti	adj-mf-sp	spa	naciente	adj-mf-pl
 RL	scn	nascenti	adj-mf-sp	spa	naciente	adj$adj-mf-sg
 LR	scn	nazziunali	adj-mf-sp	spa	nacional	adj-mf-ND
-RL	scn	nazziunali	adj-mf-sp	spa	nacional	adj$adj-mf$adj-mf-pl
+RL	scn	nazziunali	adj-mf-sp	spa	nacional	adj-mf$adj$adj-mf-pl
 RL	scn	nazziunali	adj-mf-sp	spa	nacional	adj-mf-sg
 LR	scn	nasali	adj-mf-sp	spa	nasal	adj-mf-ND
 RL	scn	nasali	adj-mf-sp	spa	nasal	adj-mf-pl
@@ -8919,7 +8919,7 @@ LR	scn	occidintali	adj-mf-sp	spa	occidental	adj-mf-ND
 RL	scn	occidintali	adj-mf-sp	spa	occidental	adj-mf-pl
 RL	scn	occidintali	adj-mf-sp	spa	occidental	adj-mf$adj$adj-mf-sg
 LR	scn	ufficiali	adj-mf-sp	spa	oficial	adj-mf-ND
-RL	scn	ufficiali	adj-mf-sp	spa	oficial	adj$adj-mf$adj-mf-pl
+RL	scn	ufficiali	adj-mf-sp	spa	oficial	adj-mf$adj$adj-mf-pl
 RL	scn	ufficiali	adj-mf-sp	spa	oficial	adj-mf-sg
 LR	scn	urali	adj-mf-sp	spa	oral	adj-mf-ND
 RL	scn	urali	adj-mf-sp	spa	oral	adj-mf-pl
@@ -9143,7 +9143,7 @@ RL	scn	suppurtàbili	adj-mf-sp	spa	soportable	adj$adj-mf-sg$adj-mf
 LR	scn	turduni	adj-mf-sp	spa	torpe	adj-mf$adj$adj-mf-ND
 RL	scn	turduni	adj-mf-sp	spa	torpe	adj-mf-pl
 RL	scn	turduni	adj-mf-sp	spa	torpe	adj-mf-sg
-LR	scn	miti	adj-mf-sp	spa	suave	adj-mf$adj-mf-ND$adj
+LR	scn	miti	adj-mf-sp	spa	suave	adj-mf$adj$adj-mf-ND
 RL	scn	miti	adj-mf-sp	spa	suave	adj-mf-pl
 RL	scn	miti	adj-mf-sp	spa	suave	adj-mf-sg
 LR	scn	sufficienti	adj-mf-sp	spa	suficiente	adj$adj-mf$adj-mf-ND
@@ -9402,10 +9402,10 @@ LR	scn	essenziali	adj-mf-sp	spa	esencial	adj$adj-mf$adj-mf-ND
 RL	scn	essenziali	adj-mf-sp	spa	esencial	adj-mf-pl
 RL	scn	essenziali	adj-mf-sp	spa	esencial	adj-mf-sg
 LR	scn	ufficiali	adj-mf-sp	spa	oficial	adj-mf-ND
-RL	scn	ufficiali	adj-mf-sp	spa	oficial	adj$adj-mf$adj-mf-pl
+RL	scn	ufficiali	adj-mf-sp	spa	oficial	adj-mf$adj$adj-mf-pl
 RL	scn	ufficiali	adj-mf-sp	spa	oficial	adj-mf-sg
 LR	scn	nazziunali	adj-mf-sp	spa	nacional	adj-mf-ND
-RL	scn	nazziunali	adj-mf-sp	spa	nacional	adj$adj-mf$adj-mf-pl
+RL	scn	nazziunali	adj-mf-sp	spa	nacional	adj-mf$adj$adj-mf-pl
 RL	scn	nazziunali	adj-mf-sp	spa	nacional	adj-mf-sg
 LR	scn	riggiunali	adj-mf-sp	spa	regional	adj-mf-ND
 RL	scn	riggiunali	adj-mf-sp	spa	regional	adj-mf$adj$adj-mf-pl
@@ -9423,7 +9423,7 @@ LR	scn	ntillittuali	adj-mf-sp	spa	intelectual	adj-mf$adj$adj-mf-ND
 RL	scn	ntillittuali	adj-mf-sp	spa	intelectual	adj-mf-pl
 RL	scn	ntillittuali	adj-mf-sp	spa	intelectual	adj-mf-sg
 LR	scn	nazziunali	adj-mf-sp	spa	nacional	adj-mf-ND
-RL	scn	nazziunali	adj-mf-sp	spa	nacional	adj$adj-mf$adj-mf-pl
+RL	scn	nazziunali	adj-mf-sp	spa	nacional	adj-mf$adj$adj-mf-pl
 RL	scn	nazziunali	adj-mf-sp	spa	nacional	adj-mf-sg
 LR	scn	munnìali	adj-mf-sp	spa	mundial	adj-mf-ND
 RL	scn	munnìali	adj-mf-sp	spa	mundial	adj$adj-mf$adj-mf-pl$
@@ -9462,7 +9462,7 @@ LR	scn	cintrali	adj-mf-sp	spa	central	adj$adj-mf$adj-mf-ND
 RL	scn	cintrali	adj-mf-sp	spa	central	adj-mf-pl
 RL	scn	cintrali	adj-mf-sp	spa	central	adj-mf-sg
 LR	scn	nazziunali	adj-mf-sp	spa	nacional	adj-mf-ND
-RL	scn	nazziunali	adj-mf-sp	spa	nacional	adj$adj-mf$adj-mf-pl
+RL	scn	nazziunali	adj-mf-sp	spa	nacional	adj-mf$adj$adj-mf-pl
 RL	scn	nazziunali	adj-mf-sp	spa	nacional	adj-mf-sg
 LR	scn	aquivalenti	adj-mf-sp	spa	equivalente	adj$adj-mf$adj-mf-ND
 RL	scn	aquivalenti	adj-mf-sp	spa	equivalente	adj-mf-pl
@@ -9936,8 +9936,8 @@ LR	scn	mpressari	vblex	spa	acercar	vblex
 	scn	ntapazzari	vblex	spa	acomodar	vblex
 	scn	accumpagnari	vblex	spa	acompañar	vblex
 	scn	cunzigghiari	vblex	spa	aconsejar	vblex
-	scn	cuncurdari	vblex	spa	acordar	vblex
-	scn	accurdari	vblex	spa	acordar	vblex
+	scn	cuncurdari	vblex	spa	acordar	vblex$vblex-pron
+	scn	accurdari	vblex	spa	acordar	vblex$vblex-pron
 	scn	accurzari	vblex	spa	acortar	vblex
 	scn	ntrunzari	vblex	spa	acosar	vblex
 	scn	curcari	vblex	spa	acostar	vblex
@@ -10644,9 +10644,9 @@ LR	scn	fìnciri	vblex	spa	fingir	vblex
 	scn	allupari	vblex	spa	fracasar	vblex
 	scn	bazzicari	vblex	spa	frecuentar	vblex
 	scn	friquintari	vblex	spa	frecuentar	vblex
-	scn	frìiri	vblex	spa	freír	vblex
-LR	scn	anfari	vblex	spa	freír	vblex
-LR	scn	abbraciari	vblex	spa	freír	vblex
+	scn	frìiri	vblex	spa	freír	vblex$vblex-pron
+LR	scn	anfari	vblex	spa	freír	vblex$vblex-pron
+LR	scn	abbraciari	vblex	spa	freír	vblex$vblex-pron
 	scn	munciuniari	vblex	spa	frotar	vblex
 	scn	panniddiari	vblex	spa	frotar	vblex
 LR	scn	pipiari	vblex	spa	fumar	vblex
@@ -10862,7 +10862,7 @@ LR	scn	atticchiari	vblex	spa	morir	vblex
 	scn	mpacchiari	vblex	spa	mostrar	vblex
 	scn	ammusciari	vblex	spa	mostrar	vblex
 	scn	dimustrari	vblex	spa	mostrar	vblex
-	scn	mòviri	vblex	spa	mover	vblex
+	scn	mòviri	vblex	spa	mover	vblex$vblex-pron
 	scn	mutari	vblex	spa	mudar	vblex
 	scn	abbrigliari	vblex	spa	mugir	vblex
 	scn	acciuncari	vblex	spa	mutilar	vblex
@@ -10914,10 +10914,10 @@ LR	scn	ciaurari	vblex	spa	oler	vblex
 	scn	pàsciri	vblex	spa	pacer	vblex
 	scn	patiri	vblex	spa	padecer	vblex
 	scn	pagari	vblex	spa	pagar	vblex
-LR	scn	pariri	vblex	spa	parecer	vblex$
-	scn	pàriri	vblex	spa	parecer	vblex$
-LR	scn	assiminzari	vblex	spa	parecer	vblex$
-	scn	assimigghiari	vblex	spa	parecer	vblex$
+LR	scn	pariri	vblex	spa	parecer	vblex$$vblex-pron
+	scn	pàriri	vblex	spa	parecer	vblex$$vblex-pron
+LR	scn	assiminzari	vblex	spa	parecer	vblex$$vblex-pron
+	scn	assimigghiari	vblex	spa	parecer	vblex$$vblex-pron
 	scn	participari	vblex	spa	participar	vblex
 	scn	pàrtiri	vblex	spa	partir	vblex
 	scn	passari	vblex	spa	pasar	vblex
@@ -10926,9 +10926,9 @@ LR	scn	arripassari	vblex	spa	pasar	vblex
 	scn	nzallaniri	vblex	spa	pasmar	vblex
 	scn	piccari	vblex	spa	pecar	vblex
 	scn	dumannari	vblex	spa	pedir	vblex
-	scn	mpiccicari	vblex	spa	pegar	vblex
-	scn	mbiddari	vblex	spa	pegar	vblex
-	scn	lapitiari	vblex	spa	pegar	vblex
+	scn	mpiccicari	vblex	spa	pegar	vblex$vblex-pron
+	scn	mbiddari	vblex	spa	pegar	vblex$vblex-pron
+	scn	lapitiari	vblex	spa	pegar	vblex$vblex-pron
 	scn	munnari	vblex	spa	pelar	vblex
 	scn	pilari	vblex	spa	pelar	vblex
 	scn	accarusari	vblex	spa	pelar	vblex
@@ -11107,7 +11107,7 @@ LR	scn	arrispùnniri	vblex	spa	responder	vblex
 	scn	arricampari	vblex	spa	retornar	vblex
 	scn	arrazzari	vblex	spa	retroceder	vblex
 	scn	nfinniari	vblex	spa	retumbar	vblex
-	scn	ajuntari	vblex	spa	reunir	vblex
+	scn	ajuntari	vblex	spa	reunir	vblex$vblex-pron
 	scn	rivilari	vblex	spa	revelar	vblex
 LR	scn	arrìdiri	vblex	spa	reír	vblex$vblex-inf
 	scn	rìdiri	vblex	spa	reír	vblex$vblex-inf
@@ -11282,11 +11282,11 @@ LR	scn	annadarari	vblex	spa	verificar	vblex
 	scn	abbulari	vblex	spa	volar	vblex
 	scn	rotari	vblex	spa	voltear	vblex
 	scn	ntunnari	vblex	spa	voltear	vblex
-LR	scn	addivintari	vblex	spa	volver	vblex
-LR	scn	diviniri	vblex	spa	volver	vblex
-	scn	riturnari	vblex	spa	volver	vblex
-LR	scn	turnari	vblex	spa	volver	vblex
-	scn	divintari	vblex	spa	volver	vblex
+LR	scn	addivintari	vblex	spa	volver	vblex$vblex-pron
+LR	scn	diviniri	vblex	spa	volver	vblex$vblex-pron
+	scn	riturnari	vblex	spa	volver	vblex$vblex-pron
+LR	scn	turnari	vblex	spa	volver	vblex$vblex-pron
+	scn	divintari	vblex	spa	volver	vblex$vblex-pron
 	scn	lanzari	vblex	spa	vomitar	vblex
 	scn	vumitari	vblex	spa	vomitar	vblex
 	scn	vutari	vblex	spa	votar	vblex
@@ -11324,7 +11324,7 @@ LR	scn	mèritari	vblex	spa	merecer	vblex
 LR	scn	addivèniri	vblex	spa	proceder	vblex
 LR	scn	prinutari	vblex	spa	reservar	vblex
 	scn	risirvari	vblex	spa	reservar	vblex
-LR	scn	riuniri	vblex	spa	reunir	vblex
+LR	scn	riuniri	vblex	spa	reunir	vblex$vblex-pron
 	scn	pirsiguiri	vblex	spa	perseguir	vblex
 	scn	prènniri	vblex	spa	prender	vblex
 	scn	filusufiggiari	vblex	spa	filosofar	vblex

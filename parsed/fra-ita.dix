@@ -559,7 +559,7 @@ LR	fra	blanc	adj-mf-pl	ita	bianco	adj-GD-pl
 	fra	familier	adj-m$adj-m-sg	ita	familiare	adj$adj-mf$
 	fra	familier	adj-GD$adj-GD-ND	ita	colloquiale	adj$adj-mf
 	fra	familier	adj-GD$adj-GD-ND	ita	familiare	adj$adj-mf$
-	fra	fascinant	adj-f$adj	ita	affascinante	$adj$adj-mf
+	fra	fascinant	adj$adj-f	ita	affascinante	$adj$adj-mf
 	fra	fascinant	adj-m	ita	affascinante	$adj$adj-mf
 	fra	fascinant	adj-GD$adj-GD-ND	ita	affascinante	$adj$adj-mf
 	fra	fasciste	adj$adj-mf$adj-mf-ND	ita	fascista	adj-GD
@@ -734,7 +734,7 @@ RL	fra	grand	adj$adj-GD$adj-GD-ND	ita	grande	$adj$adj-mf
 	fra	imminent	adj-GD	ita	imminente	adj$$adj-mf
 	fra	immobile	adj$adj-mf-ND$adj-mf	ita	immobile	$adj$adj-mf
 	fra	imparfait	adj	ita	imperfetto	$adj$adj-GD-pl
-	fra	impartial	adj$adj-f	ita	imparziale	$adj$adj-mf
+	fra	impartial	adj$adj-f$	ita	imparziale	$adj$adj-mf
 	fra	impartial	adj-m	ita	imparziale	$adj$adj-mf
 	fra	impartial	adj-GD	ita	imparziale	$adj$adj-mf
 	fra	impopulaire	adj$adj-mf	ita	impopolare	adj$$adj-m
@@ -1402,7 +1402,7 @@ LR	fra	rouge	adj-mf-pl	ita	rosso	adj-GD-pl
 	fra	second	adj$adj-preadj	ita	secondo	adj-ord$adj
 	fra	secret	adj$adj-GD-ND	ita	segreto	adj$$adj-sup
 	fra	semblable	adj-mf$adj-mf-ND$adj	ita	simile	$adj$adj-mf
-	fra	semestriel	adj$adj-f	ita	semestrale	adj$adj-m
+	fra	semestriel	adj$adj-f$	ita	semestrale	adj$adj-m
 	fra	semestriel	adj-m	ita	semestrale	adj$adj-m
 	fra	semestriel	adj-GD	ita	semestrale	adj$adj-m
 	fra	sensible	adj$adj-mf$adj-mf-ND	ita	sensibile	$adj$adj-mf
@@ -1534,7 +1534,7 @@ LR	fra	rouge	adj-mf-pl	ita	rosso	adj-GD-pl
 	fra	textuel	adj-m	ita	testuale	adj$$adj-mf
 	fra	textuel	adj-GD	ita	testuale	adj$$adj-mf
 	fra	thaïlandais	adj-f$adj-f-sg	ita	tailandese	adj-mf$adj
-	fra	thaïlandais	adj-m-sp$adj	ita	tailandese	adj-mf$adj
+	fra	thaïlandais	adj$adj-m-sp	ita	tailandese	adj-mf$adj
 	fra	théléphonique	adj-mf$adj-mf-ND	ita	telefonico	adj$$adj-sup
 	fra	thérapeutique	adj-mf$adj$adj-mf-ND	ita	terapeutico	adj$adj-sup
 	fra	théâtral	adj$adj-f	ita	teatrale	adj$$adj-mf
@@ -1614,7 +1614,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	vertueux	adj$adj-f	ita	virtuoso	adj$$adj-sup
 	fra	vertueux	adj-m-sp	ita	virtuoso	adj$$adj-sup
 	fra	veuf	adj	ita	vedovo	adj$adj-sup$
-	fra	vibrant	adj-f$adj	ita	vibrante	adj$adj-mf
+	fra	vibrant	adj$adj-f	ita	vibrante	adj$adj-mf
 	fra	vibrant	adj-m	ita	vibrante	adj$adj-mf
 	fra	vibrant	adj-GD	ita	vibrante	adj$adj-mf
 	fra	vide	adj-mf$adj$adj-mf-ND	ita	vuoto	$adj$adj-sup
@@ -2401,11 +2401,11 @@ LR	fra	ton	det-pos-mf-pl$pos	ita	il tuo	det-pos-GD-pl
 	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind	ita	un altro	det-ind$det$det-ind-GD$det-ind-GD-pl
 	fra	votre	det-pos-m-sg	ita	il vostro	det-pos$det-pos-m-sg
 	fra	votre	det-pos-f-sg	ita	il vostro	det-pos-f-sg
-RL	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	ita	il vostro	det-pos-m-pl
-RL	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	ita	il vostro	det-pos-f-pl
-LR	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	ita	il vostro	det-pos-GD-pl
-	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	ita	vostro	det-pos$det-pos-m
-	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	ita	vostro	det-pos-f
+RL	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	ita	il vostro	det-pos-m-pl
+RL	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	ita	il vostro	det-pos-f-pl
+LR	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	ita	il vostro	det-pos-GD-pl
+	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	ita	vostro	det-pos$det-pos-m
+	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	ita	vostro	det-pos-f
 	fra	votre	det-pos-GD-sg$pos	ita	vostro	det-pos$det-pos-m
 	fra	votre	det-pos-GD-sg$pos	ita	vostro	det-pos-f
 	fra	au revoir	ij	ita	arrivederci	ij
@@ -3139,7 +3139,7 @@ LR	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	ita	il vostro	det-pos-GD-pl
 	fra	casque	n-m$n$n-m-ND	ita	casco	n-m$n
 	fra	cassation	n-f$n	ita	cassazione	n$n-f
 	fra	cassette	n-f$n$n-f-ND	ita	nastro	n-m
-	fra	castillan	n$n-m$n-m-ND	ita	castigliano	n$n-GD
+	fra	castillan	n$n-m-ND$n-m	ita	castigliano	n$n-GD
 	fra	castration	n$n-f$n-f-ND	ita	castrazione	n$n-f
 	fra	catalan	n$n-m$n-m-ND	ita	catalano	n$n-GD
 	fra	catalogage	n-m	ita	catalogazione	n$n-f
@@ -5030,7 +5030,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	marchandise	n-f$n$n-f-ND	ita	mercanzia	n-f$n
 	fra	marche	n-f$n$n-f-ND	ita	marcia	n-f$n
 	fra	marché	n$n-m$n-m-ND	ita	mercato	n-m$n
-	fra	marché	n$n-m$n-m-ND	ita	traccia	n-f$n
+	fra	marché	n$n-m$n-m-ND	ita	mercato	n-m$n
 	fra	mardi	n-m-pl	ita	martedì	n$n-m-sp$n-m
 	fra	mardi	n-m-sg	ita	martedì	n$n-m-sp$n-m
 	fra	mardi	n-m-ND$n-m$n	ita	martedì	n$n-m-sp$n-m
@@ -5075,7 +5075,6 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	maternité	n-f$n	ita	maternità	n-f-sp$n-f
 	fra	matin	n-m$n$n-m-ND	ita	mattina	n-f$n
 	fra	matin	n-m$n$n-m-ND	ita	domani	n-m-sp$n-m
-	fra	matin	n-m$n$n-m-ND	ita	alba	n-f$n
 	fra	matinée	n$n-f$n-f-ND	ita	domani	n-m-sp$n-m
 	fra	matière	n$n-f$n-f-ND	ita	materia	n-f$n
 	fra	matrice	n-f$n$n-f-ND	ita	matrice	n-f$n
@@ -5405,7 +5404,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	odontologie	n$n-f	ita	odontoiatria	n$n-f
 	fra	odontologie	n$n-f	ita	odontologia	n$n-f
 	fra	odorat	n$n-m	ita	olfatto	n-m$n
-	fra	odyssée	n$n-f	ita	odissea	n-f$n
+	fra	odyssée	n-f$n	ita	odissea	n-f$n
 	fra	œil	n$n-m	ita	occhio	n-m$n
 	fra	œuf	n$n-m	ita	uovo	n-f-pl$n
 	fra	œuvre	n-f$n	ita	opera	n-f$n
@@ -7062,7 +7061,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	épuration	n$n-f	ita	depurazione	n$n-f
 	fra	épée	n$n-f$n-f-ND	ita	spada	n$n-f
 	fra	équateur	n-m$n	ita	equatore	n$n-m
-	fra	équation	n-f$n$n-f-ND	ita	equazione	n-f$n
+	fra	équation	n$n-f$n-f-ND	ita	equazione	n-f$n
 	fra	équilibre	n-m$n$n-m-ND	ita	equilibrio	n-m$n
 	fra	équipe	n-f$n$n-f-ND	ita	squadra	n-f$n
 	fra	équipement	n$n-m$n-m-ND	ita	squadra	n-f$n
@@ -7116,7 +7115,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Abad	np$np-cog$np-cog-mf-sp	ita	Abad	np-cog-mf-sp$np
 	fra	Abascal	np$np-cog-mf-sp$np-cog	ita	Abascal	np-cog-mf-sp$np
 	fra	Abbott	np-cog-mf-sp$np	ita	Abbott	np-cog-mf-sp$np
-	fra	Abel	np-ant$np$np-ant-m-sg	ita	Abel	np-ant-m$np-ant-m-sg$np$np-ant
+	fra	Abel	np-ant$np-ant-m-sg$np	ita	Abel	np-ant-m$np-ant-m-sg$np$np-ant
 	fra	Abellán	np$np-cog-mf-sp$np-cog	ita	Abellán	np-cog-mf-sp$np
 	fra	Acebes	np-ant$np	ita	Acebes	np-ant-m-sg
 	fra	Acebo	np$np-cog-mf-sp$np-cog	ita	Acebo	np-cog-mf-sp$np
@@ -7139,7 +7138,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Agustín	np$np-cog$np-cog-mf-sp	ita	Agustín	np$np-ant$np-ant-m-sg
 	fra	Ahern	np-cog-mf-sp$np	ita	Ahern	np-cog-mf-sp$np$np-cog-mf
 	fra	Alarcón	np-cog-mf-sp$np	ita	Alarcón	np-cog-mf-sp$np
-	fra	Albacete	np$np-cog-mf-sp	ita	Albacete	np$np-loc-m$np-loc-m-sg
+	fra	Albacete	np$np-top-m-sg	ita	Albacete	np$np-loc-m$np-loc-m-sg
 	fra	Albanie	np$np-top-f$np-top-f-sg$np-top	ita	Albania	np$np-loc-f$np-loc-f-sg
 	fra	Albatera	np$np-top-f-sg	ita	Albatera	np$np-loc-m$np-loc-m-sg
 	fra	Albelda	np$np-cog-mf-sp$np-cog	ita	Albelda	np-cog-mf-sp$np
@@ -7148,7 +7147,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Alberto	np$np-ant$np-ant-m-sg	ita	Alberto	np-ant-m$np-ant-m-sg$np$np-ant
 	fra	Albini	np-cog-mf-sp$np	ita	Albini	np-cog-mf-sp$np
 	fra	Albiol	np$np-cog-mf-sp$np-cog	ita	Albiol	np-cog-mf-sp$np
-	fra	Alcalá	np$np-cog-mf-sp	ita	Alcalá	np$np-loc-m$np-loc-m-sg
+	fra	Alcalá	np$np-top-m-sg	ita	Alcalá	np$np-loc-m$np-loc-m-sg
 	fra	Alcaraz	np$np-cog-mf-sp	ita	Alcaraz	np-cog-mf-sp$np
 	fra	Alcañiz	np$np-cog-mf-sp	ita	Alcañiz	np$np-loc-m$np-loc-m-sg
 	fra	Alcoi	np$np-top-m-sg	ita	Alcoi	np$np-loc-m$np-loc-m-sg
@@ -7211,8 +7210,8 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Athènes	np$np-top-f-sg$np-top-f	ita	Atene	np$np-loc-m$np-loc-m-sg
 	fra	Atocha	np	ita	Atocha	np$np-ant-f-sg
 	fra	Atutxa	np$np-cog-mf-sp$np-cog	ita	Atutxa	np-cog-mf-sp$np
-	fra	Aura	np$np-cog-mf-sp	ita	Aura	np-cog-mf-sp$np
-	fra	Aurelio	np$np-ant$np-ant-m-sg	ita	Aurelio	np-ant-m-sg$np$np-ant$np-ant-m
+	fra	Aura	np$np-ant-f-sg	ita	Aura	np-cog-mf-sp$np
+	fra	Aurelio	np-ant-m-sg$np$np-ant	ita	Aurelio	np-ant-m-sg$np$np-ant$np-ant-m
 	fra	Aurora	np$np-ant$np-ant-f-sg	ita	Aurora	np-ant-f$np-ant-f-sg$np$np-ant
 	fra	Australie	np$np-top-f$np-top-f-sg$np-top	ita	Australia	np-loc-f$np$np-loc-f-sg
 	fra	Autriche	np$np-top-f-sg$np-top-f$np-top	ita	Austria	np$np-loc-f$np-loc-f-sg
@@ -7236,20 +7235,20 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Barcelonès	np$np-top-m-sg	ita	Barcelonès	np$np-loc-m$np-loc-m-sg
 	fra	Barreda	np-cog-mf-sp$np	ita	Barreda	np-cog-mf-sp$np
 	fra	Barroso	np-cog-mf-sp$np	ita	Barroso	np-cog-mf-sp$np
-	fra	Bartolomé	np$np-cog$np-cog-mf-sp	ita	Bartolomé	np$np-ant$np-ant-m-sg
+	fra	Bartolomé	np$np-ant-m-sg$np-ant	ita	Bartolomé	np$np-ant$np-ant-m-sg
 	fra	Barça	np$np-al-m-sg	ita	Barça	np$np-al-m-sg
 	fra	Bassora	np	ita	Bàssora	np$np-loc-m$np-loc-m-sg
 	fra	Bassorah	np$np-loc	ita	Bàssora	np$np-loc-m$np-loc-m-sg
 	fra	Bassorah	np$np-loc	ita	Bàssora	np$np-loc-m$np-loc-m-sg
 	fra	Batasuna	np$np-al$np-al-f-sg	ita	Batasuna	np-al-m-sg$np$np-al-m
 	fra	Bayonne	np$np-top$np-top-f-sg	ita	Bayonne	np$np-loc-m$np-loc-m-sg
-	fra	Bea	np$np-ant$np-ant-f-sg	ita	Bea	np-ant-f-sg$np$np-ant
+	fra	Bea	np-ant-f-sg$np$np-ant	ita	Bea	np-ant-f-sg$np$np-ant
 	fra	Beatriz	np$np-ant$np-ant-f-sg	ita	Beatriz	np-ant-f-sg$np$np-ant$np-ant-f
 	fra	Beckett	np$np-cog-mf-sp	ita	Beckett	np-cog-mf-sp$np
 	fra	Beethoven	np-cog-mf-sp$np	ita	Beethoven	np-cog-mf-sp$np$np-cog-mf
 	fra	Belgique	np$np-top$np-top-f$np-top-f-sg	ita	Belgio	np$np-loc-m$np-loc-m-sg
 	fra	Belinchón	np$np-cog$np-cog-mf-sp	ita	Belinchón	np-cog-mf-sp$np
-	fra	Belmonte	np$np-cog-mf-sp	ita	Belmonte	np$np-loc-m$np-loc-m-sg
+	fra	Belmonte	np$np-top-m-sg	ita	Belmonte	np$np-loc-m$np-loc-m-sg
 	fra	Benidorm	np$np-top-m-sg	ita	Benidorm	np$np-loc-m$np-loc-m-sg
 	fra	Benoît XVI	np$np-ant	ita	Benedetto XVI	np-ant
 	fra	Berlanga	np$np-cog$np-cog-mf-sp	ita	Berlanga	np-cog-mf-sp$np$np-cog-mf
@@ -7271,7 +7270,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Blair	np$np-cog-mf-sp$np-cog	ita	Blair	np-cog-mf-sp$np$np-cog-mf
 	fra	Bloomberg	np$np-cog-mf-sp	ita	Bloomberg	np$np-al-m-sg
 	fra	Bobadilla	np$np-cog$np-cog-mf-sp	ita	Bobadilla	np-cog-mf-sp$np$np-cog
-	fra	Bolivie	np$np-top-f$np-top-f-sg$np-top	ita	Bolivia	np-loc-m$np
+	fra	Bolivie	np$np-top-f-sg$np-top-f$np-top	ita	Bolivia	np-loc-m$np
 	fra	Bologne	np$np-top-f-sg	ita	Bologna	np-loc-m$np
 	fra	Bombay	np$np-top-m-sg	ita	Bombay	np$np-loc-m$np-loc-m-sg
 	fra	Bonaparte	np-cog-mf-sp$np	ita	Bonaparte	np-cog-mf-sp$np$np-cog$np-cog-mf
@@ -7444,8 +7443,8 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Elche	np$np-top-m-sg	ita	Elche	np$np-loc-m-sg
 	fra	Elda	np$np-ant$np-ant-f-sg	ita	Elda	np$np-ant$np-ant-f$np-ant-f-sg
 	fra	Elena	np$np-ant$np-ant-f-sg	ita	Elena	np-ant-f$np-ant-f-sg$np$np-ant
-	fra	Elia	np$np-ant$np-ant-m-sg	ita	Elia	np-ant-m$np-ant-m-sg$np$np-ant
-	fra	Elisa	np-ant$np$np-ant-f-sg	ita	Elisa	np$np-ant-f$np-ant$np-ant-f-sg
+	fra	Elia	np-ant-m-sg$np$np-ant	ita	Elia	np-ant-m$np-ant-m-sg$np$np-ant
+	fra	Elisa	np-ant$np-ant-f-sg$np	ita	Elisa	np$np-ant-f$np-ant$np-ant-f-sg
 	fra	Eliseo	np$np-ant$np-ant-m-sg	ita	Eliseo	np-ant-m-sg$np$np-ant$np-ant-m
 	fra	Elizabeth	np$np-ant$np-ant-f-sg	ita	Elizabeth	np-ant-f$np-ant-f-sg$np$np-ant
 	fra	Eltsine	np$np-cog-mf-sp	ita	Yeltsin	np-cog-mf-sp$np
@@ -7457,7 +7456,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Equateur	np$np-loc-f	ita	Ecuador	np$np-loc-m-sg$np-loc-m
 	fra	Eric	np$np-ant$np-ant-m-sg	ita	Eric	np-ant-m$np-ant-m-sg$np-ant
 	fra	Ernesto	np$np-ant$np-ant-m-sg	ita	Ernesto	np-ant-m-sg$np$np-ant$np-ant-m
-	fra	Esmeralda	np$np-ant$np-ant-f-sg	ita	Esmeralda	np-ant-f-sg$np$np-ant
+	fra	Esmeralda	np-ant-f-sg$np$np-ant	ita	Esmeralda	np-ant-f-sg$np$np-ant
 	fra	Espagne	np$np-top$np-top-f$np-top-f-sg	ita	Spagna	np$np-loc-f$np-loc-f-sg
 	fra	Espanyol	np$np-al-m-sg	ita	Espanyol	np$np-al-m
 	fra	Estonie	np$np-top-f$np-top-f-sg$np-top	ita	Estonia	np$np-loc-f$np-loc-f-sg
@@ -7473,9 +7472,9 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Evans	np-cog-mf-sp$np$np-cog	ita	Evans	np-cog-mf-sp$np$np-cog-mf
 	fra	Farrell	np-cog-mf-sp$np	ita	Farrell	np-cog-mf-sp$np$np-cog-mf
 	fra	Federico	np$np-ant$np-ant-m-sg	ita	Federico	np-ant-m$np-ant-m-sg$np$np-ant
-	fra	Felipe	np$np-ant$np-ant-m-sg	ita	Felipe	np-ant-m-sg$np$np-ant$np-ant-m
+	fra	Felipe	np-ant-m-sg$np$np-ant	ita	Felipe	np-ant-m-sg$np$np-ant$np-ant-m
 	fra	Felix	np$np-ant$np-ant-m-sg	ita	Félix	np-ant-m-sg$np$np-ant$np-ant-m
-	fra	Fernandez	np-ant$np-ant-m-sg	ita	Fernandez	np-ant-m-sg
+	fra	Fernandez	np-ant-m-sg$np-ant	ita	Fernandez	np-ant-m-sg
 	fra	Fernando	np$np-ant$np-ant-m-sg	ita	Fernando	np-ant-m$np-ant-m-sg$np$np-ant
 	fra	Fernández	np-ant	ita	Fernández	np-ant-m-sg
 	fra	Ferrari	np-al$np$np-al-mf	ita	Ferrari	np$np-al-m-sg
@@ -7518,7 +7517,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Gaudí	np-ant	ita	Gaudí	np-cog-mf-sp$np$np-cog
 	fra	Gautier	np$np-cog-mf-sp$np-cog	ita	Gautier	np-cog-mf-sp$np$np-cog
 	fra	Gavà	np$np-top-m-sg	ita	Gavà	np$np-loc-m$np-loc-m-sg
-	fra	Generalitat	np-al$np$np-al-f-sg	ita	Generalitat	np$np-loc-f
+	fra	Generalitat	np-al$np-al-f-sg$np	ita	Generalitat	np$np-loc-f
 	fra	George	np$np-ant$np-ant-m-sg	ita	George	np-ant-m$np-ant-m-sg$np$np-ant
 	fra	Gerard	np$np-ant$np-ant-m-sg	ita	Gerard	np-ant-m-sg$np$np-ant$np-ant-m
 	fra	Gerardo	np-ant$np$np-ant-m-sg	ita	Gerardo	np-ant-m-sg$np$np-ant$np-ant-m
@@ -7541,7 +7540,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Gore	np-cog-mf-sp$np	ita	Gore	np-cog-mf-sp$np$np-cog-mf
 	fra	Goya	np$np-cog$np-cog-mf-sp	ita	Goya	np-cog-mf-sp$np$np-cog
 	fra	Granollers	np$np-top-m-sg	ita	Granollers	np$np-loc-m$np-loc-m-sg
-	fra	Grau	np$np-cog-mf-sp	ita	Grau	np$np-loc-m
+	fra	Grau	np$np-top-m-sg	ita	Grau	np$np-loc-m
 	fra	Greenpeace	np-al$np-al-f-sg$np	ita	Greenpeace	np-al-m-sg$np$np-al-m
 	fra	Grèce	np$np-top$np-top-f$np-top-f-sg	ita	Grecia	np$np-loc-f-sg$np-loc-f
 	fra	Guadalajara	np$np-top-f-sg	ita	Guadalajara	np$np-loc-m$np-loc-m-sg
@@ -7579,7 +7578,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Hirsch	np-cog-mf-sp$np	ita	Hirsch	np-cog-mf-sp$np
 	fra	Hitler	np$np-cog-mf-sp$np-cog	ita	Hitler	np-cog-mf-sp$np-cog-mf$np
 	fra	Hollywood	np-loc$np	ita	Hollywood	np$np-loc-m$np-loc-m-sg
-	fra	Honduras	np$np-top$np-top-f	ita	Honduras	np-loc-m$np-loc-m-sg$np
+	fra	Honduras	np$np-top-m-sg$np-top$np-top-m	ita	Honduras	np-loc-m$np-loc-m-sg$np
 	fra	Hongrie	np$np-top-f$np-top-f-sg$np-top	ita	Ungheria	np$np-loc-f$np-loc-f-sg
 	fra	Horace	np-ant$np-ant-m-sg$np	ita	Orazio	np-ant$np-ant-m$np$np-ant-m-sg
 	fra	Huelva	np$np-top-f-sg	ita	Huelva	np$np-loc-m
@@ -7628,7 +7627,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Japon	np$np-top-m$np-top-m-sg$np-top	ita	Giappone	np$np-loc-m$np-loc-m-sg
 	fra	Jara	np$np-cog$np-cog-mf-sp	ita	Jara	np-cog-mf-sp$np$np-cog-mf
 	fra	Jarque	np$np-cog-mf-sp	ita	Jarque	np$np-loc-m$np-loc-m-sg
-	fra	Javier	np$np-ant$np-ant-m-sg	ita	Javier	np-ant-m-sg$np$np-ant$np-ant-m
+	fra	Javier	np$np-ant-m-sg$np-ant	ita	Javier	np-ant-m-sg$np$np-ant$np-ant-m
 	fra	Jaén	np$np-top-m-sg	ita	Jaén	np$np-loc-m$np-loc-m-sg
 	fra	Jean	np-ant-m-sg$np$np-ant	ita	Jean	np-ant-m$np-ant-m-sg$np$np-ant
 	fra	Jean Cabot	np$np-ant	ita	Giovanni Caboto	np-ant
@@ -7689,8 +7688,8 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Llobregat	np$np-cog-mf-sp	ita	Llobregat	np$np-loc-m$np-loc-m-sg
 	fra	Lloyd	np-cog-mf-sp$np	ita	Lloyd	np-cog-mf-sp$np
 	fra	Logroño	np$np-top-m-sg	ita	Logroño	np$np-loc-m$np-loc-m-sg
-	fra	Lola	np-ant$np$np-ant-f-sg	ita	Lola	np-ant-f-sg$np$np-ant$np-ant-f
-	fra	Lolita	np$np-ant$np-ant-f-sg	ita	Lolita	np-ant-f-sg$np$np-ant$np-ant-f
+	fra	Lola	np-ant$np-ant-f-sg$np	ita	Lola	np-ant-f-sg$np$np-ant$np-ant-f
+	fra	Lolita	np-ant-f-sg$np$np-ant	ita	Lolita	np-ant-f-sg$np$np-ant$np-ant-f
 	fra	Londres	np$np-top-m-sg$np-top$np-top-m	ita	Londra	np$np-loc-f$np-loc-f-sg
 	fra	Loos	np-cog-mf-sp$np	ita	Loos	np-cog-mf-sp$np
 	fra	Lopez	np$np-cog-mf-sp$np-cog	ita	Lopez	np-cog-mf-sp$np$np-cog-mf
@@ -7699,7 +7698,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Lorenzo	np$np-ant$np-ant-m-sg	ita	Lorenzo	np-ant-m$np-ant-m-sg$np$np-ant
 	fra	Lorraine	np-loc$np-loc-f	ita	Lorena	np$np-ant-f$np-ant-f-sg$np-ant
 	fra	Lozoya	np$np-cog$np-cog-mf-sp	ita	Lozoya	np-cog-mf-sp$np
-	fra	Lucio	np$np-ant$np-ant-m-sg	ita	Lucio	np-ant-m$np-ant-m-sg$np$np-ant
+	fra	Lucio	np-ant-m-sg$np$np-ant	ita	Lucio	np-ant-m$np-ant-m-sg$np$np-ant
 	fra	Lugo	np$np-top-m-sg	ita	Lugo	np$np-loc-m$np-loc-m-sg
 	fra	Luis	np$np-ant$np-ant-m-sg	ita	Luis	np-ant$np-ant-m$np-ant-m-sg
 	fra	Luxembourg	np$np-loc-f	ita	Lussemburgo	np$np-loc-m$np-loc-m-sg
@@ -7779,7 +7778,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Milà	np-al	ita	Milà	np-cog-mf-sp$np
 	fra	Milá	np-ant$np-ant-f-sg	ita	Milá	np-cog-mf-sp$np
 	fra	Minerve	np$np-ant$np-ant-f-sg	ita	Minerva	np$np-ant-f$np-ant$np-ant-f-sg
-	fra	Minorque	np$np-loc-f	ita	Minorca	np$np-loc-m$np-loc-m-sg
+	fra	Minorque	np$np-top-f-sg	ita	Minorca	np$np-loc-m$np-loc-m-sg
 	fra	Miranda	np$np-ant-f-sg$np-ant	ita	Miranda	np-cog-mf-sp$np$np-cog-mf
 	fra	Mislata	np$np-top-f-sg	ita	Mislata	np$np-loc-m$np-loc-m-sg
 	fra	Mitterrand	np$np-cog$np-cog-mf-sp	ita	Mitterrand	np-cog-mf-sp$np
@@ -7846,7 +7845,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	ONG	np-al$np-al-f-sg$np	ita	ONG	np-al-m-sg$np$np-al-m
 	fra	Obama	np$np-cog-mf-sp$np-cog	ita	Obama	np-cog-mf-sp$np-cog-mf$np
 	fra	Olano	np$np-cog-mf-sp	ita	Olano	np-cog-mf-sp$np
-	fra	Oliva	np$np-cog-mf-sp	ita	Oliva	np$np-ant$np-ant-f
+	fra	Oliva	np$np-top-f-sg	ita	Oliva	np$np-ant$np-ant-f
 	fra	Olivares	np$np-cog-mf-sp$np-cog	ita	Olivares	np-cog-mf-sp$np
 	fra	Olivier	np$np-cog-mf-sp$np-cog	ita	Olivier	np-cog-mf-sp$np$np-cog-mf
 	fra	Orense	np$np-top-m-sg	ita	Ourense	np$np-loc-m$np-loc-m-sg
@@ -7875,8 +7874,8 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Pampelune	np$np-top-f-sg	ita	Pamplona	np$np-loc-m
 	fra	Panama	np$np-top-m$np-top-m-sg	ita	Panamá	np$np-loc-m$np-loc-m-sg
 	fra	Panamá	np$np-top$np-top-m	ita	Panamá	np$np-loc-m$np-loc-m-sg
-	fra	Paola	np$np-ant$np-ant-f-sg	ita	Paola	np$np-ant-f$np-ant$np-ant-f-sg
-	fra	Paraguay	np$np-top-m$np-top$np-top-m-sg	ita	Paraguay	np-loc-m$np$np-loc-m-sg
+	fra	Paola	np-ant-f-sg$np$np-ant	ita	Paola	np$np-ant-f$np-ant$np-ant-f-sg
+	fra	Paraguay	np$np-top-m$np-top-m-sg$np-top	ita	Paraguay	np-loc-m$np$np-loc-m-sg
 	fra	Paris	np$np-top-m-sg$np-top$np-top-m	ita	Parigi	np$np-loc-m$np-loc-m-sg
 	fra	Parker	np-cog-mf-sp$np	ita	Parker	np-cog-mf-sp$np$np-cog-mf
 	fra	Pasteur	np$np-cog-mf-sp$np-cog	ita	Pasteur	np-cog-mf-sp$np
@@ -7916,7 +7915,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Prague	np$np-top$np-top-f	ita	Praga	np$np-loc-f$np-loc-f-sg
 	fra	Procter	np-cog-mf-sp$np	ita	Procter	np-cog-mf-sp$np
 	fra	Proust	np-cog-mf-sp$np	ita	Proust	np-cog-mf-sp$np$np-cog-mf
-	fra	Puig	np$np-cog-mf-sp	ita	Puig	np$np-loc-m$np-loc-m-sg
+	fra	Puig	np$np-top-m-sg	ita	Puig	np$np-loc-m$np-loc-m-sg
 	fra	Pujol	np$np-cog-mf-sp$np-cog	ita	Pujol	np-cog-mf-sp$np$np-cog
 	fra	Putin	np$np-cog-mf-sp	ita	Putin	np-cog-mf-sp$np$np-cog
 	fra	Pyrénées	np-loc$np-loc-f	ita	Pirenei	np$np-loc-m-sg
@@ -7926,7 +7925,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Pérez	np$np-cog-mf-sp$np-cog	ita	Pérez	np-ant$np-ant-m$np-ant-m-sg
 	fra	Pérez	np$np-cog-mf-sp$np-cog	ita	Pérez	np-cog-mf-sp$np$np-cog$np-cog-mf
 	fra	Pérou	np$np-top-m$np-top-m-sg$np-top	ita	Perù	np$np-loc-m$np-loc-m-sg
-	fra	Qatar	np$np-top-m$np-top$np-top-m-sg	ita	Qatar	np$np-loc-m$np-loc-m-sg
+	fra	Qatar	np$np-top-m$np-top-m-sg$np-top	ita	Qatar	np$np-loc-m$np-loc-m-sg
 	fra	Quart	np$np-top-m-sg	ita	Quart	np$np-loc-m$np-loc-m-sg
 	fra	Querol	np$np-cog-mf-sp	ita	Querol	np$np-cog
 	fra	Quichotte	np$np-al-m-sg	ita	Chisciotte	np$np-al-m-sg
@@ -8027,7 +8026,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Shore	np-cog-mf-sp$np	ita	Shore	np-cog-mf-sp$np
 	fra	Simone	np-ant-f-sg$np$np-ant	ita	Simone	np-ant-m$np-ant-m-sg$np$np-ant
 	fra	Simpson	np-cog-mf-sp$np	ita	Simpson	np-cog-mf-sp$np
-	fra	Simón	np$np-ant$np-ant-m-sg	ita	Simón	np-ant-m-sg$np$np-ant
+	fra	Simón	np-ant-m-sg$np$np-ant	ita	Simón	np-ant-m-sg$np$np-ant
 	fra	Singapour	np$np-top-m-sg$np-top$np-top-m	ita	Singapore	np$np-loc-m-sg$np-loc-m
 	fra	Sitges	np$np-top-f-sg	ita	Sitges	np$np-loc-m$np-loc-m-sg
 	fra	Slater	np-cog-mf-sp$np	ita	Slater	np-cog-mf-sp$np
@@ -8048,7 +8047,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Springsteen	np-cog-mf-sp$np	ita	Springsteen	np-cog-mf-sp$np$np-cog-mf
 	fra	Staline	np$np-cog-mf-sp$np-cog	ita	Stalin	np-cog-mf-sp$np$np-cog
 	fra	Stallone	np-cog-mf-sp$np	ita	Stallone	np-cog-mf-sp$np
-	fra	Stefano	np$np-ant$np-ant-m-sg	ita	Stefano	np-ant-m$np$np-ant$np-ant-m-sg
+	fra	Stefano	np$np-ant-m-sg$np-ant	ita	Stefano	np-ant-m$np$np-ant$np-ant-m-sg
 	fra	Steinmeier	np-cog-mf-sp$np	ita	Steinmeier	np-cog-mf-sp$np
 	fra	Stern	np-cog-mf-sp$np	ita	Stern	np-cog-mf-sp$np$np-cog$np-cog-mf
 	fra	Stewart	np-cog-mf-sp$np	ita	Stewart	np-cog-mf-sp$np$np-cog-mf
@@ -8074,7 +8073,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	TVE	np-al$np$np-al-f-sg	ita	TVE	np-al-m-sg$np$np-al-m
 	fra	Taiwan	np$np-top-m-sg	ita	Taiwan	np$np-loc-m$np-loc-m-sg
 	fra	Tanger	np$np-top-m-sg	ita	Tangeri	np$np-loc-m$np-loc-m-sg
-	fra	Tania	np$np-ant$np-ant-f-sg	ita	Tania	np-ant-f$np-ant-f-sg$np$np-ant
+	fra	Tania	np-ant-f-sg$np$np-ant	ita	Tania	np-ant-f$np-ant-f-sg$np$np-ant
 	fra	Tarantino	np-cog-mf-sp$np	ita	Tarantino	np-cog-mf-sp$np$np-cog-mf
 	fra	Tarragone	np$np-top-f$np-top-f-sg	ita	Tarragona	np$np-loc-m$np-loc-m-sg
 	fra	Tchétchénie	np$np-loc-f	ita	Cecenia	np$np-loc-f$np-loc-f-sg
@@ -8189,7 +8188,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Équateur	np$np-top-m$np-top-m-sg$np-top	ita	Ecuador	np$np-loc-m-sg$np-loc-m
 	fra	États-Unis	np$np-top-m-pl$np-top	ita	Stati Uniti	np$np-loc-m$np-loc-m-pl
 	fra	Éthiopie	np$np-top-f$np-top-f-sg$np-top	ita	Etiopia	np$np-loc-f$np-loc-f-sg
-	fra	Île de Pâques	np$np-top-f	ita	Isola di Pasqua	np$np-loc-f$np-loc-f-sg
+	fra	Île de Pâques	np$np-top-f$np-top-f-sg	ita	Isola di Pasqua	np$np-loc-f$np-loc-f-sg
 	fra	Île du Nord	np$np-top-f	ita	Isola del Nord	np$np-loc-f$np-loc-f-sg
 	fra	Îles Aléoutiennes	np$np-top-f	ita	Isole Aleutine	np-loc-f-pl$np$np-loc-f
 	fra	Îles Cook	np$np-top-f$np-top-f-pl	ita	Isole Cook	np$np-loc-f$np-loc-f-pl
@@ -8197,7 +8196,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Îles Malouines	np$np-top$np-top-f	ita	Isole Falkland	np-loc-f$np$np-loc-f-pl
 	fra	Îles Mariannes	np$np-top-f	ita	Isole Marianne	np-loc-f-pl$np$np-loc-f
 	fra	Îles Marquises	np$np-top-f	ita	Isole Marchesi	np-loc-f-pl$np$np-loc-f
-	fra	Îles Vierges britanniques	np$np-top-f	ita	Isole Vergini britanniche	np$np-loc$np-loc-f
+	fra	Îles Vierges britanniques	np$np-top-f$np-top-f-pl	ita	Isole Vergini britanniche	np$np-loc$np-loc-f
 	fra	Óscar	np$np-ant$np-ant-m-sg	ita	Óscar	np$np-ant$np-ant-m$np-ant-m-sg
 	fra	Úbeda	np$np-top-f-sg	ita	Úbeda	np$np-loc-m$np-loc-m-sg
 	fra	C	num$num-mf-sp	ita	C	num$num-mf-sp

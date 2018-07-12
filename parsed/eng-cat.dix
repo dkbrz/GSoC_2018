@@ -1556,8 +1556,8 @@ LR	eng	aviator	n$n-sg	cat	aviador	n-GD
 RL	eng	aviculture	n-sg	cat	avicultura	n-f-pl
 	eng	avidity	n	cat	avidesa	n-f$n$n-f-sg
 	eng	avionics	n	cat	aviònica	n-f$n
-	eng	avitaminosis	n-sg	cat	avitaminosi	n-f$n-f-sg
-RL	eng	avitaminosis	n-sg	cat	avitaminosi	n-f-pl
+	eng	avitaminosis	n-sg$n	cat	avitaminosi	n-f$n-f-sg
+RL	eng	avitaminosis	n-sg$n	cat	avitaminosi	n-f-pl
 	eng	avocado	n	cat	alvocat	n-m$n
 	eng	Avogadro constant	n	cat	nombre	n$n-m
 LR	eng	Avogadro number	n	cat	nombre	n$n-m
@@ -2439,7 +2439,7 @@ RL	eng	boy	n$n-ND	cat	nen	n-m$n$n-m-sg
 RL	eng	boy	n$n-ND	cat	xicot	n-m$n
 	eng	boy	n$n-ND	cat	xic	n-m
 	eng	boy	n$n-ND	cat	xiquet	n$n-m
-	eng	boy	n-pl	cat	canalla	n-f$n-f-sg$n
+	eng	boy	n-pl	cat	canalla	n-f-sg$n$n-f
 	eng	bracelet	n$n-sg	cat	braçalet	n-m$n
 	eng	brace	n	cat	tirant	n-m$n-m-pl$n
 	eng	brachistochrone	n	cat	braquistòcrona	n$n-f
@@ -2691,11 +2691,11 @@ RL	eng	bus driver	n	cat	xofer	n-f
 	eng	bush	n$n-ND	cat	arbust	n-m$n
 	eng	business day	n$n-ND	cat	dia laborable	n-m
 LR	eng	business name	n	cat	nom comercial	n-m
-	eng	businessman	n	cat	home	n-m$n
+	eng	businessman	n$n-pl	cat	home	n-m$n
 	eng	business	n$n-unc	cat	negoci	n-m$n
-	eng	businesswoman	n	cat	dona	n-f$n
-	eng	bus	n$n-sg	cat	autobús	n-m$n$n-m-ND
-RL	eng	bus	n$n-sg	cat	bus	n-m$n$n-m-sg
+	eng	businesswoman	n$n-pl	cat	dona	n-f$n
+	eng	bus	n$n-pl	cat	autobús	n-m$n$n-m-ND
+RL	eng	bus	n$n-pl	cat	bus	n-m$n$n-m-sg
 	eng	bustard	n	cat	avitarda	n-f
 	eng	bustle	n$n-sg	cat	enrenou	n-m$n
 	eng	bustle	n$n-sg	cat	renou	n-m$n
@@ -2762,8 +2762,8 @@ LR	eng	cafe	n$n-ND	cat	cafeteria	n-f$n
 	eng	caffeine	n$n-ND	cat	cafeïna	n-f$n
 	eng	cage	n$n-ND	cat	gàbia	n-f$n
 	eng	cairn	n	cat	fita	n-f$n
-	eng	cake	n$n-ND	cat	coca	n-f$n
-	eng	cake	n$n-ND	cat	pastís	n-m$n
+	eng	cake	n$n-pl	cat	coca	n-f$n
+	eng	cake	n$n-pl	cat	pastís	n-m$n
 	eng	calamity	n$n-sg	cat	calamitat	n-f$n$n-f-ND
 	eng	calcaneum	n	cat	calcani	n$n-m
 	eng	calcification	n	cat	calcificació	n-f$n
@@ -2864,9 +2864,9 @@ LR	eng	cannabis	n$n-sg	cat	cànnabis	n-m-sp$n$n-m
 LR	eng	cannabis	n-pl	cat	cànnabis	n-m-sp$n$n-m
 RL	eng	cannabis	n-ND	cat	cànnabis	n-m-sp$n$n-m
 	eng	cannibalism	n	cat	canibalisme	n-m$n$n-m-sg
-RL	eng	cannibal	n	cat	caníbal	n$n-mf
+RL	eng	cannibal	n	cat	caníbal	n-mf$n
 LR	eng	cannibal	n	cat	caníbal	n-GD
-	eng	cannibal	n	cat	caníbal	n$n-mf
+	eng	cannibal	n	cat	caníbal	n-mf$n
 	eng	cannon	n$n-ND	cat	canó	n-m$n
 	eng	cannula	n	cat	cànula	n-f
 	eng	canoeing	n	cat	piragüisme	n-m$n$n-m-sg
@@ -3056,9 +3056,9 @@ LR	eng	cashier	n$n-sg	cat	caixer	n-GD
 	eng	castilianisation	n	cat	castellanització	n$n-f
 RL	eng	Castilian	n$n-ND	cat	castellà	n$n-m$n-m-pl
 LR	eng	Castilian	n$n-ND	cat	castellà	n-GD
-	eng	casting	n	cat	càsting	n-m$n
-	eng	casting	n	cat	fosa	n-f$n
-	eng	casting	n	cat	peça	n-f$n
+	eng	casting	n$n-pl	cat	càsting	n-m$n
+	eng	casting	n$n-pl	cat	fosa	n-f$n
+	eng	casting	n$n-pl	cat	peça	n-f$n
 	eng	castle	n$n-ND	cat	castell	n$n-m
 	eng	castling	n	cat	enroc	n-m$n
 	eng	castorite	n	cat	castorita	n-f
@@ -3663,7 +3663,7 @@ LR	eng	climber	n	cat	escalador	n-GD
 LR	eng	clipboard	n$n-sg	cat	portapapers	n-m-sp$n-m$n
 LR	eng	clipboard	n-pl	cat	portapapers	n-m-sp$n-m$n
 RL	eng	clipboard	n-ND	cat	portapapers	n-m-sp$n-m$n
-	eng	clipper	n	cat	clíper	n$n-m
+	eng	clipper	n$n-pl	cat	clíper	n$n-m
 	eng	clipping	n	cat	retall	n-m$n
 	eng	clip	n$n-sg	cat	clip	n-m$n
 	eng	cliticisation	n	cat	clisi	n-f
@@ -3749,7 +3749,7 @@ LR	eng	cocain addict	n	cat	cocaïnòman	n$n-GD
 	eng	cockpit	n	cat	cabina	n-f$n
 	eng	cockroach	n	cat	panerola	n-f$n
 LR	eng	cock	n$n-ND	cat	gall	n$n-m
-	eng	cocktail	n$n-sg	cat	còctel	n-m$n$n-m-sg
+	eng	cocktail	n$n-pl	cat	còctel	n-m$n$n-m-sg
 	eng	cocoa	n$n-sg	cat	cacau	n-m$n
 	eng	coconut	n	cat	coco	n-m$n
 	eng	cocoon	n	cat	capoll	n-m$n
@@ -3778,7 +3778,7 @@ LR	eng	co-discoverer	n	cat	codescobridor	n$n-GD
 LR	eng	coffee	n$n-ND	cat	cafè	n-m$n$n-m-ND
 	eng	coffee	n$n-ND	cat	cafè	n-m$n$n-m-ND
 	eng	cofferdam	n	cat	atall	n-m
-	eng	coffer	n	cat	cassetó	n$n-m
+	eng	coffer	n$n-pl	cat	cassetó	n$n-m
 	eng	coffin	n$n-ND	cat	fèretre	n-m$n
 	eng	coffin	n$n-ND	cat	taüt	n-m$n
 RL	eng	cofounder	n	cat	cofundador	n$n-m
@@ -4303,7 +4303,7 @@ RL	eng	convict	n$n-ND	cat	galiot	n-m$n
 	eng	cookbook	n	cat	receptari	n-m$n
 LR	eng	cooker	n	cat	cuina	n-f$n
 	eng	cookery	n$n-ND	cat	cuina	n-f$n
-	eng	cookie	n	cat	galeta	n-f$n
+	eng	cookie	n$n-pl	cat	galeta	n-f$n
 	eng	cooking	n	cat	cocció	n-f$n
 	eng	cooking	n	cat	cuina	n-f$n
 RL	eng	cook	n$n-ND	cat	cuiner	n$n-m
@@ -4537,7 +4537,7 @@ LR	eng	cowshed	n	cat	estable	n-m$n$
 	eng	coxarthrosis	n	cat	coxartrosi	n-f
 	eng	coxa	n	cat	coxal	n-m$n
 	eng	coyote	n	cat	coiot	n-m$n
-	eng	crab	n	cat	cranc	n-m$n
+	eng	crab	n$n-pl	cat	cranc	n-m$n
 	eng	crackdown	n$n-sg	cat	mà dura	n-f-sg
 	eng	crackdown	n$n-sg	cat	repressió	n-f$n
 	eng	crack	n$n-ND	cat	esquerda	n-f$n
@@ -4627,9 +4627,9 @@ RL	eng	crocodilian	n	cat	crocodilià	n-f
 	eng	crocoite	n	cat	crocoïta	n-f
 	eng	croissant	n	cat	croissant	n-m$n
 	eng	crook	n	cat	pocavergonya	n-mf$n
-LR	eng	crop	n$n-ND	cat	collita	n-f$n
-	eng	crop	n$n-ND	cat	conreu	n-m$n
-	eng	crop	n$n-ND	cat	cultiu	n-m$n
+LR	eng	crop	n$n-pl	cat	collita	n-f$n
+	eng	crop	n$n-pl	cat	conreu	n-m$n
+	eng	crop	n$n-pl	cat	cultiu	n-m$n
 	eng	croquet	n	cat	croquet	n-m
 	eng	croquette	n	cat	croqueta	n-f$n
 	eng	crossband	n	cat	contraplacatge	n-m
@@ -4791,7 +4791,7 @@ RL	eng	cutter	n$n-ND	cat	coltell	n-m$n
 RL	eng	cutter	n$n-ND	cat	cúter	n-m$n
 	eng	cutter	n$n-ND	cat	tallador	n-m$n
 RL	eng	cutter	n$n-ND	cat	guardacostes	n-m
-	eng	cutting	n	cat	esqueix	n-m$n
+	eng	cutting	n$n-pl	cat	esqueix	n-m$n
 	eng	cuttlefish	n$n-ND	cat	sípia	n-f$n
 	eng	cutwater	n	cat	tallamar	n$n-m
 	eng	cyanide	n	cat	cianur	n-m$n
@@ -4988,11 +4988,11 @@ RL	eng	debtor	n$n-ND	cat	deutor	n-f
 	eng	decasyllable	n	cat	decasíl·lab	n$n-m
 	eng	decathlon	n	cat	decatló	n-m$n$n-m-sg
 	eng	decatizing	n	cat	decatissatge	n$n-m
-LR	eng	decay	n-sg	cat	càries	n-f$n-f-sp$n
-LR	eng	decay	n-pl	cat	càries	n-f$n-f-sp$n
+LR	eng	decay	n-sg	cat	càries	n-f-sp$n-f$n
+LR	eng	decay	n-pl	cat	càries	n-f-sp$n-f$n
 LR	eng	decay	n$n-ND	cat	decadència	n-f$n
 LR	eng	decay	n$n-ND	cat	desintegració	n-f$n
-RL	eng	decay	n$n-ND	cat	càries	n-f$n-f-sp$n
+RL	eng	decay	n$n-ND	cat	càries	n-f-sp$n-f$n
 RL	eng	deceased	n$n-ND	cat	difunt	n$n-m$
 LR	eng	deceased	n$n-ND	cat	difunt	n-GD
 	eng	decease	n$n-sg	cat	decés	n-m$n$n-m-sg
@@ -5722,7 +5722,7 @@ LR	eng	diver	n	cat	bus	n-GD
 RL	eng	dividend share	n	cat	bo	n-m$n
 	eng	dividend	n$n-sg	cat	dividend	n-m$n
 	eng	divination	n	cat	endevinació	n-f
-	eng	diving	n	cat	busseig	n-m
+	eng	diving	n	cat	busseig	n-m$n
 	eng	divinity	n$n-ND	cat	divinitat	n-f$n$n-f-ND
 	eng	divisibility	n	cat	divisibilitat	n$n-f
 	eng	division	n$n-sg	cat	divisió	n-f$n
@@ -5735,8 +5735,8 @@ RL	eng	dividend share	n	cat	bo	n-m$n
 RL	eng	docker	n	cat	estibador	n$n-f
 	eng	docker	n	cat	estibador	n-m
 	eng	docking station	n	cat	estació	n-f$n
-	eng	dock	n$n-ND	cat	molla	n-f$n
-	eng	dock	n$n-ND	cat	moll	n-m$n$
+	eng	dock	n$n-pl	cat	molla	n-f$n
+	eng	dock	n$n-pl	cat	moll	n-m$n$
 	eng	dockyard	n	cat	astiller	n-m
 	eng	dockyard	n	cat	drassana	n-f$n-f-pl
 	eng	doctorate	n	cat	doctorat	n-m$n
@@ -6013,7 +6013,7 @@ LR	eng	earl	n$n-ND	cat	comte	n$n-m
 	eng	early repayment	n	cat	amortització anticipada	n-f
 LR	eng	earnings	n$n-pl	cat	ingrés	n-m$n$n-m-pl
 	eng	earplug	n	cat	tap	n-m$n
-	eng	earring	n$n-sg	cat	arracada	n-f$n
+	eng	earring	n$n-pl	cat	arracada	n-f$n
 	eng	ear	n$n-sg	cat	orella	n-f$n
 	eng	earth station	n	cat	estació terrestre	n-f
 	eng	earthenware	n	cat	pisa	n-f$n
@@ -6380,7 +6380,7 @@ RL	eng	enemy	n$n-ND	cat	enemic	n-f
 	eng	engineering	n$n-unc	cat	enginyeria	n$n-f
 RL	eng	engineer	n$n-sg	cat	enginyer	n$n-m
 LR	eng	engineer	n$n-sg	cat	enginyer	n-GD
-	eng	engine	n$n-ND	cat	motor	n-m$n
+	eng	engine	n$n-pl	cat	motor	n-m$n
 LR	eng	englishman	n	cat	anglès	n$n-m
 RL	eng	English	n$n-ND	cat	anglès	n-f
 	eng	English	n$n-ND	cat	anglès	n$n-m
@@ -7165,7 +7165,7 @@ LR	eng	fight	n$n-ND	cat	baralla	n-f$n
 	eng	file	n$n-ND	cat	llima	n-f$n
 	eng	filesystem	n	cat	sistema	n-m$n
 	eng	filigree	n	cat	filigrana	n-f$n
-	eng	filing	n	cat	llimada	n-f
+	eng	filing	n$n-pl	cat	llimada	n-f
 RL	eng	Filipino	n	cat	filipí	n$n-m
 LR	eng	Filipino	n	cat	filipí	n-GD
 	eng	filler	n	cat	farciment	n-m$n
@@ -7677,7 +7677,7 @@ LR	eng	fun	n$n-unc	cat	diversió	n-f$n
 	eng	furcation	n	cat	furcació	n-f
 	eng	furnace	n$n-sg	cat	caldera	n-f$n
 	eng	furniture	n$n-sg	cat	mobiliari	n$n-m
-	eng	furrier	n	cat	pellaire	n-mf$n
+	eng	furrier	n	cat	pellaire	n-mf
 RL	eng	furrier	n	cat	pelleter	n$n-GD
 LR	eng	furrier	n	cat	pelleter	n$n-GD
 	eng	fur	n$n-ND	cat	pelatge	n-m$n
@@ -7786,8 +7786,8 @@ LR	eng	gardener	n$n-sg	cat	jardiner	n-GD
 	eng	gastroscopy	n	cat	gastroscòpia	n-f$n
 	eng	gastrula	n	cat	gàstrula	n$n-f
 	eng	gastrulation	n	cat	gastrulació	n-f$n
-	eng	gate	n$n-ND	cat	comporta	n-f$n
-LR	eng	gate	n$n-ND	cat	porta	n-f$n
+	eng	gate	n$n-pl	cat	comporta	n-f$n
+LR	eng	gate	n$n-pl	cat	porta	n-f$n
 LR	eng	gateway	n$n-ND	cat	porta	n-f$n
 	eng	gathering	n$n-sg	cat	reunió	n-f$n
 	eng	gauge	n	cat	gauge	n-m
@@ -7934,7 +7934,7 @@ RL	eng	gilder	n	cat	daurador	n-f
 	eng	girlfriend	n$n-ND	cat	nuvi	n-f
 	eng	girlfriend	n$n-ND	cat	xicot	n-f
 	eng	girl	n$n-ND	cat	al·lot	n-f
-	eng	girl	n$n-ND	cat	canalla	n-f$n-f-sg$n
+	eng	girl	n$n-ND	cat	canalla	n-f-sg$n$n-f
 	eng	girl	n$n-ND	cat	infant	n-m$n
 	eng	girl	n$n-ND	cat	marrec	n-f
 	eng	girl	n$n-ND	cat	minyó	n-f
@@ -7989,7 +7989,7 @@ RL	eng	globe	n$n-ND	cat	globus	n-m-sp$n-m
 	eng	gloss	n	cat	glossa	n-f$n
 	eng	glottalisation	n	cat	glotalització	n-f$n
 	eng	glottochronology	n	cat	glotocronologia	n-f$n
-	eng	glove	n$n-ND	cat	guant	n-m$n
+	eng	glove	n$n-pl	cat	guant	n-m$n
 	eng	glow	n$n-ND	cat	fulgor	n$n-m
 	eng	glucagon	n	cat	glucagó	n-m$n
 	eng	glucide	n	cat	glícid	n-m
@@ -8076,7 +8076,7 @@ LR	eng	Goth	n	cat	got	n-GD
 	eng	gouge	n	cat	gúbia	n-f$n
 	eng	gourd	n	cat	carabassa	n-f$n
 	eng	gourd	n	cat	carbassa	n-f$n
-	eng	gourmet	n	cat	gourmet	n$n-m
+	eng	gourmet	n	cat	gourmet	n-m
 	eng	gout	n	cat	poagre	n-m
 	eng	governance	n	cat	govern	n-m$n
 LR	eng	government head	n$n-ND	cat	cap	n-m$n$n-m-pl
@@ -8144,8 +8144,8 @@ LR	eng	grant	n$n-ND	cat	beca	n$n-f
 	eng	grape	n$n-pl	cat	raïm	n-m$n
 	eng	graph theory	n	cat	teoria	n-f$n
 	eng	graphene	n	cat	grafè	n$n-m
-LR	eng	graphics	n$n-ND	cat	gràfic	n-m$n
-	eng	graphics	n$n-ND	cat	grafisme	n$n-m
+LR	eng	graphics	n$n-pl	cat	gràfic	n-m$n
+	eng	graphics	n$n-pl	cat	grafisme	n$n-m
 	eng	graphite	n	cat	grafit	n-m$n$n-m-sg
 RL	eng	graphologist	n	cat	grafòleg	n$n-f
 	eng	graphologist	n	cat	grafòleg	n-m
@@ -8399,7 +8399,7 @@ RL	eng	handicapped person	n	cat	minusvàlid	n$n-m$
 LR	eng	handicapped person	n	cat	minusvàlid	n-GD
 	eng	handicraft	n	cat	manualitat	n-f$n
 	eng	handkerchief	n$n-ND	cat	mocador	n-m$n
-	eng	handlebar	n	cat	manillar	n-m$n
+	eng	handlebar	n$n-pl	cat	manillar	n-m$n
 	eng	handle	n$n-sg	cat	empunyadura	n-f$n
 	eng	handle	n$n-sg	cat	mànec	n-m$n
 	eng	handle	n$n-sg	cat	maneta	n-f$n
@@ -8507,7 +8507,7 @@ LR	eng	heathen	n	cat	pagà	n$n-GD
 	eng	heath	n$n-ND	cat	bruc	n-m$n
 	eng	heating	n	cat	calefacció	n-f$n
 	eng	heat	n$n-sg	cat	calor	n-f$n
-	eng	heaven	n$n-ND	cat	cel	n$n-m
+	eng	heaven	n$n-pl	cat	cel	n$n-m
 	eng	Hebraism	n	cat	hebraisme	n-m
 RL	eng	Hebrew	n	cat	hebreu	n$n-m
 RL	eng	Hebrew	n	cat	hebreu	n-f
@@ -8771,7 +8771,7 @@ LR	eng	hoist	n-pl	cat	muntacàrregues	n-m-sp
 RL	eng	hoist	n$n-sg	cat	polispast	n-m$n
 RL	eng	hoist	n-ND	cat	muntacàrregues	n-m-sp
 LR	eng	holder	n$n-ND	cat	titular	n-mf$n
-	eng	holding	n	cat	holding	n-m$n
+	eng	holding	n$n-pl	cat	holding	n-m$n
 	eng	hold	n$n-ND	cat	agafament	n-m
 	eng	hold	n$n-ND	cat	bodega	n-f
 LR	eng	hold	n$n-ND	cat	control	n-m$n
@@ -9878,8 +9878,8 @@ RL	eng	jasmine	n	cat	gessamí	n-f
 	eng	jay	n	cat	gaig	n-m$n
 	eng	jazz	n$n-sg	cat	jazz	n$n-m-sp$n-m
 	eng	jealousy	n$n-pl	cat	gelosia	n$n-f$n-f-sg
-	eng	jeans	n$n-pl	cat	texans	n-m-pl
-LR	eng	jeans	n-sg	cat	texans	n-m-pl
+	eng	jeans	n$n-pl	cat	texans	n-m-pl$n-m
+LR	eng	jeans	n-sg	cat	texans	n-m-pl$n-m
 	eng	jeep	n	cat	jeep	n-m$n$n-m-sg
 	eng	jejunum	n	cat	jejú	n-m$n
 	eng	jellyfish	n	cat	medusa	n-f$n
@@ -10035,8 +10035,8 @@ LR	eng	kidnapper	n	cat	segrestador	n$n-GD
 	eng	kidnapping	n$n-ND	cat	segrest	n-m$n
 RL	eng	kidney stone	n	cat	pedra	n-f$n
 	eng	kidney stone	n	cat	pedra	n-f$n
-	eng	kidney	n$n-sg	cat	renyó	n$n-m
-	eng	kidney	n$n-sg	cat	ronyó	n-m$n
+	eng	kidney	n$n-pl	cat	renyó	n$n-m
+	eng	kidney	n$n-pl	cat	ronyó	n-m$n
 LR	eng	kid	n$n-ND	cat	nen	n-m$n$n-m-sg
 LR	eng	kid	n$n-ND	cat	xiquet	n$n-m
 	eng	kieselguhr	n	cat	kieselgur	n-m
@@ -10112,7 +10112,7 @@ RL	eng	knot	n$n-ND	cat	nuc	n$n-m
 	eng	knowledge	n$n-ND	cat	coneixement	n-m$n
 	eng	knowledge	n$n-ND	cat	coneixença	n-f$n
 	eng	knowledge	n$n-ND	cat	saber	n-m$n
-	eng	knuckle	n	cat	artell	n-m$n
+	eng	knuckle	n$n-pl	cat	artell	n-m$n
 	eng	koala	n	cat	coala	n-m$n
 	eng	koine	n	cat	koiné	n-f$n
 RL	eng	Korean	n	cat	coreà	n-f
@@ -10243,7 +10243,7 @@ RL	eng	language	n$n-ND	cat	llenguatge	n-m$n
 	eng	lard	n	cat	llard	n-m
 	eng	lard	n	cat	sagí	n-m
 	eng	lark	n	cat	alosa	n$n-f
-	eng	larva	n	cat	larva	n-f$n
+	eng	larva	n$n-pl	cat	larva	n-f$n
 	eng	laryngectomy	n	cat	laringectomia	n-f
 	eng	laryngofissure	n	cat	laringofissura	n-f
 	eng	laryngography	n	cat	laringografia	n-f
@@ -11449,7 +11449,7 @@ RL	eng	micronisation	n-sg	cat	micronització	n-f-pl
 	eng	micropyle	n	cat	micròpil	n-m
 	eng	microscope	n$n-sg	cat	microscopi	n-m$n
 	eng	microscopy	n	cat	microscòpia	n-f$n
-	eng	microsecond	n	cat	microsegon	n$n-m
+	eng	microsecond	n$n-pl	cat	microsegon	n$n-m
 	eng	microsociology	n	cat	microsociologia	n-f
 	eng	microsome	n	cat	microsoma	n$n-m
 	eng	microspike	n	cat	micropua	n-f
@@ -11524,7 +11524,7 @@ LR	eng	millionaire	n$n-ND	cat	milionari	n-GD
 LR	eng	millipede	n$n-sg	cat	milpeus	n-m-sp
 LR	eng	millipede	n-pl	cat	milpeus	n-m-sp
 RL	eng	millipede	n-ND	cat	milpeus	n-m-sp
-	eng	millisecond	n	cat	mil·lisegon	n-m$n
+	eng	millisecond	n$n-pl	cat	mil·lisegon	n-m$n
 	eng	millivolt	n	cat	mil·livolt	n-m
 	eng	mill	n$n-ND	cat	molí	n-m$n
 	eng	mimosa	n	cat	mimosa	n-f$n
@@ -11535,7 +11535,7 @@ RL	eng	minder	n	cat	guardador	n-f
 	eng	mineralisation	n	cat	mineralització	n-f$n
 	eng	mineralogist	n	cat	mineralogista	n$n-mf
 	eng	mineralogy	n	cat	mineralogia	n-f$n
-	eng	mineral	n$n-ND	cat	mineral	n-m$n
+	eng	mineral	n$n-pl	cat	mineral	n-m$n
 RL	eng	miner	n	cat	miner	n$n-m
 LR	eng	miner	n	cat	miner	n-GD
 	eng	mine	n$n-sg	cat	mina	n$n-f
@@ -12342,7 +12342,7 @@ LR	eng	Norwegian	n	cat	noruec	n-GD
 	eng	nosing	n	cat	cantonera	n-f$n-f-ND$n
 	eng	no.	n$n-sg	cat	núm.	n$n-m-sp
 	eng	nostalgia	n$n-ND	cat	nostàlgia	n$n-f
-	eng	nostril	n$n-sg	cat	nariu	n-m$n
+	eng	nostril	n$n-pl	cat	nariu	n-m$n
 RL	eng	notary	n$n-ND	cat	notari	n-f
 	eng	notary	n$n-ND	cat	notari	n$n-m
 	eng	notation	n	cat	anotació	n-f$n
@@ -13334,7 +13334,7 @@ LR	eng	peal	n	cat	repic	n-m$n
 	eng	peasantry	n	cat	pagesia	n-f$n
 RL	eng	peasant	n$n-sg	cat	camperol	n$n-m
 LR	eng	peasant	n$n-sg	cat	camperol	n-GD
-	eng	pea	n$n-sg	cat	pèsol	n-m$n
+	eng	pea	n$n-pl	cat	pèsol	n-m$n
 	eng	peat	n$n-ND	cat	torba	n-f$n
 	eng	pebble	n$n-ND	cat	còdol	n-m$n
 RL	eng	pebble	n$n-ND	cat	cudol	n$n-m
@@ -13699,7 +13699,7 @@ LR	eng	photographer	n$n-ND	cat	fotògraf	n-GD
 	eng	PHP	n-acr$n	cat	PHP	n-acr-m
 	eng	phragmoplast	n	cat	fragmoplast	n-m
 	eng	phraseology	n	cat	fraseologia	n-f$n
-LR	eng	phrase	n$n-ND	cat	frase	n-f$n
+LR	eng	phrase	n$n-pl	cat	frase	n-f$n
 	eng	phrenology	n	cat	frenologia	n-f
 RL	eng	pH	n-acr$n$n-acr-ND	cat	pH	n-acr-m-sp$n$n-m$n-acr-m
 LR	eng	pH	n-acr-sg	cat	pH	n-acr-m-sp$n$n-m$n-acr-m
@@ -13776,10 +13776,10 @@ RL	eng	pigeon	n	cat	colom	n-f
 	eng	pigment	n	cat	pigment	n-m$n
 	eng	pig	n$n-sg	cat	porc	n-m$n$
 	eng	pilaster	n	cat	pilastra	n-f$n
-	eng	pile	n$n-ND	cat	amàs	n$n-m
-LR	eng	pile	n$n-ND	cat	estaca	n-f$n
-	eng	pile	n$n-ND	cat	munt	n-m$n$n-m-ND
-LR	eng	pile	n$n-ND	cat	pila	n-f$n
+	eng	pile	n$n-pl	cat	amàs	n$n-m
+LR	eng	pile	n$n-pl	cat	estaca	n-f$n
+	eng	pile	n$n-pl	cat	munt	n-m$n$n-m-ND
+LR	eng	pile	n$n-pl	cat	pila	n-f$n
 RL	eng	pilferer	n	cat	lladregot	n$n-m
 LR	eng	pilferer	n	cat	lladregot	n-GD
 RL	eng	pilgrimage	n	cat	pelegrinació	n-f$n
@@ -15573,7 +15573,7 @@ RL	eng	retainer	n	cat	retenidor	n-f
 	eng	reticulocytosis	n	cat	reticulocitosi	n-f
 	eng	reticulosis	n	cat	reticulosi	n-f
 	eng	retinaculum	n	cat	retinacle	n-m
-	eng	retina	n$n-ND	cat	retina	n-f$n
+	eng	retina	n$n-pl	cat	retina	n-f$n
 	eng	retinoblastoma	n	cat	retinoblastoma	n$n-m
 	eng	retinography	n	cat	retinografia	n-f
 	eng	retinopathy	n	cat	retinopatia	n-f$n
@@ -15989,8 +15989,8 @@ RL	eng	sample	n	cat	mostral	n-f
 	eng	sanction	n$n-ND	cat	sanció	n-f$n
 	eng	sanctity	n	cat	santedat	n-f$n$n-f-sg
 	eng	sanctuary	n$n-ND	cat	santuari	n-m$n
-	eng	sandal	n	cat	sandàlia	n-f$n
-	eng	sandal	n	cat	sàndal	n-m$n
+	eng	sandal	n$n-pl	cat	sandàlia	n-f$n
+	eng	sandal	n$n-pl	cat	sàndal	n-m$n
 	eng	sandbinder	n	cat	aglutinant	n-m
 RL	eng	sandblaster	n	cat	sorrejador	n-f
 	eng	sandblaster	n	cat	sorrejador	n-m
@@ -16192,8 +16192,8 @@ LR	eng	scoundrel	n	cat	pocavergonya	n-mf$n
 	eng	scratch	n	cat	rascada	n-f$n
 	eng	scream	n$n-ND	cat	crit	n-m$n$n-m-sg
 	eng	scream	n$n-ND	cat	xiscle	n-m$n
-RL	eng	screening	n$n-ND	cat	cribratge	n-m
-LR	eng	screening	n$n-ND	cat	exploració	n-f$n
+RL	eng	screening	n$n-pl	cat	cribratge	n-m
+LR	eng	screening	n$n-pl	cat	exploració	n-f$n
 	eng	screenplay	n	cat	guió	n-m$n
 	eng	screensaver	n	cat	estalvi	n-m$n$
 	eng	screen	n$n-ND	cat	pantalla	n-f$n
@@ -16201,9 +16201,9 @@ LR	eng	screening	n$n-ND	cat	exploració	n-f$n
 RL	eng	scree	n	cat	tarter	n-f
 	eng	scree	n	cat	tarter	n-m
 	eng	screwdriver	n	cat	tornavís	n-m$n
-	eng	screw	n	cat	caragol	n-m$n$n-m-pl
-	eng	screw	n	cat	cargol	n-m$n$n-m-pl
-RL	eng	screw	n	cat	vis	n-m
+	eng	screw	n$n-pl	cat	caragol	n-m$n$n-m-pl
+	eng	screw	n$n-pl	cat	cargol	n-m$n$n-m-pl
+RL	eng	screw	n$n-pl	cat	vis	n-m
 	eng	scribbling	n	cat	embonatge	n-m
 	eng	scriber	n	cat	rosset	n$n-m
 RL	eng	scribe	n	cat	escribà	n-f
@@ -16809,7 +16809,7 @@ LR	eng	skier	n	cat	esquiador	n-GD
 	eng	skin	n$n-ND	cat	pell	n-f$n
 	eng	skirmish	n$n-sg	cat	escaramussa	n-f$n
 	eng	skirt	n$n-sg	cat	faldilla	n-f$n
-	eng	ski	n$n-sg	cat	esquí	n-m$n$n-m-sg
+	eng	ski	n$n-pl	cat	esquí	n-m$n$n-m-sg
 	eng	skittle	n$n-pl	cat	bitlla	n-f$n
 	eng	skull	n$n-ND	cat	crani	n-m$n
 	eng	skyscraper	n$n-ND	cat	gratacel	n$n-m$n-m-ND
@@ -17370,7 +17370,7 @@ RL	eng	start	n$n-sg	cat	sortida	n-f$n
 	eng	statampere	n	cat	statampere	n-m
 	eng	statehood	n-unc$n	cat	sobirania	n-f$n$n-f-sg
 	eng	statement	n$n-ND	cat	declaració	n-f$n
-	eng	statesman	n	cat	estadista	n-mf$n
+	eng	statesman	n$n-pl	cat	estadista	n-mf$n
 	eng	state	n$n-sg	cat	estat	n-m$n
 	eng	statics	n	cat	estàtica	n-f
 	eng	stationarity	n	cat	estacionarietat	n-f
@@ -17483,7 +17483,7 @@ RL	eng	stimulator	n	cat	estimulador	n-f
 	eng	stock market	adj	cat	borsari	adj-GD$adj
 	eng	stock market	n	cat	mercat	n-m$n
 LR	eng	stockholder	n	cat	accionista	n-mf$n
-	eng	stocking	n$n-sg	cat	mitja	n-f
+	eng	stocking	n$n-pl	cat	mitja	n-f
 	eng	stock	n$n-sg	cat	estoc	n-m$n$n-m-sg
 	eng	stoichiometry	n	cat	estequiometria	n$n-f
 	eng	stoicism	n	cat	estoïcisme	n-m$n
@@ -18118,7 +18118,7 @@ LR	eng	tamer	n	cat	domador	n-GD
 	eng	tanzanite	n	cat	tanzanita	n-f
 	eng	Taoism	n	cat	taoisme	n-m$n
 	eng	tao	n	cat	tao	n-m
-	eng	tape	n$n-ND	cat	cinta	n-f$n
+	eng	tape	n$n-pl	cat	cinta	n-f$n
 	eng	tapestry	n$n-ND	cat	tapís	n-m$n
 	eng	tap	n$n-pl	cat	aixeta	n-f$n
 	eng	tap	n$n-pl	cat	copet	n-m$n
@@ -19369,7 +19369,7 @@ LR	eng	venture	n$n-ND	cat	aventura	n-f$n
 	eng	versatility	n$n-ND	cat	versatilitat	n-f$n
 	eng	verse	n$n-sg	cat	vers	n-m$n
 	eng	version	n$n-ND	cat	versió	n-f$n
-	eng	vertebra	n$n-sg	cat	vèrtebra	n-f$n
+	eng	vertebra	n$n-pl	cat	vèrtebra	n-f$n
 	eng	vertebrate	n	cat	vertebrat	n-m$
 	eng	vertex	n	cat	vèrtex	n-m$n
 	eng	verticality	n	cat	verticalitat	n-f$n
@@ -19969,7 +19969,7 @@ LR	eng	yugoslav	n	cat	iugoslau	n-GD
 	eng	zapping	n	cat	zàping	n-m$n
 	eng	ZDF	n-acr$n	cat	ZDF	n-acr-f
 	eng	zeal	n$n-sg	cat	zel	n-m$n-m-sg$n
-	eng	zebra	n$n-ND	cat	zebra	n-f$n
+	eng	zebra	n	cat	zebra	n-f$n
 	eng	zenith	n	cat	zenit	n-m$n-m-ND
 	eng	Zen	n	cat	zen	n-m$n
 	eng	zeolite	n	cat	zeolita	n-f$n
@@ -39006,7 +39006,7 @@ RL	eng	William Tell	np-ant$np-ant-m-sg	cat	William Tell	np-ant-m-sg
 	eng	Casco		cat	Casco	np-cog-mf-sp$
 	eng	Casellas		cat	Casellas	$np-cog-mf-sp
 	eng	Caselles		cat	Caselles	np-cog-mf-sp$
-	eng	Casero		cat	Casero	np-cog-mf-sp$
+	eng	Casero		cat	Casero	np-cog-mf-sp$$np
 	eng	Cases		cat	Cases	$np-cog-mf-sp
 	eng	Casey	np-ant$$np$np-ant-m-sg	cat	Casey	np-ant-m-sg$np$
 	eng	Casgrain		cat	Casgrain	np-cog-mf-sp$
@@ -39303,7 +39303,7 @@ RL	eng	William Tell	np-ant$np-ant-m-sg	cat	William Tell	np-ant-m-sg
 	eng	Chu	np-ant-m$	cat	Chu	np-cog-mf-sp$
 	eng	Chung	$np-cog-mfn	cat	Chung	np-cog-mf-sp$
 	eng	Churchill	np$np-cog-sg$np-cog$	cat	Churchill	np-cog-mf-sp$$np
-	eng	Church	n$	cat	Church	np-cog-mf-sp$
+	eng	Church	$np	cat	Church	np-cog-mf-sp$
 	eng	Cianci		cat	Cianci	np-cog-mf-sp$
 	eng	Ciccarelli		cat	Ciccarelli	np-cog-mf-sp$
 	eng	Ciccone		cat	Ciccone	np-cog-mf-sp$
@@ -47789,7 +47789,7 @@ LR	eng	Bilbo	np-top-sg	cat	Bilbao	np-top-m-sg
 	eng	Bogota	np-top$np$np-top-sg	cat	Bogotà	np-top-m-sg
 	eng	Bogotá	np-top-sg	cat	Bogotà	np-top-m-sg
 	eng	Bohai Sea	np-top-sg	cat	mar de Bohai	np-top-m-sg
-	eng	Bohemia	np-top$np-top-sg	cat	Bohèmia	np-top-f-sg
+	eng	Bohemia	np-top$np-top-sg	cat	Bohèmia	np-top$np-top-f-sg
 	eng	Boiro	np-top-sg	cat	Boiro	np-top-m-sg
 	eng	Bois de Boulogne	np-top-sg	cat	Bois de Boulogne	np-top-m-sg
 	eng	Bois de Vincennes	np-top-sg	cat	Bois de Vincennes	np-top-m-sg
@@ -54635,7 +54635,7 @@ RL	eng	lieutenant	n$n-ND	cat	tinent	n-mf$n
 RL	eng	deputy mayor	n	cat	tinent alcalde	n-mf
 RL	eng	deputy mayor	n	cat	tinent	n-mf$n
 RL	eng	deputy mayor	n	cat	tinent alcaldessa	n-mf
-RL	eng	casting	n	cat	buidatge	n-m$n
+RL	eng	casting	n$n-pl	cat	buidatge	n-m$n
 RL	eng	ending	n$n-ND	cat	finalització	n-f$n
 	eng	setting	n$n-pl	cat	enquadrament	n-m$n
 RL	eng	jersey	n	cat	mallot	n-m$n

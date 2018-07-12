@@ -92,19 +92,19 @@
 	fin	300.	num	ces	300.	num
 	fin	400.	num	ces	400.	num
 	fin	500.	num	ces	500.	num
-	fin	puutarha	n$n-ND	ces	zahrada	n-f
+	fin	puutarha	n$n-ND	ces	zahrada	n-f$n
 	fin	sää	n	ces	počasí	n-nt
-	fin	talo	n$n-ND	ces	dům	n-mi
+	fin	talo	n$n-ND	ces	dům	n-mi$n
 	fin	poika	n$n-ND	ces	kluk	n-ma
-	fin	vuosi	n$n-ND	ces	léto	n-nt
+	fin	vuosi	n$n-ND	ces	léto	n-nt$n
 	fin	tyttö	n$n-ND	ces	holka	n-f
 	fin	sisko	n	ces	sestra	n-f
-	fin	koira	n$n-ND	ces	pes	n-ma
-	fin	kissa	n$n-ND	ces	kočka	n-f
+	fin	koira	n$n-ND	ces	pes	n-ma$n
+	fin	kissa	n$n-ND	ces	kočka	n-f$n
 	fin	lapsi	n$n-ND	ces	ditě	n-nt
 	fin	äiti	n	ces	matka	n-f
-	fin	ikkuna	n$n-ND	ces	okno	n-nt
-	fin	puu	n$n-ND	ces	strom	n-mi
+	fin	ikkuna	n$n-ND	ces	okno	n-nt$n
+	fin	puu	n$n-ND	ces	strom	n-mi$n
 	fin	käsi	n$n-ND	ces	ruce	n-f
 	fin	silmä	n$n-ND	ces	oko	n-f
 	fin	leikki	n$n-ND	ces	hrat	n-f
@@ -112,13 +112,13 @@
 	fin	vastaus	n	ces	odpověď	n-nt
 	fin	kysymys	n$n-ND	ces	otázka	n-f
 	fin	ihminen	n$n-pl	ces	lidi	n-ma
-	fin	pöytä	n$n-ND	ces	stůl	n-mi
-	fin	tuoli	n$n-ND	ces	židle	n-f
+	fin	pöytä	n$n-ND	ces	stůl	n-mi$n
+	fin	tuoli	n$n-ND	ces	židle	n-f$n
 	fin	ääni	n$n-ND	ces	zvuk	n-mi
 	fin	lintu	n$n-ND	ces	pták	n-ma
 	fin	eläin	n$n-ND	ces	žvíře	n-f
-	fin	pää	n$n-sg-nom	ces	hlava	n-f
-	fin	vesi	n$n-ND	ces	voda	n-f
+	fin	pää	n$n-sg-nom	ces	hlava	n-f$n
+	fin	vesi	n$n-ND	ces	voda	n-f$n
 	fin	ei	vblex$vblex-neg$vblex-neg-cnjcoo	ces	ne	adv
 	fin	voida	vaux$vaux-neg	ces	moci	vaux-impf-ma$vaux-impf
 	fin	osata	vblex	ces	moci	vaux-impf-ma$vaux-impf
@@ -127,10 +127,10 @@
 	fin	leikkiä	vblex	ces	hrát	vblex$vblex-impf
 	fin	nukkua	vblex	ces	spit	vblex-impf
 	fin	katsoa	vblex$vblex-pr	ces	dívat	vblex-impf
-	fin	nähdä	vblex	ces	vidět	vblex-impf
-	fin	tietää	vblex	ces	vědět	vblex-impf$vblex
-	fin	laskea	vblex$vblex-der_minen	ces	počítat	vblex-impf
-	fin	tehdä	vblex	ces	dělat	vblex-impf$vblex
+	fin	nähdä	vblex	ces	vidět	vblex-impf$vblex
+	fin	tietää	vblex	ces	vědět	vblex$vblex-impf
+	fin	laskea	vblex$vblex-der_minen	ces	počítat	vblex-impf$vblex
+	fin	tehdä	vblex	ces	dělat	vblex$vblex-impf
 	fin	etsiä	vblex$vblex-actv-infe-sg-ins	ces	hledat	vblex$vblex-impf
 	fin	mennä	vblex	ces	jít	vblex-impf
 	fin	kysyä	vblex	ces	zeptat	vblex$vblex-perf$vblex-perf-ref
@@ -143,7 +143,7 @@
 	fin	kuunnella	vblex	ces	poslouchat	vblex-impf-iv
 	fin	syödä	vblex	ces	pojísti	vblex-perf-tv
 	fin	juoda	vblex	ces	napit	vblex-perf-tv
-	fin	hyvä	adj$adj-comp	ces	pěkný	adj-sint$adj-sint-nt
+	fin	hyvä	adj$adj-comp	ces	pěkný	adj$adj-sint$adj-sint-nt
 	fin	lämmin	adj$adj-comp	ces	teplo	n-nt
 	fin	kylmä	adj$adj-comp	ces	hladan	n-f
 	fin	iso	adj	ces	velký	adj$adj-sint$adj-sint-nt

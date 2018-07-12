@@ -26,7 +26,7 @@ RL	fra	abattu	adj	cat	alacaigut	adj$
 	fra	abdiquer	vblex	cat	abdicar	vblex
 	fra	abeille	n$n-f$n-f-ND	cat	abella	n-f$n
 	fra	Abel	np-cog$np-cog-mf-sp	cat	Abel	np-cog$np-cog-mf-sp
-	fra	Abel	np-ant$np$np-ant-m-sg	cat	Abel	np$np-ant-m-sg$$np-ant
+	fra	Abel	np-ant$np-ant-m-sg$np	cat	Abel	np$np-ant-m-sg$$np-ant
 	fra	Abellán	np$np-cog-mf-sp$np-cog	cat	Abellán	np$$np-cog$np-cog-mf-sp
 	fra	aberrant	adj$adj-f	cat	aberrant	adj$adj-mf
 	fra	aberrantement	adv	cat	aberrantment	adv
@@ -313,12 +313,12 @@ RL	fra	affreux	adj-m-sp$adj	cat	horrorós	adj-m-sg$adj-sup-m-sg
 LR	fra	affubler	vblex	cat	vestir	vblex$vblex-pron
 	fra	afghan	adj$adj-GD-ND	cat	afganès	adj$
 	fra	Afghanistan	np$np-top-m$np-top-m-sg$np-top	cat	Afganistan	np-top-m-sg$np-top-m
-	fra	Tadjikistan	np$np-top-m$np-top$np-top-m-sg	cat	Tadjikistan	np$np-top-m-sg$np-top
-	fra	Ouzbékistan	np$np-top-m$np-top$np-top-m-sg	cat	Uzbekistan	np$np-top-m-sg$np-top
+	fra	Tadjikistan	np$np-top-m$np-top-m-sg$np-top	cat	Tadjikistan	np$np-top-m-sg$np-top
+	fra	Ouzbékistan	np$np-top-m$np-top-m-sg$np-top	cat	Uzbekistan	np$np-top-m-sg$np-top
 	fra	Kazakhstan	np$np-top-m$np-top-m-sg$np-top	cat	Kazakhstan	np-top-m-sg$np-top
-	fra	Kirghizistan	np$np-top$np-top-m-sg	cat	Kirguizistan	np-top-m-sg$np-top
-	fra	Turkménistan	np$np-top$np-top-m$np-top-m-sg	cat	Turkmenistan	np-top-m-sg$np-top
-	fra	Kurdistan	np$np-top$np-top-m$np-top-m-sg	cat	Kurdistan	np-top-m-sg$np-top
+	fra	Kirghizistan	np$np-top-m-sg$np-top	cat	Kirguizistan	np-top-m-sg$np-top
+	fra	Turkménistan	np$np-top-m-sg$np-top$np-top-m	cat	Turkmenistan	np-top-m-sg$np-top
+	fra	Kurdistan	np$np-top-m-sg$np-top$np-top-m	cat	Kurdistan	np-top-m-sg$np-top
 	fra	afin de	pr	cat	per tal de	pr
 RL	fra	afin de	pr	cat	amb la finalitat de	pr
 	fra	afin que	cnjadv	cat	per tal que	cnjadv
@@ -505,7 +505,7 @@ LR	fra	allure	n-f$n-f-ND	cat	aspecte	n-m$n
 	fra	allusif	adj	cat	al·lusiu	adj$
 	fra	Almansa	np-top-f-sg	cat	Almansa	np-top-f-sg
 	fra	Almodóvar	np$np-cog-mf-sp$np-cog	cat	Almodóvar	np$$np-cog$np-cog-mf-sp
-	fra	Almudena	np$np-ant$np-ant-f-sg	cat	Almudena	np$np-ant-f-sg$np-ant
+	fra	Almudena	np$np-ant-f-sg$np-ant	cat	Almudena	np$np-ant-f-sg$np-ant
 	fra	Almunia	np$np-cog-mf-sp$np-cog	cat	Almunia	np$$np-cog$np-cog-mf-sp
 	fra	Alonso	np-cog$np-cog-mf-sp	cat	Alonso	np-cog$np-cog-mf-sp
 	fra	alors	adv	cat	llavors	adv
@@ -640,8 +640,8 @@ RL	fra	ancienneté	n$n-f$n-f-ND	cat	antiquitat	n
 	fra	Andrade	np$np-cog$np-cog-mf-sp	cat	Andrade	np-cog$np-cog-mf-sp
 	fra	Andrea	np$np-ant$np-ant-f-sg	cat	Andrea	np$np-ant$np-ant-f-sg
 	fra	Andrés	np$np-ant$np-ant-m-sg	cat	Andrés	np$np-ant-m-sg$$np-ant
-	fra	Andreu	np$np-cog$np-cog-mf-sp	cat	Andreu	np-cog$np-cog-mf-sp
-	fra	Andreu	np-ant-m-sg	cat	Andreu	np$np-ant$np-ant-m-sg$
+	fra	Andreu	np-cog$np-cog-mf-sp	cat	Andreu	np-cog$np-cog-mf-sp
+	fra	Andreu	np$np-ant-m-sg	cat	Andreu	np$np-ant$np-ant-m-sg$
 	fra	Andreï	np$np-ant-m-sg	cat	Andrei	np-ant-m-sg$$np$np-ant
 	fra	âne	n-m$n$n-m-ND	cat	ase	n-m$n
 LR	fra	âne	n-f	cat	ase	n-m$n
@@ -766,7 +766,7 @@ RL	fra	apercevoir	vblex	cat	albirar	vblex
 	fra	aperçu	n-m$n-m-ND	cat	percepció	n-f$n
 	fra	aplanir	vblex	cat	aplanar	vblex
 	fra	aplomb	n-m$n	cat	aplom	n-m$n
-	fra	Apollon	np-ant$np-ant-m-sg	cat	Apol·lo	np$np-ant-m-sg$np-ant
+	fra	Apollon	np-ant-m-sg$np-ant	cat	Apol·lo	np$np-ant-m-sg$np-ant
 LR	fra	Apolo	np$np-ant$np-ant-m-sg	cat	Apol·lo	np$np-ant-m-sg$np-ant
 	fra	apostiller	vblex	cat	postil·lar	vblex
 	fra	apparaître	vblex	cat	aparèixer	vblex
@@ -863,7 +863,7 @@ RL	fra	après-midi	n-m$n-m-sp$n	cat	vesprada	n-f$n
 	fra	arbre	n-m$n$n-m-ND	cat	arbre	n$n-m
 	fra	arbrisseau	n-m$n	cat	arbust	n-m$n
 	fra	arc	n-m$n$n-m-ND	cat	arc	n-m$n
-	fra	Arcadi	np$np-ant-m-sg	cat	Arcadi	np$np-ant-m-sg$np-ant
+	fra	Arcadi	np-ant-m-sg$np	cat	Arcadi	np$np-ant-m-sg$np-ant
 	fra	Arce	np$np-cog$np-cog-mf-sp	cat	Arce	np-cog$np-cog-mf-sp
 	fra	arc	n-m$n$n-m-ND	cat	arc	n-m$n
 LR	fra	arche	n-f$n$n-f-ND	cat	arc	n-m$n
@@ -1134,7 +1134,7 @@ RL	fra	audiovisuel	adj-GD$adj$$adj-GD-ND	cat	audiovisual	adj-mf$adj$
 	fra	augmentation	n-f$n-f-ND$n	cat	augment	n-m$n
 	fra	augmenter	vblex	cat	augmentar	vblex
 	fra	augurer	vblex	cat	augurar	vblex
-	fra	Augusto	np$np-ant-m-sg$np-ant	cat	Augusto	np$np-ant-m-sg$
+	fra	Augusto	np-ant-m-sg$np$np-ant	cat	Augusto	np$np-ant-m-sg$
 	fra	aujourd'hui	adv	cat	avui	adv
 RL	fra	aujourd'hui	adv	cat	hui	adv
 RL	fra	aujourd'hui	adv	cat	avui dia	adv
@@ -1152,8 +1152,8 @@ LR	fra	au jour d'aujourd'hui	adv	cat	avui dia	adv
 LR	fra	auprès	adv	cat	a prop	adv
 	fra	auquel	rel$prn-rel-f	cat	al qual	rel-aa
 RL	fra	auquel	rel-GD-ND	cat	a què	rel-an-mf-sp
-	fra	Aura	np-ant-f-sg	cat	Aura	$np$np-ant$np-ant-f-sg
-	fra	Aurelio	np$np-ant$np-ant-m-sg	cat	Aurelio	np$np-ant-m-sg
+	fra	Aura	np$np-ant-f-sg	cat	Aura	$np$np-ant$np-ant-f-sg
+	fra	Aurelio	np-ant-m-sg$np$np-ant	cat	Aurelio	np$np-ant-m-sg
 	fra	Aurora	np$np-ant$np-ant-f-sg	cat	Aurora	np$np-ant-f-sg$$np-ant
 	fra	aussi	adv	cat	també	adv
 	fra	aussitôt	adv	cat	de seguida	adv
@@ -1380,8 +1380,8 @@ LR	fra	barquette	n$n-f	cat	barcassa	n$n-f
 	fra	barrer	vblex	cat	barrar	vblex
 LR	fra	barricader	vblex	cat	embussar	vblex
 	fra	barrière	n-f$n$n-f-ND	cat	barrera	n$n-f
-	fra	Bartolomé	np$np-cog$np-cog-mf-sp	cat	Bartolomé	np-cog$np-cog-mf-sp
-	fra	Bartolomé	np-ant$np-ant-m-sg	cat	Bartolomé	np$np-ant-m-sg$
+	fra	Bartolomé	np-cog$np-cog-mf-sp	cat	Bartolomé	np-cog$np-cog-mf-sp
+	fra	Bartolomé	np$np-ant-m-sg$np-ant	cat	Bartolomé	np$np-ant-m-sg$
 	fra	Bartomeu	np$np-cog$np-cog-mf-sp	cat	Bartomeu	np-cog$np-cog-mf-sp
 	fra	Bartomeu	np-ant-m-sg	cat	Bartomeu	np$np-ant-m-sg$np-ant
 	fra	bas	adv	cat	baix	adv$
@@ -1396,7 +1396,7 @@ RL	fra	bas	adj-m-sp$adj	cat	baix	adj-m-sg$adj-sup-m-sg
 	fra	base	n-f$n$n-f-ND	cat	base	n-f$n
 	fra	baser	vblex	cat	basar	vblex
 	fra	baser	vblex	cat	basar	vblex
-	fra	Basilio	np$np-ant$np-ant-m-sg	cat	Basilio	np$np-ant-m-sg
+	fra	Basilio	np$np-ant-m-sg$np-ant	cat	Basilio	np$np-ant-m-sg
 	fra	basilic	n-m	cat	alfàbrega	n-f$n
 	fra	basique	adj-mf$adj$adj-mf-ND	cat	bàsic	adj$
 	fra	basiquement	adv	cat	bàsicament	adv
@@ -1426,7 +1426,7 @@ RL	fra	battement	n-m$n	cat	colpejament	n
 RL	fra	bavard	adj$adj-GD	cat	xerraire	adj-mf$adj$
 	fra	bazar	n$n-m	cat	basar	n-m$n
 	fra	Bea	np-cog$np-cog-mf-sp	cat	Bea	np-cog$np-cog-mf-sp
-	fra	Bea	np$np-ant$np-ant-f-sg	cat	Bea	np$np-ant-f-sg$np-ant
+	fra	Bea	np-ant-f-sg$np$np-ant	cat	Bea	np$np-ant-f-sg$np-ant
 	fra	Beatles	np$np-al$np-al-m-pl	cat	Beatles	np$np-al$np-al-m-pl
 	fra	Beatriz	np$np-ant$np-ant-f-sg	cat	Beatriz	np$np-ant-f-sg$np-ant
 	fra	beau	adj$adj-GD-ND	cat	bonic	adj$
@@ -1442,7 +1442,7 @@ RL	fra	assez de	adj$adj-mf-sp	cat	bastant	adj-mf$adj
 	fra	trop de	adj-mf-sp	cat	massa	adj-mf-sp
 	fra	tellement de	adj	cat	tant	adj$adj-GD$adj-GD-pl
 	fra	beauté	n-f$n$n-f-ND	cat	bellesa	n-f$n
-	fra	beaux-arts	n-m	cat	belles arts	n$n-f
+	fra	beaux-arts	n-m$n-m-pl	cat	belles arts	n$n-f
 	fra	Becerril	np$np-cog$np-cog-mf-sp	cat	Becerril	np$$np-cog$np-cog-mf-sp
 	fra	Becker	np-cog$np-cog-mf-sp	cat	Becker	np-cog$np-cog-mf-sp
 	fra	Begoña	np$np-ant$np-ant-f-sg	cat	Begoña	np$np-ant-f-sg$np-ant
@@ -1457,7 +1457,7 @@ LR	fra	bel	adj$adj-preadj	cat	bonic	adj$
 	fra	Bella	np-ant-f-sg	cat	Bella	np-ant-f-sg
 	fra	Bellido	np$np-cog$np-cog-mf-sp	cat	Bellido	np$$np-cog$np-cog-mf-sp
 	fra	Bellver	np-top-m-sg	cat	Bellver	np-top-m-sg
-	fra	Belmonte	np-top-m-sg	cat	Belmonte	np-top-m-sg
+	fra	Belmonte	np$np-top-m-sg	cat	Belmonte	np-top-m-sg
 	fra	Beltrán	np$np-cog$np-cog-mf-sp	cat	Beltrán	np-cog$np-cog-mf-sp
 	fra	Beltrán	np-ant$np-ant-m-sg	cat	Beltrán	np$np-ant-m-sg$
 	fra	Ben	np$np-ant$np-ant-m-sg	cat	Ben	np-ant-m-sg$np
@@ -1469,13 +1469,13 @@ LR	fra	bel	adj$adj-preadj	cat	bonic	adj$
 LR	fra	bénéficier	vblex	cat	beneficiar	vblex$vblex-pron
 	fra	Beneyto	np$np-cog$np-cog-mf-sp	cat	Beneyto	np$np-cog$np-cog-mf-sp
 	fra	Benítez	np$np-cog$np-cog-mf-sp	cat	Benítez	np$$np-cog$np-cog-mf-sp
-	fra	Benito	np$np-ant-m-sg$np-ant	cat	Benito	np$np-ant-m-sg$
+	fra	Benito	np-ant-m-sg$np$np-ant	cat	Benito	np$np-ant-m-sg$
 	fra	Benjamin	np-ant$np$np-ant-m-sg	cat	Benjamin	np$np-ant-m-sg
 	fra	Benoît	np-cog$np-cog-mf-sp	cat	Benoît	np-cog$np-cog-mf-sp
 	fra	Benet	np-cog$np-cog-mf-sp	cat	Benet	np-cog
 	fra	Benoît	np-ant-m-sg$np-ant$np	cat	Benoît	np-ant-m-sg
 	fra	Berenguer	np-cog$np-cog-mf-sp	cat	Berenguer	np-cog$np-cog-mf-sp
-	fra	Berenguer	np$np-ant-m-sg	cat	Berenguer	np-ant-m-sg$np$$np-ant
+	fra	Berenguer	np-ant-m-sg$np	cat	Berenguer	np-ant-m-sg$np$$np-ant
 	fra	Berlanga	np$np-cog$np-cog-mf-sp	cat	Berlanga	np-cog$np-cog-mf-sp
 	fra	Berlusconi	np$np-cog$np-cog-mf-sp	cat	Berlusconi	np$$np-cog$np-cog-mf-sp
 	fra	Bermejo	np$np-cog$np-cog-mf-sp	cat	Bermejo	np$$np-cog$np-cog-mf-sp
@@ -1603,7 +1603,7 @@ RL	fra	bois	n-m-sp$n-m$n	cat	llenya	n-f$n$n-f-sg
 	fra	boisson	n-f$n	cat	beguda	n$n-f
 LR	fra	boîte	n-f$n$n-f-ND	cat	caixa	n-f$n
 RL	fra	boîte	n-f$n$n-f-ND	cat	discoteca	n-f$n
-	fra	Bolivie	np$np-top-f$np-top-f-sg$np-top	cat	Bolívia	np-top-f-sg
+	fra	Bolivie	np$np-top-f-sg$np-top-f$np-top	cat	Bolívia	np-top-f-sg
 LR	fra	Bologne	np$np-top-f-sg	cat	Bolonya	np$np-top-f-sg
 	fra	bombarder	vblex	cat	bombardejar	vblex
 LR	fra	Bombay	np$np-top-m-sg	cat	Bombai	np$np-top-m-sg
@@ -1637,7 +1637,7 @@ RL	fra	borner	vblex	cat	fitar	vblex
 	fra	Bosco	np$np-cog$np-cog-mf-sp	cat	Bosco	np-cog$np-cog-mf-sp
 	fra	Bosnie	np$np-top-f$np-top-f-sg	cat	Bòsnia	np-top-f-sg$np-top-f
 	fra	bosniaque	n	cat	bosnià	n$n-GD
-	fra	bosniaque	adj-mf-ND$adj	cat	bosnià	adj
+	fra	bosniaque	adj$adj-mf-ND	cat	bosnià	adj
 	fra	bosnien	adj	cat	bosnià	adj
 LR	fra	bosnien	n	cat	bosnià	n$n-GD
 LR	fra	bosser	vblex	cat	treballar	vblex
@@ -1767,7 +1767,7 @@ LR	fra	brut	adj	cat	brut	adj$$adj-sup
 	fra	Bugs	np	cat	Bugs	np
 	fra	Bulgarie	np$np-top-f$np-top-f-sg$np-top	cat	Bulgària	np-top-f-sg$np-top-f
 	fra	Albanie	np$np-top-f$np-top-f-sg$np-top	cat	Albània	np-top-f-sg$np-top$np-top-f
-	fra	Tirana	np-top-f-sg	cat	Tirana	np$np-top-f-sg
+	fra	Tirana	np$np-top-f-sg	cat	Tirana	np$np-top-f-sg
 	fra	Pella	np-top-f-sg	cat	Pel·la	np-top-f-sg
 	fra	Valence	np$np-top-f-sg	cat	València	np-top-f-sg$np-top$np-top-f
 	fra	Murcie	np-top$np-top-f$np-top-f-sg	cat	Múrcia	np-top$np-top-f-sg
@@ -1848,7 +1848,7 @@ RL	fra	calmer	vblex	cat	assossegar	vblex
 	fra	Camacho	np$np-cog$np-cog-mf-sp	cat	Camacho	np-cog$np-cog-mf-sp
 	fra	camarade	n$n-mf$n-mf-ND	cat	camarada	n-mf$n
 	fra	Cameroun	np$np-top-m$np-top-m-sg$np-top	cat	Camerun	np-top-m-sg$np-top-m
-	fra	Camilo	np$np-ant$np-ant-m-sg	cat	Camilo	np$np-ant-m-sg$np-ant
+	fra	Camilo	np$np-ant-m-sg$np-ant	cat	Camilo	np$np-ant-m-sg$np-ant
 	fra	camion	n$n-m$n-m-ND	cat	camió	n-m$n$n-m-sg
 LR	fra	camp	n-m$n$n-m-ND	cat	camp	n-m$n
 	fra	campagne	n-f$n$n-f-ND	cat	campanya	n$n-f
@@ -1938,7 +1938,7 @@ RL	fra	caricaturer	vblex	cat	caricaturar	vblex
 	fra	Carles	np$np-ant-m-sg	cat	Carles	np-ant$np-ant-m-sg$np$
 	fra	Charles	np-ant$np-ant-m-sg$np	cat	Carles	np-ant$np-ant-m-sg$np$
 	fra	carlisme	n-m$n	cat	carlisme	n$n-m$n-m-sg
-	fra	Carmelo	np$np-ant-m-sg$np-ant	cat	Carmelo	np-ant-m-sg$np
+	fra	Carmelo	np-ant-m-sg$np$np-ant	cat	Carmelo	np-ant-m-sg$np
 	fra	Carlo	np$np-ant$np-ant-m-sg	cat	Carlo	np-ant-m-sg$np$np-ant
 	fra	Carlos	np$np-ant$np-ant-m-sg	cat	Carlos	np-ant$np$np-ant-m-sg$
 	fra	Carlota	np$np-ant-f-sg$np-ant	cat	Carlota	np$np-ant-f-sg$np-ant
@@ -2044,7 +2044,7 @@ RL	fra	ce	det-dem-m-sg$det-dem-m	cat	este	det-dem-m-sg
 RL	fra	ce	det-dem-f-sg$det-dem-f	cat	eixe	det$det-dem$det-dem-f-sg
 RL	fra	ce	det-dem-m-sg$det-dem-m	cat	eixe	det-dem-m-sg
 LR	fra	ceci	prn$prn-tn-nt$prn-tn-nt-sg	cat	això	prn$prn-tn-nt
-	fra	Cecilia	np$np-ant$np-ant-f-sg	cat	Cecilia	np$np-ant-f-sg$np-ant$
+	fra	Cecilia	np$np-ant-f-sg$np-ant	cat	Cecilia	np$np-ant-f-sg$np-ant$
 	fra	céder	vblex	cat	cedir	vblex
 	fra	cèdre	n-m$n	cat	cedre	n$n-m
 LR	fra	ceindre	vblex	cat	cenyir	vblex
@@ -2312,7 +2312,7 @@ RL	fra	choix	n-m-sp$n-m	cat	tria	n-f-sg
 	fra	chute	n-f$n	cat	caiguda	n$n-f
 	fra	Chypre	np$np-top-f-sg$np-top	cat	Xipre	np$np-top-m-sg$np-top-m
 	fra	chypriote	adj$adj-mf-ND	cat	xipriota	adj$adj-mf
-	fra	Chypriote	n-mf	cat	xipriota	n-mf$n
+	fra	Chypriote	n-mf$n	cat	xipriota	n-mf$n
 	fra	chypriote grec	adj	cat	grecoxipriota	adj
 	fra	Chypriote grec	n	cat	grecoxipriota	n
 	fra	chypriote turc	adj	cat	turcoxipriota	adj
@@ -2384,7 +2384,7 @@ LR	fra	clairière	n-f$n-f-ND	cat	clar	n-m$n
 	fra	Claudio	np$np-ant-m-sg$np-ant	cat	Claudio	np$np-ant-m-sg
 LR	fra	clé	n-f$n$n-f-ND	cat	clau	n-f$n
 	fra	clef	adj$adj-mf	cat	clau	adj$adj-mf
-	fra	Clemente	np$np-ant-m-sg$np-ant	cat	Clemente	np-ant-m-sg$$np$np-ant
+	fra	Clemente	np-ant-m-sg$np$np-ant	cat	Clemente	np-ant-m-sg$$np$np-ant
 	fra	clef	n$n-f$n-f-ND	cat	clau	n-f$n
 	fra	clerc	n$n-m	cat	clergue	n-m$n
 	fra	clic	n$n-m	cat	clic	n$n-m
@@ -2785,7 +2785,7 @@ RL	fra	constater	vblex	cat	constatar	vblex
 	fra	constitution	n$n-f$n-f-ND	cat	constitució	n-f$n
 	fra	constitutionnel	adj$adj-f$	cat	constitucional	adj$adj-mf$
 	fra	constitutionnellement	adv	cat	constitucionalment	adv
-	fra	inconstitutionnel	adj	cat	inconstitucional	adj$adj-mf
+	fra	inconstitutionnel	$adj	cat	inconstitucional	adj$adj-mf
 	fra	inconstitutionnellement	adv	cat	inconstitucionalment	adv
 	fra	anticonstitutionnel	adj$adj-f	cat	anticonstitucional	adj$adj-mf
 	fra	anticonstitutionnellement	adv	cat	anticonstitucionalment	adv
@@ -3047,8 +3047,8 @@ RL	fra	crinière	n-f-sg$n-f	cat	crins	n-f-pl
 	fra	cristalliser	vblex	cat	cristal·litzar	vblex
 	fra	Cristian	np$np-ant-m-sg$np-ant	cat	Cristian	np$np-ant-m-sg$$np-ant
 	fra	Cristina	np$np-ant$np-ant-f-sg	cat	Cristina	np$np-ant-f-sg$np-ant$
-	fra	Cristóbal	np$np-cog$np-cog-mf-sp	cat	Cristóbal	np-cog$np-cog-mf-sp
-	fra	Cristóbal	np-ant$np-ant-m-sg	cat	Cristóbal	np$np-ant-m-sg$np-ant
+	fra	Cristóbal	np-cog$np-cog-mf-sp	cat	Cristóbal	np-cog$np-cog-mf-sp
+	fra	Cristóbal	np$np-ant-m-sg$np-ant	cat	Cristóbal	np$np-ant-m-sg$np-ant
 	fra	critère	n$n-m$n-m-ND	cat	criteri	n-m$n
 	fra	critique	n-m	cat	crític	n-m
 	fra	critique	n-f	cat	crític	n$n-f
@@ -3199,7 +3199,7 @@ RL	fra	décéder	vblex	cat	finar	vblex
 LR	fra	décéder	vblex	cat	morir	vblex
 LR	fra	déceler	vblex	cat	descobrir	vblex
 	fra	décembre	n$n-m$n-m-sg	cat	desembre	n$n-m
-	fra	décence	n$n-f	cat	decència	n-f$n
+	fra	décence	n-f$n	cat	decència	n-f$n
 	fra	décennie	n-f	cat	deceni	n-m
 	fra	décent	adj$adj-m	cat	decent	adj-mf$adj$
 RL	fra	décent	adj$adj-m	cat	decent	adj-sup
@@ -3769,7 +3769,7 @@ RL	fra	dominer	vblex	cat	liderar	vblex
 	fra	Domínguez	np$np-cog-mf-sp$np-cog	cat	Domínguez	np-cog$np-cog-mf-sp
 	fra	dominicain	adj$adj-GD-ND	cat	dominicà	adj
 	fra	dominical	$adj-f$adj	cat	dominical	adj$adj-mf
-	fra	Dominique	np-top$np-top-f$np-top-f-sg	cat	Dominica	np-top-f-sg
+	fra	Dominique	np-top-f-sg$np-top$np-top-f	cat	Dominica	np-top-f-sg
 	fra	Dominique	np-cog$np-cog-mf-sp	cat	Dominique	np-cog$np-cog-mf-sp
 	fra	Dominique	np-ant$np-ant-m-sg$np	cat	Dominique	np$np-ant-m-sg
 	fra	Dominique	np-ant-f-sg	cat	Dominique	np-ant-f-sg
@@ -4034,7 +4034,7 @@ LR	fra	élever	vblex	cat	alçar	vblex
 LR	fra	élever	vblex	cat	educar	vblex
 LR	fra	élever	vblex	cat	criar	vblex
 RL	fra	élever	vblex	cat	enlairar	vblex
-	fra	Elia	np$np-ant$np-ant-m-sg	cat	Elia	np$np-ant-m-sg$np-ant
+	fra	Elia	np-ant-m-sg$np$np-ant	cat	Elia	np$np-ant-m-sg$np-ant
 	fra	Eli	np$np-ant$np-ant-m-sg	cat	Eli	np$np-ant-m-sg
 	fra	Elías	np-cog$np-cog-mf-sp	cat	Elías	np-cog$np-cog-mf-sp
 	fra	Elías	np$np-ant$np-ant-m-sg	cat	Elías	np$np-ant-m-sg$$np-ant
@@ -4042,7 +4042,7 @@ RL	fra	élever	vblex	cat	enlairar	vblex
 	fra	élimination	n$n-f$n-f-ND	cat	eliminació	n-f$n
 	fra	éliminer	vblex	cat	eliminar	vblex
 	fra	élire	vblex	cat	elegir	vblex
-	fra	Elisa	np-ant$np$np-ant-f-sg	cat	Elisa	np$np-ant-f-sg$np-ant
+	fra	Elisa	np-ant$np-ant-f-sg$np	cat	Elisa	np$np-ant-f-sg$np-ant
 	fra	Elisabeth	np$np-ant-f-sg$np-ant	cat	Elisabeth	np$np-ant-f-sg$np-ant
 	fra	Elise	np-ant-f-sg	cat	Elise	np-ant-f-sg
 	fra	Élise	np-ant-f-sg	cat	Élise	np-ant-f-sg
@@ -4059,7 +4059,7 @@ RL	fra	éloquent	adj$adj-m	cat	eloqüent	adj-sup
 	fra	éludable	adj$adj-mf	cat	eludible	adj$adj-mf
 	fra	éluder	vblex	cat	eludir	vblex
 	fra	Elvira	np-cog$np-cog-mf-sp	cat	Elvira	np-cog$np-cog-mf-sp
-	fra	Elvira	np$np-ant-f-sg$np-ant	cat	Elvira	np$np-ant-f-sg$$np-ant
+	fra	Elvira	np-ant-f-sg$np$np-ant	cat	Elvira	np$np-ant-f-sg$$np-ant
 	fra	Elvis	np$np-ant$np-ant-m-sg	cat	Elvis	np$np-ant-m-sg
 	fra	Elysée	np	cat	Elysée	np
 	fra	émailler	vblex	cat	esmaltar	vblex
@@ -4417,7 +4417,7 @@ LR	fra	escalier	n-m$n$n-m-ND	cat	escala	n-f$n-f-pl$n
 	fra	Escribano	np$np-cog$np-cog-mf-sp	cat	Escribano	np$$np-cog$np-cog-mf-sp
 	fra	Escrivá	np$np-cog$np-cog-mf-sp	cat	Escrivá	np$np-cog$np-cog-mf-sp
 	fra	Escudero	np$np-cog$np-cog-mf-sp	cat	Escudero	np$$np-cog$np-cog-mf-sp
-	fra	Esmeralda	np$np-ant$np-ant-f-sg	cat	Esmeralda	np$np-ant-f-sg
+	fra	Esmeralda	np-ant-f-sg$np$np-ant	cat	Esmeralda	np$np-ant-f-sg
 	fra	espace	n-m$n$n-m-ND	cat	espai	n-m$n
 	fra	espacer	vblex	cat	espaiar	vblex
 	fra	Espagne	np$np-top$np-top-f$np-top-f-sg	cat	Espanya	np-top-f-sg$np-top$np-top-f
@@ -4471,7 +4471,7 @@ LR	fra	estimer	vblex	cat	estimar	vblex
 RL	fra	estival	adj$$adj-f	cat	estiuenc	adj
 	fra	estomac	n$n-m$n-m-ND	cat	estómac	n-m$n
 	fra	Estonie	np$np-top-f$np-top-f-sg$np-top	cat	Estònia	np-top-f-sg$np-top-f
-	fra	Estrada	np-top-f-sg	cat	Estrada	np-top-f-sg
+	fra	Estrada	np$np-top-f-sg	cat	Estrada	np-top-f-sg
 	fra	et	cnjcoo	cat	i	cnjcoo
 	fra	établir	vblex	cat	establir	vblex
 RL	fra	établir	vblex	cat	assentar	vblex
@@ -4555,7 +4555,7 @@ LR	fra	étreindre	vblex	cat	estrènyer	vblex
 RL	fra	étudier	vblex	cat	tramitar	vblex
 	fra	EUA	np$np-top-m-pl	cat	EUA	np$np-top-m-pl
 	fra	Eugenia	np$np-ant-f-sg	cat	Eugenia	np$np-ant-f-sg$$np-ant
-	fra	Eugenio	np$np-ant$np-ant-m-sg	cat	Eugenio	np$np-ant-m-sg$np-ant
+	fra	Eugenio	np-ant-m-sg$np$np-ant	cat	Eugenio	np$np-ant-m-sg$np-ant
 	fra	Eugenie	np	cat	Eugenie	np
 	fra	euphorisant	adj$adj-f	cat	euforitzant	adj$adj-mf
 	fra	euro	n$n-m$n-m-ND	cat	euro	n$n-m$n-m-sg
@@ -4738,7 +4738,7 @@ LR	fra	extrême	n$n-m$n-m-ND	cat	extrem	n-m$n
 	fra	extrémiste	adj$adj-mf	cat	extremista	adj$adj-mf
 	fra	extrémiste	n$n-mf	cat	extremista	n-mf$n$
 	fra	extrémité	n$n-f	cat	extremitat	n-f$n$n-f-sg
-	fra	Fabio	np$np-ant-m-sg$np-ant	cat	Fabio	np$np-ant-m-sg$np-ant
+	fra	Fabio	np-ant-m-sg$np$np-ant	cat	Fabio	np$np-ant-m-sg$np-ant
 	fra	Fabius	np$np-cog$np-cog-mf-sp	cat	Fabius	np-cog$np-cog-mf-sp
 	fra	fable	n-f$n	cat	faula	n-f$n
 	fra	Fabra	np$np-cog$np-cog-mf-sp	cat	Fabra	np$$np-cog$np-cog-mf-sp
@@ -4806,7 +4806,7 @@ LR	fra	superbe	adj$adj-mf-ND	cat	fantàstic	adj$
 	fra	farceur	adj	cat	bromista	adj$$adj-mf
 LR	fra	farcir	vblex	cat	omplir	vblex
 	fra	farine	n$n-f	cat	farina	n$n-f
-	fra	fascinant	adj-f$adj	cat	fascinant	adj$adj-mf$
+	fra	fascinant	adj$adj-f	cat	fascinant	adj$adj-mf$
 	fra	fasciner	vblex	cat	fascinar	vblex
 	fra	fascisme	n-m$n	cat	feixisme	n-m$n
 	fra	fasciste	adj$adj-mf$adj-mf-ND	cat	feixista	adj$adj-mf
@@ -4819,7 +4819,7 @@ LR	fra	fatigant	adj$adj-f	cat	cansat	adj$
 RL	fra	fatigué	adj$adj-GD-ND	cat	fatigat	$adj
 	fra	fatiguer	vblex	cat	cansar	vblex
 RL	fra	fatiguer	vblex	cat	fatigar	vblex
-	fra	Fátima	np$np-ant$np-ant-f-sg	cat	Fátima	np$np-ant-f-sg$np-ant
+	fra	Fátima	np$np-ant-f-sg$np-ant	cat	Fátima	np$np-ant-f-sg$np-ant
 	fra	faucille	n-f$n	cat	falç	n-f$n
 	fra	faune	n$n-f	cat	fauna	n-f$n
 LR	fra	fausser	vblex	cat	torçar	vblex
@@ -4847,7 +4847,7 @@ RL	fra	favoriser	vblex	cat	propiciar	vblex
 	fra	féliciter	vblex	cat	felicitar	vblex
 	fra	Felip	np$np-ant-m-sg$np-ant	cat	Felip	np-ant-m-sg$np-ant$np$
 	fra	Philippe	np-ant-m-sg$np$np-ant	cat	Felip	np-ant-m-sg$np-ant$np$
-	fra	Felipe	np$np-ant$np-ant-m-sg	cat	Felipe	np$np-ant-m-sg$np-ant
+	fra	Felipe	np-ant-m-sg$np$np-ant	cat	Felipe	np$np-ant-m-sg$np-ant
 	fra	Feliu	np$np-cog$np-cog-mf-sp	cat	Feliu	np$$np-cog$np-cog-mf-sp
 	fra	Félix	np-cog$np-cog-mf-sp	cat	Félix	np-cog$np-cog-mf-sp
 	fra	Félix	np-ant$np$np-ant-m-sg	cat	Félix	np$np-ant-m-sg$$np-ant
@@ -4875,7 +4875,7 @@ LR	fra	fermeture	n-f$n$n-f-ND	cat	clausura	n$n-f
 	fra	fermier	n$n-m	cat	granger	n$n-m
 	fra	Fermín	np$np-ant$np-ant-m-sg	cat	Fermín	np$np-ant-m-sg
 	fra	Fernand	np-ant-m-sg$np-ant	cat	Fernand	np-ant-m-sg$np
-	fra	Fernanda	np$np-ant$np-ant-f-sg	cat	Fernanda	np$np-ant-f-sg
+	fra	Fernanda	np-ant-f-sg$np$np-ant	cat	Fernanda	np$np-ant-f-sg
 	fra	Fernández	np$np-cog-mf-sp$np-cog	cat	Fernández	np-cog$np-cog-mf-sp
 	fra	Fernando	np$np-ant$np-ant-m-sg	cat	Fernando	np$np-ant$np-ant-m-sg$
 	fra	féroce	adj$adj-mf	cat	ferotge	adj-mf$adj$
@@ -5248,7 +5248,7 @@ LR	fra	Gandía	np-top-f-sg	cat	Gandia	np-top-f-sg$np-top-f
 	fra	Garcia	np-top-f-sg	cat	Garcia	np-top-f-sg
 	fra	Garci	np$np-cog$np-cog-mf-sp	cat	Garci	np$np-cog$np-cog-mf-sp
 	fra	García	np$np-cog-mf-sp$np-cog	cat	García	np-cog$np-cog-mf-sp
-	fra	Garcilaso	np$np-ant-m-sg	cat	Garcilaso	np$np-ant-m-sg
+	fra	Garcilaso	np-ant-m-sg$np	cat	Garcilaso	np$np-ant-m-sg
 	fra	garçon	n-m$n$n-m-sg	cat	noi	n-m
 	fra	garde	n-mf$n$n-mf-ND	cat	guarda	n-mf
 	fra	garde	n-mf$n$n-mf-ND	cat	guàrdia	n-mf$n
@@ -5271,7 +5271,7 @@ RL	fra	garçon	n-m$n$n-m-sg	cat	cambrer	n-m
 	fra	gascon	adj	cat	gascó	adj
 	fra	Gascón	np$np-cog$np-cog-mf-sp	cat	Gascón	np-cog$np-cog-mf-sp
 	fra	Gascón	np-al	cat	Gascón	np$$np-al
-	fra	Gaspar	np$np-ant-m-sg$np-ant	cat	Gaspar	np$np-ant-m-sg
+	fra	Gaspar	np-ant-m-sg$np$np-ant	cat	Gaspar	np$np-ant-m-sg
 	fra	gaspilleur	adj	cat	malbaratador	$adj
 	fra	Gasset	np$np-cog$np-cog-mf-sp	cat	Gasset	np$np-cog$np-cog-mf-sp
 	fra	Gaston	np-cog$np-cog-mf-sp	cat	Gaston	np-cog$np-cog-mf-sp
@@ -5293,7 +5293,7 @@ RL	fra	garçon	n-m$n$n-m-sg	cat	cambrer	n-m
 	fra	geler	vblex	cat	congelar	vblex
 	fra	congeler	vblex	cat	congelar	vblex
 	fra	Gema	np$np-ant$np-ant-f-sg	cat	Gema	np$np-ant-f-sg$np-ant
-	fra	Gemma	np$np-ant$np-ant-f-sg	cat	Gemma	np$np-ant-f-sg$np-ant
+	fra	Gemma	np$np-ant-f-sg$np-ant	cat	Gemma	np$np-ant-f-sg$np-ant
 	fra	gênant	adj$adj-GD-ND	cat	incòmode	adj$
 	fra	gendre	n$n-m	cat	gendre	n$n-m$n-m-pl
 	fra	gêne	n-f$n$n-f-ND	cat	molèstia	n-f$n
@@ -5306,7 +5306,7 @@ RL	fra	gêner	vblex	cat	amoïnar	vblex
 	fra	généralisation	n$n-f$n-f-ND	cat	generalització	n-f$n
 	fra	généraliser	vblex	cat	generalitzar	vblex
 	fra	généraliste	adj$adj-mf	cat	generalista	adj$adj-mf
-	fra	Generalitat	np-al$np$np-al-f-sg	cat	Generalitat	np-al$np$np-al-f-sg
+	fra	Generalitat	np-al$np-al-f-sg$np	cat	Generalitat	np-al$np$np-al-f-sg
 	fra	générateur	adj$adj-f	cat	generador	adj
 	fra	génération	n$n-f$n-f-ND	cat	generació	n-f$n
 	fra	générationnel	adj$adj-f	cat	generacional	adj$adj-mf
@@ -5345,7 +5345,7 @@ RL	fra	géographe	adj-mf	cat	geògraf	adj-m
 	fra	Gerard	np$np-ant$np-ant-m-sg	cat	Gerard	np$np-ant-m-sg$np-ant$
 	fra	Gérard	np-cog$np-cog-mf-sp	cat	Gérard	np-cog$np-cog-mf-sp
 	fra	Gérard	np-ant-m-sg$np$np-ant	cat	Gérard	np$np-ant-m-sg
-	fra	Gérald	np$np-ant-m-sg$np-ant	cat	Gérald	np-ant-m-sg
+	fra	Gérald	np-ant-m-sg$np$np-ant	cat	Gérald	np-ant-m-sg
 	fra	Gerardo	np-ant$np$np-ant-m-sg	cat	Gerardo	np$np-ant-m-sg
 	fra	gerber	vblex	cat	agarbar	vblex
 	fra	gérer	vblex	cat	gestionar	vblex
@@ -5467,7 +5467,7 @@ RL	fra	gras	adj-m-sp$adj	cat	gras	adj-m-sg
 	fra	gratter	vblex	cat	gratar	vblex$vblex-pron
 	fra	gratuit	adj$adj-GD-ND	cat	gratuït	adj$
 	fra	gratuitement	adv	cat	gratuïtament	adv
-	fra	Grau	np-top-m-sg	cat	Grau	np-top-m-sg
+	fra	Grau	np$np-top-m-sg	cat	Grau	np-top-m-sg
 	fra	grave	adj$adj-mf-ND$adj-mf	cat	greu	adj$adj-mf$
 	fra	gravement	adv	cat	greument	adv
 LR	fra	graver	vblex	cat	gravar	vblex
@@ -5481,7 +5481,7 @@ LR	fra	gravir	vblex	cat	escalar	vblex
 LR	fra	gréer	vblex	cat	aparellar	vblex
 	fra	greffe	n-f$n	cat	trasplantació	n-f$n
 	fra	Gregorio	np-cog$np-cog-mf-sp	cat	Gregorio	np-cog$np-cog-mf-sp
-	fra	Gregorio	np$np-ant-m-sg$np-ant	cat	Gregorio	np-ant-m-sg$np$np-ant
+	fra	Gregorio	np-ant-m-sg$np$np-ant	cat	Gregorio	np-ant-m-sg$np$np-ant
 	fra	Grenade	np$np-top-f$np-top-f-sg	cat	Granada	np-top-f-sg
 	fra	grenadier	n-m	cat	magraner	n-m$n
 	fra	grenier	n-m$n	cat	graner	n-m$n
@@ -5554,7 +5554,7 @@ RL	fra	Guinée-Bissau	np-top-f-sg$np	cat	Guinea-Bissau	np-top$np-top-f-sg
 	fra	Guinée-Conakry	np-top-f-sg	cat	Guinea Conakry	np-top-f-sg
 LR	fra	Guinée Conakry	np-top-f-sg	cat	Guinea Conakry	np-top-f-sg
 RL	fra	Guinée-Conakry	np-top-f-sg	cat	Guinea-Conakry	np-top-f-sg
-	fra	Guinée équatoriale	np-top$np-top-f$np-top-f-sg	cat	Guinea Equatorial	np-top-f-sg$np-top
+	fra	Guinée équatoriale	np-top-f-sg$np-top$np-top-f	cat	Guinea Equatorial	np-top-f-sg$np-top
 LR	fra	Guinée-Équatoriale	np-top-f-sg	cat	Guinea Equatorial	np-top-f-sg$np-top
 	fra	Guipúzcoa	np$np-top-f-sg	cat	Guipúscoa	np-top-f-sg
 	fra	guipuzcoain	adj	cat	guipuscoà	adj
@@ -5564,7 +5564,7 @@ LR	fra	Guinée-Équatoriale	np-top-f-sg	cat	Guinea Equatorial	np-top-f-sg$np-top
 	fra	Guy	np-cog$np-cog-mf-sp	cat	Guy	np-cog$np-cog-mf-sp
 	fra	Guy	np-ant-m-sg$np$np-ant	cat	Guy	np$np-ant-m-sg
 	fra	Guzmán	np-cog$np-cog-mf-sp	cat	Guzmán	np-cog$np-cog-mf-sp
-	fra	Guzmán	np$np-ant-m-sg$np-ant	cat	Guzmán	np$np-ant-m-sg$
+	fra	Guzmán	np-ant-m-sg$np$np-ant	cat	Guzmán	np$np-ant-m-sg$
 	fra	gymnaste	n$n-mf	cat	gimnasta	n-mf$n
 	fra	gymnastique	n$n-f	cat	gimnàstica	n-f$n
 	fra	plâtre	n-m$n	cat	guix	n-m$n$n-m-sg
@@ -5734,7 +5734,7 @@ RL	fra	honnêteté	n$n-f	cat	honradesa	n-f$n
 	fra	déshonnêteté	n	cat	deshonestedat	n$n-f
 LR	fra	malhonnêteté	n-f$n	cat	deshonestedat	n$n-f
 	fra	honneur	n-m$n$n-m-ND	cat	honor	n$n-m
-	fra	déshonneur	n$n-m	cat	deshonor	n$n-m
+	fra	déshonneur	n-m$n	cat	deshonor	n$n-m
 	fra	honorabilité	n$n-f	cat	honorabilitat	n$n-f
 	fra	honorable	adj$adj-mf-ND	cat	honorable	adj$adj-mf$
 	fra	honoraire	n$n-m	cat	honorari	n$n-m
@@ -5875,12 +5875,12 @@ RL	fra	immense	adj$adj-mf$adj-mf-ND	cat	immens	adj$$adj-sup
 	fra	immobilier	adj	cat	immobiliari	adj$$adj-GD-sg
 	fra	immobilisé	adj	cat	immobilitzat	adj
 	fra	immobiliser	vblex	cat	immobilitzar	vblex
-	fra	immortel	adj$adj-m$adj-m-sg	cat	immortal	adj$adj-mf$
+	fra	immortel	adj$adj-m$$adj-m-sg	cat	immortal	adj$adj-mf$
 	fra	immun	adj$adj-f	cat	immune	adj$adj-mf
 	fra	impact	n$n-m$n-m-ND	cat	impacte	n-m$n
 	fra	imparable	adj$adj-mf	cat	imparable	adj$adj-mf
 	fra	impardonnable	adj$adj-mf	cat	imperdonable	adj$$adj-mf
-	fra	impartial	adj$adj-f	cat	imparcial	adj$adj-mf$
+	fra	impartial	adj$adj-f$	cat	imparcial	adj$adj-mf$
 	fra	impartialement	adv	cat	imparcialment	adv
 	fra	cul-de-sac	n-m	cat	cul-de-sac	n-m
 	fra	impasse	n-f$n	cat	atzucac	n-m$n
@@ -6365,7 +6365,7 @@ RL	fra	irrévocable	adj$adj-mf	cat	irrenunciable	adj$adj-mf
 	fra	Isabelle	np-ant-f-sg$np$np-ant	cat	Isabel	np$np-ant-f-sg$np-ant
 LR	fra	Élisabeth	np-ant-f-sg	cat	Isabel	np$np-ant-f-sg$np-ant
 	fra	Isidoro	np$np-ant$np-ant-m-sg	cat	Isidoro	np$np-ant-m-sg
-	fra	Isidro	np$np-ant-m-sg$np-ant	cat	Isidro	np$np-ant-m-sg
+	fra	Isidro	np-ant-m-sg$np$np-ant	cat	Isidro	np$np-ant-m-sg
 	fra	islam	n$n-m$n-m-sg	cat	islam	n$n-m
 	fra	islamique	adj-mf$adj$adj-mf-ND	cat	islàmic	adj$$adj-GD
 	fra	Islande	np$np-top-f$np-top-f-sg$np-top	cat	Islàndia	np-top-f-sg$np-top-f
@@ -6387,7 +6387,7 @@ LR	fra	issue	n-f$n$n-f-ND	cat	sortida	n-f$n
 	fra	itinéraire	n$n-m	cat	itinerari	n-m$n
 	fra	IU	np-al$np	cat	IU	np-al
 	fra	IV	num$num-mf-sp	cat	IV	num$$num-mf-sp
-	fra	Iván	np$np-ant-m-sg$np-ant	cat	Iván	np$np-ant-m-sg$$np-ant
+	fra	Iván	np-ant-m-sg$np$np-ant	cat	Iván	np$np-ant-m-sg$$np-ant
 	fra	Ivan	np$np-ant-m-sg$np-ant	cat	Ivan	np$np-ant-m-sg$$np-ant
 LR	fra	IVème	adj$adj-mf$adj-mf-sg	cat	IV	adj$adj-mf
 	fra	IVe	adj-mf$adj-mf-sg	cat	IV	adj$adj-mf
@@ -6436,7 +6436,7 @@ RL	fra	jamais	adv	cat	mai no	adv
 RL	fra	jaune	adj$adj-mf$adj-mf-ND	cat	groc	adj$$adj-sup
 	fra	Jáuregui	np$np-cog$np-cog-mf-sp	cat	Jáuregui	np$np-cog$np-cog-mf-sp
 	fra	Jávea	np$np-top-f-sg	cat	Xàbia	np-top-f-sg
-	fra	Javier	np$np-ant$np-ant-m-sg	cat	Javier	np$np-ant-m-sg$np-ant$
+	fra	Javier	np$np-ant-m-sg$np-ant	cat	Javier	np$np-ant-m-sg$np-ant$
 	fra	jazz	n-m$n$n-m-sp	cat	jazz	n$n-m-sp$n-m
 	fra	je	prn$prn-tn-p1-mf-sg$prn-tn-p1$prn-tn	cat	jo	prn$prn-tn$prn-tn-p1-mf-sg
 LR	fra	moi je	prn$prn-tn	cat	jo	prn$prn-tn$prn-tn-p1-mf-sg
@@ -6449,7 +6449,7 @@ LR	fra	moi je	prn$prn-tn	cat	jo	prn$prn-tn$prn-tn-p1-mf-sg
 	fra	Jeannine	np-ant-f-sg	cat	Jeannine	np-ant-f-sg
 	fra	Janine	np-ant-f-sg	cat	Janine	np-ant-f-sg
 	fra	Charlène	np-ant-f-sg	cat	Charlène	np-ant-f-sg
-	fra	Francine	np$np-ant-f-sg$np-ant	cat	Francine	np-ant-f-sg
+	fra	Francine	np-ant-f-sg$np$np-ant	cat	Francine	np-ant-f-sg
 	fra	Josianne	np-ant-f-sg	cat	Josianne	np-ant-f-sg
 	fra	Marie	np-ant-f-sg$np-ant$np	cat	Marie	np$np-ant-f-sg
 	fra	Marianne	np$np-ant$np-ant-f-sg	cat	Marianne	np-ant-f-sg
@@ -6462,7 +6462,7 @@ RL	fra	Marie-Antoinette	np-ant-f-sg$np	cat	Marie-Antoinette	np-ant-f-sg
 	fra	Marie-Noël	np$np-ant-f-sg	cat	Marie-Noël	np-ant-f-sg
 	fra	Marie-Noëlle	np-ant-f-sg	cat	Marie-Noëlle	np-ant-f-sg
 	fra	jean	n-m-pl$n-m	cat	texà	n$n-m$n-m-pl
-	fra	Jean-Baptiste	np$np-ant-m-sg$np-ant	cat	Jean-Baptiste	np-ant-m-sg
+	fra	Jean-Baptiste	np-ant-m-sg$np$np-ant	cat	Jean-Baptiste	np-ant-m-sg
 	fra	Jean Claude	np-ant-m-sg	cat	Jean Claude	np-ant-m-sg
 	fra	Jean-Jacques	np$np-ant-m-sg$np-ant	cat	Jean-Jacques	np-ant-m-sg
 	fra	Jean-Marie	np$np-ant$np-ant-m-sg	cat	Jean-Marie	np-ant-m-sg
@@ -6528,7 +6528,7 @@ LR	fra	joncher	vblex	cat	cobrir	vblex
 	fra	José Antonio	np-ant-m-sg	cat	José Antonio	$np-ant-m-sg
 	fra	José Luis	np-ant-m-sg	cat	José Luis	np-ant-m-sg
 	fra	Joseba	np$np-ant$np-ant-m-sg	cat	Joseba	np$np-ant-m-sg
-	fra	Josefa	np$np-ant-f-sg$np-ant	cat	Josefa	np$np-ant-f-sg$np-ant
+	fra	Josefa	np-ant-f-sg$np$np-ant	cat	Josefa	np$np-ant-f-sg$np-ant
 	fra	Josefina	np$np-ant-f-sg$np-ant	cat	Josefina	np$np-ant-f-sg
 	fra	Josep	np$np-ant-m-sg	cat	Josep	np-ant$np$np-ant-m-sg$
 	fra	Joseph	np-ant$np$np-ant-m-sg	cat	Josep	np-ant$np$np-ant-m-sg$
@@ -6557,7 +6557,7 @@ LR	fra	joyeux	adj-m-sp$adj	cat	feliç	adj$adj-mf-sg$
 	fra	heureux	adj-f$adj$adj-f-sg	cat	feliç	adj$adj-mf-sg$
 	fra	joyeusement	adv	cat	feliçment	adv
 LR	fra	instituteur	n$n-m	cat	professor	n$n-GD
-	fra	Juana	np$np-ant$np-ant-f-sg	cat	Juana	np-ant-f-sg$np$np-ant
+	fra	Juana	np$np-ant-f-sg$np-ant	cat	Juana	np-ant-f-sg$np$np-ant
 	fra	Juan	np$np-ant$np-ant-m-sg	cat	Juan	np-ant$np$np-ant-m-sg$
 	fra	Juárez	np$np-cog$np-cog-mf-sp	cat	Juárez	np-cog$np-cog-mf-sp
 	fra	Judas	np-ant$np$np-ant-m-sg	cat	Judes	np-ant-m-sg$np-ant
@@ -6610,7 +6610,7 @@ LR	fra	justesse	n$n-f$n-f-ND	cat	exactitud	n$n-f
 	fra	justifier	vblex	cat	justificar	vblex
 	fra	juvénile	adj$adj-mf$adj-mf-ND	cat	juvenil	adj$adj-mf$
 	fra	Karen	np$np-ant-f-sg$np-ant	cat	Karen	np$np-ant-f-sg$np-ant
-	fra	Karina	np$np-ant$np-ant-f-sg	cat	Karina	np$np-ant-f-sg$np-ant
+	fra	Karina	np$np-ant-f-sg$np-ant	cat	Karina	np$np-ant-f-sg$np-ant
 	fra	Karl	np$np-ant$np-ant-m-sg	cat	Karl	np$np-ant-m-sg$
 	fra	Carl	np$np-ant$np-ant-m-sg	cat	Carl	np-ant-m-sg$np
 	fra	Ken	np$np-ant-m-sg$np-ant	cat	Ken	np-ant-m-sg$np
@@ -6671,7 +6671,7 @@ RL	fra	l'après-midi	adv	cat	a la tarda	adv
 RL	fra	large	adj-mf$adj$adj-mf-ND	cat	ample	adj-sup
 	fra	largement	adv	cat	àmpliament	adv
 	fra	larme	n$n-f$n-f-ND	cat	llàgrima	n-f$n
-	fra	Las Palmas	np$np-top-f-sg	cat	Las Palmas	np-top-f-sg
+	fra	Las Palmas	np-top-f-sg$np	cat	Las Palmas	np-top-f-sg
 	fra	Laso	np$np-cog$np-cog-mf-sp	cat	Laso	np$np-cog$np-cog-mf-sp
 	fra	latin	adj$adj-GD-ND	cat	llatí	adj$
 	fra	latin	n$n-m-sg$n-m	cat	llatí	n$n-m$n-m-sg
@@ -6825,14 +6825,14 @@ RL	fra	lier	vblex	cat	vincular	vblex
 	fra	lignée	n-f$n-f-ND	cat	llinatge	n-m$n
 	fra	ligneux	adj	cat	llenyós	adj$
 	fra	ligue	n$n-f$n-f-ND	cat	lliga	n-f$n
-	fra	Liliana	np$np-ant-f-sg$np-ant	cat	Liliana	np$np-ant-f-sg$$np-ant
+	fra	Liliana	np-ant-f-sg$np$np-ant	cat	Liliana	np$np-ant-f-sg$$np-ant
 	fra	Lima	np$np-top-f-sg$np-top-f	cat	Lima	np-top-f-sg
 	fra	lilas	n-m$m-m	cat	lila	n-f$n
 	fra	limitation	n$n-f$n-f-ND	cat	limitació	n-f$n
 	fra	limite	n-f$n$n-f-ND	cat	límit	n-m$n
 	fra	limiter	vblex	cat	limitar	vblex
 	fra	lin	n-m$n	cat	lli	n-m$n
-	fra	Linares	np-top-m-sg	cat	Linares	np-top-m-sg
+	fra	Linares	np$np-top-m-sg	cat	Linares	np-top-m-sg
 	fra	linéaire	adj$adj-mf	cat	lineal	adj$adj-mf$
 	fra	linguiste	n-mf$n	cat	lingüista	n-mf$n
 	fra	linguistique	adj-mf-ND$adj$adj-mf	cat	lingüístic	adj$
@@ -6896,9 +6896,9 @@ LR	fra	loch	n$n-m$n-m-ND	cat	llac	n$n-m
 	fra	lointain	adj$adj-GD-ND	cat	llunyà	adj$
 RL	fra	lointain	adj$adj-GD-ND	cat	remot	adj
 	fra	loisir	n-m$n$n-m-pl	cat	oci	n-m$n
-	fra	Lola	np-ant$np$np-ant-f-sg	cat	Lola	np$np-ant-f-sg$np-ant
+	fra	Lola	np-ant$np-ant-f-sg$np	cat	Lola	np$np-ant-f-sg$np-ant
 	fra	Loli	np$np-ant-f-sg	cat	Loli	np$np-ant-f-sg
-	fra	Lolita	np$np-ant$np-ant-f-sg	cat	Lolita	np$np-ant-f-sg
+	fra	Lolita	np-ant-f-sg$np$np-ant	cat	Lolita	np$np-ant-f-sg
 	fra	loisirs	n-m	cat	lleures	n-f
 	fra	Londres	np$np-top-m-sg$np-top$np-top-m	cat	Londres	np$np-top-m-sg
 	fra	Londres	np$np-top-m-sg$np-top$np-top-m	cat	Londres	np$np-top-m-sg
@@ -6941,7 +6941,7 @@ RL	fra	lourd	adj$adj-GD-ND	cat	feixuc	adj$
 	fra	loyal	adj$adj-GD-ND	cat	lleial	adj$adj-mf$
 	fra	loyalement	adv	cat	lleialment	adv
 	fra	loyauté	n-f$n	cat	lleialtat	n-f$n
-	fra	Loyola	np$np-ant-f-sg	cat	Loyola	np$np-ant
+	fra	Loyola	np-ant-f-sg$np	cat	Loyola	np$np-ant
 	fra	Loyola	np-top-f-sg	cat	Loyola	np-loc
 	fra	Lozano	np$np-cog$np-cog-mf-sp	cat	Lozano	np$$np-cog$np-cog-mf-sp
 	fra	Lozoya	np$np-cog$np-cog-mf-sp	cat	Lozoya	np-cog$np-cog-mf-sp
@@ -6950,7 +6950,7 @@ RL	fra	lourd	adj$adj-GD-ND	cat	feixuc	adj$
 	fra	Lucas	np$np-ant-m-sg$np-ant	cat	Lucas	np$$np-ant$np-ant-m-sg
 	fra	Lucia	np$np-ant-f-sg$np-ant	cat	Lucia	np$np-ant-f-sg$$np-ant
 	fra	Lucio	np-cog$np-cog-mf-sp	cat	Lucio	np-cog$np-cog-mf-sp
-	fra	Lucio	np$np-ant$np-ant-m-sg	cat	Lucio	np$np-ant-m-sg
+	fra	Lucio	np-ant-m-sg$np$np-ant	cat	Lucio	np$np-ant-m-sg
 	fra	lucratif	adj	cat	lucratiu	adj$
 	fra	Luengo	np$np-cog$np-cog-mf-sp	cat	Luengo	np$$np-cog$np-cog-mf-sp
 	fra	lugubre	adj	cat	lúgubre	adj$$adj-mf
@@ -6961,14 +6961,14 @@ LR	fra	lui	prn-tn$prn-tn-p3-m-sg	cat	ell	prn-tn-p3-m-sg
 	fra	luire	vblex	cat	lluir	vblex
 	fra	Luisa	np$np-ant-f-sg$np-ant	cat	Luisa	np$np-ant-f-sg$np-ant
 	fra	Luis	np$np-ant$np-ant-m-sg	cat	Luis	np-ant$np$np-ant-m-sg$
-	fra	Lula	np$np-ant-f-sg$np-ant	cat	Lula	np-ant-f-sg$np$np-ant
+	fra	Lula	np-ant-f-sg$np$np-ant	cat	Lula	np-ant-f-sg$np$np-ant
 	fra	lunaire	adj$adj-mf$adj-mf-ND	cat	lunar	adj$adj-mf
 	fra	lumière	n-f$n$n-f-ND	cat	llum	n-f
 	fra	lampe	n-f	cat	llum	n-m$n
 LR	fra	lundi	n-m-pl	cat	dilluns	n-m-sp$n$n-m
 LR	fra	lundi	n-m-sg$n-m$n	cat	dilluns	n-m-sp$n$n-m
 RL	fra	lundi	n-m-ND	cat	dilluns	n-m-sp$n$n-m
-LR	fra	luisant	adj-f$adj	cat	brillant	adj$adj-mf$
+LR	fra	luisant	adj$adj-f	cat	brillant	adj$adj-mf$
 LR	fra	luisant	adj-m	cat	brillant	adj$adj-mf$
 	fra	lune	n$n-f$n-f-ND	cat	lluna	n$n-f
 	fra	lunette	n-f$n-f-sg$n	cat	ullera	n-f$n$n-f-pl
@@ -6981,7 +6981,7 @@ LR	fra	luisant	adj-m	cat	brillant	adj$adj-mf$
 	fra	lyonnais	adj	cat	lionès	adj
 	fra	lyre	n-f$n	cat	lira	n-f$n
 	fra	M	num$$num-mf-sp	cat	M	num$num-mf-sp
-	fra	Mabel	np$np-ant-f-sg$np-ant	cat	Mabel	np$np-ant-f-sg$np-ant
+	fra	Mabel	np-ant-f-sg$np$np-ant	cat	Mabel	np$np-ant-f-sg$np-ant
 	fra	mâcher	vblex	cat	mastegar	vblex
 	fra	machine	n-f$n$n-f-ND	cat	màquina	n-f$n
 	fra	machine	n-f$n$n-f-ND	cat	rentadora	n-f$n
@@ -6993,7 +6993,7 @@ LR	fra	luisant	adj-m	cat	brillant	adj$adj-mf$
 	fra	Neptune	np$np-top-m-sg	cat	Neptú	np-top$np-top-m-sg
 	fra	Uranus	np$np-top-m-sg$np-top-m	cat	Urà	np$np-top-m-sg
 	fra	Maestre	np$np-cog$np-cog-mf-sp	cat	Maestre	np$$np-cog$np-cog-mf-sp
-	fra	Magda	np$np-ant$np-ant-f-sg	cat	Magda	np$np-ant-f-sg$np-ant
+	fra	Magda	np$np-ant-f-sg$np-ant	cat	Magda	np$np-ant-f-sg$np-ant
 	fra	Magdalena	np$np-ant$np-ant-f-sg	cat	Magdalena	np$np-ant-f-sg$np-ant$
 	fra	Madone	n-f$n-f-sg	cat	Mare de Déu	n$n-f$n-f-sg
 LR	fra	magazine	n-m$n-m-ND	cat	revista	n-f$n
@@ -7113,7 +7113,7 @@ LR	fra	manière	n-f$n$n-f-ND	cat	manera	n-f$n$n-f-pl
 	fra	manœuvre	n$n-f	cat	maniobra	n-f$n
 	fra	manœuvrer	vblex	cat	maniobrar	vblex
 	fra	manoir	n-m$n	cat	solar	n-m$n
-	fra	Manolo	np$np-ant$np-ant-m-sg	cat	Manolo	np$np-ant-m-sg$np-ant
+	fra	Manolo	np$np-ant-m-sg$np-ant	cat	Manolo	np$np-ant-m-sg$np-ant
 RL	fra	manque	n-m$n-m-ND	cat	manca	n-f$n
 	fra	manque	n-m$n-m-ND	cat	falta	n-f$n
 	fra	manquer	vblex	cat	faltar	vblex
@@ -7183,7 +7183,7 @@ LR	fra	épouser	vblex	cat	casar	vblex$vblex-pron
 RL	fra	marin	adj$adj-GD-ND	cat	marès	adj$
 	fra	Marín	np$np-cog$np-cog-mf-sp	cat	Marín	np$$np-cog$np-cog-mf-sp
 	fra	Mario	np$np-ant$np-ant-m-sg	cat	Mario	np$np-ant$np-ant-m-sg$
-	fra	Marisa	np$np-ant$np-ant-f-sg	cat	Marisa	np$np-ant-f-sg
+	fra	Marisa	np$np-ant-f-sg$np-ant	cat	Marisa	np$np-ant-f-sg
 	fra	Marisol	np$np-ant$np-ant-f-sg	cat	Marisol	np$np-ant-f-sg$np-ant
 	fra	maritime	adj-mf$adj$adj-mf-ND	cat	marítim	adj$
 LR	fra	marmelade	n$n-f	cat	melmelada	n-f$n
@@ -7369,7 +7369,7 @@ RL	fra	mercredi	n-m-ND	cat	dimecres	n-m-sp$n-m$n
 	fra	méridional	adj$	cat	meridional	adj$adj-mf$
 	fra	Merino	np$np-cog$np-cog-mf-sp	cat	Merino	np$$np-cog$np-cog-mf-sp
 	fra	mériter	vblex	cat	merèixer	vblex
-	fra	Meritxell	np$np-ant-f-sg	cat	Meritxell	np$np-ant-f-sg$np-ant
+	fra	Meritxell	np-ant-f-sg$np	cat	Meritxell	np$np-ant-f-sg$np-ant
 	fra	merveille	n-f$n	cat	meravella	n-f$n
 	fra	merveilleusement	adv	cat	meravellosament	adv
 	fra	merveilleux	adj-m-sp$adj	cat	meravellós	adj$$adj-sup
@@ -7432,7 +7432,7 @@ LR	fra	mettre	vblex	cat	posar	vblex
 	fra	migration	n$n-f$n-f-ND	cat	migració	n-f$n
 	fra	Miguel	np$np-ant$np-ant-m-sg	cat	Miguel	np$np-ant$np-ant-m-sg$
 	fra	Mikel	np$np-ant-m-sg$np-ant	cat	Mikel	np$np-ant-m-sg$np-ant
-	fra	Mila	np$np-ant$np-ant-f-sg	cat	Mila	np$np-ant-f-sg$np-ant
+	fra	Mila	np$np-ant-f-sg$np-ant	cat	Mila	np$np-ant-f-sg$np-ant
 LR	fra	mil	num-f-sp	cat	mil	num$num-mf$num-mf-sp
 LR	fra	mil	num-m-sp	cat	mil	num$num-mf$num-mf-sp
 RL	fra	mil	num-GD-sp$num	cat	mil	num$num-mf$num-mf-sp
@@ -7484,7 +7484,7 @@ RL	fra	miraculeux	adj-m-sp$adj	cat	miraculós	adj$$adj-sup
 	fra	Miranda	np$np-ant-f-sg$np-ant	cat	Miranda	np$np-ant$np-ant-f-sg$
 	fra	Mireia	np$np-ant-f-sg	cat	Mireia	np$np-ant-f-sg$np-ant
 LR	fra	mirer	vblex	cat	mirar	vblex
-	fra	Miriam	np$np-ant-f-sg$np-ant	cat	Miriam	np$np-ant-f-sg$np-ant
+	fra	Miriam	np-ant-f-sg$np$np-ant	cat	Miriam	np$np-ant-f-sg$np-ant
 RL	fra	mise	n-f$n	cat	aposta	n-f$n$n-pl-f
 LR	fra	miser	vblex	cat	apostar	vblex
 	fra	misérable	adj$adj-mf$adj-mf-ND	cat	miserable	adj-mf$adj$
@@ -7752,10 +7752,10 @@ RL	fra	natif	adj$adj-GD-ND	cat	nadiu	adj$
 	fra	nationaliste	adj$adj-mf-ND$adj-mf	cat	nacionalista	adj$adj-mf
 	fra	nationaliste	n$n-mf$n-mf-ND	cat	nacionalista	n-mf$n$
 	fra	nationalité	n$n-f$n-f-ND	cat	nacionalitat	n-f$n
-	fra	Natividad	np$np-ant-f-sg$np-ant	cat	Natividad	np$np-ant-f-sg
+	fra	Natividad	np-ant-f-sg$np$np-ant	cat	Natividad	np$np-ant-f-sg
 	fra	naturaliste	adj$adj-mf	cat	naturalista	adj$adj-mf
 	fra	naturaliste	n-mf$n	cat	naturalista	n-mf$n$
-	fra	naturalité	n$n-f	cat	naturalitat	n-f$n
+	fra	naturalité	n-f$n	cat	naturalitat	n-f$n
 	fra	Nature	np-al$np	cat	Nature	np-al
 	fra	nature	n-f$n$n-f-ND	cat	naturalesa	n-f$n
 	fra	naturel	adj$adj-f$adj-f-sg	cat	natural	adj$adj-mf$
@@ -7945,7 +7945,7 @@ RL	fra	numérique	adj-mf$adj$adj-mf-ND	cat	numèric	adj$
 	fra	numériser	vblex	cat	digitalitzar	vblex
 	fra	numéro	n-m$n$n-m-ND	cat	número	n$n-m
 	fra	Núñez	np$np-cog$np-cog-mf-sp	cat	Núñez	np-cog$np-cog-mf-sp
-	fra	Nuria	np$np-ant-f-sg$np-ant	cat	Nuria	np-ant$np-ant-f-sg$np
+	fra	Nuria	np-ant-f-sg$np$np-ant	cat	Nuria	np-ant$np-ant-f-sg$np
 	fra	Núria	np$np-top	cat	Núria	np-top
 	fra	nylon	n-m$n	cat	niló	n$n-m$n-m-ND
 	fra	obéir	vblex	cat	acatar	vblex
@@ -7977,7 +7977,7 @@ LR	fra	observer	vblex	cat	observar	vblex
 	fra	obtenir	vblex	cat	obtenir	vblex
 	fra	obtenir	vblex	cat	abastar	vblex
 	fra	obtention	n$n-f	cat	obtenció	n-f$n
-	fra	Ocaña	np-top-f-sg	cat	Ocaña	np-top-f-sg
+	fra	Ocaña	np$np-top-f-sg	cat	Ocaña	np-top-f-sg
 RL	fra	occasion	n$n-f$n-f-ND	cat	oportunitat	n-f$n$n-f-sg
 	fra	occasion	n$n-f$n-f-ND	cat	ocasió	n$n-f
 	fra	occasionnel	adj$	cat	ocasional	adj$adj-mf$
@@ -8027,7 +8027,7 @@ RL	fra	offrir	vblex	cat	regalar	vblex
 	fra	oignon	n-m$n$n-m-ND	cat	ceba	n-f$n
 	fra	oiseau	n-m$n$n-m-ND	cat	ocell	n-m$n
 	fra	Olga	np$np-ant-f-sg$np-ant	cat	Olga	np$np-ant-f-sg$np-ant$
-	fra	Oliva	np-top-f-sg	cat	Oliva	np-top-f-sg
+	fra	Oliva	np$np-top-f-sg	cat	Oliva	np-top-f-sg
 	fra	Olivares	np$np-cog-mf-sp$np-cog	cat	Olivares	np-cog$np-cog-mf-sp
 	fra	Oliveira	np$np-cog$np-cog-mf-sp	cat	Oliveira	np-cog$np-cog-mf-sp
 	fra	Oliver	np$np-ant-m-sg$np-ant	cat	Oliver	np$$np-ant-m-sg$np-ant
@@ -8238,7 +8238,7 @@ RL	fra	paix	n-f-sp$n$n-f	cat	pau	n-f-sg
 	fra	panorama	n$n-m$n-m-ND	cat	panorama	n-m$n
 	fra	panthère	n$n-f$n-f-ND	cat	pantera	n-f$n
 	fra	Panza	np$np-cog$np-cog-mf-sp	cat	Panza	np$$np-cog$np-cog-mf-sp
-	fra	Paola	np$np-ant$np-ant-f-sg	cat	Paola	np$np-ant-f-sg$np-ant
+	fra	Paola	np-ant-f-sg$np$np-ant	cat	Paola	np$np-ant-f-sg$np-ant
 	fra	papa	n$n-m$n-m-ND	cat	papa	n-m$n
 RL	fra	papa	n$n-m$n-m-ND	cat	papà	n-m$n$n-m-ND
 	fra	Pape	n	cat	Papa	n
@@ -8262,7 +8262,7 @@ LR	fra	parader	vblex	cat	desfilar	vblex
 	fra	paradoxe	n-m$n$n-m-ND	cat	paradoxa	n-f$n
 	fra	parage	n$n-m	cat	paratge	n$n-m
 	fra	paragraphe	n-m$n$n-m-ND	cat	paràgraf	n-m$n
-	fra	Paraguay	np$np-top-m$np-top$np-top-m-sg	cat	Paraguai	np-top-m-sg
+	fra	Paraguay	np$np-top-m$np-top-m-sg$np-top	cat	Paraguai	np-top-m-sg
 LR	fra	paraître	vblex$vblex-pp	cat	aparèixer	vblex
 	fra	parallèle	n-m$n-m-ND	cat	paral·lel	n-m$n
 	fra	parallèle	n-f$n	cat	paral·lela	n-f$n
@@ -8709,8 +8709,8 @@ LR	fra	piloter	vblex	cat	conduir	vblex
 	fra	aulne	n-m$n	cat	vern	n-m
 	fra	pinacothèque	n$n-f	cat	pinacoteca	n$n-f
 	fra	pinceau	n$n-m	cat	pinzell	n$n-m
-	fra	Pineda	np-top-f-sg	cat	Pineda	np-top-f-sg
-	fra	Pinilla	np-top-f-sg	cat	Pinilla	np-top-f-sg
+	fra	Pineda	np$np-top-f-sg	cat	Pineda	np-top-f-sg
+	fra	Pinilla	np$np-top-f-sg	cat	Pinilla	np-top-f-sg
 	fra	Pinochet	np$np-cog$np-cog-mf-sp	cat	Pinochet	np-cog$np-cog-mf-sp
 	fra	pinte	n-f$n	cat	pinta	n-f$n
 LR	fra	pinter	vblex	cat	mamar	vblex
@@ -8753,7 +8753,7 @@ LR	fra	plaisant	adj-f	cat	agradable	adj-mf$adj$
 LR	fra	plaisant	adj-m	cat	agradable	adj-mf$adj$
 	fra	plaisanterie	n-f$n$n-f-ND	cat	broma	n-f$n
 	fra	plaisir	n-m$n$n-m-ND	cat	plaer	n-m$n
-	fra	Plana	np-top-f-sg	cat	Plana	np-top-f-sg
+	fra	Plana	np$np-top-f-sg	cat	Plana	np-top-f-sg
 RL	fra	plan	n-m$n$n-m-ND	cat	plànol	n-m$n
 	fra	plan	n-m$n$n-m-ND	cat	pla	n-m$n$
 	fra	planer	vblex	cat	planejar	vblex
@@ -8888,7 +8888,7 @@ RL	fra	ponctuel	adj$adj-f$	cat	puntual	adj-sup
 	fra	populaire	adj$adj-mf-ND$adj-mf	cat	popular	adj$adj-mf$
 	fra	population	n$n-f$n-f-ND	cat	població	n$n-f
 	fra	populiste	adj	cat	populista	adj$$adj-mf
-	fra	populiste	n	cat	populista	n-mf$n
+	fra	populiste	n$n-mf	cat	populista	n-mf$n
 	fra	porcelaine	n-f$n	cat	porcellana	n-f$n
 LR	fra	porno	adj$adj-mf-pl	cat	porno	adj-mf-sp$adj
 LR	fra	porno	adj-mf-sg	cat	porno	adj-mf-sp$adj
@@ -9078,7 +9078,7 @@ RL	fra	présenter	vblex	cat	personar	vblex
 	fra	présidentiellement	adv	cat	presidencialment	adv
 	fra	présider	vblex	cat	presidir	vblex
 	fra	Presley	np-cog$np-cog-mf-sp	cat	Presley	np-cog$np-cog-mf-sp
-	fra	Presley	np$np-ant-m-sg$np-ant	cat	Presley	np$np-ant-m-sg
+	fra	Presley	np-ant-m-sg$np$np-ant	cat	Presley	np$np-ant-m-sg
 	fra	présomption	n$n-f	cat	presumpció	n-f$n
 	fra	presque	preadv	cat	gairebé	preadv
 RL	fra	presque	preadv	cat	quasi	preadv
@@ -9179,7 +9179,7 @@ RL	fra	proche	adj-mf$adj$adj-mf-ND	cat	pròxim	adj-m
 	fra	proclamer	vblex	cat	proclamar	vblex
 	fra	procurer	vblex	cat	procurar	vblex
 	fra	procureur	n-m$n	cat	fiscal	n-mf$n$
-	fra	prodige	n$n-m$n-m-ND	cat	prodigi	n$n-m
+	fra	prodige	n-m$n$n-m-ND	cat	prodigi	n$n-m
 	fra	prodigieusement	adv	cat	prodigiosament	adv
 	fra	prodigieux	adj-m-sp$adj	cat	prodigiós	adj$$adj-sup
 RL	fra	prodigieux	adj-m-sp$adj	cat	prodigiós	adj$$adj-sup
@@ -9302,7 +9302,7 @@ LR	fra	prunelle	n$n-f$n-f-ND	cat	pupil·la	n$n-f
 LR	fra	pub	n-f	cat	publicitat	n-f$n$n-f-ND
 	fra	publier	vblex	cat	publicar	vblex
 	fra	publiquement	adv	cat	públicament	adv
-	fra	Puig	np-top-m-sg	cat	Puig	np-top-m-sg
+	fra	Puig	np$np-top-m-sg	cat	Puig	np-top-m-sg
 	fra	puce	n-f$n	cat	xip	n-m$n$n-m-sg
 LR	fra	puis	adv	cat	a continuació	adv
 	fra	puisque	cnjadv	cat	ja que	cnjadv
@@ -9325,7 +9325,7 @@ RL	fra	puissant	adj$adj-GD-ND$adj-GD	cat	potent	adj$adj-mf
 	fra	pyramide	n$n-f	cat	piràmide	n$n-f
 	fra	pyrénéen	adj$adj-GD-ND	cat	pirinenc	adj
 	fra	pré-pyrénéen	adj	cat	prepirinenc	adj
-	fra	Qatar	np$np-top-m$np-top$np-top-m-sg	cat	Qatar	np-top-m-sg
+	fra	Qatar	np$np-top-m$np-top-m-sg$np-top	cat	Qatar	np-top-m-sg
 LR	fra	rouget	n	cat	moll	n-m$n$
 	fra	quai	n-m$n	cat	moll	n-m$n$
 RL	fra	quai	n-m$n	cat	andana	n-f
@@ -9441,8 +9441,8 @@ RL	fra	radieux	adj-GD$adj-GD-sp	cat	radiant	adj-mf-sg
 LR	fra	rai	n$n-m$n-m-ND	cat	raig	n-m$n
 	fra	raidir	vblex	cat	estirar	vblex
 	fra	rail	n-m$n	cat	rail	n-m$n
-	fra	Raimon	np$np-ant-m-sg	cat	Raimon	np$np-ant-m-sg$np-ant
-	fra	Raimundo	np$np-ant$np-ant-m-sg	cat	Raimundo	np$np-ant-m-sg
+	fra	Raimon	np-ant-m-sg$np	cat	Raimon	np$np-ant-m-sg$np-ant
+	fra	Raimundo	np$np-ant-m-sg$np-ant	cat	Raimundo	np$np-ant-m-sg
 LR	fra	raire	vblex	cat	bramar	vblex
 	fra	raison	n-f$n$n-f-ND	cat	raó	n$n-f
 	fra	raisonnable	adj$adj-mf$adj-mf-ND	cat	raonable	adj$adj-mf$
@@ -9464,10 +9464,10 @@ LR	fra	ramener	vblex	cat	portar	vblex
 RL	fra	ramer	vblex	cat	remar	vblex
 	fra	ramification	n$n-f	cat	ramificació	n-f$n
 	fra	Ramírez	np$np-cog-mf-sp$np-cog	cat	Ramírez	np$$np-cog$np-cog-mf-sp
-	fra	Ramiro	np$np-cog$np-cog-mf-sp	cat	Ramiro	np-cog$np-cog-mf-sp
+	fra	Ramiro	np-cog$np-cog-mf-sp	cat	Ramiro	np-cog$np-cog-mf-sp
 	fra	Ramir	np-ant-m-sg	cat	Ramir	np-ant-m-sg$np-ant
 	fra	Ramire	np-ant-m-sg	cat	Ramir	np-ant-m-sg$np-ant
-	fra	Ramiro	np-ant$np-ant-m-sg	cat	Ramiro	np-ant-m-sg$np$np-ant
+	fra	Ramiro	np$np-ant-m-sg$np-ant	cat	Ramiro	np-ant-m-sg$np$np-ant
 	fra	Ramona	np$np-ant$np-ant-f-sg	cat	Ramona	np$np-ant-f-sg$
 	fra	Ramon	np$np-ant-m-sg$np-ant	cat	Ramon	np$np-ant-m-sg$np-ant$
 	fra	Ramón	np$np-ant-m-sg$np-ant	cat	Ramón	np$np-ant$np-ant-m-sg$
@@ -10040,12 +10040,12 @@ LR	fra	rogner	vblex	cat	retallar	vblex
 	fra	roman	n-m$n$n-m-ND	cat	novel·la	n-f$n
 	fra	roman	adj$adj-GD-ND	cat	romànic	adj$
 	fra	préroman	adj	cat	preromànic	adj
-	fra	Román	np$np-ant-m-sg$np-ant	cat	Román	np-ant-m-sg$$np$np-ant
+	fra	Román	np-ant-m-sg$np$np-ant	cat	Román	np-ant-m-sg$$np$np-ant
 	fra	romanisation	n$n-f	cat	romanització	n-f$n
 	fra	romantisme	n$n-m	cat	romanticisme	n-m$n$n-m-sg
 	fra	Rome	np$np-top-f-sg$np-top$np-top-f	cat	Roma	np-top-f-sg$np-top-f
 	fra	Romeo	np-cog$np-cog-mf-sp	cat	Romeo	np-cog$np-cog-mf-sp
-	fra	Romeo	np$np-ant-m-sg$np-ant	cat	Romeo	np$np-ant-m-sg$$np-ant
+	fra	Romeo	np-ant-m-sg$np$np-ant	cat	Romeo	np$np-ant-m-sg$$np-ant
 	fra	Romeu	np$np-cog$np-cog-mf-sp	cat	Romeu	np$$np-cog$np-cog-mf-sp
 	fra	rompre	vblex	cat	trencar	vblex$vblex-pron
 	fra	rond	adj$adj-GD-ND	cat	rodó	adj$
@@ -10096,15 +10096,15 @@ LR	fra	rouvre	n$n-m$n-m-ND	cat	roure	n-m$n
 	fra	royaume	n-m$n$n-m-ND	cat	regne	n-m$n
 	fra	règne	n-m	cat	regnat	n-m$n
 	fra	pontificat	n-m	cat	pontificat	n-m$n
-	fra	Royaume-Uni	np$np-top-m$np-top-m-sg$np-top	cat	Regne Unit	np-top-m-sg
+	fra	Royaume-Uni	np-top-m-sg$np$np-top-m$np-top	cat	Regne Unit	np-top-m-sg
 	fra	Royo	np$np-cog$np-cog-mf-sp	cat	Royo	$np$np-cog$np-cog-mf-sp
 	fra	RPR	n-acr$n-acr-f	cat	RPR	n-acr
 	fra	papauté	n-f	cat	papat	n-m
-RL	fra	Royaume-Uni	np$np-top-m$np-top-m-sg$np-top	cat	UK	n-acr-m-sg$n
+RL	fra	Royaume-Uni	np-top-m-sg$np$np-top-m$np-top	cat	UK	n-acr-m-sg$n
 	fra	RTVE	np$np-al	cat	RTVE	np$np-al
 	fra	Rubén	np$np-ant$np-ant-m-sg	cat	Rubén	np$np-ant-m-sg$np-ant$
 	fra	Rubí	np-top-m-sg	cat	Rubí	np-top-m-sg
-	fra	Rufino	np$np-ant-m-sg$np-ant	cat	Rufino	np$np-ant-m-sg
+	fra	Rufino	np-ant-m-sg$np$np-ant	cat	Rufino	np$np-ant-m-sg
 	fra	ruban	n-m$n-m-ND	cat	cinta	n-f$n
 	fra	rue	n-f$n-f-ND$n	cat	carrer	n-m$n
 	fra	ruelle	n-f	cat	carreró	n-m
@@ -10194,7 +10194,7 @@ LR	fra	salutation	n-f$n$n-f-ND	cat	salutació	n-f$n
 	fra	Sanchis	np$np-cog$np-cog-mf-sp	cat	Sanchis	np-cog
 	fra	Sanchís	np$np-cog$np-cog-mf-sp	cat	Sanchís	np$$np-cog$np-cog-mf-sp
 	fra	Sancho	np-cog$np-cog-mf-sp	cat	Sancho	np-cog$np-cog-mf-sp
-	fra	Sancho	np$np-ant-m-sg$np-ant	cat	Sancho	np$np-ant-m-sg$
+	fra	Sancho	np-ant-m-sg$np$np-ant	cat	Sancho	np$np-ant-m-sg$
 	fra	sanction	n$n-f$n-f-ND	cat	sanció	n-f$n
 LR	fra	pénalité	n-f$n	cat	sanció	n-f$n
 	fra	sanctionner	vblex	cat	sancionar	vblex
@@ -10310,7 +10310,7 @@ LR	fra	saccader	vblex	cat	sacsejar	vblex
 	fra	secte	n$n-f	cat	secta	n$n-f
 	fra	secteur	n$n-m$n-m-ND	cat	sector	n$n-m
 	fra	section	n$n-f$n-f-ND	cat	secció	n-f$n
-	fra	sectoriel	adj$adj-GD	cat	sectorial	adj$adj-mf$
+	fra	sectoriel	adj$adj-GD$	cat	sectorial	adj$adj-mf$
 	fra	sectoriellement	adv	cat	sectorialment	adv
 	fra	séculaire	adj	cat	secular	adj$adj-mf$
 	fra	séculairement	adv	cat	secularment	adv
@@ -10344,7 +10344,7 @@ LR	fra	avoir	vblex	cat	semblar	vblex$vblex-pron
 LR	fra	avoir	vblex	cat	semblar	vblex$vblex-pron
 	fra	semer	vblex	cat	sembrar	vblex
 	fra	semestre	n-m$n	cat	semestre	n-m$n
-	fra	semestriel	adj$adj-f	cat	semestral	adj$adj-mf$
+	fra	semestriel	adj$adj-f$	cat	semestral	adj$adj-mf$
 	fra	semestriellement	adv	cat	semestralment	adv
 	fra	sénat	n$n-m$n-m-ND	cat	senat	n$n-m
 LR	fra	sénateur	n-m$n	cat	senador	n-GD
@@ -10388,7 +10388,7 @@ RL	fra	séparer	vblex	cat	segregar	vblex
 	fra	serein	adj$adj-GD-ND	cat	serè	adj$
 	fra	Serge	np$np-ant$np-ant-m-sg	cat	Serge	np-ant-m-sg
 	fra	sergent	n-m$n	cat	sergent	n-mf$n
-	fra	Sergi	np	cat	Sergi	np$np-ant-m-sg$np-ant$
+	fra	Sergi	np$np-ant-m-sg	cat	Sergi	np$np-ant-m-sg$np-ant$
 	fra	Sergio	np$np-ant-m-sg$np-ant	cat	Sergio	np$np-ant-m-sg$$np-ant
 	fra	série	n-f$n	cat	sèrie	n-f$n$n-f-sg
 	fra	sérier	vblex	cat	seriar	vblex
@@ -10458,14 +10458,14 @@ RL	fra	silencieux	adj-m-sp$adj	cat	silenciós	adj$$adj-sup
 	fra	sillonner	vblex	cat	solcar	vblex
 	fra	Silva	np$np-cog$np-cog-mf-sp	cat	Silva	np-cog$np-cog-mf-sp
 	fra	Silvestre	np-cog$np-cog-mf-sp	cat	Silvestre	np-cog$np-cog-mf-sp
-	fra	Silvestre	np$np-ant-m-sg$np-ant	cat	Silvestre	np-ant-m-sg$np$
+	fra	Silvestre	np-ant-m-sg$np$np-ant	cat	Silvestre	np-ant-m-sg$np$
 	fra	Silvia	np$np-ant-f-sg$np-ant	cat	Silvia	np$np-ant-f-sg$$np-ant
 	fra	Silvio	np$np-ant-m-sg$np-ant	cat	Silvio	np$np-ant-m-sg
 	fra	similaire	adj$adj-mf-ND$adj-mf	cat	similar	adj$adj-mf$
 	fra	Simó	np$np-cog$np-cog-mf-sp	cat	Simó	np-cog$np-cog-mf-sp
 	fra	Simó	np-ant-m-sg	cat	Simó	np$np-ant-m-sg$$np-ant
 	fra	Simón	np-cog$np-cog-mf-sp	cat	Simón	np-cog$np-cog-mf-sp
-	fra	Simón	np$np-ant$np-ant-m-sg	cat	Simón	np$np-ant-m-sg$$np-ant
+	fra	Simón	np-ant-m-sg$np$np-ant	cat	Simón	np$np-ant-m-sg$$np-ant
 	fra	Simone	np-cog$np-cog-mf-sp	cat	Simone	np-cog$np-cog-mf-sp
 	fra	Simone	np-ant-m-sg	cat	Simone	np-ant-m-sg
 	fra	Simone	np-ant-f-sg$np$np-ant	cat	Simone	np-ant-f-sg$np$np-ant
@@ -10538,7 +10538,7 @@ LR	fra	soirée	n-f$n$n-f-ND	cat	tarda	n-f$n
 RL	fra	sol	n-m$n$n-m-ND	cat	sòl	n-m$n
 	fra	solaire	adj$adj-mf-ND$adj-mf	cat	solar	adj$adj-mf$
 	fra	Solana	np-cog$np-cog-mf-sp	cat	Solana	np-cog$np-cog-mf-sp
-	fra	Solana	np$np-ant-f-sg$np-ant	cat	Solana	np$np-ant-f-sg
+	fra	Solana	np-ant-f-sg$np$np-ant	cat	Solana	np$np-ant-f-sg
 	fra	Solbes	np$np-cog$np-cog-mf-sp	cat	Solbes	np$np-cog$np-cog-mf-sp
 	fra	soldat	n$n-mf$n-mf-ND	cat	soldat	n$n-GD
 	fra	fantassin	n-m	cat	soldat	n-m
@@ -10554,7 +10554,7 @@ RL	fra	solennel	adj$adj-f	cat	solemne	adj-sup
 	fra	solliciter	vblex	cat	sol·licitar	vblex
 	fra	solution	n-f$n$n-f-ND	cat	solució	n-f$n
 	fra	solvable	adj$adj-mf	cat	solvent	adj$adj-mf$
-	fra	somalien	n-f$n	cat	somali	n$n-mf
+	fra	somalien	n$n-f	cat	somali	n$n-mf
 	fra	somalien	adj$adj-GD-ND$adj-GD	cat	somali	adj$adj-mf
 	fra	sombre	adj-mf$adj$adj-mf-ND	cat	ombrívol	adj$
 	fra	sommaire	n$n-m$n-m-ND	cat	sumari	n$n-m
@@ -10944,7 +10944,7 @@ LR	fra	tailler	vblex	cat	tallar	vblex
 RL	fra	tandis que	cnjadv	cat	mentre que	cnjadv
 	fra	tandis que	cnjadv	cat	mentre	cnjadv
 	fra	Tanger	np$np-top-m-sg	cat	Tànger	np-top-m-sg
-	fra	Tania	np$np-ant$np-ant-f-sg	cat	Tania	np$np-ant-f-sg$$np-ant
+	fra	Tania	np-ant-f-sg$np$np-ant	cat	Tania	np$np-ant-f-sg$$np-ant
 LR	fra	tant	adv	cat	tant	adv
 	fra	tante	n$n-f$n-f-ND	cat	tia	n-f$n
 LR	fra	tantôt	adv	cat	després	adv
@@ -11042,8 +11042,8 @@ RL	fra	tenir	vblex	cat	subjectar	vblex
 	fra	tentative	n-f$n$n-f-ND	cat	temptativa	n-f$n
 	fra	tente	n-f$n	cat	tenda	n-f$n
 	fra	tenter	vblex	cat	temptar	vblex
-	fra	Teodoro	np$np-cog$np-cog-mf-sp	cat	Teodoro	np-cog$np-cog-mf-sp
-	fra	Teodoro	np-ant$np-ant-m-sg	cat	Teodoro	np$np-ant-m-sg
+	fra	Teodoro	np-cog$np-cog-mf-sp	cat	Teodoro	np-cog$np-cog-mf-sp
+	fra	Teodoro	np$np-ant-m-sg$np-ant	cat	Teodoro	np$np-ant-m-sg
 	fra	Tere	np$np-ant$np-ant-f-sg	cat	Tere	np$np-ant-f-sg
 	fra	Teresa	np$np-ant$np-ant-f-sg	cat	Teresa	np$np-ant-f-sg$np-ant
 	fra	Thérèse	np-ant-f-sg	cat	Thérèse	np-ant-f-sg
@@ -11260,7 +11260,7 @@ LR	fra	transir	vblex	cat	gelar	vblex
 	fra	transiter	vblex	cat	transitar	vblex
 	fra	transitoire	adj-mf$adj$adj-mf-ND	cat	transitori	adj$
 	fra	transmettre	vblex	cat	transmetre	vblex
-	fra	transnational	adj$adj-f	cat	transnacional	adj$adj-mf
+	fra	transnational	adj$$adj-f	cat	transnacional	adj$adj-mf
 	fra	transparent	adj$adj-GD-ND$adj-GD	cat	transparent	adj$adj-mf$
 	fra	transparentement	adv	cat	transparentment	adv
 	fra	transport	n-m$n$n-m-ND	cat	transport	n$n-m
@@ -11579,7 +11579,7 @@ LR	fra	veto	n-m$n	cat	veto	n-m$n
 	fra	Viana	np-top-f-sg	cat	Viana	np-top-f-sg
 	fra	viande	n$n-f$n-f-ND	cat	carn	n$n-f
 	fra	viander	vblex	cat	pastar	vblex
-	fra	vibrant	adj-f$adj	cat	vibrant	adj$adj-mf$
+	fra	vibrant	adj$adj-f	cat	vibrant	adj$adj-mf$
 	fra	vibration	n$n-f$n-f-ND	cat	vibració	n-f$n
 	fra	vibrer	vblex	cat	vibrar	vblex
 	fra	vicaire	n-m$n	cat	vicari	n-m$n
@@ -11620,7 +11620,7 @@ LR	fra	VIème	adj$adj-mf$adj-mf-sg	cat	VI	adj$adj-mf
 	fra	vierge	adj$adj-mf-ND$adj-mf	cat	verge	adj$adj-mf$
 	fra	vierge	n$n-f$n-f-ND	cat	verge	n-f$n
 	fra	Viêtnam	np$np-top-m-sg$np-top-m	cat	Vietnam	np$np-loc$np-loc-m
-	fra	vieux	n-f$n-f-pl	cat	vell	n$n-f-pl
+	fra	vieux	n-f$n-f-pl	cat	vell	n$n-f$n-f-pl
 	fra	vieux	n-f-sg	cat	vell	n-f-sg
 LR	fra	vieux	n-m-sp$n	cat	vell	n-m-ND
 RL	fra	vieux	n-m-sp$n	cat	vell	n-m-pl
@@ -11773,9 +11773,9 @@ LR	fra	volley	n$n-m	cat	voleibol	n-m$n$n-m-sg
 	fra	votant	n-f$n	cat	votant	n-mf$n
 	fra	vote	n$n-m$n-m-ND	cat	vot	n-m$n
 	fra	voter	vblex	cat	votar	vblex
-LR	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	cat	el vostre	det$det-pos$det-pos-GD$det-pos-GD-ND
-RL	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	cat	el vostre	det-pos-f$det-pos-f-sg
-RL	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	cat	el vostre	det-pos-m$det-pos-m-sg
+LR	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	cat	el vostre	det$det-pos$det-pos-GD$det-pos-GD-ND
+RL	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	cat	el vostre	det-pos-f$det-pos-f-sg
+RL	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det	cat	el vostre	det-pos-m$det-pos-m-sg
 LR	fra	vouer	vblex	cat	consagrar	vblex
 	fra	vouloir	vblex	cat	voler	vblex
 	fra	vouloir	vbmod	cat	voler	vbmod
@@ -11898,7 +11898,7 @@ LR	fra	XXXème	adj-mf$adj-mf-sg	cat	XXX	adj-mf
 	fra	Yébenes	np$np-top-m-sg	cat	Yébenes	np$np-top-m-sg
 	fra	yen	n-m$n	cat	ien	n$n-m
 	fra	yeuse	n$n-f$n-f-ND	cat	alzina	n-f$n
-	fra	Yolanda	np$np-ant$np-ant-f-sg	cat	Yolanda	np$np-ant-f-sg$np-ant
+	fra	Yolanda	np$np-ant-f-sg$np-ant	cat	Yolanda	np$np-ant-f-sg$np-ant
 	fra	Yougoslavie	np$np-top-f$np-top-f-sg$np-top	cat	Iugoslàvia	np-top-f-sg
 	fra	Yuste	np-top-m-sg	cat	Yuste	np-top-m-sg
 	fra	Yvelines	np-top-m-sg	cat	Yvelines	np-top-m-sg
@@ -11914,7 +11914,7 @@ LR	fra	XXXème	adj-mf$adj-mf-sg	cat	XXX	adj-mf
 	fra	zéro	n-m$n	cat	zero	n-m$n
 	fra	Zeta	np$np-ant$np-ant-f-sg	cat	Zeta	np-ant-f-sg$np
 	fra	Zidane	np$np-cog$np-cog-mf-sp	cat	Zidane	np-cog$np-cog-mf-sp
-	fra	Zinédine	np$np-ant-m-sg	cat	Zinédine	np-ant-m-sg
+	fra	Zinédine	np-ant-m-sg$np	cat	Zinédine	np-ant-m-sg
 	fra	zone	n$n-f$n-f-ND	cat	zona	n-f$n
 	fra	Zorrilla	np$np-cog$np-cog-mf-sp	cat	Zorrilla	np$np-cog$np-cog-mf-sp
 	fra	Zurbarán	np-cog$np-cog-mf-sp	cat	Zurbarán	np-cog$np-cog-mf-sp
@@ -11936,7 +11936,7 @@ LR	fra	XXXème	adj-mf$adj-mf-sg	cat	XXX	adj-mf
 	fra	abolition	n-f$n	cat	abolició	n-f$n
 	fra	abrogation	n-f$n	cat	abrogació	n-f$n
 	fra	absolution	n-f$n$n-f-ND	cat	absolució	n-f$n
-	fra	ACB	n$n-acr-f	cat	ACB	n-acr-f$n$n-acr$n-acr-f-sg
+	fra	ACB	n-acr-f$n	cat	ACB	n-acr-f$n$n-acr$n-acr-f-sg
 	fra	accent	n-m$n$n-m-ND	cat	accent	n-m$n
 	fra	absorption	n$n-f$n-f-ND	cat	absorció	n-f$n
 	fra	abstention	n-f$n$n-f-ND	cat	abstenció	n-f$n
@@ -12288,7 +12288,7 @@ RL	fra	capital	n-m$n$$n-m-ND	cat	cabal	n$n-m
 	fra	cash-flow	n$n-m	cat	cash-flow	n$n-m
 	fra	casino	n-m$n	cat	casino	n-m$n
 	fra	cascade	n-f$n	cat	cascada	n-f$n
-	fra	castillan	n$n-m$n-m-ND	cat	castellà	n$n-m$n-m-pl
+	fra	castillan	n$n-m-ND$n-m	cat	castellà	n$n-m$n-m-pl
 	fra	casting	n-m$n	cat	càsting	n-m$n
 	fra	caserne	n-f$n-f-ND	cat	caserna	n-f$n
 	fra	cassation	n-f$n	cat	cassació	n-f$n
@@ -12801,7 +12801,7 @@ RL	fra	entraîneur	n$n-m$n-m-ND	cat	preparador	n$n-m
 	fra	envie	n-f-pl	cat	enveja	n-f-pl
 	fra	envie	n-f$n$n-f-sg	cat	gana	n-f-pl
 	fra	épuration	n$n-f	cat	depuració	n-f$n
-	fra	équation	n-f$n$n-f-ND	cat	equació	n-f$n
+	fra	équation	n$n-f$n-f-ND	cat	equació	n-f$n
 	fra	équilibrage	n-m$n	cat	ajust	n-m$n
 LR	fra	équerre	n-f$n	cat	esquadra	n-f$n
 	fra	escadre	n-f	cat	esquadra	n-f$n
@@ -13419,7 +13419,7 @@ RL	fra	longitude	n-f$n$n-f-ND	cat	llargària	n-f$n
 	fra	lustration	n$n-f	cat	lustració	n-f$n
 	fra	lutteur	n$n-m	cat	lluitador	n$n-m$
 	fra	luxation	n$n-f	cat	luxació	n-f$n
-	fra	machiniste	n$n-mf	cat	maquinista	n-mf$n
+	fra	machiniste	n-mf$n	cat	maquinista	n-mf$n
 	fra	machisme	n-m$n	cat	masclisme	n-m$n
 	fra	machiste	n$n-mf	cat	masclista	n-mf$n
 	fra	machiste	adj$adj-mf	cat	masclista	adj$adj-mf
@@ -13651,7 +13651,7 @@ RL	fra	navire	n-m$n$n-m-ND	cat	navili	n-m$n
 	fra	occultation	n$n-f	cat	ocultació	n-f$n
 	fra	occurrence	n-f$n$n-f-ND	cat	ocurrència	n-f$n
 	fra	odontologie	n$n-f	cat	odontologia	n$n-f$n-f-sg
-	fra	odyssée	n$n-f	cat	odissea	n$n-f
+	fra	odyssée	n-f$n	cat	odissea	n$n-f
 	fra	officialité	n-f$n	cat	oficialitat	n-f$n
 	fra	offrande	n-f$n	cat	ofrena	n-f$n
 	fra	olympiade	n$n-f	cat	olimpíada	n-f$n$n-f-sg
@@ -14287,7 +14287,7 @@ RL	fra	show	n-m$n$n-m-ND	cat	show	n-m$n$n-m-sg
 	fra	soupir	n-m$n$n-m-ND	cat	sospir	n-m$n
 	fra	sophistication	n-f$n	cat	sofisticació	n-f$n
 	fra	soprano	n-f$n	cat	soprano	n-mf
-	fra	sous-directeur	n-m$n	cat	sotsdirector	n$n-m
+	fra	sous-directeur	n$n-m	cat	sotsdirector	n$n-m
 	fra	sous-gouverneur	n$n-m	cat	sotsgovernador	n$n-m
 	fra	sous-marin	n-m$n	cat	submarí	n-m$n
 RL	fra	soulagement	n$n-m$n-m-ND	cat	alleugeriment	n-m$n
@@ -14777,7 +14777,7 @@ LR	fra	verser	vblex	cat	pagar	vblex
 	fra	Camille	np-ant$np-ant-f-sg$np	cat	Camille	np-ant-f-sg
 	fra	Carola	np-ant-f-sg	cat	Carola	np-ant-f-sg
 	fra	Caroline	np-ant-f-sg$np$np-ant	cat	Caroline	np-ant-f-sg
-	fra	Cédric	np$np-ant$np-ant-m-sg	cat	Cédric	np-ant-m-sg
+	fra	Cédric	np-ant-m-sg$np$np-ant	cat	Cédric	np-ant-m-sg
 	fra	Célia	np-ant-f-sg	cat	Célia	np-ant-f-sg
 	fra	Charlotte	np-ant-f-sg$np$np-ant	cat	Charlotte	np-ant-f-sg$np-ant
 	fra	Claudette	np-ant-f-sg	cat	Claudette	np-ant-f-sg
@@ -14788,7 +14788,7 @@ LR	fra	verser	vblex	cat	pagar	vblex
 	fra	Desaix	np-cog$np-cog-mf-sp	cat	Desaix	np-cog$np-cog-mf-sp
 	fra	Desmond	np-ant-m-sg	cat	Desmond	np-ant-m-sg
 	fra	Didier	np-ant-m-sg$np$np-ant	cat	Didier	np-ant-m-sg
-	fra	Dimitri	np$np-ant-m-sg$np-ant	cat	Dimitri	np-ant-m-sg
+	fra	Dimitri	np-ant-m-sg$np$np-ant	cat	Dimitri	np-ant-m-sg
 	fra	Dinarzade	np-ant-f-sg	cat	Dinarzade	np-ant-f-sg
 	fra	Divesens	np-ant-m-sg	cat	Divesens	np-ant-m-sg
 	fra	Dorothée	np-ant-f-sg	cat	Dorothée	np-ant-f-sg
@@ -14807,7 +14807,7 @@ LR	fra	verser	vblex	cat	pagar	vblex
 	fra	Ethoré	np-cog$np-cog-mf-sp	cat	Ethoré	np-cog$np-cog-mf-sp
 	fra	Fabien	np-cog$np-cog-mf-sp	cat	Fabien	np-cog$np-cog-mf-sp
 	fra	Fabien	np$np-ant$np-ant-m-sg	cat	Fabien	np-ant-m-sg
-	fra	Fabrice	np$np-ant$np-ant-m-sg	cat	Fabrice	np-ant-m-sg
+	fra	Fabrice	np-ant-m-sg$np$np-ant	cat	Fabrice	np-ant-m-sg
 	fra	Florence	np-cog$np-cog-mf-sp	cat	Florence	np-cog$np-cog-mf-sp
 	fra	Florence	np-ant$np-ant-f-sg$np	cat	Florence	np-ant-f-sg$np
 	fra	Franckie	np-ant-m-sg	cat	Franckie	np-ant-m-sg
@@ -14870,7 +14870,7 @@ RL	fra	Jésus	np-ant$np-ant-m-sg$np	cat	Jésus	np-ant-m-sg
 	fra	Marion	np-cog$np-cog-mf-sp	cat	Marion	np-cog$np-cog-mf-sp
 	fra	Marion	np-ant-m-sg	cat	Marion	np-ant-m-sg
 	fra	Marion	np-ant-f-sg$np$np-ant	cat	Marion	np-ant-f-sg$np
-	fra	Marius	np$np-ant-m-sg$np-ant	cat	Marius	np-ant-m-sg$
+	fra	Marius	np-ant-m-sg$np$np-ant	cat	Marius	np-ant-m-sg$
 	fra	Marthe	np-ant-f-sg$np-ant	cat	Marthe	np-ant-f-sg
 	fra	Martine	np-ant-f-sg$np$np-ant	cat	Martine	np-ant-f-sg
 	fra	Martin	np$np-ant$np-ant-m-sg	cat	Martin	np$$np-ant-m-sg$np-ant
@@ -14888,7 +14888,7 @@ RL	fra	Jésus	np-ant$np-ant-m-sg$np	cat	Jésus	np-ant-m-sg
 	fra	Morpion	np	cat	Morpion	np
 	fra	Mylène	np-ant-f-sg	cat	Mylène	np-ant-f-sg
 	fra	Myriam	np-ant-f-sg$np$np-ant	cat	Myriam	np-ant-f-sg
-	fra	Nicholas	np$np-ant-m-sg$np-ant	cat	Nicholas	np$np-ant-m-sg
+	fra	Nicholas	np-ant-m-sg$np$np-ant	cat	Nicholas	np$np-ant-m-sg
 	fra	Nina	np-ant-f-sg$np-ant	cat	Nina	np-ant-f-sg$np-ant
 	fra	Noël	np-cog$np-cog-mf-sp	cat	Noël	np-cog$np-cog-mf-sp
 	fra	Noël	np-ant-m-sg	cat	Noël	np-ant-m-sg
@@ -14926,7 +14926,7 @@ RL	fra	Jésus	np-ant$np-ant-m-sg$np	cat	Jésus	np-ant-m-sg
 	fra	Virgínia	np-ant-f-sg	cat	Virgínia	np-ant-f-sg$np-ant$np
 	fra	Voldemor	np-ant-m-sg	cat	Voldemor	np-ant-m-sg
 	fra	Yanis	np-ant-m-sg	cat	Yanis	np-ant-m-sg$np-ant
-	fra	Yann	np$np-ant-m-sg$np-ant	cat	Yann	np-ant-m-sg
+	fra	Yann	np-ant-m-sg$np$np-ant	cat	Yann	np-ant-m-sg
 	fra	Yliane	np-ant-m-sg	cat	Yliane	np-ant-m-sg
 	fra	Yoda	np-ant-m-sg	cat	Yoda	np-ant-m-sg
 	fra	Yonium	np-cog$np-cog-mf-sp	cat	Yonium	np-cog$np-cog-mf-sp
@@ -15228,7 +15228,7 @@ RL	fra	catalanophone	adj	cat	valencianoparlant	adj
 	fra	asiatique	adj-mf$adj$adj-mf-ND	cat	asiàtic	adj$
 	fra	Asiatique	n$n-mf	cat	asiàtic	n$n-m
 	fra	mythique	adj-mf$adj$adj-mf-ND	cat	mític	adj$
-	fra	Tchad	np-top-m$np-top-m-sg	cat	Txad	np-top-m-sg$np-top
+	fra	Tchad	np$np-top-m-sg$np-top$np-top-m	cat	Txad	np-top-m-sg$np-top
 	fra	Mali	np$np-top-m-sg$np-top$np-top-m	cat	Mali	np-top-m-sg
 	fra	Bénin	np$np-top-m$np-top-m-sg$np-top	cat	Benín	np-top$np-top-m-sg
 	fra	Alsace	np-top-f-sg$np-top$np-top-f	cat	Alsàcia	np-top-f-sg$np-top
@@ -15287,7 +15287,7 @@ LR	fra	flamant	n-m$n	cat	flamenc	n$n-m
 	fra	islandais	n	cat	islandès	n$$n-GD
 	fra	chinois	adj-m-sp$adj	cat	xinès	adj$$adj-m
 	fra	chinois	n-m-sp$n	cat	xinès	n$n-m
-	fra	Honduras	np-top-m$np-top-m-sg	cat	Hondures	np-top-f-sg$np-top
+	fra	Honduras	np$np-top-m-sg$np-top$np-top-m	cat	Hondures	np-top-f-sg$np-top
 	fra	Costa Rica	np$np-top-m-sg$np-top-m	cat	Costa Rica	np-top-f-sg
 	fra	Côte d'Azur	np$np-top-f-sg	cat	Costa Blava	np$np-top-f-sg$np-top
 LR	fra	Côte-d'Azur	np-top-f-sg	cat	Costa Blava	np$np-top-f-sg$np-top
@@ -15297,7 +15297,7 @@ LR	fra	Côte-d'Azur	np-top-f-sg	cat	Costa Blava	np$np-top-f-sg$np-top
 	fra	Bruxelles	np-top-m-sg$np-top	cat	Brussel·les	np-top-m-sg$np-top
 	fra	Montréal	np$np-top-m-sg$np-top-m	cat	Montreal	np-top-m-sg
 	fra	Majorque	np$np-top-f-sg$np-top-f	cat	Mallorca	np-top-f-sg
-	fra	Minorque	np-top-f-sg	cat	Menorca	np-top-f-sg
+	fra	Minorque	np$np-top-f-sg	cat	Menorca	np-top-f-sg
 	fra	Lausanne	np$np-top-f-sg	cat	Lausana	np$np-top-f-sg
 	fra	Montpellier	np$np-top-m-sg$np-top$np-top-m	cat	Montpeller	np$np-top-m-sg$np-top
 	fra	Perpignan	np-top-m-sg	cat	Perpinyà	np-top-m$np-top-m-sg
@@ -15482,7 +15482,7 @@ RL	fra	les deux	prn-tn-mf-pl	cat	ambdues	prn$prn-tn-f$prn-tn-f-pl
 	fra	citadelle	n-f$n	cat	ciutadella	n$n-f
 	fra	équivalence	n-f$n	cat	equivalència	n-f$n
 	fra	mongol	n$n-m	cat	mongol	n$n-GD$
-	fra	mongol	adj$adj-GD-ND$	cat	mongol	adj
+	fra	mongol	$adj$adj-GD-ND	cat	mongol	adj
 	fra	rajeunir	vblex	cat	rejovenir	vblex
 	fra	1er	adj-m-sg	cat	1r	adj$adj-m-sg
 	fra	1er	adj-f-sg	cat	1r	adj-f-sg
@@ -15551,8 +15551,8 @@ LR	fra	macédonien	n-f	cat	macedònia	n-f$n
 	fra	danseur	n$n-m	cat	ballarí	n$n-f
 	fra	curieusement	adv	cat	curiosament	adv
 	fra	Alicante	np$np-top-m-sg$np-top-m	cat	Alacant	np-top-m-sg$np-top-m
-	fra	Albacete	np-top-m-sg	cat	Albacete	np-top-m-sg
-	fra	Alcalá	np-top-m-sg	cat	Alcalá	np-top-m-sg
+	fra	Albacete	np$np-top-m-sg	cat	Albacete	np-top-m-sg
+	fra	Alcalá	np$np-top-m-sg	cat	Alcalá	np-top-m-sg
 	fra	Alexandrie	np$np-top-f-sg	cat	Alexandria	np$np-top$np-top-f$np-top-f-sg
 	fra	Almería	np$np-top-f-sg	cat	Almería	np-top-f-sg
 	fra	Amsterdam	np$np-top-m-sg	cat	Amsterdam	np-top-m-sg$np-top-m
@@ -15597,7 +15597,7 @@ LR	fra	Cornouailles	np-top-f-pl	cat	Cornualla	np-top-f-sg$np$np-top
 	fra	Gibraltar	np$np-top$np-top-m$np-top-m-sg	cat	Gibraltar	np-top-m-sg$np-top-m
 	fra	Gijón	np-top-m-sg	cat	Gijón	np-top-m-sg
 	fra	Hongkong	np$np-top-m-sg	cat	Hong Kong	np-top-m-sg
-	fra	Hospitalet	np-top-m-sg	cat	Hospitalet	np-top-m-sg
+	fra	Hospitalet	np$np-top-m-sg	cat	Hospitalet	np-top-m-sg
 	fra	Huelva	np$np-top-f-sg	cat	Huelva	np-top-f-sg
 	fra	Irun	np$np-top-m-sg	cat	Irun	np-top-m-sg
 	fra	Istanbul	np$np-top-m-sg$np-top	cat	Istanbul	np$np-top-m-sg$np-top-m
@@ -15621,7 +15621,7 @@ RL	fra	Montpellier	np$np-top-m-sg$np-top$np-top-m	cat	Montpellier	np-top-m-sg
 	fra	Nazareth	np$np-top-m-sg$np-top-m	cat	Natzaret	np-top-m-sg$np-top
 	fra	Népal	np$np-top-m$np-top-m-sg$np-top	cat	Nepal	np-top-m-sg
 	fra	Nigéria	np-top-m-sg$np-top-m	cat	Nigèria	np-top-f-sg$np-top-f
-	fra	Niger	np$np-top-m$np-top$np-top-m-sg	cat	Níger	np-top-m-sg$np-top
+	fra	Niger	np$np-top-m$np-top-m-sg$np-top	cat	Níger	np-top-m-sg$np-top
 	fra	Orihuela	np-top-f-sg	cat	Oriola	np-top$np-top-f$np-top-f-sg
 	fra	Oran	np$np-top-m-sg	cat	Orà	np-top-m-sg
 	fra	Oviedo	np-top-m-sg	cat	Oviedo	np-top$np-top-m-sg
@@ -15742,7 +15742,7 @@ RL	fra	un petit peu mieux	adv	cat	una micona millor	adv
 	fra	Albors	np-cog-mf-sp	cat	Albors	np-cog-mf-sp$np
 	fra	Alcala	np-cog-mf-sp	cat	Alcala	np$np-cog-mf-sp
 	fra	Alcalà	np-cog-mf-sp	cat	Alcalà	np$np-cog-mf-sp
-	fra	Alcalá	np$np-cog-mf-sp	cat	Alcalá	np$np-cog-mf-sp$
+	fra	Alcalá	np-cog-mf-sp	cat	Alcalá	np$np-cog-mf-sp$
 	fra	Alcaraz	np$np-cog-mf-sp	cat	Alcaraz	np$$np-cog-mf-sp
 	fra	Alcock	np-cog-mf-sp	cat	Alcock	np-cog-mf-sp$
 	fra	Alcott	np-cog-mf-sp	cat	Alcott	np-cog-mf-sp$
@@ -16179,7 +16179,7 @@ RL	fra	un petit peu mieux	adv	cat	una micona millor	adv
 	fra	Bonham	np-cog-mf-sp	cat	Bonham	np-cog-mf-sp$
 	fra	Bonilla	np-cog-mf-sp	cat	Bonilla	np-cog-mf-sp
 	fra	Bonner	np-cog-mf-sp	cat	Bonner	np-cog-mf-sp$
-	fra	Bono	np$np-cog-mf-sp	cat	Bono	np-cog-mf-sp
+	fra	Bono	np-cog-mf-sp	cat	Bono	np-cog-mf-sp
 	fra	Bonora	np-cog-mf-sp	cat	Bonora	np$np-cog-mf-sp
 	fra	Boquer	np-cog-mf-sp	cat	Boquer	np$np-cog-mf-sp
 	fra	Borao	np-cog-mf-sp	cat	Borao	np$np-cog-mf-sp
@@ -16472,7 +16472,7 @@ RL	fra	un petit peu mieux	adv	cat	una micona millor	adv
 	fra	Chaudhry	np-cog-mf-sp	cat	Chaudhry	np$np-cog-mf-sp
 	fra	Chesterton	np-cog-mf-sp	cat	Chesterton	np-cog-mf-sp$
 	fra	Chica	np-cog-mf-sp	cat	Chica	np-cog-mf-sp
-	fra	Chico	np-cog-mf-sp$np	cat	Chico	np-cog-mf-sp
+	fra	Chico	np-cog-mf-sp	cat	Chico	np-cog-mf-sp
 	fra	Chicote	np-cog-mf-sp	cat	Chicote	np$np-cog-mf-sp
 	fra	Childs	np-cog-mf-sp	cat	Childs	np-cog-mf-sp$
 	fra	Chileme	np-cog-mf-sp	cat	Chileme	np$np-cog-mf-sp
@@ -16514,7 +16514,7 @@ RL	fra	un petit peu mieux	adv	cat	una micona millor	adv
 	fra	Clement	np-cog-mf-sp	cat	Clement	np-cog-mf-sp$
 	fra	Clements	np-cog-mf-sp	cat	Clements	np-cog-mf-sp$
 	fra	Clifford	np-cog-mf-sp	cat	Clifford	np-cog-mf-sp$
-	fra	Climent	np$np-cog-mf-sp	cat	Climent	np-cog-mf-sp
+	fra	Climent	np-cog-mf-sp	cat	Climent	np-cog-mf-sp
 	fra	Coates	np-cog-mf-sp	cat	Coates	np-cog-mf-sp$
 	fra	Cocteau	np-cog-mf-sp	cat	Cocteau	np-cog-mf-sp$
 	fra	Cohen	np-cog-mf-sp$np	cat	Cohen	np$np-cog-mf-sp$
@@ -16874,7 +16874,7 @@ LR	fra	Aménophis	np-ant-m-sg	cat	Amenofis	np-ant-m-sg
 	fra	Esteves	np-cog-mf-sp	cat	Esteves	np$np-cog-mf-sp
 	fra	Estilicó	np-cog-mf-sp	cat	Estilicó	np-cog-mf-sp$
 	fra	Estivill	np-cog-mf-sp	cat	Estivill	np$np-cog-mf-sp
-	fra	Estrada	np$np-cog-mf-sp	cat	Estrada	np-cog-mf-sp
+	fra	Estrada	np-cog-mf-sp	cat	Estrada	np-cog-mf-sp
 	fra	Estruch	np-cog-mf-sp	cat	Estruch	np$np-cog-mf-sp
 	fra	Estuard	np-cog-mf-sp	cat	Estuard	np-cog-mf-sp$np
 	fra	Eto'o	np-cog-mf-sp	cat	Eto'o	np$np-cog-mf-sp
@@ -17236,7 +17236,7 @@ RL	fra	Kadhafi	np-cog-mf-sp$np	cat	Gaddafi	np-cog-mf-sp$
 	fra	Hargreaves	np-cog-mf-sp	cat	Hargreaves	np-cog-mf-sp$
 	fra	Harrington	np-cog-mf-sp	cat	Harrington	np-cog-mf-sp$
 	fra	Harris	np-cog-mf-sp	cat	Harris	np$np-cog-mf-sp$
-	fra	Harrison	np-cog-mf-sp$np	cat	Harrison	np-cog-mf-sp
+	fra	Harrison	np-cog-mf-sp	cat	Harrison	np-cog-mf-sp
 	fra	Hartley	np-cog-mf-sp	cat	Hartley	np-cog-mf-sp$
 	fra	Harvey	np-cog-mf-sp	cat	Harvey	np-cog-mf-sp
 	fra	Harwood	np-cog-mf-sp	cat	Harwood	np-cog-mf-sp$
@@ -17333,7 +17333,7 @@ RL	fra	Kadhafi	np-cog-mf-sp$np	cat	Gaddafi	np-cog-mf-sp$
 	fra	Horton	np-cog-mf-sp	cat	Horton	np-cog-mf-sp$
 	fra	Hough	np-cog-mf-sp	cat	Hough	np-cog-mf-sp$
 	fra	Houghton	np-cog-mf-sp	cat	Houghton	np-cog-mf-sp$
-	fra	Houston	np$np-cog-mf-sp	cat	Houston	np-cog-mf-sp
+	fra	Houston	np-cog-mf-sp	cat	Houston	np-cog-mf-sp
 	fra	Howard	np$np-cog-mf-sp	cat	Howard	np-cog-mf-sp
 	fra	Howarth	np-cog-mf-sp	cat	Howarth	np-cog-mf-sp$
 	fra	Howe	np-cog-mf-sp	cat	Howe	np-cog-mf-sp$
@@ -17409,7 +17409,7 @@ RL	fra	Kadhafi	np-cog-mf-sp$np	cat	Gaddafi	np-cog-mf-sp$
 	fra	Jensen	np-cog-mf-sp	cat	Jensen	np$np-cog-mf-sp$
 	fra	Jinping	np-cog-mf-sp	cat	Jinping	np-cog-mf-sp$
 	fra	Joanchiquet	np-cog-mf-sp	cat	Joanchiquet	np$np-cog-mf-sp
-	fra	Joaquin	np$np-cog-mf-sp	cat	Joaquin	np-cog-mf-sp
+	fra	Joaquin	np-cog-mf-sp	cat	Joaquin	np-cog-mf-sp
 	fra	Jobs	np-cog-mf-sp$np	cat	Jobs	np$np-cog-mf-sp$
 	fra	Johansson	np-cog-mf-sp$np	cat	Johansson	np$np-cog-mf-sp$
 	fra	Johns	np-cog-mf-sp	cat	Johns	np-cog-mf-sp$
@@ -17659,7 +17659,7 @@ RL	fra	Kadhafi	np-cog-mf-sp$np	cat	Gaddafi	np-cog-mf-sp$
 	fra	Macintosh	np-cog-mf-sp	cat	Macintosh	np-cog-mf-sp
 	fra	Maciá	np-cog-mf-sp	cat	Maciá	np$np-cog-mf-sp
 	fra	Mackay	np-cog-mf-sp	cat	Mackay	np-cog-mf-sp$
-	fra	Mackenzie	np$np-cog-mf-sp	cat	Mackenzie	np-cog-mf-sp$
+	fra	Mackenzie	np-cog-mf-sp	cat	Mackenzie	np-cog-mf-sp$
 	fra	Macleod	np-cog-mf-sp	cat	Macleod	np-cog-mf-sp$
 	fra	Madaria	np-cog-mf-sp	cat	Madaria	np$np-cog-mf-sp
 	fra	Madariaga	np-cog-mf-sp	cat	Madariaga	np$np-cog-mf-sp
@@ -18304,7 +18304,7 @@ RL	fra	Kadhafi	np-cog-mf-sp$np	cat	Gaddafi	np-cog-mf-sp$
 	fra	Puchol	np-cog-mf-sp	cat	Puchol	np$np-cog-mf-sp
 	fra	Puente	np-cog-mf-sp	cat	Puente	np$np-cog-mf-sp$
 	fra	Pueo	np-cog-mf-sp	cat	Pueo	np$np-cog-mf-sp
-	fra	Puig	np$np-cog-mf-sp	cat	Puig	np-cog-mf-sp
+	fra	Puig	np-cog-mf-sp	cat	Puig	np-cog-mf-sp
 	fra	Puigcercós	np-cog-mf-sp	cat	Puigcercós	np$np-cog-mf-sp
 	fra	Puigvert	np-cog-mf-sp	cat	Puigvert	np$np-cog-mf-sp
 	fra	Pouchkine	np-cog-mf-sp	cat	Puixkin	np-cog-mf-sp$
@@ -18403,7 +18403,7 @@ RL	fra	Kadhafi	np-cog-mf-sp$np	cat	Gaddafi	np-cog-mf-sp$
 	fra	Riberaygua	np-cog-mf-sp	cat	Riberaygua	np-cog-mf-sp$np
 	fra	Ribó	np-cog-mf-sp	cat	Ribó	np$np-cog-mf-sp
 	fra	Ricci	np-cog-mf-sp	cat	Ricci	np$np-cog-mf-sp$
-	fra	Rice	np$np-cog-mf-sp	cat	Rice	np$np-cog-mf-sp$
+	fra	Rice	np-cog-mf-sp	cat	Rice	np$np-cog-mf-sp$
 	fra	Rich	np-cog-mf-sp	cat	Rich	np-cog-mf-sp$
 	fra	Richards	np-cog-mf-sp	cat	Richards	np$np-cog-mf-sp$
 	fra	Richardson	np-cog-mf-sp$np	cat	Richardson	np$np-cog-mf-sp$
@@ -19228,7 +19228,7 @@ LR	fra	Virgili	np-cog-mf-sp	cat	Virgili	np$np-cog-mf-sp$
 	fra	Ángeles	np-cog-mf-sp	cat	Ángeles	np$np-cog-mf-sp
 	fra	Çelebi	np-cog-mf-sp	cat	Çelebi	np-cog-mf-sp$
 	fra	Aaron	np$np-ant$np-ant-m-sg	cat	Aaron	np$np-ant-m-sg$$np-ant
-	fra	Abdel	np$np-ant$np-ant-m-sg	cat	Abdel	np-ant-m-sg$np
+	fra	Abdel	np-ant-m-sg$np$np-ant	cat	Abdel	np-ant-m-sg$np
 	fra	Abdul	np$np-ant$np-ant-m-sg	cat	Abdul	np-ant-m-sg$np
 	fra	Abdullah	np$np-ant-m-sg$np-ant	cat	Abdullah	np-ant-m-sg$np$np-ant
 	fra	Abelardo	np-ant-m-sg	cat	Abelardo	np-ant-m-sg$np
@@ -19244,7 +19244,7 @@ LR	fra	Virgili	np-cog-mf-sp	cat	Virgili	np$np-cog-mf-sp$
 	fra	Aletea	np-ant-m-sg	cat	Aletea	np$np-ant-m-sg
 	fra	Alex	np$np-ant$np-ant-m-sg	cat	Alex	np$np-ant-m-sg$$np-ant
 	fra	Alexis	np$np-ant$np-ant-m-sg	cat	Alexis	np$np-ant-m-sg$$np-ant
-	fra	Alfons	np$np-ant$np-ant-m-sg	cat	Alfons	np-ant-m-sg$np-ant$np
+	fra	Alfons	np$np-ant-m-sg$np-ant	cat	Alfons	np-ant-m-sg$np-ant$np
 	fra	Alphonse	np-ant-m-sg$np$np-ant	cat	Alfons	np-ant-m-sg$np-ant$np
 	fra	Alphonse le Batailleur	np-ant-m-sg	cat	Alfons el Bataller	np-ant-m-sg
 	fra	Alphonse	np-ant-m-sg$np$np-ant	cat	Alphonse	np-ant-m-sg
@@ -19278,7 +19278,7 @@ RL	fra	Patrocle	np-ant-m-sg	cat	Patrocle	np-ant-m-sg
 	fra	Aristippe	np-ant-m-sg	cat	Aristip	np-ant-m-sg$np
 	fra	Aritz	np$np-ant-m-sg	cat	Aritz	np-ant-m-sg$$np$np-ant
 	fra	Arjen	np-ant-m-sg	cat	Arjen	np$np-ant-m-sg
-	fra	Armando	np$np-ant-m-sg$np-ant	cat	Armando	np-ant-m-sg$np
+	fra	Armando	np-ant-m-sg$np$np-ant	cat	Armando	np-ant-m-sg$np
 	fra	Armengol	np-ant-m-sg	cat	Armengol	np$np-ant-m-sg$
 	fra	Arnald	np-ant-m-sg	cat	Arnald	np$np-ant-m-sg
 	fra	Arnaldo	np$np-ant$np-ant-m-sg	cat	Arnaldo	np$np-ant-m-sg
@@ -19310,7 +19310,7 @@ RL	fra	Aristippe	np-ant-m-sg	cat	Arístip	np-ant-m-sg$np
 	fra	Boabdil	np-ant-m-sg	cat	Boabdil	np-ant-m-sg$np
 	fra	Bojan	np-ant-m-sg	cat	Bojan	np$np-ant-m-sg
 	fra	Bonaventura	np-ant-m-sg	cat	Bonaventura	np-ant-m-sg$np-ant
-	fra	Bono	np-ant-m-sg$np-ant	cat	Bono	np$np-ant-m-sg
+	fra	Bono	np-ant-m-sg$np$np-ant	cat	Bono	np$np-ant-m-sg
 	fra	Brad	np$np-ant-m-sg$np-ant	cat	Brad	np$np-ant-m-sg
 	fra	Brauli	np-ant-m-sg	cat	Brauli	np$np-ant-m-sg
 	fra	Bruce	np$np-ant-m-sg$np-ant	cat	Bruce	np$np-ant-m-sg$
@@ -19334,13 +19334,13 @@ RL	fra	Aristippe	np-ant-m-sg	cat	Arístip	np-ant-m-sg$np
 	fra	Chandler	np-ant-m-sg	cat	Chandler	np-ant-m-sg$np$
 	fra	Charlie	np$np-ant$np-ant-m-sg	cat	Charlie	np$np-ant-m-sg
 	fra	Che	np$np-ant-m-sg$np-ant	cat	Che	np-ant-m-sg$np$np-ant
-	fra	Chico	np-ant-m-sg	cat	Chico	np-ant-m-sg$np
+	fra	Chico	np-ant-m-sg$np	cat	Chico	np-ant-m-sg$np
 	fra	Chucho	np-ant-m-sg	cat	Chucho	np-ant-m-sg$np
 	fra	Cicéron	np$np-ant-m-sg$np-ant$np-ant-m	cat	Ciceró	np$np-ant$np-ant-m-sg$
 	fra	Cinto	np-ant-m-sg	cat	Cinto	np$np-ant-m-sg
 	fra	Cipriano	np-ant-m-sg	cat	Cipriano	np-ant-m-sg$np
 	fra	Claus	np-ant-m-sg	cat	Claus	np-ant-m-sg$np
-	fra	Climent	np-ant-m-sg	cat	Climent	np-ant-m-sg$np$np-ant$
+	fra	Climent	np-ant-m-sg$np	cat	Climent	np-ant-m-sg$np$np-ant$
 	fra	Cocoliso	np-ant-m-sg	cat	Cocoliso	np$np-ant-m-sg
 	fra	Compay Segundo	np-ant-m-sg	cat	Compay Segundo	np-ant-m-sg$np
 	fra	Conner	np-ant-m-sg	cat	Conner	np-ant-m-sg$np
@@ -19363,7 +19363,7 @@ RL	fra	Aristippe	np-ant-m-sg	cat	Arístip	np-ant-m-sg$np
 	fra	Deco	np-ant-m-sg	cat	Deco	np$np-ant-m-sg
 	fra	Démocrite	np$np-ant$np-ant-m-sg	cat	Demòcrit	np-ant-m-sg$np
 	fra	Dioclétien	np$np-ant-m-sg	cat	Dioclecià	np-ant-m-sg
-	fra	Dennis	np$np-ant$np-ant-m-sg	cat	Dennis	np$np-ant-m-sg$np-ant$
+	fra	Dennis	np$np-ant-m-sg$np-ant	cat	Dennis	np$np-ant-m-sg$np-ant$
 	fra	Dexter	np-ant-m-sg	cat	Dexter	np$np-ant-m-sg$np-ant
 	fra	Dino	np-ant-m-sg	cat	Dino	np-ant-m-sg$np
 	fra	Dionisio	np-ant-m-sg	cat	Dionisio	np-ant-m-sg$np
@@ -19372,7 +19372,7 @@ RL	fra	Aristippe	np-ant-m-sg	cat	Arístip	np-ant-m-sg$np
 	fra	Domingo	np-ant-m-sg	cat	Domingo	np-ant-m-sg$np$$np-ant
 	fra	Domènec	np-ant-m-sg	cat	Domènec	np$np-ant-m-sg
 	fra	Donald	np$np-ant-m-sg$np-ant	cat	Donald	np$np-ant-m-sg$
-	fra	Donatello	np$np-ant-m-sg$np-ant	cat	Donatello	np-ant-m-sg$np$np-ant
+	fra	Donatello	np-ant-m-sg$np$np-ant	cat	Donatello	np-ant-m-sg$np$np-ant
 	fra	Doraemon	np-ant-m-sg	cat	Doraemon	np$np-ant-m-sg
 	fra	Doraemón	np-ant-m-sg	cat	Doraemón	np$np-ant-m-sg
 	fra	Douglas	np-ant-m-sg$np-ant	cat	Douglas	np$np-ant-m-sg$$np-ant
@@ -19451,7 +19451,7 @@ LR	fra	Philippe	np-ant-m-sg$np$np-ant	cat	Filip	np-ant-m-sg$$np$np-ant
 	fra	Gianfranco	np-ant-m-sg	cat	Gianfranco	np-ant-m-sg$np
 	fra	Gibernau	np$np-ant-m-sg	cat	Gibernau	np$np-ant-m-sg
 	fra	Gila	np-ant-m-sg	cat	Gila	np$np-ant-m-sg
-	fra	Gilberto	np$np-ant-m-sg$np-ant	cat	Gilberto	np$np-ant-m-sg
+	fra	Gilberto	np-ant-m-sg$np$np-ant	cat	Gilberto	np$np-ant-m-sg
 	fra	Giles	np-ant-m-sg	cat	Giles	np$np-ant-m-sg$
 	fra	Giorgio	np$np-ant$np-ant-m-sg	cat	Giorgio	np$np-ant-m-sg
 	fra	Giovani	np-ant-m-sg	cat	Giovani	np$np-ant-m-sg
@@ -19500,9 +19500,9 @@ LR	fra	Philippe	np-ant-m-sg$np$np-ant	cat	Filip	np-ant-m-sg$$np$np-ant
 	fra	Salerne	np$np-top-f-sg	cat	Salern	np-top-m-sg
 	fra	Samarkand	np$np-top-m-sg	cat	Samarcanda	np-top-f-sg
 	fra	Günter	np$np-ant-m-sg	cat	Günter	np$np-ant-m-sg
-	fra	Hamid	np$np-ant-m-sg	cat	Hamid	np$np-ant-m-sg$np-ant
+	fra	Hamid	np-ant-m-sg$np	cat	Hamid	np$np-ant-m-sg$np-ant
 	fra	Harold	np-ant-m-sg$np	cat	Harold	np$np-ant-m-sg
-	fra	Harrison	np-ant-m-sg	cat	Harrison	np$np-ant-m-sg$
+	fra	Harrison	np-ant-m-sg$np	cat	Harrison	np$np-ant-m-sg$
 	fra	Harvey	np-ant-m-sg	cat	Harvey	np$np-ant-m-sg$
 	fra	Hayden	np-ant-m-sg	cat	Hayden	np$np-ant-m-sg
 	fra	Helder	np-ant-m-sg	cat	Helder	np$np-ant-m-sg
@@ -19515,7 +19515,7 @@ LR	fra	Philippe	np-ant-m-sg$np$np-ant	cat	Filip	np-ant-m-sg$$np$np-ant
 	fra	Zeus	np$np-ant-m-sg	cat	Zeus	np-ant-m-sg$np
 	fra	Homer Simpson	np-ant-m-sg	cat	Homer Simpson	np$np-ant-m-sg
 	fra	Horus	np-ant-m-sg	cat	Horus	np$np-ant-m-sg
-	fra	Houston	np-ant-m-sg$np-ant	cat	Houston	np$np-ant-m-sg$np-ant
+	fra	Houston	np-ant-m-sg$np$np-ant	cat	Houston	np$np-ant-m-sg$np-ant
 	fra	Howard	np-ant-m-sg$np-ant	cat	Howard	np$np-ant-m-sg$$np-ant
 	fra	Hugh	np-ant-m-sg	cat	Hugh	np$np-ant-m-sg
 	fra	Humphrey	np-ant-m-sg	cat	Humphrey	np$np-ant-m-sg$
@@ -19527,9 +19527,9 @@ LR	fra	Philippe	np-ant-m-sg$np$np-ant	cat	Filip	np-ant-m-sg$$np$np-ant
 	fra	Iker	np$np-ant-m-sg	cat	Iker	np-ant$np-ant-m-sg$np$
 	fra	Ildefons	np-ant-m-sg	cat	Ildefons	np-ant$np-ant-m-sg
 	fra	Ingham	np-ant-m-sg	cat	Ingham	np$np-ant-m-sg
-	fra	Ingmar	np$np-ant-m-sg	cat	Ingmar	np$np-ant-m-sg
+	fra	Ingmar	np-ant-m-sg$np	cat	Ingmar	np$np-ant-m-sg
 	fra	Isidre	np-ant-m-sg	cat	Isidre	np$np-ant-m-sg
-	fra	Ismael	np$np-ant-m-sg$np-ant	cat	Ismael	np$np-ant-m-sg$$np-ant
+	fra	Ismael	np-ant-m-sg$np$np-ant	cat	Ismael	np$np-ant-m-sg$$np-ant
 	fra	Israel	np-ant-m-sg	cat	Israel	np$np-ant-m-sg$np-ant
 	fra	Ivo	np-ant-m-sg	cat	Ivo	np$np-ant-m-sg
 	fra	Ivón	np-ant-m-sg	cat	Ivón	np$np-ant-m-sg
@@ -19558,7 +19558,7 @@ RL	fra	Yasser	np-ant-m-sg$np	cat	Yasser	np-ant-m-sg$$np-ant
 	fra	Jimmy	np$np-ant-m-sg$np-ant	cat	Jimmy	np$np-ant-m-sg
 	fra	Joan Lluís Vives	np-ant-m-sg	cat	Joan Lluís Vives	np$np-ant-m-sg
 	fra	Joanot	np-ant-m-sg	cat	Joanot	np-ant-m-sg$np
-	fra	Joaquin	np-ant-m-sg$np-ant	cat	Joaquin	np-ant-m-sg$np
+	fra	Joaquin	np-ant-m-sg$np$np-ant	cat	Joaquin	np-ant-m-sg$np
 	fra	Johan	np-ant-m-sg	cat	Johan	np$np-ant-m-sg$np-ant
 	fra	Jordan	np$np-ant$np-ant-m-sg	cat	Jordan	np-ant-m-sg$np$$np-ant
 	fra	Josema	np-ant-m-sg	cat	Josema	np$np-ant-m-sg
@@ -19604,11 +19604,11 @@ RL	fra	Yasser	np-ant-m-sg$np	cat	Yasser	np-ant-m-sg$$np-ant
 	fra	Leonardo da Vinci	np-ant-m-sg	cat	Leonardo da Vinci	np-ant-m-sg$np$np-ant
 LR	fra	Léonard de Vinci	np$np-ant$np-ant-m-sg	cat	Leonardo da Vinci	np-ant-m-sg$np$np-ant
 	fra	Leoncio	np-ant-m-sg	cat	Leoncio	np-ant-m-sg$np
-	fra	Leopoldo	np$np-ant-m-sg$np-ant	cat	Leopoldo	np-ant-m-sg$np
+	fra	Leopoldo	np-ant-m-sg$np$np-ant	cat	Leopoldo	np-ant-m-sg$np
 	fra	Leslie	np-ant-m-sg	cat	Leslie	np-ant-m-sg
 	fra	Leucip	np-ant-m-sg	cat	Leucip	np-ant-m-sg$np
 	fra	Lewis	np-ant-m-sg$np-ant	cat	Lewis	np$np-ant-m-sg$$np-ant
-	fra	León	np$np-ant$np-ant-m-sg	cat	León	np-ant-m-sg$$np-ant
+	fra	León	np$np-ant-m-sg$np-ant	cat	León	np-ant-m-sg$$np-ant
 	fra	Lincoln	np-ant-m-sg	cat	Lincoln	np-ant-m-sg$np$np-ant
 	fra	Lindo	np-ant-m-sg	cat	Lindo	np$np-ant-m-sg
 	fra	Lisip	np-ant-m-sg	cat	Lisip	np$np-ant-m-sg
@@ -19622,7 +19622,7 @@ LR	fra	Léonard de Vinci	np$np-ant$np-ant-m-sg	cat	Leonardo da Vinci	np-ant-m-sg
 	fra	Lucià	np-ant-m-sg	cat	Lucià	np$np-ant-m-sg
 	fra	Lucreci	np-ant-m-sg	cat	Lucreci	np-ant-m-sg$$np$np-ant
 	fra	Luigi	np-ant-m-sg	cat	Luigi	np$np-ant-m-sg
-	fra	Luiz	np$np-ant-m-sg	cat	Luiz	np$np-ant-m-sg
+	fra	Luiz	np-ant-m-sg$np	cat	Luiz	np$np-ant-m-sg
 	fra	Lukas	np-ant-m-sg	cat	Lukas	np-ant-m-sg$np$$np-ant
 	fra	Luke	np-ant-m-sg	cat	Luke	np$np-ant-m-sg
 	fra	Luz	np-ant-m-sg	cat	Luz	np$np-ant$np-ant-m-sg
@@ -19637,7 +19637,7 @@ LR	fra	Léonard de Vinci	np$np-ant$np-ant-m-sg	cat	Leonardo da Vinci	np-ant-m-sg
 	fra	Marcos	np-ant-m-sg	cat	Marcos	np$np-ant-m-sg$$np-ant
 	fra	Marià	np-ant-m-sg	cat	Marià	np$np-ant-m-sg$np-ant
 	fra	Mark	np$np-ant$np-ant-m-sg	cat	Mark	np$np-ant-m-sg$np-ant$
-	fra	Markus	np$np-ant$np-ant-m-sg	cat	Markus	np$np-ant-m-sg$np-ant
+	fra	Markus	np-ant-m-sg$np$np-ant	cat	Markus	np$np-ant-m-sg$np-ant
 	fra	Marshall	np-ant-m-sg$np-ant	cat	Marshall	np$np-ant-m-sg$
 	fra	Mateu	np-ant-m-sg	cat	Mateu	$np-ant$np-ant-m-sg$np
 	fra	Mathieu	np-ant-m-sg$np$np-ant	cat	Mathieu	np-ant-m-sg$np
@@ -19770,8 +19770,8 @@ RL	fra	Titi	np-ant-m-sg	cat	Piolín	np$np-ant-m-sg
 	fra	Reynold	np-ant-m-sg	cat	Reynold	np$np-ant-m-sg
 	fra	Rhys	np-ant-m-sg	cat	Rhys	np-ant-m-sg$np
 	fra	Ric	np-ant-m-sg	cat	Ric	np-ant-m-sg$np
-	fra	Rice	np-ant-m-sg	cat	Rice	np-ant-m-sg
-	fra	Rick	np$np-ant-m-sg$np-ant	cat	Rick	np-ant-m-sg$np
+	fra	Rice	np-ant-m-sg$np	cat	Rice	np-ant-m-sg
+	fra	Rick	np-ant-m-sg$np$np-ant	cat	Rick	np-ant-m-sg$np
 	fra	Rico	np-ant-m-sg	cat	Rico	np-ant-m-sg$$np
 	fra	Ridley	np-ant-m-sg	cat	Ridley	np$np-ant-m-sg$
 	fra	Rigobert	np-ant-m-sg	cat	Rigobert	np$np-ant-m-sg
@@ -19783,7 +19783,7 @@ RL	fra	Titi	np-ant-m-sg	cat	Piolín	np$np-ant-m-sg
 	fra	Roch	np-ant-m-sg	cat	Roch	np-ant-m-sg$np
 	fra	Roderic	np-ant-m-sg	cat	Roderic	np$np-ant-m-sg
 	fra	Rodolf	np-ant-m-sg	cat	Rodolf	np$np-ant-m-sg
-	fra	Rodolfo	np$np-ant-m-sg$np-ant	cat	Rodolfo	np-ant-m-sg$np
+	fra	Rodolfo	np-ant-m-sg$np$np-ant	cat	Rodolfo	np-ant-m-sg$np
 	fra	Romain	np-ant-m-sg	cat	Romain	np$np-ant-m-sg
 	fra	Roman	np-ant-m-sg$np-ant	cat	Roman	np-ant-m-sg$$np$np-ant
 	fra	Romano	np-ant-m-sg$np-ant	cat	Romano	np-ant-m-sg$np
@@ -19861,7 +19861,7 @@ RL	fra	Titi	np-ant-m-sg	cat	Piolín	np$np-ant-m-sg
 	fra	Ulysse	np-ant$np-ant-m-sg$np	cat	Ulisses	np$np-ant-m-sg
 	fra	Ulrich	np-ant-m-sg	cat	Ulrich	np-ant-m-sg
 	fra	Valentine	np-ant-m-sg	cat	Valentine	np-ant-m-sg$np-ant
-	fra	Valentino	np$np-ant-m-sg$np-ant	cat	Valentino	np$np-ant-m-sg$np-ant
+	fra	Valentino	np-ant-m-sg$np$np-ant	cat	Valentino	np$np-ant-m-sg$np-ant
 	fra	Valeriano	np-ant-m-sg	cat	Valeriano	np-ant-m-sg$np
 	fra	Ventura	np-ant-m-sg	cat	Ventura	np-ant-m-sg$np$
 	fra	Vicenteta	np-ant-m-sg	cat	Vicenteta	np-ant-m-sg$np
@@ -19878,9 +19878,9 @@ RL	fra	Titi	np-ant-m-sg	cat	Piolín	np$np-ant-m-sg
 	fra	Wifredo	np-ant-m-sg	cat	Wifredo	np-ant-m-sg$np
 	fra	Wilson	np-ant-m-sg$np-ant	cat	Wilson	np$np-ant-m-sg$$np-ant
 	fra	Wolfgang	np$np-ant-m-sg	cat	Wolfgang	np$np-ant-m-sg
-	fra	Woody	np$np-ant-m-sg	cat	Woody	np$np-ant-m-sg$np-ant
+	fra	Woody	np-ant-m-sg$np	cat	Woody	np$np-ant-m-sg$np-ant
 	fra	Woody Allen	np-ant-m-sg	cat	Woody Allen	np-ant$np-ant-m-sg
-	fra	Xabi	np$np-ant-m-sg	cat	Xabi	np$np-ant-m-sg
+	fra	Xabi	np-ant-m-sg$np	cat	Xabi	np$np-ant-m-sg
 	fra	Xabier	np$np-ant$np-ant-m-sg	cat	Xabier	np-ant-m-sg$np$np-ant
 	fra	Xavi	np-ant-m-sg	cat	Xavi	np$np-ant$np-ant-m-sg$
 	fra	Xesco	np-ant-m-sg	cat	Xesco	np$np-ant-m-sg
@@ -19912,7 +19912,7 @@ RL	fra	don Quichotte de la Manche	np-ant-m-sg	cat	el Quixot	np$np-ant-m-sg
 	fra	Agnes	np-ant-f-sg	cat	Agnes	np$np-ant-f-sg
 	fra	Agnès	np$np-ant-f-sg$np-ant	cat	Agnès	np$np-ant-f-sg$np-ant
 	fra	Agurtzane	np$np-ant-f-sg	cat	Agurtzane	np$np-ant-f-sg
-	fra	Aida	np$np-ant-f-sg$np-ant	cat	Aida	np-ant-f-sg$np$np-ant$
+	fra	Aida	np-ant-f-sg$np$np-ant	cat	Aida	np-ant-f-sg$np$np-ant$
 	fra	Aina	np-ant-f-sg	cat	Aina	np$np-ant-f-sg$np-ant
 	fra	Ainara	np$np-ant$np-ant-f-sg	cat	Ainara	np$np-ant-f-sg$np-ant
 	fra	Ainhoa	np$np-ant-f-sg	cat	Ainhoa	np$np-ant-f-sg$np-ant
@@ -19928,7 +19928,7 @@ RL	fra	don Quichotte de la Manche	np-ant-m-sg	cat	el Quixot	np$np-ant-m-sg
 	fra	Amalia	np$np-ant$np-ant-f-sg	cat	Amalia	np-ant-f-sg$np$$np-ant
 	fra	Amelia	np-ant-f-sg	cat	Amelia	np-ant-f-sg$np$$np-ant
 	fra	Amice	np-ant-f-sg	cat	Amice	np$np-ant-f-sg
-	fra	Amparo	np$np-ant-f-sg$np-ant	cat	Amparo	np-ant-f-sg$np
+	fra	Amparo	np-ant-f-sg$np$np-ant	cat	Amparo	np-ant-f-sg$np
 	fra	Amèlia	np-ant-f-sg	cat	Amèlia	np$np-ant-f-sg$np-ant
 	fra	Anabella	np-ant-f-sg	cat	Anabella	np$np-ant-f-sg
 	fra	Andy	np-ant-f-sg	cat	Andy	np-ant-f-sg
@@ -19939,12 +19939,12 @@ RL	fra	don Quichotte de la Manche	np-ant-m-sg	cat	el Quixot	np$np-ant-m-sg
 	fra	Ann	np$np-ant$np-ant-f-sg	cat	Ann	np$np-ant-f-sg
 	fra	Anna	np$np-ant$np-ant-f-sg	cat	Anna	np$np-ant-f-sg$np-ant
 	fra	Anne	np-ant-f-sg$np$np-ant	cat	Anna	np$np-ant-f-sg$np-ant
-	fra	Annabel	np$np-ant-f-sg$np-ant	cat	Annabel	np$np-ant-f-sg
+	fra	Annabel	np-ant-f-sg$np$np-ant	cat	Annabel	np$np-ant-f-sg
 	fra	Annette	np$np-ant-f-sg$np-ant	cat	Annette	np$np-ant-f-sg
 	fra	Antònia	np-ant-f-sg	cat	Antònia	np$np-ant-f-sg$np-ant
 	fra	Anza	np-ant-f-sg	cat	Anza	np$np-ant-f-sg
 	fra	Aracely	np-ant-f-sg	cat	Aracely	np-ant-f-sg$np
-	fra	Arantxa	np$np-ant-f-sg	cat	Arantxa	np$np-ant-f-sg$np-ant
+	fra	Arantxa	np-ant-f-sg$np	cat	Arantxa	np$np-ant-f-sg$np-ant
 	fra	Arantza	np$np-ant-f-sg	cat	Arantza	np$np-ant-f-sg
 	fra	Arantzazu	np-ant-f-sg	cat	Arantzazu	np$np-ant-f-sg
 	fra	Aranzazu	np$np-ant-f-sg	cat	Aranzazu	np$np-ant-f-sg
@@ -20005,9 +20005,9 @@ RL	fra	petit Chaperon	np-ant-m-sg	cat	Caputxeta Vermella	np-ant-f-sg
 	fra	Concepció	np-ant-f-sg	cat	Concepció	np-ant-f-sg$np
 	fra	Concepción	np-ant-f-sg	cat	Concepción	np-ant-f-sg$np
 	fra	Concha	np-ant-f-sg	cat	Concha	np$np-ant-f-sg
-	fra	Condoleezza	np$np-ant-f-sg$np-ant	cat	Condoleezza	np$np-ant-f-sg$np-ant
+	fra	Condoleezza	np-ant-f-sg$np$np-ant	cat	Condoleezza	np$np-ant-f-sg$np-ant
 	fra	Constance	np$np-ant$np-ant-f-sg	cat	Constance	np$np-ant-f-sg
-	fra	Consuelo	np$np-ant$np-ant-f-sg	cat	Consuelo	np-ant-f-sg$np
+	fra	Consuelo	np$np-ant-f-sg$np-ant	cat	Consuelo	np-ant-f-sg$np
 	fra	Crestian	np-ant-f-sg	cat	Crestian	np$np-ant-f-sg
 	fra	Cèlia	np-ant-f-sg	cat	Cèlia	np$np-ant-f-sg$np-ant
 	fra	Cécilia	np$np-ant$np-ant-f-sg	cat	Cécilia	np-ant-f-sg$np
@@ -20048,7 +20048,7 @@ RL	fra	petit Chaperon	np-ant-m-sg	cat	Caputxeta Vermella	np-ant-f-sg
 	fra	Eulogia	np-ant-f-sg	cat	Eulogia	np$np-ant-f-sg
 	fra	Eulàlia	np-ant-f-sg	cat	Eulàlia	np-ant$np-ant-f-sg$np
 	fra	Evelyn	np-ant-f-sg	cat	Evelyn	np$np-ant-f-sg$np-ant
-	fra	Fabiola	np$np-ant$np-ant-f-sg	cat	Fabiola	np-ant-f-sg$np
+	fra	Fabiola	np$np-ant-f-sg$np-ant	cat	Fabiola	np-ant-f-sg$np
 	fra	Feliciana	np-ant-f-sg	cat	Feliciana	np-ant-f-sg$np
 	fra	Fermina	np-ant-f-sg	cat	Fermina	np-ant-f-sg$np
 	fra	Florens	np-ant-f-sg	cat	Florens	np$np-ant-f-sg
@@ -20107,7 +20107,7 @@ RL	fra	petit Chaperon	np-ant-m-sg	cat	Caputxeta Vermella	np-ant-f-sg
 	fra	Karmele	np-ant-f-sg	cat	Karmele	np-ant-f-sg$np
 	fra	Kate	np$np-ant-f-sg$np-ant	cat	Kate	np$np-ant-f-sg
 	fra	Katherine	np-ant-f-sg	cat	Katherine	np$np-ant-f-sg$np-ant
-	fra	Katrina	np$np-ant$np-ant-f-sg	cat	Katrina	np$np-ant-f-sg
+	fra	Katrina	np$np-ant-f-sg$np-ant	cat	Katrina	np$np-ant-f-sg
 	fra	Kelly	np-ant-f-sg	cat	Kelly	np-ant-f-sg
 	fra	Kerry	np-ant-f-sg	cat	Kerry	np-ant-f-sg
 	fra	Kristina	np-ant-f-sg$np-ant	cat	Kristina	np-ant-f-sg$np
@@ -20120,7 +20120,7 @@ RL	fra	petit Chaperon	np-ant-m-sg	cat	Caputxeta Vermella	np-ant-f-sg
 	fra	Letizia	np-ant-f-sg	cat	Letizia	np-ant-f-sg$np
 	fra	Letícia	np-ant-f-sg	cat	Letícia	np$np-ant-f-sg$np-ant
 	fra	Lidia	np-ant-f-sg	cat	Lidia	np-ant-f-sg$np$np-ant$
-	fra	Lina	np$np-ant$np-ant-f-sg	cat	Lina	np-ant-f-sg$np$np-ant
+	fra	Lina	np-ant-f-sg$np$np-ant	cat	Lina	np-ant-f-sg$np$np-ant
 	fra	Linda	np$np-ant-f-sg$np-ant	cat	Linda	np-ant-f-sg$np$np-ant
 	fra	Lisa	np$np-ant$np-ant-f-sg	cat	Lisa	np-ant-f-sg$np$np-ant
 	fra	Lluïsa	np-ant-f-sg	cat	Lluïsa	np$np-ant-f-sg
@@ -20136,7 +20136,7 @@ RL	fra	petit Chaperon	np-ant-m-sg	cat	Caputxeta Vermella	np-ant-f-sg
 	fra	Madison	np-ant-f-sg	cat	Madison	np-ant-f-sg$np
 	fra	Madonna	np$np-ant-f-sg$np-ant	cat	Madonna	np-ant-f-sg$np$np-ant
 	fra	Mafalda	np-ant-f-sg	cat	Mafalda	np-ant-f-sg$np$np-ant
-	fra	Maggie	np$np-ant-f-sg$np-ant	cat	Maggie	np$np-ant-f-sg
+	fra	Maggie	np-ant-f-sg$np$np-ant	cat	Maggie	np$np-ant-f-sg
 	fra	Mairena	np-ant-f-sg	cat	Mairena	np-ant-f-sg$np
 	fra	Maiza	np$np-ant-f-sg	cat	Maiza	np$np-ant-f-sg
 	fra	Malin	np-ant-f-sg	cat	Malin	np$np-ant-f-sg
@@ -20148,7 +20148,7 @@ RL	fra	petit Chaperon	np-ant-m-sg	cat	Caputxeta Vermella	np-ant-f-sg
 	fra	Margarete	np-ant-f-sg	cat	Margarete	np$np-ant-f-sg
 	fra	Margarida	np-ant-f-sg	cat	Margarida	np$np-ant-f-sg
 	fra	Margery	np-ant-f-sg	cat	Margery	np$np-ant-f-sg
-	fra	Marian	np$np-ant-f-sg$np-ant	cat	Marian	np-ant-f-sg$np$$np-ant
+	fra	Marian	np-ant-f-sg$np$np-ant	cat	Marian	np-ant-f-sg$np$$np-ant
 	fra	Marianela	np-ant-f-sg	cat	Marianela	np-ant-f-sg$np
 	fra	Mariela	np-ant-f-sg	cat	Mariela	np-ant-f-sg$np$np-ant
 	fra	Marilyn	np$np-ant-f-sg$np-ant	cat	Marilyn	np$np-ant-f-sg
@@ -20229,7 +20229,7 @@ RL	fra	petit Chaperon	np-ant-m-sg	cat	Caputxeta Vermella	np-ant-f-sg
 	fra	Saray	np-ant-f-sg	cat	Saray	np$np-ant-f-sg$np-ant
 	fra	Sarra	np-ant-f-sg	cat	Sarra	np-ant-f-sg$np
 	fra	Saura	np-ant$np-ant-f-sg	cat	Saura	np$np-ant-f-sg$
-	fra	Scarlett	np$np-ant-f-sg$np-ant	cat	Scarlett	np$np-ant-f-sg
+	fra	Scarlett	np-ant-f-sg$np$np-ant	cat	Scarlett	np$np-ant-f-sg
 	fra	Sela	np-ant-f-sg$np	cat	Sela	np$np-ant-f-sg
 	fra	Sence	np-ant-f-sg	cat	Sence	np$np-ant-f-sg
 	fra	Shakira	np-ant-f-sg	cat	Shakira	np-ant-f-sg$np$np-ant
@@ -20359,7 +20359,7 @@ RL	fra	communal	adj	cat	comunal	adj$adj-mf
 LR	fra	communal	adj	cat	municipal	adj$adj-mf$
 	fra	intercommunal	adj$adj-GD-ND$	cat	intermunicipal	adj
 	fra	communautaire	adj-mf$adj$adj-mf-ND	cat	comunitari	adj$
-	fra	comtal	adj	cat	comtal	adj$adj-mf
+	fra	comtal	$adj	cat	comtal	adj$adj-mf
 	fra	conique	adj	cat	cònic	adj$
 	fra	contrôlé	adj	cat	controlat	adj
 	fra	convexe	adj	cat	convex	adj$
@@ -20445,7 +20445,7 @@ RL	fra	gouvernant	adj	cat	governador	adj
 	fra	héréditaire	adj	cat	hereditari	adj$
 	fra	hispanique	adj$adj-mf	cat	hispànic	adj
 	fra	homogène	adj$adj-mf-ND	cat	homogeni	adj$
-	fra	homosexuel	adj$	cat	homosexual	adj$adj-mf$
+	fra	homosexuel	$adj	cat	homosexual	adj$adj-mf$
 	fra	hétérosexuel	adj$	cat	heterosexual	adj$adj-mf
 	fra	honorifique	adj-mf$adj	cat	honorífic	adj$
 	fra	humble	adj$adj-mf-ND	cat	humil	adj$adj-mf$
@@ -21107,10 +21107,10 @@ LR	fra	poudreuse	n-f	cat	tocador	n-m$n
 	fra	Éthiopie	np$np-top-f$np-top-f-sg$np-top	cat	Etiòpia	np-top-f-sg
 LR	fra	burkinais	adj	cat	burkinès	adj
 LR	fra	burkinabais	adj	cat	burkinès	adj
-	fra	burkinabé	adj-GD-ND$adj	cat	burkinès	adj
+	fra	burkinabé	adj$adj-GD-ND	cat	burkinès	adj
 LR	fra	Burkinais	n	cat	burkinès	n
 LR	fra	Burkinabais	n	cat	burkinès	n
-	fra	Burkinabé	n-m$n	cat	burkinès	n
+	fra	Burkinabé	n$n-m	cat	burkinès	n
 	fra	Burkina Faso	np-top-f$np-top-f-sg	cat	Burkina Faso	np-top-f-sg
 	fra	Burkina	np-top-m$np-top-m-sg	cat	Burkina	np-top-f-sg
 	fra	Libyen	n$n-m	cat	libi	n
@@ -21120,15 +21120,15 @@ LR	fra	Burkinabais	n	cat	burkinès	n
 	fra	Sénégalais	n$n-m-sp	cat	senegalès	n$n-m
 	fra	Sénégal	np$np-top-m$np-top-m-sg$np-top	cat	Senegal	np-top-m-sg
 	fra	Gambien	n$n-m	cat	gambià	n
-	fra	gambien	adj-GD-ND$adj	cat	gambià	adj
+	fra	gambien	adj$adj-GD-ND	cat	gambià	adj
 	fra	Gambie	np-top-f$np$np-top-f-sg$np-top	cat	Gàmbia	np-top-f-sg$np-top
 	fra	Tchadien	n$n-m	cat	txadià	n
 	fra	tchadien	adj$adj-GD-ND	cat	txadià	adj
-	fra	béninois	adj-GD-ND$adj	cat	beninès	adj
-	fra	Béninois	n-m-sp$n	cat	beninès	n
+	fra	béninois	adj$adj-GD-ND	cat	beninès	adj
+	fra	Béninois	n$n-m-sp	cat	beninès	n
 	fra	togolais	adj$adj-GD-ND	cat	togolès	adj
-	fra	Togolais	n-m-sp$n	cat	togolès	n
-	fra	Togo	np$np-top-m$np-top$np-top-m-sg	cat	Togo	np-top-m-sg$np-top
+	fra	Togolais	n$n-m-sp	cat	togolès	n
+	fra	Togo	np$np-top-m$np-top-m-sg$np-top	cat	Togo	np-top-m-sg$np-top
 	fra	ivoirien	adj	cat	ivorià	adj
 	fra	Ivoirien	n	cat	ivorià	n
 	fra	ghanéen	adj$adj-GD-ND	cat	ghanès	adj
@@ -21137,29 +21137,29 @@ LR	fra	Burkinabais	n	cat	burkinès	n
 	fra	camerounais	adj$adj-GD-ND	cat	camerunès	adj
 	fra	Camerounais	n$n-m-sp	cat	camerunès	n$n-m
 	fra	gabonais	adj$adj-GD-ND	cat	gabonès	adj
-	fra	Gabonais	n-m-sp$n	cat	gabonès	n
+	fra	Gabonais	n$n-m-sp	cat	gabonès	n
 	fra	Gabon	np$np-top-m$np-top-m-sg$np-top	cat	Gabon	np-top-m-sg$np-top
 	fra	soudanais	adj$adj-GD-ND	cat	sudanès	adj
 	fra	Soudanais	n-m-sp$n	cat	sudanès	n$n-GD
 	fra	angolais	adj$adj-m-sp	cat	angolès	adj
 	fra	Angolais	n$n-m-sp	cat	angolès	n$n-m
-	fra	Angola	np-top-m$np-top-m-sg	cat	Angola	np-top-f-sg$np-top$np-top-f
+	fra	Angola	np$np-top-m-sg$np-top$np-top-m	cat	Angola	np-top-f-sg$np-top$np-top-f
 	fra	mozambicain	adj	cat	moçambiquès	adj
 	fra	Mozambicain	n	cat	moçambiquès	n
-	fra	Mozambique	np$np-top-m$np-top$np-top-m-sg	cat	Moçambic	np-top-m-sg$np-top
+	fra	Mozambique	np$np-top-m$np-top-m-sg$np-top	cat	Moçambic	np-top-m-sg$np-top
 	fra	guinéen	adj$adj-GD-ND	cat	guineà	adj
 	fra	Guinéen	n$n-m	cat	guineà	n
-	fra	Sierra Leone	np$np-top-f$np-top$np-top-f-sg	cat	Sierra Leone	np$np-top-m-sg$np-top
-	fra	Swaziland	np-top-m$np-top-m-sg	cat	Swazilàndia	np-top-f-sg$np-top
-	fra	Tanzanie	np$np-top-f$np-top$np-top-f-sg	cat	Tanzània	np-top-f-sg
+	fra	Sierra Leone	np$np-top-f$np-top-f-sg$np-top	cat	Sierra Leone	np$np-top-m-sg$np-top
+	fra	Swaziland	np$np-top-m-sg$np-top$np-top-m	cat	Swazilàndia	np-top-f-sg$np-top
+	fra	Tanzanie	np$np-top-f$np-top-f-sg$np-top	cat	Tanzània	np-top-f-sg
 	fra	Zambie	np$np-top-f$np-top-f-sg$np-top	cat	Zàmbia	np-top-f-sg$np-top
-	fra	Namibie	np$np-top-f$np-top$np-top-f-sg	cat	Namíbia	np-top-f-sg$np-top
+	fra	Namibie	np$np-top-f$np-top-f-sg$np-top	cat	Namíbia	np-top-f-sg$np-top
 	fra	Zimbabwe	np$np-top-m-sg$np-top$np-top-m	cat	Zimbabwe	np-top-m-sg
 	fra	Vatican	np$np-top$np-top-m-sg$np-top-m	cat	Vaticà	np-top-m-sg$np
 	fra	Liechtenstein	np$np-top-m$np-top-m-sg$np-top	cat	Liechtenstein	np-top-m-sg$np-top
 	fra	Papouasie	np-top-f-sg	cat	Papua	np-top-f-sg
-	fra	Papouasie-Nouvelle-Guinée	np$np-top$np-top-f$np-top-f-sg	cat	Papua Nova Guinea	np$np-top-f-sg$np-top
-	fra	Nouvelle-Guinée	np-top-f-sg	cat	Nova Guinea	np-top-f-sg
+	fra	Papouasie-Nouvelle-Guinée	np$np-top-f-sg$np-top$np-top-f	cat	Papua Nova Guinea	np$np-top-f-sg$np-top
+	fra	Nouvelle-Guinée	np$np-top-f-sg	cat	Nova Guinea	np-top-f-sg
 	fra	Samoa	np-top-f-pl	cat	Samoa	np$np-top-f-sg$np-top
 	fra	Nouvelle-Calédonie	np$np-top-f-sg$np-top-f	cat	Nova Caledònia	np-top-f-sg$np-top
 	fra	Nouvelle-Écosse	np-top-f-sg	cat	Nova Escòcia	np-top-f-sg$np
@@ -21207,7 +21207,7 @@ RL	fra	égout	n-m	cat	clavegueram	n-m$n
 	fra	figue	n-f	cat	figa	n-f$n
 LR	fra	poire	n-f$n	cat	figa	n-f$n
 	fra	figuier	n-m$n	cat	figuera	n-f$n
-	fra	thaïlandais	adj-m-sp$adj	cat	tailandès	adj$adj-m
+	fra	thaïlandais	adj$adj-m-sp	cat	tailandès	adj$adj-m
 	fra	thaïlandais	n-m-sp$n	cat	tailandès	n$n-m
 	fra	jaune	n-m$n	cat	groc	n-m
 	fra	ronce	n-f	cat	esbarzer	n-m$n
@@ -22877,7 +22877,7 @@ RL	fra	piémont pyrénéen	n-m-sg	cat	Prepirineu	np-top-m-pl
 	fra	Corinne	np$np-ant$np-ant-f-sg	cat	Corinne	np-ant-f-sg
 	fra	Christelle	np-ant$np-ant-f-sg	cat	Christelle	np-ant-f-sg
 	fra	Maxime	np-ant-m-sg$np-ant	cat	Maxime	np-ant-m-sg$np-ant
-	fra	Laetitia	np$np-ant$np-ant-f-sg	cat	Laetitia	np-ant-f-sg
+	fra	Laetitia	np-ant-f-sg$np$np-ant	cat	Laetitia	np-ant-f-sg
 	fra	Manon	np-ant-f-sg$np-ant	cat	Manon	np-ant-f-sg
 	fra	Kévin	np-ant-m-sg$np$np-ant	cat	Kévin	np-ant-m-sg
 	fra	Michèle	np$np-ant$np-ant-f-sg	cat	Michèle	np-ant-f-sg
@@ -22898,13 +22898,13 @@ RL	fra	piémont pyrénéen	n-m-sg	cat	Prepirineu	np-top-m-pl
 	fra	Marine	np$np-ant$np-ant-f-sg	cat	Marine	np-ant-f-sg
 	fra	Jean-Claude	np$np-ant$np-ant-m-sg	cat	Jean-Claude	np-ant-m-sg$np
 	fra	Anais	np$np-ant$np-ant-f-sg	cat	Anais	np-ant-f-sg
-	fra	Sylvain	np-ant$np$np-ant-m-sg	cat	Sylvain	np-ant-m-sg$
+	fra	Sylvain	np-ant$np-ant-m-sg$np	cat	Sylvain	np-ant-m-sg$
 	fra	Danielle	np$np-ant$np-ant-f-sg	cat	Danielle	np-ant-f-sg
-	fra	Ludovic	np$np-ant$np-ant-m-sg	cat	Ludovic	$np-ant-m-sg
+	fra	Ludovic	np-ant-m-sg$np$np-ant	cat	Ludovic	$np-ant-m-sg
 	fra	Carole	np-ant-f-sg$np$np-ant	cat	Carole	np-ant-f-sg
 	fra	Fabienne	np-ant-f-sg$np-ant	cat	Fabienne	np-ant-f-sg
 	fra	Florian	np$np-ant-m-sg$np-ant	cat	Florian	np-ant-m-sg
-	fra	Damien	np$np-ant$np-ant-m-sg	cat	Damien	np-ant-m-sg
+	fra	Damien	np-ant-m-sg$np$np-ant	cat	Damien	np-ant-m-sg
 	fra	Pascale	np$np-ant$np-ant-f-sg	cat	Pascale	np-ant-f-sg
 	fra	Mickaël	np-ant-m-sg	cat	Mickaël	np-ant-m-sg
 	fra	Annick	np-ant-f-sg$np-ant	cat	Annick	np-ant-f-sg
@@ -22930,7 +22930,7 @@ RL	fra	piémont pyrénéen	n-m-sg	cat	Prepirineu	np-top-m-pl
 	fra	Jean-Marc	np-ant-m-sg	cat	Jean-Marc	np-ant-m-sg
 	fra	Maryse	np-ant-f-sg	cat	Maryse	np-ant-f-sg
 	fra	Anne-Marie	np$np-ant$np-ant-f-sg	cat	Anne-Marie	np-ant-f-sg
-	fra	Yannick	np$np-ant-m-sg$np-ant	cat	Yannick	np-ant-m-sg
+	fra	Yannick	np-ant-m-sg$np$np-ant	cat	Yannick	np-ant-m-sg
 	fra	Fanny	np-ant-f-sg$np-ant	cat	Fanny	np-ant-f-sg
 	fra	Enzo	np-ant-m-sg	cat	Enzo	np-ant-m-sg$$np-ant
 	fra	Magali	np-ant-f-sg	cat	Magali	np-ant-f-sg
@@ -22943,7 +22943,7 @@ RL	fra	piémont pyrénéen	n-m-sg	cat	Prepirineu	np-top-m-pl
 	fra	Matthieu	np-ant-m-sg$np	cat	Matthieu	np-ant-m-sg
 	fra	Nadia	np-ant-f-sg	cat	Nadia	np-ant-f-sg$$np-ant
 	fra	Rémi	np-ant-m-sg	cat	Rémi	np-ant-m-sg
-	fra	Aurélien	np$np-ant$np-ant-m-sg	cat	Aurélien	np-ant-m-sg
+	fra	Aurélien	np$np-ant-m-sg$np-ant	cat	Aurélien	np-ant-m-sg
 	fra	Nathan	np-ant-m-sg$np-ant	cat	Nathan	np-ant-m-sg$$np-ant
 	fra	Genevieve	np-ant-f-sg	cat	Genevieve	np-ant-f-sg
 	fra	Estelle	np-ant-f-sg	cat	Estelle	np-ant-f-sg
@@ -23307,7 +23307,7 @@ RL	fra	accord	n-m$n$n-m-ND	cat	entesa	n-f$n
 RL	fra	validité	n$n-f$n-f-ND	cat	vigència	n-f$n
 RL	fra	projecteur	n-m	cat	projector	n-m$n
 	fra	coup	n-m$n$n-m-ND	cat	pinzellada	n-f$n
-	fra	cacique	n$n-m	cat	cacic	n-m$n
+	fra	cacique	n-m$n	cat	cacic	n-m$n
 RL	fra	conseil	n-m$n$n-m-ND	cat	assessorament	n-m$n
 RL	fra	assistance	n$n-f$n-f-ND	cat	assessorament	n-m$n
 RL	fra	secours	n-m-sp$n-m$n	cat	socors	n-m-sp$n-m
@@ -24660,7 +24660,7 @@ RL	fra	rapide	adj-mf$adj$adj-mf-ND	cat	veloç	adj$adj-mf-sg$
 	fra	pythagorique	adj	cat	pitagòric	adj$
 	fra	ovoïde	adj	cat	ovoide	adj$adj-mf
 	fra	crânien	adj	cat	cranial	adj-mf$adj$
-	fra	binomial	adj	cat	binomial	adj-mf$adj
+	fra	binomial	$adj	cat	binomial	adj-mf$adj
 	fra	attaquant	adj	cat	atacant	adj$adj-mf
 RL	fra	grand	adj$adj-GD$adj-GD-ND	cat	magne	adj$adj-mf-pl
 	fra	dogmatique	adj	cat	dogmàtic	adj$
@@ -24776,7 +24776,7 @@ RL	fra	spacieux	adj	cat	espaiós	adj$$adj-sup
 	fra	péjoratif	adj	cat	pejoratiu	adj$
 	fra	névralgique	adj-mf$adj	cat	neuràlgic	adj$
 	fra	interdisciplinaire	adj	cat	interdisciplinari	adj$adj-GD
-	fra	basilical	adj	cat	basilical	adj$adj-mf
+	fra	basilical	$adj	cat	basilical	adj$adj-mf
 	fra	tumoral	adj	cat	tumoral	adj
 	fra	sinusoïdal	adj	cat	sinusoïdal	adj$adj-mf
 	fra	prolétaire	adj	cat	proletari	adj
@@ -24851,7 +24851,7 @@ RL	fra	cher	adj$adj-GD-ND$adj-GD	cat	benvolgut	adj$$adj-sup
 RL	fra	cher	adj$adj-GD-ND$adj-GD	cat	benvolgut	adj$$adj-sup
 	fra	anthropomorphique	adj	cat	antropomòrfic	adj
 RL	fra	brut	adj	cat	en brut	adj
-	fra	Texan	n-m	cat	texà	n$n-m$n-m-pl
+	fra	Texan	n$n-m	cat	texà	n$n-m$n-m-pl
 	fra	charter	adj-mf	cat	xàrter	adj$adj-mf$adj-mf-sp
 	fra	honoris causa	adj-mf	cat	honoris causa	adj$adj-mf
 	fra	isocèle	adj-mf-ND$adj$adj-mf	cat	isòsceles	adj$adj-mf$adj-mf-sp
@@ -25017,7 +25017,7 @@ LR	fra	valeureux	adj	cat	valerós	adj$adj-sup
 LR	fra	inéluctable	adj	cat	ineludible	adj$adj-mf
 	fra	imprévu	adj	cat	imprevist	adj$
 	fra	identificateur	adj	cat	identificador	adj
-	fra	guatémaltèque	adj-mf-ND$adj	cat	guatemalenc	adj
+	fra	guatémaltèque	adj$adj-mf-ND	cat	guatemalenc	adj
 	fra	extractif	adj	cat	extractiu	adj
 	fra	apolitique	adj	cat	apolític	adj$
 	fra	régénératif	adj	cat	regeneratiu	adj
@@ -25112,7 +25112,7 @@ LR	fra	rancunier	adj	cat	venjatiu	adj$
 	fra	vacillant	adj	cat	vacil·lant	adj$
 	fra	sensationnel	adj	cat	sensacional	adj$$adj-mf
 	fra	résoluble	adj	cat	resoluble	adj$adj-mf
-	fra	pronominal	adj	cat	pronominal	adj-mf$adj
+	fra	pronominal	$adj	cat	pronominal	adj-mf$adj
 	fra	portoricain	adj	cat	porto-riqueny	adj
 	fra	obsedé	adj	cat	neuròtic	adj$
 LR	fra	maniaque	adj	cat	neuròtic	adj$
@@ -26129,7 +26129,7 @@ LR	fra	cantabrique	adj-mf$adj	cat	cantàbric	adj
 	fra	Nàstic	np-al-m-sg	cat	Nàstic	np$np-al-m-sg
 	fra	Ono	np-al-m-sg	cat	Ono	np-al-m-sg
 	fra	Opel	np$np-al-m-sg	cat	Opel	np-al-m-sg
-	fra	OpenOffice	np-al$np-al-m-sg	cat	OpenOffice	np$np-al-m-sg
+	fra	OpenOffice	np-al-m-sg$np-al	cat	OpenOffice	np$np-al-m-sg
 	fra	Opentrad	np-al-m-sg	cat	Opentrad	np$np-al-m-sg
 	fra	Opus Dei	np-al-m-sg	cat	Opus Dei	np-al-m-sg
 	fra	Orkut	np-al-m-sg	cat	Orkut	np$np-al-m-sg
@@ -26153,7 +26153,7 @@ RL	fra	Real Madrid	np$np-al-m-sg	cat	Reial Madrid	np-al$np-al-m-sg
 	fra	Segway	np-al-m-sg	cat	Segway	np-al-m-sg
 	fra	Sex Pistols	np-al-m-sg	cat	Sex Pistols	np-al-m-sg
 	fra	SimCity	np-al-m-sg	cat	SimCity	np-al-m-sg
-	fra	Sinn Féin	np-al$np-al-m-sg	cat	Sinn Féin	np-al-m-sg
+	fra	Sinn Féin	np-al-m-sg$np-al	cat	Sinn Féin	np-al-m-sg
 	fra	Skype	np$np-al-m-sg$np-al	cat	Skype	np$np-al-m-sg
 	fra	Slackware	np-al-m-sg	cat	Slackware	np-al-m-sg
 	fra	Softcatalà	np-al-m-sg	cat	Softcatalà	np$np-al-m-sg
@@ -26284,7 +26284,7 @@ RL	fra	Parlement Européen	np-al-m-sg	cat	Eurocambra	np-al$np-al-f-sg
 	fra	GameCube	np-al-f-sg	cat	GameCube	np-al-f-sg
 	fra	Generalitat Valenciana	np-al-f-sg	cat	Generalitat Valenciana	np-al$np-al-f-sg
 	fra	Generalitat de Catalunya	np-al-f$np-al-f-sg	cat	Generalitat de Catalunya	np-al$np-al-f-sg
-	fra	Hewlett-Packard	np-al-f-sg	cat	Hewlett-Packard	np-al-f-sg
+	fra	Hewlett-Packard	np$np-al-f-sg	cat	Hewlett-Packard	np-al-f-sg
 	fra	Hitachi	np-al-f-sg	cat	Hitachi	np-al-f-sg
 	fra	Honda	np-al-f-sg$np	cat	Honda	np-al-f-sg
 	fra	Iberia	np-al-f-sg$np-al	cat	Ibèria	np-al$np-al-f-sg
@@ -26355,7 +26355,7 @@ LR	fra	Deuxième Guerre mondiale	np-al-f-sg	cat	Segona Guerra Mundial	np-al-f-sg
 	fra	Tesla	np-al-f-sg	cat	Tesla	np-al-f-sg
 	fra	TfL	np-al-f-sg	cat	TfL	np-al-f-sg
 	fra	ThyssenKrupp	np-al-f-sg	cat	ThyssenKrupp	np-al-sg$np-al-f-sg
-	fra	Toshiba	np-al-f-sg	cat	Toshiba	np-al-f-sg
+	fra	Toshiba	np$np-al-f-sg	cat	Toshiba	np-al-f-sg
 	fra	Toyota	np$np-al-f-sg	cat	Toyota	np$np-al$np-al-f-sg
 	fra	Transport for London	np-al-f-sg	cat	Transport for London	np-al-f-sg
 	fra	Trust	np$np-al-f-sg	cat	Trust	np$np-al-sg$np-al-f-sg
@@ -26367,13 +26367,13 @@ LR	fra	Deuxième Guerre mondiale	np-al-f-sg	cat	Segona Guerra Mundial	np-al-f-sg
 	fra	VilaWeb	np-al-f-sg	cat	VilaWeb	np$np-al-f-sg
 	fra	Visa	np-al-f-sg	cat	Visa	np-al-f-sg
 	fra	Visa Electron	np-al-f-sg	cat	Visa Electron	np-al-f-sg
-	fra	Vodafone	np-al-f-sg	cat	Vodafone	np$np-al-f-sg$np-al
+	fra	Vodafone	np$np-al-f-sg	cat	Vodafone	np$np-al-f-sg$np-al
 	fra	Vogue	np-al-f-sg	cat	Vogue	np-al-sg$np-al-f-sg
 	fra	Vueling	np$np-al-f-sg	cat	Vueling	np$np-al-f-sg
 	fra	Wii	np$np-al-f-sg	cat	Wii	np$np-al-f-sg
 	fra	Wii U	np-al-f-sg	cat	Wii U	np-al-f-sg
-	fra	Wikimedia	np-al$np-al-f-sg	cat	Wikimedia	np-al$np-al-f-sg
-	fra	Wikipedia	np$np-al-f-sg	cat	Wikipedia	np$np-al$np-al-f-sg
+	fra	Wikimedia	np-al-f-sg$np-al	cat	Wikimedia	np-al$np-al-f-sg
+	fra	Wikipedia	np-al-f-sg$np	cat	Wikipedia	np$np-al$np-al-f-sg
 	fra	Xbox	np$np-al-f-sg	cat	Xbox	np$np-al-f-sg$np-al
 	fra	Xbox 360	np-al-f-sg	cat	Xbox 360	np-al-f-sg
 	fra	Xbox One	np-al-f-sg	cat	Xbox One	np-al-f-sg
@@ -26391,7 +26391,7 @@ LR	fra	Deuxième Guerre mondiale	np-al-f-sg	cat	Segona Guerra Mundial	np-al-f-sg
 	fra	Jeux olympiques	np$np-al-m-pl	cat	Jocs Olímpics	np-al$np-al-m-pl
 	fra	Jeux paralympiques	np-al-m-pl	cat	Jocs Paralímpics	np$np-al-m-pl
 	fra	Ondas	np-al-m-pl	cat	Ondas	np$np-al-m-pl
-	fra	Azerbaïdjan	np$np-top-m$np-top$np-top-m-sg	cat	Azerbaidjan	np-top-m-sg$np-top$np-top-m
+	fra	Azerbaïdjan	np$np-top-m$np-top-m-sg$np-top	cat	Azerbaidjan	np-top-m-sg$np-top$np-top-m
 	fra	Unicef	n-acr-f	cat	Unicef	n-acr-f$n
 	fra	BBC	n-acr$n-acr-f	cat	BBC	n-acr-f$n$n-acr-f-sg
 	fra	CGT	n-acr-f$n-acr	cat	CGT	n-acr-f$n
@@ -26502,7 +26502,7 @@ LR	fra	Deuxième Guerre mondiale	np-al-f-sg	cat	Segona Guerra Mundial	np-al-f-sg
 	fra	Alava	np-cog-mf-sp	cat	Alava	np-cog-mf-sp$$np-cog
 	fra	Alavedra	np-cog-mf-sp	cat	Alavedra	np-cog-mf-sp$
 	fra	Albacar	np-cog-mf-sp	cat	Albacar	np-cog-mf-sp$
-	fra	Albacete	np$np-cog-mf-sp	cat	Albacete	np-cog-mf-sp
+	fra	Albacete	np-cog-mf-sp	cat	Albacete	np-cog-mf-sp
 	fra	Albala	np-cog-mf-sp	cat	Albala	np-cog-mf-sp$
 	fra	Albalate	np-cog-mf-sp	cat	Albalate	np-cog-mf-sp$
 	fra	Albanese	np-cog-mf-sp	cat	Albanese	np-cog-mf-sp
@@ -26847,7 +26847,7 @@ LR	fra	Aragó	np-cog-mf-sp	cat	Aragó	np-cog-mf-sp
 	fra	Aumatell	np-cog-mf-sp	cat	Aumatell	np-cog-mf-sp$
 	fra	Aumont	np-cog-mf-sp	cat	Aumont	np-cog-mf-sp$
 	fra	Aupin	np-cog-mf-sp	cat	Aupin	np-cog-mf-sp$
-	fra	Aura	np$np-cog-mf-sp	cat	Aura	np-cog-mf-sp
+	fra	Aura	np-cog-mf-sp	cat	Aura	np-cog-mf-sp
 	fra	Aureli	np-cog-mf-sp	cat	Aureli	np-cog-mf-sp
 	fra	Auriol	np-cog-mf-sp	cat	Auriol	np-cog-mf-sp$
 	fra	Aurélien	np-cog-mf-sp	cat	Aurélien	np-cog-mf-sp$
@@ -27158,7 +27158,7 @@ LR	fra	Barcelona	np-cog-mf-sp	cat	Barcelona	np-cog-mf-sp
 	fra	Bellver	np$np-cog-mf-sp	cat	Bellver	np$np-cog-mf-sp$
 	fra	Bellón	np-cog-mf-sp	cat	Bellón	np-cog-mf-sp$
 	fra	Belmar	np-cog-mf-sp	cat	Belmar	np-cog-mf-sp$
-	fra	Belmonte	np$np-cog-mf-sp	cat	Belmonte	np$$np-cog-mf-sp
+	fra	Belmonte	np-cog-mf-sp	cat	Belmonte	np$$np-cog-mf-sp
 	fra	Beloin	np-cog-mf-sp	cat	Beloin	np-cog-mf-sp$
 	fra	Belony	np-cog-mf-sp	cat	Belony	np-cog-mf-sp$
 	fra	Beltrí	np-cog-mf-sp	cat	Beltrí	np-cog-mf-sp$
@@ -27867,7 +27867,7 @@ LR	fra	Barcelona	np-cog-mf-sp	cat	Barcelona	np-cog-mf-sp
 	fra	Cascone	np-cog-mf-sp	cat	Cascone	np-cog-mf-sp
 	fra	Casellas	np-cog-mf-sp	cat	Casellas	$np-cog-mf-sp
 	fra	Caselles	np-cog-mf-sp	cat	Caselles	np-cog-mf-sp$
-	fra	Casero	np-cog-mf-sp	cat	Casero	np-cog-mf-sp$
+	fra	Casero	np-cog-mf-sp	cat	Casero	np-cog-mf-sp$$np
 	fra	Cases	np-cog-mf-sp	cat	Cases	$np-cog-mf-sp
 	fra	Casey	np-cog-mf-sp	cat	Casey	np-cog-mf-sp
 	fra	Casgrain	np-cog-mf-sp	cat	Casgrain	np-cog-mf-sp$
@@ -28313,7 +28313,7 @@ LR	fra	Barcelona	np-cog-mf-sp	cat	Barcelona	np-cog-mf-sp
 	fra	Coronel	np-cog-mf-sp	cat	Coronel	np-cog-mf-sp$
 	fra	Corpas	np-cog-mf-sp	cat	Corpas	np-cog-mf-sp$
 	fra	Corrales	np$np-cog-mf-sp	cat	Corrales	$np-cog-mf-sp
-	fra	Correa	np$np-cog-mf-sp	cat	Correa	np-cog-mf-sp
+	fra	Correa	np-cog-mf-sp	cat	Correa	np-cog-mf-sp
 	fra	Correas	np-cog-mf-sp	cat	Correas	np-cog-mf-sp$
 	fra	Corredera	np-cog-mf-sp	cat	Corredera	np-cog-mf-sp$
 	fra	Correia	np-cog-mf-sp	cat	Correia	np-cog-mf-sp
@@ -29741,7 +29741,7 @@ LR	fra	Gran	np-cog-mf-sp	cat	Gran	np-cog-mf-sp$
 	fra	Grasa	np-cog-mf-sp	cat	Grasa	np-cog-mf-sp$
 	fra	Grassi	np-cog-mf-sp	cat	Grassi	np-cog-mf-sp
 	fra	Grasso	np-cog-mf-sp	cat	Grasso	np-cog-mf-sp
-	fra	Grau	np$np-cog-mf-sp	cat	Grau	$np$np-cog-mf-sp
+	fra	Grau	np-cog-mf-sp	cat	Grau	$np$np-cog-mf-sp
 	fra	Grau Juan	np-cog-mf-sp	cat	Grau Juan	np-cog-mf-sp$
 	fra	Grau Seminario	np-cog-mf-sp	cat	Grau Seminario	np-cog-mf-sp$
 	fra	Graupera	np-cog-mf-sp	cat	Graupera	np-cog-mf-sp$
@@ -30636,7 +30636,7 @@ LR	fra	Gran	np-cog-mf-sp	cat	Gran	np-cog-mf-sp$
 	fra	Limones	np-cog-mf-sp	cat	Limones	np-cog-mf-sp$
 	fra	Limón	np-cog-mf-sp	cat	Limón	np-cog-mf-sp$
 	fra	Lin	np-cog-mf-sp	cat	Lin	np-cog-mf-sp
-	fra	Linares	np$np-cog-mf-sp	cat	Linares	np-cog-mf-sp
+	fra	Linares	np-cog-mf-sp	cat	Linares	np-cog-mf-sp
 	fra	Lincourt	np-cog-mf-sp	cat	Lincourt	np-cog-mf-sp$
 	fra	Linde	np-cog-mf-sp	cat	Linde	np-cog-mf-sp$
 	fra	Ling	np-cog-mf-sp	cat	Ling	np-cog-mf-sp$
@@ -31818,7 +31818,7 @@ LR	fra	Navarra	np-cog-mf-sp	cat	Navarra	np-cog-mf-sp
 	fra	Obrero	np-cog-mf-sp	cat	Obrero	np-cog-mf-sp$
 	fra	Obón	np-cog-mf-sp	cat	Obón	np-cog-mf-sp$
 	fra	Ocampo	np-cog-mf-sp	cat	Ocampo	np-cog-mf-sp$
-	fra	Ocaña	np$np-cog-mf-sp	cat	Ocaña	np$$np-cog-mf-sp
+	fra	Ocaña	np-cog-mf-sp	cat	Ocaña	np$$np-cog-mf-sp
 	fra	Occhipinti	np-cog-mf-sp	cat	Occhipinti	np-cog-mf-sp
 	fra	Ocon	np-cog-mf-sp	cat	Ocon	np-cog-mf-sp$
 	fra	Oconnell	np-cog-mf-sp	cat	Oconnell	np-cog-mf-sp$
@@ -31845,7 +31845,7 @@ LR	fra	Navarra	np-cog-mf-sp	cat	Navarra	np-cog-mf-sp
 	fra	Olid	np-cog-mf-sp	cat	Olid	np-cog-mf-sp$$np
 	fra	Oliete	np-cog-mf-sp	cat	Oliete	np-cog-mf-sp$
 	fra	Oligny	np-cog-mf-sp	cat	Oligny	np-cog-mf-sp$
-	fra	Oliva	np$np-cog-mf-sp	cat	Oliva	np-cog-mf-sp
+	fra	Oliva	np-cog-mf-sp	cat	Oliva	np-cog-mf-sp
 	fra	Olivas	np-cog-mf-sp	cat	Olivas	np-cog-mf-sp$
 	fra	Olivella	np-cog-mf-sp	cat	Olivella	$np$np-cog-mf-sp
 	fra	Olivencia	np-cog-mf-sp	cat	Olivencia	np-cog-mf-sp$
@@ -32246,10 +32246,10 @@ LR	fra	Pamplona	np-cog-mf-sp	cat	Pamplona	np-cog-mf-sp
 	fra	Pinar	np-cog-mf-sp	cat	Pinar	np-cog-mf-sp$
 	fra	Pincay	np-cog-mf-sp	cat	Pincay	np-cog-mf-sp$
 	fra	Pincince	np-cog-mf-sp	cat	Pincince	np-cog-mf-sp$
-	fra	Pineda	np$np-cog-mf-sp	cat	Pineda	np-cog-mf-sp
+	fra	Pineda	np-cog-mf-sp	cat	Pineda	np-cog-mf-sp
 	fra	Pinedo	np-cog-mf-sp	cat	Pinedo	np-cog-mf-sp$
 	fra	Pinel	np-cog-mf-sp	cat	Pinel	np-cog-mf-sp
-	fra	Pinilla	np$np-cog-mf-sp	cat	Pinilla	np$np-cog-mf-sp$
+	fra	Pinilla	np-cog-mf-sp	cat	Pinilla	np$np-cog-mf-sp$
 	fra	Pinna	np-cog-mf-sp	cat	Pinna	np-cog-mf-sp
 	fra	Pino	np-cog-mf-sp	cat	Pino	np-cog-mf-sp$
 	fra	Pinsach	np-cog-mf-sp	cat	Pinsach	np-cog-mf-sp$
@@ -32289,7 +32289,7 @@ LR	fra	Pamplona	np-cog-mf-sp	cat	Pamplona	np-cog-mf-sp
 	fra	Pladevall	np-cog-mf-sp	cat	Pladevall	np-cog-mf-sp$
 	fra	Plaisance	np-cog-mf-sp	cat	Plaisance	np-cog-mf-sp$
 	fra	Plaja	np-cog-mf-sp	cat	Plaja	np-cog-mf-sp$
-	fra	Plana	np$np-cog-mf-sp	cat	Plana	$np$np-cog-mf-sp
+	fra	Plana	np-cog-mf-sp	cat	Plana	$np$np-cog-mf-sp
 	fra	Planaguma	np-cog-mf-sp	cat	Planaguma	np-cog-mf-sp$
 	fra	Planella	np-cog-mf-sp	cat	Planella	np-cog-mf-sp$
 	fra	Planellas	np-cog-mf-sp	cat	Planellas	np-cog-mf-sp$
@@ -35388,7 +35388,7 @@ RL	fra	faire	vblex	cat	encarar	vblex
 	fra	portemonnaie	n-m	cat	moneder	n-m$n
 LR	fra	porte-monnaie	n-m-sp$n-m	cat	moneder	n-m$n
 	fra	Taïwanais	n-m-sp$n	cat	taiwanès	n$n-GD
-	fra	taïwanais	adj-GD-ND$adj	cat	taiwanès	adj
+	fra	taïwanais	adj$adj-GD-ND	cat	taiwanès	adj
 	fra	posar	vblex	cat	énerver	vblex
 	fra	rebeller	vblex	cat	rebel·lar	vblex$vblex-pron
 	fra	emboîter	vblex	cat	encaixar	vblex
@@ -35811,7 +35811,7 @@ LR	fra	stoïque	adj	cat	estoic	adj$
 	fra	nostalgique	adj-mf$adj	cat	nostàlgic	adj$
 	fra	isométrique	adj	cat	isomètric	adj
 	fra	invincible	adj	cat	invencible	adj$$adj-mf
-	fra	idiomatique	adj-mf$adj	cat	idiomàtic	adj
+	fra	idiomatique	adj$adj-mf	cat	idiomàtic	adj
 	fra	arrondi	adj	cat	rom	adj$
 LR	fra	émoussé	adj-GD-ND$adj	cat	rom	adj$
 	fra	invasif	adj	cat	invasiu	adj
@@ -35883,7 +35883,7 @@ RL	fra	prédéterminé	adj	cat	predeterminat	adj$$adj-sup
 	fra	nicaraguayen	adj	cat	nicaragüenc	adj$adj-GD
 	fra	bicaméral	adj	cat	bicameral	adj$$adj-mf
 	fra	axiomatique	adj	cat	axiomàtic	adj$
-	fra	présentiel	adj	cat	presencial	adj$adj-mf
+	fra	présentiel	$adj	cat	presencial	adj$adj-mf
 	fra	perméable	adj$adj-mf-ND	cat	permeable	adj$$adj-mf
 	fra	azoté	adj	cat	nitrogenat	adj
 	fra	infirme	adj	cat	ínfim	adj$
@@ -36464,7 +36464,7 @@ RL	fra	chef	n-mf$n$n-mf-ND	cat	xef	n-mf$n$n-mf-sg
 	fra	auréole	n-f	cat	aurèola	n-f$n
 	fra	locateur	n	cat	hisendat	n
 	fra	accumulateur	n$n-m	cat	acumulador	n-m$n
-	fra	cannibale	n-mf$n	cat	caníbal	n$n-mf
+	fra	cannibale	n-mf$n	cat	caníbal	n-mf$n
 LR	fra	verseau	n-m	cat	aquari	n-m$n
 	fra	réécriture	n-f	cat	reescriptura	n-f$n
 	fra	pandémie	n-f$n	cat	pandèmia	n-f$n
@@ -36938,7 +36938,7 @@ RL	fra	avidité	n-f	cat	avidesa	n-f$n$n-f-sg
 	fra	azerolier	n-m	cat	atzeroler	n$n-m
 	fra	azimut	n-m	cat	azimut	n-m$n
 	fra	azurite	n-f	cat	atzurita	n-f$n
-LR	fra	azéri	n-m-sg	cat	àzeri	n$n-mf$n-mf-sg
+LR	fra	azéri	n$n-m-sg	cat	àzeri	n$n-mf$n-mf-sg
 RL	fra	azerbaïdjanais	n	cat	àzeri	n$n-mf$n-mf-sg
 	fra	aéroglisseur	n-m	cat	aerolliscador	n-m$n
 	fra	aïoli	n-m	cat	allioli	n$n-m
@@ -37067,7 +37067,7 @@ LR	fra	avaricieux	adj	cat	avar	adj$adj-mf
 	fra	axillaire	adj	cat	axil·lar	adj$adj-mf
 	fra	axiologique	adj	cat	axiològic	adj
 	fra	axonométrique	adj	cat	axonomètric	adj
-	fra	azerbaïdjanais	adj-GD-ND$adj	cat	azerbaidjanès	adj
+	fra	azerbaïdjanais	adj$adj-GD-ND	cat	azerbaidjanès	adj
 	fra	azimutal	adj	cat	azimutal	adj$adj-mf
 	fra	azoïque	adj	cat	azoic	adj
 	fra	néo-zélandais	adj$adj-GD-ND	cat	neozelandès	adj
@@ -37870,7 +37870,7 @@ RL	fra	anse	n-f	cat	ansa	n$n-f
 	fra	anthraquinone	n-f	cat	antraquinona	n-f
 	fra	anthropobiologie	n-f	cat	antropobiologia	n-f
 	fra	anthroponymie	n-f	cat	antroponímia	n-f
-	fra	anthropophage	n	cat	antropòfag	n
+	fra	anthropophage	n	cat	antropòfag	n$n-mf
 	fra	antialcoolisme	n-m	cat	antialcoholisme	n-m
 	fra	anthroposophie	n-f	cat	antroposofia	n-f
 	fra	anthéridie	n-f	cat	anteridi	n-m
@@ -38372,7 +38372,7 @@ LR	fra	cube	n-m	cat	cub	n$n-m
 	fra	barbu	adj	cat	barbut	adj$$adj-sup
 RL	fra	barbu	adj	cat	barbut	adj$$adj-sup
 	fra	bigle	adj	cat	guenyo	adj
-	fra	bisexuel	adj$	cat	bisexual	adj$adj-mf
+	fra	bisexuel	$adj	cat	bisexual	adj$adj-mf
 LR	fra	blet	adj	cat	passat	adj$adj-sup
 	fra	boiteux	adj$adj-GD-ND	cat	coix	adj
 LR	fra	bolchévique	adj	cat	bolxevic	adj$$adj-mf
@@ -39264,7 +39264,7 @@ LR	fra	politicien	adj	cat	polític	adj$
 RL	fra	profus	adj	cat	abundant	adj-sup
 	fra	prophylactique	adj	cat	profilàctic	adj
 	fra	protestataire	adj	cat	protestatari	adj$
-	fra	providentiel	adj	cat	providencial	adj$adj-mf$
+	fra	providentiel	$adj	cat	providencial	adj$adj-mf$
 	fra	prurigineux	adj	cat	pruriginós	adj
 	fra	précambrien	adj	cat	precambrià	adj
 	fra	préhensile	adj	cat	prènsil	adj$adj-mf
@@ -40864,7 +40864,7 @@ LR	fra	assortir	vblex	cat	combinar	vblex
 	fra	Aglae	np-ant-f-sg	cat	Aglae	np-ant-f-sg
 	fra	Aglaë	np-ant-f-sg	cat	Aglaë	np-ant-f-sg
 	fra	Agnese	np-ant-f-sg	cat	Agnese	np-ant-f-sg
-	fra	Agnieszka	np$np-ant$np-ant-f-sg	cat	Agnieszka	np-ant-f-sg
+	fra	Agnieszka	np$np-ant-f-sg$np-ant	cat	Agnieszka	np-ant-f-sg
 	fra	Agostina	np-ant-f-sg	cat	Agostina	np-ant-f-sg
 	fra	Agota	np-ant-f-sg	cat	Agota	np-ant-f-sg
 	fra	Agrippine	np$np-ant-f-sg$np-ant	cat	Agripina	np-ant-f-sg
@@ -40926,7 +40926,7 @@ LR	fra	assortir	vblex	cat	combinar	vblex
 	fra	Alesandra	np-ant-f-sg	cat	Alesandra	np-ant-f-sg
 	fra	Alesia	np-ant-f-sg	cat	Alesia	np-ant-f-sg
 	fra	Alessa	np-ant-f-sg	cat	Alessa	np-ant-f-sg
-	fra	Alessandra	np$np-ant-f-sg$np-ant	cat	Alessandra	np-ant-f-sg$np-ant
+	fra	Alessandra	np-ant-f-sg$np$np-ant	cat	Alessandra	np-ant-f-sg$np-ant
 	fra	Aleta	np-ant-f-sg	cat	Aleta	np-ant-f-sg
 	fra	Alexa	np$np-ant$np-ant-f-sg	cat	Alexa	np-ant-f-sg$$np-ant
 	fra	Alexandrea	np-ant-f-sg	cat	Alexandrea	np-ant-f-sg
@@ -40947,7 +40947,7 @@ RL	fra	Alexandrie	np-ant-f-sg	cat	Alexandrie	np-ant-f-sg
 	fra	Alide	np$np-ant$np-ant-f-sg	cat	Alide	np-ant-f-sg
 	fra	Alidia	np-ant-f-sg	cat	Alidia	np-ant-f-sg
 	fra	Alimena	np-ant-f-sg	cat	Alimena	np-ant-f-sg
-	fra	Alina	np$np-ant$np-ant-f-sg	cat	Alina	np-ant-f-sg$$np-ant
+	fra	Alina	np$np-ant-f-sg$np-ant	cat	Alina	np-ant-f-sg$$np-ant
 	fra	Aline	np-ant$np-ant-f-sg	cat	Aline	np-ant-f-sg$np-ant
 	fra	Alira	np-ant-f-sg	cat	Alira	np-ant-f-sg
 	fra	Alisa	np-ant-f-sg	cat	Alisa	np-ant-f-sg
@@ -41031,7 +41031,7 @@ LR	fra	Alta	np-ant-f-sg	cat	Alta	np-ant-f-sg
 	fra	Anahi	np-ant-f-sg	cat	Anahi	np-ant-f-sg$np-ant
 	fra	Anastaise	np-ant-f-sg	cat	Anastaise	np-ant-f-sg
 	fra	Anastasia	np-ant-f-sg$np$np-ant	cat	Anastasia	np-ant-f-sg$$np-ant
-	fra	Anastasie	np$np-ant$np-ant-f-sg	cat	Anastasie	np-ant-f-sg
+	fra	Anastasie	np$np-ant-f-sg$np-ant	cat	Anastasie	np-ant-f-sg
 	fra	Anastàsia	np-ant-f-sg	cat	Anastàsia	np-ant-f-sg$np-ant
 	fra	Anaya	np-ant$np-ant-f-sg	cat	Anaya	np-ant-f-sg
 	fra	Anaís	np-ant-f-sg	cat	Anaís	np-ant-f-sg$np-ant
@@ -41055,7 +41055,7 @@ LR	fra	Alta	np-ant-f-sg	cat	Alta	np-ant-f-sg
 	fra	Aniya	np-ant-f-sg	cat	Aniya	np-ant-f-sg
 	fra	Aniyah	np-ant-f-sg	cat	Aniyah	np-ant-f-sg
 	fra	Anjali	np-ant-f-sg	cat	Anjali	np-ant-f-sg
-	fra	Annabella	np$np-ant-f-sg$np-ant	cat	Annabella	np-ant-f-sg
+	fra	Annabella	np-ant-f-sg$np$np-ant	cat	Annabella	np-ant-f-sg
 	fra	Annabelle	np-ant-f-sg	cat	Annabelle	np-ant-f-sg
 	fra	Annalisa	np-ant-f-sg	cat	Annalisa	np-ant-f-sg
 	fra	Annalise	np-ant-f-sg	cat	Annalise	np-ant-f-sg
@@ -41094,7 +41094,7 @@ LR	fra	Alta	np-ant-f-sg	cat	Alta	np-ant-f-sg
 	fra	Arienne	np-ant-f-sg	cat	Arienne	np-ant-f-sg
 	fra	Arlene	np-ant-f-sg	cat	Arlene	np-ant-f-sg
 	fra	Arlet	np-ant-f-sg	cat	Arlet	np-ant-f-sg$np-ant
-	fra	Arlette	np$np-ant-f-sg$np-ant	cat	Arlette	np-ant-f-sg
+	fra	Arlette	np-ant-f-sg$np$np-ant	cat	Arlette	np-ant-f-sg
 	fra	Armelle	np-ant-f-sg	cat	Armelle	np-ant-f-sg
 	fra	Arnaude	np-ant-f-sg	cat	Arnaude	np-ant-f-sg
 	fra	Aroa	np-ant-f-sg	cat	Aroa	np-ant-f-sg$np$np-ant
@@ -41469,7 +41469,7 @@ LR	fra	Carlina	np-ant-f-sg	cat	Carlina	np-ant-f-sg
 	fra	Cordèlia	np-ant-f-sg	cat	Cordèlia	np-ant-f-sg
 	fra	Corine	np$np-ant$np-ant-f-sg	cat	Corine	np-ant-f-sg
 	fra	Cornélie	np-ant-f-sg	cat	Cornélie	np-ant-f-sg
-	fra	Correa	np-ant-f-sg$np-ant	cat	Correa	np-ant-f-sg
+	fra	Correa	np-ant-f-sg$np$np-ant	cat	Correa	np-ant-f-sg
 	fra	Cosette	np-ant-f-sg	cat	Cosette	np-ant-f-sg
 	fra	Cosima	np-ant-f-sg	cat	Cosima	np-ant-f-sg
 	fra	Courtney	np-ant-f-sg	cat	Courtney	np-ant-f-sg
@@ -41527,7 +41527,7 @@ LR	fra	Carlina	np-ant-f-sg	cat	Carlina	np-ant-f-sg
 	fra	Danina	np-ant-f-sg	cat	Danina	np-ant-f-sg
 	fra	Danisa	np-ant-f-sg	cat	Danisa	np-ant-f-sg
 	fra	Daniza	np-ant-f-sg	cat	Daniza	np-ant-f-sg
-	fra	Danièle	np$np-ant$np-ant-f-sg	cat	Danièle	np-ant-f-sg
+	fra	Danièle	np-ant-f-sg$np$np-ant	cat	Danièle	np-ant-f-sg
 	fra	Danna	np-ant-f-sg	cat	Danna	np-ant-f-sg$np-ant
 	fra	Dannae	np-ant-f-sg	cat	Dannae	np-ant-f-sg
 	fra	Daphne	np-ant-f-sg	cat	Daphne	np-ant-f-sg
@@ -41944,7 +41944,7 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Giorgina	np-ant-f-sg	cat	Giorgina	np-ant-f-sg
 	fra	Giosetta	np-ant-f-sg	cat	Giosetta	np-ant-f-sg
 	fra	Giovana	np-ant-f-sg	cat	Giovana	np-ant-f-sg
-	fra	Giovanna	np$np-ant-f-sg$np-ant	cat	Giovanna	np-ant-f-sg$np-ant
+	fra	Giovanna	np-ant-f-sg$np$np-ant	cat	Giovanna	np-ant-f-sg$np-ant
 	fra	Giovannetta	np-ant-f-sg	cat	Giovannetta	np-ant-f-sg
 	fra	Giovannina	np-ant-f-sg	cat	Giovannina	np-ant-f-sg
 	fra	Gisel	np-ant-f-sg	cat	Gisel	np-ant-f-sg
@@ -41956,7 +41956,7 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Gisselle	np-ant-f-sg	cat	Gisselle	np-ant-f-sg
 	fra	Gisèle	np-ant-f-sg$np-ant	cat	Gisèle	np-ant-f-sg
 	fra	Giulia	np-ant-f-sg	cat	Giulia	np-ant-f-sg$np-ant
-	fra	Giuliana	np$np-ant-f-sg$np-ant	cat	Giuliana	np-ant-f-sg$np-ant
+	fra	Giuliana	np-ant-f-sg$np$np-ant	cat	Giuliana	np-ant-f-sg$np-ant
 	fra	Giulietta	np-ant-f-sg	cat	Giulietta	np-ant-f-sg
 	fra	Giuseppa	np-ant-f-sg	cat	Giuseppa	np-ant-f-sg
 	fra	Giuseppina	np-ant-f-sg	cat	Giuseppina	np-ant-f-sg
@@ -41990,11 +41990,11 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Guiomar	np-ant-f-sg	cat	Guiomar	np-ant-f-sg$np-ant
 	fra	Gurleen	np-ant-f-sg	cat	Gurleen	np-ant-f-sg$np-ant
 	fra	Gwenaëlle	np-ant$np-ant-f-sg	cat	Gwenaëlle	np-ant-f-sg
-	fra	Gwendoline	np-ant$np-ant-f-sg	cat	Gwendoline	np-ant-f-sg
+	fra	Gwendoline	np-ant-f-sg$np-ant	cat	Gwendoline	np-ant-f-sg
 	fra	Gwendolyn	np-ant-f-sg	cat	Gwendolyn	np-ant-f-sg
 	fra	Gwyneth	np-ant-f-sg	cat	Gwyneth	np-ant-f-sg
 	fra	Gyana	np-ant-f-sg	cat	Gyana	np-ant-f-sg
-	fra	Géraldine	np$np-ant-f-sg$np-ant	cat	Géraldine	np-ant-f-sg
+	fra	Géraldine	np-ant-f-sg$np$np-ant	cat	Géraldine	np-ant-f-sg
 	fra	Güendalina	np-ant-f-sg	cat	Güendalina	np-ant-f-sg
 	fra	Hadasa	np-ant-f-sg	cat	Hadasa	np-ant-f-sg
 	fra	Hadassa	np-ant-f-sg	cat	Hadassa	np-ant-f-sg
@@ -42031,10 +42031,10 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Hayat	np-ant-f-sg	cat	Hayat	np-ant-f-sg$np-ant
 	fra	Haydée	np-ant-f-sg	cat	Haydée	np-ant-f-sg
 	fra	Haylee	np-ant-f-sg	cat	Haylee	np-ant-f-sg
-	fra	Hayley	np$np-ant$np-ant-f-sg	cat	Hayley	np-ant-f-sg
+	fra	Hayley	np$np-ant-f-sg$np-ant	cat	Hayley	np-ant-f-sg
 	fra	Haylie	np-ant-f-sg	cat	Haylie	np-ant-f-sg
 	fra	Hazel	np-ant-f-sg	cat	Hazel	np-ant-f-sg
-	fra	Heather	np$np-ant-f-sg$np-ant	cat	Heather	np-ant-f-sg
+	fra	Heather	np-ant-f-sg$np$np-ant	cat	Heather	np-ant-f-sg
 	fra	Heaven	np-ant-f-sg	cat	Heaven	np-ant-f-sg
 	fra	Hebe	np-ant-f-sg	cat	Hebe	np-ant-f-sg
 	fra	Hebelen	np-ant-f-sg	cat	Hebelen	np-ant-f-sg
@@ -42350,7 +42350,7 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Jova	np-ant-f-sg	cat	Jova	np-ant-f-sg
 	fra	Jovina	np-ant-f-sg	cat	Jovina	np-ant-f-sg
 	fra	Joy	np-ant-f-sg	cat	Joy	np-ant-f-sg
-	fra	Joëlle	np$np-ant$np-ant-f-sg	cat	Joëlle	np-ant-f-sg
+	fra	Joëlle	np-ant-f-sg$np$np-ant	cat	Joëlle	np-ant-f-sg
 	fra	Juanita	np-ant-f-sg	cat	Juanita	np-ant-f-sg
 	fra	Juliane	np-ant-f-sg	cat	Juliane	np-ant-f-sg
 	fra	Julianna	np-ant-f-sg	cat	Julianna	np-ant-f-sg
@@ -42423,7 +42423,7 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Kathleen	np-ant-f-sg	cat	Kathleen	np-ant-f-sg
 	fra	Kathryn	np-ant-f-sg	cat	Kathryn	np-ant-f-sg
 	fra	Kathy	np-ant-f-sg	cat	Kathy	np-ant-f-sg
-	fra	Katia	np$np-ant-f-sg$np-ant	cat	Katia	np-ant-f-sg$np-ant
+	fra	Katia	np-ant-f-sg$np$np-ant	cat	Katia	np-ant-f-sg$np-ant
 	fra	Katie	np-ant-f-sg	cat	Katie	np-ant-f-sg
 	fra	Katlyn	np-ant-f-sg	cat	Katlyn	np-ant-f-sg
 	fra	Katy	np-ant-f-sg	cat	Katy	np-ant-f-sg
@@ -42483,7 +42483,7 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Kontxesi	np-ant-f-sg	cat	Kontxesi	np-ant-f-sg
 	fra	Kourtney	np-ant-f-sg	cat	Kourtney	np-ant-f-sg
 	fra	Krista	np-ant-f-sg	cat	Krista	np-ant-f-sg
-	fra	Kristen	np-ant$np-ant-f-sg	cat	Kristen	np-ant-f-sg
+	fra	Kristen	np-ant-f-sg$np-ant	cat	Kristen	np-ant-f-sg
 	fra	Kristin	np-ant-f-sg$np-ant	cat	Kristin	np-ant-f-sg
 	fra	Krystal	np-ant-f-sg	cat	Krystal	np-ant-f-sg
 	fra	Kya	np-ant-f-sg	cat	Kya	np-ant-f-sg
@@ -42585,7 +42585,7 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Liberia	np-ant-f-sg	cat	Liberia	np-ant-f-sg$np
 	fra	Liberta	np-ant-f-sg	cat	Liberta	np-ant-f-sg
 	fra	Libertad	np-ant-f-sg	cat	Libertad	np-ant-f-sg$np-ant
-	fra	Liberty	np$np-ant-f-sg$np-ant	cat	Liberty	np-ant-f-sg
+	fra	Liberty	np-ant-f-sg$np$np-ant	cat	Liberty	np-ant-f-sg
 	fra	Libia	np-ant-f-sg	cat	Libia	np-ant-f-sg$np
 	fra	Liboria	np-ant-f-sg	cat	Liboria	np-ant-f-sg
 	fra	Librada	np-ant-f-sg	cat	Librada	np-ant-f-sg
@@ -42602,7 +42602,7 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Lilen	np-ant-f-sg	cat	Lilen	np-ant-f-sg
 	fra	Lili	np-ant-f-sg	cat	Lili	np-ant-f-sg$
 	fra	Lilia	np-ant-f-sg	cat	Lilia	np-ant-f-sg
-	fra	Lilian	np$np-ant-f-sg$np-ant	cat	Lilian	np-ant-f-sg
+	fra	Lilian	np-ant-f-sg$np$np-ant	cat	Lilian	np-ant-f-sg
 	fra	Liliane	np-ant-f-sg	cat	Liliane	np-ant-f-sg
 	fra	Lillian	np-ant-f-sg	cat	Lillian	np-ant-f-sg
 	fra	Lilliana	np-ant-f-sg	cat	Lilliana	np-ant-f-sg
@@ -42651,7 +42651,7 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Luigina	np-ant-f-sg	cat	Luigina	np-ant-f-sg
 	fra	Luisella	np-ant-f-sg	cat	Luisella	np-ant-f-sg
 	fra	Luisina	np-ant-f-sg	cat	Luisina	np-ant-f-sg
-	fra	Lula	np$np-ant-f-sg$np-ant	cat	Lula	np-ant-f-sg$np$np-ant
+	fra	Lula	np-ant-f-sg$np$np-ant	cat	Lula	np-ant-f-sg$np$np-ant
 	fra	Luna	np-ant-f-sg	cat	Luna	np-ant-f-sg$$np-ant
 	fra	Lunete	np-ant-f-sg	cat	Lunete	np-ant-f-sg
 	fra	Lupe	np-ant-f-sg	cat	Lupe	np-ant-f-sg
@@ -42680,7 +42680,7 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Maci	np-ant-f-sg	cat	Maci	np-ant-f-sg
 	fra	Macie	np-ant-f-sg	cat	Macie	np-ant-f-sg
 	fra	Maciela	np-ant-f-sg	cat	Maciela	np-ant-f-sg
-	fra	Mackenzie	np-ant-f-sg$np-ant	cat	Mackenzie	np-ant-f-sg
+	fra	Mackenzie	np-ant-f-sg$np$np-ant	cat	Mackenzie	np-ant-f-sg
 	fra	Maclovia	np-ant-f-sg	cat	Maclovia	np-ant-f-sg
 	fra	Macrina	np-ant-f-sg	cat	Macrina	np-ant-f-sg
 	fra	Macy	np-ant-f-sg	cat	Macy	np-ant-f-sg
@@ -42778,7 +42778,7 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Margaretta	np-ant-f-sg	cat	Margaretta	np-ant-f-sg
 	fra	Margaud	np-ant-f-sg	cat	Margaud	np-ant-f-sg
 	fra	Margaux	np-ant-f-sg	cat	Margaux	np-ant-f-sg
-	fra	Marge	np$np-ant-f-sg	cat	Marge	np-ant-f-sg$np
+	fra	Marge	np-ant-f-sg$np	cat	Marge	np-ant-f-sg$np
 	fra	Margherita	np-ant-f-sg	cat	Margherita	np-ant-f-sg
 	fra	Margit	np-ant-f-sg	cat	Margit	np-ant-f-sg
 	fra	Margot	np-ant-f-sg	cat	Margot	np-ant-f-sg$np-ant
@@ -42804,7 +42804,7 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Maritza	np-ant-f-sg	cat	Maritza	np-ant-f-sg
 	fra	Marjolaine	np-ant-f-sg	cat	Marjolaine	np-ant-f-sg
 	fra	Marlee	np-ant-f-sg	cat	Marlee	np-ant-f-sg
-	fra	Marlene	np$np-ant$np-ant-f-sg	cat	Marlene	np-ant-f-sg
+	fra	Marlene	np$np-ant-f-sg$np-ant	cat	Marlene	np-ant-f-sg
 	fra	Maroua	np-ant-f-sg	cat	Maroua	np-ant-f-sg$np-ant
 	fra	Marthe	np-ant-f-sg$np-ant	cat	Marthe	np-ant-f-sg
 	fra	Martine	np-ant-f-sg$np$np-ant	cat	Martine	np-ant-f-sg
@@ -42856,10 +42856,10 @@ LR	fra	Europa	np-ant-f-sg	cat	Europa	np-ant-f-sg
 	fra	Mercé	np-ant-f-sg	cat	Mercé	np-ant-f-sg
 	fra	Meriem	np-ant-f-sg	cat	Meriem	np-ant-f-sg$np-ant
 	fra	Meryell	np-ant-f-sg	cat	Meryell	np-ant-f-sg$np
-	fra	Meryl	np$np-ant-f-sg$np-ant	cat	Meryl	np-ant-f-sg
+	fra	Meryl	np-ant-f-sg$np$np-ant	cat	Meryl	np-ant-f-sg
 	fra	Mia	np-ant-f-sg	cat	Mia	np-ant-f-sg$np-ant
 	fra	Miah	np-ant-f-sg	cat	Miah	np-ant-f-sg
-	fra	Micaela	np$np-ant-f-sg$np-ant	cat	Micaela	np-ant-f-sg$np-ant
+	fra	Micaela	np-ant-f-sg$np$np-ant	cat	Micaela	np-ant-f-sg$np-ant
 	fra	Michaela	np-ant-f-sg	cat	Michaela	np-ant-f-sg
 	fra	Michela	np-ant-f-sg	cat	Michela	np-ant-f-sg
 	fra	Michelangela	np-ant-f-sg	cat	Michelangela	np-ant-f-sg
@@ -43299,7 +43299,7 @@ LR	fra	Peronella	np-ant-f-sg	cat	Peronella	np-ant-f-sg$np
 	fra	Riham	np-ant-f-sg	cat	Riham	np-ant-f-sg$np-ant
 	fra	Rihanna	np-ant-f-sg	cat	Rihanna	np-ant-f-sg$np-ant
 	fra	Rim	np-ant-f-sg	cat	Rim	np-ant-f-sg$np-ant
-	fra	Rina	np$np-ant-f-sg$np-ant	cat	Rina	np-ant-f-sg
+	fra	Rina	np-ant-f-sg$np$np-ant	cat	Rina	np-ant-f-sg
 	fra	Riva	np-ant-f-sg	cat	Riva	np-ant-f-sg
 	fra	Riya	np-ant-f-sg	cat	Riya	np-ant-f-sg
 	fra	Roberta	np-ant-f-sg	cat	Roberta	np-ant-f-sg$
@@ -43589,7 +43589,7 @@ LR	fra	Peronella	np-ant-f-sg	cat	Peronella	np-ant-f-sg$np
 	fra	Sylvaine	np-ant-f-sg	cat	Sylvaine	np-ant-f-sg
 	fra	Sylvana	np-ant-f-sg	cat	Sylvana	np-ant-f-sg
 	fra	Sylvia	np-ant-f-sg	cat	Sylvia	np-ant-f-sg
-	fra	Sylviane	np-ant$np-ant-f-sg	cat	Sylviane	np-ant-f-sg
+	fra	Sylviane	np-ant-f-sg$np-ant	cat	Sylviane	np-ant-f-sg
 	fra	Sylvianne	np-ant-f-sg	cat	Sylvianne	np-ant-f-sg
 	fra	Sylvie	np-ant-f-sg$np$np-ant	cat	Sylvie	np-ant-f-sg
 	fra	Sylvina	np-ant-f-sg	cat	Sylvina	np-ant-f-sg
@@ -43953,7 +43953,7 @@ LR	fra	África	np-ant-f-sg	cat	África	np-ant-f-sg$np-ant
 	fra	Munich	np-top-m-sg$np	cat	Munic	np-top-m-sg$np-top-m
 	fra	Zurich	np$np-top-m-sg	cat	Zuric	np$np-top-m-sg$np-top
 	fra	Copenhague	np$np-top-m-sg	cat	Copenhaguen	np$np-top-m-sg
-	fra	Groenland	np-top-m-sg	cat	Groenlàndia	np-top-f-sg$np-top
+	fra	Groenland	np$np-top-m-sg$np-top	cat	Groenlàndia	np-top-f-sg$np-top
 	fra	Antarctique	np$np-top-m-sg	cat	Antàrtida	np-top-f-sg$np-top$np-top-f
 	fra	grand-rue	n-f	cat	carrer major	n-m
 	fra	grand-place	n-f	cat	plaça major	n-f
@@ -44004,7 +44004,7 @@ RL	fra	Semion	np-ant-m-sg	cat	Semen	np-ant-m-sg
 	fra	Hermann	np-ant-m-sg$np	cat	Hermann	np-ant-m-sg$np
 	fra	Yohann	np-ant-m-sg	cat	Yohann	np-ant-m-sg
 	fra	Tadée	np-ant-m-sg	cat	Tadée	np-ant-m-sg
-	fra	Matthias	np$np-ant-m-sg$np-ant	cat	Matthias	np-ant-m-sg
+	fra	Matthias	np-ant-m-sg$np$np-ant	cat	Matthias	np-ant-m-sg
 	fra	Emeric	np-ant-m-sg	cat	Emeric	np-ant-m-sg
 	fra	Rachida	np-ant-f-sg	cat	Rachida	np-ant-f-sg
 	fra	Laëtitia	np-ant-f-sg	cat	Laëtitia	np-ant-f-sg
@@ -44810,7 +44810,7 @@ LR	fra	bengalais	n	cat	bengalí	n$n-GD
 	fra	Hendrik	np-ant-m-sg	cat	Hendrik	np-ant-m-sg$np
 	fra	Hipòlit	np-ant-m-sg	cat	Hipòlit	np-ant-m-sg$np
 	fra	Hulk	np-ant-m-sg	cat	Hulk	np$np-ant-m-sg
-	fra	Kofi	np$np-ant-m-sg	cat	Kofi	np$np-ant-m-sg
+	fra	Kofi	np-ant-m-sg$np	cat	Kofi	np$np-ant-m-sg
 	fra	Merce	np-ant-f-sg	cat	Merce	np-ant$np-ant-f-sg
 	fra	Osama	np$np-ant-m-sg	cat	Osama	np-ant-m-sg$np$np-ant
 	fra	Pete	np-ant-m-sg	cat	Pete	np-ant-m-sg$np

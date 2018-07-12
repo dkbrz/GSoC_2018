@@ -12058,7 +12058,7 @@ LR	eng	candela	n	ita	candela	n$n-f
 LR	eng	codex	n	ita	codice	n-m$n
 	eng	jeep	n	ita	jeep	n-f-sp$n-f
 	eng	overdose	n$n-ND	ita	overdose	n-f
-	eng	clipper	n	ita	clipper	n-m
+	eng	clipper	n$n-pl	ita	clipper	n-m
 	eng	colon	n	ita	colon	n-m
 	eng	condor	n	ita	condor	n-m
 	eng	decoder	n	ita	decoder	n-m
@@ -12170,7 +12170,7 @@ RL	eng	rubbish	n$n-sg	ita	immondizia	n-f$n
 	eng	stall	n$n-sg	ita	fermata	n-f$n
 	eng	strip	n$n-ND	ita	nastro	n-m
 	eng	suspicion	n$n-ND	ita	sospetto	$n-m$n
-	eng	tape	n$n-ND	ita	nastro	n-m
+	eng	tape	n$n-pl	ita	nastro	n-m
 	eng	thinking	n$n-ND	ita	pensiero	n-m$n
 	eng	veil	n$n-ND	ita	velo	n-m$n
 	eng	abjection	n	ita	abiezione	n-f
@@ -12432,7 +12432,7 @@ RL	eng	rubbish	n$n-sg	ita	immondizia	n-f$n
 	eng	diary	n$n-ND	ita	agenda	n-f$n
 	eng	dilution	n	ita	annacquamento	n-m
 	eng	dioxide	n	ita	biossido	n-m
-	eng	dock	n$n-ND	ita	angiporto	n-m
+	eng	dock	n$n-pl	ita	angiporto	n-m
 	eng	dodgem	n	ita	autoscontro	n-m
 	eng	doll	n$n-sg	ita	bambolotto	n-m
 	eng	donkey	n$n-ND	ita	asino	n-m
@@ -14171,8 +14171,8 @@ LR	eng	bureau	n$n-ND	ita	agenzia	n-f$n
 	eng	burn	n$n-ND	ita	ustione	n-f$n
 	eng	burse	n	ita	borsa	n-f$n
 LR	eng	burst	n$n-ND	ita	esplosione	n-f$n
-LR	eng	bus	n$n-sg	ita	autobus	n-m-sp$n-m
-LR	eng	bus	n-pl	ita	autobus	n-m-sp$n-m
+LR	eng	bus	n-sg	ita	autobus	n-m-sp$n-m
+LR	eng	bus	n$n-pl	ita	autobus	n-m-sp$n-m
 RL	eng	bus	n-ND	ita	autobus	n-m-sp$n-m
 RL	eng	bus	n-ND	ita	pullman	n-m-sp$n-m
 LR	eng	business	n$n-unc	ita	affare	n-m$n
@@ -14202,7 +14202,7 @@ LR	eng	cablegram	n	ita	telegrafo	n-m
 	eng	caesura	n	ita	cesura	n-f
 	eng	caffeine	n$n-ND	ita	caffeina	n-f
 	eng	cage	n$n-ND	ita	gabbia	n-f$n
-	eng	cake	n$n-ND	ita	torta	n-f$n
+	eng	cake	n$n-pl	ita	torta	n-f$n
 RL	eng	calamity	n-ND	ita	calamità	n-f-sp$n-f
 LR	eng	calamity	n$n-sg	ita	calamità	n-f-sp$n-f
 LR	eng	calamity	n-pl	ita	calamità	n-f-sp$n-f
@@ -14337,7 +14337,7 @@ RL	eng	cashier	n$n-sg	ita	cassiere	n$n-GD
 	eng	cast	n	ita	stampo	n-m$n
 RL	eng	castilian	n	ita	castigliano	n$n-GD
 LR	eng	castilian	n	ita	castigliano	n$n-GD
-	eng	casting	n	ita	casting	n-m
+	eng	casting	n$n-pl	ita	casting	n-m
 	eng	castle	n$n-ND	ita	castello	n-m$n
 	eng	castration	n$n-ND	ita	castrazione	n$n-f
 LR	eng	cat	n$n-sg	ita	gatto	n-GD
@@ -14663,8 +14663,8 @@ LR	eng	cobweb	n$n-ND	ita	ragnatela	n-f$n
 	eng	mortal	n	ita	mortale	n$n-mf
 	eng	nomad	n	ita	nomade	n-mf
 	eng	cockroach	n	ita	blatta	n$n-f
-LR	eng	cocktail	n$n-sg	ita	cocktail	n-m-sp$n-m
-LR	eng	cocktail	n-pl	ita	cocktail	n-m-sp$n-m
+LR	eng	cocktail	n-sg	ita	cocktail	n-m-sp$n-m
+LR	eng	cocktail	n$n-pl	ita	cocktail	n-m-sp$n-m
 RL	eng	cocktail	n-ND	ita	cocktail	n-m-sp$n-m
 LR	eng	cod	n$n-sg	ita	baccalà	n-m-sp$n-m
 LR	eng	cod	n-pl	ita	baccalà	n-m-sp$n-m
@@ -14965,7 +14965,7 @@ LR	eng	convertibility	n-pl	ita	convertibilità	n-f-sp
 LR	eng	cook	n$n-ND	ita	cuoco	n$n-GD
 RL	eng	cook	n$n-ND	ita	cuoco	n$n-GD
 	eng	cooker	n	ita	cucina	n-f$n
-LR	eng	cookie	n	ita	biscotto	n-m
+LR	eng	cookie	n$n-pl	ita	biscotto	n-m
 LR	eng	cooking	n	ita	cucina	n-f$n
 	eng	cooperation	n$n-ND	ita	cooperazione	n$n-f
 	eng	cooperative	n$n-ND	ita	cooperativa	n-f$n
@@ -15086,7 +15086,7 @@ LR	eng	cover	n$n-ND	ita	coperta	n$n-f
 RL	eng	cover	n$n-ND	ita	copertina	n-f$n
 LR	eng	coverage	n$n-ND	ita	copertura	n-f$n
 	eng	cowshed	n	ita	stalla	n-f
-	eng	crab	n	ita	granchio	n-m$n
+	eng	crab	n$n-pl	ita	granchio	n-m$n
 	eng	crack	n$n-ND	ita	crepa	n-f$n
 	eng	craft	n$n-ND	ita	artigianato	n-m$n
 	eng	crag	n$n-ND	ita	dirupo	n-m
@@ -15127,7 +15127,7 @@ RL	eng	critic	n$n-ND	ita	critico	n$n-m
 	eng	criticism	n$n-ND	ita	critica	n-f$n
 	eng	crocodile	n	ita	coccodrillo	n-m$n
 	eng	croissant	n	ita	cornetto	n-m
-	eng	crop	n$n-ND	ita	raccolto	n-m$
+	eng	crop	n$n-pl	ita	raccolto	n-m$
 	eng	cross	n$n-ND	ita	croce	n-f$n
 RL	eng	cross	n$n-ND	ita	cross	n-m-sp$n-m
 	eng	crossing	n$n-ND	ita	attraversamento	n-m$n
@@ -15758,7 +15758,7 @@ RL	eng	ear	n-pl	ita	orecchio	n-m-pl
 LR	eng	earl	n$n-ND	ita	conte	n-GD
 RL	eng	earl	n$n-ND	ita	conte	n$n-m
 LR	eng	earnings	n$n-pl	ita	entrata	n-f$n$n-f-sg
-	eng	earring	n$n-sg	ita	orecchino	n-m$n
+	eng	earring	n$n-pl	ita	orecchino	n-m$n
 	eng	earth	n$n-ND	ita	terra	n-f$n$
 	eng	earthquake	n$n-ND	ita	terremoto	n-m$n
 RL	eng	earthquake	n$n-ND	ita	sisma	n$n-m
@@ -15924,7 +15924,7 @@ LR	eng	enemy	n$n-ND	ita	nemico	n-GD
 RL	eng	enemy	n$n-ND	ita	nemico	$n$n-m
 	eng	energy	n$n-ND	ita	energia	n-f$n
 LR	eng	engagement	n$n-ND	ita	compromesso	n-m$n$
-	eng	engine	n$n-ND	ita	motore	n$n-m$
+	eng	engine	n$n-pl	ita	motore	n$n-m$
 	eng	engineer	n$n-sg	ita	ingegnere	n-mf$n
 	eng	engineering	n$n-unc	ita	ingegneria	n-f$n
 	eng	enigma	n	ita	enigma	n-m$n
@@ -16661,7 +16661,7 @@ LR	eng	jar	n$n-ND	ita	vaso	n-m$n
 	eng	metalanguage	n	ita	metalinguaggio	n-m
 	eng	microfilament	n	ita	microfilamento	n-m
 	eng	micronucleus	n	ita	micronucleo	n-m
-	eng	millisecond	n	ita	millisecondo	n$n-m
+	eng	millisecond	n$n-pl	ita	millisecondo	n$n-m
 	eng	moan	n	ita	gemito	n-m
 	eng	mollusc	n	ita	mollusco	n-m
 	eng	monocle	n	ita	monocolo	n-m
@@ -16872,7 +16872,7 @@ LR	eng	gasoline	n$n-sg	ita	benzina	n$n-f
 	eng	gastronomy	n	ita	gastronomia	n-f$n
 	eng	gastroscopy	n	ita	gastroscopia	n-f
 	eng	gastrulation	n	ita	gastrulazione	n-f
-	eng	gate	n$n-ND	ita	paratoia	n$n-f
+	eng	gate	n$n-pl	ita	paratoia	n$n-f
 LR	eng	gateway	n$n-ND	ita	porta	n-f$n
 RL	eng	gay	n$n-ND	ita	gay	n-mf-sp$$n-mf
 LR	eng	gay	n-sg	ita	gay	n-mf-sp$$n-mf
@@ -16948,7 +16948,7 @@ RL	eng	glass	n$n-ND	ita	bicchiere	n$n-m
 	eng	glorification	n	ita	glorificazione	n-f
 	eng	glory	n$n-sg	ita	gloria	n-f$n
 	eng	glottochronology	n	ita	glottocronologia	n-f
-	eng	glove	n$n-ND	ita	guanto	n$n-m
+	eng	glove	n$n-pl	ita	guanto	n$n-m
 	eng	glow	n$n-ND	ita	fulgore	n-m$n
 	eng	deposit	n$n-sg	ita	giacimento	n-m$n
 	eng	glucose	n$n-sg	ita	glucosio	n-m
@@ -17004,7 +17004,7 @@ LR	eng	grandparent	n$n-pl	ita	nonno	n-GD
 	eng	granulation	n	ita	granulazione	n-f
 	eng	granulometry	n	ita	granulometria	n-f
 	eng	grape	n$n-pl	ita	uva	n-f$n
-LR	eng	graphics	n$n-ND	ita	grafico	n-m$n
+LR	eng	graphics	n$n-pl	ita	grafico	n-m$n
 	eng	graphology	n	ita	grafologia	n-f
 	eng	grass	n$n-sg	ita	erba	n-f$n
 LR	eng	grassland	n	ita	prateria	n-f$n
@@ -17112,7 +17112,7 @@ LR	eng	handicap	n-sg	ita	handicap	n-m-sp$n-m
 LR	eng	handicap	n-pl	ita	handicap	n-m-sp$n-m
 	eng	handkerchief	n$n-ND	ita	fazzoletto	n-m$n
 	eng	handle	n$n-sg	ita	maniglia	n-f
-	eng	handlebar	n	ita	manubrio	n-m$n
+	eng	handlebar	n$n-pl	ita	manubrio	n-m$n
 	eng	handwriting	n$n-ND	ita	grafia	n-f$n
 LR	eng	hangar	n$n-sg	ita	hangar	n-m-sp$n-m
 LR	eng	hangar	n-pl	ita	hangar	n-m-sp$n-m
@@ -17166,7 +17166,7 @@ LR	eng	hearing	n$$n-ND	ita	audizione	n-f$n
 RL	eng	heater	n	ita	riscaldatore	n$n-m
 	eng	heater	n	ita	scaldabagno	n-m$n
 	eng	heating	n	ita	riscaldamento	n-m$n
-	eng	heaven	n$n-ND	ita	cielo	n-m$n
+	eng	heaven	n$n-pl	ita	cielo	n-m$n
 	eng	hecatomb	n	ita	ecatombe	n$n-f
 	eng	hectare	n$n-ND	ita	ettaro	n-m$n
 	eng	hedgehog	n$n-sg	ita	riccio	n-m$n$
@@ -17802,7 +17802,7 @@ LR	eng	key	n$n-ND	ita	tono	n-m$n
 LR	eng	kid	n$n-ND	ita	bambino	n-GD
 LR	eng	kidnapper	n	ita	rapitore	n-GD
 RL	eng	kidnapper	n	ita	rapitore	n$n-m
-	eng	kidney	n$n-sg	ita	rene	n$n-m
+	eng	kidney	n$n-pl	ita	rene	n$n-m
 	eng	killing	n$n-ND	ita	assassinio	n-m$n
 RL	eng	killing	n$n-ND	ita	abbattimento	n-m
 	eng	kilo	n$n-ND	ita	chilo	n$n-m
@@ -17879,7 +17879,7 @@ RL	eng	lapsus	n$n-ND	ita	lapsus	n-m-sp$n-m
 LR	eng	lapsus	n-sg	ita	lapsus	n-m-sp$n-m
 LR	eng	lapsus	n-pl	ita	lapsus	n-m-sp$n-m
 	eng	lard	n	ita	strutto	n-m
-	eng	larva	n	ita	larva	n$n-f
+	eng	larva	n$n-pl	ita	larva	n$n-f
 LR	eng	laser	n-sg	ita	laser	n-m-sp$n-m
 LR	eng	laser	n-pl	ita	laser	n-m-sp$n-m
 RL	eng	laser	n$n-ND	ita	laser	n-m-sp$n-m
@@ -18372,7 +18372,7 @@ RL	eng	metropolis	n-ND	ita	metropoli	n-f-sp$n-f
 LR	eng	microorganism	n	ita	microrganismo	n$n-m
 	eng	microphone	n$n-ND	ita	microfono	n$n-m
 	eng	microscopy	n	ita	microscopia	n-f
-	eng	microsecond	n	ita	microsecondo	n-m
+	eng	microsecond	n$n-pl	ita	microsecondo	n-m
 	eng	microtubule	n	ita	microtubulo	n-m
 	eng	microwave	n$n-sg	ita	microonde	n-m-sp$n-m
 	eng	microwave oven	n$n-ND	ita	forno	n-m$n
@@ -18635,7 +18635,7 @@ RL	eng	narrator	n$n-ND	ita	narratore	n$n-GD
 	eng	nationalism	n$n-ND	ita	nazionalismo	n-m$n
 RL	eng	nationalist	n$n-ND	ita	nazionalista	n-m$n$n-mf-m
 LR	eng	nationalist	n$n-ND	ita	nazionalista	n-GD
-	eng	statesman	n	ita	statista	n-m$n
+	eng	statesman	n$n-pl	ita	statista	n-m$n
 	eng	stateswoman	n	ita	statista	n-f
 RL	eng	nationality	n$n-ND	ita	nazionalità	n-f-sp$n-f
 LR	eng	nationality	n-sg	ita	nazionalità	n-f-sp$n-f
@@ -18731,7 +18731,7 @@ RL	eng	normality	n$n-ND	ita	normalità	n-f-sp$n-f
 	eng	north	n$n-unc	ita	nord	n-m$n$
 	eng	nose	n$n-sg	ita	naso	n-m
 	eng	nostalgia	n$n-ND	ita	nostalgia	n-f$n
-	eng	nostril	n$n-sg	ita	narice	n-f$n
+	eng	nostril	n$n-pl	ita	narice	n-f$n
 LR	eng	notary	n$n-ND	ita	notaio	n-GD
 RL	eng	notary	n$n-ND	ita	notaio	n-m
 	eng	notation	n	ita	notazione	n$n-f
@@ -19306,7 +19306,7 @@ RL	eng	photographer	n$n-ND	ita	fotografo	n$n-m
 LR	eng	photography	n	ita	fotografia	n-f$n
 	eng	photometry	n	ita	fotometria	n-f
 	eng	photon	n$n-ND	ita	fotone	n$n-m
-	eng	phrase	n$n-ND	ita	frase	n-f$n
+	eng	phrase	n$n-pl	ita	frase	n-f$n
 	eng	phraseology	n	ita	fraseologia	n-f
 	eng	physicist	n$n-ND	ita	fisico	n-m$$n
 	eng	physics	n$n-unc	ita	fisica	n-f$n
@@ -19336,8 +19336,8 @@ RL	eng	pigeon	n	ita	piccione	n$n-m
 LR	eng	pigpen	n	ita	porcile	n-m
 	eng	pigsty	n$n-sg	ita	porcile	n-m
 	eng	pike	n$n-sg	ita	luccio	n-m$n
-LR	eng	pile	n$n-ND	ita	pila	n-f$n
-RL	eng	pile	n$n-ND	ita	mucchio	n-m$n
+LR	eng	pile	n$n-pl	ita	pila	n-f$n
+RL	eng	pile	n$n-pl	ita	mucchio	n-m$n
 	eng	pilgrimage	n	ita	pellegrinaggio	n-m
 	eng	pillar	n$n-sg	ita	pilastro	n-m$n
 RL	eng	pilot	n$n-ND	ita	pilota	n-m$n$$n-mf-m
@@ -20183,7 +20183,7 @@ LR	eng	result	n$n-ND	ita	risultato	n-m$n
 LR	eng	resumption	n	ita	rielaborazione	n$n-f
 	eng	resurrection	n$n-ND	ita	resurrezione	n$n-f
 RL	eng	resurrection	n$n-ND	ita	risurrezione	n$n-f
-	eng	retina	n$n-ND	ita	retina	n$n-f
+	eng	retina	n$n-pl	ita	retina	n$n-f
 	eng	retinopathy	n	ita	retinopatia	n-f
 LR	eng	retirement	n$n-ND	ita	pensione	n-f$n
 LR	eng	retort	n$n-ND	ita	replicazione	n$n-f
@@ -20334,7 +20334,7 @@ LR	eng	salinity	n-pl	ita	salinità	n-f-sp
 	eng	sanatorium	n	ita	sanatorio	n$n-m
 	eng	sanction	n$n-ND	ita	sanzione	n-f$n
 	eng	sand	n$n-ND	ita	sabbia	n$n-f
-	eng	sandal	n	ita	sandalo	n-m$n
+	eng	sandal	n$n-pl	ita	sandalo	n-m$n
 RL	eng	sandwich	n$n-ND	ita	sandwich	n-m-sp$n-m
 LR	eng	sandwich	n-sg	ita	sandwich	n-m-sp$n-m
 LR	eng	sandwich	n-pl	ita	sandwich	n-m-sp$n-m
@@ -20405,8 +20405,8 @@ RL	eng	scorer	n	ita	marcatore	n$n-m
 LR	eng	scream	n-sg	ita	grido	n-m-sg$n-m
 LR	eng	scream	n-pl	ita	grido	n-f-pl
 LR	eng	screen	n$n-ND	ita	schermo	n-m$n
-LR	eng	screening	n$n-ND	ita	esplorazione	n-f$n
-	eng	screw	n	ita	vite	n-f$n
+LR	eng	screening	n$n-pl	ita	esplorazione	n-f$n
+	eng	screw	n$n-pl	ita	vite	n-f$n
 	eng	vine	n	ita	vite	n-f$n
 	eng	screwdriver	n	ita	cacciavite	n-m$n
 	eng	script	n$n-sg	ita	sceneggiatura	n-f
@@ -20637,8 +20637,8 @@ LR	eng	site	n$n-ND	ita	posto	n-m$n
 LR	eng	size	n$n-ND	ita	misura	n-f$n
 	eng	skating	n	ita	pattinaggio	n$n-m
 	eng	skeleton	n	ita	scheletro	n-m$n
-LR	eng	ski	n$n-sg	ita	sci	n-m-sp$n-m$n
-LR	eng	ski	n-pl	ita	sci	n-m-sp$n-m$n
+LR	eng	ski	n-sg	ita	sci	n-m-sp$n-m$n
+LR	eng	ski	n$n-pl	ita	sci	n-m-sp$n-m$n
 RL	eng	ski	n-ND	ita	sci	n-m-sp$n-m$n
 LR	eng	skier	n	ita	sciatore	n$n-GD
 RL	eng	skier	n	ita	sciatore	n$n-GD
@@ -22256,7 +22256,7 @@ LR	eng	haste	n$n-ND	ita	fretta	n-f
 	eng	jay	n	ita	ghiandaia	n-f
 	eng	jersey	n	ita	maglia	n-f$n
 	eng	kindness	n$n-sg	ita	gentilezza	n-f$n
-	eng	knuckle	n	ita	nocca	n-f
+	eng	knuckle	n$n-pl	ita	nocca	n-f
 	eng	landslide	n$n-ND	ita	frana	n-f
 	eng	lark	n	ita	allodola	n-f
 	eng	latrine	n	ita	latrina	n-f
@@ -22501,7 +22501,7 @@ LR	eng	versatility	n-sg	ita	versatilità	n-f-sp$n-f
 LR	eng	versatility	n-pl	ita	versatilità	n-f-sp$n-f
 	eng	verse	n$n-sg	ita	verso	n-m$n
 	eng	version	n$n-ND	ita	versione	n-f$n
-	eng	vertebra	n$n-sg	ita	vertebra	n$n-f
+	eng	vertebra	n$n-pl	ita	vertebra	n$n-f
 LR	eng	vertex	n	ita	vertice	n-m$n
 	eng	vesicle	n	ita	vescicola	n-f
 LR	eng	vessel	n$n-ND	ita	barca	n-f$n
@@ -22869,7 +22869,7 @@ LR	eng	confrerie	n	ita	confraternita	n-f
 	eng	derailment	n	ita	deragliamento	n-m
 	eng	detachment	n	ita	distaccamento	n-m
 	eng	zarzuela	n	ita	zarzuela	n-f-sp$n-f
-	eng	zebra	n$n-ND	ita	zebra	n-f$n
+	eng	zebra	n	ita	zebra	n-f$n
 	eng	zero	n$$n-ND	ita	zero	n-m$n$
 	eng	zinc	n$n-sg	ita	zinco	n$n-m
 	eng	zither	n	ita	cetra	n-f
@@ -23085,7 +23085,7 @@ LR	eng	proper name	n	ita	nome proprio	n-m
 	eng	cobbler	n	ita	ciabattino	n-m
 	eng	codefendant	n	ita	coimputato	n-m
 	eng	coefficient	n$n-ND	ita	coefficente	n-m
-	eng	coffer	n	ita	cofano	n-m
+	eng	coffer	n$n-pl	ita	cofano	n-m
 	eng	cofounder	n	ita	cofondatore	n-m
 	eng	cohabitant	n	ita	convivente	n-mf$n
 	eng	Coleoptera	n	ita	coleottero	n-m
@@ -27567,7 +27567,7 @@ LR	eng	yoghourt	n	ita	yogurt	n-m-sp$n-m
 	eng	jug	n$n-ND	ita	brocca	n-f
 	eng	salad	n	ita	insalata	n-f
 	eng	steak	n	ita	bistecca	n-f
-	eng	pea	n$n-sg	ita	pisello	n-m
+	eng	pea	n$n-pl	ita	pisello	n-m
 	eng	carrot	n$n-sg	ita	carota	n-f$n
 	eng	tomato	n$n-sg	ita	pomodoro	n-m$n
 	eng	bean	n$n-ND	ita	fagiolo	n-m
@@ -28264,7 +28264,7 @@ LR	eng	stuttering	n	ita	balbuzie	n-f
 	eng	melisma	n	ita	melisma	n-m
 	eng	microcontroller	n	ita	microcontrollore	n-m
 	eng	microprocessor	n	ita	microprocessore	n-m
-	eng	mineral	n$n-ND	ita	minerale	n-m
+	eng	mineral	n$n-pl	ita	minerale	n-m
 	eng	moped	n	ita	ciclomotore	n-m
 	eng	nucleotide	n	ita	nucleotide	n-m
 	eng	opal	n	ita	opale	n-m

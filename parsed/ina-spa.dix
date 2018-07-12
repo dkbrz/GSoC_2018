@@ -37,7 +37,7 @@
 	ina	demon	n	spa	demonio	n$n-m$n-m-ND
 	ina	festa	n	spa	fiesta	n$n-f$n-f-sg
 	ina	gesto	n	spa	gesto	n$n-m$n-m-ND
-	ina	mundo	n	spa	mundo	n$n-m$n-m-sg
+	ina	mundo	n	spa	mundo	n-m$n$n-m-sg
 	ina	accordo	n	spa	acuerdo	n-m$n$n-m-sg
 	ina	dama	n	spa	dama	n$n-f$n-f-ND
 	ina	libro	n	spa	libro	n-m$n$n-m-sg
@@ -196,7 +196,7 @@
 	ina	aggression	n	spa	agresividad	n$n-f$n-f-ND
 	ina	attacco	n	spa	agresión	n$n-f$n-f-sg
 	ina	aggressor	n	spa	agresor	n$n-m-sg$n-m
-	ina	agricola	n	spa	agricultor	n$n-m-sg$n-m
+	ina	agricola	n	spa	agricultor	n$n-m$n-m-sg
 	ina	agricultura	n	spa	agricultura	n-f$n$n-f-sg
 	ina	area	n	spa	agrimensura	n$n-f
 	ina	pedologia	n	spa	agrología	n$n-f
@@ -312,7 +312,7 @@
 	ina	tapete	n	spa	alfombrilla	n$n-f
 	ina	polygono	n	spa	alforfón	n-m$n
 	ina	tabula	n	spa	alféizar	n-m$n
-	ina	alga	n	spa	alga	n$n-f
+	ina	alga	n	spa	alga	n-f$n
 	ina	dialecto	n	spa	algarabía	n$n-f
 	ina	locusta	n	spa	algarroba	n-f$n
 	ina	ruito	n	spa	algazara	n$n-f
@@ -364,7 +364,7 @@
 	ina	prandio	n	spa	almorzo	n-f
 	ina	sirop	n	spa	almíbar	n-m$n
 	ina	speech	n	spa	alocución	n$n-f
-	ina	appartamento	n	spa	alojamiento	n$n-m$n-m-sg
+	ina	appartamento	n	spa	alojamiento	n-m$n$n-m-sg
 	ina	aloda	n	spa	alondra	n-f$n
 	ina	dermatologia	n	spa	alopecia	n-f$n
 	ina	alpinismo	n	spa	alpinismo	n-m$n
@@ -740,7 +740,7 @@
 	ina	aristocrate	n	spa	aristócrata	n-m
 	ina	arithmetica	n	spa	aritmética	n$n-f$n-f-ND
 	ina	arlequin	n	spa	arlequín	n-m$n
-	ina	arma	n	spa	arma	n$n-f$n-f-sg
+	ina	arma	n	spa	arma	n-f$n$n-f-sg
 	ina	armatura	n	spa	armadura	n$n-f
 	ina	arma	n	spa	armamento	n-m$n$n-m-sg
 	ina	armario	n	spa	armario	n-m$n$n-m-sg
@@ -1012,7 +1012,7 @@
 	ina	adjuta	n	spa	auxilio	n$n-m
 	ina	aval	n	spa	aval	n$n-m
 	ina	bono	n	spa	avalador	n$n-m
-	ina	avalanche	n	spa	avalancha	n-f$n
+	ina	avalanche	n	spa	avalancha	n$n-f
 	ina	evalutation	n	spa	avalúo	n$n-m
 	ina	progresso	n	spa	avance	n$n-m$n-m-ND
 	ina	cupiditate	n	spa	avaricia	n$n-f
@@ -1050,7 +1050,7 @@
 	ina	abstinentia	n	spa	ayuno	n$n-m
 	ina	provincia	n	spa	ayuntamiento	n$n-m$n-m-ND
 	ina	gagate	n	spa	azabache	n-m$n
-	ina	pala	n	spa	azada	n$n-f
+	ina	pala	n	spa	azada	n-f$n
 	ina	hostessa	n	spa	azafata	n-f$n
 	ina	safran	n	spa	azafrán	n$n-m
 	ina	flor	n	spa	azahar	n-m$n
@@ -1176,7 +1176,7 @@
 	ina	brun	n	spa	barbo	n-m$n
 	ina	murmure	n	spa	barboteo	n$n-m
 	ina	lapso	n	spa	barbotina	n$n-f
-	ina	barca	n	spa	barca	n$n-f$n-f-ND
+	ina	barca	n	spa	barca	n-f$n$n-f-ND
 	ina	barcarola	n	spa	barcarola	n-f$n
 	ina	barca	n	spa	barcaza	n$n-f
 	ina	barca	n	spa	barco	n-m$n$n-m-sg
@@ -1599,7 +1599,7 @@
 	ina	mentir	vblex	spa	mentir	vblex
 	ina	reguardar	vblex	spa	mirar	vblex$vblex-vbact
 	ina	molliar	vblex	spa	mojar	vblex
-	ina	mover	vblex	spa	mover	vblex
+	ina	mover	vblex	spa	mover	vblex$vblex-pron
 	ina	navigar	vblex	spa	navegar	vblex
 	ina	negar	vblex	spa	negar	vblex
 	ina	neutralisar	vblex	spa	neutralizar	vblex
@@ -1619,7 +1619,7 @@
 	ina	ambular	vblex	spa	pasear	vblex
 	ina	patinar	vblex	spa	patinar	vblex
 	ina	demandar	vblex	spa	pedir	vblex
-	ina	glutinar	vblex	spa	pegar	vblex
+	ina	glutinar	vblex	spa	pegar	vblex$vblex-pron
 	ina	pectinar	vblex	spa	peinar	vblex
 LR	ina	avisar	vblex	spa	pensar	vblex$vblex-vbact
 	ina	perciper	vblex	spa	percibir	vblex
@@ -1730,11 +1730,11 @@ RL	ina	le	det-def-sp$det	spa	el	det-def-f-pl
 LR	ina	le	det-def-sp$det	spa	el	det-def-nd-gd
 	ina	certe	adj	spa	cierto	adj$adj-GD-ND
 	ina	duo	num	spa	dos	num$num-mf$num-mf-sp$
-	ina	tres	num	spa	tres	num$$num-mf-sp
+	ina	tres	num	spa	tres	num$num-mf-sp$
 	ina	quatro	num	spa	cuatro	num$$num-mf-sp
 	ina	cinque	num	spa	cinco	num$num-mf-sp$
 	ina	sex	num	spa	seis	num$num-mf-sp$
 	ina	septe	num	spa	siete	num$$num-mf-sp
 	ina	octo	num	spa	ocho	num$$num-mf-sp
 	ina	nove	num	spa	nueve	num$$num-mf-sp
-	ina	dece	num	spa	diez	num$num-mf$$num-mf-sp
+	ina	dece	num	spa	diez	num$num-mf$num-mf-sp$

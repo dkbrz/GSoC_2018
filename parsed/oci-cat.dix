@@ -213,7 +213,7 @@ LR	oci	Lourdes	np	cat	Lorda	np$np-loc
 	oci	elevar	vblex	cat	elevar	vblex
 	oci	Opentrad	np	cat	Opentrad	np$np-al-m-sg
 	oci	Transducens	np	cat	Transducens	np$np-al-m-sg
-	oci	BBVA	n	cat	BBVA	n$n-acr-m
+	oci	BBVA	n$n-acr-m	cat	BBVA	n$n-acr-m
 	oci	CAEI	n$n-acr	cat	CAEI	n
 	oci	IRPF	n	cat	IRPF	n$n-acr-m-sp$n-acr-m
 	oci	ATS	n	cat	ATS	n$n-acr-mf
@@ -753,16 +753,16 @@ LR	oci	lo nòstre	prn$prn-tn-pos-f-sg	cat	el nostre	prn$prn-tn$prn-tn-pos$prn-tn
 	oci	lo nòstre	prn$prn-tn-pos-f-sg	cat	el nostre	prn$prn-tn$prn-tn-pos$prn-tn-pos-f-sg
 LR	oci	lo vòstre	prn$prn-tn-pos-f-sg	cat	el vostre	prn$prn-tn$prn-tn-pos$prn-tn-pos-f-sg
 	oci	lo vòstre	prn$prn-tn-pos-f-sg	cat	el vostre	prn$prn-tn$prn-tn-pos$prn-tn-pos-f-sg
-LR	oci	lo mieu	det$det-pos-f	cat	el meu	det$det-pos$det-pos-GD$det-pos-GD-ND
-	oci	lo mieu	det$det-pos-f	cat	el meu	det$det-pos$det-pos-GD$det-pos-GD-ND
-LR	oci	lo tieu	det$det-pos-f	cat	el teu	det-pos$det$det-pos-GD$det-pos-GD-pl
-	oci	lo tieu	det$det-pos-f	cat	el teu	det-pos$det$det-pos-GD$det-pos-GD-pl
-LR	oci	lo sieu	det$det-pos-f	cat	el seu	det-pos$det$det-pos-GD$det-pos-GD-ND
-	oci	lo sieu	det$det-pos-f	cat	el seu	det-pos$det$det-pos-GD$det-pos-GD-ND
-LR	oci	lo nòstre	det	cat	el nostre	det$det-pos$det-pos-GD$det-pos-GD-ND
-	oci	lo nòstre	det	cat	el nostre	det$det-pos$det-pos-GD$det-pos-GD-ND
-LR	oci	lo vòstre	det	cat	el vostre	det$det-pos$det-pos-GD$det-pos-GD-ND
-	oci	lo vòstre	det	cat	el vostre	det$det-pos$det-pos-GD$det-pos-GD-ND
+LR	oci	lo mieu	det$det-pos-f$det-pos-f-sg	cat	el meu	det$det-pos$det-pos-GD$det-pos-GD-ND
+	oci	lo mieu	det$det-pos-f$det-pos-f-sg	cat	el meu	det$det-pos$det-pos-GD$det-pos-GD-ND
+LR	oci	lo tieu	det$det-pos-f$det-pos-f-sg	cat	el teu	det-pos$det$det-pos-GD$det-pos-GD-pl
+	oci	lo tieu	det$det-pos-f$det-pos-f-sg	cat	el teu	det-pos$det$det-pos-GD$det-pos-GD-pl
+LR	oci	lo sieu	det$det-pos-f$det-pos-f-sg	cat	el seu	det-pos$det$det-pos-GD$det-pos-GD-ND
+	oci	lo sieu	det$det-pos-f$det-pos-f-sg	cat	el seu	det-pos$det$det-pos-GD$det-pos-GD-ND
+LR	oci	lo nòstre	det$det-pos	cat	el nostre	det$det-pos$det-pos-GD$det-pos-GD-ND
+	oci	lo nòstre	det$det-pos	cat	el nostre	det$det-pos$det-pos-GD$det-pos-GD-ND
+LR	oci	lo vòstre	det$det-pos	cat	el vostre	det$det-pos$det-pos-GD$det-pos-GD-ND
+	oci	lo vòstre	det$det-pos	cat	el vostre	det$det-pos$det-pos-GD$det-pos-GD-ND
 LR	oci	nosautres	prn-tn-p1-m$prn$prn-tn-p1	cat	nosaltres	prn-tn-p1-mf$prn-tn$prn-tn-p1-mf-pl$prn
 LR	oci	nosautres	prn-tn-p1-m$prn$prn-tn-p1	cat	nosaltres	prn-tn-p1-mf$prn-tn$prn-tn-p1-mf-pl$prn
 LR	oci	nosautres	prn-tn-p1-f	cat	nosaltres	prn-tn-p1-mf$prn-tn$prn-tn-p1-mf-pl$prn
@@ -1120,8 +1120,8 @@ LR	oci	prepausa	n	cat	proposta	n$n-f
 	oci	prepausa	n	cat	proposta	n$n-f
 LR	oci	proposicion	n$n-f	cat	proposta	n$n-f
 	oci	proposicion	n$n-f	cat	proposta	n$n-f
-LR	oci	preconizacion	n	cat	proposta	n$n-f
-RL	oci	preconizacion	n	cat	preconització	n
+LR	oci	preconizacion	n$n-f	cat	proposta	n$n-f
+RL	oci	preconizacion	n$n-f	cat	preconització	n
 LR	oci	propòsta	n$n-f	cat	proposta	n$n-f
 	oci	trebuc	n-m$n	cat	entrebanc	n-m$n
 	oci	çò de mès	detnt	cat	el més	detnt
@@ -1132,7 +1132,7 @@ LR	oci	era Seu d'Urgelh	np	cat	la Seu d'Urgell	np$np-loc
 	oci	era Seu d'Urgelh	np	cat	la Seu d'Urgell	np$np-loc
 LR	oci	la Seu d'Urgelh	np	cat	la Seu d'Urgell	np$np-loc
 	oci	la Seu d'Urgelh	np	cat	la Seu d'Urgell	np$np-loc
-LR	oci	Urgell	np$np-cog-mf-sp	cat	Urgell	np$np-cog-mf-sp$
+LR	oci	Urgell	np$np-ant-f-sg	cat	Urgell	np$np-cog-mf-sp$
 	oci	Lengadòc	np$np-top-m-sg	cat	Llenguadoc	np$np-loc-m$np-loc
 LR	oci	Languadòc	np	cat	Llenguadoc	np$np-loc-m$np-loc
 	oci	Vetula	np	cat	Vetula	np$np-top
@@ -1933,7 +1933,7 @@ LR	oci	araiguan	adv	cat	l'any passat	adv
 	oci	passat	n$n-m	cat	passat	n-m$n
 	oci	edat	n$n-f	cat	edat	n-f$n$n-f-sg
 LR	oci	atge	n$n-m	cat	edat	n-f$n$n-f-sg
-	oci	prodigi	n	cat	prodigi	n$n-m
+	oci	prodigi	n$n-m	cat	prodigi	n$n-m
 	oci	escandalós	adj	cat	escandalós	adj$
 	oci	anivelament	n	cat	anivellament	n-m$n
 LR	oci	creishement	n	cat	creixement	n-m$n
@@ -1965,7 +1965,7 @@ LR	oci	a excepcion de	pr	cat	excepte	pr
 LR	oci	present	adj-m$adj	cat	present	adj$adj-mf$
 LR	oci	present	adj-f	cat	present	adj$adj-mf$
 RL	oci	present	adj-GD	cat	present	adj$adj-mf$
-	oci	castelhan	n$n-m	cat	castellà	n$n-m$n-m-pl
+	oci	castelhan	n	cat	castellà	n$n-m$n-m-pl
 	oci	castelhan	adj	cat	castellà	adj
 	oci	adequat	adj$adj-GD	cat	adequat	adj$
 LR	oci	adeqüat	adj	cat	adequat	adj$
@@ -2102,7 +2102,7 @@ LR	oci	fin	n-m	cat	final	n-m$n$
 LR	oci	environament	n$n-m	cat	entorn	n-m$n$n-m-pl
 LR	oci	environ	n$n-m	cat	entorn	n-m$n$n-m-pl
 RL	oci	environ	n$n-m	cat	voltant	n-m$n
-	oci	odissèa	n	cat	odissea	n$n-f
+	oci	odissèa	n$n-f	cat	odissea	n$n-f
 LR	oci	peth maitin	adv	cat	al matí	adv
 	oci	peth maitin	adv	cat	al matí	adv
 RL	oci	lo matin	adv	cat	al matí	adv
@@ -4359,7 +4359,7 @@ LR	oci	pèl	n$n-f	cat	pell	n-f$n
 LR	oci	repercusion	n	cat	repercussió	n-f$n
 	oci	repoblacion	n	cat	repoblació	n-f$n
 	oci	representativitat	n$n-f	cat	representativitat	n-f$n
-	oci	requalificacion	n	cat	requalificació	n-f$n
+	oci	requalificacion	n$n-f	cat	requalificació	n-f$n
 	oci	sang	n$n-f	cat	sang	n-f$n
 	oci	sensibilitat	n$n-f	cat	sensibilitat	n-f$n
 	oci	sentor	n-f$n	cat	sentor	n-f$n
@@ -4735,7 +4735,7 @@ LR	oci	recinte	n	cat	recinte	n-m$n
 LR	oci	encencha	n-f	cat	recinte	n-m$n
 	oci	encencha	n-f	cat	recinte	n-m$n
 	oci	reencontre	n	cat	rencontre	n
-	oci	reequilibri	n	cat	reequilibri	n$n-m
+	oci	reequilibri	n$n-m	cat	reequilibri	n$n-m
 	oci	reflèxe	n$n-m	cat	reflex	n-m$n
 	oci	relèu	n$n-m	cat	relleu	n-m$n
 	oci	remontador	n	cat	remuntador	n
@@ -4751,7 +4751,7 @@ LR	oci	repartiment	n$n-m	cat	repartiment	n-m$n
 	oci	retaule	n$n-m	cat	retaule	n-m$n
 LR	oci	risque	n	cat	risc	n-m$n
 	oci	ritme	n$n-m	cat	ritme	n-m$n
-	oci	Ròc	np$np-ant-m-sg	cat	Ròc	np$np-ant-m-sg
+	oci	Ròc	np-ant-m-sg$np	cat	Ròc	np$np-ant-m-sg
 	oci	ròck	n$n-m	cat	rock	n$n-m-sg$n-m
 	oci	romieuatge	n-m$n	cat	romiatge	n-m$n
 	oci	rosèr	n	cat	roser	n$n-m
@@ -5229,7 +5229,7 @@ LR	oci	unanim	adj-f	cat	unànime	adj$adj-mf$
 RL	oci	unanim	adj-GD	cat	unànime	adj$adj-mf$
 	oci	agricultor	n	cat	agricultor	n$n-m
 	oci	artesan	adj	cat	artesà	adj$adj-GD
-LR	oci	aspirant	n-m	cat	aspirant	n-mf$n
+LR	oci	aspirant	n-m$n	cat	aspirant	n-mf$n
 LR	oci	aspirant	n-f	cat	aspirant	n-mf$n
 RL	oci	aspirant	n-GD	cat	aspirant	n-mf$n
 	oci	assessor	n	cat	assessor	n$n-m
@@ -5376,7 +5376,7 @@ RL	oci	amable	adj-GD	cat	amable	adj$adj-mf$
 LR	oci	inacceptable	adj$adj-m	cat	inacceptable	adj$adj-mf$
 LR	oci	inacceptable	adj-f	cat	inacceptable	adj$adj-mf$
 RL	oci	inacceptable	adj-GD	cat	inacceptable	adj$adj-mf$
-LR	oci	inagotable	adj-m	cat	inesgotable	adj$adj-mf$
+LR	oci	inagotable	adj$adj-m	cat	inesgotable	adj$adj-mf$
 LR	oci	inagotable	adj-f	cat	inesgotable	adj$adj-mf$
 RL	oci	inagotable	adj-GD	cat	inesgotable	adj$adj-mf$
 LR	oci	agotable	adj-m	cat	esgotable	adj-mf$
@@ -5390,8 +5390,8 @@ LR	oci	soletat	n$n-f	cat	solitud	n-f$n
 LR	oci	solesa	n$n-f	cat	solitud	n-f$n
 	oci	tenacitat	n$n-f	cat	tenacitat	n-f$n$n-f-ND
 	oci	non-conformisme	n	cat	inconformisme	n$n-m
-	oci	visat	n	cat	visat	n-m$n
-LR	oci	impensable	adj-m	cat	impensable	adj-mf$adj
+	oci	visat	n$n-m	cat	visat	n-m$n
+LR	oci	impensable	adj$adj-m	cat	impensable	adj-mf$adj
 LR	oci	impensable	adj-f	cat	impensable	adj-mf$adj
 RL	oci	impensable	adj-GD	cat	impensable	adj-mf$adj
 LR	oci	indobtable	adj$adj-m	cat	indubtable	adj$adj-mf$
@@ -5741,7 +5741,7 @@ LR	oci	deseme	n	cat	desembre	n$n-m
 LR	oci	decembre	n$n-m	cat	desembre	n$n-m
 	oci	decembre	n$n-m	cat	desembre	n$n-m
 LR	oci	desembre	n$n-m	cat	desembre	n$n-m
-	oci	corsa	n$n-f	cat	cursa	n-f$n
+	oci	corsa	n-f$n	cat	cursa	n-f$n
 	oci	avaloracion	n$n-f	cat	valoració	n-f$n
 	oci	camisard	n	cat	camisard	n
 LR	oci	representant	n-m$n	cat	representant	n-mf$n
@@ -6268,7 +6268,7 @@ LR	oci	extincion	n$n-f	cat	extinció	n-f$n
 	oci	frustracion	n$n-f	cat	frustració	n-f$n
 LR	oci	generalisacion	n$n-f	cat	generalització	n-f$n
 	oci	generalizacion	n$n-f	cat	generalització	n-f$n
-	oci	gradacion	n	cat	gradació	n-f$n
+	oci	gradacion	n$n-f	cat	gradació	n-f$n
 	oci	graduacion	n$n-f	cat	graduació	n-f$n
 	oci	illustracion	n$n-f	cat	il·lustració	n-f$n
 	oci	immigracion	n$n-f	cat	immigració	n-f$n
@@ -6312,7 +6312,7 @@ LR	oci	oficialisacion	n	cat	oficialització	n$n-f
 	oci	permutacion	n$n-f	cat	permutació	n-f$n
 	oci	persecucion	n$n-f	cat	persecució	n-f$n
 	oci	perturbacion	n$n-f	cat	perturbació	n
-	oci	potencializacion	n	cat	potencialització	n
+	oci	potencializacion	n$n-f	cat	potencialització	n
 	oci	prelacion	n	cat	prelació	n$n-f
 	oci	preposicion	n$n-f	cat	preposició	n-f$n
 	oci	pressumpcion	n$n-f	cat	pressumpció	n
@@ -6594,7 +6594,7 @@ LR	oci	classificacion	n$n-f	cat	classificació	n-f$n
 	oci	aportacion	n	cat	aportació	n-f$n
 	oci	aficion	n	cat	afició	n-f$n$n-f-sg
 	oci	administracion	n$n-f	cat	administració	n-f$n
-	oci	adeqüacion	n$n-f	cat	adequació	n-f$n
+	oci	adeqüacion	n	cat	adequació	n-f$n
 LR	oci	adequacion	n$n-f	cat	adequació	n-f$n
 	oci	adaptacion	n$n-f	cat	adaptació	n-f$n
 	oci	actualizacion	n$n-f	cat	actualització	n-f$n
@@ -6729,7 +6729,7 @@ LR	oci	matin	n$n-m	cat	matí	n-m$n
 LR	oci	reversible	adj$adj-m	cat	reversible	adj$adj-mf$
 LR	oci	reversible	adj-f	cat	reversible	adj$adj-mf$
 RL	oci	reversible	adj-GD	cat	reversible	adj$adj-mf$
-LR	oci	irreversible	adj-m	cat	irreversible	adj-mf$adj$
+LR	oci	irreversible	adj-m$adj	cat	irreversible	adj-mf$adj$
 LR	oci	irreversible	adj-f	cat	irreversible	adj-mf$adj$
 RL	oci	irreversible	adj-GD	cat	irreversible	adj-mf$adj$
 	oci	Can Brians	np	cat	Can Brians	np
@@ -8612,7 +8612,7 @@ LR	oci	entraïnament	n$n-m	cat	entrenament	n$n-m
 	oci	encoratjament	n$n-m	cat	encoratjament	n-m$n
 	oci	emplaçament	n$n-m	cat	emplaçament	n-m$n
 	oci	deteriorament	n$n-m	cat	deteriorament	n-m$n
-	oci	desdoblament	n	cat	desdoblament	n-m$n
+	oci	desdoblament	n$n-m	cat	desdoblament	n-m$n
 LR	oci	definitiuament	adv	cat	definitivament	adv
 LR	oci	definitiuaments	adv	cat	definitivament	adv
 	oci	definitiuaments	adv	cat	definitivament	adv
@@ -8709,7 +8709,7 @@ RL	oci	depenent	adj-m$adj	cat	addicte	adj$adj-m-sg
 LR	oci	coreferent	adj-m	cat	coreferent	adj-mf$adj
 LR	oci	coreferent	adj-f	cat	coreferent	adj-mf$adj
 RL	oci	coreferent	adj-GD	cat	coreferent	adj-mf$adj
-LR	oci	consistent	adj-m	cat	consistent	adj$adj-mf$
+LR	oci	consistent	adj-m$adj	cat	consistent	adj$adj-mf$
 LR	oci	consistent	adj-f	cat	consistent	adj$adj-mf$
 RL	oci	consistent	adj-GD	cat	consistent	adj$adj-mf$
 LR	oci	coerent	adj-m$adj	cat	coherent	adj$adj-mf$
@@ -9693,7 +9693,7 @@ LR	oci	sénher	n$n-m	cat	senyor	n$n-f
 LR	oci	monsen	n$n-m	cat	senyor	n$n-f
 LR	oci	dòna	n-f	cat	senyor	n$n-f
 	oci	senténcia	n$n-f	cat	sentència	n-f$n
-	oci	sociolingüistica	n	cat	sociolingüística	n-f$n$n-f-sg
+	oci	sociolingüistica	n$n-f	cat	sociolingüística	n-f$n$n-f-sg
 	oci	sociolingüistic	adj	cat	sociolingüístic	adj
 	oci	significatiu	adj	cat	significatiu	adj$
 LR	oci	sollicitant	n-m	cat	sol·licitant	n-mf$n$
@@ -10131,7 +10131,7 @@ RL	oci	sarrar	vblex	cat	acostar	vblex$vblex-pron
 	oci	ABC	np$np-al-m-sg	cat	ABC	np$np-al$np-al-m-sg
 	oci	Còria	np$np-loc	cat	Còria	np-top$np$np-top-f-sg
 	oci	Abellán	np$np-cog-mf-sp	cat	Abellán	np$$np-cog$np-cog-mf-sp
-	oci	Abel	np$np-cog-mf-sp	cat	Abel	np$np-ant-m-sg$$np-ant
+	oci	Abel	np$np-ant-m-sg	cat	Abel	np$np-ant-m-sg$$np-ant
 	oci	Jusèp	np$np-ant-m-sg	cat	Jusèp	np$np-cog-mf-sp
 	oci	Acebes	np-ant	cat	Acebes	np-ant$
 	oci	Acebo	np$np-cog-mf-sp	cat	Acebo	np$np-loc-f$
@@ -10149,7 +10149,7 @@ RL	oci	sarrar	vblex	cat	acostar	vblex$vblex-pron
 	oci	Adrià	np	cat	Adrià	np$np-ant-m-sg$np-ant$
 	oci	Aena	np-al	cat	Aena	np-al$np-al-f-sg
 	oci	Aguado	np$np-cog-mf-sp	cat	Aguado	np$$np-cog$np-cog-mf-sp
-	oci	Aran	np$np-cog-mf-sp	cat	Aran	$np$np-ant$np-ant-f-sg
+	oci	Aran	np$np-ant-f-sg	cat	Aran	$np$np-ant$np-ant-f-sg
 	oci	Bausen	np	cat	Bausen	np$np-loc-f
 	oci	Les	np	cat	Les	np$np-loc-f
 	oci	Canejan	np	cat	Canejan	np$np-top
@@ -10212,9 +10212,9 @@ RL	oci	Vielha	np	cat	Viella	np$np-top
 	oci	Almansa	np$np-cog-mf-sp	cat	Almansa	np$np-cog-mf-sp$
 	oci	Almería	np$np-cog-mf-sp	cat	Almería	np$np-ant
 	oci	Almodóvar	np$np-cog-mf-sp	cat	Almodóvar	np$$np-cog$np-cog-mf-sp
-	oci	Almudena	np	cat	Almudena	np$np-ant-f-sg$np-ant
+	oci	Almudena	np$np-ant-f-sg	cat	Almudena	np$np-ant-f-sg$np-ant
 	oci	Almunia	np$np-cog-mf-sp	cat	Almunia	np$$np-cog$np-cog-mf-sp
-	oci	Alonso	np$np-cog-mf-sp	cat	Alonso	np$$np-ant$np-ant-mf
+	oci	Alonso	np$np-ant-m-sg	cat	Alonso	np$$np-ant$np-ant-mf
 	oci	Alperi	np$np-cog-mf-sp	cat	Alperi	np$np-cog$np-cog-mf-sp
 	oci	Altea	np	cat	Altea	np$np-loc$np-loc-f
 	oci	Álvarez	np$np-cog-mf-sp	cat	Álvarez	np$$np-cog$np-cog-mf-sp
@@ -10296,12 +10296,12 @@ LR	oci	Barcelonès	np	cat	Barcelonès	np$np-top-m-sg
 	oci	Barea	np$np-cog-mf-sp	cat	Barea	np$$np-cog$np-cog-mf-sp
 	oci	Bartolomé	np$np-cog-mf-sp	cat	Bartolomé	np$np-ant-m-sg$
 	oci	Bartomeu	np$np-cog-mf-sp	cat	Bartomeu	np$np-ant-m-sg$np-ant
-	oci	Basilio	np	cat	Basilio	np$np-ant-m-sg
+	oci	Basilio	np$np-ant-m-sg	cat	Basilio	np$np-ant-m-sg
 	oci	Batasuna	np$np-al-f-sg	cat	Batasuna	np$np-al$np-al-f-sg
 	oci	Bautista	np$np-cog-mf-sp	cat	Bautista	np$np-ant-m-sg$
-	oci	Bea	np$np-cog-mf-sp	cat	Bea	np$np-ant-f-sg$np-ant
+	oci	Bea	np$np-ant-f-sg	cat	Bea	np$np-ant-f-sg$np-ant
 	oci	Beatles	np$np-al	cat	Beatles	np$np-al$np-al-m-pl
-	oci	Beatriz	np	cat	Beatriz	np$np-ant-f-sg$np-ant
+	oci	Beatriz	np$np-ant-f-sg	cat	Beatriz	np$np-ant-f-sg$np-ant
 	oci	Becerril	np$np-cog-mf-sp	cat	Becerril	np$$np-cog$np-cog-mf-sp
 	oci	Begoña	np	cat	Begoña	np$np-ant-f-sg$np-ant
 	oci	Beirut	np	cat	Beirut	np$np-loc$np-loc-m
@@ -10320,7 +10320,7 @@ LR	oci	Barcelonès	np	cat	Barcelonès	np$np-top-m-sg
 	oci	Benítez	np$np-cog-mf-sp	cat	Benítez	np$$np-cog$np-cog-mf-sp
 	oci	Benito	np$np-ant-m-sg	cat	Benito	np$np-ant-m-sg$
 	oci	Benjamin	np$np-ant-m-sg	cat	Benjamin	np$np-ant-m-sg
-	oci	Berenguer	np$np-cog-mf-sp	cat	Berenguer	np-ant-m-sg$np$$np-ant
+	oci	Berenguer	np$np-ant-m-sg	cat	Berenguer	np-ant-m-sg$np$$np-ant
 	oci	Berlanga	np$np-cog-mf-sp	cat	Berlanga	np$$np-ant$np-ant-mf
 	oci	Berlin	np$np-top-m-sg	cat	Berlín	np$np-loc$np-loc-m
 	oci	Bermejo	np$np-cog-mf-sp	cat	Bermejo	np$$np-cog$np-cog-mf-sp
@@ -10382,7 +10382,7 @@ LR	oci	Barcelonès	np	cat	Barcelonès	np$np-top-m-sg
 	oci	Calp	np	cat	Calp	np$np-top-m-sg
 	oci	Calvin	np$np-cog-mf-sp	cat	Calvin	np$np-ant-m-sg
 	oci	Camacho	np$np-cog-mf-sp	cat	Camacho	np$np-ant-mf$
-	oci	Camilo	np	cat	Camilo	np$np-ant-m-sg$np-ant
+	oci	Camilo	np$np-ant-m-sg	cat	Camilo	np$np-ant-m-sg$np-ant
 	oci	Campbell	np$np-cog-mf-sp	cat	Campbell	np$$np-ant$np-ant-mf
 	oci	Campillo	np$np-cog-mf-sp	cat	Campillo	np$$np-cog-mf-sp
 	oci	Camp	np$np-loc	cat	Camp	np$np-cog-mf-sp
@@ -10519,10 +10519,10 @@ LR	oci	Congo	np	cat	Congo	np$np-loc
 	oci	Eliseo	np	cat	Eliseo	np$np-ant-m-sg
 	oci	Elizabeth	np$np-ant-f-sg	cat	Elizabeth	np$np-ant-f-sg$np-ant
 	oci	Elsa	np$np-ant-f-sg	cat	Elsa	np$np-ant-f-sg$np-ant
-	oci	Elvira	np$np-cog-mf-sp	cat	Elvira	np$np-ant-f-sg$$np-ant
+	oci	Elvira	np$np-ant-f-sg	cat	Elvira	np$np-ant-f-sg$$np-ant
 	oci	Elvis	np$np-ant-m-sg	cat	Elvis	np$np-ant-m-sg
 	oci	Elx	np	cat	Elx	np$np-loc$np-loc-f
-	oci	Emiliano	np	cat	Emiliano	np$np-ant-m-sg
+	oci	Emiliano	np$np-ant-m-sg	cat	Emiliano	np$np-ant-m-sg
 	oci	Emilia	np$np-ant-f-sg	cat	Emilia	np$np-ant-f-sg$$np-ant
 	oci	Emilio	np$np-ant-m-sg	cat	Emilio	np$np-ant-m-sg$np-ant
 	oci	Encarnación	np$np-cog-mf-sp	cat	Encarnación	np-ant-f-sg$np$np-ant
@@ -10545,14 +10545,14 @@ LR	oci	Congo	np	cat	Congo	np$np-loc
 	oci	Esplugues	np	cat	Esplugues	np$np-loc$np-loc-f
 	oci	Esquerdo	np$np-cog-mf-sp	cat	Esquerdo	np$np-cog$np-cog-mf-sp
 	oci	Estanislao	np	cat	Estanislao	np$np-ant-m-sg
-	oci	Esteban	np$np-ant-m-sg	cat	Esteban	np$np-ant-m-sg$$np-ant
+	oci	Esteban	np-ant-m-sg$np	cat	Esteban	np$np-ant-m-sg$$np-ant
 	oci	Estefanía	np	cat	Estefanía	np$np-ant-f-sg$np-ant
 	oci	Esteve	np$np-ant-m-sg	cat	Esteve	np-ant-m-sg$np$np-ant$
 	oci	Estévez	np$np-cog-mf-sp	cat	Estévez	np$$np-ant$np-ant-mf
 	oci	Esther	np$np-ant-f-sg	cat	Esther	np$np-ant-f-sg$np-ant
 	oci	Estrada	np$np-cog-mf-sp	cat	Estrada	$np$np-ant-mf
 	oci	Estrasburg	np	cat	Estrasburg	np$np-loc$np-loc-m
-	oci	Eugenia	np	cat	Eugenia	np$np-ant-f-sg$$np-ant
+	oci	Eugenia	np$np-ant-f-sg	cat	Eugenia	np$np-ant-f-sg$$np-ant
 	oci	Eugenio	np$np-ant-m-sg	cat	Eugenio	np$np-ant-m-sg$np-ant
 	oci	Eusebio	np	cat	Eusebio	np$np-ant-m-sg$np-ant
 	oci	Euskadi	np$np-top-m-sg	cat	Euskadi	np$np-loc
@@ -10562,14 +10562,14 @@ LR	oci	Congo	np	cat	Congo	np$np-loc
 	oci	Fabra	np$np-cog-mf-sp	cat	Fabra	np$$np-cog$np-cog-mf-sp
 	oci	Fajardo	np$np-cog-mf-sp	cat	Fajardo	np$$np-cog-mf-sp
 	oci	Falcó	np$np-cog-mf-sp	cat	Falcó	$np$np-cog$np-cog-mf-sp
-	oci	Fátima	np	cat	Fátima	np$np-ant-f-sg$np-ant
+	oci	Fátima	np$np-ant-f-sg	cat	Fátima	np$np-ant-f-sg$np-ant
 	oci	Federico	np$np-ant-m-sg	cat	Federico	np$np-ant-m-sg
 	oci	Felipe	np$np-ant-m-sg	cat	Felipe	np$np-ant-m-sg$np-ant
 	oci	Felip	np$np-ant-m-sg	cat	Felip	np-ant-m-sg$np-ant$np$
 	oci	Feliu	np$np-cog-mf-sp	cat	Feliu	np$$np-cog$np-cog-mf-sp
 	oci	Félix	np$np-cog-mf-sp	cat	Félix	np$np-ant-m-sg$$np-ant
 	oci	Fermín	np	cat	Fermín	np$np-ant-m-sg
-	oci	Fernanda	np	cat	Fernanda	np$np-ant-f-sg
+	oci	Fernanda	np$np-ant-f-sg	cat	Fernanda	np$np-ant-f-sg
 	oci	Fernández	np$np-cog-mf-sp	cat	Fernández	np$$np-ant$np-ant-mf
 	oci	Fernando	np$np-ant-m-sg	cat	Fernando	np$np-ant$np-ant-m-sg$
 	oci	Ferrandis	np$np-cog-mf-sp	cat	Ferrandis	np$np-cog$np-cog-mf-sp
@@ -10594,7 +10594,7 @@ LR	oci	Congo	np	cat	Congo	np$np-loc
 	oci	Fort	np$np-cog-mf-sp	cat	Fort	$np$np-cog-mf-sp
 	oci	FP	np-al	cat	FP	np-al
 	oci	França	np$np-top-f-sg	cat	França	np$np-loc$np-loc-f
-	oci	Francesc	np	cat	Francesc	np-ant$np-ant-m-sg$np$
+	oci	Francesc	np$np-ant-m-sg	cat	Francesc	np-ant$np-ant-m-sg$np$
 	oci	Francisca	np	cat	Francisca	np$np-ant-f-sg$np-ant
 	oci	Francisco	np$np-ant-m-sg	cat	Francisco	np-ant$np$np-ant-m-sg$
 	oci	Frank	np$np-ant-m-sg	cat	Frank	np$np-ant-m-sg$$np-ant
@@ -10614,7 +10614,7 @@ LR	oci	Congo	np	cat	Congo	np$np-loc
 	oci	Gálvez	np$np-cog-mf-sp	cat	Gálvez	np$$np-cog$np-cog-mf-sp
 	oci	Gandia	np$np-cog-mf-sp	cat	Gandia	np$np-cog-mf-sp$
 	oci	Garcés	np$np-cog-mf-sp	cat	Garcés	np$$np-cog$np-cog-mf-sp
-	oci	Garcia	np$np-cog-mf-sp	cat	Garcia	np$np-loc$$np-loc-f
+	oci	Garcia	np$np-ant-m-sg	cat	Garcia	np$np-loc$$np-loc-f
 	oci	García	np$np-cog-mf-sp	cat	García	np$$np-ant$np-ant-mf
 	oci	Garcilaso	np$np-ant-m-sg	cat	Garcilaso	np$np-ant-m-sg
 	oci	Garci	np$np-cog-mf-sp	cat	Garci	np$np-cog$np-cog-mf-sp
@@ -10632,15 +10632,15 @@ LR	oci	Congo	np	cat	Congo	np$np-loc
 	oci	Gaudí	np-ant	cat	Gaudí	np-ant$
 	oci	Gavà	np	cat	Gavà	np$np-loc$np-loc-f
 	oci	Gema	np	cat	Gema	np$np-ant-f-sg$np-ant
-	oci	Gemma	np	cat	Gemma	np$np-ant-f-sg$np-ant
-	oci	Generalitat	np-al	cat	Generalitat	np-al$np$np-al-f-sg
+	oci	Gemma	np$np-ant-f-sg	cat	Gemma	np$np-ant-f-sg$np-ant
+	oci	Generalitat	np-al$np-al-f-sg	cat	Generalitat	np-al$np$np-al-f-sg
 	oci	George	np$np-ant-m-sg	cat	George	np$np-ant-m-sg$$np-ant
 	oci	Gerard	np$np-ant-m-sg	cat	Gerard	np$np-ant-m-sg$np-ant$
-	oci	Gerardo	np	cat	Gerardo	np$np-ant-m-sg
+	oci	Gerardo	np$np-ant-m-sg	cat	Gerardo	np$np-ant-m-sg
 	oci	Germán	np$np-cog-mf-sp	cat	Germán	np$np-ant-m-sg$np-ant
-	oci	Getafe	np	cat	Getafe	np$np-loc$np-loc-f
+	oci	Getafe	np$np-top-m-sg	cat	Getafe	np$np-loc$np-loc-f
 	oci	Gibraltar	np	cat	Gibraltar	np$np-loc$np-loc-m
-	oci	Gil	np$np-cog-mf-sp	cat	Gil	np$np-ant-m-sg$$np-ant
+	oci	Gil	np$np-ant-m-sg	cat	Gil	np$np-ant-m-sg$$np-ant
 	oci	Giménez	np$np-cog-mf-sp	cat	Giménez	np$$np-cog$np-cog-mf-sp
 	oci	Gimeno	np$np-cog-mf-sp	cat	Gimeno	np$$np-cog$np-cog-mf-sp
 	oci	Giner	np$np-cog-mf-sp	cat	Giner	np$$np-cog$np-cog-mf-sp
@@ -10650,7 +10650,7 @@ LR	oci	Congo	np	cat	Congo	np$np-loc
 	oci	Gómez	np$np-cog-mf-sp	cat	Gómez	np$$np-ant$np-ant-mf
 	oci	Gomis	np$np-cog-mf-sp	cat	Gomis	np$$np-cog$np-cog-mf-sp
 	oci	González	np$np-cog-mf-sp	cat	González	np$$np-ant$np-ant-mf
-	oci	Gonzalo	np$np-cog-mf-sp	cat	Gonzalo	np$np-ant-m-sg$$np-ant
+	oci	Gonzalo	np$np-ant-m-sg	cat	Gonzalo	np$np-ant-m-sg$$np-ant
 	oci	Google	np-al$np-al-m-sg	cat	Google	np-al$np-al-m-sg
 	oci	Gorka	np	cat	Gorka	np$np-ant-m-sg$$np-ant
 	oci	Goya	np$np-cog-mf-sp	cat	Goya	np$np-ant$
@@ -10661,20 +10661,20 @@ LR	oci	Congo	np	cat	Congo	np$np-loc
 	oci	Grècia	np$np-top-f-sg	cat	Grècia	np$np-loc$np-loc-f
 	oci	El Greco	np-ant$np-ant-m-sg	cat	El Greco	np-ant$np-ant-m-sg
 	oci	Greenpeace	np-al$np-al-f-sg	cat	Greenpeace	np-al$np-al-f-sg
-	oci	Gregorio	np$np-cog-mf-sp	cat	Gregorio	np-ant-m-sg$np$np-ant
+	oci	Gregorio	np$np-ant-m-sg	cat	Gregorio	np-ant-m-sg$np$np-ant
 	oci	Guadalajara	np$np-top-f-sg	cat	Guadalajara	np$np-loc$np-loc-f
-	oci	Guantánamo	np	cat	Guantánamo	np$np-top-m-sg
+	oci	Guantánamo	np$np-top-m-sg	cat	Guantánamo	np$np-top-m-sg
 	oci	Guardamar	np	cat	Guardamar	np$np-top-m-sg
 	oci	Guatemala	np$np-top-f-sg	cat	Guatemala	np$np-loc$np-loc-f
 	oci	Guerrero	np$np-al	cat	Guerrero	$np$np-ant-mf
 	oci	Guijarro	np$np-cog-mf-sp	cat	Guijarro	np$$np-cog-mf-sp
-	oci	Guillem	np$np-cog-mf-sp	cat	Guillem	np-ant-m-sg$np-ant$np$
+	oci	Guillem	np$np-ant-m-sg	cat	Guillem	np-ant-m-sg$np-ant$np$
 	oci	Guillena	np	cat	Guillena	np$np-loc-f
-	oci	Guillén	np$np-cog-mf-sp	cat	Guillén	np$$np-cog$np-cog-mf-sp
+	oci	Guillén	np$np-al	cat	Guillén	np$$np-cog$np-cog-mf-sp
 	oci	Guillermo	np$np-cog-mf-sp	cat	Guillermo	np$np-ant$np-ant-m-sg$
 	oci	Gustavo	np$np-ant-m-sg	cat	Gustavo	np$np-ant-m-sg
 	oci	Gutiérrez	np$np-cog-mf-sp	cat	Gutiérrez	np$$np-cog$np-cog-mf-sp
-	oci	Guzmán	np$np-cog-mf-sp	cat	Guzmán	np$np-ant-m-sg$
+	oci	Guzmán	np$np-ant-m-sg	cat	Guzmán	np$np-ant-m-sg$
 	oci	Haití	np$np-top-m-sg	cat	Haití	np$np-loc$np-loc-m
 	oci	Haro	np$np-cog-mf-sp	cat	Haro	np$$np-cog-mf-sp
 	oci	Harry	np$np-ant-m-sg	cat	Harry	np$np-ant-m-sg$$np-ant
@@ -10776,7 +10776,7 @@ LR	oci	Jesús	np$np-ant-m-sg	cat	Jesús	np$np-ant-m-sg$$np-ant
 	oci	Josué	np	cat	Josué	np$np-ant-m-sg$np-ant
 	oci	Josu	np	cat	Josu	np$np-ant-m-sg
 	oci	Jover	np$np-cog-mf-sp	cat	Jover	np$$np-cog$np-cog-mf-sp
-	oci	Juana	np	cat	Juana	np-ant-f-sg$np$np-ant
+	oci	Juana	np$np-ant-f-sg	cat	Juana	np-ant-f-sg$np$np-ant
 	oci	Juan	np$np-ant-m-sg	cat	Juan	np-ant$np$np-ant-m-sg$
 	oci	Juárez	np$np-cog-mf-sp	cat	Juárez	np$$np-ant$np-ant-mf
 	oci	Julián	np$np-cog-mf-sp	cat	Julián	np$np-ant-m-sg$$np-ant
@@ -10788,7 +10788,7 @@ LR	oci	Jesús	np$np-ant-m-sg	cat	Jesús	np$np-ant-m-sg$$np-ant
 	oci	Júpiter	np	cat	Júpiter	np$np-loc$np-loc-m
 	oci	Just	np$np-cog-mf-sp	cat	Just	np$np-cog$np-cog-mf-sp
 	oci	Karen	np$np-ant-f-sg	cat	Karen	np$np-ant-f-sg$np-ant
-	oci	Karina	np	cat	Karina	np$np-ant-f-sg$np-ant
+	oci	Karina	np$np-ant-f-sg	cat	Karina	np$np-ant-f-sg$np-ant
 	oci	Karl	np$np-ant-m-sg	cat	Karl	np$np-ant-m-sg$
 	oci	Kidman	np-ant	cat	Kidman	np-ant$
 	oci	Kim	np$np-ant-f-sg	cat	Kim	np$np-ant-f-sg$np-ant
@@ -10833,12 +10833,12 @@ LR	oci	Jesús	np$np-ant-m-sg	cat	Jesús	np$np-ant-m-sg$$np-ant
 	oci	Lorente	np$np-cog-mf-sp	cat	Lorente	np$$np-cog$np-cog-mf-sp
 	oci	Lorenzo	np$np-ant-m-sg	cat	Lorenzo	np$np-ant-m-sg$$np-ant
 	oci	Louis	np$np-ant-m-sg	cat	Louis	np$np-ant-m-sg$$np-ant
-	oci	Loyola	np$np-cog-mf-sp	cat	Loyola	np$np-ant
+	oci	Loyola	np$np-ant-f-sg	cat	Loyola	np$np-ant
 	oci	Lozano	np$np-cog-mf-sp	cat	Lozano	np$$np-cog$np-cog-mf-sp
 	oci	Lozoya	np$np-cog-mf-sp	cat	Lozoya	np$$np-ant
 	oci	Lucas	np$np-ant-m-sg	cat	Lucas	np$$np-ant$np-ant-m-sg
 	oci	Lucia	np$np-ant-f-sg	cat	Lucia	np$np-ant-f-sg$$np-ant
-	oci	Lucio	np$np-cog-mf-sp	cat	Lucio	np$np-ant-m-sg
+	oci	Lucio	np$np-ant-m-sg	cat	Lucio	np$np-ant-m-sg
 	oci	Luengo	np$np-cog-mf-sp	cat	Luengo	np$$np-cog$np-cog-mf-sp
 	oci	Lugo	np$np-cog-mf-sp	cat	Lugo	np$np-cog-mf-sp$
 	oci	Luisa	np$np-ant-f-sg	cat	Luisa	np$np-ant-f-sg$np-ant
@@ -10850,7 +10850,7 @@ LR	oci	Jesús	np$np-ant-m-sg	cat	Jesús	np$np-ant-m-sg$$np-ant
 	oci	Madrid	np$np-cog-mf-sp	cat	Madrid	np$$np-loc$np-loc-m
 	oci	Maestre	np$np-cog-mf-sp	cat	Maestre	np$$np-cog$np-cog-mf-sp
 	oci	Magdalena	np$np-ant-f-sg	cat	Magdalena	np$np-ant-f-sg$np-ant$
-	oci	Magda	np	cat	Magda	np$np-ant-f-sg$np-ant
+	oci	Magda	np$np-ant-f-sg	cat	Magda	np$np-ant-f-sg$np-ant
 	oci	Mahoma	np	cat	Mahoma	np$np-ant-m-sg$np-ant
 	oci	Maite	np	cat	Maite	np$np-ant-f-sg$np-ant
 	oci	Malabo	np	cat	Malabo	np$np-top-m-sg
@@ -10861,7 +10861,7 @@ LR	oci	Jesús	np$np-ant-m-sg	cat	Jesús	np$np-ant-m-sg$$np-ant
 	oci	Manacor	np	cat	Manacor	np$np-loc-f
 	oci	Manel	np	cat	Manel	np$np-ant-m-sg$np-ant$
 	oci	Manero	np$np-cog-mf-sp	cat	Manero	np$np-cog$np-cog-mf-sp
-	oci	Manolo	np	cat	Manolo	np$np-ant-m-sg$np-ant
+	oci	Manolo	np$np-ant-m-sg	cat	Manolo	np$np-ant-m-sg$np-ant
 	oci	Manresa	np$np-cog-mf-sp	cat	Manresa	np$np-cog-mf-sp$
 	oci	Manrique	np$np-cog-mf-sp	cat	Manrique	np$$np-cog$np-cog-mf-sp
 	oci	Manuela	np$np-ant-f-sg	cat	Manuela	np$np-ant-f-sg$$np-ant
@@ -10882,7 +10882,7 @@ LR	oci	Jesús	np$np-ant-m-sg	cat	Jesús	np$np-ant-m-sg$$np-ant
 	oci	Marín	np$np-cog-mf-sp	cat	Marín	np$$np-cog$np-cog-mf-sp
 	oci	Mari	np$np-ant-f-sg	cat	Mari	np$np-ant-f-sg$np-ant
 	oci	Mario	np$np-ant-m-sg	cat	Mario	np$np-ant$np-ant-m-sg$
-	oci	Marisa	np	cat	Marisa	np$np-ant-f-sg
+	oci	Marisa	np$np-ant-f-sg	cat	Marisa	np$np-ant-f-sg
 	oci	Marisol	np	cat	Marisol	np$np-ant-f-sg$np-ant
 	oci	Maroto	np$np-cog-mf-sp	cat	Maroto	np$$np-cog$np-cog-mf-sp
 	oci	Márquez	np$np-cog-mf-sp	cat	Márquez	np$$np-cog$np-cog-mf-sp
@@ -10924,7 +10924,7 @@ LR	oci	Jesús	np$np-ant-m-sg	cat	Jesús	np$np-ant-m-sg$$np-ant
 	oci	Microsoft	np$np-al-m-sg	cat	Microsoft	np$np-al$np-al-m-sg
 	oci	Miguel	np$np-ant-m-sg	cat	Miguel	np$np-ant$np-ant-m-sg$
 	oci	Mikel	np$np-ant-m-sg	cat	Mikel	np$np-ant-m-sg$np-ant
-	oci	Mila	np	cat	Mila	np$np-ant-f-sg$np-ant
+	oci	Mila	np$np-ant-f-sg	cat	Mila	np$np-ant-f-sg$np-ant
 	oci	Milá	np-ant	cat	Milá	np-ant$np-ant-f-sg$
 	oci	Milà	np$np-al	cat	Milà	np$np-top$np-top-m-sg$$np-top-m
 	oci	Milena	np	cat	Milena	np$np-ant-f-sg$$np-ant
@@ -11036,7 +11036,7 @@ LR	oci	Noruega	np	cat	Noruega	np$np-loc$np-loc-f
 	oci	libanés	n	cat	libanès	n$n-GD$
 LR	oci	Pallars	np	cat	Pallars	np$np-loc$np-loc-f
 	oci	Palmera	np	cat	Palmera	np$np-loc-f
-	oci	Paloma	np$np-cog-mf-sp	cat	Paloma	np$np-ant-f-sg$np-ant
+	oci	Paloma	np$np-ant-f-sg	cat	Paloma	np$np-ant-f-sg$np-ant
 	oci	Palomares	np$np-cog-mf-sp	cat	Palomares	np$$np-cog-mf-sp
 	oci	Pamplona	np$np-cog-mf-sp	cat	Pamplona	np$np-loc$$np-loc-f
 	oci	Panza	np$np-cog-mf-sp	cat	Panza	np$$np-cog$np-cog-mf-sp
@@ -11103,12 +11103,12 @@ LR	oci	Pirinèus	np	cat	Pirineus	np$np-top-m-pl$np-top$np-top-m
 	oci	Prat	np$np-ant	cat	Prat	np$$np-cog-mf-sp
 	oci	El Prat	np	cat	El Prat	np$np-loc-f
 	oci	Prats	np$np-cog-mf-sp	cat	Prats	$np$np-cog-mf-sp
-	oci	Presley	np$np-cog-mf-sp	cat	Presley	np$np-ant-m-sg
+	oci	Presley	np$np-ant-m-sg	cat	Presley	np$np-ant-m-sg
 	oci	Prieto	np$np-cog-mf-sp	cat	Prieto	$np$np-cog$np-cog-mf-sp
 	oci	Puig	np$np-cog-mf-sp	cat	Puig	np$np-ant$$np-ant-mf
 	oci	Pujol	np$np-cog-mf-sp	cat	Pujol	$np$np-ant$np-ant-mf
 	oci	Putin	np$np-cog-mf-sp	cat	Putin	np$np-ant$
-	oci	Qatar	np	cat	Qatar	np$np-loc$np-loc-m
+	oci	Qatar	np$np-top-m-sg	cat	Qatar	np$np-loc$np-loc-m
 	oci	Quart	np	cat	Quart	np$np-loc$np-loc-f
 	oci	Querol	np$np-cog-mf-sp	cat	Querol	np$$np-cog-mf-sp
 	oci	Quesada	np$np-cog-mf-sp	cat	Quesada	np$$np-cog$np-cog-mf-sp
@@ -11120,7 +11120,7 @@ LR	oci	Pirinèus	np	cat	Pirineus	np$np-top-m-pl$np-top$np-top-m
 	oci	Racing	np$np-al-m-sg	cat	Racing	np$np-al$np-al-m-sg
 	oci	Rafael	np$np-ant-m-sg	cat	Rafael	np$np-ant$np-ant-m-sg$
 	oci	Raimon	np$np-ant-m-sg	cat	Raimon	np$np-ant-m-sg$np-ant
-	oci	Raimundo	np	cat	Raimundo	np$np-ant-m-sg
+	oci	Raimundo	np$np-ant-m-sg	cat	Raimundo	np$np-ant-m-sg
 	oci	Rajadell	np	cat	Rajadell	np$np-loc-f
 	oci	Rajoy	np$np-cog-mf-sp	cat	Rajoy	np$np-ant
 	oci	Ramírez	np$np-cog-mf-sp	cat	Ramírez	np$$np-cog$np-cog-mf-sp
@@ -11129,7 +11129,7 @@ LR	oci	Pirinèus	np	cat	Pirineus	np$np-top-m-pl$np-top$np-top-m
 	oci	Ramon	np$np-ant-m-sg	cat	Ramon	np$np-ant-m-sg$np-ant$
 	oci	Ramón	np$np-ant-m-sg	cat	Ramón	np$np-ant$np-ant-m-sg$
 	oci	Ramos	np$np-cog-mf-sp	cat	Ramos	np$$np-ant-mf
-	oci	Raquel	np	cat	Raquel	np$np-ant-f-sg$np-ant
+	oci	Raquel	np$np-ant-f-sg	cat	Raquel	np$np-ant-f-sg$np-ant
 	oci	Raúl	np$np-ant-m-sg	cat	Raúl	np$np-ant-m-sg$np-ant$
 	oci	Rebeca	np	cat	Rebeca	np$np-ant-f-sg$np-ant$
 	oci	Reguant	np$np-cog-mf-sp	cat	Reguant	np$np-cog$np-cog-mf-sp
@@ -11164,9 +11164,9 @@ LR	oci	Pirinèus	np	cat	Pirineus	np$np-top-m-pl$np-top$np-top-m
 	oci	Rolling	np$np-al	cat	Rolling	np$np-al
 	oci	Román	np$np-ant-m-sg	cat	Román	np-ant-m-sg$$np$np-ant
 	oci	Roma	np$np-top-f-sg	cat	Roma	np$$np-loc$np-loc-f
-	oci	Romeo	np$np-cog-mf-sp	cat	Romeo	np$np-ant-m-sg$$np-ant
+	oci	Romeo	np$np-ant-m-sg	cat	Romeo	np$np-ant-m-sg$$np-ant
 	oci	Romeu	np$np-cog-mf-sp	cat	Romeu	np$$np-cog$np-cog-mf-sp
-	oci	Roque	np$np-cog-mf-sp	cat	Roque	np$np-ant-m-sg$
+	oci	Roque	np$np-ant-m-sg	cat	Roque	np$np-ant-m-sg$
 	oci	Rosendo	np$np-cog-mf-sp	cat	Rosendo	np$np-ant-m-sg
 	oci	Ros	np$np-cog-mf-sp	cat	Ros	np$$np-cog-mf-sp
 	oci	Rossell	np$np-cog-mf-sp	cat	Rossell	np$np-loc-f
@@ -11204,7 +11204,7 @@ LR	oci	Pirinèus	np	cat	Pirineus	np$np-top-m-pl$np-top$np-top-m
 	oci	Sánchez	np$np-cog-mf-sp	cat	Sánchez	np$$np-ant$np-ant-mf
 	oci	Sanchis	np$np-cog-mf-sp	cat	Sanchis	np$$np-al
 	oci	Sanchís	np$np-cog-mf-sp	cat	Sanchís	np$$np-cog$np-cog-mf-sp
-	oci	Sancho	np$np-cog-mf-sp	cat	Sancho	np$np-ant-m-sg$
+	oci	Sancho	np$np-ant-m-sg	cat	Sancho	np$np-ant-m-sg$
 	oci	Sandoval	np$np-cog-mf-sp	cat	Sandoval	np$$np-ant-mf
 	oci	Sandra	np$np-ant-f-sg	cat	Sandra	np$np-ant-f-sg$np-ant
 	oci	Sanjuán	np$np-cog-mf-sp	cat	Sanjuán	np$np-cog
@@ -11223,7 +11223,7 @@ LR	oci	Pirinèus	np	cat	Pirineus	np$np-top-m-pl$np-top$np-top-m
 	oci	Sebastian	np$np-ant-m-sg	cat	Sebastian	np$np-ant-m-sg$$np-ant
 	oci	Segarra	np$np-cog-mf-sp	cat	Segarra	np$$np-cog-mf-sp
 	oci	Sellés	np$np-cog-mf-sp	cat	Sellés	np$np-cog$np-cog-mf-sp
-	oci	Sergi	np	cat	Sergi	np$np-ant-m-sg$np-ant$
+	oci	Sergi	np$np-ant-m-sg	cat	Sergi	np$np-ant-m-sg$np-ant$
 	oci	Sergio	np$np-ant-m-sg	cat	Sergio	np$np-ant-m-sg$$np-ant
 	oci	Serna	np$np-cog-mf-sp	cat	Serna	np$$np-ant$np-ant-mf
 	oci	Serrano	np$np-cog-mf-sp	cat	Serrano	np$np-ant-mf$
@@ -11232,16 +11232,16 @@ LR	oci	Pirinèus	np	cat	Pirineus	np$np-top-m-pl$np-top$np-top-m
 	oci	Sevilla	np$np-cog-mf-sp	cat	Sevilla	np$np-top-f-sg$
 	oci	Sharon	np$np-ant-f-sg	cat	Sharon	np$np-ant-f-sg
 	oci	Silva	np$np-cog-mf-sp	cat	Silva	np$$np-ant-mf$np-ant
-	oci	Silvestre	np$np-cog-mf-sp	cat	Silvestre	np-ant-m-sg$np$
+	oci	Silvestre	np$np-ant-m-sg	cat	Silvestre	np-ant-m-sg$np$
 	oci	Silvia	np$np-ant-f-sg	cat	Silvia	np$np-ant-f-sg$$np-ant
 	oci	Silvio	np$np-ant-m-sg	cat	Silvio	np$np-ant-m-sg
-	oci	Simón	np$np-cog-mf-sp	cat	Simón	np$np-ant-m-sg$$np-ant
+	oci	Simón	np$np-ant-m-sg	cat	Simón	np$np-ant-m-sg$$np-ant
 LR	oci	Singapur	np	cat	Singapur	np$np-loc$np-loc-m
 	oci	Sinisterra	np$np-cog-mf-sp	cat	Sinisterra	np$np-cog$np-cog-mf-sp
 	oci	Sitges	np$np-top-f-sg	cat	Sitges	np$np-loc$np-loc-f
 	oci	Smith	np$np-cog-mf-sp	cat	Smith	np$np-ant-mf$$np-ant
 	oci	Sofia	np$np-ant-f-sg	cat	Sofia	np-ant$np-ant-f-sg$np$
-	oci	Solana	np$np-cog-mf-sp	cat	Solana	np$np-ant-f-sg
+	oci	Solana	np$np-ant-f-sg	cat	Solana	np$np-ant-f-sg
 	oci	Solbes	np$np-cog-mf-sp	cat	Solbes	np$np-cog$np-cog-mf-sp
 	oci	Sole	np$np-cog-mf-sp	cat	Sole	np$np-cog$np-cog-mf-sp
 	oci	Sonia	np$np-ant-f-sg	cat	Sonia	np-ant-f-sg$np$$np-ant
@@ -11279,7 +11279,7 @@ LR	oci	Singapur	np	cat	Singapur	np$np-loc$np-loc-m
 	oci	Thomas	np$np-ant-m-sg	cat	Thomas	np$np-ant-m-sg$$np-ant
 	oci	Tito	np$np-cog-mf-sp	cat	Tito	np$np-ant$$np-ant-m-sg
 	oci	Toledo	np$np-cog-mf-sp	cat	Toledo	np$$np-loc$np-loc-f
-	oci	Tolosa	np$np-top-f-sg	cat	Tolosa	np$np-loc-f$$np-loc
+	oci	Tolosa	np-top-f-sg$np	cat	Tolosa	np$np-loc-f$$np-loc
 	oci	Tomás	np$np-ant-m-sg	cat	Tomás	np$np-ant-m-sg$$np-ant
 	oci	Tom	np$np-ant-m-sg	cat	Tom	np$np-ant-m-sg$np-ant
 	oci	Tormo	np$np-cog-mf-sp	cat	Tormo	np$np-cog$np-cog-mf-sp
@@ -11298,7 +11298,7 @@ LR	oci	Singapur	np	cat	Singapur	np$np-loc$np-loc-m
 	oci	Úbeda	np	cat	Úbeda	np$$np-loc-f
 	oci	Unix	np$np-al	cat	Unix	np$np-al$np-al-sg
 	oci	Valdés	np$np-cog-mf-sp	cat	Valdés	np$$np-ant$np-ant-mf
-LR	oci	València	np$np-top-f-sg	cat	València	np$np-loc$$np-loc-f
+LR	oci	València	np$np-ant-f-sg	cat	València	np$np-loc$$np-loc-f
 	oci	Valéncia	np$np-top-f-sg	cat	València	np$np-loc$$np-loc-f
 	oci	Valentín	np$np-cog-mf-sp	cat	Valentín	np$np-ant-m-sg$np-ant
 	oci	Valero	np$np-cog-mf-sp	cat	Valero	np$$np-ant$np-ant-mf
@@ -11363,7 +11363,7 @@ LR	oci	València	np$np-top-f-sg	cat	València	np$np-loc$$np-loc-f
 	oci	Yagüe	np$np-cog-mf-sp	cat	Yagüe	np$np-cog$np-cog-mf-sp
 	oci	Yahoo	np-al$np-al-m-sg	cat	Yahoo	np-al$np-al-m-sg
 	oci	Yébenes	np	cat	Yébenes	np$np-top-m-sg
-	oci	Yolanda	np	cat	Yolanda	np$np-ant-f-sg$np-ant
+	oci	Yolanda	np$np-ant-f-sg	cat	Yolanda	np$np-ant-f-sg$np-ant
 	oci	Yuste	np$np-cog-mf-sp	cat	Yuste	np$$np-ant$np-ant-mf
 	oci	Zamorano	np$np-cog-mf-sp	cat	Zamorano	np$np-cog$np-cog-mf-sp
 	oci	Zamora	np$np-cog-mf-sp	cat	Zamora	np$$np-loc$np-loc-f
@@ -12240,7 +12240,7 @@ RL	oci	jogaire	n-GD	cat	tennista	n-mf$n
 	oci	geriatric	adj	cat	geriàtric	adj$
 	oci	fòrum	n$n-m	cat	fòrum	n$n-m
 LR	oci	fira	n$n-f	cat	fira	n$n-f
-	oci	Ferran	np	cat	Ferran	np-ant$np-ant-m-sg$$np
+	oci	Ferran	np$np-ant-m-sg	cat	Ferran	np-ant$np-ant-m-sg$$np
 	oci	Fecsa	np	cat	Fecsa	np$np-al-f-sg
 	oci	esturion	n	cat	esturió	n$n-m
 	oci	esbaussament	n$n-m	cat	esfondrament	n-m$n
@@ -12653,7 +12653,7 @@ RL	oci	sometre	vblex	cat	plantejar	vblex
 LR	oci	sotméter	vblex	cat	sotmetre	vblex
 	oci	prealable	adj	cat	previ	adj$$adj-GD
 LR	oci	prèvi	adj	cat	previ	adj$$adj-GD
-RL	oci	mercantil	adj-GD	cat	mercantil	adj$adj-mf$
+RL	oci	mercantil	adj-GD$adj	cat	mercantil	adj$adj-mf$
 LR	oci	mercantil	adj-m	cat	mercantil	adj$adj-mf$
 LR	oci	mercantil	adj-f	cat	mercantil	adj$adj-mf$
 	oci	traslat	n$n-m	cat	trasllat	n-m$n
@@ -12770,7 +12770,7 @@ LR	oci	competent	adj-f$adj	cat	competent	adj$adj-mf$
 	oci	assiténcia	n	cat	assitència	n
 RL	oci	assimilable	adj-GD	cat	assimilable	adj-mf$adj
 LR	oci	assimilable	adj-m	cat	assimilable	adj-mf$adj
-LR	oci	assimilable	adj-f	cat	assimilable	adj-mf$adj
+LR	oci	assimilable	adj-f$adj	cat	assimilable	adj-mf$adj
 	oci	arquitècte	n	cat	arquitecte	n-mf-pl$n
 LR	oci	henerècla	n$n-f	cat	esquerda	n-f$n
 RL	oci	henedura	n$n-f	cat	esquerda	n-f$n
@@ -12959,7 +12959,7 @@ LR	oci	leiçon	n$n-f	cat	lliçó	n$n-f
 	oci	Agustí	np	cat	Agustí	np$np-ant-m-sg$$np-ant
 	oci	Soler	np$np-cog-mf-sp	cat	Soler	$np$np-cog-mf-sp
 	oci	Cuixà	np	cat	Cuixà	np$np-loc
-	oci	ERC	n-acr	cat	ERC	n-acr-f$n$n-acr$n-acr-f-sg
+	oci	ERC	n-acr$n-acr-f	cat	ERC	n-acr-f$n$n-acr$n-acr-f-sg
 	oci	Ciemen	n-acr	cat	Ciemen	n-acr
 	oci	comunista	adj	cat	comunista	adj$adj-mf
 	oci	anarquista	adj	cat	anarquista	adj$adj-mf
@@ -13177,7 +13177,7 @@ LR	oci	vermelh	adj	cat	vermell	adj$$adj-sup
 LR	oci	roge	adj	cat	vermell	adj$$adj-sup
 	oci	roge	adj	cat	vermell	adj$$adj-sup
 	oci	mobilizacion	n$n-f	cat	mobilització	n-f$n
-	oci	desmobilizacion	n	cat	desmobilització	n-f$n
+	oci	desmobilizacion	n$n-f	cat	desmobilització	n-f$n
 RL	oci	confóner	vblex	cat	equivocar	vblex$vblex-pron
 RL	oci	confondre	vblex	cat	equivocar	vblex$vblex-pron
 	oci	argumentar	vblex	cat	argumentar	vblex
@@ -13243,7 +13243,7 @@ RL	oci	demorar	vblex	cat	habitar	vblex
 	oci	desabitar	vblex	cat	deshabitar	vblex
 	oci	Coca-cola	np	cat	Coca-cola	np
 	oci	Softcatalà	np	cat	Softcatalà	np$np-al-m-sg
-	oci	OpenOffice	np	cat	OpenOffice	np$np-al-m-sg
+	oci	OpenOffice	np$np-al-m-sg	cat	OpenOffice	np$np-al-m-sg
 	oci	viu	adj	cat	viu	adj$
 LR	oci	arraïtzar	vblex	cat	arrelar	vblex
 	oci	arraïtzar	vblex	cat	arrelar	vblex
@@ -13911,7 +13911,7 @@ LR	oci	falsesa	n	cat	falsedat	n-f$n
 	oci	desproporcionat	adj	cat	desproporcionat	adj$$adj-sup
 	oci	pairastre	n	cat	padrastre	n-m$n-m-pl$n
 	oci	salubritat	n$n-f	cat	salubritat	n$n-f
-	oci	insalubritat	n	cat	insalubritat	n$n-f
+	oci	insalubritat	n$n-f	cat	insalubritat	n$n-f
 	oci	difamar	vblex	cat	difamar	vblex
 RL	oci	paishèra	n$n-f	cat	rec	n$n-m
 RL	oci	paissièra	n$n-f	cat	rec	n$n-m
@@ -13932,7 +13932,7 @@ LR	oci	prenuda	n	cat	presa	n-f$n
 	oci	INSEE	n$n-acr	cat	INSEE	n
 	oci	Le Fur	np	cat	Le Fur	np
 	oci	breton	adj	cat	bretó	adj
-	oci	uniformitat	n	cat	uniformitat	n-f$n
+	oci	uniformitat	n$n-f	cat	uniformitat	n-f$n
 	oci	tolerar	vblex	cat	tolerar	vblex
 	oci	alsacian	adj	cat	alsacià	adj
 	oci	trasmeteire	n	cat	transmissor	n-m$n
@@ -14200,8 +14200,8 @@ LR	oci	cant	n$n-m	cat	marge	n-m$n
 	oci	marge	n$n-m	cat	marge	n-m$n
 LR	oci	aurina	n	cat	orina	n$n-f
 	oci	aurina	n	cat	orina	n$n-f
-LR	oci	urina	n	cat	orina	n$n-f
-	oci	urina	n	cat	orina	n$n-f
+LR	oci	urina	n$n-f	cat	orina	n$n-f
+	oci	urina	n$n-f	cat	orina	n$n-f
 	oci	balançader	n	cat	gronxador	n-m$n
 LR	oci	balustrada	n$n-f	cat	barana	n$n-f
 LR	oci	bandidalha	n	cat	xusma	n
@@ -14302,7 +14302,7 @@ LR	oci	crosta	n$n-f	cat	crosta	n$n-f
 	oci	cueisha	n-f$n	cat	cuixa	n-f$n
 	oci	junhent	n	cat	guionet	n-m$n
 	oci	cunhèstra	n$n-f	cat	congesta	n-f$n
-	oci	decadéncia	n	cat	decadència	n-f$n
+	oci	decadéncia	n$n-f	cat	decadència	n-f$n
 LR	oci	decebuda	n$n-f	cat	decepció	n-f$n
 LR	oci	dentilha	n	cat	llentia	n-f$n
 	oci	dentilha	n	cat	llentia	n-f$n
@@ -14492,10 +14492,10 @@ LR	oci	lua	n	cat	lluna	n$n-f
 LR	oci	luna	n$n-f	cat	lluna	n$n-f
 	oci	luna	n$n-f	cat	lluna	n$n-f
 	oci	ludentor	n$n-f	cat	lluentor	n-f$n
-LR	oci	lusent	adj-m	cat	lluent	adj-mf$adj$
+LR	oci	lusent	adj-m$adj	cat	lluent	adj-mf$adj$
 LR	oci	lusent	adj-f	cat	lluent	adj-mf$adj$
 RL	oci	lusent	adj-GD	cat	lluent	adj-mf$adj$
-LR	oci	lusent	adj-m	cat	lluent	adj-mf$adj$
+LR	oci	lusent	adj-m$adj	cat	lluent	adj-mf$adj$
 LR	oci	lusent	adj-f	cat	lluent	adj-mf$adj$
 LR	oci	ludent	adj-m	cat	lluent	adj-mf$adj$
 LR	oci	ludent	adj-f	cat	lluent	adj-mf$adj$
@@ -14636,7 +14636,7 @@ LR	oci	blanda	n$n-f	cat	salamandra	n$n-f
 LR	oci	sancha	n-f	cat	atuell	n-m$n
 	oci	sangarrèra	n$n-f	cat	sagnia	n-f$n
 	oci	emorragia	n$n-f	cat	hemorràgia	n-f$n
-	oci	sangsuga	n	cat	sangonera	n-f$n
+	oci	sangsuga	n$n-f	cat	sangonera	n-f$n
 LR	oci	sapientat	n$n-f	cat	saviesa	n-f$n
 LR	oci	saumetada	n$n-f	cat	ximpleria	n$n-f
 LR	oci	saussa	n	cat	salsa	n$n-f
@@ -14968,7 +14968,7 @@ LR	oci	marchar	vblex	cat	marxar	vblex
 RL	oci	opinion	n-f$n	cat	parer	n-m$n
 	oci	jornalista	n$n-mf	cat	periodista	n-mf$n
 	oci	portièr	n	cat	porter	n$n-m
-	oci	EE	n-acr	cat	EE	n-acr
+	oci	EE	n-acr$n-acr-m	cat	EE	n-acr
 	oci	radar	n$n-m	cat	radar	n-m$n$n-m-sg
 	oci	reaccion	n$n-f	cat	reacció	n-f$n
 LR	oci	reaument	adv	cat	realment	adv
@@ -16154,7 +16154,7 @@ RL	oci	fam	n$n-f-sg$n-f	cat	fam	n-f$n
 	oci	gelar	vblex	cat	gelar	vblex
 	oci	congelar	vblex	cat	congelar	vblex
 	oci	precaucion	n$n-f	cat	precaució	n-f$n
-	oci	auricular	n	cat	auricular	n-m$n
+	oci	auricular	n$n-m	cat	auricular	n-m$n
 	oci	gausar	vblex	cat	gosar	vblex
 LR	oci	ausar	vblex	cat	gosar	vblex
 LR	oci	gosar	vblex	cat	gosar	vblex
@@ -16197,7 +16197,7 @@ RL	oci	innocent	adj-GD	cat	innocent	adj$adj-mf$
 LR	oci	innombrable	adj-m$adj	cat	innombrable	adj$adj-mf$
 LR	oci	innombrable	adj-f	cat	innombrable	adj$adj-mf$
 RL	oci	innombrable	adj-GD	cat	innombrable	adj$adj-mf$
-LR	oci	insignificant	adj-m	cat	insignificant	adj$adj-mf$
+LR	oci	insignificant	adj-m$adj	cat	insignificant	adj$adj-mf$
 LR	oci	insignificant	adj-f	cat	insignificant	adj$adj-mf$
 RL	oci	insignificant	adj-GD	cat	insignificant	adj$adj-mf$
 LR	oci	interminable	adj$adj-m	cat	interminable	adj$adj-mf$
@@ -16278,7 +16278,7 @@ LR	oci	truha	n	cat	patata	n$n-f
 	oci	truha	n	cat	patata	n$n-f
 LR	oci	mandòrra	n	cat	patata	n$n-f
 	oci	pecar	vblex	cat	pecar	vblex
-LR	oci	penetrant	adj-m	cat	penetrant	adj-mf$adj$
+LR	oci	penetrant	adj-m$adj	cat	penetrant	adj-mf$adj$
 LR	oci	penetrant	adj-f	cat	penetrant	adj-mf$adj$
 RL	oci	penetrant	adj-GD	cat	penetrant	adj-mf$adj$
 	oci	perdonar	vblex	cat	perdonar	vblex
@@ -16725,7 +16725,7 @@ RL	oci	tet	n$n-m	cat	teulada	n-f
 	oci	tragèdia	n$n-f	cat	tragèdia	n$n-f
 	oci	tristesa	n$n-f	cat	tristesa	n-f$n
 LR	oci	tristum	n-m	cat	tristesa	n-f$n
-	oci	truèja	n	cat	truja	n-f$n
+	oci	truèja	n$n-f	cat	truja	n-f$n
 RL	oci	gojat	n	cat	xic	n-f$n$
 	oci	acièr	n$n-m	cat	acer	n$n-m
 	oci	azard	n-m$n	cat	atzar	n-m$n
@@ -16851,7 +16851,7 @@ LR	oci	substituir	vblex	cat	substituir	vblex
 	oci	prefabricar	vblex	cat	prefabricar	vblex
 	oci	deficiéncia	n$n-f	cat	deficiència	n-f$n
 	oci	deficit	n$n-m	cat	dèficit	n-m$n
-	oci	UGT	n	cat	UGT	n-acr-f$n$n-acr-f-sg
+	oci	UGT	n$n-acr-f	cat	UGT	n-acr-f$n$n-acr-f-sg
 	oci	vitamina	n$n-f	cat	vitamina	n-f$n
 LR	oci	deficient	n-m	cat	deficient	n-mf$n
 LR	oci	deficient	n-f	cat	deficient	n-mf$n
@@ -16867,13 +16867,13 @@ RL	oci	deficient	adj-GD	cat	deficient	adj$adj-mf$
 	oci	Schönberg	np$np-cog-mf-sp	cat	Schönberg	np$np-cog-mf-sp$
 	oci	Clickair	np	cat	Clickair	np$np-al
 	oci	Arenys	np	cat	Arenys	np$np-loc$np-loc-f
-	oci	Roderic	np$np-cog-mf-sp	cat	Roderic	np$np-ant-m-sg
+	oci	Roderic	np$np-ant-m-sg	cat	Roderic	np$np-ant-m-sg
 	oci	Màrquez	np$np-cog-mf-sp	cat	Màrquez	np$np-cog-mf-sp
 	oci	Brandes	np$np-cog-mf-sp	cat	Brandes	np$np-cog-mf-sp
 	oci	Europa Press	np	cat	Europa Press	np
 	oci	Laporta	np$np-cog-mf-sp	cat	Laporta	np$np-cog-mf-sp
 RL	oci	cementèri	n$n-m	cat	fossar	n$n-m
-	oci	Oganda	np	cat	Uganda	np$np-loc$np-loc-f
+	oci	Oganda	np$np-top-f-sg	cat	Uganda	np$np-loc$np-loc-f
 	oci	Tecnotast	np	cat	Tecnotast	np
 	oci	Ripollet	np	cat	Ripollet	np$np-top
 	oci	PSM	n-acr	cat	PSM	n-acr-m$n$n-acr$n-acr-m-sg
@@ -17009,7 +17009,7 @@ LR	oci	plòir	vblex	cat	ploure	vblex
 	oci	virus	n$n-m	cat	virus	n-m-sp$n$n-m
 	oci	Valldigna	np	cat	Valldigna	np$np-top
 	oci	Vicenç	np$np-cog-mf-sp	cat	Vicenç	np$np-ant-m-sg$np-ant
-	oci	VIH	n-acr	cat	VIH	n-acr-m$n-acr-m-sg$n$n-acr
+	oci	VIH	n-acr$n-acr-m-sg	cat	VIH	n-acr-m$n-acr-m-sg$n$n-acr
 	oci	SIDA	n-acr-m	cat	SIDA	n-acr-f$n-acr-f-sg
 	oci	sindròme	n-m$n	cat	síndrome	n-f
 	oci	lengua d'òc	n	cat	llengua d'oc	n
@@ -17142,10 +17142,10 @@ LR	oci	prigondament	adv	cat	profundament	adv
 	oci	meritar	vblex	cat	merèixer	vblex
 	oci	marqués	n	cat	marquès	n$n-m
 	oci	islam	n$n-m-sg	cat	islam	n$n-m
-RL	oci	insuportable	adj-GD	cat	insuportable	adj$adj-mf$
+RL	oci	insuportable	adj-GD$adj	cat	insuportable	adj$adj-mf$
 LR	oci	insuportable	adj-m	cat	insuportable	adj$adj-mf$
 LR	oci	insuportable	adj-f	cat	insuportable	adj$adj-mf$
-	oci	indecision	n	cat	indecisió	n-f$n
+	oci	indecision	n$n-f	cat	indecisió	n-f$n
 	oci	Güell	np$np-cog-mf-sp	cat	Güell	np$np-cog-mf-sp$
 	oci	Giralt	np$np-cog-mf-sp	cat	Giralt	np$np-cog-mf-sp$
 	oci	Miracle	np$np-cog-mf-sp	cat	Miracle	np-ant-f-sg$np
@@ -17269,7 +17269,7 @@ LR	oci	transparent	adj-f	cat	transparent	adj$adj-mf$
 	oci	trucar	vblex	cat	trucar	vblex
 	oci	brasilian	adj	cat	brasiler	adj$
 	oci	Geraldo	np	cat	Geraldo	np$np-ant-m-sg
-	oci	Lula	np	cat	Lula	np-ant-f-sg$np$np-ant
+	oci	Lula	np$np-ant-f-sg	cat	Lula	np-ant-f-sg$np$np-ant
 	oci	electorat	n$n-m	cat	electorat	n-m$n
 	oci	escandal	n$n-m	cat	escàndol	n-m$n
 	oci	cervesa	n$n-f	cat	cervesa	n$n-f
@@ -17370,7 +17370,7 @@ LR	oci	publicaments	adv	cat	públicament	adv
 	oci	publicaments	adv	cat	públicament	adv
 LR	oci	publicament	adv	cat	públicament	adv
 	oci	publicament	adv	cat	públicament	adv
-RL	oci	vibrant	adj-GD	cat	vibrant	adj$adj-mf$
+RL	oci	vibrant	adj-GD$adj	cat	vibrant	adj$adj-mf$
 LR	oci	vibrant	adj-m	cat	vibrant	adj$adj-mf$
 LR	oci	vibrant	adj-f	cat	vibrant	adj$adj-mf$
 LR	oci	probablaments	adv	cat	probablement	adv
@@ -17388,7 +17388,7 @@ LR	oci	intitular	vblex	cat	titular	vblex$vblex-pron
 	oci	trèva	n-f$n	cat	treva	n-f$n
 	oci	Timòr	np$np-top-m-sg	cat	Timor	np$np-top-m-sg$np-top
 	oci	suspècte	adj	cat	sospitós	adj$
-	oci	Arabia Saudita	np	cat	Aràbia Saudita	np$np-loc$np-loc-f
+	oci	Arabia Saudita	np$np-top-f-sg	cat	Aràbia Saudita	np$np-loc$np-loc-f
 	oci	Arabia	np$np-loc	cat	Aràbia	np$np-loc$np-loc-f
 	oci	Safor	np	cat	Safor	np$np-top
 	oci	Singapor	np$np-top-m-sg	cat	Singapur	np$np-loc$np-loc-m
@@ -17445,7 +17445,7 @@ RL	oci	votant	n-GD$n	cat	votant	n-mf$n
 LR	oci	votant	n-m	cat	votant	n-mf$n
 LR	oci	votant	n-f	cat	votant	n-mf$n
 	oci	preferir	vblex	cat	preferir	vblex
-	oci	Climent	np$np-cog-mf-sp	cat	Climent	np-ant-m-sg$np$np-ant$
+	oci	Climent	np$np-ant-m-sg	cat	Climent	np-ant-m-sg$np$np-ant$
 	oci	ACPV	n-acr	cat	ACPV	n-acr
 	oci	Orange	np$np-cog-mf-sp	cat	Orange	np-al$np
 	oci	Wanadoo	np	cat	Wanadoo	np
@@ -17634,7 +17634,7 @@ LR	oci	justaments	adv	cat	justament	adv
 	oci	justaments	adv	cat	justament	adv
 LR	oci	justament	adv	cat	justament	adv
 	oci	justament	adv	cat	justament	adv
-	oci	PSE	n-acr	cat	PSE	n-acr-m$n$n-acr
+	oci	PSE	n-acr$n-acr-m	cat	PSE	n-acr-m$n$n-acr
 	oci	trimèstre	n$n-m	cat	trimestre	n-m$n
 LR	oci	trimesadèr	n	cat	trimestre	n-m$n
 	oci	partidari	adj	cat	partidari	adj
@@ -17757,7 +17757,7 @@ LR	oci	fraudaria	n-f	cat	frau	n-m$n
 	oci	fraudaria	n-f	cat	frau	n-m$n
 LR	oci	frauda	n-f	cat	frau	n-m$n
 	oci	frauda	n-f	cat	frau	n-m$n
-	oci	Bono	np$np-cog-mf-sp	cat	Bono	np$np-ant-m-sg
+	oci	Bono	np$np-ant-m-sg	cat	Bono	np$np-ant-m-sg
 	oci	Bob	np$np-ant-m-sg	cat	Bob	np$np-ant-m-sg$$np-ant
 	oci	intens	adj	cat	intens	adj$$adj-sup
 	oci	Schröder	np$np-cog-mf-sp	cat	Schröder	np$np-cog-mf-sp$
@@ -17978,7 +17978,7 @@ LR	oci	romancièr	n-f	cat	novel·lista	n-mf$n
 	oci	metafòra	n$n-f	cat	metàfora	n$n-f
 	oci	Anglatèrra	np$np-top-f-sg	cat	Anglaterra	np$np-loc$np-loc-f
 	oci	Hezbollah	np	cat	Hezbol·lah	np$np-al
-RL	oci	suicidari	adj-GD	cat	suïcida	adj$adj-mf
+RL	oci	suicidari	adj-GD$adj	cat	suïcida	adj$adj-mf
 LR	oci	suicidari	adj-m	cat	suïcida	adj$adj-mf
 LR	oci	suicidari	adj-f	cat	suïcida	adj$adj-mf
 	oci	Los Angeles	np$np-top-m-sg	cat	Los Angeles	np$np-top-f-sg$np-top$np-top-f
@@ -18090,7 +18090,7 @@ LR	oci	insostenible	adj-m	cat	insostenible	adj$adj-mf
 LR	oci	insostenible	adj-f	cat	insostenible	adj$adj-mf
 	oci	inviable	adj	cat	inviable	adj$$adj-mf
 	oci	predador	adj	cat	depredador	adj
-	oci	insubordinacion	n	cat	insubordinació	n-f$n
+	oci	insubordinacion	n$n-f	cat	insubordinació	n-f$n
 	oci	revocacion	n$n-f	cat	revocació	n-f$n
 LR	oci	delinqüent	n$n-m	cat	delinqüent	n-mf$n
 LR	oci	delinqüent	n-f	cat	delinqüent	n-mf$n
@@ -18099,7 +18099,7 @@ RL	oci	delinqüent	n-GD	cat	delinqüent	n-mf$n
 	oci	cautelar	adj	cat	cautelar	adj$adj-mf
 	oci	magne	adj	cat	magne	adj$adj-mf-pl
 RL	oci	irreversible	adj-GD	cat	irreversible	adj-mf$adj$
-LR	oci	irreversible	adj-m	cat	irreversible	adj-mf$adj$
+LR	oci	irreversible	adj-m$adj	cat	irreversible	adj-mf$adj$
 LR	oci	irreversible	adj-f	cat	irreversible	adj-mf$adj$
 	oci	pedriatre	n$n-m	cat	pediatre	n-mf-pl$n
 	oci	antifranquista	adj	cat	antifranquista	adj$adj-mf
@@ -18245,7 +18245,7 @@ RL	oci	mortal	adj-GD	cat	mortal	adj$adj-mf$
 	oci	cantautor	n	cat	cantautor	n$n-m
 	oci	suportar	vblex	cat	suportar	vblex
 	oci	cinematografic	adj	cat	cinematogràfic	adj$
-	oci	cinematograf	n	cat	cinematògraf	n-m$n
+	oci	cinematograf	n$n-m	cat	cinematògraf	n-m$n
 LR	oci	de pas	adv	cat	de pas	adv
 	oci	de pas	adv	cat	de pas	adv
 LR	oci	de passatge	adv	cat	de pas	adv
@@ -18443,7 +18443,7 @@ RL	oci	brutal	adj-GD	cat	brutal	adj$adj-mf$
 	oci	atomic	adj	cat	atòmic	adj$
 	oci	divòrci	n$n-m	cat	divorci	n$n-m
 	oci	frequéncia	n$n-f	cat	freqüència	n-f$n
-	oci	Bolívia	np	cat	Bolívia	np$np-loc$np-loc-f
+	oci	Bolívia	np$np-top-f-sg	cat	Bolívia	np$np-loc$np-loc-f
 	oci	mobilizar	vblex	cat	mobilitzar	vblex
 	oci	tuada	n$n-f	cat	matança	n-f$n
 LR	oci	mortalatge	n-m	cat	matança	n-f$n
@@ -18605,7 +18605,7 @@ LR	oci	afanh	n	cat	afany	n-m$n
 	oci	sequèla	n$n-f	cat	seqüela	n$n-f
 	oci	passapòrt	n$n-m	cat	passaport	n$n-m
 	oci	paradòxa	n$n-f	cat	paradoxa	n-f$n
-	oci	maquinista	n	cat	maquinista	n-mf$n
+	oci	maquinista	n$n-mf	cat	maquinista	n-mf$n
 	oci	sen	n-m-sg$n$n-m	cat	seny	n-m$n
 	oci	majorana	n-f$n	cat	orenga	n-f$n
 	oci	renfortiment	n$n-m	cat	reforç	n-m$n
@@ -18753,7 +18753,7 @@ LR	oci	umil	adj-f	cat	humil	adj$adj-mf$
 LR	oci	engenhariá	n$n-f	cat	enginyeria	n$n-f
 LR	oci	engenharia	n	cat	enginyeria	n$n-f
 	oci	engenharia	n	cat	enginyeria	n$n-f
-	oci	integrisme	n	cat	integrisme	n-m$n$n-m-sg
+	oci	integrisme	n$n-m	cat	integrisme	n-m$n$n-m-sg
 RL	oci	frequent	adj-GD$adj	cat	freqüent	adj$adj-mf$
 LR	oci	frequent	adj-m	cat	freqüent	adj$adj-mf$
 LR	oci	frequent	adj-f	cat	freqüent	adj$adj-mf$
@@ -18837,10 +18837,10 @@ LR	oci	popa	n-f$n$n-f-sg	cat	pit	n-m$n$n-m-sg
 LR	oci	cuelheta	n	cat	collita	n-f$n
 RL	oci	delirant	adj-GD	cat	delirant	adj-mf$adj$
 LR	oci	delirant	adj-m	cat	delirant	adj-mf$adj$
-LR	oci	delirant	adj-f	cat	delirant	adj-mf$adj$
+LR	oci	delirant	adj-f$adj	cat	delirant	adj-mf$adj$
 RL	oci	delirant	adj-GD	cat	delirant	adj-mf$adj$
 LR	oci	delirant	adj-m	cat	delirant	adj-mf$adj$
-LR	oci	delirant	adj-f	cat	delirant	adj-mf$adj$
+LR	oci	delirant	adj-f$adj	cat	delirant	adj-mf$adj$
 	oci	nazi	adj	cat	nazi	adj$adj-mf
 RL	oci	solemne	adj-GD$adj	cat	solemne	adj$adj-mf$
 LR	oci	solemne	adj-m	cat	solemne	adj$adj-mf$
@@ -18872,7 +18872,7 @@ LR	oci	reconduire	vblex	cat	reconduir	vblex
 	oci	monstre	n$n-m	cat	monstre	n$n-m
 	oci	satira	n$n-f	cat	sàtira	n-f$n
 	oci	solvabilitat	n$n-f	cat	solvència	n-f$n
-	oci	naturalitat	n	cat	naturalitat	n-f$n
+	oci	naturalitat	n$n-f	cat	naturalitat	n-f$n
 RL	oci	bastir	vblex	cat	bastir	vblex
 	oci	margarideta	n$n-f	cat	margarida	n-f$n
 	oci	Margarida	np$np-ant-f-sg	cat	Margarida	np$np-ant-f-sg
@@ -18919,7 +18919,7 @@ RL	oci	prudent	adj-GD$adj	cat	prudencial	adj$adj-mf
 RL	oci	prudent	adj-GD$adj	cat	prudent	adj$adj-mf$
 LR	oci	prudent	adj-m	cat	prudent	adj$adj-mf$
 LR	oci	prudent	adj-f	cat	prudent	adj$adj-mf$
-RL	oci	imprudent	adj-GD	cat	imprudent	adj-mf$adj$
+RL	oci	imprudent	adj$adj-GD	cat	imprudent	adj-mf$adj$
 LR	oci	imprudent	adj-m	cat	imprudent	adj-mf$adj$
 LR	oci	imprudent	adj-f	cat	imprudent	adj-mf$adj$
 	oci	flux	n$n-m	cat	flux	n-m$n$n-m-sg
@@ -18967,10 +18967,10 @@ RL	oci	enterrar	vblex	cat	sepultar	vblex
 	oci	perimètre	n$n-m	cat	perímetre	n-m$n
 	oci	uniforme	n	cat	uniforme	n-m$n$
 	oci	tortuós	adj	cat	tortuós	adj$$adj-sup
-LR	oci	comprensible	adj-m	cat	comprensible	adj-mf$adj$
+LR	oci	comprensible	adj-m$adj	cat	comprensible	adj-mf$adj$
 LR	oci	comprensible	adj-f	cat	comprensible	adj-mf$adj$
 RL	oci	comprensible	adj-GD	cat	comprensible	adj-mf$adj$
-LR	oci	incomprensible	adj-m	cat	incomprensible	adj$adj-mf
+LR	oci	incomprensible	adj$adj-m	cat	incomprensible	adj$adj-mf
 LR	oci	incomprensible	adj-f	cat	incomprensible	adj$adj-mf
 RL	oci	incomprensible	adj-GD	cat	incomprensible	adj$adj-mf
 RL	oci	delimitar	vblex	cat	acordonar	vblex
@@ -19004,7 +19004,7 @@ LR	oci	altruista	adj	cat	altruista	adj$adj-mf$
 	oci	genòma	n$n-m	cat	genoma	n$n-m
 	oci	bacteria	n-f$n	cat	bacteri	n-m
 RL	oci	matèria	n$n-f	cat	assignatura	n$n-f
-	oci	UB	n-acr	cat	UB	n-acr-f$n$n-acr$n-acr-f-sg
+	oci	UB	n-acr$n-acr-f	cat	UB	n-acr-f$n$n-acr$n-acr-f-sg
 	oci	alfabetizacion	n$n-f	cat	alfabetització	n-f$n
 	oci	Boi	np$np-cog-mf-sp	cat	Boi	np-cog-mf-sp$np
 	oci	antologia	n$n-f	cat	antologia	n-f$n
@@ -19044,7 +19044,7 @@ LR	oci	integrant	adj-f	cat	integrant	adj-mf$adj
 	oci	catastròfa	n$n-f	cat	catàstrofe	n-f$n
 	oci	Tele-5	np	cat	Tele-5	np$np-al-f-sg
 	oci	Danny	np$np-ant-m-sg	cat	Danny	np$np-ant-m-sg
-	oci	Rice	np$np-cog-mf-sp	cat	Rice	np$np-cog-mf-sp$
+	oci	Rice	np$np-ant-m-sg	cat	Rice	np$np-cog-mf-sp$
 	oci	Chávez	np$np-cog-mf-sp	cat	Chávez	np$$np-cog-mf-sp
 	oci	Sam	np$np-ant-m-sg	cat	Sam	np$np-ant-m-sg$$np-ant
 	oci	Eddy	np$np-ant-m-sg	cat	Eddy	np$np-ant-m-sg
@@ -19077,7 +19077,7 @@ RL	oci	consultatiu	adj	cat	consultiu	adj$
 	oci	Jason	np$np-ant-m-sg	cat	Jason	np$np-ant-m-sg
 	oci	Mary	np$np-ant-f-sg	cat	Mary	np$np-ant-f-sg$np-ant
 	oci	Prodi	np$np-cog-mf-sp	cat	Prodi	np$np-cog-mf-sp
-	oci	Alfons	np	cat	Alfons	np-ant-m-sg$np-ant$np
+	oci	Alfons	np$np-ant-m-sg	cat	Alfons	np-ant-m-sg$np-ant$np
 	oci	Casas	np$np-cog-mf-sp	cat	Casas	np$np-cog-mf-sp$
 	oci	Rey	np$np-cog-mf-sp	cat	Rey	$np-cog-mf-sp$np
 	oci	Fraga	np$np-cog-mf-sp	cat	Fraga	np$np-cog-mf-sp
@@ -19136,7 +19136,7 @@ LR	oci	fragil	adj-f	cat	fràgil	adj$adj-mf$
 	oci	Melinda	np$np-ant-f-sg	cat	Melinda	np$np-ant-f-sg$np-ant
 	oci	Moreno	np$np-cog-mf-sp	cat	Moreno	$np$np-ant-mf
 	oci	Winterthur	np	cat	Winterthur	np
-	oci	Dennis	np$np-cog-mf-sp	cat	Dennis	np$np-ant-m-sg$np-ant$
+	oci	Dennis	np$np-ant-m-sg	cat	Dennis	np$np-ant-m-sg$np-ant$
 	oci	Dolores	np$np-ant-f-sg	cat	Dolores	np$np-ant-f-sg$np-ant
 	oci	Spencer	np$np-cog-mf-sp	cat	Spencer	np$np-ant-m-sg$
 	oci	Francis	np$np-ant-m-sg	cat	Francis	np$np-ant-m-sg$$np-ant
@@ -19160,7 +19160,7 @@ RL	oci	extrèmament	adv	cat	altament	adv
 RL	oci	extrèmaments	adv	cat	altament	adv
 	oci	Rubió	np$np-cog-mf-sp	cat	Rubió	np$np-cog-mf-sp$
 	oci	veto	n	cat	veto	n-m$n
-	oci	Veneçuèla	np	cat	Veneçuela	np$np-loc$np-loc-f
+	oci	Veneçuèla	np$np-top-f-sg	cat	Veneçuela	np$np-loc$np-loc-f
 	oci	Iàsser	np	cat	Iàsser	np$np-ant-m-sg
 	oci	Escorial	np	cat	Escorial	np$np-loc
 	oci	Dan	np$np-ant-m-sg	cat	Dan	$np-ant-m-sg$np$np-ant
@@ -19234,13 +19234,13 @@ LR	oci	largament	adv	cat	àmpliament	adv
 	oci	sinonim	adj	cat	sinònim	adj$adj-m
 	oci	Cartañà	np$np-cog-mf-sp	cat	Cartañà	np$np-cog-mf-sp
 	oci	Califòrnia	np$np-top-f-sg	cat	Califòrnia	np$np-loc$np-loc-f
-	oci	Asia	np$np-top-f-sg	cat	Àsia	np$np-loc$np-loc-f
+	oci	Asia	np$np-ant-f-sg	cat	Àsia	np$np-loc$np-loc-f
 	oci	Albareda	np$np-cog-mf-sp	cat	Albareda	np$np-cog-mf-sp
 	oci	Romano	np$np-cog-mf-sp	cat	Romano	np-ant-m-sg$np
 	oci	Francesca	np$np-ant-f-sg	cat	Francesca	np$np-ant-f-sg$$np-ant
 	oci	Julie	np$np-ant-f-sg	cat	Julie	np-ant-f-sg$np
 	oci	Folch	np$np-cog-mf-sp	cat	Folch	np$np-cog-mf-sp$
-	oci	qüadratura	n$n-f	cat	quadratura	n-f$n
+	oci	qüadratura	n	cat	quadratura	n-f$n
 	oci	Hilary	np$np-ant-f-sg	cat	Hilary	np$np-ant-f-sg
 RL	oci	principau	adj	cat	cabdal	adj$adj-mf$
 RL	oci	principal	adj-GD	cat	cabdal	adj$adj-mf$
@@ -19270,7 +19270,7 @@ LR	oci	substancial	adj-m	cat	substancial	adj$adj-mf$
 	oci	Gordon	np$np-cog-mf-sp	cat	Gordon	np$np-ant-m-sg$
 	oci	Fusté	np$np-cog-mf-sp	cat	Fusté	np$np-cog-mf-sp$
 	oci	Larrinaga	np$np-cog-mf-sp	cat	Larrinaga	np$np-cog-mf-sp
-	oci	Susanna	np$np-cog-mf-sp	cat	Susanna	np$np-ant-f-sg$np-ant
+	oci	Susanna	np$np-ant-f-sg	cat	Susanna	np$np-ant-f-sg$np-ant
 	oci	Schumacher	np$np-cog-mf-sp	cat	Schumacher	np$np-cog-mf-sp$
 	oci	Orlando	np$np-cog-mf-sp	cat	Orlando	np$np-loc
 	oci	Figo	np$np-cog-mf-sp	cat	Figo	np$np-cog-mf-sp$
@@ -19311,7 +19311,7 @@ LR	oci	Argeria	np$np-top-f-sg	cat	Algèria	np$np-loc$np-loc-f
 	oci	Sebastián	np$np-cog-mf-sp	cat	Sebastián	np$np-ant-m-sg$$np-ant
 RL	oci	juvenil	adj$adj-m	cat	jovenívol	adj$$adj-f
 	oci	fnac	np	cat	fnac	np
-	oci	Esperanza	np	cat	Esperanza	np-ant-f-sg$np$np-ant
+	oci	Esperanza	np$np-ant-f-sg	cat	Esperanza	np-ant-f-sg$np$np-ant
 	oci	Pitt	np$np-cog-mf-sp	cat	Pitt	np$np-cog-mf-sp$
 LR	oci	gasòl	n$n-m	cat	gasoli	n$n-m
 	oci	gasòl	n$n-m	cat	gasoli	n$n-m
@@ -19490,7 +19490,7 @@ RL	oci	consideracion	n-f$n	cat	mirament	n-m$n
 	oci	satisfasent	adj	cat	satisfactori	adj$
 	oci	Ciurana	np$np-cog-mf-sp	cat	Ciurana	np$np-cog-mf-sp
 	oci	finlandés	adj	cat	finlandès	adj$$adj-m
-	oci	Ryanair	np	cat	Ryanair	np$np-al
+	oci	Ryanair	np$np-al	cat	Ryanair	np$np-al
 LR	oci	aimablaments	adv	cat	amablement	adv
 	oci	aimablaments	adv	cat	amablement	adv
 LR	oci	aimablament	adv	cat	amablement	adv
@@ -19583,7 +19583,7 @@ LR	oci	inesperadaments	adv	cat	inesperadament	adv
 LR	oci	inesperadament	adv	cat	inesperadament	adv
 	oci	inesperadament	adv	cat	inesperadament	adv
 	oci	defècte	n$n-m	cat	defecte	n-m$n
-	oci	inconstitucionalitat	n	cat	inconstitucionalitat	n-f$n
+	oci	inconstitucionalitat	n$n-f	cat	inconstitucionalitat	n-f$n
 	oci	apropriar	vblex	cat	apropiar	vblex$vblex-pron
 LR	oci	contravier	vblex	cat	contravenir	vblex
 	oci	contravier	vblex	cat	contravenir	vblex
@@ -19645,7 +19645,7 @@ RL	oci	intractable	adj-GD	cat	intractable	adj$adj-mf$
 LR	oci	ingovernable	adj-m	cat	ingovernable	adj$adj-mf
 LR	oci	ingovernable	adj-f	cat	ingovernable	adj$adj-mf
 RL	oci	ingovernable	adj-GD	cat	ingovernable	adj$adj-mf
-LR	oci	excitant	adj-m	cat	excitant	adj$adj-mf
+LR	oci	excitant	adj-m$adj	cat	excitant	adj$adj-mf
 LR	oci	excitant	adj-f	cat	excitant	adj$adj-mf
 RL	oci	excitant	adj-GD	cat	excitant	adj$adj-mf
 	oci	assabentar	vblex	cat	assabentar	vblex
@@ -19673,7 +19673,7 @@ RL	oci	aberrant	adj-GD$adj	cat	aberrant	adj$adj-mf
 LR	oci	aberrant	adj-m	cat	aberrant	adj$adj-mf
 LR	oci	aberrant	adj-f	cat	aberrant	adj$adj-mf
 	oci	degradar	vblex	cat	degradar	vblex
-RL	oci	degradant	adj-GD	cat	degradant	adj$adj-mf$
+RL	oci	degradant	adj-GD$adj	cat	degradant	adj$adj-mf$
 LR	oci	degradant	adj-m	cat	degradant	adj$adj-mf$
 LR	oci	degradant	adj-f	cat	degradant	adj$adj-mf$
 	oci	erotic	adj	cat	eròtic	adj$
@@ -19857,14 +19857,14 @@ RL	oci	amagar	vblex	cat	ocultar	vblex
 RL	oci	caud	adj$adj-GD	cat	càlid	adj$
 	oci	filològ	n	cat	filòleg	n$n-m
 	oci	ideològ	n	cat	ideòleg	n$n-m
-LR	oci	inimaginable	adj-m	cat	inimaginable	adj$adj-mf$
+LR	oci	inimaginable	adj-m$adj	cat	inimaginable	adj$adj-mf$
 LR	oci	inimaginable	adj-f	cat	inimaginable	adj$adj-mf$
 RL	oci	inimaginable	adj-GD	cat	inimaginable	adj$adj-mf$
 LR	oci	arderós	adj-m	cat	entusiasta	adj-mf$adj$
 LR	oci	arderós	adj-f	cat	entusiasta	adj-mf$adj$
 RL	oci	arderós	adj-GD	cat	entusiasta	adj-mf$adj$
 RL	oci	renaissença	n-f$n	cat	renaixença	n$n-f
-	oci	autograf	n	cat	autògraf	n-m$n
+	oci	autograf	n$n-m	cat	autògraf	n-m$n
 LR	oci	epistolar	adj-m	cat	epistolar	adj$adj-mf
 LR	oci	epistolar	adj-f	cat	epistolar	adj$adj-mf
 RL	oci	epistolar	adj-GD$adj	cat	epistolar	adj$adj-mf
@@ -20375,7 +20375,7 @@ RL	oci	invencion	n-f$n	cat	invenció	n-f$n
 RL	oci	demorar	vblex	cat	demorar	vblex
 	oci	Inca	np	cat	Inca	np$np-ant-f-sg
 	oci	fascinar	vblex	cat	fascinar	vblex
-RL	oci	fascinant	adj-GD	cat	fascinant	adj$adj-mf$
+RL	oci	fascinant	adj-GD$adj	cat	fascinant	adj$adj-mf$
 LR	oci	fascinant	adj-m	cat	fascinant	adj$adj-mf$
 LR	oci	fascinant	adj-f	cat	fascinant	adj$adj-mf$
 RL	oci	predominant	adj$adj-GD	cat	predominant	adj$adj-mf$
@@ -20458,13 +20458,13 @@ LR	oci	darrièrament	adv	cat	darrerament	adv
 	oci	Agnès	np$np-ant-f-sg	cat	Agnès	np$np-ant-f-sg$np-ant
 	oci	Rosario	np$np-cog-mf-sp	cat	Rosario	np$np-ant-f-sg$np-ant
 	oci	Niro	np	cat	Niro	np$np-ant$np-ant-mf
-	oci	Eqüator	np$np-top-m-sg	cat	Equador	np$np-loc$np-loc-m
-LR	oci	Equator	np	cat	Equador	np$np-loc$np-loc-m
+	oci	Eqüator	np	cat	Equador	np$np-loc$np-loc-m
+LR	oci	Equator	np$np-top-m-sg	cat	Equador	np$np-loc$np-loc-m
 	oci	Carreras	np$np-cog-mf-sp	cat	Carreras	np$np-cog-mf-sp$
 	oci	Albertis	np	cat	Albertis	np
 	oci	Monica	np$np-ant-f-sg	cat	Monica	np$np-ant-f-sg$
 	oci	Foster	np$np-cog-mf-sp	cat	Foster	np$np-cog-mf-sp$
-	oci	basilica	n$n-f	cat	basílica	n-f$n
+	oci	basilica	n$$n-f	cat	basílica	n-f$n
 	oci	astre	n-m$n	cat	astre	n$n-m
 	oci	sexualitat	n$n-f	cat	sexualitat	n-f$n
 	oci	PIMES	n-acr	cat	PIMES	n-acr
@@ -20551,7 +20551,7 @@ LR	oci	tutèla	n$n-f	cat	tutela	n-f$n
 	oci	Larry	np$np-ant-m-sg	cat	Larry	np$np-ant-m-sg
 	oci	satellit	n$n-m	cat	satèl·lit	n$n-m
 	oci	supervision	n$n-f	cat	supervisió	n-f$n
-RL	oci	impecable	adj-GD	cat	impecable	adj-mf$adj$
+RL	oci	impecable	adj-GD$adj	cat	impecable	adj-mf$adj$
 LR	oci	impecable	adj-m	cat	impecable	adj-mf$adj$
 LR	oci	impecable	adj-f	cat	impecable	adj-mf$adj$
 	oci	Stanley	np$np-cog-mf-sp	cat	Stanley	np$np-ant-m-sg$
@@ -20582,7 +20582,7 @@ RL	oci	mesurar	vblex	cat	medir	vblex
 	oci	antirrepressiu	adj	cat	antirrepressiu	adj
 	oci	Via Laietana	np	cat	Via Laietana	np$np-top
 	oci	Johan	np$np-ant-m-sg	cat	Johan	np$np-ant-m-sg$np-ant
-	oci	Hayden	np$np-cog-mf-sp	cat	Hayden	np$np-ant-m-sg
+	oci	Hayden	np$np-ant-m-sg	cat	Hayden	np$np-ant-m-sg
 LR	oci	dissident	adj-mf$adj	cat	dissident	adj-GD
 RL	oci	dissident	adj-mf$adj	cat	dissident	adj-m
 RL	oci	dissident	adj-mf$adj	cat	dissident	adj-f
@@ -20661,7 +20661,7 @@ RL	oci	impotent	adj-GD	cat	impotent	adj$adj-mf
 LR	oci	impotent	adj-m	cat	impotent	adj$adj-mf
 LR	oci	impotent	adj-f$adj	cat	impotent	adj$adj-mf
 	oci	umilitat	n$n-f	cat	humilitat	n-f$n$n-f-ND
-	oci	oportunisme	n	cat	oportunisme	n-m$n
+	oci	oportunisme	n$n-m	cat	oportunisme	n-m$n
 	oci	prepoténcia	n$n-f	cat	prepotència	n-f$n
 	oci	desillusionar	vblex	cat	desil·lusionar	vblex
 	oci	desproporcion	n$n-f	cat	desproporció	n-f$n
@@ -20810,12 +20810,12 @@ LR	oci	intuicion	n$n-f	cat	intuïció	n-f$n
 	oci	intuicion	n$n-f	cat	intuïció	n-f$n
 	oci	hip-hop	n$n-m-sg	cat	hip-hop	n$n-m
 RL	oci	comprensible	adj-GD	cat	comprensible	adj-mf$adj$
-LR	oci	comprensible	adj-m	cat	comprensible	adj-mf$adj$
+LR	oci	comprensible	adj-m$adj	cat	comprensible	adj-mf$adj$
 LR	oci	comprensible	adj-f	cat	comprensible	adj-mf$adj$
 	oci	Wood	np$np-cog-mf-sp	cat	Wood	np-cog-mf-sp$$np
 	oci	Indonesia	np$np-top-f-sg	cat	Indonèsia	np$np-loc$np-loc-f
 	oci	Jordania	np$np-top-f-sg	cat	Jordània	np$np-loc$np-loc-f
-	oci	Paraguai	np	cat	Paraguai	np$np-loc$np-loc-m
+	oci	Paraguai	np$np-top-m-sg	cat	Paraguai	np$np-loc$np-loc-m
 	oci	Memphis	np	cat	Memphis	np$np-loc
 RL	oci	mercar	vblex	cat	golejar	vblex
 RL	oci	marcar	vblex	cat	golejar	vblex
@@ -20865,7 +20865,7 @@ LR	oci	negativaments	adv	cat	negativament	adv
 	oci	negativaments	adv	cat	negativament	adv
 LR	oci	negativament	adv	cat	negativament	adv
 	oci	negativament	adv	cat	negativament	adv
-	oci	ACB	n-acr	cat	ACB	n-acr-f$n$n-acr$n-acr-f-sg
+	oci	ACB	n-acr$n-acr-f	cat	ACB	n-acr-f$n$n-acr$n-acr-f-sg
 	oci	discipol	n	cat	deixeble	n-mf-pl$n$n-mf
 LR	oci	considerablaments	adv	cat	considerablement	adv
 	oci	considerablaments	adv	cat	considerablement	adv
@@ -20899,7 +20899,7 @@ LR	oci	sincèrament	adv	cat	sincerament	adv
 	oci	Luc	np$np-cog-mf-sp	cat	Luc	np-ant-m-sg$np
 	oci	Dylan	np$np-ant-m-sg	cat	Dylan	np$np-ant-m-sg$$np-ant
 	oci	grasa	n$n-f	cat	grada	n-f$n
-	oci	COI	n-acr	cat	COI	n-acr-m-sg$n$n-acr$n-acr-m
+	oci	COI	n-acr$n-acr-m-sg	cat	COI	n-acr-m-sg$n$n-acr$n-acr-m
 	oci	ceramica	n$n-f	cat	ceràmica	n-f$n$n-f-sg
 	oci	Aribau	np$np-cog-mf-sp	cat	Aribau	np$np-cog-mf-sp
 	oci	Álex	np	cat	Álex	np$np-ant$np-ant-m-sg$
@@ -20986,7 +20986,7 @@ LR	oci	essencialament	adv	cat	essencialment	adv
 	oci	enormitat	n$n-f	cat	enormitat	n$n-f
 	oci	remòrs	n	cat	remordiment	n-m$n
 	oci	metaforic	adj	cat	metafòric	adj$
-	oci	decéncia	n	cat	decència	n-f$n
+	oci	decéncia	n$n-f	cat	decència	n-f$n
 	oci	rotonda	n$n-f	cat	rotonda	n-f$n
 	oci	rendicion	n	cat	rendició	n-f$n
 	oci	naufragar	vblex	cat	naufragar	vblex
@@ -21110,7 +21110,7 @@ LR	oci	bilingüe	adj-f	cat	bilingüe	adj-mf$adj$
 	oci	indeterminat	adj	cat	indeterminat	adj$adj-sup
 	oci	determinat	adj	cat	determinat	adj$$adj-sup
 	oci	amplor	n$n-f	cat	amplitud	n-f$n
-	oci	cacic	n	cat	cacic	n-m$n
+	oci	cacic	n$n-m	cat	cacic	n-m$n
 	oci	caciquisme	n	cat	caciquisme	n$n-m
 	oci	asturian	adj	cat	asturià	adj
 	oci	iberic	adj	cat	ibèric	adj$
@@ -21241,7 +21241,7 @@ LR	oci	bilingüe	adj-m	cat	bilingüe	adj-mf$adj$
 LR	oci	bilingüe	adj-f	cat	bilingüe	adj-mf$adj$
 	oci	indeterminat	adj	cat	indeterminat	adj$adj-sup
 	oci	amplor	n$n-f	cat	amplitud	n-f$n
-	oci	cacic	n	cat	cacic	n-m$n
+	oci	cacic	n$n-m	cat	cacic	n-m$n
 	oci	caciquisme	n	cat	caciquisme	n$n-m
 	oci	asturian	adj	cat	asturià	adj
 	oci	iberic	adj	cat	ibèric	adj$
@@ -21427,7 +21427,7 @@ LR	oci	trauès	n	cat	través	n$n-m
 	oci	trauès	n	cat	través	n$n-m
 LR	oci	travèrs	n$n-m	cat	través	n$n-m
 	oci	travèrs	n$n-m	cat	través	n$n-m
-	oci	Ridley	np$np-cog-mf-sp	cat	Ridley	np$np-ant-m-sg$
+	oci	Ridley	np$np-ant-m-sg	cat	Ridley	np$np-ant-m-sg$
 RL	oci	gojat	n	cat	minyó	n-m$n
 	oci	Fontana	np$np-cog-mf-sp	cat	Fontana	np-cog-mf-sp$np
 	oci	boicotar	vblex	cat	boicotejar	vblex
@@ -21685,7 +21685,7 @@ RL	oci	descoratjar	vblex	cat	desmaiar	vblex
 	oci	cava	n	cat	cava	n-m$n
 	oci	similitud	n$n-f	cat	similitud	n-f$n
 	oci	creacionisme	n$n-m	cat	creacionisme	n$n-m
-	oci	evolucionisme	n	cat	evolucionisme	n$n-m
+	oci	evolucionisme	n$n-m	cat	evolucionisme	n$n-m
 	oci	Clàudia	np	cat	Clàudia	np$np-ant-f-sg$np-ant
 	oci	Grégoire	np$np-cog-mf-sp	cat	Grégoire	np$np-ant-m-sg
 LR	oci	septentrionau	adj	cat	septentrional	adj$adj-mf
@@ -21724,7 +21724,7 @@ LR	oci	refortiment	n$n-m	cat	reforçament	n$n-m
 RL	oci	agotar	vblex	cat	exhaurir	vblex
 	oci	Colomé	np$np-cog-mf-sp	cat	Colomé	np$np-cog-mf-sp$
 	oci	barròc	adj	cat	barroc	adj$
-	oci	Phil	np$np-ant-m-sg	cat	Phil	np$np-ant-m-sg
+	oci	Phil	np-ant-m-sg$np	cat	Phil	np$np-ant-m-sg
 	oci	Laurent	np$np-ant-m-sg	cat	Laurent	np$np-ant-m-sg
 	oci	ensorrament	n	cat	ensorrament	n-m$n
 	oci	Kyoto	np	cat	Kyoto	np$np-loc
@@ -21891,7 +21891,7 @@ LR	oci	transpirinenc	adj	cat	transpirinenc	adj
 LR	oci	transpirenenc	adj	cat	transpirinenc	adj
 	oci	transpirenenc	adj	cat	transpirinenc	adj
 	oci	GR	n-acr	cat	GR	n-acr
-	oci	marcatge	n	cat	marcatge	n-m$n
+	oci	marcatge	n$n-m	cat	marcatge	n-m$n
 RL	oci	inseparable	adj-GD$adj	cat	inseparable	adj$adj-mf$
 LR	oci	inseparable	adj-m	cat	inseparable	adj$adj-mf$
 LR	oci	inseparable	adj-f	cat	inseparable	adj$adj-mf$
@@ -21950,7 +21950,7 @@ RL	oci	esclafar	vblex	cat	estavellar	vblex$vblex-pron
 RL	oci	temible	adj-GD	cat	temible	adj$adj-mf$
 LR	oci	temible	adj-m	cat	temible	adj$adj-mf$
 LR	oci	temible	adj-f	cat	temible	adj$adj-mf$
-RL	oci	imparable	adj-GD	cat	imparable	adj$adj-mf
+RL	oci	imparable	adj-GD$adj	cat	imparable	adj$adj-mf
 LR	oci	imparable	adj-m	cat	imparable	adj$adj-mf
 LR	oci	imparable	adj-f	cat	imparable	adj$adj-mf
 	oci	mèta	n	cat	meta	n-f$n
@@ -22066,7 +22066,7 @@ LR	oci	logicial	n$n-m	cat	programari	n-m$n$n-m-sg
 	oci	logicial	n$n-m	cat	programari	n-m$n$n-m-sg
 LR	oci	logiciau	n$n-m	cat	programari	n-m$n$n-m-sg
 	oci	logiciau	n$n-m	cat	programari	n-m$n$n-m-sg
-RL	oci	incoerent	adj-GD	cat	incoherent	adj$adj-mf$
+RL	oci	incoerent	adj-GD$adj	cat	incoherent	adj$adj-mf$
 LR	oci	incoerent	adj-m	cat	incoherent	adj$adj-mf$
 LR	oci	incoerent	adj-f	cat	incoherent	adj$adj-mf$
 	oci	Recha	np$np-cog-mf-sp	cat	Recha	np$np-cog-mf-sp
@@ -22129,20 +22129,20 @@ LR	oci	Emirats Arabes Units	np	cat	Emirats Àrabs Units	np$np-loc-m
 	oci	Emirats Arabes Units	np	cat	Emirats Àrabs Units	np$np-loc-m
 LR	oci	Emirats Arabs Units	np	cat	Emirats Àrabs Units	np$np-loc-m
 LR	oci	Emirats Arabis Units	np	cat	Emirats Àrabs Units	np$np-loc-m
-	oci	Antigua e Barbuda	np	cat	Antigua i Barbuda	np$np-loc
+	oci	Antigua e Barbuda	np$np-top-f-sg	cat	Antigua i Barbuda	np$np-loc
 	oci	Anguilla	np	cat	Anguilla	np$np-top$np-top-f-sg
 	oci	Albania	np$np-top-f-sg	cat	Albània	np$np-loc$np-loc-f
 	oci	Armenia	np$np-top-f-sg	cat	Armènia	np$np-loc$np-loc-f
 	oci	Antilhes	np	cat	Antilles	np$np-loc$np-loc-f
-	oci	Angòla	np	cat	Angola	np$np-loc$np-loc-f
+	oci	Angòla	np$np-top-f-sg	cat	Angola	np$np-loc$np-loc-f
 	oci	Antartida	np	cat	Antàrtida	np$np-loc$np-loc-f
 	oci	Samòa	np	cat	Samoa	np$np-top-f-sg$np-top
 	oci	Aruba	np$np-top-f-sg	cat	Aruba	np$np-loc$np-loc-f
 RL	oci	Aland	np	cat	Aland	np$np-top
 	oci	Azerbaidjan	np	cat	Azerbaidjan	np$np-loc-m$np-loc
 	oci	Bòsnia e Ercegovina	np$np-top-f-sg	cat	Bòsnia i Hercegovina	np$np-loc$np-loc-f
-	oci	Ercegovina	np	cat	Hercegovina	np$np-loc
-	oci	Barbados	np	cat	Barbados	np$np-loc$np-loc-f-pl
+	oci	Ercegovina	np$np-top-f-sg	cat	Hercegovina	np$np-loc
+	oci	Barbados	np$np-top-m-sg	cat	Barbados	np$np-loc$np-loc-f-pl
 	oci	Bangladesh	np	cat	Bangladesh	np$np-top-m-sg
 	oci	Burkina Faso	np$np-top-m-sg	cat	Burkina Faso	np$np-top-m-sg$np-top
 	oci	Bahrain	np	cat	Bahrain	np$np-loc$np-loc-m
@@ -22155,7 +22155,7 @@ RL	oci	Aland	np	cat	Aland	np$np-top
 	oci	Bouvet	np$np-cog-mf-sp	cat	Bouvet	np$np-cog-mf-sp$
 	oci	Botswana	np$np-top-f-sg	cat	Botswana	np$np-loc$np-loc-f
 	oci	Bielorussia	np$np-top-f-sg	cat	Bielorússia	np-top-f-sg$np$np-top
-	oci	Belize	np	cat	Belize	np$np-loc$np-loc-m
+	oci	Belize	np$np-top-m-sg	cat	Belize	np$np-loc$np-loc-m
 	oci	Keeling	np$np-cog-mf-sp	cat	Keeling	np$np-cog-mf-sp$
 	oci	Ilhes Còcos	np	cat	Illes Cocos	np$np-loc
 	oci	Republica Centreafricana	np	cat	República Centreafricana	np$np-loc$np-loc-f
@@ -22169,14 +22169,14 @@ RL	oci	Aland	np	cat	Aland	np$np-top
 	oci	Estònia	np$np-top-f-sg	cat	Estònia	np$np-loc$np-loc-f
 	oci	Eritrèa	np$np-top-f-sg	cat	Eritrea	np$np-loc$np-loc-f
 	oci	Etiopia	np$np-top-f-sg	cat	Etiòpia	np$np-loc$np-loc-f
-	oci	Fiji	np	cat	Fiji	np$np-loc$np-loc-f
+	oci	Fiji	np$np-top-f-pl	cat	Fiji	np$np-loc$np-loc-f
 	oci	Falkland	np	cat	Falkland	np$np-top$np-top-m-sg
 	oci	Malvines	np	cat	Malvines	np$np-loc$np-loc-f
 LR	oci	Malvines	np	cat	Malvines	np$np-loc$np-loc-f
 	oci	Estats Federats de Micronèsia	np	cat	Estats Federats de Micronèsia	np$np-loc
 	oci	Feròe	np	cat	Fèroe	np$np-loc
 	oci	Gabon	np$np-top-m-sg	cat	Gabon	np$np-loc$np-loc-m
-	oci	Grenada	np	cat	Grenada	np$np-loc
+	oci	Grenada	np$np-top-f-sg	cat	Grenada	np$np-loc
 	oci	Georgia	np$np-top-f-sg	cat	Geòrgia	np$np-loc$np-loc-f
 	oci	Guaiana	np$np-top-f-sg	cat	Guaiana	np$np-top$np-top-f-sg
 	oci	Guernsey	np	cat	Guernsey	np$np-top$np-top-m-sg
@@ -22198,18 +22198,18 @@ LR	oci	Guinèa Eqüatoriala	np	cat	Guinea Equatorial	np$np-loc
 	oci	Islàndia	np$np-top-f-sg	cat	Islàndia	np$np-loc$np-loc-f
 	oci	Kenya	np$np-top-f-sg	cat	Kenya	np$np-loc$np-loc-f
 	oci	Kirguizistan	np	cat	Kirguizistan	np$np-loc$np-loc-m
-	oci	Cambòtja	np	cat	Cambodja	np$np-loc$np-loc-f
+	oci	Cambòtja	np$np-top-f-sg	cat	Cambodja	np$np-loc$np-loc-f
 	oci	Kiribati	np$np-top-m-sg	cat	Kiribati	np$np-loc
 	oci	Comores	np	cat	Comores	np$np-loc$np-loc-f
 	oci	Sant Cristopher e Nevis	np	cat	Sant Cristopher i Nevis	np$np-top
-	oci	Kowait	np	cat	Kuwait	np$np-loc$np-loc-m
+	oci	Kowait	np$np-top-m-sg	cat	Kuwait	np$np-loc$np-loc-m
 	oci	Ilhes Caiman	np	cat	Illes Caiman	np$np-top
 	oci	Kazakhstan	np	cat	Kazakhstan	np$np-loc-m$np-loc
-	oci	Laos	np	cat	Laos	np$np-loc$np-loc-m
+	oci	Laos	np$np-top-m-sg	cat	Laos	np$np-loc$np-loc-m
 	oci	Liechtenstein	np$np-top-m-sg	cat	Liechtenstein	np$np-loc$np-loc-m
-	oci	Sri Lanka	np	cat	Sri Lanka	np$np-loc
-	oci	Libèria	np	cat	Libèria	np-top$np$np-top-f$np-top-f-sg
-	oci	Lesotho	np	cat	Lesotho	np$np-loc$np-loc-m
+	oci	Sri Lanka	np$np-top-m-sg	cat	Sri Lanka	np$np-loc
+	oci	Libèria	np$np-top-f-sg	cat	Libèria	np-top$np$np-top-f$np-top-f-sg
+	oci	Lesotho	np$np-top-m-sg	cat	Lesotho	np$np-loc$np-loc-m
 	oci	Lituània	np$np-top-f-sg	cat	Lituània	np$np-loc$np-loc-f
 	oci	Letònia	np$np-top-f-sg	cat	Letònia	np$np-loc$np-loc-f
 	oci	Libia	np$np-top-f-sg	cat	Líbia	np$np-loc$np-loc-f
@@ -22219,7 +22219,7 @@ LR	oci	Guinèa Eqüatoriala	np	cat	Guinea Equatorial	np$np-loc
 	oci	Mali	np$np-top-m-sg	cat	Mali	np$np-loc
 	oci	Myanmar	np	cat	Myanmar	np$np-loc
 	oci	Mongolia	np$np-top-f-sg	cat	Mongòlia	np$np-loc$np-loc-f
-	oci	Macau	np	cat	Macau	np$np-loc
+	oci	Macau	np$np-top-m-sg	cat	Macau	np$np-loc
 LR	oci	Ilhes Marianes deth Nòrd	np	cat	Illes Marianes del Nord	np
 	oci	Ilhes Marianes deth Nòrd	np	cat	Illes Marianes del Nord	np
 LR	oci	Ilhes Marianes del Nòrd	np	cat	Illes Marianes del Nord	np
@@ -22231,10 +22231,10 @@ LR	oci	Maldivas	np$np-top-f-pl	cat	Maldives	np$np-loc$np-loc-f
 	oci	Maldivas	np$np-top-f-pl	cat	Maldives	np$np-loc$np-loc-f
 	oci	Malawi	np$np-top-m-sg	cat	Malawi	np$np-top$np-top-m-sg
 	oci	Malàisia	np$np-top-f-sg	cat	Malàisia	np$np-loc$np-loc-f
-	oci	Moçambic	np	cat	Moçambic	np$np-loc$np-loc-m
-	oci	Namibia	np	cat	Namíbia	np$np-loc$np-loc-f
+	oci	Moçambic	np$np-top-m-sg	cat	Moçambic	np$np-loc$np-loc-m
+	oci	Namibia	np$np-top-f-sg	cat	Namíbia	np$np-loc$np-loc-f
 	oci	Naua Caledònia	np	cat	Nova Caledònia	np$np-loc$np-loc-f
-	oci	Nigèr	np	cat	Níger	np$np-loc$np-loc-m
+	oci	Nigèr	np$np-top-m-sg	cat	Níger	np$np-loc$np-loc-m
 	oci	Ilha Norfolk	np	cat	Illa Norfolk	np$np-top
 	oci	Nigèria	np$np-top-f-sg	cat	Nigèria	np$np-loc$np-loc-f
 	oci	Nicaragua	np$np-top-f-sg	cat	Nicaragua	np$np-loc$np-loc-f
@@ -22256,21 +22256,21 @@ LR	oci	Filipinas	np$np-top-f-pl	cat	Filipines	np$np-loc$np-loc-f
 	oci	Ruanda	np	cat	Ruanda	np$np-loc
 	oci	Ilhes Salomon	np	cat	Illes Salomó	np
 LR	oci	Seychelles	np	cat	Seychelles	np$np-loc$np-loc-f
-	oci	Seichèlas	np	cat	Seychelles	np$np-loc$np-loc-f
+	oci	Seichèlas	np$np-top-f-pl	cat	Seychelles	np$np-loc$np-loc-f
 	oci	Eslovènia	np$np-top-f-sg	cat	Eslovènia	np$np-loc$np-loc-f
 	oci	Svalbard	np$np-top-m-sg	cat	Svalbard	np$np-loc
 	oci	Jan Mayen	np	cat	Jan Mayen	np$np-loc
 	oci	Eslovaquia	np$np-top-f-sg	cat	Eslovàquia	np$np-loc$np-loc-f
-	oci	Sierra Leone	np	cat	Sierra Leone	np$np-top-m-sg$np-top
+	oci	Sierra Leone	np$np-top-m-sg	cat	Sierra Leone	np$np-top-m-sg$np-top
 	oci	Sant Marino	np	cat	Sant Marino	np$np-loc
-	oci	Somalia	np	cat	Somàlia	np$np-loc$np-loc-f
+	oci	Somalia	np$np-top-f-sg	cat	Somàlia	np$np-loc$np-loc-f
 	oci	Surinam	np$np-top-m-sg	cat	Surinam	np$np-loc$np-loc-m
 	oci	Sant Tomé e Principe	np	cat	Sant Tomé i Príncipe	np
 	oci	Swazilàndia	np	cat	Swazilàndia	np$np-loc$np-loc-f
 	oci	Ilhes Turks e Caicos	np	cat	Illes Turks i Caicos	np$np-top
-	oci	Chad	np	cat	Txad	np$np-loc$np-loc-m
+	oci	Chad	np$np-top-m-sg	cat	Txad	np$np-loc$np-loc-m
 	oci	Tèrres Australas Franceses	np	cat	Terres Australs Franceses	np$np-top
-	oci	Tògo	np	cat	Togo	np$np-loc$np-loc-m
+	oci	Tògo	np$np-top-m-sg	cat	Togo	np$np-loc$np-loc-m
 	oci	Tadjikistan	np	cat	Tadjikistan	np$np-top-m-sg$np-top
 	oci	Tokelau	np	cat	Tokelau	np$np-top$np-top-m-sg
 	oci	Timor-Leste	np	cat	Timor-Leste	np$np-top-m-sg$np-top
@@ -22279,12 +22279,12 @@ LR	oci	Seychelles	np	cat	Seychelles	np$np-loc$np-loc-f
 	oci	Tonga	np	cat	Tonga	np$np-loc$np-loc-f
 	oci	Trinitat e Tobago	np$np-top-f-sg	cat	Trinitat i Tobago	np$np-loc
 	oci	Tuvalu	np$np-top-m-sg	cat	Tuvalu	np$np-loc
-	oci	Tanzania	np	cat	Tanzània	np$np-loc$np-loc-f
+	oci	Tanzania	np$np-top-f-sg	cat	Tanzània	np$np-loc$np-loc-f
 	oci	Ilhes Periferiques Menors d'USA	np	cat	Illes Perifèriques Menors d'USA	np
 	oci	Uzbekistan	np	cat	Uzbekistan	np$np-top-m-sg$np-top
 	oci	Sant Vincent e es Grenadines	np	cat	Sant Vincent i les Grenadines	np$np-top
 	oci	Vanuatu	np$np-top-m-sg	cat	Vanuatu	np$np-loc
-	oci	Wallis e Futuna	np	cat	Wallis i Futuna	np$np-top
+	oci	Wallis e Futuna	np$np-top-m-sg	cat	Wallis i Futuna	np$np-top
 	oci	Samòa	np	cat	Samoa	np$np-top-f-sg$np-top
 	oci	Iemèn	np$np-top-m-sg	cat	Iemen	np$np-loc$np-loc-m
 	oci	Maiòta	np$np-top-f-sg	cat	Mayotte	np$np-top
@@ -22356,7 +22356,7 @@ LR	oci	glaça	n-f	cat	glaç	n-m$n
 	oci	Savòia	np$np-top-f-sg	cat	Savoia	np-loc$np
 	oci	Eure	np$np-top-m-sg	cat	Eure	np$np-loc
 	oci	Mónegue	np	cat	Mònaco	np$np-loc$np-loc-m
-	oci	otramar	n	cat	ultramar	n$n-m
+	oci	otramar	n$n-m	cat	ultramar	n$n-m
 	oci	Loir	np	cat	Loir	np$np-loc
 	oci	Oise	np$np-top-m-sg	cat	Oise	np$np-top
 	oci	Johnson	np$np-cog-mf-sp	cat	Johnson	np$$np-ant$np-ant-mf
@@ -22380,8 +22380,8 @@ LR	oci	Auvèrnha	np$np-top-f-sg	cat	Alvèrnia	np$np-loc
 	oci	Richardson	np$np-cog-mf-sp	cat	Richardson	np$np-cog-mf-sp$
 	oci	Biscaia	np	cat	Biscaia	np$np-loc
 	oci	Thomson	np$np-al	cat	Thomson	np$$np-cog$np-cog-mf-sp
-RL	oci	Azerbaitjan	np	cat	Azerbaitjan	np$np-top
-	oci	Azerbaitjan	np	cat	Azerbaidjan	np$np-loc-m$np-loc
+RL	oci	Azerbaitjan	np$np-top-m-sg	cat	Azerbaitjan	np$np-top
+	oci	Azerbaitjan	np$np-top-m-sg	cat	Azerbaidjan	np$np-loc-m$np-loc
 	oci	Losera	np$np-top-f-sg	cat	Losera	np$np-top
 	oci	armèni	adj	cat	armeni	adj$
 	oci	isotòp	adj	cat	isòtop	adj
@@ -22409,13 +22409,13 @@ RL	oci	Azerbaitjan	np	cat	Azerbaitjan	np$np-top
 	oci	Alèir	np$np-top-m-sg	cat	Alier	np$np-cog-mf-sp$
 LR	oci	Alièr	np	cat	Alier	np$np-cog-mf-sp$
 	oci	Waals	np$np-cog-mf-sp	cat	Waals	np$np-cog-mf-sp
-	oci	Harrison	np$np-cog-mf-sp	cat	Harrison	np$np-ant-m-sg$
+	oci	Harrison	np$np-ant-m-sg	cat	Harrison	np$np-ant-m-sg$
 	oci	Marga	np-ant	cat	Marga	$np-ant
 	oci	Isèra	np$np-top-f-sg	cat	Isèra	np$np-top
 	oci	Ligúria	np	cat	Ligúria	np$np-loc
 	oci	Denis	np$np-cog-mf-sp	cat	Denis	np$np-ant-m-sg$$np-ant
 	oci	Corresa	np	cat	Corresa	np$np-top
-	oci	Comòras	np	cat	Comores	np$np-loc$np-loc-f
+	oci	Comòras	np$np-top-f-pl	cat	Comores	np$np-loc$np-loc-f
 	oci	archipèl	n$n-m	cat	arxipèlag	n-m$n
 	oci	Bordèu	np$np-top-m-sg	cat	Bordeus	np$np-top-m-sg$np-top
 	oci	discografia	n$n-f	cat	discografia	n-f$n
@@ -22431,7 +22431,7 @@ RL	oci	Coni	np	cat	Coni	np
 	oci	Mòsa	np$np-top-f-sg	cat	Mosa	np$np-top-m-sg
 	oci	Lanas	np$np-top-f-pl	cat	Landes	np$np-top
 RL	oci	Lanas	np$np-top-f-pl	cat	Lanas	np
-	oci	Jiboti	np	cat	Djibouti	np$np-loc$np-loc-m
+	oci	Jiboti	np$np-top-m-sg	cat	Djibouti	np$np-loc$np-loc-m
 	oci	Gers	np$np-top-m-sg	cat	Gers	np$np-top
 	oci	tièra quimica	n-f	cat	grup químic	n-m
 	oci	Vauclusa	np$np-top-f-sg	cat	Valclusa	np$np-top
@@ -22514,7 +22514,7 @@ LR	oci	austral	adj-f	cat	austral	adj$adj-mf$
 RL	oci	austral	adj-GD	cat	austral	adj$adj-mf$
 	oci	antartic	adj	cat	antàrtic	adj$
 	oci	prefectura	n$n-f	cat	prefectura	n-f$n
-	oci	electronegativitat	n	cat	electronegativitat	n-f$n
+	oci	electronegativitat	n$n-f	cat	electronegativitat	n-f$n
 	oci	cronologia	n$n-f	cat	cronologia	n-f$n
 	oci	vaporizacion	n$n-f	cat	vaporització	n-f$n
 	oci	ebullicion	n$n-f	cat	ebullició	n-f$n
@@ -22525,7 +22525,7 @@ RL	oci	austral	adj-GD	cat	austral	adj$adj-mf$
 	oci	nomenclatura	n$n-f	cat	nomenclatura	n-f$n
 	oci	leopard	n	cat	lleopard	n-m$n
 	oci	calorific	adj	cat	calorífic	adj
-LR	oci	covalent	adj-m	cat	covalent	adj-mf$adj
+LR	oci	covalent	adj-m$adj	cat	covalent	adj-mf$adj
 LR	oci	covalent	adj-f	cat	covalent	adj-mf$adj
 RL	oci	covalent	adj-GD	cat	covalent	adj-mf$adj
 	oci	èrra	n	cat	erra	n$n-f
@@ -22749,14 +22749,14 @@ RL	oci	en cò vòste	adv	cat	a ca vostra	adv
 	oci	Anecí	np$np-top-m-sg	cat	Annecy	np$np-top
 	oci	Angieus	np$np-top-m-sg	cat	Angers	np$np-top$
 	oci	Anglatèrra	np$np-top-f-sg	cat	Anglaterra	np$np-loc$np-loc-f
-	oci	Angòla	np	cat	Angola	np$np-loc$np-loc-f
+	oci	Angòla	np$np-top-f-sg	cat	Angola	np$np-loc$np-loc-f
 	oci	Anguilla	np	cat	Anguilla	np$np-top$np-top-f-sg
 	oci	Anjau	np$np-top-m-sg	cat	Anjou	np$np-top-m-sg$np-top
 	oci	Ankara	np	cat	Ankara	np$np-loc$np-loc-f
 	oci	Anshan	np	cat	Anshan	np$np-top
 	oci	Antananarivo	np	cat	Antananarivo	np$np-top
 	oci	Antartida	np	cat	Antàrtida	np$np-loc$np-loc-f
-	oci	Antigua e Barbuda	np	cat	Antigua i Barbuda	np$np-loc
+	oci	Antigua e Barbuda	np$np-top-f-sg	cat	Antigua i Barbuda	np$np-loc
 	oci	Antilhas	np$np-top-f-pl	cat	Antilles	np$np-loc$np-loc-f
 	oci	Antipòdes	np	cat	Antípodes	np$np-top
 	oci	Anvèrs	np$np-top-m-sg	cat	Anvers	np-top-m$np$np-top
@@ -22766,7 +22766,7 @@ RL	oci	en cò vòste	adv	cat	a ca vostra	adv
 	oci	Apia	np	cat	Apia	np$np-top$np-top-f-sg
 	oci	Aqmola	np	cat	Aqmola	np$np-top
 	oci	Aquisgran	np$np-top-m-sg	cat	Aquisgrà	np$np-top-m-sg$np-top
-	oci	Arabia Saudita	np	cat	Aràbia Saudita	np$np-loc$np-loc-f
+	oci	Arabia Saudita	np$np-top-f-sg	cat	Aràbia Saudita	np$np-loc$np-loc-f
 	oci	Arabia	np$np-loc	cat	Aràbia	np$np-loc$np-loc-f
 	oci	Aragon	np$np-top-m-sg	cat	Aragó	np$np-loc$$np-loc-m
 	oci	Arcadia	np	cat	Arcàdia	np$np-top-f-sg$np-top
@@ -22781,7 +22781,7 @@ RL	oci	en cò vòste	adv	cat	a ca vostra	adv
 	oci	Arràs	np$np-top-m-sg	cat	Arràs	np$np-top
 	oci	Artés	np$np-cog-mf-sp	cat	Artois	np$np-cog-mf-sp
 	oci	Artida	np	cat	Àrtica	np$np-top
-	oci	Asia	np$np-top-f-sg	cat	Àsia	np$np-loc$np-loc-f
+	oci	Asia	np$np-ant-f-sg	cat	Àsia	np$np-loc$np-loc-f
 	oci	Asmara	np	cat	Asmara	np$np-top
 	oci	Assiot	np	cat	Asyut	np$np-top
 	oci	Assisi	np	cat	Assís	np$np-loc
@@ -22813,10 +22813,10 @@ RL	oci	en cò vòste	adv	cat	a ca vostra	adv
 	oci	Bandung	np	cat	Bandung	np$np-top
 	oci	Bangalòre	np	cat	Bangalore	np$np-top$np-top-m-sg
 	oci	Bangkòk	np$np-top-m-sg	cat	Bangkok	np$np-loc$np-loc-m
-	oci	Bangladèsh	np	cat	Bangla Desh	np$np-loc$np-loc-f
+	oci	Bangladèsh	np$np-top-m-sg	cat	Bangla Desh	np$np-loc$np-loc-f
 	oci	Bangui	np$np-top-m-sg	cat	Bangui	np$np-top$np-top-m-sg
 	oci	Banjul	np	cat	Banjul	np$np-top$np-top-m-sg
-	oci	Barbados	np	cat	Barbados	np$np-loc$np-loc-f-pl
+	oci	Barbados	np$np-top-m-sg	cat	Barbados	np$np-loc$np-loc-f-pl
 	oci	Barbesiu	np	cat	Barbézieux	np$np-top
 	oci	Barcelona	np$np-top-f-sg	cat	Barcelona	np$np-loc$np-loc-f$
 	oci	Bari	np	cat	Bari	np$np-loc
@@ -22840,7 +22840,7 @@ LR	oci	País Basc	np	cat	País Basc	np$np-loc$np-loc-m
 	oci	Belfòrt	np$np-top-m-sg	cat	Belfort	np$np-top$np-top-m-sg
 	oci	Belgica	np$np-top-f-sg	cat	Bèlgica	np$np-loc$np-loc-f
 	oci	Belgrad	np$np-top-m-sg	cat	Belgrad	np$np-loc$np-loc-m
-	oci	Belize	np	cat	Belize	np$np-loc$np-loc-m
+	oci	Belize	np$np-top-m-sg	cat	Belize	np$np-loc$np-loc-m
 	oci	Belmopan	np	cat	Belmopan	np$np-top
 	oci	Belo Horizonte	np	cat	Belo Horizonte	np$np-top
 	oci	Benarès	np	cat	Benarés	np$np-top
@@ -22856,7 +22856,7 @@ LR	oci	País Basc	np	cat	País Basc	np$np-loc$np-loc-m
 	oci	lac Baikal	np	cat	llac Baikal	np$np-top
 	oci	l'Alguer	np	cat	l'Alguer	np$np-loc-m
 	oci	L'Avana	np	cat	L'Havana	np$np-top-f-sg
-	oci	mar d'Aral	np	cat	mar d'Aral	np$np-top
+	oci	mar d'Aral	np$np-top-f-sg	cat	mar d'Aral	np$np-top
 	oci	mar d'Azov	np	cat	mar d'Azov	np$np-top
 	oci	mar de Barents	np	cat	mar de Barents	np$np-top-m-sg
 	oci	mar de Beaufort	np	cat	mar de Beaufort	np$np-loc
@@ -23108,7 +23108,7 @@ RL	oci	aprobacion	n-f$n	cat	beneplàcit	n-m$n
 	oci	sosdelegat	n	cat	subdelegat	n$n-GD
 	oci	delegat	n	cat	delegat	n$n-m
 	oci	sosdesvolopament	n	cat	subdesenvolupament	n$n-m
-	oci	sosdialècte	n	cat	subdialecte	n$n-m
+	oci	sosdialècte	n$n-m	cat	subdialecte	n$n-m
 	oci	sosdirector	n	cat	subdirector	n
 	oci	sosentendre	vblex	cat	subentendre	vblex
 	oci	sosestimacion	n	cat	subestimació	n$n-f
@@ -23231,14 +23231,14 @@ LR	oci	Baisha Cerdanha	np	cat	Baixa Cerdanya	np
 LR	oci	Bassa Normandia	np$np-top-f-sg	cat	Baixa Normandia	np
 	oci	Baisha Normandia	np	cat	Baixa Normandia	np
 LR	oci	Baisha Normandia	np	cat	Baixa Normandia	np
-	oci	Belau	np	cat	Palau	np$np-cog-mf-sp$
+	oci	Belau	np$np-top-f-pl	cat	Palau	np$np-cog-mf-sp$
 	oci	Belfast	np$np-top-m-sg	cat	Belfast	np$np-top-m-sg$np-top
 	oci	Bengaluru	np	cat	Bangalore	np$np-top$np-top-m-sg
 RL	oci	Benin	np$np-top-m-sg	cat	Benin	np
 	oci	Beqaa	np	cat	Al Biqa	np
 	oci	Bergam	np	cat	Bèrgam	np$np-loc
 	oci	Berguedan	np	cat	Berguedà	np$np-loc$np-loc-f
-	oci	Bermudas	np	cat	Bermudes	np$np-loc$np-loc-f
+	oci	Bermudas	np$np-top-f-pl	cat	Bermudes	np$np-loc$np-loc-f
 	oci	Berrí	np	cat	Berry	np-cog-mf-sp$$np
 	oci	Besançon	np$np-top-m-sg	cat	Besançon	np$np-top-m-sg
 	oci	Bessaràbia	np	cat	Bessaràbia	np$np-top-f$np-top-f-sg
@@ -23263,7 +23263,7 @@ RL	oci	Borges	np$np-cog-mf-sp	cat	Bourges	np
 	oci	Bornèo	np	cat	Borneo	np$np-loc
 	oci	Bosfòr	np$np-top-m-sg	cat	Bòsfor	np$np-loc
 	oci	Boston	np$np-top-m-sg	cat	Boston	np$np-loc
-	oci	Botan	np	cat	Bhutan	np$np-loc
+	oci	Botan	np$np-top-m-sg	cat	Bhutan	np$np-loc
 	oci	Bougainville	np	cat	Bougainville	np$np-top-m-sg
 	oci	Boèmia	np$np-top-f-sg	cat	Bohèmia	np$np-loc$np-loc-f
 	oci	Bozen	np	cat	Bozen	np
@@ -23282,7 +23282,7 @@ RL	oci	Borges	np$np-cog-mf-sp	cat	Bourges	np
 	oci	Bronswiek	np	cat	Brunsvic	np
 	oci	Brossa	np$np-cog-mf-sp	cat	Bursa	np$np-top-f-sg
 	oci	Brujas	np$np-top-m-sg	cat	Bruges	np$np-top-m-sg
-	oci	Brunei	np	cat	Brunei	np$np-loc$np-loc-m
+	oci	Brunei	np$np-top-m-sg	cat	Brunei	np$np-loc$np-loc-m
 	oci	Brussèlas	np$np-top-m-sg	cat	Brussel·les	np-loc$np$np-loc-f
 	oci	Brèma	np	cat	Brema	np
 	oci	Brèst	np$np-top-m-sg	cat	Brest	np$np-top-m-sg
@@ -23313,7 +23313,7 @@ RL	oci	Borges	np$np-cog-mf-sp	cat	Bourges	np
 	oci	Canàrias	np	cat	Canàries	np$np-top-f-pl$np-top-f
 	oci	cap de Bona Esperança	np	cat	cap de Bona Esperança	np
 	oci	cap Hòrn	np	cat	cap d'Hornos	np
-	oci	Cap Verd	np	cat	Cap Verd	np$np-loc$np-loc-m
+	oci	Cap Verd	np$np-top-m-sg	cat	Cap Verd	np$np-loc$np-loc-m
 	oci	Capcir	np	cat	Capcir	np$np-loc-f
 	oci	Cardiff	np$np-top-m-sg	cat	Cardiff	np$np-loc
 	oci	Cariba	np	cat	Caribm	np
@@ -23411,7 +23411,7 @@ RL	oci	Borges	np$np-cog-mf-sp	cat	Bourges	np
 	oci	Cremona	np	cat	Cremona	np
 	oci	Creta	np$np-top-f-sg	cat	Creta	np$np-loc$np-loc-f
 	oci	Crimèa	np$np-top-f-sg	cat	Crimea	np$np-loc
-	oci	Curdistan	np	cat	Kurdistan	np$np-loc$np-loc-m
+	oci	Curdistan	np$np-top-m-sg	cat	Kurdistan	np$np-loc$np-loc-m
 	oci	Cusco	np$np-cog-mf-sp	cat	Cusco	np$np-cog-mf-sp$
 	oci	Càndia	np	cat	Càndia	np
 	oci	Còme	np	cat	Como	np
@@ -23488,7 +23488,7 @@ RL	oci	Borges	np$np-cog-mf-sp	cat	Bourges	np
 	oci	Engolmís	np	cat	Angoumois	np
 	oci	Eolia	np	cat	Eòlia	np
 	oci	Epir	np	cat	Epir	np$np-top-m-sg
-	oci	Equator	np	cat	Equador	np$np-loc$np-loc-m
+	oci	Equator	np$np-top-m-sg	cat	Equador	np$np-loc$np-loc-m
 	oci	Erevan	np$np-top-m-sg	cat	Erevan	np$np-loc
 	oci	Escalda	np	cat	Escalda	np$np-top-f-sg
 	oci	Escandinàvia	np$np-top-f-sg	cat	Escandinàvia	np$np-loc$np-loc-f
@@ -23517,7 +23517,7 @@ RL	oci	Extremadura	np	cat	Estremadura	np$np-top
 	oci	Famagosta	np	cat	Famagusta	np
 	oci	Fayyum	np	cat	Faium	np
 	oci	Ferrara	np$np-cog-mf-sp	cat	Ferrara	np-cog-mf-sp$np
-	oci	Fiji	np	cat	Fiji	np$np-loc$np-loc-f
+	oci	Fiji	np$np-top-f-pl	cat	Fiji	np$np-loc$np-loc-f
 	oci	Filadèlfia	np$np-top-f-sg	cat	Filadèlfia	np$np-loc
 	oci	Fiònia	np	cat	Fiònia	np
 	oci	Flandra	np-top-f-sg$np	cat	Flandes	np$np-top-f-sg
@@ -23582,7 +23582,7 @@ RL	oci	Extremadura	np	cat	Estremadura	np$np-top
 	oci	Greenwich	np	cat	Greenwich	np$np-top-m-sg
 	oci	Grenòble	np$np-top-f-sg	cat	Grenoble	np
 	oci	Grisons	np	cat	Grisons	np
-	oci	Groenlàndia	np	cat	Grenlàndia	np$np-loc$np-loc-f
+	oci	Groenlàndia	np$np-top-f-sg	cat	Grenlàndia	np$np-loc$np-loc-f
 	oci	Groninga	np	cat	Groningen	np$np-top-m-sg
 	oci	Guadalope	np-loc$np	cat	Guadeloupe	np$np-top-f-sg
 	oci	Guadalquivir	np	cat	Guadalquivir	np$np-loc
@@ -23591,7 +23591,7 @@ RL	oci	Extremadura	np	cat	Estremadura	np$np-top
 	oci	Guaianas	np	cat	Guaianes	np
 	oci	Guayaquil	np	cat	Guayaquil	np$np-top-m-sg
 	oci	Guinèa Bissau	np$np-top-f-sg	cat	Guinea Bissau	np$np-top-f-sg
-	oci	Guinèa Equatoriala	np	cat	Guinea Equatorial	np$np-loc
+	oci	Guinèa Equatoriala	np$np-top-f-sg	cat	Guinea Equatorial	np$np-loc
 	oci	Guipuscoa	np	cat	Guipúscoa	np$np-loc
 	oci	Guèldres	np	cat	Gelderland	np
 	oci	Gàllia	np$np-top-f-sg	cat	Gàl·lia	np-loc$np
@@ -23615,7 +23615,7 @@ RL	oci	Extremadura	np	cat	Estremadura	np$np-top
 	oci	Honduras	np	cat	Hondures	np$np-loc$np-loc-f
 	oci	Honiara	np	cat	Honiara	np
 	oci	Honshu	np	cat	Honshu	np
-	oci	Houston	np$np-cog-mf-sp	cat	Houston	np$np-ant-m-sg$np-ant
+	oci	Houston	np-ant-m-sg$np	cat	Houston	np$np-ant-m-sg$np-ant
 	oci	Huanghe	np	cat	Huang He	np
 	oci	Hòms	np-loc	cat	Homs	np-loc
 	oci	Iacotia	np	cat	Iacútia	np$np-top-f-sg
@@ -23627,7 +23627,7 @@ RL	oci	Extremadura	np	cat	Estremadura	np$np-top
 	oci	illa de l'Ascension	np	cat	illa de l'Ascensió	np$np-top
 	oci	illa de Pascas	np	cat	illa de Pasqua	np$np-top-f-sg
 	oci	illa del Prince Edoard	np	cat	illa del Príncep Eduard	np
-	oci	illas Australas	np	cat	illes Australs	np
+	oci	illas Australas	np$np-top-f-pl	cat	illes Australs	np
 	oci	illas Balearas e Pitiusas	np	cat	illes Balears i Pitiüses	np
 	oci	illas Bounty	np	cat	illes Bounty	np
 	oci	illas Britanicas	np	cat	illes Britàniques	np$np-loc-f
@@ -23658,7 +23658,7 @@ RL	oci	Extremadura	np	cat	Estremadura	np$np-top
 	oci	Jakarta	np$np-top-f-sg	cat	Jakarta	np
 	oci	Java	np$np-al-m-sg	cat	Java	np$np-al$np-al-m-sg
 	oci	Jayapura	np	cat	Jayapura	np
-	oci	Jena	np	cat	Jena	np-ant-f-sg$np
+	oci	Jena	np$np-ant-f-sg	cat	Jena	np-ant-f-sg$np
 	oci	Jericò	np	cat	Jericó	np
 	oci	Jerusalèm	np$np-top-m-sg	cat	Jerusalem	np$np-loc$np-loc-m
 	oci	Jidda	np	cat	Jidda	np
@@ -23708,7 +23708,7 @@ RL	oci	Extremadura	np	cat	Estremadura	np$np-top
 	oci	La Coronha	np	cat	la Corunya	np$np-loc
 	oci	La Mèca	np	cat	la Meca	np
 	oci	Labord	np$np-top-m-sg	cat	Lapurdi	np
-	oci	La Paz	np	cat	La Paz	np$np-loc
+	oci	La Paz	np$np-top-f-sg	cat	La Paz	np$np-loc
 	oci	Labrador	np$np-cog-mf-sp	cat	Labrador	np$np-cog-mf-sp$
 	oci	La Rioja	np	cat	la Rioja	np
 	oci	La Rochèla	np$np-top-f-sg	cat	La Rochelle	np
@@ -23741,12 +23741,12 @@ RL	oci	Extremadura	np	cat	Estremadura	np$np-top
 	oci	Lampedosa	np	cat	Lampedusa	np
 	oci	Lanzhou	np	cat	Lanzhou	np
 	oci	Lapònia	np	cat	Lapònia	np-loc-f$np
-	oci	Larissa	np$np-ant-f-sg	cat	Làrissa	np
+	oci	Larissa	np-ant-f-sg$np	cat	Làrissa	np
 	oci	Las Vegas	np$np-top-f-sg	cat	Las Vegas	np$np-loc
 	oci	Lausana	np$np-top-f-sg	cat	Lausana	np$np-top-f-sg
 	oci	Le Havre	np	cat	Le Havre	np-top$np
 	oci	Leipzig	np	cat	Leipzig	np$np-top-m$np-top-m-sg
-	oci	Lena	np	cat	lena	np
+	oci	Lena	np$np-ant-f-sg	cat	lena	np
 	oci	Leningrad	np-top-m-sg$np	cat	Leningrad	np$np-top-m-sg
 	oci	Lens	np	cat	Lens	np
 	oci	Leon	np-loc	cat	Lleó	np-loc
@@ -23771,7 +23771,7 @@ RL	oci	Extremadura	np	cat	Estremadura	np$np-top
 	oci	lo Caire	np	cat	el Caire	np$np-loc$np-loc-m
 LR	oci	lo Caire	np	cat	el Caire	np$np-loc$np-loc-m
 	oci	Lo Mans	np$np-top-m-sg	cat	Le Mans	np$np-loc
-	oci	Lo Salvador	np	cat	el Salvador	np
+	oci	Lo Salvador	np$np-top-m-sg	cat	el Salvador	np
 	oci	Logronh	np	cat	Logronyo	np$np-loc
 	oci	Lombardia	np$np-top-f-sg	cat	Llombardia	np$np-loc
 	oci	Lomí	np	cat	Lomí	np
@@ -23781,8 +23781,8 @@ LR	oci	lo Caire	np	cat	el Caire	np$np-loc$np-loc-m
 	oci	Luca	np$np-ant-m-sg	cat	Lucca	np$np-loc$
 	oci	Lucèrna	np	cat	Lucerna	np
 	oci	Luhansk	np	cat	Luhansk	np
-	oci	Lusaka	np	cat	Lusaka	np
-	oci	Lusàcia	np	cat	Lusàcia	np
+	oci	Lusaka	np$np-top-f-sg	cat	Lusaka	np
+	oci	Lusàcia	np$np-top-f-sg	cat	Lusàcia	np
 	oci	Luzon	np$np-cog-mf-sp	cat	Luzon	np$np-top
 	oci	Lviv	np	cat	Lviv	np$np-top-m
 	oci	l'Aia	np	cat	l'Haia	np$np-top
@@ -23865,11 +23865,11 @@ RL	oci	Marna	np$np-top-m-sg	cat	Marne	np$np-loc
 	oci	Meknès	np	cat	Meknès	np
 	oci	Mekong	np	cat	Mekong	np$np-top-m-sg
 	oci	Menfis	np	cat	Memfis	np$np-loc
-	oci	Menòrca	np	cat	Menorca	np$np-loc$np-loc-f
+	oci	Menòrca	np$np-top-f-sg	cat	Menorca	np$np-loc$np-loc-f
 	oci	Messenia	np	cat	Messènia	np$np-loc
 	oci	Messina	np$np-cog-mf-sp	cat	Messina	np$np-cog-mf-sp
 	oci	Michigan	np$np-top-m-sg	cat	Michigan	np$np-loc
-	oci	Micronesia	np	cat	Micronèsia	np$np-loc$np-loc-f
+	oci	Micronesia	np$np-top-f-sg	cat	Micronèsia	np$np-loc$np-loc-f
 	oci	Milan	np$np-top-m-sg	cat	Milà	np$np-top$np-top-m-sg$$np-top-m
 	oci	Milanís	np	cat	Milanesat	np$np-top
 	oci	Mindanao	np	cat	Mindanao	np$np-loc
@@ -23888,7 +23888,7 @@ RL	oci	Marna	np$np-top-m-sg	cat	Marne	np$np-loc
 	oci	Mondví	np	cat	Mondovì	np
 	oci	Mongolia Interiora	np	cat	Mongòlia Interior	np
 	oci	Monròvia	np	cat	Monròvia	np$np-loc$np-loc-f
-	oci	Montana	np$np-top-f-sg	cat	Montana	np-ant-f-sg$np
+	oci	Montana	np-ant-f-sg$np	cat	Montana	np-ant-f-sg$np
 	oci	montanhas Rocosas	np	cat	untanyes Rocalloses	np
 	oci	mont Blanc	np	cat	mont Blanc	np
 	oci	mont Cervin	np	cat	mont Cervin	np
@@ -23936,7 +23936,7 @@ LR	oci	mont Sinaí	np	cat	mont Sinaí	np
 	oci	Nauta Ribagòrça	np	cat	Alta Ribagorça	np$np-loc$np-loc-f
 	oci	Naut Camp	np	cat	Alt Camp	np$np-loc$np-loc-f
 	oci	Naut Empordanm	np	cat	Alt Empordà	np$np-loc$np-loc-f
-	oci	Naut Karabagh	np	cat	Nagorno-Karabakh	np$np-top-m-sg
+	oci	Naut Karabagh	np$np-top-m-sg	cat	Nagorno-Karabakh	np$np-top-m-sg
 	oci	Naut Maestrat	np	cat	Alt Maestrat	np$np-loc-f
 	oci	Naut Millars	np	cat	Alt Millars	np$np-loc-f
 	oci	Naut Palància	np	cat	Alt Palància	np$np-loc-f
@@ -23946,7 +23946,7 @@ LR	oci	mont Sinaí	np	cat	mont Sinaí	np
 	oci	Nazaret	np$np-top-f-sg	cat	Natzaret	np$np-loc$np-loc-m
 	oci	Nebraska	np$np-top-f-sg	cat	Nebraska	np$np-top-f-sg
 	oci	Nevada	np$np-top-f-sg	cat	Nevada	np$np-loc-f
-	oci	Niamey	np	cat	Niamey	np
+	oci	Niamey	np$np-top-m-sg	cat	Niamey	np
 	oci	Nicobar	np	cat	Nicobar	np
 	oci	Nicomèdia	np	cat	Nicomèdia	np
 	oci	Nicosia	np$np-top-f-sg	cat	Nicòsia	np$np-top-f-sg$np-top-f
@@ -24011,16 +24011,16 @@ LR	oci	mont Sinaí	np	cat	mont Sinaí	np
 	oci	Orleanís	np	cat	Orleanès	np
 	oci	Ormuz	np	cat	Ormuz	np
 	oci	Osaka	np$np-cog-mf-sp	cat	Osaka	np$np-loc
-	oci	Ossetia	np	cat	Ossètia	np$np-top-f-sg
+	oci	Ossetia	np$np-top-f-sg	cat	Ossètia	np$np-top-f-sg
 	oci	Ostende	np	cat	Ostende	np
 	oci	Ottawa	np$np-cog-mf-sp	cat	Ottawa	np$np-cog-mf-sp$
 	oci	Ouagadougou	np	cat	Ouagadougou	np
 	oci	Ourense	np	cat	Ourense	np$np-loc-f
-	oci	Ozbequistan	np	cat	Uzbekistan	np$np-top-m-sg$np-top
+	oci	Ozbequistan	np$np-top-m-sg	cat	Uzbekistan	np$np-top-m-sg$np-top
 	oci	Pacific	np	cat	Pacífic	np$np-loc-m
 	oci	Palatinat	np$np-top-m-sg	cat	Palatinat	np
 	oci	Palembang	np	cat	Palembang	np
-	oci	Palestina	np	cat	Palestina	np$np-loc-f
+	oci	Palestina	np$np-top-f-sg	cat	Palestina	np$np-loc-f
 	oci	Palhars Jusan	np	cat	Pallars Jussà	np$np-loc$np-loc-f
 	oci	Palhars Sobeiran	np	cat	Pallars Sobirà	np$np-loc$np-loc-f
 	oci	Palma de Malhòrca	np	cat	Palma de Mallorca	np$np-loc
@@ -24077,7 +24077,7 @@ RL	oci	Peitau	np$np-top-m-sg	cat	Poitou	np$np-top-m-sg
 	oci	Plasença	np	cat	Piacenza	np$np-top-f-sg
 	oci	Podlàquia	np	cat	Podlàquia	np
 	oci	Polha	np	cat	Pulla	np$np-top-f-sg
-	oci	Polinesia Francesa	np	cat	Polinèsia Francesa	np$np-loc-f
+	oci	Polinesia Francesa	np$np-top-f-sg	cat	Polinèsia Francesa	np$np-loc-f
 	oci	Polonha	np$np-top-f-sg	cat	Polònia	np$np-loc$np-loc-f
 	oci	Pomerània	np	cat	Pomerània	np$np-top-f$np-top-f-sg
 	oci	Port au Prince	np	cat	Port au Prince	np
@@ -24109,7 +24109,7 @@ RL	oci	Peitau	np$np-top-m-sg	cat	Poitou	np$np-top-m-sg
 	oci	Queensland	np	cat	Queensland	np$np-top-m-sg
 	oci	Quezon City	np	cat	Quezon City	np
 	oci	Quio	np	cat	Quios	np
-	oci	Quirguizstan	np	cat	Kirguizistan	np$np-loc$np-loc-m
+	oci	Quirguizstan	np$np-top-m-sg	cat	Kirguizistan	np$np-loc$np-loc-m
 	oci	Quito	np$np-top-m-sg	cat	Quito	np$np-loc$np-loc-m
 	oci	Qunaytra	np	cat	Kenitra	np
 	oci	Rabat	np$np-cog-mf-sp	cat	Rabat	np$np-cog-mf-sp$
@@ -24190,7 +24190,7 @@ RL	oci	Peitau	np$np-top-m-sg	cat	Poitou	np$np-top-m-sg
 	oci	Salsas	np	cat	Salses	np-top-m-sg$np
 	oci	Saluças	np	cat	Saluzzo	np
 	oci	Salèrne	np	cat	Salern	np$np-loc
-	oci	Samara	np$np-ant-f-sg	cat	Samara	np-ant-f-sg$np$np-ant
+	oci	Samara	np-ant-f-sg$np	cat	Samara	np-ant-f-sg$np$np-ant
 	oci	Samoa Americanas	np	cat	Samoa Nord-Americana	np
 	oci	Samoa Occidentalas	np	cat	Samoa Occidental	np
 	oci	Samoa	np$np-top-f-pl	cat	Samoa	np$np-top-f-sg$np-top
@@ -24206,17 +24206,17 @@ RL	oci	Peitau	np$np-top-m-sg	cat	Poitou	np$np-top-m-sg
 	oci	Sandwich del Sud	np	cat	Sandwich del Sud	np
 	oci	Sankt Gallen	np	cat	Sankt Gallen	np
 	oci	Santa Elena	np-top-f-sg$np	cat	Saint Helen	np
-	oci	Santa Ses	np	cat	Santa Seu	np
+	oci	Santa Ses	np$np-top-f-sg	cat	Santa Seu	np
 	oci	Santas	np	cat	Saintes	np
 	oci	Sant Amand Montrond	np	cat	Saint-Amand-Montrond	np
-	oci	Sant Cristòl e Nevis	np	cat	Saint Kitts i Nevis	np
+	oci	Sant Cristòl e Nevis	np$np-top-m-sg	cat	Saint Kitts i Nevis	np
 	oci	Sant Domingo	np	cat	Santo Domingo	np$np-loc$np-loc-f
 	oci	Sant Joan de la Penha	np	cat	Sant Joan de la Penya	np
 	oci	Sant Joan de Lus	np	cat	Sant Joan Lohitzune	np
 	oci	Sant Laurenç	np	cat	Sant Llorenç	np$np-loc
 	oci	Sant Marin	np$np-top-m-sg	cat	San Marino	np$np-loc$np-loc-m
 	oci	Sant Petersborg	np$np-top-m-sg	cat	Sant Petersburg	np$np-loc
-	oci	Sant Pèire e Miquelon	np	cat	Saint-Pierre-et-Miquelon	np
+	oci	Sant Pèire e Miquelon	np$np-top-m-sg	cat	Saint-Pierre-et-Miquelon	np
 	oci	Sant Rímol	np	cat	Sanremo	np
 	oci	Sant Sebastian	np	cat	Sant Sebastià	np$np-loc
 	oci	Sant Vincenç e las Grenadinas	np	cat	Saint Vincent i les Grenadines	np$np-loc
@@ -24237,7 +24237,7 @@ RL	oci	Peitau	np$np-top-m-sg	cat	Poitou	np$np-top-m-sg
 	oci	Segrià	np	cat	Segrià	np$np-loc$np-loc-f
 	oci	Segòvia	np	cat	Segòvia	np$np-loc
 	oci	Selva Negra	np	cat	Selva Negra	np
-	oci	Selva	np$np-cog-mf-sp	cat	Selva	np$np-loc-f$$np-loc
+	oci	Selva	np-ant-f-sg$np	cat	Selva	np$np-loc-f$$np-loc
 	oci	Sendai	np	cat	Sendai	np
 	oci	Seol	np	cat	Seül	np$np-loc$np-loc-m
 	oci	Serrans	np	cat	Serrans	np
@@ -24253,7 +24253,7 @@ RL	oci	Peitau	np$np-top-m-sg	cat	Poitou	np$np-top-m-sg
 	oci	Shiraz	np	cat	Shiraz	np
 	oci	Siberia	np	cat	Sibèria	np-loc$np$np-loc-f
 	oci	Sicília	np$np-cog-mf-sp	cat	Sicília	np$np-loc$$np-loc-f
-	oci	Siena	np$np-ant-f-sg	cat	Siena	np-ant-f-sg$np$np-ant
+	oci	Siena	np-ant-f-sg$np	cat	Siena	np-ant-f-sg$np$np-ant
 	oci	Sierra Nevada	np	cat	Sierra Nevada	np
 	oci	Silèsia	np$np-top-f-sg	cat	Silèsia	np$np-top-f$np-top-f-sg
 	oci	Sinai	np	cat	Sinaí	np$np-loc
@@ -24285,7 +24285,7 @@ RL	oci	Peitau	np$np-top-m-sg	cat	Poitou	np$np-top-m-sg
 	oci	Suva	np	cat	Suva	np
 	oci	Suèz	np	cat	Suez	np$np-loc
 	oci	Swansea	np	cat	Swansea	np$np-loc
-	oci	Swaziland	np	cat	Swazilàndia	np$np-loc$np-loc-f
+	oci	Swaziland	np$np-top-m-sg	cat	Swazilàndia	np$np-loc$np-loc-f
 	oci	Sàsser	np	cat	Sàsser	np$np-loc
 	oci	São Paulo	np	cat	São Paulo	np
 	oci	São Tomí e Príncipe	np	cat	São Tomí i Príncipe	np
@@ -24311,7 +24311,7 @@ RL	oci	Peitau	np$np-top-m-sg	cat	Poitou	np$np-top-m-sg
 	oci	Tassili	np	cat	Tassili	np
 	oci	Tataria	np	cat	Tatària	np
 	oci	Tatarstan	np$np-top-m-sg	cat	Tatarstan	np$np-loc-m
-	oci	Tatgiquistan	np	cat	Tadjikistan	np$np-top-m-sg$np-top
+	oci	Tatgiquistan	np$np-top-m-sg	cat	Tadjikistan	np$np-top-m-sg$np-top
 	oci	Taure	np	cat	Taure	np
 	oci	Tbilissi	np	cat	Tbilisi	np$np-top-m$np-top-m-sg
 	oci	Tecin	np	cat	Ticino	np
@@ -24334,7 +24334,7 @@ RL	oci	Peitau	np$np-top-m-sg	cat	Poitou	np$np-top-m-sg
 	oci	Tijuana	np	cat	Tijuana	np
 	oci	Tilimsan	np	cat	Tilimsen	np
 	oci	Timòr Èst	np$np-top-m-sg	cat	Timor Oriental	np-top-m-sg$np
-	oci	Tirana	np	cat	Tirana	np$np-top-f-sg
+	oci	Tirana	np$np-top-f-sg	cat	Tirana	np$np-top-f-sg
 	oci	Tiròl	np$np-top-m-sg	cat	Tirol	np-top-m-sg$np
 	oci	Tisza	np	cat	Tisza	np
 	oci	Tokelau	np	cat	Tokelau	np$np-top$np-top-m-sg
@@ -24363,7 +24363,7 @@ RL	oci	Peitau	np$np-top-m-sg	cat	Poitou	np$np-top-m-sg
 	oci	Tudèla	np	cat	Tudela	$np-cog-mf-sp$np
 	oci	Tula	np$np-top-f-sg	cat	Tula	np
 	oci	Tunis	np$np-top-m-sg	cat	Tunis	np$np-loc$np-loc-m
-	oci	Turcmenistan	np	cat	Turkmenistan	np$np-loc-m$np-loc
+	oci	Turcmenistan	np$np-top-m-sg	cat	Turkmenistan	np$np-loc-m$np-loc
 	oci	Turgòvia	np	cat	Thurgau	np
 	oci	Turquestan	np	cat	Turquestan	np$np-top-m-sg
 	oci	Turíngia	np	cat	Turíngia	np$np-loc
@@ -24374,7 +24374,7 @@ RL	oci	Peitau	np$np-top-m-sg	cat	Poitou	np$np-top-m-sg
 	oci	Tèrra del Fuòc	np	cat	Terra del Foc	np
 	oci	Tèrranòva	np	cat	Terranova	np$np-top-f-sg
 	oci	Tèxas	np$np-top-m-sg	cat	Texes	np
-	oci	Tònga	np	cat	Tonga	np$np-loc$np-loc-f
+	oci	Tònga	np$np-top-f-pl	cat	Tonga	np$np-loc$np-loc-f
 	oci	Udin	np	cat	Udin	np
 	oci	Ufa	np	cat	Ufa	np
 	oci	Uhuru	np	cat	Uhuru	np
@@ -24550,14 +24550,14 @@ LR	oci	Dzvina	np	cat	Dvina Occidental	np
 LR	oci	Emirats Arabes Units*	np	cat	Emirats Àrabs Units	np$np-loc-m
 LR	oci	Emirats Arabs Units	np	cat	Emirats Àrabs Units	np$np-loc-m
 LR	oci	Eolida	np	cat	Eòlia	np
-LR	oci	Eqüator	np$np-top-m-sg	cat	Equador	np$np-loc$np-loc-m
+LR	oci	Eqüator	np	cat	Equador	np$np-loc$np-loc-m
 LR	oci	Ertis	np	cat	Irtyix	np
 LR	oci	Flandes	np	cat	Flandes	np$np-top-f-sg
 LR	oci	Franc Comtat	np	cat	Franc Comtat	np$np-top-f-sg
 LR	oci	Gdansk	np	cat	Gdansk	np$np-loc
 LR	oci	Gdunsk	np	cat	Gdansk	np$np-loc
 LR	oci	Giannena	np	cat	Ioannina	np
-LR	oci	Giannina	np	cat	Ioannina	np
+LR	oci	Giannina	np$np-ant-f-sg	cat	Ioannina	np
 LR	oci	Gijón	np$np-cog-mf-sp	cat	Xixón	np
 LR	oci	Glaschu	np	cat	Glasgow	np$np-loc
 LR	oci	Gállego	np	cat	Gállego	np
@@ -24701,9 +24701,9 @@ RL	oci	Astracan	np	cat	Astrakhan	np$np-top
 RL	oci	Atlàs	np$np-top-m-sg	cat	Atlas	np
 RL	oci	Balearas	np	cat	Illes	np
 RL	oci	Baltica	np	cat	Bàltica	np
-RL	oci	Bangladèsh	np	cat	Bangladesh	np$np-top-m-sg
+RL	oci	Bangladèsh	np$np-top-m-sg	cat	Bangladesh	np$np-top-m-sg
 RL	oci	Bashcortostan	np	cat	Baixkortostan	np$np-loc-m
-RL	oci	Belau	np	cat	Belau	np
+RL	oci	Belau	np$np-top-f-pl	cat	Belau	np
 RL	oci	Belfast	np$np-top-m-sg	cat	Bíal Feirste	np
 RL	oci	Beqaa	np	cat	al-Biqa	np
 RL	oci	Beqaa	np	cat	Beqaa	np
@@ -24716,7 +24716,7 @@ RL	oci	Bombai	np	cat	Mumbai	np
 RL	oci	Bozen	np	cat	Bolzano	np
 RL	oci	Brecilianda	np	cat	Brocíliandef	np
 RL	oci	Bòna	np	cat	Bona	np$np-loc
-RL	oci	Cambòtja	np	cat	Cambotja	np$np-loc$np-loc-f
+RL	oci	Cambòtja	np$np-top-f-sg	cat	Cambotja	np$np-loc$np-loc-f
 RL	oci	Cardiff	np$np-top-m-sg	cat	Caerdydd	np
 RL	oci	Caspiana	np	cat	Caspi	np$np-loc
 RL	oci	Chalons de Champanha	np	cat	Châlons-sur-Marne	np
@@ -24732,7 +24732,7 @@ RL	oci	Colomnas d'Ercules	np	cat	colona	np
 RL	oci	Compostèla	np	cat	Sant Jaume de Galícia	np
 RL	oci	Cordilhièra dels Andes	np	cat	cordillera dels Andes	np
 RL	oci	Cork	np	cat	Corcaigh	np
-RL	oci	Curdistan	np	cat	Curdistan	np
+RL	oci	Curdistan	np$np-top-m-sg	cat	Curdistan	np
 RL	oci	Cusco	np$np-cog-mf-sp	cat	Cuzco	np
 RL	oci	Cusco	np$np-cog-mf-sp	cat	Qusqu	np
 RL	oci	Còs	np	cat	Cos	np-cog-mf-sp$$np
@@ -24752,7 +24752,7 @@ RL	oci	estrech d'Ormuz	np	cat	estret d'Hormuz	np
 RL	oci	Fontebrau	np	cat	Fontevraud-l'Abbaye	np
 RL	oci	Fontebrau	np	cat	Fontevrault	np
 RL	oci	Gdansk	np	cat	Gdansk	np$np-loc
-RL	oci	Groenlàndia	np	cat	Groenlàndia	np-loc$np$np-loc-f
+RL	oci	Groenlàndia	np$np-top-f-sg	cat	Groenlàndia	np-loc$np$np-loc-f
 RL	oci	Haifa	np	cat	Heifa	np
 RL	oci	Iekaterinburg	np	cat	Jekaterinburg	np
 RL	oci	Ioannina	np	cat	Ioánnina	np
@@ -24798,7 +24798,7 @@ RL	oci	Mwali	np	cat	Mohíli	np
 RL	oci	Mülhausen	np	cat	Mulhouse	np$np-top
 RL	oci	Mykolaiiv	np	cat	Mikolaiv	np
 RL	oci	Mykolaiiv	np	cat	Mykolajiv	np
-RL	oci	Naut Karabagh	np	cat	Alt Karabagh	np
+RL	oci	Naut Karabagh	np$np-top-m-sg	cat	Alt Karabagh	np
 RL	oci	Nil Blanc	np	cat	Bahr al-Gazal	np
 RL	oci	Nil Blau	np	cat	Bahr al-Azraq	np
 RL	oci	Nizhnii Novgorod	np	cat	Nižnij Novgorod	np
@@ -24828,7 +24828,7 @@ RL	oci	Sanaa	np	cat	San'a'	np
 RL	oci	Sanaa	np	cat	Sana	np-ant-f-sg$np$np-ant
 RL	oci	Sanaa	np	cat	Sanaà	np
 RL	oci	Sanaa	np	cat	Sanà	np
-RL	oci	Sant Cristòl e Nevis	np	cat	Saint Christopher i Nevis	np$np-top-m-sg
+RL	oci	Sant Cristòl e Nevis	np$np-top-m-sg	cat	Saint Christopher i Nevis	np$np-top-m-sg
 RL	oci	Sant Joan de Lus	np	cat	Donibane Lohitzune	np
 RL	oci	Sant Joan de Lus	np	cat	Donibane Lohizune	np
 RL	oci	Sant Joan de Lus	np	cat	Sant Joan Lohizune	np

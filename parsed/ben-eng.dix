@@ -146,7 +146,7 @@ LR	ben	তোমাদের	det-gen	eng	your	det-pos$det-pos-sp$det
 	ben	বুলেট	n-nt-nn	eng	bullet	n$n-ND
 	ben	কবর	n-nt-nn$n	eng	burial	n$n-ND
 	ben	দীপ	n-nt-nn	eng	burner	n
-	ben	বাস	n$n-mf-nn	eng	bus	n$n-sg
+	ben	বাস	n$n-mf-nn	eng	bus	n$n-pl
 	ben	ব্যবসা	n-mf-nn	eng	business	n$n-unc
 	ben	প্রজাপতি	n$n-mf-aa	eng	butterfly	n$n-ND
 	ben	গণনা	n-nt-nn	eng	calculation	n$n-ND
@@ -423,7 +423,7 @@ LR	ben	তোমাদের	det-gen	eng	your	det-pos$det-pos-sp$det
 	ben	দল	n-mf-nn$n	eng	gang	n$n-ND
 	ben	রসুন	n-nt-nn	eng	garlic	n$n-ND
 	ben	গ্যাস	n-nt-nn	eng	gas	n$n-sg
-	ben	দরজা	n-nt-nn$n	eng	gate	n$n-ND
+	ben	দরজা	n-nt-nn$n	eng	gate	n$n-pl
 	ben	লিঙ্গ	n-nt-nn	eng	gender	n$n-ND
 	ben	জিন	n-nt-nn	eng	gene	n$n-ND
 	ben	সাধারণ	n-mf-hu	eng	general	n$n-ND
@@ -461,7 +461,7 @@ LR	ben	তোমাদের	det-gen	eng	your	det-pos$det-pos-sp$det
 	ben	মাথা	n-mf-nn	eng	head	n$n-sg
 	ben	শিরোনাম	n-nt-nn	eng	headline	n$n-ND
 	ben	স্বাস্থ্য	n-mf-nn$n	eng	health	n$n-sg
-	ben	স্বর্গ	n-nt-nn	eng	heaven	n$n-ND
+	ben	স্বর্গ	n-nt-nn	eng	heaven	n$n-pl
 	ben	হেলিকপ্টার	n-nt-nn	eng	helicopter	n$n-ND
 	ben	সাহায্য	n-nt-nn$n	eng	help	n$n-ND
 	ben	ইতিহাস	n-mf-nn$n	eng	history	n$n-ND
@@ -1122,7 +1122,7 @@ LR	ben	লিখা	n-mf-nn	eng	writing	n$n-unc
 	ben	পাসপোর্ট	n-mf-nn	eng	passport	n$n-ND
 	ben	স্বপন	n-mf-nn	eng	dream	n$n-ND
 	ben	দুর্ভিক্ষ	n-nt-nn	eng	famine	n$n-sg
-	ben	কাটা	n-mf-nn	eng	cutting	n
+	ben	কাটা	n-mf-nn	eng	cutting	n$n-pl
 	ben	অস্বাভাবিক	n-mf-nn	eng	abnormal	n
 	ben	ধর্ম	n-mf-nn$n	eng	religion	n$n-sg
 	ben	সার্টিফিকেট	n-mf-nn	eng	certificate	n$n-sg
@@ -1644,7 +1644,7 @@ LR	ben	লিখা	n-mf-nn	eng	writing	n$n-unc
 	ben	দাড়ি	n-nt-nn	eng	beard	n$n-ND
 	ben	বৃত্তি	n-nt-nn	eng	scholarship	n$n-sg
 	ben	পাট	n-mf-nn	eng	jute	n
-	ben	কেক	n-nt-nn	eng	cake	n$n-ND
+	ben	কেক	n-nt-nn	eng	cake	n$n-pl
 	ben	শত্রু	n$n-mf-hu	eng	enemy	n$n-ND
 	ben	কওয়া	n-mf-nn	eng	telling	n
 	ben	বদলানো	n-mf-nn	eng	changing	n
@@ -1727,7 +1727,7 @@ LR	ben	বালক	n-m-hu	eng	boy	n$n-ND
 	ben	উপকরণ	n-nt-nn	eng	ingredient	n$n-ND
 	ben	সন্দেহভাজন	n-mf-hu	eng	suspect	n
 	ben	বিদ্যুত	n-mf-nn	eng	electricity	n$n-ND
-	ben	গেট	n-mf-nn	eng	gate	n$n-ND
+	ben	গেট	n-mf-nn	eng	gate	n$n-pl
 	ben	নামাজ	n-mf-nn	eng	Namaz	n
 	ben	ঊর্ধ্ব	n-mf-nn	eng	above	n
 	ben	স্থায়ী	n-mf-nn	eng	permanent	n
@@ -1885,7 +1885,7 @@ LR	ben	বালক	n-m-hu	eng	boy	n$n-ND
 	ben	শোক	n-mf-nn	eng	grief	n$n-sg
 	ben	বিক্ষোভ	n-mf-nn	eng	agitation	n$n-ND
 	ben	রাষ্ট্র	n-mf-nn	eng	state	n$n-sg
-	ben	ফসল	n-mf-nn	eng	crop	n$n-ND
+	ben	ফসল	n-mf-nn	eng	crop	n$n-pl
 	ben	আম	n$n-nt-nn	eng	mango	n
 	ben	বেড়ানো	n-mf-nn	eng	touring	n
 	ben	পাড়া	n-mf-nn	eng	village	n$n-sg
@@ -1894,7 +1894,7 @@ LR	ben	বালক	n-m-hu	eng	boy	n$n-ND
 	ben	রূপ	n-mf-nn	eng	beauty	n$n-sg
 	ben	চর	n-mf-nn	eng	spy	n
 	ben	চত্বর	n-nt-nn	eng	park	n$n-ND
-	ben	খাদ্যশস্য	n-nt-nn	eng	crop	n$n-ND
+	ben	খাদ্যশস্য	n-nt-nn	eng	crop	n$n-pl
 	ben	ব্যাট	n-mf-nn	eng	bat	n$n-sg
 	ben	ফুট	n-mf-nn	eng	foot	n$n-sg
 	ben	হিসেব	n-mf-nn	eng	calculation	n$n-ND
@@ -2697,7 +2697,7 @@ LR	ben	পদ্য	n-mf-nn	eng	poetry	n$n-sg
 	ben	চিহ্ন	n-nt-nn	eng	symbol	n$n-ND
 	ben	বিস্ফোরণ	n-nt-nn	eng	explosion	n$n-ND
 	ben	মৌল	n-nt-nn	eng	element	n$n-ND
-	ben	খনিজ	n-nt-nn	eng	mineral	n$n-ND
+	ben	খনিজ	n-nt-nn	eng	mineral	n$n-pl
 	ben	জাতীয়তা	n-mf-nn	eng	nationality	n$n-ND
 	ben	গণিতবিদ	n-mf-hu	eng	mathematician	n$n-sg
 	ben	কপিরাইট	n-nt-nn	eng	copyright	n$n-sg
@@ -2894,7 +2894,7 @@ LR	ben	শিষ্য	n-mf-hu	eng	student	n$n-pl
 	ben	চিন্তাধারা	n-mf-nn	eng	ideology	n$n-ND
 	ben	গ্রন্থাগার	n-mf-hu	eng	library	n$n-ND
 	ben	উদ্যান	n-nt-nn	eng	garden	n$n-ND
-	ben	স্কি	n-nt-nn	eng	ski	n$n-sg
+	ben	স্কি	n-nt-nn	eng	ski	n$n-pl
 	ben	রচয়িতা	n-mf-hu	eng	writer	n$n-sg
 	ben	প্রতিদ্বন্দ্বী	n-mf-hu	eng	competitor	n$n-sg
 	ben	ডক্টরেট	n-mf-hu	eng	doctorate	n
@@ -2915,7 +2915,7 @@ LR	ben	শিষ্য	n-mf-hu	eng	student	n$n-pl
 	ben	ডাকনাম	n-mf-nn	eng	nickname	n$n-ND
 	ben	ছোটবেলা	n-mf-nn	eng	childhood	n$n-sg
 	ben	গ্রহাণু	n-nt-nn	eng	asteroid	n
-	ben	ইঞ্জিন	n-nt-nn	eng	engine	n$n-ND
+	ben	ইঞ্জিন	n-nt-nn	eng	engine	n$n-pl
 	ben	ম্যাট্রিক	n-nt-nn	eng	matriculation	n
 	ben	বর্তনী	n-nt-nn	eng	circuit	n$n-ND
 	ben	প্রজন্ম	n-mf-nn	eng	generation	n$n-ND
@@ -2974,7 +2974,7 @@ LR	ben	শিষ্য	n-mf-hu	eng	student	n$n-pl
 	ben	ক্যাটেগরি	n-nt-nn	eng	category	n$n-sg
 	ben	কুকুর	n$n-mf-aa	eng	dog	n$n-ND
 	ben	কার্টুন	n-nt-nn	eng	cartoon	n$n-pl
-	ben	শস্য	n$n-nt-nn	eng	crop	n$n-ND
+	ben	শস্য	n$n-nt-nn	eng	crop	n$n-pl
 	ben	রেজিমেন্ট	n-nt-nn	eng	regiment	n$n-sg
 	ben	যৌবন	n-nt-nn	eng	youth	n$n-ND
 	ben	মাদার	n-f-hu	eng	mother	n$n-sg
@@ -7007,7 +7007,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	মেদিনীপুর	np-top-mf	eng	Midnapur	np
 	ben	আরবী	np-al-mf	eng	Arabic	np
 	ben	পুরুলিয়া	np-top-mf	eng	Purulia	np
-	ben	চার্চ	np-al-mf	eng	Church	np
+	ben	চার্চ	np-al-mf	eng	Church	$np
 	ben	হিন্দু	np-ant-mf	eng	Hindu	np
 	ben	স্কটিশ	np-ant-mf	eng	Scottish	np
 	ben	নওয়াব	np-ant-m	eng	Naoab	np

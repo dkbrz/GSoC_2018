@@ -566,18 +566,18 @@ RL	pol	sto	n-nt-pl$n-nt	ces	sto	n-nt-du
 	pol	XML	n-acr-mi$n-mi	ces	XML	n-acr-mi
 	pol	XUL	n-acr-mi$n-mi	ces	XUL	n-acr-mi
 	pol	indykator	n-mi	ces	indikátor	n-ma
-	pol	styczeń	n-mi$n	ces	leden	n-mi
-	pol	luty	n-mi$n	ces	únor	n-mi
-	pol	marzec	n-mi$n	ces	březen	n-mi
-	pol	kwiecień	n-mi$n	ces	duben	n-mi
-	pol	maj	n-mi$n	ces	květen	n-mi
-	pol	czerwiec	n-mi$n	ces	červen	n-mi
-	pol	lipiec	n-mi$n	ces	červenec	n-mi
-	pol	sierpień	n-mi$n	ces	srpen	n-mi
-	pol	wrzesień	n-mi$n	ces	září	n-mi
-	pol	październik	n-mi$n	ces	říjen	n-mi
-	pol	listopad	n-mi$n	ces	listopad	n-mi
-	pol	grudzień	n-mi$n	ces	prosinec	n-mi
+	pol	styczeń	n-mi$n	ces	leden	n-mi$n
+	pol	luty	n-mi$n	ces	únor	n-mi$n
+	pol	marzec	n-mi$n	ces	březen	n-mi$n
+	pol	kwiecień	n-mi$n	ces	duben	n-mi$n
+	pol	maj	n-mi$n	ces	květen	n-mi$n
+	pol	czerwiec	n-mi$n	ces	červen	n-mi$n
+	pol	lipiec	n-mi$n	ces	červenec	n-mi$n
+	pol	sierpień	n-mi$n	ces	srpen	n-mi$n
+	pol	wrzesień	n-mi$n	ces	září	n-mi$n
+	pol	październik	n-mi$n	ces	říjen	n-mi$n
+	pol	listopad	n-mi$n	ces	listopad	n-mi$n
+	pol	grudzień	n-mi$n	ces	prosinec	n-mi$n
 	pol	abaka	n-f	ces	abaka	n-f
 	pol	abakan	n-mi	ces	abakan	n-mi
 	pol	abakus	n-mi$n	ces	abakus	n-mi
@@ -697,7 +697,7 @@ LR	pol	antependium	n-nt	ces	antependium	n-mi
 	pol	antywitamina	n-f	ces	antivitamín	n-mi
 	pol	anyżówka	n-f	ces	anýzovka	n-f
 	pol	apatyt	n-mi	ces	apatit	n-mi
-	pol	apetyt	n-mi$n	ces	chuť	n-mi
+	pol	apetyt	n-mi$n	ces	chuť	n$n-mi
 LR	pol	aphelium	n-nt	ces	afélium	n-mi
 	pol	aplanat	n-mi	ces	aplanát	n-mi
 	pol	aplet	n-mi	ces	applet	n-mi
@@ -1077,7 +1077,7 @@ LR	pol	dach	n-mi$n	ces	střecha	n-f
 	pol	filister	n-mi	ces	šosák	n-mi
 	pol	filiżanka	n-f$n	ces	koflík	n-ma
 	pol	filiżanka	n-f$n	ces	kélimek	n-mi
-	pol	filiżanka	n-f$n	ces	šálek	n-mi
+	pol	filiżanka	n-f$n	ces	šálek	n-mi$n
 	pol	filmik	n-mi	ces	filmeček	n-mi
 	pol	finansista	n-mi	ces	finančnik	n-mi
 	pol	fiołek	n-mi$n	ces	violka	n-f
@@ -1121,7 +1121,7 @@ LR	pol	barkarola	n-f	ces	barkarola	n-f
 	pol	groch	n-mi$n	ces	hrach	n-mi
 	pol	gruźlica	n-f$n	ces	tuberkolóza	n-f
 	pol	gryf	n-mi$n	ces	gryf	n-mi
-	pol	grzech	n-mi	ces	hřích	n-mi
+	pol	grzech	n-mi	ces	hřích	n-mi$n
 	pol	grzesznik	n-mp	ces	hřišník	n-ma
 	pol	gumiak	n-mi	ces	gumovky	n-mi
 	pol	gułag	n-mi	ces	gulag	n-mi
@@ -1294,7 +1294,7 @@ LR	pol	drążek	n-mi	ces	hůl	n-mi
 	pol	mikroanaliza	n-f	ces	mikroanalýza	n-f
 	pol	mikroflora	n-f	ces	mikroflóra	n-f
 	pol	mikrokapsułka	n-f	ces	mikrokapsle	n-f
-	pol	milicja	n-f	ces	milice	n-f
+	pol	milicja	n-f	ces	milice	n$n-f
 	pol	mimoza	n-f	ces	netýkavka	n-f
 	pol	miodnik	n-mi	ces	medník	n-ma
 	pol	międzynarodówka	n-f	ces	internacionál	n-mi
@@ -1344,7 +1344,7 @@ LR	pol	drążek	n-mi	ces	hůl	n-mi
 	pol	noblista	n-mi	ces	nobelant	n-mi
 	pol	noblistka	n-f	ces	nobelantka	n-f
 	pol	nocleg	n-mi	ces	nocleh	n-mi
-	pol	noga	n-f$n	ces	noha	n-f
+	pol	noga	n-f$n	ces	noha	n-f$n
 	pol	nogawka	n-f	ces	nohavička	n-f
 	pol	notariuszka	n-f	ces	notářka	n-f
 	pol	notebook	n-mi$n	ces	notebook	n-mi
@@ -1457,7 +1457,7 @@ LR	pol	planista	n-mp	ces	plánovač	n-mi
 	pol	podtyp	n-mi	ces	podtyp	n-mi
 	pol	podzbiór	n-mi$n	ces	podsoubor	n-mi
 	pol	podziw	n-mi	ces	podiv	n-mi
-	pol	podłoga	n-f	ces	podlaha	n-f
+	pol	podłoga	n-f	ces	podlaha	n-f$n
 	pol	podżegacz	n-ma	ces	štráč	n-mi
 	pol	pogoń	n-f$n	ces	honba	n-f
 	pol	pogłos	n-mi	ces	reverb	n-mi
@@ -1512,7 +1512,7 @@ LR	pol	antyelektron	n-mi	ces	pozitron	n-mi
 	pol	przesadnia	n-f	ces	nadnešeně	n-mi
 	pol	przesąd	n-mi	ces	pověra	n-f
 	pol	przesiadka	n-f	ces	přestoupit	n-mi
-	pol	przewodzień	n-mi	ces	vedoucí	n-mi
+	pol	przewodzień	n-mi	ces	vedoucí	n$n-mi
 	pol	przewoźnik	n-mp$n	ces	dopravce	n-f
 	pol	przybudówka	n-f	ces	přístavba	n-f
 	pol	przyleganie	n-nt$n	ces	adheze	n-f
@@ -1696,7 +1696,7 @@ RL	pol	toster	n-mi$n	ces	touster	n-mi
 	pol	transdukcja	n-f	ces	transdukce	n-f
 	pol	transkryptaza	n-f	ces	transkriptáza	n-f
 	pol	transseksualista	n-mp	ces	transsexuál	n-ma
-	pol	trawka	n-f	ces	tráva	n-f
+	pol	trawka	n-f	ces	tráva	n-f$n
 	pol	trawler	n-mi	ces	trauler	n-mi
 	pol	trias	n-mi$n	ces	trias	n-mi
 	pol	triforium	n-nt	ces	triforium	n-mi
@@ -1793,7 +1793,7 @@ LR	pol	trwoga	n-f$n	ces	strach	n-mi
 	pol	zarodek	n-mi$n	ces	zárodek	n-mi
 	pol	zawleczka	n-f	ces	závlačka	n-f
 	pol	zdechlak	n-mi	ces	scipák	n-mi
-	pol	zeszyt	n-mi	ces	sešit	n-mi
+	pol	zeszyt	n-mi	ces	sešit	n-mi$n
 	pol	zeznanie	n-nt$n	ces	vypověđ	n-mi
 	pol	zgrubienie	n-nt	ces	vřídek	n-mi
 	pol	ziemianka	n-f	ces	zemljanka	n-f
@@ -1822,7 +1822,7 @@ LR	pol	zdobycz	n-f$n	ces	kořist	n-f
 	pol	życica	n-f	ces	jílek	n-mi
 	pol	żyrant	n-mi	ces	ručitel	n-mi
 	pol	żyrondysta	n-mi	ces	girondisté	n-mi
-	pol	żywioł	n-mi$n	ces	živel	n-mi
+	pol	żywioł	n-mi$n	ces	živel	n-mi$n
 	pol	żywokost	n-mi	ces	kostival	n-mi
 	pol	żyworodek	n-f	ces	živorodá	n-f
 	pol	żyworodka	n-mi	ces	živorodá	n-f
@@ -2108,7 +2108,7 @@ LR	pol	blasfemia	n-f	ces	rouhání	n-nt
 	pol	motowidło	n-nt	ces	motovidlo	n-nt
 	pol	mrukliwość	n-f	ces	bručivost	n-f
 	pol	mszak	n-mi	ces	mechovost	n-f
-	pol	mydło	n-nt$n	ces	mýdlo	n-nt
+	pol	mydło	n-nt$n	ces	mýdlo	n-nt$n
 	pol	myto	n-nt$n	ces	mýto	n-nt
 	pol	myto	n-nt$n	ces	čištění	n-nt
 	pol	młodzieżówka	n-f	ces	omladina	n-f
@@ -2149,7 +2149,7 @@ LR	pol	blasfemia	n-f	ces	rouhání	n-nt
 	pol	ochłodzenie	n-nt	ces	ochlazení	n-nt
 	pol	oddech	n-mi	ces	dýchání	n-nt
 	pol	odszkodowanie	n-nt	ces	odškodnění	n-nt
-	pol	okazja	n-f	ces	příležitost	n-f
+	pol	okazja	n-f	ces	příležitost	n-f$n
 	pol	okienko	n-nt$n	ces	okénko	n-nt
 	pol	okultysta	n-mp	ces	okultista	n-f
 	pol	oliwnik	n-mi	ces	hlošina	n-f
@@ -2199,7 +2199,7 @@ LR	pol	blasfemia	n-f	ces	rouhání	n-nt
 	pol	polarymetr	n-mi	ces	polarimetrie	n-f
 	pol	poletko	n-nt	ces	políčko	n-nt
 	pol	polifonia	n-f	ces	polyfonie	n-f
-	pol	pomieszczenie	n-nt	ces	místnost	n-f
+	pol	pomieszczenie	n-nt	ces	místnost	n-f$n
 	pol	pomysłowość	n-f	ces	důvtipnost	n-f
 	pol	poniżenie	n-nt	ces	ponížení	n-nt
 	pol	porachunek	n-mi	ces	zúčtování	n-nt
@@ -2300,7 +2300,7 @@ LR	pol	ryneczek	n-f	ces	náměstíčko	n-nt
 LR	pol	społecznik	n-mp	ces	filantropie	n-f
 	pol	sprzęg	n-mi	ces	spřáhlo	n-nt
 	pol	spustoszenie	n-nt	ces	pustošení	n-nt
-	pol	spółdzielczość	n-f	ces	družstvo	n-nt
+	pol	spółdzielczość	n-f	ces	družstvo	n-nt$n
 	pol	spłata	n-f	ces	splácení	n-nt
 	pol	stacyjka	n-f	ces	nádražíčko	n-nt
 	pol	stadko	n-nt	ces	stádečko	n-nt
@@ -2363,7 +2363,7 @@ LR	pol	szaleniec	n-mp	ces	zuřivec	n-ma
 	pol	werbena	n-f	ces	verbena	n-f
 	pol	weryfikacja	n-f	ces	ověření	n-nt
 	pol	weto	n-nt$n	ces	veto	n-nt
-	pol	wino	n-nt$n	ces	víno	n-nt
+	pol	wino	n-nt$n	ces	víno	n-nt$n
 	pol	wezwanie	n-nt	ces	předvolání	n-nt
 	pol	wianek	n-mi	ces	věnec	n-ma
 	pol	wiano	n-nt$n	ces	věno	n-nt
@@ -2575,7 +2575,7 @@ RL	pol	odwaga	n-f	ces	odvážnost	n-f
 	pol	geolokalizacja	n-f	ces	geolokace	n-f
 	pol	habilitacja	n-f	ces	habilitace	n-f
 	pol	hibernacja	n-f	ces	hibernace	n-f
-	pol	implikacja	n-f$n	ces	implikace	n-f
+	pol	implikacja	n-f$n	ces	implikace	n-f$n
 	pol	inhalacja	n-f	ces	inhalace	n-f
 	pol	insolacja	n-f	ces	insolace	n-f
 	pol	iteracja	n-f	ces	iterace	n-f
@@ -2729,7 +2729,7 @@ LR	pol	rwetes	n-mi	ces	rámus	n-mi
 	pol	dydaktyka	n-mp	ces	didaktika	n-f
 	pol	dyplomatyka	n-mp	ces	diplomatika	n-f
 	pol	egzotyka	n-f$n	ces	exotika	n-f
-	pol	ekliptyka	n-f$n	ces	ekliptika	n-f
+	pol	ekliptyka	n-f$n	ces	ekliptika	n-f$n
 	pol	ekoturystyka	n-f	ces	ekoturistika	n-f
 	pol	elektrodynamika	n-f$n	ces	elektrodynamika	n-f
 	pol	elektrostatyka	n-f$n	ces	elektrostatika	n-f
@@ -2853,7 +2853,7 @@ LR	pol	gorczyca	n-f$n	ces	hořčice	n-f
 	pol	katoda	n-f$n	ces	katoda	n-f
 	pol	kinematograf	n-mi	ces	kinematograf	n-mi
 	pol	kłosek	n-mi	ces	klásek	n-mi
-	pol	knedlik	n-mi	ces	knedlík	n-mi
+	pol	knedlik	n-mi	ces	knedlík	n-mi$n
 	pol	księgarnia	n-f$n	ces	knihkupectví	n-mi
 	pol	sznaucer	n-ma	ces	knírač	n-ma
 	pol	kareta	n-f$n	ces	kočár	n-mi
@@ -2944,8 +2944,8 @@ LR	pol	kompresor	n-mi	ces	kompresor	n-mi
 	pol	pieta	n-f	ces	pieta	n-f
 	pol	pilnik	n-mi$n	ces	pilník	n-mi
 	pol	plagiat	n-mi$n	ces	plagiát	n-mi
-	pol	czerwoniak	n-mi	ces	plameňák	n-ma
-	pol	flaming	n-ma$n	ces	plameňák	n-ma
+	pol	czerwoniak	n-mi	ces	plameňák	n-ma$n
+	pol	flaming	n-ma$n	ces	plameňák	n-ma$n
 	pol	planetarium	n-nt	ces	planetárium	n-nt
 	pol	plantacja	n-f$n	ces	plantáž	n-f
 	pol	playback	n-mi	ces	playback	n-mi
@@ -2966,7 +2966,7 @@ LR	pol	kompresor	n-mi	ces	kompresor	n-mi
 	pol	rurociąg	n-mi	ces	potrubí	n-mi
 	pol	przesąd	n-mi	ces	pověra	n-f
 LR	pol	zabobon	n-mi	ces	pověra	n-f
-	pol	prawidło	n-nt	ces	pravidlo	n-nt
+	pol	prawidło	n-nt	ces	pravidlo	n-nt$n
 	pol	prawosławie	n-nt	ces	pravoslaví	n-mi
 	pol	drapieżnik	n-ma	ces	predátor	n-ma
 LR	pol	łowca	n-mp	ces	predátor	n-ma
@@ -3017,13 +3017,13 @@ LR	pol	przędzalnictwo	n-nt	ces	textil	n-mi
 	pol	dowódca	n-mp$n	ces	velitel	n-ma
 	pol	reforma	n-f	ces	reforma	n-f
 	pol	piesek	n-ma	ces	pejsek	n-ma
-	pol	przyjaciel	n-mp$n	ces	přítel	n-ma
+	pol	przyjaciel	n-mp$n	ces	přítel	n-ma$n
 	pol	lustro	n-nt	ces	zrcadlo	n-nt
 LR	pol	zwierciadło	n-nt	ces	zrcadlo	n-nt
 	pol	emisariusz	n-ma	ces	emisař	n-ma
 	pol	wzmianka	n-f	ces	zmínka	n-f
 	pol	sprawca	n-mp	ces	pachatel	n-ma
-	pol	rama	n-f$n	ces	rámec	n-mi
+	pol	rama	n-f$n	ces	rámec	n-mi$n
 	pol	obręb	n-mi	ces	okolek	n-mi
 	pol	parafia	n-f	ces	fara	n-f
 RL	pol	uczelnia	n-f$n	ces	učiliště	n-nt
@@ -3034,12 +3034,12 @@ LR	pol	uczelnia	n-f$n	ces	škola	n-f
 LR	pol	igrzysko	n-nt	ces	hra	n-f
 	pol	książę	n-mp$n	ces	kníže	n-ma
 	pol	ośrodek	n-mi	ces	středisko	n-nt
-	pol	centrum	n-nt$n	ces	centrum	n-nt
+	pol	centrum	n-nt$n	ces	centrum	n-nt$n
 	pol	sukces	n-mi	ces	úspěch	n-mi
 LR	pol	powodzenie	n-mi	ces	úspěch	n-mi
 	pol	brak	n-mi	ces	brak	n-mi
-	pol	droga	n-f$n	ces	cesta	n-f
-RL	pol	droga	n-f$n	ces	dráha	n-f
+	pol	droga	n-f$n	ces	cesta	n-f$n
+RL	pol	droga	n-f$n	ces	dráha	n-f$n
 	pol	dualizm	n-mi$n	ces	dualismus	n-mi
 	pol	dziennikarstwo	n-nt	ces	žurnalistika	n-f
 	pol	ekshibicjonizm	n-mi	ces	exhibicionismus	n-mi
@@ -3077,7 +3077,7 @@ RL	pol	droga	n-f$n	ces	dráha	n-f
 	pol	wiosło	n-nt$n	ces	pádlo	n-nt
 RL	pol	wiosło	n-nt$n	ces	veslo	n-nt
 	pol	aldehyd	n-mi	ces	aldehyd	n-mi
-	pol	okno	n-nt$n	ces	okno	n-nt
+	pol	okno	n-nt$n	ces	okno	n-nt$n
 	pol	wesele	n-nt$n	ces	svatba	n-nt
 	pol	dziewczę	n-nt$n	ces	děvče	n-nt
 	pol	adapter	n-mi	ces	adaptér	n-ma
@@ -3096,19 +3096,19 @@ RL	pol	wiosło	n-nt$n	ces	veslo	n-nt
 	pol	bojar	n-mp	ces	bojar	n-ma
 	pol	bojownik	n$n-mp	ces	bojovník	n-ma
 	pol	brzeszczot	n-mi	ces	čepel	n-mi
-	pol	car	n-mp$n	ces	car	n-ma
+	pol	car	n-mp$n	ces	car	n-ma$n
 	pol	chorągiew	n$n-f	ces	korouhev	n-f
 	pol	ciamajda	n-f	ces	bačkora	n-f
 	pol	ciapa	n-f	ces	bačkora	n-f
 	pol	cud	n-mi	ces	zázrak	n-mi
 RL	pol	członek	n-mp$n	ces	příslušník	n-ma
-	pol	członek	n-mi	ces	člen	n-mi
+	pol	członek	n-mi	ces	člen	n-mi$n
 	pol	dalajlama	n-mp	ces	dalajláma	n-ma
 	pol	denuncjant	n-mi	ces	denunciant	n-ma
 	pol	diesel	n-mi	ces	diesel	n-ma
-	pol	dziad	n-mp	ces	děd	n-ma
+	pol	dziad	n-mp	ces	děd	n-ma$n
 	pol	działkowiec	n-mp	ces	zahrádkář	n-ma
-	pol	dziobak	n-ma	ces	ptakopysk	n-ma
+	pol	dziobak	n-ma	ces	ptakopysk	n-ma$n
 	pol	dziób	n-mi$n	ces	zobák	n-mi
 	pol	faul	n-ma	ces	faul	n-mi
 	pol	gigant	n-mi	ces	gigant	n-ma
@@ -3134,10 +3134,10 @@ RL	pol	hasło	n-nt$n	ces	tajenka	n-f
 	pol	koral	n-mi	ces	korál	n-ma
 	pol	kosmita	n-mp	ces	ufon	n-ma
 	pol	królik	n-ma$n	ces	králík	n-ma
-	pol	kursor	n-mi$n	ces	kurzor	n-mi
+	pol	kursor	n-mi$n	ces	kurzor	n-mi$n
 	pol	łamaga	n-mp	ces	mrzák	n-ma
 	pol	manekin	n-mi	ces	manekýn	n-ma
-	pol	mebel	n-mi	ces	nábytek	n-mi
+	pol	mebel	n-mi	ces	nábytek	n-mi$n
 	pol	metr	n-mi$n	ces	metr	n-mi
 	pol	metys	n-mp	ces	mestic	n-ma
 	pol	myśliwiec	n-mp	ces	stíhačka	n-f
@@ -3156,7 +3156,7 @@ RL	pol	hasło	n-nt$n	ces	tajenka	n-f
 	pol	piernik	n-mi	ces	perník	n-mi
 	pol	piękniś	n-mp	ces	krasavec	n-ma
 	pol	piruet	n-mi	ces	pirueta	n-f
-	pol	plac	n-mi	ces	náměstí	n-mi
+	pol	plac	n-mi	ces	náměstí	n-mi$n
 	pol	pływak	n-mp	ces	plavec	n-ma
 	pol	pocztowiec	n-mp	ces	pošťák	n-ma
 	pol	pokora	n-f	ces	pokora	n-f
@@ -3165,13 +3165,13 @@ RL	pol	hasło	n-nt$n	ces	tajenka	n-f
 	pol	post	n-mi$n	ces	půst	n-mi
 	pol	powód	n-mi$n	ces	důvod	n-mi
 	pol	przewodnik	n$n-mi	ces	převodník	n-mi
-	pol	przypadek	n-mi	ces	případ	n-mi
+	pol	przypadek	n-mi	ces	případ	n-mi$n
 	pol	pustelnik	n-mp$n	ces	poustevník	n-ma
 	pol	rak	n$n-mi	ces	karcinom	n-mi
 	pol	rak	n-ma	ces	rak	n-ma
 	pol	robak	n-ma$n	ces	červ	n-ma
 LR	pol	robal	n-ma	ces	červ	n-ma
-	pol	ryś	n-ma	ces	rys	n-ma
+	pol	ryś	n-ma	ces	rys	n-ma$n
 	pol	samiec	n$n-mp	ces	samec	n-ma
 	pol	sedan	n-mi	ces	sedan	n-mi
 	pol	skecz	n-mi	ces	skeč	n-mi
@@ -3205,8 +3205,8 @@ LR	pol	robal	n-ma	ces	červ	n-ma
 	pol	instytut	n-mi$n	ces	instytut	n-ma
 	pol	los	n-mi	ces	los	n-mi
 	pol	mięsień	n-mi$n	ces	sval	n-mi
-	pol	wojna	n-f	ces	válka	n-f
-	pol	nazwa	n-f$n	ces	název	n-mi
+	pol	wojna	n-f	ces	válka	n-f$n
+	pol	nazwa	n-f$n	ces	název	n-mi$n
 	pol	absurd	n-mi$n	ces	absurdita	n-f
 	pol	adapter	n-mi	ces	adaptér	n-mi
 	pol	aerozol	n-mi$n	ces	aerosol	n-mi
@@ -3259,7 +3259,7 @@ LR	pol	bejsbol	n-mi	ces	baseball	n-mi
 	pol	blacharz	n-mp	ces	klempíř	n-ma
 	pol	blamaż	n-mi	ces	blamáž	n-f
 	pol	błąd	n-mi$n	ces	chyba	n-f
-	pol	borsuk	n-ma	ces	jezevec	n-ma
+	pol	borsuk	n-ma	ces	jezevec	n-ma$n
 	pol	bób	n-mi$n	ces	bob	n-mi
 	pol	bramkarz	n-mp$n	ces	brankář	n-ma
 	pol	bramkarz	n-mp$n	ces	gólman	n-ma
@@ -3275,11 +3275,11 @@ LR	pol	bejsbol	n-mi	ces	baseball	n-mi
 	pol	chobot	n-mi	ces	chobot	n-mi
 	pol	ciężarowiec	n-mp	ces	vzpěrač	n-ma
 	pol	cudzoziemiec	n-mp	ces	cizinec	n-ma
-	pol	cukier	n-mi	ces	cukr	n-mi
+	pol	cukier	n-mi	ces	cukr	n-mi$n
 	pol	cyprys	n-mi$n	ces	cypřiš	n-mi
 	pol	cywil	n$n-mi	ces	civil	n-mi
-	pol	czasopismo	n-nt	ces	časopis	n-mi
-	pol	czółno	n-nt	ces	člun	n-mi
+	pol	czasopismo	n-nt	ces	časopis	n-mi$n
+	pol	czółno	n-nt	ces	člun	n-mi$n
 	pol	dalmatyńczyk	n-ma	ces	dalmatin	n-ma
 	pol	dąb	n-mi$n	ces	dub	n-mi
 	pol	decybel	n-mi	ces	decibel	n-mi
@@ -3291,7 +3291,7 @@ LR	pol	bejsbol	n-mi	ces	baseball	n-mi
 	pol	drapieżnik	n-ma	ces	dravec	n-ma
 	pol	drogowiec	n-mp	ces	cestář	n-ma
 	pol	drogowiec	n-mp	ces	silničář	n-ma
-	pol	drozd	n-ma$n	ces	drozd	n-ma
+	pol	drozd	n-ma$n	ces	drozd	n-ma$n
 	pol	dubbing	n-mi	ces	dabing	n-mi
 	pol	dworzec	n-mi$n	ces	nádraží	n-mi
 	pol	dwulicowiec	n-mp	ces	obojživelník	n-ma
@@ -3317,17 +3317,17 @@ LR	pol	bejsbol	n-mi	ces	baseball	n-mi
 	pol	generał	n-mp	ces	generál	n-ma
 	pol	genitalia	n-nt	ces	genitálie	n-f
 	pol	gepard	n-ma	ces	gepard	n-ma
-	pol	gęś	n-f$n	ces	husa	n-f
+	pol	gęś	n-f$n	ces	husa	n-f$n
 	pol	globus	n-mi	ces	glóbus	n-mi
-	pol	głowa	n-f$n	ces	hlava	n-f
+	pol	głowa	n-f$n	ces	hlava	n-f$n
 	pol	gobelin	n-mi	ces	gobelín	n-mi
 	pol	goguś	n$n-mp	ces	panák	n-ma
-	pol	gołąb	n-ma$n	ces	holub	n-ma
+	pol	gołąb	n-ma$n	ces	holub	n-ma$n
 	pol	gończy	n-m	ces	honič	n-ma
 	pol	goryl	n-ma	ces	gorila	n-f
 	pol	gospodyni	n-f	ces	hospodyňka	n-f
 	pol	gradobicie	n-nt	ces	krupobití	n-mi
-	pol	groza	n-f	ces	hrůza	n-f
+	pol	groza	n-f	ces	hrůza	n-f$n
 	pol	gryzoń	n-ma	ces	hlodavec	n-ma
 	pol	gulasz	n-mi	ces	guláš	n-mi
 	pol	handicap	n-mi	ces	handicap	n-mi
@@ -3340,14 +3340,14 @@ LR	pol	bejsbol	n-mi	ces	baseball	n-mi
 	pol	idiota	n-mp$n	ces	idiot	n-ma
 	pol	idol	n-mp	ces	idol	n-ma
 	pol	ił	n-mi	ces	jíl	n-mi
-	pol	imieniny	n$n-nt	ces	svátek	n-mi
+	pol	imieniny	n$n-nt	ces	svátek	n-mi$n
 	pol	immobiliser	n-mi	ces	imobilizér	n-mi
 	pol	implant	n-mi	ces	implantát	n-mi
 	pol	indyk	n-ma	ces	krocan	n-ma
 	pol	inwalida	n-mp	ces	invalida	n-ma
 	pol	inwentarz	n-mi	ces	inventář	n-mi
 	pol	jakobin	n$n-mi	ces	jakobín	n-ma
-	pol	jamnik	n-ma$n	ces	jezevčík	n-ma
+	pol	jamnik	n-ma$n	ces	jezevčík	n$n-ma
 	pol	jawor	n-mi	ces	klon	n-mi
 	pol	jedwab	n-mi	ces	hedvábí	n-mi
 	pol	jemioła	n-f	ces	jmelí	n-mi
@@ -3360,7 +3360,7 @@ LR	pol	bejsbol	n-mi	ces	baseball	n-mi
 	pol	kamuflaż	n-mi	ces	kamufláž	n-f
 	pol	kanibal	n-mp$n	ces	kanibal	n-ma
 	pol	kanion	n-mi	ces	kaňon	n-mi
-	pol	kapelusz	n-mi	ces	klobouk	n-mi
+	pol	kapelusz	n-mi	ces	klobouk	n-mi$n
 	pol	karateka	n$n-mp	ces	karatista	n-ma
 	pol	kartel	n-mi	ces	kartel	n-mi
 	pol	kasztelan	n-mp	ces	kastelán	n-ma
@@ -3375,7 +3375,7 @@ LR	pol	bejsbol	n-mi	ces	baseball	n-mi
 	pol	komentarz	n-mi	ces	komentář	n-mi
 	pol	koncept	n-mi	ces	koncept	n-mi
 	pol	koncept	n-mi	ces	myšlenka	n-f
-	pol	koniec	n-mi$n	ces	konec	n-mi
+	pol	koniec	n-mi$n	ces	konec	n-mi$n
 	pol	konik	n-ma	ces	koník	n-ma
 	pol	konopie	n-nt	ces	konopí	n-mi
 	pol	konsul	n-mp	ces	konzul	n-ma
@@ -3386,13 +3386,13 @@ LR	pol	bejsbol	n-mi	ces	baseball	n-mi
 	pol	kowal	n-mp	ces	kovář	n-ma
 	pol	krasnoludek	n$n-mp	ces	trpaslík	n-ma
 	pol	krawat	n-mi	ces	kravata	n-f
-	pol	krąg	n-mi$n	ces	kroužek	n-mi
+	pol	krąg	n-mi$n	ces	kroužek	n-mi$n
 	pol	kręgowiec	n-ma	ces	obratlovec	n-ma
 	pol	kroczek	n-mi	ces	krůček	n-mi
 	pol	krokodyl	n-ma	ces	krokodýl	n-ma
 	pol	kruk	n-ma$n	ces	havran	n-ma
 	pol	kryminolog	n-mp$n	ces	kriminalista	n-ma
-	pol	krzywa	n$n-f	ces	křivka	n-f
+	pol	krzywa	n$n-f	ces	křivka	n-f$n
 	pol	krzyż	n-mi	ces	kříž	n-mi
 	pol	księżna	n-f$n	ces	kněžna	n-f
 	pol	kubeł	n-mi	ces	kýbl	n-mi
@@ -3413,7 +3413,7 @@ LR	pol	bejsbol	n-mi	ces	baseball	n-mi
 	pol	łoś	n-ma$n	ces	los	n-mi
 	pol	łowca	n-m	ces	lovec	n-ma
 	pol	łowiec	n-m	ces	lovec	n-ma
-	pol	łódź	n-f$n	ces	člun	n-mi
+	pol	łódź	n-f$n	ces	člun	n-mi$n
 	pol	łza	n-f$n	ces	slza	n-f
 	pol	mafioso	n-m	ces	mafián	n-ma
 	pol	magistrat	n-mi	ces	magistrát	n-mi
@@ -3447,16 +3447,16 @@ LR	pol	bejsbol	n-mi	ces	baseball	n-mi
 	pol	najazd	n-mi	ces	nájezd	n-mi
 	pol	najeźdźca	n-m	ces	nájezdník	n-ma
 	pol	nakład	n-mi$n	ces	výtisk	n-mi
-	pol	nakrycie	n-nt$n	ces	hlava	n-f
+	pol	nakrycie	n-nt$n	ces	hlava	n-f$n
 	pol	nakrycie	n-nt$n	ces	pokrývka	n-f
-	pol	nakryć	n-nt	ces	hlava	n-f
+	pol	nakryć	n-nt	ces	hlava	n-f$n
 	pol	nakryć	n-nt	ces	pokrývka	n-f
 	pol	napęd	n-mi$n	ces	náhon	n-mi
 	pol	napęd	n-mi$n	ces	pohon	n-mi
 	pol	napięcie	n-nt$n	ces	napětí	n-mi
 	pol	narząd	n-mi$n	ces	aparát	n-mi
 	pol	następca	n-m	ces	následník	n-ma
-	pol	niedźwiedź	n-ma	ces	medvěd	n-ma
+	pol	niedźwiedź	n-ma	ces	medvěd	n-ma$n
 	pol	niepalący	n-m	ces	nekuřák	n-ma
 	pol	nieurodzaj	n-mi	ces	neúroda	n-f
 	pol	nosiciel	n-mp	ces	přenašeč	n-ma
@@ -3516,7 +3516,7 @@ LR	pol	odpad	n-mi	ces	odpad	n-mi
 	pol	podsystem	n-mi	ces	subsystém	n-mi
 	pol	pogląd	n-mi$n	ces	úsudek	n-mi
 	pol	pokład	n-mi	ces	paluba	n-f
-	pol	pokój	n-mi	ces	pokoj	n-mi
+	pol	pokój	n-mi	ces	pokoj	n-mi$n
 	pol	politolog	n-mp	ces	politolog	n-ma
 	pol	poła	n-f$n	ces	půl	n-f
 	pol	połowa	n-f$n	ces	polovina	n-f
@@ -3548,7 +3548,7 @@ RL	pol	por	n-mi$n	ces	pórek	n-mi
 	pol	przebój	n$n-mi	ces	šlágr	n-mi
 	pol	przecięcie	n-nt$n	ces	průnik	n-mi
 	pol	przeciwutleniacz	n-mi	ces	antioxidant	n-mi
-	pol	przedmieście	n-nt	ces	předměstí	n-mi
+	pol	przedmieście	n-nt	ces	předměstí	n-mi$n
 	pol	przedsiębiorca	n-m	ces	živnostník	n-ma
 	pol	przegląd	n-mi	ces	přehled	n-mi
 	pol	przegląd	n-mi	ces	přehlídka	n-f
@@ -3560,7 +3560,7 @@ RL	pol	por	n-mi$n	ces	pórek	n-mi
 	pol	przeżycie	n-nt	ces	zážitek	n-mi
 	pol	przeżyć	n-nt	ces	zážitek	n-mi
 	pol	przydomek	n-mi	ces	přídomek	n-mi
-	pol	przykład	n-mi$n	ces	příklad	n-mi
+	pol	przykład	n-mi$n	ces	příklad	n-mi$n
 	pol	przysłowie	n-nt	ces	přísloví	n-mi
 	pol	pszczoła	n-f$n	ces	včela	n-f
 	pol	ptak	n-ma$n	ces	pták	n-ma
@@ -3581,7 +3581,7 @@ RL	pol	por	n-mi$n	ces	pórek	n-mi
 	pol	riff	n-mi	ces	riff	n-mi
 	pol	rogal	n-mi$n	ces	rohlík	n-mi
 	pol	rozkład	n-mi$n	ces	rozklad	n-mi
-	pol	rozmowa	n-f$n	ces	rozhovor	n-mi
+	pol	rozmowa	n-f$n	ces	rozhovor	n-mi$n
 	pol	rozpad	n-mi	ces	rozpad	n-mi
 	pol	rozpustnik	n$n-mp	ces	viník	n-ma
 	pol	rozwój	n-mi$n	ces	rozvoj	n-mi
@@ -3610,12 +3610,12 @@ LR	pol	saldo	n-nt	ces	bilance	n-f
 	pol	skinhead	n-mi	ces	skinhead	n-ma
 	pol	skład	n-mi$n	ces	souprava	n-f
 	pol	skraj	n$n-mi	ces	pokraj	n-mi
-	pol	słoń	n-ma$n	ces	slon	n-ma
+	pol	słoń	n-ma$n	ces	slon	n-ma$n
 	pol	smok	n-ma$n	ces	drak	n-ma
 	pol	sobowtór	n-mp	ces	dvojník	n-ma
 	pol	sojusz	n-mi	ces	spojenectví	n-mi
 	pol	soul	n-mi	ces	soul	n-mi
-	pol	sowa	n-f$n	ces	sova	n-f
+	pol	sowa	n-f$n	ces	sova	n-f$n
 	pol	spadkobierca	n-m	ces	dědic	n-ma
 	pol	spaliny	n-nt	ces	zplodina	n-f
 	pol	spichlerz	n-mi	ces	sýpka	n-f
@@ -3639,7 +3639,7 @@ LR	pol	sportowiec	n-mp	ces	sportovec	n-ma
 	pol	stodoła	n-f$n	ces	stodola	n-f
 	pol	striptiz	n-mi	ces	striptýz	n-mi
 	pol	struś	n-ma	ces	pštros	n-ma
-	pol	stryj	n-mp$n	ces	strýc	n-ma
+	pol	stryj	n-mp$n	ces	strýc	n-ma$n
 	pol	strzała	n-f	ces	šíp	n-mi
 	pol	strzelec	n-mp$n	ces	střelec	n-ma
 	pol	studnia	n-f	ces	studna	n-f
@@ -3663,8 +3663,8 @@ LR	pol	szlagier	n$n-mi	ces	šlágr	n-mi
 	pol	światopogląd	n-mi	ces	světonázor	n-mi
 	pol	taksówkarz	n-mp$n	ces	taxikář	n-ma
 	pol	talent	n-mi$n	ces	talent	n-mi
-	pol	talerz	n-mi$n	ces	talíř	n-mi
-	pol	tancerz	n-mp$n	ces	tanečník	n-ma
+	pol	talerz	n-mi$n	ces	talíř	n-mi$n
+	pol	tancerz	n-mp$n	ces	tanečník	n-ma$n
 	pol	tapczan	n-mi	ces	gauč	n-mi
 	pol	teletekst	n-mi	ces	teletext	n-mi
 	pol	terapeuta	n-mp	ces	terapeut	n-ma
@@ -3672,7 +3672,7 @@ LR	pol	szlagier	n$n-mi	ces	šlágr	n-mi
 	pol	teść	n-mp$n	ces	tchán	n-ma
 	pol	tłuszcza	n$n-f	ces	tuk	n-mi
 	pol	toga	n$n-f	ces	talár	n-mi
-	pol	torba	n-f$n	ces	taška	n-f
+	pol	torba	n-f$n	ces	taška	n-f$n
 	pol	tramwaj	n-mi$n	ces	tramvaj	n-f
 	pol	trójbój	n$n-mi	ces	trojboj	n-mi
 	pol	trubadur	n$n-mp	ces	trubadúr	n-ma
@@ -3700,7 +3700,7 @@ LR	pol	szlagier	n$n-mi	ces	šlágr	n-mi
 	pol	wejść	n-nt	ces	vstup	n-mi
 	pol	weksel	n-mi	ces	směnka	n-f
 	pol	wełna	n-f	ces	vlna	n-f
-	pol	węgiel	n-mi$n	ces	uhlí	n-mi
+	pol	węgiel	n-mi$n	ces	uhlí	n-mi$n
 	pol	węgorz	n-ma$n	ces	úhoř	n-ma
 	pol	wiadro	n-nt	ces	kbelík	n-mi
 	pol	wiara	n-f	ces	vír	n-mi
@@ -3719,7 +3719,7 @@ LR	pol	szlagier	n$n-mi	ces	šlágr	n-mi
 	pol	wnęter	n-mi	ces	vnitřek	n-mi
 	pol	wodospad	n-mi$n	ces	vodopád	n-mi
 	pol	wojewoda	n-mp	ces	hejtman	n-ma
-	pol	wróbel	n-ma$n	ces	vrabec	n-ma
+	pol	wróbel	n-ma$n	ces	vrabec	n-ma$n
 	pol	współplemiennik	n-mi	ces	soukmenovec	n-ma
 	pol	współrzędna	n$n-f	ces	souřadnice	n-f
 	pol	wstyd	n-mi$n	ces	stud	n-mi
@@ -3754,14 +3754,14 @@ LR	pol	szlagier	n$n-mi	ces	šlágr	n-mi
 	pol	zwój	n-mi	ces	svitek	n-mi
 	pol	zwyciężczyni	n-f	ces	vítězka	n-f
 	pol	zwyczaj	n-mi$n	ces	úzus	n-mi
-	pol	zwyczaj	n-mi$n	ces	zvyk	n-mi
+	pol	zwyczaj	n-mi$n	ces	zvyk	n-mi$n
 	pol	żal	n-mi$n	ces	žal	n-mi
 	pol	żeglarstwo	n-nt	ces	jachting	n-nt
 	pol	żel	n-mi	ces	gel	n-mi
 	pol	żółć	n-f$n	ces	žluč	n-f
 	pol	żyrandol	n-mi	ces	lustr	n-mi
 	pol	akademik	n-mi	ces	akademik	n-ma
-	pol	akcent	n-mi$n	ces	přízvuk	n-mi
+	pol	akcent	n-mi$n	ces	přízvuk	n-mi$n
 	pol	aktywista	n-mp$n	ces	aktivista	n-ma
 	pol	ambulans	n-mi	ces	ambulance	n-f
 	pol	aptekarz	n-mp	ces	lékárník	n-ma
@@ -3783,8 +3783,8 @@ LR	pol	szlagier	n$n-mi	ces	šlágr	n-mi
 	pol	ceremonia	n-f$n	ces	ceremoniál	n-mi
 	pol	chłopięcość	n-f	ces	klukovina	n-f
 	pol	ciągnik	n-mi$n	ces	tahač	n-mi
-	pol	cząsteczka	n-f$n	ces	hmota	n-f
-	pol	diabeł	n-ma$n	ces	čert	n-ma
+	pol	cząsteczka	n-f$n	ces	hmota	n-f$n
+	pol	diabeł	n-ma$n	ces	čert	n-ma$n
 	pol	diagram	n-mi$n	ces	nákres	n-mi
 	pol	dokumentalista	n-mp	ces	dokumentarista	n-ma
 	pol	dolina	n-f	ces	dolina	n-f
@@ -3809,7 +3809,7 @@ LR	pol	szlagier	n$n-mi	ces	šlágr	n-mi
 	pol	gimnastyk	n-f	ces	gymnastika	n-f
 	pol	gimnastyka	n-f	ces	gymnastika	n-f
 	pol	gitarzysta	n-mp	ces	kytarista	n-ma
-	pol	haczyk	n-mi$n	ces	háček	n-mi
+	pol	haczyk	n-mi$n	ces	háček	n-mi$n
 	pol	hinduizm	n-mi$n	ces	hinduismus	n-mi
 	pol	humanista	n-mp	ces	humanista	n-ma
 	pol	humorysta	n-mp	ces	humorista	n-ma
@@ -3833,7 +3833,7 @@ RL	pol	jasność	n-f	ces	jas	n-mi
 	pol	kostka	n-f$n	ces	kotník	n-mi
 	pol	książka	n-f$n	ces	knížka	n-f
 	pol	kultura	n-f	ces	kontura	n-f
-	pol	kwiat	n-mi$n	ces	květ	n-mi
+	pol	kwiat	n-mi$n	ces	květ	n-mi$n
 	pol	lek	n-mi	ces	lek	n-mi
 	pol	lingwista	n-mp	ces	lingvista	n-ma
 	pol	litera	n-f$n	ces	litera	n-f
@@ -3868,7 +3868,7 @@ RL	pol	jasność	n-f	ces	jas	n-mi
 	pol	patronat	n-mi	ces	patronace	n-f
 	pol	patronat	n-mi	ces	záštita	n-f
 	pol	pianista	n-mp	ces	klavírista	n-ma
-	pol	pionier	n-mp$n	ces	průkopník	n-ma
+	pol	pionier	n-mp$n	ces	průkopník	n-ma$n
 	pol	podłość	n-f	ces	hanebnost	n-f
 	pol	podręcznik	n-mi	ces	příručka	n-f
 	pol	polder	n-mi	ces	polder	n-mi
@@ -3890,7 +3890,7 @@ RL	pol	jasność	n-f	ces	jas	n-mi
 LR	pol	rewolucja	n-f	ces	převrat	n-mi
 	pol	rowerzysta	n-mp	ces	cyklista	n-ma
 	pol	rów	n-mi	ces	příkop	n-mi
-	pol	ruina	n-f$n	ces	ruina	n-f
+	pol	ruina	n-f$n	ces	ruina	n-f$n
 	pol	ruina	n-f$n	ces	zřícenina	n-f
 	pol	saksofonista	n-mp	ces	saxofonista	n-ma
 	pol	samochód	n-mi$n	ces	auťák	n-mi
@@ -3907,14 +3907,14 @@ LR	pol	snob	n-mp	ces	lakomec	n-ma
 	pol	substancja	n-f	ces	látka	n-f
 	pol	szambo	n-nt$n	ces	septik	n-mi
 	pol	szkielet	n-mi$n	ces	skelet	n-mi
-	pol	szklanka	n-f$n	ces	sklenice	n-f
+	pol	szklanka	n-f$n	ces	sklenice	n-f$n
 	pol	ścieżka	n-f$n	ces	pěšina	n-f
 	pol	tenisista	n-mp	ces	tenista	n-ma
 	pol	towar	n-mi	ces	zboží	n-mi
 	pol	turysta	n-mp$n	ces	turista	n-ma
 	pol	twardość	n-f$n	ces	tvrdost	n-f
-	pol	oblicze	n-f	ces	obličej	n-mi
-	pol	twarz	n-f$n	ces	tvář	n-f
+	pol	oblicze	n-f	ces	obličej	n-mi$n
+	pol	twarz	n-f$n	ces	tvář	n-f$n
 	pol	uchwyt	n-mi$n	ces	držák	n-mi
 	pol	ułamek	n-mi$n	ces	úlomek	n-mi
 	pol	ułamek	n-mi$n	ces	zlomek	n-mi
@@ -3929,12 +3929,12 @@ LR	pol	snob	n-mp	ces	lakomec	n-ma
 	pol	wygnanie	n-nt$n	ces	vyhnanství	n-mi
 	pol	zabijak	n-mi	ces	zabiják	n-ma
 	pol	zagranica	n-f	ces	zahraničí	n-mi
-	pol	związek	n-mi$n	ces	spolek	n-mi
-	pol	związek	n-mi$n	ces	svaz	n-mi
+	pol	związek	n-mi$n	ces	spolek	n-mi$n
+	pol	związek	n-mi$n	ces	svaz	n-mi$n
 	pol	żaba	n-f$n	ces	skokan	n-ma
 LR	pol	aeroplan	n-mi$n	ces	letoun	n-mi
 	pol	agencja	n-f	ces	agentura	n-f
-	pol	akut	n-mp	ces	čárka	n-f
+	pol	akut	n-mp	ces	čárka	n-f$n
 	pol	akwizycja	n-f	ces	akvizice	n-f
 	pol	alba	n$n-f	ces	alba	n-f
 	pol	alegoria	n-f	ces	alegorie	n-f
@@ -4022,7 +4022,7 @@ LR	pol	jantar	n-mi	ces	jantar	n-mi
 	pol	kaloria	n-f$n	ces	kalorie	n-f
 	pol	kamieniołom	n-mi	ces	lom	n-mi
 	pol	kamyczek	n-mi	ces	kamínek	n-mi
-	pol	kancelaria	n-f	ces	kancelář	n-f
+	pol	kancelaria	n-f	ces	kancelář	n-f$n
 	pol	karambola	n-f	ces	karambol	n-mi
 	pol	karetka	n-f	ces	sanitka	n-f
 	pol	karoseria	n-f$n	ces	karosérie	n-f
@@ -4031,7 +4031,7 @@ LR	pol	jantar	n-mi	ces	jantar	n-mi
 	pol	kawalerka	n-f$n	ces	garsonka	n-f
 	pol	komedia	n-f$n	ces	komedie	n-f
 	pol	korekcja	n-f	ces	korekce	n-f
-	pol	kran	n-mi	ces	kohout	n-mi
+	pol	kran	n-mi	ces	kohout	n-mi$n
 	pol	krata	n-f$n	ces	mříž	n-f
 	pol	krwinka	n-f$n	ces	krvinka	n-f
 	pol	kulka	n-f$n	ces	kulka	n-f
@@ -4057,7 +4057,7 @@ LR	pol	metodyk	n-mp	ces	metodik	n-f
 	pol	mleczarnia	n-f	ces	mlékárna	n-f
 	pol	naklejka	n$n-f	ces	samolepka	n-f
 	pol	nawierzchnia	n-f	ces	vozovka	n-f
-	pol	niejasność	n-f	ces	jasnost	n-f
+	pol	niejasność	n-f	ces	jasnost	n-f$n
 	pol	niepełnosprawność	n-f	ces	invalidita	n-f
 	pol	nowinka	n-f	ces	novinka	n-f
 	pol	obsceniczność	n-f	ces	obscénnost	n-f
@@ -4073,12 +4073,12 @@ LR	pol	oklask	n-mi	ces	potlesk	n-mi
 	pol	orda	n-f	ces	horda	n-f
 	pol	organizer	n-ma	ces	organizátor	n-ma
 	pol	pallad	n-mp	ces	palladium	n-nt
-	pol	panienka	n-f	ces	panenka	n-f
+	pol	panienka	n-f	ces	panenka	n-f$n
 	pol	parodia	n-f	ces	parodie	n-f
-	pol	partia	n-f	ces	strana	n-f
+	pol	partia	n-f	ces	strana	n-f$n
 	pol	perfuma	n-f	ces	parfém	n-mi
 	pol	peryferia	n-nt	ces	okraj	n-mi
-	pol	pierścionek	n-mi	ces	prsten	n-mi
+	pol	pierścionek	n-mi	ces	prsten	n-mi$n
 	pol	pierwszoklasista	n-mp	ces	prvňák	n-ma
 	pol	pobudka	n-f	ces	pohnutka	n-f
 	pol	potwierdzenie	n-nt	ces	klad	n-mi
@@ -4093,8 +4093,8 @@ LR	pol	oklask	n-mi	ces	potlesk	n-mi
 	pol	prowiant	n-mi	ces	proviant	n-mi
 	pol	przeniesienie	n-nt	ces	přenos	n-mi
 	pol	przewodzenie	n-nt	ces	vedení	n-mi
-	pol	przyrostek	n-mi	ces	přípona	n-f
-	pol	przytomność	n-f	ces	vědomí	n-mi
+	pol	przyrostek	n-mi	ces	přípona	n-f$n
+	pol	przytomność	n-f	ces	vědomí	n-mi$n
 	pol	pupilka	n-f	ces	mazlíček	n-ma
 	pol	rebelia	n-f	ces	rebelie	n-f
 	pol	recenzent	n-mp	ces	lektor	n-ma
@@ -4104,7 +4104,7 @@ LR	pol	oklask	n-mi	ces	potlesk	n-mi
 	pol	rozsądek	n-mi	ces	rozum	n-mi
 	pol	rubid	n-mp	ces	rubidium	n-nt
 	pol	ruchliwość	n-f	ces	mobilita	n-f
-	pol	sekundka	n-f	ces	vteřina	n-f
+	pol	sekundka	n-f	ces	vteřina	n-f$n
 	pol	seria	n-f$n	ces	série	n-f
 	pol	silniczek	n-mi	ces	motorek	n-f
 	pol	skand	n-mp	ces	skandium	n-nt
@@ -4114,7 +4114,7 @@ RL	pol	akronim	n-mi	ces	akronymum	n-nt
 	pol	akronim	n-mi	ces	akronym	n-mi
 	pol	slang	n-mi	ces	argot	n-mi
 	pol	słodycz	n-f	ces	cukrovinka	n-f
-	pol	spust	n-mi	ces	kohout	n-mi
+	pol	spust	n-mi	ces	kohout	n-mi$n
 	pol	stanik	n-mi$n	ces	podprsenka	n-f
 	pol	staruszka	n-f	ces	struska	n-f
 	pol	sterownik	n-mi	ces	ovladač	n-mi
@@ -4155,17 +4155,17 @@ LR	pol	tapetum	n-nt	ces	tapeta	n-f
 	pol	zabezpieczenie	n-nt	ces	ochrana	n-f
 	pol	załoga	n-f	ces	posádka	n-f
 	pol	zarozumiałość	n-f	ces	ješitnost	n-f
-	pol	zastrzeżenie	n-nt$n	ces	podmínka	n-f
+	pol	zastrzeżenie	n-nt$n	ces	podmínka	n-f$n
 	pol	zbytek	n-mi	ces	zbytek	n-mi
 	pol	zezwolenie	n-nt	ces	povolenka	n-f
 	pol	zmienność	n-f	ces	proměnlivost	n-f
-	pol	znaczek	n-mi	ces	známka	n-f
+	pol	znaczek	n-mi	ces	známka	n-f$n
 	pol	żarłacz	n-mp	ces	žralok	n-ma
 	pol	bezprawie	n-nt	ces	bezpráví	n-mi
 	pol	bezprawie	n-nt	ces	zákonnost	n-f
 	pol	bezrobocie	n-nt	ces	nezaměstnanost	n-f
 	pol	dożywocie	n-nt	ces	doživotí	n-mi
-	pol	narzędzie	n-nt	ces	nástroj	n-mi
+	pol	narzędzie	n-nt	ces	nástroj	n-mi$n
 	pol	podzamcze	n-nt	ces	podhradí	n-mi
 	pol	podziemie	n-nt$n	ces	podzemí	n-mi
 	pol	pogranicze	n-nt	ces	pohraničí	n-mi
@@ -4177,7 +4177,7 @@ RL	pol	powietrze	n-nt$n	ces	ovzduší	n-mi
 	pol	półrocze	n-nt$n	ces	pololetí	n-mi
 	pol	przedwiośnie	n-nt	ces	předjaří	n-mi
 	pol	przymierze	n-nt	ces	příměří	n-mi
-	pol	serce	n-nt$n	ces	srdce	n-nt
+	pol	serce	n-nt$n	ces	srdce	n-nt$n
 	pol	średniowiecze	n-nt$n	ces	středověk	n-mi
 	pol	tysiąclecie	n-nt$n	ces	tisíciletí	n-mi
 	pol	wybrzeże	n-nt$n	ces	pobřeží	n-mi
@@ -4193,10 +4193,10 @@ RL	pol	zacisze	n-nt	ces	ústrání	n-mi
 	pol	agent	n-mp	ces	agent	n-ma
 	pol	agrest	n-mi$n	ces	angrešt	n-mi
 	pol	aktor	n-mp	ces	aktér	n-ma
-	pol	aktor	n-mp	ces	herec	n-ma
+	pol	aktor	n-mp	ces	herec	n-ma$n
 	pol	akwarium	n-nt$n	ces	akvárium	n-nt
 	pol	aleja	n-f$n	ces	alej	n-f
-	pol	alfabet	n-mi$n	ces	abeceda	n-f
+	pol	alfabet	n-mi$n	ces	abeceda	n-f$n
 	pol	algorytm	n-mi$n	ces	algoritmus	n-mi
 	pol	alkaliczność	n-f	ces	kyselost	n-f
 	pol	alkoholik	n-mp$n	ces	alkoholik	n-ma
@@ -4238,7 +4238,7 @@ RL	pol	artykuł	n-mi	ces	výrobek	n-mi
 	pol	badacz	n-ma$n	ces	vědec	n-ma
 	pol	badacz	n-ma$n	ces	výzkumník	n-ma
 	pol	badanie	n-nt$n	ces	výzkum	n-mi
-	pol	bagażnik	n-mi	ces	kufr	n-mi
+	pol	bagażnik	n-mi	ces	kufr	n-mi$n
 	pol	bagnet	n-mi$n	ces	bajonet	n-mi
 	pol	balon	n-mi$n	ces	balon	n-mi
 	pol	barbarzyństwo	n-nt$n	ces	barbar	n-ma
@@ -4259,8 +4259,8 @@ RL	pol	artykuł	n-mi	ces	výrobek	n-mi
 	pol	białko	n-nt$n	ces	protein	n-mi
 	pol	biegun	n-ma$n	ces	pól	n-mi
 	pol	biskup	n-mp$n	ces	biskup	n-ma
-LR	pol	biuro	n-nt	ces	kancelář	n-f
-	pol	urząd	n-nt	ces	úřad	n-mi
+LR	pol	biuro	n-nt	ces	kancelář	n-f$n
+	pol	urząd	n-nt	ces	úřad	n-mi$n
 	pol	biznes	n-mi$n	ces	byznys	n-mi
 	pol	bizon	n-ma	ces	bizon	n-ma
 	pol	blask	n-mi$n	ces	lesk	n-mi
@@ -4268,7 +4268,7 @@ LR	pol	biuro	n-nt	ces	kancelář	n-f
 	pol	blok	n-mi$n	ces	panelák	n-mi
 	pol	błona	n-f$n	ces	membrána	n-f
 	pol	błyskawica	n-f$n	ces	blesk	n-mi
-	pol	bocian	n-ma$n	ces	čáp	n-ma
+	pol	bocian	n-ma$n	ces	čáp	n-ma$n
 	pol	bogactwo	n-nt	ces	bohatství	n-mi
 	pol	bok	n-mi$n	ces	bok	n-mi
 	pol	boks	n-mi$n	ces	box	n-mi
@@ -4287,11 +4287,11 @@ LR	pol	bryk	n-mi$n	ces	tahák	n-mi
 LR	pol	bydło	n-nt$n	ces	dobytek	n-mi$n
 	pol	całość	n-f$n	ces	celek	n-mi
 	pol	cebula	n-f$n	ces	cibule	n-f
-	pol	cedr	n-mi$n	ces	cedr	n-mi
+	pol	cedr	n-mi$n	ces	cedr	n-mi$n
 	pol	celibat	n-mi	ces	celibát	n-mi
 	pol	celnik	n-mp	ces	celník	n-ma
 	pol	cel	n-f	ces	gól	n-mi
-	pol	cel	n-f	ces	účel	n-mi
+	pol	cel	n-f	ces	účel	n-mi$n
 	pol	centrala	n-f$n	ces	centrála	n-f
 	pol	centrala	n-f$n	ces	ústředna	n-f
 	pol	certyfikat	n-mi	ces	certifikát	n-mi
@@ -4305,7 +4305,7 @@ RL	pol	chciwość	n-f	ces	chtivost	n-f
 	pol	chrześcijaństwo	n-nt$n	ces	křesťanství	n-mi
 	pol	chwast	n-mi$n	ces	plevel	n-mi
 	pol	chwila	n-f$n	ces	chvilka	n-f
-	pol	chwila	n-f$n	ces	okamžik	n-mi
+	pol	chwila	n-f$n	ces	okamžik	n-mi$n
 	pol	ciąg	n-mi$n	ces	posloupnost	n-f
 	pol	ciąża	n-f	ces	těhotenství	n-mi
 	pol	ciecz	n-f$n	ces	kapalina	n-f
@@ -4327,8 +4327,8 @@ RL	pol	chciwość	n-f	ces	chtivost	n-f
 	pol	cząstka	n-f$n	ces	částice	n-f
 	pol	cząstka	n-f$n	ces	částka	n-f
 	pol	częstotliwość	n-f$n	ces	frekvence	n-f
-RL	pol	część	n-f$n	ces	díl	n-mi
-	pol	część	n-f$n	ces	část	n-f
+RL	pol	część	n-f$n	ces	díl	n-mi$n
+	pol	część	n-f$n	ces	část	n-f$n
 	pol	czołówka	n-f	ces	špička	n-f
 	pol	czosnek	n-mi$n	ces	česnek	n-mi
 	pol	czynnik	n-mi$n	ces	faktor	n-mi
@@ -4336,14 +4336,14 @@ RL	pol	część	n-f$n	ces	díl	n-mi
 	pol	czystość	n-f	ces	čistota	n-f
 	pol	czytelnik	n-mp	ces	čtenář	n-ma
 	pol	ćwiczenie	n-nt$n	ces	cvik	n-mi
-	pol	data	n-f$n	ces	datum	n-mi
+	pol	data	n-f$n	ces	datum	n-mi$n
 	pol	dawka	n-f$n	ces	dávka	n-f
 	pol	debiut	n-mi	ces	debut	n-mi
 	pol	debiut	n-mi	ces	prvotina	n-f
 	pol	dekret	n-mi$n	ces	dekret	n-mi
 	pol	delegat	n-mp$n	ces	delegát	n-ma
 	pol	delta	n-f$n	ces	delta	n-f
-	pol	demon	n$n-ma	ces	démon	n-ma
+	pol	demon	n$n-ma	ces	démon	n-ma$n
 	pol	departament	n-mi$n	ces	departement	n-mi
 	pol	deser	n-mi$n	ces	dezert	n-mi
 	pol	dialektyka	n-f$n	ces	dialektika	n-f
@@ -4376,7 +4376,7 @@ LR	pol	drużyna	n-f$n	ces	tým	n-mi
 	pol	dukat	n-ma$n	ces	dukát	n-mi
 	pol	duma	n-f	ces	duma	n-f
 	pol	duplikat	n-mi$n	ces	duplikát	n-mi
-	pol	dusza	n-f$n	ces	duše	n-f
+	pol	dusza	n-f$n	ces	duše	n-f$n
 	pol	dworek	n-f	ces	dvorek	n-mi
 	pol	dyplom	n-mi$n	ces	diplom	n-mi
 	pol	dyrygent	n-mp	ces	dirigent	n-ma
@@ -4405,7 +4405,7 @@ LR	pol	drużyna	n-f$n	ces	tým	n-mi
 	pol	dżem	n-mi	ces	džem	n-mi
 	pol	dżentelmen	n-mp	ces	gentleman	n-ma
 	pol	dżuma	n-f	ces	mor	n-mi
-	pol	egzamin	n-mi$n	ces	zkouška	n-f
+	pol	egzamin	n-mi$n	ces	zkouška	n-f$n
 LR	pol	ekipa	n-f	ces	tým	n-mi
 	pol	eksperyment	n-mi$n	ces	experiment	n-mi
 	pol	eksport	n-mi$n	ces	export	n-mi
@@ -4421,18 +4421,18 @@ LR	pol	ekipa	n-f	ces	tým	n-mi
 	pol	tonacja	n-f$n	ces	tónina	n-f
 	pol	era	n-f$n	ces	éra	n-f
 	pol	estrogen	n-mi	ces	estrogen	n-mi
-	pol	etap	n-mi$n	ces	etapa	n-f
+	pol	etap	n-mi$n	ces	etapa	n-f$n
 	pol	etnograf	n-mp$n	ces	etnograf	n-ma
 	pol	fabryka	n-f$n	ces	fabrika	n-f
 	pol	fabryka	n-f$n	ces	továrna	n-f
 	pol	fagot	n-mi$n	ces	fagot	n-mi
 	pol	faktor	n-mi$n	ces	faktor	n-mi
-	pol	fakt	n-mi$n	ces	fakt	n-mi
+	pol	fakt	n-mi$n	ces	fakt	n-mi$n
 	pol	fan	n-mi	ces	fan	n-mi
 	pol	faza	n-f$n	ces	fáze	n-f
 	pol	festiwal	n-mi	ces	festival	n-mi
 	pol	figura	n-f$n	ces	figura	n-f
-	pol	figura	n-f$n	ces	tvar	n-mi
+	pol	figura	n-f$n	ces	tvar	n-mi$n
 	pol	film	n-mi$n	ces	film	n-mi
 	pol	flet	n-mi$n	ces	flétna	n-f
 	pol	flotylla	n-f	ces	flotila	n-f
@@ -4441,7 +4441,7 @@ LR	pol	ekipa	n-f	ces	tým	n-mi
 	pol	fontanna	n-f	ces	fontána	n-f
 	pol	formalność	n-f	ces	formalita	n-f
 	pol	forma	n-f$n	ces	formulář	n-mi
-	pol	forma	n-f$n	ces	tvar	n-mi
+	pol	forma	n-f$n	ces	tvar	n-mi$n
 	pol	format	n-mi	ces	formát	n-mi
 	pol	foton	n-mi$n	ces	foton	n-mi
 	pol	fragment	n-mi$n	ces	úryvek	n-mi
@@ -4463,7 +4463,7 @@ LR	pol	ekipa	n-f	ces	tým	n-mi
 	pol	gitara	n-f$n	ces	kytara	n-f
 	pol	głębia	n-f$n	ces	hloubka	n-f
 	pol	głębokość	n-f	ces	hloubka	n-f
-	pol	głos	n-mi$n	ces	hlas	n-mi
+	pol	głos	n-mi$n	ces	hlas	n-mi$n
 	pol	głośność	n-f	ces	hlasitost	n-f
 	pol	głód	n-mi	ces	hladomor	n-mi
 	pol	głód	n-mi	ces	hlad	n-mi
@@ -4475,13 +4475,13 @@ LR	pol	ekipa	n-f	ces	tým	n-mi
 	pol	gracz	n-mp	ces	hráč	n-ma
 	pol	grafika	n-f$n	ces	grafik	n-ma
 	pol	gramatyka	n-f	ces	gramatika	n-f
-	pol	gramatyka	n-f	ces	mluvnice	n-f
-	pol	granica	n-f$n	ces	hranice	n-f
+	pol	gramatyka	n-f	ces	mluvnice	n-f$n
+	pol	granica	n-f$n	ces	hranice	n-f$n
 	pol	granica	n-f$n	ces	limita	n-f
 	pol	grobowiec	n-mi	ces	hrobka	n-f
 	pol	grobowiec	n-mi	ces	hrob	n-mi
-	pol	gruszka	n-f$n	ces	hruška	n-f
-	pol	grypa	n-f	ces	chřipka	n-f
+	pol	gruszka	n-f$n	ces	hruška	n-f$n
+	pol	grypa	n-f	ces	chřipka	n-f$n
 	pol	grzbiet	n-mi$n	ces	hřbet	n-mi
 	pol	grzyb	n-ma	ces	hřib	n-mi
 	pol	grzywa	n-f	ces	hříva	n-f
@@ -4504,7 +4504,7 @@ LR	pol	ekipa	n-f	ces	tým	n-mi
 	pol	horyzont	n-mi	ces	horizont	n-mi
 	pol	hrabstwo	n-nt$n	ces	hrabství	n-mi
 	pol	humor	n-mi$n	ces	humor	n-mi
-	pol	humor	n-mi$n	ces	nálada	n-f
+	pol	humor	n-mi$n	ces	nálada	n-f$n
 	pol	huśtawka	n$n-f	ces	houpačka	n-f
 	pol	hymn	n-mi$n	ces	hymnus	n-mi
 	pol	ikona	n-f	ces	ikona	n-f
@@ -4521,7 +4521,7 @@ RL	pol	ilość	n-f	ces	počet	n-mi
 	pol	inicjator	n-mi	ces	iniciátor	n-mi
 	pol	inspektor	n-mp	ces	inspektor	n-ma
 	pol	instrument	n-mi$n	ces	instrument	n-mi
-	pol	instrument	n-mi$n	ces	nástroj	n-mi
+	pol	instrument	n-mi$n	ces	nástroj	n-mi$n
 	pol	instytut	n-mi$n	ces	institut	n-mi
 	pol	interfejs	n-mi$n	ces	rozhraní	n-mi
 	pol	islam	n-mi$n	ces	islám	n-mi
@@ -4529,7 +4529,7 @@ RL	pol	ilość	n-f	ces	počet	n-mi
 	pol	istota	n-f$n	ces	jistota	n-f
 	pol	izba	n-f	ces	komora	n-f
 	pol	izba	n-f	ces	světnice	n-f
-	pol	jaskółka	n-f$n	ces	vlaštovka	n-f
+	pol	jaskółka	n-f$n	ces	vlaštovka	n-f$n
 	pol	jaszczurka	n-f	ces	ještěr	n-ma
 	pol	jazda	n-f	ces	jízda	n-f
 	pol	jeniec	n-mp$n	ces	zajatec	n-ma
@@ -4537,7 +4537,7 @@ RL	pol	ilość	n-f	ces	počet	n-mi
 	pol	jon	n-mi$n	ces	iont	n-mi
 	pol	junior	n-mp$n	ces	junior	n-ma
 	pol	kabina	n-f	ces	kabina	n-f
-	pol	kaczka	n-f$n	ces	kachna	n-f
+	pol	kaczka	n-f$n	ces	kachna	n-f$n
 	pol	kadet	n-mp	ces	kadet	n-ma
 	pol	kalarepa	n-f$n	ces	kedlubna	n-f
 	pol	kał	n-mi	ces	bobek	n-mi
@@ -4559,7 +4559,7 @@ RL	pol	ilość	n-f	ces	počet	n-mi
 	pol	kardynał	n-mp$n	ces	kardinál	n-ma
 	pol	kariera	n-f	ces	kariéra	n-f
 	pol	karnawał	n-mi	ces	masopust	n-mi
-	pol	karta	n-f$n	ces	lístek	n-mi
+	pol	karta	n-f$n	ces	lístek	n$n-mi
 	pol	karykatura	n-f	ces	karikatura	n-f
 	pol	kasa	n-f$n	ces	pokladna	n-f
 	pol	katalog	n-mi$n	ces	adresář	n-mi
@@ -4569,17 +4569,17 @@ RL	pol	ilość	n-f	ces	počet	n-mi
 	pol	katastrofa	n-f	ces	katastrofa	n-f
 	pol	kata	n-f	ces	kat	n-ma
 	pol	katedra	n-f	ces	katedrála	n-f
-	pol	katolik	n-mp$n	ces	katolík	n-ma
-	pol	kawałek	n-mi	ces	kousek	n-mi
-	pol	kawałek	n-mi	ces	kus	n-mi
+	pol	katolik	n-mp$n	ces	katolík	n-ma$n
+	pol	kawałek	n-mi	ces	kousek	n-mi$n
+	pol	kawałek	n-mi	ces	kus	n-mi$n
 	pol	kąt	n-mi$n	ces	ústraní	n-mi
 	pol	keczup	n-mi	ces	kečup	n-mi
 	pol	kierownictwo	n-nt$n	ces	vedení	n-mi
-	pol	kierunek	n-mi$n	ces	směr	n-mi
+	pol	kierunek	n-mi$n	ces	směr	n-mi$n
 	pol	kilometr	n-mi	ces	kilometr	n-mi
 	pol	kita	n-f	ces	tmel	n-mi
 	pol	klan	n-mi$n	ces	klan	n-mi
-	pol	klasa	n-f$n	ces	třída	n-f
+	pol	klasa	n-f$n	ces	třída	n-f$n
 	pol	klaun	n-mp	ces	klaun	n-ma
 	pol	klawiatura	n-f	ces	klávesnice	n-f
 	pol	klient	n-mp	ces	klient	n-ma
@@ -4601,9 +4601,9 @@ RL	pol	ilość	n-f	ces	počet	n-mi
 	pol	komendant	n-mp	ces	komediant	n-ma
 	pol	kominek	n-mi$n	ces	kamínek	n-mi
 	pol	komisarz	n-mp	ces	komisař	n-ma
-	pol	komitet	n-mi	ces	výbor	n-mi
+	pol	komitet	n-mi	ces	výbor	n-mi$n
 	pol	koncern	n-mi$n	ces	koncern	n-mi
-	pol	koncert	n-mi	ces	koncert	n-mi
+	pol	koncert	n-mi	ces	koncert	n-mi$n
 	pol	konflikt	n-mi	ces	konflikt	n-mi
 	pol	konflikt	n-mi	ces	svár	n-mi
 	pol	kongres	n-mi	ces	kongres	n-mi
@@ -4619,16 +4619,16 @@ RL	pol	ilość	n-f	ces	počet	n-mi
 	pol	kontrakt	n-mi	ces	kontrast	n-mi
 	pol	kontynent	n-mi$n	ces	kontinent	n-mi
 	pol	kończyna	n-f$n	ces	končetina	n-f
-	pol	koperta	n-f	ces	obálka	n-f
+	pol	koperta	n-f	ces	obálka	n-f$n
 	pol	korektor	n-mp$n	ces	korektor	n-ma
 	pol	korespondencja	n-f	ces	korespondence	n-f
 	pol	korpus	n-mi$n	ces	korpus	n-mi
 	pol	kort	n-mi	ces	kurt	n-mi
 	pol	korzyść	n-f	ces	výhoda	n-f
 	pol	koszmar	n-mi$n	ces	můra	n-f
-	pol	koszula	n-f	ces	košile	n-f
+	pol	koszula	n-f	ces	košile	n-f$n
 	pol	koszykówka	n-f$n	ces	basketbal	n-mi
-	pol	kotka	n-f$n	ces	kočka	n-f
+	pol	kotka	n-f$n	ces	kočka	n-f$n
 	pol	kotlina	n-f	ces	kotlina	n-f
 	pol	krab	n-ma	ces	krab	n-ma
 	pol	kradzież	n-f	ces	krádež	n-f
@@ -4637,7 +4637,7 @@ RL	pol	ilość	n-f	ces	počet	n-mi
 	pol	krążek	n-mi	ces	puk	n-mi
 	pol	krążownik	n-mi$n	ces	křižník	n-mi
 	pol	kręgosłup	n-mi$n	ces	páteř	n-f
-	pol	krok	n-mi	ces	krok	n-mi
+	pol	krok	n-mi	ces	krok	n-mi$n
 	pol	kronika	n-f$n	ces	kronika	n-f
 	pol	kropka	n-f	ces	tečka	n-f
 	pol	krtań	n-f$n	ces	hrtan	n-mi
@@ -4650,9 +4650,9 @@ RL	pol	ilość	n-f	ces	počet	n-mi
 	pol	kserokopiarka	n-f	ces	kopírka	n-f
 	pol	księstwo	n-nt$n	ces	knížectví	n-mi
 	pol	księżniczka	n-f	ces	princezna	n-f
-	pol	kształt	n-mi$n	ces	tvar	n-mi
+	pol	kształt	n-mi$n	ces	tvar	n-mi$n
 	pol	kubek	n-mi	ces	hrnek	n-mi
-	pol	kukułka	n-f$n	ces	kukačka	n-f
+	pol	kukułka	n-f$n	ces	kukačka	n-f$n
 	pol	kula	n-f$n	ces	koule	n-f
 	pol	kuna	n-f	ces	kuna	n-f
 	pol	kupa	n-f$n	ces	kupa	n-f
@@ -4667,8 +4667,8 @@ LR	pol	amator	n-mp$n	ces	diletant	n-ma
 RL	pol	laik	n-mp$n	ces	diletant	n-ma
 	pol	laik	n-mp$n	ces	laik	n-ma
 	pol	lakier	n-mi$n	ces	lak	n-mi
-	pol	laleczka	n-f	ces	panenka	n-f
-	pol	lampa	n-f$n	ces	lampa	n-f
+	pol	laleczka	n-f	ces	panenka	n-f$n
+	pol	lampa	n-f$n	ces	lampa	n-f$n
 	pol	laureat	n-mp	ces	laureát	n-ma
 	pol	lawa	n-f	ces	láva	n-f
 	pol	lawina	n-f	ces	lavina	n-f
@@ -4682,7 +4682,7 @@ RL	pol	laik	n-mp$n	ces	diletant	n-ma
 	pol	lingwistyka	n-f	ces	lingvistika	n-f
 	pol	link	n-mi$n	ces	odkaz	n-mi
 	pol	lira	n-f$n	ces	lira	n-f
-	pol	lis	n-ma$n	ces	liška	n-f
+	pol	lis	n-ma$n	ces	liška	n-f$n
 	pol	lis	n-ma$n	ces	lis	n-mi
 RL	pol	lista	n-f	ces	lišta	n-f
 RL	pol	lista	n-f	ces	listina	n-f
@@ -4699,8 +4699,8 @@ RL	pol	lotnictwo	n-nt$n	ces	letectví	n-mi
 	pol	łan	n-mi	ces	lán	n-mi
 	pol	łapówka	n-f	ces	úplatek	n-mi
 	pol	łom	n-mi	ces	lom	n-mi
-	pol	łuk	n-mi$n	ces	oblouk	n-mi
-	pol	łyżka	n-f$n	ces	lžíce	n-f
+	pol	łuk	n-mi$n	ces	oblouk	n-mi$n
+	pol	łyżka	n-f$n	ces	lžíce	n-f$n
 	pol	macierz	n-f$n	ces	matice	n-f
 	pol	maczeta	n-f	ces	mačeta	n-f
 	pol	magazyn	n-mi$n	ces	magazín	n-mi
@@ -4722,12 +4722,12 @@ RL	pol	lotnictwo	n-nt$n	ces	letectví	n-mi
 	pol	materiał	n-mi$n	ces	materiál	n-mi
 	pol	matura	n-f$n	ces	maturita	n-f
 	pol	mauzoleum	n-nt	ces	mauzoleum	n-nt
-	pol	mąka	n-f	ces	mouka	n-f
-LR	pol	mąż	n-mp$n	ces	muž	n-ma
-	pol	mężczyzna	n-mp$n	ces	muž	n-ma
+	pol	mąka	n-f	ces	mouka	n-f$n
+LR	pol	mąż	n-mp$n	ces	muž	n-ma$n
+	pol	mężczyzna	n-mp$n	ces	muž	n-ma$n
 	pol	mechanika	n-f$n	ces	mechanik	n-ma
 	pol	mechanizm	n-mi$n	ces	mechanismus	n-mi
-	pol	mecz	n-mi	ces	zápas	n-mi
+	pol	mecz	n-mi	ces	zápas	n-mi$n
 	pol	medal	n-mi	ces	medaile	n-f
 	pol	meduza	n-f$n	ces	medúza	n-f
 	pol	melon	n-mi$n	ces	meloun	n-mi
@@ -4750,7 +4750,7 @@ RL	pol	metal	n-mi$n	ces	kov	n-mi
 	pol	moda	n-f	ces	mód	n-mi
 	pol	moduł	n$n-mi	ces	modul	n-mi
 	pol	most	n-mi$n	ces	most	n-mi
-	pol	motyw	n-mi$n	ces	motiv	n-mi
+	pol	motyw	n-mi$n	ces	motiv	n-mi$n
 	pol	mózg	n-mi$n	ces	mozek	n-mi
 	pol	mrówka	n-f$n	ces	mravenec	n-ma
 	pol	muzeum	n-nt$n	ces	muzeum	n-nt
@@ -4792,21 +4792,21 @@ LR	pol	nagroda	n-f	ces	cena	n-f$n
 	pol	objętość	n-f$n	ces	objem	n-mi
 	pol	obowiązek	n-mi$n	ces	povinnost	n-f
 	pol	obrazek	n-f	ces	obrázek	n-mi
-	pol	obraz	n-f	ces	obraz	n-mi
+	pol	obraz	n-f	ces	obraz	n-mi$n
 RL	pol	obraz	n-f	ces	snímek	n-mi
 	pol	obrona	n-f$n	ces	obhajoba	n-f
 	pol	obrys	n-mi	ces	obrys	n-mi
 	pol	obrządek	n-mi	ces	ritus	n-mi
-	pol	obserwatorium	n-nt$n	ces	observatoř	n-f
+	pol	obserwatorium	n-nt$n	ces	observatoř	n-f$n
 	pol	obsługa	n-f	ces	podpora	n-f
-	pol	obszar	n-mi$n	ces	areál	n-mi
+	pol	obszar	n-mi$n	ces	areál	n-mi$n
 	pol	obwód	n-mi$n	ces	obvod	n-mi
 	pol	ocean	n-mi$n	ces	oceán	n-mi
 	pol	ochotnik	n-mp	ces	dobrovolník	n-ma
 	pol	oda	n-f$n	ces	óda	n-f
 	pol	odcinek	n-mi$n	ces	úsečka	n-f
 	pol	oddział	n-mi$n	ces	pobočka	n-f
-	pol	odległość	n-f$n	ces	vzdálenost	n-f
+	pol	odległość	n-f$n	ces	vzdálenost	n-f$n
 	pol	odmiana	n-f$n	ces	odrůda	n-f
 	pol	odmiana	n-f$n	ces	varieta	n-f
 	pol	odniesienie	n-nt	ces	odkaz	n-mi
@@ -4819,8 +4819,8 @@ RL	pol	obraz	n-f	ces	snímek	n-mi
 	pol	ogon	n-mi$n	ces	ocas	n-mi
 	pol	ogon	n-mi$n	ces	ohon	n-mi
 	pol	ogródek	n-f	ces	zahrádka	n-f
-	pol	ogród	n-mi$n	ces	zahrada	n-f
-	pol	okładka	n-f$n	ces	obálka	n-f
+	pol	ogród	n-mi$n	ces	zahrada	n-f$n
+	pol	okładka	n-f$n	ces	obálka	n-f$n
 	pol	okolica	n-f$n	ces	okolí	n-mi
 	pol	okres	n-mi$n	ces	doba	n-f
 	pol	okres	n-mi$n	ces	období	n-mi
@@ -4836,10 +4836,10 @@ RL	pol	obraz	n-f	ces	snímek	n-mi
 	pol	opieka	n-f$n	ces	správa	n-f
 	pol	opis	n-mi	ces	popis	n-mi
 	pol	opłata	n-f	ces	poplatek	n-mi
-	pol	opona	n-f$n	ces	opona	n-f
+	pol	opona	n-f$n	ces	opona	n-f$n
 	pol	opona	n-f$n	ces	pneumatika	n-f
-	pol	opowiadanie	n-nt	ces	povídka	n-f
-	pol	opowieść	n-f	ces	pohádka	n-f
+	pol	opowiadanie	n-nt	ces	povídka	n-f$n
+	pol	opowieść	n-f	ces	pohádka	n-f$n
 	pol	opozycja	n-f	ces	opozice	n-f
 	pol	opozycja	n-f	ces	protiklad	n-mi
 	pol	opór	n-mi	ces	odpor	n-mi
@@ -4871,7 +4871,7 @@ RL	pol	obraz	n-f	ces	snímek	n-mi
 	pol	pamiątka	n-f	ces	upomínka	n-f
 	pol	panna	n-f$n	ces	panna	n-f
 	pol	panorama	n-f$n	ces	panoráma	n-f
-	pol	pan	n-mp$n	ces	pán	n-ma
+	pol	pan	n-mp$n	ces	pán	n-ma$n
 	pol	paradoks	n-mi	ces	paradox	n-mi
 	pol	parametr	n-mi$n	ces	parametr	n-mi
 	pol	para	n-f$n	ces	dvojice	n-f
@@ -4906,7 +4906,7 @@ RL	pol	obraz	n-f	ces	snímek	n-mi
 	pol	pilot	n-ma$n	ces	pilot	n-mi
 	pol	piłka	n-f$n	ces	míč	n-mi
 	pol	piosenka	n-f$n	ces	písnička	n-f
-	pol	pióro	n-nt$n	ces	peří	n-mi
+	pol	pióro	n-nt$n	ces	peří	n-mi$n
 	pol	pirat	n-mp	ces	pirát	n-ma
 	pol	pisanka	n-nt	ces	kraslice	n-f
 	pol	pisarz	n$n-ma	ces	básník	n-ma
@@ -4914,7 +4914,7 @@ RL	pol	obraz	n-f	ces	snímek	n-mi
 	pol	pizza	n-f	ces	pizza	n-f
 	pol	plakat	n-mi	ces	plakát	n-mi
 	pol	plaża	n-f$n	ces	pláž	n-f
-	pol	plus	n-mi$n	ces	plus	n-mi
+	pol	plus	n-mi$n	ces	plus	n-mi$n
 	pol	płot	n-mi$n	ces	plot	n-mi
 	pol	płyn	n-mi$n	ces	plyn	n-mi
 	pol	płyn	n-mi$n	ces	roztok	n-mi
@@ -4930,7 +4930,7 @@ RL	pol	pociąg	n-mi$n	ces	vláček	n-mi
 	pol	początek	n-mi$n	ces	počátek	n-mi
 	pol	początek	n-mi$n	ces	začátek	n-mi
 	pol	poczekalnia	n-f$n	ces	čekárna	n-f
-	pol	poczta	n-f	ces	pošta	n-f
+	pol	poczta	n-f	ces	pošta	n-f$n
 	pol	podium	n-nt	ces	pódium	n-nt
 	pol	podmiot	n-mi	ces	podmět	n-mi
 RL	pol	podobieństwo	n-nt$n	ces	obdoba	n-f
@@ -4938,10 +4938,10 @@ RL	pol	podobieństwo	n-nt$n	ces	obdoba	n-f
 	pol	podobieństwo	n-nt$n	ces	podobnost	n-f
 	pol	podoficer	n-mp	ces	poddůstojník	n-ma
 	pol	podpis	n-mi	ces	podpis	n-mi
-	pol	podróż	n-f$n	ces	cesta	n-f
+	pol	podróż	n-f$n	ces	cesta	n-f$n
 	pol	podstawa	n-f$n	ces	báze	n-f
 	pol	podstawa	n-f$n	ces	postava	n-f
-	pol	podstawa	n-f$n	ces	základ	n-mi
+	pol	podstawa	n-f$n	ces	základ	n-mi$n
 	pol	podwozie	n-mi	ces	podvozek	n-mi
 	pol	pogrzeb	n-mi	ces	funus	n-mi
 	pol	pojemność	n-f$n	ces	kapacita	n-f
@@ -4961,13 +4961,13 @@ RL	pol	podobieństwo	n-nt$n	ces	obdoba	n-f
 	pol	pomoc	n-f$n	ces	nápověda	n-f
 	pol	pomoc	n-f$n	ces	pomoc	n-f
 	pol	pomyłka	n-f$n	ces	omyl	n-mi
-	pol	poniedziałek	n-mi$n	ces	pondělí	n-mi
+	pol	poniedziałek	n-mi$n	ces	pondělí	n-mi$n
 	pol	popart	n-mi	ces	podpora	n-f
 	pol	porażka	n-f	ces	porážka	n-f
 	pol	poród	n-mi	ces	porod	n-mi
 	pol	portret	n-mi	ces	portrét	n-mi
 	pol	port	n-nt	ces	port	n-f
-	pol	porządek	n-mi$n	ces	pořádek	n-mi
+	pol	porządek	n-mi$n	ces	pořádek	n-mi$n
 	pol	porządek	n-mi$n	ces	pořadí	n-mi
 	pol	porządek	n-mi$n	ces	řád	n-mi
 	pol	porzeczka	n-f$n	ces	rybíz	n-mi
@@ -4976,7 +4976,7 @@ RL	pol	podobieństwo	n-nt$n	ces	obdoba	n-f
 	pol	posłanie	n-nt$n	ces	poselství	n-mi
 	pol	postawa	n-f$n	ces	postava	n-f
 	pol	postawa	n-f$n	ces	postoj	n-mi
-	pol	postęp	n-mi$n	ces	pokrok	n-mi
+	pol	postęp	n-mi$n	ces	pokrok	n-mi$n
 	pol	postęp	n-mi$n	ces	vývoj	n-mi
 	pol	postulat	n-mi$n	ces	postulát	n-mi
 	pol	potencjał	n-mi$n	ces	potenciál	n-mi
@@ -5008,14 +5008,14 @@ RL	pol	podobieństwo	n-nt$n	ces	obdoba	n-f
 	pol	profesor	n-mp$n	ces	profesor	n-ma
 	pol	profil	n-mi	ces	profil	n-mi
 	pol	promieniowanie	n-nt$n	ces	radiace	n-f
-	pol	promień	n-mi$n	ces	paprsek	n-mi
+	pol	promień	n-mi$n	ces	paprsek	n-mi$n
 	pol	promień	n-mi$n	ces	poloměr	n-mi
 	pol	prostokąt	n-mi$n	ces	obdélník	n-mi
 	pol	prototyp	n-mi$n	ces	prototyp	n-mi
-	pol	próba	n-f$n	ces	pokus	n-mi
+	pol	próba	n-f$n	ces	pokus	n-mi$n
 	pol	próbka	n-f$n	ces	vzorek	n-mi
 	pol	przeciąg	n-mi$n	ces	průvan	n-mi
-	pol	przecinek	n-mi$n	ces	čárka	n-f
+	pol	przecinek	n-mi$n	ces	čárka	n-f$n
 	pol	przeciwieństwo	n-nt	ces	opak	n-mi
 	pol	przeciwieństwo	n-nt	ces	protiklad	n-mi
 	pol	przeciwieństwo	n-nt	ces	protivenství	n-mi
@@ -5044,7 +5044,7 @@ LR	pol	przekaz	n-mi	ces	poukázka	n-f
 	pol	przestępstwo	n-nt$n	ces	zločin	n-mi
 	pol	przestrzeń	n-f$n	ces	prostor	n-mi
 	pol	przestrzeń	n-f$n	ces	prostranství	n-mi
-	pol	przeszkoda	n-f$n	ces	překážka	n-f
+	pol	przeszkoda	n-f$n	ces	překážka	n-f$n
 	pol	przeszłość	n-f$n	ces	minulost	n-f
 	pol	przewód	n-mi$n	ces	drátek	n-mi
 	pol	przyczyna	n-f$n	ces	příčina	n-f
@@ -5052,7 +5052,7 @@ LR	pol	przekaz	n-mi	ces	poukázka	n-f
 	pol	przykrywka	n-f$n	ces	záminka	n-f
 	pol	przynależność	n-f	ces	příslušnost	n-f
 	pol	przynależność	n-f	ces	sounáležitost	n-f
-	pol	przyroda	n-f$n	ces	příroda	n-f
+	pol	przyroda	n-f$n	ces	příroda	n-f$n
 	pol	przyrost	n-mi	ces	nárůst	n-mi
 	pol	pseudonim	n-mi$n	ces	pseudonym	n-mi
 RL	pol	publiczność	n-f	ces	veřejnost	n-f
@@ -5065,7 +5065,7 @@ RL	pol	publiczność	n-f	ces	veřejnost	n-f
 	pol	rachunek	n-mi$n	ces	účtenka	n-f
 	pol	rafa	n-f	ces	útes	n-mi
 	pol	rakieta	n-f	ces	raketa	n-f
-	pol	ramię	n-nt$n	ces	paže	n-f
+	pol	ramię	n-nt$n	ces	paže	n-f$n
 	pol	ramka	n-f$n	ces	rámeček	n-mi
 	pol	raport	n-mi$n	ces	raport	n-mi
 	pol	raport	n-mi$n	ces	výkaz	n-mi
@@ -5087,15 +5087,15 @@ LR	pol	resztka	n-f	ces	zbytek	n-mi
 	pol	robota	n-f	ces	práce	n-f
 	pol	robotnik	n-mp	ces	dělník	n-ma
 	pol	rodak	n-mp	ces	rodák	n-ma
-	pol	rolnictwo	n-nt	ces	zemědělství	n-mi
+	pol	rolnictwo	n-nt	ces	zemědělství	n-mi$n
 	pol	rolnik	n-mp$n	ces	rolník	n-ma
 	pol	rolnik	n-mp$n	ces	zemědělec	n-ma
 	pol	roślinność	n-f	ces	vegetace	n-f
-	pol	rower	n-mi$n	ces	kolo	n-nt$n
+	pol	rower	n-mi$n	ces	kolo	n-nt
 	pol	rozdział	n-mi$n	ces	kapitola	n-f
 	pol	rozgłos	n-mi$n	ces	věhlas	n-mi
 LR	pol	rozkaz	n-mi	ces	pokyn	n-mi
-	pol	rozkaz	n-mi	ces	rozkaz	n-mi
+	pol	rozkaz	n-mi	ces	rozkaz	n-mi$n
 	pol	rozmiar	n-mi$n	ces	rozměr	n-mi
 	pol	wielkość	n-mi	ces	velikost	n-f
 	pol	rozrywka	n-f	ces	zábava	n-f
@@ -5104,7 +5104,7 @@ LR	pol	rozkaz	n-mi	ces	pokyn	n-mi
 	pol	równość	n-f$n	ces	rovnost	n-f
 	pol	równowaga	n-f$n	ces	stabilita	n-f
 	pol	różnica	n-f$n	ces	rozdílnost	n-f
-	pol	różnica	n-f$n	ces	rozdíl	n-mi
+	pol	różnica	n-f$n	ces	rozdíl	n-mi$n
 	pol	różnica	n-f$n	ces	různost	n-f
 	pol	różnorodność	n-f$n	ces	pestrost	n-f
 	pol	różnorodność	n-f$n	ces	různorodost	n-f
@@ -5137,20 +5137,20 @@ LR	pol	rozkaz	n-mi	ces	pokyn	n-mi
 	pol	senator	n-mp$n	ces	senátor	n-ma
 	pol	senat	n-mi$n	ces	senát	n-mi
 	pol	senior	n-mp$n	ces	senior	n-ma
-	pol	sens	n-mi$n	ces	smysl	n-mi
+	pol	sens	n-mi$n	ces	smysl	n-mi$n
 	pol	serial	n-mi	ces	seriál	n-mi
 	pol	serwis	n-mi$n	ces	nádobí	n-mi
 	pol	setka	n-f	ces	stovka	n-f
 	pol	sezon	n-mi$n	ces	sezóna	n-f
-	pol	sęp	n-ma$n	ces	sup	n-ma
+	pol	sęp	n-ma$n	ces	sup	n-ma$n
 LR	pol	sfera	n-f$n	ces	koule	n-f
 	pol	sfera	n-f$n	ces	sféra	n-f
 	pol	siatka	n-f$n	ces	mřížka	n-f
 	pol	siatkówka	n-f$n	ces	volejbal	n-mi
 	pol	sierp	n-mi$n	ces	srpek	n-mi
-	pol	sikora	n-f$n	ces	sýkora	n-f
+	pol	sikora	n-f$n	ces	sýkora	n-f$n
 	pol	silnik	n-mi	ces	motor	n-mi
-	pol	silnik	n-mi	ces	stroj	n-mi
+	pol	silnik	n-mi	ces	stroj	n-mi$n
 	pol	siłacz	n-ma	ces	silák	n-ma
 	pol	skala	n-f	ces	modus	n-mi
 	pol	skala	n-f	ces	stupnice	n-f
@@ -5171,7 +5171,7 @@ LR	pol	sfera	n-f$n	ces	koule	n-f
 	pol	soczewka	n-f	ces	čočka	n-f
 	pol	solidarność	n-f	ces	solidarita	n-f
 	pol	spadek	n-mi	ces	dědictví	n-mi
-	pol	spadek	n-mi	ces	pád	n-mi
+	pol	spadek	n-mi	ces	pád	n-mi$n
 	pol	spadek	n-mi	ces	pokles	n-mi
 	pol	spadochron	n-mi	ces	padák	n-mi
 	pol	społeczność	n-f	ces	komunita	n-f
@@ -5184,7 +5184,7 @@ LR	pol	sprawność	n-f$n	ces	účinnost	n-f
 LR	pol	stabilność	n-f	ces	stabilita	n-f
 	pol	stadium	n-nt$n	ces	stadium	n-nt
 	pol	stanowisko	n-nt	ces	post	n-mi
-LR	pol	stan	n-mi$n	ces	stát	n-mi
+LR	pol	stan	n-mi$n	ces	stát	n-mi$n
 RL	pol	stan	n-mi$n	ces	stav	n-mi
 	pol	starożytność	n-f$n	ces	starověk	n-mi
 	pol	start	n-mi	ces	start	n-mi
@@ -5201,11 +5201,11 @@ RL	pol	stan	n-mi$n	ces	stav	n-mi
 	pol	strażak	n-mp$n	ces	požárník	n-ma
 	pol	strażnik	n-mp	ces	strážník	n-ma
 	pol	straż	n-f	ces	stráž	n-f
-LR	pol	strefa	n-f$n	ces	areál	n-mi
+LR	pol	strefa	n-f$n	ces	areál	n-mi$n
 	pol	strefa	n-f$n	ces	region	n-mi
 	pol	strefa	n-f$n	ces	zóna	n-f
 	pol	struktura	n-f$n	ces	struktura	n-f
-	pol	strumień	n-mi$n	ces	tok	n-mi
+	pol	strumień	n-mi$n	ces	tok	n-mi$n
 	pol	strzałka	n-f$n	ces	šipka	n-f
 	pol	student	n-mp$n	ces	student	n-ma$n
 RL	pol	student	n-mp$n	ces	vysokoškolák	n-ma
@@ -5234,13 +5234,13 @@ LR	pol	szata	n-f$n	ces	oděv	n-mi
 LR	pol	szereg	n-mi$n	ces	série	n-f
 	pol	szerokość	n-f$n	ces	šířka	n-f
 	pol	szkolnictwo	n-nt	ces	školství	n-mi
-LR	pol	szlak	n-mi$n	ces	cesta	n-f
+LR	pol	szlak	n-mi$n	ces	cesta	n-f$n
 	pol	szlak	n-mi$n	ces	stezka	n-f
 	pol	szminka	n-f	ces	rtěnka	n-f
 	pol	szpilka	n-f$n	ces	špendlík	n-mi
 	pol	sztab	n-f	ces	štáb	n-mi
 	pol	sztuka	n-f$n	ces	exemplář	n-mi
-	pol	sztuka	n-f$n	ces	kus	n-mi
+	pol	sztuka	n-f$n	ces	kus	n-mi$n
 	pol	sztuka	n-f$n	ces	umění	n-mi
 	pol	szum	n-mi$n	ces	šum	n-mi
 LR	pol	szybkość	n-f$n	ces	rychlost	n-f
@@ -5251,7 +5251,7 @@ LR	pol	szybkość	n-f$n	ces	rychlost	n-f
 	pol	średnica	n-f$n	ces	průměr	n-mi
 	pol	środek	n-mi$n	ces	prostředek	n-mi
 	pol	środowisko	n-nt	ces	prostředí	n-mi
-LR	pol	świadomość	n-f	ces	vědomí	n-mi
+LR	pol	świadomość	n-f	ces	vědomí	n-mi$n
 	pol	świątynia	n-f$n	ces	chrám	n-mi
 	pol	świeca	n-f	ces	svíčka	n-f
 	pol	taca	n-f	ces	podnos	n-mi
@@ -5265,7 +5265,7 @@ LR	pol	świadomość	n-f	ces	vědomí	n-mi
 	pol	tekst	n-mi$n	ces	text	n-mi
 	pol	teledysk	n-mi	ces	videoklip	n-mi
 	pol	teleskop	n-mi$n	ces	teleskop	n-mi
-	pol	temat	n-mi$n	ces	předmět	n-mi
+	pol	temat	n-mi$n	ces	předmět	n-mi$n
 	pol	tematyka	n-f$n	ces	tematika	n-f
 LR	pol	tempo	n-nt	ces	rychlost	n-f
 	pol	teren	n-mi$n	ces	terén	n-mi
@@ -5283,14 +5283,14 @@ LR	pol	tempo	n-nt	ces	rychlost	n-f
 	pol	toaleta	n-f$n	ces	toaleta	n-f
 	pol	toaleta	n-f$n	ces	záchod	n-mi
 	pol	toast	n-mi$n	ces	přípitek	n-mi
-	pol	tom	n-mi	ces	díl	n-mi
+	pol	tom	n-mi	ces	díl	n-mi$n
 	pol	tom	n-mi	ces	svazek	n-mi
 	pol	ton	n-f	ces	tón	n-mi
 	pol	torbacz	n-ma	ces	vačnatec	n-ma
 LR	pol	towarzystwo	n-nt	ces	společnost	n-f
 	pol	tożsamość	n-f$n	ces	identita	n-f
 	pol	tożsamość	n-f$n	ces	totožnost	n-f
-	pol	traktat	n-mi	ces	mír	n-mi
+	pol	traktat	n-mi	ces	mír	n-mi$n
 	pol	trakt	n-mi$n	ces	trakt	n-mi
 	pol	transfer	n-mi	ces	přenos	n-mi
 	pol	transfer	n-mi	ces	přesun	n-mi
@@ -5301,14 +5301,14 @@ LR	pol	towarzystwo	n-nt	ces	společnost	n-f
 	pol	trener	n-mp$n	ces	trenér	n-ma
 	pol	trening	n-mi$n	ces	výcvik	n-mi
 	pol	trening	n-mi$n	ces	začátečník	n-ma
-LR	pol	treść	n-f$n	ces	tělo	n-nt
+LR	pol	treść	n-f$n	ces	tělo	n-nt$n
 	pol	trójca	n-f	ces	trojice	n-f
 	pol	truchło	n-nt	ces	mrtvola	n-f
 	pol	trudność	n-f$n	ces	obtížnost	n-f
 RL	pol	trudność	n-f$n	ces	obtíž	n-f
 	pol	trudność	n-f$n	ces	potíž	n-f
 	pol	trup	n-ma	ces	mrtvola	n-f
-LR	pol	tryb	n-mi	ces	způsob	n-mi
+LR	pol	tryb	n-mi	ces	způsob	n-mi$n
 	pol	trybunał	n-mi$n	ces	tribunál	n-mi
 	pol	trzcina	n-f$n	ces	rákos	n-mi
 	pol	trzcina	n-f$n	ces	třtina	n-f
@@ -5318,7 +5318,7 @@ LR	pol	tryb	n-mi	ces	způsob	n-mi
 	pol	turystyka	n-f$n	ces	turistika	n-f
 	pol	twierdzenie	n-nt$n	ces	věta	n-f
 	pol	tygodnik	n-mi	ces	týdeník	n-mi
-	pol	tytuł	n-mi$n	ces	titul	n-mi
+	pol	tytuł	n-mi$n	ces	titul	n-mi$n
 	pol	ubranie	n-nt$n	ces	obleček	n-mi
 LR	pol	ubranie	n-nt$n	ces	oděv	n-mi
 	pol	ucisk	n-mi$n	ces	útlak	n-mi
@@ -5330,33 +5330,33 @@ LR	pol	ubranie	n-nt$n	ces	oděv	n-mi
 	pol	uczta	n-f	ces	úcta	n-f
 	pol	udział	n-mi	ces	akcie	n-f
 	pol	udział	n-mi	ces	podíl	n-mi
-	pol	ulica	n-f$n	ces	ulice	n-f
-	pol	uniwersytet	n-mi$n	ces	univerzita	n-f
+	pol	ulica	n-f$n	ces	ulice	n-f$n
+	pol	uniwersytet	n-mi$n	ces	univerzita	n-f$n
 	pol	upadek	n-mi$n	ces	úpadek	n-mi
 	pol	uprawa	n-f$n	ces	úprava	n-f
 	pol	uraza	n-f$n	ces	úraz	n-mi
 	pol	uraz	n-f	ces	úraz	n-mi
-	pol	uroczystość	n-f	ces	slavnost	n-f
+	pol	uroczystość	n-f	ces	slavnost	n-f$n
 	pol	urządzenie	n-nt	ces	přístroj	n-mi
 	pol	urzędnik	n-mp	ces	úředník	n-ma
 	pol	utrata	n-f	ces	ztráta	n-f
 	pol	użyteczność	n-f	ces	použitelnost	n-f
-	pol	walizka	n-f	ces	kufr	n-mi
+	pol	walizka	n-f	ces	kufr	n-mi$n
 	pol	walka	n-f$n	ces	boj	n-mi
 	pol	waluta	n-f	ces	měna	n-f
 	pol	waluta	n-f	ces	valuta	n-f
 	pol	wapń	n-mi$n	ces	vápník	n-mi
 	pol	wariant	n-mi$n	ces	varianta	n-f
 	pol	warsztat	n-mi$n	ces	workshop	n-mi
-	pol	wartość	n-f$n	ces	hodnota	n-f
-	pol	warunek	n-mi$n	ces	podmínka	n-f
+	pol	wartość	n-f$n	ces	hodnota	n-f$n
+	pol	warunek	n-mi$n	ces	podmínka	n-f$n
 	pol	warzecha	n-f	ces	vařečka	n-f
 	pol	warzywo	n-nt	ces	zelenina	n-f
 	pol	wat	n-mi	ces	vata	n-f
 	pol	ważka	n-f	ces	vážka	n-f
 	pol	wątpliwość	n-f$n$n-f-sg	ces	pochybnost	n-f
 	pol	wędrówka	n-f	ces	drift	n-mi
-	pol	wiadomość	n-f$n	ces	zpráva	n-f
+	pol	wiadomość	n-f$n	ces	zpráva	n-f$n
 	pol	wiąz	n-mi$n	ces	jilm	n-mi
 	pol	wiąz	n-mi$n	ces	vaz	n-mi
 	pol	widok	n-mi$n	ces	pohled	n-mi
@@ -5377,13 +5377,13 @@ LR	pol	ubranie	n-nt$n	ces	oděv	n-mi
 LR	pol	areszt	n-mi$n	ces	vězení	n-mi
 	pol	więzienie	n-nt	ces	věznice	n-f
 	pol	wilczur	n-ma	ces	vlčák	n-ma
-	pol	wina	n-nt	ces	vina	n-f
+	pol	wina	n-nt	ces	vina	n-f$n
 	pol	wioska	n-f	ces	vesnička	n-f
 	pol	witamina	n-f	ces	vitamín	n-mi
 	pol	wizyta	n-f	ces	návštěva	n-f
 	pol	włosek	n-mi	ces	vlásek	n-mi
 	pol	włos	n-mi$n	ces	chloupek	n-mi
-	pol	włos	n-mi$n	ces	vlas	n-mi
+	pol	włos	n-mi$n	ces	vlas	n-mi$n
 	pol	wniosek	n-mi	ces	závěr	n-mi
 	pol	wojownik	n-mp$n	ces	válečník	n-ma
 	pol	worek	n-mi$n	ces	sáček	n-mi
@@ -5417,16 +5417,16 @@ LR	pol	areszt	n-mi$n	ces	vězení	n-mi
 	pol	wyposażenie	n-nt$n	ces	příslušenství	n-mi
 	pol	wyposażenie	n-nt$n	ces	výbava	n-f
 	pol	wyprawa	n-f$n	ces	výprava	n-f
-	pol	wyraz	n$n-mi	ces	výraz	n-mi
-	pol	wysiłek	n-mi	ces	úsilí	n-mi
+	pol	wyraz	n$n-mi	ces	výraz	n-mi$n
+	pol	wysiłek	n-mi	ces	úsilí	n-mi$n
 	pol	wystawa	n-f$n	ces	výstava	n-f
-	pol	wzór	n-mi$n	ces	vzor	n-mi
+	pol	wzór	n-mi$n	ces	vzor	n-mi$n
 	pol	wzrost	n-mi$n	ces	růst	n-mi
 	pol	wzrost	n-mi$n	ces	vzestup	n-mi
 	pol	zabawa	n-f	ces	zábava	n-f
 	pol	zabawka	n-f$n	ces	hračka	n-f
 	pol	zabójstwo	n-nt	ces	vrah	n-ma
-	pol	zachód	n-mi	ces	západ	n-mi
+	pol	zachód	n-mi	ces	západ	n-mi$n
 	pol	zagadka	n-f$n	ces	záhada	n-f
 	pol	zakaz	n-mi	ces	zákaz	n-mi
 	pol	zakażenie	n-nt$n	ces	nákaza	n-f
@@ -5438,24 +5438,24 @@ LR	pol	areszt	n-mi$n	ces	vězení	n-mi
 	pol	zaleta	n-f$n	ces	klad	n-mi
 	pol	zaleta	n-f$n	ces	výhoda	n-f
 	pol	zależność	n-f	ces	závislost	n-f
-	pol	zamek	n-mi$n	ces	hrad	n-mi
-LR	pol	gród	n-mi	ces	hrad	n-mi
+	pol	zamek	n-mi$n	ces	hrad	n-mi$n
+LR	pol	gród	n-mi	ces	hrad	n-mi$n
 	pol	zamek	n-mi$n	ces	zámek	n-mi
 	pol	zamiar	n-mi	ces	úmysl	n-mi
 	pol	zamówienie	n-nt$n	ces	objednávka	n-f
 	pol	zamówienie	n-nt$n	ces	zakázka	n-f
 	pol	zapalenie	n-nt$n	ces	zánět	n-mi
 	pol	zapas	n-mi$n	ces	inventura	n-f
-	pol	zapas	n-mi$n	ces	zápas	n-mi
+	pol	zapas	n-mi$n	ces	zápas	n-mi$n
 	pol	zapis	n-mi$n	ces	zápis	n-mi
 	pol	zarys	n-mi	ces	obzor	n-mi
 RL	pol	zasięg	n-mi$n	ces	dolet	n-mi
 	pol	zasięg	n-mi$n	ces	rádius	n-mi
 	pol	zatoka	n-f	ces	záliv	n-mi
-	pol	zatoka	n-f	ces	zátoka	n-f
+	pol	zatoka	n-f	ces	zátoka	n-f$n
 	pol	zaufanie	n-nt	ces	důvěra	n-f
 	pol	zaufanie	n-nt	ces	důvěryhodnost	n-f
-	pol	zawias	n-mi	ces	podmínka	n-f
+	pol	zawias	n-mi	ces	podmínka	n-f$n
 	pol	zawodnik	n-mp	ces	závodník	n-ma
 	pol	zawór	n-mi	ces	uzávěr	n-mi
 	pol	zawór	n-mi	ces	ventil	n-mi
@@ -5467,10 +5467,10 @@ RL	pol	zasięg	n-mi$n	ces	dolet	n-mi
 	pol	zdarzenie	n-nt$n	ces	událost	n-f
 	pol	zdolność	n-f	ces	schopnost	n-f
 	pol	zdrobnienie	n-nt	ces	zdrobnělina	n-f
-	pol	zegarek	n-mi	ces	hodina	n-f
-	pol	zegar	n-mi$n	ces	hodina	n-f
+	pol	zegarek	n-mi	ces	hodina	n-f$n
+	pol	zegar	n-mi$n	ces	hodina	n-f$n
 	pol	zemsta	n-f	ces	pomsta	n-f
-	pol	zespół	n-mi$n	ces	skupina	n-f
+	pol	zespół	n-mi$n	ces	skupina	n-f$n
 	pol	zespół	n-mi$n	ces	tým	n-mi
 	pol	zestaw	n-mi$n	ces	schéma	n-f
 	pol	zgoda	n-f$n	ces	shoda	n-f
@@ -5479,14 +5479,14 @@ RL	pol	zasięg	n-mi$n	ces	dolet	n-mi
 	pol	złość	n-f	ces	vztek	n-mi
 	pol	złość	n-f	ces	zloba	n-f
 	pol	złotnik	n-mi	ces	zlatnictví	n-mi
-	pol	zmartwienie	n-nt$n	ces	hora	n-f
+	pol	zmartwienie	n-nt$n	ces	hora	n-f$n
 	pol	zmywarka	n-f	ces	myčka	n-f
 	pol	znaczenie	n-nt$n	ces	význam	n-mi
 	pol	znajomość	n-f	ces	znalost	n-f
 	pol	znak	n-mi$n	ces	značka	n-f
 	pol	znak	n-mi$n	ces	znak	n-mi
-	pol	znak	n-mi$n	ces	známka	n-f
-	pol	zupa	n-f$n	ces	polévka	n-f
+	pol	znak	n-mi$n	ces	známka	n-f$n
+	pol	zupa	n-f$n	ces	polévka	n-f$n
 	pol	zwolennik	n-mp$n	ces	příznivec	n-ma
 	pol	zwolennik	n-mp$n	ces	stoupenec	n-ma
 	pol	zwycięstwo	n-nt	ces	vítězství	n-mi
@@ -5496,7 +5496,7 @@ RL	pol	zysk	n-mi	ces	výdělek	n-mi
 	pol	żar	n-mi	ces	žár	n-mi
 	pol	żelazko	n-nt$n	ces	žehlička	n-f
 	pol	żmija	n-f	ces	zmije	n-f
-	pol	żołądek	n-mi$n	ces	žaludek	n-mi
+	pol	żołądek	n-mi$n	ces	žaludek	n-mi$n
 	pol	żołnierz	n-mp$n	ces	voják	n-ma
 	pol	żołnierz	n-mp$n	ces	vojín	n-ma
 	pol	żółtko	n-nt	ces	žloutek	n-mi
@@ -5534,7 +5534,7 @@ LR	pol	bankructwo	n-nt$n	ces	úpadek	n-mi
 	pol	bliskość	n-f	ces	blízkost	n-f
 	pol	bliźnię	n-nt	ces	sourozenec	n-ma
 	pol	bogacz	n-ma	ces	boháč	n-ma
-	pol	bratanek	n-f	ces	bratranec	n-ma
+	pol	bratanek	n-f	ces	bratranec	n-ma$n
 	pol	broker	n-mp	ces	makléř	n-ma
 LR	pol	brzęczyk	n-mi	ces	zvonek	n-mi
 	pol	buczek	n-mi	ces	bůček	n-mi
@@ -5620,7 +5620,7 @@ LR	pol	brzęczyk	n-mi	ces	zvonek	n-mi
 	pol	kaktus	n-mi$n	ces	kaktus	n-mi
 	pol	kamieniarz	n-mp$n	ces	kameník	n-ma
 	pol	kanapka	n-f$n	ces	chlebíček	n-mi
-	pol	kapela	n-f$n	ces	kapela	n-f
+	pol	kapela	n-f$n	ces	kapela	n-f$n
 	pol	karczmarz	n-mp	ces	krčmář	n-ma
 	pol	kawałeczek	n-mi$n	ces	kousíček	n-mi
 	pol	kawiarnia	n-f$n	ces	kavárna	n-f
@@ -5646,7 +5646,7 @@ LR	pol	brzęczyk	n-mi	ces	zvonek	n-mi
 	pol	kryminał	n-mi	ces	kriminál	n-mi
 	pol	krzywda	n-f	ces	křivda	n-f
 	pol	krzyżyk	n-mi$n	ces	křížek	n-mi
-	pol	królowa	n-f$n	ces	královna	n-f
+	pol	królowa	n-f$n	ces	královna	n-f$n
 	pol	krótkowzroczność	n-f	ces	krátkozrakost	n-f
 	pol	księgarz	n-mp	ces	knihkupec	n-ma
 	pol	kulisa	n-f	ces	kulisa	n-f
@@ -5683,7 +5683,7 @@ LR	pol	brzęczyk	n-mi	ces	zvonek	n-mi
 	pol	mętlik	n-mi	ces	zmatek	n-mi
 	pol	naczepa	n-f	ces	návěs	n-mi
 	pol	nagłówek	n-mi$n	ces	záhlaví	n-mi
-	pol	nakaz	n-mi	ces	rozkaz	n-mi
+	pol	nakaz	n-mi	ces	rozkaz	n-mi$n
 	pol	należność	n-f	ces	náležitost	n-f
 	pol	napastnik	n-mp	ces	útočník	n-ma
 	pol	niedobór	n-mi$n	ces	nedostatek	n-mi
@@ -5809,7 +5809,7 @@ LR	pol	przytulisko	n-nt	ces	útulek	n-mi
 	pol	rozlewisko	n-nt	ces	povodí	n-mi
 LR	pol	roztargnienie	n-nt	ces	nepozornost	n-f
 	pol	rynek	n-mi	ces	rynek	n-mi
-	pol	rękopis	n-mi	ces	rukopis	n-mi
+	pol	rękopis	n-mi	ces	rukopis	n-mi$n
 	pol	sadzonka	n-f	ces	sazenice	n-f
 	pol	salonik	n-mi	ces	salónek	n-mi
 	pol	senność	n-f	ces	ospalost	n-f
@@ -5845,11 +5845,11 @@ LR	pol	szczerość	n-f	ces	otevřenost	n-f
 	pol	szpiegostwo	n-nt	ces	špionáž	n-f
 	pol	szubienica	n-f	ces	šibenice	n-f
 	pol	szyna	n-f$n	ces	sběrnice	n-f
-	pol	tancerka	n-f$n	ces	tanečnice	n-f
+	pol	tancerka	n-f$n	ces	tanečnice	n-f$n
 	pol	templariusz	n-ma	ces	templář	n-ma
 	pol	teraźniejszość	n$n-f	ces	současnost	n-f
 	pol	terroryzm	n-mi$n	ces	terorizmus	n-mi
-	pol	tradycja	n-f$n	ces	tradice	n-f
+	pol	tradycja	n-f$n	ces	tradice	n-f$n
 	pol	trup	n-f	ces	mrtvola	n-f
 	pol	tuberkuloza	n-f$n	ces	tuberkulóza	n-f
 	pol	uciekinier	n-mp	ces	běženec	n-ma
@@ -5919,7 +5919,7 @@ LR	pol	szczerość	n-f	ces	otevřenost	n-f
 	pol	zazdrość	n-f	ces	žárlivost	n-f
 	pol	zbójnik	n-mp	ces	zbojník	n-ma
 	pol	zdradliwość	n-f	ces	záludnost	n-f
-	pol	zero	n$n-nt	ces	nula	n-f
+	pol	zero	n$n-nt	ces	nula	n-f$n
 	pol	łajdak	n-mp	ces	bídník	n-ma
 	pol	łamacz	n-ma	ces	lamač	n-ma
 	pol	ścierka	n-f$n	ces	utěrka	n-f
@@ -5930,10 +5930,10 @@ LR	pol	szczerość	n-f	ces	otevřenost	n-f
 	pol	żandarm	n-mp	ces	četník	n-ma
 	pol	żarliwość	n$n-f	ces	vroucnost	n-f
 	pol	żywotność	n-f	ces	životnost	n-f
-	pol	żądanie	n-nt	ces	požadavek	n-mi
+	pol	żądanie	n-nt	ces	požadavek	n-mi$n
 	pol	antyk	n-mi$n	ces	starožitnost	n-f
 	pol	bezczelność	n-f	ces	troufalost	n-f
-	pol	chusta	n$n-f	ces	šátek	n-mi
+	pol	chusta	n$n-f	ces	šátek	n-mi$n
 	pol	cierpliwość	n-f$n	ces	trpělivost	n-f
 	pol	cioteczka	n-f	ces	tetička	n-f
 	pol	drogowskaz	n-mi$n	ces	ukazatel	n-mi
@@ -5989,7 +5989,7 @@ LR	pol	reflektor	n-mi$n	ces	reflektor	n-mi
 	pol	skandal	n-mi	ces	skandál	n-mi
 	pol	skarga	n-f	ces	stížnost	n-f
 	pol	smutek	n-mi$n	ces	smutek	n-mi
-	pol	sroka	n-f$n	ces	straka	n-f
+	pol	sroka	n-f$n	ces	straka	n-f$n
 	pol	statyw	n-mi	ces	stativ	n-mi
 	pol	stażystka	n-f	ces	stážistka	n-f
 LR	pol	stoisko	n-nt	ces	stánek	n-mi
@@ -6031,7 +6031,7 @@ LR	pol	transplantacja	n-f	ces	transplantace	n-f
 	pol	tyran	n-mp$n	ces	tyran	n-ma
 	pol	tytulik	n-mi	ces	titulek	n-mi
 	pol	tętno	n-nt$n	ces	tep	n-mi
-	pol	tłumik	n-mi$n	ces	tlumič	n-mi
+	pol	tłumik	n-mi$n	ces	tlumič	n-mi$n
 	pol	ubytek	n-mi	ces	úbytek	n-mi
 	pol	woreczek	n-mi	ces	pytlík	n-mi
 	pol	wykroczenie	n-nt$n	ces	přestupek	n-mi
@@ -6052,7 +6052,7 @@ LR	pol	błysk	n-mi	ces	blesk	n-mi
 	pol	cedzak	n-mi	ces	cedník	n-mi
 	pol	chłodnica	n-f	ces	výměník	n-mi
 	pol	chusteczka	n-f$n	ces	kapesník	n-mi
-	pol	ciek	n-mi$n	ces	tok	n-mi
+	pol	ciek	n-mi$n	ces	tok	n-mi$n
 	pol	dodruk	n-mi	ces	dotisk	n-mi
 	pol	doping	n-mi$n	ces	dopink	n-mi
 	pol	figowiec	n-mi$n	ces	fíkovník	n-mi
@@ -6060,7 +6060,7 @@ LR	pol	błysk	n-mi	ces	blesk	n-mi
 	pol	jarmark	n-mi	ces	jarmark	n-mi
 	pol	joystick	n-mi	ces	joystick	n-mi
 	pol	kalafior	n-mi$n	ces	květák	n-mi
-	pol	kark	n-mi$n	ces	krk	n-mi
+	pol	kark	n-mi$n	ces	krk	n-mi$n
 	pol	kauczuk	n-mi$n	ces	kaučuk	n-mi
 	pol	koszyk	n-mi	ces	košík	n-mi
 	pol	kościółek	n-mi	ces	kostelík	n-mi
@@ -6146,12 +6146,12 @@ LR	pol	styk	n-mi	ces	styk	n-mi
 	pol	skrytka	n-f$n	ces	přihrádka	n-f
 	pol	spadochroniarz	n-mp	ces	parašutista	n-ma
 	pol	tynk	n-mi	ces	omítka	n-f
-	pol	agroturystyka	n-f$n	ces	agroturistika	n-f
+	pol	agroturystyka	n-f$n	ces	agroturistika	n-f$n
 	pol	akacja	n-f$n	ces	akát	n-mi
 	pol	altana	n-f	ces	altán	n-mi
 	pol	lekkoatletyka	n-f	ces	atletika	n-f
 	pol	pływalnia	n-f$n	ces	bazén	n-mi
-	pol	czata	n-f	ces	chata	n-f
+	pol	czata	n-f	ces	chata	n$n-f
 	pol	diagnostyka	n-f	ces	diagnostika	n-f
 	pol	dynamika	n-f$n	ces	dynamika	n-f
 	pol	ekonomia	n-f$n	ces	ekonomika	n-f
@@ -6183,7 +6183,7 @@ LR	pol	ekonomika	n-f	ces	ekonomika	n-f
 	pol	rutyna	n-f	ces	rutina	n-f
 LR	pol	sałatka	n-f$n	ces	salát	n-mi
 	pol	sesja	n-f$n	ces	schůze	n-f
-	pol	szkoda	n-f$n	ces	škoda	n-f
+	pol	szkoda	n-f$n	ces	škoda	n-f$n
 	pol	matryca	n-f$n	ces	snímač	n-mi
 	pol	wycieraczka	n-f	ces	stěrač	n-mi
 	pol	stylistyka	n-f	ces	stylistika	n-f
@@ -6248,7 +6248,7 @@ LR	pol	carat	n-mi	ces	karát	n-mi
 	pol	odbiornik	n-mi	ces	přijímač	n-mi
 	pol	proletariat	n-mi	ces	proletariát	n-mi
 	pol	protektorat	n-mi	ces	protektorát	n-mi
-	pol	palec	n-mi$n	ces	prst	n-mi
+	pol	palec	n-mi$n	ces	prst	n-mi$n
 	pol	gruz	n-mi	ces	rozvalina	n-f
 	pol	rękaw	n-mi	ces	rukáv	n-mi
 	pol	węglowodan	n-mi	ces	sacharid	n-mi
@@ -6258,7 +6258,7 @@ LR	pol	carat	n-mi	ces	karát	n-mi
 	pol	triumwirat	n-mi	ces	triumvirát	n-mi
 	pol	akcelerator	n-mi$n	ces	urychlovač	n-mi
 	pol	nadajnik	n-mi	ces	vysílač	n-mi
-	pol	fundament	n-mi$n	ces	základ	n-mi
+	pol	fundament	n-mi$n	ces	základ	n-mi$n
 	pol	zapalnik	n-mi$n	ces	zapalovač	n-mi
 LR	pol	astrofizyk	n-mp	ces	astrofyzik	n-ma
 	pol	grosz	n-mi$n	ces	groš	n-mi
@@ -6267,7 +6267,7 @@ LR	pol	astrofizyk	n-mp	ces	astrofyzik	n-ma
 	pol	pragmatyk	n-mp	ces	pragmatik	n-ma
 	pol	kolarstwo	n-nt	ces	cyklistika	n-f
 	pol	honorarium	n-nt	ces	honorář	n-mi
-	pol	ogłoszenie	n-nt	ces	inzerát	n-mi
+	pol	ogłoszenie	n-nt	ces	inzerát	n-mi$n
 	pol	mokradło	n-nt	ces	mokřad	n-mi
 RL	pol	mokradło	n-nt	ces	mokřina	n-f
 	pol	pęto	n-nt	ces	okov	n-mi
@@ -6280,7 +6280,7 @@ LR	pol	polanko	n-nt	ces	paseka	n-f
 	pol	korytarzyk	n-mi	ces	chodbička	n-f
 	pol	chwilka	n-f	ces	chvilička	n-f
 	pol	liczebnik	n-mi	ces	číslovka	n-f
-	pol	liczba	n-f$n	ces	číslo	n-nt
+	pol	liczba	n-f$n	ces	číslo	n-nt$n
 	pol	oczyszczalnia	n-f	ces	čistička	n-f
 	pol	cewka	n-f$n	ces	cívka	n-f
 	pol	frekwencja	n-f	ces	docházka	n-f
@@ -6297,7 +6297,7 @@ LR	pol	polanko	n-nt	ces	paseka	n-f
 	pol	igiełka	n-f	ces	jehlička	n-f
 	pol	szambo	n-nt$n	ces	jímka	n-f
 	pol	iskierka	n-f	ces	jiskřička	n-f
-	pol	bilet	n-mi$n	ces	jízdenka	n-f
+	pol	bilet	n-mi$n	ces	jízdenka	n-f$n
 	pol	judok	n-mp	ces	judista	n-ma
 	pol	kajakarka	n-f	ces	kajakářka	n-f
 	pol	kropelka	n-f	ces	kapička	n-f
@@ -6354,16 +6354,16 @@ LR	pol	docinek	n-mi	ces	narážka	n-f
 	pol	perełka	n-f	ces	perlička	n-f
 	pol	plewa	n-f	ces	pleva	n-f
 	pol	podkładka	n-f	ces	podložka	n-f
-	pol	zawias	n-f	ces	podmínka	n-f
-LR	pol	baśń	n-f$n	ces	pohádka	n-f
+	pol	zawias	n-f	ces	podmínka	n-f$n
+LR	pol	baśń	n-f$n	ces	pohádka	n-f$n
 	pol	pogróżka	n-f	ces	pohrůžka	n-f
 	pol	skarbonka	n-f	ces	pokladnička	n-f
 	pol	skarpetka	n-f	ces	ponožka	n-f
 	pol	potyczka	n-f	ces	potyčka	n-f
 	pol	bon	n-f	ces	poukázka	n-f
 LR	pol	talon	n-mi$n	ces	poukázka	n-f
-	pol	powiastka	n-f	ces	povídka	n-f
-	pol	notka	n-f$n	ces	poznámka	n-f
+	pol	powiastka	n-f	ces	povídka	n-f$n
+	pol	notka	n-f$n	ces	poznámka	n-f$n
 	pol	prababcia	n-f	ces	prababička	n-f
 	pol	sklejka	n-f	ces	překližka	n-f
 LR	pol	ksywa	n-f	ces	přezdívka	n-f
@@ -6394,7 +6394,7 @@ LR	pol	schowek	n-mi$n	ces	schránka	n-f
 	pol	plik	n-mi$n	ces	soubor	n-mi
 	pol	spółgłoska	n-f	ces	souhláska	n-f
 	pol	sąsiadka	n-f	ces	sousedka	n-f
-	pol	stronka	n-f	ces	stránka	n-f
+	pol	stronka	n-f	ces	stránka	n-f$n
 	pol	struna	n-f	ces	struna	n-f
 	pol	szynka	n-f	ces	šunka	n-f
 LR	pol	świeczka	n-f	ces	svíčka	n-f
@@ -6404,7 +6404,7 @@ LR	pol	świeczka	n-f	ces	svíčka	n-f
 	pol	łyżeczka	n-f	ces	vařečka	n-f
 	pol	wariacja	n-f$n	ces	variace	n-f
 	pol	wioseczka	n-f	ces	vesnička	n-f
-	pol	widelec	n-mi$n	ces	vidlička	n-f
+	pol	widelec	n-mi$n	ces	vidlička	n-f$n
 	pol	bocznica	n-f	ces	vlečka	n-f
 	pol	zmarszczka	n-f$n	ces	vráska	n-f
 	pol	wykopalisko	n-nt	ces	vykopávka	n-f
@@ -6506,7 +6506,7 @@ LR	pol	angielszczyzna	n-f	ces	angličtina	n-f
 	pol	autobiografia	n-f$n	ces	autobiografie	n-f
 	pol	autonomia	n-f	ces	autonomie	n-f
 	pol	autoportret	n-mi	ces	autoportrét	n-mi
-	pol	autorytet	n-mi	ces	autorita	n-f
+	pol	autorytet	n-mi	ces	autorita	n-f$n
 	pol	autyzm	n-mi	ces	autismus	n-mi
 	pol	ballada	n-f$n	ces	balada	n-f
 	pol	balsam	n-mi$n	ces	balzám	n-mi
@@ -6641,7 +6641,7 @@ RL	pol	domena	n-f$n	ces	výsada	n-f
 	pol	efedryna	n-f	ces	efedrin	n-mi
 	pol	egzekucja	n-f$n	ces	poprava	n-f
 	pol	ekosystem	n-mi$n	ces	ekosystém	n-mi
-	pol	ekscelencja	n-f$n	ces	excelence	n-f
+	pol	ekscelencja	n-f$n	ces	excelence	n-f$n
 	pol	eksces	n-mi$n	ces	exces	n-mi
 	pol	ekshumacja	n-f	ces	exhumace	n-f
 	pol	ekspansja	n-f$n	ces	expanze	n-f
@@ -6750,7 +6750,7 @@ RL	pol	incydent	n-mi	ces	exces	n-mi
 	pol	instancja	n-f	ces	instance	n-f
 	pol	instrukcja	n-f	ces	instrukce	n-f
 	pol	instrumentacja	n-f	ces	instrumentace	n-f
-	pol	instytucja	n-f$n	ces	instituce	n-f
+	pol	instytucja	n-f$n	ces	instituce	n-f$n
 	pol	inteligencja	n-f	ces	inteligence	n-f
 	pol	intensywność	n-f	ces	intenzita	n-f
 	pol	interakcja	n-f$n	ces	interakce	n-f
@@ -6871,7 +6871,7 @@ RL	pol	kredyt	n-mi	ces	kredit	n-mi
 	pol	lawenda	n-f	ces	levandule	n-f
 	pol	lebioda	n-f	ces	lebeda	n-f
 	pol	legia	n-f	ces	legie	n-f
-	pol	lekcja	n-f$n	ces	lekce	n-f
+	pol	lekcja	n-f$n	ces	lekce	n-f$n
 	pol	leksykon	n-mi	ces	lexikon	n-mi
 	pol	lemoniada	n-f$n	ces	limonáda	n-f
 	pol	letarg	n-mi	ces	letargie	n-f
@@ -6934,7 +6934,7 @@ LR	pol	napływ	n-mi$n	ces	příliv	n-mi
 	pol	nierządnica	n-f$n	ces	prostituka	n-f
 	pol	nirwana	n-f	ces	nirvána	n-f
 	pol	nominacja	n-f	ces	nominace	n-f
-	pol	nominał	n-mi	ces	hodnota	n-f
+	pol	nominał	n-mi	ces	hodnota	n-f$n
 	pol	nowotwór	n-mi$n	ces	nádor	n-mi
 	pol	nuta	n-f$n	ces	nóta	n-f
 	pol	obligacja	n-f	ces	obligace	n-f
@@ -6972,7 +6972,7 @@ RL	pol	odnośnik	n-mi$n	ces	reference	n-f
 	pol	parzystość	n-f$n	ces	parita	n-f
 	pol	pasja	n-f$n	ces	pašije	n-f
 	pol	pawilon	n-mi	ces	pavilon	n-mi
-	pol	pazur	n-mi$n	ces	dráp	n-mi
+	pol	pazur	n-mi$n	ces	dráp	n-mi$n
 	pol	penicylina	n-f	ces	penicilin	n-mi
 	pol	perkusja	n-f	ces	perkuse	n-f
 	pol	personifikacja	n-f	ces	personifikace	n-f
@@ -6982,10 +6982,10 @@ RL	pol	odnośnik	n-mi$n	ces	reference	n-f
 	pol	pinceta	n-f	ces	pinzeta	n-f
 	pol	pionier	n-mp$n	ces	pionýr	n-ma
 	pol	piramida	n-f	ces	pyramida	n-f
-	pol	plama	n-f	ces	skvrna	n-f
+	pol	plama	n-f	ces	skvrna	n-f$n
 	pol	plotka	n-f$n	ces	fáma	n-f
 	pol	płaszczyzna	n-f$n	ces	rovina	n-f
-	pol	płód	n-mi$n	ces	plod	n-mi
+	pol	płód	n-mi$n	ces	plod	n-mi$n
 	pol	pochód	n-mi	ces	pochod	n-mi
 	pol	poezja	n-f	ces	poezie	n-f
 	pol	pogadanka	n-f	ces	pohovor	n-mi
@@ -7015,7 +7015,7 @@ RL	pol	odnośnik	n-mi$n	ces	reference	n-f
 	pol	przekształcenie	n-nt$n	ces	funkce	n-f
 	pol	przelew	n-mi	ces	převod	n-mi
 	pol	przenośnia	n$n-f	ces	metafora	n-f
-	pol	przepona	n-f$n	ces	přípona	n-f
+	pol	przepona	n-f$n	ces	přípona	n-f$n
 	pol	przeprawa	n-f	ces	přeprava	n-f
 	pol	przesilenie	n-nt	ces	slunovrat	n-mi
 	pol	przestępczość	n-f	ces	kriminalita	n-f
@@ -7050,7 +7050,7 @@ LR	pol	rekreacja	n-f	ces	rekreace	n-f
 	pol	republikanin	n-mp	ces	republikán	n-ma
 	pol	rewizja	n-f	ces	revize	n-f
 LR	pol	rewizor	n-mp	ces	revizor	n-ma
-	pol	rewolucja	n-f	ces	revoluce	n-f
+	pol	rewolucja	n-f	ces	revoluce	n-f$n
 	pol	rewolwer	n-mi	ces	revolver	n-mi
 	pol	rezerwacja	n-f	ces	rezervace	n-f
 	pol	rezerwuar	n-mi$n	ces	přehrada	n-f
@@ -7077,10 +7077,10 @@ LR	pol	sensor	n-mi$n	ces	senzor	n-mi
 	pol	serenada	n-f$n	ces	serenáda	n-f
 	pol	sierżant	n-mp$n	ces	seržant	n-ma
 	pol	skłonność	n-f$n	ces	sklon	n-mi
-LR	pol	skórka	n-f$n	ces	motiv	n-mi
+LR	pol	skórka	n-f$n	ces	motiv	n-mi$n
 	pol	skrobia	n-f	ces	škrob	n-mi
 	pol	skuter	n-mi	ces	skútr	n-mi
-	pol	słoma	n-f	ces	sláma	n-f
+	pol	słoma	n-f	ces	sláma	n-f$n
 	pol	socjalizm	n-mi	ces	socialismus	n-mi
 	pol	socjologia	n-f	ces	sociologie	n-f
 LR	pol	spacja	n-f$n	ces	mezera	n-f
@@ -7125,7 +7125,7 @@ LR	pol	terier	n-ma$n	ces	teriér	n-ma
 	pol	turbina	n-f$n	ces	turbína	n-f
 	pol	tyrania	n-f	ces	tyranie	n-f
 	pol	uchwyt	n-mi$n	ces	úchyt	n-mi
-	pol	ulga	n-f	ces	sleva	n-f
+	pol	ulga	n-f	ces	sleva	n-f$n
 RL	pol	ulga	n-f	ces	úleva	n-f
 	pol	unia	n-f	ces	unie	n-f
 	pol	uniwersjada	n-f	ces	univerziáda	n-f
@@ -7182,7 +7182,7 @@ RL	pol	ulga	n-f	ces	úleva	n-f
 	pol	zalew	n-mi	ces	záliv	n-mi
 	pol	zapał	n-mi$n	ces	zápal	n-mi
 	pol	zapłata	n-f	ces	odměna	n-f
-	pol	zasłona	n-f$n	ces	záclona	n-f
+	pol	zasłona	n-f$n	ces	záclona	n-f$n
 	pol	zastępstwo	n-nt$n	ces	náhrada	n-f
 	pol	zatwardzenie	n-nt$n	ces	zácpa	n-f
 	pol	zawał	n-mi	ces	infarkt	n-mi
@@ -7214,7 +7214,7 @@ LR	pol	agentura	n-f	ces	agentura	n-f
 	pol	agresor	n-mp	ces	agresor	n-ma
 	pol	akupresura	n-f	ces	akupresura	n-f
 	pol	akupunktura	n-f	ces	akupunktura	n-f
-	pol	albatros	n-ma$n	ces	albatros	n-ma
+	pol	albatros	n-ma$n	ces	albatros	n-ma$n
 	pol	alergik	n-mp	ces	alergik	n-ma
 	pol	amfora	n-f	ces	amfora	n-f
 	pol	amplituda	n-f$n	ces	amplituda	n-f
@@ -7275,7 +7275,7 @@ LR	pol	agentura	n-f	ces	agentura	n-f
 	pol	puma	n-f	ces	puma	n-f
 	pol	reduta	n-f	ces	reduta	n-f
 	pol	samba	n-f	ces	samba	n-f
-	pol	samouk	n-mp$n	ces	samouk	n-ma
+	pol	samouk	n-mp$n	ces	samouk	n-ma$n
 	pol	schizofrenik	n-mp	ces	schizofrenik	n-ma
 	pol	sonda	n-f$n	ces	sonda	n-f
 	pol	tapeta	n-f$n	ces	tapeta	n-f
@@ -7404,7 +7404,7 @@ RL	pol	bar	n-mi	ces	baryum	n-mi
 	pol	bufet	n-mi$n	ces	bufet	n-mi
 	pol	centymetr	n-mi$n	ces	centimetr	n-mi
 	pol	chemoreceptor	n-mi	ces	chemoreceptor	n-mi
-	pol	cholesterol	n-mi	ces	cholesterol	n-mi
+	pol	cholesterol	n-mi	ces	cholesterol	n-mi$n
 	pol	chronometr	n-mi$n	ces	chronometr	n-mi
 	pol	cyklon	n-mi$n	ces	cyklon	n-mi
 	pol	dar	n-mi$n	ces	dar	n-mi
@@ -7439,25 +7439,25 @@ RL	pol	bar	n-mi	ces	baryum	n-mi
 	pol	patogen	n-mi	ces	patogen	n-mi
 	pol	pigment	n-mi$n	ces	pigment	n-mi
 	pol	potencjometr	n-mi	ces	potenciometr	n-mi
-	pol	przeorysza	n-f	ces	abatyše	n-f
+	pol	przeorysza	n-f	ces	abatyše	n-f$n
 	pol	absolwent	n-mp	ces	absolvent	n-ma
 	pol	warstwica	n-f	ces	vrstevnice	n-f
 	pol	gwiazdozbiór	n-mi	ces	hvězdokupa	n-f
-	pol	herbata	n-f$n	ces	čaj	n-mi
+	pol	herbata	n-f$n	ces	čaj	n-mi$n
 	pol	dupa	n-f$n	ces	prdel	n-mi
 	pol	ciasto	n-nt	ces	těsto	n-nt
 	pol	pogoda	n-f	ces	počasí	n-nt
-	pol	język	n-mi$n	ces	jazyk	n-mi
+	pol	język	n-mi$n	ces	jazyk	n-mi$n
 	pol	izoterma	n-f	ces	izoterma	n-f
 	pol	izoglosa	n-f	ces	izoglosa	n-f
-	pol	książka	n-f$n	ces	kniha	n-f
+	pol	książka	n-f$n	ces	kniha	n-f$n
 	pol	szansa	n-f	ces	šance	n-f
 	pol	izobara	n-f	ces	izobara	n-f
-	pol	góra	n-f$n	ces	hora	n-f
+	pol	góra	n-f$n	ces	hora	n-f$n
 	pol	dziewczyna	n-f$n	ces	dívka	n-f
 	pol	dziwka	n$n-f	ces	děvka	n-f
 RL	pol	dziewczyna	n-f$n	ces	holka	n-f
-	pol	ławka	n-f$n	ces	lavice	n-f
+	pol	ławka	n-f$n	ces	lavice	n-f$n
 	pol	dzięgiel	n-mi	ces	andělika	n-f
 	pol	prognoza	n-f	ces	pranostika	n-f
 	pol	plan	n-mi$n	ces	plán	n-mi
@@ -7493,11 +7493,11 @@ LR	pol	złączony	adj	ces	spojený	adj$adj-sint
 RL	pol	wielki	adj$adj-sint	ces	grandiózní	adj
 	pol	blady	adj-sint$adj	ces	bledý	adj-sint
 	pol	jasnoniebieski	adj	ces	bleděmodrý	adj$adj-sint
-	pol	bliski	adj-sint$adj	ces	blízký	adj-sint
+	pol	bliski	adj-sint$adj	ces	blízký	adj-sint$adj
 	pol	dziarski	adj	ces	bodrý	adj$adj-sint
 	pol	bystry	adj-sint$adj	ces	bystrý	adj-sint
 LR	pol	chwytny	adj-sint	ces	bystrý	adj-sint
-	pol	biały	adj-sint$adj	ces	bílý	adj-sint$adj
+	pol	biały	adj-sint$adj	ces	bílý	adj$adj-sint
 RL	pol	ostry	adj-sint$adj	ces	břitký	adj-sint
 	pol	ostry	adj-sint$adj	ces	ostrý	adj-sint
 	pol	chudy	adj-sint$adj	ces	chudý	adj-sint$adj
@@ -7505,7 +7505,7 @@ LR	pol	nędzny	adj-sint$adj	ces	chudý	adj-sint$adj
 RL	pol	nędzny	adj-sint$adj	ces	ubohý	adj-sint
 	pol	dziki	adj-sint$adj	ces	divoký	adj-sint
 LR	pol	gwałtowny	adj-sint$adj	ces	divoký	adj-sint
-	pol	drogi	adj-sint$adj	ces	drahý	adj-sint
+	pol	drogi	adj-sint$adj	ces	drahý	adj-sint$adj
 RL	pol	miękki	adj-sint$adj	ces	hebký	adj-sint
 LR	pol	grząski	adj	ces	měkký	adj-sint$adj
 	pol	miękki	adj-sint$adj	ces	měkký	adj-sint$adj
@@ -7524,14 +7524,14 @@ LR	pol	dogłębny	adj	ces	hluboký	adj-sint$adj
 	pol	kruchy	adj-sint$adj	ces	křehký	adj-sint
 	pol	lekki	adj-sint$adj	ces	lehký	adj-sint
 	pol	nieparzysty	adj	ces	lichý	adj$adj-sint
-	pol	młody	adj-sint$adj	ces	mladý	adj-sint$adj
+	pol	młody	adj-sint$adj	ces	mladý	adj$adj-sint
 	pol	młodzieńczy	adj	ces	mladistvý	adj
 LR	pol	młodociany	adj	ces	mladistvý	adj
 LR	pol	błękitny	adj	ces	lichý	adj$adj-sint
 RL	pol	niebieski	adj	ces	modrý	adj$adj-sint
 RL	pol	niebieski	adj	ces	nebeský	adj
 	pol	mokry	adj-sint$adj	ces	mokrý	adj-sint
-	pol	mądry	adj-sint$adj	ces	moudrý	adj-sint
+	pol	mądry	adj-sint$adj	ces	moudrý	adj-sint$adj
 	pol	ruchomy	adj$adj-sint	ces	movitý	adj$adj-sint
 LR	pol	płaski	adj	ces	mělký	adj$adj-sint
 	pol	płaski	adj	ces	plochý	adj$adj-sint
@@ -7544,9 +7544,9 @@ LR	pol	wielobarwny	adj	ces	pestrý	adj-sint$adj
 LR	pol	posępny	adj-sint$adj	ces	ponurý	adj-sint$adj
 	pol	ponury	adj	ces	ponurý	adj-sint$adj
 	pol	prostoduszny	adj-sint	ces	prostoduchý	adj-sint
-	pol	prosty	adj-sint$adj	ces	prostý	adj-sint
-	pol	prędki	adj-sint$adj	ces	prudký	adj-sint
-LR	pol	raptowny	adj-sint$adj	ces	prudký	adj-sint
+	pol	prosty	adj-sint$adj	ces	prostý	adj-sint$adj
+	pol	prędki	adj-sint$adj	ces	prudký	adj-sint$adj
+LR	pol	raptowny	adj-sint$adj	ces	prudký	adj-sint$adj
 	pol	dokuczliwy	adj-sint$adj	ces	příkrý	adj-sint$adj
 LR	pol	dolegliwy	adj	ces	příkrý	adj-sint$adj
 	pol	słaby	adj-sint$adj	ces	slabý	adj-sint
@@ -7566,13 +7566,13 @@ LR	pol	bezdźwięczny	adj$adj-sint	ces	tichý	adj-sint$adj
 	pol	sztywny	adj	ces	tuhý	adj$adj-sint
 	pol	twardy	adj-sint$adj	ces	tvrdý	adj-sint
 RL	pol	ciężki	adj-sint$adj	ces	obtížný	adj$adj-sint
-	pol	ciężki	adj-sint$adj	ces	těžký	adj-sint$adj
+	pol	ciężki	adj-sint$adj	ces	těžký	adj$adj-sint
 	pol	ciasny	adj-sint$adj	ces	úzký	adj-sint$adj
 	pol	wilgotny	adj	ces	vlhký	adj$adj-sint
 LR	pol	dżdżysty	adj	ces	vlhký	adj$adj-sint
 	pol	chwiejny	adj-sint$adj	ces	vratký	adj-sint
 LR	pol	chybotliwy	adj-sint	ces	vratký	adj-sint
-	pol	szeroki	adj-sint$adj	ces	široký	adj-sint$adj
+	pol	szeroki	adj-sint$adj	ces	široký	adj$adj-sint
 	pol	hojny	adj$adj-sint	ces	hojný	adj-sint
 	pol	szczodry	adj$adj-sint	ces	štědrý	adj-sint
 	pol	rzadki	adj-sint$adj	ces	řídký	adj-sint
@@ -7869,7 +7869,7 @@ RL	pol	geograficzny	adj	ces	zeměpisný	adj
 	pol	giełdowy	adj	ces	burzovní	adj
 	pol	gitarowy	adj	ces	kytarový	adj
 	pol	globalny	adj	ces	globální	adj
-	pol	głośny	adj-sint$adj	ces	hlasitý	adj-sint
+	pol	głośny	adj-sint$adj	ces	hlasitý	adj-sint$adj
 	pol	głuchoniemy	adj	ces	hluchoněmý	adj
 	pol	godzinny	adj	ces	hodinový	adj
 	pol	golfowy	adj	ces	golfový	adj
@@ -7913,8 +7913,8 @@ LR	pol	cherlawy	adj	ces	špatný	adj-sint$adj
 	pol	hydrauliczny	adj	ces	hydraulický	adj
 	pol	hydrologiczny	adj	ces	hydrologický	adj
 	pol	idealistyczny	adj	ces	idealistický	adj
-RL	pol	podobny	adj-sint$adj	ces	stejný	adj-sint
-	pol	podobny	adj-sint$adj	ces	podobný	adj-sint
+RL	pol	podobny	adj-sint$adj	ces	stejný	adj-sint$adj
+	pol	podobny	adj-sint$adj	ces	podobný	adj-sint$adj
 	pol	identyczny	adj	ces	identický	adj
 	pol	ideologiczny	adj	ces	ideologický	adj
 	pol	iglasty	adj	ces	jehličnatý	adj
@@ -9062,7 +9062,7 @@ LR	pol	naczelny	adj	ces	hlavní	adj$adj-sint
 	pol	lewy	adj	ces	levý	adj
 	pol	sprawiedliwy	adj$adj-sint	ces	spravedlivý	adj
 	pol	zrozumiały	adj-sint	ces	pochopitelný	adj-sint
-	pol	odległy	adj-sint$adj	ces	vzdálený	adj-sint
+	pol	odległy	adj-sint$adj	ces	vzdálený	adj-sint$adj
 	pol	odważny	adj-sint$adj	ces	statečný	adj$adj-sint
 	pol	plażowy	adj	ces	plážový	adj
 	pol	pokojowy	adj	ces	pokojový	adj
@@ -9271,7 +9271,7 @@ LR	pol	raptowny	adj-sint$adj	ces	rapidní	adj$adj-sint
 	pol	taktowny	adj-sint$adj	ces	ohleduplný	adj$adj-sint
 	pol	weekendowy	adj	ces	víkendový	adj
 	pol	typowy	adj	ces	typický	adj
-	pol	święty	adj-sint$adj	ces	svatý	adj-sint
+	pol	święty	adj-sint$adj	ces	svatý	adj-sint$adj
 	pol	wiosenny	adj	ces	jarní	adj
 	pol	kataloński	adj	ces	katalánsky	adj
 	pol	walijski	adj	ces	velšský	adj
@@ -9627,7 +9627,7 @@ RL	pol	tak czy inaczej	adv	ces	tak nebo tak	adv
 	pol	dawno	adv$adv-sint	ces	dávno	adv$adv-sint
 	pol	gęsto	adv$adv-sint	ces	hustě	adv-sint
 	pol	obecnie	adv	ces	aktuálně	adv$adv-sint
-	pol	często	adv$adv-sint	ces	často	adv-sint
+	pol	często	adv$adv-sint	ces	často	adv-sint$adv
 RL	pol	często	adv$adv-sint	ces	mnohdy	adv$adv-sint
 	pol	ciężko	adv$adv-sint	ces	těžko	adv$adv-sint
 LR	pol	niezręcznie	adv	ces	trapně	adv$adv-sint
@@ -9854,26 +9854,26 @@ LR	pol	biustonosz	n-mi$n	ces	podprsenka	n-f
 	pol	bizmut	n-mi$n	ces	bismut	n-mi
 	pol	blog	n$n-mi	ces	blog	n-mi
 	pol	bogaty	adj-sint$adj	ces	bohatý	adj$adj-sint
-	pol	brat	n-mp$n	ces	bratr	n-ma
-	pol	bratanek	n-mp	ces	synovec	n-ma
+	pol	brat	n-mp$n	ces	bratr	n-ma$n
+	pol	bratanek	n-mp	ces	synovec	n-ma$n
 	pol	bratanica	n-f	ces	neteř	n-f
 	pol	bratowa	n-f	ces	švagrová	n-f
 	pol	brazylijski	adj	ces	brazilský	adj
 	pol	broda	n-f$n	ces	brada	n$n-f
 	pol	broń	n-f$n	ces	zbraň	n-f
 	pol	brzeg	n-mi$n	ces	břeh	n-mi
-	pol	brzeg	n-mi$n	ces	hranice	n-f
+	pol	brzeg	n-mi$n	ces	hranice	n-f$n
 	pol	rozumieć	vblex$vblex-impf	ces	rozumět	vblex
 	pol	smarować	vblex-imperf	ces	mazat	vblex$vblex-imperf
-	pol	dziękować	vblex$vblex-imperf	ces	děkovat	vblex-imperf$vblex
+	pol	dziękować	vblex$vblex-imperf	ces	děkovat	vblex$vblex-imperf
 	pol	podziękować	vblex$vblex-perf	ces	poděkovat	vblex$vblex-perf
-	pol	leżeć	vblex-imperf	ces	ležet	vblex-imperf
-	pol	iść	vblex$vblex-imperf	ces	jít	vblex-imperf$vblex-imperf-fti$vblex-imperf-fti-imp
-	pol	chodzić	vblex$vblex-imperf	ces	jít	vblex-imperf$vblex-imperf-fti$vblex-imperf-fti-imp
-LR	pol	iść	vblex$vblex-imperf	ces	jít	vblex-imperf$vblex-imperf-fti$vblex-imperf-fti-imp
-LR	pol	pójść	vblex$vblex-perf$vblex-perf-fti	ces	jít	vblex-imperf$vblex-imperf-fti$vblex-imperf-fti-imp
-	pol	pójść	vblex$vblex-perf$vblex-perf-fti	ces	jít	vblex-imperf$vblex-imperf-fti$vblex-imperf-fti-imp
-	pol	pójść	vblex-perf-imp	ces	jít	vblex-imperf$vblex-imperf-fti$vblex-imperf-fti-imp
+	pol	leżeć	vblex-imperf	ces	ležet	vblex-imperf$vblex
+	pol	iść	vblex$vblex-imperf	ces	jít	vblex-imperf$vblex$vblex-imperf-fti$vblex-imperf-fti-imp
+	pol	chodzić	vblex$vblex-imperf	ces	jít	vblex-imperf$vblex$vblex-imperf-fti$vblex-imperf-fti-imp
+LR	pol	iść	vblex$vblex-imperf	ces	jít	vblex-imperf$vblex$vblex-imperf-fti$vblex-imperf-fti-imp
+LR	pol	pójść	vblex$vblex-perf$vblex-perf-fti	ces	jít	vblex-imperf$vblex$vblex-imperf-fti$vblex-imperf-fti-imp
+	pol	pójść	vblex$vblex-perf$vblex-perf-fti	ces	jít	vblex-imperf$vblex$vblex-imperf-fti$vblex-imperf-fti-imp
+	pol	pójść	vblex-perf-imp	ces	jít	vblex-imperf$vblex$vblex-imperf-fti$vblex-imperf-fti-imp
 	pol	napisać	vblex-perf$vblex	ces	napsat	vblex-perf$vblex$vblex-perf-pres
 RL	pol	pisać	vblex-imperf-pres	ces	napsat	vblex-perf$vblex$vblex-perf-pres
 	pol	bóbr	n-ma	ces	bobr	n-ma
@@ -9995,7 +9995,7 @@ LR	pol	chaotyczny	adj	ces	náhodný	adj
 	pol	katoda	n-f$n	ces	katoda	n-f
 	pol	kinematograf	n-mi	ces	kinematograf	n-mi
 	pol	kłosek	n-mi	ces	klásek	n-mi
-	pol	knedlik	n-mi	ces	knedlík	n-mi
+	pol	knedlik	n-mi	ces	knedlík	n-mi$n
 	pol	księgarnia	n-f$n	ces	knihkupectví	n-mi
 	pol	sznaucer	n-ma	ces	knírač	n-ma
 	pol	karoca	n-f	ces	kočár	n-mi
@@ -10084,7 +10084,7 @@ LR	pol	chaotyczny	adj	ces	náhodný	adj
 	pol	pietà	n-f	ces	pieta	n-f
 	pol	pilník	n-mi	ces	pilník	n-mi
 	pol	plagiat	n-mi$n	ces	plagiát	n-mi
-	pol	flaming	n-ma$n	ces	plameňák	n-ma
+	pol	flaming	n-ma$n	ces	plameňák	n-ma$n
 	pol	planetarium	n-nt	ces	planetárium	n-nt
 	pol	plantacja	n-f$n	ces	plantáž	n-f
 	pol	playback	n-mi	ces	playback	n-mi
@@ -10103,7 +10103,7 @@ LR	pol	chaotyczny	adj	ces	náhodný	adj
 	pol	oparzenie	n-nt	ces	popálenina	n-f
 	pol	rurociąg	n-mi	ces	potrubí	n-mi
 	pol	przesąd	n-mi	ces	pověra	n-f
-	pol	zasada	n-f$n	ces	pravidlo	n-nt
+	pol	zasada	n-f$n	ces	pravidlo	n-nt$n
 	pol	prawosławie	n-nt	ces	pravoslaví	n-mi
 	pol	drapieżnik	n-ma	ces	predátor	n-ma
 	pol	przedramię	n-nt$n	ces	předloktí	n-mi
@@ -10152,16 +10152,16 @@ LR	pol	chaotyczny	adj	ces	náhodný	adj
 	pol	dowódca	n-mp$n	ces	velitel	n-ma
 	pol	wiolista	n-mp	ces	violista	n-ma
 	pol	pokrywać	vblex$vblex-imperf	ces	pokrývat	vblex-imperf
-	pol	potrzebować	vblex-imperf	ces	potřebovat	vblex-imperf
-	pol	akceptować	vblex$vblex-imperf	ces	souhlasit	vblex-imperf
+	pol	potrzebować	vblex-imperf	ces	potřebovat	vblex-imperf$vblex
+	pol	akceptować	vblex$vblex-imperf	ces	souhlasit	vblex-imperf$vblex
 	pol	zabić	vblex-perf$vblex	ces	zabít	vblex-perf
-	pol	tańczyć	vblex-imperf	ces	tančit	vblex-imperf
+	pol	tańczyć	vblex-imperf	ces	tančit	vblex-imperf$vblex
 	pol	przełożyć	vblex-perf$vblex	ces	přeložit	vblex-perf$vblex
 	pol	podobać	vblex$vblex-imperf	ces	líbit	vblex-imperf
 	pol	usiąść	vblex-perf$vblex	ces	usednout	vblex-perf
 	pol	kuć	vblex-imperf	ces	kout	vblex-imperf
 	pol	deformować	vblex-imperf	ces	deformovat	vblex-imperf
-	pol	potrzebować	vblex-imperf	ces	potřebovat	vblex-imperf
+	pol	potrzebować	vblex-imperf	ces	potřebovat	vblex-imperf$vblex
 	pol	demonstrować	vblex$vblex-imperf	ces	demonstrovat	vblex-imperf
 	pol	dokumentować	vblex$vblex-imperf	ces	dokumentovat	vblex-imperf
 	pol	funkcjonować	vblex$vblex-imperf	ces	fungovat	vblex-imperf
@@ -10171,10 +10171,10 @@ LR	pol	chaotyczny	adj	ces	náhodný	adj
 	pol	przezimować	vblex$vblex-perf	ces	přezimovat	vblex-imperf
 	pol	panować	vblex-imperf	ces	panovat	vblex-imperf
 	pol	operować	vblex-imperf	ces	operovat	vblex-imperf
-	pol	pokazać	vblex$vblex-perf	ces	ukázat	vblex-perf
+	pol	pokazać	vblex$vblex-perf	ces	ukázat	vblex-perf$vblex
 	pol	zazdrościć	vblex-imperf	ces	závidět	vblex-imperf
 	pol	widzieć	vblex$vblex-imperf	ces	vidět	vblex-imperf
-	pol	akceptować	vblex$vblex-imperf	ces	souhlasit	vblex-imperf
+	pol	akceptować	vblex$vblex-imperf	ces	souhlasit	vblex-imperf$vblex
 	pol	powitać	vblex-perf$vblex	ces	uvítat	vblex-perf
 	pol	przywitać	vblex$vblex-perf	ces	přivítat	vblex
 	pol	wyglądać	vblex-imperf	ces	vypadat	vblex-imperf
@@ -10203,21 +10203,21 @@ LR	pol	okrążyć	vblex-perf	ces	obejít	vblex-perf
 	pol	podejść	vblex$vblex-perf	ces	popojít	vblex-perf
 LR	pol	wyminąć	vblex-perf	ces	předejít	vblex-perf
 	pol	wyprzedzić	vblex-perf	ces	předejít	vblex-perf
-LR	pol	obowiązywać	vblex-imperf	ces	platit	vblex-imperf
-	pol	płacić	vblex-imperf$vblex	ces	platit	vblex-imperf
+LR	pol	obowiązywać	vblex-imperf	ces	platit	vblex-imperf$vblex
+	pol	płacić	vblex-imperf$vblex	ces	platit	vblex-imperf$vblex
 	pol	uprościć	vblex-perf$vblex	ces	zjednodušit	vblex-perf
 	pol	dojść	vblex$vblex-perf	ces	dojít	vblex-perf$vblex
 	pol	nadejść	vblex-perf$vblex	ces	nadejít	vblex-perf
 	pol	przynieść	vblex-perf$vblex	ces	přinést	vblex-perf
 	pol	zapewniać	vblex-imperf	ces	zajišťovat	vblex-imperf
 	pol	zapewnić	vblex-perf$vblex	ces	zajistit	vblex-perf
-	pol	stracić	vblex-perf$vblex	ces	ztratit	vblex-perf
+	pol	stracić	vblex-perf$vblex	ces	ztratit	vblex-perf$vblex
 	pol	odwołać	vblex-perf$vblex	ces	zrušit	vblex-perf
 LR	pol	znieść	vblex-perf$vblex	ces	zrušit	vblex-perf
 	pol	zrównoważyć	vblex-perf$vblex	ces	vyvážit	vblex-perf
-	pol	zostać	vblex-perf$vblex	ces	zůstat	vblex-perf
+	pol	zostać	vblex-perf$vblex	ces	zůstat	vblex-perf$vblex
 	pol	ciągnąć	vblex$vblex-imperf	ces	tahat	vblex-imperf
-	pol	znać	vblex$vblex-imperf	ces	znát	vblex-imperf
+	pol	znać	vblex$vblex-imperf	ces	znát	vblex-imperf$vblex
 	pol	adoptować	vblex$vblex-impf	ces	adoptovat	vblex
 	pol	aprobować	vblex$vblex-impf	ces	aprobovat	vblex
 	pol	atakować	vblex$vblex-impf	ces	útočit	vblex
@@ -10352,7 +10352,7 @@ RL	pol	nagrać	vblex$vblex-perf	ces	vypálit	vblex
 	pol	odbierać	vblex-impf$vblex	ces	přijmout	vblex
 	pol	odbijać	vblex-impf$vblex	ces	zrcadlit	vblex
 	pol	odblokować	vblex	ces	odemknout	vblex
-	pol	odbywać	vblex-impf$vblex	ces	konat	vblex-impf$vblex
+	pol	odbywać	vblex-impf$vblex	ces	konat	vblex$vblex-impf
 	pol	odciążyć	vblex$vblex-perf	ces	odlehčit	vblex
 	pol	odcinać	vblex-impf$vblex	ces	odřezávat	vblex
 	pol	odcinać	vblex-impf$vblex	ces	odtrhávat	vblex
@@ -10959,7 +10959,7 @@ LR	pol	walczyć	vblex$vblex-impf	ces	bojovat	vblex$vblex-impf
 	pol	kichać	vblex$vblex-imperf	ces	kýchat	vblex-imperf
 	pol	planować	vblex-imperf	ces	plánovat	vblex-imperf
 	pol	programować	vblex-imperf	ces	programovat	vblex-imperf
-	pol	wygrać	vblex-perf$vblex	ces	vyhrát	vblex-perf
+	pol	wygrać	vblex-perf$vblex	ces	vyhrát	vblex-perf$vblex
 	pol	elektryzować	vblex-imperf	ces	elektrizovat	vblex-imperf
 	pol	drukować	vblex-imperf	ces	otiskovat	vblex-imperf
 	pol	dojść	vblex$vblex-perf	ces	dojít	vblex-perf$vblex
@@ -11016,8 +11016,8 @@ RL	pol	utrzymywać	vblex$vblex-imperf	ces	udržovat	vblex-imperf
 	pol	zoperować	vblex	ces	odoperovat	vblex
 	pol	podporządkować	vblex$vblex-imperf	ces	podmanit	vblex-perf
 	pol	oceniać	vblex-imperf	ces		vblex-imperf
-	pol	litować	vblex-imperf	ces	litovat	vblex-imperf
-LR	pol	żałować	vblex-imperf	ces	litovat	vblex-imperf
+	pol	litować	vblex-imperf	ces	litovat	vblex-imperf$vblex
+LR	pol	żałować	vblex-imperf	ces	litovat	vblex-imperf$vblex
 	pol	animować	vblex$vblex-imperf	ces	animovaný	vblex-imperf
 	pol	archiwizować	vblex$vblex-imperf	ces	archivovat	vblex$vblex-imperf
 	pol	artykułować	vblex-imperf	ces	artikulovat	vblex$vblex-imperf
@@ -11035,13 +11035,13 @@ LR	pol	ekspandować	vblex$vblex-imperf	ces	expandovat	vblex-imperf$vblex
 	pol	integrować	vblex-imperf	ces	integrovat	vblex-imperf
 	pol	katapultować	vblex-imperf	ces	katapultovat	vblex-imperf
 	pol	kodować	vblex$vblex-imperf	ces	kódovat	vblex-imperf
-	pol	kontrolować	vblex$vblex-imperf	ces	kontrolovat	vblex-imperf
+	pol	kontrolować	vblex$vblex-imperf	ces	kontrolovat	vblex-imperf$vblex
 	pol	lobbować	vblex-imperf	ces	lobbovat	vblex-imperf
 	pol	maksymalizować	vblex$vblex-imperf	ces	maximalizovat	vblex-imperf
 	pol	minimalizować	vblex$vblex-imperf	ces	minimalizovat	vblex-imperf
 	pol	monitorować	vblex$vblex-imperf	ces	monitorovat	vblex$vblex-imperf
 	pol	nastawiać	vblex-imperf	ces	nastavovat	vblex-imperf
-	pol	nauczać	vblex$vblex-imperf	ces	vyučovat	vblex-imperf
+	pol	nauczać	vblex$vblex-imperf	ces	vyučovat	vblex-imperf$vblex
 	pol	nominować	vblex$vblex-imperf	ces	nominovat	vblex$vblex-imperf
 	pol	obsługiwać	vblex-imperf	ces	obsahovat	vblex-imperf
 	pol	ocenić	vblex-perf$vblex	ces	ocenit	vblex-perf
@@ -11053,9 +11053,9 @@ LR	pol	ekspandować	vblex$vblex-imperf	ces	expandovat	vblex-imperf$vblex
 	pol	optymalizować	vblex-imperf	ces	optimalizovat	vblex-imperf
 	pol	ostrzegać	vblex$vblex-imperf	ces	varovat	vblex-imperf
 	pol	oswajać	vblex-imperf	ces	osvojovat	vblex-imperf
-	pol	otaczać	vblex$vblex-imperf	ces	lemovat	vblex-imperf
+	pol	otaczać	vblex$vblex-imperf	ces	lemovat	vblex-imperf$vblex
 	pol	oświetlać	vblex-imperf	ces	osvětlovat	vblex-imperf
-	pol	pamiętać	vblex$vblex-imperf	ces	pamatovat	vblex-imperf
+	pol	pamiętać	vblex$vblex-imperf	ces	pamatovat	vblex-imperf$vblex
 	pol	parafrazować	vblex-imperf	ces	parafrázovat	vblex-imperf
 	pol	podziwiać	vblex$vblex-imperf	ces	obdivovat	vblex$vblex-imperf
 	pol	poruszać	vblex-imperf	ces	pohybovat	vblex-imperf
@@ -11063,7 +11063,7 @@ LR	pol	powiększać	vblex-imperf	ces	zvětšovat	vblex-imperf
 	pol	zwiększać	vblex-imperf	ces	zvětšovat	vblex-imperf
 	pol	pozdrawiać	vblex-imperf	ces	pozdravovat	vblex-imperf
 	pol	pozwalać	vblex-imperf	ces	dovolovat	vblex-imperf
-	pol	poświęcać	vblex-imperf	ces	věnovat	vblex-imperf
+	pol	poświęcać	vblex-imperf	ces	věnovat	vblex-imperf$vblex
 	pol	przeciążać	vblex-imperf	ces	přetěžovat	vblex-imperf
 	pol	przedłużać	vblex-imperf	ces	prodlužovat	vblex-imperf
 	pol	przeganiać	vblex-imperf	ces	předstihovat	vblex-imperf
@@ -11145,7 +11145,7 @@ LR	pol	uaktualniać	vblex-imperf	ces	aktualizovat	vblex-imperf
 	pol	czekać	vblex$vblex-imperf	ces	čekat	vblex-imperf
 	pol	oczekiwać	vblex$vblex-impf	ces	očekávat	vblex$vblex-impf
 	pol	wieźć	vblex-imperf	ces	vézt	vblex-imperf
-	pol	piec	vblex-imperf	ces	péci	vblex-imperf
+	pol	piec	vblex-imperf	ces	péci	vblex$vblex-imperf
 	pol	grzać	vblex-imperf	ces	hřát	vblex-imperf
 	pol	zagrzać	vblex-perf	ces	zahřát	vblex-perf
 	pol	pompować	vblex-imperf	ces	pumpovat	vblex-imperf
@@ -11176,8 +11176,8 @@ LR	pol	uaktualniać	vblex-imperf	ces	aktualizovat	vblex-imperf
 	pol	brać	vblex$vblex-imperf	ces	brát	vblex$vblex-imperf
 	pol	buczeć	vblex	ces	bučet	vblex
 	pol	budzić	vblex	ces	budit	vblex
-	pol	mieszkać	vblex$vblex-imperf	ces	bydlet	vblex-imperf
-LR	pol	zamieszkiwać	vblex-imperf	ces	bydlet	vblex-imperf
+	pol	mieszkać	vblex$vblex-imperf	ces	bydlet	vblex-imperf$vblex
+LR	pol	zamieszkiwać	vblex-imperf	ces	bydlet	vblex-imperf$vblex
 	pol	podróżować	vblex$vblex-imperf	ces	cestovat	vblex$vblex-imperf
 	pol	czuć	vblex$vblex-impf	ces	cítit	vblex
 	pol	cytować	vblex$vblex-imperf	ces	citovat	vblex$vblex-imperf
@@ -11185,10 +11185,10 @@ LR	pol	zamieszkiwać	vblex-imperf	ces	bydlet	vblex-imperf
 	pol	czernieć	vblex	ces	černat	vblex
 	pol	orać	vblex$vblex-imperf	ces	orat	vblex-imperf
 	pol	malować	vblex$vblex-imperf	ces	malovat	vblex-imperf
-	pol	wierzyć	vblex$vblex-imperf	ces	věřit	vblex-imperf
+	pol	wierzyć	vblex$vblex-imperf	ces	věřit	vblex-imperf$vblex
 	pol	grzmieć	vblex-imperf	ces	hřmít	vblex-imperf
 	pol	rozkazać	vblex$vblex-perf	ces	rozkázat	vblex-perf
-	pol	gryźć	vblex-imperf	ces	kousat	vblex-imperf
+	pol	gryźć	vblex-imperf	ces	kousat	vblex-imperf$vblex
 	pol	zacząć	vblex-perf$vblex	ces	začít	vblex$vblex-perf
 	pol	ostrzeliwać	vblex$vblex-imperf	ces	ostřelovat	vblex-imperf
 	pol	absorbować	vblex-imperf$vblex	ces	absorbovat	vblex$vblex-imperf
@@ -11224,7 +11224,7 @@ LR	pol	dawkować	vblex$vblex-imperf	ces	aplikovat	vblex-imperf
 	pol	dyktować	vblex$vblex-imperf	ces	diktovat	vblex-imperf
 	pol	dyskredytować	vblex$vblex-imperf	ces	diskreditovat	vblex$vblex-imperf
 	pol	dysponować	vblex-imperf	ces	disponovat	vblex$vblex-imperf
-	pol	dziękować	vblex$vblex-imperf	ces	děkovat	vblex-imperf$vblex
+	pol	dziękować	vblex$vblex-imperf	ces	děkovat	vblex$vblex-imperf
 	pol	egzystować	vblex-imperf	ces	existovat	vblex-imperf
 	pol	eksperymentować	vblex$vblex-imperf	ces	experimentovat	vblex$vblex-imperf
 	pol	eksplodować	vblex$vblex-imperf	ces	explodovat	vblex$vblex-imperf
@@ -11232,7 +11232,7 @@ LR	pol	dawkować	vblex$vblex-imperf	ces	aplikovat	vblex-imperf
 	pol	ewakuować	vblex$vblex-imperf	ces	evakuovat	vblex-imperf
 	pol	filtrować	vblex$vblex-imperf	ces	filtrovat	vblex-imperf
 	pol	flirtować	vblex-imperf	ces	flirtovat	vblex-imperf
-	pol	formować	vblex-imperf	ces	formovat	vblex-imperf
+	pol	formować	vblex-imperf	ces	formovat	vblex-imperf$vblex
 	pol	fotografować	vblex$vblex-imperf	ces	fotografovat	vblex-imperf
 	pol	gratulować	vblex$vblex-imperf	ces	gratulovat	vblex$vblex-imperf
 	pol	harmonizować	vblex-imperf	ces	harmonizovat	vblex-imperf
@@ -11283,7 +11283,7 @@ LR	pol	poprawiać	vblex-imperf	ces	korigovat	vblex-imperf
 	pol	masować	vblex$vblex-imperf	ces	masírovat	vblex$vblex-imperf
 LR	pol	mianować	vblex-imperf	ces	jmenovat	vblex-imperf
 	pol	nazywać	vblex-imperf	ces	jmenovat	vblex-imperf
-	pol	barwić	vblex$vblex-imperf	ces	barvit	vblex-imperf
+	pol	barwić	vblex$vblex-imperf	ces	barvit	vblex-imperf$vblex
 	pol	pokrywać	vblex$vblex-imperf	ces	pokrývat	vblex-imperf
 	pol	modelować	vblex-imperf	ces	modelovat	vblex$vblex-imperf
 	pol	modernizować	vblex$vblex-imperf	ces	modernizovat	vblex$vblex-imperf
@@ -11300,8 +11300,8 @@ RL	pol	nazywać	vblex-imperf	ces	nazývat	vblex-imperf
 	pol	ofiarować	vblex$vblex-imperf	ces	obětovat	vblex$vblex-imperf
 	pol	organizować	vblex$vblex-imperf	ces	organizovat	vblex-imperf
 	pol	parodiować	vblex-imperf	ces	parodovat	vblex-imperf
-LR	pol	pielęgnować	vblex-imperf	ces	ošetřovat	vblex-imperf
-	pol	opiekować	vblex-imperf	ces	ošetřovat	vblex-imperf
+LR	pol	pielęgnować	vblex-imperf	ces	ošetřovat	vblex-imperf$vblex
+	pol	opiekować	vblex-imperf	ces	ošetřovat	vblex-imperf$vblex
 	pol	pilotować	vblex-imperf	ces	pilotovat	vblex-imperf
 	pol	podróżować	vblex$vblex-imperf	ces	cestovat	vblex$vblex-imperf
 	pol	postępować	vblex$vblex-imperf	ces	postupovat	vblex-imperf
@@ -11321,8 +11321,8 @@ LR	pol	awansować	vblex$vblex-imperf	ces	postupovat	vblex-imperf
 	pol	dać	vblex$vblex-perf	ces	dát	vblex$vblex-perf
 	pol	deaktywować	vblex	ces	deaktivovat	vblex
 	pol	deklasować	vblex$vblex-imperf	ces	deklasovat	vblex$vblex-imperf
-	pol	dziękować	vblex$vblex-imperf	ces	děkovat	vblex-imperf$vblex
-	pol	robić	vblex$vblex-impf	ces	dělat	vblex-impf$vblex
+	pol	dziękować	vblex$vblex-imperf	ces	děkovat	vblex$vblex-imperf
+	pol	robić	vblex$vblex-impf	ces	dělat	vblex$vblex-impf
 	pol	zrobić	vblex$vblex-perf	ces	udělat	vblex
 	pol	dzielić	vblex	ces	dělit	vblex
 	pol	demaskować	vblex$vblex-imperf	ces	demaskovat	vblex$vblex-imperf
@@ -11394,7 +11394,7 @@ LR	pol	awansować	vblex$vblex-imperf	ces	postupovat	vblex-imperf
 	pol	machnąć	vblex$vblex-perf	ces	mávnout	vblex
 	pol	mazać	vblex	ces	mazat	vblex$vblex-imperf
 	pol	mierzyć	vblex	ces	měřit	vblex
-	pol	minąć	vblex$vblex-perf	ces	minout	vblex-perf
+	pol	minąć	vblex$vblex-perf	ces	minout	vblex-perf$vblex
 	pol	kochać	vblex$vblex-imperf	ces	milovat	vblex$vblex-imperf
 	pol	milczeć	vblex	ces	mlčet	vblex
 	pol	mówić	vblex$vblex-impf	ces	mluvit	vblex$vblex-impf
@@ -11426,13 +11426,13 @@ LR	pol	awansować	vblex$vblex-imperf	ces	postupovat	vblex-imperf
 	pol	wyjaśnić	vblex$vblex-perf	ces	objasnit	vblex
 	pol	czesać	vblex$vblex-impf	ces	česat	vblex
 	pol	kupować	vblex-imperf	ces	kupovat	vblex-imperf
-	pol	kupić	vblex-perf$vblex	ces	koupit	vblex-perf
+	pol	kupić	vblex-perf$vblex	ces	koupit	vblex$vblex-perf
 	pol	lać	vblex$vblex-imperf	ces	lít	vblex$vblex-imperf
 	pol	nalać	vblex$vblex-perf	ces	nalít	vblex-perf
 	pol	kraść	vblex$vblex-imperf	ces	krást	vblex-imperf
 	pol	ukraść	vblex$vblex-perf	ces	ukrást	vblex-perf
 	pol	odpowiadać	vblex$vblex-imperf	ces	odpovídat	vblex-imperf
-	pol	odpowiedzieć	vblex-perf$vblex	ces	odpovědět	vblex-perf$vblex-perf-iv
+	pol	odpowiedzieć	vblex-perf$vblex	ces	odpovědět	vblex-perf$vblex$vblex-perf-iv
 	pol	wstawać	vblex$vblex-imperf	ces	vstávat	vblex-imperf
 	pol	wstać	vblex-perf$vblex	ces	vstát	vblex-perf
 LR	pol	występować	vblex-imperf	ces	vystupovat	vblex$vblex-imperf
@@ -11445,7 +11445,7 @@ LR	pol	wystąpić	vblex-perf$vblex	ces	vystoupit	vblex-perf
 	pol	zawołać	vblex-perf$vblex	ces	zavolat	vblex-perf
 	pol	piec	vblex-imperf	ces	péct	vblex-imperf
 	pol	upiec	vblex$vblex-perf	ces	upéct	vblex-perf
-	pol	pić	vblex$vblex-imperf	ces	pít	vblex-imperf
+	pol	pić	vblex$vblex-imperf	ces	pít	vblex-imperf$vblex
 	pol	wypić	vblex-perf$vblex	ces	vypít	vblex-perf$vblex-perf-tv
 	pol	planować	vblex-imperf	ces	plánovat	vblex-imperf
 	pol	zaplanować	vblex-perf$vblex	ces	naplánovat	vblex$vblex-perf
@@ -11457,12 +11457,12 @@ LR	pol	wystąpić	vblex-perf$vblex	ces	vystoupit	vblex-perf
 	pol	usmażyć	vblex-perf	ces	usmažit	vblex-perf
 	pol	umierać	vblex$vblex-imperf	ces	umírat	vblex-imperf
 	pol	umrzeć	vblex$vblex-perf	ces	umřít	vblex$vblex-perf
-	pol	kąpać	vblex$vblex-imperf	ces	koupat	vblex-imperf
+	pol	kąpać	vblex$vblex-imperf	ces	koupat	vblex$vblex-imperf
 	pol	wykąpać	vblex-perf	ces	vykoupat	vblex-perf
 	pol	odkurzać	vblex$vblex-imperf	ces	luxovat	vblex-imperf
 	pol	odkurzyć	vblex-perf	ces	vyluxovat	vblex-perf
 	pol	wysyłać	vblex-imperf	ces	posílat	vblex$vblex-imperf
-	pol	wysłać	vblex-perf$vblex	ces	poslat	vblex-perf
+	pol	wysłać	vblex-perf$vblex	ces	poslat	vblex$vblex-perf
 LR	pol	przekładać	vblex-imperf	ces	překládat	vblex-imperf
 LR	pol	przełożyć	vblex-perf$vblex	ces	přeložit	vblex-perf$vblex
 	pol	tłumaczyć	vblex-imperf	ces	překládat	vblex-imperf
@@ -11473,23 +11473,23 @@ LR	pol	przełożyć	vblex-perf$vblex	ces	přeložit	vblex-perf$vblex
 	pol	grać	vblex-imperf	ces	hrát	vblex-imperf$vblex-imperf-tv
 	pol	zagrać	vblex-perf$vblex	ces	zahrát	vblex$vblex-perf
 	pol	wygrywać	vblex$vblex-imperf	ces	vyhrávat	vblex-imperf
-	pol	wygrać	vblex-perf$vblex	ces	vyhrát	vblex-perf
+	pol	wygrać	vblex-perf$vblex	ces	vyhrát	vblex-perf$vblex
 	pol	przegrywać	vblex-imperf	ces	prohrávat	vblex$vblex-imperf
 	pol	przegrać	vblex-perf$vblex	ces	prohrát	vblex$vblex-perf
-	pol	płacić	vblex-imperf$vblex	ces	platit	vblex-imperf
+	pol	płacić	vblex-imperf$vblex	ces	platit	vblex-imperf$vblex
 	pol	zapłacić	vblex-perf$vblex	ces	zaplatit	vblex-perf
 	pol	sprzedawać	vblex-imperf	ces	prodávat	vblex-imperf
-	pol	sprzedać	vblex-perf$vblex	ces	prodat	vblex-perf
+	pol	sprzedać	vblex-perf$vblex	ces	prodat	vblex$vblex-perf
 	pol	przesiadać	vblex-imperf	ces	přestupovat	vblex-imperf
 	pol	przesiąść	vblex-perf	ces	přestoupit	vblex$vblex-perf
 	pol	przygotować	vblex-imperf	ces	připravovat	vblex-imperf
 	pol	przygotowywać	vblex-perf	ces	připravit	vblex$vblex-perf
 	pol	zaczynać	vblex-imperf	ces	začínat	vblex-imperf
 	pol	zacząć	vblex-perf$vblex	ces	začít	vblex$vblex-perf
-	pol	kończyć	vblex-imperf	ces	končit	vblex-imperf
+	pol	kończyć	vblex-imperf	ces	končit	vblex$vblex-imperf
 	pol	skończyć	vblex$vblex-perf	ces	skončit	vblex$vblex-perf$vblex-perf-iv
 	pol	zapraszać	vblex$vblex-imperf	ces	zvát	vblex$vblex-imperf
-	pol	zaprosić	vblex$vblex-perf	ces	pozvat	vblex-perf
+	pol	zaprosić	vblex$vblex-perf	ces	pozvat	vblex$vblex-perf
 	pol	prasować	vblex$vblex-imperf	ces	žehlit	vblex-imperf
 	pol	wyprasować	vblex$vblex-perf	ces	vyžehlit	vblex$vblex-perf
 LR	pol	uprasować	vblex-perf	ces	vyžehlit	vblex$vblex-perf
@@ -11504,7 +11504,7 @@ LR	pol	uprasować	vblex-perf	ces	vyžehlit	vblex$vblex-perf
 	pol	zazdrość	n-f	ces	závist	n-f
 	pol	pycha	n-f	ces	pýcha	n-f
 	pol	lesbijka	n-f$n	ces	lesbička	n
-	pol	nadzieja	n-f$n	ces	naděje	n-f
+	pol	nadzieja	n-f$n	ces	naděje	n-f$n
 	pol	arsen	n-mi$n	ces	arzen	n-mi
 	pol	śniadanie	n-nt$n	ces	snídaně	n-f
 	pol	beletrystyka	n-f$n	ces	beletrie	n-f
@@ -11545,7 +11545,7 @@ LR	pol	molekuła	n-f$n	ces	molekula	n-f
 	pol	oligarchia	n-f$n	ces	oligarchie	n-f
 	pol	parowanie	n-nt	ces	vypařování	n-nt
 	pol	patron	n-mp	ces	patron	n-ma
-	pol	pierścień	n-mi$n	ces	prsten	n-mi
+	pol	pierścień	n-mi$n	ces	prsten	n-mi$n
 	pol	sperma	n-f$n	ces	spermie	n-f
 	pol	pleśń	n-f	ces	plíseň	n-f
 	pol	podporucznik	n-mp	ces	poručík	n-ma
@@ -11567,7 +11567,7 @@ LR	pol	molekuła	n-f$n	ces	molekula	n-f
 	pol	religia	n-f$n	ces	náboženství	n-nt
 LR	pol	wyznanie	n-nt$n	ces	náboženství	n-nt
 	pol	ren	n$n-mi	ces	rhenium	n-nt
-	pol	robot	n-ma	ces	robot	n-ma
+	pol	robot	n-ma	ces	robot	n-ma$n
 	pol	rod	n-mi$n	ces	rod	n-mi
 	pol	rod	n-mi$n	ces	rhodium	n-nt
 	pol	służba	n-f$n	ces	čeleď	n-f
@@ -11589,7 +11589,7 @@ LR	pol	roztwór	n-mi	ces	roztok	n-mi
 	pol	śliwa	n-f$n	ces	třešeň	n-f
 	pol	sprzeczność	n-f	ces	kontradikce	n-f
 	pol	srom	n-mi$n	ces	vulva	n-f
-	pol	strop	n-mi	ces	strop	n-mi
+	pol	strop	n-mi	ces	strop	n-mi$n
 	pol	szeregowiec	n-mp	ces	vojín	n-ma
 	pol	sztylet	n-mi	ces	dýka	n-f
 	pol	siekiera	n-f	ces	sekera	n-f
@@ -11599,22 +11599,22 @@ LR	pol	trucizna	n-f	ces	jed	n-mi
 	pol	jad	n-mi	ces	jed	n-mi
 	pol	ułamek	n-mi$n	ces	čitatel	n-ma
 	pol	ułamek	n-mi$n	ces	jmenovatel	n-ma
-	pol	dolina	n-f	ces	údolí	n-nt
+	pol	dolina	n-f	ces	údolí	n-nt$n
 	pol	warstwica	n-f	ces	izohypsa	n-f
 	pol	wiosna	n-f$n	ces	jaro	n-nt$n
 	pol	zawód	n-mi$n	ces	profese	n-f
 	pol	aborcja	n-f	ces	interrupce	n-f
-	pol	akademik	n-mi	ces	kolej	n-f
+	pol	akademik	n-mi	ces	kolej	n-f$n
 	pol	atrament	n-mi$n	ces	inkoust	n-mi
 	pol	biegunka	n-f$n	ces	sračka	n-f
 	pol	brzana	n-f	ces	parma	n-f
-	pol	chmura	n-f	ces	mrak	n-mi
+	pol	chmura	n-f	ces	mrak	n-mi$n
 	pol	cyrkon	n-mi$n	ces	zirkonium	n-nt
 	pol	czaszka	n-f$n	ces	lebka	n-f
-	pol	czereśnia	n-f$n	ces	třešně	n-f
+	pol	czereśnia	n-f$n	ces	třešně	n-f$n
 	pol	czołg	n-mi$n	ces	tank	n-mi
 	pol	dzierzba	n-f	ces	ťuhýk	n-ma
-	pol	flaga	n-f$n	ces	vlajka	n-f
+	pol	flaga	n-f$n	ces	vlajka	n-f$n
 	pol	futro	n-nt	ces	kožešina	n-f
 	pol	homoseksualista	n-mp	ces	homosexuál	n-ma
 	pol	huragan	n-mi$n	ces	orkán	n-mi
@@ -11624,31 +11624,31 @@ LR	pol	trucizna	n-f	ces	jed	n-mi
 	pol	iryd	n-mi$n	ces	iridium	n-nt
 	pol	iterb	n-mi$n	ces	ytterbium	n-nt
 	pol	jajnik	n-mi$n	ces	vaječník	n-mi
-	pol	jesień	n-f$n	ces	podzim	n-mi
+	pol	jesień	n-f$n	ces	podzim	n-mi$n
 	pol	jesion	n-mi$n	ces	jasan	n-mi
 	pol	jezdnia	n-f$n	ces	vozovka	n-f
 	pol	jod	n-mi$n	ces	jod	n-mi
 	pol	kadm	n-mi$n	ces	kadmium	n-nt
 	pol	kaliforn	n-mi$n	ces	kalifornium	n-nt
 	pol	kalkulator	n-mi$n	ces	kalkulačka	n-f
-	pol	klon	n-mi$n	ces	javor	n-mi
-	pol	koło	n-nt$n	ces	kolo	n-nt$n
-	pol	komputer	n-mi$n	ces	počítač	n-ma
+	pol	klon	n-mi$n	ces	javor	n-mi$n
+	pol	koło	n-nt$n	ces	kolo	n-nt
+	pol	komputer	n-mi$n	ces	počítač	n-ma$n
 	pol	kondensacja	n-f	ces	kondenzace	n-f
-	pol	kraj	n-mi	ces	kraj	n-mi
-	pol	krzesło	n-nt$n	ces	židle	n-f
+	pol	kraj	n-mi	ces	kraj	n-mi$n
+	pol	krzesło	n-nt$n	ces	židle	n-f$n
 	pol	krzew	n-mi$n	ces	keř	n-mi
 	pol	lantan	n-mi$n	ces	lanthan	n-mi
 	pol	lek	n-mi	ces	léčivo	n-nt
-	pol	litera	n-f$n	ces	písmeno	n-nt
+	pol	litera	n-f$n	ces	písmeno	n-nt$n
 	pol	lit	n-mi$n	ces	lithium	n-nt
 	pol	lustrzanka	n-f	ces	zrcadlovka	n-f
 	pol	lutet	n-mi	ces	lutecium	n-nt
-	pol	łóżko	n-nt$n	ces	postel	n-f
+	pol	łóżko	n-nt$n	ces	postel	n-f$n
 	pol	major	n-mi	ces	major	n-ma
 	pol	mangan	n-mi$n	ces	mangan	n-mi
 	pol	maska	n-f$n	ces	maska	n-f
-	pol	maszyna	n-f	ces	stroj	n-mi
+	pol	maszyna	n-f	ces	stroj	n-mi$n
 	pol	meczet	n-mi	ces	mešita	n-f
 	pol	mgławica	n-f	ces	mlhovina	n-f
 	pol	minerał	n-mi	ces	nerost	n-mi
@@ -11674,9 +11674,9 @@ LR	pol	trucizna	n-f	ces	jed	n-mi
 	pol	ostrosłup	n$n-mi	ces	jehlan	n-mi
 	pol	ozon	n-mi	ces	ozón	n-mi
 	pol	pallad	n-mi$n	ces	palladium	n-nt
-	pol	państwo	n-nt	ces	stát	n-mi
+	pol	państwo	n-nt	ces	stát	n-mi$n
 	pol	pingwin	n-ma$n	ces	tučňák	n-ma
-	pol	planeta	n-f$n	ces	planeta	n-f
+	pol	planeta	n-f$n	ces	planeta	n-f$n
 	pol	pluton	n-mi$n	ces	plutonium	n-nt
 	pol	pochwa	n-f$n	ces	vagína	n-f
 	pol	podręcznik	n-mi	ces	učebnice	n-f
@@ -11686,7 +11686,7 @@ LR	pol	trucizna	n-f	ces	jed	n-mi
 	pol	portal	n-mi	ces	portál	n-mi
 	pol	porucznik	n-mp	ces	nadporučík	n-ma
 	pol	pot	n-mi	ces	pot	n-mi
-	pol	północ	n-f$n	ces	sever	n-mi
+	pol	północ	n-f$n	ces	sever	n-mi$n
 	pol	praca	n-f	ces	práce	n-f
 	pol	prazeodym	n-mi$n	ces	prazeodym	n-mi
 	pol	republika	n-f	ces	republika	n-f
@@ -11728,9 +11728,9 @@ LR	pol	trucizna	n-f	ces	jed	n-mi
 	pol	wymowa	n-f$n	ces	výslovnost	n-f
 	pol	wyspa	n-f$n	ces	ostrov	n-mi
 	pol	zenit	n-mi	ces	nadhlavník	n-mi
-RL	pol	ziemia	n-f$n	ces	zem	n-f
+RL	pol	ziemia	n-f$n	ces	zem	n-f$n
 	pol	zjawisko	n-nt	ces	jev	n-mi
-	pol	złoto	n-nt$n	ces	zlato	n-nt
+	pol	złoto	n-nt$n	ces	zlato	n-nt$n
 	pol	związek	n-mi$n	ces	sloučenina	n-f
 	pol	zwrotnik	n-mi$n	ces	obratník	n-mi
 	pol	komórka	n-f$n	ces	buňka	n-f
@@ -11751,7 +11751,7 @@ RL	pol	kościół	n-mi$n	ces	církev	n-f
 	pol	dermatolog	n$n-mp	ces	dermatolog	n-ma
 	pol	kapral	n-mp	ces	desátník	n-ma
 	pol	deszcz	n-mi$n	ces	déšť	n-mi
-	pol	list	n-mi$n	ces	dopis	n-mi
+	pol	list	n-mi$n	ces	dopis	n-mi$n
 	pol	transport	n-mi$n	ces	doprava	n-f
 	pol	sandacz	n-ma	ces	candát	n-ma
 	pol	cache	n-mi	ces	cache	n-f
@@ -11808,18 +11808,18 @@ RL	pol	hel	n-mi$n	ces	helium	n-nt
 	pol	modliszka	n-f	ces	kudlanka	n-f
 	pol	pocisk	n-mi	ces	kulka	n-f
 	pol	łopatka	n-f$n	ces	lopatka	n-f
-	pol	kukiełka	n-f	ces	loutka	n-f
+	pol	kukiełka	n-f	ces	loutka	n-f$n
 	pol	mandarynka	n-f$n	ces	mandarinka	n-f
 	pol	matka	n-f$n	ces	matka	n-f
 	pol	modelka	n-f	ces	modelka	n-f
 	pol	motocykl	n-mi$n	ces	motorka	n-f
 	pol	muzułmanin	n-mp$n	ces	muslim	n-f
-	pol	lalka	n-f	ces	panenka	n-f
+	pol	lalka	n-f	ces	panenka	n-f$n
 	pol	partnerka	n-f	ces	partnerka	n-f
 	pol	kredka	n-f	ces	pastelka	n-f
 	pol	puszka	n-f$n	ces	plechovka	n-f
 	pol	pielucha	n-f	ces	plenka	n-f
-	pol	rodzina	n-f$n	ces	rodina	n-f
+	pol	rodzina	n-f$n	ces	rodina	n-f$n
 	pol	rogówka	n-f$n	ces	rohovka	n-f
 	pol	rodzynka	n-f	ces	rozinka	n-f
 	pol	rybka	n-f	ces	rybka	n-f
@@ -11839,7 +11839,7 @@ RL	pol	hel	n-mi$n	ces	helium	n-nt
 	pol	cudzysłów	n-mi$n	ces	uvozovka	n-f
 	pol	wirtuoz	n-mp	ces	virtuos	n-f
 	pol	wódka	n-f$n	ces	vodka	n-f
-	pol	czapla	n-f$n	ces	volavka	n-f
+	pol	czapla	n-f$n	ces	volavka	n-f$n
 	pol	probówka	n-f$n	ces	zkumavka	n-f
 	pol	barometr	n-mi$n	ces	barometr	n-mi
 	pol	alkohol	n-mi	ces	alkohol	n-mi
@@ -11847,24 +11847,24 @@ RL	pol	hel	n-mi$n	ces	helium	n-nt
 	pol	atom	n-mi$n	ces	atom	n-mi
 	pol	bank	n-mi$n	ces	banka	n-f
 	pol	buk	n-mi$n	ces	buk	n-mi
-	pol	czas	n-mi$n	ces	čas	n-mi
+	pol	czas	n-mi$n	ces	čas	n-mi$n
 	pol	analiza	n-f$n	ces	analýza	n-f
 	pol	antena	n-f$n	ces	anténa	n-f
 LR	pol	barwa	n-f$n	ces	barva	n-f
-	pol	oko	n-nt$n	ces	oko	n-nt
+	pol	oko	n-nt$n	ces	oko	n-nt$n
 	pol	zło	n-nt	ces	zlo	n-nt
 	pol	mleko	n-nt$n	ces	mléko	n-nt
 	pol	samochód	n-mi$n	ces	auto	n-nt
 LR	pol	auto	n-nt$n	ces	auto	n-nt
-	pol	lato	n-nt$n	ces	léto	n-nt
-	pol	wnuk	n-mp$n	ces	vnuk	n-ma
-	pol	miasto	n-nt$n	ces	město	n-nt
-LR	pol	miejscowość	n-f	ces	město	n-nt
+	pol	lato	n-nt$n	ces	léto	n-nt$n
+	pol	wnuk	n-mp$n	ces	vnuk	n-ma$n
+	pol	miasto	n-nt$n	ces	město	n-nt$n
+LR	pol	miejscowość	n-f	ces	město	n-nt$n
 	pol	tur	n-ma	ces	tur	n-ma
-	pol	ojciec	n-mp$n	ces	otec	n-ma
+	pol	ojciec	n-mp$n	ces	otec	n-ma$n
 	pol	testosteron	n-mi	ces	testosteron	n-mi
 	pol	dysertacja	n-f$n	ces	disertace	n-f
-	pol	pies	n-ma$n	ces	pes	n-ma
+	pol	pies	n-ma$n	ces	pes	n-ma$n
 	pol	anatom	n-mp	ces	anatom	n-ma
 	pol	arsen	n-mi$n	ces	arsen	n-mi
 	pol	baletnica	n-f	ces	baletka	n-f
@@ -11887,8 +11887,8 @@ LR	pol	aksjomat	n-mi$n	ces	axiom	n-mi
 	pol	pewnik	n-mi$n	ces	axiom	n-mi
 	pol	bajt	n-mi$n	ces	bajt	n-mi
 	pol	bizmut	n-mi$n	ces	bizmut	n-mi
-	pol	czwartek	n-mi	ces	čtvrtek	n-mi
-	pol	dzień	n-mi$n	ces	den	n-mi
+	pol	czwartek	n-mi	ces	čtvrtek	n-mi$n
+	pol	dzień	n-mi$n	ces	den	n-mi$n
 	pol	dialekt	n-mi$n	ces	dialekt	n-mi
 	pol	faks	n$n-mi	ces	fax	n-mi
 	pol	fiord	n$n-mi	ces	fjord	n-mi
@@ -11906,32 +11906,32 @@ LR	pol	aksjomat	n-mi$n	ces	axiom	n-mi
 	pol	modem	n-mi	ces	modem	n-mi
 	pol	nóż	n-mi	ces	nůž	n-mi
 	pol	obiekt	n-mi	ces	objekt	n-mi
-	pol	pas	n-mi$n	ces	pás	n-mi
-	pol	piątek	n-mi$n	ces	pátek	n-mi
-	pol	rok	n-mi$n	ces	rok	n-mi
+	pol	pas	n-mi$n	ces	pás	n-mi$n
+	pol	piątek	n-mi$n	ces	pátek	n-mi$n
+	pol	rok	n-mi$n	ces	rok	n-mi$n
 	pol	smoking	n-mi	ces	smoking	n-mi
 	pol	szkuner	n-mi	ces	škuner	n-mi
-	pol	drzewo	n-nt$n	ces	strom	n-mi
+	pol	drzewo	n-nt$n	ces	strom	n-mi$n
 	pol	telefon	n-mi$n	ces	telefon	n-mi
 	pol	telewizor	n-mi$n	ces	televizor	n-mi
 	pol	zenit	n-mi	ces	zenit	n-mi
 	pol	cynk	n-mi$n	ces	zinek	n-mi
-	pol	sposób	n-mi$n	ces	způsob	n-mi
-	pol	ząb	n-mi$n	ces	zub	n-mi
-LR	pol	żywot	n-mi	ces	život	n-mi
-	pol	życie	n-nt$n	ces	život	n-mi
+	pol	sposób	n-mi$n	ces	způsob	n-mi$n
+	pol	ząb	n-mi$n	ces	zub	n-mi$n
+LR	pol	żywot	n-mi	ces	život	n-mi$n
+	pol	życie	n-nt$n	ces	život	n-mi$n
 	pol	filia	n-f	ces	expozitura	n-f
 	pol	ksenon	n-mi$n	ces	xenon	n-mi
 	pol	ksylofon	n-mi$n	ces	xylofon	n-mi
 	pol	teodolit	n-mi	ces	teodolit	n-mi
 	pol	tytan	n-mi	ces	titan	n-mi
-	pol	świat	n-mi$n	ces	svět	n-mi
+	pol	świat	n-mi$n	ces	svět	n-mi$n
 	pol	stereotyp	n-mi$n	ces	stereotyp	n-mi
 	pol	proton	n-mi$n	ces	proton	n-mi
 	pol	nikiel	n-mi	ces	nikl	n-mi
 	pol	młyn	n-mi$n	ces	mlýn	n-mi
-	pol	pokój	n-mi	ces	mír	n-mi
-	pol	miesiąc	n-mi$n	ces	měsíc	n-mi
+	pol	pokój	n-mi	ces	mír	n-mi$n
+	pol	miesiąc	n-mi$n	ces	měsíc	n-mi$n
 	pol	mikroorganizm	n-mi$n	ces	mikroorganismus	n-mi
 	pol	organizm	n-mi$n	ces	organismus	n-mi
 	pol	neutron	n-mi$n	ces	neutron	n-mi
@@ -11988,11 +11988,11 @@ LR	pol	alergia	n-f	ces	alergie	n-f
 	pol	heksakosjoiheksekontaheksafobia	n-f	ces	hexakosioihexekontahexafobie	n-f
 	pol	filogeneza	n-f	ces	fylogeneze	n-f
 	pol	triskaidekafobia	n-f	ces	triskaidekafobie	n-f
-	pol	godzina	n-f$n	ces	hodina	n-f
+	pol	godzina	n-f$n	ces	hodina	n-f$n
 	pol	halucynacja	n-f	ces	halucinace	n-f
 	pol	gwiazda	n-f$n	ces	hvězda	n-f
 	pol	hydrosfera	n-f	ces	hydrosféra	n-f
-	pol	higiena	n-f$n	ces	hygiena	n-f
+	pol	higiena	n-f$n	ces	hygiena	n-f$n
 	pol	hiperkeratoza	n-f	ces	hyperkeratóza	n-f
 	pol	inflacja	n-f	ces	inflace	n-f
 	pol	inkubacja	n-f	ces	inkubace	n-f
@@ -12002,7 +12002,7 @@ LR	pol	alergia	n-f	ces	alergie	n-f
 	pol	kardiologia	n-f	ces	kardiologie	n-f
 	pol	kartografia	n-f	ces	kartografie	n-f
 	pol	kość	n-f$n	ces	kost	n-f
-	pol	krew	n-f$n$n-f-sg	ces	krev	n-f
+	pol	krew	n-f$n$n-f-sg	ces	krev	n-f$n
 	pol	kultura	n-f	ces	kultura	n-f
 	pol	lipa	n-f$n	ces	lípa	n-f
 	pol	lokomotywa	n-f$n	ces	lokomotiva	n-f
@@ -12019,8 +12019,8 @@ LR	pol	alergia	n-f	ces	alergie	n-f
 	pol	szyja	n-f$n	ces	šíje	n-f
 	pol	siła	n-f$n	ces	síla	n-f
 	pol	symulacja	n-f	ces	simulace	n-f
-LR	pol	strona	n-f$n	ces	strana	n-f
-	pol	środa	n-f$n	ces	středa	n-f
+LR	pol	strona	n-f$n	ces	strana	n-f$n
+	pol	środa	n-f$n	ces	středa	n-f$n
 	pol	teologia	n-f$n	ces	teologie	n-f
 	pol	trygonometria	n-f$n	ces	trigonometrie	n-f
 	pol	wieloryb	n-ma$n	ces	velryba	n-f
@@ -12028,7 +12028,7 @@ LR	pol	strona	n-f$n	ces	strana	n-f
 	pol	żółw	n-ma$n	ces	želva	n-f
 	pol	kobieta	n-f$n	ces	žena	n-f
 LR	pol	żona	n-f$n	ces	žena	n-f
-	pol	zima	n-f$n	ces	zima	n-f
+	pol	zima	n-f$n	ces	zima	n-f$n
 	pol	zoologia	n-f	ces	zoologie	n-f
 	pol	datować	vblex$vblex-imperf	ces	datovat	vblex-imperf
 	pol	kastrować	vblex-imperf	ces	kastrovat	vblex$vblex-imperf
@@ -12045,10 +12045,10 @@ LR	pol	żona	n-f$n	ces	žena	n-f
 	pol	daleki	adj-sint$adj	ces	daleký	adj-sint
 	pol	finansowy	adj	ces	finanční	adj
 	pol	urzędowy	adj	ces	úřední	adj
-	pol	człowiek	n-mp$n$n-mp-sg	ces	člověk	n-ma$n-ma-sg
+	pol	człowiek	n-mp$n$n-mp-sg	ces	člověk	n-ma$n-ma-sg$n
 	pol	ludzie	n-mp-pl$n-mp	ces	lidi	n-ma-pl$n-pl
 	pol	studium	n-nt	ces	studie	n-f
-	pol	dama	n-f$n	ces	dáma	n-f
+	pol	dama	n-f$n	ces	dáma	n$n-f
 	pol	dinozaur	n-ma$n	ces	dinosaurus	n-ma
 	pol	tyranozaur	n-ma	ces	tyranosaurus	n-ma
 	pol	alamozaur	n-ma	ces	alamosaurus	n-ma
@@ -12085,17 +12085,17 @@ LR	pol	żona	n-f$n	ces	žena	n-f
 	pol	waranozaur	n-ma	ces	varanosaurus	n-ma
 	pol	dobro	n-nt	ces	dobro	n-nt
 	pol	dobry	adj$adj-sint	ces	dobrý	adj-sint$adj
-	pol	demon	n-mp	ces	démon	n-ma
+	pol	demon	n-mp	ces	démon	n-ma$n
 	pol	delfin	n-ma$n	ces	delfín	n-ma
 	pol	dialog	n-mi$n	ces	dialog	n-mi
 	pol	doić	vblex	ces	dojit	vblex
 	pol	doktor	n-mp$n	ces	doktor	n-ma
 	pol	dokładność	n-f$n	ces	přesnost	n-f
-	pol	dom	n-mi$n	ces	dům	n-mi
+	pol	dom	n-mi$n	ces	dům	n-mi$n
 	pol	dopełniacz	n-mi	ces	genitiv	n-mi
 	pol	wiek	n-mi$n	ces	věk	n-mi
 	pol	dostępny	adj	ces	dostupný	adj$adj-sint
-	pol	drewno	n$n-nt	ces	dřevo	n-nt
+	pol	drewno	n$n-nt	ces	dřevo	n-nt$n
 	pol	dromader	n-ma$n	ces	dromedár	n-ma
 	pol	drożdże	n-nt	ces	droždí	n-nt
 	pol	dwójka	n-f$n	ces	dvojka	n-f
@@ -12109,13 +12109,13 @@ LR	pol	dymić	vblex	ces	kouřit	vblex
 	pol	sławny	adj-sint$adj	ces	slavný	adj
 	pol	słodzony	adj	ces	slazený	adj
 	pol	dzieciństwo	n-nt$n	ces	dětství	n-nt
-	pol	dziecko	n-nt$n	ces	dítě	n-nt
+	pol	dziecko	n-nt$n	ces	dítě	n-nt$n
 	pol	dziedzictwo	n-nt	ces	dědictví	n-nt
 	pol	chciwość	n-f	ces	lakomství	n-nt
 LR	pol	szkło	n-nt	ces	sklo	n-nt
-	pol	jabłko	n-nt$n	ces	jablko	n-nt
+	pol	jabłko	n-nt$n	ces	jablko	n-nt$n
 	pol	jabłko	n-nt$n	ces	ohryzek	n-mi
-	pol	imię	n-nt$n	ces	jméno	n-nt
+	pol	imię	n-nt$n	ces	jméno	n-nt$n
 	pol	liga	n-f$n	ces	liga	n-f
 	pol	viagra	n-f	ces	viagra	n-f
 	pol	kobaltyn	n-mi	ces	kobaltin	n-mi
@@ -12131,10 +12131,10 @@ LR	pol	szkło	n-nt	ces	sklo	n-nt
 LR	pol	zamożność	n-f	ces	bohatství	n-f
 	pol	bogatstwo	n-nt	ces	bohatství	n-f
 	pol	wojsko	n-nt$n	ces	vojsko	n-nt
-	pol	koło	n-nt$n	ces	kruh	n-mi
-	pol	przysłowie	n-nt	ces	přísloví	n-nt
+	pol	koło	n-nt$n	ces	kruh	n-mi$n
+	pol	przysłowie	n-nt	ces	přísloví	n-nt$n
 	pol	źródło	n-nt$n	ces	zdroj	n-mi
-LR	pol	abecadło	n-nt$n	ces	abeceda	n-f
+LR	pol	abecadło	n-nt$n	ces	abeceda	n-f$n
 	pol	światło	n-nt	ces	světlo	n-nt
 	pol	bezsenność	n-f$n	ces	insomnie	n-f
 	pol	agresywność	n-f	ces	agresivita	n-f
@@ -12189,7 +12189,7 @@ RL	pol	ludzkość	n-f$n	ces	lidstvo	n-nt
 	pol	śmieszność	n-f	ces	směšnost	n-f
 	pol	ciemność	n-f$n	ces	temnost	n-f
 	pol	czerwoność	n-f	ces	červenost	n-f
-	pol	jasność	n-f	ces	jasnost	n-f
+	pol	jasność	n-f	ces	jasnost	n-f$n
 	pol	międzynarodowy	adj	ces	mezinárodní	adj
 	pol	bielski	adj	ces	bílský	adj
 LR	pol	bielsko-bialski	adj	ces	bílský	adj
@@ -12272,7 +12272,7 @@ LR	pol	latynoski	adj	ces	latinský	adj
 	pol	żydowski	adj	ces	židovský	adj
 	pol	tematyczny	adj$adj-sint	ces	tematický	adj
 	pol	niemiecki	adj	ces	německý	adj
-	pol	nowy	adj-sint$adj	ces	nový	adj-sint$adj
+	pol	nowy	adj-sint$adj	ces	nový	adj$adj-sint
 	pol	jasny	adj-sint$adj	ces	jasný	adj-sint$adj
 	pol	sektor	n-mi	ces	sektor	n-mi
 	pol	projekt	n-mi$n	ces	projekt	n-mi
@@ -12281,18 +12281,18 @@ LR	pol	latynoski	adj	ces	latinský	adj
 	pol	tabu	n$n-nt	ces	tabu	n-mi
 	pol	salon	n-mi$n	ces	salon	n-mi
 LR	pol	reżym	n-mi	ces	režim	n-mi
-	pol	prawo	n-nt$n	ces	právo	n-nt
-	pol	inżynier	n-mp	ces	inženýr	n-ma
+	pol	prawo	n-nt$n	ces	právo	n-nt$n
+	pol	inżynier	n-mp	ces	inženýr	n-ma$n
 	pol	proces	n-mi$n	ces	proces	n-mi
-	pol	rano	n-nt$n	ces	ráno	n-nt
-	pol	piwo	n-nt$n	ces	pivo	n-nt
+	pol	rano	n-nt$n	ces	ráno	n-nt$n
+	pol	piwo	n-nt$n	ces	pivo	n-nt$n
 	pol	deklaracja	n-f$n	ces	deklarace	n-f
-	pol	nos	n-mi$n	ces	nos	n-mi
+	pol	nos	n-mi$n	ces	nos	n-mi$n
 	pol	papieros	n-mi$n	ces	cigareta	n-f
 	pol	cena	n-f$n	ces	cena	n-f$n
-	pol	woda	n-f$n	ces	voda	n-f
-	pol	rzeka	n-f$n	ces	řeka	n-f
-	pol	noc	n-f$n	ces	noc	n-f
+	pol	woda	n-f$n	ces	voda	n-f$n
+	pol	rzeka	n-f$n	ces	řeka	n-f$n
+	pol	noc	n-f$n	ces	noc	n-f$n
 	pol	kajak	n-mi$n	ces	kajak	n-mi
 	pol	dłoń	n-f$n	ces	dlaň	n-f
 	pol	antykomunizm	n-mi	ces	antikomunismus	n-mi
@@ -12577,7 +12577,7 @@ RL	pol	chrystianizacja	n-f	ces	kristianizace	n-f
 	pol	argon	n-mi$n	ces	argon	n-mi
 	pol	astronauta	n-mp	ces	astronaut	n-ma
 	pol	astronom	n-mp	ces	astronom	n-ma
-	pol	ciało	n-nt$n	ces	tělo	n-nt
+	pol	ciało	n-nt$n	ces	tělo	n-nt$n
 	pol	bohemistyka	n-f	ces	bohemistika	n-f
 	pol	bursztyn	n-mi	ces	jantar	n-mi
 	pol	bylina	n-f	ces	bylina	n-f
@@ -12598,12 +12598,12 @@ RL	pol	chrystianizacja	n-f	ces	kristianizace	n-f
 	pol	ichtiozaur	n-ma$n	ces	ichtyosaurus	n-ma
 	pol	idea	n-f$n	ces	idea	n-f
 	pol	ido	n-nt	ces	ido	n-nt
-	pol	kawa	n-f$n	ces	káva	n-f
+	pol	kawa	n-f$n	ces	káva	n-f$n
 	pol	kolaboracja	n-f	ces	kolaborace	n-f
 	pol	kosa	n-f$n	ces	kosa	n-f
 	pol	kretyn	n-mp$n	ces	kretén	n-ma
 	pol	ksenofobia	n-f	ces	xenofobie	n-f
-	pol	masło	n-nt$n	ces	máslo	n-nt
+	pol	masło	n-nt$n	ces	máslo	n-nt$n
 	pol	matematyka	n-f$n	ces	matematika	n-f
 	pol	meander	n-mi	ces	meandr	n-mi
 	pol	medium	n-nt	ces	médium	n-nt
@@ -12612,20 +12612,20 @@ RL	pol	chrystianizacja	n-f	ces	kristianizace	n-f
 	pol	mianownik	n-mi$n	ces	nominativ	n-mi
 	pol	mięso	n-nt$n	ces	maso	n-nt$n
 	pol	minerał	n-mi	ces	minerál	n-mi
-	pol	minuta	n-f$n	ces	minuta	n-f
+	pol	minuta	n-f$n	ces	minuta	n-f$n
 	pol	mocz	n-f	ces	moč	n-f
 	pol	monitor	n-mi$n	ces	monitor	n-mi
 	pol	morena	n-f	ces	moréna	n-f
 	pol	morze	n-nt$n	ces	moře	n-nt
 	pol	motocykl	n-mi$n	ces	motocykl	n-mi
 	pol	neologizm	n-mi	ces	neologismus	n-mi
-	pol	niedziela	n-f$n	ces	neděle	n-f
+	pol	niedziela	n-f$n	ces	neděle	n-f$n
 	pol	omnibus	n-mi	ces	omnibus	n-mi
-	pol	osoba	n-f	ces	osoba	n-f
+	pol	osoba	n-f	ces	osoba	n-f$n
 	pol	pacjent	n-mp$n	ces	pacient	n-ma
 	pol	pedosfera	n-f	ces	pedosféra	n-f
 	pol	platyna	n-f$n	ces	platina	n-f
-	pol	pochwa	n-f$n	ces	pochva	n-f
+	pol	pochwa	n-f$n	ces	pochva	n-f$n
 	pol	podpułkownik	n-mp	ces	podplukovník	n-ma
 	pol	radar	n-mi$n	ces	radar	n-mi
 	pol	radon	n-mi$n	ces	radon	n-mi
@@ -12633,37 +12633,37 @@ RL	pol	chrystianizacja	n-f	ces	kristianizace	n-f
 	pol	relacja	n-f$n	ces	relace	n-f
 	pol	romanistyka	n-f	ces	romanistika	n-f
 	pol	schizofrenia	n-f	ces	schizofrenie	n-f
-	pol	sekunda	n-f$n	ces	sekunda	n-f
+	pol	sekunda	n-f$n	ces	sekunda	n-f$n
 	pol	siano	n-nt$n	ces	seno	n-nt
-	pol	słońce	n-nt$n	ces	slunce	n-nt
+	pol	słońce	n-nt$n	ces	slunce	n-nt$n
 	pol	śmierć	n-f$n	ces	smrtka	n-f
-	pol	sobota	n-f$n	ces	sobota	n-f
+	pol	sobota	n-f$n	ces	sobota	n-f$n
 	pol	sosna	n-f$n	ces	borovice	n-f
 	pol	srebro	n-nt$n	ces	stříbro	n-nt
-	pol	stół	n-mi$n	ces	stůl	n-mi
+	pol	stół	n-mi$n	ces	stůl	n-mi$n
 	pol	stomatologia	n-f	ces	stomatologie	n-f
 LR	pol	subwencja	n-f	ces	subvence	n-f
-	pol	syn	n-mp$n	ces	syn	n-ma
+	pol	syn	n-mp$n	ces	syn	n-ma$n
 	pol	termopauza	n-f	ces	termopauza	n-f
 	pol	trójkąt	n-mi$n	ces	trojúhelník	n-mi
 	pol	trolejbus	n-mi$n	ces	trolejbus	n-mi
 	pol	tron	n-mi$n	ces	trůn	n-mi
 	pol	tundra	n-f$n	ces	tundra	n-f
-	pol	tydzień	n-mi$n	ces	týden	n-mi
+	pol	tydzień	n-mi$n	ces	týden	n-mi$n
 	pol	wanna	n-f$n	ces	vana	n-f
-	pol	wieś	n-f$n	ces	vesnice	n-f
-	pol	wilk	n-ma$n	ces	vlk	n-ma
+	pol	wieś	n-f$n	ces	vesnice	n-f$n
+	pol	wilk	n-ma$n	ces	vlk	n-ma$n
 	pol	wolność	n-f	ces	svoboda	n-f
 	pol	zdrowie	n-nt	ces	zdraví	n-nt
 	pol	parodontoza	n-f	ces	parodontóza	n-f
 	pol	zakrystia	n-f$n	ces	sakristie	n-f
 	pol	skurwysyn	n-mp	ces	zkurvysyn	n-ma
 	pol	sarkazm	n-mi	ces	sarkazmus	n-mi
-	pol	żelazo	n-nt$n	ces	železo	n-nt
+	pol	żelazo	n-nt$n	ces	železo	n-nt$n
 	pol	wanilia	n-f	ces	vanilka	n-f
-	pol	ucho	n-nt$n	ces	ucho	n-nt
+	pol	ucho	n-nt$n	ces	ucho	n-nt$n
 	pol	neurologia	n-f	ces	neurologie	n-f
-	pol	niebo	n-nt$n-nt-sg	ces	nebe	n-nt$n-nt-sg
+	pol	niebo	n-nt$n-nt-sg	ces	nebe	n-nt$n-nt-sg$n
 RL	pol	niebosa	n-nt-pl	ces	nebe	n-nt-pl
 	pol	niebosa	n-nt-pl	ces	nebesa	n-nt$n-nt-pl
 	pol	neon	n-mi$n	ces	neon	n-mi
@@ -12679,7 +12679,7 @@ RL	pol	niebosa	n-nt-pl	ces	nebe	n-nt-pl
 	pol	klarnet	n-mi$n	ces	klarinet	n-mi
 	pol	gram	n-mi	ces	gram	n-mi
 	pol	kapitan	n-mp	ces	kapitán	n-ma
-	pol	jezioro	n-nt$n	ces	jezero	n-nt
+	pol	jezioro	n-nt$n	ces	jezero	n-nt$n
 	pol	izobata	n-f	ces	izobáta	n-f
 	pol	izolinia	n-f	ces	izolinie	n-f
 	pol	jadalnia	n-f$n	ces	jídelna	n-f
@@ -12713,7 +12713,7 @@ LR	pol	bieda	n-f$n	ces	chudoba	n-f
 	pol	faktor	n-mi$n	ces	faktor	n-mi
 	pol	gigolo	n-mp	ces	gigolo	n-ma
 	pol	gleba	n-f	ces	půda	n-f
-	pol	grupa	n-f$n	ces	skupina	n-f
+	pol	grupa	n-f$n	ces	skupina	n-f$n
 	pol	guwernantka	n-f	ces	guvernantka	n-f
 	pol	immunitet	n-mi	ces	imunita	n-f
 	pol	karambol	n-mi	ces	karambol	n-mi
@@ -12737,7 +12737,7 @@ LR	pol	obywatel	n-mp$n	ces	obyvatel	n-ma
 	pol	ropa	n-f	ces	ropa	n-f
 	pol	rafineria	n-f	ces	rafinerie	n-f
 	pol	rafineria	n-f	ces	rafinérie	n-f
-RL	pol	sekunda	n-f$n	ces	vteřina	n-f
+RL	pol	sekunda	n-f$n	ces	vteřina	n-f$n
 	pol	kaligram	n-mi	ces	kaligram	n-mi
 	pol	satelita	n-ma	ces	družice	n-f
 RL	pol	źródło	n-nt$n	ces	vřídlo	n-nt
@@ -12762,11 +12762,11 @@ RL	pol	samochód	n-mi$n	ces	automobilka	n-f
 	pol	kompas	n-mi	ces	busola	n-f
 LR	pol	busola	n-f	ces	busola	n-f
 	pol	kompas	n-mi	ces	buzola	n-f
-	pol	byk	n-ma$n	ces	býk	n-ma
+	pol	byk	n-ma$n	ces	býk	n-ma$n
 	pol	metka	n-f	ces	cenovka	n-f
 	pol	sierżant	n-mp$n	ces	četař	n-ma
 	pol	chata	n-f$n	ces	chatka	n-f
-	pol	chłopiec	n-mp$n	ces	chlapec	n-ma
+	pol	chłopiec	n-mp$n	ces	chlapec	n-ma$n
 	pol	suka	n-f	ces	čubka	n-f
 RL	pol	penis	n-mi	ces	čurák	n-ma
 	pol	penis	n-mi	ces	penis	n-mi
@@ -12776,7 +12776,7 @@ LR	pol	tablica	n-f$n	ces	deska	n-f
 	pol	dianetyka	n-f	ces	dianetika	n-ma
 	pol	lądowanie	n-nt	ces	dopad	n-mi
 	pol	dorosły	n$n-mi	ces	dospělý	n-ma
-	pol	gatunek	n-mi$n	ces	druh	n-ma
+	pol	gatunek	n-mi$n	ces	druh	n-ma$n
 	pol	dynamo	n-nt$n	ces	dynamo	n-nt
 	pol	entuzjazm	n-mi$n	ces	enthusiasmus	n-mi
 	pol	fanka	n-f	ces	fanynka	n-f
@@ -12816,16 +12816,16 @@ RL	pol	komputer	n-mi$n	ces	komp	n-mi
 	pol	kompromis	n-mi	ces	konsenzus	n-mi
 	pol	kontrolka	n-f$n	ces	kontrolka	n-f
 	pol	kopa	n-f	ces	kopa	n-f
-	pol	korona	n-f$n	ces	koruna	n-f
+	pol	korona	n-f$n	ces	koruna	n-f$n
 	pol	kruk	n-ma$n	ces	krkavec	n-ma
-	pol	chleb	n-mi$n	ces	kruh	n-mi
+	pol	chleb	n-mi$n	ces	kruh	n-mi$n
 	pol	kilof	n-mi	ces	krumpáč	n-mi
 	pol	kazirodztwo	n-nt	ces	krvesmilstvo	n-nt
 	pol	kucharz	n-mp	ces	kuchař	n-ma
 	pol	kupka	n-f$n	ces	kupka	n-f
 	pol	dziwkarz	n-mp	ces	kurevník	n-ma
 	pol	prostopadłościan	n-mi	ces	kvádr	n-mi
-	pol	lek	n-mi	ces	lék	n-mi
+	pol	lek	n-mi	ces	lék	n-mi$n
 	pol	leszczyna	n-f$n	ces	líska	n-f
 	pol	łodyga	n-f$n	ces	lodyha	n-f
 	pol	łóżko	n-f	ces	lůžko	n-nt
@@ -12835,7 +12835,7 @@ RL	pol	komputer	n-mi$n	ces	komp	n-mi
 	pol	mezzosopranistka	n-f	ces	mezzosopranistka	n-f
 	pol	kochanka	n$n-f	ces	milenka	n-f
 	pol	miska	n-f$n	ces	miska	n-f
-	pol	miejsce	n-nt	ces	místo	n-nt
+	pol	miejsce	n-nt	ces	místo	n-nt$n
 	pol	moment	n-mi$n	ces	momentka	n-f
 	pol	przylądek	n-mi$n	ces	mys	n-mi
 	pol	nauka	n-f$n	ces	nauka	n-f
@@ -12856,7 +12856,7 @@ RL	pol	komputer	n-mi$n	ces	komp	n-mi
 	pol	smakołyk	n-mi$n	ces	pochoutka	n-f
 	pol	polisa	n-f	ces	pojistka	n-f
 	pol	źródło	n-mi	ces	pramen	n-mi
-	pol	przedmiot	n-mi$n	ces	předmět	n-mi
+	pol	przedmiot	n-mi$n	ces	předmět	n-mi$n
 	pol	prymityw	n-mi	ces	primitiv	n-ma
 	pol	prostytutka	n-f$n	ces	prostitutka	n-f
 	pol	rezygnacja	n-f	ces	rezignace	n-f
@@ -12870,7 +12870,7 @@ RL	pol	komputer	n-mi$n	ces	komp	n-mi
 	pol	sinologia	n-f	ces	sinologie	n-f
 	pol	szklanka	n-f$n	ces	sklenka	n-f
 	pol	kura	n-f$n	ces	slepice	n-f
-	pol	słowo	n-nt$n	ces	slovo	n-nt
+	pol	słowo	n-nt$n	ces	slovo	n-nt$n
 	pol	skórka	n-f$n	ces	slupka	n-f
 	pol	smoking	n-mi	ces	smokink	n-mi
 	pol	snob	n-mp	ces	snob	n-ma
@@ -12892,14 +12892,14 @@ LR	pol	tabelka	n-f	ces	tabulka	n-f
 	pol	topmodelka	n-f	ces	topmodelka	n-f
 	pol	topór	n-mi$n	ces	topůrko	n-nt
 	pol	dorsz	n-ma$n	ces	treska	n-f
-	pol	ruina	n-f$n	ces	troska	n-f
+	pol	ruina	n-f$n	ces	troska	n-f$n
 	pol	pewniak	n-mi	ces	tutovka	n-f
-	pol	twarz	n-f$n	ces	tvar	n-mi
+	pol	twarz	n-f$n	ces	tvar	n-mi$n
 	pol	typ	n-mi$n	ces	typ	n-mi
-	pol	zadanie	n-nt$n	ces	úkol	n-mi
+	pol	zadanie	n-nt$n	ces	úkol	n-mi$n
 	pol	muszla	n-f	ces	ulita	n-f
 	pol	ultimatum	n-nt	ces	ultimátum	n-nt
-	pol	sprawa	n-f$n	ces	věc	n-f
+	pol	sprawa	n-f$n	ces	věc	n-f$n
 	pol	ludzie	n-mp-pl$n-mp	ces	lidé	n-f
 	pol	wiewiórka	n-f	ces	veverka	n-f
 	pol	widelec	n-mi$n	ces	vilka	n-f
@@ -12912,7 +12912,7 @@ LR	pol	wuwuzela	n-f	ces	vuvuzela	n-f
 	pol	pojazd	n-mi$n	ces	vozidlo	n-nt
 	pol	bilet	n-mi$n	ces	vstupenka	n-f
 	pol	wtrącenie	n-nt	ces	vsuvka	n-f
-	pol	wagon	n-mi$n	ces	vůz	n-mi
+	pol	wagon	n-mi$n	ces	vůz	n-mi$n
 	pol	wyjątek	n-mi$n	ces	výjimka	n-f
 	pol	wysoczyzna	n-f	ces	vysočina	n-f
 	pol	wiatrówka	n-f	ces	vzduchovka	n-f
@@ -12920,7 +12920,7 @@ LR	pol	wuwuzela	n-f	ces	vuvuzela	n-f
 	pol	żołądź	n-mi$n	ces	žalud	n-mi
 	pol	zambo	n-mi	ces	zambo	n-ma
 LR	pol	reszta	n-f$n	ces	zbytek	n-mi
-	pol	ziemia	n-f$n	ces	země	n-f
+	pol	ziemia	n-f$n	ces	země	n-f$n
 	pol	glina	n-f$n	ces	hlinka	n-f
 	pol	zwierzę	n-nt$n	ces	hovado	n-nt
 	pol	próchno	n$n-nt	ces	hubka	n-f
@@ -12928,7 +12928,7 @@ LR	pol	reszta	n-f$n	ces	zbytek	n-mi
 	pol	jazgarz	n-ma	ces	ježdík	n-ma
 	pol	kartusz	n-mi	ces	kartuše	n-f
 	pol	ochrona	n-f	ces	ochranka	n-f
-	pol	kwiat	n-mi$n	ces	květina	n-f
+	pol	kwiat	n-mi$n	ces	květina	n-f$n
 	pol	szczawa	n-f	ces	kyselka	n-f$n
 	pol	papa	n-f$n	ces	lepenka	n-f
 	pol	karton	n-mi	ces	lepenka	n-f
@@ -12938,7 +12938,7 @@ LR	pol	reszta	n-f$n	ces	zbytek	n-mi
 	pol	ognisko	n-nt$n	ces	ohnisko	n-nt
 	pol	płotka	n-f	ces	plotice	n-f
 	pol	odczucie	n-nt$n	ces	pocit	n-mi
-	pol	sofa	n-f	ces	pohovka	n-f
+	pol	sofa	n-f	ces	pohovka	n-f$n
 	pol	ordynator	n-mp	ces	primář	n-ma
 	pol	pierwiastek	n$n-mi	ces	prvek	n-mi
 	pol	beza	n-f$n	ces	pusinka	n-f
@@ -13275,7 +13275,7 @@ LR	pol	zwierzęta gospodarskie	n	ces	dobytek	n-mi$n
 	pol	Mojżesz	np-ant-mp	ces	Mojžíš	np-ant-ma
 	pol	Morfeusz	np$np-ant-mp	ces	Morfeus	np-ant-ma
 	pol	Sokrates	np$np-ant-mp	ces	Sókratés	np-ant-ma
-	pol	Warszawa	np-top-f$np	ces	Varšava	np-top-f
+	pol	Warszawa	np-top-f$np	ces	Varšava	np-top-f$np
 	pol	Ekwador	np-top-mi$np	ces	Ekvádor	np-top-mi
 	pol	Cypr	np-top-mi$np	ces	Kypr	np-top-mi
 	pol	Gruzja	np-top-f$np	ces	Gruzie	np-top-f
@@ -13283,9 +13283,9 @@ LR	pol	zwierzęta gospodarskie	n	ces	dobytek	n-mi$n
 	pol	Erytrea	np-top-f$np	ces	Eritrea	np-top-f
 	pol	Daleki Wschód	np$np-top-mi	ces	Dálný Východ	np-top-mi
 	pol	Praga	np-top-f	ces	Praha	np-top-f
-	pol	Belgia	np-top-f$np	ces	Belgie	np-top-f
+	pol	Belgia	np-top-f$np	ces	Belgie	np-top-f$np
 	pol	Kanada	np-top-f$np	ces	Kanada	np-top-f
-	pol	Francja	np-top-f$np	ces	Francie	np-top-f
+	pol	Francja	np-top-f$np	ces	Francie	np-top-f$np
 	pol	Kosowo	np-top-nt-sg$np$np-top-nt	ces	Kosovo	np-top-nt-sg
 RL	pol	Kosowo	np-top-nt-sg$np$np-top-nt	ces	Kosovo	np-top-nt-pl
 	pol	Bielsko-Biała	np-top-nt	ces	Bílsko-Bělá	np-top-nt
@@ -13293,11 +13293,11 @@ RL	pol	Kosowo	np-top-nt-sg$np$np-top-nt	ces	Kosovo	np-top-nt-pl
 	pol	Toruń	np-top-mi	ces	Toruň	np-top-f
 	pol	Budapeszt	np-top-mi	ces	Budapešť	np-top-f
 	pol	Bangladesz	np-top-mi$np	ces	Bangladéš	np-top-mi
-	pol	Polska	np-top-f$np	ces	Polsko	np-top-nt
+	pol	Polska	np-top-f$np	ces	Polsko	np$np-top-nt
 	pol	Jamajka	np-top-f$np	ces	Jamajka	np-top-f
 	pol	Czechy	np-top-f-pl$np	ces	Česko	np-top-nt-sg
 RL	pol	Czechy	np-top-f-pl$np	ces	Česko	np-top-nt-pl
-	pol	Niemcy	np-top-f-pl$np	ces	Německo	np-top-nt$np-top-nt-sg
+	pol	Niemcy	np-top-f-pl$np	ces	Německo	np-top-nt$np$np-top-nt-sg
 RL	pol	Niemcy	np-top-f-pl$np	ces	Německo	np-top-nt-pl
 	pol	Węgry	np-top-f-pl$np$np-top-f	ces	Maďarsko	np-top-nt$np-top-nt-sg
 RL	pol	Węgry	np-top-f-pl$np$np-top-f	ces	Maďarsko	np-top-nt-pl
@@ -13644,7 +13644,7 @@ LR	pol	zbytnio	preadv	ces	příliš	preadv
 LR	pol	za	preadv	ces	příliš	preadv
 	pol	być	vbser	ces	být	vbser
 	pol	mieć	vbhaver$vbhaver-imperf	ces	mít	vbhaver-imperf$vbhaver-imperf-tv
-	pol	przyjść	vblex-perf$vblex	ces	přijít	vblex-perf
+	pol	przyjść	vblex-perf$vblex	ces	přijít	vblex-perf$vblex
 	pol	powinien	vaux	ces	povinen	vaux
 	pol	móc	vaux$vaux-imperf	ces	moci	vaux-imperf$vaux-imperf-tv
 	pol	musieć	vaux$vaux-imperf	ces	muset	vaux-imperf
@@ -13655,8 +13655,8 @@ RL	pol	można	vaux	ces	lze	vaux
 	pol	przeczytać	vblex-perf$vblex	ces	přečíst	vblex-perf$vblex
 	pol	wiedzieć	vblex$vblex-imperf	ces	vědět	vblex-imperf$vblex-imperf-tv
 	pol	chcieć	vblex$vblex-imperf	ces	chtít	vblex-imperf
-	pol	jeść	vblex-imperf$vblex	ces	jíst	vblex-imperf
-	pol	pić	vblex$vblex-imperf	ces	pít	vblex-imperf
+	pol	jeść	vblex-imperf$vblex	ces	jíst	vblex-imperf$vblex
+	pol	pić	vblex$vblex-imperf	ces	pít	vblex-imperf$vblex
 	pol	bić	vblex-imperf	ces	bít	vblex-imperf
 	pol	pobić	vblex-perf$vblex	ces	pobít	vblex-perf
 	pol	szyć	vblex$vblex-imperf	ces	šít	vblex$vblex-imperf
@@ -13664,10 +13664,10 @@ RL	pol	można	vaux	ces	lze	vaux
 	pol	siać	vblex$vblex-imperf	ces	sít	vblex$vblex-imperf
 	pol	zasiać	vblex-perf	ces	zasít	vblex-perf
 	pol	brać	vblex$vblex-imperf	ces	brát	vblex$vblex-imperf
-	pol	wziąć	vblex-perf$vblex	ces	vzít	vblex-perf
+	pol	wziąć	vblex-perf$vblex	ces	vzít	vblex-perf$vblex
 	pol	pojechać	vblex-perf$vblex	ces	projet	vblex-perf
 	pol	odpowiadać	vblex$vblex-imperf	ces	odpovídat	vblex-imperf
-	pol	odpowiedzieć	vblex-perf$vblex	ces	odpovědět	vblex-perf$vblex-perf-iv
+	pol	odpowiedzieć	vblex-perf$vblex	ces	odpovědět	vblex-perf$vblex$vblex-perf-iv
 	pol	oddać	vblex-perf$vblex	ces	oddát	vblex-perf
 	pol	oddawać	vblex-imperf	ces	oddávat	vblex-imperf
 	pol	dać	vblex$vblex-perf	ces	dát	vblex$vblex-perf
@@ -13676,7 +13676,7 @@ RL	pol	można	vaux	ces	lze	vaux
 LR	pol	obiecywać	vblex$vblex-imperf	ces	slibovat	vblex$vblex-imperf
 	pol	obiecać	vblex-perf$vblex	ces	slíbit	vblex-perf
 	pol	nosić	vblex$vblex-imperf	ces	nosit	vblex$vblex-imperf
-	pol	nieść	vblex$vblex-imperf	ces	nést	vblex-imperf
+	pol	nieść	vblex$vblex-imperf	ces	nést	vblex-imperf$vblex
 	pol	czyścić	vblex-imperf$vblex	ces	čistit	vblex$vblex-imperf
 	pol	sprzątać	vblex-impf$vblex	ces	čistit	vblex$vblex-imperf
 LR	pol	dopełnić	vblex-perf	ces	doplnit	vblex$vblex-perf
@@ -13744,7 +13744,7 @@ RL	pol	nr	abbr	ces	čís	abbr
 	pol	rep	abbr	ces	rep	abbr
 	pol	gen	n-mp	ces	gen	n-ma
 	pol	gen	n-f	ces	gen	n-f
-	pol	por	n-mp	ces	por	n-ma$n
+	pol	por	n-mp	ces	por	n-ma
 	pol	por	n-f	ces	por	n-f
 	pol	ppor	n$n-mp	ces	ppor	n-ma
 	pol	ppor	n-f	ces	ppor	n-f
@@ -13780,10 +13780,10 @@ RL	pol	nr	abbr	ces	čís	abbr
 	pol	wiolista	n-mp	ces	violista	n-ma
 	pol	wiola	n-f	ces	viola	n-f
 	pol	homiletyka	n-f	ces	homiletika	n-f
-	pol	język	n-mi$n	ces	jazyk	n-mi
+	pol	język	n-mi$n	ces	jazyk	n-mi$n
 	pol	metafizyka	n-f	ces	metafyzika	n-f
 	pol	narodowość	n-f$n	ces	národnost	n-f
-	pol	numer	n-mi$n	ces	číslo	n-nt
+	pol	numer	n-mi$n	ces	číslo	n-nt$n
 	pol	jpg	abbr	ces	jpg	abbr
 	pol	ascii	abbr	ces	ascii	abbr
 	pol	utf	abbr	ces	utf	abbr
@@ -13804,17 +13804,17 @@ RL	pol	nr	abbr	ces	čís	abbr
 	pol	akrobatyka	n-f	ces	akrobacie	n-f
 RL	pol	akrobatyka	n-f	ces	akrobatika	n-f
 	pol	bielizna	n-f$n	ces	prádlo	n-nt
-	pol	ból	n-mi$n	ces	bolest	n-f
+	pol	ból	n-mi$n	ces	bolest	n-f$n
 	pol	bractwo	n-nt	ces	bratrstvo	n-nt
 	pol	braterstwo	n-nt$n	ces	bratrstvo	n-nt
 	pol	gol	n-mi$n	ces	gól	n-mi
-	pol	cel	n-mi$n	ces	účel	n-mi
+	pol	cel	n-mi$n	ces	účel	n-mi$n
 	pol	chorał	n-mi	ces	chorál	n-mi
-	pol	list	n-mi$n	ces	dopis	n-mi
-	pol	badanie	n-nt$n	ces	pokus	n-mi
+	pol	list	n-mi$n	ces	dopis	n-mi$n
+	pol	badanie	n-nt$n	ces	pokus	n-mi$n
 	pol	doświadczenie	n-nt$n	ces	zkušenost	n-f
 	pol	podwórze	n-nt$n	ces	dvorek	n-mi
-	pol	dywan	n-mi$n	ces	koberec	n-mi
+	pol	dywan	n-mi$n	ces	koberec	n-mi$n
 	pol	granit	n-mi	ces	žula	n-f
 	pol	grób	n-mi	ces	hrob	n-mi
 	pol	groteskowość	n-f	ces	grotesknost	n-f
@@ -13829,7 +13829,7 @@ RL	pol	akrobatyka	n-f	ces	akrobatika	n-f
 	pol	marynarka	n-f	ces	námořnictvo	n-nt
 	pol	niezdolność	n-f	ces	neschopnost	n-f
 	pol	obóz	n-mi$n	ces	tábor	n-mi
-	pol	obraz	n-mi$n	ces	obraz	n-mi
+	pol	obraz	n-mi$n	ces	obraz	n-mi$n
 RL	pol	obraz	n-mi$n	ces	snímek	n-mi
 	pol	obrzęd	n-mi$n	ces	obřad	n-mi
 	pol	odkrycie	n-nt$n	ces	objev	n-mi
@@ -13872,14 +13872,14 @@ RL	pol	obraz	n-mi$n	ces	snímek	n-mi
 	pol	scholastyka	n-f	ces	scholastika	n-f
 	pol	segregator	n-mi	ces	deska	n-f
 	pol	semantyka	n-f	ces	sémantika	n-f
-	pol	ser	n-mi$n	ces	sýr	n-mi
+	pol	ser	n-mi$n	ces	sýr	n-mi$n
 	pol	siedziba	n-f$n	ces	sídlo	n-nt
 	pol	sierociniec	n-mi	ces	sirotčinec	n-mi
 	pol	skrzydło	n-nt$n	ces	křídlo	n-nt
 	pol	ślad	n-mi$n	ces	stopa	n-f
 	pol	slajd	n-mi$n	ces	snímek	n-mi
 	pol	soczewica	n-f	ces	čočka	n-f
-	pol	spółdzielnia	n-f	ces	družstvo	n-nt
+	pol	spółdzielnia	n-f	ces	družstvo	n-nt$n
 	pol	spotkanie	n-nt	ces	porada	n-f
 	pol	sprawiedliwość	n-f	ces	spravedlnost	n-f
 	pol	starość	n-f$n	ces	starost	n-f
@@ -13887,14 +13887,14 @@ RL	pol	obraz	n-mi$n	ces	snímek	n-mi
 	pol	ster	n-mi$n	ces	kormidlo	n-nt
 	pol	sum	n-ma	ces	sumec	n-ma
 	pol	świt	n-mi$n	ces	úsvit	n-mi
-	pol	sylaba	n-f	ces	slabika	n-f
+	pol	sylaba	n-f	ces	slabika	n$n-f
 	pol	synagoga	n-f$n	ces	synagoga	n-f
 	pol	latarnia morska	n$n-f	ces	maják	n-mi$n
 	pol	syrena	n-f$n	ces	siréna	n-f
 RL	pol	syrena	n-f$n	ces	ochechule	n-f
 	pol	systematyka	n-f	ces	systematika	n-f
 	pol	sztab	n-mi	ces	štáb	n-mi
-	pol	taniec	n-mi$n	ces	tanec	n-mi
+	pol	taniec	n-mi$n	ces	tanec	n-mi$n
 	pol	ton	n-mi	ces	tón	n-mi
 	pol	tygrys	n-ma$n	ces	tygr	n-ma
 	pol	uczestnictwo	n-nt	ces	účast	n-f
@@ -13903,7 +13903,7 @@ RL	pol	syrena	n-f$n	ces	ochechule	n-f
 	pol	użyteczność	n-f	ces	užitečnost	n-f
 	pol	użytek	n-mi	ces	užitek	n-mi
 	pol	użytkownik	n-mp	ces	uživatel	n-ma
-	pol	wina	n-f	ces	vina	n-f
+	pol	wina	n-f	ces	vina	n-f$n
 	pol	właściwość	n-f$n	ces	vlastnost	n-f
 	pol	własność	n-f	ces	vlastnost	n-f
 	pol	wsparcie	n-nt$n	ces	podpora	n-f
@@ -13922,7 +13922,7 @@ RL	pol	syrena	n-f$n	ces	ochechule	n-f
 	pol	atak	n-mi	ces	ataka	n-f
 	pol	banda	n-f$n	ces	mantinel	n-mi
 	pol	baran	n-ma	ces	beran	n-ma
-	pol	bażant	n-ma$n	ces	bažant	n-ma
+	pol	bażant	n-ma$n	ces	bažant	n-ma$n
 	pol	bioluminescencja	n-f	ces	bioluminiscence	n-f
 	pol	blondyn	n-mp$n	ces	blondýn	n-ma
 	pol	bombowiec	n-mi	ces	bombardér	n-ma
@@ -14017,7 +14017,7 @@ RL	pol	piłka	n-f$n	ces	míč	n-mi
 	pol	taśma	n-f$n	ces	páska	n-f
 	pol	technikum	n-nt	ces	průmyslovka	n-f
 	pol	trener	n-mp$n	ces	kouč	n-ma
-	pol	trybuna	n-f	ces	tribuna	n-f
+	pol	trybuna	n-f	ces	tribuna	n-f$n
 	pol	uczennica	n-f	ces	školačka	n-f
 	pol	uczennica	n-f	ces	žačka	n-f
 	pol	uczta	n-f	ces	hostina	n-f
@@ -14030,7 +14030,7 @@ RL	pol	piłka	n-f$n	ces	míč	n-mi
 	pol	zjadliwość	n-f	ces	virulence	n-f
 LR	pol	zjawisko	n-nt	ces	fenomén	n-ma
 	pol	fenomen	n-mi	ces	fenomén	n-ma
-	pol	znak	n-mi$n	ces	znamení	n-mi
+	pol	znak	n-mi$n	ces	znamení	n-mi$n
 	pol	cierpienie	n-nt	ces	utrpení	n-nt
 	pol	genom	n-mi	ces	genom	n-mi
 	pol	grom	n-mi$n	ces	hrom	n-mi

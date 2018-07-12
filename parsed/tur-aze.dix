@@ -100,16 +100,16 @@
 	tur	üzere	postp	aze	üzre	postp
 	tur	takdirde	postp	aze	təqdirdə	postp
 	tur	birlikte	postp	aze	birlikdə	postp
-	tur	kendi	prn$prn-ref$$prn-ref-px3sp	aze	öz	$prn
+	tur	kendi	prn-ref$prn$$prn-ref-px3sp	aze	öz	$prn
 	tur	nere	prn-locp	aze	hara	prn
 	tur	hangi	prn-qst	aze	hansı	prn
 	tur	bura	prn-locp	aze	bura	$prn
 	tur	bu	det-dem$det$det-dem-qnt	aze	bu	det
-	tur	bazı	det-qnt$det	aze	bəzi	$det
+	tur	bazı	det-qnt$det$	aze	bəzi	$det
 	tur	bir	det-ind$det	aze	bir	det$
 	tur	her	det$det-dem	aze	hər	det
 	tur	tek	det$det-ind	aze	tək	$det
-	tur	hiçbir	det-qnt$det	aze	heç bir	det
+	tur	hiçbir	det$det-qnt	aze	heç bir	det
 	tur	herhangi bir	det$det-ind	aze	hər hansı bir	det
 	tur	diğer	det$det-ind	aze	digər	$det
 	tur	bütün	det-qnt$det	aze	bütün	$det
@@ -245,7 +245,7 @@
 	tur	ağustos	n$	aze	avgust	
 	tur	ahlak	n$	aze	əxlag	
 	tur	aile	n$	aze	ailə	
-	tur	ait	post$	aze	aid	$postp
+	tur	ait	adj$	aze	aid	$postp
 	tur	ajan	n$	aze	agent	
 	tur	ajans	n$	aze	agentlik	
 	tur	ak	n$	aze	ağ	
@@ -647,12 +647,12 @@
 	tur	dershane	n$	aze	sinif	
 	tur	ders	n$	aze	dərs	
 	tur	dert	n$	aze	dərd	
-	tur	derviş	$n	aze	dərviş	
+	tur	derviş	n$	aze	dərviş	
 	tur	desen	n$	aze	naxıs	
 	tur	destan	n$	aze	dastan	
 	tur	destani		aze	epik	
 	tur	destek	n$	aze	dayag	
-	tur	detay	$n	aze	təfərrüat	
+	tur	detay	n$	aze	təfərrüat	
 	tur	devam	n$	aze	davam	
 	tur	deve	n$	aze	dəvə	
 	tur	dev	n$	aze	div	
@@ -743,7 +743,7 @@
 	tur	engel	n$	aze	əngel	
 	tur	enternasyonal	n$	aze	beynəlqalg	
 	tur	entrika	n$	aze	intriga	
-	tur	erdem	$n	aze	fəzilət	
+	tur	erdem	n$	aze	fəzilət	
 	tur	er	n$	aze	mərd	
 	tur	erik	n$	aze	alça	
 	tur	erkek	n$	aze	kişi	
@@ -1007,7 +1007,7 @@
 	tur	heykeltıraş	$n	aze	heykəltəraş	
 	tur	hibe	n$	aze	bağışlama	
 	tur	hiciv	n$	aze	həcv	
-	tur	hidayet		aze	hidayət	
+	tur	hidayet	$n	aze	hidayət	
 	tur	hiddet	$n	aze	hiddət	
 	tur	hikaye	n$	aze	hekayə	
 	tur	hikmet	n$	aze	hikmət	
@@ -1635,7 +1635,7 @@
 	tur	mezhep	n$	aze	məzhəb	
 	tur	meziyet	$n	aze	məziyyət	
 	tur	mezun	n$	aze	mə'zun	
-	tur	mide	unk$	aze	mədə	
+	tur	mide	n$	aze	mədə	
 	tur	midye	$n	aze	baliggullağı	
 	tur	miğfer		aze	dəbilgə	
 	tur	mihenk		aze	məhək	
@@ -1807,7 +1807,7 @@
 	tur	nihai	adj$	aze	ən	$adv
 	tur	nihayet	n$	aze	nəhayət	
 	tur	nikah	n$	aze	nikah	
-	tur	nimet	$n	aze	ne'mət	
+	tur	nimet	n$	aze	ne'mət	
 	tur	nişan	n$	aze	nişan	
 	tur	nisan	n$	aze	aprel	
 	tur	nitelik	n$	aze	qarakteristika	
@@ -2084,7 +2084,7 @@
 	tur	sarnıç	$n	aze	yer	
 	tur	sarsıntı	n$	aze	sarsıntı	
 	tur	şart	n$$n-pl	aze	şərt	
-	tur	şaşkın		aze	şaşgın	
+	tur	şaşkın	$adj	aze	şaşgın	
 	tur	satıcı	n$	aze	satıcı	
 	tur	satıh		aze	səth	
 	tur	satır	$adj	aze	sətir	
@@ -2375,7 +2375,7 @@
 	tur	tehdit	n$	aze	təhdid	
 	tur	tehir		aze	tə'qir	
 	tur	tehlike	n$	aze	təhlükə	
-	tur	tekbir		aze	təkbir	
+	tur	tekbir	$n	aze	təkbir	
 	tur	tekel	$n	aze	müstəmləkə	
 	tur	tekerlek	unk$	aze	təkər	
 	tur	tekke		aze	dərviş	
@@ -2509,7 +2509,7 @@
 	tur	unvan	n$	aze	titul	
 	tur	üretim	n$	aze	istehsal	
 	tur	üs	n$	aze	baza	
-	tur	üslup	$n	aze	üslub	
+	tur	üslup	n$	aze	üslub	
 	tur	usta	n$	aze	usta	
 	tur	üstat	n$	aze	ustad	
 	tur	üst	n$	aze	üst	
@@ -2542,7 +2542,7 @@
 	tur	varis	n$	aze	varis	
 	tur	varlık	n$	aze	varlıg	
 	tur	varsayım	$n	aze	fərziyyə	
-	tur	vasıf	$n	aze	vəsf	
+	tur	vasıf		aze	vəsf	
 	tur	vasiyet	n$	aze	vəsiyyət	
 	tur	vatan	n$	aze	vətən	
 	tur	vasiyetname	$n	aze	vasiyyətnamə	
@@ -2714,7 +2714,7 @@
 	tur	zıkkım		aze	zaggum	
 	tur	zil	n$	aze	zəng	
 	tur	zımnı		aze	gizladilmiş	
-	tur	zina	$n	aze	zina	
+	tur	zina	n$	aze	zina	
 	tur	zincir	n$	aze	zəncir	
 	tur	zindan	n$	aze	zindan	
 	tur	zinde		aze	gümrah	
@@ -2765,7 +2765,7 @@
 	tur	terör	n$	aze	terrorçuluq	
 	tur	gazete	n$	aze	qəzet	
 	tur	balkan	$n	aze	balkan	
-	tur	günlük	adj$	aze	gündelik	
+	tur	günlük	n$	aze	gündelik	
 	tur	yapma	n$	aze	etme	
 	tur	soruşturma	n$	aze	istintaq	
 	tur	enerji	n$	aze	enerji	
@@ -2773,7 +2773,7 @@
 	tur	büyükelçi	n$	aze	səfir	
 	tur	demokratik	adj$	aze	demokratik	
 	tur	general	n$	aze	general	
-	tur	mali	n$	aze	maliyye	
+	tur	mali	adj$	aze	maliyye	
 	tur	dahil	n$	aze	daxil	
 	tur	faaliyet	n$	aze	fəaliyyət	
 	tur	standart	n$	aze	standart	
@@ -2788,7 +2788,7 @@
 	tur	rol	n$	aze	rol	
 	tur	genişleme	n$	aze	genişlenme	
 	tur	sektör	n$	aze	sektor	
-	tur	kendi	prn$prn-ref$$prn-ref-px3sp	aze	öz	$prn
+	tur	kendi	prn-ref$prn$$prn-ref-px3sp	aze	öz	$prn
 	tur	ulusal	adj$	aze	milli	
 	tur	kes	v-tv$$v	aze	kəs	$v
 	tur	kalkma		aze	qalxma	
@@ -3506,10 +3506,10 @@
 	tur	alım	n$	aze	alış	v$
 	tur	bağlam	n$	aze	məzmun	
 	tur	yok	adj$	aze	yox	$nexist
-	tur	biri	prn-ind$$prn	aze	biri	
+	tur	biri	prn-ind$$prn$prn-ind-px3pl-nom	aze	biri	
 	tur	söylem	n$	aze	ifadə	
 	tur	sayım	n$	aze	sayma	
-	tur	kıyas	$n	aze	müqayisə	
+	tur	kıyas	n$	aze	müqayisə	
 	tur	sürücü	n$	aze	sürücü	
 	tur	hep	adv$	aze	həmişə	adv$
 	tur	güvenilir	adj$	aze	etibarlı	
@@ -3537,7 +3537,7 @@
 	tur	atölye	n$	aze	atelye	
 	tur	alıcı	n$	aze	oxşayan	
 	tur	kit	n$	aze	kit	
-	tur	cinsel	$n	aze	cinsi	
+	tur	cinsel	adj$	aze	cinsi	
 	tur	kamera	n$	aze	fotoaparat	
 	tur	dijital	$n	aze	rəqəmli	
 	tur	sekiz	num$	aze	səkkiz	$num
@@ -3770,7 +3770,7 @@
 	tur	karantina	n$	aze	karantin	
 	tur	hijyen	n$	aze	gigiyena	
 	tur	ilişkin	adj$	aze	bağlı	
-	tur	bazı	adj$	aze	bəzi	$det
+	tur	bazı	det-qnt$det$	aze	bəzi	$det
 	tur	tiran	$n	aze	tiran	
 	tur	sosyal	adj$	aze	ictimai	
 	tur	kamu	n$	aze	ümumxalq	
@@ -3966,7 +3966,7 @@
 	tur	öyle	adv$	aze	elə	$adv
 	tur	görkemli	adj$	aze	görkəmli	
 	tur	gönül	n$	aze	könül	
-	tur	yenik	$adj	aze	tar-mar	
+	tur	yenik	adj$	aze	tar-mar	
 	tur	tazyik		aze	təcililik	
 	tur	sözkonusu	$adj	aze	mövzu	
 	tur	nadir	adj$	aze	nadir	$adv
@@ -4156,7 +4156,7 @@
 	tur	korkak	unk$	aze	qorxaq	
 	tur	konserve	$n	aze	konserv	
 	tur	kocaman	adj$	aze	azman	
-	tur	kabadayı	adj$	aze	qoçu	
+	tur	kabadayı	n$	aze	qoçu	
 	tur	ızgara	$n	aze	raşper	
 	tur	ıssız	adj$	aze	issız	
 	tur	irticai	$adj	aze	irticaçı	
@@ -4181,7 +4181,7 @@
 	tur	yaramaz	adj$	aze	yaramaz	
 	tur	torlak		aze	torlak	
 	tur	tükenmez	$adj	aze	tükənməz	
-	tur	bazı	adj$	aze	bəzi	$det
+	tur	bazı	det-qnt$det$	aze	bəzi	$det
 	tur	babacan	adj$	aze	babacan	
 	tur	kadarki		aze	kadarki	
 	tur	ela	$adj	aze	ela	
@@ -4778,7 +4778,7 @@
 	tur	rafting		aze	rafting	
 	tur	palmiye	$n	aze	palma	
 	tur	kördüğüm		aze	dalan	
-	tur	klip		aze	klip	
+	tur	klip	$n	aze	klip	
 	tur	karmaşa	$n	aze	qarışıqlıq	
 	tur	karaborsa		aze	qara bazar	
 	tur	kafeterya	n$	aze	kafe	
@@ -4936,7 +4936,7 @@
 	tur	sinemasever		aze	sinemasever	
 	tur	simgesel		aze	simvolik	
 	tur	silme	$n	aze	silmə	
-	tur	şevket	$n	aze	şevket	
+	tur	şevket	n$	aze	şevket	
 	tur	sansasyonel		aze	sensasional	
 	tur	sam		aze	sam	
 	tur	sak	$n	aze	gövdə	
@@ -5527,8 +5527,8 @@
 	tur	Zagrep	np-top	aze	Zaqreb	np
 	tur	Ana	np-ant-f$np-ant	aze	Ana	np
 	tur	Ahmet	np-ant-m$np-ant$np	aze	Ahmet	np
-	tur	Hegel	np	aze	Hegel	np
-	tur	Hitler	np-cog$np	aze	Hitler	np
+	tur	Hegel	np$np-cog-mf	aze	Hegel	np
+	tur	Hitler	np-cog$np$np-cog-mf	aze	Hitler	np
 	tur	Sezgi	np	aze	Sezgi	np
 	tur	Kaddafi	np$np-cog-mf	aze	Qəzzafi	np
 	tur	Putin	np-cog-mf$np$np-cog	aze	Putin	np
@@ -5663,7 +5663,7 @@
 	tur	Öcalan	np	aze	Öcalan	np
 	tur	Alexander	np$np-ant$np-ant-m	aze	Alexander	np
 	tur	Schröder	np	aze	Schröder	np
-	tur	Microsoft	np	aze	Microsoft	np
+	tur	Microsoft	np$np-org	aze	Microsoft	np
 	tur	Jacques	np	aze	Jacques	np
 	tur	Dünya	np	aze	Dünya	np
 	tur	Pekin	np-top$np	aze	Pekin	np
@@ -5740,7 +5740,7 @@
 	tur	Nazi	np	aze	Nazi	np
 	tur	Hakkari	np	aze	Hakkari	np
 	tur	Deniz	np	aze	Deniz	np
-	tur	Nokia	np	aze	Nokia	np
+	tur	Nokia	np$np-org	aze	Nokia	np
 	tur	Barzani	np	aze	Barzani	np
 	tur	Ordu	np	aze	Ordu	np
 	tur	Konstantin	np-ant-m$np$np-ant	aze	Konstantin	np
@@ -5767,7 +5767,7 @@
 	tur	Nejat	np	aze	Nejat	np
 	tur	Münih	np-top$np	aze	Münih	np
 	tur	Genc	np	aze	Genc	np
-	tur	Gazze	np	aze	Gazze	np
+	tur	Gazze	np$np-top	aze	Gazze	np
 	tur	Ecevit	np	aze	Ecevit	np
 	tur	Brown	np$np-cog	aze	Brown	np
 	tur	İsmail	np-ant-m$np$np-ant	aze	İsmail	np
@@ -5867,7 +5867,7 @@
 	tur	Maksim	np-ant-m$np$np-ant	aze	Maksim	np
 	tur	Kazan	np-top$np	aze	Kazan	np
 	tur	Işık	np	aze	Işık	np
-	tur	Enes	np	aze	Enes	np
+	tur	Enes	np$np-ant-m	aze	Enes	np
 	tur	Abdüllatif	np$np-ant	aze	Abdüllatif	np
 	tur	Yasin	np$np-ant-m	aze	Yasin	np
 	tur	Ulaş	np	aze	Ulaş	np
@@ -6122,7 +6122,7 @@
 	tur	Karin	np	aze	Karin	np
 	tur	Helen	np	aze	Helen	np
 	tur	Harvard	np	aze	Harvard	np
-	tur	Gazze	np	aze	Gazze	np
+	tur	Gazze	np$np-top	aze	Gazze	np
 	tur	Fenerbahçe	np$np-org	aze	Fenerbahçe	np
 	tur	Fehmi	np	aze	Fehmi	np
 	tur	Faysal	np	aze	Faysal	np
@@ -6387,7 +6387,7 @@
 	tur	Harris	np	aze	Harris	np
 	tur	Haluk	np	aze	Haluk	np
 	tur	Güce	np	aze	Güce	np
-	tur	Furkan	np	aze	Furkan	np
+	tur	Furkan	np$np-ant-m	aze	Furkan	np
 	tur	François	np	aze	François	np
 	tur	Fikret	np	aze	Fikret	np
 	tur	Ferid	np	aze	Ferid	np
@@ -6655,7 +6655,7 @@
 	tur	Akyürek	np	aze	Akyürek	np
 	tur	Aktaş	np	aze	Aktaş	np
 	tur	Ahter	np	aze	Ahter	np
-	tur	Abdülaziz	np$np-ant$np-ant-m	aze	Abdülaziz	np
+	tur	Abdülaziz	np-ant-m$np$np-ant	aze	Abdülaziz	np
 	tur	Abasıyanık	np	aze	Abasıyanık	np
 	tur	Zürih	np	aze	Zürih	np
 	tur	Zülküf	np	aze	Zülküf	np
@@ -7239,7 +7239,7 @@
 	tur	geri	adv$	aze	geri	$adv
 	tur	fazla	adv	aze	çox	adv$
 	tur	öte	adv$	aze	kənar	$adv
-	tur	ne	adv$adv-itg	aze	nə	adv
+	tur	ne	adv-itg$adv	aze	nə	adv
 	tur	yalnızca	adv	aze	yalnız	adv$
 	tur	yine	adv	aze	yenə	adv
 	tur	az	adv	aze	az	$adv
@@ -7725,7 +7725,7 @@
 	tur	hızlan	v-iv$v	aze	sürətlən	v
 	tur	inan	v-tv$v	aze	inan	v
 	tur	yarala	v-tv$v	aze	yarala	v
-	tur	uy	v$v-iv	aze	uy	v
+	tur	uy	v-iv$v	aze	uy	v
 	tur	nitelendir	v$v-tv	aze	fərqləndir	v
 	tur	çöz	v-tv$v$v-tv-neg	aze	qərar	v
 	tur	geliş	v-iv$v	aze	gəliş	v
@@ -8077,7 +8077,7 @@
 	tur	mahvet	v-tv$v	aze	məhv et	v
 	tur	lanetle	v$v-tv	aze	lənətlən	v
 	tur	kutsa	v-tv$v	aze	xeyir-dua ver	v
-	tur	ispatla	v$v-tv	aze	isbatla	v
+	tur	ispatla	v-tv$v	aze	isbatla	v
 	tur	dizginle	v-tv$v	aze	saxla	v
 	tur	çürü	v-tv$v	aze	çürü	v
 	tur	cezala	v$v-iv	aze	cəzala	v

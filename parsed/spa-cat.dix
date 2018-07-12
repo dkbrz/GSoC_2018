@@ -608,7 +608,7 @@ RL	spa	indirecto	adj-GD-pl	cat	indirecte	adj-mf-pl$adj$
 	spa	insoportable	adj$adj-mf$adj-mf-sg	cat	insuportable	adj$adj-mf$
 	spa	insuficiente	adj-mf$adj-mf-ND$adj	cat	insuficient	adj$adj-mf$
 	spa	intelectual	adj-mf$adj$adj-mf-ND	cat	intel·lectual	adj$adj-mf$
-	spa	inteligente	adj-mf$adj-mf-ND$adj	cat	intel·ligent	adj$adj-mf$
+	spa	inteligente	adj-mf$adj$adj-mf-ND	cat	intel·ligent	adj$adj-mf$
 	spa	intenso	adj$adj-GD-ND$adj-GD	cat	intens	adj$$adj-sup
 	spa	interesante	adj-mf$adj$adj-mf-pl	cat	interessant	adj$adj-mf$
 	spa	interior	adj-mf$adj$adj-mf-sg	cat	interior	adj-mf$adj
@@ -677,7 +677,7 @@ RL	spa	malo	adj$adj-GD-ND	cat	roí	adj$
 	spa	mariano	adj$adj-m-sg	cat	marià	adj
 RL	spa	marino	adj$adj-GD-ND	cat	marès	adj$
 	spa	marino	adj$adj-GD-ND	cat	marí	adj$
-	spa	marrón	adj$adj-mf$adj-mf-ND$	cat	marró	adj$adj-mf$
+	spa	marrón	adj-mf$adj$adj-mf-ND$	cat	marró	adj$adj-mf$
 	spa	marxista	adj$adj-mf-sg$adj-mf	cat	marxista	adj$adj-mf
 	spa	masculino	adj$adj-GD-ND	cat	masculí	adj$
 	spa	masivo	adj$adj-GD-ND	cat	massiu	adj$$adj-GD-ND
@@ -733,7 +733,7 @@ RL	spa	moreno	adj$adj-m-sg$	cat	morè	adj$
 	spa	musical	adj$adj-mf$adj-mf-pl	cat	musical	adj$adj-mf$
 	spa	musulmán	adj$adj-m-sg	cat	musulmà	adj$
 	spa	mutuo	adj$adj-GD-ND$adj-GD	cat	mutu	adj$adj-GD$
-	spa	nacional	adj$adj-mf$adj-mf-pl	cat	nacional	adj$adj-mf$
+	spa	nacional	adj-mf$adj$adj-mf-pl	cat	nacional	adj$adj-mf$
 	spa	nacionalista	adj$adj-mf$adj-mf-sg	cat	nacionalista	adj$adj-mf
 	spa	natural	adj-mf$adj$adj-mf-ND$	cat	natural	adj$adj-mf$
 	spa	necesario	adj$adj-GD-ND$adj-GD	cat	necessari	adj$$adj-GD-ND
@@ -774,7 +774,7 @@ LR	spa	ochentavo	adj$adj-m-sg	cat	vuitantè	adj$adj-ord$adj-ord-GD-ND
 	spa	octogésimo	adj$adj-m-sg	cat	vuitantè	adj$adj-ord$adj-ord-GD-ND
 	spa	oculto	adj$adj-GD$adj-GD-ND	cat	ocult	adj$
 	spa	ofensivo	adj$adj-GD$adj-GD-ND	cat	ofensiu	adj$
-	spa	oficial	adj$adj-mf$adj-mf-pl	cat	oficial	adj$adj-mf$
+	spa	oficial	adj-mf$adj$adj-mf-pl	cat	oficial	adj$adj-mf$
 	spa	opaco	adj$adj-GD-ND	cat	opac	adj$
 RL	spa	oportuno	adj$adj-GD-ND$adj-GD	cat	escaient	adj-mf$
 	spa	oportuno	adj$adj-GD-ND$adj-GD	cat	oportú	adj$
@@ -1030,7 +1030,7 @@ RL	spa	grande	adj-sup	cat	fadrí	adj$$adj-sup
 	spa	sorprendente	adj$adj-mf$adj-mf-pl	cat	sorprenent	adj-mf$adj$
 	spa	sospechoso	adj$adj-GD-ND$	cat	sospitós	adj$
 	spa	soviético	adj$adj-GD$adj-GD-ND	cat	soviètic	adj$
-	spa	suave	adj-mf$adj-mf-ND$adj	cat	suau	adj$adj-mf$$adj-mf-ND
+	spa	suave	adj-mf$adj$adj-mf-ND	cat	suau	adj$adj-mf$$adj-mf-ND
 LR	spa	súbito	adj$adj-GD-ND	cat	sobtat	adj$$adj-sup
 	spa	subterráneo	adj$adj-GD-ND$	cat	subterrani	adj$
 	spa	sucesivo	adj$adj-GD-ND	cat	successiu	adj$
@@ -1491,16 +1491,16 @@ LR	spa	ya que	cnjadv	cat	ja que	cnjadv
 RL	spa	justo es decir	cnjcoo	cat	val a dir	cnjcoo
 	spa	que	cnjsub	cat	que	cnjsub
 RL	spa	que no	cnjsub	cat	que no pas	cnjsub
-	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl	cat	algun	det$det-ind$det-ind-m-sg$det-ind-m
+	spa	alguno	det-ind$det$det-ind-m-pl$det-ind-m	cat	algun	det$det-ind$det-ind-m-sg$det-ind-m
 LR	spa	otro	det-ind-f-sg$det-ind-f	cat	un altre	det-ind-f-sg$det$det-ind
-LR	spa	otro	det-ind-m-sg$det-ind$det$det-ind-m	cat	un altre	det-ind-m-sg
-RL	spa	otro	det-ind-m-sg$det-ind$det$det-ind-m	cat	un altre	det-ind-f-sg$det$det-ind
+LR	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m	cat	un altre	det-ind-m-sg
+RL	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m	cat	un altre	det-ind-f-sg$det$det-ind
 LR	spa	otro	det-ind-m-pl	cat	altre	det-ind-mf-pl$det$$det-ind
 LR	spa	otro	det-ind-f-pl	cat	altre	det-ind-mf-pl$det$$det-ind
 RL	spa	otro	det-ind-GD-pl	cat	altre	det-ind-mf-pl$det$$det-ind
 RL	spa	otro	det-ind-GD$det-ind-GD-ND	cat	d'altres	det-ind-mf$det-ind-mf-pl
 RL	spa	otro	det-ind-f-sg$det-ind-f	cat	altre	det-ind-f-sg
-RL	spa	otro	det-ind-m-sg$det-ind$det$det-ind-m	cat	altre	det-ind-m-sg
+RL	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m	cat	altre	det-ind-m-sg
 LR	spa	demás	det$det-ind$det-ind-mf-sp	cat	altre	det-ind-GD-ND
 	spa	ese	det$det-dem$det-dem-m-sg	cat	aqueix	det$det-dem
 	spa	aquel	det$det-dem-GD$det-dem$det-dem-GD-ND	cat	aquell	det$det-dem$det-dem-f-sg
@@ -1554,7 +1554,7 @@ LR	spa	otros tantos	det-ind-m	cat	d'altres	det-ind-mf$det-ind-mf-pl
 	spa	uno tras otro	adv	cat	un darrere l'altre	adv
 RL	spa	uno tras otro	adv	cat	l'un darrere l'altre	adv
 	spa	tras otro	adv	cat	darrere l'altre	adv
-	spa	uno	det-ind-m-sg$det$det-ind$det-ind-m	cat	un	det-ind-m-pl$det$det-ind
+	spa	uno	det-ind$det-ind-m-sg$det$det-ind-m	cat	un	det-ind-m-pl$det$det-ind
 	spa	veintiuno	det$det-def	cat	vint-i-un	det$det-def
 	spa	treinta y uno	det$det-def	cat	trenta-un	det$det-def
 	spa	cuarenta y uno	det$det-def	cat	quaranta-un	det$det-def
@@ -1831,7 +1831,7 @@ RL	spa	árbitro	n-GD$n-GD-pl	cat	àrbitre	n-mf-pl$n-mf$n
 	spa	argentino	n$n-m	cat	argentí	n$n-m
 	spa	argumento	n-m$n$n-m-ND	cat	argument	n-m$n
 	spa	armamento	n-m$n$n-m-sg	cat	armament	n-m$n
-	spa	arma	n$n-f$n-f-sg	cat	arma	n-f$n$n-f-pl
+	spa	arma	n-f$n$n-f-sg	cat	arma	n-f$n$n-f-pl
 	spa	armario	n-m$n$n-m-sg	cat	armari	n-m$n
 	spa	armonía	n-f$n$n-f-ND	cat	harmonia	n-f$n
 	spa	aroma	n-m$n$n-m-ND	cat	aroma	n-f$n
@@ -1973,7 +1973,7 @@ RL	spa	beso	n-m$n$n-m-ND	cat	besada	n-f
 	spa	b	n$n-f	cat	b	n$n-f
 	spa	D/e	n	cat	A/e	n
 	spa	bocadillo	n$n-m$n-m-sg	cat	entrepà	n$n-m
-	spa	boca	n$n-f$n-f-ND	cat	boca	n-f$n
+	spa	boca	n-f$n$n-f-ND	cat	boca	n-f$n
 LR	spa	boda	n-f-pl	cat	noces	n-f$n-f-pl$n
 	spa	boda	n-f$n$n-f-sg	cat	noces	n-f$n-f-pl$n
 	spa	bola	n-f$n$n-f-ND	cat	bola	n-f$n
@@ -1993,7 +1993,7 @@ LR	spa	boda	n-f-pl	cat	noces	n-f$n-f-pl$n
 	spa	botín	n$n-m$n-m-ND	cat	botí	n-m$n
 	spa	botón	n$n-m$n-m-sg	cat	botó	n$n-m
 	spa	bóveda	n-f$n$n-f-ND	cat	volta	n-f$n
-	spa	brazo	n-m-sg$n-m$n	cat	braç	n-m$n-m-pl$n
+	spa	brazo	n-m$n-m-sg$n	cat	braç	n-m$n-m-pl$n
 	spa	brillo	n-m$n$n-m-ND	cat	lluentor	n-f$n
 	spa	brisa	n$n-f$n-f-ND	cat	brisa	n-f$n
 	spa	broma	n$n-f$n-f-ND	cat	broma	n-f$n
@@ -2113,7 +2113,7 @@ RL	spa	carrera	n$n-f$n-f-sg	cat	cursa	n-f$n
 	spa	casa	n-f$n$n-f-sg	cat	casa	n-f$n
 	spa	casco	n-m$n$n-m-sg	cat	casc	n-m$n
 	spa	caso	n-m$n$n-m-sg	cat	cas	n-m$n
-	spa	castellano	n$n-m-ND$n-m	cat	castellà	n$n-m$n-m-pl
+	spa	castellano	n$n-m$n-m-ND	cat	castellà	n$n-m$n-m-pl
 	spa	castigo	n-m$n$n-m-sg	cat	càstig	n-m$n
 	spa	castillo	n-m$n$n-m-ND	cat	castell	n$n-m
 	spa	castración	n$n-f$n-f-ND	cat	castració	n-f$n
@@ -2136,7 +2136,7 @@ RL	spa	cauce	n-m$n$n-m-ND	cat	llera	n-f
 	spa	cazador	n$n-m$n-m-sg	cat	caçador	n$n-m
 	spa	caza	n$n-f$n-f-ND	cat	caça	n-f$n
 	spa	cebolla	n$n-f$n-f-ND	cat	ceba	n-f$n
-	spa	ceja	n$n-f$n-f-sg	cat	cella	n-f$n$n-f-sg
+	spa	ceja	n-f$n$n-f-sg	cat	cella	n-f$n$n-f-sg
 	spa	celda	n$n-f$n-f-ND	cat	cel·la	n-f$n
 	spa	celo	n-m-sg	cat	zel	n-m$n-m-sg$n
 RL	spa	celo	n-m-pl$n-m$n	cat	zel	n-m-pl
@@ -2155,7 +2155,7 @@ LR	spa	pavesa	n	cat	cendra	n-f$n
 	spa	centro	n-m$n$n-m-ND	cat	centre	n-m$n
 	spa	cerámica	n$n-f$n-f-sg	cat	ceràmica	n-f$n$n-f-sg
 LR	spa	cercanía	n-f-sg	cat	proximitat	n-f$n$n-f-sg
-LR	spa	cercanía	n$n-f$n-f-pl	cat	rodalia	n-f$n$n-f-pl
+LR	spa	cercanía	n$n-f$n-f-pl	cat	rodalia	n-f-sg
 RL	spa	cercanía	n$n-f$n-f-pl	cat	rodalia	n-f$n$n-f-pl
 LR	spa	cerco	n-m$n$n-m-ND	cat	cèrcol	n-m$n
 LR	spa	cerco	n-m$n$n-m-ND	cat	setge	n-m$n
@@ -2224,7 +2224,7 @@ RL	spa	claridad	n$n-f$n-f-ND	cat	claror	n-f$n
 	spa	coalición	n$n-f$n-f-sg	cat	coalició	n-f$n
 	spa	cobertura	n-f$n$n-f-sg	cat	cobertura	n-f$n
 	spa	cobijo	n$n-m$n-m-ND	cat	recer	n-m$n
-	spa	cobre	n$n-m$n-m-sg	cat	coure	n$n-m
+	spa	cobre	n-m$n$n-m-sg	cat	coure	n$n-m
 	spa	coche	n-m$n$n-m-sg	cat	cotxe	n-m$n
 	spa	cocina	n-f$n$n-f-sg	cat	cuina	n-f$n
 	spa	código	n-m$n$n-m-sg	cat	codi	n-m$n
@@ -2250,7 +2250,7 @@ RL	spa	cólera	n-GD	cat	còlera	n-mf$n
 RL	spa	colmo	n$n-m$n-m-ND	cat	caramull	n$n-m
 	spa	colmo	n$n-m$n-m-ND	cat	súmmum	n$n-m
 	spa	colonia	n$n-f$n-f-ND	cat	colònia	n$n-f
-	spa	color	n-m$n-m-sg$n	cat	color	n-m$n
+	spa	color	n-m$n$n-m-sg	cat	color	n-m$n
 	spa	columna	n$n-f$n-f-ND	cat	columna	n-f$n
 	spa	comandante	n-m$n$n-m-ND	cat	comandant	n-mf$n
 	spa	comando	n$n-m$n-m-ND	cat	comando	n-m$n
@@ -2311,7 +2311,7 @@ RL	spa	conclusión	n-f$n$n-f-sg	cat	cloenda	n-f$n
 	spa	conde	n$n-m$n-m-ND	cat	comte	n$n-m
 	spa	condición	n$n-f$n-f-sg	cat	condició	n-f$n
 	spa	conductor	n$n-m$n-m-sg	cat	conductor	n$n-m
-	spa	conejo	n$n-m$n-m-sg	cat	conill	n$n-m
+	spa	conejo	n-m$n$n-m-sg	cat	conill	n$n-m
 	spa	conejito	n	cat	conillet	n$n-m
 	spa	conexión	n$n-f$n-f-ND	cat	connexió	n-f$n
 	spa	conferencia	n-f$n$n-f-sg	cat	conferència	n-f$n
@@ -2457,7 +2457,7 @@ LR	spa	cuarto trastero	n	cat	traster	n$n-m
 	spa	cuello	n-m$n$n-m-sg	cat	coll	n-m$n
 	spa	cuenta	n-f$n$n-f-sg	cat	compte	n-m$n
 	spa	cuento	n$n-m$n-m-ND	cat	conte	n-m$n
-	spa	cuerda	n$n-f$n-f-ND	cat	corda	n-f$n
+	spa	cuerda	n-f$n$n-f-ND	cat	corda	n-f$n
 	spa	cuerno	n-m$n$n-m-ND	cat	banya	n-f$n
 	spa	cuero	n-m$n$n-m-ND	cat	cuir	n-m$n
 	spa	cuerpo	n-m$n$n-m-sg	cat	cos	n-m$n
@@ -2486,7 +2486,7 @@ RL	spa	cumpleaños	n-m-sp$n-m$n	cat	natalici	n-m-sg
 	spa	curva	n$n-f$n-f-ND	cat	corba	n-f$n
 	spa	cutis	n-m-sp$n-m$n	cat	cutis	n-m-sp$n$n-m
 	spa	dama	n$n-f$n-f-ND	cat	dama	n-f$n
-	spa	danza	n$n-f$n-f-sg	cat	dansa	n-f$n
+	spa	danza	n-f$n$n-f-sg	cat	dansa	n-f$n
 	spa	hacer	vblex$vblex-inf	cat	fer	vblex$
 	spa	daño	n-m$n$n-m-sg	cat	dany	n-m$n
 LR	spa	daño	n-m$n$n-m-sg	cat	mal	n-m$n$n-m-sg
@@ -2691,7 +2691,7 @@ LR	spa	empeño	n-m$n$n-m-sg	cat	obstinació	n-f$n
 	spa	empleado	n$n-m$n-m-sg	cat	empleat	n$n-m
 LR	spa	empleo	n-m$n$n-m-ND	cat	ocupació	n-f$n
 LR	spa	empleo uso	n	cat	ús	n-m$n
-	spa	empresa	n$n-f$n-f-sg	cat	empresa	n-f$n
+	spa	empresa	n-f$n$n-f-sg	cat	empresa	n-f$n
 	spa	empresario	n$n-m$n-m-sg	cat	empresari	n$n-f
 RL	spa	encaje	n-m$n	cat	contragalze	n$n-m
 LR	spa	encaje	n-m$n	cat	punta	n-f$n
@@ -2720,7 +2720,7 @@ LR	spa	entente	n$n-f	cat	entesa	n-f$n
 	spa	entierro	n$n-m$n-m-ND	cat	enterrament	n-m$n
 	spa	entorno	n-m$n$n-m-sg	cat	entorn	n-m$n$n-m-pl
 	spa	entrada	n-f$n$n-f-sg	cat	entrada	n-f$n
-	spa	entraña	n$n-f$n-f-ND	cat	entranya	n$n-f$n-f-pl
+	spa	entraña	n$n-f-pl$n-f	cat	entranya	n$n-f$n-f-pl
 	spa	entrenador	n$n-m$n-m-sg	cat	entrenador	n$n-m
 	spa	entrenamiento	n$n-m$n-m-sg	cat	entrenament	n$n-m
 	spa	entrevista	n-f$n$n-f-sg	cat	entrevista	n-f$n
@@ -2728,7 +2728,7 @@ LR	spa	entente	n$n-f	cat	entesa	n-f$n
 	spa	envidia	n$n-f$n-f-ND	cat	enveja	n$n-f$n-f-sg
 	spa	episodio	n$n-m	cat	episodi	n$n-m
 	spa	epistemología	n$n-f$n-f-ND	cat	epistemologia	n-f$n
-	spa	época	n$n-f$n-f-ND	cat	època	n-f$n
+	spa	época	n-f$n$n-f-ND	cat	època	n-f$n
 	spa	equilibrio	n-m$n$n-m-sg	cat	equilibri	n-m$n
 	spa	equipaje	n-m$n$n-m-ND	cat	equipatge	n-m$n$n-m-sg
 	spa	equipo	n-m$n-m-sg$n	cat	equip	n-m$n
@@ -2751,7 +2751,7 @@ RL	spa	escasez	n$n-f$n-f-ND	cat	escassesa	n-f$n$n-f-sg
 	spa	escritorio	n-m$n$n-m-ND	cat	escriptori	n-m$n$n-m-sg
 	spa	escritor	n$n-m$n-m-sg	cat	escriptor	n$n-m
 	spa	escritura	n$n-f$n-f-sg	cat	escriptura	n-f$n
-	spa	escudo	n$n-m$n-m-ND	cat	escut	n-m$n$n-m-sg
+	spa	escudo	n-m$n$n-m-ND	cat	escut	n-m$n$n-m-sg
 	spa	escuela	n-f$n$n-f-sg	cat	escola	n-f$n
 	spa	escultura	n$n-f$n-f-ND	cat	escultura	n-f$n
 	spa	esencia	n$n-f$n-f-ND	cat	essència	n-f$n
@@ -2787,7 +2787,7 @@ LR	spa	espalda	n-f$n$n-f-pl	cat	esquena	n-f$n$n-f-sg
 	spa	estado	n-m$n$n-m-sg	cat	estat	n-m$n
 	spa	estampa	n$n-f$n-f-ND	cat	estampa	n-f$n
 	spa	estancia	n-f$n$n-f-ND	cat	estada	n-f$n
-	spa	estatua	n$n-f$n-f-ND	cat	estàtua	n$n-f
+	spa	estatua	n-f$n$n-f-ND	cat	estàtua	n$n-f
 RL	spa	estatura	n$n-f$n-f-ND	cat	alçària	n-f$n
 LR	spa	estatura	n$n-f$n-f-ND	cat	alçada	n-f$n
 RL	spa	altura	n-f$n$n-f-sg	cat	alçada	n-f$n
@@ -2999,7 +2999,7 @@ LR	spa	globo	n-m-sg	cat	globus	n-m-sp$n-m
 	spa	golfo	n$n-m$n-m-ND	cat	golf	n$n-m$n-m-sg
 	spa	gol	n$n-m$n-m-ND	cat	gol	n-m$n$n-m-sg
 	spa	golpe	n-m$n$n-m-ND	cat	cop	n-m$n
-RL	spa	vez	n-f$n-f-ND$n	cat	cop	n-m$n
+RL	spa	vez	n-f$n$n-f-ND	cat	cop	n-m$n
 	spa	goma	n$n-f$n-f-ND	cat	goma	n-f$n
 	spa	gorila	n$n-mf$n-mf-ND	cat	goril·la	n-mf$n
 	spa	gota	n-f$n$n-f-ND	cat	gota	n-f$n
@@ -3046,7 +3046,7 @@ RL	spa	hecho	n$n-m$n-m-sg	cat	feta	n-f$n
 	spa	herencia	n-f$n$n-f-ND	cat	herència	n-f$n$n-f-sg
 	spa	herida	n-f$n$n-f-ND	cat	ferida	n-f$n
 	spa	herido	n$n-m$n-m-ND	cat	ferit	n$n-m
-	spa	hermano	n-m$n$n-m-sg	cat	germà	n$n-f
+	spa	hermano	n-f$n$n-f-ND	cat	germà	n$n-f
 	spa	héroe	n-f$n$n-f-sg	cat	heroi	n$n-f
 	spa	hielo	n-m$n$n-m-ND	cat	gel	n-m$n
 RL	spa	hielo	n-m$n$n-m-ND	cat	glaç	n-m$n
@@ -3123,7 +3123,7 @@ LR	spa	huida	n$n-f$n-f-ND	cat	fugida	n$n-f
 	spa	identificación	n$n-f$n-f-sg	cat	identificació	n-f$n
 	spa	ideología	n$n-f$n-f-sg	cat	ideologia	n$n-f
 	spa	idioma	n$n-m$n-m-sg	cat	idioma	n-m$n
-	spa	ídolo	n-m$n$n-m-ND	cat	ídol	n-m$n
+	spa	ídolo	n$n-m$n-m-ND	cat	ídol	n-m$n
 	spa	iglesia	n$n-f$n-f-sg	cat	església	n-f$n
 	spa	ignorancia	n$n-f$n-f-ND	cat	ignorància	n-f$n
 	spa	igualdad	n$n-f$n-f-sg	cat	igualtat	n$n-f
@@ -3192,7 +3192,7 @@ LR	spa	huida	n$n-f$n-f-ND	cat	fugida	n$n-f
 	spa	instancia	n$n-f$n-f-sg	cat	instància	n-f$n
 	spa	instante	n$n-m$n-m-ND	cat	instant	n-m$n
 	spa	instinto	n$n-m$n-m-ND	cat	instint	n-m$n
-	spa	institución	n$n-f$n-f-sg	cat	institució	n-f$n
+	spa	institución	n-f$n$n-f-sg	cat	institució	n-f$n
 	spa	instituto	n-m$n$n-m-sg	cat	institut	n-m$n
 	spa	instrucción	n$n-f$n-f-sg	cat	instrucció	n-f$n
 	spa	instrumento	n-m$n$n-m-sg	cat	instrument	n-m$n
@@ -3276,11 +3276,11 @@ RL	spa	juventud	n$n-f$n-f-ND	cat	jovenalla	n-f$n
 RL	spa	lado	n-m$n$n-m-ND	cat	cantó	n-m$n
 LR	spa	ladrón	n-f$n-f-pl	cat	lladre	n-mf$n
 RL	spa	ladrón	n-GD$n-GD-pl	cat	lladre	n-mf$n
-LR	spa	ladrón	n-m$n$n-m-sg	cat	lladre	n-mf$n
+LR	spa	ladrón	n$n-m$n-m-sg	cat	lladre	n-mf$n
 	spa	lago	n$n-m$n-m-sg	cat	llac	n$n-m
 	spa	lágrima	n$n-f$n-f-ND	cat	llàgrima	n-f$n
 	spa	laguna	n$n-f$n-f-sg	cat	llacuna	n-f$n
-	spa	lamento	n-m$n$n-m-ND	cat	lament	n-m$n
+	spa	lamento	n$n-m$n-m-ND	cat	lament	n-m$n
 LR	spa	lámpara	n-f$n$n-f-ND	cat	llum	n-m$n
 RL	spa	luz	n-f$n$n-f-sg	cat	llum	n-m$n
 	spa	luz	n-f$n$n-f-sg	cat	llum	n-f
@@ -3344,8 +3344,8 @@ RL	spa	líder	adj$adj-mf$adj-mf-sg	cat	capdavanter	adj-f
 	spa	lista	n-f$n$n-f-sg	cat	llista	n-f$n
 	spa	literatura	n-f$n$n-f-sg	cat	literatura	n-f$n
 	spa	litro	n-m$n$n-m-ND	cat	litre	n-m$n
-	spa	llama	n$n-f$n-f-ND	cat	flama	n-f$n
-	spa	llama	n$n-f$n-f-ND	cat	llama	n-f$n
+	spa	llama	n-f$n$n-f-ND	cat	flama	n-f$n
+	spa	llama	n-f$n$n-f-ND	cat	llama	n-f$n
 RL	spa	llanto	n$n-m$n-m-ND	cat	plany	n$n-m
 	spa	llanto	n$n-m$n-m-ND	cat	plor	n$n-m
 	spa	llegada	n-f$n$n-f-ND	cat	arribada	n-f$n
@@ -3394,7 +3394,7 @@ RL	spa	maestro	adj-GD$adj-GD-pl	cat	mestre	adj$adj-mf-pl
 	spa	maldición	n$n-f$n-f-ND	cat	maledicció	n-f$n
 	spa	malestar	n$n-m$n-m-ND	cat	malestar	n$n-m
 	spa	maleta	n$n-f$n-f-ND	cat	maleta	n-f$n
-	spa	mal	n$n-m$n-m-ND	cat	mal	n-m$n$n-m-sg
+	spa	mal	n-m$n$n-m-ND	cat	mal	n-m$n$n-m-sg
 	spa	mama	n$n-f$n-f-ND	cat	mama	n-f$n
 	spa	mamá	n$n-f$n-f-ND	cat	mamà	n$n-f
 	spa	mancha	n-f$n$n-f-ND	cat	taca	n-f$n
@@ -3415,7 +3415,7 @@ RL	spa	maestro	adj-GD$adj-GD-pl	cat	mestre	adj$adj-mf-pl
 	spa	mansión	n$n-f$n-f-ND	cat	mansió	n-f$n
 RL	spa	manta	n-f$n$n-f-ND	cat	flassada	n-f$n
 	spa	mantenimiento	n-m$n$n-m-sg	cat	manteniment	n-m$n
-	spa	manto	n$n-m$n-m-ND	cat	mantell	n-m$n
+	spa	manto	n-m$n$n-m-ND	cat	mantell	n-m$n
 	spa	manual	n-m$n$n-m-sg	cat	manual	n-m$n
 	spa	manzana	n$n-f$n-f-ND	cat	poma	n$n-f
 	spa	mañana	n-f$n$n-f-sg	cat	matí	n-m$n
@@ -3479,7 +3479,7 @@ LR	spa	mendigo	n-m$n-m-ND	cat	captaire	n-mf$n
 	spa	mesa	n-f$n$n-f-sg	cat	taula	n-f$n
 	spa	mes	n-m$n$n-m-ND	cat	mes	n-m$n
 	spa	metáfora	n$n-f$n-f-ND	cat	metàfora	n$n-f
-	spa	metal	n$n-m$n-m-ND	cat	metall	n$n-m
+	spa	metal	n-m$n$n-m-ND	cat	metall	n$n-m
 	spa	meta	n$n-f$n-f-ND	cat	meta	n-f$n
 	spa	método	n$n-m$n-m-sg	cat	mètode	n-m$n
 	spa	metro	n$n-m$n-m-sg	cat	metre	n-m$n
@@ -3491,8 +3491,8 @@ LR	spa	mezcla	n-f$n$n-f-ND	cat	mescla	n-f$n
 	spa	miel	n-f$n$n-f-ND	cat	mel	n-f$n
 	spa	miembro	n-mf$n$n-mf-ND	cat	membre	n$n-mf$
 	spa	miércoles	n-m-sp$n$n-m	cat	dimecres	n-m-sp$n-m$n
-	spa	mierda	n$n-f$n-f-ND	cat	merda	n-f$n
-	spa	milagro	n$n-m$n-m-ND	cat	miracle	n$n-m
+	spa	mierda	n-f$n$n-f-ND	cat	merda	n-f$n
+	spa	milagro	n-m$n$n-m-ND	cat	miracle	n$n-m
 	spa	milenio	n-m$n$n-m-ND	cat	mil·lenni	n-m$n
 	spa	milímetro	n$n-m$n-m-ND	cat	mil·límetre	n-m$n
 	spa	mili	n$n-f$n-f-ND	cat	mili	n$n-f
@@ -3582,7 +3582,7 @@ RL	spa	mujer	n-f$n$n-f-sg	cat	muller	n-f$n
 	spa	multa	n$n-f$n-f-ND	cat	multa	n$n-f
 	spa	multinacional	n$n-f$n-f-sg	cat	multinacional	n-f$n
 	spa	multitud	n$n-f$n-f-ND	cat	multitud	n$n-f
-	spa	mundo	n$n-m$n-m-sg	cat	món	n$n-m
+	spa	mundo	n-m$n$n-m-sg	cat	món	n$n-m
 	spa	municipio	n-m$n$n-m-ND	cat	municipi	n-m$n
 	spa	muñeca	n$n-f$n-f-sg	cat	canell	n-m
 RL	spa	muñeca	n$n-f$n-f-sg	cat	monyica	n-f$n
@@ -3597,7 +3597,7 @@ RL	spa	muñeca	n$n-f$n-f-sg	cat	monyica	n-f$n
 	spa	musulmán	n$n-m$n-m-sg	cat	musulmà	n$n-m
 	spa	nacimiento	n-m$n$n-m-ND	cat	naixement	n-m$n
 RL	spa	nacimiento	n-m$n$n-m-ND	cat	naixença	n-f$n
-	spa	nacionalidad	n$n-f$n-f-sg	cat	nacionalitat	n-f$n
+	spa	nacionalidad	n-f$n$n-f-sg	cat	nacionalitat	n-f$n
 	spa	nación	n$n-f$n-f-sg	cat	nació	n-f$n
 	spa	nalga	n$n-f$n-f-ND	cat	natja	n-f$n
 	spa	naranja	n-f$n$n-f-ND	cat	taronja	n-f$n
@@ -3654,8 +3654,8 @@ LR	spa	nene	n-m$n$n-m-ND	cat	xiquet	n$n-m
 	spa	nuca	n-f$n$n-f-ND	cat	clatell	n-m$n
 RL	spa	nuca	n-f$n$n-f-ND	cat	clotell	n-m
 	spa	núcleo	n$n-m$n-m-ND	cat	nucli	n-m$n
-RL	spa	nudo	n$n-m$n-m-ND	cat	nuc	n$n-m
-	spa	nudo	n$n-m$n-m-ND	cat	nus	n-m$n
+RL	spa	nudo	n-m$n$n-m-ND	cat	nuc	n$n-m
+	spa	nudo	n-m$n$n-m-ND	cat	nus	n-m$n
 	spa	número	n$n-m$n-m-sg	cat	nombre	n$n-m
 	spa	número	n$n-m$n-m-sg	cat	número	n$n-m
 	spa	número e	n-m-sg	cat	número e	n-m-sg
@@ -3677,7 +3677,7 @@ RL	spa	obsesión	n$n-f$n-f-ND	cat	dèria	n-f$n
 RL	spa	ocasión	n$n-f$n-f-sg	cat	avinentesa	n$n-f
 	spa	ocasión	n$n-f$n-f-sg	cat	ocasió	n$n-f
 	spa	occidente	n$n-m$n-m-ND	cat	occident	n-m$n$n-m-sg
-	spa	océano	n$n-m$n-m-sg	cat	oceà	n$n-m
+	spa	océano	n-m$n$n-m-sg	cat	oceà	n$n-m
 	spa	ocio	n$n-m$n-m-ND	cat	oci	n-m$n
 	spa	octubre	n$n-m$n-m-ND	cat	octubre	n$n-m
 	spa	ocupación	n-f$n$n-f-ND	cat	ocupació	n-f$n
@@ -3745,6 +3745,7 @@ RL	spa	palabra	n-f$n$n-f-sg	cat	mot	n-m$n
 	spa	palacio	n-m$n$n-m-ND	cat	palau	n-m$n
 	spa	paliza	n$n-f$n-f-ND	cat	pallissa	n-f$n
 	spa	palma	n-f$n$n-f-ND	cat	palmell	n-m
+	spa	palma	n-f$n$n-f-ND	cat	palma	n-f
 	spa	pánico	n$n-m$n-m-ND	cat	pànic	n-m$n
 	spa	pan	n-m$n$n-m-ND	cat	pa	n-m$n
 	spa	panorama	n$n-m$n-m-ND	cat	panorama	n-m$n
@@ -3780,7 +3781,7 @@ RL	spa	papilla	n-f-sg$n	cat	farineta	n-f-sg
 	spa	pasaporte	n$n-m$n-m-sg	cat	passaport	n$n-m
 	spa	paseo	n-m$n$n-m-ND	cat	passeig	n-m$n
 	spa	pasión	n$n-f$n-f-ND	cat	passió	n-f$n
-	spa	corredor	n-m$n$n-m-sg	cat	corredor	n$n-m
+	spa	corredor	n$n-m$n-m-sg	cat	corredor	n$n-m
 	spa	pasillo	n-m$n$n-m-ND	cat	passadís	n-m$n
 LR	spa	pasadizo	n$n-m$n-m-ND	cat	passadís	n-m$n
 LR	spa	pasillo	n-m$n$n-m-ND	cat	corredor	n$n-m
@@ -3857,7 +3858,7 @@ RL	spa	pico	n-m$n$n-m-ND	cat	broc	n-m$n
 	spa	piedad	n$n-f$n-f-sg	cat	pietat	n-f$n$n-f-sg
 	spa	piedra	n-f$n$n-f-sg	cat	pedra	n-f$n
 	spa	pie	n-m$n$n-m-ND	cat	peu	n-m$n$n-m-pl
-	spa	pierna	n$n-f$n-f-ND	cat	cama	n-f$n
+	spa	pierna	n-f$n$n-f-ND	cat	cama	n-f$n
 	spa	pieza	n-f$n$n-f-ND	cat	peça	n-f$n
 	spa	pila	n-f$n$n-f-ND	cat	pila	n-f$n
 	spa	piloto	n$n-mf$n-mf-ND	cat	pilot	n-mf$n
@@ -3896,12 +3897,12 @@ LR	spa	plano	n-m$n$n-m-sg	cat	pla	n-m$n$
 	spa	podio	n$n-m$n-m-ND	cat	podi	n-m$n
 RL	spa	podio	n$n-m$n-m-ND	cat	pòdium	n-m$n
 LR	spa	pódium	n	cat	podi	n-m$n
-	spa	poema	n$n-m$n-m-ND	cat	poema	n-m$n
+	spa	poema	n-m$n$n-m-ND	cat	poema	n-m$n
 	spa	poesía	n$n-f$n-f-sg	cat	poesia	n$n-f
 	spa	poeta	n-mf$n$n-mf-ND	cat	poeta	n-mf$n
 	spa	polémica	n$n-f$n-f-ND	cat	polèmica	n-f$n
 	spa	policía	n-mf$n$n-mf-ND	cat	policia	n-mf$n$n-mf-pl
-	spa	política	n$n-f$n-f-sg	cat	política	n-f$n
+	spa	política	n-f$n$n-f-sg	cat	política	n-f$n
 	spa	político	n$n-GD	cat	polític	n-m$n
 	spa	polo	n-m$n$n-m-ND	cat	pol	n$n-m
 	spa	polvo	n-m-pl	cat	pólvores	n-f-pl$n-f$n
@@ -3928,7 +3929,7 @@ LR	spa	postre	n-m$n$n-m-sg	cat	postres	n-f-pl$n-f
 	spa	precedente	n$n-m$n-m-ND	cat	precedent	n-m$n$
 	spa	precio	n$n-m$n-m-sg	cat	preu	n-m$n$n-m-ND
 	spa	precisión	n-f$n$n-f-ND	cat	precisió	n-f$n
-	spa	pregunta	n$n-f$n-f-ND	cat	pregunta	n$n-f
+	spa	pregunta	n-f$n$n-f-ND	cat	pregunta	n$n-f
 	spa	premio	n-m$n-m-sg$n	cat	premi	n-m$n$n-m-ND
 LR	spa	premura	n-f$n	cat	urgència	n-f$n
 LR	spa	prenda	n-f$n$n-f-ND	cat	peça	n-f$n
@@ -4010,7 +4011,7 @@ LR	spa	puesto	n-m$n$n-m-sg	cat	lloc	n-m$n
 	spa	punto	n-m$n$n-m-ND	cat	punt	n-m$n
 	spa	puñado	n-m$n$n-m-ND	cat	grapat	n-m$n
 	spa	puño	n$n-m$n-m-ND	cat	puny	n$n-m
-	spa	pupila	n$n-f$n-f-ND	cat	pupil·la	n$n-f
+	spa	pupila	n-f$n$n-f-ND	cat	pupil·la	n$n-f
 	spa	q	n$n-f	cat	q	n$n-f
 	spa	quehacer	n$n-m$n-m-ND	cat	quefer	n-m$n
 	spa	queja	n$n-f$n-f-ND	cat	queixa	n-f$n
@@ -4105,6 +4106,8 @@ RL	spa	red	n-f$n$n-f-sg	cat	xàrcia	n$n-f
 	spa	resistencia	n-f$n$n-f-sg	cat	resistència	n-f$n
 	spa	resolución	n$n-f$n-f-sg	cat	resolució	n-f$n
 	spa	respaldo	n$n-m$n-m-ND	cat	respatller	n-m$n
+	spa	respaldo	n$n-m$n-m-ND	cat	respatler	n$n-m
+LR	spa	respaldo	n$n-m$n-m-ND	cat	suport	n-m$n
 	spa	respeto	n$n-m$n-m-ND	cat	respecte	n-m$n
 	spa	respiración	n-f$n$n-f-ND	cat	respiració	n-f$n
 	spa	respiro	n$n-m$n-m-ND	cat	respir	n-m$n
@@ -4150,7 +4153,7 @@ RL	spa	risa	n-f$n$n-f-ND	cat	rialla	n$n-f
 	spa	robot	n$n-m$n-m-ND	cat	robot	n-m$n$n-m-sg
 	spa	roca	n$n-f$n-f-sg	cat	roca	n$n-f$n-f-pl
 	spa	roce	n$n-m$n-m-ND	cat	frec	n$n-m
-	spa	rodilla	n-f$n-f-sg$n	cat	genoll	n-m$n$n-m-sg
+	spa	rodilla	n-f$n$n-f-sg	cat	genoll	n-m$n$n-m-sg
 RL	spa	rojo	n$n-GD	cat	roig	n$n-m
 	spa	rollo	n-m$n$n-m-ND	cat	rotllo	n-m$n
 	spa	ropa	n$n-f$n-f-sg	cat	roba	n-f$n$n-f-sg
@@ -4282,7 +4285,7 @@ LR	spa	socorro	n-m-sg$n$n-m	cat	socors	n-m-sp$n-m
 	spa	soledad	n$n-f$n-f-ND	cat	solitud	n-f$n
 	spa	soledad	n$n-f$n-f-ND	cat	soledat	n$n-f
 	spa	solidaridad	n$n-f$n-f-sg	cat	solidaritat	n-f$n
-	spa	sol	n$n-m$n-m-ND	cat	sol	n$n-m
+	spa	sol	n-m$n$n-m-ND	cat	sol	n$n-m
 	spa	solución	n$n-f$n-f-sg	cat	solució	n-f$n
 	spa	sombra	n-f$n$n-f-sg	cat	ombra	n-f$n
 	spa	sombrero	n$n-m$n-m-ND	cat	barret	n-m$n
@@ -4353,7 +4356,7 @@ RL	spa	tasa	n-f$n$n-f-ND	cat	tassa	n-f$n
 	spa	tejado	n-m$n$n-m-ND	cat	teulada	n-f
 RL	spa	tejado	n-m$n$n-m-ND	cat	teulat	n-m$n
 	spa	tejido	n$n-m	cat	teixit	n$n-m
-	spa	tela	n$n-f$n-f-ND	cat	tela	n-f$n
+	spa	tela	n-f$n$n-f-ND	cat	tela	n-f$n
 	spa	teléfono	n$n-m$n-m-sg	cat	telèfon	n-m$n
 	spa	tele	n$n-f$n-f-ND	cat	tele	n-f$n$n-f-sg
 	spa	televisión	n$n-f$n-f-sg	cat	televisió	n-f$n
@@ -4396,8 +4399,8 @@ LR	spa	tiempo	n-m-sg	cat	temps	n-m-sp$n-m$n
 	spa	tienda	n-f$n$n-f-sg	cat	tenda	n-f$n
 	spa	megatienda	n	cat	megabotiga	n
 	spa	tierra	n-f$n$n-f-sg	cat	terra	n-f$n
-	spa	suelo	n$n-m$n-m-sg	cat	sòl	n-m$n
-RL	spa	suelo	n$n-m$n-m-sg	cat	terra	n-m
+	spa	suelo	n-m$n$n-m-sg	cat	sòl	n-m$n
+RL	spa	suelo	n-m$n$n-m-sg	cat	terra	n-m
 	spa	tiniebla	n$n-f-ND	cat	tenebra	n-f$n
 	spa	tío	n$n-m$n-m-sg	cat	oncle	n-m$n
 	spa	tío	n-f	cat	tia	n-f$n
@@ -4426,9 +4429,9 @@ LR	spa	toro	n$n-m$n-m-ND	cat	bou	n$n-m
 	spa	torpeza	n$n-f$n-f-ND	cat	malaptesa	n-f$n
 	spa	torre	n-f$n$n-f-ND	cat	torre	n-f$n
 	spa	trabajador	n$n-m-sg$n-m	cat	treballador	n$n-GD
-RL	spa	trabajo	n-m$n-m-sg$n	cat	faena	n-f
-RL	spa	trabajo	n-m$n-m-sg$n	cat	feina	n-f$n
-	spa	trabajo	n-m$n-m-sg$n	cat	treball	n-m$n
+RL	spa	trabajo	n-m$n$n-m-sg	cat	faena	n-f
+RL	spa	trabajo	n-m$n$n-m-sg	cat	feina	n-f$n
+	spa	trabajo	n-m$n$n-m-sg	cat	treball	n-m$n
 	spa	tractor	n$n-m$n-m-ND	cat	tractor	n-m$n
 	spa	tradición	n-f$n$n-f-ND	cat	tradició	n-f$n
 	spa	tragedia	n$n-f$n-f-sg	cat	tragèdia	n$n-f
@@ -4473,7 +4476,7 @@ RL	spa	tronco	n-m$n$n-m-ND	cat	soca	n-f$n
 	spa	tubo	n$n-m$n-m-ND	cat	tub	n-m$n
 	spa	tumba	n-f$n$n-f-sg	cat	tomba	n-f$n
 	spa	túnel	n$n-m$n-m-sg	cat	túnel	n-m$n$n-m-sg
-	spa	túnica	n$n-f$n-f-ND	cat	túnica	n-f$n
+	spa	túnica	n-f$n$n-f-ND	cat	túnica	n-f$n
 	spa	turismo	n-m$n$n-m-sg	cat	turisme	n-m$n
 	spa	turista	n$n-mf$n-mf-ND	cat	turista	n-mf$n
 	spa	turno	n-m$n$n-m-ND	cat	torn	n-m$n
@@ -4483,7 +4486,7 @@ RL	spa	tronco	n-m$n$n-m-ND	cat	soca	n-f$n
 	spa	uniforme	n$n-m$n-m-ND	cat	uniforme	n-m$n$
 	spa	unión	n$n-f$n-f-ND	cat	unió	n-f$n
 	spa	universidad	n-f$n$n-f-sg	cat	universitat	n-f$n$n-f-ND
-	spa	universo	n$n-m$n-m-ND	cat	univers	n-m$n
+	spa	universo	n-m$n$n-m-ND	cat	univers	n-m$n
 	spa	uña	n$n-f$n-f-ND	cat	ungla	n-f$n
 	spa	uranio	n$n-m$n-m-ND	cat	urani	n-m$n
 	spa	urbanización	n$n-f$n-f-ND	cat	urbanització	n-f$n
@@ -4537,7 +4540,7 @@ LR	spa	vera	n-f$n$n-f-ND	cat	vora	n-f$n
 	spa	verso	n$n-m$n-m-ND	cat	vers	n-m$n
 	spa	vestíbulo	n-m$n$n-m-ND	cat	vestíbul	n-m$n
 	spa	vestido	n-m$n$n-m-sg	cat	vestit	n-m$n
-	spa	vez	n-f$n-f-ND$n	cat	vegada	n-f$n$n-f-ND
+	spa	vez	n-f$n$n-f-ND	cat	vegada	n-f$n$n-f-ND
 	spa	viaje	n-m$n$n-m-sg	cat	viatge	n-m$n
 	spa	viajero	n$n-m	cat	viatger	n$n-m
 	spa	vía	n$n-f$n-f-ND	cat	via	n-f$n
@@ -4545,7 +4548,7 @@ LR	spa	vera	n-f$n$n-f-ND	cat	vora	n-f$n
 	spa	vicepresidente	n$n-m-sg$n-m	cat	vicepresident	n$n-m
 	spa	víctima	n$n-f$n-f-sg	cat	víctima	n-f$n
 	spa	victoria	n$n-f$n-f-sg	cat	victòria	n-f$n
-	spa	vida	n$n-f$n-f-sg	cat	vida	n-f$n
+	spa	vida	n-f$n$n-f-sg	cat	vida	n-f$n
 	spa	vídeo	n$n-m$n-m-sg	cat	vídeo	n-m$n$n-m-sg
 	spa	vidrio	n-m$n$n-m-ND	cat	vidre	n-m$n
 	spa	viento	n$n-m$n-m-ND	cat	vent	n-m$n
@@ -4642,7 +4645,7 @@ RL	spa	n.º	n	cat	nre.	n
 	spa	XXXVIII	num	cat	XXXVIII	num
 	spa	XXXIX	num	cat	XXXIX	num
 	spa	catorce	num$$num-mf$num-mf-sp	cat	catorze	num$num-mf-sp$$num-mf
-	spa	cien	num$num-mf$num-mf-sp$	cat	cent	num-mf-sp$num$num-mf
+	spa	cien	num$num-mf-sp$num-mf$	cat	cent	num-mf-sp$num$num-mf
 	spa	ciento	num$num-m-sp$	cat	cent	num-mf-sp$num$num-mf
 LR	spa	ciento	num-m-pl	cat	centenar	num-m-pl$num-m
 	spa	centenar	num-mf-sp$num-mf	cat	centenar	num-m-pl$num-m
@@ -4659,7 +4662,7 @@ RL	spa	cincuenta y dos	num-mf$num-mf-sp$num$	cat	cinquanta-dos	num$num-m-sp
 	spa	cincuenta y seis	num$$num-mf	cat	cinquanta-sis	num$num-mf-sp
 	spa	cincuenta y tres	num$$num-mf	cat	cinquanta-tres	num$num-mf-sp
 	spa	cincuenta y ocho	num$$num-mf	cat	cinquanta-vuit	num$num-mf-sp
-	spa	diez	num$num-mf$$num-mf-sp	cat	deu	num$num-mf-sp$num-mf
+	spa	diez	num$num-mf$num-mf-sp$	cat	deu	num$num-mf-sp$num-mf
 	spa	diecinueve	num$$num-mf$num-mf-sp	cat	dinou	num$num-mf-sp$$num-mf
 	spa	diecisiete	num$$num-mf$num-mf-sp	cat	disset	num$num-mf-sp$$num-mf
 	spa	dieciocho	num$num-mf-sp$$num-mf	cat	divuit	num$num-mf-sp$$num-mf
@@ -4746,7 +4749,7 @@ RL	spa	treinta y dos	num-mf$num$num-mf-sp$	cat	trenta-dos	num$num-m-sp
 	spa	treinta y seis	num$$num-mf	cat	trenta-sis	num$num-mf-sp
 	spa	treinta y tres	num$$num-mf	cat	trenta-tres	num$num-mf-sp
 	spa	treinta y ocho	num$$num-mf	cat	trenta-vuit	num$num-mf-sp
-	spa	tres	num$$num-mf-sp	cat	tres	num$$num-mf-sp
+	spa	tres	num$num-mf-sp$	cat	tres	num$$num-mf-sp
 	spa	trescientos	num$$num-mf	cat	tres-cents	num$num-GD$num-GD-sp
 	spa	trece	num$$num-mf$num-mf-sp	cat	tretze	num$num-mf-sp$$num-mf
 	spa	u	n-f	cat	u	n$n-f
@@ -4775,7 +4778,7 @@ RL	spa	ochenta y dos	num-mf$num$num-mf-sp$	cat	vuitanta-dos	num$num-m-sp
 	spa	ochenta y seis	num$$num-mf	cat	vuitanta-sis	num$num-mf-sp
 	spa	ochenta y tres	num$$num-mf	cat	vuitanta-tres	num$num-mf-sp
 	spa	ochenta y ocho	num$$num-mf	cat	vuitanta-vuit	num$num-mf-sp
-	spa	cero	num$num-mf$num-mf-sp	cat	zero	num$num-m-sp
+	spa	cero	num$num-mf-sp$num-mf	cat	zero	num$num-m-sp
 	spa	con este fin	pr	cat	a aquest efecte	pr
 	spa	hasta después de	pr	cat	fins al cap de	pr
 	spa	a condición de que	cnjadv	cat	a condició que	cnjadv
@@ -5016,14 +5019,14 @@ LR	spa	vaporizar	vblex	cat	vaporitzar	vblex
 LR	spa	cuán	preadv	cat	que	preadv
 	spa	todo	predet$predet-ind-GD	cat	tot	predet$predet-m$predet-m-sg
 LR	spa	ello	prn-tn-p3-nt$prn$prn-tn-nt$prn-tn	cat	això	prn$prn-tn-nt
-LR	spa	eso	prn$prn-tn-nt$prn-tn	cat	això	prn$prn-tn-nt
+LR	spa	eso	prn$prn-tn$prn-tn-nt	cat	això	prn$prn-tn-nt
 	spa	esto	prn$prn-tn$prn-tn-nt	cat	això	prn$prn-tn-nt
 RL	spa	esto	prn$prn-tn$prn-tn-nt	cat	açò	prn$prn-tn-nt
-	spa	alguno	prn$prn-tn-m-pl$prn-tn$prn-tn-m	cat	algun	prn$prn-tn-m-sg$prn-tn
+	spa	alguno	prn$prn-tn-GD-pl$prn-tn$prn-tn-GD	cat	algun	prn$prn-tn-m-sg$prn-tn
 RL	spa	uno y otro	prn	cat	l'un i l'altre	prn
 	spa	uno u otro	prn	cat	l'un o l'altre	prn
 RL	spa	uno y otro	det	cat	un i un altre	det$det-ind
-	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg	cat	algú	prn$prn-tn-mf$prn-tn$prn-tn-mf-sg
+	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m	cat	algú	prn$prn-tn-mf$prn-tn$prn-tn-mf-sg
 	spa	aquello	prn$prn-tn$prn-tn-m-sp	cat	allò	prn$prn-tn-nt
 	spa	conmigo	prn$prn-tn	cat	amb mi	prn
 LR	spa	para conmigo	prn$prn-tn-p1-mf	cat	amb mi	prn
@@ -5040,7 +5043,7 @@ LR	spa	ese	prn$prn-tn-m$prn-tn	cat	aquest	prn$prn-tn-f$prn-tn$prn-tn-f-pl
 	spa	este	prn$prn-tn-m$prn-tn$prn-tn-m-sg	cat	aquest	prn$prn-tn-f$prn-tn$prn-tn-f-pl
 LR	spa	ése	prn$prn-tn-m$prn-tn	cat	aquest	prn$prn-tn-f$prn-tn$prn-tn-f-pl
 LR	spa	éste	prn$prn-tn-m$prn-tn	cat	aquest	prn$prn-tn-f$prn-tn$prn-tn-f-pl
-	spa	cada uno	prn$prn-tn-m$prn-tn-m-sg	cat	cadascun	prn$prn-tn
+	spa	cada uno	prn$prn-tn-GD-sg	cat	cadascun	prn$prn-tn
 	spa	cada cual	prn$prn-tn-m	cat	cadascú	prn$prn-tn$prn-tn-mf$prn-tn-mf-sg
 RL	spa	ninguno	prn-tn$prn$prn-tn-GD-sg$prn-tn-GD	cat	cap	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn
 LR	spa	ninguno	prn-tn-f-pl$prn-tn-f	cat	cap	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn
@@ -5088,22 +5091,22 @@ LR	spa	le	prn-pro-p3-mf-sp	cat	li	prn-pro-p3-mf-sg$prn-pro$prn
 LR	spa	le	prn-pro-p3-mf-sg$prn-pro$prn-pro-p3-mf	cat	el	prn-pro-p3-m-sg$prn-pro-p3-m$prn$prn-pro-p3
 LR	spa	le	prn-enc-p3-mf-sg$prn-enc$prn$prn-enc-p3-mf	cat	el	prn-enc-p3-m-sg$prn-enc-p3-m
 LR	spa	le	prn-pro-p3-mf-sp	cat	es	prn-pro-ref-p3-mf-sp$prn-pro-ref$prn-pro
-	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn	cat	mi	prn-tn$prn$prn-tn-p1-mf-sg
+	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf	cat	mi	prn-tn$prn$prn-tn-p1-mf-sg
 	spa	otros muchos	prn$prn-tn	cat	molts altres	prn$prn-tn
 	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn	cat	ningú	prn$prn-tn-mf-sg$prn-tn$prn-tn-mf
 RL	spa	nadie	prn-tn-mf-sg$prn$prn-tn-mf$prn-tn	cat	ningú no	prn-tn-mf-sg$prn-tn
-RL	spa	nosotros	prn-tn-p1-GD$prn-tn$prn-tn-p1-GD-pl$prn	cat	nosaltres	prn-tn-p1-mf$prn-tn$prn-tn-p1-mf-pl$prn
+RL	spa	nosotros	prn-tn-p1-GD$prn-tn-p1-GD-pl$prn-tn$prn	cat	nosaltres	prn-tn-p1-mf$prn-tn$prn-tn-p1-mf-pl$prn
 LR	spa	nosotros	prn-tn-p1-f$prn-tn-p1-f-pl	cat	nosaltres	prn-tn-p1-mf$prn-tn$prn-tn-p1-mf-pl$prn
 LR	spa	nosotros	prn-tn-p1-m$prn-tn-p1-m-pl	cat	nosaltres	prn-tn-p1-mf$prn-tn$prn-tn-p1-mf-pl$prn
 	spa	pocos	prn-tn-m-pl$prn$prn-tn-m	cat	pocs	prn$prn-tn$prn-tn-GD-pl
 	spa	muchos	prn$prn-tn-m$prn-tn-m-pl	cat	molts	prn$prn-tn$prn-tn-GD-pl
 	spa	cualquiera	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn	cat	qualsevol	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn
 LR	spa	quienquiera	prn-tn-mf-sg$prn$prn-tn	cat	qualsevol	prn-tn-mf-ND$prn$prn-tn-mf$prn-tn
-	spa	cuánto	prn$prn-itg-m$prn-itg$prn-itg-m-sg	cat	quant	prn-itg$prn$prn-itg-m-pl
+	spa	cuánto	prn$prn-itg$prn-itg-m$prn-itg-m-sg	cat	quant	prn-itg$prn$prn-itg-m-pl
 RL	spa	algo	prn$prn-tn$prn-tn-nt-sg$prn-tn-nt	cat	quelcom	prn$prn-tn$prn-tn-nt$prn-tn-nt-sg
 RL	spa	quién	prn-itg-mf-ND	cat	qui	prn-itg-mf-sp$prn$prn-itg-mf$prn-itg
 LR	spa	quién	prn-itg-mf-pl	cat	qui	prn-itg-mf-sp$prn$prn-itg-mf$prn-itg
-LR	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg	cat	qui	prn-itg-mf-sp$prn$prn-itg-mf$prn-itg
+LR	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg	cat	qui	prn-itg-mf-sp$prn$prn-itg-mf$prn-itg
 LR	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-itg	cat	quin	prn-itg-GD$prn-itg-GD-ND
 RL	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-itg	cat	quin	prn-itg-f$prn$prn-itg$prn-itg-f-sg
 RL	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-itg	cat	quin	prn-itg-m$prn-itg-m-sg
@@ -5123,11 +5126,11 @@ RL	spa	todos juntos	prn	cat	tots plegats	prn$prn-tn
 	spa	por todo el mundo	adv	cat	per tot el món	adv
 RL	spa	los dos	prn$prn-tn-m	cat	tots dos	prn$prn-tn$prn-tn-GD
 LR	spa	ambos	prn$prn-tn$prn-tn-m$prn-tn-m-pl	cat	tots dos	prn$prn-tn$prn-tn-GD
-LR	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn	cat	tu	prn$prn-tn$prn-tn-p2-mf-sg
+LR	spa	ti	prn-tn-p2-mf-sg$prn$prn-tn$prn-tn-p2-mf	cat	tu	prn$prn-tn$prn-tn-p2-mf-sg
 	spa	tú	prn$prn-tn$prn-tn-p2-mf$prn-tn-p2-mf-sg	cat	tu	prn$prn-tn$prn-tn-p2-mf-sg
-	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg	cat	un	prn$prn-tn$prn-tn-GD
+	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg	cat	un	prn$prn-tn$prn-tn-GD
 	spa	otro	prn$prn-tn$prn-tn-m-sg$prn-tn-m	cat	un altre	prn-tn-m-sg$prn$prn-tn
-LR	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg	cat	l'un	prn
+LR	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg	cat	l'un	prn
 LR	spa	otro	prn$prn-tn$prn-tn-m-sg$prn-tn-m	cat	l'altre	prn$prn-tn-GD
 RL	spa	otro	prn-tn-GD-sg$prn-tn-GD	cat	d'altres	prn-tn-mf-pl$prn-tn-mf
 RL	spa	uno solo	prn	cat	un de sol	prn
@@ -5153,16 +5156,16 @@ RL	spa	de quien	rel-nn-mf-sg	cat	del qui	rel-nn-m-sg
 	spa	el cual	rel$rel-nn-GD-ND	cat	el qual	rel$rel-an$rel-an-m-sg
 	spa	el que	rel$rel-an$rel-an-m	cat	el que	rel-an-m-sg$rel$rel-an-m$rel-an
 	spa	cual	rel-an-mf$rel-an	cat	qual	rel-an$rel$rel-an-mf-sg
-RL	spa	quien	rel-nn-mf-pl	cat	el qui	rel-nn-f-pl
+RL	spa	quien	rel-nn-mf-pl$rel-mf	cat	el qui	rel-nn-f-pl
 RL	spa	quien	rel-nn-mf-sg$rel-nn	cat	el qui	rel-nn-f-sg
-	spa	quien	rel-nn-mf-pl	cat	el qui	rel$rel-nn-m-pl$rel-nn
+	spa	quien	rel-nn-mf-pl$rel-mf	cat	el qui	rel$rel-nn-m-pl$rel-nn
 RL	spa	quien	rel-nn-mf-sg$rel-nn	cat	el qui	rel-nn-m-sg
 RL	spa	quien	rel-nn-mf-ND	cat	qui	rel-nn-mf-sp$rel-nn$rel
 LR	spa	quien	rel-nn-mf-sg$rel-nn	cat	qui	rel-nn-mf-sp$rel-nn$rel
 	spa	lo cual	rel$rel-an-nt	cat	la qual cosa	rel$rel-an-nt
 LR	spa	lo que	rel-an-nt$rel$rel-an	cat	el que	rel-an-m-sg$rel$rel-an-m$rel-an
 LR	spa	lo que	rel-an-nt$rel$rel-an	cat	la qual cosa	rel$rel-an-nt
-LR	spa	adonde	rel$rel-adv	cat	on	rel$rel-adv
+LR	spa	adonde	rel-adv$rel	cat	on	rel$rel-adv
 	spa	donde	rel$rel-adv	cat	on	rel$rel-adv
 RL	spa	por quien	rel-nn-mf-pl	cat	pel qui	rel-nn-f-pl
 RL	spa	por quien	rel-nn-mf-sg	cat	pel qui	rel-nn-f-sg
@@ -5207,8 +5210,8 @@ RL	spa	clarificar	vblex	cat	clarificar	vblex
 	spa	acoplar	vblex	cat	acoblar	vblex
 	spa	recordar	vblex	cat	recordar	vblex
 RL	spa	recordar	vblex	cat	fer	vblex$
-LR	spa	acordar	vblex	cat	recordar	vblex
-	spa	acordar	vblex	cat	acordar	vblex
+LR	spa	acordar	vblex$vblex-pron	cat	recordar	vblex
+	spa	acordar	vblex$vblex-pron	cat	acordar	vblex
 RL	spa	acosar	vblex	cat	acaçar	vblex
 	spa	acosar	vblex	cat	assetjar	vblex
 	spa	asediar	vblex	cat	assetjar	vblex
@@ -5224,7 +5227,7 @@ RL	spa	acosar	vblex	cat	acaçar	vblex
 	spa	adecuar	vblex	cat	adequar	vblex
 LR	spa	adelantar	vblex	cat	avançar	vblex
 	spa	adentrar	vblex	cat	endinsar	vblex
-	spa	adherir	vblex	cat	adherir	vblex$vblex-pron
+	spa	adherir	vblex$vblex-pron	cat	adherir	vblex$vblex-pron
 	spa	adivinar	vblex	cat	endevinar	vblex
 	spa	adjudicar	vblex	cat	adjudicar	vblex
 	spa	crucificar	vblex	cat	crucificar	vblex
@@ -5432,6 +5435,7 @@ LR	spa	caminar	vblex$vblex-inf	cat	caminar	vblex
 	spa	no costar	vblex	cat	no costar	vblex
 	spa	cazar	vblex	cat	caçar	vblex
 	spa	cebar	vblex	cat	encebar	vblex
+LR	spa	cebar	vblex	cat	acarnissar	vblex
 	spa	ceder	vblex	cat	cedir	vblex
 	spa	celebrar	vblex	cat	celebrar	vblex
 	spa	cenar	vblex	cat	sopar	vblex
@@ -5592,7 +5596,7 @@ RL	spa	vicerrectorado	n	cat	vicerrectorat	n$n-m
 	spa	Informe Horizon	np	cat	Informe Horizon	np$np-al-m-sg
 	spa	honoris causa	adj	cat	honoris causa	adj$adj-mf
 	spa	conversar	vblex	cat	conversar	vblex
-	spa	convertir	vblex	cat	convertir	vblex$vblex-pron
+	spa	convertir	vblex$vblex-pron	cat	convertir	vblex$vblex-pron
 	spa	convivir	vblex$	cat	conviure	vblex
 	spa	convocar	vblex	cat	convocar	vblex
 	spa	copiar	vblex	cat	copiar	vblex
@@ -5890,7 +5894,7 @@ RL	spa	firmar	vblex	cat	firmar	vblex
 	spa	fotografiar	vblex	cat	fotografiar	vblex
 	spa	fracasar	vblex	cat	fracassar	vblex
 	spa	frecuentar	vblex	cat	freqüentar	vblex
-	spa	freír	vblex	cat	fregir	vblex
+	spa	freír	vblex$vblex-pron	cat	fregir	vblex
 	spa	frito	adj$adj-m$adj-m-sg	cat	fregit	adj$
 	spa	frenar	vblex	cat	frenar	vblex
 	spa	fruncir	vblex	cat	frunzir	vblex
@@ -6077,7 +6081,7 @@ LR	spa	morar	vblex	cat	habitar	vblex
 	spa	morir	vblex	cat	morir	vblex
 	spa	mostrar	vblex	cat	mostrar	vblex
 	spa	motivar	vblex	cat	motivar	vblex
-	spa	mover	vblex	cat	moure	vblex$vblex-pron
+	spa	mover	vblex$vblex-pron	cat	moure	vblex$vblex-pron
 	spa	movilizar	vblex	cat	mobilitzar	vblex
 	spa	mudar	vblex	cat	mudar	vblex$vblex-pron
 	spa	multiplicar	vblex	cat	multiplicar	vblex
@@ -6135,14 +6139,14 @@ LR	spa	padecer	vblex	cat	patir	vblex
 	spa	paralizar	vblex	cat	paralitzar	vblex
 RL	spa	parar	vblex	cat	aturar	vblex
 	spa	parar	vblex	cat	parar	vblex
-	spa	parecer	vblex$	cat	semblar	vblex$vblex-pron
+	spa	parecer	vblex$$vblex-pron	cat	semblar	vblex$vblex-pron
 	spa	parir	vblex	cat	parir	vblex
 	spa	partir	vblex	cat	partir	vblex
 	spa	pasar	vblex	cat	passar	vblex
 	spa	pasear	vblex	cat	passejar	vblex$vblex-pron
 	spa	pecar	vblex	cat	pecar	vblex
 	spa	pedir	vblex	cat	demanar	vblex
-	spa	pegar	vblex	cat	pegar	vblex
+	spa	pegar	vblex$vblex-pron	cat	pegar	vblex
 	spa	peinar	vblex	cat	pentinar	vblex
 	spa	pelar	vblex	cat	pelar	vblex
 	spa	pelear	vblex	cat	barallar	vblex
@@ -6318,7 +6322,7 @@ LR	spa	respaldar	vblex	cat	recolzar	vblex
 	spa	retrasar	vblex	cat	retardar	vblex
 	spa	retratar	vblex	cat	retratar	vblex
 	spa	retroceder	vblex	cat	retrocedir	vblex
-RL	spa	reunir	vblex	cat	aplegar	vblex
+RL	spa	reunir	vblex$vblex-pron	cat	aplegar	vblex
 	spa	revelar	vblex	cat	revelar	vblex
 	spa	reverdecer	vblex	cat	reverdir	vblex
 	spa	revisar	vblex	cat	revisar	vblex
@@ -6484,8 +6488,8 @@ LR	spa	vislumbrar	vblex	cat	albirar	vblex
 	spa	vivir	vblex	cat	viure	vblex
 	spa	volar	vblex	cat	volar	vblex
 	spa	volcar	vblex	cat	bolcar	vblex
-	spa	volver	vblex	cat	tornar	vblex$vblex-pron
-LR	spa	volver	vblex	cat	girar	vblex
+	spa	volver	vblex$vblex-pron	cat	tornar	vblex$vblex-pron
+LR	spa	volver	vblex$vblex-pron	cat	girar	vblex
 LR	spa	haber que	vbmod	cat	caldre	vbmod$vbmod-inf
 RL	spa	hacer falta	vbmod	cat	caldre	vbmod$vbmod-inf
 LR	spa	ser preciso	vbmod	cat	caldre	vbmod$vbmod-inf
@@ -6556,7 +6560,7 @@ RL	spa	abasto	n$n-m$n-m-ND	cat	abastament	n-m$n
 	spa	Facebook	np$np-al$np-al-m	cat	Facebook	np$np-al$np-al-sg$np-al-m-sg
 	spa	Mango	np	cat	Mango	np
 	spa	abdominal	adj$adj-mf-sg$adj-mf	cat	abdominal	adj$adj-mf$
-	spa	abeja	n$n-f$n-f-ND	cat	abella	n-f$n
+	spa	abeja	n-f$n$n-f-ND	cat	abella	n-f$n
 	spa	diario Avui	np	cat	diari Avui	np
 	spa	Abellán	np$np-cog$np-cog-mf	cat	Abellán	np$$np-cog$np-cog-mf-sp
 	spa	Suanzes	np	cat	Suanzes	np$np-cog-mf-sp
@@ -6565,7 +6569,7 @@ RL	spa	abasto	n$n-m$n-m-ND	cat	abastament	n-m$n
 	spa	Lewinsky	np	cat	Lewinsky	np$np-cog-mf-sp$
 	spa	Arjones	np	cat	Arjones	np$np-cog-mf-sp
 	spa	Abellán	np$np-cog$np-cog-mf	cat	Abellán	np$$np-cog$np-cog-mf-sp
-	spa	Abel	np$np-ant$np-ant-m$np-ant-m-sg	cat	Abel	np$np-ant-m-sg$$np-ant
+	spa	Abel	np$np-ant$np-ant-m-sg	cat	Abel	np$np-ant-m-sg$$np-ant
 	spa	Insalud	np	cat	Insalud	np
 	spa	Novelda	np$np-loc-f	cat	Novelda	np$np-loc-f
 	spa	estocada	n	cat	estocada	n-f$n
@@ -6580,7 +6584,7 @@ RL	spa	abasto	n$n-m$n-m-ND	cat	abastament	n-m$n
 LR	spa	escanciar	vblex	cat	abocar	vblex
 	spa	verter	vblex	cat	abocar	vblex
 	spa	abono	n$n-m	cat	abonament	n$n-m
-RL	spa	abono	n$n-m	cat	adob	n-m$n
+	spa	abono	n$n-m	cat	adob	n-m$n
 LR	spa	adobo	n$n-f	cat	adob	n-m$n
 LR	spa	curtición	n-f	cat	adob	n-m$n
 	spa	aborigen	n$n-mf	cat	aborigen	n-mf$n
@@ -6762,7 +6766,7 @@ RL	spa	agreste	adj-mf$adj	cat	agrest	adj-f
 RL	spa	agreste	adj-mf$adj	cat	agrest	adj-m
 	spa	agravar	vblex	cat	agreujar	vblex
 	spa	agrícola	adj$adj-mf$adj-mf-ND	cat	agrícola	adj$adj-mf$
-	spa	agricultor	n$n-m-sg$n-m	cat	agricultor	n$n-m
+	spa	agricultor	n$n-m$n-m-sg	cat	agricultor	n$n-m
 	spa	agrupación	n$n-f$n-f-ND	cat	agrupació	n-f$n
 	spa	agrupar	vblex	cat	agrupar	vblex$vblex-pron
 	spa	Aguado	np$np-cog$np-cog-mf	cat	Aguado	np$$np-cog$np-cog-mf-sp
@@ -6833,14 +6837,14 @@ LR	spa	ojo avizor	adv	cat	alerta	adv
 	spa	Alfaro	np$np-cog$np-cog-mf	cat	Alfaro	np$$np-ant-mf$np-ant
 	spa	Alfred	np$np-ant$np-ant-m	cat	Alfred	np$np-ant-m-sg$
 	spa	Alfredo	np$np-ant$np-ant-m$np-ant-m-sg	cat	Alfredo	np$np-ant-m-sg$np-ant
-	spa	alga	n$n-f	cat	alga	n-f$n
+	spa	alga	n-f$n	cat	alga	n-f$n
 	spa	Algarra	np$np-cog$np-cog-mf	cat	Algarra	np$$np-ant$np-ant-mf
 	spa	argelino	adj$adj-m-sg	cat	algerià	adj$
 	spa	Argelia	np-loc$np$np-loc-f	cat	Algèria	np-top$np-top-f-sg$np-top-f
 	spa	Algeciras	np$np-loc$np-loc-f	cat	Algesires	np$np-loc
 	spa	aliar	vblex	cat	aliar	vblex$vblex-pron
 	spa	aleación	n-f$n	cat	aliatge	n-m
-	spa	Alicia	np$np-ant$np-ant-f$np-ant-f-sg	cat	Alicia	np$np-ant-f-sg$np-ant
+	spa	Alicia	np$np-ant$np-ant-f-sg	cat	Alicia	np$np-ant-f-sg$np-ant
 	spa	alienación	n$n-f	cat	alienació	n-f$n
 LR	spa	enajenación	n$n-f	cat	alienació	n-f$n
 	spa	alias	n$n-m$n-m-sp	cat	àlies	n-m-sp$n-m$n
@@ -6861,7 +6865,7 @@ LR	spa	apodo	n-m$n$n-m-ND	cat	sobrenom	n$n-m
 	spa	alérgico	adj$adj-GD-ND	cat	al·lèrgic	adj$
 	spa	aliciente	n-m$n	cat	al·licient	n-m$n
 	spa	ajo	n$n-m$n-m-sg	cat	all	n-m$n
-	spa	alojamiento	n$n-m$n-m-sg	cat	allotjament	n-m$n
+	spa	alojamiento	n-m$n$n-m-sg	cat	allotjament	n-m$n
 	spa	alucinante	adj-mf$adj$adj-mf-sg	cat	al·lucinant	adj$
 	spa	alejamiento	n$n-m	cat	allunyament	n-m$n
 	spa	alusión	n$n-f$n-f-ND	cat	al·lusió	n-f$n
@@ -6954,7 +6958,7 @@ LR	spa	ensenar	vblex	cat	ancorar	vblex
 	spa	Andorra	np$np-loc$np-loc-f	cat	Andorra	np$np-loc$np-loc-f
 	spa	Andrade	np$np-cog	cat	Andrade	np$np-ant-mf$$np-ant
 	spa	Andrea	np$np-ant$np-ant-f-sg	cat	Andrea	np$np-ant$np-ant-f-sg
-	spa	Andrés	np$np-ant$np-ant-m$np-ant-m-sg	cat	Andrés	np$np-ant-m-sg$$np-ant
+	spa	Andrés	np$np-ant$np-ant-m-sg	cat	Andrés	np$np-ant-m-sg$$np-ant
 	spa	Andreu	np$np-ant	cat	Andreu	np$np-ant$np-ant-m-sg$
 	spa	trasto	n-m$n	cat	andròmina	n-f
 	spa	pato	n$n-m$n-m-sg	cat	ànec	n-m$n
@@ -7220,7 +7224,7 @@ LR	spa	desempleo	n$n-m$n-m-sg	cat	desocupació	n-f$n
 	spa	auditorio	n-m$n$n-m-sg	cat	auditori	n-m$n$n-m-sg
 	spa	auditor	n$n-m$n-m-sg	cat	auditor	n$n-m
 	spa	augurar	vblex	cat	augurar	vblex
-	spa	Augusto	np$np-ant$np-ant-m	cat	Augusto	np$np-ant-m-sg$
+	spa	Augusto	np$np-ant	cat	Augusto	np$np-ant-m-sg$
 	spa	aula	n$n-f$n-f-sg	cat	aula	n-f$n
 	spa	aulario	n$n-m	cat	aulari	n-m$n
 	spa	Aura	np$np-ant	cat	Aura	$np$np-ant$np-ant-f-sg
@@ -7230,7 +7234,7 @@ LR	spa	desempleo	n$n-m$n-m-sg	cat	desocupació	n-f$n
 	spa	Aurora	np$np-ant$np-ant-f-sg	cat	Aurora	np$np-ant-f-sg$$np-ant
 	spa	australiano	adj$adj-m-sg	cat	australià	adj$
 	spa	australiano	n$n-GD	cat	australià	n$n-m
-	spa	Australia	np$np-top$np-top-f	cat	Austràlia	np$np-loc$np-loc-f
+	spa	Australia	np$np-loc$np-loc-f	cat	Austràlia	np$np-loc$np-loc-f
 	spa	austríaco	adj	cat	austríac	adj$
 LR	spa	austriaco	adj$adj-m-sg	cat	austríac	adj$
 	spa	austríaco	n$n-m	cat	austríac	n$n-m
@@ -7343,7 +7347,7 @@ LR	spa	baranda	n$n-f$n-f-ND	cat	barana	n$n-f
 	spa	Barberá	np$np-cog	cat	Barberá	np$np-cog$np-cog-mf-sp
 	spa	Barbera	np	cat	Barbera	$np$np-cog$np-cog-mf-sp
 	spa	barbero	n$n-m$n-m-sg	cat	barber	n$n-m
-	spa	barca	n$n-f$n-f-ND	cat	barca	n-f$n
+	spa	barca	n-f$n$n-f-ND	cat	barca	n-f$n
 	spa	Barça	np$np-al$np-al-m	cat	Barça	np$np-al$np-al-m-sg
 	spa	Barcelona	np$np-loc$np-loc-f	cat	Barcelona	np$np-loc$np-loc-f$
 	spa	Cayena	np	cat	Caiena	np
@@ -7364,7 +7368,7 @@ LR	spa	choza	n$n-f$n-f-ND	cat	barraca	n-f$n
 	spa	barriada	n$n-f	cat	barriada	n-f$n
 	spa	barril	n-m$n	cat	barril	n-m$n
 	spa	barroco	adj$adj-GD	cat	barroc	adj$
-	spa	Bartolomé	np$np-ant$np-ant-m	cat	Bartolomé	np$np-ant-m-sg$
+	spa	Bartolomé	np$np-ant	cat	Bartolomé	np$np-ant-m-sg$
 	spa	Bartomeu	np$np-ant	cat	Bartomeu	np$np-ant-m-sg$np-ant
 	spa	baza	n$n-f	cat	basa	n$n-f
 	spa	basculante	adj-mf$adj	cat	basculant	$adj
@@ -7410,7 +7414,7 @@ RL	spa	bebé	n$n-m$n-m-sg	cat	bebé	n$n-m
 	spa	Beitia	np	cat	Beitia	np$np-cog$np-cog-mf-sp
 	spa	balar	vblex	cat	belar	vblex
 	spa	Belda	np$np-cog	cat	Belda	np$np-cog$np-cog-mf-sp
-	spa	Belén	np-ant$np-ant-f	cat	Belén	np-ant$np-ant-f-sg$np
+	spa	Belén	np-ant	cat	Belén	np-ant$np-ant-f-sg$np
 	spa	Belén	np-loc$np$np-loc-m	cat	Betlem	np-top$np-top-m-sg
 	spa	Belenguer	np$np-cog	cat	Belenguer	np$np-cog$np-cog-mf-sp
 	spa	Bélgica	np$np-loc$np-loc-f	cat	Bèlgica	np$np-loc$np-loc-f
@@ -7443,7 +7447,7 @@ RL	spa	cordero	n$n-m$n-m-sg	cat	be	n-m$n
 	spa	Berlín	np$np-loc$np-loc-m	cat	Berlín	np$np-loc$np-loc-m
 	spa	Bermejo	np$np-cog	cat	Bermejo	np$$np-cog$np-cog-mf-sp
 	spa	Bermúdez	np$np-cog	cat	Bermúdez	np$$np-cog$np-cog-mf-sp
-	spa	Bernabé	np$np-ant$np-ant-m	cat	Bernabé	np$np-ant-m-sg$
+	spa	Bernabé	np$np-ant	cat	Bernabé	np$np-ant-m-sg$
 	spa	Bernabéu	np$np-cog	cat	Bernabéu	np$np-cog-mf-sp$
 	spa	Bernal	np$np-ant	cat	Bernal	np$$np-cog$np-cog-mf-sp
 	spa	Berna	np$np-loc$np-loc-f	cat	Berna	np$np-top-f-sg$np-top-f
@@ -7665,7 +7669,7 @@ LR	spa	Calpe	np$np-cog	cat	Calp	np$np-top-m-sg
 	spa	camuflaje	n$n-m	cat	camuflatge	n-m$n
 	spa	can	n$n-m	cat	ca	n-m$n
 LR	spa	ka	n$n-f	cat	ca	n-m$n
-	spa	Canadá	np$np-loc-m$np-loc	cat	Canadà	np$np-loc$np-loc-m
+	spa	Canadá	np$np-top-m$np-top	cat	Canadà	np$np-loc$np-loc-m
 LR	spa	canadiense	adj-mf$adj$adj-mf-sg	cat	canadenc	adj-GD
 RL	spa	canadiense	adj-mf$adj$adj-mf-sg	cat	canadenc	adj-f
 RL	spa	canadiense	adj-mf$adj$adj-mf-sg	cat	canadenc	adj$adj-m$
@@ -7674,8 +7678,8 @@ LR	spa	encauzamiento	n-m$n	cat	canalització	n-f$n
 	spa	canalizar	vblex	cat	canalitzar	vblex
 LR	spa	encauzar	vblex	cat	canalitzar	vblex
 	spa	canalla	adj-mf-sg$adj	cat	canalla	adj
-LR	spa	canalla	n$n-mf	cat	canalla	n-f$n-f-sg$n
-RL	spa	niño	n-m-pl	cat	canalla	n-f$n-f-sg$n
+LR	spa	canalla	n$n-mf	cat	canalla	n-f-sg$n$n-f
+RL	spa	niño	n-m-pl	cat	canalla	n-f-sg$n$n-f
 	spa	Canals	np$np-cog	cat	Canals	np$$np-cog-mf-sp
 	spa	canario	adj$adj-m-sg	cat	canari	adj
 	spa	Canarias	np$np-loc$np-loc-f	cat	Canàries	np$np-top-f-pl$np-top-f
@@ -7695,7 +7699,7 @@ LR	spa	encañado	n-m	cat	canonada	n-f$n
 	spa	Cantabria	np$np-loc$np-loc-f	cat	Cantàbria	np$np-loc$np-loc-f
 	spa	cantautor	n$n-m$n-m-pl	cat	cantautor	n$n-m
 LR	spa	botijo	n-m$n	cat	càntir	n$n-m
-	spa	cántaro	n$n-m	cat	càntir	n$n-m
+	spa	cántaro	n-m$n	cat	càntir	n$n-m
 LR	spa	canjear	vblex	cat	canviar	vblex
 	spa	canela	n$n-f	cat	canyella	n-f$n
 	spa	espinilla	n$n-f	cat	canyella	n-f$n
@@ -7707,7 +7711,7 @@ LR	spa	canjear	vblex	cat	canviar	vblex
 	spa	Caparrós	np$np-cog-mf	cat	Caparrós	np$$np-cog$np-cog-mf-sp
 	spa	capar	vblex	cat	capar	vblex
 	spa	capataz	n$n-m	cat	capatàs	n$n-m
-	spa	cabecera	n-f$n$n-f-ND	cat	capçalera	n-f$n$n-f-sg
+	spa	cabecera	n$n-f$n-f-ND	cat	capçalera	n-f$n$n-f-sg
 LR	spa	membrete	n-m$n-m-ND	cat	capçalera	n-f$n$n-f-sg
 	spa	gorro	n-m$n	cat	capell	n-m$n
 	spa	capilar	adj$adj-mf-sg$adj-mf	cat	capil·lar	adj$
@@ -7750,7 +7754,7 @@ LR	spa	Càrcer	np$np-loc$np-loc-f	cat	Càrcer	np$np-loc-f
 	spa	Carlos	np$np-ant$np-ant-m-sg	cat	Carlos	np-ant$np$np-ant-m-sg$
 	spa	Carlos	np$np-ant$np-ant-m-sg	cat	Carles	np-ant$np-ant-m-sg$np$
 	spa	Carlota	np$np-ant	cat	Carlota	np$np-ant-f-sg$np-ant
-	spa	Carmen	np-ant$np$np-ant-f$np-ant-f-sg	cat	Carmen	np$np-ant-f-sg$$np-ant
+	spa	Carmen	np-ant$np$np-ant-f-sg	cat	Carmen	np$np-ant-f-sg$$np-ant
 	spa	Carme	np$np-ant	cat	Carme	np$np-ant-f-sg$np-ant
 	spa	Carmona	np$np-cog$np-cog-mf	cat	Carmona	np$$np-ant$np-ant-mf
 	spa	carnal	adj-mf$adj$adj-mf-sg	cat	carnal	adj$
@@ -7758,7 +7762,7 @@ LR	spa	carnet	n$n-m	cat	carnet	n$n-m
 	spa	carné	n-m$n	cat	carnet	n$n-m
 	spa	Carod	np	cat	Carod	np$np-cog$np-cog-mf-sp
 	spa	Carolina	np$np-ant$np-ant-f-sg	cat	Carolina	np$np-ant-f-sg$np-ant$
-	spa	carpa	n$n-f	cat	carpa	n-f$n
+	spa	carpa	n-f$n	cat	carpa	n-f$n
 	spa	carpeta	n-f$n	cat	carpeta	n-f$n
 	spa	Carrasco	np$np-cog	cat	Carrasco	np$$np-cog$np-cog-mf-sp
 	spa	Carratalá	np	cat	Carratalá	np$np-cog$np-cog-mf-sp
@@ -7812,7 +7816,7 @@ LR	spa	Castellón	np$np-cog	cat	Castelló	np$$np-cog-mf-sp
 	spa	cataclismo	n$n-m	cat	cataclisme	n-m$n
 	spa	Català	np$np-cog	cat	Català	np$$np-cog$np-cog-mf-sp
 	spa	catálogo	n$n-m$n-m-sg	cat	catàleg	n-m$n
-	spa	Catalina	np$np-ant$np-ant-f	cat	Catalina	np$np-ant-f-sg$np-ant
+	spa	Catalina	np-ant$np$np-ant-f	cat	Catalina	np$np-ant-f-sg$np-ant
 	spa	catalizador	n$n-m$n-m-sg	cat	catalitzador	n-m$n
 LR	spa	Catalunya	np$np-loc-f$np-loc	cat	Catalunya	np$np-loc$np-loc-f
 	spa	Cataluña	np$np-loc$np-loc-f	cat	Catalunya	np$np-loc$np-loc-f
@@ -7840,7 +7844,7 @@ LR	spa	recato	n-m$n	cat	cautela	n-f
 	spa	CD	n$n-acr-m$n-acr	cat	CD	n-acr-m-sp$n$n-acr-m$n-acr
 	spa	cd-rom	n	cat	cd-rom	n
 	spa	Cecilia	np$np-ant$np-ant-f-sg	cat	Cecilia	np$np-ant-f-sg$np-ant$
-	spa	ceguera	n$n-f$n-f-ND	cat	ceguesa	n-f$n$n-f-ND
+	spa	ceguera	n-f$n$n-f-ND	cat	ceguesa	n-f$n$n-f-ND
 	spa	Cela	np$np-cog	cat	Cela	np$np-cog$np-cog-mf-sp
 	spa	celebración	n$n-f$n-f-sg	cat	celebració	n-f$n
 	spa	celeridad	n$n-f$n-f-sg	cat	celeritat	n-f$n
@@ -7873,7 +7877,7 @@ LR	spa	recato	n-m$n	cat	cautela	n-f
 	spa	Cervera	np$np-cog	cat	Cervera	np$$np-cog-mf-sp
 	spa	cervecería	n-f$n	cat	cerveseria	n-f$n
 	spa	cesárea	n	cat	cesària	n$n-f
-	spa	César	np$np-ant$np-ant-m$np-ant-m-sg	cat	César	np-ant$np-ant-m-sg$$np
+	spa	César	np$np-ant$np-ant-m-sg	cat	César	np-ant$np-ant-m-sg$$np
 	spa	Cèsar	np-ant	cat	Cèsar	np-ant$$np-ant-mf
 	spa	Julio César	np	cat	Juli Cèsar	np-ant-m-sg$np
 	spa	César Augusto	np	cat	Cèsar August	np$np-ant-m-sg
@@ -7935,9 +7939,9 @@ LR	spa	reunión	n$n-f$n-f-ND	cat	cimera	n-f$n
 	spa	claramente	adv	cat	clarament	adv
 	spa	clarisa	adj	cat	clarissa	adj
 	spa	clave	adj$adj-mf$adj-mf-ND	cat	clau	adj$adj-mf
-	spa	Claudia	np$np-ant$np-ant-f$np-ant-f-sg	cat	Claudia	np$np-ant-f-sg$$np-ant
+	spa	Claudia	np$np-ant$np-ant-f-sg	cat	Claudia	np$np-ant-f-sg$$np-ant
 	spa	claudicación	n	cat	claudicació	n$n-f
-	spa	Claudio	np-ant$np$np-ant-m	cat	Claudio	np$np-ant-m-sg
+	spa	Claudio	np-ant$np	cat	Claudio	np$np-ant-m-sg
 	spa	clave	n-f$n$n-f-ND	cat	clau	n-f$n
 	spa	clavo	n-m$n$n-m-ND	cat	clau	n-m
 	spa	llave	n-f$n$n-f-ND	cat	clau	n-f$n
@@ -8001,7 +8005,7 @@ LR	spa	panda	n$n-f	cat	colla	n-f$n
 	spa	Coloma	np$np-cog$np-cog-mf	cat	Coloma	np$$np-cog$np-cog-mf-sp
 	spa	colombiano	adj$adj-m-sg	cat	colombià	adj$
 	spa	colombiano	n$n-GD	cat	colombià	n$n-m
-	spa	Colombia	np$np-top$np-top-f	cat	Colòmbia	np$np-loc$np-loc-f
+	spa	Colombia	np$np-top-f$np-top	cat	Colòmbia	np$np-loc$np-loc-f
 LR	spa	palomo	n$n-m	cat	colom	n-m$n
 RL	spa	palomo	n-f	cat	colom	n-m$n
 	spa	Colom	np$np-cog$np-cog-mf	cat	Colom	$np$np-ant-m-sg
@@ -8283,7 +8287,7 @@ LR	spa	percance	n-m-sg	cat	contratemps	n-m-sp$n$n-m
 	spa	hora y media	n	cat	hora i mitja	n
 	spa	solemnizar	vblex	cat	solemnitzar	vblex
 	spa	Coria	np-loc$np$np-loc-f	cat	Còria	np-top$np$np-top-f-sg
-	spa	coro	n$n-m$n-m-ND	cat	cor	n-m$n
+	spa	coro	n-m$n$n-m-ND	cat	cor	n-m$n
 	spa	Cornellà	np-loc$np$np-loc-f	cat	Cornellà	np-loc$np-loc-f
 LR	spa	Cornellá	np-loc$np$np-loc-f	cat	Cornellà	np-top$np-top-m-sg
 	spa	cornisa	n$n-f	cat	cornisa	n-f$n
@@ -8370,7 +8374,7 @@ LR	spa	palomita	n$n-f	cat	rosa	n$n-f$
 	spa	CSIF	n	cat	CSIF	n-acr-m$n
 	spa	CUP	n	cat	CUP	n
 LR	spa	rabo	n-m$n$n-m-ND	cat	cua	n-f$n
-	spa	Cuba	np$np-top$np-top-f	cat	Cuba	np$np-loc$np-loc-f
+	spa	Cuba	np$np-loc$np-loc-f	cat	Cuba	np$np-loc$np-loc-f
 	spa	cúbico	adj$adj-GD	cat	cúbic	adj$
 	spa	cubismo	n$n-m	cat	cubisme	n-m$n$n-m-sg
 	spa	gusano	n-m$n$n-m-ND	cat	cuc	n-m$n
@@ -8414,7 +8418,7 @@ RL	spa	rebosante	adj-mf$adj	cat	curull	adj-m
 	spa	Damasco	np$np-loc$np-loc-m	cat	Damasc	np$np-loc$np-loc-m
 	spa	Damián	np$np-ant	cat	Damián	np$np-ant-m-sg$np-ant
 	spa	damnificar	vblex	cat	damnificar	vblex
-	spa	Daniel	np$np-ant$np-ant-m$np-ant-m-sg	cat	Daniel	np$np-ant$np-ant-m-sg$
+	spa	Daniel	np$np-ant$np-ant-m-sg	cat	Daniel	np$np-ant$np-ant-m-sg$
 	spa	Darío	np$np-ant	cat	Darío	np$np-ant-m-sg$$np-ant
 	spa	datar	vblex	cat	datar	vblex
 LR	spa	fechar	vblex	cat	datar	vblex
@@ -8676,7 +8680,7 @@ LR	spa	pormenor	n-m$n$n-m-sg	cat	detall	n-m$n
 	spa	deudor	n$n-m-sg$n-m	cat	deutor	n$n-m
 	spa	devastar	vblex	cat	devastar	vblex
 	spa	Devesa	np$np-cog	cat	Devesa	np$np-cog-mf-sp$
-	spa	avalancha	n-f$n	cat	devessall	n-m
+	spa	avalancha	n$n-f	cat	devessall	n-m
 	spa	devolución	n$n-f$n-f-sg	cat	devolució	n-f$n
 	spa	devoto	n$n-m	cat	devot	n$n-GD
 	spa	DGT	n	cat	DGT	n-acr-f$n
@@ -8689,7 +8693,7 @@ LR	spa	pormenor	n-m$n$n-m-sg	cat	detall	n-m$n
 	spa	diagnóstico	n-m$n$n-m-sg	cat	diagnòstic	n-m$n$n-m-sg
 	spa	radiodiagnóstico	n	cat	radiodiagnòstic	n
 	spa	Diagonal	np-loc$np	cat	Diagonal	np$np-loc
-	spa	dialecto	n$n-m$n-m-ND	cat	dialecte	n-m$n
+	spa	dialecto	n-m$n$n-m-ND	cat	dialecte	n-m$n
 	spa	dialéctico	adj$adj-m-sg	cat	dialèctic	adj$
 	spa	dialéctica	n$n-f	cat	dialèctica	n$n-f
 	spa	dial	n$n-m	cat	dial	n-m$n
@@ -8928,14 +8932,14 @@ LR	spa	Eivissa	np$np-loc-f	cat	Eivissa	np$np-loc$np-loc-f
 	spa	elevador	adj	cat	elevador	adj
 	spa	elevador	n$n-m	cat	elevador	n-m$n
 	spa	Elia	np$np-ant	cat	Elia	np$np-ant-m-sg$np-ant
-	spa	Elías	np$np-ant$np-ant-m$np-ant-m-sg	cat	Elías	np$np-ant-m-sg$$np-ant
+	spa	Elías	np$np-ant$np-ant-m-sg	cat	Elías	np$np-ant-m-sg$$np-ant
 	spa	eliminación	n$n-f$n-f-ND	cat	eliminació	n-f$n
 	spa	eliminatorio	adj$adj-m-sg$adj-m	cat	eliminatori	adj$
 	spa	eliminatoria	n$n-f	cat	eliminatòria	n-f$n
 	spa	Eli	np$np-ant	cat	Eli	np$np-ant-m-sg
 	spa	Elisabeth	np$np-ant	cat	Elisabeth	np$np-ant-f-sg$np-ant
 	spa	Elisa	np$np-ant$np-ant-f-sg	cat	Elisa	np$np-ant-f-sg$np-ant
-	spa	Eliseo	np$np-ant$np-ant-m	cat	Eliseo	np$np-ant-m-sg
+	spa	Eliseo	np$np-ant	cat	Eliseo	np$np-ant-m-sg
 	spa	élite	n$n-f	cat	elit	n-f$n
 LR	spa	elite	n	cat	elit	n-f$n
 	spa	Elizabeth	np$np-ant	cat	Elizabeth	np$np-ant-f-sg$np-ant
@@ -8977,7 +8981,7 @@ RL	spa	atasco	n$n-m$n-m-ND	cat	embussament	n$n-m
 	spa	embudo	n$n-m	cat	embut	n-m$n
 LR	spa	tapujo	n$n-m	cat	embut	n-m$n
 	spa	emergencia	n$n-f-sg$n-f	cat	emergència	n-f$n
-	spa	emergente	adj-mf$adj$adj-mf-sg	cat	emergent	adj$adj-mf$
+	spa	emergente	adj$adj-mf$adj-mf-sg	cat	emergent	adj$adj-mf$
 LR	spa	énfasis	n-m-sp$n-m$n	cat	èmfasi	n-mf$n$n-mf-ND
 RL	spa	énfasis	n-m-sp$n-m$n	cat	èmfasi	n-mf-pl
 RL	spa	énfasis	n-m-sp$n-m$n	cat	èmfasi	n-mf-sg
@@ -9259,7 +9263,7 @@ LR	spa	slam	n	cat	eslam	n
 	spa	enmienda	n$n-f$n-f-sg	cat	esmena	n-f$n
 	spa	enmendar	vblex	cat	esmenar	vblex
 	spa	mención	n$n-f$n-f-ND	cat	esment	n-m$n
-	spa	Esmeralda	np$np-ant$np-ant-f$np-ant-f-sg	cat	Esmeralda	np$np-ant-f-sg
+	spa	Esmeralda	np$np-ant$np-ant-f-sg	cat	Esmeralda	np$np-ant-f-sg
 	spa	esmoquin	n$n-m$n-m-sg	cat	esmòquing	n-m$n$n-m-sg
 	spa	espaciar	vblex	cat	espaiar	vblex
 LR	spa	paletilla	n$n-f$n-f-ND	cat	espatlla	n-f$n
@@ -9336,7 +9340,7 @@ LR	spa	timar	vblex	cat	estafar	vblex
 	spa	estamento	n	cat	estament	n-m$n
 	spa	estampar	vblex	cat	estampar	vblex
 	spa	estancar	vblex	cat	estancar	vblex
-	spa	estanco	n$n-m	cat	estanc	n-m$n$
+	spa	estanco	n-m$n	cat	estanc	n-m$n$
 	spa	estanco	adj	cat	estanc	adj
 LR	spa	estándar	adj-mf-sg	cat	estàndard	adj-mf-sp$adj$adj-mf
 LR	spa	estándar	adj-mf-pl	cat	estàndard	adj-mf-sp$adj$adj-mf
@@ -9349,7 +9353,7 @@ RL	spa	estándar	adj-mf-ND$adj$adj-mf	cat	estàndard	adj-mf-sp$adj$adj-mf
 LR	spa	status	n$n-m$n-m-sp	cat	estatus	n-m$n$n-m-sp
 	spa	estatutario	adj$adj-GD	cat	estatutari	adj
 	spa	estatuto	n-m$n$n-m-sg	cat	estatut	n$n-m
-	spa	Esteban	np$np-ant$np-ant-m$np-ant-m-sg	cat	Esteban	np$np-ant-m-sg$$np-ant
+	spa	Esteban	np$np-ant$np-ant-m-sg	cat	Esteban	np$np-ant-m-sg$$np-ant
 	spa	Estefanía	np$np-ant	cat	Estefanía	np$np-ant-f-sg$np-ant
 	spa	estelar	adj$adj-mf	cat	estel·lar	adj$$adj-mf
 	spa	estandarte	n$n-m	cat	estendard	n-m$n
@@ -9593,11 +9597,11 @@ RL	spa	locura	n$n-f$n-f-ND	cat	febrada	n-f$n
 	spa	felicitación	n$n-f	cat	felicitació	n$n-f
 	spa	felizmente	adv	cat	feliçment	adv
 	spa	feligrés	n$n-m-sg	cat	feligrès	n$n-m
-	spa	Felipe	np-ant$np$np-ant-m$np-ant-m-sg	cat	Felipe	np$np-ant-m-sg$np-ant
+	spa	Felipe	np-ant$np$np-ant-m-sg	cat	Felipe	np$np-ant-m-sg$np-ant
 	spa	Felip	np$np-ant	cat	Felip	np-ant-m-sg$np-ant$np$
-	spa	Felipe	np-ant$np$np-ant-m$np-ant-m-sg	cat	Felip	np-ant-m-sg$np-ant$np$
+	spa	Felipe	np-ant$np$np-ant-m-sg	cat	Felip	np-ant-m-sg$np-ant$np$
 	spa	Feliu	np$np-cog	cat	Feliu	np$$np-cog$np-cog-mf-sp
-	spa	Félix	np$np-ant$np-ant-m	cat	Félix	np$np-ant-m-sg$$np-ant
+	spa	Félix	np$np-ant	cat	Félix	np$np-ant-m-sg$$np-ant
 RL	spa	trabajador	adj$adj-GD-ND	cat	feinador	adj
 RL	spa	trabajador	n$n-m-sg$n-m	cat	feinador	n$n-GD
 	spa	feminista	adj$adj-mf$adj-mf-sg	cat	feminista	adj-mf$adj
@@ -9810,8 +9814,8 @@ LR	spa	a decir verdad	adv	cat	francament	adv
 	spa	Francia	np$np-top$np-top-f	cat	França	np$np-loc$np-loc-f
 	spa	Francisca	np$np-ant	cat	Francisca	np$np-ant-f-sg$np-ant
 	spa	Francesc	np$np-ant	cat	Francesc	np-ant$np-ant-m-sg$np$
-	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg	cat	Francisco	np-ant$np$np-ant-m-sg$
-	spa	Francisco	np-ant$np$np-ant-m$np-ant-m-sg	cat	Francesc	np-ant$np-ant-m-sg$np$
+	spa	Francisco	np-ant$np$np-ant-m-sg	cat	Francisco	np-ant$np$np-ant-m-sg$
+	spa	Francisco	np-ant$np$np-ant-m-sg	cat	Francesc	np-ant$np-ant-m-sg$np$
 	spa	Bonaventura	np-ant$np	cat	Bonaventura	np-ant-m-sg$np-ant
 	spa	Buenaventura	np-ant$np	cat	Buenaventura	np-ant$np-ant-mf
 	spa	Buenaventura	np-ant$np	cat	Bonaventura	np-ant-m-sg$np-ant
@@ -9874,7 +9878,7 @@ LR	spa	fumadero	n$n-f	cat	fumador	n$n-m
 	spa	gabinete	n$n-m$n-m-sg	cat	gabinet	n$n-m
 	spa	Gabino	np$np-ant	cat	Gabino	np$np-ant-m-sg
 	spa	Gabriela	np$np-ant$np-ant-f-sg	cat	Gabriela	np$np-ant-f-sg$np-ant$
-	spa	Gabriel	np$np-ant$np-ant-m$np-ant-m-sg	cat	Gabriel	np$np-ant-m-sg$np-ant$
+	spa	Gabriel	np$np-ant$np-ant-m-sg	cat	Gabriel	np$np-ant-m-sg$np-ant$
 	spa	Gadea	np$np-cog	cat	Gadea	np$np-cog$np-cog-mf-sp
 	spa	gag	n$n-m	cat	gag	n-m$n
 	spa	Gago	np$np-cog	cat	Gago	np$np-cog$np-cog-mf-sp
@@ -10012,7 +10016,7 @@ LR	spa	gluten	n-m-sp$n-m$n	cat	gluten	n-m-ND
 	spa	Gonzalo	np$np-ant	cat	Gonzalo	np$np-ant-m-sg$$np-ant
 	spa	Google	np-al$np$np-al-mf	cat	Google	np-al$np-al-m-sg
 	spa	Gorka	np$np-ant	cat	Gorka	np$np-ant-m-sg$$np-ant
-	spa	gorra	n$n-f	cat	gorra	n-f$n
+	spa	gorra	n-f$n	cat	gorra	n-f$n
 	spa	osadía	n$n-f$n-f-ND	cat	gosadia	n-f$n
 	spa	gotera	n	cat	gotera	n-f$n
 	spa	gótico	adj$adj-GD$$adj-GD-ND	cat	gòtic	adj$
@@ -10051,7 +10055,7 @@ RL	spa	rascacielos	n-m-sp$n$n-m	cat	gratacel	n-m-sg
 	spa	gratuitamente	adv	cat	gratuïtament	adv
 	spa	gratuidad	n$n-f$n-f-sg	cat	gratuïtat	n-f$n
 	spa	Grecia	np$np-loc$np-loc-f	cat	Grècia	np$np-loc$np-loc-f
-	spa	Samotracia	np$np-loc	cat	Samotràcia	np$np-top
+	spa	Samotracia	np-loc	cat	Samotràcia	np$np-top
 	spa	El Greco	np-ant$np	cat	El Greco	np-ant$np-ant-m-sg
 	spa	Greenpeace	np-al$np$np-al-m	cat	Greenpeace	np-al$np-al-f-sg
 	spa	gremio	n$n-m$n-m-ND	cat	gremi	n-m$n
@@ -10075,12 +10079,12 @@ LR	spa	badén	n$n-m	cat	gual	n-m$n
 	spa	guardaespaldas	n$n-mf-sp$n-mf	cat	guardaespatlles	n-mf-sp$n$n-mf
 	spa	Guardamar	np	cat	Guardamar	np$np-top-m-sg
 	spa	guardería	n$n-f	cat	guarderia	n-f$n$n-f-sg
-	spa	hucha	n$n-f	cat	guardiola	n-f$n
+	spa	hucha	n-f$n	cat	guardiola	n-f$n
 	spa	galardón	n$n-m$n-m-ND	cat	guardó	n-m$n
 	spa	galardonar	vblex$vblex-pp	cat	guardonar	vblex$vblex-pp
 LR	spa	guarro	adj$adj-m-sg	cat	brut	adj$$adj-sup
 	spa	Guatemala	np$np-top-f$np-top	cat	Guatemala	np$np-loc$np-loc-f
-	spa	guerrero	adj$$adj-GD-ND	cat	guerrer	adj
+	spa	guerrero	adj$adj-GD-ND	cat	guerrer	adj
 	spa	Guerrero	np$np-cog$np-cog-mf	cat	Guerrero	$np$np-ant-mf
 	spa	gueto	n$n-m	cat	gueto	n-m$n
 	spa	Guijarro	np$np-cog	cat	Guijarro	np$$np-cog-mf-sp
@@ -10135,7 +10139,7 @@ RL	spa	hachís	n-m-sp$n$n-m	cat	haixix	n-m-GD
 	spa	Hércules	np$np-ant	cat	Hèrcules	np$np-ant-m-sg$np-m
 	spa	Heredia	np$np-cog	cat	Heredia	np$$np-cog$np-cog-mf-sp
 	spa	hereditario	adj$adj-GD-ND	cat	hereditari	adj$
-	spa	Hermes	np$np-ant$np-ant-m	cat	Hermes	np$np-ant-m-sg$np-ant
+	spa	Hermes	np$np-ant	cat	Hermes	np$np-ant-m-sg$np-ant
 	spa	hermético	adj$adj-GD	cat	hermètic	adj$
 	spa	Herminia	np$np-ant	cat	Herminia	np$np-ant-f-sg
 	spa	Hernández	np$np-cog$np-cog-mf	cat	Hernández	np$$np-ant$np-ant-mf
@@ -10203,7 +10207,7 @@ LR	spa	tocayo	adj	cat	homònim	adj
 	spa	hospitalizar	vblex	cat	hospitalitzar	vblex
 	spa	hostelería	n$n-f	cat	hostaleria	n$n-f$n-f-sg
 	spa	hostal	n-m$n$n-m-sg	cat	hostal	n-m$n
-	spa	huésped	n$n-GD	cat	hoste	n$n-f
+	spa	huésped	n$n-m$n-m-ND	cat	hoste	n$n-f
 	spa	azafata	n-f$n	cat	hostessa	n
 	spa	hostilidad	n$n-f$n-f-sg	cat	hostilitat	n-f$n
 	spa	hotelero	adj$adj-m-sg	cat	hoteler	adj$
@@ -10642,7 +10646,7 @@ RL	spa	iraquí	n-mf$n$n-mf-ND	cat	iraquià	n-m
 	spa	islamista	n$n-mf	cat	islamista	n-mf$n$
 	spa	islam	n$n-m$n-m-sg	cat	islam	n$n-m
 	spa	Islandia	np$np-loc$np-loc-f	cat	Islàndia	np$np-loc$np-loc-f
-	spa	Israel	np$np-ant$np-ant-m$np-ant-m-sg	cat	Israel	np$np-ant-m-sg$np-ant
+	spa	Israel	np$np-ant$np-ant-m-sg	cat	Israel	np$np-ant-m-sg$np-ant
 	spa	Estambul	np$np-loc$np-loc-m	cat	Istanbul	np$np-top-m-sg$np-top-m
 	spa	Italia	np$np-loc$np-loc-f	cat	Itàlia	np$np-loc$np-loc-f
 	spa	itinerante	adj$adj-mf$adj-mf-sg	cat	itinerant	adj$adj-mf$
@@ -10660,8 +10664,8 @@ RL	spa	iraquí	n-mf$n$n-mf-ND	cat	iraquià	n-m
 	spa	Jackson	np$np-ant	cat	Jackson	np$$np-ant$np-ant-mf
 	spa	Jaén	np$np-loc$np-loc-f	cat	Jaén	np$np-loc$$np-loc-f
 	spa	Jaume	np$np-ant	cat	Jaume	np-ant$np-ant-m-sg$np$
-	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg	cat	Jaime	np$np-ant$np-ant-m-sg$
-	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg	cat	Jaume	np-ant$np-ant-m-sg$np$
+	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m	cat	Jaime	np$np-ant$np-ant-m-sg$
+	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m	cat	Jaume	np-ant$np-ant-m-sg$np$
 	spa	Joaquim	np$np-ant	cat	Joaquim	np-ant$np$np-ant-m-sg$
 	spa	Joaquín	np$np-ant$np-ant-m-sg	cat	Joaquín	np$np-ant-m-sg$np-ant$
 	spa	Joaquín	np$np-ant$np-ant-m-sg	cat	Joaquim	np-ant$np$np-ant-m-sg$
@@ -10683,20 +10687,20 @@ RL	spa	iraquí	n-mf$n$n-mf-ND	cat	iraquià	n-m
 	spa	Jerónimo	np$np-ant	cat	Jerónimo	np$np-ant-m-sg
 	spa	Jerry	np$np-ant	cat	Jerry	np$np-ant-m-sg
 	spa	Jerusalén	np$np-loc$np-loc-m	cat	Jerusalem	np$np-loc$np-loc-m
-	spa	Jesucristo	np$np-ant$np-ant-m	cat	Jesucrist	np$np-ant-m-sg
-	spa	Jesús	np$np-ant$np-ant-m$np-ant-m-sg	cat	Jesús	np$np-ant-m-sg$$np-ant
+	spa	Jesucristo	np$np-ant	cat	Jesucrist	np$np-ant-m-sg
+	spa	Jesús	np$np-ant$np-ant-m-sg	cat	Jesús	np$np-ant-m-sg$$np-ant
 	spa	yacer	vblex	cat	jeure	vblex
 	spa	Jiménez	np$np-cog$np-cog-mf	cat	Jiménez	np$$np-ant$np-ant-mf
 	spa	j	n$n-f	cat	j	n$n-f
 	spa	Joana	np$np-ant	cat	Joana	np-ant-f-sg$np$np-ant
-	spa	Juana	np-ant$np$np-ant-f	cat	Juana	np-ant-f-sg$np$np-ant
-	spa	Juana	np-ant$np$np-ant-f	cat	Joana	np-ant-f-sg$np$np-ant
-	spa	Joan	np$np-ant$np-ant-m	cat	Joan	np-ant$np-ant-m-sg$np$
+	spa	Juana	np-ant$np	cat	Juana	np-ant-f-sg$np$np-ant
+	spa	Juana	np-ant$np	cat	Joana	np-ant-f-sg$np$np-ant
+	spa	Joan	np$np-ant	cat	Joan	np-ant$np-ant-m-sg$np$
 	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg	cat	Juan	np-ant$np$np-ant-m-sg$
 	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg	cat	Joan	np-ant$np-ant-m-sg$np$
 	spa	Lluc	np-ant	cat	Lluc	np-ant-m-sg$np-ant$$np
-	spa	Lucas	np$np-ant$np-ant-m$np-ant-m-sg	cat	Lucas	np$$np-ant$np-ant-m-sg
-	spa	Lucas	np$np-ant$np-ant-m$np-ant-m-sg	cat	Lluc	np-ant-m-sg$np-ant$$np
+	spa	Lucas	np$np-ant$np-ant-m-sg	cat	Lucas	np$$np-ant$np-ant-m-sg
+	spa	Lucas	np$np-ant$np-ant-m-sg	cat	Lluc	np-ant-m-sg$np-ant$$np
 	spa	Amadeu	np-ant	cat	Amadeu	np-ant
 	spa	Amadeo	np-ant$np	cat	Amadeo	np-ant$np-ant-m-sg
 	spa	Amadeo	np-ant$np	cat	Amadeu	np-ant
@@ -10705,7 +10709,7 @@ RL	spa	iraquí	n-mf$n$n-mf-ND	cat	iraquià	n-m
 	spa	Humberto	np-ant$np	cat	Humbert	np-ant$np-ant-m-sg
 	spa	Umberto	np-ant$np	cat	Umberto	np$np-ant-m-sg
 	spa	Eco	np	cat	Eco	np
-	spa	Joel	np$np-ant$np-ant-m$np-ant-m-sg	cat	Joel	np$np-ant-m-sg$np-ant$
+	spa	Joel	np$np-ant$np-ant-m-sg	cat	Joel	np$np-ant-m-sg$np-ant$
 	spa	Joe	np$np-ant	cat	Joe	np$np-ant-m-sg$$np-ant
 	spa	juguete	n-m$n$n-m-ND	cat	joguina	n-f
 	spa	John	np$np-ant$np-ant-m	cat	John	np$np-ant$np-ant-m-sg$
@@ -10724,15 +10728,15 @@ RL	spa	iraquí	n-mf$n$n-mf-ND	cat	iraquià	n-m
 	spa	Jose	np$np-ant	cat	Jose	np$np-ant-m-sg$
 	spa	José	np$np-ant$np-ant-m$np-ant-m-sg	cat	José	np-ant$np$np-ant-m-sg$
 	spa	Josep	np$np-ant	cat	Josep	np-ant$np$np-ant-m-sg$
-	spa	Josué	np$np-ant$np-ant-m$np-ant-m-sg	cat	Josué	np$np-ant-m-sg$np-ant
+	spa	Josué	np$np-ant$np-ant-m-sg	cat	Josué	np$np-ant-m-sg$np-ant
 	spa	Josu	np$np-ant	cat	Josu	np$np-ant-m-sg
 	spa	Jover	np$np-cog	cat	Jover	np$$np-cog$np-cog-mf-sp
 	spa	Juárez	np$np-cog$np-cog-mf	cat	Juárez	np$$np-ant$np-ant-mf
-	spa	Judas	np-ant$np$np-ant-m	cat	Judes	np-ant-m-sg$np-ant
+	spa	Judas	np-ant$np	cat	Judes	np-ant-m-sg$np-ant
 	spa	judicialmente	adv	cat	judicialment	adv
 	spa	juguetón	adj	cat	juganer	adj$
 	spa	Julián	np$np-ant$np-ant-m-sg	cat	Julián	np$np-ant-m-sg$$np-ant
-	spa	Julia	np$np-ant$np-ant-f$np-ant-f-sg	cat	Julia	np$np-ant-f-sg$$np-ant
+	spa	Julia	np$np-ant$np-ant-f-sg	cat	Julia	np$np-ant-f-sg$$np-ant
 	spa	Juliá	np$np-ant	cat	Juliá	np$np-cog$np-cog-mf-sp
 	spa	Julià	np$np-ant	cat	Julià	np$np-ant-m-sg$np-ant
 	spa	Julieta	np$np-ant	cat	Julieta	np$np-ant-f-sg$$np-ant
@@ -10795,7 +10799,7 @@ LR	spa	fontanero	n$n-m	cat	lampista	n-mf$n
 	spa	Latorre	np$np-cog	cat	Latorre	np$$np-cog$np-cog-mf-sp
 	spa	Laura	np-ant$np$np-ant-f-sg	cat	Laura	np$np-ant-f-sg$np-ant$
 	spa	lavabo	n$n-m$n-m-ND	cat	lavabo	n-m$n$n-m-sg
-	spa	Lázaro	np$np-ant$np-ant-m	cat	Lázaro	np$np-ant-m-sg$
+	spa	Lázaro	np$np-ant	cat	Lázaro	np$np-ant-m-sg$
 	spa	Leal	np$np-cog	cat	Leal	np$np-ant-mf$
 	spa	lectivo	adj$adj-m-sg	cat	lectiu	adj
 	spa	legalidad	n$n-f$n-f-sg	cat	legalitat	n-f$n
@@ -10894,7 +10898,7 @@ LR	spa	Lérida	np$np-ant	cat	Lleida	np$np-loc$np-loc-f
 	spa	lejía	n$n-f	cat	lleixiu	n-m$n
 	spa	lienzo	n$n-m	cat	llenç	n-m$n
 	spa	lenteja	n$n-f	cat	llentilla	n-f$n
-	spa	leña	n$n-f$n-f-sg	cat	llenya	n-f$n$n-f-sg
+	spa	leña	n-f$n$n-f-sg	cat	llenya	n-f$n$n-f-sg
 	spa	leonés	adj$adj-m-sg	cat	lleonès	adj
 	spa	leonés	n$n-GD	cat	lleonès	n$n-m
 	spa	lapa	n$n-f	cat	llepassa	n-f$n
@@ -10999,7 +11003,7 @@ RL	spa	londinense	n-mf$n	cat	londinenc	n$n-m
 	spa	Lozoya	np$np-ant	cat	Lozoya	np$$np-ant
 	spa	Lucia	np$np-ant	cat	Lucia	np$np-ant-f-sg$$np-ant
 	spa	lucidez	n$n-f$n-f-sg	cat	lucidesa	n-f$n
-	spa	Lucio	np$np-ant$np-ant-m	cat	Lucio	np$np-ant-m-sg
+	spa	Lucio	np$np-ant	cat	Lucio	np$np-ant-m-sg
 	spa	lucrativo	adj$adj-m-sg	cat	lucratiu	adj$
 	spa	lucro	n$n-m$n-m-sg	cat	lucre	n-m$n
 	spa	lúdico	adj$adj-m-sg$adj-m	cat	lúdic	adj$
@@ -11029,7 +11033,7 @@ RL	spa	macabro	adj-GD$adj-GD-pl	cat	macabre	adj-mf-pl$adj$
 	spa	madurar	vblex	cat	madurar	vblex
 	spa	Maestre	np$np-cog	cat	Maestre	np$$np-cog$np-cog-mf-sp
 	spa	mafioso	adj$adj-m-sg	cat	mafiós	adj$$adj-sup
-	spa	Magdalena	np$np-ant$np-ant-f	cat	Magdalena	np$np-ant-f-sg$np-ant$
+	spa	Magdalena	np$np-ant	cat	Magdalena	np$np-ant-f-sg$np-ant$
 	spa	Magda	np$np-ant	cat	Magda	np$np-ant-f-sg$np-ant
 	spa	magisterio	n-m$n	cat	magisteri	n-m$n
 	spa	magistral	adj-mf$adj$adj-mf-sg	cat	magistral	adj$adj-mf$
@@ -11144,9 +11148,9 @@ LR	spa	manguera	n$n-f	cat	mànega	n-f$n
 	spa	Marianas	np$np-loc	cat	Mariannes	np-top$np-top-f-pl
 	spa	Mariano	np$np-ant	cat	Mariano	np$np-ant-m-sg$np-ant
 	spa	Maria	np$np-ant	cat	Maria	np-ant$np-ant-f-sg$np$
-	spa	María	np$np-ant$np-ant-f$np-ant-f-sg	cat	María	np-ant$np$np-ant-f-sg
+	spa	María	np$np-ant$np-ant-f-sg$np-ant-f	cat	María	np-ant$np$np-ant-f-sg
 	spa	Mª	np	cat	Mª	np
-	spa	Diana	np-ant$np$np-ant-f$np-ant-f-sg	cat	Diana	np-ant-f-sg$np-ant$$np
+	spa	Diana	np-ant$np$np-ant-f-sg	cat	Diana	np-ant-f-sg$np-ant$$np
 	spa	Maribel	np$np-ant	cat	Maribel	np$np-ant-f-sg
 	spa	marihuana	n$n-f$n-f-ND	cat	marihuana	n-f$n
 	spa	marinero	adj$adj-m-sg$adj-m	cat	mariner	adj$adj-m
@@ -11172,7 +11176,7 @@ RL	spa	marroquí	adj-mf$adj$adj-mf-sg	cat	marroquí	adj-m
 LR	spa	marroquí	n-mf$n	cat	marroquí	n$n-GD
 RL	spa	marroquí	n-mf$n	cat	marroquí	n-f
 RL	spa	marroquí	n-mf$n	cat	marroquí	n-m
-	spa	Marta	np$np-ant$np-ant-f	cat	Marta	np$np-ant$np-ant-f-sg$
+	spa	Marta	np$np-ant	cat	Marta	np$np-ant$np-ant-f-sg$
 	spa	Martha	np$np-ant	cat	Martha	np$np-ant-f-sg
 	spa	Martinez	np$np-cog$np-cog-mf	cat	Martinez	np$$np-cog$np-cog-mf-sp
 	spa	Martínez	np$np-cog$np-cog-mf	cat	Martínez	np$$np-ant$np-ant-mf
@@ -11208,7 +11212,7 @@ LR	spa	mascar	vblex	cat	mastegar	vblex
 	spa	masturbación	n$n-f	cat	masturbació	n-f$n
 	spa	colchón	n$n-m$n-m-sg	cat	matalàs	n-m$n
 	spa	Mataró	np$np-cog	cat	Mataró	np$np-cog-mf-sp$
-	spa	Mateo	np$np-ant$np-ant-m$np-ant-m-sg	cat	Mateo	np$np-ant-m-sg$$np-ant
+	spa	Mateo	np$np-ant$np-ant-m-sg	cat	Mateo	np$np-ant-m-sg$$np-ant
 	spa	Mateos	np$np-cog$np-cog-mf	cat	Mateos	np$$np-cog$np-cog-mf-sp
 	spa	materialización	n$n-f$n-f-sg	cat	materialització	n-f$n
 	spa	desmaterialización	n	cat	desmaterialització	n$n-f
@@ -11216,7 +11220,7 @@ LR	spa	mascar	vblex	cat	mastegar	vblex
 	spa	materno	adj$adj-GD$adj-GD-ND	cat	matern	adj$adj-GD$
 	spa	maternal	adj-mf$adj$adj-mf-sg	cat	maternal	adj$$adj-mf
 	spa	maternidad	n$n-f$n-f-ND	cat	maternitat	n-f$n$n-f-ND
-	spa	Matías	np$np-ant$np-ant-m$np-ant-m-sg	cat	Matías	np$np-ant-m-sg$$np-ant
+	spa	Matías	np$np-ant$np-ant-m-sg	cat	Matías	np$np-ant-m-sg$$np-ant
 	spa	matinal	adj-mf$adj	cat	matinal	adj-mf$adj$
 	spa	madrugar	vblex	cat	matinar	vblex
 	spa	matizar	vblex	cat	matisar	vblex
@@ -11293,7 +11297,7 @@ LR	spa	Méjico	np$np-top-m$np-top	cat	Mèxic	np$np-loc$np-loc-m
 	spa	Miami	np-loc$np$np-loc-f	cat	Miami	np-loc
 	spa	Michael	np$np-ant	cat	Michael	np$np-ant$np-ant-m-sg$
 	spa	Mickey	np$np-ant	cat	Mickey	np$np-ant-m-sg$np-ant
-	spa	microbio	n$n-m	cat	microbi	n-m$n
+	spa	microbio	n-m$n	cat	microbi	n-m$n
 	spa	microonda	n$n-f$n-f-sg	cat	microona	n-f$n$n-f-sg
 	spa	Microsoft	np$np-al$np-al-m	cat	Microsoft	np$np-al$np-al-m-sg
 	spa	microchip	n$n-m	cat	microxip	n$n-m
@@ -11324,6 +11328,7 @@ RL	spa	mejoría	n$n-f	cat	millorança	n$n-f
 RL	spa	minorista	n-mf$n	cat	minorista	n-mf$n
 	spa	minoritario	adj$adj-GD-ND$adj-GD	cat	minoritari	adj$
 	spa	exiguo	adj$adj-GD	cat	minso	adj
+RL	spa	exiguo	adj$adj-GD	cat	exigu	adj
 	spa	minusválido	adj	cat	minusvàlid	adj
 	spa	minusvalía	n$n-f	cat	minusvalidesa	n-f$n
 	spa	minusválido	n$n-GD	cat	minusvàlid	n$n-m$
@@ -11660,7 +11665,7 @@ LR	spa	aceituna	n$n-f	cat	oliva	n-f$n
 	spa	olivo	n-m$n$n-m-ND	cat	olivera	n-f
 	spa	Oliver	np$np-ant$np-ant-m	cat	Oliver	np$$np-ant-m-sg$np-ant
 	spa	Olivia	np$np-ant$np-ant-f-sg	cat	Olivia	np$np-ant-f-sg$$np-ant
-	spa	olla	n$n-f	cat	olla	n-f$n
+	spa	olla	n-f$n	cat	olla	n-f$n
 LR	spa	puchero	n-m$n	cat	olla	n-f$n
 	spa	Olmedo	np$np-cog	cat	Olmedo	np$$np-cog-mf-sp
 	spa	Olmo	np$np-cog	cat	Olmo	np$np-cog-mf-sp$
@@ -11736,8 +11741,8 @@ LR	spa	ropa	n$n-f$n-f-sg	cat	roba	n-f$n$n-f-sg
 	spa	Oviedo	np$np-loc$np-loc-f	cat	Oviedo	np$np-loc$$np-loc-f
 	spa	óvulo	n-m$n	cat	òvul	n-m$n
 	spa	Pau	np$np-ant	cat	Pau	np-ant$np-ant-m-sg$$np
-	spa	Pablo	np-ant$np$np-ant-m$np-ant-m-sg	cat	Pablo	np$np-ant-m-sg$np-ant$
-	spa	Pablo	np-ant$np$np-ant-m$np-ant-m-sg	cat	Pau	np-ant$np-ant-m-sg$$np
+	spa	Pablo	np-ant$np$np-ant-m-sg	cat	Pablo	np$np-ant-m-sg$np-ant$
+	spa	Pablo	np-ant$np$np-ant-m-sg	cat	Pau	np-ant$np-ant-m-sg$$np
 	spa	Pacheco	np$np-cog$np-cog-mf	cat	Pacheco	np$$np-ant-mf
 	spa	pacientemente	adv	cat	pacientment	adv
 	spa	pacifista	adj$adj-mf-sg$adj-mf	cat	pacifista	adj$adj-mf
@@ -11934,8 +11939,8 @@ RL	spa	pediatra	n-mf$n$n-mf-sg	cat	pediatre	n-f-sg
 	spa	pediatría	n$n-f	cat	pediatria	n-f$n$n-f-sg
 	spa	Pedraza	np$np-cog	cat	Pedraza	np$$np-cog-mf-sp
 	spa	Pere	np$np-ant	cat	Pere	np-ant$np-ant-m-sg$np$
-	spa	Pedro	np$np-ant$np-ant-m$np-ant-m-sg	cat	Pedro	np-ant$np$np-ant-m-sg$
-	spa	Pedro	np$np-ant$np-ant-m$np-ant-m-sg	cat	Pere	np-ant$np-ant-m-sg$np$
+	spa	Pedro	np$np-ant$np-ant-m-sg	cat	Pedro	np-ant$np$np-ant-m-sg$
+	spa	Pedro	np$np-ant$np-ant-m-sg	cat	Pere	np-ant$np-ant-m-sg$np$
 	spa	Pedrós	np$np-cog	cat	Pedrós	np$$np-cog$np-cog-mf-sp
 	spa	Pegaso	np$np-al	cat	Pegàs	np$np-al
 	spa	parche	n$n-m	cat	pegat	n-m$n
@@ -11966,7 +11971,7 @@ RL	spa	Penedés	np	cat	Penedés	np-cog-mf-sp$np$np-cog
 	spa	penetración	n$n-f$n-f-ND	cat	penetració	n-f$n
 	spa	península	n$n-f$n-f-ND	cat	península	n-f$n
 	spa	peninsular	adj$adj-mf-sg$adj-mf$	cat	peninsular	adj$$adj-mf
-RL	spa	pene	n-m$n-m-ND$n	cat	penis	n-m-sp$n-m
+RL	spa	pene	n-m$n$n-m-ND	cat	penis	n-m-sp$n-m
 LR	spa	pene	n-m-pl	cat	penis	n-m-sp$n-m
 LR	spa	pene	n-m-sg	cat	penis	n-m-sp$n-m
 	spa	penitencial	adj$adj-mf-sg	cat	penitencial	adj
@@ -12073,7 +12078,7 @@ LR	spa	machacar	vblex	cat	picar	vblex
 	spa	Piera	np$np-ant	cat	Piera	np$$np-cog-mf-sp
 	spa	pijama	n$n-m$n-m-sg	cat	pijama	n-m$n
 	spa	pilar	n$n-m	cat	pilar	n$n-m
-	spa	Pilar	np$np-ant$np-ant-f	cat	Pilar	np$np-ant-f-sg$np-ant
+	spa	Pilar	np$np-ant	cat	Pilar	np$np-ant-f-sg$np-ant
 	spa	Pili	np$np-ant	cat	Pili	np$np-ant-f-sg
 	spa	pilotar	vblex	cat	pilotar	vblex
 	spa	pinacoteca	n$n-f	cat	pinacoteca	n$n-f
@@ -12379,7 +12384,8 @@ RL	spa	software	n$n-m$n-m-sp	cat	programari	n-m-pl
 	spa	propagar	vblex	cat	propagar	vblex
 	spa	propiamente	adv	cat	pròpiament	adv
 	spa	propietario	adj$adj-GD	cat	propietari	adj
-LR	spa	casero	n$n-m$n-m-ND	cat	propietari	n$n-f
+LR	spa	casero	n$n-m$n-m-ND	cat	amo	n-m$n
+LR	spa	casero	n-f	cat	mestressa	n-f$n
 	spa	propietario	n$n-GD$n-GD-ND	cat	propietari	n$n-f
 	spa	propinar	vblex	cat	propinar	vblex
 	spa	proporcional	adj-mf$adj$adj-mf-pl	cat	proporcional	adj$adj-mf$
@@ -12554,7 +12560,7 @@ RL	spa	ramo	n-m$n$n-m-ND	cat	toia	n-f
 	spa	rapar	vblex	cat	rapar	vblex
 	spa	rapado	adj$adj-m-sg	cat	rapat	adj
 	spa	rápidamente	adv	cat	ràpidament	adv
-	spa	Raquel	np$np-ant$np-ant-f$np-ant-f-sg	cat	Raquel	np$np-ant-f-sg$np-ant
+	spa	Raquel	np$np-ant$np-ant-f-sg	cat	Raquel	np$np-ant-f-sg$np-ant
 	spa	raquítico	adj$adj-m-sg	cat	raquític	adj$
 LR	spa	descampado	adj	cat	ras	adj$adj-m
 	spa	descampado	n	cat	descampat	n
@@ -12584,7 +12590,7 @@ LR	spa	tachar	vblex	cat	titllar	vblex
 	spa	realmente	adv	cat	realment	adv
 	spa	reaparecer	vblex	cat	reaparèixer	vblex
 	spa	reaparición	n$n-f	cat	reaparició	n-f$n
-	spa	Rebeca	np$np-ant$np-ant-f	cat	Rebeca	np$np-ant-f-sg$np-ant$
+	spa	Rebeca	np$np-ant	cat	Rebeca	np$np-ant-f-sg$np-ant$
 	spa	rebelar	vblex	cat	rebel·lar	vblex$vblex-pron
 	spa	rebeldía	n$n-f	cat	rebel·lia	n-f$n
 	spa	reventar	vblex	cat	rebentar	vblex
@@ -12836,7 +12842,7 @@ LR	spa	retornar	vblex	cat	retornar	vblex
 	spa	reojo	n	cat	reüll	n$n-m
 	spa	reo	n	cat	reu	n$n-m
 LR	spa	allegar	vblex	cat	reunir	vblex$vblex-pron
-	spa	reunir	vblex	cat	reunir	vblex$vblex-pron
+	spa	reunir	vblex$vblex-pron	cat	reunir	vblex$vblex-pron
 	spa	reurbanización	n	cat	reurbanització	n-f$n
 	spa	Reus	np$np-cog	cat	Reus	np$np-loc-f$$np-loc
 	spa	reutilizar	vblex	cat	reutilitzar	vblex
@@ -12928,7 +12934,7 @@ LR	spa	Rosellón	np$np-loc	cat	Rosselló	np$np-cog-mf-sp$
 	spa	Rovira	np$np-cog	cat	Rovira	np$np-cog-mf-sp$
 	spa	Royo	np$np-cog	cat	Royo	$np$np-cog$np-cog-mf-sp
 	spa	RTVE	np$np-al$np-al-f	cat	RTVE	np$np-al
-	spa	Rubén	np$np-ant$np-ant-m$np-ant-m-sg	cat	Rubén	np$np-ant-m-sg$np-ant$
+	spa	Rubén	np$np-ant$np-ant-m-sg	cat	Rubén	np$np-ant-m-sg$np-ant$
 	spa	Rubí	np$np-ant	cat	Rubí	np$np-cog-mf-sp$
 	spa	rubor	n-m$n	cat	rubor	n-m$n
 	spa	Rufino	np$np-ant	cat	Rufino	np$np-ant-m-sg
@@ -12938,7 +12944,7 @@ LR	spa	Rosellón	np$np-loc	cat	Rosselló	np$np-cog-mf-sp$
 	spa	ruleta	n$n-f$n-f-sg	cat	ruleta	n-f$n$n-f-sg
 	spa	rumba	n$n-f	cat	rumba	n-f$n
 	spa	rural	adj$adj-mf$adj-mf-ND	cat	rural	adj$adj-mf$
-	spa	Rusia	np$np-top$np-top-f	cat	Rússia	np$np-loc$np-loc-f
+	spa	Rusia	np$np-top-f$np-top	cat	Rússia	np$np-loc$np-loc-f
 	spa	rústico	adj$adj-GD	cat	rústic	adj$
 	spa	Ruth	np$np-ant	cat	Ruth	np$np-ant-f-sg$np-ant
 	spa	Ruanda	np$np-loc$np-loc-f	cat	Rwanda	np$np-loc$np-loc-f
@@ -13025,7 +13031,7 @@ LR	spa	Salines	np	cat	Salines	np$np-loc
 	spa	sanear	vblex	cat	sanejar	vblex
 	spa	zaragozano	adj$adj-m-sg	cat	saragossà	adj
 	spa	Sarajevo	np$np-loc$np-loc-f	cat	Sarajevo	np$np-top-m-sg$np-top-m
-	spa	Sara	np$np-ant$np-ant-f$np-ant-f-sg	cat	Sara	np$np-ant$np-ant-f-sg
+	spa	Sara	np$np-ant$np-ant-f-sg	cat	Sara	np$np-ant$np-ant-f-sg
 	spa	sarcasmo	n$n-m	cat	sarcasme	n-m$n
 	spa	Cerdeña	np$np-loc$np-loc-f	cat	Sardenya	np$np-loc$np-loc-f
 	spa	sardina	n$n-f	cat	sardina	n-f$n
@@ -13098,8 +13104,8 @@ LR	spa	llaneza	n	cat	senzillesa	n-f$n
 	spa	secuela	n$n-f$n-f-sg	cat	seqüela	n$n-f
 	spa	secuencia	n$n-f$n-f-sg	cat	seqüència	n-f$n
 	spa	sequía	n$n-f$n-f-sg	cat	sequera	n$n-f$n-f-sg
-	spa	acequia	n$n-f$n-f-ND	cat	séquia	n-f$n
-RL	spa	acequia	n$n-f$n-f-ND	cat	sèquia	n$n-f
+	spa	acequia	n-f$n$n-f-ND	cat	séquia	n-f$n
+RL	spa	acequia	n-f$n$n-f-ND	cat	sèquia	n$n-f
 	spa	séquito	n$n-m	cat	seguici	n-m$n
 	spa	Sergi	np$np-ant	cat	Sergi	np$np-ant-m-sg$np-ant$
 	spa	Sergio	np-ant$np$np-ant-m$np-ant-m-sg	cat	Sergio	np$np-ant-m-sg$$np-ant
@@ -13136,7 +13142,7 @@ LR	spa	seo	n-f$n	cat	seu	n-f$n
 	spa	simbolizar	vblex	cat	simbolitzar	vblex
 LR	spa	similaridad	n$n-f	cat	similitud	n-f$n
 	spa	similitud	n$n-f$n-f-ND	cat	similitud	n-f$n
-	spa	Simón	np$np-ant$np-ant-m$np-ant-m-sg	cat	Simón	np$np-ant-m-sg$$np-ant
+	spa	Simón	np$np-ant$np-ant-m-sg	cat	Simón	np$np-ant-m-sg$$np-ant
 	spa	simpatizante	n$n-mf	cat	simpatitzant	n$n-mf
 	spa	simplemente	adv	cat	simplement	adv
 	spa	simulación	n$n-f	cat	simulació	n-f$n
@@ -13481,7 +13487,7 @@ LR	spa	tesón	n-m$n	cat	tenacitat	n-f$n$n-f-ND
 	spa	terapia	n$n-f	cat	teràpia	n$n-f
 LR	spa	tercer	adj$adj-f$adj-f-pl	cat	tercer	adj$adj-ord$adj-ord-GD-ND
 	spa	Tere	np$np-ant	cat	Tere	np$np-ant-f-sg
-	spa	Teresa	np$np-ant$np-ant-f	cat	Teresa	np$np-ant-f-sg$np-ant
+	spa	Teresa	np$np-ant	cat	Teresa	np$np-ant-f-sg$np-ant
 	spa	termal	adj$adj-mf$adj-mf-sg	cat	termal	adj$adj-mf$
 	spa	térmico	adj$adj-m-sg$adj-m	cat	tèrmic	adj$
 	spa	terminal	adj$adj-mf$adj-mf-sg	cat	terminal	adj$adj-mf$
@@ -13515,7 +13521,7 @@ LR	spa	Tarrasa	np-loc$np	cat	Terrassa	np$np-top$np-top-f
 LR	spa	tomillo	n$n-m	cat	timó	n-m$n
 	spa	tímpano	n$n-m	cat	timpà	n$n-m
 	spa	tenencia	n$n-f$n-f-sg	cat	tinença	n-f$n
-	spa	tinta	n$n-f$n-f-sg	cat	tinta	n$n-f
+	spa	tinta	n-f$n$n-f-sg	cat	tinta	n$n-f
 	spa	tintar	vblex	cat	tintar	vblex
 	spa	tinte	n-m$n	cat	tint	n-m$n
 	spa	tintorería	n$n-f	cat	tintoreria	n-f$n
@@ -13548,7 +13554,7 @@ LR	spa	Tm	n$n-f	cat	t	n$n-f-sp$n-f
 	spa	Tolosa	np$np-cog	cat	Tolosa	np$np-loc-f$$np-loc
 	spa	Toulouse	np$np-top	cat	Tolosa de Llenguadoc	np$np-top-f-sg
 	spa	tomate	n-m$n$n-m-sg	cat	tomàquet	n-m$n
-	spa	Tomás	np$np-ant$np-ant-m$np-ant-m-sg	cat	Tomás	np$np-ant-m-sg$$np-ant
+	spa	Tomás	np$np-ant$np-ant-m-sg	cat	Tomás	np$np-ant-m-sg$$np-ant
 	spa	Tom	np$np-ant$np-ant-m	cat	Tom	np$np-ant-m-sg$np-ant
 	spa	tonalidad	n$n-f$n-f-sg	cat	tonalitat	n-f$n
 	spa	tónico	adj$adj-GD-ND	cat	tònic	adj$
@@ -13571,7 +13577,7 @@ LR	spa	Torrevella	np	cat	Torrevella	np$np-top-f-sg
 	spa	Torrevieja	np$np-loc$np-loc-f	cat	Torrevella	np$np-top-f-sg
 	spa	Torrijos	np$np-cog	cat	Torrijos	np$np-cog-mf-sp$
 	spa	turrón	n$n-m	cat	torró	n$n-m
-	spa	tortuga	n$n-f$n-f-sg	cat	tortuga	n-f$n
+	spa	tortuga	n-f$n$n-f-sg	cat	tortuga	n-f$n
 	spa	tortura	n$n-f$n-f-ND	cat	tortura	n-f$n
 	spa	torturar	vblex	cat	torturar	vblex
 LR	spa	tos	n-f-pl	cat	tos	n-f-sp$n-f
@@ -13727,7 +13733,7 @@ LR	spa	apremiantemente	adv	cat	urgentment	adv
 	spa	urinario	adj$adj-m-sg	cat	urinari	adj$
 	spa	URL	n$n-acr	cat	URL	n$n-acr-f$n-acr$n-acr-f-sg
 	spa	zarpazo	n-m$n	cat	urpada	n-f
-	spa	Uruguay	np$np-top$np-top-m	cat	Uruguai	np$np-loc$np-loc-m
+	spa	Uruguay	np$np-loc$np-loc-m	cat	Uruguai	np$np-loc$np-loc-m
 	spa	utensilio	n$n-m$n-m-sg	cat	utensili	n-m$n
 	spa	útero	n$n-m$n-m-sg	cat	úter	n-m$n
 	spa	vacante	adj-mf$adj$adj-mf-pl	cat	vacant	adj$adj-mf$
@@ -13788,7 +13794,7 @@ LR	spa	inodoro	n-m$n$n-m-sg	cat	vàter	n-m$n
 	spa	vecinal	adj$adj-mf$adj-mf-sg	cat	veïnal	adj$adj-mf
 	spa	vecindad	n-f$n	cat	veïnatge	n-m
 	spa	vecindario	n-m$n	cat	veïnat	n-m$n
-	spa	Velasco	np$np-cog$np-cog-mf	cat	Velasco	np$$np-ant-mf
+	spa	Velasco	np$np-cog-mf$np-cog	cat	Velasco	np$$np-ant-mf
 	spa	Velázquez	np$np-cog$np-cog-mf	cat	Velázquez	np$$np-ant$np-ant-mf
 	spa	velero	n$n-m	cat	veler	n-m$n
 	spa	Vélez	np$np-cog	cat	Vélez	np$$np-cog-mf-sp
@@ -13803,7 +13809,7 @@ LR	spa	inodoro	n-m$n$n-m-sg	cat	vàter	n-m$n
 	spa	Venezuela	np$np-top-f$np-top	cat	Veneçuela	np$np-loc$np-loc-f
 	spa	ventilación	n$n-f	cat	ventilació	n-f$n
 	spa	camada	n$n-f	cat	ventrada	n-f$n
-	spa	Venus	np$np-ant	cat	Venus	np$np-al
+	spa	Venus	np$np-top-m	cat	Venus	np$np-al
 	spa	veracidad	n$n-f$n-f-sg	cat	veracitat	n-f$n
 	spa	verbal	adj$adj-mf$adj-mf-pl	cat	verbal	adj$adj-mf$
 	spa	verbalmente	adv	cat	verbalment	adv
@@ -14112,7 +14118,7 @@ LR	spa	en el mes de diciembre	adv	cat	el mes de desembre	adv
 RL	spa	Marruecos	np$np-loc$np-loc-m	cat	Marroc	np$np-top-m-sg
 	spa	Frankfurt	np$np-loc$np-loc-m	cat	Frankfurt	np$np-loc$np-loc-m
 	spa	Navarra	np$np-loc-f$np-loc	cat	Navarra	np$np-top-f-sg$
-	spa	Argentina	np$np-top$np-top-f	cat	Argentina	np$np-loc$np-loc-f
+	spa	Argentina	np$np-top-f$np-top	cat	Argentina	np$np-loc$np-loc-f
 	spa	Perpiñán	np	cat	Perpinyà	np$np-loc$np-loc-m
 	spa	Osona	np	cat	Osona	np$np-loc$np-loc-f
 	spa	Vallès	np$np-cog	cat	Vallès	np$$np-loc$np-loc-f
@@ -14179,7 +14185,7 @@ LR	spa	tal y como	cnjadv	cat	tal com	cnjadv
 	spa	entrega	n-f$n$n-f-sg	cat	lliurament	n-m$n
 	spa	suministro	n-m$n$n-m-sg	cat	subministrament	n-m$n
 	spa	rebaja	n$n-f	cat	rebaixa	n$n-f$n-f-pl
-	spa	brote	n-m$n	cat	brot	n-m$n
+	spa	brote	n$n-m	cat	brot	n-m$n
 	spa	carburante	n$n-m	cat	carburant	n$n-m
 	spa	remarcar	vblex	cat	remarcar	vblex
 	spa	catalanismo	n$n-m$n-m-ND	cat	catalanisme	n-m$n
@@ -14633,7 +14639,7 @@ RL	spa	bebé	n$n-m$n-m-sg	cat	nadó	n-m$n
 	spa	dispepsia	n$n-f	cat	dispèpsia	n$n-f
 	spa	grieta	n$n-f$n-f-ND	cat	clivella	n-f$n
 	spa	anestesia	n$n-f	cat	anestèsia	n-f$n
-	spa	piojo	n$n-m	cat	poll	n$n-m
+	spa	piojo	n-m$n	cat	poll	n$n-m
 	spa	antitetánico	adj	cat	antitetànic	adj
 	spa	espora	n$n-f	cat	espora	n-f$n
 	spa	curación	n-f$n	cat	curació	n-f$n
@@ -14694,7 +14700,7 @@ RL	spa	longitud	n$n-f$n-f-sg	cat	llargada	n-f$n
 	spa	coloración	n$n-f	cat	coloració	n-f$n
 RL	spa	caja	n$n-f$n-f-sg	cat	capsa	n-f$n
 	spa	bucal	adj$adj-mf-sg$adj-mf	cat	bucal	adj$$adj-mf
-	spa	gemelo	n$n-m$n-m-ND	cat	bessó	n$n-m
+	spa	gemelo	n$n-f	cat	bessó	n$n-m
 	spa	bacilo	n-m$n	cat	bacil	n-m$n
 RL	spa	anisakiasis	n-f-sp	cat	anisakiosi	n-f-sg
 RL	spa	anisakiasis	n-f-sp	cat	anisakiosi	n-f-pl
@@ -14759,7 +14765,7 @@ RL	spa	adecuado	adj$adj-GD-ND$adj-GD	cat	adient	adj-mf$adj$
 	spa	toxina	n$n-f	cat	toxina	n-f$n
 	spa	tijeras	n-f$n$n-f-pl	cat	tisores	n-f-pl$n-f$n
 	spa	tiña	n$n-f	cat	tinya	n$n-f
-	spa	testículo	n$n-m	cat	testicle	n-m$n
+	spa	testículo	n-m$n	cat	testicle	n-m$n
 	spa	naranjada	n$n-f	cat	taronjada	n-f$n
 	spa	supositorio	n-m$n	cat	supositori	n-m$n
 	spa	sudoración	n	cat	sudoració	n$n-f
@@ -14872,7 +14878,7 @@ RL	spa	alrededor de	pr	cat	pels volts de	pr
 LR	spa	neonato	adj	cat	nounat	adj
 LR	spa	cubito	n	cat	glaçó	n
 	spa	pie de rata purgante	n	cat	peu de rat bord	n
-	spa	caries	n$n-f-sp$n-f	cat	càries	n-f$n-f-sp$n
+	spa	caries	n$n-f-sp$n-f	cat	càries	n-f-sp$n-f$n
 	spa	meningitis	n-f-sp$n$n-f	cat	meningitis	n-f-sp$n$n-f
 	spa	epiglotitis	n	cat	epiglotitis	n
 	spa	periodontitis	n	cat	periodontitis	n
@@ -15100,7 +15106,6 @@ LR	spa	Narcís	np$np-ant	cat	Narcís	np$np-ant-m-sg$np-ant
 LR	spa	alubia	n-f$n$n-f-ND	cat	mongeta	n-f$n
 LR	spa	alubia	n-f$n$n-f-ND	cat	fesol	n-m$n
 	spa	suburbio	n-m$n$n-m-sg	cat	suburbi	n-m$n
-	spa	tarificación	n	cat	tarificació	n-f$n
 LR	spa	parabrisas	n-m-sp$n-m$n	cat	parabrisa	n-m$n$n-m-ND
 RL	spa	parabrisas	n-m-sp$n-m$n	cat	parabrisa	n-m-pl
 RL	spa	parabrisas	n-m-sp$n-m$n	cat	parabrisa	n-m-sg
@@ -15964,7 +15969,7 @@ LR	spa	envalentonar	vblex	cat	embravir	vblex
 	spa	eslora	n$n-f	cat	eslora	n-f$n
 	spa	esloveno	n$n-m	cat	eslovè	n$n-m
 	spa	esloveno	adj$adj-m-sg	cat	eslovè	adj
-	spa	esófago	n$n-m	cat	esòfag	n-m$n
+	spa	esófago	n-m$n	cat	esòfag	n-m$n
 	spa	españolista	adj$adj-mf-sg	cat	espanyolista	adj
 	spa	espectacularmente	adv	cat	espectacularment	adv
 	spa	espeleólogo	n	cat	espeleòleg	n$n-m
@@ -16378,7 +16383,7 @@ LR	spa	jalear	vblex	cat	ovacionar	vblex
 	spa	lagarto	n-m$n	cat	fardatxo	n-m$n
 	spa	lamentación	n$n-f	cat	lamentació	n-f$n
 	spa	lamer	vblex	cat	llepar	vblex
-	spa	lancha	n$n-f	cat	llanxa	n-f$n
+	spa	lancha	n-f$n	cat	llanxa	n-f$n
 	spa	lapso	n$n-m	cat	lapse	n-m$n
 	spa	lapsus	n$n-m$n-m-sp	cat	lapsus	n$n-m$n-m-sp
 	spa	larva	n$n-f	cat	larva	n-f$n
@@ -16580,9 +16585,9 @@ RL	spa	montañoso	adj$adj-GD-ND	cat	muntanyós	adj$
 	spa	mundialmente	adv	cat	mundialment	adv
 	spa	munición	n$n-f$n-f-ND	cat	munició	n-f$n
 	spa	municipalista	adj	cat	municipalista	adj
-RL	spa	murciélago	n$n-m	cat	ratpenat	n-m$n
-	spa	murciélago	n$n-m	cat	ratpenat	n-m$n
-RL	spa	murciélago	n$n-m	cat	rat-penat	n-m$n
+RL	spa	murciélago	n-m$n	cat	ratpenat	n-m$n
+	spa	murciélago	n-m$n	cat	ratpenat	n-m$n
+RL	spa	murciélago	n-m$n	cat	rat-penat	n-m$n
 	spa	murmullo	n$n-m	cat	murmuri	n-m$n
 	spa	musa	n$n-f	cat	musa	n-f$n
 	spa	mutilación	n$n-f	cat	mutilació	n-f$n
@@ -16739,7 +16744,7 @@ LR	spa	pastizal	n$n-m$n-m-ND	cat	pasturatge	n-m$n
 	spa	péndulo	n-m$n	cat	pèndol	n-m$n
 	spa	penetrante	adj-mf$adj$adj-mf-sg	cat	penetrant	adj-mf$adj$
 	spa	pensador	adj$adj-m-sg	cat	pensador	adj
-	spa	pepino	n$n-m$n-m-pl	cat	cogombre	n$n-m
+	spa	pepino	n-m$n$n-m-pl	cat	cogombre	n$n-m
 	spa	pepinillo	n$n-m	cat	cogombret	n$n-m
 	spa	cebollino	n$n-m	cat	cibulet	n
 	spa	pera	n$n-f$n-f-ND	cat	pera	n-f$n
@@ -17211,7 +17216,7 @@ LR	spa	shock	n-m$n$n-m-sg	cat	xoc	n-m$n
 	spa	significativamente	adv	cat	significativament	adv
 	spa	silenciador	n$n-m	cat	silenciador	n-m$n
 	spa	sillar	n$n-m	cat	carreu	n-m$n
-	spa	silvestre	adj-mf$adj-mf-sg$adj	cat	silvestre	adj$$adj-mf
+	spa	silvestre	adj-mf$adj$adj-mf-sg	cat	silvestre	adj$$adj-mf
 	spa	simbólicamente	adv	cat	simbòlicament	adv
 	spa	simbología	n$n-f	cat	simbologia	n-f$n
 	spa	simétrico	adj$adj-GD	cat	simètric	adj$
@@ -17697,7 +17702,6 @@ LR	spa	cimentación	n	cat	fonamentació	n-f$n
 	spa	inacción	n$n-f	cat	inacció	n-f$n
 	spa	inanición	n$n-f	cat	inanició	n-f$n
 	spa	incapacitación	n	cat	incapacitació	n-f$n
-	spa	incentivación	n$n-f	cat	incentivament	n-m
 	spa	incoación	n$n-f	cat	incoació	n-f$n
 	spa	incriminación	n	cat	incriminació	n-f$n
 	spa	individualización	n$n-f	cat	individualització	n-f$n
@@ -18957,9 +18961,9 @@ LR	spa	cancerbero	n	cat	porter	n$n-m
 	spa	anímico	adj$adj-m-sg$adj-m	cat	anímic	adj$
 	spa	vizcaíno	adj$adj-m-sg	cat	biscaí	adj
 	spa	vizcaíno	n	cat	biscaí	n$n-m
-LR	spa	tuberculosis	n-f-sp$n-f$n	cat	tuberculosi	n-f$n-f-ND
-RL	spa	tuberculosis	n-f-sp$n-f$n	cat	tuberculosi	n-f-pl
-RL	spa	tuberculosis	n-f-sp$n-f$n	cat	tuberculosi	n-f-sg
+LR	spa	tuberculosis	n-f-sp$n$n-f	cat	tuberculosi	n-f$n-f-ND
+RL	spa	tuberculosis	n-f-sp$n$n-f	cat	tuberculosi	n-f-pl
+RL	spa	tuberculosis	n-f-sp$n$n-f	cat	tuberculosi	n-f-sg
 RL	spa	trasplante	n-m$n	cat	trasplantació	n-f$n
 	spa	surrealista	adj$adj-mf-sg$adj-mf	cat	surrealista	adj$adj-mf$
 	spa	socorrista	adj$adj-mf-sg	cat	socorrista	adj
@@ -19021,7 +19025,7 @@ LR	spa	limeño	adj$adj-m-sg	cat	de Lima	adj-mf-sp$$adj
 	spa	Tony	np$np-ant	cat	Tony	np$np-ant-m-sg$np-ant
 	spa	Rossi	np$np-cog$np-cog-mf	cat	Rossi	np$np-cog-mf-sp$
 	spa	Peter	np$np-ant$np-ant-m	cat	Peter	np$np-ant-m-sg$$np-ant
-	spa	Nicolas	np$np-ant$np-ant-m	cat	Nicolas	np$np-ant-m-sg$np-ant
+	spa	Nicolas	np$np-ant	cat	Nicolas	np$np-ant-m-sg$np-ant
 	spa	Mahmud	np$np-ant	cat	Mahmud	np$np-ant-m-sg
 	spa	James	np$np-ant$np-ant-m	cat	James	np$np-ant-m-sg$$np-ant
 	spa	Stoner	np	cat	Stoner	np$np-cog-mf-sp
@@ -19032,7 +19036,7 @@ LR	spa	limeño	adj$adj-m-sg	cat	de Lima	adj-mf-sp$$adj
 	spa	Uribe	np$np-cog	cat	Uribe	np$np-cog-mf-sp
 	spa	Rijkaard	np	cat	Rijkaard	np$np-cog-mf-sp
 	spa	Clinton	np$np-ant	cat	Clinton	np$$np-ant$np-ant-mf
-	spa	Paulo	np$np-ant$np-ant-m	cat	Paulo	np$np-ant-m-sg$np-ant
+	spa	Paulo	np$np-ant	cat	Paulo	np$np-ant-m-sg$np-ant
 	spa	Vall	np$np-cog	cat	Vall	np-cog-mf-sp$$np
 	spa	Dennis	np$np-ant	cat	Dennis	np$np-ant-m-sg$np-ant$
 	spa	Royal	np$np-cog	cat	Royal	np$np-cog$np-cog-mf-sp
@@ -19128,7 +19132,7 @@ RL	spa	Menchov	np	cat	Ménxov	np$np-cog-mf-sp
 	spa	Caldera	np$np-cog	cat	Caldera	np-cog-mf-sp$np
 	spa	Ali	np-ant$np	cat	Ali	np-ant-m-sg$$np$np-ant
 	spa	Touré	np$np-cog	cat	Touré	np$np-ant-mf
-	spa	Parker	np$np-ant$np-ant-mf	cat	Parker	np$np-cog-mf-sp$
+	spa	Parker	np$np-ant	cat	Parker	np$np-cog-mf-sp$
 	spa	Beckham	np	cat	Beckham	np$np-cog-mf-sp$
 	spa	Simpson	np$np-cog$np-cog-mf	cat	Simpson	np$np-cog-mf-sp$
 	spa	Sharif	np	cat	Sharif	np$np-cog-mf-sp
@@ -19377,7 +19381,7 @@ RL	spa	Menchov	np	cat	Ménxov	np$np-cog-mf-sp
 	spa	Jessica	np$np-ant	cat	Jessica	np-ant-f-sg$np$np-ant
 	spa	Haneef	np	cat	Haneef	np$np-cog-mf-sp
 	spa	Geli	np$np-cog	cat	Geli	np$np-cog-mf-sp
-	spa	Francis	np-ant$np$np-ant-m	cat	Francis	np$np-ant-m-sg$$np-ant
+	spa	Francis	np-ant$np	cat	Francis	np$np-ant-m-sg$$np-ant
 	spa	Colin	np$np-ant	cat	Colin	np-ant-m-sg$np
 	spa	Che	np$np-ant	cat	Che	np-ant-m-sg$np$np-ant
 	spa	Cerdà	np-ant	cat	Cerdà	np-ant$np-ant-mf
@@ -19738,11 +19742,11 @@ LR	spa	Politkovskaya	np	cat	Politkòvskaia	np$np-cog-mf-sp
 	spa	Audiovisual Sport	np	cat	Audiovisual Sport	np$np-al-m-sg
 	spa	Wall Street	np$np-loc-m	cat	Wall Street	np$np-al
 LR	spa	New York	np$np-loc$np-loc-f	cat	Nova York	np$np-top-f-sg$np-top
-	spa	Gaza	np$np-loc$np-loc-f	cat	Gaza	np$np-loc
+	spa	Gaza	np$np-f$np-loc-f	cat	Gaza	np$np-loc
 	spa	Liverpool	np$np-top	cat	Liverpool	np$np-loc
 	spa	Chelsea	np$np-ant	cat	Chelsea	np$np-ant-f-sg
 	spa	Kabul	np$np-loc-m$np-loc	cat	Kabul	np$np-loc$np-loc-m
-	spa	Pisco	np$np-top-m	cat	Pisco	np
+	spa	Pisco	np$np-m	cat	Pisco	np
 	spa	Texas	np$np-loc-m$np-loc	cat	Texas	np$np-loc$np-loc-m
 	spa	Manchester	np$np-loc-m$np-loc	cat	Manchester	np$np-loc
 	spa	Darfur	np$np-loc	cat	Darfur	np$np-loc
@@ -19790,6 +19794,7 @@ RL	spa	Shanghai	np$np-loc$np-loc-m	cat	Xanghai	np
 	spa	Motril	np$np-loc$np-loc-f	cat	Motril	np$np-loc-f
 	spa	Cahors	np	cat	Cahors	np
 	spa	Pirineos	np$np-loc$np-loc-m$np-loc-m-pl	cat	Pirineus	np$np-top-m-pl$np-top$np-top-m
+	spa	Urales	np$np-loc-m-pl	cat	Urals	np$np-top-m-pl
 	spa	Complutense	np	cat	Complutense	np
 	spa	Elíseo	np$np-ant	cat	Elisi	np$np-top-m-sg
 	spa	Ártico	np	cat	Àrtic	np$np-loc-m
@@ -20289,7 +20294,7 @@ LR	spa	chií	adj$adj-mf	cat	xiïta	adj$adj-mf$
 	spa	Antillas	np$np-loc$np-loc-f	cat	Antilles	np-top$np-top-f$np-top-f-pl
 	spa	Aosta	np$np-loc	cat	Aosta	np-top
 	spa	Apeninos	np$np-loc$np-loc-m	cat	Apenins	np-top$np-top-m
-	spa	Apia	np$np-loc$np-loc-f	cat	Apia	np$np-top$np-top-f-sg
+	spa	Apia	np-loc	cat	Apia	np$np-top$np-top-f-sg
 	spa	Arboç	np$np-loc	cat	Arboç	np$np-top
 	spa	Archipiélago de Hawái	np$np-loc	cat	Illes Sandwich	np$np-top
 	spa	Ardèche	np$np-loc	cat	Ardecha	np$np-top
@@ -21141,7 +21146,7 @@ RL	spa	acá	adv	cat	ençà	adv
 	spa	Iceta	np	cat	Iceta	np$np-cog-mf-sp
 	spa	Inglés	np$np-cog	cat	Inglés	np$np-cog-mf-sp
 	spa	Irwin	np$np-cog	cat	Irwin	np$np-cog-mf-sp$
-	spa	Isaac	np-ant$np$np-ant-m	cat	Isaac	np$np-ant-m-sg$np-ant$
+	spa	Isaac	np-ant$np	cat	Isaac	np$np-ant-m-sg$np-ant$
 	spa	Isabelle	np$np-ant	cat	Isabelle	np$np-ant-f-sg
 	spa	Isaura	np$np-ant	cat	Isaura	np$np-ant-f-sg$np-ant
 	spa	ITCat	np	cat	ITCat	np
@@ -21151,7 +21156,7 @@ RL	spa	acá	adv	cat	ençà	adv
 	spa	Jòel	np	cat	Jòel	np$np-ant-m-sg
 	spa	Jacinta	np$np-ant	cat	Jacinta	np$np-ant-f-sg
 	spa	Jacme	np	cat	Jacme	np$np-ant-m-sg
-	spa	Jana	np$np-ant$np-ant-f	cat	Jana	np$np-ant-f-sg$$np-ant
+	spa	Jana	np$np-ant	cat	Jana	np$np-ant-f-sg$$np-ant
 	spa	Júlia	np$np-ant	cat	Júlia	np$np-ant-f-sg$np-ant
 	spa	Jèp	np	cat	Jèp	np$np-ant-m-sg
 	spa	Jensen	np$np-ant	cat	Jensen	np$np-cog-mf-sp$
@@ -21244,7 +21249,7 @@ RL	spa	acá	adv	cat	ençà	adv
 	spa	MNAC	np	cat	MNAC	np
 	spa	Monica	np$np-ant	cat	Monica	np$np-ant-f-sg$
 	spa	Monturiol	np	cat	Monturiol	np$np-cog-mf-sp
-	spa	Morales	np$np-cog$np-cog-mf	cat	Morales	np$$np-ant-mf
+	spa	Morales	np$np-cog-mf$np-cog	cat	Morales	np$$np-ant-mf
 	spa	Moritz	np	cat	Moritz	np$np-al-f-sg$np-al
 	spa	Moyà	np	cat	Moyà	np$np-cog-mf-sp
 	spa	Mozart	np$np-cog$np-cog-mf	cat	Mozart	np$np-cog-mf-sp$
@@ -21598,7 +21603,6 @@ LR	spa	blancor	n	cat	blancor	n$n-f
 LR	spa	broza	n$n-f	cat	brossa	n-f$n
 	spa	margarita	n$n-f	cat	margarida	n-f$n
 	spa	flujo	n-m$n$n-m-ND	cat	flux	n-m$n$n-m-sg
-	spa	tramuntana	n	cat	tramuntana	n-f$n
 	spa	veto	n$n-m	cat	veto	n-m$n
 	spa	cuadratura	n$n-f	cat	quadratura	n-f$n
 	spa	decurso	n$n-m	cat	decurs	n-m$n
@@ -22221,7 +22225,7 @@ RL	spa	carnaval	n$n-m$n-m-ND	cat	carnestoltes	n-m-sp$n-m$n
 LR	spa	carnaval	n-m-pl	cat	carnestoltes	n-m-sp$n-m$n
 LR	spa	carnaval	n-m-sg	cat	carnestoltes	n-m-sp$n-m$n
 RL	spa	carnaval	n$n-m$n-m-ND	cat	carnaval	n$n-m
-	spa	ciervo	n$n-m$n-m-sg	cat	cérvol	n$n-m
+	spa	ciervo	n-m$n$n-m-sg	cat	cérvol	n$n-m
 LR	spa	guijarro	n$n-m$n-m-ND	cat	còdol	n-m$n
 LR	spa	guijarro	n$n-m$n-m-ND	cat	cudol	n$n-m
 	spa	canto rodado	n	cat	còdol	n-m$n
@@ -22285,7 +22289,7 @@ LR	spa	potranco	n$n-m	cat	poltre	n-m$n
 	spa	melocotón	n$n-m$n-m-sg	cat	préssec	n-m$n
 	spa	melocotonero	n$n-m	cat	presseguer	n$n-m
 	spa	melocotonero	n$n-m	cat	bresquillera	n-f
-	spa	rábano	n$n-m	cat	rave	n$n-m
+	spa	rábano	n-m$n	cat	rave	n$n-m
 	spa	reflujo	n-m$n	cat	reflux	n-m$n
 	spa	reinado	n-m$n	cat	regnat	n-m$n
 	spa	virreinato	n-m$n	cat	virregnat	n-m$n
@@ -22346,7 +22350,7 @@ RL	spa	partido	n-m$n$n-m-sg	cat	matx	n-m$n
 	spa	plurilingüismo	n-m$n	cat	plurilingüisme	n-m$n$n-m-sg
 	spa	chocolatada	n	cat	xocolatada	n$n-f
 RL	spa	insurgencia	n$n-f	cat	insurgència	n-f$n
-	spa	incentivación	n$n-f	cat	incentivació	n$n-f
+	spa	incentivación	n	cat	incentivació	n$n-f
 RL	spa	vicepresidente	n$n-m-sg$n-m	cat	vice-president	n$n-m
 	spa	terrateniente	n$n-mf	cat	terratinent	n-mf$n
 	spa	biomedicina	n$n-f	cat	biomedicina	n-f$n
@@ -23231,7 +23235,7 @@ RL	spa	tira y afloja	n	cat	estira i arronsa	n
 	spa	Edward	np-ant$np	cat	Edward	np$np-ant-m-sg$
 	spa	Rose	np-ant$np	cat	Rose	np$np-ant-f-sg$
 	spa	Maurice	np-ant$np	cat	Maurice	np$np-ant-m-sg
-	spa	Creta	np$np-loc	cat	Creta	np$np-loc$np-loc-f
+	spa	Creta	np$np-m	cat	Creta	np$np-loc$np-loc-f
 	spa	Malí	np$np-loc-f$np-loc	cat	Mali	np$np-loc
 	spa	Irán	np$np-loc$np-loc-m	cat	Iran	np$np-loc$np-loc-m
 	spa	GNU	np$np-al-mf	cat	GNU	np$np-al-m-sg$np-al
@@ -23268,7 +23272,7 @@ LR	spa	Hawaii	np$np-loc	cat	Hawaii	np$np-loc$np-loc-m
 	spa	Alice	np-ant$np	cat	Alice	np-ant-f-sg$np$$np-ant
 	spa	Tennessee	np$np-loc$np-loc-m	cat	Tennessee	np$np-loc
 	spa	Edmund	np$np-ant	cat	Edmund	np$np-ant-m-sg
-	spa	Aaron	np$np-ant$np-ant-m	cat	Aaron	np$np-ant-m-sg$$np-ant
+	spa	Aaron	np$np-ant	cat	Aaron	np$np-ant-m-sg$$np-ant
 	spa	Dominica	np$np-loc$np-loc-f	cat	Dominica	np$np-loc$np-loc-f
 	spa	Illinois	np$np-loc$np-loc-m	cat	Illinois	np$np-loc
 	spa	Wisconsin	np$np-loc$np-loc-m	cat	Wisconsin	np$np-loc
@@ -23304,7 +23308,7 @@ LR	spa	Hawaii	np$np-loc	cat	Hawaii	np$np-loc$np-loc-m
 	spa	Asunción	np$np-ant	cat	Asunción	np-ant-f-sg$np
 	spa	Pallerols	np$np-cog$np-cog-mf	cat	Pallerols	np$np-cog-mf-sp$
 	spa	Fibonacci	np$np-loc	cat	Fibonacci	np$np-cog-mf-sp$
-	spa	Ismael	np$np-ant$np-ant-m	cat	Ismael	np$np-ant-m-sg$$np-ant
+	spa	Ismael	np$np-ant	cat	Ismael	np$np-ant-m-sg$$np-ant
 	spa	Maguncia	np$np-loc-f$np-loc	cat	Magúncia	np$np-loc$np-loc-f
 	spa	Marion	np$np-ant	cat	Marion	np-ant-f-sg$np
 	spa	Manila	np$np-loc$np-loc-f	cat	Manila	np$np-loc$np-loc-f
@@ -23402,8 +23406,8 @@ LR	spa	Camberra	np$np-loc$np-loc-f	cat	Canberra	np$np-loc$np-loc-f
 	spa	Sixto	np-ant$np	cat	Sixto	np-ant$np-ant-m-sg
 	spa	Sixto	np-ant$np	cat	Sixt	np-ant-m-sg$np-ant
 	spa	Urbà	np-ant	cat	Urbà	np-ant$np-ant-m-sg
-	spa	Urbano	np-ant$np$np-ant-m	cat	Urbano	np-ant$np-ant-mf
-	spa	Urbano	np-ant$np$np-ant-m	cat	Urbà	np-ant$np-ant-m-sg
+	spa	Urbano	np-ant$np	cat	Urbano	np-ant$np-ant-mf
+	spa	Urbano	np-ant$np	cat	Urbà	np-ant$np-ant-m-sg
 	spa	Pretoria	np$np-loc$np-loc-f	cat	Pretòria	np$np-loc-f
 	spa	Godfrey	np$np-ant	cat	Godfrey	np$np-ant-m-sg
 	spa	Constance	np$np-ant	cat	Constance	np$np-ant-f-sg
@@ -23509,7 +23513,7 @@ RL	spa	Yakarta	np$np-loc$np-loc-f	cat	Djakarta	np$np-loc-f
 	spa	circundante	adj$adj-mf$adj-mf-sg	cat	circumdant	adj$adj-mf$
 	spa	cuadrangular	adj$adj-mf-sg$adj-mf	cat	quadrangular	adj$adj-mf$
 	spa	tonal	adj$adj-mf-sg$adj-mf	cat	tonal	adj$$adj-mf
-	spa	espinal	adj-mf$adj$adj-mf-sg	cat	espinal	adj$$adj-mf
+	spa	espinal	adj$adj-mf$adj-mf-sg	cat	espinal	adj$$adj-mf
 	spa	computacional	adj$adj-mf	cat	computacional	adj$adj-mf
 	spa	tubular	adj$adj-mf	cat	tubular	adj$adj-mf
 	spa	non	adj	cat	senar	adj$adj-mf
@@ -25129,8 +25133,8 @@ LR	spa	acerería	n$n-f	cat	acereria	n$n-f
 	spa	concatenar	vblex	cat	concatenar	vblex
 	spa	doctorando	n	cat	doctorand	n
 	spa	Hispanoamérica	np$np-loc-f	cat	Hispanoamèrica	np$np-loc$np-loc-f
-	spa	Sudamérica	np$np-loc$np-loc-f	cat	Sud-amèrica	np$np-loc
-LR	spa	Suramérica	np$np-loc	cat	Sud-amèrica	np$np-loc
+	spa	Sudamérica	np$np-top-f	cat	Sud-amèrica	np$np-loc
+LR	spa	Suramérica	np$np-top-f	cat	Sud-amèrica	np$np-loc
 	spa	Centro y Sudamérica	np	cat	Amèrica Central i del Sud	np
 LR	spa	Centro y Suramérica	np	cat	Amèrica Central i del Sud	np
 	spa	desde entonces	adv	cat	de llavors ençà	adv
@@ -25364,7 +25368,7 @@ LR	spa	polluelo	n$n-m$n-m-sg	cat	pollet	n-m$n
 	spa	rubidio	n-m$n	cat	rubidi	n-m$n
 RL	spa	guion	n$n-m	cat	guionet	n-m$n
 	spa	estuario	n$n-m	cat	estuari	n-m$n
-	spa	páramo	n$n-m	cat	erm	n-m$n
+	spa	páramo	n-m$n	cat	erm	n-m$n
 	spa	apóstrofo	n-m$n	cat	apòstrof	n-m$n
 	spa	amoníaco	n-m$n	cat	amoníac	n-m$n$n-m-sg
 LR	spa	amoniaco	n$n-m	cat	amoníac	n-m$n$n-m-sg
@@ -25409,7 +25413,7 @@ RL	spa	marfil	n$n-m	cat	vori	n-m$n
 	spa	dirigible	n$n-m	cat	dirigible	n-m$n
 	spa	cigoto	n$n-m	cat	zigot	n$n-m
 	spa	sésamo	n$n-m	cat	sèsam	n-m$n
-	spa	menhir	n$n-m	cat	menhir	n-m$n
+	spa	menhir	n-m$n	cat	menhir	n-m$n
 	spa	plagio	n-m$n	cat	plagi	n-m$n
 	spa	bulevar	n$n-m	cat	bulevard	n-m$n
 	spa	baricentro	n$n-m	cat	baricentre	n$n-m
@@ -25479,7 +25483,7 @@ RL	spa	tilo	n$n-m	cat	tell	n-m$n
 	spa	follaje	n-m$n	cat	fullatge	n-m$n
 	spa	deflector	n$n-m	cat	deflector	n-m$n
 	spa	cólico	n-m$n	cat	còlic	n-m$n
-	spa	caníbal	n$n-mf	cat	caníbal	n$n-mf
+	spa	caníbal	n$n-mf	cat	caníbal	n-mf$n
 	spa	fosfolípido	n$n-m	cat	fosfolípid	n-m$n
 	spa	cloroformo	n-m$n	cat	cloroform	n-m$n
 	spa	ciliado	n$n-m	cat	ciliat	n$n-m
@@ -26008,7 +26012,7 @@ LR	spa	hioides	n-m-sp$n	cat	hioide	n-m$n-m-ND
 RL	spa	hioides	n-m-sp$n	cat	hioide	n-m-pl
 RL	spa	hioides	n-m-sp$n	cat	hioide	n-m-sg
 	spa	hélice	n$n-f	cat	hèlice	n$n-f
-	spa	guanaco	n$n-m	cat	guanac	n$n-m
+	spa	guanaco	n-m$n	cat	guanac	n$n-m
 	spa	franqueo	n$n-m	cat	franqueig	n$n-m
 	spa	fondue	n$n-f	cat	fondue	n$n-f
 	spa	estoicismo	n-m$n	cat	estoïcisme	n-m$n
@@ -26199,7 +26203,7 @@ RL	spa	peón	n-GD-pl	cat	manobre	n-mf-pl$n-mf
 	spa	hiperboloide	n-m$n	cat	hiperboloide	n-m$n
 	spa	heptágono	n$n-m	cat	heptàgon	n$n-m
 	spa	helminto	n$n-m	cat	helmint	n$n-m
-	spa	gourmet	n$n-m	cat	gourmet	n$n-m
+	spa	gourmet	n$n-m	cat	gurmet	n
 	spa	glicolípido	n$n-m	cat	glicolípid	n$n-m
 	spa	fiasco	n$n-m	cat	fiasco	n-m$n
 	spa	esternón	n$n-m	cat	estèrnum	n-m$n
@@ -26401,7 +26405,7 @@ RL	spa	guirigay	n$n-m	cat	poti-poti	n-m$n
 	spa	poliéster	n$n-m	cat	polièster	n-m$n
 	spa	pirenoide	n$n-m	cat	pirenoide	n$n-m
 	spa	picofarad	n$n-m	cat	picofarad	n$n-m
-RL	spa	peletero	n-GD	cat	pellaire	n-mf$n
+RL	spa	peletero	n-GD	cat	pellaire	n-mf
 	spa	peletero	n$n-m	cat	pelleter	n$n-GD
 	spa	pastoralismo	n$n-m	cat	pastoralisme	n$n-m
 	spa	oxímoron	n-m$n	cat	oxímoron	n-m$n
@@ -26760,7 +26764,7 @@ LR	spa	ojeada	n$n-f	cat	ullada	n-f$n
 	spa	cóclea	n$n-f	cat	còclea	n-f$n
 	spa	ágata	n$n-f	cat	àgata	n-f$n
 	spa	podredumbre	n$n-f	cat	podridura	n-f$n
-	spa	pana	n-f$n	cat	pana	n-f$n
+	spa	pana	n$n-f	cat	pana	n-f$n
 RL	spa	mora	n-f$n	cat	móra	n-f$n
 	spa	melaza	n$n-f	cat	melassa	n$n-f$n-f-sg
 	spa	isoglosa	n$n-f	cat	isoglossa	n-f$n
@@ -27447,7 +27451,6 @@ RL	spa	cosificación	n$n-f	cat	cosificació	n-f$n
 	spa	aprehensión	n$n-f$n-f-sg	cat	aprehensió	n-f$n
 	spa	aposición	n$n-f	cat	aposició	n-f$n
 	spa	aliteración	n$n-f	cat	al·literació	n-f$n
-	spa	subocupación	n$n-f	cat	subocupació	n-f$n
 	spa	sobresaturación	n$n-f	cat	sobresaturació	n-f$n
 	spa	recensión	n$n-f	cat	recensió	n-f$n
 	spa	radiocomunicación	n$n-f	cat	radiocomunicació	n-f$n
@@ -30685,6 +30688,7 @@ LR	spa	en vano	adv	cat	en va	adv
 	spa	exigentemente	adv	cat	exigentment	adv
 	spa	exigiblemente	adv	cat	exigiblement	adv
 	spa	exiguamente	adv	cat	minsament	adv
+RL	spa	exiguamente	adv	cat	exíguament	adv
 	spa	existencialmente	adv	cat	existencialment	adv
 	spa	exitosamente	adv	cat	reeixidament	adv
 	spa	exógenamente	adv	cat	exògenament	adv
@@ -33329,7 +33333,9 @@ LR	spa	halar	vblex	cat	halar	vblex
 	spa	aclocar	vblex	cat	allocar	vblex
 	spa	acojonar	vblex	cat	acollonar	vblex
 	spa	acolchar	vblex	cat	embuatar	vblex
-	spa	acompasar	vblex	cat	acompassar	vblex
+	spa	acompasar	vblex	cat	compassar	vblex
+RL	spa	acompasar	vblex	cat	acompassar	vblex
+LR	spa	compasar	vblex	cat	compassar	vblex
 	spa	acongojar	vblex	cat	contristar	vblex
 	spa	acromatizar	vblex	cat	acromatitzar	vblex
 	spa	burocratizar	vblex	cat	burocratitzar	vblex
@@ -33441,7 +33447,6 @@ RL	spa	chasquear	vblex	cat	esclafir	vblex
 	spa	columbrar	vblex	cat	afigurar	vblex
 	spa	combar	vblex	cat	blegar	vblex
 	spa	compadecer	vblex	cat	compadir	vblex
-	spa	compasar	vblex	cat	compassar	vblex
 	spa	compeler	vblex	cat	compel·lir	vblex
 	spa	conceptualizar	vblex	cat	conceptualitzar	vblex
 	spa	conciliar	vblex	cat	agafar	vblex
@@ -34088,7 +34093,7 @@ LR	spa	trasegar	vblex	cat	trasbalsar	vblex
 	spa	voltear	vblex	cat	voltejar	vblex
 	spa	devolver	vblex	cat	tornar	vblex$vblex-pron
 	spa	devolver	vblex	cat	tornar	vblex$vblex-pron
-	spa	volver	vblex	cat	tornar	vblex$vblex-pron
+	spa	volver	vblex$vblex-pron	cat	tornar	vblex$vblex-pron
 	spa	zambullir	vblex	cat	capbussar	vblex
 	spa	zurrar	vblex	cat	atonyinar	vblex
 	spa	zurcir	vblex	cat	sargir	vblex
@@ -34383,7 +34388,7 @@ LR	spa	ag.	n	cat	ag.	n$n-m
 	spa	caspa	n$n-f	cat	caspa	n-f$n
 	spa	casuística	n$n-f	cat	casuística	n$n-f
 	spa	casus belli	n	cat	casus belli	n
-	spa	catre	n$n-m	cat	catre	n-m$n
+	spa	catre	n-m$n	cat	catre	n-m$n
 	spa	cat.	n	cat	cat.	n
 	spa	cdrom	n	cat	cdrom	n
 	spa	censor	n$n-f-pl	cat	censor	n$n-m
@@ -34560,7 +34565,7 @@ LR	spa	expte.	n	cat	exp.	n
 	spa	ideograma	n$n-m	cat	ideograma	n-m$n
 	spa	imap	n	cat	imap	n
 	spa	improrrogable	adj$adj-mf-sg	cat	improrrogable	adj
-	spa	inca	n$n-m	cat	inca	n$n-mf
+	spa	inca	n-m$n	cat	inca	n$n-mf
 	spa	indirecta	n$n-f	cat	indirecta	n-f$n
 	spa	industrial	n$n-mf-ND	cat	industrial	n$n-mf
 	spa	inexactitud	n	cat	inexactitud	n-f$n
@@ -35118,7 +35123,7 @@ LR	spa	banderola	n$n-f	cat	banderola	n-f$n
 	spa	bañador	n$n-m$n-m-sg	cat	vestit	n-m$n
 	spa	bárbaro	n$n-m$n-m-ND	cat	bàrbar	n$n-m
 	spa	barboteo	n$n-m	cat	barboteig	n
-	spa	barca	n$n-f$n-f-ND	cat	barca	n-f$n
+	spa	barca	n-f$n$n-f-ND	cat	barca	n-f$n
 	spa	barco	n-m$n$n-m-sg	cat	vaixell	n-m$n
 	spa	barión	n-m$n	cat	barió	n-m$n
 	spa	barniz	n$n-m	cat	vernís	n-m$n
@@ -35419,7 +35424,7 @@ LR	spa	chirona	n	cat	presó	n-f$n
 	spa	cloroplasto	n	cat	cloroplast	n-m$n
 	spa	coarción	n	cat	coarció	n$n-f
 	spa	coaseguro	n-m	cat	coassegurança	n-f
-	spa	cobaya	n-f$n	cat	cobai	n-m$n
+	spa	cobaya	n-f	cat	cobai	n-m$n
 	spa	cobertizo	n-m$n	cat	rafal	n-m$n
 	spa	cocido	n$n-m	cat	bullit	n$n-m
 	spa	cocina	n-f$n$n-f-sg	cat	cuina	n-f$n
@@ -36564,7 +36569,7 @@ RL	spa	monte	n-m$n	cat	forest	n-f$n
 	spa	multiplete	n	cat	multiplet	n$n-m
 	spa	mundialización	n	cat	mundialització	n$n-f
 	spa	muñequera	n	cat	canellera	n$n-f
-	spa	murciélago	n$n-m	cat	ratapinyada	n-f
+	spa	murciélago	n-m$n	cat	ratapinyada	n-f
 	spa	musicalidad	n$n-f	cat	musicalitat	n-f$n
 	spa	nada del otro jueves	adj	cat	res de l'altre món	adj
 	spa	nada por supuesto	n	cat	res per suposat	n
@@ -36617,7 +36622,7 @@ LR	spa	noche	n-f$n$n-f-sg	cat	nit	n$n-f
 	spa	ojal	n-m$n	cat	trau	n-m$n
 	spa	okupación	n$n-f	cat	okupació	n-f$n
 	spa	olimpismo	n	cat	olimpisme	n-m$n
-	spa	olla	n$n-f	cat	olla	n-f$n
+	spa	olla	n-f$n	cat	olla	n-f$n
 	spa	omnisciencia	n	cat	omnisciència	n-f$n
 	spa	onanismo	n$n-m	cat	onanisme	n$n-m
 	spa	onomástica	n	cat	onomàstica	n-f$n$n-f-sg
@@ -36726,7 +36731,7 @@ LR	spa	pechina	n$n-f	cat	petxina	n-f$n
 	spa	pedantería	n$n-f	cat	pedanteria	n$n-f
 	spa	pedido	n-m$n$n-m-ND	cat	comanda	n-f$n
 	spa	peinado	n$n-m	cat	pentinat	n-m$$n
-	spa	peine	n$n-m$n-m-sg	cat	pinta	n-f$n
+	spa	peine	n-m$n$n-m-sg	cat	pinta	n-f$n
 	spa	pelea	n$n-f	cat	baralla	n-f$n
 	spa	pelícano	n$n-m	cat	pelicà	n-m$n
 	spa	pelmazo	n	cat	pesat	n
@@ -36771,8 +36776,8 @@ LR	spa	pestañeo	n$n-m	cat	parpelleig	n-m$n
 	spa	picaresca	n	cat	picardia	n-f$n
 	spa	pichón	n$n-m	cat	colomí	n
 	spa	picnómetro	n	cat	picnòmetre	n$n-m
-	spa	pierna	n$n-f$n-f-ND	cat	cuixa	n-f$n
-	spa	pierna	n$n-f$n-f-ND	cat	cuixa	n-f$n
+	spa	pierna	n-f$n$n-f-ND	cat	cuixa	n-f$n
+	spa	pierna	n-f$n$n-f-ND	cat	cuixa	n-f$n
 	spa	pináculo	n$n-m	cat	pinacle	n-m$n
 	spa	piñón	n$n-m	cat	pinyó	n-m$n
 	spa	piroxeno	n	cat	piroxè	n$n-m
@@ -36880,7 +36885,7 @@ LR	spa	pozal	n	cat	poal	n-m$n
 	spa	puesta	n-f$n	cat	posta	n-f$n
 	spa	puesta	n-f$n	cat	posta	n-f$n
 	spa	puesta	n-f$n	cat	posada	n$n-f
-LR	spa	posada	n$n-f	cat	posada	n$n-f
+LR	spa	posada	n-f$n	cat	posada	n$n-f
 	spa	puesto	n-m$n$n-m-sg	cat	lloc	n-m$n
 	spa	pulcritud	n	cat	netedat	n-f$n
 	spa	pulgón	n	cat	pugó	n-m$n
@@ -37193,7 +37198,9 @@ LR	spa	sumidero	n$n-m	cat	embornal	n-m$n
 	spa	taquicardia	n$n-f	cat	taquicàrdia	n$n-f
 	spa	taquillón	n	cat	taquilló	n
 	spa	taquistoscopio	n	cat	taquistoscopi	n
-	spa	tarifación	n	cat	tarifació	n$n-f
+LR	spa	tarifación	n	cat	tarifació	n$n-f
+	spa	tarificación	n	cat	tarifació	n$n-f
+RL	spa	tarificación	n	cat	tarificació	n-f$n
 	spa	tarquín	n	cat	tarquim	n
 	spa	tarso	n$n-m	cat	tars	n-m$n
 	spa	tartamudeo	n-m$n	cat	quequeig	n-m$n
@@ -37317,7 +37324,7 @@ LR	spa	transtorno	n	cat	trastorn	n$n-m
 	spa	tufo	n$n-m	cat	tuf	n$n-m
 	spa	tugurio	n-m$n	cat	tuguri	n-m$n
 	spa	tumbo	n	cat	tomb	n$n-m
-	spa	tuna	n$n-f	cat	estudiantina	n$n-f
+	spa	tuna	n-f$n	cat	estudiantina	n$n-f
 	spa	tungsteno	n$n-m	cat	tungstè	n-m$n
 	spa	tupé	n$n-m	cat	tupè	n-m$n
 	spa	turbación	n	cat	torbació	n-f$n
@@ -37749,7 +37756,8 @@ LR	spa	suma y sigue	n-m-sp	cat	ròssec	n-m$n-m-ND
 LR	spa	surfing	n	cat	surf	n$n-m
 LR	spa	tajo	n-m	cat	tall	n-m$n
 LR	spa	talle	n-m	cat	cintura	n-f$n
-LR	spa	tanto	n-m$n	cat	punt	n-m$n
+LR	spa	tanto	n$n-m	cat	punt	n-m$n
+LR	spa	tanto	n$n-m	cat	corrent	n-m$n$
 LR	spa	tarraconense	n-mf$n	cat	tarragoní	n$n-GD
 LR	spa	teléf.	n	cat	tel.	n$n-m-sg
 LR	spa	tesauro	n-m-pl	cat	tesaurus	n-m-sp$n-m
@@ -37883,7 +37891,7 @@ RL	spa	bronca	n$n-f$n-f-ND	cat	bronca	n-f$n
 RL	spa	calderilla	n-f$n-f-sg	cat	xavalla	n-f-pl
 RL	spa	calderilla	n-f$n-f-sg	cat	xavalla	n-f-sg
 RL	spa	calzón	n-m-ND	cat	calçons	n-m-pl$n
-	spa	cántaro	n$n-m	cat	cànter	n-m$n
+	spa	cántaro	n-m$n	cat	cànter	n-m$n
 RL	spa	capataz	n$n-m	cat	cap	n-m$n$n-m-pl
 RL	spa	jefe	n-GD$n-GD-ND	cat	cap	n-mf
 RL	spa	jefe	n-GD$n-GD-ND	cat	cap	n-mf
@@ -37990,7 +37998,7 @@ RL	spa	histéresis	n-f-sp	cat	histèresi	n-f-pl
 RL	spa	histéresis	n-f-sp	cat	histèresi	n-f-sg
 RL	spa	homeostasis	n-f-sp$n-f	cat	homeòstasi	n-f-pl
 RL	spa	homeostasis	n-f-sp$n-f	cat	homeòstasi	n-f-sg
-RL	spa	hucha	n$n-f	cat	vidriola	n-f$n
+RL	spa	hucha	n-f$n	cat	vidriola	n-f$n
 RL	spa	hundimiento	n$n-m	cat	ensorrada	n-f
 RL	spa	indochino	n	cat	indo-xinès	n
 RL	spa	infrascrito	n	cat	sotascrit	n
@@ -38029,7 +38037,7 @@ RL	spa	metátesis	n-f-sp$n$n-f	cat	metàtesi	n-f-sg
 RL	spa	mitosis	n-f-sp	cat	mitosi	n-f-pl
 RL	spa	mitosis	n-f-sp	cat	mitosi	n-f-sg
 RL	spa	montículo	n-m$n	cat	muntijol	n$n-m
-RL	spa	murciélago	n$n-m	cat	ratapinyada	n-f
+RL	spa	murciélago	n-m$n	cat	ratapinyada	n-f
 RL	spa	neurosis	n-f-sp$n$n-f	cat	neurosi	n-f-pl
 RL	spa	neurosis	n-f-sp$n$n-f	cat	neurosi	n-f-sg
 RL	spa	neviza	n	cat	neu de gelera	n
@@ -38202,7 +38210,6 @@ RL	spa	paletilla	n$n-f$n-f-ND	cat	espatleta	n
 	spa	patata	n$n-f$n-f-sg	cat	creïlla	n-f$n
 	spa	pesebre	n$n-m	cat	pesebre	n
 	spa	puñetazo	n-m$n	cat	punyada	n-f
-	spa	respaldo	n$n-m$n-m-ND	cat	respatler	n$n-m
 	spa	riñonera	n	cat	renyonera	n
 	spa	salida	n-f$n$n-f-ND	cat	eixida	n-f$n
 	spa	sandía	n-f$n$n-f-sg	cat	meló	n-m$n
@@ -39004,6 +39011,8 @@ LR	spa	Caçà de la Selva	np	cat	Cassà de la Selva	np$np-loc-f
 	spa	Casavells	np	cat	Casavells	np
 	spa	Cascales	np$np-cog	cat	Cascales	np$np-cog-mf-sp
 	spa	Caseres	np$np-loc-f	cat	Caseres	np$np-loc-f
+	spa	Casero	np$np-cog	cat	Casero	np-cog-mf-sp$$np
+	spa	Caseros	np	cat	Caseros	np
 	spa	Casete	np	cat	Casete	np$np-cog-mf-sp
 	spa	Cassà de la Selva	np$np-loc-f	cat	Cassà de la Selva	np$np-loc-f
 	spa	Casserres de Berguedà	np	cat	Casserres de Berguedà	np
@@ -39232,7 +39241,7 @@ LR	spa	Comores	np$np-loc	cat	Comores	np$np-loc$np-loc-f
 	spa	Dídac	np$np-ant	cat	Dídac	np$np-ant-m-sg$$np-ant
 	spa	Dieguez	np	cat	Dieguez	np$np-cog-mf-sp
 	spa	Dino	np$np-ant	cat	Dino	np-ant-m-sg$np
-	spa	Dionisio	np-ant$np$np-ant-m	cat	Dionisio	np-ant-m-sg$np
+	spa	Dionisio	np-ant$np	cat	Dionisio	np-ant-m-sg$np
 	spa	Disneyland	np$np-loc	cat	Disneyland	np-loc
 	spa	Dodoma	np	cat	Dodoma	np
 	spa	Dodsworth	np	cat	Dodsworth	np$np-cog-mf-sp
@@ -39401,7 +39410,7 @@ LR	spa	Echano	np	cat	Etxano	np$np-loc-f
 	spa	Escunyau	np	cat	Escunyau	np
 	spa	Eslava	np$np-cog	cat	Eslava	np-cog-mf-sp$np
 	spa	Eslida	np$np-loc-f	cat	Eslida	np$np-loc-f
-	spa	Esmirna	np$np-top-m	cat	Esmirna	np$np-loc
+	spa	Esmirna	np$np-m	cat	Esmirna	np$np-loc
 	spa	Esnarrizaga	np	cat	Esnarrizaga	np$np-cog-mf-sp
 LR	spa	Esparraguera	np	cat	Esparreguera	np$np-loc-f
 	spa	Esparreguera	np$np-loc-f	cat	Esparreguera	np$np-loc-f
@@ -40242,7 +40251,7 @@ LR	spa	Lesotho	np$np-loc	cat	Lesotho	np$np-loc$np-loc-m
 	spa	Mohedano	np$np-cog	cat	Mohedano	np$np-cog-mf-sp
 	spa	Mohedas	np	cat	Mohedas	np
 	spa	Moià	np$np-loc-f	cat	Moià	np$np-loc$np-loc-f
-	spa	Moisés	np$np-ant$np-ant-m	cat	Moisés	np$np-ant$np-ant-m-sg
+	spa	Moisés	np$np-ant	cat	Moisés	np$np-ant$np-ant-m-sg
 	spa	Moixent	np$np-loc-f	cat	Moixent	np$np-loc-f
 	spa	Moles	np$np-cog	cat	Moles	np-cog-mf-sp$np
 	spa	Molina de Segura	np$np-loc-f	cat	Molina de Segura	np$np-loc-f
@@ -40833,7 +40842,7 @@ LR	spa	Puigcerdà	np$np-loc-f	cat	Puigcerdà	np$np-loc$np-loc-f
 	spa	Sales	np$np-cog	cat	Sales	np-cog-mf-sp$$np
 	spa	Salisbury	np$np-loc	cat	Salisbury	np-loc
 	spa	Sallent de Llobregat	np	cat	Sallent de Llobregat	np
-	spa	Salomé	np$np-ant$np-ant-f	cat	Salomé	np-ant-f-sg$np
+	spa	Salomé	np$np-ant	cat	Salomé	np-ant-f-sg$np
 	spa	Salomó	np$np-cog	cat	Salomó	np$np-loc$$np-loc-f
 	spa	Salom	np$np-cog	cat	Salom	np$np-cog-mf-sp
 	spa	Salort	np	cat	Salort	np$np-cog-mf-sp
@@ -41137,7 +41146,7 @@ RL	spa	S.A.	np-al$np	cat	SA	np-al
 	spa	Susqueda	np$np-loc-f	cat	Susqueda	np$np-loc-f
 	spa	Suva	np	cat	Suva	np
 	spa	Taberner	np$np-cog	cat	Taberner	np$np-cog-mf-sp
-	spa	Tadeo	np$np-ant$np-ant-m	cat	Tadeo	np-ant-m-sg$np
+	spa	Tadeo	np$np-ant	cat	Tadeo	np-ant-m-sg$np
 	spa	Tagamanent	np$np-loc-f	cat	Tagamanent	np$np-loc-f
 	spa	Taià	np	cat	Taià	np
 LR	spa	Taiwan	np$np-loc	cat	Taiwan	np$np-loc$np-loc-m
@@ -41183,7 +41192,7 @@ LR	spa	Taiwan	np$np-loc	cat	Taiwan	np$np-loc$np-loc-m
 	spa	Telémaco	np$np-ant	cat	Telémaco	np$np-ant-m-sg
 	spa	Tellez	np$np-cog	cat	Tellez	np$np-cog-mf-sp
 	spa	Teófila	np$np-ant	cat	Teófila	np-ant-f-sg$np
-	spa	Teófilo	np$np-ant$np-ant-m	cat	Teófilo	np-ant-m-sg$np
+	spa	Teófilo	np$np-ant	cat	Teófilo	np-ant-m-sg$np
 	spa	Térmens	np$np-cog	cat	Térmens	np-cog-mf-sp$$np
 	spa	Terol	np-ant	cat	Terol	np-ant$np-ant-mf
 	spa	Terra Alta	np	cat	Terra Alta	np$np-loc$np-loc-f
@@ -41530,7 +41539,9 @@ RL	spa	Aguas de Busot	np	cat	Aigües de Busot	np
 	spa	Alcolecha	np	cat	Alcoleja	np$np-loc-f
 	spa	Alfahuir	np	cat	Alfauir	np$np-loc-f
 	spa	Alfara de Algimia	np$np-loc-f	cat	Alfara d'Algímia	np
-	spa	Alfondeguilla	np$np-loc-f	cat	Fondeguilla	np
+RL	spa	Alfondeguilla	np$np-loc-f	cat	Fondeguilla	np
+LR	spa	Fondeguilla	np	cat	Alfondeguilla	np$np-loc-f
+	spa	Alfondeguilla	np$np-loc-f	cat	Alfondeguilla	np$np-loc-f
 	spa	Algar de Palancia	np$np-loc-f	cat	Algar de Palància	np
 	spa	Algimia de Alfara	np$np-loc-f	cat	Algímia d'Alfara	np
 	spa	Algimia de Almonacid	np$np-loc-f	cat	Algímia d'Almonesir	np
@@ -41616,7 +41627,7 @@ LR	spa	la Cañada	np	cat	la Canyada	np
 	spa	Castillo de Vilamalefa	np$np-loc	cat	Castell de Vilamalefa	np-top
 	spa	Catellbisbal	np	cat	Castellbisbal	np$np-loc-f
 RL	spa	Cenicienta	np	cat	Cendrellosa	np$np-ant-f-sg
-	spa	Centroamérica	np$np-top$np-top-f	cat	Centreamèrica	np$np-loc
+	spa	Centroamérica	np$np-top-f	cat	Centreamèrica	np$np-loc
 	spa	Cerbero	np	cat	Cèrber	np$np-ant-m-sg
 	spa	Cervera del Maestre	np$np-loc-f	cat	Cervera del Maestrat	np
 	spa	Chella	np$np-loc-f	cat	Xella	np
@@ -41667,6 +41678,7 @@ RL	spa	Cenicienta	np	cat	Cendrellosa	np$np-ant-f-sg
 	spa	el Peñón de Ifach	np	cat	el Penó d'Ifach	np
 	spa	el Pireo	np	cat	el Pireu	np$np-top-m-sg
 	spa	el Pirineo	np	cat	el Pirineu	np$np-loc$np-loc-m-sg
+	spa	Pirineo	np$np-loc$np-loc-m-sg	cat	Pirineu	np$np-top-m-sg
 	spa	el Valle de Arán	np	cat	la Val d'Aran	np
 	spa	el Vaticano	np$np-loc	cat	el Vaticà	np
 	spa	Emilia-Romaña	np$np-loc	cat	Emília-Romanya	np$np-loc
@@ -41742,11 +41754,11 @@ LR	spa	Homer	np$np-ant	cat	Homer	np$np-ant-m-sg$np-ant
 	spa	Jalance	np$np-loc-f	cat	Xalans	np
 	spa	Jarafuel	np$np-loc-f	cat	Xarafull	np
 	spa	Jartum	np$np-top	cat	Khartum	np$np-loc$np-loc-m
-	spa	Jasón	np$np-ant-m	cat	Jàson	np$np-ant-m-sg
+	spa	Jasón	np$np-m	cat	Jàson	np$np-ant-m-sg
 	spa	J.C.	np	cat	JC	np
 	spa	Jérica	np$np-loc-f	cat	Xèrica	np
 	spa	Johannesburgo	np$np-loc$np-loc-m	cat	Johannesburg	np-top$np-top-m-sg
-	spa	Judea	np$np-loc	cat	la Judea	np-top
+	spa	Judea	np-loc	cat	la Judea	np-top
 	spa	Juegos Olímpicos	np$np-al	cat	Jocs Olímpics	np-al$np-al-m-pl
 	spa	Juegos Paralímpicos	np	cat	Jocs Paralímpics	np$np-al-m-pl
 	spa	Jumilla	np$np-loc$np-loc-f	cat	Jumella	np-top
@@ -41860,7 +41872,7 @@ RL	spa	la Mata	np	cat	la Mata de Morella	np
 	spa	Patroclo	np	cat	Pàtrocle	np$np-ant-m-sg
 	spa	Pavías	np$np-loc-f	cat	Pavies	np
 	spa	Peñíscola	np$np-loc-f	cat	Peníscola	np$np-loc-f$np-loc
-	spa	Pérgamo	np$np-top-m	cat	Pèrgam	np$np-loc
+	spa	Pérgamo	np$np-m	cat	Pèrgam	np$np-loc
 	spa	Pericles	np$np-ant	cat	Pèricles	np$np-ant-m-sg$np-ant
 	spa	Petersburgo	np$np-loc	cat	Petersburg	np-top
 	spa	Phnom Penh	np$np-loc	cat	Phnom Penh	np$np-top-m-sg
@@ -41967,7 +41979,7 @@ LR	spa	Swazilandia	np$np-top	cat	Swazilàndia	np$np-loc$np-loc-f
 LR	spa	Tejas	np$np-loc$np-loc-m	cat	Texas	np$np-loc$np-loc-m
 	spa	Telamón	np	cat	Telamó	np$np-ant-m-sg
 	spa	Teresa de Cofrentes	np$np-loc-f	cat	Teresa de Cofrents	np
-	spa	Tesalónica	np$np-loc	cat	Tessalònica	np$np-top-f-sg
+	spa	Tesalónica	np$np-m	cat	Tessalònica	np$np-top-f-sg
 	spa	Teseo	np	cat	Teseu	np-ant-m-sg$np$np-ant
 	spa	Titaguas	np$np-loc-f	cat	Titagües	np
 	spa	Todolella	np$np-loc-f	cat	la Todolella	np
@@ -42005,8 +42017,8 @@ RL	spa	vía Laietana	np-loc$np	cat	via Laietana	np-top
 	spa	Nuria	np$np-ant	cat	Núria	np-ant$np-ant-f-sg$np
 	spa	Nuria	np-loc	cat	Núria	np-top
 	spa	Lídia	np$np-ant	cat	Lídia	np$np-ant$np-ant-f-sg
-	spa	Lidia	np$np-ant$np-ant-f	cat	Lidia	np-ant-f-sg$np$np-ant$
-	spa	Lidia	np$np-ant$np-ant-f	cat	Lídia	np$np-ant$np-ant-f-sg
+	spa	Lidia	np$np-ant	cat	Lidia	np-ant-f-sg$np$np-ant$
+	spa	Lidia	np$np-ant	cat	Lídia	np$np-ant$np-ant-f-sg
 	spa	Lidia	np-loc	cat	Lídia	np-top$np-top-f-sg
 	spa	Gràcia	np$np-ant	cat	Gràcia	np$np-ant$np-ant-f-sg$
 	spa	Gracia	np-ant$np	cat	Gracia	np-ant-f-sg$np-ant
@@ -42103,7 +42115,6 @@ LR	spa	Énguera	np	cat	Énguera	np$np-top-f
 LR	spa	Espadella	np	cat	Espadella	np
 LR	spa	Fageca	np	cat	Fageca	np
 LR	spa	Figueroles de Domenyo	np	cat	Figueroles de Domenyo	np
-LR	spa	Fondeguilla	np	cat	Fondeguilla	np
 LR	spa	Foyos	np	cat	Foyos	np
 LR	spa	Gàtova	np	cat	Gàtova	np
 LR	spa	Guadassèquies	np	cat	Guadassèquies	np
@@ -42339,7 +42350,7 @@ LR	spa	San Carlos de la Rápita	np	cat	Sant Carles de la Ràpita	np$np-loc-f
 LR	spa	San Jorge	np$np-loc$np-loc-f	cat	Sant Jordi	np$np-loc-f$np-loc
 LR	spa	San Juan de Alicante	np	cat	Sant Joan d'Alacant	np$np-loc-f
 LR	spa	San Juan de Énova	np	cat	Sant Joan de l'Ènova	np$np-loc-f
-LR	spa	San Mateo	np$np-top-m	cat	Sant Mateu	np$np-loc-f$np-loc
+LR	spa	San Mateo	np$np-m	cat	Sant Mateu	np$np-loc-f$np-loc
 LR	spa	San Miguel de Salinas	np$np-loc-f	cat	Sant Miquel de les Salines	np
 LR	spa	San Rafael del Río	np$np-loc-f	cat	Sant Rafel del Riu	np
 LR	spa	San Vicente del Raspeig	np$np-loc-f	cat	Sant Vicent del Raspeig	np$np-loc-f
@@ -43017,7 +43028,7 @@ RL	spa	Ptolomeo	np$np-ant$np-ant-m	cat	Ptolomeu	np-ant-m-sg$np$np-ant
 	spa	Arístipo	np	cat	Arístip	np-ant-m-sg$np
 	spa	Antístenes	np	cat	Antístenes	np-ant-m-sg$np
 	spa	neoplatonismo	n	cat	neoplatonisme	n-m$n$n-m-sg
-	spa	Filipo	np-ant$np$np-ant-m	cat	Filip	np-ant-m-sg$$np$np-ant
+	spa	Filipo	np-ant$np	cat	Filip	np-ant-m-sg$$np$np-ant
 	spa	Epicteto	np	cat	Epictet	np-ant-m-sg$np
 	spa	Zaratustra	np	cat	Zaratustra	np-ant-m-sg$np
 	spa	Seleuco	np	cat	Seleuc	np-ant-m-sg$np
@@ -43148,7 +43159,7 @@ LR	spa	microcosmo	n-m-pl	cat	microcosmos	n-m-sp$n-m
 	spa	claxon	n$n-m	cat	clàxon	n-m$n
 LR	spa	reemplazamiento	n	cat	reemplaçament	n$n-m
 	spa	newtoniano	adj	cat	newtonià	adj
-	spa	Mesopotamia	np$np-loc$np-loc-f	cat	Mesopotàmia	np-loc$np
+	spa	Mesopotamia	np$np-m	cat	Mesopotàmia	np-loc$np
 	spa	lavanda	n-f$n	cat	lavanda	n-f$n
 LR	spa	huesecillo	n-m	cat	osset	n$n-GD
 RL	spa	huesecillo	n-m	cat	osset	n-f
@@ -43838,6 +43849,7 @@ LR	spa	copia	n-f$n$n-f-ND	cat	còpia	n$n-f
 	spa	prima	n$n-f$n-f-sg	cat	prima	n$n-f
 	spa	cuarteto	n$n-m$n-m-sg	cat	quartet	n-m$n
 	spa	saco	n$n-m$n-m-ND	cat	sac	n-m$n
+	spa	media ladera	n-f	cat	mig vessant	n-m
 	spa	Hume	np$np-ant	cat	Hume	np-cog-mf-sp$$np
 	spa	cacao	n$n-m	cat	cacau	n-m$n
 	spa	Jehová	np$np-ant	cat	Jehová	np-ant-m-sg$np
@@ -43964,7 +43976,7 @@ LR	spa	vaso	n$n-m$n-m-ND	cat	vas	n$n-m
 	spa	puerta	n-f$n$n-f-ND	cat	porta	n-f$n
 	spa	queso	n-m$n$n-m-sg	cat	formatge	n$n-m
 	spa	desodorante	n$n-m	cat	desodorant	n$n-m
-	spa	color	n-m$n-m-sg$n	cat	color	n-m$n
+	spa	color	n-m$n$n-m-sg	cat	color	n-m$n
 	spa	sistema	n-m$n$n-m-sg	cat	sistema	n-m$n
 	spa	pelota	n-f$n$n-f-pl	cat	pilota	n-f$n$n-f-pl
 	spa	pechuga	n-f$n	cat	pit	n-m$n$n-m-sg
@@ -44315,7 +44327,7 @@ LR	spa	coléstasis	n-f-sp	cat	colèstasi	n-f-ND
 LR	spa	dodecafonía	n-f	cat	dodecafonisme	n-m$n
 	spa	dodecafonismo	n	cat	dodecafonisme	n-m$n
 	spa	duodeno	adj	cat	duodè	adj
-	spa	duodeno	n$n-m	cat	duodè	n
+	spa	duodeno	n-m$n	cat	duodè	n
 	spa	ecotono	n	cat	ecotò	n
 	spa	ecotoxicidad	n	cat	ecotoxicitat	n
 LR	spa	empanadilla	n-f$n	cat	pastisset	n-m
@@ -44360,7 +44372,7 @@ LR	spa	pasterizado	adj	cat	pasteuritzat	$adj
 LR	spa	pasterizador	n	cat	pasteuritzador	n
 LR	spa	pasterizar	vblex	cat	pasteuritzar	vblex
 	spa	pasteurizador	n	cat	pasteuritzador	n
-	spa	platabanda	n	cat	platabanda	n$n-f
+	spa	platabanda	n	cat	platabanda	n-f$n
 	spa	portaelectrodos	n	cat	portaelèctrodes	n
 	spa	precocido	n	cat	precuit	n
 	spa	presenil	adj	cat	presenil	adj
@@ -44591,7 +44603,7 @@ LR	spa	alpiste	n$n-m	cat	escaiola	n-f$n
 	spa	alquería	n	cat	alqueria	n
 	spa	altaneria	n	cat	altivesa	n-f$n
 	spa	altisonante	adj	cat	altisonant	adj
-	spa	altramuz	n$n-m	cat	tramús	n$n-m
+	spa	altramuz	n-m$n	cat	tramús	n$n-m
 	spa	amaestrar	vblex	cat	ensinistrar	vblex
 	spa	amanerado	adj	cat	amanerat	adj
 	spa	amarradero	n-m	cat	amarrador	n-m
@@ -44620,7 +44632,7 @@ LR	spa	alpiste	n$n-m	cat	escaiola	n-f$n
 	spa	arce	n$n-m	cat	auró	n$n-m
 	spa	armatoste	n-m	cat	baluerna	n-f
 	spa	arremangar	vblex	cat	arromangar	vblex
-LR	spa	arriate	n-m	cat	platabanda	n$n-f
+LR	spa	arriate	n-m	cat	platabanda	n-f$n
 	spa	arteriovenoso	adj	cat	arteriovenós	adj
 	spa	artilugio	n$n-m	cat	artefacte	n-m$n
 	spa	asadura	n$n-f	cat	freixura	n
@@ -45260,7 +45272,7 @@ LR	spa	faca	n	cat	navalla	n-f$n
 	spa	geopresurizado	adj	cat	geopressuritzat	adj
 	spa	grafomotor	adj	cat	grafomotor	adj
 	spa	grupal	adj	cat	grupal	adj
-	spa	guacamayo	n$n-m	cat	guacamai	n-m$n
+	spa	guacamayo	n-m$n	cat	guacamai	n-m$n
 	spa	guindilla	n-f$n	cat	vitet	n-m
 	spa	harapiento	adj$adj-m-sg	cat	esparracat	$adj
 	spa	hierbabuena	n$n-f	cat	herba-sana	n$n-f
@@ -45538,7 +45550,7 @@ RL	spa	cofosis	n-f-sp	cat	cofosi	n-f-sg
 	spa	disfemia	n	cat	disfèmia	n
 	spa	disfonía	n	cat	disfonia	n
 	spa	disglosia	n	cat	disglòssia	n
-	spa	dislalia	n$n-f	cat	dislàlia	n
+	spa	dislalia	n-f$n	cat	dislàlia	n
 	spa	disortografía	n	cat	disortografia	n
 	spa	dispraxia	n	cat	dispràxia	n
 LR	spa	diuresis	n-f-sp$n$n-f	cat	diüresi	n-f$n-f-ND
@@ -45943,6 +45955,7 @@ LR	spa	hostelero	n$n-m	cat	hostaler	n
 	spa	hostalero	n	cat	hostaler	n
 	spa	pequeña empresa	n	cat	petita empresa	n
 	spa	pequeña y mediana empresa	n$n-f	cat	petita i mitjana empresa	n$n-f
+	spa	pequeña o mediana empresa	n	cat	petita o mitjana empresa	n
 	spa	encrespamiento	n	cat	enscrespament	n
 	spa	reelaborar	vblex	cat	reelaborar	vblex
 	spa	dialógico	adj	cat	dialògic	adj
@@ -46316,7 +46329,7 @@ LR	spa	capítulos matrimoniales	n	cat	capítols matrimonials	n$n-m
 	spa	casco urbano	n$n-m	cat	nucli urbà	n$n-m
 	spa	cebolla morada	n	cat	ceba morada	n
 	spa	col	n-f$n	cat	col	n-f$n
-	spa	color	n-m$n-m-sg$n	cat	color	n-m$n
+	spa	color	n-m$n$n-m-sg	cat	color	n-m$n
 	spa	efecto	n$n-m$n-m-sg	cat	efecte	n$n-m
 	spa	formación	n-f$n$n-f-sg	cat	formació	n-f$n
 	spa	gas	n-m$n$n-m-sg	cat	gas	n-m$n$n-m-sg
@@ -46428,7 +46441,7 @@ LR	spa	peineta	n$n-f	cat	pinta	n-f$n
 	spa	bitmap	n	cat	mapa	n-m$n
 	spa	bosónico	adj	cat	bosònic	adj
 	spa	botnet	n	cat	xarxa	n-f$n
-	spa	briefing	n$n-m	cat	brífing	n
+	spa	briefing	n$n-m	cat	brífing	n$n-m
 	spa	bronquiectasia	n	cat	bronquièctasi	n
 	spa	brucelosis	n-f-sp$n-sp	cat	brucel·losi	n-sg
 	spa	caipiriña	n	cat	caipirinha	n
@@ -46558,6 +46571,7 @@ LR	spa	peineta	n$n-f	cat	pinta	n-f$n
 	spa	Institut Cartogràfic Valencià	np-al	cat	Institut Cartogràfic Valencià	np-al
 	spa	Banco Mediolanum	np-al	cat	Banco Mediolanum	np-al
 	spa	Confederació Valenciana de Mitjans de Comunicació	np-al	cat	Confederació Valenciana de Mitjans de Comunicació	np-al
+	spa	Media Markt	np	cat	Media Markt	np
 	spa	Medio Ambiente	np-al	cat	Medi Ambient	np-al
 	spa	Adidas	np$np-al	cat	Adidas	np-al
 	spa	Edicions Bromera	np-al	cat	Edicions Bromera	np-al
@@ -46584,7 +46598,7 @@ LR	spa	peineta	n$n-f	cat	pinta	n-f$n
 	spa	Sotheby's	np$np-al	cat	Sotheby's	np-al
 	spa	App Store	np-al	cat	App Store	np-al
 	spa	Atresmedia	np-al	cat	Atresmedia	np-al
-	spa	decreto	n$n-m$n-m-sg	cat	decret	n$n-m
+	spa	decreto	n-m$n$n-m-sg	cat	decret	n$n-m
 	spa	real decreto	n$n-m	cat	reial decret	n$n-m
 	spa	decreto ley	n	cat	decret llei	n
 	spa	real decreto ley	n	cat	reial decret llei	n
@@ -46594,7 +46608,7 @@ LR	spa	peineta	n$n-f	cat	pinta	n-f$n
 	spa	Real Decreto Ley	np-al	cat	Reial decret llei	np-al
 	spa	Real Decreto	np-al	cat	Reial decret	np-al
 	spa	Decreto Ley	np-al	cat	Decret llei	np-al
-	spa	España	np-loc$np-loc-f	cat	Espanya	np-top-f-sg$np-top$np-top-f
+	spa	España	np$np-loc$np-loc-f	cat	Espanya	np-top-f-sg$np-top$np-top-f
 	spa	España	np-ant	cat	España	np-ant$np-ant-mf
 	spa	Calatayud	np$np-loc$np-loc-f	cat	Calataiud	np-top$np-top-m-sg
 	spa	Calatayud	np-ant	cat	Calatayud	np-ant$np-ant-mf
@@ -46614,7 +46628,7 @@ LR	spa	peineta	n$n-f	cat	pinta	n-f$n
 	spa	Brexit	np	cat	Brexit	np
 	spa	Llarena	np	cat	Llarena	np$np-cog-mf-sp
 	spa	Hasél	np	cat	Hasél	np$np-cog-mf-sp
-	spa	Urías	np	cat	Urías	np$np-cog-mf-sp
+	spa	Urías	np$np-m	cat	Urías	np$np-cog-mf-sp
 	spa	Rigau	np$np-cog	cat	Rigau	np-cog-mf-sp$$np
 	spa	Ponsatí	np	cat	Ponsatí	np$np-cog-mf-sp
 	spa	Rufián	np	cat	Rufián	np$np-cog-mf-sp
@@ -51463,7 +51477,7 @@ LR	spa	silente	adj	cat	silent	adj
 	spa	sobreabundante	adj	cat	sobreabundant	adj
 	spa	solado	adj	cat	solat	adj
 LR	spa	soteño	adj	cat	boscà	$adj
-RL	spa	silvestre	adj-mf$adj-mf-sg$adj	cat	boscà	$adj
+RL	spa	silvestre	adj-mf$adj$adj-mf-sg	cat	boscà	$adj
 	spa	subagudo	adj	cat	subagut	adj
 	spa	subrogatorio	adj	cat	subrogatori	adj
 LR	spa	substantivo	adj	cat	substantiu	adj
@@ -51555,6 +51569,34 @@ LR	spa	zafado	adj	cat	desvergonyit	adj
 	spa	bolivariano	adj	cat	bolivarià	adj
 	spa	movilizable	adj	cat	mobilitzable	adj
 	spa	guaraní	adj	cat	guaraní	adj
+	spa	transexual	adj$adj-mf-sg	cat	transsexual	adj
+	spa	travesti	adj	cat	travestí	adj
+	spa	durmiente	adj	cat	dorment	adj
+	spa	empobrecedor	adj	cat	empobridor	adj
+	spa	intercomarcal	adj-mf$adj$adj-mf-sg	cat	intercomarcal	$adj
+	spa	desestabilizador	adj	cat	desestabilitzador	$adj
+	spa	demoledor	adj-m-sg$adj	cat	demolidor	adj
+	spa	semiautónomo	adj	cat	semiautònom	adj
+	spa	neurobiológico	adj$adj-m-sg	cat	neurobiològic	adj
+	spa	embarazoso	adj$adj-m	cat	embarassós	adj
+	spa	intermodal	adj	cat	intermodal	adj
+LR	spa	bruselense	adj-mf	cat	brussel·lès	adj-GD
+RL	spa	bruselense	adj-mf	cat	brussel·lès	adj-f
+RL	spa	bruselense	adj-mf	cat	brussel·lès	adj-m
+	spa	bipolaridad	n	cat	bipolaritat	n$n-f
+	spa	externalización	n	cat	externalització	n
+	spa	internalización	n	cat	internalització	n
+	spa	gravera	n	cat	gravera	n
+	spa	tramontana	n	cat	tramuntana	n-f$n
+	spa	acólito	n	cat	acòlit	n
+	spa	subempleo	n-m	cat	subocupació	n-f$n
+LR	spa	subocupación	n$n-f	cat	subocupació	n-f$n
+	spa	buceo	n-m$n	cat	busseig	n-m$n
+	spa	autoabastecimiento	n	cat	autoproveïment	n
+	spa	torrentera	n	cat	torrentera	n$n-f
+	spa	minifundismo	n	cat	minifundisme	n
+	spa	zapatazo	n$n-m	cat	sabatada	n-f
+	spa	travesti	n$n-m	cat	travestí	n
 	spa	guaraní	n	cat	guaraní	n
 	spa	proxenetismo	n	cat	proxenetisme	n
 	spa	asa	n$n-f	cat	ansa	n$n-f
@@ -51761,7 +51803,7 @@ LR	spa	estío	n$n-m	cat	estiu	n-m$n
 	spa	hermafroditismo	n	cat	hermafroditisme	n$n-m
 	spa	hidromasaje	n$n-m	cat	hidromassatge	n$n-m
 	spa	hidrómetro	n$n-m	cat	hidròmetre	n$n-m
-	spa	himen	n$n-m	cat	himen	n-m$n
+	spa	himen	n-m$n	cat	himen	n-m$n
 	spa	hipertiroidismo	n	cat	hipertiroïdisme	n$n-m
 	spa	hipérico	n	cat	hipèric	n
 	spa	hirsutismo	n	cat	hirsutisme	n
@@ -51913,7 +51955,7 @@ LR	spa	terrado	n-m$n	cat	terrat	n-m$n
 	spa	toallero	n	cat	tovalloler	n
 	spa	tornavoz	n$n-m	cat	tornaveu	n
 	spa	trascoro	n	cat	rerecor	n
-	spa	trasmallo	n	cat	tremall	n
+	spa	trasmallo	n	cat	tresmall	n
 	spa	travertino	n	cat	travertí	n
 	spa	trifinio	n	cat	trifini	n
 	spa	trust	n	cat	trust	n-m$n

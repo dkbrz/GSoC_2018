@@ -10,7 +10,7 @@
 	mlt	temp	n-m$n-m-sg	spa	clima	n-m$n$n-m-sg
 	mlt	tifel	n-m-sg	spa	niño	n$n-m$n-m-sg
 	mlt	sena	n-f$n-f-sg	spa	año	n-m-pl
-	mlt	oħt	n-m-sg	spa	hermano	n-m$n$n-m-sg
+	mlt	oħt	n-m-sg	spa	hermano	n-m$n-m-sg
 	mlt	kelb	n-m$n-m-sg	spa	perro	n$n-m$n-m-sg
 	mlt	qattus	n-m$m$n-m-sg	spa	gato	n$n-m$n-m-sg
 	mlt	omm	n-f$n-f-sg	spa	madre	n$n-f$n-f-sg
@@ -31,9 +31,9 @@
 	mlt	ras	n-f$n-f-sg	spa	cabeza	n-f$n$n-f-sg
 	mlt	him	n-m-sg	spa	hora	n-f$n$n-f-sg
 	mlt	ilma	n-f$n-f-sg	spa	agua	n-m-sg
-	mlt	Ġakbu	np-ant-m$np-ant-m-sg	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg
-	mlt	Marija	np-ant-f$np-ant-f-sg	spa	María	np$np-ant$np-ant-f$np-ant-f-sg
-	mlt	Mary	np-ant-f$np-ant-f-sg	spa	María	np$np-ant$np-ant-f$np-ant-f-sg
+	mlt	Ġakbu	np-ant-m$np-ant-m-sg	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m
+	mlt	Marija	np-ant-f$np-ant-f-sg	spa	María	np$np-ant$np-ant-f-sg$np-ant-f
+	mlt	Mary	np-ant-f$np-ant-f-sg	spa	María	np$np-ant$np-ant-f-sg$np-ant-f
 	mlt		sent	spa		sent
 	mlt	qagħdad	vblex-iv-pprs-mf-pl	spa	estar	vblex$vblex-inf
 	mlt	lagħab	vblex$vblex-tv$vblex-tv-past-p3-m-sg	spa	jugar	vblex-inf
@@ -107,7 +107,7 @@
 	mlt	ferħan	adj$adj-m-sg	spa	feliz	adj-mf$adj-mf-ND$adj
 	mlt	antik	adj$adj-m-sg	spa	viejo	adj$adj-m-sg$$adj-m
 	mlt	l	det-def-mf-sp$det-def	spa	el	n-m
-	mlt	ħafna	det-qnt-mf-pl$det-qnt$det-qnt-mf	spa	mucho	det-qnt-GD-ND$det-qnt$det-qnt-GD
+	mlt	ħafna	det-qnt-mf-pl$det-qnt$det-qnt-mf	spa	mucho	det-qnt$det-qnt-GD-ND$det-qnt-GD
 	mlt	dan	det-dem$det$det-dem-mf-sp	spa	un	det-m-sp
 	mlt	ieħor	det$det-ind$det-ind-m-sg	spa	otro	det-m-sg
 	mlt	quddiem	pr	spa	frente a	pr

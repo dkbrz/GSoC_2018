@@ -15,6 +15,7 @@ LR	oci	ò	cnjcoo	fra	ou	cnjcoo
 LR	oci	siquenon	cnjadv	fra	sinon	cnjadv
 LR	oci	si que non	cnjadv	fra	sinon	cnjadv
 	oci	que	cnjsub	fra	que	cnjsub
+	oci	que	cnjadv	fra	que	cnjadv
 	oci	a condicion que	cnjadv	fra	à condition que	cnjadv
 RL	oci	a condicion que	cnjadv	fra	sous réserve que	cnjadv
 	oci	a mesura que	cnjadv	fra	à mesure que	cnjadv
@@ -62,7 +63,7 @@ LR	oci	malgrat lo fait que	cnjadv	fra	malgré le fait que	cnjadv
 LR	oci	per'mor que	cnjadv	fra	puisque	cnjadv
 	oci	per pauc que	cnjadv	fra	pour peu que	cnjadv
 	oci	perque	cnjadv	fra	à cause que	cnjadv
-	oci	perque	cnjadv	fra	car	cnjadv
+RL	oci	perque	cnjadv	fra	car	cnjadv
 	oci	perque	cnjadv	fra	parce que	cnjadv
 	oci	puslèu que	cnjadv	fra	plutôt que	cnjadv
 	oci	per tant que	cnjadv	fra	bien que	cnjadv
@@ -77,8 +78,8 @@ LR	oci	per'mor que	cnjadv	fra	puisque	cnjadv
 	oci	per tant que	cnjadv	fra	quoique	cnjadv
 	oci	per tant que	cnjadv	fra	quoique	cnjadv
 	oci	per tant que	cnjadv	fra	quoique	cnjadv
-	oci	pr'amor que	cnjadv	fra	puisque	cnjadv
-	oci	pr'amor que	cnjadv	fra	à cause que	cnjadv
+RL	oci	pr'amor que	cnjadv	fra	puisque	cnjadv
+RL	oci	pr'amor que	cnjadv	fra	à cause que	cnjadv
 	oci	pr'amor que	cnjadv	fra	car	cnjadv
 	oci	pr'amor que	cnjadv	fra	parce que	cnjadv
 	oci	puish que	cnjadv	fra	puisque	cnjadv
@@ -450,8 +451,7 @@ RL	oci	segon los dires de	pr	fra	aux dires de	pr
 	oci	segons	pr	fra	au dire de	pr
 	oci	segons	pr	fra	au dire de	pr
 	oci	segon	pr	fra	selon	pr
-	oci	segon	pr	fra	selon	pr
-	oci	segon	pr	fra	selon	pr
+RL	oci	segon	pr	fra	suivant	pr
 	oci	segons	pr	fra	selon	pr
 	oci	segons	pr	fra	selon	pr
 	oci	segontes	pr	fra	au dire de	pr
@@ -500,6 +500,7 @@ LR	oci	amb	pr	fra	avec	pr
 LR	oci	ambe	pr	fra	avec	pr
 LR	oci	ambé	pr	fra	avec	pr
 	oci	dab	pr	fra	avec	pr
+LR	oci	dab	pr	fra	avec	pr
 LR	oci	damb	pr	fra	avec	pr
 LR	oci	emb	pr	fra	avec	pr
 LR	oci	embe	pr	fra	avec	pr
@@ -659,18 +660,32 @@ LR	oci	cap	det-ind-mf-sp$det	fra	aucun	det-ind-GD-sg
 LR	oci	mon	det-pos-m-pl	fra	mon	det-pos-mf-pl$pos
 LR	oci	mon	det-pos-f-pl	fra	mon	det-pos-mf-pl$pos
 RL	oci	mon	det-pos-GD-pl	fra	mon	det-pos-mf-pl$pos
+LR	oci	lo mieu	det-pos-m$det-pos-m-sg	fra	mon	det-pos-m-sg$det
+LR	oci	lo mieu	det$det-pos-f$det-pos-f-sg	fra	mon	det-pos-f-sg
+LR	oci	lo mieu	det-pos-m-pl	fra	mon	det-pos-mf-pl$pos
+LR	oci	lo mieu	det-pos-f-pl	fra	mon	det-pos-mf-pl$pos
 	oci	ton	det-pos$det-pos-m$det-pos-m-sg	fra	ton	det-pos-m-sg$det-pos-m$det
 	oci	ton	det-pos-f$det-pos-f-sg	fra	ton	det-pos-f-sg$det-pos-f
 LR	oci	ton	det-pos-m-pl	fra	ton	det-pos-mf-pl$pos
 LR	oci	ton	det-pos-f-pl	fra	ton	det-pos-mf-pl$pos
 RL	oci	ton	det-pos-GD-pl	fra	ton	det-pos-mf-pl$pos
+LR	oci	lo tieu	det-pos-m$det-pos-m-sg	fra	ton	det-pos-m-sg$det-pos-m$det
+LR	oci	lo tieu	det$det-pos-f$det-pos-f-sg	fra	ton	det-pos-f-sg$det-pos-f
+LR	oci	lo tieu	det-pos-m-pl	fra	ton	det-pos-mf-pl$pos
+LR	oci	lo tieu	det-pos-f-pl	fra	ton	det-pos-mf-pl$pos
 	oci	son	det-pos$det-pos-m$det-pos-m-sg	fra	son	det-pos-m-sg$det
 	oci	son	det-pos-f$det-pos-f-sg	fra	son	det-pos-f-sg
 LR	oci	son	det-pos-m-pl	fra	son	det-pos-mf-pl$pos
 LR	oci	son	det-pos-f-pl	fra	son	det-pos-mf-pl$pos
 RL	oci	son	det-pos-GD-pl	fra	son	det-pos-mf-pl$pos
+LR	oci	lo sieu	det-pos-m$det-pos-m-sg	fra	son	det-pos-m-sg$det
+LR	oci	lo sieu	det$det-pos-f$det-pos-f-sg	fra	son	det-pos-f-sg
+LR	oci	lo sieu	det-pos-m-pl	fra	son	det-pos-mf-pl$pos
+LR	oci	lo sieu	det-pos-f-pl	fra	son	det-pos-mf-pl$pos
 	oci	nòstre	det-pos	fra	notre	det-pos-mf$det-pos-mf-pl$pos$det-pos
-	oci	vòstre	det-pos	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos
+LR	oci	lo nòstre	det$det-pos	fra	notre	det-pos-mf$det-pos-mf-pl$pos$det-pos
+	oci	vòstre	det-pos	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det
+LR	oci	lo vòstre	det$det-pos	fra	votre	det-pos-mf$det-pos-mf-pl$det-pos$det
 	oci	lor	det-pos$det-pos-mf$det	fra	leur	det-pos-mf-pl$det-pos-mf$det$det-pos
 	oci	lo mieu	prn	fra	le mien	prn$prn-pos-GD
 	oci	lo tieu	prn	fra	le tien	prn$prn-pos-GD
@@ -1195,6 +1210,7 @@ RL	oci	XXX	num-mf-sp	fra	XXXème	adj-mf$adj-mf-sg
 	oci	Will	np$np-ant-m-sg	fra	Will	np-ant-m-sg
 	oci	William	np$np-ant-m-sg	fra	William	np$np-ant$np-ant-m-sg
 	oci	Willy	np-ant-m-sg	fra	Willy	np$np-ant$np-ant-m-sg
+	oci	Guetta	np-cog	fra	Guetta	np-cog
 	oci	Bodon	np-cog	fra	Boudou	np-cog$np-cog-mf-sp
 	oci	Bush	np$np-cog	fra	Bush	np$np-cog$np-cog-mf-sp
 	oci	Chirac	np$np-cog	fra	Chirac	np$np-cog
@@ -1223,10 +1239,10 @@ RL	oci	XXX	num-mf-sp	fra	XXXème	adj-mf$adj-mf-sg
 	oci	Tarragona	np$np-top-m-sg	fra	Tarragone	np-top-m-sg
 	oci	Tarba	np-top-f-sg	fra	Tarbes	np-top-f-sg
 	oci	Tolon	np-top-m-sg	fra	Toulon	np-top-m-sg
-	oci	Tolosa	np$np-top-f-sg	fra	Toulouse	np$np-top-f-sg$np-top
+	oci	Tolosa	np-top-f-sg$np	fra	Toulouse	np$np-top-f-sg$np-top
 	oci	Usès	np-top-m-sg	fra	Uzès	np-top-m-sg
 LR	oci	Valéncia	np$np-top-f-sg	fra	Valence	np$np-top-f-sg
-LR	oci	València	np$np-top-f-sg	fra	Valence	np$np-top-f-sg
+LR	oci	València	np-top-f-sg	fra	Valence	np$np-top-f-sg
 	oci	Valença	np-top-f-sg	fra	Valence	np$np-top-f-sg
 	oci	Jornalet	np-al-m-sg	fra	Jornalet	np-al-m-sg
 	oci	La Setmana	np-al-f-sg	fra	La Setmana	np-al-f-sg
@@ -3242,7 +3258,6 @@ LR	oci	actualisacion	n$n-f	fra	actualisation	n$n-f
 	oci	addicion	n$n-f	fra	addition	n-f$n
 	oci	adduccion	n-f	fra	adduction	n-f
 	oci	adequacion	n$n-f	fra	adéquation	n-f$n
-	oci	adeqüacion	n$n-f	fra	adéquation	n-f$n
 	oci	adjoncion	n-f	fra	adjonction	n-f
 	oci	adjudicacion	n$n-f	fra	adjudication	n-f$n
 	oci	adjuracion	n-f	fra	adjuration	n-f
@@ -3516,8 +3531,7 @@ RL	oci	distraccion	n-f$n	fra	distraction	n-f$n
 	oci	encarceracion	n-f	fra	emprisonnement	n-m$n
 	oci	entonacion	n$n-f	fra	intonation	n$n-f
 	oci	epilacion	n-f	fra	épilation	n-f
-	oci	equacion	n-f	fra	équation	n-f$n$n-f-ND
-	oci	eqüacion	n-f	fra	équation	n-f$n$n-f-ND
+	oci	equacion	n-f	fra	équation	n$n-f$n-f-ND
 	oci	escolarizacion	n$n-f	fra	scolarisation	n-f$n
 	oci	especulacion	n$n-f	fra	spéculation	n$n-f$n-f-ND
 	oci	espitalizacion	n$n-f	fra	hospitalisation	n-f$n
@@ -4876,7 +4890,7 @@ LR	oci	copia	n-f	fra	copie	n-f$n$n-f-ND
 	oci	correspondéncia	n$n-f	fra	correspondance	n$n-f$n-f-ND
 	oci	cornissa	n-f	fra	corniche	n-f$n
 	oci	correja	n$n-f	fra	courroie	n-f$n
-	oci	corsa	n$n-f	fra	course	n$n-f$n-f-ND
+	oci	corsa	n-f$n	fra	course	n$n-f$n-f-ND
 RL	oci	cortina	n-f$n	fra	courtine	n-f$n$n-f-ND
 	oci	cortina	n-f$n	fra	rideau	n-m$n$n-m-ND
 	oci	cosedura	n$n-f	fra	couture	n-f$n
@@ -5441,7 +5455,7 @@ LR	oci	obertura	n$n-f	fra	ouverture	n-f$n$n-f-ND
 	oci	ombrilha	n$n-f	fra	pénombre	n-f$n$n-f-ND
 	oci	omonimia	n$n-f	fra	homonymie	n-f$n
 	oci	onda	n$n-f	fra	onde	n$n-f$n-f-ND
-	oci	onda	n$n-f	fra	vague	n-f$n$n-f-ND
+LR	oci	onda	n$n-f	fra	vague	n-f$n$n-f-ND
 	oci	ongla	n$n-f	fra	ongle	n-m$n-m-ND$n
 LR	oci	ungla	n$n-f	fra	ongle	n-m$n-m-ND$n
 	oci	onomatopèa	n-f	fra	onomatopée	n-f$n
@@ -6374,7 +6388,6 @@ LR	oci	cruissendilha	n-f	fra	cartilage	n-m
 LR	oci	cruissentena	n-f	fra	cartilage	n-m
 LR	oci	crussentèla	n-f	fra	cartilage	n-m
 	oci	car	n-m	fra	car	n-m
-	oci	perque	n-m	fra	car	n-m
 	oci	cachavièlha	n-f	fra	cauchemar	n-m$n$n-m-ND
 	oci	cavalariá	n-f	fra	cavalerie	n$n-f$n-f-ND
 	oci	cencha	n-f	fra	ceinture	n-f$n-f-ND
@@ -7227,7 +7240,7 @@ LR	oci	pimparèla	n-f	fra	marguerite	n-f
 LR	oci	mercatica	n-f	fra	marketing	n-m$n$n-m-sg
 	oci	marmalha	n-f	fra	marmaille	n-f
 	oci	pichonalha	n-f	fra	marmaille	n-f
-	oci	castanha	n-f	fra	marron	n-m$n
+LR	oci	castanha	n-f	fra	marron	n-m$n
 	oci	marron	n-m	fra	marron	n-m$n
 	oci	marsupial	n-m	fra	marsupial	n-m$
 	oci	març	n$n-m	fra	mars	n-m-sp$n$n-m
@@ -7567,9 +7580,8 @@ LR	oci	piuse	n-f	fra	puce	n-f$n
 	oci	viston	n-m	fra	pupille	n-f$n$n-f-ND
 	oci	puta	n-f	fra	putain	n-f
 RL	oci	puèg	n-m	fra	puy	n-m
-	oci	qüadratura	n$n-f	fra	quadrature	n-f
+	oci	quadratura	n-f	fra	quadrature	n-f
 	oci	quars	n-m	fra	quartz	n-m
-	oci	qüars	n-m	fra	quartz	n-m
 	oci	capinhada	n-f	fra	querelle	n-f$n$n-f-ND
 	oci	desacordança	n-f	fra	querelle	n-f$n$n-f-ND
 	oci	garrolha	n-f	fra	querelle	n-f$n$n-f-ND
@@ -7761,7 +7773,8 @@ LR	oci	estratosfera	n-f	fra	stratosphère	n-f$n
 	oci	sud-oèst	n-m-sg	fra	sud-ouest	n-m-sg$n-m
 LR	oci	sièja	n-f	fra	suie	n-f
 LR	oci	suja	n-f	fra	suie	n-f
-	oci	continuacion	n$n-f	fra	suite	n-f$n$n-f-ND
+RL	oci	continuacion	n$n-f	fra	suite	n-f$n$n-f-ND
+	oci	suite	n-f	fra	suite	n-f$n$n-f-ND
 	oci	seguida	n$n-f	fra	suite	n-f$n$n-f-ND
 RL	oci	superficia	n$n-f$	fra	superficie	n-f$n
 	oci	sordièra	n-f	fra	surdité	n-f$n
@@ -7850,8 +7863,8 @@ LR	oci	teula	n-f	fra	tuile	n-f
 RL	oci	fabrica	n-f$n	fra	usine	n$n-f$n-f-ND
 	oci	util	n-m	fra	utile	n$n-m
 	oci	vaca	n$n-f	fra	vache	n$n-f$n-f-ND
-LR	oci	ondada	n$n-f	fra	vague	n-f$n$n-f-ND
-LR	oci	vague	n-m	fra	vague	n-f$n$n-f-ND
+	oci	ondada	n$n-f	fra	vague	n-f$n$n-f-ND
+	oci	vague	n-m-sg	fra	vague	n-m-sg
 	oci	validitat	n$n-f	fra	validité	n$n-f$n-f-ND
 	oci	comba	n-f	fra	vallon	n-m
 RL	oci	val	n-f	fra	val	n-m
@@ -7983,7 +7996,6 @@ LR	oci	adulator	n	fra	adulateur	n$n-m
 	oci	afoliment	n-m	fra	affolement	n-m
 	oci	afustatge	n-m	fra	affûtage	n-m
 	oci	afust	n-m	fra	affût	n-m
-RL	oci	african	n	fra	Africain	n$n-m
 	oci	agaçament	n-m	fra	agacement	n-m
 	oci	agent	n$n-mf	fra	agent	n$n-mf$n-mf-ND
 	oci	agitat	n	fra	agité	n
@@ -8127,9 +8139,8 @@ RL	oci	calendas	n-f-pl	fra	calendes	n-f$n-f-pl
 	oci	carrossèu	n-m	fra	carrousel	n-m
 	oci	cavalet	n-m	fra	carrousel	n-m
 	oci	cartaginés	n	fra	Carthaginois	n
-LR	oci	perqué	n-m	fra	car	n-m
+	oci	perqué	n-m	fra	pourquoi	n$n-m$n-m-ND
 	oci	cariocinèsi	n-f	fra	caryocinèse	n-f
-	oci	castelhan	n$n-m	fra	castillan	n$n-m$n-m-ND
 	oci	catacrèsi	n-f	fra	catachrèse	n-f
 	oci	catarrin	n-m	fra	catarhinien	n-m
 	oci	catenària	n-f	fra	caténaire	n-f
@@ -8170,8 +8181,6 @@ LR	oci	surgian	n	fra	chirurgien	n$n-m
 	oci	cloròsi	n-f	fra	chlorose	n-f
 	oci	crestian	n	fra	chrétien	n$n-m$n-m-ND
 LR	oci	cristian	n	fra	chrétien	n$n-m$n-m-ND
-	oci	chipriòta	n-mf$n	fra	chypriote	n-mf
-LR	oci	cipriòta	n-mf$n	fra	chypriote	n-mf
 LR	oci	crèuge	n-m	fra	cicatrice	n-f
 	oci	ceguda	n-f	fra	ciguë	n-f
 LR	oci	cinquanten	n-m	fra	cinquantième	n-m$n-m-sg
@@ -8232,8 +8241,6 @@ LR	oci	creis	n-m	fra	croissance	n-f$n-f-ND
 	oci	cobesiá	n-m	fra	cupidité	n-f
 	oci	curator	n	fra	curateur	n$n-m
 	oci	curiós	n	fra	curieux	n$n-GD-ND
-	oci	chipriòta	n-mf$n	fra	cypriote	n-mf
-LR	oci	cipriòta	n-mf$n	fra	cypriote	n-mf
 	oci	daga	n-f	fra	dague	n-f
 	oci	danés	n	fra	danois	n-m-sp$n
 	oci	dançaire	n	fra	danseur	n$n-m
@@ -8347,7 +8354,6 @@ LR	oci	epistemològue	n	fra	épistémologue	n$n-mf
 	oci	espós	n	fra	époux	n-m-sp$n
 	oci	equivòc	n-m	fra	équivoque	n-f
 	oci	eritèma	n-m	fra	érythème	n-m
-	oci	castelhan	n$n-m	fra	espagnol	n$n-m-ND$$n-m
 LR	oci	ais	n$n-m	fra	essieu	n$n-m$n-m-ND
 LR	oci	estam	n-m	fra	étain	n-m
 	oci	estanh	n-m$n	fra	étain	n-m
@@ -9234,7 +9240,7 @@ RL	oci	actua		fra	actuel	adj$adj-f$$adj-f-sg
 	oci	adaptador	adj	fra	adaptateur	adj
 	oci	addiciona		fra	additionnel	adj$adj-f$
 	oci	adèpte	adj	fra	adepte	adj-mf$adj
-	oci	adeqüat	adj	fra	adéquat	adj
+	oci	adequat	adj$adj-GD	fra	adéquat	adj
 	oci	aderent	adj	fra	adhérent	adj
 	oci	adiabatic	adj	fra	adiabatique	adj-mf$adj
 	oci	adjectiu	adj	fra	adjectif	adj
@@ -9402,7 +9408,7 @@ LR	oci	niais	adj	fra	camus	adj
 	oci	cartaginés	adj	fra	carthaginois	adj
 	oci	cartilaginós	adj	fra	cartilagineux	adj
 	oci	castelhan	adj	fra	castillan	adj$adj-GD-ND
-	oci	castelhan	n$n-m	fra	castillan	n$n-m$n-m-ND
+	oci	castelhan	n	fra	castillan	n$n-m-ND$n-m
 	oci	catabatic	adj	fra	catabatique	adj
 	oci	catenari	adj	fra	caténaire	adj
 	oci	catar	adj	fra	cathare	adj
@@ -9489,11 +9495,15 @@ LR	oci	cuòch	adj	fra	cuit	adj$adj-GD-ND
 	oci	curat	adj	fra	curé	adj
 	oci	rector	adj	fra	curé	adj
 	oci	curiós	adj	fra	curieux	adj-m-sp$adj
+	oci	chipriòta	adj	fra	chypriote	adj$adj-mf-ND
+RL	oci	chipriòta	adj	fra	cypriote	adj
+LR	oci	cipriòta	adj	fra	chypriote	adj$adj-mf-ND
+	oci	cipriòta	adj	fra	cypriote	adj
+	oci	chipriòta	n	fra	Chypriote	n-mf$n
+RL	oci	chipriòta	n	fra	Cypriote	n$n-mf
+LR	oci	cipriòta	n	fra	Chypriote	n-mf$n
+	oci	cipriòta	n	fra	Cypriote	n$n-mf
 	oci	cutanèu	adj	fra	cutané	adj
-	oci	chipriòta	adj	fra	cypriote	adj
-LR	oci	cipriòta	adj	fra	cypriote	adj
-	oci	chipriòta	n-mf$n	fra	Cypriote	n$n-mf
-LR	oci	cipriòta	n-mf$n	fra	Cypriote	n$n-mf
 	oci	citologic	adj	fra	cytologique	adj
 	oci	dalmatic	adj	fra	dalmatique	adj
 	oci	danés	adj	fra	danois	adj-m-sp$adj
@@ -9721,7 +9731,7 @@ LR	oci	aut	adj	fra	haut	adj$adj-GD-ND
 	oci	euristic	adj	fra	heuristique	adj
 	oci	istologic	adj	fra	histologique	adj
 	oci	omograf	adj	fra	homographe	adj
-	oci	omosexua		fra	homosexuel	adj$
+	oci	omosexua		fra	homosexuel	$adj
 	oci	òrre	adj$adj-m	fra	horrible	adj$adj-mf-ND$adj-mf
 	oci	ochen	adj	fra	huitième	adj$adj-mf$adj-mf-ND
 LR	oci	uechen	adj	fra	huitième	adj$adj-mf$adj-mf-ND
@@ -10112,7 +10122,7 @@ LR	oci	cande	adj	fra	propre	adj$adj-mf$adj-mf-ND
 	oci	pusillanime	adj	fra	pusillanime	adj
 	oci	putassièr	adj	fra	putassier	adj
 	oci	pirenenc	adj	fra	pyrénéen	adj$adj-GD-ND
-	oci	qüadratic	adj	fra	quadratique	adj$
+	oci	quadratic	adj	fra	quadratique	adj$
 	oci	tetragona		fra	quadratique	adj$
 	oci	quarantau	adj	fra	quarantième	adj-mf$adj
 	oci	quaranten	adj	fra	quarantième	adj-mf$adj
@@ -10459,7 +10469,6 @@ LR	oci	franchimand	n	fra	français	n-m-sp$n
 	oci	libian	adj	fra	libyen	adj
 	oci	lituanian	adj	fra	lituanien	adj$adj-GD-ND
 	oci	mexican	adj	fra	mexicain	adj$adj-GD-ND
-	oci	nigerian	adj	fra	nigérien	adj$adj-GD-ND
 	oci	occitan	adj	fra	occitan	adj$adj-GD-ND
 	oci	olimpian	adj	fra	olympien	adj
 	oci	roman	adj	fra	romain	adj$adj-GD-ND
@@ -10479,7 +10488,6 @@ LR	oci	franchimand	n	fra	français	n-m-sp$n
 	oci	libian	n	fra	Libyen	n$n-m
 	oci	lituanian	n	fra	lituanien	n$n-GD
 	oci	mexican	n	fra	Mexicain	n$n-m
-	oci	nigerian	n	fra	Nigérien	n$n-m
 	oci	occitan	n	fra	occitan	n$n-m
 	oci	roman	n-m$n	fra	Romain	n$n-m
 	oci	sirian	n	fra	Syrien	n$n-m
@@ -10510,7 +10518,7 @@ LR	oci	franchimand	n	fra	français	n-m-sp$n
 	oci	bestial	adj	fra	bestial	adj
 	oci	bicameral	adj	fra	bicaméral	adj
 	oci	bilatera		fra	bilatéral	adj$adj-f$
-	oci	bisexua		fra	bisexuel	adj$
+	oci	bisexua		fra	bisexuel	$adj
 	oci	boreal	adj	fra	boréal	adj
 	oci	brutal	adj-m$adj	fra	brutal	adj$adj-f
 	oci	bucal	adj	fra	buccal	adj
@@ -10574,7 +10582,7 @@ LR	oci	franchimand	n	fra	français	n-m-sp$n
 	oci	illegal	adj-m$adj	fra	illégal	adj$adj-f
 	oci	immaterial	adj	fra	immatériel	adj$adj-GD-ND
 	oci	immoral	adj-m$adj	fra	immoral	adj
-	oci	immortal	adj	fra	immortel	adj$adj-m$adj-m-sg
+	oci	immortal	adj	fra	immortel	adj$adj-m$$adj-m-sg
 	oci	inabitual	adj	fra	inhabituel	adj$adj-GD-ND
 	oci	incondicional	adj-m$adj	fra	inconditionnel	adj$adj-GD
 	oci	individual	adj-m$adj	fra	individuel	adj$adj-GD-ND$adj-GD
@@ -10614,7 +10622,7 @@ LR	oci	franchimand	n	fra	français	n-m-sp$n
 	oci	norma	n$$n-f	fra	normal	adj$adj-f$$adj-f-sg
 	oci	numeral	adj-m$adj	fra	numéral	adj
 	oci	oficia		fra	officiel	adj-GD-ND$adj$adj-GD$
-	oci	omosexua		fra	homosexuel	adj$
+	oci	omosexua		fra	homosexuel	$adj
 	oci	ora	n$$n-f	fra	oral	adj$adj-f$
 	oci	orbita	n$$n-f	fra	orbital	adj$
 	oci	original	adj-m$adj	fra	original	adj$adj-f$$adj-f-sg
@@ -11885,6 +11893,7 @@ LR	oci	qualque còp	adv	fra	quelquefois	adv
 LR	oci	a vegadas	adv	fra	parfois	adv
 LR	oci	de fes	adv	fra	parfois	adv
 	oci	dedins	adv	fra	dedans	adv
+LR	oci	dins	adv	fra	dedans	adv
 	oci	defòra	adv	fra	dehors	adv
 RL	oci	enjós	adv	fra	en dessous	adv
 	oci	dejós	adv	fra	dessous	adv
@@ -12022,6 +12031,7 @@ LR	oci	bensai	adv	fra	peut-être	adv
 LR	oci	bessai	adv	fra	peut-être	adv
 	oci	dilhèu	adv	fra	peut-être	adv
 LR	oci	sai que	adv	fra	sans doute	adv
+	oci	probable	adv	fra	sans doute	adv
 	oci	subran	adv	fra	soudain	adv
 	oci	tot comptat e debatut	adv	fra	en fin de compte	adv
 LR	oci	tot comptat e rebatut	adv	fra	en fin de compte	adv
@@ -12978,7 +12988,7 @@ LR	oci	remetre	vblex	fra	remettre	vblex
 	oci	sorire	vblex	fra	sourire	vblex
 	oci	culhir	vblex	fra	cueillir	vblex
 	oci	fregir	vblex	fra	frire	vblex
-LR	oci	abatre	vblex	fra	abattre	vblex
+	oci	abatre	vblex	fra	abattre	vblex
 	oci	absòlvre	vblex	fra	absoudre	vblex
 LR	oci	comprene	vblex	fra	comprendre	vblex
 	oci	descriure	vblex	fra	décrire	vblex
@@ -13290,8 +13300,8 @@ LR	oci	bailar	vblex	fra	donner	vblex
 LR	oci	balajar	vblex	fra	balayer	vblex
 RL	oci	balar	vblex	fra	baller	vblex
 LR	oci	balar	vblex	fra	danser	vblex
-	oci	balhar	vblex	fra	donner	vblex
-RL	oci	baliar	vblex	fra	donner	vblex
+LR	oci	balhar	vblex	fra	donner	vblex
+LR	oci	baliar	vblex	fra	donner	vblex
 	oci	bandejar	vblex	fra	affairer	vblex
 	oci	bandejar	vblex	fra	agiter	vblex
 	oci	banhar	vblex	fra	baigner	vblex
@@ -13634,7 +13644,7 @@ RL	oci	defendre	vblex	fra	plaider	vblex
 	oci	depassar	vblex	fra	dépasser	vblex
 	oci	depausar	vblex	fra	déposer	vblex
 	oci	derivar	vblex	fra	dériver	vblex
-	oci	derrotar	vblex	fra	abattre	vblex
+LR	oci	derrotar	vblex	fra	abattre	vblex
 	oci	desacadiar	vblex	fra	déchaîner	vblex
 	oci	desacadiar	vblex	fra	déchaîner	vblex
 	oci	desacadiar	vblex	fra	délier	vblex
@@ -13799,6 +13809,7 @@ LR	oci	distribusir	vblex	fra	distribuer	vblex
 	oci	dobtar	vblex	fra	douter	vblex
 	oci	documentar	vblex	fra	documenter	vblex
 	oci	dominar	vblex	fra	dominer	vblex
+LR	oci	dar	vblex	fra	donner	vblex
 	oci	donar	vblex	fra	donner	vblex
 RL	oci	dormir	vblex	fra	assoupir	vblex
 	oci	dormir	vblex	fra	dormir	vblex
@@ -13995,6 +14006,7 @@ LR	oci	espaurir	vblex	fra	faire	vblex
 	oci	esprovar	vblex	fra	éprouver	vblex
 	oci	esquiar	vblex	fra	skier	vblex
 	oci	èsser	vbser$vbser-pp	fra	être	vbser$vbser-pp$vbser-pp-mf-sp
+LR	oci	èster	vbser	fra	être	vbser$vbser-pp$vbser-pp-mf-sp
 	oci	èsser	vbser$vbser-pp	fra	être	vbser$vbser-pp$vbser-pp-mf-sp
 	oci	establir	vblex	fra	établir	vblex
 RL	oci	estampar	vblex	fra	empreindre	vblex
@@ -14079,6 +14091,8 @@ RL	oci	expedir	vblex	fra	router	vblex
 	oci	far	vblex	fra	faire	vblex
 LR	oci	har	vblex	fra	faire	vblex
 	oci	har	vblex	fra	faire	vblex
+LR	oci	hèr	vblex	fra	faire	vblex
+	oci	hèr	vblex	fra	faire	vblex
 LR	oci	far	vblex	fra	faire	vblex
 LR	oci	faire	vblex	fra	faire	vblex
 	oci	farcir	vblex	fra	farcir	vblex
@@ -15434,7 +15448,7 @@ RL	oci	manca	n$n-f	fra	manque	n-m$n-m-ND
 RL	oci	astre	n-m$n	fra	chance	n$n-f$n-f-ND
 	oci	batariá	n$n-f	fra	batterie	n-f$n$n-f-ND
 	oci	aliança	n$n-f	fra	alliance	n-f$n$n-f-ND
-	oci	menaire	n	fra	leader	n$n-m
+RL	oci	menaire	n	fra	leader	n$n-m
 	oci	reparticion	n$n-f	fra	répartition	n-f$n$n-f-ND
 	oci	opèra	n-f	fra	opéra	n-m$n$n-m-ND
 	oci	budgèt	n$n-m	fra	budget	n-m$n$n-m-ND
@@ -15514,7 +15528,7 @@ RL	oci	presa	n$n-f	fra	proie	n-f
 	oci	NBA	n-acr$n-acr-f	fra	NBA	n-acr-f
 	oci	drama	n$n-m	fra	drame	n$n-m$n-m-ND
 RL	oci	costuma	n-f	fra	coutume	n-f$n-f-ND
-	oci	basilica	n$n-f	fra	basilique	n-f$n$n-f-ND
+	oci	basilica	n$$n-f	fra	basilique	n-f$n$n-f-ND
 	oci	ambaissador	n	fra	ambassadeur	n$n-f
 	oci	torista	n$n-mf	fra	touriste	n-mf$n$n-mf-ND
 	oci	militant	n-GD$n	fra	militant	n-f$n
@@ -16717,7 +16731,6 @@ LR	oci	intèrne	adj	fra	interne	adj-mf$adj$adj-mf-ND
 	oci	innombrable	adj-m$adj	fra	innombrable	adj$adj-mf-ND$adj-mf
 	oci	imprevist	adj	fra	imprévu	adj
 	oci	ipotetic	adj	fra	hypothétique	adj-mf$adj$adj-mf-ND
-RL	oci	chipriòta	adj	fra	chypriote	adj$adj-mf-ND
 	oci	asimetric	adj	fra	asymétrique	adj-mf$adj
 	oci	urgent	adj-m$adj	fra	urgent	adj-GD-ND$adj$adj-GD
 	oci	tranquil	adj	fra	tranquille	adj-mf$adj$adj-mf-ND
@@ -16880,7 +16893,6 @@ LR	oci	en fonccion	adv	fra	en fonction	adv
 	oci	d'un autre costat	adv	fra	par ailleurs	adv
 	oci	en junh	adv	fra	en juin	adv
 	oci	en setembre	adv	fra	en septembre	adv
-	oci	probable	adv	fra	sans doute	adv
 	oci	en febrièr	adv	fra	en février	adv
 	oci	en mai	adv	fra	en mai	adv
 	oci	jos la direccion	adv	fra	sous la direction	adv
@@ -17849,7 +17861,7 @@ RL	oci	desbocar	vblex	fra	déboucher	vblex
 	oci	Abdrazakov	np-cog-mf-sp	fra	Abdrazakov	np$np-cog-mf-sp
 	oci	Abe	np-cog-mf-sp	fra	Abe	np$np-cog-mf-sp
 	oci	Abecassis	np-cog-mf-sp	fra	Abecassis	np-cog-mf-sp
-	oci	Abel	np$np-cog-mf-sp	fra	Abel	np-cog$np-cog-mf-sp
+	oci	Abel	np-cog-mf-sp	fra	Abel	np-cog$np-cog-mf-sp
 	oci	Abella	np-cog-mf-sp	fra	Abella	np-cog-mf-sp
 	oci	Abellard	np-cog-mf-sp	fra	Abellard	np-cog-mf-sp
 	oci	Abelleira	np-cog-mf-sp	fra	Abelleira	np-cog-mf-sp
@@ -18007,7 +18019,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Alava	np-cog-mf-sp	fra	Alava	np-cog-mf-sp
 	oci	Alavedra	np-cog-mf-sp	fra	Alavedra	np-cog-mf-sp
 	oci	Albacar	np-cog-mf-sp	fra	Albacar	np-cog-mf-sp
-	oci	Albacete	np$np-cog-mf-sp	fra	Albacete	np$np-cog-mf-sp
+	oci	Albacete	np$np-cog-mf-sp	fra	Albacete	np-cog-mf-sp
 	oci	Albadalejo	np-cog-mf-sp	fra	Albadalejo	np$np-cog-mf-sp
 	oci	Albala	np-cog-mf-sp	fra	Albala	np-cog-mf-sp
 	oci	Albaladejo	np-cog-mf-sp	fra	Albaladejo	np-cog-mf-sp
@@ -18048,7 +18060,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Alcala	np-cog-mf-sp	fra	Alcala	np-cog-mf-sp
 	oci	Alcalde	np-cog-mf-sp	fra	Alcalde	np-cog-mf-sp
 	oci	Alcalà	np-cog-mf-sp	fra	Alcalà	np-cog-mf-sp
-	oci	Alcalá	np-cog-mf-sp	fra	Alcalá	np$np-cog-mf-sp
+	oci	Alcalá	np-cog-mf-sp	fra	Alcalá	np-cog-mf-sp
 	oci	Alcaraz	np$np-cog-mf-sp	fra	Alcaraz	np$np-cog-mf-sp
 	oci	Alcañiz	np$np-cog-mf-sp	fra	Alcañiz	np$np-cog-mf-sp
 	oci	Alcindor	np-cog-mf-sp	fra	Alcindor	np-cog-mf-sp
@@ -18144,7 +18156,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Almodóvar	np$np-cog-mf-sp	fra	Almodóvar	np$np-cog-mf-sp$np-cog
 	oci	Almunia	np$np-cog-mf-sp	fra	Almunia	np$np-cog-mf-sp$np-cog
 	oci	Almunia Amann	np-cog-mf-sp	fra	Almunia Amann	np-cog-mf-sp
-	oci	Alonso	np$np-cog-mf-sp	fra	Alonso	np-cog$np-cog-mf-sp
+	oci	Alonso	np-cog-mf-sp	fra	Alonso	np-cog$np-cog-mf-sp
 	oci	Alos	np-cog-mf-sp	fra	Alos	np-cog-mf-sp
 	oci	Aloy	np-cog-mf-sp	fra	Aloy	np-cog-mf-sp
 	oci	Alperi	np$np-cog-mf-sp	fra	Alperi	np$np-cog$np-cog-mf-sp
@@ -18181,6 +18193,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Alzheimer	np$np-cog-mf-sp	fra	Alzheimer	np$np-cog-mf-sp
 	oci	Alès	np-cog-mf-sp	fra	Alès	np-cog-mf-sp
 	oci	Alòs	np$np-cog-mf-sp	fra	Alòs	np-cog-mf-sp
+	oci	Alòs i Font	np-cog-mf-sp	fra	Alòs i Font	np-cog-mf-sp
 	oci	Alós	np-cog-mf-sp	fra	Alós	np-cog-mf-sp
 	oci	Amades	np-cog-mf-sp	fra	Amades	np-cog-mf-sp
 	oci	Amado	np-cog-mf-sp	fra	Amado	np-cog-mf-sp
@@ -18265,7 +18278,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Andreiev	np-cog-mf-sp	fra	Andreev	np$np-cog-mf-sp
 	oci	Andreo	np-cog-mf-sp	fra	Andreo	np$np-cog-mf-sp
 	oci	Andresen	np-cog-mf-sp	fra	Andresen	np$np-cog-mf-sp
-	oci	Andreu	np$np-cog-mf-sp	fra	Andreu	np$np-cog$np-cog-mf-sp
+	oci	Andreu	np$np-cog-mf-sp	fra	Andreu	np-cog$np-cog-mf-sp
 	oci	Andreux	np-cog-mf-sp	fra	Andreux	np-cog-mf-sp
 	oci	Andrew	np$np-cog-mf-sp	fra	Andrew	np-cog-mf-sp
 	oci	Andrews	np-cog-mf-sp	fra	Andrews	np$np-cog-mf-sp
@@ -18366,7 +18379,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Aramburuzabala	np-cog-mf-sp	fra	Aramburuzabala	np$np-cog-mf-sp
 	oci	Aramendi	np-cog-mf-sp	fra	Aramendi	np$np-cog-mf-sp
 	oci	Aramendia	np-cog-mf-sp	fra	Aramendia	np$np-cog-mf-sp
-	oci	Aran	np$np-cog-mf-sp	fra	Aran	np-cog-mf-sp
+	oci	Aran	np-cog-mf-sp	fra	Aran	np-cog-mf-sp
 	oci	Arana	np-cog-mf-sp	fra	Arana	np$np-cog-mf-sp
 	oci	Aranaga	np-cog-mf-sp	fra	Aranaga	np$np-cog-mf-sp
 	oci	Aranalde	np-cog-mf-sp	fra	Aranalde	np$np-cog-mf-sp
@@ -18662,7 +18675,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Aumatell	np-cog-mf-sp	fra	Aumatell	np-cog-mf-sp
 	oci	Aumont	np-cog-mf-sp	fra	Aumont	np-cog-mf-sp
 	oci	Aupin	np-cog-mf-sp	fra	Aupin	np-cog-mf-sp
-	oci	Aura	np$np-cog-mf-sp	fra	Aura	np$np-cog-mf-sp
+	oci	Aura	np$np-cog-mf-sp	fra	Aura	np-cog-mf-sp
 	oci	Aureli	np$np-cog-mf-sp	fra	Aureli	np-cog-mf-sp
 	oci	Aurelià	np-cog-mf-sp	fra	Aurelià	np-cog-mf-sp
 	oci	Auriol	np-cog-mf-sp	fra	Auriol	np-cog-mf-sp
@@ -19011,7 +19024,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Barthez	np-cog-mf-sp	fra	Barthez	np$np-cog-mf-sp
 	oci	Barthélémy	np-cog-mf-sp	fra	Barthélémy	np-cog-mf-sp$np-cog
 	oci	Bartlett	np-cog-mf-sp	fra	Bartlett	np-cog-mf-sp
-	oci	Bartolomé	np$np-cog-mf-sp	fra	Bartolomé	np$np-cog$np-cog-mf-sp
+	oci	Bartolomé	np$np-cog-mf-sp	fra	Bartolomé	np-cog$np-cog-mf-sp
 	oci	Bartolí	np-cog-mf-sp	fra	Bartolí	np-cog-mf-sp
 	oci	Bartomeu	np$np-cog-mf-sp	fra	Bartomeu	np$np-cog$np-cog-mf-sp
 	oci	Barton	np-cog-mf-sp	fra	Barton	np-cog-mf-sp
@@ -19108,7 +19121,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Bañuls	np-cog-mf-sp	fra	Bañuls	np-cog-mf-sp
 	oci	Bañó	np-cog-mf-sp	fra	Bañó	np-cog-mf-sp
 	oci	Bañón	np-cog-mf-sp	fra	Bañón	np-cog-mf-sp
-	oci	Bea	np$np-cog-mf-sp	fra	Bea	np-cog$np-cog-mf-sp
+	oci	Bea	np-cog-mf-sp	fra	Bea	np-cog$np-cog-mf-sp
 	oci	Beale	np-cog-mf-sp	fra	Beale	np-cog-mf-sp
 	oci	Bean	np-cog-mf-sp	fra	Bean	np-cog-mf-sp
 	oci	Bear	np-cog-mf-sp	fra	Bear	np-cog-mf-sp
@@ -19215,7 +19228,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Bellés	np-cog-mf-sp	fra	Bellés	np-cog-mf-sp
 	oci	Bellón	np-cog-mf-sp	fra	Bellón	np-cog-mf-sp
 	oci	Belmar	np-cog-mf-sp	fra	Belmar	np-cog-mf-sp
-	oci	Belmonte	np$np-cog-mf-sp	fra	Belmonte	np$np-cog-mf-sp
+	oci	Belmonte	np$np-cog-mf-sp	fra	Belmonte	np-cog-mf-sp
 	oci	Beloin	np-cog-mf-sp	fra	Beloin	np-cog-mf-sp
 	oci	Beloki	np-cog-mf-sp	fra	Beloki	np$np-cog-mf-sp
 	oci	Belony	np-cog-mf-sp	fra	Belony	np-cog-mf-sp
@@ -19275,7 +19288,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Berdún	np-cog-mf-sp	fra	Berdún	np-cog-mf-sp
 	oci	Berendes	np-cog-mf-sp	fra	Berendes	np-cog-mf-sp
 	oci	Berenguel	np-cog-mf-sp	fra	Berenguel	np-cog-mf-sp
-	oci	Berenguer	np$np-cog-mf-sp	fra	Berenguer	np-cog$np-cog-mf-sp
+	oci	Berenguer	np-cog-mf-sp	fra	Berenguer	np-cog$np-cog-mf-sp
 	oci	Berengueras	np-cog-mf-sp	fra	Berengueras	np-cog-mf-sp
 	oci	Berengué	np-cog-mf-sp	fra	Berengué	np-cog-mf-sp
 	oci	Berga	np$np-cog-mf-sp	fra	Berga	np-cog-mf-sp
@@ -19613,7 +19626,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Bonnette	np-cog-mf-sp	fra	Bonnette	np-cog-mf-sp
 	oci	Bonneville	np-cog-mf-sp	fra	Bonneville	np-cog-mf-sp
 	oci	Bonnier	np-cog-mf-sp	fra	Bonnier	np-cog-mf-sp
-	oci	Bono	np$np-cog-mf-sp	fra	Bono	np$np-cog-mf-sp
+	oci	Bono	np-cog-mf-sp	fra	Bono	np-cog-mf-sp
 	oci	Bono Martinez	np-cog-mf-sp	fra	Bono Martinez	np-cog-mf-sp
 	oci	Bonora	np-cog-mf-sp	fra	Bonora	np-cog-mf-sp
 	oci	Bonsaint	np-cog-mf-sp	fra	Bonsaint	np-cog-mf-sp
@@ -20807,7 +20820,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Chicaiza	np-cog-mf-sp	fra	Chicaiza	np-cog-mf-sp
 	oci	Chicano	np-cog-mf-sp	fra	Chicano	np-cog-mf-sp
 	oci	Chicharro	np-cog-mf-sp	fra	Chicharro	np-cog-mf-sp
-	oci	Chico	np-cog-mf-sp	fra	Chico	np-cog-mf-sp$np
+	oci	Chico	np-cog-mf-sp	fra	Chico	np-cog-mf-sp
 	oci	Chicoine	np-cog-mf-sp	fra	Chicoine	np-cog$np-cog-mf-sp
 	oci	Chicote	np-cog-mf-sp	fra	Chicote	np-cog-mf-sp
 	oci	Chidiac	np-cog-mf-sp	fra	Chidiac	np-cog-mf-sp
@@ -20949,7 +20962,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Clermont	np-cog-mf-sp	fra	Clermont	np-cog$np-cog-mf-sp
 	oci	Cliche	np-cog-mf-sp	fra	Cliche	np-cog$np-cog-mf-sp
 	oci	Clifford	np-cog-mf-sp	fra	Clifford	np-cog-mf-sp
-	oci	Climent	np$np-cog-mf-sp	fra	Climent	np$np-cog-mf-sp
+	oci	Climent	np-cog-mf-sp	fra	Climent	np-cog-mf-sp
 	oci	Clinton	np$np-cog-mf-sp	fra	Clinton	np$np-cog-mf-sp$np-cog
 	oci	Clivillé	np-cog-mf-sp	fra	Clivillé	np-cog-mf-sp
 	oci	Clooney	np-cog-mf-sp	fra	Clooney	np-cog-mf-sp$np
@@ -21186,7 +21199,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Corpas	np-cog-mf-sp	fra	Corpas	np-cog-mf-sp
 	oci	Corral	np-cog-mf-sp	fra	Corral	np-cog-mf-sp
 	oci	Corrales	np-cog-mf-sp	fra	Corrales	np$np-cog-mf-sp
-	oci	Correa	np-cog-mf-sp	fra	Correa	np$np-cog-mf-sp
+	oci	Correa	np-cog-mf-sp	fra	Correa	np-cog-mf-sp
 	oci	Correal	np-cog-mf-sp	fra	Correal	np-cog-mf-sp
 	oci	Correas	np-cog-mf-sp	fra	Correas	np-cog-mf-sp
 	oci	Correcher	np-cog-mf-sp	fra	Correcher	np-cog-mf-sp
@@ -21312,7 +21325,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Cristaldi	np-cog-mf-sp	fra	Cristaldi	np-cog-mf-sp
 	oci	Cristia	np-cog-mf-sp	fra	Cristia	np-cog-mf-sp
 	oci	Cristiano	np-cog-mf-sp	fra	Cristiano	np-cog-mf-sp
-	oci	Cristóbal	np$np-cog-mf-sp	fra	Cristóbal	np$np-cog$np-cog-mf-sp
+	oci	Cristóbal	np$np-cog-mf-sp	fra	Cristóbal	np-cog$np-cog-mf-sp
 	oci	Cristófol	np-cog-mf-sp	fra	Cristófol	np-cog-mf-sp
 	oci	Crites	np-cog-mf-sp	fra	Crites	np-cog-mf-sp
 	oci	Crochetière	np-cog-mf-sp	fra	Crochetière	np-cog-mf-sp
@@ -21685,7 +21698,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Denisdamee	np-cog-mf-sp	fra	Denisdamee	np-cog-mf-sp
 	oci	Dennett	np-cog-mf-sp	fra	Dennett	np-cog-mf-sp
 	oci	Denning	np-cog-mf-sp	fra	Denning	np-cog-mf-sp
-	oci	Dennis	np$np-cog-mf-sp	fra	Dennis	np-cog-mf-sp
+	oci	Dennis	np-cog-mf-sp	fra	Dennis	np-cog-mf-sp
 	oci	Denommée	np-cog-mf-sp	fra	Denommée	np-cog-mf-sp
 	oci	Denoncourt	np-cog-mf-sp	fra	Denoncourt	np-cog-mf-sp
 	oci	Denton	np-cog-mf-sp	fra	Denton	np-cog-mf-sp
@@ -21986,7 +21999,7 @@ RL	oci	Agripa	np-ant-m-sg	fra	Agripa	np-ant-m-sg
 	oci	Dossantos	np-cog-mf-sp	fra	Dossantos	np-cog-mf-sp
 	oci	Dostaler	np-cog-mf-sp	fra	Dostaler	np-cog-mf-sp
 	oci	Dostie	np-cog-mf-sp	fra	Dostie	np-cog$np-cog-mf-sp
-RL	oci	Dostoievski	np-cog-mf-sp	fra	Dostoevskij	np-cog-mf-sp
+RL	oci	Dostoievskii	np-cog-mf-sp	fra	Dostoevskij	np-cog-mf-sp
 RL	oci	Dostoievskii	np-cog-mf-sp	fra	Dostoievski	np-cog-mf-sp
 	oci	Dostoievskii	np-cog-mf-sp	fra	Dostoïevski	np-cog-mf-sp
 LR	oci	Dostoievski	np-cog-mf-sp	fra	Dostoïevski	np-cog-mf-sp
@@ -22274,7 +22287,7 @@ LR	oci	Dzerjinski	np-cog-mf-sp	fra	Dzerjinski	np-cog-mf-sp
 	oci	Elosegi	np-cog-mf-sp	fra	Elosegi	np-cog-mf-sp
 	oci	Ieltzin	np-cog-mf-sp	fra	Eltsine	np$np-cog-mf-sp
 	oci	Elum	np-cog-mf-sp	fra	Elum	np-cog-mf-sp
-	oci	Elvira	np$np-cog-mf-sp	fra	Elvira	np-cog$np-cog-mf-sp
+	oci	Elvira	np-cog-mf-sp	fra	Elvira	np-cog$np-cog-mf-sp
 	oci	Elway	np-cog-mf-sp	fra	Elway	np-cog-mf-sp
 	oci	Elwes	np-cog-mf-sp	fra	Elwes	np-cog-mf-sp
 	oci	Elzein	np-cog-mf-sp	fra	Elzein	np-cog-mf-sp
@@ -22426,7 +22439,7 @@ LR	oci	Dzerjinski	np-cog-mf-sp	fra	Dzerjinski	np-cog-mf-sp
 	oci	Este	np-cog-mf-sp	fra	Este	np-cog-mf-sp
 	oci	Esteba	np-cog-mf-sp	fra	Esteba	np-cog-mf-sp
 	oci	Esteban	np-cog-mf-sp	fra	Esteban	np-cog$np-cog-mf-sp
-	oci	Esteban	np$np-ant-m-sg	fra	Esteban	np-ant-m-sg$np$np-ant
+	oci	Esteban	np-ant-m-sg$np	fra	Esteban	np-ant-m-sg$np$np-ant
 	oci	Estela	np-cog-mf-sp	fra	Estela	np-cog-mf-sp
 	oci	Esteller	np-cog-mf-sp	fra	Esteller	np-cog-mf-sp
 	oci	Estellé	np-cog-mf-sp	fra	Estellé	np-cog-mf-sp
@@ -22441,7 +22454,7 @@ LR	oci	Dzerjinski	np-cog-mf-sp	fra	Dzerjinski	np-cog-mf-sp
 	oci	Estivill	np$np-cog-mf-sp	fra	Estivill	np-cog-mf-sp
 	oci	Estopa	np-cog-mf-sp	fra	Estopa	np-cog-mf-sp
 	oci	Estorach	np-cog-mf-sp	fra	Estorach	np-cog-mf-sp
-	oci	Estrada	np$np-cog-mf-sp	fra	Estrada	np$np-cog-mf-sp
+	oci	Estrada	np$np-cog-mf-sp	fra	Estrada	np-cog-mf-sp
 	oci	Estradé	np-cog-mf-sp	fra	Estradé	np-cog-mf-sp
 	oci	Estragués	np-cog-mf-sp	fra	Estragués	np-cog-mf-sp
 	oci	Estrany	np-cog-mf-sp	fra	Estrany	np-cog-mf-sp
@@ -22860,7 +22873,7 @@ LR	oci	Dzerjinski	np-cog-mf-sp	fra	Dzerjinski	np-cog-mf-sp
 	oci	Fortes	np-cog-mf-sp	fra	Fortes	np-cog-mf-sp
 	oci	Fortier	np-cog-mf-sp	fra	Fortier	np-cog$np-cog-mf-sp
 	oci	Fortin	np-cog-mf-sp	fra	Fortin	np-cog$np-cog-mf-sp
-	oci	Fortis	np-cog-mf-sp	fra	Fortis	np$np-cog-mf-sp
+	oci	Fortis	np-cog-mf-sp	fra	Fortis	np-cog-mf-sp
 	oci	Fortugno	np-cog-mf-sp	fra	Fortugno	np-cog-mf-sp
 	oci	Fortune	np-cog-mf-sp	fra	Fortune	np-cog-mf-sp
 	oci	Fortuny	np-cog-mf-sp	fra	Fortuny	np-cog-mf-sp
@@ -23142,7 +23155,7 @@ LR	oci	Dzerjinski	np-cog-mf-sp	fra	Dzerjinski	np-cog-mf-sp
 	oci	Garceau	np-cog-mf-sp	fra	Garceau	np-cog$np-cog-mf-sp
 	oci	Garces	np-cog-mf-sp	fra	Garces	np-cog-mf-sp
 	oci	Garci	np$np-cog-mf-sp	fra	Garci	np$np-cog$np-cog-mf-sp
-	oci	Garcia	np$np-cog-mf-sp	fra	Garcia	np-cog-mf-sp$np
+	oci	Garcia	np-cog-mf-sp	fra	Garcia	np-cog-mf-sp$np
 	oci	Garcés	np$np-cog-mf-sp	fra	Garcés	np$np-cog$np-cog-mf-sp
 	oci	García	np$np-cog-mf-sp	fra	García	np$np-cog-mf-sp$np-cog
 	oci	Garcías	np-cog-mf-sp	fra	Garcías	np-cog-mf-sp
@@ -23339,7 +23352,7 @@ LR	oci	Dzerjinski	np-cog-mf-sp	fra	Dzerjinski	np-cog-mf-sp
 	oci	Gignac	np-cog-mf-sp	fra	Gignac	np-cog$np-cog-mf-sp
 	oci	Giguère	np-cog-mf-sp	fra	Giguère	np-cog$np-cog-mf-sp
 	oci	Gijón	np$np-cog-mf-sp	fra	Gijón	np$np-cog-mf-sp
-	oci	Gil	np$np-cog-mf-sp	fra	Gil	np-cog$np-cog-mf-sp
+	oci	Gil	np-cog-mf-sp	fra	Gil	np-cog$np-cog-mf-sp
 	oci	Gilabert	np-cog-mf-sp	fra	Gilabert	np-cog-mf-sp
 	oci	Gilart	np-cog-mf-sp	fra	Gilart	np-cog-mf-sp
 	oci	Gilbert	np-cog-mf-sp	fra	Gilbert	np-cog-mf-sp
@@ -23465,7 +23478,7 @@ LR	oci	Dzerjinski	np-cog-mf-sp	fra	Dzerjinski	np-cog-mf-sp
 	oci	Gonzaga	np-cog-mf-sp	fra	Gonzaga	np-cog-mf-sp
 	oci	Gonzales	np-cog-mf-sp	fra	Gonzales	np-cog-mf-sp
 	oci	Gonzalez	np-cog-mf-sp	fra	Gonzalez	np$np-cog-mf-sp$np-cog
-	oci	Gonzalo	np$np-cog-mf-sp	fra	Gonzalo	np-cog$np-cog-mf-sp
+	oci	Gonzalo	np-cog-mf-sp	fra	Gonzalo	np-cog$np-cog-mf-sp
 	oci	Gonzalvo	np-cog-mf-sp	fra	Gonzalvo	np-cog-mf-sp
 	oci	Gonzàlez	np-cog-mf-sp	fra	Gonzàlez	np-cog-mf-sp
 	oci	González	np$np-cog-mf-sp	fra	González	np$np-cog-mf-sp$np-cog
@@ -23558,7 +23571,7 @@ RL	oci	Gorbachov	np-cog-mf-sp	fra	Gorbachov	np-cog-mf-sp
 	oci	Grasso	np-cog-mf-sp	fra	Grasso	np-cog-mf-sp
 	oci	Gratacós	np$np-cog-mf-sp	fra	Gratacós	np-cog-mf-sp
 	oci	Gratton	np-cog-mf-sp	fra	Gratton	np-cog$np-cog-mf-sp
-	oci	Grau	np$np-cog-mf-sp	fra	Grau	np$np-cog-mf-sp
+	oci	Grau	np$np-cog-mf-sp	fra	Grau	np-cog-mf-sp
 	oci	Grau Juan	np-cog-mf-sp	fra	Grau Juan	np-cog-mf-sp
 	oci	Grau Seminario	np-cog-mf-sp	fra	Grau Seminario	np-cog-mf-sp
 	oci	Graupera	np-cog-mf-sp	fra	Graupera	np-cog-mf-sp
@@ -23580,7 +23593,7 @@ RL	oci	Gorbachov	np-cog-mf-sp	fra	Gorbachov	np-cog-mf-sp
 	oci	Greenwood	np-cog-mf-sp	fra	Greenwood	np-cog-mf-sp
 	oci	Greer	np-cog-mf-sp	fra	Greer	np-cog-mf-sp
 	oci	Greffard	np-cog-mf-sp	fra	Greffard	np-cog-mf-sp
-	oci	Gregorio	np$np-cog-mf-sp	fra	Gregorio	np-cog$np-cog-mf-sp
+	oci	Gregorio	np-cog-mf-sp	fra	Gregorio	np-cog$np-cog-mf-sp
 	oci	Gregory	np-cog-mf-sp	fra	Gregory	np$np-cog-mf-sp
 	oci	Grelier	np-cog-mf-sp	fra	Grelier	np-cog-mf-sp
 	oci	Grenier	np-cog-mf-sp	fra	Grenier	np-cog$np-cog-mf-sp
@@ -23686,13 +23699,13 @@ RL	oci	Gorbachov	np-cog-mf-sp	fra	Gorbachov	np-cog-mf-sp
 	oci	Guillard	np-cog-mf-sp	fra	Guillard	np-cog-mf-sp
 	oci	Guillaume	np$np-cog-mf-sp	fra	Guillaume	np-cog$np-cog-mf-sp
 	oci	Guillaumes	np-cog-mf-sp	fra	Guillaumes	np-cog-mf-sp
-	oci	Guillem	np$np-cog-mf-sp	fra	Guillem	np-cog$np-cog-mf-sp
+	oci	Guillem	np-cog-mf-sp	fra	Guillem	np-cog$np-cog-mf-sp
 	oci	Guillemette	np-cog-mf-sp	fra	Guillemette	np-cog$np-cog-mf-sp
 	oci	Guillen	np-cog-mf-sp	fra	Guillen	np-cog-mf-sp
 	oci	Guillermo	np$np-cog-mf-sp	fra	Guillermo	np-cog$np-cog-mf-sp
 	oci	Guillette	np-cog-mf-sp	fra	Guillette	np-cog-mf-sp
 	oci	Guillot	np-cog-mf-sp	fra	Guillot	np-cog-mf-sp
-	oci	Guillén	np$np-cog-mf-sp	fra	Guillén	np$np-cog$np-cog-mf-sp
+	oci	Guillén	np-cog-mf-sp	fra	Guillén	np$np-cog$np-cog-mf-sp
 	oci	Guilló	np-cog-mf-sp	fra	Guilló	np-cog-mf-sp
 	oci	Guilmain	np-cog-mf-sp	fra	Guilmain	np-cog-mf-sp
 	oci	Guimerá	np-cog-mf-sp	fra	Guimerá	np-cog-mf-sp
@@ -23750,7 +23763,7 @@ RL	oci	Gorbachov	np-cog-mf-sp	fra	Gorbachov	np-cog-mf-sp
 	oci	Guy	np$np-cog-mf-sp	fra	Guy	np-cog$np-cog-mf-sp
 	oci	Guyon	np-cog-mf-sp	fra	Guyon	np-cog-mf-sp
 	oci	Guzman	np-cog-mf-sp	fra	Guzman	np$np-cog-mf-sp
-	oci	Guzmán	np$np-cog-mf-sp	fra	Guzmán	np-cog$np-cog-mf-sp
+	oci	Guzmán	np-cog-mf-sp	fra	Guzmán	np-cog$np-cog-mf-sp
 	oci	Guàrdia	np-cog-mf-sp	fra	Guàrdia	np-cog-mf-sp
 	oci	Guèvremont	np-cog-mf-sp	fra	Guèvremont	np-cog-mf-sp
 	oci	Guénard	np-cog-mf-sp	fra	Guénard	np-cog-mf-sp
@@ -23867,7 +23880,7 @@ LR	oci	Habsbourg	np-cog-mf-sp	fra	Habsbourg	np-cog-mf-sp$np
 	oci	Harrak	np-cog-mf-sp	fra	Harrak	np-cog-mf-sp
 	oci	Harrington	np-cog-mf-sp	fra	Harrington	np-cog-mf-sp
 	oci	Harris	np-cog-mf-sp	fra	Harris	np-cog-mf-sp
-	oci	Harrison	np$np-cog-mf-sp	fra	Harrison	np-cog-mf-sp$np
+	oci	Harrison	np-cog-mf-sp	fra	Harrison	np-cog-mf-sp
 	oci	Harrisson	np-cog-mf-sp	fra	Harrisson	np-cog$np-cog-mf-sp
 	oci	Hart	np-cog-mf-sp	fra	Hart	np-cog-mf-sp
 	oci	Hartley	np-cog-mf-sp	fra	Hartley	np-cog-mf-sp
@@ -23892,7 +23905,7 @@ LR	oci	Habsbourg	np-cog-mf-sp	fra	Habsbourg	np-cog-mf-sp$np
 	oci	Hawkins	np-cog-mf-sp	fra	Hawkins	np-cog-mf-sp$np-cog
 	oci	Hawthorne	np-cog-mf-sp	fra	Hawthorne	np-cog-mf-sp
 	oci	Hay	np-cog-mf-sp	fra	Hay	np-cog-mf-sp
-	oci	Hayden	np$np-cog-mf-sp	fra	Hayden	np-cog-mf-sp
+	oci	Hayden	np-cog-mf-sp	fra	Hayden	np-cog-mf-sp
 	oci	Haydn	np-cog-mf-sp	fra	Haydn	np-cog-mf-sp
 	oci	Hayek	np-cog-mf-sp	fra	Hayek	np-cog-mf-sp
 	oci	Hayes	np-cog-mf-sp	fra	Hayes	np-cog-mf-sp
@@ -24096,7 +24109,7 @@ LR	oci	Habsbourg	np-cog-mf-sp	fra	Habsbourg	np-cog-mf-sp$np
 	oci	Houle	np-cog-mf-sp	fra	Houle	np-cog$np-cog-mf-sp
 	oci	Hounsell	np-cog-mf-sp	fra	Hounsell	np-cog-mf-sp
 	oci	House	np-cog-mf-sp	fra	House	np$np-cog-mf-sp
-	oci	Houston	np$np-cog-mf-sp	fra	Houston	np$np-cog-mf-sp
+	oci	Houston	np-cog-mf-sp	fra	Houston	np-cog-mf-sp
 	oci	Hovington	np-cog-mf-sp	fra	Hovington	np-cog-mf-sp
 	oci	Howard	np$np-cog-mf-sp	fra	Howard	np$np-cog-mf-sp
 	oci	Howarth	np-cog-mf-sp	fra	Howarth	np-cog-mf-sp
@@ -24388,7 +24401,7 @@ LR	oci	Habsbourg	np-cog-mf-sp	fra	Habsbourg	np-cog-mf-sp$np
 	oci	Joanchiquet	np$np-cog-mf-sp	fra	Joanchiquet	np-cog-mf-sp
 	oci	Joanisse	np-cog-mf-sp	fra	Joanisse	np-cog-mf-sp
 	oci	Joannette	np-cog-mf-sp	fra	Joannette	np-cog-mf-sp
-	oci	Joaquin	np-cog-mf-sp	fra	Joaquin	np$np-cog-mf-sp
+	oci	Joaquin	np-cog-mf-sp	fra	Joaquin	np-cog-mf-sp
 	oci	Jobidon	np-cog-mf-sp	fra	Jobidon	np-cog-mf-sp
 	oci	Jobin	np-cog-mf-sp	fra	Jobin	np-cog$np-cog-mf-sp
 	oci	Jobs	np-cog-mf-sp	fra	Jobs	np-cog-mf-sp$np
@@ -25037,6 +25050,7 @@ LR	oci	Kerenski	np-cog-mf-sp	fra	Kerenski	np-cog-mf-sp
 	oci	Lechuga	np-cog-mf-sp	fra	Lechuga	np-cog-mf-sp
 	oci	Lecina	np-cog-mf-sp	fra	Lecina	np-cog-mf-sp
 	oci	Leclerc	np-cog-mf-sp	fra	Leclerc	np-cog$np-cog-mf-sp
+	oci	Leclercq	np-cog-mf-sp	fra	Leclercq	np-cog-mf-sp
 	oci	Lecompte	np-cog-mf-sp	fra	Lecompte	np-cog$np-cog-mf-sp
 	oci	Lecomte	np-cog-mf-sp	fra	Lecomte	np-cog-mf-sp
 	oci	Lecouffe	np-cog-mf-sp	fra	Lecouffe	np-cog-mf-sp
@@ -25192,7 +25206,7 @@ LR	oci	Kerenski	np-cog-mf-sp	fra	Kerenski	np-cog-mf-sp
 	oci	Limones	np-cog-mf-sp	fra	Limones	np-cog-mf-sp
 	oci	Limón	np-cog-mf-sp	fra	Limón	np-cog-mf-sp
 	oci	Lin	np-cog-mf-sp	fra	Lin	np-cog-mf-sp
-	oci	Linares	np$np-cog-mf-sp	fra	Linares	np$np-cog-mf-sp
+	oci	Linares	np$np-cog-mf-sp	fra	Linares	np-cog-mf-sp
 	oci	Lincoln	np-cog-mf-sp	fra	Lincoln	np-cog-mf-sp$np-cog
 	oci	Lincourt	np-cog-mf-sp	fra	Lincourt	np-cog-mf-sp
 	oci	Lindbergh	np-cog-mf-sp	fra	Lindbergh	np-cog-mf-sp
@@ -25408,7 +25422,7 @@ LR	oci	Kerenski	np-cog-mf-sp	fra	Kerenski	np-cog-mf-sp
 	oci	Luceño	np-cog-mf-sp	fra	Luceño	np-cog-mf-sp
 	oci	Lucien	np-cog-mf-sp	fra	Lucien	np$np-cog-mf-sp
 	oci	Lucifero	np-cog-mf-sp	fra	Lucifero	np-cog-mf-sp
-	oci	Lucio	np$np-cog-mf-sp	fra	Lucio	np-cog$np-cog-mf-sp
+	oci	Lucio	np-cog-mf-sp	fra	Lucio	np-cog$np-cog-mf-sp
 	oci	Lucreci	np-cog-mf-sp	fra	Lucreci	np-cog-mf-sp
 	oci	Ludendorff	np-cog-mf-sp	fra	Ludendorff	np-cog-mf-sp
 	oci	Ludovico	np-cog-mf-sp	fra	Ludovico	np-cog-mf-sp
@@ -25506,7 +25520,7 @@ LR	oci	Kerenski	np-cog-mf-sp	fra	Kerenski	np-cog-mf-sp
 	oci	Macián	np-cog-mf-sp	fra	Macián	np-cog-mf-sp
 	oci	Mack	np-cog-mf-sp	fra	Mack	np-cog-mf-sp
 	oci	Mackay	np-cog-mf-sp	fra	Mackay	np-cog-mf-sp
-	oci	Mackenzie	np-cog-mf-sp	fra	Mackenzie	np$np-cog-mf-sp
+	oci	Mackenzie	np-cog-mf-sp	fra	Mackenzie	np-cog-mf-sp
 	oci	Macleod	np-cog-mf-sp	fra	Macleod	np-cog-mf-sp
 	oci	Macri	np-cog-mf-sp	fra	Macri	np-cog-mf-sp
 	oci	Macrini	np-cog-mf-sp	fra	Macrini	np-cog-mf-sp
@@ -27080,7 +27094,7 @@ LR	oci	Mussorgski	np-cog-mf-sp	fra	Moussorgski	np-cog-mf-sp
 	oci	Obrien	np-cog-mf-sp	fra	Obrien	np-cog-mf-sp
 	oci	Obón	np-cog-mf-sp	fra	Obón	np-cog-mf-sp
 	oci	Ocampo	np-cog-mf-sp	fra	Ocampo	np-cog-mf-sp
-	oci	Ocaña	np$np-cog-mf-sp	fra	Ocaña	np$np-cog-mf-sp
+	oci	Ocaña	np$np-cog-mf-sp	fra	Ocaña	np-cog-mf-sp
 	oci	Occhipinti	np-cog-mf-sp	fra	Occhipinti	np-cog-mf-sp
 	oci	Ochando	np-cog-mf-sp	fra	Ochando	np-cog-mf-sp
 	oci	Ochoa	np$np-cog-mf-sp	fra	Ochoa	np$np-cog$np-cog-mf-sp
@@ -27121,7 +27135,7 @@ LR	oci	Mussorgski	np-cog-mf-sp	fra	Moussorgski	np-cog-mf-sp
 	oci	Oliete	np-cog-mf-sp	fra	Oliete	np-cog-mf-sp
 	oci	Oligny	np-cog-mf-sp	fra	Oligny	np-cog-mf-sp
 	oci	Oliu	np-cog-mf-sp	fra	Oliu	np-cog-mf-sp
-	oci	Oliva	np$np-cog-mf-sp	fra	Oliva	np$np-cog-mf-sp
+	oci	Oliva	np$np-cog-mf-sp	fra	Oliva	np-cog-mf-sp
 	oci	Olivares	np$np-cog-mf-sp	fra	Olivares	np$np-cog-mf-sp$np-cog
 	oci	Olivas	np-cog-mf-sp	fra	Olivas	np-cog-mf-sp
 	oci	Oliveira	np$np-cog-mf-sp	fra	Oliveira	np$np-cog$np-cog-mf-sp
@@ -27349,7 +27363,7 @@ LR	oci	Mussorgski	np-cog-mf-sp	fra	Moussorgski	np-cog-mf-sp
 	oci	Palmer	np-cog-mf-sp	fra	Palmer	np-cog-mf-sp
 	oci	Palmero	np-cog-mf-sp	fra	Palmero	np-cog-mf-sp
 	oci	Palmieri	np-cog-mf-sp	fra	Palmieri	np-cog-mf-sp
-	oci	Paloma	np$np-cog-mf-sp	fra	Paloma	np-cog$np-cog-mf-sp
+	oci	Paloma	np-cog-mf-sp	fra	Paloma	np-cog$np-cog-mf-sp
 	oci	Palomar	np-cog-mf-sp	fra	Palomar	np-cog-mf-sp
 	oci	Palomares	np$np-cog-mf-sp	fra	Palomares	np$np-cog-mf-sp
 	oci	Palomas	np-cog-mf-sp	fra	Palomas	np-cog-mf-sp
@@ -27783,12 +27797,12 @@ LR	oci	Mussorgski	np-cog-mf-sp	fra	Moussorgski	np-cog-mf-sp
 	oci	Pincay	np-cog-mf-sp	fra	Pincay	np-cog-mf-sp
 	oci	Pincince	np-cog-mf-sp	fra	Pincince	np-cog-mf-sp
 	oci	Pineault	np-cog-mf-sp	fra	Pineault	np-cog$np-cog-mf-sp
-	oci	Pineda	np$np-cog-mf-sp	fra	Pineda	np$np-cog-mf-sp
+	oci	Pineda	np$np-cog-mf-sp	fra	Pineda	np-cog-mf-sp
 	oci	Pinedo	np-cog-mf-sp	fra	Pinedo	np-cog-mf-sp
 	oci	Pinel	np-cog-mf-sp	fra	Pinel	np-cog-mf-sp
 	oci	Pinette	np-cog-mf-sp	fra	Pinette	np-cog$np-cog-mf-sp
 	oci	Pinheiro	np-cog-mf-sp	fra	Pinheiro	np-cog-mf-sp
-	oci	Pinilla	np$np-cog-mf-sp	fra	Pinilla	np$np-cog-mf-sp
+	oci	Pinilla	np$np-cog-mf-sp	fra	Pinilla	np-cog-mf-sp
 	oci	Pinna	np-cog-mf-sp	fra	Pinna	np-cog-mf-sp
 	oci	Pino	np-cog-mf-sp	fra	Pino	np-cog-mf-sp
 	oci	Pinochet	np$np-cog-mf-sp	fra	Pinochet	np$np-cog$np-cog-mf-sp
@@ -27848,7 +27862,7 @@ LR	oci	Mussorgski	np-cog-mf-sp	fra	Moussorgski	np-cog-mf-sp
 	oci	Plaisance	np-cog-mf-sp	fra	Plaisance	np-cog-mf-sp
 	oci	Plaja	np-cog-mf-sp	fra	Plaja	np-cog-mf-sp
 	oci	Plamondon	np-cog-mf-sp	fra	Plamondon	np-cog$np-cog-mf-sp
-	oci	Plana	np$np-cog-mf-sp	fra	Plana	np$np-cog-mf-sp
+	oci	Plana	np$np-cog-mf-sp	fra	Plana	np-cog-mf-sp
 	oci	Planaguma	np-cog-mf-sp	fra	Planaguma	np-cog-mf-sp
 	oci	Planas	np-cog-mf-sp	fra	Planas	np-cog-mf-sp
 	oci	Planck	np$np-cog-mf-sp	fra	Planck	np-cog-mf-sp
@@ -28027,7 +28041,7 @@ LR	oci	Mussorgski	np-cog-mf-sp	fra	Moussorgski	np-cog-mf-sp
 	oci	Prentice	np-cog-mf-sp	fra	Prentice	np-cog-mf-sp
 	oci	Presas	np-cog-mf-sp	fra	Presas	np-cog-mf-sp
 	oci	Prescott	np-cog-mf-sp	fra	Prescott	np-cog-mf-sp
-	oci	Presley	np$np-cog-mf-sp	fra	Presley	np-cog$np-cog-mf-sp
+	oci	Presley	np-cog-mf-sp	fra	Presley	np-cog$np-cog-mf-sp
 	oci	Presseault	np-cog-mf-sp	fra	Presseault	np-cog-mf-sp
 	oci	Pressé	np-cog-mf-sp	fra	Pressé	np-cog-mf-sp
 	oci	Prestigiacomo	np-cog-mf-sp	fra	Prestigiacomo	np-cog-mf-sp
@@ -28100,7 +28114,7 @@ LR	oci	Mussorgski	np-cog-mf-sp	fra	Moussorgski	np-cog-mf-sp
 	oci	Pugliese	np-cog-mf-sp	fra	Pugliese	np-cog-mf-sp
 	oci	Puglisi	np-cog-mf-sp	fra	Puglisi	np-cog-mf-sp
 	oci	Pugés	np-cog-mf-sp	fra	Pugés	np-cog-mf-sp
-	oci	Puig	np$np-cog-mf-sp	fra	Puig	np$np-cog-mf-sp
+	oci	Puig	np$np-cog-mf-sp	fra	Puig	np-cog-mf-sp
 	oci	Puig i Cadafalch	np-cog-mf-sp	fra	Puig i Cadafalch	np-cog-mf-sp
 	oci	Puig i Godes	np-cog-mf-sp	fra	Puig i Godes	np-cog-mf-sp
 	oci	Puigbó	np-cog-mf-sp	fra	Puigbó	np-cog-mf-sp
@@ -28297,7 +28311,7 @@ LR	oci	Mussorgski	np-cog-mf-sp	fra	Moussorgski	np-cog-mf-sp
 	oci	Rami	np-cog-mf-sp	fra	Rami	np-cog-mf-sp
 	oci	Ramia	np-cog-mf-sp	fra	Ramia	np-cog-mf-sp
 	oci	Ramirez	np-cog-mf-sp	fra	Ramirez	np-cog-mf-sp$np
-	oci	Ramiro	np$np-cog-mf-sp	fra	Ramiro	np$np-cog$np-cog-mf-sp
+	oci	Ramiro	np$np-cog-mf-sp	fra	Ramiro	np-cog$np-cog-mf-sp
 	oci	Ramis	np-cog-mf-sp	fra	Ramis	np-cog-mf-sp
 	oci	Ramiá	np-cog-mf-sp	fra	Ramiá	np-cog-mf-sp
 	oci	Ramnès	np-cog-mf-sp	fra	Ramnès	np-cog$np-cog-mf-sp
@@ -28498,7 +28512,7 @@ RL	oci	Rasputin	np-cog-mf-sp	fra	Rasputin	np-cog-mf-sp
 	oci	Ricart	np-cog-mf-sp	fra	Ricart	np-cog-mf-sp
 	oci	Ricci	np$np-cog-mf-sp	fra	Ricci	np-cog-mf-sp
 	oci	Riccio	np-cog-mf-sp	fra	Riccio	np-cog-mf-sp
-	oci	Rice	np$np-cog-mf-sp	fra	Rice	np$np-cog-mf-sp
+	oci	Rice	np-cog-mf-sp	fra	Rice	np-cog-mf-sp
 	oci	Rich	np-cog-mf-sp	fra	Rich	np-cog-mf-sp
 	oci	Richard	np-cog-mf-sp	fra	Richard	np-cog-mf-sp
 	oci	Richards	np-cog-mf-sp	fra	Richards	np-cog-mf-sp
@@ -28515,7 +28529,7 @@ RL	oci	Rasputin	np-cog-mf-sp	fra	Rasputin	np-cog-mf-sp
 	oci	Rico	np-cog-mf-sp	fra	Rico	np-cog-mf-sp
 	oci	Ridao	np$np-cog-mf-sp	fra	Ridao	np-cog-mf-sp
 	oci	Rider	np-cog-mf-sp	fra	Rider	np-cog-mf-sp
-	oci	Ridley	np$np-cog-mf-sp	fra	Ridley	np-cog-mf-sp
+	oci	Ridley	np-cog-mf-sp	fra	Ridley	np-cog-mf-sp
 	oci	Ridruejo	np-cog-mf-sp	fra	Ridruejo	np-cog-mf-sp
 	oci	Riefenstahl	np-cog-mf-sp	fra	Riefenstahl	np-cog-mf-sp
 	oci	Riel	np-cog-mf-sp	fra	Riel	np-cog-mf-sp
@@ -28637,7 +28651,7 @@ LR	oci	Rimski-Korsakov	np-cog-mf-sp	fra	Rimski-Korsakov	np-cog-mf-sp
 	oci	Roddenberry	np-cog-mf-sp	fra	Roddenberry	np-cog-mf-sp
 	oci	Roddick	np-cog-mf-sp	fra	Roddick	np-cog-mf-sp
 	oci	Rodenas	np-cog-mf-sp	fra	Rodenas	np-cog-mf-sp
-	oci	Roderic	np$np-cog-mf-sp	fra	Roderic	np-cog-mf-sp
+	oci	Roderic	np-cog-mf-sp	fra	Roderic	np-cog-mf-sp
 	oci	Rodero	np-cog-mf-sp	fra	Rodero	np-cog-mf-sp
 	oci	Rodes	np-cog-mf-sp	fra	Rodes	np-cog-mf-sp
 	oci	Rodgers	np-cog-mf-sp	fra	Rodgers	np-cog-mf-sp
@@ -28686,7 +28700,7 @@ LR	oci	Rimski-Korsakov	np-cog-mf-sp	fra	Rimski-Korsakov	np-cog-mf-sp
 	oci	Romans	np-cog-mf-sp	fra	Romans	np-cog-mf-sp
 	oci	Romaní	np-cog-mf-sp	fra	Romaní	np-cog-mf-sp
 	oci	Romay	np-cog-mf-sp	fra	Romay	np-cog-mf-sp
-	oci	Romeo	np$np-cog-mf-sp	fra	Romeo	np-cog$np-cog-mf-sp
+	oci	Romeo	np-cog-mf-sp	fra	Romeo	np-cog$np-cog-mf-sp
 	oci	Romera	np-cog-mf-sp	fra	Romera	np-cog-mf-sp
 	oci	Romero	np$np-cog-mf-sp	fra	Romero	np-cog-mf-sp
 	oci	Romeu	np$np-cog-mf-sp	fra	Romeu	np$np-cog$np-cog-mf-sp
@@ -28708,7 +28722,7 @@ LR	oci	Rimski-Korsakov	np-cog-mf-sp	fra	Rimski-Korsakov	np-cog-mf-sp
 	oci	Rooney	np-cog-mf-sp	fra	Rooney	np-cog-mf-sp
 	oci	Roosevelt	np$np-cog-mf-sp	fra	Roosevelt	np-cog-mf-sp
 	oci	Ropero	np-cog-mf-sp	fra	Ropero	np-cog-mf-sp
-	oci	Roque	np$np-cog-mf-sp	fra	Roque	np-cog$np-cog-mf-sp
+	oci	Roque	np-cog-mf-sp	fra	Roque	np-cog$np-cog-mf-sp
 	oci	Roquet	np-cog-mf-sp	fra	Roquet	np-cog-mf-sp
 RL	oci	Roqueta	np$np-cog$np-cog-mf-sp	fra	Roqueta	np-cog-mf-sp
 	oci	Roqué	np-cog-mf-sp	fra	Roqué	np-cog-mf-sp
@@ -29055,7 +29069,7 @@ RL	oci	Roqueta	np$np-cog$np-cog-mf-sp	fra	Roqueta	np-cog-mf-sp
 	oci	Sanchez	np-cog-mf-sp	fra	Sanchez	np-cog-mf-sp$np
 	oci	Sanchis	np$np-cog-mf-sp	fra	Sanchis	np$np-cog$np-cog-mf-sp
 	oci	Sanchiz	np-cog-mf-sp	fra	Sanchiz	np-cog-mf-sp
-	oci	Sancho	np$np-cog-mf-sp	fra	Sancho	np-cog$np-cog-mf-sp
+	oci	Sancho	np-cog-mf-sp	fra	Sancho	np-cog$np-cog-mf-sp
 	oci	Sanchís	np$np-cog-mf-sp	fra	Sanchís	np$np-cog$np-cog-mf-sp
 	oci	Sanclemente	np-cog-mf-sp	fra	Sanclemente	np-cog-mf-sp
 	oci	Sand	np-cog-mf-sp	fra	Sand	np-cog-mf-sp
@@ -29331,7 +29345,7 @@ RL	oci	Roqueta	np$np-cog$np-cog-mf-sp	fra	Roqueta	np-cog-mf-sp
 	oci	Sellers	np-cog-mf-sp	fra	Sellers	np-cog-mf-sp
 	oci	Sellés	np$np-cog-mf-sp	fra	Sellés	np$np-cog$np-cog-mf-sp
 	oci	Selma	np-cog-mf-sp	fra	Selma	np-cog-mf-sp
-	oci	Selva	np$np-cog-mf-sp	fra	Selva	np-cog-mf-sp
+	oci	Selva	np-cog-mf-sp	fra	Selva	np-cog-mf-sp
 	oci	Selvarajah	np-cog-mf-sp	fra	Selvarajah	np-cog-mf-sp
 	oci	Selznick	np-cog-mf-sp	fra	Selznick	np-cog-mf-sp
 	oci	Semaan	np-cog-mf-sp	fra	Semaan	np-cog-mf-sp
@@ -29470,7 +29484,7 @@ RL	oci	Roqueta	np$np-cog$np-cog-mf-sp	fra	Roqueta	np-cog-mf-sp
 	oci	Silver	np-cog-mf-sp	fra	Silver	np-cog-mf-sp
 	oci	Silvera	np-cog-mf-sp	fra	Silvera	np-cog-mf-sp
 	oci	Silverman	np-cog-mf-sp	fra	Silverman	np-cog-mf-sp
-	oci	Silvestre	np$np-cog-mf-sp	fra	Silvestre	np-cog$np-cog-mf-sp
+	oci	Silvestre	np-cog-mf-sp	fra	Silvestre	np-cog$np-cog-mf-sp
 	oci	Silvestri	np-cog-mf-sp	fra	Silvestri	np-cog-mf-sp
 	oci	Sim	np-cog-mf-sp	fra	Sim	np-cog-mf-sp
 	oci	Simancas	np-cog-mf-sp	fra	Simancas	np-cog-mf-sp
@@ -29491,7 +29505,7 @@ RL	oci	Roqueta	np$np-cog$np-cog-mf-sp	fra	Roqueta	np-cog-mf-sp
 	oci	Sims	np-cog-mf-sp	fra	Sims	np-cog-mf-sp
 	oci	Siméon	np-cog-mf-sp	fra	Siméon	np-cog-mf-sp
 	oci	Simó	np$np-cog-mf-sp	fra	Simó	np$np-cog$np-cog-mf-sp
-	oci	Simón	np$np-cog-mf-sp	fra	Simón	np-cog$np-cog-mf-sp
+	oci	Simón	np-cog-mf-sp	fra	Simón	np-cog$np-cog-mf-sp
 	oci	Sin	np-cog-mf-sp	fra	Sin	np-cog-mf-sp
 	oci	Sinatra	np-cog-mf-sp	fra	Sinatra	np-cog-mf-sp
 	oci	Sincennes	np-cog-mf-sp	fra	Sincennes	np-cog-mf-sp
@@ -29555,7 +29569,7 @@ RL	oci	Roqueta	np$np-cog$np-cog-mf-sp	fra	Roqueta	np-cog-mf-sp
 	oci	Sojo	np-cog-mf-sp	fra	Sojo	np-cog-mf-sp
 	oci	Sok	np-cog-mf-sp	fra	Sok	np-cog-mf-sp
 	oci	Sol	np-cog-mf-sp	fra	Sol	np-cog-mf-sp
-	oci	Solana	np$np-cog-mf-sp	fra	Solana	np-cog$np-cog-mf-sp
+	oci	Solana	np-cog-mf-sp	fra	Solana	np-cog$np-cog-mf-sp
 	oci	Solanas	np-cog-mf-sp	fra	Solanas	np-cog-mf-sp
 	oci	Solanellas	np-cog-mf-sp	fra	Solanellas	np-cog-mf-sp
 	oci	Solanes	np-cog-mf-sp	fra	Solanes	np-cog-mf-sp
@@ -29993,7 +30007,7 @@ LR	oci	Chaïkovskii	np-cog-mf-sp	fra	Tchaïkovski	np-cog-mf-sp
 	oci	Tenniel	np-cog-mf-sp	fra	Tenniel	np-cog-mf-sp
 	oci	Tennyson	np-cog-mf-sp	fra	Tennyson	np-cog-mf-sp
 	oci	Tenorio	np-cog-mf-sp	fra	Tenorio	np$np-cog-mf-sp
-	oci	Teodoro	np$np-cog-mf-sp	fra	Teodoro	np$np-cog$np-cog-mf-sp
+	oci	Teodoro	np$np-cog-mf-sp	fra	Teodoro	np-cog$np-cog-mf-sp
 	oci	Teoli	np-cog-mf-sp	fra	Teoli	np-cog-mf-sp
 	oci	Teolis	np-cog-mf-sp	fra	Teolis	np-cog-mf-sp
 	oci	Tercero	np-cog-mf-sp	fra	Tercero	np-cog-mf-sp
@@ -30412,7 +30426,7 @@ LR	oci	Tsvetaeva	np-cog-mf-sp	fra	Tsvetaeva	np-cog-mf-sp
 	oci	Urbán	np-cog-mf-sp	fra	Urbán	np-cog-mf-sp
 	oci	Urendez	np-cog-mf-sp	fra	Urendez	np$np-cog-mf-sp
 	oci	Ureña	np-cog-mf-sp	fra	Ureña	np-cog-mf-sp
-	oci	Urgell	np$np-cog-mf-sp	fra	Urgell	np-cog-mf-sp
+	oci	Urgell	np-cog-mf-sp	fra	Urgell	np-cog-mf-sp
 	oci	Urgellés	np-cog-mf-sp	fra	Urgellés	np-cog-mf-sp
 	oci	Uria	np-cog-mf-sp	fra	Uria	np$np-cog-mf-sp
 	oci	Uriarte	np-cog-mf-sp	fra	Uriarte	np$np-cog-mf-sp
@@ -31604,7 +31618,7 @@ LR	oci	Boudou	np-cog-mf-sp	fra	Boudou	np-cog$np-cog-mf-sp
 	oci	Guia	np$np-cog-mf-sp	fra	Guia	np-cog-mf-sp
 	oci	Laden	np$np-cog-mf-sp	fra	Laden	np$np-cog-mf-sp
 	oci	Lamuela	np$np-cog-mf-sp	fra	Lamuela	np-cog-mf-sp
-	oci	Loyola	np$np-cog-mf-sp	fra	Loyola	np-cog-mf-sp
+	oci	Loyola	np-cog-mf-sp	fra	Loyola	np-cog-mf-sp
 	oci	Magràs	np$np-cog-mf-sp	fra	Magràs	np-cog-mf-sp
 	oci	Mercè	np$np-cog-mf-sp	fra	Mercè	np-cog-mf-sp
 	oci	Nogareda	np$np-cog-mf-sp	fra	Nogareda	np-cog-mf-sp
@@ -31612,7 +31626,7 @@ LR	oci	Boudou	np-cog-mf-sp	fra	Boudou	np-cog$np-cog-mf-sp
 	oci	Romieu	np$np-cog-mf-sp	fra	Romieu	np-cog-mf-sp
 	oci	Sauzet	np$np-cog-mf-sp	fra	Sauzet	np-cog-mf-sp
 	oci	Sumien	np$np-cog-mf-sp	fra	Sumien	np-cog-mf-sp
-	oci	Susanna	np$np-cog-mf-sp	fra	Susanna	np-cog-mf-sp
+	oci	Susanna	np-cog-mf-sp	fra	Susanna	np-cog-mf-sp
 	oci	davant	pr	fra	devant	pr
 	oci	via	pr	fra	via	pr
 RL	oci	segon	pr	fra	d'après	pr
@@ -31659,7 +31673,7 @@ LR	oci	part	pr	fra	excepté	pr
 	oci	Soïssa	np$np-top-f-sg	fra	Suisse	np-top-f$np-top-f-sg$np-top
 	oci	Russia	np$np-top-f-sg	fra	Russie	np-top-f$np-top-f-sg$np-top
 	oci	Austràlia	np$np-top-f-sg	fra	Australie	np$np-top-f$np-top-f-sg$np-top
-	oci	Reialme Unit	np$np-top-m-sg	fra	Royaume-Uni	np$np-top-m$np-top-m-sg$np-top
+	oci	Reialme Unit	np$np-top-m-sg	fra	Royaume-Uni	np-top-m-sg$np$np-top-m$np-top
 	oci	Berlin	np$np-top-m-sg	fra	Berlin	np$np-top-m-sg$np-top$np-top-m
 	oci	Califòrnia	np$np-top-f-sg	fra	Californie	np$np-top-f-sg$np-top-f
 	oci	Brussèlas	np$np-top-m-sg	fra	Bruxelles	np-top-m-sg$np-top
@@ -31676,7 +31690,7 @@ LR	oci	part	pr	fra	excepté	pr
 	oci	Marròc	np$np-top-m-sg	fra	Maroc	np$np-top-m$np-top-m-sg$np-top
 	oci	Ongria	np$np-top-f-sg	fra	Hongrie	np$np-top-f$np-top-f-sg$np-top
 	oci	Serbia	np$np-top-f-sg	fra	Serbie	np$np-top-f$np-top-f-sg$np-top
-	oci	Asia	np$np-top-f-sg	fra	Asie	np$np-top-f-sg$np-top$np-top-f
+	oci	Asia	np-top-f-sg	fra	Asie	np$np-top-f-sg$np-top$np-top-f
 	oci	Grècia	np$np-top-f-sg	fra	Grèce	np$np-top$np-top-f$np-top-f-sg
 	oci	Suècia	np$np-top-f-sg	fra	Suède	np$np-top-f$np-top-f-sg$np-top
 	oci	Niça	np$np-top-f-sg	fra	Nice	np$np-top-f-sg$np-top$np-top-f
@@ -31759,7 +31773,7 @@ LR	oci	Maurici	np$np-top-m-sg	fra	Maurice	np-top$np$np-top-m-sg$np-top-m
 	oci	Bòsnia e Ercegovina	np$np-top-f-sg	fra	Bosnie-Herzégovine	np-top-f$np-top-f-sg
 	oci	Tibet	np$np-top-m-sg	fra	Tibet	np$np-top-m-sg$np-top
 	oci	Bulgaria	np$np-top-f-sg	fra	Bulgarie	np$np-top-f$np-top-f-sg$np-top
-	oci	Palestine	np-top-f-sg	fra	Palestine	np$np-top$np-top-f-sg
+	oci	Palestina	np$np-top-f-sg	fra	Palestine	np$np-top$np-top-f-sg
 	oci	Vietnam	np$np-top-m-sg	fra	Viêtnam	np$np-top-m-sg$np-top-m
 	oci	Aragon	np$np-top-m-sg	fra	Aragon	np$np-top-m-sg$np-top$np-top-m
 	oci	Budapèst	np$np-top-m-sg	fra	Budapest	np-top-m-sg
@@ -31781,6 +31795,7 @@ LR	oci	Maurici	np$np-top-m-sg	fra	Maurice	np-top$np$np-top-m-sg$np-top-m
 	oci	Filipinas	np$np-top-f-pl	fra	Philippines	np$np-top-f-pl$np-top$np-top-f
 	oci	Limòtges	np$np-top-m-sg	fra	Limoges	np$np-top-f-sg
 	oci	Iraq	np$np-top-m-sg	fra	Irak	np$np-top-m$np-top-m-sg$np-top
+RL	oci	Iraq	np$np-top-m-sg	fra	Iraq	np-top-m$np-top-m-sg
 	oci	Bòsnia	np$np-top-f-sg	fra	Bosnie	np$np-top-f$np-top-f-sg
 	oci	Fort	np-top-m-sg	fra	Fort	np$np-top-m-sg
 	oci	Etiopia	np$np-top-f-sg	fra	Éthiopie	np$np-top-f$np-top-f-sg$np-top
@@ -31920,7 +31935,7 @@ LR	oci	Ais d'Alemanha	np$np-top-m-sg	fra	Aix-la-Chapelle	np-top-f-sg$np
 	oci	Bahamas	np$np-top-f-pl	fra	Bahamas	np$np-top-f-pl
 	oci	Stalingrad	np$np-top-m-sg	fra	Stalingrad	np$np-top-m-sg
 	oci	Saragossa	np$np-top-f-sg	fra	Saragosse	np-top-f-sg
-	oci	Montana	np$np-top-f-sg	fra	Montana	np-top-m-sg
+	oci	Montana	np-top-f-sg	fra	Montana	np-top-m-sg
 	oci	Liechtenstein	np$np-top-m-sg	fra	Liechtenstein	np$np-top-m$np-top-m-sg$np-top
 	oci	Leningrad	np-top-m-sg$np	fra	Leningrad	np$np-top-m-sg
 	oci	Gabon	np$np-top-m-sg	fra	Gabon	np$np-top-m$np-top-m-sg$np-top
@@ -32051,7 +32066,7 @@ LR	oci	Clarmont	np$np-top-m-sg	fra	Clermont	np$np-top-m-sg$np-top
 	oci	Escandinàvia	np$np-top-f-sg	fra	Scandinavie	np-top-f-sg
 	oci	Pisa	np-top-f-sg	fra	Pise	np$np-top-f-sg
 	oci	Moràvia	np$np-top-f-sg	fra	Moravie	np-top-f-sg
-	oci	Jersey	np$np-top-m-sg	fra	Jersey	np$np-top$np-top-m$np-top-m-sg
+	oci	Jersey	np$np-top-m-sg	fra	Jersey	np$np-top-m-sg$np-top$np-top-m
 	oci	Delhi	np$np-top-m-sg	fra	Delhi	np$np-top-m-sg
 	oci	Arabia	np-top-f-sg	fra	Arabie	np-top-f$np-top-f-sg
 	oci	Creta	np$np-top-f-sg	fra	Crète	np-top-f-sg
@@ -32172,7 +32187,7 @@ LR	oci	Kyiiv	np$np-top-m-sg	fra	Kiev	np$np-top-m-sg$np-top
 	oci	Harvard	np-top-m-sg	fra	Harvard	np$np-top-m-sg
 	oci	Clarmont-Ferrand	np-top-m-sg	fra	Clermont-Ferrand	np$np-top-m-sg$np-top
 	oci	Var	np-top-m-sg	fra	Var	np-top-m-sg
-	oci	Eqüator	np$np-top-m-sg	fra	Équateur	np$np-top-m$np-top-m-sg$np-top
+	oci	Equator	np$np-top-m-sg	fra	Équateur	np$np-top-m$np-top-m-sg$np-top
 	oci	Dobs	np-top-m-sg	fra	Doubs	np-top-m-sg
 	oci	Clermont	np-top-m-sg	fra	Clermont	np$np-top-m-sg$np-top
 	oci	Alexandria	np-top-f-sg	fra	Alexandrie	np$np-top-f-sg
@@ -32191,7 +32206,7 @@ LR	oci	Kyiiv	np$np-top-m-sg	fra	Kiev	np$np-top-m-sg$np-top
 	oci	Ais de Provença	np-top-m-sg	fra	Aix-en-Provence	np$np-top-m-sg
 	oci	Cherborg	np-top-m-sg	fra	Cherbourg	np$np-top-m-sg
 	oci	Charanta Maritima	np-top-f-sg	fra	Charente-Maritime	np-top-f-sg
-	oci	Bolivia	np-top-f-sg	fra	Bolivie	np$np-top-f$np-top-f-sg$np-top
+	oci	Bolivia	np-top-f-sg	fra	Bolivie	np$np-top-f-sg$np-top-f$np-top
 	oci	Orne	np-top-f-sg	fra	Orne	np-top-f-sg
 	oci	Bristol	np-top-m-sg	fra	Bristol	np$np-top-m-sg
 	oci	Baker	np-top-m-sg	fra	Baker	np-top-m-sg
@@ -32202,7 +32217,7 @@ LR	oci	Kyiiv	np$np-top-m-sg	fra	Kiev	np$np-top-m-sg$np-top
 	oci	Hudson	np-top-m-sg	fra	Hudson	np-top-m-sg
 	oci	Nauta Sòna	np-top-f-sg	fra	Haute-Saône	np$np-top-f-sg
 	oci	Calvadòs	np-top-m-sg	fra	Calvados	np-top-m-sg
-	oci	Aràbia Saudita	np-top-f-sg	fra	Arabie saoudite	np$np-top$np-top-f$np-top-f-sg
+	oci	Aràbia Saudita	np-top-f-sg	fra	Arabie saoudite	np-top-f-sg$np$np-top$np-top-f
 	oci	Winson	np-top-m-sg	fra	Windsor	np-top-m-sg
 	oci	Birmingham	np-top-m-sg	fra	Birmingham	np$np-top-m-sg
 	oci	Laon	np-top-m-sg	fra	Laon	np-top-m-sg
@@ -33048,6 +33063,7 @@ LR	oci	enclure	vblex	fra	inclure	vblex
 	oci	Mathieu	np-ant-m-sg	fra	Mathieu	np-ant-m-sg$np$np-ant
 	oci	Matieu	np-ant-m-sg	fra	Mathieu	np-ant-m-sg$np$np-ant
 	oci	Matieu	np-ant-m-sg	fra	Matieu	np-ant-m-sg
+	oci	Matiu	np-ant-m-sg	fra	Matiu	np-ant-m-sg
 	oci	Luis	np$np-ant-m-sg	fra	Luis	np$np-ant$np-ant-m-sg
 	oci	Jones	np-ant-m-sg	fra	Jones	np-ant-m-sg
 	oci	Douglas	np-ant-m-sg	fra	Douglas	np-ant-m-sg$np-ant
@@ -33717,7 +33733,7 @@ RL	oci	austra		fra	austral	adj$
 	oci	acadian	n	fra	Acadien	n$n-m
 	oci	vascular	adj	fra	vasculaire	adj
 	oci	utilitari	adj	fra	utilitaire	adj
-	oci	tailandés	adj	fra	thaïlandais	adj-m-sp$adj
+	oci	tailandés	adj	fra	thaïlandais	adj$adj-m-sp
 	oci	tactil	adj	fra	tactile	adj
 	oci	estilistic	adj	fra	stylistique	adj
 	oci	sablós	adj	fra	sableux	adj
@@ -33727,8 +33743,8 @@ RL	oci	austra		fra	austral	adj$
 	oci	fenician	n	fra	Phénicien	n
 	oci	parlant	adj	fra	parlant	adj$adj-f
 	oci	palatin	adj	fra	palatin	adj
-RL	oci	nigerian	adj	fra	nigérian	adj$adj-GD-ND
-RL	oci	nigerian	n	fra	Nigérian	n-m-sp$n
+	oci	nigerian	adj	fra	nigérian	adj$adj-GD-ND
+	oci	nigerian	n	fra	Nigérian	n-m-sp$n
 	oci	mobiliari	adj	fra	mobilier	adj
 	oci	maltés	adj	fra	maltais	adj$adj-GD-ND
 	oci	maltés	n	fra	maltais	n
@@ -34364,6 +34380,7 @@ LR	oci	formator	n	fra	formateur	n$n-m
 	oci	emetedor	n-m	fra	émetteur	n-m$n$n-m-ND
 	oci	decalatge	n-m	fra	décalage	n-m
 	oci	conductor	n	fra	conducteur	n$n-m$n-m-ND
+LR	oci	menaire	n	fra	conducteur	n$n-m$n-m-ND
 	oci	calci	n-m	fra	calcium	n-m$n
 	oci	vinil	n-m	fra	vinyle	n-m$n
 	oci	tutor	n	fra	tuteur	n$n-m
@@ -34465,6 +34482,7 @@ LR	oci	bescuèit	n-m	fra	biscuit	n-m
 	oci	supremacia	n-f	fra	suprématie	n-f
 	oci	espirala	n$n-f	fra	spirale	n-f
 	oci	sonata	n-f	fra	sonate	n-f
+	oci	sonatina	n-f	fra	sonatine	n-f
 	oci	quocient	n-m	fra	quotient	n-m
 	oci	protestant	n	fra	protestant	n$n-f
 	oci	polarizacion	n-f	fra	polarisation	n$n-f
@@ -34765,7 +34783,8 @@ LR	oci	sacrament	n-m	fra	sacrement	n-m$n$n-m-ND
 	oci	mucosa	n-f	fra	muqueuse	n-f
 	oci	moral	n-m	fra	moral	n-m
 	oci	monoplan	n-m	fra	monoplan	n-m
-	oci	mongò		fra	mongol	adj$adj-GD-ND$
+	oci	mongò		fra	mongol	$adj$adj-GD-ND
+	oci	mongò		fra	mongol	$adj$adj-GD-ND
 	oci	megalit	n-m	fra	mégalithe	n-m
 	oci	medalhon	n-m	fra	médaillon	n-m
 	oci	mecenat	n-m	fra	mécénat	n-m$n
@@ -34854,9 +34873,8 @@ LR	oci	limfocit	n-m	fra	lymphocyte	n-m$n
 	oci	escalon	n-m	fra	gradin	n-m
 	oci	foet	n-m	fra	fouet	n-m$n
 	oci	flascon	n-m	fra	flacon	n-m$n$n-m-ND
-	oci	eqüador	n-m	fra	équateur	n-m$n
-LR	oci	equator	n-m	fra	équateur	n-m$n
-LR	oci	eqüator	n-m	fra	équateur	n-m$n
+LR	oci	equador	n-m	fra	équateur	n-m$n
+	oci	equator	n-m	fra	équateur	n-m$n
 	oci	escasença	n-f$n	fra	échéance	n-f
 	oci	CSA	n-acr-m	fra	CSA	n-acr$n-acr-m
 	oci	cabucèla	n-f	fra	couvercle	n-m
@@ -35011,7 +35029,7 @@ RL	oci	alongament	n$n-m	fra	allongement	n-m
 	oci	sosòrdre	n$n-m	fra	sous-ordre	n-m
 	oci	purga	n$n-f	fra	purge	n-f
 	oci	indulgéncia	n$n-f	fra	indulgence	n-f$n
-	oci	omosexua		fra	homosexuel	adj$
+	oci	omosexua		fra	homosexuel	$adj
 	oci	epatiti	n$n-f	fra	hépatite	n-f-ND$n-f$n
 	oci	disparitat	n$n-f	fra	disparité	n$n-f
 	oci	aglan	n$n-m	fra	gland	n-m
@@ -35123,14 +35141,14 @@ LR	oci	reïmprimir	vblex	fra	réimprimer	vblex
 	oci	culturalament	adv	fra	culturellement	adv
 	oci	involontàriament	adv	fra	involontairement	adv
 	oci	insufisentament	adv	fra	insuffisamment	adv
-	oci	incontestable	adv	fra	incontestablement	adv
+	oci	incontestablement	adv	fra	incontestablement	adv
 	oci	brilhantament	adv	fra	brillamment	adv
 RL	oci	absoludament	adv	fra	absolument pas	adv
 	oci	lateralament	adv	fra	latéralement	adv
 	oci	abilament	adv	fra	habilement	adv
 	oci	preferencialament	adv	fra	préférentiellement	adv
 	oci	estatisticament	adv	fra	statistiquement	adv
-	oci	inevitable	adv	fra	inévitablement	adv
+	oci	inevitablement	adv	fra	inévitablement	adv
 LR	oci	indefugible	adv	fra	inévitablement	adv
 	oci	tranquillament	adv	fra	tranquillement	adv
 	oci	ironicament	adv	fra	ironiquement	adv
@@ -35230,6 +35248,7 @@ LR	oci	fredament	adv	fra	froidement	adv
 	oci	ONG	np-al$np-al-f-sg	fra	ONG	np-al$np-al-f-sg$np
 	oci	Rolling	np$np-al	fra	Rolling	np$np-al
 	oci	Mercedes	np$np-al	fra	Mercedes	np-al
+	oci	Generalitat	np-al$np-al-f-sg	fra	Generalitat	np-al$np-al-f-sg$np
 	oci	Juventus	np$np-al-f-sg	fra	Juventus	np-al-f-sg
 	oci	Intel	np$np-al-m-sg	fra	Intel	np-al-m-sg
 	oci	Athletic	np$np-al-m-sg	fra	Athletic	np$np-al-m-sg
@@ -35677,178 +35696,178 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Fort-de-France	np-top-m-sg	fra	Fort-de-France	np-top-m-sg
 	oci	Cayenne	np-top-f-sg	fra	Cayenne	np-top-f-sg
 	oci	Dzaodzi	np-top-m-sg	fra	Dzaoudzi	np-top-m-sg
-	oci	Jean-Baptiste	np-ant-m-sg	fra	Jean-Baptiste	np$np-ant-m-sg$np-ant
-	oci	Phil	np$np-ant-m-sg	fra	Phil	np-ant-m-sg
+	oci	Jean-Baptiste	np-ant-m-sg	fra	Jean-Baptiste	np-ant-m-sg$np$np-ant
+	oci	Phil	np-ant-m-sg$np	fra	Phil	np-ant-m-sg
 	oci	Batman	np$np-ant-m-sg	fra	Batman	np-ant-m-sg
-	oci	Marius	np-ant-m-sg	fra	Marius	np$np-ant-m-sg$np-ant
+	oci	Marius	np-ant-m-sg	fra	Marius	np-ant-m-sg$np$np-ant
 	oci	Johan	np$np-ant-m-sg	fra	Johan	np-ant-m-sg
-	oci	Sylvain	np-ant-m-sg	fra	Sylvain	np-ant$np$np-ant-m-sg
-	oci	Abel	np-ant-m-sg	fra	Abel	np-ant$np$np-ant-m-sg
-	oci	Rick	np-ant-m-sg	fra	Rick	np$np-ant-m-sg$np-ant
+	oci	Sylvain	np-ant-m-sg	fra	Sylvain	np-ant$np-ant-m-sg$np
+	oci	Abel	np$np-ant-m-sg	fra	Abel	np-ant$np-ant-m-sg$np
+	oci	Rick	np-ant-m-sg	fra	Rick	np-ant-m-sg$np$np-ant
 	oci	Rob	np-ant-m-sg	fra	Rob	np-ant-m-sg
 	oci	Abu	np-ant-m-sg	fra	Abu	np-ant-m-sg$np
-	oci	Dennis	np-ant-m-sg	fra	Dennis	np$np-ant$np-ant-m-sg
-	oci	Yann	np-ant-m-sg	fra	Yann	np$np-ant-m-sg$np-ant
+	oci	Dennis	np$np-ant-m-sg	fra	Dennis	np$np-ant-m-sg$np-ant
+	oci	Yann	np-ant-m-sg	fra	Yann	np-ant-m-sg$np$np-ant
 	oci	Alessandro	np-ant-m-sg	fra	Alessandro	np$np-ant$np-ant-m-sg
-	oci	Apollon	np-ant-m-sg	fra	Apollon	np-ant$np-ant-m-sg
-	oci	Harrison	np-ant-m-sg	fra	Harrison	np-ant-m-sg
+	oci	Apollon	np-ant-m-sg	fra	Apollon	np-ant-m-sg$np-ant
+	oci	Harrison	np$np-ant-m-sg	fra	Harrison	np-ant-m-sg$np
 	oci	Hugh	np$np-ant-m-sg	fra	Hugh	np-ant-m-sg
-	oci	Damien	np-ant-m-sg	fra	Damien	np$np-ant$np-ant-m-sg
+	oci	Damien	np-ant-m-sg	fra	Damien	np-ant-m-sg$np$np-ant
 	oci	Tristan	np-ant-m-sg	fra	Tristan	np-ant-m-sg$np-ant
 	oci	Roch	np-ant-m-sg	fra	Roch	np-ant-m-sg
-	oci	Ròc	np$np-ant-m-sg	fra	Roch	np-ant-m-sg
-	oci	Ròc	np$np-ant-m-sg	fra	Ròc	np-ant-m-sg
-	oci	Nicholas	np-ant-m-sg	fra	Nicholas	np$np-ant-m-sg$np-ant
+	oci	Ròc	np-ant-m-sg$np	fra	Roch	np-ant-m-sg
+	oci	Ròc	np-ant-m-sg$np	fra	Ròc	np-ant-m-sg
+	oci	Nicholas	np-ant-m-sg	fra	Nicholas	np-ant-m-sg$np$np-ant
 	oci	Cyril	np-ant-m-sg	fra	Cyril	np-ant-m-sg$np-ant
 	oci	Innocent	np-ant-m-sg	fra	Innocent	np-ant-m-sg$np$np-ant
-	oci	Klaus	np-ant-m-sg	fra	Klaus	np$np-ant$np-ant-m-sg
-	oci	Benoit	np-ant-m-sg	fra	Benoit	np$np-ant$np-ant-m-sg
-	oci	Fabrice	np-ant-m-sg	fra	Fabrice	np$np-ant$np-ant-m-sg
-	oci	Gil	np-ant-m-sg	fra	Gil	np$np-ant-m-sg$np-ant
+	oci	Klaus	np-ant-m-sg	fra	Klaus	np$np-ant-m-sg$np-ant
+	oci	Benoit	np-ant-m-sg	fra	Benoit	np$np-ant-m-sg$np-ant
+	oci	Fabrice	np-ant-m-sg	fra	Fabrice	np-ant-m-sg$np$np-ant
+	oci	Gil	np$np-ant-m-sg	fra	Gil	np$np-ant-m-sg$np-ant
 	oci	Craig	np-ant-m-sg	fra	Craig	np-ant-m-sg
-	oci	Javier	np$np-ant-m-sg	fra	Javier	np$np-ant$np-ant-m-sg
-	oci	Dimitri	np-ant-m-sg	fra	Dimitri	np$np-ant-m-sg$np-ant
-	oci	Yannick	np-ant-m-sg	fra	Yannick	np$np-ant-m-sg$np-ant
+	oci	Javier	np$np-ant-m-sg	fra	Javier	np$np-ant-m-sg$np-ant
+	oci	Dimitri	np-ant-m-sg	fra	Dimitri	np-ant-m-sg$np$np-ant
+	oci	Yannick	np-ant-m-sg	fra	Yannick	np-ant-m-sg$np$np-ant
 	oci	Ulrich	np-ant-m-sg	fra	Ulrich	np-ant-m-sg
 	oci	Turner	np-ant-m-sg	fra	Turner	np-ant-m-sg
 	oci	Rémi	np-ant-m-sg	fra	Rémi	np-ant-m-sg
-	oci	Christoph	np-ant-m-sg	fra	Christoph	np$np-ant$np-ant-m-sg
+	oci	Christoph	np-ant-m-sg	fra	Christoph	np$np-ant-m-sg$np-ant
 	oci	Michele	np-ant-m-sg	fra	Michele	np$np-ant$np-ant-m-sg
-	oci	Stefano	np-ant-m-sg	fra	Stefano	np$np-ant$np-ant-m-sg
-	oci	Cédric	np-ant-m-sg	fra	Cédric	np$np-ant$np-ant-m-sg
+	oci	Stefano	np-ant-m-sg	fra	Stefano	np$np-ant-m-sg$np-ant
+	oci	Cédric	np-ant-m-sg	fra	Cédric	np-ant-m-sg$np$np-ant
 	oci	Vicente	np$np-ant-m-sg	fra	Vicente	np$np-ant-m-sg$np-ant
 	oci	Norbert	np-ant-m-sg	fra	Norbert	np-ant-m-sg
 	oci	Alfredo	np$np-ant-m-sg	fra	Alfredo	np$np-ant-m-sg$np-ant
 	oci	Joel	np$np-ant-m-sg	fra	Joel	np$np-ant-m-sg$np-ant
 	oci	Otton	np-ant-m-sg	fra	Otton	np-ant-m-sg
-	oci	Matthias	np-ant-m-sg	fra	Matthias	np$np-ant-m-sg$np-ant
-	oci	Alonso	np-ant-m-sg	fra	Alonso	np$np-ant$np-ant-m-sg
-	oci	Felipe	np$np-ant-m-sg	fra	Felipe	np$np-ant$np-ant-m-sg
-	oci	Ludovic	np-ant-m-sg	fra	Ludovic	np$np-ant$np-ant-m-sg
+	oci	Matthias	np-ant-m-sg	fra	Matthias	np-ant-m-sg$np$np-ant
+	oci	Alonso	np$np-ant-m-sg	fra	Alonso	np$np-ant$np-ant-m-sg
+	oci	Felipe	np$np-ant-m-sg	fra	Felipe	np-ant-m-sg$np$np-ant
+	oci	Ludovic	np-ant-m-sg	fra	Ludovic	np-ant-m-sg$np$np-ant
 	oci	Alejandro	np$np-ant-m-sg	fra	Alejandro	np$np-ant-m-sg$np-ant
 	oci	Luciano	np-ant-m-sg	fra	Luciano	np-ant-m-sg
-	oci	Fabio	np$np-ant-m-sg	fra	Fabio	np$np-ant-m-sg$np-ant
-	oci	Aurélien	np-ant-m-sg	fra	Aurélien	np$np-ant$np-ant-m-sg
+	oci	Fabio	np$np-ant-m-sg	fra	Fabio	np-ant-m-sg$np$np-ant
+	oci	Aurélien	np-ant-m-sg	fra	Aurélien	np$np-ant-m-sg$np-ant
 	oci	Joshua	np$np-ant-m-sg	fra	Joshua	np-ant-m-sg
-	oci	Gérald	np-ant-m-sg	fra	Gérald	np$np-ant-m-sg$np-ant
+	oci	Gérald	np-ant-m-sg	fra	Gérald	np-ant-m-sg$np$np-ant
 	oci	Garfield	np$np-ant-m-sg	fra	Garfield	np$np-ant-m-sg$np-ant
 	oci	Dexter	np$np-ant-m-sg	fra	Dexter	np-ant-m-sg
-	oci	Abdel	np-ant-m-sg	fra	Abdel	np$np-ant$np-ant-m-sg
+	oci	Abdel	np-ant-m-sg	fra	Abdel	np-ant-m-sg$np$np-ant
 	oci	Mustafa	np-ant-m-sg	fra	Mustafa	np-ant-m-sg
 	oci	Sven	np-ant-m-sg	fra	Sven	np-ant-m-sg
-	oci	Augusto	np$np-ant-m-sg	fra	Augusto	np$np-ant-m-sg$np-ant
-	oci	Markus	np$np-ant-m-sg	fra	Markus	np$np-ant$np-ant-m-sg
-	oci	Benito	np$np-ant-m-sg	fra	Benito	np$np-ant-m-sg$np-ant
+	oci	Augusto	np$np-ant-m-sg	fra	Augusto	np-ant-m-sg$np$np-ant
+	oci	Markus	np$np-ant-m-sg	fra	Markus	np-ant-m-sg$np$np-ant
+	oci	Benito	np$np-ant-m-sg	fra	Benito	np-ant-m-sg$np$np-ant
 	oci	Raúl	np$np-ant-m-sg	fra	Raúl	np$np-ant-m-sg
 	oci	Meredith	np-ant-m-sg	fra	Meredith	np-ant-m-sg
-	oci	Magellan	np-ant-m-sg	fra	Magellan	np-ant$np-ant-m-sg
+	oci	Magellan	np-ant-m-sg	fra	Magellan	np-ant-m-sg$np$np-ant
 	oci	Amadou	np-ant-m-sg	fra	Amadou	np$np-ant-m-sg
 	oci	Mika	np-ant-m-sg	fra	Mika	np-ant-m-sg
 	oci	Lucrécia	np-ant-m-sg	fra	Lucrèce	np-ant-m-sg
 	oci	Baldwin	np-ant-m-sg	fra	Baldwin	np-ant-m-sg
 	oci	Humphrey	np-ant-m-sg	fra	Humphrey	np-ant-m-sg
-	oci	Galien	np-ant-m-sg	fra	Galien	np$np-ant-m-sg
+	oci	Galien	np-ant-m-sg	fra	Galien	np-ant-m-sg$np
 	oci	Claus	np-ant-m-sg	fra	Claus	np-ant-m-sg
 	oci	Hamlet	np-ant-m-sg	fra	Hamlet	np-ant-m-sg$np
 	oci	Ronaldo	np$np-ant-m-sg	fra	Ronaldo	np$np-ant-m-sg$np-ant
 	oci	Pinòqui	np-ant-m-sg	fra	Pinocchio	np-ant-m-sg
-	oci	Chico	np-ant-m-sg	fra	Chico	np-ant-m-sg
-	oci	Archibald	np-ant-m-sg	fra	Archibald	np-ant$np-ant-m-sg
+	oci	Chico	np-ant-m-sg	fra	Chico	np-ant-m-sg$np
+	oci	Archibald	np-ant-m-sg	fra	Archibald	np-ant-m-sg$np-ant
 	oci	Mickaël	np-ant-m-sg	fra	Mickaël	np-ant-m-sg
-	oci	Bono	np-ant-m-sg	fra	Bono	np-ant-m-sg$np-ant
-	oci	Rice	np-ant-m-sg	fra	Rice	np-ant-m-sg
+	oci	Bono	np$np-ant-m-sg	fra	Bono	np-ant-m-sg$np$np-ant
+	oci	Rice	np$np-ant-m-sg	fra	Rice	np-ant-m-sg$np
 	oci	Renato	np-ant-m-sg	fra	Renato	np-ant-m-sg
-	oci	Orfèu	np-ant-m-sg	fra	Orphée	np$np-ant$np-ant-m-sg
-	oci	Gregorio	np-ant-m-sg	fra	Gregorio	np$np-ant-m-sg$np-ant
+	oci	Orfèu	np-ant-m-sg	fra	Orphée	np$np-ant-m-sg$np-ant
+	oci	Gregorio	np$np-ant-m-sg	fra	Gregorio	np-ant-m-sg$np$np-ant
 	oci	Daddy	np-ant-m-sg	fra	Daddy	np$np-ant-m-sg
 	oci	Rico	np-ant-m-sg	fra	Rico	np-ant-m-sg
-	oci	Eugenio	np$np-ant-m-sg	fra	Eugenio	np$np-ant$np-ant-m-sg
+	oci	Eugenio	np$np-ant-m-sg	fra	Eugenio	np-ant-m-sg$np$np-ant
 	oci	Wim	np-ant-m-sg	fra	Wim	np$np-ant-m-sg
 	oci	Andrzej	np-ant-m-sg	fra	Andrzej	np$np-ant-m-sg
-	oci	Gaspar	np$np-ant-m-sg	fra	Gaspar	np$np-ant-m-sg$np-ant
-	oci	Caton	np-ant-m-sg	fra	Caton	np$np-ant$np-ant-m-sg
+	oci	Gaspar	np$np-ant-m-sg	fra	Gaspar	np-ant-m-sg$np$np-ant
+	oci	Caton	np-ant-m-sg	fra	Caton	np$np-ant-m-sg$np-ant
 	oci	Anakin	np-ant-m-sg	fra	Anakin	np$np-ant-m-sg
-	oci	Amadeus	np-ant-m-sg	fra	Amadeus	np$np-ant$np-ant-m-sg
+	oci	Amadeus	np-ant-m-sg	fra	Amadeus	np$np-ant-m-sg$np-ant
 	oci	Abdelkader	np-ant-m-sg	fra	Abdelkader	np$np-ant-m-sg
 	oci	Fidel Castro	np-ant-m-sg	fra	Fidel Castro	np$np-ant-m-sg
-	oci	Woody	np$np-ant-m-sg	fra	Woody	np$np-ant-m-sg
+	oci	Woody	np$np-ant-m-sg	fra	Woody	np-ant-m-sg$np
 	oci	Sandro	np$np-ant-m-sg	fra	Sandro	np-ant-m-sg
 	oci	Ivo	np-ant-m-sg	fra	Ivo	np-ant-m-sg
 	oci	Tarzan	np-ant-m-sg	fra	Tarzan	np-ant-m-sg
-	oci	Dario	np-ant-m-sg	fra	Dario	np$np-ant$np-ant-m-sg
+	oci	Dario	np-ant-m-sg	fra	Dario	np$np-ant-m-sg$np-ant
 	oci	Vico	np-ant-m-sg	fra	Vico	np-ant-m-sg
 	oci	Woody Allen	np-ant-m-sg	fra	Woody Allen	np-ant-m-sg
-	oci	Kofi	np$np-ant-m-sg	fra	Kofi	np$np-ant-m-sg
-	oci	Gonzalo	np-ant-m-sg	fra	Gonzalo	np$np-ant-m-sg$np-ant
+	oci	Kofi	np$np-ant-m-sg	fra	Kofi	np-ant-m-sg$np
+	oci	Gonzalo	np$np-ant-m-sg	fra	Gonzalo	np$np-ant-m-sg$np-ant
 	oci	Rainier	np-ant-m-sg	fra	Rainier	np-ant-m-sg
-	oci	Ridley	np-ant-m-sg	fra	Ridley	np-ant-m-sg
+	oci	Ridley	np$np-ant-m-sg	fra	Ridley	np-ant-m-sg
 	oci	Ralf	np-ant-m-sg	fra	Ralf	np-ant-m-sg
-	oci	Luiz	np-ant-m-sg	fra	Luiz	np$np-ant-m-sg
+	oci	Luiz	np-ant-m-sg	fra	Luiz	np-ant-m-sg$np
 	oci	Jamal	np-ant-m-sg	fra	Jamal	np-ant-m-sg
 	oci	Ferenc	np-ant-m-sg	fra	Ferenc	np$np-ant-m-sg
 	oci	Randall	np-ant-m-sg	fra	Randall	np-ant-m-sg
 	oci	Gaby	np-ant-m-sg	fra	Gaby	np-ant-m-sg
-	oci	Valentino	np$np-ant-m-sg	fra	Valentino	np$np-ant-m-sg$np-ant
+	oci	Valentino	np$np-ant-m-sg	fra	Valentino	np-ant-m-sg$np$np-ant
 	oci	Fran	np$np-ant-m-sg	fra	Fran	np$np-ant-m-sg
-	oci	Armando	np-ant-m-sg	fra	Armando	np$np-ant-m-sg$np-ant
-	oci	Tony Blair	np-ant-m-sg	fra	Tony Blair	np$np-ant$np-ant-m-sg
-	oci	Esteban	np$np-ant-m-sg	fra	Esteban	np-ant-m-sg$np$np-ant
-	oci	Rodolfo	np-ant-m-sg	fra	Rodolfo	np$np-ant-m-sg$np-ant
+	oci	Armando	np-ant-m-sg	fra	Armando	np-ant-m-sg$np$np-ant
+	oci	Tony Blair	np-ant-m-sg	fra	Tony Blair	np$np-ant-m-sg$np-ant
+	oci	Esteban	np-ant-m-sg$np	fra	Esteban	np-ant-m-sg$np$np-ant
+	oci	Rodolfo	np-ant-m-sg	fra	Rodolfo	np-ant-m-sg$np$np-ant
 	oci	Dustin	np$np-ant-m-sg	fra	Dustin	np-ant-m-sg
-	oci	Clemente	np$np-ant-m-sg	fra	Clemente	np$np-ant-m-sg$np-ant
-	oci	Joaquin	np-ant-m-sg	fra	Joaquin	np-ant-m-sg$np-ant
+	oci	Clemente	np$np-ant-m-sg	fra	Clemente	np-ant-m-sg$np$np-ant
+	oci	Joaquin	np-ant-m-sg	fra	Joaquin	np-ant-m-sg$np$np-ant
 	oci	Henrique	np-ant-m-sg	fra	Henrique	np-ant-m-sg$np
 	oci	Triton	np-ant-m-sg	fra	Triton	np-ant-m-sg
-	oci	Janus	np-ant-m-sg	fra	Janus	np$np-ant$np-ant-m-sg
+	oci	Janus	np-ant-m-sg	fra	Janus	np$np-ant-m-sg$np-ant
 	oci	Fons	np-ant-m-sg	fra	Fons	np-ant-m-sg
 	oci	Rhys	np-ant-m-sg	fra	Rhys	np-ant-m-sg
-	oci	Hamid	np-ant-m-sg	fra	Hamid	np$np-ant-m-sg
+	oci	Hamid	np-ant-m-sg	fra	Hamid	np-ant-m-sg$np
 	oci	Filip	np-ant-m-sg	fra	Filip	np-ant-m-sg
-	oci	Elia	np$np-ant-m-sg	fra	Elia	np$np-ant$np-ant-m-sg
+	oci	Elia	np$np-ant-m-sg	fra	Elia	np-ant-m-sg$np$np-ant
 	oci	Yasser	np-ant-m-sg	fra	Yasser	np-ant-m-sg$np
 	oci	Barnard	np-ant-m-sg	fra	Barnard	np-ant-m-sg
 	oci	Saül	np-ant-m-sg	fra	Saül	np-ant-m-sg
 	oci	José Manuel	np-ant-m-sg	fra	José Manuel	np-ant-m-sg
 	oci	Cristiano	np-ant-m-sg	fra	Cristiano	np-ant-m-sg
 	oci	Günter	np$np-ant-m-sg	fra	Günter	np$np-ant-m-sg
-	oci	Zinédine	np-ant-m-sg	fra	Zinédine	np$np-ant-m-sg
-	oci	Romeo	np-ant-m-sg	fra	Romeo	np$np-ant-m-sg$np-ant
-	oci	Iván	np$np-ant-m-sg	fra	Iván	np$np-ant-m-sg$np-ant
-	oci	Guzmán	np-ant-m-sg	fra	Guzmán	np$np-ant-m-sg$np-ant
+	oci	Zinédine	np-ant-m-sg	fra	Zinédine	np-ant-m-sg$np
+	oci	Romeo	np$np-ant-m-sg	fra	Romeo	np-ant-m-sg$np$np-ant
+	oci	Iván	np$np-ant-m-sg	fra	Iván	np-ant-m-sg$np$np-ant
+	oci	Guzmán	np$np-ant-m-sg	fra	Guzmán	np-ant-m-sg$np$np-ant
 	oci	Goran	np-ant-m-sg	fra	Goran	np$np-ant-m-sg
-	oci	Fernandez	np-ant-m-sg	fra	Fernandez	np-ant$np-ant-m-sg
-	oci	Donatello	np-ant-m-sg	fra	Donatello	np$np-ant-m-sg$np-ant
-	oci	Simón	np-ant-m-sg	fra	Simón	np$np-ant$np-ant-m-sg
-	oci	Roque	np-ant-m-sg	fra	Roque	np$np-ant-m-sg
-	oci	Raul	np-ant-m-sg	fra	Raul	np$np-ant$np-ant-m-sg
+	oci	Fernandez	np-ant-m-sg	fra	Fernandez	np-ant-m-sg$np-ant
+	oci	Donatello	np-ant-m-sg	fra	Donatello	np-ant-m-sg$np$np-ant
+	oci	Simón	np$np-ant-m-sg	fra	Simón	np-ant-m-sg$np$np-ant
+	oci	Roque	np$np-ant-m-sg	fra	Roque	np$np-ant-m-sg
+	oci	Raul	np-ant-m-sg	fra	Raul	np$np-ant-m-sg$np-ant
 	oci	Pascual	np$np-ant-m-sg	fra	Pascual	np$np-ant-m-sg$np-ant
 	oci	Miquel	np$np-ant-m-sg	fra	Miquel	np$np-ant-m-sg
 	oci	Jaume	np$np-ant-m-sg	fra	Jaume	np$np-ant-m-sg
-	oci	Hayden	np-ant-m-sg	fra	Hayden	np-ant-m-sg
-	oci	Damiano	np-ant-m-sg	fra	Damiano	np$np-ant$np-ant-m-sg
+	oci	Hayden	np$np-ant-m-sg	fra	Hayden	np-ant-m-sg
+	oci	Damiano	np-ant-m-sg	fra	Damiano	np$np-ant-m-sg$np-ant
 	oci	Leandro	np-ant-m-sg	fra	Leandro	np-ant-m-sg
 	oci	Godfrey	np-ant-m-sg	fra	Godfrey	np-ant-m-sg
 	oci	Pere	np$np-ant-m-sg	fra	Pere	np$np-ant-m-sg
-	oci	Lucio	np-ant-m-sg	fra	Lucio	np$np-ant$np-ant-m-sg
+	oci	Lucio	np$np-ant-m-sg	fra	Lucio	np-ant-m-sg$np$np-ant
 	oci	Kelvin	np-ant-m-sg	fra	Kelvin	np-ant-m-sg$np
-	oci	Emanuele	np-ant-m-sg	fra	Emanuele	np$np-ant$np-ant-m-sg
-	oci	Houston	np-ant-m-sg	fra	Houston	np-ant-m-sg$np-ant
+	oci	Emanuele	np-ant-m-sg	fra	Emanuele	np$np-ant-m-sg$np-ant
+	oci	Houston	np-ant-m-sg$np	fra	Houston	np-ant-m-sg$np$np-ant
 	oci	Stephen Harper	np-ant-m-sg	fra	Stephen Harper	np$np-ant-m-sg
-	oci	Giberto	np-ant-m-sg	fra	Gilberto	np$np-ant-m-sg$np-ant
+	oci	Giberto	np-ant-m-sg	fra	Gilberto	np-ant-m-sg$np$np-ant
 	oci	Ahmet	np-ant-m-sg	fra	Ahmet	np$np-ant-m-sg
 	oci	Afonso	np-ant-m-sg	fra	Afonso	np-ant-m-sg
 	oci	Renart	np-ant-m-sg	fra	Renart	np-ant-m-sg
-	oci	Aurelio	np$np-ant-m-sg	fra	Aurelio	np$np-ant$np-ant-m-sg
-	oci	Johnnie	np-ant-m-sg	fra	Johnnie	np$np-ant$np-ant-m-sg
-	oci	Ingmar	np-ant-m-sg	fra	Ingmar	np$np-ant-m-sg
+	oci	Aurelio	np$np-ant-m-sg	fra	Aurelio	np-ant-m-sg$np$np-ant
+	oci	Johnnie	np-ant-m-sg	fra	Johnnie	np$np-ant-m-sg$np-ant
+	oci	Ingmar	np-ant-m-sg	fra	Ingmar	np-ant-m-sg$np
 	oci	Rashid	np-ant-m-sg	fra	Rashid	np-ant-m-sg
-	oci	Raffaele	np-ant-m-sg	fra	Raffaele	np$np-ant$np-ant-m-sg
-	oci	Jean-Bernard	np-ant-m-sg	fra	Jean-Bernard	np$np-ant$np-ant-m-sg
-	oci	Alvaro	np-ant-m-sg	fra	Alvaro	np$np-ant$np-ant-m-sg
+	oci	Raffaele	np-ant-m-sg	fra	Raffaele	np$np-ant-m-sg$np-ant
+	oci	Jean-Bernard	np-ant-m-sg	fra	Jean-Bernard	np$np-ant-m-sg$np-ant
+	oci	Alvaro	np-ant-m-sg	fra	Alvaro	np$np-ant-m-sg$np-ant
 	oci	Nicky	np-ant-m-sg	fra	Nicky	np-ant-m-sg
-	oci	Leopoldo	np-ant-m-sg	fra	Leopoldo	np$np-ant-m-sg$np-ant
+	oci	Leopoldo	np-ant-m-sg	fra	Leopoldo	np-ant-m-sg$np$np-ant
 	oci	Adnan	np-ant-m-sg	fra	Adnan	np$np-ant-m-sg
-	oci	Sancho	np-ant-m-sg	fra	Sancho	np$np-ant-m-sg$np-ant
+	oci	Sancho	np$np-ant-m-sg	fra	Sancho	np-ant-m-sg$np$np-ant
 	oci	Ronaldinho	np$np-ant-m-sg	fra	Ronaldinho	np-ant-m-sg$np
 	oci	Léotard	np-ant-m-sg	fra	Léotard	np$np-ant-m-sg
 	oci	Iago	np-ant-m-sg	fra	Iago	np-ant-m-sg
@@ -35856,40 +35875,40 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Mikel	np$np-ant-m-sg	fra	Mikel	np$np-ant-m-sg$np-ant
 	oci	Cristian	np$np-ant-m-sg	fra	Cristian	np$np-ant-m-sg$np-ant
 	oci	Yoda	np-ant-m-sg	fra	Yoda	np-ant-m-sg
-	oci	Lou Reed	np-ant-m-sg	fra	Lou Reed	np$np-ant$np-ant-m-sg
-	oci	Ismael	np-ant-m-sg	fra	Ismael	np$np-ant-m-sg$np-ant
-	oci	Carmelo	np-ant-m-sg	fra	Carmelo	np$np-ant-m-sg$np-ant
+	oci	Lou Reed	np-ant-m-sg	fra	Lou Reed	np$np-ant-m-sg$np-ant
+	oci	Ismael	np-ant-m-sg	fra	Ismael	np-ant-m-sg$np$np-ant
+	oci	Carmelo	np-ant-m-sg	fra	Carmelo	np-ant-m-sg$np$np-ant
 	oci	Alessio	np-ant-m-sg	fra	Alessio	np$np-ant-m-sg
-	oci	Sylvester Stallone	np-ant-m-sg	fra	Sylvester Stallone	np$np-ant$np-ant-m-sg
-	oci	Silvestre	np-ant-m-sg	fra	Silvestre	np$np-ant-m-sg$np-ant
+	oci	Sylvester Stallone	np-ant-m-sg	fra	Sylvester Stallone	np$np-ant-m-sg$np-ant
+	oci	Silvestre	np$np-ant-m-sg	fra	Silvestre	np-ant-m-sg$np$np-ant
 	oci	Priam	np-ant-m-sg	fra	Priam	np-ant-m-sg
 	oci	Plotin	np-ant-m-sg	fra	Plotin	np-ant-m-sg
-	oci	Isidro	np$np-ant-m-sg	fra	Isidro	np$np-ant-m-sg$np-ant
-	oci	Amadeo	np-ant-m-sg	fra	Amadeo	np$np-ant$np-ant-m-sg
+	oci	Isidro	np$np-ant-m-sg	fra	Isidro	np-ant-m-sg$np$np-ant
+	oci	Amadeo	np-ant-m-sg	fra	Amadeo	np$np-ant-m-sg$np-ant
 	oci	Aly	np-ant-m-sg	fra	Aly	np$np-ant-m-sg
-	oci	Aidan	np-ant-m-sg	fra	Aidan	np$np-ant$np-ant-m-sg
-	oci	Sabino	np-ant-m-sg	fra	Sabino	np$np-ant$np-ant-m-sg
+	oci	Aidan	np-ant-m-sg	fra	Aidan	np$np-ant-m-sg$np-ant
+	oci	Sabino	np-ant-m-sg	fra	Sabino	np$np-ant-m-sg$np-ant
 	oci	Recep	np-ant-m-sg	fra	Recep	np-ant-m-sg
 	oci	Tayyip	np-ant-m-sg	fra	Tayyip	np$np-ant-m-sg
 	oci	Suleiman	np-ant-m-sg	fra	Suleiman	np$np-ant-m-sg
 	oci	Saddam	np$np-ant-m-sg	fra	Saddam	np$np-ant-m-sg$np-ant
-	oci	Presley	np-ant-m-sg	fra	Presley	np$np-ant-m-sg$np-ant
-	oci	Guillem	np-ant-m-sg	fra	Guillem	np$np-ant-m-sg
-	oci	Garcia	np-ant-m-sg	fra	Garcia	np-ant-m-sg
+	oci	Presley	np$np-ant-m-sg	fra	Presley	np-ant-m-sg$np$np-ant
+	oci	Guillem	np$np-ant-m-sg	fra	Guillem	np$np-ant-m-sg
+	oci	Garcia	np$np-ant-m-sg	fra	Garcia	np-ant-m-sg
 	oci	Fulgencio	np-ant-m-sg	fra	Fulgencio	np-ant-m-sg
 	oci	Emeric	np-ant-m-sg	fra	Emeric	np-ant-m-sg
 	oci	Cesc	np$np-ant-m-sg	fra	Cesc	np-ant-m-sg
 	oci	Akim	np-ant-m-sg	fra	Akim	np$np-ant-m-sg
 	oci	Vasile	np-ant-m-sg	fra	Vasile	np-ant-m-sg
-	oci	Nicanor	np-ant-m-sg	fra	Nicanor	np$np-ant$np-ant-m-sg
+	oci	Nicanor	np-ant-m-sg	fra	Nicanor	np$np-ant-m-sg$np-ant
 	oci	Maximiliano	np-ant-m-sg	fra	Maximiliano	np-ant-m-sg
 	oci	Gastón	np-ant-m-sg	fra	Gastón	np-ant-m-sg
 	oci	Gari	np-ant-m-sg	fra	Gari	np$np-ant-m-sg
-	oci	Garcilaso	np$np-ant-m-sg	fra	Garcilaso	np$np-ant-m-sg
+	oci	Garcilaso	np$np-ant-m-sg	fra	Garcilaso	np-ant-m-sg$np
 	oci	Rony	np-ant-m-sg	fra	Rony	np$np-ant-m-sg
 	oci	Roh	np-ant-m-sg	fra	Roh	np$np-ant-m-sg
-	oci	Roger Bacon	np-ant-m-sg	fra	Roger Bacon	np$np-ant$np-ant-m-sg
-	oci	Raimon	np$np-ant-m-sg	fra	Raimon	np$np-ant-m-sg
+	oci	Roger Bacon	np-ant-m-sg	fra	Roger Bacon	np$np-ant-m-sg$np-ant
+	oci	Raimon	np$np-ant-m-sg	fra	Raimon	np-ant-m-sg$np
 	oci	Rafa	np$np-ant-m-sg	fra	Rafa	np$np-ant-m-sg$np-ant
 	oci	Patxi	np$np-ant-m-sg	fra	Patxi	np$np-ant-m-sg$np-ant
 	oci	Mariano Rajoy	np-ant-m-sg	fra	Mariano Rajoy	np$np-ant-m-sg
@@ -35898,47 +35917,47 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Dionisio	np-ant-m-sg	fra	Dionisio	np-ant-m-sg
 	oci	Dariusz	np-ant-m-sg	fra	Dariusz	np$np-ant-m-sg
 	oci	Dámaso	np-ant-m-sg	fra	Dámaso	np-ant-m-sg
-	oci	Arcadi	np$np-ant-m-sg	fra	Arcadi	np$np-ant-m-sg
-	oci	Xabi	np-ant-m-sg	fra	Xabi	np$np-ant-m-sg
-	oci	Valdo	np-ant-m-sg	fra	Valdo	np$np-ant$np-ant-m-sg
-	oci	Román	np$np-ant-m-sg	fra	Román	np$np-ant-m-sg$np-ant
-	oci	Imanol	np-ant-m-sg	fra	Imanol	np$np-ant$np-ant-m-sg
+	oci	Arcadi	np$np-ant-m-sg	fra	Arcadi	np-ant-m-sg$np
+	oci	Xabi	np-ant-m-sg	fra	Xabi	np-ant-m-sg$np
+	oci	Valdo	np-ant-m-sg	fra	Valdo	np$np-ant-m-sg$np-ant
+	oci	Román	np$np-ant-m-sg	fra	Román	np-ant-m-sg$np$np-ant
+	oci	Imanol	np-ant-m-sg	fra	Imanol	np$np-ant-m-sg$np-ant
 	oci	Gregori	np-ant-m-sg	fra	Gregori	np-ant-m-sg
-	oci	Benigno	np-ant-m-sg	fra	Benigno	np$np-ant$np-ant-m-sg
+	oci	Benigno	np-ant-m-sg	fra	Benigno	np$np-ant-m-sg$np-ant
 	oci	Akhmed	np-ant-m-sg	fra	Akhmed	np$np-ant-m-sg
 	oci	Abebe	np-ant-m-sg	fra	Abebe	np$np-ant-m-sg
-	oci	Severiano	np-ant-m-sg	fra	Severiano	np$np-ant$np-ant-m-sg
+	oci	Severiano	np-ant-m-sg	fra	Severiano	np$np-ant-m-sg$np-ant
 	oci	Semen	np-ant-m-sg	fra	Semen	np-ant-m-sg
-	oci	Rufino	np$np-ant-m-sg	fra	Rufino	np$np-ant-m-sg$np-ant
+	oci	Rufino	np$np-ant-m-sg	fra	Rufino	np-ant-m-sg$np$np-ant
 	oci	Nichol	np-ant-m-sg	fra	Nichol	np-ant-m-sg
 	oci	El Greco	np-ant$np-ant-m-sg	fra	El Greco	np-ant$np-ant-m-sg
-	oci	Daniel Ortega	np-ant-m-sg	fra	Daniel Ortega	np$np-ant$np-ant-m-sg
+	oci	Daniel Ortega	np-ant-m-sg	fra	Daniel Ortega	np$np-ant-m-sg$np-ant
 	oci	Blay	np-ant-m-sg	fra	Blay	np-ant-m-sg
-	oci	Berenguer	np-ant-m-sg	fra	Berenguer	np$np-ant-m-sg
+	oci	Berenguer	np$np-ant-m-sg	fra	Berenguer	np-ant-m-sg$np
 	oci	Avelino	np-ant-m-sg	fra	Avelino	np-ant-m-sg
-	oci	Roderic	np-ant-m-sg	fra	Roderic	np-ant-m-sg
+	oci	Roderic	np$np-ant-m-sg	fra	Roderic	np-ant-m-sg
 	oci	Reynold	np-ant-m-sg	fra	Reynold	np-ant-m-sg
 	oci	Mirco	np-ant-m-sg	fra	Mirco	np$np-ant-m-sg
 	oci	Mateu	np-ant-m-sg	fra	Mateu	np-ant-m-sg
 	oci	Laureano	np-ant-m-sg	fra	Laureano	np-ant-m-sg
 	oci	Camil	np-ant-m-sg	fra	Camil	np-ant-m-sg
-	oci	Climent	np-ant-m-sg	fra	Climent	np-ant-m-sg
+	oci	Climent	np$np-ant-m-sg	fra	Climent	np-ant-m-sg$np
 	oci	Aristides	np-ant-m-sg	fra	Aristides	np-ant-m-sg
 	oci	Andoni	np-ant-m-sg	fra	Andoni	np$np-ant-m-sg
 	oci	Kepa	np-ant-m-sg	fra	Kepa	np$np-ant-m-sg
 	oci	Julen	np-ant-m-sg	fra	Julen	np$np-ant-m-sg
 	oci	Olga	np$np-ant-f-sg	fra	Olga	np$np-ant-f-sg$np-ant
-	oci	Marge	np-ant-f-sg	fra	Marge	np$np-ant-f-sg
-	oci	Lola	np$np-ant-f-sg	fra	Lola	np-ant$np$np-ant-f-sg
+	oci	Marge	np-ant-f-sg	fra	Marge	np-ant-f-sg$np
+	oci	Lola	np$np-ant-f-sg	fra	Lola	np-ant$np-ant-f-sg$np
 	oci	Bella	np-ant-f-sg	fra	Bella	np-ant-f-sg
 	oci	Beth	np-ant-f-sg	fra	Beth	np-ant-f-sg
 	oci	Shannon	np-ant-f-sg	fra	Shannon	np-ant-f-sg
 	oci	Faith	np-ant-f-sg	fra	Faith	np-ant-f-sg
 	oci	Daisy	np-ant-f-sg	fra	Daisy	np-ant-f-sg
-	oci	Asia	np-ant-f-sg	fra	Asia	np-ant-f-sg
+RL	oci	Asia	np$np-ant-f-sg	fra	Asia	np-ant-f-sg
 	oci	Manon	np-ant-f-sg	fra	Manon	np-ant-f-sg$np-ant
-	oci	Heather	np-ant-f-sg	fra	Heather	np$np-ant-f-sg$np-ant
-	oci	Maggie	np$np-ant-f-sg	fra	Maggie	np$np-ant-f-sg$np-ant
+	oci	Heather	np-ant-f-sg	fra	Heather	np-ant-f-sg$np$np-ant
+	oci	Maggie	np$np-ant-f-sg	fra	Maggie	np-ant-f-sg$np$np-ant
 	oci	Christina	np$np-ant-f-sg	fra	Christina	np-ant-f-sg
 	oci	Gala	np-ant-f-sg	fra	Gala	np-ant-f-sg
 	oci	Lili	np-ant-f-sg	fra	Lili	np-ant-f-sg
@@ -35956,27 +35975,27 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Flora	np-ant-f-sg	fra	Flora	np-ant-f-sg
 	oci	Adrienne	np-ant-f-sg	fra	Adrienne	np-ant-f-sg
 	oci	Elisabet II	np-ant-f-sg	fra	Élisabeth II	np$np-ant-f-sg
-	oci	Aran	np-ant-f-sg	fra	Aran	np-ant-f-sg
+	oci	Aran	np$np-ant-f-sg	fra	Aran	np-ant-f-sg
 	oci	Avery	np-ant-f-sg	fra	Avery	np-ant-f-sg
-	oci	Danièle	np-ant-f-sg	fra	Danièle	np$np-ant$np-ant-f-sg
-	oci	Joëlle	np-ant-f-sg	fra	Joëlle	np$np-ant$np-ant-f-sg
+	oci	Danièle	np-ant-f-sg	fra	Danièle	np-ant-f-sg$np$np-ant
+	oci	Joëlle	np-ant-f-sg	fra	Joëlle	np-ant-f-sg$np$np-ant
 	oci	Marie-Christine	np-ant-f-sg	fra	Marie-Christine	np-ant-f-sg
 	oci	Maria Cristina	np-ant-f-sg	fra	Marie-Christine	np-ant-f-sg
 	oci	Maria Cristina	np-ant-f-sg	fra	Maria Cristina	np-ant-f-sg
 	oci	Hermione	np-ant-f-sg	fra	Hermione	np-ant-f-sg$np
-	oci	València	np-ant-f-sg	fra	Valencia	np-ant-f-sg
+	oci	València	np$np-ant-f-sg	fra	Valencia	np-ant-f-sg
 	oci	Janine	np-ant-f-sg	fra	Janine	np-ant-f-sg
 	oci	Hortense	np-ant-f-sg	fra	Hortense	np-ant-f-sg
 	oci	Émilie	np-ant-f-sg	fra	Émilie	np-ant-f-sg
 	oci	Emilia	np$np-ant-f-sg	fra	Émilie	np-ant-f-sg
 	oci	Juno	np-ant-f-sg	fra	Juno	np-ant-f-sg
-	oci	Francine	np-ant-f-sg	fra	Francine	np$np-ant-f-sg$np-ant
+	oci	Francine	np-ant-f-sg	fra	Francine	np-ant-f-sg$np$np-ant
 	oci	Odette	np-ant-f-sg	fra	Odette	np-ant-f-sg
 	oci	Bianca	np-ant-f-sg	fra	Bianca	np-ant-f-sg
 	oci	Anastasia	np-ant-f-sg	fra	Anastasia	np-ant-f-sg$np$np-ant
 	oci	Jana	np$np-ant-f-sg	fra	Jana	np-ant-f-sg
 	oci	Irénée	np-ant-f-sg	fra	Irénée	np-ant-f-sg
-	oci	Arlette	np-ant-f-sg	fra	Arlette	np$np-ant-f-sg$np-ant
+	oci	Arlette	np-ant-f-sg	fra	Arlette	np-ant-f-sg$np$np-ant
 	oci	Peggy	np-ant-f-sg	fra	Peggy	np-ant-f-sg
 	oci	Melody	np-ant-f-sg	fra	Melody	np-ant-f-sg
 	oci	Augustine	np-ant-f-sg	fra	Augustine	np$np-ant-f-sg
@@ -35984,7 +36003,7 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Regina	np-ant-f-sg	fra	Régine	np-ant-f-sg
 	oci	Maryse	np-ant-f-sg	fra	Maryse	np-ant-f-sg
 	oci	Deborah	np-ant-f-sg	fra	Deborah	np-ant-f-sg
-	oci	Britney Spears	np-ant-f-sg	fra	Britney Spears	np$np-ant$np-ant-f-sg
+	oci	Britney Spears	np-ant-f-sg	fra	Britney Spears	np$np-ant-f-sg$np-ant
 	oci	Abby	np-ant-f-sg	fra	Abby	np-ant-f-sg
 	oci	Ella	np-ant-f-sg	fra	Ella	np-ant-f-sg
 	oci	Erin	np-ant-f-sg	fra	Erin	np-ant-f-sg
@@ -36005,42 +36024,42 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Adeline	np-ant-f-sg	fra	Adeline	np-ant-f-sg$np-ant
 	oci	Ivy	np-ant-f-sg	fra	Ivy	np-ant-f-sg
 	oci	Estelle	np-ant-f-sg	fra	Estelle	np-ant-f-sg
-	oci	Paola	np$np-ant-f-sg	fra	Paola	np$np-ant$np-ant-f-sg
+	oci	Paola	np$np-ant-f-sg	fra	Paola	np-ant-f-sg$np$np-ant
 	oci	Annick	np-ant-f-sg	fra	Annick	np-ant-f-sg$np-ant
 	oci	Sana	np-ant-f-sg	fra	Sana	np-ant-f-sg
-	oci	Lolita	np$np-ant-f-sg	fra	Lolita	np$np-ant$np-ant-f-sg
+	oci	Lolita	np$np-ant-f-sg	fra	Lolita	np-ant-f-sg$np$np-ant
 	oci	Eulalie	np-ant-f-sg	fra	Eulalie	np-ant-f-sg
 	oci	Bertha	np-ant-f-sg	fra	Bertha	np-ant-f-sg
 	oci	Natacha	np-ant-f-sg	fra	Natacha	np-ant-f-sg
-	oci	Marian	np-ant-f-sg	fra	Marian	np$np-ant-f-sg$np-ant
+	oci	Marian	np-ant-f-sg	fra	Marian	np-ant-f-sg$np$np-ant
 	oci	Marian	np-ant-m-sg	fra	Marian	np-ant-m-sg
 	oci	Savannah	np-ant-f-sg	fra	Savannah	np-ant-f-sg
-	oci	Cecilia	np$np-ant-f-sg	fra	Cecilia	np$np-ant$np-ant-f-sg
+	oci	Cecilia	np$np-ant-f-sg	fra	Cecilia	np$np-ant-f-sg$np-ant
 	oci	Bennet	np-ant-f-sg	fra	Bennet	np-ant-f-sg
 	oci	Paulette	np-ant-f-sg	fra	Paulette	np-ant-f-sg$np-ant
-	oci	Lilian	np-ant-f-sg	fra	Lilian	np$np-ant-f-sg$np-ant
+	oci	Lilian	np-ant-f-sg	fra	Lilian	np-ant-f-sg$np$np-ant
 	oci	Shelby	np-ant-f-sg	fra	Shelby	np-ant-f-sg
 	oci	Paige	np-ant-f-sg	fra	Paige	np-ant-f-sg
 	oci	Mariah	np-ant-f-sg	fra	Mariah	np-ant-f-sg
-	oci	Lina	np-ant-f-sg	fra	Lina	np$np-ant$np-ant-f-sg
+	oci	Lina	np-ant-f-sg	fra	Lina	np-ant-f-sg$np$np-ant
 	oci	Lana	np-ant-f-sg	fra	Lana	np-ant-f-sg
 	oci	Cindy	np-ant-f-sg	fra	Cindy	np-ant-f-sg
 	oci	Unique	np-ant-f-sg	fra	Unique	np-ant-f-sg
 	oci	Lucienne	np-ant-f-sg	fra	Lucienne	np-ant-f-sg
 	oci	Caterina	np$np-ant-f-sg	fra	Caterina	np-ant-f-sg
-	oci	Katrina	np$np-ant-f-sg	fra	Katrina	np$np-ant$np-ant-f-sg
-	oci	Elisa	np$np-ant-f-sg	fra	Elisa	np-ant$np$np-ant-f-sg
+	oci	Katrina	np$np-ant-f-sg	fra	Katrina	np$np-ant-f-sg$np-ant
+	oci	Elisa	np$np-ant-f-sg	fra	Elisa	np-ant$np-ant-f-sg$np
 	oci	Skye	np-ant-f-sg	fra	Skye	np-ant-f-sg
-	oci	Samara	np$np-ant-f-sg	fra	Samara	np-ant-f-sg
+	oci	Samara	np-ant-f-sg$np	fra	Samara	np-ant-f-sg
 	oci	Lucille	np-ant-f-sg	fra	Lucille	np-ant-f-sg
 	oci	Farah	np-ant-f-sg	fra	Farah	np-ant-f-sg
 	oci	Adriana	np$np-ant-f-sg	fra	Adriana	np$np-ant-f-sg$np-ant
-	oci	Tania	np$np-ant-f-sg	fra	Tania	np$np-ant$np-ant-f-sg
+	oci	Tania	np$np-ant-f-sg	fra	Tania	np-ant-f-sg$np$np-ant
 	oci	Hana	np-ant-f-sg	fra	Hana	np-ant-f-sg
 	oci	Fatima	np-ant-f-sg	fra	Fatima	np-ant-f-sg
 	oci	Edda	np-ant-f-sg	fra	Edda	np-ant-f-sg
 	oci	Drina	np-ant-f-sg	fra	Drina	np-ant-f-sg
-	oci	Scarlett	np$np-ant-f-sg	fra	Scarlett	np$np-ant-f-sg$np-ant
+	oci	Scarlett	np$np-ant-f-sg	fra	Scarlett	np-ant-f-sg$np$np-ant
 	oci	Kira	np-ant-f-sg	fra	Kira	np-ant-f-sg
 	oci	Harmony	np-ant-f-sg	fra	Harmony	np-ant-f-sg
 	oci	Greta	np-ant-f-sg	fra	Greta	np-ant-f-sg
@@ -36055,7 +36074,7 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Tea	np-ant-f-sg	fra	Tea	np-ant-f-sg
 	oci	Stacy	np-ant-f-sg	fra	Stacy	np-ant-f-sg
 	oci	Lisette	np-ant-f-sg	fra	Lisette	np-ant-f-sg
-	oci	Kristen	np-ant-f-sg	fra	Kristen	np-ant$np-ant-f-sg
+	oci	Kristen	np-ant-f-sg	fra	Kristen	np-ant-f-sg$np-ant
 	oci	Katy	np-ant-f-sg	fra	Katy	np-ant-f-sg
 	oci	Eliza	np-ant-f-sg	fra	Eliza	np-ant-f-sg
 	oci	Zara	np-ant-f-sg	fra	Zara	np$np-ant-f-sg$np-ant
@@ -36084,7 +36103,7 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Jeannette	np-ant-f-sg	fra	Jeannette	np-ant-f-sg
 	oci	Irma	np-ant-f-sg	fra	Irma	np-ant-f-sg
 	oci	Giulia	np-ant-f-sg	fra	Giulia	np-ant-f-sg
-	oci	Miriam	np$np-ant-f-sg	fra	Miriam	np$np-ant-f-sg$np-ant
+	oci	Miriam	np$np-ant-f-sg	fra	Miriam	np-ant-f-sg$np$np-ant
 	oci	Mariette	np-ant-f-sg	fra	Mariette	np-ant-f-sg
 	oci	Kristin	np-ant-f-sg	fra	Kristin	np-ant-f-sg$np-ant
 	oci	Jia	np-ant-f-sg	fra	Jia	np-ant-f-sg
@@ -36094,20 +36113,20 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Léonie	np-ant-f-sg	fra	Léonie	np-ant-f-sg
 	oci	Joanna	np-ant-f-sg	fra	Joanna	np-ant-f-sg
 	oci	Marielle	np-ant-f-sg	fra	Marielle	np-ant-f-sg
-	oci	Katia	np-ant-f-sg	fra	Katia	np$np-ant-f-sg$np-ant
+	oci	Katia	np-ant-f-sg	fra	Katia	np-ant-f-sg$np$np-ant
 	oci	Jocelyn	np-ant-f-sg	fra	Jocelyn	np-ant-f-sg
 	oci	Janis	np-ant-f-sg	fra	Janis	np-ant-f-sg
 	oci	Hayden	np-ant-f-sg	fra	Hayden	np-ant-f-sg
 	oci	Fiona	np-ant-f-sg	fra	Fiona	np-ant-f-sg
 	oci	Maureen	np-ant-f-sg	fra	Maureen	np-ant-f-sg
 	oci	Roxane	np-ant-f-sg	fra	Roxane	np-ant-f-sg
-	oci	Larissa	np$np-ant-f-sg	fra	Larissa	np-ant-f-sg
+	oci	Larissa	np-ant-f-sg$np	fra	Larissa	np-ant-f-sg
 	oci	Clio	np-ant-f-sg	fra	Clio	np$np-ant-f-sg
 	oci	Cassidy	np-ant-f-sg	fra	Cassidy	np-ant-f-sg
 	oci	Adama	np-ant-f-sg	fra	Adama	np-ant-f-sg
 	oci	Tori	np-ant-f-sg	fra	Tori	np-ant-f-sg
 	oci	Pilar	np$np-ant-f-sg	fra	Pilar	np$np-ant-f-sg$np-ant
-	oci	Meryl	np-ant-f-sg	fra	Meryl	np$np-ant-f-sg$np-ant
+	oci	Meryl	np-ant-f-sg	fra	Meryl	np-ant-f-sg$np$np-ant
 	oci	Luisa	np$np-ant-f-sg	fra	Luisa	np$np-ant-f-sg$np-ant
 	oci	Lotte	np-ant-f-sg	fra	Lotte	np-ant-f-sg
 	oci	Josette	np-ant-f-sg	fra	Josette	np-ant-f-sg$np-ant
@@ -36123,26 +36142,26 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Manuela	np$np-ant-f-sg	fra	Manuela	np$np-ant-f-sg$np-ant
 	oci	Katharine	np-ant-f-sg	fra	Katharine	np-ant-f-sg
 	oci	Dona	np-ant-f-sg	fra	Dona	np-ant-f-sg
-	oci	Arantxa	np-ant-f-sg	fra	Arantxa	np$np-ant-f-sg
-	oci	Angela Merkel	np-ant-f-sg	fra	Angela Merkel	np$np-ant$np-ant-f-sg
+	oci	Arantxa	np-ant-f-sg	fra	Arantxa	np-ant-f-sg$np
+	oci	Angela Merkel	np-ant-f-sg	fra	Angela Merkel	np$np-ant-f-sg$np-ant
 	oci	Amable	np-ant-f-sg	fra	Amable	np-ant-f-sg
 	oci	Alexandrine	np-ant-f-sg	fra	Alexandrine	np-ant-f-sg
 	oci	Chiara	np-ant-f-sg	fra	Chiara	np-ant-f-sg
 	oci	Aria	np-ant-f-sg	fra	Aria	np-ant-f-sg
 	oci	Valeria	np$np-ant-f-sg	fra	Valeria	np-ant-f-sg
-	oci	Urgell	np-ant-f-sg	fra	Urgell	np-ant-f-sg
+	oci	Urgell	np$np-ant-f-sg	fra	Urgell	np-ant-f-sg
 	oci	Sabina	np-ant-f-sg	fra	Sabina	np-ant-f-sg
-	oci	Paloma	np-ant-f-sg	fra	Paloma	np$np-ant-f-sg$np-ant
+	oci	Paloma	np$np-ant-f-sg	fra	Paloma	np$np-ant-f-sg$np-ant
 	oci	Nada	np-ant-f-sg	fra	Nada	np-ant-f-sg
 	oci	Margherita	np-ant-f-sg	fra	Margherita	np-ant-f-sg
-	oci	Laetitia	np-ant-f-sg	fra	Laetitia	np$np-ant$np-ant-f-sg
+	oci	Laetitia	np-ant-f-sg	fra	Laetitia	np-ant-f-sg$np$np-ant
 	oci	Kirsten	np-ant-f-sg	fra	Kirsten	np-ant-f-sg
 	oci	Janice	np-ant-f-sg	fra	Janice	np-ant-f-sg$np-ant
 	oci	Gigi	np-ant-f-sg	fra	Gigi	np-ant-f-sg
 	oci	Christiana	np-ant-f-sg	fra	Christiana	np-ant-f-sg
 	oci	Angelina	np$np-ant-f-sg	fra	Angelina	np-ant-f-sg
-	oci	Alessandra	np-ant-f-sg	fra	Alessandra	np$np-ant-f-sg$np-ant
-	oci	Susanna	np-ant-f-sg	fra	Susanna	np-ant-f-sg
+	oci	Alessandra	np-ant-f-sg	fra	Alessandra	np-ant-f-sg$np$np-ant
+	oci	Susanna	np$np-ant-f-sg	fra	Susanna	np-ant-f-sg
 	oci	Mariam	np-ant-f-sg	fra	Mariam	np-ant-f-sg
 	oci	Kylie	np-ant-f-sg	fra	Kylie	np-ant-f-sg
 	oci	Ina	np-ant-f-sg	fra	Ina	np-ant-f-sg
@@ -36152,17 +36171,17 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Kimberly	np-ant-f-sg	fra	Kimberly	np-ant-f-sg
 	oci	Fortuna	np-ant-f-sg	fra	Fortuna	np-ant-f-sg
 	oci	Flo	np-ant-f-sg	fra	Flo	np-ant-f-sg
-	oci	Elvira	np-ant-f-sg	fra	Elvira	np$np-ant-f-sg$np-ant
+	oci	Elvira	np$np-ant-f-sg	fra	Elvira	np-ant-f-sg$np$np-ant
 	oci	Edwige	np-ant-f-sg	fra	Edwige	np-ant-f-sg
 	oci	Concepción	np-ant-f-sg	fra	Concepción	np-ant-f-sg
 	oci	Bibi	np-ant-f-sg	fra	Bibi	np-ant-f-sg
 	oci	Anya	np-ant-f-sg	fra	Anya	np-ant-f-sg
 	oci	Philippine	np-ant-f-sg	fra	Philippine	np-ant-f-sg
 	oci	Perrine	np-ant-f-sg	fra	Perrine	np-ant-f-sg
-	oci	Mabel	np$np-ant-f-sg	fra	Mabel	np$np-ant-f-sg$np-ant
+	oci	Mabel	np$np-ant-f-sg	fra	Mabel	np-ant-f-sg$np$np-ant
 	oci	Liv	np-ant-f-sg	fra	Liv	np$np-ant-f-sg
 	oci	Inès	np-ant-f-sg	fra	Inès	np-ant-f-sg
-	oci	Giovanna	np-ant-f-sg	fra	Giovanna	np$np-ant-f-sg$np-ant
+	oci	Giovanna	np-ant-f-sg	fra	Giovanna	np-ant-f-sg$np$np-ant
 	oci	Dacia	np-ant-f-sg	fra	Dacia	np-ant-f-sg
 	oci	Cheyenne	np-ant-f-sg	fra	Cheyenne	np-ant-f-sg
 	oci	Beatrix	np-ant-f-sg	fra	Beatrix	np-ant-f-sg
@@ -36188,10 +36207,10 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Ibis	np-ant-f-sg	fra	Ibis	np-ant-f-sg
 	oci	Henrietta	np-ant-f-sg	fra	Henrietta	np-ant-f-sg
 	oci	Gabriella	np-ant-f-sg	fra	Gabriella	np-ant-f-sg
-	oci	Aidan	np-ant-f-sg	fra	Aida	np$np-ant-f-sg$np-ant
-	oci	Selva	np-ant-f-sg	fra	Selva	np-ant-f-sg
+	oci	Aidan	np-ant-f-sg	fra	Aida	np-ant-f-sg$np$np-ant
+	oci	Selva	np-ant-f-sg$np	fra	Selva	np-ant-f-sg
 	oci	Magali	np-ant-f-sg	fra	Magali	np-ant-f-sg
-	oci	Mackenzie	np-ant-f-sg	fra	Mackenzie	np-ant-f-sg$np-ant
+	oci	Mackenzie	np-ant-f-sg	fra	Mackenzie	np-ant-f-sg$np$np-ant
 	oci	Leonora	np-ant-f-sg	fra	Leonora	np-ant-f-sg
 	oci	Lamia	np-ant-f-sg	fra	Lamia	np-ant-f-sg
 	oci	Josiane	np-ant-f-sg	fra	Josiane	np-ant-f-sg$np$np-ant
@@ -36200,19 +36219,19 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Jeanette	np-ant-f-sg	fra	Jeanette	np-ant-f-sg
 	oci	Hadley	np-ant-f-sg	fra	Hadley	np-ant-f-sg
 	oci	Gilberte	np-ant-f-sg	fra	Gilberte	np-ant-f-sg
-	oci	Géraldine	np-ant-f-sg	fra	Géraldine	np$np-ant-f-sg$np-ant
+	oci	Géraldine	np-ant-f-sg	fra	Géraldine	np-ant-f-sg$np$np-ant
 	oci	Frida	np-ant-f-sg	fra	Frida	np-ant-f-sg
-	oci	Esmeralda	np$np-ant-f-sg	fra	Esmeralda	np$np-ant$np-ant-f-sg
+	oci	Esmeralda	np$np-ant-f-sg	fra	Esmeralda	np-ant-f-sg$np$np-ant
 	oci	Autumn	np-ant-f-sg	fra	Autumn	np-ant-f-sg
 	oci	Vivienne	np-ant-f-sg	fra	Vivienne	np-ant-f-sg
 	oci	Roxanne	np-ant-f-sg	fra	Roxanne	np-ant-f-sg
 	oci	Noémie	np-ant-f-sg	fra	Noémie	np-ant-f-sg
 	oci	Lexus	np-ant-f-sg	fra	Lexus	np-ant-f-sg
 	oci	Indira	np-ant-f-sg	fra	Indira	np-ant-f-sg
-	oci	Annabel	np-ant-f-sg	fra	Annabel	np$np-ant-f-sg$np-ant
+	oci	Annabel	np-ant-f-sg	fra	Annabel	np-ant-f-sg$np$np-ant
 	oci	Stefania	np-ant-f-sg	fra	Stefania	np-ant-f-sg
 	oci	Sila	np-ant-f-sg	fra	Sila	np-ant-f-sg
-	oci	Siena	np$np-ant-f-sg	fra	Siena	np-ant-f-sg
+	oci	Siena	np-ant-f-sg$np	fra	Siena	np-ant-f-sg
 	oci	Sidonie	np-ant-f-sg	fra	Sidonie	np-ant-f-sg$np-ant
 	oci	Rosine	np-ant-f-sg	fra	Rosine	np-ant-f-sg
 	oci	Rosina	np-ant-f-sg	fra	Rosine	np-ant-f-sg
@@ -36237,7 +36256,7 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Flavie	np-ant-f-sg	fra	Flavie	np-ant-f-sg
 	oci	Diamante	np-ant-f-sg	fra	Diamante	np-ant-f-sg
 	oci	Dagmar	np-ant-f-sg	fra	Dagmar	np-ant-f-sg
-	oci	Correa	np-ant-f-sg	fra	Correa	np-ant-f-sg$np-ant
+	oci	Correa	np-ant-f-sg	fra	Correa	np-ant-f-sg$np$np-ant
 	oci	Clarice	np-ant-f-sg	fra	Clarice	np-ant-f-sg
 	oci	Carmina	np-ant-f-sg	fra	Carmina	np-ant-f-sg
 	oci	Carly	np-ant-f-sg	fra	Carly	np-ant-f-sg
@@ -36249,9 +36268,9 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Violetta	np-ant-f-sg	fra	Violetta	np-ant-f-sg
 	oci	Violeta	np$np-ant-f-sg	fra	Violeta	np-ant-f-sg$np$np-ant
 	oci	Rosanna	np-ant-f-sg	fra	Rosanna	np-ant-f-sg
-	oci	Rina	np-ant-f-sg	fra	Rina	np$np-ant-f-sg$np-ant
+	oci	Rina	np-ant-f-sg	fra	Rina	np-ant-f-sg$np$np-ant
 	oci	Oria	np-ant-f-sg	fra	Oria	np-ant-f-sg
-	oci	Montana	np-ant-f-sg	fra	Montana	np-ant-f-sg
+	oci	Montana	np-ant-f-sg$np	fra	Montana	np-ant-f-sg
 	oci	Margarete	np-ant-f-sg	fra	Margarete	np-ant-f-sg
 	oci	Ludovica	np-ant-f-sg	fra	Ludovica	np-ant-f-sg
 	oci	Kendra	np-ant-f-sg	fra	Kendra	np-ant-f-sg
@@ -36259,7 +36278,7 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Gisela	np$np-ant-f-sg	fra	Gisela	np-ant-f-sg
 	oci	Giorgia	np-ant-f-sg	fra	Giorgia	np-ant-f-sg
 	oci	Soledad	np$np-ant-f-sg	fra	Soledad	np-ant-f-sg
-	oci	Solana	np-ant-f-sg	fra	Solana	np$np-ant-f-sg$np-ant
+	oci	Solana	np$np-ant-f-sg	fra	Solana	np-ant-f-sg$np$np-ant
 	oci	Samira	np-ant-f-sg	fra	Samira	np-ant-f-sg
 	oci	Samia	np-ant-f-sg	fra	Samia	np-ant-f-sg
 	oci	Magalie	np-ant-f-sg	fra	Magalie	np-ant-f-sg$np-ant
@@ -36268,15 +36287,15 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Ludivina	np-ant-f-sg	fra	Ludivine	np-ant-f-sg
 	oci	Ludivina	np-ant-f-sg	fra	Ludivina	np-ant-f-sg
 	oci	Lisbeth	np-ant-f-sg	fra	Lisbeth	np-ant-f-sg
-	oci	Liberty	np-ant-f-sg	fra	Liberty	np$np-ant-f-sg$np-ant
+	oci	Liberty	np-ant-f-sg	fra	Liberty	np-ant-f-sg$np$np-ant
 	oci	Kaitlyn	np-ant-f-sg	fra	Kaitlyn	np-ant-f-sg
-	oci	Josefa	np$np-ant-f-sg	fra	Josefa	np$np-ant-f-sg$np-ant
+	oci	Josefa	np$np-ant-f-sg	fra	Josefa	np-ant-f-sg$np$np-ant
 	oci	Isabela	np-ant-f-sg	fra	Isabela	np-ant-f-sg
 	oci	Íngrid	np-ant-f-sg	fra	Íngrid	np-ant-f-sg$np
 	oci	Ileana	np-ant-f-sg	fra	Ileana	np-ant-f-sg
 	oci	Gwendolyn	np-ant-f-sg	fra	Gwendolyn	np-ant-f-sg
 	oci	Graziella	np-ant-f-sg	fra	Graziella	np-ant-f-sg
-	oci	Giuliana	np-ant-f-sg	fra	Giuliana	np$np-ant-f-sg$np-ant
+	oci	Giuliana	np-ant-f-sg	fra	Giuliana	np-ant-f-sg$np$np-ant
 	oci	Galaad	np-ant-f-sg	fra	Galaad	np-ant-f-sg
 	oci	Elissa	np-ant-f-sg	fra	Elissa	np-ant-f-sg
 	oci	Catharine	np-ant-f-sg	fra	Catharine	np-ant-f-sg
@@ -36303,11 +36322,11 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Milagros	np-ant-f-sg	fra	Milagros	np-ant-f-sg
 	oci	Michelle Bachelet	np-ant-f-sg	fra	Michelle Bachelet	np-ant-f-sg
 	oci	Michela	np-ant-f-sg	fra	Michela	np-ant-f-sg
-	oci	Micaela	np-ant-f-sg	fra	Micaela	np$np-ant-f-sg$np-ant
+	oci	Micaela	np-ant-f-sg	fra	Micaela	np-ant-f-sg$np$np-ant
 	oci	Malia	np-ant-f-sg	fra	Malia	np-ant-f-sg
 	oci	Lupe	np-ant-f-sg	fra	Lupe	np-ant-f-sg
 	oci	Luana	np-ant-f-sg	fra	Luana	np-ant-f-sg
-	oci	Liliana	np$np-ant-f-sg	fra	Liliana	np$np-ant-f-sg$np-ant
+	oci	Liliana	np$np-ant-f-sg	fra	Liliana	np-ant-f-sg$np$np-ant
 	oci	Karolina	np-ant-f-sg	fra	Karolina	np-ant-f-sg
 	oci	Juanita	np-ant-f-sg	fra	Juanita	np-ant-f-sg
 	oci	Jordan	np-ant-f-sg$np	fra	Jordana	np$np-ant-f-sg$np-ant
@@ -36317,7 +36336,7 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Hallie	np-ant-f-sg	fra	Hallie	np-ant-f-sg
 	oci	Glenda	np-ant-f-sg	fra	Glenda	np-ant-f-sg
 	oci	Dilma	np-ant-f-sg	fra	Dilma	np-ant-f-sg
-	oci	Bea	np-ant-f-sg	fra	Bea	np$np-ant$np-ant-f-sg
+	oci	Bea	np$np-ant-f-sg	fra	Bea	np-ant-f-sg$np$np-ant
 	oci	Arlene	np-ant-f-sg	fra	Arlene	np-ant-f-sg
 	oci	Anjali	np-ant-f-sg	fra	Anjali	np-ant-f-sg
 	oci	Vreni	np-ant-f-sg	fra	Vreni	np-ant-f-sg
@@ -36328,11 +36347,11 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Filomena	np-ant-f-sg	fra	Filomena	np-ant-f-sg
 	oci	Elmira	np-ant-f-sg	fra	Elmira	np-ant-f-sg
 	oci	Darlene	np-ant-f-sg	fra	Darlene	np-ant-f-sg
-	oci	Condoleezza	np$np-ant-f-sg	fra	Condoleezza	np$np-ant-f-sg$np-ant
+	oci	Condoleezza	np$np-ant-f-sg	fra	Condoleezza	np-ant-f-sg$np$np-ant
 	oci	Chiquita	np-ant-f-sg	fra	Chiquita	np-ant-f-sg
 	oci	Camila	np-ant-f-sg	fra	Camila	np-ant-f-sg
 	oci	Azucena	np-ant-f-sg	fra	Azucena	np-ant-f-sg
-	oci	Amparo	np-ant-f-sg	fra	Amparo	np$np-ant-f-sg$np-ant
+	oci	Amparo	np-ant-f-sg	fra	Amparo	np-ant-f-sg$np$np-ant
 	oci	Alana	np-ant-f-sg	fra	Alana	np-ant-f-sg
 	oci	Aileen	np-ant-f-sg	fra	Aileen	np-ant-f-sg
 	oci	Zaria	np-ant-f-sg	fra	Zaria	np-ant-f-sg
@@ -36366,11 +36385,11 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Patrizia	np-ant-f-sg	fra	Patrizia	np-ant-f-sg
 	oci	Palmira	np-ant-f-sg	fra	Palmira	np-ant-f-sg
 	oci	Ornella	np-ant-f-sg	fra	Ornella	np-ant-f-sg
-	oci	Nuria	np$np-ant-f-sg	fra	Nuria	np$np-ant-f-sg$np-ant
-	oci	Natividad	np$np-ant-f-sg	fra	Natividad	np$np-ant-f-sg$np-ant
+	oci	Nuria	np$np-ant-f-sg	fra	Nuria	np-ant-f-sg$np$np-ant
+	oci	Natividad	np$np-ant-f-sg	fra	Natividad	np-ant-f-sg$np$np-ant
 	oci	Mirabelle	np-ant-f-sg	fra	Mirabelle	np-ant-f-sg
 	oci	Millicent	np-ant-f-sg	fra	Millicent	np-ant-f-sg
-	oci	Meritxell	np$np-ant-f-sg	fra	Meritxell	np$np-ant-f-sg
+	oci	Meritxell	np$np-ant-f-sg	fra	Meritxell	np-ant-f-sg$np
 	oci	Marlee	np-ant-f-sg	fra	Marlee	np-ant-f-sg
 	oci	Madona	np-ant-f-sg	fra	Madona	np-ant-f-sg
 	oci	Maddison	np-ant-f-sg	fra	Maddison	np-ant-f-sg
@@ -36391,7 +36410,7 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Chaya	np-ant-f-sg	fra	Chaya	np-ant-f-sg
 	oci	Caridad	np-ant-f-sg	fra	Caridad	np-ant-f-sg
 	oci	Benita	np-ant-f-sg	fra	Benita	np-ant-f-sg
-	oci	Annabella	np-ant-f-sg	fra	Annabella	np$np-ant-f-sg$np-ant
+	oci	Annabella	np-ant-f-sg	fra	Annabella	np-ant-f-sg$np$np-ant
 	oci	Rigoberta	np-ant-f-sg	fra	Rigoberta	np-ant-f-sg
 	oci	Perpetua	np-ant-f-sg	fra	Perpetua	np-ant-f-sg
 	oci	Ona	np-ant-f-sg	fra	Ona	np-ant-f-sg
@@ -36400,7 +36419,7 @@ LR	oci	Vinhana	np$np-top-f-sg	fra	Vienne	np$np-top-f-sg$np-top-f
 	oci	Mariella	np-ant-f-sg	fra	Mariella	np-ant-f-sg
 	oci	Maria Magdalena	np-ant-f-sg	fra	Maria Magdalena	np-ant-f-sg
 	oci	Maé	np-ant-f-sg	fra	Maé	np-ant-f-sg
-	oci	Loyola	np-ant-f-sg	fra	Loyola	np$np-ant-f-sg
+	oci	Loyola	np$np-ant-f-sg	fra	Loyola	np-ant-f-sg$np
 	oci	Kyla	np-ant-f-sg	fra	Kyla	np-ant-f-sg
 	oci	Kenzie	np-ant-f-sg	fra	Kenzie	np-ant-f-sg
 	oci	Katya	np-ant-f-sg	fra	Katya	np-ant-f-sg
@@ -36544,7 +36563,7 @@ LR	oci	Massís Septentrional	np-top-m-sg	fra	Massif Central	np$np-top-m-sg
 	oci	Petra	np-top-f-sg	fra	Petra	np$np-top-f-sg
 	oci	Kaliningrad	np$np-top-m-sg	fra	Kaliningrad	np$np-top-m-sg
 	oci	Anfield	np-top-m-sg	fra	Anfield	np$np-top-m-sg
-RL	oci	Tolosa	np$np-top-f-sg	fra	Tolosa	np-top-f-sg
+RL	oci	Tolosa	np-top-f-sg$np	fra	Tolosa	np-top-f-sg
 	oci	Rioja	np-top-f-sg	fra	Rioja	np-top-f-sg$np
 	oci	Ribeiro	np-top-m-sg	fra	Ribeiro	np-top-m-sg
 	oci	Prat	np-top-m-sg	fra	Prat	np$np-top-m-sg$np-top
@@ -36903,7 +36922,6 @@ LR	oci	Berezovski	np-cog-mf-sp	fra	Berezovski	np$np-cog-mf-sp
 	oci	Aimar	np-cog-mf-sp	fra	Aimar	np$np-cog-mf-sp
 	oci	Aizarnazabal	np-cog-mf-sp	fra	Aizarnazabal	np$np-cog-mf-sp
 	oci	Aizpitarte	np-cog-mf-sp	fra	Aizpitarte	np$np-cog-mf-sp
-	oci	Akinfeev	np-cog-mf-sp	fra	Akinfeev	np$np-cog-mf-sp
 	oci	Al-Mansor	np-cog-mf-sp	fra	Al-Mansor	np-cog-mf-sp
 	oci	Albasini	np-cog-mf-sp	fra	Albasini	np$np-cog-mf-sp
 	oci	Albert	np$np-cog-mf-sp	fra	Albert	np-cog-mf-sp
@@ -37048,3 +37066,1767 @@ RL	oci	a posteriori	adv	fra	à posteriori	adv
 	oci	populista	adj	fra	populniste	adj
 	oci	deplorable	adj	fra	déplorable	adj$adj-mf
 	oci	renovelament	n-m	fra	renouveau	n-m
+	oci	Angòla	np$np-top-f-sg	fra	Angola	np$np-top-m-sg$np-top$np-top-m
+	oci	Cap Verd	np$np-top-m-sg	fra	Cap-Vert	np-top$np-top-m$np-top-m-sg
+	oci	Comòras	np$np-top-f-pl	fra	Comores	np$np-top-f-pl$np-top
+	oci	Republica democratica de Còngo	np-top-f-sg	fra	République démocratique du Congo	np-top-f-sg
+	oci	Jiboti	np$np-top-m-sg	fra	Djibouti	np-top-m$np-top$np-top-m-sg
+	oci	Guinèa Equatoriala	np$np-top-f-sg	fra	Guinée équatoriale	np-top-f-sg$np-top$np-top-f
+	oci	Lesotho	np$np-top-m-sg	fra	Lesotho	np$np-top-m$np-top$np-top-m-sg
+	oci	Libèria	np$np-top-f-sg	fra	Libéria	np$np-top$np-top-m$np-top-m-sg
+	oci	Moçambic	np$np-top-m-sg	fra	Mozambique	np$np-top-m$np-top-m-sg$np-top
+	oci	Namibia	np$np-top-f-sg	fra	Namibie	np$np-top-f$np-top-f-sg$np-top
+	oci	Nigèr	np$np-top-m-sg	fra	Niger	np$np-top-m$np-top-m-sg$np-top
+	oci	Oganda	np$np-top-f-sg	fra	Ouganda	np-top-m$np-top-m-sg
+	oci	São Tomé e Príncipe	np-top-m-sg	fra	Sao Tomé-et-Principe	np-top$np-top-m-sg
+	oci	Seichèlas	np$np-top-f-pl	fra	Seychelles	np$np-top-f-pl$np-top
+	oci	Sierra Leone	np$np-top-m-sg	fra	Sierra Leone	np$np-top-f$np-top-f-sg$np-top
+	oci	Somalia	np$np-top-f-sg	fra	Somalie	np$np-top-f$np-top$np-top-f-sg
+	oci	Somaliland	np-top-m-sg	fra	Somaliland	np$np-top$np-top-m-sg
+	oci	Sodan del Sud	np-top-m-sg	fra	Soudan du Sud	np-top-m-sg
+	oci	Swaziland	np$np-top-m-sg	fra	Swaziland	np$np-top-m-sg$np-top$np-top-m
+LR	oci	Swatini	np-top-m-sg	fra	Swaziland	np$np-top-m-sg$np-top$np-top-m
+	oci	Tanzania	np$np-top-f-sg	fra	Tanzanie	np$np-top-f$np-top-f-sg$np-top
+	oci	Chad	np$np-top-m-sg	fra	Tchad	np$np-top-m-sg$np-top$np-top-m
+	oci	Tògo	np$np-top-m-sg	fra	Togo	np$np-top-m$np-top-m-sg$np-top
+	oci	Antigua e Barbuda	np$np-top-f-sg	fra	Antigua-et-Barbuda	np$np-top$np-top-f$np-top-f-sg
+	oci	Barbados	np$np-top-m-sg	fra	Barbade	np-top-f$np-top-f-sg
+	oci	Belize	np$np-top-m-sg	fra	Belize	np$np-top-m$np-top$np-top-m-sg
+LR	oci	Bolívia	np$np-top-f-sg	fra	Bolivie	np$np-top-f-sg$np-top-f$np-top
+	oci	Dominique	np-top-f-sg	fra	Dominique	np-top-f-sg$np-top$np-top-f
+	oci	Grenada	np$np-top-f-sg	fra	Grenade	np$np-top-f$np-top-f-sg
+RL	oci	Guaiana	np$np-top-f-sg	fra	Guyana	np$np-top$np-top-f$np-top-f-sg
+	oci	Onduras	np-top-m-sg	fra	Honduras	np$np-top-m-sg$np-top$np-top-m
+	oci	Paraguai	np$np-top-m-sg	fra	Paraguay	np$np-top-m$np-top-m-sg$np-top
+	oci	Sant Cristòl e Nevis	np$np-top-m-sg	fra	Saint-Christophe-et-Niévès	np-top-m-sg
+	oci	Santa Lúcia	np-top-f-sg	fra	Sainte-Lucie	np-top-f-sg
+	oci	Sant-Vincent-e-los-Grenadines	np-top-m-sg	fra	Saint-Vincent-et-les-Grenadines	np-top-m-sg
+LR	oci	Lo Salvador	np$np-top-m-sg	fra	Salvador	np$np-top-m-sg$np-top$np-top-m
+	oci	Veneçuèla	np$np-top-f-sg	fra	Vénézuela	np-top-m-sg
+	oci	Porto Rico	np-top-m-sg	fra	Porto Rico	np-top-m$np-top-m-sg
+	oci	Anguilha	np-top-f-sg	fra	Anguilla	np$np-top$np-top-f-sg
+	oci	Bermudas	np$np-top-f-pl	fra	Bermudes	np$np-top-f-pl
+	oci	Bonaire	np-top-f-sg	fra	Bonaire	np-top-f-sg
+	oci	illas Caiman	np-top-f-pl	fra	îles Caïmans	np-top-f-pl
+	oci	illa de Clipperton	np-top-f-sg	fra	île de Clipperton	np-top-f-sg
+	oci	Curaçao	np-top-m-sg	fra	Curaçao	np-top-m-sg
+	oci	Georgia del Sud e Sandwich del Sud	np-top-f-sg	fra	Géorgie du Sud-et-les Îles Sandwich du Sud	np-top-f-sg
+	oci	Groenlàndia	np$np-top-f-sg	fra	Groenland	np$np-top-m-sg$np-top
+	oci	Guaiana francesa	np-top-f-sg	fra	Guyane française	np-top-f-sg
+	oci	illas Malvinas	np-top-f-pl	fra	îles Malouines	np-top-f-pl
+	oci	Sant Pèire e Miquelon	np$np-top-m-sg	fra	Saint-Pierre-et-Miquelon	np-top-m-sg
+	oci	illas Turcas e Caïcas	np-top-f-pl	fra	îles Turques-et-Caïques	np-top-f-pl
+	oci	Illas Verges	np-top-f-pl	fra	Îles Vierges	np$np-top-f$np-top-f-pl
+	oci	Illas Verges Britanicas	np-top-f-pl	fra	Îles Vierges britanniques	np$np-top-f$np-top-f-pl
+	oci	Illas Verges Americanas	np-top-f-pl	fra	Îles Vierges américaines	np$np-top-f-pl
+LR	oci	Arabia Saudita	np$np-top-f-sg	fra	Arabie saoudite	np-top-f-sg$np$np-top$np-top-f
+	oci	Azerbaitjan	np$np-top-m-sg	fra	Azerbaïdjan	np$np-top-m$np-top-m-sg$np-top
+	oci	Bangladèsh	np$np-top-m-sg	fra	Bangladesh	np-top-m$np-top-m-sg
+	oci	Botan	np$np-top-m-sg	fra	Bhoutan	np$np-top$np-top-m$np-top-m-sg
+	oci	Brunei	np$np-top-m-sg	fra	Brunei	np-top$np-top-m-sg
+	oci	Cambòtja	np$np-top-f-sg	fra	Cambodge	np$np-top$np-top-m$np-top-m-sg
+	oci	Émirats Arabis Units	np-top-m-pl	fra	Émirats arabes unis	np-top-m-pl$np-top
+	oci	Quirguizstan	np$np-top-m-sg	fra	Kirghizistan	np$np-top-m-sg$np-top
+	oci	Kowait	np$np-top-m-sg	fra	Koweït	np$np-top-m$np-top$np-top-m-sg
+	oci	Laos	np$np-top-m-sg	fra	Laos	np$np-top-m$np-top$np-top-m-sg
+	oci	Ozbequistan	np$np-top-m-sg	fra	Ouzbékistan	np$np-top-m$np-top-m-sg$np-top
+	oci	Qatar	np$np-top-m-sg	fra	Qatar	np$np-top-m$np-top-m-sg$np-top
+	oci	Sri Lanka	np$np-top-m-sg	fra	Sri Lanka	np$np-top$np-top-m$np-top-m-sg
+	oci	Tatgiquistan	np$np-top-m-sg	fra	Tadjikistan	np$np-top-m$np-top-m-sg$np-top
+	oci	Turcmenistan	np$np-top-m-sg	fra	Turkménistan	np$np-top-m-sg$np-top$np-top-m
+RL	oci	Vietnam	np$np-top-m-sg	fra	Viêt Nam	np-top$np-top-m-sg
+	oci	Curdistan	np$np-top-m-sg	fra	Kurdistan	np$np-top-m-sg$np-top$np-top-m
+	oci	Macau	np$np-top-m-sg	fra	Macao	np$np-top-m-sg
+	oci	Abcazia	np-top-f-sg	fra	Abkhazie	np$np-top-f-sg
+	oci	Naut Karabagh	np$np-top-m-sg	fra	Haut-Karabagh	np-top$np-top-m-sg
+	oci	Ossetia	np$np-top-f-sg	fra	Ossétie	np$np-top-f-sg
+	oci	Ossetia del Sud	np-top-f-sg	fra	Ossétie du Sud	np-top-f-sg$np$np-top
+LR	oci	Ossetia dau Sud	np-top-f-sg	fra	Ossétie du Sud	np-top-f-sg$np$np-top
+RL	oci	Taiwan	np$np-top-m-sg	fra	Taïwan	np-top-m$np-top-m-sg
+	oci	Ercegovina	np$np-top-f-sg	fra	Herzégovine	np-top-f-sg
+	oci	Reiaume Unit	np-top-m-sg	fra	Royaume-Uni	np-top-m-sg$np$np-top-m$np-top
+	oci	Santa Ses	np$np-top-f-sg	fra	Saint-Siège	np-top-m-sg
+	oci	Guernesey	np-top-m-sg	fra	Guernesey	np-top$np$np-top-m-sg
+LR	oci	Jersei	np-top-m-sg	fra	Jersey	np$np-top-m-sg$np-top$np-top-m
+	oci	Illa de Man	np-top-f-sg	fra	Île de Man	np$np-top$np-top-f-sg
+	oci	Fiji	np$np-top-f-pl	fra	Fidji	np$np-top-f-pl$np-top-f
+	oci	illas Marshall	np-top-f-pl	fra	îles Marshall	np-top-f-pl
+	oci	Micronesia	np$np-top-f-sg	fra	Micronésie	np$np-top-f$np-top-f-sg
+	oci	Belau	np$np-top-f-pl	fra	Palaos	np$np-top-f-pl
+	oci	Papoa-Nòva Guinèa	np-top-f-sg	fra	Papouasie-Nouvelle-Guinée	np$np-top-f-sg$np-top$np-top-f
+	oci	Papoa	np-top-f-sg	fra	Papouasie	np-top-f-sg
+	oci	Nòva Guinèa	np-top-f-sg	fra	Nouvelle-Guinée	np$np-top-f-sg
+	oci	Salomon	np-top-f-pl	fra	Salomon	np-top-f-pl
+	oci	Tònga	np$np-top-f-pl	fra	Tonga	np$np-top-f-pl$np-top$np-top-f
+	oci	illas Midway	np-top-f-pl	fra	îles Midway	np-top-f-pl
+	oci	illas de Pitcairn	np-top-f-pl	fra	îles Pitcairn	np-top-f-pl
+	oci	illas Chatham	np-top-f-pl	fra	îles Chatham	np-top-f-pl
+	oci	illas Tuamotu	np-top-f-pl	fra	îles Tuamotu	np-top-f-pl
+	oci	Polinesia Francesa	np$np-top-f-sg	fra	Polynésie française	np$np-top-f$np-top-f-sg
+	oci	Samoa Americana	np-top-f-pl	fra	Samoa américaines	np$np-top$np-top-f-pl
+	oci	illas Tokelau	np-top-f-pl	fra	îles Tokelau	np-top-f-pl
+LR	oci	illas Toquelau	np-top-f-pl	fra	îles Tokelau	np-top-f-pl
+	oci	illas Marquesas	np-top-f-pl	fra	îles Marquises	np-top-f-pl
+	oci	Wallis e Futuna	np$np-top-m-sg	fra	Wallis-et-Futuna	np-top-m-sg
+	oci	Wallis	np-top-m-sg	fra	Wallis	np-top-m-sg
+	oci	Futuna	np-top-f-sg	fra	Futuna	np-top-f-sg
+	oci	Illa de Pascas	np-top-f-sg	fra	Île de Pâques	np$np-top-f$np-top-f-sg
+	oci	illas Australas	np$np-top-f-pl	fra	îles Australes	np-top-f-pl
+	oci	Tèrra d'Adelia	np-top-f-sg	fra	Terre-Adélie	np-top-f-sg
+	oci	beninés	n	fra	Béninois	n$n-m-sp
+	oci	botswanés	n	fra	Botswanais	n-m-sp$n
+	oci	burundés	n	fra	Burundais	n-m-sp$n
+	oci	capverdian	n	fra	Cap-Verdien	n$n-m
+	oci	centrafrican	n	fra	Centrafricain	n$n-m
+	oci	comorian	n	fra	Comorien	n$n-m
+	oci	jibotian	n	fra	Djiboutien	n$n-m
+	oci	gabonés	n	fra	Gabonais	n$n-m-sp
+	oci	gambian	n	fra	Gambien	n$n-m
+	oci	ghanés	n	fra	Ghanéen	n$n-m
+	oci	bissauguinean	n	fra	Bissaoguinéen	n
+	oci	equatoguinean	n	fra	Équatoguinéen	n
+	oci	kenyan	n	fra	Kenyan	n$n-m
+	oci	liberian	n	fra	Libérien	n$n-m
+	oci	malawian	n	fra	Malawite	n-mf$n
+	oci	malawian	n	fra	Malawien	n
+	oci	malian	n	fra	Malien	n-m$n
+	oci	maurician	n	fra	Mauricien	n$n-m
+	oci	mauritan	n	fra	Mauritanien	n$n-m
+	oci	moçambiqués	n	fra	Mozambicain	n
+	oci	namibian	n	fra	Namibien	n$n-m
+	oci	oganés	n	fra	Ougandais	n-m-sp$n
+	oci	rwandés	n	fra	Rwandais	n-m-sp$n
+	oci	seichelés	n	fra	Seychellois	n$n-m-sp
+LR	oci	seichelian	n	fra	Seychellois	n$n-m-sp
+	oci	sierraleonés	n	fra	Sierraléonais	n
+	oci	somalian	n	fra	somalien	n$n-f
+	oci	sud-sodanés	n	fra	Sud-soudanais	n
+	oci	tanzanian	n	fra	Tanzanien	n$n-m
+	oci	chadian	n	fra	Tchadien	n$n-m
+	oci	togolés	n	fra	Togolais	n$n-m-sp
+	oci	zambian	n	fra	Zambien	n$n-m
+	oci	zimbabwean	n	fra	Zimbabwéen	n$n-m
+LR	oci	zimbabwés	n	fra	Zimbabwéen	n$n-m
+	oci	antigués	n	fra	Antiguayen	n
+	oci	bahamean	n	fra	Bahaméen	n$n-m
+	oci	barbadian	n	fra	Barbadien	n$n-m
+	oci	belizian	n	fra	Bélizien	n$n-m
+	oci	bolivian	n	fra	bolivien	n
+RL	oci	canadian	n	fra	canadien	n
+RL	oci	canadenc	n	fra	canadien	n
+	oci	chilen	n	fra	Chilien	n$n-m
+LR	oci	chilian	n	fra	Chilien	n$n-m
+	oci	colombian	n	fra	Colombien	n$n-m
+	oci	còstarican	n	fra	Costaricien	n
+	oci	dominiqués	n	fra	Dominiquais	n
+	oci	equatorian	n	fra	Équatorien	n
+	oci	haician	n	fra	Haïtien	n$n-m
+	oci	paraguaian	n	fra	Paraguayen	n
+LR	oci	veneçola	n	fra	Vénézuélien	n$n-m
+	oci	bermudian	n	fra	Bermudien	n$n-m
+	oci	groenlandés	n	fra	groenlandais	n
+	oci	guaianés	n	fra	Guyanais	n-m-sp$n
+	oci	martiniqués	n	fra	Martiniquais	n-m-sp$n
+	oci	bengalin	n	fra	bengali	n
+	oci	botanés	n	fra	Bhoutanais	n-m-sp$n
+	oci	birman	n	fra	birman	n
+	oci	cambotjan	n	fra	Cambodgien	n$n-m
+	oci	nòrd-corean	n	fra	Nord-Coréen	n
+	oci	sud-corean	n	fra	Sud-Coréen	n
+RL	oci	georgian	n	fra	géorgien	n
+RL	oci	iraquian	n	fra	Iraquien	n
+	oci	jordanian	n	fra	Jordanien	n$n-m
+	oci	kowaitian	n	fra	Koweïtien	n
+	oci	laossian	n	fra	laotien	n
+	oci	maldivian	n	fra	Maldivien	n$n-m
+	oci	omanita	n	fra	Omanais	n
+LR	oci	omanés	n	fra	Omanais	n
+	oci	filipin	n	fra	Philippin	n$n-m
+	oci	qatarian	n	fra	Qatarien	n
+	oci	qatarian	n	fra	Qatari	n$n-m
+	oci	singaporian	n	fra	Singapourien	n$n-m
+	oci	srilankés	n	fra	Srilankais	n-m-sp$n
+LR	oci	tailandés	n	fra	thaïlandais	n-m-sp$n
+	oci	timorés	n	fra	Timorais	n
+	oci	turcmèn	n	fra	turkmène	n
+	oci	iemenita	n-mf	fra	Yéménite	n-mf
+	oci	taiwanés	n	fra	taïwanais	n
+LR	oci	formosan	n	fra	taïwanais	n
+	oci	andorran	n	fra	Andorran	n$n-m
+LR	oci	bosnian	n	fra	bosniaque	n
+	oci	montenegrin	n	fra	montenégrin	n
+	oci	manés	n	fra	mannois	n
+	oci	fijian	n	fra	Fidjien	n$n-m
+	oci	kiribatian	n	fra	Gilbertin	n
+	oci	marshallés	n	fra	Marshallais	n
+	oci	micronesian	n	fra	Micronésien	n$n-m
+	oci	nauruan	n	fra	Nauruan	n
+	oci	belauan	n	fra	Paluan	n
+	oci	samoan	n	fra	Samoan	n$n-m
+	oci	tongian	n	fra	Tongien	n$n-m
+LR	oci	tongalés	n	fra	Tongien	n$n-m
+	oci	tuvaluan	n	fra	Tuvaluan	n$n-m
+	oci	chamorro	n-m-sg	fra	chamorro	n-m-sg
+	oci	hawaiian	n	fra	hawaïen	n
+RL	oci	caledonian	n	fra	Néo-Calédonien	n$n-m
+	oci	caledonian	n	fra	Calédonien	n
+	oci	polinesian	n	fra	Polynésien	n$n-m
+	oci	marquesian	n	fra	Marquisien	n
+	oci	burkinabe	n	fra	Burkinabé	n$n-m
+	oci	eritrèu	n	fra	Érythréen	n$n-f
+	oci	basuto	n	fra	Lésothan	n$n-m
+	oci	basuto	n	fra	Lésothien	n
+	oci	malgash	n	fra	malgache	n
+	oci	nigerin	n	fra	Nigérien	n$n-m
+	oci	swazi	n	fra	swazi	n
+RL	oci	canadian	n	fra	canadien	n
+RL	oci	canadenc	n	fra	canadien	n
+	oci	guatemalenc	n	fra	Guatémaltèque	n-mf$n
+LR	oci	guatemaltèc	n	fra	Guatémaltèque	n-mf$n
+	oci	ondurenc	n	fra	Hondurien	n$n-m
+	oci	nicaragüenc	n	fra	nicaraguayen	n
+	oci	panamenc	n	fra	Panaméen	n$n-m
+	oci	guadalopenc	n	fra	Guadeloupéen	n$n-m
+RL	oci	azèri	n	fra	azerbaïdjanais	n
+	oci	bahraini	n	fra	Bahreïnien	n
+	oci	bangladeshi	n	fra	Bangladais	n-m-sp$n
+RL	oci	georgian	n	fra	géorgien	n
+RL	oci	iraquian	n	fra	Iraquien	n
+LR	oci	kazakh	n	fra	Kenyan	n$n-m
+	oci	quirguiz	n	fra	kirghiz	n
+	oci	malai	n	fra	Malaisien	n
+	oci	tai	n	fra	thaïlandais	n-m-sp$n
+RL	oci	abcaz	n	fra	Abkhazien	n
+	oci	ossèt	n	fra	ossète	n
+	oci	bosniac	n	fra	bosniaque	n
+	oci	monegasc	n	fra	Monégasque	n
+RL	oci	chèc	n$n-m	fra	tchèque	n-mf$n
+RL	oci	ucraïnian	n	fra	ukrainien	n
+RL	oci	ucraïnés	n	fra	ukrainien	n
+	oci	kosovar	n	fra	Kosovar	n$n-m
+	oci	papó	n	fra	Papouasien	n
+	oci	vanuatuenc	n	fra	Vanuatais	n
+	oci	toquelauenc	n	fra	Tokelauan	n
+	oci	ozbèc	n	fra	ouzbek	n
+	oci	ozbèc	adj	fra	ouzbek	adj$adj-GD-ND
+	oci	beninés	adj	fra	béninois	adj$adj-GD-ND
+	oci	botswanés	adj	fra	botswanais	adj-GD-ND$adj
+	oci	burkinabe	adj	fra	burkinabé	adj$adj-GD-ND
+	oci	burundés	adj	fra	burundais	adj$adj-GD-ND
+	oci	capverdian	adj	fra	cap-verdien	adj
+	oci	centrafrican	adj	fra	centrafricain	adj
+	oci	comorian	adj	fra	comorien	adj$adj-GD-ND
+	oci	jibotian	adj	fra	djiboutien	adj-GD-ND$adj
+	oci	eritrèu	adj	fra	érythréen	adj-GD-ND$adj
+	oci	etiòp	adj	fra	éthiopien	adj$adj-GD-ND
+	oci	gabonés	adj	fra	gabonais	adj$adj-GD-ND
+	oci	gambian	adj	fra	gambien	adj$adj-GD-ND
+	oci	ghanés	adj	fra	ghanéen	adj$adj-GD-ND
+	oci	bissauguinean	adj	fra	bissaoguinéen	adj
+	oci	equatoguinean	adj	fra	équatoguinéen	adj
+	oci	kenyan	adj	fra	kenyan	adj$adj-GD-ND
+	oci	basuto	adj	fra	lésothan	adj-GD-ND$adj
+	oci	basuto	adj	fra	lésothien	adj
+	oci	liberian	adj	fra	libérien	adj-GD-ND$adj
+	oci	malgash	adj	fra	malgache	adj$adj-mf-ND
+	oci	malawian	adj	fra	malawite	adj-mf-ND$adj
+	oci	malawian	adj	fra	malawien	adj
+	oci	malian	adj	fra	malien	adj$adj-GD-ND$adj-GD
+	oci	maurician	adj	fra	mauricien	adj-GD-ND$adj
+	oci	mauritan	adj	fra	mauritanien	adj$adj-GD-ND
+	oci	moçambiqués	adj	fra	mozambicain	adj
+	oci	namibian	adj	fra	namibien	adj-GD-ND$adj
+	oci	nigerin	adj	fra	nigérien	adj$adj-GD-ND
+	oci	oganés	adj	fra	ougandais	adj$adj-GD-ND
+	oci	rwandés	adj	fra	rwandais	adj$adj-GD-ND
+	oci	seichelés	adj	fra	seychellois	adj$adj-GD-ND
+LR	oci	seichelian	adj	fra	seychellois	adj$adj-GD-ND
+	oci	sierraleonés	adj	fra	sierraléonais	adj
+	oci	somalian	adj	fra	somalien	adj$adj-GD-ND$adj-GD
+LR	oci	somali	adj	fra	somalien	adj$adj-GD-ND$adj-GD
+	oci	sud-sodanés	adj	fra	sud-soudanais	adj
+	oci	swazi	adj	fra	swazi	adj-mf-ND$adj
+	oci	tanzanian	adj	fra	tanzanien	adj-GD-ND$adj
+	oci	chadian	adj	fra	tchadien	adj$adj-GD-ND
+	oci	togolés	adj	fra	togolais	adj$adj-GD-ND
+	oci	zambian	adj	fra	zambien	adj-GD-ND$adj
+	oci	zimbabwean	adj	fra	zimbabwéen	adj$adj-GD-ND
+LR	oci	zimbabwés	adj	fra	zimbabwéen	adj$adj-GD-ND
+	oci	antigués	adj	fra	antiguayen	adj
+	oci	bahamean	adj	fra	bahaméen	adj$adj-GD-ND
+LR	oci	bahamenc	adj	fra	bahaméen	adj$adj-GD-ND
+	oci	barbadian	adj	fra	barbadien	adj$adj-GD-ND
+LR	oci	barbadenc	adj	fra	barbadien	adj$adj-GD-ND
+	oci	belizian	adj	fra	bélizien	adj-GD-ND$adj
+	oci	bolivian	adj	fra	bolivien	adj$adj-GD-ND
+	oci	brasilenc	adj	fra	brésilien	adj$adj-GD-ND
+	oci	chilen	adj	fra	chilien	adj$adj-GD-ND
+LR	oci	chilian	adj	fra	chilien	adj$adj-GD-ND
+	oci	còstarican	adj	fra	costaricien	adj$adj-f
+LR	oci	còstariquenc	adj	fra	costaricien	adj$adj-f
+	oci	dominiqués	adj	fra	dominiquais	adj
+	oci	equatorian	adj	fra	équatorien	adj
+	oci	guatemalenc	adj	fra	guatémaltèque	adj$adj-mf-ND
+LR	oci	guatemaltèc	adj	fra	guatémaltèque	adj$adj-mf-ND
+	oci	haician	adj	fra	haïtien	adj-GD-ND$adj
+	oci	ondurenc	adj	fra	hondurien	adj-GD-ND$adj
+	oci	nicaragüenc	adj	fra	nicaraguayen	adj
+	oci	panamenc	adj	fra	panaméen	adj-GD-ND$adj
+	oci	paraguaian	adj	fra	paraguayen	adj
+	oci	bermudian	adj	fra	bermudien	adj-GD-ND$adj
+	oci	groenlandés	adj	fra	groenlandais	adj$adj-GD-ND
+	oci	guadalopenc	adj	fra	guadeloupéen	adj-GD-ND$adj
+	oci	guaianés	adj	fra	guyanais	adj-GD-ND$adj
+	oci	martiniqués	adj	fra	martiniquais	adj-GD-ND$adj
+	oci	azèri	adj	fra	azéri	adj
+RL	oci	azèri	adj	fra	azerbaïdjanais	adj$adj-GD-ND
+	oci	azèri	n	fra	azéri	n$n-m-sg
+RL	oci	azèri	n	fra	azerbaïdjanais	n
+	oci	bahraini	adj	fra	bahreïnien	adj
+	oci	bengalin	adj	fra	bengali	adj
+	oci	bangladeshi	adj	fra	bangladais	adj-GD-ND$adj
+	oci	botanés	adj	fra	bhoutanais	adj-GD-ND$adj
+	oci	cambotjan	adj	fra	cambodgien	adj$adj-GD-ND
+LR	oci	khmer	adj	fra	cambodgien	adj$adj-GD-ND
+	oci	nòrd-corean	adj	fra	nord-coréen	adj
+RL	oci	iraquian	adj$adj-m	fra	iraquien	adj
+	oci	jordanian	adj	fra	jordanien	adj$adj-GD-ND
+	oci	kazakh	adj	fra	kenyan	adj$adj-GD-ND
+	oci	kowaitian	adj	fra	koweïtien	adj
+	oci	laossian	adj	fra	laotien	adj$adj-GD-ND
+	oci	malai	adj	fra	malaisien	adj
+	oci	maldivian	adj	fra	maldivien	adj-GD-ND$adj
+	oci	omanita	adj	fra	omanais	adj
+LR	oci	omanés	adj	fra	omanais	adj
+	oci	qatarian	adj	fra	qatarien	adj
+	oci	qatarian	adj	fra	qatari	adj-GD-ND$adj
+	oci	singaporian	adj	fra	singapourien	adj-GD-ND$adj
+	oci	srilankés	adj	fra	srilankais	adj-GD-ND$adj
+	oci	tatgic	adj	fra	tadjik	adj$adj-mf-ND
+	oci	tatgic	n	fra	tadjik	n
+LR	oci	tai	adj	fra	thaïlandais	adj$adj-m-sp
+	oci	timorés	adj	fra	timorais	adj
+	oci	turcmèn	adj	fra	turkmène	adj$adj-mf-ND
+	oci	iemenita	adj	fra	yéménite	adj-mf-ND$adj
+	oci	abcaz	adj	fra	abkhaze	adj-mf-ND$adj
+RL	oci	abcaz	adj	fra	abkhazien	adj
+	oci	abcaz	n	fra	abkhaze	n
+RL	oci	abcaz	n	fra	abkhazien	n
+	oci	ossèt	adj	fra	ossète	adj-mf-ND$adj
+	oci	taiwanés	adj	fra	taïwanais	adj$adj-GD-ND
+LR	oci	formosan	adj	fra	taïwanais	adj$adj-GD-ND
+	oci	andorran	adj	fra	andorran	adj$adj-GD-ND
+	oci	austriac	adj	fra	autrichien	adj$adj-GD-ND
+	oci	bosniac	adj	fra	bosniaque	adj$adj-mf-ND
+RL	oci	bosnian	adj	fra	bosniaque	adj$adj-mf-ND
+	oci	moldau	adj	fra	moldave	adj$adj-mf-ND
+	oci	monegasc	adj	fra	monégasque	adj
+	oci	montenegrin	adj	fra	montenégrin	adj
+	oci	manés	adj	fra	mannois	adj-GD-ND$adj
+	oci	kosovar	adj	fra	kosovar	adj$adj-GD-ND$adj-GD
+	oci	fijian	adj	fra	fidjien	adj$adj-GD-ND
+	oci	kiribatian	adj	fra	gilbertin	adj
+LR	oci	kiribatenc	adj	fra	gilbertin	adj
+	oci	marshallés	adj	fra	marshallais	adj
+	oci	micronesian	adj	fra	micronésien	adj-GD-ND$adj
+	oci	nauruan	adj	fra	nauruan	adj
+	oci	belauan	adj	fra	paluan	adj
+	oci	papó	adj	fra	papouasien	adj
+	oci	samoan	adj	fra	samoan	adj-GD-ND$adj
+	oci	tongian	adj	fra	tongien	adj$adj-GD-ND
+LR	oci	tongalés	adj	fra	tongien	adj$adj-GD-ND
+	oci	tuvaluan	adj	fra	tuvaluan	adj-GD-ND$adj
+	oci	vanuatuenc	adj	fra	vanuatais	adj
+	oci	hawaiian	adj	fra	hawaïen	adj
+	oci	caledonian	adj	fra	néo-calédonien	adj$adj-GD-ND
+	oci	polinesian	adj	fra	polynésien	adj$adj-GD-ND
+	oci	toquelauenc	adj	fra	tokelauan	adj
+	oci	marquesian	adj	fra	marquisien	adj
+	oci	raportar	vblex	fra	rapporter	vblex
+	oci	clavecin	n-m	fra	clavecin	n-m
+	oci	corsa	n-f$n	fra	contre-la-montre	n-m
+	oci	autonòm	n	fra	autonome	n
+	oci	bèlas arts	n-f-pl	fra	beaux-arts	n-m$n-m-pl
+	oci	Unesco	n-acr-f	fra	Unesco	n-acr-f
+	oci	zoologic	n-m	fra	zoologique	n-m$n
+	oci	marcatge	n$n-m	fra	marquage	n-m
+	oci	urina	n$n-f	fra	urine	n$n-f
+	oci	visat	n$n-m	fra	visa	n$n-m$n-m-ND
+	oci	VIH	n-acr$n-acr-m-sg	fra	VIH	n-acr-m-sp
+	oci	decadéncia	n$n-f	fra	décadence	n-f$n
+	oci	chocolat	n-m$n	fra	chocolat	n-m$n
+	oci	prodigi	n$n-m	fra	prodige	n-m$n$n-m-ND
+	oci	omosexua		fra	homosexuel	$adj
+	oci	populista	n-mf	fra	populiste	n$n-mf
+	oci	especulador	n	fra	spéculateur	n
+	oci	sosdirector	n	fra	sous-directeur	n$n-m
+	oci	otramar	n$n-m	fra	outre-mer	n-m
+	oci	PSE	n-acr$n-acr-m	fra	PSE	n-acr$n-acr-m$n-acr-m-sg
+	oci	EE	n-acr$n-acr-m	fra	EE	n-acr$n-acr-m
+	oci	desdoblament	n$n-m	fra	dédoublement	n-m
+	oci	desmobilizacion	n$n-f	fra	démobilisation	n-f$n
+	oci	integrisme	n$n-m	fra	intégrisme	n-m
+	oci	requalificacion	n$n-f	fra	requalification	n-f$n
+	oci	preconizacion	n$n-f	fra	préconisation	n-f$n
+	oci	uniformitat	n$n-f	fra	uniformité	n-f
+	oci	texan	n	fra	Texan	n$n-m
+	oci	sangsuga	n$n-f	fra	sangsue	n-f
+	oci	maquinista	n$n-mf	fra	machiniste	n-mf$n
+	oci	cacic	n$n-m	fra	cacique	n-m$n
+	oci	insubordinacion	n$n-f	fra	insubordination	n-f
+	oci	indecision	n$n-f	fra	indécision	n-f
+	oci	ERC	n-acr$n-acr-f	fra	ERC	n-acr$n-acr-f
+	oci	cinematograf	n$n-m	fra	cinématographe	n-m
+	oci	immorta		fra	immortel	adj$adj-m$$adj-m-sg
+	oci	aspirant	n-m$n	fra	aspirant	n-m$n
+	oci	desonor	n$n-m	fra	déshonneur	n-m$n
+	oci	distanciacion	n-f$n	fra	distanciation	n-f$n
+	oci	ACB	n-acr$n-acr-f	fra	ACB	n-acr-f$n
+	oci	truèja	n$n-f	fra	truie	n-f
+	oci	oportunisme	n$n-m	fra	opportunisme	n-m
+	oci	odissèa	n$n-f	fra	odyssée	n-f$n
+	oci	naturalitat	n$n-f	fra	naturalité	n-f$n
+	oci	gradacion	n$n-f	fra	gradation	n-f
+	oci	evolucionisme	n$n-m	fra	évolutionnisme	n-m
+	oci	insalubritat	n$n-f	fra	insalubrité	n$n-f
+	oci	exportador	n	fra	exportateur	n-mf$n
+	oci	malefici	n-m$n	fra	maléfice	n-m$n
+	oci	autograf	n$n-m	fra	autographe	n-m
+	oci	UGT	n$n-acr-f	fra	UGT	n$n-acr-f
+	oci	UB	n-acr$n-acr-f	fra	UB	n-acr-f
+	oci	COI	n-acr$n-acr-m-sg	fra	COI	n-acr-m-sp
+	oci	decéncia	n$n-f	fra	décence	n-f$n
+	oci	BBVA	n$n-acr-m	fra	BBVA	n$n-acr-m
+	oci	auricular	n$n-m	fra	auriculaire	n-m$n
+	oci	adjudicatari	n	fra	adjudicataire	n-mf$n
+	oci	sosdialècte	n$n-m	fra	sous-dialecte	n-m
+	oci	electronegativitat	n$n-f	fra	électronégativité	n-f
+	oci	inconstitucionalitat	n$n-f	fra	inconstitutionnalité	n-f
+	oci	sosdirector	n	fra	sous-directeur	n$n-m
+	oci	potencializacion	n$n-f	fra	potentialisation	n-f$n
+	oci	sociolingüistica	n$n-f	fra	sociolinguistique	n-f
+	oci	reequilibri	n$n-m	fra	rééquilibre	n-m
+	oci	bisexua		fra	bisexuel	$adj
+	oci	abatut	adj	fra	abattu	adj
+	oci	matematician	adj	fra	mathématicien	adj
+	oci	mecanician	adj	fra	mécanicien	adj$adj-GD-ND
+	oci	ludic	adj	fra	ludique	adj-mf$adj
+	oci	illicit	adj	fra	illicite	adj-mf$adj
+	oci	involontari	adj	fra	involontaire	adj$adj-mf-ND
+	oci	ordinari	adj	fra	ordinaire	adj-mf$adj$adj-mf-ND
+	oci	saharian	adj	fra	saharien	adj
+	oci	insolit	adj	fra	insolite	adj-mf$adj$adj-mf-ND
+	oci	comta		fra	comtal	$adj
+	oci	aviari	adj	fra	aviaire	adj
+	oci	irreversible	adj-m$adj	fra	irréversible	adj$adj-mf$adj-mf-ND
+	oci	idrologic	adj	fra	hydrologique	adj
+	oci	esporadic	adj	fra	sporadique	adj
+	oci	embrionari	adj	fra	embryonnaire	adj-mf$adj
+	oci	expressionista	adj	fra	expressionniste	adj
+	oci	comprensible	adj-m$adj	fra	compréhensible	adj$adj-mf$adj-mf-ND
+	oci	sectari	adj	fra	sectaire	adj
+	oci	consistent	adj-m$adj	fra	consistant	adj$adj-m
+	oci	legitim	adj	fra	légitime	adj-mf$adj$adj-mf-ND
+	oci	grotesc	adj	fra	grotesque	adj-mf$adj$adj-mf-ND
+	oci	reductor	adj	fra	réducteur	adj
+	oci	incorrècte	adj	fra	incorrect	adj$adj-GD-ND
+	oci	egalitari	adj	fra	égalitaire	adj-mf$adj
+	oci	indigèna	adj	fra	indigène	adj$adj-mf$adj-mf-ND
+	oci	minoritari	adj	fra	minoritaire	adj-mf$adj$adj-mf-ND
+	oci	covalent	adj-m$adj	fra	covalent	adj
+	oci	lag	adj	fra	laid	adj$adj-GD-ND
+	oci	insuportable	adj-GD$adj	fra	insupportable	adj$adj-mf-ND
+	oci	vibrant	adj-GD$adj	fra	vibrant	adj$adj-f
+	oci	inofensiu	adj	fra	inoffensif	adj
+	oci	urbanistic	adj	fra	urbanistique	adj-mf$adj
+	oci	texan	adj	fra	texan	adj
+	oci	manipulador	adj	fra	manipulateur	adj
+	oci	bodista	adj	fra	bouddhiste	adj$adj-mf
+	oci	paritari	adj	fra	paritaire	adj
+	oci	eclesiastic	adj	fra	ecclésiastique	adj-mf$adj
+	oci	assimilable	adj-f$adj	fra	assimilable	adj
+	oci	insignificant	adj-m$adj	fra	insignifiant	adj-GD$adj-GD-ND$adj
+	oci	aeroportuari	adj	fra	aéroportuaire	adj-mf$adj
+	oci	vocalic	adj	fra	vocalique	adj
+	oci	seren	adj	fra	serein	adj$adj-GD-ND
+	oci	intim	adj	fra	intime	adj-mf$adj
+	oci	oportun	adj	fra	opportun	adj$adj-GD$adj-GD-ND
+	oci	consonantic	adj	fra	consonantique	adj
+	oci	inagotable	adj$adj-m	fra	inépuisable	adj$adj-mf-ND
+	oci	improductiu	adj	fra	improductif	adj
+	oci	umanitari	adj	fra	humanitaire	adj-mf$adj$adj-mf-ND
+	oci	simptomatic	adj	fra	symptomatique	adj
+	oci	autoctòn	adj	fra	autochtone	adj
+	oci	suicidari	adj-GD$adj	fra	suicidaire	adj
+	oci	insatisfach	adj	fra	insatisfait	adj
+	oci	oceanografic	adj	fra	océanographique	adj
+	oci	obscèn	adj	fra	obscène	adj
+	oci	informatiu	adj	fra	informatif	adj$adj-GD-ND
+	oci	sautaire	adj	fra	sauteur	adj
+	oci	retroactiu	adj	fra	rétroactif	adj
+	oci	incomprensible	adj$adj-m	fra	incompréhensible	adj$adj-mf$adj-mf-ND
+	oci	incoerent	adj-GD$adj	fra	incohérent	adj
+	oci	vinicòla	adj	fra	vinicole	adj
+	oci	transnaciona		fra	transnational	adj$$adj-f
+	oci	solidari	adj	fra	solidaire	adj-mf$adj$adj-mf-ND
+	oci	delirant	adj-f$adj	fra	délirant	adj
+	oci	sectoria		fra	sectoriel	adj$adj-GD$
+	oci	escrupulós	adj	fra	scrupuleux	adj-m-sp$adj
+	oci	binomia		fra	binomial	$adj
+	oci	egemonic	adj	fra	hégémonique	adj
+	oci	feminista	adj	fra	féministe	adj$adj-mf$adj-mf-ND
+	oci	fascinant	adj-GD$adj	fra	fascinant	adj$adj-f
+	oci	asturian	adj	fra	asturien	adj$adj-GD-ND$adj-GD
+	oci	xenofòb	adj	fra	xénophobe	adj-mf$adj
+	oci	imprudent	adj$adj-GD	fra	imprudent	adj$adj-f$adj-f-sg
+	oci	sanguinari	adj	fra	sanguinaire	adj
+	oci	penetrant	adj-m$adj	fra	pénétrant	adj
+	oci	contenciós	adj	fra	contentieux	adj-m-sp$adj
+	oci	licit	adj	fra	licite	adj-mf$adj$adj-mf-ND
+	oci	benvengut	adj	fra	bienvenu	adj
+	oci	naturalista	adj	fra	naturaliste	adj$adj-mf
+	oci	circulatòri	adj	fra	circulatoire	adj
+	oci	impensable	adj$adj-m	fra	impensable	adj$adj-mf
+	oci	orgulhós	adj	fra	orgueilleux	adj$adj-f
+	oci	imparcia		fra	impartial	adj$adj-f$
+	oci	inadequat	adj	fra	inadéquat	adj
+	oci	frenetic	adj	fra	frénétique	adj-mf$adj
+	oci	subsidiari	adj	fra	subsidiaire	adj-mf$adj
+	oci	inconstituciona		fra	inconstitutionnel	$adj
+	oci	impecable	adj-GD$adj	fra	impeccable	adj$adj-mf
+	oci	ieroglific	adj	fra	hiéroglyphique	adj
+	oci	temerari	adj	fra	téméraire	adj-mf$adj
+	oci	semestra		fra	semestriel	adj$adj-f$
+	oci	altruista	adj	fra	altruiste	adj
+	oci	providencia		fra	providentiel	$adj
+	oci	pacifista	adj	fra	pacifiste	adj$adj-mf
+	oci	còrs	adj	fra	corse	adj-mf-ND$adj
+	oci	arquitectonic	adj	fra	architectonique	adj
+	oci	insensat	adj	fra	insensé	adj-GD-ND$adj
+	oci	basilica	n$$n-f	fra	basilical	$adj
+	oci	suggestiu	adj	fra	suggestif	adj
+	oci	mercantil	adj-GD$adj	fra	mercantile	adj$adj-mf$adj-mf-ND
+	oci	lusent	adj-m$adj	fra	luisant	adj$adj-f
+	oci	sedentari	adj	fra	sédentaire	adj
+	oci	degradant	adj-GD$adj	fra	dégradant	adj-GD$adj
+	oci	capitalista	adj	fra	capitaliste	adj$adj-mf
+	oci	barcelonés	adj	fra	barcelonais	adj-m-sp$adj
+	oci	intervocalic	adj	fra	intervocalique	adj$adj-mf-ND
+	oci	inimaginable	adj-m$adj	fra	inimaginable	adj$adj-mf
+	oci	sunnita	adj	fra	sunnite	adj$adj-mf
+	oci	extremista	adj	fra	extrémiste	adj$adj-mf
+	oci	pronomina		fra	pronominal	$adj
+	oci	excitant	adj-m$adj	fra	excitant	adj
+	oci	antifascista	adj	fra	antifasciste	adj$adj-mf
+	oci	idiomatic	adj	fra	idiomatique	adj$adj-mf
+	oci	august	adj	fra	auguste	adj
+	oci	oportunista	adj	fra	opportuniste	adj$adj-mf
+	oci	presencia		fra	présentiel	$adj
+	oci	imparable	adj-GD$adj	fra	imparable	adj$adj-mf
+	oci	antologic	adj	fra	anthologique	adj-mf$adj
+	oci	antidemocratic	adj	fra	antidémocratique	adj-mf$adj-mf-ND$adj
+	oci	electoralista	adj	fra	électoraliste	adj$adj-mf
+	oci	anticomunista	adj	fra	anticommuniste	adj
+	oci	centralista	adj	fra	centraliste	adj
+	oci	supausadament	adv	fra	supposément	adv
+	oci	Tirana	np$np-top-f-sg	fra	Tirana	np$np-top-f-sg
+	oci	Guantánamo	np$np-top-m-sg	fra	Guantánamo	np$np-top-m-sg
+	oci	Alcalá	np-top-m-sg	fra	Alcalá	np$np-top-m-sg
+	oci	Menòrca	np$np-top-f-sg	fra	Minorque	np$np-top-f-sg
+	oci	Lusàcia	np$np-top-f-sg	fra	Lusace	np$np-top-f-sg
+	oci	Oliva	np-top-f-sg	fra	Oliva	np$np-top-f-sg
+	oci	Getafe	np$np-top-m-sg	fra	Getafe	np$np-top-m-sg
+	oci	La Paz	np$np-top-f-sg	fra	La Paz	np-top-f-sg
+	oci	Grau	np-top-m-sg	fra	Grau	np$np-top-m-sg
+	oci	Niamey	np$np-top-m-sg	fra	Niamey	np-top-m-sg
+	oci	Puig	np-top-m-sg	fra	Puig	np$np-top-m-sg
+	oci	Albacete	np-top-m-sg	fra	Albacete	np$np-top-m-sg
+	oci	Hospitalet	np-top-m-sg	fra	Hospitalet	np$np-top-m-sg
+	oci	Belmonte	np-top-m-sg	fra	Belmonte	np$np-top-m-sg
+	oci	Ocaña	np-top-f-sg	fra	Ocaña	np$np-top-f-sg
+	oci	mar d'Aral	np$np-top-f-sg	fra	mer d'Aral	np-top-f-sg
+	oci	Lusaka	np$np-top-f-sg	fra	Lusaka	np$np-top-f-sg
+	oci	Plana	np-top-f-sg	fra	Plana	np$np-top-f-sg
+	oci	Estrada	np-top-f-sg	fra	Estrada	np$np-top-f-sg
+	oci	Pinilla	np-top-f-sg	fra	Pinilla	np$np-top-f-sg
+	oci	Pineda	np-top-f-sg	fra	Pineda	np$np-top-f-sg
+	oci	Nova	np-al	fra	Nova	np-al
+	oci	Cisco	np-al-m-sg	fra	Cisco	np-al-m-sg
+	oci	Alceste	np-al	fra	Alceste	np-al$np
+	oci	Toshiba	np-al-f-sg	fra	Toshiba	np$np-al-f-sg
+	oci	Ryanair	np$np-al	fra	Ryanair	np$np-al
+	oci	Reader	np-al	fra	Reader	np-al
+	oci	Maes	np-al	fra	Maes	np$np-al
+	oci	LCD	np-al	fra	LCD	np$np-al
+	oci	Gazprom	np-al	fra	Gazprom	np$np-al$np-al-mf
+	oci	Wikipedia	np-al-f-sg	fra	Wikipedia	np-al-f-sg$np
+	oci	Opus Dei	np-al-m-sg	fra	Opus Dei	np-al-m-sg
+	oci	Alitalia	np-al-f-sg	fra	Alitalia	np$np-al-f-sg
+	oci	PDA	np-al	fra	PDA	np$np-al
+	oci	DirectX	np-al-m-sg	fra	DirectX	np-al-m-sg
+	oci	Alenia	np-al	fra	Alenia	np$np-al
+	oci	Wi U	np-al-f-sg	fra	Wii U	np-al-f-sg
+	oci	Avia	np-al	fra	Avia	np$np-al
+	oci	Amel	np-al	fra	Amel	np$np-al
+	oci	TeX	np-al-m-sg	fra	TeX	np-al-m-sg
+	oci	pdf	np-al-m-sg	fra	pdf	np$np-al-m-sg
+	oci	Passo	np-al	fra	Passo	np$np-al
+	oci	MP4	np-al	fra	MP4	np$np-al
+	oci	Mozilla Firefoc	np-al-m-sg	fra	Mozilla Firefox	np-al-m-sg
+	oci	Cegetel	np-al	fra	Cegetel	np$np-al
+	oci	Casio	np-al	fra	Casio	np-al
+	oci	Amal	np-al	fra	Amal	np-al
+	oci	Abba	np-al	fra	Abba	np$np-al
+	oci	Windows 95	np-al-m-sg	fra	Windows 95	np-al-m-sg
+	oci	Wikimedia	np-al-f-sg	fra	Wikimedia	np-al-f-sg$np-al
+	oci	Hewlett-Packard	np-al-f-sg	fra	Hewlett-Packard	np$np-al-f-sg
+	oci	Hayley	np-al	fra	Hayley	np-al
+	oci	Gara	np-al	fra	Gara	np$np-al
+	oci	eBay	np-al	fra	eBay	np$np-al
+	oci	Adana	np-al	fra	Adana	np$np-al
+	oci	Vall	np-al	fra	Vall	np-al
+	oci	Sotheby's	np-al	fra	Sotheby's	np$np-al
+	oci	Eureka	np-al	fra	Eureka	np$np-al
+	oci	Antofagasta	np-al	fra	Antofagasta	np$np-al
+	oci	Alexa	np-al	fra	Alexa	np-al
+	oci	Rammstein	np-al-m-sg	fra	Rammstein	np-al-m-sg
+	oci	Deira	np-al	fra	Deira	np$np-al
+	oci	Decker	np-al	fra	Decker	np$np-al
+	oci	Bertelsmann	np-al	fra	Bertelsmann	np$np-al$np-al-mf
+	oci	Barclays	np-al-m-sg	fra	Barclays	np-al-m-sg
+	oci	Ashland	np-al	fra	Ashland	np$np-al
+	oci	Netflix	np-al-m-sg	fra	Netflix	np-al-m-sg
+	oci	Fortis	np-al	fra	Fortis	np$np-al
+	oci	Deutsche Bank	np-al-m-sg	fra	Deutsche Bank	np-al-m-sg
+	oci	Corporate	np-al	fra	Corporate	np$np-al
+	oci	Alsthom	np-al	fra	Alsthom	np$np-al$np-al-mf
+	oci	Alina	np-al	fra	Alina	np-al
+	oci	Wharton	np-al	fra	Wharton	np-al
+	oci	Versace	np-al	fra	Versace	np$np-al
+	oci	Skoda	np-al	fra	Skoda	np$np-al$np-al-mf
+	oci	Sinn Féin	np-al-m-sg	fra	Sinn Féin	np-al-m-sg$np-al
+	oci	OpenOffice	np$np-al-m-sg	fra	OpenOffice	np-al-m-sg$np-al
+	oci	Ironman	np-al-m-sg	fra	Ironman	np-al-m-sg
+	oci	Bild	np-al	fra	Bild	np$np-al
+	oci	AMP	np-al	fra	AMP	np$np-al
+	oci	Allianz	np-al	fra	Allianz	np$np-al$np-al-mf
+	oci	Windows NT	np-al-m-sg	fra	Windows NT	np-al-m-sg
+	oci	Tetris	np-al-m-sg	fra	Tetris	np-al-m-sg
+	oci	Sagem	np-al	fra	Sagem	np$np-al
+	oci	Juventud	np-al	fra	Juventud	np$np-al
+	oci	Haskell	np-al-m-sg	fra	Haskell	np-al-m-sg
+	oci	Fellowship	np-al	fra	Fellowship	np$np-al
+	oci	Allgemeine	np-al	fra	Allgemeine	np$np-al
+	oci	Vodafone	np-al-f-sg	fra	Vodafone	np$np-al-f-sg
+	oci	Tusk	np-al	fra	Tusk	np-al
+	oci	Kadima	np-al	fra	Kadima	np$np-al
+	oci	Fabia	np-al	fra	Fabia	np-al
+	oci	ECO	np-al	fra	ECO	np$np-al
+	oci	Dailymotion	np-al	fra	Dailymotion	np$np-al
+	oci	Adria	np-al	fra	Adria	np-al
+	oci	Eurobasket	np-al-m-sg	fra	Eurobasket	np-al-m-sg
+	oci	Clearstream	np-al	fra	Clearstream	np$np-al
+	oci	Bloomberg	np-al-f-sg	fra	Bloomberg	np-al-f-sg
+	oci	Segway	np-al-m-sg	fra	Segway	np-al-m-sg
+	oci	KIA	np-al	fra	KIA	np$np-al
+	oci	Guillén	np$np-al	fra	Guillén	np-al
+	oci	Damart	np-al	fra	Damart	np$np-al
+	oci	Cadena SER	np-al-f-sg	fra	Cadena SER	np-al-f-sg
+	oci	Silverstone	np-top-m-sg	fra	Silverstone	np$np-top-m-sg
+	oci	Las Palmas	np-top-f-sg	fra	Las Palmas	np-top-f-sg$np
+	oci	Agrigente	np-top-m-sg	fra	Agrigente	np$np-top-m-sg
+LR	oci	Crotone	np-top-f-sg	fra	Crotone	np$np-top-f-sg
+RL	oci	Tolosa	np-top-f-sg$np	fra	Tolosa	np-top-f-sg
+	oci	Tananarive	np-top-f-sg	fra	Tananarive	np$np-top-f-sg
+	oci	mar Mòrta	np-top-f-sg	fra	mer Morte	np$np-top-f-sg
+	oci	mar del Japon	np-top-f-sg	fra	mer du Japon	np$np-top-f-sg
+	oci	Bidart	np-top-m-sg	fra	Bidart	np$np-top-m-sg
+	oci	Antalya	np-top-f-sg	fra	Antalya	np$np-top-f-sg
+	oci	Alcatraz	np-top-m-sg	fra	Alcatraz	np$np-top-m-sg
+	oci	Logroño	np-top-m-sg	fra	Linares	np$np-top-m-sg
+	oci	Antigua	np-top-f-sg	fra	Antigua	np$np-top-f-sg
+	oci	Hortefeux	np-top-f-sg	fra	Hortefeux	np$np-top-f-sg
+RL	oci	Surinam	np$np-top-m-sg	fra	Surinam	np$np-top-m$np-top-m-sg
+	oci	Alhucemas	np-top-f-sg	fra	Alhucemas	np$np-top-f-sg
+	oci	Jean-Baptiste	np-ant-m-sg	fra	Jean-Baptiste	np-ant-m-sg$np$np-ant
+	oci	Phil	np-ant-m-sg$np	fra	Phil	np-ant-m-sg
+	oci	Batman	np$np-ant-m-sg	fra	Batman	np-ant-m-sg
+	oci	Marius	np-ant-m-sg	fra	Marius	np-ant-m-sg$np$np-ant
+	oci	Johan	np$np-ant-m-sg	fra	Johan	np-ant-m-sg
+	oci	Sylvain	np-ant-m-sg	fra	Sylvain	np-ant$np-ant-m-sg$np
+	oci	Abel	np$np-ant-m-sg	fra	Abel	np-ant$np-ant-m-sg$np
+	oci	Rick	np-ant-m-sg	fra	Rick	np-ant-m-sg$np$np-ant
+	oci	Rob	np-ant-m-sg	fra	Rob	np-ant-m-sg
+	oci	Abu	np-ant-m-sg	fra	Abu	np-ant-m-sg$np
+	oci	Dennis	np$np-ant-m-sg	fra	Dennis	np$np-ant-m-sg$np-ant
+	oci	Yann	np-ant-m-sg	fra	Yann	np-ant-m-sg$np$np-ant
+	oci	Alessandro	np-ant-m-sg	fra	Alessandro	np$np-ant$np-ant-m-sg
+	oci	Apollon	np-ant-m-sg	fra	Apollon	np-ant-m-sg$np-ant
+	oci	Harrison	np$np-ant-m-sg	fra	Harrison	np-ant-m-sg$np
+	oci	Hugh	np$np-ant-m-sg	fra	Hugh	np-ant-m-sg
+	oci	Damien	np-ant-m-sg	fra	Damien	np-ant-m-sg$np$np-ant
+	oci	Tristan	np-ant-m-sg	fra	Tristan	np-ant-m-sg$np-ant
+	oci	Roch	np-ant-m-sg	fra	Roch	np-ant-m-sg
+	oci	Ròc	np-ant-m-sg$np	fra	Ròc	np-ant-m-sg
+	oci	Nicholas	np-ant-m-sg	fra	Nicholas	np-ant-m-sg$np$np-ant
+	oci	Cyril	np-ant-m-sg	fra	Cyril	np-ant-m-sg$np-ant
+	oci	Innocent	np-ant-m-sg	fra	Innocent	np-ant-m-sg$np$np-ant
+	oci	Klaus	np-ant-m-sg	fra	Klaus	np$np-ant-m-sg$np-ant
+	oci	Benoit	np-ant-m-sg	fra	Benoit	np$np-ant-m-sg$np-ant
+	oci	Fabrice	np-ant-m-sg	fra	Fabrice	np-ant-m-sg$np$np-ant
+	oci	Gil	np$np-ant-m-sg	fra	Gil	np$np-ant-m-sg$np-ant
+	oci	Craig	np-ant-m-sg	fra	Craig	np-ant-m-sg
+	oci	Javier	np$np-ant-m-sg	fra	Javier	np$np-ant-m-sg$np-ant
+	oci	Dimitri	np-ant-m-sg	fra	Dimitri	np-ant-m-sg$np$np-ant
+	oci	Yannick	np-ant-m-sg	fra	Yannick	np-ant-m-sg$np$np-ant
+	oci	Ulrich	np-ant-m-sg	fra	Ulrich	np-ant-m-sg
+	oci	Turner	np-ant-m-sg	fra	Turner	np-ant-m-sg
+	oci	Rémi	np-ant-m-sg	fra	Rémi	np-ant-m-sg
+	oci	Christoph	np-ant-m-sg	fra	Christoph	np$np-ant-m-sg$np-ant
+	oci	Michele	np-ant-m-sg	fra	Michele	np$np-ant$np-ant-m-sg
+	oci	Stefano	np-ant-m-sg	fra	Stefano	np$np-ant-m-sg$np-ant
+	oci	Cédric	np-ant-m-sg	fra	Cédric	np-ant-m-sg$np$np-ant
+	oci	Vicente	np$np-ant-m-sg	fra	Vicente	np$np-ant-m-sg$np-ant
+	oci	Norbert	np-ant-m-sg	fra	Norbert	np-ant-m-sg
+	oci	Alfredo	np$np-ant-m-sg	fra	Alfredo	np$np-ant-m-sg$np-ant
+	oci	Joel	np$np-ant-m-sg	fra	Joel	np$np-ant-m-sg$np-ant
+	oci	Otton	np-ant-m-sg	fra	Otton	np-ant-m-sg
+	oci	Matthias	np-ant-m-sg	fra	Matthias	np-ant-m-sg$np$np-ant
+	oci	Alonso	np$np-ant-m-sg	fra	Alonso	np$np-ant$np-ant-m-sg
+	oci	Felipe	np$np-ant-m-sg	fra	Felipe	np-ant-m-sg$np$np-ant
+	oci	Ludovic	np-ant-m-sg	fra	Ludovic	np-ant-m-sg$np$np-ant
+	oci	Alejandro	np$np-ant-m-sg	fra	Alejandro	np$np-ant-m-sg$np-ant
+	oci	Luciano	np-ant-m-sg	fra	Luciano	np-ant-m-sg
+	oci	Fabio	np$np-ant-m-sg	fra	Fabio	np-ant-m-sg$np$np-ant
+	oci	Aurélien	np-ant-m-sg	fra	Aurélien	np$np-ant-m-sg$np-ant
+	oci	Joshua	np$np-ant-m-sg	fra	Joshua	np-ant-m-sg
+	oci	Gérald	np-ant-m-sg	fra	Gérald	np-ant-m-sg$np$np-ant
+	oci	Garfield	np$np-ant-m-sg	fra	Garfield	np$np-ant-m-sg$np-ant
+	oci	Dexter	np$np-ant-m-sg	fra	Dexter	np-ant-m-sg
+	oci	Abdel	np-ant-m-sg	fra	Abdel	np-ant-m-sg$np$np-ant
+	oci	Mustafa	np-ant-m-sg	fra	Mustafa	np-ant-m-sg
+	oci	Sven	np-ant-m-sg	fra	Sven	np-ant-m-sg
+	oci	Augusto	np$np-ant-m-sg	fra	Augusto	np-ant-m-sg$np$np-ant
+	oci	Markus	np$np-ant-m-sg	fra	Markus	np-ant-m-sg$np$np-ant
+	oci	Benito	np$np-ant-m-sg	fra	Benito	np-ant-m-sg$np$np-ant
+	oci	Raúl	np$np-ant-m-sg	fra	Raúl	np$np-ant-m-sg
+	oci	Meredith	np-ant-m-sg	fra	Meredith	np-ant-m-sg
+	oci	Magellan	np-ant-m-sg	fra	Magellan	np-ant-m-sg$np$np-ant
+	oci	Amadou	np-ant-m-sg	fra	Amadou	np$np-ant-m-sg
+	oci	Mika	np-ant-m-sg	fra	Mika	np-ant-m-sg
+	oci	Lucrécia	np-ant-m-sg	fra	Lucrèce	np-ant-m-sg
+	oci	Baldwin	np-ant-m-sg	fra	Baldwin	np-ant-m-sg
+	oci	Humphrey	np-ant-m-sg	fra	Humphrey	np-ant-m-sg
+	oci	Galien	np-ant-m-sg	fra	Galien	np-ant-m-sg$np
+	oci	Claus	np-ant-m-sg	fra	Claus	np-ant-m-sg
+	oci	Hamlet	np-ant-m-sg	fra	Hamlet	np-ant-m-sg$np
+	oci	Ronaldo	np$np-ant-m-sg	fra	Ronaldo	np$np-ant-m-sg$np-ant
+	oci	Pinòqui	np-ant-m-sg	fra	Pinocchio	np-ant-m-sg
+	oci	Chico	np-ant-m-sg	fra	Chico	np-ant-m-sg$np
+	oci	Archibald	np-ant-m-sg	fra	Archibald	np-ant-m-sg$np-ant
+	oci	Mickaël	np-ant-m-sg	fra	Mickaël	np-ant-m-sg
+	oci	Bono	np$np-ant-m-sg	fra	Bono	np-ant-m-sg$np$np-ant
+	oci	Rice	np$np-ant-m-sg	fra	Rice	np-ant-m-sg$np
+	oci	Renato	np-ant-m-sg	fra	Renato	np-ant-m-sg
+	oci	Orfèu	np-ant-m-sg	fra	Orphée	np$np-ant-m-sg$np-ant
+	oci	Gregorio	np$np-ant-m-sg	fra	Gregorio	np-ant-m-sg$np$np-ant
+	oci	Daddy	np-ant-m-sg	fra	Daddy	np$np-ant-m-sg
+	oci	Rico	np-ant-m-sg	fra	Rico	np-ant-m-sg
+	oci	Eugenio	np$np-ant-m-sg	fra	Eugenio	np-ant-m-sg$np$np-ant
+	oci	Wim	np-ant-m-sg	fra	Wim	np$np-ant-m-sg
+	oci	Andrzej	np-ant-m-sg	fra	Andrzej	np$np-ant-m-sg
+	oci	Gaspar	np$np-ant-m-sg	fra	Gaspar	np-ant-m-sg$np$np-ant
+	oci	Caton	np-ant-m-sg	fra	Caton	np$np-ant-m-sg$np-ant
+	oci	Anakin	np-ant-m-sg	fra	Anakin	np$np-ant-m-sg
+	oci	Amadeus	np-ant-m-sg	fra	Amadeus	np$np-ant-m-sg$np-ant
+	oci	Abdelkader	np-ant-m-sg	fra	Abdelkader	np$np-ant-m-sg
+	oci	Fidel Castro	np-ant-m-sg	fra	Fidel Castro	np$np-ant-m-sg
+	oci	Woody	np$np-ant-m-sg	fra	Woody	np-ant-m-sg$np
+	oci	Sandro	np$np-ant-m-sg	fra	Sandro	np-ant-m-sg
+	oci	Ivo	np-ant-m-sg	fra	Ivo	np-ant-m-sg
+	oci	Tarzan	np-ant-m-sg	fra	Tarzan	np-ant-m-sg
+	oci	Dario	np-ant-m-sg	fra	Dario	np$np-ant-m-sg$np-ant
+	oci	Vico	np-ant-m-sg	fra	Vico	np-ant-m-sg
+	oci	Woody Allen	np-ant-m-sg	fra	Woody Allen	np-ant-m-sg
+	oci	Kofi	np$np-ant-m-sg	fra	Kofi	np-ant-m-sg$np
+	oci	Gonzalo	np$np-ant-m-sg	fra	Gonzalo	np$np-ant-m-sg$np-ant
+	oci	Rainier	np-ant-m-sg	fra	Rainier	np-ant-m-sg
+	oci	Marian	np-ant-m-sg	fra	Marian	np-ant-m-sg
+	oci	Ridley	np$np-ant-m-sg	fra	Ridley	np-ant-m-sg
+	oci	Ralf	np-ant-m-sg	fra	Ralf	np-ant-m-sg
+	oci	Luiz	np-ant-m-sg	fra	Luiz	np-ant-m-sg$np
+	oci	Jamal	np-ant-m-sg	fra	Jamal	np-ant-m-sg
+	oci	Ferenc	np-ant-m-sg	fra	Ferenc	np$np-ant-m-sg
+	oci	Randall	np-ant-m-sg	fra	Randall	np-ant-m-sg
+	oci	Gaby	np-ant-m-sg	fra	Gaby	np-ant-m-sg
+	oci	Valentino	np$np-ant-m-sg	fra	Valentino	np-ant-m-sg$np$np-ant
+	oci	Fran	np$np-ant-m-sg	fra	Fran	np$np-ant-m-sg
+	oci	Armando	np-ant-m-sg	fra	Armando	np-ant-m-sg$np$np-ant
+	oci	Tony Blair	np-ant-m-sg	fra	Tony Blair	np$np-ant-m-sg$np-ant
+	oci	Esteban	np-ant-m-sg$np	fra	Esteban	np-ant-m-sg$np$np-ant
+	oci	Rodolfo	np-ant-m-sg	fra	Rodolfo	np-ant-m-sg$np$np-ant
+	oci	Dustin	np$np-ant-m-sg	fra	Dustin	np-ant-m-sg
+	oci	Clemente	np$np-ant-m-sg	fra	Clemente	np-ant-m-sg$np$np-ant
+	oci	Joaquin	np-ant-m-sg	fra	Joaquin	np-ant-m-sg$np$np-ant
+	oci	Henrique	np-ant-m-sg	fra	Henrique	np-ant-m-sg$np
+	oci	Triton	np-ant-m-sg	fra	Triton	np-ant-m-sg
+	oci	Janus	np-ant-m-sg	fra	Janus	np$np-ant-m-sg$np-ant
+	oci	Fons	np-ant-m-sg	fra	Fons	np-ant-m-sg
+	oci	Rhys	np-ant-m-sg	fra	Rhys	np-ant-m-sg
+	oci	Hamid	np-ant-m-sg	fra	Hamid	np-ant-m-sg$np
+	oci	Filip	np-ant-m-sg	fra	Filip	np-ant-m-sg
+	oci	Elia	np$np-ant-m-sg	fra	Elia	np-ant-m-sg$np$np-ant
+	oci	Yasser	np-ant-m-sg	fra	Yasser	np-ant-m-sg$np
+	oci	Barnard	np-ant-m-sg	fra	Barnard	np-ant-m-sg
+	oci	Saül	np-ant-m-sg	fra	Saül	np-ant-m-sg
+	oci	José Manuel	np-ant-m-sg	fra	José Manuel	np-ant-m-sg
+	oci	Cristiano	np-ant-m-sg	fra	Cristiano	np-ant-m-sg
+	oci	Rowland	np-ant-m-sg	fra	Rowland	np-ant-m-sg
+	oci	Günter	np$np-ant-m-sg	fra	Günter	np$np-ant-m-sg
+	oci	Zinédine	np-ant-m-sg	fra	Zinédine	np-ant-m-sg$np
+	oci	Romeo	np$np-ant-m-sg	fra	Romeo	np-ant-m-sg$np$np-ant
+	oci	Iván	np$np-ant-m-sg	fra	Iván	np-ant-m-sg$np$np-ant
+	oci	Guzmán	np$np-ant-m-sg	fra	Guzmán	np-ant-m-sg$np$np-ant
+	oci	Goran	np-ant-m-sg	fra	Goran	np$np-ant-m-sg
+	oci	Fernandez	np-ant-m-sg	fra	Fernandez	np-ant-m-sg$np-ant
+	oci	Donatello	np-ant-m-sg	fra	Donatello	np-ant-m-sg$np$np-ant
+	oci	Simón	np$np-ant-m-sg	fra	Simón	np-ant-m-sg$np$np-ant
+	oci	Roque	np$np-ant-m-sg	fra	Roque	np$np-ant-m-sg
+	oci	Raul	np-ant-m-sg	fra	Raul	np$np-ant-m-sg$np-ant
+	oci	Pascual	np$np-ant-m-sg	fra	Pascual	np$np-ant-m-sg$np-ant
+	oci	Cristóbal	np-ant-m-sg	fra	Cristóbal	np$np-ant-m-sg$np-ant
+	oci	Miquel	np$np-ant-m-sg	fra	Miquel	np$np-ant-m-sg
+	oci	Jaume	np$np-ant-m-sg	fra	Jaume	np$np-ant-m-sg
+	oci	Hayden	np$np-ant-m-sg	fra	Hayden	np-ant-m-sg
+	oci	Damiano	np-ant-m-sg	fra	Damiano	np$np-ant-m-sg$np-ant
+	oci	Leandro	np-ant-m-sg	fra	Leandro	np-ant-m-sg
+	oci	Godfrey	np-ant-m-sg	fra	Godfrey	np-ant-m-sg
+	oci	Pere	np$np-ant-m-sg	fra	Pere	np$np-ant-m-sg
+	oci	Lucio	np$np-ant-m-sg	fra	Lucio	np-ant-m-sg$np$np-ant
+	oci	Kelvin	np-ant-m-sg	fra	Kelvin	np-ant-m-sg$np
+	oci	Emanuele	np-ant-m-sg	fra	Emanuele	np$np-ant-m-sg$np-ant
+	oci	Houston	np-ant-m-sg$np	fra	Houston	np-ant-m-sg$np$np-ant
+	oci	Stephen Harper	np-ant-m-sg	fra	Stephen Harper	np$np-ant-m-sg
+	oci	Giberto	np-ant-m-sg	fra	Gilberto	np-ant-m-sg$np$np-ant
+	oci	Ahmet	np-ant-m-sg	fra	Ahmet	np$np-ant-m-sg
+	oci	Afonso	np-ant-m-sg	fra	Afonso	np-ant-m-sg
+	oci	Renart	np-ant-m-sg	fra	Renart	np-ant-m-sg
+	oci	Loreto	np-ant-m-sg	fra	Loreto	np-ant-m-sg
+	oci	Gianfranco	np-ant-m-sg	fra	Gianfranco	np-ant-m-sg
+	oci	Aurelio	np$np-ant-m-sg	fra	Aurelio	np-ant-m-sg$np$np-ant
+	oci	Johnnie	np-ant-m-sg	fra	Johnnie	np$np-ant-m-sg$np-ant
+	oci	Ingmar	np-ant-m-sg	fra	Ingmar	np-ant-m-sg$np
+	oci	Rashid	np-ant-m-sg	fra	Rashid	np-ant-m-sg
+	oci	Raffaele	np-ant-m-sg	fra	Raffaele	np$np-ant-m-sg$np-ant
+	oci	Jean-Bernard	np-ant-m-sg	fra	Jean-Bernard	np$np-ant-m-sg$np-ant
+	oci	Cedric	np-ant-m-sg	fra	Cedric	np$np-ant$np-ant-m-sg
+	oci	Alvaro	np-ant-m-sg	fra	Alvaro	np$np-ant-m-sg$np-ant
+	oci	Nicky	np-ant-m-sg	fra	Nicky	np-ant-m-sg
+	oci	Leopoldo	np-ant-m-sg	fra	Leopoldo	np-ant-m-sg$np$np-ant
+	oci	Adnan	np-ant-m-sg	fra	Adnan	np$np-ant-m-sg
+	oci	Sancho	np$np-ant-m-sg	fra	Sancho	np-ant-m-sg$np$np-ant
+	oci	Ronaldinho	np$np-ant-m-sg	fra	Ronaldinho	np-ant-m-sg$np
+	oci	Popeye	np-ant-m-sg	fra	Popeye	np-ant-m-sg
+	oci	Léotard	np-ant-m-sg	fra	Léotard	np$np-ant-m-sg
+	oci	Iago	np-ant-m-sg	fra	Iago	np-ant-m-sg
+	oci	Xavi	np$np-ant-m-sg	fra	Xavi	np-ant-m-sg
+	oci	Mirko	np-ant-m-sg	fra	Mirko	np$np-ant$np-ant-m-sg
+	oci	Mikel	np$np-ant-m-sg	fra	Mikel	np$np-ant-m-sg$np-ant
+	oci	Cristian	np$np-ant-m-sg	fra	Cristian	np$np-ant-m-sg$np-ant
+	oci	Yoda	np-ant-m-sg	fra	Yoda	np-ant-m-sg
+	oci	Lou Reed	np-ant-m-sg	fra	Lou Reed	np$np-ant-m-sg$np-ant
+	oci	Ismael	np-ant-m-sg	fra	Ismael	np-ant-m-sg$np$np-ant
+	oci	Carmelo	np-ant-m-sg	fra	Carmelo	np-ant-m-sg$np$np-ant
+	oci	Alessio	np-ant-m-sg	fra	Alessio	np$np-ant-m-sg
+	oci	Sylvester Stallone	np-ant-m-sg	fra	Sylvester Stallone	np$np-ant-m-sg$np-ant
+	oci	Silvestre	np$np-ant-m-sg	fra	Silvestre	np-ant-m-sg$np$np-ant
+	oci	Priam	np-ant-m-sg	fra	Priam	np-ant-m-sg
+	oci	Plotin	np-ant-m-sg	fra	Plotin	np-ant-m-sg
+	oci	Isidro	np$np-ant-m-sg	fra	Isidro	np-ant-m-sg$np$np-ant
+	oci	Camilo	np$np-ant-m-sg	fra	Camilo	np$np-ant-m-sg$np-ant
+	oci	Bartolomé	np-ant-m-sg	fra	Bartolomé	np$np-ant-m-sg$np-ant
+	oci	Al Capone	np-ant-m-sg	fra	Al Capone	np-ant-m-sg
+	oci	Tiago	np-ant-m-sg	fra	Tiago	np$np-ant$np-ant-m-sg
+	oci	Humberto	np-ant-m-sg	fra	Humberto	np$np-ant$np-ant-m-sg
+	oci	Titi	np-ant-m-sg	fra	Titi	np-ant-m-sg
+	oci	Manolo	np$np-ant-m-sg	fra	Manolo	np$np-ant-m-sg$np-ant
+	oci	Hugo Chávez	np-ant-m-sg	fra	Hugo Chávez	np$np-ant-m-sg
+	oci	Massimiliano	np-ant-m-sg	fra	Massimiliano	np$np-ant$np-ant-m-sg
+	oci	Feliciano	np-ant-m-sg	fra	Feliciano	np-ant-m-sg
+	oci	Andreu	np-ant-m-sg	fra	Andreu	np$np-ant-m-sg
+	oci	Al Gore	np-ant-m-sg	fra	Al Gore	np$np-ant$np-ant-m-sg
+	oci	Francesc	np$np-ant-m-sg	fra	Francesc	np$np-ant-m-sg
+	oci	Ramiro	np-ant-m-sg	fra	Ramiro	np$np-ant-m-sg$np-ant
+	oci	Niklas	np-ant-m-sg	fra	Niklas	np-ant-m-sg
+	oci	León	np-ant-m-sg	fra	León	np$np-ant-m-sg$np-ant
+	oci	Gerardo	np$np-ant-m-sg	fra	Gerardo	np-ant$np$np-ant-m-sg
+	oci	Gael	np-ant-m-sg	fra	Gael	np$np-ant$np-ant-m-sg
+	oci	Francis Bacon	np-ant-m-sg	fra	Francis Bacon	np$np-ant$np-ant-m-sg
+	oci	Yannis	np-ant-m-sg	fra	Yannis	np-ant-m-sg
+	oci	Teodoro	np-ant-m-sg	fra	Teodoro	np$np-ant-m-sg$np-ant
+	oci	Takeo	np-ant-m-sg	fra	Takeo	np$np-ant-m-sg
+	oci	Sergi	np$np-ant-m-sg	fra	Sergi	np$np-ant-m-sg
+	oci	Ferran	np$np-ant-m-sg	fra	Ferran	np-ant-m-sg
+	oci	Caetano	np-ant-m-sg	fra	Caetano	np-ant-m-sg
+	oci	Al Pacino	np-ant-m-sg	fra	Al Pacino	np-ant-m-sg
+	oci	Yogi	np-ant-m-sg	fra	Yogi	np-ant-m-sg
+	oci	Ramire	np-ant-m-sg	fra	Ramire	np-ant-m-sg
+	oci	Gila	np-ant-m-sg	fra	Gila	np-ant-m-sg
+	oci	Basilio	np$np-ant-m-sg	fra	Basilio	np$np-ant-m-sg$np-ant
+	oci	Yohann	np-ant-m-sg	fra	Yohann	np-ant-m-sg
+	oci	Semion	np-ant-m-sg	fra	Semion	np-ant-m-sg
+	oci	Lalo	np-ant-m-sg	fra	Lalo	np-ant-m-sg
+	oci	Justo	np-ant-m-sg	fra	Justo	np-ant-m-sg
+	oci	Hosni	np-ant-m-sg	fra	Hosni	np$np-ant-m-sg
+	oci	Helder	np-ant-m-sg	fra	Helder	np-ant-m-sg
+	oci	Emiliano	np$np-ant-m-sg	fra	Emiliano	np$np-ant$np-ant-m-sg
+	oci	Sixt	np-ant-m-sg	fra	Sixt	np-ant-m-sg
+	oci	Robinho	np-ant-m-sg	fra	Robinho	np-ant-m-sg
+	oci	Raimundo	np$np-ant-m-sg	fra	Raimundo	np$np-ant-m-sg$np-ant
+	oci	Patricio	np-ant-m-sg	fra	Patricio	np-ant-m-sg
+	oci	Alfons	np$np-ant-m-sg	fra	Alfons	np$np-ant-m-sg$np-ant
+	oci	Alexandre	np$np-ant-m-sg	fra	Alexandr	np$np-ant$np-ant-m-sg
+	oci	Amadeo	np-ant-m-sg	fra	Amadeo	np$np-ant-m-sg$np-ant
+	oci	Aly	np-ant-m-sg	fra	Aly	np$np-ant-m-sg
+	oci	Aidan	np-ant-m-sg	fra	Aidan	np$np-ant-m-sg$np-ant
+	oci	Sabino	np-ant-m-sg	fra	Sabino	np$np-ant-m-sg$np-ant
+	oci	Tayyip	np-ant-m-sg	fra	Tayyip	np$np-ant-m-sg
+	oci	Suleiman	np-ant-m-sg	fra	Suleiman	np$np-ant-m-sg
+	oci	Saddam	np$np-ant-m-sg	fra	Saddam	np$np-ant-m-sg$np-ant
+	oci	Presley	np$np-ant-m-sg	fra	Presley	np-ant-m-sg$np$np-ant
+	oci	Guillem	np$np-ant-m-sg	fra	Guillem	np$np-ant-m-sg
+	oci	Garcia	np$np-ant-m-sg	fra	Garcia	np-ant-m-sg
+	oci	Fulgencio	np-ant-m-sg	fra	Fulgencio	np-ant-m-sg
+	oci	Emeric	np-ant-m-sg	fra	Emeric	np-ant-m-sg
+	oci	Cesc	np$np-ant-m-sg	fra	Cesc	np-ant-m-sg
+	oci	Akim	np-ant-m-sg	fra	Akim	np$np-ant-m-sg
+	oci	Vasile	np-ant-m-sg	fra	Vasile	np-ant-m-sg
+	oci	Nicanor	np-ant-m-sg	fra	Nicanor	np$np-ant-m-sg$np-ant
+	oci	Maximiliano	np-ant-m-sg	fra	Maximiliano	np-ant-m-sg
+	oci	Gastón	np-ant-m-sg	fra	Gastón	np-ant-m-sg
+	oci	Gari	np-ant-m-sg	fra	Gari	np$np-ant-m-sg
+	oci	Garcilaso	np$np-ant-m-sg	fra	Garcilaso	np-ant-m-sg$np
+	oci	Rony	np-ant-m-sg	fra	Rony	np$np-ant-m-sg
+	oci	Roh	np-ant-m-sg	fra	Roh	np$np-ant-m-sg
+	oci	Roger Bacon	np-ant-m-sg	fra	Roger Bacon	np$np-ant-m-sg$np-ant
+	oci	Raimon	np$np-ant-m-sg	fra	Raimon	np-ant-m-sg$np
+	oci	Rafa	np$np-ant-m-sg	fra	Rafa	np$np-ant-m-sg$np-ant
+	oci	Patxi	np$np-ant-m-sg	fra	Patxi	np$np-ant-m-sg$np-ant
+	oci	Mariano Rajoy	np-ant-m-sg	fra	Mariano Rajoy	np$np-ant-m-sg
+	oci	Josep Maria	np-ant-m-sg	fra	Josep Maria	np-ant-m-sg
+	oci	Jamiroquai	np-ant-m-sg	fra	Jamiroquai	np-ant-m-sg
+	oci	Dionisio	np-ant-m-sg	fra	Dionisio	np-ant-m-sg
+	oci	Dariusz	np-ant-m-sg	fra	Dariusz	np$np-ant-m-sg
+	oci	Dámaso	np-ant-m-sg	fra	Dámaso	np-ant-m-sg
+	oci	Arcadi	np$np-ant-m-sg	fra	Arcadi	np-ant-m-sg$np
+	oci	Xabi	np-ant-m-sg	fra	Xabi	np-ant-m-sg$np
+	oci	Valdo	np-ant-m-sg	fra	Valdo	np$np-ant-m-sg$np-ant
+	oci	Román	np$np-ant-m-sg	fra	Román	np-ant-m-sg$np$np-ant
+	oci	Imanol	np-ant-m-sg	fra	Imanol	np$np-ant-m-sg$np-ant
+	oci	Gregori	np-ant-m-sg	fra	Gregori	np-ant-m-sg
+	oci	Benigno	np-ant-m-sg	fra	Benigno	np$np-ant-m-sg$np-ant
+	oci	Akhmed	np-ant-m-sg	fra	Akhmed	np$np-ant-m-sg
+	oci	Abebe	np-ant-m-sg	fra	Abebe	np$np-ant-m-sg
+	oci	Severiano	np-ant-m-sg	fra	Severiano	np$np-ant-m-sg$np-ant
+	oci	Semen	np-ant-m-sg	fra	Semen	np-ant-m-sg
+	oci	Rufino	np$np-ant-m-sg	fra	Rufino	np-ant-m-sg$np$np-ant
+	oci	Renny	np-ant-m-sg	fra	Renny	np$np-ant-m-sg
+	oci	Nichol	np-ant-m-sg	fra	Nichol	np-ant-m-sg
+	oci	El Greco	np-ant$np-ant-m-sg	fra	El Greco	np-ant$np-ant-m-sg
+	oci	Daniel Ortega	np-ant-m-sg	fra	Daniel Ortega	np$np-ant-m-sg$np-ant
+	oci	Blay	np-ant-m-sg	fra	Blay	np-ant-m-sg
+	oci	Berenguer	np$np-ant-m-sg	fra	Berenguer	np-ant-m-sg$np
+	oci	Avelino	np-ant-m-sg	fra	Avelino	np-ant-m-sg
+	oci	Roderic	np$np-ant-m-sg	fra	Roderic	np-ant-m-sg
+	oci	Reynold	np-ant-m-sg	fra	Reynold	np-ant-m-sg
+	oci	Mirco	np-ant-m-sg	fra	Mirco	np$np-ant-m-sg
+	oci	Maximo	np-ant-m-sg	fra	Maximo	np$np-ant$np-ant-m-sg
+	oci	Mateu	np-ant-m-sg	fra	Mateu	np-ant-m-sg
+	oci	Manuele	np-ant-m-sg	fra	Manuele	np$np-ant-m-sg
+	oci	Laureano	np-ant-m-sg	fra	Laureano	np-ant-m-sg
+	oci	Carolis	np-ant-m-sg	fra	Carolis	np$np-ant-m-sg
+	oci	Camil	np-ant-m-sg	fra	Camil	np-ant-m-sg
+	oci	Gabi	np-ant-m-sg	fra	Gabi	np-ant-m-sg
+	oci	Climent	np$np-ant-m-sg	fra	Climent	np-ant-m-sg$np
+	oci	Aristides	np-ant-m-sg	fra	Aristides	np-ant-m-sg
+	oci	Andris	np-ant-m-sg	fra	Andris	np$np-ant-m-sg
+	oci	Olga	np$np-ant-f-sg	fra	Olga	np$np-ant-f-sg$np-ant
+	oci	Marge	np-ant-f-sg	fra	Marge	np-ant-f-sg$np
+	oci	Lola	np$np-ant-f-sg	fra	Lola	np-ant$np-ant-f-sg$np
+	oci	Bella	np-ant-f-sg	fra	Bella	np-ant-f-sg
+	oci	Beth	np-ant-f-sg	fra	Beth	np-ant-f-sg
+	oci	Shannon	np-ant-f-sg	fra	Shannon	np-ant-f-sg
+	oci	Faith	np-ant-f-sg	fra	Faith	np-ant-f-sg
+	oci	Daisy	np-ant-f-sg	fra	Daisy	np-ant-f-sg
+	oci	Asia	np$np-ant-f-sg	fra	Asia	np-ant-f-sg
+	oci	Manon	np-ant-f-sg	fra	Manon	np-ant-f-sg$np-ant
+	oci	Heather	np-ant-f-sg	fra	Heather	np-ant-f-sg$np$np-ant
+	oci	Maggie	np$np-ant-f-sg	fra	Maggie	np-ant-f-sg$np$np-ant
+	oci	Christina	np$np-ant-f-sg	fra	Christina	np-ant-f-sg
+	oci	Gala	np-ant-f-sg	fra	Gala	np-ant-f-sg
+	oci	Lili	np-ant-f-sg	fra	Lili	np-ant-f-sg
+	oci	Barbie	np-ant-f-sg	fra	Barbie	np-ant-f-sg
+	oci	Jill	np-ant-f-sg	fra	Jill	np-ant-f-sg
+	oci	Ruby	np-ant-f-sg	fra	Ruby	np-ant-f-sg
+	oci	Brooke	np-ant-f-sg	fra	Brooke	np-ant-f-sg
+	oci	Meredith	np-ant-f-sg	fra	Meredith	np-ant-f-sg
+	oci	Nadia	np-ant-f-sg	fra	Nadia	np-ant-f-sg
+	oci	Irina	np-ant-f-sg	fra	Irina	np-ant-f-sg
+	oci	Yolande	np-ant-f-sg	fra	Yolande	np-ant-f-sg
+	oci	Micheline	np-ant-f-sg	fra	Micheline	np-ant-f-sg
+	oci	Gisèle	np-ant-f-sg	fra	Gisèle	np-ant-f-sg$np-ant
+	oci	Rosaire	np-ant-f-sg	fra	Rosaire	np-ant-f-sg
+	oci	Flora	np-ant-f-sg	fra	Flora	np-ant-f-sg
+	oci	Adrienne	np-ant-f-sg	fra	Adrienne	np-ant-f-sg
+	oci	Elisabet II	np-ant-f-sg	fra	Élisabeth II	np$np-ant-f-sg
+	oci	Aran	np$np-ant-f-sg	fra	Aran	np-ant-f-sg
+	oci	Avery	np-ant-f-sg	fra	Avery	np-ant-f-sg
+	oci	Danièle	np-ant-f-sg	fra	Danièle	np-ant-f-sg$np$np-ant
+	oci	Joëlle	np-ant-f-sg	fra	Joëlle	np-ant-f-sg$np$np-ant
+	oci	Marie-Christine	np-ant-f-sg	fra	Marie-Christine	np-ant-f-sg
+	oci	Maria Cristina	np-ant-f-sg	fra	Marie-Christine	np-ant-f-sg
+	oci	Maria Cristina	np-ant-f-sg	fra	Maria Cristina	np-ant-f-sg
+	oci	Hermione	np-ant-f-sg	fra	Hermione	np-ant-f-sg$np
+	oci	València	np$np-ant-f-sg	fra	Valencia	np-ant-f-sg
+	oci	Janine	np-ant-f-sg	fra	Janine	np-ant-f-sg
+	oci	Hortense	np-ant-f-sg	fra	Hortense	np-ant-f-sg
+	oci	Émilie	np-ant-f-sg	fra	Émilie	np-ant-f-sg
+	oci	Juno	np-ant-f-sg	fra	Juno	np-ant-f-sg
+	oci	Francine	np-ant-f-sg	fra	Francine	np-ant-f-sg$np$np-ant
+	oci	Odette	np-ant-f-sg	fra	Odette	np-ant-f-sg
+	oci	Bianca	np-ant-f-sg	fra	Bianca	np-ant-f-sg
+	oci	Anastasia	np-ant-f-sg	fra	Anastasia	np-ant-f-sg$np$np-ant
+	oci	Jana	np$np-ant-f-sg	fra	Jana	np-ant-f-sg
+	oci	Irénée	np-ant-f-sg	fra	Irénée	np-ant-f-sg
+	oci	Arlette	np-ant-f-sg	fra	Arlette	np-ant-f-sg$np$np-ant
+	oci	Peggy	np-ant-f-sg	fra	Peggy	np-ant-f-sg
+	oci	Melody	np-ant-f-sg	fra	Melody	np-ant-f-sg
+	oci	Augustine	np-ant-f-sg	fra	Augustine	np$np-ant-f-sg
+	oci	Régine	np-ant-f-sg	fra	Régine	np-ant-f-sg
+	oci	Maryse	np-ant-f-sg	fra	Maryse	np-ant-f-sg
+	oci	Deborah	np-ant-f-sg	fra	Deborah	np-ant-f-sg
+	oci	Britney Spears	np-ant-f-sg	fra	Britney Spears	np$np-ant-f-sg$np-ant
+	oci	Abby	np-ant-f-sg	fra	Abby	np-ant-f-sg
+	oci	Ella	np-ant-f-sg	fra	Ella	np-ant-f-sg
+	oci	Erin	np-ant-f-sg	fra	Erin	np-ant-f-sg
+	oci	Rihanna	np-ant-f-sg	fra	Rihanna	np-ant-f-sg
+	oci	Destiny	np-ant-f-sg	fra	Destiny	np-ant-f-sg
+	oci	Cathy	np-ant-f-sg	fra	Cathy	np-ant-f-sg$np-ant
+	oci	Fabienne	np-ant-f-sg	fra	Fabienne	np-ant-f-sg$np-ant
+	oci	Dolores	np$np-ant-f-sg	fra	Dolores	np-ant-f-sg$np-ant
+	oci	Lea	np-ant-f-sg	fra	Lea	np-ant-f-sg
+	oci	Gina	np-ant-f-sg	fra	Gina	np-ant-f-sg
+	oci	Ava	np-ant-f-sg	fra	Ava	np-ant-f-sg
+	oci	Brenda	np-ant-f-sg	fra	Brenda	np-ant-f-sg
+	oci	April	np-ant-f-sg	fra	April	np-ant-f-sg
+	oci	Violet	np-ant-f-sg	fra	Violet	np-ant-f-sg
+	oci	Ursula	np-ant-f-sg	fra	Ursula	np-ant-f-sg
+	oci	Mina	np-ant-f-sg	fra	Mina	np-ant-f-sg
+	oci	Daniela	np-ant-f-sg	fra	Daniela	np-ant-f-sg
+	oci	Adeline	np-ant-f-sg	fra	Adeline	np-ant-f-sg$np-ant
+	oci	Ivy	np-ant-f-sg	fra	Ivy	np-ant-f-sg
+	oci	Estelle	np-ant-f-sg	fra	Estelle	np-ant-f-sg
+	oci	Paola	np$np-ant-f-sg	fra	Paola	np-ant-f-sg$np$np-ant
+	oci	Annick	np-ant-f-sg	fra	Annick	np-ant-f-sg$np-ant
+	oci	Sana	np-ant-f-sg	fra	Sana	np-ant-f-sg
+	oci	Lolita	np$np-ant-f-sg	fra	Lolita	np-ant-f-sg$np$np-ant
+	oci	Eulalie	np-ant-f-sg	fra	Eulalie	np-ant-f-sg
+	oci	Bertha	np-ant-f-sg	fra	Bertha	np-ant-f-sg
+	oci	Natacha	np-ant-f-sg	fra	Natacha	np-ant-f-sg
+	oci	Marian	np-ant-f-sg	fra	Marian	np-ant-f-sg$np$np-ant
+	oci	Savannah	np-ant-f-sg	fra	Savannah	np-ant-f-sg
+	oci	Cecilia	np$np-ant-f-sg	fra	Cecilia	np$np-ant-f-sg$np-ant
+	oci	Bennet	np-ant-f-sg	fra	Bennet	np-ant-f-sg
+	oci	Paulette	np-ant-f-sg	fra	Paulette	np-ant-f-sg$np-ant
+	oci	Lilian	np-ant-f-sg	fra	Lilian	np-ant-f-sg$np$np-ant
+	oci	Shelby	np-ant-f-sg	fra	Shelby	np-ant-f-sg
+	oci	Paige	np-ant-f-sg	fra	Paige	np-ant-f-sg
+	oci	Mariah	np-ant-f-sg	fra	Mariah	np-ant-f-sg
+	oci	Lina	np-ant-f-sg	fra	Lina	np-ant-f-sg$np$np-ant
+	oci	Lana	np-ant-f-sg	fra	Lana	np-ant-f-sg
+	oci	Cindy	np-ant-f-sg	fra	Cindy	np-ant-f-sg
+	oci	Unique	np-ant-f-sg	fra	Unique	np-ant-f-sg
+	oci	Lucienne	np-ant-f-sg	fra	Lucienne	np-ant-f-sg
+	oci	Caterina	np$np-ant-f-sg	fra	Caterina	np-ant-f-sg
+	oci	Katrina	np$np-ant-f-sg	fra	Katrina	np$np-ant-f-sg$np-ant
+	oci	Elisa	np$np-ant-f-sg	fra	Elisa	np-ant$np-ant-f-sg$np
+	oci	Skye	np-ant-f-sg	fra	Skye	np-ant-f-sg
+	oci	Samara	np-ant-f-sg$np	fra	Samara	np-ant-f-sg
+	oci	Lucille	np-ant-f-sg	fra	Lucille	np-ant-f-sg
+	oci	Farah	np-ant-f-sg	fra	Farah	np-ant-f-sg
+	oci	Adriana	np$np-ant-f-sg	fra	Adriana	np$np-ant-f-sg$np-ant
+	oci	Tania	np$np-ant-f-sg	fra	Tania	np-ant-f-sg$np$np-ant
+	oci	Hana	np-ant-f-sg	fra	Hana	np-ant-f-sg
+	oci	Fatima	np-ant-f-sg	fra	Fatima	np-ant-f-sg
+	oci	Edda	np-ant-f-sg	fra	Edda	np-ant-f-sg
+	oci	Drina	np-ant-f-sg	fra	Drina	np-ant-f-sg
+	oci	Scarlett	np$np-ant-f-sg	fra	Scarlett	np-ant-f-sg$np$np-ant
+	oci	Kira	np-ant-f-sg	fra	Kira	np-ant-f-sg
+	oci	Harmony	np-ant-f-sg	fra	Harmony	np-ant-f-sg
+	oci	Greta	np-ant-f-sg	fra	Greta	np-ant-f-sg
+	oci	Ginette	np-ant-f-sg	fra	Ginette	np-ant-f-sg
+	oci	Catalina	np$np-ant-f-sg	fra	Catalina	np$np-ant-f-sg$np-ant
+	oci	Liliane	np-ant-f-sg	fra	Liliane	np-ant-f-sg
+	oci	Laurel	np-ant-f-sg	fra	Laurel	np-ant-f-sg
+	oci	Georgette	np-ant-f-sg	fra	Georgette	np-ant-f-sg$np-ant
+	oci	Beatrice	np-ant-f-sg	fra	Beatrice	np-ant-f-sg
+	oci	Agnes	np-ant-f-sg	fra	Agnes	np-ant-f-sg
+	oci	Trinidad	np-ant-f-sg	fra	Trinidad	np-ant-f-sg
+	oci	Tea	np-ant-f-sg	fra	Tea	np-ant-f-sg
+	oci	Stacy	np-ant-f-sg	fra	Stacy	np-ant-f-sg
+	oci	Lisette	np-ant-f-sg	fra	Lisette	np-ant-f-sg
+	oci	Kristen	np-ant-f-sg	fra	Kristen	np-ant-f-sg$np-ant
+	oci	Katy	np-ant-f-sg	fra	Katy	np-ant-f-sg
+	oci	Eliza	np-ant-f-sg	fra	Eliza	np-ant-f-sg
+	oci	Zara	np-ant-f-sg	fra	Zara	np$np-ant-f-sg$np-ant
+	oci	Viviane	np-ant-f-sg	fra	Viviane	np-ant-f-sg
+	oci	Vittoria	np-ant-f-sg	fra	Vittoria	np-ant-f-sg
+	oci	Lilly	np-ant-f-sg	fra	Lilly	np-ant-f-sg
+	oci	Kathryn	np-ant-f-sg	fra	Kathryn	np-ant-f-sg
+	oci	Julienne	np-ant-f-sg	fra	Julienne	np-ant-f-sg
+	oci	Elaine	np-ant-f-sg	fra	Elaine	np-ant-f-sg
+	oci	Cora	np-ant-f-sg	fra	Cora	np-ant-f-sg
+	oci	Cassie	np-ant-f-sg	fra	Cassie	np-ant-f-sg
+	oci	Amber	np-ant-f-sg	fra	Amber	np-ant-f-sg
+	oci	Vesta	np-ant-f-sg	fra	Vesta	np-ant-f-sg
+	oci	Romaine	np-ant-f-sg	fra	Romaine	np-ant-f-sg
+	oci	Pandora	np-ant-f-sg	fra	Pandora	np-ant-f-sg
+	oci	Marcia	np-ant-f-sg	fra	Marcia	np-ant-f-sg
+	oci	Kimberley	np-ant-f-sg	fra	Kimberley	np-ant-f-sg
+	oci	Ilia	np-ant-f-sg	fra	Ilia	np-ant-f-sg
+	oci	Honorine	np-ant-f-sg	fra	Honorine	np-ant-f-sg
+	oci	Gal	np-ant-f-sg	fra	Gal	np-ant-f-sg
+	oci	Fifi	np-ant-f-sg	fra	Fifi	np-ant-f-sg
+	oci	Eileen	np-ant-f-sg	fra	Eileen	np-ant-f-sg
+	oci	Candice	np-ant-f-sg	fra	Candice	np-ant-f-sg
+	oci	Lindsey	np-ant-f-sg	fra	Lindsey	np-ant-f-sg
+	oci	Kathy	np-ant-f-sg	fra	Kathy	np-ant-f-sg
+	oci	Jeannette	np-ant-f-sg	fra	Jeannette	np-ant-f-sg
+	oci	Irma	np-ant-f-sg	fra	Irma	np-ant-f-sg
+	oci	Giulia	np-ant-f-sg	fra	Giulia	np-ant-f-sg
+	oci	Miriam	np$np-ant-f-sg	fra	Miriam	np-ant-f-sg$np$np-ant
+	oci	Mariette	np-ant-f-sg	fra	Mariette	np-ant-f-sg
+	oci	Kristin	np-ant-f-sg	fra	Kristin	np-ant-f-sg$np-ant
+	oci	Jia	np-ant-f-sg	fra	Jia	np-ant-f-sg
+	oci	Abi	np-ant-f-sg	fra	Abi	np-ant-f-sg
+	oci	Nur	np-ant-f-sg	fra	Nur	np-ant-f-sg
+	oci	Marietta	np-ant-f-sg	fra	Marietta	np-ant-f-sg
+	oci	Louisa	np-ant-f-sg	fra	Louisa	np-ant-f-sg
+	oci	Léonie	np-ant-f-sg	fra	Léonie	np-ant-f-sg
+	oci	Joanna	np-ant-f-sg	fra	Joanna	np-ant-f-sg
+	oci	Selma	np-ant-f-sg	fra	Selma	np-ant-f-sg
+	oci	Marielle	np-ant-f-sg	fra	Marielle	np-ant-f-sg
+	oci	Katia	np-ant-f-sg	fra	Katia	np-ant-f-sg$np$np-ant
+	oci	Jocelyn	np-ant-f-sg	fra	Jocelyn	np-ant-f-sg
+	oci	Janis	np-ant-f-sg	fra	Janis	np-ant-f-sg
+	oci	Hayden	np-ant-f-sg	fra	Hayden	np-ant-f-sg
+	oci	Fiona	np-ant-f-sg	fra	Fiona	np-ant-f-sg
+	oci	Maureen	np-ant-f-sg	fra	Maureen	np-ant-f-sg
+	oci	Roxane	np-ant-f-sg	fra	Roxane	np-ant-f-sg
+	oci	Larissa	np-ant-f-sg$np	fra	Larissa	np-ant-f-sg
+	oci	Clio	np-ant-f-sg	fra	Clio	np$np-ant-f-sg
+	oci	Cassidy	np-ant-f-sg	fra	Cassidy	np-ant-f-sg
+	oci	Adama	np-ant-f-sg	fra	Adama	np-ant-f-sg
+	oci	Tori	np-ant-f-sg	fra	Tori	np-ant-f-sg
+	oci	Pilar	np$np-ant-f-sg	fra	Pilar	np$np-ant-f-sg$np-ant
+	oci	Meryl	np-ant-f-sg	fra	Meryl	np-ant-f-sg$np$np-ant
+	oci	Luisa	np$np-ant-f-sg	fra	Luisa	np$np-ant-f-sg$np-ant
+	oci	Lotte	np-ant-f-sg	fra	Lotte	np-ant-f-sg
+	oci	Josette	np-ant-f-sg	fra	Josette	np-ant-f-sg$np-ant
+	oci	Jenna	np-ant-f-sg	fra	Jenna	np-ant-f-sg
+	oci	Clarisse	np-ant-f-sg	fra	Clarisse	np-ant-f-sg
+	oci	Christa	np-ant-f-sg	fra	Christa	np-ant-f-sg
+	oci	Bridget	np$np-ant-f-sg	fra	Bridget	np-ant-f-sg
+	oci	Ambre	np-ant-f-sg	fra	Ambre	np-ant-f-sg
+	oci	Thelma	np-ant-f-sg	fra	Thelma	np-ant-f-sg
+	oci	Pierrette	np-ant-f-sg	fra	Pierrette	np-ant-f-sg
+	oci	Peireta	np-ant-f-sg	fra	Peireta	np-ant-f-sg
+	oci	Nor	np-ant-f-sg	fra	Nor	np-ant-f-sg
+	oci	Manuela	np$np-ant-f-sg	fra	Manuela	np$np-ant-f-sg$np-ant
+	oci	Katharine	np-ant-f-sg	fra	Katharine	np-ant-f-sg
+	oci	Dona	np-ant-f-sg	fra	Dona	np-ant-f-sg
+	oci	Arantxa	np-ant-f-sg	fra	Arantxa	np-ant-f-sg$np
+	oci	Angela Merkel	np-ant-f-sg	fra	Angela Merkel	np$np-ant-f-sg$np-ant
+	oci	Amable	np-ant-f-sg	fra	Amable	np-ant-f-sg
+	oci	Alexandrine	np-ant-f-sg	fra	Alexandrine	np-ant-f-sg
+	oci	Chiara	np-ant-f-sg	fra	Chiara	np-ant-f-sg
+	oci	Aria	np-ant-f-sg	fra	Aria	np-ant-f-sg
+	oci	Valeria	np$np-ant-f-sg	fra	Valeria	np-ant-f-sg
+	oci	Urgell	np$np-ant-f-sg	fra	Urgell	np-ant-f-sg
+	oci	Sabina	np-ant-f-sg	fra	Sabina	np-ant-f-sg
+	oci	Paloma	np$np-ant-f-sg	fra	Paloma	np$np-ant-f-sg$np-ant
+	oci	Nada	np-ant-f-sg	fra	Nada	np-ant-f-sg
+	oci	Margherita	np-ant-f-sg	fra	Margherita	np-ant-f-sg
+	oci	Laetitia	np-ant-f-sg	fra	Laetitia	np-ant-f-sg$np$np-ant
+	oci	Kirsten	np-ant-f-sg	fra	Kirsten	np-ant-f-sg
+	oci	Janice	np-ant-f-sg	fra	Janice	np-ant-f-sg$np-ant
+	oci	Gigi	np-ant-f-sg	fra	Gigi	np-ant-f-sg
+	oci	Christiana	np-ant-f-sg	fra	Christiana	np-ant-f-sg
+	oci	Angelina	np$np-ant-f-sg	fra	Angelina	np-ant-f-sg
+	oci	Alessandra	np-ant-f-sg	fra	Alessandra	np-ant-f-sg$np$np-ant
+	oci	Susanna	np$np-ant-f-sg	fra	Susanna	np-ant-f-sg
+	oci	Mariam	np-ant-f-sg	fra	Mariam	np-ant-f-sg
+	oci	Kylie	np-ant-f-sg	fra	Kylie	np-ant-f-sg
+	oci	Ina	np-ant-f-sg	fra	Ina	np-ant-f-sg
+	oci	Hamza	np-ant-f-sg	fra	Hamza	np-ant-f-sg
+	oci	Edna	np-ant-f-sg	fra	Edna	np-ant-f-sg
+	oci	Dionne	np-ant-f-sg	fra	Dionne	np-ant-f-sg
+	oci	Albertine	np-ant-f-sg	fra	Albertine	np-ant-f-sg
+	oci	Albertina	np-ant-f-sg	fra	Albertina	np-ant-f-sg
+	oci	Riva	np-ant-f-sg	fra	Riva	np-ant-f-sg
+	oci	Raymonde	np-ant-f-sg	fra	Raymonde	np-ant-f-sg
+	oci	Paine	np-ant-f-sg	fra	Paine	np-ant-f-sg
+	oci	Mila	np$np-ant-f-sg	fra	Mila	np$np-ant-f-sg$np-ant
+	oci	Marlene	np-ant-f-sg	fra	Marlene	np$np-ant-f-sg$np-ant
+	oci	Mallory	np-ant-f-sg	fra	Mallory	np-ant-f-sg
+	oci	Magda	np$np-ant-f-sg	fra	Magda	np$np-ant-f-sg$np-ant
+	oci	Loreto	np-ant-f-sg	fra	Loreto	np-ant-f-sg
+	oci	Lila	np-ant-f-sg	fra	Lita	np-ant-f-sg
+	oci	Lena	np$np-ant-f-sg	fra	Lena	np$np-ant$np-ant-f-sg
+	oci	Bénédicte	np-ant-f-sg	fra	Bénédicte	np-ant-f-sg
+	oci	Aubrey	np-ant-f-sg	fra	Aubrey	np-ant-f-sg
+	oci	Angie	np-ant-f-sg	fra	Angie	np-ant-f-sg
+	oci	Aimée	np-ant-f-sg	fra	Aimée	np-ant-f-sg
+	oci	Selena	np-ant-f-sg	fra	Selena	np-ant-f-sg
+	oci	Kimberly	np-ant-f-sg	fra	Kimberly	np-ant-f-sg
+	oci	Fortuna	np-ant-f-sg	fra	Fortuna	np-ant-f-sg
+	oci	Flo	np-ant-f-sg	fra	Flo	np-ant-f-sg
+	oci	Elvira	np$np-ant-f-sg	fra	Elvira	np-ant-f-sg$np$np-ant
+	oci	Edwige	np-ant-f-sg	fra	Edwige	np-ant-f-sg
+	oci	Concepción	np-ant-f-sg	fra	Concepción	np-ant-f-sg
+	oci	Bibi	np-ant-f-sg	fra	Bibi	np-ant-f-sg
+	oci	Anya	np-ant-f-sg	fra	Anya	np-ant-f-sg
+	oci	Philippine	np-ant-f-sg	fra	Philippine	np-ant-f-sg
+	oci	Perrine	np-ant-f-sg	fra	Perrine	np-ant-f-sg
+	oci	Mabel	np$np-ant-f-sg	fra	Mabel	np-ant-f-sg$np$np-ant
+	oci	Liv	np-ant-f-sg	fra	Liv	np$np-ant-f-sg
+	oci	Inès	np-ant-f-sg	fra	Inès	np-ant-f-sg
+	oci	Giovanna	np-ant-f-sg	fra	Giovanna	np-ant-f-sg$np$np-ant
+	oci	Elvire	np-ant-f-sg	fra	Elvire	np-ant-f-sg
+	oci	Dacia	np-ant-f-sg	fra	Dacia	np-ant-f-sg
+	oci	Cheyenne	np-ant-f-sg	fra	Cheyenne	np-ant-f-sg
+	oci	Beatrix	np-ant-f-sg	fra	Beatrix	np-ant-f-sg
+	oci	Abigail	np-ant-f-sg	fra	Abigail	np-ant-f-sg
+	oci	Liane	np-ant-f-sg	fra	Liane	np-ant-f-sg
+	oci	Kristina	np-ant-f-sg	fra	Kristina	np-ant-f-sg$np-ant
+	oci	Iona	np-ant-f-sg	fra	Iona	np-ant-f-sg
+	oci	Hazet	np-ant-f-sg	fra	Hazel	np-ant-f-sg
+	oci	Gia	np-ant-f-sg	fra	Gia	np-ant-f-sg
+	oci	Emilie	np-ant-f-sg	fra	Emilie	np-ant-f-sg
+	oci	Alexia	np-ant-f-sg	fra	Alexia	np-ant-f-sg
+	oci	Tess	np-ant-f-sg	fra	Tess	np-ant-f-sg
+	oci	Melinda	np$np-ant-f-sg	fra	Melinda	np-ant-f-sg
+	oci	Mahaut	np-ant-f-sg	fra	Mahaut	np-ant-f-sg
+	oci	Layla	np-ant-f-sg	fra	Layla	np-ant-f-sg
+	oci	Josephine	np-ant-f-sg	fra	Josephine	np-ant-f-sg
+	oci	Jocelyne	np-ant-f-sg	fra	Jocelyne	np-ant-f-sg
+	oci	Gladys	np-ant-f-sg	fra	Gladys	np-ant-f-sg
+	oci	Fedora	np-ant-f-sg	fra	Fedora	np-ant-f-sg
+	oci	Elise	np-ant-f-sg	fra	Elise	np-ant-f-sg
+	oci	Douce	np-ant-f-sg	fra	Douce	np-ant-f-sg
+	oci	Doça	np-ant-f-sg	fra	Douce	np-ant-f-sg
+	oci	Doça	np-ant-f-sg	fra	Doça	np-ant-f-sg
+	oci	Aspen	np-ant-f-sg	fra	Aspen	np-ant-f-sg
+	oci	Priscilla	np-ant-f-sg	fra	Priscilla	np-ant-f-sg
+	oci	Lillian	np-ant-f-sg	fra	Lillian	np-ant-f-sg
+	oci	Lila	np-ant-f-sg	fra	Lila	np-ant-f-sg
+	oci	Jasmin	np-ant-f-sg	fra	Jasmin	np-ant-f-sg
+	oci	Ibis	np-ant-f-sg	fra	Ibis	np-ant-f-sg
+	oci	Henrietta	np-ant-f-sg	fra	Henrietta	np-ant-f-sg
+	oci	Gabriella	np-ant-f-sg	fra	Gabriella	np-ant-f-sg
+	oci	Aidan	np-ant-f-sg	fra	Aida	np-ant-f-sg$np$np-ant
+	oci	Selva	np-ant-f-sg$np	fra	Selva	np-ant-f-sg
+	oci	Magali	np-ant-f-sg	fra	Magali	np-ant-f-sg
+	oci	Mackenzie	np-ant-f-sg	fra	Mackenzie	np-ant-f-sg$np$np-ant
+	oci	Leonora	np-ant-f-sg	fra	Leonora	np-ant-f-sg
+	oci	Lamia	np-ant-f-sg	fra	Lamia	np-ant-f-sg
+	oci	Josiane	np-ant-f-sg	fra	Josiane	np-ant-f-sg$np$np-ant
+	oci	Josiana	np-ant-f-sg	fra	Josiana	np-ant-f-sg
+	oci	Jeanette	np-ant-f-sg	fra	Jeanette	np-ant-f-sg
+	oci	Hadley	np-ant-f-sg	fra	Hadley	np-ant-f-sg
+	oci	Gilberte	np-ant-f-sg	fra	Gilberte	np-ant-f-sg
+	oci	Géraldine	np-ant-f-sg	fra	Géraldine	np-ant-f-sg$np$np-ant
+	oci	Frida	np-ant-f-sg	fra	Frida	np-ant-f-sg
+	oci	Esmeralda	np$np-ant-f-sg	fra	Esmeralda	np-ant-f-sg$np$np-ant
+	oci	Autumn	np-ant-f-sg	fra	Autumn	np-ant-f-sg
+	oci	Vivienne	np-ant-f-sg	fra	Vivienne	np-ant-f-sg
+	oci	Roxanne	np-ant-f-sg	fra	Roxanne	np-ant-f-sg
+	oci	Noémie	np-ant-f-sg	fra	Noémie	np-ant-f-sg
+	oci	Lexus	np-ant-f-sg	fra	Lexus	np-ant-f-sg
+	oci	Indira	np-ant-f-sg	fra	Indira	np-ant-f-sg
+	oci	Esperanza	np$np-ant-f-sg	fra	Esperanza	np-ant-f-sg
+	oci	Aung	np-ant-f-sg	fra	Aung	np-ant-f-sg
+	oci	Anastasie	np-ant-f-sg	fra	Anastasie	np$np-ant-f-sg$np-ant
+	oci	Viktoria	np-ant-f-sg	fra	Viktoria	np-ant-f-sg
+	oci	Stefani	np-ant-f-sg	fra	Stefani	np-ant-f-sg
+	oci	Shakira	np-ant-f-sg	fra	Shakira	np-ant-f-sg
+	oci	Nicolle	np-ant-f-sg	fra	Nicolle	np-ant-f-sg
+	oci	Lula	np$np-ant-f-sg	fra	Lula	np-ant-f-sg$np$np-ant
+	oci	Leila	np-ant-f-sg	fra	Leila	np-ant-f-sg
+	oci	Juana	np$np-ant-f-sg	fra	Juana	np$np-ant-f-sg$np-ant
+	oci	Jeannine	np-ant-f-sg	fra	Jeannine	np-ant-f-sg
+	oci	Gillian	np-ant-f-sg	fra	Gillian	np-ant-f-sg
+	oci	Fátima	np$np-ant-f-sg	fra	Fátima	np$np-ant-f-sg$np-ant
+	oci	Fara	np-ant-f-sg	fra	Fara	np-ant-f-sg
+	oci	Eugenia	np$np-ant-f-sg	fra	Eugenia	np$np-ant-f-sg
+	oci	Aura	np-ant-f-sg	fra	Aura	np$np-ant-f-sg
+	oci	Tatum	np-ant-f-sg	fra	Tatum	np-ant-f-sg
+	oci	Tanya	np-ant-f-sg	fra	Tanya	np-ant-f-sg
+	oci	Suzette	np-ant-f-sg	fra	Suzette	np-ant-f-sg
+	oci	Rosetta	np-ant-f-sg	fra	Rosetta	np-ant-f-sg
+	oci	Keren	np-ant-f-sg	fra	Keren	np-ant-f-sg
+	oci	Jolie	np-ant-f-sg	fra	Jolie	np-ant-f-sg
+	oci	Annabelle	np-ant-f-sg	fra	Annabelle	np-ant-f-sg
+	oci	Amine	np-ant-f-sg	fra	Amine	np-ant-f-sg
+	oci	Ally	np-ant-f-sg	fra	Ally	np-ant-f-sg
+	oci	Tia	np-ant-f-sg	fra	Tia	np-ant-f-sg
+	oci	Placide	np-ant-f-sg	fra	Placide	np-ant-f-sg
+	oci	Placid	np-ant-f-sg	fra	Placid	np-ant-f-sg
+	oci	Meadow	np-ant-f-sg	fra	Meadow	np-ant-f-sg
+	oci	Marisa	np$np-ant-f-sg	fra	Marisa	np$np-ant-f-sg$np-ant
+	oci	Macy	np-ant-f-sg	fra	Macy	np-ant-f-sg
+	oci	Juliana	np-ant-f-sg	fra	Juliana	np-ant-f-sg
+	oci	Franca	np-ant-f-sg	fra	Franca	np-ant-f-sg
+	oci	Fernande	np-ant-f-sg	fra	Fernande	np-ant-f-sg
+	oci	Fernanda	np$np-ant-f-sg	fra	Fernanda	np-ant-f-sg$np$np-ant
+	oci	Coral	np-ant-f-sg	fra	Coral	np-ant-f-sg
+	oci	Colleen	np-ant-f-sg	fra	Colleen	np-ant-f-sg
+	oci	Belinda	np-ant-f-sg	fra	Belinda	np-ant-f-sg
+	oci	Beatriz	np$np-ant-f-sg	fra	Beatriz	np$np-ant$np-ant-f-sg
+	oci	Sheryl	np-ant-f-sg	fra	Sheryl	np-ant-f-sg
+	oci	Rosie	np-ant-f-sg	fra	Rosie	np-ant-f-sg
+	oci	Pola	np-ant-f-sg	fra	Pola	np-ant-f-sg
+	oci	Patience	np-ant-f-sg	fra	Patience	np-ant-f-sg
+	oci	Maura	np-ant-f-sg	fra	Maura	np-ant-f-sg
+	oci	Maryam	np-ant-f-sg	fra	Maryam	np-ant-f-sg
+	oci	Margaux	np-ant-f-sg	fra	Margaux	np-ant-f-sg
+	oci	Lucette	np-ant-f-sg	fra	Lucette	np-ant-f-sg
+	oci	Hilda	np-ant-f-sg	fra	Hilda	np-ant-f-sg
+	oci	Charity	np-ant-f-sg	fra	Charity	np-ant-f-sg
+	oci	Amandine	np-ant-f-sg	fra	Amandine	np-ant-f-sg
+	oci	Agnieszka	np-ant-f-sg	fra	Agnieszka	np$np-ant-f-sg$np-ant
+	oci	Susanne	np-ant-f-sg	fra	Susanne	np-ant-f-sg
+	oci	Rim	np-ant-f-sg	fra	Rim	np-ant-f-sg
+	oci	Regan	np-ant-f-sg	fra	Regan	np-ant-f-sg
+	oci	Philippa	np-ant-f-sg	fra	Philippa	np-ant-f-sg
+	oci	Neva	np-ant-f-sg	fra	Neva	np-ant-f-sg
+	oci	Johanne	np-ant-f-sg	fra	Johanne	np-ant-f-sg
+	oci	Isadora	np-ant-f-sg	fra	Isadora	np-ant-f-sg
+	oci	Armelle	np-ant-f-sg	fra	Armelle	np-ant-f-sg
+	oci	Zita	np-ant-f-sg	fra	Zita	np-ant-f-sg
+	oci	Victorine	np-ant-f-sg	fra	Victorine	np-ant-f-sg
+	oci	Tierra	np-ant-f-sg	fra	Tierra	np-ant-f-sg
+	oci	Shea	np-ant-f-sg	fra	Shea	np-ant-f-sg
+	oci	Rachida	np-ant-f-sg	fra	Rachida	np-ant-f-sg
+	oci	Mildred	np-ant-f-sg	fra	Mildred	np-ant-f-sg
+	oci	Evita	np-ant-f-sg	fra	Evita	np-ant-f-sg
+	oci	Conchita	np-ant-f-sg	fra	Conchita	np-ant-f-sg
+	oci	Wilma	np-ant-f-sg	fra	Wilma	np-ant-f-sg
+	oci	Tatyana	np-ant-f-sg	fra	Tatyana	np-ant-f-sg
+	oci	Talia	np-ant-f-sg	fra	Talia	np-ant-f-sg
+	oci	Pina	np-ant-f-sg	fra	Pina	np-ant-f-sg
+	oci	Océane	np-ant-f-sg	fra	Océane	np-ant-f-sg
+	oci	Maude	np-ant-f-sg	fra	Maude	np-ant-f-sg
+	oci	Mane	np-ant-f-sg	fra	Mane	np-ant-f-sg
+	oci	Mame	np-ant-f-sg	fra	Mame	np-ant-f-sg
+	oci	Maddalena	np-ant-f-sg	fra	Maddalena	np-ant-f-sg
+	oci	Jodie	np-ant-f-sg	fra	Jodie	np-ant-f-sg
+	oci	Jasmine	np-ant-f-sg	fra	Jasmine	np-ant-f-sg
+	oci	Giulietta	np-ant-f-sg	fra	Giulietta	np-ant-f-sg
+	oci	Giselle	np-ant-f-sg	fra	Giselle	np-ant-f-sg
+	oci	Gemma	np$np-ant-f-sg	fra	Gemma	np$np-ant-f-sg$np-ant
+	oci	Fabiola	np-ant-f-sg	fra	Fabiola	np$np-ant-f-sg$np-ant
+	oci	Eleonora	np-ant-f-sg	fra	Eleonora	np-ant-f-sg
+	oci	Cécilia	np-ant-f-sg	fra	Cécilia	np$np-ant$np-ant-f-sg
+	oci	Cayla	np-ant-f-sg	fra	Cayla	np-ant-f-sg
+	oci	Brandy	np-ant-f-sg	fra	Brandy	np-ant-f-sg
+	oci	Barbra	np-ant-f-sg	fra	Barbra	np-ant-f-sg
+	oci	Yolanda	np$np-ant-f-sg	fra	Yolanda	np$np-ant-f-sg$np-ant
+	oci	Rhode	np-ant-f-sg	fra	Rhode	np-ant-f-sg
+	oci	Madeline	np-ant-f-sg	fra	Madeline	np-ant-f-sg
+	oci	Helga	np-ant-f-sg	fra	Helga	np-ant-f-sg
+	oci	Geraldine	np-ant-f-sg	fra	Geraldine	np-ant-f-sg
+	oci	Félicie	np-ant-f-sg	fra	Félicie	np-ant-f-sg
+	oci	Felicia	np-ant-f-sg	fra	Felicia	np-ant-f-sg
+	oci	Electra	np-ant-f-sg	fra	Electra	np-ant-f-sg
+	oci	Delia	np-ant-f-sg	fra	Delia	np-ant-f-sg
+	oci	Concha	np-ant-f-sg	fra	Concha	np-ant-f-sg
+	oci	Clarissa	np-ant-f-sg	fra	Clarissa	np-ant-f-sg
+	oci	Annunziata	np-ant-f-sg	fra	Annunziata	np-ant-f-sg
+	oci	Sigrid	np-ant-f-sg	fra	Sigrid	np-ant-f-sg
+	oci	Shania	np-ant-f-sg	fra	Shania	np-ant-f-sg
+	oci	Nicol	np-ant-f-sg	fra	Nicol	np-ant-f-sg
+	oci	Neri	np-ant-f-sg	fra	Neri	np-ant-f-sg
+	oci	Leah	np-ant-f-sg	fra	Leah	np-ant-f-sg
+	oci	Larisa	np-ant-f-sg	fra	Larisa	np-ant-f-sg
+	oci	Lacey	np-ant-f-sg	fra	Lacey	np-ant-f-sg
+	oci	Katarina	np-ant-f-sg	fra	Katarina	np-ant-f-sg
+	oci	Karina	np$np-ant-f-sg	fra	Karina	np$np-ant-f-sg$np-ant
+	oci	Jena	np$np-ant-f-sg	fra	Jena	np-ant-f-sg
+	oci	Golda	np-ant-f-sg	fra	Golda	np$np-ant-f-sg
+	oci	Gioia	np-ant-f-sg	fra	Gioia	np-ant-f-sg
+	oci	Faustine	np-ant-f-sg	fra	Faustine	np-ant-f-sg
+	oci	Evelyne	np-ant-f-sg	fra	Evelyne	np-ant-f-sg
+	oci	Ellie	np-ant-f-sg	fra	Ellie	np-ant-f-sg
+	oci	Urbana	np-ant-f-sg	fra	Urbana	np-ant-f-sg
+	oci	Sylviane	np-ant-f-sg	fra	Sylviane	np-ant-f-sg$np-ant
+	oci	Stacey	np-ant-f-sg	fra	Stacey	np-ant-f-sg
+	oci	Raquel	np$np-ant-f-sg	fra	Raquel	np$np-ant$np-ant-f-sg
+	oci	Leia	np-ant-f-sg	fra	Leia	np-ant-f-sg
+	oci	Laurette	np-ant-f-sg	fra	Laurette	np-ant-f-sg
+	oci	Jenifer	np-ant-f-sg	fra	Jenifer	np-ant-f-sg
+	oci	Fernanda	np$np-ant-f-sg	fra	Fernanda	np-ant-f-sg$np$np-ant
+	oci	Consuelo	np-ant-f-sg	fra	Consuelo	np$np-ant-f-sg$np-ant
+	oci	Claudette	np-ant-f-sg	fra	Claudette	np-ant-f-sg
+	oci	Britney	np-ant-f-sg	fra	Britney	np-ant-f-sg
+	oci	Brandi	np-ant-f-sg	fra	Brandi	np-ant-f-sg
+	oci	Annabel	np-ant-f-sg	fra	Annabel	np-ant-f-sg$np$np-ant
+	oci	Stefania	np-ant-f-sg	fra	Stefania	np-ant-f-sg
+	oci	Sila	np-ant-f-sg	fra	Sila	np-ant-f-sg
+	oci	Siena	np-ant-f-sg$np	fra	Siena	np-ant-f-sg
+	oci	Sidonie	np-ant-f-sg	fra	Sidonie	np-ant-f-sg$np-ant
+	oci	Rosine	np-ant-f-sg	fra	Rosine	np-ant-f-sg
+	oci	Rosina	np-ant-f-sg	fra	Rosina	np-ant-f-sg
+	oci	Robyn	np-ant-f-sg	fra	Robyn	np-ant-f-sg
+	oci	Tita	np-ant-f-sg	fra	Tita	np-ant-f-sg
+	oci	Rossana	np-ant-f-sg	fra	Rossana	np-ant-f-sg
+	oci	Rosina	np-ant-f-sg	fra	Rosina	np-ant-f-sg
+	oci	Myra	np-ant-f-sg	fra	Myra	np-ant-f-sg
+	oci	Mélissa	np-ant-f-sg	fra	Mélissa	np-ant-f-sg
+	oci	Madelaine	np-ant-f-sg	fra	Madelaine	np-ant-f-sg
+	oci	Lucinda	np-ant-f-sg	fra	Lucinda	np-ant-f-sg
+	oci	Lida	np-ant-f-sg	fra	Lida	np-ant-f-sg
+	oci	Letizia	np-ant-f-sg	fra	Letizia	np-ant-f-sg
+	oci	Léontine	np-ant-f-sg	fra	Léontine	np-ant-f-sg
+	oci	Jacquette	np-ant-f-sg	fra	Jacquette	np-ant-f-sg
+	oci	Imogen	np-ant-f-sg	fra	Imogen	np-ant-f-sg
+	oci	Ilham	np-ant-f-sg	fra	Ilham	np-ant-f-sg
+	oci	Hala	np-ant-f-sg	fra	Hala	np-ant-f-sg
+	oci	Gilda	np-ant-f-sg	fra	Gilda	np-ant-f-sg
+	oci	Genera	np-ant-f-sg	fra	Genera	np-ant-f-sg
+	oci	Gemina	np-ant-f-sg	fra	Gemina	np-ant-f-sg
+	oci	Flavie	np-ant-f-sg	fra	Flavie	np-ant-f-sg
+	oci	Diamante	np-ant-f-sg	fra	Diamante	np-ant-f-sg
+	oci	Dagmar	np-ant-f-sg	fra	Dagmar	np-ant-f-sg
+	oci	Correa	np-ant-f-sg	fra	Correa	np-ant-f-sg$np$np-ant
+	oci	Clarice	np-ant-f-sg	fra	Clarice	np-ant-f-sg
+	oci	Carmina	np-ant-f-sg	fra	Carmina	np-ant-f-sg
+	oci	Carly	np-ant-f-sg	fra	Carly	np-ant-f-sg
+	oci	Apolline	np-ant-f-sg	fra	Apolline	np-ant-f-sg
+	oci	Anouk	np-ant-f-sg	fra	Anouk	np-ant-f-sg
+	oci	Angeles	np$np-ant-f-sg	fra	Angeles	np-ant-f-sg$np
+	oci	Alyssa	np-ant-f-sg	fra	Alyssa	np-ant-f-sg
+	oci	Yamina	np-ant-f-sg	fra	Yamina	np-ant-f-sg
+	oci	Violetta	np-ant-f-sg	fra	Violetta	np-ant-f-sg
+	oci	Violeta	np$np-ant-f-sg	fra	Violeta	np-ant-f-sg$np$np-ant
+	oci	Rosanna	np-ant-f-sg	fra	Rosanna	np-ant-f-sg
+	oci	Rina	np-ant-f-sg	fra	Rina	np-ant-f-sg$np$np-ant
+	oci	Oria	np-ant-f-sg	fra	Oria	np-ant-f-sg
+	oci	Montana	np-ant-f-sg$np	fra	Montana	np-ant-f-sg
+	oci	Margarete	np-ant-f-sg	fra	Margarete	np-ant-f-sg
+	oci	Ludovica	np-ant-f-sg	fra	Ludovica	np-ant-f-sg
+	oci	Kendra	np-ant-f-sg	fra	Kendra	np-ant-f-sg
+	oci	Gracia	np-ant-f-sg	fra	Gracia	np-ant-f-sg
+	oci	Gisela	np$np-ant-f-sg	fra	Gisela	np-ant-f-sg
+	oci	Giorgia	np-ant-f-sg	fra	Giorgia	np-ant-f-sg
+	oci	Soledad	np$np-ant-f-sg	fra	Soledad	np-ant-f-sg
+	oci	Solana	np$np-ant-f-sg	fra	Solana	np-ant-f-sg$np$np-ant
+	oci	Samira	np-ant-f-sg	fra	Samira	np-ant-f-sg
+	oci	Samia	np-ant-f-sg	fra	Samia	np-ant-f-sg
+	oci	Magalie	np-ant-f-sg	fra	Magalie	np-ant-f-sg$np-ant
+	oci	Maeva	np-ant-f-sg	fra	Maeva	np-ant-f-sg
+	oci	Ludivine	np-ant-f-sg	fra	Ludivine	np-ant-f-sg
+	oci	Ludivina	np-ant-f-sg	fra	Ludivina	np-ant-f-sg
+	oci	Lisbeth	np-ant-f-sg	fra	Lisbeth	np-ant-f-sg
+	oci	Liberty	np-ant-f-sg	fra	Liberty	np-ant-f-sg$np$np-ant
+	oci	Kaitlyn	np-ant-f-sg	fra	Kaitlyn	np-ant-f-sg
+	oci	Josefa	np$np-ant-f-sg	fra	Josefa	np-ant-f-sg$np$np-ant
+	oci	Isabela	np-ant-f-sg	fra	Isabela	np-ant-f-sg
+	oci	Íngrid	np-ant-f-sg	fra	Íngrid	np-ant-f-sg$np
+	oci	Ileana	np-ant-f-sg	fra	Ileana	np-ant-f-sg
+	oci	Gwendolyn	np-ant-f-sg	fra	Gwendolyn	np-ant-f-sg
+	oci	Graziella	np-ant-f-sg	fra	Graziella	np-ant-f-sg
+	oci	Giuliana	np-ant-f-sg	fra	Giuliana	np-ant-f-sg$np$np-ant
+	oci	Galaad	np-ant-f-sg	fra	Galaad	np-ant-f-sg
+	oci	Elissa	np-ant-f-sg	fra	Elissa	np-ant-f-sg
+	oci	Catharine	np-ant-f-sg	fra	Catharine	np-ant-f-sg
+	oci	Bonita	np-ant-f-sg	fra	Bonita	np-ant-f-sg
+	oci	Bárbara	np-ant-f-sg	fra	Bárbara	np-ant-f-sg
+	oci	Antonella	np-ant-f-sg	fra	Antonella	np$np-ant-f-sg
+	oci	Angelique	np-ant-f-sg	fra	Angelique	np-ant-f-sg
+	oci	Ainhoa	np-ant-f-sg	fra	Ainhoa	np$np-ant-f-sg
+	oci	Abbie	np-ant-f-sg	fra	Abbie	np-ant-f-sg
+	oci	Vilma	np-ant-f-sg	fra	Vilma	np-ant-f-sg
+	oci	Vania	np-ant-f-sg	fra	Vania	np-ant-f-sg
+	oci	Sybil	np-ant-f-sg	fra	Sybil	np-ant-f-sg
+	oci	Sela	np-ant-f-sg	fra	Sela	np-ant-f-sg$np
+	oci	Safa	np-ant-f-sg	fra	Safa	np-ant-f-sg
+	oci	Ria	np-ant-f-sg	fra	Ria	np-ant-f-sg
+	oci	Rachael	np-ant-f-sg	fra	Rachael	np-ant-f-sg
+	oci	Paolina	np-ant-f-sg	fra	Paolina	np-ant-f-sg
+	oci	Oriane	np-ant-f-sg	fra	Oriane	np-ant-f-sg
+	oci	Nuri	np-ant-f-sg	fra	Nuri	np-ant-f-sg
+	oci	Nieve	np-ant-f-sg	fra	Nieve	np-ant-f-sg
+	oci	Nair	np-ant-f-sg	fra	Nair	np-ant-f-sg
+	oci	Mollie	np-ant-f-sg	fra	Mollie	np-ant-f-sg
+	oci	Milla	np-ant-f-sg	fra	Milla	np-ant-f-sg
+	oci	Milagros	np-ant-f-sg	fra	Milagros	np-ant-f-sg
+	oci	Michelle Bachelet	np-ant-f-sg	fra	Michelle Bachelet	np-ant-f-sg
+	oci	Michela	np-ant-f-sg	fra	Michela	np-ant-f-sg
+	oci	Micaela	np-ant-f-sg	fra	Micaela	np-ant-f-sg$np$np-ant
+	oci	Malia	np-ant-f-sg	fra	Malia	np-ant-f-sg
+	oci	Lupe	np-ant-f-sg	fra	Lupe	np-ant-f-sg
+	oci	Luana	np-ant-f-sg	fra	Luana	np-ant-f-sg
+	oci	Liliana	np$np-ant-f-sg	fra	Liliana	np-ant-f-sg$np$np-ant
+	oci	Karolina	np-ant-f-sg	fra	Karolina	np-ant-f-sg
+	oci	Juanita	np-ant-f-sg	fra	Juanita	np-ant-f-sg
+	oci	Jordan	np-ant-f-sg$np	fra	Jordana	np$np-ant-f-sg$np-ant
+	oci	Jillian	np-ant-f-sg	fra	Jillian	np-ant-f-sg
+	oci	Ita	np-ant-f-sg	fra	Ita	np-ant-f-sg
+	oci	Imelda	np-ant-f-sg	fra	Imelda	np-ant-f-sg
+	oci	Hallie	np-ant-f-sg	fra	Hallie	np-ant-f-sg
+	oci	Glenda	np-ant-f-sg	fra	Glenda	np-ant-f-sg
+	oci	Dilma	np-ant-f-sg	fra	Dilma	np-ant-f-sg
+	oci	Bea	np$np-ant-f-sg	fra	Bea	np-ant-f-sg$np$np-ant
+	oci	Arlene	np-ant-f-sg	fra	Arlene	np-ant-f-sg
+	oci	Anjali	np-ant-f-sg	fra	Anjali	np-ant-f-sg
+	oci	Vreni	np-ant-f-sg	fra	Vreni	np-ant-f-sg
+	oci	Urraca	np-ant-f-sg	fra	Urraca	np-ant-f-sg
+	oci	Mafalda	np-ant-f-sg	fra	Mafalda	np-ant-f-sg
+	oci	Luciana	np-ant-f-sg	fra	Luciana	np-ant-f-sg
+	oci	Floriana	np-ant-f-sg	fra	Floriana	np-ant-f-sg
+	oci	Filomena	np-ant-f-sg	fra	Filomena	np-ant-f-sg
+	oci	Elmira	np-ant-f-sg	fra	Elmira	np-ant-f-sg
+	oci	Darlene	np-ant-f-sg	fra	Darlene	np-ant-f-sg
+	oci	Condoleezza	np$np-ant-f-sg	fra	Condoleezza	np-ant-f-sg$np$np-ant
+	oci	Chiquita	np-ant-f-sg	fra	Chiquita	np-ant-f-sg
+	oci	Camila	np-ant-f-sg	fra	Camila	np-ant-f-sg
+	oci	Azucena	np-ant-f-sg	fra	Azucena	np-ant-f-sg
+	oci	Amparo	np-ant-f-sg	fra	Amparo	np-ant-f-sg$np$np-ant
+	oci	Alana	np-ant-f-sg	fra	Alana	np-ant-f-sg
+	oci	Aileen	np-ant-f-sg	fra	Aileen	np-ant-f-sg
+	oci	Zaria	np-ant-f-sg	fra	Zaria	np-ant-f-sg
+	oci	Yara	np-ant-f-sg	fra	Yara	np-ant-f-sg
+	oci	Tamia	np-ant-f-sg	fra	Tamia	np-ant-f-sg
+	oci	Selina	np-ant-f-sg	fra	Selina	np-ant-f-sg
+	oci	Sarita	np-ant-f-sg	fra	Sarita	np-ant-f-sg
+	oci	Raffaela	np-ant-f-sg	fra	Raffaella	np-ant-f-sg
+	oci	Owner	np-ant-f-sg	fra	Owner	np-ant-f-sg
+	oci	Nita	np-ant-f-sg	fra	Nita	np-ant-f-sg
+	oci	Nieves	np-ant-f-sg	fra	Nieves	np-ant-f-sg
+	oci	Nawal	np-ant-f-sg	fra	Nawal	np-ant-f-sg
+	oci	Leopoldina	np-ant-f-sg	fra	Leopoldina	np-ant-f-sg
+	oci	Juliane	np-ant-f-sg	fra	Juliane	np-ant-f-sg
+	oci	Ilsa	np-ant-f-sg	fra	Ilsa	np-ant-f-sg
+	oci	Hailey	np-ant-f-sg	fra	Hailey	np-ant-f-sg
+	oci	Despina	np-ant-f-sg	fra	Despina	np-ant-f-sg
+	oci	Cecily	np-ant-f-sg	fra	Cecily	np-ant-f-sg
+	oci	Carmelita	np-ant-f-sg	fra	Carmelita	np-ant-f-sg
+	oci	Bruna	np-ant-f-sg	fra	Bruna	np-ant-f-sg
+	oci	Ayana	np-ant-f-sg	fra	Ayana	np-ant-f-sg
+	oci	Amada	np-ant-f-sg	fra	Amada	np-ant-f-sg
+	oci	Alissa	np-ant-f-sg	fra	Alissa	np-ant-f-sg
+	oci	Alida	np-ant-f-sg	fra	Alida	np-ant-f-sg
+	oci	Albertina	np-ant-f-sg	fra	Albertina	np-ant-f-sg
+	oci	Sylvaine	np-ant-f-sg	fra	Sylvaine	np-ant-f-sg
+	oci	Serenity	np-ant-f-sg	fra	Serenity	np-ant-f-sg
+	oci	Sempronia	np-ant-f-sg	fra	Sempronia	np-ant-f-sg
+	oci	Rokia	np-ant-f-sg	fra	Rokia	np-ant-f-sg
+	oci	Renee	np-ant-f-sg	fra	Renee	np-ant-f-sg
+	oci	Patrizia	np-ant-f-sg	fra	Patrizia	np-ant-f-sg
+	oci	Palmira	np-ant-f-sg	fra	Palmira	np-ant-f-sg
+	oci	Ornella	np-ant-f-sg	fra	Ornella	np-ant-f-sg
+	oci	Nuria	np$np-ant-f-sg	fra	Nuria	np-ant-f-sg$np$np-ant
+	oci	Natividad	np$np-ant-f-sg	fra	Natividad	np-ant-f-sg$np$np-ant
+	oci	Mirabelle	np-ant-f-sg	fra	Mirabelle	np-ant-f-sg
+	oci	Millicent	np-ant-f-sg	fra	Millicent	np-ant-f-sg
+	oci	Meritxell	np$np-ant-f-sg	fra	Meritxell	np-ant-f-sg$np
+	oci	Marlee	np-ant-f-sg	fra	Marlee	np-ant-f-sg
+	oci	Madona	np-ant-f-sg	fra	Madona	np-ant-f-sg
+	oci	Maddison	np-ant-f-sg	fra	Maddison	np-ant-f-sg
+	oci	Leilani	np-ant-f-sg	fra	Leilani	np-ant-f-sg
+	oci	Kiley	np-ant-f-sg	fra	Kiley	np-ant-f-sg
+	oci	Keely	np-ant-f-sg	fra	Keely	np-ant-f-sg
+	oci	Janna	np-ant-f-sg	fra	Janna	np-ant-f-sg
+	oci	Jacinta	np$np-ant-f-sg	fra	Jacinta	np-ant-f-sg
+	oci	Imane	np-ant-f-sg	fra	Imane	np-ant-f-sg
+	oci	Ilaria	np-ant-f-sg	fra	Ilaria	np-ant-f-sg
+	oci	Deja	np-ant-f-sg	fra	Deja	np-ant-f-sg
+	oci	Dalla	np-ant-f-sg	fra	Dalia	np-ant-f-sg
+	oci	Constanza	np-ant-f-sg	fra	Constanza	np-ant-f-sg
+	oci	Carlota	np$np-ant-f-sg	fra	Carlota	np$np-ant-f-sg$np-ant
+	oci	Canela	np-ant-f-sg	fra	Canela	np-ant-f-sg
+	oci	Simonetta	np-ant-f-sg	fra	Simonetta	np-ant-f-sg
+	oci	Serafina	np-ant-f-sg	fra	Serafina	np-ant-f-sg
+	oci	Laurentina	np-ant-f-sg	fra	Laurentina	np-ant-f-sg
+	oci	Laila	np-ant-f-sg	fra	Laila	np-ant-f-sg
+	oci	Kiya	np-ant-f-sg	fra	Kiya	np-ant-f-sg
+	oci	Jemma	np-ant-f-sg	fra	Jemma	np-ant-f-sg
+	oci	Iria	np-ant-f-sg	fra	Iria	np-ant-f-sg
+	oci	Hayley	np-ant-f-sg	fra	Hayley	np$np-ant-f-sg$np-ant
+	oci	Gwendoline	np-ant-f-sg	fra	Gwendoline	np-ant-f-sg$np-ant
+	oci	Guiomar	np-ant-f-sg	fra	Guiomar	np-ant-f-sg
+	oci	Giannina	np$np-ant-f-sg	fra	Giannina	np-ant-f-sg
+	oci	Florinda	np-ant-f-sg	fra	Florinda	np-ant-f-sg
+	oci	Fiorella	np-ant-f-sg	fra	Fiorella	np-ant-f-sg
+	oci	Fiammetta	np-ant-f-sg	fra	Fiammetta	np-ant-f-sg
+	oci	Danette	np-ant-f-sg	fra	Danette	np-ant-f-sg
+	oci	Cosima	np-ant-f-sg	fra	Cosima	np-ant-f-sg
+	oci	Chaya	np-ant-f-sg	fra	Chaya	np-ant-f-sg
+	oci	Caridad	np-ant-f-sg	fra	Caridad	np-ant-f-sg
+	oci	Benita	np-ant-f-sg	fra	Benita	np-ant-f-sg
+	oci	Annabella	np-ant-f-sg	fra	Annabella	np-ant-f-sg$np$np-ant
+	oci	Almudena	np$np-ant-f-sg	fra	Almudena	np$np-ant-f-sg$np-ant
+	oci	Aliya	np-ant-f-sg	fra	Aliya	np-ant-f-sg
+	oci	Alisa	np-ant-f-sg	fra	Alisa	np-ant-f-sg
+	oci	Alina	np-ant-f-sg	fra	Alina	np$np-ant-f-sg$np-ant
+	oci	Sienna	np-ant-f-sg	fra	Sienna	np-ant-f-sg
+	oci	Santina	np-ant-f-sg	fra	Santina	np-ant-f-sg
+	oci	Rigoberta	np-ant-f-sg	fra	Rigoberta	np-ant-f-sg
+	oci	Perpetua	np-ant-f-sg	fra	Perpetua	np-ant-f-sg
+	oci	Ona	np-ant-f-sg	fra	Ona	np-ant-f-sg
+	oci	Moriah	np-ant-f-sg	fra	Moriah	np-ant-f-sg
+	oci	Marinella	np-ant-f-sg	fra	Marinella	np-ant-f-sg
+	oci	Mariella	np-ant-f-sg	fra	Mariella	np-ant-f-sg
+	oci	Maria Magdalena	np-ant-f-sg	fra	Maria Magdalena	np-ant-f-sg
+	oci	Maé	np-ant-f-sg	fra	Maé	np-ant-f-sg
+	oci	Loyola	np$np-ant-f-sg	fra	Loyola	np-ant-f-sg$np
+	oci	Kyla	np-ant-f-sg	fra	Kyla	np-ant-f-sg
+	oci	Kenzie	np-ant-f-sg	fra	Kenzie	np-ant-f-sg
+	oci	Katya	np-ant-f-sg	fra	Katya	np-ant-f-sg
+	oci	Justa	np-ant-f-sg	fra	Justa	np-ant-f-sg
+	oci	Ivette	np-ant-f-sg	fra	Ivette	np-ant-f-sg
+	oci	Ivet	np-ant-f-sg	fra	Ivet	np-ant-f-sg
+	oci	Ivanka	np-ant-f-sg	fra	Ivanka	np-ant-f-sg
+	oci	Halima	np-ant-f-sg	fra	Halima	np-ant-f-sg
+	oci	Frederica	np-ant-f-sg	fra	Frederica	np-ant-f-sg
+	oci	Dalma	np-ant-f-sg	fra	Dalma	np-ant-f-sg
+	oci	Cayetana	np-ant-f-sg	fra	Cayetana	np-ant-f-sg
+	oci	Catherin	np-ant-f-sg	fra	Catherin	np-ant-f-sg
+	oci	Catherina	np-ant-f-sg	fra	Catherina	np-ant-f-sg
+	oci	Caterine	np-ant-f-sg	fra	Caterine	np-ant-f-sg
+	oci	Carley	np-ant-f-sg	fra	Carley	np-ant-f-sg
+	oci	Carissa	np-ant-f-sg	fra	Carissa	np-ant-f-sg
+LR	oci	capitar	vblex	fra	réussir	vblex
+RL	oci	disseminar	vblex	fra	disséminer	vblex
+RL	oci	picar	vblex	fra	taper	vblex
+	oci	reparéisser	vblex	fra	reparaître	vblex
+LR	oci	empusar	vblex	fra	attiser	vblex
+RL	oci	acorchir	vblex	fra	écourter	vblex
+RL	oci	fisar	vblex	fra	fier	vblex
+LR	oci	alaitar	vblex	fra	allaiter	vblex
+	oci	debitar	vblex	fra	débiter	vblex
+RL	oci	desligar	vblex	fra	délier	vblex
+	oci	remenar	vblex	fra	remuer	vblex
+	oci	absentar	vblex	fra	absenter	vblex
+	oci	idratar	vblex	fra	hydrater	vblex
+	oci	dinamitar	vblex	fra	dynamiter	vblex
+RL	oci	degalhar	vblex	fra	gaspiller	vblex
+RL	oci	duplicar	vblex	fra	dupliquer	vblex
+RL	oci	badinar	vblex	fra	plaisanter	vblex
+	oci	arredondir	vblex	fra	arrondir	vblex
+	oci	insinuar	vblex	fra	insinuer	vblex
+	oci	desorientar	vblex	fra	désorienter	vblex
+RL	oci	lamentar	vblex	fra	lamenter	vblex
+	oci	comissionar	vblex	fra	commissionner	vblex
+	oci	estratificar	vblex	fra	stratifier	vblex
+	oci	reapropriar	vblex	fra	réapproprier	vblex
+	oci	islamizar	vblex	fra	islamiser	vblex
+	oci	fructificar	vblex	fra	fructifier	vblex
+	oci	revalorizar	vblex	fra	revaloriser	vblex
+	oci	rearmar	vblex	fra	réarmer	vblex
+	oci	internacionalizar	vblex	fra	internationaliser	vblex
+	oci	redecorar	vblex	fra	redécorer	vblex
+	oci	pullular	vblex	fra	pulluler	vblex
+	oci	assasonar	vblex	fra	assaisonner	vblex
+	oci	estressar	vblex	fra	stresser	vblex
+	oci	ironizar	vblex	fra	ironiser	vblex
+	oci	urinar	vblex	fra	uriner	vblex
+	oci	pasimentar	vblex	fra	paver	vblex
+	oci	nivelar	vblex	fra	niveler	vblex
+	oci	recapturar	vblex	fra	recapturer	vblex
+	oci	inicializar	vblex	fra	initialiser	vblex
+RL	oci	descorar	vblex	fra	écœurer	vblex
+	oci	renegociar	vblex	fra	renégocier	vblex
+	oci	ierarquizar	vblex	fra	hiérarchiser	vblex
+	oci	desmilitarizar	vblex	fra	démilitariser	vblex
+	oci	compactar	vblex	fra	compacter	vblex
+	oci	desonorar	vblex	fra	déshonorer	vblex
+	oci	esquematizar	vblex	fra	schématiser	vblex
+	oci	umanizar	vblex	fra	humaniser	vblex
+	oci	preestablir	vblex	fra	préétablir	vblex
+	oci	alfabetizar	vblex	fra	alphabétiser	vblex
+	oci	recalcular	vblex	fra	recalculer	vblex
+	oci	italianizar	vblex	fra	italianiser	vblex
+	oci	coagular	vblex	fra	coaguler	vblex
+	oci	entremetre	vblex	fra	entremettre	vblex
+	oci	endoctrinar	vblex	fra	endoctriner	vblex
+	oci	tesaurizar	vblex	fra	thésauriser	vblex
+	oci	readmetre	vblex	fra	réadmettre	vblex
+	oci	ignifugar	vblex	fra	ignifuger	vblex
+	oci	americanizar	vblex	fra	américaniser	vblex
+	oci	instrumentar	vblex	fra	instrumenter	vblex
+	oci	descompressar	vblex	fra	décompresser	vblex
+	oci	agrir	vblex	fra	aigrir	vblex
+LR	oci	aigrir	vblex	fra	aigrir	vblex
+	oci	ispanizar	vblex	fra	hispaniser	vblex
+	oci	gesticular	vblex	fra	gesticuler	vblex
+	oci	descolonizar	vblex	fra	décoloniser	vblex
+	oci	recapitalizar	vblex	fra	recapitaliser	vblex
+	oci	lagremejar	vblex	fra	larmoyer	vblex
+RL	oci	disseminar	vblex	fra	disséminer	vblex
+RL	oci	picar	vblex	fra	taper	vblex
+	oci	disciplinar	vblex	fra	discipliner	vblex
+RL	oci	acorchir	vblex	fra	écourter	vblex
+RL	oci	fisar	vblex	fra	fier	vblex
+RL	oci	desligar	vblex	fra	délier	vblex
+RL	oci	degalhar	vblex	fra	gaspiller	vblex
+RL	oci	duplicar	vblex	fra	dupliquer	vblex
+RL	oci	badinar	vblex	fra	plaisanter	vblex
+RL	oci	lamentar	vblex	fra	lamenter	vblex
+	oci	disculpar	vblex	fra	disculper	vblex
+	oci	vaccinar	vblex	fra	vacciner	vblex
+	oci	aglutinar	vblex	fra	agglutiner	vblex
+	oci	obstinar	vblex	fra	obstiner	vblex
+	oci	bronzinar	vblex	fra	bourdonner	vblex
+	oci	improvisar	vblex	fra	improviser	vblex
+	oci	soudar	vblex	fra	souder	vblex
+	oci	apasimar	vblex	fra	apaiser	vblex
+RL	oci	disseminar	vblex	fra	disséminer	vblex
+RL	oci	picar	vblex	fra	taper	vblex
+	oci	archivar	vblex	fra	archiver	vblex
+	oci	exumar	vblex	fra	exhumer	vblex
+	oci	domiciliar	vblex	fra	domicilier	vblex
+	oci	fracturar	vblex	fra	fracturer	vblex
+	oci	atisar	vblex	fra	attiser	vblex
+	oci	costumar	vblex	fra	costumer	vblex
+RL	oci	acorchir	vblex	fra	écourter	vblex
+	oci	envernissar	vblex	fra	vernir	vblex
+	oci	fustigar	vblex	fra	fustiger	vblex
+RL	oci	fisar	vblex	fra	fier	vblex
+	oci	intimidar	vblex	fra	intimider	vblex
+	oci	caricaturar	vblex	fra	caricaturer	vblex
+	oci	denigrar	vblex	fra	dénigrer	vblex
+	oci	maquilhar	vblex	fra	maquiller	vblex
+	oci	tapissar	vblex	fra	tapisser	vblex
+	oci	commutar	vblex	fra	commuter	vblex
+	oci	subrestimar	vblex	fra	surestimer	vblex
+LR	oci	susestimar	vblex	fra	surestimer	vblex
+RL	oci	desligar	vblex	fra	délier	vblex
+	oci	abeurar	vblex	fra	abreuver	vblex
+	oci	extirpar	vblex	fra	extirper	vblex
+	oci	abjurar	vblex	fra	abjurer	vblex
+	oci	permutar	vblex	fra	permuter	vblex
+RL	oci	degalhar	vblex	fra	gaspiller	vblex
+RL	oci	duplicar	vblex	fra	dupliquer	vblex
+RL	oci	badinar	vblex	fra	plaisanter	vblex
+	oci	criptar	vblex	fra	crypter	vblex
+	oci	conjecturar	vblex	fra	conjecturer	vblex
+RL	oci	lamentar	vblex	fra	lamenter	vblex
+	oci	perfumar	vblex	fra	parfumer	vblex
+	oci	invectivar	vblex	fra	invectiver	vblex
+	oci	vacillar	vblex	fra	vaciller	vblex
+	oci	galaupar	vblex	fra	galoper	vblex
+	oci	titubar	vblex	fra	tituber	vblex
+	oci	anisar	vblex	fra	aniser	vblex
+	oci	salivar	vblex	fra	saliver	vblex

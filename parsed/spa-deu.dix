@@ -1,21 +1,21 @@
 	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg	deu	das	prn-ind$prn-ind-nt-sg
 	spa	lo	prn-enc-p3-nt$prn-enc	deu	das	prn-ind$prn-ind-nt-sg
 	spa	algo	prn-tn-m$prn-tn-m-sg	deu	etwas	prn$prn-ind-nt
-	spa	nada	prn-tn-m$prn-tn-m-sg	deu	nichts	prn$prn-ind-nt
+	spa	nada	prn-tn-m-sg$prn-tn-m	deu	nichts	prn$prn-ind-nt
 	spa	nadie	prn-tn-m-sg$prn-tn-m	deu	niemand	prn-ind-mf
 	spa	todo el mundo	prn$prn-tn-m-sg$prn-tn-m	deu	alle	prn$prn-ind-mf
 	spa	la mayoría	prn-tn-m	deu	die meisten	prn-ind-mf
 	spa	bastantes	prn-tn$prn-tn-mf	deu	genug	prn-ind-mf
-	spa	quién	prn-itg-mf-sg$prn-itg-mf$prn$prn-itg	deu	wer	prn$prn-itg-mf-sg
+	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg	deu	wer	prn$prn-itg-mf-sg
 	spa	quién	prn-itg-mf-pl	deu	wer	prn-itg-mf-pl
 	spa	de quién	prn-itg-mf$prn-itg-mf-sg	deu	wessen	prn$prn-itg-mf-sg
 	spa	de quién	prn-itg-mf-pl	deu	wessen	prn-itg-mf-pl
 	spa	qué	prn-itg-m$prn-itg-m-sg	deu	was	prn$prn-itg-mf
 	spa	qué	prn-itg-m$prn-itg-m-sg	deu	was	prn-itg-nt
-LR	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg	deu	irgendeiner	prn-ind-GD
-RL	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg	deu	irgendeiner	prn-ind-m
-RL	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg	deu	irgendeiner	prn-ind-nt
-RL	spa	alguien	prn$prn-tn$prn-tn-m$prn-tn-m-sg	deu	irgendeiner	prn-ind-f
+LR	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m	deu	irgendeiner	prn-ind-GD
+RL	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m	deu	irgendeiner	prn-ind-m
+RL	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m	deu	irgendeiner	prn-ind-nt
+RL	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m	deu	irgendeiner	prn-ind-f
 LR	spa	cada cual	prn$prn-tn-m	deu	jeder	prn$prn-ind-GD
 RL	spa	cada cual	prn$prn-tn-m	deu	jeder	prn-ind-m
 RL	spa	cada cual	prn$prn-tn-m	deu	jeder	prn-ind-nt
@@ -24,14 +24,14 @@ LR	spa	todo	prn$prn-tn$prn-tn-m$prn-tn-m-sg	deu	aller	prn-ind-GD
 RL	spa	todo	prn$prn-tn$prn-tn-m$prn-tn-m-sg	deu	aller	prn-ind-m
 RL	spa	todo	prn$prn-tn$prn-tn-m$prn-tn-m-sg	deu	aller	prn-ind-nt
 RL	spa	todo	prn$prn-tn$prn-tn-m$prn-tn-m-sg	deu	aller	prn-ind-f
-LR	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg	deu	einer	prn-ind-GD
-RL	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg	deu	einer	prn-ind-m
-RL	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg	deu	einer	prn-ind-nt
-RL	spa	uno	prn$prn-tn-m$prn-tn$prn-tn-m-sg	deu	einer	prn-ind-f
-LR	spa	cuánto	prn$prn-itg-m$prn-itg$prn-itg-m-sg	deu	wie viel	prn$prn-itg-GD
-RL	spa	cuánto	prn$prn-itg-m$prn-itg$prn-itg-m-sg	deu	wie viel	prn-itg-m
-RL	spa	cuánto	prn$prn-itg-m$prn-itg$prn-itg-m-sg	deu	wie viel	prn-itg-nt
-RL	spa	cuánto	prn$prn-itg-m$prn-itg$prn-itg-m-sg	deu	wie viel	prn-itg-f
+LR	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg	deu	einer	prn-ind-GD
+RL	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg	deu	einer	prn-ind-m
+RL	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg	deu	einer	prn-ind-nt
+RL	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg	deu	einer	prn-ind-f
+LR	spa	cuánto	prn$prn-itg$prn-itg-m$prn-itg-m-sg	deu	wie viel	prn$prn-itg-GD
+RL	spa	cuánto	prn$prn-itg$prn-itg-m$prn-itg-m-sg	deu	wie viel	prn-itg-m
+RL	spa	cuánto	prn$prn-itg$prn-itg-m$prn-itg-m-sg	deu	wie viel	prn-itg-nt
+RL	spa	cuánto	prn$prn-itg$prn-itg-m$prn-itg-m-sg	deu	wie viel	prn-itg-f
 LR	spa	muchos	prn$prn-tn-m$prn-tn-m-pl	deu	viel	prn$prn-ind-GD
 RL	spa	muchos	prn$prn-tn-m$prn-tn-m-pl	deu	viel	prn-ind-m
 RL	spa	muchos	prn$prn-tn-m$prn-tn-m-pl	deu	viel	prn-ind-nt
@@ -40,11 +40,11 @@ LR	spa	pocos	prn-tn-m-pl$prn$prn-tn-m	deu	wenig	prn-ind-GD
 RL	spa	pocos	prn-tn-m-pl$prn$prn-tn-m	deu	wenig	prn-ind-m
 RL	spa	pocos	prn-tn-m-pl$prn$prn-tn-m	deu	wenig	prn-ind-nt
 RL	spa	pocos	prn-tn-m-pl$prn$prn-tn-m	deu	wenig	prn-ind-f
-LR	spa	alguno	prn$prn-tn-m-pl$prn-tn$prn-tn-m	deu	irgendeiner	prn-ind-GD
+LR	spa	alguno	prn-tn-m-pl$prn-tn-m	deu	irgendeiner	prn-ind-GD
 LR	spa	alguno	prn-tn-f-pl$prn-tn-f	deu	irgendeiner	prn-ind-GD
-RL	spa	alguno	prn-tn-GD-pl$prn-tn-GD	deu	irgendeiner	prn-ind-m
-RL	spa	alguno	prn-tn-GD-pl$prn-tn-GD	deu	irgendeiner	prn-ind-nt
-RL	spa	alguno	prn-tn-GD-pl$prn-tn-GD	deu	irgendeiner	prn-ind-f
+RL	spa	alguno	prn$prn-tn-GD-pl$prn-tn$prn-tn-GD	deu	irgendeiner	prn-ind-m
+RL	spa	alguno	prn$prn-tn-GD-pl$prn-tn$prn-tn-GD	deu	irgendeiner	prn-ind-nt
+RL	spa	alguno	prn$prn-tn-GD-pl$prn-tn$prn-tn-GD	deu	irgendeiner	prn-ind-f
 LR	spa	ninguno	prn-tn-m-pl$prn-tn-m	deu	keiner	prn-ind-GD
 LR	spa	ninguno	prn-tn-f-pl$prn-tn-f	deu	keiner	prn-ind-GD
 RL	spa	ninguno	prn-tn$prn$prn-tn-GD-sg$prn-tn-GD	deu	keiner	prn-ind-m
@@ -54,7 +54,7 @@ RL	spa	ninguno	prn-tn$prn$prn-tn-GD-sg$prn-tn-GD	deu	keiner	prn-ind-f
 	spa	ambos	prn$prn-tn$prn-tn-m$prn-tn-m-pl	deu	beide	prn$prn-ind-mf
 	spa	los dos	prn$prn-tn-m	deu	beides	prn-ind-nt
 	spa	los dos	prn$prn-tn-m	deu	beide	prn$prn-ind-mf
-	spa	cualquiera	prn-tn-mf-sg	deu	irgendwer	prn-ind-mf-sg
+	spa	cualquiera	prn-tn-mf-sg$prn-mf	deu	irgendwer	prn-ind-mf-sg
 	spa	qualquiera	prn-tn-mf-pl	deu	irgendwer	prn-ind-mf-pl
 	spa	quienquiera	prn-tn-mf-sg$prn$prn-tn	deu	irgendwer	prn-ind-mf-sg
 	spa	quienquiera	prn-tn-mf-pl	deu	irgendwer	prn-ind-mf-pl
@@ -432,11 +432,11 @@ LR	spa	prpers	prn-pro-p3-mf-sg$prn-pro	deu		num$$num-ord
 	spa	a propósito de	pr	deu	über	pr$pr-dat
 	spa	prpers	prn-tn-p1-mf-sg	deu	ich	prn$prn-pers-p1-mf-sg-acc$prn-pers-p1-mf-sg$prn-pers-p1
 	spa	prpers	prn-tn-p3-m-sg	deu	er	prn$prn-pers-p3-m-sg-acc$prn-pers-p3-m-sg$prn-pers-p3
-	spa	uno	det-ind-m-sg$det$det-ind$det-ind-m	deu	ein	det$det-ind$det-ind-nt
+	spa	uno	det-ind$det-ind-m-sg$det$det-ind-m	deu	ein	det$det-ind$det-ind-nt
 	spa	el	det-def$det-def-GD$det$det-def-GD-ND	deu	der	det$det-def$det-def-nt
 	spa	suyo	det-pos-mf$det-pos-mf-ND$det$det-pos	deu	sein	det-pos$det$det-pos-nt
 	spa	suyo	det-pos-mf$det-pos-mf-ND$det$det-pos	deu	ihr	det-pos$det-pos-f$det
-LR	spa	otro	det-ind-m-sg$det-ind$det$det-ind-m	deu	ander	det$det-ind-GD
+LR	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m	deu	ander	det$det-ind-GD
 LR	spa	otro	det-ind-f-sg$det-ind-f	deu	ander	det$det-ind-GD
 RL	spa	otro	det-ind-GD$det-ind-GD-ND	deu	ander	det-ind-m
 RL	spa	otro	det-ind-GD$det-ind-GD-ND	deu	ander	det-ind-f
@@ -462,56 +462,56 @@ RL	spa	qué	det-itg-mf-sp	deu	welche	det-itg-f-pl
 RL	spa	qué	det-itg-mf-sp	deu	welche	det-itg-nt-pl
 	spa	uno	num$num-m-sp$num-m	deu	ein	num
 	spa	dos	num$num-mf$num-mf-sp$	deu	zwei	num$
-	spa	tres	num$$num-mf-sp	deu	drei	num$
+	spa	tres	num$num-mf-sp$	deu	drei	num$
 	spa	cuatro	num$$num-mf-sp	deu	vier	num$
 	spa	cinco	num$num-mf-sp$	deu	fünf	num$
 	spa	seis	num$num-mf-sp$	deu	sechs	num$
 	spa	siete	num$$num-mf-sp	deu	sieben	num$
 	spa	ocho	num$$num-mf-sp	deu	acht	num$
 	spa	nueve	num$$num-mf-sp	deu	neun	num$
-	spa	diez	num$num-mf$$num-mf-sp	deu	zehn	num$
+	spa	diez	num$num-mf$num-mf-sp$	deu	zehn	num$
 	spa	mujer	n-f$n$n-f-sg	deu	Frau	n-f$n
 	spa	casa	n-f$n$n-f-sg	deu	Haus	n-nt$n
-	spa	trabajo	n-m$n-m-sg$n	deu	Arbeit	n-f
+	spa	trabajo	n-m$n$n-m-sg	deu	Arbeit	n-f$n
 	spa	estudiante	n-mf$n$n-mf-ND	deu	Studentin	n-f
-	spa	estudiante	n-mf$n$n-mf-ND	deu	Student	n-m
-	spa	coche	n-m$n$n-m-sg	deu	Auto	n-nt
-	spa	ventana	n$n-f$n-f-sg	deu	Fenster	n-nt
+	spa	estudiante	n-mf$n$n-mf-ND	deu	Student	n-m$n
+	spa	coche	n-m$n$n-m-sg	deu	Auto	n-nt$n
+	spa	ventana	n$n-f$n-f-sg	deu	Fenster	n-nt$n
 RL	spa	niño	n-GD$n-GD-ND	deu	Kind	n-nt$n
 LR	spa	niño	n-f$n-f-sg	deu	Kind	n-nt$n
 LR	spa	niño	n$n-m$n-m-sg	deu	Kind	n-nt$n
-	spa	problema	n-m$n$n-m-sg	deu	Problem	n-nt
-	spa	situación	n-f-sg$n-f$n	deu	Situation	n-f
+	spa	problema	n-m$n$n-m-sg	deu	Problem	n-nt$n
+	spa	situación	n-f-sg$n-f$n	deu	Situation	n-f$n
 	spa	perro	n$n-m$n-m-sg	deu	Hund	n-m$n
 	spa	agua	n-f$n$n-f-sg	deu	Wasser	n-nt$n
 	spa	madre	n$n-f$n-f-sg	deu	Mutter	n-f$n
-	spa	jardín	n-m$n$n-m-sg	deu	Garten	n-m
+	spa	jardín	n-m$n$n-m-sg	deu	Garten	n-m$n
 	spa	gato	n$n-m$n-m-sg	deu	Katze	n-f$n
 	spa	árbol	n-m$n$n-m-sg	deu	Baum	n-m$n
 	spa	año	n-m$n$n-m-sg	deu	Jahr	n-nt$n
 	spa	sonido	n-m$n$n-m-sg	deu	Geräusch	n-nt
-	spa	silla	n-f$n$n-f-sg	deu	Stuhl	n-m
+	spa	silla	n-f$n$n-f-sg	deu	Stuhl	n-m$n
 	spa	ruido	n-m$n$n-m-sg	deu	Geräusch	n-nt
-	spa	respuesta	n-f$n-f-sg$n	deu	Antwort	n-f
-	spa	pregunta	n$n-f$n-f-ND	deu	Frage	n-f
+	spa	respuesta	n-f$n-f-sg$n	deu	Antwort	n-f$n
+	spa	pregunta	n-f$n$n-f-ND	deu	Frage	n-f$n
 	spa	ojo	n$n-m$n-m-sg	deu	Auge	n-nt$n
-	spa	mesa	n-f$n$n-f-sg	deu	Tisch	n-m
+	spa	mesa	n-f$n$n-f-sg	deu	Tisch	n-m$n
 	spa	mano	n-f$n$n-f-sg	deu	Hand	n-f$n
-	spa	juego	n-m$n$n-m-sg	deu	Spiel	n-nt
-	spa	hermano	n-f$n-f-ND	deu	Bruder	n-m
+	spa	juego	n-m$n$n-m-sg	deu	Spiel	n-nt$n
+	spa	hermano	n-f$n$n-f-ND	deu	Bruder	n-m$n
 	spa	gente	n-f-sg$n$n-f	deu	Leute	n-pl$n-f-pl
-	spa	gente	n-f-pl	deu	Volk	n-nt$n-nt-pl
-	spa	clima	n-m$n$n-m-sg	deu	Wetter	n-nt
-	spa	clima	n-m$n$n-m-sg	deu	Klima	n-nt
+	spa	gente	n-f-pl	deu	Volk	n-nt$n$n-nt-pl
+	spa	clima	n-m$n$n-m-sg	deu	Wetter	n-nt$n
+	spa	clima	n-m$n$n-m-sg	deu	Klima	n-nt$n
 	spa	cabeza	n-f$n$n-f-sg	deu	Kopf	n-m$n
 	spa	ave	n-f$n$n-f-ND	deu	Vogel	n-m$n
-	spa	atención	n-f$n$n-f-sg	deu	Aufmerksamkeit	n-f
+	spa	atención	n-f$n$n-f-sg	deu	Aufmerksamkeit	n-f$n
 	spa	animal	n-m$n$n-m-sg	deu	Tier	n-nt$n
-	spa	hora	n-f$n$n-f-sg	deu	Zeit	n-f
+	spa	hora	n-f$n$n-f-sg	deu	Zeit	n-f$n
 	spa	busca	n-f$n$n-f-ND	deu	Suche	n-f
-	spa	Jaime	np-ant$np$np-ant-m$np-ant-m-sg	deu	Jaime	np$np-ant-m
-RL	spa	María	np$np-ant$np-ant-f$np-ant-f-sg	deu	María	np$np-ant-f
-	spa	María	np$np-ant$np-ant-f$np-ant-f-sg	deu	Maria	np$np-ant$np-ant-f
+	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m	deu	Jaime	np$np-ant-m
+RL	spa	María	np$np-ant$np-ant-f-sg$np-ant-f	deu	María	np$np-ant-f
+	spa	María	np$np-ant$np-ant-f-sg$np-ant-f	deu	Maria	np$np-ant$np-ant-f
 	spa	viejo	adj$adj-m-sg$$adj-m	deu	alt	adj-sint$adj
 	spa	pequeño	adj$adj-GD-ND	deu	klein	adj-sint$adj
 	spa	grande	adj-mf$adj$adj-mf-ND$	deu	groß	adj$adj-sint
@@ -565,7 +565,7 @@ RL	spa	María	np$np-ant$np-ant-f$np-ant-f-sg	deu	María	np$np-ant-f
 	spa	comer	vblex$vblex-vbact	deu	essen	vblex$vblex-sep-fm
 	spa	dar	vblex	deu	geben	vblex$vblex-sep-fm
 	spa	luchar	vblex	deu	kämpfen	vblex
-	spa	acercarse	vblex$vblex-pron	deu	nähern	vblex
+	spa	acercarse	vblex-pron$vblex	deu	nähern	vblex
 	spa	bajar	vblex	deu	gehen	vblex-sep-fm$vblex$vblex-sep
 	spa	buscar	vblex$vblex-vbact	deu	suchen	vblex$vblex-sep-fm
 	spa	caminar	vblex$vblex-inf	deu	laufen	vblex-sep-fm$vblex
