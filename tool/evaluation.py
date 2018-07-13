@@ -183,7 +183,8 @@ def _one_iter(lang1, lang2, G, k, l1, l2, cutoff=4, p=0.8, topn=5):
         print ('error')
     del G, l1, l2, pairs
 
-def eval_loop(lang1, lang2, n=10, cutoff=4, n_iter=10, topn=5):
+def eval_loop(lang1, lang2, n=10, cutoff=4, n_iter=3, topn=5):
+    n, cutoff, n_iter, topn = int(n), int(cutoff), int(n_iter), int(topn)
     p = (21 - topn)/20
     get_relevant_languages(lang1, lang2)
     load_file(lang1, lang2, n=n)
@@ -196,7 +197,7 @@ def eval_loop(lang1, lang2, n=10, cutoff=4, n_iter=10, topn=5):
     else: k = len(l1)
     a = []
     #print ('+',end='\t')
-    for _ in tqdm(range(n_iter)):
+    for _ in tqdm(range(n_iter), position=1):
         G = built_from_file('{}-{}'.format(lang1,lang2))
         _one_iter(lang1, lang2, G, k, l1, l2, cutoff=cutoff, p=p)
     #print (a)
@@ -236,3 +237,21 @@ def addition2(lang1, lang2, n=10, cutoff=4):
     if k2[0] > 0: c = k2[2]/k2[0]*100
     else: c = 0
     print ('{}->{}\tExist: {}, failed: {}, NEW: {} +{}%, NA: {}'.format(lang2, lang1, k2[0], k2[1], k2[2], round(c, 0), k2[3]))
+
+def generate_example(l1, G, lang2):
+    for i in l1:
+        if i in G:
+            ne = list(G.neighbors(i))
+            s = FilteredList(ne).lang(lang2)
+            if len(s) == 0:
+                candidates = possible_translations(G, i, lang2, cutoff=4, n=10)
+                result = evaluation(G, i, candidates, mode = 'exp', cutoff=4)
+                result = sorting(result, 10)
+                if result:
+                    yield i, result
+#def search(G, word, target, cutoff=4, topn=5, n=20, metric='exp'):
+#    candidates = possible_translations(G, word, target, cutoff=cutoff, n=n)
+#    #print (candidates)
+#    result = evaluation(G, word, candidates, mode = metric, cutoff=cutoff)
+#    result = sorting(result, topn)
+#    return result

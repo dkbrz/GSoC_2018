@@ -10,7 +10,8 @@ logging.basicConfig(format='%(asctime)s | %(levelname)s : %(message)s',
 from itertools import islice
 import matplotlib.pyplot as plt
 from heapdict import heapdict
-from tqdm import tqdm_notebook as tqdm
+#from tqdm import tqdm_notebook as tqdm
+from tqdm import tqdm
 import random
 import numpy as np, scipy.stats as st
 
@@ -511,6 +512,7 @@ def get_relevant_languages(source, target):
             f.write(str(result[i][0])+'\t'+str(i)+'\t:\t'+' '.join(result[i][1])+'\n')
 
 def load_file(l1,l2, n=10000):
+    n = int(n)
     with open ('language_list.csv','r',encoding='utf-8') as f:
         languages = set([i.split('\t')[1].strip() for i in islice(f.readlines(), 0, n)])
     languages = languages | set([l1,l2])
@@ -536,3 +538,18 @@ def check_graph(l1, l2, n=10):
     languages = languages | set([l1,l2])
     nx.draw_shell(G.subgraph(languages), with_labels = True, font_size = 20, node_color = 'white')
 
+def fix_bi_dictionaries():
+    from tool.data import rename, remove
+    for root, dirs, files in os.walk ('./dictionaries/'):
+        for fl in files :
+            nm = fl.replace('.dix','')
+            if nm in rename:
+                try:
+                    os.rename (root+'/'+fl, root+'/'+rename[nm]+'.dix')
+                except:
+                    pass
+    for i in remove:
+        try:
+            os.remove('./dictionaries/'+i)
+        except:
+            pass
