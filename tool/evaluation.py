@@ -197,7 +197,8 @@ def eval_loop(lang1, lang2, n=10, cutoff=4, n_iter=3, topn=5):
     else: k = len(l1)
     a = []
     #print ('+',end='\t')
-    for _ in tqdm(range(n_iter), position=1):
+    #for _ in tqdm(range(n_iter), position=1):
+    for _ in range(n_iter):
         G = built_from_file('{}-{}'.format(lang1,lang2))
         _one_iter(lang1, lang2, G, k, l1, l2, cutoff=cutoff, p=p)
     #print (a)
