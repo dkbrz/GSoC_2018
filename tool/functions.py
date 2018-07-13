@@ -553,3 +553,15 @@ def fix_bi_dictionaries():
             os.remove('./dictionaries/'+i)
         except:
             pass
+
+def copy_local():
+    global lang_codes
+    with open ('./files/lang_codes.json', 'r') as f: lang_codes = json.load(f)   
+    logging.info('Start')
+    if not os.path.exists('./dictionaries/'): os.makedirs('./dictionaries/')
+    with open ('dictionaries.txt','r', encoding='utf-8') as inp:
+        for line in inp:
+            langs = [l(i) for i in line.replace('.dix','').split('.')[-1].split('-')]
+            filename = './dictionaries/'+'-'.join(langs)+'.dix'
+            with open(line, 'r', encoding='utf-8') as f:
+                with open(filename, 'w', encoding='UTF-8') as outp: outp.write(f.read())
