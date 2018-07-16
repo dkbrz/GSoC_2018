@@ -8,7 +8,7 @@ def node_search(G, node, l2, cutoff, metric='exp', n=20):
     candidates = possible_translations(G, node, l2, cutoff=cutoff, n=20)
     results = evaluation(G, node, candidates, mode=metric, cutoff=cutoff)
     return list(sorted(results, key=results.get, reverse=True))[:n]
-    
+
 def evaluate(G, pairs, l1, l2, cutoff=4, metric='exp', topn=5):
     result = []
     for i in pairs:
@@ -32,21 +32,12 @@ def lemma_search (G, lemma, d_l1, l2, cutoff, n, metric='exp'):
 
 def metric(G, word, translation, cutoff, mode='exp'):
     coef = 0
-    if mode in ('exp', 'len'):
+    if mode == 'exp':
         t = Counter([len(i) for i in nx.all_simple_paths(G, word, translation, cutoff=cutoff)])
         if mode == 'exp': 
             for i in t: 
-                #coef += exp(-t[i])
                 coef += exp(-i)*t[i]
             return coef
-        if mode == 'len':
-            for i in t: 
-                coef += t[i]*i
-            return coef
-    if mode in ('log'):
-        for path in nx.all_simple_paths(G, word, translation, cutoff=cutoff):
-            for key, value in enumerate(path[1:]):
-                coef -= G[path[key-1]][value]['weight']
 
 def get_evaluation_pairs(G, dictionary, target, n=500):
     k = 4
@@ -196,13 +187,9 @@ def eval_loop(lang1, lang2, n=10, cutoff=4, n_iter=3, topn=5):
     elif k < 1000: return 'less than 1000'
     else: k = len(l1)
     a = []
-    #print ('+',end='\t')
-    #for _ in tqdm(range(n_iter), position=1):
     for _ in range(n_iter):
         G = built_from_file('{}-{}'.format(lang1,lang2))
         _one_iter(lang1, lang2, G, k, l1, l2, cutoff=cutoff, p=p)
-    #print (a)
-    #print (st.t.interval(0.95, len(a)-1, loc=np.mean(a), scale=st.sem(a)))    
 
 def addition2(lang1, lang2, n=10, cutoff=4):
     get_relevant_languages(lang1, lang2)
@@ -250,9 +237,3 @@ def generate_example(l1, G, lang2):
                 result = sorting(result, 10)
                 if result:
                     yield i, result
-#def search(G, word, target, cutoff=4, topn=5, n=20, metric='exp'):
-#    candidates = possible_translations(G, word, target, cutoff=cutoff, n=n)
-#    #print (candidates)
-#    result = evaluation(G, word, candidates, mode = metric, cutoff=cutoff)
-#    result = sorting(result, topn)
-#    return result

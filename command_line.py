@@ -1,6 +1,6 @@
 import sys
-from tool.functions import *
-from tool.evaluation import *
+from tool.func import *
+#from tool.evaluation import *
 
 def translation_test (lang1, lang2, n=10):
     n = int(n)

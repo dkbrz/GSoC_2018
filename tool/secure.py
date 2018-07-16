@@ -1,0 +1,1 @@
+SECRET = {"USER": "dkbrz", "PASSWORD": "mandarinka24"}
