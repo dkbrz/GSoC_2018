@@ -363,7 +363,7 @@ def import_mono(lang):
 
 # BUILDING
 
-def get_relevant_languages(source, target):
+def get_relevant_languages(lang1, lang2):
     G = nx.Graph()
     with open ('./tool/stats.csv', 'r', encoding='utf-8') as f:
         for line in f:
@@ -372,12 +372,12 @@ def get_relevant_languages(source, target):
             if coef < 1:
                 G.add_edge(data[0], data[1], weight=coef)
     result = {}
-    for path in islice(nx.shortest_simple_paths(G, source=source, target=target, weight='weight'), 0, 300):
+    for path in islice(nx.shortest_simple_paths(G, source=lang1, target=lang2, weight='weight'), 0, 300):
         length = sum([G[path[i]][path[i-1]]['weight'] for i in range(1, len(path))])
         for node in path:
             if node not in result:
                 result[node]  = (length, path)
-    config = '{}-{}-config'.format(source, target)
+    config = '{}-{}-config'.format(lang1, lang2)
     with open (config,'w', encoding='utf-8') as f:
         for i in sorted(result, key=result.get):
             f.write(str(result[i][0])+'\t'+str(i)+'\t:\t'+' '.join(result[i][1])+'\n')
