@@ -153,10 +153,13 @@ def download():
     for repo_name in repo_names(user):
         bidix = bidix_url(github.get_repo(user.name+'/'+repo_name))
         if bidix:
-            filename = './dictionaries/'+bidix.split('/')[-1]
-            response = requests.get(bidix)
-            response.encoding = 'UTF-8'
-            with open(filename, 'w', encoding='UTF-8') as f: f.write(response.text)
+            try:
+                filename = './dictionaries/'+bidix.split('/')[-1]
+                response = requests.get(bidix)
+                response.encoding = 'UTF-8'
+                with open(filename, 'w', encoding='UTF-8') as f: f.write(response.text)
+            except:
+                pass
     logging.info('Finished downloading')  
 
 def set_github_user(user, password):
@@ -668,26 +671,24 @@ def parse_preview_line(line, lang1, lang2):
     return side, Word(lemma1, lang1, tags1), Word(lemma2, lang2, tags2)
 
 def convert_to_dix(lang1, lang2):
-	tree = ET.Element('section')
-	with open ("{}-{}-preview".format(lang1, lang2),'r', encoding='utf-8') as inp:
-		for line in inp:
-			side, word1, word2 = parse_preview_line(line, lang1, lang2)
-			if side: pair = ET.Element('e', {'r':side})
-			else: pair = ET.Element('e')
-			p = ET.SubElement(pair, 'p')
-			l = ET.SubElement(p, 'l')
-			r = ET.SubElement(p, 'r')
-			l.text = word1.lemma
-			r.text = word2.lemma
-			for i in word1.s: 
-				if i:
-					l.append(ET.Element('s', {'n':i}))
-			for i in word2.s: 
-				if i:
-					r.append(ET.Element('s', {'n':i}))
-			tree.append(pair)
-	ET.ElementTree(tree).write("{}-{}-new".format(lang1, lang2), encoding='utf-8')
-	with open("{}-{}-new".format(lang1, lang2), 'r', encoding='utf-8') as f:
-		xml = f.read()
-	with open("{}-{}-new".format(lang1, lang2), 'w', encoding='utf-8') as f:
-		f.write(xml.replace('<e','\n    <e').replace('</section>','\n</section>'))
+    tree = ET.Element('section')
+    with open ("{}-{}-preview".format(lang1, lang2),'r', encoding='utf-8') as inp:
+        for line in inp:
+            side, word1, word2 = parse_preview_line(line, lang1, lang2)
+            if side: pair = ET.Element('e', {'r':side})
+            else: pair = ET.Element('e')
+            p = ET.SubElement(pair, 'p')
+            l = ET.SubElement(p, 'l')
+            r = ET.SubElement(p, 'r')
+            l.text = word1.lemma
+            r.text = word2.lemma
+            for i in word1.s: 
+                if i: l.append(ET.Element('s', {'n':i}))
+            for i in word2.s: 
+                if i: r.append(ET.Element('s', {'n':i}))
+            tree.append(pair)
+    ET.ElementTree(tree).write("{}-{}-new".format(lang1, lang2), encoding='utf-8')
+    with open("{}-{}-new".format(lang1, lang2), 'r', encoding='utf-8') as f:
+        xml = f.read()
+    with open("{}-{}-new".format(lang1, lang2), 'w', encoding='utf-8') as f:
+        f.write(xml.replace('<e','\n    <e').replace('</section>','\n</section>'))
