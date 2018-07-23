@@ -175,8 +175,8 @@ RL	epo	televido	n	eng	TV	n$n-acr
 	epo	ok mil	num	eng	eight thousand	num-sp$num
 	epo	naŭ mil	num	eng	nine thousand	num-sp$num
 	epo	miliono	num	eng	million	num$num-sp
-RL	epo	miliono	num	eng	a million	num$num-pl
-	epo	unu miliono	num	eng	one million	num$num-pl
+RL	epo	miliono	num	eng	a million	num
+	epo	unu miliono	num	eng	one million	num
 	epo	du milionoj	num	eng	two million	num
 	epo	tri milionoj	num	eng	three million	num
 	epo	kvar milionoj	num	eng	four million	num
@@ -186,7 +186,7 @@ RL	epo	miliono	num	eng	a million	num$num-pl
 	epo	ok milionoj	num	eng	eight million	num
 	epo	naŭ milionoj	num	eng	nine million	num
 	epo	miliardo	num	eng	billion	num$num-pl
-RL	epo	miliardo	num	eng	a billion	num$num-pl
+RL	epo	miliardo	num	eng	a billion	num
 	epo	miliono	n	eng	million	n$n-acr
 	epo	miliardo	n	eng	billion	n$n-acr
 	epo	dudek unu	num$	eng	twenty-one	num$num-sp$
@@ -326,8 +326,8 @@ LR	epo	tiu ĉi	prn$prn-tn	eng	this	prn-tn-mf$prn$prn-tn-mf-sg$prn-tn
 	epo	multa	prn-tn	eng	many	prn-tn-mf-pl$prn$prn-tn
 RL	epo	alia	prn$prn-tn$prn-tn-sg$prn-tn-sg-nom	eng	else	adv
 	epo	pluraj	prn-tn	eng	several	prn-tn-mf-pl$prn-tn
-RL	epo	tiuj kiuj	rel-an-pl	eng	the ones that	rel-nn-mf-pl$prn-rel-nn-mf-pl
-	epo	tiuj kiuj	rel-an-pl	eng	the ones who	rel-nn-mf-pl$prn-rel-nn-mf-pl
+RL	epo	tiuj kiuj	rel-an-pl	eng	the ones that	rel-nn-mf-pl
+	epo	tiuj kiuj	rel-an-pl	eng	the ones who	rel-nn-mf-pl
 	epo	kiu	prn$prn-rel	eng	who	prn-rel$prn-rel-an
 	epo	mi	prn-ref-p1-mf-sg	eng	myself	prn-ref-p1-mf-sg$prn-ref-p1$prn$prn-p1$prn-ref-p1-mf
 	epo	vi	prn$prn-ref-p2-mf-sg	eng	yourself	prn-ref-p2-mf-sg$prn-ref-p2$prn$prn-p2$prn-ref-p2-mf
@@ -515,8 +515,8 @@ RL	epo	ĉiu	det-ind-sg	eng	each	det-ind$det-ind-sg$det
 	epo	kelka	det-qnt-pl$det$det-qnt	eng	some	det-qnt$det-qnt-sp$det
 	epo	kelka	det-qnt-sg	eng	some	det-qnt-sg
 RL	epo	kelka	det-qnt-pl$det$det-qnt	eng	some	det-qnt-pl
-	epo	kelka	det-qnt-pl$det$det-qnt	eng	a few	det-qnt-pl$det$det-qnt
-	epo	kelka	det-qnt-pl$det$det-qnt	eng	a few	det-qnt-pl$det$det-qnt
+	epo	kelka	det-qnt-pl$det$det-qnt	eng	a few	det$det-qnt$det-qnt-pl
+	epo	kelka	det-qnt-pl$det$det-qnt	eng	a few	det$det-qnt$det-qnt-pl
 	epo	malmulta	det$det-qnt-sg	eng	little	det-qnt-sg$det-qnt$det
 	epo	malmulta	det-qnt-pl	eng	few	det-qnt-pl$det-qnt$det
 	epo	multe de	det-qnt	eng	much of	det-qnt
@@ -531,7 +531,7 @@ RL	epo	multa	det$det-qnt$det-qnt-sg	eng	lots of	det-qnt-sp$det$det-qnt
 	epo	multobla	adj	eng	multiple	adj
 LR	epo	neniu	det-ind	eng	any	det-ind-sp$det-ind$det
 RL	epo	neniu	det-ind	eng	no	det-ind-sp$det-ind$det
-	epo	pli da	det$det-qnt	eng	more	det-qnt$det-qnt-sp$det
+	epo	pli da	det$det-qnt	eng	more	det-qnt-sp$det-qnt$det
 	epo	pli	adv	eng	more	adv
 	epo	tia	det$det-ind	eng	such	det-ind-sp$det-ind$det
 	epo	tiu	det$det-dem	eng	that	det-dem$det$det-dem-sg
@@ -543,7 +543,7 @@ RL	epo	tro da	det-qnt$det-qnt-pl	eng	too many	det-qnt-pl$det-qnt$det
 	epo	tro da	det-qnt-sg	eng	too much	det-qnt-sg$det-qnt$det
 	epo	tiom da	det$det-qnt	eng	so much	det-qnt-sg$det-qnt$det
 	epo	tiom multe da	det-qnt	eng	so many	det-qnt-pl$det-qnt$det
-	epo	tiom multe	det-qnt	eng	as much	det-qnt$det-qnt-sg$det
+	epo	tiom multe	det-qnt	eng	as much	det-qnt$det$det-qnt-sg
 	epo	tiom	det-qnt	eng	that much	det-qnt
 	epo	sufiĉe da	det-qnt$det	eng	enough	det-qnt-sp$det-qnt$det
 RL	epo	sufiĉe da	det-qnt$det	eng	quite a lot of	det-qnt-sp$det$det-qnt
@@ -579,7 +579,7 @@ RL	epo	tiel	preadv	eng	just as	preadv
 RL	epo	super	pr	eng	over	pr$
 	epo	super	adv	eng	over	adv
 RL	epo	da	pr	eng	month  n  da	pr
-LR	epo	da	pr	eng	of	pr
+LR	epo	da	pr	eng	of	pr$
 	epo	ĉe	pr	eng	at	pr
 	epo	tra	pr	eng	through	pr
 	epo	antaŭ	pr	eng	before	pr
@@ -607,7 +607,7 @@ RL	epo	al	pr$	eng	towards	pr
 	epo	ĉirkaŭ	adv	eng	circa	adv
 	epo	ĉirkaŭ	pr	eng	around	pr
 RL	epo	ĉirkaŭ	pr	eng	round	pr
-	epo	de	pr	eng	of	pr
+	epo	de	pr	eng	of	pr$
 	epo	de	gen	eng	's	gen
 LR	epo	a	gen	eng	's	gen
 RL	epo	de	gen	eng	'	gen
@@ -701,12 +701,12 @@ RL	epo	Andoj	np-top	eng	the Andes	np$np-top
 	epo	Barcelono	np-top	eng	Barcelona	np-top$np$np-top-sg$
 	epo	Belgio	np-top	eng	Belgium	np-top$np$np-top-sg
 	epo	Beogrado	np-top	eng	Belgrade	np-top-m$np-top$np
-	epo	Berlino	np-top	eng	Berlin	np-top$np$np-top-sg
+	epo	Berlino	np-top	eng	Berlin	np-top$np$np-top-sg$np-top-m-sg
 	epo	Berno	np-top	eng	Berne	np-top$np-top-sg
 	epo	Bogoto	np-top	eng	Bogota	np-top$np$np-top-sg
 	epo	Bolivio	np-top	eng	Bolivia	np-top$np$np-top-sg
-	epo	Bonaero	np-top	eng	Buenos Aires	np-top$np-top-sg
-	epo	Bosnio	np-top	eng	Bosnia	np-top$np$np-top-f
+	epo	Bonaero	np-top	eng	Buenos Aires	np-top$np-top-m
+	epo	Bosnio	np-top	eng	Bosnia	np-top$np$np-top-sg
 	epo	Bosnio-Hercegovino	np-top	eng	Bosnia-Herzegovina	np$np-top
 	epo	Brazilio	np-top	eng	Brasilia	np-top$np-top-sg
 	epo	Brazilo	np-top	eng	Brazil	np-top$np$np-top-sg
@@ -764,14 +764,14 @@ LR	epo	Suomio	np-top	eng	Finland	np-top$np$np-top-sg
 	epo	Kabulo	np-top	eng	Kabul	np-top$np-top-sg$np
 	epo	Kameruno	np-top	eng	Cameroon	np-top$np$np-top-sg
 	epo	Kanado	np-top	eng	Canada	np-top$np$np-top-sg
-	epo	Kanarioj	np-top	eng	Canary Islands	np-top$np-top-pl$np
+	epo	Kanarioj	np-top	eng	Canary Islands	np-top$np$np-top-pl
 	epo	Kantabrio	np-top	eng	Cantabria	np-top$np-top-sg
 	epo	Karakaso	np-top	eng	Caracas	np-top$np-top-sg
 	epo	Karibio	np-top	eng	Carribean	np-top$np-top-sg
 	epo	Kartago	np-top	eng	Carthage	np-top$np-top-sg
 	epo	Kartvelio	np-top	eng	Georgia	np-top$np$np-top-sg
 	epo	Kastilio	np-top	eng	Castile	np-top-sg$np-top
-	epo	Kastilio-Leono	np-top	eng	Castile and Leon	np-top$np-top-sg
+	epo	Kastilio-Leono	np-top	eng	Castile and Leon	np-top
 	epo	Katalunio	np-top	eng	Catalonia	np-top$np-top-sg
 	epo	Kataro	np-top	eng	Qatar	np-top$np$np-top-sg
 	epo	Kipro	np-top	eng	Cyprus	np-top$np$np-top-sg
@@ -781,10 +781,10 @@ LR	epo	Kongolo	np-top	eng	Congo	np-top$np$np-top-sg
 	epo	Koreio	np-top	eng	Korea	np-top$np$np-top-sg
 	epo	Kroatio	np-top	eng	Croatia	np-top$np$np-top-f
 	epo	Kubo	np-top	eng	Cuba	np-top$np$np-top-sg
-	epo	Latin-Ameriko	np-top	eng	Latin America	np-top$np-top-sg
-	epo	Nord-Ameriko	np-top	eng	North America	np-top$np$np-top-sg
-	epo	Sud-Ameriko	np-top	eng	South America	np$np-top$np-top-sg
-	epo	Centr-Ameriko	np-top	eng	Central America	np-top-sg$np-top
+	epo	Latin-Ameriko	np-top	eng	Latin America	np-top
+	epo	Nord-Ameriko	np-top	eng	North America	np-top$np
+	epo	Sud-Ameriko	np-top	eng	South America	np$np-top
+	epo	Centr-Ameriko	np-top	eng	Central America	np-top
 	epo	Latvio	np-top	eng	Latvia	np-top$np$np-top-sg
 	epo	Libano	np-top	eng	Lebanon	np-top$np$np-top-sg
 	epo	Liberio	np-top	eng	Liberia	np-top$np$np-top-sg
@@ -808,7 +808,7 @@ LR	epo	Kongolo	np-top	eng	Congo	np-top$np$np-top-sg
 	epo	Moskvo	np-top	eng	Moscow	np$np-top$np-top-sg
 	epo	Navaro	np-top	eng	Navarra	np-top$np-top-sg
 RL	epo	Nederlando	np-top	eng	Holland	np-top$np-top-sg$np$
-	epo	Nederlando	np-top	eng	the Netherlands	np$np-top$np-top-pl
+	epo	Nederlando	np-top	eng	the Netherlands	np$np-top
 	epo	Nepalo	np-top	eng	Nepal	np-top$np-top-sg$np
 	epo	Neptuno	np-top	eng	Neptune	np$np-top
 	epo	Niĝerio	np-top	eng	Nigeria	np-top$np$np-top-sg
@@ -818,7 +818,7 @@ RL	epo	Nederlando	np-top	eng	Holland	np-top$np-top-sg$np$
 	epo	Nov-Jorko	np-top	eng	New York	np$np-top$np-top-m
 	epo	Nov-Zelando	np-top	eng	New Zealand	np-top$np$np-top-sg
 	epo	Pakistano	np-top	eng	Pakistan	np-top$np$np-top-m
-	epo	Panamo	np-top	eng	Panama	np-top$np$np-top-sg
+	epo	Panamo	np-top	eng	Panama	np-top$np$np-top-sg$np-top-m-sg
 	epo	Paragvajo	np-top	eng	Paraguay	np-top$np-top-sg$np
 	epo	Parizo	np-top	eng	Paris	np$np-top$np-top-m
 	epo	Pariso	np-ant	eng	Paris	np-ant$np-ant-f$np-ant-f-sg
@@ -841,7 +841,7 @@ RL	epo	Rumanio	np-top	eng	Rumania	np-top
 	epo	Sirio	np-top	eng	Syria	np-top$np$np-top-sg
 	epo	Skotlando	np-top	eng	Scotland	np-top$np$np-top-sg
 	epo	Kimrio	np-top	eng	Wales	np-top$np$np-top-sg
-	epo	Ĉeĥio	np-top	eng	Czech Republic	np-top$np$np-top-sg
+	epo	Ĉeĥio	np-top	eng	Czech Republic	np-top$np$np-top-f
 	epo	Ĉeĥoslovakio	np-top	eng	Czechoslovakia	np-top$np$np-top-sg
 	epo	Slovakio	np-top	eng	Slovakia	np-top$np$np-top-f
 	epo	Slovenio	np-top	eng	Slovenia	np-top$np$np-top-f
@@ -849,7 +849,7 @@ RL	epo	Rumanio	np-top	eng	Rumania	np-top
 	epo	Sud-Afriko	np-top	eng	South Africa	np-top$np$np-top-sg
 	epo	Nord-Afriko	np-top	eng	North Africa	np$np-top
 	epo	Orient-Afriko	np-top	eng	East Africa	np$np-top
-	epo	Okcident-Afriko	np-top	eng	West Africa	np$np-top$np-top-sg
+	epo	Okcident-Afriko	np-top	eng	West Africa	np$np-top
 	epo	Saturno	np-top	eng	Saturn	np-top$np-top-sg
 	epo	Sudano	np-top	eng	Sudan	np-top$np-top-sg$np
 	epo	Sunsistemo	np-top	eng	Solar System	np-top
@@ -876,7 +876,7 @@ RL	epo	Usono	np-top$np-top-sg	eng	the United States of America	np$np-top-pl
 	epo	Venuso	np-top	eng	Venus	np-top$np-top-sg
 	epo	Vieno	np-top	eng	Vienna	np-top$np$np-top-sg
 	epo	Vjetnamio	np-top	eng	Vietnam	np-top$np-top-sg$np
-	epo	Viktorio	np-top	eng	Victoria	np-top$np-top-f
+	epo	Viktorio	np-top	eng	Victoria	np-top$np-top-sg
 	epo	Antigvo	np$np-top	eng	Antigua	np-top-sg$np-top
 	epo	Arubo	np-top	eng	Aruba	np-top$np-top-sg
 	epo	Barbudo	np$np-top	eng	Barbuda	np-top$np-top-f
@@ -910,23 +910,23 @@ LR	epo	Misurio	np-top	eng	Missouri	np$np-top$np-top-sg
 	epo	Montano	np-top	eng	Montana	np-top-f$np-top
 	epo	Nebrasko	np-top	eng	Nebraska	np-top-sg$np-top
 	epo	Nevado	np-top	eng	Nevada	np-top-sg$np-top
-	epo	Nov-Hampŝiro	np-top	eng	New Hampshire	np-top$np-top-sg
-	epo	Nov-Ĵerzejo	np-top	eng	New Jersey	np-top$np-top-sg
-	epo	Nov-Meksiko	np-top	eng	New Mexico	np-top$np-top-sg
+	epo	Nov-Hampŝiro	np-top	eng	New Hampshire	np-top
+	epo	Nov-Ĵerzejo	np-top	eng	New Jersey	np-top
+	epo	Nov-Meksiko	np-top	eng	New Mexico	np-top
 LR	epo	Nov-Jorkio	np-top	eng	New York	np$np-top$np-top-m
-	epo	Nord-Karolino	np-top	eng	North Carolina	np-top$np-top-sg
-	epo	Nord-Dakoto	np-top	eng	North Dakota	np-top$np-top-sg
+	epo	Nord-Karolino	np-top	eng	North Carolina	np-top
+	epo	Nord-Dakoto	np-top	eng	North Dakota	np-top
 	epo	Oklahomo	np-top	eng	Oklahoma	np-top-sg$np-top
 	epo	Oregono	np-top	eng	Oregon	np-top$np-top-sg$np
 	epo	Pensilvanio	np-top	eng	Pennsylvania	np$np-top$np-top-sg
-	epo	Rod-Insulo	np-top	eng	Rhode Island	np-top$np-top-sg
-	epo	Sud-Karolino	np-top	eng	South Carolina	np-top$np-top-sg
-	epo	Sud-Dakoto	np-top	eng	South Dakota	np-top$np-top-sg
+	epo	Rod-Insulo	np-top	eng	Rhode Island	np-top
+	epo	Sud-Karolino	np-top	eng	South Carolina	np-top
+	epo	Sud-Dakoto	np-top	eng	South Dakota	np-top
 	epo	Tenesio	np-top	eng	Tennessee	np-top$np-top-sg
 	epo	Teksaso	np-top	eng	Texas	np$np-top$np-top-sg
 	epo	Utaho	np-top	eng	Utah	np-top-sg$np-top
 	epo	Vermonto	np-top	eng	Vermont	np-top-sg$np-top
-	epo	Okcidenta Virginio	np-top	eng	West Virginia	np-top$np-top-sg
+	epo	Okcidenta Virginio	np-top	eng	West Virginia	np-top
 	epo	Malsupra Saksio	np-top	eng	Lower Saxony	np-top$np
 LR	epo	Malsupra Saksujo	np-top	eng	Lower Saxony	np-top$np
 LR	epo	Vaŝingtonio	np-top	eng	Washington	np-top$np-top-m$np
@@ -1535,13 +1535,13 @@ RL	epo	granda	adj	eng	large	adj-sint$adj
 	epo	s-ino	$n-acr-pl	eng	Mrs	n$$n-sg
 	epo	f-ino	$n-acr	eng	Ms	$n
 	epo	f-ino	$n-acr	eng	Miss	n$
-	epo	d-ro	n-acr$	eng	Dr	abbr$
+	epo	d-ro	n-acr$	eng	Dr	$abbr
 	epo		np-ant-mf-sg	eng		np-ant-mf-sg
 	epo	s-ro	n-acr$n-acr-pl$$n	eng	Mr	n$$n-sg
 	epo	s-ino	$n-acr-pl	eng	Mrs	n$$n-sg
 	epo	f-ino	$n-acr	eng	Ms	$n
 RL	epo	f-ino	$n-acr	eng	Miss	n$
-	epo	d-ro	n-acr$	eng	Dr	abbr$
+	epo	d-ro	n-acr$	eng	Dr	$abbr
 	epo		num$num-percent	eng		$num$num-ord$num-ord-m-sg
 	epo		num$num-percent	eng		$num$num-ord$num-ord-m-sg
 	epo	1a	num-ord	eng	1st	num-ord$num
@@ -2127,12 +2127,12 @@ RL	epo	puĉo	n	eng	coup d'état	n
 LR	epo	ŝtatrenverso	n	eng	coup	n$n-ND
 	epo	papa	adj	eng	papal	adj
 	epo	Alpoj	np-top	eng	Alps	np$np-top$np-top-pl
-RL	epo	Alpoj	np-top	eng	the Alps	np$np-top$np-top-pl
+RL	epo	Alpoj	np-top	eng	the Alps	np$np-top
 	epo	Pireneoj	np-top	eng	Pyrenees	np-top$np-top-pl$np
 RL	epo	Pireneoj	np-top	eng	the Pyrenees	np$np-top
 	epo	Balkanoj	np-top	eng	Balkans	np-top$np$np-top-pl
 RL	epo	Balkanoj	np-top	eng	the Balkans	np$np-top
-	epo	Mediteraneo	np-top	eng	Mediterranean	np-top$np-top-sg
+	epo	Mediteraneo	np-top	eng	Mediterranean	np-top$np-top-sg$np-top-nt-sg
 RL	epo	Mediteraneo	np-top	eng	the Mediterranean	np$np-top
 	epo	mediteranea	adj	eng	Mediterranean	adj
 	epo	mediteraneano	n	eng	Mediterranean	n
@@ -3276,8 +3276,8 @@ LR	epo	leĝprojekto	n	eng	bill	n$n-ND
 LR	epo	trato	n	eng	bill	n$n-ND
 	epo	fakturi	vblex	eng	bill	vblex
 	epo	bilardo	n	eng	billiard	n$n-pl
-RL	epo	ujo	n	eng	bin	n
-LR	epo	ujego	n	eng	bin	n
+RL	epo	ujo	n	eng	bin	n$
+LR	epo	ujego	n	eng	bin	n$
 LR	epo	ligiĝi	vblex	eng	bind	vblex
 LR	epo	vindi	vblex	eng	bind	vblex
 LR	epo	bindi	vblex	eng	bind	vblex
@@ -3671,7 +3671,7 @@ LR	epo	kampi	vblex	eng	camp	vblex
 	epo	tendumi	vblex	eng	camp	vblex
 	epo	tendumado	n	eng	camping	n
 LR	epo	kampadi	vblex	eng	camp	vblex
-RL	epo	ujo	n	eng	can	n$n-ND
+RL	epo	ujo	n	eng	can	n$n-sg
 	epo	nuligi	vblex	eng	cancel	vblex
 LR	epo	malmendi	vblex	eng	cancel	vblex
 LR	epo	malokazigi	vblex	eng	cancel	vblex
@@ -5814,12 +5814,12 @@ LR	epo	sensukcesado	n	eng	drought	n$n-sg
 	epo	droni	vblex	eng	drown	vblex
 LR	epo	dronigi	vblex	eng	drown	vblex
 LR	epo	superbrui	vblex	eng	drown	vblex
-	epo	drogo	n	eng	drug	n$n-ND
+	epo	drogo	n	eng	drug	n$n-sg
 LR	epo	drogi	vblex	eng	drug	vblex
-LR	epo	narkotiko	n	eng	drug	n$n-ND
-LR	epo	narkotaĵo	n	eng	drug	n$n-ND
-LR	epo	dopingo	n	eng	drug	n$n-ND
-LR	epo	dopingaĵo	n	eng	drug	n$n-ND
+LR	epo	narkotiko	n	eng	drug	n$n-sg
+LR	epo	narkotaĵo	n	eng	drug	n$n-sg
+LR	epo	dopingo	n	eng	drug	n$n-sg
+LR	epo	dopingaĵo	n	eng	drug	n$n-sg
 LR	epo	senkonsciigi	vblex	eng	drug	vblex
 	epo	narkoti	vblex	eng	drug	vblex
 	epo	drogejo	n	eng	drugstore	n
@@ -6947,7 +6947,7 @@ LR	epo	balanciĝanta	adj	eng	floppy	adj$adj-sint
 LR	epo	flori	vblex	eng	flower	vblex$vblex-pprs
 	epo	floradi	vblex	eng	flower	vblex$vblex-pprs
 	epo	flui	vblex	eng	flow	vblex
-	epo	gripo	n	eng	flu	n$n-ND
+	epo	gripo	n	eng	flu	n$n-sg
 	epo	flueco	n	eng	fluidity	n$n-sg
 LR	epo	fluideco	n	eng	fluidity	n$n-sg
 LR	epo	glateco	n	eng	fluidity	n$n-sg
@@ -8945,8 +8945,8 @@ LR	epo	frivole	adv	eng	lightly	adv
 LR	epo	facilanime	adv	eng	lightly	adv
 LR	epo	malserioze	adv	eng	lightly	adv
 LR	epo	malŝate	adv	eng	lightly	adv
-	epo	fulmo	n	eng	lightning	n$n-unc
-LR	epo	fulmofrapo	n	eng	lightning	n$n-unc
+	epo	fulmo	n	eng	lightning	n$n-sg
+LR	epo	fulmofrapo	n	eng	lightning	n$n-sg
 	epo	malpeza	adj	eng	lightweight	adj
 LR	epo	simili	vblex	eng	like	vblex
 	epo	probable	adv	eng	likely	adv
@@ -9140,8 +9140,8 @@ LR	epo	Luksemburgo	np-top	eng	Luxembourg	np-top$np$np-top-sg
 	epo	lirika	adj	eng	lyric	adj
 	epo	liriko	n$n-sg	eng	lyric	n-sg
 LR	epo	liriko	n-pl	eng	lyric	n-sg
-	epo	kantoteksto	n-sg	eng	lyric	n-pl$n
-LR	epo	kantoteksto	n-pl	eng	lyric	n-pl$n
+	epo	kantoteksto	n-sg	eng	lyric	n$n-pl
+LR	epo	kantoteksto	n-pl	eng	lyric	n$n-pl
 	epo	maŝino	n	eng	machine	n$n-sg
 	epo	maŝinaro	n	eng	machinery	n
 	epo	freneza	adj	eng	mad	adj$adj-sint
@@ -12264,9 +12264,9 @@ LR	epo	liniilo	n	eng	ruler	n$n-sg
 LR	epo	regadi	vblex	eng	rule	vblex
 	epo	tondrado	n	eng	rumble	n
 LR	epo	murmurego	n	eng	rumble	n
-	epo	kuro	n	eng	run	n$n-ND
-LR	epo	kurado	n	eng	run	n$n-ND
-LR	epo	eskalo	n	eng	run	n$n-ND
+	epo	kuro	n	eng	run	n$n-sg
+LR	epo	kurado	n	eng	run	n$n-sg
+LR	epo	eskalo	n	eng	run	n$n-sg
 	epo	kuristo	n	eng	runner	n$n-ND
 LR	epo	kuranto	n$n-f	eng	runner	n$n-ND
 	epo	kuri	vblex	eng	run	vblex
@@ -12341,7 +12341,7 @@ LR	epo	velveturado	n	eng	sailing	n
 LR	epo	rabatvendo	n	eng	sale	n$n-ND
 	epo	salivo	n	eng	saliva	n
 LR	epo	kraĉaĵo	n	eng	saliva	n
-	epo	salo	n	eng	salt	n$n-ND
+	epo	salo	n	eng	salt	n$n-sg
 	epo	saviĝo	n	eng	salvation	n$n-ND
 	epo	sama	adj	eng	same	adj
 	epo	ekzemplo	n	eng	sample	n
@@ -12510,8 +12510,8 @@ LR	epo	fuko	n	eng	seaweed	n
 LR	epo	zostero	n	eng	seaweed	n
 	epo	secesio	n	eng	secession	n
 LR	epo	malaliĝo	n	eng	secession	n
-	epo	sekundo	n	eng	second	n$n-ND
-LR	epo	sekundanto	n	eng	second	n$n-ND
+	epo	sekundo	n	eng	second	n$n-sg
+LR	epo	sekundanto	n	eng	second	n$n-sg
 	epo	duaranga	adj	eng	secondary	adj
 LR	epo	neĉefa	adj	eng	secondary	adj
 LR	epo	sekundara	adj	eng	secondary	adj
@@ -14318,7 +14318,7 @@ LR	epo	ŝokiĝo	n	eng	trauma	n
 	epo	traŭmata	adj	eng	traumatic	adj
 LR	epo	traŭmatiza	adj	eng	traumatic	adj
 LR	epo	konsterna	adj	eng	traumatic	adj
-	epo	vojaĝado	n	eng	travel	n$n-ND
+	epo	vojaĝado	n	eng	travel	n$n-sg
 LR	epo	vojaĝi	vblex	eng	travel	vblex
 LR	epo	laŭiri	vblex	eng	travel	vblex
 LR	epo	vojiri	vblex	eng	travel	vblex
@@ -14638,11 +14638,11 @@ LR	epo	taksvaloro	n	eng	value	n$n-sg
 	epo	valori	vblex	eng	value	vblex
 LR	epo	estimi	vblex	eng	value	vblex
 	epo	vampiro	n	eng	vampire	n
-	epo	furgono	n	eng	van	n$n-ND
-LR	epo	varaŭto	n	eng	van	n$n-ND
-LR	epo	liveraŭto	n	eng	van	n$n-ND
-LR	epo	aŭtobuseto	n	eng	van	n$n-ND
-LR	epo	avano	n	eng	van	n$n-ND
+	epo	furgono	n	eng	van	n$$n-ND
+LR	epo	varaŭto	n	eng	van	n$$n-ND
+LR	epo	liveraŭto	n	eng	van	n$$n-ND
+LR	epo	aŭtobuseto	n	eng	van	n$$n-ND
+LR	epo	avano	n	eng	van	n$$n-ND
 	epo	vandalismo	n	eng	vandalism	n
 LR	epo	vandalaĵo	n	eng	vandalism	n
 	epo	vanteco	n	eng	vanity	n$n-sg
@@ -15418,7 +15418,7 @@ RL	epo	kajero	n	eng	fascicle	n$n-ND
 	epo	kalifo	n	eng	caliph	n
 LR	epo	kalvaria vojo	n	eng	ordeal	n
 LR	epo	kamero	n	eng	camera	n$n-ND
-LR	epo	kamioneto	n	eng	van	n$n-ND
+LR	epo	kamioneto	n	eng	van	n$$n-ND
 LR	epo	kampadejo	n	eng	camping	n
 RL	epo	kapableco	n	eng	ability	n$n-ND
 LR	epo	kaprino	n	eng	goat	n$n-ND
@@ -15593,7 +15593,7 @@ LR	epo	oscilado	n	eng	swing	n$n-ND
 RL	epo	ovo	n	eng	ovule	n
 	epo	pacista	adj	eng	pacifist	adj
 LR	epo	padumado	n	eng	hiking	n
-LR	epo	pakvagono	n	eng	van	n$n-ND
+LR	epo	pakvagono	n	eng	van	n$$n-ND
 LR	epo	palpebro	n	eng	lid	n$n-ND
 LR	epo	pamfleto	n	eng	pamphlet	n$n-sg
 LR	epo	pandalo	n	eng	shrimp	n
@@ -15771,7 +15771,7 @@ RL	epo	ŝtupo	n	eng	terracing	n
 	epo	taktiko	n	eng	tactics	n$n-pl
 RL	epo	talismano	n	eng	talisman	n$n-sg
 LR	epo	tampono	n	eng	tampon	n
-LR	epo	tedaĵo	n	eng	can	n$n-ND
+LR	epo	tedaĵo	n	eng	can	n$n-sg
 	epo	telegrafo	n	eng	telegraph	n$n-sg
 RL	epo	temperamento	n	eng	temperament	n
 LR	epo	tenereco	n	eng	tenderness	n$n-sg
@@ -15816,7 +15816,7 @@ LR	epo	uverturo	n	eng	opening	n$n-ND
 LR	epo	vadejo	n	eng	driveway	n
 LR	epo	vandaleco	n	eng	vandalism	n
 RL	epo	varo	n	eng	genre	n$n-ND
-LR	epo	varvagono	n	eng	van	n$n-ND
+LR	epo	varvagono	n	eng	van	n$$n-ND
 LR	epo	vatbulo	n	eng	tampon	n
 LR	epo	vato	n	eng	watt	n
 LR	epo	vegetalo	n	eng	vegetable	n$n-ND
@@ -17035,7 +17035,7 @@ RL	epo	miri	vblex	eng	astound	vblex
 	epo	ateismo	n	eng	atheism	n$n-sg
 	epo	ateisto	n	eng	atheist	n$n-sg
 	epo	ateisma	adj	eng	atheistic	adj
-	epo	Atlantiko	np-top	eng	Atlantic	np$np-top-sg$np-top
+	epo	Atlantiko	np-top	eng	Atlantic	np$np-top-sg$np-top-m-sg$np-top
 	epo	Arkto	np-top	eng	Artic	np-top
 	epo	Antarkto	np-top	eng	Antartic	np-top
 RL	epo	atlaso	n	eng	atlas	n$n-ND
@@ -17217,7 +17217,7 @@ LR	epo	testadi	vblex	eng	benchmark	vblex
 RL	epo	flekso	n	eng	bending	n
 LR	epo	kurbigo	n	eng	bending	n
 RL	epo	sube	adv	eng	beneath	adv
-	epo	Benedikto	np-ant$np	eng	Benedict	np-ant$$np$np-ant-m$np-ant-m-sg
+	epo	Benedikto	np-ant$np	eng	Benedict	np-ant-m-sg$np-ant$$np$np-ant-m
 RL	epo	utila	adj	eng	beneficial	adj
 LR	epo	profitiga	adj	eng	beneficial	adj
 LR	epo	profitodona	adj	eng	beneficial	adj
@@ -17692,7 +17692,7 @@ LR	epo	nezorgeme	adv	eng	carelessly	adv
 LR	epo	malzorge	adv	eng	carelessly	adv
 RL	epo	vartanto	n	eng	carer	n
 RL	epo	karesi	vblex	eng	caress	vblex$vblex-ger
-	epo	Karibo	np-top	eng	Caribbean	np-top-sg$np$np-top
+	epo	Karibo	np-top	eng	Caribbean	np-top-sg$np$np-top$np-top-nt-sg
 RL	epo	karikaturisto	n	eng	caricaturist	n
 	epo	karnavalo	n	eng	carnival	n$n-ND
 	epo	karnomanĝulo	n	eng	carnivore	n
@@ -17719,7 +17719,7 @@ RL	epo	mono	n$n-sg	eng	cash	n$n-sg
 LR	epo	kontantaĵo	n	eng	cash	n$n-sg
 LR	epo	kontanto	n	eng	cash	n$n-sg
 RL	epo	kesteto	n	eng	casket	n
-	epo	Kaspio	np-top	eng	Caspian Sea	np$np-top$np-top-sg
+	epo	Kaspio	np-top	eng	Caspian Sea	np$np-top
 	epo	kasavo	n	eng	cassava	n
 RL	epo	marmito	n	eng	casserole	n
 	epo	kasedo	n	eng	cassette	n
@@ -20390,7 +20390,7 @@ RL	epo	gvido	n	eng	guidance	n$n-sg
 LR	epo	indikado	n	eng	guidance	n$n-sg
 RL	epo	aspekto	n	eng	guise	n
 	epo	gitaristo	n	eng	guitarist	n
-	epo	Golfo	np-top	eng	Gulf	np-top
+	epo	Golfo	np-top	eng	Gulf	np-top-f-sg$np-top$np-top-sg
 RL	epo	fendego	n	eng	gulf	n$n-ND
 RL	epo	engluti	vblex	eng	gulp	vblex
 LR	epo	ekgluti	vblex	eng	gulp	vblex
@@ -25524,7 +25524,7 @@ LR	epo	laki	vblex	eng	varnish	vblex
 RL	epo	vastaĵo	n	eng	vastness	n$n-ND
 	epo	kuvo	n	eng	vat	n
 LR	epo	tino	n	eng	vat	n
-	epo	Vatikano	np-top	eng	Vatican	np-top$np-top-sg
+	epo	Vatikano	np-top	eng	Vatican	np-top-sg$np-top$np-top-m-sg
 RL	epo	transsalti	vblex	eng	vault	vblex
 	epo	vektoro	n	eng	vector	n$n-sg
 LR	epo	kontaĝanto	n	eng	vector	n$n-sg
@@ -25912,7 +25912,7 @@ RL	epo	Jesuo	np-ant$np	eng	Jesús	np-ant$np$np-ant-m-sg
 	epo	Platono	n$	eng	Plato	np-ant$np-ant-m$np$np-ant-m-sg$
 RL	epo	Platono	n$	eng	Platon	np-ant-m-sg$
 	epo	Aristotelo	n$	eng	Aristotle	np$np-ant$np-ant-m$np-ant-m-sg$
-	epo	Aleksandro	n$	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$
+	epo	Aleksandro	n$	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$
 	epo	Eŭgeno	n$	eng	Eugene	np-ant$np$np-ant-m-sg$$np-ant-m
 	epo	Jakobo	n$	eng	Jacob	np-ant$np$np-ant-m$np-ant-m-sg$
 	epo	Kristoforo	n$	eng	Christopher	np-ant$np$np-ant-m$np-ant-m-sg$
@@ -26138,7 +26138,7 @@ LR	epo	atentigema	adj	eng	alert	adj
 LR	epo	batalpreta	adj	eng	alert	adj
 	epo	subĉiele	adv	eng	alfresco	adv
 	epo	alimento	n	eng	alimony	n$n-sg
-RL	epo	tute	adv	eng	all	adv
+RL	epo	tute	adv	eng	all	adv$
 RL	epo	kvietigi	vblex	eng	allay	vblex
 RL	epo	aliĝo	n	eng	allegiance	n
 RL	epo	asigni	vblex	eng	allocate	vblex

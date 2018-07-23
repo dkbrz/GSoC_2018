@@ -146,19 +146,19 @@
 	fin	lopettaa	vblex	ita	terminare	$vblex
 	fin	etsiä	vblex$vblex-actv-infe-sg-ins	ita	buscare	vblex$
 	fin	mennä	vblex	ita	andare	$vblex
-	fin	kysyä	vblex	ita	chiedere	vblex$
+	fin	kysyä	vblex	ita	chiedere	$vblex
 	fin	puhua	vblex	ita	parlare	$vblex
 	fin	saada	vblex	ita	ottenere	$vblex
-	fin	nauraa	vblex	ita	ridere	vblex$
+	fin	nauraa	vblex	ita	ridere	$vblex
 	fin	ajatella	vblex	ita	pensare	$vblex
-	fin	kertoa	vblex	ita	dire	vblex$
+	fin	kertoa	vblex	ita	dire	$vblex
 	fin	vastata	vblex	ita	rispondere	vblex$
 	fin	kävellä	vblex	ita	camminare	$vblex
 	fin	löytää	vblex	ita	trovare	$vblex
 	fin	kuulla	vblex	ita	sentire	$vblex
 	fin	tulla	vblex$vblex-num-sg-tra	ita	venire	$vblex
 	fin	kuunnella	vblex	ita	ascoltare	$vblex
-	fin	sanoa	vblex	ita	dire	vblex$
+	fin	sanoa	vblex	ita	dire	$vblex
 	fin	syödä	vblex	ita	mangiare	vblex$
 	fin	juoda	vblex	ita	bere	vblex$
 	fin	taata	vblex	ita	garantire	$vblex
@@ -174,8 +174,8 @@
 	fin	vähä	adj$adj-sg-gen	ita	piccolo	$adj$adj-m
 	fin	edessä	pr	ita	davanti	adv$
 	fin	edessä	post$post-gen	ita	davanti	adv$
-	fin	kanssa	pr	ita	con	pr
-	fin	kanssa	post$post-gen	ita	con	pr
+	fin	kanssa	pr	ita	con	pr$
+	fin	kanssa	post$post-gen	ita	con	pr$
 	fin	ulos	pr	ita	por	pr
 	fin	ulos	post	ita	por	pr
 	fin	luokse	pr	ita	verso	pr
@@ -201,7 +201,7 @@
 	fin	erittäin	adv	ita	molto	preadv
 	fin	tänään	adv	ita	oggi	adv
 	fin	eilen	adv	ita	ieri	adv
-	fin	ulkona	adv	ita	fuori	adv
+	fin	ulkona	adv	ita	fuori	adv$
 	fin	sisällä	adv$adv-pxsp3	ita	dentro	adv
 	fin	yhdessä	adv	ita	insieme	adv
 	fin	aina	adv	ita	sempre	adv

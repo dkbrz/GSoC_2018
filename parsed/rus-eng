@@ -70,7 +70,7 @@ RL	rus	за	pr$	eng	for	pr
 	rus	напротив	pr	eng	opposite to	pr
 	rus	насчёт	pr	eng	about	pr
 	rus	о	pr$pr-prp$	eng	about	pr
-	rus	о	pr$pr-prp$	eng	of	pr
+	rus	о	pr$pr-prp$	eng	of	pr$
 	rus	о	pr$pr-prp$	eng	on	pr
 	rus	о	pr$pr-prp$	eng	against	pr
 	rus	о	pr$pr-prp$	eng	upon	pr
@@ -90,7 +90,7 @@ RL	rus	за	pr$	eng	for	pr
 	rus	по	pr	eng	for	pr
 	rus	из	pr$	eng	from	pr
 	rus	из	pr$	eng	out of	pr
-	rus	из	pr$	eng	of	pr
+	rus	из	pr$	eng	of	pr$
 	rus	из	pr$	eng	for	pr
 	rus	из	pr$	eng	through	pr
 	rus	с	pr$$pr-ins	eng	with	pr$
@@ -105,7 +105,7 @@ RL	rus	за	pr$	eng	for	pr
 	rus	тот же самый	adj	eng	the same	det$det-ind-sp$det-ind
 	rus	это	det	eng	the	det$det-def-sp$det-def
 	rus	самый	adj	eng	most	preadv
-	rus	самый	adj	eng	the most	det-qnt-sp$det$det-qnt
+	rus	самый	adj	eng	the most	det-qnt-sp$det
 	rus	который	prn$prn-rel	eng	which	det-itg-sp$det-itg$det
 	rus	который	prn$prn-rel	eng	which	rel-nn-mf-sp$rel$prn-rel-nn-mf-sp
 	rus	либо	cnjcoo	eng	either	det-ind$det$det-ind-sg
@@ -762,7 +762,7 @@ RL	rus	за	pr$	eng	for	pr
 	rus	мода	n-f-nn$n	eng	fashion	n$n-ND
 	rus	мозг	n-m-nn$n	eng	brain	n$n-pl
 	rus	молитва	n-f-nn$n	eng	prayer	n$n-sg
-	rus	молния	n-f-nn$n	eng	lightning	n$n-unc
+	rus	молния	n-f-nn$n	eng	lightning	n$n-sg
 	rus	молодость	n-f-nn$n	eng	youth	n$n-ND
 	rus	молоко	n-nt-nn$n	eng	milk	n$n-ND
 	rus	момент	n-m-nn$n$n-m	eng	moment	n$n-ND
@@ -1119,7 +1119,7 @@ RL	rus	за	pr$	eng	for	pr
 	rus	пуля	n-f-nn$n$n-f	eng	bullet	n$n-ND
 	rus	пустота	n-f-nn$n	eng	emptiness 	n
 	rus	пустыня	n-f-nn$n	eng	desert	n$n-ND
-	rus	путешествие	n-nt-nn$n	eng	travel	n$n-ND
+	rus	путешествие	n-nt-nn$n	eng	travel	n$n-sg
 	rus	путь	n-m-nn$n$n-m	eng	way	n$n-sg
 	rus	пыль	n-f-aa	eng	dust	n$n-sg
 	rus	пьеса	n-f-nn$n	eng	play 	n
@@ -1232,7 +1232,7 @@ RL	rus	за	pr$	eng	for	pr
 	rus	секрет	n-m-nn$n	eng	secret 	n
 	rus	секретарь	n-m-aa$n$n-m	eng	secretary 	n
 	rus	сектор	n-m-nn$n$n-m	eng	sector	n$n-ND
-	rus	секунда	n-f-nn$n	eng	second	n$n-ND
+	rus	секунда	n-f-nn$n	eng	second	n$n-sg
 	rus	село	n-nt-nn$n$n-nt	eng	village	n$n-sg
 	rus	семейство	n-nt-nn$n	eng	family 	n
 	rus	семья	n-f-nn$n-f$n	eng	family	n$n-ND
@@ -1287,7 +1287,7 @@ RL	rus	за	pr$	eng	for	pr
 	rus	соглашение	n-nt-nn$n$n-nt	eng	contract	n$n-ND
 	rus	солдат	n-m-aa$n-m$n	eng	soldier	n$n-ND$
 	rus	солнце	n-nt-nn$n-nt$n	eng	interwiki-de-fa	n
-	rus	соль	n-f-nn$n$n-f	eng	salt	n$n-ND
+	rus	соль	n-f-nn$n$n-f	eng	salt	n$n-sg
 	rus	сомнение	n-nt-nn$n	eng	doubt	n$n-sg
 	rus	сон	n-m-nn$n	eng	sleep	n$n-unc
 	rus	сообщение	n-nt-nn$n$n-nt	eng	message	n$n-sg

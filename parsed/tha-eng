@@ -4473,9 +4473,9 @@ RL	tha			eng	have	vbhaver-pres
 	tha	อื่น	det	eng	other	det-ind-pl$det-ind$det$det-ind-mf-pl
 	tha	ของพวกเรา	det	eng	our	det-pos$det$det-pos-sp
 	tha	นี้	det	eng	this	det-dem$det$det-dem-sg
-	tha	ไม่กี่	det	eng	a few	det-qnt-pl$det$det-qnt
+	tha	ไม่กี่	det	eng	a few	det$det-qnt$det-qnt-pl
 	tha	หลาย	det	eng	a lot of	det-qnt-sp$det$det-qnt
-	tha	หลาย	det	eng	a shitload of	det-qnt-sp$det
+	tha	หลาย	det	eng	a shitload of	det$det-qnt-sp
 	tha	อื่น	det	eng	another	det-ind$det-ind-sg$det
 	tha	ใดใด	det	eng	any	det-ind-sp$det-ind$det
 	tha	ทั้งสอง	det	eng	both	det-ind$det$det-ind-pl
@@ -4493,8 +4493,8 @@ RL	tha			eng	have	vbhaver-pres
 	tha	นิดหน่อย	det	eng	little	det-qnt-sg$det-qnt$det
 	tha	มากมาย	det	eng	lots of	det-qnt-sp$det$det-qnt
 	tha	มากมาย	det	eng	many	det-qnt$det$det-qnt-pl
-	tha	มากกว่า	det	eng	more	det-qnt$det-qnt-sp$det
-	tha	มากกว่าครึ่ง	det	eng	more than half of	det-qnt-sp$det
+	tha	มากกว่า	det	eng	more	det-qnt-sp$det-qnt$det
+	tha	มากกว่าครึ่ง	det	eng	more than half of	det$det-qnt-sp
 	tha	ส่วนมาก	det	eng	most	det-qnt$det-qnt-sp$det
 	tha	มาก	det	eng	much	det-qnt$det-qnt-sg$det
 	tha	ของฉัน	det	eng	my	det-pos-sp$det-pos$det
@@ -4505,11 +4505,11 @@ RL	tha			eng	have	vbhaver-pres
 	tha	มากมาย	det	eng	so many	det-qnt-pl$det-qnt$det
 	tha	บาง	det	eng	some	det-qnt$det-qnt-sp$det
 	tha	เฉกเช่น	det	eng	such	det-ind-sp$det-ind$det
-	tha	เฉกเช่น	det	eng	such a	det-ind$det$det-ind-sg
+	tha	เฉกเช่น	det	eng	such a	det-ind$det
 	tha	นั้น	det	eng	that	det-dem$det$det-dem-sg
 	tha	นั้น	det	eng	the	det$det-def-sp$det-def
-	tha	ส่วนมาก	det	eng	the most	det-qnt-sp$det$det-qnt
-	tha	ที่สุด	det	eng	the most	det-qnt-sp$det$det-qnt
+	tha	ส่วนมาก	det	eng	the most	det-qnt-sp$det
+	tha	ที่สุด	det	eng	the most	det-qnt-sp$det
 	tha	ของพวกเขา	det	eng	their	det-pos$det-pos-sp$det
 	tha	มากมาย	det	eng	too many	det-qnt-pl$det-qnt$det
 	tha	มากมาย	det	eng	too much	det-qnt-sg$det-qnt$det
@@ -5406,7 +5406,7 @@ RL	tha			eng	have	vbhaver-pres
 	tha	ตะกรับ	n	eng	grating	n
 	tha	ลูกกรง	n	eng	grating	n
 	tha	เกรทติ้งเลี้ยวเบน	n	eng	grating	n
-	tha	เกาะกรีนแลนด์	np	eng	Greenland	np-top$np$np-top-sg
+	tha	เกาะกรีนแลนด์	np	eng	Greenland	np-top$np$np-top-sg$np-top-nt-sg
 	tha	เวลากรีนิช	n	eng	greenwich time	n
 	tha	เวลามัชณิมกรีนิช	n	eng	greenwich time	n
 	tha	เวลามาตรฐานกรีนิช	n	eng	greenwich time	n
@@ -5581,9 +5581,9 @@ RL	tha			eng	have	vbhaver-pres
 	tha	เบื่อหน่าย	np	eng	Jade	np$np-ant$np-ant-f-sg
 	tha	เขียวหยก	np	eng	Jade	np$np-ant$np-ant-f-sg
 	tha	สีหยก	np	eng	Jade	np$np-ant$np-ant-f-sg
-	tha	ม.ค.	np	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg
-	tha	เดือนมกราคม	np	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg
-	tha	มกรา	np	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg
+	tha	ม.ค.	np	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m
+	tha	เดือนมกราคม	np	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m
+	tha	มกรา	np	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m
 	tha	กาแฟ	np	eng	Java	np$np-top-sg$np-top
 	tha	เกาะชวา	np	eng	Java	np$np-top-sg$np-top
 	tha	คอฟฟี่	np	eng	Java	np$np-top-sg$np-top
@@ -7473,7 +7473,7 @@ RL	tha			eng	have	vbhaver-pres
 	tha	ยามสนธยา	n	eng	nightfall	n
 	tha	ยามเย็น	n	eng	nightfall	n
 	tha	สารคดี	n	eng	nonfiction	n$n-sg
-	tha	ทวีปอเมริกาเหนือ	np	eng	North America	np-top$np$np-top-sg
+	tha	ทวีปอเมริกาเหนือ	np	eng	North America	np-top$np
 	tha	มลรัฐนอร์ทแคโรไลนา	adj	eng	North	adj$
 	tha	อาณานิคมนอร์ทแคโรไลนา	adj	eng	North	adj$
 	tha	รัฐนอร์ทแคโรไลนา	adj	eng	North	adj$
@@ -7799,8 +7799,8 @@ RL	tha			eng	have	vbhaver-pres
 	tha	นักศึกษาชั้นปีที่สอง	n	eng	sophomore	n
 	tha	เด็กปีสอง	n	eng	sophomore	n
 	tha	นักศึกษาปีสอง	n	eng	sophomore	n
-	tha	ทวีปอเมริกาใต้	np	eng	South America	np$np-top$np-top-sg
-	tha	ประเทศอเมริกาใต้	np	eng	South America	np$np-top$np-top-sg
+	tha	ทวีปอเมริกาใต้	np	eng	South America	np$np-top
+	tha	ประเทศอเมริกาใต้	np	eng	South America	np$np-top
 	tha	รัฐบาลสหภาพโซเวียต	n	eng	Soviet	n$n-ND
 	tha	รัฐบาลโซเวียต	n	eng	Soviet	n$n-ND
 	tha	สเปกโทรเมตรี	n	eng	spectroscopy	n
@@ -12003,10 +12003,10 @@ RL	tha			eng	have	vbhaver-pres
 	tha	โน้ตย่อ	n	eng	billet	n
 	tha	แพะตัวผู้	n	eng	billy goat	n
 	tha	แพะตัวผู้	n	eng	billy goat	n
-	tha	ถัง	n	eng	bin	n
-	tha	เต็มถัง	n	eng	bin	n
-	tha	เลขที่บัญชี	n	eng	bin	n
-	tha	เลขบัญชีธนาคาร	n	eng	bin	n
+	tha	ถัง	n	eng	bin	n$
+	tha	เต็มถัง	n	eng	bin	n$
+	tha	เลขที่บัญชี	n	eng	bin	n$
+	tha	เลขบัญชีธนาคาร	n	eng	bin	n$
 	tha	การพันแผล	n	eng	binding	n
 	tha	การเข้าปกหนังสือ	n	eng	binding	n
 	tha	ตัวล็อกรองเท้าสกี	n	eng	binding	n
@@ -13454,22 +13454,22 @@ RL	tha			eng	have	vbhaver-pres
 	tha	ที่ตั้งแคมป์	n	eng	campsite	n
 	tha	วิทยาเขต	n	eng	campus	n$n-ND
 	tha	แคมปัส	n	eng	campus	n$n-ND
-	tha	กระป๋อง	n	eng	can	n$n-ND
-	tha	ก้น	n	eng	can	n$n-ND
-	tha	ก้น	n	eng	can	n$n-ND
-	tha	ตูด	n	eng	can	n$n-ND
-	tha	ตูด	n	eng	can	n$n-ND
-	tha	ทุ่นกระป๋อง	n	eng	can	n$n-ND
-	tha	บั้นท้าย	n	eng	can	n$n-ND
-	tha	บั้นท้าย	n	eng	can	n$n-ND
-	tha	ป๋อง	n	eng	can	n$n-ND
-	tha	สุขา	n	eng	can	n$n-ND
-	tha	ส้วม	n	eng	can	n$n-ND
-	tha	ห้องน้ำ	n	eng	can	n$n-ND
-	tha	ห้องพระบังคน	n	eng	can	n$n-ND
-	tha	ห้องสุขา	n	eng	can	n$n-ND
-	tha	ห้องส้วม	n	eng	can	n$n-ND
-	tha	โถส้วม	n	eng	can	n$n-ND
+	tha	กระป๋อง	n	eng	can	n$n-sg
+	tha	ก้น	n	eng	can	n$n-sg
+	tha	ก้น	n	eng	can	n$n-sg
+	tha	ตูด	n	eng	can	n$n-sg
+	tha	ตูด	n	eng	can	n$n-sg
+	tha	ทุ่นกระป๋อง	n	eng	can	n$n-sg
+	tha	บั้นท้าย	n	eng	can	n$n-sg
+	tha	บั้นท้าย	n	eng	can	n$n-sg
+	tha	ป๋อง	n	eng	can	n$n-sg
+	tha	สุขา	n	eng	can	n$n-sg
+	tha	ส้วม	n	eng	can	n$n-sg
+	tha	ห้องน้ำ	n	eng	can	n$n-sg
+	tha	ห้องพระบังคน	n	eng	can	n$n-sg
+	tha	ห้องสุขา	n	eng	can	n$n-sg
+	tha	ห้องส้วม	n	eng	can	n$n-sg
+	tha	โถส้วม	n	eng	can	n$n-sg
 	tha	ที่เปิดกระป๋อง	n	eng	can opener	n$n-ND
 	tha	คลอง	n	eng	canal	n
 	tha	คลอง	n	eng	canal	n
@@ -18743,9 +18743,9 @@ RL	tha			eng	have	vbhaver-pres
 	tha	ความแห้งแล้ง	n	eng	drought	n$n-sg
 	tha	อาการง่วงนอน	n	eng	drowsiness	n
 	tha	อาการง่วงเหงาหาวนอน	n	eng	drowsiness	n
-	tha	พระโอสถ	n	eng	drug	n$n-ND
-	tha	ยา	n	eng	drug	n$n-ND
-	tha	โอสถ	n	eng	drug	n$n-ND
+	tha	พระโอสถ	n	eng	drug	n$n-sg
+	tha	ยา	n	eng	drug	n$n-sg
+	tha	โอสถ	n	eng	drug	n$n-sg
 	tha	การติดยา	n	eng	drug addiction	n$n-sg
 	tha	การติดยาเสพติด	n	eng	drug addiction	n$n-sg
 	tha	ผู้ค้ายาเสพติด	n	eng	drug trafficker	n
@@ -19784,7 +19784,7 @@ RL	tha			eng	have	vbhaver-pres
 	tha	ชุมสาย	n	eng	exchange	n$n-ND
 	tha	ชุมสายโทรศัพท์	n	eng	exchange	n$n-ND
 	tha	สถานที่ซื้อขาย	n	eng	exchange	n$n-ND
-	tha	อัตราแลกเปลี่ยน	n	eng	exchange rate	n$n-sg
+	tha	อัตราแลกเปลี่ยน	n	eng	exchange rate	n
 	tha	ผู้แลกเปลี่ยนเงินตรา	n	eng	exchanger	n
 	tha	ความตื่นตัว	n	eng	excitation	n$n-ND
 	tha	ความตื่นเต้น	n	eng	excitation	n$n-ND
@@ -20869,7 +20869,7 @@ RL	tha			eng	have	vbhaver-pres
 	tha	การเบ่งบาน	n	eng	flowering	n$n-ND
 	tha	ช่วงออกดอก	n	eng	flowering	n$n-ND
 	tha	กระถาง	n	eng	flowerpot	n$n-ND
-	tha	ไข้หวัดใหญ่	n	eng	flu	n$n-ND
+	tha	ไข้หวัดใหญ่	n	eng	flu	n$n-sg
 	tha	การขึ้นลง	n	eng	fluctuation	n
 	tha	การพูดเขียนได้คล่อง	n	eng	fluency	n
 	tha	การใช้ภาษาได้คล่อง	n	eng	fluency	n
@@ -23638,7 +23638,7 @@ RL	tha			eng	have	vbhaver-pres
 	tha	การรวมอยู่ด้วยกัน	n	eng	inclusion	n
 	tha	รายได้	n	eng	income	n$n-sg
 	tha	อินคัม	n	eng	income	n$n-sg
-	tha	ภาษีเงินได้	n	eng	income tax	n$n-ND
+	tha	ภาษีเงินได้	n	eng	income tax	n
 	tha	ความเข้ากันไม่ได้	n	eng	incompatibility	n$n-ND
 	tha	การขาดความสามารถ	n	eng	incompetence	n$n-unc
 	tha	ภาวะไร้สมรรถภาพ	n	eng	incompetence	n$n-unc
@@ -25840,9 +25840,9 @@ RL	tha			eng	have	vbhaver-pres
 	tha	แมวป่า	n	eng	lynx	n
 	tha	การทำให้แห้งเยือกแข็ง	n	eng	lyophilisation	n
 	tha	พิณ	n	eng	lyre	n$n-ND
-	tha	เนื้อร้อง	n	eng	lyric	n-pl$n
-	tha	เนื้อเพลง	n	eng	lyric	n-pl$n
-	tha	โคลง	n	eng	lyric	n-pl$n
+	tha	เนื้อร้อง	n	eng	lyric	n$n-pl
+	tha	เนื้อเพลง	n	eng	lyric	n$n-pl
+	tha	โคลง	n	eng	lyric	n$n-pl
 	tha	มีดมาเชเต้	n	eng	machete	n
 	tha	การวางแผน	n	eng	machination	n
 	tha	จักรกล	n	eng	machine	n$n-sg
@@ -29551,7 +29551,7 @@ RL	tha			eng	have	vbhaver-pres
 	tha	การจัดเรียงคำ	n	eng	phraseology	n
 	tha	วิวัฒนาการ	n	eng	phylogeny	n
 	tha	ไฟโลเจนี	n	eng	phylogeny	n
-	tha	เคมีเชิงฟิสิกส์	n	eng	physical chemistry	n$n-sg
+	tha	เคมีเชิงฟิสิกส์	n	eng	physical chemistry	n
 	tha	นักฟิสิกส์	n	eng	physicist	n$n-ND
 	tha	กายภาพ	n	eng	physics	n$n-unc
 	tha	ฟิสิกส์	n	eng	physics	n$n-unc
@@ -32447,21 +32447,21 @@ RL	tha			eng	have	vbhaver-pres
 	tha	สะโพก	n	eng	rump	n
 	tha	สะโพก	n	eng	rump	n
 	tha	เนื้อสะโพก	n	eng	rump	n
-	tha	การรณรงค์หาเสียง	n	eng	run	n$n-ND
-	tha	การวิ่ง	n	eng	run	n$n-ND
-	tha	การวิ่งแข่ง	n	eng	run	n$n-ND
-	tha	การสู้ศึกเลือกตั้ง	n	eng	run	n$n-ND
-	tha	การแข่งขันวิ่ง	n	eng	run	n$n-ND
-	tha	การแข่งขันหาเสียง	n	eng	run	n$n-ND
-	tha	การแข่งขันหาเสียงเลือกตั้ง	n	eng	run	n$n-ND
-	tha	การแข่งวิ่ง	n	eng	run	n$n-ND
-	tha	การไหลออก	n	eng	run	n$n-ND
-	tha	ช่วงเวลาที่เครื่องจักรทำงาน	n	eng	run	n$n-ND
-	tha	รัน	n	eng	run	n$n-ND
-	tha	ลำธาร	n	eng	run	n$n-ND
-	tha	ลำธาร	n	eng	run	n$n-ND
-	tha	เสรีภาพที่ไม่จำกัด	n	eng	run	n$n-ND
-	tha	แผนการบุกด้วยการวิ่ง	n	eng	run	n$n-ND
+	tha	การรณรงค์หาเสียง	n	eng	run	n$n-sg
+	tha	การวิ่ง	n	eng	run	n$n-sg
+	tha	การวิ่งแข่ง	n	eng	run	n$n-sg
+	tha	การสู้ศึกเลือกตั้ง	n	eng	run	n$n-sg
+	tha	การแข่งขันวิ่ง	n	eng	run	n$n-sg
+	tha	การแข่งขันหาเสียง	n	eng	run	n$n-sg
+	tha	การแข่งขันหาเสียงเลือกตั้ง	n	eng	run	n$n-sg
+	tha	การแข่งวิ่ง	n	eng	run	n$n-sg
+	tha	การไหลออก	n	eng	run	n$n-sg
+	tha	ช่วงเวลาที่เครื่องจักรทำงาน	n	eng	run	n$n-sg
+	tha	รัน	n	eng	run	n$n-sg
+	tha	ลำธาร	n	eng	run	n$n-sg
+	tha	ลำธาร	n	eng	run	n$n-sg
+	tha	เสรีภาพที่ไม่จำกัด	n	eng	run	n$n-sg
+	tha	แผนการบุกด้วยการวิ่ง	n	eng	run	n$n-sg
 	tha	คนขายของหนีภาษี	n	eng	runner	n$n-ND
 	tha	คนวิ่ง	n	eng	runner	n$n-ND
 	tha	นักกีฬาวิ่ง	n	eng	runner	n$n-ND
@@ -32616,9 +32616,9 @@ RL	tha			eng	have	vbhaver-pres
 	tha	แซลมอน	n	eng	salmon	n
 	tha	แม่น้ำแซลมอน	n	eng	salmon	n
 	tha	ซัลโมเนลลา	n	eng	salmonella	n$n-unc
-	tha	รสเค็ม	n	eng	salt	n$n-ND
-	tha	เกลือ	n	eng	salt	n$n-ND
-	tha	เกลือแกง	n	eng	salt	n$n-ND
+	tha	รสเค็ม	n	eng	salt	n$n-sg
+	tha	เกลือ	n	eng	salt	n$n-sg
+	tha	เกลือแกง	n	eng	salt	n$n-sg
 	tha	ขวดเกลือป่น	n	eng	salt shaker	n
 	tha	การใส่เกลือ	n	eng	salting	n
 	tha	ดินประสิว	n	eng	saltpetre	n
@@ -32949,7 +32949,7 @@ RL	tha			eng	have	vbhaver-pres
 	tha	การตรวจ	n	eng	scrutiny	n
 	tha	การตรวจสอบ	n	eng	scrutiny	n
 	tha	การมองอย่างละเอียด	n	eng	scrutiny	n
-	tha	การดำน้ำแบบสกูบา	n	eng	scuba diving	n$n-sg
+	tha	การดำน้ำแบบสกูบา	n	eng	scuba diving	n
 	tha	การตะลุมบอน	n	eng	scuffle	n
 	tha	กลุ่มดาวช่างแกะสลัก	n	eng	sculptor	n$n-sg
 	tha	ช่างแกะสลัก	n	eng	sculptor	n$n-sg
@@ -33023,15 +33023,15 @@ RL	tha			eng	have	vbhaver-pres
 	tha	สาหร่าย	n	eng	seaweed	n
 	tha	สาหร่ายทะเล	n	eng	seaweed	n
 	tha	ต่อมไขมันขับไขมันมากเกิน	n	eng	seborrhea	n
-	tha	ชั่วครู่	n	eng	second	n$n-ND
-	tha	ที่สอง	n	eng	second	n$n-ND
-	tha	พี่เลี้ยง	n	eng	second	n$n-ND
-	tha	วิ	n	eng	second	n$n-ND
-	tha	วินาที	n	eng	second	n$n-ND
-	tha	เกียร์สอง	n	eng	second	n$n-ND
-	tha	เบส	n	eng	second	n$n-ND
-	tha	ร.ท.	n	eng	second lieutenant	n$n-sg
-	tha	ร้อยโท	n	eng	second lieutenant	n$n-sg
+	tha	ชั่วครู่	n	eng	second	n$n-sg
+	tha	ที่สอง	n	eng	second	n$n-sg
+	tha	พี่เลี้ยง	n	eng	second	n$n-sg
+	tha	วิ	n	eng	second	n$n-sg
+	tha	วินาที	n	eng	second	n$n-sg
+	tha	เกียร์สอง	n	eng	second	n$n-sg
+	tha	เบส	n	eng	second	n$n-sg
+	tha	ร.ท.	n	eng	second lieutenant	n
+	tha	ร้อยโท	n	eng	second lieutenant	n
 	tha	การกุมความลับ	n	eng	secrecy	n$n-sg
 	tha	การซ่อน	n	eng	secrecy	n$n-sg
 	tha	การเก็บความลับ	n	eng	secrecy	n$n-sg
@@ -36789,8 +36789,8 @@ RL	tha			eng	have	vbhaver-pres
 	tha	การบาดเจ็บทางใจ	n	eng	trauma	n
 	tha	อาการบาดเจ็บ	n	eng	trauma	n
 	tha	วิทยาการบาดเจ็บ	n	eng	traumatology	n$n-sg
-	tha	การเคลื่อนที่ด้วยตัวเอง	n	eng	travel	n$n-ND
-	tha	การเดินทาง	n	eng	travel	n$n-ND
+	tha	การเคลื่อนที่ด้วยตัวเอง	n	eng	travel	n$n-sg
+	tha	การเดินทาง	n	eng	travel	n$n-sg
 	tha	คนเดินทาง	n	eng	traveller	n$n-ND
 	tha	นักเดินทาง	n	eng	traveller	n$n-ND
 	tha	ผู้เดินทาง	n	eng	traveller	n$n-ND
@@ -37372,9 +37372,9 @@ RL	tha			eng	have	vbhaver-pres
 	tha	นางแมวยั่วสวาท	n	eng	vamp	n
 	tha	ผีดิบ	n	eng	vampire	n
 	tha	แวมไพร์	n	eng	vampire	n
-	tha	คาราวาน	n	eng	van	n$n-ND
-	tha	นิวเวฟ	n	eng	van	n$n-ND
-	tha	รถตู้	n	eng	van	n$n-ND
+	tha	คาราวาน	n	eng	van	n$$n-ND
+	tha	นิวเวฟ	n	eng	van	n$$n-ND
+	tha	รถตู้	n	eng	van	n$$n-ND
 	tha	ธาตุวานาเดียม	n	eng	vanadium	n
 	tha	วาเนเดียม	n	eng	vanadium	n
 	tha	เลขอะตอม	n	eng	vanadium	n
@@ -38066,7 +38066,7 @@ RL	tha			eng	have	vbhaver-pres
 	tha	การหวดแส้	n	eng	whiplash	n
 	tha	การเฆี่ยน	n	eng	whiplash	n
 	tha	การเฆี่ยนด้วยแส้	n	eng	whiplash	n
-	tha	วิปครีม	n	eng	whipped cream	n$n-sg
+	tha	วิปครีม	n	eng	whipped cream	n
 	tha	วิสกี้	n	eng	whisky	n$n-ND
 	tha	เหล้าวิสกี้	n	eng	whisky	n$n-ND
 	tha	การกระซิบ	n	eng	whisper	n$n-sg
@@ -38471,8 +38471,8 @@ RL	tha			eng	have	vbhaver-pres
 	tha	ซุกคินี	n	eng	zucchini	n$n-sg
 	tha	เซลล์ไซกอท	n	eng	zygote	n
 	tha	อินกา	np	eng	Inga	np-ant-f$np
-	tha	สงครามโลกครั้งที่ 2	np	eng	World War II	np-al$np$np-al-sg
-	tha	สงครามโลกครั้งที่ 2	np	eng	World War II	np-al$np$np-al-sg
+	tha	สงครามโลกครั้งที่ 2	np	eng	World War II	np-al$np
+	tha	สงครามโลกครั้งที่ 2	np	eng	World War II	np-al$np
 	tha	อังกฤษ	np	eng	England	np-top$np$np-top-sg$
 	tha	เบลเยียม	np	eng	Belgium	np-top$np$np-top-sg
 	tha	เยอรมนี	np	eng	Germany	np-top$np$np-top-sg
@@ -38481,9 +38481,9 @@ RL	tha			eng	have	vbhaver-pres
 	tha	ยุโรป	np	eng	Europe	np$np-top$np-top-sg
 	tha	สเปน	np	eng	Spain	np-top$np$np-top-sg
 	tha	อเมริกา	np	eng	America	np$np-top$np-top-f
-	tha	แอตแลนติก	np	eng	Atlantic	np$np-top-sg$np-top
+	tha	แอตแลนติก	np	eng	Atlantic	np$np-top-sg$np-top-m-sg$np-top
 	tha	อัฟกานิสถาน	np	eng	Afghanistan	np-top$np$np-top-m
-	tha	สงครามเย็น	np	eng	Cold War	np-al$np$np-al-sg
+	tha	สงครามเย็น	np	eng	Cold War	np-al$np
 	tha	ประเทศคิวบา	np	eng	Cuba	np-top$np$np-top-sg
 	tha	กาบอง	np	eng	Gabon	np-top$np-top-sg$np
 	tha	เกรเนดา	np	eng	Grenada	np-top$np$np-top-sg
@@ -38511,7 +38511,7 @@ RL	tha			eng	have	vbhaver-pres
 	tha	สู่	pr	eng	to	pr
 	tha	บน	pr	eng	above	pr
 	tha	ข้างใน	pr	eng	into	pr
-	tha	ของ	pr	eng	of	pr
+	tha	ของ	pr	eng	of	pr$
 	tha	เกี่ยวกับ	pr	eng	about	pr
 	tha	เหนือ	pr	eng	above	pr
 	tha	ตาม	pr	eng	according	pr
@@ -38590,7 +38590,7 @@ RL	tha			eng	have	vbhaver-pres
 	tha	เหมือน	pr	eng	like	pr
 	tha	มากกว่า	pr	eng	more than	pr
 	tha	ใกล้	pr	eng	near	pr
-	tha	แห่ง	pr	eng	of	pr
+	tha	แห่ง	pr	eng	of	pr$
 	tha	ออกจาก	pr	eng	off	pr
 	tha	บน	pr	eng	on	pr
 	tha	เพราะ	pr	eng	on account of	pr
@@ -49240,7 +49240,7 @@ RL	tha			eng		$num$num-ord$num-ord-m-sg
 	tha	ตัวจัดการ	n	eng	manager	n$n-ND
 	tha	ติดตั้ง S	vblex	eng	install	vblex$vblex-ger
 	tha	ต่อ	vblex	eng	continue	vblex
-	tha	ทั้งหมด	adv	eng	all	adv
+	tha	ทั้งหมด	adv	eng	all	adv$
 	tha	ที่คั่นหน้าเว็บ	n	eng	bookmark	n$n-ND
 	tha	ที่จะ	pr	eng	to	pr
 	tha	ที่ผ่านมา	adj	eng	last	adj$adj-ord$adj-ord-sp
@@ -49308,7 +49308,7 @@ RL	tha			eng		$num$num-ord$num-ord-m-sg
 	tha	ทั้งหมด	adj	eng	total	adj
 	tha	สินค้า	n	eng	production	n$n-ND
 	tha	สินค้า	n	eng	production	n$n-ND
-	tha	ใน	pr	eng	of	pr
+	tha	ใน	pr	eng	of	pr$
 	tha	ประเทศไทย	np	eng	thailand	np
 	tha	การเกษตร	vblex	eng	farm	vblex
 	tha	เจ้าพระยา	np	eng	chao	np
@@ -49318,7 +49318,7 @@ RL	tha			eng		$num$num-ord$num-ord-m-sg
 	tha	ประเทศไทย	np	eng	thailand	np
 	tha	ส่วนมาก	adv	eng	mainly	adv
 	tha	ประกอบ	vblex	eng	consist	vblex
-	tha	ด้วย	pr	eng	of	pr
+	tha	ด้วย	pr	eng	of	pr$
 	tha	ทำนา	vblex	eng	farm	vblex
 	tha	ขนาดเล็ก	n	eng	small	n
 	tha	ไม่มากมาย	adj	eng	modest	adj$adj-sint
@@ -49349,10 +49349,10 @@ RL	tha			eng		$num$num-ord$num-ord-m-sg
 	tha	เพื่อ	pr	eng	for	pr
 	tha	ผลิต	n	eng	production	n$n-ND
 	tha	โดยมี	pr	eng	with	pr$
-	tha	ที่จะ	pr	eng	of	pr
+	tha	ที่จะ	pr	eng	of	pr$
 	tha	500,000	num	eng	500,000	num
 	tha	ที่	pr	eng	to	pr
-	tha	จาก	pr	eng	of	pr
+	tha	จาก	pr	eng	of	pr$
 RL	tha			eng	prpers	prn-subj-p3-nt-sg$prn-subj-p3-nt
 	tha	มี	vbhaver	eng	have	vbhaver$vbhaver-neg
 	tha	ปลูก	n	eng	cultivation	n
@@ -49923,7 +49923,7 @@ RL	tha			eng	prpers	prn-subj-p3-nt-sg$prn-subj-p3-nt
 	tha	จะ	pr	eng	to	pr
 	tha	จะได้รับประโยชน์	vblex	eng	benefit	vblex
 	tha	จาก	pr	eng	due to	pr
-	tha	จาก	pr	eng	of	pr
+	tha	จาก	pr	eng	of	pr$
 	tha	จำต้อง	vbmod	eng	have	vbmod$vbmod-pprs
 	tha	จำนวนมาก	det	eng	many	det-qnt$det$det-qnt-pl
 	tha	ชลประทาน	n	eng	irrigation	n
@@ -49935,7 +49935,7 @@ RL	tha			eng	prpers	prn-subj-p3-nt-sg$prn-subj-p3-nt
 	tha	ซึ่งส่งผลทำให้	pr	eng	as a result	pr
 	tha	ดอก	n	eng	flowering	n$n-ND
 	tha	ด้วย	pr	eng	for	pr
-	tha	ด้วย	pr	eng	of	pr
+	tha	ด้วย	pr	eng	of	pr$
 	tha	ด้วย	pr	eng	with	pr$
 	tha	ตอนปลาย	adj	eng	late	adj-sint$adj
 	tha	ตัวอย่างเช่น	adv	eng	for example	adv
@@ -49965,12 +49965,12 @@ RL	tha			eng	prpers	prn-subj-p3-nt-sg$prn-subj-p3-nt
 	tha	ทำให้สั้นลง	vblex	eng	shorten	vblex$vblex-ger
 	tha	ที่ 15	num	eng	15	num
 	tha	ที่	pr	eng	to	pr
-	tha	ที่จะ	pr	eng	of	pr
+	tha	ที่จะ	pr	eng	of	pr$
 	tha	ที่ท่า	n	eng	stance	n
 	tha	ที่มี	vblex	eng	own	vblex
 	tha	ที่มี	pr	eng	with	pr$
 	tha	ที่มีไว้	vblex	eng	intend	vblex
-	tha	ที่ว่า	pr	eng	of	pr
+	tha	ที่ว่า	pr	eng	of	pr$
 	tha	ที่เพิ่มขึ้น	adj	eng	increased	adj
 	tha	ธรรมดา	adj	eng	normal	adj
 	tha	นักบวชศาสนาคริสต์	n	eng	father	n$n-sg
@@ -50057,7 +50057,7 @@ RL	tha			eng	prpers	prn-subj-p3-nt-sg$prn-subj-p3-nt
 	tha	สภาพทาง	n	eng	condition	n$n-sg
 	tha	สมัยใหม่	adj	eng	modern	adj$adj-sint
 	tha	สาด	vblex	eng	throw	vblex$vblex-sep
-	tha	สามารถ	n	eng	can	n$n-ND
+	tha	สามารถ	n	eng	can	n$n-sg
 	tha	สามารถขายได้	vblex	eng	fetch	vblex
 	tha	สายพันธุ์	n	eng	strain	n$n-ND
 	tha	สายพันธุ์	vblex	eng	strain	vblex
@@ -50160,7 +50160,7 @@ RL	tha			eng	prpers	prn-subj-p3-nt-sg$prn-subj-p3-nt
 	tha	ใน	adv	eng	in	adv
 	tha	ใน	adv	eng	on	adv
 	tha	ใน	pr	eng	for	pr
-	tha	ใน	pr	eng	of	pr
+	tha	ใน	pr	eng	of	pr$
 	tha	ใน	pr	eng	to	pr
 	tha	ในขณะที่	cnjadv	eng	whereas	cnjadv
 	tha	ในปี พ.ศ. 25	num	eng	2008	num
@@ -50181,7 +50181,7 @@ RL	tha			eng	prpers	prn-subj-p3-nt-sg$prn-subj-p3-nt
 	tha	ไปยัง	pr	eng	to	pr
 	tha	ไปสู่	pr	eng	to	pr
 	tha	ไปเป็น	pr	eng	to	pr
-	tha	ไม่กี่ข้อ	det	eng	a few	det-qnt-pl$det$det-qnt
+	tha	ไม่กี่ข้อ	det	eng	a few	det$det-qnt$det-qnt-pl
 	tha	ไม่ดี	adj	eng	adverse	adj
 	tha	ไม่มากมาย	adj	eng	modest	adj$adj-sint
 	tha	นาย	n	eng	Mr	abbr
@@ -50446,7 +50446,7 @@ RL	tha			eng	.	sent$
 	tha	ทำให้เหมาะแก่การเพาะเลี้ยง	vblex	eng	domesticate	vblex
 	tha	ทีละต้น	n	eng	individual	n$n-ND
 	tha	ที่	adv	eng	where	adv$adv-itg
-	tha	ที่	pr	eng	of	pr
+	tha	ที่	pr	eng	of	pr$
 	tha	ที่	pr	eng	with	pr$
 	tha	ที่	rel	eng	in which	rel
 	tha	ที่ครบถ้วน	adj	eng	complete	adj
@@ -50572,11 +50572,11 @@ RL	tha			eng	.	sent$
 	tha	สหรัฐอเมริกา	n	eng	u	n
 	tha	สัมฤทธิ์	vblex	eng	achieve	vblex
 	tha	สามัญ	n	eng	commonplace	n$n-ND
-	tha	สามารถ	n	eng	can	n$n-ND
+	tha	สามารถ	n	eng	can	n$n-sg
 	tha	สายพันธุ์	vblex	eng	strain	vblex
 	tha	สำคัญ	adj	eng	central	adj
 	tha	สำคัญ	adj	eng	major	adj
-	tha	สำหรับ	pr	eng	of	pr
+	tha	สำหรับ	pr	eng	of	pr$
 	tha	สำหรับ	pr	eng	to	pr
 	tha	สินค้า	n	eng	production	n$n-ND
 	tha	สินค้า	n	eng	production	n$n-ND
@@ -50640,7 +50640,7 @@ RL	tha			eng	.	sent$
 	tha	เป็นที่นิยม	adj	eng	popular	adj
 	tha	เป็นผง	adj	eng	powdery	adj
 	tha	เป็นยา	adj	eng	medical	adj
-	tha	เป็นอันดับสอง	n	eng	second	n$n-ND
+	tha	เป็นอันดับสอง	n	eng	second	n$n-sg
 	tha	เป็นเวลา	pr	eng	for	pr
 	tha	เพราะเหตุนั้น	adv	eng	whereby	adv
 	tha	เพิ่ม	adv	eng	more	adv
@@ -50679,7 +50679,7 @@ RL	tha			eng	.	sent$
 	tha	แอฟริกา	adj	eng	african	adj
 	tha	แอฟริกา	np	eng	africa	np
 	tha	โจ๊ก	n	eng	congee	n
-	tha	โดย	pr	eng	of	pr
+	tha	โดย	pr	eng	of	pr$
 	tha	โดยการสังเคราะห์แสง	adv	eng	photosynthetically	adv
 	tha	โดยปกติ	adv	eng	usually	adv
 	tha	โดยสามัญ	adv	eng	commonly	adv
@@ -50687,7 +50687,7 @@ RL	tha			eng	.	sent$
 	tha	โปรโต	np	eng	proto	np
 	tha	โยเกิร์ต	n	eng	yogurt	n
 	tha	โลก	n	eng	world	n$n-ND
-	tha	โลลานี	np	eng	de	np$np-cog-mfn
+	tha	โลลานี	np	eng	de	$np$np-cog-mfn
 	tha	ใกล้เคียง	adj	eng	similar	adj
 	tha	ใช้	n	eng	use	n$n-ND
 	tha	ใต้	adv	eng	south	adv

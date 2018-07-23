@@ -85,11 +85,11 @@ LR	eng	prpers	prn-FD-p2-mf-sp$prn-FD$prn-FD-p2	lvs	tu	prn-pers-p2-mf-GD
 	eng	Austria	np-top$np$np-top-f	lvs	Austrija	np-top-f
 	eng	Austria–Hungary	np-top	lvs	Austroungārija	np-top-f
 	eng	East Siberia	np-top	lvs	Austrumsibīrija	np-top-f
-	eng	East Germany	np-top$np-top-sg	lvs	Austrumvācija	np-top-f
+	eng	East Germany	np-top	lvs	Austrumvācija	np-top-f
 	eng	East Asia	np-top	lvs	Austrumāzija	np-top-f
 	eng	Australasia	np$np-top	lvs	Austrālāzija	np-top-f
 	eng	Babylon	np-top-sg$np-top$np	lvs	Babilonija	np-top-f
-	eng	Baltic	np-top-sg$np-top$np	lvs	Baltija	np-top-f
+	eng	Baltic	np-top-sg$np-top$np$np-top-m-sg	lvs	Baltija	np-top-f
 	eng	Belarus	np-top$np$np-top-sg	lvs	Baltkrievija	np-top-f
 	eng	Bavaria	np-top$np$np-top-sg	lvs	Bavārija	np-top-f
 	eng	Bessarabia	np-top$np$np-top-sg	lvs	Besarābija	np-top-f
@@ -100,9 +100,9 @@ LR	eng	prpers	prn-FD-p2-mf-sp$prn-FD$prn-FD-p2	lvs	tu	prn-pers-p2-mf-GD
 	eng	Brazil	np-top$np$np-top-sg	lvs	Brazīlija	np-top-f
 	eng	Britain	np-top$np$np-top-sg	lvs	Britānija	np-top-f
 	eng	Bulgaria	np-top$np$np-top-f	lvs	Bulgārija	np-top-f
-	eng	Central Asia	np$np-top$np-top-sg	lvs	Centrālāzija	np-top-f
+	eng	Central Asia	np$np-top	lvs	Centrālāzija	np-top-f
 	eng	Yugoslavia	np-top$np$np-top-sg	lvs	Dienvidslāvija	np-top-f
-	eng	South Asia	np-top$np-top-sg	lvs	Dienvidāzija	np-top-f
+	eng	South Asia	np-top	lvs	Dienvidāzija	np-top-f
 	eng	Denmark	np-top$np$np-top-sg	lvs	Dānija	np-top-f
 RL	eng	Georgia	np-top$np$np-top-sg	lvs	Džordžija	np-top-f
 	eng	Eurovision	n	lvs	Eirovīzija	n-f
@@ -120,7 +120,7 @@ RL	eng	Georgia	np-top$np$np-top-sg	lvs	Džordžija	np-top-f
 	eng	India	np-top$np$np-top-sg	lvs	Indija	np-top-f
 	eng	Indonesia	np-top$np$np-top-sg	lvs	Indonēzija	np-top-f
 	eng	Italy	np-top$np$np-top-sg	lvs	Itālija	np-top-f
-	eng	New Caledonia	np-top$np$np-top-sg	lvs	Jaunkaledonija	np-top-f
+	eng	New Caledonia	np-top$np	lvs	Jaunkaledonija	np-top-f
 	eng	Jordan	np-top$np$np-top-sg$	lvs	Jordānija	np-top-f
 	eng	California	np-top$np$np-top-sg	lvs	Kalifornija	np-top-f
 	eng	Cumbria	np-top$np-top-sg	lvs	Kambrija	np-top-f
@@ -154,8 +154,8 @@ RL	eng	Georgia	np-top$np$np-top-sg	lvs	Džordžija	np-top-f
 	eng	Persia	np-top$np$np-top-sg	lvs	Persija	np-top-f
 	eng	Polynesia	np$np-top-sg$np-top	lvs	Polinēzija	np-top-f
 	eng	Prussia	np$np-top$np-top-sg$np-top-m-sg	lvs	Prūsija	np-top-f
-	eng	West Virginia	np-top$np-top-sg	lvs	Rietumvirdžīnija	np-top-f
-	eng	West Germany	np$np-top$np-top-sg	lvs	Rietumvācija	np-top-f
+	eng	West Virginia	np-top	lvs	Rietumvirdžīnija	np-top-f
+	eng	West Germany	np$np-top	lvs	Rietumvācija	np-top-f
 	eng	Romania	np-top$np$np-top-f	lvs	Rumānija	np-top-f
 	eng	Sardinia	np-top$np-top-sg	lvs	Sardīnija	np-top-f
 	eng	Serbia	np-top$np-top-sg$np	lvs	Serbija	np-top-f
@@ -182,15 +182,15 @@ RL	eng	City of London	np-top	lvs	Sitija	np-top-f
 	eng	Turkmenistan	np-top$np-top-sg$np	lvs	Turkmēnija	np-top-f
 	eng	Uzbekistan	np-top$np-top-sg$np	lvs	Uzbekija	np-top-f
 	eng	Venice	np-top$np$np-top-f	lvs	Venēcija	np-top-f
-	eng	Central Asia	np$np-top$np-top-sg	lvs	Vidusāzija	np-top-f
+	eng	Central Asia	np$np-top	lvs	Vidusāzija	np-top-f
 	eng	Wikipedia	n	lvs	Vikipēdija	n-f
 	eng	Virginia	np-top$np-top-sg	lvs	Virdžīnija	np-top-f
 	eng	Germany	np-top$np$np-top-sg	lvs	Vācija	np-top-f
 	eng	Zambia	np-top$np$np-top-sg	lvs	Zambija	np-top-f
-	eng	Northern Ireland	np$np-top$np-top-sg	lvs	Ziemeļīrija	np-top-f
+	eng	Northern Ireland	np$np-top	lvs	Ziemeļīrija	np-top-f
 	eng	Sweden	np-top$np$np-top-sg	lvs	Zviedrija	np-top-f
 	eng	Asia	np-top$np$np-top-sg	lvs	Āzija	np-top-f
-	eng	Czech Republic	np-top$np$np-top-sg	lvs	Čehija	np-top-f
+	eng	Czech Republic	np-top$np$np-top-f	lvs	Čehija	np-top-f
 	eng	Chechnya	np-top$np-top-sg	lvs	Čečenija	np-top-f
 	eng	Ireland	np-top$np$np-top-f$	lvs	Īrija	np-top-f
 	eng	Israel	np-top$np$np-top-sg	lvs	Izraēla	np-top-f
@@ -199,7 +199,7 @@ RL	eng	City of London	np-top	lvs	Sitija	np-top-f
 	eng	Glasgow	np$np-top$np-top-sg	lvs	Glāzgova	np-top-f
 	eng	Europe	np$np-top$np-top-sg	lvs	Eiropa	np-top-f
 	eng	South Africa	np-top$np$np-top-sg	lvs	Dienvidāfrika	np-top-f
-	eng	South America	np$np-top$np-top-sg	lvs	Dienvidamerika	np-top-f
+	eng	South America	np$np-top	lvs	Dienvidamerika	np-top-f
 	eng	America	np$np-top$np-top-f	lvs	Amerika	np-top-f
 	eng	Pretoria	np-top-sg$np-top	lvs	Pretorija	np-top-f
 	eng	Republic of South Africa	np-top	lvs	Dienvidāfrikas Republika	np-top-f
@@ -213,9 +213,9 @@ RL	eng	City of London	np-top	lvs	Sitija	np-top-f
 	eng	Vilnius	np-top-sg$np$np-top	lvs	Viļņa	np-top-f
 	eng	Canada	np-top$np$np-top-sg	lvs	Kanāda	np-top-f
 	eng	Gauja	np-top	lvs	Gauja	np-top-f
-	eng	Bosnia	np-top$np$np-top-f	lvs	Bosnija	np-top-f
+	eng	Bosnia	np-top$np$np-top-sg	lvs	Bosnija	np-top-f
 	eng	Argentina	np-top$np$np-top-sg	lvs	Argentīna	np-top-f
-	eng	Eastern Europe	np-top$np$np-top-sg	lvs	Austrumeiropa	np-top-f
+	eng	Eastern Europe	np-top$np	lvs	Austrumeiropa	np-top-f
 	eng	Cambridge	np-top$np$np-top-sg	lvs	Kembridža	np-top-f
 	eng	Kazakhstan	np-top$np-top-sg$np	lvs	Kazahstāna	np-top-f
 	eng	Kiev	np-top-sg$np$np-top	lvs	Kijeva	np-top-f
@@ -225,21 +225,21 @@ RL	eng	City of London	np-top	lvs	Sitija	np-top-f
 	eng	Rome	np-top$np$np-top-sg	lvs	Roma	np-top-f
 	eng	Istambul	np-top	lvs	Stambula	np-top-f
 	eng	Ukraine	np-top$np$np-top-sg	lvs	Ukraina	np-top-f
-	eng	North America	np-top$np$np-top-sg	lvs	Ziemeļamerika	np-top-f
+	eng	North America	np-top$np	lvs	Ziemeļamerika	np-top-f
 	eng	North Africa	np$np-top	lvs	Ziemeļāfrika	np-top-f
-	eng	North Sea	np$np-top$np-top-m-sg	lvs	Ziemeļjūra	np-top-f
+	eng	North Sea	np$np-top	lvs	Ziemeļjūra	np-top-f
 	eng	Vienna	np-top$np$np-top-sg	lvs	Vīne	np-top-f
 	eng	Zemgale	np-top	lvs	Zemgale	np-top-f
 	eng	New Zealand	np-top$np$np-top-sg	lvs	Jaunzēlande	np-top-f
 	eng	Vidzeme	np-top	lvs	Vidzeme	np-top-f
-	eng	Berlin	np-top$np$np-top-sg	lvs	Berlīne	np-top-f
+	eng	Berlin	np-top$np$np-top-sg$np-top-m-sg	lvs	Berlīne	np-top-f
 	eng	Bremen	np-top-sg$np-top$np	lvs	Brēmene	np-top-f
 	eng	Bhutan	np-top$np-top-sg	lvs	Butāna	np-top-f
 	eng	Antarctica	np-top$np$np-top-sg	lvs	Antarktīda	np-top-f
 	eng	Dobele	np-top	lvs	Dobele	np-top-f
 	eng	Kazan	np-top-sg$np-top$	lvs	Kazaņa	np-top-f
 	eng	Wales	np-top$np$np-top-sg	lvs	Velsa	np-top-f
-	eng	Western Europe	np-top$np$np-top-sg	lvs	Rietumeiropa	np-top-f
+	eng	Western Europe	np-top$np	lvs	Rietumeiropa	np-top-f
 	eng	Geneva	np-top$np-top-sg	lvs	Ženēva	np-top-f
 	eng	Switzerland	np-top$np$np-top-sg	lvs	Šveice	np-top-f
 	eng	Soviet Union	np$np-top$np-top-sg	lvs	Padomju Savienība	np-top-f
@@ -1443,7 +1443,7 @@ LR	eng	movie actor	n	lvs	kinoaktieris	n-m
 	eng	root	n$n-sg	lvs	sakne	n-f
 	eng	freshwater	n$n-sg	lvs	saldūdens	n-m
 	eng	comparison	n$n-ND	lvs	salīdzinājums	n-m
-	eng	salt	n$n-ND	lvs	sāls	n-m
+	eng	salt	n$n-sg	lvs	sāls	n-m
 	eng	side	n$n-sg	lvs	sāns	n-m
 	eng	pain	n$n-ND	lvs	sāpe	n-f
 	eng	list	n$n-ND	lvs	saraksts	n-m
@@ -1457,7 +1457,7 @@ LR	eng	movie actor	n	lvs	kinoaktieris	n-m
 	eng	meeting	n$n-ND	lvs	sēde	n-f
 	eng	seed	n$n-ND	lvs	sēkla	n-f
 	eng	secretary	n$n-ND	lvs	sekretārs	n-m
-	eng	second	n$n-ND	lvs	sekunde	n-f
+	eng	second	n$n-sg	lvs	sekunde	n-f
 	eng	antiquity	n$n-ND	lvs	senatne	n-f
 	eng	Ancient Greek	n	lvs	sengrieķis	n-m
 	eng	senleja	n	lvs	senleja	n-f
@@ -1617,7 +1617,7 @@ RL	eng	majority	n$n-ND	lvs	vairums	n-m
 	eng	earthquake	n$n-ND	lvs	zemestrīce	n-f
 	eng	lowland	n$n-sg	lvs	zemiene	n-f
 	eng	boy	n$n-ND	lvs	zēns	n-m
-	eng	lightning	n$n-unc	lvs	zibens	n-m
+	eng	lightning	n$n-sg	lvs	zibens	n-m
 	eng	winter	n$n-ND	lvs	ziema	n-f
 	eng	science	n$n-ND	lvs	zinātne	n-f
 	eng	scientist	n$n-ND	lvs	zinātnieks	n-m

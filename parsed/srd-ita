@@ -1,23 +1,23 @@
-RL	srd	 de	pr	ita	di	pr
-	srd	a	pr	ita	a	pr
+RL	srd	 de	pr	ita	di	$pr
+	srd	a	pr	ita	a	pr$
 	srd	a foras de	pr	ita	fuori da	pr
 	srd	a pustis de	pr	ita	dopo	pr
 	srd	acanta	pr	ita	presso	pr
 	srd	in antis de	pr	ita	anti	pr
 	srd	bighinu a	pr	ita	vicino a	pr
 	srd	cara a	pr	ita	verso	pr
-	srd	che a	pr	ita	come	pr
+	srd	che a	pr	ita	come	pr$
 RL	srd	che a	pr	ita	come a	pr
 	srd	contra	pr	ita	contro	pr
 	srd	cumintzande dae	pr	ita	a cominciare da	pr
-	srd	cun	pr	ita	con	pr
-	srd	dae	pr	ita	da	pr
+	srd	cun	pr	ita	con	pr$
+	srd	dae	pr	ita	da	pr$
 	srd	dae como in susu	pr	ita	d'ora in poi	pr
 	srd	dae in antis	pr	ita	davanti a	pr
 	srd	dae segus	pr	ita	dietro	pr
 	srd	dae segus a	pr	ita	dietro a	pr
-	srd	de	pr	ita	da	pr
-	srd	de	pr	ita	di	pr
+	srd	de	pr	ita	da	pr$
+	srd	de	pr	ita	di	$pr
 	srd	durante	pr	ita	durante	pr
 	srd	finas	pr	ita	fino a	pr
 RL	srd	finas	pr	ita	persino	pr
@@ -46,11 +46,11 @@ RL	srd	paris cun	pr	ita	insieme con	pr
 	srd	partinde dae	pr	ita	a partire da	pr
 LR	srd	posca	pr	ita	dopo	pr
 	srd	pre	pr	ita	pre	pr
-	srd	pro	pr	ita	per	pr
+	srd	pro	pr	ita	per	pr$
 	srd	pro	pr	ita	pro	pr
 	srd	pro mèdiu de	pr	ita	attraverso	pr
 RL	srd	pro mèdiu de	pr	ita	fino a	pr
-	srd	sena	pr	ita	senza	pr$
+	srd	sena	pr	ita	senza	$pr
 	srd	subra	pr	ita	sopra	pr$
 RL	srd	subra	pr	ita	su	pr
 LR	srd	subra de	pr	ita	sopra	pr$
@@ -77,18 +77,18 @@ LR	srd	a coa	adv	ita	dopo	adv$
 	srd	a cuddae	adv	ita	laggiù	adv
 	srd	a cue	adv	ita	lì	adv
 	srd	a curtzu	adv	ita	vicino	adv
-	srd	a dae in antis	adv	ita	avanti	adv
+	srd	a dae in antis	adv	ita	avanti	adv$
 	srd	a dae segus	adv	ita	all'indietro	adv
 	srd	a de die	adv	ita	di giorno	adv
 	srd	a de note	adv	ita	di notte	adv
 RL	srd	a discansu	adv	ita	a riposo	adv
 	srd	a discansu	adv	ita	comodamente	adv
-RL	srd	a discansu	adv	ita	facilmente	adv
+RL	srd	a discansu	adv	ita	facilmente	adv$
 	srd	a disora	adj	ita	anacronistico	adj$adj-sup
 	srd	a distàntzia	adv	ita	a distanza	adv
 RL	srd	a distàntzia	adj	ita	a distanza	adj-mf-sp$adj
 	srd	a dolu mannu	adv	ita	purtroppo	adv
-	srd	a foras	adv	ita	fuori	adv
+	srd	a foras	adv	ita	fuori	adv$
 	srd	a forte	adv	ita	forte	adv
 RL	srd	a forte	adv	ita	fortemente	adv
 	srd	a fortza	adv	ita	a forza	adv
@@ -101,7 +101,7 @@ RL	srd	a fortza	adv	ita	di forza	adv
 	srd	a giosso	adv	ita	giù	adv$
 RL	srd	a giosso	adv	ita	verso giù	adv
 	srd	a gosi	adv	ita	così	adv$
-	srd	a in antis	adv	ita	avanti	adv
+	srd	a in antis	adv	ita	avanti	adv$
 RL	srd	a inghìriu	adv	ita	dintorno	adv
 	srd	a inghìriu	adv	ita	intorno	adv$
 LR	srd	a inoghe	adv	ita	qui	adv
@@ -130,18 +130,18 @@ RL	srd	a malu	adv	ita	malamente	adv
 	srd	a pustis	adv	ita	dopo	adv$
 LR	srd	a pustis	adv	ita	poi	adv
 	srd	a s'annu	adv	ita	all'anno	adv
-	srd	a s'imbesse	adv	ita	al rovescio	adv$
+	srd	a s'imbesse	adv	ita	al rovescio	adv
 	srd	a s'ispessada	adv	ita	inaspettatamente	adv
 	srd	a s'ispissu	adv	ita	spesso	adv$
 	srd	a s'ora	adv	ita	all'ora	adv
 	srd	a s'èsteru	adv	ita	all'estero	adv
 	srd	a sa die	adv	ita	al giorno	adv
-	srd	a sa fine	adv	ita	alla fine	adv$
+	srd	a sa fine	adv	ita	alla fine	adv
 RL	srd	a sa grusera	adv	ita	alla buona	adv
 	srd	a sa grussera	adv	ita	grossolanamente	adv
 	srd	a sa minuda	adv	ita	dettagliatamente	adv
-	srd	a sa revessa	adv	ita	al rovescio	adv$
-	srd	a sa ritza	adv	ita	in piedi	$adv
+	srd	a sa revessa	adv	ita	al rovescio	adv
+	srd	a sa ritza	adv	ita	in piedi	adv
 	srd	a segus	adv	ita	dietro	adv
 	srd	a sero	adv	ita	di sera	adv
 	srd	a si bìere luego	ij	ita	a presto	ij
@@ -280,7 +280,7 @@ RL	srd	abilitadu	adj	ita	abilitato	adj$adj-sup
 	srd	abitadu	adj	ita	abitato	adj$adj-sup
 	srd	abitadu	n-m	ita	abitato	n-m$$n
 RL	srd	abitadu	adj	ita	abitato	adj$adj-sup
-	srd	abitante	n-mf	ita	abitante	n$n-mf
+	srd	abitante	n-mf	ita	abitante	n-mf$n
 	srd	abitare	vblex	ita	abitare	vblex$
 LR	srd	abitare	vblex	ita	frequentare	$vblex
 	srd	abitativu	adj	ita	abitativo	adj$adj-sup
@@ -306,7 +306,7 @@ RL	srd	abitudinàriu	adj	ita	abitudinario	adj$adj-sup
 	srd	abnegatzione	n-f	ita	abnegazione	n$n-f
 	srd	abogadu	n$n-m	ita	avvocato	n-m$n
 	srd	abogatzia	n-f	ita	avvocatura	n$n-f
-	srd	aboghinare	vblex	ita	gridare	vblex$
+	srd	aboghinare	vblex	ita	gridare	$vblex
 	srd	aboghinare	vblex	ita	urlare	$vblex
 	srd	abolire	vblex	ita	abolire	$vblex
 	srd	abolitzione	n-f	ita	abolizione	n-f$n
@@ -831,7 +831,7 @@ LR	srd	agabbu	n-m	ita	fine	n-f
 	srd	aggiudu	n-m	ita	agevolazione	n-f$n
 	srd	aghedu	n-m	ita	aceto	n$n-m
 	srd	agibilidade	n-f	ita	agibilità	n-f
-	srd	agigu	adv	ita	appena	adv
+	srd	agigu	adv	ita	appena	adv$
 	srd	agigu	adv	ita	un poco	adv
 	srd	agilidade	n-f	ita	agilità	n-f-sp$n-f
 	srd	Agilulfo	np-ant-m	ita	Agilulfo	np-ant-m
@@ -943,7 +943,7 @@ RL	srd	agìbile	adj	ita	agibile	adj$adj-sup
 	srd	Aimone	np-ant-m	ita	Aimone	np-ant-m
 	srd	aina	n-f	ita	strumento	n-m$n
 	srd	airare	vblex	ita	adirare	vblex
-LR	srd	aizu	adv	ita	poco	adv$
+LR	srd	aizu	adv	ita	poco	$adv
 	srd	Ajax	np-org-f	ita	Ajax	np-org-f
 	srd	Al-Qaida	np-al-m$np-al-m-sg	ita	Al-Qaida	np-al-m
 	srd	Al Pacino	np-cog$np-cog-mf-sp	ita	Al Pacino	np-cog
@@ -1083,7 +1083,7 @@ RL	srd	alfabèticu	adj	ita	alfabetico	adj$$adj-sup
 	srd	Alfredo	np-ant-m$np-ant-m-sg	ita	Alfredo	np-ant$np-ant-m
 	srd	Alfrida	np-ant-f	ita	Alfrida	np-ant-f
 	srd	Alfride	np-ant-f	ita	Alfride	np-ant-f
-	srd	alga	n-f	ita	alga	n$n-f
+	srd	alga	n-f	ita	alga	n-f$n
 	srd	algerinu	adj	ita	algerino	adj$$adj-sup
 RL	srd	algerinu	adj	ita	algerino	adj$$adj-sup
 	srd	Alghisio	np-ant-m	ita	Alghisio	np-ant-m
@@ -1221,7 +1221,7 @@ RL	srd	allughitivu	adj	ita	infiammabile	adj-sup
 	srd	Alpinolo	np-ant-m	ita	Alpinolo	np-ant-m
 	srd	alpinu	adj	ita	alpino	adj$$adj-sup
 RL	srd	alpinu	adj	ita	alpino	adj$$adj-sup
-	srd	altamente	adv	ita	altamente	adv
+	srd	altamente	adv	ita	altamente	adv$
 	srd	altare	n-m	ita	altare	n-m$n
 	srd	Altea	np-ant-f	ita	Altea	np-ant-f
 	srd	Alteo	np-ant-m	ita	Alteo	np-ant-m
@@ -1510,7 +1510,7 @@ LR	srd	Andrìa	np-ant-m	ita	Andrea	np-ant$np-ant-m$np-ant-m-sg
 	srd	anelesu	adj	ita	anelese	adj
 	srd	Anellina	np-ant-f	ita	Anellina	np-ant-f
 	srd	anemia	n-f	ita	anemia	n-f$n
-	srd	anestesia	n-f	ita	anestesia	n$n-f
+	srd	anestesia	n-f	ita	anestesia	n-f$n
 	srd	anestesista	n$n-mf	ita	anestesista	n-mf
 	srd	anestesista	n$n-mf	ita	anestesista	n$n-GD
 	srd	anfiteatru	n-m	ita	anfiteatro	n$n-m
@@ -2063,7 +2063,7 @@ RL	srd	aprovadu	adj	ita	promosso	$adj$adj-sup
 	srd	aprètziu	n-m	ita	considerazione	n-f$n
 	srd	apuntadu	adj	ita	puntato	$adj
 	srd	apuntamentu	n-m	ita	appuntamento	n-m
-LR	srd	apuntare	vblex	ita	puntare	vblex$
+LR	srd	apuntare	vblex	ita	puntare	$vblex
 	srd	apuntu	n-m	ita	appunto	n-m
 	srd	apuntu	adv	ita	appunto	adv
 	srd	apuria	n-f	ita	molestia	n-f
@@ -2072,7 +2072,7 @@ RL	srd	apuriosu	adj	ita	molesto	$adj$adj-sup
 	srd	apustis mortu	adj	ita	postumo	adj
 	srd	apàrrere	vblex	ita	apparire	$vblex
 	srd	apògiu	n-m	ita	appoggio	n-m$n
-	srd	apònnere	vblex	ita	apporre	vblex$
+	srd	apònnere	vblex	ita	apporre	$vblex
 	srd	apòrrere	vblex	ita	porgere	$vblex
 	srd	apòsitu	adj	ita	apposito	adj$adj-sup
 RL	srd	apòsitu	adj	ita	apposito	adj$adj-sup
@@ -2273,7 +2273,7 @@ RL	srd	armònicu	adj	ita	armonico	adj$$adj-sup
 	srd	arpitanu	n	ita	arpitano	n
 RL	srd	arpitanu	adj	ita	arpitano	adj$adj-sup
 	srd	Arrabito	np-cog$np-cog-mf-sp	ita	Arrabito	np-cog
-	srd	arracadare	vblex	ita	mettere	vblex$
+	srd	arracadare	vblex	ita	mettere	$vblex
 	srd	arraighinadu	adj	ita	insito	adj$adj-sup
 RL	srd	arraighinadu	adj	ita	insito	adj$adj-sup
 	srd	arraighinare	vblex	ita	radicare	vblex
@@ -2389,7 +2389,7 @@ RL	srd	artifitziale	adj	ita	artificiale	adj-sup
 	srd	artisanu	adj	ita	artigiano	adj$adj-sup
 RL	srd	artisanu	adj	ita	artigiano	adj$adj-sup
 	srd	artista	n$n-mf	ita	artista	n-GD$n
-	srd	artu	n	ita	alto	n$n-GD
+	srd	artu	n	ita	alto	n$n-m
 	srd	artu	adj	ita	alto	adj$$adj-sup
 RL	srd	artu	adj	ita	alto	adj$$adj-sup
 	srd	Artura	np-ant-f	ita	Artura	np-ant-f
@@ -2542,7 +2542,7 @@ RL	srd	assoltu	adj	ita	assolto	adj$adj-sup
 RL	srd	assolutu	adj	ita	assoluto	$adj$adj-sup
 	srd	assolutzione	n-f	ita	assoluzione	n-f$n
 	srd	assolutòriu	adj	ita	assolutorio	adj
-	srd	assorbente	adj	ita	assorbente	adj$$adj-mf
+	srd	assorbente	adj	ita	assorbente	adj$adj-mf
 RL	srd	assorbente	adj	ita	assorbente	adj-sup
 	srd	assortire	vblex	ita	assortire	vblex
 	srd	assotziare	vblex	ita	associare	$vblex
@@ -3086,7 +3086,7 @@ RL	srd	bagadiu	adj	ita	celibe	adj$adj-sup
 	srd	bajulare	vblex	ita	sopportare	$vblex
 	srd	Baker	np-cog$np-cog-mf-sp	ita	Baker	np-cog$np-cog-mf$np-cog-mf-sp
 	srd	bala	n-f	ita	pala	n-f$n
-	srd	balangiadu	adj	ita	guadagnato	adj
+	srd	balangiadu	adj	ita	guadagnato	$adj
 	srd	balangiare	vblex	ita	guadagnare	$vblex
 	srd	Balbina	np-ant-f	ita	Balbina	np-ant-f
 	srd	Balbino	np-ant-m	ita	Balbino	np-ant$np-ant-m
@@ -3116,7 +3116,7 @@ LR	srd	balia	n-f	ita	valore	n-m$n
 	srd	balla	n-f	ita	balla	n-f
 	srd	balla	n-f	ita	pallettone	n-m
 	srd	balla	n-f	ita	proiettile	n-m$n
-	srd	ballare	vblex	ita	ballare	vblex$
+	srd	ballare	vblex	ita	ballare	$vblex
 	srd	Ballau	np-top-m	ita	Ballao	np-loc-m
 	srd	ballerinu	n$n-m	ita	ballerino	n-m
 	srd	ballerinu	n$n-m	ita	ballerino	n$n-GD
@@ -3404,7 +3404,7 @@ RL	srd	bendidore	adj	ita	venditore	adj$adj-sup
 	srd	benefatore	adj	ita	benefattore	adj
 	srd	benefitziare	vblex	ita	beneficiare	$vblex
 	srd	benefitziare	vblex	ita	usufruire	$vblex
-	srd	benefitziàriu	n	ita	beneficiario	n$n-GD
+	srd	benefitziàriu	n	ita	beneficiario	n$n-m
 	srd	benefitziàriu	adj	ita	beneficiario	adj$adj-sup
 RL	srd	benefitziàriu	adj	ita	beneficiario	adj$adj-sup
 	srd	benefitzèntzia	n-f	ita	beneficenza	n-f$n
@@ -3629,7 +3629,7 @@ RL	srd	binchidore	adj	ita	vincitore	adj$$adj-sup
 	srd	Bino	np-ant-m	ita	Bino	np-ant-m
 	srd	bintiduos	num	ita	ventidue	num-mf-sp$$num
 	srd	bintina	n-f	ita	ventina	n-f
-	srd	binu	n-m	ita	vino	n$n-m
+	srd	binu	n-m	ita	vino	n-m$n
 	srd	binàriu	adj	ita	binario	adj
 	srd	binòculu	n-m	ita	binocolo	n-m$n-m-pl
 	srd	biochìmica	n-f$n-f-sg	ita	biochimica	n-f
@@ -3666,7 +3666,7 @@ RL	srd	birmanu	adj	ita	birmano	adj$adj-sup
 	srd	bisadore	n-m	ita	sognatore	$n-m$n-mf-m
 	srd	bisadore	adj	ita	sognatore	adj
 	srd	bisaju	n	ita	bisavolo	n$n-m
-	srd	bisare	vblex	ita	sognare	vblex$
+	srd	bisare	vblex	ita	sognare	$vblex
 	srd	Biscàglia	np-top-f$np-top-f-sg	ita	Biscaglia	np-loc-f$np-loc-f-sg
 	srd	bisessuale	adj$adj-mf	ita	bisessuale	$adj$adj-sup
 	srd	bisessuale	n-mf	ita	bisessuale	n-mf
@@ -3701,7 +3701,7 @@ RL	srd	biu	adj	ita	vivo	$adj$adj-sup
 	srd	biudu	n	ita	vedovo	n$n-m$
 	srd	biudu	adj	ita	vedovo	adj$adj-sup
 RL	srd	biudu	adj	ita	vedovo	adj$adj-sup
-LR	srd	bividore	n	ita	abitante	n$n-mf
+LR	srd	bividore	n	ita	abitante	n-mf$n
 	srd	bividore	n	ita	bevitore	n-m$n
 	srd	bividore	n	ita	vivente	n$n-m
 	srd	bivu	n-m	ita	vitto	n-m
@@ -4088,8 +4088,8 @@ RL	srd	bèllicu	adj	ita	bellico	adj$$adj-sup
 	srd	bènnere	vblex	ita	sorgere	$vblex
 	srd	bènnere	vblex	ita	venire	$vblex
 	srd	bènnidu	adj	ita	proveniente	adj$adj-mf
-	srd	bènnidu	adj	ita	venuto	adj$adj-sup
-RL	srd	bènnidu	adj	ita	venuto	adj$adj-sup
+	srd	bènnidu	adj	ita	venuto	$adj$adj-sup
+RL	srd	bènnidu	adj	ita	venuto	$adj$adj-sup
 	srd	bèrberu	n	ita	berbero	n$n-m
 	srd	bèrberu	adj	ita	berbero	adj$adj-sup
 RL	srd	bèrberu	adj	ita	berbero	adj$adj-sup
@@ -4291,10 +4291,10 @@ RL	srd	calòricu	adj	ita	calorico	$adj$adj-sup
 	srd	camaldolesu	adj	ita	camaldolese	adj
 	srd	camaldolesu	n	ita	camaldolese	n
 	srd	camaleonte	n-m	ita	camaleonte	n-m$n
-	srd	camare	vblex	ita	mettere	vblex$
+	srd	camare	vblex	ita	mettere	$vblex
 	srd	camba	n-f	ita	ramo	n-m$n
 	srd	cambarare	vblex	ita	incavare	vblex
-	srd	cambare	vblex	ita	mettere	vblex$
+	srd	cambare	vblex	ita	mettere	$vblex
 	srd	cambiada	n-f	ita	cambio	n-m$n
 	srd	cambiadu	adj	ita	cambiato	adj$adj-sup
 RL	srd	cambiadu	adj	ita	cambiato	adj$adj-sup
@@ -4671,7 +4671,7 @@ RL	srd	casertanu	adj	ita	casertano	adj$adj-sup
 	srd	casotu	n-m	ita	casotto	n-m
 RL	srd	cassa	n-f	ita	caccia	n-f$n
 LR	srd	cassa	n-f	ita	cassa	n-f$n
-	srd	cassadore	n	ita	cacciatore	n$n-m
+	srd	cassadore	n	ita	cacciatore	n-m$n
 	srd	Cassandra	np-ant-f$np-ant-f-sg	ita	Cassandra	np-ant$np-ant-f
 	srd	cassare	vblex	ita	cacciare	$vblex
 	srd	cassatzione	n-f	ita	cassazione	n-f$n
@@ -4723,7 +4723,7 @@ RL	srd	castàngiu	adj	ita	marrone	adj-sup
 	srd	castàngiu	adj	ita	marrone	adj$$adj-mf
 	srd	Castìllia	np-top-f-sg	ita	Castiglia	np-loc-f-sg
 	srd	casu	n-m	ita	caso	n-m$n
-	srd	casu	n-m	ita	formaggio	n$n-m
+	srd	casu	n-m	ita	formaggio	n-m$n
 	srd	casuale	adj$adj-mf	ita	casuale	adj-mf$adj$
 RL	srd	casuale	adj$adj-mf	ita	casuale	adj-sup
 	srd	casualidade	n-f	ita	casualità	n-f$n-f-sp
@@ -4786,7 +4786,7 @@ RL	srd	catramosu	adj	ita	catramoso	adj$adj-sup
 	srd	catza	n-f	ita	caccia	n-f$n
 	srd	catzare	vblex	ita	levare	$vblex
 	srd	catzavite	n-m	ita	cacciavite	n-m$n
-	srd	catziadore	n	ita	cacciatore	n$n-m
+	srd	catziadore	n	ita	cacciatore	n-m$n
 	srd	catziare	vblex	ita	cacciare	$vblex
 RL	srd	catzotu	n-m	ita	cazzotto	n-m
 	srd	catzotu	n-m	ita	schiaffo	n-m
@@ -4926,7 +4926,7 @@ RL	srd	chervu	adj	ita	acerbo	$adj$adj-sup
 	srd	chi fàghet	adj-mf	ita	facente	adj-mf
 	srd	chi ofendet	adj	ita	offensivo	$adj
 	srd	chi riguardat	adj-mf	ita	riguardante	adj-mf
-	srd	chi tenet	adj-mf	ita	avente	adj-mf
+	srd	chi tenet	adj-mf	ita	avente	$adj-mf
 	srd	chi torrat a artziare	adj-mf	ita	risalente	adj-mf
 LR	srd	chia	n-f	ita	volta	n-f$n
 	srd	Chianetta	np-cog$np-cog-mf-sp	ita	Chianetta	np-cog
@@ -5258,7 +5258,7 @@ RL	srd	colonizadu	adj	ita	colonizzato	adj$adj-sup
 	srd	colonizatzione	n-f	ita	colonizzazione	n$n-f
 	srd	colonnare	vblex	ita	colonnare	vblex
 	srd	colonu	n-m	ita	colono	n-m$n
-	srd	colorante	n-m	ita	colorante	n-m$n
+	srd	colorante	n-m	ita	colorante	n-m$$n
 	srd	colorare	vblex	ita	colorare	vblex$
 	srd	colore	n-m	ita	colore	n-m$n
 	srd	coloridu	adj	ita	colorito	adj$adj-sup
@@ -5305,7 +5305,7 @@ LR	srd	comintzu	n-m	ita	inizio	n-m$n
 	srd	commissariare	vblex	ita	commissariare	vblex
 	srd	commissione	n-f	ita	commissione	n-f$n
 	srd	commissàriu	n-m	ita	commissario	n-m
-	srd	commitire	vblex	ita	commettere	vblex$
+	srd	commitire	vblex	ita	commettere	$vblex
 	srd	Commonwealth	np-al-m-sg$np-al-m	ita	Commonwealth	np-al-m
 	srd	commutativu	adj	ita	commutativo	adj
 	srd	como	adv	ita	adesso	adv
@@ -5328,8 +5328,8 @@ LR	srd	compilatzione	n-f	ita	compilazione	n-f$n
 RL	srd	complessivu	adj	ita	complessivo	adj-sup
 	srd	complessu	adj	ita	complesso	adj$adj-sup
 RL	srd	complessu	adj	ita	complesso	adj$adj-sup
-	srd	completu	adj	ita	completo	$adj$adj-sup
-RL	srd	completu	adj	ita	completo	$adj$adj-sup
+	srd	completu	adj	ita	completo	adj$adj-sup
+RL	srd	completu	adj	ita	completo	adj$adj-sup
 	srd	complicadu	adj	ita	complicato	$adj$adj-sup
 RL	srd	complicadu	adj	ita	complicato	$adj$adj-sup
 LR	srd	complicare	vblex	ita	complicare	vblex$
@@ -5541,7 +5541,7 @@ RL	srd	continente	adj$adj-mf	ita	continente	adj-sup
 	srd	contingente	n-m	ita	contingente	n-mf$
 	srd	continu	adj	ita	continuo	adj$$adj-sup
 	srd	continuadu	adj	ita	continuato	adj
-LR	srd	continuare	vblex	ita	continuare	vblex$
+LR	srd	continuare	vblex	ita	continuare	$vblex
 LR	srd	continuatzione	n-f	ita	continuazione	n-f$n
 	srd	continuidade	n-f	ita	continuità	n-f-sp$n-f
 	srd	contistu	n-m	ita	contabile	n-mf$$n
@@ -5912,7 +5912,7 @@ LR	srd	creze	n-f	ita	specie	n-f-sp$n-f
 	srd	criminale	n$n-mf	ita	criminale	n-m$n
 	srd	criminale	adj	ita	criminale	$adj$adj-mf
 RL	srd	criminale	adj	ita	criminale	adj-sup
-	srd	criminalidade	n-f	ita	criminalità	n-f-sp$n-f
+	srd	criminalidade	n-f	ita	criminalità	n-f$n-f-sp
 	srd	criminare	vblex	ita	incriminare	vblex$
 	srd	criminologia	n-f	ita	criminologia	n$n-f
 	srd	criminològicu	adj	ita	criminologico	adj$adj-sup
@@ -5952,7 +5952,7 @@ RL	srd	Cristu	np-ant-m$np-ant-m-sg	ita	Cristu	np-ant-m
 	srd	croatu	adj	ita	croato	adj$adj-sup
 	srd	croatu	n	ita	croato	n-m$$n
 RL	srd	croatu	adj	ita	croato	adj$adj-sup
-LR	srd	croba	n-f	ita	coppia	n$n-f
+LR	srd	croba	n-f	ita	coppia	n-f$n
 	srd	croba	n-f	ita	paio	n-m-sg$n-m
 	srd	crobare	vblex	ita	accoppiare	$vblex
 	srd	Croce	np-ant-f	ita	Croce	np-ant-f
@@ -6037,7 +6037,7 @@ LR	srd	cualìfica	n-f	ita	qualifica	n-f$n
 	srd	cuarantena	n-f	ita	quarantena	n$n-f
 	srd	cuare	vblex	ita	nascondere	$vblex
 	srd	cuartetu	n-m	ita	quartetto	n-m
-LR	srd	cuartu	adj$adj-ord	ita	quarto	adj-ord$$adj
+LR	srd	cuartu	adj$adj-ord	ita	quarto	adj-ord$adj
 	srd	Cuartu Sant'Aleni	np-top-m	ita	Quartu Sant'Elena	np-loc-m
 	srd	Cuartuciu	np-top-m	ita	Quartucciu	np-loc-m
 	srd	cuartzu	n-m	ita	quarzo	n-m
@@ -6234,8 +6234,8 @@ RL	srd	cumplessivu	adj	ita	cumplessivo	adj$adj-sup
 	srd	cumplessu	adj	ita	cumplesso	adj$adj-sup
 RL	srd	cumplessu	adj	ita	cumplesso	adj$adj-sup
 	srd	cumpletare	vblex	ita	completare	$vblex
-	srd	cumpletu	adj	ita	completo	$adj$adj-sup
-RL	srd	cumpletu	adj	ita	completo	$adj$adj-sup
+	srd	cumpletu	adj	ita	completo	adj$adj-sup
+RL	srd	cumpletu	adj	ita	completo	adj$adj-sup
 	srd	cumpletu	adj	ita	esaustivo	adj$$adj-sup
 RL	srd	cumpletu	adj	ita	esaustivo	adj$$adj-sup
 	srd	cumplicare	vblex	ita	complicare	vblex$
@@ -6267,9 +6267,9 @@ RL	srd	cumprensìbile	adj$adj-mf	ita	comprensibile	adj-sup
 RL	srd	cumpressu	adj	ita	compresso	$adj$adj-sup
 	srd	cumpresu	adj	ita	compreso	adj$adj-sup
 RL	srd	cumpresu	adj	ita	compreso	adj$adj-sup
-	srd	cumpridu	n	ita	completo	n-m$n
-	srd	cumpridu	adj	ita	completo	$adj$adj-sup
-RL	srd	cumpridu	adj	ita	completo	$adj$adj-sup
+	srd	cumpridu	n	ita	completo	$n-m$n
+	srd	cumpridu	adj	ita	completo	adj$adj-sup
+RL	srd	cumpridu	adj	ita	completo	adj$adj-sup
 	srd	cumprimentu	n-m	ita	compimento	n-m$n
 LR	srd	cumprire	vblex	ita	compiere	vblex$
 	srd	cumproare	vblex	ita	riscontrare	$vblex
@@ -6445,7 +6445,7 @@ RL	srd	cunsighidu	adj	ita	conseguito	adj$adj-sup
 	srd	cunsighèntzia	n-f	ita	conseguenza	n-f$n
 	srd	cunsigna	n-f	ita	consegna	n-f$n
 LR	srd	cunsignare	vblex	ita	affidare	vblex$
-RL	srd	cunsignare	vblex	ita	consegnare	vblex$
+RL	srd	cunsignare	vblex	ita	consegnare	$vblex
 	srd	cunsinna	n-f	ita	recapito	n-m
 	srd	cunsinnare	vblex	ita	recapitare	$vblex
 	srd	cunsistente	adj$adj-mf	ita	consistente	$adj$adj-mf
@@ -6613,7 +6613,7 @@ RL	srd	currente	adj	ita	corrente	adj-sup
 	srd	currera	n-f	ita	incursione	n-f
 	srd	curreta	adv	ita	correttamente	adv
 	srd	curretesa	n-f	ita	correttezza	n-f
-	srd	curretore	n	ita	correttore	n$n-m
+	srd	curretore	n	ita	correttore	n-m$n
 	srd	curretu	n	ita	corretto	n
 	srd	curretu	adj	ita	corretto	$adj$adj-sup
 RL	srd	curretu	adj	ita	corretto	$adj$adj-sup
@@ -6733,7 +6733,7 @@ RL	srd	cònicu	adj	ita	conico	adj$$adj-sup
 	srd	cònsole	n-m	ita	console	n-m$n$n-m-sg
 RL	srd	cònsole	n-f	ita	consolle	n-f-sp$n-f
 	srd	còpia	n-f	ita	copia	n-f$n
-	srd	còpia	n-f	ita	coppia	n$n-f
+	srd	còpia	n-f	ita	coppia	n-f$n
 	srd	còrfere	vblex	ita	colpire	$vblex
 	srd	còrgiu	n-m	ita	cuoio	n-m$n$n-f-m
 	srd	Còrsica	np-top-f$np-top-f-sg	ita	Corsica	np$np-loc-f$np-loc$np-loc-f-sg
@@ -6764,7 +6764,7 @@ LR	srd	cùrridu	n-m	ita	corso	n-m$n
 	srd	dadaista	n	ita	dadaista	n$n-m
 	srd	dadaista	adj$adj-mf	ita	dadaista	adj
 	srd	dadivosidade	n-f	ita	superbia	n-f
-LR	srd	dadore	n	ita	datore	n$n-m
+LR	srd	dadore	n	ita	datore	n-m$n
 	srd	dae bivu	n-m-sg	ita	live	n-m-sp
 	srd	dae bivu	adj-mf-sp	ita	live	adj-mf-sp
 	srd	dae chi	adv	ita	dal momento che	adv
@@ -6857,7 +6857,7 @@ LR	srd	dassare	vblex	ita	lasciare	$vblex
 	srd	datatzione	n-f	ita	datazione	n$n-f
 	srd	datilògrafu	n	ita	dattilografo	n$n-GD
 	srd	dativu	n-m	ita	dativo	n-m
-	srd	datore	n-m	ita	datore	n$n-m
+	srd	datore	n-m	ita	datore	n-m$n
 	srd	datu	n-m	ita	dato	n-m$$n
 	srd	datzieri	n	ita	esattore	n$n-m
 	srd	datàbile	adj	ita	databile	adj$adj-sup
@@ -6887,7 +6887,7 @@ RL	srd	datàbile	adj	ita	databile	adj$adj-sup
 	srd	de barantatrès	adj-ord	ita	quarantatreesimo	adj-ord
 	srd	de barantoto	adj-ord	ita	quarantottesimo	adj-ord
 	srd	de barantunu	adj-ord	ita	quarantunesimo	adj-ord
-	srd	de bator	adj-ord	ita	quarto	adj-ord$$adj
+	srd	de bator	adj-ord	ita	quarto	adj-ord$adj
 	srd	de batorghentos	adj-ord	ita	quattrocentesimo	adj-ord
 	srd	de batòrdighi	adj-ord	ita	quattordicesimo	adj$adj-ord
 	srd	de Beauharnais	np-cog$np-cog-mf-sp	ita	de Beauharnais	np-cog
@@ -7014,7 +7014,7 @@ LR	srd	de duos	adj-ord	ita	secondo	adj-ord$adj
 	srd	de su Rinaschimentu	adj-mf	ita	rinascimentale	adj-mf
 	srd	de su totu	adv	ita	totalmente	adv$
 	srd	de suncuna	adv	ita	improvvisamente	adv
-	srd	de sutzessu	adj-mf-sp	ita	di successo	adj-mf-sp$adj$adj-mf$
+	srd	de sutzessu	adj-mf-sp	ita	di successo	adj-mf-sp$adj-mf
 	srd	de sèighi	adj-ord	ita	sedicesimo	adj-ord
 	srd	de Torres	np-cog	ita	de Torres	np-cog
 	srd	de Toulouse-Lautrec	np-cog	ita	de Toulouse-Lautrec	np-cog
@@ -7277,7 +7277,7 @@ RL	srd	depressu	adj	ita	depresso	$adj$adj-sup
 	srd	deretu	n-m	ita	dritto	n-m
 	srd	deretu	adj	ita	dritto	adj$adj-sup
 RL	srd	deretu	adj	ita	dritto	adj$adj-sup
-	srd	deretu	adv	ita	immediatamente	adv
+	srd	deretu	adv	ita	immediatamente	adv$
 	srd	deretu	adv	ita	subito	adv
 	srd	deretu	adv	ita	tempestivamente	adv
 	srd	Derina	np-ant-f	ita	Derina	np-ant-f
@@ -7351,7 +7351,7 @@ RL	srd	detadu	adj	ita	dettato	adj$adj-sup
 	srd	detective	n-mf	ita	detective	n-mf
 	srd	detentivu	adj	ita	detentivo	adj$adj-sup
 RL	srd	detentivu	adj	ita	detentivo	adj$adj-sup
-	srd	detentzione	n-f	ita	detenzione	n$n-f$n-f-m
+	srd	detentzione	n-f	ita	detenzione	n-f$n$n-f-m
 	srd	detenudu	adj	ita	detenuto	adj$adj-sup
 RL	srd	detenudu	adj	ita	detenuto	adj$adj-sup
 	srd	detergente	n-m	ita	detergente	n-m$n$
@@ -7527,8 +7527,8 @@ RL	srd	digitale	adj	ita	digitale	adj-sup
 	srd	dignificare	vblex	ita	dignificare	vblex
 	srd	dignitosu	adj	ita	dignitoso	$adj$adj-sup
 RL	srd	dignitosu	adj	ita	dignitoso	$adj$adj-sup
-	srd	dignu	adj	ita	degno	adj$$adj-sup
-RL	srd	dignu	adj	ita	degno	adj$$adj-sup
+	srd	dignu	adj	ita	degno	$adj$adj-sup
+RL	srd	dignu	adj	ita	degno	$adj$adj-sup
 	srd	digressione	n-f	ita	digressione	n-f
 	srd	dilata	n-f	ita	dilazione	n-f
 	srd	dilatare	vblex	ita	dilatare	$vblex
@@ -7581,8 +7581,8 @@ LR	srd	dinare	n-m-pl	ita	soldi	n-m$n-m-pl
 	srd	Dini	np-cog$np-cog-mf-sp	ita	Dini	np-cog
 	srd	dinnidade	n-f	ita	dignità	n-f-sp$n-f
 	srd	dinnu	n	ita	degno	n
-	srd	dinnu	adj	ita	degno	adj$$adj-sup
-RL	srd	dinnu	adj	ita	degno	adj$$adj-sup
+	srd	dinnu	adj	ita	degno	$adj$adj-sup
+RL	srd	dinnu	adj	ita	degno	$adj$adj-sup
 	srd	Dino	np-ant-m$np-ant-m-sg	ita	Dino	np-ant$np-ant-m
 	srd	dinosàuru	n-m	ita	dinosauro	n-m$n
 	srd	dinàmica	n-f	ita	dinamica	n-f
@@ -7619,7 +7619,7 @@ RL	srd	diplomàticu	adj	ita	diplomatico	adj$$adj-sup
 	srd	diretiva	n-f	ita	direttiva	n-f$n
 	srd	diretivu	n-m	ita	direttivo	n-m
 	srd	diretivu	adj	ita	direttivo	adj
-	srd	diretore	n	ita	direttore	n$n-GD
+	srd	diretore	n	ita	direttore	n$n-m
 	srd	diretu	adj	ita	diretto	$adj$adj-sup
 RL	srd	diretu	adj	ita	diretto	$adj$adj-sup
 	srd	diretzione	n-f	ita	direzione	n-f$n
@@ -7786,7 +7786,7 @@ RL	srd	disonestu	adj	ita	disonesto	$adj$adj-sup
 RL	srd	disordinadu	adj	ita	disordinato	$adj$adj-sup
 	srd	disorientadu	adj	ita	disorientato	$adj$adj-sup
 RL	srd	disorientadu	adj	ita	disorientato	$adj$adj-sup
-	srd	dispatzare	vblex	ita	mandare	vblex$
+	srd	dispatzare	vblex	ita	mandare	$vblex
 	srd	dispedida	n-f	ita	addio	n-m$n
 	srd	dispedidu	adj	ita	salutato	adj
 	srd	dispedire	vblex	ita	salutare	$vblex
@@ -7890,7 +7890,7 @@ LR	srd	disòrdine	n-m	ita	disordine	n-m$n
 	srd	divagare	vblex	ita	divagare	$vblex
 	srd	divanu	n-m	ita	divano	n-m$n
 LR	srd	divenire	vblex	ita	divenire	$vblex
-	srd	divenire	vblex	ita	diventare	vblex$
+	srd	divenire	vblex	ita	diventare	$vblex
 	srd	diversidade	n-f	ita	diversità	n-f-sp$n-f
 	srd	diversu	adj	ita	diverso	$adj$adj-sup
 RL	srd	diversu	adj	ita	diverso	$adj$adj-sup
@@ -7958,7 +7958,7 @@ RL	srd	dolente	adj	ita	dolente	$adj$adj-sup
 	srd	dolomìticu	adj	ita	dolomitico	adj$adj-sup
 RL	srd	dolomìticu	adj	ita	dolomitico	adj$adj-sup
 	srd	dolorare	vblex	ita	addolorare	$vblex
-	srd	dolore	n-m	ita	dolore	n-m
+	srd	dolore	n-m	ita	dolore	n-m$n
 	srd	Dolorino	np-ant-m	ita	Dolorino	np-ant-m
 	srd	Dolorosa	np-ant-f	ita	Dolorosa	np-ant-f
 	srd	dolorosu	adj	ita	doloroso	adj$
@@ -8121,7 +8121,7 @@ LR	srd	dura	n-f	ita	durata	n-f$n
 	srd	durajolu	adj	ita	duraturo	$adj$adj-sup
 RL	srd	durajolu	adj	ita	duraturo	$adj$adj-sup
 	srd	Durante	np-ant-m	ita	Durante	np-ant$np-ant-m
-	srd	durare	vblex	ita	durare	vblex$
+	srd	durare	vblex	ita	durare	$vblex
 	srd	durche	adj	ita	dolce	$adj$adj-mf
 RL	srd	durche	adj	ita	dolce	adj-sup
 	srd	durcura	n-f	ita	dolcezza	n-f
@@ -9747,12 +9747,12 @@ RL	srd	foggianu	adj	ita	foggiano	adj$adj-sup
 	srd	fonèticu	adj	ita	fonetico	adj$adj-sup
 RL	srd	fonèticu	adj	ita	fonetico	adj$adj-sup
 	srd	football	n-m	ita	football	n-m
-	srd	fora	adv	ita	fuori	adv
+	srd	fora	adv	ita	fuori	adv$
 	srd	foradura	n-f	ita	foratura	n-f
 LR	srd	foranu	n-m	ita	esterno	$n-m$n
 LR	srd	foranu	adj	ita	esterno	adj$adj-m
 RL	srd	foranu	adj	ita	esterno	adj-sup
-	srd	foras	adv	ita	fuori	adv
+	srd	foras	adv	ita	fuori	adv$
 	srd	Ford	np-cog$np-cog-mf-sp	ita	Ford	np-cog-mf-sp$np$np-cog$np-cog-mf
 	srd	Fordongianus	np-top-m-pl	ita	Fordongianus	np-loc-m-pl
 	srd	foresta	n-f	ita	foresta	n-f$n
@@ -10348,7 +10348,7 @@ RL	srd	gatiu	adj	ita	vedovo	adj$adj-sup
 	srd	Gaëlle	np-ant-f	ita	Gaëlle	np-ant$np-ant-f
 	srd	geek	n-mf	ita	geek	n-mf-sp$n-mf
 	srd	gel	n-m	ita	gel	n-m-sp$n-m
-	srd	geladu	n-m	ita	gelato	$n-m
+	srd	geladu	n-m	ita	gelato	n-m$
 	srd	Gelasia	np-ant-f	ita	Gelasia	np-ant-f
 	srd	Gelasio	np-ant-m	ita	Gelasio	np-ant-m
 	srd	Gelinda	np-ant-f	ita	Gelinda	np-ant-f
@@ -10594,7 +10594,7 @@ LR	srd	ghia	n-f	ita	comando	n-m$n
 	srd	Ghisalberti	np-cog$np-cog-mf-sp	ita	Ghisalberti	np-cog
 	srd	ghèneru	n-m	ita	genero	n-m$n
 	srd	Giacalone	np-cog$np-cog-mf-sp	ita	Giacalone	np-cog
-	srd	giacheta	n-f	ita	giacca	n$n-f
+	srd	giacheta	n-f	ita	giacca	n-f$n
 	srd	Giacinta	np-ant-f	ita	Giacinta	np-ant$np-ant-f
 	srd	Giacinto	np-ant-m	ita	Giacinto	np-ant$np-ant-m$np-ant-m-sg
 	srd	Giacobba	np-ant-f	ita	Giacobba	np-ant-f
@@ -10672,7 +10672,7 @@ LR	srd	giassu	n-m	ita	località	n-f-sp$n-f
 	srd	Gibilterra	np-top-f	ita	Gibilterra	np-loc-m$np$np-loc$np-loc-m-sg
 	srd	gigante	adj	ita	gigante	adj$adj-mf
 RL	srd	gigante	adj	ita	gigante	adj-sup
-	srd	gigante	n$n-mf	ita	gigante	n-mf$n$
+	srd	gigante	n$n-mf	ita	gigante	n-mf
 	srd	Gigi	np-ant-m	ita	Gigi	np-ant-m
 	srd	Giglio	np-ant-m	ita	Giglio	np-ant-m
 	srd	Gigliola	np-ant-f	ita	Gigliola	np-ant-f
@@ -10860,7 +10860,7 @@ RL	srd	giòvanu	adj	ita	giovane	adj-sup
 	srd	giùghere	vblex	ita	portare	$vblex
 	srd	giùghere	vblex	ita	recare	$vblex
 	srd	giùghere	vblex	ita	portare	$vblex
-	srd	giùighe	n-mf	ita	giudice	n-mf$n
+	srd	giùighe	n-mf	ita	giudice	n-mf
 	srd	giùnghere	vblex	ita	raccordare	vblex
 	srd	gladiadore	n-m	ita	gladiatore	n-m
 	srd	Glauca	np-ant-f	ita	Glauca	np-ant-f
@@ -10978,9 +10978,9 @@ RL	srd	granìticu	adj	ita	granitico	$adj$adj-sup
 	srd	grassare	vblex	ita	assalire	$vblex
 	srd	Grassi	np-cog$np-cog-mf-sp	ita	Grassi	np-cog
 	srd	Grasso	np-cog$np-cog-mf-sp	ita	Grasso	np-cog
-	srd	grassu	n-m	ita	grasso	n-m$n
-	srd	grassu	adj	ita	grasso	adj$$adj-sup
-RL	srd	grassu	adj	ita	grasso	adj$$adj-sup
+	srd	grassu	n-m	ita	grasso	n-m$$n
+	srd	grassu	adj	ita	grasso	adj$adj-sup
+RL	srd	grassu	adj	ita	grasso	adj$adj-sup
 	srd	gratare	vblex	ita	grattare	$vblex
 	srd	gratuitu	adj	ita	gratuito	adj$$adj-sup
 RL	srd	gratuitu	adj	ita	gratuito	adj$$adj-sup
@@ -11025,7 +11025,7 @@ RL	srd	Gregòriu	np-ant-m$np-ant-m-sg	ita	Gregoriu	np-ant-m
 RL	srd	gregu	adj	ita	greco	adj$$adj-sup
 	srd	Gregòriu	np-ant-m$np-ant-m-sg	ita	Gregòriu	np-ant-m
 	srd	gretzista	n	ita	grecista	n
-LR	srd	gridare	vblex	ita	gridare	vblex$
+LR	srd	gridare	vblex	ita	gridare	$vblex
 LR	srd	gridu	n-m	ita	grido	n-m-sg$n-m
 LR	srd	grifone	n-m	ita	grifone	n-m$n
 	srd	Grillo	np-cog$np-cog-mf-sp	ita	Grillo	np-cog
@@ -11344,7 +11344,7 @@ RL	srd	imbentadu	adj	ita	inventato	adj$$adj-sup
 	srd	imbiadore	n	ita	mittente	n$n-mf
 	srd	imbianchinu	n-m	ita	imbianchino	n-m
 	srd	imbiare	vblex	ita	inviare	vblex$
-	srd	imbiare	vblex	ita	mandare	vblex$
+	srd	imbiare	vblex	ita	mandare	$vblex
 	srd	imbiare	vblex	ita	spedire	$vblex
 RL	srd	imbiu	n-m	ita	spedizione	n-f$n
 	srd	imbolare	vblex	ita	buttare	$vblex
@@ -11384,7 +11384,7 @@ RL	srd	immateriale	adj$adj-mf	ita	immateriale	adj-sup
 	srd	immatriculare	vblex	ita	immatricolare	$vblex
 	srd	immatriculatzione	n-f	ita	immatricolazione	n-f$n
 LR	srd	immediadu	adj	ita	immediato	$adj$adj-sup
-LR	srd	immediatamente	adv	ita	immediatamente	adv
+LR	srd	immediatamente	adv	ita	immediatamente	adv$
 	srd	immediatu	adj	ita	immediato	$adj$adj-sup
 RL	srd	immediatu	adj	ita	immediato	$adj$adj-sup
 	srd	immensu	adj	ita	immenso	$adj$adj-sup
@@ -11419,7 +11419,7 @@ RL	srd	immòbile	adj	ita	immobile	adj-sup
 	srd	Impalà	np-cog$np-cog-mf-sp	ita	Impalà	np-cog
 	srd	imparamentu	n-m	ita	apprendimento	n-m$n
 	srd	imparare	vblex	ita	apprendere	$vblex
-	srd	imparare	vblex	ita	imparare	vblex$
+	srd	imparare	vblex	ita	imparare	$vblex
 	srd	impartziale	adj	ita	imparziale	$adj$adj-mf
 RL	srd	impartziale	adj	ita	imparziale	adj-sup
 	srd	impartzialidade	n-f	ita	imparzialità	n-f-sp$n-f
@@ -11430,8 +11430,8 @@ RL	srd	impartziale	adj	ita	imparziale	adj-sup
 	srd	impedidu	adj	ita	impedito	$adj$adj-sup
 RL	srd	impedidu	adj	ita	impedito	$adj$adj-sup
 	srd	impedimentu	n-m	ita	impedimento	n-m$n
-	srd	impedinau	adj	ita	preoccupato	adj$adj-sup$
-RL	srd	impedinau	adj	ita	preoccupato	adj$adj-sup$
+	srd	impedinau	adj	ita	preoccupato	adj$$adj-sup
+RL	srd	impedinau	adj	ita	preoccupato	adj$$adj-sup
 	srd	impedire	vblex	ita	impedire	$vblex
 	srd	impedire	vblex	ita	ostacolare	$vblex
 	srd	impedumadu	adj	ita	impedito	$adj$adj-sup
@@ -11472,8 +11472,8 @@ LR	srd	impiegu	n-m	ita	impiego	n-m$n
 LR	srd	impignare	vblex	ita	impegnare	$vblex
 	srd	impignu	n-m	ita	impegno	n-m$n
 	srd	impinnare	vblex	ita	impegnare	$vblex
-	srd	impinnichiadu	adj	ita	preoccupato	adj$adj-sup$
-RL	srd	impinnichiadu	adj	ita	preoccupato	adj$adj-sup$
+	srd	impinnichiadu	adj	ita	preoccupato	adj$$adj-sup
+RL	srd	impinnichiadu	adj	ita	preoccupato	adj$$adj-sup
 	srd	impinnu	n-m	ita	impegno	n-m$n
 	srd	impitadore	n	ita	utente	n-mf$n
 	srd	impitare	vblex	ita	usare	$vblex
@@ -11591,7 +11591,7 @@ RL	srd	impuru	adj	ita	impuro	$adj$adj-sup
 RL	srd	imputadu	adj	ita	imputato	adj$adj-sup
 	srd	imputare	vblex	ita	imputare	$vblex
 	srd	imputatzione	n-f	ita	imputazione	n-f
-	srd	impàrere	vblex	ita	mettere	vblex$
+	srd	impàrere	vblex	ita	mettere	$vblex
 LR	srd	impèdire	vblex	ita	impedire	$vblex
 	srd	impèdumu	n-m	ita	impedimento	n-m$n
 	srd	impèigu	n-m	ita	impedimento	n-m$n
@@ -11619,13 +11619,13 @@ LR	srd	impèriu	n-m	ita	impero	n-m$n
 	srd	in dae in antis	adv	ita	davanti	adv$
 	srd	in dae segus	adv	ita	dietro	adv
 	srd	in dae segus	adv	ita	indietro	adv
-	srd	in deretura	adv	ita	immediatamente	adv
+	srd	in deretura	adv	ita	immediatamente	adv$
 	srd	in direta	adv	ita	in onda	adv
 	srd	in domo	adv	ita	a casa	adv
 	srd	in domo	adv	ita	in casa	adv
 	srd	in fatu	adv	ita	appresso	adv
 	srd	in fines	adv	ita	finalmente	adv
-	srd	in foras	adv	ita	fuori	adv
+	srd	in foras	adv	ita	fuori	adv$
 	srd	in generale	adv	ita	in generale	adv
 	srd	in gherra	adv	ita	in guerra	adv
 	srd	in giosso	adv	ita	giù	adv$
@@ -11661,7 +11661,7 @@ LR	srd	impèriu	n-m	ita	impero	n-m$n
 	srd	in manera anticostitutzionale	adv	ita	anticostituzionalmente	adv
 	srd	in manera antiga	adv	ita	anticamente	adv
 	srd	in manera antitzipada	adv	ita	anticipatamente	adv
-	srd	in manera aparente	adv	ita	apparentemente	adv
+	srd	in manera aparente	adv	ita	apparentemente	adv$
 	srd	in manera apassionada	adv	ita	appassionatamente	adv
 	srd	in manera apretosa	adv	ita	urgentemente	adv
 	srd	in manera aprofundida	adv	ita	approfonditamente	adv
@@ -11671,7 +11671,7 @@ LR	srd	impèriu	n-m	ita	impero	n-m$n
 	srd	in manera architetònica	adv	ita	architettonicamente	adv
 	srd	in manera armoniosa	adv	ita	armoniosamente	adv
 	srd	in manera armònica	adv	ita	armonicamente	adv
-	srd	in manera arta	adv	ita	altamente	adv
+	srd	in manera arta	adv	ita	altamente	adv$
 	srd	in manera artifitziale	adv	ita	artificialmente	adv
 	srd	in manera artìstica	adv	ita	artisticamente	adv
 	srd	in manera asciuta	adv	ita	asciuttamente	adv
@@ -11791,12 +11791,12 @@ LR	srd	impèriu	n-m	ita	impero	n-m$n
 	srd	in manera disisperada	adv	ita	disperatamente	adv
 	srd	in manera disonesta	adv	ita	disonestamente	adv
 	srd	in manera distinta	adv	ita	distintamente	adv
-	srd	in manera diversa	adv	ita	diversamente	adv
+	srd	in manera diversa	adv	ita	diversamente	adv$
 	srd	in manera divina	adv	ita	divinamente	adv
 	srd	in manera dolorosa	adv	ita	dolorosamente	adv
 	srd	in manera dota	adv	ita	dottamente	adv
 	srd	in manera drammàtica	adv	ita	drammaticamente	adv
-	srd	in manera durche	adv	ita	dolcemente	adv
+	srd	in manera durche	adv	ita	dolcemente	adv$
 	srd	in manera dèbile	adv	ita	debolmente	adv
 	srd	in manera dèpida	adv	ita	debitamente	adv
 	srd	in manera dèvida	adv	ita	dovutamente	adv
@@ -11983,7 +11983,7 @@ LR	srd	impèriu	n-m	ita	impero	n-m$n
 	srd	in manera literària	adv	ita	letterariamente	adv
 	srd	in manera locale	adv	ita	localmente	adv
 	srd	in manera longa	adv	ita	lungamente	adv
-	srd	in manera lèbia	adv	ita	leggermente	adv
+	srd	in manera lèbia	adv	ita	leggermente	adv$
 	srd	in manera lògica	adv	ita	logicamente	adv
 	srd	in manera maca	adv	ita	pazzamente	adv
 	srd	in manera machiavèllica	adv	ita	machiavellicamente	adv
@@ -12004,7 +12004,7 @@ LR	srd	impèriu	n-m	ita	impero	n-m$n
 	srd	in manera mecànica	adv	ita	meccanicamente	adv
 	srd	in manera menguante	adv	ita	insufficientemente	adv
 	srd	in manera mensile	adv	ita	mensilmente	adv
-	srd	in manera mentale	adv	ita	mentalmente	adv
+	srd	in manera mentale	adv	ita	mentalmente	adv$
 	srd	in manera mera	adv	ita	meramente	adv
 	srd	in manera meravigiosa	adv	ita	meravigliosamente	adv
 	srd	in manera meritada	adv	ita	meritatamente	adv
@@ -12073,7 +12073,7 @@ LR	srd	impèriu	n-m	ita	impero	n-m$n
 	srd	in manera polèmica	adv	ita	polemicamente	adv
 	srd	in manera polìtica	adv	ita	politicamente	adv
 	srd	in manera positiva	adv	ita	positivamente	adv
-	srd	in manera possìbile	adv	ita	possibilmente	adv
+	srd	in manera possìbile	adv	ita	possibilmente	adv$
 	srd	in manera posteriore	adv	ita	posteriormente	adv
 	srd	in manera potentziale	adv	ita	potenzialmente	adv
 	srd	in manera pragmàtica	adv	ita	pragmaticamente	adv
@@ -12134,7 +12134,7 @@ LR	srd	impèriu	n-m	ita	impero	n-m$n
 	srd	in manera sentida	adv	ita	sentitamente	adv
 	srd	in manera separada	adv	ita	separatamente	adv
 	srd	in manera serena	adv	ita	serenamente	adv
-	srd	in manera sessuale	adv	ita	sessualmente	adv
+	srd	in manera sessuale	adv	ita	sessualmente	adv$
 	srd	in manera setimanale	adv	ita	settimanalmente	adv
 	srd	in manera severa	adv	ita	severamente	adv
 	srd	in manera sientìfica	adv	ita	scientificamente	adv
@@ -12213,11 +12213,11 @@ LR	srd	impèriu	n-m	ita	impero	n-m$n
 	srd	in nuddue	adv	ita	da nessuna parte	adv
 	srd	in palas	adv	ita	di spalle	adv
 	srd	in parte	adv	ita	parzialmente	adv
-	srd	in pessu	adv	ita	appena	adv
+	srd	in pessu	adv	ita	appena	adv$
 	srd	in pitzu	adv	ita	sopra	adv
 	srd	in presse	adv	ita	di fretta	adv
 	srd	in presse	adv	ita	velocemente	adv
-	srd	in prus	adv	ita	in più	adv$
+	srd	in prus	adv	ita	in più	adv
 	srd	in prus	adv	ita	più	adv$
 	srd	in s'oru	adv	ita	marginalmente	adv
 	srd	in segus	adv	ita	dietro	adv
@@ -12911,7 +12911,7 @@ RL	srd	intrante	adj	ita	entrante	adj$adj-sup
 LR	srd	intraprèndere	vblex	ita	intraprendere	$vblex
 	srd	intrare	vblex	ita	entrare	vblex$
 LR	srd	intregare	vblex	ita	affidare	vblex$
-	srd	intregare	vblex	ita	consegnare	vblex$
+	srd	intregare	vblex	ita	consegnare	$vblex
 LR	srd	intregare	vblex	ita	rilasciare	$vblex
 	srd	intregu	adj	ita	integro	$adj
 	srd	intregu	adj	ita	intero	$adj$adj-f
@@ -12958,7 +12958,7 @@ LR	srd	intuitzione	n-f	ita	intuizione	n-f$n
 	srd	intzertesa	n-f	ita	incertezza	n-f$n
 	srd	intzertu	adj	ita	incerto	$adj$adj-sup
 RL	srd	intzertu	adj	ita	incerto	$adj$adj-sup
-	srd	intzidente	n-m	ita	incidente	n$n-m$
+	srd	intzidente	n-m	ita	incidente	n-m$n$
 	srd	intzidente	adj-mf	ita	incidente	adj-mf$adj
 	srd	intzisione	n-f	ita	incisione	n-f
 	srd	intzitare	vblex	ita	suscitare	$vblex
@@ -14867,8 +14867,8 @@ LR	srd	lìberare	vblex	ita	liberare	vblex$
 RL	srd	lìberu	adj	ita	libero	adj-sup
 	srd	lìbicu	adj	ita	libico	adj$adj-sup
 RL	srd	lìbicu	adj	ita	libico	adj$adj-sup
-	srd	lìcuidu	adj	ita	liquido	adj$$adj-sup
-RL	srd	lìcuidu	adj	ita	liquido	adj$$adj-sup
+	srd	lìcuidu	adj	ita	liquido	adj$adj-sup
+RL	srd	lìcuidu	adj	ita	liquido	adj$adj-sup
 LR	srd	lìeru	adj	ita	libero	$adj$adj-m
 RL	srd	lìeru	adj	ita	libero	adj-sup
 	srd	lìgiu	n-m	ita	giglio	n-m
@@ -15119,7 +15119,7 @@ RL	srd	mandamentale	adj	ita	mandamentale	adj$adj-sup
 	srd	mandamentu	n-m	ita	mandamento	n-m
 	srd	Mandanici	np-cog$np-cog-mf-sp	ita	Mandanici	np-cog
 	srd	mandante	n-m	ita	mandante	n-m
-	srd	mandare	vblex	ita	mandare	vblex$
+	srd	mandare	vblex	ita	mandare	$vblex
 	srd	mandarinu	n-m$n	ita	mandarino	n-m$n
 	srd	mandarinu	adj	ita	mandarino	adj$adj-sup
 	srd	mandarinu	n-m$n	ita	mandarino	n-m$n
@@ -15442,8 +15442,8 @@ LR	srd	matare	vblex	ita	uccidere	$vblex
 	srd	matemàticu	adj	ita	matematico	$adj$adj-sup
 	srd	matemàticu	n	ita	matematico	n$n-m
 RL	srd	matemàticu	adj	ita	matematico	$adj$adj-sup
-	srd	materiale	n-m	ita	materiale	n-m$n
-	srd	materiale	adj$adj-mf	ita	materiale	adj$$adj-mf
+	srd	materiale	n-m	ita	materiale	n-m$$n
+	srd	materiale	adj$adj-mf	ita	materiale	adj$adj-mf
 	srd	materialidade	n-f	ita	materialità	n-f
 	srd	materialismu	n-m$n-m-sg	ita	materialismo	n-m$n
 	srd	materialista	n$n-mf	ita	materialista	n$n-GD
@@ -15563,7 +15563,7 @@ RL	srd	mediterràneu	adj	ita	mediterraneo	adj$$adj-sup
 RL	srd	mediàticu	adj	ita	mediatico	adj$adj-sup
 	srd	Medora	np-ant-f	ita	Medora	np-ant-f
 	srd	Medoro	np-ant-m	ita	Medoro	np-ant-m
-	srd	medàllia	n-f	ita	medaglia	n$n-f
+	srd	medàllia	n-f	ita	medaglia	n-f$n
 	srd	mega	n-mf	ita	mega	n-mf-sp$n-mf
 	srd	mega-fusione	n-f	ita	mega-fusione	n-f
 	srd	megabanca	n-f	ita	megabanca	n-f
@@ -15593,7 +15593,7 @@ LR	srd	meidade	n-f	ita	metà	n-f-sp$n-f$
 RL	srd	meighinale	adj	ita	medicinale	adj-sup
 	srd	meighinare	vblex	ita	medicare	$vblex
 	srd	Meinardo	np-ant-m	ita	Meinardo	np-ant-m
-	srd	mela	n-f	ita	mela	n$n-f
+	srd	mela	n-f	ita	mela	n-f$n
 	srd	meladu	adj	ita	melato	$adj$adj-sup
 RL	srd	meladu	adj	ita	melato	$adj$adj-sup
 	srd	Melaneo	np-ant-m	ita	Melaneo	np-ant-m
@@ -16084,7 +16084,7 @@ LR	srd	moltèplitze	adj	ita	molteplice	$adj$adj-mf
 	srd	momentu	n-m	ita	momento	n-m$n
 	srd	Monaldo	np-ant-m	ita	Monaldo	np-ant-m
 	srd	monarca	n-mf	ita	monarca	n-mf$n
-	srd	monarchia	n-f	ita	monarchia	n$n-f
+	srd	monarchia	n-f	ita	monarchia	n-f$n
 LR	srd	monasteriu	n-m	ita	monastero	n-m$n
 LR	srd	monasteru	n-m	ita	monastero	n-m$n
 	srd	monastèriu	n-m	ita	monastero	n-m$n
@@ -16829,8 +16829,8 @@ RL	srd	nidu	adj	ita	nido	adj$adj-sup
 	srd	nieddu	adj	ita	nero	$adj$adj-m-sg
 RL	srd	nieddu	adj	ita	nero	adj-sup
 	srd	Nieddu	np-cog$np-cog-mf-sp	ita	Nieddu	np-cog$np-cog-mf
-LR	srd	nieddu	adj	ita	rosso	adj$$adj-sup
-RL	srd	nieddu	adj	ita	rosso	adj$$adj-sup
+LR	srd	nieddu	adj	ita	rosso	adj$adj-sup
+RL	srd	nieddu	adj	ita	rosso	adj$adj-sup
 	srd	Nietzsche	np-cog$np-cog-mf-sp	ita	Nietzsche	np-cog$np-cog-mf
 	srd	nigerianu	n	ita	nigeriano	n$n-GD$
 	srd	nigerianu	adj	ita	nigeriano	adj$adj-sup
@@ -16864,7 +16864,7 @@ RL	srd	nigerianu	adj	ita	nigeriano	adj$adj-sup
 	srd	Nivio	np-ant-m	ita	Nivio	np-ant-m
 	srd	Nivo	np-ant-m	ita	Nivo	np-ant-m
 	srd	no	adv	ita	no	adv
-RL	srd	no	adv	ita	non	adv
+RL	srd	no	adv	ita	non	$adv
 	srd	Noa Zelanda	np-top-f	ita	Nuova Zelanda	np-loc-f$np-loc-f-sg$np
 	srd	Nobel	np-cog-mf-sp$np-cog-mf	ita	Nobel	np-cog-mf-sp$np-cog-mf$np
 	srd	nobilesa	n-f	ita	nobiltà	n-f-sp$n-f
@@ -17080,7 +17080,7 @@ LR	srd	gentilla	n-f	ita	lenticchia	n-f$n
 	srd	Nuxis	np-top-m-pl	ita	Nuxis	np-loc-m-pl
 	srd	Nuzzo	np-ant-m	ita	Nuzzo	np-ant-m
 	srd	Nàpoli	np-top-m$np-top-m-sg	ita	Napoli	np-loc-m$np$np-loc$np-loc-m-sg
-	srd	nàrrere	vblex	ita	dire	vblex$
+	srd	nàrrere	vblex	ita	dire	$vblex
 	srd	nàschere	vblex	ita	nascere	$vblex
 LR	srd	nàschere	vblex	ita	sorgere	$vblex
 	srd	nàschida	n-f	ita	nascita	n-f$n
@@ -17140,7 +17140,7 @@ LR	srd	ocasionare	vblex	ita	provocare	$vblex
 	srd	ochire	vblex	ita	ammazzare	$vblex
 	srd	ochire	vblex	ita	assassinare	vblex$
 	srd	ochire	vblex	ita	uccidere	$vblex
-	srd	ochisura	n-f	ita	omicidio	n$n-m
+	srd	ochisura	n-f	ita	omicidio	n-m$n
 	srd	ochìere	vblex	ita	ammazzare	$vblex
 	srd	ochìere	vblex	ita	assassinare	vblex$
 	srd	oculista	n$n-mf	ita	oculista	n-GD$n
@@ -17326,7 +17326,7 @@ RL	srd	onìricu	adj	ita	onirico	adj$adj-sup
 RL	srd	opacu	adj	ita	opaco	$adj$adj-sup
 	srd	OPEC	n-acr-f$n-acr-f-sg	ita	OPEC	n-acr-f
 	srd	operadore	adj	ita	operatore	adj$adj-sup
-	srd	operadore	n	ita	operatore	n$n-m
+	srd	operadore	n	ita	operatore	n-m$n
 RL	srd	operadore	adj	ita	operatore	adj$adj-sup
 	srd	operadu	n	ita	operato	n$n-m
 	srd	operadu	adj	ita	operato	adj$adj-sup
@@ -17695,7 +17695,7 @@ RL	srd	paganu	adj	ita	pagano	adj$adj-sup
 RL	srd	paghiosu	adj	ita	pacifico	adj$$adj-sup
 	srd	pagiare	vblex	ita	pagliare	vblex
 	srd	pagu	adj$adj-m	ita	poco	adj-ind$adj-ind-sup
-	srd	pagu	adv	ita	poco	adv$
+	srd	pagu	adv	ita	poco	$adv
 RL	srd	pagu	adj$adj-m	ita	poco	adj-ind$adj-ind-sup
 	srd	pagu mancu	adv	ita	poco meno	adv
 	srd	pagu prus	adv	ita	poco più	adv
@@ -17869,7 +17869,7 @@ LR	srd	parare	vblex	ita	esporre	$vblex
 	srd	parcu	adj	ita	parco	adj$adj-sup
 RL	srd	parcu	adj	ita	parco	adj$adj-sup
 	srd	pardu	adj	ita	modesto	$adj
-	srd	pare	adv	ita	a vicenda	adv$
+	srd	pare	adv	ita	a vicenda	adv
 	srd	parebare	adj	ita	reciproco	adj$$adj-sup
 RL	srd	parebare	adj	ita	reciproco	adj$$adj-sup
 	srd	parentalla	n-f	ita	parentela	n-f
@@ -18005,7 +18005,7 @@ RL	srd	parìvile	adj	ita	omogeneo	$adj$adj-sup
 	srd	Pasquali	np-cog$np-cog-mf-sp	ita	Pasquali	np-cog$np-cog-mf
 	srd	Pasqualina	np-ant-f$np-ant-f-sg	ita	Pasqualina	np-ant$np-ant-f
 	srd	Pasquino	np-ant-m	ita	Pasquino	np-ant-m
-	srd	passaditzu	n-m	ita	corridoio	n$n-m
+	srd	passaditzu	n-m	ita	corridoio	n-m$n
 	srd	passadore	n$n-m	ita	passatore	n
 LR	srd	passadòrgiu	n-m	ita	passaggio	n-m$n
 	srd	Passanante	np-cog$np-cog-mf-sp	ita	Passanante	np-cog
@@ -18108,7 +18108,7 @@ RL	srd	patèticu	adj	ita	patetico	adj$$adj-sup
 	srd	Pauli Arbarei	np-top-m$np-top-m-sg	ita	Pauli Arbarei	np-loc-m-pl
 	srd	Pauli Gerrei	np-top-m	ita	San Nicolò Gerrei	np-loc-m
 	srd	Paulu	np-ant-m$np-ant-m-sg	ita	Paulu	np-ant-m
-LR	srd	paura	n-f	ita	paura	n-f$n
+LR	srd	paura	n-f	ita	paura	n-f$n$
 	srd	paurare	vblex	ita	temere	$vblex
 	srd	paurosu	adj	ita	pauroso	$adj$adj-sup
 RL	srd	paurosu	adj	ita	pauroso	$adj$adj-sup
@@ -18141,7 +18141,7 @@ RL	srd	pedantescu	adj	ita	pedantesco	adj$adj-sup
 	srd	pediatra	n	ita	pediatra	n-GD$n$n-GD-pl
 	srd	pediatria	n-f	ita	pediatria	n-f$n
 	srd	pedinu	n-m	ita	preoccupazione	n-f$n
-	srd	pedire	vblex	ita	chiedere	vblex$
+	srd	pedire	vblex	ita	chiedere	$vblex
 	srd	pediàtricu	adj	ita	pediatrico	adj$adj-sup
 RL	srd	pediàtricu	adj	ita	pediatrico	adj$adj-sup
 	srd	pedonale	adj	ita	pedonale	$adj$adj-sup
@@ -18384,7 +18384,7 @@ LR	srd	pessone	n-f	ita	persona	n-f$n$$n-f-pl
 	srd	pesu	n-m	ita	incidenza	n$n-f
 	srd	pesu	n-m	ita	peso	n-m$n
 	srd	Peter	np-ant-m$np-ant-m-sg	ita	Peter	np-ant$np-ant-m$np-ant-m-sg
-LR	srd	petire	vblex	ita	chiedere	vblex$
+LR	srd	petire	vblex	ita	chiedere	$vblex
 	srd	petitu	n-m	ita	stuzzichino	n-m
 	srd	petitzione	n-f	ita	petizione	n-f$n
 	srd	petorale	n-m	ita	pettorale	n-m
@@ -18556,14 +18556,14 @@ RL	srd	pisanu	adj	ita	pisano	adj$adj-sup
 	srd	piscina	n-f	ita	piscina	n-f$n
 	srd	Piscinas	np-top-f-pl	ita	Piscinas	np-loc-f-pl
 	srd	piseddu	adj	ita	ragazzo	adj$adj-sup
-LR	srd	piseddu	n	ita	ragazzo	n$n-m$n-m-sg
+LR	srd	piseddu	n	ita	ragazzo	n-m$n$n-m-sg
 RL	srd	piseddu	adj	ita	ragazzo	adj$adj-sup
 LR	srd	pisellu	n-m	ita	pisello	n-m
 	srd	pista	n-f	ita	pista	n-f$n
 	srd	pistare	vblex	ita	pestare	$vblex
 	srd	pistinaga	n-f	ita	carota	n-f$n
 	srd	pistire	vblex	ita	scottare	$vblex
-	srd	pistola	n-f	ita	pistola	n$n-f
+	srd	pistola	n-f	ita	pistola	n-f$n
 	srd	pistolone	n-m	ita	pistolone	n-m
 	srd	pistone	n-m	ita	pistone	n-m
 	srd	pisu	n-m	ita	nocciolo	n-m$n
@@ -18580,9 +18580,9 @@ RL	srd	piticu	adj	ita	piccolo	adj-sup
 	srd	pitzinnia	n-f	ita	infanzia	n-f$n
 	srd	pitzinnu	n$n-m	ita	bambino	n-m$n
 LR	srd	pitzinnu	n$n-m	ita	bambino	n-m$n
-	srd	pitzinnu	n$n-m	ita	ragazzo	n$n-m$n-m-sg
+	srd	pitzinnu	n$n-m	ita	ragazzo	n-m$n$n-m-sg
 	srd	pitzoca	n-f	ita	fanciulla	n-f
-	srd	pitzocu	n-m$n	ita	ragazzo	n$n-m$n-m-sg
+	srd	pitzocu	n-m$n	ita	ragazzo	n-m$n$n-m-sg
 	srd	pitzone	n-m	ita	piccione	n$n-m
 	srd	pitzu	n-m	ita	cima	n-f$n
 RL	srd	pitzu	n-m	ita	pizzo	n-m
@@ -19016,7 +19016,7 @@ RL	srd	pregiuditziale	adj	ita	pregiudiziale	adj$adj-sup
 	srd	pregiudìtziu	n-m	ita	pregiudizio	n-m$n
 	srd	pregonare	vblex	ita	emanare	$vblex
 	srd	pregonta	n-f	ita	domanda	n-f$n
-LR	srd	pregontare	vblex	ita	chiedere	vblex$
+LR	srd	pregontare	vblex	ita	chiedere	$vblex
 	srd	pregontare	vblex	ita	domandare	vblex$
 	srd	pregressu	n-m	ita	pregresso	n-m
 	srd	pregressu	adj	ita	pregresso	$adj$adj-sup
@@ -19128,7 +19128,7 @@ RL	srd	presidentziale	adj	ita	presidenziale	adj-sup
 	srd	pressutu	n-m	ita	prosciutto	n-m$n
 LR	srd	presta	n-f	ita	prestito	n-m$n
 	srd	prestadore	n	ita	prestatore	n$n-m
-	srd	prestare	vblex	ita	prestare	vblex$
+	srd	prestare	vblex	ita	prestare	$vblex
 	srd	prestatzione	n-f	ita	prestazione	n-f$n
 	srd	Prestigiacomo	np-cog$np-cog-mf-sp	ita	Prestigiacomo	np-cog
 	srd	prestigiadore	n	ita	prestigiatore	n$n-m
@@ -19241,7 +19241,7 @@ RL	srd	primorosu	adj	ita	eccellente	adj-sup
 	srd	primorosu	adj	ita	insuperabile	adj$$adj-mf
 RL	srd	primorosu	adj	ita	ottimale	adj-sup
 	srd	primorosu	adj	ita	ottimale	adj-mf$$adj
-	srd	primu	adj-ord	ita	primo	$adj$adj-ord
+	srd	primu	adj-ord	ita	primo	adj$adj-ord
 	srd	primu fìgiu	n-m	ita	primogenito	n-m$
 RL	srd	primàrgiu	adj	ita	preminente	adj-sup
 	srd	primàrgiu	adj	ita	preminente	$adj-mf$adj
@@ -19413,7 +19413,7 @@ RL	srd	promulgadu	adj	ita	promulgato	adj$adj-sup
 	srd	promulgare	vblex	ita	promulgare	$vblex
 	srd	promulgatzione	n-f	ita	promulgazione	n$n-f
 	srd	promìtere	vblex	ita	pregiudicare	vblex$
-	srd	promìtere	vblex	ita	promettere	vblex$
+	srd	promìtere	vblex	ita	promettere	$vblex
 	srd	promòvere	vblex	ita	promuovere	$vblex
 	srd	pronominale	adj-mf	ita	pronominale	adj-mf
 	srd	pronosticare	vblex	ita	pronosticare	$vblex
@@ -19576,7 +19576,7 @@ LR	srd	prètziu	n-m	ita	costo	n-m$n
 	srd	prìntzipe	adj-mf	ita	principe	adj-mf
 	srd	prìstinu	adj	ita	pristino	adj$adj-sup
 RL	srd	prìstinu	adj	ita	pristino	adj$adj-sup
-	srd	pròere	vblex	ita	piovere	vblex$
+	srd	pròere	vblex	ita	piovere	$vblex
 	srd	pròpiu	adv	ita	proprio	$adv
 RL	srd	pròpiu	adj	ita	proprio	adj$adj-f
 	srd	pròpiu	adj	ita	stesso	adj$$adj-sup
@@ -19645,11 +19645,11 @@ RL	srd	punitivu	adj	ita	punitivo	$adj$adj-sup
 	srd	punk	adj-mf-sp	ita	punk	adj$adj-mf-sp
 LR	srd	punna	n-f	ita	scopo	n-m$n
 	srd	punna	n-f	ita	tendenza	n-f$n
-LR	srd	punnare	vblex	ita	puntare	vblex$
+LR	srd	punnare	vblex	ita	puntare	$vblex
 	srd	punta	n-f	ita	cima	n-f$n
 	srd	punta	n-f	ita	guglia	n-f
 	srd	punta	n-f	ita	vetta	n-f
-	srd	puntare	vblex	ita	puntare	vblex$
+	srd	puntare	vblex	ita	puntare	$vblex
 	srd	puntellu	n-m	ita	puntello	n-m
 	srd	puntorgiare	vblex	ita	pungolare	$vblex
 	srd	puntu	n-m$n	ita	punto	n-m$n
@@ -19751,8 +19751,8 @@ RL	srd	pèssimu	adj	ita	pessimo	$adj$adj-sup
 	srd	pòdiu	n-m	ita	podio	n-m$n
 LR	srd	pòlitza	n-f	ita	polizza	n-f$n
 	srd	pòliu	n-f	ita	polio	n-f
-	srd	pònnere	vblex	ita	apporre	vblex$
-	srd	pònnere	vblex	ita	mettere	vblex$
+	srd	pònnere	vblex	ita	apporre	$vblex
+	srd	pònnere	vblex	ita	mettere	$vblex
 	srd	pònnere	vblex	ita	porre	$vblex
 	srd	pònnere	vblex	ita	posare	$vblex
 	srd	pònnere	vblex	ita	posizionare	vblex
@@ -20335,7 +20335,7 @@ RL	srd	resumidu	adj	ita	riassunto	adj$adj-sup
 	srd	resurtu	n-m	ita	risultato	n-m$n
 	srd	resuzare	vblex	ita	residuare	vblex
 	srd	resèssere	vblex	ita	riuscire	$vblex
-	srd	resèssere a	vblex	ita	riuscire a	$vblex
+	srd	resèssere a	vblex	ita	riuscire a	vblex
 	srd	resèssida	n-f	ita	raggiungimento	n-m$n
 	srd	resìduu	adj	ita	residuo	adj$adj-sup
 RL	srd	resìduu	adj	ita	residuo	adj$adj-sup
@@ -20841,8 +20841,8 @@ RL	srd	rufianu	adj	ita	ruffiano	adj$adj-sup
 	srd	rugrare	vblex	ita	scollinare	n-f
 	srd	ruina	n-f	ita	rovina	n-f$n
 	srd	ruinare	vblex	ita	rovinare	$vblex
-	srd	ruju	adj	ita	rosso	adj$$adj-sup
-RL	srd	ruju	adj	ita	rosso	adj$$adj-sup
+	srd	ruju	adj	ita	rosso	adj$adj-sup
+RL	srd	ruju	adj	ita	rosso	adj$adj-sup
 	srd	rullinu	n-m	ita	rullino	n-m
 	srd	rullu	n-m	ita	rullo	n-m
 	srd	Rumana	np-top-f	ita	Romana	np-loc-f
@@ -20869,8 +20869,8 @@ RL	srd	russu	adj	ita	russo	adj-sup
 	srd	rutare	vblex	ita	ruttare	$vblex
 	srd	Rutilia	np-ant-f	ita	Rutilia	np-ant-f
 	srd	Rutilio	np-ant-m	ita	Rutilio	np-ant-m
-	srd	rutu	adj	ita	caduto	adj$adj-sup
-RL	srd	rutu	adj	ita	caduto	adj$adj-sup
+	srd	rutu	adj	ita	caduto	$adj$adj-sup
+RL	srd	rutu	adj	ita	caduto	$adj$adj-sup
 	srd	Ryan	np-ant-m$np-ant-m-sg	ita	Ryan	np-ant$np-ant-m
 	srd	Ryan	np-cog	ita	Ryan	np-cog
 	srd	ràdiu	n-m	ita	radio	n-f-sp$n-f$
@@ -20899,7 +20899,7 @@ LR	srd	rèndita	n-f	ita	rendita	n-f
 RL	srd	rèticu	adj	ita	retico	adj$adj-sup
 	srd	rètile	n-m	ita	rettile	n-m$n
 	srd	rètina	n-f	ita	retina	n-f$n
-	srd	rìere	vblex	ita	ridere	vblex$
+	srd	rìere	vblex	ita	ridere	$vblex
 	srd	rìtmicu	adj	ita	ritmico	adj$$adj-sup
 RL	srd	rìtmicu	adj	ita	ritmico	adj$$adj-sup
 	srd	ròdia	n-f	ita	ruota	n-f$n
@@ -20912,7 +20912,7 @@ LR	srd	rùghere	vblex	ita	cadere	$vblex
 	srd	rùsticu	adj	ita	rustico	$adj$adj-sup
 RL	srd	rùsticu	adj	ita	rustico	$adj$adj-sup
 	srd	S'Alighera	np-top-f$np-top-f-sg	ita	Alghero	np-loc-m
-	srd	s'imbesse	adv	ita	al rovescio	adv$
+	srd	s'imbesse	adv	ita	al rovescio	adv
 	srd	s'in casu	adv	ita	nel caso	adv
 	srd	s'in casu mai	adv	ita	eventualmente	adv
 	srd	s'ispissu	adv	ita	spesso	adv$
@@ -20957,7 +20957,7 @@ RL	srd	sacramentale	adj	ita	sacramentale	adj-sup
 RL	srd	sacrificadu	adj	ita	sacrificato	adj$adj-sup
 	srd	sacrificale	adj	ita	sacrificale	adj$adj-sup
 RL	srd	sacrificale	adj	ita	sacrificale	adj$adj-sup
-	srd	sacrificare	vblex	ita	sacrificare	vblex$
+	srd	sacrificare	vblex	ita	sacrificare	$vblex
 	srd	sacrifìtziu	n-m	ita	sacrificio	n-m$n
 	srd	sacrosantu	adj	ita	sacrosanto	$adj$adj-sup
 RL	srd	sacrosantu	adj	ita	sacrosanto	$adj$adj-sup
@@ -21412,7 +21412,7 @@ RL	srd	sennorile	adj	ita	signorile	adj-sup
 	srd	sensatzione	n-f	ita	sensazione	n-f$n
 	srd	sensibilidade	n-f	ita	sensibilità	n-f$n-f-sp
 	srd	sensore	n-m	ita	sensore	n$n-m
-	srd	sensu	n-m	ita	senso	n-m$n
+	srd	sensu	n-m	ita	senso	n-m$n$
 	srd	sensuale	adj$adj-mf	ita	sensuale	$adj$adj-mf
 RL	srd	sensuale	adj$adj-mf	ita	sensuale	adj-sup
 	srd	sensualidade	n-f	ita	sensualità	n-f-sp$n-f
@@ -21590,7 +21590,7 @@ RL	srd	sighidu	adj	ita	continuo	adj$$adj-sup
 RL	srd	sighidu	adj	ita	ininterrotto	$adj$adj-sup
 	srd	sighidu	n-m	ita	seguito	n-m
 	srd	sighidura	n-f	ita	continuazione	n-f$n
-	srd	sighire	vblex	ita	continuare	vblex$
+	srd	sighire	vblex	ita	continuare	$vblex
 	srd	sighire	vblex	ita	proseguire	$vblex
 	srd	sighire	vblex	ita	seguire	$vblex
 LR	srd	sigillare	vblex	ita	sigillare	$vblex
@@ -21854,7 +21854,7 @@ LR	srd	solitàriu	adj	ita	solitario	adj$$adj-sup
 	srd	sollìtzitu	adj	ita	sollecito	adj$adj-sup
 RL	srd	sollìtzitu	adj	ita	sollecito	adj$adj-sup
 	srd	sollìtzitu	n$n-m	ita	sollecitudine	n-f
-	srd	solstìtziu	n-m	ita	solstizio	n$n-m
+	srd	solstìtziu	n-m	ita	solstizio	n-m$n
 	srd	solu	adj	ita	solo	adj$adj-sup
 RL	srd	solu	adj	ita	solo	adj$adj-sup
 	srd	solu	adv	ita	solo	adv$
@@ -21998,9 +21998,9 @@ RL	srd	st.	adj	ita	st.	adj$adj-sup
 	srd	Stanislava	np-ant-f	ita	Stanislava	np-ant-f
 	srd	Stanley	np-cog	ita	Stanley	np-cog
 	srd	stanti stanti	adv	ita	periodicamente	adv$
-	srd	star	n-f	ita	star	n-f
+	srd	star	n-f	ita	star	$n-f
 	srd	status	n-m	ita	status	n-m$n
-	srd	status quo	n-m-sg	ita	status quo	n-m$n-m-sp
+	srd	status quo	n-m-sg	ita	status quo	n-m-sp
 	srd	Stefan	np-ant-m$np-ant-m-sg	ita	Stefan	np-ant$np-ant-m
 	srd	Stefanella	np-ant-f	ita	Stefanella	np-ant-f
 	srd	Stefania	np-ant-f$np-ant-f-sg	ita	Stefania	np-ant$np-ant-f
@@ -22120,7 +22120,7 @@ RL	srd	sudafricanu	adj	ita	sudafricano	adj$adj-sup
 	srd	sudamericanu	n	ita	sudamericano	n
 RL	srd	sudamericanu	adj	ita	sudamericano	adj$adj-sup
 	srd	Sudàn	np-top-m-sg$np-top-m	ita	Sudan	np-loc-m$np-loc-m-sg$np$np-loc
-	srd	sudare	vblex	ita	sudare	vblex$
+	srd	sudare	vblex	ita	sudare	$vblex
 	srd	sudcoreanu	n	ita	sudcoreano	n
 	srd	sudcoreanu	adj	ita	sudcoreano	adj$adj-sup
 RL	srd	sudcoreanu	adj	ita	sudcoreano	adj$adj-sup
@@ -22626,7 +22626,7 @@ RL	srd	teatrale	adj	ita	teatrale	adj-sup
 	srd	Teclo	np-ant-m	ita	Teclo	np-ant-m
 	srd	tecnicamente	adv	ita	tecnicamente	adv
 	srd	tecnitzismu	n-m$n-m-sg	ita	tecnicismo	n-m
-	srd	tecnologia	n-f	ita	tecnologia	n$n-f
+	srd	tecnologia	n-f	ita	tecnologia	n-f$n
 	srd	tecnològicu	adj	ita	tecnologico	adj$$adj-sup
 RL	srd	tecnològicu	adj	ita	tecnologico	adj$$adj-sup
 	srd	tecnòcrate	n-m	ita	tecnocrate	n-m
@@ -22887,10 +22887,10 @@ RL	srd	timidu	adj	ita	temuto	adj$adj-sup
 	srd	timoradu	adj	ita	timorato	$adj$adj-sup
 RL	srd	timoradu	adj	ita	timorato	$adj$adj-sup
 LR	srd	timore	n-m	ita	timore	n-m$n
-	srd	timoria	n-f	ita	paura	n-f$n
+	srd	timoria	n-f	ita	paura	n-f$n$
 	srd	timoria	n-f	ita	timore	n-m$n
 	srd	Timoteo	np-ant-m	ita	Timoteo	np-ant$np-ant-m
-	srd	timòria	n-f	ita	paura	n-f$n
+	srd	timòria	n-f	ita	paura	n-f$n$
 	srd	Tindara	np-ant-f	ita	Tindara	np-ant-f
 	srd	Tindaro	np-ant-m	ita	Tindaro	np-ant-m
 	srd	Tinnura	np-top-f	ita	Tinnura	np-loc-f
@@ -23095,7 +23095,7 @@ RL	srd	traditzionale	adj	ita	tradizionale	adj-sup
 	srd	traduidu	adj	ita	tradotto	adj$adj-sup
 RL	srd	traduidu	adj	ita	tradotto	adj$adj-sup
 RL	srd	traduire	vblex	ita	tradurre	vblex$
-	srd	tradutore	n	ita	traduttore	n$n-GD
+	srd	tradutore	n	ita	traduttore	n$n-m
 	srd	tradutzione	n-f	ita	traduzione	n-f$n
 RL	srd	tradùere	vblex	ita	tradurre	vblex$
 	srd	trae	n-f	ita	trave	n-f$n
@@ -23189,7 +23189,7 @@ LR	srd	trasmitire	vblex	ita	trasmettere	$vblex
 	srd	trasparente	adj	ita	trasparente	$adj$adj-mf
 RL	srd	trasparente	adj	ita	trasparente	adj-sup
 	srd	trasparèntzia	n-f	ita	trasparenza	n-f$n
-	srd	traspiratzione	n-f	ita	traspirazione	n$n-f
+	srd	traspiratzione	n-f	ita	traspirazione	n-f$n
 LR	srd	trasportare	vblex	ita	trasportare	vblex$
 	srd	trasportu	n-m	ita	trasporto	n-m$n
 	srd	traspositzione	n-f	ita	trasposizione	n-f$n
@@ -23372,7 +23372,7 @@ RL	srd	tufu	n-m	ita	tuffo	n-m
 	srd	tumbarinu	n-m	ita	muretto	n-m
 	srd	tumbire	vblex	ita	urtare	$vblex
 	srd	Tumino	np-cog$np-cog-mf-sp	ita	Tumino	np-cog
-	srd	tumore	n-m	ita	tumore	n$n-m
+	srd	tumore	n-m	ita	tumore	n-m$n
 	srd	tundu	adj	ita	rotondo	$adj$adj-sup
 RL	srd	tundu	adj	ita	rotondo	$adj$adj-sup
 	srd	Tunisia	np-top-f$np-top-f-sg	ita	Tunisia	np-loc-m$np$np-loc-m-sg
@@ -23427,7 +23427,7 @@ RL	srd	tuteladu	adj	ita	tutelato	adj$adj-sup
 	srd	Tuveri	np-cog$np-cog-mf-sp	ita	Tuveri	np-cog
 	srd	tuvire	vblex	ita	vuotare	$vblex
 	srd	tuvu	adj	ita	vuoto	$adj$adj-sup
-	srd	TV	n-acr-f	ita	TV	n-acr-f$n-acr$n-acr-f-sg
+	srd	TV	n-acr-f	ita	TV	n-acr-f$n-f$n-acr-f-sg
 	srd	tv	n-f-sp	ita	tv	n-f$n-f-sp
 	srd	tweet	n-m	ita	tweet	n-m-sp$n-m
 	srd	Tyler	np-cog-mf-sp$np-cog	ita	Tyler	np-cog
@@ -25688,8 +25688,8 @@ RL	srd	perunu	prn-tn$prn-tn-GD	ita	alcunché	prn$prn-tn$prn-tn-nt
 	srd	sese	prn-tn-ref$prn-tn-ref-p3	ita	sé	prn-tn$prn$prn-tn-ref-p3
 	srd	si	prn-pro$prn-pro-ref-p3$prn-pro-ref-p3-mf-sp	ita	si	prn-pro$prn-pro-ref$prn-pro-ref-p3-mf-sp$prn-pro-ref-p3
 	srd	si	prn-enc-ref-p3$prn-enc-ref-p3-mf-sp	ita	si	prn-enc$prn$prn-enc-ref-p3-mf-sp$prn-enc-ref$prn-enc-ref-p3
-	srd	su cale	prn-itg	ita	il quale	prn$prn-itg
-	srd	su chi	prn-itg	ita	quello che	prn$prn-itg
+	srd	su cale	prn-itg	ita	il quale	prn-itg
+	srd	su chi	prn-itg	ita	quello che	prn-itg
 	srd	suo	prn-pos	ita	suo	prn$prn-tn-pos
 	srd	tale	prn-tn-nt-sg	ita	tale	$prn$prn-tn-mf$prn-tn-mf-sg
 LR	srd	tegus	prn-tn$prn-tn-p2	ita	te	prn-tn$prn-tn-p2$prn$prn-tn-p2-mf-sg
@@ -25881,7 +25881,7 @@ RL	srd	su	det-def$det-def-GD	ita	il	det-def$det$det-def-mf
 	srd	tale	det-dem	ita	tale	det-dem-mf-ND$det-dem$det-dem-mf$det
 	srd	trintunu	num$num-m	ita	trentuno	det-def
 	srd	tzertu	det-ind	ita	certo	det-ind
-	srd	unu	det-ind$det-ind-mf	ita	un	det-ind-m-sg$det$det-ind$det-ind-m
+	srd	unu	det-ind$det-ind-mf	ita	un	det-ind-m-sg$$det$det-ind$det-ind-m
 LR	srd	unu	det-ind$det-ind-mf	ita	un	det-ind-GD
 	srd	unu àteru	det-ind	ita	un altro	det-ind$det-ind-GD$det$det-ind-GD-pl
 	srd	vàriu	det-ind	ita	vario	$det$det-ind$det-ind-GD-pl
@@ -25926,7 +25926,7 @@ LR	srd	su chi	rel-an$rel$rel-an-mf-pl	ita	il quale	rel$rel-an$rel-an-GD-pl
 	srd		rpar	ita		rpar
 	srd	Aaron	np-ant-m$np-ant-m-sg	ita	Aaron	np-ant$np-ant-m
 	srd	ABC	np-al-m$np-al-m-sg	ita	ABC	np-al-m-sg$np$np-al-m
-	srd	a manu	adv	ita	a mano	adv$
+	srd	a manu	adv	ita	a mano	adv
 	srd	a posta	adv	ita	a posta	adv
 	srd	a priori	adv	ita	a priori	adv
 	srd	Acuisgrana	np-top-f$np-top-f-sg	ita	Aquisgrana	np-loc-f
@@ -26345,7 +26345,7 @@ RL	srd	anglosàssone	adj	ita	anglo-sassone	adj
 	srd	Yves	np-ant-m$np-ant-m-sg	ita	Yves	np-ant$np-ant-m
 	srd	Zamora	np-top-f$np-top-f-sg	ita	Zamora	np-loc-f
 	srd	zarzuela	n-f	ita	zarzuela	n-f-sp$n-f
-	srd	zero	n-m	ita	zero	n-m$n$
+	srd	zero	n-m	ita	zero	n-m$$n
 	srd	Zurigu	np-top-m$np-top-m-sg	ita	Zurigo	np-loc-m
 LR	srd	a distàntzia	adj	ita	a distanza	adj-mf-sp$adj
 LR	srd	Agamennone	np-ant-m	ita	Agamennone	np-ant$np-ant-m
@@ -26509,7 +26509,7 @@ RL	srd	anglosàssone	n-mf$n	ita	anglo-sassone	n-mf
 	srd	intelletuale	n-mf	ita	intellettuale	n-mf
 	srd	isòtopu	n-m	ita	isotopo	n$n-m
 	srd	IU	np-al-f$np-al-f-sg	ita	IU	np-al-m-sg$np$np-al-m
-	srd	lìcuidu	n-m	ita	liquido	n-m$n
+	srd	lìcuidu	n-m	ita	liquido	n-m$$n
 	srd	lìtiu	n-m	ita	litio	n-m$n
 	srd	lutu	n-m	ita	lutto	n-m
 	srd	mammìferu	n-m	ita	mammifero	n-m$n
@@ -27080,9 +27080,9 @@ LR	srd	proliferare	vblex	ita	proliferare	vblex$
 LR	srd	ridefinire	vblex	ita	ridefinire	vblex
 LR	srd	sabadu	n-m	ita	sabato	n-m$n
 LR	srd	senu	n-m	ita	seno	n-m$n
-LR	srd	sessualmente	adv	ita	sessualmente	adv
+LR	srd	sessualmente	adv	ita	sessualmente	adv$
 LR	srd	simbolicamente	adv	ita	simbolicamente	adv
-LR	srd	sognare	vblex	ita	sognare	vblex$
+LR	srd	sognare	vblex	ita	sognare	$vblex
 LR	srd	sonoridade	n-f	ita	sonorità	n-f-sp$n-f
 LR	srd	superamentu	n-m	ita	superamento	n-m
 LR	srd	universalmente	adv	ita	universalmente	adv
@@ -27255,18 +27255,18 @@ RL	srd	angulare	adj$adj-mf	ita	angolare	adj-sup
 RL	srd	cuadrangulare	adj	ita	quadrangolare	adj-sup
 RL	srd	triangulare	adj	ita	triangolare	adj-sup
 	srd	tres	n-mf	ita	terzo	n-m$n$
-	srd	bator	n-mf	ita	quarto	n-m
+	srd	bator	n-mf	ita	quarto	n-m$
 	srd	chimbe	n-mf	ita	quinto	n-m
 	srd	ses	n-mf	ita	sesto	n-m$n$
 	srd	sete	n-mf	ita	settimo	n-m
 	srd	oto	n-mf	ita	ottavo	n-m
 	srd	nou	n-mf	ita	nono	n-m
-	srd	cuartu	n-m	ita	quarto	n-m
+	srd	cuartu	n-m	ita	quarto	n-m$
 	srd	otavu	n-m	ita	ottavo	n-m
 	srd	sàgiu	n-m	ita	saggio	n-m$n$
 	srd	iscògliu	n-m	ita	scoglio	n-m$n
 	srd	beta	n-f$n-f-sg	ita	beta	n-f$n-f-sg
-	srd	colorante	adj	ita	colorante	adj$$adj-mf
+	srd	colorante	adj	ita	colorante	adj$adj-mf
 	srd	rilevadore	n-m	ita	rilevatore	n-m
 	srd	aeròbicu	adj	ita	aerobico	adj
 	srd	allevadore	n	ita	allevatore	n$n-GD

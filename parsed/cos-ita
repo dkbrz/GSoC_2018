@@ -17,32 +17,32 @@
 	cos	puru	cnjcoo	ita	pure	cnjcoo
 	cos	mentre	cnjcoo	ita	mentre	cnjadv
 	cos	piuttostu	cnjcoo	ita	piuttosto	adv
-	cos	di	pr	ita	di	pr
-	cos	da	pr	ita	da	pr
-	cos	cù	pr	ita	con	pr
+	cos	di	pr	ita	di	$pr
+	cos	da	pr	ita	da	pr$
+	cos	cù	pr	ita	con	pr$
 	cos	allocch'è à	pr	ita	entro	pr
 	cos	dopu	pr	ita	dopo	pr
 	cos	vicinu à	pr	ita	vicino a	pr
-	cos	pè	pr	ita	per	pr
-	cos	senza	pr	ita	senza	pr$
+	cos	pè	pr	ita	per	pr$
+	cos	senza	pr	ita	senza	$pr
 	cos	sopra	pr	ita	sopra	pr$
 	cos	nant'à	pr	ita	sopra	pr$
 	cos	fin da	pr	ita	fin da	pr
-	cos	per	pr	ita	per	pr
-	cos	à	pr	ita	a	pr
+	cos	per	pr	ita	per	pr$
+	cos	à	pr	ita	a	pr$
 	cos	attraversu	pr	ita	attraverso	pr
 	cos	in	pr	ita	in	pr
 	cos	in quant'à	pr	ita	in quanto	pr
-	cos	comu	pr	ita	come	pr
+	cos	comu	pr	ita	come	pr$
 	cos	trà	pr	ita	tra	pr
 	cos	frà	pr	ita	fra	pr
 	cos	finu	pr	ita	fino	pr
-	cos	pà	pr	ita	per	pr
+	cos	pà	pr	ita	per	pr$
 	cos	duranti	pr	ita	durante	pr
 	cos	durente	pr	ita	durante	pr
 	cos	sottu	pr	ita	sotto	pr$
 	cos	traversu	pr	ita	tra	pr
-	cos	cun	pr	ita	con	pr
+	cos	cun	pr	ita	con	pr$
 	cos	sin'à	pr	ita	fino a	pr
 	cos	sinu à	pr	ita	fino a	pr
 	cos	fin'à	pr	ita	fino a	pr
@@ -51,7 +51,7 @@
 	cos	à parta	pr	ita	a partire da	pr
 	cos	nanzu	pr	ita	davanti	pr
 	cos	daretu	pr	ita	dietro	pr
-	cos	incù	pr	ita	con	pr
+	cos	incù	pr	ita	con	pr$
 	cos	annantu	pr	ita	davanti	pr
 	cos	nant'à	pr	ita	dentro a	pr
 	cos	nantu	pr	ita	dentro	pr
@@ -110,7 +110,7 @@ LR	cos	quantu	prn-itg$prn-itg-mf-sg	ita	quanto	prn-itg-GD-sg
 	cos	u	det-def$det-def-m	ita	il	det-def$det$det-def-mf
 LR	cos	u	det-def-mf$det-def-mf-sp	ita	il	det-def-GD-ND$det-def-GD
 LR	cos	u	det-def-mf-sg	ita	il	det-def-GD-sg
-	cos	un	det-ind$det-ind-mf	ita	un	det-ind-m-sg$det$det-ind$det-ind-m
+	cos	un	det-ind$det-ind-mf	ita	un	det-ind-m-sg$$det$det-ind$det-ind-m
 LR	cos	un	det-ind$det-ind-mf	ita	un	det-ind-GD
 	cos	ogni	det-ind	ita	ogni	det-ind$$det-ind-mf$det
 	cos	tale	det-dem	ita	tale	det-dem-mf-ND$det-dem$det-dem-mf$det
@@ -221,7 +221,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	statu	n-m	ita	stato	n-m$n
 	cos	lingua	n-f	ita	lingua	n-f$n
 	cos	annu	n-m	ita	anno	n-m$n
-	cos	abitante	n-m	ita	abitante	n$n-mf
+	cos	abitante	n-m	ita	abitante	n-mf$n
 	cos	famiglia	n-f	ita	famiglia	n-f$n
 	cos	paese	n-m	ita	paese	n-m$n
 	cos	formula	n-f	ita	formula	n-f$n
@@ -367,7 +367,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	sviluppu	n-m	ita	sviluppo	n-m$n
 	cos	principiu	n-m	ita	principio	n-m$n
 	cos	definizione	n-f	ita	definizione	n-f$n
-	cos	sensu	n-m	ita	senso	n-m$n
+	cos	sensu	n-m	ita	senso	n-m$n$
 	cos	rock	n-m	ita	rock	n-m$n$n-m-sp
 	cos	lunghezza	n-f	ita	lunghezza	n-f$n
 	cos	unione	n-f	ita	unione	n-f$n
@@ -1109,7 +1109,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	amore	n-m	ita	amore	n-m$n
 	cos	ghjucadore	n-m	ita	giocatore	n$n-m
 	cos	cucina	n-f	ita	cucina	n-f$n
-	cos	vinu	n-m	ita	vino	n$n-m
+	cos	vinu	n-m	ita	vino	n-m$n
 	cos	cima	n-f	ita	cima	n-f$n
 	cos	staghjone	n-f	ita	stagione	n$n-f
 	cos	assemblea	n-f	ita	assemblea	n-f$n
@@ -1271,7 +1271,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	naziunalità	n-f	ita	nazionalità	n-f-sp$n-f
 	cos	moda	n-f	ita	moda	n-f$n
 	cos	evenimentu	n-m	ita	avvenimento	n-m$n
-	cos	direttore	n-m	ita	direttore	n-m
+	cos	direttore	n-m	ita	direttore	n$n-m
 	cos	dialogu	n-m	ita	dialogo	n-m$n
 	cos	cunfusione	n-f	ita	confusione	n-f$n
 	cos	cunclusione	n-f	ita	conclusione	n-f$n
@@ -1343,7 +1343,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	riassuntu	n-m	ita	riassunto	n-m$n
 	cos	referendum	n-m	ita	referendum	n-m-sp$n-m
 	cos	pudere	n-m	ita	potere	n-m$$n
-	cos	pistola	n-f	ita	pistola	n$n-f
+	cos	pistola	n-f	ita	pistola	n-f$n
 	cos	ostilità	n-f	ita	ostilità	n-f$n-f-sp
 	cos	minurità	n-f	ita	minoranza	n-f$n
 	cos	ministra	n-f	ita	ministra	n-f
@@ -1358,7 +1358,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	curiosità	n-f	ita	curiosità	n-f-sp$n-f
 	cos	cunfidenza	n-f	ita	confidenza	n-f$n
 	cos	carità	n-f	ita	carità	n-f$n-f-sp
-	cos	cacciadore	n-m	ita	cacciatore	n$n-m
+	cos	cacciadore	n-m	ita	cacciatore	n-m$n
 	cos	vacanza	n-f	ita	vacanza	n-f$n
 	cos	surpresa	n-f	ita	sorpresa	n-f$n
 	cos	striscione	n-f	ita	striscione	n-f
@@ -3648,11 +3648,11 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	so	adj-pos-f-pl	ita	suo	adj-pos-f-pl
 	cos	nostru	adj-pos	ita	nostro	adj-pos$adj$adj-pos-m-pl
 	cos	vostru	adj-pos	ita	vostro	adj-pos$adj$adj-pos-m-pl
-	cos	primu	adj-ord	ita	primo	$adj$adj-ord
+	cos	primu	adj-ord	ita	primo	adj$adj-ord
 	cos	sicundu	adj-ord	ita	secondo	adj-ord$adj
 	cos	sicondu	adj-ord	ita	secondo	adj-ord$adj
 	cos	terzu	adj-ord	ita	terzo	adj-ord$adj
-	cos	quartu	adj-ord	ita	quarto	adj-ord$$adj
+	cos	quartu	adj-ord	ita	quarto	adj-ord$adj
 	cos	moltu	adj$adj-ind	ita	molto	adj$adj-ind$adj-ind-sup
 	cos	altru	adj-ind	ita	altro	adj-ind$adj$adj-ind-m-pl
 	cos	antru	adj-ind	ita	altro	adj-ind$adj$adj-ind-m-pl
@@ -3922,7 +3922,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	americanu	adj	ita	americano	adj$$adj-sup
 	cos	mortu	adj	ita	morto	adj$$adj-sup
 	cos	anticu	adj	ita	antico	adj$$adj-sup
-	cos	pocu	adj	ita	poco	adj-m$adj
+	cos	pocu	adj	ita	poco	adj$adj-m
 	cos	longu	adj	ita	lungo	adj$adj-f
 	cos	novu	adj	ita	nuovo	$adj$adj-f
 	cos	altu	adj	ita	alto	adj$$adj-sup
@@ -3994,7 +3994,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	quandu	rel-adv	ita	quando	rel-adv$rel
 	cos	cum'è	rel-adv	ita	come	rel$rel-adv
 	cos	induva	rel-adv	ita	dove	rel$rel-adv
-	cos	ùn	adv	ita	non	adv
+	cos	ùn	adv	ita	non	$adv
 	cos	sempri	adv	ita	sempre	adv
 	cos	quà	adv	ita	qua	adv
 	cos	quì	adv	ita	qui	adv
@@ -4039,8 +4039,8 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	invece	adv	ita	invece	adv
 	cos	dinù	adv	ita	anche	adv
 	cos	difatti	adv	ita	difatti	cnjadv
-	cos	non	adv	ita	non	adv
-	cos	appena	adv	ita	appena	adv
+	cos	non	adv	ita	non	$adv
+	cos	appena	adv	ita	appena	adv$
 	cos	subitu	adv	ita	subito	adv
 	cos	abbastanza	adv	ita	abbastanza	adv$
 	cos	almenu	adv	ita	almeno	adv
@@ -4057,7 +4057,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	ufficialmente	adv	ita	ufficialmente	adv
 	cos	forse	adv	ita	forse	adv
 	cos	tipicamente	adv	ita	tipicamente	adv
-	cos	immediatamente	adv	ita	immediatamente	adv
+	cos	immediatamente	adv	ita	immediatamente	adv$
 	cos	esclusivamente	adv	ita	esclusivamente	adv
 	cos	rispettivamente	adv	ita	rispettivamente	adv
 	cos	principalmente	adv	ita	principalmente	adv
@@ -4072,7 +4072,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	verticalmente	adv	ita	verticalmente	adv
 	cos	storicamente	adv	ita	storicamente	adv
 	cos	recentemente	adv	ita	recentemente	adv
-	cos	facilmente	adv	ita	facilmente	adv
+	cos	facilmente	adv	ita	facilmente	adv$
 	cos	etimologicamente	adv	ita	etimologicamente	adv$
 	cos	essenzialmente	adv	ita	essenzialmente	adv$
 	cos	notevolmente	adv	ita	notevolmente	adv
@@ -4101,9 +4101,9 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	pruibisce	vblex	ita	proibire	vblex$
 	cos	mancà	vblex	ita	mancare	$vblex
 	cos	rinasce	vblex	ita	rinascere	$vblex
-	cos	durà	vblex	ita	durare	vblex$
-	cos	dì	vblex	ita	dire	vblex$
-	cos	cuntinuvà	vblex	ita	continuare	vblex$
+	cos	durà	vblex	ita	durare	$vblex
+	cos	dì	vblex	ita	dire	$vblex
+	cos	cuntinuvà	vblex	ita	continuare	$vblex
 	cos	dà	vblex	ita	dare	$vblex
 	cos	sapè	vblex	ita	sapere	$vblex
 	cos	stà	vblex	ita	stare	$vblex
@@ -4135,14 +4135,14 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	passà	vblex	ita	passare	$vblex
 	cos	cunnosce	vblex	ita	conoscere	$vblex
 	cos	contà	vblex	ita	contare	$vblex
-	cos	diventà	vblex	ita	diventare	vblex$
+	cos	diventà	vblex	ita	diventare	$vblex
 	cos	vulè	vblex	ita	volere	$vbmod
 	cos	purtà	vblex	ita	portare	$vblex
 	cos	misurà	vblex	ita	misurare	$vblex
 	cos	scontrà	vblex	ita	scontrare	vblex
 	cos	sviluppà	vblex	ita	sviluppare	vblex$
 	cos	induvinà	vblex	ita	indovinare	$vblex
-	cos	mette	vblex	ita	mettere	vblex$
+	cos	mette	vblex	ita	mettere	$vblex
 	cos	sceglie	vblex	ita	scegliere	vblex$
 	cos	influenzà	vblex	ita	influenzare	vblex$
 	cos	esiste	vblex	ita	esistere	$vblex
@@ -4200,7 +4200,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	evità	vblex	ita	evitare	$vblex
 	cos	vindicà	vblex	ita	vendicare	vblex$
 	cos	mustrà	vblex	ita	mostrare	$vblex
-	cos	gridà	vblex	ita	gridare	vblex$
+	cos	gridà	vblex	ita	gridare	$vblex
 	cos	crede	vblex	ita	credere	$vblex
 	cos	capisce	vblex	ita	capire	$vblex
 	cos	mudificà	vblex	ita	modificare	vblex$
@@ -4316,7 +4316,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	discrive	vblex	ita	descrivere	$vblex
 	cos	appostà	vblex	ita	appostare	$vblex
 	cos	cresce	vblex	ita	crescere	$vblex
-	cos	mandà	vblex	ita	mandare	vblex$
+	cos	mandà	vblex	ita	mandare	$vblex
 	cos	spiegà	vblex	ita	spiegare	$vblex
 	cos	cuntà	vblex	ita	contare	$vblex
 	cos	riceve	vblex	ita	ricevere	$vblex
@@ -4338,7 +4338,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	rende	vblex	ita	rendere	$vblex
 	cos	currisponde	vblex	ita	corrispondere	$vblex
 	cos	cummandà	vblex	ita	comandare	$vblex
-	cos	metà	vblex	ita	mettere	vblex$
+	cos	metà	vblex	ita	mettere	$vblex
 	cos	appartene	vblex	ita	appartenere	vblex$
 	cos	risponde	vblex	ita	rispondere	vblex$
 	cos	adattà	vblex	ita	adattare	$vblex
@@ -4357,7 +4357,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	imaginà	vblex	ita	immaginare	$vblex
 	cos	disputà	vblex	ita	disputare	vblex$
 	cos	dimostrà	vblex	ita	dimostrare	$vblex
-	cos	ride	vblex	ita	ridere	vblex$
+	cos	ride	vblex	ita	ridere	$vblex
 	cos	impone	vblex	ita	imporre	$vblex
 	cos	interpretà	vblex	ita	interpretare	$vblex
 	cos	incaricà	vblex	ita	incaricare	$vblex
@@ -4381,7 +4381,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	dinunzià	vblex	ita	denunciare	$vblex
 	cos	minaccià	vblex	ita	minacciare	$vblex
 	cos	discorre	vblex	ita	discorrere	$vblex
-	cos	imprestà	vblex	ita	prestare	vblex$
+	cos	imprestà	vblex	ita	prestare	$vblex
 	cos	decide	vblex	ita	decidere	$vblex
 	cos	abbassà	vblex	ita	abbassare	$vblex
 	cos	valurizà	vblex	ita	valorizzare	vblex$
@@ -4409,7 +4409,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	pussede	vblex	ita	possedere	$vblex
 	cos	travaglià	vblex	ita	lavorare	$vblex
 	cos	ricuperà	vblex	ita	recuperare	$vblex
-	cos	divintà	vblex	ita	diventare	vblex$
+	cos	divintà	vblex	ita	diventare	$vblex
 	cos	significheghjà	vblex	ita	significare	$vblex
 	cos	ritruvà	vblex	ita	ritrovare	$vblex
 	cos	imprudà	vblex	ita	usare	$vblex
@@ -4440,7 +4440,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	arregistregjhà	vblex	ita	registrare	vblex$
 	cos	arricchire	vblex	ita	arricchire	$vblex
 	cos	assaltà	vblex	ita	assaltare	$vblex
-	cos	ballà	vblex	ita	ballare	vblex$
+	cos	ballà	vblex	ita	ballare	$vblex
 	cos	braccà	vblex	ita	braccare	vblex$
 	cos	circulà	vblex	ita	circulare	vblex
 	cos	cundannà	vblex	ita	condannare	$vblex
@@ -4450,7 +4450,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	cunsultà	vblex	ita	consultare	vblex$
 	cos	cuntattà	vblex	ita	contattare	$vblex
 	cos	cuntestà	vblex	ita	contestare	$vblex
-	cos	cuntinueghjà	vblex	ita	continuare	vblex$
+	cos	cuntinueghjà	vblex	ita	continuare	$vblex
 	cos	cuntribuire	vblex	ita	contribuire	vblex$
 	cos	cunvertire	vblex	ita	convertire	vblex$
 	cos	destinà	vblex	ita	destinare	$vblex
@@ -4466,7 +4466,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	ghjustificà	vblex	ita	giustificare	$vblex
 	cos	guvernà	vblex	ita	governare	$vblex
 	cos	identificà	vblex	ita	identificare	$vblex
-	cos	imparà	vblex	ita	imparare	vblex$
+	cos	imparà	vblex	ita	imparare	$vblex
 	cos	impiccà	vblex	ita	impiccare	vblex$
 	cos	infastidire	vblex	ita	infastidire	$vblex
 	cos	insegnà	vblex	ita	insegnare	$vblex
@@ -4494,7 +4494,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	rinvià	vblex	ita	rinviare	$vblex
 	cos	ripensà	vblex	ita	ripensare	$vblex
 	cos	ristabilire	vblex	ita	ristabilire	vblex$
-	cos	sacrificà	vblex	ita	sacrificare	vblex$
+	cos	sacrificà	vblex	ita	sacrificare	$vblex
 	cos	saltà	vblex	ita	saltare	$vblex
 	cos	salutà	vblex	ita	salutare	$vblex
 	cos	sbancà	vblex	ita	sbancare	vblex
@@ -4556,7 +4556,7 @@ LR	cos	nissunu	det-ind$det-ind-mf	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-
 	cos	fucalizà	vblex	ita	focalizzare	$vblex
 	cos	dichjarà	vblex	ita	dichiarare	$vblex
 	cos	ripiglià	vblex	ita	riprendere	$vblex
-	cos	amparà	vblex	ita	imparare	vblex$
+	cos	amparà	vblex	ita	imparare	$vblex
 	cos	impiantà	vblex	ita	impiantare	$vblex
 	cos	chjappà	vblex	ita	prendere	$vblex
 	cos	rifughjà	vblex	ita	rifugiare	vblex
@@ -4617,7 +4617,7 @@ LR	cos	maiò	adj-mf-sp	ita	maggiore	adj$$adj-mf$adj-mf-ND
 	cos	chimicu	adj	ita	chimico	adj$adj-sup
 	cos	moru	adj	ita	moro	adj$adj-ind
 	cos	tedescu	adj	ita	tedesco	adj$$adj-f
-	cos	rossu	adj	ita	rosso	adj$$adj-sup
+	cos	rossu	adj	ita	rosso	adj$adj-sup
 	cos	sardu	adj	ita	sardo	adj$adj-sup
 	cos	gregurianu	adj	ita	gregoriano	adj$adj-sup
 	cos	guasi	adv	ita	quasi	adv$
@@ -4918,7 +4918,7 @@ LR	cos	maiò	adj-mf-sp	ita	maggiore	adj$$adj-mf$adj-mf-ND
 	cos	nustrale	adj-mf	ita	nostrano	$adj$adj-mf
 	cos	ghjenuvese	adj-mf	ita	genovese	adj-mf$adj
 	cos	belgicu	adj	ita	belga	adj$adj-m$
-	cos	cumplettu	adj	ita	completo	$adj$adj-sup
+	cos	cumplettu	adj	ita	completo	adj$adj-sup
 	cos	aiaccinu	adj	ita	aiaccino	adj
 	cos	siguru	adj	ita	sicuro	$adj$adj-sup
 	cos	giovanu	adj	ita	giovane	adj$adj-mf
@@ -5048,7 +5048,7 @@ LR	cos	maiò	adj-mf-sp	ita	maggiore	adj$$adj-mf$adj-mf-ND
 	cos	alettricu	adj	ita	elettrico	adj$$adj-sup
 	cos	cà	adv	ita	qua	adv
 	cos	eppuru	adv	ita	eppure	adv
-	cos	appinuccia	adv	ita	appena	adv
+	cos	appinuccia	adv	ita	appena	adv$
 	cos	sinu a	adv	ita	fino a	adv
 	cos	siguramente	adv	ita	sicuramente	adv
 	cos	altrimente	adv	ita	altrimenti	adv
@@ -5072,7 +5072,7 @@ LR	cos	maiò	adj-mf-sp	ita	maggiore	adj$$adj-mf$adj-mf-ND
 	cos	piattà	vblex	ita	nascondere	$vblex
 	cos	stallà	vblex	ita	stabilire	$vblex
 	cos	mughjà	vblex	ita	urlare	$vblex
-	cos	cuntinuveghjà	vblex	ita	continuare	vblex$
+	cos	cuntinuveghjà	vblex	ita	continuare	$vblex
 	cos	cuntribuisce	vblex	ita	contribuire	vblex$
 	cos	appoghjà	vblex	ita	appoggiare	$vblex
 	cos	rivultà	vblex	ita	rivoltare	$vblex
@@ -5128,13 +5128,13 @@ LR	cos	maiò	adj-mf-sp	ita	maggiore	adj$$adj-mf$adj-mf-ND
 	cos	intituleghjà	vblex	ita	intitolare	vblex$
 	cos	ingrandà	vblex	ita	ingrandire	vblex
 	cos	ignurà	vblex	ita	ignorare	$vblex
-	cos	duvintà	vblex	ita	diventare	vblex$
+	cos	duvintà	vblex	ita	diventare	$vblex
 	cos	divurzià	vblex	ita	divorziare	vblex$
 	cos	circuleghjà	vblex	ita	circolare	$vblex
 	cos	pustà	vblex	ita	pubblicare	$vblex
 	cos	cunnisce	vblex	ita	conoscere	$vblex
 	cos	assicureghjà	vblex	ita	assicurare	$vblex
-	cos	sunnieghjà	vblex	ita	sognare	vblex$
+	cos	sunnieghjà	vblex	ita	sognare	$vblex
 	cos	spenghje	vblex	ita	spegnere	$vblex
 	cos	ridiculizà	vblex	ita	ridicolizzare	$vblex
 	cos	primureghjà	vblex	ita	primeggiare	$vblex
@@ -5142,7 +5142,7 @@ LR	cos	maiò	adj-mf-sp	ita	maggiore	adj$$adj-mf$adj-mf-ND
 	cos	bettunizà	vblex	ita	cementificare	vblex
 	cos	apprufittà	vblex	ita	approfittarsi	$vblex
 	cos	supplicheghjà	vblex	ita	supplicare	vblex$
-	cos	sunnà	vblex	ita	sognare	vblex$
+	cos	sunnà	vblex	ita	sognare	$vblex
 	cos	smintincà	vblex	ita	dimenticare	$vblex
 	cos	sbattuleghjà	vblex	ita	sventolare	$vblex
 	cos	sbattuleghjà	vblex	ita	sbattere	$vblex

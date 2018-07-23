@@ -657,7 +657,7 @@ RL	fra	adapter	vblex	spa	adecuar	vblex
 	fra	Addameer	np	spa	Addameer	np
 	fra	addictif	adj	spa	adictivo	adj$adj-m-sg
 	fra	Addikt	np	spa	Addikt	np
-	fra	Addis-Abeba	np	spa	Adís Abeba	np$np-loc$np-loc-m
+	fra	Addis-Abeba	np	spa	Adís Abeba	np$np-loc-m
 RL	fra	Addis-Abeba	np	spa	Addis Abeba	np
 	fra	additif	adj	spa	aditivo	adj
 	fra	addition	n-f$n	spa	adición	n-f$n$n-f-sg
@@ -934,7 +934,7 @@ LR	fra	affubler	vblex	spa	vestir	vblex
 	fra	africain	adj$adj-GD-ND	spa	africano	adj$adj-GD-ND
 	fra	africain	n$n-m-ND	spa	africano	n$n-m$n-m-ND
 	fra	africaniste	n$n-mf	spa	africanista	n
-	fra	Afrique	np$np-loc-f	spa	África	np$np-loc$np-loc-f
+	fra	Afrique	np$np-top-f-sg$np-top$np-top-f	spa	África	np$np-loc$np-loc-f
 	fra	Afrique australe	np	spa	África austral	np
 	fra	Afrique du Sud	np$np-loc$np-loc-f	spa	Sudáfrica	np$np-top-f$np-top
 RL	fra	Afrique du Sud	np$np-loc$np-loc-f	spa	República de Sudáfrica	np$np-top
@@ -958,7 +958,7 @@ RL	fra	Afrique du Sud	np$np-loc$np-loc-f	spa	Suráfrica	np-loc$np$np-loc-f
 	fra	Agathon	np$np-ant	spa	Agatón	np$np-ant
 	fra	Agca	n	spa	Agca	n
 	fra	AGE	n	spa	AGE	n
-	fra	âge	n-m$n$n-m-ND	spa	edad	n-f$n$n-f-sg
+	fra	âge	n-m$n$n-m-ND	spa	edad	n$n-f$n-f-sg
 	fra	âgé	adj$adj-GD-ND	spa	anciano	adj$adj-GD-ND
 LR	fra	âgé	adj-f$adj-f-sg	spa	mayor	adj$adj-mf$adj-mf-ND
 LR	fra	âgé	adj-m$adj-m-sg	spa	mayor	adj$adj-mf$adj-mf-ND
@@ -1188,7 +1188,7 @@ RL	fra	ainsi que	cnjadv	spa	tal y como	cnjadv
 	fra	AIOCC	n	spa	AIOCC	n
 	fra	Aiora	np	spa	Aiora	np
 	fra	Aira	np$np-cog-mf-sp	spa	Aira	np$np-cog
-	fra	Air	np	spa	Air	np
+	fra	Air	np$np-al-m-sg	spa	Air	np
 	fra	air	n-m$n$n-m-ND	spa	aire	n-m$n$n-m-sg
 	fra	airbag	n-m$n	spa	airbag	n$n-m
 	fra	Airbag	np	spa	Airbag	np
@@ -1340,7 +1340,7 @@ RL	fra	albanais	adj$adj-GD-ND$adj-GD	spa	albanokosovar	adj$adj-mf$adj-mf-ND
 	fra	Alberdi	np$np-cog-mf-sp	spa	Alberdi	np
 	fra	Albero	np$np-cog-mf-sp$np-cog	spa	Albero	np$np-cog$np-cog-mf
 	fra	Albers	np	spa	Albers	np
-	fra	Albert	np-ant$np$np-ant-m-sg	spa	Albert	np$np-ant$np-ant-m
+	fra	Albert	np-ant$np-ant-m-sg$np	spa	Albert	np$np-ant$np-ant-m
 	fra	Albert Ier de Monaco	np	spa	Alberto I de Mónaco	np$np-ant
 	fra	Albertini	np$np-cog-mf-sp	spa	Albertini	np
 	fra	Alberto	np$np-ant$np-ant-m-sg	spa	Alberto	np$np-ant$np-ant-m
@@ -1684,7 +1684,7 @@ LR	fra	allure	n-f$n-f-ND	spa	aspecto	n-m$n$n-m-sg
 	fra	Almudena	np$np-ant-f-sg$np-ant	spa	Almudena	np$np-ant
 	fra	Almuedo	np	spa	Almuedo	np
 	fra	Almuñécar	np	spa	Almuñécar	np$np-loc-f
-	fra	Almunia	np$np-cog-mf-sp$np-cog	spa	Almunia	np$np-ant
+	fra	Almunia	np-cog-mf-sp$np$np-cog	spa	Almunia	np$np-ant
 	fra	Alofi	np	spa	Alofi	np
 	fra	Aloisi	np	spa	Aloisi	np
 	fra	Alokabide	np	spa	Alokabide	np
@@ -1932,9 +1932,9 @@ RL	fra	américain	adj$adj-GD-ND$adj-GD	spa	americano	adj$adj-GD-ND
 	fra	Amérique	np$np-loc-f	spa	América	np$np-loc$np-loc-f
 	fra	Amérique du Nord	np-loc-f$np	spa	América del Norte	np-top-f$np
 RL	fra	Amérique du Nord	np-loc-f$np	spa	Norteamérica	np$np-loc$np-loc-f
-	fra	Amérique du Sud	np$np-loc-f	spa	América del Sur	np-top-f$np
-RL	fra	Amérique du Sud	np$np-loc-f	spa	Sudamérica	np$np-top-f
-RL	fra	Amérique du Sud	np$np-loc-f	spa	Suramérica	np$np-top-f
+	fra	Amérique du Sud	np-loc-f$np	spa	América del Sur	np-top-f$np
+RL	fra	Amérique du Sud	np-loc-f$np	spa	Sudamérica	np$np-top-f
+RL	fra	Amérique du Sud	np-loc-f$np	spa	Suramérica	np$np-top-f
 	fra	Amérique latine	np$np-loc-f	spa	Latinoamérica	np$np-loc-f$np-loc
 	fra	Amériques	np$np-loc-f	spa	Américas	np$np-loc$np-loc-f
 	fra	améro	n	spa	amero	n
@@ -2537,8 +2537,8 @@ LR	fra	antigivrant	adj-m	spa	anticongelante	adj-mf$adj$adj-mf-sg
 RL	fra	antigivrant	adj-GD	spa	anticongelante	adj-mf$adj$adj-mf-sg
 LR	fra	antiglobalisation	n$n-f	spa	antiglobalización	n$n-f
 	fra	Antigone	np$np-ant-f-sg	spa	Antígona	np$np-ant
-	fra	Antigua	np$np-top-f-sg	spa	Antigua	np$np-loc-f
-	fra	Antigua-et-Barbuda	np$np-loc-f	spa	Antigua y Barbuda	np$np-loc$np-loc-f
+	fra	Antigua	np$np-top-f-sg	spa	Antigua	np$np-loc$np-loc-f
+	fra	Antigua-et-Barbuda	np$np-loc-f	spa	Antigua y Barbuda	np$np-top
 	fra	anti-incendie	n	spa	anti-incendio	n
 	fra	anti-inflammatoire	n	spa	antiinflamatorio	n$n-m
 LR	fra	anti-inflammatoire	adj-mf	spa	antiinflamatorio	adj-GD
@@ -2581,7 +2581,7 @@ RL	fra	antipersonnel	adj-mf-sp$adj	spa	antipersonal	adj$adj-mf-sg
 	fra	antiquaire	n$n-mf	spa	anticuario	n$n-m
 LR	fra	antique	adj-mf$adj$adj-mf-ND	spa	antiguo	adj$adj-GD-ND$adj-GD
 LR	fra	antiquité	n-f$n$n-f-ND	spa	antigüedad	n$n-f$n-f-ND
-	fra	antiraciste	adj-mf$adj	spa	antirracista	adj$adj-mf
+	fra	antiraciste	adj$adj-mf	spa	antirracista	adj$adj-mf
 	fra	antiradar	adj	spa	antirradar	adj
 LR	fra	antiréglementaire	adj-mf	spa	antirreglamentario	adj-GD
 RL	fra	antiréglementaire	adj-mf	spa	antirreglamentario	adj-f
@@ -2695,7 +2695,7 @@ LR	fra	apiculteur	n$n-m	spa	apicultor	n$n-mf
 RL	fra	apiculteur	n-GD	spa	apicultor	n$n-mf
 	fra	aplanir	vblex	spa	allanar	vblex
 RL	fra	aplanir	vblex	spa	aplanar	vblex
-	fra	aplanissement	n-m$n	spa	allanamiento	n$n-m
+	fra	aplanissement	n-m$n	spa	allanamiento	n-m$n
 	fra	Aplek Folc	np	spa	Aplek Folc	np
 	fra	Apo	np	spa	Apo	np
 LR	fra	apocalypse	n-f-pl	spa	apocalipsis	n-m-sp$n-m$n
@@ -2859,7 +2859,7 @@ RL	fra	Aquitaine	np$np-loc-f	spa	Aquitania	np$np-loc$np-loc-f
 	fra	arabe	n$n-mf$n-mf-ND	spa	árabe	n-mf$n$n-mf-ND
 	fra	Arabia	np-loc$np-loc-f$np	spa	Arabia	np-loc$np$np-loc-f
 	fra	Arabie	np$np-loc-f	spa	Arabia	np-loc$np$np-loc-f
-	fra	Arabie Saoudite	np$np-loc-f	spa	Arabia Saudita	np$np-loc-f
+	fra	Arabie Saoudite	np-loc-f$np	spa	Arabia Saudita	np$np-loc-f
 	fra	Arabsat	np	spa	Arabsat	np
 	fra	Araceli	np$np-ant$np-ant-f-sg	spa	Araceli	np$np-ant
 	fra	Aracena	np$np-top-f-sg	spa	Aracena	np$np-loc-f
@@ -3053,7 +3053,7 @@ LR	fra	arène	n-f$n$n-f-ND	spa	arena	n-f$n$n-f-sg
 	fra	Argaiz	np	spa	Argaiz	np
 	fra	Arganda	np$np-loc	spa	Arganda	np-loc$np
 	fra	Argemi	np	spa	Argemi	np
-	fra	argent	n-m-sg$n-m$n	spa	dinero	n-m-sg$n-m$n
+	fra	argent	n-m-sg$n-m$n	spa	dinero	n-m-sg$n$n-m
 RL	fra	argent	n-m-sg$n-m$n	spa	plata	n-f$n$n-f-ND
 RL	fra	argent	n-m-sg$n-m$n	spa	dinero	n-m-pl
 	fra	Argentaria	np$np-al-mf	spa	Argentaria	np$np-al-mf
@@ -3245,7 +3245,7 @@ RL	fra	asiatique	adj-mf$adj$adj-mf-ND	spa	asiático	adj-m$adj-m-sg
 	fra	Asie	np$np-loc-f	spa	Asia	np$np-loc$np-loc-f
 RL	fra	Asie	np$np-loc-f	spa	Asia	np$np-loc$np-loc-f
 	fra	Asie centrale	np	spa	Asia Central	np
-	fra	Asie du Sud-Est	np$np-loc-f	spa	Sudeste Asiático	np
+	fra	Asie du Sud-Est	np-loc-f$np	spa	Sudeste Asiático	np
 	fra	Asie Mineure	np	spa	Asia Menor	np$np-loc-f
 	fra	Asier	np$np-ant	spa	Asier	np$np-ant
 	fra	Askartza	np	spa	Askartza	np
@@ -3381,7 +3381,7 @@ RL	fra	asymétrique	adj-mf$adj	spa	asimétrico	adj-m$adj-m-sg
 RL	fra	Athletic	np$np-al-m-sg	spa	Athletic	np
 	fra	Athletic Bilbao	np	spa	Athletic de Bilbao	np
 	fra	Athletic Club Bilbao	np$np-al-m	spa	Athletic Club Bilbao	np$np-al-m
-	fra	athlétisme	n-m$n	spa	atletismo	n$n-m
+	fra	athlétisme	n-m$n$n-m-sg	spa	atletismo	n$n-m
 	fra	Athos	np$np-ant	spa	Athos	np$np-ant
 	fra	Atienza	np$np-cog-mf-sp	spa	Atienza	np$np-cog
 	fra	Atlanta	np$np-top-f	spa	Atlanta	np$np-loc$np-loc-f
@@ -3562,7 +3562,7 @@ RL	fra	auditeur	n-GD	spa	oyente	n-mf$n
 	fra	augmenter	vblex	spa	aumentar	vblex
 	fra	Augsburg	np$np-top-m	spa	Augsburgo	np$np-loc$np-loc-m
 	fra	augurer	vblex	spa	augurar	vblex
-	fra	Augustin	np$np-ant$np-ant-m-sg	spa	Augustin	np-ant$np
+	fra	Augustin	np$np-ant-m-sg$np-ant	spa	Augustin	np-ant$np
 	fra	Augustine	np$np-ant-f-sg	spa	Augustine	np
 	fra	Augustinus	np	spa	Augustinus	np
 	fra	Augusto	np$np-ant-m-sg$np-ant	spa	Augusto	np$np-ant
@@ -3638,7 +3638,7 @@ LR	fra	automobile	adj-mf$adj	spa	automovilístico	adj$adj-GD
 RL	fra	automobile	adj-mf$adj	spa	automovilístico	adj-f
 RL	fra	automobile	adj-mf$adj	spa	automovilístico	adj-m$adj-m-sg
 RL	fra	automobile	n-f$n$n-f-ND	spa	automoción	n$n-f
-	fra	automobilisme	n$n-m$n-m-sg	spa	automovilismo	n$n-m
+	fra	automobilisme	n$n-m-sg$n-m	spa	automovilismo	n$n-m
 	fra	automobiliste	n$n-mf	spa	automovilista	n$n-mf
 LR	fra	autonome	adj-mf$adj$adj-mf-ND	spa	autonómico	adj-GD-ND$adj-GD
 LR	fra	autonome	adj-mf$adj$adj-mf-ND	spa	autónomo	adj$adj-GD-ND$adj-GD
@@ -3901,7 +3901,7 @@ LR	fra	bagarrer	vblex	spa	luchar	vblex
 	fra	Baglieto	np	spa	Baglieto	np
 	fra	baguette	n-f$n	spa	varilla	n$n-f
 	fra	Bahamas	np$np-loc-f	spa	Bahamas	np$np-loc$np-loc-f-pl$np-loc-f
-	fra	Bahia	np$np-top-f-sg	spa	Bahía	np
+	fra	Bahia	np$np-top-f-sg	spa	Bahía	np$np-loc
 	fra	Bahía Blanca	np	spa	Bahía Blanca	np
 	fra	Bahrein	np	spa	Bahréin	np
 	fra	Bahreïn	np$np-top-m$np-top-m-sg$np-top	spa	Bahrein	np$np-loc$np-loc-m
@@ -3994,7 +3994,7 @@ RL	fra	Bancaja	np$np-al-f-sg	spa	Bancaixa	np
 	fra	banc	n-m$n$n-m-ND	spa	banco	n-m$n$n-m-sg
 	fra	banc	n-m$n$n-m-ND	spa	banco	n-m$n$n-m-sg
 	fra	Banco Espirito Santo	np	spa	Banco Espirito Santo	np
-	fra	Bandar Seri Begawan	np	spa	Bandar Seri Begawan	np$np-loc
+	fra	Bandar Seri Begawan	np	spa	Bandar Seri Begawan	np
 	fra	bande	n-f$n$n-f-ND	spa	banda	n-f$n$n-f-ND
 RL	fra	bande	n-f$n$n-f-ND	spa	tira	n$n-f
 	fra	bande magnétique	n	spa	banda magnética	n
@@ -4222,11 +4222,11 @@ RL	fra	beau	adj$adj-GD-ND	spa	bello	adj$adj-GD-ND
 RL	fra	beaucoup	adv	spa	muchísimo	adv
 	fra	beaucoup après	adv	spa	mucho después	adv
 	fra	beaucoup avant	adv	spa	mucho antes	adv
-LR	fra	beaucoup de	adj-mf-sp$adj	spa	mucho	adj-GD-ND
-RL	fra	beaucoup de	adj-mf-sp$adj	spa	mucho	adj-ind-f-pl$adj-f$adj-f-pl
-RL	fra	beaucoup de	adj-mf-sp$adj	spa	mucho	adj-ind-f-sg$adj-f-sg
-RL	fra	beaucoup de	adj-mf-sp$adj	spa	mucho	adj-m-pl
-RL	fra	beaucoup de	adj-mf-sp$adj	spa	mucho	adj-ind-m-sg$adj-m$adj-m-sg
+LR	fra	beaucoup de	adj-mf-sp	spa	mucho	adj-GD-ND
+RL	fra	beaucoup de	adj-mf-sp	spa	mucho	adj-ind-f-pl$adj-f$adj-f-pl
+RL	fra	beaucoup de	adj-mf-sp	spa	mucho	adj-ind-f-sg$adj-f-sg
+RL	fra	beaucoup de	adj-mf-sp	spa	mucho	adj-m-pl
+RL	fra	beaucoup de	adj-mf-sp	spa	mucho	adj-ind-m-sg$adj-m$adj-m-sg
 	fra	beaucoup mieux	adv	spa	mucho mejor	adv
 	fra	beaucoup moins	adv	spa	mucho menos	adv
 	fra	beaucoup plus	adv	spa	mucho más	adv
@@ -4396,7 +4396,7 @@ RL	fra	bête	adj-mf$adj$adj-mf-ND	spa	tonto	adj-m$adj-m-sg
 RL	fra	Bethléem	np$np-loc	spa	Belén	np-loc$np$np-loc-m
 	fra	Bétique	np	spa	Bética	np
 	fra	Betis	np$np-al-m-sg	spa	Betis	np
-	fra	béton	n-m$n	spa	hormigón	n$n-m
+	fra	béton	n-m$n$n-m-sg	spa	hormigón	n$n-m
 	fra	bette	n-f$n	spa	acelga	n$n-f
 	fra	Bettini	np$np-cog-mf-sp	spa	Bettini	np
 	fra	Betts	np$np-cog-mf-sp	spa	Betts	np
@@ -4553,7 +4553,7 @@ RL	fra	bizarre	adj-mf$adj$adj-mf-ND	spa	extraño	adj-m$adj-m-pl
 	fra	Blas	np$np-ant-m-sg$np-ant	spa	Blas	np$np-ant
 	fra	Blasco	np$np-cog$np-cog-mf-sp	spa	Blasco	np$np-cog
 	fra	Blaudzun	np	spa	Blaudzun	np
-	fra	blé	n$n-m$n-m-ND	spa	trigo	n$n-m$n-m-ND
+	fra	blé	n-m$n$n-m-ND	spa	trigo	n$n-m$n-m-ND
 	fra	blessé	n$n-m-ND	spa	herido	n$n-m$n-m-ND
 	fra	blesser	vblex	spa	herir	vblex
 RL	fra	blesser	vblex	spa	lesionar	vblex
@@ -4645,12 +4645,12 @@ RL	fra	bon	adj$adj-GD-ND	spa	buen	adj$adj-m-sg
 	fra	Bonano	np	spa	Bonano	np
 	fra	Bonaparte	np-cog-mf-sp$np	spa	Bonaparte	np$np-cog$np-cog-mf
 	fra	bon gré mal gré	adv	spa	a las buenas o a las malas	adv
-LR	fra	bon marché	adj-mf$adj$adj-mf-ND	spa	barato	adj$adj-GD-ND$adj-GD$
-RL	fra	bon marché	adj-mf$adj$adj-mf-ND	spa	barato	adj-f-pl$adj-f
-RL	fra	bon marché	adj-mf$adj$adj-mf-ND	spa	barato	adj-m-sg$adj-m
+LR	fra	bon marché	adj-mf$adj-mf-ND$adj	spa	barato	adj$adj-GD-ND$adj-GD$
+RL	fra	bon marché	adj-mf$adj-mf-ND$adj	spa	barato	adj-f-pl$adj-f
+RL	fra	bon marché	adj-mf$adj-mf-ND$adj	spa	barato	adj-m-sg$adj-m
 LR	fra	bon ménage	n	spa	buenas migas	n-f-pl
 	fra	bonbon	n-m$n$n-m-ND	spa	caramelo	n-m$n$n-m-ND
-	fra	bon sens	n-m$n-m-sg$n	spa	cordura	n-f$n
+	fra	bon sens	n-m$n-m-sg	spa	cordura	n-f$n
 	fra	bon soir	ij	spa	buenas noches	ij
 	fra	Bond	np$np-cog$np-cog-mf-sp	spa	Bond	np$np-cog
 LR	fra	bond	n-m$n	spa	repunte	n$n-m
@@ -4671,7 +4671,7 @@ LR	fra	bonne nuit	ij	spa	buenas noches	ij
 LR	fra	bonnement	adv	spa	simplemente	adv
 	fra	bonnet	n-m$n	spa	gorra	n$n-f
 RL	fra	bonnet	n-m$n	spa	gorro	n-m$n
-	fra	Bono	np$np-cog-mf-sp	spa	Bono	np$np-top
+	fra	Bono	np-cog-mf-sp$np	spa	Bono	np$np-top
 LR	fra	bonté	n-f$n$n-f-ND	spa	bondad	n-f$n$n-f-ND
 RL	fra	bonté	n-f$n$n-f-ND	spa	bondad	n-f$n$n-f-ND
 LR	fra	bookmaker	n-mf	spa	corredor	n-GD$n-GD-pl
@@ -4949,7 +4949,7 @@ RL	fra	budgétaire	adj$adj-mf$adj-mf-ND	spa	presupuestario	adj-m$adj-m-sg
 LR	fra	budgéter	vblex	spa	presupuestar	vblex
 	fra	budgétiser	vblex	spa	presupuestar	vblex
 	fra	Buen Pastor	np	spa	Buen Pastor	np
-	fra	Buenos Aires	np$np-loc-f	spa	Buenos Aires	np$np-loc$np-loc-m
+	fra	Buenos Aires	np-loc-f$np	spa	Buenos Aires	np$np-loc-m$np-loc
 	fra	Buesa	np$np-cog-mf-sp	spa	Buesa	np
 	fra	Buffet	np$np-cog-mf-sp	spa	Buffet	np
 	fra	buffle	n-m$n	spa	búfalo	n$n-m
@@ -4991,7 +4991,7 @@ RL	fra	bureau	n-m$n$n-m-ND	spa	estafeta	n-f$n
 	fra	Burjassot	np$np-top-m-sg	spa	Burjassot	np$np-loc$np-loc-f
 RL	fra	Burjassot	np$np-top-m-sg	spa	Burjasot	np
 	fra	burka	n	spa	burka	n
-	fra	Burkina Faso	np$np-loc-f	spa	Burkina Faso	np$np-loc$np-loc-f
+	fra	Burkina Faso	np-loc-f$np	spa	Burkina Faso	np$np-top-f$np-top
 	fra	Burlada	np	spa	Burlada	np$np-loc-f
 	fra	burqa	n	spa	burqa	n
 	fra	burquini	n	spa	burkini	n
@@ -5081,7 +5081,7 @@ RL	fra	caisse	n-f$n$n-f-ND	spa	fondo	n-m$n-m-sg$n
 	fra	caisse	n-f$n$n-f-ND	spa	caja	n$n-f$n-f-sg
 	fra	caissier	n$n-m	spa	cajero	n$n-m$n-m-sg
 	fra	caisson	n-m$n	spa	arcón	n$n-m
-	fra	Caixa	np$np-al	spa	Caixa	np
+	fra	Caixa	np$np-al$np-al-f-sg	spa	Caixa	np
 	fra	Caixanova	np	spa	Caixanova	np
 	fra	Caja Laboral	np	spa	Caja Laboral	np
 	fra	Cajasol	np	spa	Cajasol	np
@@ -5114,7 +5114,7 @@ LR	fra	califonien	adj	spa	californiano	adj$adj-m-sg
 	fra	call	np	spa	call	np
 	fra	Calleja	np$np-cog$np-cog-mf-sp	spa	Calleja	np$np-cog
 LR	fra	calmar	n-m$n	spa	calamar	n$n-m
-	fra	calme	n-m$n-m-ND	spa	calma	n-f$n$n-f-ND
+	fra	calme	n-m$n-m-ND	spa	calma	n$n-f$n-f-ND
 LR	fra	calme	adj$adj-mf$adj-mf-ND	spa	tranquilo	adj$adj-GD-ND$adj-GD
 	fra	calmé	adj	spa	sosegado	adj$adj-m-sg
 	fra	Calmels	np	spa	Calmels	np
@@ -5164,7 +5164,7 @@ LR	fra	canal	n-m$n$n-m-ND	spa	canal	n-m$n$n-m-sg
 	fra	Canal de Bristol	np	spa	Canal de Bristol	np
 	fra	Canal de Saint Georges	np	spa	Canal de San Jorge	np
 	fra	Canal du Midi	np	spa	Canal del Midi	np
-	fra	Canal Plus	np$np-al-m-sg	spa	Canal Plus	np$np-al
+	fra	Canal Plus	np	spa	Canal Plus	np
 	fra	canal	n-m$n$n-m-ND	spa	canal	n-m$n$n-m-sg
 	fra	canalisation	n-f$n	spa	canalización	n$n-f$n-f-sg
 	fra	Canals	np$np-top-m-sg	spa	Canals	np$np-cog
@@ -5234,7 +5234,7 @@ LR	fra	canton	n-m$n$n-m-ND	spa	esquina	n-f$n$n-f-ND
 	fra	Cap Horn	np	spa	cabo de Hornos	np
 	fra	Cap Kennedy	np	spa	Cabo Kennedy	np$np-loc
 	fra	Cap Saint Vincent	np	spa	Cabo San Vicente	np
-	fra	Cap Vert	np$np-loc-f	spa	Cabo Verde	np$np-loc$np-loc-m
+	fra	Cap Vert	np-loc-f$np	spa	Cabo Verde	np$np-loc$np-loc-m
 	fra	cape	n$n-f$n-f-ND	spa	capa	n-f$n$n-f-ND
 	fra	Cape des Aiguilles	np	spa	Cabo de Agujas	np
 	fra	Capecchi	np$np-cog-mf-sp	spa	Capecchi	np
@@ -5322,7 +5322,7 @@ LR	fra	caressant	adj	spa	cariñoso	adj$adj-m-sg$adj-m
 	fra	Carlota	np$np-ant-f-sg$np-ant	spa	Carlota	np$np-ant
 	fra	Carme	np$np-ant-f-sg	spa	Carme	np$np-ant
 	fra	Carmelo	np$np-ant-m-sg$np-ant	spa	Carmelo	np$np-ant
-	fra	Carmen	np$np-ant-f-sg$np-ant	spa	Carmen	np$np-ant$np-ant-f-sg
+	fra	Carmen	np$np-ant-f-sg$np-ant	spa	Carmen	np-ant$np$np-ant-f-sg
 	fra	Carmona	np$np-cog$np-cog-mf-sp	spa	Carmona	np$np-cog$np-cog-mf
 	fra	carnaval	n-m$n$n-m-sp	spa	carnaval	n$n-m$n-m-ND
 	fra	carnet	n-m$n	spa	carné	n-m$n
@@ -5330,7 +5330,7 @@ RL	fra	carnet	n-m$n	spa	carnet	n$n-m
 	fra	Carod	np$np-cog$np-cog-mf-sp	spa	Carod	np
 	fra	Carole	np-ant-f-sg$np$np-ant	spa	Carole	np$np-ant
 	fra	Carolina	np$np-ant$np-ant-f-sg	spa	Carolina	np$np-ant$np-ant-f-sg
-	fra	Caroline	np-ant-f-sg$np$np-ant	spa	Caroline	np$np-ant
+	fra	Caroline	np$np-ant-f-sg$np-ant	spa	Caroline	np$np-ant
 	fra	Caroline du Nord	np$np-top-f$np-top-ind-f	spa	Carolina del Norte	np$np-loc-f
 	fra	Caroline du Sud	np$np-top-f$np-top-ind-f	spa	Carolina del Sur	np$np-loc-f
 	fra	Carolines	np	spa	Carolinas	np$np-loc-f-pl
@@ -5394,7 +5394,7 @@ RL	fra	cash-flow	n$n-m	spa	cash-flow	n
 	fra	Casinos	np$np-top-m-sg	spa	Casinos	np$np-loc$np-loc-f
 	fra	Casio	np$np-ant	spa	Casio	np$np-ant
 	fra	Caspe	np-loc$np	spa	Caspe	np-loc$np$np-loc-f
-	fra	casque	n-m$n$n-m-ND	spa	casco	n-m$n$n-m-sg
+	fra	casque	n-m$n$n-m-ND	spa	casco	n$n-m$n-m-sg
 	fra	Cassandra	np$np-ant-f-sg$np-ant	spa	Cassandra	np-ant$np
 	fra	Cassandre	np$np-ant-f-sg$np-ant	spa	Casandro	np$np-ant
 	fra	cassation	n-f$n	spa	casación	n$n-f
@@ -5421,7 +5421,7 @@ RL	fra	Castellón	np$np-cog-mf-sp	spa	Castellón	np$np-cog
 	fra	Castille	np$np-loc-f	spa	Castilla	np$np-loc$np-loc-f
 	fra	Castille-et-Léon	np$np-loc-f	spa	Castilla y León	np$np-loc-f$np-loc
 RL	fra	Castille-et-Léon	np$np-loc-f	spa	Castilla-León	np$np-loc
-	fra	Castille-La Manche	np$np-top-f-sg	spa	Castilla-La Mancha	np$np-loc-f$np-loc
+	fra	Castille-La Manche	np	spa	Castilla-La Mancha	np$np-loc-f$np-loc
 	fra	casting	n-m$n	spa	casting	n
 	fra	castration	n-f$n$n-f-ND	spa	castración	n$n-f$n-f-ND
 	fra	Castries	np$np-top-f-sg	spa	Castries	np
@@ -5570,11 +5570,11 @@ LR	fra	celtique	adj-mf$adj$adj-mf-ND	spa	céltico	adj$adj-GD
 RL	fra	celtique	adj-mf$adj$adj-mf-ND	spa	céltico	adj-f$adj-f-pl
 RL	fra	celtique	adj-mf$adj$adj-mf-ND	spa	céltico	adj-m$adj-m-sg
 LR	fra	celui	prn$prn-tn-f-pl$prn-tn	spa	aquel	prn$prn-tn-m$prn-tn
-	fra	celui dont	rel$rel-nt-sg	spa	aquel del que	rel-nn
-	fra	celui que	rel$rel-nt$rel-nt-sg	spa	el cual	rel-an$rel-an-nt
-	fra	celui que	rel$rel-nt$rel-nt-sg	spa	el que	rel-an-nt-sg
-LR	fra	celui que	rel$rel-nt$rel-nt-sg	spa	el que	rel$rel-an$rel-an-m
-RL	fra	celui que	rel$rel-nt$rel-nt-sg	spa	el que	rel-nn-m-sg$rel-nn
+	fra	celui dont	rel	spa	aquel del que	rel-nn
+	fra	celui que	rel$rel-nt-sg$rel-nt	spa	el cual	rel-an$rel-an-nt
+	fra	celui que	rel$rel-nt-sg$rel-nt	spa	el que	rel-an-nt-sg
+LR	fra	celui que	rel$rel-nt-sg$rel-nt	spa	el que	rel$rel-an$rel-an-m
+RL	fra	celui que	rel$rel-nt-sg$rel-nt	spa	el que	rel-nn-m-sg$rel-nn
 	fra	celui qui	rel$rel-m$rel-m-pl	spa	el que	rel$rel-an$rel-an-m
 	fra	celui-ci	prn$prn-tn$prn-tn-f-sg	spa	éste	prn$prn-tn-m$prn-tn
 RL	fra	celui-ci	prn$prn-tn$prn-tn-f-sg	spa	este	prn$prn-tn-m$prn-tn$prn-tn-m-sg
@@ -5625,7 +5625,7 @@ RL	fra	cercle	n-m$n$n-m-ND	spa	corro	n-m$n$n-m-ND
 LR	fra	cercler	vblex	spa	rodear	vblex
 	fra	cercueil	n-m$n	spa	ataúd	n-m$n
 	fra	Cerdagne	np$np-top-f-sg	spa	Cerdaña	np$np-loc
-	fra	Cerdanyola del Vallès	np$np-top-f-sg	spa	Cerdanyola del Vallès	np$np-loc-f
+	fra	Cerdanyola del Vallès	np	spa	Cerdanyola del Vallès	np$np-loc-f
 LR	fra	cérébral	adj$adj-f$	spa	cerebral	adj$adj-mf$adj-mf-sg
 LR	fra	cérébral	adj-m	spa	cerebral	adj$adj-mf$adj-mf-sg
 RL	fra	cérébral	adj-GD$adj-GD-ND	spa	cerebral	adj$adj-mf$adj-mf-sg
@@ -5714,7 +5714,7 @@ LR	fra	chambrer	vblex	spa	aislar	vblex
 	fra	champignon	n-m	spa	seta	n-f$n
 	fra	champion	n$n-m$n-m-ND	spa	campeón	n$n-m$n-m-sg
 	fra	championnat	n-m$n$n-m-ND	spa	campeonato	n-m$n$n-m-ND
-	fra	Champs Élysées	np$np-loc-f-pl	spa	Campos Elíseos	np
+	fra	Champs Élysées	np-loc-f-pl$np	spa	Campos Elíseos	np
 	fra	chance	n-f$n$n-f-ND	spa	suerte	n$n-f$n-f-sg
 	fra	chancelier	n$n-m	spa	canciller	n$n-m
 	fra	chancelier	n$n-m	spa	canciller	n$n-m
@@ -5743,8 +5743,8 @@ RL	fra	changer	vblex	spa	trocar	vblex
 LR	fra	chanteur	n-f	spa	cantante	n-mf$n$n-mf-ND
 LR	fra	chanteur	n$n-m	spa	cantante	n-mf$n$n-mf-ND
 RL	fra	chanteur	n-GD$n-GD-ND	spa	cantante	n-mf$n$n-mf-ND
-LR	fra	chantier	n-m$n-m-ND	spa	obra	n-f$n$n-f-ND
-	fra	chantier naval	n-m$n-m-sg$n	spa	astillero	n$n-m
+LR	fra	chantier	n-m$n-m-sg	spa	obra	n-f$n$n-f-ND
+	fra	chantier naval	n-m$n	spa	astillero	n$n-m
 	fra	chaos	n-m$n	spa	caos	n$n-m$n-m-sp
 LR	fra	chaotique	adj-mf$adj	spa	caótico	adj$adj-GD
 RL	fra	chaotique	adj-mf$adj	spa	caótico	adj-f
@@ -5785,7 +5785,7 @@ RL	fra	charismatique	adj$adj-mf	spa	carismático	adj-m$adj-m-sg
 	fra	Charles Martel	np$np-ant	spa	Carlos Martel	np$np-ant
 	fra	Charleville-Mézières	np$np-loc-f	spa	Charleville-Mézières	np
 	fra	Charlie	np$np-ant$np-ant-m-sg	spa	Charlie	np$np-ant
-	fra	Charlotte	np-ant-f-sg$np$np-ant	spa	Charlotte	np-ant$np
+	fra	Charlotte	np$np-ant-f-sg$np-ant	spa	Charlotte	np-ant$np
 	fra	Charlotte Amalie	np	spa	Charlotte Amalie	np
 	fra	charme	n-m$n$n-m-ND	spa	encanto	n$n-m$n-m-ND
 LR	fra	charmer	vblex	spa	encantar	vblex$vblex-vbact
@@ -5941,7 +5941,7 @@ LR	fra	choir	vblex	spa	caer	vblex
 RL	fra	choisir	vblex	spa	elegir	vblex$vblex-tv
 LR	fra	choix	n-m-sp$n-m	spa	elección	n-f$n$n-f-sg
 	fra	choléra	n-m$n	spa	cólera	n-m$n-m-sg
-	fra	chômage	n$n-m$n-m-ND	spa	paro	n$n-m$n-m-ND
+	fra	chômage	n$n-m$n-m-ND	spa	paro	n-m$n$n-m-ND
 RL	fra	chômage	n$n-m$n-m-ND	spa	desempleo	n$n-m$n-m-sg
 LR	fra	chômé	adj$adj-f	spa	inhábil	adj$adj-mf$adj-mf-sg
 LR	fra	chômé	adj-m	spa	inhábil	adj$adj-mf$adj-mf-sg
@@ -6022,11 +6022,11 @@ RL	fra	cinématographique	adj$adj-mf$adj-mf-ND	spa	cinematográfico	adj-m$adj-m-
 	fra	cinq	num$num-mf-sp	spa	cinco	num$num-mf-sp$
 	fra	cinq cents	num$num-mf-pl	spa	quinientos	num$num-GD-sp$
 	fra	cinquantaine	n-f$n	spa	cincuentena	n$n-f
-	fra	cinquante	num$num-mf-pl	spa	cincuenta	num$$num-mf
-	fra	cinquante et un	det	spa	cincuenta y uno	det$det-def
-	fra	cinquante et un	num	spa	cincuenta y uno	num$$num-m
+	fra	cinquante	num$num-mf-pl	spa	cincuenta	num$$num-mf-sp$num-mf
+	fra	cinquante et un	det	spa	cincuenta y uno	det-def$det
+	fra	cinquante et un	num	spa	cincuenta y uno	num$$num-mf
 	fra	cinquante-cinq	num$num-mf-sp	spa	cincuenta y cinco	num$$num-mf
-	fra	cinquante-deux	num$num-mf-sp	spa	cincuenta y dos	num-mf$num-mf-sp$num$
+	fra	cinquante-deux	num$num-mf-sp	spa	cincuenta y dos	num-mf$num$num-mf-sp$
 	fra	cinquante-huit	num$num-mf-sp	spa	cincuenta y ocho	num$$num-mf
 	fra	cinquante-neuf	num$num-mf-sp	spa	cincuenta y nueve	num$$num-mf
 	fra	cinquante-quatre	num$num-mf-sp	spa	cincuenta y cuatro	num$$num-mf
@@ -6075,7 +6075,7 @@ LR	fra	cité	n-f$n$n-f-ND	spa	ciudad	n-f$n$n-f-sg
 	fra	citron	n-m$n$n-m-ND	spa	limón	n-m$n$n-m-ND
 	fra	CiU	np$np-al-f-sg	spa	CiU	np$np-ant
 	fra	Ciudad Real	np	spa	Ciudad Real	np$np-loc-f
-	fra	Ciutat	np	spa	Ciutat	np
+	fra	Ciutat	np	spa	Ciutat	np$np-al
 	fra	civelle	n-f$n	spa	angula	n$n-f
 	fra	Civera	np$np-cog$np-cog-mf-sp	spa	Civera	np
 	fra	Civic	np$np-al	spa	Civic	np
@@ -6127,7 +6127,7 @@ RL	fra	classique	adj-mf$adj$adj-mf-ND	spa	clásico	adj-m$adj-m-sg
 	fra	Claude	np-ant$np-ant-m-sg$np	spa	Claude	np$np-ant
 	fra	Claudia	np$np-ant-f-sg$np-ant	spa	Claudia	np$np-ant$np-ant-f-sg
 	fra	Claudine	np-ant-f-sg$np$np-ant	spa	Claudine	np$np-ant
-	fra	Claudio	np$np-ant-m-sg$np-ant	spa	Claudio	np$np-ant
+	fra	Claudio	np$np-ant-m-sg$np-ant	spa	Claudio	np-ant$np
 	fra	clause	n-f$n$n-f-ND	spa	cláusula	n$n-f$n-f-sg
 	fra	clause	n-f$n$n-f-ND	spa	cláusula	n$n-f$n-f-sg
 	fra	Clavero	np$np-cog-mf-sp	spa	Clavero	np$np-cog
@@ -6322,7 +6322,7 @@ LR	fra	colocation	n-f$n	spa	colocación	n$n-f$n-f-sg
 	fra	Cologne	np$np-loc-f	spa	Colonia	np
 	fra	Cologne	np$np-loc-f	spa	Colonia	np
 	fra	Coloma	np$np-cog-mf-sp$np-cog	spa	Coloma	np$np-cog$np-cog-mf
-	fra	Colom	np$np-cog-mf-sp$np-cog	spa	Colom	np$np-cog$np-cog-mf
+	fra	Colom	np-cog-mf-sp$np$np-cog	spa	Colom	np$np-cog$np-cog-mf
 	fra	Colombie	np$np-loc-f	spa	Colombia	np$np-top-f$np-top
 	fra	Colombie	np$np-loc-f	spa	Colombia	np$np-top-f$np-top
 	fra	colombien	adj$adj-GD-ND	spa	colombiano	adj$adj-m-sg
@@ -6352,7 +6352,7 @@ LR	fra	combattant	adj$adj-f	spa	combatiente	adj-mf$adj$adj-mf-sg
 LR	fra	combattant	adj-m	spa	combatiente	adj-mf$adj$adj-mf-sg
 RL	fra	combattant	adj-GD	spa	combatiente	adj-mf$adj$adj-mf-sg
 	fra	combattre	vblex	spa	combatir	vblex
-	fra	combien	rel-adv$adv	spa	cuanto	rel$rel-adv$
+	fra	combien	rel-adv$adv	spa	cuanto	adv$rel-adv$
 LR	fra	combien	prn-itg-mf-sp$itg$prn-itg	spa	cuánto	prn-itg-GD-ND
 RL	fra	combien	prn-itg-mf-sp$itg$prn-itg	spa	cuánto	prn-itg-f-pl
 RL	fra	combien	prn-itg-mf-sp$itg$prn-itg	spa	cuánto	prn-itg-f-sg
@@ -6386,7 +6386,7 @@ RL	fra	commandement	n-m$n$n-m-ND	spa	mandamiento	n$n-m
 	fra	commandite	n$n-f	spa	comandita	n
 	fra	commando	n$n-m$n-m-ND	spa	comando	n$n-m$n-m-ND
 	fra	comme	pr	spa	como	pr
-	fra	comme	rel$rel-adv	spa	como	rel$rel-adv
+	fra	comme	rel$rel-adv	spa	como	rel
 RL	fra	comme	rel$rel-adv	spa	cual	rel-adv
 	fra	comme au temps où	cnjadv	spa	como cuando	cnjadv
 LR	fra	comme étant	cnjadv	spa	como	cnjadv
@@ -6514,7 +6514,7 @@ RL	fra	compilation	n-f$n	spa	recopilatorio	n-m$n
 	fra	compiler	vblex	spa	compilar	vblex
 LR	fra	complainte	n-f$n$n-f-ND	spa	querella	n$n-f$n-f-ND
 	fra	complaire	vblex	spa	complacer	vblex
-	fra	Complejo Ática	np$np-top-m	spa	Complejo Ática	np$np-al
+	fra	Complejo Ática	np$np-top-m	spa	Complejo Ática	np$np-loc-m
 	fra	complément	n-m$n$n-m-ND	spa	complemento	n$n-m$n-m-ND
 LR	fra	complémentaire	adj$adj-mf$adj-mf-ND	spa	complementario	adj$adj-GD-ND$adj-GD
 RL	fra	complémentaire	adj$adj-mf$adj-mf-ND	spa	complementario	adj-f
@@ -6939,7 +6939,7 @@ LR	fra	contester	vblex	spa	apelar	vblex
 	fra	continent	n-m$n$n-m-ND	spa	continente	n-m$n$n-m-ND
 LR	fra	continental	adj-f$adj-f-sg	spa	continental	adj-mf$adj$adj-mf-pl
 LR	fra	continental	adj-m$adj-m-sg	spa	continental	adj-mf$adj$adj-mf-pl
-RL	fra	continental	adj$adj-GD-ND$$adj-GD	spa	continental	adj-mf$adj$adj-mf-pl
+RL	fra	continental	adj$adj-GD-ND$adj-GD$	spa	continental	adj-mf$adj$adj-mf-pl
 	fra	contingence	n-f$n	spa	contingencia	n$n-f$n-f-sg
 	fra	contingent	n-m$n$n-m-ND	spa	contingente	n$n-m$n-m-ND
 LR	fra	contingent	adj-f	spa	contingente	adj-mf$adj
@@ -7086,7 +7086,7 @@ RL	fra	copropriétaire	n-mf$n	spa	copropietario	n-f
 RL	fra	copropriétaire	n-mf$n	spa	copropietario	n$n-m
 	fra	copyright	n-m$n	spa	copyright	n$n-m$n-m-sg
 	fra	coq	n-m$n$n-m-ND	spa	gallo	n$n-m$n-m-ND
-LR	fra	coque	n-f$n$n-f-ND	spa	casco	n-m$n$n-m-sg
+LR	fra	coque	n-f$n$n-f-ND	spa	casco	n$n-m$n-m-sg
 	fra	coquille	n-f$n	spa	cáscara	n-f$n
 RL	fra	coquille	n-f$n	spa	concha	n-f$n
 	fra	coquin	adj	spa	pícaro	adj$adj-m-sg
@@ -7110,11 +7110,11 @@ LR	fra	Cordillère Cantabrique	np	spa	Cordillera Cantábrica	np
 	fra	cordonnier	n$n-m	spa	zapatero	n$n-m
 	fra	Cordoue	np$np-top-f-sg	spa	Córdoba	np$np-loc$np-loc-f
 	fra	Cordoue	np$np-top-f-sg	spa	Córdoba	np$np-loc$np-loc-f
-	fra	Corée	np$np-loc-f	spa	Corea	np$np-loc$np-loc-f
-	fra	Corée	np$np-loc-f	spa	Corea	np$np-loc$np-loc-f
-	fra	Corée	np$np-loc-f	spa	Corea	np$np-loc$np-loc-f
+	fra	Corée	np$np-top-f-sg$np-top-f$np-top	spa	Corea	np$np-loc$np-loc-f
+	fra	Corée	np$np-top-f-sg$np-top-f$np-top	spa	Corea	np$np-loc$np-loc-f
+	fra	Corée	np$np-top-f-sg$np-top-f$np-top	spa	Corea	np$np-loc$np-loc-f
 	fra	Corée du Nord	np$np-loc-f	spa	Corea del Norte	np$np-loc-f$np-loc
-	fra	Corée du Sud	np$np-top$np-top-f-sg$np-top-f	spa	Corea del Sur	np$np-top
+	fra	Corée du Sud	np$np-top$np-top-f$np-top-f-sg	spa	Corea del Sur	np$np-top
 	fra	coréen	adj$adj-GD-ND	spa	coreano	adj$adj-m-sg
 	fra	Corella	np$np-cog-mf-sp	spa	Corella	np$np-cog
 	fra	Corfou	np$np-top-m-sg	spa	Corfu	np
@@ -7197,7 +7197,7 @@ RL	fra	côte	n-f$n$n-f-ND	spa	chuletón	n-m
 RL	fra	côte	n-f$n$n-f-ND	spa	cuesta	n-f$n
 RL	fra	côte	n-f$n$n-f-ND	spa	orilla	n-f$n$n-f-ND
 	fra	côté	n-m$n$n-m-ND	spa	lado	n-m$n$n-m-ND
-	fra	Côte d'Azur	np$np-loc-f	spa	Costa Azul	np$np-loc$np-loc-m
+	fra	Côte d'Azur	np-loc-f$np	spa	Costa Azul	np$np-loc-m
 	fra	côte des Esclaves	np	spa	costa de los Esclavos	np
 	fra	Côte d'Ivoire	np$np-loc-f	spa	Costa de Marfil	np$np-loc$np-loc-f
 	fra	Côte-d'Or	np$np-loc-f	spa	Costa de Oro	np$np-loc-m
@@ -7772,7 +7772,7 @@ RL	fra	de castro	adj-mf-sp	spa	castreño	adj-m-sg
 LR	fra	de championnat	adj-mf	spa	liguero	adj-GD
 RL	fra	de championnat	adj-mf	spa	liguero	adj-f
 RL	fra	de championnat	adj-mf	spa	liguero	adj$adj-m-sg$adj-m
-LR	fra	de commerce et de gestion	adj-mf-sp$adj	spa	empresarial	adj$adj-mf$adj-mf-ND
+LR	fra	de commerce et de gestion	adj-mf-sp	spa	empresarial	adj$adj-mf$adj-mf-ND
 LR	fra	de concert	adv	spa	conjuntamente	adv
 LR	fra	de conseil	adj-mf-sp	spa	asesor	adj-GD-ND
 RL	fra	de conseil	adj-mf-sp	spa	asesor	adj-f-pl
@@ -7937,9 +7937,9 @@ LR	fra	de tout temps	adv	spa	desde siempre	adv
 RL	fra	de toute façon	adv	spa	en cualquier caso	adv
 	fra	de toute manière	adv	spa	de todas formas	adv
 	fra	de toutes ses forces	adv	spa	con todas sus fuerzas	adv
-LR	fra	de travail	adj-mf-sp$adj$adj-mf	spa	laboral	adj-mf-ND
-RL	fra	de travail	adj-mf-sp$adj$adj-mf	spa	laboral	adj-mf-pl
-RL	fra	de travail	adj-mf-sp$adj$adj-mf	spa	laboral	adj$adj-mf$adj-mf-sg
+LR	fra	de travail	adj-mf-sp	spa	laboral	adj-mf-ND
+RL	fra	de travail	adj-mf-sp	spa	laboral	adj-mf-pl
+RL	fra	de travail	adj-mf-sp	spa	laboral	adj$adj-mf$adj-mf-sg
 RL	fra	de trop	adv	spa	sobradamente	adv
 	fra	Debussy	np-cog-mf-sp$np	spa	Debussy	np$np-cog$np-cog-mf
 	fra	début	n$n-m$n-m-ND	spa	comienzo	n$n-m$n-m-sg
@@ -8034,7 +8034,7 @@ RL	fra	déclaration	n-f$n$n-f-ND	spa	informe-propuesta	n-m
 	fra	déclencher	vblex	spa	activar	vblex
 	fra	déclencheur	n-m$n	spa	desencadenante	n$n-m
 	fra	déclin	n-m$n$n-m-ND	spa	decadencia	n$n-f$n-f-ND
-RL	fra	déclin	n-m$n$n-m-ND	spa	ocaso	n-m$n
+RL	fra	déclin	n-m$n$n-m-ND	spa	ocaso	n$n-m
 	fra	déclinaison	n-f$n	spa	declinación	n$n-f
 LR	fra	déclinatoire	n-m	spa	declinatorio	n-GD
 RL	fra	déclinatoire	n-m	spa	declinatorio	n-f
@@ -8063,7 +8063,7 @@ RL	fra	décourager	vblex	spa	amilanar	vblex
 RL	fra	découvrir	vblex	spa	averiguar	vblex
 	fra	décrément	n-m$n	spa	decremento	n$n-m
 LR	fra	décret	n-m$n$n-m-ND	spa	decreto	n$n-m$n-m-sg
-LR	fra	décret royal	n-m$n-m-pl	spa	RD	n-acr-m-sg$n
+LR	fra	décret royal	n-m-pl	spa	RD	n-acr-m-sg$n
 LR	fra	décret royal	n-m-sg	spa	RD	n-acr-m-sg$n
 RL	fra	décret royal	n-m-ND	spa	RD	n-acr-m-sg$n
 	fra	décréter	vblex	spa	decretar	vblex$vblex-tv
@@ -8206,7 +8206,7 @@ RL	fra	déloyal	adj-GD	spa	desleal	adj-mf$adj$adj-mf-sg
 	fra	demain	adv	spa	mañana	adv
 	fra	demande	n-f$n$n-f-ND	spa	demanda	n$n-f$n-f-sg
 RL	fra	demande	n-f$n$n-f-ND	spa	petición	n$n-f$n-f-sg
-RL	fra	demande	n-f$n$n-f-ND	spa	requerimiento	n-m$n$n-m-sg
+RL	fra	demande	n-f$n$n-f-ND	spa	requerimiento	n$n-m$n-m-sg
 	fra	demande	n-f$n$n-f-ND	spa	solicitud	n$n-f$n-f-sg
 	fra	demande	n-f$n$n-f-ND	spa	solicitud	n$n-f$n-f-sg
 	fra	demande	n-f$n$n-f-ND	spa	solicitud	n$n-f$n-f-sg
@@ -8441,9 +8441,9 @@ RL	fra	désastreux	adj-m-sp$adj	spa	desastroso	adj$adj-m-sg
 	fra	désavantage	n-m	spa	desventaja	n-f$n$n-f-sg
 	fra	désavouer	vblex	spa	desautorizar	vblex
 	fra	dès à présent	adv	spa	desde ahora	adv
-LR	fra	des entreprises	adj-mf-sp$adj	spa	empresarial	adj$adj-mf$adj-mf-ND
-RL	fra	des entreprises	adj-mf-sp$adj	spa	empresarial	adj-mf-pl
-RL	fra	des entreprises	adj-mf-sp$adj	spa	empresarial	adj-mf-sg
+LR	fra	des entreprises	adj-mf-sp	spa	empresarial	adj$adj-mf$adj-mf-ND
+RL	fra	des entreprises	adj-mf-sp	spa	empresarial	adj-mf-pl
+RL	fra	des entreprises	adj-mf-sp	spa	empresarial	adj-mf-sg
 	fra	dès l'instant où	cnjadv	spa	desde el momento en que	cnjadv
 	fra	dès lors	adv	spa	desde entonces	adv
 	fra	dès lors que	cnjadv	spa	desde el momento que	cnjadv
@@ -8586,7 +8586,7 @@ RL	fra	détruire	vblex	spa	arrasar	vblex
 LR	fra	deuil	n-m$n$n-m-ND	spa	duelo	n$n-m$n-m-ND
 RL	fra	deuil	n-m$n$n-m-ND	spa	luto	n$n-m$n-m-ND
 	fra	Deusto	np$np-cog-mf-sp	spa	Deusto	np
-	fra	Deutsche	np$np-al	spa	Deutsche	np
+	fra	Deutsche	np$np-al$np-al-m-sg	spa	Deutsche	np
 	fra	Deutshe	np	spa	Deutshe	np
 	fra	deux	num$num-mf$num-mf-pl	spa	dos	num-mf$num$num-mf-sp$
 	fra	deux cents	num$num-mf-pl	spa	doscientos	num$$num-mf
@@ -9155,9 +9155,9 @@ LR	fra	du moins	adv	spa	al menos	adv
 	fra	Dubois	np$np-cog-mf-sp$np-cog	spa	Dubois	np$np-cog$np-cog-mf
 LR	fra	du plus loin que	cnjadv	spa	por más lejos que	cnjadv
 	fra	du point de vue de	pr	spa	desde el punto de vista de	pr
-LR	fra	du procès	adj-mf-sp$adj	spa	procesal	adj$adj-mf-ND$adj-mf
-RL	fra	du procès	adj-mf-sp$adj	spa	procesal	adj-mf-pl
-RL	fra	du procès	adj-mf-sp$adj	spa	procesal	adj-mf-sg
+LR	fra	du procès	adj-mf-sp	spa	procesal	adj$adj-mf-ND$adj-mf
+RL	fra	du procès	adj-mf-sp	spa	procesal	adj-mf-pl
+RL	fra	du procès	adj-mf-sp	spa	procesal	adj-mf-sg
 LR	fra	du real club deportivo de la coruña	adj-mf-sp	spa	deportivista	adj$adj-mf-ND
 RL	fra	du real club deportivo de la coruña	adj-mf-sp	spa	deportivista	adj-mf-pl
 RL	fra	du real club deportivo de la coruña	adj-mf-sp	spa	deportivista	adj-mf-sg
@@ -9518,17 +9518,17 @@ LR	fra	élargissement	n-m$n-m-ND	spa	ampliación	n-f$n$n-f-sg
 LR	fra	El Aaiun	np	spa	El Aaiún	np
 	fra	ElBaradei	np-cog-mf-sp$np	spa	ElBaradei	np$np-ant
 	fra	El Correo	np$np-al-m	spa	El Correo	np$np-al-m
-	fra	El Correo Español	np$np-al-m-sg	spa	El Correo Español	np
+	fra	El Correo Español	np	spa	El Correo Español	np
 	fra	El Diario Montañés	np	spa	El Diario Montañés	np
-	fra	El Diario Vasco	np$np-al-m-sg	spa	El Diario Vasco	np$np-al-m-sg
+	fra	El Diario Vasco	np	spa	El Diario Vasco	np$np-al-m-sg
 	fra	Elbe	np$np-loc-f	spa	Elba	np$np-ant
 	fra	El Greco	np-ant$np-ant-m-sg	spa	El Greco	np-ant$np
 	fra	El Hierro	np	spa	El Hierro	np
-	fra	El Mundo	np$np-al-m-sg	spa	El Mundo	np
+	fra	El Mundo	np	spa	El Mundo	np
 	fra	El Mundo del País Vasco	np	spa	El Mundo del País Vasco	np
 	fra	El Niño	np$np-al	spa	El Niño	np
-	fra	El País	np$np-al-m-sg	spa	El País	np$np-al-m
-	fra	El Prat	np$np-top-m-sg	spa	El Prat	np$np-loc-f
+	fra	El País	np	spa	El País	np$np-al-m
+	fra	El Prat	np	spa	El Prat	np$np-loc-f
 	fra	Elbrouz	np	spa	Elbruz	np
 RL	fra	Elbrouz	np	spa	Elbrus	np
 	fra	Elche	np$np-top-m-sg	spa	Elx	np$np-loc$np-loc-f
@@ -9858,9 +9858,9 @@ RL	fra	en long, en large et en travers	adv	spa	con pelos y señales	adv
 	fra	en plus	adv	spa	además	adv
 	fra	en port dû	adv	spa	a franquear en su destino	adv
 RL	fra	en port dû	adv	spa	a franquear en destino	adv
-LR	fra	en pourcentage	adj-mf-sp$adj	spa	porcentual	adj-mf-ND
-RL	fra	en pourcentage	adj-mf-sp$adj	spa	porcentual	adj$adj-mf-pl$adj-mf
-RL	fra	en pourcentage	adj-mf-sp$adj	spa	porcentual	adj-mf-sg
+LR	fra	en pourcentage	adj-mf-sp	spa	porcentual	adj-mf-ND
+RL	fra	en pourcentage	adj-mf-sp	spa	porcentual	adj$adj-mf-pl$adj-mf
+RL	fra	en pourcentage	adj-mf-sp	spa	porcentual	adj-mf-sg
 	fra	en qualité de définitif	adv	spa	con carácter definitivo	adv
 	fra	en raison de	pr	spa	debido a	pr
 	fra	en rangée	adv	spa	en hilera	adv
@@ -9886,9 +9886,9 @@ LR	fra	en tout temps	adv	spa	en cualquier momento	adv
 	fra	en toute justice	adv	spa	en justicia	adv
 	fra	en triple exemplaire	cnjadv	spa	por triplicado	cnjadv
 	fra	en vertu de	pr	spa	en virtud de	pr
-LR	fra	en vigueur	adj-mf-sp$adj$adj-mf	spa	vigente	adj$adj-mf$adj-mf-ND
-RL	fra	en vigueur	adj-mf-sp$adj$adj-mf	spa	vigente	adj-mf-pl
-RL	fra	en vigueur	adj-mf-sp$adj$adj-mf	spa	vigente	adj-mf-sg
+LR	fra	en vigueur	adj-mf-sp	spa	vigente	adj$adj-mf$adj-mf-ND
+RL	fra	en vigueur	adj-mf-sp	spa	vigente	adj-mf-pl
+RL	fra	en vigueur	adj-mf-sp	spa	vigente	adj-mf-sg
 	fra	en vigueur à partir de	pr	spa	con efecto a partir de	pr
 RL	fra	en vigueur à partir de	pr	spa	con efectos a partir de	pr
 	fra	en vue de	pr	spa	con vistas a	pr
@@ -9926,7 +9926,7 @@ LR	fra	encrasser	vblex	spa	atascar	vblex
 	fra	encription	n$n-f	spa	encriptación	n$n-f
 	fra	encyclopédie	n-f$n$n-f-ND	spa	enciclopedia	n$n-f$n-f-ND
 	fra	Enders	np	spa	Enders	np
-	fra	Endesa	np$np-al-f-sg	spa	Endesa	np$np-al-m-sg
+	fra	Endesa	np$np-al-f-sg	spa	Endesa	np$np-al$np-al-m-sg
 	fra	endettement	n-m$n	spa	endeudamiento	n$n-m$n-m-sg
 	fra	endetter	vblex	spa	endeudar	vblex
 LR	fra	endogène	adj-mf	spa	endógeno	adj$adj-GD
@@ -10320,15 +10320,15 @@ LR	fra	ESK	n-acr	spa	ESK	n-acr
 	fra	espagnol	adj$adj-GD-ND$	spa	español	adj$adj-GD-ND
 	fra	espagnol	n$n-m-ND$n-m	spa	español	n$n-m$n-m-sg
 	fra	Espanyol	np$np-al-m-sg	spa	Espanyol	np
-	fra	Espasa	np$np-cog-mf-sp	spa	Espasa	np$np-cog
-	fra	Espasa Calpe	np$np-al-f-sg	spa	Espasa Calpe	np$np-al-f
+	fra	Espasa	np$np-al-f-sg	spa	Espasa	np$np-cog
+	fra	Espasa Calpe	np	spa	Espasa Calpe	np$np-al-f
 	fra	Espec	np	spa	Espec	np
 	fra	espèce	n-f$n$n-f-ND	spa	especie	n$n-f$n-f-sg
 LR	fra	espèces	n-f-pl	spa	dinero	n-m-ND
 RL	fra	espèces	n-f-pl	spa	dinero	n-m-pl
-RL	fra	espèces	n-f-pl	spa	dinero	n-m-sg$n-m$n
+RL	fra	espèces	n-f-pl	spa	dinero	n-m-sg$n$n-m
 RL	fra	espèces	n-f-pl	spa	dinero	n-m-pl
-RL	fra	espèces	n-f-pl	spa	dinero	n-m-sg$n-m$n
+RL	fra	espèces	n-f-pl	spa	dinero	n-m-sg$n$n-m
 RL	fra	espèces	n-f-pl	spa	efectivo	n-m-pl
 RL	fra	espèces	n-f-pl	spa	efectivo	n$n-m-sg
 RL	fra	espèces	n-f-pl	spa	metálico	n$n-m-pl
@@ -10376,7 +10376,7 @@ RL	fra	essuie-mains	n-m-sp$n-m	spa	toalla	n$n-f-sg$n-f
 	fra	estampille	n-f$n	spa	estampilla	n
 	fra	Estanislao	np$np-ant$np-ant-m-sg	spa	Estanislao	np$np-ant
 	fra	est d'accord	adv	spa	es conforme	adv
-LR	fra	est-ce que	prn$prn-itg-mf-sp$prn-itg	spa	¿	prn
+LR	fra	est-ce que	prn-itg-mf-sp$prn$prn-itg	spa	¿	prn
 	fra	Esteban	np-ant-m-sg$np$np-ant	spa	Esteban	np$np-ant$np-ant-m-sg
 	fra	Estefanía	np$np-ant$np-ant-f-sg	spa	Estefanía	np$np-ant
 	fra	Estella	np	spa	Estella	np$np-loc-f
@@ -10511,8 +10511,8 @@ LR	fra	étrange	adj$adj-mf$adj-mf-ND	spa	extraño	adj$adj-GD-ND$adj-GD
 LR	fra	étrave	n-f$n	spa	rueda	n$n-f$n-f-ND
 RL	fra	étrave	n-f$n	spa	roda	n
 RL	fra	étrave	n-f$n	spa	branque	n-m
-	fra	être	n$n-m$n-m-ND	spa	ser	n$n-m$n-m-ND
-	fra	être	n$n-m$n-m-ND	spa	ser	n$n-m$n-m-ND
+	fra	être	n-m$n$n-m-ND	spa	ser	n$n-m$n-m-ND
+	fra	être	n-m$n$n-m-ND	spa	ser	n$n-m$n-m-ND
 	fra	être	vblex$vblex-pp	spa	estar	vblex$vblex-inf
 	fra	être	vbser$vbser-pp$vbser-pp-mf-sp	spa	ser	vbser$vbser-ger
 	fra	être	vbser$vbser-pp$vbser-pp-mf-sp	spa	ser	vbser-pp-m-sg
@@ -10602,7 +10602,7 @@ LR	fra	Euro	np$np-al	spa	Eurocopa	np
 	fra	Euronext	np$np-al	spa	Euronext	np
 	fra	Europe	np$np-loc-f	spa	Europa	np$np-loc$np-loc-f
 	fra	Europe	np$np-loc-f	spa	Europa	np$np-loc$np-loc-f
-	fra	Europe de l'Ouest	np$np-loc-f	spa	Europa Occidental	np
+	fra	Europe de l'Ouest	np-loc-f$np	spa	Europa Occidental	np
 	fra	européen	adj$adj-GD-ND	spa	europeo	adj$adj-GD-ND
 	fra	européen	n$n-GD	spa	europeo	n$n-GD
 	fra	Europistas	np	spa	Europistas	np
@@ -11078,7 +11078,7 @@ LR	fra	familier	adj$adj-f$adj-f-sg	spa	familiar	adj-mf$adj$adj-mf-pl$
 LR	fra	familier	adj-m$adj-m-sg	spa	familiar	adj-mf$adj$adj-mf-pl$
 RL	fra	familier	adj-GD$adj-GD-ND	spa	coloquial	adj$adj-mf$adj-mf-pl
 RL	fra	familier	adj-GD$adj-GD-ND	spa	familiar	adj-mf$adj$adj-mf-pl$
-	fra	famille	n$n-f$n-f-ND	spa	familia	n-f$n$n-f-sg
+	fra	famille	n$n-f$n-f-ND	spa	familia	n$n-f$n-f-sg
 	fra	fan	n$n-mf	spa	fan	n$n-mf$n-mf-ND
 	fra	fanal	n-m$n-m-ND$n	spa	farola	n-f$n$n-f-ND
 RL	fra	fanal	n-m$n-m-ND$n	spa	farol	n$n-m$n-m-ND
@@ -11101,7 +11101,7 @@ RL	fra	fantastique	adj-mf$adj$adj-mf-ND	spa	fantástico	adj-m$adj-m-sg
 	fra	farce	n-f$n	spa	relleno	n$n-m
 LR	fra	farcir	vblex	spa	llenar	vblex
 	fra	farcs	n	spa	farcs	n
-	fra	farine	n$n-f	spa	harina	n$n-f
+	fra	farine	n$n-f	spa	harina	n$n-f$n-f-sg
 	fra	Farrell	np-cog-mf-sp$np	spa	Farrell	np$np-cog$np-cog-mf
 	fra	farse	n$n-f	spa	farsa	n$n-f
 LR	fra	fascinant	adj$adj-f	spa	fascinante	adj-mf$adj$adj-mf-sg
@@ -11207,9 +11207,9 @@ LR	fra	Felix	np$np-ant$np-ant-m-sg	spa	Félix	np$np-ant
 	fra	femme	n-f$n$n-f-ND	spa	mujer	n$n-f$n-f-sg
 	fra	femme	n-f$n$n-f-ND	spa	mujer	n$n-f$n-f-sg
 RL	fra	femme	n-f$n$n-f-ND	spa	fémina	n$n-f
-LR	fra	femme	n-f-pl	spa	sus labores	n-f-pl$n
-LR	fra	femme	n-f-sg	spa	sus labores	n-f-pl$n
-RL	fra	femme	n-f$n$n-f-ND	spa	sus labores	n-f-pl$n
+LR	fra	femme	n-f-pl	spa	sus labores	n-f-pl
+LR	fra	femme	n-f-sg	spa	sus labores	n-f-pl
+RL	fra	femme	n-f$n$n-f-ND	spa	sus labores	n-f-pl
 LR	fra	fémoral	$adj-f	spa	femoral	adj$adj-mf$adj-mf-sg
 LR	fra	fémoral	adj-m	spa	femoral	adj$adj-mf$adj-mf-sg
 RL	fra	fémoral	adj-GD	spa	femoral	adj$adj-mf$adj-mf-sg
@@ -11495,7 +11495,7 @@ LR	fra	fois	n-f-sp$n-f$n	spa	vez	n-f$n$n-f-ND
 RL	fra	fois	n-f-sp$n-f$n	spa	vez	n-f-pl
 RL	fra	fois	n-f-sp$n-f$n	spa	vez	n-f-sg
 LR	fra	foisonner	vblex	spa	abundar	vblex
-	fra	Foix	np$np-cog-mf-sp	spa	Foix	np-loc$np
+	fra	Foix	np-cog-mf-sp$np	spa	Foix	np-loc$np
 	fra	folie	n-f$n$n-f-ND	spa	locura	n$n-f$n-f-ND
 	fra	folk	adj	spa	folk	adj
 	fra	folk	n	spa	folk	n
@@ -11537,7 +11537,7 @@ RL	fra	fonder	vblex	spa	fundamentar	vblex
 	fra	fonds publics	n-m-pl	spa	fondo público	n-m$n-m-sg
 RL	fra	fonds publics	n-m-pl	spa	fondo público	n-m-pl
 	fra	fongestión	np	spa	fongestión	np
-	fra	Font	np$np-top-m-sg	spa	Font	np$np-loc
+	fra	Font	np-cog-mf-sp$np	spa	Font	np$np-loc
 	fra	Fontaine	np$np-loc-f	spa	Fontaine	np$np-cog
 	fra	fonte	n-f$n-f-sg	spa	deshielo	n$n-m
 	fra	Fontecruz	np	spa	Fontecruz	np
@@ -11751,7 +11751,7 @@ LR	fra	franco-canadien	adj$adj-f	spa	francocanadiense	adj-mf
 LR	fra	franco-canadien	adj-m	spa	francocanadiense	adj-mf
 RL	fra	franco-canadien	adj-GD	spa	francocanadiense	adj-mf
 	fra	franco-colombien	adj	spa	franco-colombiano	adj
-	fra	François	np-ant$np-ant-m-sg$np	spa	François	np$np-ant
+	fra	François	np-ant-m-sg$np-ant$np	spa	François	np$np-ant
 	fra	François Bozizé	np	spa	François Bozizé	np
 	fra	François Fillon	np$np-ant-m-sg	spa	François Fillon	np
 	fra	Françoise	np-ant-f-sg$np$np-ant	spa	Françoise	np-ant$np
@@ -11789,7 +11789,7 @@ RL	fra	frauduleux	adj-m-sp$adj	spa	fraudulento	adj-m-sg
 	fra	Frears	np	spa	Frears	np
 	fra	Fred	np$np-ant$np-ant-m-sg	spa	Fred	np$np-ant
 	fra	Freddy	np$np-ant-m-sg$np-ant	spa	Freddy	np$np-ant
-	fra	Frédéric	np-ant$np-ant-m-sg$np	spa	Frédéric	np$np-ant
+	fra	Frédéric	np-ant-m-sg$np-ant$np	spa	Frédéric	np$np-ant
 	fra	Frédéric I Barberousse	np	spa	Federico I Barbarroja	np
 	fra	Frédéric II le Grand	np	spa	Federico II el Grande	np
 	fra	Freetown	np	spa	Freetown	np$np-loc
@@ -11849,11 +11849,11 @@ RL	fra	frotter	vblex	spa	rozar	vblex
 LR	fra	fructueux	adj-m-sp$adj	spa	fructífero	adj-m-ND$adj-m
 RL	fra	fructueux	adj-m-sp$adj	spa	fructífero	adj-m-pl
 RL	fra	fructueux	adj-m-sp$adj	spa	fructífero	adj-m-sg
-	fra	fruit	n-m$n$n-m-ND	spa	fruto	n$n-m$n-m-ND
+	fra	fruit	n-m$n$n-m-ND	spa	fruto	n$n-m$n-m-sg
 	fra	fruit	n-m$n$n-m-ND	spa	fruta	n$n-f$n-f-sg
 	fra	fruité	adj	spa	afrutado	adj
-	fra	fruits de mer	n-m-pl$n-m	spa	marisco	n$n-m$n-m-sg
-RL	fra	fruits de mer	n-m-pl$n-m	spa	marisco	n-m-pl
+	fra	fruits de mer	n-m-pl	spa	marisco	n$n-m$n-m-sg
+RL	fra	fruits de mer	n-m-pl	spa	marisco	n-m-pl
 	fra	frustration	n$n-f$n-f-ND	spa	frustración	n$n-f$n-f-ND
 	fra	frustrer	vblex	spa	frustrar	vblex
 	fra	Fuenlabrada	np	spa	Fuenlabrada	np$np-loc-f
@@ -12142,7 +12142,7 @@ RL	fra	général	n-GD$n-GD-ND	spa	general	n-mf$n$n-mf-ND
 	fra	généraliser	vblex	spa	generalizar	vblex
 	fra	généraliste	adj$adj-mf	spa	generalista	adj$adj-mf-sg
 	fra	généraliste	n-mf$n	spa	generalista	n
-	fra	Generalitat	np-al$np-al-f-sg$np	spa	Generalitat	np-al$np$np-al-m-sg
+	fra	Generalitat	np-al-f-sg$np-al$np	spa	Generalitat	np-al$np$np-al-m-sg
 	fra	généralité	n-f$n	spa	generalidad	n$n-f$n-f-sg
 	fra	générateur	adj$adj-f	spa	generador	adj-m-sg$adj
 	fra	générateur	n-m$n	spa	generador	n$n-m
@@ -12247,7 +12247,7 @@ RL	fra	gérontologique	adj-mf	spa	gerontológico	adj-m$adj-m-sg
 	fra	geste	n-m$n$n-m-ND	spa	gesto	n$n-m$n-m-ND
 RL	fra	geste	n-m$n$n-m-ND	spa	ademán	n$n-m$n-m-ND
 	fra	gesticulation	n-f$n	spa	gesticulación	n$n-f
-	fra	gestion	n$n-f$n-f-ND	spa	gestión	n-f$n$n-f-sg
+	fra	gestion	n$n-f$n-f-ND	spa	gestión	n$n-f$n-f-sg
 LR	fra	gestionnaire	n-mf$n$n-mf-ND	spa	gestor	n$n-GD$n-GD-pl
 RL	fra	gestionnaire	n-mf$n$n-mf-ND	spa	gestor	n-f$n-f-pl
 RL	fra	gestionnaire	n-mf$n$n-mf-ND	spa	gestor	n-m$n-m-ND
@@ -12300,7 +12300,7 @@ RL	fra	gigantesque	adj-mf$adj$adj-mf-ND	spa	gigantesco	adj-m$adj-m-sg
 	fra	Giro d'Italia	np	spa	Giro de Italia	np
 	fra	Gironde	np$np-loc-f	spa	Gironda	np$np-loc
 	fra	Gironde	np$np-loc-f	spa	Gironda	np$np-loc
-	fra	Giscard	np$np-cog$np-cog-mf-sp	spa	Giscard	np$np-cog
+	fra	Giscard	np$np-cog-mf-sp$np-cog	spa	Giscard	np$np-cog
 	fra	Giscard d'Estaing	np$np-cog-mf-sp	spa	Giscard d'Estaing	np$np-cog
 	fra	gisement	n-m$n	spa	yacimiento	n$n-m
 	fra	gitan	n$n-m$n-m-ND	spa	gitano	n$n-m$n-m-ND
@@ -12477,7 +12477,7 @@ RL	fra	grand	adj$adj-GD$adj-GD-ND	spa	gran	adj-mf$adj-mf-ND$adj
 	fra	Grande Barrière	np	spa	Gran Barrera	np
 	fra	Grande Canarie	np	spa	Gran Canaria	np
 	fra	Grande Guerre	np	spa	Gran Guerra	np$np-al-f
-	fra	Grande Ourse	np$np-loc-f	spa	Osa Mayor	np$np-loc-m
+	fra	Grande Ourse	np-loc-f$np	spa	Osa Mayor	np$np-loc-m
 	fra	Grande-Bretagne	np$np-top-f$np-top-f-sg	spa	Gran Bretaña	np$np-loc-f$np-loc
 	fra	Grande-Bretagne	np$np-top-f$np-top-f-sg	spa	Gran Bretaña	np$np-loc-f$np-loc
 	fra	Grande-Colombie	np	spa	Gran Colombia	np
@@ -12521,7 +12521,7 @@ RL	fra	gras	n-m-sp$n$n-m	spa	grasa	n-f-sg
 	fra	gratuit	adj$adj-GD-ND	spa	gratuito	adj$adj-GD-ND
 	fra	gratuité	n-f$n	spa	gratuidad	n$n-f$n-f-sg
 	fra	gratuitement	adv	spa	gratuitamente	adv
-	fra	Grau	np$np-top-m-sg	spa	Grau	np$np-cog
+	fra	Grau	np-cog-mf-sp$np	spa	Grau	np$np-cog
 	fra	gravat	n-m$n$n-m-pl	spa	escombro	n$n-m$n-m-pl
 RL	fra	gravat	n-m$n$n-m-pl	spa	cascote	n$n-m
 	fra	gravat	n-m$n$n-m-pl	spa	escombro	n$n-m$n-m-pl
@@ -12692,8 +12692,8 @@ RL	fra	guichet	n-m$n-m-ND	spa	ventanilla	n$n-f$n-f-ND
 	fra	Guillermo	np$np-ant$np-ant-m-sg	spa	Guillermo	np$np-ant$np-ant-m-sg
 	fra	Guillermo Fernández Vara	np	spa	Guillermo Fernández Vara	np
 	fra	Guimet	np$np-cog-mf-sp	spa	Guimet	np
-	fra	Guinée	np$np-loc-f	spa	Guinea	np$np-top-f$np-top
-	fra	Guinée	np$np-loc-f	spa	Guinea	np$np-top-f$np-top
+	fra	Guinée	np$np-top-f-sg$np-top-f$np-top	spa	Guinea	np$np-loc$np-loc-f
+	fra	Guinée	np$np-top-f-sg$np-top-f$np-top	spa	Guinea	np$np-loc$np-loc-f
 	fra	Guinée-Bissau	np-top-f-sg$np	spa	Guinea Bissau	np
 	fra	Guinée-Équatorale	np	spa	Guinea Ecuatorial	np$np-loc$np-loc-f
 	fra	Guingamp	np-top$np$np-top-m-sg	spa	Guingamp	np$np-top
@@ -12711,7 +12711,7 @@ LR	fra	Guipuscoa	np	spa	Gipuzkoa	np$np-loc$np-loc-m-sg
 	fra	Gurpegui	np$np-cog-mf-sp	spa	Gurpegui	np
 	fra	Gurruchaga	np$np-cog-mf-sp	spa	Gurruchaga	np
 	fra	Gustav	np$np-ant$np-ant-m-sg	spa	Gustav	np-ant$np
-	fra	Gustave	np-ant$np-ant-m-sg$np	spa	Gustave	np-ant$np
+	fra	Gustave	np-ant$np$np-ant-m-sg	spa	Gustave	np-ant$np
 	fra	Gustavia	np	spa	Gustavia	np
 	fra	Gustavo	np$np-ant-m-sg$np-ant	spa	Gustavo	np$np-ant$np-ant-m-sg
 	fra	Gustov	np$np-cog-mf-sp	spa	Gustov	np
@@ -12954,7 +12954,7 @@ RL	fra	hépatite	n-f-ND	spa	hepatitis	n-f-sp$n$n-f
 	fra	Héraclite	np$np-ant$np-ant-m-sg	spa	Heráclito	np$np-ant
 	fra	Heras	np$np-cog-mf-sp$np-cog	spa	Heras	np$np-cog$np-cog-mf
 	fra	Hérault	np$np-loc-f	spa	Hérault	np$np-cog
-	fra	herbe	n-f$n$n-f-ND	spa	hierba	n-f$n$n-f-ND
+	fra	herbe	n-f$n$n-f-ND	spa	hierba	n-f$n$n-f-sg
 	fra	herbivore	n-m$n	spa	herbívoro	n$n-m
 	fra	Hercule	np$np-ant	spa	Hércules	np$np-ant
 	fra	Heredia	np$np-cog$np-cog-mf-sp	spa	Heredia	np$np-cog
@@ -13046,7 +13046,7 @@ RL	fra	hiérarchique	adj$adj-mf	spa	jerárquico	adj-m$adj-m-sg
 LR	fra	hindou	adj-f$adj-f-sg	spa	hindú	adj-mf$adj$adj-mf-sg
 LR	fra	hindou	adj-m$adj-m-sg	spa	hindú	adj-mf$adj$adj-mf-sg
 RL	fra	hindou	adj$adj-GD-ND$adj-GD	spa	hindú	adj-mf$adj$adj-mf-sg
-	fra	Hindou Kouch	np$np-loc-f	spa	Hindu Kush	np
+	fra	Hindou Kouch	np-loc-f$np	spa	Hindu Kush	np
 	fra	Hindoustan	np	spa	Indostan	np
 	fra	Hinojosa	np$np-cog-mf-sp	spa	Hinojosa	np$np-cog
 	fra	Hipparque	np$np-ant-m-sg	spa	Hiparco	np-ant$np
@@ -13099,7 +13099,7 @@ RL	fra	hollandais	n-m-sp$n	spa	holandés	n-m-sg
 	fra	Hollande	np$np-loc-f	spa	Holanda	np$np-loc$np-loc-f
 	fra	Hollywood	np-loc$np	spa	Hollywood	np-loc$np$np-loc-m
 	fra	holocauste	n-m$n	spa	holocausto	n$n-m$n-m-sg
-	fra	Homer	np$np-ant$np-ant-m-sg	spa	Homer	np$np-ant
+	fra	Homer	np$np-ant-m-sg$np-ant	spa	Homer	np$np-ant
 	fra	Homère	np$np-ant$np-ant-m-sg	spa	Homero	np$np-ant
 	fra	hommage	n-m$n$n-m-ND	spa	homenaje	n$n-m$n-m-sg
 	fra	homme	n$n-m$n-m-ND	spa	hombre	n-m$n$n-m-sg$
@@ -13216,7 +13216,7 @@ LR	fra	hors	pr	spa	fuera de	pr
 	fra	html	np$np-al	spa	html	np$np-al
 	fra	http	n$n-acr-m	spa	http	n$n-acr-m
 	fra	https	n$n-acr-m	spa	https	n$n-acr-m
-	fra	Huang He	np$np-loc-f	spa	Huang He	np
+	fra	Huang He	np-loc-f$np	spa	Huang He	np
 	fra	Huascaran	np	spa	Huascarán	np
 	fra	Hubert	np-ant$np$np-ant-m-sg	spa	Hubert	np-ant$np$np-ant-m
 	fra	Hu Jintao	np	spa	Hu Jintao	np
@@ -13418,7 +13418,7 @@ LR	fra	il Tintoretto	np	spa	Tintoretto	np
 	fra	Île de Djerba	np	spa	Isla de Jerba	np
 	fra	Île de la Passion	np	spa	Isla de la Pasión	np
 	fra	Île de l'Ascension	np	spa	Isla Ascensión	np
-	fra	Île de Man	np$np-top$np-top-f-sg	spa	Isla de Man	np$np-top
+	fra	Île de Man	np-top$np$np-top-f-sg	spa	Isla de Man	np$np-top
 	fra	Île de Pâques	np$np-top-f$np-top-f-sg	spa	Isla de Pascua	np$np-loc$np-loc-f
 	fra	Île du Nord	np$np-top-f	spa	Isla Norte	np$np-loc$np-loc-f
 	fra	Île du Prince	np	spa	Isla del Príncipe	np
@@ -13433,7 +13433,7 @@ LR	fra	il Tintoretto	np	spa	Tintoretto	np
 	fra	Îles Baléares	np$np-top-f	spa	Islas Baleares	np$np-loc$np-loc-f
 RL	fra	Îles Baléares	np$np-top-f	spa	Illes Balears	np
 	fra	Îles Britanniques	np$np-top-f	spa	Islas Británicas	np$np-loc-f$np-loc-f-pl
-	fra	Îles Caïmans	np$np-top-f	spa	Islas Caimán	np$np-loc$np-loc-f
+	fra	Îles Caïmans	np$np-top-f	spa	Islas Caimán	np$np-top-f
 	fra	Îles Canaries	np$np-top-f	spa	Islas Canarias	np$np-loc$np-loc-f
 	fra	Îles Carolines	np	spa	Islas Carolinas	np
 	fra	Îles Cocos	np	spa	Islas Cocos	np$np-loc
@@ -13442,7 +13442,7 @@ RL	fra	Îles Baléares	np$np-top-f	spa	Illes Balears	np
 	fra	Îles de la mer de Corail	np	spa	Islas del Mar del Coral	np
 	fra	Ìles des Amis	np$np-top-f	spa	Islas de los Amigos	np$np-loc-f
 	fra	Îles du Vent	np$np-top-f	spa	Islas de Barlovento	np$np-loc-f
-	fra	Îles Féroé	np$np-loc-f	spa	Islas Feroe	np$np-top
+	fra	Îles Féroé	np-loc-f$np	spa	Islas Feroe	np$np-top
 	fra	Îles Frisonnes	np	spa	Islas Frisias	np
 	fra	Îles Galapagos	np	spa	Galápagos	np$np-loc$np-loc-f
 	fra	Îles Géorgie du Sud	np	spa	Islas Georgias del Sur	np
@@ -13454,7 +13454,7 @@ RL	fra	Îles Baléares	np$np-top-f	spa	Illes Balears	np
 	fra	Îles Marquises	np$np-top-f	spa	Islas Marquesas	np$np-loc$np-loc-f
 	fra	Îles Moluques	np$np-top-f	spa	Islas Molucas	np$np-loc-f
 	fra	Îles Pitcairn	np	spa	Islas Pitcairn	np
-	fra	Îles Salomon	np$np-loc-f	spa	Islas Salomón	np$np-loc$np-loc-f
+	fra	Îles Salomon	np-loc-f$np	spa	Islas Salomón	np$np-loc$np-loc-f
 	fra	Îles sous le Vent	np$np-top-f	spa	Islas de Sotavento	np$np-loc-f
 	fra	Îles Tchagos	np	spa	Archipiélago Chagos	np
 	fra	Îles Turques-et-Caïques	np	spa	Islas Turcas y Caicos	np$np-loc
@@ -14168,7 +14168,7 @@ LR	fra	intégral	adj-m	spa	integral	adj-mf$adj$adj-mf-sg
 	fra	intégrale	n-f$n	spa	integral	n$n-f
 	fra	intégralement	adv	spa	íntegramente	adv
 LR	fra	intégralité	n-f$n	spa	integridad	n$n-f-sg$n-f
-	fra	intégration	n-m$n$n-m-ND	spa	integración	n-f$n$n-f-sg
+	fra	intégration	n-m$n-m-ND	spa	integración	n-f$n$n-f-sg
 LR	fra	intègre	adj$adj-mf	spa	íntegro	adj$adj-GD
 RL	fra	intègre	adj$adj-mf	spa	íntegro	adj-f
 RL	fra	intègre	adj$adj-mf	spa	íntegro	adj-m$adj-m-sg
@@ -14671,14 +14671,14 @@ RL	fra	Jávea	np$np-top-f-sg	spa	Jávea	np$np-loc$np-loc-f
 	fra	Javier	np$np-ant$np-ant-m-sg	spa	Javier	np$np-ant$np-ant-m-sg
 	fra	jazz	n-m$n$n-m-sp	spa	jazz	n$n-m$n-m-sg
 	fra	je	prn$prn-tn-p1-mf-sg$prn-tn$prn-tn-p1	spa	yo	prn$prn-tn-p1-mf-sg$prn-tn$prn-tn-p1-mf
-	fra	Jean	np-ant-m-sg$np-ant$np	spa	Jean	np$np-ant
+	fra	Jean	np-ant-m-sg$np$np-ant	spa	Jean	np$np-ant
 LR	fra	jean	n-m-pl$n-m	spa	tejanos	n-m-pl$n-m
 LR	fra	jean	n-m-sg	spa	tejanos	n-m-pl$n-m
 RL	fra	jean	n-m-ND	spa	tejanos	n-m-pl$n-m
 	fra	Jean-Baptiste	np$np-ant-m-sg$np-ant	spa	Jean-Baptiste	np$np-ant
 LR	fra	Jean Boccace	np	spa	Giovanni Boccaccio	np
 	fra	Jean Cabot	np$np-ant	spa	Juan Caboto	np$np-ant
-	fra	Jean Calvin	np$np-ant$np-ant-m-sg	spa	Juan Calvino	np$np-ant
+	fra	Jean Calvin	np$np-ant	spa	Juan Calvino	np$np-ant
 	fra	Jean-Bernard	np$np-ant$np-ant-m-sg	spa	Jean-Bernard	np$np-ant
 	fra	Jean Scot Érigène	np	spa	Juan Escoto Erígena	np
 RL	fra	Jean Scot Érigène	np	spa	Escudo Canadiense	np
@@ -14747,7 +14747,7 @@ RL	fra	jeune fille	n-f$n	spa	manceba	n
 LR	fra	jeune homme	n-m$n	spa	joven	n-mf$n$n-mf-pl
 RL	fra	jeune homme	n-m$n	spa	mancebo	n
 	fra	jeunesse	n-f$n$n-f-ND	spa	juventud	n$n-f$n-f-ND
-	fra	Jeux olympiques	np$np-al-m-pl	spa	Juegos Olímpicos	np$np-al
+	fra	Jeux olympiques	np$np-al-m-pl	spa	Juegos Olímpicos	np
 RL	fra	Jeux olympiques	np$np-al-m-pl	spa	Olimpiadas	np
 	fra	Jheronimus Van Aeken	np	spa	Hieronymus Van Aeken	np
 	fra	Ji Le	np	spa	Ji Le	np
@@ -14764,7 +14764,7 @@ RL	fra	JO	n-acr$n-acr-m-sg	spa	BOE	n-acr$n$n-acr-m
 	fra	Joachim	np$np-cog-mf-sp	spa	Joachim	np$np-cog
 	fra	joaillier	n$n-m	spa	joyero	n$n-m
 	fra	Joana	np$np-ant-f-sg$np-ant	spa	Joana	np$np-ant
-	fra	Joan	np$np-ant$np-ant-m-sg	spa	Joan	np$np-ant
+	fra	Joan	np-ant-m-sg$np$np-ant	spa	Joan	np$np-ant
 	fra	Joanes Leizarraga	np	spa	Joanes Leizarraga	np
 	fra	Joaquim	np$np-ant-m-sg	spa	Joaquim	np$np-ant
 	fra	Joaquin	np$np-cog-mf-sp	spa	Joaquin	np$np-ant
@@ -14825,8 +14825,8 @@ LR	fra	joncher	vblex	spa	cubrir	vblex
 	fra	José Montilla Aguilera	np$np-ant	spa	José Montilla Aguilera	np$np-ant
 	fra	José Sócrates	np$np-ant	spa	José Sócrates	np$np-ant
 	fra	Josefa	np$np-ant-f-sg$np-ant	spa	Josefa	np$np-ant
-	fra	Josefina	np$np-ant-f-sg$np-ant	spa	Josefina	np$np-ant
-	fra	Josep	np$np-ant-m-sg	spa	Josep	np$np-ant
+	fra	Josefina	np-ant-f-sg$np$np-ant	spa	Josefina	np$np-ant
+	fra	Josep	np-ant-m-sg$np	spa	Josep	np$np-ant
 	fra	Joseph	np-ant$np$np-ant-m-sg	spa	Joseph	np$np-ant
 	fra	Joseph Staline	np	spa	José Stalin	np
 	fra	Joséphine	np$np-ant-f-sg$np-ant	spa	Joséphine	np$np-ant
@@ -14890,7 +14890,7 @@ RL	fra	journalistique	adj-mf$adj$adj-mf-ND	spa	periodístico	adj-m$adj-m-sg
 LR	fra	joyeux	adj-f$adj-f-sg	spa	feliz	adj-mf$adj-mf-ND$adj
 LR	fra	joyeux	adj-m-sp$adj	spa	feliz	adj-mf$adj-mf-ND$adj
 	fra	Juana	np$np-ant-f-sg$np-ant	spa	Juana	np$np-ant
-	fra	Juan	np$np-ant$np-ant-m-sg	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg
+	fra	Juan	np$np-ant-m-sg$np-ant	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg
 	fra	Juan Carlos Ier	np$np-ant	spa	Juan Carlos I	np$np-ant
 	fra	Juan Jesús Vivas Lara	np$np-ant	spa	Juan Jesús Vivas Lara	np$np-ant
 	fra	Juan José Ibarretxe	np$np-ant	spa	Juan José Ibarretxe	np$np-ant
@@ -14931,8 +14931,8 @@ LR	fra	juge-arbitre	n$n-mf$n-mf-ND	spa	árbitro	n-mf$n$n-mf-sg
 RL	fra	juin	n$n-m-sg$n-m	spa	jun.	n$n-m
 	fra	jukebox	n	spa	jukebox	n
 	fra	Julen	np$np-ant-m-sg	spa	Julen	np$np-ant
-	fra	Jules	np-ant$np-ant-m-sg$np	spa	Jules	np$np-ant
-	fra	Jules César	np$np-ant-m$np-ant-m-sg	spa	Julio César	np
+	fra	Jules	np-ant-m-sg$np-ant$np	spa	Jules	np$np-ant
+	fra	Jules César	np$np-ant-m	spa	Julio César	np
 	fra	Julia	np$np-ant$np-ant-f-sg	spa	Julia	np$np-ant$np-ant-f-sg
 	fra	Juli	np$np-ant-m-sg	spa	Juli	np$np-ant
 	fra	Juliá	np$np-cog$np-cog-mf-sp	spa	Juliá	np$np-ant
@@ -15079,7 +15079,7 @@ LR	fra	kidnappeur	n	spa	secuestrador	n$n-f$n-f-pl
 	fra	Kim Jong-il	np$np-ant	spa	Kim Jong-il	np$np-ant
 	fra	Kim Ki-duk	np	spa	Kim Ki-duk	np
 	fra	Kimi	np$np-ant-m-sg	spa	Kimi	np
-	fra	King	np-cog-mf-sp$np	spa	King	np$np-cog-mf$np-cog
+	fra	King	np$np-cog-mf-sp	spa	King	np$np-cog-mf$np-cog
 	fra	King Edward Point	np	spa	King Edward Point	np
 	fra	Kingman	np	spa	Kingman	np
 	fra	Kingston	np$np-loc-f	spa	Kingston	np$np-loc
@@ -15175,17 +15175,17 @@ RL	fra	Kyoto	np$np-top$np-top-m-sg	spa	Kyoto	np$np-loc
 	fra	La Araucania	np	spa	La Araucanía	np
 	fra	là-bas	adv	spa	allá	adv
 	fra	La Barbade	np$np-loc-f	spa	Barbados	np$np-loc-f-pl$np-loc
-	fra	La Corogne	np$np-top-f-sg	spa	La Coruña	np
-RL	fra	La Corogne	np$np-top-f-sg	spa	Coruña	np
-RL	fra	La Corogne	np$np-top-f-sg	spa	A Coruña	np$np-loc-m
+	fra	La Corogne	np	spa	La Coruña	np
+RL	fra	La Corogne	np	spa	Coruña	np
+RL	fra	La Corogne	np	spa	A Coruña	np$np-loc-m
 	fra	label	n-m$n	spa	label	n$n-m
 	fra	labeur	n-m$n$n-m-ND	spa	labor	n-f$n-f-sg$n
 	fra	la faute de	pr	spa	culpa de	pr
 	fra	la gauche nationaliste basque	np	spa	Ezker Abertzalea	np
 	fra	La Gomera	np	spa	La Gomera	np
 	fra	La Havane	np$np-loc-f	spa	La Habana	np$np-loc$np-loc-f
-	fra	La Haye	np$np-loc-f	spa	La Haya	np$np-loc$np-loc-f
-	fra	La Manche	np-top-f-sg$np	spa	Canal de la Mancha	np
+	fra	La Haye	np-loc-f$np	spa	La Haya	np$np-loc$np-loc-f
+	fra	La Manche	np	spa	Canal de la Mancha	np
 	fra	La Mecque	np	spa	La Meca	np$np-loc-f
 RL	fra	la nuit	adv	spa	por la noche	adv
 	fra	laboratoire	n-m$n$n-m-ND	spa	laboratorio	n$n-m$n-m-sg
@@ -15196,17 +15196,17 @@ RL	fra	laborieux	adj-m-sp$adj	spa	laborioso	adj$adj-m-sg
 	fra	Labourd	np$np-top-m-sg	spa	Lapurdi	np
 	fra	laboureur	n$n-m$n-m-ND	spa	labrador	n$n-GD$n-GD-ND
 	fra	La Palma	np$np-top-f	spa	La Palma	np$np-loc-f
-	fra	La Paz	np$np-loc-f	spa	La Paz	np$np-loc-f
+	fra	La Paz	np-loc-f$np	spa	La Paz	np$np-loc-f
 	fra	la plupart du temps	adv	spa	casi siempre	adv
 RL	fra	la plupart du temps	adv	spa	la mayoría de las veces	adv
 LR	fra	La Polaire	np	spa	Estrella polar	np
 	fra	La Repubblica	np	spa	La Repubblica	np$np-al
-	fra	La Rioja	np$np-loc-f	spa	La Rioja	np$np-loc-f
+	fra	La Rioja	np-loc-f$np	spa	La Rioja	np$np-loc-f
 	fra	Labrit	np	spa	Labrit	np
-	fra	La Rochelle	np$np-loc-f	spa	La Rochelle	np
-	fra	La Roche-sur-Yon	np$np-loc-f	spa	La Roche-sur-Yon	np
+	fra	La Rochelle	np-loc-f$np	spa	La Rochelle	np
+	fra	La Roche-sur-Yon	np-loc-f$np	spa	La Roche-sur-Yon	np
 	fra	La Une	np	spa	La Une	np
-	fra	La Valette	np$np-loc-f	spa	La Valeta	np$np-loc-f
+	fra	La Valette	np-loc-f$np	spa	La Valeta	np$np-loc-f
 	fra	labyrinthe	n-m$n$n-m-ND	spa	laberinto	n-m$n$n-m-ND
 	fra	lac	n$n-m$n-m-ND	spa	lago	n$n-m$n-m-sg
 	fra	lac	n$n-m$n-m-ND	spa	lago	n$n-m$n-m-sg
@@ -15276,7 +15276,7 @@ RL	fra	lancer	vblex	spa	arrojar	vblex
 	fra	Lancy	np	spa	Lancy	np
 	fra	Landaben	np	spa	Landaben	np
 	fra	Landaluze	np	spa	Landaluze	np
-	fra	Land Rover	np$np-al-m-sg	spa	Land Rover	np
+	fra	Land Rover	np	spa	Land Rover	np
 	fra	Lander	np$np-cog-mf-sp	spa	Lander	np
 	fra	Landes	np$np-loc-f	spa	Landas	np$np-loc
 	fra	Lang	np$np-cog-mf-sp	spa	Lang	np$np-cog
@@ -15325,9 +15325,9 @@ RL	fra	largement	adv	spa	con creces	adv
 	fra	Lasarte	np$np-cog-mf-sp	spa	Lasarte	np$np-loc-m
 	fra	Lasarte-Oria	np	spa	Lasarte-Oria	np$np-loc-f
 	fra	Las Arenas	np	spa	Las Arenas	np
-	fra	Las Palmas	np-top-f-sg$np	spa	Las Palmas	np$np-loc
+	fra	Las Palmas	np$np-top-f-sg	spa	Las Palmas	np$np-loc
 	fra	Las Palmas de Gran Canaria	np	spa	Las Palmas de Gran Canaria	np$np-loc-f
-	fra	Las Vegas	np$np-loc-f	spa	Las Vegas	np
+	fra	Las Vegas	np-loc-f$np	spa	Las Vegas	np
 	fra	laser	n-m$n$n-m-ND	spa	láser	n$n-m$n-m-ND
 	fra	Laso	np$np-cog$np-cog-mf-sp	spa	Laso	np$np-cog
 	fra	László Sólyom	np	spa	László Sólyom	np
@@ -15382,14 +15382,14 @@ RL	fra	lave-vaisselle	n-m-ND	spa	lavavajillas	n-m-sp$n$n-m
 	fra	le	prn-pro-p3-nt	spa	lo	prn-pro-p3-nt$prn-pro$prn$prn-pro-p3-nt-sg
 LR	fra	le	det-def-mf-pl$det-def$det-def-mf	spa	el	det-def-GD$det-def$det$det-def-GD-ND
 LR	fra	le	prn-enc-p3-mf-pl$prn-enc	spa	lo	prn-enc-p3-GD-pl
-LR	fra	le	prn-pro-p3-mf-pl	spa	lo	prn-pro-p3-GD-pl
+LR	fra	le	prn-pro-p3-mf-pl$prn	spa	lo	prn-pro-p3-GD-pl
 RL	fra	le	detnt	spa	lo	detnt
 RL	fra	le	det-def-mf-pl$det-def$det-def-mf	spa	el	det-def-f-pl
 RL	fra	le	det-def-mf-pl$det-def$det-def-mf	spa	el	det-def-m-pl
 RL	fra	le	prn-enc-p3-mf-pl$prn-enc	spa	lo	prn-enc-p3-f$prn-enc-p3-f-pl
 RL	fra	le	prn-enc-p3-mf-pl$prn-enc	spa	lo	prn-enc-p3-m-pl
-RL	fra	le	prn-pro-p3-mf-pl	spa	lo	prn-pro-p3-f-pl$prn-pro-p3-f
-RL	fra	le	prn-pro-p3-mf-pl	spa	lo	prn-pro-p3-m-pl
+RL	fra	le	prn-pro-p3-mf-pl$prn	spa	lo	prn-pro-p3-f-pl$prn-pro-p3-f
+RL	fra	le	prn-pro-p3-mf-pl$prn	spa	lo	prn-pro-p3-m-pl
 	fra	leader	n$n-m	spa	líder	n$n-mf$n-mf-ND
 	fra	leadership	n-m$n$n-m-ND	spa	liderazgo	n$n-m$n-m-sg
 RL	fra	leadership	n-m$n$n-m-ND	spa	liderato	n$n-m
@@ -15398,12 +15398,12 @@ RL	fra	leadership	n-m$n$n-m-ND	spa	liderato	n$n-m
 	fra	Lebaniego	np	spa	Lebaniego	np
 	fra	Le Baldaquin de Saint Pierre	np	spa	El Baldaquino de San Pedro	np
 	fra	le bon vieux temps	adv	spa	los buenos tiempos	adv
-	fra	Le Caire	np$np-top-m-sg	spa	El Cairo	np$np-loc$np-loc-m
-	fra	Le Canard enchaîné	np$np-al$np-al-m-sg	spa	Le Canard enchaîné	np
+	fra	Le Caire	np	spa	El Cairo	np$np-loc$np-loc-m
+	fra	Le Canard enchaîné	np$np-al	spa	Le Canard enchaîné	np
 	fra	Le Cap	np	spa	Ciudad del Cabo	np$np-loc
 	fra	le cas échéant	adv	spa	en su caso	adv
 RL	fra	le cas échéant	adv	spa	si fuera necesario	adv
-	fra	Le Corbusier	np$np-ant-m-sg	spa	Le Corbusier	np
+	fra	Le Corbusier	np$np-cog-mf-sp	spa	Le Corbusier	np
 	fra	Le Cuirassé Potemkine	np	spa	El acorazado Potemkin	np
 	fra	Le dictateur	np	spa	El Gran Dictador	np
 	fra	le gouvernement	np	spa	el ejecutivo	np
@@ -15412,12 +15412,12 @@ RL	fra	le jour	adv	spa	por la mañana	adv
 	fra	Leblanc	np$np-cog-mf-sp$np-cog	spa	Leblanc	np$np-cog$np-cog-mf
 LR	fra	le long de	pr	spa	a lo largo de	pr
 	fra	Le Manifeste du parti communiste	np	spa	El Manifiesto Comunista	np
-	fra	Le Mans	np$np-loc-f	spa	Le Mans	np
-	fra	Le Monde	np$np-al-m-sg$np-al$np-al-m	spa	Le Monde	np$np-al-m
-	fra	Le Pen	np$np-cog$np-cog-mf-sp	spa	Le Pen	np$np-cog$np-cog-mf
-	fra	Le Pirée	np$np-top-m-sg	spa	El Pireo	np
+	fra	Le Mans	np-loc-f$np	spa	Le Mans	np
+	fra	Le Monde	np$np-al$np-al-m$np-al-m-sg	spa	Le Monde	np$np-al-m
+	fra	Le Pen	np$np-cog-mf-sp$np-cog	spa	Le Pen	np$np-cog$np-cog-mf
+	fra	Le Pirée	np	spa	El Pireo	np
 	fra	le plus tôt possible	cnjadv	spa	lo antes posible	cnjadv
-	fra	Le Puy-en-Velay	np$np-loc-f	spa	Le Puy-en-Velay	np
+	fra	Le Puy-en-Velay	np-loc-f$np	spa	Le Puy-en-Velay	np
 	fra	Le Soir	np$np-al-m-sg	spa	Le Soir	np
 	fra	le soussigné	cnjadv	spa	el abajo firmante	cnjadv
 	fra	Le Vert	np	spa	Le Vert	np
@@ -15502,10 +15502,10 @@ RL	fra	lentille	n-f$n	spa	lentilla	n$n-f
 	fra	lentille	n-f$n	spa	lente	n$n-f
 	fra	Léo	np$np-cog-mf-sp	spa	Léo	np$np-cog
 	fra	León	np$np-ant-m-sg$np-ant	spa	León	np$np-ant
-	fra	Léonard	np$np-cog$np-cog-mf-sp	spa	Léonard	np$np-ant
-	fra	Léonard de Vinci	np$np-ant$np-ant-m-sg	spa	Leonardo da Vinci	np$np-ant
+	fra	Léonard	np$np-ant-m-sg$np-ant	spa	Léonard	np$np-ant
+	fra	Léonard de Vinci	np$np-ant	spa	Leonardo da Vinci	np$np-ant
 LR	fra	Léonard Foujita	np	spa	Fujita Tsuguharu	np
-	fra	Leonardo	np$np-ant$np-ant-m-sg	spa	Leonardo	np$np-ant$np-ant-m-sg
+	fra	Leonardo	np-ant-m-sg$np$np-ant	spa	Leonardo	np$np-ant$np-ant-m-sg
 	fra	Leon Battista Alberti	np	spa	Leon Battista Alberti	np
 	fra	Leonel Fernández Reyna	np	spa	Leonel Antonio Fernández Reyna	np
 	fra	Leonor	np$np-ant$np-ant-f-sg	spa	Leonor	np$np-ant
@@ -15537,9 +15537,9 @@ RL	fra	les États-Unis	np$np-loc-f-pl	spa	Estados Unidos	np$np-loc$np-loc-m$np-l
 	fra	les gouvernements	np	spa	los ejecutivos	np
 	fra	Les Huguenots	np	spa	Los hugonotes	np
 	fra	lesbienne	n-f$n	spa	lesbiana	n$n-f
-	fra	Les Landes	np	spa	Las Landas	np$np-loc
+	fra	Les Landes	np	spa	Las Landas	np
 	fra	Les Lumières	np	spa	La Ilustración	np
-	fra	les Mariannes	np$np-loc	spa	las Marianas	np-loc
+	fra	les Mariannes	np-loc	spa	las Marianas	np-loc
 	fra	Les Peters	np	spa	Les Peters	np
 	fra	les temps chauds	np	spa	les temps chauds	np
 	fra	Les Vosges	np	spa	Los Vosgos	np
@@ -15590,7 +15590,7 @@ RL	fra	lever	vblex	spa	levar	vblex
 	fra	Lezama	np	spa	Lezama	np$np-loc-f
 	fra	Lezo	np	spa	Lezo	np$np-loc-m
 	fra	LGT	n-acr	spa	LGT	n-acr$n-acr-f
-	fra	L'Hospitalet de Llobregat	np$np-top-un-sg	spa	L'Hospitalet de Llobregat	np$np-loc-f
+	fra	L'Hospitalet de Llobregat	np	spa	L'Hospitalet de Llobregat	np$np-loc-f
 	fra	Li	np$np-cog-mf-sp	spa	Li	np$np-cog
 LR	fra	liaison	n-f$n$n-f-ND	spa	conexión	n$n-f$n-f-ND
 	fra	Liaño	np$np-cog-mf-sp	spa	Liaño	np
@@ -15712,7 +15712,7 @@ RL	fra	linguistique	adj$adj-mf-ND$adj-mf	spa	lingüístico	adj-m$adj-m-sg
 	fra	Lionel	np$np-ant$np-ant-m-sg	spa	Lionel	np-ant$np
 	fra	Lipper	np	spa	Lipper	np
 	fra	LIQ	n	spa	LIQ	n
-	fra	liqueur	n-f$n$n-f-ND	spa	licor	n-m$n$n-m-sg
+	fra	liqueur	n-f$n$n-f-ND	spa	licor	n$n-m$n-m-sg
 	fra	liquidable	adj$adj-mf	spa	liquidable	adj
 	fra	liquidatif	adj	spa	liquidativo	adj
 	fra	liquidation	n-f$n	spa	liquidación	n$n-f$n-f-sg
@@ -15922,8 +15922,8 @@ LR	fra	lors de	pr	spa	durante	pr
 RL	fra	lors de	pr	spa	en el momento de	pr
 LR	fra	lors même que	cnjadv	spa	a pesar de que	cnjadv
 	fra	lorsque	cnjadv	spa	cuando	cnjadv
-	fra	Los Angeles	np$np-loc-f	spa	Los Ángeles	np$np-loc$np-loc-m-pl$np-loc-m
-	fra	Los Angeles	np$np-loc-f	spa	Los Ángeles	np$np-loc$np-loc-m-pl$np-loc-m
+	fra	Los Angeles	np$np-loc-f	spa	Los Ángeles	np$np-loc-m-pl$np-loc$np-loc-m
+	fra	Los Angeles	np$np-loc-f	spa	Los Ángeles	np$np-loc-m-pl$np-loc$np-loc-m
 	fra	Lot	np$np-loc-f	spa	Lot	np$np-ant
 	fra	lot	n-m$n	spa	lote	n$n-m
 	fra	loterie	n-f$n	spa	lotería	n$n-f
@@ -15995,7 +15995,7 @@ RL	fra	ludique	adj-mf$adj	spa	lúdico	adj$adj-m-sg$adj-m
 	fra	Lugo	np$np-top-m-sg	spa	Lugo	np$np-loc$np-loc-f
 	fra	Lugo	np$np-top-m-sg	spa	Lugo	np$np-loc$np-loc-f
 	fra	lui	prn-enc-p3-mf-sg$prn-enc-p3-mf	spa	le	prn-enc-p3-mf-sg$prn-enc$prn$prn-enc-p3-mf
-	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn-pro	spa	le	prn-pro-p3-mf-sg$prn-pro$prn-pro-p3-mf
+	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn$prn-pro	spa	le	prn-pro-p3-mf-sg$prn-pro$prn-pro-p3-mf
 LR	fra	lui	prn-tn$prn-tn-p3-mf	spa	él	prn-tn$prn$prn-tn-p3-m-pl$prn-tn-p3-m$prn-tn-m
 RL	fra	lui	prn-enc-p3-mf-sg$prn-enc-p3-mf	spa	le	prn-enc-p3-mf-sp
 	fra	luire	vblex	spa	lucir	vblex
@@ -16256,7 +16256,7 @@ RL	fra	majorité	n-f$n-f-pl$n	spa	mayoría	n$n-f$n-f-sg
 	fra	mal	adv	spa	mal	adv
 	fra	mal	preadv	spa	mal	preadv
 LR	fra	mal	n-m$n$n-m-ND	spa	daño	n-m$n$n-m-sg
-RL	fra	mal	n-m$n$n-m-ND	spa	mal	n$n-m$n-m-ND
+RL	fra	mal	n-m$n$n-m-ND	spa	mal	n-m$n$n-m-ND
 	fra	Malabo	np$np-top-m$np-top-m-sg	spa	Malabo	np$np-loc$np-loc-m
 	fra	Malacca	np	spa	Malaca	np
 LR	fra	malade	adj-mf$adj$adj-mf-ND	spa	enfermo	adj$adj-GD-ND$adj-GD
@@ -16491,10 +16491,10 @@ LR	fra	marginal	adj-m	spa	marginal	adj-mf$adj$adj-mf-ND
 RL	fra	marginal	adj-GD$adj-GD-ND	spa	marginal	adj-mf$adj$adj-mf-ND
 	fra	marginalisation	n-f$n	spa	marginación	n$n-f$n-f-sg
 	fra	marginalité	n$n-f	spa	marginalidad	n
-	fra	Maria	np$np-ant$np-ant-f-sg	spa	Maria	np-ant$np
+	fra	Maria	np$np-ant-f-sg$np-ant	spa	Maria	np$np-ant
 	fra	mari	n$n-m$n-m-ND	spa	marido	n$n-m$n-m-ND
 	fra	Mari	np$np-ant$np-ant-f-sg	spa	Mari	np$np-ant$np-ant-f
-	fra	María	np$np-ant$np-ant-f-sg	spa	María	np$np-ant$np-ant-f-sg$np-ant-f
+	fra	María	np$np-ant-f-sg$np-ant	spa	María	np$np-ant$np-ant-f-sg$np-ant-f
 	fra	mariage	n-m$n$n-m-ND	spa	matrimonio	n-m$n$n-m-sg
 RL	fra	mariage	n-m$n$n-m-ND	spa	boda	n-f$n$n-f-sg
 	fra	Marian	np$np-ant-f-sg$np-ant	spa	Marian	np$np-ant
@@ -16592,10 +16592,10 @@ RL	fra	mars	n-m-sp$n-m$n	spa	marzo	n$n-m$n-m-sg
 	fra	Martias	np	spa	Martias	np
 	fra	martien	n$n-m	spa	marciano	n$n-m
 	fra	Martigues	np$np-loc-f	spa	Martigues	np
-	fra	Martin	np-ant$np$np-ant-m-sg	spa	Martin	np$np-ant$np-ant-m
+	fra	Martin	np-ant$np-ant-m-sg$np	spa	Martin	np$np-ant$np-ant-m
 	fra	Martín	np$np-ant$np-ant-m-sg	spa	Martín	np$np-ant$np-ant-m-sg
 	fra	Martín	np$np-ant$np-ant-m-sg	spa	Martín	np$np-ant$np-ant-m-sg
-	fra	Martin Luther	np$np-ant-m-sg	spa	Martín Lutero	np
+	fra	Martin Luther	np	spa	Martín Lutero	np
 	fra	Martín Torrijos	np	spa	Martín Torrijos Espino	np
 	fra	Martine	np-ant-f-sg$np$np-ant	spa	Martine	np$np-ant
 	fra	Martinez	np$np-cog-mf-sp$np-cog	spa	Martinez	np$np-cog$np-cog-mf
@@ -16618,7 +16618,7 @@ RL	fra	martyr	n-GD	spa	mártir	n-mf$n$n-mf-sg
 	fra	Mary	np$np-ant-f-sg$np-ant	spa	Mary	np$np-ant
 	fra	Mary McAleese	np$np-ant	spa	Mary McAleese	np$np-ant
 	fra	Marzio	np	spa	Marzio	np
-	fra	Mas	np$np-cog$np-cog-mf-sp	spa	Mas	np$np-al
+	fra	Mas	np-cog-mf-sp$np$np-cog	spa	Mas	np$np-al
 	fra	Mascate	np	spa	Mascate	np
 	fra	mascotte	n-f$n	spa	mascota	n$n-f
 	fra	masculin	adj$adj-GD-ND	spa	masculino	adj$adj-GD-ND
@@ -16638,7 +16638,7 @@ RL	fra	masque	n-m	spa	careta	n-f$n
 	fra	massif	adj$adj-GD-ND	spa	masivo	adj$adj-GD-ND
 	fra	massif	adj$adj-GD-ND	spa	masivo	adj$adj-GD-ND
 	fra	massif	n-m$n$n-m-ND	spa	macizo	n$n-m$n-m-ND
-	fra	Massif Central	np$np-top-m-sg	spa	Macizo Central	np
+	fra	Massif Central	np-top-m-sg$np	spa	Macizo Central	np
 	fra	Massif des Vosges	np	spa	Cordillera de los Vosgos	np
 	fra	massif Vinson	np	spa	Monte Vinson	np
 	fra	massification	n$n-f	spa	masificación	n$n-f
@@ -16935,22 +16935,22 @@ RL	fra	mépris	n-m-sp$n-m	spa	desprecio	n-m-sg
 RL	fra	mépriser	vblex	spa	desdeñar	vblex
 RL	fra	mépriser	vblex	spa	menospreciar	vblex
 	fra	mer	n-f$n	spa	mar	n-mf$n$n-mf-ND
-	fra	mer Adriatique	np$np-top-f-sg	spa	Mar Adriático	np
+	fra	mer Adriatique	np	spa	Mar Adriático	np
 	fra	mer Argentine	np	spa	Mar Argentino	np
-	fra	mer Baltique	np$np-loc-f	spa	Mar Báltico	np$np-top
-	fra	mer Cantabrique	np$np-top-f-sg	spa	Mar Cantábrico	np
+	fra	mer Baltique	np-loc-f$np	spa	Mar Báltico	np$np-top
+	fra	mer Cantabrique	np	spa	Mar Cantábrico	np
 	fra	mer Caspienne	np-loc-f$np	spa	Mar Caspio	np
 	fra	mer Chilienne	np	spa	Mar Chileno	np
 	fra	mer d'Alboran	np	spa	Mar de Alborán	np
 	fra	mer d'Amundsen	np	spa	Mar de Amundsen	np
 	fra	mer d'Andaman	np	spa	Mar de Andamán	np
-	fra	mer d'Arabie	np$np-loc-f	spa	Mar Arábigo	np
+	fra	mer d'Arabie	np-loc-f$np	spa	Mar Arábigo	np
 	fra	mer d'Arafura	np	spa	Mar de Arafura	np
 	fra	mer d'Aral	np-loc-f$np	spa	Mar de Aral	np$np-loc
-	fra	mer d'Azov	np$np-loc-f	spa	Mar de Azov	np$np-loc
+	fra	mer d'Azov	np-loc-f$np	spa	Mar de Azov	np$np-loc
 	fra	mer de Banda	np	spa	Mar de Banda	np
-	fra	mer de Barents	np	spa	Mar de Barents	np$np-loc
-	fra	mer de Beaufort	np	spa	Mar de Beaufort	np$np-loc
+	fra	mer de Barents	np	spa	Mar de Barents	np
+	fra	mer de Beaufort	np	spa	Mar de Beaufort	np
 	fra	mer de Bellingshausen	np	spa	Mar de Bellingshausen	np
 	fra	mer de Béring	np	spa	Mar de Bering	np
 	fra	mer de Célèbes	np	spa	Mar de Célebes	np
@@ -16958,12 +16958,12 @@ RL	fra	mépriser	vblex	spa	menospreciar	vblex
 	fra	mer de Chine orientale	np-loc-f$np	spa	Mar de China Oriental	np
 	fra	Mer de Corail	np	spa	Mar del Coral	np
 	fra	mer de Grau	np	spa	Mar de Grau	np
-	fra	mer de Kara	np$np-loc-f	spa	Mar de Kara	np
+	fra	mer de Kara	np-loc-f$np	spa	Mar de Kara	np
 	fra	mer de Laptev	np	spa	Mar de Laptev	np
 	fra	mer de l'Est	np	spa	Mar del Este	np
 	fra	mer de Norvège	np	spa	Mar de Noruega	np
 	fra	mer de Ross	np	spa	Mar de Ross	np
-	fra	mer de Sibérie Orientale	np$np-loc-f	spa	Mar de Siberia Oriental	np
+	fra	mer de Sibérie Orientale	np-loc-f$np	spa	Mar de Siberia Oriental	np
 	fra	mer de Sulu	np	spa	Mar de Sulu	np
 LR	fra	mer de Tasman	np	spa	Mar de Tasmania	np
 	fra	mer de Tasmanie	np	spa	Mar de Tasmania	np
@@ -16973,21 +16973,21 @@ LR	fra	mer de Tasman	np	spa	Mar de Tasmania	np
 	fra	mer des Caraïbes	np	spa	Mar Caribe	np
 	fra	mer des Philippines	np	spa	Mar de Filipinas	np
 	fra	mer des Sargasses	np	spa	Mar de los Sargazos	np
-	fra	mer d'Okhotsk	np$np-loc-f	spa	Mar de Ojotsk	np
+	fra	mer d'Okhotsk	np-loc-f$np	spa	Mar de Ojotsk	np
 LR	fra	mer d'Oman	np	spa	Mar Arábigo	np
 	fra	mer du Groenland	np	spa	Mar de Groenlandia	np
 	fra	mer du Japon	np$np-top-f-sg	spa	Mar de Japón	np
 	fra	mer du Labrador	np	spa	Mar del Labrador	np
-	fra	mer du Nord	np$np-loc-f	spa	Mar del Norte	np
-	fra	mer Égée	np-top-f-sg$np	spa	Mar Egeo	np
+	fra	mer du Nord	np-loc-f$np	spa	Mar del Norte	np
+	fra	mer Égée	np-loc-f$np	spa	Mar Egeo	np
 	fra	mer intérieure de Seto	np	spa	Mar Interior de Seto	np
-	fra	mer Ionienne	np$np-loc-f	spa	Mar Jónico	np
-	fra	mer Jaune	np$np-loc-f	spa	Mar Amarillo	np
-	fra	mer Méditerranée	np$np-loc-f	spa	Mar Mediterráneo	np
+	fra	mer Ionienne	np-loc-f$np	spa	Mar Jónico	np
+	fra	mer Jaune	np-loc-f$np	spa	Mar Amarillo	np
+	fra	mer Méditerranée	np-loc-f$np	spa	Mar Mediterráneo	np
 	fra	mer Morte	np$np-top-f-sg	spa	Mar Muerto	np
-	fra	mer Noire	np$np-loc-f	spa	Mar Negro	np
-	fra	mer Rouge	np$np-loc-f	spa	Mar Rojo	np$np-loc
-	fra	mer Tyrrhénienne	np-top-f-sg$np	spa	Mar Tirreno	np
+	fra	mer Noire	np-loc-f$np	spa	Mar Negro	np
+	fra	mer Rouge	np-loc-f$np	spa	Mar Rojo	np$np-loc
+	fra	mer Tyrrhénienne	np	spa	Mar Tirreno	np
 	fra	mercantile	adj$adj-mf$adj-mf-ND	spa	mercantil	adj-mf$adj$adj-mf-ND
 LR	fra	mercatique	n-f	spa	marketing	n$n-m$n-m-sg
 	fra	Mercedes	np$np-ant$np-ant-f-sg	spa	Mercedes	np$np-ant$np-ant-f-sg
@@ -17162,7 +17162,7 @@ LR	fra	Michel-Ange	np$np-ant-m-sg	spa	Miguel Ángel	np
 	fra	microprocesseur	n-m$n	spa	microprocessador	n
 	fra	micropuce	n-f	spa	microchip	n$n-m
 	fra	micro-rupture	n	spa	microrotura	n
-	fra	Microsoft	np$np-al-mf$np-al	spa	Microsoft	np$np-al$np-al-m
+	fra	Microsoft	np-al-m-sg$np$np-al$np-al-m	spa	Microsoft	np$np-al$np-al-m
 	fra	midi	n-m$n$n-m-ND	spa	mediodía	n$n-m$n-m-ND
 	fra	Midi-Pyrénées	np$np-loc-f	spa	Midi-Pyrénées	np
 RL	fra	Midi-Pyrénées	np$np-loc-f	spa	Mediodía Pirineos	np
@@ -17416,7 +17416,7 @@ LR	fra	moeurs	n-f-pl$n-f	spa	costumbre	n-f-pl
 	fra	Mohammad	np$np-cog-mf-sp	spa	Mohammad	np-ant$np
 	fra	Mohammadi	np	spa	Mohammadi	np
 	fra	Mohammed	np-ant-m-sg$np$np-ant	spa	Mohammed	np$np-ant
-	fra	moi	prn-tn$prn-tn-p1-mf-sg$prn-tn-p1	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
+	fra	moi	prn-tn$prn-tn-p1-mf-sg$prn-tn-p1$prn	spa	mí	prn-tn-p1-mf-sg$prn-tn$prn$prn-tn-p1-mf
 	fra	moi aussi	adv	spa	yo también	adv
 	fra	moindre	adj$adj-mf-ND$adj-mf	spa	menor	adj$adj-mf$adj-mf-ND
 	fra	moine	n$n-m$n-m-ND	spa	fraile	n$n-m$n-m-ND
@@ -17509,7 +17509,7 @@ RL	fra	monsieur	n-m$n$n-m-ND	spa	don	n-m$n$n-m-pl
 	fra	montage	n$n-m$n-m-ND	spa	montaje	n$n-m$n-m-ND
 	fra	montagnard	n$n-GD-ND	spa	montañero	n$n-m
 	fra	montagne	n-f$n$n-f-ND	spa	montaña	n-f$n$n-f-sg
-RL	fra	montagne	n-f$n$n-f-ND	spa	monte	n-m$n
+RL	fra	montagne	n-f$n$n-f-ND	spa	monte	n$n-m
 	fra	Montagnes Rocheuses	np	spa	Montañas Rocosas	np
 	fra	Montaigne	np$np-cog-mf-sp	spa	Montaigne	np$np-cog
 	fra	Montalbán	np$np-cog-mf-sp	spa	Montalbán	np$np-cog
@@ -17524,7 +17524,7 @@ RL	fra	montant	n$n-m	spa	montante	n$n-m
 	fra	Mont Athos	np	spa	Monte Athos	np
 	fra	Mont Blanc	np	spa	Mont Blanc	np
 	fra	mont des Oliviers	np	spa	Monte de los Olivos	np
-	fra	Mont-Blanc	np	spa	Mont-Blanc	np
+	fra	Mont-Blanc	np$np-top-m-sg	spa	Mont-Blanc	np
 	fra	Mont Mitchell	np	spa	Monte Mitchell	np
 	fra	Mont Perdu	np	spa	Monte Perdido	np
 	fra	Mont Rose	np	spa	Monte Rosa	np
@@ -17543,7 +17543,7 @@ RL	fra	monter	vblex	spa	montar	vblex
 	fra	Montes	np$np-cog$np-cog-mf-sp	spa	Montes	np$np-cog$np-cog-mf
 	fra	Montesinos	np-cog-mf-sp$np	spa	Montesinos	np$np-cog$np-cog-mf
 	fra	Montevideo	np$np-loc-f	spa	Montevideo	np$np-loc$np-loc-m
-	fra	mont	n-m$n	spa	monte	n-m$n
+	fra	mont	n-m$n	spa	monte	n$n-m
 	fra	Montgomery	np$np-cog-mf-sp	spa	Montgomery	np$np-ant
 	fra	Montiel	np$np-cog$np-cog-mf-sp	spa	Montiel	np$np-cog
 	fra	Montilla	np$np-cog$np-cog-mf-sp	spa	Montilla	np$np-cog$np-cog-mf
@@ -18079,7 +18079,7 @@ LR	fra	névralgique	adj-mf$adj	spa	neurálgico	adj$adj-GD
 RL	fra	névralgique	adj-mf$adj	spa	neurálgico	adj-f
 RL	fra	névralgique	adj-mf$adj	spa	neurálgico	adj-m$adj-m-sg
 	fra	Newark	np$np-al-m-sg	spa	Newark	np$np-loc-m
-	fra	New Delhi	np	spa	Nueva Delhi	np$np-loc$np-loc-f
+	fra	New Delhi	np	spa	Nueva Delhi	np$np-loc-f$np-loc
 	fra	New Jersey	np$np-top-f	spa	Nueva Jersey	np$np-loc-f
 	fra	New York	np$np-loc-f	spa	Nueva York	np$np-loc$np-loc-f
 	fra	New York	np$np-loc-f	spa	Nueva York	np$np-loc$np-loc-f
@@ -18148,7 +18148,7 @@ RL	fra	n'importe qui	prn-tn-mf-sp$prn-tn-mf$prn-tn	spa	cualquiera	prn-tn-mf-sg$p
 RL	fra	n'importe qui	prn-tn-mf-sp$prn-tn-mf$prn-tn	spa	quienquiera	prn-tn-mf-pl
 RL	fra	n'importe qui	prn-tn-mf-sp$prn-tn-mf$prn-tn	spa	quienquiera	prn-tn-mf-sg$prn$prn-tn
 	fra	n'importe quoi	prn	spa	cualquier cosa	prn$prn-tn-f$prn-tn-f-sg
-	fra	Nintendo	np$np-al-f-sg	spa	Nintendo	np$np-al-m
+	fra	Nintendo	np-al-f-sg$np	spa	Nintendo	np$np-al-m
 	fra	Niort	np$np-loc-f	spa	Niort	np
 	fra	Nissan	np$np-al-mf	spa	Nissan	np$np-al-mf
 	fra	nitrogène	n$n-m$n-m-ND	spa	nitrógeno	n$n-m$n-m-ND
@@ -18290,10 +18290,10 @@ RL	fra	notre	det-pos-mf$det-pos-mf-pl$det$det-pos	spa	nuestro	det-pos-m
 	fra	nourrir	vblex	spa	alimentar	vblex
 RL	fra	nourrir	vblex	spa	nutrir	vblex
 	fra	nourriture	n-f$n-f-ND$n	spa	alimento	n-m$n$n-m-ND
-	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	spa	nos	prn-pro$prn$prn-pro-p1-mf-pl
-LR	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	spa	nosotros	prn-tn-p1-GD$prn-tn-p1-GD-pl$prn$prn-tn
-RL	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	spa	nosotros	prn-tn-p1-f$prn-tn-p1-f-pl
-RL	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	spa	nosotros	prn-tn-p1-m$prn-tn-p1-m-pl
+	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	spa	nos	prn-pro$prn$prn-pro-p1-mf-pl
+LR	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	spa	nosotros	prn-tn-p1-GD$prn-tn-p1-GD-pl$prn$prn-tn
+RL	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	spa	nosotros	prn-tn-p1-f$prn-tn-p1-f-pl
+RL	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	spa	nosotros	prn-tn-p1-m$prn-tn-p1-m-pl
 	fra	nouveau	adj$adj-GD-ND	spa	nuevo	adj$adj-GD-ND
 RL	fra	nouveau	adj$adj-GD-ND	spa	novedoso	adj$adj-m-sg
 	fra	Nouveau-Brunswick	np$np-loc-f	spa	Nuevo Brunswick	np
@@ -18318,12 +18318,12 @@ RL	fra	Nouvelle-Castille	np$np-top-f-sg	spa	Nueva Castilla	np
 	fra	Nouvelle-Grenade	np	spa	Nueva Granada	np
 	fra	Nouvelle-Guinée	np$np-loc-f	spa	Nueva Guinea	np
 	fra	Nouvelle-Irlande	np	spa	Nueva Irlanda	np
-	fra	Nouvelle-Orléans	np$np-loc-f	spa	Nueva Orleans	np$np-loc$np-loc-f
-	fra	Nouvelle-Orléans	np$np-loc-f	spa	Nueva Orleans	np$np-loc$np-loc-f
-	fra	Nouvelles-Hébrides	np$np-loc-f	spa	Nuevas Hébridas	np$np-loc
+	fra	Nouvelle-Orléans	np$np-loc-f	spa	Nueva Orleans	np$np-loc-f$np-loc
+	fra	Nouvelle-Orléans	np$np-loc-f	spa	Nueva Orleans	np$np-loc-f$np-loc
+	fra	Nouvelles-Hébrides	np$np-loc-f	spa	Nuevas Hébridas	np
 	fra	Nouvelle-Sibérie	np$np-top-f	spa	Islas de Nueva Siberia	np$np-loc$np-loc-f
 	fra	Nouvelle-Zélande	np$np-loc-f	spa	Nueva Zelanda	np$np-loc$np-loc-f
-	fra	Nouvelle-Zemble	np	spa	Nueva Zembla	np$np-loc
+	fra	Nouvelle-Zemble	np	spa	Nueva Zembla	np
 	fra	Nouvelobs	np	spa	Nouvelobs	np
 	fra	Nova	np$np-cog-mf-sp	spa	Nova	np$np-cog
 	fra	nov.	n$n-m	spa	nov.	n$n-m
@@ -18368,7 +18368,7 @@ RL	fra	numérique	adj$adj-mf$adj-mf-ND	spa	numérico	adj-m$adj-m-sg
 	fra	numériser	vblex	spa	digitalizar	vblex
 LR	fra	numéro	n-m$n$n-m-ND	spa	número	n$n-m$n-m-sg
 	fra	numéro d'identification fiscale	n	spa	NIF	n$n-acr
-	fra	numéro un	n$n-m-sg	spa	número uno	n
+	fra	numéro un	n	spa	número uno	n
 	fra	numéro	n-m$n$n-m-ND	spa	número	n$n-m$n-m-sg
 	fra	numéro	n-m$n$n-m-ND	spa	número	n$n-m$n-m-sg
 	fra	Numidie	np	spa	Numidia	np$np-loc-f
@@ -18670,7 +18670,7 @@ RL	fra	oral	adj-GD$adj-GD-ND	spa	oral	adj$adj-mf$adj-mf-sg
 	fra	oralité	n-f$n	spa	oralidad	n
 	fra	Oran	np$np-top-m-sg	spa	Orán	np
 	fra	Oran	np$np-top-m-sg	spa	Orán	np
-	fra	Orange	np$np-loc-f	spa	Orange	np$np-al
+	fra	Orange	np$np-al$np-al-m-sg	spa	Orange	np$np-al
 	fra	orange	n-f$n$n-f-sg	spa	naranja	n$n-f$n-f-ND
 	fra	oranger	n-m$n$n-m-ND	spa	naranjo	n-m$n$n-m-ND
 	fra	Oranjestad	np	spa	Oranjestad	np
@@ -18781,7 +18781,7 @@ LR	fra	ornement	n-m$n$n-m-ND	spa	decoración	n-f$n$n-f-ND
 	fra	orphelinat	n-m$n	spa	orfanato	n$n-m$n-m-sg
 	fra	Orphéon Donostiarra	np	spa	Orfeón Donostiarra	np
 	fra	Orsay	np$np-top-m-sg	spa	Orsay	np
-	fra	Ortega	np$np-cog$np-cog-mf-sp	spa	Ortega	np$np-cog
+	fra	Ortega	np$np-cog-mf-sp$np-cog	spa	Ortega	np$np-cog
 LR	fra	orthodoxe	adj-mf$adj	spa	ortodoxo	adj$adj-GD
 RL	fra	orthodoxe	adj-mf$adj	spa	ortodoxo	adj-f
 RL	fra	orthodoxe	adj-mf$adj	spa	ortodoxo	adj-m$adj-m-sg
@@ -18996,7 +18996,7 @@ RL	fra	palmarès	n-m-sp$n-m	spa	palmarés	n-m-pl
 RL	fra	palmarès	n-m-sp$n-m	spa	palmarés	n-m-sg
 	fra	Palmera	np$np-top-f-sg	spa	Palmera	np$np-loc-f
 	fra	palmier	n-m$n$n-m-ND	spa	palmera	n$n-f$n-f-ND
-	fra	palmier nan	n$n-m	spa	palmito	n
+	fra	palmier nan	n	spa	palmito	n
 	fra	Palmyra	np	spa	Palmyra	np
 	fra	Palmyre	np$np-top-f-sg	spa	Palmira	np$np-ant
 	fra	Paloma	np$np-ant-f-sg$np-ant	spa	Paloma	np$np-ant
@@ -19005,7 +19005,7 @@ RL	fra	palmarès	n-m-sp$n-m	spa	palmarés	n-m-sg
 	fra	palourde	n-f$n	spa	almeja	n$n-f
 	fra	palpable	adj$adj-mf	spa	palpable	adj$adj-mf$adj-mf-sg
 	fra	palper	vblex	spa	palpar	vblex
-	fra	Pamesa	np	spa	Pamesa	np
+	fra	Pamesa	np	spa	Pamesa	np$np-al
 	fra	pampa	n-f$n$n-f-ND	spa	pampa	n$n-f$n-f-ND
 	fra	Pampelune	np$np-top-f-sg	spa	Pamplona	np$np-loc-f$np-loc
 RL	fra	Pampelune	np$np-top-f-sg	spa	Iruña	np$np-loc-f
@@ -19437,11 +19437,11 @@ RL	fra	pays	n-m-sp$n-m$n	spa	país	n-m$n$n-m-sg
 	fra	paysan	n$n-f	spa	campesino	n$n-m$n-m-ND
 	fra	Pays-Bas	np$np-loc-f-pl	spa	Países Bajos	np$np-loc$np-loc-m$np-loc-m-pl
 	fra	Pays-Basque du nord	np	spa	Iparralde	np
-	fra	Pays Basque	np$np-top$np-top-m$np-top-m-sg	spa	País Vasco	np$np-top$np-top-m
+	fra	Pays Basque	np-top$np$np-top-m$np-top-m-sg	spa	País Vasco	np$np-top$np-top-m
 	fra	Pays Basque français	np	spa	País Vasco francés	np
-	fra	Pays de Galles	np$np-top$np-top-m-sg$np-top-m	spa	País de Gales	np-top$np
-RL	fra	Pays de Galles	np$np-top$np-top-m-sg$np-top-m	spa	Gales	np$np-top$np-top-m
-	fra	Pays de Loire	np$np-loc-f	spa	País del Loira	np
+	fra	Pays de Galles	np$np-top$np-top-m$np-top-m-sg	spa	País de Gales	np-top$np
+RL	fra	Pays de Galles	np$np-top$np-top-m$np-top-m-sg	spa	Gales	np$np-top$np-top-m
+	fra	Pays de Loire	np-loc-f$np	spa	País del Loira	np
 	fra	Pays-de-la-Loire	np	spa	Países del Loira	np
 	fra	PC	n-acr-m$n-acr$n	spa	PC	n$n-acr-m$n-acr
 	fra	PCTV	n	spa	PCTV	n$n-acr-m-sg
@@ -19701,7 +19701,7 @@ RL	fra	persique	adj-mf$adj	spa	pérsico	adj-m$adj-m-sg
 	fra	personnalisation	n-f$n	spa	personalización	n$n-f
 	fra	personnalisé	adj	spa	personalizado	adj
 	fra	personnalité	n$n-f$n-f-ND	spa	personalidad	n$n-f$n-f-sg
-	fra	personne	n$n-f$n-f-ND	spa	persona	n-f$n$n-f-sg
+	fra	personne	n$n-f$n-f-ND	spa	persona	n$n-f$n-f-sg
 	fra	personne	prn-tn-mf-sg$prn-tn$prn-tn-mf	spa	nadie	prn$prn-tn-mf-sg$prn-tn-mf$prn-tn
 	fra	personne autorisée	n	spa	persona autorizada	n
 	fra	personne morale	n-f$n	spa	persona jurídica	
@@ -19757,9 +19757,9 @@ RL	fra	pervers	adj-m-sp$adj	spa	perverso	adj$adj-m-sg
 	fra	petit-déjeuner	n$n-m$n-m-ND	spa	almuerzo	n-m$n$n-m-sg
 	fra	petite enfance	n	spa	primera infancia	n
 	fra	petite et moyenne entreprise	n$n-f	spa	pequeña y mediana empresa	n$n-f
-	fra	Petite Ourse	np$np-loc-f	spa	Osa Menor	np$np-loc-m
-	fra	petite place	n-f$n	spa	plazoleta	n
-RL	fra	petite place	n-f$n	spa	plazuela	n
+	fra	Petite Ourse	np-loc-f$np	spa	Osa Menor	np$np-loc-m
+	fra	petite place	n$n-f	spa	plazoleta	n
+RL	fra	petite place	n$n-f	spa	plazuela	n
 	fra	petite-fille	n-f$n	spa	nieta	n
 	fra	Petites Antilles	np	spa	Pequeñas Antillas	np
 	fra	Petites Îles de la Sonde	np	spa	Pequeñas Islas de la Sonda	np
@@ -19853,7 +19853,7 @@ RL	fra	philatélique	adj$adj-mf	spa	filatélico	adj-m$adj-m-sg
 LR	fra	philosophique	adj-mf$adj$adj-mf-ND	spa	filosófico	adj$adj-GD$adj-GD-ND
 RL	fra	philosophique	adj-mf$adj$adj-mf-ND	spa	filosófico	adj-f
 RL	fra	philosophique	adj-mf$adj$adj-mf-ND	spa	filosófico	adj-m$adj-m-sg
-	fra	Phnom Penh	np$np-loc	spa	Phnom Penh	np$np-loc
+	fra	Phnom Penh	np-loc	spa	Phnom Penh	np-loc$np
 	fra	Pho	np	spa	Pho	np
 	fra	PHO	n-acr	spa	PHO	n-acr
 	fra	phobie	n-f$n	spa	fobia	n$n-f
@@ -19943,7 +19943,7 @@ LR	fra	piger	vblex	spa	entender	vblex
 LR	fra	piloter	vblex	spa	conducir	vblex
 	fra	pilule	n-f$n	spa	píldora	n$n-f
 	fra	PIN	n-acr	spa	PIN	n$n-acr
-	fra	pin	n-m$n$n-m-ND	spa	pino	n-m$n$n-m-ND
+	fra	pin	n-m$n$n-m-ND	spa	pino	n$n-m$n-m-ND
 RL	fra	pin	n-m$n$n-m-ND	spa	pin	n$n-m
 	fra	pinacothèque	n$n-f	spa	pinacoteca	n$n-f
 	fra	Pinault	np$np-cog-mf-sp	spa	Pinault	np
@@ -20039,7 +20039,7 @@ RL	fra	plaisant	adj$adj-GD-ND$adj-GD	spa	agradable	adj-mf$adj-mf-ND$adj
 RL	fra	plaisir	n-m$n$n-m-ND	spa	disfrute	n-m$n
 	fra	Plana	np$np-top-f-sg	spa	Plana	np$np-cog
 	fra	plan	n-m$n$n-m-ND	spa	plan	n$n-m$n-m-sg
-RL	fra	plan	n-m$n$n-m-ND	spa	plano	n-m$n$n-m-sg
+RL	fra	plan	n-m$n$n-m-ND	spa	plano	n$n-m$n-m-sg
 	fra	plan d'aide à l'investissement	n-acr	spa	PAI	n-acr$n
 	fra	plancton	n$n-m$n-m-sg	spa	plancton	n$n-m$n-m-sg
 	fra	planer	vblex	spa	planear	vblex
@@ -20075,7 +20075,7 @@ LR	fra	plâtrier	n-f	spa	escayolista	n$n-mf
 LR	fra	plâtrier	n-m$n	spa	escayolista	n$n-mf
 RL	fra	plâtrier	n-GD	spa	escayolista	n$n-mf
 	fra	Plaute	np	spa	Plauto	np
-	fra	Play	np$np-al	spa	Play	np
+	fra	Play	np$np-al	spa	Play	np$np-al
 	fra	Play-Off	np	spa	Play-Off	np
 	fra	playstation	n$n-f	spa	playstation	n
 	fra	Playtime	np	spa	Playtime	np
@@ -20346,7 +20346,7 @@ LR	fra	portfolio	n-m	spa	carpeta	n-f$n
 	fra	Port-Louis	np$np-top	spa	Port Louis	np$np-top
 	fra	Porto	np$np-top-m-sg	spa	Oporto	np$np-loc$np-loc-m
 	fra	Porto Novo	np	spa	Porto-Novo	np
-	fra	Porto Rico	np$np-loc-f	spa	Puerto Rico	np$np-loc$np-loc-m
+	fra	Porto Rico	np-loc-f$np	spa	Puerto Rico	np$np-loc-m$np-loc
 	fra	portraire	vblex	spa	retratar	vblex
 	fra	portrait	n-m$n$n-m-ND	spa	retrato	n-m$n$n-m-ND
 	fra	portraiturer	vblex	spa	retratar	vblex
@@ -20857,7 +20857,7 @@ LR	fra	proche	adj-mf$adj$adj-mf-ND	spa	cercano	adj$adj-GD-ND$adj-GD
 RL	fra	proche	adj-mf$adj$adj-mf-ND	spa	afín	adj-mf$adj$adj-mf-sg
 RL	fra	proche	adj-mf$adj$adj-mf-ND	spa	cercano	adj-f$adj-f-pl
 RL	fra	proche	adj-mf$adj$adj-mf-ND	spa	cercano	adj-m$adj-m-sg
-	fra	Proche-Orient	np$np-loc-f	spa	Oriente Próximo	np$np-loc$np-loc-m
+	fra	Proche-Orient	np$np-loc-f	spa	Oriente Próximo	np$np-loc-m
 RL	fra	Proche-Orient	np$np-loc-f	spa	Cercano Oriente	np
 RL	fra	Proche-Orient	np$np-loc-f	spa	Oriente Cercano	np
 RL	fra	Proche-Orient	np$np-loc-f	spa	Próximo Oriente	np$np-loc-m
@@ -21074,7 +21074,7 @@ LR	fra	prouver	vblex	spa	probar	vblex
 	fra	provenance	n$n-f$n-f-ND	spa	procedencia	n$n-f$n-f-ND
 LR	fra	provenant	adj$adj-mf$adj-mf-ND	spa	procedente	adj-mf$adj$adj-mf-ND
 	fra	Provence	np$np-loc-f	spa	Provenza	np$np-loc$np-loc-f
-	fra	Provence-Alpes-Côte d'Azur	np$np-top-f-sg	spa	Provenza-Alpes-Costa Azul	np
+	fra	Provence-Alpes-Côte d'Azur	np-top-f-sg$np	spa	Provenza-Alpes-Costa Azul	np
 	fra	provenir	vblex	spa	provenir	vblex
 	fra	proverbe	n-m$n	spa	refrán	n-m$n$n-m-sg
 RL	fra	proverbe	n-m$n	spa	proverbio	n$n-m
@@ -21164,7 +21164,7 @@ RL	fra	publicitaire	adj-mf$adj$adj-mf-ND	spa	publicitario	adj-m$adj-m-sg
 	fra	puérilité	n$n-f	spa	puerilidad	n
 	fra	Puerto del Rosario	np	spa	Puerto del Rosario	np$np-loc-f
 	fra	pugnacité	n-f$n	spa	pugnacidad	n$n-f
-	fra	Puig	np$np-top-m-sg	spa	Puig	np$np-cog$np-cog-mf
+	fra	Puig	np-cog-mf-sp$np	spa	Puig	np$np-cog$np-cog-mf
 	fra	Puigcorbé	np	spa	Puigcorbé	np
 LR	fra	puis	adv	spa	después	adv
 	fra	puisard	n-m$n	spa	sumidero	n$n-m
@@ -21182,7 +21182,7 @@ RL	fra	puissant	adj$adj-GD-ND$adj-GD	spa	potente	adj-mf$adj$adj-mf-ND
 LR	fra	puits	n-m-sp$n-m$n	spa	pozo	n$n-m$n-m-ND
 RL	fra	puits	n-m-sp$n-m$n	spa	pozo	n-m-pl
 RL	fra	puits	n-m-sp$n-m$n	spa	pozo	n-m-sg
-	fra	Pujol	np$np-cog-mf-sp$np-cog	spa	Pujol	np$np-cog$np-cog-mf
+	fra	Pujol	np-cog-mf-sp$np$np-cog	spa	Pujol	np$np-cog$np-cog-mf
 	fra	pulsation	n-f$n	spa	pulsación	n$n-f
 	fra	pulvérisation	n$n-f	spa	pulverización	n
 	fra	Pumpido	np$np-cog-mf-sp	spa	Pumpido	np
@@ -21251,9 +21251,9 @@ RL	fra	quant à	pr	spa	por lo que respecta a	pr
 	fra	quantité	n-f$n$n-f-ND	spa	cantidad	n$n-f$n-f-sg
 RL	fra	quantité	n-f$n$n-f-ND	spa	cuantía	n-f$n$n-f-ND
 	fra	quarantaine	n$n-f	spa	cuarentena	n$n-f
-	fra	quarante	num$num-mf-sp	spa	cuarenta	num$$num-mf$num-mf-sp
-	fra	quarante et un	det	spa	cuarenta y uno	det$det-def
-	fra	quarante et un	num	spa	cuarenta y uno	num$$num-m
+	fra	quarante	num$num-mf-sp	spa	cuarenta	num$num-mf-sp$$num-mf
+	fra	quarante et un	det	spa	cuarenta y uno	det-def$det
+	fra	quarante et un	num	spa	cuarenta y uno	num$$num-mf
 	fra	quarante-cinq	num$num-mf-sp	spa	cuarenta y cinco	num$$num-mf
 	fra	quarante-deux	num$num-mf-sp	spa	cuarenta y dos	num-mf$num$num-mf-pl$
 	fra	quarante-huit	num$num-mf-sp	spa	cuarenta y ocho	num$$num-mf
@@ -21278,22 +21278,22 @@ RL	fra	quatorzième	adj$adj-mf$adj-mf-ND	spa	decimocuarto	adj$adj-f$adj-f-pl
 RL	fra	quatorzième	adj$adj-mf$adj-mf-ND	spa	decimocuarto	adj-m$adj-m-sg
 	fra	quatre	num$num-mf-pl	spa	cuatro	num$$num-mf-sp
 	fra	quatre cents	num$num-mf-pl	spa	cuatrocientos	num$$num-GD-pl
-	fra	quatre-vingt	num$num-mf-sp	spa	ochenta	num$$num-mf$num-mf-sp
+	fra	quatre-vingt	num$num-mf-sp	spa	ochenta	num$num-mf-sp$$num-mf
 	fra	quatre-vingt-cinq	num$num-mf-sp	spa	ochenta y cinco	num$$num-mf
-	fra	quatre-vingt-deux	num$num-mf-sp	spa	ochenta y dos	num-mf$num-mf-sp$num$
-	fra	quatre-vingt-dix	num$num-mf-pl	spa	noventa	num$$num-mf
+	fra	quatre-vingt-deux	num$num-mf-sp	spa	ochenta y dos	num-mf$num$num-mf-pl$
+	fra	quatre-vingt-dix	num$num-mf-pl	spa	noventa	num$$num-mf$num-mf-sp
 	fra	quatre-vingt-dix-huit	num$num-mf-sp	spa	noventa y ocho	num$$num-mf
 	fra	quatre-vingt-dix-neuf	num$num-mf-sp	spa	noventa y nueve	num$$num-mf
 	fra	quatre-vingt-dix-sept	num$num-mf-sp	spa	noventa y siete	num$$num-mf
 	fra	quatre-vingt-douze	num$num-mf-sp	spa	noventa y dos	num-mf$num$num-mf-pl$
 	fra	quatre-vingt-huit	num$num-mf-sp	spa	ochenta y ocho	num$$num-mf
 	fra	quatre-vingt-neuf	num$num-mf-sp	spa	ochenta y nueve	num$$num-mf
-LR	fra	quatre-vingt-onze	det-def-mf$det-def	spa	noventa y uno	det-def$det$det-def-GD
-LR	fra	quatre-vingt-onze	num-mf$num$num-mf-sp	spa	noventa y uno	num-GD
+LR	fra	quatre-vingt-onze	det-def-mf$det-def	spa	noventa y uno	det-def$det-def-GD
+LR	fra	quatre-vingt-onze	num-mf$num$num-mf-sp	spa	noventa y uno	num$$num-GD
 RL	fra	quatre-vingt-onze	det-def-mf$det-def	spa	noventa y uno	det-def-f
 RL	fra	quatre-vingt-onze	det-def-mf$det-def	spa	noventa y uno	det-def-m
 RL	fra	quatre-vingt-onze	num-mf$num$num-mf-sp	spa	noventa y uno	num-f
-RL	fra	quatre-vingt-onze	num-mf$num$num-mf-sp	spa	noventa y uno	num$num-m$
+RL	fra	quatre-vingt-onze	num-mf$num$num-mf-sp	spa	noventa y uno	num-m
 	fra	quatre-vingt-quatorze	num$num-mf-sp	spa	noventa y cuatro	num$$num-mf
 	fra	quatre-vingt-quatre	num$num-mf-sp	spa	ochenta y cuatro	num$$num-mf
 	fra	quatre-vingt-quinze	num$num-mf-sp	spa	noventa y cinco	num$$num-mf
@@ -21303,7 +21303,7 @@ RL	fra	quatre-vingt-onze	num-mf$num$num-mf-sp	spa	noventa y uno	num$num-m$
 	fra	quatre-vingt-treize	num$num-mf-sp	spa	noventa y tres	num$$num-mf
 	fra	quatre-vingt-trois	num$num-mf-sp	spa	ochenta y tres	num$$num-mf
 	fra	quatre-vingt-un	det	spa	ochenta y uno	det-def$det
-	fra	quatre-vingt-un	num	spa	ochenta y uno	num$$num-m
+	fra	quatre-vingt-un	num	spa	ochenta y uno	num$$num-mf
 LR	fra	quatrième	adj$adj-mf$adj-mf-ND	spa	cuarto	adj-GD
 RL	fra	quatrième	adj$adj-mf$adj-mf-ND	spa	cuarto	adj$adj-f$adj-f-pl
 RL	fra	quatrième	adj$adj-mf$adj-mf-ND	spa	cuarto	adj-m$adj-m-sg
@@ -21331,7 +21331,7 @@ LR	fra	quel	prn-itg-m$prn-itg-m-sg	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-it
 RL	fra	quel	adj$adj-itg-GD-ND$adj-itg	spa	qué	adj-itg-mf-sp$adj$adj-itg
 RL	fra	quel	prn$prn-itg-GD$prn-itg-GD-sg	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-itg
 LR	fra	quelque	adv	spa	aproximadamente	adv
-LR	fra	quelque	det-ind-mf$det-ind-mf-pl$det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+LR	fra	quelque	det-ind-mf$det-ind-mf-pl$det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
 RL	fra	quelque	det-ind-mf$det-ind-mf-pl$det-ind	spa	alguno	det-ind-f-pl$det-ind-f
 RL	fra	quelque	det-ind-mf$det-ind-mf-pl$det-ind	spa	alguno	det-ind-m-pl$det-ind-m
 	fra	quelque chose	prn-tn-nt-sg$prn$prn-tn-nt	spa	algo	prn$prn-tn$prn-tn-nt-sg$prn-tn-nt
@@ -21349,11 +21349,11 @@ LR	fra	qu'est-ce que c'est que	prn$prn-itg-mf	spa	qué	prn$prn-itg$prn-itg-mf-sg
 RL	fra	question	n$n-f$n-f-ND	spa	interrogante	n$n-m
 RL	fra	question	n$n-f$n-f-ND	spa	pregunta	n$n-f$n-f-ND
 	fra	questionnaire	n-m$n$n-m-ND	spa	cuestionario	n-m$n$n-m-sg
-LR	fra	quête	n-f$n$n-f-ND	spa	búsqueda	n-f$n$n-f-sg
+LR	fra	quête	n-f$n$n-f-ND	spa	búsqueda	n$n-f$n-f-sg
 	fra	queue	n-f$n$n-f-ND	spa	cola	n-f$n$n-f-ND
 RL	fra	queue	n-f$n$n-f-ND	spa	rabo	n-m$n$n-m-ND
 	fra	Quevedo	np$np-cog$np-cog-mf-sp	spa	Quevedo	np$np-cog
-LR	fra	qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	spa	quién	prn-itg-mf-ND
+LR	fra	qui	prn-itg-mf-sp$prn-itg$prn-itg-mf	spa	quién	prn-itg-mf-ND
 LR	fra	qui	rel$rel-mf-sp$rel-an-mf-sp	spa	que	rel$rel-an$rel-an-mf-sp
 RL	fra	qui	rel$rel-mf-sp$rel-an-mf-sp	spa	quien	rel-nn-mf-pl$rel-mf
 RL	fra	qui	rel$rel-mf-sp$rel-an-mf-sp	spa	quien	rel-nn-mf-sg$rel-nn
@@ -21362,9 +21362,9 @@ RL	fra	qui analyse	adj-mf-sp	spa	analizador	adj-f-pl
 RL	fra	qui analyse	adj-mf-sp	spa	analizador	adj-f-sg
 RL	fra	qui analyse	adj-mf-sp	spa	analizador	adj-m-pl
 RL	fra	qui analyse	adj-mf-sp	spa	analizador	adj-m-sg$adj
-LR	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	spa	quién	prn-itg-mf-ND
-RL	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	spa	quién	prn-itg-mf-pl
-RL	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg
+LR	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf	spa	quién	prn-itg-mf-ND
+RL	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf	spa	quién	prn-itg-mf-pl
+RL	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg
 	fra	Quichotte	np$np-al-m-sg	spa	Quijote	np$np-ant
 	fra	Quiksilver	np	spa	Quiksilver	np
 	fra	quille	n-f$n	spa	quilla	n-f$n
@@ -21668,10 +21668,10 @@ RL	fra	réactionnaire	n-mf$n	spa	reaccionario	n-m
 	fra	Reagan	np-cog-mf-sp$np	spa	Reagan	np-ant$np
 	fra	réagir	vblex	spa	reaccionar	vblex
 LR	fra	réajustement	n-m$n	spa	reajuste	n$n-m
-	fra	Real	np$np-cog-mf-sp	spa	Real	np$np-cog
-	fra	Real Madrid	np$np-al-m-sg	spa	Real Madrid	np$np-al$np-al-m
-	fra	Real Madrid	np$np-al-m-sg	spa	Real Madrid	np$np-al$np-al-m
-	fra	Real Sociedad	np$np-al-f-sg	spa	Real Sociedad	np$np-al$np-al-m-sg
+	fra	Real	np-al-m-sg$np$np-al	spa	Real	np-al$np
+	fra	Real Madrid	np$np-al-m-sg	spa	Real Madrid	np$np-al-m
+	fra	Real Madrid	np$np-al-m-sg	spa	Real Madrid	np$np-al-m
+	fra	Real Sociedad	np$np-al-f-sg	spa	Real Sociedad	np$np-al-m-sg
 	fra	Real Sporting de Gijón	np	spa	Real Sporting de Gijón	np
 	fra	réalisateur	n$n-m	spa	realizador	n$n-f-pl
 	fra	réalisation	n-f$n$n-f-ND	spa	realización	n$n-f$n-f-sg
@@ -21717,7 +21717,7 @@ RL	fra	recette	n-f$n	spa	recaudación	n$n-f$n-f-sg
 RL	fra	rechange	n-m$n	spa	repuesto	n$n-m
 	fra	réchauffement	n-m$n	spa	recalentamiento	n$n-m
 	fra	recherche	n-f$n$n-f-ND	spa	investigación	n-f$n$n-f-sg
-RL	fra	recherche	n-f$n$n-f-ND	spa	búsqueda	n-f$n$n-f-sg
+RL	fra	recherche	n-f$n$n-f-ND	spa	búsqueda	n$n-f$n-f-sg
 RL	fra	recherche	n-f$n$n-f-ND	spa	pesquisa	n-f$n
 RL	fra	recherche	n-f$n$n-f-ND	spa	busca	n-f$n$n-f-ND
 	fra	rechercher	vblex	spa	investigar	vblex
@@ -21775,10 +21775,10 @@ RL	fra	recruter	vblex	spa	reclutar	vblex
 	fra	recteur	n$n-m$n-m-ND	spa	rector	n$n-m-sg$n-m
 	fra	rectification	n-f$n	spa	rectificación	n$n-f
 	fra	rectifier	vblex	spa	rectificar	vblex
-	fra	reçu	adj	spa	recibido	adj
+	fra	reçu	adj$adj-mf-sp	spa	recibido	adj
 	fra	reçu	n-m$n$n-m-ND	spa	recibo	n-m$n$n-m-ND
 RL	fra	reçu	n-m$n$n-m-ND	spa	resguardo	n$n-m
-	fra	reçu et signé	adj$adj-mf-sp	spa	recibido y conforme	adj
+	fra	reçu et signé	adj	spa	recibido y conforme	adj
 LR	fra	recueil	n-m$n$n-m-ND	spa	selección	n$n-f$n-f-ND
 	fra	recueil	n-m$n$n-m-ND	spa	poemario	n$n-m
 	fra	recueil	n-m$n$n-m-ND	spa	refranero	n
@@ -22248,7 +22248,7 @@ RL	fra	reprocher	vblex	spa	recriminar	vblex
 	fra	République de Salo	np	spa	República de Salò	np
 	fra	République Démocratique Allemande	np	spa	República Democrática Alemana	np$np-al-f
 	fra	République Démocratique du Congo	np	spa	República Democrática del Congo	np$np-loc
-	fra	République Dominicaine	np$np-loc-f	spa	República Dominicana	np$np-loc$np-loc-f
+	fra	République Dominicaine	np-loc-f$np	spa	República Dominicana	np$np-loc$np-loc-f
 	fra	République du Congo	np$np-top-f-sg	spa	República del Congo	np
 	fra	République Française	np	spa	República Francesa	np
 	fra	République moldave de Transnistrie	np	spa	República Moldava del Transniéster	np
@@ -22496,7 +22496,7 @@ RL	fra	révolutionnaire	n-mf$n$n-mf-ND	spa	revolucionario	n-m$n-m-sg
 	fra	revoter	vblex	spa	revotar	vblex
 	fra	revue	n-f$n$n-f-ND	spa	revista	n-f$n$n-f-ND
 	fra	Rex	np$np-ant-m-sg	spa	Rex	np
-	fra	Reyes	np$np-cog-mf-sp	spa	Reyes	np$np-cog
+	fra	Reyes	np$np-cog-mf-sp	spa	Reyes	np$np-ant
 	fra	Reykjavík	np	spa	Reykjavík	np
 	fra	Reynolds	np$np-cog-mf-sp	spa	Reynolds	np$np-cog
 	fra	RH	n	spa	RRHH	n
@@ -22662,12 +22662,12 @@ LR	fra	rogner	vblex	spa	recortar	vblex
 	fra	Roh Moo-hyun	np	spa	Roh Moo-Hyun	np
 	fra	roi	n$n-m$n-m-ND	spa	rey	n$n-m$n-m-ND
 	fra	Roig	np$np-cog-mf-sp	spa	Roig	np$np-al
-	fra	Rois mages	np	spa	Reyes Magos	np$np-ant
+	fra	Rois mages	np	spa	Reyes Magos	np
 	fra	Roissy	np$np-top	spa	Roissy	np
 	fra	Rojo	np$np-cog-mf-sp	spa	Rojo	np$np-cog
 	fra	Roland	np$np-ant-m-sg$np-ant	spa	Roland	np$np-ant
 	fra	Roldán	np$np-cog$np-cog-mf-sp	spa	Roldán	np$np-cog$np-cog-mf
-	fra	rôle	n-m$n	spa	rol	n$n-m
+	fra	rôle	n$n-m	spa	rol	n$n-m
 	fra	rôle principal	n	spa	protagonismo	n$n-m
 	fra	Rolland	np$np-cog-mf-sp$np-cog	spa	Rolland	np$np-cog
 	fra	Rolling	np$np-al	spa	Rolling	np$np-al
@@ -22791,7 +22791,7 @@ RL	fra	royaliste	adj-mf$adj	spa	monárquico	adj-f
 RL	fra	royaliste	adj-mf$adj	spa	monárquico	adj-m$adj-m-sg
 	fra	royaume	n-m$n$n-m-ND	spa	reino	n$n-m$n-m-ND
 	fra	royaume des Deux-Roses	np	spa	Reino de las Dos Sicilias	np
-	fra	Royaume-Uni	np-top-m-sg$np$np-top-m$np-top	spa	Reino Unido	np$np-loc-m$np-loc
+	fra	Royaume-Uni	np$np-top-m-sg$np-top-m$np-top	spa	Reino Unido	np$np-loc-m$np-loc
 	fra	Royaume-Uni de Grande-Bretagne et d'Irlande du Nord	np$np-top-m	spa	Reino Unido de Gran Bretaña e Irlanda del Norte	np$np-loc-m
 	fra	Royaume-Uni de Grande-Bretagne et d'Irlande	np$np-top-m	spa	Reino Unido de Gran Bretaña e Irlanda	np$np-loc-m
 	fra	royauté	n-f$n	spa	realeza	n$n-f$n-f-sg
@@ -22825,7 +22825,7 @@ RL	fra	ruelle	n-f	spa	calleja	n-f$n
 	fra	ruine	n-f$n	spa	ruina	n-f$n$n-f-pl
 	fra	ruiner	vblex	spa	arruinar	vblex
 	fra	ruisseau	n-m$n$n-m-ND	spa	arroyo	n$n-m$n-m-ND
-	fra	Ruiz	np$np-cog-mf-sp$np-cog	spa	Ruiz	np$np-cog-mf$np-cog
+	fra	Ruiz	np-cog-mf-sp$np$np-cog	spa	Ruiz	np$np-ant
 	fra	Rujano	np	spa	Rujano	np
 	fra	rumba	n-f$n	spa	rumba	n$n-f
 	fra	rumeur	n-f$n-f-ND	spa	rumor	n-m$n$n-m-ND
@@ -22925,7 +22925,7 @@ RL	fra	sagesse	n$n-f$n-f-ND	spa	sabiduría	n$n-f$n-f-ND
 	fra	Sagrera	np-loc	spa	Sagrera	np-loc$np
 	fra	Sagunto	np$np-top-m-sg	spa	Sagunt	np$np-loc-f
 RL	fra	Sagunto	np$np-top-m-sg	spa	Sagunto	np$np-loc$np-loc-f
-	fra	Sahara	np-loc$np-loc-f$np	spa	Sáhara	np$np-loc$np-loc-m
+	fra	Sahara	np$np-loc$np-loc-f	spa	Sáhara	np$np-loc$np-loc-m
 LR	fra	Sahara marocain	np	spa	Sahara Occidental	np$np-top
 	fra	Sahara occidental	np$np-top	spa	Sahara Occidental	np$np-top
 	fra	Said	np$np-cog-mf-sp	spa	Said	np$np-ant
@@ -22939,12 +22939,12 @@ LR	fra	saillir	vblex	spa	sobresalir	vblex
 	fra	Saint-Barthélemy	np$np-al-mf	spa	San Bartolomé	np$np-loc-f
 LR	fra	Saint Empire	np	spa	Sacro imperio romano germánico	np
 	fra	Saint Empire romain germanique	np	spa	Sacro imperio romano germánico	np
-	fra	saint François Borgia	np$np-ant-m-sg	spa	San Francisco de Borja	np
+	fra	saint François Borgia	np	spa	San Francisco de Borja	np
 	fra	saint François d'Assise	np	spa	San Francisco de Asís	np
 	fra	Saint Gall	np	spa	Sankt Gallen	np
 	fra	Saint Georges	np	spa	Saint Georges	np
-	fra	Saint John's	np$np-loc-f	spa	Saint John's	np
-	fra	Saint Pierre	np	spa	San Pedro	np$np-ant
+	fra	Saint John's	np-loc-f$np	spa	Saint John's	np
+	fra	Saint Pierre	np	spa	San Pedro	np$np-loc-f
 	fra	Saint-Brieuc	np$np-top$np-top-m-sg	spa	Saint-Brieuc	np$np-top
 	fra	Saint Thomas d'Aquin	np	spa	Santo Tomás de Aquino	np$np-ant
 LR	fra	Saint-Christophe-et-Niévès	np$np-top$np-top-ind-m	spa	San Cristobal y Nieves	np$np-top
@@ -22972,7 +22972,7 @@ RL	fra	Saint-Kitts-et-Nevis	np	spa	San Cristobal y Nieves	np$np-top
 	fra	Saint-Marin	np$np-loc-f	spa	San Marino	np$np-top
 	fra	Saint-Martin	np$np-top$np-top-m-sg	spa	San Martín	np-top$np
 	fra	Saint-Michel	np	spa	Saint-Michel	np
-	fra	Saint-Pétersbourg	np$np-top-m-sg	spa	San Petersburgo	np$np-loc$np-loc-m
+	fra	Saint-Pétersbourg	np$np-top-m-sg	spa	San Petersburgo	np$np-loc-m$np-loc
 	fra	Saint-Pierre	np$np-loc-f	spa	Saint-Pierre	np
 	fra	Saint-Pierre	np$np-loc-f	spa	Saint-Pierre	np
 	fra	Saint-Pierre et Miquelon	np	spa	San Pedro y Miquelón	np$np-loc
@@ -22984,7 +22984,7 @@ RL	fra	Saint-Sébastien	np$np-top-m-sg	spa	Donostia	np$np-loc-f
 LR	fra	Saint-Sylvestre	n	spa	nochevieja	n
 	fra	Saint-Tropez	np	spa	Saint-Tropez	np
 	fra	Saint-Vincent-et-les Grenadines	np	spa	San Vicente y las Granadinas	np$np-loc
-	fra	Sainz	np$np-cog$np-cog-mf-sp	spa	Sainz	np$np-cog
+	fra	Sainz	np$np-cog-mf-sp$np-cog	spa	Sainz	np$np-cog
 	fra	Sáinz	np	spa	Sáinz	np
 	fra	Saipan	np	spa	Saipan	np
 	fra	saisie	n-f$n-f-ND	spa	embargo	n$n-m$n-m-ND
@@ -23054,7 +23054,7 @@ RL	fra	Salinas	np$np-cog-mf-sp	spa	Salines	np
 	fra	salutaire	adj$adj-mf	spa	saludable	adj$adj-mf$adj-mf-sg
 	fra	salutation	n-f$n$n-f-ND	spa	saludo	n-m$n$n-m-ND
 	fra	Salva	np	spa	Salva	np
-	fra	Salvador	np-loc-f$np-loc	spa	El Salvador	np$np-loc$np-loc-m
+	fra	Salvador	np-loc-f$np-loc	spa	El Salvador	np-loc$np$np-loc-m
 	fra	Salvador	np$np-top-m-sg$np-top$np-top-m	spa	Salvador	np$np-ant$np-ant-m-sg
 	fra	Salzbourg	np$np-top-m-sg	spa	Salzburgo	np$np-loc
 	fra	Sam	np$np-ant$np-ant-m-sg	spa	Sam	np$np-ant
@@ -23070,14 +23070,14 @@ RL	fra	Salinas	np$np-cog-mf-sp	spa	Salines	np
 	fra	Samsung	np$np-al-mf$np-al	spa	Samsung	np$np-al-mf
 	fra	Samuel	np$np-ant$np-ant-m-sg	spa	Samuel	np$np-ant$np-ant-m$np-ant-m-sg
 	fra	Sanaa	np	spa	Saná	np
-	fra	San	np	spa	San	np$np-ant
+	fra	San	np$np-cog-mf-sp	spa	San	np$np-loc
 	fra	San Antonio Spurs	np	spa	San Antonio Spurs	np
-	fra	San José	np$np-top-m-sg	spa	San José	np$np-cog
-	fra	San José	np$np-top-m-sg	spa	San José	np$np-cog
+	fra	San José	np$np-cog-mf-sp	spa	San José	np$np-cog
+	fra	San José	np$np-cog-mf-sp	spa	San José	np$np-cog
 	fra	San Juan	np$np-cog-mf-sp	spa	San Juan	np$np-cog
 	fra	San Mamés	np	spa	San Mamés	np
 	fra	San Pietro in Montorio	np	spa	San Pietro in Montorio	np
-	fra	San Salvador	np$np-loc-f	spa	San Salvador	np$np-loc-f
+	fra	San Salvador	np-loc-f$np	spa	San Salvador	np$np-loc-f
 	fra	San Sebastián de la Gomera	np	spa	San Sebastián de la Gomera	np$np-loc-f
 	fra	San Sebastián de los Reyes	np	spa	San Sebastián de los Reyes	np$np-loc-f
 	fra	Sanche le Grand	np	spa	Antso Handia	np
@@ -23275,7 +23275,7 @@ LR	fra	scie	n$n-f	spa	sierra	n$n-f$n-f-ND
 	fra	scie	n$n-f	spa	sierra	n$n-f$n-f-ND
 	fra	scie	n$n-f	spa	sierra	n$n-f$n-f-ND
 	fra	scie	n$n-f	spa	sierra	n$n-f$n-f-ND
-	fra	science	n-f$n$n-f-ND	spa	ciencia	n-f$n$n-f-sg
+	fra	science	n-f$n$n-f-ND	spa	ciencia	n$n-f$n-f-sg
 	fra	sciences commerciales	n	spa	ciencias empresariales	n
 LR	fra	scientifique	n-mf$n$n-mf-ND	spa	científico	n-GD$n-GD-ND
 LR	fra	scientifique	adj-mf$adj$adj-mf-ND	spa	científico	adj$adj-GD$adj-GD-ND
@@ -23328,7 +23328,7 @@ LR	fra	séance plénière	n	spa	sesión plenaria	n
 	fra	Seat	np$np-al-mf	spa	Seat	np$np-al-mf
 	fra	Seattle	np$np-top-f	spa	Seattle	np$np-loc$np-loc-f
 	fra	seau	n-m$n$n-m-ND	spa	cubo	n-m$n$n-m-ND
-	fra	Sebastian	np$np-ant$np-ant-m-sg	spa	Sebastian	np$np-ant
+	fra	Sebastian	np$np-ant$np-ant-m-sg	spa	Sebastian	np-ant$np
 	fra	Sebastián	np$np-cog-mf-sp	spa	Sebastián	np$np-ant$np-ant-m-sg
 	fra	Sébastian Cabot	np	spa	Sebastián Caboto	np
 	fra	Sebastien	np$np-ant	spa	Sebastien	np$np-ant
@@ -23671,7 +23671,7 @@ RL	fra	siège	n-m$n$n-m-ND	spa	seo	n-f$n
 	fra	Siemens	np$np-al-mf$np-al	spa	Siemens	np$np-al-m
 	fra	Siemens S.A	np	spa	Siemens S.A	np
 	fra	sierra	n-f$n$n-f-ND	spa	sierra	n$n-f$n-f-ND
-	fra	Sierra Leone	np$np-loc-f	spa	Sierra Leona	np$np-loc$np-loc-f
+	fra	Sierra Leone	np-loc-f$np	spa	Sierra Leona	np$np-loc-f$np-loc
 	fra	Sierra Morena	np	spa	Sierra Morena	np$np-loc-f
 	fra	sieste	n-f$n$n-f-ND	spa	siesta	n$n-f$n-f-sg
 	fra	sifflement	n-m$n	spa	silbido	n-m$n
@@ -23897,25 +23897,25 @@ LR	fra	soigner	vblex	spa	tratar	vblex$vblex-inf
 RL	fra	soin	n-m$n-m-ND$n	spa	cuidado	n-m$n$n-m-sg
 	fra	soir	n-m$n$n-m-ND	spa	tarde	n-f$n$n-f-ND
 LR	fra	soirée	n-f$n$n-f-ND	spa	noche	n$n-f$n-f-sg
-	fra	soixante	num$num-mf-sp	spa	sesenta	num$$num-mf$num-mf-sp
+	fra	soixante	num$num-mf-sp	spa	sesenta	num$num-mf-sp$$num-mf
 	fra	soixante et un	det$det-def	spa	sesenta y uno	det-def$det
 	fra	soixante et un	det$det-def	spa	sesenta y uno	det-def$det
-	fra	soixante et un	num	spa	sesenta y uno	num$$num-m
+	fra	soixante et un	num	spa	sesenta y uno	num$$num-mf
 	fra	soixante-cinq	num$num-mf-sp	spa	sesenta y cinco	num$$num-mf
 	fra	soixante-deux	num$num-mf-sp	spa	sesenta y dos	num-mf$num$num-mf-pl$
-	fra	soixante-dix	num$num-mf-pl	spa	setenta	num$$num-mf
+	fra	soixante-dix	num$num-mf-pl	spa	setenta	num$$num-mf$num-mf-sp
 	fra	soixante-dix-huit	num$num-mf-sp	spa	setenta y ocho	num$$num-mf
 	fra	soixante-dix-neuf	num$num-mf-sp	spa	setenta y nueve	num$$num-mf
 	fra	soixante-dix-sept	num$num-mf-sp	spa	setenta y siete	num$$num-mf
 	fra	soixante-douze	num$num-mf-sp	spa	setenta y dos	num-mf$num$num-mf-pl$
 	fra	soixante-huit	num$num-mf-sp	spa	sesenta y ocho	num$$num-mf
 	fra	soixante-neuf	num$num-mf-sp	spa	sesenta y nueve	num$$num-mf
-LR	fra	soixante-onze	det-def-mf$det-def	spa	setenta y uno	det-def$det$det-def-GD
-LR	fra	soixante-onze	num-mf$num$num-mf-sp	spa	setenta y uno	num-GD
+LR	fra	soixante-onze	det-def-mf$det-def	spa	setenta y uno	det-def$det-def-GD
+LR	fra	soixante-onze	num-mf$num$num-mf-sp	spa	setenta y uno	num$$num-GD
 RL	fra	soixante-onze	det-def-mf$det-def	spa	setenta y uno	det-def-f
 RL	fra	soixante-onze	det-def-mf$det-def	spa	setenta y uno	det-def-m
 RL	fra	soixante-onze	num-mf$num$num-mf-sp	spa	setenta y uno	num-f
-RL	fra	soixante-onze	num-mf$num$num-mf-sp	spa	setenta y uno	num$num-m$
+RL	fra	soixante-onze	num-mf$num$num-mf-sp	spa	setenta y uno	num-m
 	fra	soixante-quatorze	num$num-mf-sp	spa	setenta y cuatro	num$$num-mf
 	fra	soixante-quatre	num$num-mf-sp	spa	sesenta y cuatro	num$$num-mf
 	fra	soixante-quinze	num	spa	setenta y cinco	num$$num-mf
@@ -24452,7 +24452,7 @@ RL	fra	succès	n-m-sp$n-m$n	spa	éxito	n-m$n$n-m-sg
 	fra	sud	n$n-m$n-m-ND	spa	sur	n-m$n$n-m-sg
 	fra	sud-coréen	adj	spa	surcoreano	adj
 	fra	sud-est	n-m-sg$n-m$n	spa	sudeste	n$n-m$n-m-ND
-RL	fra	sud-est	adj$adj-mf$adj-mf-sg	spa	sureste	adj
+RL	fra	sud-est	adj$adj-mf$adj-mf-sp	spa	sureste	adj
 RL	fra	sud-est	n-m-sg$n-m$n	spa	sureste	n$n-m
 	fra	Sudètes	np$np-loc-f	spa	Sudetes	np
 	fra	Sud-Ouest africain	np	spa	África del Sudoeste	np
@@ -24588,9 +24588,9 @@ RL	fra	sur	pr	spa	acerca de	pr
 LR	fra	sur concours	adj-mf-sp	spa	concursal	adj-mf-ND
 RL	fra	sur concours	adj-mf-sp	spa	concursal	adj-mf-pl
 RL	fra	sur concours	adj-mf-sp	spa	concursal	adj$adj-mf-sg
-LR	fra	sur douze mois	adj-mf-sp$adj	spa	interanual	adj-mf-ND
-RL	fra	sur douze mois	adj-mf-sp$adj	spa	interanual	adj-mf-pl
-RL	fra	sur douze mois	adj-mf-sp$adj	spa	interanual	adj$adj-mf$adj-mf-sg
+LR	fra	sur douze mois	adj-mf-sp	spa	interanual	adj-mf-ND
+RL	fra	sur douze mois	adj-mf-sp	spa	interanual	adj-mf-pl
+RL	fra	sur douze mois	adj-mf-sp	spa	interanual	adj$adj-mf$adj-mf-sg
 	fra	sur la défensive	adv	spa	a la defensiva	adv
 LR	fra	sur la rêquete de	pr	spa	a instancias de	pr
 	fra	sur le plan	adv	spa	a efectos	adv
@@ -24864,7 +24864,7 @@ RL	fra	tapisserie	n-f$n$n-f-ND	spa	tapiz	n$n-m$n-m-ND
 	fra	tare	n-f$n	spa	tara	n$n-f
 RL	fra	tare	n-f$n	spa	lacra	n-f$n
 	fra	Tarente	np	spa	Tarento	np$np-loc
-	fra	tarif	n-m$n-m-ND	spa	tarifa	n$n-f$n-f-ND
+	fra	tarif	n-m$n$n-m-ND	spa	tarifa	n$n-f$n-f-ND
 	fra	tarif douanier	n-m$n	spa	arancel	n$n-m
 	fra	tarification	n-f$n	spa	tarificación	n
 	fra	Tarja Halonen	np	spa	Tarja Halonen	np
@@ -24963,9 +24963,9 @@ RL	fra	teinture	n-f$n	spa	tintura	n-f$n
 	fra	Tejero	np$np-cog$np-cog-mf-sp	spa	Tejero	np$np-cog$np-cog-mf
 	fra	Teki	np	spa	Teki	np
 	fra	Teknalia	np$np-al	spa	Teknalia	np-al
-LR	fra	tel	adj-f$adj-f-sg	spa	tal	adj-mf$adj$adj-mf-pl
-LR	fra	tel	adj-m$adj-m-sg	spa	tal	adj-mf$adj$adj-mf-pl
-RL	fra	tel	adj$adj-GD$$adj-GD-ND	spa	tal	adj-mf$adj$adj-mf-pl
+LR	fra	tel	adj-f$adj-f-sg	spa	tal	adj-mf$adj$adj-mf-sg
+LR	fra	tel	adj-m$adj-m-sg	spa	tal	adj-mf$adj$adj-mf-sg
+RL	fra	tel	adj$adj-GD$$adj-GD-ND	spa	tal	adj-mf$adj$adj-mf-sg
 	fra	tél	n-acr-m$n	spa	tfno	n
 	fra	Tel-Aviv	np	spa	Tel Aviv	np$np-loc-m
 LR	fra	tel que	cnjadv	spa	como	cnjadv
@@ -25006,11 +25006,11 @@ RL	fra	téléphonique	adj$adj-mf	spa	telefónico	adj-m$adj-m-sg
 	fra	télévisuel	adj$$adj-GD-ND	spa	televisivo	adj$adj-GD-ND
 	fra	télézapping	np	spa	telezapping	np
 	fra	tellement	preadv	spa	tan	preadv
-LR	fra	tellement	adj-mf-sp	spa	tanto	adj-GD-ND
-RL	fra	tellement	adj-mf-sp	spa	tanto	adj-f$adj-f-pl
-RL	fra	tellement	adj-mf-sp	spa	tanto	adj-f-sg
-RL	fra	tellement	adj-mf-sp	spa	tanto	adj-m-pl
-RL	fra	tellement	adj-mf-sp	spa	tanto	adj$adj-m-sg$adj-m
+LR	fra	tellement	adj-mf-sp$adj	spa	tanto	adj-GD-ND
+RL	fra	tellement	adj-mf-sp$adj	spa	tanto	adj-f$adj-f-pl
+RL	fra	tellement	adj-mf-sp$adj	spa	tanto	adj-f-sg
+RL	fra	tellement	adj-mf-sp$adj	spa	tanto	adj-m-pl
+RL	fra	tellement	adj-mf-sp$adj	spa	tanto	adj$adj-m-sg$adj-m
 	fra	Telleria	np	spa	Telleria	np
 	fra	Tello	np$np-cog$np-cog-mf-sp	spa	Tello	np$np-cog
 LR	fra	téméraire	adj-mf$adj	spa	temerario	adj-GD-ND$adj-GD
@@ -25118,7 +25118,7 @@ RL	fra	terrible	adj-mf$adj$adj-mf-ND	spa	tremendo	adj-m$adj-m-sg
 	fra	territoire	n$n-m$n-m-ND	spa	territorio	n$n-m$n-m-sg
 	fra	Territoire britannique de l'océan Indien	np	spa	Territorio Británico en el Océano Índico	np
 	fra	territoire communal	n	spa	término municipal	n
-	fra	Territoire de Belfort	np$np-loc-f	spa	Territorio de Belfort	np
+	fra	Territoire de Belfort	np-loc-f$np	spa	Territorio de Belfort	np
 	fra	Territoires palestiniens	np	spa	Territorios Palestinos	np
 LR	fra	territorial	adj$adj-f$adj-f-sg	spa	territorial	adj$adj-mf$adj-mf-pl
 LR	fra	territorial	adj-m$adj-m-sg	spa	territorial	adj$adj-mf$adj-mf-pl
@@ -25259,7 +25259,7 @@ RL	fra	timide	adj$adj-mf$adj-mf-ND	spa	tímido	adj-f
 RL	fra	timide	adj$adj-mf$adj-mf-ND	spa	tímido	adj-m
 	fra	timidement	adv	spa	tímidamente	adv
 	fra	timidité	n-f$n	spa	timidez	n$n-f$n-f-sg
-	fra	Timor oriental	np-top-m-sg$np	spa	Timor Oriental	np$np-loc
+	fra	Timor oriental	np$np-top-m-sg	spa	Timor Oriental	np$np-loc
 	fra	Timothy	np$np-ant-m-sg$np-ant	spa	Timothy	np$np-ant
 	fra	Tindaya	np	spa	Tindaya	np
 	fra	Tindouf	np	spa	Tinduf	np
@@ -25294,9 +25294,9 @@ RL	fra	tir	n-m$n$n-m-ND	spa	remate	n$n-m
 	fra	Titien	np$np-ant$np-ant-m-sg	spa	Tiziano	np$np-ant
 	fra	Titín	np	spa	Titín	np
 	fra	Tito	np$np-ant	spa	Tito	np$np-ant$np-ant-m
-	fra	titre	n$n-m$n-m-ND	spa	título	n-m$n$n-m-sg
+	fra	titre	n$n-m$n-m-ND	spa	título	n$n-m$n-m-sg
 LR	fra	titre financier	n	spa	título valor	n$n-m
-	fra	titre	n$n-m$n-m-ND	spa	título	n-m$n$n-m-sg
+	fra	titre	n$n-m$n-m-ND	spa	título	n$n-m$n-m-sg
 	fra	titulaire	n$n-mf$n-mf-ND	spa	titular	n-mf$n$n-mf-ND
 	fra	titulaire	adj$adj-mf$adj-mf-ND	spa	titular	adj$adj-mf-ND
 	fra	titulaire	n$n-mf$n-mf-ND	spa	titular	n-mf$n$n-mf-ND
@@ -25465,7 +25465,7 @@ LR	fra	touron	n-m$n	spa	turrón	n$n-m
 	fra	tous risques	adv	spa	a todo riesgo	adv
 	fra	Toussaint	np$np-cog$np-cog-mf-sp	spa	Todos los Santos	np
 	fra	tout	predet$predet-m$predet-m-sg	spa	todo	predet$predet-ind-GD
-	fra	tout	prn-tn-m-sg$prn$prn-tn$prn-tn-m	spa	todo	prn$prn-tn$prn-tn-m$prn-tn-m-sg
+	fra	tout	prn$prn-tn-m-sg$prn-tn$prn-tn-m	spa	todo	prn$prn-tn$prn-tn-m$prn-tn-m-sg
 	fra	Toutankhamon	np	spa	Tutankamón	np
 RL	fra	Toutankhamon	np	spa	Tutankamen	np
 	fra	tout à fait	adv	spa	sin duda	adv
@@ -25661,9 +25661,9 @@ RL	fra	Trébizonde	np	spa	Trabzon	np
 	fra	Trent	np$np-ant	spa	Trent	np$np-ant
 	fra	trentaine	n-f$n	spa	treintena	n$n-f
 	fra	Trente	np$np-top-m-sg	spa	Trento	np$np-loc
-	fra	trente	num$num-mf-pl	spa	treinta	num$$num-mf
-	fra	trente et un	det	spa	treinta y uno	det$det-def
-	fra	trente et un	num	spa	treinta y uno	num$$num-m
+	fra	trente	num$num-mf-pl	spa	treinta	num$$num-mf$num-mf-sp
+	fra	trente et un	det	spa	treinta y uno	det-def$det
+	fra	trente et un	num	spa	treinta y uno	num$$num-mf
 	fra	trente-cinq	num$num-mf-sp	spa	treinta y cinco	num$$num-mf
 	fra	trente-deux	num$num-mf-sp	spa	treinta y dos	num-mf$num$num-mf-pl$
 	fra	trente-huit	num$num-mf-sp	spa	treinta y ocho	num$$num-mf
@@ -25682,8 +25682,8 @@ RL	fra	trentième	adj$adj-mf$adj-mf-ND	spa	trigésimo	adj-m$adj-m-sg
 	fra	très ferme	adj	spa	contundente	adj$adj-mf$adj-mf-sg
 	fra	trésor	n-m$n$n-m-ND	spa	hacienda	n$n-f$n-f-ND
 	fra	trésor	n-m$n$n-m-ND	spa	tesoro	n$n-m$n-m-ND
-	fra	trésor public	n-m$n	spa	hacienda pública	n-f
-RL	fra	trésor public	n-m$n	spa	tesoro público	n
+	fra	trésor public	n$n-m	spa	hacienda pública	n-f
+RL	fra	trésor public	n$n-m	spa	tesoro público	n
 	fra	trésorerie	n-f$n	spa	tesorería	n$n-f
 	fra	trésorier	n$n-m	spa	tesorero	n$n-GD
 	fra	trêve	n-f$n$n-f-ND	spa	tregua	n$n-f$n-f-ND
@@ -25892,21 +25892,21 @@ LR	fra	ultime	adj$adj-mf$adj-mf-ND	spa	último	adj$adj-GD
 	fra	UMP	np$np-al	spa	UMP	np
 	fra	Umpro	np	spa	Umpro	np$np-al-m-sg
 	fra	un	det-ind-f-sg	spa	uno	det-ind-f-sg
-	fra	un	det-ind-m-sg	spa	uno	det-ind$det$det-ind-m-sg$det-ind-m
+	fra	un	det-ind-m-sg	spa	uno	det$det-ind$det-ind-m-sg$det-ind-m
 	fra	un	num$num-GD	spa	uno	num$num-m-sp$num-m
 	fra	un	prn	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg
-LR	fra	un	det-ind-mf-pl$det-ind$det	spa	uno	det-ind-GD-pl
-RL	fra	un	det-ind-mf-pl$det-ind$det	spa	uno	det-ind-f-pl$det-ind-f
-RL	fra	un	det-ind-mf-pl$det-ind$det	spa	uno	det-ind-m-pl
+LR	fra	un	det-ind-mf-pl$det-ind$det$det-ind-mf	spa	uno	det-ind-GD-pl
+RL	fra	un	det-ind-mf-pl$det-ind$det$det-ind-mf	spa	uno	det-ind-f-pl$det-ind-f
+RL	fra	un	det-ind-mf-pl$det-ind$det$det-ind-mf	spa	uno	det-ind-m-pl
 	fra	Unai	np$np-ant	spa	Unai	np$np-ant
 	fra	unanime	adj$adj-mf$adj-mf-ND	spa	unánime	adj-mf$adj$adj-mf-ND
 	fra	unanimité	n$n-f	spa	unanimidad	n$n-f$n-f-sg
 	fra	Unanue	np	spa	Unanue	np$np-cog-mf
-	fra	un autre	det-ind-f-sg	spa	otro	det-ind-f-sg$det-ind-f
+	fra	un autre	det-ind-f-sg$det-ind	spa	otro	det-ind-f-sg$det-ind-f
 	fra	un autre	det-ind-m-sg	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m
-LR	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind	spa	otro	det-ind-GD$det-ind-GD-ND
-RL	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind	spa	otro	det-ind-f-pl
-RL	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind	spa	otro	det-ind-m-pl
+LR	fra	un autre	det-ind-mf-pl$det-ind-mf	spa	otro	det-ind-GD$det-ind-GD-ND
+RL	fra	un autre	det-ind-mf-pl$det-ind-mf	spa	otro	det-ind-f-pl
+RL	fra	un autre	det-ind-mf-pl$det-ind-mf	spa	otro	det-ind-m-pl
 	fra	une bonne fois pour toutes	adv	spa	de una vez por todas	adv
 	fra	une fois	adv	spa	una vez	adv
 	fra	Une verité qui derange	np	spa	Una verdad incómoda	np
@@ -25934,7 +25934,7 @@ RL	fra	unilatéral	adj-GD	spa	unilateral	adj-mf$adj$adj-mf-sg
 	fra	union	n-f$n$n-f-ND	spa	unión	n$n-f$n-f-ND
 	fra	Union des Républiques Socialistes Soviétiques	np-loc-f$np	spa	Unión de Repúblicas Socialistas Soviéticas	np
 	fra	Union des Republiques Socialistes Soviétiques	np	spa	Unión de Repúblicas Socialistas Soviéticas	np
-	fra	Union européenne	np$np-top$np-top-f-sg	spa	Unión Europea	np$np-loc-f
+	fra	Union européenne	np$np-top-f-sg	spa	Unión Europea	np$np-loc-f
 	fra	Union Latine	np	spa	Unión Latina	np
 	fra	Union Soviétique	np-loc-f$np	spa	Unión Soviética	np-loc-f$np
 	fra	Union sud-africaine	np	spa	Unión Sudafricana	np
@@ -26054,7 +26054,7 @@ RL	fra	utérus	n-m$n-m-sp	spa	útero	n$n-m$n-m-sg
 	fra	vacance	n-f-pl$n-f$n	spa	vacaciones	n$n-f-pl$n-f
 	fra	vacance	n-f-sg	spa	vacante	n$n-f-sg$n-f
 RL	fra	vacance	n-f-pl$n-f$n	spa	vacante	n-f-pl
-	fra	vacances	n$n-f	spa	vacaciones	n$n-f-pl$n-f
+	fra	vacances	n$n-f$n-f-pl	spa	vacaciones	n$n-f-pl$n-f
 LR	fra	vacant	adj$adj-f$adj-f-sg	spa	vacante	adj-mf$adj$adj-mf-pl
 LR	fra	vacant	adj-m$adj-m-sg	spa	vacante	adj-mf$adj$adj-mf-pl
 RL	fra	vacant	adj-GD$adj-GD-ND	spa	vacante	adj-mf$adj$adj-mf-pl
@@ -26361,7 +26361,7 @@ LR	fra	vêtir	vblex	spa	vestir	vblex
 	fra	vexation	n-f$n	spa	vejación	n$n-f
 	fra	via	pr	spa	vía	pr
 	fra	VI	num$num-mf-sp	spa	VI	num
-	fra	Vía de las dos Castillas	np$np-loc	spa	Vía de las dos Castillas	np$np-loc$np-loc-f
+	fra	Vía de las dos Castillas	np$np-loc	spa	Vía de las dos Castillas	np-loc$np$np-loc-f
 	fra	viabilisation	n$n-f	spa	viabilización	n
 	fra	viabilité	n$n-f	spa	viabilidad	n$n-f-sg$n-f
 	fra	viable	adj$adj-mf$adj-mf-ND	spa	viable	adj-mf$adj$adj-mf-ND
@@ -26400,7 +26400,7 @@ RL	fra	Vich	np$np-cog-mf-sp	spa	Vich	np
 	fra	victoire	n$n-f$n-f-ND	spa	victoria	n$n-f$n-f-sg
 	fra	victoire	n$n-f$n-f-ND	spa	victoria	n$n-f$n-f-sg
 	fra	victoire	n$n-f$n-f-ND	spa	victoria forzada	n
-	fra	Victor	np-ant$np$np-ant-m-sg	spa	Victor	np-ant$np$np-ant-m
+	fra	Victor	np-ant$np-ant-m-sg$np	spa	Victor	np-ant$np$np-ant-m
 	fra	Víctor	np$np-ant-m-sg$np-ant	spa	Víctor	np$np-ant$np-ant-m-sg
 	fra	Victor Hugo	np$np-ant$np-ant-m-sg	spa	Victor Hugo	np$np-ant
 	fra	Victoria	np$np-loc-f	spa	Victoria	np$np-ant$np-ant-f-sg
@@ -26462,7 +26462,7 @@ LR	fra	VIIème	adj$adj-mf$adj-mf-sg	spa	VII	adj
 LR	fra	VIIIème	adj$adj-mf$adj-mf-sg	spa	VIII	adj
 	fra	Viktor	np$np-ant	spa	Viktor	np$np-ant
 	fra	Viktor Iouchtchenko	np	spa	Viktor Yushchenko	np
-	fra	Vila	np$np-cog-mf-sp	spa	Vila	np$np-cog
+	fra	Vila	np-cog-mf-sp$np	spa	Vila	np$np-cog
 	fra	Viladecans	np$np-top-m-sg	spa	Viladecans	np$np-loc$np-loc-f
 	fra	Vilafranca	np$np-cog-mf-sp	spa	Vilafranca	np$np-cog
 RL	fra	Vilafranca	np$np-cog-mf-sp	spa	Villafranca del Cid	np$np-ant
@@ -26500,11 +26500,11 @@ RL	fra	ville	n-f$n$n-f-ND	spa	urbe	n-m$n
 	fra	Vilnious	np	spa	Vilnius	np
 RL	fra	Vilnious	np	spa	Vilna	np$np-loc-m$np-loc
 LR	fra	Vilnius	np$np-top	spa	Vilna	np$np-loc-m$np-loc
-	fra	vin	n$n-m$n-m-ND	spa	vino	n$n-m$n-m-sg
+	fra	vin	n-m$n$n-m-ND	spa	vino	n$n-m$n-m-sg
 	fra	vinaigre	n-m$n	spa	vinagre	n-m$n$n-m-sg
 	fra	Vinaroz	np$np-top-m-sg	spa	Vinaròs	np$np-loc$np-loc-f
 RL	fra	Vinaroz	np$np-top-m-sg	spa	Vinaroz	np
-	fra	vin rouge	n$n-m	spa	vino tinto	
+	fra	vin rouge	n	spa	vino tinto	
 	fra	Vincent	np-ant$np$np-ant-m-sg	spa	Vincent	np$np-ant
 	fra	Vincenzo	np$np-ant$np-ant-m-sg	spa	Vincenzo	np-ant$np
 	fra	vingt	num$num-mf-pl	spa	veinte	num$$num-mf$num-mf-sp
@@ -26799,7 +26799,7 @@ RL	fra	vue	n-n-f	spa	avistamiento	n-m$n
 	fra	Wielgus	np	spa	Wielgus	np
 	fra	Wi-Fi	np$np-al	spa	Wi-Fi	np$np-al-m
 	fra	Wiggins	np$np-cog-mf-sp	spa	Wiggins	np$np-cog
-	fra	Wii	np$np-al-f-sg	spa	Wii	np
+	fra	Wii	np-al-f-sg$np	spa	Wii	np
 	fra	Wikeriadur	np$np-al	spa	Wikeriadur	np$np-al
 	fra	Wikipédia	np$np-al-mf$np-al	spa	Wikipedia	np-al$np$np-al-mf
 	fra	Wiktionnaire	np	spa	Wiktionnaire	np
@@ -26814,13 +26814,13 @@ RL	fra	vue	n-n-f	spa	avistamiento	n-m$n
 	fra	Wim	np$np-ant-m-sg	spa	Wim	np
 	fra	Wimbledon	np$np-al	spa	Wimbledon	np$np-loc
 	fra	Windhoek	np$np-top-m-sg	spa	Windhoek	np
-	fra	Windows	np$np-al-mf$np-al	spa	Windows	np$np-al-mf$np-al
+	fra	Windows	np-al-m-sg$np$np-al	spa	Windows	np$np-al-mf$np-al
 	fra	Windsor	np$np-loc-f	spa	Windsor	np
 	fra	Wisconsin	np$np-top-m$np-top-ind-m	spa	Wisconsin	np$np-loc$np-loc-m
 	fra	Wolfgang	np$np-ant-m-sg	spa	Wolfgang	np$np-ant
 	fra	Wong	np$np-cog$np-cog-mf-sp	spa	Wong	np$np-cog
 	fra	Woodworth	np-cog-mf-sp$np	spa	Woodworth	np$np-ant
-	fra	Woody	np$np-ant-m-sg	spa	Woody	np$np-ant
+	fra	Woody	np-ant-m-sg$np	spa	Woody	np$np-ant
 	fra	World Trade Center	np$np-al	spa	World Trade Center	np
 	fra	Wou Tchen	np	spa	Wu Chen	np
 	fra	WRC	n	spa	WRC	n
@@ -26831,7 +26831,7 @@ RL	fra	vue	n-n-f	spa	avistamiento	n-m$n
 	fra	Xabi	np$np-ant-m-sg	spa	Xabi	np
 	fra	Xabier	np$np-ant$np-ant-m-sg	spa	Xabier	np$np-ant
 	fra	Xavier	np$np-ant-m-sg$np-ant	spa	Xavier	np$np-ant$np-ant-m-sg
-	fra	Xbox	np$np-al-f-sg	spa	Xbox	np
+	fra	Xbox	np-al-f-sg$np	spa	Xbox	np
 LR	fra	Xème	adj$adj-mf$adj-mf-sg	spa	X	adj
 	fra	Xénocrate	np	spa	Jenócrates	np$np-ant
 	fra	Xénophane	np	spa	Jenófanes	np
@@ -26982,7 +26982,7 @@ LR	fra	zèle	n-m-pl	spa	celo	n-m-pl$n-m$n
 	fra	Zizurkil	np	spa	Zizurkil	np$np-loc-f
 	fra	Zodiac	np	spa	Zodiac	np
 	fra	Zodiac	np	spa	Zodiac	np
-	fra	zone	n-f$n$n-f-ND	spa	zona	n-f$n$n-f-sg
+	fra	zone	n-f$n$n-f-ND	spa	zona	n$n-f$n-f-sg
 RL	fra	zone	n-f$n$n-f-ND	spa	área	n-f$n$n-f-sg
 	fra	zone industrielle	n	spa	zona industrial	n
 	fra	zoo	n-m$n	spa	zoo	n$n-m$n-m-sg

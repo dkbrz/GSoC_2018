@@ -48,7 +48,7 @@ LR	swe	då	cnjadv	eng	so	cnjsub
 	swe	med	pr	eng	with	pr$
 	swe	utom	pr	eng	except	pr
 	swe	angående	pr	eng	concerning	pr
-	swe	av	pr	eng	of	pr
+	swe	av	pr	eng	of	pr$
 	swe	av	pr	eng	off	pr
 	swe	bland	pr	eng	amid	pr
 	swe	bland	pr	eng	among	pr
@@ -101,7 +101,7 @@ LR	swe	då	cnjadv	eng	so	cnjsub
 	swe	ut	pr	eng	out	pr
 	swe	utan	pr	eng	but	pr
 	swe	utanför	pr	eng	outside	pr
-	swe	utav	pr	eng	of	pr
+	swe	utav	pr	eng	of	pr$
 	swe	utöver	pr	eng	in addition to	pr
 	swe	via	pr	eng	via	pr
 	swe	vid	pr$	eng	at	pr
@@ -1037,7 +1037,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	blickpunkt	n-ut	eng	limelight	n$n-unc
 	swe	blindtarm	n-ut	eng	appendix	n$n-ND
 	swe	blinkande	n-nt	eng	flashing	n
-	swe	blixt	n-ut	eng	lightning	n$n-unc
+	swe	blixt	n-ut	eng	lightning	n$n-sg
 	swe	blockad	n-ut	eng	blockade	n$n-ND
 	swe	blockflöjt	n-ut	eng	recorder	n
 	swe	block	n-nt	eng	bloc	n$n-sg
@@ -1560,7 +1560,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	driva	$n-ut	eng	drift	n
 	swe	driva	$n-ut	eng	rush	n$n-ND
 	swe	driva	$n-ut	eng	wage	n$n-pl
-	swe	drog	n-ut	eng	drug	n$n-ND
+	swe	drog	n-ut	eng	drug	n$n-sg
 	swe	dröjsmål	n-nt	eng	delay	n$n-ND
 	swe	dromedar	n-ut	eng	dromedary	n
 	swe	dröm	n-ut	eng	dream	n$n-ND
@@ -1806,11 +1806,11 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	fakultet	n-ut	eng	faculty	n$n-sg
 	swe	falang	n-ut	eng	phalanx	n
 	swe	fälg	n-ut	eng	rim	n
-	swe	fälla	n-ut$	eng	convict	n$n-ND
+	swe	fälla	$n-ut	eng	convict	n$n-ND
 	swe	fålla	$n-ut	eng	hem	n
-	swe	fälla	n-ut$	eng	pitfall	n
-	swe	fälla	n-ut$	eng	shed	n$n-sg
-	swe	fälla	n-ut$	eng	trap	n$n-ND
+	swe	fälla	$n-ut	eng	pitfall	n
+	swe	fälla	$n-ut	eng	shed	n$n-sg
+	swe	fälla	$n-ut	eng	trap	n$n-ND
 	swe	fallfrukt	n-ut	eng	windfall	n
 	swe	fall	n-nt	eng	case	n$n-sg
 	swe	fall	n-nt	eng	fall	n$n-pl
@@ -2292,8 +2292,8 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	fotsteg	n-nt	eng	footstep	n
 	swe	fotvandring	n-ut	eng	hike	n
 	swe	fradga	$n-ut	eng	foam	n$n-sg
-	swe	fråga	n-ut$	eng	interrogation	n
-	swe	fråga	n-ut$	eng	issue	n$n-ND
+	swe	fråga	$n-ut	eng	interrogation	n
+	swe	fråga	$n-ut	eng	issue	n$n-ND
 	swe	frågetävling	n-ut	eng	quiz	n$n-ND
 	swe	fragment	n-nt	eng	fragment	n$n-ND
 	swe	frakt	n-ut	eng	freight	n$n-ND
@@ -2963,7 +2963,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	infiltrering	n-ut	eng	infiltration	n
 	swe	inflammation	n-ut	eng	inflammation	n$n-sg
 	swe	inflation	n-ut	eng	inflation	n$n-ND
-	swe	influensa	n-ut	eng	flu	n$n-ND
+	swe	influensa	n-ut	eng	flu	n$n-sg
 	swe	influensa	n-ut	eng	influenza	n
 	swe	inflytande	n-nt	eng	influence	n$n-ND
 	swe	inföding	n-ut	eng	native	n$n-ND
@@ -3812,7 +3812,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	labyrint	n-ut	eng	maze	n$n-sg
 	swe	läcka	$n-ut	eng	leak	n$n-ND
 	swe	lackfärg	n-ut	eng	enamel	n$n-sg
-	swe	låda	n-ut	eng	bin	n
+	swe	låda	n-ut	eng	bin	n$
 	swe	laddning	n-ut	eng	charge	n$n-ND
 	swe	laddning	n-ut	eng	propellant	n
 	swe	låga	n-ut$	eng	blaze	n$n-ND
@@ -4052,7 +4052,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	löpande	n-nt	eng	open	n
 	swe	löpare	n-ut	eng	runner	n$n-ND
 	swe	loppa	$n-ut	eng	flea	n$n-sg
-	swe	lopp	n-nt	eng	run	n$n-ND
+	swe	lopp	n-nt	eng	run	n$n-sg
 	swe	lösenord	n-nt	eng	password	n$n-ND
 	swe	lösensumma	n-ut	eng	ransom	n
 	swe	lösgörande	n-nt	eng	detachment	n
@@ -5718,7 +5718,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	resa	n-ut$	eng	leave	n$n-unc
 	swe	resa	n-ut$	eng	pitch	n$n-ND
 	swe	resa	n-ut$	eng	quest	n
-	swe	resa	n-ut$	eng	travel	n$n-ND
+	swe	resa	n-ut$	eng	travel	n$n-sg
 	swe	resa	n-ut$	eng	voyage	n
 	swe	resår	n-ut	eng	elastic	n
 	swe	resenär	n-ut	eng	traveller	n$n-ND
@@ -6074,7 +6074,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	sekt	n-ut	eng	sect	n
 	swe	sektor	n-ut	eng	sector	n$n-ND
 	swe	sekularisering	n-ut	eng	secularisation	n
-	swe	sekund	n-ut	eng	second	n$n-ND
+	swe	sekund	n-ut	eng	second	n$n-sg
 	swe	seldon	n-nt	eng	gear	n$n-ND
 	swe	semafor	n-ut	eng	semaphore	n$n-ND
 	swe	semantik	n-ut	eng	semantics	n$n-pl
@@ -6232,7 +6232,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	skänk	n-ut	eng	sideboard	n
 	swe	skapande	n-nt	eng	creation	n$n-ND
 	swe	skapare	n-ut	eng	creator	n$n-ND
-	swe	skåpbil	n-ut	eng	van	n$n-ND
+	swe	skåpbil	n-ut	eng	van	n$$n-ND
 	swe	skåp	n-nt	eng	cabinet	n$n-ND
 	swe	skåp	n-nt	eng	cupboard	n$n-ND
 	swe	skäppa	n-ut	eng	bushel	n
@@ -7605,7 +7605,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	tuner	n-ut	eng	tuner	n
 	swe	tungviktare	n-ut	eng	heavyweight	n
 	swe	tunna	n-ut$	eng	barrel	n$n-sg
-	swe	tunna	n-ut$	eng	bin	n
+	swe	tunna	n-ut$	eng	bin	n$
 	swe	tunna	n-ut$	eng	butt	n
 	swe	tunnelbana	n-ut	eng	metro	n
 	swe	tunnelbana	n-ut	eng	subway	n$n-ND
@@ -8383,7 +8383,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	yttre	n-nt	eng	exterior	n
 	swe	yttre	n-nt	eng	outside	n$n-ND
 	swe	yttre	n-nt	eng	peripheral	n
-	swe	yxa	n-ut	eng	axe	n$n-sg
+	swe	yxa	$n-ut	eng	axe	n$n-sg
 	swe	zebra	n-ut	eng	zebra	n
 	swe	zenit	n-ut	eng	zenith	n
 	swe	zink	n-ut	eng	zinc	n$n-sg
@@ -11437,7 +11437,7 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	slockna	$vblex	eng	die	vblex$vblex-pprs
 	swe	förstora	$vblex	eng	enlarge	vblex
 	swe	svara	$vblex	eng	answer	vblex
-	swe	fråga	n-ut$	eng	ask	vblex
+	swe	fråga	$n-ut	eng	ask	vblex
 	swe	be	$vblex	eng	beg	vblex$vblex-ger
 	swe	slå	$n-ut	eng	break	vblex$vblex-sep
 	swe	köpa	$vblex	eng	buy	vblex
@@ -11864,9 +11864,9 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	frukta	$vblex	eng	dread	vblex
 	swe	frukta	$vblex	eng	fear	vblex
 	swe	fräsa	$vblex	eng	sputter	vblex
-	swe	fråga	n-ut$	eng	*enquire	vblex
-	swe	fråga	n-ut$	eng	ask	vblex
-	swe	fråga	n-ut$	eng	inquire	vblex
+	swe	fråga	$n-ut	eng	*enquire	vblex
+	swe	fråga	$n-ut	eng	ask	vblex
+	swe	fråga	$n-ut	eng	inquire	vblex
 	swe	fröjda		eng	delight	vblex
 	swe	fukta	$vblex	eng	damp	vblex
 	swe	fukta	$vblex	eng	dampen	vblex
@@ -12664,9 +12664,9 @@ LR	swe	bägge	prn-def	eng	both	prn-def
 	swe	skena	$n-ut	eng	rail	vblex
 	swe	skeppa		eng	ship	vblex
 	swe	skida	n-ut$	eng	ski	vblex
-	swe	skilja	$vblex	eng	differentiate	vblex
-	swe	skilja	$vblex	eng	separate	vblex
-	swe	skilja	$vblex	eng	sever	vblex
+	swe	skilja	$vblex$vblex-inf-actv	eng	differentiate	vblex
+	swe	skilja	$vblex$vblex-inf-actv	eng	separate	vblex
+	swe	skilja	$vblex$vblex-inf-actv	eng	sever	vblex
 	swe	skimra	$vblex	eng	shimmer	vblex
 	swe	skingra	$vblex	eng	dissipate	vblex
 	swe	skingra	$vblex	eng	part	vblex

@@ -140,12 +140,12 @@
 	cat	sobre	pr	glg	sobre	pr
 	cat	sota	pr	glg	so	pr
 	cat	després de	pr	glg	tras	pr
-LR	cat	hi	prn-enc-adv	glg		$num$num-percent
+LR	cat	hi	prn-enc-adv$adv	glg		$num$num-percent
 LR	cat	hi	prn-pro-adv$prn$prn-pro	glg		$num$num-percent
-LR	cat	en	prn-enc-adv$prn	glg		$num$num-percent
-LR	cat	en	prn-pro-adv$prn-pro	glg		$num$num-percent
+LR	cat	en	adv$prn-enc-adv	glg		$num$num-percent
+LR	cat	en	prn-pro-adv$prn$prn-pro	glg		$num$num-percent
 	cat	què	prn$prn-itg$prn-itg-mf-sg$prn-itg-mf	glg	que	prn-itg$prn-itg-m$prn-itg-m-sg
-	cat	qui	prn-itg-mf-sp$prn$prn-itg-mf$prn-itg	glg	quen	prn-itg-m-sg$prn-itg
+	cat	qui	prn-itg-mf-sp$prn-itg-mf$prn$prn-itg	glg	quen	prn-itg-m-sg$prn-itg
 	cat	em	prn-pro$prn$prn-pro-p1-mf-sg$prn-pro-p1-mf	glg	prpers	prn-pro-p1-mf-sg
 	cat	em	prn-enc$prn-enc-p1-mf$prn-enc-p1-mf-sg	glg	prpers	prn-enc-p1-mf-sg
 	cat	et	prn-pro$prn$prn-pro-p2-mf-sg	glg	prpers	prn-pro-p2-mf-sg
@@ -153,7 +153,7 @@ LR	cat	en	prn-pro-adv$prn-pro	glg		$num$num-percent
 	cat	ho	prn$prn-pro-p3-nt	glg	prpers	prn-pro-p3-nt
 	cat	li	prn-pro-p3-mf-sg$prn-pro$prn	glg	prpers	prn-pro-p3-mf-sg
 	cat	li	prn-enc-p3-mf-sg$prn-enc-p3-mf$prn-enc	glg	prpers	prn-enc-p3-mf-sg
-	cat	el	prn-pro-p3-m-sg$prn-pro-p3-m$prn$prn-pro-p3	glg	prpers	prn-pro-p3-m-sg
+	cat	el	prn$prn-pro-p3-m-sg$prn-pro-p3-m$prn-pro-p3	glg	prpers	prn-pro-p3-m-sg
 	cat	el	prn-pro-p3-f$prn-pro-p3-f-sg	glg	prpers	prn-pro-p3-f-sg
 	cat	es	prn-pro-ref-p3-mf-sp$prn-pro-ref$prn-pro	glg	se	prn-pro$prn-pro-ref$prn-pro-ref-p3-mf-sp
 	cat	es	prn$prn-enc-ref-p3-mf-sp$prn-enc-ref$prn-enc	glg	se	prn-enc$prn-enc-ref$prn-enc-ref-p3-mf-sp
@@ -165,10 +165,10 @@ LR	cat	quin	prn-itg-f$prn$prn-itg$prn-itg-f-sg	glg	cal	prn-itg-mf$prn-itg-mf-sg$
 RL	cat	quin	prn-itg-GD$prn-itg-GD-ND	glg	cal	prn-itg-mf$prn-itg-mf-sg$prn$prn-itg
 	cat	res	prn$prn-tn-nt$prn-tn	glg	nada	prn-tn$prn$prn-tn-m-sg
 	cat	quelcom	prn$prn-tn$prn-tn-nt-sg$prn-tn-nt	glg	algo	prn-tn$prn-tn-m
-	cat	jo	prn$prn-tn$prn-tn-p1-mf-sg	glg	prpers	prn-tn-p1-mf-sg$prn-tn-p1
-	cat	tu	prn$prn-tn$prn-tn-p2-mf-sg	glg	prpers	prn-tn-p2-mf-sg$prn-tn-p2
-	cat	nosaltres	prn-tn-p1-mf$prn-tn$prn-tn-p1-mf-pl$prn	glg	prpers	prn-tn-p1-mf-pl
-	cat	vosaltres	prn-tn-p2-mf$prn-tn-p2-mf-pl$prn-tn$prn	glg	prpers	prn-tn-p2-mf-pl
+	cat	jo	prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-sg	glg	prpers	prn-tn-p1-mf-sg$prn-tn-p1
+	cat	tu	prn$prn-tn$prn-tn-p2-mf-sg$prn-tn-p2	glg	prpers	prn-tn-p2-mf-sg$prn-tn-p2
+	cat	nosaltres	prn-tn-p1-mf$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl$prn	glg	prpers	prn-tn-p1-mf-pl
+	cat	vosaltres	prn-tn-p2-mf$prn-tn-p2-mf-pl$prn-tn$prn$prn-tn-p2	glg	prpers	prn-tn-p2-mf-pl
 	cat	ell	prn-tn$prn$prn-tn-p3-m-pl$prn-tn-p3	glg	prpers	prn-tn-p3$prn-tn-p3-m-sg$prn-tn-p3-m
 	cat	ambdós	prn$prn-tn-m$prn-tn-m-pl$prn-tn	glg	ambos	prn-tn$prn-tn-GD
 	cat	això	prn$prn-tn-nt	glg	isto	prn-tn-m-sp$prn-tn
@@ -177,8 +177,8 @@ RL	cat	quin	prn-itg-GD$prn-itg-GD-ND	glg	cal	prn-itg-mf$prn-itg-mf-sg$prn$prn-it
 	cat	algun	prn$prn-tn-m-sg$prn-tn	glg	algún	prn-tn$prn-tn-GD-pl
 	cat	tot	prn$prn-tn$prn-tn-m-pl	glg	todo	prn-tn$prn$prn-tn-m-ND
 	cat	molt	prn-tn	glg	moito	prn-tn
-	cat	ningú	prn$prn-tn-mf-sg$prn-tn$prn-tn-mf	glg	ninguén	prn$prn-tn-m-sg$prn-tn$prn-tn-m
-	cat	ningú	prn$prn-tn-mf-sg$prn-tn$prn-tn-mf	glg	ningún	prn-tn-m-sg$prn-tn-m
+	cat	ningú	prn-tn-mf-sg$prn$prn-tn$prn-tn-mf	glg	ninguén	prn$prn-tn-m-sg$prn-tn$prn-tn-m
+	cat	ningú	prn-tn-mf-sg$prn$prn-tn$prn-tn-mf	glg	ningún	prn-tn-m-sg$prn-tn-m
 	cat	cadascú	prn$prn-tn$prn-tn-mf$prn-tn-mf-sg	glg	cada	prn-tn
 	cat	cada	det$det-ind-mf-sg$det-ind$det-ind-mf	glg	cada	det-ind$det-ind-mf
 	cat	molt	adj$adj-f-pl$adj-sup-f-pl	glg	moito	det-qnt$det-qnt-GD$det-qnt-GD-ND$det
@@ -192,12 +192,12 @@ RL	cat	cap	det-ind-mf-sg$det-ind-mf$det$det-ind	glg	ningún	det-ind-f
 	cat	algun	det$det-ind-GD$det-ind$det-ind-GD-sg	glg	algún	det-qnt$det$det-qnt-GD-ND
 	cat	tot	predet$predet-m$predet-m-sg	glg	todo	predet$predet-m
 	cat	tot	predet-f$predet-f-sg	glg	todo	predet-f
-	cat	el	det-def-m$det-def$det$det-def-m-sg	glg	o	det-def$det$det-def-m
+	cat	el	det$det-def-m$det-def$det-def-m-sg	glg	o	det-def$det$det-def-m
 	cat	el	det-def-f$det-def-f-sg	glg	o	det-def-f
 LR	cat	el	det-def-mf$det-def-mf-sg	glg	o	det-def-GD$det-def-GD-ND
-	cat	el meu	det$det-pos$det-pos-GD$det-pos-GD-ND	glg	meu	det-pos$det$det-pos-m
-	cat	el meu	det$det-pos$det-pos-GD$det-pos-GD-ND	glg	o meu	det-pos$det$det-pos-GD
-	cat	el nostre	det$det-pos$det-pos-GD$det-pos-GD-ND	glg	o noso	det$det-pos$det-pos-GD-ND
+	cat	el meu	det$det-pos$det-pos-m-sg	glg	meu	det-pos$det$det-pos-m
+	cat	el meu	det$det-pos$det-pos-m-sg	glg	o meu	det-pos$det$det-pos-GD
+	cat	el nostre	det$det-pos$det-pos-m-sg	glg	o noso	det$det-pos$det-pos-GD-ND
 	cat	altre	det-ind-m-sg	glg	outro	det-ind$det-ind-m-sg
 	cat	altre	det-ind-f-sg	glg	outro	det-ind-f-sg
 LR	cat	altre	det-ind-mf-pl$det$$det-ind	glg	outro	det-ind-GD-pl
@@ -208,11 +208,11 @@ RL	cat	altre	det-ind-mf-pl$det$$det-ind	glg	outro	det-ind-m-pl
 LR	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-GD-ND$det-pos$det-pos-GD
 RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-m
 RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
-	cat	el teu	det$det-pos$det-pos-GD$det-pos-GD-pl	glg	o teu	det-pos$det-pos-m$det-pos-m-sg
-	cat	el teu	det$det-pos$det-pos-GD$det-pos-GD-pl	glg	teu	det-pos$det-pos-m$det-pos-m-sg
-	cat	un	det$det-ind-m-pl$det-ind	glg	un	det$det-ind-GD
+	cat	el teu	det$det-pos$det-pos-GD	glg	o teu	det-pos$det-pos-m$det-pos-m-sg
+	cat	el teu	det$det-pos$det-pos-GD	glg	teu	det-pos$det-pos-m$det-pos-m-sg
+	cat	un	det$det-ind-f-pl$det-ind	glg	un	det$det-ind-GD
 	cat	u	num$num-m-sp	glg	un	num-m-sg
-	cat	dos	num$$num-GD$num-GD-sp	glg	dous	$num$num-GD
+	cat	dos	num$num-GD$num-GD-sp	glg	dous	$num$num-GD
 	cat	catorze	num$num-mf-sp$$num-mf	glg	catorce	num$num-mf
 	cat	cent	num$num-mf-sp$num-mf	glg	cen	num
 	cat	cent	num$num-mf-sp$num-mf	glg	cento	num
@@ -229,7 +229,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	dotze	num$num-mf-sp$$num-mf	glg	doce	num$num-mf
 	cat	huitanta	num$	glg	oitenta	num$
 	cat	huit	num$	glg	oito	num$
-	cat	mil	num-mf$num$num-mf-pl	glg	mil	num$num-mf$num-mf-sp
+	cat	mil	num-mf-pl	glg	mil	num$num-mf$num-mf-sp
 	cat	noranta	num$$num-mf-sp	glg	noventa	num$
 	cat	nou-cents	num$num-GD$num-GD-sp	glg	novecentos	num
 	cat	nou	num$num-mf-sp	glg	nove	num$
@@ -247,7 +247,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	sis	num$$num-mf-sp	glg	seis	num$
 	cat	trenta	num$$num-mf-sp	glg	trinta	num$
 	cat	tres-cents	num$num-GD$num-GD-sp	glg	trescentos	num
-	cat	tres	num$$num-mf-sp	glg	tres	num$
+	cat	tres	num$num-mf-sp	glg	tres	num$
 	cat	tretze	num$num-mf-sp$$num-mf	glg	trece	num$num-mf
 	cat	vint-i-cinc	num$num-mf-sp	glg	vinte e cinco	num
 	cat	vint-i-nou	num$num-mf-sp	glg	vinte e nove	num
@@ -267,8 +267,8 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	gosset	n-m$n	glg	cadeliño	n-m
 	cat	abandonament	n-m$n	glg	abandono	n-m$n
 	cat	abandonament	n-m$n	glg	desleixamento	n-m$n
-	cat	abandó	n-m$n	glg	abandono	n-m$n
-	cat	abandó	n-m$n	glg	desleixamento	n-m$n
+	cat	abandó	n$n-m	glg	abandono	n-m$n
+	cat	abandó	n$n-m	glg	desleixamento	n-m$n
 	cat	abaratiment	n-m$n	glg	abaratamento	n-m$n
 	cat	abastament	n-m$n	glg	abasto	n-m$n
 	cat	abast	n-m$n	glg	alcance	n-m$n
@@ -406,7 +406,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	adorn	n-m$n	glg	adobío	n-m$n
 	cat	adorn	n-m$n	glg	adorno	n-m$n
 	cat	adquisició	n-f$n	glg	adquisición	n$n-f
-	cat	adreça	n$n-f	glg	dirección	n$n-f
+	cat	adreça	n-f$n	glg	dirección	n$n-f
 	cat	adrenalina	n-f$n	glg	adrenalina	n-f$n
 	cat	adscripció	n-f$n	glg	adscrición	n$n-f
 	cat	ADSL	n-acr-m$n	glg	ADSL	n$n-acr-m
@@ -832,7 +832,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	artista	n-mf$n	glg	artista	n-mf$n
 	cat	arxidiòcesi	n-f$n-f-ND	glg	arquidiocese	n-f$n-f-ND
 	cat	arxipèlag	n-m$n	glg	arquipélago	n-m$n
-	cat	arxipèleg	n-m$n	glg	arquipélago	n-m$n
+	cat	arxipèleg	n$n-m	glg	arquipélago	n-m$n
 	cat	arxiu	n-m$n$n-m-sg	glg	arquivo	n-m$n
 	cat	arxiver	n$n-m	glg	arquiveiro	n$n-m
 	cat	ascendència	n-f$n	glg	ascendencia	n$n-f
@@ -961,7 +961,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	autòpsia	n$n-f	glg	autopsia	n$n-f
 	cat	autoria	n-f$n	glg	autoría	n$n-f
 	cat	autoritarisme	n-m$n$n-m-sg	glg	autoritarismo	n-m$n
-	cat	autoritat	n$n-f$n-f-ND	glg	autoridade	n$n-f
+	cat	autoritat	n-f$n$n-f-ND	glg	autoridade	n$n-f
 	cat	autorització	n-f$n	glg	autorización	n-f$n
 	cat	autor	n$n-m	glg	autor	n$n-m
 	cat	autorregulació	n-f	glg	autorregulación	n$n-f
@@ -1043,7 +1043,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	banderola	n-f$n	glg	bandeirola	n$n-f
 	cat	bandit	n$n-m	glg	bandido	n-m$n
 	cat	bandoler	n$n-m	glg	bandoleiro	n$n-m
-	cat	bàndol	n$n-m	glg	bando	n-m$n
+	cat	bàndol	n-m$n	glg	bando	n-m$n
 	cat	ban	n$n-m	glg	bando	n-m$n
 	cat	banquer	n$n-m	glg	banqueiro	n$n-m
 	cat	banquet	n-m$n	glg	banquete	n$n-m
@@ -1124,7 +1124,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	bec	n$n-m	glg	picouto	n-m$n
 	cat	bedoll	n$n-m	glg	bidueiro	n$n-m
 	cat	beguda	n$n-f	glg	bebida	n-f$n
-	cat	belga	n$n-mf	glg	belga	n$n-mf
+	cat	belga	n-mf$n	glg	belga	n$n-mf
 	cat	belicisme	n-m$n	glg	belicismo	n$n-m
 	cat	bellesa	n$n-f	glg	beleza	n$n-f
 	cat	bellesa	n$n-f	glg	fermosura	n$n-f
@@ -1391,7 +1391,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	calçat	n-m$n	glg	calzado	n$n-m
 	cat	calcetí	n-m$n	glg	calcetín	n-m$n
 	cat	calc	n-m$n	glg	calco	n$n-m
-	cat	càlcul	n$n-m	glg	cálculo	n$n-m
+	cat	càlcul	n-m$n	glg	cálculo	n$n-m
 	cat	caldera	n$n-f	glg	caldeira	n-f$n
 	cat	calder	n$n-m	glg	caldeiro	n-m$n
 	cat	calefacció	n-f$n	glg	calefacción	n$n-f
@@ -1435,7 +1435,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	camp	n-m$n	glg	campo	n-m$n
 	cat	camp	n-m$n	glg	eido	n-m$n
 	cat	canalització	n-f$n	glg	canalización	n-f$n
-	cat	canalla	n-f-sg$n$n-f	glg	canalla	n$n-mf
+	cat	canalla	n-f-sg$n-f$n	glg	canalla	n$n-mf
 	cat	canal	n-mf	glg	canle	n-f
 	cat	canaló	n-m$n	glg	canlón	n$n-m
 	cat	canari	n$n-m	glg	canario	n$n-m
@@ -1509,9 +1509,9 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	capvespre	n-m$n	glg	solpor	n$n-m
 	cat	carabassa	n-f$n	glg	cabaza	n-f$n
 	cat	característica	n$n-f	glg	característica	n-f$n
-	cat	caràcter	n$n-m	glg	carácter	n$n-m
-	cat	caragol	n-m$n$n-m-pl	glg	caracol	n-m$n
-	cat	caragol	n-m$n$n-m-pl	glg	parafuso	n-m$n
+	cat	caràcter	n$n-m$n-m-sg	glg	carácter	n$n-m
+	cat	caragol	n-m$n	glg	caracol	n-m$n
+	cat	caragol	n-m$n	glg	parafuso	n-m$n
 	cat	caramel	n-m$n	glg	caramelo	n-m$n
 	cat	caramull	n$n-m	glg	colmo	n-m$n
 	cat	cara	n-f$n	glg	cara	n$n-f
@@ -1569,7 +1569,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	casa	n-f$n	glg	casa	n-f$n
 	cat	cascada	n-f$n	glg	fervenza	n$n-f
 	cat	cascavell	n-m$n	glg	cascabel	n-m$n
-	cat	casc	n$n-m	glg	casco	n$n-m
+	cat	casc	n-m$n	glg	casco	n$n-m
 	cat	casella	n-f$n	glg	casa	n-f$n
 	cat	caseta	n$n-f	glg	caseta	n-f$n
 	cat	caseta	n$n-f	glg	casiña	n$n-f
@@ -2168,7 +2168,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	correlació	n-f$n	glg	correlación	n-f$n
 	cat	correspondència	n-f$n	glg	correspondencia	n$n-f
 	cat	corresponsal	n-mf$n	glg	correspondente	n$n-mf
-	cat	correu	n$n-m$n-m-pl	glg	correo	n-m$n
+	cat	correu	n-m$n$n-m-pl	glg	correo	n-m$n
 	cat	corriment	n-m$n	glg	corremento	n-m$n
 	cat	corroboració	n-f$n	glg	corroboración	n$n-f
 	cat	corró	n-m$n	glg	rodete	n-m$n
@@ -2185,7 +2185,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	cosmopolitisme	n-m$n$n-m-sg	glg	cosmopolitismo	n$n-m
 	cat	cosmovisió	n-f$n	glg	cosmovisión	n$n-f
 	cat	cos	n-m$n	glg	corpo	n-m$n
-	cat	cosquerelles	n$n-f$n-f-pl	glg	cóxegas	n$n-f-pl
+	cat	cosquerelles	n-f$n-f-pl	glg	cóxegas	n$n-f-pl
 	cat	costa	n-f$n$n-f-sg	glg	costa	n$n-f
 	cat	costa	n-f$n$n-f-sg	glg	rampla	n-f$n
 	cat	costat	n-m$n	glg	lado	n-m$n
@@ -2197,7 +2197,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	costura	n$n-f	glg	costura	n$n-f
 	cat	cota	n$n-f	glg	cota	n-f$n
 	cat	cotització	n-f$n	glg	cotización	n$n-f
-	cat	cotó	n-m$n	glg	algodón	n-m$n
+	cat	cotó	n$n-m	glg	algodón	n-m$n
 	cat	cotxe	n-m$n	glg	coche	n-m$n
 	cat	cotxera	n-f$n	glg	cocheira	n$n-f
 	cat	coure	n$n-m	glg	cobre	n-m$n
@@ -2220,7 +2220,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	creïlla	n-f$n	glg	pataca	n-f$n
 	cat	creixement	n$n-m	glg	crecemento	n$n-m
 	cat	cremada	n-f$n	glg	queimadura	n$n-f
-	cat	crema	n$n-f	glg	crema	n-f$n
+	cat	crema	n$n-f$n-f-sg	glg	crema	n-f$n
 	cat	crematori	n-m$n	glg	crematorio	n-m$n
 	cat	crepuscle	n$n-m	glg	crepúsculo	n$n-m
 	cat	cresol	n-m$n	glg	candil	n$n-m
@@ -2443,7 +2443,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	desconfiança	n$n-f	glg	desconfianza	n$n-f
 	cat	desconnexió	n$n-f	glg	desconexión	n-f$n
 	cat	desconsideració	n$n-f	glg	desconsideración	n$n-f
-	cat	descontentament	n$n-m	glg	descontento	n$n-m
+	cat	descontentament	n-m$n	glg	descontento	n$n-m
 	cat	descontrol	n-m$n	glg	descontrol	n$n-m
 	cat	descoordinació	n-f$n	glg	descoordinación	n$n-f
 	cat	descoratjament	n-m$n	glg	desánimo	n$n-m
@@ -2645,7 +2645,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	díptic	n-m$n	glg	díptico	n$n-m
 	cat	diputació	n-f$n	glg	deputación	n$n-f
 	cat	diputat	n-m	glg	deputado	n$n-m
-	cat	direcció	n-f$n	glg	dirección	n$n-f
+	cat	direcció	n$n-f	glg	dirección	n$n-f
 	cat	directiu	n$n-m	glg	directivo	n-m$n
 	cat	directori	n-m$n$n-m-sg	glg	directorio	n-m$n
 	cat	director	n-m	glg	director	n-m
@@ -2846,7 +2846,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	emblema	n-m$n	glg	emblema	n-m$n
 	cat	embornal	n-m$n	glg	sumidoiro	n-m$n
 	cat	emboscada	n-f$n	glg	emboscada	n-f$n
-	cat	embós	n$n-m	glg	atasco	n-m$n
+	cat	embós	n-m$n	glg	atasco	n-m$n
 	cat	embotellament	n-m$n	glg	embotellamento	n$n-m
 	cat	embotit	n-m$n	glg	embutido	n-m$n
 	cat	embriaguesa	n$n-f	glg	embriaguez	n-f$n
@@ -2929,7 +2929,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	enemic	n$n-m$	glg	inimigo	n$n-m
 	cat	enemistat	n-f$n$	glg	inimizade	n$n-f
 	cat	energia	n$n-f	glg	enerxía	n-f$n
-	cat	enfocament	n-m$n	glg	enfoque	n$n-m
+	cat	enfocament	n$n-m	glg	enfoque	n$n-m
 	cat	enfonsament	n$n-m	glg	afundimento	n-m$n
 	cat	enfortiment	n-m$n	glg	fortalecemento	n-m$n
 	cat	enfrontament	n$n-m	glg	enfrontamento	n$n-m
@@ -2966,7 +2966,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	entrenador	n$n-m	glg	adestrador	n-m
 	cat	entrenament	n$n-m	glg	adestramento	n$n-m
 	cat	entrepà	n$n-m	glg	bocadillo	n-m$n
-	cat	entreteniment	n-m$n	glg	entretemento	n-m$n
+	cat	entreteniment	n$n-m	glg	entretemento	n-m$n
 	cat	entrevistador	n$n-m	glg	entrevistador	n$n-m
 	cat	entrevista	n$n-f	glg	entrevista	n$n-f
 	cat	entroncament	n$n-m	glg	entroncamento	n$n-m
@@ -3021,7 +3021,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	esbós	n$n-m	glg	esbozo	n-m$n$n-m-ND
 	cat	esbronc	n-m$n	glg	apupo	n$n-m
 	cat	escabetx	n-m$n	glg	escabeche	n$n-m
-	cat	escabussó	n-m$n	glg	mergullo	n-m$n
+	cat	escabussó	n$n-m	glg	mergullo	n-m$n
 	cat	escaiola	n-f$n	glg	escaiola	n$n-f
 	cat	escalada	n$n-f	glg	escalada	n-f$n
 	cat	escalador	n$n-m	glg	escalador	n$n-m
@@ -3191,7 +3191,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	estàtua	n$n-f	glg	estatua	n$n-f
 	cat	estatura	n-f$n	glg	estatura	n-f$n
 	cat	estatut	n$n-m	glg	estatuto	n$n-m
-	cat	estela	n$n-f	glg	estrela	n-f$n
+	cat	estela	n-f$n	glg	estrela	n-f$n
 	cat	estella	n$n-f	glg	acha	n-f$n
 	cat	estella	n$n-f	glg	estela	n-f$n
 	cat	estendard	n-m$n	glg	estandarte	n$n-m
@@ -3222,8 +3222,8 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	estranyesa	n-f$n	glg	estrañeza	n$n-f
 	cat	estratègia	n$n-f	glg	estratexia	n-f$n
 	cat	estrat	n-m$n	glg	estrato	n$n-m
-	cat	estrela	n$n-f	glg	estrela	n-f$n
-	cat	estrella	n$n-f	glg	estrela	n-f$n
+	cat	estrela	n-f$n	glg	estrela	n-f$n
+	cat	estrella	n-f$n	glg	estrela	n-f$n
 	cat	estrena	n-f$n	glg	estrea	n-f$n
 	cat	estretor	n-f$n$n-f-ND	glg	estreiteza	n$n-f
 	cat	estribord	n-m$n	glg	estribor	n$n-m
@@ -3395,7 +3395,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	faraó	n$n-m	glg	faraón	n-m$n
 	cat	farcell	n-m$n	glg	fardo	n-m$n
 	cat	farciment	n-m$n	glg	recheo	n-m$n
-	cat	fardatxo	n-m$n	glg	lagarto	n-m$n
+	cat	fardatxo	n-m	glg	lagarto	n-m$n
 	cat	fardell	n-m$n	glg	fardo	n-m$n
 	cat	farina	n$n-f	glg	fariña	n-f$n
 	cat	faristol	n-m$n	glg	atril	n$n-m
@@ -3409,7 +3409,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	fase	n$n-f	glg	fase	n$n-f
 	cat	fàstic	n$n-m	glg	asco	n$n-m
 	cat	fàstic	n$n-m	glg	noxo	n-m$n
-	cat	fast	n-m$n	glg	fasto	n$n-m
+	cat	fast	n$n-m	glg	fasto	n$n-m
 	cat	fatalitat	n-f$n	glg	fatalidade	n$n-f
 	cat	fauna	n-f$n	glg	fauna	n$n-f
 	cat	favada	n-f$n	glg	fabada	n$n-f
@@ -3453,13 +3453,13 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	ferotgia	n$n-f	glg	saña	n$n-f
 	cat	ferradura	n-f$n	glg	ferradura	n$n-f
 	cat	ferralla	n-f$n	glg	chatarra	n-f$n
-	cat	ferramenta	n-f$n$n-f-pl	glg	ferramenta	n-f$n
+	cat	ferramenta	n-f$n	glg	ferramenta	n-f$n
 	cat	ferrer	n$n-m	glg	ferreiro	n$n-m
 	cat	ferreteria	n-f$n	glg	ferraxaría	n$n-f
 	cat	ferreteria	n-f$n	glg	ferraxería	n$n-f
 	cat	ferri	n-m$n	glg	ferry	n$n-m
 	cat	ferrocarril	n$n-m	glg	ferrocarril	n-m$n
-	cat	ferro	n$n-m	glg	ferro	n-m$n
+	cat	ferro	n$n-m$n-m-sg	glg	ferro	n-m$n
 	cat	fertilitat	n-f$n	glg	fertilidade	n-f$n
 	cat	fervor	n-m$n	glg	fervor	n-m$n
 	cat	festa	n$n-f	glg	festa	n-f$n
@@ -3473,7 +3473,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	festivitat	n$n-f	glg	festividade	n$n-f
 	cat	fetge	n$n-m	glg	fígado	n-m$n
 	cat	fetitxe	n-m$n	glg	fetiche	n$n-m
-	cat	fet	n$n-m	glg	feito	n$n-m
+	cat	fet	n$n-m$n-m-sg	glg	feito	n$n-m
 	cat	feu	n-m$n	glg	feudo	n$n-m
 	cat	fiabilitat	n-f$n$n-f-ND	glg	fiabilidade	n-f$n
 	cat	fiador	n$n-m	glg	seguro	n-m$n
@@ -3603,7 +3603,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	forment	n$n-m	glg	trigo	n-m$n
 	cat	formiga	n$n-f	glg	formiga	n-f$n
 	cat	formigonera	n$n-f	glg	formigoneira	n$n-f
-	cat	formigó	n$n-m	glg	formigón	n-m$n
+	cat	formigó	n$n-m$n-m-sg	glg	formigón	n-m$n
 	cat	formiguer	n-m$n	glg	fervedoiro	n-m$n
 	cat	formiguer	n-m$n	glg	formigueiro	n$n-m
 	cat	fórmula	n$n-f	glg	fórmula	n$n-f
@@ -3665,7 +3665,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	frontissa	n-f$n	glg	bisagra	n$n-f
 	cat	front	n-m$n	glg	fronte	n-f$n
 	cat	frontó	n-m$n	glg	frontón	n$n-m
-	cat	fruita	n$n-f	glg	froita	n$n-f
+	cat	fruita	n$n-f$n-f-sg	glg	froita	n$n-f
 	cat	fruit	n$n-m	glg	froito	n$n-m
 	cat	frustració	n-f$n	glg	frustración	n-f$n
 	cat	fuel	n-m$n	glg	fuel	n-m$n
@@ -3673,7 +3673,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	fugida	n$n-f	glg	fuga	n-f$n
 	cat	fugida	n$n-f	glg	fuxida	n$n-f
 	cat	fulgor	n$n-m	glg	fulgor	n$n-m
-	cat	fulla	n-f$n	glg	coitela	n-f$n
+	cat	fulla	n$n-f	glg	coitela	n-f$n
 	cat	fullet	n-m$n	glg	folleto	n-m$n
 	cat	fullola	n-f$n	glg	chapa	n-f$n
 	cat	fumador	n$n-m	glg	fumador	n$n-m
@@ -3783,7 +3783,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	geologia	n-f$n	glg	xeoloxía	n$n-f
 	cat	geometria	n-f$n	glg	xeometría	n-f$n
 	cat	gerència	n-f$n	glg	xerencia	n$n-f
-	cat	gerent	n$n-mf	glg	xerente	n$n-mf
+	cat	gerent	n-mf$n	glg	xerente	n$n-mf
 	cat	geriatria	n$n-f$n-f-sg	glg	xeriatría	n$n-f
 	cat	germà	n-m$n-m-pl	glg	irmán	n-m
 	cat	germanor	n-f$n	glg	irmandade	n$n-f
@@ -3857,7 +3857,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	gram	n-m$n	glg	gramo	n-m$n
 	cat	grandesa	n$n-f	glg	grandeza	n$n-f
 	cat	grandesa	n$n-f	glg	grandura	n-f$n
-	cat	granera	n-f$n	glg	escoba	n-f$n
+	cat	granera	n-f	glg	escoba	n-f$n
 	cat	graner	n-m$n	glg	celeiro	n$n-m
 	cat	granet	n$n-m	glg	granito	n-m$n
 	cat	granger	n$n-m	glg	granxeiro	n$n-m
@@ -3981,12 +3981,12 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	holograma	n-m$n	glg	holograma	n$n-m
 	cat	home	n-m$n	glg	home	n$n-m
 	cat	home	n-m$n	glg	varón	n$n-m
-	cat	homicidi	n$n-m	glg	homicidio	n$n-m
+	cat	homicidi	n-m$n	glg	homicidio	n$n-m
 	cat	homilia	n-f$n	glg	homilía	n$n-f
 	cat	homofòbia	n-f$n	glg	homofobia	n$n-f
 	cat	homologació	n-f$n	glg	homologación	n$n-f
 	cat	homosexualitat	n-f$n$n-f-ND	glg	homosexualidade	n-f$n
-	cat	homosexual	n$n-mf	glg	homosexual	n-mf$n
+	cat	homosexual	n-mf$n	glg	homosexual	n-mf$n
 	cat	honestedat	n$n-f	glg	honestidade	n$n-f
 	cat	honorabilitat	n$n-f	glg	honorabilidade	n$n-f
 	cat	honor	n$n-m	glg	honor	n-m$n
@@ -4443,7 +4443,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	junta	n-f$n	glg	xuntanza	n-f$n
 	cat	juntura	n-f$n	glg	xuntanza	n-f$n
 	cat	juny	n$n-m	glg	xuño	n-m$n
-	cat	jupetí	n-m$n	glg	chaleco	n-m$n
+	cat	jupetí	n-m	glg	chaleco	n-m$n
 	cat	jurament	n-m$n	glg	xuramento	n$n-m
 	cat	jurat	n-m$n	glg	xurado	n$n-m
 	cat	jurisdicció	n-f$n	glg	xurisdición	n-f$n
@@ -4453,7 +4453,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	justificació	n$n-f	glg	xustificación	n$n-f
 	cat	justificant	n$n-m	glg	xustificante	n$n-m
 	cat	jutge	n-m$n	glg	xuíz	n$n-m
-	cat	jutjat	n-m$n	glg	xulgado	n-m$n
+	cat	jutjat	n$n-m	glg	xulgado	n-m$n
 	cat	kamikaze	n-m	glg	kamikaze	n$n-mf
 	cat	kenyà	n$n-m	glg	kenyano	n$n-m
 	cat	kilòmetre	n-m$n	glg	quilómetro	n$n-m
@@ -4461,7 +4461,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	kilowatt	n-m$n$n-m-sg	glg	quilowatt	n$n-m
 	cat	kurd	n$n-m	glg	kurdo	n$n-m
 	cat	laberint	n-m$n	glg	labirinto	n-m$n
-	cat	laboratori	n$n-m	glg	laboratorio	n-m$n
+	cat	laboratori	n-m$n	glg	laboratorio	n-m$n
 	cat	lactància	n-f$n	glg	lactación	n-f$n
 	cat	lactància	n-f$n	glg	lactancia	n$n-f
 	cat	laïcisme	n-m$n$n-m-sg	glg	laicismo	n$n-m
@@ -4583,7 +4583,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	llei	n$n-f	glg	lei	n-f$n
 	cat	llenç	n-m$n	glg	lenzo	n$n-m
 	cat	llenguado	n-m$n	glg	linguado	n-m$n
-	cat	llengua	n$n-f	glg	lingua	n-f$n
+	cat	llengua	n-f$n	glg	lingua	n-f$n
 	cat	llentia	n$n-f	glg	lentella	n-f$n
 	cat	llentilla	n-f$n	glg	lentella	n-f$n
 	cat	llenya	n$n-f$n-f-sg	glg	leña	n$n-f
@@ -4592,11 +4592,11 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	lleopard	n$n-m	glg	leopardo	n$n-m
 	cat	llepassa	n-f$n	glg	lapa	n$n-f
 	cat	llepoleria	n-f$n	glg	lambetada	n-f$n
-	cat	llepolia	n$n-f	glg	lambetada	n-f$n
+	cat	llepolia	n-f$n	glg	lambetada	n-f$n
 	cat	llera	n-f	glg	canle	n-f
 	cat	lletania	n-f$n	glg	ladaíña	n$n-f
 	cat	lleter	n$n-m	glg	leiteiro	n$n-m
-	cat	lletra	n-f$n$n-f-pl	glg	letra	n-f$n$n-f-pl
+	cat	lletra	n-f$n$n-f-sg	glg	letra	n-f$n$n-f-pl
 	cat	lletrat	n$n-m	glg	letrado	n$n-m
 	cat	lleugeresa	n-f$n	glg	lixeireza	n$n-f
 	cat	lleure	n$n-m	glg	lecer	n$n-m
@@ -4652,7 +4652,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	lluentó	n-m	glg	abelorio	n-m$n
 	cat	lluïment	n-m$n	glg	lucimento	n$n-m
 	cat	lluitador	n$n-m$	glg	loitador	n$n-m
-	cat	lluita	n$n-f	glg	loita	n-f$n
+	cat	lluita	n$n-f$n-f-sg	glg	loita	n-f$n
 	cat	lluminària	n-f$n	glg	luminaria	n$n-f
 	cat	llumí	n-m	glg	misto	n-m
 	cat	lluminositat	n-f$n$n-f-ND	glg	luminosidade	n$n-f
@@ -4695,7 +4695,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	maduresa	n$n-f$n-f-sg	glg	madureza	n$n-f
 	cat	maduresa	n$n-f$n-f-sg	glg	madurez	n-f$n
 	cat	màfia	n$n-f	glg	mafia	n$n-f
-	cat	magatzem	n$n-m	glg	almacén	n$n-m
+	cat	magatzem	n-m$n	glg	almacén	n$n-m
 	cat	magazín	n$n-m	glg	magacín	n$n-m
 	cat	magdalena	n$n-f	glg	madalena	n$n-f
 	cat	màgia	n$n-f	glg	maxia	n$n-f
@@ -4754,7 +4754,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	mamografia	n$n-f	glg	mamografía	n$n-f
 	cat	manament	n-m$n	glg	mandamento	n-m$n
 	cat	mancança	n$n-f	glg	carencia	n-f$n
-	cat	manca	n-f$n	glg	carencia	n-f$n
+	cat	manca	n-f$n$n-f-sg	glg	carencia	n-f$n
 	cat	mancomunitat	n-f$n	glg	mancomunidade	n$n-f
 	cat	mandatari	n$n-m	glg	mandatario	n$n-m
 	cat	mandat	n$n-m	glg	mandato	n-m$n
@@ -4763,7 +4763,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	mànec	n$n-m	glg	mango	n-m$n
 	cat	mànega	n-f$n	glg	mangueira	n-f$n
 	cat	manera	n$n-f$n-f-pl	glg	maneira	n$n-f
-	cat	mà	n-f$n	glg	man	n-f$n
+	cat	mà	n-f$n$n-f-sg	glg	man	n-f$n
 	cat	mania	n-f$n	glg	manía	n-f$n
 	cat	mania	n-f$n	glg	teima	n-f$n
 	cat	mania	n-f$n	glg	xenreira	n-f$n
@@ -4876,8 +4876,8 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	mediador	n$n-m	glg	mediador	n$n-m
 	cat	medicació	n-f$n	glg	medicación	n-f$n
 	cat	medicament	n$n-m	glg	medicamento	n-m$n
-	cat	medicina	n$n-f	glg	medicina	n$n-f
-	cat	medi	n$n-m	glg	medio	n-m$n$n-m-pl
+	cat	medicina	n-f$n	glg	medicina	n$n-f
+	cat	medi	n$n-m$n-m-sg	glg	medio	n-m$n$n-m-pl
 	cat	mediocritat	n-f$n	glg	mediocridade	n$n-f
 	cat	medul·la	n-f$n	glg	medula	n$n-f
 	cat	megalitisme	n$n-m$n-m-sg	glg	megalitismo	n$n-m
@@ -4890,7 +4890,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	melodia	n-f$n	glg	melodía	n$n-f
 	cat	melodrama	n-m$n	glg	melodrama	n$n-f
 	cat	membre	n$n-mf$	glg	membro	n-mf$n
-	cat	memòria	n$n-f$n-f-pl	glg	memoria	n-f$n
+	cat	memòria	n-f$n$n-f-pl	glg	memoria	n-f$n
 	cat	menció	n-f$n	glg	mención	n$n-f
 	cat	mendicitat	n-f$n	glg	mendicidade	n-f$n
 	cat	menester	n-m$n	glg	mester	n$n-m
@@ -5088,7 +5088,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	motiu	n-m$n	glg	motivo	n-m$n
 	cat	motivació	n-f$n	glg	motivación	n$n-f
 	cat	motllura	n-f$n	glg	moldura	n-m$n
-	cat	motlura	n-f$n	glg	moldura	n-m$n
+	cat	motlura	n-f	glg	moldura	n-m$n
 	cat	motocicleta	n$n-f	glg	motocicleta	n-f$n
 	cat	motociclisme	n-m$n$n-m-sg	glg	motociclismo	n-m$n
 	cat	moto	n$n-f	glg	moto	n$n-f
@@ -5217,7 +5217,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	noblesa	n-f$n$n-f-sg	glg	nobreza	n$n-f
 	cat	noció	n-f$n	glg	noción	n$n-f
 	cat	nocturnitat	n$n-f	glg	nocturnidade	n$n-f
-	cat	noguera	n-f$n	glg	nogueira	n-f
+	cat	noguera	n-f	glg	nogueira	n-f
 	cat	noi	n-m	glg	chico	n-m
 	cat	noi	n-m	glg	mozo	n-m$n
 	cat	noi	n-m	glg	raparigo	n-m$n
@@ -5227,7 +5227,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	nomenament	n-m$n	glg	nomeamento	n-m$n
 	cat	nomenclatura	n-f$n	glg	nomenclatura	n-f$n
 	cat	nòmina	n-f$n	glg	nómina	n-f$n
-	cat	nom	n$n-m	glg	nome	n$n-m
+	cat	nom	n-m$n	glg	nome	n$n-m
 	cat	nora	n$n-f$n-f-sg	glg	nora	n-f$n
 	cat	nord-africà	n$n-m	glg	norteafricano	n$n-m
 	cat	nord-americà	n$n-m	glg	norteamericano	n-m
@@ -5269,8 +5269,8 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	nul·litat	n-f$n	glg	nulidade	n-f$n
 	cat	numeració	n-f$n	glg	numeración	n-f$n
 	cat	numerari	n-m$n	glg	numerario	n$n-m
-	cat	número	n$n-m	glg	número	n-m$n
-	cat	nus	n$n-m	glg	nó	n-m$n
+	cat	número	n$n-m$n-m-sg	glg	número	n-m$n
+	cat	nus	n-m$n	glg	nó	n-m$n
 	cat	nutrició	n-f$n	glg	nutrición	n-f$n
 	cat	nutrient	n-m$n	glg	nutriente	n-m$n
 	cat	nuvi	n$n-m$n-m-pl	glg	namorado	n$n-m
@@ -5291,7 +5291,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	oboé	n$n-m	glg	oboe	n-m$n
 	cat	oboè	n-m$n	glg	oboe	n-m$n
 	cat	obra	n-f$n	glg	obra	n-f$n
-	cat	obrer	n-m	glg	obreiro	n$n-m
+	cat	obrer	n$n-m$	glg	obreiro	n$n-m
 	cat	obscurantisme	n-m$n	glg	escurantismo	n$n-m
 	cat	obsequi	n-m$n	glg	obsequio	n$n-m
 	cat	observació	n$n-f	glg	observación	n$n-f
@@ -5357,7 +5357,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	oncologia	n$n-f	glg	oncoloxía	n-f$n
 	cat	ONU	n$n-acr-f$n-acr$n-acr-f-sg	glg	ONU	n-acr-f$n
 	cat	opacitat	n-f$n	glg	opacidade	n$n-f
-	cat	opció	n-f$n	glg	opción	n$n-f
+	cat	opció	n$n-f	glg	opción	n$n-f
 	cat	operació	n-f$n	glg	operación	n$n-f
 	cat	operador	n$n-m	glg	operador	n$n-m
 	cat	òpera	n-f$n	glg	ópera	n$n-f
@@ -5412,7 +5412,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	orografia	n-f$n	glg	orografía	n-f$n
 	cat	orquestra	n-f$n	glg	orquestra	n$n-f
 	cat	ortodòncia	n-f$n$n-f-sg	glg	ortodoncia	n-f$n
-	cat	ortodòxia	n$n-f	glg	ortodoxia	n$n-f
+	cat	ortodòxia	n-f$n	glg	ortodoxia	n$n-f
 	cat	ortografia	n-f$n	glg	ortografía	n-f$n
 	cat	oscil·lació	n-f$n	glg	oscilación	n-f$n
 	cat	ós	n$n-m$n-m-ND	glg	oso	n$n-m
@@ -5593,7 +5593,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	patrocini	n$n-m	glg	patrocinio	n-m$n
 	cat	patronal	n-f$n	glg	patronal	n-f$n
 	cat	patronat	n$n-m	glg	padroado	n$n-m
-	cat	patró	n$n-m	glg	patrón	n$n-m
+	cat	patró	n$n-m$n-m-sg	glg	patrón	n$n-m
 	cat	patrulla	n-f$n	glg	patrulla	n$n-f
 	cat	pau	n$n-f$n-f-ND	glg	paz	n$n-f
 	cat	pausa	n-f$n	glg	pausa	n$n-f
@@ -5718,7 +5718,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	pervivència	n-f$n	glg	pervivencia	n$n-f
 	cat	perxa	n-f$n	glg	pértega	n-f$n
 	cat	pescador	n$n-m	glg	pescador	n$n-m
-	cat	pesca	n-f$n	glg	pesca	n-f$n
+	cat	pesca	n-f$n$n-f-sg	glg	pesca	n-f$n
 	cat	pes	n-m$n	glg	peso	n$n-m
 	cat	pesquera	n-f$n	glg	pesqueira	n$n-f
 	cat	pesquer	n$n-m	glg	pesqueiro	n$n-m
@@ -5798,8 +5798,8 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	pistola	n-f$n	glg	pistola	n-f$n
 	cat	pistoler	n$n-m	glg	pistoleiro	n$n-m
 	cat	pit	n-m$n$n-m-sg	glg	peito	n-m$n
-	cat	pitxer	n$n-m	glg	vaso	n-m$n
-	cat	pitxer	n$n-m	glg	xerro	n-m$n
+	cat	pitxer	n-m$n	glg	vaso	n-m$n
+	cat	pitxer	n-m$n	glg	xerro	n-m$n
 	cat	pivot	n$n-mf	glg	pivote	n-mf$n
 	cat	pizza	n-f$n	glg	pizza	n$n-f
 	cat	pizzeria	n-f$n	glg	pizzaría	n$n-f
@@ -5818,8 +5818,8 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	planejament	n-m$n	glg	plan	n-m$n
 	cat	planeta	n-m$n	glg	planeta	n$n-m
 	cat	planificació	n-f$n	glg	planificación	n-f$n
-	cat	pla	n-m$n	glg	plan	n-m$n
-	cat	plànol	n-m$n	glg	plano	n-m$n
+	cat	pla	n$n-m$	glg	plan	n-m$n
+	cat	plànol	n$n-m	glg	plano	n-m$n
 	cat	plantació	n-f$n	glg	plantación	n$n-f
 	cat	planta	n-f$n	glg	planta	n$n-f
 	cat	planura	n-f$n	glg	chaira	n-f$n
@@ -5838,7 +5838,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	plat	n-m$n	glg	prato	n-m$n
 	cat	plató	n$n-m	glg	estudio	n-m$n
 	cat	plebiscit	n-m$n	glg	plebiscito	n$n-m
-	cat	plec	n-m$n	glg	prego	n-m$n
+	cat	plec	n$n-m	glg	prego	n-m$n
 	cat	plenitud	n$n-f	glg	plenitude	n$n-f
 	cat	ple	n$n-m	glg	pleno	n-m$n
 	cat	plet	n-m$n$n-m-sg	glg	preito	n-m$n
@@ -5907,7 +5907,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	porc	n-m$n$	glg	cocho	n$n-m
 	cat	porc	n-m$n$	glg	marrán	n$n-m
 	cat	porc	n-m$n$	glg	porco	n-m
-	cat	porga	n-f$n	glg	purga	n-f$n
+	cat	porga	n-f	glg	purga	n-f$n
 	cat	pornografia	n-f$n	glg	pornografía	n-f$n
 	cat	porno	n$n-m$n-m-sg	glg	porno	n$n-m
 	cat	porpra	n-f$n	glg	púrpura	n$n-m
@@ -6038,10 +6038,10 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	prestigi	n-m$n	glg	prestixio	n$n-m
 	cat	presumpció	n-f$n	glg	presunción	n$n-f
 	cat	pretemporada	n-f$n	glg	pretemporada	n$n-f
-	cat	pretendent	n-mf$n	glg	pretendente	n-mf$n
+	cat	pretendent	n$n-mf	glg	pretendente	n-mf$n
 	cat	pretensió	n$n-f	glg	pretensión	n-f$n
 	cat	pretext	n-m$n	glg	pretexto	n$n-m
-	cat	preu	n-m$n$n-m-ND	glg	prezo	n$n-m
+	cat	preu	n$n-m$n-m-ND	glg	prezo	n$n-m
 	cat	prevalença	n-f$n	glg	prevalencia	n$n-f
 	cat	prevaricació	n$n-f	glg	prevaricación	n-f$n
 	cat	previsió	n-f$n	glg	previsión	n-f$n
@@ -6450,7 +6450,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	regadiu	n-m$n	glg	regadío	n$n-m
 	cat	regal	n$n-m	glg	agasallo	n-m$n
 	cat	regal	n$n-m	glg	regalo	n-m$n
-	cat	regata	n$n-f	glg	regata	n$n-f
+	cat	regata	n-f$n	glg	regata	n$n-f
 	cat	regateig	n-m$n	glg	caneo	n-m$n
 	cat	regeneració	n-f$n	glg	rexeneración	n$n-f
 	cat	regidoria	n-f$n	glg	concellaría	n$n-f
@@ -6596,7 +6596,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	restauració	n-f$n	glg	restauración	n$n-f
 	cat	restaurant	n$n-m	glg	restaurante	n$n-m
 	cat	restitució	n-f$n	glg	restitución	n$n-f
-	cat	restoll	n-m$n	glg	restrollo	n-m$n
+	cat	restoll	n-m	glg	restrollo	n-m$n
 	cat	resultat	n-m$n	glg	resultado	n-m$n
 	cat	resum	n-m$n	glg	resumo	n-m$n
 	cat	resurrecció	n-f$n	glg	resurrección	n-f$n
@@ -6634,7 +6634,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	revers	n-m$n	glg	reverso	n$n-m
 	cat	revés	n-m$n	glg	revés	n-m$n
 	cat	revestiment	n-m$n	glg	revestimento	n$n-m
-	cat	revetla	n-f$n	glg	verbena	n-f$n
+	cat	revetla	n-f	glg	verbena	n-f$n
 	cat	revetlla	n-f$n	glg	verbena	n-f$n
 	cat	revisió	n-f$n	glg	revisión	n-f$n
 	cat	revisor	n-m$n	glg	revisor	n$n-m
@@ -6747,7 +6747,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	saharià	n$n-m	glg	sahariano	n$n-m
 	cat	sahrauí	n$n-mf	glg	saharauí	n$n-mf
 	cat	sala	n-f$n	glg	sala	n-f$n
-	cat	salari	n$n-m	glg	salario	n-m$n
+	cat	salari	n-m$n	glg	salario	n-m$n
 	cat	saldo	n$n-m$n-m-sg	glg	saldo	n$n-m
 	cat	salinitat	n-f$n	glg	salinidade	n-f$n
 	cat	saliva	n-f$n	glg	saliva	n-f$n
@@ -6803,7 +6803,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	seducció	n-f$n	glg	sedución	n$n-f
 	cat	seductor	n$n-m	glg	sedutor	n$n-m
 	cat	segell	n-m$n	glg	selo	n-m$n
-	cat	segle	n$n-m	glg	século	n$n-m
+	cat	segle	n$n-m$	glg	século	n$n-m
 	cat	segment	n-m$n	glg	segmento	n-m$n
 	cat	sègol	n$n-m	glg	centeo	n-m$n
 	cat	segon	n-m$n	glg	segundo	n$n-m
@@ -6837,7 +6837,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	senda	n$n-f	glg	senda	n$n-f
 	cat	senderisme	n$n-m$n-m-sg	glg	sendeirismo	n-m$n
 	cat	senegalès	n$n-m	glg	senegalés	n$n-m
-	cat	sénia	n-f$n	glg	nora	n-f$n
+	cat	sénia	n-f	glg	nora	n-f$n
 	cat	sensació	n-f$n	glg	sensación	n$n-f
 	cat	sensatesa	n$n-f	glg	sensatez	n-f$n
 	cat	sensibilitat	n-f$n	glg	sensibilidade	n-f$n
@@ -6857,7 +6857,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	senyoriu	n-m$n	glg	señorío	n$n-m
 	cat	senyor	n-m	glg	señor	n-m$n
 	cat	senzillesa	n$n-f	glg	sinxeleza	n$n-f
-	cat	separació	n$n-f	glg	separación	n$n-f
+	cat	separació	n$n-f$n-f-sg	glg	separación	n$n-f
 	cat	separatista	n-mf$n	glg	separatista	n$n-mf
 	cat	sepeli	n$n-m	glg	enterro	n$n-m
 	cat	septe	n-m$n	glg	tabique	n-m$n
@@ -7115,8 +7115,8 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	suplement	n$n-m	glg	suplemento	n$n-m
 	cat	suplència	n-f$n	glg	suplencia	n$n-f
 	cat	suplici	n-m$n	glg	suplicio	n$n-m
-	cat	suport	n-m$n	glg	apoio	n-m$n
-	cat	suport	n-m$n	glg	soporte	n$n-m
+	cat	suport	n$n-m	glg	apoio	n-m$n
+	cat	suport	n$n-m	glg	soporte	n$n-m
 	cat	suposició	n-f$n	glg	suposición	n-f$n
 	cat	supòsit	n-m$n	glg	suposto	n-m$n
 	cat	supremacia	n-f$n	glg	supremacía	n-f$n
@@ -7306,7 +7306,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	tirador	n$n-m	glg	tirador	n$n-m
 	cat	tira	n-f$n	glg	tira	n$n-f
 	cat	tirania	n-f$n	glg	tiranía	n-f$n
-	cat	tir	n$n-m	glg	tiro	n$n-m
+	cat	tir	n$n-m$n-m-sg	glg	tiro	n$n-m
 	cat	tiroteig	n-m$n	glg	tiroteo	n$n-m
 	cat	titani	n-m$n	glg	titanio	n$n-m
 	cat	tità	n-m$n	glg	titán	n$n-m
@@ -7358,7 +7358,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	tracte	n-m$n	glg	trato	n$n-m
 	cat	tractor	n-m$n	glg	tractor	n-m$n
 	cat	tradició	n$n-f	glg	tradición	n$n-f
-	cat	traducció	n$n-f	glg	tradución	n$n-f
+	cat	traducció	n-f$n	glg	tradución	n$n-f
 	cat	traductor	n$n-m	glg	tradutor	n$n-m
 	cat	traficant	n-mf$n	glg	traficante	n$n-mf
 	cat	tràfic	n$n-m	glg	tráfico	n$n-m
@@ -7407,8 +7407,8 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	traspàs	n-m$n	glg	traspaso	n$n-m
 	cat	trasplantament	n-m$n	glg	transplante	n-m$n
 	cat	traster	n$n-m	glg	trasteiro	n$n-m
-	cat	trast	n-m$n	glg	traste	n$n-m
-	cat	trastorn	n$n-m	glg	trastorno	n-m$n
+	cat	trast	n-m$n$n-m-pl	glg	traste	n$n-m
+	cat	trastorn	n-m$n	glg	trastorno	n-m$n
 	cat	trauma	n-m$n	glg	trauma	n-m$n
 	cat	traumatisme	n-m$n	glg	traumatismo	n-m$n
 	cat	trava	n-f$n	glg	traba	n-f$n
@@ -7563,7 +7563,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	valoració	n-f$n	glg	valoración	n$n-f
 	cat	valorització	n$n-f	glg	valorización	n-f$n
 	cat	valor	n-m$n	glg	valor	n-m$n
-	cat	vàlvula	n-f$n	glg	válvula	n$n-f
+	cat	vàlvula	n$n-f	glg	válvula	n$n-f
 	cat	vampiressa	n-f$n	glg	vampiresa	n$n-f
 	cat	vampir	n$n-m	glg	vampiro	n-m$n
 	cat	vandalisme	n-m$n$n-m-sg	glg	vandalismo	n-m$n
@@ -7639,7 +7639,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	vestit	n-m$n	glg	vestido	n$n-m
 	cat	vestuari	n-m$n$n-m-sg	glg	vestiario	n-m$n
 	cat	veterà	n$n-m	glg	veterano	n$n-m
-	cat	veu	n$n-f$n-f-ND	glg	voz	n-f$n
+	cat	veu	n$n-f$n-f-sg	glg	voz	n-f$n
 	cat	vexació	n-f$n	glg	vexación	n-f$n
 	cat	viabilitat	n-f$n	glg	viabilidade	n-f$n
 	cat	viaducte	n-m$n	glg	viaduto	n-m$n
@@ -7675,7 +7675,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	vidu	n$n-m$	glg	viúvo	n$n-m
 	cat	vietnamita	n-mf$n$	glg	vietnamita	n-mf$n
 	cat	vigència	n-f$n	glg	vixencia	n$n-f
-	cat	vigilància	n-f$n	glg	vixilancia	n-f$n
+	cat	vigilància	n-f$n$n-f-sg	glg	vixilancia	n-f$n
 	cat	vigilant	n-mf$n$	glg	vixiante	n$n-mf
 	cat	vigília	n$n-f	glg	vixilia	n$n-f
 	cat	vigor	n$n-m	glg	vigor	n$n-m
@@ -7761,7 +7761,7 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	xarrada	n-f$n	glg	charla	n-f$n
 	cat	xarrada	n-f$n	glg	parola	n-f$n
 	cat	xarrup	n-m$n	glg	sorbo	n$n-m
-	cat	xarxa	n-f$n	glg	rede	n-f$n
+	cat	xarxa	n-f$n$n-f-sg	glg	rede	n-f$n
 	cat	xat	n-m$n$n-m-sg	glg	chat	n-m$n
 	cat	xaval	n$n-m	glg	rapaz	n$n-m
 	cat	xec	n$n-m	glg	cheque	n$n-m
@@ -7782,17 +7782,17 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	xiïta	n-mf$n	glg	chiíta	n-mf$n
 	cat	xiïta	n-mf$n	glg	xiíta	n-mf$n
 	cat	xilè	n$n-m	glg	chileno	n$n-m
-	cat	ximenera	n-f$n	glg	cheminea	n-f$n
+	cat	ximenera	n-f	glg	cheminea	n-f$n
 	cat	ximpanzé	n-mf	glg	chimpancé	n-m$n
 	cat	ximpleria	n$n-f	glg	bobada	n$n-f
 	cat	xinès	n$n-m	glg	chinés	n$n-m
 	cat	xip	n-m$n$n-m-sg	glg	chip	n$n-m
 	cat	xipriota	n-mf$n	glg	chipriota	n-mf$n
-	cat	xiquet	n$n-m	glg	cativo	n-m$n
-	cat	xiquet	n$n-m	glg	meniño	n-m
-	cat	xiquet	n$n-m	glg	neno	n-m$n
-	cat	xiquet	n$n-m	glg	pícaro	n-m$n
-	cat	xiquet	n$n-m	glg	raparigo	n-m$n
+	cat	xiquet	n-m$n	glg	cativo	n-m$n
+	cat	xiquet	n-m$n	glg	meniño	n-m
+	cat	xiquet	n-m$n	glg	neno	n-m$n
+	cat	xiquet	n-m$n	glg	pícaro	n-m$n
+	cat	xiquet	n-m$n	glg	raparigo	n-m$n
 	cat	xiulet	n$n-m	glg	chifre	n$n-m
 	cat	xivarri	n-m$n$n-m-sg	glg	alboroto	n-m$n$n-m-pl
 	cat	xoc	n-m$n	glg	choque	n-m$n
@@ -7875,8 +7875,8 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	aiguafort	n-m$n	glg	augaforte	n-m
 	cat	aiguamel	n-f$n	glg	augamel	n-f
 	cat	aiguamel	n-f$n	glg	hidromel	n-m
-	cat	aigua	n$n-f	glg	agua	n-f
-	cat	aigua	n$n-f	glg	auga	n-f$n-f-pl$n
+	cat	aigua	n-f$n$n-f-sg	glg	agua	n-f
+	cat	aigua	n-f$n$n-f-sg	glg	auga	n-f$n-f-pl$n
 	cat	aiguavés	n-m	glg	alcatrán	n-m$n
 	cat	aiguavés	n-m	glg	brea	n-f$n
 	cat	aiguavés	n-m	glg	breo	n-m
@@ -7977,8 +7977,8 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	argot	n-m$n$n-m-sg	glg	xerga	n$n-f
 	cat	aristòcrata	n-mf$n	glg	aristócrata	n-mf
 	cat	armadura	n-f$n	glg	blindaxe	n-f
-	cat	arma	n$n-f$n-f-pl	glg	arma	n-f-pl$n
-	cat	arma	n$n-f$n-f-pl	glg	brazo	n$n-m-pl$n-m
+	cat	arma	n-f$n$n-f-pl	glg	arma	n-f-pl$n
+	cat	arma	n-f$n$n-f-pl	glg	brazo	n$n-m-pl$n-m
 	cat	arma	n-f-sg	glg	arma	n-f-sg
 	cat	aroma	n-f$n	glg	aroma	n-m$n
 	cat	arqueig	n-m$n	glg	tonelaxe	n-f
@@ -8392,10 +8392,10 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	corrent	n-m$n$	glg	corrente	n-f$n
 	cat	corretja	n-f$n	glg	cinto	n-m$n
 	cat	corretja	n-f$n	glg	correa	n-f
-	cat	correu electrònic	n-m$n	glg	correo electrónico	n-m
+	cat	correu electrònic	n-m	glg	correo electrónico	n-m
 	cat	cosí	n-f	glg	curmán	n-f
 	cat	cosí	n-f	glg	primo	n-f
-	cat	cosmos	n-m$n-m-sp$n	glg	cosmos	n-m$n
+	cat	cosmos	n-m-sp$n-m$n	glg	cosmos	n-m$n
 	cat	covard	n$n-mf	glg	covarde	n-mf$n
 	cat	crac	n-m$n	glg	accidente	n-m$n
 	cat	crac	n-m$n	glg	choque	n-m$n
@@ -8758,8 +8758,8 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	esquinç	n-m$n	glg	escordadura	n-f
 	cat	esquirol	n-m$n	glg	esquío	n-m
 	cat	esquizofrènic	n$n-GD	glg	esquizofrénico	n$n-GD
-	cat	ésser humà	n-m$n	glg	humano	n-m$n
-	cat	ésser humà	n-m$n	glg	ser humano	n-m
+	cat	ésser humà	n-m	glg	humano	n-m$n
+	cat	ésser humà	n-m	glg	ser humano	n-m
 	cat	establa	n-f	glg	cortello	n-m$n
 	cat	establa	n-f	glg	cuadra	n-f$n
 	cat	estacionalitat	n-f	glg	estacionalidade	n-f$n
@@ -8780,8 +8780,8 @@ RL	cat	llur	det-pos-mf$det$det-pos	glg	o seu	det-pos-f
 	cat	estàrter	n-m	glg	obstrución	n-f$n
 	cat	estat espanyol	n-m	glg	estado español	n-m
 	cat	estat francès	n-m	glg	estado francés	n-m
-	cat	estatus	n-m$n$n-m-sp	glg	estado	n-m$n
-	cat	estatus	n-m$n$n-m-sp	glg	status	n-m$n
+	cat	estatus	n-m$n-m-sp$n	glg	estado	n-m$n
+	cat	estatus	n-m$n-m-sp$n	glg	status	n-m$n
 	cat	esternut	n-m$n	glg	esbirro	n-m
 	cat	esternut	n-m$n	glg	espirro	n-m
 	cat	estètica	n-f$n	glg	estética	n-f
@@ -8937,7 +8937,7 @@ RL	cat	estrateg	n$n-mf	glg	estratego	n-f
 	cat	frau	n-m$n	glg	fraude	n-f$n
 	cat	frescor	n-f$n	glg	frescor	n-m
 	cat	frescor	n-f$n	glg	frescura	n-f$n
-	cat	fruita seca	n-f$n-f-sg	glg	porca	n-f$n
+	cat	fruita seca	n-f	glg	porca	n-f$n
 	cat	fuet	n-m$n	glg	látego	n-m$n
 	cat	fuet	n-m$n	glg	salchicha	n-f
 	cat	fugitiu	n-f	glg	fuxitivo	n$n-f
@@ -9003,7 +9003,7 @@ RL	cat	estrateg	n$n-mf	glg	estratego	n-f
 	cat	gos	n$n-m	glg	can	n$n-m
 	cat	gos	n$n-m	glg	cuzo	n$n-m
 	cat	governador	n$n-m	glg	gobernador	n$n-m
-	cat	governant	n$n-mf	glg	gobernante	n$n-m
+	cat	governant	n-mf$n	glg	gobernante	n$n-m
 	cat	gràcia	n-f$n	glg	graza	n$n-f
 	cat	gràfic	n-m$n	glg	gráfico	n$n-m
 	cat	gràfic	n-m$n	glg	mapa	n-m$n
@@ -9026,7 +9026,7 @@ RL	cat	estrateg	n$n-mf	glg	estratego	n-f
 	cat	guanyador	n$n-m	glg	gañador	n$n-m
 	cat	guany	n-m$n	glg	beneficio	n-m$n
 	cat	guany	n-m$n	glg	ganancia	n-f$n
-	cat	guàrdia	n-f	glg	garda	n-mf$n
+	cat	guàrdia	n-f$n-f-sg	glg	garda	n-mf$n
 	cat	guardià	n$n-m	glg	gardián	n$n-m
 	cat	guaret	n-m$n	glg	barbeito	n$n-m
 	cat	guariment	n-m	glg	crego	n-m
@@ -9233,10 +9233,10 @@ RL	cat	estrateg	n$n-mf	glg	estratego	n-f
 	cat	llotja	n-f$n	glg	palco	n-m$n
 	cat	lluç	n-m$n	glg	pescada	n-f$n
 	cat	lluitador	n$n-m$	glg	loitador	n$n-m
-	cat	llum	n-f	glg	lámpada	n-f$n
-	cat	llum	n-f	glg	luz	n-f$n
-	cat	llum	n-m$n	glg	lámpada	n-f$n
-	cat	llum	n-m$n	glg	luz	n-f$n
+	cat	llum	n-f$n	glg	lámpada	n-f$n
+	cat	llum	n-f$n	glg	luz	n-f$n
+	cat	llum	n-m	glg	lámpada	n-f$n
+	cat	llum	n-m	glg	luz	n-f$n
 	cat	loció	n-f$n	glg	loción	n-f
 	cat	locomoció	n-f$n	glg	locomoción	n-f
 	cat	lubrificant	n-m$n	glg	lubricante	n-m
@@ -9392,7 +9392,7 @@ RL	cat	matemàtica	n-f-ND	glg	matemáticas	n-f-sp
 	cat	NASA	n-acr$n-acr-f$n-acr-f-sg	glg	NASA	n-acr-f$n$n-f
 	cat	NASDAQ	n-acr-m	glg	NASDAQ	n-acr-m
 	cat	natació	n-f-sp	glg	natación	n-f$n-f-sg
-	cat	nata	n-f$n	glg	crema	n-f$n
+	cat	nata	n-f$n$n-f-sg	glg	crema	n-f$n
 	cat	naturalisme	n-m$n$n-m-sg	glg	naturalismo	n-m
 	cat	nàusea	n-f$n	glg	náusea	n-f$n
 	cat	navegador	n$n-m	glg	navegador	n-m$n
@@ -9442,7 +9442,7 @@ RL	cat	matemàtica	n-f-ND	glg	matemáticas	n-f-sp
 	cat	obelisc	n-m$n	glg	obelisco	n-m
 	cat	objecció	n-f$n	glg	obxección	n-f$n
 	cat	objecció	n-f$n	glg	reparo	n$n-m
-	cat	objectivisme	n-m	glg	obxectivismo	n-m
+	cat	objectivisme	n-m$n	glg	obxectivismo	n-m
 	cat	obligacionista	n-mf$n	glg	obrigacionista	n-mf
 	cat	observador	n$n-m	glg	observador	n$n-GD
 	cat	obstinació	n-f$n	glg	empeño	n-m$n
@@ -9551,7 +9551,7 @@ RL	cat	matemàtica	n-f-ND	glg	matemáticas	n-f-sp
 	cat	pèrdua	n$n-f	glg	perda	n$n-f
 	cat	perforadora	n-f$n	glg	puñada	n-f
 	cat	perifèric	n-m	glg	periférico	n-m$n
-	cat	perillositat	n$n-f$n-f-sg	glg	perigo	n-m$n
+	cat	perillositat	n-f$n$n-f-sg	glg	perigo	n-m$n
 	cat	perruquer	n$n-m	glg	peiteador	n$n-GD
 	cat	perruquer	n$n-m	glg	perruqueiro	n$n-m
 	cat	personatge	n-m$n	glg	carácter	n$n-m
@@ -9666,8 +9666,8 @@ LR	cat	pocavergonya	n-mf$n	glg	lercho	n-GD
 	cat	príncep	n-f	glg	princesa	n$n-f
 	cat	principiant	n-mf$n	glg	novato	n$n-GD
 	cat	prismàtics	n-m$n-m-pl$n	glg	prismáticos	n-m$n$n-m-pl
-	cat	privacitat	n$n-f	glg	intimidade	n-f$n
-	cat	privacitat	n$n-f	glg	privacidade	n-f$n
+	cat	privacitat	n-f$n	glg	intimidade	n-f$n
+	cat	privacitat	n-f$n	glg	privacidade	n-f$n
 	cat	productor	n$n-m	glg	produtor	n$n-m
 	cat	professor	n$n-GD	glg	docente	n-mf$n
 	cat	professor	n$n-GD	glg	mestre	n$n-f
@@ -9684,7 +9684,7 @@ LR	cat	pocavergonya	n-mf$n	glg	lercho	n-GD
 	cat	propina	n-f$n	glg	punta	n$n-f
 	cat	prosòdia	n-f$n	glg	prosodia	n-f
 	cat	protestantisme	n-m$n	glg	protestantismo	n-m
-	cat	prototipus	n-m$n-m-sp	glg	prototipo	n-m$n
+	cat	prototipus	n-m-sp$n-m	glg	prototipo	n-m$n
 	cat	prova puntuable	n-f	glg	carreira	n-f$n
 	cat	prova puntuable	n-f	glg	raza	n-f$n
 	cat	proveïdor	n-f	glg	fornecedor	n$n-f
@@ -9909,7 +9909,7 @@ LR	cat	pocavergonya	n-mf$n	glg	lercho	n-GD
 	cat	Senyor	n-f	glg	Sra.	n-f
 	cat	sequedat	n-f$n	glg	secura	n-f
 	cat	sequedat	n-f$n	glg	sequidade	n-f
-	cat	ser	n-m	glg	ser	n-m$n
+	cat	ser	n-m$n	glg	ser	n-m$n
 	cat	servent	n-f	glg	criada	n-f
 	cat	setí	n-m$n	glg	satén	n-m
 	cat	set	n$n-m	glg	conxunto	n$n-m
@@ -10101,8 +10101,8 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	treballador	n$n-GD	glg	obreiro	n$n-m
 	cat	treballador	n$n-GD	glg	operario	n$n-GD
 	cat	treballador	n$n-GD	glg	traballador	n$n-m
-	cat	trencaclosques	n-m$n-m-sp$n	glg	crebacabezas	n-m$n
-	cat	trencaclosques	n-m$n-m-sp$n	glg	quebracabezas	n-m-sp$n-m
+	cat	trencaclosques	n-m-sp$n-m$n	glg	crebacabezas	n-m$n
+	cat	trencaclosques	n-m-sp$n-m$n	glg	quebracabezas	n-m-sp$n-m
 	cat	trencament	n-m$n	glg	quebrantamento	n-m$n
 	cat	trencament	n-m$n	glg	rotura	n-f$n
 	cat	trencat	n-m$n	glg	fracción	n$n-f
@@ -10219,19 +10219,19 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	xarlatà	n-f$n	glg	charlatán	n$n-f
 	cat	xarlatà	n-m	glg	charlatán	n-m
 	cat	xarop	n-m$n	glg	xarope	n-m
-	cat	xassís	n-m$n$n-m-ND	glg	bastidor	n-m$n
-	cat	xassís	n-m$n$n-m-ND	glg	estrutura	n-f$n
-	cat	xassís	n-m$n$n-m-ND	glg	marco	n-m$n
-	cat	xassís	n-m$n$n-m-ND	glg	chasis	n-m$n
+	cat	xassís	n-m$n-m-ND	glg	bastidor	n-m$n
+	cat	xassís	n-m$n-m-ND	glg	estrutura	n-f$n
+	cat	xassís	n-m$n-m-ND	glg	marco	n-m$n
+	cat	xassís	n-m$n-m-ND	glg	chasis	n-m$n
 	cat	xaval	n$n-m	glg	mozo	n-m$n
 	cat	xaval	n-f	glg	mozo	n-f
-	cat	xic	n-f$n$	glg	cativo	n-f
-	cat	xic	n-f$n$	glg	chico	n-f$n
-	cat	xic	n-f$n$	glg	meniño	n-f$n
-	cat	xic	n-f$n$	glg	mozo	n-f
-	cat	xic	n-f$n$	glg	neno	n-f
-	cat	xic	n-f$n$	glg	pícaro	n-f
-	cat	xic	n-f$n$	glg	raparigo	n-f
+	cat	xic	n-f$n	glg	cativo	n-f
+	cat	xic	n-f$n	glg	chico	n-f$n
+	cat	xic	n-f$n	glg	meniño	n-f$n
+	cat	xic	n-f$n	glg	mozo	n-f
+	cat	xic	n-f$n	glg	neno	n-f
+	cat	xic	n-f$n	glg	pícaro	n-f
+	cat	xic	n-f$n	glg	raparigo	n-f
 	cat	xicot	n-f	glg	cativo	n-f
 	cat	xicot	n-f	glg	chico	n-f$n
 	cat	xicot	n-f	glg	meniño	n-f$n
@@ -10259,7 +10259,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	zoologia	n-f$n$n-f-sg	glg	zooloxía	n-f
 	cat	zoològic	n-m$n	glg	zoolóxico	n-m
 	cat	zoològic	n-m$n	glg	zoo	n-m$n
-	cat	Jaume	np$np-ant$np-ant-m-sg$	glg	Jaume	np$np-ant-m-sg
+	cat	Jaume	np-ant-m-sg$np$np-ant$	glg	Jaume	np$np-ant-m-sg
 	cat	Maria	np-ant$np-ant-f-sg$np$	glg	María	np$np-ant-f-sg$np-ant
 	cat	Abissínia	np$np-loc$np-loc-f	glg	Abisinia	np-loc-f$np-loc-f-sg
 	cat	Adam	np$np-ant$$np-ant-m-sg	glg	Adam	np$np-ant$np-ant-m-sg
@@ -10269,7 +10269,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Afganistan	np$np-loc$np-loc-m	glg	Afganistán	np$np-loc-m$np-loc-m-sg
 	cat	Àfrica	np$np-loc$np-loc-f	glg	África	np$np-loc-f$np-loc-f-sg
 	cat	Aguirre	np$$np-ant-mf$np-ant	glg	Aguirre	np-cog-mf-sp$np
-	cat	Ainhoa	np$np-ant-f-sg$np-ant	glg	Ainhoa	np$np-ant-f-sg
+	cat	Ainhoa	np-ant-f-sg$np$np-ant	glg	Ainhoa	np$np-ant-f-sg
 	cat	Aitor	np$np-ant-m-sg$np-ant$	glg	Aitor	np$np-ant$np-ant-m-sg
 	cat	Alabama	np$np-loc$np-loc-f	glg	Alabama	np$np-loc-f$np-loc-f-sg
 	cat	Alacant	np$np-loc$np-loc-m	glg	Alacant	np$np-loc-m$np-loc-m-sg
@@ -10290,23 +10290,23 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Algèria	np$np-loc$np-loc-f	glg	Alxeria	np$np-loc-f$np-loc-f-sg
 	cat	Alicia	np$np-ant-f-sg$np-ant	glg	Alicia	np$np-ant$np-ant-f-sg
 	cat	Alsàcia	np$np-loc$np-loc-f	glg	Alsacia	np-loc-f$np-loc-f-sg
-	cat	Amèrica del Nord	np$np-loc$np-loc-f	glg	Norteamérica	np-loc-f$np-loc-f-sg
-	cat	Amèrica del Nord	np$np-loc$np-loc-f	glg	Norte América	np-loc-f$np-loc-f-sg
-	cat	Amèrica	np$np-loc$np-loc-f	glg	América	np$np-loc-f$np-loc-f-sg
+	cat	Amèrica del Nord	np-loc$np$np-loc-f	glg	Norteamérica	np-loc-f$np-loc-f-sg
+	cat	Amèrica del Nord	np-loc$np$np-loc-f	glg	Norte América	np-loc-f$np-loc-f-sg
+	cat	Amèrica	np-loc$np-loc-f	glg	América	np$np-loc-f$np-loc-f-sg
 	cat	Amsterdam	np$np-loc$np-loc-f	glg	Amsterdam	np$np-loc-f$np-loc-f-sg
 	cat	Andalusia	np$np-loc$np-loc-f	glg	Andalucía	np$np-loc-f$np-loc-f-sg
-	cat	Andorra	np$np-loc$np-loc-f	glg	Andorra	np$np-loc-f$np-loc-f-sg
+	cat	Andorra	np-loc$np-loc-f	glg	Andorra	np$np-loc-f$np-loc-f-sg
 	cat	Andrea	np$np-ant$np-ant-f-sg	glg	Andrea	np$np-ant$np-ant-f-sg
-	cat	Andreu	np$np-ant$np-ant-m-sg$	glg	Andreu	np$np-ant-m-sg
+	cat	Andreu	np$np-ant-m-sg$np-ant$	glg	Andreu	np$np-ant-m-sg
 	cat	Ángel	np$np-ant-m-sg$np-ant$	glg	Ángel	np$np-ant-m-sg
 	cat	Anglaterra	np$np-loc$np-loc-f	glg	Inglaterra	np$np-loc-f$np-loc-f-sg
 	cat	Angola	np$np-loc$np-loc-f	glg	Angola	np$np-loc-f$np-loc-f-sg
 	cat	Ankara	np$np-loc$np-loc-f	glg	Ankara	np$np-loc-f$np-loc-f-sg
-	cat	Anna	np$np-ant$np-ant-f-sg	glg	Anna	np$np-ant$np-ant-f-sg
+	cat	Anna	np$np-ant-f-sg$np-ant	glg	Anna	np$np-ant$np-ant-f-sg
 	cat	Anthony	np$np-ant-m-sg$np-ant	glg	Anthony	np$np-ant$np-ant-m-sg
-	cat	Antoni	np$np-ant$np-ant-m-sg	glg	Antoni	np$np-ant-m-sg
+	cat	Antoni	np-ant-m-sg$np$np-ant	glg	Antoni	np$np-ant-m-sg
 	cat	Antonio	np-ant$np$np-ant-m-sg$	glg	Antonio	np$np-ant$np-ant-m-sg
-	cat	Aràbia	np$np-loc$np-loc-f	glg	Arabia	np$np-loc-f$np-loc-f-sg
+	cat	Aràbia	np-loc$np-loc-f	glg	Arabia	np$np-loc-f$np-loc-f-sg
 	cat	Aràbia Saudita	np$np-loc$np-loc-f	glg	Arabia Saudí	np-loc-f$np-loc-f-sg
 	cat	Arafat	np$np-ant$$np-ant-mf	glg	Arafat	np-cog-mf-sp$np
 	cat	Aragó	np$np-loc$$np-loc-m	glg	Aragón	np$np-loc-m$np-loc-m-sg
@@ -10343,7 +10343,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Berlín	np$np-loc$np-loc-m	glg	Berlín	np$np-loc-m$np-loc-m-sg
 	cat	Berna	np-loc	glg	Berna	np$np-loc-f$np-loc-f-sg
 	cat	Bernard	np$np-ant-m-sg$$np-ant	glg	Bernard	np$np-ant$np-ant-m-sg
-	cat	Bernat	np$np-ant-m-sg$np-ant$	glg	Bernat	np$np-ant-m-sg
+	cat	Bernat	np-ant-m-sg$np$np-ant$	glg	Bernat	np$np-ant-m-sg
 	cat	Biel	np$np-ant$np-ant-m-sg$	glg	Biel	np$np-ant-m-sg
 	cat	Bill	np$np-ant-m-sg$np-ant$	glg	Bill	np$np-ant-m-sg
 	cat	Birmània	np$np-loc$np-loc-f	glg	Birmania	np-loc-f$np-loc-f-sg
@@ -10352,7 +10352,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Bogotà	np$np-loc$np-loc-m	glg	Bogotá	np$np-loc-m$np-loc-m-sg
 	cat	Bolívia	np$np-loc$np-loc-f	glg	Bolivia	np$np-loc-f$np-loc-f-sg
 	cat	Borja	np$np-ant$np-ant-m-sg$	glg	Borja	np$np-ant-m-sg
-	cat	Bòsnia	np$np-loc$np-loc-f	glg	Bosnia	np$np-loc-f$np-loc-f-sg
+	cat	Bòsnia	np-loc$np-loc-f	glg	Bosnia	np$np-loc-f$np-loc-f-sg
 	cat	Boston	np$np-loc	glg	Boston	np$np-loc-m$np-loc-m-sg
 	cat	Boyle	np-ant$np-ant-mf	glg	Boyle	np-cog-mf-sp
 	cat	Brasília	np$np-loc$np-loc-f	glg	Brasilia	np-loc-f$np$np-loc-f-sg
@@ -10361,8 +10361,8 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Brussel·les	np$np-loc$np-loc-f	glg	Bruxelas	np$np-loc-f$np-loc-f-sg
 	cat	Bucarest	np-loc$np-loc-f	glg	Bucarest	np-loc-f$np-loc-f-sg
 	cat	Budapest	np$np-loc$np-loc-f	glg	Budapest	np$np-loc-f$np-loc-f-sg
-	cat	Buenos Aires	np$np-loc$np-loc-m	glg	Bos Aires	np-loc-m$np-loc-m-sg
-	cat	Buenos Aires	np$np-loc$np-loc-m	glg	Buenos Aires	np$np-loc-m$np-loc-m-sg
+	cat	Buenos Aires	np-loc$np$np-loc-m	glg	Bos Aires	np-loc-m$np-loc-m-sg
+	cat	Buenos Aires	np-loc$np$np-loc-m	glg	Buenos Aires	np$np-loc-m$np-loc-m-sg
 	cat	Bulgària	np$np-loc$np-loc-f	glg	Bulgaria	np$np-loc-f$np-loc-f-sg
 	cat	Burundi	np$np-loc$np-loc-m	glg	Burundi	np$np-loc-m$np-loc-m-sg
 	cat	Bush	np$np-ant$$np-ant-mf	glg	Bush	np-cog-mf-sp$np
@@ -10384,7 +10384,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Carlota	np$np-ant-f-sg$np-ant	glg	Carlota	np$np-ant$np-ant-f-sg
 	cat	Carme	np$np-ant$np-ant-f-sg	glg	Carme	np$np-ant-f-sg
 	cat	Carolina	np$np-ant$np-ant-f-sg$	glg	Carolina	np$np-ant$np-ant-f-sg
-	cat	Castella i Lleó	np$np-loc$np-loc-f	glg	Castilla y León	np-loc-f$np-loc-f-sg
+	cat	Castella i Lleó	np-loc$np$np-loc-f	glg	Castilla y León	np-loc-f$np-loc-f-sg
 	cat	Castro	np$$np-ant$np-ant-mf	glg	Castro	np-cog-mf-sp$np
 	cat	Catalina	np$np-ant$np-ant-f-sg	glg	Catalina	np$np-ant$np-ant-f-sg
 	cat	Catalunya	np$np-loc$np-loc-f	glg	Catalunya	np$np-loc-f$np-loc-f-sg
@@ -10403,7 +10403,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Colúmbia	np-loc	glg	Columbia	np$np-al-f$np-al-f-sg
 	cat	Condoleezza	np$np-ant-f-sg$np-ant	glg	Condoleezza	np$np-ant-f-sg
 	cat	Congo	np$np-loc	glg	Congo	np$np-loc-m$np-loc-m-sg
-	cat	Corea	np$np-loc$np-loc-f	glg	Corea	np$np-loc-f$np-loc-f-sg
+	cat	Corea	np-loc$np-loc-f	glg	Corea	np$np-loc-f$np-loc-f-sg
 	cat	Corfú	np$np-loc$np-loc-m	glg	Corfú	np-loc-m$np-loc-m-sg
 	cat	Costa d'Ivori	np$np-loc$np-loc-f	glg	Costa do Marfil	np$np-loc-f$np-loc-f-sg
 	cat	Costa Rica	np$np-loc	glg	Costa Rica	np$np-loc-f$np-loc-f-sg
@@ -10418,7 +10418,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Dallas	np-ant-m-sg$np$np-ant	glg	Dallas	np$np-ant$np-ant-m-sg
 	cat	Damasc	np$np-loc$np-loc-m	glg	Damasco	np$np-loc-m$np-loc-m-sg
 	cat	Daniel	np$np-ant$np-ant-m-sg$	glg	Daniel	np$np-ant$np-ant-m-sg
-	cat	David	np$$np-ant$np-ant-m-sg	glg	David	np$np-ant$np-ant-m-sg
+	cat	David	np$np-ant$$np-ant-m-sg	glg	David	np$np-ant$np-ant-m-sg
 	cat	Dennis	np$np-ant-m-sg$np-ant$	glg	Dennis	np$np-ant$np-ant-m-sg
 	cat	Detroit	np$np-loc	glg	Detroit	np-loc-f$np-loc-f-sg
 	cat	Díaz	np$$np-ant$np-ant-mf	glg	Díaz	np-cog-mf-sp$np
@@ -10443,7 +10443,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Enric	np$np-ant$np-ant-m-sg$	glg	Enric	np$np-ant-m-sg
 	cat	Enrique	np$np-ant$np-ant-m-sg$	glg	Enrique	np$np-ant$np-ant-m-sg
 	cat	Equador	np$np-loc$np-loc-m	glg	Ecuador	np$np-loc-m$np-loc-m-sg
-	cat	Eric	np$np-ant-m-sg$np-ant$	glg	Eric	np$np-ant$np-ant-m-sg
+	cat	Eric	np$np-ant$np-ant-m-sg$	glg	Eric	np$np-ant$np-ant-m-sg
 	cat	Erika	np$np-ant-f-sg$np-ant	glg	Erika	np$np-ant$np-ant-f-sg
 	cat	Eritrea	np$np-loc$np-loc-f	glg	Eritrea	np$np-loc-f$np-loc-f-sg
 	cat	Escandinàvia	np$np-loc$np-loc-f	glg	Escandinavia	np-loc-f$np-loc-f-sg
@@ -10462,15 +10462,15 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	EUA	np-loc$np-loc-m	glg	EEUU	np-loc-m-pl$np
 	cat	Europa	np$np-loc$np-loc-f	glg	Europa	np$np-loc-f$np-loc-f-sg
 	cat	Euskadi	np$np-loc	glg	Euskadi	np$np-loc-m$np-loc-m-sg
-	cat	Euskal Herria	np$np-loc	glg	País Vasco	np-loc-m-sg$np-loc-m
+	cat	Euskal Herria	np-loc	glg	País Vasco	np-loc-m-sg$np-loc-m
 	cat	Eva	np$np-ant$np-ant-f-sg$	glg	Eva	np$np-ant$np-ant-f-sg
 	cat	Evans	np-ant$np-ant-mf	glg	Evans	np-cog-mf-sp$np
 	cat	Evo	np-ant-m-sg$np$np-ant	glg	Evo	np$np-ant-m-sg
 	cat	Extremadura	np$np-loc$np-loc-f	glg	Estremadura	np$np-loc-f$np-loc-f-sg
 	cat	Facebook	np$np-al$np-al-sg$np-al-m-sg	glg	Facebook	np-al-m$np-al-m-sg
-	cat	Fernández	np$$np-ant-mf$np-ant	glg	Fernández	np-cog-mf-sp$np
+	cat	Fernández	np-ant-mf$np-ant	glg	Fernández	np-cog-mf-sp$np
 	cat	Fernando	np$np-ant$np-ant-m-sg$	glg	Fernando	np$np-ant$np-ant-m-sg
-	cat	Ferran	np-ant$np-ant-m-sg$np$	glg	Ferran	np$np-ant-m-sg
+	cat	Ferran	np-ant-m-sg$np-ant$np$	glg	Ferran	np$np-ant-m-sg
 	cat	Ferreira	np$$np-ant$np-ant-mf	glg	Ferreira	np-cog-mf-sp$np
 	cat	Ferrer	np$$np-ant$np-ant-mf	glg	Ferrer	np-cog-mf-sp$np
 	cat	Figo	np-ant$np-ant-mf	glg	Figo	np-cog-mf-sp$np
@@ -10481,7 +10481,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Florida	np-loc	glg	Florida	np$np-loc-f$np-loc-f-sg
 	cat	Formosa	np$np-loc$np-loc-f	glg	Formosa	np$np-loc-f$np-loc-f-sg
 	cat	França	np$np-loc$np-loc-f	glg	Francia	np$np-loc-f$np-loc-f-sg
-	cat	Francesc	np$np-ant$np-ant-m-sg$	glg	Francesc	np$np-ant-m-sg
+	cat	Francesc	np-ant-m-sg$np$np-ant$	glg	Francesc	np$np-ant-m-sg
 	cat	Francisco	np-ant$np$np-ant-m-sg$	glg	Francisco	np$np-ant$np-ant-m-sg
 	cat	Francis	np$np-ant-m-sg$$np-ant	glg	Francis	np-ant$np$np-ant-m-sg
 	cat	Franco	np$$np-ant$np-ant-mf	glg	Franco	np-ant$np-ant-m-sg
@@ -10491,7 +10491,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Fujimori	np-ant$np-ant-mf	glg	Fujimori	np-cog-mf-sp$np
 	cat	Gabon	np$np-loc$np-loc-m	glg	Gabón	np-loc-m$np-loc-m-sg
 	cat	Gabriela	np$np-ant-f-sg$np-ant$	glg	Gabriela	np$np-ant$np-ant-f-sg
-	cat	Gabriel	np$np-ant$np-ant-m-sg$	glg	Gabriel	np$np-ant$np-ant-m-sg
+	cat	Gabriel	np$np-ant-m-sg$np-ant$	glg	Gabriel	np$np-ant$np-ant-m-sg
 	cat	Galícia	np$np-loc$np-loc-f	glg	Galicia	np$np-loc-f$np-loc-f-sg
 	cat	Galícia	np$np-loc$np-loc-f	glg	Galiza	np$np-loc-f$np-loc-f-sg
 	cat	Gal·les	np$np-loc$np-loc-m	glg	Gales	np$np-loc-m$np-loc-m-sg
@@ -10516,8 +10516,8 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Goya	np$np-ant$	glg	Goya	np-cog-mf-sp$np
 	cat	Grace	np$np-ant-f-sg$np-ant	glg	Grace	np$np-ant$np-ant-f-sg
 	cat	Granada	np$np-loc$np-loc-f$	glg	Granada	np-loc-f$np-loc-f-sg
-	cat	Gran Bretanya	np-loc$np-loc-f	glg	Gran Bretaña	np-loc-f$np-loc-f-sg$np
-	cat	Gran Bretanya	np-loc$np-loc-f	glg	Reino Unido	np-loc-m-sg$np$np-loc-m
+	cat	Gran Bretanya	np$np-loc$np-loc-f	glg	Gran Bretaña	np-loc-f$np-loc-f-sg$np
+	cat	Gran Bretanya	np$np-loc$np-loc-f	glg	Reino Unido	np-loc-m-sg$np$np-loc-m
 	cat	Grècia	np$np-loc$np-loc-f	glg	Grecia	np$np-ant$np-ant-f-sg
 	cat	Groenlàndia	np$np-loc$np-loc-f	glg	Grenlandia	np-loc-f$np-loc-f-sg
 	cat	Groenlàndia	np$np-loc$np-loc-f	glg	Groenlandia	np-loc-f$np-loc-f-sg
@@ -10526,7 +10526,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Guatemala	np$np-loc$np-loc-f	glg	Guatemala	np-loc-f$np$np-loc-f-sg
 	cat	Guernica	np$np-loc	glg	Guernica	np-loc-m$np-loc-m-sg
 	cat	Guillem	np-ant-m-sg$np-ant$np$	glg	Guillem	np$np-ant-m-sg
-	cat	Guinea	np$np-loc$np-loc-f	glg	Guinea	np-loc-f-sg$np$np-loc-f
+	cat	Guinea	np-loc$np-loc-f	glg	Guinea	np-loc-f-sg$np$np-loc-f
 	cat	Guipúscoa	np$np-loc	glg	Guipúscoa	np-loc-f$np-loc-f-sg
 	cat	Guyana	np$np-loc$np-loc-f	glg	Güiana	np$np-loc-f-sg$np-loc-f
 	cat	Haití	np$np-loc$np-loc-m	glg	Haití	np$np-loc-m$np-loc-m-sg
@@ -10549,19 +10549,19 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Hong Kong	np$np-loc$np-loc-m	glg	Hong Kong	np$np-loc-m$np-loc-m-sg
 	cat	Hongria	np$np-loc$np-loc-f	glg	Hungría	np$np-loc-f$np-loc-f-sg
 	cat	Houston	np$np-ant-m-sg$np-ant	glg	Houston	np$np-ant$np-ant-m-sg
-	cat	Hugo	np$np-ant$np-ant-m-sg$	glg	Hugo	np$np-ant$np-ant-m-sg
+	cat	Hugo	np$np-ant-m-sg$np-ant$	glg	Hugo	np$np-ant$np-ant-m-sg
 	cat	Ibarretxe	np$$np-ant	glg	Ibarretxe	np-cog-mf-sp$np
 	cat	Iberdrola	np-al$np-al-sg$np-al-f-sg	glg	Iberdrola	np$np-al-f$np-al-f-sg
 	cat	Iemen	np$np-loc$np-loc-m	glg	Iemen	np$np-loc-m$np-loc-m-sg
-	cat	Ignasi	np-ant$np$np-ant-m-sg$	glg	Ignasi	np$np-ant-m-sg
+	cat	Ignasi	np-ant$np-ant-m-sg$np$	glg	Ignasi	np$np-ant-m-sg
 	cat	Illinois	np$np-loc	glg	Illinois	np-loc-f$np-loc-f-sg
 	cat	Indiana	np$np-ant-f-sg$np-ant	glg	Indiana	np-ant$np-ant-f-sg
 	cat	Indonèsia	np$np-loc$np-loc-f	glg	Indonesia	np-loc-f$np-loc-f-sg
 	cat	Iran	np$np-loc$np-loc-m	glg	Irán	np-loc-m$np-loc-m-sg
 	cat	Iraq	np$np-loc$np-loc-m	glg	Irak	np-loc-m$np-loc-m-sg
 	cat	Iraq	np$np-loc$np-loc-m	glg	Iraq	np-loc-m-sg$np$np-loc-m
-	cat	Irene	np$np-ant$np-ant-f-sg	glg	Irene	np$np-ant$np-ant-f-sg
-	cat	Irlanda	np$np-loc$np-loc-f	glg	Irlanda	np$np-loc-f$np-loc-f-sg
+	cat	Irene	np$np-ant-f-sg$np-ant	glg	Irene	np$np-ant$np-ant-f-sg
+	cat	Irlanda	np-loc$np-loc-f	glg	Irlanda	np$np-loc-f$np-loc-f-sg
 	cat	Isabel	np$np-ant-f-sg$np-ant	glg	Isabel	np$np-ant$np-ant-f-sg
 	cat	Islamabad	np$np-loc$np-loc-m	glg	Islamabad	np$np-loc-m$np-loc-m-sg
 	cat	Islàndia	np$np-loc$np-loc-f	glg	Islandia	np$np-loc-f$np-loc-f-sg
@@ -10573,14 +10573,14 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Jamaica	np$np-loc$np-loc-f	glg	Xamaica	np$np-loc-f$np-loc-f-sg
 	cat	James	np$np-ant-m-sg$$np-ant	glg	James	np$np-ant$np-ant-m-sg
 	cat	Jane	np$np-ant-f-sg$np-ant	glg	Jane	np$np-ant$np-ant-f-sg
-	cat	Jan	np$np-ant$np-ant-m-sg$	glg	Jan	np$np-ant$np-ant-m-sg
+	cat	Jan	np$np-ant-m-sg$np-ant$	glg	Jan	np$np-ant$np-ant-m-sg
 	cat	Japó	np$np-loc$np-loc-m	glg	Xapón	np$np-loc-m$np-loc-m-sg
-	cat	Javier	np$np-ant$np-ant-m-sg$	glg	Javier	np$np-ant$np-ant-m-sg
+	cat	Javier	np$np-ant-m-sg$np-ant$	glg	Javier	np$np-ant$np-ant-m-sg
 	cat	Javi	np$np-ant-m-sg$np-ant	glg	Javi	np$np-ant-m-sg
 	cat	Jesus	np$np-ant-m-sg$np-ant	glg	Jesús	np$np-ant-m-sg$np-ant
 	cat	Jesús	np$np-ant-m-sg$np-ant$	glg	Jesús	np$np-ant-m-sg$np-ant
 	cat	Jiménez	np$$np-ant$np-ant-mf	glg	Jiménez	np-cog-mf-sp$np
-	cat	Joan	np-ant$np$np-ant-m-sg$	glg	Joan	np$np-ant$np-ant-m-sg
+	cat	Joan	np-ant-m-sg$np-ant$np$	glg	Joan	np$np-ant$np-ant-m-sg
 	cat	Joaquim	np$np-ant$np-ant-m-sg$	glg	Joaquim	np$np-ant-m-sg
 	cat	Joel	np$np-ant-m-sg$np-ant$	glg	Joel	np-ant$np$np-ant-m-sg
 	cat	Joe	np$np-ant-m-sg$$np-ant	glg	Joe	np$np-ant$np-ant-m-sg
@@ -10593,10 +10593,10 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Jordània	np$np-loc$np-loc-f	glg	Xordania	np$np-loc-f$np-loc-f-sg
 	cat	Jordi	np$np-ant$np-ant-m-sg$	glg	Jordi	np$np-ant$np-ant-m-sg
 	cat	Jorge	np$np-ant$np-ant-m-sg$	glg	Jorge	np$np-ant$np-ant-m-sg
-	cat	José	np-ant$np$np-ant-m-sg$	glg	José	np$np-ant$np-ant-m-sg
+	cat	José	np-ant$np-ant-m-sg$np$	glg	José	np$np-ant$np-ant-m-sg
 	cat	Joseph	np$np-ant-m-sg$$np-ant	glg	Joseph	np$np-ant$np-ant-m-sg
-	cat	Josep	np$np-ant$np-ant-m-sg$	glg	Josep	np$np-ant-m-sg
-	cat	Juan	np-ant$np$np-ant-m-sg$	glg	Juan	np$np-ant$np-ant-m-sg
+	cat	Josep	np-ant-m-sg$np$np-ant$	glg	Josep	np$np-ant-m-sg
+	cat	Juan	np-ant$np-ant-m-sg$np$	glg	Juan	np$np-ant$np-ant-m-sg
 	cat	Juli	np$np-ant-m-sg$np-ant	glg	Juli	np$np-ant-m-sg
 	cat	Júpiter	np$np-loc$np-loc-m	glg	Xúpiter	np-ant$np-ant-m-sg
 	cat	Kabul	np$np-loc$np-loc-m	glg	Cabul	np$np-loc-m$np-loc-m-sg
@@ -10628,7 +10628,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Llatinoamèrica	np$np-loc$np-loc-f	glg	Latinoamérica	np$np-loc-f$np-loc-f-sg
 	cat	Lleida	np$np-loc$np-loc-f	glg	Lérida	np-ant$np-ant-f-sg
 	cat	Lleida	np$np-loc$np-loc-f	glg	Lleida	np$np-loc-f$np-loc-f-sg
-	cat	Lluís	np$np-ant$np-ant-m-sg$	glg	Lluís	np$np-ant-m-sg
+	cat	Lluís	np-ant-m-sg$np$np-ant$	glg	Lluís	np$np-ant-m-sg
 	cat	Lois	np$np-ant-m-sg$np-ant	glg	Lois	np$np-ant-m-sg
 	cat	Londres	np-loc$np-loc-m	glg	Londres	np$np-loc-m$np-loc-m-sg
 	cat	López	np$$np-ant-mf$np-ant	glg	López	np-cog-mf-sp$np
@@ -10659,18 +10659,18 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Manolo	np$np-ant-m-sg$np-ant	glg	Manolo	np$np-ant-m-sg
 	cat	Manuel	np-ant$np-ant-m-sg$	glg	Manuel	np$np-ant$np-ant-m-sg
 	cat	Maragall	np$np-ant$$np-ant-mf	glg	Maragall	np-cog-mf-sp$np
-	cat	Marc	np$np-ant$np-ant-m-sg$	glg	Marc	np$np-ant$np-ant-m-sg
+	cat	Marc	np$np-ant-m-sg$np-ant$	glg	Marc	np$np-ant$np-ant-m-sg
 	cat	Margaret	np$np-ant-f-sg$np-ant	glg	Margaret	np$np-ant$np-ant-f-sg
-	cat	María	np$np-ant$np-ant-f-sg	glg	María	np$np-ant-f-sg$np-ant
+	cat	María	np$np-ant-f-sg$np-ant	glg	María	np$np-ant-f-sg$np-ant
 	cat	Mario	np$np-ant-m-sg$np-ant$	glg	Mario	np$np-ant$np-ant-m-sg
 	cat	Mark	np$np-ant-m-sg$np-ant$	glg	Mark	np$np-ant$np-ant-m-sg
-	cat	Mar	np-ant$np-ant-f-sg$np	glg	Mar	np$np-ant-f-sg
+	cat	Mar	np-ant$np-ant-f-sg	glg	Mar	np$np-ant-f-sg
 	cat	Marroc	np-loc$np-loc-m	glg	Marrocos	np$np-loc-m$np-loc-m-sg
 	cat	Marsella	np-loc$np-loc-f	glg	Marsella	np$np-loc-f$np-loc-f-sg
 	cat	Marta	np$np-ant$np-ant-f-sg$	glg	Marta	np$np-ant-f-sg
 	cat	Martin	np$$np-ant-m-sg$np-ant	glg	Martin	np$np-ant$np-ant-m-sg
 	cat	Martín	np$np-ant-m-sg$np-ant$	glg	Martín	np$np-ant$np-ant-m-sg
-	cat	Martí	np-ant$np-ant-m-sg$np$	glg	Martí	np$np-ant-m-sg
+	cat	Martí	np-ant-m-sg$np-ant$np$	glg	Martí	np$np-ant-m-sg
 	cat	Mart	np-al$np	glg	Marte	np$np-loc-m$np-loc-m-sg
 	cat	Marx	np$np-ant$$np-ant-mf	glg	Marx	np-cog-mf-sp$np
 	cat	Maryland	np$np-loc	glg	Maryland	np-loc-f$np-loc-f-sg
@@ -10692,14 +10692,14 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Michigan	np$np-loc	glg	Michigan	np-loc-f$np-loc-f-sg
 	cat	Mickey	np$np-ant-m-sg$np-ant	glg	Mickey	np$np-ant-m-sg
 	cat	Micronèsia	np$np-loc$np-loc-f	glg	Micronesia	np-loc-f$np-loc-f-sg
-	cat	Microsoft	np$np-al$np-al-m-sg	glg	Microsoft	np$np-al-m$np-al-m-sg
-	cat	Miguel	np$np-ant$np-ant-m-sg$	glg	Miguel	np$np-ant$np-ant-m-sg
+	cat	Microsoft	np-al-m-sg$np$np-al	glg	Microsoft	np$np-al-m$np-al-m-sg
+	cat	Miguel	np-ant-m-sg$np$np-ant$	glg	Miguel	np$np-ant$np-ant-m-sg
 	cat	Mike	np-ant-m-sg$np$np-ant	glg	Mike	np$np-ant$np-ant-m-sg
 	cat	Mill	n-m-pl	glg	Mills	np-cog-mf-sp$np
 	cat	Milosevic	np$np-ant$$np-ant-mf	glg	Milosevic	np$np-cog-mf-sp
 	cat	Minneapolis	np$np-loc	glg	Minneapolis	np-loc-f$np-loc-f-sg
 	cat	Minnesota	np$np-loc	glg	Minnesota	np-loc-f$np-loc-f-sg
-	cat	Miquel	np$np-ant$np-ant-m-sg$	glg	Miquel	np$np-ant-m-sg
+	cat	Miquel	np$np-ant-m-sg$np-ant$	glg	Miquel	np$np-ant-m-sg
 	cat	Mireia	np$np-ant-f-sg$np-ant	glg	Mireia	np$np-ant-f-sg
 	cat	Mississipí	np$np-loc$np-loc-m	glg	Mississippi	np-al-m-sg$np-al-m
 	cat	Missouri	np$np-loc$np-loc-m	glg	Missouri	np-loc-m$np-loc-m-sg
@@ -10729,7 +10729,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	New Hampshire	np-loc	glg	Nova Hampshire	np-loc-f$np-loc-f-sg
 	cat	Niça	np-loc	glg	Niza	np-ant$np-ant-f-sg
 	cat	Nicaragua	np$np-loc$np-loc-f	glg	Nicaragua	np$np-loc-f$np-loc-f-sg
-	cat	Nicolas	np$np-ant-m-sg$np-ant	glg	Nicolas	np$np-ant$np-ant-m-sg
+	cat	Nicolas	np-ant-m-sg$np$np-ant	glg	Nicolas	np$np-ant$np-ant-m-sg
 	cat	Nicolau	np$np-ant-m-sg$np-ant$	glg	Nicolau	np$np-ant-m-sg
 	cat	Nicole	np$np-ant-f-sg$np-ant	glg	Nicole	np-ant$np$np-ant-f-sg
 	cat	Nigèria	np$np-loc$np-loc-f	glg	Nixeria	np$np-loc-f$np-loc-f-sg
@@ -10741,7 +10741,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Noruega	np$np-loc$np-loc-f	glg	Noruega	np$np-loc-f$np-loc-f-sg
 	cat	Nova Caledònia	np$np-loc$np-loc-f	glg	Nova Caledonia	np-loc-f$np-loc-f-sg
 	cat	Nova Orleans	np$np-loc$np-loc-f	glg	Nova Orleáns	np-loc-f-sg$np-loc-f
-	cat	Nova York	np-loc$np-loc-f	glg	Nova York	np$np-loc-f$np-loc-f-sg
+	cat	Nova York	np$np-loc$np-loc-f	glg	Nova York	np$np-loc-f$np-loc-f-sg
 	cat	Nova Zelanda	np$np-loc$np-loc-f	glg	Nova Zelandia	np$np-loc-f$np-loc-f-sg
 	cat	Núñez	np$$np-ant$np-ant-mf	glg	Núñez	np-cog-mf-sp$np
 	cat	Obama	np-ant$np-ant-mf	glg	Obama	np-cog-mf-sp
@@ -10752,7 +10752,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Oliver	np$$np-ant-m-sg$np-ant	glg	Oliver	np$np-ant$np-ant-m-sg
 	cat	Oman	np$np-loc$np-loc-m	glg	Omán	np-loc-m$np-loc-m-sg
 	cat	Oregon	np$np-loc$np-loc-m	glg	Oregón	np-loc-m$np-loc-m-sg
-	cat	Orient Mitjà	np$np-loc$np-loc-m	glg	Oriente Medio	np-loc-m$np-loc-m-sg
+	cat	Orient Mitjà	np-loc$np-loc-m	glg	Oriente Medio	np-loc-m$np-loc-m-sg
 	cat	Oriol	np$np-ant$np-ant-m-sg$	glg	Oriol	np$np-ant-m-sg
 	cat	Orozco	np$$np-ant$np-ant-mf	glg	Orozco	np-cog-mf-sp$np
 	cat	Oslo	np$np-loc$np-loc-m	glg	Oslo	np$np-loc-m$np-loc-m-sg
@@ -10765,7 +10765,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Pamplona	np$np-loc$$np-loc-f	glg	Pamplona	np-loc-f$np-loc-f-sg
 	cat	Panamà	np$np-loc$np-loc-m	glg	Panamá	np-loc-m$np-loc-m-sg
 	cat	Panjab	np$np-loc$np-loc-m	glg	Punjab	np-loc-m$np-loc-m-sg
-	cat	Papua Nova Guinea	np-loc$np-loc-f	glg	Papúa Nova Guinea	np-loc-f$np-loc-f-sg
+	cat	Papua Nova Guinea	np$np-loc$np-loc-f	glg	Papúa Nova Guinea	np-loc-f$np-loc-f-sg
 	cat	Paraguai	np$np-loc$np-loc-m	glg	Paraguai	np$np-loc-m$np-loc-m-sg
 	cat	París	np$np-loc$$np-loc-m	glg	París	np$np-ant$np-ant-m-sg
 	cat	Parker	np-ant$np-ant-mf	glg	Parker	np-ant$np$np-ant-m-sg
@@ -10777,7 +10777,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Pequín	np$np-loc$np-loc-m	glg	Beijing	np-loc-m$np-loc-m-sg
 	cat	Pequín	np$np-loc$np-loc-m	glg	Beixing	np-loc-m$np-loc-m-sg
 	cat	Pequín	np$np-loc$np-loc-m	glg	Pequín	np$np-loc-m$np-loc-m-sg
-	cat	Pere	np$np-ant$np-ant-m-sg$	glg	Pere	np$np-ant-m-sg
+	cat	Pere	np$np-ant-m-sg$np-ant$	glg	Pere	np$np-ant-m-sg
 	cat	Pérez	np$$np-ant-mf$np-ant	glg	Pérez	np-cog-mf-sp$np
 	cat	Pèrsia	np$np-loc$np-loc-f	glg	Persia	np$np-loc-f$np-loc-f-sg
 	cat	Perú	np$np-loc$np-loc-m	glg	Perú	np$np-loc-m$np-loc-m-sg
@@ -10790,9 +10790,9 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Portugal	np-loc$np-loc-m	glg	Portugal	np$np-loc-m$np-loc-m-sg
 	cat	Potter	np$$np-ant$np-ant-mf	glg	Potter	np-cog-mf-sp$np
 	cat	Praga	np$np-loc$np-loc-f	glg	Praga	np$np-loc-f$np-loc-f-sg
-	cat	Puerto Rico	np$np-loc$np-loc-m	glg	Porto Rico	np-loc-m$np-loc-m-sg
-	cat	Puerto Rico	np$np-loc$np-loc-m	glg	Puerto Rico	np-loc-m$np-loc-m-sg
-	cat	Pujol	np$$np-ant$np-ant-mf	glg	Pujol	np-cog-mf-sp$np
+	cat	Puerto Rico	np-loc$np$np-loc-m	glg	Porto Rico	np-loc-m$np-loc-m-sg
+	cat	Puerto Rico	np-loc$np$np-loc-m	glg	Puerto Rico	np-loc-m$np-loc-m-sg
+	cat	Pujol	np-ant$np-ant-mf	glg	Pujol	np-cog-mf-sp$np
 	cat	Putin	np$np-ant$	glg	Putin	np-cog-mf-sp$np
 	cat	Qatar	np$np-loc$np-loc-m	glg	Qatar	np$np-loc-m$np-loc-m-sg
 	cat	Rabat	np-loc$np-loc-m	glg	Rabat	np$np-loc-m$np-loc-m-sg
@@ -10808,9 +10808,9 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Regne Unit	np$np-loc$np-loc-m	glg	Reino Unido	np-loc-m-sg$np$np-loc-m
 	cat	Repsol	np-al$np-al-sg	glg	Repsol	np$np-al-m$np-al-m-sg
 	cat	República Centreafricana	np$np-loc$np-loc-f	glg	República Centroafricana	np-loc-f$np-loc-f-sg
-	cat	República de Sud-àfrica	np-loc$np	glg	Sudáfrica	np-loc-f-sg$np$np-loc-f
-	cat	República de Sud-àfrica	np-loc$np	glg	Suráfrica	np-loc-f-sg$np-loc-f
-	cat	República Txeca	np$np-loc$np-loc-f	glg	República Checa	np$np-loc-f$np-loc-f-sg
+	cat	República de Sud-àfrica	np-loc	glg	Sudáfrica	np-loc-f-sg$np$np-loc-f
+	cat	República de Sud-àfrica	np-loc	glg	Suráfrica	np-loc-f-sg$np-loc-f
+	cat	República Txeca	np-loc$np$np-loc-f	glg	República Checa	np$np-loc-f$np-loc-f-sg
 	cat	Rhodèsia	np$np-loc$np-loc-f	glg	Rodesia	np-loc-f$np-loc-f-sg
 	cat	Richard	np-ant$np-ant-m-sg$$np	glg	Richard	np$np-ant$np-ant-m-sg
 	cat	Richardson	np-ant$np-ant-mf	glg	Richardson	np-cog-mf-sp$np
@@ -10826,7 +10826,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Rosa	np$np-ant$np-ant-f-sg$	glg	Rosa	np-ant$np$np-ant-f-sg
 	cat	Rubén	np$np-ant-m-sg$np-ant$	glg	Rubén	np$np-ant-m-sg
 	cat	Rudolf	np-ant-m-sg$np$$np-ant	glg	Rudolf	np$np-ant-m-sg
-	cat	Ruiz	np$$np-ant-mf$np-ant	glg	Ruiz	np-cog-mf-sp$np
+	cat	Ruiz	np-ant$np-ant-mf	glg	Ruiz	np-cog-mf-sp$np
 	cat	Rússia	np$np-loc$np-loc-f	glg	Rusia	np$np-loc-f$np-loc-f-sg
 	cat	Rwanda	np$np-loc$np-loc-f	glg	Ruanda	np$np-loc-f$np-loc-f-sg
 	cat	Sabadell	np$np-loc$np-loc-m$	glg	Sabadell	np$np-loc-m$np-loc-m-sg
@@ -10838,8 +10838,8 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Sandra	np$np-ant-f-sg$np-ant	glg	Sandra	np$np-ant$np-ant-f-sg
 	cat	San Marino	np$np-loc$np-loc-m	glg	San Marino	np-loc-m-sg$np-loc-m
 	cat	Santander	np$np-loc$$np-loc-f	glg	Santander	np$np-loc-m$np-loc-m-sg
-	cat	Santiago de Compostel·la	np$np-loc	glg	Santiago de Compostela	np$np-loc-f$np-loc-f-sg
-	cat	Santiago	np$$np-loc	glg	Santiago	np$np-ant$np-ant-m-sg
+	cat	Santiago de Compostel·la	np-loc	glg	Santiago de Compostela	np$np-loc-f$np-loc-f-sg
+	cat	Santiago	np-loc	glg	Santiago	np$np-ant$np-ant-m-sg
 	cat	Sant Sebastià	np$np-loc	glg	San Sebastián	np-loc-m$np$np-loc-m-sg
 	cat	Sanz	np$$np-ant$np-ant-mf	glg	Sanz	np-cog-mf-sp$np
 	cat	Sara	np$np-ant$np-ant-f-sg	glg	Sara	np$np-ant$np-ant-f-sg
@@ -10870,7 +10870,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Suárez	np$$np-ant$np-ant-mf	glg	Suárez	np-cog-mf-sp$np
 	cat	Sud-àfrica	np$np-loc$np-loc-f	glg	Sudáfrica	np-loc-f-sg$np$np-loc-f
 	cat	Sud-àfrica	np$np-loc$np-loc-f	glg	Suráfrica	np-loc-f-sg$np-loc-f
-	cat	Sudan	np$np-loc$np-loc-m	glg	Sudán	np$np-loc-m$np-loc-m-sg
+	cat	Sudan	np-loc$np-loc-m	glg	Sudán	np$np-loc-m$np-loc-m-sg
 	cat	Suècia	np$np-loc$np-loc-f	glg	Suecia	np$np-loc-f$np-loc-f-sg
 	cat	Suïssa	np$np-loc$np-loc-f	glg	Suíza	np$np-loc-f$np-loc-f-sg
 	cat	Surinam	np$np-loc$np-loc-m	glg	Suriname	np-loc-m$np-loc-m-sg
@@ -10893,7 +10893,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Tom	np$np-ant-m-sg$np-ant	glg	Tom	np$np-ant$np-ant-m-sg
 	cat	Tonga	np$np-loc$np-loc-f	glg	Tonga	np-loc-f$np-loc-f-sg
 	cat	Tòquio	np$np-loc$np-loc-m	glg	Tokio	np$np-loc-m$np-loc-m-sg
-	cat	Torres	$np-ant-mf$np$np-ant	glg	Torres	np-cog-mf-sp
+	cat	Torres	np$$np-ant-mf$np-ant	glg	Torres	np-cog-mf-sp
 	cat	Trípoli	np$np-loc$np-loc-f	glg	Trípoli	np$np-loc-f$np-loc-f-sg
 	cat	Tunísia	np$np-loc$np-loc-f	glg	Tunisia	np$np-loc-f$np-loc-f-sg
 	cat	Tunis	np$np-loc$np-loc-m	glg	Tunes	np$np-loc-f$np-loc-f-sg
@@ -10918,11 +10918,11 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Vietnam	np$np-loc$np-loc-m	glg	Vietnam	np$np-loc-m$np-loc-m-sg
 	cat	Vigo	np$np-loc$$np-loc-f	glg	Vigo	np$np-loc-m$np-loc-m-sg
 	cat	Viquipèdia	np$np-al$np-al-f-sg	glg	Wikipedia	np-al-f-sg$np-al-f
-	cat	Wall Street	np$np-al	glg	Wall Street	np$np-loc-m$np-loc-m-sg
+	cat	Wall Street	np-al	glg	Wall Street	np$np-loc-m$np-loc-m-sg
 	cat	Wally	np-ant-m-sg$np$np-ant	glg	Wally	np$np-ant-m-sg
 	cat	Walter	np$np-ant-m-sg$np-ant	glg	Walter	np$np-ant$np-ant-m-sg
 	cat	Warhol	np-ant	glg	Warhol	np-cog-mf-sp
-	cat	Washington	np$np-loc$$np-loc-m	glg	Washington	np$np-ant$np-ant-m-sg
+	cat	Washington	np-loc$np-loc-m	glg	Washington	np$np-ant$np-ant-m-sg
 	cat	Wilde	np$$np-ant	glg	Wilde	np-cog-mf-sp
 	cat	William	np$np-ant-m-sg$np-ant$	glg	William	np$np-ant$np-ant-m-sg
 	cat	Wilson	np$np-ant-m-sg$$np-ant	glg	Wilson	np$np-ant$np-ant-m-sg
@@ -10962,7 +10962,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Algesires	np$np-loc	glg	Alxeciras	np$np-loc-f$np-loc-f-sg
 	cat	Alitalia	np$np-al$np-al-f-sg	glg	Alitalia	np-al-f$np-al-f-sg
 	cat	Almeria	np-loc$np	glg	Almería	np$np-loc-f$np-loc-f-sg
-	cat	Alps	np$np-loc$np-loc-m-pl	glg	Alpes	np-loc-m-pl$np
+	cat	Alps	np-loc$np-loc-m-pl	glg	Alpes	np-loc-m-pl$np
 	cat	Amaya	np$np-ant-f-sg$np-ant$	glg	Amaya	np-ant$np-ant-f-sg
 	cat	Anatòlia	np$np-loc	glg	Anatolia	np-loc-f$np-loc-f-sg
 	cat	Andes	np-loc$np	glg	Andes	np-ant$np-ant-m-sg
@@ -11009,15 +11009,15 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Caledònia	np-loc	glg	Caledonia	np-ant$np-ant-f-sg
 	cat	Cambridge	np-loc$np	glg	Cambridge	np$np-loc-m$np-loc-m-sg
 	cat	Campània	np$np-loc	glg	Campania	np-loc-f$np-loc-f-sg
-	cat	Camp Nou	np$np-loc	glg	Camp Nou	np-al-m$np-al-m-sg
+	cat	Camp Nou	np-loc	glg	Camp Nou	np-al-m$np-al-m-sg
 	cat	Canberra	np$np-loc$np-loc-f	glg	Camberra	np-loc-f$np-loc-f-sg
 	cat	Candelaria	np$np-ant-f-sg$np-ant	glg	Candelaria	np-ant$np-ant-f-sg
 	cat	Carina	np-ant-f-sg$$np$np-ant	glg	Carina	np-ant$np-ant-f-sg
 	cat	Carlemany	np$np-ant$np-ant-m-sg	glg	Carlomagno	np-ant$np-ant-m-sg
 	cat	Cartagena	np$np-loc$$np-loc-f	glg	Cartaxena	np$np-loc-f$np-loc-f-sg
-	cat	Castella i Lleó	np$np-loc$np-loc-f	glg	Castela e León	np$np-loc-f$np-loc-f-sg
-	cat	Castella-la Manxa	np-loc	glg	Castela-A Mancha	np-loc-f$np-loc-f-sg
-	cat	Castella	np$np-loc$$np-loc-f	glg	Castela	np$np-loc-f$np-loc-f-sg
+	cat	Castella i Lleó	np-loc$np$np-loc-f	glg	Castela e León	np$np-loc-f$np-loc-f-sg
+	cat	Castella-la Manxa	np$np-loc	glg	Castela-A Mancha	np-loc-f$np-loc-f-sg
+	cat	Castella	np-loc$np-loc-f	glg	Castela	np$np-loc-f$np-loc-f-sg
 	cat	Caucas	np$np-loc	glg	Cáucaso	np-loc-m$np-loc-m-sg
 	cat	César	np-al	glg	César	np$np-ant$np-ant-m-sg
 	cat	Che	np-ant-m-sg$np$np-ant	glg	Che	np-ant$np-ant-m-sg
@@ -11094,10 +11094,10 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Kirguizistan	np$np-loc$np-loc-m	glg	Kirguizistán	np$np-loc-m$np-loc-m-sg
 	cat	Kyoto	np$np-loc	glg	Quioto	np-loc-m$np-loc-m-sg
 	cat	Lanzarote	np$np-loc	glg	Lanzarote	np$np-ant$np-ant-m-sg
-	cat	La Rioja	np$np-loc$np-loc-f	glg	A Rioxa	np$np-loc-f$np-loc-f-sg
-	cat	Las Palmas de Gran Canaria	np$np-loc$np-loc-f	glg	As Palmas de Gran Canaria	np-loc-f-pl
-	cat	Leonardo da Vinci	np-ant-m-sg$np$np-ant	glg	Leonardo da Vinci	np-ant$np-ant-m-sg
-	cat	Leonardo	np$np-ant$np-ant-m-sg$	glg	Leonardo	np$np-ant$np-ant-m-sg
+	cat	La Rioja	np-loc$np-loc-f	glg	A Rioxa	np$np-loc-f$np-loc-f-sg
+	cat	Las Palmas de Gran Canaria	np-loc$np-loc-f	glg	As Palmas de Gran Canaria	np-loc-f-pl
+	cat	Leonardo da Vinci	np-ant$np-ant-m-sg	glg	Leonardo da Vinci	np-ant$np-ant-m-sg
+	cat	Leonardo	np$np-ant-m-sg$np-ant$	glg	Leonardo	np$np-ant$np-ant-m-sg
 	cat	Lepe	np$np-ant	glg	Lepe	np-loc-m$np-loc-m-sg
 	cat	Libèria	np-loc$np-loc-f	glg	Liberia	np-ant$np-ant-f-sg
 	cat	Ligúria	np$np-loc	glg	Liguria	np-loc-f$np-loc-f-sg
@@ -11163,7 +11163,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Pèricles	np$np-ant-m-sg$np-ant	glg	Pericles	np-ant$np-ant-m-sg
 	cat	Perpinyà	np$np-loc$np-loc-m	glg	Perpiñán	np-loc-m$np-loc-m-sg
 	cat	Piemont	np$np-loc	glg	Piemonte	np-loc-m$np-loc-m-sg
-	cat	Pink Floyd	np$np-ant	glg	Pink Floyd	np-al-m$np-al-m-sg
+	cat	Pink Floyd	np-ant	glg	Pink Floyd	np-al-m$np-al-m-sg
 	cat	Prince	np-al	glg	Prince	np-ant$np-ant-m-sg
 	cat	Provença	np$np-loc$np-loc-f	glg	Provenza	np-loc-f$np-loc-f-sg
 	cat	Ptolomeu	np-ant-m-sg$np$np-ant	glg	Ptolomeo	np-ant$np-ant-m-sg
@@ -11204,7 +11204,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Teodora	np$np-ant-f-sg$$np-ant	glg	Teodora	np-ant$np-ant-f-sg
 	cat	Teruel	np-ant$$np-ant-mf	glg	Teruel	np-loc-m$np-loc-m-sg
 	cat	Tessalònica	np-loc	glg	Tesalónica	np-loc-f$np-loc-f-sg
-	cat	The Guardian	np$np-al$np-al-m-sg	glg	The Guardian	np-al-m$np-al-m-sg
+	cat	The Guardian	np-al	glg	The Guardian	np-al-m$np-al-m-sg
 	cat	Tibet	np$np-loc$np-loc-m	glg	Tíbet	np-loc-m$np-loc-m-sg
 	cat	Tito	np$np-ant$$np-ant-m-sg	glg	Tito	np-ant$np-ant-m-sg
 	cat	Tiziano	np-ant-m-sg$np$np-ant	glg	Tiziano	np$np-ant$np-ant-m-sg
@@ -11217,7 +11217,7 @@ RL	cat	teclista	n-mf$n	glg	dactilógrafo	n-f
 	cat	Troia	np$np-loc	glg	Troia	np$np-loc-f$np-loc-f-sg
 	cat	Tuvalu	np$np-loc	glg	Tuvalu	np-loc-m$np-loc-m-sg
 	cat	Ulster	np$np-loc	glg	Ulster	np$np-loc-m$np-loc-m-sg
-	cat	Unión Fenosa	np$np-al$np-al-f-sg	glg	Unión Fenosa	np-al-f$np-al-f-sg
+	cat	Unión Fenosa	np-al	glg	Unión Fenosa	np-al-f$np-al-f-sg
 	cat	Valladolid	np$np-loc$np-loc-f	glg	Valladolid	np$np-loc-m$np-loc-m-sg
 	cat	Vanuatu	np$np-loc	glg	Vanuatu	np-loc-m$np-loc-m-sg
 	cat	Varela	np$$np-ant$np-ant-mf	glg	Varela	np-cog-mf-sp$np
@@ -13069,7 +13069,7 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	jurisdiccional	adj$adj-mf	glg	xurisdiccional	adj
 	cat	justificable	adj$$adj-mf	glg	xustificábel	adj$adj-mf
 	cat	justificable	adj$$adj-mf	glg	xustificable	adj$adj-mf
-	cat	just	adj$$adj-sup	glg	xusto	adj
+	cat	just	adj$adj-sup	glg	xusto	adj
 	cat	juvenil	adj$adj-mf$	glg	xuvenil	adj$adj-mf
 	cat	kenyà	adj	glg	kenyano	adj$adj-GD
 	cat	kurd	adj$	glg	kurdo	adj
@@ -13135,7 +13135,7 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	lituà	adj$	glg	lituano	adj
 	cat	litúrgic	adj$	glg	litúrxico	adj
 	cat	lleuger	adj$	glg	livián	adj
-	cat	pla	adj$	glg	chairo	adj
+	cat	pla	adj	glg	chairo	adj
 	cat	ple	adj$	glg	cheo	adj
 	cat	plujós	adj$	glg	chuvioso	adj
 	cat	lloable	adj$adj-mf$	glg	loábel	adj
@@ -13530,9 +13530,9 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	petit	adj$$adj-sup	glg	pequecho	adj
 	cat	petit	adj$$adj-sup	glg	pequeno	adj
 	cat	petit	adj$$adj-sup	glg	pequerrecho	adj
-	cat	xic	adj	glg	pequecho	adj
-	cat	xic	adj	glg	pequeno	adj
-	cat	xic	adj	glg	pequerrecho	adj
+	cat	xic	adj$	glg	pequecho	adj
+	cat	xic	adj$	glg	pequeno	adj
+	cat	xic	adj$	glg	pequerrecho	adj
 	cat	xicotet	adj$	glg	pequecho	adj
 	cat	xicotet	adj$	glg	pequeno	adj
 	cat	xicotet	adj$	glg	pequerrecho	adj
@@ -13579,7 +13579,7 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	pirotècnic	adj	glg	pirotécnico	adj
 	cat	piscícola	adj	glg	piscícola	adj
 	cat	plàcid	adj$$adj-sup	glg	plácido	adj
-	cat	pla	adj$	glg	plano	adj
+	cat	pla	adj	glg	plano	adj
 	cat	plàstic	adj$	glg	plástico	adj
 	cat	platejat	adj$	glg	prateado	adj
 	cat	plausible	adj$adj-mf$	glg	plausíbel	adj
@@ -13596,7 +13596,7 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	pobre	adj-f$adj-f-sg	glg	coitado	adj-m
 	cat	pobre	adj-m$adj-m-sg	glg	coitado	adj$adj-f
 	cat	pobre	adj-m$adj-m-sg	glg	coitado	adj-m
-	cat	poc	adj$adj-f-pl$adj-ind-f-pl	glg	pouco	adj
+	cat	poc	adj$adj-mf	glg	pouco	adj
 	cat	poderós	adj	glg	poderoso	adj
 	cat	poètic	adj$	glg	poético	adj
 	cat	polonès	adj$	glg	polaco	adj
@@ -14374,7 +14374,7 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	adaptable	adj$$adj-mf	glg	adaptábel	adj$adj-mf
 	cat	adaptable	adj$$adj-mf	glg	adaptable	adj$adj-mf
 	cat	adequat	adj$	glg	adecuado	adj
-	cat	ad hoc	adj$adj-mf	glg	ad hoc	adj$adj-mf
+	cat	ad hoc	adj	glg	ad hoc	adj$adj-mf
 	cat	adient	adj-mf$adj$	glg	adecuado	adj
 	cat	adient	adj-mf$adj$	glg	axeitado	adj$adj-GD
 	cat	adolescent	adj$adj-mf	glg	adolescente	adj$adj-mf
@@ -14401,7 +14401,7 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	apassionat	adj$	glg	afervoado	adj
 	cat	apassionat	adj$	glg	apaixonado	adj
 	cat	apassionat	adj$	glg	ardente	adj$adj-mf
-	cat	a posteriori	adj$adj-mf	glg	a posteriori	adj$adj-mf
+	cat	a posteriori	adj	glg	a posteriori	adj$adj-mf
 	cat	arriscat	adj$$adj-sup	glg	arriscado	adj
 	cat	asimètric	adj$	glg	asimétrico	adj
 	cat	aspirant	adj$adj-mf	glg	aspirante	adj-mf$adj
@@ -14476,12 +14476,12 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	cultivable	adj$adj-mf$	glg	arable	adj$adj-mf
 	cat	daurat	adj$	glg	de ouro	adj$adj-mf
 	cat	daurat	adj$	glg	dourado	adj
-	cat	de baixa qualitat	adj$adj-mf-sp	glg	de baixa calidade	adj$adj-mf
+	cat	de baixa qualitat	adj	glg	de baixa calidade	adj$adj-mf
 	cat	decebedor	adj$$adj-GD	glg	decepcionante	adj$adj-mf
 	cat	decreixent	adj-mf$adj$	glg	decrecente	adj$adj-mf
-	cat	de darrere	adj$adj-mf-sp	glg	traseiro	adj
+	cat	de darrere	adj	glg	traseiro	adj
 	cat	defectiu	adj	glg	defectuoso	adj
-	cat	de fusta	adj$adj-mf-sp	glg	de madeira	adj$adj-mf
+	cat	de fusta	adj	glg	de madeira	adj$adj-mf
 	cat	degenerat	adj	glg	dexenerado	adj
 	cat	delerós	adj	glg	afeccionado	adj
 	cat	delerós	adj	glg	aficionado	adj
@@ -14506,7 +14506,7 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	desmuntable	adj$adj-mf$	glg	desmontable	adj$adj-mf
 	cat	desocupat	adj	glg	desempregado	adj
 	cat	despullat	adj$$adj-sup	glg	en coiros	adj$adj-mf
-	cat	de vida	adj$adj-mf-sp	glg	vivente	adj$adj-mf
+	cat	de vida	adj	glg	vivente	adj$adj-mf
 	cat	dietètic	adj$	glg	dietético	adj
 	cat	dilatori	adj	glg	dilatorio	adj
 	cat	diligent	adj$$adj-mf	glg	dilixente	adj$adj-mf
@@ -14746,7 +14746,7 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	pelut	adj$	glg	peludo	adj
 	cat	penetrant	adj-mf$adj$	glg	penetrante	adj$adj-mf
 	cat	pensarós	adj	glg	pensativo	adj
-	cat	per càpita	adj$adj-mf-sp	glg	per capita	adj$adj-mf
+	cat	per càpita	$adj	glg	per capita	adj$adj-mf
 	cat	perfeccionista	adj$adj-mf	glg	perfeccionista	adj$adj-mf
 	cat	permeable	adj$$adj-mf	glg	permeábel	adj$adj-mf
 	cat	permeable	adj$$adj-mf	glg	permeable	adj$adj-mf
@@ -14797,7 +14797,7 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	seminal	adj$adj-mf	glg	seminal	adj$adj-mf
 	cat	senar	adj$adj-mf	glg	estraño	adj
 	cat	senar	adj$adj-mf	glg	impar	adj$adj-mf
-	cat	sense sentit	adj-mf-sp$adj$adj-mf	glg	sen sentido	adj$adj-mf
+	cat	sense sentit	adj	glg	sen sentido	adj$adj-mf
 	cat	separat	adj	glg	separado	adj
 	cat	sèptic	adj$	glg	séptico	adj
 	cat	seqüencial	adj$adj-mf	glg	secuencial	adj$adj-mf
@@ -16160,7 +16160,7 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	judicialment	adv	glg	xudicialmente	adv
 	cat	jurídicament	adv	glg	xuridicamente	adv
 	cat	justament	adv	glg	xustamente	adv
-	cat	just	adv	glg	xusto	adv
+	cat	just	adv$	glg	xusto	adv
 	cat	laboralment	adv	glg	laboralmente	adv
 	cat	lamentablement	adv	glg	lamentabelmente	adv
 	cat	lamentablement	adv	glg	lamentablemente	adv
@@ -16718,9 +16718,9 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	accelerar	vblex	glg	acelerar	vblex
 	cat	accentuar	vblex	glg	acentuar	vblex
 	cat	acceptar	vblex	glg	aceptar	vblex
-	cat	acostar	vblex$vblex-pron	glg	acercar	vblex
-	cat	acostar	vblex$vblex-pron	glg	achegar	vblex
-	cat	acostar	vblex$vblex-pron	glg	aconchegar	vblex
+	cat	acostar	vblex	glg	acercar	vblex
+	cat	acostar	vblex	glg	achegar	vblex
+	cat	acostar	vblex	glg	aconchegar	vblex
 	cat	apropar	vblex$vblex-pron	glg	acercar	vblex
 	cat	apropar	vblex$vblex-pron	glg	achegar	vblex
 	cat	apropar	vblex$vblex-pron	glg	aconchegar	vblex
@@ -16850,7 +16850,7 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	afrancesar	vblex	glg	afrancesar	vblex
 	cat	afrontar	vblex	glg	afrontar	vblex
 	cat	africanitzar	vblex	glg	africanizar	vblex
-	cat	acatxar	vblex$vblex-pron	glg	agachar	vblex
+	cat	acatxar	vblex	glg	agachar	vblex
 	cat	ajupir	vblex$vblex-pron	glg	agachar	vblex
 	cat	agarrar	vblex	glg	agarrar	vblex
 	cat	agarrar	vblex	glg	apreixar	vblex
@@ -17080,8 +17080,8 @@ RL	cat	gran	adj-mf-ND	glg	gran	adj-mf-sg$adj$adj-mf
 	cat	arrestar	vblex	glg	arrestar	vblex
 	cat	arribar	vblex	glg	arribar	vblex
 	cat	arriscar	vblex$vblex-pron	glg	arriscar	vblex
-	cat	acostar	vblex$vblex-pron	glg	acaroar	vblex
-	cat	acostar	vblex$vblex-pron	glg	arrimar	vblex
+	cat	acostar	vblex	glg	acaroar	vblex
+	cat	acostar	vblex	glg	arrimar	vblex
 	cat	llançar	vblex	glg	arrebolar	vblex
 	cat	llançar	vblex	glg	arroxar	vblex
 	cat	llançar	vblex	glg	guindar	vblex

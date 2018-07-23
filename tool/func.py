@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 from heapdict import heapdict
 import random
 import numpy as np, scipy.stats as st
-from .data import lang_codes, rename, remove, variants
+from .data import lang_codes, rename, remove
 from tqdm import tqdm
 
 # CLASSES
@@ -166,7 +166,8 @@ def set_github_user(user, password):
     with open ('./tool/secure.py', 'w', encoding='utf-8') as f:
         f.write('SECRET = {"USER": "'+user+'", "PASSWORD": "'+password+'"}')
 
-def list_files(path='./dictionaries/'):
+def list_files(path='./dictionaries/', dialects = False):
+    #print (path, dialects)
     from tool.data import remove
     with open ('filelist.txt','w', encoding='utf-8') as f:
         for root, dirs, files in os.walk (path):
@@ -175,6 +176,57 @@ def list_files(path='./dictionaries/'):
                     name = '-'.join(l(i) for i in file.split('.')[-2].split('-'))
                     if name not in remove:
                         f.write(os.path.abspath(os.path.join(root, file)).replace("\\","/")+'\n')
+    if dialects:
+        split_dialects()
+
+def split_dialects():
+    with open('filelist.txt','r') as f:
+        file_list = f.readlines()
+    file_list = [i.strip() for i in file_list]
+    #print (len(file_list))
+    file_list2 = []
+    for file in file_list:
+        if not os.path.exists('./dictionaries/'): os.makedirs('./dictionaries/')
+        filename = file.split('.')[-2].split('-')
+        try:
+        #if True:
+            tree = ET.parse(file)
+            result = {}
+            for section in tree.findall('section'):
+                for i in section:
+                    name = []
+                    if not 'vl' in i.attrib and not 'vr' in i.attrib:
+                        name = [filename[0]+'-'+filename[1]]
+                    elif 'vr' in i.attrib and not 'vl' in i.attrib:
+                        name = [filename[0]+'-' + l(filename[1]+'_'+j) for j in i.attrib['vr'].split(' ')]
+                    elif 'vl' in i.attrib and not 'vr' in i.attrib:
+                        name = [l(filename[0]+'_'+j) +'-'+filename[1] for j in i.attrib['vl'].split(' ')]
+                    else:
+                        for j in i.attrib['vl'].split(' '):
+                            for k in i.attrib['vr'].split(' '):
+                                name.append(l(filename[0]+'_'+j)+'-'+l(filename[1]+'_'+k))
+                    for j in name:
+                        if j not in result: result[j] = ET.Element('section')
+                        result[j].append(i)
+
+            if len (result) > 1:
+                for i in result:
+                    nm = i.split('-')
+                    nm = './dictionaries/apertium-{}-{}.{}-{}.dix'.format(filename[0], filename[1], nm[0], nm[1])
+                    tree = ET.Element('dictionary')
+                    tree.append(result[i])
+                    ET.ElementTree(tree).write(nm, encoding='utf-8')
+                    with open(nm, 'r', encoding='utf-8') as f:
+                        xml = f.read()
+                    with open(nm, 'w', encoding='utf-8') as f:
+                        f.write(xml.replace('<e','\n    <e').replace('</section>','\n</section>'))    
+                    file_list2.append(os.path.abspath(nm).replace("\\","/"))
+                print ('-'.join(filename))
+            else:
+                file_list2.append(file)
+        except: pass #print ('Error:\t', file.split('.')[-2])
+        with open('filelist.txt','w', encoding='utf-8') as f:
+            f.write('\n'.join(file_list2))
 
 # PREPROCESSING AND BUILDING
 def all_languages():
@@ -385,7 +437,7 @@ def get_relevant_languages(lang1, lang2):
         for i in sorted(result, key=result.get):
             f.write(str(result[i][0])+'\t'+str(i)+'\t:\t'+' '.join(result[i][1])+'\n')
 
-def load_file(lang1,lang2, n=10000):
+def load_file(lang1,lang2, n=10):
     n = int(n)
     with open ('{}-{}-config'.format(lang1, lang2),'r',encoding='utf-8') as f:
         languages = set([i.split('\t')[1].strip() for i in islice(f.readlines(), 0, n)])

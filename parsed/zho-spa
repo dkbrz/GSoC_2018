@@ -136,7 +136,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	章	n	spa	capítulo	n$n-m$n-m-sg
 	zho	性	n	spa	carácter	n$n-m$n-m-sg
 	zho	家	n	spa	casa	n-f$n$n-f-sg
-	zho	盔	n	spa	casco	n-m$n$n-m-sg
+	zho	盔	n	spa	casco	n$n-m$n-m-sg
 	zho	例	n	spa	caso	n-m$n$n-m-sg
 	zho	案	n	spa	caso	n-m$n$n-m-sg
 	zho	职	n	spa	categoría	n$n-f$n-f-sg
@@ -208,7 +208,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	果	n	spa	duración	n$n-f$n-f-sg
 	zho	日	n	spa	día	n-m$n$n-m-sg
 	zho	型	n	spa	tipo	n-m$n-m-sg$n
-	zho	龄	n	spa	edad	n-f$n$n-f-sg
+	zho	龄	n	spa	edad	n$n-f$n-f-sg
 	zho	版	n	spa	edición	n$n-f$n-f-sg
 	zho	版	n	spa	electrónica	n-f$n$n-f-sg
 	zho	工	n	spa	empresario	n$n-m$n-m-sg
@@ -238,7 +238,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	资	n	spa	financiación	n-f$n-f-sg$n
 	zho	注	n	spa	formulario	n$n-m$n-m-sg
 	zho	句	n	spa	frase	n$n-f$n-f-sg
-	zho	式	n	spa	fruto	n-m-sg
+	zho	式	n	spa	fruto	n$n-m$n-m-sg
 	zho	源	n	spa	fuente	n$n-f$n-f-sg
 	zho	军	n	spa	fuerza	n-f$n$n-f-sg
 	zho	瘘	n	spa	fístula	n$n-f$n-f-sg
@@ -336,9 +336,9 @@ LR	zho	.	sent	spa	.	sent
 	zho	者	n	spa	parte	n-f$n$n-f-sg
 	zho	国	n	spa	país	n-m$n$n-m-sg
 	zho	貌	n	spa	perfil	n-m-sg
-	zho	人	n	spa	persona	n-f$n$n-f-sg
-	zho	者	n	spa	persona	n-f$n$n-f-sg
-	zho	级	n	spa	plano	n-m$n$n-m-sg
+	zho	人	n	spa	persona	n$n-f$n-f-sg
+	zho	者	n	spa	persona	n$n-f$n-f-sg
+	zho	级	n	spa	plano	n$n-m$n-m-sg
 	zho	钚	n	spa	plutonio	n$n-m$n-m-sg
 	zho	场	n	spa	polígono	n-m$n$n-m-sg
 	zho	端	n	spa	portal	n$n-m$n-m-sg
@@ -424,7 +424,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	案	n	spa	texto	n$n-m$n-m-sg
 	zho	鲨	n	spa	tiburón	n$n-m$n-m-sg
 	zho	笔	n	spa	traducción	n$n-f$n-f-sg
-	zho	编	n	spa	título	n-m$n$n-m-sg
+	zho	编	n	spa	título	n$n-m$n-m-sg
 	zho	缺	n	spa	vacante	n$n-f-sg$n-f
 	zho	值	n	spa	valor	n-m$n$n-m-sg
 	zho	情	n	spa	valoración	n-f-sg
@@ -435,7 +435,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	愿	n	spa	visión	n$n-f$n-f-sg
 	zho	害	n	spa	víctima	n$n-f$n-f-sg
 	zho	网	n	spa	web	n-f$n$n-f-sg
-	zho	区	n	spa	zona	n-f$n$n-f-sg
+	zho	区	n	spa	zona	n$n-f$n-f-sg
 	zho	赶	vblex	spa	abandonar	vblex
 	zho	拟	vblex	spa	abarcar	vblex
 	zho	涉	vblex	spa	abarcar	vblex
@@ -1887,8 +1887,8 @@ LR	zho	.	sent	spa	.	sent
 	zho	船只	n	spa	buque	n$n-m$n-m-sg
 	zho	船舶	n	spa	buque	n$n-m$n-m-sg
 	zho	官僚	n	spa	burocracia	n$n-f$n-f-sg
-	zho	确定	n	spa	búsqueda	n-f$n$n-f-sg
-	zho	追查	n	spa	búsqueda	n-f$n$n-f-sg
+	zho	确定	n	spa	búsqueda	n$n-f$n-f-sg
+	zho	追查	n	spa	búsqueda	n$n-f$n-f-sg
 	zho	饮食	n	spa	cafetería	n-f-sg
 	zho	基金	n	spa	caja	n$n-f$n-f-sg
 	zho	日历	n	spa	calendario	n-m$n$n-m-sg
@@ -1980,7 +1980,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	周期	n	spa	ciclo	n$n-m$n-m-sg
 	zho	循环	n	spa	ciclo	n$n-m$n-m-sg
 	zho	旋风	n	spa	ciclón	n$n-m$n-m-sg
-	zho	科学	n	spa	ciencia	n-f$n$n-f-sg
+	zho	科学	n	spa	ciencia	n$n-f$n-f-sg
 	zho	协会	n	spa	científica	n-f-sg
 	zho	科学	n	spa	científico	n-f$n-f-sg
 	zho	科技	n	spa	científico	n-f$n-f-sg
@@ -2583,9 +2583,9 @@ LR	zho	.	sent	spa	.	sent
 	zho	生态	n	spa	ecología	n$n-f$n-f-sg
 	zho	经济	n	spa	economía	n$n-f$n-f-sg
 	zho	生态	n	spa	ecosistema	n$n-m$n-m-sg
-	zho	年龄	n	spa	edad	n-f$n$n-f-sg
-	zho	老人	n	spa	edad	n-f$n$n-f-sg
-	zho	老年	n	spa	edad	n-f$n$n-f-sg
+	zho	年龄	n	spa	edad	n$n-f$n-f-sg
+	zho	老人	n	spa	edad	n$n-f$n-f-sg
+	zho	老年	n	spa	edad	n$n-f$n-f-sg
 	zho	编辑	n	spa	edición	n$n-f$n-f-sg
 	zho	大楼	n	spa	edificio	n-m$n$n-m-sg
 	zho	建筑	n	spa	edificio	n-m$n$n-m-sg
@@ -2872,10 +2872,10 @@ LR	zho	.	sent	spa	.	sent
 	zho	判决	n	spa	fallo	n-m$n$n-m-sg
 	zho	审判	n	spa	fallo	n-m$n$n-m-sg
 	zho	未能	n	spa	falta	n-f-sg
-	zho	亲属	n	spa	familia	n-f$n$n-f-sg
-	zho	家人	n	spa	familia	n-f$n$n-f-sg
-	zho	家属	n	spa	familia	n-f$n$n-f-sg
-	zho	家庭	n	spa	familia	n-f$n$n-f-sg
+	zho	亲属	n	spa	familia	n$n-f$n-f-sg
+	zho	家人	n	spa	familia	n$n-f$n-f-sg
+	zho	家属	n	spa	familia	n$n-f$n-f-sg
+	zho	家庭	n	spa	familia	n$n-f$n-f-sg
 	zho	歧视	n	spa	fanatismo	n$n-m$n-m-sg
 	zho	等级	n	spa	fase	n-f$n$n-f-sg
 	zho	阶段	n	spa	fase	n-f$n$n-f-sg
@@ -3021,10 +3021,10 @@ LR	zho	.	sent	spa	.	sent
 	zho	灭绝	n	spa	genocidio	n$n-m$n-m-sg
 	zho	基因	n	spa	genoma	n$n-m$n-m-sg
 	zho	格局	n	spa	geografía	n$n-f$n-f-sg
-	zho	努力	n	spa	gestión	n-f$n$n-f-sg
-	zho	施政	n	spa	gestión	n-f$n$n-f-sg
-	zho	治理	n	spa	gestión	n-f$n$n-f-sg
-	zho	管理	n	spa	gestión	n-f$n$n-f-sg
+	zho	努力	n	spa	gestión	n$n-f$n-f-sg
+	zho	施政	n	spa	gestión	n$n-f$n-f-sg
+	zho	治理	n	spa	gestión	n$n-f$n-f-sg
+	zho	管理	n	spa	gestión	n$n-f$n-f-sg
 	zho	健身	n	spa	gimnasio	n-m$n$n-m-sg
 	zho	总督	n	spa	gobernador	n$n-m-sg$n-m
 	zho	各国	n	spa	gobierno	n-sg$n-m-sg
@@ -3797,11 +3797,11 @@ LR	zho	.	sent	spa	.	sent
 	zho	发放	n	spa	permiso	n-m-sg
 	zho	迫害	n	spa	persecución	n-f-sg
 	zho	存在	n	spa	persistencia	n-f-sg
-	zho	个人	n	spa	persona	n-f$n$n-f-sg
-	zho	人人	n	spa	persona	n-f$n$n-f-sg
-	zho	人员	n	spa	persona	n-f$n$n-f-sg
-	zho	人和	n	spa	persona	n-f$n$n-f-sg
-	zho	人身	n	spa	persona	n-f$n$n-f-sg
+	zho	个人	n	spa	persona	n$n-f$n-f-sg
+	zho	人人	n	spa	persona	n$n-f$n-f-sg
+	zho	人员	n	spa	persona	n$n-f$n-f-sg
+	zho	人和	n	spa	persona	n$n-f$n-f-sg
+	zho	人身	n	spa	persona	n$n-f$n-f-sg
 	zho	人员	n	spa	personal	n$n-m-sg$n-m
 	zho	职员	n	spa	personal	n$n-m-sg$n-m
 	zho	个性	n	spa	personalidad	n$n-f$n-f-sg
@@ -3841,7 +3841,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	方案	n	spa	plan	n$n-m$n-m-sg
 	zho	计划	n	spa	plan	n$n-m$n-m-sg
 	zho	规划	n	spa	planificación	n$n-f$n-f-sg
-	zho	各级	n	spa	plano	n-m$n$n-m-sg
+	zho	各级	n	spa	plano	n$n-m$n-m-sg
 	zho	办法	n	spa	planteamiento	n$n-m$n-m-sg
 	zho	方针	n	spa	planteamiento	n$n-m$n-m-sg
 	zho	配置	n	spa	plantilla	n-f-sg
@@ -4211,7 +4211,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	镇压	n	spa	represión	n$n-f$n-f-sg
 	zho	偿债	n	spa	reprogramación	n$n-f$n-f-sg
 	zho	名誉	n	spa	reputación	n$n-f$n-f-sg
-	zho	要求	n	spa	requerimiento	n-m$n$n-m-sg
+	zho	要求	n	spa	requerimiento	n$n-m$n-m-sg
 	zho	条件	n	spa	requisito	n$n-m-sg$n-m
 	zho	要求	n	spa	requisito	n$n-m-sg$n-m
 	zho	救援	n	spa	rescate	n$n-m$n-m-sg
@@ -4583,7 +4583,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	条款	n	spa	término	n$n-m$n-m-sg
 	zho	用语	n	spa	término	n$n-m$n-m-sg
 	zho	结束	n	spa	término	n$n-m$n-m-sg
-	zho	标题	n	spa	título	n-m$n$n-m-sg
+	zho	标题	n	spa	título	n$n-m$n-m-sg
 	zho	起始	n	spa	umbral	n-m-sg
 	zho	单位	n	spa	unidad	n-f$n$n-f-sg
 	zho	团结	n	spa	unidad	n-f$n$n-f-sg
@@ -4686,8 +4686,8 @@ LR	zho	.	sent	spa	.	sent
 	zho	关联	n	spa	vínculo	n$n-m$n-m-sg
 	zho	桥梁	n	spa	vínculo	n$n-m$n-m-sg
 	zho	联系	n	spa	vínculo	n$n-m$n-m-sg
-	zho	区域	n	spa	zona	n-f$n$n-f-sg
-	zho	地区	n	spa	zona	n-f$n$n-f-sg
+	zho	区域	n	spa	zona	n$n-f$n-f-sg
+	zho	地区	n	spa	zona	n$n-f$n-f-sg
 	zho	方面	n	spa	ámbito	n$n-m$n-m-sg
 	zho	范围	n	spa	ámbito	n$n-m$n-m-sg
 	zho	领域	n	spa	ámbito	n$n-m$n-m-sg
@@ -6601,7 +6601,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	补助金	n	spa	donación	n$n-f$n-f-sg
 	zho	兴奋剂	n	spa	dopaje	n$n-m$n-m-sg
 	zho	展览会	n	spa	día	n-m$n$n-m-sg
-	zho	年龄组	n	spa	edad	n-f$n$n-f-sg
+	zho	年龄组	n	spa	edad	n$n-f$n-f-sg
 	zho	建筑物	n	spa	edificio	n-m$n$n-m-sg
 	zho	有效性	n	spa	eficacia	n$n-f-sg$n-f
 	zho	有效率	n	spa	eficiencia	n$n-f$n-f-sg
@@ -6885,7 +6885,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	根本原因	n	spa	causa	n-f$n$n-f-sg
 	zho	人口普查	n	spa	censo	n$n-m$n-m-sg
 	zho	研究中心	n	spa	centro	n-m-sg
-	zho	科学技术	n	spa	ciencia	n-f$n$n-f-sg
+	zho	科学技术	n	spa	ciencia	n$n-f$n-f-sg
 	zho	公民权利	n	spa	ciudadano	n$n-m$n-m-sg
 	zho	安全局势	n	spa	clima	n-m$n$n-m-sg
 	zho	联合政府	n	spa	coalición	n$n-f$n-f-sg
@@ -7042,7 +7042,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	法庭审判	n	spa	tribunal	n$n-m$n-m-sg
 	zho	技术援助	n	spa	técnico	n-f$n-f-sg
 	zho	技术援助	n	spa	técnico	n$n-m$n-m-sg
-	zho	个人身份	n	spa	título	n-m$n$n-m-sg
+	zho	个人身份	n	spa	título	n$n-m$n-m-sg
 	zho	民族团结	n	spa	unidad	n-f$n$n-f-sg
 	zho	手工艺品	n	spa	utensilio	n$n-m$n-m-sg
 	zho	价值观念	n	spa	valor	n-m$n$n-m-sg
@@ -7118,7 +7118,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	啊	qst	spa		num$$num-percent
 	zho	哦	qst	spa		num$$num-percent
 	zho	后	adv	spa	después	adv
-	zho	一 只	num	spa	uno	det-ind$det$det-ind-m-sg$det-ind-m
+	zho	一 只	num	spa	uno	det$det-ind$det-ind-m-sg$det-ind-m
 	zho	和	cnjcoo	spa	y	cnjcoo
 	zho	因为	cnjadv	spa	porque	cnjadv
 	zho	又	cnjcoo	spa	y	cnjcoo
@@ -7308,7 +7308,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	爱惜	adj	spa	apreciado	adj$adj-GD-ND
 	zho	安定	adj	spa	estable	adj$adj-mf-ND$adj-mf
 	zho	安抚	adj	spa	calmado	adj-GD-ND$adj
-	zho	安好	adj	spa	sano y salvo	adj-GD-ND$adj
+	zho	安好	adj	spa	sano y salvo	adj-GD-ND
 	zho	安静	adj	spa	tranquilo	adj$adj-GD-ND$adj-GD
 	zho	安宁	adj	spa	pacífico	adj$adj-GD-ND$adj-GD
 	zho	安全	adj	spa	seguro	adj$adj-GD-ND
@@ -7840,7 +7840,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	爱惜	adj	spa	apreciado	adj$adj-GD-ND
 	zho	安定	adj	spa	estable	adj$adj-mf-ND$adj-mf
 	zho	安抚	adj	spa	calmado	adj-GD-ND$adj
-	zho	安好	adj	spa	sano y salvo	adj-GD-ND$adj
+	zho	安好	adj	spa	sano y salvo	adj-GD-ND
 	zho	安静	adj	spa	tranquilo	adj$adj-GD-ND$adj-GD
 	zho	安宁	adj	spa	pacífico	adj$adj-GD-ND$adj-GD
 	zho	安全	adj	spa	seguro	adj$adj-GD-ND
@@ -9168,7 +9168,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	至于	cnjcoo	spa	en cuanto a	cnjcoo
 	zho	八	num	spa	ocho	num$$num-mf-sp
 	zho	捌	num	spa	ocho	num$$num-mf-sp
-	zho	八十	num	spa	ochenta	num$$num-mf$num-mf-sp
+	zho	八十	num	spa	ochenta	num$num-mf-sp$$num-mf
 	zho	百	num	spa	cien	num$num-mf-sp$num-mf$
 	zho	百万	num	spa	millon	num-mf
 	zho	百亿	num	spa	diez millones	num-mf
@@ -9178,7 +9178,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	二十	num	spa	veinte	num$$num-mf$num-mf-sp
 	zho	九	num	spa	nueve	num$$num-mf-sp
 	zho	玖	num	spa	nueve	num$$num-mf-sp
-	zho	九十	num	spa	noventa	num$$num-mf
+	zho	九十	num	spa	noventa	num$$num-mf$num-mf-sp
 	zho	俩	num	spa	dos	num-mf$num$num-mf-sp$
 	zho	两	num	spa	dos	num-mf$num$num-mf-sp$
 	zho	两百	num	spa	doscientos	num$$num-mf
@@ -9186,18 +9186,18 @@ LR	zho	.	sent	spa	.	sent
 	zho	零	num	spa	cero	num$num-mf-sp$num-mf
 	zho	六	num	spa	seis	num$num-mf-sp$
 	zho	陆	num	spa	seis	num$num-mf-sp$
-	zho	六十	num	spa	sesenta	num$$num-mf$num-mf-sp
+	zho	六十	num	spa	sesenta	num$num-mf-sp$$num-mf
 	zho	七	num	spa	siete	num$$num-mf-sp
 	zho	柒	num	spa	siete	num$$num-mf-sp
 	zho	七百万	num	spa	siete millones	num-mf
-	zho	七十	num	spa	setenta	num$$num-mf
+	zho	七十	num	spa	setenta	num$$num-mf$num-mf-sp
 	zho	仟	num	spa	mil	num$num-mf$num-mf-sp
 	zho	千	num	spa	mil	num$num-mf$num-mf-sp
 	zho	千万	num	spa	diez millones	num-mf
 	zho	千亿	num	spa	cien mil millones	num-mf
 	zho	三	num	spa	tres	num$num-mf-sp$
 	zho	三百	num	spa	trescientos	num$$num-mf
-	zho	三十	num	spa	treinta	num$$num-mf
+	zho	三十	num	spa	treinta	num$$num-mf$num-mf-sp
 	zho	十	num	spa	diez	num$num-mf$num-mf-sp$
 	zho	十八	num	spa	dieciocho	num$num-mf-sp$$num-mf
 	zho	十二	num	spa	doce	num$num-mf-pl$$num-mf
@@ -9209,23 +9209,23 @@ LR	zho	.	sent	spa	.	sent
 	zho	十五	num	spa	quince	num$$num-mf$num-mf-sp
 	zho	四	num	spa	cuatro	num$$num-mf-sp
 	zho	肆	num	spa	cuatro	num$$num-mf-sp
-	zho	四十	num	spa	cuarenta	num$$num-mf$num-mf-sp
+	zho	四十	num	spa	cuarenta	num$num-mf-sp$$num-mf
 	zho	万	num	spa	diez mil	num-mf$num-mf-sp
 	zho	五	num	spa	cinco	num$num-mf-sp$
-	zho	五十	num	spa	cincuenta	num$$num-mf
+	zho	五十	num	spa	cincuenta	num$$num-mf-sp$num-mf
 	zho	一	num	spa	uno	num$num-m-sp$num-m
 	zho	壹	num	spa	uno	num$num-m-sp$num-m
 	zho	一万	num	spa	diez mil	num-mf$num-mf-sp
 	zho	亿	num	spa	cien millones	num-mf
 	zho	十	num	spa	diez	num$num-mf$num-mf-sp$
 	zho	二十	num	spa	veinte	num$$num-mf$num-mf-sp
-	zho	三十	num	spa	treinta	num$$num-mf
-	zho	四十	num	spa	cuarenta	num$$num-mf$num-mf-sp
-	zho	五十	num	spa	cincuenta	num$$num-mf
-	zho	六十	num	spa	sesenta	num$$num-mf$num-mf-sp
-	zho	七十	num	spa	setenta	num$$num-mf
-	zho	八十	num	spa	ochenta	num$$num-mf$num-mf-sp
-	zho	九十	num	spa	noventa	num$$num-mf
+	zho	三十	num	spa	treinta	num$$num-mf$num-mf-sp
+	zho	四十	num	spa	cuarenta	num$num-mf-sp$$num-mf
+	zho	五十	num	spa	cincuenta	num$$num-mf-sp$num-mf
+	zho	六十	num	spa	sesenta	num$num-mf-sp$$num-mf
+	zho	七十	num	spa	setenta	num$$num-mf$num-mf-sp
+	zho	八十	num	spa	ochenta	num$num-mf-sp$$num-mf
+	zho	九十	num	spa	noventa	num$$num-mf$num-mf-sp
 	zho	一百	num	spa	cien	num$num-mf-sp$num-mf$
 	zho	十九	num	spa	diecinueve	num$$num-mf$num-mf-sp
 	zho	十一	num	spa	once	num$$num-mf$num-mf-sp
@@ -9246,8 +9246,8 @@ LR	zho	.	sent	spa	.	sent
 	zho	二十七	num	spa	veintisiete	num$$num-mf
 	zho	二十八	num	spa	veintiocho	num$$num-mf
 	zho	二十九	num	spa	veintinueve	num$$num-mf
-	zho	三十	num	spa	treinta	num$$num-mf
-	zho	三十一	num	spa	treinta y uno	num-mf
+	zho	三十	num	spa	treinta	num$$num-mf$num-mf-sp
+	zho	三十一	num	spa	treinta y uno	num$$num-mf
 	zho	三十二	num	spa	treinta y dos	num-mf$num$num-mf-pl$
 	zho	三十三	num	spa	treinta y tres	num$$num-mf
 	zho	三十四	num	spa	treinta y cuatro	num$$num-mf
@@ -9258,8 +9258,8 @@ LR	zho	.	sent	spa	.	sent
 	zho	三十九	num	spa	treinta y nueve	num$num-mf$
 	zho	三十九	num	spa	treinta y nueve	num$num-mf$
 	zho	三十九	num	spa	treinta y nueve	num$num-mf$
-	zho	四十	num	spa	cuarenta	num$$num-mf$num-mf-sp
-	zho	四十一	num	spa	cuarenta y uno	num-mf
+	zho	四十	num	spa	cuarenta	num$num-mf-sp$$num-mf
+	zho	四十一	num	spa	cuarenta y uno	num$$num-mf
 	zho	四十二	num	spa	cuarenta y dos	num-mf$num$num-mf-pl$
 	zho	四十三	num	spa	cuarenta y tres	num$$num-mf
 	zho	四十四	num	spa	cuarenta y cuatro	num$$num-mf
@@ -9268,9 +9268,9 @@ LR	zho	.	sent	spa	.	sent
 	zho	四十七	num	spa	cuarenta y siete	num$$num-mf
 	zho	四十八	num	spa	cuarenta y ocho	num$$num-mf
 	zho	四十九	num	spa	cuarenta y nueve	num$$num-mf
-	zho	五十	num	spa	cincuenta	num$$num-mf
-	zho	五十一	num	spa	cincuenta y uno	num-mf
-	zho	五十二	num	spa	cincuenta y dos	num-mf$num-mf-sp$num$
+	zho	五十	num	spa	cincuenta	num$$num-mf-sp$num-mf
+	zho	五十一	num	spa	cincuenta y uno	num$$num-mf
+	zho	五十二	num	spa	cincuenta y dos	num-mf$num$num-mf-sp$
 	zho	五十三	num	spa	cincuenta y tres	num$$num-mf
 	zho	五十四	num	spa	cincuenta y cuatro	num$$num-mf
 	zho	五十五	num	spa	cincuenta y cinco	num$$num-mf
@@ -9278,8 +9278,8 @@ LR	zho	.	sent	spa	.	sent
 	zho	五十七	num	spa	cincuenta y siete	num$$num-mf
 	zho	五十八	num	spa	cincuenta y ocho	num$$num-mf
 	zho	五十九	num	spa	cincuenta y nueve	num$$num-mf
-	zho	六十	num	spa	sesenta	num$$num-mf$num-mf-sp
-	zho	六十一	num	spa	sesenta y uno	num-mf
+	zho	六十	num	spa	sesenta	num$num-mf-sp$$num-mf
+	zho	六十一	num	spa	sesenta y uno	num$$num-mf
 	zho	六十二	num	spa	sesenta y dos	num-mf$num$num-mf-pl$
 	zho	六十三	num	spa	sesenta y tres	num$$num-mf
 	zho	六十四	num	spa	sesenta y cuatro	num$$num-mf
@@ -9288,7 +9288,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	六十七	num	spa	sesenta y siete	num$$num-mf
 	zho	六十八	num	spa	sesenta y ocho	num$$num-mf
 	zho	六十九	num	spa	sesenta y nueve	num$$num-mf
-	zho	七十	num	spa	setenta	num$$num-mf
+	zho	七十	num	spa	setenta	num$$num-mf$num-mf-sp
 	zho	七十一	num	spa	setenta y uno	num-mf
 	zho	七十二	num	spa	setenta y dos	num-mf$num$num-mf-pl$
 	zho	七十三	num	spa	setenta y tres	num$$num-mf
@@ -9298,9 +9298,9 @@ LR	zho	.	sent	spa	.	sent
 	zho	七十七	num	spa	setenta y siete	num$$num-mf
 	zho	七十八	num	spa	setenta y ocho	num$$num-mf
 	zho	七十九	num	spa	setenta y nueve	num$$num-mf
-	zho	八十	num	spa	ochenta	num$$num-mf$num-mf-sp
-	zho	八十一	num	spa	ochenta y uno	num-mf
-	zho	八十二	num	spa	ochenta y dos	num-mf$num-mf-sp$num$
+	zho	八十	num	spa	ochenta	num$num-mf-sp$$num-mf
+	zho	八十一	num	spa	ochenta y uno	num$$num-mf
+	zho	八十二	num	spa	ochenta y dos	num-mf$num$num-mf-pl$
 	zho	八十三	num	spa	ochenta y tres	num$$num-mf
 	zho	八十四	num	spa	ochenta y cuatro	num$$num-mf
 	zho	八十五	num	spa	ochenta y cinco	num$$num-mf
@@ -9308,7 +9308,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	八十七	num	spa	ochenta y siete	num$$num-mf
 	zho	八十八	num	spa	ochenta y ocho	num$$num-mf
 	zho	八十九	num	spa	ochenta y nueve	num$$num-mf
-	zho	九十	num	spa	noventa	num$$num-mf
+	zho	九十	num	spa	noventa	num$$num-mf$num-mf-sp
 	zho	九十一	num	spa	noventa y uno	num-mf
 	zho	九十二	num	spa	noventa y dos	num-mf$num$num-mf-pl$
 	zho	九十三	num	spa	noventa y tres	num$$num-mf
@@ -9530,7 +9530,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	特约	adj	spa	especial	adj$adj-mf$adj-mf-ND
 	zho	表示	n	spa	declaración	n-m-sg
 	zho	姚 景 源	n	spa	Yao Jingyuan	np-ant-m-sg
-	zho	把	prn	spa	el	prn-tn-m$prn-tn-m-sg
+	zho	把	prn	spa	el	prn$prn-tn-m$prn-tn-m-sg
 	zho	不会	vblex-neg	spa	ir	vblex$vblex-vbact
 	zho	才能 为	adv	spa	con el fin	adv
 	zho	基础	n	spa	base	n-f$n$n-f-sg
@@ -9785,7 +9785,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	算法	n	spa	algoritmo	n-m-sg
 	zho	穗	n	spa	espiga	n-f$n$n-f-sg
 	zho	隧道	n	spa	túnel	n$n-m$n-m-sg
-	zho	岁数	n	spa	edad	n-f$n$n-f-sg
+	zho	岁数	n	spa	edad	n$n-f$n-f-sg
 	zho	岁月	n	spa	año	n-m$n$n-m-sg
 	zho	孙子	n	spa	nieto	n$n-m$n-m-sg
 	zho	T恤衫	n	spa	camiseta	n-f$n$n-f-sg
@@ -9819,7 +9819,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	特技	n	spa	truco	n-m-sg
 	zho	特权	n	spa	privilegio	n$n-m$n-m-sg
 	zho	特征	n	spa	característica	n$n-f$n-f-sg
-	zho	题	n	spa	título	n-m$n$n-m-sg
+	zho	题	n	spa	título	n$n-m$n-m-sg
 	zho	提包	n	spa	bolsa	n-f$n$n-f-sg
 	zho	题词	n	spa	inscripción	n$n-f$n-f-sg
 	zho	提供商	n	spa	proveedor	n-m-sg$n-m
@@ -9895,7 +9895,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	统计学	n	spa	estadística	n$n-f$$n-f-sg
 	zho	头部	n	spa	cabeza	n-f$n$n-f-sg
 	zho	头发	n	spa	pelo	n-m-sg
-	zho	头盔	n	spa	casco	n-m$n$n-m-sg
+	zho	头盔	n	spa	casco	n$n-m$n-m-sg
 	zho	头儿	n	spa	líder	n-m-sg$n-sg
 	zho	头疼	n	spa	dolor de cabeza	n-m-sg
 	zho	投影机	n	spa	proyector	n$n-m$n-m-sg
@@ -10600,7 +10600,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	革命性	n	spa	revolucionario	n-m$n-m-sg
 	zho	格式	n	spa	formulario	n$n-m$n-m-sg
 	zho	个儿	n	spa	altura	n-f$n$n-f-sg
-	zho	个人	n	spa	persona	n-f$n$n-f-sg
+	zho	个人	n	spa	persona	n$n-f$n-f-sg
 	zho	个人简历	n	spa	currículum	n$n-m$n-m-sg
 	zho	根	n	spa	raíz	n-f$n$n-f-sg
 	zho	根源	n	spa	fuente	n$n-f$n-f-sg
@@ -10815,7 +10815,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	火焰	n	spa	llama	n-m-sg
 	zho	火灾	n	spa	incendio	n$n-m$n-m-sg
 	zho	祸	n	spa	desastre	n-m$n-m-sg$n
-	zho	货	n	spa	bienes	n-m-pl
+	zho	货	n	spa	bienes	n-m-pl$n
 	zho	货币	n	spa	moneda	n$n-f$n-f-sg
 	zho	基本	n	spa	básico	n-m-sg
 	zho	机场	n	spa	aeropuerto	n$n-m$n-m-sg
@@ -10871,7 +10871,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	家具	n	spa	muebles	n-m-pl
 	zho	夹克	n	spa	chaqueta	n-m-sg
 	zho	嘉年华会	n	spa	carnaval	n-m-sg
-	zho	家庭	n	spa	familia	n-f$n$n-f-sg
+	zho	家庭	n	spa	familia	n$n-f$n-f-sg
 	zho	家庭教师	n	spa	tutor	n$n-m-sg$n-m
 	zho	家庭主妇	n	spa	ama de casa	n$n-f-sg
 	zho	家庭作业	n	spa	deberes	n-m-pl
@@ -10989,11 +10989,11 @@ LR	zho	.	sent	spa	.	sent
 	zho	酒	n	spa	vino	n$n-m$n-m-sg
 	zho	酒吧	n	spa	bar	n-m$n$n-m-sg
 	zho	酒精	n	spa	alcohol	n-m-sg
-	zho	酒精饮料	n	spa	licor	n-m$n$n-m-sg
+	zho	酒精饮料	n	spa	licor	n$n-m$n-m-sg
 	zho	酒水	n	spa	vino	n$n-m$n-m-sg
 	zho	救护车	n	spa	ambulancia	n-f-sg
 	zho	舅舅	n	spa	tío	n$n-m$n-m-sg
-	zho	酒类	n	spa	licor	n-m$n$n-m-sg
+	zho	酒类	n	spa	licor	n$n-m$n-m-sg
 	zho	舅妈	n	spa	tía	n$n-f$n-f-sg
 	zho	旧石器时代	n	spa	paleolítico	n-m$n$n-m-sg
 	zho	就职典礼	n	spa	inauguración	n$n-f$n-f-sg
@@ -11061,7 +11061,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	空气	n	spa	aire	n-m$n$n-m-sg
 	zho	空气污染	n	spa	contaminación	n$n-f$n-f-sg
 	zho	空手道	n	spa	karate	n-m-sg$n
-	zho	空调	n	spa	aire acondicionado	n$n-m-sg
+	zho	空调	n	spa	aire acondicionado	n-m-sg$n
 	zho	空想	n	spa	fantasía	n-f-sg
 	zho	空中	n	spa	cielo	n-m$n$n-m-sg
 	zho	恐怖主义	n	spa	terrorismo	n$n-m$n-m-sg
@@ -11127,7 +11127,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	泪	n	spa	lágrimas	n-f-pl
 	zho	冷藏室	n	spa	congelador	n$n-m$n-m-sg
 	zho	冷冻室	n	spa	congelador	n$n-m$n-m-sg
-	zho	冷气机	n	spa	aire acondicionado	n$n-m-sg
+	zho	冷气机	n	spa	aire acondicionado	n-m-sg$n
 	zho	冷饮	n	spa	bebida fría	n-f-sg
 	zho	厘米	n	spa	centímetro	n-m-sg
 	zho	黎明	n	spa	amanecer	n-m-sg
@@ -11436,7 +11436,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	气力	n	spa	fuerza	n-f$n$n-f-sg
 	zho	气色	n	spa	color	n-m$n$n-m-sg
 	zho	汽水	n	spa	bebida	n$n-f$n-f-sg
-	zho	气温	n	spa	temperatura ambiente	
+	zho	气温	n	spa	temperatura ambiente	n-f-sg
 	zho	气息	n	spa	aliento	n-m-sg
 	zho	气象学	n	spa	meteorología	n$n-f$n-f-sg
 	zho	气压	n	spa	presión atmosférica	n-f-sg
@@ -11447,7 +11447,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	千位元	n	spa	kilobit	n-m$n-m-sg
 	zho	签证	n	spa	visado	n-m$n$n-m-sg
 	zho	千字节	n	spa	kilobyte	n$n-m$n-m-sg
-	zho	钱	n	spa	dinero	n-m-sg$n-m$n
+	zho	钱	n	spa	dinero	n-m-sg$n$n-m
 	zho	钱包	n	spa	cartera	n-f$n$n-f-sg$
 	zho	前辈	n	spa	senior	n$n-m-sg
 	zho	前大灯	n	spa	faro	n$n-m$n-m-sg
@@ -11535,7 +11535,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	热病	n	spa	fiebre	n-f-sg
 	zho	热狗	n	spa	perrito caliente	
 	zho	热量	n	spa	calor	n-m-sg
-	zho	人	n	spa	persona	n-f$n$n-f-sg
+	zho	人	n	spa	persona	n$n-f$n-f-sg
 	zho	仁爱	n	spa	caridad	n$n-f$n-f-sg
 	zho	人才	n	spa	talento	n$n-m$n-m-sg
 	zho	仁慈	n	spa	amabilidad	n$n-f$n-f-sg
@@ -11661,7 +11661,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	取款机	n	spa	cajero automático	
 	zho	圈子	n	spa	círculo	n-m$n$n-m-sg
 	zho	权	n	spa	autoridad	n$n-f$n-f-sg
-	zho	全家	n	spa	familia	n-f$n$n-f-sg
+	zho	全家	n	spa	familia	n$n-f$n-f-sg
 	zho	权利	n	spa	poder	n$n-m$n-m-sg
 	zho	文书处理	n	spa	procesador de textos	n-m-sg
 	zho	文献	n	spa	literatura	n-f$n$n-f-sg
@@ -11704,7 +11704,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	误会	n	spa	error	n-m$n$n-m-sg
 	zho	物理学	n	spa	física	n-f$n$n-f-sg
 	zho	物理学家	n	spa	físico	n-m$n$n-m-sg
-	zho	物品	n	spa	bienes	n-m-pl
+	zho	物品	n	spa	bienes	n-m-pl$n
 	zho	物事	n	spa	cosas	n-f-pl
 	zho	物体	n	spa	objeto	n$n-m$n-m-sg
 	zho	物质	n	spa	materia	n$n-f$n-f-sg
@@ -12337,7 +12337,7 @@ LR	zho	.	sent	spa	.	sent
 	zho	中华	n	spa	China	np$np-loc$np-loc-f$np-loc-f-sg
 	zho	招生 简章	n	spa	catálogo	n$n-m$n-m-sg
 	zho	明	adj	spa	próximo	adj$adj-GD$adj-GD-ND
-	zho	学位	n	spa	título	n-m$n$n-m-sg
+	zho	学位	n	spa	título	n$n-m$n-m-sg
 	zho	中间	adj	spa	intermedio	adj$adj-GD-ND
 	zho	修	n	spa	reparación	n-f$n$n-f-sg
 	zho	层次	n	spa	nivel	n$n-m$n-m-sg

@@ -1,9 +1,9 @@
-	lat	sine	pr	ita	senza	pr$
-	lat	ad	pr	ita	a	pr
+	lat	sine	pr	ita	senza	$pr
+	lat	ad	pr	ita	a	pr$
 	lat	ante	pr	ita	davanti	pr
 	lat	circa	pr	ita	vicino	pr
 	lat	contra	pr	ita	contro	pr
-	lat	cum	pr	ita	con	pr
+	lat	cum	pr	ita	con	pr$
 	lat	in	pr	ita	in	pr
 	lat	inter	pr	ita	entri	pr
 	lat	trans	pr	ita	dopo	pr
@@ -16,7 +16,7 @@
 	lat	et	cnjcoo	ita	e	cnjcoo
 	lat	sed	cnjcoo	ita	ma	cnjcoo
 	lat	ergo	adv	ita	dopo	adv$
-	lat	non	adv	ita	non	adv
+	lat	non	adv	ita	non	$adv
 	lat	esse	vbser	ita	essere	$vbser$vbser-auxser
 	lat	amare	vblex	ita	amare	vblex$
 	lat	ire	vblex	ita	andare	$vblex
@@ -33,7 +33,7 @@
 	lat	provincia	n	ita	provincia	n-f$n
 	lat	amicitia	n$n-f	ita	amicizia	n-f$n
 	lat	amita	n$n-f	ita	zia	n-f$n
-	lat	amitina	n$n-f	ita	primo	n-m$n
+	lat	amitina	n$n-f	ita	primo	n-m$$n
 	lat	aquila	n$n-f	ita	aquila	n$n-f
 	lat	ara	n-f	ita	altare	n-m$n
 	lat	area	n$n-f	ita	area	n-f$n

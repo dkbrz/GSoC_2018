@@ -321,7 +321,7 @@ LR	gle	análú	n-m	eng	inhalation	n
 	gle	análú	vblex	eng	breathe	vblex
 	gle	easanálú	vblex	eng	exhale	vblex
 	gle	anam	n-m	eng	soul	n$n-sg
-	gle	anlann	n-m	eng	salt	n$n-ND
+	gle	anlann	n-m	eng	salt	n$n-sg
 	gle	anraith	n-m	eng	soup	n$n-sg
 	gle	aois	n-f	eng	age	n$n-ND
 	gle	arán	n-m	eng	bread	n$n-sg
@@ -750,7 +750,7 @@ LR	gle	deisiú	vblex	eng	mend	vblex
 	gle	dreoilín	n-m	eng	wren	n
 	gle	droim	n-m	eng	back	n$n-ND
 	gle	dronuillinn	n-f	eng	rectangle	n$n-ND
-	gle	druga	n-m	eng	drug	n$n-ND
+	gle	druga	n-m	eng	drug	n$n-sg
 	gle	druma	n-m	eng	drum	n$n-sg
 	gle	drumadóir	n-m	eng	drummer	n
 	gle	drumadóireacht	n-f	eng	drumming	n
@@ -1020,7 +1020,7 @@ LR	gle	blasta	adj	eng	savoury	adj
 	gle	míceart	adj	eng	incorrect	adj
 	gle	ceart	adj	eng	right	adj$adj-sint
 	gle	Ceilteach	adj	eng	Celtic	adj
-	gle	ceithre	adj	eng	four	adj
+	gle	ceithre	adj	eng	four	adj$adj-ord
 	gle	ciúin	adj	eng	quiet	adj-sint$adj
 LR	gle	ciúin	adj	eng	silent	adj$adj-sint
 	gle	clé	adj	eng	left	adj
@@ -1168,7 +1168,7 @@ LR	gle	clúiteach	adj	eng	renowned	adj
 	gle	ildaite	adj	eng	multicoloured	adj
 	gle	inghlachta	adj	eng	acceptable	adj
 	gle	íoctha	adj	eng	paid	adj
-	gle	iomlán	adj	eng	all	adj$
+	gle	iomlán	adj	eng	all	adj
 	gle	iomlán	adj	eng	complete	adj
 	gle	iomlán	adj	eng	overall	adj
 	gle	íon	adj	eng	pure	adj-sint$adj
@@ -1383,7 +1383,7 @@ LR	gle	clúiteach	adj	eng	renowned	adj
 	gle	Afraic	np-top-f	eng	Africa	np-top$np$np-top-f
 	gle	Aibreán	n-m	eng	April	n$$n-sg
 	gle	aifreann	n-m	eng	mass	n$n-ND
-	gle	Aigéan	np-top-m	eng	Aegean	np-top
+	gle	Aigéan	np-top-m	eng	Aegean	np-top$np-top-sg$np-top-nt-sg
 	gle	Ainchríost	n-m	eng	Antichrist	n
 	gle	Albain	np-top-f	eng	Scotland	np-top$np$np-top-sg
 	gle	Albáin	np-top-f	eng	Albania	np-top$np$np-top-f
@@ -1453,13 +1453,13 @@ LR	gle	clúiteach	adj	eng	renowned	adj
 	gle	Libéir	np-top-f	eng	Liberia	np-top$np$np-top-sg
 	gle	Libia	np-top-f	eng	Libia	np-top
 	gle	Liotuáin	np-top-f	eng	Lithuania	np-top$np$np-top-sg
-	gle	Loch	n-m	eng	Lake	$n
+	gle	Loch	n-m	eng	Lake	n
 	gle	Londain	np-top-f	eng	London	np-top$np$np-top-sg$
 	gle	Luan	n-m	eng	Monday	n$n-ND
 	gle	Lucsamburg	np-top-m	eng	Luxembourg	np-top$np$np-top-sg
 	gle	Luimneach	np-top-m	eng	Limerick	np-top
 	gle	Lúnasa	n-m	eng	August	n$n-sg
-	gle	Máire	np-ant-f	eng	Máire	np-ant-f
+	gle	Máire	np-ant-f	eng	Máire	np-ant-f$np-ant-f-sg
 	gle	Máirt	n-f	eng	Tuesday	n$n-ND
 	gle	Márta	n-m	eng	March	n$n-sg$
 	gle	Meiriceá	np-top-m	eng	America	np$np-top$np-top-f
@@ -1498,7 +1498,7 @@ LR	gle	clúiteach	adj	eng	renowned	adj
 	gle	Seán	np-ant-m	eng	Seán	np-ant-m
 	gle	Seanad	n-m	eng	Senate	n
 	gle	Seapáin	np-top-f	eng	Japan	np$np-top$np-top-sg
-	gle	Seic	np-top-f	eng	Czech	np-top
+	gle	Seic	np-top-f	eng	Czech	np-top$np-top-sg
 	gle	Seiceach	n-m	eng	Czech	n
 	gle	Seirbia	np-top-f	eng	Serbia	np-top$np-top-sg$np
 	gle	Séamus	np-top-f	eng	James	np-top

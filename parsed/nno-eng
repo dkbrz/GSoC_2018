@@ -1,0 +1,72 @@
+	nno	aust	pr	eng	east	pr
+	nno	heim	pr	eng	home	pr
+	nno	heime	pr	eng	home	pr
+	nno	eg	prn-p1	eng	prpers	prn-obj-p1-mf-sg$prn-p1$prn-obj-p1
+	nno	de	prn-pers-p2$prn-p2$prn-pers-p2-mf-sg	eng	prpers	prn-subj-p2-mf-sp$prn-p2$prn-subj-p2-mf
+	nno	ho	prn-pers-p3-f$prn$prn-p3$prn-pers-p3-f-sg	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt
+	nno	dei	prn-pers-p3$prn-p3$prn-pers-p3-un-pl	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt
+	nno	seg	prn$prn-ref$prn-ref-p1	eng	myself	prn-ref-p1-mf-sg$prn-ref-p1$prn$prn-p1$prn-ref-p1-mf
+	nno	seg	prn-ref-p2	eng	yourself	prn-ref-p2-mf-sg$prn-ref-p2$prn$prn-p2$prn-ref-p2-mf
+	nno	seg	prn-ref-p3	eng	himself	prn-ref-p3-m-sg$prn$prn-ref-p3$prn-p3
+	nno	noko	prn-p3	eng	something	prn-ind$prn-ind-nt-sg$prn-ind-nt
+	nno	kvarandre	prn-res$prn	eng	each	prn$prn-ind$prn-ind-mf-sg
+	nno	kva	prn-itg$prn	eng	what	prn-itg-mf-sp$prn-itg-mf
+	nno	kven	prn-itg$prn	eng	who	prn-itg-mf-sp$prn-itg-sp
+	nno	ein	prn$prn-pers	eng	one	prn-tn-mf$prn$prn-tn-mf-pl
+	nno	ein	prn-sg	eng	a	det-ind-sg$det-ind$det$
+	nno	ein	det-qnt$det-qnt-f$	eng	a	det-ind-sg$det-ind$det$
+	nno	same	det-dem$	eng	same	det-ind$det-ind-sp
+	nno	noko	det-qnt	eng	some	det-qnt$det-qnt-sp$det
+	nno	kvar	det-qnt$	eng	each	det-ind$det-ind-sg$det
+	nno	kvar	det-qnt$	eng	any	det-ind-sp$det-ind$det
+	nno	mykje	$adj$adj-comp	eng	much	det-qnt$det-qnt-sg$det
+	nno	mykje	$adj$adj-comp	eng	more	det-qnt-sp$det-qnt$det
+	nno	mykje	adj-sup	eng	most	det-qnt$det-qnt-sp$det
+	nno	kor	det-qnt	eng	how	det-itg$det-itg-pl
+	nno	dei	det-qnt	eng	the	det-qnt
+	nno	ein	det-qnt$det-qnt-f$	eng	a	det-ind-sg$det-ind$det$
+	nno	ein	det-qnt$det-qnt-f$	eng	some	det-qnt$det-qnt-sp$det
+	nno	sjølv	det-emph	eng	self	prn-ref$prn$prn-ref-PD-GD-ND
+	nno	eigen	det-emph$det-emph-GD	eng	own	adj
+	nno	kva	det-itg	eng	which	det-itg-sp$det-itg$det
+	nno	eg	det-pos	eng	my	det-pos-sp$det-pos$det
+	nno	dei	det-pos	eng	your	det-pos$det-pos-sp$det
+	nno	ho	det-pos	eng	her	det-pos$det-pos-sp$det
+	nno	de	det-pos	eng	their	det-pos$det-pos-sp$det
+	nno	éin	det-qnt$det-qnt-f	eng	one	num$num-sg$$num-pl-sg
+	nno	sju	det-qnt	eng	seven	num$num-sp$
+	nno	tjue	det-qnt	eng	twenty	num$num-sp$
+	nno	tretti	det-qnt	eng	thirty	num$num-sp$
+	nno	heimby	n-m	eng	home	n$n-sg
+	nno	heim	n-nt	eng	home	n$n-sg
+	nno	heimland	n-nt	eng	native	n$n-ND
+	nno	heimel	n-m	eng	warrant	n$n-ND
+	nno	heimel	n-m	eng	title	n$n-ND
+	nno	sykeheim	n-nt	eng	nursing	n
+	nno	heimesjukepleie	n-m	eng	home	n$n-sg
+	nno	heimearbeidande	$adj	eng	work-at-home	adj
+	nno	heimehørande	adj	eng	resident	adj
+	nno	heimelaga	$adj	eng	home-made	adj
+	nno	heimelaga	$adj	eng	home-made	adj
+	nno	heimlaus	$adj	eng	homeless	adj
+	nno	heime	adv$	eng	at	adv$
+	nno	vere	$n$n-m	eng	be	vbser$vbser-past$vbser-past-p3-sg
+	nno	seie	$adj-pp	eng	say	vblex$vblex-pprs
+	nno	seie	$adj-pp	eng	tell	vblex
+	nno	seie	$adj-pp	eng	mean	vblex
+	nno	skilje	$n-nt	eng	split	vblex
+	nno	skilje	$n-nt	eng	separate	vblex
+	nno	gjere		eng	make	vblex$vblex-sep
+	nno	gjere		eng	do	vblex$vblex-past
+	nno	kome		eng	come	vblex
+	nno	leike	$n-f	eng	play	vblex$vblex-subst
+	nno	kvitkalke		eng	whitewash	vblex
+	nno	heimsøkje		eng	infest	vblex
+	nno	vere	$n$n-m	eng	love	vblex$vblex-pprs
+	nno	vere	$n$n-m	eng	hold	vblex$vblex-sep
+	nno	være	$n-nt	eng	love	vblex$vblex-pprs
+	nno	være	$n-nt	eng	hold	vblex$vblex-sep
+	nno	heimsende		eng	send	vblex$vblex-sep
+	nno	halde		eng	hold	vblex$vblex-sep
+	nno	halde		eng	hold	vblex$vblex-sep
+	nno	halde		eng	hold	vblex$vblex-sep

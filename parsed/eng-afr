@@ -11,7 +11,7 @@ LR	eng	’s	gen	afr	se	gen
 	eng	over	pr$	afr	oor	pr
 	eng	with	pr$	afr	met	pr
 	eng	without	pr	afr	sonder	pr
-	eng	of	pr	afr	van	pr
+	eng	of	pr$	afr	van	pr
 	eng	in	pr	afr	in	pr
 LR	eng	into	pr	afr	in	pr
 	eng	by	pr	afr	deur	pr
@@ -1231,7 +1231,7 @@ RL	eng	bid	n$n-ND	afr	bod	n
 	eng	camera	n$n-ND	afr	kamera	n
 	eng	camp	n$n-ND	afr	kamp	n
 	eng	campaign	n$n-ND	afr	veldtog	n
-	eng	can	n$n-ND	afr	blik	n
+	eng	can	n$n-sg	afr	blik	n
 	eng	Canadian	n	afr	Kanadees	n
 	eng	cancer	n$n-ND	afr	kanker	n
 	eng	candidate	n$n-ND	afr	applikant	n
@@ -1473,7 +1473,7 @@ RL	eng	bid	n$n-ND	afr	bod	n
 	eng	drive	n	afr	rit	n
 	eng	drizzle	n	afr	motreën	n
 	eng	drop	n$n-ND	afr	druppel	n
-	eng	drug	n$n-ND	afr	verdowingsmiddel	n
+	eng	drug	n$n-sg	afr	verdowingsmiddel	n
 	eng	pharmacy	n$n-sg	afr	apteek	n
 	eng	drum	n$n-sg	afr	drom	n
 	eng	dusk	n$n-ND	afr	skemer	n
@@ -1577,7 +1577,7 @@ RL	eng	bid	n$n-ND	afr	bod	n
 	eng	floor	n$n-sg	afr	vloer	n
 	eng	flow	n$n-ND	afr	vloei	n
 	eng	flower	n$n-sg	afr	blom	n
-	eng	flu	n$n-ND	afr	griep	n
+	eng	flu	n$n-sg	afr	griep	n
 	eng	fluid	n	afr	vloeistof	n
 	eng	flute	n$n-sg	afr	fluit	n
 	eng	fly	n$n-ND	afr	vlieg	n
@@ -1825,7 +1825,7 @@ LR	eng	truck	n$n-ND	afr	vragmotor	n
 	eng	lump	n	afr	massa	n
 	eng	lung	n$n-sg	afr	long	n
 	eng	luxury	n$n-ND	afr	luuksheid	n
-	eng	lyric	n-pl$n	afr	liriek	n
+	eng	lyric	n$n-pl	afr	liriek	n
 	eng	machine	n$n-sg	afr	masjien	n
 	eng	magazine	n$n-ND	afr	tydskrif	n
 	eng	magician	n$n-ND	afr	towenaar	n
@@ -2167,7 +2167,7 @@ LR	eng	plan	n$n-ND	afr	projek	n
 	eng	row	n$n-ND	afr	rusie	n
 	eng	rule	n$n-sg	afr	reël	n
 	eng	rump	n	afr	agterent	n
-	eng	run	n$n-ND	afr	wedloop	n
+	eng	run	n$n-sg	afr	wedloop	n
 	eng	rush	n$n-ND	afr	haas	n
 	eng	Russian	n$n-ND	afr	Russies	n
 	eng	rye	n$n-sg	afr	rog	n
@@ -2176,7 +2176,7 @@ LR	eng	plan	n$n-ND	afr	projek	n
 	eng	sail	n$n-ND	afr	seil	n
 	eng	salad	n	afr	slaai	n
 	eng	salary	n$n-sg	afr	salaris	n
-	eng	salt	n$n-ND	afr	sout	n
+	eng	salt	n$n-sg	afr	sout	n
 	eng	sample	n	afr	monster	n
 	eng	sand	n$n-ND	afr	sand	n
 	eng	sandal	n$n-pl	afr	sandaal	n
@@ -2206,7 +2206,7 @@ LR	eng	scheme	n$n-ND	afr	projek	n
 	eng	sea	n$n-sg	afr	see	n
 	eng	seal	n$n-ND	afr	rob	n
 	eng	seat	n$n-ND	afr	sitplek	n
-	eng	second	n$n-ND	afr	sekonde	n
+	eng	second	n$n-sg	afr	sekonde	n
 	eng	secret	n$n-ND	afr	geheim	n
 	eng	secretary	n$n-ND	afr	sekretaresse	n
 	eng	sector	n$n-ND	afr	sektor	n
@@ -2415,7 +2415,7 @@ LR	eng	scheme	n$n-ND	afr	projek	n
 	eng	transfer	n$n-ND	afr	oordrag	n
 	eng	transgression	n	afr	oortreding	n
 	eng	translation	n$n-ND	afr	vertaling	n
-	eng	travel	n$n-ND	afr	reis	n
+	eng	travel	n$n-sg	afr	reis	n
 	eng	treasure	n$n-ND	afr	skat	n
 	eng	tribe	n$n-sg	afr	stam	n
 	eng	trip	n$n-ND	afr	uitstappie	n
@@ -3305,7 +3305,7 @@ RL	eng	gasoline	n$n-sg	afr	petrol	n
 	eng	leukaemia	n	afr	leukemie	n
 	eng	libertarianism	n	afr	libertynisme	n
 	eng	ligand	n	afr	ligand	n
-	eng	lightning	n$n-unc	afr	weerlig	n
+	eng	lightning	n$n-sg	afr	weerlig	n
 	eng	lion	n$n-ND	afr	leeu	n
 	eng	lithium	n	afr	litium	n
 	eng	logic	n$n-ND	afr	logika	n
@@ -3668,7 +3668,7 @@ RL	eng	gasoline	n$n-sg	afr	petrol	n
 	eng	Azerbaijan	np-top$np-top-sg$np	afr	Azerbaidjan	np$np-top
 	eng	Bahrain	np-top$np$np-top-sg	afr	Bahrein	np$np-top
 	eng	Belorussian	adj	afr	Wit-Russies	adj
-	eng	Bosnia	np-top$np$np-top-f	afr	Bosnië	np$np-top
+	eng	Bosnia	np-top$np$np-top-sg	afr	Bosnië	np$np-top
 	eng	Brussels	np-top$np$np-top-sg	afr	Brussel	np$np-top
 	eng	Cape of Good Hope	np	afr	Kaap die Goeie Hoop	np$np-top
 	eng	Christmas	n	afr	Kersmis	n
@@ -3690,15 +3690,15 @@ RL	eng	gasoline	n$n-sg	afr	petrol	n
 	eng	Moscow	np$np-top$np-top-sg	afr	Moskou	np$np-top
 	eng	Munich	np-top$np$np-top-sg	afr	München	np$np-top
 	eng	Netherlands	np$np-top$np-top-sg	afr	Nederland	np$np-top
-	eng	North Sea	np$np-top$np-top-m-sg	afr	Noordsee	np$np-top
+	eng	North Sea	np$np-top	afr	Noordsee	np$np-top
 	eng	Gulf of Bothnia	np	afr	Golf van Bothnië	np
-	eng	Gulf of Mexico	np$np-top$np-top-sg$np-top-m-sg	afr	Golf van Meksiko	np$np-top
-	eng	Caspian Sea	np$np-top$np-top-sg	afr	Kaspiese See	np$np-top
+	eng	Gulf of Mexico	np$np-top	afr	Golf van Meksiko	np$np-top
+	eng	Caspian Sea	np$np-top	afr	Kaspiese See	np$np-top
 	eng	Caucasus	np-top$np-top-sg$np	afr	Kaukasië	np$np-top
-	eng	Baltic Sea	np$np-top$np-top-m-sg	afr	Oossee	np$np-top
-	eng	Black Sea	np$np-top$np-top-sg$np-top-nt-sg	afr	Swart See	np$np-top
+	eng	Baltic Sea	np$np-top	afr	Oossee	np$np-top
+	eng	Black Sea	np$np-top	afr	Swart See	np$np-top
 	eng	Pacific ocean	np	afr	Stille oseaan	np$np-top
-	eng	Northern Ireland	np$np-top$np-top-sg	afr	Noord-Ierland	np$np-top
+	eng	Northern Ireland	np$np-top	afr	Noord-Ierland	np$np-top
 	eng	Old Church Slavonic	adj	afr	Ou Kerkslawies	adj
 	eng	Punjabi	adj	afr	Punjabi	adj
 	eng	Saturday	n$n-ND	afr	Saterdag	n
@@ -3708,7 +3708,7 @@ RL	eng	gasoline	n$n-sg	afr	petrol	n
 	eng	space shuttle	n	afr	ruimtependeltuig	n
 	eng	Syria	np-top$np$np-top-sg	afr	Sirië	np$np-top
 	eng	Thai	adj	afr	Thai	adj
-	eng	Western Sahara	np-top$np$np-top-sg	afr	Wes-Sahara	np$np-top
+	eng	Western Sahara	np-top$np	afr	Wes-Sahara	np$np-top
 	eng	Wikipedia	np-al-sg$np$np-al	afr	Wikipedia	np$np-al
 	eng	Xhosa	adj	afr	Xhosa	adj
 	eng	Yemen	np-top$np$np-top-sg	afr	Jemen	np$np-top
@@ -3936,23 +3936,23 @@ LR	eng	plant growth	n	afr	plantegroei	n
 	eng	principal	n$n-sg	afr	hoof	n
 	eng	England	np-loc$np-loc-sg	afr	Engeland	np-loc-sg
 	eng	North Africa	np$np-top	afr	Noord-Afrika	np$np-top
-	eng	North America	np-top$np$np-top-sg	afr	Noord-Amerika	np$np-top
-	eng	Central Asia	np$np-top$np-top-sg	afr	Sentraal-Asië	np$np-top
+	eng	North America	np-top$np	afr	Noord-Amerika	np$np-top
+	eng	Central Asia	np$np-top	afr	Sentraal-Asië	np$np-top
 	eng	Middle East	np$np-loc	afr	Midde-Ooste	np$np-top
 	eng	Africa	np-top$np$np-top-f	afr	Afrika	np$np-top
 	eng	European Union	np-top$np$np-top-sg	afr	Europese Unie	np$np-top
 	eng	Commonwealth	np$np-al	afr	Gemenebest	np
 	eng	Balkans	np-top$np$np-top-pl	afr	Balkan	np$np-top
 	eng	Non-Aligned Movement	np	afr	Organisasie van Nie-gebonde Lande	np
-	eng	Czech Republic	np-top$np$np-top-sg	afr	Tsjeggië	np$np-top
+	eng	Czech Republic	np-top$np$np-top-f	afr	Tsjeggië	np$np-top
 	eng	Sierra Leone	np-top$np$np-top-sg	afr	Sierra Leone	np$np-top
-	eng	Cape Verde	np-top$np$np-top-sg	afr	Kaap Verde	np$np-top
+	eng	Cape Verde	np-top$np	afr	Kaap Verde	np$np-top
 	eng	Central African Republic	np-top$np$np-top-sg	afr	Sentraal-Afrikaanse Republiek	np$np-top
 	eng	Democratic Republic of the Congo	np-top$np	afr	Demokratiese Republiek van die Kongo	np
 	eng	Dominican Republic	np-top$np$np-top-sg	afr	Dominikaanse Republiek	np$np-top
-	eng	East Timor	np-top$np-top-sg$np	afr	Oos-Timor	np$np-top
+	eng	East Timor	np-top$np$np-top-sg	afr	Oos-Timor	np$np-top
 	eng	Equatorial Guinea	np-top$np$np-top-sg	afr	Ekwatoriaal-Guinee	np$np-top
-	eng	Faroe Islands	np-top$np$np-top-pl	afr	Faroëreilande	np$np-top
+	eng	Faroe Islands	np-top$np	afr	Faroëreilande	np$np-top
 	eng	Afghanistan	np-top$np$np-top-m	afr	Afghanistan	np$np-top
 RL	eng	Afghanistan	np-top$np$np-top-m	afr	Afghanistan	np$np-top
 	eng	Albania	np-top$np$np-top-f	afr	Albanië	np$np-top
@@ -4025,7 +4025,7 @@ RL	eng	Afghanistan	np-top$np$np-top-m	afr	Afghanistan	np$np-top
 	eng	Russia	np-top$np$np-top-sg	afr	Rusland	np$np-top
 	eng	Prussia	np$np-top$np-top-sg$np-top-m-sg	afr	Pruise	np$np-top
 	eng	Danube	np$np-top$np-top-m	afr	Donau	np$np-top
-	eng	Ural Mountains	np$np-top-pl	afr	Oeralgebergtes	np$np-top
+	eng	Ural Mountains	np$np-al	afr	Oeralgebergtes	np$np-top
 	eng	Rwanda	np-top$np$np-top-sg	afr	Rwanda	np$np-top
 	eng	Scotland	np-top$np$np-top-sg	afr	Skotland	np$np-top
 	eng	Saudi Arabia	np$np-top$np-top-sg	afr	Saudi Arabië	np$np-top
@@ -4034,7 +4034,7 @@ RL	eng	Afghanistan	np-top$np$np-top-m	afr	Afghanistan	np$np-top
 	eng	Slovakia	np-top$np$np-top-f	afr	Slowakye	np$np-top
 	eng	Spain	np-top$np$np-top-sg	afr	Spanje	np$np-top
 	eng	Sudan	np-top$np-top-sg$np	afr	Soedan	np$np-top
-	eng	Sri Lanka	np-top$np-top-sg$np	afr	Sri Lanka	np$np-top
+	eng	Sri Lanka	np-top$np$np-top-f	afr	Sri Lanka	np$np-top
 	eng	Soviet Union	np$np-top$np-top-sg	afr	Sowjetunie	np$np-top
 	eng	Saudi Arabia	np$np-top$np-top-sg	afr	Saoedi-Arabië	np$np-top
 	eng	Sweden	np-top$np$np-top-sg	afr	Swede	np$np-top
@@ -4060,12 +4060,12 @@ RL	eng	Afghanistan	np-top$np$np-top-m	afr	Afghanistan	np$np-top
 	eng	Polynesia	np$np-top-sg$np-top	afr	Polenesië	np
 	eng	Australasia	np$np-top	afr	Australasië	np$np-top
 	eng	Papua New Guinea	np-top$np$np-top-sg	afr	Papoea Nieu-Guinee	np$np-top
-	eng	Greenland	np-top$np$np-top-sg	afr	Groenland	np$np-top
+	eng	Greenland	np-top$np$np-top-sg$np-top-nt-sg	afr	Groenland	np$np-top
 	eng	Antarctica	np-top$np$np-top-sg	afr	Antarktika	np$np-top
-	eng	Arctic	np$np-top-sg	afr	Arkties	np
+	eng	Arctic	np$np-top-sg$np-top-nt-sg	afr	Arkties	np
 	eng	Ursa Major	np$np-top-sg	afr	Groot Beer	np$np-top
-	eng	North Pole	np$np-top$np-top-sg$np-top-m-sg	afr	Noordpool	np
-	eng	South Pole	np$np-top$np-top-m-sg$np-top-sg	afr	Suidpool	np$np-top
+	eng	North Pole	np$np-top	afr	Noordpool	np
+	eng	South Pole	np$np-top	afr	Suidpool	np$np-top
 	eng	United States	np$np-top$np-top-pl	afr	Verenigde State	np$np-top
 	eng	Alaska	np$np-top$np-top-sg	afr	Alaska	np$np-top
 	eng	Siberia	np$np-top$np-top-sg	afr	Siberië	np$np-top
@@ -4073,17 +4073,17 @@ RL	eng	Afghanistan	np-top$np$np-top-m	afr	Afghanistan	np$np-top
 	eng	NATO	np	afr	NATO	np$np-al
 	eng	Lapland	np$np-top$np-top-sg	afr	Lapland	np$np-top
 	eng	Spitsbergen	np$np-top-sg	afr	Spitsbergen	np$np-top
-	eng	Arctic Ocean	np$np-top-nt-sg	afr	Arktiese Oseaan	np$np-top
+	eng	Arctic Ocean	np	afr	Arktiese Oseaan	np$np-top
 	eng	Baffin Bay	np	afr	Baffinbaai	np$np-top
 	eng	Beaufort Sea	np	afr	Beaufortsee	np$np-top
-	eng	Barents Sea	np$np-top-sg$np-top$np-top-nt-sg	afr	Barentssee	np$np-top
-	eng	Bering Strait	np$np-top-nt-sg	afr	Beringstraat	np$np-top
+	eng	Barents Sea	np$np-top	afr	Barentssee	np$np-top
+	eng	Bering Strait	np	afr	Beringstraat	np$np-top
 	eng	Chukchi Sea	np	afr	Chukchisee	np
 	eng	Davis Strait	np	afr	Davisstraat	np
 	eng	Denmark Strait	np	afr	Deense straat	np
 	eng	East Siberian Sea	np	afr	Oos-Siberiese See	np$np-top
-	eng	Greenland Sea	np$np-top-nt-sg	afr	Groenlandsees	np
-	eng	Hudson Bay	np$np-top-f-sg	afr	Hudsonbaai	np$np-top
+	eng	Greenland Sea	np	afr	Groenlandsees	np
+	eng	Hudson Bay	np	afr	Hudsonbaai	np$np-top
 	eng	Kara Sea	np	afr	Karasee	np
 	eng	Laptev Sea	np	afr	Laptevsee	np
 	eng	Nares Strait	np	afr	Naresstraat	np
@@ -4367,13 +4367,13 @@ LR	eng	fairly	preadv	afr	taamlik	preadv
 RL	eng	so	preadv	afr	só	preadv
 	eng	most of	det-qnt-sp$det	afr	meeste van	det-qnt$det-qnt-sp
 	eng	enough	det-qnt-sp$det-qnt$det	afr	genoeg	det-qnt$det-qnt-sp
-	eng	the most	det-qnt-sp$det$det-qnt	afr	die mees	det-qnt-sp
+	eng	the most	det-qnt-sp$det	afr	die mees	det-qnt-sp
 	eng	few	det-qnt-pl$det-qnt$det	afr	min	det-qnt
 	eng	various	det-ind$det$det-ind-pl	afr	verskeie	det-ind
 	eng	either	det-ind$det$det-ind-sg	afr	albei	det-ind
 	eng	no	det-ind-sp$det-ind$det	afr	geen	det-ind
 	eng	the other	det-ind	afr	die ander	det-ind
-	eng	a few	det-qnt-pl$det$det-qnt	afr	’n paar	det-qnt
+	eng	a few	det$det-qnt$det-qnt-pl	afr	’n paar	det-qnt
 	eng	much	det-qnt$det-qnt-sg$det	afr	baie	det-qnt
 	eng	how many	det-itg-pl$det-itg$det	afr	hoeveel	det-itg$det-itg-sp
 	eng	every	det-ind$det-ind-sg$det	afr	elke	det-ind
@@ -4717,7 +4717,7 @@ LR	eng	severe	adj$adj-sint	afr	erg	adj$adj-sint
 	eng	Germanic	adj	afr	Germaans	adj
 	eng	thematic	adj	afr	wiskundig	adj
 	eng	Gothic	adj	afr	Goties	adj
-	eng	Barents	$adj	afr	Barents	adj
+	eng	Barents	adj	afr	Barents	adj
 	eng	economic	adj	afr	ekonomies	adj
 	eng	rare	adj-sint$adj	afr	raar	adj$adj-sint
 	eng	Gaelic	adj	afr	Kelties	adj
@@ -5117,8 +5117,8 @@ LR	eng	work intensive	adj	afr	arbeidintensief	adj
 	eng	treeless	adj	afr	boomloos	adj
 	eng	polar	adj	afr	polêr	adj
 	eng	unique	adj	afr	uniek	adj
-	eng	Atlantic Ocean	np$np-top-m-sg$np-top-sg	afr	Atlantiese Oseaan	np$np-top
-RL	eng	Atlantic	np$np-top-sg$np-top	afr	Atlantiese Oseaan	np$np-top
+	eng	Atlantic Ocean	np$np-al	afr	Atlantiese Oseaan	np$np-top
+RL	eng	Atlantic	np$np-top-sg$np-top-m-sg$np-top	afr	Atlantiese Oseaan	np$np-top
 	eng	antarctic	adj	afr	antarkties	adj
 	eng	opposite	adj	afr	teenoorgesteld	adj
 	eng	approximate	adj$adj-sint	afr	benaderd	adj
@@ -5967,7 +5967,7 @@ LR	eng	organize	vblex$vblex-pprs	afr	organiseer	vblex
 	eng	eighty	num$num-sp$	afr	tagtig	num-sp
 	eng	ninety	num$num-sp$	afr	negentig	num-sp
 	eng	million	num$num-sp	afr	miljoen	num
-	eng	one million	num$num-pl	afr	’n miljoen	num
+	eng	one million	num	afr	’n miljoen	num
 	eng	the	det$det-def-sp$det-def	afr	die	det-def
 RL	eng	the	det$det-def-sp$det-def	afr	dié	det-def
 RL	eng	a	det-ind-sg$det-ind$det$	afr	'n	det-ind
@@ -6086,7 +6086,7 @@ RL	eng	after	cnjadv	afr	ná	cnjadv
 	eng	within	pr	afr	binne	pr
 	eng	conflict	n$n-pl	afr	konflik	n
 	eng	Portugal	np-top$np$np-top-sg	afr	Portugal	np$np-top
-	eng	South America	np$np-top$np-top-sg	afr	Suid-Amerika	np$np-top
+	eng	South America	np$np-top	afr	Suid-Amerika	np$np-top
 	eng	Iberian	adj	afr	Iberies	adj
 	eng	Muslim	adj	afr	Moslem	adj
 	eng	prehistoric	adj	afr	prehistories	adj
@@ -6128,8 +6128,8 @@ RL	eng	section	n$n-sg	afr	snyvlak	n
 RL	eng	section	n$n-sg	afr	snee	n
 RL	eng	section	n$n-sg	afr	seksie	n
 	eng	regulate	vblex$vblex-ger	afr	reguleer	vblex
-	eng	physical	n	afr	fisies	n
-	eng	physical	n	afr	fisiek	n
+	eng	physical	n$n-sg	afr	fisies	n
+	eng	physical	n$n-sg	afr	fisiek	n
 RL	eng	physical	adj	afr	natuurkundig	adj
 	eng	division	n$n-sg	afr	deling	n
 	eng	division	n$n-sg	afr	afdeling	n
@@ -6536,7 +6536,7 @@ RL	eng	fermentation	n	afr	fermentasie	n
 	eng	simulate	vblex	afr	simuleer	vblex
 	eng	simplify	vblex	afr	simplifiseer	vblex
 	eng	one	prn-tn-mf$prn$prn-tn-mf-pl	afr	een	prn
-	eng	the other	prn-dem-mf$prn	afr	die ander	prn
+	eng	the other	prn$prn-dem-mf	afr	die ander	prn
 	eng	everyone	prn$prn-ind-mf-sg$prn-ind$prn-ind-mf	afr	elkeen	prn$prn-tn
 	eng	nobody	prn$prn-tn-m-sg$prn-tn-m	afr	niemand	prn$prn-tn
 	eng	anyone	prn-tn-m-sg$prn$prn-tn	afr	enigiemand	prn$prn-tn

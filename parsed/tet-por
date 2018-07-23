@@ -437,7 +437,7 @@ LR	tet	ninian	postdet	por		$num$num-percent
 	tet	efeitu	n	por	efeito	n$n-m-ND
 	tet	efisiénsia	n	por	eficiência	n$n-f-ND
 	tet	ekipamentu	n	por	equipamento	n$n-m-ND
-	tet	ekipa	n	por	equipa	n-f$n$n-f-ND
+	tet	ekipa	n	por	equipa	n-f$n-f-ND
 	tet	ekonomia	n	por	economia	n$n-f-ND
 	tet	elaborasaun	n	por	elaboração	n$n-f-ND
 	tet	eleisaun	n	por	eleição	n-f$n$n-f-ND
@@ -447,7 +447,7 @@ LR	tet	ninian	postdet	por		$num$num-percent
 	tet	embaixadór	n	por	embaixador	n$n-m-ND
 	tet	maun-alin	n	por	irmão	n$n-m$n-m-pl
 	tet	embriaun	n	por	embrião	n$n-m-ND
-	tet	aktu	n	por	acto	n$n-m$n-m-ND
+	tet	aktu	n	por	acto	n-m$n$n-m-ND
 	tet	emerjénsia	n	por	emergência	n$n-f-ND
 	tet	empregadór	n	por	empregador	n-m-ND
 	tet	empregadór	n	por	empresário	n$n-m-ND
@@ -833,7 +833,7 @@ LR	tet	ninian	postdet	por		$num$num-percent
 	tet	segundu	n	por	segundo	n$n-m$n-m-ND
 	tet	seguransa	n	por	segurança	n-f$n-f-ND
 	tet	selebrasaun	n	por	celebração	n$n-f-ND
-	tet	selesaun	n	por	selecção	n$n-f$n-f-ND
+	tet	selesaun	n	por	selecção	n$n-f-ND
 	tet	semana	n	por	semana	n$n-f$n-f-ND
 	tet	semináriu	n	por	seminário	n$n-m-ND
 	tet	sentidu	n	por	sentido	n$n-m-ND
@@ -1043,7 +1043,7 @@ LR	tet	ninian	postdet	por		$num$num-percent
 	tet	timoroan	n	por	timorense	n-mf-ND
 	tet	abilidade	n	por	habilidade	n$n-f$n-f-ND
 	tet	abordajen	n	por	abordagem	n$n-f$n-f-ND
-	tet	acta	n	por	acta	n$n-f$n-f-ND
+	tet	acta	n	por	acta	n$n-f-ND
 	tet	aeroportu	n	por	aeroporto	n$n-m-ND
 	tet	agrikultór	n	por	agricultor	n$n-m-ND
 	tet	aklamasaun	n	por	aclamação	n-f-ND
@@ -1599,7 +1599,7 @@ LR	tet	ninian	postdet	por		$num$num-percent
 	tet	Irlanda	np-top	por	Irlanda	np-top-f-sg
 	tet	Sudaun	np-top	por	Sudão	np$np-top
 	tet	Suisa	np-top	por	Suíça	np$np-top-f-sg
-	tet	Kabo-Verde	np-top	por	Cabo Verde	np-top$np
+	tet	Kabo-Verde	np-top	por	Cabo Verde	np-top
 	tet	Tailándia	np-top	por	Tailândia	np$np-top
 	tet	Bobonaru	np-top	por	Bobonaro	np-top
 	tet	Burundí	np-top	por	Burundi	np$np-top
@@ -1609,17 +1609,17 @@ LR	tet	ninian	postdet	por		$num$num-percent
 	tet	Nepál	np-top	por	Nepal	np$np-top
 	tet	Senegál	np-top	por	Senegal	np$np-top
 	tet	Japaun	np-top	por	Japão	np-top-m-sg
-	tet	Koreia Súl	np-top	por	Coreia do Sul	np$np-top-f-sg
-	tet	Koreia Norte	np-top	por	Coreia do Norte	np$np-top-f-sg
-	tet	Irlanda Norte	np-top	por	Irlanda do Norte	np$np-top-f-sg
-	tet	Bóznia no Erzegovina	np-top	por	Bósnia e Herzegovina	np$np-top
+	tet	Koreia Súl	np-top	por	Coreia do Sul	np-top-f-sg
+	tet	Koreia Norte	np-top	por	Coreia do Norte	np-top-f-sg
+	tet	Irlanda Norte	np-top	por	Irlanda do Norte	np-top-f-sg
+	tet	Bóznia no Erzegovina	np-top	por	Bósnia e Herzegovina	np-top
 	tet	Giné Ekuatoriál	np-top	por	Guiné Equatorial	np-top
 	tet	Giné Portugés	np-top	por	Guiné Portuguesa	np-top
 	tet	Kongu-Brazavile	np-top	por	Congo-Brazzaville	np-top
 	tet	Kongu-Kinxasa	np-top	por	Congo-Quinchassa	np-top
 	tet	Koreia	np-top	por	Coreia	np$np-top-f-sg
-	tet	Papua Nova Giné	np-top	por	Papua-Nova Guiné	np$np-top
-	tet	Saun Tomé no Prínsipe	np-top	por	São Tomé e Príncipe	np$np-top
+	tet	Papua Nova Giné	np-top	por	Papua-Nova Guiné	np-top
+	tet	Saun Tomé no Prínsipe	np-top	por	São Tomé e Príncipe	np-top
 	tet	Somália	np-top	por	Somália	np$np-top
 	tet	Vikeke	np-top	por	Viqueque	np-top
 	tet	Viktoria	np-top	por	Vitória	np$np-top
@@ -1869,7 +1869,7 @@ LR	tet	ninian	postdet	por		$num$num-percent
 	tet	Giné	np-top	por	Guiné	np-top-f-sg
 	tet	Haiti	np-top	por	Haiti	np-top
 	tet	Jakarta	np-top	por	Jakarta	np-top
-	tet	Kabuverde	np-top	por	Cabo Verde	np-top$np
+	tet	Kabuverde	np-top	por	Cabo Verde	np-top
 	tet	Kuba	np-top	por	Cuba	np$np-top
 	tet	Londres	np-top	por	Londres	np$np-top
 	tet	Lospalos	np-top	por	Lospalos	np-top
@@ -1877,7 +1877,7 @@ LR	tet	ninian	postdet	por		$num$num-percent
 	tet	Manila	np-top	por	Manila	np$np-top
 	tet	Monróvia	np-top	por	Monróvia	np$np-top
 	tet	Myanmar	np-top	por	Myanmar	np$np-top
-	tet	Repúblika Demokrátika Kongo	np-top	por	República Democrática do Congo	np$np-top
+	tet	Repúblika Demokrátika Kongo	np-top	por	República Democrática do Congo	np-top
 	tet	Vera Cruz	np-top	por	Vera Cruz	np-top
 	tet	Viena	np-top	por	Viena	np$np-top
 	tet	Zumalai	np-top	por	Zumalai	np-top
@@ -1960,9 +1960,9 @@ LR	tet	ninian	postdet	por		$num$num-percent
 	tet	Benín	np-top	por	Benim	np$np-top
 	tet	Bielorúsia	np-top	por	Bielorrússia	np$np-top
 	tet	Botsuana	np-top	por	Botswana	np$np-top
-	tet	Burkina Faso	np-top	por	Burkina Faso	np$np-top
+	tet	Burkina Faso	np-top	por	Burkina Faso	np-top
 	tet	Butaun	np-top	por	Butão	np$np-top
-	tet	Emiratu Arabi Naklibur Sira	np-top	por	Emirados Árabes Unidos	np$np-top
+	tet	Emiratu Arabi Naklibur Sira	np-top	por	Emirados Árabes Unidos	np-top
 	tet	Eritreia	np-top	por	Eritreia	np$np-top
 	tet	Gabaun	np-top	por	Gabão	np$np-top
 	tet	Gámbia	np-top	por	Gâmbia	np$np-top
@@ -1988,9 +1988,9 @@ LR	tet	ninian	postdet	por		$num$num-percent
 	tet	Mongólia	np-top	por	Mongólia	np$np-top
 	tet	Namíbia	np-top	por	Namíbia	np$np-top
 	tet	Nijer	np-top	por	Níger	np$np-top
-	tet	Nusar Faroé	np-top	por	Ilhas Feroe	np$np-top
+	tet	Nusar Faroé	np-top	por	Ilhas Feroe	np-top
 	tet	Omán	np-top	por	Omã	np$np-top
-	tet	Repúblika Sentruafrikana	np-top	por	República Centro-Africana	np$np-top
+	tet	Repúblika Sentruafrikana	np-top	por	República Centro-Africana	np-top
 	tet	Saun Mariñu	np-top	por	São Marino	np-top
 	tet	Seixeles	np-top	por	Seicheles	np-top
 	tet	Suazilándia	np-top	por	Suazilândia	np$np-top

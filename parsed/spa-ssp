@@ -113,7 +113,7 @@
 	spa	aire	n-m$n$n-m-sg	ssp	s:hm.omamaq	n
 	spa	dar	vblex	ssp	ebsr:äememacrol	vblex
 	spa	tomar	vblex$vblex-inf	ssp	s:hm.òamàmafaheb	vblex
-	spa	aire acondicionado	n$n-m-sg	ssp	s:hm.omamaq	n
+	spa	aire acondicionado	n-m-sg$n	ssp	s:hm.omamaq	n
 	spa	albañil	n-mf$n$n-mf-ND	ssp	sèìmiha:èìmic-rs	n
 	spa	albóndiga	n$n-f	ssp	sharl:õmèmuwreihe	n
 	spa	mano	n-f$n$n-f-sg	ssp	omat	n
@@ -121,7 +121,7 @@
 	spa	timbre	n$n-m$n-m-ND	ssp	amepeb	n
 	spa	torbellino	n-m$n	ssp	abemamawreihetu	n
 	spa	toldo	n-m$n	ssp	s:abõmagrue	n
-	spa	título	n-m$n$n-m-sg	ssp	s:abamamupebu	n
+	spa	título	n$n-m$n-m-sg	ssp	s:abamamupebu	n
 	spa	alfombra	n-f$n$n-f-ND	ssp	s:ômomafahopu	n
 	spa	aligerar	vblex	ssp	s:omemawraiheb	vblex
 	spa	almeja	n$n-f	ssp	sõmemaca:õmamufahecb	n
@@ -863,7 +863,7 @@ LR	spa	capital	n-f$n$n-f-sg	ssp	olâemèmazb	n
 	spa	calamar	n$n-m	ssp	ómemuqe	n
 	spa	calle	n-f$n$n-f-ND	ssp	ahsòmimuce:òmumadahb	n
 	spa	gente de la calle	n	ssp	alaémywuby olòmèmadohe	n
-	spa	calma	n-f$n$n-f-ND	ssp	sòmemaha:òcb	n
+	spa	calma	n$n-f$n-f-ND	ssp	sòmemaha:òcb	n
 	spa	cama	n-f$n$n-f-sg	ssp	kòã	n
 	spa	camarero	n$n-m$n-m-ND	ssp	abòmemawreiheb	n
 	spa	canelón	n	ssp	shal:emiwraeheb	n
@@ -905,7 +905,7 @@ LR	spa	capital	n-f$n$n-f-sg	ssp	olâemèmazb	n
 	spa	chico	n$n-m$n-m-sg	ssp	t.agrob	n
 	spa	chico	n-f$n-f-ND	ssp	reãg	n
 	spa	ciclismo	n$n-m$n-m-ND	ssp	sl:aumewraeheb	n
-	spa	ciencia	n-f$n$n-f-sg	ssp	f.Cmawraiheb	n
+	spa	ciencia	n$n-f$n-f-sg	ssp	f.Cmawraiheb	n
 	spa	cinturón	n-m$n$n-m-sg	ssp	pnaé-ñn	n
 	spa	círculo	n-m$n$n-m-sg	ssp	ememuwraiho	n
 	spa	cierto	adv	ssp	eämadaheb	adv
@@ -1296,7 +1296,7 @@ RL	spa	cuándo	adv$adv-itg	ssp	hm.òamamafahecb	adv
 	spa	diluvio	n$n-m	ssp	s:alómemujwuib	n
 	spa	dimitir	vblex	ssp	s:ömamuleu	vblex
 	spa	dinastía	n$n-f$n-f-sg	ssp	có hm.shal:emiwrahebe	n
-	spa	dinero	n-m-sg$n-m$n	ssp	olâemèmazb	n
+	spa	dinero	n-m-sg$n$n-m	ssp	olâemèmazb	n
 	spa	diplomático	adj$adj-GD$adj-GD-ND	ssp	s:n-fòãmale	adj
 	spa	directo	adj$adj-m-sg	ssp	zòãmawe	adj
 	spa	director	n$n-m$n-m-sg	ssp	emadahe	n
@@ -1340,7 +1340,7 @@ RL	spa	cuándo	adv$adv-itg	ssp	hm.òamamafahecb	adv
 	spa	severo	adj$adj-GD-ND$adj-GD	ssp	sòaméhy:émadohezp	adj
 	spa	eclipse	n-m$n	ssp	s:aleämawiv	n
 	spa	economizar	vblex	ssp	sl:ömamawraehob	vblex
-	spa	edad	n-f$n$n-f-sg	ssp	ch.òamamacb	n
+	spa	edad	n$n-f$n-f-sg	ssp	ch.òamamacb	n
 	spa	editar	vblex	ssp	sha:òamemuzpeb	vblex
 	spa	educar	vblex	ssp	s:tm.émamupeb	vblex
 	spa	educación	n$n-f$n-f-ND	ssp	s:tm.émamupeb	n
@@ -1579,7 +1579,7 @@ RL	spa	cuándo	adv$adv-itg	ssp	hm.òamamafahecb	adv
 	spa	futuro	n-m$n$n-m-sg	ssp	abõamewe	n
 	spa	futuro	adj$adj-GD-ND	ssp	abõamewe	adj
 	spa	facultad	n$n-f$n-f-ND	ssp	xn.òamodahocb	n
-	spa	familia	n-f$n$n-f-sg	ssp	svca:emèmuwraheb	n
+	spa	familia	n$n-f$n-f-sg	ssp	svca:emèmuwraheb	n
 	spa	farmacia	n-f$n$n-f-sg	ssp	sòamémaca:ömèzwreihob	n
 	spa	faro	n$n-m$n-m-sg	ssp	s:oämamul	n
 	spa	farola	n-f$n$n-f-ND	ssp	ohsomimuca:oämimul	n
@@ -1739,12 +1739,12 @@ RL	spa	cuándo	adv$adv-itg	ssp	hm.òamamafahecb	adv
 	spa	pobreza	n$n-f$n-f-sg	ssp	sohce:óamizy	n
 	spa	hamburguesa	n$n-f$n-f-sg	ssp	sòamemaha:ómémucb	n
 	spa	pobre	adj-mf$adj$adj-mf-ND$	ssp	sohce:óamizy	adj
-	spa	harina	n$n-f	ssp	oliâmèmuzpb yniäle	n
+	spa	harina	n$n-f$n-f-sg	ssp	oliâmèmuzpb yniäle	n
 	spa	heredar	vblex	ssp	sha:emiwraehere	vblex
 	spa	hermoso	adj$adj-GD-ND	ssp	chòãmizlde-ch.ômic	adj
 	spa	heterosexual	n$n-mf	ssp	z.òmacb	n
 	spa	marihuana	n$n-f$n-f-ND	ssp	v.aëmapob	n
-	spa	hierba	n-f$n$n-f-ND	ssp	sòmimuco:soh4mazy	n
+	spa	hierba	n-f$n$n-f-sg	ssp	sòmimuco:soh4mazy	n
 	spa	hipoacusia	n	ssp	re semimuha:emezpo	n
 	spa	hipoacúsico	adj	ssp	re semimuha:emezpo	adj
 	spa	historia	n-f$n$n-f-sg	ssp	s:chô-s:omemu	n
@@ -2095,7 +2095,7 @@ RL	spa	cuándo	adv$adv-itg	ssp	hm.òamamafahecb	adv
 	spa	matrícula	n$n-f	ssp	sòamémaha:ömècbey	n
 	spa	matrimonio	n-m$n$n-m-sg	ssp	sr:umèmug	n
 	spa	máximo	adj$adj-GD-ND$	ssp	sòamimuhu:ömac	adj
-	spa	persona	n-f$n$n-f-sg	ssp	s:ömimupub	n
+	spa	persona	n$n-f$n-f-sg	ssp	s:ömimupub	n
 	spa	el	adj	ssp	ömamu-1mama	adj
 	spa	estar	vblex$vblex-inf	ssp	schòãldeube	vblex
 	spa	al por mayor	adv	ssp	shar:omamufahe-wo	adv
@@ -2333,7 +2333,7 @@ RL	spa	cuándo	adv$adv-itg	ssp	hm.òamamafahecb	adv
 	spa	majo	adj	ssp	chòa-ch.òamamufahe	adj
 	spa	menos mal	ij	ssp	yòazu	ij
 	spa	mal	adv	ssp	ch.eumimuzpu	adv
-	spa	mal	n$n-m$n-m-ND	ssp	ch.eumimuzpu	n
+	spa	mal	n-m$n$n-m-ND	ssp	ch.eumimuzpu	n
 	spa	manifestación	n$n-f$n-f-sg	ssp	s:v.oämemaceal	n
 	spa	echar	vblex	ssp	s:òamemacea	vblex
 	spa	tender	vblex	ssp	s:òamemacea	vblex
@@ -2455,7 +2455,7 @@ RL	spa	cuándo	adv$adv-itg	ssp	hm.òamamafahecb	adv
 	spa	oficina	n-f$n$n-f-sg	ssp	sòamémaha:âezpeyb	n
 	spa	ojera	n$n-f	ssp	jmnèìmimuzy	n
 	spa	olimpiada	n$n-f	ssp	sgl:eämàty	n
-	spa	mal	n$n-m$n-m-ND	ssp	ze z.omat	n
+	spa	mal	n-m$n$n-m-ND	ssp	ze z.omat	n
 	spa	olor	n-m$n$n-m-ND	ssp	z.ecb	n
 	spa	olvidar	vblex	ssp	f.omimulsy	vblex
 	spa	operar	vblex	ssp	sl:amumawob	vblex
@@ -2520,7 +2520,7 @@ RL	spa	cuándo	adv$adv-itg	ssp	hm.òamamafahecb	adv
 	spa	país	n-m$n$n-m-sg	ssp	alómamupe	n
 	spa	palabra	n-f$n$n-f-sg	ssp	áémype	n
 	spa	papel	n-m$n$n-m-sg	ssp	yòãldeb	n
-	spa	persona	n-f$n$n-f-sg	ssp	ebáémywu	n
+	spa	persona	n$n-f$n-f-sg	ssp	ebáémywu	n
 	spa	documentación	n$n-f$n-f-sg	ssp	s:òãmimaldb	n
 	spa	parecer	vblex$$vblex-pron	ssp	je omamuwraiheb	vblex
 	spa	parada	n$n-f$n-f-ND	ssp	s:òmemupu	n
@@ -2562,7 +2562,7 @@ RL	spa	cuándo	adv$adv-itg	ssp	hm.òamamafahecb	adv
 	spa	peleón	adj	ssp	s:ömimufohoc	adj
 	spa	parapente	n	ssp	sl:abaëmáwhuib	n
 	spa	paraguas	n-m-sp$n-m$n	ssp	saëmaca:aëmawa	n
-	spa	paro	n$n-m$n-m-ND	ssp	svc:yn.amàc	n
+	spa	paro	n-m$n$n-m-ND	ssp	svc:yn.amàc	n
 	spa	parte	n-f$n$n-f-sg	ssp	sòamémaca:òacrya	n
 	spa	participar	vblex	ssp	sõámeha:émamufohek	vblex
 	spa	partir	vblex	ssp	sc:aëmifaho	vblex
@@ -2571,8 +2571,8 @@ RL	spa	cuándo	adv$adv-itg	ssp	hm.òamamafahecb	adv
 	spa	pantalón	n-m$n$n-m-pl	ssp	s:gmömumaba	n
 	spa	paso	n-m$n-m-ND$n	ssp	s:èìmamadaheb	n
 	spa	dar	vblex	ssp	ebòamémadoho	vblex
-	spa	mala suerte		ssp	taumicro	n
-	spa	mala pata	n$n-f	ssp	taumicro	n
+	spa	mala suerte	n-f	ssp	taumicro	n
+	spa	mala pata	n-f	ssp	taumicro	n
 	spa	pato	n$n-m$n-m-sg	ssp	v.òãmamuldb	n
 	spa	pausa	n$n-f$n-f-ND	ssp	s:òamemupu	n
 	spa	paz	n$n-f$n-f-sg	ssp	sv:umàcuywuy	n
@@ -2976,7 +2976,7 @@ RL	spa	cuándo	adv$adv-itg	ssp	hm.òamamafahecb	adv
 	spa	zarpar	vblex	ssp	sc:òãmèwe	vblex
 	spa	zumo	n$n-m$n-m-ND	ssp	ómemugreb	n
 	spa	medio	adj$adj-GD-ND	ssp	soméha:emèmyc	adj
-	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl	ssp	oämamals	det-ind
+	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl	ssp	oämamals	det-ind
 	spa	aquel	det$det-dem-GD$det-dem$det-dem-GD-ND	ssp	aeylep	det-dem
 	spa	ese	det$det-dem$det-dem-m-sg	ssp	eylep	det-dem
 	spa	este	det$det-dem$det-dem-GD$det-dem-GD-pl	ssp	olepui	det-dem
@@ -3104,9 +3104,9 @@ LR	spa	ninguno	prn-tn$prn$prn-tn-GD-sg$prn-tn-GD	ssp	sc:eämawy	prn$prn-tn
 	spa	nos	prn-pro$prn$prn-pro-p1-mf-pl	ssp	olemumawraho	prn$prn-tn
 	spa	te	prn-pro$prn$prn-pro-p2-mf-sg	ssp	ele	prn$prn-pro-ref
 	spa	yo	prn$prn-tn-p1-mf-sg$prn-tn$prn-tn-p1-mf	ssp	ye	prn
-	spa	yo de él	prn$prn-tn	ssp	ch.óacb ye eile c.acrob	prn
-	spa	yo de ella	prn$prn-tn	ssp	ch.óacb ye eile reãg	prn
-	spa	yo de ti	prn$prn-tn	ssp	ch.óacb ye ele	prn
+	spa	yo de él	prn-tn$prn	ssp	ch.óacb ye eile c.acrob	prn
+	spa	yo de ella	prn-tn$prn	ssp	ch.óacb ye eile reãg	prn
+	spa	yo de ti	prn-tn$prn	ssp	ch.óacb ye ele	prn
 LR	spa	lo demás	prn$prn-tn-nt-sg	ssp	sòméha:òamemacrozpb	prn
 LR	spa	le	prn-enc-p3-mf-sg$prn-enc$prn$prn-enc-p3-mf	ssp	eyle	prn$prn-enc
 LR	spa	le	prn-pro-p3-mf-sg$prn-pro$prn-pro-p3-mf	ssp	eyle	prn-pro
@@ -3281,15 +3281,15 @@ LR	spa	algo de	pr	ssp	sch.õazpeb	pr
 LR	spa	ciento	num$num-m-sp$	ssp	100	num
 	spa	cinco	num$num-mf-sp$	ssp	5	num
 	spa	quinientos	num$num-GD-sp$	ssp	500	num
-	spa	cincuenta	num$$num-mf	ssp	50	num
+	spa	cincuenta	num$$num-mf-sp$num-mf	ssp	50	num
 	spa	cincuenta y cinco	num$$num-mf	ssp	55	num
-	spa	cincuenta y dos	num-mf$num-mf-sp$num$	ssp	52	num
+	spa	cincuenta y dos	num-mf$num$num-mf-sp$	ssp	52	num
 	spa	cincuenta y nueve	num$$num-mf	ssp	59	num
 	spa	cincuenta y cuatro	num$$num-mf	ssp	54	num
 	spa	cincuenta y siete	num$$num-mf	ssp	57	num
 	spa	cincuenta y seis	num$$num-mf	ssp	56	num
 	spa	cincuenta y tres	num$$num-mf	ssp	53	num
-	spa	cincuenta y uno	num$$num-m	ssp	51	num
+	spa	cincuenta y uno	num$$num-mf	ssp	51	num
 	spa	cincuenta y ocho	num$$num-mf	ssp	58	num
 	spa	diez	num$num-mf$num-mf-sp$	ssp	10	num
 	spa	diecinueve	num$$num-mf$num-mf-sp	ssp	19	num
@@ -3299,7 +3299,7 @@ LR	spa	ciento	num$num-m-sp$	ssp	100	num
 	spa	doscientos	num$$num-mf	ssp	200	num
 	spa	doce	num$num-mf-pl$$num-mf	ssp	12	num
 	spa	mil	num$num-mf$num-mf-sp	ssp	1000	num
-	spa	noventa	num$$num-mf	ssp	90	num
+	spa	noventa	num$$num-mf$num-mf-sp	ssp	90	num
 	spa	noventa y cinco	num$$num-mf	ssp	95	num
 	spa	noventa y dos	num-mf$num$num-mf-pl$	ssp	92	num
 	spa	noventa y nueve	num$$num-mf	ssp	99	num
@@ -3307,12 +3307,12 @@ LR	spa	ciento	num$num-m-sp$	ssp	100	num
 	spa	noventa y siete	num$$num-mf	ssp	97	num
 	spa	noventa y seis	num$$num-mf	ssp	96	num
 	spa	noventa y tres	num$$num-mf	ssp	93	num
-	spa	noventa y uno	num$num-m$	ssp	91	num
+	spa	noventa y uno	num$$num-GD	ssp	91	num
 	spa	noventa y ocho	num$$num-mf	ssp	98	num
 	spa	nueve	num$$num-mf-sp	ssp	9	num
 	spa	novecientos	num$$num-GD-pl	ssp	900	num
 	spa	once	num$$num-mf$num-mf-sp	ssp	11	num
-	spa	cuarenta	num$$num-mf$num-mf-sp	ssp	40	num
+	spa	cuarenta	num$num-mf-sp$$num-mf	ssp	40	num
 	spa	cuarenta y cinco	num$$num-mf	ssp	45	num
 	spa	cuarenta y dos	num-mf$num$num-mf-pl$	ssp	42	num
 	spa	cuarenta y nueve	num$$num-mf	ssp	49	num
@@ -3320,13 +3320,13 @@ LR	spa	ciento	num$num-m-sp$	ssp	100	num
 	spa	cuarenta y siete	num$$num-mf	ssp	47	num
 	spa	cuarenta y seis	num$$num-mf	ssp	46	num
 	spa	cuarenta y tres	num$$num-mf	ssp	43	num
-	spa	cuarenta y uno	num$$num-m	ssp	41	num
+	spa	cuarenta y uno	num$$num-mf	ssp	41	num
 	spa	cuarenta y ocho	num$$num-mf	ssp	48	num
 	spa	cuarto	num	ssp	oämimugre-4mi	num
 	spa	cuatro	num$$num-mf-sp	ssp	4	num
 	spa	cuatrocientos	num$$num-GD-pl	ssp	400	num
 	spa	quince	num$$num-mf$num-mf-sp	ssp	15	num
-	spa	sesenta	num$$num-mf$num-mf-sp	ssp	60	num
+	spa	sesenta	num$num-mf-sp$$num-mf	ssp	60	num
 	spa	sesenta y cinco	num$$num-mf	ssp	65	num
 	spa	sesenta y dos	num-mf$num$num-mf-pl$	ssp	62	num
 	spa	sesenta y nueve	num$$num-mf	ssp	69	num
@@ -3334,11 +3334,11 @@ LR	spa	ciento	num$num-m-sp$	ssp	100	num
 	spa	sesenta y siete	num$$num-mf	ssp	67	num
 	spa	sesenta y seis	num$$num-mf	ssp	66	num
 	spa	sesenta y tres	num$$num-mf	ssp	63	num
-	spa	sesenta y uno	num$$num-m	ssp	61	num
+	spa	sesenta y uno	num$$num-mf	ssp	61	num
 	spa	sesenta y ocho	num$$num-mf	ssp	68	num
 	spa	siete	num$$num-mf-sp	ssp	7	num
 	spa	setecientos	num$$num-GD-pl	ssp	700	num
-	spa	setenta	num$$num-mf	ssp	70	num
+	spa	setenta	num$$num-mf$num-mf-sp	ssp	70	num
 	spa	setenta y cinco	num$$num-mf	ssp	75	num
 	spa	setenta y dos	num-mf$num$num-mf-pl$	ssp	72	num
 	spa	setenta y nueve	num$$num-mf	ssp	79	num
@@ -3346,12 +3346,12 @@ LR	spa	ciento	num$num-m-sp$	ssp	100	num
 	spa	setenta y siete	num$$num-mf	ssp	77	num
 	spa	setenta y seis	num$$num-mf	ssp	76	num
 	spa	setenta y tres	num$$num-mf	ssp	73	num
-	spa	setenta y uno	num$num-m$	ssp	71	num
+	spa	setenta y uno	num$$num-GD	ssp	71	num
 	spa	setenta y ocho	num$$num-mf	ssp	78	num
 	spa	dieciséis	num$$num-mf$num-mf-sp	ssp	16	num
 	spa	seis	num$num-mf-sp$	ssp	6	num
 	spa	seiscientos	num$$num-GD-pl	ssp	600	num
-	spa	treinta	num$$num-mf	ssp	30	num
+	spa	treinta	num$$num-mf$num-mf-sp	ssp	30	num
 	spa	treinta y cinco	num$$num-mf	ssp	35	num
 	spa	treinta y dos	num-mf$num$num-mf-pl$	ssp	32	num
 	spa	treinta y nueve	num$num-mf$	ssp	39	num
@@ -3359,7 +3359,7 @@ LR	spa	ciento	num$num-m-sp$	ssp	100	num
 	spa	treinta y siete	num$$num-mf	ssp	37	num
 	spa	treinta y seis	num$$num-mf	ssp	36	num
 	spa	treinta y tres	num$$num-mf	ssp	33	num
-	spa	treinta y uno	num$$num-m	ssp	31	num
+	spa	treinta y uno	num$$num-mf	ssp	31	num
 	spa	treinta y ocho	num$$num-mf	ssp	38	num
 	spa	tres	num$num-mf-sp$	ssp	3	num
 	spa	trescientos	num$$num-mf	ssp	300	num
@@ -3377,15 +3377,15 @@ LR	spa	ciento	num$num-m-sp$	ssp	100	num
 	spa	veintiocho	num$$num-mf	ssp	28	num
 	spa	ocho	num$$num-mf-sp	ssp	8	num
 	spa	ochocientos	num$$num-GD-pl	ssp	800	num
-	spa	ochenta	num$$num-mf$num-mf-sp	ssp	80	num
+	spa	ochenta	num$num-mf-sp$$num-mf	ssp	80	num
 	spa	ochenta y cinco	num$$num-mf	ssp	85	num
-	spa	ochenta y dos	num-mf$num-mf-sp$num$	ssp	82	num
+	spa	ochenta y dos	num-mf$num$num-mf-pl$	ssp	82	num
 	spa	ochenta y nueve	num$$num-mf	ssp	89	num
 	spa	ochenta y cuatro	num$$num-mf	ssp	84	num
 	spa	ochenta y siete	num$$num-mf	ssp	87	num
 	spa	ochenta y seis	num$$num-mf	ssp	86	num
 	spa	ochenta y tres	num$$num-mf	ssp	83	num
-	spa	ochenta y uno	num$$num-m	ssp	81	num
+	spa	ochenta y uno	num$$num-mf	ssp	81	num
 	spa	ochenta y ocho	num$$num-mf	ssp	88	num
 	spa	cero	num$num-mf-sp$num-mf	ssp	0	num
 	spa	Susana	np$np-ant$np-ant-f	ssp	SUSANA	np

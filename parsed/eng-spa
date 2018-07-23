@@ -108,7 +108,7 @@ RL	eng	authorisation	n$n-ND	spa	AUT	n-f-sg
 	eng	FARC	n-acr-sg$n	spa	FARC	n$n-acr$n-acr-f$n-acr-f-pl
 	eng	G.P.	n-acr-sg$n	spa	G.P.	n-acr-m-sg
 	eng	Urdiales	np-al-sg	spa	Urdiales	np$np-al-m-sg
-	eng	Mecos	$np	spa	Mecos	np
+	eng	Mecos	$np$np-al-sg	spa	Mecos	np
 	eng	Arkote	np-al-sg	spa	Arkote	np$np-al-m-sg
 	eng	Candy	np-al-sg$np	spa	Candy	np$np-al-m-sg
 	eng	bandeira	n	spa	bandeira	n-f
@@ -128,11 +128,11 @@ RL	eng	authorisation	n$n-ND	spa	AUT	n-f-sg
 	eng	Gorliz	np-loc-sg	spa	Gorliz	np-loc-m-sg
 	eng	Rías Bajas	np-loc$np-loc-sg	spa	Rías Bajas	np-loc-m$np-loc-m-sg
 	eng	Aiete	np-loc-sg	spa	Aiete	np$np-loc-m-sg
-RL	eng	rowing sports club	n-ND$n	spa	S.D.R.	n-f-sp
+RL	eng	rowing sports club	n-ND	spa	S.D.R.	n-f-sp
 RL	eng	sports club	n$n-ND	spa	S.D.	n-f-sp
 LR	eng	sports club	n-sg	spa	S.D.	n-f-sp
 LR	eng	sports club	n-pl	spa	S.D.	n-f-sp
-RL	eng	rowing sports club	n-ND$n	spa	SDR	n-f-sp
+RL	eng	rowing sports club	n-ND	spa	SDR	n-f-sp
 LR	eng	rowing sports club	n-sg	spa	SDR	n-f-sp
 LR	eng	rowing sports club	n-pl	spa	SDR	n-f-sp
 	eng	Avia	np-al-sg$np-al	spa	Avia	np$np-al-m-sg
@@ -143,7 +143,7 @@ LR	eng	rowing sports club	n-pl	spa	SDR	n-f-sp
 	eng	Carglass	np-al-sg	spa	Carglass	np$np-al-m-sg
 	eng	Pasaia	np-al-sg	spa	Pasaia	np-al-m-sg
 	eng	Iberdrola	np-al-sg$np-al	spa	Iberdrola	np-al-m-sg
-RL	eng	Mrs.	n$n-sg	spa	doña	n-f$n
+RL	eng	Mrs.	n$$n-sg	spa	doña	n-f$n
 	eng	Tirán	np-al-sg	spa	Tirán	np$np-al-m-sg
 	eng	Tostartean	np-al-sg	spa	Tostartean	np$np-al-m-sg
 	eng	Grafilur	np-al-sg	spa	Grafilur	np$np-al-m-sg
@@ -192,7 +192,7 @@ RL	eng	Plentzia	np-al-sg	spa	Plentziako	np-al-m-sg
 	eng	port of pasaia	np-al-sg	spa	pasaiako portuko	np-al-m-sg
 	eng	boat race of getxo	np-al-sg	spa	getxoko estropaden	np-al-m-sg
 	eng	ikurrina of the port of pasaia	np-al-sg	spa	pasaiako portuko ikurriña	np-al-m-sg
-	eng	Xunta de Galicia	np-al-sg$np-al	spa	Xunta de Galicia	np$np-al-m-sg
+	eng	Xunta de Galicia	np-al$np-al-sg	spa	Xunta de Galicia	np$np-al-m-sg
 RL	eng	Zumaia	np-al-sg	spa	Zumaiako	np-al-m-sg
 	eng	Naturhouse	np-al-sg	spa	Naturhouse	np-al-m-sg
 	eng	Naturhouse Castro	np-al-sg	spa	Naturhouse Castro	np-al-m-sg
@@ -228,8 +228,8 @@ RL	eng	decision	n$n-ND	spa	laudo	n$n-m$n-m-sg
 	eng	flag of riveira city	np-al-sg	spa	bandeira cidade riveira	np-al-m-sg
 RL	eng	flag of riveira city	np-al-sg	spa	bandeira cidade de riveira	np-al-m-sg
 	eng	Eibar	np-al-sg	spa	Eibar	np-al-m-sg
-	eng	time trial	n$n-ND	spa	contrarreloj	n-f-sp$n$n-f
-RL	eng	time trial	n$n-ND	spa	prueba contrarreloj	n-f
+	eng	time trial	n	spa	contrarreloj	n-f-sp$n$n-f
+RL	eng	time trial	n	spa	prueba contrarreloj	n-f
 	eng	scored	adj	spa	puntuable	adj$adj-mf$adj-mf-sg
 	eng	tending	adj	spa	tendente	adj-mf$adj
 	eng	ETB	n-acr	spa	ETB	n-acr$n-acr-f
@@ -498,7 +498,7 @@ RL	eng	award	vblex	spa	adjudicar	vblex
 	eng	Espel	$np-cog	spa	Espel	np$np-cog$np-cog-mf
 	eng	Agirrezabalaga	$np-cog	spa	Agirrezabalaga	np$np-cog-mf
 	eng	Goikoetxea	$np-cog	spa	Goikoetxea	np$np-cog-mf
-	eng	Sainz de la Maza	$np-cog	spa	Sainz de la Maza	np-cog-mf
+	eng	Sainz de la Maza	np-cog	spa	Sainz de la Maza	np-cog-mf
 	eng	Maza	$np-cog	spa	Maza	np$np-cog$np-cog-mf
 	eng	Arias	np-cog$$np-cog-pl	spa	Arias	np$np-cog$np-cog-mf
 	eng	Aranburu	np-cog	spa	Aranburu	np$np-cog-mf
@@ -587,10 +587,10 @@ RL	eng	full-time	n	spa	dedicación plena	n-f
 	eng	San Miguel League	np-al-sg	spa	Liga San Miguel	np-al-m-sg
 	eng	San Miguel Beers	np-al-sg	spa	Cervezas San Miguel	np-al-m-sg
 	eng	Fandicosta	np-al-sg	spa	Fandicosta	np-al-m-sg
-	eng	San Miguel	np-al-sg$	spa	San Miguel	np-al-m-sg
+	eng	San Miguel	np-al-sg	spa	San Miguel	np-al-m-sg
 	eng	Caja Madrid	np-al-sg	spa	Caja Madrid	np$np-al-m-sg
 	eng	castrated	adj	spa	castrado	adj
-	eng	San Juan	np-al-sg$	spa	San Juan	np-al$np-al-m-sg
+	eng	San Juan	np-al-sg	spa	San Juan	np-al-m-sg
 	eng	San Pedro	np-al-sg	spa	San Pedro	np-al-m-sg
 	eng	Orsa	np-al-sg	spa	Orsa	np-al-m-sg
 	eng	Ambilamp	np-al-sg	spa	Ambilamp	np-al-m-sg
@@ -599,7 +599,7 @@ RL	eng	full-time	n	spa	dedicación plena	n-f
 	eng	Zarautz Inmob. Orio	np-al-sg	spa	Zarautz Inmob. Orio	np$np-al-m-sg
 	eng	best skipper	n	spa	mejor patrón	n-m
 	eng	Reta	np-al-sg	spa	Reta	np-al-m-sg
-	eng	Endesa	np-al$np-al-sg	spa	Endesa	np$np-al-m-sg
+	eng	Endesa	np-al$np-al-sg	spa	Endesa	np$np-al$np-al-m-sg
 	eng	Euskolabel	np-al-sg	spa	Euskolabel	np$np-al-m-sg
 	eng	Day of Rural Sports	np-al-sg	spa	Erriko Kirolak Eguna	np-al-m-sg
 	eng	berria.info	np-al-sg	spa	berria.info	np-al-m-sg
@@ -672,11 +672,11 @@ RL	eng	High Court of Justice of the Basque Country	np-al-sg	spa	Tribunal Superio
 	eng	AlhóndigaBilbao	np-al-sg	spa	AlhóndigaBilbao	np-al-m-sg
 	eng	Alhóndiga	np-al-sg	spa	Alhóndiga	np-al-m-sg
 	eng	Tecnalia	np-al-sg	spa	Tecnalia	np-al$np-al-m-sg
-	eng	Real Sociedad	np-al-sg	spa	Real Sociedad	np$np-al$np-al-m-sg
+	eng	Real Sociedad	np-al-sg	spa	Real Sociedad	np$np-al-m-sg
 	eng	Aiko Taldea	np-al-sg	spa	Aiko Taldea	np-al-m-sg
 	eng	Tour	np-al-sg	spa	Tour	np-al-m-sg
 	eng	Generalitat	np-al-sg$np-al	spa	Generalitat	np-al$np$np-al-m-sg
-	eng	Government of Catalonia	np-al-sg	spa	Generalitat de Catalunya	np$np-al$np-al-m-sg
+	eng	Government of Catalonia	np-al-sg	spa	Generalitat de Catalunya	np$np-al-m-sg
 RL	eng	Basque Government	np-al-sg	spa	Eusko Jaurlaritza	np$np-al-m-sg
 	eng	Basque Government	np-al-sg	spa	Gobierno Vasco	np-al-m-sg
 	eng	Aiko	np-al-sg	spa	Aiko	np-al-m-sg
@@ -731,8 +731,8 @@ RL	eng	Basque Government	np-al-sg	spa	Eusko Jaurlaritza	np$np-al-m-sg
 RL	eng	media	n-pl	spa	medio	n-m-pl
 RL	eng	media	n-pl	spa	medio	n$n-m$n-m-sg
 	eng	mass media	n-pl	spa	medio	n-m-pl
-LR	eng	mass media	n-sg$n	spa	medio	n-m-pl
-RL	eng	mass media	n-sg$n	spa	medio	n$n-m$n-m-sg
+LR	eng	mass media	n-sg	spa	medio	n-m-pl
+RL	eng	mass media	n-sg	spa	medio	n$n-m$n-m-sg
 	eng	news media	n$n-pl	spa	medio informativo	n-m-pl
 LR	eng	news media	n-sg	spa	medio informativo	n-m-pl
 RL	eng	news media	n-sg	spa	medio informativo	n-m-sg
@@ -741,7 +741,7 @@ RL	eng	news media	n-sg	spa	medio informativo	n-m-sg
 	eng	Zumárraga	np-loc	spa	Zumárraga	np-loc-m
 	eng	Ategorrieta	np-loc	spa	Ategorrieta	np-loc-m
 	eng	Valdebebas	np-loc	spa	Valdebebas	np-loc-m
-	eng	Côte d'Azur	np-loc	spa	Costa Azul	np$np-loc$np-loc-m
+	eng	Côte d'Azur	np-loc	spa	Costa Azul	np$np-loc-m
 	eng	Costa Blanca	np$np-loc	spa	Costa Blanca	np$np-loc-m
 	eng	Costa Brava	np$np-loc	spa	Costa Brava	np$np-loc-m
 	eng	Costa del Sol	np$np-loc	spa	Costa del Sol	np$np-loc-m
@@ -824,7 +824,7 @@ RL	eng	pardon	n$n-ND	spa	medida	n-f$n$n-f-sg
 	eng	warm	vblex	spa	caer	vblex
 	eng	on account of	pr	spa	en gracia a	pr
 	eng	acclimatise	vblex	spa	aclimatarse	vblex-pron
-LR	eng	inshore fishing	n$n-sg	spa	pesca	n-f$n$n-f-sg
+LR	eng	inshore fishing	n	spa	pesca	n-f$n$n-f-sg
 	eng	whole salary	n	spa	sueldo íntegro	n-m
 	eng	full sentence	n	spa	pena íntegra	n-f
 	eng	unabridged version	n	spa	versión íntegra	n-f
@@ -951,7 +951,7 @@ RL	eng	take	vblex$vblex-sep	spa	volver	vblex$vblex-pron
 	eng	go	vblex$vblex-ger	spa	ponerse	vblex-pron
 	eng	man	n$n-ND	spa	hombre	n-m$n$n-m-sg$
 	eng	woman	n$n-ND	spa	mujer	n$n-f$n-f-sg
-	eng	person	n$n-pl	spa	persona	n-f$n$n-f-sg
+	eng	person	n$n-pl	spa	persona	n$n-f$n-f-sg
 	eng	action film	n	spa	película	n-f$n$n-f-sg
 LR	eng	action movie	n	spa	película	n-f$n$n-f-sg
 	eng	direct action	n	spa	acción directa	n-f
@@ -2593,7 +2593,7 @@ LR	eng	Ifigenia	np-ant$np$np-ant-f-sg	spa	Ifigenia	np-ant$np
 	eng	Sanjida	np-ant$np$np-ant-f-sg	spa	Sanjida	np-ant
 	eng	Xulia	np-ant$np$np-ant-f-sg	spa	Xulia	np-ant
 	eng	Rexina	np-ant$np$np-ant-f-sg	spa	Rexina	np-ant
-	eng	Miley	np-ant$np$np-ant-f-sg	spa	Miley	np-ant
+	eng	Miley	np-ant$np$np-ant-f-sg	spa	Miley	np$np-ant
 	eng	Barbie	np-ant$np$np-ant-f-sg	spa	Barbie	np-ant
 	eng	Demi	np-ant$np$np-ant-f-sg	spa	Demi	np$np-ant
 	eng	Abraám	np-ant$np-ant-m-sg	spa	Abraám	np-ant
@@ -2656,11 +2656,11 @@ LR	eng	Ifigenia	np-ant$np$np-ant-f-sg	spa	Ifigenia	np-ant$np
 	eng	Odalis	np-ant$np-ant-m-sg	spa	Odalis	np-ant
 	eng	Pancho	np-ant$np-ant-m-sg	spa	Pancho	np-ant
 	eng	Paquito	np-ant$np-ant-m-sg	spa	Paquito	np-ant
-	eng	Pepito	np-ant$np-ant-m-sg	spa	Pepito	np-ant
+	eng	Pepito	np-ant$np-ant-m-sg	spa	Pepito	np$np-ant
 	eng	Quique	np-ant$np-ant-m-sg	spa	Quique	np$np-ant
 	eng	Raimundo	np-ant$np-ant-m-sg	spa	Raimundo	np$np-ant
 	eng	Rainerio	np-ant$np-ant-m-sg	spa	Rainerio	np-ant
-	eng	Abella	np-ant$$np$np-ant-f-sg	spa	Abella	np-ant
+	eng	Abella	np-ant$$np$np-ant-f-sg	spa	Abella	np$np-ant
 	eng	Adelita	np-ant$np-ant-f-sg	spa	Adelita	np-ant
 	eng	Adelmira	np-ant$np$np-ant-f-sg	spa	Adelmira	np-ant
 	eng	Adoncia	np-ant$np-ant-f-sg	spa	Adoncia	np-ant
@@ -2671,7 +2671,7 @@ LR	eng	Ifigenia	np-ant$np$np-ant-f-sg	spa	Ifigenia	np-ant$np
 	eng	Aldonza	np-ant$np-ant-f-sg	spa	Aldonza	np-ant
 	eng	Aleta	np-ant$np-ant-f-sg	spa	Aleta	np-ant
 	eng	Alita	np-ant$np-ant-f-sg	spa	Alita	np-ant
-	eng	Alta	np-ant$np-ant-f-sg	spa	Alta	np-ant
+	eng	Alta	np-ant$np-ant-f-sg	spa	Alta	np$np-ant
 	eng	Amada	np-ant$np-ant-f-sg	spa	Amada	np-ant
 	eng	Angélica	np-ant$np-ant-f-sg	spa	Angélica	np$np-ant$np-ant-f-sg
 	eng	Ángelita	np-ant$np-ant-f-sg	spa	Ángelita	np-ant
@@ -3952,7 +3952,7 @@ LR	eng	Lancelot of the Lake	np-ant$np-ant-m-sg	spa	Lanzarote del Lago	np-ant
 	eng	Moustapha	np-ant$np-ant-m-sg	spa	Moustapha	np-ant$np
 	eng	Óscar	np-ant$np-ant-m-sg	spa	Óscar	np$np-ant$np-ant-m-sg
 	eng	Piter	np-ant$np-ant-m-sg	spa	Piter	np$np-ant
-	eng	Ramón	np-ant$np$np-ant-m-sg	spa	Ramón	np$np-ant$np-ant-m-sg
+	eng	Ramón	np-ant$np-ant-m-sg$np	spa	Ramón	np$np-ant$np-ant-m-sg
 	eng	Raphaël	np-ant$np-ant-m-sg	spa	Raphaël	np$np-ant
 	eng	Rasputin	np-ant$$np	spa	Rasputín	np$np-ant
 	eng	René	np-ant$np-ant-m-sg$np	spa	René	np$np-ant
@@ -4016,86 +4016,86 @@ LR	eng	Lancelot of the Lake	np-ant$np-ant-m-sg	spa	Lanzarote del Lago	np-ant
 	eng	Joxe	np-ant$np-ant-m-sg$	spa	Joxe	np$np-ant
 	eng	Jurgi	np-ant$np-ant-m-sg	spa	Jurgi	np$np-ant
 	eng	Koldo	np-ant$np-ant-m-sg	spa	Koldo	np$np-ant
-	eng	Joana Ortega i Alemany	np-ant$np-ant-f-sg	spa	Joana Ortega i Alemany	np-ant
-	eng	Irene Rigau i Oliver	np-ant$np-ant-f-sg	spa	Irene Rigau i Oliver	np-ant
-	eng	Pilar Fernández i Bozal	np-ant$np-ant-f-sg	spa	Pilar Fernández i Bozal	np-ant
-	eng	Boi Ruiz i Garcia	np-ant$np-ant-m-sg	spa	Boi Ruiz i Garcia	np-ant
-	eng	Felip Puig i Godes	np-ant$np-ant-m-sg	spa	Felip Puig i Godes	np-ant
-	eng	Ferran Mascarell i Canalda	np-ant$np-ant-m-sg	spa	Ferran Mascarell i Canalda	np-ant
-	eng	Josep Lluís Cleries i Gonzàlez	np-ant$np-ant-m-sg	spa	Josep Lluís Cleries i Gonzàlez	np-ant
-	eng	Josep Maria Pelegrí i Aixut	np-ant$np-ant-m-sg	spa	Josep Maria Pelegrí i Aixut	np-ant
-	eng	Lluís Recoder i Miralles	np-ant$np-ant-m-sg	spa	Lluís Recoder i Miralles	np-ant
-	eng	Carolyne Mas	np-ant$np-ant-f-sg	spa	Carolyne Mas	np-ant
-	eng	Jeanne Mas	np-ant$np-ant-f-sg	spa	Jeanne Mas	np-ant
-	eng	Doris Grau	np-ant$np-ant-f-sg	spa	Doris Grau	np-ant
-	eng	Shirley Ann Grau	np-ant$np-ant-f-sg	spa	Shirley Ann Grau	np-ant
-	eng	Rosaura Andreu	np-ant$np-ant-f-sg	spa	Rosaura Andreu	np-ant
-	eng	Albin Grau	np-ant$np-ant-m-sg	spa	Albin Grau	np-ant
-	eng	Alejandro Bofill Mas	np-ant$np-ant-m-sg	spa	Alejandro Bofill Mas	np-ant
-	eng	Alphonse Mas	np-ant$np-ant-m-sg	spa	Alphonse Mas	np-ant
-	eng	Andreu Fontàs	np-ant$np-ant-m-sg	spa	Andreu Fontàs	np-ant
-	eng	Andreu Mas-Colell	np-ant$np-ant-m-sg	spa	Andreu Mas-Colell	np-ant
-	eng	Andreu Nin	np-ant$np-ant-m-sg	spa	Andreu Nin	np-ant
-	eng	André Boyer-Mas	np-ant$np-ant-m-sg	spa	André Boyer-Mas	np-ant
-	eng	Anna Genover-Mas	np-ant$np-ant-f-sg	spa	Anna Genover-Mas	np-ant
-	eng	Antoni Colom Mas	np-ant$np-ant-m-sg	spa	Antoni Colom Mas	np-ant
-	eng	Antoni Mas Fornés	np-ant$np-ant-m-sg	spa	Antoni Mas Fornés	np-ant
-	eng	Antoni Mas i Borràs	np-ant$np-ant-m-sg	spa	Antoni Mas i Borràs	np-ant
-	eng	Arcadi Mas i Fontdevila	np-ant$np-ant-m-sg	spa	Arcadi Mas i Fontdevila	np-ant
-	eng	Artur Mas i Gavarró	np-ant$np-ant-m-sg	spa	Artur Mas i Gavarró	np-ant
-	eng	Bernat Mas	np-ant$np-ant-m-sg	spa	Bernat Mas	np-ant
-	eng	Carlos Mas Samora	np-ant$np-ant-m-sg	spa	Carlos Mas Samora	np-ant
-	eng	Enrique Grau	np-ant$np-ant-m-sg	spa	Enrique Grau	np-ant
-	eng	Fernando Andreu	np-ant$np-ant-m-sg	spa	Fernando Andreu	np-ant
-	eng	Francesc Joan Mas	np-ant$np-ant-m-sg	spa	Francesc Joan Mas	np-ant
-	eng	Francesc Mas i Ros	np-ant$np-ant-m-sg	spa	Francesc Mas i Ros	np-ant
-	eng	Francis Mas	np-ant$np-ant-m-sg	spa	Francis Mas	np-ant
-	eng	Frankie Andreu	np-ant$np-ant-m-sg	spa	Frankie Andreu	np-ant
-	eng	Gabriel Mas Arbona	np-ant$np-ant-m-sg	spa	Gabriel Mas Arbona	np-ant
-	eng	Guillem Mas	np-ant$np-ant-m-sg	spa	Guillem Mas	np-ant
-	eng	Hugo Grau	np-ant$np-ant-m-sg	spa	Hugo Grau	np-ant
-	eng	Jaume Mas	np-ant$np-ant-m-sg	spa	Jaume Mas	np-ant
-	eng	Jean-Baptiste Charles Mas de Polart	np-ant$np-ant-m-sg	spa	Jean-Baptiste Charles Mas de Polart	np-ant
-	eng	Joan Carretero i Grau	np-ant$np-ant-m-sg	spa	Joan Carretero i Grau	np-ant
-	eng	Joan Mas	np-ant$np-ant-m-sg	spa	Joan Mas	np-ant
-	eng	Joan Mas i Bauzà	np-ant$np-ant-m-sg	spa	Joan Mas i Bauzà	np-ant
-	eng	Joan Mas i Cantí	np-ant$np-ant-m-sg	spa	Joan Mas i Cantí	np-ant
-	eng	Joan Mas i Ramon	np-ant$np-ant-m-sg	spa	Joan Mas i Ramon	np-ant
-	eng	Joan Mas i Vives	np-ant$np-ant-m-sg	spa	Joan Mas i Vives	np-ant
-	eng	Jorge Mas Canosa	np-ant$np-ant-m-sg	spa	Jorge Mas Canosa	np-ant
-	eng	Josep Moragues i Mas	np-ant$np-ant-m-sg	spa	Josep Moragues i Mas	np-ant
-	eng	Josep Vicenç Foix i Mas	np-ant$np-ant-m-sg	spa	Josep Vicenç Foix i Mas	np-ant
-	eng	Juan Alberto Andreu	np-ant$np-ant-m-sg	spa	Juan Alberto Andreu	np-ant
-	eng	Juan Vicente Mas Quiles	np-ant$np-ant-m-sg	spa	Juan Vicente Mas Quiles	np-ant
-	eng	Lluís Mas i Borràs	np-ant$np-ant-m-sg	spa	Lluís Mas i Borràs	np-ant
-	eng	Lluís Mas i Ossó	np-ant$np-ant-m-sg	spa	Lluís Mas i Ossó	np-ant
-	eng	Lluís Mas i Pons	np-ant$np-ant-m-sg	spa	Lluís Mas i Pons	np-ant
-	eng	Lorenzo Batlle y Grau	np-ant$np-ant-m-sg	spa	Lorenzo Batlle y Grau	np-ant
-	eng	Manuel Mas Ribó	np-ant$np-ant-m-sg	spa	Manuel Mas Ribó	np-ant
-	eng	Marc Andreu	np-ant$np-ant-m-sg	spa	Marc Andreu	np-ant
-	eng	Mariano Andreu	np-ant$np-ant-m-sg	spa	Mariano Andreu	np-ant
-	eng	Miguel Grau Seminario	np-ant$np-ant-m-sg	spa	Miguel Grau Seminario	np-ant
-	eng	Miguel Mas	np-ant$np-ant-m-sg	spa	Miguel Mas	np-ant
-	eng	Miquel Mas Ferrà	np-ant$np-ant-m-sg	spa	Miquel Mas Ferrà	np-ant
-	eng	Miquel Mas Gayà	np-ant$np-ant-m-sg	spa	Miquel Mas Gayà	np-ant
-	eng	Nicolas Mas	np-ant$np-ant-m-sg	spa	Nicolas Mas	np-ant
-	eng	Nicolas Mas-Castellane	np-ant$np-ant-m-sg	spa	Nicolas Mas-Castellane	np-ant
-	eng	Oscar Más	np-ant$np-ant-m-sg	spa	Oscar Más	np-ant
-	eng	Paul Andreu	np-ant$np-ant-m-sg	spa	Paul Andreu	np-ant
-	eng	Pedro Andreu	np-ant$np-ant-m-sg	spa	Pedro Andreu	np-ant
-	eng	Pere Sampol Mas	np-ant$np-ant-m-sg	spa	Pere Sampol Mas	np-ant
+	eng	Joana Ortega i Alemany	np-ant	spa	Joana Ortega i Alemany	np-ant
+	eng	Irene Rigau i Oliver	np-ant	spa	Irene Rigau i Oliver	np-ant
+	eng	Pilar Fernández i Bozal	np-ant	spa	Pilar Fernández i Bozal	np-ant
+	eng	Boi Ruiz i Garcia	np-ant	spa	Boi Ruiz i Garcia	np-ant
+	eng	Felip Puig i Godes	np-ant	spa	Felip Puig i Godes	np-ant
+	eng	Ferran Mascarell i Canalda	np-ant	spa	Ferran Mascarell i Canalda	np-ant
+	eng	Josep Lluís Cleries i Gonzàlez	np-ant	spa	Josep Lluís Cleries i Gonzàlez	np-ant
+	eng	Josep Maria Pelegrí i Aixut	np-ant	spa	Josep Maria Pelegrí i Aixut	np-ant
+	eng	Lluís Recoder i Miralles	np-ant	spa	Lluís Recoder i Miralles	np-ant
+	eng	Carolyne Mas	np-ant	spa	Carolyne Mas	np-ant
+	eng	Jeanne Mas	np-ant	spa	Jeanne Mas	np-ant
+	eng	Doris Grau	np-ant	spa	Doris Grau	np-ant
+	eng	Shirley Ann Grau	np-ant	spa	Shirley Ann Grau	np-ant
+	eng	Rosaura Andreu	np-ant	spa	Rosaura Andreu	np-ant
+	eng	Albin Grau	np-ant	spa	Albin Grau	np-ant
+	eng	Alejandro Bofill Mas	np-ant	spa	Alejandro Bofill Mas	np-ant
+	eng	Alphonse Mas	np-ant	spa	Alphonse Mas	np-ant
+	eng	Andreu Fontàs	np-ant	spa	Andreu Fontàs	np-ant
+	eng	Andreu Mas-Colell	np-ant	spa	Andreu Mas-Colell	np-ant
+	eng	Andreu Nin	np-ant	spa	Andreu Nin	np-ant
+	eng	André Boyer-Mas	np-ant	spa	André Boyer-Mas	np-ant
+	eng	Anna Genover-Mas	np-ant	spa	Anna Genover-Mas	np-ant
+	eng	Antoni Colom Mas	np-ant	spa	Antoni Colom Mas	np-ant
+	eng	Antoni Mas Fornés	np-ant	spa	Antoni Mas Fornés	np-ant
+	eng	Antoni Mas i Borràs	np-ant	spa	Antoni Mas i Borràs	np-ant
+	eng	Arcadi Mas i Fontdevila	np-ant	spa	Arcadi Mas i Fontdevila	np-ant
+	eng	Artur Mas i Gavarró	np-ant	spa	Artur Mas i Gavarró	np-ant
+	eng	Bernat Mas	np-ant	spa	Bernat Mas	np-ant
+	eng	Carlos Mas Samora	np-ant	spa	Carlos Mas Samora	np-ant
+	eng	Enrique Grau	np-ant	spa	Enrique Grau	np-ant
+	eng	Fernando Andreu	np-ant	spa	Fernando Andreu	np-ant
+	eng	Francesc Joan Mas	np-ant	spa	Francesc Joan Mas	np-ant
+	eng	Francesc Mas i Ros	np-ant	spa	Francesc Mas i Ros	np-ant
+	eng	Francis Mas	np-ant	spa	Francis Mas	np-ant
+	eng	Frankie Andreu	np-ant	spa	Frankie Andreu	np-ant
+	eng	Gabriel Mas Arbona	np-ant	spa	Gabriel Mas Arbona	np-ant
+	eng	Guillem Mas	np-ant	spa	Guillem Mas	np-ant
+	eng	Hugo Grau	np-ant	spa	Hugo Grau	np-ant
+	eng	Jaume Mas	np-ant	spa	Jaume Mas	np-ant
+	eng	Jean-Baptiste Charles Mas de Polart	np-ant	spa	Jean-Baptiste Charles Mas de Polart	np-ant
+	eng	Joan Carretero i Grau	np-ant	spa	Joan Carretero i Grau	np-ant
+	eng	Joan Mas	np-ant	spa	Joan Mas	np-ant
+	eng	Joan Mas i Bauzà	np-ant	spa	Joan Mas i Bauzà	np-ant
+	eng	Joan Mas i Cantí	np-ant	spa	Joan Mas i Cantí	np-ant
+	eng	Joan Mas i Ramon	np-ant	spa	Joan Mas i Ramon	np-ant
+	eng	Joan Mas i Vives	np-ant	spa	Joan Mas i Vives	np-ant
+	eng	Jorge Mas Canosa	np-ant	spa	Jorge Mas Canosa	np-ant
+	eng	Josep Moragues i Mas	np-ant	spa	Josep Moragues i Mas	np-ant
+	eng	Josep Vicenç Foix i Mas	np-ant	spa	Josep Vicenç Foix i Mas	np-ant
+	eng	Juan Alberto Andreu	np-ant	spa	Juan Alberto Andreu	np-ant
+	eng	Juan Vicente Mas Quiles	np-ant	spa	Juan Vicente Mas Quiles	np-ant
+	eng	Lluís Mas i Borràs	np-ant	spa	Lluís Mas i Borràs	np-ant
+	eng	Lluís Mas i Ossó	np-ant	spa	Lluís Mas i Ossó	np-ant
+	eng	Lluís Mas i Pons	np-ant	spa	Lluís Mas i Pons	np-ant
+	eng	Lorenzo Batlle y Grau	np-ant	spa	Lorenzo Batlle y Grau	np-ant
+	eng	Manuel Mas Ribó	np-ant	spa	Manuel Mas Ribó	np-ant
+	eng	Marc Andreu	np-ant	spa	Marc Andreu	np-ant
+	eng	Mariano Andreu	np-ant	spa	Mariano Andreu	np-ant
+	eng	Miguel Grau Seminario	np-ant	spa	Miguel Grau Seminario	np-ant
+	eng	Miguel Mas	np-ant	spa	Miguel Mas	np-ant
+	eng	Miquel Mas Ferrà	np-ant	spa	Miquel Mas Ferrà	np-ant
+	eng	Miquel Mas Gayà	np-ant	spa	Miquel Mas Gayà	np-ant
+	eng	Nicolas Mas	np-ant	spa	Nicolas Mas	np-ant
+	eng	Nicolas Mas-Castellane	np-ant	spa	Nicolas Mas-Castellane	np-ant
+	eng	Oscar Más	np-ant	spa	Oscar Más	np-ant
+	eng	Paul Andreu	np-ant	spa	Paul Andreu	np-ant
+	eng	Pedro Andreu	np-ant	spa	Pedro Andreu	np-ant
+	eng	Pere Sampol Mas	np-ant	spa	Pere Sampol Mas	np-ant
 	eng	President Mas	np-ant	spa	President Mas	np-ant
-	eng	Ramón Grau	np-ant$np-ant-m-sg	spa	Ramón Grau	np-ant
-	eng	Raúl Cubas Grau	np-ant$np-ant-m-sg	spa	Raúl Cubas Grau	np-ant
-	eng	Regino Más i Marí	np-ant$np-ant-m-sg	spa	Regino Más i Marí	np-ant
-	eng	Regí Mas i Marí	np-ant$np-ant-m-sg	spa	Regí Mas i Marí	np-ant
-	eng	Roger Mas	np-ant$np-ant-m-sg	spa	Roger Mas	np-ant
-	eng	Salvador Mas i Conde	np-ant$np-ant-m-sg	spa	Salvador Mas i Conde	np-ant
-	eng	Sergi Mas	np-ant$np-ant-m-sg	spa	Sergi Mas	np-ant
-	eng	Sergi Mas y Abad	np-ant$np-ant-m-sg	spa	Sergi Mas y Abad	np-ant
-	eng	Sinibaldo de Mas	np-ant$np-ant-m-sg	spa	Sinibaldo de Mas	np-ant
-	eng	Vicente Grau Juan	np-ant$np-ant-m-sg	spa	Vicente Grau Juan	np-ant
-	eng	Vicente Mas	np-ant$np-ant-m-sg	spa	Vicente Mas	np-ant
+	eng	Ramón Grau	np-ant	spa	Ramón Grau	np-ant
+	eng	Raúl Cubas Grau	np-ant	spa	Raúl Cubas Grau	np-ant
+	eng	Regino Más i Marí	np-ant	spa	Regino Más i Marí	np-ant
+	eng	Regí Mas i Marí	np-ant	spa	Regí Mas i Marí	np-ant
+	eng	Roger Mas	np-ant	spa	Roger Mas	np-ant
+	eng	Salvador Mas i Conde	np-ant	spa	Salvador Mas i Conde	np-ant
+	eng	Sergi Mas	np-ant	spa	Sergi Mas	np-ant
+	eng	Sergi Mas y Abad	np-ant	spa	Sergi Mas y Abad	np-ant
+	eng	Sinibaldo de Mas	np-ant	spa	Sinibaldo de Mas	np-ant
+	eng	Vicente Grau Juan	np-ant	spa	Vicente Grau Juan	np-ant
+	eng	Vicente Mas	np-ant	spa	Vicente Mas	np-ant
 	eng	Marko	np-ant$np-ant-m-sg$np$np-ant-m	spa	Marko	np$np-ant
 	eng	Nicolae	np-ant-m$np-ant$np-ant-m-sg	spa	Nicolae	np-ant
 	eng	Maximo	np-ant$np-ant-m-sg$np	spa	Maximo	np-ant$np
@@ -4129,7 +4129,7 @@ LR	eng	Lancelot of the Lake	np-ant$np-ant-m-sg	spa	Lanzarote del Lago	np-ant
 	eng	Abdías	np-ant$np$np-ant-m-sg	spa	Abdías	np-ant
 	eng	Abdo	np-ant$np-ant-m$$np$np-ant-m-sg	spa	Abdo	np-ant
 	eng	Abdón	np-ant$np-ant-m-sg	spa	Abdón	np$np-ant
-	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg	spa	Abdul	np$np-ant
+	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m	spa	Abdul	np$np-ant
 	eng	Abelardo	np-ant$np$np-ant-m-sg	spa	Abelardo	np$np-ant
 	eng	Abenamar	np-ant$np$np-ant-m-sg	spa	Abenamar	np-ant
 	eng	Aberardo	np-ant$np$np-ant-m-sg	spa	Aberardo	np-ant
@@ -4180,7 +4180,7 @@ LR	eng	Lancelot of the Lake	np-ant$np-ant-m-sg	spa	Lanzarote del Lago	np-ant
 	eng	Ageo	np-ant$np$np-ant-m-sg	spa	Ageo	np-ant
 	eng	Agilberto	np-ant$np$np-ant-m-sg	spa	Agilberto	np-ant
 	eng	Agripino	np-ant$np$np-ant-m-sg	spa	Agripino	np-ant
-	eng	Agustín	np-ant$np$np-ant-m$np-ant-m-sg	spa	Agustín	np$np-ant
+	eng	Agustín	np-ant$np-ant-m-sg$np$np-ant-m	spa	Agustín	np$np-ant
 	eng	Agusttin	np-ant$np$np-ant-m-sg	spa	Agusttin	np-ant
 	eng	Ahmed	np-ant$np$np-ant-m$np-ant-m-sg$	spa	Ahmed	np$np-ant
 	eng	Aicardo	np-ant$np$np-ant-m-sg	spa	Aicardo	np-ant
@@ -4223,7 +4223,7 @@ LR	eng	Lancelot of the Lake	np-ant$np-ant-m-sg	spa	Lanzarote del Lago	np-ant
 	eng	Alesis	np-ant$np$np-ant-m-sg	spa	Alesis	np-ant
 	eng	Alessandro	np-ant$np-ant-m$np-ant-m-sg$np	spa	Alessandro	np-ant$np
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	spa	Alex	np$np-ant$np-ant-m-sg
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	spa	Alexander	np$np-ant
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	spa	Alexander	np$np-ant
 	eng	Alexandros	np-ant$np-ant-m$np-ant-m-sg$np	spa	Alexandros	np$np-ant
 	eng	Alexio	np-ant$np$np-ant-m-sg	spa	Alexio	np-ant
 	eng	Alexis	np-ant$np$np-ant-m$np-ant-m-sg	spa	Alexis	np$np-ant$np-ant-f-sg
@@ -4573,7 +4573,7 @@ LR	eng	Lancelot of the Lake	np-ant$np-ant-m-sg	spa	Lanzarote del Lago	np-ant
 	eng	Claro	np-ant$np$np-ant-m-sg	spa	Claro	np-ant
 	eng	Claudiano	np-ant$np$np-ant-m-sg	spa	Claudiano	np-ant
 	eng	Claudino	np-ant$np$np-ant-m-sg	spa	Claudino	np-ant
-	eng	Claudio	np-ant$np-ant-m$np-ant-m-sg$np	spa	Claudio	np$np-ant
+	eng	Claudio	np-ant$np-ant-m$np-ant-m-sg$np	spa	Claudio	np-ant$np
 	eng	Claus	np-ant$np-ant-m-sg$np$np-ant-m	spa	Claus	np$np-ant
 	eng	Clemencio	np-ant$np$np-ant-m-sg	spa	Clemencio	np-ant
 	eng	Clemente	np-ant$np-ant-m-sg$np$np-ant-m	spa	Clemente	np$np-ant
@@ -4960,7 +4960,7 @@ LR	eng	Qu'ran	np-al$np-al-sg	spa	Corán	np-al-m$np
 	eng	Fulivio	np-ant$np$np-ant-m-sg	spa	Fulivio	np-ant
 	eng	Gabelo	np-ant$np$np-ant-m-sg	spa	Gabelo	np-ant
 	eng	Gabino	np-ant$np$np-ant-m-sg	spa	Gabino	np$np-ant
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	spa	Gabriel	np$np-ant$np-ant-m-sg
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	spa	Gabriel	np$np-ant$np-ant-m-sg
 	eng	Gadiel	np-ant$np$np-ant-m-sg	spa	Gadiel	np-ant
 	eng	Gaetano	np-ant$np-ant-m$np-ant-m-sg$np	spa	Gaetano	np-ant
 	eng	Galdano	np-ant$np$np-ant-m-sg	spa	Galdano	np-ant
@@ -5172,7 +5172,7 @@ LR	eng	Horocio	np-ant	spa	Horocio	np-ant
 	eng	Ittaly	np-ant$np$np-ant-m-sg	spa	Ittaly	np-ant
 	eng	Itter	np-ant$np$np-ant-m-sg	spa	Itter	np-ant
 	eng	Itziar	np-ant$np-ant-f-sg	spa	Itziar	np$np-ant
-	eng	Ainhoa Arteta	np-ant$np-ant-f-sg	spa	Ainhoa Arteta	np$np-ant
+	eng	Ainhoa Arteta	np-ant	spa	Ainhoa Arteta	np$np-ant
 	eng	Ivan	np-ant$np-ant-m$np-ant-m-sg$np	spa	Ivan	np$np-ant$np-ant-m
 	eng	Ives	np-ant$np$np-ant-m-sg	spa	Ives	np-ant
 	eng	Ivo	np-ant$np-ant-m$np$np-ant-m-sg	spa	Ivo	np$np-ant
@@ -5191,7 +5191,7 @@ LR	eng	Horocio	np-ant	spa	Horocio	np-ant
 	eng	Jalil	np-ant$np$np-ant-m-sg$np-ant-m	spa	Jalil	np-ant
 	eng	James	np-ant$np$np-ant-m$np-ant-m-sg$	spa	James	np$np-ant$np-ant-m
 	eng	Jamil	np-ant$np$np-ant-m-sg	spa	Jamil	np-ant
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	spa	Jan	np$np-ant
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	spa	Jan	np$np-ant
 	eng	Jano	np-ant$np$np-ant-m-sg	spa	Jano	np$np-ant
 	eng	Jason	np-ant$np-ant-m$np-ant-m-sg$np	spa	Jason	np$np-ant
 	eng	Javier	np-ant$np$np-ant-m$np-ant-m-sg	spa	Javier	np$np-ant$np-ant-m-sg
@@ -5206,7 +5206,7 @@ LR	eng	Horocio	np-ant	spa	Horocio	np-ant
 	eng	Jimeno	np-ant$$np$np-ant-m-sg	spa	Jimeno	np-ant
 	eng	Jimy	np-ant$np$np-ant-m-sg	spa	Jimy	np-ant
 	eng	Joab	np-ant$np$np-ant-m$np-ant-m-sg	spa	Joab	np-ant
-	eng	Joan	np-ant$np$np-ant-m-sg	spa	Joan	np$np-ant
+	eng	Joan	np-ant$np-ant-m-sg$np	spa	Joan	np$np-ant
 	eng	Joaquin	np-ant$np-ant-m-sg$np$np-ant-m	spa	Joaquin	np$np-ant
 	eng	Joav	np-ant$np$np-ant-m-sg	spa	Joav	np-ant
 	eng	Job	np-ant$np$np-ant-m-sg	spa	Job	np$np-ant
@@ -5239,7 +5239,7 @@ LR	eng	Horocio	np-ant	spa	Horocio	np-ant
 	eng	Joviano	np-ant$np$np-ant-m-sg	spa	Joviano	np-ant
 	eng	Jovino	np-ant$np$np-ant-m-sg	spa	Jovino	np$np-ant
 	eng	Jovito	np-ant$np$np-ant-m-sg	spa	Jovito	np-ant
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg
 	eng	Juan Carlos	np-ant$np$np-ant-m-sg	spa	Juan Carlos	np$np-ant
 	eng	Juan Cruz	np-ant$np$np-ant-m-sg	spa	Juan Cruz	np-ant
 LR	eng	Juan de Dios	np-ant$np$np-ant-m-sg	spa	Juan de Dios	np-ant
@@ -5247,21 +5247,21 @@ LR	eng	Juan de Dios	np-ant$np$np-ant-m-sg	spa	Juan de Dios	np-ant
 	eng	John of Matha	np-ant$np-ant-m-sg	spa	Juan de Mata	np-ant
 	eng	John the Baptist	np-ant$np-ant-m$np-ant-m-sg	spa	Juan el Bautista	np-ant
 	eng	Ignatius of Antioch	np-ant$np-ant-m-sg	spa	Ignacio de Antioquía	np-ant
-	eng	William Tell	np-ant$np-ant-m-sg	spa	Guillermo Tell	np$np-ant
-	eng	Agustín Díaz de Mera García Consuegra	np-ant$np-ant-m-sg	spa	Agustín Díaz de Mera García Consuegra	np-ant
+	eng	William Tell	np-ant	spa	Guillermo Tell	np$np-ant
+	eng	Agustín Díaz de Mera García Consuegra	np-ant	spa	Agustín Díaz de Mera García Consuegra	np-ant
 	eng	Arūnas	np	spa	Arūnas	np
 	eng	Jerzy	np-ant-m-sg$np	spa	Jerzy	np
 	eng	Ján	np$np-ant-m-sg	spa	Ján	np
 	eng	Bairbre	np$np-ant-f-sg	spa	Bairbre	np
-	eng	Mary Lou	np$np-ant-f-sg	spa	Mary Lou	np
+	eng	Mary Lou	np	spa	Mary Lou	np
 	eng	Eva-Britt	np$np-ant-f-sg	spa	Eva-Britt	np
-	eng	Alexander Lukashenko	np-ant-m-sg$np	spa	Aleksandr Lukashenko	np
-	eng	Alexander Grigoryevich Lukashenko	np-ant-m-sg$np	spa	Aleksandr Grigórievich Lukashenko	np
+	eng	Alexander Lukashenko	np	spa	Aleksandr Lukashenko	np
+	eng	Alexander Grigoryevich Lukashenko	np	spa	Aleksandr Grigórievich Lukashenko	np
 	eng	Ghost of Christmas Past	np-ant	spa	Espectro de la Navidad Pasada	np-ant
 	eng	Ghost of Christmas Present	np-ant	spa	Espectro de la Navidad Presente	np-ant
 	eng	Ghost of Christmas Yet To Come	np-ant	spa	Espectro de la Navidad venidera	np-ant
 	eng	Juan Diego de Guadalupe	np-ant$np-ant-m-sg	spa	Juan Diego de Guadalupe	np-ant
-	eng	Juan María	np-ant$np$np-ant-m-sg	spa	Juan María	np-ant
+	eng	Juan María	np-ant$np	spa	Juan María	np-ant
 	eng	Juanse	np-ant$np$np-ant-m-sg	spa	Juanse	np-ant
 	eng	Jubal	np-ant$np$np-ant-m-sg	spa	Jubal	np-ant
 	eng	Judas	np-ant$np$np-ant-m-sg	spa	Judas	np-ant$np
@@ -5284,7 +5284,7 @@ LR	eng	Juan de Dios	np-ant$np$np-ant-m-sg	spa	Juan de Dios	np-ant
 	eng	Karim	np-ant$np-ant-m$np$np-ant-m-sg$	spa	Karim	np-ant$np
 	eng	Karol	np-ant$np$np-ant-m-sg	spa	Karol	np-ant$np
 	eng	Kasuhiro	np-ant$np$np-ant-m-sg	spa	Kasuhiro	np-ant
-	eng	Ken	np-ant$np$np-ant-m$np-ant-m-sg	spa	Ken	np$np-ant
+	eng	Ken	np-ant$np$np-ant-m-sg$np-ant-m	spa	Ken	np$np-ant
 	eng	Kenji	np-ant$np$np-ant-m-sg	spa	Kenji	np-ant
 	eng	Kenneth	np-ant$np-ant-m-sg$np$np-ant-m	spa	Kenneth	np$np-ant
 	eng	Kenyi	np-ant$np$np-ant-m-sg	spa	Kenyi	np-ant
@@ -5468,8 +5468,8 @@ LR	eng	Mahoma	np-ant$np$np-ant-m-sg	spa	Mahoma	np$np-ant
 	eng	Micaías	np-ant$np$np-ant-m-sg	spa	Micaías	np-ant
 	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$	spa	Michael	np$np-ant
 	eng	Michel	np-ant$np$np-ant-m$np-ant-m-sg$	spa	Michel	np$np-ant
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	spa	Miguel	np$np-ant$np-ant-m$np-ant-m-sg
-	eng	Miguel de los Santos	np-ant$np$np-ant-m-sg	spa	Miguel de los Santos	np-ant
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	spa	Miguel	np$np-ant$np-ant-m$np-ant-m-sg
+	eng	Miguel de los Santos	np-ant$np	spa	Miguel de los Santos	np-ant
 	eng	Mikhail	np-ant$np-ant-m-sg$$np$np-ant-m	spa	Mikhail	np-ant
 	eng	Milad	np-ant$np-ant-m-sg$np	spa	Milad	np-ant
 	eng	Miltiades	np-ant$np-ant-m-sg	spa	Milcíades	np-ant
@@ -5550,7 +5550,7 @@ LR	eng	Mahoma	np-ant$np$np-ant-m-sg	spa	Mahoma	np$np-ant
 	eng	Niel	np-ant$np$np-ant-m-sg	spa	Niel	np-ant
 	eng	Nilo	np-ant$np$np-ant-m-sg	spa	Nilo	np$np-ant
 	eng	Ninfa	np-ant$np$np-ant-m-sg	spa	Ninfa	np-ant
-	eng	Nino	np-ant$np-ant-m-sg$np-ant-m$np	spa	Nino	np$np-ant
+	eng	Nino	np-ant$np-ant-m-sg$np-ant-m$np	spa	Nino	np-ant$np
 	eng	Nir	np-ant$np$np-ant-m-sg	spa	Nir	np-ant
 	eng	Nisim	np-ant$np$np-ant-m-sg	spa	Nisim	np-ant
 	eng	Noaldo	np-ant$np$np-ant-m-sg	spa	Noaldo	np-ant
@@ -5746,7 +5746,7 @@ LR	eng	Plinio	np-ant$np$np-ant-m$np-ant-m-sg	spa	Plinio	np-ant$np
 	eng	Santiago	np-ant$np$np-ant-m-sg$$np-ant-m	spa	Santiago	np$np-ant$np-ant-m$np-ant-m-sg
 	eng	Santín	np-ant$$np$np-ant-m-sg	spa	Santín	np$np-ant
 	eng	Santino	np-ant$np-ant-m$np-ant-m-sg$np	spa	Santino	np-ant
-	eng	Santo	np-ant$np-ant-m-sg$$np	spa	Santo	np-ant
+	eng	Santo	np-ant$np-ant-m-sg$$np	spa	Santo	np$np-ant
 	eng	Santos	np-ant$np-ant-m$np$np-ant-m-sg	spa	Santos	np$np-ant
 	eng	Saro	np-ant$np$np-ant-m$np-ant-m-sg	spa	Saro	np-ant
 	eng	Sartino	np-ant$np$np-ant-m-sg	spa	Sartino	np-ant
@@ -5800,7 +5800,7 @@ LR	eng	Plinio	np-ant$np$np-ant-m$np-ant-m-sg	spa	Plinio	np-ant$np
 	eng	Sinesio	np-ant$np$np-ant-m-sg	spa	Sinesio	np-ant
 	eng	Sinforiano	np-ant$np$np-ant-m-sg	spa	Sinforiano	np-ant
 	eng	Sinforoso	np-ant$np$np-ant-m-sg	spa	Sinforoso	np-ant
-	eng	Sinibaldo	np-ant$np$np-ant-m-sg	spa	Sinibaldo	np-ant
+	eng	Sinibaldo	np-ant$np-ant-m-sg$np	spa	Sinibaldo	np-ant
 	eng	Sinuhé	np-ant$np$np-ant-m-sg	spa	Sinuhé	np-ant
 	eng	Sión	np-ant$np-ant-m-sg	spa	Sión	np-ant
 	eng	Siro	np-ant$np-ant-m-sg$np$np-ant-m	spa	Siro	np$np-ant
@@ -5967,7 +5967,7 @@ LR	eng	Ptolemey	np-ant$$np-ant-m-sg	spa	Tolomeo	np-ant$np
 	eng	Wifredo	np-ant$np$np-ant-m-sg	spa	Wifredo	np$np-ant
 	eng	Wilfredo	np-ant$np$np-ant-m-sg	spa	Wilfredo	np-ant
 	eng	Wilfrido	np-ant$np$np-ant-m-sg	spa	Wilfrido	np-ant
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	spa	William	np$np-ant$np-ant-m
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	spa	William	np$np-ant$np-ant-m
 	eng	Williams	np-ant$np$np-ant-m$np-ant-m-sg$	spa	Williams	np$np-ant
 	eng	Willinton	np-ant$np$np-ant-m-sg	spa	Willinton	np-ant
 	eng	Wilson	np-ant$np$np-ant-m-sg$np-ant-m$	spa	Wilson	np$np-ant
@@ -6241,7 +6241,7 @@ LR	eng	Ptolemey	np-ant$$np-ant-m-sg	spa	Tolomeo	np-ant$np
 	eng	Carlina	np-ant$np$np-ant-f-sg	spa	Carlina	np-ant
 	eng	Carlota	np-ant$np$np-ant-f-sg	spa	Carlota	np$np-ant
 	eng	Carmela	np-ant$np-ant-f-sg$np	spa	Carmela	np$np-ant
-	eng	Carmen	np-ant$np-ant-f-sg$np	spa	Carmen	np$np-ant$np-ant-f-sg
+	eng	Carmen	np-ant$np-ant-f-sg$np	spa	Carmen	np-ant$np$np-ant-f-sg
 	eng	Carmina	np-ant$np$np-ant-f-sg	spa	Carmina	np-ant
 	eng	Cármine	np-ant$np$np-ant-f-sg	spa	Cármine	np-ant
 	eng	Carminia	np-ant$np$np-ant-f-sg	spa	Carminia	np-ant
@@ -6732,7 +6732,7 @@ LR	eng	Ptolemey	np-ant$$np-ant-m-sg	spa	Tolomeo	np-ant$np
 	eng	Jidit	np-ant$np$np-ant-f-sg	spa	Jidit	np-ant
 	eng	Jidith	np-ant$np$np-ant-f-sg	spa	Jidith	np-ant
 	eng	Jimena	np-ant$np$np-ant-f-sg	spa	Jimena	np-ant$np-ant-f-sg
-	eng	Joana	np-ant$np-ant-f$np$np-ant-f-sg	spa	Joana	np$np-ant
+	eng	Joana	np-ant$np-ant-f$np-ant-f-sg$np	spa	Joana	np$np-ant
 	eng	Joaquina	np-ant$np$np-ant-f-sg	spa	Joaquina	np-ant
 	eng	Jobanela	np-ant$np$np-ant-f-sg	spa	Jobanela	np-ant
 	eng	Johana	np-ant$np-ant-f-sg$np	spa	Johana	np-ant
@@ -6856,7 +6856,7 @@ LR	eng	Ptolemey	np-ant$$np-ant-m-sg	spa	Tolomeo	np-ant$np
 	eng	Libel	np-ant$np$np-ant-f-sg	spa	Libel	np-ant
 	eng	Liberia	np-ant$np-ant-f-sg	spa	Liberia	np-ant
 	eng	Liberta	np-ant$np$np-ant-f-sg	spa	Liberta	np-ant
-	eng	Libertad	np-ant$np$np-ant-f-sg	spa	Libertad	np-ant
+	eng	Libertad	np-ant$np$np-ant-f-sg	spa	Libertad	np-ant$np
 	eng	Libia	np-ant$np$np-ant-f-sg	spa	Libia	np-ant
 	eng	Liboria	np-ant$np$np-ant-f-sg	spa	Liboria	np-ant
 	eng	Librada	np-ant$np$np-ant-f-sg	spa	Librada	np-ant
@@ -7163,7 +7163,7 @@ LR	eng	Ptolemey	np-ant$$np-ant-m-sg	spa	Tolomeo	np-ant$np
 	eng	Pía	np-ant$np$np-ant-f-sg	spa	Pía	np-ant
 	eng	Piedad	np-ant$np$np-ant-f-sg	spa	Piedad	np-ant
 	eng	Pierina	np-ant$np$np-ant-f-sg	spa	Pierina	np-ant
-	eng	Pilar	np-ant$np$np-ant-f-sg	spa	Pilar	np$np-ant
+	eng	Pilar	np-ant$np-ant-f-sg$np	spa	Pilar	np$np-ant
 	eng	Pilmaiquen	np-ant$np$np-ant-f-sg	spa	Pilmaiquen	np-ant
 	eng	Pilmayquen	np-ant$np$np-ant-f-sg	spa	Pilmayquen	np-ant
 	eng	Plácida	np-ant$np$np-ant-f-sg	spa	Plácida	np-ant
@@ -7260,7 +7260,7 @@ LR	eng	Rosa de Lima	np-ant$np$np-ant-f-sg	spa	Rosa de Lima	np-ant
 	eng	Rosángela	np-ant$np$np-ant-f-sg	spa	Rosángela	np-ant
 	eng	Rosario	np-ant$np$np-ant-f-sg	spa	Rosario	np$np-ant
 	eng	Rosarito	np-ant$np$np-ant-f-sg	spa	Rosarito	np-ant
-	eng	Rosaura	np-ant$np$np-ant-f-sg	spa	Rosaura	np-ant
+	eng	Rosaura	np-ant$np-ant-f-sg$np	spa	Rosaura	np-ant
 	eng	Rosenda	np-ant$np$np-ant-f-sg	spa	Rosenda	np-ant
 	eng	Rosilda	np-ant$np$np-ant-f-sg	spa	Rosilda	np-ant
 	eng	Rosina	np-ant$np$np-ant-f-sg	spa	Rosina	np-ant
@@ -7302,7 +7302,7 @@ LR	eng	Rosa de Lima	np-ant$np$np-ant-f-sg	spa	Rosa de Lima	np-ant
 	eng	Sandra	np-ant$np$np-ant-f-sg$np-ant-f	spa	Sandra	np$np-ant$np-ant-f-sg
 	eng	Sandy	np-ant$np-ant-f-sg$$np	spa	Sandy	np-ant$np
 	eng	Sandybell	np-ant$np$np-ant-f-sg	spa	Sandybell	np-ant
-	eng	Santa	np-ant$np-ant-f-sg$np$$np-ant-f	spa	Santa	np-ant$np
+	eng	Santa	np-ant$np-ant-f-sg$np$$np-ant-f	spa	Santa	np$np-ant
 	eng	Santina	np-ant$np$np-ant-f-sg	spa	Santina	np-ant
 	eng	Sara	np-ant$np$np-ant-f-sg	spa	Sara	np$np-ant$np-ant-f-sg
 	eng	Saray	np-ant$np$np-ant-f-sg	spa	Saray	np-ant$np
@@ -7844,7 +7844,7 @@ LR	eng	Rosa de Lima	np-ant$np$np-ant-f-sg	spa	Rosa de Lima	np-ant
 	eng	Carli	np-ant$np$np-ant-f-sg	spa	Carli	np-ant
 	eng	Carlie	np-ant$np$np-ant-f-sg	spa	Carlie	np-ant
 	eng	Carly	np-ant$np$np-ant-f-sg	spa	Carly	np-ant
-	eng	Carmen	np-ant$np-ant-f-sg$np	spa	Carmen	np$np-ant$np-ant-f-sg
+	eng	Carmen	np-ant$np-ant-f-sg$np	spa	Carmen	np-ant$np$np-ant-f-sg
 	eng	Carol	np-ant$np-ant-f-sg$$np	spa	Carol	np-ant$np
 	eng	Carolina	np-ant$np$np-ant-f$np-ant-f-sg	spa	Carolina	np$np-ant$np-ant-f-sg
 	eng	Caroline	np-ant$np-ant-f-sg$np	spa	Caroline	np$np-ant
@@ -8136,7 +8136,7 @@ LR	eng	Rosa de Lima	np-ant$np$np-ant-f-sg	spa	Rosa de Lima	np-ant
 	eng	Jewel	np-ant$np$np-ant-f-sg	spa	Jewel	np-ant
 	eng	Jillian	np-ant$np$np-ant-f-sg	spa	Jillian	np-ant
 	eng	Jimena	np-ant$np$np-ant-f-sg	spa	Jimena	np-ant$np-ant-f-sg
-	eng	Joana	np-ant$np-ant-f$np$np-ant-f-sg	spa	Joana	np$np-ant
+	eng	Joana	np-ant$np-ant-f$np-ant-f-sg$np	spa	Joana	np$np-ant
 	eng	Joanna	np-ant$np-ant-f-sg$np	spa	Joanna	np-ant
 	eng	Jocelyn	np-ant$np$np-ant-f-sg	spa	Jocelyn	np-ant
 	eng	Jodie	np-ant$np$np-ant-f-sg	spa	Jodie	np-ant$np
@@ -8364,7 +8364,7 @@ LR	eng	Rosa de Lima	np-ant$np$np-ant-f-sg	spa	Rosa de Lima	np-ant
 	eng	Marcella	np-ant$np$np-ant-f-sg	spa	Marcella	np-ant
 	eng	Margaret	np-ant$np$np-ant-f-sg$np-ant-f	spa	Margaret	np$np-ant
 	eng	Margarita	np-ant$np-ant-f-sg$np	spa	Margarita	np$np-ant
-	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg	spa	Maria	np-ant$np
+	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f	spa	Maria	np$np-ant
 	eng	Mariah	np-ant$np$np-ant-f-sg	spa	Mariah	np-ant
 	eng	Mariam	np-ant$np-ant-f-sg$np	spa	Mariam	np-ant
 	eng	Mariana	np-ant$np-ant-f-sg$np	spa	Mariana	np$np-ant$np-ant-f-sg
@@ -8693,7 +8693,7 @@ LR	eng	Rosa de Lima	np-ant$np$np-ant-f-sg	spa	Rosa de Lima	np-ant
 	eng	Alejandro	np-ant$np-ant-m-sg$np$np-ant-m	spa	Alejandro	np-ant$np$np-ant-m$np-ant-m-sg
 	eng	Alessandro	np-ant$np-ant-m$np-ant-m-sg$np	spa	Alessandro	np-ant$np
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	spa	Alex	np$np-ant$np-ant-m-sg
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	spa	Alexander	np$np-ant
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	spa	Alexander	np$np-ant
 	eng	Alexandre	np-ant$np-ant-m-sg$np$np-ant-m	spa	Alexandre	np$np-ant
 	eng	Alexandro	np-ant$np$np-ant-m-sg	spa	Alexandro	np$np-ant
 	eng	Alexis	np-ant$np$np-ant-m$np-ant-m-sg	spa	Alexis	np$np-ant$np-ant-f-sg
@@ -9035,7 +9035,7 @@ LR	eng	Rosa de Lima	np-ant$np$np-ant-f-sg	spa	Rosa de Lima	np-ant
 	eng	Freddy	np-ant$np-ant-m-sg$np	spa	Freddy	np$np-ant
 	eng	Frederick	np-ant$np-ant-m-sg$np$np-ant-m	spa	Frederick	np-ant
 	eng	Fredrick	np-ant$np-ant-m-sg$np	spa	Fredrick	np-ant
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	spa	Gabriel	np$np-ant$np-ant-m-sg
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	spa	Gabriel	np$np-ant$np-ant-m-sg
 	eng	Gael	np-ant$np-ant-m-sg$np	spa	Gael	np-ant$np
 	eng	Gage	np-ant$np$np-ant-m-sg	spa	Gage	np-ant
 	eng	Gaige	np-ant$np$np-ant-m-sg	spa	Gaige	np-ant
@@ -9152,7 +9152,7 @@ LR	eng	Rosa de Lima	np-ant$np$np-ant-f-sg	spa	Rosa de Lima	np-ant
 	eng	Jamil	np-ant$np$np-ant-m-sg	spa	Jamil	np-ant
 	eng	Jamir	np-ant$np$np-ant-m-sg	spa	Jamir	np-ant
 	eng	Jamison	np-ant$np$np-ant-m-sg	spa	Jamison	np-ant
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	spa	Jan	np$np-ant
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	spa	Jan	np$np-ant
 	eng	Jaquan	np-ant$np$np-ant-m-sg	spa	Jaquan	np-ant
 	eng	Jaquez	np-ant$np$np-ant-m-sg	spa	Jaquez	np-ant
 	eng	Jared	np-ant$np$np-ant-m-sg	spa	Jared	np-ant
@@ -9197,7 +9197,7 @@ LR	eng	Rosa de Lima	np-ant$np$np-ant-f-sg	spa	Rosa de Lima	np-ant
 	eng	Jett	np-ant$np$np-ant-m-sg	spa	Jett	np-ant
 	eng	Jevon	np-ant$np$np-ant-m-sg	spa	Jevon	np-ant
 	eng	Jimmy	np-ant$np-ant-m-sg$np$np-ant-m	spa	Jimmy	np$np-ant
-	eng	Joan	np-ant$np$np-ant-m-sg	spa	Joan	np$np-ant
+	eng	Joan	np-ant$np-ant-m-sg$np	spa	Joan	np$np-ant
 	eng	Joaquin	np-ant$np-ant-m-sg$np$np-ant-m	spa	Joaquin	np$np-ant
 	eng	Joe	np-ant$np$np-ant-m$np-ant-m-sg	spa	Joe	np$np-ant
 	eng	Joel	np-ant$np$np-ant-m-sg$np-ant-m	spa	Joel	np$np-ant$np-ant-m-sg
@@ -9229,7 +9229,7 @@ LR	eng	Rosa de Lima	np-ant$np$np-ant-f-sg	spa	Rosa de Lima	np-ant
 	eng	Jovan	np-ant$np-ant-m$np-ant-m-sg$np	spa	Jovan	np-ant
 	eng	Jovani	np-ant$$np$np-ant-m-sg	spa	Jovani	np-ant
 	eng	Jovany	np-ant$np$np-ant-m-sg	spa	Jovany	np-ant
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg
 	eng	Judah	np-ant$np$np-ant-m$np-ant-m-sg	spa	Judah	np-ant
 	eng	Jude	np-ant$np$np-ant-m-sg$np-ant-m	spa	Jude	np-ant$np
 	eng	Julian	np-ant$np$np-ant-m-sg$np-ant-m	spa	Julian	np$np-ant
@@ -9344,7 +9344,7 @@ LR	eng	Rosa de Lima	np-ant$np$np-ant-f-sg	spa	Rosa de Lima	np-ant
 	eng	Malcolm	np-ant$np-ant-m-sg$np$np-ant-m	spa	Malcolm	np-ant
 	eng	Malik	np-ant$np-ant-m-sg$$np$np-ant-m	spa	Malik	np$np-ant
 	eng	Manuel	np-ant$np$np-ant-m$np-ant-m-sg	spa	Manuel	np-ant$np$np-ant-m-sg
-	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg	spa	Marc	np$np-ant
+	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m	spa	Marc	np$np-ant
 	eng	Marcel	np-ant$np-ant-m-sg$np$np-ant-m	spa	Marcel	np$np-ant$np-ant-m
 	eng	Marcelo	np-ant$np-ant-m-sg$np$np-ant-m	spa	Marcelo	np$np-ant
 	eng	Marco	np-ant$np-ant-m-sg$np$np-ant-m	spa	Marco	np-ant$np$np-ant-m-sg
@@ -9380,7 +9380,7 @@ LR	eng	Rosa de Lima	np-ant$np$np-ant-f-sg	spa	Rosa de Lima	np-ant
 	eng	Micah	np-ant$np$np-ant-m-sg	spa	Micah	np-ant
 	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$	spa	Michael	np$np-ant
 	eng	Micheal	np-ant$np$np-ant-m-sg	spa	Micheal	np-ant
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	spa	Miguel	np$np-ant$np-ant-m$np-ant-m-sg
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	spa	Miguel	np$np-ant$np-ant-m$np-ant-m-sg
 	eng	Mike	np-ant$np$np-ant-m$np-ant-m-sg	spa	Mike	np$np-ant
 	eng	Mikel	np-ant$np-ant-m-sg$np	spa	Mikel	np$np-ant
 	eng	Miles	np-ant$$np$np-ant-m-sg	spa	Miles	np-ant
@@ -9418,7 +9418,7 @@ LR	eng	Napoleón	np-ant	spa	Napoleón	np-ant$np
 	eng	Nick	np-ant$np-ant-m-sg$np$np-ant-m	spa	Nick	np$np-ant
 	eng	Nickolas	np-ant$np$np-ant-m-sg	spa	Nickolas	np-ant
 	eng	Nico	np-ant$np-ant-m-sg$np$np-ant-m	spa	Nico	np-ant$np
-	eng	Nicolas	np-ant$np$np-ant-m$np-ant-m-sg	spa	Nicolas	np$np-ant
+	eng	Nicolas	np-ant$np$np-ant-m-sg$np-ant-m	spa	Nicolas	np$np-ant
 	eng	Nigel	np-ant$np-ant-m-sg$np-ant-m$np	spa	Nigel	np$np-ant
 	eng	Nikhil	np-ant$np$np-ant-m-sg	spa	Nikhil	np-ant
 	eng	Nikolas	np-ant$np-ant-m-sg$np	spa	Nikolas	np-ant
@@ -9454,7 +9454,7 @@ LR	eng	Napoleón	np-ant	spa	Napoleón	np-ant$np
 	eng	Phillip	np-ant$np-ant-m-sg$np	spa	Phillip	np-ant
 	eng	Phoenix	np-ant$np$np-ant-m$$np-ant-m-sg	spa	Phoenix	np$np-ant
 	eng	Pierce	np-ant$np$np-ant-m-sg	spa	Pierce	np$np-ant
-	eng	Pierre	np-ant$np$np-ant-m-sg$np-ant-m	spa	Pierre	np$np-ant
+	eng	Pierre	np-ant$np-ant-m-sg$np$np-ant-m	spa	Pierre	np$np-ant
 	eng	Pluto	np-ant	spa	Plutón	np-ant
 	eng	Porter	np-ant$$np$np-ant-m-sg	spa	Porter	np-ant
 	eng	Pranav	np-ant$np$np-ant-m-sg	spa	Pranav	np-ant
@@ -9550,7 +9550,7 @@ LR	eng	Napoleón	np-ant	spa	Napoleón	np-ant$np
 	eng	Seamus	np-ant$np-ant-m-sg$np$np-ant-m	spa	Seamus	np-ant
 	eng	Sean	np-ant$np-ant-m$np-ant-m-sg$np	spa	Sean	np$np-ant
 	eng	Sean	np-ant$np-ant-m$np-ant-m-sg$np	spa	Sean	np$np-ant
-	eng	Sebastian	np-ant$np-ant-m-sg$np$np-ant-m	spa	Sebastian	np$np-ant
+	eng	Sebastian	np-ant$np-ant-m-sg$np$np-ant-m	spa	Sebastian	np-ant$np
 	eng	Semaj	np-ant$np$np-ant-m-sg	spa	Semaj	np-ant
 	eng	Sergio	np-ant$np$np-ant-m$np-ant-m-sg	spa	Sergio	np$np-ant$np-ant-m$np-ant-m-sg
 	eng	Seth	np-ant$np$np-ant-m-sg$np-ant-m	spa	Seth	np-ant
@@ -9655,7 +9655,7 @@ LR	eng	Napoleón	np-ant	spa	Napoleón	np-ant$np
 	eng	Wesley	np-ant$np-ant-m-sg$np$np-ant-m	spa	Wesley	np$np-ant
 	eng	Weston	np-ant$np$np-ant-m-sg$$np-ant-m	spa	Weston	np-ant
 	eng	Will	np-ant$np$np-ant-m-sg	spa	Will	np$np-ant
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	spa	William	np$np-ant$np-ant-m
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	spa	William	np$np-ant$np-ant-m
 	eng	Willie	np-ant$np$np-ant-m-sg	spa	Willie	np-ant
 	eng	Wilson	np-ant$np$np-ant-m-sg$np-ant-m$	spa	Wilson	np$np-ant
 	eng	Winston	np-ant$np-ant-m-sg$np$np-ant-m	spa	Winston	np-ant$np-ant-m
@@ -9728,7 +9728,7 @@ LR	eng	Napoleón	np-ant	spa	Napoleón	np-ant$np
 	eng	Archibald	np-ant$np-ant-m-sg$$np$np-ant-m	spa	Archibald	np$np-ant
 	eng	Bram Stoker	np-ant$np-ant-m-sg	spa	Bram Stoker	np$np-ant
 	eng	Bram	np-ant$np-ant-m-sg	spa	Bram	np-ant
-	eng	Bono	np-ant$np-ant-m$np-ant-m-sg	spa	Bono	np-ant
+	eng	Bono	np-ant$np-ant-m$np-ant-m-sg$	spa	Bono	np-ant
 	eng	Chiang Kai-shek	np-ant$np-ant-m-sg	spa	Chiang Kai-shek	np-ant
 	eng	Daniel Ortega	np-ant$np-ant-m-sg	spa	Daniel Ortega	np$np-ant
 	eng	Gerry Adams	np-ant$np-ant-m-sg	spa	Gerry Adams	np$np-ant
@@ -9742,14 +9742,14 @@ LR	eng	Napoleón	np-ant	spa	Napoleón	np-ant$np
 	eng	John Cabot	np-ant$np-ant-m-sg	spa	Juan Caboto	np$np-ant
 	eng	John Calvin	np-ant$np-ant-m-sg	spa	Juan Calvino	np$np-ant
 	eng	Juan Carlos I	np-ant$np-ant-m-sg	spa	Juan Carlos I	np$np-ant
-	eng	Juan Jesús Vivas Lara	np-ant$np-ant-m-sg	spa	Juan Jesús Vivas Lara	np$np-ant
-	eng	Juan José Ibarretxe Markuartu	np-ant$np-ant-m-sg	spa	Juan José Ibarretxe Markuartu	np$np-ant
-	eng	Juan José Ibarretxe	np-ant$np-ant-m-sg	spa	Juan José Ibarretxe	np$np-ant
-	eng	Juan José	np-ant$np-ant-m-sg	spa	Juan José	np$np-ant
-	eng	Juan Jesús	np-ant$np-ant-m-sg	spa	Juan Jesús	np-ant
+	eng	Juan Jesús Vivas Lara	np-ant	spa	Juan Jesús Vivas Lara	np$np-ant
+	eng	Juan José Ibarretxe Markuartu	np-ant	spa	Juan José Ibarretxe Markuartu	np$np-ant
+	eng	Juan José Ibarretxe	np-ant	spa	Juan José Ibarretxe	np$np-ant
+	eng	Juan José	np-ant	spa	Juan José	np$np-ant
+	eng	Juan Jesús	np-ant	spa	Juan Jesús	np-ant
 	eng	Lewis Hamilton	np-ant$np-ant-m-sg	spa	Lewis Hamilton	np$np-ant
 	eng	Lluis	np-ant$$np-ant-m-sg	spa	Lluis	np$np-ant
-	eng	Nicolas Sarkozy	np-ant$np-ant-m-sg	spa	Nicolas Sarkozy	np$np-ant
+	eng	Nicolas Sarkozy	np-ant	spa	Nicolas Sarkozy	np$np-ant
 	eng	Robbie	np-ant$np-ant-m-sg	spa	Robbie	np-ant
 	eng	Robbie Williams	np-ant$np-ant-m-sg	spa	Robbie Williams	np$np-ant
 	eng	Sylvester	np-ant$np-ant-m-sg$$np-ant-m	spa	Sylvester	np-ant
@@ -9790,8 +9790,8 @@ LR	eng	Al	np-ant$np-ant-m$np$np-ant-m-sg	spa	Al	np$np-ant
 	eng	Lech	np-ant$np-ant-m$np-ant-m-sg	spa	Lech	np$np-ant
 	eng	Lech Kaczynski	np-ant$np-ant-m-sg	spa	Lech Kaczynski	np$np-ant
 	eng	Carlos Martel	np-ant$np-ant-m-sg	spa	Carlos Martel	np$np-ant
-	eng	Vlad Tepes	np-ant$np-ant-m-sg	spa	Vlad Tepes	np$np-ant
-	eng	Vlad	np-ant$np-ant-m$np-ant-m-sg	spa	Vlad	np$np-ant
+	eng	Vlad Tepes	np-ant	spa	Vlad Tepes	np$np-ant
+	eng	Vlad	np-ant-m-sg$np-ant$np-ant-m	spa	Vlad	np$np-ant
 	eng	Anne-Marie	np-ant$np$np-ant-f-sg	spa	Anne-Marie	np-ant$np
 	eng	Carole	np-ant$np-ant-f-sg$np	spa	Carole	np$np-ant
 	eng	Céline	np-ant$np-ant-f-sg	spa	Céline	np$np-ant
@@ -9823,7 +9823,7 @@ LR	eng	Al	np-ant$np-ant-m$np$np-ant-m-sg	spa	Al	np$np-ant
 	eng	Eric S. Raymond	np-ant$np-ant-m-sg	spa	Eric S. Raymond	np-ant
 	eng	Eric Raymond	np-ant$np-ant-m-sg	spa	Eric Raymond	np-ant
 	eng	Philip K. Dick	np-ant$np-ant-m-sg	spa	Philip K. Dick	np-ant
-	eng	W. B. Yeats	np-ant$np-ant-m-sg	spa	W. B. Yeats	np-ant
+	eng	W. B. Yeats	np-ant	spa	W. B. Yeats	np-ant
 	eng	Vicente Aleixandre	np-ant$np-ant-m-sg	spa	Vicente Aleixandre	np-ant
 	eng	Raul Albiol	np-ant$np-ant-m-sg	spa	Raul Albiol	np-ant
 	eng	Pedro Almodóvar	np-ant$np-ant-m-sg	spa	Pedro Almodóvar	np-ant
@@ -9831,7 +9831,7 @@ LR	eng	Al	np-ant$np-ant-m$np$np-ant-m-sg	spa	Al	np$np-ant
 	eng	Joaquín Almunia	np-ant$np-ant-m-sg	spa	Joaquín Almunia	np-ant
 	eng	Joaquín Almunia Amann	np-ant$np-ant-m-sg	spa	Joaquín Almunia Amann	np-ant
 	eng	Felip	np-ant$np-ant-m-sg	spa	Felip	np$np-ant
-	eng	Abdul Hamid II	np-ant$np-ant-m-sg	spa	Abdul Hamid II	np$np-ant
+	eng	Abdul Hamid II	np-ant	spa	Abdul Hamid II	np$np-ant
 	eng	Abdullah Ahmad Badawi	np-ant$np-ant-m-sg	spa	Abdullah Ahmad Badawi	np$np-ant
 	eng	Abdullah Gül	np-ant$np-ant-m-sg	spa	Abdullah Gül	np$np-ant
 	eng	Abu Dahdah	np-ant$np-ant-m-sg	spa	Abu Dahdah	np$np-ant
@@ -9847,7 +9847,7 @@ LR	eng	Al	np-ant$np-ant-m$np$np-ant-m-sg	spa	Al	np$np-ant
 	eng	Afghanistan	np-loc$np-loc-sg	spa	Afganistán	np$np-loc$np-loc-m
 	eng	Pluto	np-loc	spa	Plutón	np$np-loc-m$np-loc
 	eng	Sri Lanka	np-loc	spa	Sri Lanka	np-loc$np-loc-m
-	eng	Addis Ababa	np$np-loc	spa	Adís Abeba	np$np-loc$np-loc-m
+	eng	Addis Ababa	np$np-loc	spa	Adís Abeba	np$np-loc-m
 	eng	Ripoll	np-loc$	spa	Ripoll	np-loc$np$np-loc-m
 	eng	Vilnius	np-loc	spa	Vilna	np$np-loc-m$np-loc
 LR	eng	Vilno	np$np-loc	spa	Vilna	np$np-loc-m$np-loc
@@ -9868,7 +9868,7 @@ LR	eng	Vilno	np$np-loc	spa	Vilna	np$np-loc-m$np-loc
 	eng	Albert	np$np-ant$np-ant-m$np-ant-m-sg	spa	Albert	np$np-ant$np-ant-m
 	eng	Alberto	np-ant$np$np-ant-m-sg$np-ant-m	spa	Alberto	np$np-ant$np-ant-m
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	spa	Alex	np$np-ant$np-ant-m-sg
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	spa	Alexander	np$np-ant
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	spa	Alexander	np$np-ant
 	eng	Alexandra	np-ant$np$np-ant-f-sg$np-ant-f	spa	Alexandra	np$np-ant$np-ant-f-sg
 	eng	Algeria	np-loc	spa	Argelia	np-loc$np$np-loc-f
 RL	eng	Alicante	np-loc$np	spa	Alacant	np-loc-m
@@ -9883,15 +9883,15 @@ RL	eng	Alicante	np-loc$np	spa	Alacant	np-loc-m
 	eng	Ankara	np-loc	spa	Ankara	np$np-loc$np-loc-f
 	eng	Anna	np-ant$np$np-ant-f-sg$np-ant-f	spa	Anna	np$np-ant
 	eng	Anthony	np-ant$np$np-ant-m$np-ant-m-sg	spa	Anthony	np$np-ant
-	eng	Antoni	np$np-ant$np-ant-m-sg	spa	Antoni	np$np-ant
+	eng	Antoni	np$np-ant-m-sg$np-ant	spa	Antoni	np$np-ant
 	eng	Antonio	np-ant$np$np-ant-m$np-ant-m-sg	spa	Antonio	np$np-ant$np-ant-m$np-ant-m-sg
 	eng	Apertium	np-al$np$np-al-sg	spa	Apertium	np$np-al-m$np-al
-	eng	Windows	np-al$np-al-sg$np	spa	Windows	np-al-m
+	eng	Windows	np-al-sg$np-al$np	spa	Windows	np-al-m
 	eng	LanguageTool	np-al	spa	LanguageTool	np-al-m
 	eng	Metallica	np-al$np-al-sg	spa	Metallica	np-al-m
 	eng	AC/DC	np-al$np-al-sg	spa	AC/DC	np-al-m
-	eng	Duran Duran	np-al$np-al-sg	spa	Duran Duran	np-al-m
-	eng	Alice in Chains	np-al$np-al-sg	spa	Alice in Chains	np-al-m
+	eng	Duran Duran	np-al	spa	Duran Duran	np-al-m
+	eng	Alice in Chains	np-al	spa	Alice in Chains	np-al-m
 	eng	Arabia	np-loc	spa	Arabia	np-loc$np$np-loc-f
 	eng	Aragon	np-loc$np	spa	Aragón	np$np-loc$np-loc-m
 	eng	Argentina	np-loc$np-loc-sg	spa	Argentina	np-loc$np-loc-f
@@ -10014,7 +10014,7 @@ RL	eng	Eduard	np$np-ant$np-ant-m$np-ant-m-sg	spa	Eduard	np$np-ant
 	eng	Francis	np-ant$np$np-ant-m$np-ant-m-sg$	spa	Francis	np-ant$np
 	eng	Francisco	np-ant$np$np-ant-m-sg$np-ant-m	spa	Francisco	np-ant$np$np-ant-m-sg
 RL	eng	Frankfurt	np-loc$np	spa	Frankfurt	np$np-loc$np-loc-m
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	spa	Gabriel	np$np-ant$np-ant-m-sg
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	spa	Gabriel	np$np-ant$np-ant-m-sg
 	eng	Gabriela	np-ant$np$np-ant-f-sg$np-ant-f	spa	Gabriela	np$np-ant$np-ant-f-sg
 	eng	Galicia	np-loc$np$$np-loc-sg	spa	Galicia	np$np-loc$np-loc-f
 	eng	Gaza	np$np-loc$np-loc-sg	spa	Gaza	np$np-f$np-loc-f
@@ -10039,7 +10039,7 @@ RL	eng	Girona	np-loc$$np	spa	Gerona	np$np-loc-f
 	eng	Guatemala	np-loc	spa	Guatemala	np-loc-f$np-loc
 RL	eng	Guatemala	np-loc	spa	Guatemala	np-loc-f$np-loc
 	eng	Guillem	np$np-ant$np-ant-m-sg	spa	Guillem	np$np-ant
-	eng	Guinea	np-loc	spa	Guinea	np-loc$np-loc-f
+	eng	Guinea	np-loc	spa	Guinea	np$np-loc$np-loc-f
 	eng	Haiti	np-loc	spa	Haití	np$np-loc$np-loc-m
 	eng	Harry	np-ant$np$np-ant-m$np-ant-m-sg	spa	Harry	np$np-ant
 	eng	Helena	np-ant$np$np-ant-f-sg	spa	Helena	np$np-ant$np-ant-f
@@ -10068,14 +10068,14 @@ RL	eng	Ibiza	np-loc$np	spa	Ibiza	np$np-loc$np-loc-f
 	eng	Jaime	np-ant$np$np-ant-m-sg	spa	Jaime	np-ant$np$np-ant-m-sg$np-ant-m
 	eng	Jamaica	np-loc	spa	Jamaica	np$np-loc$np-loc-f
 	eng	James	np-ant$np$np-ant-m$np-ant-m-sg$	spa	James	np$np-ant$np-ant-m
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	spa	Jan	np$np-ant
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	spa	Jan	np$np-ant
 	eng	Jane	np-ant$np$np-ant-f-sg$np-ant-f	spa	Jane	np$np-ant
 	eng	Japan	np-loc$np-loc-sg	spa	Japón	np-loc-m$np-loc
 	eng	Jaume	np$np-ant$np-ant-m-sg	spa	Jaume	np$np-ant
 	eng	Javier	np-ant$np$np-ant-m$np-ant-m-sg	spa	Javier	np$np-ant$np-ant-m-sg
 	eng	Jesus	np$np-ant$np-ant-m$np-ant-m-sg	spa	Jesús	np$np-ant$np-ant-m-sg
 LR	eng	Jesús	np-ant$np$np-ant-m-sg	spa	Jesús	np$np-ant$np-ant-m-sg
-	eng	Joan	np-ant$np$np-ant-m-sg	spa	Joan	np$np-ant
+	eng	Joan	np-ant$np-ant-m-sg$np	spa	Joan	np$np-ant
 	eng	Joaquim	np$np-ant$np-ant-m-sg	spa	Joaquim	np$np-ant
 	eng	Joe	np-ant$np$np-ant-m$np-ant-m-sg	spa	Joe	np$np-ant
 	eng	Joel	np-ant$np$np-ant-m-sg$np-ant-m	spa	Joel	np$np-ant$np-ant-m-sg
@@ -10086,10 +10086,10 @@ LR	eng	Jesús	np-ant$np$np-ant-m-sg	spa	Jesús	np$np-ant$np-ant-m-sg
 LR	eng	CisJordan	np-loc	spa	Cisjordania	np$np-loc$np-loc-f
 	eng	Jordi	np-ant$np$np-ant-m-sg	spa	Jordi	np$np-ant
 	eng	Jorge	np-ant$np$np-ant-m-sg$np-ant-m	spa	Jorge	np$np-ant$np-ant-m-sg
-	eng	Josep	np$np-ant$np-ant-m$np-ant-m-sg	spa	Josep	np$np-ant
+	eng	Josep	np-ant-m-sg$np$np-ant$np-ant-m	spa	Josep	np$np-ant
 	eng	Joseph	np-ant$np$np-ant-m$np-ant-m-sg$	spa	Joseph	np$np-ant
 	eng	José	np-ant$np$np-ant-m-sg$np-ant-m	spa	José	np$np-ant$np-ant-m$np-ant-m-sg
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	spa	Juan	np$np-ant$np-ant-m$np-ant-m-sg
 	eng	Juli	np$np-ant$np-ant-m-sg	spa	Juli	np$np-ant
 	eng	Jupiter	np-loc	spa	Júpiter	np-loc-m$np-loc
 	eng	Kabul	np-loc	spa	Kabul	np$np-loc-m$np-loc
@@ -10107,20 +10107,20 @@ LR	eng	CisJordan	np-loc	spa	Cisjordania	np$np-loc$np-loc-f
 	eng	Ashton-Tate	np$np-al	spa	Ashton-Tate	np-al-m
 	eng	Apple	np-al$np-al-sg	spa	Apple	np$np-al$np-al-m
 	eng	AZF	np-al	spa	AZF	np-al-m
-	eng	Aer Lingus	np-al$np$np-al-sg	spa	Aer Lingus	np-al-m
-	eng	China National Petroleum Corporation	np-al$np-al-sg	spa	China National Petroleum Corporation	np-al-m
+	eng	Aer Lingus	np-al$np	spa	Aer Lingus	np-al-m
+	eng	China National Petroleum Corporation	np-al	spa	China National Petroleum Corporation	np-al-m
 	eng	Victoria's Secret	np-al	spa	Victoria's Secret	np-al-m
 	eng	Monarch Gold	np-al	spa	Monarch Gold	np-al-m
-	eng	20th Century Fox	np-al$np-al-sg	spa	20th Century Fox	np-al-m
-	eng	Le Monde	np-al$np-al-sg	spa	Le Monde	np$np-al-m
-	eng	El Correo	np-al$np-al-sg	spa	El Correo	np$np-al-m
-	eng	E.H. Sukarra	np-al$np-al-sg	spa	E.H. Sukarra	np$np-al-m
+	eng	20th Century Fox	np-al	spa	20th Century Fox	np-al-m
+	eng	Le Monde	np-al	spa	Le Monde	np$np-al-m
+	eng	El Correo	np-al	spa	El Correo	np$np-al-m
+	eng	E.H. Sukarra	np-al	spa	E.H. Sukarra	np$np-al-m
 	eng	Lisbon	np-loc$np-loc-sg	spa	Lisboa	np$np-loc$np-loc-f
 	eng	Lithuania	np-loc	spa	Lituania	np$np-loc$np-loc-f
 	eng	Lleida	np-loc$np	spa	Lleida	np$np-loc-f
 RL	eng	Lleida	np-loc$np	spa	Lérida	np-loc$np-loc-f
-	eng	Lluís	np$np-ant$np-ant-m-sg	spa	Lluís	np$np-ant
-RL	eng	Lluís	np$np-ant$np-ant-m-sg	spa	Lluís	np$np-ant
+	eng	Lluís	np$np-ant-m-sg$np-ant	spa	Lluís	np$np-ant
+RL	eng	Lluís	np$np-ant-m-sg$np-ant	spa	Lluís	np$np-ant
 	eng	London	np-loc$np-loc-sg	spa	Londres	np$np-loc$np-loc-m$np-loc-m-sg
 	eng	Lorena	np-ant$np-ant-f-sg$np	spa	Lorena	np-ant$np
 	eng	Lorraine	np-loc$np	spa	Lorena	np-loc$np-loc-f
@@ -10137,11 +10137,11 @@ RL	eng	Lluís	np$np-ant$np-ant-m-sg	spa	Lluís	np$np-ant
 	eng	Manel	np-ant$np$np-ant-m-sg	spa	Manel	np$np-ant
 	eng	Manhattan	np$np-loc	spa	Manhattan	np$np-loc$np-loc-m
 	eng	Manuel	np-ant$np$np-ant-m$np-ant-m-sg	spa	Manuel	np-ant$np$np-ant-m-sg
-	eng	Mar	np$np-ant-f-sg$np-ant	spa	Mar	np$np-ant
-	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg	spa	Marc	np$np-ant
+	eng	Mar	np$np-ant-f-sg$np-ant	spa	Mar	np$np-loc
+	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m	spa	Marc	np$np-ant
 	eng	Margaret	np-ant$np$np-ant-f-sg$np-ant-f	spa	Margaret	np$np-ant
-	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg	spa	Maria	np-ant$np
-RL	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg	spa	Maria	np-ant$np
+	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f	spa	Maria	np$np-ant
+RL	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f	spa	Maria	np$np-ant
 	eng	Mario	np-ant$np$np-ant-m-sg$np-ant-m	spa	Mario	np$np-ant$np-ant-m-sg
 	eng	Mark	np-ant$np$np-ant-m$np-ant-m-sg	spa	Mark	np$np-ant
 	eng	Mars	np-loc	spa	Marte	np-loc$np-loc-m
@@ -10162,9 +10162,9 @@ RL	eng	Mexico	np-loc$np-loc-sg	spa	Méjico	np-loc$np-loc-m
 	eng	Miami	np-loc$np	spa	Miami	np-loc$np$np-loc-f
 	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$	spa	Michael	np$np-ant
 	eng	Microsoft	np-al-sg$np-al$np	spa	Microsoft	np$np-al$np-al-m
-	eng	New York Times	np-al$np	spa	New York Times	np-al-m$np
-	eng	Wall Street Journal	np-al$np$np-al-sg	spa	Wall Street Journal	np-al-m
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	spa	Miguel	np$np-ant$np-ant-m$np-ant-m-sg
+	eng	New York Times	np-al$np	spa	New York Times	np-al-m
+	eng	Wall Street Journal	np-al$np	spa	Wall Street Journal	np-al-m
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	spa	Miguel	np$np-ant$np-ant-m$np-ant-m-sg
 	eng	Mike	np-ant$np$np-ant-m$np-ant-m-sg	spa	Mike	np$np-ant
 	eng	Milan	np-loc$np$np-loc-sg	spa	Milán	np-loc$np$np-loc-m
 	eng	Minnesota	np$np-loc	spa	Minnesota	np$np-loc$np-loc-f
@@ -10189,7 +10189,7 @@ RL	eng	Mexico	np-loc$np-loc-sg	spa	Méjico	np-loc$np-loc-m
 	eng	New Zealand	np-loc	spa	Nueva Zelanda	np$np-loc$np-loc-f
 	eng	Nicaragua	np-loc$np-loc-sg	spa	Nicaragua	np-loc-f$np-loc
 	eng	Nice	np-loc$np	spa	Niza	np$np-loc$np-loc-f
-	eng	Nicolas	np-ant$np$np-ant-m$np-ant-m-sg	spa	Nicolas	np$np-ant
+	eng	Nicolas	np-ant$np$np-ant-m-sg$np-ant-m	spa	Nicolas	np$np-ant
 	eng	Nicolau	np$np-ant$np-ant-m-sg	spa	Nicolau	np$np-ant
 	eng	Nicole	np-ant$np$np-ant-f-sg	spa	Nicole	np$np-ant
 	eng	Nigeria	np-loc	spa	Nigeria	np$np-loc$np-loc-f
@@ -10210,7 +10210,7 @@ RL	eng	Mexico	np-loc$np-loc-sg	spa	Méjico	np-loc$np-loc-m
 	eng	Paula	np-ant$np$np-ant-f-sg$np-ant-f	spa	Paula	np$np-ant
 	eng	Peking	np-loc$np$np-loc-sg	spa	Pekín	np$np-loc$np-loc-m
 	eng	Pep	np$np-ant$np-ant-m-sg	spa	Pep	np$np-ant
-	eng	Pere	np$np-ant$np-ant-m$np-ant-m-sg	spa	Pere	np$np-ant
+	eng	Pere	np$np-ant$np-ant-m-sg$np-ant-m	spa	Pere	np$np-ant
 	eng	Peru	np-loc	spa	Perú	np-loc$np-loc-m
 	eng	Peter	np-ant$np$np-ant-m$np-ant-m-sg	spa	Peter	np$np-ant$np-ant-m
 	eng	Philip	np-ant$np$np-ant-m-sg$np-ant-m$	spa	Philip	np$np-ant
@@ -10295,7 +10295,7 @@ LR	eng	US	np-loc-sg$np	spa	EE.UU.	np$np-loc-m-pl$np-loc
 	eng	Ukraine	np-loc$np-loc-sg	spa	Ucrania	np$np-loc$np-loc-f
 	eng	United Kingdom	np-loc$np-loc-sg	spa	Reino Unido	np$np-loc-m$np-loc
 	eng	United States	np-loc$np-loc-pl	spa	Estados Unidos	np$np-loc$np-loc-m$np-loc-m-pl
-	eng	The New York Times	np-al$np-al-sg	spa	The New York Times	np$np-al-m
+	eng	The New York Times	np-al	spa	The New York Times	np$np-al-m
 	eng	Unix	np-al$np$np-al-sg	spa	Unix	np-al-m
 	eng	Uruguay	np-loc	spa	Uruguay	np$np-loc$np-loc-m
 	eng	Utah	np$np-loc	spa	Utah	np$np-loc-f$np-loc
@@ -10304,12 +10304,12 @@ LR	eng	US	np-loc-sg$np	spa	EE.UU.	np$np-loc-m-pl$np-loc
 	eng	Vienna	np-loc	spa	Viena	np$np-loc$np-loc-f
 	eng	Vietnam	np-loc$np-loc-sg	spa	Vietnam	np-loc$np-loc-m
 	eng	Víctor	np$np-ant$np-ant-m-sg	spa	Víctor	np$np-ant$np-ant-m-sg
-	eng	Waiting for Godot	np-al$np-al-sg	spa	Esperando a Godot	np-al-m
+	eng	Waiting for Godot	np-al	spa	Esperando a Godot	np-al-m
 	eng	Wall Street	np-loc$np$np-loc-sg	spa	Wall Street	np$np-loc-m
 	eng	Walter	np-ant$np$np-ant-m-sg$np-ant-m	spa	Walter	np$np-ant
 	eng	Warsaw	np-loc	spa	Varsovia	np$np-loc$np-loc-f
 	eng	Washington	np-loc$np-loc-sg	spa	Washington	np$np-loc$np-loc-m
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	spa	William	np$np-ant$np-ant-m
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	spa	William	np$np-ant$np-ant-m
 	eng	Wilson	np-ant$np$np-ant-m-sg$np-ant-m$	spa	Wilson	np$np-ant
 	eng	Xavier	np-ant$np$np-ant-m-sg$	spa	Xavier	np$np-ant$np-ant-m-sg
 	eng	Yugoslavia	np-loc	spa	Yugoslavia	np$np-loc-f$np-loc
@@ -10319,29 +10319,29 @@ LR	eng	US	np-loc-sg$np	spa	EE.UU.	np$np-loc-m-pl$np-loc
 	eng	Northern Ireland	np-loc	spa	Irlanda del Norte	np-loc-f$np$np-loc
 	eng	La Palma	np-loc	spa	La Palma	np$np-loc-f
 	eng	United Kingdom of Great Britain and Ireland	np-loc	spa	Reino Unido de Gran Bretaña e Irlanda	np$np-loc-m
-	eng	Treaty establishing a Constitution for Europe	np-al$np-al-sg	spa	Tratado por el que se establece una constitución para Europa	np$np-al-m
-	eng	Per Stig Møller	np-ant$np$np-ant-m-sg	spa	Per Stig Møller	np
-	eng	Stanislav Gross	np-ant$np$np-ant-m-sg	spa	Stanislav Gross	np
-	eng	Fidel Castro	np-ant$np$np-ant-m-sg	spa	Fidel Castro	np
-	eng	George W. Bush	np$np-ant$np-ant-m-sg	spa	George W. Bush	np
+	eng	Treaty establishing a Constitution for Europe	np-al	spa	Tratado por el que se establece una constitución para Europa	np$np-al-m
+	eng	Per Stig Møller	np-ant$np	spa	Per Stig Møller	np
+	eng	Stanislav Gross	np-ant$np	spa	Stanislav Gross	np
+	eng	Fidel Castro	np-ant$np	spa	Fidel Castro	np
+	eng	George W. Bush	np$np-ant	spa	George W. Bush	np
 	eng	George H. W. Bush	np-ant$np$np-ant-m-sg	spa	George H. W. Bush	np
 	eng	J. M. Bischoff	np-ant$np	spa	J. M. Bischoff	np
-	eng	Hashimoto Tetsuya	np-ant$np$np-ant-m-sg	spa	Hashimoto Tetsuya	np
-	eng	Amano Hiroshi	np-ant$np$np-ant-m-sg	spa	Amano Hiroshi	np
-	eng	Jürgen Trumpf	np-ant$np$np-ant-m-sg	spa	Jürgen Trumpf	np
-	eng	Jürgen	np-ant$np$np-ant-m$np-ant-m-sg	spa	Jürgen	np
-	eng	Th. C. Hijzen	np-ant$np$np-ant-m-sg	spa	Th. C. Hijzen	np
-	eng	Ken Saro-Wiwa	np-ant$np$np-ant-m-sg	spa	Ken Saro-Wiwa	np
-	eng	Javier Solana Madariaga	np-ant$np$np-ant-m-sg	spa	Javier Solana Madariaga	np
-	eng	Pierre De Boissieu	np-ant$np$np-ant-m-sg	spa	Pierre De Boissieu	np
-	eng	Jørgen Mohr	np-ant$np$np-ant-m-sg	spa	Jørgen Mohr	np
-	eng	Juan Manuel Fabra Valles	np-ant$np$np-ant-m-sg	spa	Juan Manuel Fabra Valles	np
-	eng	Máire Geoghegan-Quinn	np-ant$np$np-ant-f-sg	spa	Máire Geoghegan-Quinn	np
-	eng	Laure Batut	np-ant$np$np-ant-f-sg	spa	Laure Batut	np
-	eng	Armindo de Jesus de Sousa Ribeiro	np-ant$np$np-ant-m-sg	spa	Armindo de Jesus de Sousa Ribeiro	np
-	eng	Jan O. Karlsson	np-ant$np$np-ant-m-sg	spa	Jan O. Karlsson	np
-	eng	José Manuel Durão Barroso	np-ant$np$np-ant-m-sg	spa	José Manuel Durão Barroso	np
-	eng	Vítor Manuel da Silva Caldeira	np-ant$np$np-ant-m-sg	spa	Vítor Manuel da Silva Caldeira	np
+	eng	Hashimoto Tetsuya	np-ant$np	spa	Hashimoto Tetsuya	np
+	eng	Amano Hiroshi	np-ant$np	spa	Amano Hiroshi	np
+	eng	Jürgen Trumpf	np-ant$np	spa	Jürgen Trumpf	np
+	eng	Jürgen	np-ant$np-ant-m-sg$np$np-ant-m	spa	Jürgen	np
+	eng	Th. C. Hijzen	np-ant$np	spa	Th. C. Hijzen	np
+	eng	Ken Saro-Wiwa	np-ant$np	spa	Ken Saro-Wiwa	np
+	eng	Javier Solana Madariaga	np-ant$np	spa	Javier Solana Madariaga	np
+	eng	Pierre De Boissieu	np-ant$np	spa	Pierre De Boissieu	np
+	eng	Jørgen Mohr	np-ant$np	spa	Jørgen Mohr	np
+	eng	Juan Manuel Fabra Valles	np-ant$np	spa	Juan Manuel Fabra Valles	np
+	eng	Máire Geoghegan-Quinn	np-ant$np	spa	Máire Geoghegan-Quinn	np
+	eng	Laure Batut	np-ant$np	spa	Laure Batut	np
+	eng	Armindo de Jesus de Sousa Ribeiro	np-ant$np	spa	Armindo de Jesus de Sousa Ribeiro	np
+	eng	Jan O. Karlsson	np-ant$np	spa	Jan O. Karlsson	np
+	eng	José Manuel Durão Barroso	np-ant$np	spa	José Manuel Durão Barroso	np
+	eng	Vítor Manuel da Silva Caldeira	np-ant$np	spa	Vítor Manuel da Silva Caldeira	np
 	eng	Väino	np-ant$np$np-ant-m-sg	spa	Väino	np
 	eng	Tönis	np-ant$np$np-ant-m-sg	spa	Tönis	np
 	eng	Tomá	np-ant$np$np-ant-m-sg	spa	Tomá	np
@@ -10386,7 +10386,7 @@ RL	eng	Asian	n	spa	asiático	n$n-GD
 RL	eng	person	n$n-pl	spa	gente	n-f-sg$n$n-f
 RL	eng	person	n$n-pl	spa	gente	n-f-pl
 LR	eng	personage	n	spa	personaje	n-f
-	eng	person	n$n-pl	spa	persona	n-f$n$n-f-sg
+	eng	person	n$n-pl	spa	persona	n$n-f$n-f-sg
 LR	eng	Catalan	n$n-ND	spa	catalán	n-GD$n-GD-pl
 RL	eng	Catalan	n$n-ND	spa	catalán	n$n-m$n-m-ND
 LR	eng	Catholic	n$n-ND	spa	católico	n-GD
@@ -10604,7 +10604,7 @@ RL	eng	affection	n$n-ND	spa	cariño	n$n-m$n-m-ND
 	eng	tributary	n$n-ND	spa	afluente	n$n-m$n-m-ND
 	eng	afternoon	n$n-ND	spa	tarde	n-f$n$n-f-ND
 	eng	aftertaste	n	spa	regusto	n$n-m
-	eng	age	n$n-ND	spa	edad	n-f$n$n-f-sg
+	eng	age	n$n-ND	spa	edad	n$n-f$n-f-sg
 	eng	agency	n$n-ND	spa	agencia	n$n-f$n-f-sg
 	eng	agent	n$n-ND	spa	agente	n-mf$n$n-mf-ND
 	eng	aggravation	n	spa	agravamiento	n$n-m$n-m-sg
@@ -11102,7 +11102,7 @@ RL	eng	bidding	n	spa	puja	n$n-f
 	eng	bilingualism	n$n-ND	spa	bilingüismo	n$n-m$n-m-ND
 	eng	bill	n$n-ND	spa	factura	n$n-f$n-f-sg
 	eng	billiard	n$n-pl	spa	billar	n$n-m
-LR	eng	bin	n	spa	cubo	n-m$n$n-m-ND
+LR	eng	bin	n$	spa	cubo	n-m$n$n-m-ND
 	eng	binoculars	n$n-pl	spa	prismáticos	n$n-m
 LR	eng	biographer	n	spa	biógrafo	n$n-GD
 RL	eng	biographer	n	spa	biógrafo	n$n-GD
@@ -11306,7 +11306,7 @@ RL	eng	cake	n$n-ND	spa	tarta	n-f$n
 	eng	caliph	n	spa	califa	n$n-f
 	eng	call	n$n-ND	spa	llamada	n-f$n$
 RL	eng	call	n$n-ND	spa	llamamiento	n-m$n$n-m-ND
-	eng	calm	n$n-ND	spa	calma	n-f$n$n-f-ND
+	eng	calm	n$n-ND	spa	calma	n$n-f$n-f-ND
 	eng	calorie	n$n-sg	spa	caloría	n$n-f
 	eng	camera	n$n-ND	spa	cámara	n-mf$n-mf-ND
 	eng	camp	n$n-ND	spa	campamento	n-m$n$n-m-sg
@@ -11373,7 +11373,7 @@ RL	eng	cardiologist	n	spa	cardiólogo	n$n-GD
 LR	eng	care	n$n-sg	spa	asistencia	n$n-f$n-f-sg
 	eng	career	n$n-ND	spa	carrera	n$n-f$n-f-sg
 	eng	ski race	n	spa	carrera	n$n-f$n-f-sg
-LR	eng	run	n$n-ND	spa	carrera	n$n-f$n-f-sg
+LR	eng	run	n$n-sg	spa	carrera	n$n-f$n-f-sg
 LR	eng	carer	n	spa	cuidador	n$n-GD
 RL	eng	carer	n	spa	cuidador	n$n-GD
 	eng	caricature	n$n-sg	spa	caricatura	n$n-f
@@ -12170,7 +12170,7 @@ LR	eng	deed	n	spa	acción	n-f$n$n-f-sg
 	eng	degree	n$n-ND	spa	grado	n$n-m$n-m-sg
 	eng	dinar	n	spa	dinar	n$n-m
 	eng	degree	n$n-ND	spa	grado	n$n-m$n-m-sg
-LR	eng	degree	n$n-ND	spa	título	n-m$n$n-m-sg
+LR	eng	degree	n$n-ND	spa	título	n$n-m$n-m-sg
 	eng	dehydration	n	spa	deshidratación	n$n-f
 	eng	delation	n	spa	delación	n$n-f
 	eng	delay	n$n-ND	spa	retraso	n$n-m$n-m-ND
@@ -12532,8 +12532,8 @@ RL	eng	driveway	n	spa	badén	n$n-m
 LR	eng	dropper	n$n-ND	spa	cuentagotas	n$n-m
 RL	eng	dropper	n$n-ND	spa	cuentagotas	n$n-m
 	eng	drought	n$n-sg	spa	sequía	n$n-f$n-f-sg
-	eng	drug	n$n-ND	spa	droga	n$n-f$n-f-sg
-	eng	drug	n$n-ND	spa	fármaco	n$n-m$n-m-ND
+	eng	drug	n$n-sg	spa	droga	n$n-f$n-f-sg
+	eng	drug	n$n-sg	spa	fármaco	n$n-m$n-m-ND
 	eng	drugstore	n	spa	farmacia	n-f$n$n-f-sg
 	eng	drum	n$n-sg	spa	bidón	n$n-m
 	eng	drum	n$n-sg	spa	tambor	n-m$n
@@ -12774,7 +12774,7 @@ LR	eng	event	n$n-sg	spa	caso	n-m$n$n-m-sg
 	eng	eventuality	n$n-ND	spa	eventualidad	n$n-f$n-f-sg
 	eng	eviction	n	spa	desahucio	n$n-m
 	eng	evidence	n$n-unc	spa	evidencia	n$n-f$n-f-ND
-	eng	evil	n$n-ND	spa	mal	n$n-m$n-m-ND
+	eng	evil	n$n-ND	spa	mal	n-m$n$n-m-ND
 	eng	evocation	n	spa	evocación	n$n-f
 	eng	evolution	n$n-ND	spa	evolución	n$n-f$n-f-sg
 	eng	exaggeration	n	spa	exageración	n$n-f
@@ -12893,7 +12893,7 @@ RL	eng	failure	n$n-ND	spa	bancarrota	n-f$n
 	eng	fallow	n	spa	barbecho	n-m$n
 	eng	falsity	n	spa	falsedad	n$n-f$n-f-ND
 	eng	fame	n$n-unc	spa	fama	n$n-f$n-f-ND
-	eng	family	n$n-ND	spa	familia	n-f$n$n-f-sg
+	eng	family	n$n-ND	spa	familia	n$n-f$n-f-sg
 RL	eng	fan	n$n-pl	spa	abanico	n$n-m$n-m-ND
 	eng	fan	n$n-pl	spa	seguidor	n$n-GD$n-GD-ND
 	eng	fan	n$n-pl	spa	ventilador	n$n-m$n-m-sg
@@ -13020,8 +13020,8 @@ LR	eng	floor	n$n-sg	spa	fondo	n-f
 	eng	flora	n$n-ND	spa	flora	n$n-f$n-f-ND
 	eng	florist	n	spa	florista	n-mf$n$n-mf-sg
 	eng	flotation	n	spa	flotación	n$n-f
-	eng	flour	n$n-sg	spa	harina	n$n-f
-RL	eng	flour	n$n-sg	spa	harina	n$n-f
+	eng	flour	n$n-sg	spa	harina	n$n-f$n-f-sg
+RL	eng	flour	n$n-sg	spa	harina	n$n-f$n-f-sg
 	eng	flower	n$n-sg	spa	flor	n-f$n$n-f-ND
 	eng	flow	n$n-ND	spa	flujo	n-m$n$n-m-ND
 	eng	flowering	n$n-ND	spa	floración	n$n-f
@@ -13030,7 +13030,7 @@ RL	eng	flowering	n$n-ND	spa	florecimiento	n-m$n$n-m-ND
 	eng	cotton plant	n$n-ND	spa	algodonero	n$n-m$n-m-ND
 	eng	flowerpot	n$n-ND	spa	maceta	n-f$n$n-f-ND
 RL	eng	flowerpot	n$n-ND	spa	tiesto	n-m$n
-	eng	flu	n$n-ND	spa	gripe	n$n-f$n-f-ND
+	eng	flu	n$n-sg	spa	gripe	n$n-f$n-f-ND
 	eng	fluctuation	n	spa	fluctuación	n$n-f$n-f-sg
 	eng	fluff	n	spa	vello	n$n-m
 	eng	fluidity	n$n-sg	spa	fluidez	n$n-f$n-f-sg
@@ -13132,7 +13132,7 @@ LR	eng	frock	n$n-ND	spa	hábito	n-m$n$n-m-ND
 LR	eng	front	n$n-sg	spa	frente	n-mf$n$n-mf-ND
 LR	eng	frontier	n$n-ND	spa	frontera	n$n-f$n-f-sg
 	eng	fruit	n$n-sg	spa	fruta	n$n-f$n-f-sg
-RL	eng	fruit	n$n-sg	spa	fruto	n$n-m$n-m-ND
+RL	eng	fruit	n$n-sg	spa	fruto	n$n-m$n-m-sg
 	eng	frustration	n$n-ND	spa	frustración	n$n-f$n-f-ND
 	eng	fuel	n$n-ND	spa	combustible	n$n-m$n-m-sg
 RL	eng	fuel	n$n-ND	spa	fuel	n$n-m
@@ -13317,7 +13317,7 @@ LR	eng	grant	n$n-ND	spa	subvención	n$n-f$n-f-sg
 	eng	grape	n$n-pl	spa	uva	n-f$n$n-f-ND
 LR	eng	graphics	n$n-ND	spa	gráfico	n-m$n$n-m-ND
 	eng	graphite	n	spa	grafito	n-m$n
-	eng	grass	n$n-sg	spa	hierba	n-f$n$n-f-ND
+	eng	grass	n$n-sg	spa	hierba	n-f$n$n-f-sg
 	eng	gratitude	n$n-ND	spa	agradecimiento	n-m$n$n-m-sg
 	eng	gratuitousness	n	spa	gratuidad	n$n-f$n-f-sg
 	eng	decimal	n	spa	decimal	n$n-m$n-m-sg
@@ -13428,7 +13428,7 @@ LR	eng	head	n$n-sg	spa	jefe	n-f$n-f-sg
 	eng	height	n$n-ND	spa	estatura	n$n-f$n-f-ND
 	eng	helicopter	n$n-ND	spa	helicóptero	n$n-m$n-m-ND
 	eng	hell	n$n-ND	spa	infierno	n$n-m$n-m-ND
-	eng	helmet	n$n-ND	spa	casco	n-m$n$n-m-sg
+	eng	helmet	n$n-ND	spa	casco	n$n-m$n-m-sg
 RL	eng	help	n$n-ND	spa	auxilio	n$n-m
 	eng	help	n$n-ND	spa	ayuda	n-f$n$n-f-sg
 	eng	hematoma	n	spa	hematoma	n-f
@@ -14048,7 +14048,7 @@ LR	eng	lift	n$n-ND	spa	impulso	n-m$n$n-m-sg
 	eng	light	n$n-ND	spa	luz	n-f$n$n-f-sg
 RL	eng	lighter	n	spa	encendedor	n$n-m$n-m-sg
 	eng	lighter	n	spa	mechero	n$n-m
-	eng	lightning	n$n-unc	spa	relámpago	n$n-m
+	eng	lightning	n$n-sg	spa	relámpago	n$n-m
 	eng	lily	n$n-ND	spa	lirio	n$n-m$n-m-ND
 	eng	limit	n$n-ND	spa	límite	n$n-m$n-m-sg
 	eng	limitation	n$n-ND	spa	limitación	n$n-f$n-f-sg
@@ -14067,7 +14067,7 @@ RL	eng	lion	n$n-ND	spa	león	n$n-m$n-m-sg
 	eng	liquefaction	n	spa	licuefacción	n$n-f
 	eng	liquid	n$n-ND	spa	líquido	n-m$n$n-m-sg
 	eng	liquidity	n	spa	liquidez	n$n-f-sg$n-f
-	eng	liquor	n$n-ND	spa	licor	n-m$n$n-m-sg
+	eng	liquor	n$n-ND	spa	licor	n$n-m$n-m-sg
 	eng	list	n$n-ND	spa	lista	n$n-f$n-f-sg
 	eng	listing	n	spa	listado	n-m$n
 	eng	literacy	n	spa	alfabetización	n$n-f$n-f-sg
@@ -14124,8 +14124,8 @@ LR	eng	lump	n	spa	trozo	n-m$n$n-m-ND
 	eng	lynching	n	spa	linchamiento	n$n-m
 	eng	lyre	n$n-ND	spa	lira	n-f$n$n-f-ND
 	eng	lyric	n-sg	spa	lírica	n$n-f$n-f-sg
-RL	eng	lyric	n-pl$n	spa	lírica	n-f-pl
-LR	eng	lyric	n-pl$n	spa	letra	n-f-pl
+RL	eng	lyric	n$n-pl	spa	lírica	n-f-pl
+LR	eng	lyric	n$n-pl	spa	letra	n-f-pl
 	eng	lyricism	n	spa	lirismo	n$n-m
 	eng	machination	n	spa	maquinación	n$n-f
 	eng	machine	n$n-sg	spa	máquina	n$n-f$n-f-ND
@@ -14161,8 +14161,8 @@ RL	eng	malefactor	n	spa	malhechor	n$n-GD$n-GD-pl
 	eng	man	n$n-ND	spa	hombre	n-m$n$n-m-sg$
 RL	eng	man	n$n-ND	spa	varón	n-m$n$n-m-ND
 LR	eng	management	n$n-sg	spa	administración	n-f$n$n-f-sg
-LR	eng	management	n$n-sg	spa	gestión	n-f$n$n-f-sg
-RL	eng	management	n$n-sg	spa	gestión	n-f$n$n-f-sg
+LR	eng	management	n$n-sg	spa	gestión	n$n-f$n-f-sg
+RL	eng	management	n$n-sg	spa	gestión	n$n-f$n-f-sg
 LR	eng	manager	n$n-ND	spa	director	n-GD$n-GD-pl
 RL	eng	manager	n$n-ND	spa	director	n$n-m$n-m-sg
 LR	eng	manager	n$n-ND	spa	gerente	n-f
@@ -14416,12 +14416,12 @@ LR	eng	motor	n$n-ND	spa	motor	n-m$n$n-m-sg
 	eng	motorist	n	spa	automovilista	n$n-mf
 	eng	motorisation	n	spa	motorización	n$n-f
 	eng	mould	n	spa	molde	n-m$n
-LR	eng	mount	n	spa	monte	n-m$n
+LR	eng	mount	n	spa	monte	n$n-m
 	eng	mount	n	spa	montura	n$n-f
 	eng	mountain	n$n-ND	spa	montaña	n-f$n$n-f-sg
 	eng	mountain	n$n-ND	spa	selva	n-f$n$n-f-ND
 RL	eng	mountain	n$n-ND	spa	montaña	n-f$n$n-f-sg
-RL	eng	mountain	n$n-ND	spa	monte	n-m$n
+RL	eng	mountain	n$n-ND	spa	monte	n$n-m
 	eng	mountaineer	n$n-ND	spa	alpinista	n$n-mf
 RL	eng	mountaineering	n	spa	alpinismo	n-m$n
 LR	eng	mounting	n	spa	montura	n$n-f
@@ -14495,7 +14495,7 @@ LR	eng	navigator	n	spa	explorador	n-GD$n-GD-pl
 	eng	negation	n	spa	negación	n$n-f$n-f-sg
 LR	eng	neglect	n	spa	negligencia	n$n-f
 	eng	negligence	n	spa	negligencia	n$n-f
-RL	eng	negotiation	n$n-pl	spa	gestión	n-f$n$n-f-sg
+RL	eng	negotiation	n$n-pl	spa	gestión	n$n-f$n-f-sg
 	eng	negotiation	n$n-pl	spa	negociación	n$n-f$n-f-sg
 LR	eng	neighbour	n$n-ND	spa	vecino	n-GD-ND$n-GD
 RL	eng	neighbour	n$n-ND	spa	vecino	n$n-m-sg$n-m
@@ -14590,7 +14590,7 @@ RL	eng	numismatist	n	spa	numismático	n$n-GD
 LR	eng	nurse	n$n-ND	spa	enfermero	n$n-GD
 RL	eng	nurse	n$n-ND	spa	enfermero	n$n-GD
 	eng	nut	n$n-sg	spa	tuerca	n$n-f
-	eng	nut	n$n-sg	spa	fruto seco	
+	eng	nut	n$n-sg	spa	fruto seco	n-m
 	eng	nutrient	n	spa	nutriente	n$n-m$n-m-sg
 	eng	nutrition	n$n-ND	spa	nutrición	n$n-f$n-f-sg
 	eng	nymph	n	spa	ninfa	n$n-f
@@ -15018,7 +15018,7 @@ RL	eng	place	n$n-ND	spa	puesto	n$n-m$n-m-sg
 	eng	plain	n$n-ND	spa	llanura	n-f$n$n-f-ND
 	eng	plan	n$n-ND	spa	plan	n$n-m$n-m-sg
 LR	eng	plane	n$n-ND	spa	avión	n-m$n$n-m-sg
-	eng	plane	n$n-ND	spa	plano	n-m$n$n-m-sg
+	eng	plane	n$n-ND	spa	plano	n$n-m$n-m-sg
 	eng	planet	n$n-ND	spa	planeta	n-m$n$n-m-ND
 	eng	planing	n	spa	planeamiento	n-m$n
 	eng	plankton	n$n-sg	spa	plancton	n$n-m$n-m-sg
@@ -15353,7 +15353,7 @@ RL	eng	purchaser	n$n-ND	spa	comprador	n$n-m$n-m-ND
 	eng	purity	n$n-ND	spa	pureza	n$n-f
 	eng	purpose	n$n-ND	spa	propósito	n$n-m$n-m-ND
 LR	eng	purpose	n$n-ND	spa	finalidad	n$n-f$n-f-sg
-LR	eng	pursuit	n$n-ND	spa	búsqueda	n-f$n$n-f-sg
+LR	eng	pursuit	n$n-ND	spa	búsqueda	n$n-f$n-f-sg
 RL	eng	pursuit	n$n-ND	spa	persecución	n$n-f$n-f-ND
 	eng	push	n$n-ND	spa	empujón	n-m$n$n-m-ND
 	eng	pyramid	n$n-sg	spa	pirámide	n$n-f$n-f-sg
@@ -15592,12 +15592,12 @@ RL	eng	reporter	n$n-sg	spa	reportero	n$n-GD
 	eng	repurchase	n	spa	recompra	n$n-f
 	eng	reputation	n$n-sg	spa	reputación	n$n-f$n-f-sg
 	eng	request	n$n-ND	spa	petición	n$n-f$n-f-sg
-RL	eng	request	n$n-ND	spa	requerimiento	n-m$n$n-m-sg
+RL	eng	request	n$n-ND	spa	requerimiento	n$n-m$n-m-sg
 	eng	requirement	n	spa	requisito	n$n-m-sg$n-m
 	eng	rescission	n	spa	rescisión	n$n-f
 	eng	rescue	n$n-ND	spa	rescate	n$n-m$n-m-sg
 RL	eng	rescue	n$n-ND	spa	salvamento	n$n-m$n-m-sg
-	eng	research	n$n-ND	spa	búsqueda	n-f$n$n-f-sg
+	eng	research	n$n-ND	spa	búsqueda	n$n-f$n-f-sg
 RL	eng	research	n$n-ND	spa	investigación	n-f$n$n-f-sg
 LR	eng	researcher	n$n-ND	spa	investigador	n-GD$n-GD-pl
 RL	eng	researcher	n$n-ND	spa	investigador	n$n-m-sg$n-m
@@ -15771,7 +15771,7 @@ RL	eng	salami	n	spa	salame	n-m
 LR	eng	sale	n$n-ND	spa	mercadillo	n-f
 	eng	salinity	n$n-ND	spa	salinidad	n$n-f$n-f-sg
 	eng	saliva	n	spa	saliva	n$n-f$n-f-sg
-	eng	salt	n$n-ND	spa	sal	n-f$n$n-f-sg
+	eng	salt	n$n-sg	spa	sal	n-f$n$n-f-sg
 	eng	salvation	n$n-ND	spa	salvación	n$n-f$n-f-ND
 	eng	sample	n	spa	muestra	n$n-f$n-f-sg
 	eng	DNA sample	n	spa	muestra	n$n-f$n-f-sg
@@ -15810,7 +15810,7 @@ RL	eng	stair	n$n-pl	spa	peldaño	n-m$n$n-m-sg
 RL	eng	stair	n$n-pl	spa	escalón	n$n-m$n-m-ND
 LR	eng	staircase	n$n-ND	spa	escalera	n-f$n$n-f-sg
 	eng	escape	n$n-ND	spa	escapada	n-f$n
-	eng	scalp	n$n-ND	spa	cuero cabelludo	n$n-m
+	eng	scalp	n$n-ND	spa	cuero cabelludo	n-m
 	eng	scan	n$n-sg	spa	escáner	n$n-m$n-m-sg
 	eng	scandal	n$n-sg	spa	escándalo	n$n-m$n-m-sg
 	eng	scanner	n$n-sg	spa	escáner	n$n-m$n-m-sg
@@ -15837,7 +15837,7 @@ RL	eng	scholar	n$n-ND	spa	erudito	n$n-GD
 	eng	scholarship	n$n-sg	spa	beca	n$n-f$n-f-sg
 RL	eng	school	n$n-sg	spa	colegio	n-m$n$n-m-ND
 	eng	school	n$n-sg	spa	escuela	n-f$n$n-f-sg
-	eng	science	n$n-ND	spa	ciencia	n-f$n$n-f-sg
+	eng	science	n$n-ND	spa	ciencia	n$n-f$n-f-sg
 LR	eng	scientist	n$n-ND	spa	científico	n-GD$n-GD-ND
 RL	eng	scientist	n$n-ND	spa	científico	n$n-m$n-m-sg
 	eng	scissors	n$n-pl	spa	tijeras	n-f$n$n-f-pl
@@ -15869,7 +15869,7 @@ RL	eng	sculptor	n$n-sg	spa	escultor	n$n-m$n-m-pl
 	eng	seal	n$n-ND	spa	foca	n$n-f$n-f-sg
 	eng	seal	n$n-ND	spa	sello	n-m$n$n-m-sg
 RL	eng	search	n$n-ND	spa	busca	n-f$n$n-f-ND
-LR	eng	search	n$n-ND	spa	búsqueda	n-f$n$n-f-sg
+LR	eng	search	n$n-ND	spa	búsqueda	n$n-f$n-f-sg
 RL	eng	search	n$n-ND	spa	cacheo	n$n-m
 	eng	searcher	n	spa	buscador	n$n-m$n-m-pl
 	eng	seasickness	n	spa	mareo	n$n-m
@@ -15884,7 +15884,7 @@ RL	eng	seat	n$n-ND	spa	localidad	n$n-f$n-f-ND
 	eng	secession	n	spa	secesión	n$n-f
 	eng	secessionism	n	spa	secesionismo	n$n-m
 	eng	seclusion	n	spa	reclusión	n$n-f$n-f-sg
-	eng	second	n$n-ND	spa	segundo	n-m$n$n-m-ND
+	eng	second	n$n-sg	spa	segundo	n-m$n$n-m-ND
 	eng	secrecy	n$n-sg	spa	clandestinidad	n$n-f
 RL	eng	secret	n$n-ND	spa	entresijo	n-m$n$n-m-ND
 	eng	secret	n$n-ND	spa	secreto	n-m$n$n-m-sg
@@ -16278,7 +16278,7 @@ LR	eng	bulb	n$n-ND	spa	bombilla	n-f$n$n-f-ND
 	eng	spy	n	spa	espía	n-mf$n$n-mf-sg
 	eng	square	n$n-ND	spa	plaza	n-f$n$n-f-ND
 	eng	squid	n	spa	calamar	n$n-m
-	eng	money	n$n-sg	spa	dinero	n-m-sg$n-m$n
+	eng	money	n$n-sg	spa	dinero	n-m-sg$n$n-m
 	eng	stabilisation	n$n-ND	spa	estabilización	n$n-f$n-f-sg
 	eng	security forces	n	spa	fuerzas de seguridad	n-f
 	eng	stadium	n$n-ND	spa	estadio	n$n-m$n-m-ND
@@ -16573,8 +16573,8 @@ RL	eng	tarpaulin	n$n-ND	spa	tino	n$n-m
 	eng	task	n$n-sg	spa	tarea	n-f$n$n-f-ND
 	eng	taste	n$n-sg	spa	gusto	n$n-m$n-m-sg
 	eng	tax	n$n-ND	spa	impuesto	n-m$n$n-m-sg
-RL	eng	income tax	n$n-ND	spa	IRPF	n$n-acr$n-acr-m
-	eng	income tax	n$n-ND	spa	impuesto	n-m$n$n-m-sg
+RL	eng	income tax	n	spa	IRPF	n$n-acr$n-acr-m
+	eng	income tax	n	spa	impuesto	n-m$n$n-m-sg
 LR	eng	taxation	n$n-sg	spa	impuesto	n-m-pl
 LR	eng	taxation	n-pl	spa	impuesto	n-m-pl
 	eng	taxi	n$n-sg	spa	taxi	n$n-m$n-m-sg
@@ -16705,7 +16705,7 @@ LR	eng	tip	n$n-ND	spa	consejo	n-m$n$n-m-sg
 LR	eng	tissue	n$n-ND	spa	pañuelo	n$n-m$n-m-ND
 	eng	tissue	n$n-ND	spa	tejido	n$n-m
 	eng	handkerchief	n$n-ND	spa	pañuelo	n$n-m$n-m-ND
-	eng	title	n$n-ND	spa	título	n-m$n$n-m-sg
+	eng	title	n$n-ND	spa	título	n$n-m$n-m-sg
 	eng	titularity	n	spa	titularidad	n$n-f$n-f-sg
 	eng	toad	n	spa	sapo	n-m$n
 RL	eng	toast	n$n-ND	spa	brindis	n-m-sp$n-m$n
@@ -16823,7 +16823,7 @@ RL	eng	traumatism	n	spa	traumatismo	n$n-m
 LR	eng	traumatologist	n	spa	traumatólogo	n$n-GD
 RL	eng	traumatologist	n	spa	traumatólogo	n$n-GD
 	eng	traumatology	n$n-sg	spa	traumatología	n$n-f
-LR	eng	travel	n$n-ND	spa	viaje	n-m$n$n-m-sg
+LR	eng	travel	n$n-sg	spa	viaje	n-m$n$n-m-sg
 LR	eng	traveller	n$n-ND	spa	viajero	n-GD$n-GD-ND
 RL	eng	traveller	n$n-ND	spa	viajero	n$n-m
 	eng	treasure	n$n-ND	spa	tesoro	n$n-m$n-m-ND
@@ -16919,8 +16919,8 @@ LR	eng	undertaking	n$n-ND	spa	garantía	n$n-f$n-f-sg
 	eng	undertaking	n$n-ND	spa	tarea	n-f$n$n-f-ND
 RL	eng	unemployment	n$n-ND	spa	desempleo	n$n-m$n-m-sg
 RL	eng	unemployment	n$n-ND	spa	desocupación	n$n-f
-	eng	unemployment	n$n-ND	spa	paro	n$n-m$n-m-ND
-LR	eng	unemployment	n$n-ND	spa	paro	n$n-m$n-m-ND
+	eng	unemployment	n$n-ND	spa	paro	n-m$n$n-m-ND
+LR	eng	unemployment	n$n-ND	spa	paro	n-m$n$n-m-ND
 	eng	unhappiness	n$n-unc	spa	infelicidad	n$n-f
 	eng	unicorn	n$n-ND	spa	unicornio	n$n-m$n-m-ND
 	eng	unification	n	spa	unificación	n$n-f$n-f-sg
@@ -16967,9 +16967,9 @@ LR	eng	vacation	n-pl	spa	vacaciones	n$n-f-pl$n-f
 	eng	valuation	n	spa	tasación	n$n-f
 	eng	value	n$n-sg	spa	valor	n-m$n$n-m-sg
 	eng	vampire	n	spa	vampiro	n$n-m
-RL	eng	van	n$n-ND	spa	camioneta	n$n-f$n-f-ND
-	eng	van	n$n-ND	spa	furgoneta	n$n-f$n-f-ND
-RL	eng	van	n$n-ND	spa	furgón	n-m$n
+RL	eng	van	n$$n-ND	spa	camioneta	n$n-f$n-f-ND
+	eng	van	n$$n-ND	spa	furgoneta	n$n-f$n-f-ND
+RL	eng	van	n$$n-ND	spa	furgón	n-m$n
 RL	eng	vandalism	n	spa	gamberrismo	n$n-m
 	eng	vandalism	n	spa	vandalismo	n$n-m
 	eng	vanity	n$n-sg	spa	vanidad	n$n-f$n-f-sg
@@ -17180,7 +17180,7 @@ LR	eng	on top	adv	spa	arriba	adv
 	eng	windsurfing	n	spa	windsurf	n-m
 	eng	wine	n$n-ND	spa	vino	n$n-m$n-m-sg
 	eng	red wine	n	spa	vino tinto	
-	eng	white wine	n	spa	vino blanco	n$n-m
+	eng	white wine	n	spa	vino blanco	n-m
 	eng	wing	n$n-sg	spa	ala	n$n-f$n-f-ND
 	eng	wink	n	spa	guiño	n-m$n
 LR	eng	winner	n$n-ND	spa	ganador	n-GD$n-GD-ND
@@ -17254,7 +17254,7 @@ LR	eng	yield	n$n-ND	spa	cosecha	n$n-f$n-f-ND
 	eng	zinc	n$n-sg	spa	zinc	n$n-m
 LR	eng	zinc	n$n-sg	spa	zinc	n$n-m
 RL	eng	zinc	n$n-sg	spa	zinc	n$n-m
-	eng	zone	n$n-ND	spa	zona	n-f$n$n-f-sg
+	eng	zone	n$n-ND	spa	zona	n$n-f$n-f-sg
 	eng	zoning	n	spa	zonificación	n$n-f
 LR	eng	British	n$n-ND	spa	británico	n$n-GD
 RL	eng	British	n$n-ND	spa	británico	n$n-GD
@@ -17333,7 +17333,7 @@ RL	eng	Guatemalan	n	spa	guatemalteco	n$n-GD
 LR	eng	Honduran	n	spa	hondureño	n$n-GD$n-GD-ND
 RL	eng	Honduran	n	spa	hondureño	n$n-GD$n-GD-ND
 	eng	human	n$n-ND	spa	humano	n-m-sg$n$n-m
-	eng	human being	n	spa	ser humano	n-m$n
+	eng	human being	n	spa	ser humano	n-m
 	eng	raincoat	n$n-sg	spa	impermeable	n$n-m
 	eng	impressionist	n	spa	impresionista	n$n-mf
 LR	eng	Indian	n$n-ND	spa	indio	n-GD
@@ -17395,7 +17395,7 @@ RL	eng	newspaper	n$n-ND	spa	periódico	n-m$n$n-m-ND
 	eng	Persian	n	spa	persa	n-mf$n$n-mf-sg
 LR	eng	Peruvian	n	spa	peruano	n$n-GD
 RL	eng	Peruvian	n	spa	peruano	n$n-GD
-RL	eng	plan	n$n-ND	spa	plano	n-m$n$n-m-sg
+RL	eng	plan	n$n-ND	spa	plano	n$n-m$n-m-sg
 	eng	plenary	n$n-ND	spa	pleno	n$n-m$n-m-ND
 LR	eng	Pole person	n	spa	polaco	n-GD
 RL	eng	Pole person	n	spa	polaco	n$n-m
@@ -17461,15 +17461,15 @@ RL	eng	revolutionary	n$n-ND	spa	revolucionario	n$n-GD
 	eng	singular	n	spa	singular	n-m$n
 	eng	solid	n$n-ND	spa	sólido	n$n-m$n-m-sg
 	eng	top	n$n-ND	spa	parte superior	n-f$n-f-ND
-LR	eng	Mr.	n	spa	Señor	n-m
-LR	eng	Mrs.	n$n-sg	spa	Señor	n-f
+LR	eng	Mr.	n$	spa	Señor	n-m
+LR	eng	Mrs.	n$$n-sg	spa	Señor	n-f
 	eng	Miss	n$	spa	señorita	n-f$$n
-LR	eng	Ms.	n	spa	Señor	n-f
+LR	eng	Ms.	n$	spa	Señor	n-f
 	eng	Messrs.	n	spa	Sres.	n$n-m
-RL	eng	Mr.	n	spa	Sr.	n$n-m$n-m-sg
-RL	eng	Mrs.	n$n-sg	spa	Sra.	n$n-f
-	eng	Dr.	n	spa	Dr.	n$n-m
-RL	eng	Dr.	n	spa	Dra.	n$n-f
+RL	eng	Mr.	n$	spa	Sr.	n$n-m$n-m-sg
+RL	eng	Mrs.	n$$n-sg	spa	Sra.	n$n-f
+	eng	Dr.	n$	spa	Dr.	n$n-m
+RL	eng	Dr.	n$	spa	Dra.	n$n-f
 	eng	convertible bond	n	spa	obligación convertible	n$n-f
 	eng	foreign currency	n	spa	moneda extranjera	n$n-f
 	eng	time limit	n	spa	plazo máximo	n$n-m
@@ -17574,7 +17574,7 @@ RL	eng	NATO	n-acr$n$n-acr-sg	spa	NATO	n-acr-f
 LR	eng	all	predet-sp$predet	spa	todo	predet-GD-ND
 RL	eng	all	predet-sp$predet	spa	todo	predet$predet-ind-GD
 LR	eng	a	det-ind-sg$det-ind$det$	spa	uno	det-ind-GD$det-ind-GD-ND
-RL	eng	a	det-ind-sg$det-ind$det$	spa	uno	det-ind$det$det-ind-m-sg$det-ind-m
+RL	eng	a	det-ind-sg$det-ind$det$	spa	uno	det$det-ind$det-ind-m-sg$det-ind-m
 RL	eng	a	det-ind-sg$det-ind$det$	spa	uno	det-ind-f-sg
 RL	eng	some	det-qnt-pl	spa	unos pocos	det-ind-m-pl
 RL	eng	some	det-qnt-pl	spa	unos pocos	det-ind-f-pl
@@ -17585,7 +17585,7 @@ RL	eng	another	det-ind$det-ind-sg$det	spa	otro	det-ind-f-sg$det-ind-f
 RL	eng	another	det-ind$det-ind-sg$det	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m
 RL	eng	other	det-ind-pl$det-ind$det$det-ind-mf-pl	spa	otro	det-ind-f-pl
 RL	eng	other	det-ind-pl$det-ind$det$det-ind-mf-pl	spa	otro	det-ind-m-pl
-	eng	any	det-ind-sp$det-ind$det	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+	eng	any	det-ind-sp$det-ind$det	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
 LR	eng	any	det-ind-sp$det-ind$det	spa	cualquier	det-ind-mf-ND$det-ind-mf$det-ind$det
 RL	eng	any	det-ind-sp$det-ind$det	spa	cualquier	det-ind-mf-sg
 RL	eng	any	det-ind-sp$det-ind$det	spa	cualquier	det-ind-mf-pl
@@ -17614,7 +17614,7 @@ LR	eng	their	det-pos$det-pos-sp$det	spa	suyo	det-pos-mf$det-pos-mf-ND$det-pos$de
 LR	eng	several	det-ind-pl$det$det-ind	spa	varios	det-ind-GD$det-ind$det
 RL	eng	several	det-ind-pl$det$det-ind	spa	varios	det-ind-GD$det-ind$det
 LR	eng	some	det-qnt$det-qnt-sp$det	spa	alguno	det-qnt-GD-ND
-RL	eng	some	det-qnt$det-qnt-sp$det	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+RL	eng	some	det-qnt$det-qnt-sp$det	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
 LR	eng	enough	det-qnt-sp$det-qnt$det	spa	bastante	det$det-qnt-mf$det-qnt-mf-ND
 RL	eng	some	det-qnt$det-qnt-sp$det	spa	cierto	det$det-ind$det-ind-m-sg
 LR	eng	how many	det-itg-pl$det-itg$det	spa	cuánto	det-itg$det-itg-GD$det
@@ -17644,27 +17644,27 @@ RL	eng	little	det-qnt-sg$det-qnt$det	spa	poco	det-qnt-f-sg
 LR	eng	few	det-qnt-pl$det-qnt$det	spa	poco	det-qnt$det-qnt-GD
 RL	eng	few	det-qnt-pl$det-qnt$det	spa	poco	det-qnt-m-pl
 RL	eng	few	det-qnt-pl$det-qnt$det	spa	poco	det-qnt-f-pl
-	eng	more	det-qnt$det-qnt-sp$det	spa	más	det-qnt-mf-sp$det
+	eng	more	det-qnt-sp$det-qnt$det	spa	más	det-qnt-mf-sp$det
 LR	eng	most	det-qnt$det-qnt-sp$det	spa	la mayoría de	det-qnt-mf-sp
-LR	eng	the most	det-qnt-sp$det$det-qnt	spa	la mayoría de	det-qnt-mf-sp
+LR	eng	the most	det-qnt-sp$det	spa	la mayoría de	det-qnt-mf-sp
 	eng	most of	det-qnt-sp$det	spa	la mayoría de	det-qnt-mf-sp
 LR	eng	much	det-qnt$det-qnt-sg$det	spa	mucho	det-qnt$det-qnt-GD-ND$det-qnt-GD
 LR	eng	many	det-qnt$det$det-qnt-pl	spa	mucho	det-qnt$det-qnt-GD-ND$det-qnt-GD
-LR	eng	a shitload of	det-qnt-sp$det	spa	un mogollón de	det-qnt-mf-sp
-	eng	more than half of	det-qnt-sp$det	spa	más de la mitad de	det-qnt-mf-sp
+LR	eng	a shitload of	det$det-qnt-sp	spa	un mogollón de	det-qnt-mf-sp
+	eng	more than half of	det$det-qnt-sp	spa	más de la mitad de	det-qnt-mf-sp
 RL	eng	a lot of	det-qnt-sp$det$det-qnt	spa	un mogollón de	det-qnt-mf-sp
 LR	eng	a lot of	det-qnt-sp$det$det-qnt	spa	mucho	det-qnt$det-qnt-GD-ND$det-qnt-GD
 RL	eng	a lot of	det-qnt-sp$det$det-qnt	spa	mucho	det-ind$det$det-ind-GD-ND
 LR	eng	lots of	det-qnt-sp$det$det-qnt	spa	mucho	det-qnt$det-qnt-GD-ND$det-qnt-GD
-LR	eng	a few	det-qnt-pl$det$det-qnt	spa	unos cuantos	det-qnt-GD
-RL	eng	a few	det-qnt-pl$det$det-qnt	spa	unos cuantos	det$det-qnt-m-pl
+LR	eng	a few	det$det-qnt$det-qnt-pl	spa	unos cuantos	det-qnt-GD
+RL	eng	a few	det$det-qnt$det-qnt-pl	spa	unos cuantos	det$det-qnt-m-pl
 LR	eng	so much	det-qnt-sg$det-qnt$det	spa	tanto	det-qnt$det-qnt-GD
 RL	eng	so much	det-qnt-sg$det-qnt$det	spa	tanto	det-qnt-m-sg
 RL	eng	so much	det-qnt-sg$det-qnt$det	spa	tanto	det-qnt-f-sg
 LR	eng	so many	det-qnt-pl$det-qnt$det	spa	tanto	det-qnt$det-qnt-GD
 RL	eng	so many	det-qnt-pl$det-qnt$det	spa	tanto	det-qnt-m-pl
 RL	eng	so many	det-qnt-pl$det-qnt$det	spa	tanto	det-qnt-f-pl
-LR	eng	as much	det-qnt$det-qnt-sg$det	spa	tanto	det-qnt$det-qnt-GD
+LR	eng	as much	det-qnt$det$det-qnt-sg	spa	tanto	det-qnt$det-qnt-GD
 LR	eng	the same	det$det-ind-sp$det-ind	spa	el mismo	det-ind-GD-ND
 RL	eng	the same	det$det-ind-sp$det-ind	spa	el mismo	det$det-dem
 LR	eng	too much	det-qnt-sg$det-qnt$det	spa	demasiado	det-qnt$det$det-qnt-GD
@@ -17675,7 +17675,7 @@ RL	eng	too much	det-qnt-sg$det-qnt$det	spa	demasiado	det-qnt-m-sg
 RL	eng	too much	det-qnt-sg$det-qnt$det	spa	demasiado	det-qnt-f-sg
 LR	eng	quite a lot of	det-qnt-sp$det$det-qnt	spa	bastante	det$det-qnt-mf$det-qnt-mf-ND
 RL	eng	quite a lot of	det-qnt-sp$det$det-qnt	spa	bastante	det$det-qnt-mf$det-qnt-mf-ND
-LR	eng	such a	det-ind$det$det-ind-sg	spa	tal	det-ind-mf-sg$det$det-ind$det-ind-mf
+LR	eng	such a	det-ind$det	spa	tal	det-ind-mf-sg$det$det-ind$det-ind-mf
 LR	eng	such	det-ind-sp$det-ind$det	spa	tal	det-ind-mf-ND
 RL	eng	such	det-ind-sp$det-ind$det	spa	tal	det-ind-mf-sg$det$det-ind$det-ind-mf
 LR	eng	first	det-ord-sp	spa	primer	det-ord$det-ord-GD-ND$det
@@ -19862,7 +19862,7 @@ RL	eng	summary	adj	spa	sumario	adj
 	eng	uniform	adj	spa	uniforme	adj$adj-mf$adj-mf-ND
 	eng	multitudinous	adj	spa	multitudinario	adj$adj-m-sg
 RL	eng	casual	adj	spa	para andar por casa	adj
-RL	eng	low quality	adj	spa	de pacotilla	adj$adj-mf
+RL	eng	low quality	adj	spa	de pacotilla	adj-mf
 	eng	low quality	adj	spa	de baja calidad	adj-mf
 LR	eng	shoddy	adj$adj-sint	spa	de baja calidad	adj-mf
 	eng	working-class	adj	spa	de clase trabajadora	adj-mf
@@ -23235,20 +23235,20 @@ LR	eng	yourselves	prn-ref-p2-mf-pl$prn	spa	prpers	prn-tn-p2-m-pl$prn-tn-p2
 LR	eng	themselves	prn-ref-p3-mf-pl$prn-ref-pl$prn	spa	prpers	prn-tn-p3-m-pl$prn-tn-p3$prn-tn-p3-m$prn
 RL	eng	himself	prn-ref-p3-m-sg$prn$prn-ref-p3$prn-p3	spa	sí	prn-tn$prn$prn-tn-ref-p3-mf-sp
 	eng	that	rel$rel-an-mf-sp$rel-an	spa	que	rel$rel-an$rel-an-mf-sp
-LR	eng	the one which	rel-nn-mf-sg$prn-rel-nn-mf-sg	spa	el que	rel-nn-m-sg$rel-nn
-	eng	the one who	rel-nn-mf-sg$prn-rel-nn-mf-sg	spa	el que	rel-nn-m-sg$rel-nn
-RL	eng	the one who	rel-nn-mf-sg$prn-rel-nn-mf-sg	spa	el que	rel-nn-f-sg
-LR	eng	the ones that	rel-nn-mf-pl$prn-rel-nn-mf-pl	spa	el que	rel-nn-GD-pl
-LR	eng	the ones who	rel-nn-mf-pl$prn-rel-nn-mf-pl	spa	el que	rel-nn-GD-pl
-RL	eng	the one who	rel-nn-mf-sg$prn-rel-nn-mf-sg	spa	quien	rel-nn-mf-sg$rel-nn
-	eng	those who	rel-nn-mf-pl$prn-rel-nn-mf-pl	spa	quien	rel-nn-mf-pl$rel-mf
-	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl	spa	el que	rel-nn-m-pl
-RL	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl	spa	el que	rel-nn-f-pl
-RL	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl	spa	cuanto	rel-nn-f-pl
-RL	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl	spa	cuanto	rel-nn-m-pl
+LR	eng	the one which	rel-nn-mf-sg	spa	el que	rel-nn-m-sg$rel-nn
+	eng	the one who	rel-nn-mf-sg	spa	el que	rel-nn-m-sg$rel-nn
+RL	eng	the one who	rel-nn-mf-sg	spa	el que	rel-nn-f-sg
+LR	eng	the ones that	rel-nn-mf-pl	spa	el que	rel-nn-GD-pl
+LR	eng	the ones who	rel-nn-mf-pl	spa	el que	rel-nn-GD-pl
+RL	eng	the one who	rel-nn-mf-sg	spa	quien	rel-nn-mf-sg$rel-nn
+	eng	those who	rel-nn-mf-pl	spa	quien	rel-nn-mf-pl$rel-mf
+	eng	those that	rel-nn-mf-pl	spa	el que	rel-nn-m-pl
+RL	eng	those that	rel-nn-mf-pl	spa	el que	rel-nn-f-pl
+RL	eng	those that	rel-nn-mf-pl	spa	cuanto	rel-nn-f-pl
+RL	eng	those that	rel-nn-mf-pl	spa	cuanto	rel-nn-m-pl
 RL	eng	what	rel-nn-mf-sg$rel-nn$rel-nn-mf$prn-rel-nn-mf-sg$rel	spa	cuanto	rel-nn-f-sg
-RL	eng	what	rel-nn-mf-sg$rel-nn$rel-nn-mf$prn-rel-nn-mf-sg$rel	spa	cuanto	rel-nn$rel-nn-m-sg
-	eng	the one	prn-tn-mf$prn	spa	el	prn-tn-m$prn-tn-m-sg
+RL	eng	what	rel-nn-mf-sg$rel-nn$rel-nn-mf$prn-rel-nn-mf-sg$rel	spa	cuanto	rel$rel-nn$rel-nn-m-sg
+	eng	the one	prn-tn-mf$prn	spa	el	prn$prn-tn-m$prn-tn-m-sg
 RL	eng	the one	prn-tn-mf$prn	spa	la	prn-tn-f$prn-tn-f-sg
 RL	eng	where	rel-adv$rel	spa	adonde	rel$rel-adv
 	eng	where	rel-adv$rel	spa	donde	rel$rel-adv
@@ -23332,7 +23332,7 @@ RL	eng	in spite of	pr	spa	pese a	pr
 LR	eng	into	pr	spa	a	pr$pr-det-def-m-sg
 	eng	like	pr	spa	como	pr
 	eng	near	pr	spa	cerca	pr
-	eng	of	pr	spa	de	pr$pr-det-def-m-sg
+	eng	of	pr$	spa	de	pr$pr-det-def-m-sg
 LR	eng	off	pr	spa	de	pr$pr-det-def-m-sg
 	eng	out of	pr	spa	fuera de	pr
 LR	eng	out	pr	spa	fuera de	pr
@@ -23401,17 +23401,17 @@ RL	eng	less than	pr	spa	menos que	pr
 	eng		num-percent	spa		num$$num-percent
 	eng		num-time	spa		num-time
 	eng	ten	num$num-sp$	spa	diez	num$num-mf$num-mf-sp$
-LR	eng	ten hundred	num$num-pl	spa	mil	num$num-mf$num-mf-sp
+LR	eng	ten hundred	num$num-sp	spa	mil	num$num-mf$num-mf-sp
 	eng	ten thousand	num-sp$num	spa	diez mil	num-mf$num-mf-sp
 LR	eng	thousand	num$num-sp	spa	mil	num$num-mf$num-mf-sp
 	eng	million	num$num-sp	spa	millón	num-mf$num
-LR	eng	a million	num$num-pl	spa	un millón	num-mf
-	eng	one million	num$num-pl	spa	un millón	num-mf
-RL	eng	one million	num$num-pl	spa	un millón de	num-mf
+LR	eng	a million	num	spa	un millón	num-mf
+	eng	one million	num	spa	un millón	num-mf
+RL	eng	one million	num	spa	un millón de	num-mf
 RL	eng	million	num$num-sp	spa	millón de	num-mf
 LR	eng	billion	num$num-pl	spa	billón	num-mf$num
-LR	eng	a billion	num$num-pl	spa	un billón	num-mf
-LR	eng	one billion	num-pl$num	spa	un billón	num-mf
+LR	eng	a billion	num	spa	un billón	num-mf
+LR	eng	one billion	num	spa	un billón	num-mf
 	eng	trillion	num$num-sp	spa	billón	num-mf$num
 LR	eng	a trillion	num	spa	un billón	num-mf
 	eng	one trillion	num	spa	un billón	num-mf
@@ -23430,39 +23430,39 @@ LR	eng	one	num$num-sg$$num-pl-sg	spa	un	num$num-GD
 LR	eng	a	det-ind-sg$det-ind$det$	spa		num$$num-percent
 	eng	eleven	num$num-sp$	spa	once	num$$num-mf$num-mf-sp
 	eng	eleven thousand	num-sp$num	spa	once mil	num-mf
-LR	eng	eleven hundred	num$num-pl	spa	mil cien	num-mf-sp$num-mf
+LR	eng	eleven hundred	num	spa	mil cien	num-mf-sp$num-mf
 	eng	twelve	num$num-sp$	spa	doce	num$num-mf-pl$$num-mf
 	eng	twelve thousand	num-sp$num	spa	doce mil	num-mf
-LR	eng	twelve hundred	num$num-pl	spa	mil doscientos	num$num-GD
+LR	eng	twelve hundred	num	spa	mil doscientos	num$num-GD
 	eng	thirteen	num$num-sp$	spa	trece	num$$num-mf$num-mf-sp
 	eng	thirteen thousand	num-sp$num	spa	trece mil	num-mf
-LR	eng	thirteen hundred	num$num-pl	spa	mil trescientos	num$num-GD
+LR	eng	thirteen hundred	num	spa	mil trescientos	num$num-GD
 	eng	fourteen	num$num-sp$	spa	catorce	num$$num-mf$num-mf-sp
 	eng	fourteen thousand	num-sp$num	spa	catorce mil	num-mf
-LR	eng	fourteen hundred	num$num-pl	spa	mil cuatrocientos	num$num-GD
+LR	eng	fourteen hundred	num	spa	mil cuatrocientos	num$num-GD
 	eng	fifteen	num$num-sp$	spa	quince	num$$num-mf$num-mf-sp
 	eng	fifteen thousand	num-sp$num	spa	quince mil	num-mf
-LR	eng	fifteen hundred	num$num-pl	spa	mil quinientos	num$num-GD
+LR	eng	fifteen hundred	num	spa	mil quinientos	num$num-GD
 	eng	sixteen	num$num-sp$	spa	dieciséis	num$$num-mf$num-mf-sp
 	eng	sixteen thousand	num-sp$num	spa	dieciséis mil	num-mf
-LR	eng	sixteen hundred	num$num-pl	spa	mil seiscientos	num$num-GD
+LR	eng	sixteen hundred	num	spa	mil seiscientos	num$num-GD
 	eng	seventeen	num$num-sp$	spa	diecisiete	num$$num-mf$num-mf-sp
 	eng	seventeen thousand	num-sp$num	spa	diecisiete mil	num-mf
-LR	eng	seventeen hundred	num$num-pl	spa	mil setecientos	num-GD
+LR	eng	seventeen hundred	num	spa	mil setecientos	num-GD
 	eng	eighteen	num$num-sp$	spa	dieciocho	num$num-mf-sp$$num-mf
 	eng	eighteen thousand	num-sp$num	spa	dieciocho mil	num-mf
-LR	eng	eighteen hundred	num$num-pl	spa	mil ochocientos	num-GD
+LR	eng	eighteen hundred	num	spa	mil ochocientos	num-GD
 	eng	nineteen	num$num-sp$	spa	diecinueve	num$$num-mf$num-mf-sp
 	eng	nineteen thousand	num-sp$num	spa	diecinueve mil	num-mf
-LR	eng	nineteen hundred	num$num-pl	spa	mil novecientos	num-GD
+LR	eng	nineteen hundred	num	spa	mil novecientos	num-GD
 	eng	twenty	num$num-sp$	spa	veinte	num$$num-mf$num-mf-sp
-	eng	thirty	num$num-sp$	spa	treinta	num$$num-mf
-	eng	forty	num$num-sp$	spa	cuarenta	num$$num-mf$num-mf-sp
-	eng	fifty	num$num-sp$	spa	cincuenta	num$$num-mf
-	eng	sixty	num$num-sp$	spa	sesenta	num$$num-mf$num-mf-sp
-	eng	seventy	num$num-sp$	spa	setenta	num$$num-mf
-	eng	eighty	num$num-sp$	spa	ochenta	num$$num-mf$num-mf-sp
-	eng	ninety	num$num-sp$	spa	noventa	num$$num-mf
+	eng	thirty	num$num-sp$	spa	treinta	num$$num-mf$num-mf-sp
+	eng	forty	num$num-sp$	spa	cuarenta	num$num-mf-sp$$num-mf
+	eng	fifty	num$num-sp$	spa	cincuenta	num$$num-mf-sp$num-mf
+	eng	sixty	num$num-sp$	spa	sesenta	num$num-mf-sp$$num-mf
+	eng	seventy	num$num-sp$	spa	setenta	num$$num-mf$num-mf-sp
+	eng	eighty	num$num-sp$	spa	ochenta	num$num-mf-sp$$num-mf
+	eng	ninety	num$num-sp$	spa	noventa	num$$num-mf$num-mf-sp
 LR	eng	twenty	num$num-sp$	spa	dos	num-mf$num$num-mf-sp$
 LR	eng	thirty	num$num-sp$	spa	tres	num$num-mf-sp$
 LR	eng	forty	num$num-sp$	spa	cuatro	num$$num-mf-sp
@@ -23540,31 +23540,31 @@ RL	eng	rate	n$n-ND	spa	tasa	n-f$n$n-f-ND
 RL	eng	tax	n$n-ND	spa	tasa	n-f$n$n-f-ND
 LR	eng	tax	n$n-ND	spa	impuesto	n-f
 	eng	infant mortality rate	n	spa	tasa	n-f$n$n-f-ND
-RL	eng	James I	np-ant$np-ant-m-sg	spa	Jacobo I	np-ant
-RL	eng	James II	np-ant$np$np-ant-m-sg	spa	Jacobo II	np-ant
-	eng	James I	np-ant$np-ant-m-sg	spa	Jaime I	np-ant
-	eng	James II	np-ant$np$np-ant-m-sg	spa	Jaime II	np-ant
+RL	eng	James I	np-ant	spa	Jacobo I	np-ant
+RL	eng	James II	np-ant$np	spa	Jacobo II	np-ant
+	eng	James I	np-ant	spa	Jaime I	np-ant
+	eng	James II	np-ant$np	spa	Jaime II	np-ant
 	eng	Ignatius of Antioch	np-ant$np-ant-m-sg	spa	Ignacio de Antioquía	np-ant
 	eng	Theophorus	np-ant$np-ant-m-sg	spa	Theóforo	np-ant
 	eng	Saint Irenaeus	np-ant	spa	San Ireneo	np-ant
 	eng	John Paul I	np-ant$np-ant-m-sg	spa	Juan Pablo I	np-ant
 	eng	John Paul II	np-ant$np-ant-m-sg	spa	Juan Pablo II	np-ant$np
-	eng	Benedict I	np-ant$np-ant-m-sg	spa	Benedicto I	np-ant
-	eng	Benedict II	np-ant$np-ant-m-sg	spa	Benedicto II	np-ant
-	eng	Benedict III	np-ant$np-ant-m-sg	spa	Benedicto III	np-ant
-	eng	Benedict IV	np-ant$np-ant-m-sg	spa	Benedicto IV	np-ant
-	eng	Benedict V	np-ant$np-ant-m-sg	spa	Benedicto V	np-ant
-	eng	Benedict VI	np-ant$np-ant-m-sg	spa	Benedicto VI	np-ant
-	eng	Benedict VII	np-ant$np-ant-m-sg	spa	Benedicto VII	np-ant
-	eng	Benedict VIII	np-ant$np-ant-m-sg	spa	Benedicto VIII	np-ant
-	eng	Benedict IX	np-ant$np-ant-m-sg	spa	Benedicto IX	np-ant
-	eng	Benedict X	np-ant$np-ant-m-sg	spa	Benedicto X	np-ant
-	eng	Benedict XI	np-ant$np-ant-m-sg	spa	Benedicto XI	np-ant
-	eng	Benedict XII	np-ant$np-ant-m-sg	spa	Benedicto XII	np-ant
-	eng	Benedict XIII	np-ant$np-ant-m-sg	spa	Benedicto XIII	np-ant
-	eng	Benedict XIV	np-ant$np$np-ant-m-sg	spa	Benedicto XIV	np-ant
-	eng	Benedict XV	np-ant$np$np-ant-m-sg	spa	Benedicto XV	np-ant
-	eng	Benedict XVI	np-ant$np$np-ant-m-sg	spa	Benedicto XVI	np-ant$np
+	eng	Benedict I	np-ant	spa	Benedicto I	np-ant
+	eng	Benedict II	np-ant	spa	Benedicto II	np-ant
+	eng	Benedict III	np-ant	spa	Benedicto III	np-ant
+	eng	Benedict IV	np-ant	spa	Benedicto IV	np-ant
+	eng	Benedict V	np-ant	spa	Benedicto V	np-ant
+	eng	Benedict VI	np-ant	spa	Benedicto VI	np-ant
+	eng	Benedict VII	np-ant	spa	Benedicto VII	np-ant
+	eng	Benedict VIII	np-ant	spa	Benedicto VIII	np-ant
+	eng	Benedict IX	np-ant	spa	Benedicto IX	np-ant
+	eng	Benedict X	np-ant	spa	Benedicto X	np-ant
+	eng	Benedict XI	np-ant	spa	Benedicto XI	np-ant
+	eng	Benedict XII	np-ant	spa	Benedicto XII	np-ant
+	eng	Benedict XIII	np-ant	spa	Benedicto XIII	np-ant
+	eng	Benedict XIV	np-ant$np	spa	Benedicto XIV	np-ant
+	eng	Benedict XV	np-ant$np	spa	Benedicto XV	np-ant
+	eng	Benedict XVI	np-ant$np	spa	Benedicto XVI	np-ant$np
 	eng	John I	np-ant$np-ant-m-sg	spa	Juan I	np-ant
 	eng	John II	np-ant$np-ant-m-sg	spa	Juan II	np-ant
 	eng	John III	np-ant$np-ant-m-sg	spa	Juan III	np-ant
@@ -23620,13 +23620,13 @@ RL	eng	Xerxes	np-ant$np-ant-m-sg	spa	Xerxes	np-ant
 	eng	Elizabeth I	np-ant$np-ant-f-sg	spa	Isabel I	np-ant
 	eng	Elizabeth II	np-ant$np-ant-f-sg$np	spa	Isabel II	np$np-ant
 	eng	Isabella I of Castile	np-ant$np-ant-f-sg	spa	Isabel I la Católica	np$np-ant
-	eng	Count Dracula	np-ant$np-ant-m-sg	spa	Conde Drácula	np-ant
+	eng	Count Dracula	np-ant	spa	Conde Drácula	np-ant
 	eng	Dracula	np-ant$np-ant-m-sg$np-ant-m	spa	Drácula	np$np-ant
-	eng	Vlad Dracula	np-ant$np-ant-m-sg	spa	Vlad Draculea	np-ant
-	eng	Vlad III Dracula	np-ant$np-ant-m-sg	spa	Vlad III Draculea	np-ant
-	eng	Vlad Dracula Tepes	np-ant$np-ant-m-sg	spa	Vlad Draculea Tepes	np-ant
-	eng	Vlad III the Impaler	np-ant$np-ant-m-sg	spa	Vlad III el Empalador	np-ant
-	eng	Vlad the Impaler	np-ant$np-ant-m-sg	spa	Vlad el Empalador	np-ant
+	eng	Vlad Dracula	np-ant	spa	Vlad Draculea	np-ant
+	eng	Vlad III Dracula	np-ant	spa	Vlad III Draculea	np-ant
+	eng	Vlad Dracula Tepes	np-ant	spa	Vlad Draculea Tepes	np-ant
+	eng	Vlad III the Impaler	np-ant	spa	Vlad III el Empalador	np-ant
+	eng	Vlad the Impaler	np-ant	spa	Vlad el Empalador	np-ant
 	eng	Albrecht Dürer	np-ant$np-ant-m-sg	spa	Alberto Durero	np$np-ant
 	eng	Alexander the Great	np-ant$np-ant-m$np-ant-m-sg	spa	Alejandro Magno	np-ant$np
 	eng	Alexandre Dumas	np-ant$np-ant-m-sg	spa	Alejandro Dumas	np$np-ant
@@ -23647,45 +23647,45 @@ LR	eng	Malaga	np-loc	spa	Málaga	np$np-loc-f$np-loc
 	eng	British West Indies	np-loc	spa	Antillas inglesas	np-loc-f
 	eng	Czechoslovakia	np-loc	spa	Checoslovaquia	np$np-loc-f$np-loc
 	eng	Czech Republic	np-loc$np-loc-sg	spa	República Checa	np-loc-f$np-loc
-	eng	Dow Jones	np-al$np-al-sg	spa	Dow Jones	np$np-al$np-al-m
-	eng	Realitatea TV	np-al$np-al-sg	spa	Realitatea TV	np-al-m
+	eng	Dow Jones	np-al	spa	Dow Jones	np$np-al$np-al-m
+	eng	Realitatea TV	np-al	spa	Realitatea TV	np-al-m
 	eng	Conducator	np-al$np-al-sg	spa	Conducator	np-al-m
 	eng	Prompsit	np-al	spa	Prompsit	np$np-al-m
 	eng	Autodesk	np-al	spa	Autodesk	np-al-m
 	eng	Yahoo!	np-al$np-al-sg	spa	Yahoo!	np-al-m
-	eng	British Airways	np-al$np$np-al-sg	spa	British Airways	np-al-m
+	eng	British Airways	np-al$np	spa	British Airways	np-al-m
 	eng	Friendfeed	np-al$np-al-sg	spa	Friendfeed	np-al-m
 	eng	Dopplr	np-al$np-al-sg	spa	Dopplr	np-al-m
 	eng	iTunes	np-al$np-al-sg	spa	iTunes	np$np-al-m
 	eng	IHeardItOn	np-al$np-al-sg	spa	IHeardItOn	np-al-m
 	eng	Bing	np-al-sg$np-al	spa	Bing	np-al-m
-	eng	Microsoft Bing	np-al$np-al-sg	spa	Microsoft Bing	np-al-m
-	eng	New York Times	np-al$np	spa	New York Times	np-al-m$np
-	eng	Wall Street Journal	np-al$np$np-al-sg	spa	Wall Street Journal	np-al-m
+	eng	Microsoft Bing	np-al	spa	Microsoft Bing	np-al-m
+	eng	New York Times	np-al$np	spa	New York Times	np-al-m
+	eng	Wall Street Journal	np-al$np	spa	Wall Street Journal	np-al-m
 	eng	Nike	np-al$np-al-sg	spa	Nike	np$np-al-m
 	eng	Garmin	np-al$np-al-sg	spa	Garmin	np-al-m
-	eng	First World War	np-al$np-al-sg	spa	Primera Guerra mundial	np-al-f$np
-	eng	World Bank	np-al$np-al-sg	spa	Banco Mundial	np$np-al-m
-	eng	Cold War	np-al$np$np-al-sg	spa	Guerra Fría	np-al-f
+	eng	First World War	np-al	spa	Primera Guerra mundial	np-al-f$np
+	eng	World Bank	np-al	spa	Banco Mundial	np$np-al-m
+	eng	Cold War	np-al$np	spa	Guerra Fría	np-al-f
 	eng	German Democratic Republic	np-al	spa	República Democrática Alemana	np$np-al-f
 	eng	Federal Republic of Germany	np-al	spa	República Federal Alemana	np-al-f
 	eng	Facebook	np-al$np$np-al-sg	spa	Facebook	np$np-al$np-al-m
 	eng	Flickr	np-al$np-al-sg	spa	Flickr	np$np-al$np-al-m
 	eng	in a single place	adv	spa	en un solo lugar	adv
-	eng	International Bank for Reconstruction and Development	np-al$np-al-sg	spa	Banco Internacional de Reconstrucción y Fomento	np$np-al-m
-	eng	Great Depression	np-al$np-al-sg	spa	Gran Depresión	np$np-al-f
-	eng	Battle of Austerlitz	np-al$np-al-sg	spa	batalla de Austerlitz	np$np-al-f
-	eng	Athletic Bilbao	np-al$np-al-sg	spa	Athletic Club Bilbao	np$np-al-m
-	eng	Great War	np-al$np-al-sg	spa	Gran Guerra	np$np-al-f
-	eng	New York Stock Exchange	np-al$np-al-sg	spa	Bolsa de Nueva York	np-al-f
-RL	eng	New York Stock Exchange	np-al$np-al-sg	spa	Bolsa de Valores de Nueva York	np-al-f
-	eng	Second World War	np-al$np-al-sg	spa	Segunda Guerra mundial	np-al-f
-	eng	Web 2.0	np-al$np-al-sg	spa	Web 2.0	np-al-f
-	eng	European Defence Agency	np-al$np-al-sg	spa	Agencia Europea de Defensa	np-al-f
+	eng	International Bank for Reconstruction and Development	np-al	spa	Banco Internacional de Reconstrucción y Fomento	np$np-al-m
+	eng	Great Depression	np-al	spa	Gran Depresión	np$np-al-f
+	eng	Battle of Austerlitz	np-al	spa	batalla de Austerlitz	np$np-al-f
+	eng	Athletic Bilbao	np-al	spa	Athletic Club Bilbao	np$np-al-m
+	eng	Great War	np-al	spa	Gran Guerra	np$np-al-f
+	eng	New York Stock Exchange	np-al	spa	Bolsa de Nueva York	np-al-f
+RL	eng	New York Stock Exchange	np-al	spa	Bolsa de Valores de Nueva York	np-al-f
+	eng	Second World War	np-al	spa	Segunda Guerra mundial	np-al-f
+	eng	Web 2.0	np-al	spa	Web 2.0	np-al-f
+	eng	European Defence Agency	np-al	spa	Agencia Europea de Defensa	np-al-f
 	eng	St. James's Palace	np-loc	spa	Palacio de St. James	np-loc-m
 	eng	Buckingham Palace	np-loc$np	spa	Palacio de Buckingham	np-loc-m
-LR	eng	World War I	np-al$np-al-sg	spa	Primera Guerra mundial	np-al-f$np
-LR	eng	World War II	np-al$np$np-al-sg	spa	Segunda Guerra mundial	np-al-f
+LR	eng	World War I	np-al	spa	Primera Guerra mundial	np-al-f$np
+LR	eng	World War II	np-al$np	spa	Segunda Guerra mundial	np-al-f
 	eng	breadwinner	n	spa	sostén	n-m$n-m-sg
 	eng	Jacobite	n	spa	jacobita	n-mf
 	eng	jacobite	adj	spa	jacobita	adj-mf$adj
@@ -23710,28 +23710,28 @@ LR	eng	psammophilous	adj	spa	arenícola	adj-mf$adj
 	eng	OPEC	n-acr	spa	OPEP	n$n-acr$n-acr-m
 	eng	EPP-ED	n-acr$n	spa	PPE-DE	n-acr-m
 	eng	NYSE	n-acr	spa	NYSE	n$n-acr$n-acr-m
-	eng	Mikhail Gorbachev	np-ant$np-ant-m-sg	spa	Mijaíl Gorbachov	np$np-ant
-	eng	Mikhail Sergeyevich Gorbachev	np-ant$np-ant-m-sg	spa	Mijaíl Sergeyevich Gorbachov	np-ant
-	eng	Vyacheslav Molotov	np-ant$np-ant-m-sg	spa	Viacheslav Mólotov	np-ant
-	eng	Vyacheslav Mikhailovich Molotov	np-ant$np-ant-m-sg	spa	Viacheslav Mijáilovich Mólotov	np-ant
+	eng	Mikhail Gorbachev	np-ant	spa	Mijaíl Gorbachov	np$np-ant
+	eng	Mikhail Sergeyevich Gorbachev	np-ant	spa	Mijaíl Sergeyevich Gorbachov	np-ant
+	eng	Vyacheslav Molotov	np-ant	spa	Viacheslav Mólotov	np-ant
+	eng	Vyacheslav Mikhailovich Molotov	np-ant	spa	Viacheslav Mijáilovich Mólotov	np-ant
 	eng	Bretton Woods system	n	spa	sistema	n-m$n$n-m-sg
 	eng	IDF	n-acr	spa	IDF	n-acr-m
-	eng	International Monetary Fund	np-al$np$np-al-sg	spa	Fondo Monetario Internacional	np-al-m
-	eng	European People's Party	np-al$np-al-sg	spa	Partido Popular Europeo	np-al-m
+	eng	International Monetary Fund	np-al$np	spa	Fondo Monetario Internacional	np-al-m
+	eng	European People's Party	np-al	spa	Partido Popular Europeo	np-al-m
 	eng	Greenpeace	np-al$np-al-sg	spa	Greenpeace	np-al$np$np-al-m
-	eng	Paris Bourse	np-al$np-al-sg	spa	Bolsa de Paris	np-al-f
-	eng	Phoney War	np-al$np-al-sg	spa	Guerra de broma	np-al-f
-	eng	Prague Spring	np-al$np-al-sg	spa	Primavera de Praga	np-al-f
-	eng	Warsaw Pact	np-al$np-al-sg	spa	Pacto de Varsovia	np-al-m
-	eng	Treaty of Friendship, Cooperation and Mutual Assistance	np-al$np-al-sg	spa	Tratado de Amistad, Colaboración y Asistencia Mutua	np-al-m
-	eng	North Atlantic Treaty Organization	np-al$np-al-sg	spa	Organización del Tratado del Atlántico Norte	np-al-f
-	eng	FTSE 100	np-al$np-al-sg	spa	FTSE 100	np-al-m
-	eng	Fortune 500	np-al$np-al-sg	spa	Fortune 500	np-al-m
-	eng	S&P 500	np-al$np-al-sg	spa	S&P 500	np-al-m
-	eng	S&P TSX	np-al$np-al-sg	spa	S&P TSX	np-al-m
-	eng	CAC 40	np-al$np-al-sg	spa	CAC 40	np-al-m
-	eng	Ibex 35	np-al$np-al-sg	spa	Ibex 35	np$np-al-m
-	eng	exchange rate	n$n-sg	spa	tipo	n-m$n-m-sg$n
+	eng	Paris Bourse	np-al	spa	Bolsa de Paris	np-al-f
+	eng	Phoney War	np-al	spa	Guerra de broma	np-al-f
+	eng	Prague Spring	np-al	spa	Primavera de Praga	np-al-f
+	eng	Warsaw Pact	np-al	spa	Pacto de Varsovia	np-al-m
+	eng	Treaty of Friendship, Cooperation and Mutual Assistance	np-al	spa	Tratado de Amistad, Colaboración y Asistencia Mutua	np-al-m
+	eng	North Atlantic Treaty Organization	np-al	spa	Organización del Tratado del Atlántico Norte	np-al-f
+	eng	FTSE 100	np-al	spa	FTSE 100	np-al-m
+	eng	Fortune 500	np-al	spa	Fortune 500	np-al-m
+	eng	S&P 500	np-al	spa	S&P 500	np-al-m
+	eng	S&P TSX	np-al	spa	S&P TSX	np-al-m
+	eng	CAC 40	np-al	spa	CAC 40	np-al-m
+	eng	Ibex 35	np-al	spa	Ibex 35	np$np-al-m
+	eng	exchange rate	n	spa	tipo	n-m$n-m-sg$n
 	eng	fiat currency	n	spa	dinero fiduciario	n-m
 	eng	legal tender	n	spa	moneda	n$n-f$n-f-sg
 LR	eng	rescue party	n	spa	equipo	n-m$n-m-sg$n
@@ -23859,16 +23859,16 @@ RL	eng	unit	n$n-sg	spa	ud.	n-f$n
 RL	eng	off-line	adj	spa	offline	adj$adj-mf
 	eng	truthful	adj$adj-sint	spa	veraz	adj$adj-mf-pl$adj-mf
 	eng	Explorer	np-al$np$np-al-sg	spa	Explorer	np$np-al-m
-	eng	Vía de las dos Castillas	np-loc	spa	Vía de las dos Castillas	np$np-loc$np-loc-f
+	eng	Vía de las dos Castillas	np-loc	spa	Vía de las dos Castillas	np-loc$np$np-loc-f
 	eng	Calpe	np-loc$	spa	Calpe	np-loc$np-loc-m
-	eng	Espasa	np-al$$np-al-sg	spa	Espasa	np-al-f
-	eng	Espasa Calpe	np-al$np-al-sg	spa	Espasa Calpe	np$np-al-f
-	eng	Complejo Ática	np-loc	spa	Complejo Ática	np-loc-m
+	eng	Espasa	np-al$np-al-sg$	spa	Espasa	np-al-f
+	eng	Espasa Calpe	np-al	spa	Espasa Calpe	np$np-al-f
+	eng	Complejo Ática	np-loc	spa	Complejo Ática	np$np-loc-m
 	eng	casadellibro.com	np-al$np-al-sg	spa	casadellibro.com	np$np-al-m
 	eng	Netscape	np-al$np-al-sg	spa	Netscape	np$np-al-m
 	eng	VeriSign	np-al$np-al-sg	spa	VeriSign	np$np-al-m
-	eng	Visa	$np-al$np-al-sg	spa	Visa	np-al-f
-	eng	Visa Electron	np-al$np-al-sg	spa	Visa Electron	np$np-al-f
+	eng	Visa	np-al-sg$$np-al	spa	Visa	np-al-f
+	eng	Visa Electron	np-al	spa	Visa Electron	np$np-al-f
 	eng	Trust	np-al$np-al-sg	spa	Trust	np$np-al-f
 	eng	Pozuelo	np-loc$	spa	Pozuelo	np-loc-m
 	eng	Pozuelo de Alarcón	np-loc	spa	Pozuelo de Alarcón	np$np-loc-m
@@ -23890,8 +23890,8 @@ RL	eng	in his opinion	adv	spa	a su juicio	adv
 	eng	Alabama	np-loc	spa	Alabama	np$np-loc$np-loc-f
 	eng	Albania	np-loc	spa	Albania	np$np-loc$np-loc-f
 	eng	Alsace	np-loc	spa	Alsacia	np$np-loc$np-loc-f
-	eng	Central America	np$np-loc	spa	América Central	np-loc-f$np-loc
-	eng	North America	np-loc	spa	América del Norte	np-loc$np-loc-f
+	eng	Central America	np$np-loc	spa	América Central	np-loc-f
+	eng	North America	np-loc	spa	América del Norte	np-loc-f$np-loc
 	eng	Angola	np-loc	spa	Angola	np$np-loc$np-loc-f
 	eng	Antarctica	np-loc	spa	Antártida	np$np-loc$np-loc-f
 	eng	Antònia	np-ant$np$np-ant-f-sg	spa	Antònia	np$np-ant
@@ -23923,8 +23923,8 @@ LR	eng	Bermuda	np-loc-pl	spa	Bermudas	np$np-loc$np-loc-f-pl
 	eng	Botswana	np-loc	spa	Botsuana	np$np-loc$np-loc-f
 	eng	Brasilia	np-loc$np	spa	Brasilia	np$np-loc-f
 	eng	Brunei Darussalam	np-loc	spa	Brunéi	np$np-loc$np-loc-m
-	eng	Buenos Aires	np-loc$np	spa	Buenos Aires	np$np-loc$np-loc-m
-	eng	Burkina Faso	np-loc	spa	Burkina Faso	np$np-loc$np-loc-f
+	eng	Buenos Aires	np-loc$np	spa	Buenos Aires	np$np-loc-m$np-loc
+	eng	Burkina Faso	np-loc	spa	Burkina Faso	np-loc-f$np-loc
 	eng	Burundi	np-loc	spa	Burundi	np$np-loc$np-loc-m
 	eng	Bàrbara	np-ant$np$np-ant-f-sg	spa	Bàrbara	np$np-ant
 	eng	Canberra	np-loc$np	spa	Camberra	np$np-loc$np-loc-f
@@ -23939,7 +23939,7 @@ LR	eng	Bermuda	np-loc-pl	spa	Bermudas	np$np-loc$np-loc-f-pl
 LR	eng	The Gambia	np-loc	spa	Gambia	np$np-loc-f$np-loc
 	eng	Gambia	np-loc	spa	Gambia	np$np-loc-f$np-loc
 	eng	Greenland	np-loc	spa	Groenlandia	np$np-loc$np-loc-f
-RL	eng	Guyana	np-loc	spa	Guayana	np-loc$np-loc-f
+RL	eng	Guyana	np-loc	spa	Guayana	np$np-loc$np-loc-f
 	eng	Guyana	np-loc	spa	Guyana	np-loc$np-loc-f
 	eng	Hamburg	np-loc$np	spa	Hamburgo	np$np-loc$np-loc-m
 	eng	Honduras	np-loc	spa	Honduras	np$np-loc$np-loc-f
@@ -23974,7 +23974,7 @@ RL	eng	Channel Islands	np-loc$np-loc-pl	spa	Islas Anglonormandas	np-loc-f
 	eng	Mariana Islands	np-loc	spa	Islas Marianas	np$np-loc$np-loc-f
 	eng	Marquesas Islands	np-loc$np	spa	Islas Marquesas	np$np-loc$np-loc-f
 	eng	Maluku Islands	np-loc	spa	Islas Molucas	np$np-loc-f
-	eng	Cayman Islands	np-loc	spa	Islas Caimán	np$np-loc$np-loc-f
+	eng	Cayman Islands	np-loc	spa	Islas Caimán	np-loc-f
 	eng	Cook Islands	np-loc	spa	Islas Cook	np$np-loc$np-loc-f
 	eng	Marshall Islands	np-loc	spa	Islas Marshall	np$np-loc$np-loc-f
 	eng	Jersey	np-loc	spa	Jersey	np-loc$np-loc-m
@@ -24020,13 +24020,13 @@ LR	eng	The Mississippi	np-loc	spa	Misisipí	np$np-loc$np-loc-m
 	eng	Oman	np-loc	spa	Omán	np-loc$np-loc-m
 	eng	Oregon	np-loc	spa	Oregón	np$np-loc$np-loc-m
 	eng	Middle East	np$np-loc	spa	Oriente Medio	np$np-loc-m-sg$np-loc-m$np-loc
-	eng	Papua New Guinea	np-loc	spa	Papúa Nueva Guinea	np$np-loc$np-loc-f
-	eng	Basque Country	np-loc$np-loc-sg	spa	País Vasco	np-loc$np-loc-m
+	eng	Papua New Guinea	np-loc	spa	Papúa Nueva Guinea	np-loc-f$np-loc
+	eng	Basque Country	np-loc$np-loc-sg	spa	País Vasco	np-loc-m$np-loc
 	eng	Pennsylvania	np-loc	spa	Pensilvania	np$np-loc$np-loc-f
 	eng	Persia	np-loc	spa	Persia	np$np-loc-f$np-loc
 	eng	Philippe	np-ant$np-ant-m-sg$np$np-ant-m	spa	Philippe	np$np-ant
 	eng	Pretoria	np$np-loc	spa	Pretoria	np$np-loc$np-loc-f
-	eng	Puerto Rico	np-loc$np	spa	Puerto Rico	np$np-loc$np-loc-m
+	eng	Puerto Rico	np-loc$np	spa	Puerto Rico	np$np-loc-m$np-loc
 	eng	Reykjavik	np-loc	spa	Reikiavik	np$np-loc$np-loc-m
 	eng	United Kingdom	np-loc$np-loc-sg	spa	Reino Unido	np$np-loc-m$np-loc
 LR	eng	UK	np-loc$np-loc-sg	spa	Reino Unido	np$np-loc-m$np-loc
@@ -24037,7 +24037,7 @@ RL	eng	Rhodesia	np-loc$np	spa	Rhodesia	np$np-loc-f
 	eng	Samoa	np-loc$np-loc-sg	spa	Samoa	np$np-loc$np-loc-m
 	eng	Serbia	np-loc$np-loc-sg	spa	Serbia	np$np-loc$np-loc-f
 	eng	Seychelles	np-loc$np-loc-sg	spa	Seychelles	np$np-loc-f-pl$np-loc$np-loc-f
-	eng	Sierra Leone	np-loc	spa	Sierra Leona	np$np-loc$np-loc-f
+	eng	Sierra Leone	np-loc	spa	Sierra Leona	np$np-loc-f$np-loc
 	eng	Somalia	np-loc	spa	Somalia	np$np-loc$np-loc-f
 	eng	Swaziland	np-loc	spa	Suazilandia	np-loc$np-loc-f
 	eng	Suriname	np-loc	spa	Surinam	np-loc$np-loc-m
@@ -24788,7 +24788,7 @@ LR	eng	candidate	n$n-ND	spa	candidato	n$n-GD$n-GD-ND
 RL	eng	candidate	n$n-ND	spa	candidato	n$n-GD$n-GD-ND
 LR	eng	nominee	n$n-ND	spa	candidato	n$n-GD$n-GD-ND
 	eng	crab	n$n-pl	spa	cangrejo	n$n-m$n-m-sg
-LR	eng	can	n$n-ND	spa	lata	n-f$n$n-f-ND
+LR	eng	can	n$n-sg	spa	lata	n-f$n$n-f-ND
 	eng	cantata	n	spa	cantata	n$n-f
 	eng	cantonal	adj	spa	cantonal	adj$adj-mf-sg$adj-mf
 	eng	nosing	n	spa	cantonera	n$n-f
@@ -26793,7 +26793,7 @@ LR	eng	jacobist	adj	spa	jacobita	adj-mf$adj
 	eng	jade	n	spa	jade	n-m$n
 	eng	jadeite	n	spa	jadeíta	n$n-f
 	eng	jaguar	n	spa	jaguar	n$n-m
-	eng	jelly	n$n-sg	spa	jalea	n-f$n
+	eng	jelly	n$n-sg	spa	jalea	n$n-f
 	eng	jellyfish	n	spa	medusa	n$n-f
 	eng	jarosite	n	spa	jarosita	n$n-f
 	eng	jug	n$n-ND	spa	jarra	n-f$n$n-f-ND
@@ -26920,7 +26920,7 @@ RL	eng	image	n$n-ND	spa	estampa	n$n-f$n-f-ND
 	eng	lune	n	spa	lúnula	n$n-f
 	eng	machete	n	spa	machete	n-m$n
 	eng	male chauvinist	n	spa	machista	n$n-mf
-	eng	billy goat	n	spa	macho cabrío	
+	eng	billy goat	n	spa	macho cabrío	n-m
 	eng	macrocephaly	n	spa	macrocefalia	n$n-f
 	eng	macromolecule	n	spa	macromolécula	n$n-f
 	eng	macronucleus	n	spa	macronúcleo	n$n-m
@@ -27282,7 +27282,7 @@ LR	eng	none	prn-tn-nt-sg$prn$prn-tn-nt$prn-tn	spa	ninguno	prn-tn-mf$prn-tn-mf-sg
 	eng	nitroglycerine	n	spa	nitroglicerina	n$n-f
 	eng	nitride	n	spa	nitruro	n-m$n
 	eng	snowgauge	n	spa	nivómetro	n$n-m
-	eng	non-alignment	n	spa	no alineamiento	n$n-m
+	eng	non-alignment	n	spa	no alineamiento	n-m
 	eng	nobelium	n	spa	nobelio	n$n-m
 	eng	nomadism	n	spa	nomadismo	n$n-m
 	eng	nominalism	n	spa	nominalismo	n$n-m
@@ -28282,7 +28282,7 @@ RL	eng	atomiser	n	spa	pulverizador	n-m$n
 	eng	subjunctive	n	spa	subjuntivo	n$n-m
 	eng	sublimation	n	spa	sublimación	n$n-f
 	eng	subliminal	adj	spa	subliminal	adj$adj-mf
-	eng	scuba diving	n$n-sg	spa	submarinismo	n$n-m
+	eng	scuba diving	n	spa	submarinismo	n$n-m
 	eng	submodule	n	spa	submódulo	n$n-m
 	eng	underemployment	n	spa	subocupación	n$n-f
 	eng	suborder	n	spa	suborden	n$n-m
@@ -28969,7 +28969,7 @@ LR	eng	record	n$n-sg	spa	récord	n-f
 	eng	accused	n$n-ND	spa	acusado	n$n-m
 RL	eng	claim	n$n-ND	spa	reivindicación	n$n-f$n-f-ND
 RL	eng	fortress	n$n-ND	spa	alcázar	n$n-m$n-m-ND
-RL	eng	animal	n$n-ND	spa	res	n-f$n$n-f-ND
+RL	eng	animal	n$n-ND	spa	res	n$n-f$n-f-ND
 	eng	piece	n$n-ND	spa	mueble	n$n-m$n-m-ND
 	eng	piece	n$n-ND	spa	hoja	n-f$n$n-f-sg
 LR	eng	sheet	n$n-pl	spa	hoja	n-f$n$n-f-sg
@@ -29448,10 +29448,10 @@ LR	eng	vapour	n	spa	vapor	n-m$n$n-m-sg
 LR	eng	creek	n	spa	riachuelo	n$n-m
 LR	eng	remainder	n	spa	resto	n-m$n$n-m-pl
 LR	eng	refund	n	spa	reembolso	n-m$n$n-m-sg
-	eng	San Francisco	np$np-loc	spa	San Francisco	np-loc$np-loc-m
+	eng	San Francisco	np$np-loc	spa	San Francisco	np-loc-m
 	eng	descriptive	adj	spa	descriptivo	adj$adj-GD-ND
-RL	eng	Los Angeles	np-loc$np	spa	Los Angeles	np-loc-m
-	eng	Los Angeles	np-loc$np	spa	Los Ángeles	np$np-loc$np-loc-m-pl$np-loc-m
+RL	eng	Los Angeles	np-loc$np	spa	Los Angeles	np$np-loc-m
+	eng	Los Angeles	np-loc$np	spa	Los Ángeles	np$np-loc-m-pl$np-loc$np-loc-m
 	eng	mill	n$n-ND	spa	molino	n-m$n$n-m-ND
 LR	eng	nutritional	adj	spa	nutritivo	adj$adj-m$adj-m-sg
 LR	eng	uncooked	adj	spa	crudo	adj$adj-GD-ND
@@ -29531,7 +29531,7 @@ LR	eng	liaison	n	spa	enlace	n$n-m$n-m-sg
 	eng	link	n$n-pl	spa	enlace	n$n-m$n-m-sg
 	eng	Charlemagne	np-ant$np-ant-m-sg	spa	Carlomagno	np-ant$np
 LR	eng	linkage	n	spa	conexión	n$n-f$n-f-ND
-LR	eng	liqueur	n	spa	licor	n-m$n$n-m-sg
+LR	eng	liqueur	n	spa	licor	n$n-m$n-m-sg
 	eng	dehumidifier	n	spa	deshumidificador	n-m
 	eng	eligibility	n	spa	elegibilidad	n$n-f$n-f-sg
 	eng	quartz	n$n-sg	spa	cuarzo	n$n-m
@@ -29670,7 +29670,7 @@ RL	eng	square	n$n-ND	spa	escaque	n-m
 RL	eng	commonly	adv	spa	comúnmente	adv
 RL	eng	chance	n$n-sg	spa	azar	n$n-m$n-m-ND
 	eng	database	n$n-ND	spa	base	n-f$n$n-f-sg
-	eng	checkmate	n$n-pl	spa	jaque mate	
+	eng	checkmate	n$n-pl	spa	jaque mate	n-m
 LR	eng	rook	n	spa	torre	n-f$n$n-f-ND
 LR	eng	pawn	n	spa	peón	n$n-m$n-m-ND
 RL	eng	effective	adj	spa	efectivo	adj$adj-GD-ND
@@ -29690,7 +29690,7 @@ RL	eng	game	n$n-ND	spa	partida	n$n-f$n-f-sg
 	eng	drowned	adj	spa	ahogado	adj$adj-m-sg
 	eng	flank	n	spa	flanco	n$n-m
 	eng	castling	n	spa	enroque	n$n-m
-RL	eng	check	n$n-ND	spa	jaque	n$n-m$n-m-ND
+RL	eng	check	n$n-ND	spa	jaque	n$n-m$n-m-sg
 	eng	pigeonhole	n	spa	casillero	n-m$n
 	eng	idiosyncrasy	n	spa	idiosincrasia	n$n-f
 RL	eng	reason	n$n-sg	spa	porqué	n$n-m$n-m-ND
@@ -29776,7 +29776,7 @@ RL	eng	opponent	n$n-ND	spa	oponente	n$n-mf
 	eng	sermon	n$n-ND	spa	sermón	n$n-m$n-m-ND
 	eng	fist	n$n-ND	spa	puño	n$n-m$n-m-ND
 	eng	bacon	n	spa	tocino	n-m$n
-	eng	New Orleans	np-loc$np	spa	Nueva Orleans	np$np-loc$np-loc-f
+	eng	New Orleans	np-loc$np	spa	Nueva Orleans	np$np-loc-f$np-loc
 RL	eng	press conference	n$n-ND	spa	conferencia	n-f$n$n-f-sg
 RL	eng	around	pr	spa	en torno a	pr
 LR	eng	spokesperson	n	spa	portavoz	n-mf$n$n-mf-ND
@@ -29974,7 +29974,7 @@ RL	eng	television	n$n-ND	spa	televisor	n$n-m$n-m-ND
 	eng	propagation	n	spa	propagación	n$n-f$n-f-sg
 	eng	fluid	n	spa	fluido	n$n-m
 LR	eng	momentum	n$n-unc	spa	momento	n-m$n$n-m-sg
-	eng	pine	n$n-ND	spa	pino	n-m$n$n-m-ND
+	eng	pine	n$n-ND	spa	pino	n$n-m$n-m-ND
 	eng	helically	adv	spa	helicoidalmente	adv
 	eng	flake	n	spa	escama	n-f$n
 	eng	physiologically	adv	spa	fisiológicamente	adv
@@ -29984,7 +29984,7 @@ RL	eng	region	n$n-sg	spa	comarca	n$n-f$n-f-ND
 	eng	masl	n	spa	msnm	n-m$n-acr-m
 RL	eng	income	n$n-sg	spa	renta	n$n-f$n-f-ND
 	eng	per capita	adj	spa	per cápita	adj$adj-mf-sp
-	eng	hospitality industry	n$n-sg	spa	hostelería	n$n-f
+	eng	hospitality industry	n	spa	hostelería	n$n-f
 RL	eng	trip	n$n-ND	spa	desplazamiento	n$n-m$n-m-sg
 	eng	lookout	n	spa	vigía	n-mf
 	eng	rooted	adj	spa	radicado	adj
@@ -30033,8 +30033,8 @@ RL	eng	tutor	n	spa	preceptor	n$n-m
 	eng	poncho	n	spa	poncho	n-m$n
 	eng	Hiroshima	np-loc$np	spa	Hiroshima	np-loc$np$np-loc-f
 	eng	Nagasaki	np-loc	spa	Nagasaki	np$np-loc-f
-RL	eng	Little Boy	np-al$np-al-sg	spa	Little Boy	np-al-m
-RL	eng	Fat Man	np-al$np-al-sg	spa	Fat Man	np-al-m
+RL	eng	Little Boy	np-al	spa	Little Boy	np-al-m
+RL	eng	Fat Man	np-al	spa	Fat Man	np-al-m
 	eng	clash	n	spa	enfrentamiento	n$n-m$n-m-ND
 	eng	sphere	n$n-ND	spa	esfera	n-f$n$n-f-sg
 RL	eng	Dutch	n$n-ND	spa	neerlandés	n$n-f$n-f-sg
@@ -30054,7 +30054,7 @@ RL	eng	reliable	adj	spa	fidedigno	adj$adj-m-sg$adj-m
 LR	eng	efficacy	n	spa	eficacia	n$n-f-sg$n-f
 RL	eng	efficiency	n$n-ND	spa	eficiencia	n$n-f$n-f-sg
 RL	eng	spouse	n$n-sg	spa	consorte	n$n-mf
-	eng	Los Alamos National Laboratory	np-al$np-al-sg	spa	Laboratorio Nacional Los Álamos	np-al-m
+	eng	Los Alamos National Laboratory	np-al	spa	Laboratorio Nacional Los Álamos	np-al-m
 	eng	unconditionally	adv	spa	incondicionalmente	adv
 	eng	conditionally	adv	spa	condicionalmente	adv
 RL	eng	satisfied	adj	spa	conforme	adj$adj-mf-ND$adj-mf
@@ -30152,7 +30152,7 @@ LR	eng	tidy	adj$adj-sint	spa	ordenado	adj
 	eng	Spanish	n$n-sg	spa	español	n$n-m$n-m-sg
 	eng	census	n$n-ND	spa	censo	n$n-m$n-m-sg
 RL	eng	North America	np-loc	spa	Norteamérica	np$np-loc$np-loc-f
-	eng	drug trafficking	n$n-sg	spa	narcotráfico	n$n-m
+	eng	drug trafficking	n	spa	narcotráfico	n$n-m
 LR	eng	constituent	n$n-ND	spa	elector	n-GD$n-GD-pl
 RL	eng	constituent	n$n-ND	spa	elector	n$n-m$n-m-sg
 	eng	malevolent	adj	spa	malévolo	adj
@@ -30279,7 +30279,7 @@ RL	eng	plateau	n$n-ND	spa	meseta	n-f$n$n-f-ND
 	eng	Scandinavia	np$np-loc	spa	Escandinavia	np$np-loc$np-loc-f
 	eng	freshwater	n$n-sg	spa	agua dulce	n-f
 	eng	freshwater	adj	spa	de agua dulce	adj-mf-sp
-	eng	salt water	n$n-sg	spa	agua salada	n-f
+	eng	salt water	n	spa	agua salada	n-f
 	eng	saltwater	adj	spa	de agua salada	adj-mf-sp
 	eng	underwear	n$n-unc	spa	ropa interior	n-f
 	eng	temperate	adj	spa	templado	adj
@@ -30369,9 +30369,9 @@ RL	eng	scrap	n$n-pl	spa	desperdicios	n-m-pl
 	eng	CO2	n$n-acr-sg	spa	CO2	n$n-acr$n-acr-m-sg
 RL	eng	replacement	n$n-ND	spa	reposición	n$n-f$n-f-sg
 	eng	photoionisation	n	spa	fotoionización	n-f
-	eng	Hubble Space Telescope	np-al$np-al-sg	spa	Telescopio espacial Hubble	np-al-m
+	eng	Hubble Space Telescope	np-al	spa	Telescopio espacial Hubble	np-al-m
 	eng	ionospheric	adj	spa	ionosférico	adj
-	eng	Hubble	np-al$np$np-al-sg	spa	Hubble	np$np-al-m
+	eng	Hubble	np-al$np-al-sg$np	spa	Hubble	np$np-al-m
 	eng	condensed	adj	spa	condensado	adj
 	eng	stratum	n	spa	estrato	n$n-m$n-m-ND
 RL	eng	radioactive	adj	spa	radiactivo	adj$adj-m-sg
@@ -30449,7 +30449,7 @@ RL	eng	basic	adj	spa	base	adj$adj-mf-sp
 	eng	serial port	n	spa	puerto serie	n-m
 	eng	compact disc player	n	spa	reproductor	n$n-m$n-m-pl
 	eng	Lexmark	np$np-al$np-al-sg	spa	Lexmark	np-al-f
-	eng	Texas Instruments	np-al$np-al-sg	spa	Texas Instruments	np-al-f
+	eng	Texas Instruments	np-al	spa	Texas Instruments	np-al-f
 	eng	megabyte	n	spa	megabyte	n$n-m
 	eng	radius	n$n-ND	spa	radio	n-m$n-m-sg
 RL	eng	status	n$n-ND	spa	status	n$n-m$n-m-sp
@@ -30465,7 +30465,7 @@ LR	eng	redwood	n	spa	secuoya	n-f$n
 	eng	longevous	adj	spa	longevo	adj$adj-m-sg
 RL	eng	size	n$n-ND	spa	talla	n$n-f
 	eng	adipose	adj	spa	adiposo	adj$adj-m-sg
-	eng	World Health Organisation	np-al$np-al-sg	spa	Organización Mundial de la Salud	np-al-f
+	eng	World Health Organisation	np-al	spa	Organización Mundial de la Salud	np-al-f
 	eng	WHO	n-acr	spa	OMS	n$n-acr$n-acr-f
 	eng	kg	n$n-acr$n-acr-ND	spa	kg	n$n-acr-m
 	eng	thinness	n$n-sg	spa	delgadez	n$n-f
@@ -30482,7 +30482,7 @@ RL	eng	purpose	n$n-ND	spa	finalidad	n$n-f$n-f-sg
 	eng	vertebrate	adj	spa	vertebrado	adj$adj-m-sg
 	eng	vertebrate	n	spa	vertebrado	n-m
 	eng	bloodstream	n	spa	torrente sanguíneo	n-m
-	eng	blood vessel	n	spa	vaso sanguíneo	
+	eng	blood vessel	n	spa	vaso sanguíneo	n-m
 	eng	blood group	n	spa	grupo sanguíneo	n-m
 	eng	ATP	n-acr	spa	ATP	n$n-acr-m
 	eng	adenosine triphosphate	n	spa	adenosín trifosfato	n-m
@@ -30560,7 +30560,7 @@ RL	eng	convex	adj	spa	abombado	adj
 	eng	treble	n$n-sg	spa	agudos	n-m-pl
 LR	eng	treble	n-pl	spa	agudos	n-m-pl
 	eng	diffuser	n	spa	difusor	n$n-m$n-m-sg
-	eng	urban area	n	spa	casco urbano	n$n-m
+	eng	urban area	n	spa	casco urbano	n-m$n
 	eng	anechoic	adj	spa	anecoico	adj
 	eng	semi-anechoic	adj	spa	semianecoico	adj
 	eng	reflective	adj	spa	reflectante	adj-mf
@@ -30695,7 +30695,7 @@ RL	eng	Scorpio	n$n-sg	spa	escorpio	n$n-GD
 RL	eng	high	adj-sint$adj$adj-sint-comp	spa	elevado	adj$adj-GD-ND
 	eng	spicy	adj-sint$adj	spa	picante	adj$adj-mf$adj-mf-pl
 RL	eng	spicy	adj-sint$adj	spa	picante	adj$adj-mf$adj-mf-pl
-	eng	whipped cream	n$n-sg	spa	crema batida	n-f
+	eng	whipped cream	n	spa	crema batida	n-f
 	eng	stripping agent	n	spa	decapante	n$n-m
 	eng	pickle	n	spa	pepinillo	n$n-m
 	eng	string theory	n	spa	teoría	n-f$n$n-f-sg
@@ -30772,7 +30772,7 @@ RL	eng	morphogenesis	n$n-ND	spa	morfogénesis	n-f$n-f-sp
 	eng	multidisciplinary	adj	spa	multidisciplinar	adj$adj-mf$adj-mf-sg
 LR	eng	ethologist	n	spa	etólogo	n$n-GD
 RL	eng	ethologist	n	spa	etólogo	n$n-GD
-	eng	living being	n	spa	ser vivo	n$n-m
+	eng	living being	n	spa	ser vivo	n-m
 RL	eng	desk	n$n-ND	spa	pupitre	n-m$n
 	eng	verifiable	adj	spa	verificable	adj$adj-mf
 	eng	unthinkable	adj	spa	impensable	adj$adj-mf$adj-mf-sg
@@ -30794,7 +30794,7 @@ RL	eng	mechanic	n$n-pl	spa	mecánico	n$n-m$n-m-ND
 	eng	Georg	np-ant-m-sg$np-ant-m$np$np-ant	spa	Georg	np-ant
 	eng	dispersion	n$n-ND	spa	dispersión	n$n-f$n-f-ND
 	eng	Freeman	np-ant	spa	Freeman	np-ant
-	eng	University of Pisa	np-al$np-al-sg	spa	Universidad de Pisa	np-al-f
+	eng	University of Pisa	np-al	spa	Universidad de Pisa	np-al-f
 	eng	microworld	n	spa	micromundo	n-m
 RL	eng	gravitational	adj	spa	gravitatorio	adj$adj-m-sg
 	eng	Newtonian	adj	spa	newtoniano	adj
@@ -30847,7 +30847,7 @@ LR	eng	knotted	adj	spa	nudoso	adj$adj-m-sg
 	eng	numeral	adj	spa	numeral	adj$adj-mf-sg$adj-mf
 LR	eng	Egyptian	n	spa	egipcio	n-GD
 RL	eng	Egyptian	n	spa	egipcio	n$n-m
-	eng	Middle Kingdom	np-al$np-al-sg	spa	Imperio Medio	np-al-m
+	eng	Middle Kingdom	np-al	spa	Imperio Medio	np-al-m
 LR	eng	onwards	adv	spa	en adelante	adv
 	eng	English-speaking	adj	spa	de habla inglés	adj
 LR	eng	numeral	n	spa	número	n$n-m$n-m-sg
@@ -30858,7 +30858,7 @@ LR	eng	hardy	adj$adj-sint	spa	fuerte	adj-mf$adj-mf-ND$adj$
 	eng	precision	n$n-sg	spa	precisión	n-f$n$n-f-ND
 	eng	apology	n	spa	disculpa	n$n-f$n-f-sg
 	eng	inevitability	n	spa	inevitabilidad	n$n-f
-LR	eng	quest	n	spa	búsqueda	n-f$n$n-f-sg
+LR	eng	quest	n	spa	búsqueda	n$n-f$n-f-sg
 	eng	beginner	n	spa	principiante	n-mf$n
 	eng	intimidating	adj	spa	intimidante	adj-mf
 LR	eng	daunting	adj	spa	intimidante	adj-mf
@@ -31000,7 +31000,7 @@ LR	eng	respiration	n	spa	respiración	n-f$n$n-f-ND
 LR	eng	single-celled	adj	spa	unicelular	adj$adj-mf$adj-mf-sg
 	eng	methane	n$n-sg	spa	metano	n$n-m
 	eng	ubiquity	n	spa	ubicuidad	n$n-f
-	eng	physical chemistry	n$n-sg	spa	fisicoquímica	n$n-f
+	eng	physical chemistry	n	spa	fisicoquímica	n$n-f
 RL	eng	splitting	n	spa	desdoblamiento	n$n-m
 RL	eng	understanding	n$n-ND	spa	entendimiento	n$n-m-sg$n-m
 RL	eng	intelligible	adj	spa	entendible	adj$adj-mf$adj-mf-sg
@@ -31031,7 +31031,7 @@ RL	eng	container	n	spa	recipiente	n$n-m$n-m-ND
 	eng	molality	n	spa	molalidad	n$n-f
 	eng	ppm	n-acr$n	spa	ppm	n$n-acr-m
 	eng	aqueous	adj	spa	acuoso	adj$adj-GD-ND
-RL	eng	soda	n	spa	sosa	n-f$n
+RL	eng	soda	n	spa	sosa	n$n-f
 RL	eng	neutral	adj	spa	neutral	adj$adj-mf$adj-mf-ND
 	eng	IUPAC	n-acr	spa	IUPAC	n-acr-f
 LR	eng	Arabic	n	spa	árabe	n-mf$n$n-mf-ND
@@ -31328,15 +31328,15 @@ RL	eng	supply	n$n-ND	spa	abasto	n$n-m$n-m-ND
 	eng	Bischoff	np-cog-sg$$np-cog	spa	Bischoff	np-cog$np-cog-mf
 	eng	Parrish	np-cog-sg$$np-cog	spa	Parrish	np-cog$np-cog-mf
 	eng	Agostinacchio	np-cog-sg$$np-cog	spa	Agostinacchio	np-cog$np-cog-mf
-	eng	Almunia Amann	np-cog-sg$$np-cog	spa	Almunia Amann	np-cog$np-cog-mf
-	eng	Amor Pérez	np-cog-sg$$np-cog	spa	Amor Pérez	np-cog$np-cog-mf
+	eng	Almunia Amann	np-cog-sg$np-cog	spa	Almunia Amann	np-cog$np-cog-mf
+	eng	Amor Pérez	np-cog-sg$np-cog	spa	Amor Pérez	np-cog$np-cog-mf
 	eng	Asselborn	np-cog$np-cog-sg$	spa	Asselborn	np-cog$np-cog-mf
 	eng	Bagnasco	np-cog-sg$$np-cog	spa	Bagnasco	np-cog$np-cog-mf
-	eng	Barreda Fontes	np-cog-sg$$np-cog	spa	Barreda Fontes	np-cog$np-cog-mf
+	eng	Barreda Fontes	np-cog-sg$np-cog	spa	Barreda Fontes	np-cog$np-cog-mf
 	eng	Barrot	np-cog$np-cog-sg$	spa	Barrot	np-cog$np-cog-mf
 	eng	Bilquez	np-cog-sg$$np-cog	spa	Bilquez	np-cog$np-cog-mf
 	eng	Biwer	np-cog-sg$$np-cog	spa	Biwer	np-cog$np-cog-mf
-	eng	Bono Martinez	np-cog-sg$$np-cog	spa	Bono Martinez	np-cog$np-cog-mf
+	eng	Bono Martinez	np-cog-sg$np-cog	spa	Bono Martinez	np-cog$np-cog-mf
 	eng	Borg	np-cog$np-cog-sg$	spa	Borg	np-cog$np-cog-mf
 	eng	Bralo	np-cog$np-cog-sg$	spa	Bralo	np-cog$np-cog-mf
 	eng	Cosby	np-cog-sg$$np$np-cog	spa	Cosby	np-cog-mf
@@ -31346,7 +31346,7 @@ RL	eng	supply	n$n-ND	spa	abasto	n$n-m$n-m-ND
 	eng	Ducho	np-cog-sg$$np-cog	spa	Ducho	np-cog$np-cog-mf
 	eng	Endlein	np-cog-sg$$np-cog	spa	Endlein	np-cog$np-cog-mf
 	eng	Fige	np-cog-sg$$np-cog	spa	Fige	np-cog$np-cog-mf
-	eng	Font de Mora y Turón	np-cog-sg$$np-cog	spa	Font de Mora y Turón	np$np-cog$np-cog-mf
+	eng	Font de Mora y Turón	np-cog-sg$np-cog	spa	Font de Mora y Turón	np$np-cog$np-cog-mf
 	eng	Frattini	np-cog$np-cog-sg$	spa	Frattini	np$np-cog$np-cog-mf
 	eng	Halder	np-cog-sg$$np-cog	spa	Halder	np-cog$np-cog-mf
 	eng	Hallikmägi	np-cog-sg$$np-cog	spa	Hallikmägi	np-cog$np-cog-mf
@@ -31628,7 +31628,7 @@ RL	eng	supply	n$n-ND	spa	abasto	n$n-m$n-m-ND
 	eng	Roguski	$np-cog	spa	Roguski	np-cog-mf
 	eng	Opran	$np-cog	spa	Opran	np-cog-mf
 	eng	Rodríguez	np-cog-sg$$np$np-cog	spa	Rodríguez	np$np-cog$np-cog-mf
-	eng	Ruiz	np-cog-sg$np-cog$$np	spa	Ruiz	np$np-cog-mf$np-cog
+	eng	Ruiz	np-cog-sg$np-cog$$np	spa	Ruiz	np-cog-mf$np-cog
 	eng	McCain	np-cog-sg$np-cog$$np	spa	McCain	np$np-cog$np-cog-mf
 	eng	Palin	np$np-cog-sg$$np-cog	spa	Palin	np$np-cog$np-cog-mf
 	eng	Hitler	np-cog-sg$np$np-cog$	spa	Hitler	np$np-cog-mf$np-cog
@@ -31648,7 +31648,7 @@ RL	eng	supply	n$n-ND	spa	abasto	n$n-m$n-m-ND
 	eng	Curie	np-cog-pl$np$np-cog$	spa	Curie	np-cog-mf
 	eng	Hilbert	np-cog-sg$$np$np-cog	spa	Hilbert	np-cog-mf
 	eng	Galilei	np-cog-sg$$np$np-cog	spa	Galilei	np-cog-mf
-	eng	Faraday	np-cog-sg$$np-cog	spa	Faraday	np-cog-mf
+	eng	Faraday	np-cog-sg$np-cog	spa	Faraday	np-cog-mf
 	eng	Hawking	np-cog-pl$$np$np-cog	spa	Hawking	np-cog-mf
 	eng	Bohr	np-cog-sg$$np-cog	spa	Bohr	np-cog-mf
 	eng	Planck	np-cog$np-cog-sg$$np	spa	Planck	np-cog-mf
@@ -31657,21 +31657,21 @@ RL	eng	supply	n$n-ND	spa	abasto	n$n-m$n-m-ND
 	eng	Heisenberg	np-cog$np-cog-sg$	spa	Heisenberg	np-cog-mf
 	eng	Schrödinger	np-cog-sg$$np-cog	spa	Schrödinger	np-cog-mf
 	eng	Turing	np-cog-sg$np$np-cog$	spa	Turing	np-cog-mf
-	eng	von Neumann	np-cog-sg$$np-cog	spa	von Neumann	np-cog-mf
-	eng	von Wogau	$np-cog	spa	von Wogau	np-cog-mf
-	eng	von Boetticher	$np-cog	spa	von Boetticher	np-cog-mf
-	eng	von Blottnitz	$np-cog	spa	von Blottnitz	np-cog-mf
-	eng	von Stauffenberg	$np-cog	spa	von Stauffenberg	np-cog-mf
-	eng	von Weizsaecker	$np-cog	spa	von Weizsaecker	np-cog-mf
-	eng	von Habsburg	$np-cog	spa	von Habsburg	np-cog-mf
-	eng	von Weiszäcker	$np-cog	spa	von Weiszäcker	np-cog-mf
-	eng	von Meyenfeldt	$np-cog	spa	von Meyenfeldt	np-cog-mf
+	eng	von Neumann	np-cog-sg$np-cog	spa	von Neumann	np-cog-mf
+	eng	von Wogau	np-cog	spa	von Wogau	np-cog-mf
+	eng	von Boetticher	np-cog	spa	von Boetticher	np-cog-mf
+	eng	von Blottnitz	np-cog	spa	von Blottnitz	np-cog-mf
+	eng	von Stauffenberg	np-cog	spa	von Stauffenberg	np-cog-mf
+	eng	von Weizsaecker	np-cog	spa	von Weizsaecker	np-cog-mf
+	eng	von Habsburg	np-cog	spa	von Habsburg	np-cog-mf
+	eng	von Weiszäcker	np-cog	spa	von Weiszäcker	np-cog-mf
+	eng	von Meyenfeldt	np-cog	spa	von Meyenfeldt	np-cog-mf
 	eng	Colajanni	$np-cog	spa	Colajanni	np-cog-mf
 	eng	Swoboda	np-cog$$np-cog-f	spa	Swoboda	np-cog-mf
 	eng	Neyts-Uyttebroeck	$np-cog	spa	Neyts-Uyttebroeck	np-cog-mf
-	eng	Grönfeldt Bergman	$np-cog	spa	Grönfeldt Bergman	np-cog-mf
-	eng	de Brún	$np-cog	spa	de Brún	np-cog-mf
-	eng	Dührkop Dührkop	$np-cog	spa	Dührkop Dührkop	np-cog-mf
+	eng	Grönfeldt Bergman	np-cog	spa	Grönfeldt Bergman	np-cog-mf
+	eng	de Brún	np-cog	spa	de Brún	np-cog-mf
+	eng	Dührkop Dührkop	np-cog	spa	Dührkop Dührkop	np-cog-mf
 	eng	Barthet-Mayer	$np$np-cog	spa	Barthet-Mayer	np-cog-mf
 	eng	Bielan	$np-cog	spa	Bielan	np-cog-mf
 	eng	Fotyga	np-cog$$np-cog-f	spa	Fotyga	np-cog-mf
@@ -31688,8 +31688,8 @@ RL	eng	supply	n$n-ND	spa	abasto	n$n-m$n-m-ND
 	eng	Seppänen	$np$np-cog	spa	Seppänen	np-cog-mf
 	eng	Sjöstedt	$np-cog	spa	Sjöstedt	np-cog-mf
 	eng	Dell'Alba	$np-cog	spa	Dell'Alba	np-cog-mf
-	eng	van Orden	$np-cog	spa	van Orden	np-cog-mf
-	eng	van den Burg	$np-cog	spa	van den Burg	np-cog-mf
+	eng	van Orden	np-cog	spa	van Orden	np-cog-mf
+	eng	van den Burg	np-cog	spa	van den Burg	np-cog-mf
 	eng	Lenarčič	$np-cog	spa	Lenarčič	np-cog-mf
 	eng	Potočnik	$np-cog	spa	Potočnik	np-cog-mf
 	eng	Kułakowski	$np-cog	spa	Kułakowski	np-cog-mf
@@ -31885,7 +31885,7 @@ RL	eng	Sussman	np-cog$	spa	Sussman	np-cog-mf
 	eng	Rodrigo	np-cog-sg$np-cog	spa	Rodrigo	np-cog$np-cog-mf
 	eng	Roldán	np-cog-sg$$np-cog	spa	Roldán	np$np-cog$np-cog-mf
 	eng	Rosell	np-cog-sg$$np-cog	spa	Rosell	np$np-cog$np-cog-mf
-	eng	Ruiz	np-cog-sg$np-cog$$np	spa	Ruiz	np$np-cog-mf$np-cog
+	eng	Ruiz	np-cog-sg$np-cog$$np	spa	Ruiz	np-cog-mf$np-cog
 	eng	Serrat	np-cog-sg$$np-cog	spa	Serrat	np$np-cog$np-cog-mf
 	eng	Sotomayor	np-cog-sg$$np-cog	spa	Sotomayor	np$np-cog$np-cog-mf
 	eng	Sánchez	np-cog-sg$np-cog$	spa	Sánchez	np$np-cog-mf$np-cog
@@ -32675,7 +32675,7 @@ LR	eng	hence	adv	spa	de ahí	adv
 	eng	Carmen Pérez-Fragero Rodríguez de Tembleque	np-ant	spa	Carmen Pérez-Fragero Rodríguez de Tembleque	np-ant
 	eng	Spanish Agency of International Cooperation for Development	np-al	spa	Agencia Española de Cooperación Internacional de Desarrollo	np-al-f
 	eng	AECID	np-al	spa	AECID	np-al-f
-RL	eng	Mrs.	n$n-sg	spa	Dña	n-f
+RL	eng	Mrs.	n$$n-sg	spa	Dña	n-f
 	eng	Gonzalo Torrente Ballester	np-ant	spa	Gonzalo Torrente Ballester	np-ant
 	eng	Marilyn Monroe	np-ant	spa	Marilyn Monroe	np-ant
 	eng	Radio Televisión Española	np-al	spa	Radio Televisión Española	np-al-f
@@ -32703,9 +32703,9 @@ RL	eng	Board of Trustees	np-al	spa	Patronato	np-al-m
 	eng	Recife	np-loc	spa	Recife	np-loc-m
 	eng	Florianópolis	np-loc	spa	Florianópolis	np-loc-f
 	eng	Kiev	np-loc	spa	Kiev	np$np-loc$np-loc-m
-	eng	St. Petersburg	np$np-loc	spa	San Petersburgo	np$np-loc$np-loc-m
+	eng	St. Petersburg	np$np-loc	spa	San Petersburgo	np$np-loc-m$np-loc
 	eng	Thessaloniki	np-loc	spa	Salónica	np$np-loc-f
-	eng	New Delhi	np-loc	spa	Nueva Delhi	np$np-loc$np-loc-f
+	eng	New Delhi	np-loc	spa	Nueva Delhi	np$np-loc-f$np-loc
 	eng	Hanoi	np-loc	spa	Hanoi	np$np-loc$np-loc-m
 	eng	Osaka	np-loc	spa	Osaka	np$np-loc-f
 	eng	Bangalore	np-loc	spa	Bangalore	np$np-loc-f
@@ -33086,7 +33086,7 @@ RL	eng	Marjayoun	np-loc	spa	Marjayoun	np-loc-m
 	eng	RBD	np-al	spa	RBD	np-al-f
 	eng	Salamanca	np-loc$	spa	Salamanca	np$np-loc$np-loc-f
 	eng	BIBLIODEF	np-al	spa	BIBLIODEF	np-al-m
-	eng	del Toro	$np-cog	spa	del Toro	np-cog$np-cog-mf
+	eng	del Toro	np-cog	spa	del Toro	np-cog$np-cog-mf
 	eng	Abrial	np-cog	spa	Abrial	np-cog-mf
 	eng	Viator	np-loc	spa	Viator	np-loc-m
 	eng	Sang Atesh	np-loc	spa	Sang Atesh	np-loc-m
@@ -33125,8 +33125,8 @@ RL	eng	Council	np-al	spa	Consello	np-al-m
 	eng	Ozqueta	np-cog	spa	Ozqueta	np-cog-mf
 	eng	Chávez	$np-cog$np-cog-pl	spa	Chávez	np$np-cog$np-cog-mf
 	eng	Morado	np-cog	spa	Morado	np-cog-mf
-	eng	de la Fuente	$np-cog	spa	de la Fuente	np-cog$np-cog-mf
-	eng	de León	$np-cog	spa	de León	np-cog$np-cog-mf
+	eng	de la Fuente	np-cog	spa	de la Fuente	np-cog$np-cog-mf
+	eng	de León	np-cog	spa	de León	np-cog$np-cog-mf
 	eng	IVAM	np-al	spa	IVAM	np-al-m
 	eng	Escamilla	$np$np-cog	spa	Escamilla	np-cog$np-cog-mf
 	eng	Reverté	$np-cog	spa	Reverté	np-cog$np-cog-mf
@@ -33294,7 +33294,7 @@ RL	eng	Quijote	np-al	spa	Quixote	np-al-m
 	eng	Crane	$np-cog	spa	Crane	np-cog-mf
 	eng	Lorioux	np-cog	spa	Lorioux	np-cog-mf
 	eng	Mestres	$np-cog	spa	Mestres	np-cog$np-cog-mf
-	eng	Puig	np-cog$	spa	Puig	np$np-cog$np-cog-mf
+	eng	Puig	$np-cog	spa	Puig	np$np-cog$np-cog-mf
 	eng	Rosado	$np-cog	spa	Rosado	np-cog$np-cog-mf
 	eng	Strang	np-cog	spa	Strang	np-cog-mf
 	eng	Queralt	$np-ant	spa	Queralt	np-ant
@@ -33327,7 +33327,7 @@ RL	eng	Quijote	np-al	spa	Quixote	np-al-m
 	eng	Rueda	$np-cog$np-cog-sg	spa	Rueda	np$np-cog$np-cog-mf
 	eng	Tomillas	np-loc	spa	Tomillas	np-loc-f
 	eng	Tablante of Ricamonte	np-al	spa	Tablante de Ricamonte	np-al-m
-	eng	de la Cruz	$np-cog	spa	de la Cruz	np-cog$np-cog-mf
+	eng	de la Cruz	np-cog	spa	de la Cruz	np-cog$np-cog-mf
 	eng	Duque	$np-cog	spa	Duque	np-cog$np-cog-mf
 	eng	Mancho	np-cog	spa	Mancho	np-cog-mf
 	eng	Sanlúcar de Barrameda	np-loc	spa	Sanlúcar de Barrameda	np-loc-m
@@ -33742,7 +33742,7 @@ LR	eng	vicesecretary	n	spa	vicesecretario	n$n-GD
 RL	eng	email	n$n-ND	spa	correo electrónico	n-m
 	eng	email address	n	spa	dirección	n$n-f$n-f-sg
 	eng	financing	n	spa	financiación	n-f$n-f-sg$n
-	eng	royal decree	n	spa	real decreto	n$n-m
+	eng	royal decree	n	spa	real decreto	n-m
 RL	eng	royal decree	n	spa	decreto real	n-m
 	eng	prescription	n	spa	prescripción	n$n-f$n-f-sg
 	eng	BOE	n-acr	spa	BOE	n-acr$n$n-acr-m
@@ -33962,7 +33962,7 @@ LR	eng	anti-ballistic	adj	spa	antibalístico	adj$adj-GD-ND
 LR	eng	commissioner	n$n-ND	spa	comisionado	n-GD
 RL	eng	commissioner	n$n-ND	spa	comisionado	n$n-m$n-m-sg
 	eng	activation	n	spa	activación	n$n-f
-	eng	second lieutenant	n$n-sg	spa	alférez	n-mf$n-mf-ND
+	eng	second lieutenant	n	spa	alférez	n-mf$n-mf-ND
 	eng	antarctic	adj	spa	antártico	adj$adj-GD$adj-GD-ND
 	eng	andean	adj	spa	andino	adj$adj-m-sg
 LR	eng	Andean	n	spa	andino	n$n-GD
@@ -34362,7 +34362,7 @@ LR	eng	uptight	adj	spa	tenso	adj$adj-m
 	eng	horrifying	adj	spa	horroroso	adj$adj-m-sg
 	eng	pine marten	n	spa	marta	n-f$n$
 	eng	pine grove	n	spa	pinar	n-m$n$n-m-ND
-	eng	pine tree	n	spa	pino	n-m$n$n-m-ND
+	eng	pine tree	n	spa	pino	n$n-m$n-m-ND
 	eng	moneyed	adj	spa	adinerado	adj$adj-GD
 	eng	ingenuous	adj	spa	ingenuo	adj$adj-GD$$adj-GD-ND
 	eng	dewy-eyed	adj	spa	ingenuo	adj$adj-GD$$adj-GD-ND
@@ -34661,7 +34661,7 @@ LR	eng	caller	n	spa	llamador	n$n-GD
 	eng	stab	n	spa	cuchillada	n$n-f
 	eng	slash	n	spa	cuchillada	n$n-f
 	eng	slash	vblex	spa	acuchillar	vblex
-	eng	cash	n$n-sg	spa	dinero efectivo	n$n-m-sp
+	eng	cash	n$n-sg	spa	dinero efectivo	n-m-sp
 	eng	in cash	adv	spa	en efectivo	adv
 	eng	cash	vblex$vblex-sep	spa	cobrar	vblex
 	eng	showcase	vblex	spa	exhibir	vblex
@@ -35208,7 +35208,7 @@ LR	eng	Man City	np-al	spa	Manchester City	np-al-m
 	eng	pit	vblex	spa	enfrentar	vblex
 	eng	confront	vblex	spa	enfrentar	vblex
 	eng	pit	vblex	spa	deshuesar	vblex
-	eng	Real Madrid	np-al$np	spa	Real Madrid	np$np-al$np-al-m
+	eng	Real Madrid	np-al$np	spa	Real Madrid	np$np-al-m
 	eng	evening	n$n-ND	spa	tarde	n-f$n$n-f-ND
 	eng	drinkable	adj	spa	potable	adj$adj-mf$adj-mf-sg
 	eng	potable	adj	spa	potable	adj$adj-mf$adj-mf-sg
@@ -35975,7 +35975,7 @@ RL	eng	pilferer	n	spa	ratero	n$n-GD
 	eng	delineate	vblex	spa	delinear	vblex
 	eng	doom	vblex	spa	condenar	vblex
 	eng	hobbit	n	spa	hobbit	n-m
-	eng	pipe-weed	n	spa	hierba	n-f$n$n-f-ND
+	eng	pipe-weed	n	spa	hierba	n-f$n$n-f-sg
 	eng	shire	n	spa	condado	n-m$n$n-m-ND
 	eng	long-awaited	adj	spa	largamente esperado	adj
 LR	eng	long-expected	adj	spa	largamente esperado	adj
@@ -35990,7 +35990,7 @@ RL	eng	taming	n	spa	domadura	n-f
 	eng	tame	adj$adj-sint	spa	manso	adj$adj-m-sg
 	eng	tame	vblex	spa	domar	vblex
 	eng	domesticate	vblex	spa	domesticar	vblex
-	eng	herb	n	spa	hierba	n-f$n$n-f-ND
+	eng	herb	n	spa	hierba	n-f$n$n-f-sg
 	eng	healing	n	spa	curación	n-f$n
 	eng	steward	n	spa	camarero	n$n-m$n-m-ND
 	eng	stewardess	n	spa	camarero	n-f
@@ -36803,14 +36803,14 @@ RL	eng	pie	n	spa	empanada	n$n-f
 	eng	doormat	n	spa	felpudo	n-m$n
 RL	eng	broccoli	n	spa	brócoli	n-m$n$n-m-sg
 RL	eng	broccoli	n	spa	bróculi	n-m
-	eng	duckling	n	spa	patito	n-m$n
+	eng	duckling	n	spa	patito	n$n-m
 RL	eng	hood	n	spa	capota	n-f$n
 RL	eng	gossip	n$n-ND	spa	cotilleo	n-m$n
 RL	eng	punch	n	spa	puñetazo	n-m$n
 RL	eng	stay	n$n-ND	spa	estadía	n$n-f
 	eng	ballot	n	spa	papeleta	n$n-f
 RL	eng	sweetness	n	spa	dulzura	n$n-f
-	eng	sunset	n	spa	ocaso	n-m$n
+	eng	sunset	n	spa	ocaso	n$n-m
 RL	eng	face	n$n-sg	spa	faz	n$n-f$n-f-ND
 RL	eng	banner	n$n-ND	spa	estandarte	n$n-m
 	eng	subtlety	n	spa	sutileza	n$n-f
@@ -37290,7 +37290,7 @@ RL	eng	riddle	n$n-sg	spa	acertijo	n-m$n
 	eng	pork shoulder	n	spa	lacón	n$n-m
 	eng	LP	n$n-acr	spa	elepé	n-m
 RL	eng	whistle	n	spa	silbido	n-m$n
-RL	eng	goat	n$n-ND	spa	chivo	n-m$n
+RL	eng	goat	n$n-ND	spa	chivo	n$n-m
 RL	eng	restraint	n$n-ND	spa	mesura	n-f$n
 	eng	diaphragm	n	spa	diafragma	n-m$n
 RL	eng	zenith	n	spa	cenit	n-m-sp$n-m
@@ -37675,7 +37675,7 @@ LR	eng		$num$num-ord$num-ord-m-sg	spa		num-ord-GD-sg
 	eng	$	$num-mon	spa		num$$num-percent
 	eng	€		spa		num$$num-percent
 	eng		$num$num-ord$num-ord-m-sg	spa		num$$num-percent
-	eng		num-mf-sg	spa		num-mf-sg
+	eng		num-sg$num-mf-sg	spa		num-mf-sg
 	eng		num-mon$mon	spa		num-mon$mon
 	eng		$num$num-ord$num-ord-m-sg	spa	siglo 	
 	eng		$num$num-ord$num-ord-m-sg	spa	siglos 	

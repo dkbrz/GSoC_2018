@@ -22,7 +22,7 @@ LR	ckb	ئاخۆ	qst	eng		$num$num-ord$num-ord-m-sg
 	ckb	بە	pr	eng	to	pr
 	ckb	بە	pr	eng	with	pr$
 	ckb	بە	pr	eng	by	pr
-	ckb	بە	pr	eng	of	pr
+	ckb	بە	pr	eng	of	pr$
 	ckb	دە	pr	eng	on	pr
 	ckb	لەبن	pr	eng	beside	pr
 	ckb	لەگەڵ	pr	eng	with	pr$
@@ -36,9 +36,9 @@ LR	ckb	ئاخۆ	qst	eng		$num$num-ord$num-ord-m-sg
 	ckb	لە‫ژ‬ێر	pr	eng	under	pr
 	ckb	پاش‬	pr	eng	after	pr
 	ckb	پێش‬	pr	eng	before	pr
-LR	ckb	ی	pr	eng	of	pr
+LR	ckb	ی	pr	eng	of	pr$
 LR	ckb	دا	post	eng		$num$num-ord$num-ord-m-sg
-	ckb	ئێمە	prn	eng	we	prn$prn-obj-p1-mf-pl$prn-obj
+	ckb	ئێمە	prn	eng	we	prn$prn-subj-p1-mf$prn-subj
 	ckb	ئێوە	prn	eng	you	prn$prn-FD-p2
 	ckb	ئەو	prn	eng	he	prn$prn-FD-p3
 	ckb	ئەو	prn	eng	she	prn$prn-FD-p3
@@ -46,7 +46,7 @@ LR	ckb	دا	post	eng		$num$num-ord$num-ord-m-sg
 	ckb	ئەوان	prn	eng	they	prn$prn-FD-p3
 	ckb	ئەوە	prn	eng	that	prn-tn-mf$prn$prn-tn-mf-pl$prn-tn
 	ckb	ئەمە	prn	eng	this	prn-tn-mf$prn$prn-tn-mf-sg$prn-tn
-	ckb	ئەوانە	prn	eng	those	prn
+	ckb	ئەوانە	prn	eng	those	prn-rel-nn-mf-pl$prn
 	ckb	ئەمانە	prn	eng	these	prn
 	ckb	من	prn-pers-p1$prn-pers-clt-p1	eng	prpers	prn-pers-p1-mf
 LR	ckb	من	prn-pers-p1$prn-pers-clt-p1	eng	prpers	prn-pers-p1-mf
@@ -466,7 +466,7 @@ RL	ckb	تەکنۆلۆژیای پەیوەندی و زانیاری	n	eng	ICT	n
 	ckb	دانیشتوان	n	eng	resident	n$n-ND
 	ckb	جۆر	n	eng	brand	n$n-ND
 	ckb	یانە	n	eng	club	n$n-ND
-	ckb	دووەم	n	eng	second	n$n-ND
+	ckb	دووەم	n	eng	second	n$n-sg
 	ckb	کۆتایی	n	eng	end	n$n-ND
 	ckb	عەرەب	n	eng	arab	n
 	ckb	پێک	n	eng	game	n$n-ND
@@ -678,7 +678,7 @@ RL	ckb	تەکنۆلۆژیای پەیوەندی و زانیاری	n	eng	ICT	n
 	ckb	ئەندام	n	eng	member	n$n-ND
 	ckb	سەردان	n	eng	visiting	n
 	ckb	ئەکتەر	n	eng	actor	n$n-sg
-	ckb	سەید	n	eng	Mr.	n
+	ckb	سەید	n	eng	Mr.	n$
 	ckb	ئامار	n	eng	statistics	n$n-pl
 	ckb	پێشکەش	n	eng	gift	n$n-ND
 	ckb	ئەڵمانی	n	eng	German	n$n-ND
@@ -1413,7 +1413,7 @@ RL	ckb	تەکنۆلۆژیای پەیوەندی و زانیاری	n	eng	ICT	n
 	ckb	جەژن	n	eng	holiday	n$n-sg
 	ckb	خاچ	n	eng	cross	n$n-ND
 	ckb	خوشک	n	eng	sister	n$n-ND
-	ckb	خوێ	n	eng	salt	n$n-ND
+	ckb	خوێ	n	eng	salt	n$n-sg
 	ckb	خەزان	n	eng	autumn	n$n-ND
 	ckb	خەزان	n	eng	fall	n$n-pl
 	ckb	خەو	n	eng	dream	n$n-ND
@@ -1561,7 +1561,7 @@ RL	ckb	تەکنۆلۆژیای پەیوەندی و زانیاری	n	eng	ICT	n
 	ckb	کاغەز	n	eng	letter	n$n-ND
 	ckb	کاغەز	n	eng	paper	n$n-ND
 	ckb	کتاو	n	eng	book	n$n-ND
-	ckb	قوتو	n	eng	can	n$n-ND
+	ckb	قوتو	n	eng	can	n$n-sg
 	ckb	کتێب	n	eng	book	n$n-ND
 	ckb	کورد	n	eng	Kurd	n
 	ckb	کوردیی ناوەندی	n	eng	Central Kurdish	n
@@ -1694,7 +1694,7 @@ RL	ckb	هەوکردنێکە تووشی ناوبەینی پەنجەکانی قا�
 	ckb	ئارد	n	eng	flour	n$n-sg
 	ckb	هەنگوێن	n	eng	honey	n$n-ND
 	ckb	پەنێر	n	eng	cheese	n$n-sg
-	ckb	خوێ	n	eng	salt	n$n-ND
+	ckb	خوێ	n	eng	salt	n$n-sg
 	ckb	بیبەر	n	eng	pepper	n$n-sg
 	ckb	برنج	n	eng	rice	n$n-ND
 	ckb	پەسا	n	eng	pasta	n$n-ND
@@ -1790,7 +1790,7 @@ RL	ckb	هەوکردنێکە تووشی ناوبەینی پەنجەکانی قا�
 	ckb	ئینگلیس	np-top	eng	England	np-top$np$np-top-sg$
 	ckb	ئەڵمان	np-top	eng	Germany	np-top$np$np-top-sg
 	ckb	ئەلاباما	np-top	eng	Alabama	np$np-top$np-top-sg
-	ckb	بەرلین:	np-top	eng	Berlin	np-top$np$np-top-sg
+	ckb	بەرلین:	np-top	eng	Berlin	np-top$np$np-top-sg$np-top-m-sg
 	ckb	کۆیە	np-top	eng	Koya	np-top
 	ckb	تاجیکستان	np-top	eng	Tajikstan	np-top
 	ckb	فەڕەنسا	np-top	eng	France	np-top$np$np-top-sg
@@ -1854,7 +1854,7 @@ RL	ckb	هەوکردنێکە تووشی ناوبەینی پەنجەکانی قا�
 	ckb	دانا	np-ant	eng	Dana	np-ant$np-ant-f-sg$np
 	ckb	ئەحمەد	np-ant	eng	Ahmed	np-ant$np$np-ant-m$np-ant-m-sg$
 	ckb	موحەممەد	np-ant	eng	Muhammad	np-ant$np$np-ant-m$$np-ant-m-sg
-	ckb	عەبدول	np-ant	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg
+	ckb	عەبدول	np-ant	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m
 	ckb	بارزانی	np-ant	eng	Barzani	np-ant$np
 	ckb	مستەفا	np-ant	eng	Mustafa	np-ant$np-ant-m$np-ant-m-sg$$np
 	ckb	فەتحی	np-ant	eng	Fathi	np-ant
@@ -1869,7 +1869,7 @@ RL	ckb	هەوکردنێکە تووشی ناوبەینی پەنجەکانی قا�
 	ckb	محەمەد	np-ant	eng	Muhammed	np-ant$np-ant-m$np-ant-m-sg
 	ckb	قاسم	np-ant	eng	Qasim	np-ant
 	ckb	ڕزگار	np-ant	eng	Rizgar	np-ant
-	ckb	ویلیام	np-ant	eng	William	np-ant$np$np-ant-m$np-ant-m-sg
+	ckb	ویلیام	np-ant	eng	William	np-ant$np$np-ant-m-sg$np-ant-m
 	ckb	سەلیم	np-ant	eng	Saleem	np-ant
 	ckb	خالید	np-ant	eng	Khalid	np-ant$np-ant-m-sg$np$np-ant-m
 	ckb	شەن	np-ant	eng	Shan	np-ant

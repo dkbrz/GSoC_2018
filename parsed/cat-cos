@@ -13,22 +13,22 @@
 	cat	a	pr	cos	à	pr
 	cat	a	pr	cos	in	pr
 	cat	en	pr	cos	in	pr
-	cat	el	det-def-m$det-def$det$det-def-m-sg	cos	u	det-def$det-def-m
+	cat	el	det$det-def-m$det-def$det-def-m-sg	cos	u	det-def$det-def-m
 	cat	el	det-def-f$det-def-f-sg	cos	u	det-def-f
 LR	cat	el	det-def-mf$det-def-mf-sg	cos	u	det-def-GD
 RL	cat	el	det-def-GD$det-def-GD-ND	cos	u	det-def-mf$det-def-mf-sp
-	cat	un	det$det-ind-m-pl$det-ind	cos	un	det-ind$det-ind-mf
-	cat	el meu	det$det-pos$det-pos-GD$det-pos-GD-ND	cos	u mè	det-pos
-	cat	el teu	det$det-pos$det-pos-GD$det-pos-GD-pl	cos	u tò	det-pos
+	cat	un	det$det-ind-f-pl$det-ind	cos	un	det-ind$det-ind-mf
+	cat	el meu	det$det-pos$det-pos-m-sg	cos	u mè	det-pos
+	cat	el teu	det$det-pos$det-pos-GD	cos	u tò	det-pos
 	cat	el seu	det$det-pos$det-pos-GD$det-pos-GD-ND	cos	u sò	det-pos
-	cat	el nostre	det$det-pos$det-pos-GD$det-pos-GD-ND	cos	u nostru	det-pos
-	cat	el vostre	det$det-pos$det-pos-GD$det-pos-GD-ND	cos	u vostru	det-pos
+	cat	el nostre	det$det-pos$det-pos-m-sg	cos	u nostru	det-pos
+	cat	el vostre	det$det-pos$det-pos-m-sg	cos	u vostru	det-pos
 	cat	que	rel$rel-an$rel-an-mf-sp	cos	chì	rel$rel-an
-	cat	jo	prn$prn-tn$prn-tn-p1-mf-sg	cos	eiu	prn-tn
-	cat	tu	prn$prn-tn$prn-tn-p2-mf-sg	cos	tù	prn-tn
+	cat	jo	prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-sg	cos	eiu	prn-tn
+	cat	tu	prn$prn-tn$prn-tn-p2-mf-sg$prn-tn-p2	cos	tù	prn-tn
 	cat	ell	prn-tn$prn$prn-tn-p3-m-pl$prn-tn-p3	cos	ellu	prn-tn
-	cat	nosaltres	prn-tn-p1-mf$prn-tn$prn-tn-p1-mf-pl$prn	cos	noi	prn-tn
-	cat	vosaltres	prn-tn-p2-mf$prn-tn-p2-mf-pl$prn-tn$prn	cos	voi	prn-tn
+	cat	nosaltres	prn-tn-p1-mf$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl$prn	cos	noi	prn-tn
+	cat	vosaltres	prn-tn-p2-mf$prn-tn-p2-mf-pl$prn-tn$prn$prn-tn-p2	cos	voi	prn-tn
 	cat	es	prn-pro-ref-p3-mf-sp$prn-pro-ref$prn-pro	cos	si	prn-pro$prn-pro-ref
 	cat	em	prn-pro$prn$prn-pro-p1-mf-sg$prn-pro-p1-mf	cos	mi	prn-pro
 	cat	et	prn-pro$prn$prn-pro-p2-mf-sg	cos	ti	prn-pro
@@ -37,27 +37,27 @@ RL	cat	el	det-def-GD$det-def-GD-ND	cos	u	det-def-mf$det-def-mf-sp
 	cat	us	prn-pro$prn-pro-p2-mf-pl$prn$prn-pro-p2-mf	cos	vi	prn-pro
 	cat	el meu	prn$prn-tn	cos	u meiu	prn-tn
 	cat	el teu	prn$prn-tn	cos	u toiu	prn-tn
-	cat	el seu	prn$prn-tn-pos-GD$prn-tn$prn-tn-pos-GD-pl	cos	u soiu	prn-tn
-	cat	el nostre	prn$prn-tn$prn-tn-pos$prn-tn-pos-f-sg	cos	u nostru	prn-tn
-	cat	el vostre	prn$prn-tn$prn-tn-pos$prn-tn-pos-f-sg	cos	u vostru	prn-tn
+	cat	el seu	prn$prn-tn-pos-GD$prn-tn	cos	u soiu	prn-tn
+	cat	el nostre	prn$prn-tn$prn-tn-pos	cos	u nostru	prn-tn
+	cat	el vostre	prn$prn-tn$prn-tn-pos	cos	u vostru	prn-tn
 	cat	res	prn$prn-tn-nt$prn-tn	cos	nulla	prn-tn
-	cat	ningú	prn$prn-tn-mf-sg$prn-tn$prn-tn-mf	cos	nimu	prn-tn
+	cat	ningú	prn-tn-mf-sg$prn$prn-tn$prn-tn-mf	cos	nimu	prn-tn
 	cat	algun	prn$prn-tn-m-sg$prn-tn	cos	alcunu	prn-tn
 	cat	hi	prn-pro-adv$prn$prn-pro	cos	ci	prn-pro$prn-pro-adv
-	cat	en	prn-pro-adv$prn-pro	cos	ne	prn-pro$prn-pro-adv
+	cat	en	prn-pro-adv$prn$prn-pro	cos	ne	prn-pro$prn-pro-adv
 	cat	u	num$num-m-sp	cos	unu	num
-	cat	dos	num$$num-GD$num-GD-sp	cos	dui	num
-	cat	tres	num$$num-mf-sp	cos	trè	num
+	cat	dos	num$num-GD$num-GD-sp	cos	dui	num
+	cat	tres	num$num-mf-sp	cos	trè	num
 	cat	quatre	num$$num-mf-sp	cos	quattru	num
 	cat	cinc	num$$num-mf-sp	cos	cinque	num
 	cat	sis	num$$num-mf-sp	cos	sei	num
 	cat	set	num$$num-mf-sp	cos	sette	num
 	cat	vuit	num$$num-mf-sp	cos	ottu	num
 	cat	nou	num$num-mf-sp	cos	nove	num
-	cat	aigua	n$n-f	cos	acqua	n-f
+	cat	aigua	n-f$n$n-f-sg	cos	acqua	n-f
 	cat	ciència	n$n-f	cos	scienza	n-f
 	cat	cosmologia	n-f$n	cos	cosmolugia	n-f
-	cat	traducció	n$n-f	cos	traduzzione	n-f
+	cat	traducció	n-f$n	cos	traduzzione	n-f
 	cat	relació	n-f$n	cos	relazione	n-f
 	cat	tradició	n$n-f	cos	tradizione	n-f
 	cat	ciutat	n$n-f$n-f-sg	cos	cità	n-f
@@ -87,7 +87,7 @@ RL	cat	el	det-def-GD$det-def-GD-ND	cos	u	det-def-mf$det-def-mf-sp
 	cat	terra	n-f$n	cos	terra	n-f
 	cat	jardí	n$n-m	cos	ortu	n-m
 	cat	joc	n-m$n	cos	ghjocu	n-m
-	cat	mà	n-f$n	cos	manu	n-f
+	cat	mà	n-f$n$n-f-sg	cos	manu	n-f
 	cat	mare	n$n-f	cos	madre	n-f
 	cat	ocell	n$n-m	cos	acellu	n-m
 	cat	resposta	n-f$n	cos	risposta	n-f
@@ -104,11 +104,11 @@ RL	cat	el	det-def-GD$det-def-GD-ND	cos	u	det-def-mf$det-def-mf-sp
 	cat	informació	n-f$n	cos	infurmazione	n-f
 	cat	ull	n$n-m	cos	ochju	n-m
 	cat	article	n-m$n	cos	articulu	n-m
-	cat	nom	n$n-m	cos	nomu	n-m
+	cat	nom	n-m$n	cos	nomu	n-m
 	cat	home	n-m$n	cos	omu	n-m
 	cat	dona	n-f$n	cos	donna	n-f
 	cat	escriptura	n$n-f	cos	scrittura	n-f
-	cat	llengua	n$n-f	cos	lingua	n-f
+	cat	llengua	n-f$n	cos	lingua	n-f
 	cat	disposició	n-f$n$n-f-sg	cos	dispusizione	n-f
 	cat	investigació	n-f$n	cos	ricerca	n-f
 	cat	manifestació	n-f$n	cos	manifestazione	n-f
@@ -121,7 +121,7 @@ RL	cat	el	det-def-GD$det-def-GD-ND	cos	u	det-def-mf$det-def-mf-sp
 	cat	final	n-m$n$	cos	finale	n-m
 	cat	comportament	n-m$n	cos	cumportamentu	n-m
 	cat	sentit	n-m$n	cos	sensu	n-m
-	cat	segle	n$n-m	cos	seculu	n-m
+	cat	segle	n$n-m$	cos	seculu	n-m
 	cat	dia	n$n-m	cos	ghjornu	n-m
 	cat	aglomeració	n-f$n	cos	agglumerazione	n-f
 	cat	aparició	n-f$n	cos	apparizione	n-f
@@ -140,7 +140,7 @@ RL	cat	el	det-def-GD$det-def-GD-ND	cos	u	det-def-mf$det-def-mf-sp
 	cat	construcció	n-f$n	cos	custruzzione	n-f
 	cat	declinació	n-f$n	cos	declinazione	n-f
 	cat	definició	n-f$n	cos	definizione	n-f
-	cat	direcció	n-f$n	cos	direzzione	n-f
+	cat	direcció	n$n-f	cos	direzzione	n-f
 	cat	distinció	n-f$n	cos	distinzione	n-f
 	cat	educació	n-f$n	cos	educazione	n-f
 	cat	equació	n-f$n	cos	equazione	n-f
@@ -171,7 +171,7 @@ RL	cat	el	det-def-GD$det-def-GD-ND	cos	u	det-def-mf$det-def-mf-sp
 	cat	variació	n-f$n	cos	variazione	n-f
 	cat	unió	n$n-f	cos	unione	n-f
 	cat	pont	n$n-m	cos	ponte	n-m
-	cat	Jaume	np$np-ant$np-ant-m-sg$	cos	Jaume	np-ant-m$np-ant-m-sg
+	cat	Jaume	np-ant-m-sg$np$np-ant$	cos	Jaume	np-ant-m$np-ant-m-sg
 	cat	Maria	np-ant$np-ant-f-sg$np$	cos	Maria	np-ant-f$np-ant-f-sg
 	cat	vell	adj$$adj-f-pl	cos	vechju	adj
 	cat	modern	adj$$adj-sup	cos	mudernu	adj

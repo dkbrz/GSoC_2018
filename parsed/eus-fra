@@ -18,7 +18,7 @@
 	eus	AHT	n-acr	fra	TGV	n-acr$n-acr-m$n-acr-m-sg
 	eus	ANV	n-acr	fra	ANV	n-acr
 	eus	Afganistan	np$np-loc	fra	Afghanistan	np$np-loc-f
-	eus	Afrika	np$np-loc	fra	Afrique	np$np-loc-f
+	eus	Afrika	np$np-loc	fra	Afrique	np$np-top-f-sg$np-top$np-top-f
 	eus	Agirre	np$np-ant	fra	Agirre	np$np-cog-mf-sp
 	eus	Agra	np	fra	Agra	np$np-top-f-sg
 	eus	Aingeru	np$np-ant	fra	Aingeru	np$np-ant
@@ -111,7 +111,7 @@
 	eus	Eibar	np$np-loc	fra	Eibar	np
 	eus	Elgoibar	np$np-loc	fra	Elgoibar	np
 	eus	Ermua	np$np-loc	fra	Ermua	np$np-cog-mf-sp
-	eus	Erresuma Batua	np$np-loc	fra	Royaume-Uni	np-top-m-sg$np$np-top-m$np-top
+	eus	Erresuma Batua	np$np-loc	fra	Royaume-Uni	np$np-top-m-sg$np-top-m$np-top
 	eus	Errumania	np$np-loc	fra	Roumanie	np$np-loc-f
 	eus	Errusia	np$np-loc	fra	Russie	np$np-loc-f
 	eus	Espainia	np-loc	fra	Espagne	np$np-top$np-top-f$np-top-f-sg
@@ -134,7 +134,7 @@
 	eus	Gasteiz	np$np-loc	fra	Vitoria	np$np-top-f$np-top-f-sg
 	eus	Gaza	np$np-loc	fra	Gaza	np-loc-f$np
 	eus	Gaztela	np$np-loc	fra	Castille	np$np-loc-f
-	eus	Generalitat	np-al	fra	Generalitat	np-al$np-al-f-sg$np
+	eus	Generalitat	np-al	fra	Generalitat	np-al-f-sg$np-al$np
 	eus	Geneva	np$np-loc	fra	Genève	np$np-loc-f
 	eus	George	np$np-ant	fra	George	np$np-ant$np-ant-m-sg
 	eus	Gernika	np$np-loc	fra	Gernika	np
@@ -146,7 +146,7 @@
 	eus	Granada	np$np-loc	fra	Grenade	np$np-loc-f
 	eus	Habana	np$np-loc	fra	La Havane	np$np-loc-f
 	eus	Hego Afrika	np$np-loc	fra	Afrique du Sud	np$np-loc$np-loc-f
-	eus	Hego Korea	np$np-loc	fra	Corée du Sud	np$np-top$np-top-f-sg$np-top-f
+	eus	Hego Korea	np$np-loc	fra	Corée du Sud	np$np-top$np-top-f$np-top-f-sg
 	eus	Hendaia	np$np-loc	fra	Hendaye	np
 	eus	Hernandez	np$np-ant	fra	Hernández	np$np-cog-mf-sp$np-cog
 	eus	Hernani	np$np-ant	fra	Hernani	np$np-ant$np-ant-m-sg
@@ -175,10 +175,10 @@
 	eus	Japonia	np$np-loc	fra	Japon	np$np-loc-f
 	eus	Jaunaren jaiotza	n	fra	noël	n-m-sp$n-sp
 	eus	Javier	np$np-ant	fra	Javier	np$np-ant$np-ant-m-sg
-	eus	Jean	np$np-ant	fra	Jean	np-ant-m-sg$np-ant$np
+	eus	Jean	np$np-ant	fra	Jean	np-ant-m-sg$np$np-ant
 	eus	Jesus	np$np-ant	fra	Jesús	np$np-ant$np-ant-m-sg
 	eus	Jimenez	np$np-ant	fra	Jiménez	np$np-cog-mf-sp$np-cog
-	eus	Joan	np$np-ant	fra	Joan	np$np-ant$np-ant-m-sg
+	eus	Joan	np$np-ant	fra	Joan	np-ant-m-sg$np$np-ant
 	eus	Jon	np$np-ant	fra	Jon	np$np-ant-m-sg$np-ant
 	eus	Jordania	np$np-loc	fra	Jordanie	np$np-loc-f
 	eus	Jorge	np$np-ant	fra	Jorge	np$np-ant$np-ant-m-sg
@@ -186,7 +186,7 @@
 	eus	Joseba	np$np-ant	fra	Joseba	np$np-ant$np-ant-m-sg
 	eus	Josu	np$np-ant	fra	Josu	np$np-ant$np-ant-m-sg
 	eus	Joxe	np$np-ant	fra	Joxe	np$np-cog-mf-sp
-	eus	Juan	np$np-ant	fra	Juan	np$np-ant$np-ant-m-sg
+	eus	Juan	np$np-ant	fra	Juan	np$np-ant-m-sg$np-ant
 	eus	Juana	np$np-ant	fra	Juana	np$np-ant-f-sg$np-ant
 	eus	Julia	np$np-ant	fra	Julia	np$np-ant$np-ant-f-sg
 	eus	KPI	n-acr	fra	IPC	n$n-acr$n-acr-m$n-acr-m-sg
@@ -198,7 +198,7 @@
 	eus	Kolonbia	np$np-loc	fra	Colombie	np$np-loc-f
 	eus	Kolonia	np$np-loc	fra	Cologne	np$np-loc-f
 	eus	Kongo	np$np-loc	fra	Congo	np$np-loc-f
-	eus	Korea	np$np-loc	fra	Corée	np$np-loc-f
+	eus	Korea	np$np-loc	fra	Corée	np$np-top-f-sg$np-top-f$np-top
 	eus	Korsika	np$np-loc	fra	Corse	np$np-loc-f
 	eus	Korsika	np$np-loc	fra	Corsica	np$np-top-f-sg
 	eus	Kosovo	np$np-loc	fra	Kosovo	np-loc$np-loc-f$np
@@ -220,7 +220,7 @@
 	eus	Madril	np$np-loc	fra	Madrid	np$np-loc-f
 	eus	Manuel	np$np-ant	fra	Manuel	np-ant$np-ant-m-sg$np
 	eus	Mari	np$np-ant	fra	Mari	np$np-ant$np-ant-f-sg
-	eus	Maria	np$np-ant	fra	Maria	np$np-ant$np-ant-f-sg
+	eus	Maria	np$np-ant	fra	Maria	np$np-ant-f-sg$np-ant
 	eus	Mariano	np$np-ant	fra	Mariano	np$np-ant-m-sg$np-ant
 	eus	Maroko	np$np-loc	fra	Maroc	np$np-loc-f
 	eus	Marta	np$np-ant	fra	Marta	np$np-ant$np-ant-f-sg
@@ -276,7 +276,7 @@ LR	eus	Paradisu	n	fra	paradis	n-m-sp$n-m$n
 	eus	Rodriguez	np$np-ant	fra	Rodríguez	np$np-cog-mf-sp$np-cog
 	eus	Ruanda	np$np-loc	fra	Rwanda	np$np-loc-f
 	eus	Rubalcaba	np$np-ant	fra	Rubalcaba	np$np-cog-mf-sp
-	eus	Ruiz	np$np-ant	fra	Ruiz	np$np-cog-mf-sp$np-cog
+	eus	Ruiz	np$np-ant	fra	Ruiz	np-cog-mf-sp$np$np-cog
 	eus	SA	n-acr	fra	SA	n-acr-f$n-acr$n-acr-f-sg
 	eus	Saddam	np$np-ant	fra	Saddam	np$np-ant-m-sg$np-ant
 	eus	Saez	np$np-ant	fra	Sáez	np$np-cog-mf-sp$np-cog
@@ -778,7 +778,7 @@ LR	eus	abusu	n	fra	abus	n-m-sp$n-m$n
 	eus	ardatz	n	fra	essieu	n$n-m$n-m-ND
 	eus	ardatz	n	fra	axe	n-m$n$n-m-ND
 	eus	ardi	n$	fra	mouton	n-m$n$n-m-ND
-	eus	ardo	n	fra	vin	n$n-m$n-m-ND
+	eus	ardo	n	fra	vin	n-m$n$n-m-ND
 LR	eus	ardura	n	fra	soin	n-m$n-m-ND$n
 	eus	ardura	n	fra	égard	n-m$n-m-ND
 	eus	ardura	n	fra	considération	n$n-f$n-f-ND
@@ -1976,8 +1976,8 @@ LR	eus	dei	n$	fra	appel	n-m$n$n-m-ND
 	eus	demokrata	adj	fra	démocrate	adj$adj-mf$adj-mf-ND
 	eus	demokratiko	adj$adj-izo	fra	démocratique	adj-mf$adj$adj-mf-ND
 	eus	demokrazia	n	fra	démocratie	n$n-f$n-f-ND
-LR	eus	den-dena	prn-ind-sg	fra	tout	prn-tn-m-sg$prn$prn-tn$prn-tn-m
-LR	eus	dena	prn-ind-sg	fra	tout	prn-tn-m-sg$prn$prn-tn$prn-tn-m
+LR	eus	den-dena	prn-ind-sg	fra	tout	prn$prn-tn-m-sg$prn-tn$prn-tn-m
+LR	eus	dena	prn-ind-sg	fra	tout	prn$prn-tn-m-sg$prn-tn$prn-tn-m
 	eus	dena dela	adv	fra	en tout cas	adv
 	eus	dena dela	adv	fra	en tous les cas	adv
 	eus	dena dela	adv	fra	dans tous les cas	adv
@@ -2429,8 +2429,8 @@ LR	eus	eguraldi	n	fra	temps	n-m-sp$n-m$n
 	eus	enpresaburu	n	fra	entrepreneur	n$n-m$n-m-ND
 	eus	enpresaburu	n	fra	chef	n$n-m$n-m-ND
 LR	eus	enpresaburu	n	fra	chef	n$n-m$n-m-ND
-	eus	enpresen	adj	fra	de commerce et de gestion	adj-mf-sp$adj
-	eus	enpresen	adj	fra	des entreprises	adj-mf-sp$adj
+	eus	enpresen	adj	fra	de commerce et de gestion	adj-mf-sp
+	eus	enpresen	adj	fra	des entreprises	adj-mf-sp
 	eus	entitate	n	fra	établissement	n-m$n$n-m-ND
 	eus	entitate	n	fra	entité	n-f$n$n-f-ND
 	eus	entregatu	vblex	fra	livrer	vblex
@@ -3364,7 +3364,7 @@ LR	eus	frantses	n	fra	français	n-m-sp$n
 	eus	garesti	adj$adj-izo	fra	coûteux	adj-m-sp$adj
 	eus	garestitze	n	fra	augmentation	n-f$n-f-ND$n
 	eus	gari	n	fra	froment	n$n-m$n-m-ND
-	eus	gari	n	fra	blé	n$n-m$n-m-ND
+	eus	gari	n	fra	blé	n-m$n$n-m-ND
 	eus	garizuma	n	fra	carême	n-m$n-m-ND
 	eus	garraiatu	vblex	fra	voiturer	vblex
 	eus	garraiatu	vblex	fra	véhiculer	vblex
@@ -3678,9 +3678,9 @@ LR	eus	gorputz	n	fra	corps	n-m-sp$n-m$n
 	eus	gris	adj$	fra	gris	adj-GD$adj-GD-ND
 	eus	gris	adj$	fra	gris	adj$adj-m-sp
 	eus	grotesko	adj	fra	grotesque	adj-mf$adj$adj-mf-ND
-	eus	gu	prn$prn-pers-p1$prn-pers-p1-pl	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl
+	eus	gu	prn$prn-pers-p1$prn-pers-p1-pl	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl
 	eus	guardia	n	fra	garde	n-mf$n-mf-ND
-	eus	guhaur	prn-pers-p1$prn-pers-p1-pl	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl
+	eus	guhaur	prn-pers-p1$prn-pers-p1-pl	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl
 	eus	gune	n	fra	lieu	n-m$n$n-m-ND
 	eus	gune	n	fra	place	n-f$n$n-f-ND
 	eus	guraso	n	fra	père	n$n-m$n-m-ND
@@ -4273,7 +4273,7 @@ LR	eus	ikasturte	n	fra	cours	n-m-sp$n-m$n
 	eus	indar	n	fra	vigueur	n-m$n$n-m-ND
 	eus	indargabetu	vblex	fra	affaiblir	vblex
 	eus	indarkeria	n	fra	violence	n$n-f$n-f-ND
-	eus	indarreko	adj	fra	en vigueur	adj-mf-sp$adj$adj-mf
+	eus	indarreko	adj	fra	en vigueur	adj-mf-sp
 	eus	indarrez	adv	fra	de force	adv
 	eus	indartsu	adj$adj-izo	fra	fort	adj$adj-GD-ND$adj-GD
 	eus	indartu	vblex	fra	renforcer	vblex
@@ -4370,7 +4370,7 @@ LR	eus	ingeles	n	fra	anglais	n-m-sp$n
 	eus	instrukzio	n	fra	instruction	n-f$n$n-f-ND
 	eus	instrumentu	n	fra	instrument	n-m$n$n-m-ND
 	eus	integratu	vblex	fra	intégrer	vblex
-	eus	integratze	n	fra	intégration	n-m$n$n-m-ND
+	eus	integratze	n	fra	intégration	n-m$n-m-ND
 	eus	intelektual	n	fra	intellectuel	n-GD$n-GD-ND
 	eus	intelektual	adj$adj-izo	fra	intellectuel	adj$adj-GD$$adj-GD-ND
 	eus	intentsibo	adj	fra	intensif	adj$adj-GD-ND
@@ -4573,7 +4573,7 @@ LR	eus	ingeles	n	fra	anglais	n-m-sp$n
 	eus	itzulpen	n	fra	traduction	n-f$n$n-f-ND
 	eus	itzultzaile	n	fra	traducteur	n-GD$n-GD-ND
 	eus	izaera	n	fra	caractère	n-m$n$n-m-ND
-	eus	izaki	n	fra	être	n$n-m$n-m-ND
+	eus	izaki	n	fra	être	n-m$n$n-m-ND
 	eus	izan	vblex$	fra	consister	vblex
 	eus	izan	vblex$	fra	résulter	vblex
 	eus	izan	vbsint	fra	être	vbser$vbser-pp$vbser-pp-mf-sp
@@ -5061,7 +5061,7 @@ LR	eus	kongresu	n	fra	congrès	n-m-sp$n-m$n
 	eus	kontatu	vblex	fra	narrer	vblex
 	eus	kontatu	vblex	fra	relater	vblex
 	eus	kontenplatu	vblex	fra	contempler	vblex
-	eus	kontinental	adj$adj-izo	fra	continental	adj$adj-GD-ND$$adj-GD
+	eus	kontinental	adj$adj-izo	fra	continental	adj$adj-GD-ND$adj-GD$
 	eus	kontinente	n	fra	continent	n-m$n$n-m-ND
 	eus	kontinente	n	fra	contenant	n-m$n$n-m-ND
 	eus	kontraesan	n	fra	contradiction	n-f$n$n-f-ND
@@ -5215,7 +5215,7 @@ LR	eus	kongresu	n	fra	congrès	n-m-sp$n-m$n
 	eus	lan	n	fra	tâche	n-f$n$n-f-ND
 	eus	lan	n	fra	emploi	n-m$n$n-m-ND
 	eus	lan	n	fra	travail	n-m$n
-	eus	lan	adj	fra	de travail	adj-mf-sp$adj$adj-mf
+	eus	lan	adj	fra	de travail	adj-mf-sp
 	eus	lan egin	vblex	fra	bosser	vblex
 	eus	lan egin	vblex	fra	travailler	vblex
 	eus	lanabes	n$	fra	outil	n-m$n$n-m-ND
@@ -5643,7 +5643,7 @@ LR	eus	martxo	n	fra	mars	n-m-sp$n-m$n
 	eus	merkatu	n	fra	marché	n-m$n$n-m-ND
 	eus	merkatu	vblex	fra	baisser	vblex
 	eus	merkaturatu	vblex	fra	commercialiser	vblex
-	eus	merke	adj$adj-izo	fra	bon marché	adj-mf$adj$adj-mf-ND
+	eus	merke	adj$adj-izo	fra	bon marché	adj-mf$adj-mf-ND$adj
 	eus	mero zuri	n	fra	mérou	n-m$n$n-m-ND
 	eus	mesede	n	fra	faveur	n-f$n-f-ND
 	eus	mesede egin	vblex	fra	favoriser	vblex
@@ -5981,8 +5981,8 @@ LR	eus	nini	n	fra	enfant	n-m$n-n$n-m-ND
 	eus	nolanahi ere	adv	fra	de toute façon	adv
 	eus	nomina	n	fra	feuille	n-f$n$n-f-ND
 	eus	non	adv$adv-itg	fra	où	adv$adv-itg
-	eus	nor	prn-itg$prn$prn-itg-sg	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf$prn-itg
-	eus	nor	prn-itg$prn$prn-itg-sg	fra	qui	prn-itg-mf-sp$prn-itg-mf$prn-itg
+	eus	nor	prn-itg$prn$prn-itg-sg	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf
+	eus	nor	prn-itg$prn$prn-itg-sg	fra	qui	prn-itg-mf-sp$prn-itg$prn-itg-mf
 	eus	nor berean egon	vblex	fra	persister	vblex
 	eus	nor bere	adj	fra	respectif	adj$adj-GD-ND
 	eus	norabide	n	fra	direction	n-f$n$n-f-ND
@@ -6022,7 +6022,7 @@ LR	eus	noranzko	n	fra	sens	n-m-sp$n-m$n
 	eus	objektu	n	fra	objet	n-m$n$n-m-ND
 	eus	obligazio	n	fra	obligation	n-f$n$n-f-ND
 	eus	obra	n	fra	oeuvre	n$n-f$n-f-ND
-	eus	obra	n	fra	chantier	n-m$n-m-ND
+	eus	obra	n	fra	chantier	n-m-ND
 	eus	obsesionatu	vblex	fra	obséder	vblex
 	eus	odol	n	fra	sang	n-m$n$n-m-ND
 	eus	odola darion	adj	fra	sanglant	adj$adj-GD-ND
@@ -6147,9 +6147,9 @@ LR	eus	noranzko	n	fra	sens	n-m-sp$n-m$n
 	eus	operatu	vblex	fra	opérer	vblex
 	eus	operazio	n	fra	opération	n-f$n$n-f-ND
 	eus	operazio	n	fra	operation	n$n-f$n-f-ND
-	eus	opor	n	fra	vacances	n$n-f
+	eus	opor	n	fra	vacances	n$n-f$n-f-pl
 	eus	opor	n	fra	vacance	n-f-pl$n-f$n
-	eus	oporraldi	n	fra	vacances	n$n-f
+	eus	oporraldi	n	fra	vacances	n$n-f$n-f-pl
 	eus	oporraldi	n	fra	vacance	n-f-pl$n-f$n
 	eus	oposizio	n	fra	opposition	n-f$n$n-f-ND
 	eus	optiko	adj$adj-izo	fra	optique	adj-mf$adj-mf-ND$adj
@@ -6957,7 +6957,7 @@ LR	eus	sorospen	n	fra	secours	n-m$n-m-sp$n
 	eus	tanto	n	fra	maille	n-f$n$n-f-ND
 	eus	tanto	n	fra	point	n-m$n$n-m-ND
 	eus	tapiz	n	fra	tapisserie	n-f$n$n-f-ND
-	eus	tarifa	n	fra	tarif	n-m$n-m-ND
+	eus	tarifa	n	fra	tarif	n-m$n$n-m-ND
 	eus	tarte	n	fra	espace	n-m$n$n-m-ND
 	eus	tarteka	adv	fra	de temps en temps	adv
 	eus	tarteka-marteka	adv	fra	à temps perdu	adv

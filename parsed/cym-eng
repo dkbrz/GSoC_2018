@@ -13,15 +13,15 @@
 	cym	rheiny	det-dem-mf	eng	that	det-dem$det$det-dem-sg
 	cym	llawer o	det-qnt	eng	a lot of	det-qnt-sp$det$det-qnt
 	cym	lot o	det-qnt	eng	a lot of	det-qnt-sp$det$det-qnt
-	cym	mwy o	det-qnt	eng	more	det-qnt$det-qnt-sp$det
+	cym	mwy o	det-qnt	eng	more	det-qnt-sp$det-qnt$det
 	cym	llawer iawn o	det-qnt	eng	very many	det-qnt
-	cym	ychydig	det-qnt	eng	a few	det-qnt-pl$det$det-qnt
+	cym	ychydig	det-qnt	eng	a few	det$det-qnt$det-qnt-pl
 	cym	faint	det-itg	eng	how much	det-itg-sg$det-itg$det
 	cym	faint o	det-itg-sp	eng	how much	det-itg-sg$det-itg$det
 	cym	faint o	det-itg-sg	eng	how much	det-itg-sg$det-itg$det
 	cym	faint o	det-itg-pl	eng	how many	det-itg-pl$det-itg$det
-	cym	faint mor	det-itg	eng	how	det-itg
-	cym	pa mor	det-itg	eng	how	det-itg
+	cym	faint mor	det-itg	eng	how	det-itg$det-itg-pl
+	cym	pa mor	det-itg	eng	how	det-itg$det-itg-pl
 	cym	pa fath o	det-itg	eng	what sort of	det-itg
 	cym	am faint	det-itg	eng	for how long	det-itg
 	cym	ers faint	det-itg	eng	since when	det-itg
@@ -43,7 +43,7 @@ RL	cym	yr	det$det-def	eng	this	det-dem$det$det-dem-sg
 	cym	rhywbeth	prn-tn-m-sg	eng	something	prn-tn-nt$prn$prn-tn-nt-sg$prn-tn
 	cym	rhywfaint	adv	eng	somewhat	adv
 	cym	rhywle	adv	eng	somewhere	adv
-	cym	y llall	prn	eng	the other	prn-dem-mf$prn
+	cym	y llall	prn	eng	the other	prn$prn-dem-mf
 	cym	pawb	prn	eng	everyone	prn$prn-ind-mf-sg$prn-ind$prn-ind-mf
 	cym	pa	prn$prn-itg	eng	which	prn-itg-m-sp$prn$prn-itg
 	cym	pwy	prn$prn-itg	eng	who	prn-itg-m-sp$prn-itg-m$prn-itg$prn
@@ -74,7 +74,7 @@ LR	cym	trwy	pr	eng	through	pr
 	cym	drwy	pr	eng	through	pr
 	cym	heb	pr	eng	without	pr
 	cym	yn	pr	eng	in	pr
-	cym	o	pr$pr-S1	eng	of	pr
+	cym	o	pr$pr-S1	eng	of	pr$
 LR	cym	o	pr$pr-S1	eng	from	pr
 	cym	o	postnum	eng		$num$num-ord$num-ord-m-sg
 	cym	rhwng	pr	eng	between	pr
@@ -1383,7 +1383,7 @@ LR	cym	cyfeiriad	n-m$n-m-S1	eng	direction	n$n-ND
 	cym	efydd	n-m	eng	bronze	n$n-ND
 	cym	eglurhad	n-m	eng	clarification	n
 	cym	eicon	n-m	eng	icon	n$n-sg
-	cym	eiliad	n-mf	eng	second	n$n-ND
+	cym	eiliad	n-mf	eng	second	n$n-sg
 	cym	eilrif	n-m	eng	even number	n
 	cym	eilrif	n-m	eng	even number	n
 	cym	eisteddfod	n-f	eng	Eisteddfod	n
@@ -1768,7 +1768,7 @@ LR	cym	cyfeiriad	n-m$n-m-S1	eng	direction	n$n-ND
 	cym	rhaniad	n-m	eng	division	n$n-sg
 	cym	rhediad	n-m	eng	declension	n
 	cym	rhediad	n-m	eng	conjugation	n
-	cym	rhediad	n-m	eng	run	n$n-ND
+	cym	rhediad	n-m	eng	run	n$n-sg
 	cym	rhedlefel	n-f	eng	runlevel	n
 	cym	rheithgor	n-m	eng	jury	n$n-ND
 	cym	rheng	n-f	eng	rank	n$n-ND
@@ -2312,7 +2312,7 @@ LR	cym	Gorffennaf	n-m	eng	July	n$n-sg
 	cym	gwyddoniaeth	n-f	eng	science	n$n-ND
 	cym	gymnasteg	n-f	eng	gymnastics	n$n-sg
 	cym	haearnach	n-m	eng	scrap iron	n
-	cym	halen	n-m	eng	salt	n$n-ND
+	cym	halen	n-m	eng	salt	n$n-sg
 	cym	hanes	n-m	eng	history	n$n-ND
 	cym	hanfod	n-m	eng	essence	n$n-ND
 	cym	hanfodion	n-m	eng	essentials	n
@@ -2790,7 +2790,7 @@ RL	cym	brest	n-f	eng	breast	n$n-ND
 	cym	bet	n-m	eng	bet	n$n-ND
 	cym	bib	n-m	eng	bleep	n
 	cym	bil	n-m	eng	bill	n$n-ND
-	cym	bin	n-m	eng	bin	n
+	cym	bin	n-m	eng	bin	n$
 	cym	bloc	n-m	eng	block	n$n-ND
 	cym	bol	n-m	eng	belly	n$n-sg
 	cym	bond	n-m	eng	bond	n$n-ND
@@ -2799,7 +2799,7 @@ RL	cym	brest	n-f	eng	breast	n$n-ND
 	cym	bryd	n-m	eng	mind	n$n-sg
 	cym	bryn	n-m	eng	hill	n$n-ND
 	cym	byrbryd	n-m	eng	snack	n$n-pl
-	cym	can	n-m	eng	can	n$n-ND
+	cym	can	n-m	eng	can	n$n-sg
 	cym	canllaw	n-mf	eng	guideline	n$n-ND
 	cym	canolbwynt	n-m	eng	focus	n$n-ND
 	cym	celc	n-m	eng	cache	n
@@ -2818,7 +2818,7 @@ RL	cym	brest	n-f	eng	breast	n$n-ND
 	cym	crynoddisg	n-m	eng	CD	n-acr$n$n-acr-sg
 	cym	cwart	n-m	eng	quart	n
 	cym	cyffin	n-m	eng	nearby area	n
-	cym	cyffur	n-mf	eng	drug	n$n-ND
+	cym	cyffur	n-mf	eng	drug	n$n-sg
 	cym	cynllun	n-m	eng	plan	n$n-ND
 	cym	cytgord	n-m	eng	harmony	n$n-sg
 	cym	darlun	n-m	eng	picture	n$n-ND
@@ -2841,7 +2841,7 @@ RL	cym	brest	n-f	eng	breast	n$n-ND
 	cym	electronfolt	n-m	eng	electronvolt	n
 	cym	esgid	n-f	eng	shoe	n$n-ND
 	cym	ewyllys	n-f	eng	will	n$n-ND
-	cym	fan	n-f	eng	van	n$n-ND
+	cym	fan	n-f	eng	van	n$$n-ND
 	cym	ffeil	n-f	eng	file	n$n-ND
 	cym	ffilm	n-f	eng	film	n$n-ND
 	cym	ffin	n-f	eng	border	n$n-ND
@@ -4686,9 +4686,9 @@ RL	cym	cryn	adj	eng	somewhat	adj
 	cym	crynoëdig	adj	eng	abridged	adj
 	cym	cudd	adj	eng	hidden	adj
 	cym	cuddiedig	adj	eng	hidden	adj
-	cym	cwbl	adj	eng	all	adj$
-	cym	i gyd	adj	eng	all	adj$
-	cym	cwbwl	adj	eng	all	adj$
+	cym	cwbl	adj	eng	all	adj
+	cym	i gyd	adj	eng	all	adj
+	cym	cwbwl	adj	eng	all	adj
 	cym	cŵl	adj	eng	cool	adj-sint$adj$adj-sint-sup
 	cym	cwsmer-benodol	adj	eng	customer-specific	adj
 	cym	cwta	adj	eng	short	adj-sint$adj
@@ -5223,7 +5223,7 @@ LR	cym	gwen	adj	eng	white	adj-sint$adj
 	cym	hirsgwar	adj	eng	oblong	adj
 RL	cym	hoff	adj	eng	preferred	adj
 	cym	hoff	adj	eng	favourite	adj
-	cym	holl	adj	eng	all	adj$
+	cym	holl	adj	eng	all	adj
 	cym	hollol	adj	eng	completely	adj
 	cym	hollt	adj	eng	forked	adj
 	cym	honedig	adj	eng	alleged	adj
@@ -5656,7 +5656,7 @@ RL	cym	tebygol	adj	eng	probable	adj
 	cym	trefnol	adj	eng	ordinal	adj
 	cym	trefol	adj	eng	urban	adj
 	cym	trethadwy	adj	eng	taxable	adj
-	cym	tri	adj	eng	three	adj
+	cym	tri	adj	eng	three	adj$adj-ord
 	cym	tri-dimensiwn	adj	eng	three-dimensional	adj
 	cym	trigain	adj	eng	sixty	adj
 	cym	trigeinfed	adj	eng	sixtieth	adj-ord$adj
@@ -9764,7 +9764,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Alan	np-ant	eng	Alan	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Alba	np-ant	eng	Alba	np-ant$np$np-ant-f-sg
 	cym	Albert	np-ant	eng	Albert	np$np-ant$np-ant-m$np-ant-m-sg
-	cym	Alexander	np-ant	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$
+	cym	Alexander	np-ant	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$
 	cym	Alun	np-ant	eng	Alun	np$np-ant
 	cym	Bethan	np-ant	eng	Bethan	np$np-ant
 	cym	Enric	np-ant	eng	Enric	np$np-ant$np-ant-m-sg$np-ant-m
@@ -9811,7 +9811,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Ruben	np-ant	eng	Ruben	np-ant$np-ant-m-sg$np
 	cym	Sandy	np-ant	eng	Sandy	np-ant$np-ant-f-sg$$np
 	cym	Ty	np-ant	eng	Ty	np-ant$np-ant-m-sg
-	cym	Abdul	np-ant	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg
+	cym	Abdul	np-ant	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m
 	cym	Archibald	np-ant	eng	Archibald	np-ant$np-ant-m-sg$$np$np-ant-m
 	cym	Carson	np-ant	eng	Carson	np-ant$np$$np-ant-m-sg
 	cym	Cormac	np-ant	eng	Cormac	np$np-ant
@@ -9876,7 +9876,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Ian	np-ant	eng	Ian	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Kayden	np-ant	eng	Kayden	np-ant$np$np-ant-m-sg
 	cym	Martin	np-ant	eng	Martin	np-ant$np$np-ant-m$np-ant-m-sg$
-	cym	Rio	np-ant	eng	Rio	np$np-ant
+	cym	Rio	np-ant	eng	Rio	np-ant
 	cym	Ali	np-ant	eng	Ali	np-ant$np$np-ant-m$np-ant-m-sg$
 	cym	Campbell	np-ant	eng	Campbell	np-ant
 	cym	Zac	np-ant	eng	Zac	np$np-ant$np-ant-m
@@ -9917,7 +9917,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	McKenzie	np-ant	eng	McKenzie	$np-ant
 	cym	Keir	np-ant	eng	Keir	np$np-ant
 	cym	Mohammad	np-ant	eng	Mohammad	np-ant$np-ant-m$np-ant-m-sg$np$
-	cym	Gabriel	np-ant	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg
+	cym	Gabriel	np-ant	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Ashton	np-ant	eng	Ashton	np-ant$np$$np-ant-m$np-ant-m-sg
 	cym	Dominic	np-ant	eng	Dominic	np-ant$np-ant-m-sg$np$np-ant-m
 	cym	Zack	np-ant	eng	Zack	np-ant$np$np-ant-m-sg
@@ -9943,7 +9943,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Mitchell	np-ant	eng	Mitchell	np-ant$np$np-ant-m$$np-ant-m-sg
 	cym	Muhammad	np-ant	eng	Muhammad	np-ant$np$np-ant-m$$np-ant-m-sg
 	cym	Alex	np-ant	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg
-	cym	Marc	np-ant	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg
+	cym	Marc	np-ant	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Oscar	np-ant	eng	Oscar	np-ant$np-ant-m-sg$np$np-ant-m
 	cym	Mohammed	np-ant	eng	Mohammed	np-ant$np$np-ant-m-sg$np-ant-m$
 	cym	Struan	np-ant	eng	Struan	np$np-ant
@@ -10031,7 +10031,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Sean	np-ant	eng	Sean	np-ant$np-ant-m$np-ant-m-sg$np
 	cym	Ethan	np-ant	eng	Ethan	np-ant$np$np-ant-m-sg
 	cym	Robbie	np-ant	eng	Robbie	np-ant$np-ant-m-sg
-	cym	William	np-ant	eng	William	np-ant$np$np-ant-m$np-ant-m-sg
+	cym	William	np-ant	eng	William	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Charlie	np-ant	eng	Charlie	np-ant$np$np-ant-m$np-ant-m-sg
 	cym	John	np-ant	eng	John	np$np-ant$np-ant-m$np-ant-m-sg$
 	cym	Michael	np-ant	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$
@@ -10046,7 +10046,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Nathan	np-ant	eng	Nathan	np-ant$np$$np-ant-m-sg
 	cym	Joshua	np-ant	eng	Joshua	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Finlay	np-ant	eng	Finlay	np-ant$$np$np-ant-m-sg
-	cym	Alexander	np-ant	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$
+	cym	Alexander	np-ant	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$
 	cym	Dylan	np-ant	eng	Dylan	np-ant$np-ant-m-sg$np
 	cym	Liam	np-ant	eng	Liam	np-ant$np$np-ant-m$np-ant-m-sg
 	cym	Thomas	np-ant	eng	Thomas	np-ant$np$np-ant-m-sg$np-ant-m$
@@ -10078,7 +10078,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Margaret	np-ant	eng	Margaret	np-ant$np$np-ant-f-sg$np-ant-f
 	cym	Amber	np-ant	eng	Amber	np-ant$np$np-ant-f-sg
 	cym	Mark	np-ant	eng	Mark	np-ant$np$np-ant-m$np-ant-m-sg
-	cym	Marc	np-ant	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg
+	cym	Marc	np-ant	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Àlex	np-ant	eng	Àlex	np-ant$np$np-ant-m-sg
 	cym	Alianore	np-ant	eng	Alianore	np-ant$np-ant-m-sg
 	cym	Alice	np-ant	eng	Alice	np-ant$np$np-ant-f-sg$np-ant-f
@@ -10100,7 +10100,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Ann	np-ant	eng	Ann	np-ant$np-ant-f-sg$np$np-ant-f
 	cym	Anthony	np-ant	eng	Anthony	np-ant$np$np-ant-m$np-ant-m-sg
 	cym	Antònia	np-ant	eng	Antònia	np-ant$np$np-ant-f-sg
-	cym	Antoni	np-ant	eng	Antoni	np$np-ant$np-ant-m-sg
+	cym	Antoni	np-ant	eng	Antoni	np$np-ant-m-sg$np-ant
 	cym	Antony	np-ant	eng	Antony	np-ant$np-ant-m-sg$np$np-ant-m
 	cym	Anys	np-ant	eng	Anys	np-ant
 	cym	Arantxa	np-ant	eng	Arantxa	np-ant$np-ant-f-sg
@@ -10121,7 +10121,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Batholomew	np-ant	eng	Batholomew	np-ant$np-ant-m-sg
 	cym	Beatrice	np-ant	eng	Beatrice	np-ant$np-ant-f-sg$np
 	cym	Beatrix	np-ant	eng	Beatrix	np$np-ant$np-ant-m
-	cym	Benedict	np-ant	eng	Benedict	np-ant$$np$np-ant-m$np-ant-m-sg
+	cym	Benedict	np-ant	eng	Benedict	np-ant-m-sg$np-ant$$np$np-ant-m
 	cym	Benet	np-ant	eng	Benet	np-ant$np$np-ant-m-sg
 	cym	Bennet	np-ant	eng	Bennet	$np-ant
 	cym	Bernard	np-ant	eng	Bernard	np-ant$np$np-ant-m$np-ant-m-sg$
@@ -10357,7 +10357,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Alice	np-ant	eng	Alice	np-ant$np$np-ant-f-sg$np-ant-f
 	cym	Anya	np-ant	eng	Anya	np-ant$np-ant-f-sg$np$np-ant-f
 	cym	Carys	np-ant	eng	Carys	np$np-ant
-	cym	Maria	np-ant	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg
+	cym	Maria	np-ant	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f
 	cym	Danielle	np-ant	eng	Danielle	np-ant$np-ant-f-sg$np
 	cym	Natalie	np-ant	eng	Natalie	np-ant$np-ant-f-sg$np
 	cym	Chelsea	np-ant	eng	Chelsea	np-ant$np$np-ant-f-sg
@@ -10487,11 +10487,11 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Folke	np-ant	eng	Folke	np-ant$np-ant-m-sg
 	cym	Francesca	np-ant	eng	Francesca	np-ant$np-ant-f-sg$np
 	cym	Francesc	np-ant	eng	Francesc	np$np-ant$np-ant-m-sg
-	cym	Francesc Xavier	np-ant	eng	Francesc Xavier	np-ant$np-ant-m-sg
+	cym	Francesc Xavier	np-ant	eng	Francesc Xavier	np-ant
 	cym	Frances	np-ant	eng	Frances	np-ant$np$np-ant-f-sg
 	cym	Francis	np-ant	eng	Francis	np-ant$np$np-ant-m$np-ant-m-sg$
 	cym	Gabriela	np-ant	eng	Gabriela	np-ant$np$np-ant-f-sg$np-ant-f
-	cym	Gabriel	np-ant	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg
+	cym	Gabriel	np-ant	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Gauwyn	np-ant	eng	Gauwyn	np-ant$np-ant-m-sg
 	cym	Geerardt	np-ant	eng	Geerardt	np-ant$np-ant-m-sg
 	cym	Gemma	np-ant	eng	Gemma	np-ant$np$np-ant-f-sg
@@ -10544,14 +10544,14 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Joan Antoni	np-ant	eng	Joan Antoni	np-ant$np-ant-m-sg
 	cym	Joan Josep	np-ant	eng	Joan Josep	np-ant$np-ant-m-sg
 	cym	Joan Manel	np-ant	eng	Joan Manel	np-ant$np-ant-m-sg
-	cym	Joan	np-ant	eng	Joan	np-ant$np$np-ant-m-sg
+	cym	Joan	np-ant	eng	Joan	np-ant$np-ant-m-sg$np
 	cym	Joel	np-ant	eng	Joel	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	John	np-ant	eng	John	np$np-ant$np-ant-m$np-ant-m-sg$
 	cym	Jon	np-ant	eng	Jon	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Jordi	np-ant	eng	Jordi	np-ant$np$np-ant-m-sg
 	cym	Jorge	np-ant	eng	Jorge	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Josep Antoni	np-ant	eng	Josep Antoni	np-ant$np-ant-m-sg
-	cym	Josep	np-ant	eng	Josep	np$np-ant$np-ant-m$np-ant-m-sg
+	cym	Josep	np-ant	eng	Josep	np-ant-m-sg$np$np-ant$np-ant-m
 	cym	Joyce	np-ant	eng	Joyce	np-ant$np$np-ant-f-sg$
 	cym	Judith	np-ant	eng	Judith	np-ant$np-ant-f-sg$np$np-ant-f
 	cym	Judit	np-ant	eng	Judit	np-ant$np-ant-f-sg
@@ -10566,7 +10566,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Ele	np-ant	eng	Ele	np-ant$np-ant-m-sg
 	cym	Eden	np-ant	eng	Eden	np-ant$np$np-ant-f-sg
 	cym	Eva	np-ant	eng	Eva	np-ant$np$np-ant-f-sg
-	cym	Jan	np-ant	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg
+	cym	Jan	np-ant	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Sofia	np-ant	eng	Sofia	np-ant$np$np-ant-f-sg
 	cym	Katherine	np-ant	eng	Katherine	np-ant$np$np-ant-f-sg
 	cym	Kath	np-ant	eng	Kath	np-ant$np$np-ant-f-sg
@@ -10582,7 +10582,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Llorenç	np-ant	eng	Llorenç	np-ant$np$np-ant-m-sg
 	cym	Llúcia	np-ant	eng	Llúcia	np-ant$np$np-ant-f-sg
 	cym	Lluc	np-ant	eng	Lluc	np-ant$np-ant-m-sg
-	cym	Lluís	np-ant	eng	Lluís	np$np-ant$np-ant-m-sg
+	cym	Lluís	np-ant	eng	Lluís	np$np-ant-m-sg$np-ant
 	cym	Lluna	np-ant	eng	Lluna	np-ant$np-ant-f-sg
 	cym	Lorena	np-ant	eng	Lorena	np-ant$np-ant-f-sg$np
 	cym	Lucas	np-ant	eng	Lucas	np-ant$np$$np-ant-m$np-ant-m-sg
@@ -10598,12 +10598,12 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Margarida	np-ant	eng	Margarida	np-ant$np$np-ant-f-sg
 	cym	Margery	np-ant	eng	Margery	np$np-ant$np-ant-f-sg
 	cym	Margry	np-ant	eng	Margry	$np-ant
-	cym	Maria Antònia	np-ant	eng	Maria Antònia	np-ant$np-ant-f-sg
-	cym	Maria del Carme	np-ant	eng	Maria del Carme	np-ant$np-ant-f-sg
-	cym	Maria del Mar	np-ant	eng	Maria del Mar	np-ant$np-ant-f-sg
-	cym	Maria Magdalena	np-ant	eng	Maria Magdalena	np-ant$np-ant-f-sg
+	cym	Maria Antònia	np-ant	eng	Maria Antònia	np-ant
+	cym	Maria del Carme	np-ant	eng	Maria del Carme	np-ant
+	cym	Maria del Mar	np-ant	eng	Maria del Mar	np-ant
+	cym	Maria Magdalena	np-ant	eng	Maria Magdalena	np-ant
 	cym	Marian	np-ant	eng	Marian	np-ant$np-ant-f-sg$np
-	cym	Maria	np-ant	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg
+	cym	Maria	np-ant	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f
 	cym	Marie	np-ant	eng	Marie	np-ant$np-ant-f-sg$np-ant-f$np
 	cym	Marina	np-ant	eng	Marina	np-ant$np-ant-f$np-ant-f-sg$np
 	cym	Mariona	np-ant	eng	Mariona	np-ant$np$np-ant-f-sg
@@ -10626,7 +10626,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Meic	np-ant	eng	Meic	np$np-ant
 	cym	Mildred	np-ant	eng	Mildred	np-ant$np-ant-f-sg
 	cym	Millicent	np-ant	eng	Millicent	np-ant$np-ant-f-sg
-	cym	Miquel Àngel	np-ant	eng	Miquel Àngel	np-ant$np-ant-m-sg
+	cym	Miquel Àngel	np-ant	eng	Miquel Àngel	np-ant
 	cym	Miquel	np-ant	eng	Miquel	np$np-ant$np-ant-m-sg
 	cym	Mireia	np-ant	eng	Mireia	np$np-ant$np-ant-f-sg
 	cym	Morys	np-ant	eng	Morys	$np-ant
@@ -10640,7 +10640,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Nicholas	np-ant	eng	Nicholas	np-ant$np-ant-m$np$np-ant-m-sg$
 	cym	Nichole	np-ant	eng	Nichole	np-ant$np$np-ant-f-sg
 	cym	Nichol	np-ant	eng	Nichol	$np-ant
-	cym	Nicolas	np-ant	eng	Nicolas	np-ant$np$np-ant-m$np-ant-m-sg
+	cym	Nicolas	np-ant	eng	Nicolas	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Nicolau	np-ant	eng	Nicolau	np$np-ant$np-ant-m-sg
 	cym	Nicole	np-ant	eng	Nicole	np-ant$np$np-ant-f-sg
 	cym	Noa	np-ant	eng	Noa	np-ant$np-ant-f-sg$np
@@ -10657,7 +10657,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Paula	np-ant	eng	Paula	np-ant$np$np-ant-f-sg$np-ant-f
 	cym	Pau	np-ant	eng	Pau	np$np-ant$np-ant-m-sg$np-ant-m
 	cym	Paul	np-ant	eng	Paul	np-ant$np$np-ant-m$np-ant-m-sg$
-	cym	Pere	np-ant	eng	Pere	np$np-ant$np-ant-m$np-ant-m-sg
+	cym	Pere	np-ant	eng	Pere	np$np-ant$np-ant-m-sg$np-ant-m
 	cym	Philippa	np-ant	eng	Philippa	np-ant$np-ant-f-sg
 	cym	Philippe	np-ant	eng	Philippe	np-ant$np-ant-m-sg$np$np-ant-m
 	cym	Philip	np-ant	eng	Philip	np-ant$np$np-ant-m-sg$np-ant-m$
@@ -10729,7 +10729,7 @@ RL	cym	prpers	prn-subj-p2-mf-sp	eng	prpers	prn-subj-p2-mf-pl
 	cym	Warin	np-ant	eng	Warin	np-ant
 	cym	Wenefride	np-ant	eng	Wenefride	np-ant$np-ant-f-sg
 	cym	Wilham	np-ant	eng	Wilham	np-ant$np-ant-m-sg
-	cym	William	np-ant	eng	William	np-ant$np$np-ant-m$np-ant-m-sg
+	cym	William	np-ant	eng	William	np-ant$np$np-ant-m-sg$np-ant-m
 	cym	Willmott	np-ant	eng	Willmott	$np-ant
 	cym	Winnifred	np-ant	eng	Winnifred	np-ant$np-ant-f-sg
 	cym	Xavier	np-ant	eng	Xavier	np-ant$np$np-ant-m-sg$
@@ -10908,7 +10908,7 @@ LR	cym	Pedr	np-ant	eng	Peter	np-ant$np$np-ant-m$np-ant-m-sg
 	cym	Lloegr	np-top$np-top-f	eng	England	np-top$np$np-top-sg$
 	cym	Latfia	np-top-f	eng	Latvia	np-top$np$np-top-sg
 	cym	Llydaw	np-top-f$np-top	eng	Brittany	np-top$np-top-sg
-	cym	gwlad Basg	np-top-f	eng	Basque Country	np-top$np-top-sg
+	cym	gwlad Basg	np-top-f	eng	Basque Country	np-top
 	cym	Iwerddon	np-top-f$np-top	eng	Ireland	np-top$np$np-top-f$
 	cym	Fietnam	np-top-f$np-top	eng	Vietnam	np-top$np-top-sg$np
 	cym	Blaenau Gwent	np-top-f	eng	Blaenau Gwent	np-top
@@ -10986,7 +10986,7 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Wrecsam	np-top-f	eng	Wrexham	np-top
 	cym	Niwbwrch	np-top-f	eng	Newborough	np-top
 	cym	Llwydle	np-top-f	eng	Ludlow	np-top$np-top-sg
-	cym	Ynys Wyth	np-top-f	eng	Isle of Wight	np$np-top$np-top-sg
+	cym	Ynys Wyth	np-top-f	eng	Isle of Wight	np$np-top
 	cym	Caerloyw	np-top$np-top-f	eng	Gloucester	np-top$np-top-sg
 	cym	Lerpwl	np-top-f$np-top	eng	Liverpool	np$np-top$np-top-sg
 	cym	Manchester	np-top-f	eng	Manceinion	np-top
@@ -11086,7 +11086,7 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Baghdad	np-top-f	eng	Baghdad	np-top$np-top-m$np
 	cym	Bahamas	np-top-f	eng	Bahamas	np-top-pl$np-top
 	cym	Bahrain	np-top-f	eng	Bahrain	np-top$np$np-top-sg
-	cym	Ynysoedd Balearig	np-top-f	eng	Balearic Islands	np-top$np-top-sg
+	cym	Ynysoedd Balearig	np-top-f	eng	Balearic Islands	np-top
 	cym	Balcanau	np-top-f	eng	Balkans	np-top$np$np-top-pl
 	cym	Bangkok	np-top-f	eng	Bangkok	np-top$np-top-sg
 	cym	Bangladesh	np-top-f	eng	Bangladesh	np-top$np-top-sg$np
@@ -11098,18 +11098,18 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Belize	np-top-f	eng	Belize	np-top$np-top-sg$np
 	cym	Benin	np-top-f	eng	Benin	np-top$np-top-sg
 	cym	Bhutan	np-top-f	eng	Bhutan	np-top$np-top-sg
-	cym	y Môr Du	np-top-f	eng	Black Sea	np$np-top$np-top-sg$np-top-nt-sg
+	cym	y Môr Du	np-top-f	eng	Black Sea	np$np-top
 	cym	Bogotá	np-top-f	eng	Bogota	np-top$np$np-top-sg
 	cym	Bolivia	np-top-f	eng	Bolivia	np-top$np$np-top-sg
-	cym	Bosna a Hercegovina	np-top-f	eng	Bosnia and Herzegovina	np-top$np-top-sg$np
+	cym	Bosna a Hercegovina	np-top-f	eng	Bosnia and Herzegovina	np-top$np$np-top-sg
 	cym	Botswana	np-top-f	eng	Botswana	np-top$np-top-sg$np
 	cym	Brasília	np-top-f	eng	Brasilia	np-top$np-top-sg
 	cym	Brasil	np-top-f	eng	Brazil	np-top$np$np-top-sg
 	cym	Bridgetown	np-top-f	eng	Bridgetown	np-top$np-top-sg
-	cym	Ynysoedd Prydain	np-top-f	eng	British Isles	np-top$np$np-top-sg
+	cym	Ynysoedd Prydain	np-top-f	eng	British Isles	np-top$np
 	cym	Brunei	np-top-f	eng	Brunei Darussalam	np-top
 	cym	Brwsel	np-top-f	eng	Brussels	np-top$np$np-top-sg
-	cym	Buenos Aires	np-top-f	eng	Buenos Aires	np-top$np-top-sg
+	cym	Buenos Aires	np-top-f	eng	Buenos Aires	np-top$np-top-m
 	cym	Bwlgaria	np-top-f	eng	Bulgaria	np-top$np$np-top-f
 	cym	Burkina Faso	np-top-f	eng	Burkina Faso	np-top$np-top-sg
 	cym	Myanmar	np-top-f	eng	Burma	np-top$np$np-top-sg
@@ -11119,30 +11119,30 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Cambodia	np-top-f	eng	Cambodia	np-top$np-top-sg$np
 	cym	Camerŵn	np-top-f	eng	Cameroon	np-top$np$np-top-sg
 	cym	Canada	np-top-f$np-top	eng	Canada	np-top$np$np-top-sg
-	cym	yr Ynysoedd Dedwydd	np-top-f	eng	Canary Islands	np-top$np-top-pl$np
+	cym	yr Ynysoedd Dedwydd	np-top-f	eng	Canary Islands	np-top$np$np-top-pl
 	cym	Canberra	np-top-f	eng	Canberra	np-top-sg$np-top
 	cym	Cantabria	np-top-f	eng	Cantabria	np-top$np-top-sg
-	cym	Cabo Verde	np-top-f	eng	Cape Verde	np-top$np$np-top-sg
-	cym	Castilla y León	np-top-f	eng	Castile and Leon	np-top$np-top-sg
-	cym	Castillia-La Mancha	np-top-f	eng	Castile-La Mancha	np-top$np-top-sg
+	cym	Cabo Verde	np-top-f	eng	Cape Verde	np-top$np
+	cym	Castilla y León	np-top-f	eng	Castile and Leon	np-top
+	cym	Castillia-La Mancha	np-top-f	eng	Castile-La Mancha	np-top
 	cym	Catalonia	np-top-f$np-top	eng	Catalonia	np-top$np-top-sg
 	cym	Gweriniaeth Canolbarth Affrica	np-top-f	eng	Central African Republic	np-top$np$np-top-sg
 	cym	Gweriniaeth Iwerddon	np-top-f	eng	Republic of Ireland	np-top
 	cym	Ceuta	np-top-f	eng	Ceuta	np-top$np-top-sg
 	cym	Sri Lanka	np-top-f	eng	Ceylon	np-top$np-top-sg
 	cym	Tchad	np-top-f	eng	Chad	np-top$np-top-sg$np
-	cym	Ynysoedd y Sianel	np-top-f	eng	Channel Islands	np-top$np-top-sg
+	cym	Ynysoedd y Sianel	np-top-f	eng	Channel Islands	np-top
 	cym	Chile	np-top-f	eng	Chile	np-top$np$np-top-sg
 	cym	Cwlen	np-top-f	eng	Cologne	np-top$np$np-top-sg
 	cym	Colombia	np-top-f	eng	Colombia	np-top$np$np-top-sg
 	cym	Colombo	np-top-f	eng	Colombo	np-top-sg$np-top
-	cym	Ynysoedd Cook	np-top-f	eng	Cook Islands	np-top$np-top-sg
+	cym	Ynysoedd Cook	np-top-f	eng	Cook Islands	np-top$np-top-pl
 	cym	Creta	np-top-f	eng	Crete	np-top$np-top-sg$np
 	cym	Croatia	np-top-f	eng	Croatia	np-top$np$np-top-f
 	cym	Cuba	np-top-f	eng	Cuba	np-top$np$np-top-sg
 	cym	Cyprus	np-top-f	eng	Cyprus	np-top$np$np-top-sg
 	cym	Tsiecoslofacia	np-top-f	eng	Czechoslovakia	np-top$np$np-top-sg
-	cym	Gweriniaeth Tsiec	np-top-f	eng	Czech Republic	np-top$np$np-top-sg
+	cym	Gweriniaeth Tsiec	np-top-f	eng	Czech Republic	np-top$np$np-top-f
 	cym	Damascus	np-top-f	eng	Damascus	np-top-sg$np-top
 	cym	Denmarc	np-top-f	eng	Denmark	np-top$np$np-top-sg
 	cym	Sgandinafia	np-top-f	eng	Scandinavia	np-top$np-top-sg
@@ -11157,18 +11157,18 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Undeb Ewropeaidd	np-top-f	eng	European Union	np-top$np$np-top-sg
 	cym	Ewrop	np-top-f$np-top	eng	Europe	np$np-top$np-top-sg
 	cym	Extremadura	np-top-f	eng	Extremadura	np-top$np-top-sg
-	cym	Ynysoedd y Falklands	np-top-f	eng	Falkland Islands	np-top$np-top-pl
+	cym	Ynysoedd y Falklands	np-top-f	eng	Falkland Islands	np-top
 	cym	Fiji	np-top-f	eng	Fiji	np-top$np-top-sg$np
 	cym	Frankfurt am Main	np-top-f	eng	Frankfurt	np-top$np-top-sg
 	cym	Gabon	np-top-f	eng	Gabon	np-top$np-top-sg$np
-	cym	Ynysoedd y Galapagos	np-top-f	eng	Galapagos Islands	np$np-top$np-top-sg
+	cym	Ynysoedd y Galapagos	np-top-f	eng	Galapagos Islands	np$np-top
 	cym	y Gambia	np-top-f	eng	Gambia	np-top$np-top-sg$np
 	cym	yr Almaen	np-top-f$np-top	eng	Germany	np-top$np$np-top-sg
 	cym	Ghana	np-top-f	eng	Ghana	np-top$np$np-top-sg
 	cym	Gibraltar	np-top-f	eng	Gibraltar	np-top$np-top-sg$np
 	cym	Prydain Fawr	np-top$np-top-f	eng	Great Britain	np-top$np$np-top-sg
 	cym	Gwlad Groeg	np-top-f$np-top	eng	Greece	np-top$np$np-top-sg
-	cym	Grønland	np-top-f	eng	Greenland	np-top$np$np-top-sg
+	cym	Grønland	np-top-f	eng	Greenland	np-top$np$np-top-sg$np-top-nt-sg
 	cym	Grenada	np-top-f	eng	Grenada	np-top$np$np-top-sg
 	cym	Guatemala	np-top-f	eng	Guatemala	np-top$np-top-sg$np
 	cym	Guiné-Bissau	np-top-f	eng	Guinea-Bissau	np-top-sg$np-top
@@ -11182,14 +11182,14 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Hwngari	np-top-f	eng	Hungary	np-top$np$np-top-sg
 	cym	Gwlad yr Iâ	np-top-f	eng	Iceland	np-top$np$np-top-sg
 	cym	Indiana	np-top-f	eng	Indiana	np-top$np-top-sg
-	cym	Cefnfor India	np-top-f	eng	Indian Ocean	np-top-sg$np-top
+	cym	Cefnfor India	np-top-f	eng	Indian Ocean	np-top
 	cym	Indonesia	np-top-f	eng	Indonesia	np-top$np$np-top-sg
 	cym	Iran	np-top-f	eng	Iran	np-top$np$np-top-m
 	cym	Irac	np-top-f	eng	Iraq	np-top$np$np-top-m
 	cym	Islamabad	np-top-f	eng	Islamabad	np-top$np-top-sg$np
 	cym	Israel	np-top-f$np-top	eng	Israel	np-top$np$np-top-sg
 	cym	yr Eidal	np-top-f$np-top	eng	Italy	np-top$np$np-top-sg
-	cym	Côte d'Ivoire	np-top-f	eng	Ivory Coast	np-top$np-top-sg
+	cym	Côte d'Ivoire	np-top-f	eng	Ivory Coast	np-top
 	cym	Jakarta	np-top-f	eng	Jakarta	np-top$np-top-sg$np
 	cym	Jamaica	np-top-f	eng	Jamaica	np-top$np$np-top-sg
 	cym	Jersey	np-top-f	eng	Jersey	np-top$np-top-sg$np
@@ -11205,7 +11205,7 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Kuwait	np-top-f	eng	Kuwait	np-top$np-top-sg
 	cym	Kyrgyzstan	np-top-f	eng	Kyrgyzstan	np-top$np$np-top-sg
 	cym	Laos	np-top-f	eng	Laos	np-top$np$np-top-sg
-	cym	America Ladin	np-top-f	eng	Latin America	np-top$np-top-sg
+	cym	America Ladin	np-top-f	eng	Latin America	np-top
 	cym	Latfia	np-top-f	eng	Latvia	np-top$np$np-top-sg
 	cym	Lausanne	np-top-f	eng	Lausanne	np-top-sg$np-top
 	cym	Libanus	np-top-f	eng	Lebanon	np-top$np$np-top-sg
@@ -11225,11 +11225,11 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Maldives	np-top-f	eng	Maldives	np-top$np-top-sg$np
 	cym	Malta	np-top-f	eng	Malta	np-top$np$np-top-sg
 	cym	Marseille	np-top-f	eng	Marseilles	np-top$np-top-sg
-	cym	Ynysoedd Marshall	np-top-f	eng	Marshall Islands	np-top$np-top-pl$np
+	cym	Ynysoedd Marshall	np-top-f	eng	Marshall Islands	np-top$np$np-top-pl
 	cym	Mauritania	np-top-f	eng	Mauritania	np-top$np-top-sg$np
 	cym	Mauritius	np-top-f	eng	Mauritius	np-top$np-top-sg$np
 	cym	México	np-top-f	eng	Mexico	np-top$np$np-top-sg
-	cym	y Dwyrain Canol	np-top-f	eng	Middle East	np-top$np-top-sg
+	cym	y Dwyrain Canol	np-top-f	eng	Middle East	np-top
 	cym	Milan	np-top-f	eng	Milan	np-top$np-top-sg
 	cym	Missouri	np-top-f	eng	Missouri	np$np-top$np-top-sg
 	cym	Moldofa	np-top-f	eng	Moldova	np-top$np$np-top-f
@@ -11245,10 +11245,10 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Navarra	np-top-f	eng	Navarra	np-top$np-top-sg
 	cym	Nepal	np-top-f	eng	Nepal	np-top$np-top-sg$np
 	cym	Iseldiroedd	np-top-f	eng	Netherlands	np$np-top$np-top-sg
-	cym	Caledonia Newydd	np-top-f	eng	New Caledonia	np-top$np$np-top-sg
-	cym	Delhi Newydd	np-top-f	eng	New Delhi	np$np-top$np-top-sg
+	cym	Caledonia Newydd	np-top-f	eng	New Caledonia	np-top$np
+	cym	Delhi Newydd	np-top-f	eng	New Delhi	np$np-top
 	cym	Newfoundland	np-top-f	eng	Newfoundland	np-top$np-top-sg$np
-	cym	New Jersey	np-top-f	eng	New Jersey	np-top$np-top-sg
+	cym	New Jersey	np-top-f	eng	New Jersey	np-top
 	cym	Efrog Newydd 	np-top-f	eng	New York	np$np-top$np-top-m
 	cym	Seland Newydd	np-top-f	eng	New Zealand	np-top$np$np-top-sg
 	cym	Nicaragua	np-top-f	eng	Nicaragua	np-top$np-top-sg$np
@@ -11257,26 +11257,26 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Afon Nîl	np-top-f	eng	Nile	np-top$np-top-sg$np
 	cym	Afon Cefni	np-top-f	eng	Afon Cefni	np-top
 	cym	Gogledd Affrica	np-top-f	eng	North Africa	np$np-top
-	cym	Gogledd America	np-top-f	eng	North America	np-top$np$np-top-sg
-	cym	Gogledd Iwerddon	np-top-f	eng	Northern Ireland	np$np-top$np-top-sg
-	cym	Pegwn y Gogledd	np-top-f	eng	North Pole	np$np-top$np-top-sg$np-top-m-sg
+	cym	Gogledd America	np-top-f	eng	North America	np-top$np
+	cym	Gogledd Iwerddon	np-top-f	eng	Northern Ireland	np$np-top
+	cym	Pegwn y Gogledd	np-top-f	eng	North Pole	np$np-top
 	cym	Norwy	np-top-f	eng	Norway	np-top$np$np-top-sg
 	cym	Oceania	np-top-f	eng	Oceania	np-top$np$np-top-sg
 	cym	Ohio	np-top-f	eng	Ohio	np-top$np-top-sg
 	cym	Oman	np-top-f	eng	Oman	np-top$np-top-sg
 	cym	Oregon	np-top-f	eng	Oregon	np-top$np-top-sg$np
-	cym	Oslo	np-top-f	eng	Oslo	np-top-sg$np-top
+	cym	Oslo	np-top-f	eng	Oslo	np-top-sg$np-top$np-top-m-sg
 	cym	Ottawa	np-top-f	eng	Ottawa	np-top$np-top-sg$$np
 	cym	Rhydychen	np-top-f$np-top	eng	Oxford	np-top$np-top-sg$np
 	cym	y Cefnfor Tawel	np-top-f	eng	Pacific	np$np-top$np-top-sg
 	cym	Pakistan	np-top-f	eng	Pakistan	np-top$np$np-top-m
 	cym	Palesteina	np-top-f	eng	Palestine	np-top$np-top-sg$np
-	cym	Panama	np-top-f	eng	Panama	np-top$np$np-top-sg
+	cym	Panama	np-top-f	eng	Panama	np-top$np$np-top-sg$np-top-m-sg
 	cym	Papua Guinea Newydd	np-top-f	eng	Papua New Guinea	np-top$np$np-top-sg
 	cym	Paraguay	np-top-f	eng	Paraguay	np-top$np-top-sg$np
 	cym	Beijing	np-top-f	eng	Peking	np-top$np-top-sg
 	cym	Pennsylvania	np-top-f	eng	Pennsylvania	np$np-top$np-top-sg
-	cym	Gwlff Persia	np-top-f	eng	Persian Gulf	np-top$np-top-sg$np-top-f-sg
+	cym	Gwlff Persia	np-top-f	eng	Persian Gulf	np-top
 	cym	Ymerodraeth Persia	np-top-f	eng	Persia	np-top$np$np-top-sg
 	cym	Periw	np-top-f	eng	Peru	np-top$np-top-sg$np
 	cym	Pilipinas	np-top-f	eng	Philippines	np-top$np$np-top-sg
@@ -11294,7 +11294,7 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Rwanda	np-top-f	eng	Rwanda	np-top$np$np-top-sg
 	cym	Sahara	np-top-f	eng	Sahara	np-top$np-top-sg$np
 	cym	Samoa	np-top-f	eng	Samoa	np-top$np-top-sg$np
-	cym	San Marino	np-top-f	eng	San Marino	np-top$np-top-sg$np
+	cym	San Marino	np-top-f	eng	San Marino	np-top$np$np-top-sg
 	cym	Saudi Arabia	np-top-f	eng	Saudi Arabia	np$np-top$np-top-sg
 	cym	Yr Alban	np-top-f$np-top	eng	Scotland	np-top$np$np-top-sg
 	cym	Nant Gwrtheyrn	np-top-f	eng	Nant Gwrtheyrn	np-top
@@ -11316,8 +11316,8 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Sofia	np-top-f	eng	Sofia	np-top$np-top-sg
 	cym	Somalia	np-top-f	eng	Somalia	np-top$np$np-top-sg
 	cym	De Affrica	np-top-f	eng	South Africa	np-top$np$np-top-sg
-	cym	De America	np-top-f	eng	South America	np$np-top$np-top-sg
-	cym	Pegwn y De	np-top-f	eng	South Pole	np$np-top$np-top-m-sg$np-top-sg
+	cym	De America	np-top-f	eng	South America	np$np-top
+	cym	Pegwn y De	np-top-f	eng	South Pole	np$np-top
 	cym	Undeb Sofietaidd	np-top-f	eng	Soviet Union	np$np-top$np-top-sg
 	cym	Sbaen	np-top$np-top-f	eng	Spain	np-top$np$np-top-sg
 	cym	Stockholm	np-top-f	eng	Stockholm	np-top$np$np-top-sg
@@ -11332,7 +11332,7 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Tajikistan	np-top-f	eng	Tajikistan	np-top$np$np-top-sg
 	cym	Tanzania	np-top-f	eng	Tanzania	np-top$np$np-top-sg
 	cym	Texas	np-top-f	eng	Texas	np$np-top$np-top-sg
-	cym	y Gambia	np-top-f	eng	The Gambia	np-top$np-top-sg
+	cym	y Gambia	np-top-f	eng	The Gambia	np-top
 	cym	yr Iseldiroedd	np-top-f	eng	The Netherlands	np-top
 	cym	Togo	np-top-f	eng	Togo	np-top$np-top-sg
 	cym	Tokyo	np-top-f	eng	Tokyo	np-top$np$np-top-sg
@@ -11344,7 +11344,7 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Turkmenistan	np-top-f	eng	Turkmenistan	np-top$np-top-sg$np
 	cym	Wganda	np-top-f	eng	Uganda	np-top$np-top-sg$np
 	cym	Wcráin	np-top-f	eng	Ukraine	np-top$np$np-top-sg
-	cym	yr Emiradau Arabaidd Unedig	np-top-f	eng	United Arab Emirates	np-top$np-top-pl
+	cym	yr Emiradau Arabaidd Unedig	np-top-f	eng	United Arab Emirates	np-top$np-top-sg
 	cym	y Deyrnas Unedig	np-top-f	eng	United Kingdom	np-top$np-top-f$np
 	cym	Unol Daleithiau America	np-top-f	eng	United States of America	np$np-top$np-top-pl
 	cym	Wranws 	np-top-f	eng	Uranus	np-top$np$np-top-sg
@@ -11352,7 +11352,7 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Uzbekistan	np-top-f	eng	Uzbekistan	np-top$np-top-sg$np
 	cym	Venezuela	np-top-f	eng	Venezuela	np-top$np$np-top-sg
 	cym	Gwener	np-top-f	eng	Venus	np-top$np-top-sg
-	cym	Victoria	np-top-f	eng	Victoria	np-top$np-top-f
+	cym	Victoria	np-top-f	eng	Victoria	np-top$np-top-sg
 	cym	Wien	np-top-f	eng	Vienna	np-top$np$np-top-sg
 	cym	Fiet Nam	np-top-f	eng	Vietnam	np-top$np-top-sg$np
 	cym	Cymru	np-top$np-top-f	eng	Wales	np-top$np$np-top-sg
@@ -11367,7 +11367,7 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Antigua a Barbuda	np-top-f	eng	Antigua and Barbuda	np-top$np$np-top-sg
 	cym	Antigwa a Barbiwda	np-top-f	eng	Antigua and Barbuda	np-top$np$np-top-sg
 	cym	Antigwa a Barbuda	np-top-f	eng	Antigua and Barbuda	np-top$np$np-top-sg
-	cym	yr Arfordir Ifori	np-top-f	eng	Côte d'Ivoire	np-top$np-top-m-sg
+	cym	yr Arfordir Ifori	np-top-f	eng	Côte d'Ivoire	np-top
 	cym	Aserbaijan	np-top-f	eng	Azerbaijan	np-top$np-top-sg$np
 	cym	Bahrein	np-top-f	eng	Bahrain	np-top$np$np-top-sg
 	cym	Belarus	np-top-f	eng	Belarus	np-top$np$np-top-sg
@@ -11378,8 +11378,8 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Bermiwda	np-top-f	eng	Bermuda	np-top-sg$np-top
 	cym	Bhwtan	np-top-f	eng	Bhutan	np-top$np-top-sg
 	cym	Bolifia	np-top-f	eng	Bolivia	np-top$np$np-top-sg
-	cym	Bosnia	np-top-f	eng	Bosnia and Herzegovina	np-top$np-top-sg$np
-	cym	Bosnia a Hertsegofina	np-top-f	eng	Bosnia and Herzegovina	np-top$np-top-sg$np
+	cym	Bosnia	np-top-f	eng	Bosnia and Herzegovina	np-top$np$np-top-sg
+	cym	Bosnia a Hertsegofina	np-top-f	eng	Bosnia and Herzegovina	np-top$np$np-top-sg
 	cym	Brwnei	np-top-f	eng	Brunei	np-top$np-top-sg$np
 	cym	Burkina	np-top-f	eng	Burkina Faso	np-top$np-top-sg
 	cym	Burma	np-top-f	eng	Burma	np-top$np$np-top-sg
@@ -11399,7 +11399,7 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Ciwba	np-top-f	eng	Cuba	np-top$np$np-top-sg
 	cym	Comoros	np-top-f	eng	Comoros	np-top$np-top-sg$np
 	cym	Congo	np-top-f	eng	Congo	np-top$np$np-top-sg
-	cym	Costa Rica	np-top-f	eng	Costa Rica	np-top$np-top-sg$np
+	cym	Costa Rica	np-top-f	eng	Costa Rica	np-top$np$np-top-sg
 	cym	Coweit	np-top-f	eng	Kuwait	np-top$np-top-sg
 	cym	Croasia	np-top-f	eng	Croatia	np-top$np$np-top-f
 	cym	Cyrgystan	np-top-f	eng	Kyrgyzstan	np-top$np$np-top-sg
@@ -11409,21 +11409,21 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	De'r Affrig	np-top-f	eng	South Africa	np-top$np$np-top-sg
 	cym	y Deyrnas Gyfunol	np-top-f	eng	United Kingdom	np-top$np-top-f$np
 	cym	y Deyrnas Gyfun	np-top-f	eng	United Kingdom	np-top$np-top-f$np
-	cym	Dinas y Fatican	np-top-f	eng	Vatican City	np-top$np-top-m$np$np-top-m-sg
-	cym	Dwyrain Timor	np-top-f	eng	East Timor	np-top$np-top-sg$np
+	cym	Dinas y Fatican	np-top-f	eng	Vatican City	np-top$np-top-m$np
+	cym	Dwyrain Timor	np-top-f	eng	East Timor	np-top$np$np-top-sg
 	cym	Ecwador	np-top-f	eng	Ecuador	np-top$np-top-sg$np
 	cym	El Salfador	np-top-f	eng	El Salvador	np-top$np-top-sg
 	cym	El Salvador	np-top-f	eng	El Salvador	np-top$np-top-sg
-	cym	Emiradau Arabaidd Unedig	np-top-f	eng	United Arab Emirates	np-top$np-top-pl
-	cym	Emiriaethau Arabaidd Unedig	np-top-f	eng	United Arab Emirates	np-top$np-top-pl
+	cym	Emiradau Arabaidd Unedig	np-top-f	eng	United Arab Emirates	np-top$np-top-sg
+	cym	Emiriaethau Arabaidd Unedig	np-top-f	eng	United Arab Emirates	np-top$np-top-sg
 	cym	Fanwatw	np-top-f	eng	Vanuatu	np-top$np-top-sg
-	cym	y Fatican	np-top-f	eng	Vatican City	np-top$np-top-m$np$np-top-m-sg
+	cym	y Fatican	np-top-f	eng	Vatican City	np-top$np-top-m$np
 	cym	Feneswela	np-top-f	eng	Venezuela	np-top$np$np-top-sg
 	cym	Ffederasiwn Rwsia	np-top-f	eng	Russia	np-top$np$np-top-sg
 	cym	Ffederasiwn Rwsia	np-top-f	eng	Russia	np-top$np$np-top-sg
 	cym	Ffiji	np-top-f	eng	Fiji	np-top$np-top-sg$np
 	cym	Gaiana	np-top-f	eng	Guyana	np-top$np-top-sg$np
-	cym	Gambia	np-top-f	eng	The Gambia	np-top$np-top-sg
+	cym	Gambia	np-top-f	eng	The Gambia	np-top
 	cym	Giana	np-top-f	eng	Guyana	np-top$np-top-sg$np
 	cym	Gini	np-top-f	eng	Guinea	np-top$np$np-top-sg
 	cym	Gini Gyhydeddol	np-top-f	eng	Equatorial Guinea	np-top$np$np-top-sg
@@ -11440,7 +11440,7 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Gweriniaeth De Affrica	np-top-f	eng	South Africa	np-top$np$np-top-sg
 	cym	Gweriniaeth Dominica	np-top-f	eng	Dominican Republic	np-top$np$np-top-sg
 	cym	Gweriniaeth Korea	np-top-f	eng	South Korea	np-top$np$np-top-sg
-	cym	Gweriniaeth y Tsieciaid	np-top-f	eng	Czech Republic	np-top$np$np-top-sg
+	cym	Gweriniaeth y Tsieciaid	np-top-f	eng	Czech Republic	np-top$np$np-top-f
 	cym	Gwlad yr Iorddonen	np-top-f	eng	Jordan	np-top$np$np-top-sg$
 	cym	Gwlad y Swasi	np-top-f	eng	Swaziland	np-top$np-top-sg$np
 	cym	Gwlad y Swazi	np-top-f	eng	Swaziland	np-top$np-top-sg$np
@@ -11491,14 +11491,14 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Pacistan	np-top-f	eng	Pakistan	np-top$np$np-top-m
 	cym	Palau	np-top-f	eng	Palau	np-top$np-top-sg$np
 	cym	Palaw	np-top-f	eng	Palau	np-top$np-top-sg$np
-	cym	Panamá	np-top-f	eng	Panama	np-top$np$np-top-sg
-	cym	Panamâ	np-top-f	eng	Panama	np-top$np$np-top-sg
+	cym	Panamá	np-top-f	eng	Panama	np-top$np$np-top-sg$np-top-m-sg
+	cym	Panamâ	np-top-f	eng	Panama	np-top$np$np-top-sg$np-top-m-sg
 	cym	Papiwa Gini Newydd	np-top-f	eng	Papua New Guinea	np-top$np$np-top-sg
 	cym	Papwa Gini Newydd	np-top-f	eng	Papua New Guinea	np-top$np$np-top-sg
 	cym	Paragwâi	np-top-f	eng	Paraguay	np-top$np-top-sg$np
 	cym	Peru	np-top-f	eng	Peru	np-top$np-top-sg$np
 	cym	Perw	np-top-f	eng	Peru	np-top$np-top-sg$np
-	cym	Pwerto Rico	np-top-f	eng	Puerto Rico	np-top$np-top-sg
+	cym	Pwerto Rico	np-top-f	eng	Puerto Rico	np-top
 	cym	Pwyl	np-top-f	eng	Poland	np-top$np$np-top-sg
 	cym	Pwyldir	np-top-f	eng	Poland	np-top$np$np-top-sg
 	cym	Romania	np-top-f	eng	Romania	np-top$np$np-top-f
@@ -11506,14 +11506,14 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Sambia	np-top-f	eng	Zambia	np-top$np$np-top-sg
 	cym	Sant Kitts a Nevis	np-top-f	eng	Saint Kitts and Nevis	np-top$np-top-sg
 	cym	Sant Lwsia	np-top-f	eng	Saint Lucia	np-top$np-top-sg
-	cym	São Tomé a Príncipe	np-top-f	eng	São Tomé and Príncipe	np-top$np-top-sg
+	cym	São Tomé a Príncipe	np-top-f	eng	São Tomé and Príncipe	np-top
 	cym	Senegal	np-top-f	eng	Senegal	np-top$np-top-sg$np
 	cym	Simbabwe	np-top-f	eng	Zimbabwe	np-top$np$np-top-sg
 	cym	Singapôr	np-top-f	eng	Singapore	np-top$np-top-sg$np
 	cym	Siorja	np-top-f	eng	Georgia	np-top$np$np-top-sg
 	cym	Siorsia	np-top-f	eng	Georgia	np-top$np$np-top-sg
 	cym	Slovenija	np-top-f	eng	Slovenia	np-top$np$np-top-f
-	cym	Sri Lanca	np-top-f	eng	Sri Lanka	np-top$np-top-sg$np
+	cym	Sri Lanca	np-top-f	eng	Sri Lanka	np-top$np$np-top-f
 	cym	St Lucia	np-top-f	eng	Saint Lucia	np-top$np-top-sg
 	cym	St Vincent a'r Grenadines	np-top-f	eng	Saint Vincent and the Grenadines	np-top$np-top-sg
 	cym	Sudan	np-top-f	eng	Sudan	np-top$np-top-sg$np
@@ -11529,7 +11529,7 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Tansanîa	np-top-f	eng	Tanzania	np-top$np$np-top-sg
 	cym	Tansanïa	np-top-f	eng	Tanzania	np-top$np$np-top-sg
 	cym	Tiwnisia	np-top-f	eng	Tunisia	np-top$np$np-top-sg
-	cym	y Traeth Ifori	np-top-f	eng	Côte d'Ivoire	np-top$np-top-m-sg
+	cym	y Traeth Ifori	np-top-f	eng	Côte d'Ivoire	np-top
 	cym	Trinidad a Thobago	np-top-f	eng	Trinidad and Tobago	np-top$np-top-sg
 	cym	Trinidad a Tobago	np-top-f	eng	Trinidad and Tobago	np-top$np-top-sg
 	cym	Tsiad	np-top-f	eng	Chad	np-top$np-top-sg$np
@@ -11547,16 +11547,16 @@ LR	cym	Pen-y-bont ar Ogwr	np-top-f	eng	Bridgend	np-top
 	cym	Wcrain	np-top-f	eng	Ukraine	np-top$np$np-top-sg
 	cym	y Weriniaeth Ddominicaidd	np-top-f	eng	Dominican Republic	np-top$np$np-top-sg
 	cym	y Weriniaeth Slofacaidd	np-top-f	eng	Slovakia	np-top$np$np-top-f
-	cym	y Weriniaeth Tsiecaidd	np-top-f	eng	Czech Republic	np-top$np$np-top-sg
-	cym	y Weriniaeth Tsiec	np-top-f	eng	Czech Republic	np-top$np$np-top-sg
+	cym	y Weriniaeth Tsiecaidd	np-top-f	eng	Czech Republic	np-top$np$np-top-f
+	cym	y Weriniaeth Tsiec	np-top-f	eng	Czech Republic	np-top$np$np-top-f
 	cym	Wrwgwái	np-top-f	eng	Uruguay	np-top$np$np-top-sg
 	cym	Wsbecistan	np-top-f	eng	Uzbekistan	np-top$np-top-sg$np
 	cym	y Bahamas	np-top-f	eng	The Bahamas	np-top
 	cym	Ynysoedd Bahama	np-top-f	eng	The Bahamas	np-top
-	cym	Ynysoedd Caiman	np-top-f	eng	Cayman Islands	np-top$np-top-pl$np
-	cym	Ynysoedd Ffarö	np-top-f	eng	Faroe Islands	np-top$np$np-top-pl
-	cym	Ynysoedd Penrhyn Verde	np-top-f	eng	Cape Verde	np-top$np$np-top-sg
-	cym	Ynysoedd Solomon	np-top-f	eng	Solomon Islands	np-top$np-top-pl$np
+	cym	Ynysoedd Caiman	np-top-f	eng	Cayman Islands	np-top$np
+	cym	Ynysoedd Ffarö	np-top-f	eng	Faroe Islands	np-top$np
+	cym	Ynysoedd Penrhyn Verde	np-top-f	eng	Cape Verde	np-top$np
+	cym	Ynysoedd Solomon	np-top-f	eng	Solomon Islands	np-top$np
 	cym	Ynysoedd y Bahamas	np-top-f	eng	The Bahamas	np-top
 	cym	Ynysoedd y Maldives	np-top-f	eng	Maldives	np-top$np-top-sg$np
 	cym	Ynysoedd y Philipinau	np-top-f	eng	Philippines	np-top$np$np-top-sg

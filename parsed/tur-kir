@@ -116,10 +116,10 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	siz	prn-pers$prn-pers-p2-pl	kir	силер	prn-pers-p2-pl$prn-pers
 	tur	onlar	prn-pers$prn-pers-p3-pl	kir	алар	prn-pers-p3-pl$prn-pers
 	tur	o	prn-dem$prn-dem-loc	kir	ал	prn-dem
-	tur	bu	prn-dem$prn-dem-abl$prn	kir	бул	prn-dem
+	tur	bu	prn-dem$prn	kir	бул	prn-dem
 	tur	kendi	prn-ref$prn$$prn-ref-px3sp	kir	өз	prn-ref
 	tur	birbir	$n	kir	бири-бир	n
-	tur	şu	prn-dem$prn-dem-dat	kir	ушул	prn-dem
+	tur	şu	prn-dem	kir	ушул	prn-dem
 	tur	bura	prn-dem	kir	бул жер	prn-dem
 	tur	ora	prn-adv$$prn$prn-adv-loc	kir	ал жак	prn-dem
 	tur	kim	prn-qst	kir	ким	prn-itg
@@ -140,7 +140,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	hiçbir	det$det-qnt	kir	эч бир	det-ind
 	tur	her	det$det-dem	kir	ар	det-ind
 	tur	bazı	det-ind	kir	кээбир	det-ind
-	tur	bazı	det-qnt$det$	kir	бир нече	det-qnt
+	tur	bazı	det-qnt$det	kir	бир нече	det-qnt
 	tur	bir	det-ind$det	kir	бир	det-ind
 	tur	tek	det$det-ind	kir	жалгыз	det-ind
 	tur	kendi	det-ref	kir	өз	det-ref
@@ -359,7 +359,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	asır	n$	kir	кылым	n
 	tur	aşk	n$	kir	ашк	n
 	tur	askı	n$	kir	кийим илгич	n
-	tur	ata	n	kir	ата	n
+	tur	ata	n$	kir	ата	n
 	tur	atak	n$	kir	чабуул	n
 	tur	ateş	n$	kir	от	n
 	tur	at	n	kir	ат	n
@@ -3721,7 +3721,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	onur	n$	kir	сыймык	n
 	tur	kalıntı	n$	kir	калдык	n
 	tur	kader	n$	kir	тагдыр	n
-	tur	denk	n$	kir	тең	n
+	tur	denk	n	kir	тең	n
 	tur	batılı	$n	kir	батыштык	n
 	tur	tablo	n$	kir	сүрөт	n
 	tur	rehin	n$	kir	барымта	n
@@ -4245,7 +4245,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	köpek	n$	kir	ит	n
 	tur	kahraman	n$	kir	баатыр	n
 	tur	hücum	n$	kir	чабуул	n
-	tur	favori	$n	kir	фаворит	n
+	tur	favori	n	kir	фаворит	n
 	tur	efsanevi	$n	kir	легендарлуу	n
 	tur	editör	n$	kir	редактор	n
 	tur	ataşe	$n	kir	атташе	n
@@ -5085,8 +5085,8 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	uluslararası	adj$	kir	эларалык	adj
 	tur	ulusal	adj$	kir	улуттук	adj
 	tur	ilişkin	adj$	kir	байланыштуу	adj
-	tur	bazı	adj	kir	кээбир	adj
-	tur	bazı	adj	kir	айрым	adj
+	tur	bazı	adj$	kir	кээбир	adj
+	tur	bazı	adj$	kir	айрым	adj
 	tur	kamu	adj	kir	коомчулуктуу	adj
 	tur	mevcut	adj	kir	камтылган	adj
 	tur	gelecek	adj	kir	келечек	adj
@@ -5266,12 +5266,12 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	olgun	adj$	kir	жетилген	adj
 	tur	olgun	adj$	kir	бышкан	adj
 	tur	meşhur	adj$	kir	атактуу	adj
-	tur	denk	adj	kir	тең	adj
+	tur	denk	adj$	kir	тең	adj
 	tur	garantör	$adj	kir	кепилдиктүү	adj
 	tur	vahşi	adj$	kir	жапайы	adj
 	tur	hamile	adj$	kir	кош бойлуу	adj
 	tur	gazi	adj	kir	казы	adj
-	tur	favori	adj	kir	фаворит	adj
+	tur	favori	adj$	kir	фаворит	adj
 	tur	saçma	adj	kir	маанисиз	adj
 	tur	nadir	adj$	kir	сейрек	adj$adj-subst$adj-comp-subst
 	tur	nadir	adj$	kir	чанда	adj
@@ -5388,7 +5388,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	elele	$adj	kir	кол кармашып	adj
 	tur	ekspres	$adj	kir	экспресс	adj
 	tur	diri	adj$	kir	тирүү	adj
-	tur	dindar	adj	kir	диндар	adj
+	tur	dindar	adj$	kir	диндар	adj
 	tur	çabuk	adj$	kir	ылдам	adj
 	tur	bitkin	adj$	kir	алдан тайган	adj
 	tur	bitkin	adj$	kir	жүдөмүш	adj
@@ -6311,8 +6311,8 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	önle	v-tv$v	kir	тоскоолдук кыл	v-tv
 	tur	aktar	v-tv$$v	kir	которуштур	v-tv
 	tur	yar	v-tv$v	kir	жар	v-tv-pass$v-tv
-	tur	ata	v-tv$$v	kir	дайында	v-tv
-	tur	ata	v-tv$$v	kir	белгиле	v-tv
+	tur	ata	v-tv$v	kir	дайында	v-tv
+	tur	ata	v-tv$v	kir	белгиле	v-tv
 	tur	um	v-tv$v	kir	үмүттөн	v-iv
 	tur	hedefle	v-tv$v	kir	максат кыл	v-tv
 	tur	üstlen	v$v-tv	kir	жоопкерчилик ал	v-tv
@@ -6597,7 +6597,7 @@ LR	tur	ki	cnjsub	kir		sent$
 	tur	feshet	v-tv$v	kir	жой	v-tv
 	tur	ele	v-tv$v	kir	эле	v-tv
 	tur	cezbet	v-tv$v	kir	өзүңө тарт	v-iv
-	tur	alış	v-tv$v	kir	көн	v-tv
+	tur	alış	v-tv	kir	көн	v-tv
 	tur	yıl	v$v-iv	kir	корк	v-iv$v-iv-caus
 	tur	morar	v-iv$v	kir	көгөр	v-iv
 	tur	kopar	v-tv$v	kir	үз	v-tv$v-tv-pass

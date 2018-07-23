@@ -10,7 +10,7 @@
 	fra	Abidjan	np$np-top-m	ron	Abidjan	np$np-loc
 	fra	Adelaida	np$np-ant$np-ant-f-sg	ron	Adelaide	np$np-loc
 	fra	Afghanistan	np$np-loc-f	ron	Afganistan	np$np-loc
-	fra	Afrique	np$np-loc-f	ron	Africa	np$np-loc
+	fra	Afrique	np$np-top-f-sg$np-top$np-top-f	ron	Africa	np$np-loc
 	fra	Achaïe	np	ron	Ahaia	np$np-loc
 RL	fra	Achille	np$np-ant$np-ant-m-sg	ron	Ahile	np
 	fra	Albanie	np$np-loc-f	ron	Albania	np$np-loc
@@ -96,7 +96,7 @@ RL	fra	Catalogne	np$np-loc-f	ron	Catalunia	np$np-loc
 	fra	Coca-Cola	np$np-al-mf	ron	Coca-Cola	np
 	fra	Colón	np$np-cog$np-cog-mf-sp	ron	Columb	np
 	fra	Copenhague	np$np-loc-f	ron	Copenhaga	np$np-loc
-	fra	Corée	np$np-loc-f	ron	Coreea	np$np-loc
+	fra	Corée	np$np-top-f-sg$np-top-f$np-top	ron	Coreea	np$np-loc
 	fra	Corinthe	np$np-loc-f	ron	Corint	np$np-loc
 	fra	Christophe Colomb	np$np-ant-m-sg	ron	Cristofor Columb	np
 	fra	Croatie	np$np-loc-f	ron	Croația	np$np-loc
@@ -106,7 +106,7 @@ RL	fra	Catalogne	np$np-loc-f	ron	Catalunia	np$np-loc
 	fra	Damas	np$np-loc-f	ron	Damasc	np$np-loc
 	fra	Danemark	np$np-loc-f	ron	Danemarca	np$np-loc
 	fra	Discovery	np$np-al-m-sg	ron	Discovery	np-al$np
-	fra	Disney	np$np-cog-mf-sp$np-cog	ron	Disney	np$np-al
+	fra	Disney	np$np-cog-mf-sp$np-cog	ron	Disney	np$$np-al$np-al-m
 	fra	Dubaï	np	ron	Dubai	np$np-loc
 	fra	Dublin	np$np-top$np-top-m-sg$np-top-m	ron	Dublin	np$np-loc
 	fra	Égypte	np$np-loc-f	ron	Egipt	np$np-loc
@@ -120,7 +120,7 @@ RL	fra	Catalogne	np$np-loc-f	ron	Catalunia	np$np-loc
 	fra	Florence	np-ant$np-ant-f-sg$np	ron	Florența	np-loc$$np
 	fra	Floride	np$np-loc$np-loc-f	ron	Florida	np$np-loc
 	fra	Floride	np$np-loc$np-loc-f	ron	Florida	np$np-loc
-	fra	Ford	np$np-cog-mf-sp$np-cog	ron	Ford	np$np-al-nt
+	fra	Ford	np$np-cog-mf-sp$np-cog	ron	Ford	np$np-al-nt$np-al-nt-sg
 	fra	France	np$np-top$np-top-f$np-top-f-sg	ron	Franța	np$np-loc
 	fra	GPS	n-acr$n-acr-m-sg	ron	GPS	n-acr
 	fra	Galice	np$np-loc-f	ron	Galicia	np$np-loc
@@ -176,7 +176,7 @@ LR	fra	Lisboa	np$np-loc-f	ron	Lisabona	np$np-loc
 	fra	"Avrig	np	ron	Avrig	np
 	fra	"Babadag	np	ron	Babadag	np
 	fra	"Băbeni	np	ron	Băbeni	np
-	fra	"Bacău	np	ron	Bacău	np$np-top-nt
+	fra	"Bacău	np	ron	Bacău	np$np-top-nt-sg
 	fra	"Băicoi	np	ron	Băicoi	np
 	fra	"Băilești	np	ron	Băilești	np
 	fra	"Bălan	np	ron	Bălan	$np
@@ -193,7 +193,7 @@ LR	fra	Lisboa	np$np-loc-f	ron	Lisabona	np$np-loc
 	fra	"Blaj	np	ron	Blaj	np
 	fra	"Boldești-Scăeni	np	ron	Boldești-Scăeni	np
 	fra	"Borsec	np	ron	Borsec	np
-	fra	"Botoșani	np	ron	Botoșani	np$np-top-nt
+	fra	"Botoșani	np	ron	Botoșani	np$np-top-nt-sg
 	fra	"Brad	np	ron	Brad	np
 	fra	"Bragadiru	np	ron	Bragadiru	np
 	fra	"Brașov	np	ron	Brașov	np$np-loc
@@ -205,14 +205,14 @@ LR	fra	Lisboa	np$np-loc-f	ron	Lisabona	np$np-loc
 	fra	"Buhuși	np	ron	Buhuși	np
 	fra	"Bumbești-Jiu	np	ron	Bumbești-Jiu	np
 	fra	"Bușteni	np	ron	Bușteni	np
-	fra	"Buzău	np	ron	Buzău	np$np-top-nt
+	fra	"Buzău	np	ron	Buzău	np$np-top-nt-sg
 	fra	"Buziaș	np	ron	Buziaș	np
 	fra	"Calafat	np	ron	Calafat	np
 	fra	"Călan	np	ron	Călan	np
 	fra	"Călărași	np	ron	Călărași	np
 	fra	"Călimănești	np	ron	Călimănești	np
 	fra	"Câmpeni	np	ron	Câmpeni	np
-	fra	"Câmpulung	np	ron	Câmpulung	np$np-top-nt
+	fra	"Câmpulung	np	ron	Câmpulung	np$np-top-nt-sg
 	fra	"Caracal	np	ron	Caracal	np
 	fra	"Caransebeș	np	ron	Caransebeș	np
 	fra	"Carei	np	ron	Carei	np
@@ -238,7 +238,7 @@ LR	fra	Lisboa	np$np-loc-f	ron	Lisabona	np$np-loc
 	fra	Macédoine	np$np-loc-f	ron	Macedonia	np$np-loc
 	fra	Madrid	np$np-loc-f	ron	Madrid	np$$np-loc
 	fra	Grande-Bretagne	np$np-top-f$np-top-f-sg	ron	Marea Britanie	np$np-al
-	fra	Maria	np$np-ant$np-ant-f-sg	ron	Maria	np$
+	fra	Maria	np$np-ant-f-sg$np-ant	ron	Maria	np$
 	fra	Maroc	np$np-loc-f	ron	Maroc	np$np-loc
 	fra	Marrakech	np	ron	Marrakesh	np$np-loc
 	fra	Mecque	np	ron	Meca	np$np-loc
@@ -316,7 +316,7 @@ LR	fra	Vilnius	np$np-top	ron	Vilnius	np$np-loc-m-sg
 	fra	Virgile	np$np-ant	ron	Virgiliu	np
 	fra	Washington	np$np-loc-f	ron	Washington	np$np-loc
 	fra	Westphalie	np	ron	Westfalia	np$np-loc
-	fra	Wikipédia	np$np-al-mf$np-al	ron	Wikipedia	np$np-al
+	fra	Wikipédia	np$np-al-mf$np-al	ron	Wikipedia	np$np-al$np-al-f-sg
 	fra	X	num$num-mf-sp	ron	X	num$$num-mf-pl
 	fra	XI	num$num-mf-sp	ron	XI	num$$num-mf-pl
 	fra	XII	num$num-mf-sp	ron	XII	num$$num-mf-pl
@@ -333,7 +333,7 @@ LR	fra	Vilnius	np$np-top	ron	Vilnius	np$np-loc-m-sg
 	fra	à	pr	ron	a	pr
 	fra	a posteriori	adv	ron	a posteriori	adv
 	fra	a priori	adv	ron	a priori	adv
-	fra	abandon	n$n-m$n-m-ND	ron	abandon	n$n-nt
+	fra	abandon	n$n-m$n-m-ND	ron	abandon	n-nt$n
 LR	fra	quitter	vblex	ron	abandona	vblex
 	fra	abandonner	vblex	ron	abandona	vblex
 	fra	abandon	n$n-m$n-m-ND	ron	abandonare	n-f$n
@@ -358,7 +358,7 @@ LR	fra	abnégation	n$n-f	ron	abnegație	n$n-f
 	fra	abominable	adj$adj-mf	ron	abominabil	$adj$adj-GD
 	fra	souscrire	vblex	ron	abona	vblex
 LR	fra	soussigner	vblex	ron	abona	vblex
-	fra	bon	n$n-m$n-m-ND	ron	abonament	n$n-nt
+	fra	bon	n$n-m$n-m-ND	ron	abonament	n-nt$n
 	fra	poser	vblex	ron	aborda	vblex
 	fra	abordable	adj$adj-mf	ron	abordabil	$adj$adj-GD
 	fra	exposé	n-m$n-m-ND$n	ron	abordare	n-f$n
@@ -855,11 +855,11 @@ RL	fra	alimentaire	adj-mf$adj$adj-mf-ND	ron	alimentar	adj-f
 	fra	allocution	n-f$n	ron	alocuțiune	n$n-f
 	fra	alpin	adj$adj-GD-ND	ron	alpin	adj$
 	fra	alpiniste	n$n-mf	ron	alpinist	n-GD$n
-RL	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind	ron	alt	det-ind-m-pl
-RL	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind	ron	alt	det-ind-f-pl
+RL	fra	un autre	det-ind-mf-pl$det-ind-mf	ron	alt	det-ind-m-pl
+RL	fra	un autre	det-ind-mf-pl$det-ind-mf	ron	alt	det-ind-f-pl
 	fra	un autre	det-ind-m-sg	ron	alt	det-ind-m-sg
-	fra	un autre	det-ind-f-sg	ron	alt	det-ind-f-sg
-LR	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind	ron	alt	det-ind-GD
+	fra	un autre	det-ind-f-sg$det-ind	ron	alt	det-ind-f-sg
+LR	fra	un autre	det-ind-mf-pl$det-ind-mf	ron	alt	det-ind-GD
 RL	fra	autre	adj-ind-mf$adj-mf$adj-ind-mf-sg$adj	ron	alt	adj-f$adj-ind-f$adj-ind-f-sg
 RL	fra	autre	adj-ind-mf$adj-mf$adj-ind-mf-sg$adj	ron	alt	adj-m$adj-ind-m$adj-ind-m-pl
 RL	fra	autre	adj-ind-mf$adj-mf$adj-ind-mf-sg$adj	ron	alt	adj-m$adj-ind-m$adj-ind-m-pl
@@ -1497,7 +1497,7 @@ LR	fra	atlantique	adj-mf$adj$adj-mf-ND	ron	atlantic	adj$$adj-GD
 RL	fra	atlantique	adj-mf$adj$adj-mf-ND	ron	atlantic	adj-m
 RL	fra	atlantique	adj-mf$adj$adj-mf-ND	ron	atlantic	adj-f
 	fra	athlète	n$n-mf	ron	atlet	n-m$n
-	fra	athlétisme	n-m$n	ron	atletism	n$n-nt$n-nt-sg
+	fra	athlétisme	n-m$n$n-m-sg	ron	atletism	n$n-nt$n-nt-sg
 	fra	atmosphère	n-f$n$n-f-ND	ron	atmosferă	n$n-f
 	fra	atoll	n-m$n	ron	atol	n
 LR	fra	atomique	adj-mf$adj$adj-mf-ND	ron	atomic	adj$$adj-GD
@@ -1556,7 +1556,7 @@ RL	fra	automatique	adj-mf$adj$adj-mf-ND	ron	automatic	adj-f
 RL	fra	automatique	adj-mf$adj$adj-mf-ND	ron	automatic	adj-m
 	fra	automatisation	n-f$n	ron	automatizare	n$n-f
 	fra	automobile	n-f$n$n-f-ND	ron	automobil	n-m$n-n
-	fra	automobilisme	n$n-m$n-m-sg	ron	automobilism	n$n-nt
+	fra	automobilisme	n$n-m-sg$n-m	ron	automobilism	n$n-nt
 	fra	automobiliste	n$n-mf	ron	automobilist	n-GD$n
 LR	fra	automobile	adj-mf$adj	ron	automobilistic	$adj$adj-GD
 RL	fra	automobile	adj-mf$adj	ron	automobilistic	adj-m
@@ -1728,7 +1728,7 @@ RL	fra	basque	n-mf$n$n-mf-ND	ron	basc	n-f
 LR	fra	basque	adj-mf$adj-mf-ND$adj	ron	basc	adj$adj-GD
 RL	fra	basque	adj-mf$adj-mf-ND$adj	ron	basc	adj-m
 RL	fra	basque	adj-mf$adj-mf-ND$adj	ron	basc	adj-f
-	fra	basket-ball	n$n-m$n-m-sg	ron	baschet	n-nt$n
+	fra	basket-ball	n$n-m$n-m-sg	ron	baschet	n-nt$n-nt-sg$n
 	fra	conte	n-m$n$n-m-ND	ron	basm	n$n-m
 	fra	mouchoir	n-m$n$n-m-ND	ron	basma	n-f$n
 LR	fra	bâton	n-m$n$n-m-ND	ron	baston	n$n-nt
@@ -1774,7 +1774,7 @@ RL	fra	essence	n-f$n$n-f-ND	ron	benzină	n$n-f
 	fra	bestialité	n$n-f	ron	zoofil	$n
 	fra	bête	n-f$n$n-f-ND	ron	bestie	n$n-f
 RL	fra	tare	n-f$n	ron	beteșug	n-nt$n
-	fra	béton	n-m$n	ron	beton	n$n-nt
+	fra	béton	n-m$n$n-m-sg	ron	beton	n$n-nt
 	fra	obscurité	n$n-f$n-f-ND	ron	beznă	n$n-f
 LR	fra	ivrogne	n-mf$n$n-mf-ND	ron	bețiv	n$n-GD
 RL	fra	ivrogne	n-mf$n$n-mf-ND	ron	bețiv	n-f
@@ -2268,11 +2268,11 @@ RL	fra	le	det-def-mf-pl$det-def$det-def-mf	ron	cel	det-def-f-pl
 	fra	le	det-def-f-sg	ron	cel	det-def-f-sg
 	fra	le	det-def-m-sg	ron	cel	det-def-m-sg
 	fra	celui qui	rel$rel-m$rel-m-pl	ron	cel care	rel$rel-an$rel-an-mn-sg-dg
-LR	fra	celui que	rel$rel-nt$rel-nt-sg	ron	cel care	rel$rel-an$rel-an-mn-sg-dg
-RL	fra	celui que	rel$rel-nt$rel-nt-sg	ron	cel care	rel-nn
-	fra	celui que	rel$rel-nt$rel-nt-sg	ron	cel care	rel-an-nt$rel-an-nt-sg
+LR	fra	celui que	rel$rel-nt-sg$rel-nt	ron	cel care	rel$rel-an$rel-an-mn-sg-dg
+RL	fra	celui que	rel$rel-nt-sg$rel-nt	ron	cel care	rel-nn
+	fra	celui que	rel$rel-nt-sg$rel-nt	ron	cel care	rel-an-nt$rel-an-nt-sg
 	fra	lequel	rel$rel-GD-ND	ron	cel care	rel$rel-an$rel-an-mn-sg-dg
-	fra	celui que	rel$rel-nt$rel-nt-sg	ron	cel care	rel-an-nt$rel-an-nt-sg
+	fra	celui que	rel$rel-nt-sg$rel-nt	ron	cel care	rel-an-nt$rel-an-nt-sg
 	fra	au moins	adv	ron	cel puțin	adv
 LR	fra	du moins	adv	ron	cel puțin	adv
 LR	fra	fêter	vblex	ron	celebra	vblex
@@ -2423,10 +2423,10 @@ LR	fra	souper	vblex	ron	cina	vblex
 	fra	cinquante et un	num	ron	cincizeci și unu	num$num-m-pl
 	fra	cinquante-sept	num$num-mf-sp	ron	cincizeci și șapte	num$num-mf-pl
 	fra	cinquante-six	num$num-mf-sp	ron	cincizeci și șase	num$num-mf-pl
-RL	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	ron	cine	prn-itg-mf-pl
-RL	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	ron	cine	prn-itg-mf-sg$prn
-LR	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	ron	cine	prn-itg-mf-ND
-LR	fra	qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	ron	cine	prn-itg-mf-ND
+RL	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf	ron	cine	prn-itg-mf-pl
+RL	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf	ron	cine	prn-itg-mf-sg$prn
+LR	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf	ron	cine	prn-itg-mf-ND
+LR	fra	qui	prn-itg-mf-sp$prn-itg$prn-itg-mf	ron	cine	prn-itg-mf-ND
 	fra	cinéaste	n$n-mf	ron	cineast	n-GD$n
 	fra	cinéma	n-m$n$n-m-ND	ron	cinema	n-nt$n
 LR	fra	cinématographique	adj$adj-mf$adj-mf-ND	ron	cinematografic	adj$$adj-GD
@@ -2722,7 +2722,7 @@ RL	fra	communautaire	adj-mf$adj$adj-mf-ND	ron	comunitar	adj-f
 	fra	cône	n$n-m	ron	con	n$n-nt
 RL	fra	demeure	n-f$n$n-f-ND	ron	conac	n-nt$n
 	fra	licenciement	n-m$n$n-m-ND	ron	concediere	n-f$n
-	fra	vacances	n$n-f	ron	concediu	n$n-nt$n-nt-sg
+	fra	vacances	n$n-f$n-f-pl	ron	concediu	n$n-nt$n-nt-sg
 	fra	vacance	n-f-pl$n-f$n	ron	concediu	n-f-pl
 	fra	concentrer	vblex	ron	concentra	vblex
 LR	fra	rassemblement	n-m$n-m-ND	ron	concentrație	n$n-f
@@ -2770,7 +2770,7 @@ LR	fra	piloter	vblex	ron	conduce	vblex
 	fra	conduit	n-m$n	ron	conductă	n-f$n
 LR	fra	dirigeant	n-f	ron	conducător	n-mf
 LR	fra	dirigeant	n-m$n	ron	conducător	n-mf
-LR	fra	cadre	n-mf	ron	conducător	n$n-f
+LR	fra	cadre	n-mf	ron	conducător	n-f$n
 RL	fra	dirigeant	n-GD$n-GD-ND	ron	conducător	n-mf
 	fra	conduite	n-f$n$n-f-ND	ron	conduită	n$n-f
 	fra	relier	vblex	ron	conecta	vblex
@@ -3027,7 +3027,7 @@ RL	fra	couverture	n-f$n$n-f-ND	ron	copertă	n$n-f
 	fra	copier	vblex	ron	copia	vblex
 	fra	copie	n-f$n$n-f-ND	ron	copie	n
 LR	fra	enfant	n-mf$n$n-mf-pl	ron	copil	n-GD
-RL	fra	enfant	n-mf$n$n-mf-pl	ron	copil	n$n-m
+RL	fra	enfant	n-mf$n$n-mf-pl	ron	copil	n-m$n$n-m-pl
 RL	fra	enfant	n-mf$n$n-mf-pl	ron	copil	n-f
 LR	fra	enfantin	adj-m	ron	copilăresc	adj-mf$adj$
 LR	fra	enfantin	adj$adj-f	ron	copilăresc	adj-mf$adj$
@@ -3116,7 +3116,7 @@ RL	fra	tapis	n-m-sp$n-m$n	ron	covor	n-f-sg
 LR	fra	créateur	n-mf$n$n-mf-ND	ron	creator	n$n-GD
 RL	fra	créateur	n-mf$n$n-mf-ND	ron	creator	n-m
 RL	fra	créateur	n-mf$n$n-mf-ND	ron	creator	n-f
-	fra	être	n$n-m$n-m-ND	ron	creatură	n-f$n
+	fra	être	n-m$n$n-m-ND	ron	creatură	n-f$n
 	fra	croire	vblex	ron	crede	vblex
 	fra	crédible	adj$adj-mf	ron	credibil	$adj$adj-GD
 	fra	crédibilité	n$n-f$n-f-ND	ron	credibilitate	n$n-f
@@ -3128,7 +3128,7 @@ LR	fra	croyant	n-m$n	ron	credincios	n-mf
 	fra	créditeur	n$n-GD	ron	creditor	n
 	fra	crédulité	n-f$n	ron	credulitate	n$n-f
 	fra	cerveau	n$n-m$n-m-ND	ron	creier	n$n-m
-	fra	crayon	n-m$n$n-m-sg	ron	creion	n-nt$n
+	fra	crayon	n-m$n$n-m-sg	ron	creion	n$n-nt$n-nt-ND
 	fra	crème	n-f$n	ron	cremă	n$n-f
 LR	fra	croissant	adj-m	ron	crescător	adj-mf$$adj
 LR	fra	croissant	adj$adj-f	ron	crescător	adj-mf$$adj
@@ -4298,9 +4298,9 @@ RL	fra	élégant	adj$adj-GD-ND$adj-GD	ron	elegant	adj-mf$
 	fra	élégance	n-f$n$n-f-ND	ron	eleganță	n$n-f
 	fra	élément	n-m$n$n-m-ND	ron	element	n$n-nt
 	fra	élémentaire	adj-mf$adj	ron	elementar	adj-mf
-LR	fra	élève	n-mf$n$n-mf-sg	ron	elev	n$n-GD
-RL	fra	élève	n-mf$n$n-mf-sg	ron	elev	n-f
-RL	fra	élève	n-mf$n$n-mf-sg	ron	elev	n-m
+LR	fra	élève	n-mf$n$n-mf-sg	ron	elev	n$n-GD$n-GD-pl
+RL	fra	élève	n-mf$n$n-mf-sg	ron	elev	n-f$n-f-sg
+RL	fra	élève	n-mf$n$n-mf-sg	ron	elev	n-m$n-m-sg
 	fra	élévation	n$n-f$n-f-ND	ron	elevare	n$n-f
 LR	fra	haut	adj$adj-GD-ND	ron	elevat	adj$
 	fra	élevé	adj$adj-GD-ND	ron	elevat	adj$
@@ -4671,7 +4671,7 @@ RL	fra	extrême	adj-mf$adj$adj-mf-ND	ron	extrem	adj-m
 LR	fra	extrême	n-m$n$n-m-ND	ron	extremă	n-f$n
 LR	fra	broncher	vblex	ron	ezita	vblex
 	fra	hésiter	vblex	ron	ezita	vblex
-	fra	échelon	n-m$n$n-m-ND	ron	eșalon	n$n-nt
+	fra	échelon	n-m$n$n-m-ND	ron	eșalon	n-nt$n
 	fra	échantillon	n-m$n	ron	eșantion	n-f
 LR	fra	insuccès	n-m-sp$n-m	ron	eșec	n-m-ND
 RL	fra	insuccès	n-m-sp$n-m	ron	eșec	n-m-pl
@@ -4864,7 +4864,7 @@ RL	fra	foetus	n-m-sp$n-m	ron	fetus	n-m-pl
 	fra	puisque	cnjadv	ron	fiindcă	cnjadv
 LR	fra	vu que	cnjadv	ron	fiindcă	cnjadv
 LR	fra	du fait que	cnjadv	ron	fiindcă	cnjadv
-	fra	être	n$n-m$n-m-ND	ron	ființă	n-f$n
+	fra	être	n-m$n$n-m-ND	ron	ființă	n-f$n
 	fra	ivoire	n-m$n	ron	fildeș	n$n-nt
 	fra	filiale	n-f$n	ron	filială	n$n-f
 RL	fra	filiation	n$n-f$n-f-ND	ron	filiație	n$n-f
@@ -4966,20 +4966,20 @@ RL	fra	flux	n-m-sp$n-m$n	ron	flux	n-m-pl
 RL	fra	faim	n-f$n$n-f-ND	ron	foame	n-m
 RL	fra	faim	n-f$n$n-f-ND	ron	foamete	n-f
 	fra	très	preadv	ron	foarte	preadv
-RL	fra	beaucoup de	adj-mf-sp$adj	ron	foarte mult	adj-m-sg
-RL	fra	beaucoup de	adj-mf-sp$adj	ron	foarte mult	adj-m-pl$adj-ind-m-pl
-RL	fra	beaucoup de	adj-mf-sp$adj	ron	foarte mult	adj-f-sg$adj-ind-f-sg
-RL	fra	beaucoup de	adj-mf-sp$adj	ron	foarte mult	adj-f-pl
-LR	fra	beaucoup de	adj-mf-sp$adj	ron	foarte mult	adj-GD-ND
+RL	fra	beaucoup de	adj-mf-sp	ron	foarte mult	adj-m-sg
+RL	fra	beaucoup de	adj-mf-sp	ron	foarte mult	adj-m-pl$adj-ind-m-pl
+RL	fra	beaucoup de	adj-mf-sp	ron	foarte mult	adj-f-sg$adj-ind-f-sg
+RL	fra	beaucoup de	adj-mf-sp	ron	foarte mult	adj-f-pl
+LR	fra	beaucoup de	adj-mf-sp	ron	foarte mult	adj-GD-ND
 	fra	feu	n-m$n$n-m-ND	ron	foc	n-nt$n
-RL	fra	foyer	n-m$n$n-m-ND	ron	focar	n$n-nt
+RL	fra	foyer	n-m$n$n-m-ND	ron	focar	n$n-nt$n-nt-ND
 	fra	phoque	n-m	ron	focă	n$n-f
 	fra	folklore	n-m$n	ron	folclor	n$n-nt
 	fra	utilité	n$n-f$n-f-ND	ron	folos	n-nt$n
 	fra	user	vblex	ron	folosi	vblex
 	fra	usage	n-m$n$n-m-pl	ron	folosire	n-f$n
 	fra	utile	adj$adj-mf-ND$adj-mf	ron	folositor	adj$adj-m$
-	fra	fond	n-m$n$n-m-ND	ron	fond	n$n-nt
+	fra	fond	n-m$n$n-m-ND	ron	fond	n$n-nt$n-nt-ND
 	fra	fonder	vblex	ron	fonda	vblex
 	fra	fondateur	n$n-m$n-m-ND	ron	fondator	n
 	fra	source	n-f$n$n-f-ND	ron	font	n$n-nt
@@ -5137,7 +5137,7 @@ RL	fra	fonctionnaire	n-mf$n$n-mf-ND	ron	funcționar	n-m
 	fra	fonctionnement	n-m$n$n-m-ND	ron	funcționare	n-f$n
 	fra	derrière	n-m$n$n-m-ND	ron	fund	n$n-nt
 	fra	fonder	vblex	ron	funda	vblex
-	fra	fond	n-m$n$n-m-ND	ron	fundal	n$n-nt
+	fra	fond	n-m$n$n-m-ND	ron	fundal	n$n-nt$n-nt-ND
 	fra	fondement	n$n-m$n-m-ND	ron	fundament	n-nt$n
 LR	fra	fondamental	adj-m	ron	fundamental	adj-mf$$adj
 LR	fra	fondamental	adj$adj-f$	ron	fundamental	adj-mf$$adj
@@ -5312,7 +5312,7 @@ RL	fra	voix	n-f-sp$n-f$n	ron	glas	n-f-sg
 	fra	vitrail	n-m	ron	glasvand	n-f
 	fra	cheville	n-f	ron	gleznă	n-m
 RL	fra	foule	n$n-f$n-f-ND	ron	gloată	n$n-f
-	fra	globe	n$n-m$n-m-ND	ron	glob	n-nt$n
+	fra	globe	n$n-m$n-m-ND	ron	glob	n$n-nt$n-nt-ND
 	fra	globale	adj$adj-mf$adj-mf-ND	ron	global	adj$adj-m-pl$
 	fra	mondialisation	n$n-f	ron	globalizare	n$n-f
 LR	fra	globalisation	n$n-f	ron	globalizare	n$n-f
@@ -5423,7 +5423,7 @@ RL	fra	magnifique	adj-mf$adj$adj-mf-ND	ron	grozav	adj-f
 	fra	groupement	n-m$n$n-m-ND	ron	grupare	n$n-f
 	fra	groupe	n-m$n$n-m-ND	ron	grupă	n-f$n
 LR	fra	froment	n$n-m$n-m-ND	ron	grâu	n$n-nt
-	fra	blé	n$n-m$n-m-ND	ron	grâu	n$n-nt
+	fra	blé	n-m$n$n-m-ND	ron	grâu	n$n-nt
 	fra	hâter	vblex	ron	grăbi	vblex
 	fra	jardinier	n$n-m	ron	grădinar	n
 	fra	garderie	n-f$n	ron	grădiniță	n$n-m
@@ -5456,7 +5456,7 @@ LR	fra	gouv	n-m-sp$n-sp	ron	guvern	n-m-ND
 LR	fra	gouvernemental	adj-f	ron	guvernamental	adj-mf$$adj
 LR	fra	gouvernemental	adj-m	ron	guvernamental	adj-mf$$adj
 RL	fra	gouvernemental	adj-GD$adj$$adj-GD-ND	ron	guvernamental	adj-mf$$adj
-	fra	gouvernant	n$n-m	ron	guvernant	n$n-m
+	fra	gouvernant	n$n-m	ron	guvernant	n-m$n
 	fra	gouverneur	n$n-m$n-m-ND	ron	guvernator	n
 	fra	pensée	n-f$n-f-ND$n	ron	gând	n-m
 LR	fra	aviser	vblex	ron	gândi	vblex
@@ -5492,7 +5492,7 @@ RL	fra	hallucinant	adj-GD	ron	halucinant	adj-mf$
 	fra	navire	n-m$n$n-m-ND	ron	hală	n-f$n
 RL	fra	anchois	n-m-sp$n-m	ron	hamsie	n-m-sg
 RL	fra	anchois	n-m-sp$n-m	ron	hamsie	n-m-pl
-	fra	chaos	n-m$n	ron	haos	n-nt$n
+	fra	chaos	n-m$n	ron	haos	n$n-nt$n-nt-ND
 LR	fra	chaotique	adj-mf$adj	ron	haotic	$adj$adj-GD
 RL	fra	chaotique	adj-mf$adj	ron	haotic	adj-m
 RL	fra	chaotique	adj-mf$adj	ron	haotic	adj-f
@@ -5510,9 +5510,9 @@ RL	fra	goût	n-m$n$n-m-ND	ron	hatâr	n$n-nt
 LR	fra	hépatite	n-f-sg	ron	hepatită	n-f-sp$n
 LR	fra	hépatite	n-f$n-f-pl$n	ron	hepatită	n-f-sp$n
 RL	fra	hépatite	n-f-ND	ron	hepatită	n-f-sp$n
-LR	fra	hétérosexuel	n$n-m	ron	heterosexual	n-mf$n$
-LR	fra	hétérosexuel	n-f	ron	heterosexual	n-mf$n$
-RL	fra	hétérosexuel	n-GD	ron	heterosexual	n-mf$n$
+LR	fra	hétérosexuel	n$n-m	ron	heterosexual	n-mf
+LR	fra	hétérosexuel	n-f	ron	heterosexual	n-mf
+RL	fra	hétérosexuel	n-GD	ron	heterosexual	n-mf
 	fra	hexagone	n-m$n	ron	hexagon	n-nt$n
 	fra	hibernation	n$n-f	ron	hibernare	n$n-m
 RL	fra	tache	n-f$n$n-f-ND	ron	hibă	n$n-f
@@ -5536,15 +5536,15 @@ RL	fra	succès	n-m-sp$n-m$n	ron	hit	n-m-sg
 	fra	éclat	n-m$n$n-m-ND	ron	hohot de râs	n-f
 	fra	couloir	n$n-m$n-m-ND	ron	hol	n$n-nt
 	fra	holocauste	n-m$n	ron	holocaust	n$n-nt
-RL	fra	homosexuel	n-GD$n-GD-ND	ron	homosexual	n$n-mf$
-LR	fra	homosexuel	n-m	ron	homosexual	n$n-mf$
-LR	fra	homosexuel	n$n-f	ron	homosexual	n$n-mf$
+RL	fra	homosexuel	n-GD$n-GD-ND	ron	homosexual	n-mf$n$
+LR	fra	homosexuel	n-m	ron	homosexual	n-mf$n$
+LR	fra	homosexuel	n$n-f	ron	homosexual	n-mf$n$
 	fra	homosexualité	n-f$n	ron	homosexualitate	n$n-f
 	fra	tyrannique	adj$adj-mf	ron	tiranic	$adj$adj-mn
 	fra	obstacle	n-m$n$n-m-ND	ron	hop	n$n-nt
 	fra	hormone	n$n-f	ron	hormon	n-m$n
-	fra	cheminée	n-f$n$n-f-ND	ron	horn	n$n-nt
-LR	fra	cheminée	n-f$n$n-f-ND	ron	horn	n$n-nt
+	fra	cheminée	n-f$n$n-f-ND	ron	horn	n-nt$n
+LR	fra	cheminée	n-f$n$n-f-ND	ron	horn	n-nt$n
 	fra	horticole	adj$adj-mf	ron	horticol	$adj$adj-GD
 	fra	hôtel	n-m$n$n-m-ND	ron	hotel	n-nt$n
 	fra	hôtelier	adj	ron	hotelier	adj$
@@ -5559,7 +5559,7 @@ RL	fra	thymus	n-m-sp$n-m	ron	hoție	n-m-pl
 	fra	fête	n-f$n$n-f-ND	ron	hram	n$n-nt
 RL	fra	nourrir	vblex	ron	hrăni	vblex
 	fra	huer	vblex	ron	huidui	vblex
-RL	fra	vase	n-m$n$n-m-ND	ron	humă	n-f$n
+RL	fra	vase	n-m$n$n-m-ND	ron	humă	n-f$n$n-f-ND
 	fra	papier	n-m$n$n-m-ND	ron	hârtie	n-f$n
 	fra	harceler	vblex	ron	hărțui	vblex
 	fra	reine	n-f$n$n-f-ND	ron	hăț	n-nt$n
@@ -5596,9 +5596,9 @@ LR	fra	idiot	n-f$n	ron	idiot	n-mf
 LR	fra	idiot	n-m	ron	idiot	n-mf
 RL	fra	idiot	n-GD	ron	idiot	n-mf
 	fra	idole	n-f$n$n-f-ND	ron	idol	n$n-m
-LR	fra	bon marché	adj-mf$adj$adj-mf-ND	ron	ieftin	adj$$adj-GD
-RL	fra	bon marché	adj-mf$adj$adj-mf-ND	ron	ieftin	adj-m
-RL	fra	bon marché	adj-mf$adj$adj-mf-ND	ron	ieftin	adj-f
+LR	fra	bon marché	adj-mf$adj-mf-ND$adj	ron	ieftin	adj$$adj-GD
+RL	fra	bon marché	adj-mf$adj-mf-ND$adj	ron	ieftin	adj-m
+RL	fra	bon marché	adj-mf$adj-mf-ND$adj	ron	ieftin	adj-f
 	fra	baisser	vblex	ron	ieftini	vblex
 	fra	baisse du prix	n-f	ron	ieftinire	n-m
 	fra	lapin	n$n-m$n-m-ND	ron	iepure	n$n-m
@@ -5645,7 +5645,7 @@ LR	fra	imaginaire	adj$adj-mf$adj-mf-ND	ron	imaginar	$adj$adj-GD
 RL	fra	imaginaire	adj$adj-mf$adj-mf-ND	ron	imaginar	adj-f
 RL	fra	imaginaire	adj$adj-mf$adj-mf-ND	ron	imaginar	adj-m
 	fra	imagination	n-f$n$n-f-ND	ron	imaginație	n$n-f
-	fra	image	n-f$n$n-f-ND	ron	imagine	n
+	fra	image	n-f$n$n-f-ND	ron	imagine	n$n-f
 	fra	imbécile	adj$$adj-mf-ND	ron	imbecil	adj$adj-m-pl$
 RL	fra	attrait	n-m$n$n-m-ND	ron	imbold	n-nt$n
 	fra	immédiat	adj$adj-GD-ND	ron	imediat	adj$
@@ -6052,7 +6052,7 @@ RL	fra	insurgé	n-GD	ron	insurgent	n-mf
 	fra	intégrer	vblex	ron	integra	vblex
 LR	fra	intégral	adj-m	ron	integral	adj-mf$$adj
 LR	fra	intégral	adj$adj-f$	ron	integral	adj-mf$$adj
-	fra	intégration	n-m$n$n-m-ND	ron	integrare	n$n-f
+	fra	intégration	n-m$n-m-ND	ron	integrare	n$n-f
 	fra	intégrité	n-f$n	ron	integritate	n$n-f
 LR	fra	intégralité	n-f$n	ron	integritate	n$n-f
 LR	fra	intègre	adj$adj-mf	ron	integru	$adj$adj-GD
@@ -6251,7 +6251,7 @@ RL	fra	irrégulier	adj$adj-GD-ND$adj-GD	ron	iregular	adj-mf$$adj
 	fra	irrésistible	adj$adj-mf-ND	ron	irezistibil	$adj$adj-GD
 	fra	arrosage	n$n-m	ron	irigare	n-f$n
 	fra	irrigation	n-f$n	ron	irigație	n$n-f
-	fra	iris	n-m-sp$n$n-m	ron	iris	n$n-f
+	fra	iris	n-m-sp$n$n-m	ron	iris	n-f$n
 	fra	irriter	vblex	ron	irita	vblex
 	fra	irritation	n-f$n	ron	iritație	n$n-f
 	fra	irlandais	adj-f$adj-f-sg	ron	irlandez	adj$adj-f
@@ -6663,7 +6663,7 @@ LR	fra	longitude	n-f$n$n-f-ND	ron	longitudine	n$n-f
 	fra	petit-déjeuner	vblex	ron	lua	vblex
 	fra	recouvrer	vblex	ron	lua	vblex
 	fra	attention	n-f$n$n-f-ND	ron	luare aminte	n$n-f
-	fra	luzerne	n-f$n	ron	lucernă	n$n-f
+	fra	luzerne	n-f$n	ron	lucernă	n$n-f-ND
 	fra	luire	vblex	ron	luci	vblex
 	fra	lucidité	n-f$n	ron	luciditate	n$n-f
 LR	fra	bosser	vblex	ron	lucra	vblex
@@ -6671,9 +6671,9 @@ LR	fra	bosser	vblex	ron	lucra	vblex
 	fra	oeuvre	n$n-f$n-f-ND	ron	lucrare	n$n-f
 	fra	lucratif	adj	ron	lucrativ	adj$
 	fra	chose	n-f$n$n-f-ND	ron	lucru	n-nt$n
-LR	fra	de travail	adj-mf-sp$adj$adj-mf	ron	lucrător	adj-mf-ND
-RL	fra	de travail	adj-mf-sp$adj$adj-mf	ron	lucrător	adj-mf-sg
-RL	fra	de travail	adj-mf-sp$adj$adj-mf	ron	lucrător	adj-mf-pl
+LR	fra	de travail	adj-mf-sp	ron	lucrător	adj-mf-ND
+RL	fra	de travail	adj-mf-sp	ron	lucrător	adj-mf-sg
+RL	fra	de travail	adj-mf-sp	ron	lucrător	adj-mf-pl
 RL	fra	ouvrier	n$n-f	ron	lucrător	n$
 	fra	manoeuvre	n$n-f$n-f-ND	ron	lucrătură	n$n-f
 LR	fra	ludique	adj-mf$adj	ron	ludic	$adj$adj-GD
@@ -6746,10 +6746,10 @@ RL	fra	macabre	adj-mf$adj	ron	macabru	adj-f
 LR	fra	madrilène	n-mf$n-mf-ND	ron	madrilen	n$n-GD
 RL	fra	madrilène	n-mf$n-mf-ND	ron	madrilen	n-m
 RL	fra	madrilène	n-mf$n-mf-ND	ron	madrilen	n-f
-	fra	maître	n$n-m	ron	maestru	n
+	fra	maître	n$n-m	ron	maestru	n$n-f-sg
 	fra	mafia	n-f$n$n-f-ND	ron	mafie	n
-	fra	entrepôt	n-m$n$n-m-ND	ron	magazie	n$n-f
-LR	fra	magasin	n-m$n$n-m-ND	ron	magazie	n$n-f
+	fra	entrepôt	n-m$n$n-m-ND	ron	magazie	n-f$n
+LR	fra	magasin	n-m$n$n-m-ND	ron	magazie	n-f$n
 	fra	boutique	n-f$n$n-f-ND	ron	magazin	n$n-nt
 LR	fra	magasin	n-m$n$n-m-ND	ron	magazin	n-f$n-n
 	fra	emmagasinage	n$n-m	ron	magazinaj	n$n-nt
@@ -6827,9 +6827,9 @@ RL	fra	mauvais traitements	n-m-pl$n$n-m	ron	maltratare	n-m-pl
 	fra	mamelle	n-f$n$n-f-ND	ron	mamelă	n$n-f
 	fra	mammifère	n-m$n	ron	mamifer	n$n-nt
 	fra	mère	n-f$n$n-f-ND	ron	mamă	n$n-f
-LR	fra	gérent	n$n-m	ron	manager	n-mf$n
-LR	fra	gérent	n-f	ron	manager	n-mf$n
-RL	fra	gérent	n-GD	ron	manager	n-mf$n
+LR	fra	gérent	n$n-m	ron	manager	n-mf
+LR	fra	gérent	n-f	ron	manager	n-mf
+RL	fra	gérent	n-GD	ron	manager	n-mf
 	fra	mandat	n-m$n$n-m-ND	ron	mandat	n$n-nt
 	fra	mandat postal	n	ron	mandat poștal	n-nt$n
 LR	fra	mandataire	n-mf$n	ron	mandatar	n$n-GD
@@ -6999,7 +6999,7 @@ RL	fra	mélancolique	adj$adj-mf$adj-mf-ND	ron	melancolic	adj-m
 LR	fra	mélomane	n-mf$n	ron	meloman	n$n-GD
 RL	fra	mélomane	n-mf$n	ron	meloman	n-m
 RL	fra	mélomane	n-mf$n	ron	meloman	n-f
-	fra	membre	n$n-mf$n-mf-ND	ron	membru	n$$n-m
+	fra	membre	n$n-mf$n-mf-ND	ron	membru	n$n-m$
 	fra	mémorisation	n-f$n	ron	memorare	n$n-f
 	fra	mémorial	n-m$n	ron	memorial	n-nt$n
 	fra	mémoire	n-f$n$n-f-pl	ron	memorie	n$n-f
@@ -7044,7 +7044,7 @@ LR	fra	métaphysique	adj-mf$adj$adj-mf-ND	ron	metafizic	$adj$adj-GD
 RL	fra	métaphysique	adj-mf$adj$adj-mf-ND	ron	metafizic	adj-m
 RL	fra	métaphysique	adj-mf$adj$adj-mf-ND	ron	metafizic	adj-f
 	fra	métaphore	n$n-f$n-f-ND	ron	metaforă	n$n-f
-	fra	métal	n$n-m$n-m-ND	ron	metal	n$n-nt
+	fra	métal	n$n-m$n-m-ND	ron	metal	n-nt$n
 LR	fra	métallique	adj-mf$adj$adj-mf-ND	ron	metalic	$adj$adj-GD
 RL	fra	métallique	adj-mf$adj$adj-mf-ND	ron	metalic	adj-f
 RL	fra	métallique	adj-mf$adj$adj-mf-ND	ron	metalic	adj-m
@@ -7121,9 +7121,9 @@ LR	fra	minéral	adj-f$adj-f-sg	ron	mineral	adj-mf$
 RL	fra	minéral	adj$adj-GD-ND$adj-GD	ron	mineral	adj-mf$
 	fra	minerai	n-m$n$n-m-ND	ron	mineral	n-nt$n
 	fra	minerai	n-m$n$n-m-ND	ron	minereu	n-nt$n
-	fra	ballon	n-m$n$n-m-ND	ron	minge	n$n-f
-LR	fra	ballon	n-m$n$n-m-ND	ron	minge	n$n-f
-	fra	balle	n-f$n$n-f-ND	ron	minge	n$n-f
+	fra	ballon	n-m$n$n-m-ND	ron	minge	n-f$n
+LR	fra	ballon	n-m$n$n-m-ND	ron	minge	n-f$n
+	fra	balle	n-f$n$n-f-ND	ron	minge	n-f$n
 	fra	miniature	n-f$n	ron	miniatură	n$n-f
 LR	fra	minime	adj-mf$adj$adj-mf-ND	ron	minim	adj$$adj-GD
 RL	fra	minime	adj-mf$adj$adj-mf-ND	ron	minim	adj-m
@@ -7133,14 +7133,14 @@ LR	fra	minimal	adj$$adj-GD-ND	ron	minim	adj$$adj-GD
 LR	fra	ministériel	adj$adj-f	ron	ministerial	adj-mf$$adj
 LR	fra	ministériel	adj-m	ron	ministerial	adj-mf$$adj
 RL	fra	ministériel	adj-GD	ron	ministerial	adj-mf$$adj
-LR	fra	ministre	n-mf$n$n-mf-ND	ron	ministru	n-GD
-RL	fra	ministre	n-mf$n$n-mf-ND	ron	ministru	n-f
-RL	fra	ministre	n-mf$n$n-mf-ND	ron	ministru	n$n-m
-	fra	ministre	n-mf$n$n-mf-ND	ron	ministru	n$n-m
+LR	fra	ministre	n-mf$n$n-mf-ND	ron	ministru	n-GD$n-GD-pl
+RL	fra	ministre	n-mf$n$n-mf-ND	ron	ministru	n-f$n-f-sg
+RL	fra	ministre	n-mf$n$n-mf-ND	ron	ministru	n$n-m$n-m-sg
+	fra	ministre	n-mf$n$n-mf-ND	ron	ministru	n$n-m$n-m-sg
 	fra	moindre	adj$adj-mf-ND$adj-mf	ron	minor	adj$adj-m-pl
-LR	fra	mineur	n-m	ron	minor	n$n-mf$
-LR	fra	mineur	n$n-f	ron	minor	n$n-mf$
-RL	fra	mineur	n-GD$n-GD-ND	ron	minor	n$n-mf$
+LR	fra	mineur	n-m	ron	minor	n-mf$n$
+LR	fra	mineur	n$n-f	ron	minor	n-mf$n$
+RL	fra	mineur	n-GD$n-GD-ND	ron	minor	n-mf$n$
 LR	fra	minoritaire	adj$adj-mf$adj-mf-ND	ron	minoritar	$adj$adj-GD
 RL	fra	minoritaire	adj$adj-mf$adj-mf-ND	ron	minoritar	adj-m
 RL	fra	minoritaire	adj$adj-mf$adj-mf-ND	ron	minoritar	adj-f
@@ -7285,11 +7285,11 @@ RL	fra	moral	adj-GD$adj-GD-ND	ron	moral	adj-mf$$adj
 	fra	moratoire	n-f$n	ron	moratoriu	n-nt$n
 	fra	habitude	n-f$n$n-f-ND	ron	morav	n-f
 RL	fra	morbidité	n-f$n	ron	morb	n-m
-	fra	carotte	n-f$n	ron	morcov	n$n-m
+	fra	carotte	n-f$n	ron	morcov	n-m$n
 LR	fra	tombeau	n-m$n-m-ND	ron	mormânt	n-f
 	fra	tombe	n$n-f$n-f-ND	ron	mormânt	n-nt$n
-	fra	mort	adj$adj-GD-ND	ron	mort	adj
-	fra	mort	n-m	ron	mort	n$$n-m
+	fra	mort	adj$adj-GD-ND	ron	mort	adj$
+	fra	mort	n-m	ron	mort	n$n-m
 	fra	morte	n-f	ron	mort	n-f
 LR	fra	mortel	adj$adj-f$$adj-f-sg	ron	mortal	adj-mf$$adj
 LR	fra	mortel	adj-m$adj-m-sg	ron	mortal	adj-mf$$adj
@@ -7315,11 +7315,11 @@ RL	fra	chat	n-m$n$n-m-ND	ron	motan	n$n-m
 	fra	motion	n$n-f$n-f-ND	ron	moțiune	n$n-f
 	fra	chant	n-m$n$n-m-ND	ron	muchie	n$n-f
 	fra	moule	n-m$n	ron	mulaj	n$n-nt
-RL	fra	beaucoup de	adj-mf-sp$adj	ron	mult	adj-m-sg
-RL	fra	beaucoup de	adj-mf-sp$adj	ron	mult	adj-ind-m-pl$adj-m-pl
-RL	fra	beaucoup de	adj-mf-sp$adj	ron	mult	adj-ind-f-sg$adj-f-sg
-RL	fra	beaucoup de	adj-mf-sp$adj	ron	mult	adj-f-pl
-LR	fra	beaucoup de	adj-mf-sp$adj	ron	mult	adj-GD-ND
+RL	fra	beaucoup de	adj-mf-sp	ron	mult	adj-m-sg
+RL	fra	beaucoup de	adj-mf-sp	ron	mult	adj-ind-m-pl$adj-m-pl
+RL	fra	beaucoup de	adj-mf-sp	ron	mult	adj-ind-f-sg$adj-f-sg
+RL	fra	beaucoup de	adj-mf-sp	ron	mult	adj-f-pl
+LR	fra	beaucoup de	adj-mf-sp	ron	mult	adj-GD-ND
 	fra	beaucoup mieux	adv	ron	mult mai bine	adv
 	fra	beaucoup plus	adv	ron	mult mai mult	adv
 	fra	beaucoup moins	adv	ron	mult mai puțin	adv
@@ -7500,8 +7500,8 @@ RL	fra	national	adj-GD$adj-GD-ND	ron	național	adj-mf$$adj
 	fra	nationaliste	n$n-mf$n-mf-ND	ron	naționalist	n-m$$n
 	fra	nationalité	n-f$n$n-f-ND	ron	naționalitate	n$n-f
 	fra	nation	n$n-f$n-f-ND	ron	națiune	n$n-f
-	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	ron	ne	prn-enc-p1-mf-pl$prn
-	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	ron	ne-	prn$prn-pro-p1-mf-pl
+	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	ron	ne	prn-enc-p1-mf-pl$prn
+	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	ron	ne-	prn$prn-pro-p1-mf-pl
 	fra	inaccessible	adj$adj-mf	ron	neaccesibil	$adj$adj-GD
 	fra	inadaptation	n$n-f	ron	neadaptare	n$n-f
 	fra	faux	adj-f$adj-f-sp	ron	neadevărat	adj$$adj-f
@@ -7568,9 +7568,9 @@ RL	fra	malheureux	adj-m-sp$adj	ron	nefericit	adj-m-pl$$adj
 	fra	négociation	n$n-f$n-f-ND	ron	negociere	n$n-m
 RL	fra	affaire	n-f$n	ron	negoț	n$n-nt
 	fra	indubitablement	adv	ron	negreșit	adv
-	fra	noir	adj$adj-GD-ND	ron	negru	adj$adj-GD
-LR	fra	nègre	adj$adj-mf$adj-mf-pl	ron	negru	adj$adj-GD
-	fra	noir	n$n-m$n-m-ND	ron	negru	n$
+	fra	noir	adj$adj-GD-ND	ron	negru	adj$$adj-GD
+LR	fra	nègre	adj$adj-mf$adj-mf-pl	ron	negru	adj$$adj-GD
+	fra	noir	n$n-m$n-m-ND	ron	negru	n$n-m-sg
 	fra	ténèbre	n-f$n$n-f-ND	ron	negură	n$n-f
 RL	fra	marchand	n$n-m	ron	negustor	n
 	fra	injustifié	adj	ron	nejustificat	adj$
@@ -7592,7 +7592,7 @@ LR	fra	exquis	adj-m-sp$adj	ron	nemaipomenit	adj-m-ND
 RL	fra	exquis	adj-m-sp$adj	ron	nemaipomenit	adj-m-sg
 RL	fra	exquis	adj-m-sp$adj	ron	nemaipomenit	adj-m-pl
 	fra	exquis	adj-f	ron	nemaipomenit	$adj$adj-f
-LR	fra	mécontentement	n-m$n	ron	nemulțumire	n$n-f
+LR	fra	mécontentement	n-m$n	ron	nemulțumire	n-f$n
 	fra	mécontent	adj	ron	nemulțumit	adj$
 LR	fra	mécontent	adj	ron	nemulțumit	adj$
 	fra	immortalité	n-f$n	ron	nemurire	n$n-f
@@ -7665,7 +7665,7 @@ RL	fra	maladroit	adj$adj-GD-ND$adj-GD	ron	neîndemânatic	adj-mf$
 	fra	ni	cnjcoo	ron	nici	cnjcoo
 	fra	même pas	adv	ron	nici măcar	adv
 	fra	aucun	det-ind$det-ind-f-sg	ron	nici un	det-ind$det
-RL	fra	aucun	prn-tn$prn-tn-f-sg$prn-tn-f	ron	nici unul	prn$prn-tn
+RL	fra	aucun	prn-tn$prn-tn-f-sg$prn-tn-f	ron	nici unul	prn$prn-tn-m-sg$prn-tn
 RL	fra	jamais	adv	ron	nicicând	adv
 	fra	jamais	adv	ron	niciodată	adv
 	fra	aucun	det-ind$det-ind-f-sg	ron	niciun	det-ind$det$det-ind-mn-sg
@@ -7697,9 +7697,9 @@ LR	fra	nocturne	adj$adj-mf$adj-mf-ND	ron	nocturn	$adj$adj-GD
 RL	fra	nocturne	adj$adj-mf$adj-mf-ND	ron	nocturn	adj-m
 RL	fra	nocturne	adj$adj-mf$adj-mf-ND	ron	nocturn	adj-f
 	fra	noeud	n$n-m$n-m-ND	ron	nod	n$n-nt
-RL	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	ron	noi	prn-tn-p1-f
-RL	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	ron	noi	prn-tn-p1-m
-LR	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	ron	noi	prn-tn-p1-GD
+RL	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	ron	noi	prn-tn-p1-f
+RL	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	ron	noi	prn-tn-p1-m
+LR	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	ron	noi	prn-tn-p1-GD
 	fra	foule	n$n-f$n-f-ND	ron	noian	n$n-nt
 	fra	novembre	n$n-m$n-m-sg	ron	noiembrie	n
 RL	fra	sens	n-m-sp$n-m$n	ron	noimă	n-m-pl
@@ -7776,7 +7776,7 @@ LR	fra	non	adv	ron	nu	adv
 	fra	méconnaître	vblex	ron	nu cunoaște	vblex
 	fra	nuancer	vblex	ron	nuanța	vblex
 	fra	nuance	n-f	ron	nuanță	n-m
-	fra	noyer	n-m$n	ron	nuc	n
+	fra	noyer	n-m$n	ron	nuc	n$n-m
 	fra	nucléaire	adj$adj-mf-ND$adj-mf	ron	nuclear	adj$adj-m-pl$
 	fra	noyau	n-m$n$n-m-ND	ron	nucleu	n$n-nt
 LR	fra	noix	n-f$n-f-sp	ron	nucă	n$n-f$n-f-ND
@@ -7995,7 +7995,7 @@ LR	fra	operation	n$n-f$n-f-ND	ron	operație	n$n-f
 RL	fra	opérationnel	adj$adj-GD$$adj-GD-ND	ron	operațional	adj-mf
 	fra	opération	n-f$n$n-f-ND	ron	operațiune	n$n-f
 	fra	oeuvre	n$n-f$n-f-ND	ron	operă	n$n-f
-LR	fra	chantier	n-m$n-m-ND	ron	operă	n$n-f
+LR	fra	chantier	n-m$n-m-sg	ron	operă	n$n-f
 LR	fra	opiner	vblex	ron	opina	vblex
 	fra	penser	vblex	ron	opina	vblex
 	fra	opinion	n$n-f$n-f-ND	ron	opinie	n$n-f
@@ -8050,7 +8050,7 @@ LR	fra	ordinaire	adj$adj-mf$adj-mf-ND	ron	ordinar	adj$$adj-GD
 RL	fra	ordinaire	adj$adj-mf$adj-mf-ND	ron	ordinar	adj-f
 RL	fra	ordinaire	adj$adj-mf$adj-mf-ND	ron	ordinar	adj-m
 	fra	ordre	n-m$n-m-ND	ron	ordine	n-m
-RL	fra	mandat	n-m$n$n-m-ND	ron	ordine	n-f$n
+RL	fra	mandat	n-m$n$n-m-ND	ron	ordine	n-f
 LR	fra	sommer	vblex	ron	ordona	vblex
 LR	fra	ranger	vblex	ron	ordona	vblex
 	fra	ordonner	vblex	ron	ordona	vblex
@@ -8228,7 +8228,7 @@ LR	fra	soulier	n-m$n	ron	pantof	n-m$n
 	fra	pente	n-f	ron	pantă	n-f
 	fra	boucle	n-m	ron	pantă	n-m
 	fra	plume	n-f$n$n-f-ND	ron	pană	n$n-f
-RL	fra	perroquet	n-m$n	ron	papagal	n
+RL	fra	perroquet	n-m$n	ron	papagal	n$n-m
 	fra	chausson	n-m	ron	papuc	n-f
 	fra	pape	n-m$n$n-m-ND	ron	papă	n$n-m
 RL	fra	bâton	n-m$n$n-m-ND	ron	par	n$n-m
@@ -8289,8 +8289,8 @@ RL	fra	parlementaire	n-mf$n$n-mf-ND	ron	parlamentar	n-m
 RL	fra	parlementaire	n-mf$n$n-mf-ND	ron	parlamentar	n-f
 	fra	paroisse	n-f$n$n-f-ND	ron	parohie	n
 	fra	mot	n-m$n$n-m-ND	ron	parolă	n-f$n
-LR	fra	partie	n-f$n$n-f-ND	ron	parte	n$n-f
-	fra	part	n-f$n-f-ND$n	ron	parte	n$n-f
+LR	fra	partie	n-f$n$n-f-ND	ron	parte	n-f$n
+	fra	part	n-f$n-f-ND$n	ron	parte	n-f$n
 LR	fra	partenaire	n-mf$n$n-mf-ND	ron	partener	n$n-GD
 RL	fra	partenaire	n-mf$n$n-mf-ND	ron	partener	n-f
 RL	fra	partenaire	n-mf$n$n-mf-ND	ron	partener	n-m
@@ -9179,9 +9179,9 @@ LR	fra	épreuve	n-f$n$n-f-ND	ron	probă	n$n-f
 	fra	procédure	n-f$n-f-ND	ron	procedeu	n-m
 	fra	diligence	n-f$n	ron	procedură	n$n-f
 	fra	pourcentage	n-m$n$n-m-ND	ron	procent	n-nt$n
-LR	fra	en pourcentage	adj-mf-sp$adj	ron	procentual	adj-mf-ND
-RL	fra	en pourcentage	adj-mf-sp$adj	ron	procentual	adj-mf-sg
-RL	fra	en pourcentage	adj-mf-sp$adj	ron	procentual	adj-mf-pl
+LR	fra	en pourcentage	adj-mf-sp	ron	procentual	adj-mf-ND
+RL	fra	en pourcentage	adj-mf-sp	ron	procentual	adj-mf-sg
+RL	fra	en pourcentage	adj-mf-sp	ron	procentual	adj-mf-pl
 LR	fra	processus	n-m-sp$n-m$n	ron	proces	n-m-ND
 LR	fra	procès	n-m-sp$n-m	ron	proces	n-m-ND
 RL	fra	procès	n-m-sp$n-m	ron	proces	n-m-pl
@@ -9324,7 +9324,7 @@ RL	fra	prothèse	n-f-ND	ron	proteză	n-f-sp$n-f$n
 LR	fra	protocolaire	adj-mf$adj	ron	protocolar	$adj$adj-GD
 RL	fra	protocolaire	adj-mf$adj	ron	protocolar	adj-m
 RL	fra	protocolaire	adj-mf$adj	ron	protocolar	adj-f
-	fra	prototype	n-m$n	ron	prototip	n$n-nt
+	fra	prototype	n-m$n	ron	prototip	n$n-nt$n-nt-ND
 	fra	provenir	vblex	ron	proveni	vblex
 	fra	provenance	n$n-f$n-f-ND	ron	proveniență	n$n-f
 	fra	originaire	adj$adj-mf$adj-mf-ND	ron	provenit	adj$adj-m$
@@ -9412,7 +9412,7 @@ RL	fra	porte-parole	n-mf-sp$n-mf$n	ron	purtător de cuvânt	n-mf-sg
 RL	fra	fort	adj$adj-GD-ND$adj-GD	ron	puternic	adj-mf$$adj
 LR	fra	fort	adj-f$adj-f-sg	ron	puternic	adj-mf$$adj
 LR	fra	fort	adj-m$adj-m-sg	ron	puternic	adj-mf$$adj
-	fra	puzzle	n-m$n	ron	puzzle	n$n-nt
+	fra	puzzle	n-m$n	ron	puzzle	n$n-nt$n-nt-ND
 	fra	fusil	n-m$n$n-m-ND	ron	pușcă	n-f$n
 RL	fra	prisonnier	n$n-m$n-m-ND	ron	pușcăriaș	n
 RL	fra	prison	n-f$n$n-f-ND	ron	pușcărie	n$n-f
@@ -10099,7 +10099,7 @@ LR	fra	fructueux	adj-m-sp$adj	ron	rodnic	adj-m-ND
 RL	fra	fructueux	adj-m-sp$adj	ron	rodnic	adj-m-sg
 RL	fra	fructueux	adj-m-sp$adj	ron	rodnic	adj-m-pl
 	fra	fructueux	adj-f$adj-f-sg	ron	rodnic	$adj$adj-f
-	fra	rôle	n-m$n	ron	rol	n$n-nt
+	fra	rôle	n$n-m	ron	rol	n$n-nt
 	fra	gitan	n$n-m$n-m-ND	ron	rom	n$$n-nt
 	fra	roman	n-m$n$n-m-ND	ron	roman	n-f
 RL	fra	romancier	n-GD$n-GD-ND	ron	romancier	n-mf
@@ -10742,7 +10742,7 @@ RL	fra	sonore	adj-mf$adj$adj-mf-ND	ron	sonor	adj-f
 RL	fra	sonore	adj-mf$adj$adj-mf-ND	ron	sonor	adj-m
 	fra	sonorité	n-f$n	ron	sonoritate	n$n-f
 	fra	sonorisation	n$n-f	ron	sonorizare	n$n-f
-	fra	soprano	n-f$n	ron	sopran	n$n-m
+	fra	soprano	n-f$n	ron	sopran	n-m$n
 	fra	échéance	n-f	ron	soroc	n-m
 	fra	sauce	n-f$n	ron	sos	n$n-nt
 	fra	arrivée	n$n-f$n-f-ND	ron	sosire	n$n-m
@@ -10796,10 +10796,10 @@ LR	fra	épouvanter	vblex	ron	speria	vblex
 LR	fra	faire	vblex	ron	speria	vblex
 	fra	espèce	n-f$n$n-f-ND	ron	speță	n$n-f
 	fra	épine	n$n-f	ron	spin	n-m$n
-LR	fra	espion	n-f	ron	spion	n-mf$n
-LR	fra	espion	n$n-m	ron	spion	n-mf$n
-	fra	barbouze	n$n-mf	ron	spion	n-mf$n
-RL	fra	espion	n-GD	ron	spion	n-mf$n
+LR	fra	espion	n-f	ron	spion	n-mf
+LR	fra	espion	n$n-m	ron	spion	n-mf
+	fra	barbouze	n$n-mf	ron	spion	n-m$n
+RL	fra	espion	n-GD	ron	spion	n-mf
 	fra	épier	vblex	ron	spiona	vblex
 	fra	espionnage	n-m$n	ron	spionaj	n$n-nt
 	fra	espionnage	n-m$n	ron	spionare	n$n-nt
@@ -11222,8 +11222,8 @@ RL	fra	fêter	vblex	ron	sărbători	vblex
 	fra	célébration	n-f$n$n-f-ND	ron	sărbătorire	n$n-f
 	fra	sauter	vblex	ron	sări	vblex
 	fra	saut	n-m$n$n-m-ND	ron	săritură	n-f$n
-LR	fra	baiser	n-m$n$n-m-ND	ron	sărut	n$n-nt
-	fra	bisou	n-m$n$n-m-ND	ron	sărut	n$n-nt
+LR	fra	baiser	n-m$n$n-m-ND	ron	sărut	n-nt$n
+	fra	bisou	n-m$n$n-m-ND	ron	sărut	n-nt$n
 	fra	bisou	n-m$n$n-m-ND	ron	sărutare	n-f$n
 	fra	appauvrir	vblex	ron	sărăci	vblex
 	fra	pauvreté	n-f$n$n-f-ND	ron	sărăcie	n$n-f
@@ -11271,7 +11271,7 @@ RL	fra	tapisserie	n-f$n$n-f-ND	ron	tapiserie	n-m
 	fra	tardif	adj$adj-GD-ND	ron	tardiv	adj$
 	fra	dur	adj$adj-GD-ND	ron	tare	adj-mfn$adj$
 RL	fra	couchette	n-f$n	ron	targă	n$n-f
-	fra	tarif	n-m$n-m-ND	ron	tarif	n-f
+	fra	tarif	n-m$n$n-m-ND	ron	tarif	n-f
 	fra	tare	n-f$n	ron	tară	n$n-f
 RL	fra	taper	vblex	ron	tasta	vblex
 	fra	clavier	n-m$n	ron	tastatură	n-f$n
@@ -11455,7 +11455,7 @@ RL	fra	cliché	n-m$n$n-m-ND	ron	topic	n$n-nt
 RL	fra	gâteau	n-m$n$n-m-ND	ron	tort	n-f
 	fra	torturer	vblex	ron	tortura	vblex
 	fra	torture	n$n-f$n-f-ND	ron	tortură	n$n-f
-	fra	tout	prn-tn-m-sg$prn$prn-tn$prn-tn-m	ron	tot	prn
+	fra	tout	prn$prn-tn-m-sg$prn-tn$prn-tn-m	ron	tot	prn
 	fra	tout	predet$predet-m$predet-m-sg	ron	tot	predet$predet-def$predet-def-mn-sg
 	fra	de plus en plus	adv	ron	tot mai	adv
 RL	fra	total	adj-GD$adj-GD-ND	ron	total	adj-mf$$adj
@@ -11760,9 +11760,9 @@ LR	fra	farcir	vblex	ron	umple	vblex
 	fra	remplir	vblex	ron	umple	vblex
 	fra	farce	n-f$n	ron	umplutură	n-f$n
 	fra	épaule	n-f$n$n-f-ND	ron	umăr	n-m$n
-LR	fra	un	det-ind-mf-pl$det-ind$det	ron	un	det-ind-GD-pl
-RL	fra	un	det-ind-mf-pl$det-ind$det	ron	un	det-ind-f-pl
-RL	fra	un	det-ind-mf-pl$det-ind$det	ron	un	det-ind-m-pl$det$det-ind
+LR	fra	un	det-ind-mf-pl$det-ind$det$det-ind-mf	ron	un	det-ind-GD-pl
+RL	fra	un	det-ind-mf-pl$det-ind$det$det-ind-mf	ron	un	det-ind-f-pl
+RL	fra	un	det-ind-mf-pl$det-ind$det$det-ind-mf	ron	un	det-ind-m-pl$det$det-ind
 	fra	un	det-ind-f-sg	ron	un	det-ind-f-sg
 	fra	un	det-ind-m-sg	ron	un	det-ind-m-sg
 	fra	unanime	adj$adj-mf$adj-mf-ND	ron	unanim	adj$adj-m$
@@ -11887,7 +11887,7 @@ RL	fra	lentement	adv	ron	ușor-ușor	adv
 LR	fra	vacant	adj-m$adj-m-sg	ron	vacant	adj-mf$$adj
 LR	fra	vacant	adj$adj-f$adj-f-sg	ron	vacant	adj-mf$$adj
 RL	fra	vacant	adj-GD$adj-GD-ND	ron	vacant	adj-mf$$adj
-	fra	vacances	n$n-f	ron	vacanță	n-f-pl$n$n-f
+	fra	vacances	n$n-f$n-f-pl	ron	vacanță	n-f-pl$n$n-f
 	fra	vacance	n-f-pl$n-f$n	ron	vacanță	n-f-pl$n$n-f
 	fra	vaccin	n-m	ron	vaccin	n-f
 	fra	vaccination	n-f$n	ron	vaccinare	n$n-f
@@ -12085,7 +12085,7 @@ LR	fra	ruse	n-f$n$n-f-ND	ron	viclenie	n$n-f
 	fra	crue	n-f$n	ron	viitură	n$n-f
 	fra	vent	n$n-m$n-m-ND	ron	vijelie	n-f$n
 	fra	villa	n-f$n$n-f-ND	ron	vilă	n$n-f
-	fra	vin	n$n-m$n-m-ND	ron	vin	n-nt$n
+	fra	vin	n-m$n$n-m-ND	ron	vin	n-nt$n
 LR	fra	débiter	vblex	ron	vinde	vblex
 	fra	vendre	vblex	ron	vinde	vblex
 	fra	soigner	vblex	ron	vindeca	vblex
@@ -12337,9 +12337,9 @@ RL	fra	chaleur	n-f$n$n-f-ND	ron	zăpușeală	n-m
 	fra	le	prn-enc-p3-nt	ron	îl	prn-enc-p3-nt
 	fra	le	prn-pro-p3-f-sg	ron	îl	prn-pro-p3-f$prn-pro-p3-f-sg
 	fra	le	prn-pro-p3-m-sg	ron	îl	prn-pro-p3-m-sg
-LR	fra	le	prn-pro-p3-mf-pl	ron	îl	prn-pro-p3-GD-pl
-RL	fra	le	prn-pro-p3-mf-pl	ron	îl	prn-pro-p3-m-pl
-RL	fra	le	prn-pro-p3-mf-pl	ron	îl	prn-pro-p3-f-pl
+LR	fra	le	prn-pro-p3-mf-pl$prn	ron	îl	prn-pro-p3-GD-pl
+RL	fra	le	prn-pro-p3-mf-pl$prn	ron	îl	prn-pro-p3-m-pl
+RL	fra	le	prn-pro-p3-mf-pl$prn	ron	îl	prn-pro-p3-f-pl
 	fra	le	prn-pro-p3-nt	ron	îl	prn-pro-p3-nt
 	fra	le	prn-enc-p3-f-sg	ron	îl	prn-enc-p3-f$prn-enc-p3-f-sg
 	fra	le	prn-enc-p3-m-sg	ron	îl	prn-enc-p3-m-sg
@@ -12347,7 +12347,7 @@ LR	fra	le	prn-enc-p3-mf-pl$prn-enc	ron	îl	prn-enc-p3-GD-pl
 RL	fra	le	prn-enc-p3-mf-pl$prn-enc	ron	îl	prn-enc-p3-m-pl$prn
 RL	fra	le	prn-enc-p3-mf-pl$prn-enc	ron	îl	prn-enc-p3-f-pl
 	fra	leur	prn-pro-p3-mf-pl$prn-pro	ron	îl	prn-pro-p3-mf-pl
-	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn-pro	ron	îl	prn-pro-p3-mf-sg
+	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn$prn-pro	ron	îl	prn-pro-p3-mf-sg
 	fra	leur	prn-enc-p3-mf-pl$prn-enc	ron	îl	prn-enc-p3-mf-pl
 	fra	lui	prn-enc-p3-mf-sg$prn-enc-p3-mf	ron	îl	prn-enc-p3-mf-sg
 RL	fra	lui	prn-enc-p3-mf-sg$prn-enc-p3-mf	ron	îl	prn-enc-p3-mf-sp

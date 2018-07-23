@@ -1980,12 +1980,12 @@ LR	por	tendo em vista	pr	glg	para	pr
 	por	nosso	det$det-pos-GD-ND$det-pos$det-pos-GD	glg	noso	det-pos$det
 	por	noutro	det-ind	glg	noutro	det-ind
 	por	o	det-def-GD$det$det-def$det-def-GD-ND	glg	o	det-def$det$det-def-m
-	por	o meu	det$det-pos$det-pos-m$det-pos-m-pl	glg	o meu	det-pos$det$det-pos-GD
-	por	o nosso	det$det-pos$det-pos-GD	glg	o noso	det$det-pos$det-pos-GD-ND
+	por	o meu	det$det-pos$det-pos-m	glg	o meu	det-pos$det$det-pos-GD
+	por	o nosso	det$det-pos	glg	o noso	det$det-pos$det-pos-GD-ND
 	por	o seu	det$det-pos-GD$det-pos	glg	o seu	det-pos-GD-ND$det-pos$det-pos-GD
-	por	o teu	det$det-pos$det-pos-m$det-pos-m-pl	glg	o teu	det-pos$det-pos-m$det-pos-m-sg
+	por	o teu	det$det-pos$det-pos-m	glg	o teu	det-pos$det-pos-m$det-pos-m-sg
 	por	outro	det-ind-f-sg$det$det-ind	glg	outro	det-ind$det-ind-m-sg
-	por	o vosso	det$det-pos$det-pos-GD	glg	o voso	det-pos$det-pos-GD-ND
+	por	o vosso	det$det-pos	glg	o voso	det-pos$det-pos-GD-ND
 RL	por	qualquer	det$det-ind-mf$det-ind-mf-ND	glg	calquera	det-ind-mf-sp$det-ind$det-ind-mf
 LR	por	qualquer	det-ind-mf-sg	glg	calquera	det-ind-mf-sp$det-ind$det-ind-mf
 LR	por	qualquer	det-ind-mf-pl	glg	calquera	det-ind-mf-sp$det-ind$det-ind-mf
@@ -2040,14 +2040,14 @@ RL	por	nós	prn-mf	glg	nosoutros	prn-f
 	por	nos	prn-enc$prn-enc-p1-mf-pl	glg	nos	prn-enc
 	por	nosso	prn$prn-tn-pos$prn-tn-pos-f-sg	glg	noso	prn-tn-pos
 	por	noutro	prn-tn	glg	noutro	prn-tn
-	por	o	prn-pro-p3-nt$prn-pro	glg	o	prn-pro$prn-pro-p3-nt
+	por	o	prn-pro-p3-nt$prn$prn-pro	glg	o	prn-pro$prn-pro-p3-nt
 	por	o	prn-enc-p3-nt$prn-enc	glg	o	prn-enc$prn-enc-p3-nt
 	por	o meu	prn$prn-tn-pos	glg	o meu	prn-tn-pos$prn-pos
-	por	o nosso	prn$prn-tn-pos-f-pl$prn-tn-pos	glg	o noso	prn-tn-pos$prn-pos
+	por	o nosso	prn$prn-tn-pos	glg	o noso	prn-tn-pos$prn-pos
 	por	o seu	prn$prn-tn-pos	glg	o seu	prn-tn-pos
 	por	o teu	prn$prn-tn-pos	glg	o teu	prn-tn-pos$prn
 	por	outro	prn$prn-tn$prn-tn-GD-sg	glg	outro	prn-tn$prn-tn-GD-ND
-	por	o vosso	prn$prn-tn-pos-f-pl$prn-tn-pos	glg	o voso	prn-tn-pos$prn-pos
+	por	o vosso	prn$prn-tn-pos	glg	o voso	prn-tn-pos$prn-pos
 	por	pouco	prn$prn-tn$prn-tn-f	glg	pouco	prn-tn
 	por	qual	prn-itg-mf$prn	glg	cal	prn-itg-mf$prn-itg-mf-sg$prn$prn-itg
 	por	quanto	prn$prn-itg$prn-itg-GD-ND	glg	canto	prn-itg$prn-itg-GD-pl
@@ -2255,8 +2255,8 @@ RL	por	é preciso	n	glg	cómpre	n
 	por	absentismo	n$n-m	glg	absentismo	n$n-m
 	por	abstenção	n$n-f$n-f-ND	glg	abstención	n$n-f
 	por	abstenção maciça	n	glg	abstención masiva	n
-LR	por	abstração	n$n-f	glg	abstracción	n
-	por	abstracção	n$n-f	glg	abstracción	n
+LR	por	abstração	n-f$n	glg	abstracción	n
+	por	abstracção	n-f$n	glg	abstracción	n
 	por	abundância	n$n-f	glg	abundancia	n-f$n
 	por	abuso	n$n-m$n-m-ND	glg	abuso	n-m$n
 	por	acampamento	n	glg	acampamento	n
@@ -2287,15 +2287,15 @@ LR	por	acórdão	n-m	glg	sentenza	n-f$n
 	por	acordo	n$n-m$n-m-ND	glg	acordo	n-m$n
 	por	acrónimo	n	glg	acrónimo	n$n-m
 LR	por	acrônimo	n	glg	acrónimo	n$n-m
-	por	acta	n$n-f$n-f-ND	glg	acta	n$n-f$n-f-sg
-LR	por	ata	n$n-f	glg	acta	n$n-f$n-f-sg
+	por	acta	n$n-f-ND	glg	acta	n$n-f$n-f-sg
+LR	por	ata	n	glg	acta	n$n-f$n-f-sg
 	por	activação	n	glg	activación	n$n-f
 	por	actividade	n$n-f-ND	glg	actividade	n$n-f
 LR	por	atividade	n	glg	actividade	n$n-f
 	por	activismo	n	glg	activismo	n$n-m
 LR	por	ativismo	n	glg	activismo	n$n-m
-	por	acto	n$n-m$n-m-ND	glg	acto	n$n-m
-LR	por	ato	n$n-m	glg	acto	n$n-m
+	por	acto	n-m$n$n-m-ND	glg	acto	n$n-m
+LR	por	ato	n-m$n	glg	acto	n$n-m
 	por	actor	n	glg	actor	n$n-m
 LR	por	ator	n	glg	actor	n$n-m
 	por	actriz	n	glg	actriz	n$n-f
@@ -2359,7 +2359,7 @@ LR	por	agrupação	n$n-f	glg	agrupación	n-f$n
 	por	água	n$n-f-ND	glg	auga	n-f$n-f-pl$n
 	por	águia	n	glg	aguia	n-f$n
 	por	agulha	n$n-f	glg	agulla	n$n-f
-	por	a internet	n$n-f	glg	a internet	n
+	por	a internet	n	glg	a internet	n
 	por	ajuda	n-f$n$n-f-ND	glg	axuda	n-f$n
 LR	por	ajustamento	n	glg	axuste	n-m$n
 	por	ajuste	n	glg	axuste	n-m$n
@@ -2379,8 +2379,8 @@ RL	por	álcool	n	glg	alcohol	n$n-m
 RL	por	alegria	n$n-f	glg	ledicia	n$n-f
 	por	Alemanha	n	glg	Alemaña	n
 	por	alemão	n$n-m	glg	alemán	n$n-m
-	por	alento	n$n-m	glg	alento	n$n-m
-RL	por	alento	n$n-m	glg	bafo	n$n-m
+	por	alento	n	glg	alento	n$n-m
+RL	por	alento	n	glg	bafo	n$n-m
 	por	alfa	n$n-f	glg	alfa	n-f$n
 	por	alfândega	n	glg	alfándega	n$n-f-sg
 	por	aliado	n$n-m	glg	aliado	n$n-m
@@ -3287,7 +3287,7 @@ LR	por	conseqüência	n	glg	consecuencia	n$n-f
 	por	consumidor	n$n-m-ND	glg	consumidor	n$n-m
 	por	consumo	n$n-m	glg	consumo	n$n-m
 	por	conta	n-f$n	glg	conta	n$n-f
-	por	conta corrente	n$n-f	glg	conta corrente	n
+	por	conta corrente	n	glg	conta corrente	n
 LR	por	contagem	n-f$n$n-f-ND	glg	conta	n$n-f
 	por	contabilidade	n$n-f-ND	glg	contabilidade	n-f$n
 	por	contacto	n$n-m-ND	glg	contacto	n$n-m
@@ -3677,7 +3677,7 @@ LR	por	diretriz	n	glg	directriz	n$n-f
 	por	distância	n$n-f-ND	glg	distancia	n$n-f
 	por	distintivo	n	glg	distintivo	n
 	por	distracção	n$n-f	glg	distracción	n$n-f
-LR	por	distração	n$n-f	glg	distracción	n$n-f
+LR	por	distração	n-f$n	glg	distracción	n$n-f
 	por	distribuição	n$n-f-ND	glg	distribución	n-f$n
 	por	distrito	n$n-m-ND	glg	distrito	n$n-m
 	por	distúrbio	n	glg	disturbio	n-m$n
@@ -3863,8 +3863,8 @@ RL	por	envolvimento	n-m$n$n-m-ND	glg	implicación	n-f$n
 	por	época	n	glg	época	n$n-f
 	por	equação	n	glg	ecuación	n$n-f
 	por	equilíbrio	n$n-m	glg	equilibrio	n-m$n
-	por	equipa	n-f$n$n-f-ND	glg	equipo	n-m$n
-LR	por	equipe	n-f$n	glg	equipo	n-m$n
+	por	equipa	n-f$n-f-ND	glg	equipo	n-m$n
+LR	por	equipe	n-f	glg	equipo	n-m$n
 	por	equipamento	n$n-m-ND	glg	equipamento	n-m$n
 	por	equiparação	n	glg	equiparación	n$n-f
 	por	equivalência	n	glg	equivalencia	n-f$n
@@ -3948,13 +3948,13 @@ LR	por	esquí	n	glg	esquí	n$n-m
 	por	estação rodoviária	n	glg	estación de autobuses	n
 	por	estacionamento	n	glg	estacionamento	n$n-m
 	por	estada	n	glg	estada	n-f$n
-	por	estadia	n$n-f	glg	estadía	n$n-f
+	por	estadia	n	glg	estadía	n$n-f
 	por	estádio	n$n-m$n-m-ND	glg	estadio	n$n-m
 	por	estado	n$n-m-ND	glg	estado	n-m$n
 	por	Estados Unidos	n	glg	Estados Unidos	n
 	por	Estados Unidos da Ámerica	n	glg	Estados Unidos de Ámerica	n
 	por	estancamento	n	glg	estancamento	n$n-m
-	por	estância	n$n-f	glg	estancia	n$n-f
+	por	estância	n	glg	estancia	n$n-f
 	por	estandarte	n	glg	estandarte	n$n-m
 	por	estatística	n	glg	estatística	n-f$n$n-f-sg
 RL	por	estatística	n	glg	estadística	n
@@ -4195,7 +4195,7 @@ RL	por	floresta	n$n-f$n-f-ND	glg	fraga	n-f$n
 	por	fogueira	n$n-f	glg	fogueira	n$n-f
 	por	foguete	n$n-m	glg	foguete	n$n-m
 LR	por	foice	n	glg	fouce	n$n-f
-	por	fôlego	n$n-m	glg	folgo	n$n-m
+	por	fôlego	n	glg	folgo	n$n-m
 LR	por	folga	n-f	glg	descanso	n-m$n
 	por	folha	n-f$n$n-f-ND	glg	folla	n-f$n
 	por	fome	n$n-f	glg	fame	n-f$n-f-pl$n
@@ -4219,8 +4219,8 @@ LR	por	folga	n-f	glg	descanso	n-m$n
 	por	fotógrafo	n	glg	fotógrafo	n$n-m
 	por	fotojornalismo	n	glg	fotoxornalismo	n
 	por	fouce	n	glg	fouce	n$n-f
-	por	fracção	n$n-f	glg	fracción	n$n-f
-LR	por	fração	n$n-f	glg	fracción	n$n-f
+	por	fracção	n-f$n	glg	fracción	n$n-f
+LR	por	fração	n-f$n	glg	fracción	n$n-f
 LR	por	fracasso	n	glg	fracaso	n$n-m
 	por	fractura	n	glg	fractura	n$n-f
 LR	por	fratura	n	glg	fractura	n$n-f
@@ -4425,7 +4425,7 @@ LR	por	homônimo	n	glg	homónimo	n$n-m
 	por	hora	n$n-f-pl	glg	hora	n-f$n
 	por	horizonte	n	glg	horizonte	n-m$n
 	por	hormona	n-f$n	glg	hormona	n-f$n
-LR	por	hormônio	n-m$n	glg	hormona	n-f$n
+LR	por	hormônio	n-m	glg	hormona	n-f$n
 	por	horror	n$n-m	glg	horror	n$n-m
 	por	hóspede	n-mf$n	glg	hóspede	n-mf$n
 	por	hospedeira	n	glg	azafata	n
@@ -6078,8 +6078,8 @@ RL	por	segurança	n-mf$n	glg	seguridade	n$n-f
 	por	segurança social	n	glg	seguridade social	n
 	por	seio	n$n-m-ND	glg	seo	n-m$n
 	por	seita	n	glg	seita	n$n-f
-	por	selecção	n$n-f$n-f-ND	glg	selección	n$n-f
-LR	por	seleção	n$n-f	glg	selección	n$n-f
+	por	selecção	n$n-f-ND	glg	selección	n$n-f
+LR	por	seleção	n	glg	selección	n$n-f
 	por	seleccionador	n	glg	seleccionador	n$n-m
 LR	por	selecionador	n	glg	seleccionador	n$n-m
 	por	selector	n	glg	selector	n
@@ -6113,8 +6113,8 @@ LR	por	senha	n-f$n	glg	sinal	n-m$n
 LR	por	seqüência	n	glg	secuencia	n$n-f
 	por	sequestrador	n	glg	secuestrador	n$n-GD
 LR	por	seqüestrador	n	glg	secuestrador	n$n-GD
-	por	sequestro	n$n-m	glg	secuestro	n$n-m
-LR	por	seqüestro	n$n-m	glg	secuestro	n$n-m
+	por	sequestro	n	glg	secuestro	n$n-m
+LR	por	seqüestro	n	glg	secuestro	n$n-m
 	por	séquito	n	glg	séquito	n-m$n
 	por	ser	n$n-m	glg	ser	n-m$n
 	por	série	n$n-f-ND	glg	serie	n-f$n
@@ -9461,7 +9461,7 @@ RL	por	que	cnjsub	glg	ca	cnjsub
 	por	como	rel	glg	como	rel$rel-adv
 	por	cujo	rel-aa$rel-aa-m-sg$rel	glg	cuxo	rel$rel-nn
 	por	onde	rel	glg	onde	rel-adv$rel
-	por	o qual	rel$rel-an$rel-an-m	glg	o cal	rel-an
+	por	o qual	rel$rel-an	glg	o cal	rel-an
 	por	quando	rel	glg	cando	rel$rel-adv
 	por	quanto	rel-nn$rel$rel-nn-GD-ND	glg	canto	rel$rel-nn$rel-nn-f-pl
 	por	que	rel$rel-an-mf-sp$rel-an-mf-sp-m-sg$rel-an	glg	que	rel$rel-an

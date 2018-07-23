@@ -16,7 +16,7 @@ LR	hat	an	det-ind	eng	a	det-ind-sg$det-ind$det$
 	hat	lòt	det-ind	eng	other	det-ind-pl$det-ind$det$det-ind-mf-pl
 	hat	menm	det-ind	eng	the same	det$det-ind-sp$det-ind
 	hat	anpil	det-qnt	eng	a lot of	det-qnt-sp$det$det-qnt
-	hat	kèk	det-qnt	eng	a few	det-qnt-pl$det$det-qnt
+	hat	kèk	det-qnt	eng	a few	det$det-qnt$det-qnt-pl
 	hat	kont	det-qnt	eng	enough	det-qnt-sp$det-qnt$det
 	hat	sa	det-dem	eng	this	det-dem$det$det-dem-sg
 LR	hat	yo	postdet-def-pl	eng	the	det$det-def-sp$det-def
@@ -215,7 +215,7 @@ RL	hat	syèl	n	eng	heaven	n$n-ND
 	hat	anatomi	n	eng	anatomy	n$n-sg
 	hat	obsèvasyon	n	eng	observation	n$n-ND
 	hat	eksperyans	n	eng	experience	n$n-ND
-	hat	grip	n	eng	flu	n$n-ND
+	hat	grip	n	eng	flu	n$n-sg
 RL	hat	grip	n	eng	influenza	n
 	hat	grip pòsin	n	eng	swine flu	n
 	hat	viris	n	eng	virus	n$n-ND
@@ -1231,8 +1231,8 @@ RL	hat	ansyen	adj	eng	former	adj
 	hat	Edenn	np-top	eng	Eden	np-top-sg$np-top
 	hat	Giyon	np-top	eng	Gihon	np-top-sg
 	hat	Pòtoprens	np-top	eng	Port-au-Prince	np-top$np$np-top-sg
-	hat	Oseyan Atlantik	np-top	eng	Atlantic Ocean	np$np-top-m-sg$np-top-sg
-	hat	Atlantik	np-top	eng	Atlantic	np$np-top-sg$np-top
+	hat	Oseyan Atlantik	np-top	eng	Atlantic Ocean	np-top-sg
+	hat	Atlantik	np-top	eng	Atlantic	np$np-top-sg$np-top-m-sg$np-top
 	hat	Repiblik d Ayiti	np-top	eng	Republic of Haiti	np-top-sg
 	hat	Sodòm	np-top	eng	Sodom	np$np-top-sg
 	hat	Damas	np-top	eng	Damascus	np-top-sg$np-top
@@ -1261,14 +1261,14 @@ RL	hat	ansyen	adj	eng	former	adj
 	hat	Kedòlaòmè	np	eng	Chedorlaomer	np
 	hat	Adan	np	eng	Adam	np$np-ant$np-ant-m$np-ant-m-sg$
 	hat	Pyè	np	eng	Pyè	np
-	hat	Pierre	np	eng	Pierre	np-ant$np$np-ant-m-sg$np-ant-m
-	hat	Jan	np	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg
+	hat	Pierre	np	eng	Pierre	np-ant$np-ant-m-sg$np$np-ant-m
+	hat	Jan	np	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m
 	hat	Ev	np	eng	Eve	np-ant$np$np-ant-f-sg$np-ant-f
 	hat	Chifra	np	eng	Shiphrah	np
 	hat	Woz	np	eng	Woz	np
 	hat	Mari	np	eng	Mari	np-ant$np-ant-f-sg$np$np-ant-f
 	hat	Pwa	np	eng	Puah	np
-	hat	George W. Bush	np	eng	George W. Bush	np$np-ant$np-ant-m-sg
+	hat	George W. Bush	np	eng	George W. Bush	np$np-ant
 	hat	Obama	np-cog-mf	eng	Obama	np-cog-sg$np-cog$np$
 	hat	Marino	np-cog-mf	eng	Marino	np-cog
 	hat	Gates	np-cog-mf	eng	Gates	np-cog$np-cog-sg$np$
@@ -1487,7 +1487,7 @@ RL	hat	bò	pr	eng	by	pr
 	hat	akoz	pr	eng	because of	pr
 	hat	pandan	pr	eng	during	pr
 LR	hat	ak	pr	eng	with	pr$
-	hat	d	pr	eng	of	pr
+	hat	d	pr	eng	of	pr$
 RL	hat	pou	pr	eng	in order to	pr
 	hat	pou	pr	eng	for	pr
 	hat	sou	pr	eng	under	pr

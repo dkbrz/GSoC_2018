@@ -516,7 +516,7 @@ RL	qve	ataw	n	spa	dicha	n-f$n
 	qve	kirun	n	spa	diente	n-m$n$n-m-sg
 	qve	sasachaku	n	spa	dificultad	n$n-f$n-f-sg
 	qve	qullana	n	spa	dignidad	n-f$n$n-f-sg
-	qve	qulqi	n	spa	dinero	n-m-sg$n-m$n
+	qve	qulqi	n	spa	dinero	n-m-sg$n$n-m
 LR	qve	Dyus	n	spa	Dios	n-m$n-m-sg
 LR	qve	Yus	n	spa	Dios	n-m$n-m-sg
 RL	qve	apu	n$n-m	spa	Dios cerro	n
@@ -621,7 +621,7 @@ RL	qve	aka	n	spa	excremento	n-m$n
 	qve	patan	n	spa	extremo	n$n-m$n-m-sg
 	qve	alqa	n	spa	fallo	n-m$n$n-m-sg
 	qve	panta	n	spa	falta	n$n-f$n-f-ND
-	qve	ayllu	n	spa	familia	n-f$n$n-f-sg
+	qve	ayllu	n	spa	familia	n$n-f$n-f-sg
 	qve	hampiyuq wasi	n	spa	farmacia	n-f$n$n-f-sg
 RL	qve	kusi	n	spa	felicidad	n-f$n$n-f-ND
 	qve	sami	n	spa	felicidad	n-f$n$n-f-ND
@@ -652,9 +652,9 @@ RL	qve	tapaw	n	spa	fortuna	n$n-f$n-f-ND
 	qve	pallar	n	spa	frijol	n-m
 	qve	purutu	n	spa	frijol	n-m
 	qve	chiri	n	spa	frío	n-m$n$n-m-sg
-LR	qve	kawsay	n	spa	fruto	n$n-m$n-m-ND
-	qve	ruru	n	spa	fruto	n$n-m$n-m-ND
-	qve	ruru	n	spa	fruto	n$n-m$n-m-ND
+LR	qve	kawsay	n	spa	fruto	n$n-m$n-m-sg
+	qve	ruru	n	spa	fruto	n$n-m$n-m-sg
+	qve	ruru	n	spa	fruto	n$n-m$n-m-sg
 	qve	nina	n	spa	fuego	n$n-m$n-m-sg
 	qve	pukyu	n	spa	fuente	n$n-f$n-f-sg
 	qve	kallpa	n	spa	fuerza	n-f$n$n-f-sg
@@ -732,8 +732,8 @@ LR	qve	pana-tura	n	spa	hermano	n-m-pl
 	qve	kuraq	n	spa	hermano mayor	n
 	qve	qasa	n	spa	hielo	n$n-m$n-m-ND
 RL	qve	rit'i 	n	spa	hielo	n$n-m$n-m-ND
-	qve	asnapa	n	spa	hierba	n-f$n$n-f-ND
-	qve	qura	n	spa	hierba	n-f$n$n-f-ND
+	qve	asnapa	n	spa	hierba	n-f$n$n-f-sg
+	qve	qura	n	spa	hierba	n-f$n$n-f-sg
 	qve	kukupin	n	spa	hígado	n$n-m$n-m-ND
 	qve	wawa	n	spa	hijo	n$n-f$n-f-ND
 	qve	q'aytu	n	spa	hilo	n$n-m$n-m-ND
@@ -937,9 +937,9 @@ LR	qve	chuqllu	n	spa	maíz	n-m$n$n-m-sg
 	qve	mut'i	n	spa	maíz	n-m$n$n-m-sg
 	qve	sara hank'a	n	spa	maíz	n-m$n$n-m-sg
 	qve	apu kay	n	spa	majestad	n$n-f
-LR	qve	suruchi	n	spa	mal	n$n-m$n-m-ND
-LR	qve	suruqch'i	n	spa	mal	n$n-m$n-m-ND
-	qve	suruqchi	n	spa	mal	n$n-m$n-m-ND
+LR	qve	suruchi	n	spa	mal	n-m$n$n-m-ND
+LR	qve	suruqch'i	n	spa	mal	n-m$n$n-m-ND
+	qve	suruqchi	n	spa	mal	n-m$n$n-m-ND
 LR	qve	chukchu	n	spa	malaria	n$n-f$n-f-sg
 	qve	chukchu	n	spa	malaria	n$n-f$n-f-sg
 	qve	ñuñu	n	spa	mama	n$n-f$n-f-ND
@@ -1027,7 +1027,7 @@ LR	qve	raki	n	spa	mitad	n$n-f$n-f-sg
 	qve	makisapa	n	spa	mono	n-m$n$n-m-sg
 	qve	sach'a sach'a	n	spa	montaña	n-f$n$n-f-sg
 RL	qve	urqu	n$n-m	spa	montaña	n-f$n$n-f-sg
-	qve	sach'a sach'a	n	spa	monte	n-m$n
+	qve	sach'a sach'a	n	spa	monte	n$n-m
 	qve	qutu	n	spa	montón	n-m$n-m-ND$n
 	qve	tawqa	n	spa	montón	n-m$n-m-ND$n
 RL	qve	wanki	n	spa	monumento	n$n-m$n-m-sg
@@ -1257,7 +1257,7 @@ RL	qve	wank'a	n	spa	peñasco	n$n-m
 	qve	qilla	n	spa	pereza	n$n-f
 RL	qve	mit'a	n	spa	período	n$n-m$$n-m-sg
 	qve	alqu	n	spa	perro	n$n-m$n-m-sg
-	qve	runa	n	spa	persona	n-f$n$n-f-sg
+	qve	runa	n	spa	persona	n$n-f$n-f-sg
 	qve	challwa	n	spa	pescado	n$n-m$n-m-sg
 	qve	challwaq	n	spa	pescador	n$n-m$n-m-sg
 	qve	qhichipra	n	spa	pestaña	n$n-f$n-f-sg
@@ -1282,7 +1282,7 @@ RL	qve	pikchu	n	spa	pirámide	n$n-f$n-f-sg
 	qve	kusi	n	spa	placer	n-m$n$n-m-ND
 	qve	tiqsi muyu	n	spa	planeta	n-m$n$n-m-ND
 	qve	kay pacha	n	spa	planeta tierra	n
-	qve	p'alta	n	spa	plano	n-m$n$n-m-sg
+	qve	p'alta	n	spa	plano	n$n-m$n-m-sg
 RL	qve	qura	n	spa	planta	n$n-f$n-f-ND
 	qve	yura	n	spa	planta	n$n-f$n-f-ND
 	qve	k'ayu	n	spa	planta para escoba	n
@@ -1398,7 +1398,7 @@ LR	qve	kinwa	n	spa	quinua	n-f
 	qve	illapa	n	spa	relámpago	n$n-m
 	qve	rakiq	n	spa	repartidor	n$n-m$n-m-pl
 RL	qve	puqu	n	spa	requezón	n
-RL	qve	uywa	n	spa	res	n-f$n$n-f-ND
+RL	qve	uywa	n	spa	res	n$n-f$n-f-ND
 	qve	kutichiku	n	spa	respuesta	n-f$n-f-sg$n
 	qve	mikhuna wasi	n	spa	restaurante	n$n-m$n-m-sg
 	qve	puchu	n	spa	resto	n-m$n$n-m-pl
@@ -1807,7 +1807,7 @@ LR	qve	ñawpa paya	n-f	spa	suegra	n$n-f
 	qve	tiya	n	spa	tía	n$n-f$n-f-sg
 	qve	ipa	n-f	spa	tío	n-f
 	qve	paya	n-f	spa	viejo	n$n-f
-	qve	mamacha	n-f	spa	Virgen	n-f
+	qve	mamacha	n-f	spa	Virgen	n-f$n
 	qve	qachun	n-f	spa	yerna	n
 	qve	alcalde	n	spa	alcalde	n$n-m$n-m-sg
 	qve	birrete	n	spa	birrete	n-m$n
@@ -3335,17 +3335,17 @@ LR	qve	may chikan	det-qnt	spa	tanto	det-qnt$det-qnt-GD
 LR	qve	chhika	det-qnt	spa	un poco de	det-qnt-mf-sp
 LR	qve	chhikan	det-qnt	spa	un poco de	det-qnt-mf-sp
 LR	qve	tunpa	det-qnt	spa	un poco de	det-qnt-mf-sp
-	qve	hayk'apas	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
-	qve	imapas	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
-LR	qve	imaynapas	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
-LR	qve	maypas	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
-LR	qve	pipas	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+	qve	hayk'apas	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
+	qve	imapas	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
+LR	qve	imaynapas	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
+LR	qve	maypas	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
+LR	qve	pipas	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
 RL	qve	wakillan	det-ind	spa	alguno	det-ind-f-pl$det-ind-f
 RL	qve	wakillan	det-ind	spa	alguno	det-ind-m-pl$det-ind-m
-LR	qve	wakillan	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+LR	qve	wakillan	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
 RL	qve	wakin	det-ind	spa	alguno	det-ind-f-pl$det-ind-f
 RL	qve	wakin	det-ind	spa	alguno	det-ind-m-pl$det-ind-m
-LR	qve	wakin	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+LR	qve	wakin	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
 LR	qve	pasaq	det-ind	spa	cada	det-ind-mf-sp$det-mf
 	qve	sapa	det-ind	spa	cada	det$det-ind$det-ind-mf$det-ind-mf-sg
 LR	qve	sapanka	det-ind	spa	cada	det$det-ind$det-ind-mf$det-ind-mf-sg
@@ -3372,7 +3372,7 @@ LR	qve	lliw	det-ind	spa	todo	predet$predet-ind-GD
 LR	qve	q'ala	det-ind	spa	todo	predet$predet-ind-GD
 	qve	tukuy	det-ind	spa	todo	predet$predet-ind-GD
 	qve	llapa	det-ind	spa	universal	det
-LR	qve	hayk'apas	det-ind	spa	uno	det-ind$det$det-ind-m-sg$det-ind-m
+LR	qve	hayk'apas	det-ind	spa	uno	det$det-ind$det-ind-m-sg$det-ind-m
 RL	qve	wakillan	det-ind	spa	uno	det-ind-f-pl$det-ind-f
 RL	qve	wakillan	det-ind	spa	uno	det-ind-m-pl
 RL	qve	wakillan	det-ind	spa	unos cuantos	det$det-qnt-m-pl
@@ -3480,7 +3480,7 @@ LR	qve	qhipakaq	num-ord	spa	último	det$det-ord$det-ord-GD-ND
 	qve	qipa kaq	num-ord	spa	último	det$det-ord$det-ord-GD-ND
 LR	qve	qipakaq	num-ord	spa	último	det$det-ord$det-ord-GD-ND
 	qve	huk	num$num-ord-poss$num-ord	spa	undécimo	det-ord$det-ord-GD-ND$det
-	qve	huk	num$num-ord-poss$num-ord	spa	uno	det-ind$det$det-ind-m-sg$det-ind-m
+	qve	huk	num$num-ord-poss$num-ord	spa	uno	det$det-ind$det-ind-m-sg$det-ind-m
 RL	qve	huk	num$num-ord-poss$num-ord	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg
 	qve	huk huk	numM	spa	uno en uno	num
 	qve	as	preadj	spa	algo	preadv

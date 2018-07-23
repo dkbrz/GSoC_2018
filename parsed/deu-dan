@@ -2101,7 +2101,7 @@ RL	deu	Mohr	n-m	dan	mor	n-ut
 	deu	gegen	pr$pr-acc	dan	mod	pr
 	deu	gegenüber	pr$pr-dat	dan	overfor	pr
 	deu	hinter	pr$pr-dat	dan	bag	pr
-	deu	in	pr$pr-acc	dan	i	pr$
+	deu	in	pr$pr-acc	dan	i	pr
 	deu	infolge	pr$pr-gen	dan	ifølge	pr
 	deu	innen	pr	dan	inden	pr
 	deu	innerhalb	pr$pr-gen	dan	inde fra	pr
@@ -2179,11 +2179,11 @@ RL	deu	Mohr	n-m	dan	mor	n-ut
 	deu	ihr	prn$prn-pers-p2-mf-pl$prn-pers-p2-mf-pl-acc	dan	I	prn
 	deu	jemand	prn	dan	nogen	prn-ind$prn
 	deu	man	prn$prn-ind-p3-mf$prn-ind-p3-mf-sg-nom	dan	man	$prn$prn-pers$prn-pers-p3
-	deu	sich	prn$prn-ref$prn-ref-p3-mf-sp	dan	sig	prn$
+	deu	sich	prn$prn-ref$prn-ref-p3-mf-sp	dan	sig	prn$prn-ref$
 	deu	sie	prn$prn-pers-p3-mf-pl$prn-pers-p3-mf-pl-acc$prn-pers-p3	dan	hun	prn-pers-p3-f$prn-pers-p3
 	deu	was	prn$prn-itg-mf	dan	hvad	prn-itg$prn
 	deu	wir	prn$prn-pers-p2-mf-pl	dan	vi	$prn$prn-pers-p1
-	deu	sie	prn$prn-pers-p3-mf-pl$prn-pers-p3-mf-pl-acc$prn-pers-p3	dan	de	prn-pers-p3$$prn
+	deu	sie	prn$prn-pers-p3-mf-pl$prn-pers-p3-mf-pl-acc$prn-pers-p3	dan	de	prn-pers-p3$prn
 	deu	alle	det$det-ind$det-ind-f	dan	hver	det-ind$det
 	deu	ander	det$det-ind-GD	dan	anden	$det-dem$det
 	deu	beide	det$det-ind$det-ind-f	dan	begge	det-qnt$$det
@@ -2193,7 +2193,7 @@ RL	deu	Mohr	n-m	dan	mor	n-ut
 	deu	jede	det$det-ind$det-ind-f	dan	hver	det-ind$det
 	deu	kein	det$det-ind-f	dan	ingen	det$det-qnt
 	deu	mein	det-pos$det-pos-m$det	dan	min	$det
-	deu	sein	det-pos$det$det-pos-nt	dan	sin	$det
+	deu	sein	det-pos$det$det-pos-nt	dan	sin	det
 	deu	aber	cnjcoo	dan	men	cnjcoo$cnjcoo-clb
 	deu	oder	cnjcoo	dan	eller	cnjcoo
 	deu	ohne	cnjcoo	dan	uden	cnjcoo
@@ -2289,16 +2289,16 @@ RL	deu	Mohr	n-m	dan	mor	n-ut
 	deu	früher	adv	dan	tidligere	adv
 	deu	ganz	adv	dan	helt	adv
 	deu	gegebenenfalls	adv	dan	eventuelt	adv
-	deu	gemeinsam	adv	dan	fælles	$adv
+	deu	gemeinsam	adv	dan	fælles	adv
 	deu	genau	adv	dan	nöie	adv
 	deu	genauso	adv	dan	lige så	adv
 	deu	genetisch	adv	dan	genetisk	$adv
-	deu	gerade	adv	dan	lige	adv$
+	deu	gerade	adv	dan	lige	$adv
 	deu	gesetzlich	adv	dan	lovlig	adv
 	deu	gestern	adv	dan	i går	adv
 	deu	gestern	adv	dan	i går	adv
 	deu	gewöhnlich	adv	dan	almindelig	$adv
-	deu	gleich	adv	dan	lige	adv$
+	deu	gleich	adv	dan	lige	$adv
 	deu	gleichermaßen	adv	dan	lige meget	adv
 	deu	glücklich	adv	dan	lykkelig	$adv
 	deu	glücklicherweise	adv	dan	lykkeligvis	adv
@@ -2654,7 +2654,7 @@ RL	deu	Mohr	n-m	dan	mor	n-ut
 	deu	nachgiebig	adj$adj-sint	dan	eftergiven	adj
 	deu	nachhaltig	adj$adj-sint	dan		adj
 	deu	nackt	adj$adj-sint	dan	nøgen	$adj
-	deu	nah	adj-sint$adj	dan	tæt	$adj
+	deu	nah	adj-sint$adj	dan	tæt	adj
 	deu	nass	adj$adj-sint	dan	våd	$adj
 	deu	natur	adj$adj-sint	dan	natur	adj
 	deu	neu	adj-sint$adj	dan	ny	$adj
@@ -2687,10 +2687,10 @@ RL	deu	Mohr	n-m	dan	mor	n-ut
 	deu	rechteckig	adj$adj-sint	dan	rektangulær	adj
 	deu	rechts	adj-sint$adj	dan	højre	adj
 	deu	religiös	adj$adj-sint	dan	religiøs	$adj
-	deu	richtig	adj-sint$adj	dan	rigtig	$adj
+	deu	richtig	adj-sint$adj	dan	rigtig	adj
 	deu	riesig	adj$adj-sint	dan	kæmpestor	adj
 	deu	rosa	adj-sint$adj	dan	rosa	adj
-	deu	rot	adj$adj-sint	dan	rød	$adj
+	deu	rot	adj$adj-sint	dan	rød	adj
 	deu	rund	adj$adj-sint	dan	rund	adj
 	deu	satt	adj$adj-sint	dan	mæt	$adj
 	deu	schal	adj$adj-sint	dan	doven	$adj
@@ -6535,7 +6535,7 @@ RL	deu	Mohr	n-m	dan	mor	n-ut
 	deu	deuten	vblex$vblex-sep-fm	dan	tyde	$vblex
 	deu	Diagnose	n-f$n	dan	diagnose	n-ut
 	deu	Diana	np$np-ant	dan	Diana	np
-	deu	dicht	adj$adj-sint	dan	tæt	$adj
+	deu	dicht	adj$adj-sint	dan	tæt	adj
 	deu	Dichtung	n-f$n	dan	digtning	n-ut
 	deu	dienen	vblex	dan	tjene	$vblex
 	deu	Dienst	n-m$n	dan	tjeneste	n-ut
@@ -6586,7 +6586,7 @@ RL	deu	Mohr	n-m	dan	mor	n-ut
 	deu	Dynamik	n-f$n	dan	dynamik	n-ut
 	deu	Düsseldorf	np	dan	Düsseldorf	np
 	deu	eben	adj$adj-sint	dan	jævn	$adj
-	deu	eben	adv	dan	lige	adv$
+	deu	eben	adv	dan	lige	$adv
 	deu	ebenso	adv	dan	jævnligt	adv
 	deu	Edith	np$np-ant	dan	Edith	np
 	deu	Effekt	n-m$n	dan	effekt"	ut
@@ -8060,7 +8060,7 @@ RL	deu	Mohr	n-m	dan	mor	n-ut
 	deu	Verzweiflung	n-f	dan	fortvivlelse	n-ut
 	deu	Veto	n-nt	dan	veto	n-nt
 	deu	Video	n-nt$n	dan	video	n-nt
-	deu	viele	det$det-qnt	dan	mange	$det$det-qnt-un-pl
+	deu	viele	det$det-qnt	dan	mange	det$det-qnt-un-pl
 	deu	Vielfalt	n-f	dan	mangfoldighed	n-ut
 	deu	Viertel	n-nt$n	dan	kvarter	n-nt
 	deu	Viertelfinale	n-nt	dan	kvartfinale	n-ut

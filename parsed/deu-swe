@@ -998,10 +998,10 @@
 	deu	Afrika	np$np-nt	swe	Afrika	np-top-nt$np
 	deu	Amerika	np$np-nt	swe	Amerika	np-top-nt$np
 	deu	Afghanistan	np$np-nt	swe	Afghanistan	np-top-nt$np
-	deu	Andorra	np$np-nt	swe	Andorra	np-top-nt$np
+	deu	Andorra	np$np-nt	swe	Andorra	np-top-nt$np$np-top
 	deu	Angola	np$np-nt	swe	Angola	np-top-nt$np
 	deu	Australien	np$np-nt	swe	Australien	np-top-nt$np
-	deu	Argentinien	np$np-nt	swe	Argentina	np-top-nt$np
+	deu	Argentinien	np$np-nt	swe	Argentina	np-top-nt$np$np-top
 	deu	Bolivien	np$np-nt	swe	Bolivia	np-top-nt$np
 	deu	Bulgarien	np$np-nt	swe	Bulgarien	np-top-nt$np
 	deu	Chile	np$np-nt	swe	Chile	np-top-nt$np
@@ -1018,7 +1018,7 @@
 	deu	Liberia	np$np-nt	swe	Liberia	np-top-nt$np
 	deu	Luxemburg	np-nt	swe	Luxemburg	np-top-nt$np
 	deu	Madagaskar	np$np-nt	swe	Madagaskar	np-top-nt$np
-	deu	Malaysia	np$np-nt	swe	Malaysia	np-top-nt$np
+	deu	Malaysia	np$np-nt	swe	Malaysia	np-top$np-top-nt$np
 	deu	Monaco	np$np-nt	swe	Monaco	np-top-nt$np
 	deu	Mongolei	np$np-nt	swe	Mongoliet	np-top-nt$np
 	deu	Montenegro	np$np-nt	swe	Montenegro	np-top-nt$np
@@ -1905,7 +1905,7 @@
 	deu	Abfindung	n-f	swe	avgångsvederlag	n-nt
 	deu	Abfluss	n-m$n	swe	utflöde	n-nt
 	deu	Abfolge	n-f	swe	ordningsföljd	n-ut
-	deu	Abfrage	n-f$n	swe	fråga	n-ut$
+	deu	Abfrage	n-f$n	swe	fråga	$n-ut
 	deu	Abführmittel	n-nt	swe	laxativ	n-nt
 	deu	Abgang	n-m	swe	nedfart	n-ut
 	deu	Abgeordnetenhaus	n-nt	swe	parlament	n-nt
@@ -2465,7 +2465,7 @@
 	deu	Autowerkstatt	n-f	swe	bilverkstad	n-ut
 	deu	Avantgarde	n-f$n	swe	avantgarde	n-nt
 	deu	Axiom	n-nt$n	swe	axiom	n-nt
-	deu	Axt	n-f$n	swe	yxa	n-ut
+	deu	Axt	n-f$n	swe	yxa	$n-ut
 	deu	Azteke	n-m$n	swe	aztek	n-ut
 	deu	Azubi	n-m	swe	lärling	n-ut
 	deu	Babysitter	n-m	swe	babysitter	n-ut
@@ -4122,7 +4122,7 @@
 	deu	Falke	n-m$n	swe	falk	n-ut
 	deu	Fall	n-m$n	swe	fall	n-nt
 	deu	Fallbeil	n-nt$n	swe	fallbila	n-ut
-	deu	Falle	n-f$n	swe	fälla	n-ut$
+	deu	Falle	n-f$n	swe	fälla	$n-ut
 	deu	Fälligkeit	n-f	swe	förfall	n-nt
 	deu	Fallobst	n-nt	swe	fallfrukt	n-ut
 	deu	Fallschirm	n-m$n	swe	fallskärm	n-ut
@@ -14526,7 +14526,7 @@
 	deu	scharren	vblex	swe	sprätta	$vblex
 	deu	schätzen	vblex$vblex-sep-fm	swe	värdera	$vblex
 	deu	schaukeln	vblex	swe	guppa	vblex
-	deu	scheiden	vblex$vblex-sep-fm	swe	skilja	$vblex
+	deu	scheiden	vblex$vblex-sep-fm	swe	skilja	$vblex$vblex-inf-actv
 	deu	scheitern	vblex	swe	misslyckas	vblex$$vblex-pasv
 	deu	schelten	vblex	swe	skälla ut	vblex
 	deu	schenken	vblex$vblex-sep-fm	swe	skänka	$vblex
@@ -14746,7 +14746,7 @@
 	deu	träumen	vblex	swe	drömma	$vblex
 	deu	treffen	vblex$vblex-sep-fm	swe	möta	$vblex
 	deu	treiben	vblex$vblex-sep-fm	swe	driva	vblex
-	deu	trennen	vblex	swe	skilja	$vblex
+	deu	trennen	vblex	swe	skilja	$vblex$vblex-inf-actv
 	deu	treten	vblex$vblex-sep-fm	swe	trampa	vblex
 	deu	triefen	vblex	swe	drypa	$vblex
 	deu	trinken	vblex$vblex-sep-fm	swe	dricka	vblex
@@ -14815,7 +14815,7 @@
 	deu	untermauern	vblex	swe	underbygga	$vblex
 	deu	unterrichten	vblex	swe	undervisa	$vblex
 	deu	unterschätzen	vblex	swe	underskatta	$vblex
-	deu	unterscheiden	vblex	swe	skilja	$vblex
+	deu	unterscheiden	vblex	swe	skilja	$vblex$vblex-inf-actv
 	deu	unterschreiben	vblex	swe	skriva under	vblex
 	deu	unterstellen	vblex	swe	tillskriva	vblex
 	deu	unterstreichen	vblex	swe	understryka	$vblex

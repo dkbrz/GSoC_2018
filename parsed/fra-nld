@@ -3,7 +3,7 @@
 	fra	la	det	nld	de	det$det-def
 	fra	la	det	nld	het	det$det-def
 	fra	les	det	nld	de	det$det-def
-	fra	un	det-ind-mf-pl$det-ind$det	nld	een	det-ind$det
+	fra	un	det-ind-mf-pl$det-ind$det$det-ind-mf	nld	een	det-ind$det
 	fra	une	det-ind	nld	een	det-ind$det
 	fra	des	det	nld		det
 	fra	die	det-dem	nld	ce	det-dem
@@ -68,7 +68,7 @@
 	fra	tu	prn$prn-tn-p2-mf-sg$prn-tn$prn-tn-p2	nld	je	prn
 	fra	il	prn$prn-tn-p3-m-sg$prn-tn$prn-tn-p3	nld	hij	prn
 	fra	elle	prn-enc$prn	nld	ze	prn
-	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	nld	we	prn
+	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	nld	we	prn
 	fra	vous	prn-tn-p2-mf-pl$prn$prn-tn-p2-mf$prn-tn$prn-tn-p2	nld	jullie	prn
 	fra	vous	prn-tn-p2-mf-pl$prn$prn-tn-p2-mf$prn-tn$prn-tn-p2	nld	u	prn
 	fra	ils	prn-enc$prn	nld	ze	prn
@@ -182,7 +182,7 @@
 	fra	figure	n-f$n$n-f-ND	nld	figuur	n$n-nt
 	fra	endroit	n-m$n$n-m-ND	nld	plaats	n-mf$n
 	fra	personne	n$n-f$n-f-ND	nld	mens	n$n-nt
-	fra	être humain	n-m$n	nld	mens	n$n-nt
+	fra	être humain	n$n-m	nld	mens	n$n-nt
 	fra	personne	n$n-f$n-f-ND	nld	mens	n$n-nt
 	fra	réussite	n-f$n$n-f-ND	nld	succes	n$n-nt
 	fra	début	n$n-m$n-m-ND	nld	begin	n-nt$n
@@ -466,7 +466,7 @@
 	fra	astronome	n-mf$n	nld	astronoom	n-m$n
 	fra	atelier	n-m$n$n-m-ND	nld	atelier	n$n-nt
 	fra	athlète	n$n-mf	nld	atletiek	n$n-f
-	fra	athlétisme	n-m$n	nld	atletisme	n
+	fra	athlétisme	n-m$n$n-m-sg	nld	atletisme	n
 	fra	bon	n$n-m$n-m-ND	nld	bon	n
 	fra	atmosphère	n-f$n$n-f-ND	nld	atmosfeer	n-mf$n
 	fra	attention	n-f$n$n-f-ND	nld	aandacht	n-mf$n
@@ -519,7 +519,7 @@
 	fra	blanc	n-m$n$n-m-ND	nld	wit	n$n-nt
 	fra	blessure	n-f$n$n-f-ND	nld	blessure	n$n-f
 	fra	bleu	n-m$n	nld	blauw	n-nt$n
-	fra	blé	n$n-m$n-m-ND	nld	tarwe	n$n-m
+	fra	blé	n-m$n$n-m-ND	nld	tarwe	n$n-m
 	fra	bois	n-m-sp$n-m$n	nld	hout	n-nt$n
 	fra	bonjour	n-m$n	nld	goedemorgen	n
 	fra	bonnet	n-m$n	nld	muts	n
@@ -994,7 +994,7 @@
 	fra	intelligence	n-f$n$n-f-ND	nld	intelligentie	n$n-f
 	fra	interprétation	n$n-f$n-f-ND	nld	interpretatie	n$n-f
 	fra	intervalle	n-m$n	nld	interval	n
-	fra	intégration	n-m$n$n-m-ND	nld	integratie	n-f$n
+	fra	intégration	n-f$n	nld	integratie	n-f$n
 	fra	investissement	n-m$n$n-m-ND	nld	investering	n-f$n
 	fra	iranien	n-GD$n	nld	perzisch	n
 	fra	ironie	n$n-f$n-f-ND	nld	ironie	n$n-f
@@ -1521,7 +1521,7 @@
 	fra	sourcil	n-m$n$n-m-ND	nld	wenkbrauw	n$n-mf
 	fra	souris	n-f-sp$n-f$n	nld	huismuis	n$n-mf
 	fra	souvenir	n-m$n$n-m-ND	nld	souvenir	n-nt$n
-	fra	être	n$n-m$n-m-ND	nld	zijn	n
+	fra	être	n-m$n$n-m-ND	nld	zijn	n
 	fra	souveraineté	n$n-f$n-f-ND	nld	soevereiniteit	n
 	fra	spectre	n-m$n$n-m-ND	nld	spectrum	n
 	fra	spermatozoïde	n$n-m	nld	zaadcel	n$n-f
@@ -1627,7 +1627,7 @@
 	fra	urne	n-f$n$n-f-ND	nld	urn	n
 	fra	usine	n$n-f$n-f-ND	nld	fabriek	n$n-f
 	fra	v	n-m$n$n-m-sp	nld	v	n
-	fra	vacances	n$n-f	nld	vakantie	n-f$n
+	fra	vacances	n$n-f$n-f-pl	nld	vakantie	n-f$n
 	fra	valeur	n-f$n$n-f-ND	nld	waarde	n-f$n
 	fra	valise	n$n-f$n-f-ND	nld	koffer	n-m$n
 	fra	vanité	n-f$n	nld	vanitas	n
@@ -1652,7 +1652,7 @@
 	fra	vie	n-f$n$n-f-ND	nld	leven	n$n-nt
 	fra	village	n-m$n	nld	dorp	n$n-nt
 	fra	ville	n-f$n$n-f-ND	nld	stad	n-f$n
-	fra	vin	n$n-m$n-m-ND	nld	wijn	n$n-m
+	fra	vin	n-m$n$n-m-ND	nld	wijn	n$n-m
 	fra	violence	n$n-f$n-f-ND	nld	geweld	n-nt$n
 	fra	violon	n-m$n$n-m-ND	nld	viool	n-mf$n
 	fra	visa	n-m$n$n-m-ND	nld	visa	n

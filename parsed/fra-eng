@@ -133,7 +133,7 @@ LR	fra	devant	pr	eng	in front of	pr
 	fra	au lieu de	pr	eng	instead of	pr
 	fra	à	pr	eng	into	pr
 	fra	comme	pr	eng	like	pr
-	fra	de	pr	eng	of	pr
+	fra	de	pr	eng	of	pr$
 	fra	de	pr	eng	off	pr
 	fra	chez	pr	eng	on	pr
 	fra	dans	pr	eng	on	pr
@@ -177,7 +177,7 @@ LR	fra	vers	pr	eng	to	pr
 	fra	sans	pr	eng	without	pr
 	fra	je	prn$prn-tn-p1-mf-sg$prn-tn$prn-tn-p1	eng	prpers	prn-subj-p1-mf-sg
 	fra	me	prn-pro$prn-pro-p1-mf-sg	eng	prpers	prn-obj-p1-mf-sg$prn-p1$prn-obj-p1
-	fra	moi	prn-tn$prn-tn-p1-mf-sg$prn-tn-p1	eng	prpers	prn-obj-p1-mf-sg$prn-p1$prn-obj-p1
+	fra	moi	prn-tn$prn-tn-p1-mf-sg$prn-tn-p1$prn	eng	prpers	prn-obj-p1-mf-sg$prn-p1$prn-obj-p1
 	fra	tu	prn$prn-tn-p2-mf-sg$prn-tn$prn-tn-p2	eng	prpers	prn-obj-p2-mf-sg$prn-p2-mf-sg
 	fra	te	prn$prn-pro-p2-mf-sg$prn-pro	eng	prpers	prn-obj-p2-mf-sg$prn-p2-mf-sg
 	fra	toi	prn$prn-tn-p2-mf-sg$prn-tn$prn-tn-p2	eng	prpers	prn-obj-p2-mf-sg$prn-p2-mf-sg
@@ -185,7 +185,7 @@ LR	fra	vers	pr	eng	to	pr
 	fra	lui	prn-pro-p3-m-sg	eng	prpers	prn-obj-p3-m-sg
 	fra	il	prn-tn-p3-f-sg$prn-p3-f-sg	eng	prpers	prn-subj-p3-f-sg
 	fra	il	prn-pro-p3-f-sg	eng	prpers	prn-obj-p3-f-sg
-	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	eng	prpers	prn-subj-p1-mf-pl$prn-subj-p1$prn-subj-p1-mf
+	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	eng	prpers	prn-subj-p1-mf-pl$prn-subj-p1$prn-subj-p1-mf
 	fra	nous	prn-pro-p1-mf-pl$prn-pro	eng	prpers	prn-obj-p1-mf-pl
 	fra	vous	prn-tn-p2-mf-pl$prn$prn-tn-p2-mf$prn-tn$prn-tn-p2	eng	prpers	prn-subj-p2-mf-sp$prn-p2$prn-subj-p2-mf
 	fra	vous	prn-pro-p2-mf-pl$prn-pro	eng	prpers	prn-obj-p2-mf-sp
@@ -197,7 +197,7 @@ LR	fra	vers	pr	eng	to	pr
 LR	fra	le	prn-enc-p3-nt	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt
 LR	fra	le	prn-pro-p3-f-sg	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt
 LR	fra	le	prn-pro-p3-m-sg	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt
-LR	fra	le	prn-pro-p3-mf-pl	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt
+LR	fra	le	prn-pro-p3-mf-pl$prn	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt
 LR	fra	le	prn-pro-p3-nt	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt
 LR	fra	le	prn-enc-p3-f-sg	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt
 LR	fra	le	prn-enc-p3-m-sg	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt
@@ -228,7 +228,7 @@ RL	fra	chacun	prn$prn-tn-m-pl	eng	each	prn$prn-ind$prn-ind-mf-sg
 	fra	n'importe qui	prn-tn-mf-sp$prn-tn-mf$prn-tn	eng	either	prn-tn-mf-sp$prn
 	fra	aucun	prn-tn$prn-tn-f-sg$prn-tn-f	eng	either	prn-tn-mf-sp$prn
 	fra	tout le monde	prn	eng	everyone	prn$prn-ind-mf-sg$prn-ind$prn-ind-mf
-	fra	tout	prn-tn-m-sg$prn$prn-tn$prn-tn-m	eng	everything	prn-tn-m-sg$prn$prn-tn
+	fra	tout	prn$prn-tn-m-sg$prn-tn$prn-tn-m	eng	everything	prn-tn-m-sg$prn$prn-tn
 	fra	soi	prn$prn-tn	eng	himself	prn-ref-p3-m-sg$prn$prn-ref-p3$prn-p3
 	fra	combien	prn-itg-mf-sp$itg$prn-itg	eng	how many	prn-itg-mf-pl$prn$prn-itg
 	fra	combien	prn-itg-mf-sp$itg$prn-itg	eng	how much	prn-itg-mf-sg$prn$prn-itg
@@ -266,33 +266,33 @@ RL	fra	chacun	prn$prn-tn-m-pl	eng	each	prn$prn-ind$prn-ind-mf-sg
 	fra	quel	prn-itg-m$prn-itg-m-sg	eng	which	prn-itg-m-sp$prn$prn-itg
 	fra	quel	prn$prn-itg-GD$prn-itg-GD-sg	eng	which	prn-itg-m-sp$prn$prn-itg
 	fra	quel	prn$prn-itg-GD$prn-itg-GD-sg	eng	which one	prn-itg-m-sg$prn$prn-itg
-	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	eng	who	prn-itg-m-sp$prn-itg-m$prn-itg$prn
-	fra	qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	eng	who	prn-itg-m-sp$prn-itg-m$prn-itg$prn
-	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	eng	who	prn-itg-m-sp$prn-itg-m$prn-itg$prn
-	fra	qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	eng	who	prn-itg-m-sp$prn-itg-m$prn-itg$prn
+	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf	eng	who	prn-itg-m-sp$prn-itg-m$prn-itg$prn
+	fra	qui	prn-itg-mf-sp$prn-itg$prn-itg-mf	eng	who	prn-itg-m-sp$prn-itg-m$prn-itg$prn
+	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf	eng	who	prn-itg-m-sp$prn-itg-m$prn-itg$prn
+	fra	qui	prn-itg-mf-sp$prn-itg$prn-itg-mf	eng	who	prn-itg-m-sp$prn-itg-m$prn-itg$prn
 	fra	n'importe qui	prn-tn-mf-sp$prn-tn-mf$prn-tn	eng	whoever	prn-tn-m-sg$prn-tn-m$prn$prn-tn
 	fra	qui	rel$rel-mf-sp$rel-an-mf-sp	eng	that	rel$rel-an-mf-sp$rel-an
 	fra	que	rel$prn-rel-mf	eng	that	rel$rel-an-mf-sp$rel-an
-	fra	celui qui	rel$rel-m$rel-m-pl	eng	the one which	rel-nn-mf-sg$prn-rel-nn-mf-sg
-	fra	celui que	rel$rel-nt$rel-nt-sg	eng	the one which	rel-nn-mf-sg$prn-rel-nn-mf-sg
-	fra	celui que	rel$rel-nt$rel-nt-sg	eng	the one which	rel-nn-mf-sg$prn-rel-nn-mf-sg
-	fra	celui qui	rel$rel-m$rel-m-pl	eng	the one who	rel-nn-mf-sg$prn-rel-nn-mf-sg
-	fra	celui que	rel$rel-nt$rel-nt-sg	eng	the one who	rel-nn-mf-sg$prn-rel-nn-mf-sg
-	fra	celui que	rel$rel-nt$rel-nt-sg	eng	the one who	rel-nn-mf-sg$prn-rel-nn-mf-sg
-	fra	celui qui	rel$rel-m$rel-m-pl	eng	the ones that	rel-nn-mf-pl$prn-rel-nn-mf-pl
-	fra	celui que	rel$rel-nt$rel-nt-sg	eng	the ones that	rel-nn-mf-pl$prn-rel-nn-mf-pl
-	fra	celui que	rel$rel-nt$rel-nt-sg	eng	the ones that	rel-nn-mf-pl$prn-rel-nn-mf-pl
-	fra	celui qui	rel$rel-m$rel-m-pl	eng	the ones who	rel-nn-mf-pl$prn-rel-nn-mf-pl
-	fra	celui que	rel$rel-nt$rel-nt-sg	eng	the ones who	rel-nn-mf-pl$prn-rel-nn-mf-pl
-	fra	celui que	rel$rel-nt$rel-nt-sg	eng	the ones who	rel-nn-mf-pl$prn-rel-nn-mf-pl
-	fra	celui qui	rel$rel-m$rel-m-pl	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl
-	fra	celui que	rel$rel-nt$rel-nt-sg	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl
-	fra	celui que	rel$rel-nt$rel-nt-sg	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl
-	fra	qui	rel$rel-mf-sp$rel-an-mf-sp	eng	those who	rel-nn-mf-pl$prn-rel-nn-mf-pl
+	fra	celui qui	rel$rel-m$rel-m-pl	eng	the one which	rel-nn-mf-sg
+	fra	celui que	rel$rel-nt-sg$rel-nt	eng	the one which	rel-nn-mf-sg
+	fra	celui que	rel$rel-nt-sg$rel-nt	eng	the one which	rel-nn-mf-sg
+	fra	celui qui	rel$rel-m$rel-m-pl	eng	the one who	rel-nn-mf-sg
+	fra	celui que	rel$rel-nt-sg$rel-nt	eng	the one who	rel-nn-mf-sg
+	fra	celui que	rel$rel-nt-sg$rel-nt	eng	the one who	rel-nn-mf-sg
+	fra	celui qui	rel$rel-m$rel-m-pl	eng	the ones that	rel-nn-mf-pl
+	fra	celui que	rel$rel-nt-sg$rel-nt	eng	the ones that	rel-nn-mf-pl
+	fra	celui que	rel$rel-nt-sg$rel-nt	eng	the ones that	rel-nn-mf-pl
+	fra	celui qui	rel$rel-m$rel-m-pl	eng	the ones who	rel-nn-mf-pl
+	fra	celui que	rel$rel-nt-sg$rel-nt	eng	the ones who	rel-nn-mf-pl
+	fra	celui que	rel$rel-nt-sg$rel-nt	eng	the ones who	rel-nn-mf-pl
+	fra	celui qui	rel$rel-m$rel-m-pl	eng	those that	rel-nn-mf-pl
+	fra	celui que	rel$rel-nt-sg$rel-nt	eng	those that	rel-nn-mf-pl
+	fra	celui que	rel$rel-nt-sg$rel-nt	eng	those that	rel-nn-mf-pl
+	fra	qui	rel$rel-mf-sp$rel-an-mf-sp	eng	those who	rel-nn-mf-pl
 	fra	où	rel$rel-adv	eng	where	rel-adv$rel
 	fra	que	rel$prn-rel-mf	eng	which	rel-an-mf-sp$rel-an$prn-rel-an-mf-sp
 	fra	lequel	rel$rel-GD-ND	eng	which	rel-nn-mf-sp$rel$prn-rel-nn-mf-sp
-	fra	celui que	rel$rel-nt$rel-nt-sg	eng	which	rel-nn-mf-sp$rel$prn-rel-nn-mf-sp
+	fra	celui que	rel$rel-nt-sg$rel-nt	eng	which	rel-nn-mf-sp$rel$prn-rel-nn-mf-sp
 	fra	que	rel$prn-rel-mf	eng	who	rel$rel-an$prn-rel-an-mf-sp$rel-an-mf-sp
 	fra	qui	rel$rel-mf-sp$rel-an-mf-sp	eng	whom	rel-an-mf-sp$rel-an$prn-rel-an-mf-sp$rel
 	fra	dont	rel-mf-sp$rel	eng	whose	rel-aa-mf-sp
@@ -301,12 +301,12 @@ RL	fra	chacun	prn$prn-tn-m-pl	eng	each	prn$prn-ind$prn-ind-mf-sg
 RL	fra	un	det-ind-GD-sg	eng	a	det-ind-sg$det-ind$det$
 LR	fra	un	det-ind-f-sg	eng	a	det-ind-sg$det-ind$det$
 LR	fra	un	det-ind-m-sg	eng	a	det-ind-sg$det-ind$det$
-	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind	eng	another	det-ind$det-ind-sg$det
+	fra	un autre	det-ind-mf-pl$det-ind-mf	eng	another	det-ind$det-ind-sg$det
 	fra	un autre	det-ind-m-sg	eng	another	det-ind$det-ind-sg$det
-	fra	un autre	det-ind-f-sg	eng	another	det-ind$det-ind-sg$det
-	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind	eng	another	det-ind$det-ind-sg$det
+	fra	un autre	det-ind-f-sg$det-ind	eng	another	det-ind$det-ind-sg$det
+	fra	un autre	det-ind-mf-pl$det-ind-mf	eng	another	det-ind$det-ind-sg$det
 	fra	un autre	det-ind-m-sg	eng	another	det-ind$det-ind-sg$det
-	fra	un autre	det-ind-f-sg	eng	another	det-ind$det-ind-sg$det
+	fra	un autre	det-ind-f-sg$det-ind	eng	another	det-ind$det-ind-sg$det
 	fra	quelque	det-ind-mf$det-ind-mf-pl$det-ind	eng	any	det-ind-sp$det-ind$det
 	fra	n'importe quel	det-ind-GD$det$det-ind-GD-sg$det-ind	eng	any	det-ind-sp$det-ind$det
 	fra	n'importe quel	det-ind-f	eng	any	det-ind-sp$det-ind$det
@@ -333,15 +333,15 @@ LR	fra	mon	det-pos-mf-pl$pos	eng	my	det-pos-sp$det-pos$det
 LR	fra	mon	det-pos-f-sg	eng	my	det-pos-sp$det-pos$det
 LR	fra	mon	det-pos-m-sg$det	eng	my	det-pos-sp$det-pos$det
 	fra	aucun	det-ind$det-ind-f-sg	eng	no	det-ind-sp$det-ind$det
-	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind	eng	other	det-ind-pl$det-ind$det$det-ind-mf-pl
+	fra	un autre	det-ind-mf-pl$det-ind-mf	eng	other	det-ind-pl$det-ind$det$det-ind-mf-pl
 	fra	un autre	det-ind-m-sg	eng	other	det-ind-pl$det-ind$det$det-ind-mf-pl
-	fra	un autre	det-ind-f-sg	eng	other	det-ind-pl$det-ind$det$det-ind-mf-pl
-	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind	eng	other	det-ind-sp
+	fra	un autre	det-ind-f-sg$det-ind	eng	other	det-ind-pl$det-ind$det$det-ind-mf-pl
+	fra	un autre	det-ind-mf-pl$det-ind-mf	eng	other	det-ind-sp
 	fra	un autre	det-ind-m-sg	eng	other	det-ind-sp
-	fra	un autre	det-ind-f-sg	eng	other	det-ind-sp
+	fra	un autre	det-ind-f-sg$det-ind	eng	other	det-ind-sp
 	fra	notre	det-pos-mf$det-pos-mf-pl$det$det-pos	eng	our	det-pos$det$det-pos-sp
 	fra	notre	det-pos-mf$det-pos-mf-pl$det$det-pos	eng	our	det-pos$det$det-pos-sp
-	fra	un	det-ind-mf-pl$det-ind$det	eng	some	det-qnt-pl
+	fra	un	det-ind-mf-pl$det-ind$det$det-ind-mf	eng	some	det-qnt-pl
 	fra	un	det-ind-f-sg	eng	some	det-qnt-pl
 	fra	un	det-ind-m-sg	eng	some	det-qnt-pl
 	fra	quelque	det-ind-mf$det-ind-mf-pl$det-ind	eng	some	det-qnt$det-qnt-sp$det
@@ -381,7 +381,7 @@ RL	fra	le	det-def-GD-ND	eng	the	det$det-def-sp$det-def
 	fra	dix-sept	num$num-mf-sp$num-mf	eng	seventeen	num$num-sp$
 	fra	seize	num$num-mf-sp$num-mf	eng	sixteen	num$num-sp$
 	fra	dix	num$num-mf-sp$num-mf	eng	ten	num$num-sp$
-	fra	mil	num-GD-sp$num	eng	ten hundred	num$num-pl
+	fra	mil	num-GD-sp$num	eng	ten hundred	num$num-sp
 	fra	avoir	n-m$n$n-m-ND	eng	deposit	n$n-sg
 	fra	détenteur	n-m	eng	fork	n$n-sg
 	fra	avantage	n-m$n-m-ND$n	eng	goodness	n$n-ND
@@ -826,7 +826,7 @@ RL	fra	le	det-def-GD-ND	eng	the	det$det-def-sp$det-def
 	fra	astronome	n-mf$n	eng	astronomer	n$n-sg
 	fra	astronome	n-mf$n	eng	astrónomo	n
 	fra	asymétrie	n-f$n	eng	asymmetry	n
-	fra	athlétisme	n-m$n	eng	athletics	n$n-sg
+	fra	athlétisme	n-m$n$n-m-sg	eng	athletics	n$n-sg
 	fra	atmosphère	n-f$n$n-f-ND	eng	atmosphere	n$n-ND
 	fra	atrocité	n-f$n	eng	atrocity	n$n-ND
 	fra	attaque	n-f$n-f-ND	eng	attack	n$n-ND
@@ -967,7 +967,7 @@ RL	fra	le	det-def-GD-ND	eng	the	det$det-def-sp$det-def
 	fra	début	n$n-m$n-m-ND	eng	beginning	n$n-ND
 	fra	comportement	n-m$n$n-m-ND	eng	behaviour	n$n-ND
 	fra	conduite	n-f$n$n-f-ND	eng	behaviour	n$n-ND
-	fra	être	n$n-m$n-m-ND	eng	being	n$$n-ND
+	fra	être	n-m$n$n-m-ND	eng	being	n$$n-ND
 	fra	croyance	n-f$n$n-f-ND	eng	belief	n$n-ND
 	fra	croyant	n-f	eng	believer	n$n-sg
 	fra	croyant	n-m$n	eng	believer	n$n-sg
@@ -997,7 +997,7 @@ RL	fra	le	det-def-GD-ND	eng	the	det$det-def-sp$det-def
 	fra	vélo	n-m$n$n-m-ND	eng	bike	n$n-ND
 	fra	bikini	n-m$n	eng	bikini	n
 	fra	facture	n$n-f$n-f-ND	eng	bill	n$n-ND
-	fra	seau	n-m$n$n-m-ND	eng	bin	n
+	fra	seau	n-m$n$n-m-ND	eng	bin	n$
 	fra	agrocarburant	n-m$n	eng	biofuel	n
 	fra	biocarburant	n-m$n	eng	biofuel	n
 	fra	biographie	n-f$n$n-f-ND	eng	biography	n$n-ND
@@ -1184,7 +1184,7 @@ RL	fra	le	det-def-GD-ND	eng	the	det$det-def-sp$det-def
 	fra	roseau	n-m$n$n-m-ND	eng	cane	n$n-ND
 	fra	canon	n-m$n$n-m-ND	eng	cannon	n$n-ND
 	fra	canoë-kayak	n$n-m$n-m-sg	eng	canoeing	n
-	fra	boîte	n-f$n$n-f-ND	eng	can	n$n-ND
+	fra	boîte	n-f$n$n-f-ND	eng	can	n$n-sg
 	fra	salle	n-f$n$n-f-ND	eng	canteen	n$n-ND
 	fra	côté	n-m$n$n-m-ND	eng	canton	n$n-ND
 	fra	étoffe	n$n-f$n-f-ND	eng	canvas	n$n-sg
@@ -1523,7 +1523,7 @@ RL	fra	le	det-def-GD-ND	eng	the	det$det-def-sp$det-def
 	fra	conciliation	n$n-f	eng	conciliation	n
 	fra	conclusion	n-f$n$n-f-ND	eng	conclusion	n$n-sg
 	fra	constat	n-m$n-m-ND	eng	conclusion	n$n-sg
-	fra	béton	n-m$n	eng	concrete	n$n-sg
+	fra	béton	n-m$n$n-m-sg	eng	concrete	n$n-sg
 	fra	concrétion	n-f$n	eng	concretion	n
 	fra	condensation	n-f$n	eng	condensation	n
 	fra	condition	n-f$n$n-f-ND	eng	condition	n$n-sg
@@ -1991,7 +1991,7 @@ RL	fra	le	det-def-GD-ND	eng	the	det$det-def-sp$det-def
 	fra	division	n-f$n$n-f-ND	eng	division	n$n-sg
 	fra	divorce	n$n-m	eng	divorce	n$n-sg
 	fra	divulgation	n-f$n$n-f-ND	eng	divulging	n$n-ND
-	fra	chantier naval	n-m$n-m-sg$n	eng	dockyard	n
+	fra	chantier naval	n-m$n	eng	dockyard	n
 	fra	doctrine	n$n-f$n-f-ND	eng	doctrine	n$n-ND
 	fra	documentaire	n-m$n$n-m-ND	eng	documentary	n$n-ND
 	fra	documentation	n-f$n$n-f-ND	eng	documentation	n$n-ND
@@ -2034,8 +2034,8 @@ RL	fra	le	det-def-GD-ND	eng	the	det$det-def-sp$det-def
 	fra	conduite	n-f$n$n-f-ND	eng	driving	n
 	fra	goutte	n-f$n$n-f-ND	eng	drop	n$n-ND
 	fra	sécheresse	n-f$n$n-f-ND	eng	drought	n$n-sg
-	fra	drogue	n$n-f$n-f-ND	eng	drug	n$n-ND
-	fra	médicament	n-m$n$n-m-ND	eng	drug	n$n-ND
+	fra	drogue	n$n-f$n-f-ND	eng	drug	n$n-sg
+	fra	médicament	n-m$n$n-m-ND	eng	drug	n$n-sg
 	fra	pharmacie	n-f$n	eng	drugstore	n
 	fra	tambour	n$n-m	eng	drum	n$n-sg
 	fra	ivrogne	n-mf$n$n-mf-ND	eng	drunkard	n$n-ND
@@ -2441,7 +2441,7 @@ RL	fra	le	det-def-GD-ND	eng	the	det$det-def-sp$det-def
 	fra	fleur	n-f$n$n-f-ND	eng	flower	n$n-sg
 	fra	fluctuation	n-f$n	eng	fluctuation	n
 	fra	fluidité	n-f$n	eng	fluidity	n$n-sg
-	fra	grippe	n$n-f$n-f-ND	eng	flu	n$n-ND
+	fra	grippe	n$n-f$n-f-ND	eng	flu	n$n-sg
 	fra	vol	n-m$n$n-m-ND	eng	flying	n$n-ND
 	fra	mouche	n-f$n$n-f-ND	eng	fly	n$n-ND
 	fra	foetus	n-m-sp$n-m	eng	foetus	n$n-ND
@@ -2808,9 +2808,9 @@ RL	fra	le	det-def-GD-ND	eng	the	det$det-def-sp$det-def
 	fra	trou	n-m$n$n-m-ND	eng	hole	n$n-ND
 	fra	jour férié	n-m$n$n-m-ND	eng	holiday	n$n-sg
 	fra	vacance	n-f-pl$n-f$n	eng	holiday	n-pl
-	fra	vacances	n$n-f	eng	holiday	n-pl
+	fra	vacances	n$n-f$n-f-pl	eng	holiday	n-pl
 	fra	vacance	n-f-pl$n-f$n	eng	holiday	n$n-sg
-	fra	vacances	n$n-f	eng	holiday	n$n-sg
+	fra	vacances	n$n-f$n-f-pl	eng	holiday	n$n-sg
 	fra	holocauste	n-m$n	eng	holocaust	n
 	fra	hommage	n-m$n$n-m-ND	eng	homage	n$n-ND
 	fra	patrie	n-f$n$n-f-ND	eng	homeland	n$n-ND
@@ -2940,8 +2940,8 @@ RL	fra	le	det-def-GD-ND	eng	the	det$det-def-sp$det-def
 	fra	incinération	n-f$n$n-f-ND	eng	incineration	n$n-ND
 	fra	inclination	n-f$n$n-f-ND	eng	inclination	n$n-ND
 	fra	inclusion	n$n-f	eng	inclusion	n
-	fra	impôt	n$n-m$n-m-pl	eng	income tax	n$n-ND
-	fra	IRPP	n-acr	eng	income tax	n$n-ND
+	fra	impôt	n$n-m$n-m-pl	eng	income tax	n
+	fra	IRPP	n-acr	eng	income tax	n
 	fra	dépôt	n-m-pl	eng	income	n$n-sg
 	fra	revenu	n$n-m-pl$n-m	eng	income	n$n-sg
 	fra	incompatibilité	n$n-f	eng	incompatibility	n$n-ND
@@ -3044,7 +3044,7 @@ RL	fra	le	det-def-GD-ND	eng	the	det$det-def-sp$det-def
 	fra	assurance	n-f$n$n-f-ND	eng	insurance	n$n-unc
 	fra	insurrection	n-f$n	eng	insurrection	n
 	fra	intégrale	n-f$n	eng	integral	n
-	fra	intégration	n-m$n$n-m-ND	eng	integration	n$n-ND
+	fra	intégration	n-m$n-m-ND	eng	integration	n$n-ND
 	fra	intégralité	n-f$n	eng	integrity	n$n-ND
 	fra	intégrité	n-f$n	eng	integrity	n$n-ND
 	fra	intellectuel	n-f$n	eng	intellectual	n$n-sg
@@ -3391,7 +3391,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	luxure	n-f$n	eng	lust	n
 	fra	luxation	n$n-f	eng	luxation	n
 	fra	luxe	n$n-m$n-m-ND	eng	luxury	n$n-ND
-	fra	lettre	n-f$n$n-f-ND	eng	lyric	n-pl$n
+	fra	lettre	n-f$n$n-f-ND	eng	lyric	n$n-pl
 	fra	machination	n-f$n	eng	machination	n
 	fra	engin	n-m$n	eng	machinery	n
 	fra	machinerie	n-f$n	eng	machinery	n
@@ -3636,7 +3636,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	moto	n-f$n$n-f-ND	eng	motorbike	n$n-ND
 	fra	motocyclette	n-f$n	eng	motorcycle	n
 	fra	motocyclisme	n$n-m$n-m-sg	eng	motorcycling	n
-	fra	automobilisme	n$n-m$n-m-sg	eng	motoring	n$n-sg
+	fra	automobilisme	n$n-m-sg$n-m	eng	motoring	n$n-sg
 	fra	motorisation	n-f$n	eng	motorisation	n
 	fra	automobiliste	n$n-mf	eng	motorist	n
 	fra	moteur	n-m$n	eng	motor	n$n-ND
@@ -4224,7 +4224,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	prevention	n$n-f$n-f-ND	eng	prevention	n$n-unc
 	fra	prévention	n-f$n$n-f-ND	eng	prevention	n$n-unc
 	fra	prise	n-f$n$n-f-ND	eng	prey	n
-	fra	tarif	n-m$n-m-ND	eng	price	n$n-ND
+	fra	tarif	n-m$n$n-m-ND	eng	price	n$n-ND
 	fra	orgueil	n-m$n$n-m-ND	eng	pride	n$n-sg
 	fra	curé	n-m$n	eng	priest	n$n-ND
 	fra	soin	n-m$n-m-ND$n	eng	priest	n$n-ND
@@ -4404,7 +4404,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	rapidité	n$n-f$n-f-ND	eng	rapidity	n$n-ND
 	fra	indice	n$n-m$n-m-ND	eng	rate	n$n-ND
 	fra	rythme	n-m$n$n-m-ND	eng	rate	n$n-ND
-	fra	tarif	n-m$n-m-ND	eng	rate	n$n-ND
+	fra	tarif	n-m$n$n-m-ND	eng	rate	n$n-ND
 	fra	taux	n-m-sp$n-m$n	eng	rate	n$n-ND
 	fra	taxe	n-f$n$n-f-ND	eng	rate	n$n-ND
 	fra	indice	n$n-m$n-m-ND	eng	rating	n$n-ND
@@ -4667,7 +4667,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	rock	n$n-m$n-m-sp	eng	rock	n$n-sg
 	fra	baguette	n-f$n	eng	rod	n
 	fra	fonction	n-f$n$n-f-ND	eng	role	n$n-ND
-	fra	rôle	n-m$n	eng	role	n$n-ND
+	fra	rôle	n$n-m	eng	role	n$n-ND
 	fra	cercle	n-m$n$n-m-ND	eng	roll	n$n-sg
 	fra	romantisme	n$n-m	eng	romanticism	n
 	fra	plafond	n-m$n$n-m-ND	eng	roof	n$n-ND
@@ -4697,7 +4697,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	règle	n-f$n$n-f-ND	eng	rule	n$n-sg
 	fra	bruit	n-m$n	eng	rumble	n
 	fra	rumeur	n-f$n-f-ND	eng	rumour	n$n-ND
-	fra	course	n-f$n$n-f-ND	eng	run	n$n-ND
+	fra	course	n-f$n$n-f-ND	eng	run	n$n-sg
 	fra	hâte	n-f$n$n-f-ND	eng	rush	n$n-ND
 	fra	comptine	n-f	eng	rhyme	n
 	fra	sabotage	n-m$n	eng	sabotage	n
@@ -4717,7 +4717,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	vente	n-f$n$n-f-ND	eng	sale	n$n-ND
 	fra	salinité	n-f$n	eng	salinity	n$n-ND
 	fra	salive	n-f$n	eng	saliva	n
-	fra	sel	n-m$n$n-m-pl	eng	salt	n$n-ND
+	fra	sel	n-m$n$n-m-pl	eng	salt	n$n-sg
 	fra	mine	n$n-f$n-f-ND	eng	saltworks	n
 	fra	salut	n-m$n-m-ND	eng	salvation	n$n-ND
 	fra	échantillon	n-m$n	eng	sample	n
@@ -4783,7 +4783,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	siège	n-m$n$n-m-ND	eng	seat	n$n-ND
 	fra	algue	n-f$n	eng	seaweed	n
 	fra	réclusion	n-f$n	eng	seclusion	n
-	fra	seconde	n-f$n-f-ND	eng	second	n$n-ND
+	fra	seconde	n-f$n-f-ND	eng	second	n$n-sg
 	fra	clandestinité	n-f$n	eng	secrecy	n$n-sg
 	fra	secrétariat	n-m$n$n-m-ND	eng	secretariat	n
 	fra	secrétaire	n-mf$n$n-mf-ND	eng	secretario	n
@@ -5489,7 +5489,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	traumatisme	n-m$n	eng	traumatism	n
 	fra	traumatologie	n$n-f	eng	traumatology	n$n-sg
 	fra	chèque	n$n-m	eng	traveller's cheque	n
-	fra	voyage	n-m$n$n-m-ND	eng	travel	n$n-ND
+	fra	voyage	n-m$n$n-m-ND	eng	travel	n$n-sg
 	fra	plate	n$n-f$n-f-ND	eng	tray	n$n-ND
 	fra	trésor	n-m$n$n-m-ND	eng	treasure	n$n-ND
 	fra	traitement	n-m$n$n-m-ND	eng	treatment	n$n-sg
@@ -5591,9 +5591,9 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	vacance	n-f-pl$n-f$n	eng	vacancy	n$n-sg
 	fra	vacance	n-f-sg	eng	vacancy	n$n-sg
 	fra	vacance	n-f-pl$n-f$n	eng	vacation	n-pl
-	fra	vacances	n$n-f	eng	vacation	n-pl
+	fra	vacances	n$n-f$n-f-pl	eng	vacation	n-pl
 	fra	vacance	n-f-pl$n-f$n	eng	vacation	n$n-sg
-	fra	vacances	n$n-f	eng	vacation	n$n-sg
+	fra	vacances	n$n-f$n-f-pl	eng	vacation	n$n-sg
 	fra	vaccin	n-m	eng	vaccine	n$n-sg
 	fra	vagin	n-m	eng	vagina	n
 	fra	valence	n-f$n$n-f-ND	eng	valency	n$n-ND
@@ -5605,8 +5605,8 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	vampire	n$n-m	eng	vampire	n
 	fra	vandalisme	n-m$n	eng	vandalism	n
 	fra	vanité	n-f$n	eng	vanity	n$n-sg
-	fra	fourgonnette	n-f$n$n-f-ND	eng	van	n$n-ND
-	fra	fourgon	n-m$n	eng	van	n$n-ND
+	fra	fourgonnette	n-f$n$n-f-ND	eng	van	n$$n-ND
+	fra	fourgon	n-m$n	eng	van	n$$n-ND
 	fra	vaporisation	n-f$n	eng	vaporisation	n
 	fra	vapeur	n-f$n$n-f-ND	eng	vapour	n
 	fra	variabilité	n$n-f$n-f-ND	eng	variability	n$n-ND
@@ -5752,7 +5752,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	bien-être	n-m$n$n-m-ND	eng	welfare	n$n-ND
 	fra	ouest	n$n-m$n-m-ND	eng	west	n$n-unc
 	fra	baleine	n-f$n	eng	whale	n$n-sg
-	fra	blé	n$n-m$n-m-ND	eng	wheat	n$n-ND
+	fra	blé	n-m$n$n-m-ND	eng	wheat	n$n-ND
 	fra	froment	n$n-m$n-m-ND	eng	wheat	n$n-ND
 	fra	étrave	n-f$n	eng	wheel	n$n-sg
 	fra	roue	n$n-f	eng	wheel	n$n-sg
@@ -5774,13 +5774,13 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	fenêtre	n-f$n$n-f-ND	eng	window	n$n-ND
 	fra	pare-brise	n-m$n$n-m-sp	eng	windscreen	n$n-ND
 	fra	vent	n$n-m$n-m-ND	eng	wind	n$n-ND
-	fra	vin	n$n-m$n-m-ND	eng	wine	n$n-ND
+	fra	vin	n-m$n$n-m-ND	eng	wine	n$n-ND
 	fra	aile	n-f$n$n-f-ND	eng	wing	n$n-sg
 	fra	hiver	n$n-m$n-m-ND	eng	winter	n$n-ND
 	fra	grillage	n-m$n	eng	wire fence	n
 	fra	câble	n-m$n$n-m-ND	eng	wire	n$n-sg
 	fra	fil	n-m$n$n-m-ND	eng	wire	n$n-sg
-	fra	bon sens	n-m$n-m-sg$n	eng	wisdom	n$n-sg
+	fra	bon sens	n-m$n-m-sg	eng	wisdom	n$n-sg
 	fra	désir	n-m$n$n-m-ND	eng	wish	n$n-ND
 	fra	sorcière	n-f$n$n-f-ND	eng	witch	n$n-ND
 	fra	retraite	n-f$n$n-f-ND	eng	withdrawal	n$n-ND
@@ -5799,7 +5799,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	journée	n-f$n$n-f-ND	eng	working time	n
 	fra	atelier	n-m$n$n-m-ND	eng	workshop	n$n-sg
 	fra	boulot	n-m	eng	work	n$n-pl
-	fra	chantier	n-m$n-m-ND	eng	work	n$n-pl
+	fra	chantier	n-m$n-m-sg	eng	work	n$n-pl
 	fra	emploi	n-m$n$n-m-ND	eng	work	n$n-pl
 	fra	labeur	n-m$n$n-m-ND	eng	work	n$n-pl
 	fra	oeuvre	n$n-f$n-f-ND	eng	work	n$n-pl
@@ -6376,7 +6376,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	carême	n-m$n-m-ND	eng	Lent	n
 	fra	déréglement	n$n-m	eng	licentiousness	n
 	fra	éclairage	n-m$n	eng	lighting	n
-	fra	éclair	n-m$n	eng	lightning	n$n-unc
+	fra	éclair	n-m$n	eng	lightning	n$n-sg
 	fra	barcasse	n$n-f	eng	longboat	n
 	fra	désajustement	n$n-m	eng	maladjustment	n
 	fra	désinformation	n$n-f	eng	misinformation	n
@@ -6996,7 +6996,7 @@ RL	fra	juin	n$n-m-sg$n-m	eng	jun.	n
 	fra	lanceur	n$n-m	eng	thrower	n
 	fra	intemporalité	n$n-f	eng	timelessness	n
 	fra	lendemain	n-m$n$n-m-sg	eng	tomorrow	n$n-ND
-	fra	pérégrination	n-f$n	eng	travel	n$n-ND
+	fra	pérégrination	n-f$n	eng	travel	n$n-sg
 	fra	matraque	n$n-f	eng	truncheon	n
 	fra	malle	n-f	eng	trunk	n$n-ND
 	fra	indisponibilité	n-f$n	eng	unavailability	n$n-unc
@@ -8321,8 +8321,8 @@ RL	fra	Abascal	np$np-cog-mf-sp$np-cog	eng	Abascal	np-cog-pl
 	fra	Abbott	np-cog-mf-sp$np	eng	Abbott	np-cog-sg$np$$np-cog
 RL	fra	Abbott	np-cog-mf-sp$np	eng	Abbott	np-cog-pl
 	fra	Abdel	np$np-ant$np-ant-m-sg	eng	Abdel	np-ant$np$np-ant-m$np-ant-m-sg
-	fra	Abdul	np$np-ant$np-ant-m-sg	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg
-	fra	Abdülhamid II	np$np-ant	eng	Abdul Hamid II	np-ant$np-ant-m-sg
+	fra	Abdul	np$np-ant$np-ant-m-sg	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m
+	fra	Abdülhamid II	np$np-ant	eng	Abdul Hamid II	np-ant
 	fra	Abdullah	np$np-ant-m-sg$np-ant	eng	Abdullah	np-ant$np$np-ant-m-sg$np-ant-m
 	fra	Abdullah Ahmad Badawi	np$np-ant	eng	Abdullah Ahmad Badawi	np-ant$np-ant-m-sg
 	fra	Abdullah Gül	np$np-ant	eng	Abdullah Gül	np-ant$np-ant-m-sg
@@ -8363,7 +8363,7 @@ RL	fra	Adams	np$np-cog-mf-sp$np-cog	eng	Adams	np-cog-pl
 	fra	Adrián	np$np-ant$np-ant-m-sg	eng	Adrián	np-ant$np$np-ant-m-sg
 	fra	Adán	np-ant$np-ant-m-sg	eng	Adán	np-ant$np$np-ant-m-sg
 	fra	Afghanistan	np-top-m$np-top-m-sg$np-top	eng	Afghanistan	np-top$np$np-top-m
-	fra	Afrique	np-top-f-sg$np-top$np-top-f	eng	Africa	np-top$np$np-top-f
+	fra	Afrique	np$np-top-f-sg$np-top$np-top-f	eng	Africa	np-top$np$np-top-f
 	fra	Aphrodite	np-ant$np$np-ant-f-sg	eng	Afrodita	np-ant$np$np-ant-f-sg
 	fra	Agha Khan	np$np-ant	eng	Aga Khan	np-ant
 	fra	Agamemnon	np$np-ant$np-ant-m-sg	eng	Agamenón	np-ant
@@ -8390,7 +8390,7 @@ RL	fra	Aguirre	np$np-cog-mf-sp$np-cog	eng	Aguirre	np-cog-pl
 RL	fra	Agulló	np-cog-mf-sp$np$np-cog	eng	Agulló	np-cog-pl
 	fra	Agustin	np$np-ant	eng	Agustin	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Agustina	np$np-ant$np-ant-f-sg	eng	Agustina	np-ant$np$np-ant-f-sg
-	fra	Agustín	np-ant$np-ant-m-sg	eng	Agustín	np-ant$np$np-ant-m$np-ant-m-sg
+	fra	Agustín	np-ant$np-ant-m-sg	eng	Agustín	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Ahern	np-cog-mf-sp$np	eng	Ahern	np-cog-sg$np-cog$$np
 RL	fra	Ahern	np-cog-mf-sp$np	eng	Ahern	np-cog-pl
 	fra	Ahmad	np$np-ant$np-ant-m-sg	eng	Ahmad	np-ant$np$np-ant-m$np-ant-m-sg$
@@ -8400,7 +8400,7 @@ RL	fra	Ahern	np-cog-mf-sp$np	eng	Ahern	np-cog-pl
 	fra	Ainara	np$np-ant$np-ant-f-sg	eng	Ainara	np-ant$np$np-ant-f-sg
 	fra	Aingeru	np$np-ant	eng	Aingeru	np-ant$np-ant-m-sg
 	fra	Ainhoa	np$np-ant-f-sg	eng	Ainhoa	np$np-ant$np-ant-f-sg
-	fra	Ainhoa Arteta	np$np-ant	eng	Ainhoa Arteta	np-ant$np-ant-f-sg
+	fra	Ainhoa Arteta	np$np-ant	eng	Ainhoa Arteta	np-ant
 	fra	Aintzane	np$np-ant$np-ant-f-sg	eng	Aintzane	np-ant$np-ant-f-sg
 	fra	Aisha	np$np-ant$np-ant-f-sg	eng	Aisha	np-ant$np$np-ant-f$np-ant-f-sg
 	fra	Aitana	np$np-ant$np-ant-f-sg	eng	Aitana	np-ant$np$np-ant-f-sg
@@ -8424,8 +8424,8 @@ RL	fra	Alarcón	np-cog-mf-sp$np	eng	Alarcón	np-cog-pl
 RL	fra	Albelda	np$np-cog-mf-sp$np-cog	eng	Albelda	np-cog-pl
 	fra	Albero	np$np-cog-mf-sp$np-cog	eng	Albero	np-cog-sg$$np-cog
 RL	fra	Albero	np$np-cog-mf-sp$np-cog	eng	Albero	np-cog-pl
-	fra	Albert	np-ant$np$np-ant-m-sg	eng	Albert	np$np-ant$np-ant-m$np-ant-m-sg
-	fra	Albert	np-ant$np$np-ant-m-sg	eng	Albert	np$np-ant$np-ant-m$np-ant-m-sg
+	fra	Albert	np-ant$np-ant-m-sg$np	eng	Albert	np$np-ant$np-ant-m$np-ant-m-sg
+	fra	Albert	np-ant$np-ant-m-sg$np	eng	Albert	np$np-ant$np-ant-m$np-ant-m-sg
 	fra	Albert Ier de Monaco	np	eng	Albert I of Monaco	np-ant$np-ant-m-sg
 	fra	Alberto	np$np-ant$np-ant-m-sg	eng	Alberto	np-ant$np$np-ant-m-sg$np-ant-m
 	fra	Alberto	np$np-ant$np-ant-m-sg	eng	Alberto	np-ant$np$np-ant-m-sg$np-ant-m
@@ -8452,12 +8452,12 @@ RL	fra	Aleixandre	np$np-cog-mf-sp$np-cog	eng	Aleixandre	np-cog-pl
 	fra	Alena	np$np-ant$np-ant-f-sg	eng	Alena	np-ant$np$np-ant-f$np-ant-f-sg
 	fra	Alessandra	np$np-ant-f-sg$np-ant	eng	Alessandra	np-ant$np$np-ant-f-sg
 	fra	Alessandro	np$np-ant$np-ant-m-sg	eng	Alessandro	np-ant$np-ant-m$np-ant-m-sg$np
-	fra	Îles Aléoutiennes	np$np-top-f	eng	Aleutian Islands	np-top-pl$np-top
+	fra	Îles Aléoutiennes	np$np-top-f	eng	Aleutian Islands	np-top
 	fra	Alex	np$np-ant$np-ant-m-sg	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Alex	np$np-ant$np-ant-m-sg	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Alexa	np$np-ant$np-ant-f-sg	eng	Alexa	np-ant$np-ant-f-sg$np$np-ant-f
-	fra	Alexander	np$np-ant-m-sg$np-ant	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$
-	fra	Alexander	np$np-ant-m-sg$np-ant	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$
+	fra	Alexander	np$np-ant-m-sg$np-ant	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$
+	fra	Alexander	np$np-ant-m-sg$np-ant	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$
 	fra	Alexandre le Grand	np$np-ant-m-sg	eng	Alexander the Great	np-ant$np-ant-m$np-ant-m-sg
 	fra	Alexandr	np$np-ant$np-ant-m-sg	eng	Alexandr	np-ant$np-ant-m-sg
 	fra	Alexandra	np$np-ant-f-sg$np-ant	eng	Alexandra	np-ant$np$np-ant-f-sg$np-ant-f
@@ -8499,8 +8499,8 @@ RL	fra	Allman	np-cog-mf-sp$np	eng	Allman	np-cog-pl
 	fra	Almodóvar	np$np-cog-mf-sp$np-cog	eng	Almodóvar	np-cog-sg$$np$np-cog
 RL	fra	Almodóvar	np$np-cog-mf-sp$np-cog	eng	Almodóvar	np-cog-pl
 	fra	Almudena	np$np-ant-f-sg$np-ant	eng	Almudena	np-ant$np$np-ant-f-sg
-	fra	Almunia	np$np-cog-mf-sp$np-cog	eng	Almunia	np-cog$np-cog-sg$
-RL	fra	Almunia	np$np-cog-mf-sp$np-cog	eng	Almunia	np-cog-pl
+	fra	Almunia	np-cog-mf-sp$np$np-cog	eng	Almunia	np-cog$np-cog-sg$
+RL	fra	Almunia	np-cog-mf-sp$np$np-cog	eng	Almunia	np-cog-pl
 	fra	Alonso	np$np-ant$np-ant-m-sg	eng	Alonso	np-ant$$np$np-ant-m-sg
 	fra	Alphonse	np-ant-m-sg$np-ant$np	eng	Alphonse	np-ant$np-ant-m-sg$
 	fra	Alsace	np-top-f-sg$np-top$np-top-f	eng	Alsace	np-top$np-top-sg
@@ -8577,7 +8577,7 @@ RL	fra	Almunia	np$np-cog-mf-sp$np-cog	eng	Almunia	np-cog-pl
 	fra	Anthony	np$np-ant$np-ant-m-sg	eng	Anthony	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Antoine	np-ant$np-ant-m-sg$np	eng	Antoine	np-ant$np-ant-m-sg$np-ant-m$np
 	fra	Anton	np$np-ant$np-ant-m-sg	eng	Anton	np-ant$np-ant-m-sg$np$np-ant-m
-	fra	Antoni	np$np-ant-m-sg	eng	Antoni	np$np-ant$np-ant-m-sg
+	fra	Antoni	np$np-ant-m-sg	eng	Antoni	np$np-ant-m-sg$np-ant
 	fra	Antonia	np$np-ant-f-sg$np-ant	eng	Antonia	np-ant$np$np-ant-f-sg
 	fra	Antonio	np$np-ant$np-ant-m-sg	eng	Antonio	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Antonio	np$np-ant$np-ant-m-sg	eng	Antonio	np-ant$np$np-ant-m$np-ant-m-sg
@@ -8623,7 +8623,7 @@ RL	fra	Armstrong	np$np-cog-mf-sp$np-cog	eng	Armstrong	np-cog-pl
 	fra	Asunción	np-ant$np-ant-f-sg	eng	Asunción	np-ant$np-ant-f-sg
 	fra	Atahualpa	np$np-ant	eng	Atahualpa	np-ant$np$np-ant-m-sg
 	fra	Athènes	np-top-f-sg$np-top-f	eng	Athens	np-top$np-top-sg$np
-	fra	Athletic Club Bilbao	np$np-al-m	eng	Athletic Bilbao	np-al$np-al-sg
+	fra	Athletic Club Bilbao	np$np-al-m	eng	Athletic Bilbao	np-al
 	fra	Athos	np$np-ant	eng	Athos	np-ant$np$np-ant-m-sg$np-ant-m
 	fra	Atlanta	np$np-top-f	eng	Atlanta	np-top-sg$np-top
 	fra	Atutxa	np$np-cog-mf-sp$np-cog	eng	Atutxa	np-cog-sg$$np-cog
@@ -8631,7 +8631,7 @@ RL	fra	Atutxa	np$np-cog-mf-sp$np-cog	eng	Atutxa	np-cog-pl
 	fra	Aude	np$np-ant$np-ant-f-sg	eng	Aude	np-ant$np-ant-f-sg
 	fra	Audrey	np$np-ant-f-sg$np-ant	eng	Audrey	np-ant$np-ant-f-sg$np
 	fra	Augsburg	np$np-top-m	eng	Augsburg	np-top$np-top-sg
-	fra	Augustin	np$np-ant$np-ant-m-sg	eng	Augustin	np-ant$np-ant-m-sg$np
+	fra	Augustin	np$np-ant-m-sg$np-ant	eng	Augustin	np-ant$np-ant-m-sg$np
 	fra	Augusto	np$np-ant-m-sg$np-ant	eng	Augusto	np-ant$np-ant-m$np-ant-m-sg$np
 	fra	Aureliano	np$np-ant$np-ant-m-sg	eng	Aureliano	np-ant$np$np-ant-m-sg
 	fra	Aurelio	np$np-ant$np-ant-m-sg	eng	Aurelio	np-ant$np-ant-m$np-ant-m-sg$np
@@ -8652,7 +8652,7 @@ RL	fra	Aznar	np$np-cog-mf-sp$np-cog	eng	Aznar	np-cog-pl
 	fra	Bagdad	np-top-m$np-top-m-sg	eng	Baghdad	np-top$np-top-m$np
 	fra	Bahamas	np$np-loc-f	eng	Bahamas	np-top-pl$np-top
 	fra	Bahreïn	np$np-top-m$np-top-m-sg$np-top	eng	Bahrain	np-top$np$np-top-sg
-	fra	Îles Baléares	np$np-top-f	eng	Balearic Islands	np-top$np-top-sg
+	fra	Îles Baléares	np$np-top-f	eng	Balearic Islands	np-top
 	fra	Baltasar	np-ant$np-ant-m-sg	eng	Baltasar	np-ant$np-ant-m-sg$np
 	fra	Baltimore	np$np-top-f	eng	Baltimore	np-top-sg$np-top
 	fra	Balzac	np-cog-mf-sp$np	eng	Balzac	np-cog-sg$$np-cog
@@ -8674,12 +8674,12 @@ RL	fra	Barroso	np-cog-mf-sp$np	eng	Barroso	np-cog-pl
 	fra	Bartomeu	np$np-cog$np-cog-mf-sp	eng	Bartomeu	np$np-ant$np-ant-m-sg
 	fra	Basauri	np$np-top-m	eng	Basauri	np-top$np-top-sg
 	fra	Basilio	np$np-ant-m-sg$np-ant	eng	Basilio	np-ant$np-ant-m-sg$np$np-ant-m
-	fra	Pays Basque	np$np-top$np-top-m$np-top-m-sg	eng	Basque Country	np-top$np-top-sg
-	fra	bataille d'Austerlitz	np	eng	Battle of Austerlitz	np-al$np-al-sg
+	fra	Pays Basque	np-top$np$np-top-m$np-top-m-sg	eng	Basque Country	np-top
+	fra	bataille d'Austerlitz	np	eng	Battle of Austerlitz	np-al
 	fra	Bautista	np-ant$np-ant-m-sg	eng	Bautista	np-ant$np$np-ant-m-sg
 	fra	Bayard	np-ant	eng	Bayard	np-ant$$np-ant-m-sg
 	fra	Bea	np$np-ant$np-ant-f-sg	eng	Bea	np-ant$np$np-ant-f-sg
-	fra	Île aux Ours	np$np-top-f	eng	Bear Island	np-top$np-top-sg
+	fra	Île aux Ours	np$np-top-f	eng	Bear Island	np-top
 	fra	Beatriz	np$np-ant$np-ant-f-sg	eng	Beatriz	np-ant$np$np-ant-f-sg
 	fra	Beckett	np$np-cog-mf-sp	eng	Beckett	np-cog-pl$np$np-cog$
 	fra	Beckett	np$np-cog-mf-sp	eng	Beckett	np-cog-sg
@@ -8695,14 +8695,14 @@ RL	fra	Beethoven	np-cog-mf-sp$np	eng	Beethoven	np-cog-pl
 	fra	Bethléem	np-top-m-sg$np-top	eng	Belén	np-ant$np-ant-f-sg
 	fra	Bethléem	np-ant	eng	Belén	np-ant$np-ant-f-sg
 	fra	Ben	np$np-ant$np-ant-m-sg	eng	Ben	np-ant$np$np-ant-m$np-ant-m-sg
-	fra	Benoît XVI	np$np-ant	eng	Benedict XVI	np-ant$np$np-ant-m-sg
+	fra	Benoît XVI	np$np-ant	eng	Benedict XVI	np-ant$np
 	fra	Benigno	np$np-ant$np-ant-m-sg	eng	Benigno	np-ant$np$np-ant-m-sg
 	fra	Bénin	np-top-m$np-top-m-sg$np-top	eng	Benin	np-top$np-top-sg
 	fra	Benito	np$np-ant-m-sg$np-ant	eng	Benito	np-ant$np-ant-m$np-ant-m-sg$np
 	fra	Benjamin	np-ant$np$np-ant-m-sg	eng	Benjamin	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Bennett	np-ant	eng	Bennett	np-ant$np-ant-m-sg$$np$np-ant-m
 	fra	Benoît	np-ant$np-ant-m-sg$np	eng	Benoît	np-ant$np-ant-m-sg
-	fra	Berlin	np-top-m-sg$np-top$np-top-m	eng	Berlin	np-top$np$np-top-sg
+	fra	Berlin	np-top-m-sg$np-top$np-top-m	eng	Berlin	np-top$np$np-top-sg$np-top-m-sg
 	fra	Bermudes	np$np-top-f-pl	eng	Bermudas	np-top-sg
 	fra	Bernabé	np-ant$np-ant-m-sg	eng	Bernabé	np-ant$np$np-ant-m-sg
 	fra	Bernadette	np-ant-f-sg$np$np-ant	eng	Bernadette	np-ant$np-ant-f-sg
@@ -8735,10 +8735,10 @@ RL	fra	Blair	np$np-cog-mf-sp$np-cog	eng	Blair	np-cog-pl
 	fra	Bolivie	np$np-top-f-sg$np-top-f$np-top	eng	Bolivia	np-top$np$np-top-sg
 	fra	Bonaparte	np-cog-mf-sp$np	eng	Bonaparte	np-cog-sg$np-cog$$np
 RL	fra	Bonaparte	np-cog-mf-sp$np	eng	Bonaparte	np-cog-pl
-	fra	Bono	np-ant-m-sg$np-ant	eng	Bono	np-ant$np-ant-m$np-ant-m-sg
+	fra	Bono	np-ant-m-sg$np-ant	eng	Bono	np-ant$np-ant-m$np-ant-m-sg$
 	fra	Boris	np-ant$np$np-ant-m-sg	eng	Boris	np-ant$np-ant-m$np-ant-m-sg$np
 	fra	Borja	np$np-cog-mf-sp	eng	Borja	np$np-ant$np-ant-m-sg
-	fra	Bosnie	np-top-f$np-top-f-sg	eng	Bosnia	np-top$np$np-top-f
+	fra	Bosnie	np-top-f$np-top-f-sg	eng	Bosnia	np-top$np$np-top-sg
 	fra	Boston	np$np-top-m$np-top-m-sg	eng	Boston	np-top-sg$np-top
 	fra	Botswana	np-top$np-top-f	eng	Botswana	np-top$np-top-sg$np
 	fra	Brad	np$np-ant-m-sg$np-ant	eng	Brad	np-ant$np-ant-m$np-ant-m-sg$np
@@ -8751,8 +8751,8 @@ RL	fra	Bonaparte	np-cog-mf-sp$np	eng	Bonaparte	np-cog-pl
 	fra	Brian	np$np-ant$np-ant-m-sg	eng	Brian	np-ant$np-ant-m$np$np-ant-m-sg
 	fra	Brigitte	np$np-ant$np-ant-f-sg	eng	Brigitte	np-ant$np-ant-f-sg$np
 	fra	Grande-Bretagne	np$np-top-f$np-top-f-sg	eng	Britain	np-top$np$np-top-sg
-	fra	Îles Britanniques	np$np-top-f	eng	British Isles	np-top$np$np-top-sg
-	fra	Îles Vierges britanniques	np$np-top-f$np-top-f-pl	eng	British Virgin Islands	np-top$np-top-sg
+	fra	Îles Britanniques	np$np-top-f	eng	British Isles	np-top$np
+	fra	Îles Vierges britanniques	np$np-top-f$np-top-f-pl	eng	British Virgin Islands	np-top
 	fra	Britney Spears	np$np-ant$np-ant-f-sg	eng	Britney Spears	np-ant$np$np-ant-f-sg
 	fra	Brody	np$np-ant	eng	Brody	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Brown	np$np-cog-mf-sp$np-cog	eng	Brown	np$np-cog$np-cog-sg$
@@ -8766,9 +8766,9 @@ RL	fra	Browne	np-cog-mf-sp$np	eng	Browne	np-cog-pl
 	fra	Bruxelles	np-top-f	eng	Brussels	np-top$np$np-top-sg
 	fra	Bucarest	np-top-f	eng	Bucharest	np-top$np-top-sg
 	fra	Budapest	np-top-f	eng	Budapest	np-top$np-top-sg
-	fra	Buenos Aires	np-top-m$np-top-m-sg	eng	Buenos Aires	np-top$np-top-sg
+	fra	Buenos Aires	np-top-m$np-top-m-sg	eng	Buenos Aires	np-top$np-top-m
 	fra	Bulgarie	np-top-f$np-top-f-sg$np-top	eng	Bulgaria	np-top$np$np-top-f
-	fra	Burkina Faso	np-top-f$np-top-f-sg	eng	Burkina Faso	np-top$np-top-sg
+	fra	Burkina Faso	np-top$np-top-f	eng	Burkina Faso	np-top$np-top-sg
 	fra	Birmanie	np-top-f$np-top$np-top-f-sg	eng	Burma	np-top$np$np-top-sg
 	fra	Burundi	np-top-m$np-top$np-top-m-sg	eng	Burundi	np-top$np-top-sg$np
 	fra	Bush	np$np-cog$np-cog-mf-sp	eng	Bush	np-cog-sg$np-cog$np$
@@ -8789,7 +8789,7 @@ RL	fra	Bush	np$np-cog$np-cog-mf-sp	eng	Bush	np-cog-pl
 RL	fra	Campbell	np$np-cog-mf-sp$np-cog	eng	Campbell	np-cog-pl
 	fra	Canada	np-top-m$np-top-m-sg$np-top	eng	Canada	np-top$np$np-top-sg
 	fra	Canaries	np-top$np-top-f$np-top-f-pl	eng	Canaries	np-top$np-top-pl
-	fra	Îles Canaries	np$np-top-f	eng	Canary Islands	np-top$np-top-pl$np
+	fra	Îles Canaries	np$np-top-f	eng	Canary Islands	np-top$np$np-top-pl
 	fra	Candela	np-ant$np-ant-f-sg	eng	Candela	np-ant$np$np-ant-f-sg
 	fra	Candela	np$np-cog$np-cog-mf-sp	eng	Candela	np-ant$np$np-ant-f-sg
 	fra	Candelaria	np$np-ant$np-ant-f-sg	eng	Candelaria	np-ant$np$np-ant-f-sg
@@ -8811,14 +8811,14 @@ RL	fra	Campbell	np$np-cog-mf-sp$np-cog	eng	Campbell	np-cog-pl
 	fra	Carole	np-ant-f-sg$np$np-ant	eng	Carole	np-ant$np-ant-f-sg$np
 	fra	Carolina	np$np-ant$np-ant-f-sg	eng	Carolina	np-ant$np$np-ant-f$np-ant-f-sg
 	fra	Carolina	np$np-ant$np-ant-f-sg	eng	Carolina	np-ant$np$np-ant-f$np-ant-f-sg
-	fra	Caroline	np-ant-f-sg$np$np-ant	eng	Caroline	np-ant$np-ant-f-sg$np
+	fra	Caroline	np$np-ant-f-sg$np-ant	eng	Caroline	np-ant$np-ant-f-sg$np
 	fra	Carolyn	np$np-ant-f-sg$np-ant	eng	Carolyn	np-ant$np-ant-f-sg$np
 	fra	Caraïbe	np-top-m$np-top-m-sg	eng	Carribean	np-top$np-top-sg
 	fra	Carthage	np$np-top-m	eng	Carthage	np-top$np-top-sg
 	fra	Cassandre	np$np-ant-f-sg$np-ant	eng	Casandro	np-ant$np$np-ant-m-sg
 	fra	Casio	np$np-ant	eng	Casio	np-ant$np$np-ant-m-sg
 	fra	Cassandra	np$np-ant-f-sg$np-ant	eng	Cassandra	np-ant$np-ant-f-sg$np
-	fra	Castille-et-Léon	np-top-f-sg$np-top-f	eng	Castile and Leon	np-top$np-top-sg
+	fra	Castille-et-Léon	np-top-f-sg$np-top-f	eng	Castile and Leon	np-top
 	fra	Castro	np$np-cog-mf-sp$np-cog	eng	Castro	np-cog-sg$np$np-cog$
 RL	fra	Castro	np$np-cog-mf-sp$np-cog	eng	Castro	np-cog-pl
 	fra	Catalina	np$np-ant-f-sg$np-ant	eng	Catalina	np-ant$np$np-ant-f-sg
@@ -8826,7 +8826,7 @@ RL	fra	Castro	np$np-cog-mf-sp$np-cog	eng	Castro	np-cog-pl
 	fra	Catalogne	np-top-f-sg$np-top$np-top-f	eng	Catalonia	np-top$np-top-sg
 	fra	Catherine	np-ant-f-sg$np-ant$np	eng	Catherine	np-ant$np$np-ant-m
 	fra	Caton	np$np-ant$np-ant-m-sg	eng	Catón	np-ant$np-ant-m-sg
-	fra	Îles Caïmans	np$np-top-f	eng	Cayman Islands	np-top$np-top-pl$np
+	fra	Îles Caïmans	np$np-top-f	eng	Cayman Islands	np-top$np
 	fra	Caïn	np-ant$np	eng	Caín	np-ant$np$np-ant-m-sg
 	fra	Cecilia	np$np-ant$np-ant-f-sg	eng	Cecilia	np-ant$np$np-ant-f-sg
 	fra	Cecilia	np$np-ant$np-ant-f-sg	eng	Cecilia	np-ant$np$np-ant-f-sg
@@ -8838,12 +8838,12 @@ RL	fra	Castro	np$np-cog-mf-sp$np-cog	eng	Castro	np-cog-pl
 	fra	Ceylan	np$np-top-m	eng	Ceylon	np-top$np-top-sg
 	fra	Tchad	np-ant	eng	Chad	np-ant$np-ant-m-sg
 	fra	Tchad	np-top-f	eng	Chad	np-top$np-top-sg$np
-	fra	Îles Anglo-Normandes	np$np-top-f	eng	Channel Islands	np-top$np-top-sg
+	fra	Îles Anglo-Normandes	np$np-top-f	eng	Channel Islands	np-top
 	fra	Chantal	np$np-ant$np-ant-f-sg	eng	Chantal	np-ant$$np$np-ant-f-sg
 	fra	Carloman	np	eng	Charlemagne	np-ant$np-ant-m-sg
 	fra	Charles	np-ant$np-ant-m-sg$np	eng	Charles	np-ant$np-ant-m$np$np-ant-m-sg$
 	fra	Charlie	np$np-ant$np-ant-m-sg	eng	Charlie	np-ant$np$np-ant-m$np-ant-m-sg
-	fra	Charlotte	np-ant-f-sg$np$np-ant	eng	Charlotte	np-ant$np$np-ant-f-sg$np-ant-f
+	fra	Charlotte	np$np-ant-f-sg$np-ant	eng	Charlotte	np-ant$np$np-ant-f-sg$np-ant-f
 	fra	Charo	np$np-ant$np-ant-f-sg	eng	Charo	np-ant$np-ant-f-sg
 	fra	Chatterley	np-cog-mf-sp$np	eng	Chatterley	np-cog-sg$$np-cog
 RL	fra	Chatterley	np-cog-mf-sp$np	eng	Chatterley	np-cog-pl
@@ -8897,13 +8897,13 @@ RL	fra	Cohen	np-cog-mf-sp$np	eng	Cohen	np-cog-pl
 RL	fra	Collantes	np-cog-mf-sp$np	eng	Collantes	np-cog-pl
 	fra	Collina	np-cog-mf-sp$np	eng	Collina	np-cog-sg$$np-cog
 RL	fra	Collina	np-cog-mf-sp$np	eng	Collina	np-cog-pl
-	fra	Colom	np$np-cog-mf-sp$np-cog	eng	Colom	np-cog-sg$$np-cog
-RL	fra	Colom	np$np-cog-mf-sp$np-cog	eng	Colom	np-cog-pl
+	fra	Colom	np-cog-mf-sp$np$np-cog	eng	Colom	np-cog-sg$$np-cog
+RL	fra	Colom	np-cog-mf-sp$np$np-cog	eng	Colom	np-cog-pl
 	fra	Coloma	np$np-cog-mf-sp$np-cog	eng	Coloma	np-cog-sg$$np-cog
 RL	fra	Coloma	np$np-cog-mf-sp$np-cog	eng	Coloma	np-cog-pl
 	fra	Colombie	np-top-f$np-top-f-sg$np-top	eng	Colombia	np-top$np$np-top-sg
 	fra	Colombo	np-ant	eng	Colombo	np-ant$np-ant-m-sg$np$np-ant-m
-	fra	Complejo Ática	np$np-top-m	eng	Complejo Ática	np-top$np-top-sg
+	fra	Complejo Ática	np$np-top-m	eng	Complejo Ática	np-top
 	fra	Conde	np-cog-mf-sp$np	eng	Conde	np-cog-sg$$np-cog
 RL	fra	Conde	np-cog-mf-sp$np	eng	Conde	np-cog-pl
 	fra	Condoleezza	np$np-ant-f-sg$np-ant	eng	Condoleezza	np-ant$np-ant-f$np$np-ant-f-sg
@@ -8911,13 +8911,13 @@ RL	fra	Conde	np-cog-mf-sp$np	eng	Conde	np-cog-pl
 	fra	Constance	np$np-ant$np-ant-f-sg	eng	Constance	np-ant$np-ant-f-sg$np
 	fra	Constance	np-top	eng	Constanza	np-ant$np-ant-f-sg
 	fra	Consuelo	np$np-ant-f-sg$np-ant	eng	Consuelo	np-ant$np-ant-f-sg
-	fra	Îles Cook	np$np-top-f$np-top-f-pl	eng	Cook Islands	np-top$np-top-sg
+	fra	Îles Cook	np$np-top-f$np-top-f-pl	eng	Cook Islands	np-top$np-top-pl
 	fra	Cooper	np-ant	eng	Cooper	np-ant$np-ant-m$np-ant-m-sg$$np
 	fra	Corine	np$np-ant$np-ant-f-sg	eng	Corine	np-ant$np-ant-f-sg
 	fra	Corinne	np$np-ant$np-ant-f-sg	eng	Corinne	np-ant$np$np-ant-f-sg
 	fra	Correa	np-ant-f-sg$np-ant	eng	Correa	np-ant$np-ant-f-sg$
 	fra	Coran	np-ant	eng	Corán	np-ant$np
-	fra	Costa Rica	np-top-f	eng	Costa Rica	np-top$np-top-sg$np
+	fra	Costa Rica	np-top-f	eng	Costa Rica	np-top$np$np-top-sg
 	fra	Cowen	np-cog-mf-sp$np	eng	Cowen	np-cog-sg$np-cog$
 RL	fra	Cowen	np-cog-mf-sp$np	eng	Cowen	np-cog-pl
 	fra	Cristian	np$np-ant-m-sg$np-ant	eng	Cristian	np-ant$np$np-ant-m$np-ant-m-sg
@@ -8937,8 +8937,8 @@ RL	fra	Cruise	np$np-cog-mf-sp$np-cog	eng	Cruise	np-cog-pl
 	fra	Cupidon	np-ant$np	eng	Cupidon	np-ant$np-ant-m-sg
 	fra	Chypre	np-top-m	eng	Cyprus	np-top$np$np-top-sg
 	fra	Cyrille	np$np-ant-m-sg$np-ant	eng	Cyrille	np-ant$np-ant-m-sg
-	fra	République tchèque	np-top-f$np-top$np-top-f-sg	eng	Czech Republic	np-top$np$np-top-sg
-	fra	Chequia	np$np-top-f	eng	Czech Republic	np-top$np$np-top-sg
+	fra	République tchèque	np-top-f$np-top$np-top-f-sg	eng	Czech Republic	np-top$np$np-top-f
+	fra	Chequia	np$np-top-f	eng	Czech Republic	np-top$np$np-top-f
 	fra	Tchécoslovaquie	np-top-f$np-top-f-sg	eng	Czechoslovakia	np-top$np$np-top-sg
 	fra	Cándido	np$np-ant$np-ant-m-sg	eng	Cándido	np-ant$np$np-ant-m-sg
 	fra	Cécile	np$np-ant$np-ant-f-sg	eng	Cécile	np-ant$np-ant-f-sg
@@ -9022,7 +9022,7 @@ RL	fra	Donnedieu	np-cog-mf-sp$np	eng	Donnedieu	np-cog-pl
 	fra	Douglas	np-ant-m-sg$np-ant	eng	Douglas	np-ant$np$np-ant-m-sg$np-ant-m$
 	fra	Douste-Blazy	np-cog-mf-sp$np	eng	Douste-Blazy	np-cog-sg$$np-cog
 RL	fra	Douste-Blazy	np-cog-mf-sp$np	eng	Douste-Blazy	np-cog-pl
-	fra	Dow Jones	np$np-al-m	eng	Dow Jones	np-al$np-al-sg
+	fra	Dow Jones	np$np-al-m	eng	Dow Jones	np-al
 	fra	Downing	np-cog-mf-sp$np	eng	Downing	np-cog-sg$np-cog$$np
 RL	fra	Downing	np-cog-mf-sp$np	eng	Downing	np-cog-pl
 	fra	Dracula	np$np-cog-mf-sp	eng	Dracula	np-ant$np-ant-m-sg$np-ant-m
@@ -9049,8 +9049,8 @@ RL	fra	Durán	np$np-cog-mf-sp$np-cog	eng	Durán	np-cog-pl
 RL	fra	Díaz	np$np-cog-mf-sp$np-cog	eng	Díaz	np-cog-pl
 	fra	Díez	np$np-cog-mf-sp$np-cog	eng	Díez	np-cog-sg$$np-cog
 RL	fra	Díez	np$np-cog-mf-sp$np-cog	eng	Díez	np-cog-pl
-	fra	E.H. Sukarra	np$np-al-m	eng	E.H. Sukarra	np-al$np-al-sg
-	fra	Île de Pâques	np$np-top-f$np-top-f-sg	eng	Easter Island	np-top$np-top-sg$np-top-f-sg
+	fra	E.H. Sukarra	np$np-al-m	eng	E.H. Sukarra	np-al
+	fra	Île de Pâques	np$np-top-f$np-top-f-sg	eng	Easter Island	np-top
 	fra	Eastwood	np-cog-mf-sp$np	eng	Eastwood	np-cog-sg$np-cog$$np
 RL	fra	Eastwood	np-cog-mf-sp$np	eng	Eastwood	np-cog-pl
 	fra	Équateur	np-top-m$np-top-m-sg$np-top	eng	Ecuador	np-top$np-top-sg$np
@@ -9069,7 +9069,7 @@ RL	fra	Egibar	np$np-cog-mf-sp	eng	Egibar	np-cog-pl
 	fra	Égypte	np-top-m	eng	Egypt	np-top$np$np-top-sg
 	fra	Eiffel	np$np-cog-mf-sp$np-cog	eng	Eiffel	np-cog-sg$np-cog$$np
 RL	fra	Eiffel	np$np-cog-mf-sp$np-cog	eng	Eiffel	np-cog-pl
-	fra	El Correo	np$np-al-m	eng	El Correo	np-al$np-al-sg
+	fra	El Correo	np$np-al-m	eng	El Correo	np-al
 	fra	ElBaradei	np-cog-mf-sp$np	eng	ElBaradei	np-cog-sg$np-cog$
 RL	fra	ElBaradei	np-cog-mf-sp$np	eng	ElBaradei	np-cog-pl
 	fra	Eladio	np$np-ant	eng	Eladio	np-ant$np-ant-m$np-ant-m-sg$np
@@ -9123,8 +9123,8 @@ RL	fra	ElBaradei	np-cog-mf-sp$np	eng	ElBaradei	np-cog-pl
 	fra	Scipion	np$np-ant	eng	Escipión	np-ant
 	fra	Esmeralda	np$np-ant$np-ant-f-sg	eng	Esmeralda	np-ant$np$np-ant-f-sg
 	fra	Spartacus	np$np-ant	eng	Espartaco	np-ant$np$np-ant-m-sg
-	fra	Espasa	np$np-cog-mf-sp	eng	Espasa	np-al$$np-al-sg
-	fra	Espasa Calpe	np$np-al-f-sg	eng	Espasa Calpe	np-al$np-al-sg
+	fra	Espasa	np$np-al-f-sg	eng	Espasa	np-al$np-al-sg$
+	fra	Espasa Calpe	np	eng	Espasa Calpe	np-al
 	fra	Estanislao	np$np-ant$np-ant-m-sg	eng	Estanislao	np-ant$np$np-ant-m-sg
 	fra	Esteban	np-ant-m-sg$np$np-ant	eng	Esteban	np-ant$np$np-ant-m-sg
 	fra	Estefanía	np$np-ant$np-ant-f-sg	eng	Estefanía	np-ant$np-ant-f-sg
@@ -9156,7 +9156,7 @@ RL	fra	Evans	np-cog-mf-sp$np$np-cog	eng	Evans	np-cog-pl
 	fra	Fabio	np$np-ant-m-sg$np-ant	eng	Fabio	np-ant$np-ant-m$np-ant-m-sg$np
 	fra	Fabiola	np$np-ant-f-sg$np-ant	eng	Fabiola	np-ant$np-ant-f-sg$np
 	fra	Fabrice	np$np-ant$np-ant-m-sg	eng	Fabrice	np-ant$np$np-ant-m-sg
-	fra	Îles Malouines	np$np-top$np-top-f	eng	Falkland Islands	np-top$np-top-pl
+	fra	Îles Malouines	np$np-top$np-top-f	eng	Falkland Islands	np-top
 	fra	Malouines	np$np-top-f	eng	Falklands	np-top$np-top-pl
 	fra	Fanny Hess	np$np-ant	eng	Fanny Hess	np-ant$np-ant-f-sg
 	fra	Farrell	np-cog-mf-sp$np	eng	Farrell	np-cog-sg$np-cog$$np
@@ -9179,11 +9179,11 @@ RL	fra	Fernández	np$np-cog-mf-sp$np-cog	eng	Fernández	np-cog-pl
 	fra	Ferrari	np-al$np-al-mf$np	eng	Ferrari	np-cog-pl
 	fra	Ferrari	np-ant	eng	Ferrari	np-cog-pl
 	fra	Fidel	np$np-ant$np-ant-m-sg	eng	Fidel	np-ant$np-ant-m-sg$np$np-ant-m
-	fra	Fidel Castro	np$np-ant-m-sg	eng	Fidel Castro	np-ant$np$np-ant-m-sg
+	fra	Fidel Castro	np$np-ant-m-sg	eng	Fidel Castro	np-ant$np
 	fra	Fidji	np-top-f-pl$np-top-f	eng	Fiji	np-top$np-top-sg$np
 	fra	Filippo	np$np-ant$np-ant-m-sg	eng	Filippo	np-ant$np-ant-m-sg$np-ant-m
 	fra	Finlande	np-top-f$np-top-f-sg$np-top	eng	Finland	np-top$np$np-top-sg
-	fra	Première Guerre mondiale	np$np-al-f-sg	eng	First World War	np-al$np-al-sg
+	fra	Première Guerre mondiale	np$np-al-f-sg	eng	First World War	np-al
 	fra	Florence	np-ant$np-ant-f-sg$np	eng	Florence	np-ant$np$np-ant-f-sg
 	fra	Florence	np-top$np-top-f-sg	eng	Florencia	np-ant$np$np-ant-f-sg
 	fra	Florence	np-ant$np-ant-f-sg$np	eng	Florencia	np-ant$np$np-ant-f-sg
@@ -9211,19 +9211,19 @@ RL	fra	Franco	np$np-cog-mf-sp$np-cog	eng	Franco	np-cog-pl
 	fra	Frank	np$np-ant-m-sg$np-ant	eng	Frank	np-ant$np-ant-m$np$np-ant-m-sg
 	fra	Francfort	np-top-m-sg$np-top-m	eng	Frankfurt	np-top$np-top-sg
 	fra	Franklin	np-ant$np-ant-m-sg	eng	Franklin	np-ant$np$np-ant-m$np-ant-m-sg$
-	fra	François	np-ant$np-ant-m-sg$np	eng	François	np-ant$np$np-ant-m-sg
+	fra	François	np-ant-m-sg$np-ant$np	eng	François	np-ant$np$np-ant-m-sg
 	fra	Françoise	np-ant-f-sg$np$np-ant	eng	Françoise	np-ant$np-ant-f-sg
 	fra	Fred	np$np-ant$np-ant-m-sg	eng	Fred	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Freddy	np$np-ant-m-sg$np-ant	eng	Freddy	np-ant$np-ant-m-sg$np
-	fra	Ìles des Amis	np$np-top-f	eng	Friendly Islands	np-top-sg$np-top
-	fra	Frédéric	np-ant$np-ant-m-sg$np	eng	Frédéric	np-ant$np-ant-m-sg
+	fra	Ìles des Amis	np$np-top-f	eng	Friendly Islands	np-top
+	fra	Frédéric	np-ant-m-sg$np-ant$np	eng	Frédéric	np-ant$np-ant-m-sg
 	fra	Fátima	np$np-ant-f-sg$np-ant	eng	Fátima	np-ant$np$np-ant-f-sg
 	fra	Félix	np-ant$np$np-ant-m-sg	eng	Félix	np-ant$np$np-ant-m-sg
 	fra	Felix	np$np-ant$np-ant-m-sg	eng	Félix	np-ant$np$np-ant-m-sg
 	fra	Gabino	np$np-ant$np-ant-m-sg	eng	Gabino	np-ant$np$np-ant-m-sg
 	fra	Gabon	np-top-m$np-top-m-sg$np-top	eng	Gabon	np-top$np-top-sg$np
-	fra	Gabriel	np-ant$np$np-ant-m-sg	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg
-	fra	Gabriel	np-ant$np$np-ant-m-sg	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg
+	fra	Gabriel	np-ant$np$np-ant-m-sg	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m
+	fra	Gabriel	np-ant$np$np-ant-m-sg	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m
 	fra	Gabriela	np$np-ant-f-sg$np-ant	eng	Gabriela	np-ant$np$np-ant-f-sg$np-ant-f
 	fra	Gabriela	np$np-ant-f-sg$np-ant	eng	Gabriela	np-ant$np$np-ant-f-sg$np-ant-f
 	fra	Gael	np$np-ant$np-ant-m-sg	eng	Gael	np-ant$np-ant-m-sg$np
@@ -9261,7 +9261,7 @@ RL	fra	Gautier	np$np-cog-mf-sp$np-cog	eng	Gautier	np-cog-pl
 	fra	Geneviève	np-ant-f-sg$np$np-ant	eng	Geneviève	np-ant$np-ant-f-sg
 	fra	George	np$np-ant$np-ant-m-sg	eng	George	np-ant$np$np-ant-m$np-ant-m-sg$
 	fra	George	np$np-ant$np-ant-m-sg	eng	George	np-ant$np$np-ant-m$np-ant-m-sg$
-	fra	George W. Bush	np$np-ant-m-sg	eng	George W. Bush	np$np-ant$np-ant-m-sg
+	fra	George W. Bush	np$np-ant-m-sg	eng	George W. Bush	np$np-ant
 	fra	Georges	np-ant$np-ant-m-sg$np	eng	Georges	np-ant$np-ant-m-sg
 	fra	Géorgie	np-ant	eng	Georgia	np-ant$np-ant-f-sg
 	fra	Géorgie	np-top-f$np-top-f-sg	eng	Georgia	np-top$np$np-top-sg
@@ -9310,11 +9310,11 @@ RL	fra	Gorbatchev	np-cog-mf-sp$np	eng	Gorbachov	np-cog-pl
 RL	fra	Gore	np-cog-mf-sp$np	eng	Gore	np-cog-pl
 	fra	Gorka	np$np-ant$np-ant-m-sg	eng	Gorka	np-ant$np-ant-m-sg
 	fra	Grande-Bretagne	np$np-top-f$np-top-f-sg	eng	Great Britain	np-top$np$np-top-sg
-	fra	Grand Dépression	np	eng	Great Depression	np-al$np-al-sg
-	fra	Grande Guerre	np	eng	Great War	np-al$np-al-sg
+	fra	Grand Dépression	np	eng	Great Depression	np-al
+	fra	Grande Guerre	np	eng	Great War	np-al
 	fra	Grèce	np-ant	eng	Grecia	np-ant$np$np-ant-f-sg
 	fra	Grèce	np$np-top$np-top-f$np-top-f-sg	eng	Greece	np-top$np$np-top-sg
-	fra	Groenland	np-top-f	eng	Greenland	np-top$np$np-top-sg
+	fra	Groenland	np-top-f	eng	Greenland	np-top$np$np-top-sg$np-top-nt-sg
 	fra	Greenpeace	np-al$np-al-f-sg$np	eng	Greenpeace	np-al$np-al-sg
 	fra	Gregorio	np$np-ant-m-sg$np-ant	eng	Gregorio	np-ant$np-ant-m-sg
 	fra	Gregory	np-ant	eng	Gregory	np-ant$np$np-ant-m-sg$$np-ant-m
@@ -9332,9 +9332,9 @@ RL	fra	Gore	np-cog-mf-sp$np	eng	Gore	np-cog-pl
 	fra	Guillaume	np-ant$np-ant-m-sg$np	eng	Guillaume	np-ant$np-ant-m-sg$np-ant-m
 	fra	Guillem	np$np-ant-m-sg	eng	Guillem	np$np-ant$np-ant-m-sg
 	fra	Guillermo	np$np-ant$np-ant-m-sg	eng	Guillermo	np-ant$np-ant-m$np-ant-m-sg$np
-	fra	Guinée	np-top-f$np-top-f-sg$np-top	eng	Guinea	np-top$np$np-top-sg
+	fra	Guinée	np$np-top-f-sg$np-top-f$np-top	eng	Guinea	np-top$np$np-top-sg
 	fra	Gustav	np$np-ant$np-ant-m-sg	eng	Gustav	np-ant$np-ant-m-sg$np-ant-m$np
-	fra	Gustave	np-ant$np-ant-m-sg$np	eng	Gustave	np-ant$np-ant-m-sg
+	fra	Gustave	np-ant$np$np-ant-m-sg	eng	Gustave	np-ant$np-ant-m-sg
 	fra	Gustavo	np$np-ant-m-sg$np-ant	eng	Gustavo	np-ant$np$np-ant-m-sg
 	fra	Gutiérrez	np$np-cog-mf-sp$np-cog	eng	Gutiérrez	np-cog-sg$$np-cog
 RL	fra	Gutiérrez	np$np-cog-mf-sp$np-cog	eng	Gutiérrez	np-cog-pl
@@ -9398,7 +9398,7 @@ RL	fra	Hirsch	np-cog-mf-sp$np	eng	Hirsch	np-cog-pl
 RL	fra	Hitler	np$np-cog-mf-sp$np-cog	eng	Hitler	np-cog-pl
 	fra	Hollande	np-top-f-sg$np-top-f	eng	Holland	np-top$np-top-sg$np$
 	fra	Hollywood	np-top-m-sg$np-top	eng	Hollywood	np-top-sg$np-top
-	fra	Homer	np$np-ant$np-ant-m-sg	eng	Homer	np$np-ant$np-ant-m$np-ant-m-sg
+	fra	Homer	np$np-ant-m-sg$np-ant	eng	Homer	np$np-ant$np-ant-m$np-ant-m-sg
 	fra	Homère	np$np-ant$np-ant-m-sg	eng	Homero	np-ant$np$np-ant-m-sg
 	fra	Honduras	np-top-f	eng	Honduras	np-top$np-top-sg$np
 	fra	Hong Kong	np$np-top$np-top-m$np-top-m-sg	eng	Hong Kong	np$np-top$np-top-sg
@@ -9422,7 +9422,7 @@ RL	fra	Hussein	np$np-cog-mf-sp$np-cog	eng	Hussein	np-cog-pl
 	fra	Ian	np$np-ant-m-sg$np-ant	eng	Ian	np-ant$np$np-ant-m-sg$np-ant-m
 	fra	Ibarretxe	np$np-cog-mf-sp$np-cog	eng	Ibarretxe	np-cog-sg$$np-cog
 RL	fra	Ibarretxe	np$np-cog-mf-sp$np-cog	eng	Ibarretxe	np-cog-pl
-	fra	Ibex 35	np$np-al-m	eng	Ibex 35	np-al$np-al-sg
+	fra	Ibex 35	np$np-al-m	eng	Ibex 35	np-al
 	fra	Ibiza	np$np-top-f-sg$np-top-f	eng	Ibiza	np-top-sg$np-top
 	fra	Ibrahim	np$np-ant-m-sg$np-ant	eng	Ibrahim	np-ant$np-ant-m$np$np-ant-m-sg
 	fra	Ibáñez	np$np-cog-mf-sp$np-cog	eng	Ibáñez	np-cog-sg$$np-cog
@@ -9443,9 +9443,9 @@ RL	fra	Imaz	np$np-cog-mf-sp	eng	Imaz	np-cog-pl
 	fra	Ingrid	np$np-ant-f-sg$np-ant	eng	Ingrid	np-ant$np-ant-f-sg$np
 	fra	Inmaculada	np$np-ant$np-ant-f-sg	eng	Inmaculada	np-ant$np$np-ant-f-sg
 	fra	Innocent	np-ant$np-ant-m-sg$np	eng	Inocencio	np-ant$np$np-ant-m-sg
-	fra	Banque Internationale pour la Reconstruction et le Développement	np$np-al-m	eng	International Bank for Reconstruction and Development	np-al$np-al-sg
+	fra	Banque Internationale pour la Reconstruction et le Développement	np$np-al-m	eng	International Bank for Reconstruction and Development	np-al
 	fra	Inés	np$np-ant$np-ant-f-sg	eng	Inés	np-ant$np$np-ant-f-sg
-	fra	Îles Ioniennes	np$np-top-f	eng	Ionian Islands	np-top$np-top-sg
+	fra	Îles Ioniennes	np$np-top-f	eng	Ionian Islands	np-top
 	fra	Iowa	np$np-top-m$np-top-ind-m	eng	Iowa	np-top$np-top-sg
 	fra	Iran	np-top-m$np-top-m-sg$np-top	eng	Iran	np-top$np$np-top-m
 	fra	Iraq	np-top-m$np-top-m-sg	eng	Iraq	np-top$np$np-top-m
@@ -9475,7 +9475,7 @@ RL	fra	Irons	np-cog-mf-sp$np	eng	Irons	np-cog-pl
 	fra	Ivan	np$np-ant-m-sg$np-ant	eng	Ivan	np-ant$np-ant-m$np-ant-m-sg$np
 	fra	Ivanov	np-cog-mf-sp$np	eng	Ivanov	np-cog-sg$np$$np-cog
 RL	fra	Ivanov	np-cog-mf-sp$np	eng	Ivanov	np-cog-pl
-	fra	Côte d'Ivoire	np-top-f$np-top-f-sg	eng	Ivory Coast	np-top$np-top-sg
+	fra	Côte d'Ivoire	np-top-f$np-top-f-sg	eng	Ivory Coast	np-top
 	fra	Iván	np$np-ant-m-sg$np-ant	eng	Iván	np-ant$np-ant-m-sg
 	fra	Iñaki	np$np-ant$np-ant-m-sg	eng	Iñaki	np-ant$np-ant-m-sg$np
 	fra	Iñigo	np-ant$np-ant-m-sg	eng	Iñigo	np-ant$np-ant-m-sg$np
@@ -9494,8 +9494,8 @@ RL	fra	Ivanov	np-cog-mf-sp$np	eng	Ivanov	np-cog-pl
 	fra	Jamaïque	np-top-f$np-top-f-sg	eng	Jamaica	np-top$np$np-top-sg
 	fra	James	np$np-ant-m-sg$np-ant	eng	James	np-ant$np$np-ant-m$np-ant-m-sg$
 	fra	James	np$np-ant-m-sg$np-ant	eng	James	np-ant$np$np-ant-m$np-ant-m-sg$
-	fra	Jan	np$np-ant$np-ant-m-sg	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg
-	fra	Jan	np$np-ant$np-ant-m-sg	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg
+	fra	Jan	np$np-ant$np-ant-m-sg	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m
+	fra	Jan	np$np-ant$np-ant-m-sg	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m
 	fra	Jane	np$np-ant-f-sg$np-ant	eng	Jane	np-ant$np$np-ant-f-sg$np-ant-f
 	fra	Jane	np$np-ant-f-sg$np-ant	eng	Jane	np-ant$np$np-ant-f-sg$np-ant-f
 	fra	Janus	np$np-ant$np-ant-m-sg	eng	Jano	np-ant$np$np-ant-m-sg
@@ -9506,7 +9506,7 @@ RL	fra	Ivanov	np-cog-mf-sp$np	eng	Ivanov	np-cog-pl
 	fra	Jaume	np$np-ant-m-sg	eng	Jaume	np$np-ant$np-ant-m-sg
 	fra	Javier	np$np-ant$np-ant-m-sg	eng	Javier	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Javier	np$np-ant$np-ant-m-sg	eng	Javier	np-ant$np$np-ant-m$np-ant-m-sg
-	fra	Jean	np-ant-m-sg$np-ant$np	eng	Jean	np-ant$np-ant-m-sg$np$np-ant-m
+	fra	Jean	np-ant-m-sg$np$np-ant	eng	Jean	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Jean-Baptiste	np$np-ant-m-sg$np-ant	eng	Jean-Baptiste	np-ant$np-ant-m-sg
 	fra	Jean-Bernard	np$np-ant$np-ant-m-sg	eng	Jean-Bernard	np-ant$np$np-ant-m-sg
 	fra	Jean-Charles	np$np-ant$np-ant-m-sg	eng	Jean-Charles	np-ant$np$np-ant-m-sg
@@ -9537,9 +9537,9 @@ RL	fra	Ivanov	np-cog-mf-sp$np	eng	Ivanov	np-cog-pl
 	fra	Jimmy	np$np-ant-m-sg$np-ant	eng	Jimmy	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Jiménez	np$np-cog-mf-sp$np-cog	eng	Jiménez	np-cog-sg$$np-cog
 RL	fra	Jiménez	np$np-cog-mf-sp$np-cog	eng	Jiménez	np-cog-pl
-	fra	Joan	np$np-ant$np-ant-m-sg	eng	Joan	np-ant$np$np-ant-m-sg
-	fra	Joan	np$np-ant$np-ant-m-sg	eng	Joan	np-ant$np$np-ant-m-sg
-	fra	Joana	np$np-ant-f-sg$np-ant	eng	Joana	np-ant$np-ant-f$np$np-ant-f-sg
+	fra	Joan	np-ant-m-sg$np$np-ant	eng	Joan	np-ant$np-ant-m-sg$np
+	fra	Joan	np-ant-m-sg$np$np-ant	eng	Joan	np-ant$np-ant-m-sg$np
+	fra	Joana	np$np-ant-f-sg$np-ant	eng	Joana	np-ant$np-ant-f$np-ant-f-sg$np
 	fra	Joaquim	np$np-ant-m-sg	eng	Joaquim	np$np-ant$np-ant-m-sg
 	fra	Joaquin	np-ant-m-sg$np-ant	eng	Joaquin	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Joaquín	np$np-ant$np-ant-m-sg	eng	Joaquín	np-ant$np-ant-m-sg
@@ -9574,8 +9574,8 @@ RL	fra	Jones	np$np-cog-mf-sp$np-cog	eng	Jones	np-cog-pl
 	fra	Jose	np$np-ant-m-sg$np-ant	eng	Jose	np-ant$np-ant-m$np-ant-m-sg$np
 	fra	Joseba	np$np-ant$np-ant-m-sg	eng	Joseba	np-ant$np-ant-m-sg
 	fra	Josefa	np$np-ant-f-sg$np-ant	eng	Josefa	np-ant$np$np-ant-f-sg
-	fra	Josefina	np$np-ant-f-sg$np-ant	eng	Josefina	np-ant$np-ant-f-sg$np
-	fra	Josep	np$np-ant-m-sg	eng	Josep	np$np-ant$np-ant-m$np-ant-m-sg
+	fra	Josefina	np-ant-f-sg$np$np-ant	eng	Josefina	np-ant$np-ant-f-sg$np
+	fra	Josep	np-ant-m-sg$np	eng	Josep	np-ant-m-sg$np$np-ant$np-ant-m
 	fra	Joseph	np-ant$np$np-ant-m-sg	eng	Joseph	np-ant$np$np-ant-m$np-ant-m-sg$
 	fra	Joseph	np-ant$np$np-ant-m-sg	eng	Joseph	np-ant$np$np-ant-m$np-ant-m-sg$
 	fra	Josiane	np-ant-f-sg$np$np-ant	eng	Josiane	np-ant$np-ant-f-sg
@@ -9593,19 +9593,19 @@ RL	fra	Jones	np$np-cog-mf-sp$np-cog	eng	Jones	np-cog-pl
 	fra	Joyce	np-ant-m-sg$np-ant	eng	Joyce	np-ant$np$np-ant-f-sg$
 	fra	Joël	np$np-ant$np-ant-m-sg	eng	Joël	np-ant$np-ant-m-sg
 	fra	Joëlle	np$np-ant$np-ant-f-sg	eng	Joëlle	np-ant$np-ant-f-sg
-	fra	Juan	np$np-ant$np-ant-m-sg	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m
-	fra	Juan	np$np-ant$np-ant-m-sg	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m
+	fra	Juan	np$np-ant-m-sg$np-ant	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m
+	fra	Juan	np$np-ant-m-sg$np-ant	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m
 	fra	Jean Cabot	np$np-ant	eng	Juan Caboto	np-ant
-	fra	Jean Calvin	np$np-ant$np-ant-m-sg	eng	Juan Calvino	np-ant
+	fra	Jean Calvin	np$np-ant	eng	Juan Calvino	np-ant
 	fra	Juan Carlos Ier	np$np-ant	eng	Juan Carlos I	np-ant$np-ant-m-sg
-	fra	Juan Jesús Vivas Lara	np$np-ant	eng	Juan Jesús Vivas Lara	np-ant$np-ant-m-sg
-	fra	Juan José Ibarretxe	np$np-ant	eng	Juan José Ibarretxe	np-ant$np-ant-m-sg
-	fra	Juan José Ibarretxe Markuartu	np$np-ant	eng	Juan José Ibarretxe Markuartu	np-ant$np-ant-m-sg
+	fra	Juan Jesús Vivas Lara	np$np-ant	eng	Juan Jesús Vivas Lara	np-ant
+	fra	Juan José Ibarretxe	np$np-ant	eng	Juan José Ibarretxe	np-ant
+	fra	Juan José Ibarretxe Markuartu	np$np-ant	eng	Juan José Ibarretxe Markuartu	np-ant
 	fra	Juana	np$np-ant-f-sg$np-ant	eng	Juana	np-ant$np-ant-f-sg$np
 	fra	Juanito	np$np-ant$np-ant-m-sg	eng	Juanito	np-ant$np-ant-m-sg
 	fra	Judas	np-ant$np$np-ant-m-sg	eng	Judas	np-ant$np$np-ant-m-sg
 	fra	Judith	np$np-ant$np-ant-f-sg	eng	Judith	np-ant$np-ant-f-sg$np$np-ant-f
-	fra	Jules	np-ant$np-ant-m-sg$np	eng	Jules	np-ant$np-ant-m$np-ant-m-sg
+	fra	Jules	np-ant-m-sg$np-ant$np	eng	Jules	np-ant$np-ant-m$np-ant-m-sg
 	fra	Juli	np$np-ant-m-sg	eng	Juli	np$np-ant$np-ant-m-sg
 	fra	Julia	np$np-ant$np-ant-f-sg	eng	Julia	np-ant$np$np-ant-f-sg$np-ant-f
 	fra	Julian	np$np-ant-m-sg$np-ant	eng	Julian	np-ant$np$np-ant-m-sg$np-ant-m
@@ -9636,7 +9636,7 @@ RL	fra	Kaczynski	np-cog-mf-sp$np	eng	Kaczynski	np-cog-pl
 	fra	Kazakhstan	np-top-m$np-top-m-sg$np-top	eng	Kazakhstan	np-top$np-top-sg$np
 	fra	Keith	np$np-ant$np-ant-m-sg	eng	Keith	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Kelly	np-ant-m-sg$np-ant	eng	Kelly	np-ant$np-ant-m-sg$np$np-ant-m$
-	fra	Ken	np$np-ant-m-sg$np-ant	eng	Ken	np-ant$np$np-ant-m$np-ant-m-sg
+	fra	Ken	np$np-ant-m-sg$np-ant	eng	Ken	np-ant$np$np-ant-m-sg$np-ant-m
 	fra	Kenya	np-ant$np-ant-f-sg	eng	Kenia	np-ant$np$np-ant-f-sg
 	fra	Kennedy	np-ant	eng	Kennedy	np-ant$np-ant-m$$np
 	fra	Kennedy	np-cog-mf-sp$np	eng	Kennedy	np-cog-sg$np-cog
@@ -9649,19 +9649,19 @@ RL	fra	Kessler	np-cog-mf-sp$np	eng	Kessler	np-cog-pl
 	fra	Kidman	np-ant$np	eng	Kidman	np-cog-pl
 	fra	Kim	np$np-ant$np-ant-f-sg	eng	Kim	np-ant$np$np-ant-f$np-ant-f-sg
 	fra	Kim Jong-il	np$np-ant	eng	Kim Jong-il	np-ant$np-ant-m-sg
-	fra	King	np-cog-mf-sp$np	eng	King	np-cog-sg$np$np-cog$
-RL	fra	King	np-cog-mf-sp$np	eng	King	np-cog-pl
+	fra	King	np$np-cog-mf-sp	eng	King	np-cog-sg$np$np-cog$
+RL	fra	King	np$np-cog-mf-sp	eng	King	np-cog-pl
 	fra	Klaus	np$np-ant$np-ant-m-sg	eng	Klaus	np-ant$np-ant-m$np-ant-m-sg$np
 	fra	Klein	np-ant	eng	Klein	np-ant$np-ant-m-sg$$np$np-ant-m
 	fra	Koldo	np$np-ant$np-ant-m-sg	eng	Koldo	np-ant$np-ant-m-sg
-	fra	Corée	np-top-f$np-top-f-sg$np-top	eng	Korea	np-top$np$np-top-sg
+	fra	Corée	np$np-top-f-sg$np-top-f$np-top	eng	Korea	np-top$np$np-top-sg
 	fra	Kosovo	np-top$np-top-m-sg	eng	Kosovo	np-top$np-top-sg
 	fra	Kross	np-cog-mf-sp$np	eng	Kross	np-cog-sg$$np-cog
 RL	fra	Kross	np-cog-mf-sp$np	eng	Kross	np-cog-pl
 	fra	Kurdistan	np-top-m-sg$np-top$np-top-m	eng	Kurdistan	np-top$np-top-sg$np
 	fra	Kurt	np$np-ant$np-ant-m-sg	eng	Kurt	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Koweït	np-top-m$np-top$np-top-m-sg	eng	Kuwait	np-top$np-top-sg
-	fra	La Palma	np$np-top-f	eng	La Palma	np-top$np-top-sg
+	fra	La Palma	np$np-top-f	eng	La Palma	np-top
 	fra	Laetitia	np$np-ant$np-ant-f-sg	eng	Laetitia	np-ant$np-ant-f-sg
 	fra	Lambert	np-cog-mf-sp$np	eng	Lambert	np-cog-sg$np-cog$$np
 RL	fra	Lambert	np-cog-mf-sp$np	eng	Lambert	np-cog-pl
@@ -9670,7 +9670,7 @@ RL	fra	Lambert	np-cog-mf-sp$np	eng	Lambert	np-cog-pl
 	fra	Lara	np$np-ant$np-ant-f-sg	eng	Lara	np-ant$np$np-ant-f-sg
 	fra	Lara	np$np-ant$np-ant-f-sg	eng	Lara	np-ant$np$np-ant-f-sg
 	fra	Larry	np$np-ant-m-sg$np-ant	eng	Larry	np-ant$np-ant-m$np$np-ant-m-sg
-	fra	Amérique latine	np-top-f$np-top-f-sg	eng	Latin America	np-top$np-top-sg
+	fra	Amérique latine	np-top-f$np-top-f-sg	eng	Latin America	np-top
 	fra	Lettonie	np-top-f$np-top-f-sg$np-top	eng	Latvia	np-top$np$np-top-sg
 	fra	Laura	np$np-ant$np-ant-f-sg	eng	Laura	np-ant$np$np-ant-f$np-ant-f-sg
 	fra	Laura	np$np-ant$np-ant-f-sg	eng	Laura	np-ant$np$np-ant-f$np-ant-f-sg
@@ -9678,23 +9678,23 @@ RL	fra	Lambert	np-cog-mf-sp$np	eng	Lambert	np-cog-pl
 	fra	Laurence	np$np-cog-mf-sp	eng	Laurence	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Laurent	np-ant$np-ant-m-sg$np	eng	Laurent	np-ant$np-ant-m-sg$np-ant-m
 	fra	Lawrence	np-ant-m-sg$np-ant	eng	Lawrence	np-ant$np$$np-ant-m$np-ant-m-sg
-	fra	Le Monde	np$np-al-m-sg$np-al$np-al-m	eng	Le Monde	np-al$np-al-sg
-	fra	Le Pen	np$np-cog$np-cog-mf-sp	eng	Le Pen	np-cog-sg$$np-cog
-RL	fra	Le Pen	np$np-cog$np-cog-mf-sp	eng	Le Pen	np-cog-pl
+	fra	Le Monde	np$np-al$np-al-m$np-al-m-sg	eng	Le Monde	np-al
+	fra	Le Pen	np$np-cog-mf-sp$np-cog	eng	Le Pen	np-cog-sg$$np-cog
+RL	fra	Le Pen	np$np-cog-mf-sp$np-cog	eng	Le Pen	np-cog-pl
 	fra	Liban	np-top-m$np-top-m-sg$np-top	eng	Lebanon	np-top$np$np-top-sg
 	fra	Leblanc	np$np-cog-mf-sp$np-cog	eng	Leblanc	np-cog-sg$$np-cog
 RL	fra	Leblanc	np$np-cog-mf-sp$np-cog	eng	Leblanc	np-cog-pl
 	fra	Lech	np$np-ant$np-ant-m-sg	eng	Lech	np-ant$np-ant-m$np-ant-m-sg
 	fra	Lech Kaczynski	np$np-ant	eng	Lech Kaczynski	np-ant$np-ant-m-sg
 	fra	Lee	np-ant-m-sg$np-ant	eng	Lee	np-ant$np$np-ant-m$$np-ant-m-sg
-	fra	Îles sous le Vent	np$np-top-f	eng	Leeward Islands	np-top$np-top-sg
+	fra	Îles sous le Vent	np$np-top-f	eng	Leeward Islands	np-top
 	fra	Lena	np$np-ant$np-ant-f-sg	eng	Lena	np-ant$np-ant-f-sg$np$np-ant-f
 	fra	Lenin	np-cog$np-cog-mf-sp	eng	Lenin	np-cog$np-cog-sg$$np
 RL	fra	Lénine	np-cog-mf-sp$np-cog	eng	Lenin	np-cog-pl
 	fra	Lennon	np-cog-mf-sp$np	eng	Lennon	np-cog-sg$np$np-cog$
 RL	fra	Lennon	np-cog-mf-sp$np	eng	Lennon	np-cog-pl
 	fra	Lion	np-ant	eng	Leo	np-ant$np-ant-m-sg$np$np-ant-m
-	fra	Leonardo	np$np-ant$np-ant-m-sg	eng	Leonardo	np-ant$np-ant-m-sg$np$np-ant-m
+	fra	Leonardo	np-ant-m-sg$np$np-ant	eng	Leonardo	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Leonor	np$np-ant$np-ant-f-sg	eng	Leonor	np-ant$np$np-ant-f-sg
 	fra	Leopoldo	np$np-ant-m-sg$np-ant	eng	Leopoldo	np-ant$np$np-ant-m-sg
 	fra	Lesotho	np-top-m$np-top$np-top-m-sg	eng	Lesotho	np-top$np$np-top-sg
@@ -9727,7 +9727,7 @@ RL	fra	Lieberman	np-cog-mf-sp$np	eng	Lieberman	np-cog-pl
 	fra	Lloyd	np-cog-mf-sp$np	eng	Lloyd	np-cog-sg$np-cog$$np
 RL	fra	Lloyd	np-cog-mf-sp$np	eng	Lloyd	np-cog-pl
 	fra	Lluis	np-ant	eng	Lluis	np-ant$$np-ant-m-sg
-	fra	Lluís	np$np-ant-m-sg	eng	Lluís	np$np-ant$np-ant-m-sg
+	fra	Lluís	np$np-ant-m-sg	eng	Lluís	np$np-ant-m-sg$np-ant
 	fra	Logan	np-ant	eng	Logan	np-ant$np$$np-ant-m-sg
 	fra	Lola	np-ant$np$np-ant-f-sg	eng	Lola	np-ant$np-ant-f-sg$np
 	fra	Lolita	np$np-ant$np-ant-f-sg	eng	Lolita	np-ant$np-ant-f-sg$np-ant-f
@@ -9742,7 +9742,7 @@ RL	fra	Lopez	np$np-cog-mf-sp$np-cog	eng	Lopez	np-cog-pl
 	fra	Lorraine	np-ant$np-ant-f-sg	eng	Lorraine	np-ant
 	fra	Lorena	np-ant$np-ant-f-sg	eng	Lorraine	np-top$np-top-sg
 	fra	Lorraine	np-top$np-top-f-sg$np	eng	Lorraine	np-top$np-top-sg
-	fra	Los Angeles	np-top$np-top-m$np-top-m-sg	eng	Los Angeles	np-top$np-top-sg
+	fra	Los Angeles	np-top$np-top-m$np-top-m-sg	eng	Los Angeles	np-top$np-top-m
 	fra	Lot	np-ant	eng	Lot	np-ant$np$np-ant-m-sg
 	fra	Lou Reed	np$np-ant$np-ant-m-sg	eng	Lou Reed	np-ant$np-ant-m-sg
 	fra	Louis	np-ant$np-ant-m-sg$np	eng	Louis	np-ant$np$np-ant-m$np-ant-m-sg
@@ -9765,7 +9765,7 @@ RL	fra	Lopez	np$np-cog-mf-sp$np-cog	eng	Lopez	np-cog-pl
 	fra	Lynch	np-cog-mf-sp$np	eng	Lynch	np-cog-sg$np-cog$$np
 RL	fra	Lynch	np-cog-mf-sp$np	eng	Lynch	np-cog-pl
 	fra	Lázaro	np-ant$np-ant-m-sg	eng	Lázaro	np-ant$np$np-ant-m-sg
-	fra	Léonard	np-ant$np-ant-m-sg	eng	Léonard	np-ant$$np-ant-m-sg
+	fra	Léonard	np$np-ant-m-sg$np-ant	eng	Léonard	np-ant$$np-ant-m-sg
 	fra	Léopold	np-ant$np$np-ant-m-sg	eng	Léopold	np-ant$np-ant-m-sg
 	fra	Lleida	np$np-ant	eng	Lérida	np-ant$$np$np-ant-f-sg
 	fra	López	np$np-cog-mf-sp$np-cog	eng	López	np-cog-sg$$np-cog
@@ -9780,7 +9780,7 @@ RL	fra	MacGyver	np-cog-mf-sp$np	eng	MacGyver	np-cog-pl
 	fra	Madonna	np$np-ant-f-sg$np-ant	eng	Madonna	np-ant$np-ant-f-sg$np$np-ant-f
 	fra	Madrid	np-top-m-sg$np-top$np-top-m	eng	Madrid	np-top$np$np-top-sg$
 	fra	Magda	np$np-ant-f-sg$np-ant	eng	Magda	np-ant$np-ant-f-sg$np$np-ant-f
-	fra	Îles de la Madeleine	np$np-top-f	eng	Magdalen Islands	np-top$np-top-sg
+	fra	Îles de la Madeleine	np$np-top-f	eng	Magdalen Islands	np-top
 	fra	Magdalena	np$np-ant$np-ant-f-sg	eng	Magdalena	np-ant$np$np-ant-f-sg
 	fra	Magdalena	np$np-ant$np-ant-f-sg	eng	Magdalena	np-ant$np$np-ant-f-sg
 	fra	Maggie	np$np-ant-f-sg$np-ant	eng	Maggie	np-ant$np$np-ant-f-sg
@@ -9798,7 +9798,7 @@ RL	fra	Mahler	np-cog-mf-sp$np	eng	Mahler	np-cog-pl
 	fra	Malik	np-ant	eng	Malik	np-ant$np-ant-m-sg$$np$np-ant-m
 	fra	Majorque	np-top-f-sg$np-top-f	eng	Mallorca	np-top-sg$np-top
 	fra	Malte	np-top-f-sg$np-top$np-top-f	eng	Malta	np-top$np$np-top-sg
-	fra	Îles Moluques	np$np-top-f	eng	Maluku Islands	np-top$np-top-sg
+	fra	Îles Moluques	np$np-top-f	eng	Maluku Islands	np-top
 	fra	Manel	np$np-ant$np-ant-m-sg	eng	Manel	np-ant$np$np-ant-m-sg
 	fra	Manel	np$np-ant$np-ant-m-sg	eng	Manel	np-ant$np$np-ant-m-sg
 	fra	Manhattan	np$np-top-m$np-top-m-sg	eng	Manhattan	np-top-sg$np-top
@@ -9809,8 +9809,8 @@ RL	fra	Mahler	np-cog-mf-sp$np	eng	Mahler	np-cog-pl
 	fra	Manuela	np$np-ant-f-sg$np-ant	eng	Manuela	np-ant$np-ant-f-sg$np$np-ant-f
 	fra	Maragall	np$np-cog-mf-sp$np-cog	eng	Maragall	np-cog-sg$$np$np-cog
 RL	fra	Maragall	np$np-cog-mf-sp$np-cog	eng	Maragall	np-cog-pl
-	fra	Marc	np-ant$np$np-ant-m-sg	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg
-	fra	Marc	np-ant$np$np-ant-m-sg	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg
+	fra	Marc	np-ant$np$np-ant-m-sg	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m
+	fra	Marc	np-ant$np$np-ant-m-sg	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m
 	fra	Marcel	np-ant-m-sg$np$np-ant	eng	Marcel	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Marcelo	np$np-ant$np-ant-m-sg	eng	Marcelo	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Marchena	np-ant$np	eng	Marchena	np-cog-sg$$np-cog
@@ -9822,11 +9822,11 @@ RL	fra	Maragall	np$np-cog-mf-sp$np-cog	eng	Maragall	np-cog-pl
 	fra	Margaret	np$np-ant-f-sg$np-ant	eng	Margaret	np-ant$np$np-ant-f-sg$np-ant-f
 	fra	Margarita	np$np-ant-f-sg$np-ant	eng	Margarita	np-ant$np-ant-f-sg$np
 	fra	Mari	np$np-ant$np-ant-f-sg	eng	Mari	np-ant$np-ant-f-sg$np$np-ant-f
-	fra	Maria	np$np-ant$np-ant-f-sg	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg
-	fra	Maria	np$np-ant$np-ant-f-sg	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg
+	fra	Maria	np$np-ant-f-sg$np-ant	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f
+	fra	Maria	np$np-ant-f-sg$np-ant	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f
 	fra	Marian	np$np-ant-f-sg$np-ant	eng	Marian	np-ant$np-ant-f-sg$np
 	fra	Mariana	np$np-ant$np-ant-f-sg	eng	Mariana	np-ant$np-ant-f-sg$np
-	fra	Îles Mariannes	np$np-top-f	eng	Mariana Islands	np-top$np-top-sg
+	fra	Îles Mariannes	np$np-top-f	eng	Mariana Islands	np-top
 	fra	Marianne	np$np-ant$np-ant-f-sg	eng	Marianne	np-ant$np-ant-f-sg
 	fra	Mariano	np$np-ant-m-sg$np-ant	eng	Mariano	np-ant$np-ant-m-sg$np-ant-m$np
 	fra	Maribel	np$np-ant$np-ant-f-sg	eng	Maribel	np-ant$np$np-ant-f-sg
@@ -9845,15 +9845,15 @@ RL	fra	Maragall	np$np-cog-mf-sp$np-cog	eng	Maragall	np-cog-pl
 	fra	Mark	np$np-ant$np-ant-m-sg	eng	Mark	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Markus	np$np-ant$np-ant-m-sg	eng	Markus	np-ant$np$np-ant-m-sg$np-ant-m
 	fra	Marlene	np$np-ant-f-sg$np-ant	eng	Marlene	np-ant$np-ant-f-sg$np
-	fra	Îles Marquises	np$np-top-f	eng	Marquesas Islands	np-top$np-top-sg
+	fra	Îles Marquises	np$np-top-f	eng	Marquesas Islands	np-top
 	fra	Mars	np-al$np	eng	Mars	np-top$np$np-top-sg
 	fra	Mars	np-top-m	eng	Mars	np-top$np$np-top-sg
 	fra	Marseille	np$np-top$np-top-f-sg$np-top-f	eng	Marseilles	np-top$np-top-sg
 	fra	Marshall	np-ant-m-sg$np-ant	eng	Marshall	np-ant$np$np-ant-m$np-ant-m-sg$
 	fra	Marta	np$np-ant$np-ant-f-sg	eng	Marta	np$np-ant-f-sg$np-ant
 	fra	Martha	np$np-ant$np-ant-f-sg	eng	Martha	np-ant$np$np-ant-f-sg
-	fra	Martin	np-ant$np$np-ant-m-sg	eng	Martin	np-ant$np$np-ant-m$np-ant-m-sg$
-	fra	Martin	np-ant$np$np-ant-m-sg	eng	Martin	np-ant$np$np-ant-m$np-ant-m-sg$
+	fra	Martin	np-ant$np-ant-m-sg$np	eng	Martin	np-ant$np$np-ant-m$np-ant-m-sg$
+	fra	Martin	np-ant$np-ant-m-sg$np	eng	Martin	np-ant$np$np-ant-m$np-ant-m-sg$
 	fra	Martine	np-ant-f-sg$np$np-ant	eng	Martine	np-ant$np-ant-f-sg
 	fra	Martinez	np$np-cog-mf-sp$np-cog	eng	Martinez	np-cog-sg$np-cog$
 RL	fra	Martinez	np$np-cog-mf-sp$np-cog	eng	Martinez	np-cog-pl
@@ -9866,8 +9866,8 @@ RL	fra	Marx	np$np-cog-mf-sp$np-cog	eng	Marx	np-cog-pl
 	fra	Mary	np$np-ant-f-sg$np-ant	eng	Mary	np$np-ant$np-ant-f$np-ant-f-sg
 	fra	Mary	np$np-ant-f-sg$np-ant	eng	Mary	np$np-ant$np-ant-f$np-ant-f-sg
 	fra	Mary McAleese	np$np-ant	eng	Mary McAleese	np-ant$np-ant-f-sg
-	fra	María	np$np-ant$np-ant-f-sg	eng	María	np$np-ant$np-ant-f$np-ant-f-sg
-	fra	María	np$np-ant$np-ant-f-sg	eng	María	np$np-ant$np-ant-f$np-ant-f-sg
+	fra	María	np$np-ant-f-sg$np-ant	eng	María	np$np-ant$np-ant-f$np-ant-f-sg
+	fra	María	np$np-ant-f-sg$np-ant	eng	María	np$np-ant$np-ant-f$np-ant-f-sg
 	fra	Massachusetts	np$np-top-m$np-top-ind-m	eng	Massachusetts	np-top$np-top-sg
 	fra	Massimiliano	np$np-ant$np-ant-m-sg	eng	Massimiliano	np-ant$np-ant-m-sg
 	fra	Massimo	np$np-ant$np-ant-m-sg	eng	Massimo	np-ant$np-ant-m$np-ant-m-sg
@@ -9899,8 +9899,8 @@ RL	fra	McLaren	np-cog-mf-sp$np	eng	McLaren	np-cog-pl
 RL	fra	McShee	np-cog-mf-sp$np	eng	McShee	np-cog-pl
 	fra	Mcguiness	np-cog-mf-sp$np	eng	Mcguiness	np-cog-sg$$np-cog
 RL	fra	Mcguiness	np-cog-mf-sp$np	eng	Mcguiness	np-cog-pl
-	fra	Méditerranée	np-top-m	eng	Mediterranean	np-top$np-top-sg
-	fra	Méditerranée	np$np-top-f-sg$np-top	eng	Mediterranean	np-top$np-top-sg
+	fra	Méditerranée	np-top-m	eng	Mediterranean	np-top$np-top-sg$np-top-nt-sg
+	fra	Méditerranée	np$np-top-f-sg$np-top	eng	Mediterranean	np-top$np-top-sg$np-top-nt-sg
 	fra	Méduse	np-ant$np$np-ant-f-sg	eng	Medusa	np-ant$np-ant-f-sg
 	fra	Megane	np$np-ant$np-ant-f-sg	eng	Megane	np-ant$np-ant-f-sg
 	fra	Mel	np$np-ant$np-ant-f-sg	eng	Mel	np-ant$np$np-ant-m-sg
@@ -9926,14 +9926,14 @@ RL	fra	Michelin	np-cog-mf-sp$np	eng	Michelin	np-cog-pl
 	fra	Michèle	np$np-ant$np-ant-f-sg	eng	Michèle	np-ant$np-ant-f-sg
 	fra	Mickey	np$np-ant-m-sg$np-ant	eng	Mickey	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Micronésie	np-top-f$np-top-f-sg	eng	Micronesia	np-top$np$np-top-sg
-	fra	Microsoft	np-al-m-sg$np-al-m	eng	Microsoft	np-al-sg$np-al$np
-	fra	Moyen-Orient	np-top-m$np-top-m-sg	eng	Middle East	np-top$np-top-sg
-	fra	Miguel	np$np-ant$np-ant-m-sg	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m
-	fra	Miguel	np$np-ant$np-ant-m-sg	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m
+	fra	Microsoft	np-al-m-sg$np$np-al$np-al-m	eng	Microsoft	np-al-sg$np-al$np
+	fra	Moyen-Orient	np-top-m$np-top-m-sg	eng	Middle East	np-top
+	fra	Miguel	np$np-ant$np-ant-m-sg	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m
+	fra	Miguel	np$np-ant$np-ant-m-sg	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Mike	np$np-ant-m-sg$np-ant	eng	Mike	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Mike	np$np-ant-m-sg$np-ant	eng	Mike	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Mikel	np$np-ant-m-sg$np-ant	eng	Mikel	np-ant$np-ant-m-sg$np
-	fra	Mikhaïl Gorbatchev	np	eng	Mikhail Gorbachev	np-ant$np-ant-m-sg
+	fra	Mikhaïl Gorbatchev	np	eng	Mikhail Gorbachev	np-ant
 	fra	Mila	np$np-ant-f-sg$np-ant	eng	Mila	np-ant$np$np-ant-f-sg
 	fra	Milan	np-top-m-sg$np-top$np-top-m	eng	Milan	np-top$np-top-sg
 	fra	Milan	np-top-m-sg$np-top$np-top-m	eng	Milan	np-top$np-top-sg
@@ -10023,9 +10023,9 @@ RL	fra	Méndez	np$np-cog-mf-sp$np-cog	eng	Méndez	np-cog-pl
 	fra	Népal	np-top-m$np-top-m-sg$np-top	eng	Nepal	np-top$np-top-sg$np
 	fra	Nerea	np$np-ant$np-ant-f-sg	eng	Nerea	np-ant$np$np-ant-f-sg
 	fra	Netscape	np$np-al-m-sg$np-al-m	eng	Netscape	np-al$np-al-sg
-	fra	Nouvelle-Calédonie	np-top-f-sg$np-top-f	eng	New Caledonia	np-top$np$np-top-sg
-	fra	New Jersey	np$np-top-f	eng	New Jersey	np-top$np-top-sg
-	fra	Nouvelle-Sibérie	np$np-top-f	eng	New Siberian Islands	np-top$np-top-sg
+	fra	Nouvelle-Calédonie	np-top-f-sg$np-top-f	eng	New Caledonia	np-top$np
+	fra	New Jersey	np$np-top-f	eng	New Jersey	np-top
+	fra	Nouvelle-Sibérie	np$np-top-f	eng	New Siberian Islands	np-top
 	fra	New York	np-top-f	eng	New York	np$np-top$np-top-m
 	fra	Nouvelle-Zélande	np-top-f$np-top-f-sg$np-top	eng	New Zealand	np-top$np$np-top-sg
 	fra	Nicanor	np$np-ant$np-ant-m-sg	eng	Nicanor	np-ant$np$np-ant-m-sg
@@ -10035,9 +10035,9 @@ RL	fra	Méndez	np$np-cog-mf-sp$np-cog	eng	Méndez	np-cog-pl
 	fra	Nicholson	np-cog-mf-sp$np	eng	Nicholson	np-cog-sg$np-cog$$np
 RL	fra	Nicholson	np-cog-mf-sp$np	eng	Nicholson	np-cog-pl
 	fra	Nick	np$np-ant-m-sg$np-ant	eng	Nick	np-ant$np-ant-m-sg$np$np-ant-m
-	fra	Nicolas	np-ant$np-ant-m-sg$np	eng	Nicolas	np-ant$np$np-ant-m$np-ant-m-sg
-	fra	Nicolas	np-ant$np-ant-m-sg$np	eng	Nicolas	np-ant$np$np-ant-m$np-ant-m-sg
-	fra	Nicolas Sarkozy	np$np-ant$np-ant-m-sg	eng	Nicolas Sarkozy	np-ant$np-ant-m-sg
+	fra	Nicolas	np-ant$np-ant-m-sg$np	eng	Nicolas	np-ant$np$np-ant-m-sg$np-ant-m
+	fra	Nicolas	np-ant$np-ant-m-sg$np	eng	Nicolas	np-ant$np$np-ant-m-sg$np-ant-m
+	fra	Nicolas Sarkozy	np$np-ant$np-ant-m-sg	eng	Nicolas Sarkozy	np-ant
 	fra	Nicolau	np$np-ant-m-sg	eng	Nicolau	np$np-ant$np-ant-m-sg
 	fra	Nicole	np$np-ant$np-ant-f-sg	eng	Nicole	np-ant$np$np-ant-f-sg
 	fra	Nicole	np$np-ant$np-ant-f-sg	eng	Nicole	np-ant$np$np-ant-f-sg
@@ -10056,11 +10056,11 @@ RL	fra	Nobel	np$np-cog-mf-sp$np-cog	eng	Nobel	np-cog-pl
 	fra	Noemí	np$np-ant$np-ant-f-sg	eng	Noemí	np-ant$np$np-ant-f-sg
 	fra	Norberto	np$np-ant$np-ant-m-sg	eng	Norberto	np-ant$np$np-ant-m-sg
 	fra	Normandie	np-top-f-sg$np-top$np-top-f	eng	Normandy	np-top-sg$np-top
-	fra	Amérique du Nord	np-top-f$np-top-f-sg	eng	North America	np-top$np$np-top-sg
-	fra	Caroline du Nord	np$np-top-f$np-top-ind-f	eng	North Carolina	np-top$np-top-sg
-	fra	Dakota du Nord	np$np-top-f	eng	North Dakota	np-top$np-top-sg
-	fra	Île du Nord	np$np-top-f	eng	North Island	np-top$np-top-sg
-	fra	Irlande du Nord	np-top$np-top-f$np-top-f-sg	eng	Northern Ireland	np$np-top$np-top-sg
+	fra	Amérique du Nord	np-top-f$np-top-f-sg	eng	North America	np-top$np
+	fra	Caroline du Nord	np$np-top-f$np-top-ind-f	eng	North Carolina	np-top
+	fra	Dakota du Nord	np$np-top-f	eng	North Dakota	np-top
+	fra	Île du Nord	np$np-top-f	eng	North Island	np-top
+	fra	Irlande du Nord	np-top$np-top-f$np-top-f-sg	eng	Northern Ireland	np$np-top
 	fra	Norvège	np-top-f$np-top-f-sg$np-top	eng	Norway	np-top$np$np-top-sg
 	fra	Nubie	np$np-ant	eng	Nubia	np-ant$np$np-ant-f-sg
 	fra	Nuria	np$np-ant-f-sg$np-ant	eng	Nuria	np-ant$np$np-ant-f$np-ant-f-sg
@@ -10092,12 +10092,12 @@ RL	fra	Olivier	np$np-cog-mf-sp$np-cog	eng	Olivier	np-cog-pl
 RL	fra	Ortiz	np$np-cog-mf-sp$np-cog	eng	Ortiz	np-cog-pl
 	fra	Oussama Ben Laden	np$np-ant	eng	Osama bin Laden	np-ant
 	fra	Oscar	np$np-ant$np-ant-m-sg	eng	Oscar	np-ant$np-ant-m-sg$np$np-ant-m
-	fra	Oslo	np$np-top$np-top-m$np-top-m-sg	eng	Oslo	np-top-sg$np-top
+	fra	Oslo	np$np-top$np-top-m$np-top-m-sg	eng	Oslo	np-top-sg$np-top$np-top-m-sg
 	fra	Otegi	np$np-cog-mf-sp	eng	Otegi	np-cog-sg$$np-cog
 RL	fra	Otegi	np$np-cog-mf-sp	eng	Otegi	np-cog-pl
 	fra	Othello	np$np-ant	eng	Otelo	np-ant$np$np-ant-m-sg
 	fra	Pablo	np$np-ant$np-ant-m-sg	eng	Pablo	np-ant$np$np-ant-m$np-ant-m-sg
-	fra	océan Pacifique	np$np-top-m	eng	Pacific Ocean	np-top$np-top-sg
+	fra	océan Pacifique	np$np-top-m	eng	Pacific Ocean	np-top
 	fra	Paco	np$np-ant-m-sg$np-ant	eng	Paco	np$np-ant$np-ant-m-sg
 	fra	Paddy	np$np-ant	eng	Paddy	np-ant$np-ant-m$np$np-ant-m-sg
 	fra	Paisley	np-cog-mf-sp$np	eng	Paisley	np-cog-sg$$np-cog
@@ -10105,8 +10105,8 @@ RL	fra	Paisley	np-cog-mf-sp$np	eng	Paisley	np-cog-pl
 	fra	Pakistan	np-top-m$np-top-m-sg$np-top	eng	Pakistan	np-top$np$np-top-m
 	fra	Palmyre	np-ant	eng	Palmira	np-ant$np$np-ant-f-sg
 	fra	Paloma	np$np-ant-f-sg$np-ant	eng	Paloma	np-ant$np$np-ant-f-sg
-	fra	Panamá	np-top$np-top-m	eng	Panama	np-top$np$np-top-sg
-	fra	Panama	np-top-m$np-top-m-sg	eng	Panama	np-top$np$np-top-sg
+	fra	Panamá	np-top$np-top-m	eng	Panama	np-top$np$np-top-sg$np-top-m-sg
+	fra	Panama	np-top-m$np-top-m-sg	eng	Panama	np-top$np$np-top-sg$np-top-m-sg
 	fra	Paola	np$np-ant$np-ant-f-sg	eng	Paola	np-ant$np-ant-f-sg$np$np-ant-f
 	fra	Paolo	np$np-ant-m-sg$np-ant	eng	Paolo	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Paraguay	np-top-m$np-top-m-sg$np-top	eng	Paraguay	np-top$np-top-sg$np
@@ -10145,8 +10145,8 @@ RL	fra	Penn	np-cog-mf-sp$np	eng	Penn	np-cog-pl
 	fra	Pénélope	np$np-ant-f-sg$np-ant	eng	Penélope	np-ant$np-ant-f-sg
 	fra	Pep	np$np-ant-m-sg	eng	Pep	np$np-ant$np-ant-m-sg
 	fra	Pepe	np$np-ant-m-sg$np-ant	eng	Pepe	np-ant$np-ant-m$np-ant-m-sg$np
-	fra	Per Stig Møller	np	eng	Per Stig Møller	np-ant$np$np-ant-m-sg
-	fra	Pere	np$np-ant-m-sg	eng	Pere	np$np-ant$np-ant-m$np-ant-m-sg
+	fra	Per Stig Møller	np	eng	Per Stig Møller	np-ant$np
+	fra	Pere	np$np-ant-m-sg	eng	Pere	np$np-ant$np-ant-m-sg$np-ant-m
 	fra	Perez	np-cog-mf-sp$np	eng	Perez	np-cog-sg$np-cog$
 RL	fra	Perez	np-cog-mf-sp$np	eng	Perez	np-cog-pl
 	fra	Périclès	np$np-ant$np-ant-m-sg	eng	Pericles	np-ant$np-ant-m-sg$np
@@ -10165,9 +10165,9 @@ RL	fra	Phelps	np-cog-mf-sp$np	eng	Phelps	np-cog-pl
 	fra	Picasso	np$np-cog-mf-sp$np-cog	eng	Picasso	np-cog-sg
 RL	fra	Picasso	np$np-cog-mf-sp$np-cog	eng	Picasso	np-cog-pl$np$np-cog$
 	fra	Piera	np$np-ant$np-ant-f-sg	eng	Piera	np-ant$np-ant-f-sg$
-	fra	Pierre	np-ant-m-sg$np$np-ant	eng	Pierre	np-ant$np$np-ant-m-sg$np-ant-m
+	fra	Pierre	np-ant-m-sg$np$np-ant	eng	Pierre	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Pietro	np-ant-m-sg$np$np-ant	eng	Pietro	np-ant$np-ant-m-sg$np-ant-m
-	fra	Pilar	np$np-ant-f-sg$np-ant	eng	Pilar	np-ant$np$np-ant-f-sg
+	fra	Pilar	np$np-ant-f-sg$np-ant	eng	Pilar	np-ant$np-ant-f-sg$np
 	fra	Pili	np$np-ant$np-ant-f-sg	eng	Pili	np-ant$np-ant-f-sg
 	fra	Piter	np$np-ant	eng	Piter	np-ant$np-ant-m-sg
 	fra	Platon	np$np-ant$np-ant-m-sg	eng	Plato	np-ant$np-ant-m$np$np-ant-m-sg$
@@ -10182,8 +10182,8 @@ RL	fra	Picasso	np$np-cog-mf-sp$np-cog	eng	Picasso	np-cog-pl$np$np-cog$
 RL	fra	Potter	np$np-cog-mf-sp$np-cog	eng	Potter	np-cog-pl
 	fra	Power	np-cog-mf-sp$np	eng	Power	np-cog-sg$np-cog$
 RL	fra	Power	np-cog-mf-sp$np	eng	Power	np-cog-pl
-	fra	Pozuelo	np-top-m	eng	Pozuelo	np-top$np-top-sg
-	fra	Pozuelo de Alarcón	np$np-top-m	eng	Pozuelo de Alarcón	np-top$np-top-sg
+	fra	Pozuelo	np-top-m	eng	Pozuelo	np-top-sg$np-top
+	fra	Pozuelo de Alarcón	np$np-top-m	eng	Pozuelo de Alarcón	np-top
 	fra	Prague	np-top$np-top-f	eng	Prague	np-top$np$np-top-sg
 	fra	Presley	np$np-ant-m-sg$np-ant	eng	Presley	np-ant$np
 	fra	Pretoria	np$np-top$np-top-f$np-top-f-sg	eng	Pretoria	np-top-sg$np-top
@@ -10192,9 +10192,9 @@ RL	fra	Procter	np-cog-mf-sp$np	eng	Procter	np-cog-pl
 	fra	Prométhée	np$np-ant-m-sg	eng	Prometheus	np-ant$np-ant-m-sg
 	fra	Proust	np-cog-mf-sp$np	eng	Proust	np-cog-sg$np-cog$
 RL	fra	Proust	np-cog-mf-sp$np	eng	Proust	np-cog-pl
-	fra	Porto Rico	np-top-m$np-top-m-sg	eng	Puerto Rico	np-top$np-top-sg
-	fra	Pujol	np$np-cog-mf-sp$np-cog	eng	Pujol	np-cog-sg$$np$np-cog
-RL	fra	Pujol	np$np-cog-mf-sp$np-cog	eng	Pujol	np-cog-pl
+	fra	Porto Rico	np-top-m$np-top-m-sg	eng	Puerto Rico	np-top
+	fra	Pujol	np-cog-mf-sp$np$np-cog	eng	Pujol	np-cog-sg$$np$np-cog
+RL	fra	Pujol	np-cog-mf-sp$np$np-cog	eng	Pujol	np-cog-pl
 	fra	Putin	np$np-cog-mf-sp	eng	Putin	np-cog-sg
 RL	fra	Poutine	np$np-cog-mf-sp$np-cog	eng	Putin	np-cog$np-cog-pl$np$
 	fra	Pyrénées	np-top-m	eng	Pyrenees	np-top$np-top-pl$np
@@ -10219,7 +10219,7 @@ RL	fra	Ramirez	np-cog-mf-sp$np	eng	Ramirez	np-cog-pl
 	fra	Ramona	np$np-ant$np-ant-f-sg	eng	Ramona	np-ant$np$np-ant-f-sg
 	fra	Ramírez	np$np-cog-mf-sp$np-cog	eng	Ramírez	np-cog-sg$$np-cog
 RL	fra	Ramírez	np$np-cog-mf-sp$np-cog	eng	Ramírez	np-cog-pl
-	fra	Ramón	np$np-ant-m-sg$np-ant	eng	Ramón	np-ant$np$np-ant-m-sg
+	fra	Ramón	np$np-ant-m-sg$np-ant	eng	Ramón	np-ant$np-ant-m-sg$np
 	fra	Raphaël	np$np-ant$np-ant-m-sg	eng	Raphaël	np-ant$np-ant-m-sg
 	fra	Raquel	np$np-ant$np-ant-f-sg	eng	Raquel	np-ant$np$np-ant-f-sg
 	fra	Raquel	np$np-ant$np-ant-f-sg	eng	Raquel	np-ant$np$np-ant-f-sg
@@ -10292,8 +10292,8 @@ RL	fra	Rubalcaba	np$np-cog-mf-sp	eng	Rubalcaba	np-cog-pl
 	fra	Rubén	np$np-ant$np-ant-m-sg	eng	Rubén	np-ant$np$np-ant-m-sg
 	fra	Rubí	np-ant$np-ant-f-sg	eng	Rubí	np-ant$$np$np-ant-f-sg
 	fra	Rufino	np$np-ant-m-sg$np-ant	eng	Rufino	np-ant$np-ant-m-sg
-	fra	Ruiz	np$np-cog-mf-sp$np-cog	eng	Ruiz	np-cog-sg$np-cog$$np
-RL	fra	Ruiz	np$np-cog-mf-sp$np-cog	eng	Ruiz	np-cog-pl
+	fra	Ruiz	np-cog-mf-sp$np$np-cog	eng	Ruiz	np-cog-sg$np-cog$$np
+RL	fra	Ruiz	np-cog-mf-sp$np$np-cog	eng	Ruiz	np-cog-pl
 	fra	Rumsfeld	np$np-cog-mf-sp$np-cog	eng	Rumsfeld	np-cog-sg$np-cog$
 RL	fra	Rumsfeld	np$np-cog-mf-sp$np-cog	eng	Rumsfeld	np-cog-pl
 	fra	Russel	np-cog-mf-sp$np	eng	Russel	np$np-cog-sg$$np-cog
@@ -10379,7 +10379,7 @@ RL	fra	Shakespeare	np-cog-mf-sp$np	eng	Shakespeare	np-cog-pl
 	fra	Sharon	np$np-ant-f-sg$np-ant	eng	Sharon	np-ant$np-ant-f-sg$np
 	fra	Shore	np-cog-mf-sp$np	eng	Shore	np-cog-sg$$np-cog
 RL	fra	Shore	np-cog-mf-sp$np	eng	Shore	np-cog-pl
-	fra	Sierra Leone	np-top-f$np-top-f-sg$np-top	eng	Sierra Leone	np-top$np$np-top-sg
+	fra	Sierra Leone	np-top-f$np-top$np-top-f-sg	eng	Sierra Leone	np-top$np$np-top-sg
 	fra	Silvestre	np$np-ant-m-sg$np-ant	eng	Silvestre	np-ant$np$np-ant-m-sg
 	fra	Silvia	np$np-ant-f-sg$np-ant	eng	Silvia	np-ant$np-ant-f-sg$np$np-ant-f
 	fra	Silvio	np$np-ant-m-sg$np-ant	eng	Silvio	np-ant$np-ant-m$np-ant-m-sg$np
@@ -10414,10 +10414,10 @@ RL	fra	Soderbergh	np-cog-mf-sp$np	eng	Soderbergh	np-cog-pl
 	fra	Sonia	np$np-ant$np-ant-f-sg	eng	Sonia	np-ant$np$np-ant-f-sg
 	fra	Sophie	np-ant-f-sg$np$np-ant	eng	Sophie	np-ant$np-ant-f-sg$np
 	fra	Sophocle	np$np-ant-m-sg	eng	Sophocles	np-ant$np$np-ant-m-sg$np-ant-m
-	fra	Afrique du Sud	np-top-f$np-top-f-sg$np-top	eng	South Africa	np-top$np$np-top-sg
-	fra	Caroline du Sud	np$np-top-f$np-top-ind-f	eng	South Carolina	np-top$np-top-sg
-	fra	Dakota du Sud	np$np-top-f	eng	South Dakota	np-top$np-top-sg
-	fra	Île du Sud	np$np-top-f	eng	South Island	np-top$np-top-sg$np-top-f-sg
+	fra	Afrique du Sud	np-top-f$np-top$np-top-f-sg	eng	South Africa	np-top$np$np-top-sg
+	fra	Caroline du Sud	np$np-top-f$np-top-ind-f	eng	South Carolina	np-top
+	fra	Dakota du Sud	np$np-top-f	eng	South Dakota	np-top
+	fra	Île du Sud	np$np-top-f	eng	South Island	np-top
 	fra	Espagne	np$np-top$np-top-f$np-top-f-sg	eng	Spain	np-top$np$np-top-sg
 	fra	Spencer	np-ant-f-sg$np-ant	eng	Spencer	np-ant$np-ant-m-sg$$np$np-ant-m
 	fra	Springsteen	np-cog-mf-sp$np	eng	Springsteen	np-cog-sg$$np$np-cog
@@ -10428,7 +10428,7 @@ RL	fra	Staline	np-cog-mf-sp$np-cog	eng	Stalin	np-cog-pl
 RL	fra	Stallone	np-cog-mf-sp$np	eng	Stallone	np-cog-pl
 	fra	Stan	np-ant$np-ant-m-sg	eng	Stan	np-ant$np-ant-m-sg$$np$np-ant-m
 	fra	Stanislas	np-ant	eng	Stanislas	np-ant$np-ant-m$np-ant-m-sg
-	fra	Stanislav Gross	np	eng	Stanislav Gross	np-ant$np$np-ant-m-sg
+	fra	Stanislav Gross	np	eng	Stanislav Gross	np-ant$np
 	fra	Stanley	np$np-ant-m-sg$np-ant	eng	Stanley	np-ant$np$np-ant-m$np-ant-m-sg$
 	fra	Stefano	np$np-ant$np-ant-m-sg	eng	Stefano	np-ant$np-ant-m$np-ant-m-sg
 	fra	Steinmeier	np-cog-mf-sp$np	eng	Steinmeier	np-cog-sg$np-cog$
@@ -10496,7 +10496,7 @@ RL	fra	Tarantino	np-cog-mf-sp$np	eng	Tarantino	np-cog-pl
 	fra	Thaïlande	np-top-f$np-top$np-top-f-sg	eng	Thailand	np-top$np-top-sg$np
 	fra	Thatcher	np-cog-mf-sp$np	eng	Thatcher	np-cog-sg$np$np-cog$
 RL	fra	Thatcher	np-cog-mf-sp$np	eng	Thatcher	np-cog-pl
-	fra	Gambie	np-top-f$np$np-top-f-sg$np-top	eng	The Gambia	np-top$np-top-sg
+	fra	Gambie	np-top-f$np$np-top-f-sg$np-top	eng	The Gambia	np-top
 	fra	Theo	np$np-ant$np-ant-m-sg	eng	Theo	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Thibault	np-ant	eng	Thibault	np-ant$$np-ant-m-sg
 	fra	Thierry	np$np-ant$np-ant-m-sg	eng	Thierry	np-ant$np-ant-m-sg$np$np-ant-m
@@ -10526,7 +10526,7 @@ RL	fra	Tymochenko	np-cog-mf-sp$np	eng	Timoshenko	np-cog-pl
 	fra	Tony Blair	np$np-ant$np-ant-m-sg	eng	Tony Blair	np-ant$np-ant-m-sg
 	fra	Torres	np-cog-mf-sp$np	eng	Torres	np-cog-sg
 RL	fra	Torres	np-cog-mf-sp$np	eng	Torres	np-cog-pl$np-cog$$np
-	fra	Traité établissant une Constitution pour l'Europe	np$np-al-m	eng	Treaty establishing a Constitution for Europe	np-al$np-al-sg
+	fra	Traité établissant une Constitution pour l'Europe	np$np-al-m	eng	Treaty establishing a Constitution for Europe	np-al
 	fra	Trent	np$np-ant	eng	Trent	np-ant$np-ant-m-sg$np$np-ant-m
 	fra	Trinité	np$np-ant	eng	Trinidad	np-ant$np$np-ant-f-sg
 	fra	Tripoli	np$np-top-f	eng	Tripoli	np-top$np-top-sg
@@ -10536,16 +10536,16 @@ RL	fra	Torres	np-cog-mf-sp$np	eng	Torres	np-cog-pl$np-cog$$np
 	fra	Tunis	np-top-m-sg$np-top-m	eng	Tunisia	np-top$np$np-top-sg
 	fra	Turquie	np-top-f$np-top-f-sg$np-top	eng	Turkey	np-top$np$np-top-sg
 	fra	EE.UU.	np$np-top-m-pl	eng	U.S.	np-top-sg
-	fra	Royaume-Uni	np-top-m-sg$np$np-top-m$np-top	eng	UK	np-top$np$np-top-sg
+	fra	Royaume-Uni	np$np-top-m-sg$np-top-m$np-top	eng	UK	np-top$np$np-top-sg
 	fra	EE.UU.	np$np-top-m-pl	eng	US	np-top$np-top-sg
 	fra	EE.UU.	np$np-top-m-pl	eng	USA	np-top-sg$np-top
 	fra	Ouganda	np-top$np-top-f	eng	Uganda	np-top$np-top-sg$np
 	fra	Ukraine	np-top-f$np-top-f-sg$np-top	eng	Ukraine	np-top$np$np-top-sg
 	fra	Unai	np$np-ant	eng	Unai	np-ant$np-ant-m-sg
 	fra	Grande-Bretagne	np$np-top-f$np-top-f-sg	eng	United Kingdom	np-top$np-top-f$np
-	fra	Royaume-Uni	np-top-m-sg$np$np-top-m$np-top	eng	United Kingdom	np-top$np-top-f$np
-	fra	Royaume-Uni de Grande-Bretagne et d'Irlande	np$np-top-m	eng	United Kingdom of Great Britain and Ireland	np-top$np-top-sg
-	fra	Royaume-Uni de Grande-Bretagne et d'Irlande du Nord	np$np-top-m	eng	United Kingdom of Great Britain and Northern Ireland	np-top$np-top-sg
+	fra	Royaume-Uni	np$np-top-m-sg$np-top-m$np-top	eng	United Kingdom	np-top$np-top-f$np
+	fra	Royaume-Uni de Grande-Bretagne et d'Irlande	np$np-top-m	eng	United Kingdom of Great Britain and Ireland	np-top
+	fra	Royaume-Uni de Grande-Bretagne et d'Irlande du Nord	np$np-top-m	eng	United Kingdom of Great Britain and Northern Ireland	np-top
 	fra	Nations unies	np$np-al-f-pl	eng	United Nations	np$np-al$np-al-pl
 	fra	Unix	np-al-m	eng	Unix	np-al$np$np-al-sg
 	fra	Uranus	np-top-m-sg$np-top-m	eng	Uranus	np-top$np$np-top-sg
@@ -10573,7 +10573,7 @@ RL	fra	Van Gogh	np$np-cog-mf-sp	eng	Van Gogh	np-cog-pl
 	fra	Verónica	np$np-ant$np-ant-f-sg	eng	Verónica	np-ant$np-ant-f-sg
 	fra	Vicenta	np$np-ant$np-ant-f-sg	eng	Vicenta	np-ant$np$np-ant-f-sg
 	fra	Vicente	np$np-ant-m-sg$np-ant	eng	Vicente	np-ant$np-ant-m-sg$np$np-ant-m
-	fra	Victor	np-ant$np$np-ant-m-sg	eng	Victor	np-ant$np$np-ant-m$np-ant-m-sg
+	fra	Victor	np-ant$np-ant-m-sg$np	eng	Victor	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Victor Hugo	np$np-ant$np-ant-m-sg	eng	Victor Hugo	np-ant$np-ant-m-sg
 	fra	Victoria	np-ant-f-sg$np-ant	eng	Victoria	np-ant$np$np-ant-f-sg$np-ant-f
 	fra	Vidal	np$np-ant-m-sg$np-ant	eng	Vidal	np-ant$np-ant-m-sg$np$np-ant-m
@@ -10584,13 +10584,13 @@ RL	fra	Van Gogh	np$np-cog-mf-sp	eng	Van Gogh	np-cog-pl
 	fra	Vincenzo	np$np-ant$np-ant-m-sg	eng	Vincenzo	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Violeta	np-ant-f-sg$np$np-ant	eng	Violeta	np-ant$np-ant-f-sg$np$np-ant-f
 	fra	Virgile	np$np-ant	eng	Virgilio	np-ant$np
-	fra	Îles Vierges	np$np-top-f$np-top-f-pl	eng	Virgin Islands	np-top$np-top-sg
+	fra	Îles Vierges	np$np-top-f$np-top-f-pl	eng	Virgin Islands	np-top
 	fra	Virginia	np$np-ant$np-ant-f-sg	eng	Virginia	np-ant$np$np-ant-f$np-ant-f-sg
 	fra	Virginie	np-ant-f-sg$np$np-ant	eng	Virginie	np-ant$np-ant-f-sg
 	fra	Vital	np-ant	eng	Vital	np-ant$$np$np-ant-m$np-ant-m-sg
 	fra	Vitoria	np$np-top-f$np-top-f-sg	eng	Vitoria	np-top$np-top-sg
 	fra	Vitoria-Gasteiz	np$np-top-f	eng	Vitoria-Gasteiz	np-top$np-top-sg
-	fra	Vlad Tepes	np$np-ant	eng	Vlad Tepes	np-ant$np-ant-m-sg
+	fra	Vlad Tepes	np$np-ant	eng	Vlad Tepes	np-ant
 	fra	Vladimir	np$np-ant$np-ant-m-sg	eng	Vladimir	np-ant$np-ant-m$np$np-ant-m-sg
 	fra	Vogels	np-cog-mf-sp$np	eng	Vogels	np-cog-sg$$np-cog
 RL	fra	Vogels	np-cog-mf-sp$np	eng	Vogels	np-cog-pl
@@ -10599,9 +10599,9 @@ RL	fra	Voltaire	np$np-cog-mf-sp$np-cog	eng	Voltaire	np-cog-pl
 	fra	Vuitton	np-cog-mf-sp$np	eng	Vuitton	np-cog-sg$$np$np-cog
 RL	fra	Vuitton	np-cog-mf-sp$np	eng	Vuitton	np-cog-pl
 	fra	Véronique	np-ant-f-sg$np$np-ant	eng	Véronique	np-ant$np-ant-f-sg
-	fra	Vía de las dos Castillas	np-top	eng	Vía de las dos Castillas	np-top$np-top-sg
+	fra	Vía de las dos Castillas	np-top	eng	Vía de las dos Castillas	np-top
 	fra	Víctor	np$np-ant-m-sg$np-ant	eng	Víctor	np$np-ant$np-ant-m-sg
-	fra	Pays de Galles	np$np-top$np-top-m-sg$np-top-m	eng	Wales	np-top$np$np-top-sg
+	fra	Pays de Galles	np$np-top$np-top-m$np-top-m-sg	eng	Wales	np-top$np$np-top-sg
 	fra	Galles	np-top-m$np-top-m-sg	eng	Wales	np-top$np$np-top-sg
 	fra	Wall Street	np-top-m	eng	Wall Street	np-top-m$np-top
 	fra	Walt	np$np-ant$np-ant-m-sg	eng	Walt	np-ant$np-ant-m-sg$np$np-ant-m
@@ -10618,18 +10618,18 @@ RL	fra	Warhol	np-cog-mf-sp$np	eng	Warhol	np-cog-pl
 RL	fra	White	np$np-cog-mf-sp$np-cog	eng	White	np-cog-pl
 	fra	Wilde	np$np-cog-mf-sp$np-cog	eng	Wilde	np-cog-sg$np-cog$
 RL	fra	Wilde	np$np-cog-mf-sp$np-cog	eng	Wilde	np-cog-pl
-	fra	William	np$np-ant$np-ant-m-sg	eng	William	np-ant$np$np-ant-m$np-ant-m-sg
-	fra	William	np$np-ant$np-ant-m-sg	eng	William	np-ant$np$np-ant-m$np-ant-m-sg
+	fra	William	np$np-ant$np-ant-m-sg	eng	William	np-ant$np$np-ant-m-sg$np-ant-m
+	fra	William	np$np-ant$np-ant-m-sg	eng	William	np-ant$np$np-ant-m-sg$np-ant-m
 	fra	Williams	np$np-ant	eng	Williams	np-ant$np$np-ant-m$np-ant-m-sg$
 	fra	Willy	np$np-ant$np-ant-m-sg	eng	Willy	np-ant$np-ant-m-sg$np
 	fra	Wilson	np-ant-m-sg$np-ant	eng	Wilson	np-ant$np$np-ant-m-sg$np-ant-m$
 	fra	Wilson	np$np-cog-mf-sp	eng	Wilson	np-ant$np$np-ant-m-sg$np-ant-m$
-	fra	Îles du Vent	np$np-top-f	eng	Windward Islands	np-top$np-top-sg
+	fra	Îles du Vent	np$np-top-f	eng	Windward Islands	np-top
 	fra	Wisconsin	np$np-top-m$np-top-ind-m	eng	Wisconsin	np-top$np-top-sg
 	fra	Woodworth	np-cog-mf-sp$np	eng	Woodworth	np-cog-sg$$np-cog
 RL	fra	Woodworth	np-cog-mf-sp$np	eng	Woodworth	np-cog-pl
-	fra	Banque Mondiale	np$np-al-m	eng	World Bank	np-al$np-al-sg
-	fra	Première Guerre mondiale	np$np-al-f-sg	eng	World War I	np-al$np-al-sg
+	fra	Banque Mondiale	np$np-al-m	eng	World Bank	np-al
+	fra	Première Guerre mondiale	np$np-al-f-sg	eng	World War I	np-al
 	fra	Xabier	np$np-ant$np-ant-m-sg	eng	Xabier	np-ant$np-ant-m-sg$np
 	fra	Xavier	np$np-ant-m-sg$np-ant	eng	Xavier	np-ant$np$np-ant-m-sg$
 	fra	Xavier	np$np-ant-m-sg$np-ant	eng	Xavier	np-ant$np$np-ant-m-sg$
@@ -10674,27 +10674,27 @@ RL	fra	al-Maliki	np-cog-mf-sp$np	eng	al-Maliki	np-cog-pl
 	fra	Biélorussie	np-top-f$np-top$np-top-f-sg	eng	Belarus	np-top$np$np-top-sg
 	fra	Belgique	np$np-top$np-top-f$np-top-f-sg	eng	Belgium	np-top$np$np-top-sg
 	fra	Bolivie	np$np-top-f-sg$np-top-f$np-top	eng	Bolivia	np-top$np$np-top-sg
-	fra	Bosnie	np-top-f$np-top-f-sg	eng	Bosnia	np-top$np$np-top-f
-	fra	Bosnie-Herzégovine	np-top-f$np-top-f-sg	eng	Bosnia and Herzegovina	np-top$np-top-sg$np
+	fra	Bosnie	np-top-f$np-top-f-sg	eng	Bosnia	np-top$np$np-top-sg
+	fra	Bosnie-Herzégovine	np-top-f$np-top-f-sg	eng	Bosnia and Herzegovina	np-top$np$np-top-sg
 	fra	Bulgarie	np-top-f$np-top-f-sg$np-top	eng	Bulgaria	np-top$np$np-top-f
 	fra	Birmanie	np-top-f$np-top$np-top-f-sg	eng	Burma	np-top$np$np-top-sg
 	fra	République centrafricaine	np-top-f$np-top-f-sg	eng	Central African Republic	np-top$np$np-top-sg
 	fra	Chine	np-top-f$np-top-f-sg$np-top	eng	China	np-top$np-top-sg$np
 	fra	Colombie	np-top-f$np-top-f-sg$np-top	eng	Colombia	np-top$np$np-top-sg
-	fra	Côte d'Ivoire	np-top-f$np-top-f-sg	eng	Côte d'Ivoire	np-top$np-top-m-sg
+	fra	Côte d'Ivoire	np-top-f$np-top-f-sg	eng	Côte d'Ivoire	np-top
 	fra	Croatie	np-top-f$np-top-f-sg$np-top	eng	Croatia	np-top$np$np-top-f
-	fra	République tchèque	np-top-f$np-top$np-top-f-sg	eng	Czech Republic	np-top$np$np-top-sg
+	fra	République tchèque	np-top-f$np-top$np-top-f-sg	eng	Czech Republic	np-top$np$np-top-f
 	fra	Dominique	np-top-f-sg$np-top$np-top-f	eng	Dominica	np-top$np-top-sg
 	fra	République dominicaine	np-top$np-top-f$np-top-f-sg	eng	Dominican Republic	np-top$np$np-top-sg
-	fra	Guinée équatoriale	np-top-f-sg$np-top$np-top-f	eng	Equatorial Guinea	np-top$np$np-top-sg
+	fra	Guinée équatoriale	np-top$np-top-f$np-top-f-sg	eng	Equatorial Guinea	np-top$np$np-top-sg
 	fra	Finlande	np-top-f$np-top-f-sg$np-top	eng	Finland	np-top$np$np-top-sg
 	fra	France	np$np-top$np-top-f$np-top-f-sg	eng	France	np-top$np$np-top-sg
-	fra	Polynésie française	np$np-top-f$np-top-f-sg	eng	French Polynesia	np-top$np-top-sg
+	fra	Polynésie française	np$np-top-f$np-top-f-sg	eng	French Polynesia	np-top
 	fra	Gambie	np-top-f$np$np-top-f-sg$np-top	eng	Gambia	np-top$np-top-sg$np
 	fra	Géorgie	np-top-f$np-top-f-sg	eng	Georgia	np-top$np$np-top-sg
 	fra	Grèce	np$np-top$np-top-f$np-top-f-sg	eng	Greece	np-top$np$np-top-sg
 	fra	Grenade	np-top-f$np-top-f-sg	eng	Grenada	np-top$np$np-top-sg
-	fra	Guinée	np-top-f$np-top-f-sg$np-top	eng	Guinea	np-top$np$np-top-sg
+	fra	Guinée	np$np-top-f-sg$np-top-f$np-top	eng	Guinea	np-top$np$np-top-sg
 	fra	Guinée-Bissao	np-top-f$np-top-f-sg	eng	Guinea Bissau	np-top
 	fra	Guyana	np$np-top$np-top-f$np-top-f-sg	eng	Guyana	np-top$np-top-sg$np
 	fra	Hongrie	np-top-f$np-top-f-sg$np-top	eng	Hungary	np-top$np$np-top-sg
@@ -10712,19 +10712,19 @@ RL	fra	al-Maliki	np-cog-mf-sp$np	eng	al-Maliki	np-cog-pl
 	fra	Namibie	np-top-f$np-top-f-sg$np-top	eng	Namibia	np-top$np$np-top-sg
 	fra	Nauru	np$np-top-f$np-top-f-sg	eng	Nauru	np-top$np-top-sg$np
 	fra	Nouvelle-Zélande	np-top-f$np-top-f-sg$np-top	eng	New Zealand	np-top$np$np-top-sg
-	fra	Corée	np-top-f$np-top-f-sg$np-top	eng	Korea	np-top$np$np-top-sg
-	fra	Corée du Nord	np-top-f-sg$np-top$np-top-f	eng	North Korea	np-top$np$np-top-sg
+	fra	Corée	np$np-top-f-sg$np-top-f$np-top	eng	Korea	np-top$np$np-top-sg
+	fra	Corée du Nord	np-top$np-top-f$np-top-f-sg	eng	North Korea	np-top$np$np-top-sg
 	fra	Norvège	np-top-f$np-top-f-sg$np-top	eng	Norway	np-top$np$np-top-sg
 	fra	Papouasie-Nouvelle-Guinée	np$np-top-f-sg$np-top$np-top-f	eng	Papua New Guinea	np-top$np$np-top-sg
 	fra	Pologne	np-top-f$np-top-f-sg$np-top	eng	Poland	np-top$np$np-top-sg
 	fra	Roumanie	np-top-f$np-top-f-sg$np-top	eng	Romania	np-top$np$np-top-f
 	fra	Russie	np-top-f$np-top-f-sg$np-top	eng	Russia	np-top$np$np-top-sg
 	fra	Serbie	np-top-f$np-top-f-sg$np-top	eng	Serbia	np-top$np-top-sg$np
-	fra	Sierra Leone	np-top-f$np-top-f-sg$np-top	eng	Sierra Leone	np-top$np$np-top-sg
+	fra	Sierra Leone	np-top-f$np-top$np-top-f-sg	eng	Sierra Leone	np-top$np$np-top-sg
 	fra	Slovaquie	np-top-f$np-top-f-sg$np-top	eng	Slovakia	np-top$np$np-top-f
 	fra	Slovénie	np-top-f$np-top-f-sg$np-top	eng	Slovenia	np-top$np$np-top-f
 	fra	Somalie	np-top-f$np-top$np-top-f-sg	eng	Somalia	np-top$np$np-top-sg
-	fra	Corée du Sud	np$np-top$np-top-f-sg$np-top-f	eng	South Korea	np-top$np$np-top-sg
+	fra	Corée du Sud	np$np-top$np-top-f$np-top-f-sg	eng	South Korea	np-top$np$np-top-sg
 	fra	Suède	np-top-f$np-top-f-sg$np-top	eng	Sweden	np-top$np$np-top-sg
 	fra	Suisse	np-top-f$np-top-f-sg$np-top	eng	Switzerland	np-top$np$np-top-sg
 	fra	Syrie	np-top-f$np-top-f-sg$np-top	eng	Syria	np-top$np$np-top-sg
@@ -10753,10 +10753,10 @@ RL	fra	al-Maliki	np-cog-mf-sp$np	eng	al-Maliki	np-cog-pl
 	fra	Indonésie	np-top-f$np-top-f-sg$np-top	eng	Indonesia	np-top$np$np-top-sg
 	fra	Irlande	np$np-top$np-top-f$np-top-f-sg	eng	Ireland	np-top$np$np-top-f$
 	fra	Italie	np-top-f$np-top-f-sg$np-top	eng	Italy	np-top$np$np-top-sg
-	fra	Irelande du Nord	np-top-f	eng	Northern Ireland	np$np-top$np-top-sg
-	fra	Arabie saoudite	np-top-f-sg$np$np-top$np-top-f	eng	Saudi Arabia	np$np-top$np-top-sg
+	fra	Irelande du Nord	np-top-f	eng	Northern Ireland	np$np-top
+	fra	Arabie saoudite	np-top-f-sg$np-top$np-top-f	eng	Saudi Arabia	np$np-top$np-top-sg
 	fra	Écosse	np$np-top$np-top-f$np-top-f-sg	eng	Scotland	np-top$np$np-top-sg
-	fra	Afrique du Sud	np-top-f$np-top-f-sg$np-top	eng	South Africa	np-top$np$np-top-sg
+	fra	Afrique du Sud	np-top-f$np-top$np-top-f-sg	eng	South Africa	np-top$np$np-top-sg
 	fra	Espagne	np$np-top$np-top-f$np-top-f-sg	eng	Spain	np-top$np$np-top-sg
 	fra	Ukraine	np-top-f$np-top-f-sg$np-top	eng	Ukraine	np-top$np$np-top-sg
 	fra	île du Prince-Édouard	np-top-f	eng	Prince Edward Island	np-top
@@ -10766,24 +10766,24 @@ RL	fra	al-Maliki	np-cog-mf-sp$np	eng	al-Maliki	np-cog-pl
 	fra	Alberta	np-top-ind-f	eng	Alberta	np$np-top-sg$np-top
 	fra	Colombie britannique	np-top-ind-f	eng	British Columbia	np-top
 	fra	Terre-Neuve et Labrador	np-top-ind-f	eng	Newfoundland and Labrador	np-top
-	fra	Nouvelle-Écosse	np-top-ind-f	eng	Nova Scotia	np-top$np-top-sg
+	fra	Nouvelle-Écosse	np-top-ind-f	eng	Nova Scotia	np-top
 	fra	Californie	np-top-ind-f	eng	California	np-top$np$np-top-sg
-	fra	Caroline du Nord	np$np-top-f$np-top-ind-f	eng	North Carolina	np-top$np-top-sg
-	fra	Caroline du Sud	np$np-top-f$np-top-ind-f	eng	South Carolina	np-top$np-top-sg
+	fra	Caroline du Nord	np$np-top-f$np-top-ind-f	eng	North Carolina	np-top
+	fra	Caroline du Sud	np$np-top-f$np-top-ind-f	eng	South Carolina	np-top
 	fra	Floride	np-top-ind-f	eng	Florida	np-top$np$np-top-sg
 	fra	Géorgie	np-top-ind-f	eng	Georgia	np-top$np$np-top-sg
 	fra	Louisiane	np$np-top-ind-f	eng	Louisiana	np-top-sg$np-top
 	fra	Pennsylvanie	np$np-top-f$np-top-ind-f	eng	Pennsylvania	np$np-top$np-top-sg
 	fra	Virginie	np-top-ind-f	eng	Virginia	np-top$np-top-sg
-	fra	Virginie-Occidentale	np-top-ind-f	eng	West Virginia	np-top$np-top-sg
+	fra	Virginie-Occidentale	np-top-ind-f	eng	West Virginia	np-top
 	fra	Malte	np-top-ind-f	eng	Malta	np-top$np$np-top-sg
 	fra	Sainte-Lucie	np$np-top-ind-f	eng	Saint Lucia	np-top$np-top-sg
 	fra	Bahamas	np-top-f-pl	eng	Bahamas	np-top-pl$np-top
 	fra	Comores	np-top-f-pl$np-top	eng	Comoro Islands	np$np-top-pl
-	fra	Îles Cook	np$np-top-f$np-top-f-pl	eng	Cook Islands	np-top-pl
+	fra	Îles Cook	np$np-top-f$np-top-f-pl	eng	Cook Islands	np-top$np-top-pl
 	fra	Fidji	np-top-f-pl$np-top-f	eng	Fiji	np-top$np-top-sg$np
 	fra	Maldives	np-top-f-pl	eng	Maldives	np-top-pl
-	fra	Îles Marshall	np-top-f-pl	eng	Marshall Islands	np-top$np-top-pl$np
+	fra	Îles Marshall	np-top-f-pl	eng	Marshall Islands	np-top$np$np-top-pl
 	fra	Pays-Bas	np-top$np-top-f-pl	eng	Netherlands	np-top-pl
 	fra	Philippines	np$np-top-f-pl$np-top$np-top-f	eng	Philippines	np-top-pl
 	fra	Seychelles	np-top-f-pl$np-top	eng	Seychelles	np-top-pl
@@ -10797,7 +10797,7 @@ RL	fra	al-Maliki	np-cog-mf-sp$np	eng	al-Maliki	np-cog-pl
 	fra	Botswana	np-top-m$np-top-m-sg	eng	Botswana	np-top$np-top-sg$np
 	fra	Brésil	np-top-m$np-top-m-sg$np-top	eng	Brazil	np-top$np$np-top-sg
 	fra	Brunéi	np-top-m	eng	Brunei	np-top$np-top-sg$np
-	fra	Burkina	np-top-m$np-top-m-sg	eng	Burkina-Faso	np-top
+	fra	Burkina	np-top-m-sg$np$np-top-m	eng	Burkina-Faso	np-top
 	fra	Burundi	np-top-m$np-top$np-top-m-sg	eng	Burundi	np-top$np-top-sg$np
 	fra	Cambodge	np-top$np-top-m$np-top-m-sg	eng	Cambodia	np-top$np-top-sg$np
 	fra	Cameroun	np-top-m$np-top-m-sg$np-top	eng	Cameroon	np-top$np$np-top-sg
@@ -10806,7 +10806,7 @@ RL	fra	al-Maliki	np-cog-mf-sp$np	eng	al-Maliki	np-cog-pl
 	fra	Tchad	np-top-m-sg$np-top$np-top-m	eng	Chad	np-top$np-top-sg$np
 	fra	Chili	np-top-m$np-top-m-sg$np-top	eng	Chile	np-top$np$np-top-sg
 	fra	Congo	np-top-m$np-top-m-sg$np-top	eng	Congo	np-top$np$np-top-sg
-	fra	Costa Rica	np-top-m-sg$np-top-m	eng	Costa Rica	np-top$np-top-sg$np
+	fra	Costa Rica	np-top-m$np-top-m-sg	eng	Costa Rica	np-top$np$np-top-sg
 	fra	Danemark	np-top-m-sg$np-top$np-top-m	eng	Denmark	np-top$np$np-top-sg
 	fra	Djibouti	np-top-m$np-top$np-top-m-sg	eng	Djibouti	np-top$np-top-sg
 	fra	Salvador	np$np-top-m-sg$np-top$np-top-m	eng	El Salvador	np-top$np-top-sg
@@ -10837,14 +10837,14 @@ RL	fra	al-Maliki	np-cog-mf-sp$np	eng	al-Maliki	np-cog-pl
 	fra	Niger	np-top-m$np-top-m-sg$np-top	eng	Niger	np-top$np-top-sg$np
 	fra	Nigéria	np-top-m-sg$np-top-m	eng	Nigeria	np-top$np$np-top-sg
 	fra	Pakistan	np-top-m$np-top-m-sg$np-top	eng	Pakistan	np-top$np$np-top-m
-	fra	Panama	np-top-m$np-top-m-sg	eng	Panama	np-top$np$np-top-sg
+	fra	Panama	np-top-m$np-top-m-sg	eng	Panama	np-top$np$np-top-sg$np-top-m-sg
 	fra	Paraguay	np-top-m$np-top-m-sg$np-top	eng	Paraguay	np-top$np-top-sg$np
 	fra	Pérou	np-top-m$np-top-m-sg$np-top	eng	Peru	np-top$np-top-sg$np
 	fra	Portugal	np-top-m$np-top-m-sg$np-top	eng	Portugal	np-top$np$np-top-sg
 	fra	Qatar	np-top-m$np-top-m-sg$np-top	eng	Qatar	np-top$np$np-top-sg
 	fra	Rwanda	np-top-m-sg$np-top$np-top-m	eng	Rwanda	np-top$np$np-top-sg
 	fra	Sénégal	np-top-m$np-top-m-sg$np-top	eng	Senegal	np-top$np-top-sg$np
-	fra	Sri Lanka	np$np-top$np-top-m$np-top-m-sg	eng	Sri Lanka	np-top$np-top-sg$np
+	fra	Sri Lanka	np$np-top$np-top-m$np-top-m-sg	eng	Sri Lanka	np-top$np$np-top-f
 	fra	Soudan	np$np-top$np-top-m$np-top-m-sg	eng	Sudan	np-top$np-top-sg$np
 	fra	Surinam	np-top-m$np-top-m-sg	eng	Surinam	np-top
 	fra	Swaziland	np$np-top-m-sg$np-top$np-top-m	eng	Swaziland	np-top$np-top-sg$np
@@ -10852,9 +10852,9 @@ RL	fra	al-Maliki	np-cog-mf-sp$np	eng	al-Maliki	np-cog-pl
 	fra	Togo	np-top-m$np-top-m-sg$np-top	eng	Togo	np-top$np-top-sg
 	fra	Turkménistan	np-top-m-sg$np-top$np-top-m	eng	Turkmenistan	np-top$np-top-sg$np
 	fra	Tuvalu	np$np-top$np-top-m$np-top-m-sg	eng	Tuvalu	np-top$np-top-sg$np
-	fra	Royaume-Uni	np-top-m-sg$np$np-top-m$np-top	eng	United Kingdom	np-top$np-top-f$np
+	fra	Royaume-Uni	np$np-top-m-sg$np-top-m$np-top	eng	United Kingdom	np-top$np-top-f$np
 	fra	Vanuatu	np$np-top-m$np-top-m-sg	eng	Vanuatu	np-top$np-top-sg
-	fra	Vatican	np$np-top$np-top-m-sg$np-top-m	eng	Vatican	np-top$np-top-sg
+	fra	Vatican	np$np-top$np-top-m-sg$np-top-m	eng	Vatican	np-top-sg$np-top$np-top-m-sg
 	fra	Venezuela	np-top-m	eng	Venezuela	np-top$np$np-top-sg
 	fra	Viêt-Nam	np-top-m	eng	Vietnam	np-top$np-top-sg$np
 	fra	pays de Galles	np-top-m	eng	Wales	np-top$np$np-top-sg
@@ -10887,8 +10887,8 @@ RL	fra	al-Maliki	np-cog-mf-sp$np	eng	al-Maliki	np-cog-pl
 	fra	Arkansas	np-top-ind-m	eng	Arkansas	np$np-top$np-top-sg
 	fra	Colorado	np-top-ind-m	eng	Colorado	np-top$np-top-sg
 	fra	Connecticut	np-top-ind-m	eng	Connecticut	np-top-sg$np-top$np
-	fra	Dakota du Nord	np-top-ind-m	eng	North Dakota	np-top$np-top-sg
-	fra	Dakota du Sud	np-top-ind-m	eng	South Dakota	np-top$np-top-sg
+	fra	Dakota du Nord	np-top-ind-m	eng	North Dakota	np-top
+	fra	Dakota du Sud	np-top-ind-m	eng	South Dakota	np-top
 	fra	Delaware	np-top-ind-m	eng	Delaware	np-top-sg$np-top
 	fra	Hawaï	np-top-ind-m	eng	Hawaii	np-top$np-top-sg
 	fra	Idaho	np-top-ind-m	eng	Idaho	np-top-sg$np-top
@@ -10907,14 +10907,14 @@ RL	fra	al-Maliki	np-cog-mf-sp$np	eng	al-Maliki	np-cog-pl
 	fra	Montana	np-top-ind-m	eng	Montana	np-top-f$np-top
 	fra	Nebraska	np-top-ind-m	eng	Nebraska	np-top-sg$np-top
 	fra	Nevada	np$np-top-ind-m	eng	Nevada	np-top-sg$np-top
-	fra	New Hampshire	np-top-ind-m	eng	New Hampshire	np-top$np-top-sg
-	fra	New Jersey	np-top-ind-m	eng	New Jersey	np-top$np-top-sg
+	fra	New Hampshire	np-top-ind-m	eng	New Hampshire	np-top
+	fra	New Jersey	np-top-ind-m	eng	New Jersey	np-top
 	fra	New York	np-top-ind-m	eng	New York	np$np-top$np-top-m
-	fra	Nouveau-Mexique	np$np-top-ind-m	eng	New Mexico	np-top$np-top-sg
+	fra	Nouveau-Mexique	np$np-top-ind-m	eng	New Mexico	np-top
 	fra	Ohio	np-top-ind-m	eng	Ohio	np-top$np-top-sg
 	fra	Oklahoma	np$np-top-ind-m	eng	Oklahoma	np-top-sg$np-top
 	fra	Oregon	np-top-ind-m	eng	Oregon	np-top$np-top-sg$np
-	fra	Rhode Island	np-top-ind-m	eng	Rhode Island	np-top$np-top-sg
+	fra	Rhode Island	np-top-ind-m	eng	Rhode Island	np-top
 	fra	Tennessee	np-top-ind-m	eng	Tennessee	np-top$np-top-sg
 	fra	Texas	np-top$np-top-ind-m	eng	Texas	np$np-top$np-top-sg
 	fra	Utah	np-top-ind-m	eng	Utah	np-top-sg$np-top
@@ -10925,13 +10925,13 @@ RL	fra	al-Maliki	np-cog-mf-sp$np	eng	al-Maliki	np-cog-pl
 	fra	Israël	np-top-ind-m	eng	Israel	np-top$np$np-top-sg
 	fra	Saint-Christophe-et-Niévès	np$np-top$np-top-ind-m	eng	Saint Kitts-Nevis	np-top
 	fra	Saint-Vincent-et-les-Grenadines	np-top-ind-m	eng	Saint Vincent and the Grenadines	np-top$np-top-sg
-	fra	Saint-Marin	np-top$np-top-ind-m	eng	San Marino	np-top$np-top-sg$np
+	fra	Saint-Marin	np-top$np-top-ind-m	eng	San Marino	np-top$np$np-top-sg
 	fra	Sao Tomé et Principe	np-top-ind-m	eng	Sao Tomé and Principe	np-top
 	fra	Belau	np-top-ind-m	eng	Belau	np-top
 	fra	Cuba	np-top-ind-m	eng	Cuba	np-top$np$np-top-sg
 	fra	Haïti	np-top-ind-m	eng	Haiti	np-top$np$np-top-sg
 	fra	Nioué	np-top-ind-m	eng	Nieu	np-top
-	fra	Émirats arabes unis	np-top-m-pl$np-top	eng	United Arab Emirates	np-top$np-top-pl
+	fra	Émirats arabes unis	np-top-m-pl$np-top	eng	United Arab Emirates	np-top-pl
 	fra	États-Unis	np$np-top-m-pl$np-top	eng	United States	np$np-top$np-top-pl
 	fra	Samoa occidentales	np-top-m-pl	eng	Western Samoa	np-top-sg
 	fra	nord-américain	adj$adj-GD-ND	eng	North American	adj
@@ -11027,7 +11027,7 @@ LR	fra	allant	adj	eng	active	adj
 	fra	anthropologique	adj-mf$adj	eng	anthropological	adj
 	fra	antisémite	adj$adj-mf$adj-mf-ND	eng	anti-semite	adj
 	fra	ancien	adj$adj-GD-ND	eng	antique	adj
-	fra	antiraciste	adj-mf$adj	eng	antiracist	adj
+	fra	antiraciste	adj$adj-mf	eng	antiracist	adj
 	fra	anthropoïde	adj$adj-mf	eng	antropoid	adj
 	fra	anxieux	adj-m-sp$adj	eng	anxious	adj
 	fra	anxieux	adj-f	eng	anxious	adj
@@ -11134,8 +11134,8 @@ RL	fra	brillant	adj$adj-GD-ND$adj-GD	eng	bright	adj$adj-sint
 	fra	bulgare	adj-mf$adj$adj-mf-ND	eng	bulgarian	adj
 	fra	bureaucratique	adj-mf$adj$adj-mf-ND	eng	bureaucratic	adj
 	fra	birman	adj	eng	burmese	adj
-	fra	de commerce et de gestion	adj-mf-sp$adj	eng	business	adj
-	fra	des entreprises	adj-mf-sp$adj	eng	business	adj
+	fra	de commerce et de gestion	adj-mf-sp	eng	business	adj
+	fra	des entreprises	adj-mf-sp	eng	business	adj
 	fra	cadastral	$adj$adj-f	eng	cadastral	adj
 	fra	californien	adj	eng	californian	adj
 	fra	califonien	adj	eng	californian	adj
@@ -11161,7 +11161,7 @@ RL	fra	brillant	adj$adj-GD-ND$adj-GD	eng	bright	adj$adj-sint
 	fra	caractéristique	adj-mf$adj$adj-mf-ND	eng	characteristic	adj
 	fra	charismatique	adj$adj-mf	eng	charismatic	adj
 	fra	bénéfique	adj-mf$adj	eng	charitable	adj
-	fra	bon marché	adj-mf$adj$adj-mf-ND	eng	cheap	adj-sint$adj
+	fra	bon marché	adj-mf$adj-mf-ND$adj	eng	cheap	adj-sint$adj
 	fra	gai	adj$adj-GD-ND$adj-GD	eng	cheerful	adj
 	fra	chimique	adj$adj-mf$adj-mf-ND	eng	chemical	adj
 	fra	enfantin	adj$adj-f	eng	childish	adj$adj-sint
@@ -11244,7 +11244,7 @@ LR	fra	informatique	adj-mf$adj$adj-mf-ND	eng	computer	n$n-ND
 	fra	contentieux	adj-f	eng	contentious	adj
 	fra	contentieux	adj-m-sp$adj	eng	contentious	adj
 	fra	attenant	adj$adj-GD$adj-GD-ND	eng	contiguous	adj
-	fra	continental	adj$adj-GD-ND$$adj-GD	eng	continental	adj
+	fra	continental	adj$adj-GD-ND$adj-GD$	eng	continental	adj
 	fra	contingent	adj$adj-GD	eng	contingent	adj
 	fra	continuel	adj$	eng	continuous	adj
 	fra	continu	adj$adj-GD-ND	eng	continuous	adj
@@ -11818,7 +11818,7 @@ RL	fra	chaud	adj$adj-GD-ND$adj-GD	eng	hot	adj-sint$adj
 	fra	gentil	adj-m$adj-m-sg	eng	kind	adj-sint$adj
 	fra	gentil	adj$adj-GD$adj-GD-ND	eng	kind	adj-sint$adj
 	fra	coréen	adj$adj-GD-ND	eng	korean	adj
-	fra	de travail	adj-mf-sp$adj$adj-mf	eng	labour	adj
+	fra	de travail	adj-mf-sp	eng	labour	adj
 RL	fra	grand	adj$adj-GD$adj-GD-ND	eng	large	adj-sint$adj
 	fra	dernier	adj$adj-GD-ND	eng	last	adj$adj-ord$adj-ord-sp
 	fra	ultime	adj$adj-mf$adj-mf-ND	eng	last	adj$adj-ord$adj-ord-sp
@@ -12198,7 +12198,7 @@ RL	fra	doux	adj$adj-f$adj-f-sg	eng	mild	adj$adj-sint
 	fra	privé	adj$adj-GD-ND	eng	private	adj$
 	fra	probable	adj$adj-mf$adj-mf-ND	eng	probable	adj
 	fra	problématique	adj$adj-mf$adj-mf-ND	eng	problematic	adj
-	fra	du procès	adj-mf-sp$adj	eng	procedural	adj
+	fra	du procès	adj-mf-sp	eng	procedural	adj
 	fra	producteur	adj	eng	producing	adj
 	fra	productif	adj$adj-GD-ND	eng	productive	adj
 	fra	professionnel	adj$adj-GD-ND$adj-GD	eng	professional	adj
@@ -12615,7 +12615,7 @@ RL	fra	ponctuel	adj$adj-f$	eng	prompt	adj-sint$adj
 	fra	habituel	adj$adj-f$	eng	usual	adj
 	fra	vacant	adj$adj-f$adj-f-sg	eng	vacant	adj
 	fra	valencien	adj$adj-GD-ND	eng	valencian	adj
-	fra	en vigueur	adj-mf-sp$adj$adj-mf	eng	valid	adj
+	fra	en vigueur	adj-mf-sp	eng	valid	adj
 	fra	valable	adj-mf$adj$adj-mf-ND	eng	valid	adj
 	fra	de valeur	adj-mf-sp$adj	eng	valuable	adj
 	fra	précieux	adj$adj-m-sp	eng	valuable	adj
@@ -13300,7 +13300,7 @@ RL	fra	tellement	preadv	eng	as	preadv
 	fra	après	adv	eng	thereafter	adv
 	fra	ainsi	adv	eng	thereby	adv
 	fra	de cette manière	adv	eng	this way	adv
-	fra	combien	rel-adv$adv	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl
+	fra	combien	rel-adv$adv	eng	those that	rel-nn-mf-pl
 	fra	quand même	adv	eng	though	adv
 	fra	ainsi	adv	eng	thus	adv
 	fra	étroitement	adv	eng	tightly	adv

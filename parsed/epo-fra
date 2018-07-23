@@ -575,7 +575,7 @@ RL	epo	afrik	pref	fra	afro	adj$adj-preadj
 	epo	Afrika Unio	np-loc	fra	Union Africaine	np-loc-f
 	epo	afrikano	n	fra	Africain	n$n-m
 	epo	afrikato	n	fra	affriquée	n-f
-	epo	Afriko	np-loc$np	fra	Afrique	np$np-loc-f
+	epo	Afriko	np-loc$np	fra	Afrique	np-loc-f
 	epo	afrik-usona	adj	fra	afro-américain	adj
 	epo	afrik-usonano	n	fra	Afro-américain	n
 LR	epo	Afrodita	np-ant$np	fra	Aphrodite	np-ant$np$np-ant-f-sg
@@ -667,7 +667,7 @@ LR	epo	agronomiisto	n	fra	agronome	n$n-f
 	epo	agronutra	adj	fra	agroalimentaire	adj
 RL	epo	agronutra	adj	fra	agro-alimentaire	adj-mf$adj
 	epo	agropiro	n	fra	chiendent	n-m
-	epo	agroturismo	n	fra	vacances	n$n-f
+	epo	agroturismo	n	fra	vacances	n$n-f$n-f-pl
 	epo	aha	ij	fra	aha	ij
 	epo	aha	ij	fra	tiens-tiens	ij
 	epo	aĥi	vblex	fra	pousser	vblex
@@ -1000,7 +1000,7 @@ LR	epo	albergo	n	fra	auberge	n-f$n
 LR	epo	albergo	n	fra	taverne	n$n-f$n-f-ND
 LR	epo	Alberta	np-loc	fra	Alberta	np-loc-f
 	epo	Alberto	np-loc	fra	Alberta	np-loc-f
-LR	epo	Alberto	np-ant$np	fra	Albert	np-ant$np$np-ant-m-sg
+LR	epo	Alberto	np-ant$np	fra	Albert	np-ant$np-ant-m-sg$np
 	epo	Albi	np-loc	fra	Albi	np$np-loc-f
 	epo	albino	n	fra	albinos	n-m
 	epo	albizio	n	fra	albizzia	n-m
@@ -1128,7 +1128,7 @@ LR	epo	algluiĝi	vbntr	fra	coller	vblex
 LR	epo	alĥemio	n	fra	alchimie	n-f$n$n-f-sg
 	epo	alia	adj	fra	autrui	prn-tn-mf-sg$prn-tn-mf
 	epo	alia	adj	fra	d'autre	adj-ind-mf
-	epo	alia	det$det-ind	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind
+	epo	alia	det$det-ind	fra	un autre	det-ind-f-sg$det-ind
 LR	epo	alia	adj	fra	autre	adj-preadj
 RL	epo	alia	adj	fra	autre	adj-ind-mf$adj-mf$adj-ind-mf-sg$adj
 	epo	alianca	adj	fra	allié	adj
@@ -2292,7 +2292,7 @@ LR	epo	apudborda	adj	fra	côtier	adj$adj-GD-ND
 	epo	araba	adj	fra	arabe	adj$adj-mf-ND$adj-mf
 	epo	arab	pref	fra	arabo	adj
 	epo	arabesko	n	fra	arabesque	n-f
-	epo	Arabia Maro	np-loc	fra	mer d'Arabie	np$np-loc-f
+	epo	Arabia Maro	np-loc	fra	mer d'Arabie	np-loc-f$np
 	epo	Arabio	np-loc	fra	Arabia	np-loc$np-loc-f$np
 	epo	Arabio	np-loc	fra	Arabie	np$np-loc-f
 	epo	arabisto	n	fra	arabiste	n$n-mf
@@ -2524,7 +2524,7 @@ LR	epo	armeo	n$n-sg	fra	troupe	n-f$n$n-f-ND
 	epo	armilo	n	fra	arme	n$n-f$n-f-pl
 LR	epo	armiltenejo	n	fra	armurerie	n-f
 	epo	armistico	n	fra	armistice	n-m$n
-LR	epo	armita betono	n	fra	béton armé	n-m$n-m-sg
+LR	epo	armita betono	n	fra	béton armé	n-m
 	epo	arniko	n	fra	arnica	n-f
 LR	epo	Arnoldo	np-ant$np	fra	Arnaud	np-ant$np$np-ant-m-sg
 	epo	aro	n	fra	ensemble	n-m$n$n-m-ND
@@ -2817,10 +2817,10 @@ RL	epo	atlantik	pref	fra	atlantico	adj$adj-preadj
 	epo	atlaso	n	fra	atlas	n-m$n-m-sp
 	epo	atletika	adj	fra	athlétique	adj
 	epo	atletike	adv	fra	athlétiquement	adv
-	epo	atletiko	n	fra	athlétisme	n-m$n
+	epo	atletiko	n	fra	athlétisme	n-m$n$n-m-sg
 LR	epo	atletisma	adj	fra	athlétique	adj
 LR	epo	atletisme	adv	fra	athlétiquement	adv
-LR	epo	atletismo	n	fra	athlétisme	n-m$n
+LR	epo	atletismo	n	fra	athlétisme	n-m$n$n-m-sg
 	epo	atleto	n	fra	athlète	n$n-mf
 	epo	atmosfera	adj	fra	atmosphérique	adj
 	epo	atmosfero	n	fra	atmosphère	n-f$n$n-f-ND
@@ -3074,7 +3074,7 @@ RL	epo	azi	pref	fra	asiatico	adj$adj-preadj
 	epo	Azio	np-loc$np	fra	Asie	np$np-loc-f
 	epo	azotacido	n	fra	acide nitrique	n-m
 	epo	azoto	n	fra	azote	n-m$n
-	epo	Azova Maro	np-loc$np	fra	mer d'Azov	np$np-loc-f
+	epo	Azova Maro	np-loc$np	fra	mer d'Azov	np-loc-f$np
 	epo	Azovo	np-loc	fra	Azov	np$np-loc-f
 	epo	azteka	adj	fra	aztèque	adj
 	epo	azteko	n	fra	Aztèque	n
@@ -3210,14 +3210,14 @@ LR	epo	balota	adj	fra	électoral	adj$adj-f$
 	epo	balotrajto	n	fra	droit	n-m$n$n-m-ND
 LR	epo	balotujo	n	fra	urne	n-f$n$n-f-ND
 	epo	balta	adj	fra	balte	adj
-LR	epo	Balta Maro	np-loc$np	fra	mer Baltique	np$np-loc-f
+LR	epo	Balta Maro	np-loc$np	fra	mer Baltique	np-loc-f$np
 	epo	balta-slava	adj	fra	balto-slave	adj
 LR	epo	Baltazaro	np	fra	Balthazar	np$np-cog-mf-sp
 	epo	balteo	n	fra	bandoulière	n-f
 	epo	balteo	n	fra	baudrier	n-m
 LR	epo	baltika	adj	fra	balte	adj
 	epo	Baltiko	np-loc$np	fra	Baltique	np-loc-f
-	epo	Baltiko	np-loc$np	fra	mer Baltique	np$np-loc-f
+	epo	Baltiko	np-loc$np	fra	mer Baltique	np-loc-f$np
 	epo	balto	n	fra	Balte	n
 	epo	balustrado	n	fra	balustrade	n-f
 	epo	balustrado	n	fra	garde-corps	n-m
@@ -3656,7 +3656,7 @@ LR	epo	betonaĵo	n	fra	bétonnage	n-m
 	epo	betoni	vblex	fra	bétonner	vblex
 	epo	betoniko	n	fra	bétoine	n-f
 	epo	betonmaŝino	n	fra	bétonnière	n-f
-	epo	betono	n	fra	béton	n-m$n
+	epo	betono	n	fra	béton	n-m$n$n-m-sg
 	epo	betulaco	n	fra	bétulacée	n-f
 	epo	betulo	n	fra	bouleau	n-m
 	epo	beveli	vblex	fra	biseauter	vblex
@@ -4018,7 +4018,7 @@ LR	epo	bombi	vblex	fra	bombarder	vblex
 LR	epo	bombopafilo	n	fra	mortier	n-m$n$n-m-ND
 	epo	bona	adj	fra	bien	adj$adj-mf-sp
 	epo	bona ordo	n	fra	bon ordre	n-f
-	epo	Bonaero	np-loc	fra	Buenos Aires	np$np-loc-f
+	epo	Bonaero	np-loc	fra	Buenos Aires	np-loc-f$np
 	epo	bonaĵo	n	fra	bonne action	n-f
 	epo	bonaŭgura	adj	fra	faste	adj
 	epo	bondeziro	n	fra	voeu	n-m$n$n-m-ND
@@ -4101,7 +4101,7 @@ LR	epo	borderi	vbtr	fra	border	vblex
 	epo	bordo	n	fra	côte	n-f$n$n-f-ND
 RL	epo	bordo	n	fra	rivage	n-m
 RL	epo	bordo	n	fra	rive	n-f$n$n-f-ND
-	epo	Bordo Lazura	np-loc	fra	Côte d'Azur	np$np-loc-f
+	epo	Bordo Lazura	np-loc	fra	Côte d'Azur	np-loc-f$np
 	epo	bordoza	adj	fra	bordelais	adj
 	epo	bordozano	n	fra	Bordelais	n
 	epo	Bordozo	np-loc	fra	Bordeaux	np$np-loc-f
@@ -4274,7 +4274,7 @@ LR	epo	brido	n	fra	bride	n-f
 	epo	Britio	np-loc$np	fra	Royaume-Uni	np-loc-f
 	epo	British American Tobacco	np-al	fra	British American Tobacco	np-al-mf
 	epo	British Petroleum	np-al	fra	British Petroleum	np-al-mf
-	epo	brito	n	fra	Britannique	n-mf$n
+	epo	brito	n	fra	Britannique	n$n-mf
 	epo	Brive-la-Gaillarde	np-loc	fra	Brive-la-Gaillarde	np-loc-f
 	epo	brizo	n	fra	brise	n$n-f$n-f-ND
 	epo	broĉo	n	fra	broche	n-f
@@ -4511,7 +4511,7 @@ LR	epo	Burgundio	np-loc	fra	Bourgogne	np-loc-f$np
 RL	epo	burjata	adj	fra	bouriat	adj
 	epo	burjato	n	fra	Bouriate	n
 RL	epo	burjato	n	fra	Bouriat	n
-	epo	Burkino	np-loc$np	fra	Burkina Faso	np$np-loc-f
+	epo	Burkino	np-loc$np	fra	Burkina Faso	np-loc-f$np
 	epo	burleska	adj	fra	burlesque	adj
 	epo	burleskaĵo	n	fra	bouffonnerie	n-f
 	epo	burleskulo	n	fra	comique burlesque	n
@@ -5377,7 +5377,7 @@ RL	epo	ĉiu	det$det-ind-m-pl$det-ind	fra	tout	predet$predet-m$predet-m-sg
 	epo	ĉiu	det-ind-f-pl	fra	tout le	det-qnt-f-pl
 	epo	ĉiu	det$det-ind-m-pl$det-ind	fra	tout le	det-qnt-m-pl
 	epo	ĉiu	prn$prn-tn-pl$prn-tn$prn-tn-m-pl	fra	chacun	prn$prn-tn-m-pl
-RL	epo	ĉiu	prn$prn-tn-pl$prn-tn$prn-tn-m-pl	fra	tout	prn-tn-m-sg$prn$prn-tn$prn-tn-m
+RL	epo	ĉiu	prn$prn-tn-pl$prn-tn$prn-tn-m-pl	fra	tout	prn$prn-tn-m-sg$prn-tn$prn-tn-m
 	epo	ĉiu	prn$prn-tn-pl$prn-tn$prn-tn-m-pl	fra	tout le monde	prn
 	epo	ĉiu ajn	prn-tn	fra	n'importe qui	prn-tn-mf-sp$prn-tn-mf$prn-tn
 	epo	ĉiu ĉi	det-dem-pl	fra	tout ce	det-dem-f-pl
@@ -5538,12 +5538,12 @@ LR	epo	dajmono	n	fra	démon	n-m$n$n-m-ND
 	epo	dakara	adj	fra	dakarois	adj
 	epo	dakarano	n	fra	Dakarois	n
 	epo	Dakaro	np-loc	fra	Dakar	np$np-loc-f
-	epo	Dakoto	np-loc	fra	Dakota	np-loc-f
+	epo	Dakoto	np-loc	fra	Dakota	np$np-loc-f
 	epo	daktilarbo	n	fra	dattier	n-m
 	epo	daktilo	n	fra	dactyle	n-m
 	epo	daktilo	n	fra	datte	n-f
 LR	epo	daktilujo	n	fra	dattier	n-m
-	epo	da	adj$	fra	da	
+	epo	da	adj$	fra	da	np-cog-mf-sp$
 	epo	dalio	n	fra	dahlia	n-m
 	epo	dalmatiko	n	fra	dalmatique	n-f
 	epo	daltonismo	n	fra	daltonisme	n-m
@@ -5972,8 +5972,8 @@ LR	epo	delikteco	n	fra	délinquance	n-f$n$n-f-ND
 	epo	deliro	n	fra	délire	n-m$n$n-m-ND
 	epo	Dell	np-al	fra	Dell	np$np-al-mf$np-al
 	epo	della		fra	della	
-	epo	delle		fra	delle	
-	epo	del	$n	fra	del	
+	epo	delle		fra	delle	$np-cog-mf-sp
+	epo	del	$n	fra	del	np-cog-mf-sp$
 	epo	delli		fra	delli	
 	epo	dello		fra	dello	
 	epo	deloga	adj	fra	séducteur	adj
@@ -6975,7 +6975,7 @@ RL	epo	dominanta	adj	fra	prédominant	adj
 	epo	dominanteco	n	fra	dominance	n-f$n
 RL	epo	dominanteco	n	fra	prédominance	n-f
 RL	epo	dominanto	n-m	fra	dominante	n-f
-	epo	Domingo	np-loc	fra	République Dominicaine	np$np-loc-f
+	epo	Domingo	np-loc	fra	République Dominicaine	np-loc-f$np
 LR	epo	domini	vblex	fra	dominer	vblex
 	epo	dominika	adj	fra	dominicain	adj$adj-GD-ND
 	epo	dominikano	n	fra	Dominicain	n$n-m
@@ -7528,7 +7528,7 @@ LR	epo	egalpezo	n	fra	équilibre	n-m$n$n-m-ND
 	epo	egalrange	adv	fra	ex-aequo	adv
 LR	epo	ege	adv	fra	énormément	adv
 LR	epo	ege	adv	fra	extrêmement	adv
-	epo	Egea Maro	np-loc	fra	mer Égée	np-loc-f
+	epo	Egea Maro	np-loc	fra	mer Égée	np-loc-f$np
 LR	epo	egeco	n	fra	ampleur	n-f$n$n-f-ND
 	epo	egido	n$n-sg	fra	égide	n-f$n
 	epo	egipta	adj	fra	égyptien	adj$adj-GD-ND
@@ -7955,7 +7955,7 @@ LR	epo	ekzamenisto	n	fra	interrogateur	n
 	epo	ekzekuteblo	n	fra	exécutable	n-m
 	epo	ekzekuti	vbtr	fra	exécuter	vblex
 	epo	ekzekutisto	n$n-m	fra	bourreau	n-m$n
-	epo	ekzekutisto	n$n-m	fra	exécuteur	n
+	epo	ekzekutisto	n$n-m	fra	exécuteur	n$n-m
 	epo	ekzekutiva	adj	fra	exécutif	adj
 	epo	ekzekutive	adv	fra	exécutivement	adv
 	epo	ekzekutivo	n	fra	exécutif	n$n-m$n-m-ND
@@ -7984,7 +7984,7 @@ LR	epo	ekzistadista	adj	fra	existencialiste	adj
 	epo	ekzistadisto	n	fra	existencialiste	n
 LR	epo	ekzistado	n	fra	existence	n$n-f$n-f-ND
 LR	epo	ekzistaĵo	n	fra	créature	n-f$n$n-f-pl
-LR	epo	ekzistaĵo	n	fra	être	n$n-m$n-m-ND
+LR	epo	ekzistaĵo	n	fra	être	n-m$n$n-m-ND
 	epo	ekzistanta	adj	fra	existant	adj$adj-f
 	epo	ekzisti	vbser	fra	exister	vblex
 LR	epo	ekzistisma	adj	fra	existencialiste	adj
@@ -8202,7 +8202,7 @@ LR	epo	Eliza	np-ant	fra	Elisa	np-ant$np$np-ant-f-sg
 	epo	elizea	adj	fra	élyséen	adj
 	epo	elizeano	n	fra	élyséen	n
 	epo	Elizeo	np-loc-sg$np-loc	fra	Élysée	np$np-loc-f
-RL	epo	Elizeo	np-loc-sg$np-loc	fra	Champs Élysées	np$np-loc-f-pl
+RL	epo	Elizeo	np-loc-sg$np-loc	fra	Champs Élysées	np-loc-f-pl$np
 RL	epo	Elizeo	np-loc-sg$np-loc	fra	les champs Élysées	np-loc-f-pl
 	epo	elizii	vblex	fra	élider	vblex
 LR	epo	elĵetaĵo	n	fra	rebut	n-m
@@ -8981,7 +8981,7 @@ LR	epo	establejo	n	fra	établissement	n-m$n$n-m-ND
 	epo	establi	vblex	fra	instituer	vblex
 	epo	establo	n	fra	établissement	n-m$n$n-m-ND
 	epo	estado	n	fra	séjour	n-m$n-m-ND
-	epo	estaĵo	n	fra	être	n$n-m$n-m-ND
+	epo	estaĵo	n	fra	être	n-m$n$n-m-ND
 	epo	estanteco	n	fra	présent	n-m$n$n-m-ND
 	epo	estetika	adj	fra	esthétique	adj-mf$adj$adj-mf-ND
 	epo	estetike	adv	fra	esthétiquement	adv
@@ -9016,7 +9016,7 @@ LR	epo	estinto	n	fra	passé	n-m$n$n-m-ND
 	epo	estro	n$n-m	fra	dirigeant	n-m$n
 RL	epo	estro	n$n-m	fra	supérieur	n
 	epo	estuaro	n	fra	estuaire	n-m$n
-LR	epo	estulo	n	fra	être	n$n-m$n-m-ND
+LR	epo	estulo	n	fra	être	n-m$n$n-m-ND
 LR	epo	eta	adj	fra	petit	adj$adj-GD-ND
 LR	epo	eta ĉimpanzo	n	fra	bonobo	n-m
 LR	epo	etaĝero	n	fra	étagère	n-f$n$n-f-ND
@@ -9705,7 +9705,7 @@ LR	epo	fenomena	adj	fra	phénoménal	adj$adj-f$
 	epo	fera draŝilo	n	fra	traineau	n-m$n
 	epo	feraĵisto	n	fra	ferrailleur	n
 LR	epo	feraĵo	n	fra	fer	n-m$n$n-m-ND
-	epo	ferbetono	n	fra	béton armé	n-m$n-m-sg
+	epo	ferbetono	n	fra	béton armé	n-m
 LR	epo	ferdeko	n	fra	couverture	n-f$n$n-f-ND
 LR	epo	ferdeko	n	fra	pont	n-m$n$n-m-ND
 LR	epo	Ferdinando	np-ant	fra	Ferdinand	np-ant$np-ant-m-sg$np
@@ -9729,7 +9729,7 @@ LR	epo	feria tago	n	fra	jour férié	n-m$n$n-m-ND
 	epo	ferio	n$n-pl	fra	jour	n-m$n$n-m-ND
 	epo	ferio	n$n-pl	fra	vacance	n-f-pl$n-f$n
 LR	epo	ferio	n-sg	fra	vacance	n-f-pl$n-f$n
-RL	epo	ferio	n$n-pl	fra	vacances	n$n-f
+RL	epo	ferio	n$n-pl	fra	vacances	n$n-f$n-f-pl
 	epo	feritago	n	fra	jour ferié	n-m
 	epo	feritago	n	fra	jour férié	n-m$n$n-m-ND
 	epo	ferlado	n	fra	tôle	n-f$n
@@ -9754,7 +9754,7 @@ LR	epo	Fernando	np-ant$np	fra	Fernand	np-ant-m-sg$np-ant
 	epo	feroce	adv	fra	férocement	adv
 	epo	feroceco	n	fra	férocité	n-f$n
 	epo	ferolo	n	fra	férule	n-f
-	epo	Ferooj	np-loc	fra	Îles Féroé	np$np-loc-f
+	epo	Ferooj	np-loc	fra	Îles Féroé	np-loc-f$np
 RL	epo	Ferooj	np-loc	fra	Féroé	np$np-loc-f
 	epo	ferotipio	n	fra	ferrotype	n-f
 	epo	Ferrari	np-al	fra	Ferrari	np-al$np-al-mf$np
@@ -10155,8 +10155,8 @@ LR	epo	flategema	adj	fra	adulateur	adj
 	epo	flatulo	n	fra	flatteur	n
 	epo	flaŭro	n	fra	flore	n-f$n$n-f-ND
 	epo	flava	adj	fra	jaune	adj$adj-mf$adj-mf-ND
-	epo	Flava Maro	np-loc	fra	mer Jaune	np$np-loc-f
-	epo	Flava Rivero	np$np-loc	fra	Huang He	np$np-loc-f
+	epo	Flava Maro	np-loc	fra	mer Jaune	np-loc-f$np
+	epo	Flava Rivero	np$np-loc	fra	Huang He	np-loc-f$np
 RL	epo	Flava Rivero	np$np-loc	fra	Fleuve jaune	np
 	epo	flavaj paĝoj	n	fra	pages jaunes	n-f
 	epo	flavbekulo	n$n-f	fra	blanc bec	n
@@ -10730,7 +10730,7 @@ RL	epo	Francio	np-loc$np	fra	la France	np-loc-f
 	epo	franciskana	adj	fra	franciscain	adj
 	epo	franciskano	n	fra	franciscain	n$n-m
 LR	epo	Francisko	np-ant$np	fra	Francis	np-ant$np$np-ant-m-sg
-LR	epo	Francisko	np-ant$np	fra	François	np-ant$np-ant-m-sg$np
+LR	epo	Francisko	np-ant$np	fra	François	np-ant-m-sg$np-ant$np
 LR	epo	franciumo	n	fra	francium	n-m
 	epo	franc-kanada	adj	fra	franco-canadien	adj$adj-f
 	epo	franĉ-kontea	adj	fra	franc-comtois	adj
@@ -10809,7 +10809,7 @@ RL	epo	fraŭlo	n$n-f	fra	miss	n-f
 	epo	frazo	n	fra	phrase	n-f$n$n-f-ND
 	epo	Freddie Mac	np-al	fra	Freddie Mac	np-al-mf
 	epo	Fredericton	np-loc	fra	Fredericton	np-loc-f
-LR	epo	Frederiko	np-ant	fra	Frédéric	np-ant$np-ant-m-sg$np
+LR	epo	Frederiko	np-ant	fra	Frédéric	np-ant-m-sg$np-ant$np
 	epo	Frederiktono	np-loc	fra	Fredericton	np-loc-f
 	epo	fregatkapitano	n	fra	capitaine	n$n-mf$n-mf-ND
 	epo	fregato	n	fra	frégate	n-f
@@ -11408,7 +11408,7 @@ LR	epo	Gastono	np-ant	fra	Gaston	np-ant$np$np-ant-m-sg
 	epo	gaŭlisma	adj	fra	gaulliste	adj
 	epo	gaŭlismo	n	fra	gaullisme	n-m
 LR	epo	gaŭlista	adj	fra	gaulliste	adj
-	epo	gaŭlisto	n	fra	gaulliste	n
+	epo	gaŭlisto	n	fra	gaulliste	n$n-mf
 	epo	gaŭlo	n	fra	Gaulois	n$n-m-sp
 	epo	gaŭsa	adj	fra	de Gauss	adj
 	epo	gaŭsa	adj	fra	gaussien	adj
@@ -12144,11 +12144,11 @@ LR	epo	Granda Fasto	np$np-al	fra	carême	n-m$n-m-ND
 	epo	Granda Oriento	np-loc	fra	Grand Est	np-loc-f
 	epo	granda pando	n	fra	panda géant	n-m
 	epo	granda premio	n	fra	grand prix	n-m
-	epo	Granda Ursino	np$np-loc	fra	Grande Ourse	np$np-loc-f
+	epo	Granda Ursino	np$np-loc	fra	Grande Ourse	np-loc-f$np
 RL	epo	Granda Ursino	np$np-loc	fra	Grand Charriot	np-loc-f
 	epo	grandaĝa	adj	fra	de grand âge	adj
 	epo	grandaĝa	adj	fra	très agé	adj
-	epo	grandaĝulo	n	fra	personne âgée	n$n-f$n-f-pl
+	epo	grandaĝulo	n	fra	personne âgée	n$n-f
 	epo	Grandaj Ebenaĵoj	n	fra	Grandes Plaines	np-loc-f
 	epo	Grandaj Lagoj	n	fra	Grands Lacs	np$np-loc-f
 	epo	grandanima	adj	fra	magnanime	adj
@@ -12178,7 +12178,7 @@ LR	epo	grando	n	fra	grandeur	n-f$n$n-f-ND
 	epo	grandskala	adj	fra	à grande échelle	adj
 	epo	grandskale	adv	fra	à grande échelle	adv
 	epo	Grand Sudbury	np-loc	fra	Grand Sudbury	np-loc-f
-	epo	grandulo	n	fra	grand	n
+	epo	grandulo	n	fra	grand	n$n-m
 LR	epo	grandvalora	adj	fra	précieux	adj$adj-m-sp
 LR	epo	grandvalore	adv	fra	précieusement	adv
 	epo	granita	adj	fra	en granit	adj
@@ -12392,7 +12392,7 @@ RL	epo	gupio	n	fra	guppy	n-m
 RL	epo	ĝustatempe	adv	fra	au bon moment	adv
 RL	epo	ĝustatempe	adv	fra	en temps et en heure	adv
 RL	epo	ĝustatempe	adv	fra	juste à temps	adv
-LR	epo	Gustavo	np-ant$np	fra	Gustave	np-ant$np-ant-m-sg$np
+LR	epo	Gustavo	np-ant$np	fra	Gustave	np-ant$np$np-ant-m-sg
 	epo	ĝuste	adv	fra	correctement	adv
 	epo	ĝuste	adv	fra	exactement	adv
 	epo	ĝuste	adv	fra	justement	adv
@@ -12452,7 +12452,7 @@ LR	epo	gvidinstruisto	n	fra	tuteur	n$n-m
 LR	epo	gvidmarkilo	n	fra	balise	n-f$n
 	epo	gvinea	adj	fra	guinéen	adj$adj-GD-ND
 	epo	gvineano	n	fra	Guinéen	n$n-m
-	epo	Gvineo	np-loc$np	fra	Guinée	np$np-loc-f
+	epo	Gvineo	np-loc$np	fra	Guinée	np-loc-f
 	epo	Gvineo-Bisaŭo	np-loc$np	fra	Guinée-Bissau	np-loc-f
 	epo	ha	ij	fra	ah	ij
 	epo	ha	ij	fra	ha	ij
@@ -12465,7 +12465,7 @@ LR	epo	gvidmarkilo	n	fra	balise	n-f$n
 RL	epo	hadiso	n	fra	hadîth	n-m
 	epo	hadrono	n	fra	hadron	n-m
 	epo	hafnio	n	fra	hafnium	n-m
-	epo	Hago	np-loc$np	fra	La Haye	np$np-loc-f
+	epo	Hago	np-loc$np	fra	La Haye	np-loc-f$np
 	epo	haĝo	n	fra	hajj	n$n-m
 	epo	Haguenau	np-loc	fra	Haguenau	np-loc-f
 LR	epo	haĝulo	n	fra	hajj	n$n-m
@@ -13071,7 +13071,7 @@ LR	epo	ĥina	adj	fra	chinois	adj-m-sp$adj
 LR	epo	hinduisma	adj	fra	hindouiste	adj
 	epo	hinduismo	n	fra	hindouisme	n-m
 LR	epo	hinduista	adj	fra	hindouiste	adj
-	epo	Hindukuŝo	np-loc	fra	Hindou Kouch	np$np-loc-f
+	epo	Hindukuŝo	np-loc	fra	Hindou Kouch	np-loc-f$np
 	epo	Hindukuŝo	np-loc	fra	Hindu Kush	np-loc-f
 	epo	hinduo	n	fra	hindouiste	n
 	epo	hinduo	n	fra	Hindou	n$n-m
@@ -13101,7 +13101,7 @@ RL	epo	hiper	pref	fra	hyper	adj$adj-preadj
 	epo	hiperono	n	fra	hypéron	n-m
 	epo	hiperteksto	n	fra	hypertexte	n-f
 	epo	hipertrofio	n	fra	hypertrophie	n-f
-	epo	hiphopo	n	fra	hip-hop	n-m$n-m-sg
+	epo	hiphopo	n	fra	hip-hop	n-m$n-m-sp
 	epo	hipia	adj	fra	hippie	adj
 	epo	hipio	n	fra	hippie	n$n-mf
 	epo	hipnota	adj	fra	hypnotique	adj
@@ -14202,11 +14202,11 @@ LR	epo	insultego	n	fra	affront	n-m
 	epo	integra	adj	fra	intègre	adj$adj-mf
 	epo	integra cirkvito	n	fra	circuit intégré	n-m
 	epo	integra parto	n	fra	partie intégrante	n-f
-LR	epo	integrado	n	fra	intégration	n-f
+LR	epo	integrado	n	fra	intégration	n-f$n
 LR	epo	integrala	adj	fra	intégral	adj$adj-f$
 	epo	integrala ekvacio	n	fra	équation intégrale	n-f
 	epo	integrala kalkulo	n	fra	calcul intégral	n-m
-LR	epo	integralado	n	fra	intégration	n-f
+LR	epo	integralado	n	fra	intégration	n-f$n
 	epo	integralato	n	fra	intégrande	n-f
 	epo	integralebla	adj	fra	intégrable	adj
 LR	epo	integralhava	adj	fra	intégrable	adj
@@ -14218,7 +14218,7 @@ RL	epo	integralsigno	n	fra	signe somme	n-m
 	epo	integreco	n	fra	intégralité	n-f$n
 	epo	integreco	n	fra	intégrité	n-f$n
 	epo	integri	vblex	fra	intégrer	vblex
-	epo	integriĝo	n	fra	intégration	n-f
+	epo	integriĝo	n	fra	intégration	n-f$n
 	epo	integrisma	adj	fra	intégriste	adj
 	epo	integrismo	n	fra	intégrisme	n-m
 LR	epo	integrista	adj	fra	intégriste	adj
@@ -14415,7 +14415,7 @@ LR	epo	interpolado	n	fra	interpolation	n-f$n
 	epo	interpunkcio	n	fra	ponctuation	n-f$n
 	epo	interregado	n	fra	interrègne	n-m
 LR	epo	interreĝado	n	fra	interrègne	n-m
-	epo	interregiona	adj	fra	interrégional	adj$adj-GD-ND
+	epo	interregiona	adj	fra	interrégional	adj$adj-GD-ND$
 	epo	interregistara	adj	fra	intergouvernemental	adj
 	epo	interreta	adj	fra	internet	adj
 	epo	Interreto	np-al$np	fra	Internet	np$np-al-mf$np-al
@@ -14567,7 +14567,7 @@ LR	epo	investanto	n	fra	investisseur	n$n-GD
 	epo	involukro	n	fra	involucre	n-m
 	epo	io	prn-tn$prn	fra	quelque chose	prn-tn-nt-sg$prn$prn-tn-nt
 	epo	ioma	adj	fra	un certain nombre de	adj
-	epo	iom	adv	fra	en	prn$prn-enc-adv
+	epo	iom	adv	fra	en	adv$prn-enc-adv
 	epo	iom	adv	fra	un peu	adv
 RL	epo	ioma	adj	fra	une certaine quantité de	adj
 RL	epo	ioma	det-qnt	fra	un certain	det-ind
@@ -14584,7 +14584,7 @@ RL	epo	ioma	det-qnt	fra	un certain	det-ind
 LR	epo	iomete	adv	fra	légèrement	adv
 LR	epo	iompostioma	adj	fra	graduel	adj$adj-f$adj-f-sg
 LR	epo	iom-post-ioma	adj	fra	graduel	adj$adj-f$adj-f-sg
-	epo	Ionia Maro	np-loc	fra	mer Ionienne	np$np-loc-f
+	epo	Ionia Maro	np-loc	fra	mer Ionienne	np-loc-f$np
 LR	epo	irado	n	fra	aller	n-m$n
 LR	epo	irado	n	fra	allure	n-f$n-f-ND
 LR	epo	irado	n	fra	démarche	n-f$n$n-f-ND
@@ -14696,7 +14696,7 @@ RL	epo	ital	pref	fra	italo	adj$adj-preadj
 	epo	Itochu	np-al	fra	Itochu	np-al-mf
 	epo	itrio	n	fra	yttrium	n-m
 	epo	iu	adj	fra	un certain	adj
-	epo	iu	det-qnt$det$det-qnt-pl	fra	un	det-ind-mf-pl$det-ind$det
+	epo	iu	det-qnt$det$det-qnt-pl	fra	un	det-ind-mf-pl$det-ind$det$det-ind-mf
 	epo	IU	n-acr	fra	IU	n-acr-f$n-acr
 	epo	iu	prn$prn-tn$prn-tn-sg	fra	quelqu'un	prn-tn-mf$prn-tn
 LR	epo	iu	det-qnt$det$det-qnt-pl	fra	certain	det$det-ind$det-ind-mf-sg
@@ -14704,7 +14704,7 @@ RL	epo	iu	det-qnt$det$det-qnt-pl	fra	certain	det$det-ind$det-ind-mf-sg
 RL	epo	iu	det-qnt$det$det-qnt-pl	fra	un certain	det-ind
 RL	epo	iu	det-qnt-sg	fra	quelque	det-ind-mf-sg
 RL	epo	iu	prn$prn-tn$prn-tn-sg	fra	certains	prn-tn-f-pl$prn$prn-tn
-	epo	iu ajn	prn-tn	fra	quiconque	prn-tn$prn-tn-mf-sg
+	epo	iu ajn	prn-tn	fra	quiconque	prn-tn-mf-sg$prn-tn
 	epo	iusence	adv	fra	dans un certain sens	adv
 LR	epo	IV	num	fra	IV	num$num-mf-sp
 LR	epo	Ivo	np-ant$np	fra	Yves	np-ant$np-ant-m-sg$np
@@ -14893,8 +14893,8 @@ RL	epo	jogurto	n	fra	yoghourt	n-m
 LR	epo	Johanino	np-ant$np	fra	Jehanne	np$np-ant-f-sg
 LR	epo	Johanino	np-ant$np	fra	Jeanne	np-ant$np-ant-f-sg$np
 LR	epo	Johano	np$np-ant	fra	Jehan	np$np-ant
-LR	epo	Johano	np$np-ant	fra	Juan	np$np-ant$np-ant-m-sg
-LR	epo	Johano	np$np-ant	fra	Jean	np-ant-m-sg$np-ant$np
+LR	epo	Johano	np$np-ant	fra	Juan	np$np-ant-m-sg$np-ant
+LR	epo	Johano	np$np-ant	fra	Jean	np-ant-m-sg$np$np-ant
 	epo	Johnson	np-al	fra	Johnson	np-al-mf
 	epo	Johnson Controls	np-al	fra	Johnson Controls	np-al-mf
 	epo	jojko	n	fra	joïk	n-m
@@ -14973,8 +14973,8 @@ LR	epo	jujubujo	n	fra	jujubier	n-m
 	epo	Julia	np$np-ant	fra	Julia	np$np-ant$np-ant-f-sg
 LR	epo	Juliano	np$np-ant	fra	Julián	np$np-ant-m-sg$np-ant
 	epo	julio	n	fra	juillet	n$n-m$n-m-sg
-LR	epo	Julio	np-ant$np	fra	Jules	np-ant$np-ant-m-sg$np
-	epo	Julio Cezaro	np-ant-m	fra	Jules César	np$np-ant-m$np-ant-m-sg
+LR	epo	Julio	np-ant$np	fra	Jules	np-ant-m-sg$np-ant$np
+	epo	Julio Cezaro	np-ant-m	fra	Jules César	np$np-ant-m
 	epo	ĵulo	n	fra	joule	n-m
 LR	epo	Ĵulo	np	fra	Joule	np
 LR	epo	juna	adj	fra	jeune	adj-preadj
@@ -14998,7 +14998,7 @@ LR	epo	junularo	n	fra	jeunesse	n-f$n$n-f-ND
 RL	epo	junulo	n$n-f	fra	jeune femme	n-f
 RL	epo	junulo	n$n-f	fra	jeune fille	n-f$n
 RL	epo	junulo	n-m	fra	jeune homme	n-m$n
-RL	epo	junulo	n-m	fra	jeunes gens	n-m$n-m-pl
+RL	epo	junulo	n-m	fra	jeunes gens	n-m
 	epo	jupeto	n	fra	jupette	n-f
 	epo	Jupitero	np-ant	fra	Jupiter	np-ant$np
 	epo	Jupitero	np-loc$np	fra	Jupiter	np-loc$np-loc-f
@@ -15086,7 +15086,7 @@ RL	epo	kabalisto	n	fra	kabbaliste	n
 	epo	kablogramo	n	fra	câblogramme	n-m
 	epo	kablotramo	n	fra	funiculaire	n-m
 	epo	kabo	n	fra	cap	n-m$n$n-m-ND
-	epo	Kaboverdo	np-loc$np	fra	Cap Vert	np$np-loc-f
+	epo	Kaboverdo	np-loc$np	fra	Cap Vert	np-loc-f$np
 	epo	kabrioleto	n	fra	cabriolet	n-m
 	epo	kabuko	n	fra	kabuki	n-m
 	epo	Kabulo	np-loc	fra	Kaboul	np$np-loc-f
@@ -15156,7 +15156,7 @@ LR	epo	kafujo	n	fra	boîte	n-f$n$n-f-ND
 	epo	kaheli	vblex	fra	carreler	vblex
 	epo	kahelo	n	fra	carreau	n-m$n-m-ND
 	epo	Kaino	np-ant	fra	Caïn	np-ant$np
-	epo	Kairo	np-loc	fra	le Caire	np-loc-f$np
+	epo	Kairo	np-loc	fra	le Caire	np-loc-f
 	epo	kaj	cnjcoo	fra	et	cnjcoo
 	epo	kajaki	vblex	fra	faire	vblex
 	epo	kajako	n	fra	kayak	n-m$n
@@ -15635,7 +15635,7 @@ LR	epo	kapvorto	n	fra	entrée	n-f$n$n-f-ND
 	epo	kara	adj	fra	chéri	adj
 	epo	kara	adj	fra	cher	adj$adj-GD-ND$adj-GD
 	epo	kara	adj	fra	onéreux	adj
-	epo	Karaa Maro	np-loc	fra	mer de Kara	np$np-loc-f
+	epo	Karaa Maro	np-loc	fra	mer de Kara	np-loc-f$np
 	epo	karabedo	n	fra	carabidé	n-m
 	epo	karabeno	n	fra	carabine	n-f
 	epo	karafo	n	fra	carafe	n-f
@@ -15780,7 +15780,7 @@ LR	epo	karnomanĝanto	n	fra	carnivore	n-m$n
 	epo	karnomanĝulo	n	fra	carnivore	n-m$n
 LR	epo	karnovora	adj	fra	carnivore	adj
 LR	epo	karnovorulo	n	fra	carnivore	n-m$n
-RL	epo	karnulo	n	fra	être	n$n-m$n-m-ND
+RL	epo	karnulo	n	fra	être	n-m$n$n-m-ND
 	epo	karobarbo	n	fra	caroubier	n-m
 	epo	karobo	n	fra	caroube	n-f
 	epo	karobo	n	fra	carouge	n-f
@@ -16297,8 +16297,8 @@ LR	epo	kitaro	n	fra	cithare	n-f
 	epo	Kitchener	np-loc	fra	Kitchener	np-loc-f
 	epo	kitelo	n	fra	souquenille	n-f
 	epo	Kito	np-loc	fra	Quito	np$np-loc-f
-	epo	kiu	prn-itg	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf$prn-itg
-	epo	kiu	prn-itg	fra	qui	prn-itg-mf-sp$prn-itg-mf$prn-itg
+	epo	kiu	prn-itg	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf
+	epo	kiu	prn-itg	fra	qui	prn-itg-mf-sp$prn-itg$prn-itg-mf
 	epo	kiu	prn$prn-rel	fra	quel	prn$prn-itg-GD$prn-itg-GD-sg
 	epo	kiu	prn$prn-rel	fra	que	rel$prn-rel-mf
 	epo	kiu	prn$prn-rel	fra	qui	prn-rel-mf
@@ -17165,8 +17165,8 @@ RL	epo	komponi	vblex	fra	façonner	vblex
 	epo	kompono	n	fra	composition	n-f$n$n-f-ND
 LR	epo	komposti	vbtr	fra	composer	vblex
 	epo	kompoto	n$n-sg	fra	compote	n-f
-	epo	kompoto	n$n-sg	fra	fruits	n-m-pl
-LR	epo	kompoto	n-pl	fra	fruits	n-m-pl
+	epo	kompoto	n$n-sg	fra	fruits	n-m-pl$n-m
+LR	epo	kompoto	n-pl	fra	fruits	n-m-pl$n-m
 LR	epo	kompozicio	n	fra	composition	n-f$n$n-f-ND
 	epo	kompozito	n	fra	matériau composite	n-m
 LR	epo	komprenaĵo	n	fra	notion	n-f$n$n-f-ND
@@ -17794,7 +17794,7 @@ LR	epo	konstruado	n	fra	construction	n-f$n$n-f-ND
 	epo	konstruaĵo	n	fra	bâtiment	n-m$n$n-m-ND
 	epo	konstruaĵo	n	fra	édifice	n$n-m$n-m-ND
 	epo	konstrue	adv	fra	constructivement	adv
-	epo	konstruejo	n	fra	chantier	n-m$n-m-ND
+	epo	konstruejo	n	fra	chantier	n-m$n-m-sg
 	epo	konstrui	vbtr	fra	bâtir	vblex
 	epo	konstrui	vbtr	fra	construire	vblex
 	epo	konstrui	vbtr	fra	édifier	vblex
@@ -17868,7 +17868,7 @@ LR	epo	kontestebla	adj	fra	contestable	adj$adj-mf$adj-mf-ND
 LR	epo	kontesteble	adv	fra	contestablement	adv
 	epo	kontesti	vblex	fra	contester	vblex
 	epo	kontesto	n	fra	contestation	n-f$n
-	epo	kontinenta	adj	fra	continental	adj$adj-GD-ND$$adj-GD
+	epo	kontinenta	adj	fra	continental	adj$adj-GD-ND$adj-GD$
 LR	epo	kontinenta drivo	n	fra	dérive	n-f$n
 	epo	kontinente	adv	fra	continentalement	adv
 	epo	kontinento	n	fra	continent	n-m$n$n-m-ND
@@ -18160,7 +18160,7 @@ LR	epo	korbopilkado	n	fra	basket-ball	n$n-m$n-m-sg
 	epo	Korea Electric Power	np-al	fra	Korea Electric Power	np-al-mf
 	epo	koregidoro	n	fra	corrégidor	n-m
 	epo	koregrafio	n	fra	chorégraphie	n-f$n
-	epo	Koreio	np-loc	fra	Corée	np$np-loc-f
+	epo	Koreio	np-loc	fra	Corée	np-loc-f
 	epo	korekta	adj	fra	correctif	adj
 	epo	korekte	adv	fra	correctivement	adv
 	epo	korektebla	adj	fra	corrigible	adj
@@ -18764,7 +18764,7 @@ LR	epo	kukaĵo	n	fra	gâteau	n-m$n$n-m-ND
 	epo	kukumeto	n	fra	cornichon	n-m
 	epo	kukumo	n	fra	concombre	n-m$n
 	epo	kukurbaco	n	fra	curcurbitacée	n-f
-	epo	kukurbo	n	fra	courge	n-f
+	epo	kukurbo	n	fra	courge	n-f$f-f
 	epo	kulako	n	fra	koulak	n-m
 	epo	kulaso	n	fra	culasse	n-f
 LR	epo	kulerego	n	fra	louche	n-f$n
@@ -19433,7 +19433,7 @@ LR	epo	Langvedoko-Rusiljono	np-loc	fra	Languedoc-Roussillon	np-loc-f$np
 	epo	laosa	adj	fra	laotien	adj$adj-GD-ND
 	epo	laosano	n	fra	Laotien	n$n-m
 	epo	Laoso	np-loc$np	fra	Laos	np$np-loc-f
-	epo	La-Pazo	np-loc	fra	La Paz	np$np-loc-f
+	epo	La-Pazo	np-loc	fra	La Paz	np-loc-f$np
 	epo	laplaca	adj	fra	de Laplace	adj
 	epo	laplaca	adj	fra	laplacien	adj
 	epo	laplaca operatoro	n	fra	laplacien	n-m
@@ -19463,10 +19463,10 @@ LR	epo	larmi	vbntr	fra	pleurer	vblex
 	epo	larmogaso	n	fra	gaz lacrymogène	n-m
 	epo	laro	n	fra	goéland	n-m
 	epo	La Roche-en-Ardenne	np-loc	fra	La Roche-en-Ardenne	np-loc-f
-	epo	La Rochelle	np-loc	fra	La Rochelle	np$np-loc-f
-	epo	La Roche-sur-Yon	np-loc	fra	La Roche-sur-Yon	np$np-loc-f
+	epo	La Rochelle	np-loc	fra	La Rochelle	np-loc-f$np
+	epo	La Roche-sur-Yon	np-loc	fra	La Roche-sur-Yon	np-loc-f$np
 	epo	larvo	n	fra	larve	n-f
-	epo	Las Vegas	np-loc	fra	Las Vegas	np$np-loc-f
+	epo	Las Vegas	np-loc	fra	Las Vegas	np-loc-f$np
 	epo	lasciva	adj	fra	lascif	adj
 	epo	lascive	adv	fra	lascivement	adv
 	epo	lascivo	n	fra	lasciveté	n-f
@@ -19582,7 +19582,7 @@ LR	epo	laŭvola	adj	fra	optionnel	adj$adj-f$
 	epo	laŭzanano	n	fra	Lausannois	n
 	epo	Laŭzano	np-loc	fra	Lausanne	np$np-loc-f
 	epo	Laval	np-loc	fra	Laval	np$np-loc-f
-	epo	La-Valeto	np-loc	fra	La Valette	np$np-loc-f
+	epo	La-Valeto	np-loc	fra	La Valette	np-loc-f$np
 	epo	La Valette-du-Var	np-loc	fra	La Valette-du-Var	np-loc-f
 	epo	lavango	n	fra	avalanche	n-f$n
 	epo	lavi	vbtr	fra	laver	vblex
@@ -19697,7 +19697,7 @@ LR	epo	lektoro	n	fra	lecteur	n$n-m$n-m-ND
 	epo	Le Lamentin	np-loc	fra	Le Lamentin	np-loc-f
 	epo	Lemano	np-loc	fra	Lac Léman	np-loc-f
 	epo	Lemano	np-loc	fra	Leman	np-loc-f
-	epo	Le Mans	np-loc	fra	Le Mans	np$np-loc-f
+	epo	Le Mans	np-loc	fra	Le Mans	np-loc-f$np
 	epo	Le Mée-sur-Seine	np-loc	fra	Le Mée-sur-Seine	np-loc-f
 	epo	lemniskato	n	fra	lemniscate	n-f
 	epo	lemno	n	fra	lentille	n-f$n
@@ -19736,7 +19736,7 @@ LR	epo	Leopoldo	np-ant	fra	Léopold	np-ant$np$np-ant-m-sg
 	epo	leporulo	n	fra	lagomorphe	n-m
 	epo	lepro	n	fra	lèpre	n-f
 	epo	lepto	n	fra	lepton	n-m
-	epo	Le Puy-en-Velay	np-loc	fra	Le Puy-en-Velay	np$np-loc-f
+	epo	Le Puy-en-Velay	np-loc	fra	Le Puy-en-Velay	np-loc-f$np
 	epo	lernanto	n	fra	élève	n-mf$n$n-mf-sg
 	epo	lerneja	adj	fra	scolaire	adj$adj-mf-ND$adj-mf
 	epo	lernejano	n	fra	écolier	n$n-GD
@@ -20302,7 +20302,7 @@ RL	epo	Loveno	np-loc$np	fra	Leuven	np-loc-f
 	epo	Lowe's	np-al	fra	Lowe's	np-al-mf
 	epo	lozanĝo	n	fra	losange	n-m
 	epo	Lozère	np-loc	fra	Lozère	np$np-loc-f
-	epo	Luarlandoj	np-loc	fra	Pays de Loire	np$np-loc-f
+	epo	Luarlandoj	np-loc	fra	Pays de Loire	np-loc-f$np
 	epo	lubrika	adj	fra	lubrificateur	adj
 	epo	lubrikaĵo	n	fra	lubrifiant	n-m
 	epo	lubriki	vblex	fra	lubrifier	vblex
@@ -20926,7 +20926,7 @@ RL	epo	malgranda	adj	fra	petit	adj$adj-GD-ND
 	epo	malgranda fingro	n	fra	petit doigt	n-m
 	epo	malgranda kalorio	n	fra	petite calorie	n-f
 	epo	malgranda pando	n	fra	petit panda	n-m
-	epo	Malgranda Ursino	np-loc$np	fra	Petite Ourse	np$np-loc-f
+	epo	Malgranda Ursino	np-loc$np	fra	Petite Ourse	np-loc-f$np
 RL	epo	Malgranda Ursino	np-loc$np	fra	Petit Charriot	np-loc-f
 LR	epo	malgrandegulo	n	fra	nain	n$n-m
 LR	epo	malgrandigo	n	fra	diminution	n-f$n$n-f-ND
@@ -21025,7 +21025,7 @@ RL	epo	maljunulo	n-f	fra	vieille dame	n-f
 	epo	maljuste	adv	fra	injustement	adv
 LR	epo	maljusteco	n	fra	injustice	n-f$n$n-f-ND
 	epo	maljusto	n	fra	injustice	n-f$n$n-f-ND
-	epo	malkara	adj	fra	bon marché	adj-mf$adj$adj-mf-ND
+	epo	malkara	adj	fra	bon marché	adj-mf$adj-mf-ND$adj
 LR	epo	malkaresi	vbtr	fra	brutaliser	vblex
 LR	epo	malkaresi	vbtr	fra	maltraiter	vblex
 LR	epo	malkaresi	vbtr	fra	molester	vblex
@@ -21762,7 +21762,7 @@ LR	epo	marĝenigo	n	fra	marginalisation	n-f$n
 	epo	marĝeniĝo	n	fra	marginalisation	n-f$n
 LR	epo	marĝeno	n	fra	marge	n-m$n$n-m-ND
 	epo	marhaveno	n	fra	port	n-m$n$n-m-ND
-LR	epo	Maria	np-ant$np	fra	María	np$np-ant$np-ant-f-sg
+LR	epo	Maria	np-ant$np	fra	María	np$np-ant-f-sg$np-ant
 LR	epo	maribesto	n	fra	coccinelle	n-f$n
 	epo	Marie	np-ant$np	fra	Marie	np-ant$np-ant-f-sg$np
 	epo	Marignane	np-loc	fra	Marignane	np-loc-f
@@ -21771,8 +21771,8 @@ RL	epo	mariĥuano	n	fra	marihuana	n-f
 	epo	marioneto	n	fra	fantoche	n-f
 	epo	marioneto	n	fra	marionnette	n-f$n
 	epo	mariskarabo	n	fra	coccinelle	n-f$n
-	epo	marisko	n-sg$n	fra	fruits	n-m-pl
-LR	epo	marisko	n-pl	fra	fruits	n-m-pl
+	epo	marisko	n-sg$n	fra	fruits	n-m-pl$n-m
+LR	epo	marisko	n-pl	fra	fruits	n-m-pl$n-m
 	epo	maristo	n$n-m	fra	marin	n$n-m
 LR	epo	markaŝtano	n	fra	oursin	n-m
 	epo	markezo	n	fra	auvent	n-m$n$n-m-ND
@@ -21837,7 +21837,7 @@ LR	epo	marsoldato	n	fra	marin	n$n-m
 	epo	marteli	vbtr	fra	marteler	vblex
 	epo	martelo	n	fra	marteau	n-m$n
 LR	epo	Marteno	np$np-ant$	fra	Martín	np$np-ant$np-ant-m-sg
-LR	epo	Marteno	np$np-ant$	fra	Martin	np-ant$np$np-ant-m-sg
+LR	epo	Marteno	np$np-ant$	fra	Martin	np-ant$np-ant-m-sg$np
 	epo	marteso	n	fra	marte	n-f
 	epo	marteso	n	fra	martre	n-m
 	epo	Martigues	np-loc	fra	Martigues	np$np-loc-f
@@ -22057,7 +22057,7 @@ LR	epo	meditado	n	fra	méditation	n-f$n
 	epo	mediteme	adv	fra	méditativement	adv
 	epo	mediteranea	adj	fra	méditerranéen	adj$adj-GD-ND
 	epo	Mediteraneo	np-loc$np	fra	Méditerranée	np-loc$np-loc-f
-	epo	Mediteraneo	np-loc$np	fra	mer Méditerranée	np$np-loc-f
+	epo	Mediteraneo	np-loc$np	fra	mer Méditerranée	np-loc-f$np
 	epo	mediti	vbntr	fra	méditer	vblex
 	epo	medito	n	fra	méditation	n-f$n
 	epo	medo	n	fra	Mède	n
@@ -22401,7 +22401,7 @@ RL	epo	mia	adj	fra	à moi	adj-pos-mf-sp$adj-pos
 	epo	Michelin	np-al	fra	Michelin	np-al-mf$np-al
 	epo	Miĉigana Lago	n	fra	Lac Michigan	np-loc-f
 	epo	Miĉigano	np-loc	fra	Michigan	np$np-loc-f
-	epo	Microsoft	np-al$np	fra	Microsoft	np$np-al-mf$np-al
+	epo	Microsoft	np-al$np	fra	Microsoft	np-al-mf
 	epo	Midelburgo	np-loc	fra	Middelbourg	np-loc-f
 	epo	midineto	n	fra	midinette	n-f
 	epo	midzo	n	fra	fellation	n-f
@@ -24198,7 +24198,7 @@ RL	epo	Niĝerio	np-loc$np	fra	Nigéria	np-loc-f
 	epo	nigra humuro	n	fra	humour noir	n-m
 	epo	nigra kesto	n	fra	boite noire	n-f
 	epo	nigra magio	n	fra	magie noire	n-f
-	epo	Nigra Maro	np-loc	fra	mer Noire	np$np-loc-f
+	epo	Nigra Maro	np-loc	fra	mer Noire	np-loc-f$np
 	epo	nigra merkato	n	fra	marché noir	n-m
 	epo	nigra skatolo	n	fra	boite noire	n-f
 	epo	nigra skatolo	n	fra	boîte noire	n-f
@@ -24345,7 +24345,7 @@ LR	epo	nomkarto	n	fra	carte	n-f$n$n-f-ND
 	epo	norda	adj	fra	septentrional	adj$
 RL	epo	Norda	adj	fra	du Nord	adj
 LR	epo	norda cervo	n	fra	renne	n-f
-	epo	Norda Maro	np-loc	fra	mer du Nord	np$np-loc-f
+	epo	Norda Maro	np-loc	fra	mer du Nord	np-loc-f$np
 	epo	norda poluso	n	fra	pôle Nord	n-m
 	epo	Nord-Afriko	np-loc	fra	Afrique du Nord	np-loc-f
 	epo	nordamerika	adj	fra	nord-américain	adj$adj-GD-ND
@@ -24747,7 +24747,7 @@ LR	epo	oftigi	vbtr	fra	intensifier	vblex
 	epo	oftiĝi	vbntr	fra	devenir	vblex
 LR	epo	ofto	n	fra	fréquence	n-f$n$n-f-ND
 	epo	ogro	n	fra	ogre	n-m$n
-	epo	Oĥocka Maro	np-loc$np	fra	mer d'Okhotsk	np$np-loc-f
+	epo	Oĥocka Maro	np-loc$np	fra	mer d'Okhotsk	np-loc-f$np
 	epo	Oise	np-loc	fra	Oise	np$np-loc-f
 	epo	oj	ij	fra	houla	ij
 	epo	oj	n	fra	ah	n-m
@@ -24781,7 +24781,7 @@ LR	epo	okazi	vbser	fra	devenir	vblex
 	epo	okcidenta	adj	fra	ouest	adj$adj-mf$adj-mf-sg
 RL	epo	Okcidenta	adj	fra	de l'Ouest	adj
 	epo	Okcidenta Azio	np-loc$np	fra	Moyen-Orient	np$np-loc-f
-	epo	Okcidenta Eŭropo	np-loc	fra	Europe de l'Ouest	np$np-loc-f
+	epo	Okcidenta Eŭropo	np-loc	fra	Europe de l'Ouest	np-loc-f$np
 	epo	Okcidenta Flandrio	np-loc	fra	Frandre-Occidentale	np-loc-f
 	epo	okcidenta kristanismo	n	fra	christianisme occidental	n-m
 LR	epo	okcidenta kristismo	n	fra	christianisme occidental	n-m
@@ -25063,7 +25063,7 @@ LR	epo	optimista	adj	fra	optimiste	adj$adj-mf$adj-mf-ND
 	epo	oraĵisto	n	fra	orfèvre	n$n-mf
 	epo	orakolo	n$n-m	fra	oracle	n-m
 	epo	oranĝarbo	n	fra	oranger	n-m$n$n-m-ND
-	epo	Orange	np-loc	fra	Orange	np$np-loc-f
+	epo	Orange	np-loc	fra	Orange	np-loc-f
 	epo	oranĝerio	n	fra	orangerie	n-f
 	epo	oranĝo	n	fra	orange	n-f$n$n-f-sg
 RL	epo	oranĝujo	n	fra	oranger	n-m$n$n-m-ND
@@ -25166,7 +25166,7 @@ RL	epo	orientita grafeo	n	fra	graphe orienté	n-m
 	epo	oriento	n	fra	orient	n$n-m$n-m-sg
 	epo	Oriento	np-loc	fra	Orient	np-loc-f
 RL	epo	Oriento	n	fra	Est	n-m
-	epo	Orientsiberia Maro	np-loc	fra	mer de Sibérie Orientale	np$np-loc-f
+	epo	Orientsiberia Maro	np-loc	fra	mer de Sibérie Orientale	np-loc-f$np
 	epo	origamio	n	fra	origami	n-m
 	epo	origano	n	fra	origan	n-m
 	epo	origina	adj	fra	originel	adj
@@ -26431,7 +26431,7 @@ LR	epo	piulo	n	fra	dévot	n$n-m
 	epo	placente	adv	fra	placentairement	adv
 	epo	placento	n	fra	placenta	n-m$n
 	epo	placeto	n	fra	palier	n-m$n$n-m-ND
-	epo	placeto	n	fra	petite place	n-f$n
+	epo	placeto	n	fra	petite place	n$n-f
 	epo	placeto	n	fra	placette	n-f
 	epo	plaĉi	vbntr	fra	plaire	vblex
 LR	epo	placo	n	fra	place	n-f$n$n-f-ND
@@ -26870,9 +26870,9 @@ RL	epo	politik	pref	fra	politico	adj$adj-preadj
 LR	epo	politikigo	n	fra	politisation	n-f$n
 	epo	politikiĝo	n	fra	politisation	n-f$n
 	epo	politikisto	n$n-m	fra	politicien	n$n-m$n-m-ND
-RL	epo	politikisto	n$n-m	fra	homme politique	n-m$n
+RL	epo	politikisto	n$n-m	fra	homme politique	n$n-m
 RL	epo	politikisto	n-f	fra	femme politique	n-f
-RL	epo	politikisto	n$n-m	fra	homme politique	n-m$n
+RL	epo	politikisto	n$n-m	fra	homme politique	n$n-m
 RL	epo	politikisto	n$n-m	fra	politique	n-m
 	epo	politiko	n	fra	politique	n-f$n-f-ND
 	epo	polko	n	fra	polka	n-f
@@ -26994,7 +26994,7 @@ LR	epo	pornulo	n	fra	pornographe	n
 LR	epo	porparolanto	n	fra	avocat	n$n-m$n-m-ND
 LR	epo	porparolanto	n	fra	défenseur	n$n-m$n-m-ND
 LR	epo	porparolanto	n	fra	intercesseur	n
-	epo	Port	np-loc	fra	Port	np-loc-f
+	epo	Port	np-loc	fra	Port	np$np-loc-f
 	epo	portado	n	fra	portage	n-m
 	epo	portanto	n	fra	porteur	n$n-m$n-m-ND
 	epo	Port Coquitlam	np-loc	fra	Port Coquitlam	np-loc-f
@@ -27011,7 +27011,7 @@ RL	epo	portepeo	n	fra	porte-épée	n-m
 	epo	portiko	n	fra	galerie	n-f$n$n-f-ND
 	epo	portiko	n	fra	portique	n-f
 	epo	portilo	n	fra	appareil	n-m$n$n-m-ND
-	epo	Porto-Riko	np-loc	fra	Porto Rico	np$np-loc-f
+	epo	Porto-Riko	np-loc	fra	Porto Rico	np-loc-f$np
 	epo	portoseĝo	n	fra	chaise	n-f$n$n-f-ND
 RL	epo	portreti	vbtr	fra	portraire	vblex
 	epo	portreti	vbtr	fra	portraiturer	vblex
@@ -27473,7 +27473,7 @@ RL	epo	pri	pr	fra	de sur	pr
 RL	epo	pri	pr	fra	ès	pr
 LR	epo	pri kiu	prn-rel	fra	auquel	prn-rel-f$rel
 LR	epo	pri kiu	prn-rel	fra	auquel	prn-rel-m
-RL	epo	pri tio	prn-tn	fra	en	prn-pro-adv
+RL	epo	pri tio	prn-tn	fra	en	prn$prn-pro-adv
 	epo	pridemandado	n	fra	interrogatoire	n-m$n
 LR	epo	pridemandi	vbtr	fra	interroger	vblex
 	epo	pridiri	vblex	fra	dépeindre	vblex
@@ -27969,7 +27969,7 @@ LR	epo	provludi	vblex	fra	répéter	vblex
 	epo	prpers	prn-obj-p3-f-sg$prn-p3-f-sg	fra	le	prn-enc-p3-f-sg
 	epo	prpers	prn-obj-p3-f-sg$prn-p3-f-sg	fra	le	prn-pro-p3-f-sg
 	epo	prpers	prn-obj-p3-mf-pl$prn-obj	fra	le	prn-enc-p3-mf-pl$prn-enc
-	epo	prpers	prn-obj-p3-mf-pl$prn-obj	fra	le	prn-pro-p3-mf-pl
+	epo	prpers	prn-obj-p3-mf-pl$prn-obj	fra	le	prn-pro-p3-mf-pl$prn
 	epo	prpers	prn-obj-p3-m-sg$prn-p3-m-sg	fra	le	prn-enc-p3-m-sg
 	epo	prpers	prn-obj-p3-m-sg$prn-p3-m-sg	fra	le	prn-pro-p3-m-sg
 	epo	prpers	prn-obj-p3-nt-sg$prn-obj-p3-nt	fra	le	prn-enc-p3-nt
@@ -27979,7 +27979,7 @@ LR	epo	prpers	prn-obj-p3-mf-pl$prn-obj	fra	prpers	prn$prn-obj-p2-mf-sp
 RL	epo	prpers	prn-dat$prn-dat-p3-m	fra	les	prn-enc
 RL	epo	prpers	prn-dat$prn-dat-p3-m	fra	leur	prn-pro-p3-mf-pl$prn-pro
 RL	epo	prpers	prn-dat$prn-dat-p3-m	fra	lui	prn-enc-p3-mf-sg$prn-enc-p3-mf
-RL	epo	prpers	prn-dat$prn-dat-p3-m	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn-pro
+RL	epo	prpers	prn-dat$prn-dat-p3-m	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn$prn-pro
 RL	epo	prpers	prn-obj-p3-mf-pl$prn-obj	fra	le	prn-enc-p3-mf-pl$prn-enc
 RL	epo	prpers	prn-obj-p3-mf-pl$prn-obj	fra	leur	prn-enc-p3-mf-pl$prn-enc
 RL	epo	prpers	prn-obj-p3-mf-pl$prn-obj	fra	me	prn-enc$prn-enc-p1-mf-sg
@@ -28001,15 +28001,15 @@ RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	ils	prn-tn
 RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	je	prn-enc
 RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	je	prn$prn-tn-p1-mf-sg$prn-tn$prn-tn-p1
 RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	j'	prn-tn$prn
-RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	lui il	prn-tn$prn$prn-tn-p3
-RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	moi je	prn-tn$prn
-RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	moi	prn-tn$prn-tn-p1-mf-sg$prn-tn-p1
+RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	lui il	prn-tn$prn-tn-p3
+RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	moi je	prn-tn
+RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	moi	prn-tn$prn-tn-p1-mf-sg$prn-tn-p1$prn
 RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	nous	prn-enc$prn-enc-p1-mf-pl
-RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl
+RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl
 RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	on	prn-enc-ref-p3-mf-sp$prn-enc
 RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	on	prn-pro-tn
 RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	on	prn-tn-p3-mf-sp$prn$prn-tn
-RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	toi tu	prn-tn$prn
+RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	toi tu	prn-tn
 RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	toi	prn$prn-tn-p2-mf-sg$prn-tn$prn-tn-p2
 RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	tu	prn-enc
 RL	epo	prpers	prn-subj$prn-subj-p2-mf-sp$prn	fra	tu	prn$prn-tn-p2-mf-sg$prn-tn$prn-tn-p2
@@ -28025,7 +28025,7 @@ RL	epo	prpers	prn-subj-p3-m$prn-subj-p3-m-sg	fra	lui	prn-tn$prn-tn-p3-mf
 	epo	prudente	adv	fra	raisonnablement	adv
 	epo	Prudential	np-al	fra	Prudential	np-al-mf
 	epo	Prudential Financial	np-al	fra	Prudential Financial	np-al-mf
-	epo	prudento	n	fra	bon sens	n-m$n-m-sg$n
+	epo	prudento	n	fra	bon sens	n-m$n-m-sg
 	epo	prudentulo	n	fra	prudent	n
 	epo	prudulo	n	fra	sainte nitouche	n
 	epo	prujno	n	fra	gelée blanche	n-f
@@ -28446,7 +28446,7 @@ LR	epo	rare	adv	fra	rarement	adv
 	epo	rasisma	adj	fra	raciste	adj$adj-mf-ND$adj-mf
 	epo	rasismo	n	fra	racisme	n$n-m$n-m-ND
 LR	epo	rasista	adj	fra	raciste	adj$adj-mf-ND$adj-mf
-	epo	rasisto	n	fra	raciste	n
+	epo	rasisto	n	fra	raciste	n$n-mf
 	epo	raso	n	fra	race	n-f$n$n-f-ND
 	epo	raspa	adj	fra	raboteux	adj
 	epo	raspa	adj	fra	râpeux	adj
@@ -29456,7 +29456,7 @@ LR	epo	rimiĝi	vbntr	fra	rimer	vblex
 	epo	ringokolombo	n	fra	pigeon ramier	n-m
 	epo	ringokolombo	n	fra	ramier	n-m
 	epo	rinocero	n	fra	rhinocéros	n-m
-	epo	Riojo	np-loc	fra	La Rioja	np$np-loc-f
+	epo	Riojo	np-loc	fra	La Rioja	np-loc-f$np
 	epo	Rio Tinto	np-al	fra	Rio Tinto	np-al-mf
 	epo	Rio Tinto Group	np-al	fra	Rio Tinto Group	np-al-mf
 LR	epo	riparado	n	fra	réparation	n-f$n$n-f-ND
@@ -29560,7 +29560,7 @@ LR	epo	rojo	n	fra	ruisseau	n-m$n$n-m-ND
 	epo	roli	vblex	fra	jouer	vblex
 	epo	roli	vbntr	fra	jouer	vblex
 LR	epo	rolisto	n	fra	acteur	n$n-m$n-m-ND
-	epo	rolo	n	fra	rôle	n-m$n
+	epo	rolo	n	fra	rôle	n$n-m
 	epo	rolulo	n	fra	personnage	n$n-m$n-m-ND
 	epo	romaa	adj	fra	rom	adj
 	epo	roma	adj	fra	romain	adj$adj-GD-ND
@@ -29721,7 +29721,7 @@ LR	epo	Rudolfo	np-ant	fra	Rodolphe	np-ant$np$np-ant-m-sg
 	epo	ruĝa cervo	n	fra	cerf rouge	n-m
 	epo	Ruĝa Krescento	np-al-sg	fra	Croissant-Rouge	np-al-mf-sp
 	epo	Ruĝa Kruco	np-al-sg	fra	Croix-Rouge	np$np-al-mf-sp
-	epo	Ruĝa Maro	np-loc	fra	mer Rouge	np$np-loc-f
+	epo	Ruĝa Maro	np-loc	fra	mer Rouge	np-loc-f$np
 	epo	rugbeisto	n	fra	rugbyman	n
 	epo	rugbeo	n	fra	rugby	n-m$n-m-sg$n
 	epo	rugbeo	n	fra	rugby à XIII	n-m
@@ -29882,9 +29882,9 @@ LR	epo	ŝagrino	n	fra	cuir grenu	n-f
 	epo	saĝulo	n	fra	sage	n$n-mf
 	epo	saguo	n	fra	sagou	n-m
 	epo	Saĥaleno	np-loc	fra	Sakhaline	np-loc-f
-	epo	Saharo	np-loc$np	fra	Sahara	np-loc$np-loc-f$np
+	epo	Saharo	np-loc$np	fra	Sahara	np$np-loc$np-loc-f
 	epo	Sainsbury	np-al	fra	Sainsbury	np-al-mf
-	epo	Saint	np-loc	fra	Saint	np-loc-f$np
+	epo	Saint	np-loc	fra	Saint	np$np-loc-f
 	epo	Saint Albert	np-loc	fra	Saint Albert	np-loc-f
 	epo	Saint-André	np-loc	fra	Saint-André	np-loc-f
 	epo	Saint-Barthélemy	np-al	fra	Saint-Barthélemy	np$np-al-mf
@@ -30030,7 +30030,7 @@ LR	epo	saleta	adj	fra	salé	adj$adj-GD-ND
 	epo	salo	n	fra	sel	n-m$n$n-m-pl
 	epo	ŝalo	n	fra	châle	n-m$n
 LR	epo	Salomono	np-ant	fra	Salomon	np-ant
-	epo	Salomonoj	np-loc	fra	Îles Salomon	np$np-loc-f
+	epo	Salomonoj	np-loc	fra	Îles Salomon	np-loc-f$np
 	epo	Salon-de-Provence	np-loc	fra	Salon-de-Provence	np-loc-f
 LR	epo	saloneto	n	fra	boudoir	n-m
 	epo	salono	n	fra	salon	n-m$n$n-m-ND
@@ -30214,7 +30214,7 @@ LR	epo	sanilo	n	fra	remède	n-m$n$n-m-ND
 LR	epo	sanktigado	n	fra	sanctification	n-f
 	epo	sanktigi	vbtr	fra	sanctifier	vblex
 	epo	sanktigo	n	fra	sanctification	n-f
-	epo	Sankt-Johano	np-loc	fra	Saint John's	np$np-loc-f
+	epo	Sankt-Johano	np-loc	fra	Saint John's	np-loc-f$np
 LR	epo	Sankt-Laŭrenco	np-loc	fra	Saint-Laurent	np-loc-f$np
 	epo	sanktolei	vblex	fra	oindre	vblex
 	epo	sanktulo	n	fra	saint	n$n-m$n-m-ND
@@ -30225,7 +30225,7 @@ LR	epo	Sankt-Laŭrenco	np-loc	fra	Saint-Laurent	np-loc-f$np
 	epo	Sanofi	np-al	fra	Sanofi	np-al-mf
 	epo	Sanofi-Aventis	np-al	fra	Sanofi-Aventis	np$np-al-mf
 	epo	Sanpaolo	np-al	fra	Sanpaolo	np-al-mf
-	epo	Sansalvadoro	np-loc	fra	San Salvador	np$np-loc-f
+	epo	Sansalvadoro	np-loc	fra	San Salvador	np-loc-f$np
 	epo	sansaro	n	fra	samsara	n-m
 	epo	sanskrita	adj	fra	sanscrit	adj
 	epo	Sanskrito	np-al	fra	sanscrit	n-m
@@ -30314,7 +30314,7 @@ LR	epo	saturna festo	n	fra	saturnales	n-f
 	epo	saturo	n	fra	saturation	n-f$n
 	epo	saŭco	n	fra	sauce	n-f$n
 	epo	saud	pref	fra	saudo	adj
-	epo	Saud-Arabio	np-loc	fra	Arabie Saoudite	np$np-loc-f
+	epo	Saud-Arabio	np-loc	fra	Arabie Saoudite	np-loc-f$np
 	epo	Sault-Sainte-Marie	np-loc	fra	Sault-Sainte-Marie	np-loc-f
 	epo	ŝaŭma	adj	fra	mousseux	adj
 	epo	ŝaŭme	adv	fra	mousseusement	adv
@@ -31267,7 +31267,7 @@ LR	epo	ŝia tuta	det	fra	tout son	det
 	epo	sieĝi	vbtr	fra	siéger	vblex
 LR	epo	sieĝo	n	fra	siège	n-m$n$n-m-ND
 	epo	Siemens	np-al	fra	Siemens	np$np-al-mf$np-al
-	epo	Sieraleono	np-loc$np	fra	Sierra Leone	np$np-loc-f
+	epo	Sieraleono	np-loc$np	fra	Sierra Leone	np-loc-f$np
 	epo	sifiliso	n	fra	syphilis	n-f$n-f-sg
 	epo	sigeli	vbtr	fra	sceller	vblex
 	epo	sigelmalfermaĵo	n	fra	scellé	n-m
@@ -31538,7 +31538,7 @@ LR	epo	ŝipestro	n	fra	capitaine	n$n-mf$n-mf-ND
 	epo	ŝipi	vbtr_ntr	fra	convoyer	vblex
 	epo	ŝipi	vbtr_ntr	fra	naviguer	vblex
 LR	epo	ŝipisto	n	fra	marin	n$n-m
-	epo	ŝipkonstruejo	n	fra	chantier naval	n-m$n-m-sg$n
+	epo	ŝipkonstruejo	n	fra	chantier naval	n-m$n
 	epo	ŝipo	n	fra	bateau	n-m$n$n-m-sg
 	epo	ŝipo	n	fra	embarcation	n$n-f
 	epo	ŝipo	n	fra	navire	n-m$n$n-m-ND
@@ -32932,8 +32932,8 @@ RL	epo	sudafrik	pref	fra	sudafricano	adj$adj-preadj
 	epo	sud-afrika	adj	fra	sud-africain	adj$adj-GD-ND
 	epo	sud-afrikano	n	fra	Sud-africain	n
 	epo	Sud-Afriko	np-loc$np	fra	Afrique du Sud	np$np-loc$np-loc-f
-LR	epo	Sudameriko	np$np-loc	fra	Amérique du Sud	np$np-loc-f
-	epo	Sud-Ameriko	np-loc	fra	Amérique du Sud	np$np-loc-f
+LR	epo	Sudameriko	np$np-loc	fra	Amérique du Sud	np-loc-f$np
+	epo	Sud-Ameriko	np-loc	fra	Amérique du Sud	np-loc-f$np
 	epo	Sudano	np-loc$np	fra	Soudan	np-loc-f
 	epo	Sudĉina Maro	np-loc	fra	mer de Chine méridionale	np-loc-f$np
 	epo	Sud-Dakoto	np-loc	fra	Dakota-du-Sud	np-loc-f
@@ -32954,9 +32954,9 @@ RL	epo	Sudo	n	fra	Sud	n-m
 	epo	sud-okcidento	n	fra	sud-ouest	n-m-sg$n-m
 	epo	sudoko	n	fra	sudoku	n-m
 	epo	Sudo-Pireneoj	np-loc	fra	Midi-Pyrénées	np$np-loc-f
-	epo	sud-orienta	adj	fra	sud-est	adj$adj-mf$adj-mf-sg
+	epo	sud-orienta	adj	fra	sud-est	adj$adj-mf$adj-mf-sp
 	epo	sud-orienta	adj	fra	sud-oriental	adj
-	epo	Sud-orienta Azio	np-loc	fra	Asie du Sud-Est	np$np-loc-f
+	epo	Sud-orienta Azio	np-loc	fra	Asie du Sud-Est	np-loc-f$np
 	epo	sud-oriente de	pr	fra	au sud-est de	pr
 	epo	sud-oriento	n	fra	sud-est	n-m-sg$n-m$n
 LR	epo	sudpolusa	adj	fra	antarctique	adj-mf$adj$adj-mf-ND
@@ -33596,7 +33596,7 @@ LR	epo	taoista	adj	fra	taoïste	adj
 	epo	Target	np-al	fra	Target	np-al-mf
 	epo	tarifi	vblex	fra	fixer	vblex
 	epo	tarifi	vblex	fra	fixer	vblex
-	epo	tarifo	n	fra	tarif	n-m$n-m-ND
+	epo	tarifo	n	fra	tarif	n-m$n$n-m-ND
 RL	epo	tarifo	n	fra	tarif douanier	n-m$n
 	epo	Tarn	np-loc	fra	Tarn	np$np-loc-f
 	epo	Tarn-et-Garonne	np-loc	fra	Tarn-et-Garonne	np$np-loc-f
@@ -33955,7 +33955,7 @@ LR	epo	terpeĉo	n	fra	asphalte	n-f
 	epo	terpomo	n	fra	pomme	n-f$n$n-f-ND
 LR	epo	terpomujo	n	fra	pomme	n-f$n$n-f-ND
 	epo	Terrebonne	np-loc	fra	Terrebonne	np-loc-f
-	epo	Territoire de Belfort	np-loc	fra	Territoire de Belfort	np$np-loc-f
+	epo	Territoire de Belfort	np-loc	fra	Territoire de Belfort	np-loc-f$np
 	epo	terskuo	n	fra	secousse tellurique	n-f
 	epo	tertremo	n	fra	tremblement	n-m$n$n-m-ND
 	epo	terura	adj	fra	affreux	adj$adj-m-sp
@@ -34686,7 +34686,7 @@ LR	epo	tripunkto	n-pl	fra	points	n-m-pl
 	epo	triremo	n	fra	trirème	n-f
 LR	epo	tristema	adj	fra	chagrin	adj
 	epo	tritikalo	n	fra	triticale	n-f
-	epo	tritiko	n	fra	blé	n$n-m$n-m-ND
+	epo	tritiko	n	fra	blé	n-m$n$n-m-ND
 	epo	tritiko	n	fra	froment	n$n-m$n-m-ND
 LR	epo	trito	n	fra	tierce	n-f
 	epo	triumfa	adj	fra	triomphal	adj$adj-f$
@@ -35027,7 +35027,7 @@ RL	epo	ultrasona	adj	fra	ultrasonore	adj
 	epo	umearbo	n	fra	abricotier japonais	n-m
 LR	epo	umo	n	fra	machin	n-m
 	epo	UMP	n-acr	fra	UMP	n-acr-f$n-acr
-	epo	un	det-ind	fra	un	det-ind-mf-pl$det-ind$det
+	epo	un	det-ind	fra	un	det-ind-mf-pl$det-ind$det$det-ind-mf
 	epo	unco	n	fra	once	n-f
 	epo	UNESKO	n-acr	fra	UNESCO	n-acr-f
 	epo	ungego	n	fra	griffe	n-f$n
@@ -35368,7 +35368,7 @@ RL	epo	valide	adv	fra	valablement	adv
 	epo	validigi	vbtr	fra	valider	vblex
 	epo	valisa	adj	fra	wallisien	adj
 	epo	valisano	n	fra	Wallisien	n
-	epo	Valiso	np-loc	fra	Wallis	np-loc-f
+	epo	Valiso	np-loc	fra	Wallis	np-loc-f$np
 	epo	Valiso kaj Futuno	np-loc	fra	Wallis-et-Futuna	np-loc-f
 	epo	valizo	n	fra	valise	n$n-f$n-f-ND
 	epo	Vallauris	np-loc	fra	Vallauris	np-loc-f
@@ -35417,7 +35417,7 @@ RL	epo	vangobato	n	fra	torgnole	n-f
 	epo	vanilo	n	fra	vanille	n-f
 LR	epo	vanjo	n	fra	nounou	n-f
 	epo	Vankuvero	np-loc	fra	Vancouver	np-loc-f
-	epo	van	vblex$	fra	van	n-m$
+	epo	van	vblex$	fra	van	np-cog-mf-sp$
 	epo	Vannes	np-loc	fra	Vannes	np$np-loc-f
 	epo	vanta	adj	fra	fugace	adj$adj-mf$adj-mf-ND
 LR	epo	vanteco	n	fra	vanité	n-f$n
@@ -35667,7 +35667,7 @@ LR	epo	ventokirlo	n	fra	tourbillon	n-m$n
 	epo	ventoli	vbtr	fra	vanner	vblex
 	epo	ventolilo	n	fra	aérateur	n-m
 	epo	ventolilo	n	fra	pelle	n-f$n
-	epo	ventolilo	n	fra	van	n-m$
+	epo	ventolilo	n	fra	van	n-m
 	epo	ventolilo	n	fra	ventilateur	n-m$n
 	epo	ventoltruo	n	fra	bouche	n-f$n$n-f-ND
 	epo	ventriklo	n	fra	ventricule	n-f
@@ -35979,7 +35979,7 @@ LR	epo	VIII	num	fra	VIII	num$num-mf-sp
 	epo	viktimo	n	fra	victime	n$n-f$n-f-ND
 RL	epo	viktimo	n	fra	sinistré	n
 	epo	Viktorio	np-loc	fra	Victoria	np$np-loc-f
-LR	epo	Viktoro	np-ant$np	fra	Victor	np-ant$np$np-ant-m-sg
+LR	epo	Viktoro	np-ant$np	fra	Victor	np-ant$np-ant-m-sg$np
 	epo	viktualio	n	fra	provision	n-f$n
 	epo	viktualio	n	fra	victuaille	n-f
 	epo	vila	adj	fra	poilu	adj
@@ -36037,7 +36037,7 @@ LR	epo	vindaĵo	n-sg	fra	couche	n-f$n$n-f-pl
 	epo	vindi	vbtr	fra	panser	vblex
 LR	epo	vindo	n	fra	maillot	n-m$n$n-m-pl
 	epo	vindotablo	n	fra	table	n-f$n$n-f-ND
-	epo	Vindozo	np-al$np	fra	Windows	np$np-al-mf$np-al
+	epo	Vindozo	np-al$np	fra	Windows	np-al-mf
 	epo	vingustumisto	n	fra	dégustateur	n
 	epo	vinilo	n	fra	vinyle	n-m$n
 	epo	Vinipego	np-loc	fra	Winnipeg	np-loc-f
@@ -36046,7 +36046,7 @@ LR	epo	vindo	n	fra	maillot	n-m$n$n-m-pl
 	epo	vinjeto	n	fra	cul-de-lampe	n-f
 	epo	vinjeto	n	fra	vignette	n-f$n
 	epo	vinko	n	fra	pervenche	n-f$n
-	epo	vino	n	fra	vin	n$n-m$n-m-ND
+	epo	vino	n	fra	vin	n-m$n$n-m-ND
 	epo	vinpremanto	n	fra	fouleur	n
 	epo	vintra	adj	fra	hivernal	adj$
 	epo	vintra ĝardeno	n	fra	jardin	n-m$n$n-m-ND
@@ -36310,7 +36310,7 @@ LR	epo	Voltero	np-ant	fra	Voltaire	np-ant
 	epo	vomi	vbtr	fra	vomir	vblex
 	epo	vomnuksarbo	n	fra	vomiquier	n-m
 	epo	vomnukso	n	fra	noix vomique	n-f
-	epo	von	$vblex	fra	von	
+	epo	von	$vblex	fra	von	np-cog-mf-sp$
 	epo	vono	n	fra	won	n-m
 	epo	vori	vblex	fra	dévorer	vblex
 LR	epo	vorta	adj	fra	oral	adj$adj-f$

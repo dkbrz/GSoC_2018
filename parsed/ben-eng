@@ -318,7 +318,7 @@ LR	ben	তোমাদের	det-gen	eng	your	det-pos$det-pos-sp$det
 	ben	দ্বন্দ্ব	n-nt-nn	eng	doubt	n$n-sg
 	ben	স্বপ্ন	n$n-mf-nn	eng	dream	n$n-ND
 	ben	পানীয়	n-nt-nn	eng	drink	n$n-sg
-	ben	ড্রাগ	n-nt-nn	eng	drug	n$n-ND
+	ben	ড্রাগ	n-nt-nn	eng	drug	n$n-sg
 	ben	ঢোল	n$n-nt-nn	eng	drum	n$n-sg
 	ben	কান	n-nt-nn$n	eng	ear	n$n-sg
 	ben	পৃথিবী	n-mf-nn$n	eng	earth	n$n-ND
@@ -827,12 +827,12 @@ LR	ben	ধান	n-mf-nn	eng	rice	n$n-ND
 	ben	শাসক	n$n-mf-hu	eng	ruler	n$n-sg
 	ben	নিয়ম	n$n-nt-nn	eng	rule	n$n-sg
 	ben	গুজব	n$n-nt-nn	eng	rumour	n$n-ND
-	ben	চল	n-nt-nn	eng	run	n$n-ND
+	ben	চল	n-nt-nn	eng	run	n$n-sg
 	ben	টাকা	n-nt-nn$n	eng	rupee	n
 	ben	বস্তা	n-nt-nn	eng	sack	n$n-ND
 	ben	নিরাপত্তা	n-mf-nn	eng	safety	n$n-unc
 	ben	পাল	n-nt-nn	eng	sail	n$n-ND
-	ben	লবণ	n-nt-nn$n	eng	salt	n$n-ND
+	ben	লবণ	n-nt-nn$n	eng	salt	n$n-sg
 	ben	অনুমোদন	n-nt-nn	eng	sanction	n$n-ND
 	ben	বালি	n-nt-nn	eng	sand	n$n-ND
 	ben	সঞ্চয়	n-nt-nn	eng	saving	n$n-ND
@@ -847,7 +847,7 @@ LR	ben	ধান	n-mf-nn	eng	rice	n$n-ND
 	ben	অনুসন্ধান	n-nt-nn	eng	search	n$n-ND
 	ben	সাগর	n-nt-nn	eng	sea	n$n-sg
 	ben	আসন	n-mf-nn	eng	seat	n$n-ND
-	ben	দ্বিতীয়	n-nt-nn	eng	second	n$n-ND
+	ben	দ্বিতীয়	n-nt-nn	eng	second	n$n-sg
 	ben	সচিব	n-mf-el-def	eng	secretary	n$n-ND
 	ben	বিভাগ	n-nt-nn	eng	section	n$n-sg
 	ben	নিরাপত্তা	n-mf-nn	eng	security	n$n-sg
@@ -978,7 +978,7 @@ LR	ben	ধান	n-mf-nn	eng	rice	n$n-ND
 	ben	দাগ	n-nt-nn	eng	trail	n$n-ND
 	ben	প্রশিক্ষণ	n-nt-nn	eng	training	n$n-ND
 	ben	পরিবর্তন	n-mf-nn	eng	transition	n$n-ND
-	ben	ভ্রমণ	n-nt-nn	eng	travel	n$n-ND
+	ben	ভ্রমণ	n-nt-nn	eng	travel	n$n-sg
 	ben	চিকিৎসা	n$n-nt-nn	eng	treatment	n$n-sg
 	ben	গাছ	n-mf-nn$n	eng	tree	n$n-ND
 	ben	পুরস্কার	n-nt-nn$n	eng	trophy	n
@@ -997,7 +997,7 @@ LR	ben	ধান	n-mf-nn	eng	rice	n$n-ND
 	ben	বৈধতা	n-nt-nn	eng	validation	n
 	ben	উপত্যকা	n-nt-nn	eng	valley	n$n-ND
 	ben	মূল্য	n-nt-nn	eng	value	n$n-sg
-	ben	ভ্যান	n-nt-nn	eng	van	n$n-ND
+	ben	ভ্যান	n-nt-nn	eng	van	n$$n-ND
 	ben	গাড়ি	n-mf-nn	eng	vehicle	n$n-ND
 	ben	ঘটনাস্থল	n-mf-nn	eng	venue	n$n-ND
 	ben	মাতৃভাষা	n-nt-nn	eng	vernacular	n
@@ -1180,7 +1180,7 @@ LR	ben	লিখা	n-mf-nn	eng	writing	n$n-unc
 	ben	ল্যাপটপ	n-nt-nn	eng	laptop	n
 	ben	হামলা	n-mf-nn	eng	attack	n$n-ND
 	ben	জজ	n-mf-hu	eng	judge	n$n-sg
-	ben	বিগ	n-mf-nn	eng	big	n
+	ben	বিগ	n-mf-nn	eng	big	n$n-pl
 	ben	ঠাণ্ডা	n-mf-nn	eng	cold	n$n-sg
 	ben	মুঘল	n$n-mf-nn	eng	Mughal	n
 	ben	ক্রিসমাস	n-mf-nn	eng	Christmas	n
@@ -1348,7 +1348,7 @@ LR	ben	লিখা	n-mf-nn	eng	writing	n$n-unc
 	ben	প্রবৃদ্ধি	n-mf-nn	eng	development	n$n-ND
 	ben	কর্মশালা	n-mf-nn	eng	workshop	n$n-sg
 	ben	সম্মেলন	n-mf-nn	eng	summit	n$n-ND
-	ben	জনাব	n-mf-hu	eng	Mr.	n
+	ben	জনাব	n-mf-hu	eng	Mr.	n$
 	ben	পোড়া	n-mf-nn	eng	burning	n$n-unc
 	ben	সংগীত	n-nt-nn	eng	song	n$n-ND
 	ben	ঘণ্টা	n-mf-nn	eng	hour	n$n-ND
@@ -1995,7 +1995,7 @@ LR	ben	বালক	n-m-hu	eng	boy	n$n-ND
 	ben	তরুণী	n-f-hu	eng	young	n
 	ben	নীতিমালা	n-mf-nn	eng	policy	n$n-sg
 	ben	উচ্ছেদ	n-mf-nn	eng	eviction	n
-	ben	মাদক	n-mf-nn	eng	drug	n$n-ND
+	ben	মাদক	n-mf-nn	eng	drug	n$n-sg
 	ben	ব্যবস্থাপক	n-mf-hu	eng	manager	n$n-ND
 	ben	মিলনায়তন	n-mf-nn	eng	auditorium	n$n-sg
 	ben	বুনা	n-mf-nn	eng	sewing	n
@@ -2144,7 +2144,7 @@ LR	ben	বালক	n-m-hu	eng	boy	n$n-ND
 	ben	ফি	n-mf-nn	eng	fee	n$n-sg
 	ben	পরিচালনা	n-mf-nn	eng	direction	n$n-ND
 	ben	রাত	n$n-mf-nn	eng	night	n$n-ND
-	ben	রান	n-mf-nn	eng	run	n$n-ND
+	ben	রান	n-mf-nn	eng	run	n$n-sg
 	ben	ঘর	n-nt-nn	eng	house	n$n-sg
 	ben	সার	n-nt-nn	eng	fertilizer	n$n-sg
 	ben	সাল	n$n-mf-nn	eng	year	n$n-sg
@@ -2453,7 +2453,7 @@ LR	ben	সিস্টেম	n-mf-nn	eng	system	n$n-ND
 	ben	মৃত্যুদণ্ড	n-nt-nn	eng	death-sentence	n
 	ben	ম্যানেজমেন্ট	n-nt-nn	eng	management	n$n-sg
 	ben	মাল	n-nt-nn	eng	good	n$n-sg
-	ben	আয়কর	n-nt-nn	eng	income tax	n$n-ND
+	ben	আয়কর	n-nt-nn	eng	income tax	n
 	ben	গেম	n-nt-nn	eng	game	n$n-ND
 	ben	শার্ট	n-nt-nn	eng	shirt	n$n-ND
 	ben	মার্কেটিং	n-nt-nn	eng	marketing	n$n-sg
@@ -2509,7 +2509,7 @@ LR	ben	সিস্টেম	n-mf-nn	eng	system	n$n-ND
 	ben	চক্ষু	n-nt-nn	eng	eye	n$n-ND
 	ben	নাম্বার	n-nt-nn	eng	number	n$n-sg
 	ben	মৃতদেহ	n-nt-nn	eng	deadbody	n
-	ben	দৌড়	n-nt-nn	eng	run	n$n-ND
+	ben	দৌড়	n-nt-nn	eng	run	n$n-sg
 	ben	শিক্ষামন্ত্রী	n-mf-el	eng	education minister	n
 	ben	চেতনা	n-nt-nn	eng	consciousness	n$n-sg
 	ben	প্রতিকার	n-nt-nn	eng	remedy	n$n-ND
@@ -2580,7 +2580,7 @@ LR	ben	সিস্টেম	n-mf-nn	eng	system	n$n-ND
 	ben	ভাগাভাগি	n-nt-nn	eng	mutuality	n
 	ben	মহাকাশ	n-nt-nn	eng	cosmos	n$n-sg
 	ben	অত্যাচার	n-nt-nn	eng	tyranni	n
-	ben	মাদকদ্রব্য	n-nt-nn	eng	drug	n$n-ND
+	ben	মাদকদ্রব্য	n-nt-nn	eng	drug	n$n-sg
 	ben	প্লাস্টিক	n-nt-nn	eng	plastic	n$n-sg
 	ben	ড্রাইভার	n-mf-hu	eng	driver	n$n-sg
 	ben	কেয়ার	n-nt-nn	eng	care	n$n-sg
@@ -2761,7 +2761,7 @@ LR	ben	পদ্য	n-mf-nn	eng	poetry	n$n-sg
 	ben	পণ্ডিত	n-mf-hu	eng	scholar	n$n-ND
 	ben	খনন	n-nt-nn	eng	mining	n$n-unc
 	ben	কণিকা	n-nt-nn	eng	particle	n$n-ND
-	ben	সেকেন্ড	n-nt-nn	eng	second	n$n-ND
+	ben	সেকেন্ড	n-nt-nn	eng	second	n$n-sg
 	ben	অভিনয়	n-mf-nn	eng	acting	n
 	ben	মেট্রো	n-nt-nn	eng	metro	n
 	ben	উপগ্রহ	n-nt-nn	eng	satellite	n$n-sg
@@ -3180,7 +3180,7 @@ LR	ben	শিষ্য	n-mf-hu	eng	student	n$n-pl
 	ben	লেবার	n-mf-hu	eng	labour	n$n-ND
 	ben	রিডার	n-mf-hu	eng	reader	n$n-ND
 	ben	মঠ	n-nt-nn	eng	abbey	n$n-sg
-	ben	ভ্রমন	n-mf-nn	eng	travel	n$n-ND
+	ben	ভ্রমন	n-mf-nn	eng	travel	n$n-sg
 	ben	ব্লগ	n-mf-nn	eng	blog	n$n-ND
 	ben	বলবিদ্যা	n-nt-nn	eng	mechanics	n$n-pl
 	ben	প্রেসিডেন্সী	n-mf-nn	eng	presidency	n$n-ND
@@ -3246,7 +3246,7 @@ LR	ben	শিষ্য	n-mf-hu	eng	student	n$n-pl
 	ben	বিবরণী	n-mf-nn	eng	report	n$n-ND
 	ben	বানিজ্য	n-mf-nn	eng	trade	n$n-sg
 	ben	বাজেয়াপ্ত	n-mf	eng	forfeit	n
-	ben	ফ্লু	n-mf-nn	eng	flu	n$n-ND
+	ben	ফ্লু	n-mf-nn	eng	flu	n$n-sg
 	ben	ফোকাস	n-nt-nn	eng	focus	n$n-ND
 	ben	ফেলোশিপ	n-mf-nn	eng	fellowship	n
 	ben	ফুয়েল	n-nt-nn	eng	fuel	n$n-ND
@@ -3388,7 +3388,7 @@ LR	ben	শিষ্য	n-mf-hu	eng	student	n$n-pl
 	ben	স্কেচ	n-nt-nn	eng	sketch	n$n-sg
 	ben	সংগ্রাহক	n-mf-hu	eng	collector	n
 	ben	লেডি	n-f-hu	eng	lady	n$n-pl
-	ben	লবন	n-nt-nn	eng	salt	n$n-ND
+	ben	লবন	n-nt-nn	eng	salt	n$n-sg
 	ben	রুপান্তর	n-mf-nn	eng	transformation	n$n-ND
 	ben	মুখপত্র	n-nt-nn	eng	spokesman	n$n-ND
 	ben	মাইলফলক	n-nt-nn	eng	mailestone	n
@@ -5659,7 +5659,7 @@ LR	ben	আরও বেশি	adv	eng	more	adv
 	ben	কখনো	adv	eng	never	adv
 	ben	কখনোই	adv	eng	never	adv
 	ben	কম	adv	eng	less	adv
-	ben	কমপক্ষে	adv	eng	at	adv
+	ben	কমপক্ষে	adv	eng	at	adv$
 	ben	কারণ	adv	eng	because	cnjadv
 LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	কেন	adv	eng	why	adv$adv-itg
@@ -5805,7 +5805,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	টাঙ্গাইল	np-top-mf	eng	Tangail	np-top
 	ben	হিটলার	np-ant-m	eng	Hitler	np-ant
 	ben	বেল	np-ant-m	eng	Bel	np-ant
-	ben	বঙ্গোপসাগর	np-top-mf	eng	Bay of Bengal	np-top$np-top-f-sg
+	ben	বঙ্গোপসাগর	np-top-mf	eng	Bay of Bengal	np-top
 	ben	মরিশাস	np-top-mf	eng	Mauritius	np-top$np-top-sg$np
 	ben	সোনাপুর	np-top-mf	eng	Sonapur	np-top
 	ben	জাপান	np-top-mf	eng	Japan	np$np-top$np-top-sg
@@ -5856,7 +5856,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	জেমস	np-ant-m	eng	James 	np-ant
 	ben	লিনাক্স	np-al-mf	eng	Linux	np-al$np$np-al-sg
 	ben	সেনেগাল	np-top-mf	eng	Senegal	np-top$np-top-sg$np
-	ben	বার্লিন	np-top-mf	eng	Berlin	np-top$np$np-top-sg
+	ben	বার্লিন	np-top-mf	eng	Berlin	np-top$np$np-top-sg$np-top-m-sg
 	ben	মোহাম্মদ	np-ant-m	eng	Muhammad	np-ant$np$np-ant-m$$np-ant-m-sg
 	ben	ভারত	np$np-top-mf	eng	India	np-top$np$np-top-sg
 	ben	মাদাগাস্কার	np-top-mf	eng	Madagascar	np-top$np$np-top-sg
@@ -5920,7 +5920,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	আল্লাহ	np-ant-m	eng	Allah	np-ant$np-ant-m$np-ant-m-sg
 	ben	কুয়েত	np-top-mf	eng	Kuwait	np-top$np-top-sg
 	ben	সুদান	np-top-mf	eng	Sudan	np-top$np-top-sg$np
-	ben	মধ্যপ্রাচ্য	np-top-mf	eng	Middle East	np-top$np-top-sg
+	ben	মধ্যপ্রাচ্য	np-top-mf	eng	Middle East	np-top
 	ben	ফোর্ড	np-al-mf	eng	Ford	np-al
 	ben	মাদ্রিদ	np-top-mf	eng	Madrid	np-top$np$np-top-sg$
 	ben	পর্তুগাল	np-top-mf	eng	Portugal	np-top$np$np-top-sg
@@ -5928,7 +5928,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	সাংহাই	np-top-mf	eng	Shanghai	np-top-sg$np$np-top
 	ben	কোরআন	np-al-mf	eng	Qur'an	np-al
 	ben	রোম	np-top-mf	eng	Rome	np-top$np$np-top-sg
-	ben	উইন্ডোজ	np-al-mf	eng	Windows	np-al$np-al-sg$np
+	ben	উইন্ডোজ	np-al-mf	eng	Windows	np-al-sg$np-al$np
 	ben	মুহম্মদ	np-ant-m	eng	Muhammad	np-ant$np$np-ant-m$$np-ant-m-sg
 	ben	সিরাজগঞ্জ	np-top-mf	eng	Sirajganj	np-top
 	ben	অক্সফোর্ড	np-top-mf	eng	Oxford	np-top$np-top-sg$np
@@ -5981,7 +5981,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	ফারহানা	np-ant-f	eng	Farahana	np
 	ben	আহসান	np-ant-m	eng	Ahsan	np
 	ben	সোহেল	np-ant-m	eng	Sohel	np
-	ben	হাই	np-ant-mf	eng	Hai	np
+	ben	হাই	np-ant-mf	eng	Hai	np$np-top-sg
 	ben	দিনাজপুর	np-top-mf	eng	Dinajpur	np
 	ben	ডগলাস	np-ant-m	eng	Douglas	np-ant$np$np-ant-m-sg$np-ant-m$
 	ben	তিউনিসিয়া	np-top-mf	eng	Tunisia	np-top$np$np-top-sg
@@ -5994,7 +5994,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	তানজানিয়া	np-top-mf	eng	Tanzania	np-top$np$np-top-sg
 	ben	জাকির	np-ant-m	eng	Zakir	np-ant-m$np$np-ant-m-sg
 	ben	চক্রবর্তী	np-ant-mf	eng	Chakraborty	np
-	ben	ইন্ডিয়ান	np-top-mf	eng	Indian	np
+	ben	ইন্ডিয়ান	np-top-mf	eng	Indian	np$np-top-sg
 	ben	খোকন	np-ant-m	eng	Khokon	np
 	ben	গিনি	np-top-mf	eng	Guinea	np-top$np$np-top-sg
 	ben	মুফতি	np-ant-m	eng	Mufti	np
@@ -6017,7 +6017,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	শামসুল	np-ant-m	eng	Shamsul	np
 	ben	জিম	np-ant-m	eng	Jim	np-ant$np$np-ant-m-sg$np-ant-m
 	ben	ভন	np-ant-m	eng	Von	np
-	ben	ইউনাইটেড	np-al-mf	eng	United	np
+	ben	ইউনাইটেড	np-al-mf	eng	United	np-top-sg$np
 	ben	মতিন	np-ant-m	eng	Matin	np
 	ben	বতসোয়ানা	np-top-mf	eng	Botswana	np-top$np-top-sg$np
 	ben	করিম	np-ant-m	eng	Karim	np-ant$np-ant-m$np$np-ant-m-sg$
@@ -6029,7 +6029,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	মীর	np-ant-m	eng	Mir	np$np-ant-m$np-ant-m-sg
 	ben	জাম্বিয়া	np-top-mf	eng	Zambia	np-top$np$np-top-sg
 	ben	নরওয়ে	np-top-mf	eng	Norway	np-top$np$np-top-sg
-	ben	আবু	np-ant-m	eng	Abu	np-ant$np$np-ant-m-sg$np-ant-m
+	ben	আবু	np-ant-m	eng	Abu	np-ant$np-ant-m-sg$np$np-ant-m
 	ben	মার্শাল	np-ant-m	eng	Marshall	np-ant$np$np-ant-m$np-ant-m-sg$
 	ben	লিটন	np-ant-m	eng	Liton	np
 	ben	কবীর	np-ant-m	eng	Kabir	np-ant$$np$np-ant-m
@@ -6046,7 +6046,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	জামায়াত	np-org-mf	eng	Jamayat	np
 	ben	কিশোরগঞ্জ	np-top-mf	eng	Kishorganj	np
 	ben	পাল	np-ant-m	eng	paul	np
-	ben	ওয়েব	np-al-mf	eng	Web	np
+	ben	ওয়েব	np-al-mf	eng	Web	np$np-al-sg
 	ben	আনিসুল	np-ant-mf	eng	Anisul	np
 	ben	আনিসুর	np-ant-mf	eng	Anisur	np
 	ben	শোয়েব	np-ant-mf	eng	Shoaib	np$np-ant
@@ -6238,12 +6238,12 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	ইস্তোনিয়া	np-top-mf	eng	Istoniya	np
 	ben	অস্ট্রেলিয়া	np-top-mf	eng	Australia	np-top$np$np-top-sg
 	ben	আশরাফুল	np-ant-m	eng	Ashraful	np
-	ben	সেন্ট	np-ant-m	eng	Saint	np-ant$np
+	ben	সেন্ট	np-ant-m	eng	Saint	np-top-sg$np
 	ben	হোসাইন	np-ant-mf	eng	Hossain	$np
 	ben	আর্থার	np-ant-m	eng	Arthur	np-ant$np$np-ant-m-sg$np-ant-m
 	ben	লারা	np-ant-mf	eng	Lara	np-ant$np$np-ant-f-sg
 	ben	মুজিবুর	np-ant-mf	eng	Mujibur	np
-	ben	শ্রীলঙ্কা	np-top-mf	eng	Sri Lanka	np-top$np-top-sg$np
+	ben	শ্রীলঙ্কা	np-top-mf	eng	Sri Lanka	np-top$np$np-top-f
 	ben	নাইজেরিয়া	np-top-mf	eng	Nigeria	np-top$np$np-top-sg
 	ben	রতন	np-ant-mf	eng	Ratan	np
 	ben	আরিফ	np-ant-mf	eng	Arif	np$np-ant$np-ant-m
@@ -6269,7 +6269,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	মাসুম	np-ant-mf	eng	Masum	np$np-ant
 	ben	হায়দার	np-ant-m	eng	Haider	np$np-cog-sg
 	ben	লতিফ	np-ant-mf	eng	Latif	$np$np-ant-m
-	ben	সান	np-ant-m	eng	San	np$np-top$np-top-m
+	ben	সান	np-ant-m	eng	San	$np-top-sg$np$np-top
 	ben	অ্যান্ড	np-al-mf	eng	And	np
 	ben	লিমিটেড	np-al-mf	eng	Ltd.	np
 	ben	মাসুদ	np-ant-m	eng	Masud	np
@@ -6287,7 +6287,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	স্লোভেনিয়া	np-top-mf	eng	Slovenia	np-top$np$np-top-f
 	ben	গোবিন্দ	np-ant-m	eng	Govinda	np
 	ben	হাইতি	np-top-mf	eng	Haiti	np-top$np$np-top-sg
-	ben	আলেকজান্ডার	np-ant-m	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$
+	ben	আলেকজান্ডার	np-ant-m	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$
 	ben	সুজন	np-ant-m	eng	Shujon	np
 	ben	সোহরাওয়ার্দী	np-top-mf	eng	Suhrawardi	np$np-ant
 	ben	এরিক	np-ant-m	eng	Eric	np-ant$np$np-ant-m$np-ant-m-sg
@@ -6349,7 +6349,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	খালেদ	np-ant-m	eng	Khaled	np$np-ant$np-ant-m$np-ant-m-sg
 	ben	সুমিত	np-ant-m	eng	Sumit	np
 	ben	মালি	np-top-mf	eng	Mali	np-top$np-top-sg$np
-	ben	মারিয়া	np-ant-f	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg
+	ben	মারিয়া	np-ant-f	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f
 	ben	টমাস	np-ant-m	eng	Thomas	np-ant$np$np-ant-m-sg$np-ant-m$
 	ben	লরেন্স	np-ant-m	eng	Lawrence	np-ant$np$$np-ant-m$np-ant-m-sg
 	ben	পঞ্চগড়	np-top-mf	eng	Panchagarh	np
@@ -6419,7 +6419,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	মুজাহিদিন	np-ant-mf	eng	Mujahidin	np
 	ben	যোসেফ	np-ant-m	eng	Joseph	np-ant$np$np-ant-m$np-ant-m-sg$
 	ben	শরীফ	np-ant-mf	eng	Sharif	np$np-ant$np-ant-m
-	ben	ইন্টারন্যাশনাল	np-al-mf	eng	International	np
+	ben	ইন্টারন্যাশনাল	np-al-mf	eng	International	np-al-sg$np
 	ben	জনি	np-ant-m	eng	Johny	np$np-ant-m-sg
 	ben	মন্টিনিগ্রো	np-top-mf	eng	Montenegro	np-top$np$np-top-sg$
 	ben	কোতোয়ালি	np-top-mf	eng	Kotoyali	np
@@ -6448,7 +6448,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	আহমেদ	np-ant-m	eng	Ahmed	np-ant$np$np-ant-m$np-ant-m-sg$
 	ben	জিডিপি	np-al-mf	eng	GDP	np
 	ben	গুয়াতেমালা	np-top-mf	eng	Guatemala	np-top$np-top-sg$np
-	ben	আবদুল	np-ant-m	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg
+	ben	আবদুল	np-ant-m	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m
 	ben	ওয়ার্কার্স	np-org-mf	eng	Workers	np
 	ben	আবদুর	np-ant-m	eng	Abdur	np
 	ben	সার্বিয়া	np-top-mf	eng	Serbia	np-top$np-top-sg$np
@@ -6465,7 +6465,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	সাইমন	np-ant-m	eng	Simon	np-ant$np$np-ant-m$np-ant-m-sg$
 	ben	মুন্সি	np-ant-m	eng	Munsi	np
 	ben	আফ্রিকা	np-top-mf	eng	Africa	np-top$np$np-top-f
-	ben	ন্যাশনাল	np-al-mf	eng	National	np$np-top-sg
+	ben	ন্যাশনাল	np-al-mf	eng	National	np$np-al-sg
 	ben	মংলা	np-top-mf	eng	Mongla	np
 	ben	কিবরিয়া	np-ant-m	eng	Kibria	np
 	ben	ডোমিনিকা	np-top-mf	eng	Dominica	np-top$np-top-sg
@@ -6601,7 +6601,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	মুজিব	np-ant-m	eng	Mujib	np
 	ben	ইউনুস	np-ant-m	eng	Eunus	np
 	ben	জাপানি	np-ant-mf	eng	Japanese	np
-	ben	ফরাসি	np-ant-mf	eng	French	np
+	ben	ফরাসি	np-ant-mf	eng	French	np$np-top-sg
 	ben	ফিলিস্তিনি	np-ant-mf	eng	Palestinian	np
 	ben	মানিকগঞ্জ	np-top-mf	eng	Manikaganj	np
 	ben	নিউজিল্যান্ড	np-top-mf	eng	New Zealand	np-top$np$np-top-sg
@@ -6672,7 +6672,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	টাটা	np-org-mf	eng	Tata	np$np-cog
 	ben	সাবের	np-ant-m	eng	Saber	np
 	ben	গ্রামীণফোন	np-org-mf	eng	Grameenphone	np
-	ben	স্কয়ার	np-org-mf	eng	Square	np$np-top-sg
+	ben	স্কয়ার	np-org-mf	eng	Square	np$np-al-sg
 	ben	অমিত	np-ant-m	eng	Amit	np
 	ben	বকুল	np-ant-m	eng	Bakul	np
 	ben	ঐশ্বরিয়া	np-ant-f	eng	Aiswaria	np
@@ -6731,7 +6731,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	কাঞ্চন	np-ant-m	eng	Kanchan	np
 	ben	আজিম	np-ant-m	eng	Azim	np$np-ant-m
 	ben	এডওয়ার্ড	np-ant-m	eng	Edward	np-ant$np$np-ant-m$np-ant-m-sg
-	ben	উইলিয়াম	np-ant-m	eng	William	np-ant$np$np-ant-m$np-ant-m-sg
+	ben	উইলিয়াম	np-ant-m	eng	William	np-ant$np$np-ant-m-sg$np-ant-m
 	ben	মিয়া	np-ant-m	eng	Mia	np-ant$np$np-ant-f-sg$np-ant-f
 	ben	লালন	np-ant-m	eng	lalan	np
 	ben	মঈন	np-ant-m	eng	Moin	np
@@ -6766,10 +6766,10 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	আমান	np-ant-m	eng	Aman	np$np-ant-f
 	ben	কেয়া	np-ant-m	eng	Keya	np
 	ben	নূরজাহান	np-ant-m	eng	Nurjahan	np
-	ben	ইউরোপিয়ান	np-ant-m	eng	European	np
-	ben	সোভিয়েত	np-ant-m	eng	Soviet	np-top$np
+	ben	ইউরোপিয়ান	np-ant-m	eng	European	np-al-sg$np
+	ben	সোভিয়েত	np-ant-m	eng	Soviet	np-top$np-top-sg$np
 	ben	ইংরেজ	np-ant-m	eng	English	np
-	ben	ফ্রেঞ্চ	np-ant-m	eng	French	np
+	ben	ফ্রেঞ্চ	np-ant-m	eng	French	np$np-top-sg
 	ben	অপু	np-ant-m	eng	Apu	np
 	ben	কর্ণফুলী	np-top-mf	eng	Karnaphuli	np
 	ben	ঈশ্বরদী	np-top-mf	eng	Iswardi	np
@@ -6783,8 +6783,8 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	লালপুর	np-top-mf	eng	Lalpur	np
 	ben	উল্লাপাড়া	np-top-mf	eng	Ullapara	np
 	ben	শ্রীপুর	np-top-mf	eng	Sripur	np
-	ben	নয়াদিল্লি	np-top-mf	eng	New Delhi	np$np-top$np-top-sg
-	ben	দিল্লি	np-top-mf	eng	New Delhi	np$np-top$np-top-sg
+	ben	নয়াদিল্লি	np-top-mf	eng	New Delhi	np$np-top
+	ben	দিল্লি	np-top-mf	eng	New Delhi	np$np-top
 	ben	আখাউড়া	np-top-mf	eng	Akhaura	np
 	ben	অভয়নগর	np-top-mf	eng	Abhaynagar	np
 	ben	মির্জাপুর	np-top-mf	eng	Mirzapur	np
@@ -6876,7 +6876,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	গফুর	np-ant-m	eng	Gafur	np$np-cog-mfn
 	ben	মৃধা	np-ant-m	eng	Mridha	np
 	ben	আখতারুজ্জামান	np-ant-m	eng	Akhtaruzzaman	np
-	ben	আব্দুল	np-ant-m	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg
+	ben	আব্দুল	np-ant-m	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m
 	ben	দেবনাথ	np-ant-m	eng	Debnath	np
 	ben	নাসরিন	np-ant-f	eng	Nasrin	np
 	ben	মইনুল	np-ant-m	eng	Moinul	np
@@ -6930,11 +6930,11 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	এমবিএ	np-al-mf	eng	MBA	np
 	ben	এএফসি	np-al-mf	eng	AFC	np
 	ben	আদম	np-ant-m	eng	Adam	np$np-ant$np-ant-m$np-ant-m-sg$
-	ben	ভারতীয়	np-ant-mf	eng	Indian	np
+	ben	ভারতীয়	np-ant-mf	eng	Indian	np$np-top-sg
 	ben	ফেব্রুয়ারি	np-al-mf	eng	February	np$np-top
 	ben	গ্রিক	np-ant-mf	eng	Greek	np$np-top$np-top-sg
 	ben	জানুয়ারি	np-al-mf	eng	January	np$np-top
-	ben	ইউরোপীয়	np-ant-mf	eng	European	np
+	ben	ইউরোপীয়	np-ant-mf	eng	European	np-al-sg$np
 	ben	বাংলা	np-al-mf	eng	Bengali	np$np-al
 	ben	রাগিব	np-ant-m	eng	Ragib	np
 	ben	অর্ণব	np-ant-m	eng	Arnob	np
@@ -6942,7 +6942,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	বৌদ্ধ	np-al-mf	eng	Buddhist	np
 	ben	ইংরেজী	np-al-mf	eng	English	np
 	ben	স্পেনীয়	np-ant-mf	eng	Spanish	np
-	ben	লাতিন	np-ant-m	eng	Latin	np
+	ben	লাতিন	np-ant-m	eng	Latin	np$np-top-sg
 	ben	বন্দ্যোপাধ্যায়	np-ant-m	eng	Bandyopaddhay	np
 	ben	উয়েফা	np-org-mf	eng	UEFA	np
 	ben	মণিপুরী	np-ant-mf	eng	Manipuri	np
@@ -6964,10 +6964,10 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	পরগনা	np-top-mf	eng	Pargana	np
 	ben	ইনফ্লুয়েঞ্জা	np-al-mf	eng	Influenza	np
 	ben	ব্রাহ্ম	np-al-mf	eng	Brahma	np$np-ant-m-sg
-	ben	বৃটিশ	np-ant-mf	eng	British	np
+	ben	বৃটিশ	np-ant-mf	eng	British	np$np-top-sg
 	ben	কৃষ্ণ	np-ant-m	eng	Black	np-cog-sg$np$np-cog$
 	ben	মহাত্মা	np-ant-m	eng	Mahatma	np$np-ant
-	ben	ইউরোপীয়ান	np-ant-mf	eng	European	np
+	ben	ইউরোপীয়ান	np-ant-mf	eng	European	np-al-sg$np
 	ben	পাকিস্তানী	np-ant-mf	eng	Pakistani	np
 	ben	খাঁ	np-ant-m	eng	Khan	np-cog$np-cog-sg$$np
 	ben	ব্রাহ্মণ	np-ant-mf	eng	Brahman	np
@@ -6992,7 +6992,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	সুকুমার	np-ant-m	eng	Shukumar	np
 	ben	হাঙ্গেরীয়	np-ant-mf	eng	Hungarian	np$np-ant
 	ben	হযরত	np-ant-m	eng	Hazrat	np
-	ben	মালয়	np-top-mf	eng	Malay	np$np-top-sg
+	ben	মালয়	np-top-mf	eng	Malay	np$np-top-sg$np-top-f-sg
 	ben	বেহালা	np-al-mf	eng	Violin	np
 	ben	বেদ	np-al-mf	eng	Beda	np-ant$np$np-ant-m-sg
 	ben	বেথুন	np-ant-m	eng	Bethun	np
@@ -7018,7 +7018,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	ইবন	np-ant-m	eng	Ibn	np$np-ant
 	ben	আলফা	np-al-mf	eng	Alpha	np$np-m
 	ben	হিলিয়াম	np-al-mf	eng	Helium	np
-	ben	হাবল	np-al-mf	eng	Hubble	np-al$np$np-al-sg
+	ben	হাবল	np-al-mf	eng	Hubble	np-al$np-al-sg$np
 	ben	মোগল	np-ant-mf	eng	Mughal	np
 	ben	মলয়	np-ant-m	eng	Garden	np
 	ben	বীরভূম	np-top-mf	eng	Birbhum	np
@@ -7044,7 +7044,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	ফেব্রুয়ারী	np-al-mf	eng	February	np$np-top
 	ben	সেলসিয়াস	np-al-mf	eng	Celsius	np$np-ant-m
 	ben	বেলারুশীয়	np-ant-mf	eng	Belarusian	np
-	ben	ফরাসী	np-ant-mf	eng	French	np
+	ben	ফরাসী	np-ant-mf	eng	French	np$np-top-sg
 	ben	সিপিআইএম	np-org-mf	eng	CPIM	np
 	ben	শংকর	np-ant-m	eng	Shankar	np$np-ant
 	ben	রিয়াল	np-org-mf	eng	Real	np
@@ -7087,26 +7087,26 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	হিন্দুধর্ম	np-al-mf	eng	Hinduism	np
 	ben	গ্রীক	np-ant-mf	eng	Greek	np$np-top$np-top-sg
 	ben	অ্যাকিলিস	np-ant-m	eng	Achilis	np
-	ben	অন্ধ্র	np-top-mf	eng	Andhra	np
-	ben	ব্রিটিশ	np-ant-mf	eng	British	np
+	ben	অন্ধ্র	np-top-mf	eng	Andhra	np$np-top-sg
+	ben	ব্রিটিশ	np-ant-mf	eng	British	np$np-top-sg
 	ben	সোমালি	np-top-mf	eng	Somali	np
 	ben	রেশম	np-al-mf	eng	Silk	np
 	ben	গনোম	np-al-mf	eng	GNOME	np$np-al-sg
 	ben	ইলেক্ট্রন	np-al-mf	eng	Electron	np
 	ben	ইরানীয়	np-ant-mf	eng	Iranian	np
-	ben	আইরিশ	np-ant-mf	eng	Irish	np
+	ben	আইরিশ	np-ant-mf	eng	Irish	np$np-top-m-sg
 	ben	অগাস্ট	np-al-mf	eng	August	np-ant$np$np-ant-m-sg
 	ben	রামানুজন	np-ant-m	eng	Ramanujan	np
 	ben	মুর্শিদাবাদ	np-top-mf	eng	Murshidabad	np
 	ben	ব্রহ্মা	np-ant-m	eng	Brahma	np$np-ant-m-sg
 	ben	বিষ্ণু	np-ant-m	eng	Vishnu	np$np-ant
-	ben	বাল্টিক	np-al-mf	eng	Baltic	np-top-sg$np-top$np
+	ben	বাল্টিক	np-al-mf	eng	Baltic	np-top-sg$np-top$np$np-top-m-sg
 	ben	বসন্ত	np-al-mf	eng	Spring	np
 	ben	বব	np-ant-m	eng	Bob	np$np-ant$np-ant-m$np-ant-m-sg$
 	ben	ফন	np-ant-m	eng	Fon	np
 	ben	পালি	np-top-mf	eng	End	np
 	ben	জিউস	np-ant-m	eng	Zeus	np-ant-m-sg$np$np-ant$np-ant-m
-	ben	ক্যারিবীয়	np-ant-mf	eng	Caribbean	np-top-sg$np$np-top
+	ben	ক্যারিবীয়	np-ant-mf	eng	Caribbean	np-top-sg$np$np-top$np-top-nt-sg
 	ben	কোরীয়	np-ant-mf	eng	Korean	np
 	ben	ইন্দিরা	np-ant-f	eng	Indira	np-ant$np$np-ant-f$np-ant-f-sg
 	ben	ইংরাজী	np-al-mf	eng	English	np
@@ -7116,7 +7116,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	টেক্সাস	np-top-mf	eng	Texas	np$np-top$np-top-sg
 	ben	টালিগঞ্জ	np-top-mf	eng	Taliganj	np
 	ben	ভ্যাটিকান	np-top-mf	eng	Vatican	np$np-loc
-	ben	পানামা	np-top-mf	eng	Panama	np-top$np$np-top-sg
+	ben	পানামা	np-top-mf	eng	Panama	np-top$np$np-top-sg$np-top-m-sg
 	ben	নীহারিকা	np-al-mf	eng	Nebula	np
 	ben	নিউট্রিনো	np-al-mf	eng	Niutrino	np
 	ben	নিউট্রন	np-al-mf	eng	Neutron	np
@@ -7134,7 +7134,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	নেদারল্যান্ড	np-top-mf	eng	Netherland	np
 	ben	জিন্নাহ	np-ant-m	eng	Jinnah	np
 	ben	জানুয়ারী	np-al-mf	eng	January	np$np-top
-	ben	কেপ	np-top-mf	eng	Cape	np$np-top-sg
+	ben	কেপ	np-top-mf	eng	Cape	np-top-sg$np
 	ben	কুর্দি	np-ant-mf	eng	Kurdish	np$np-top-sg
 	ben	উজবেক	np-ant-mf	eng	Uzbek	np$np-ant-m
 	ben	আয়ারল্যান্ড	np-top-mf	eng	Ireland	np-top$np$np-top-f$
@@ -7170,7 +7170,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	বাঙালী	np-ant-mf	eng	Bangalee	np
 	ben	ফিল	np-ant-m	eng	Phil	np$np-ant-m$np-ant-m-sg
 	ben	প্লেটো	np-ant-m	eng	Pleto	np
-	ben	পারসিক	np-ant-mf	eng	Persian	np
+	ben	পারসিক	np-ant-mf	eng	Persian	np$np-top-sg$np-top-f-sg
 	ben	নেতাজি	np-ant-m	eng	Netaji	np
 	ben	নন্দ	np-ant-m	eng	Nanda	np-ant$np$np-ant-m-sg
 	ben	গ্যালিলিও	np-ant-m	eng	Galileo	np-ant$np$np-ant-m$np-ant-m-sg
@@ -7191,7 +7191,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	বঙ্গভঙ্গ	np-al-mf	eng	Bangabhanga	np
 	ben	পিএইচ	np-al-mf	eng	Ph.D.	np
 	ben	পপ	np-al-mf	eng	Pop	$np
-	ben	নরওয়েজীয়	np-ant-mf	eng	Norwegian	np
+	ben	নরওয়েজীয়	np-ant-mf	eng	Norwegian	np$np-top-nt-sg
 	ben	নদীয়া	np-top-mf	eng	Nadia	np-ant$np-ant-f-sg$np$np-ant-f
 	ben	তেরেসা	np-ant-f	eng	Teresa	np-ant$np-ant-f-sg$np
 	ben	টুরিং	np-ant-m	eng	Turing	np-cog-sg$np$np-cog$
@@ -7211,7 +7211,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	সিরাজদ্দৌলা	np-ant-m	eng	Sirajaddaula	np
 	ben	সত্যেন্দ্রনাথ	np-ant-m	eng	Satyendranath	np
 	ben	শরৎচন্দ্র	np-ant-m	eng	Saratchandra	np
-	ben	ল্যাটিন	np-ant-mf	eng	Latin	np
+	ben	ল্যাটিন	np-ant-mf	eng	Latin	np$np-top-sg
 	ben	লাহিড়ী	np-ant-m	eng	Lahiri	np
 	ben	রাশিয়ান	np-ant-mf	eng	Russian	np
 	ben	রামতনু	np-ant-m	eng	Ramtanu	np
@@ -7309,7 +7309,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	কালী	np-ant-f	eng	Kali	np-ant$np$np-ant-m
 	ben	করতোয়া	np-top-mf	eng	Karotoa	np
 	ben	এমপেগ	np-al-mf	eng	MPEG	np
-	ben	উইলিয়ম	np-ant-m	eng	William	np-ant$np$np-ant-m$np-ant-m-sg
+	ben	উইলিয়ম	np-ant-m	eng	William	np-ant$np$np-ant-m-sg$np-ant-m
 	ben	আসিমভ	np-ant-m	eng	Asimabh	np
 	ben	আলফ্রেড	np-ant-m	eng	Alfred	np-ant$np-ant-m$np-ant-m-sg$np
 	ben	টেলিগ্রাফ	np-al-mf	eng	Telegraph	np
@@ -7329,7 +7329,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	বৃহস্পতি	np-al-mf	eng	Jupiter	np-ant$np
 	ben	বারাণসী	np-top-mf	eng	Varanasi	np$np-top
 	ben	পলাশী	np-top-mf	eng	Palashi	np
-	ben	নাৎসি	np-ant-mf	eng	Nazi	np
+	ben	নাৎসি	np-ant-mf	eng	Nazi	np-top-sg$np
 	ben	জুলিয়া	np-ant-f	eng	Julia	np-ant$np$np-ant-f-sg$np-ant-f
 	ben	চন্দ্রশেখর	np-ant-m	eng	Chandrashekhar	np
 	ben	ওয়ার্নার	np-ant-m	eng	Warner	np$np-al$
@@ -7375,7 +7375,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	শ্রীকৃষ্ণ	np-ant-m	eng	Krishna	np-ant$np
 	ben	লোকসভা	np-al-mf	eng	Lok Sabha	np
 	ben	লেনন	np-ant-m	eng	Lennon	np-cog-sg$np$np-cog$
-	ben	যুক্তরাষ্ট্রীয়	np-ant-mf	eng	Federal	np
+	ben	যুক্তরাষ্ট্রীয়	np-ant-mf	eng	Federal	np$np-top-sg
 	ben	ম্যাক	np-al-mf	eng	Mac	np$$np-ant-m
 	ben	মুসলীম	np-ant-mf	eng	Muslim	np$np-ant-m
 	ben	মিলিমিটার	np-al-mf	eng	Millimeter	np
@@ -7396,7 +7396,7 @@ LR	ben	কেননা	adv	eng	because	cnjadv
 	ben	গুহ	np-ant-m	eng	Guha	np
 	ben	গুড়	np-al-mf	eng	Molasses	np
 	ben	বিপিন	np-ant-m	eng	Bipin	np
-	ben	ডেবিয়ান	np-al-mf	eng	Debian	np$np-al-sg
+	ben	ডেবিয়ান	np-al-mf	eng	Debian	np-al-sg$np
 	ben	গয়া	np-top-mf	eng	Gaya	$np$np-cog
 	ben	ক্রোয়েশীয়	np-ant-mf	eng	Croatian	np
 	ben	কান্দাহার	np-top-mf	eng	Kandahar	np$np-top-m

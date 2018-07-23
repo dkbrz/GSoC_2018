@@ -47,9 +47,9 @@
 	crh	ğayrı	post	tur	gayrı	adv
 	crh	sebep	post	tur	dolayı	post$
 	crh	sebep	post	tur	ötürü	post
-	crh	bu	prn	tur	bu	prn-dem$prn-dem-abl$prn
-	crh	şu	prn-dem	tur	şu	prn-dem$prn-dem-dat
-	crh	şu	prn-dem	tur	bu	prn-dem$prn-dem-abl$prn
+	crh	bu	prn	tur	bu	prn-dem$prn
+	crh	şu	prn-dem	tur	şu	prn-dem
+	crh	şu	prn-dem	tur	bu	prn-dem$prn
 	crh	ne	prn-itg	tur	ne	prn-itg$prn$prn-itg-abl
 	crh	kendi	prn-ref	tur	kendi	prn-ref$prn$$prn-ref-px3sp
 	crh	öz	prn-ref	tur	kendi	prn-ref$prn$$prn-ref-px3sp
@@ -78,7 +78,7 @@
 	crh	diger	det-ind	tur	diğer	adj$$adj-subst
 	crh	diger	prn-ind	tur	diğer	adj$$adj-subst
 	crh	cümle	det-ind	tur	bütün	det-qnt$det
-	crh	bazı	det-ind	tur	bazı	det-qnt$det$
+	crh	bazı	det-ind	tur	bazı	det-qnt$det
 	crh	bu	det-dem	tur	bu	det-dem$det$det-dem-qnt
 	crh	o	det-dem	tur	o	det-dem
 	crh	qaç	det-itg	tur	kaç	det-qnt
@@ -1660,7 +1660,7 @@ LR	crh	gvardiya	n$n-pl	tur	muhafız	n-pl$$n
 	crh	Mariya	np-ant$np-ant-f	tur	Mariya	np-ant$np-ant-f
 	crh	Lenara	np-ant	tur	Lenara	np-ant
 	crh	Konstantinopolis	np-ant	tur	Konstantinopolis	np-ant
-	crh	İshaq	np-ant	tur	İshak	np$np-ant$np-ant-m
+	crh	İshaq	np-ant	tur	İshak	np-ant-m$np$np-ant
 	crh	Halim	np-ant	tur	Halim	np-ant
 	crh	George	np-ant$np-ant-m	tur	George	np$np-ant$np-ant-m
 	crh	Clinton	np-ant$np-ant-m	tur	Clinton	np$np-ant$np-ant-m
@@ -1813,7 +1813,7 @@ LR	crh	gvardiya	n$n-pl	tur	muhafız	n-pl$$n
 	crh	Litvaniya	np-top	tur	Litvanya	np-top
 	crh	Ametov	np-cog-m$np-cog	tur	Ametov	$np-cog-mf
 	crh	İgor	np-ant$np-ant-m	tur	Igor	np-ant-m$np-ant
-	crh	Eskender	np-ant	tur	İskender	np-ant
+	crh	Eskender	np-ant	tur	İskender	np-ant$np-ant-m
 	crh	Krım	np-top	tur	Kırım	np-top$np-top-attr
 	crh	Amet	np-ant	tur	Ahmet	np-ant-m$np-ant$np
 	crh	İslâmov	np-cog$np-cog-m	tur	İslamov	$np-cog-mf
@@ -1822,7 +1822,7 @@ LR	crh	gvardiya	n$n-pl	tur	muhafız	n-pl$$n
 	crh	Asanov	np-cog$np-cog-m	tur	Asanov	$np-cog-mf
 	crh	Recep	np-ant$np-ant-m	tur	Recep	np-ant-m$np$np-ant
 	crh	Enver	np-ant$np-ant-m	tur	Enver	np-ant-m$np$np-ant
-	crh	Kadırov	np-ant	tur	Kadir	np-ant
+	crh	Kadırov	np-ant	tur	Kadir	np-ant$np-ant-m
 	crh	Ayşe	np-ant$np-ant-f	tur	Ayşe	np-ant-f$np-ant
 	crh	Ceppar	np-ant	tur	Cabbar	np-ant
 	crh	Osmanov	np-cog$np-cog-m	tur	Osmanov	$np-cog-mf
@@ -4796,7 +4796,7 @@ LR	crh	tuvğan	adj	tur	kendi	det-ref
 	crh	mecburen	adv	tur	mecburen	adv
 	crh	anda	adv	tur	ora	prn-adv$$prn$prn-adv-loc
 	crh	qayda	adv-itg	tur	nere	prn-itg$prn-itg-loc
-	crh	mında	adv	tur	bura	adv$prn-adv-loc
+	crh	mında	adv	tur	bura	adv$prn-adv$prn-adv-loc
 	crh	kene	adv	tur	yine	adv
 	crh	soñra	adv	tur	sonra	adv$
 	crh	daa	adv	tur	daha	adv$
@@ -5512,7 +5512,7 @@ LR	crh	№ 		tur		$num$num-card-sg-nom
 	crh	sönük	adj	tur	sönük	adj
 	crh	boş	adj	tur	boş	adj$
 	crh	qafa	n	tur	kafa	n$
-	crh	ata	n	tur	ata	n
+	crh	ata	n	tur	ata	n$
 	crh	deva	n	tur	deva	n$
 	crh	ağaç	n	tur	ağaç	n$
 	crh	qılıç	n	tur	kılıç	n$
@@ -6171,7 +6171,7 @@ LR	crh	№ 		tur		$num$num-card-sg-nom
 	crh	etimologiya	n	tur	etimoloji	n
 	crh	estetika	n	tur	estetik	n
 	crh	erleştir	v-tv	tur	yerleştir	v-tv
-	crh	ekvivalent	n	tur	denk	n$
+	crh	ekvivalent	n	tur	denk	n
 	crh	eksperiment	n	tur	deney	n$
 	crh	eksperiment	n	tur	deneme	n$
 	crh	didaktizm	n	tur	didaktiklik	n
@@ -6842,7 +6842,7 @@ LR	crh	yanlısı	n	tur	yanlısı	n
 	crh	şifahane	n	tur	şifahane	n
 	crh	ser	n	tur	ser	n
 	crh	serasker	n	tur	serasker	n
-	crh	selef	n	tur	selef	$n
+	crh	selef	n	tur	selef	n$
 	crh	selbi	n	tur	selbi	n
 	crh	sekizlik	n	tur	sekizlik	n
 	crh	şehir	n	tur	şehir	n$

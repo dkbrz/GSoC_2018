@@ -855,9 +855,9 @@ LR	byv	ɑ̂	foc	fra		num$$num-percent
 	byv	mə lɑ̀btè zinə	ij	fra	merci beaucoup à vous	ij
 	byv	mə lɑ̀btə̀ zin yɑmə	ij	fra	merci beaucoup à vous tous	ij
 	byv	mə lɑ̀tə̀ u yɑmə	ij	fra	merci beaucoup à toi	ij
-	byv	mə̀	prn-obj-p1-mf-sg	fra	moi	prn-tn$prn-tn-p1-mf-sg$prn-tn-p1
+	byv	mə̀	prn-obj-p1-mf-sg	fra	moi	prn-tn$prn-tn-p1-mf-sg$prn-tn-p1$prn
 	byv	wʉ̀	prn-obj-p2-sg	fra	toi	prn$prn-tn-p2-mf-sg$prn-tn$prn-tn-p2
-	byv	yi	prn-obj-p3-sg	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn-pro
+	byv	yi	prn-obj-p3-sg	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn$prn-pro
 	byv	a	prn-obj-p3-sg	fra	il	prn-tn-p3-f-sg$prn-p3-f-sg
 	byv	a	prn-obj-p3-sg	fra	elle	prn-p3-f-sg$prn-subj-p3-f-sg
 	byv	bag	prn-obj-p1-pl	fra	nous	prn-pro-p1-mf-pl$prn-pro
@@ -877,7 +877,7 @@ LR	byv	ɑ̂	foc	fra		num$$num-percent
 	byv	tsilə	itg-cl6	fra	quel	prn$prn-itg-GD$prn-itg-GD-sg
 	byv	pegement	prn-itg-mf-sp	fra	combien	prn-itg-mf-sp$itg$prn-itg
 	byv	siʼi	itg	fra	combien	prn-itg-mf-sp$itg$prn-itg
-	byv	wə	prn-mf-sp	fra	qui	prn-itg-mf-sp$prn-itg-mf$prn-itg
+	byv	wə	prn-mf-sp	fra	qui	prn-itg-mf-sp$prn-itg$prn-itg-mf
 	byv	sə	itg	fra	quand	prn-itg-mf-sp$itg$prn-itg
 	byv	shugə	itg	fra	quand	prn-itg-mf-sp$itg$prn-itg
 	byv	yɑ	itg$adv-itg	fra	où	itg
@@ -897,17 +897,17 @@ LR	byv	ɑ̂	foc	fra		num$$num-percent
 	byv	mbɑ̀ yîd mə̀n	prn-ind-mf-sg	fra	chacun	prn$prn-tn-m-pl
 	byv	jû wa	prn-def-m-sg	fra	l’autre	prn-tn-mf-sg
 	byv	mɛ̀n wa	prn-def-m-sg	fra	l’autre	prn-tn-mf-sg
-	byv	yɑ̀m	prn-pos-cl1	fra	le mien	prn$prn-pos-GD
-	byv	yɑ̂m	prn-pos-cl3	fra	le mien	prn$prn-pos-GD
-	byv	sɑm	pos-cl5$prn-pos-cl5	fra	le mien	prn$prn-pos-GD
-	byv	yù	prn-pos-cl1	fra	le tien	prn$prn-pos-GD
-	byv	yu	prn-pos-cl3	fra	le tien	prn$prn-pos-GD
-	byv	su	pos-cl5$prn-pos-cl5	fra	le tien	prn$prn-pos-GD
+	byv	yɑ̀m	prn-pos-cl1	fra	le mien	prn-pos-GD$prn
+	byv	yɑ̂m	prn-pos-cl3	fra	le mien	prn-pos-GD$prn
+	byv	sɑm	pos-cl5$prn-pos-cl5	fra	le mien	prn-pos-GD$prn
+	byv	yù	prn-pos-cl1	fra	le tien	prn-pos-GD$prn
+	byv	yu	prn-pos-cl3	fra	le tien	prn-pos-GD$prn
+	byv	su	pos-cl5$prn-pos-cl5	fra	le tien	prn-pos-GD$prn
 	byv	zə̀	pos-cl1$prn-pos-cl1	fra	le sien	prn-pos-GD$prn
 	byv	zə	pos-cl3$prn-pos-cl3	fra	le sien	prn-pos-GD$prn
 	byv	sə	pos-cl5$prn-pos-cl5	fra	le sien	prn-pos-GD$prn
 	byv	sagə	prn-pos-cl5	fra	le nôtre	prn-pos-GD
-	byv	magə	prn-pos-cl4	fra	le nôtre	prn-tn-pos-m-sg$prn-pos-m
+	byv	magə	prn-pos-cl4	fra	le nôtre	prn-pos-m$prn-tn-pos-m-sg
 	byv	cagə	prn-pos-cl6	fra	le nôtre	prn-pos-GD
 	byv	yìn	prn-pos-cl1	fra	le vôtre	prn-pos-GD
 	byv	yinə	prn-pos-cl3	fra	le vôtre	prn-pos-GD
@@ -923,7 +923,7 @@ LR	byv	ɑ̂	foc	fra		num$$num-percent
 	byv	yɑmə	prn-def-sg	fra	beaucoup de	prn-tn-f-sg
 	byv	sɑ̌mju	prn-def-sg	fra	rien	prn-tn-nt$prn$prn-tn-nt-sg
 	byv	mbɑ̀ kəlɔ̂	prn-ind-sg	fra	n’importe quoi	prn-tn-nt-sg
-	byv	mbɑ̀ wəlɔ	prn-ind-sg	fra	quiconque	prn-tn$prn-tn-mf-sg
+	byv	mbɑ̀ wəlɔ	prn-ind-sg	fra	quiconque	prn-tn-mf-sg$prn-tn
 	byv	mɛ̀nntʉ̀n	prn-ind-cl1-sg	fra	quelqu’un	prn-tn-GD-sg
 	byv	môʼ ju	prn-ind-cl1-sg	fra	quelque chose	prn-tn-nt-sg$prn$prn-tn-nt
 	byv	yenni	prn-dem-cl3-sg	fra	ça	prn$prn-tn-nt-sg$prn-tn-nt

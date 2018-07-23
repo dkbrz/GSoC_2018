@@ -38,7 +38,7 @@
 	eng	by	pr	hin	ने	post
 	eng	according	pr	hin	अनुसार	post
 	eng	by	pr	hin	ने	post
-	eng	of	pr	hin	का	post
+	eng	of	pr$	hin	का	post
 	eng	by	pr	hin	द्वारा	post
 	eng	in	pr	hin	का	post
 	eng	near	pr	hin	के पास	post
@@ -523,7 +523,7 @@
 	eng	oxygen	n$n-ND	hin	ऑक्सीजन	n-m
 	eng	hit	n$n-ND	hin	हिट	n-m
 	eng	W	n	hin	डबल्यू	n-m
-	eng	Dr.	n	hin	डा	n-m
+	eng	Dr.	n$	hin	डा	n-m
 	eng	day	n$n-ND	hin	डे	n-m
 	eng	the	n	hin	दि	n-m
 	eng		n$n-acr-mf-sp$n-acr-sp$n-acr	hin	व	n-m
@@ -582,7 +582,7 @@
 	eng	initial	n$n-ND	hin	प्रारम्भिक	n-m
 	eng	post	n$n-ND	hin	उपरान्त	n-m
 	eng	well	n$n-sg	hin	वेल्स	n-m
-	eng	second	n$n-ND	hin	दोबारा	n-m
+	eng	second	n$n-sg	hin	दोबारा	n-m
 	eng	adult	n$n-ND	hin	प्रौढ़	n-m
 	eng	moon	n$n-ND	hin	अमावस्या	n-m
 	eng	back	n$n-ND	hin	पस	n-m
@@ -1155,7 +1155,7 @@
 	eng	stroke	n$n-ND	hin	टनटन	n-f
 	eng	wild	n	hin	वन्य	n-m
 	eng	disaffection	n	hin	अप्रीति	n-f
-	eng	travel	n$n-ND	hin	देशाटन	n-m
+	eng	travel	n$n-sg	hin	देशाटन	n-m
 	eng	naughtiness	n$n-sg	hin	नटखटी	n-f
 	eng	refugee	n$n-sg	hin	बरबस	n-m
 	eng	medical	n	hin	मेडिकल	n-m
@@ -1999,7 +1999,7 @@
 	eng	million	n$n-acr	hin	मिलियन	n-m
 	eng	council	n$n-ND	hin	परिषद	n-m
 	eng	shire	n	hin	प्रान्त	n-m
-	eng	far	n	hin	अति	n-f
+	eng	far	n$n-sg	hin	अति	n-f
 	eng	tranquility	n	hin	शांति	n-f
 	eng	architect	n$n-sg	hin	निर्माता	n-m
 	eng	mug	n	hin	मग	n-m
@@ -2052,7 +2052,7 @@
 	eng	heart	n$n-ND	hin	हार्ट	n-m
 	eng	father	n$n-sg	hin	बाप	n-m
 	eng	domestic	n	hin	स्वदेशी	n-f
-	eng	bin	n	hin	बिन	n-m
+	eng	bin	n$	hin	बिन	n-m
 	eng	indian	n	hin	हिन्दुस्तानी	n-f
 	eng	memory	n$n-sg	hin	मेमोरी	n-f
 	eng	programming	n	hin	प्रोग्रामिंग	n-m
@@ -2148,7 +2148,7 @@
 	eng	difference	n$n-sg	hin	बाक़ी	n-f
 	eng	valley	n$n-ND	hin	वैली	n-f
 	eng	pancreas	n$n-ND	hin	अग्न्याशय	n-m
-	eng	drug	n$n-ND	hin	ड्रग	n-m
+	eng	drug	n$n-sg	hin	ड्रग	n-m
 	eng	dictionary	n$n-sg	hin	शब्दकोष	n-m
 	eng	wan	n	hin	वैन	n-m
 	eng	jersey	n	hin	जर्सी	n-f
@@ -2235,7 +2235,7 @@
 	eng	window	n$n-ND	hin	विंडो	n-m
 	eng	hamlet	n$n-ND	hin	मजरा	n-m
 	eng	spinner	n	hin	स्पिनर	n-m
-	eng	can	n$n-ND	hin	कैन	n-m
+	eng	can	n$n-sg	hin	कैन	n-m
 	eng	competitor	n$n-sg	hin	प्रतिद्वंदी	n-f
 	eng	astronomy	n$n-sg	hin	खगोलशास्त्र	n-m
 	eng	semitic	n	hin	सामी	n-f
@@ -4291,10 +4291,10 @@
 	eng	cannoneer	n	hin	तोपची	n-m
 	eng	cannon	n$n-ND	hin	तोप	n-f
 	eng	cannon	n$n-ND	hin	तोपअ	n-f
-	eng	can	n$n-ND	hin	कनस्तर	n-m
-	eng	can	n$n-ND	hin	कैन	n-m
-	eng	can	n$n-ND	hin	डिब्बा	n-m
-	eng	can	n$n-ND	hin	डोलची	n-f
+	eng	can	n$n-sg	hin	कनस्तर	n-m
+	eng	can	n$n-sg	hin	कैन	n-m
+	eng	can	n$n-sg	hin	डिब्बा	n-m
+	eng	can	n$n-sg	hin	डोलची	n-f
 	eng	canteen	n$n-ND	hin	कैंटीन	n-m
 	eng	canteen	n$n-ND	hin	भोजनगृह	n-m
 	eng	canteen	n$n-ND	hin	भोजनशाला	n-f
@@ -5663,8 +5663,8 @@
 	eng	dartboard	n	hin	डार्ट-बोर्ड	n-m
 	eng	dashboard	n	hin	डैशबोर्ड	n-m
 	eng	dash	n	hin	रेला	n-m
-	eng	da	n	hin	दा	n-m
-	eng	da	n	hin	दिन-प्रति-दिन	n-m
+	eng	da	$n	hin	दा	n-m
+	eng	da	$n	hin	दिन-प्रति-दिन	n-m
 	eng	dastard	n	hin	कापुरुष	n-m
 	eng	database	n$n-ND	hin	डेटाबेस	n-m
 	eng	data	n$n-sg	hin	आँकड़े	n-m
@@ -6364,9 +6364,9 @@
 	eng	dross	n	hin	धातुमल	n-m
 	eng	drought	n$n-sg	hin	अनावृष्टि	n-f
 	eng	drove	n	hin	गल्ला	n-m
-	eng	drug	n$n-ND	hin	औषध	n-m
-	eng	drug	n$n-ND	hin	औषधि	n-f
-	eng	drug	n$n-ND	hin	भेषज	n-m
+	eng	drug	n$n-sg	hin	औषध	n-m
+	eng	drug	n$n-sg	hin	औषधि	n-f
+	eng	drug	n$n-sg	hin	भेषज	n-m
 	eng	drummer	n	hin	ढोलकिया	n-m
 	eng	drumming	n	hin	ठकठकाहट	n-f
 	eng	drum	n$n-sg	hin	डमरू	n-m
@@ -7305,8 +7305,8 @@
 	eng	fluoridation	n	hin	फ़्लोरिडीकरण	n-m
 	eng	fluoride	n	hin	फ़्लोराइड	n-m
 	eng	fluorine	n$n-sg	hin	फ्लूरिन	n-m
-	eng	flu	n$n-ND	hin	फ्लू	n-m
-	eng	flu	n$n-ND	hin	फ़्लू	n-m
+	eng	flu	n$n-sg	hin	फ्लू	n-m
+	eng	flu	n$n-sg	hin	फ़्लू	n-m
 	eng	fluster	n	hin	घबड़ाहट	n-f
 	eng	flute	n$n-sg	hin	मुरली	n-f
 	eng	flycatcher	n	hin	शलभाष	n-m
@@ -9572,9 +9572,9 @@
 	eng	lighthouse	n	hin	प्रकाश-स्तंभ	n-m
 	eng	lighthouse	n	hin	लाइटहाउस	n-m
 	eng	lightness	n	hin	हल्कापन	n-m
-	eng	lightning	n$n-unc	hin	चपला	n-f
-	eng	lightning	n$n-unc	hin	विद्युत्	n-m
-	eng	lightning	n$n-unc	hin	शीघ्रतम	n-f
+	eng	lightning	n$n-sg	hin	चपला	n-f
+	eng	lightning	n$n-sg	hin	विद्युत्	n-m
+	eng	lightning	n$n-sg	hin	शीघ्रतम	n-f
 	eng	lightship	n	hin	प्रकाश-पोत	n-m
 	eng	light	n$n-ND	hin	आलोक	n-m
 	eng	light	n$n-ND	hin	उजाला	n-m$n
@@ -9795,7 +9795,7 @@
 	eng	lyre	n$n-ND	hin	लायर	n-m
 	eng	lyricism	n	hin	भावात्मकता	n-f
 	eng	lyricist	n	hin	गीतकार	n-m
-	eng	lyric	n-pl$n	hin	बोल	n-m
+	eng	lyric	n$n-pl	hin	बोल	n-m
 	eng	macaroni	n	hin	सेवई	n-f
 	eng	mace	n	hin	गदा	n-f
 	eng	mace	n	hin	चोब	n-f
@@ -13391,12 +13391,12 @@
 	eng	rung	n	hin	सोपान	n-m
 	eng	runnel	n	hin	नाला	n-m
 	eng	running	n$n-sg	hin	संचालन	n-m
-	eng	run	n$n-ND	hin	उधड़न	n-f
-	eng	run	n$n-ND	hin	ट्रैक	n-m
-	eng	run	n$n-ND	hin	फासला	n-m
-	eng	run	n$n-ND	hin	बाड़ा	n-m
-	eng	run	n$n-ND	hin	रन	n-m
-	eng	run	n$n-ND	hin	सीढी	n-f
+	eng	run	n$n-sg	hin	उधड़न	n-f
+	eng	run	n$n-sg	hin	ट्रैक	n-m
+	eng	run	n$n-sg	hin	फासला	n-m
+	eng	run	n$n-sg	hin	बाड़ा	n-m
+	eng	run	n$n-sg	hin	रन	n-m
+	eng	run	n$n-sg	hin	सीढी	n-f
 	eng	runt	n	hin	नाटा	n-m
 	eng	runway	n	hin	दौड़पथ	n-m
 	eng	runway	n	hin	हवाईपट्टी	n-f
@@ -13483,7 +13483,7 @@
 	eng	saloon	n	hin	सैलून	n-m
 	eng	saltiness	n	hin	खारापन	n-m
 	eng	saltshaker	n	hin	नमकदानी	n-m
-	eng	salt	n$n-ND	hin	नमक	n-m$n
+	eng	salt	n$n-sg	hin	नमक	n-m$n
 	eng	salutation	n	hin	अभिवादन	n-m
 	eng	salute	n	hin	सलामी	n-f
 	eng	salvage	n	hin	भ्रंशोद्धार	n-m
@@ -13702,10 +13702,10 @@
 	eng	seclusion	n	hin	एकांत	n-m
 	eng	seclusion	n	hin	एकांतवास	n-m
 	eng	seclusion	n	hin	तनहाई	n-f
-	eng	second	n$n-ND	hin	द्वितिय	n-m
-	eng	second	n$n-ND	hin	द्वितीय	n-m
-	eng	second	n$n-ND	hin	सेकंड	n-m
-	eng	second	n$n-ND	hin	सैकंड	n-m
+	eng	second	n$n-sg	hin	द्वितिय	n-m
+	eng	second	n$n-sg	hin	द्वितीय	n-m
+	eng	second	n$n-sg	hin	सेकंड	n-m
+	eng	second	n$n-sg	hin	सैकंड	n-m
 	eng	secretariat	n	hin	सचिवालय	n-m
 	eng	secretary	n$n-ND	hin	डेस्क	n-m
 	eng	secretary	n$n-ND	hin	मुंशी	n-m
@@ -16604,9 +16604,9 @@
 	eng	vanilla	n$n-sg	hin	वनीला	n-m
 	eng	vanillin	n	hin	वनीलिन	n-m
 	eng	vanity	n$n-sg	hin	आपा	n-m
-	eng	van	n$n-ND	hin	कारवाँ	n-m
-	eng	van	n$n-ND	hin	बंदगाड़ी	n-f
-	eng	van	n$n-ND	hin	वान	n-m
+	eng	van	n$$n-ND	hin	कारवाँ	n-m
+	eng	van	n$$n-ND	hin	बंदगाड़ी	n-f
+	eng	van	n$$n-ND	hin	वान	n-m
 	eng	vaporing	n	hin	शेखी	n-f
 	eng	vaporiser	n	hin	वाष्पित्र	n-m
 	eng	varan	n	hin	वरान	n-m
@@ -17730,7 +17730,7 @@
 	eng	Drupad	np-ant	hin	द्रुपद	np-ant
 	eng	Sher Shah	np-ant	hin	शेरशाह	np-ant
 	eng	APJ	np-ant	hin	एपीजे	np-ant
-	eng	Abu	np-ant$np$np-ant-m-sg$np-ant-m	hin	अबु	np-ant
+	eng	Abu	np-ant$np-ant-m-sg$np$np-ant-m	hin	अबु	np-ant
 	eng	Rajendra	np-ant	hin	राजेन्द्र	np-ant
 	eng	Hirankashyap	np-ant	hin	हिरण्यकशिपु	np-ant
 	eng	Omkar	np-ant	hin	ओंकार	np-ant
@@ -17782,7 +17782,7 @@
 	eng	Jafar	np-ant$np$np-ant-m	hin	जाफ़र	np-ant$np-ant-m
 	eng	Singh	np-cog-mfn$$np$np-cog	hin	सिंह	np-cog
 	eng	Anna	np-ant$np$np-ant-f-sg$np-ant-f	hin	अन्ना	np-ant$np-ant-m
-	eng	Da	np$np-cog	hin	डा	np-cog
+	eng	Da	$np$np-cog	hin	डा	np-cog
 	eng	Thomas	np-ant$np$np-ant-m-sg$np-ant-m$	hin	थॉमस	np-ant
 	eng	Richard	np-ant$np$np-ant-m$np-ant-m-sg	hin	रिचर्ड	np-ant$np-ant-m
 	eng	Thakur	np$np-ant	hin	ठाकुर	np-ant
@@ -17871,7 +17871,7 @@
 	eng	Pandu	np-ant	hin	पाण्डु	np-ant
 	eng	Surdas	np-ant	hin	सूरदास	np-ant
 	eng	Julian	np-ant$np$np-ant-m-sg$np-ant-m	hin	जूलियन	np-ant
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	hin	विलियम	np-ant$np-ant-m
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	hin	विलियम	np-ant$np-ant-m
 	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$	hin	माइकल	np-ant-m$np-ant
 	eng	Henry	np-ant$np$np-ant-m-sg$np-ant-m$	hin	हेनरी	np-ant
 	eng	Mahatma	np$np-ant	hin	महात्मा	np-ant-m$np-ant
@@ -17895,7 +17895,7 @@
 	eng	Khan	np-cog$np-cog-sg$$np	hin	खां	np-cog
 	eng	Khan	np-cog$np-cog-sg$$np	hin	ख़ान	np-cog
 	eng	Draupadi	np-ant	hin	द्रौपदी	np-ant
-	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg	hin	अब्दुल	np-ant$np-ant-m
+	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m	hin	अब्दुल	np-ant$np-ant-m
 	eng	Laxman	np-ant	hin	लक्ष्मण	np-ant$np-ant-m
 	eng	Jawaharlal	np$np-ant$np-ant-m-sg	hin	जवाहरलाल	np-ant
 	eng	Tulsidas	np-ant	hin	तुलसीदास	np-ant
@@ -17967,7 +17967,7 @@
 	eng	Hinduism	n$n-sg	hin	हिन्दुत्व	n-m
 	eng	ID	n$n-acr	hin	परिचय	n-m$n
 	eng	Islam	n$n-unc$	hin	इस्लाम	n-m$n
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	hin	जैन	np-ant
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	hin	जैन	np-ant
 	eng	Jain	np-cog	hin	जैन	np-cog
 	eng	June	n$n-sg	hin	जून	n-m
 	eng	Kabir	np-ant$$np$np-ant-m	hin	कबीर	np-ant
@@ -18048,9 +18048,9 @@
 	eng	Magadh	np-top	hin	मगध	np-top
 	eng	London	np-top$np$np-top-sg$	hin	लन्दन	np-top
 	eng	Washington	np-top$np-top-m$np	hin	वाशिंगटन	np-top
-	eng	San	np$np-top$np-top-m	hin	सैन	np-top
-	eng	Los	np$np-top	hin	लॉस	np-top
-	eng	Los Angeles	np-top$np-top-sg	hin	लॉस एंजलिस	np-top
+	eng	San	$np-top-sg$np$np-top	hin	सैन	np-top
+	eng	Los	np-top-sg$np$np-top	hin	लॉस	np-top
+	eng	Los Angeles	np-top$np-top-m	hin	लॉस एंजलिस	np-top
 	eng	Aaland Islands	np-top	hin	आलैंड‌ द्वीप‌	np-top
 	eng	Afghanistan	np-top$np$np-top-m	hin	अफ़ग़ानिस्तान‌	np-top
 	eng	Albania	np-top$np$np-top-f	hin	अल्बानिया	np-top
@@ -18080,7 +18080,7 @@
 	eng	Bolivia	np-top$np$np-top-sg	hin	बोलिविया	np-top
 	eng	Bosnia And Herzegovina	np-top	hin	बोस‌निया और‌ ह‌र्ज़ेगोविना	np-top
 	eng	Botswana	np-top$np-top-sg$np	hin	बोत्स्वाना	np-top
-	eng	Bouvet Island	np-top$np-top-f-sg	hin	बूवे द्वीप‌	np-top
+	eng	Bouvet Island	np-top	hin	बूवे द्वीप‌	np-top
 	eng	Brazil	np-top$np$np-top-sg	hin	ब्राज़ील	np-top
 	eng	Brunei Darussalam	np-top	hin	ब्रूनई दारुस्सलाम‌	np-top
 	eng	Bulgaria	np-top$np$np-top-f	hin	बल्गारिया	np-top
@@ -18090,8 +18090,8 @@
 	eng	Cameroon	np-top$np$np-top-sg	hin	कैम‌रून‌	np-top
 	eng	Canada	np-top$np$np-top-sg	hin	कैनेडा	np-top
 	eng	Canada	np-top$np$np-top-sg	hin	कनाडा	np-top
-	eng	Cape Verde	np-top$np$np-top-sg	hin	केप‌ व‌र्द	np-top
-	eng	Cayman Islands	np-top$np-top-pl$np	hin	केमैन‌ द्वीप‌	np-top
+	eng	Cape Verde	np-top$np	hin	केप‌ व‌र्द	np-top
+	eng	Cayman Islands	np-top$np	hin	केमैन‌ द्वीप‌	np-top
 	eng	Central African Republic	np-top$np$np-top-sg	hin	म‌ध्य‌ अफ़्रीकी ग‌ण‌राज्य‌	np-top
 	eng	Chad	np-top$np-top-sg$np	hin	चाड‌	np-top
 	eng	Chile	np-top$np$np-top-sg	hin	चिली	np-top
@@ -18099,12 +18099,12 @@
 	eng	Christmas Island	np-top	hin	क्रिस‌म‌स‌ द्वीप‌	np-top
 	eng	Colombia	np-top$np$np-top-sg	hin	कोलंबिया	np-top
 	eng	Comoros	np-top$np-top-sg$np	hin	कोमोरोस‌	np-top
-	eng	Cook Islands	np-top$np-top-sg	hin	कुक‌ द्वीप‌	np-top
-	eng	Costa Rica	np-top$np-top-sg$np	hin	कोस्टारीका	np-top
+	eng	Cook Islands	np-top$np-top-pl	hin	कुक‌ द्वीप‌	np-top
+	eng	Costa Rica	np-top$np$np-top-sg	hin	कोस्टारीका	np-top
 	eng	Cote D'Ivoire	np-top	hin	आइव‌री कोस्ट‌	np-top
 	eng	Cuba	np-top$np$np-top-sg	hin	क्यूबा	np-top
 	eng	Cyprus	np-top$np$np-top-sg	hin	साइप्रस‌	np-top
-	eng	Czech Republic	np-top$np$np-top-sg	hin	चेक‌ ग‌ण‌राज्य‌	np-top
+	eng	Czech Republic	np-top$np$np-top-f	hin	चेक‌ ग‌ण‌राज्य‌	np-top
 	eng	Denmark	np-top$np$np-top-sg	hin	डेन‌मार्क‌	np-top
 	eng	Djibouti	np-top$np-top-sg	hin	जिबूती	np-top
 	eng	Dominica	np-top$np-top-sg	hin	डोमिनिका	np-top
@@ -18116,12 +18116,12 @@
 	eng	Eritrea	np-top$np$np-top-sg	hin	एरिट्रिया	np-top
 	eng	Estonia	np-top$np$np-top-sg	hin	एस्टोनिया	np-top
 	eng	Ethiopia	np-top$np-top-sg$np	hin	ईथियोपिया	np-top
-	eng	Faroe Islands	np-top$np$np-top-pl	hin	फ़ारोअ द्वीप‌	np-top
+	eng	Faroe Islands	np-top$np	hin	फ़ारोअ द्वीप‌	np-top
 	eng	Fiji	np-top$np-top-sg$np	hin	फ़ीजी	np-top
 	eng	Finland	np-top$np$np-top-sg	hin	फ़िन‌लैंड‌	np-top
 	eng	France	np-top$np$np-top-sg	hin	फ़्राँस	np-top
 	eng	French Guiana	np$np-top	hin	फ़्राँसीसी ग‌याना	np-top
-	eng	French Polynesia	np-top$np-top-sg	hin	फ़्राँसीसी पॉलिनेशिया	np-top
+	eng	French Polynesia	np-top	hin	फ़्राँसीसी पॉलिनेशिया	np-top
 	eng	French Southern Territories	np-top	hin	द‌क्षिणी फ़्राँसीसी क्षेत्र	np-top
 	eng	Gabon	np-top$np-top-sg$np	hin	गाबों	np-top
 	eng	Gambia	np-top$np-top-sg$np	hin	गाम्बिया	np-top
@@ -18130,7 +18130,7 @@
 	eng	Ghana	np-top$np$np-top-sg	hin	गाना	np-top
 	eng	Gibraltar	np-top$np-top-sg$np	hin	जिब्रॉल्टर‌	np-top
 	eng	Greece	np-top$np$np-top-sg	hin	यूनान	np-top
-	eng	Greenland	np-top$np$np-top-sg	hin	ग्रीन‌लैंड‌	np-top
+	eng	Greenland	np-top$np$np-top-sg$np-top-nt-sg	hin	ग्रीन‌लैंड‌	np-top
 	eng	Grenada	np-top$np$np-top-sg	hin	ग्रेनाडा	np-top
 	eng	Guadeloupe	np-top$np-top-sg	hin	ग्वादलूप‌	np-top
 	eng	Guam	np-top$np-top-sg	hin	ग्वाम	np-top
@@ -18175,7 +18175,7 @@
 	eng	Maldives	np-top$np-top-sg$np	hin	माल‌दीव‌	np-top
 	eng	Mali	np-top$np-top-sg$np	hin	माली	np-top
 	eng	Malta	np-top$np$np-top-sg	hin	माल्टा	np-top
-	eng	Marshall Islands	np-top$np-top-pl$np	hin	मार्श‌ल‌ द्वीप‌	np-top
+	eng	Marshall Islands	np-top$np$np-top-pl	hin	मार्श‌ल‌ द्वीप‌	np-top
 	eng	Martinique	np-top$np-top-sg	hin	मार्टीनीक‌	np-top
 	eng	Mauritania	np-top$np-top-sg$np	hin	मोरीतानिया	np-top
 	eng	Mauritius	np-top$np-top-sg$np	hin	मोरिशिय‌स‌	np-top
@@ -18191,8 +18191,8 @@
 	eng	Nauru	np-top$np-top-sg$np	hin	नाउरू	np-top
 	eng	Nepal	np-top$np-top-sg$np	hin	नेपाल‌	np-top
 	eng	Netherlands	np$np-top$np-top-sg	hin	नेद‌र‌लैंड‌	np-top
-	eng	Netherlands Antilles	np-top-sg$np-top	hin	नेद‌र‌लैंड‌ आंतील्स‌	np-top
-	eng	New Caledonia	np-top$np$np-top-sg	hin	न्यू कैलडोनिया	np-top
+	eng	Netherlands Antilles	np-top$np-top-sg	hin	नेद‌र‌लैंड‌ आंतील्स‌	np-top
+	eng	New Caledonia	np-top$np	hin	न्यू कैलडोनिया	np-top
 	eng	New York	np$np-top$np-top-m	hin	न्यूयॉर्क	np-top
 	eng	New Zealand	np-top$np$np-top-sg	hin	न्यूज़ीलैंड‌	np-top
 	eng	Nicaragua	np-top$np-top-sg$np	hin	नीकाराग्वा	np-top
@@ -18206,7 +18206,7 @@
 	eng	Pakistan	np-top$np$np-top-m	hin	पाकिस्तान‌	np-top
 	eng	Palau	np-top$np-top-sg$np	hin	पालाऊ	np-top
 	eng	Palestinian Territory	np-top	hin	फ़िलीस्तीनी क्षेत्र	np-top
-	eng	Panama	np-top$np$np-top-sg	hin	पानामा	np-top
+	eng	Panama	np-top$np$np-top-sg$np-top-m-sg	hin	पानामा	np-top
 	eng	Papua New Guinea	np-top$np$np-top-sg	hin	पापुआ न्यू गिनी	np-top
 	eng	Paraguay	np-top$np-top-sg$np	hin	पाराग्वे	np-top
 	eng	Peru	np-top$np-top-sg$np	hin	पेरू	np-top
@@ -18214,7 +18214,7 @@
 	eng	Pitcairn	np-top	hin	पिट‌कैर्न‌	np-top
 	eng	Poland	np-top$np$np-top-sg	hin	पोलैंड‌	np-top
 	eng	Portugal	np-top$np$np-top-sg	hin	पुर्त‌गाल‌	np-top
-	eng	Puerto Rico	np-top$np-top-sg	hin	प्वेर्तो रीको	np-top
+	eng	Puerto Rico	np-top	hin	प्वेर्तो रीको	np-top
 	eng	Qatar	np-top$np$np-top-sg	hin	क‌त‌र‌	np-top
 	eng	Reunion	np-top	hin	रीयूनिय‌न‌	np-top
 	eng	Romania	np-top$np$np-top-f	hin	रुमानिया	np-top
@@ -18224,7 +18224,7 @@
 	eng	Saint Helena	np-top	hin	सेंट हेलेना	np-top
 	eng	Saint Lucia	np-top$np-top-sg	hin	सेंट‌ लुसिया	np-top
 	eng	Samoa	np-top$np-top-sg$np	hin	सैमोआ	np-top
-	eng	San Marino	np-top$np-top-sg$np	hin	सान‌ मारीनो	np-top
+	eng	San Marino	np-top$np$np-top-sg	hin	सान‌ मारीनो	np-top
 	eng	Saudi Arabia	np$np-top$np-top-sg	hin	स‌ऊदी अर‌ब‌	np-top
 	eng	Senegal	np-top$np-top-sg$np	hin	सेनेग‌ाल‌	np-top
 	eng	Serbia And Montenegro	np-top	hin	स‌र्बिया और‌ मोंटेनीग्रो	np-top
@@ -18233,12 +18233,12 @@
 	eng	Singapore	np-top$np-top-sg$np	hin	सिंगापुर‌	np-top
 	eng	Slovakia	np-top$np$np-top-f	hin	स्लोवाकिया	np-top
 	eng	Slovenia	np-top$np$np-top-f	hin	स्लोवेनिया	np-top
-	eng	Solomon Islands	np-top$np-top-pl$np	hin	सोलोम‌न‌ द्वीप‌	np-top
+	eng	Solomon Islands	np-top$np	hin	सोलोम‌न‌ द्वीप‌	np-top
 	eng	Somalia	np-top$np$np-top-sg	hin	सोमालिया	np-top
 	eng	South Africa	np-top$np$np-top-sg	hin	द‌क्षिण‌ अफ़्रीका	np-top
 	eng	Spain	np-top$np$np-top-sg	hin	स्पेन‌	np-top
 	eng	Spain	np-top$np$np-top-sg	hin	स्पेन	np-top
-	eng	Sri Lanka	np-top$np-top-sg$np	hin	श्रीलंका	np-top
+	eng	Sri Lanka	np-top$np$np-top-f	hin	श्रीलंका	np-top
 	eng	Sudan	np-top$np-top-sg$np	hin	सुदान	np-top
 	eng	Suriname	np-top$np-top-sg	hin	सूरीनाम‌	np-top
 	eng	Swaziland	np-top$np-top-sg$np	hin	स्वाज़ीलैंड‌	np-top
@@ -18259,7 +18259,7 @@
 	eng	Tuvalu	np-top$np-top-sg$np	hin	तुवालू	np-top
 	eng	Uganda	np-top$np-top-sg$np	hin	युगांडा	np-top
 	eng	Ukraine	np-top$np$np-top-sg	hin	यूक्रेन‌	np-top
-	eng	United Arab Emirates	np-top$np-top-pl	hin	संयुक्त‌ अर‌ब‌ अमीरात‌	np-top
+	eng	United Arab Emirates	np-top$np-top-sg	hin	संयुक्त‌ अर‌ब‌ अमीरात‌	np-top
 	eng	United Kingdom	np-top$np-top-f$np	hin	ब्रिटेन	np-top
 	eng	England	np-top$np$np-top-sg$	hin	इंगलैंड	np-top
 	eng	England	np-top$np$np-top-sg$	hin	इंग्लैंड	np-top
@@ -18271,11 +18271,11 @@
 	eng	Vatican City State	np-top	hin	वैटिक‌न‌ सिटी राज्य‌	np-top
 	eng	Venezuela	np-top$np$np-top-sg	hin	वेनेज़्वेला	np-top
 	eng	Viet Nam	np$np-top	hin	विय‌त‌नाम‌	np-top
-	eng	Western Sahara	np-top$np$np-top-sg	hin	प‌श्चिमी स‌हारा	np-top
+	eng	Western Sahara	np-top$np	hin	प‌श्चिमी स‌हारा	np-top
 	eng	Yemen	np-top$np$np-top-sg	hin	य‌म‌न‌	np-top
 	eng	Zambia	np-top$np$np-top-sg	hin	ज़ाम्बीया	np-top
 	eng	Zimbabwe	np-top$np$np-top-sg	hin	ज़िम्बाब्वे	np-top
-	eng	Andhra Pradesh	np-top$np$np-top-sg	hin	आंध्र प्रदेश	np-top
+	eng	Andhra Pradesh	np-top$np	hin	आंध्र प्रदेश	np-top
 	eng	Hyderabad	np$np-top	hin	हैदराबाद	np-top
 	eng	Arunachal Pradesh	np-top	hin	अरुणाचल प्रदेश	np-top
 	eng	Assam	np$np-top	hin	असम	np$np-top
@@ -18291,7 +18291,7 @@
 	eng	Gandhinagar	np-top	hin	गांधीनगर	np-top
 	eng	Haryana	np-top	hin	हरियाणा	np-top
 	eng	Chandigarh	np-top	hin	चंडीगढ़	np-top
-	eng	Himachal Pradesh	np-top$np$np-top-sg	hin	हिमाचल प्रदेश	np-top
+	eng	Himachal Pradesh	np-top$np	hin	हिमाचल प्रदेश	np-top
 	eng	Shimla	np$np-top	hin	शिमला	np-top
 	eng	Jammu and Kashmir	np-top	hin	जम्मू एण्ड कश्मीर	np-top
 	eng	Srinagar and Jammu	np-top	hin	श्रीनगर और जम्मू	np-top
@@ -18387,7 +18387,7 @@
 	eng	Ujjain	np$np-top	hin	उज्जैन	np-top
 	eng	Sydney	np-top-sg$np-top	hin	सिडनी	np$np-top
 	eng	Netherlands	np$np-top$np-top-sg	hin	नीदरलैंड	np-top
-	eng	Berlin	np-top$np$np-top-sg	hin	बर्लिन	np-top
+	eng	Berlin	np-top$np$np-top-sg$np-top-m-sg	hin	बर्लिन	np-top
 	eng	Manchester	np$np-top$np-top-sg	hin	मैनचेस्टर	np-top
 	eng	Denmark	np-top$np$np-top-sg	hin	डेनमार्क	np-top
 	eng	Afganistan	np$np-top	hin	अफ़ग़ानिस्तान	np-top
@@ -20699,9 +20699,9 @@
 	eng	allegorical	adj	hin	रूपकात्मक	adj
 	eng	alliterative	adj	hin	सानुप्रास	adj
 	eng	allowable	adj	hin	अनुज्ञेय	adj
-	eng	all	adj$	hin	अखिल	adj
-	eng	all	adj$	hin	सब	adj$
-	eng	all	adj$	hin	सर्व	adj
+	eng	all	adj	hin	अखिल	adj
+	eng	all	adj	hin	सब	adj$
+	eng	all	adj	hin	सर्व	adj
 	eng	alluvial	adj	hin	सैलाबी	adj
 	eng	alphabetical	adj	hin	वर्णमालानुसार	adj
 	eng	alternate	adj	hin	एकान्तरत	adj
@@ -22330,7 +22330,7 @@
 	eng	foster	adj	hin	मुँहबोला	adj
 	eng	foul	adj$adj-sint	hin	अभद्र	adj
 	eng	fourfold	adj	hin	चौगुना	adj
-	eng	four	adj	hin	चार	adj
+	eng	four	adj$adj-ord	hin	चार	adj
 	eng	fourteen	adj	hin	चौदह	adj
 	eng	fourteenth	adj-ord$adj	hin	चौदहवाँ	adj
 	eng	fourteenth	adj-ord$adj	hin	चौदह्वाँ	adj
@@ -24983,7 +24983,7 @@
 	eng	serpentine	adj	hin	सर्पिल	adj
 	eng	servile	adj	hin	जीहुज़ूरिया	adj-m
 	eng	set	adj	hin	निर्धारित	adj
-	eng	seven	adj	hin	सप्त	adj
+	eng	seven	adj$adj-ord	hin	सप्त	adj
 	eng	seventeenth	adj-ord$adj	hin	सत्तरहवाँ	adj
 	eng	seventh	adj-ord$adj	hin	सातवा	adj
 	eng	seventh	adj-ord$adj	hin	सातवाँ	adj
@@ -27130,8 +27130,8 @@
 	eng	offshore	adv	hin	अपतट	adv
 	eng	retail	adv	hin	खुदरा	adv
 	eng	bodily	adv	hin	सशरीर	adv
-	eng	all	adv	hin	सभी	adv
-	eng	all	adv	hin	सारे	adv
+	eng	all	adv$	hin	सभी	adv
+	eng	all	adv$	hin	सारे	adv
 	eng	northeast	adv	hin	उत्तरपूर्व	adv
 	eng	conveniently	adv	hin	सुविधापूर्वक	adv
 	eng	directly	adv	hin	सीधे	adv

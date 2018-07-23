@@ -1,9 +1,9 @@
 	eng	most	det-qnt$det-qnt-sp$det	ita	la maggioranza di	det-qnt-mf-sp
-	eng	more	det-qnt$det-qnt-sp$det	ita	più	det-qnt-mf-sp
+	eng	more	det-qnt-sp$det-qnt$det	ita	più	det-qnt-mf-sp
 LR	eng	a	det-ind-sg$det-ind$det$	ita	un	det-ind-GD
-RL	eng	a	det-ind-sg$det-ind$det$	ita	un	det-ind-m-sg$det$det-ind$det-ind-m
+RL	eng	a	det-ind-sg$det-ind$det$	ita	un	det-ind-m-sg$$det$det-ind$det-ind-m
 RL	eng	a	det-ind-sg$det-ind$det$	ita	un	det-ind-f-sg$det-ind-f
-LR	eng	a few	det-qnt-pl$det$det-qnt	ita	poco	det-ind-GD-pl$det-ind
+LR	eng	a few	det$det-qnt$det-qnt-pl	ita	poco	det-ind-GD-pl$det-ind
 RL	eng	a few	det-qnt-sg	ita	poco	det-ind-m-sg
 RL	eng	a few	det-qnt-sg	ita	poco	det-ind-f-sg
 	eng	quite a lot of	det-qnt-sp$det$det-qnt	ita	un bel po' di	det-qnt-mf-sp
@@ -20,7 +20,7 @@ RL	eng	any	det-ind-sp$det-ind$det	ita	qualche	det-ind-mf$det$det-ind$det-ind-mf-
 RL	eng	any	det-ind-sp$det-ind$det	ita	qualsiasi	det-ind$det-ind-mf$det-ind-mf-sg$det
 	eng	any	det-ind-sp$det-ind$det	ita	qualunque	det-ind-mf-sg$det-ind$det
 RL	eng	any	det-ind-sp$det-ind$det	ita	nessuno	det-ind-mf-sp
-LR	eng	as much	det-qnt$det-qnt-sg$det	ita	tanto	det-ind-GD
+LR	eng	as much	det-qnt$det$det-qnt-sg	ita	tanto	det-ind-GD
 RL	eng	both	det-ind$det$det-ind-pl	ita	entrambi i	det-ind$det-ind-GD-pl
 LR	eng	both	det-ind$det$det-ind-pl	ita	entrambi i	det-ind$det-ind-GD-pl
 	eng	diverse	adj	ita	diverso	$adj$adj-sup
@@ -148,14 +148,14 @@ LR	eng	some	det-qnt$det-qnt-sp$det	ita	qualche	det-ind-mf$det$det-ind$det-ind-mf
 RL	eng	some	det-qnt$det-qnt-sp$det	ita	taluno	det-ind
 LR	eng	such	det-ind-sp$det-ind$det	ita	tale	det-dem-mf-ND$det-dem$det-dem-mf$det
 RL	eng	such	det-ind-sp$det-ind$det	ita	tale	det-dem-mf-ND$det-dem$det-dem-mf$det
-LR	eng	such a	det-ind$det$det-ind-sg	ita	tale	det-dem-mf-ND$det-dem$det-dem-mf$det
+LR	eng	such a	det-ind$det	ita	tale	det-dem-mf-ND$det-dem$det-dem-mf$det
 LR	eng	tenth	det$det-ord-sp$det-ord	ita	decimo	det$det-ord-GD-ND
 RL	eng	tenth	det$det-ord-sp$det-ord	ita	decimo	det$det-ord-GD-ND
 LR	eng	that	det-dem$det$det-dem-sg	ita	quello	det-dem$det-dem-GD-ND$det
 RL	eng	that	det-dem$det$det-dem-sg	ita	quello	det-dem$det-dem-GD-ND$det
 RL	eng	the	det$det-def-sp$det-def	ita	il	det-def$det$det-def-mf
 LR	eng	the	det$det-def-sp$det-def	ita	il	det-def-GD-ND$det-def-GD
-LR	eng	the most	det-qnt-sp$det$det-qnt	ita	la maggioranza di	det-qnt-mf-sp
+LR	eng	the most	det-qnt-sp$det	ita	la maggioranza di	det-qnt-mf-sp
 RL	eng	most of	det-qnt-sp$det	ita	la maggioranza di	det-qnt-mf-sp
 LR	eng	the same	det$det-ind-sp$det-ind	ita	lo stesso	det$det-ind-GD-ND
 RL	eng	the same	det$det-ind-sp$det-ind	ita	lo stesso	det$det-ind-GD-ND
@@ -229,14 +229,14 @@ RL	eng	kuwaiti	n	ita	kuwaitiano	n$n-GD
 	eng	abdominal	adj	ita	addominale	adj$adj-mf$
 	eng	aberrant	adj	ita	aberrante	adj-mf
 	eng	able	adj-sint$adj	ita	capace	$adj$adj-mf$adj-mf-pl
-LR	eng	greasy	adj$adj-sint	ita	grasso	adj$$adj-sup
+LR	eng	greasy	adj$adj-sint	ita	grasso	adj$adj-sup
 	eng	oily	adj$adj-sint	ita	unto	$adj
 	eng	tidy	adj$adj-sint	ita	ordinato	$adj
 	eng	abnormal	adj	ita	anormale	$adj$adj-mf
 	eng	absent	adj	ita	assente	$adj$adj-mf
 	eng	absolute	adj	ita	assoluto	$adj$adj-sup
 	eng	absorbed	adj	ita	assorto	$adj
-	eng	absorbent	adj	ita	assorbente	adj$$adj-mf
+	eng	absorbent	adj	ita	assorbente	adj$adj-mf
 	eng	abstract	adj$adj-sint	ita	astratto	adj$$adj-m-sg
 	eng	absurd	adj	ita	assurdo	$adj$adj-sup
 	eng	abundant	adj	ita	abbondante	adj-mf
@@ -714,7 +714,7 @@ LR	eng	college	adj	ita	universitario	adj$$adj-sup
 	eng	colonizable	adj	ita	colonizzabile	adj-mf
 	eng	colorimetric	adj	ita	colorimetrico	adj
 	eng	colossal	adj	ita	colossale	adj$$adj-mf
-	eng	colourant	adj	ita	colorante	adj$$adj-mf
+	eng	colourant	adj	ita	colorante	adj$adj-mf
 	eng	columnar	adj	ita	colonnare	adj-mf
 	eng	combed	adj	ita	pettinato	adj
 	eng	combinable	adj	ita	combinabile	adj-mf
@@ -736,7 +736,7 @@ RL	eng	common	adj$adj-sint	ita	corrente	adj$adj-mf
 	eng	competent	adj	ita	competente	adj$adj-mf
 	eng	competitive	adj	ita	competitivo	adj$
 	eng	complementary	adj	ita	complementare	adj-mf$adj
-	eng	complete	adj	ita	completo	$adj$adj-sup
+	eng	complete	adj	ita	completo	adj$adj-sup
 	eng	complex	adj	ita	complesso	adj$adj-sup
 	eng	composer	adj	ita	compositore	adj
 	eng	compound	adj	ita	composto	adj$$adj-sup
@@ -1013,7 +1013,7 @@ LR	eng	dreadful	adj	ita	terribile	$adj$adj-mf
 	eng	duplicate	adj	ita	duplicato	adj$adj-sup
 	eng	durable	adj	ita	durevole	$adj$adj-mf
 	eng	dutch	adj	ita	olandese	adj-mf$adj
-	eng	dutiful	adj	ita	obbediente	adj-mf
+	eng	dutiful	adj	ita	obbediente	adj-mf$
 	eng	dying	adj	ita	morente	adj-mf$
 	eng	dynamic	adj	ita	dinamico	adj$
 	eng	dynastic	adj	ita	dinastico	adj$adj-sup
@@ -1187,7 +1187,7 @@ RL	eng	famous	adj	ita	celebre	adj$$adj-mf
 	eng	fascist	adj	ita	fascista	$adj-m$adj
 	eng	fast	adj-sint$adj	ita	rapido	adj$$adj-sup
 RL	eng	fast	adj-sint$adj	ita	veloce	$adj$adj-mf-pl$adj-mf
-	eng	fat	adj$adj-sint	ita	grasso	adj$$adj-sup
+	eng	fat	adj$adj-sint	ita	grasso	adj$adj-sup
 	eng	fatal	adj	ita	fatale	adj$$adj-mf
 	eng	fateful	adj	ita	fatidico	$adj
 	eng	fathomless	adj	ita	insondabile	adj-mf$adj
@@ -1478,7 +1478,7 @@ LR	eng	huge	adj$adj-sint	ita	enorme	$adj$adj-mf
 	eng	humoral	adj	ita	umorale	adj-mf
 	eng	humorous	adj	ita	umoristico	$adj$adj-sup
 	eng	hungarian	adj	ita	ungherese	adj-mf$adj
-	eng	hungry	adj-sint$adj	ita	affamato	adj$
+	eng	hungry	adj-sint$adj	ita	affamato	$adj
 	eng	hurtful	adj$adj-sint	ita	pregiudizievole	adj$adj-mf$
 	eng	hybrid	adj	ita	ibrido	adj$adj-sup
 	eng	hydraulic	adj	ita	idraulico	adj$adj-sup
@@ -1842,7 +1842,7 @@ RL	eng	likely	adj$adj-sint	ita	verosimile	adj$$adj-mf
 	eng	linear	adj	ita	lineare	$adj$adj-mf
 	eng	lingual	adj	ita	linguale	adj-mf
 	eng	linguistic	adj	ita	linguistico	adj$$adj-sup
-	eng	liquid	adj	ita	liquido	adj$$adj-sup
+	eng	liquid	adj	ita	liquido	adj$adj-sup
 	eng	literal	adj	ita	letterale	adj$$adj-mf
 	eng	literary	adj	ita	letterario	adj$$adj-sup
 	eng	literate	adj	ita	colto	adj$$adj-sup
@@ -1918,7 +1918,7 @@ LR	eng	mammal	adj	ita	mammifero	adj$$adj-sup
 LR	eng	masterful	adj	ita	magistrale	adj$adj-mf$
 	eng	mat	adj	ita	matto	$adj$adj-sup
 	eng	matchless	adj	ita	ineguagliabile	$adj$adj-mf
-	eng	material	adj	ita	materiale	adj$$adj-mf
+	eng	material	adj	ita	materiale	adj$adj-mf
 	eng	maternal	adj	ita	materno	adj$adj-GD$
 	eng	mathematical	adj	ita	matematico	$adj$adj-sup
 	eng	matrilineal	adj	ita	matrilineare	adj-mf
@@ -2072,7 +2072,7 @@ LR	eng	numberless	adj	ita	innumerevole	adj$adj-mf$
 	eng	nuptial	adj	ita	nuziale	adj-mf$$adj
 	eng	nutritional	adj	ita	nutrizionale	adj-mf
 	eng	nutritious	adj	ita	nutritivo	$adj$adj-sup
-LR	eng	obedient	adj	ita	obbediente	adj-mf
+LR	eng	obedient	adj	ita	obbediente	adj-mf$
 	eng	obese	adj	ita	obeso	$adj
 	eng	objective	adj	ita	obiettivo	adj
 	eng	obliged	adj	ita	obbligato	$adj
@@ -2318,7 +2318,7 @@ LR	eng	preventable	adj	ita	evitabile	adj-mf$adj
 	eng	preventive	adj	ita	preventivo	adj$adj-sup
 LR	eng	previous	adj	ita	anteriore	$adj$adj-mf
 RL	eng	previous	adj	ita	previo	adj
-	eng	prime	adj	ita	primo	$adj$adj-ord
+	eng	prime	adj	ita	primo	adj$adj-ord
 	eng	primitive	adj	ita	primitivo	$adj
 LR	eng	principal	adj	ita	principale	$adj$adj-mf
 LR	eng	prior	adj	ita	previo	adj
@@ -2393,7 +2393,7 @@ LR	eng	reactionary	n	ita	reazionario	n$n-GD
 	eng	recurrent	adj	ita	ricorrente	$adj-mf$adj
 	eng	recyclable	adj	ita	riciclabile	adj-mf
 LR	eng	recycleable	adj	ita	riciclabile	adj-mf
-	eng	red	adj$adj-sint	ita	rosso	adj$$adj-sup
+	eng	red	adj$adj-sint	ita	rosso	adj$adj-sup
 	eng	reddish	adj	ita	rossastro	adj
 	eng	reducible	adj	ita	riducibile	adj-mf
 	eng	referent	adj	ita	referente	adj$adj-mf
@@ -2942,7 +2942,7 @@ LR	eng	world-wide	adj	ita	mondiale	adj$$adj-mf
 LR	eng	worldly	adj$adj-sint	ita	mondano	adj$$adj-m
 	eng	worrisome	adj	ita	preoccupante	$adj$adj-mf
 LR	eng	worthwhile	adj	ita	interessante	adj$$adj-mf
-	eng	worthy	adj$adj-sint	ita	degno	adj$$adj-sup
+	eng	worthy	adj$adj-sint	ita	degno	$adj$adj-sup
 	eng	written	adj$	ita	scritto	adj$adj-sup
 	eng	wrong	adj$adj-sint	ita	incorretto	adj
 	eng	xenophobe	adj	ita	xenofobo	adj
@@ -3255,10 +3255,10 @@ LR	eng	Abbott	np-cog-pl	ita	Abbott	np-cog-mf-sp$np
 	eng	Abdel	np-ant$np$np-ant-m$np-ant-m-sg	ita	Abdel	np-ant
 	eng	Abdiel	np-ant$np$np-ant-m-sg	ita	Abdiel	np-ant
 	eng	Abdo	np-ant$np-ant-m$$np$np-ant-m-sg	ita	Abdo	np-ant
-	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg	ita	Abdul	np-ant
+	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m	ita	Abdul	np-ant
 LR	eng	Abdul-Hamid	np-ant	ita	Abdul-Hamid	np-ant
 	eng	Abdul Hamid	np-ant	ita	Abdul-Hamid	np-ant
-	eng	Abdul Hamid II	np-ant$np-ant-m-sg	ita	Abdul Hamid II	np-ant
+	eng	Abdul Hamid II	np-ant	ita	Abdul Hamid II	np-ant
 	eng	Abdulla	np-ant$np$np-ant-m-sg$np-ant-m	ita	Abdulla	np-ant
 	eng	Abdullah	np-ant$np$np-ant-m-sg$np-ant-m	ita	Abdullah	np-ant
 	eng	Abdullah Ahmad Badawi	np-ant$np-ant-m-sg	ita	Abdullah Ahmad Badawi	np-ant
@@ -3286,21 +3286,21 @@ LR	eng	The Gambia	np-loc	ita	Gambia	np-loc-m
 	eng	Mississippi	np$np-loc	ita	Mississippi	np-loc-m
 	eng	Nagasaki	np-loc	ita	Nagasaki	np-loc-m
 	eng	Metallica	np-al$np-al-sg	ita	Metallica	np-al-m
-	eng	Waiting for Godot	np-al$np-al-sg	ita	Aspettando Godot	np-al-m
-	eng	Warsaw Pact	np-al$np-al-sg	ita	Patto di Varsavia	np-al-m
-	eng	Treaty of Friendship, Cooperation and Mutual Assistance	np-al$np-al-sg	ita	Trattato di amicizia, cooperazione e mutua assistenza	np-al-m
+	eng	Waiting for Godot	np-al	ita	Aspettando Godot	np-al-m
+	eng	Warsaw Pact	np-al	ita	Patto di Varsavia	np-al-m
+	eng	Treaty of Friendship, Cooperation and Mutual Assistance	np-al	ita	Trattato di amicizia, cooperazione e mutua assistenza	np-al-m
 	eng	Mozilla	np-al$np-al-sg	ita	Mozilla	np-al-m
-	eng	New York Stock Exchange	np-al$np-al-sg	ita	New York Stock Exchange	np-al-m
-	eng	North Atlantic Treaty Organization	np-al$np-al-sg	ita	Organizzazione del Trattato Nord Atlantico	np-al-f
-	eng	Paris Bourse	np-al$np-al-sg	ita	Borsa di Parigi	np-al-f
-	eng	Phoney War	np-al$np-al-sg	ita	Finta guerra	np-al-f
-	eng	Prague Spring	np-al$np-al-sg	ita	Primavera di Praga	np-al-f
-LR	eng	Second World War	np-al$np-al-sg	ita	Seconda guerra mondiale	np-al-f
-	eng	S&P 500	np-al$np-al-sg	ita	S&P 500	np-al-m
-	eng	S&P TSX	np-al$np-al-sg	ita	S&P TSX	np-al-m
+	eng	New York Stock Exchange	np-al	ita	New York Stock Exchange	np-al-m
+	eng	North Atlantic Treaty Organization	np-al	ita	Organizzazione del Trattato Nord Atlantico	np-al-f
+	eng	Paris Bourse	np-al	ita	Borsa di Parigi	np-al-f
+	eng	Phoney War	np-al	ita	Finta guerra	np-al-f
+	eng	Prague Spring	np-al	ita	Primavera di Praga	np-al-f
+LR	eng	Second World War	np-al	ita	Seconda guerra mondiale	np-al-f
+	eng	S&P 500	np-al	ita	S&P 500	np-al-m
+	eng	S&P TSX	np-al	ita	S&P TSX	np-al-m
 	eng	Telefónica	np-al$np$np-al-sg	ita	Telefónica	np-al-f
-	eng	The New York Times	np-al$np-al-sg	ita	The New York Times	np-al-m
-	eng	Treaty establishing a Constitution for Europe	np-al$np-al-sg	ita	Trattato che adotta una Costituzione per l'Europa	np-al-m
+	eng	The New York Times	np-al	ita	The New York Times	np-al-m
+	eng	Treaty establishing a Constitution for Europe	np-al	ita	Trattato che adotta una Costituzione per l'Europa	np-al-m
 	eng	United Nations	np$np-al$np-al-pl	ita	Organizzazione delle Nazioni Unite	np-al-f-sg
 	eng	VeriSign	np-al$np-al-sg	ita	VeriSign	np-al-m
 	eng	Abigail	np-ant$np$np-ant-f-sg	ita	Abigail	np-ant
@@ -3468,7 +3468,7 @@ LR	eng	Agulló	np-cog-pl	ita	Agulló	np-cog-mf-sp$np
 	eng	Agustin	np-ant$np$np-ant-m$np-ant-m-sg	ita	Agustin	np-ant
 	eng	Agustina	np-ant$np$np-ant-f-sg	ita	Agustina	np-ant
 	eng	Agusttin	np-ant$np$np-ant-m-sg	ita	Agusttin	np-ant
-	eng	Agustín	np-ant$np$np-ant-m$np-ant-m-sg	ita	Agustín	np-ant$np$np-ant-m-sg
+	eng	Agustín	np-ant$np-ant-m-sg$np$np-ant-m	ita	Agustín	np-ant$np$np-ant-m-sg
 	eng	Ahern	np-cog-sg$np-cog$$np	ita	Ahern	np-cog-mf-sp$np$np-cog-mf
 LR	eng	Ahern	np-cog-pl	ita	Ahern	np-cog-mf-sp$np$np-cog-mf
 	eng	Ahmad	np-ant$np$np-ant-m$np-ant-m-sg$	ita	Ahmad	np-ant
@@ -3490,7 +3490,7 @@ LR	eng	Ahern	np-cog-pl	ita	Ahern	np-cog-mf-sp$np$np-cog-mf
 	eng	Ainará	np-ant$np$np-ant-f-sg	ita	Ainará	np-ant
 	eng	Aingeru	np-ant$np-ant-m-sg	ita	Aingeru	np-ant
 	eng	Ainhoa	np$np-ant$np-ant-f-sg	ita	Ainhoa	np-ant
-	eng	Ainhoa Arteta	np-ant$np-ant-f-sg	ita	Ainhoa Arteta	np-ant
+	eng	Ainhoa Arteta	np-ant	ita	Ainhoa Arteta	np-ant
 	eng	Ainsley	np-ant$$np$np-ant-f-sg	ita	Ainsley	np-ant
 	eng	Aintzane	np-ant$np-ant-f-sg	ita	Aintzane	np-ant
 	eng	Aisha	np-ant$np$np-ant-f$np-ant-f-sg	ita	Aisha	np-ant
@@ -3616,7 +3616,7 @@ LR	eng	Aleixandre	np-cog-pl	ita	Aleixandre	np-cog-mf-sp$np
 	eng	Magdalen Islands	np-loc	ita	Isole Magdalen	np-loc-f
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	ita	Alex	np-ant$np-ant-m$np-ant-m-sg
 	eng	Alexa	np-ant$np-ant-f-sg$np$np-ant-f	ita	Alexa	np-ant
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	ita	Alexander	np-ant$np-ant-m$np-ant-m-sg
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	ita	Alexander	np-ant$np-ant-m$np-ant-m-sg
 	eng	Alexander the Great	np-ant$np-ant-m$np-ant-m-sg	ita	Alessandro Magno	np-ant$np-ant-m
 	eng	Alexandr	np-ant$np-ant-m-sg	ita	Alexandr	np-ant
 	eng	Alexandra	np-ant$np$np-ant-f-sg$np-ant-f	ita	Alexandra	np-ant
@@ -3687,29 +3687,29 @@ LR	eng	Algarra	np-cog-pl	ita	Algarra	np-cog-mf-sp$np
 	eng	Aliénor	np-ant$np-ant-f-sg	ita	Aliénor	np-ant
 	eng	Alkos	np-ant$np$np-ant-m-sg	ita	Alkos	np-ant
 	eng	All Saints' Day	np-al	ita	Ognissanti	np-al-m
-	eng	20th Century Fox	np-al$np-al-sg	ita	20th Century Fox	np-al-m
-	eng	Alice in Chains	np-al$np-al-sg	ita	Alice in Chains	np-al-m
-	eng	Battle of Austerlitz	np-al$np-al-sg	ita	Battaglia di Austerlitz	np-al-f
+	eng	20th Century Fox	np-al	ita	20th Century Fox	np-al-m
+	eng	Alice in Chains	np-al	ita	Alice in Chains	np-al-m
+	eng	Battle of Austerlitz	np-al	ita	Battaglia di Austerlitz	np-al-f
 	eng	Boeing	np-al$np-al-sg$np	ita	Boeing	np-al-m
-	eng	CAC 40	np-al$np-al-sg	ita	CAC 40	np-al-m
-	eng	Duran Duran	np-al$np-al-sg	ita	Duran Duran	np-al-m
-	eng	European Defence Agency	np-al$np-al-sg	ita	Agenzia europea per la difesa	np-al-f
+	eng	CAC 40	np-al	ita	CAC 40	np-al-m
+	eng	Duran Duran	np-al	ita	Duran Duran	np-al-m
+	eng	European Defence Agency	np-al	ita	Agenzia europea per la difesa	np-al-f
 	eng	Facebook	np-al$np$np-al-sg	ita	Facebook	np-al-m$np-al-m-sg
-LR	eng	First World War	np-al$np-al-sg	ita	Prima guerra mondiale	np-al-f
-	eng	Fortune 500	np-al$np-al-sg	ita	Fortune 500	np-al-m
-	eng	FTSE 100	np-al$np-al-sg	ita	FTSE 100	np-al-m
+LR	eng	First World War	np-al	ita	Prima guerra mondiale	np-al-f
+	eng	Fortune 500	np-al	ita	Fortune 500	np-al-m
+	eng	FTSE 100	np-al	ita	FTSE 100	np-al-m
 	eng	German Democratic Republic	np-al	ita	Repubblica Democratica Tedesca	np-al-f
 	eng	Federal Republic of Germany	np-al	ita	Repubblica Federale di Germania	np-al-f
-	eng	Great Depression	np-al$np-al-sg	ita	Grande depressione	np-al-f
-LR	eng	Great War	np-al$np-al-sg	ita	Prima guerra mondiale	np-al-f
-	eng	International Bank for Reconstruction and Development	np-al$np-al-sg	ita	Banca Internazionale per la Ricostruzione e lo Sviluppo	np-al-f
-	eng	International Monetary Fund	np-al$np$np-al-sg	ita	Fondo Monetario Internazionale	np-al-m
+	eng	Great Depression	np-al	ita	Grande depressione	np-al-f
+LR	eng	Great War	np-al	ita	Prima guerra mondiale	np-al-f
+	eng	International Bank for Reconstruction and Development	np-al	ita	Banca Internazionale per la Ricostruzione e lo Sviluppo	np-al-f
+	eng	International Monetary Fund	np-al$np	ita	Fondo Monetario Internazionale	np-al-m
 	eng	Koran	np-al$np-al-sg$np	ita	Corano	np-al-m
 	eng	Apertium	np-al$np$np-al-sg	ita	Apertium	np-al-m
 	eng	Napster	np-al$np-al-sg	ita	Napster	np-al-m$np-al-m-sg$np
-	eng	World Bank	np-al$np-al-sg	ita	Banca Mondiale	np-al-f
-	eng	Le Monde	np-al$np-al-sg	ita	Le Monde	np-al-m
-	eng	Los Alamos National Laboratory	np-al$np-al-sg	ita	Los Alamos National Laboratory	np-al-m
+	eng	World Bank	np-al	ita	Banca Mondiale	np-al-f
+	eng	Le Monde	np-al	ita	Le Monde	np-al-m
+	eng	Los Alamos National Laboratory	np-al	ita	Los Alamos National Laboratory	np-al-m
 	eng	Allah	np-ant$np-ant-m$np-ant-m-sg	ita	Allah	np-ant$np-ant-m$np$np-ant-m-sg
 	eng	Allan	np-ant$np$np-ant-m$np-ant-m-sg$	ita	Allan	np-ant
 	eng	Allegra	np-ant$np$np-ant-f-sg	ita	Allegra	np-ant$np-ant-f
@@ -3733,7 +3733,7 @@ LR	eng	Almodóvar	np-cog-pl	ita	Almodóvar	np-cog-mf-sp$np
 	eng	Almudena	np-ant$np$np-ant-f-sg	ita	Almudena	np-ant
 	eng	Almunia	np-cog$np-cog-sg$	ita	Almunia	np-cog-mf-sp$np
 LR	eng	Almunia	np-cog-pl	ita	Almunia	np-cog-mf-sp$np
-	eng	Almunia Amann	np-cog-sg$$np-cog	ita	Almunia Amann	np-cog-mf-sp
+	eng	Almunia Amann	np-cog-sg$np-cog	ita	Almunia Amann	np-cog-mf-sp
 LR	eng	Almunia Amann	np-cog-pl	ita	Almunia Amann	np-cog-mf-sp
 	eng	Alomías	np-ant$np$np-ant-m-sg	ita	Alomías	np-ant
 	eng	Alondra	np-ant$np$np-ant-f-sg	ita	Alondra	np-ant
@@ -3792,7 +3792,7 @@ LR	eng	Alvarez	np-cog-pl	ita	Alvarez	np-cog-mf-sp
 	eng	Amandio	np-ant$np$np-ant-m-sg	ita	Amandio	np-ant
 	eng	Amando	np-ant$np$np-ant-m-sg	ita	Amando	np-ant$np-ant-m
 	eng	Amani	np-ant$np$np-ant-f-sg	ita	Amani	np-ant
-	eng	Amano Hiroshi	np-ant$np$np-ant-m-sg	ita	Amano Hiroshi	np-ant
+	eng	Amano Hiroshi	np-ant$np	ita	Amano Hiroshi	np-ant
 	eng	Amapola	np-ant$np$np-ant-f-sg	ita	Amapola	np-ant
 	eng	Amara	np-ant$np$np-ant-f-sg	ita	Amara	np-ant
 	eng	Amaranta	np-ant$np$np-ant-f-sg	ita	Amaranta	np-ant$np-ant-f
@@ -3829,7 +3829,7 @@ LR	eng	Alvarez	np-cog-pl	ita	Alvarez	np-cog-mf-sp
 	eng	Amira	np-ant$np-ant-f$np-ant-f-sg$np	ita	Amira	np-ant
 	eng	Ammiel	np-ant$np$np-ant-m-sg	ita	Ammiel	np-ant
 	eng	Amneris	np-ant$np$np-ant-f-sg	ita	Amneris	np-ant
-	eng	Amor Pérez	np-cog-sg$$np-cog	ita	Amor Pérez	np-cog-mf-sp
+	eng	Amor Pérez	np-cog-sg$np-cog	ita	Amor Pérez	np-cog-mf-sp
 LR	eng	Amor Pérez	np-cog-pl	ita	Amor Pérez	np-cog-mf-sp
 	eng	Amorette	np-ant$np-ant-f-sg	ita	Amorette	np-ant
 	eng	Amorina	np-ant$np$np-ant-f-sg	ita	Amorina	np-ant
@@ -3956,7 +3956,7 @@ LR	eng	Amor Pérez	np-cog-pl	ita	Amor Pérez	np-cog-mf-sp
 	eng	Antoliano	np-ant$np$np-ant-m-sg	ita	Antoliano	np-ant
 	eng	Antolín	np-ant$np$np-ant-m-sg	ita	Antolín	np-ant
 	eng	Anton	np-ant$np-ant-m-sg$np$np-ant-m	ita	Anton	np-ant$np-ant-m
-	eng	Antoni	np$np-ant$np-ant-m-sg	ita	Antoni	np-ant$np-ant-m
+	eng	Antoni	np$np-ant-m-sg$np-ant	ita	Antoni	np-ant$np-ant-m
 	eng	Antonia	np-ant$np$np-ant-f-sg	ita	Antonia	np-ant-f$np-ant
 	eng	Antonietta	np-ant$np-ant-f-sg	ita	Antonietta	np-ant$np-ant-f
 	eng	Antonin	np-ant$np$np-ant-m-sg	ita	Antonin	np-ant
@@ -4066,7 +4066,7 @@ LR	eng	Arjona	np-cog-pl	ita	Arjona	np-cog-mf-sp$np
 	eng	Armengol	np-ant$np$np-ant-m-sg	ita	Armengol	np-ant
 	eng	Armenia	np-loc	ita	Armenia	np-loc-f$np-loc-f-sg
 	eng	Armentario	np-ant$np$np-ant-m-sg	ita	Armentario	np-ant
-	eng	Armindo de Jesus de Sousa Ribeiro	np-ant$np$np-ant-m-sg	ita	Armindo de Jesus de Sousa Ribeiro	np-ant
+	eng	Armindo de Jesus de Sousa Ribeiro	np-ant$np	ita	Armindo de Jesus de Sousa Ribeiro	np-ant
 	eng	Armintario	np-ant$np$np-ant-m-sg	ita	Armintario	np-ant
 	eng	Armstrong	np-cog-sg$np$$np-cog	ita	Armstrong	np-cog-mf-sp$np$np-cog-mf
 LR	eng	Armstrong	np-cog-pl	ita	Armstrong	np-cog-mf-sp$np$np-cog-mf
@@ -4284,7 +4284,7 @@ LR	eng	Barclay	np-cog-pl	ita	Barclay	np-cog-mf-sp
 	eng	Baroncio	np-ant$np$np-ant-m-sg	ita	Baroncio	np-ant
 	eng	Barreda	np-cog-sg$$np-cog	ita	Barreda	np-cog-mf-sp$np
 LR	eng	Barreda	np-cog-pl	ita	Barreda	np-cog-mf-sp$np
-	eng	Barreda Fontes	np-cog-sg$$np-cog	ita	Barreda Fontes	np-cog-mf-sp
+	eng	Barreda Fontes	np-cog-sg$np-cog	ita	Barreda Fontes	np-cog-mf-sp
 LR	eng	Barreda Fontes	np-cog-pl	ita	Barreda Fontes	np-cog-mf-sp
 	eng	Barrett	np-ant$np-ant-m-sg$$np$np-ant-m	ita	Barrett	np-ant
 	eng	Barroso	np-cog-sg$np$np-cog$	ita	Barroso	np-cog-mf-sp$np
@@ -4370,22 +4370,22 @@ LR	eng	Bell	np-cog-pl	ita	Bell	np-cog-mf-sp$np-cog-mf
 	eng	Benazir	np-ant$np-ant-f-sg$np	ita	Benazir	np-ant
 	eng	Benedetta	np-ant$np-ant-f-sg	ita	Benedetta	np-ant$np-ant-f
 	eng	Benedetto	np-ant$np-ant-m-sg	ita	Benedetto	np-ant-m$np-ant
-	eng	Benedict I	np-ant$np-ant-m-sg	ita	Benedetto I	np-ant
-	eng	Benedict II	np-ant$np-ant-m-sg	ita	Benedetto II	np-ant
-	eng	Benedict III	np-ant$np-ant-m-sg	ita	Benedetto III	np-ant
-	eng	Benedict IV	np-ant$np-ant-m-sg	ita	Benedetto IV	np-ant
-	eng	Benedict IX	np-ant$np-ant-m-sg	ita	Benedetto IX	np-ant
-	eng	Benedict V	np-ant$np-ant-m-sg	ita	Benedetto V	np-ant
-	eng	Benedict VI	np-ant$np-ant-m-sg	ita	Benedetto VI	np-ant
-	eng	Benedict VII	np-ant$np-ant-m-sg	ita	Benedetto VII	np-ant
-	eng	Benedict VIII	np-ant$np-ant-m-sg	ita	Benedetto VIII	np-ant
-	eng	Benedict X	np-ant$np-ant-m-sg	ita	Benedetto X	np-ant
-	eng	Benedict XI	np-ant$np-ant-m-sg	ita	Benedetto XI	np-ant
-	eng	Benedict XII	np-ant$np-ant-m-sg	ita	Benedetto XII	np-ant
-	eng	Benedict XIII	np-ant$np-ant-m-sg	ita	Benedetto XIII	np-ant
-	eng	Benedict XIV	np-ant$np$np-ant-m-sg	ita	Benedetto XIV	np-ant
-	eng	Benedict XV	np-ant$np$np-ant-m-sg	ita	Benedetto XV	np-ant
-	eng	Benedict XVI	np-ant$np$np-ant-m-sg	ita	Benedetto XVI	np-ant
+	eng	Benedict I	np-ant	ita	Benedetto I	np-ant
+	eng	Benedict II	np-ant	ita	Benedetto II	np-ant
+	eng	Benedict III	np-ant	ita	Benedetto III	np-ant
+	eng	Benedict IV	np-ant	ita	Benedetto IV	np-ant
+	eng	Benedict IX	np-ant	ita	Benedetto IX	np-ant
+	eng	Benedict V	np-ant	ita	Benedetto V	np-ant
+	eng	Benedict VI	np-ant	ita	Benedetto VI	np-ant
+	eng	Benedict VII	np-ant	ita	Benedetto VII	np-ant
+	eng	Benedict VIII	np-ant	ita	Benedetto VIII	np-ant
+	eng	Benedict X	np-ant	ita	Benedetto X	np-ant
+	eng	Benedict XI	np-ant	ita	Benedetto XI	np-ant
+	eng	Benedict XII	np-ant	ita	Benedetto XII	np-ant
+	eng	Benedict XIII	np-ant	ita	Benedetto XIII	np-ant
+	eng	Benedict XIV	np-ant$np	ita	Benedetto XIV	np-ant
+	eng	Benedict XV	np-ant$np	ita	Benedetto XV	np-ant
+	eng	Benedict XVI	np-ant$np	ita	Benedetto XVI	np-ant
 	eng	Benedicta	np-ant$np$np-ant-f-sg	ita	Benedicta	np-ant
 	eng	Benedicto	np-ant$np$np-ant-m-sg	ita	Benedicto	np-ant
 	eng	Benedikto	np-ant$np-ant-m-sg	ita	Benedikto	np-ant
@@ -4548,8 +4548,8 @@ LR	eng	Bonaparte	np-cog-pl	ita	Bonaparte	np-cog-mf-sp$np$np-cog$np-cog-mf
 	eng	Bonifacio	np-ant$np$np-ant-m-sg	ita	Bonifacio	np-ant$np-ant-m
 	eng	Bonina	np-ant$np$np-ant-f-sg	ita	Bonina	np-ant
 	eng	Bonita	np-ant$np$np-ant-f-sg	ita	Bonita	np-ant
-	eng	Bono	np-ant$np-ant-m$np-ant-m-sg	ita	Bono	np-ant$np-ant-m
-	eng	Bono Martinez	np-cog-sg$$np-cog	ita	Bono Martinez	np-cog-mf-sp
+	eng	Bono	np-ant$np-ant-m$np-ant-m-sg$	ita	Bono	np-ant$np-ant-m
+	eng	Bono Martinez	np-cog-sg$np-cog	ita	Bono Martinez	np-cog-mf-sp
 LR	eng	Bono Martinez	np-cog-pl	ita	Bono Martinez	np-cog-mf-sp
 	eng	Borbone	np-cog-sg$$np-cog	ita	Borbone	np-cog-mf-sp$np$np-cog$np-cog-mf
 LR	eng	Borbone	np-cog-pl	ita	Borbone	np-cog-mf-sp$np$np-cog$np-cog-mf
@@ -5171,7 +5171,7 @@ LR	eng	Coen	np-cog-pl	ita	Coen	np-cog-mf-sp$np
 	eng	Cohen	np-cog-sg$np-cog$np$	ita	Cohen	np-cog-mf-sp$np$np-cog-mf
 LR	eng	Cohen	np-cog-pl	ita	Cohen	np-cog-mf-sp$np$np-cog-mf
 	eng	Colby	np-ant$np-ant-m-sg$$np$np-ant-m	ita	Colby	np-ant
-	eng	Cold War	np-al$np$np-al-sg	ita	Guerra fredda	np-al-f
+	eng	Cold War	np-al$np	ita	Guerra fredda	np-al-f
 	eng	Cole	np-ant$np$np-ant-m-sg$$np-ant-m	ita	Cole	np-ant
 	eng	Coleman	np-ant$np$np-ant-m-sg$$np-ant-m	ita	Coleman	np-ant$np-ant-m
 	eng	Colette	np-ant$np-ant-f-sg	ita	Colette	np-ant
@@ -5264,7 +5264,7 @@ LR	eng	Cosby	np-cog-pl	ita	Cosby	np-cog-mf-sp
 	eng	Costa Rica	np-loc	ita	Costa Rica	np-loc-f$np-loc-f-sg
 	eng	Costantino	np-ant$np-ant-m-sg	ita	Costantino	np-ant-m$np-ant
 	eng	Costanzo	np-ant$$np-ant-m-sg	ita	Costanzo	np-ant$np-ant-m
-	eng	Count Dracula	np-ant$np-ant-m-sg	ita	Conte Dracula	np-ant
+	eng	Count Dracula	np-ant	ita	Conte Dracula	np-ant
 	eng	Court of Auditors	np-al	ita	Corte dei conti	np-al-f
 	eng	Courtney	np-ant$np$np-ant-f-sg	ita	Courtney	np-ant
 	eng	Cowen	np-cog-sg$np-cog$	ita	Cowen	np-cog-mf-sp$np
@@ -5881,7 +5881,7 @@ LR	eng	Eiffel	np-cog-pl	ita	Eiffel	np-cog-mf-sp$np$np-cog$np-cog-mf
 	eng	Einstein	np-cog-sg$np-cog$$np	ita	Einstein	np-cog-mf-sp$np-cog$np-cog-mf
 LR	eng	Einstein	np-cog-pl	ita	Einstein	np-cog-mf-sp$np-cog$np-cog-mf
 	eng	Eitel	np-ant$np$np-ant-m-sg	ita	Eitel	np-ant
-LR	eng	El Greco	np-ant$np-ant-m-sg	ita	El Greco	np-ant$np
+LR	eng	El Greco	np-ant	ita	El Greco	np-ant$np
 	eng	El Puig	np-loc	ita	Puig	np-loc-m$np-loc$np$np-loc-m-sg
 	eng	ElBaradei	np-cog-sg$np-cog$	ita	ElBaradei	np-cog-mf-sp$np
 LR	eng	ElBaradei	np-cog-pl	ita	ElBaradei	np-cog-mf-sp$np
@@ -6239,7 +6239,7 @@ LR	eng	Falklands	np-loc$np	ita	Isole Falkland	np-loc-f$np$np-loc-f-pl
 	eng	Fantine	np-ant$np$np-ant-f-sg	ita	Fantine	np-ant
 	eng	Fany	np-ant$np$np-ant-f-sg	ita	Fany	np-ant
 	eng	Fara	np-ant$np$np-ant-f-sg	ita	Fara	np-ant
-	eng	Faraday	np-cog-sg$$np-cog	ita	Faraday	np-cog-mf-sp
+	eng	Faraday	np-cog-sg$np-cog	ita	Faraday	np-cog-mf-sp
 LR	eng	Faraday	np-cog-pl	ita	Faraday	np-cog-mf-sp
 	eng	Faramundo	np-ant$np-ant-m-sg	ita	Faramundo	np-ant
 	eng	Farcilaso	np-ant$np$np-ant-m-sg	ita	Farcilaso	np-ant
@@ -6326,7 +6326,7 @@ LR	eng	Feynman	np-cog-pl	ita	Feynman	np-cog-mf-sp
 	eng	Fiacre	np-ant$np-ant-m-sg	ita	Fiacre	np-ant
 	eng	Fiammetta	np-ant$np-ant-f-sg	ita	Fiammetta	np-ant
 	eng	Fidel	np-ant$np-ant-m-sg$np$np-ant-m	ita	Fidel	np-ant$np-ant-m$np$np-ant-m-sg
-	eng	Fidel Castro	np-ant$np$np-ant-m-sg	ita	Fidel Castro	np-ant
+	eng	Fidel Castro	np-ant$np	ita	Fidel Castro	np-ant
 	eng	Fidela	np-ant$np$np-ant-f-sg	ita	Fidela	np-ant
 	eng	Fidelia	np-ant$np$np-ant-f-sg	ita	Fidelia	np-ant
 	eng	Fidencio	np-ant$np$np-ant-m-sg	ita	Fidencio	np-ant
@@ -6413,7 +6413,7 @@ LR	eng	Foley	np-cog-pl	ita	Foley	np-cog-mf-sp
 	eng	Folquet	np-ant$np-ant-m-sg	ita	Folquet	np-ant
 	eng	Fons	np-ant$np-ant-m-sg	ita	Fons	np-ant
 	eng	Fonsie	np-ant$np-ant-m-sg	ita	Fonsie	np-ant
-	eng	Font de Mora y Turón	np-cog-sg$$np-cog	ita	Font de Mora y Turón	np-cog-mf-sp
+	eng	Font de Mora y Turón	np-cog-sg$np-cog	ita	Font de Mora y Turón	np-cog-mf-sp
 LR	eng	Font de Mora y Turón	np-cog-pl	ita	Font de Mora y Turón	np-cog-mf-sp
 	eng	Forcada	np-cog-sg$$np-cog	ita	Forcada	np-cog-mf-sp$np
 LR	eng	Forcada	np-cog-pl	ita	Forcada	np-cog-mf-sp$np
@@ -6501,7 +6501,7 @@ LR	eng	Fujimori	np-cog-pl	ita	Fujimori	np-cog-mf-sp
 	eng	Gabina	np-ant$np$np-ant-f-sg	ita	Gabina	np-ant$np-ant-f
 	eng	Gabino	np-ant$np$np-ant-m-sg	ita	Gabino	np-ant
 	eng	Gabon	np-loc	ita	Gabon	np-loc-m$np-loc-m-sg
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	ita	Gabriel	np-ant$np-ant-m$np-ant-m-sg
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	ita	Gabriel	np-ant$np-ant-m$np-ant-m-sg
 	eng	Gabriela	np-ant$np$np-ant-f-sg$np-ant-f	ita	Gabriela	np-ant$np-ant-f
 	eng	Gabriele	np-ant$np-ant-m-sg$np-ant-m	ita	Gabriele	np-ant$np-ant-m$np-ant-m-sg
 	eng	Gabriella	np-ant$np$np-ant-f-sg	ita	Gabriella	np-ant$np-ant-f
@@ -6626,7 +6626,7 @@ LR	eng	Gautier	np-cog-pl	ita	Gautier	np-cog-mf-sp$np$np-cog
 	eng	Georgania	np-ant$np$np-ant-f-sg	ita	Georgania	np-ant
 	eng	George	np-ant$np$np-ant-m$np-ant-m-sg$	ita	George	np-ant$np-ant-m$np-ant-m-sg
 	eng	George H. W. Bush	np-ant$np$np-ant-m-sg	ita	George H. W. Bush	np-ant
-	eng	George W. Bush	np$np-ant$np-ant-m-sg	ita	George W. Bush	np-ant
+	eng	George W. Bush	np$np-ant	ita	George W. Bush	np-ant
 	eng	Georges	np-ant$np-ant-m-sg	ita	Georges	np-ant$np-ant-m
 	eng	Georges Duhamel	np-ant$np-ant-m-sg	ita	Georges Duhamel	np-ant
 	eng	Georgette	np-ant$np-ant-f-sg	ita	Georgette	np-ant
@@ -6801,7 +6801,7 @@ LR	eng	Gonzalez	np-cog-pl	ita	Gonzalez	np-cog-mf-sp$np$np-cog-mf
 	eng	González	np-cog-sg$$np$np-cog	ita	González	np-cog-mf-sp$np$np-cog
 LR	eng	González	np-cog-pl	ita	González	np-cog-mf-sp$np$np-cog
 	eng	Google	np-al$np$np-al-sg	ita	Google	np-al-m$np-al-m-sg$np
-	eng	Google Summer of Code	np-al$np-al-sg	ita	Google Summer of Code	np-al-m
+	eng	Google Summer of Code	np-al	ita	Google Summer of Code	np-al-m
 	eng	Gorbachov	np-cog-sg$$np-cog	ita	Gorbaciov	np-cog-mf-sp
 LR	eng	Gorbachov	np-cog-pl	ita	Gorbaciov	np-cog-mf-sp
 	eng	Gordon	np-ant$np-ant-m$np-ant-m-sg$np$	ita	Gordon	np-ant$np-ant-m$np-ant-m-sg
@@ -6989,7 +6989,7 @@ LR	eng	Harper	np-cog-pl	ita	Harper	np-cog-mf-sp$np
 	eng	Harry	np-ant$np$np-ant-m$np-ant-m-sg	ita	Harry	np-ant$np-ant-m$np-ant-m-sg
 	eng	Harvey	np-ant$np-ant-m-sg$np$$np-ant-m	ita	Harvey	np-ant
 	eng	Hasan	np-ant$np$np-ant-m$np-ant-m-sg	ita	Hasan	np-ant
-	eng	Hashimoto Tetsuya	np-ant$np$np-ant-m-sg	ita	Hashimoto Tetsuya	np-ant
+	eng	Hashimoto Tetsuya	np-ant$np	ita	Hashimoto Tetsuya	np-ant
 	eng	Hassan	np-ant$np-ant-m-sg$np$$np-ant-m	ita	Hassan	np-ant
 	eng	Hatem Ben Arfa	np-ant$np-ant-m-sg	ita	Hatem Ben Arfa	np-ant
 	eng	Haupert	np-cog-sg$$np-cog	ita	Haupert	np-cog-mf-sp
@@ -7500,16 +7500,16 @@ LR	eng	Jahn	np-cog-pl	ita	Jahn	np-cog-mf-sp
 	eng	Jamari	np-ant$np$np-ant-m-sg	ita	Jamari	np-ant
 	eng	Jamel	np-ant$np$np-ant-m-sg	ita	Jamel	np-ant
 	eng	James	np-ant$np$np-ant-m$np-ant-m-sg$	ita	James	np-ant$np-ant-m$np-ant-m-sg
-	eng	James I	np-ant$np-ant-m-sg	ita	Giacomo I	np-ant
-	eng	James II	np-ant$np$np-ant-m-sg	ita	Giacomo II	np-ant
+	eng	James I	np-ant	ita	Giacomo I	np-ant
+	eng	James II	np-ant$np	ita	Giacomo II	np-ant
 	eng	Jameson	np-ant$np-ant-m-sg$np	ita	Jameson	np-ant$np-ant-m
 	eng	Jamie	np-ant$np$np-ant-m-sg	ita	Jamie	np-ant
 	eng	Jamil	np-ant$np$np-ant-m-sg	ita	Jamil	np-ant
 	eng	Jamir	np-ant$np$np-ant-m-sg	ita	Jamir	np-ant
 	eng	Jamison	np-ant$np$np-ant-m-sg	ita	Jamison	np-ant
 	eng	Jamya	np-ant$np$np-ant-f-sg	ita	Jamya	np-ant
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	ita	Jan	np-ant$np-ant-m
-	eng	Jan O. Karlsson	np-ant$np$np-ant-m-sg	ita	Jan O. Karlsson	np-ant
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	ita	Jan	np-ant$np-ant-m
+	eng	Jan O. Karlsson	np-ant$np	ita	Jan O. Karlsson	np-ant
 	eng	Jana	np-ant$np$np-ant-f-sg	ita	Jana	np-ant
 	eng	Janae	np-ant$np$np-ant-f-sg	ita	Janae	np-ant
 	eng	Jane	np-ant$np$np-ant-f-sg$np-ant-f	ita	Jane	np-ant$np-ant-f
@@ -7555,7 +7555,7 @@ LR	eng	Jara	np-cog-pl	ita	Jara	np-cog-mf-sp$np$np-cog-mf
 	eng	Javen	np-ant$np$np-ant-m-sg	ita	Javen	np-ant
 	eng	Javi	np-ant$np$np-ant-m-sg	ita	Javi	np-ant
 	eng	Javier	np-ant$np$np-ant-m$np-ant-m-sg	ita	Javier	np-ant$np-ant-m-sg$np-ant-m
-	eng	Javier Solana Madariaga	np-ant$np$np-ant-m-sg	ita	Javier Solana	np-ant
+	eng	Javier Solana Madariaga	np-ant$np	ita	Javier Solana	np-ant
 	eng	Javiera	np-ant$np$np-ant-f-sg	ita	Javiera	np-ant
 	eng	Javion	np-ant$np$np-ant-m-sg	ita	Javion	np-ant
 	eng	Javon	np-ant$np$np-ant-m-sg	ita	Javon	np-ant
@@ -7672,8 +7672,8 @@ LR	eng	Jimenez	np-cog-pl	ita	Jimenez	np-cog-mf-sp
 	eng	Jiménez	np-cog-sg$$np-cog	ita	Jiménez	np-cog-mf-sp$np$np-cog
 LR	eng	Jiménez	np-cog-pl	ita	Jiménez	np-cog-mf-sp$np$np-cog
 	eng	Joab	np-ant$np$np-ant-m$np-ant-m-sg	ita	Joab	np-ant
-	eng	Joan	np-ant$np$np-ant-m-sg	ita	Joan	np-ant$np-ant-m$np-ant-m-sg
-	eng	Joana	np-ant$np-ant-f$np$np-ant-f-sg	ita	Joana	np-ant
+	eng	Joan	np-ant$np-ant-m-sg$np	ita	Joan	np-ant$np-ant-m$np-ant-m-sg
+	eng	Joana	np-ant$np-ant-f$np-ant-f-sg$np	ita	Joana	np-ant
 	eng	Joanna	np-ant$np-ant-f-sg$np	ita	Joanna	np-ant
 	eng	Joaquim	np$np-ant$np-ant-m-sg	ita	Joaquim	np-ant
 	eng	Joaquin	np-ant$np-ant-m-sg$np$np-ant-m	ita	Joaquin	np-ant
@@ -7784,7 +7784,7 @@ LR	eng	Jordana	np-cog-pl	ita	Jordana	np-cog-mf-sp$np
 	eng	Joselina	np-ant$np$np-ant-f-sg	ita	Joselina	np-ant
 	eng	Joselyn	np-ant$np$np-ant-f-sg	ita	Joselyn	np-ant
 	eng	Josemaría	np-ant$np$np-ant-m-sg	ita	Josemaría	np-ant
-	eng	Josep	np$np-ant$np-ant-m$np-ant-m-sg	ita	Josep	np-ant
+	eng	Josep	np-ant-m-sg$np$np-ant$np-ant-m	ita	Josep	np-ant
 	eng	Joseph	np-ant$np$np-ant-m$np-ant-m-sg$	ita	Joseph	np-ant$np-ant-m
 	eng	Josephine	np-ant$np$np-ant-f-sg	ita	Josephine	np-ant
 	eng	Josette	np-ant$np-ant-f-sg	ita	Josette	np-ant
@@ -7806,7 +7806,7 @@ LR	eng	Jordana	np-cog-pl	ita	Jordana	np-cog-mf-sp$np
 	eng	José	np-ant$np$np-ant-m-sg$np-ant-m	ita	José	np-ant$np-ant-m$np-ant-m-sg
 	eng	José Luis	np-ant$np$np-ant-m-sg	ita	José Luis	np-ant
 	eng	José Luis Rodríguez Zapatero	np-ant$np-ant-m-sg	ita	José Luis Rodríguez Zapatero	np-ant
-	eng	José Manuel Durão Barroso	np-ant$np$np-ant-m-sg	ita	José Manuel Durão Barroso	np-ant
+	eng	José Manuel Durão Barroso	np-ant$np	ita	José Manuel Durão Barroso	np-ant
 	eng	José María	np-ant$np$np-ant-m-sg	ita	José María	np-ant
 	eng	José María Aznar	np-ant$np-ant-m-sg	ita	José María Aznar	np-ant
 	eng	José María Barreda	np-ant$np-ant-m-sg	ita	José María Barreda	np-ant
@@ -7833,18 +7833,18 @@ LR	eng	Jordana	np-cog-pl	ita	Jordana	np-cog-mf-sp$np
 	eng	Joyce	np-ant$np$np-ant-f-sg$	ita	Joyce	np-ant
 	eng	Joël	np-ant$np-ant-m-sg	ita	Joël	np-ant
 	eng	Joëlle	np-ant$np-ant-f-sg	ita	Joëlle	np-ant
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	ita	Juan	np-ant$np-ant-m$np-ant-m-sg
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	ita	Juan	np-ant$np-ant-m$np-ant-m-sg
 	eng	Juan Carlos	np-ant$np$np-ant-m-sg	ita	Juan Carlos	np-ant
 	eng	Juan Carlos I	np-ant$np-ant-m-sg	ita	Juan Carlos I	np-ant
 	eng	Juan Cruz	np-ant$np$np-ant-m-sg	ita	Juan Cruz	np-ant
 	eng	Juan Diego de Guadalupe	np-ant$np-ant-m-sg	ita	Juan Diego de Guadalupe	np-ant
-	eng	Juan Jesús	np-ant$np-ant-m-sg	ita	Juan Jesús	np-ant
-	eng	Juan Jesús Vivas Lara	np-ant$np-ant-m-sg	ita	Juan Jesús Vivas Lara	np-ant
-	eng	Juan José	np-ant$np-ant-m-sg	ita	Juan José	np-ant
-	eng	Juan José Ibarretxe	np-ant$np-ant-m-sg	ita	Juan José Ibarretxe	np-ant
-	eng	Juan José Ibarretxe Markuartu	np-ant$np-ant-m-sg	ita	Juan José Ibarretxe Markuartu	np-ant
-	eng	Juan Manuel Fabra Valles	np-ant$np$np-ant-m-sg	ita	Juan Manuel Fabra Valles	np-ant
-	eng	Juan María	np-ant$np$np-ant-m-sg	ita	Juan María	np-ant
+	eng	Juan Jesús	np-ant	ita	Juan Jesús	np-ant
+	eng	Juan Jesús Vivas Lara	np-ant	ita	Juan Jesús Vivas Lara	np-ant
+	eng	Juan José	np-ant	ita	Juan José	np-ant
+	eng	Juan José Ibarretxe	np-ant	ita	Juan José Ibarretxe	np-ant
+	eng	Juan José Ibarretxe Markuartu	np-ant	ita	Juan José Ibarretxe Markuartu	np-ant
+	eng	Juan Manuel Fabra Valles	np-ant$np	ita	Juan Manuel Fabra Valles	np-ant
+	eng	Juan María	np-ant$np	ita	Juan María	np-ant
 	eng	Juan de Dios	np-ant$np$np-ant-m-sg	ita	Giovanni di Dio	np-ant
 	eng	Juana	np-ant$np-ant-f-sg$np	ita	Juana	np-ant
 	eng	Juana del Pilar	np-ant$np$np-ant-f-sg	ita	Juana del Pilar	np-ant
@@ -7853,7 +7853,7 @@ LR	eng	Jordana	np-cog-pl	ita	Jordana	np-cog-mf-sp$np
 	eng	Juanito	np-ant$np-ant-m-sg	ita	Juanito	np-ant
 	eng	Juanse	np-ant$np$np-ant-m-sg	ita	Juanse	np-ant
 	eng	Roque	np-ant	ita	Roque	np-ant$np$np-ant-m-sg
-	eng	El Greco	np-ant$np-ant-m-sg	ita	El Greco	np-ant$np
+	eng	El Greco	np-ant	ita	El Greco	np-ant$np
 	eng	Jubal	np-ant$np$np-ant-m-sg	ita	Jubal	np-ant
 	eng	Judah	np-ant$np$np-ant-m$np-ant-m-sg	ita	Judah	np-ant
 	eng	Judas	np-ant$np$np-ant-m-sg	ita	Judas	np-ant
@@ -7911,10 +7911,10 @@ LR	eng	Juárez	np-cog-pl	ita	Juárez	np-cog-mf-sp$np
 	eng	Jérémy	np-ant$np-ant-m-sg	ita	Jérémy	np-ant
 	eng	Jérôme	np-ant$np-ant-m-sg	ita	Jérôme	np-ant$np-ant-m
 	eng	Jésica	np-ant$np$np-ant-f-sg	ita	Jésica	np-ant
-	eng	Jørgen Mohr	np-ant$np$np-ant-m-sg	ita	Georg Mohr	np-ant
+	eng	Jørgen Mohr	np-ant$np	ita	Georg Mohr	np-ant
 	eng	Júlia	np-ant$np$np-ant-f-sg	ita	Júlia	np-ant
-	eng	Jürgen	np-ant$np$np-ant-m$np-ant-m-sg	ita	Jürgen	np-ant
-	eng	Jürgen Trumpf	np-ant$np$np-ant-m-sg	ita	Jürgen Trumpf	np-ant
+	eng	Jürgen	np-ant$np-ant-m-sg$np$np-ant-m	ita	Jürgen	np-ant
+	eng	Jürgen Trumpf	np-ant$np	ita	Jürgen Trumpf	np-ant
 	eng	Kabul	np-loc	ita	Kabul	np-loc-m
 	eng	Kacie	np-ant$np$np-ant-f-sg	ita	Kacie	np-ant
 	eng	Kaczynski	np-cog-sg$np-cog$	ita	Kaczynski	np-cog-mf-sp$np
@@ -8045,8 +8045,8 @@ LR	eng	Keane	np-cog-pl	ita	Keane	np-cog-mf-sp$np-cog-mf
 	eng	Kelton	np-ant$np$np-ant-m-sg	ita	Kelton	np-ant
 	eng	Kelvin	np-ant$np$np-ant-m-sg	ita	Kelvin	np-ant
 	eng	Kemberley	np-ant$np$np-ant-f-sg	ita	Kemberley	np-ant
-	eng	Ken	np-ant$np$np-ant-m$np-ant-m-sg	ita	Ken	np-ant$np-ant-m
-	eng	Ken Saro-Wiwa	np-ant$np$np-ant-m-sg	ita	Ken Saro-Wiwa	np-ant
+	eng	Ken	np-ant$np$np-ant-m-sg$np-ant-m	ita	Ken	np-ant$np-ant-m
+	eng	Ken Saro-Wiwa	np-ant$np	ita	Ken Saro-Wiwa	np-ant
 	eng	Kendal	np-ant$np-ant-f-sg$np	ita	Kendal	np-ant
 	eng	Kendall	np-ant$np$$np-ant-m-sg	ita	Kendall	np-ant
 	eng	Kendra	np-ant$np$np-ant-f-sg	ita	Kendra	np-ant
@@ -8224,7 +8224,7 @@ RL	eng	Launcelot	np-ant$np-ant-m-sg	ita	Launcelot	np-ant
 	eng	Laura	np-ant$np$np-ant-f$np-ant-f-sg	ita	Laura	np-ant$np-ant-f$np-ant-f-sg
 	eng	Lauran	np-ant$np$np-ant-f-sg	ita	Lauran	np-ant
 	eng	Laure	np-ant$np-ant-f-sg	ita	Laure	np-ant
-	eng	Laure Batut	np-ant$np$np-ant-f-sg	ita	Laure Batut	np-ant
+	eng	Laure Batut	np-ant$np	ita	Laure Batut	np-ant
 	eng	Laureana	np-ant$np$np-ant-f-sg	ita	Laureana	np-ant
 	eng	Laureano	np-ant$np$np-ant-m-sg	ita	Laureano	np-ant
 	eng	Laurel	np-ant$np$np-ant-f-sg	ita	Laurel	np-ant
@@ -8429,16 +8429,16 @@ LR	eng	Lieberman	np-cog-pl	ita	Lieberman	np-cog-mf-sp$np
 	eng	Linux	np-al$np$np-al-sg	ita	Linux	np-al-m$np-al-m-sg$np
 	eng	Yahoo	np-al$np$np-al-sg	ita	Yahoo	np-al-m$np-al-m-sg$np
 	eng	Espanyol	np-al	ita	Espanyol	np$np-al-m
-	eng	Athletic	np-al	ita	Athletic	np$np-al-m
+	eng	Athletic	np-al$np-al-sg	ita	Athletic	np$np-al-m
 	eng	Betis	np-al	ita	Betis	np$np-al-m
 	eng	Pamesa	np-al	ita	Pamesa	np$np-al-m
 	eng	Expo	np-al	ita	Expo	np-al-f$np
-	eng	Web 2.0	np-al$np-al-sg	ita	Web 2.0	np-al-m
-	eng	El Correo	np-al$np-al-sg	ita	El Correo	np-al-m
-	eng	Ibex 35	np-al$np-al-sg	ita	Ibex 35	np-al-m
-	eng	Athletic Bilbao	np-al$np-al-sg	ita	Athletic Bilbao	np-al-m
-	eng	E.H. Sukarra	np-al$np-al-sg	ita	E.H. Sukarra	np-al-m
-	eng	Dow Jones	np-al$np-al-sg	ita	Dow Jones	np-al-m$np-al-m-sg
+	eng	Web 2.0	np-al	ita	Web 2.0	np-al-m
+	eng	El Correo	np-al	ita	El Correo	np-al-m
+	eng	Ibex 35	np-al	ita	Ibex 35	np-al-m
+	eng	Athletic Bilbao	np-al	ita	Athletic Bilbao	np-al-m
+	eng	E.H. Sukarra	np-al	ita	E.H. Sukarra	np-al-m
+	eng	Dow Jones	np-al	ita	Dow Jones	np-al-m$np-al-m-sg
 	eng	Lionel	np-ant$np-ant-m$np$np-ant-m-sg	ita	Lionel	np-ant$np-ant-m
 	eng	Liqué	np-ant$np$np-ant-m-sg	ita	Liqué	np-ant
 	eng	Lisa	np-ant$np-ant-f-sg$np$np-ant-f	ita	Lisa	np-ant$np-ant-f
@@ -8462,7 +8462,7 @@ LR	eng	Lieberman	np-cog-pl	ita	Lieberman	np-cog-mf-sp$np
 	eng	Lloyd	np-cog-sg$np-cog$$np	ita	Lloyd	np-cog-mf-sp$np
 LR	eng	Lloyd	np-cog-pl	ita	Lloyd	np-cog-mf-sp$np
 	eng	Lluis	np-ant$$np-ant-m-sg	ita	Lluis	np-ant
-	eng	Lluís	np$np-ant$np-ant-m-sg	ita	Lluís	np-ant
+	eng	Lluís	np$np-ant-m-sg$np-ant	ita	Lluís	np-ant
 	eng	Llíria	np-loc	ita	Llíria	np-loc-m$np$np-loc$np-loc-m-sg
 	eng	Llúcia	np-ant$np$np-ant-f-sg	ita	Llúcia	np-ant
 	eng	Lodovico	np-ant$np-ant-m-sg	ita	Lodovico	np-ant$np-ant-m
@@ -8785,7 +8785,7 @@ LR	eng	Mandelson	np-cog-pl	ita	Mandelson	np-cog-mf-sp
 LR	eng	Maragall	np-cog-pl	ita	Maragall	np-cog-mf-sp$np
 	eng	Maravillas	np-ant$np$np-ant-f-sg	ita	Maravillas	np-ant
 	eng	Marbela	np-ant$np$np-ant-f-sg	ita	Marbela	np-ant
-	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg	ita	Marc	np-ant$np-ant-m
+	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m	ita	Marc	np-ant$np-ant-m
 	eng	Marceau	np-ant$$np-ant-m-sg	ita	Marceau	np-ant
 	eng	Marcel	np-ant$np-ant-m-sg$np$np-ant-m	ita	Marcel	np-ant$np-ant-m
 	eng	Marcela	np-ant$np$np-ant-f-sg	ita	Marcela	np-ant
@@ -8839,7 +8839,7 @@ LR	eng	Marchena	np-cog-pl	ita	Marchena	np-cog-mf-sp$np
 	eng	Mari Amor	np-ant$np$np-ant-f-sg	ita	Mari Amor	np-ant
 	eng	Mari Cielo	np-ant$np$np-ant-f-sg	ita	Mari Cielo	np-ant
 	eng	Mari Cruz	np-ant$np$np-ant-f-sg	ita	Mari Cruz	np-ant
-	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg	ita	Maria	np-ant$np-ant-f$np-ant-f-sg$np
+	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f	ita	Maria	np-ant$np-ant-f$np-ant-f-sg$np
 	eng	Maria Abril	np-ant$np$np-ant-f-sg	ita	Maria Abril	np-ant
 	eng	Maria Angel	np-ant$np$np-ant-f-sg	ita	Maria Angel	np-ant
 	eng	Mariah	np-ant$np$np-ant-f-sg	ita	Mariah	np-ant
@@ -9103,16 +9103,16 @@ LR	eng	Michelin	np-cog-pl	ita	Michelin	np-cog-mf-sp$np
 	eng	Micronesia	np-loc	ita	Micronesia	np-loc-f
 	eng	Microsoft	np-al-sg$np-al$np	ita	Microsoft	np-al-m$np-al-m-sg$np
 	eng	Middle East	np$np-loc	ita	Medio Oriente	np-loc-m
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	ita	Miguel	np-ant$np-ant-m$np-ant-m-sg
-	eng	Miguel de los Santos	np-ant$np$np-ant-m-sg	ita	Miguel de los Santos	np-ant
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	ita	Miguel	np-ant$np-ant-m$np-ant-m-sg
+	eng	Miguel de los Santos	np-ant$np	ita	Miguel de los Santos	np-ant
 	eng	Miguela	np-ant$np-ant-f-sg	ita	Miguela	np-ant
 	eng	Mikaela	np-ant$np$np-ant-f-sg	ita	Mikaela	np-ant
 	eng	Mikayla	np-ant$np$np-ant-f-sg	ita	Mikayla	np-ant
 	eng	Mike	np-ant$np$np-ant-m$np-ant-m-sg	ita	Mike	np-ant$np-ant-m
 	eng	Mikel	np-ant$np-ant-m-sg$np	ita	Mikel	np-ant
 	eng	Mikhail	np-ant$np-ant-m-sg$$np$np-ant-m	ita	Mikhail	np-ant
-	eng	Mikhail Gorbachev	np-ant$np-ant-m-sg	ita	Michail Gorbačëv	np-ant
-	eng	Mikhail Sergeyevich Gorbachev	np-ant$np-ant-m-sg	ita	Michail Sergeevič Gorbačëv	np-ant
+	eng	Mikhail Gorbachev	np-ant	ita	Michail Gorbačëv	np-ant
+	eng	Mikhail Sergeyevich Gorbachev	np-ant	ita	Michail Sergeevič Gorbačëv	np-ant
 	eng	Mila	np-ant$np$np-ant-f-sg	ita	Mila	np-ant
 	eng	Milad	np-ant$np-ant-m-sg$np	ita	Milad	np-ant
 	eng	Milagros	np-ant$np-ant-f-sg	ita	Milagros	np-ant
@@ -9265,7 +9265,7 @@ LR	eng	Muñoz	np-cog-pl	ita	Muñoz	np-cog-mf-sp$np
 	eng	Myles	np-ant$np$np-ant-m-sg	ita	Myles	np-ant
 	eng	Myra	np-ant$np-ant-f-sg$np	ita	Myra	np-ant
 	eng	Myriam	np-ant$np-ant-f-sg	ita	Myriam	np-ant
-	eng	Máire Geoghegan-Quinn	np-ant$np$np-ant-f-sg	ita	Máire Geoghegan-Quinn	np-ant
+	eng	Máire Geoghegan-Quinn	np-ant$np	ita	Máire Geoghegan-Quinn	np-ant
 	eng	Málaga	np-loc	ita	Málaga	np-loc-m$np$np-loc-m-sg
 	eng	Máximo	np-ant$np-ant-m-sg$np	ita	Máximo	np-ant
 	eng	Médée	np-ant$np-ant-f-sg	ita	Médée	np-ant
@@ -9478,8 +9478,8 @@ LR	eng	Nicholson	np-cog-pl	ita	Nicholson	np-cog-mf-sp$np$np-cog-mf
 	eng	Nicodème	np-ant$np-ant-m-sg	ita	Nicodème	np-ant
 	eng	Nicola	np-ant$np$np-ant-f$np-ant-f-sg	ita	Nicola	np-ant-m$np-ant$np-ant-m-sg
 	eng	Nicolao	np-ant$np-ant-m-sg	ita	Nicolao	np-ant
-	eng	Nicolas	np-ant$np$np-ant-m$np-ant-m-sg	ita	Nicolas	np-ant-m$np-ant
-	eng	Nicolas Sarkozy	np-ant$np-ant-m-sg	ita	Nicolas Sarkozy	np-ant
+	eng	Nicolas	np-ant$np$np-ant-m-sg$np-ant-m	ita	Nicolas	np-ant-m$np-ant
+	eng	Nicolas Sarkozy	np-ant	ita	Nicolas Sarkozy	np-ant
 	eng	Nicolasa	np-ant$np$np-ant-f-sg	ita	Nicolasa	np-ant
 	eng	Nicolau	np$np-ant$np-ant-m-sg	ita	Nicolau	np-ant
 	eng	Nicole	np-ant$np$np-ant-f-sg	ita	Nicole	np-ant
@@ -9938,13 +9938,13 @@ LR	eng	Penn	np-cog-pl	ita	Penn	np-cog-mf-sp$np$np-cog-mf
 	eng	Pepita	np-ant$np-ant-f-sg	ita	Pepita	np-ant
 	eng	Pepito	np-ant$np-ant-m-sg	ita	Pepito	np-ant
 	eng	Peppi	np-ant$np-ant-f-sg	ita	Peppi	np-ant
-	eng	Per Stig Møller	np-ant$np$np-ant-m-sg	ita	Per Stig Møller	np-ant
+	eng	Per Stig Møller	np-ant$np	ita	Per Stig Møller	np-ant
 	eng	Peralta	np-loc$	ita	Peralta	np-loc-m$np$np-loc-m-sg
 	eng	Perceval	np-ant$np$np-ant-m-sg	ita	Perceval	np-ant
 	eng	Percevel	np-ant$np-ant-m-sg	ita	Percevel	np-ant
 	eng	Percival	np-ant$np-ant-m-sg$np$np-ant-m	ita	Percival	np-ant
 	eng	Percy	np$np-ant$np-ant-m-sg	ita	Percy	np-ant
-	eng	Pere	np$np-ant$np-ant-m$np-ant-m-sg	ita	Pere	np-ant
+	eng	Pere	np$np-ant$np-ant-m-sg$np-ant-m	ita	Pere	np-ant
 	eng	Peregrina	np-ant$$np$np-ant-f-sg	ita	Peregrina	np-ant
 	eng	Peregrino	np-ant$np$np-ant-m-sg	ita	Peregrino	np-ant
 	eng	Perez	np-cog-sg$np-cog$	ita	Perez	np-cog-mf-sp$np$np-cog-mf
@@ -10005,14 +10005,14 @@ LR	eng	Piebalgs	np-cog-pl	ita	Piebalgs	np-cog-mf-sp
 	eng	Pierina	np-ant$np$np-ant-f-sg	ita	Pierina	np-ant$np-ant-f
 	eng	Pierino	np-ant$np$np-ant-m-sg	ita	Pierino	np-ant
 	eng	Piero	np-ant$np-ant-m-sg$np$np-ant-m	ita	Piero	np-ant$np-ant-m
-	eng	Pierre	np-ant$np$np-ant-m-sg$np-ant-m	ita	Pierre	np-ant$np-ant-m
-	eng	Pierre De Boissieu	np-ant$np$np-ant-m-sg	ita	Pierre De Boissieu	np-ant
+	eng	Pierre	np-ant$np-ant-m-sg$np$np-ant-m	ita	Pierre	np-ant$np-ant-m
+	eng	Pierre De Boissieu	np-ant$np	ita	Pierre De Boissieu	np-ant
 	eng	Pierres	np-ant$np-ant-m-sg	ita	Pierres	np-ant
 	eng	Pierrette	np-ant$np-ant-f-sg	ita	Pierrette	np-ant
 	eng	Pietrina	np-ant$np-ant-f-sg	ita	Pietrina	np-ant$np-ant-f
 	eng	Pietro	np-ant$np-ant-m-sg$np-ant-m	ita	Pietro	np-ant-m$np-ant
 	eng	Pietronella	np-ant$np$np-ant-f-sg	ita	Pietronella	np-ant
-	eng	Pilar	np-ant$np$np-ant-f-sg	ita	Pilar	np-ant$np$np-ant-f$np-ant-f-sg
+	eng	Pilar	np-ant$np-ant-f-sg$np	ita	Pilar	np-ant$np$np-ant-f$np-ant-f-sg
 	eng	Pili	np-ant$np-ant-f-sg	ita	Pili	np-ant
 	eng	Pilmaiquen	np-ant$np$np-ant-f-sg	ita	Pilmaiquen	np-ant
 	eng	Pilmayquen	np-ant$np$np-ant-f-sg	ita	Pilmayquen	np-ant
@@ -10210,7 +10210,7 @@ LR	eng	Ramirez	np-cog-pl	ita	Ramirez	np-cog-mf-sp$np
 	eng	Ramona	np-ant$np$np-ant-f-sg	ita	Ramona	np-ant
 	eng	Ramírez	np-cog-sg$$np-cog	ita	Ramírez	np-cog-mf-sp$np
 LR	eng	Ramírez	np-cog-pl	ita	Ramírez	np-cog-mf-sp$np
-	eng	Ramón	np-ant$np$np-ant-m-sg	ita	Ramón	np-ant$np-ant-m-sg$np-ant-m
+	eng	Ramón	np-ant$np-ant-m-sg$np	ita	Ramón	np-ant$np-ant-m-sg$np-ant-m
 	eng	Randall	np-ant$$np$np-ant-m-sg	ita	Randall	np-ant
 	eng	Randy	np-ant$np$np-ant-m$np-ant-m-sg	ita	Randy	np-ant
 	eng	Raniero	np-ant$np-ant-m-sg	ita	Raniero	np-ant$np-ant-m
@@ -10439,7 +10439,7 @@ LR	eng	Roosevelt	np-cog-pl	ita	Roosevelt	np-cog-mf-sp$np-cog$np-cog-mf
 	eng	Rosaria	np-ant$np-ant-f-sg	ita	Rosaria	np-ant$np-ant-f
 	eng	Rosario	np-ant$np$np-ant-f-sg	ita	Rosario	np-ant$np-ant-m
 	eng	Rosarito	np-ant$np$np-ant-f-sg	ita	Rosarito	np-ant
-	eng	Rosaura	np-ant$np$np-ant-f-sg	ita	Rosaura	np-ant
+	eng	Rosaura	np-ant$np-ant-f-sg$np	ita	Rosaura	np-ant
 	eng	Rose	np-ant$np$$np-ant-f-sg	ita	Rose	np-ant
 	eng	Rose of Lima	np-ant$np-ant-f-sg	ita	Rosa da Lima	np-ant
 	eng	Rosell	np-cog-sg$$np-cog	ita	Rosell	np-cog-mf-sp$np
@@ -10855,7 +10855,7 @@ LR	eng	Simpson	np-cog-pl$np-cog$$np	ita	Simpson	np-cog-mf-sp$np
 	eng	Sinforosa	np-ant$np$np-ant-f-sg	ita	Sinforosa	np-ant$np-ant-f
 	eng	Sinforoso	np-ant$np$np-ant-m-sg	ita	Sinforoso	np-ant
 	eng	Singapore	np-loc	ita	Singapore	np-loc-m$np-loc-m-sg$np$np-loc
-	eng	Sinibaldo	np-ant$np$np-ant-m-sg	ita	Sinibaldo	np-ant
+	eng	Sinibaldo	np-ant$np-ant-m-sg$np	ita	Sinibaldo	np-ant
 	eng	Sinuhé	np-ant$np$np-ant-m-sg	ita	Sinuhé	np-ant
 	eng	Siomara	np-ant$np$np-ant-f-sg	ita	Siomara	np-ant
 	eng	Sira	np-ant$np$np-ant-f-sg	ita	Sira	np-ant$np-ant-f
@@ -10943,7 +10943,7 @@ LR	eng	Stalin	np-cog-pl	ita	Stalin	np-cog-mf-sp$np$np-cog
 LR	eng	Stallone	np-cog-pl	ita	Stallone	np-cog-mf-sp$np
 	eng	Stan	np-ant$np-ant-m-sg$$np$np-ant-m	ita	Stan	np-ant
 	eng	Stanislas	np-ant$np-ant-m$np-ant-m-sg	ita	Stanislas	np-ant
-	eng	Stanislav Gross	np-ant$np$np-ant-m-sg	ita	Stanislav Gross	np-ant
+	eng	Stanislav Gross	np-ant$np	ita	Stanislav Gross	np-ant
 	eng	Stanley	np-ant$np$np-ant-m$np-ant-m-sg$	ita	Stanley	np-ant
 	eng	Stavros	np-ant$np-ant-m$np-ant-m-sg$np	ita	Stavros	np-ant
 	eng	Stefan	np-ant$np-ant-m$np-ant-m-sg$np$	ita	Stefan	np-ant$np-ant-m
@@ -11176,7 +11176,7 @@ LR	eng	Tejero	np-cog-pl	ita	Tejero	np-cog-mf-sp$np
 	eng	Teófila	np-ant$np-ant-f-sg	ita	Teófila	np-ant
 	eng	Teófilo	np-ant$np-ant-m-sg	ita	Teófilo	np-ant
 	eng	Teógenes	np-ant$np-ant-m-sg	ita	Teógenes	np-ant
-	eng	Th. C. Hijzen	np-ant$np$np-ant-m-sg	ita	Th. C. Hijzen	np-ant
+	eng	Th. C. Hijzen	np-ant$np	ita	Th. C. Hijzen	np-ant
 	eng	Thaddeus	np-ant$np$np-ant-m-sg	ita	Thaddeus	np-ant
 	eng	Thadiel	np-ant$np$np-ant-m-sg	ita	Thadiel	np-ant
 	eng	Thailand	np-loc	ita	Thailandia	np-loc-m$np
@@ -11597,13 +11597,13 @@ LR	eng	Verheugen	np-cog-pl	ita	Verheugen	np-cog-mf-sp
 	eng	Vivienne	np-ant$np-ant-f-sg	ita	Vivienne	np-ant
 	eng	Viviette	np-ant$np-ant-f-sg	ita	Viviette	np-ant
 	eng	Vivina	np-ant$np$np-ant-f-sg	ita	Vivina	np-ant$np-ant-f
-	eng	Vlad	np-ant$np-ant-m$np-ant-m-sg	ita	Vlad	np-ant
-	eng	Vlad Dracula	np-ant$np-ant-m-sg	ita	Vlad Dracul	np-ant$np-ant-m-sg
-	eng	Vlad Dracula Tepes	np-ant$np-ant-m-sg	ita	Vlad Dracul Tepes	np-ant$np-ant-m-sg
-	eng	Vlad III Dracula	np-ant$np-ant-m-sg	ita	Vlad III Dracul	np-ant$np-ant-m-sg
-	eng	Vlad III the Impaler	np-ant$np-ant-m-sg	ita	Vlad III l'Impalatore	np-ant$np-ant-m-sg
-	eng	Vlad Tepes	np-ant$np-ant-m-sg	ita	Vlad Tepes	np-ant
-	eng	Vlad the Impaler	np-ant$np-ant-m-sg	ita	Vlad l'Impalatore	np-ant
+	eng	Vlad	np-ant-m-sg$np-ant$np-ant-m	ita	Vlad	np-ant
+	eng	Vlad Dracula	np-ant	ita	Vlad Dracul	np-ant$np-ant-m-sg
+	eng	Vlad Dracula Tepes	np-ant	ita	Vlad Dracul Tepes	np-ant$np-ant-m-sg
+	eng	Vlad III Dracula	np-ant	ita	Vlad III Dracul	np-ant$np-ant-m-sg
+	eng	Vlad III the Impaler	np-ant	ita	Vlad III l'Impalatore	np-ant$np-ant-m-sg
+	eng	Vlad Tepes	np-ant	ita	Vlad Tepes	np-ant
+	eng	Vlad the Impaler	np-ant	ita	Vlad l'Impalatore	np-ant
 	eng	Vladimir	np-ant$np-ant-m$np$np-ant-m-sg	ita	Vladimir	np-ant$np$np-ant-m$np-ant-m-sg
 	eng	Vladimiro	np-ant$np$np-ant-m-sg	ita	Vladimiro	np-ant$np-ant-m
 	eng	Vlasák	np-cog-sg$$np-cog	ita	Vlasák	np-cog-mf-sp
@@ -11620,14 +11620,14 @@ LR	eng	Von Beust	np-cog-pl	ita	Von Beust	np-cog-mf-sp
 	eng	Vuitton	np-cog-sg$$np$np-cog	ita	Vuitton	np-cog-mf-sp$np
 LR	eng	Vuitton	np-cog-pl	ita	Vuitton	np-cog-mf-sp$np
 	eng	Vulpiano	np-ant$np$np-ant-m-sg	ita	Vulpiano	np-ant
-	eng	Vyacheslav Mikhailovich Molotov	np-ant$np-ant-m-sg	ita	Vjačeslav Michajlovič Molotov	np-ant
-	eng	Vyacheslav Molotov	np-ant$np-ant-m-sg	ita	Vjačeslav Molotov	np-ant
+	eng	Vyacheslav Mikhailovich Molotov	np-ant	ita	Vjačeslav Michajlovič Molotov	np-ant
+	eng	Vyacheslav Molotov	np-ant	ita	Vjačeslav Molotov	np-ant
 	eng	Väino	np-ant$np$np-ant-m-sg	ita	Väino	np-ant
 	eng	Véronique	np-ant$np-ant-f-sg	ita	Véronique	np-ant
 	eng	Vérène	np-ant$np-ant-f-sg	ita	Vérène	np-ant
 	eng	Víctor	np$np-ant$np-ant-m-sg	ita	Víctor	np-ant$np-ant-m-sg$np-ant-m
-	eng	Vítor Manuel da Silva Caldeira	np-ant$np$np-ant-m-sg	ita	Vítor Manuel da Silva Caldeira	np-ant
-	eng	W. B. Yeats	np-ant$np-ant-m-sg	ita	W. B. Yeats	np-ant
+	eng	Vítor Manuel da Silva Caldeira	np-ant$np	ita	Vítor Manuel da Silva Caldeira	np-ant
+	eng	W. B. Yeats	np-ant	ita	W. B. Yeats	np-ant
 	eng	Wade	np-ant$$np$np-ant-m-sg	ita	Wade	np-ant
 	eng	Wady	np-ant$np$np-ant-m-sg	ita	Wady	np-ant
 	eng	Walberto	np-ant$np$np-ant-m-sg	ita	Walberto	np-ant
@@ -11690,8 +11690,8 @@ LR	eng	Wilde	np-cog-pl	ita	Wilde	np-cog-mf-sp$np$np-cog$np-cog-mf
 	eng	Wilfrido	np-ant$np$np-ant-m-sg	ita	Wilfrido	np-ant
 	eng	Will	np-ant$np$np-ant-m-sg	ita	Will	np-ant$np-ant-m
 	eng	Willelm	np-ant$np-ant-m-sg	ita	Willelm	np-ant
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	ita	William	np-ant$np-ant-m$np-ant-m-sg
-	eng	William Tell	np-ant$np-ant-m-sg	ita	Guglielmo Tell	np-ant
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	ita	William	np-ant$np-ant-m$np-ant-m-sg
+	eng	William Tell	np-ant	ita	Guglielmo Tell	np-ant
 	eng	Williams	np-ant$np$np-ant-m$np-ant-m-sg$	ita	Williams	np-ant
 	eng	Willie	np-ant$np$np-ant-m-sg	ita	Willie	np-ant
 	eng	Willinton	np-ant$np$np-ant-m-sg	ita	Willinton	np-ant
@@ -11706,8 +11706,8 @@ LR	eng	Wilde	np-cog-pl	ita	Wilde	np-cog-mf-sp$np$np-cog$np-cog-mf
 	eng	Woodworth	np-cog-sg$$np-cog	ita	Woodworth	np-cog-mf-sp$np
 LR	eng	Woodworth	np-cog-pl	ita	Woodworth	np-cog-mf-sp$np
 	eng	Woody	np-ant$np$np-ant-m-sg	ita	Woody	np-ant
-	eng	World War II	np-al$np$np-al-sg	ita	Seconda guerra mondiale	np-al-f
-	eng	World War I	np-al$np-al-sg	ita	Prima guerra mondiale	np-al-f
+	eng	World War II	np-al$np	ita	Seconda guerra mondiale	np-al-f
+	eng	World War I	np-al	ita	Prima guerra mondiale	np-al-f
 	eng	Wright	np$np-cog$np-cog-sg$	ita	Wright	np-cog-mf-sp$np-cog-mf
 LR	eng	Wright	np-cog-pl	ita	Wright	np-cog-mf-sp$np-cog-mf
 	eng	Wyatt	np-ant$$np$np-ant-m-sg	ita	Wyatt	np-ant
@@ -11927,7 +11927,7 @@ LR	eng	al-Zawahiri	np-cog-pl	ita	al-Zawahiri	np-cog-mf-sp
 	eng	del Corazón	np-ant	ita	del Corazón	np-ant
 	eng	del Cortijo	np-ant$np	ita	del Cortijo	np-ant
 	eng	del Prado	np-ant$np	ita	del Prado	np-ant
-	eng	von Neumann	np-cog-sg$$np-cog	ita	von Neumann	np-cog-mf-sp
+	eng	von Neumann	np-cog-sg$np-cog	ita	von Neumann	np-cog-mf-sp
 LR	eng	von Neumann	np-cog-pl	ita	von Neumann	np-cog-mf-sp
 	eng	Àlex	np-ant$np$np-ant-m-sg	ita	Àlex	np-ant
 	eng	Àngel	np-ant$np$np-ant-m-sg	ita	Àngel	np-ant
@@ -12120,7 +12120,7 @@ LR	eng	clash	n	ita	scontro	n-m$n
 	eng	closing	n$n-ND	ita	chiusura	n-f$n
 	eng	compound	n	ita	composto	n-m$n
 	eng	cord	n$n-sg	ita	cordone	n-m$n
-	eng	corridor	n$n-ND	ita	corridoio	n$n-m
+	eng	corridor	n$n-ND	ita	corridoio	n-m$n
 	eng	courage	n$n-sg	ita	valore	n-m$n
 	eng	covering	n$n-ND	ita	copertura	n-f$n
 	eng	crowd	n$n-ND	ita	moltitudine	n-f$n
@@ -12154,9 +12154,9 @@ LR	eng	merger	n$n-ND	ita	fusione	n-f$n
 	eng	misfortune	n$n-sg	ita	disgrazia	n-f$n
 	eng	mobile	n$n-ND	ita	cellulare	n-m$$n
 	eng	momentum	n$n-unc	ita	momento	n-m$n
-LR	eng	Mr.	n	ita	Signore	n-m
-LR	eng	Mrs.	n$n-sg	ita	Signore	n-f
-LR	eng	Ms.	n	ita	Signore	n-f
+LR	eng	Mr.	n$	ita	Signore	n-m
+LR	eng	Mrs.	n$$n-sg	ita	Signore	n-f
+LR	eng	Ms.	n$	ita	Signore	n-f
 	eng	northwest	n$n-ND	ita	nord-ovest	n-m
 	eng	obsession	n$n-ND	ita	ossessione	n-f$n
 	eng	officer	n$n-ND	ita	agente	n-mf
@@ -12213,7 +12213,7 @@ RL	eng	rubbish	n$n-sg	ita	immondizia	n-f$n
 	eng	ambush	n	ita	agguato	n-m
 	eng	ambush	n	ita	appostamento	n-m
 	eng	amor	n	ita	amorazzo	n-m
-	eng	amount	n$n-sg	ita	ammontare	n-m$n$
+	eng	amount	n$n-sg	ita	ammontare	n-m$$n
 	eng	amygdala	n	ita	amigdala	n$n-f
 	eng	analgesic	n	ita	antidolorifico	n-m
 	eng	ancestor	n$n-ND	ita	antenato	n-m$n
@@ -12727,7 +12727,7 @@ LR	eng	litre	n$n-ND	ita	litro	n-m$n
 	eng	lack	n$n-sg	ita	mancanza	n-f$n
 	eng	coffee	n$n-ND	ita	caffè con latte	n-m
 	eng	Avogadro number	n	ita	numero	n-m$n
-	eng	income tax	n$n-ND	ita	imposta	n-f
+	eng	income tax	n	ita	imposta	n-f
 	eng	BBC	n-acr$n	ita	BBC	n-acr-f$n
 	eng	IMF	n-acr	ita	FMI	n-acr-m$n
 	eng	PNV	n-acr	ita	PNV	n$n-acr-m
@@ -12780,8 +12780,8 @@ RL	eng	Christianity	n$n-ND	ita	cristianità	n-f-sp$n-f
 LR	eng	Christianity	n-sg	ita	cristianità	n-f-sp$n-f
 LR	eng	Christianity	n-pl	ita	cristianità	n-f-sp$n-f
 	eng	December	n$n-sg	ita	dicembre	n-m$n
-RL	eng	Dr.	n	ita	Dr	n-f-sg$n
-LR	eng	Dr.	n	ita	Dr	n-GD
+RL	eng	Dr.	n$	ita	Dr	n-f-sg$n
+LR	eng	Dr.	n$	ita	Dr	n-GD
 	eng	Dutch	n$n-ND	ita	olandese	n-mf$$n
 	eng	EU	n-acr$n	ita	UE	n-acr-f$n
 	eng	Easter	n	ita	pasqua	n$n-f
@@ -12908,7 +12908,7 @@ RL	eng	spanish	n$n-ND	ita	spagnolo	n$n-GD
 LR	eng	Swiss	n$n-ND	ita	svizzero	n$n-GD$
 RL	eng	Swiss	n$n-ND	ita	svizzero	n$n-GD$
 	eng	TNT	n-acr$n	ita	TNT	n-acr-f
-	eng	TV	n$n-acr	ita	TV	n-acr-f$n-acr$n-acr-f-sg
+	eng	TV	n$n-acr	ita	TV	n-acr-f$n-f$n-acr-f-sg
 	eng	Taoism	n	ita	taoismo	n-m
 	eng	Thai	n$	ita	tailandese	n-mf$n
 	eng	Their Highnesses	n	ita	Loro Altezze	n-f
@@ -12967,7 +12967,7 @@ LR	eng	abrogation	n	ita	abrogazione	n-f$n
 	eng	absolution	n$n-ND	ita	assoluzione	n-f$n
 	eng	absolutism	n	ita	assolutismo	n$n-m
 	eng	absorbance	n	ita	assorbanza	n-f
-	eng	absorbent	n	ita	assorbente	n-m$n
+	eng	absorbent	n	ita	assorbente	n-m$$n
 	eng	absorber	n	ita	assorbitore	n-m
 	eng	absorptiometry	n	ita	assorbimetria	n-f
 	eng	absorption	n$n-ND	ita	assorbimento	n-m$n
@@ -13003,7 +13003,7 @@ LR	eng	accessibility	n-sg	ita	accessibilità	n-f-sp$n-f
 LR	eng	accessibility	n-pl	ita	accessibilità	n-f-sp$n-f
 	eng	accession	n	ita	adesione	n-f$n
 	eng	accessory	n$n-sg	ita	accessorio	n$n-m
-	eng	accident	n$n-ND	ita	incidente	n$n-m$
+	eng	accident	n$n-ND	ita	incidente	n-m$n$
 	eng	acclamation	n	ita	acclamazione	n-f$n
 	eng	acclimatisation	n	ita	acclimatazione	n$n-f
 	eng	accommodation	n	ita	alloggio	n-m$n
@@ -13344,7 +13344,7 @@ LR	eng	charm	n$n-ND	ita	fascino	n-m$n
 	eng	anaemia	n	ita	anemia	n-f$n
 RL	eng	anaemic	n	ita	anemico	n$n-GD
 LR	eng	anaemic	n	ita	anemico	n$n-GD
-	eng	anaesthesia	n$n-unc	ita	anestesia	n$n-f
+	eng	anaesthesia	n$n-unc	ita	anestesia	n-f$n
 	eng	anaesthesiology	n	ita	anestesiologia	n-f
 RL	eng	anaesthetist	n	ita	anestesista	n$n-GD
 LR	eng	anaesthetist	n	ita	anestesista	n$n-GD
@@ -13471,7 +13471,7 @@ LR	eng	clap	n	ita	applauso	n-m$n
 	eng	carbuncle	n	ita	carbonchio	n-m
 	eng	chamfer	n	ita	cianfrinatura	n-f
 	eng	asterisk	n	ita	asterisco	n-m
-	eng	apple	n$n-ND	ita	mela	n$n-f
+	eng	apple	n$n-ND	ita	mela	n-f$n
 LR	eng	appliance	n	ita	elettrodomestico	n-GD
 RL	eng	appliance	n	ita	elettrodomestico	n-m$$n
 	eng	applicability	n	ita	applicabilità	n-f-sp$n-f
@@ -13544,9 +13544,9 @@ LR	eng	arrangement	n	ita	accordo	n-m$n$n-m-sg
 LR	eng	array	n$n-sg	ita	varietà	n-f-sp$n-f
 LR	eng	array	n-pl	ita	varietà	n-f-sp$n-f
 	eng	arrest	n$n-ND	ita	arresto	n-m$n
-RL	eng	arrested	n-pl$n	ita	arrestato	n-m-pl
-RL	eng	arrested	n-pl$n	ita	arrestato	n-f-pl
-LR	eng	arrested	n-pl$n	ita	arrestato	n-GD$n
+RL	eng	arrested	n$n-pl	ita	arrestato	n-m-pl
+RL	eng	arrested	n$n-pl	ita	arrestato	n-f-pl
+LR	eng	arrested	n$n-pl	ita	arrestato	n-GD$n
 LR	eng	arrested person	n$n-sg	ita	arrestato	n-GD$n
 RL	eng	arrested person	n$n-sg	ita	arrestato	n-m-sg
 RL	eng	arrested person	n$n-sg	ita	arrestato	n-f-sg
@@ -13886,8 +13886,8 @@ RL	eng	initiator	n$n-sg	ita	iniziatore	n-m$n
 LR	eng	benediction	n	ita	benedizione	n-f$n
 RL	eng	benefactor	n	ita	benefattore	n$n-GD
 LR	eng	benefactor	n	ita	benefattore	n$n-GD
-RL	eng	beneficiary	n	ita	beneficiario	n$n-GD
-LR	eng	beneficiary	n	ita	beneficiario	n$n-GD
+RL	eng	beneficiary	n	ita	beneficiario	n$n-m
+LR	eng	beneficiary	n	ita	beneficiario	n-GD
 	eng	benefit	n$n-ND	ita	beneficio	n-m$n
 	eng	benevolence	n	ita	benevolenza	n-f$n
 LR	eng	benzine	n$n-ND	ita	benzina	n-f$n
@@ -13922,7 +13922,7 @@ LR	eng	bike	n$n-ND	ita	bicicletta	n$n-f
 	eng	bill	n$n-ND	ita	fattura	n-f$n
 RL	eng	bill	n$n-ND	ita	bolletta	n-f$n
 	eng	billiard	n$n-pl	ita	biliardo	n-m$n
-	eng	bin	n	ita	cubo	n-m$n
+	eng	bin	n$	ita	cubo	n-m$n
 	eng	bioaccumulation	n	ita	bioaccumulazione	n-f
 	eng	biodegradation	n	ita	biodegradazione	n-f
 RL	eng	biodiversity	n$n-ND	ita	biodiversità	n-f-sp$n-f
@@ -14042,7 +14042,7 @@ RL	eng	bourgeois	n$n-ND	ita	borghese	n-m$n
 	eng	boxer	n	ita	pugile	n-m
 	eng	boxing	n$n-sg	ita	pugilato	n-m$n-m-sg
 RL	eng	boxing	n$n-sg	ita	pugilato	n-m-pl
-	eng	boy	n$n-ND	ita	ragazzo	n$n-m$n-m-sg
+	eng	boy	n$n-ND	ita	ragazzo	n-m$n$n-m-sg
 RL	eng	boy	n$n-ND	ita	bambino	n-m$n
 	eng	boyar	n	ita	boiaro	n-m
 	eng	boycott	n$n-sg	ita	boicottaggio	n-m$n
@@ -14238,7 +14238,7 @@ RL	eng	cameraman	n-ND	ita	cameraman	n-m-sp$n-m
 	eng	cafe	n$n-ND	ita	cafe	n-m
 	eng	camembert	n	ita	camembert	n-m
 	eng	chimpanzee	n	ita	scimpanzé	n-m
-	eng	can	n$n-ND	ita	latta	n-f$n
+	eng	can	n$n-sg	ita	latta	n-f$n
 	eng	canalisation	n	ita	canalizzazione	n$n-f
 	eng	canapé	n	ita	canapé	n-m-sp$n-m
 	eng	cancellation	n	ita	annullamento	n-m
@@ -14483,7 +14483,7 @@ RL	eng	chat	n$n-ND	ita	chat	n-f-sp$n-f
 LR	eng	check	n$n-ND	ita	controllo	n-m$n
 	eng	checklist	n	ita	lista	n-f$n
 	eng	cheek	n$n-sg	ita	guancia	n-f
-	eng	cheese	n$n-sg	ita	formaggio	n$n-m
+	eng	cheese	n$n-sg	ita	formaggio	n-m$n
 RL	eng	chef	n$n-ND	ita	chef	n-m-sp
 LR	eng	chef	n-sg	ita	chef	n-m-sp
 LR	eng	chef	n-pl	ita	chef	n-m-sp
@@ -14845,8 +14845,8 @@ LR	eng	concerto	n$n-ND	ita	concerto	n-m$n
 RL	eng	conductivity	n$n-ND	ita	conducibilità	n-f-sp
 LR	eng	conductivity	n-sg	ita	conducibilità	n-f-sp
 LR	eng	conductivity	n-pl	ita	conducibilità	n-f-sp
-LR	eng	conductor	n$n-sg	ita	direttore	n$n-GD
-RL	eng	conductor	n$n-sg	ita	direttore	n$n-GD
+LR	eng	conductor	n$n-sg	ita	direttore	n-GD
+RL	eng	conductor	n$n-sg	ita	direttore	n$n-m
 	eng	condyle	n	ita	condilo	n-m
 	eng	cone	n	ita	cono	n-m$n
 	eng	confederation	n	ita	confederazione	n-f$n
@@ -14989,7 +14989,7 @@ LR	eng	work centre	n$n-ND	ita	ufficio	n-m$n
 	eng	rapeseed oil	n	ita	olio	n-m$n
 	eng	reinforcement	n$n-sg	ita	rinforzamento	n-m
 	eng	golden	adj$adj-sint	ita	aureo	$adj
-	eng	successful	adj	ita	di successo	adj-mf-sp$adj$adj-mf$
+	eng	successful	adj	ita	di successo	adj-mf-sp$adj-mf
 	eng	marketable	adj	ita	vendibile	adj-mf$$adj
 	eng	successfully	adv	ita	con successo	adv
 	eng	conditionally	adv	ita	condizionatamente	adv
@@ -15072,7 +15072,7 @@ RL	eng	counter	n$n-ND	ita	bancone	n-m
 	eng	county	n$n-ND	ita	contea	n-f
 LR	eng	coup	n$n-ND	ita	colpo	n-m$n
 	eng	coup	n$n-ND	ita	colpo	n-m$n
-	eng	couple	n$n-ND	ita	coppia	n$n-f
+	eng	couple	n$n-ND	ita	coppia	n-f$n
 	eng	coupon	n	ita	buono	n-m$n
 RL	eng	courage	n$n-sg	ita	valore	n-m$n
 	eng	course	n$n-ND	ita	corso	n-m$n
@@ -15445,7 +15445,7 @@ RL	eng	detection	n	ita	individuazione	n-f$n
 RL	eng	detective	n$n-ND	ita	investigatore	n-f
 LR	eng	detector	n$n-sg	ita	rivelatore	n-GD
 RL	eng	detector	n$n-sg	ita	rivelatore	n$n-m
-	eng	detention	n$n-ND	ita	detenzione	n$n-f$n-f-m
+	eng	detention	n$n-ND	ita	detenzione	n-f$n$n-f-m
 	eng	detergent	n	ita	detergente	n-m$n$
 	eng	deterioration	n	ita	deterioramento	n-m$n
 	eng	determination	n$n-unc	ita	determinazione	n-f$n
@@ -15520,8 +15520,8 @@ LR	eng	diocese	n-pl	ita	diocesi	n-f-sp$n-f
 LR	eng	diplomat	n$n-ND	ita	diplomatico	n-GD
 RL	eng	diplomat	n$n-ND	ita	diplomatico	n$n-m
 	eng	direction	n$n-ND	ita	direzione	n-f$n
-LR	eng	director	n$n-ND	ita	direttore	n$n-GD
-	eng	director	n$n-ND	ita	direttore	n$n-GD
+LR	eng	director	n$n-ND	ita	direttore	n-GD
+	eng	director	n$n-ND	ita	direttore	n$n-m
 	eng	directorate	n	ita	direzione generale	n-f
 LR	eng	directory	n$n-pl	ita	directory	n-f-sp
 RL	eng	directory	n-ND	ita	directory	n-f-sp
@@ -15675,8 +15675,8 @@ LR	eng	dough	n$n-unc	ita	pasta	n-f$n
 	eng	drawer	n$n-ND	ita	cassetto	n-m$n
 LR	eng	drawing	n$n-ND	ita	disegno	n-m$n
 	eng	dream	n$n-ND	ita	sogno	n-m$n
-LR	eng	dregs	n$n-pl	ita	feccia	n-f-sg
-	eng	dregs	n$n-pl	ita	feccia	n-f-sg
+LR	eng	dregs	n$n-pl	ita	feccia	n-f-sg$n-f
+	eng	dregs	n$n-pl	ita	feccia	n-f-sg$n-f
 	eng	dress	n$n-sg	ita	abito	n-m$n
 LR	eng	dressing	n	ita	fasciatura	n-f
 LR	eng	dressing	n	ita	condimento	n-m$n
@@ -15696,12 +15696,12 @@ LR	eng	drought	n$n-sg	ita	siccità	n-f-sp$n-f
 LR	eng	drought	n-pl	ita	siccità	n-f-sp$n-f
 RL	eng	drought	n-ND	ita	siccità	n-f-sp$n-f
 	eng	drowning	n	ita	annegamento	n$n-m
-	eng	drug	n$n-ND	ita	droga	n-f$n
+	eng	drug	n$n-sg	ita	droga	n-f$n
 	eng	drug addiction	n$n-sg	ita	tossicodipendenza	n$n-f
-	eng	drug trafficking	n$n-sg	ita	traffico	n-m$n
-RL	eng	drug trafficking	n$n-sg	ita	traffico	n-m$n
-RL	eng	drug trafficking	n$n-sg	ita	traffico	n-m$n
-RL	eng	drug trafficking	n$n-sg	ita	narcotraffico	n-m
+	eng	drug trafficking	n	ita	traffico	n-m$n
+RL	eng	drug trafficking	n	ita	traffico	n-m$n
+RL	eng	drug trafficking	n	ita	traffico	n-m$n
+RL	eng	drug trafficking	n	ita	narcotraffico	n-m
 LR	eng	drugstore	n	ita	farmacia	n-f$n
 	eng	drum	n$n-sg	ita	tamburo	n-m$n
 LR	eng	drunkard	n$n-ND	ita	ubriaco	n$$n-GD
@@ -16240,7 +16240,7 @@ LR	eng	farming	n$n-unc	ita	agricoltura	n-f$n
 LR	eng	fascist	n$n-sg	ita	fascista	n-GD
 RL	eng	fascist	n$n-sg	ita	fascista	n-m$n
 	eng	fashion	n$n-ND	ita	moda	n-f$n
-	eng	fat	n$n-ND	ita	grasso	n-m$n
+	eng	fat	n$n-ND	ita	grasso	n-m$$n
 	eng	fatalism	n$n-sg	ita	fatalismo	n$n-m
 LR	eng	fate	n$n-ND	ita	destino	n-m$n
 	eng	father	n$n-sg	ita	padre	n-m$n$n-m-pl$
@@ -16254,7 +16254,7 @@ RL	eng	fax	n$n-ND	ita	fax	n-m-sp$n-m
 LR	eng	fax	n-sg	ita	fax	n-m-sp$n-m
 LR	eng	fax	n-pl	ita	fax	n-m-sp$n-m
 	eng	façade	n$n-ND	ita	facciata	n-f$n
-	eng	fear	n$n-sg	ita	paura	n-f$n
+	eng	fear	n$n-sg	ita	paura	n-f$n$
 RL	eng	feasibility	n$n-ND	ita	fattibilità	n-f-sp
 LR	eng	feasibility	n-sg	ita	fattibilità	n-f-sp
 LR	eng	feasibility	n-pl	ita	fattibilità	n-f-sp
@@ -16275,7 +16275,7 @@ RL	eng	feminist	n	ita	femminista	n$n-GD
 	eng	hedge	n	ita	siepe	n-f
 	eng	barbed wire	n	ita	filo spinato	n-m
 	eng	fencing	n$n-sg	ita	scherma	n-f$n
-	eng	hospitality industry	n$n-sg	ita	industria	n-f$n
+	eng	hospitality industry	n	ita	industria	n-f$n
 RL	eng	fence	n$n-sg	ita	recinzione	n-f
 LR	eng	wire fence	n	ita	recinzione	n-f
 	eng	fennel	n	ita	finocchio	n-m$n
@@ -16404,7 +16404,7 @@ LR	eng	florist	n	ita	fiorista	n$n-GD
 	eng	flour	n$n-sg	ita	farina	n$n-f
 	eng	flow	n$n-ND	ita	flusso	n-m$n
 	eng	flower	n$n-sg	ita	fiore	n-m$n
-	eng	flu	n$n-ND	ita	influenza	n-f$n
+	eng	flu	n$n-sg	ita	influenza	n-f$n
 	eng	fluctuation	n	ita	fluttuazione	n$n-f
 LR	eng	fluidity	n$n-sg	ita	fluidità	n-f-sp$n-f
 LR	eng	fluidity	n-pl	ita	fluidità	n-f-sp$n-f
@@ -16923,7 +16923,7 @@ LR	eng	gesticulation	n	ita	gesto	n-m$n
 	eng	marsupium	n	ita	marsupio	n-m
 	eng	ghost	n$n-ND	ita	fantasma	n-m$n
 LR	eng	giant	n$n-ND	ita	gigante	n-GD
-RL	eng	giant	n$n-ND	ita	gigante	n-mf$n$
+RL	eng	giant	n$n-ND	ita	gigante	n-m$n$
 	eng	gift	n$n-ND	ita	dono	n-m$n
 RL	eng	gift	n$n-ND	ita	regalo	n-m$n$
 LR	eng	gig	n	ita	spettacolo	n-m$n
@@ -16991,8 +16991,8 @@ LR	eng	gps	n-pl	ita	gps	n-m-sp$n
 	eng	gradation	n	ita	gradazione	n-f$n
 LR	eng	grade	n$n-ND	ita	grado	n-m$n
 RL	eng	grade	n$n-ND	ita	nota	n-f$n
-LR	eng	graduate	n	ita	laureato	n$$n-GD
-RL	eng	graduate	n	ita	laureato	n$$n-GD
+LR	eng	graduate	n	ita	laureato	n-GD
+RL	eng	graduate	n	ita	laureato	n$n-m$
 	eng	gram	n$n-ND	ita	grammo	n$n-m
 	eng	grammaticalisation	n	ita	grammaticalizzazione	n-f
 LR	eng	gramme	n$n-ND	ita	grammo	n$n-m
@@ -17021,7 +17021,7 @@ LR	eng	interrelationship	n	ita	interrelazione	n-f
 	eng	gravity	n$n-ND	ita	gravità	n-f$n-f-sp$n
 LR	eng	grazier	n$n-ND	ita	allevamento	n-GD
 RL	eng	grazier	n$n-ND	ita	allevamento	n-m
-LR	eng	grease	n$n-ND	ita	grasso	n-m$n
+LR	eng	grease	n$n-ND	ita	grasso	n-m$$n
 RL	eng	greed	n$n-ND	ita	avidità	n-f-sp$n-f
 LR	eng	greed	n-sg	ita	avidità	n-f-sp$n-f
 LR	eng	greed	n-pl	ita	avidità	n-f-sp$n-f
@@ -17063,7 +17063,7 @@ LR	eng	guitarist	n	ita	chitarrista	n$n-GD
 RL	eng	guitarist	n	ita	chitarrista	n$n-GD
 	eng	gulf	n$n-ND	ita	golfo	n-m$n
 	eng	gum	n$n-pl	ita	gengiva	n-f$n
-	eng	gun	n$n-sg	ita	pistola	n$n-f
+	eng	gun	n$n-sg	ita	pistola	n-f$n
 	eng	gunpowder	n$n-sg	ita	polvere	n-f$n
 LR	eng	guy	n$n-sg	ita	tipo	n-m$n$
 	eng	gym	n	ita	palestra	n-f
@@ -17259,7 +17259,7 @@ LR	eng	home	n$n-sg	ita	casa	n-f$n
 	eng	homeomorphism	n	ita	omeomorfismo	n-m
 	eng	homework	n$n-sg	ita	dovere	n-m$n-m-pl$n
 LR	eng	homework	n-pl	ita	dovere	n-m$n-m-pl$n
-	eng	homicide	n	ita	omicidio	n$n-m
+	eng	homicide	n	ita	omicidio	n-m$n
 	eng	homoeopathy	n	ita	omeopatia	n$n-f
 RL	eng	homogeneity	n$n-ND	ita	omogeneità	n-f-sp$n-f
 LR	eng	homogeneity	n-sg	ita	omogeneità	n-f-sp$n-f
@@ -17273,7 +17273,7 @@ LR	eng	homogeneity	n-pl	ita	omogeneità	n-f-sp$n-f
 	eng	homophobia	n	ita	omofobia	n$n-f
 	eng	homophony	n	ita	omofonia	n-f
 	eng	homopolymer	n	ita	omopolimero	n-m
-	eng	homosexual	n$n-ND	ita	omosessuale	n$$n-m
+	eng	homosexual	n$n-ND	ita	omosessuale	n$n-m$
 RL	eng	homosexuality	n$n-ND	ita	omosessualità	n-f-sp$n$n-f
 LR	eng	homosexuality	n-sg	ita	omosessualità	n-f-sp$n$n-f
 LR	eng	homosexuality	n-pl	ita	omosessualità	n-f-sp$n$n-f
@@ -17493,7 +17493,7 @@ LR	eng	inability	n-pl	ita	incapacità	n-f-sp$n-f
 	eng	incentivisation	n	ita	incentivazione	n-f
 	eng	inch	n$n-sg	ita	pollice	n-m$n
 	eng	incidence	n	ita	incidenza	n$n-f
-LR	eng	incident	n$n-ND	ita	incidente	n$n-m$
+LR	eng	incident	n$n-ND	ita	incidente	n-m$n$
 	eng	incineration	n$n-ND	ita	incenerimento	n-m
 	eng	incitement	n$n-sg	ita	incitamento	n-m
 	eng	inclination	n$n-ND	ita	inclinazione	n-f$n
@@ -17558,7 +17558,7 @@ RL	eng	influx	n	ita	afflusso	n-m
 	eng	infringement	n	ita	infrazione	n-f$n
 LR	eng	infructescence	n	ita	infiorescenza	n-f
 	eng	infusion	n	ita	infuso	n-m
-	eng	inhabitant	n$n-ND	ita	abitante	n$n-mf
+	eng	inhabitant	n$n-ND	ita	abitante	n-mf$n
 RL	eng	inhabitant	n$n-ND	ita	abitatore	n-m$n
 	eng	inhalation	n	ita	inalazione	n$n-f
 	eng	ciliate	n	ita	ciliato	n-m
@@ -17744,7 +17744,7 @@ LR	eng	islamist	n	ita	islamista	n-GD$n
 LR	eng	item	n$n-sg	ita	elemento	n-m$n
 	eng	iteration	n	ita	iterazione	n-f$n
 	eng	ivory	n	ita	avorio	n-m$n$
-	eng	jacket	n$n-sg	ita	giacca	n$n-f
+	eng	jacket	n$n-sg	ita	giacca	n-f$n
 	eng	jacobinism	n	ita	giacobinismo	n-m
 	eng	jade	n	ita	giada	n-f
 	eng	jaguar	n	ita	giaguaro	n-m$n
@@ -17772,7 +17772,7 @@ LR	eng	journalist	n$n-ND	ita	giornalista	n-GD
 RL	eng	journalist	n$n-ND	ita	giornalista	n$n-m$n-mf-m
 LR	eng	journey	n$n-ND	ita	viaggio	n-m$n
 	eng	joy	n$n-sg	ita	gioia	n-f$n
-	eng	judge	n$n-sg	ita	giudice	n-mf$n
+	eng	judge	n$n-sg	ita	giudice	n-mf
 	eng	judgement	n$n-ND	ita	giudizio	n-m$n
 LR	eng	judgement	n$n-ND	ita	sentenza	n-f$n
 	eng	juice	n$n-ND	ita	succo	n-m$n
@@ -17849,7 +17849,7 @@ LR	eng	labour	n$n-ND	ita	lavoro	n-m$n
 	eng	lace	n	ita	merletto	n-m$n
 	eng	lactose	n	ita	lattosio	n-m
 LR	eng	lad	n$n-ND	ita	ragazzo	n-GD
-RL	eng	lad	n$n-ND	ita	ragazzo	n$n-m$n-m-sg
+RL	eng	lad	n$n-ND	ita	ragazzo	n-m$n$n-m-sg
 	eng	lady	n$n-pl	ita	signore	n-f
 RL	eng	lady	n$n-pl	ita	dama	n-f$n
 	eng	ladybird	n	ita	coccinella	n$n-f
@@ -18035,7 +18035,7 @@ LR	eng	fiancée	n	ita	fidanzato	n-f
 	eng	lip	n-pl	ita	labbro	n-f-pl
 	eng	liquefaction	n	ita	liquefazione	n-f$n
 LR	eng	liqueur	n	ita	liquore	n-m$n
-	eng	liquid	n$n-ND	ita	liquido	n-m$n
+	eng	liquid	n$n-ND	ita	liquido	n-m$$n
 	eng	liquidation	n	ita	liquidazione	n-f$n
 	eng	liquor	n$n-ND	ita	liquore	n-m$n
 	eng	list	n$n-ND	ita	lista	n-f$n
@@ -18121,7 +18121,7 @@ RL	eng	luminosity	n$n-ND	ita	chiaro	n-m$n
 	eng	luxury	n$n-ND	ita	lusso	n-m$n
 	eng	lymph	n$n-sg	ita	linfa	n-f$n
 	eng	lyophilisation	n	ita	liofilizzazione	n-f
-LR	eng	lyric	n-pl$n	ita	testo	n-m$n$n-m-sg
+LR	eng	lyric	n$n-pl	ita	testo	n-m$n$n-m-sg
 	eng	lyricism	n	ita	lirismo	n-m
 	eng	rainbow	n$n-ND	ita	iride	n-f$n-f-ND
 	eng	iris	n$n-ND	ita	iride	n-f$n-f-ND
@@ -18182,8 +18182,8 @@ LR	eng	maltreatment	n	ita	abuso	n-m$n
 	eng	man	n$n-ND	ita	uomo	n-m$n
 RL	eng	management	n$n-sg	ita	gestione	n-f$n
 	eng	management	n$n-sg	ita	dirigenza	n-f$n
-LR	eng	manager	n$n-ND	ita	direttore	n$n-GD
-	eng	manager	n$n-ND	ita	direttore	n$n-GD
+LR	eng	manager	n$n-ND	ita	direttore	n-GD
+	eng	manager	n$n-ND	ita	direttore	n$n-m
 RL	eng	manager	n$n-ND	ita	responsabile	n-mf$$n
 	eng	manbag	n	ita	borsello	n-m$n
 	eng	mandate	n$n-ND	ita	mandato	n-m$n
@@ -18250,7 +18250,7 @@ RL	eng	master	n$n-sg	ita	padrone	n-m$n$
 	eng	masturbation	n	ita	masturbazione	n$n-f
 	eng	match	n$n-sg	ita	fiammifero	n-m
 LR	eng	mate	n$n-ND	ita	compagno	n-GD
-	eng	material	n$n-ND	ita	materiale	n-m$n
+	eng	material	n$n-ND	ita	materiale	n-m$$n
 RL	eng	material	n$n-ND	ita	materia	n-f$n
 	eng	materialisation	n	ita	materializzazione	n$n-f
 	eng	materialism	n$n-sg	ita	materialismo	n-m$n
@@ -18279,7 +18279,7 @@ LR	eng	meal	n$n-ND	ita	cibo	n-m$n
 LR	eng	meat	n$n-ND	ita	carne	n-f$n
 	eng	mechanisation	n$n-ND	ita	meccanizzazione	n$n-f
 	eng	mechanism	n$n-ND	ita	meccanismo	n-m$n
-	eng	medal	n$n-ND	ita	medaglia	n$n-f
+	eng	medal	n$n-ND	ita	medaglia	n-f$n
 	eng	mediation	n	ita	mediazione	n-f$n
 	eng	medic	n	ita	medico	n-m$n
 	eng	medicine	n$n-ND	ita	farmaco	n-m$n
@@ -18376,7 +18376,7 @@ LR	eng	microorganism	n	ita	microrganismo	n-m$n
 	eng	microtubule	n	ita	microtubulo	n-m
 	eng	microwave	n$n-sg	ita	microonde	n-m-sp$n-m
 	eng	microwave oven	n$n-ND	ita	forno	n-m$n
-	eng	middle finger	n$n-ND	ita	dito medio	n-m$n
+	eng	middle finger	n$n-ND	ita	dito medio	n$n-m
 LR	eng	midfielder	n	ita	centrocampista	n-GD$n
 RL	eng	midfielder	n	ita	centrocampista	n-GD$n
 	eng	midnight	n$n-ND	ita	mezzanotte	n$n-f
@@ -18478,7 +18478,7 @@ LR	eng	moldavian	n	ita	moldavo	n$n-GD
 LR	eng	while	n$n-ND	ita	momento	n-m$n
 	eng	monarch	n$n-ND	ita	monarca	n-mf$n
 	eng	monarchism	n	ita	monarchismo	n-m
-	eng	monarchy	n$n-ND	ita	monarchia	n$n-f
+	eng	monarchy	n$n-ND	ita	monarchia	n-f$n
 	eng	monastery	n$n-ND	ita	monastero	n-m$n
 	eng	monetarism	n	ita	monetarismo	n-m
 	eng	monetary policy	n	ita	politica monetaria	n-f
@@ -18705,7 +18705,7 @@ LR	eng	newspaper	n$n-ND	ita	giornale	n-m$n
 	eng	nightingale	n$n-sg	ita	usignolo	n$n-m
 	eng	nightmare	n$n-ND	ita	incubo	n-m
 	eng	nihilism	n	ita	nichilismo	n-m
-LR	eng	nil	n	ita	zero	n-m$n$
+LR	eng	nil	n	ita	zero	n-m$$n
 	eng	nitrate	n	ita	nitrato	n$n-m
 	eng	nitrification	n	ita	nitratazione	n-f
 	eng	nitrogen	n$n-ND	ita	nitrogeno	n$n-m
@@ -18755,8 +18755,8 @@ LR	eng	nucleus	n$n-ND	ita	nucleo	n-m$n
 	eng	numbering	n	ita	numerazione	n-f$n
 RL	eng	numismatist	n	ita	numismatico	n$n-GD
 LR	eng	numismatist	n	ita	numismatico	n$n-GD
-LR	eng	nurse	n$n-ND	ita	infermiere	n$n-GD
-RL	eng	nurse	n$n-ND	ita	infermiere	n$n-GD
+LR	eng	nurse	n$n-ND	ita	infermiere	n-GD
+RL	eng	nurse	n$n-ND	ita	infermiere	n$n-m
 LR	eng	nursemaid	n	ita	bambinaia	n-f$n
 	eng	nursery	n$n-ND	ita	vivaio	n-m$n
 LR	eng	nut	n$n-sg	ita	dado	n-m$n
@@ -18834,7 +18834,7 @@ RL	eng	operation	n$n-ND	ita	operatività	n-f-sp$n-f
 LR	eng	operation	n-sg	ita	operatività	n-f-sp$n-f
 LR	eng	operation	n-pl	ita	operatività	n-f-sp$n-f
 LR	eng	operator	n$n-sg	ita	operatore	n-GD
-RL	eng	operator	n$n-sg	ita	operatore	n$n-m
+RL	eng	operator	n$n-sg	ita	operatore	n-m$n
 	eng	ophthalmia	n	ita	oftalmia	n-f
 RL	eng	ophthalmologist	n	ita	oculista	n-GD$n
 LR	eng	ophthalmologist	n	ita	oculista	n-GD$n
@@ -18980,7 +18980,7 @@ LR	eng	pagan	n	ita	pagano	n$n-GD$
 LR	eng	pagination	n	ita	impaginazione	n-f$n
 	eng	pagoda	n	ita	pagoda	n$n-f
 LR	eng	pail	n	ita	cubo	n-m$n
-	eng	pain	n$n-ND	ita	dolore	n-m
+	eng	pain	n$n-ND	ita	dolore	n-m$n
 	eng	paint	n$n-ND	ita	vernice	n-f$n
 LR	eng	painter	n$n-ND	ita	pittore	n-GD
 RL	eng	painter	n$n-ND	ita	pittore	n$n-m
@@ -19143,7 +19143,7 @@ RL	eng	patron	n$n-sg	ita	patrono	n-m$n
 LR	eng	patron saint	n$n-ND	ita	patrono	n-GD
 	eng	shop window	n	ita	vetrina	n-f$n
 	eng	postal address	n	ita	indirizzo postale	n-m
-	eng	scuba diving	n$n-sg	ita	immersione subacquea	n-f
+	eng	scuba diving	n	ita	immersione subacquea	n-f
 	eng	sinuatrial node	n	ita	nodo senoatriale	n-m
 	eng	linguistic package	n	ita	pacchetto linguistico	n-m
 	eng	running water	n	ita	acqua corrente	n-f
@@ -19776,7 +19776,7 @@ RL	eng	psychologist	n$n-ND	ita	psicologo	n$n-GD
 RL	eng	psychosis	n$n-ND	ita	psicosi	n-f-sp$n-f
 LR	eng	psychosis	n-sg	ita	psicosi	n-f-sp$n-f
 LR	eng	psychosis	n-pl	ita	psicosi	n-f-sp$n-f
-	eng	public	n$n-ND	ita	pubblico	$n-m$n
+	eng	public	n$n-ND	ita	pubblico	n-m$$n
 	eng	public prosecutor	n$n-ND	ita	pubblico ministero	n-m
 	eng	publication	n$n-ND	ita	pubblicazione	n-f$n
 LR	eng	publicist	n	ita	pubblicista	n-GD$n
@@ -20005,7 +20005,7 @@ LR	eng	recruitment	n	ita	coscrizione	n-f
 	eng	recurrence	n	ita	ricorrenza	n-f$n
 	eng	recycling	n	ita	riciclaggio	n$n-m
 LR	eng	red	n$n-ND	ita	rosso	n-GD
-RL	eng	red	n$n-ND	ita	rosso	n-m$n
+RL	eng	red	n$n-ND	ita	rosso	n-m$$n
 	eng	redefinition	n	ita	ridefinizione	n-f$n
 LR	eng	redesign	n	ita	ridefinizione	n-f$n
 	eng	redistribution	n	ita	ridistribuzione	n$n-f
@@ -20292,7 +20292,7 @@ LR	eng	trash bag	n	ita	busta	n-f$n
 	eng	rule-based machine translation	n	ita	traduzione automatica basata su regole	n-f
 LR	eng	ruler	n$n-sg	ita	governante	n-mf
 	eng	rumour	n$n-ND	ita	rumor	n$n-m
-LR	eng	run	n$n-ND	ita	carriera	n-f$n
+LR	eng	run	n$n-sg	ita	carriera	n-f$n
 LR	eng	runner	n$n-ND	ita	corridore	n-GD
 RL	eng	runner	n$n-ND	ita	corridore	n$n-m
 	eng	rupee	n	ita	rupia	n-f$n
@@ -20326,7 +20326,7 @@ LR	eng	salinity	n-sg	ita	salinità	n-f-sp
 LR	eng	salinity	n-pl	ita	salinità	n-f-sp
 	eng	saliva	n	ita	saliva	n-f$n
 	eng	salivation	n	ita	salivazione	n-f
-	eng	salt	n$n-ND	ita	sale	n-m$n
+	eng	salt	n$n-sg	ita	sale	n-m$n
 	eng	saltworks	n	ita	salina	n$n-f
 	eng	salvation	n$n-ND	ita	redenzione	n-f
 	eng	sample	n	ita	dimostrazione	n-f$n
@@ -20425,10 +20425,10 @@ LR	eng	search	n$n-ND	ita	ricerca	n-f$n
 LR	eng	seashell	n	ita	conchiglia	n-f$n
 	eng	season	n$n-ND	ita	stagione	n$n-f
 RL	eng	seat	n$n-ND	ita	località	n-f-sp$n-f
-	eng	seaweed	n	ita	alga	n$n-f
+	eng	seaweed	n	ita	alga	n-f$n
 	eng	secessionism	n	ita	secessionismo	n-m
-LR	eng	second	n$n-ND	ita	secondo	n-GD
-RL	eng	second	n$n-ND	ita	secondo	n-m$n
+LR	eng	second	n$n-sg	ita	secondo	n-GD
+RL	eng	second	n$n-sg	ita	secondo	n-m$n
 	eng	secondary school	n$n-ND	ita	liceo	n-m$n
 	eng	secret	n$n-ND	ita	segreto	n-m$n
 	eng	secretariat	n	ita	segreteria	n-f
@@ -20487,7 +20487,7 @@ RL	eng	senator	n$n-ND	ita	senatore	n$n-m
 LR	eng	sending	n	ita	spedizione	n-f$n
 	eng	sensation	n$n-ND	ita	sensazione	n-f$n
 	eng	sensationalism	n	ita	sensazionalismo	n-m
-	eng	sense	n$n-sg	ita	senso	n-m$n
+	eng	sense	n$n-sg	ita	senso	n-m$n$
 	eng	sense	n$n-sg	ita	olfatto	n-m$n
 	eng	sensitisation	n	ita	sensibilizzazione	n-f
 RL	eng	sensitivity	n$n-ND	ita	sensibilità	n-f$n-f-sp
@@ -20780,7 +20780,7 @@ LR	eng	carrier	n$n-ND	ita	portatore	n$n-GD
 LR	eng	congresswoman	n	ita	membro	n-m$n-f-m$n
 RL	eng	caravan	n$n-sg	ita	carrozzone	n-m
 	eng	burner	n	ita	bruciatore	n-m
-	eng	solstice	n$n-ND	ita	solstizio	n$n-m
+	eng	solstice	n$n-ND	ita	solstizio	n-m$n
 	eng	solution	n$n-sg	ita	soluzione	n-f$n
 	eng	solvent	n	ita	solvente	n$n-m$
 	eng	somnambulism	n	ita	sonnambulismo	n-m
@@ -20947,7 +20947,7 @@ RL	eng	controller	n	ita	controllore	n-m$n
 	eng	keratin	n	ita	cheratina	n-f
 	eng	kneepad	n	ita	ginocchiera	n-f
 	eng	leadership	n$n-unc	ita	direzione	n-f$n
-	eng	lightning	n$n-unc	ita	fulmine	n-m$n
+	eng	lightning	n$n-sg	ita	fulmine	n-m$n
 	eng	lignin	n	ita	lignina	n-f
 	eng	lipase	n	ita	lipasi	n-f
 	eng	lipid	n	ita	lipide	n-m
@@ -21038,7 +21038,7 @@ RL	eng	controller	n	ita	controllore	n-m$n
 	eng	saccharose	n	ita	saccarosio	n-m
 	eng	sacrum	n$n-sg	ita	osso sacro	n-m
 	eng	saprophyte	n	ita	saprofita	n-m
-	eng	scare	n$n-ND	ita	paura	n-f$n
+	eng	scare	n$n-ND	ita	paura	n-f$n$
 	eng	scoliosis	n$n-ND	ita	scoliosi	n-f
 	eng	semen	n	ita	sperma	n-m$n
 	eng	seneschal	n	ita	siniscalco	n-m
@@ -21107,7 +21107,7 @@ RL	eng	corduroy	n	ita	corduroy	n-m
 	eng	cashmere	n	ita	cachemire	n-m
 	eng	bonus	n	ita	bonus	n-m$n
 	eng	bikini	n	ita	bikini	n-m
-	eng	bel	n	ita	bel	n-m
+	eng	bel	n	ita	bel	$n-m
 	eng	becquerel	n	ita	becquerel	n-m
 	eng	audiphone	n	ita	audiphone	n-m
 	eng	bungalow	n	ita	bungalow	n-m
@@ -21716,8 +21716,8 @@ RL	eng	taenia	n	ita	taenia	n-f
 	eng	talent	n$n-ND	ita	talento	n-m$n
 	eng	talisman	n$n-sg	ita	talismano	n-m$n
 LR	eng	talk	n$n-sg	ita	ciarla	n-f$n
-LR	eng	tall	n	ita	alto	n$n-GD
-RL	eng	tall	n	ita	alto	n$n-GD
+LR	eng	tall	n	ita	alto	n-GD
+RL	eng	tall	n	ita	alto	n$n-m
 LR	eng	tamer	n	ita	domatore	n$n-GD
 RL	eng	tamer	n	ita	domatore	n$n-GD
 	eng	tan	n	ita	abbronzatura	n-f
@@ -21780,7 +21780,7 @@ LR	eng	teacher's pet	n	ita	beniamino	n-GD
 	eng	tear	n$n-ND	ita	strappo	n-m
 LR	eng	technician	n$n-ND	ita	tecnico	n-GD
 RL	eng	technician	n$n-ND	ita	tecnico	n-m$$n
-	eng	technology	n$n-ND	ita	tecnologia	n$n-f
+	eng	technology	n$n-ND	ita	tecnologia	n-f$n
 	eng	technostructure	n	ita	tecnostruttura	n-f
 	eng	teenager	n$n-ND	ita	adolescente	n$n-mf$
 	eng	telecommunication	n	ita	telecomunicazione	n$n-f
@@ -22032,8 +22032,8 @@ RL	eng	transfer	n$n-ND	ita	storno	n-m$n
 	eng	transition	n$n-ND	ita	transizione	n-f$n
 	eng	translation	n$n-ND	ita	traduzione	n-f$n
 RL	eng	translation	n$n-ND	ita	traslazione	n$n-f
-LR	eng	translator	n$n-sg	ita	traduttore	n$n-GD
-RL	eng	translator	n$n-sg	ita	traduttore	n$n-GD
+LR	eng	translator	n$n-sg	ita	traduttore	n-GD
+RL	eng	translator	n$n-sg	ita	traduttore	n$n-m
 	eng	transliteration	n	ita	traslitterazione	n-f$n
 	eng	transmigration	n	ita	trasmigrazione	n-f$n
 LR	eng	transmission	n$n-ND	ita	cambio	n-m$n
@@ -22042,7 +22042,7 @@ RL	eng	transmission	n$n-ND	ita	trasmissione	n-f$n
 	eng	transmutation	n	ita	trasmutazione	n-f$n
 	eng	transparency	n	ita	trasparenza	n-f$n
 LR	eng	openness	n$n-unc	ita	trasparenza	n-f$n
-	eng	transpiration	n$n-ND	ita	traspirazione	n$n-f
+	eng	transpiration	n$n-ND	ita	traspirazione	n-f$n
 	eng	transplantation	n	ita	trapianto	n-m$n
 LR	eng	transport	n$n-ND	ita	trasporto	n-m$n
 LR	eng	transportation	n$n-ND	ita	trasporto	n-m$n
@@ -22055,7 +22055,7 @@ LR	eng	trash bag	n	ita	busta	n-f$n
 RL	eng	traumatologist	n	ita	traumatologo	n$n-GD
 LR	eng	traumatologist	n	ita	traumatologo	n$n-GD
 	eng	traumatology	n$n-sg	ita	traumatologia	n$n-f
-LR	eng	travel	n$n-ND	ita	viaggio	n-m$n
+LR	eng	travel	n$n-sg	ita	viaggio	n-m$n
 LR	eng	traveller	n$n-ND	ita	viaggiatore	n-GD
 RL	eng	traveller	n$n-ND	ita	viaggiatore	n$n-m
 	eng	traveller's cheque	n	ita	assegno	n-m$n
@@ -22118,7 +22118,7 @@ LR	eng	tuberculosis	n$n-sg	ita	tubercolosi	n-f-sp$n$n-f
 LR	eng	tuberculosis	n-pl	ita	tubercolosi	n-f-sp$n$n-f
 	eng	tubulin	n	ita	tubulina	n-f
 	eng	tulip	n	ita	tulipano	n-m$n
-	eng	tumour	n	ita	tumore	n$n-m
+	eng	tumour	n	ita	tumore	n-m$n
 	eng	tundra	n	ita	tundra	n-f
 	eng	tuner	n	ita	sintonizzatore	n-m
 	eng	tunic	n$n-ND	ita	tunica	n-f$n
@@ -22447,7 +22447,7 @@ LR	eng	value	n$n-sg	ita	valore	n-m$n
 	eng	valve	n	ita	valvola	n-f$n
 	eng	vamp	n	ita	vampiressa	n-f
 	eng	vampire	n	ita	vampiro	n$n-m
-	eng	van	n$n-ND	ita	furgone	n-m$n
+	eng	van	n$$n-ND	ita	furgone	n-m$n
 	eng	vandalism	n	ita	vandalismo	n-m$n
 	eng	vanilla	n$n-sg	ita	vaniglia	n-f$n
 LR	eng	vanity	n$n-sg	ita	vanità	n-f-sp$n-f
@@ -22746,7 +22746,7 @@ LR	eng	willingness	n$n-sg	ita	disposizione	n-f$n
 	eng	window	n$n-ND	ita	finestra	n-f$n
 RL	eng	window	n$n-ND	ita	finestrino	n-m
 	eng	windscreen	n$n-ND	ita	parabrezza	n-f
-	eng	wine	n$n-ND	ita	vino	n$n-m
+	eng	wine	n$n-ND	ita	vino	n-m$n
 	eng	winemaking	n$n-unc	ita	vinificazione	n-f$n
 	eng	wing	n$n-sg	ita	ala	n-f$n
 LR	eng	winner	n$n-ND	ita	vincitore	n-GD
@@ -22870,7 +22870,7 @@ LR	eng	confrerie	n	ita	confraternita	n-f
 	eng	detachment	n	ita	distaccamento	n-m
 	eng	zarzuela	n	ita	zarzuela	n-f-sp$n-f
 	eng	zebra	n	ita	zebra	n-f$n
-	eng	zero	n$$n-ND	ita	zero	n-m$n$
+	eng	zero	n$$n-ND	ita	zero	n-m$$n
 	eng	zinc	n$n-sg	ita	zinco	n$n-m
 	eng	zither	n	ita	cetra	n-f
 	eng	zonation	n	ita	zonazione	n-f
@@ -22938,13 +22938,13 @@ RL	eng	government head	n$n-ND	ita	capo	n-m$n$
 	eng	electoral prince	n	ita	principe elettore	n-m
 LR	eng	prince-elector	n	ita	principe elettore	n-m
 	eng	electoral princess	n	ita	principe elettore	n-f
-	eng	exchange rate	n$n-sg	ita	tasso	n-m
+	eng	exchange rate	n	ita	tasso	n-m
 	eng	swine flu	n	ita	influenza suina	n-f
 	eng	bird flu	n	ita	influenza aviaria	n-f
 	eng	time zone	n	ita	fuso orario	n-m
 	eng	bechamel sauce	n	ita	besciamella	n-f
 LR	eng	proper name	n	ita	nome proprio	n-m
-	eng	ice cream	n$n-ND	ita	gelato	$n-m
+	eng	ice cream	n$n-ND	ita	gelato	n-m$
 	eng	convertible bond	n	ita	obbligazione convertibile	n-f
 	eng	dental floss	n	ita	filo interdentale	n-m
 	eng	accounting	n$n-sg	ita	contabilizzazione	n-f
@@ -23167,7 +23167,7 @@ LR	eng	proper name	n	ita	nome proprio	n-m
 	eng	corner	n$n-ND	ita	cantone	n-m
 	eng	cornice	n	ita	cornicione	n-m
 	eng	corrective	n	ita	correttivo	n-m
-	eng	corrector	n$n-sg	ita	correttore	n$n-m
+	eng	corrector	n$n-sg	ita	correttore	n-m$n
 	eng	corset	n	ita	corsetto	n-m
 	eng	cosmologist	n	ita	cosmologo	n$n-m
 	eng	costume-maker	n	ita	costumista	n-m
@@ -23271,7 +23271,7 @@ LR	eng	proper name	n	ita	nome proprio	n-m
 	eng	housemate	n	ita	coinquilino	n-m
 	eng	housewife	n$n-ND	ita	casalinga	n-f$n
 	eng	humiliation	n$n-ND	ita	scorno	n-m
-	eng	hunter	n$n-ND	ita	cacciatore	n$n-m
+	eng	hunter	n$n-ND	ita	cacciatore	n-m$n
 	eng	hut	n$n-ND	ita	casotto	n-m
 	eng	impulse	n$n-ND	ita	conato	n-m
 	eng	indent	n	ita	capoverso	n-m
@@ -23410,7 +23410,7 @@ LR	eng	proper name	n	ita	nome proprio	n-m
 	eng	unanimity	n$n-sg	ita	coralità	n-f
 	eng	unknown	n	ita	carneade	n-m
 	eng	usurer	n	ita	cravattaro	n-m
-	eng	van	n$n-ND	ita	camioncino	n-m
+	eng	van	n$$n-ND	ita	camioncino	n-m
 	eng	walker	n	ita	camminatore	n-m
 	eng	waste	n$n-sg	ita	cascame	n-m
 	eng	watchdog	n	ita	cerbero	n-m
@@ -23426,7 +23426,7 @@ LR	eng	proper name	n	ita	nome proprio	n-m
 	eng	daguerreotype	n	ita	dagherrotipo	n-m
 	eng	gallant	n	ita	damerino	n-m
 	eng	damnation	n	ita	dannazione	n-f
-	eng	giver	n	ita	datore	n$n-m
+	eng	giver	n	ita	datore	n-m$n
 	eng	typescript	n	ita	dattiloscritto	n-m
 	eng	windowsill	n	ita	davanzale	n-m
 	eng	duty	n$n-sg	ita	dazio	n-m$n
@@ -23479,7 +23479,7 @@ LR	eng	abruptly	adv	ita	bruscamente	adv
 	eng	adventurously	adv	ita	avventurosamente	adv
 	eng	arrogantly	adv	ita	arrogantemente	adv
 	eng	at all	adv	ita	per niente	adv
-	eng	at an end	adv	ita	alla fine	adv$
+	eng	at an end	adv	ita	alla fine	adv
 	eng	at any one time	adv	ita	in qualsiasi momento	adv
 	eng	at one stroke	adv	ita	in un sol colpo	adv
 	eng	awkwardly	adv	ita	goffamente	adv
@@ -23565,7 +23565,7 @@ LR	eng	afterwards	adv$	ita	dopo	adv$
 	eng	against all logic	adv	ita	contro ogni logica	adv
 	eng	against my will	adv	ita	contro la mia volontà	adv
 	eng	ago	adv	ita	fa	adv
-	eng	ahead	adv	ita	avanti	adv
+	eng	ahead	adv	ita	avanti	adv$
 	eng	all around	adv	ita	dappertutto	adv
 	eng	all in all	adv	ita	in generale	adv
 	eng	all of a sudden	adv	ita	all'improvviso	adv
@@ -23596,7 +23596,7 @@ LR	eng	alright	adv	ita	bene	adv$
 	eng	any more	adv	ita	più	adv$
 	eng	anyway	adv	ita	ad ogni modo	adv
 	eng	apart	adv	ita	a parte	adv
-	eng	apparently	adv	ita	apparentemente	adv
+	eng	apparently	adv	ita	apparentemente	adv$
 LR	eng	approximately	adv	ita	approssimativamente	adv
 	eng	arbitrarily	adv	ita	arbitrariamente	adv
 	eng	around	adv	ita	intorno	adv$
@@ -23607,7 +23607,7 @@ RL	eng	around	adv	ita	circa	adv$
 LR	eng	as a matter of fact	adv	ita	di fatto	adv
 	eng	as if	cnjadv	ita	come se	adv
 	eng	as in any place in the world	adv	ita	come in qualsiasi posto del mondo	adv
-	eng	as soon as	adv	ita	appena	adv
+	eng	as soon as	adv	ita	appena	adv$
 LR	eng	as well	adv	ita	anche	adv
 	eng	as well as	cnjadv	ita	così come	adv
 	eng	as yet	adv	ita	finora	adv
@@ -23616,14 +23616,14 @@ RL	eng	aside	adv	ita	da parte	adv
 	eng	askance	adv	ita	di sfuggita	adv
 	eng	assiduously	adv	ita	assiduamente	adv
 	eng	at a gallop	adv	ita	al galoppo	adv
-LR	eng	at a moment's notice	adv	ita	immediatamente	adv
+LR	eng	at a moment's notice	adv	ita	immediatamente	adv$
 	eng	at a time	adv	ita	contemporaneamente	adv$
 	eng	at arm's length	adv	ita	a distanza	adv
 	eng	at every turn	adv	ita	ogni volta	adv
 	eng	at first	adv	ita	all'inizio	adv
 RL	eng	at first	adv	ita	dapprima	adv
 	eng	at full speed	adv	ita	a massima velocità	adv
-	eng	at hand	adv	ita	a mano	adv$
+	eng	at hand	adv	ita	a mano	adv
 	eng	at home	adv$	ita	in casa	adv
 	eng	at last	adv	ita	infine	adv
 	eng	at least	adv	ita	almeno	adv
@@ -23636,13 +23636,13 @@ RL	eng	at least	adv	ita	neppure	adv
 LR	eng	at long last	adv	ita	infine	adv
 	eng	at most	adv	ita	al massimo	adv
 	eng	at night	adv	ita	di notte	adv
-LR	eng	at once	adv	ita	immediatamente	adv
+LR	eng	at once	adv	ita	immediatamente	adv$
 	eng	at present	adv	ita	attualmente	adv
 	eng	at random	adv	ita	a caso	adv
 	eng	at the beginning	adv	ita	inizialmente	adv
 LR	eng	at the double	adv	ita	rapidamente	adv
 	eng	at the drop of a hat	adv	ita	tra un minuto	adv
-	eng	at the end	adv	ita	alla fine	adv$
+	eng	at the end	adv	ita	alla fine	adv
 	eng	at the front	adv	ita	davanti	adv$
 LR	eng	at the maximum	adv	ita	al massimo	adv
 LR	eng	at the most	adv	ita	al massimo	adv
@@ -23654,12 +23654,12 @@ LR	eng	at the very most	adv	ita	al massimo	adv
 	eng	authentically	adv	ita	autenticamente	adv
 	eng	automatically	adv	ita	automaticamente	adv
 	eng	autonomously	adv	ita	autonomamente	adv
-	eng	away	adv	ita	fuori	adv
+	eng	away	adv	ita	fuori	adv$
 LR	eng	awfully	adv	ita	molto	adv$
 	eng	back	adv	ita	dietro	adv
 LR	eng	backwards	adv	ita	dietro	adv
 	eng	badly	adv	ita	male	adv
-LR	eng	barely	adv	ita	appena	adv
+LR	eng	barely	adv	ita	appena	adv$
 	eng	basically	adv	ita	basicamente	adv
 	eng	before	adv	ita	prima	adv$
 	eng	beforehand	adv	ita	preventivamente	adv
@@ -23667,7 +23667,7 @@ LR	eng	behind	adv	ita	dietro	adv
 RL	eng	below	adv	ita	giù	adv$
 LR	eng	below	adv	ita	sotto	adv
 LR	eng	beneath	adv	ita	sotto	adv
-RL	eng	besides	adv	ita	in più	adv$
+RL	eng	besides	adv	ita	in più	adv
 RL	eng	besides	adv	ita	inoltre	adv
 LR	eng	besides	adv	ita	oltretutto	adv
 LR	eng	best	adv	ita	più	adv$
@@ -23682,7 +23682,7 @@ LR	eng	by and large	adv	ita	in generale	adv
 	eng	by car	adv	ita	in macchina	adv
 	eng	by degrees	adv	ita	gradualmente	adv
 	eng	by forced marches	adv	ita	di fretta	adv
-LR	eng	by hand	adv	ita	a mano	adv$
+LR	eng	by hand	adv	ita	a mano	adv
 	eng	by heart	adv	ita	a memoria	adv
 	eng	by telephone	adv	ita	telefonicamente	adv
 	eng	can be	adv	ita	può essere	adv
@@ -23700,7 +23700,7 @@ LR	eng	circa	adv	ita	circa	adv$
 	eng	cleanly	adv	ita	nettamente	adv
 	eng	clear	adv	ita	chiaro	adv
 	eng	clearly	adv	ita	chiaramente	adv
-LR	eng	close at hand	adv	ita	a mano	adv$
+LR	eng	close at hand	adv	ita	a mano	adv
 LR	eng	closely	adv	ita	strettamente	adv
 	eng	coldly	adv	ita	freddamente	adv
 	eng	collectively	adv	ita	collettivamente	adv
@@ -23745,7 +23745,7 @@ LR	eng	deeply	adv	ita	profondamente	adv
 	eng	desperately	adv	ita	disperatamente	adv
 	eng	diagonally	adv	ita	in diagonale	adv
 	eng	diametrically	adv	ita	diametralmente	adv
-	eng	differently	adv	ita	diversamente	adv
+	eng	differently	adv	ita	diversamente	adv$
 	eng	diffusely	adv	ita	diffusamente	adv
 	eng	digitally	adv	ita	digitalmente	adv
 	eng	diplomatically	adv	ita	diplomaticamente	adv
@@ -23771,13 +23771,13 @@ LR	eng	during the night	adv	ita	di notte	adv
 LR	eng	each time	adv	ita	ogni volta	adv
 	eng	early	adv	ita	presto	adv
 	eng	earnestly	adv	ita	sinceramente	adv
-	eng	easily	adv	ita	facilmente	adv
+	eng	easily	adv	ita	facilmente	adv$
 RL	eng	easily	adv	ita	agevolmente	adv
 	eng	ecologically	adv	ita	ecologicamente	adv
 	eng	economically	adv	ita	economicamente	adv
 	eng	educationally	adv	ita	educativamente	adv
 	eng	effectively	adv	ita	efficacemente	adv
-LR	eng	effortlessly	adv	ita	facilmente	adv
+LR	eng	effortlessly	adv	ita	facilmente	adv$
 	eng	either	adv	ita	neanche	adv
 	eng	elegantly	adv	ita	elegantemente	adv
 LR	eng	else	adv	ita	più	adv$
@@ -23864,10 +23864,10 @@ LR	eng	for the moment	adv	ita	al momento	adv
 	eng	forcedly	adv	ita	forzosamente	adv
 	eng	formally	adv	ita	formalmente	adv
 	eng	formerly	adv	ita	anteriormente	adv
-LR	eng	forth	adv	ita	avanti	adv
-LR	eng	forthwith	adv	ita	immediatamente	adv
+LR	eng	forth	adv	ita	avanti	adv$
+LR	eng	forthwith	adv	ita	immediatamente	adv$
 	eng	fortunately	adv	ita	fortunatamente	adv
-LR	eng	forward	adv	ita	avanti	adv
+LR	eng	forward	adv	ita	avanti	adv$
 	eng	frankly	adv	ita	francamente	adv
 	eng	frantically	adv	ita	freneticamente	adv
 	eng	fraudulently	adv	ita	fraudolentemente	adv
@@ -23923,7 +23923,7 @@ LR	eng	hereinafter	adv	ita	d'ora in avanti	adv
 LR	eng	heretofore	adv	ita	finora	adv
 	eng	high	adv	ita	alto	adv
 	eng	high and low	adv	ita	alti e bassi	adv
-	eng	highly	adv	ita	altamente	adv
+	eng	highly	adv	ita	altamente	adv$
 	eng	historically	adv	ita	storicamente	adv
 	eng	home	adv	ita	alla casa	adv
 LR	eng	honestly	adv	ita	onestamente	adv
@@ -23939,14 +23939,14 @@ LR	eng	hugely	adv	ita	molto	adv$
 	eng	ideologically	adv	ita	ideologicamente	adv
 	eng	illegally	adv	ita	illegalmente	adv
 	eng	illicitly	adv	ita	illecitamente	adv
-	eng	immediately	adv	ita	immediatamente	adv
+	eng	immediately	adv	ita	immediatamente	adv$
 	eng	imperceptibly	adv	ita	impercettibilmente	adv
 	eng	implicitly	adv	ita	implicitamente	adv
 	eng	improperly	adv	ita	impropriamente	adv
 	eng	in Indian file	adv	ita	in fila indiana	adv
 	eng	in a big way	adv	ita	su grande scala	adv
 	eng	in a clear way	adv	ita	in maniera chiara	adv
-LR	eng	in a little while	adv	ita	immediatamente	adv
+LR	eng	in a little while	adv	ita	immediatamente	adv$
 	eng	in a small way	adv	ita	a scala ridotta	adv
 	eng	in absolute	adv	ita	in assoluto	adv
 LR	eng	in addition	adv	ita	oltretutto	adv
@@ -23968,7 +23968,7 @@ RL	eng	in front	adv	ita	a fronte	adv
 RL	eng	in front	adv	ita	di fronte	adv
 LR	eng	in general	adv	ita	in generale	adv
 	eng	in great quantity	adv	ita	in grande quantità	adv
-LR	eng	in hand	adv	ita	a mano	adv$
+LR	eng	in hand	adv	ita	a mano	adv
 	eng	in kind	adv	ita	amabilmente	adv
 	eng	in last place	adv	ita	in ultimo luogo	adv
 	eng	in no uncertain terms	adv	ita	senza giri	adv
@@ -23978,7 +23978,7 @@ RL	eng	in no uncertain terms	adv	ita	senza peli sulla lingua	adv
 	eng	in peace	adv	ita	in pace	adv
 	eng	in question	adv	ita	in questione	adv
 	eng	in secret	adv	ita	in segreto	adv
-LR	eng	in short order	adv	ita	immediatamente	adv
+LR	eng	in short order	adv	ita	immediatamente	adv$
 LR	eng	in the first place	adv	ita	in primo luogo	adv
 LR	eng	in the generality	adv	ita	in generale	adv
 LR	eng	in the interim	adv	ita	nel frattempo	adv
@@ -24053,7 +24053,7 @@ LR	eng	jointly	adv	ita	congiuntamente	adv
 	eng	judicially	adv	ita	giudiziariamente	adv
 	eng	juridically	adv	ita	giuridicamente	adv
 	eng	just	adv	ita	esattamente	adv
-	eng	just	adv	ita	appena	adv
+	eng	just	adv	ita	appena	adv$
 	eng	just	adv	ita	soltanto	adv$
 	eng	just	adv	ita	giusto	adv
 LR	eng	just right	adv	ita	correttamente	adv
@@ -24062,7 +24062,7 @@ LR	eng	kindly	adv	ita	amabilmente	adv
 	eng	lamentably	adv	ita	lamentevolmente	adv
 	eng	last night	adv	ita	la notte scorsa	adv
 LR	eng	lastly	adv	ita	infine	adv
-	eng	late	adv	ita	in ritardo	adv$
+	eng	late	adv	ita	in ritardo	adv
 	eng	lately	adv	ita	ultimamente	adv
 	eng	later	adv	ita	posteriormente	adv
 	eng	laterally	adv	ita	lateralmente	adv
@@ -24073,17 +24073,17 @@ RL	eng	less	adv	ita	di meno	adv
 LR	eng	less	adv	ita	meno	adv$
 	eng	lexically	adv	ita	lessicalmente	adv
 	eng	liberally	adv	ita	liberamente	adv
-	eng	lightly	adv	ita	leggermente	adv
+	eng	lightly	adv	ita	leggermente	adv$
 	eng	like this	adv	ita	così	adv$
 	eng	likely	adv	ita	probabilmente	adv
 	eng	linguistically	adv	ita	linguisticamente	adv
 	eng	literally	adv	ita	letteralmente	adv
-	eng	little	adv	ita	poco	adv$
+	eng	little	adv	ita	poco	$adv
 	eng	little by little	adv	ita	poco a poco	adv
 	eng	locally	adv	ita	localmente	adv
 	eng	logically	adv	ita	logicamente	adv
 	eng	long before	adv	ita	molto prima	adv
-LR	eng	longhand	adv	ita	a mano	adv$
+LR	eng	longhand	adv	ita	a mano	adv
 LR	eng	low	adv	ita	giù	adv$
 LR	eng	luckily	adv	ita	fortunatamente	adv
 	eng	magically	adv	ita	magicamente	adv
@@ -24101,7 +24101,7 @@ RL	eng	massively	adv	ita	massicciamente	adv
 	eng	maybe	adv	ita	forse	adv
 LR	eng	meantime	adv	ita	nel frattempo	adv
 	eng	medically	adv	ita	medicalmente	adv
-	eng	mentally	adv	ita	mentalmente	adv
+	eng	mentally	adv	ita	mentalmente	adv$
 	eng	merely	adv	ita	semplicemente	adv
 	eng	meticulously	adv	ita	meticolosamente	adv
 	eng	midnight	adv	ita	mezza notte	adv
@@ -24158,12 +24158,12 @@ LR	eng	never	adv	ita	mai	adv
 	eng	next year	adv	ita	l'anno prossimo	adv
 LR	eng	nicely	adv	ita	amabilmente	adv
 RL	eng	no	adv	ita	no	adv
-	eng	no	adv	ita	non	adv
+	eng	no	adv	ita	non	$adv
 	eng	no doubt	adv	ita	senza dubbio	adv
-LR	eng	no sooner	adv	ita	appena	adv
-LR	eng	non	adv	ita	non	adv
+LR	eng	no sooner	adv	ita	appena	adv$
+LR	eng	non	adv	ita	non	$adv
 	eng	normally	adv	ita	normalmente	adv
-LR	eng	not	adv	ita	non	adv
+LR	eng	not	adv	ita	non	$adv
 	eng	not even	adv	ita	nemmeno	adv
 	eng	notably	adv	ita	notevolmente	adv
 	eng	noticeably	adv	ita	sensibilmente	adv
@@ -24181,7 +24181,7 @@ RL	eng	obviously	adv	ita	palesemente	adv
 RL	eng	occasionally	adv	ita	saltuariamente	adv
 LR	eng	of course	adv	ita	naturalmente	adv
 	eng	of late	adv	ita	di recente	adv
-LR	eng	off	adv	ita	fuori	adv
+LR	eng	off	adv	ita	fuori	adv$
 	eng	officially	adv	ita	ufficialmente	adv
 	eng	often	adv	ita	spesso	adv$
 LR	eng	on	adv	ita	addirittura	adv
@@ -24189,14 +24189,14 @@ LR	eng	on a day-to-day basis	adv	ita	quotidianamente	adv
 LR	eng	on a large-scale	adv	ita	su grande scala	adv
 	eng	on a large scale	adv	ita	a grande scala	adv
 	eng	on a large scale	adv	ita	su grande scala	adv
-	eng	on a long-term basis	adv	ita	a lungo termine	adv$
+	eng	on a long-term basis	adv	ita	a lungo termine	adv
 LR	eng	on a mass scale	adv	ita	su grande scala	adv
 LR	eng	on a short-term basis	adv	ita	a breve termine	adv
 LR	eng	on a small scale	adv	ita	a breve termine	adv
 LR	eng	on an individual basis	adv	ita	individualmente	adv
 	eng	on average	adv	ita	mediamente	adv
 LR	eng	on board	adv	ita	a bordo	adv
-LR	eng	on hand	adv	ita	a mano	adv$
+LR	eng	on hand	adv	ita	a mano	adv
 	eng	on holiday	adv	ita	in vacanza	adv
 LR	eng	on impulse	adv	ita	all'improvviso	adv
 	eng	on line	adv	ita	on line	adv
@@ -24209,7 +24209,7 @@ LR	eng	on record	adv	ita	ufficialmente	adv
 	eng	on the defensive	adv	ita	alla difensiva	adv
 LR	eng	on the doble	adv	ita	rapidamente	adv
 LR	eng	on the double	adv	ita	rapidamente	adv
-	eng	on the one hand	adv	ita	da un lato	adv$
+	eng	on the one hand	adv	ita	da un lato	adv
 RL	eng	on the other hand	adv	ita	d'altra parte	adv
 	eng	on the other hand	adv	ita	d'altro lato	adv
 RL	eng	on the other hand	adv	ita	dall'altro lato	adv
@@ -24232,13 +24232,13 @@ LR	eng	ordinarily	adv	ita	normalmente	adv
 RL	eng	originally	adv	ita	originariamente	adv
 	eng	other times	adv	ita	altre volte	adv
 	eng	otherwise	adv	ita	in altro modo	adv
-LR	eng	out	adv	ita	fuori	adv
-	eng	out of place	adv	ita	fuori luogo	$adv
+LR	eng	out	adv	ita	fuori	adv$
+	eng	out of place	adv	ita	fuori luogo	adv
 LR	eng	out of the blue	adv	ita	all'improvviso	adv
 LR	eng	out there	adv	ita	lì	adv
 	eng	outdoors	adv	ita	a cielo aperto	adv
 LR	eng	outright	adv	ita	francamente	adv
-LR	eng	outside	adv	ita	fuori	adv
+LR	eng	outside	adv	ita	fuori	adv$
 LR	eng	over	adv	ita	addirittura	adv
 LR	eng	over here	adv	ita	qui	adv
 LR	eng	over there	adv	ita	lì	adv
@@ -24280,7 +24280,7 @@ LR	eng	perhaps	adv	ita	forse	adv
 	eng	popularly	adv	ita	popolarmente	adv
 	eng	positively	adv	ita	positivamente	adv
 	eng	possibly	adv	ita	se possibile	adv
-RL	eng	possibly	adv	ita	possibilmente	adv
+RL	eng	possibly	adv	ita	possibilmente	adv$
 	eng	potentially	adv	ita	potenzialmente	adv
 	eng	powerfully	adv	ita	poderosamente	adv
 	eng	practically	adv	ita	praticamente	adv
@@ -24331,7 +24331,7 @@ LR	eng	quite a lot	adv	ita	abbastanza	adv$
 LR	eng	rapidly	adv	ita	rapidamente	adv
 	eng	rarely	adv	ita	raramente	adv
 LR	eng	rather	adv	ita	abbastanza	adv$
-	eng	readily	adv	ita	facilmente	adv
+	eng	readily	adv	ita	facilmente	adv$
 	eng	readily	adv	ita	prontamente	adv
 	eng	really	adv	ita	realmente	adv
 	eng	reasonably	adv	ita	ragionevolmente	adv
@@ -24349,10 +24349,10 @@ LR	eng	regrettably	adv	ita	lamentevolmente	adv
 	eng	responsibly	adv	ita	responsabilmente	adv
 	eng	richly	adv	ita	riccamente	adv
 LR	eng	right	adv	ita	bene	adv$
-LR	eng	right away	adv	ita	immediatamente	adv
+LR	eng	right away	adv	ita	immediatamente	adv$
 RL	eng	right now	adv	ita	proprio adesso	adv
 	eng	right now	adv	ita	proprio ora	adv
-LR	eng	right off	adv	ita	immediatamente	adv
+LR	eng	right off	adv	ita	immediatamente	adv$
 LR	eng	right through	adv	ita	completamente	adv$
 LR	eng	rightly	adv	ita	correttamente	adv
 	eng	rigidly	adv	ita	rigidamente	adv
@@ -24364,14 +24364,14 @@ LR	eng	roundly	adv	ita	completamente	adv$
 	eng	second	adv	ita	secondo	adv
 	eng	secondly	adv	ita	in secondo luogo	adv
 	eng	secretly	adv	ita	segretamente	adv
-LR	eng	seemingly	adv	ita	apparentemente	adv
+LR	eng	seemingly	adv	ita	apparentemente	adv$
 LR	eng	seldom	adv	ita	raramente	adv
 	eng	separately	adv	ita	separatamente	adv
 LR	eng	seriously	adv	ita	seriamente	adv
 LR	eng	seriously now	adv	ita	seriamente	adv
 	eng	several months	adv	ita	parecchi mesi	adv
 	eng	severely	adv	ita	severamente	adv
-	eng	sexually	adv	ita	sessualmente	adv
+	eng	sexually	adv	ita	sessualmente	adv$
 	eng	sharply	adv	ita	bruscamente	adv
 	eng	shortly	adv	ita	tra poco	adv
 RL	eng	shortly	adv	ita	prossimamente	adv
@@ -24390,7 +24390,7 @@ RL	eng	since	adv	ita	dal momento che	adv
 LR	eng	sincerely	adv	ita	sinceramente	adv
 LR	eng	single file	adv	ita	in fila indiana	adv
 LR	eng	singularly	adv	ita	singolarmente	adv
-LR	eng	slightly	adv	ita	leggermente	adv
+LR	eng	slightly	adv	ita	leggermente	adv$
 RL	eng	slightly	adv	ita	lievemente	adv
 LR	eng	slow	adv	ita	piano	adv
 	eng	slowly	adv	ita	piano	adv
@@ -24417,7 +24417,7 @@ RL	eng	specifically	adv	ita	specificatamente	adv
 LR	eng	still	adv	ita	ancora	adv
 	eng	stoically	adv	ita	stoicamente	adv
 LR	eng	straight	adv	ita	direttamente	adv
-LR	eng	straight away	adv	ita	immediatamente	adv
+LR	eng	straight away	adv	ita	immediatamente	adv$
 LR	eng	straight through	adv	ita	completamente	adv$
 	eng	strangely	adv	ita	stranamente	adv
 	eng	strategically	adv	ita	strategicamente	adv
@@ -24441,7 +24441,7 @@ LR	eng	sure	adv	ita	sicuro	adv
 	eng	surely	adv	ita	sicuramente	adv
 RL	eng	surprisingly	adv	ita	stupefacentemente	adv
 	eng	surprisingly	adv	ita	sorprendentemente	adv
-	eng	sweetly	adv	ita	dolcemente	adv
+	eng	sweetly	adv	ita	dolcemente	adv$
 LR	eng	swiftly	adv	ita	rapidamente	adv
 	eng	symbolically	adv	ita	simbolicamente	adv
 	eng	synthetically	adv	ita	sinteticamente	adv
@@ -24477,13 +24477,13 @@ LR	eng	the world over	adv	ita	in tutto il mondo	adv
 	eng	then	adv	ita	allora	adv$
 RL	eng	then	adv	ita	a quel tempo	adv
 RL	eng	then	adv	ita	a quei tempi	adv
-LR	eng	then and there	adv	ita	immediatamente	adv
+LR	eng	then and there	adv	ita	immediatamente	adv$
 	eng	theoretically	adv	ita	teoricamente	adv
 RL	eng	there	adv	ita	là	adv
 RL	eng	there	adv	ita	ci	adv$prn-enc-adv
 	eng	there	adv	ita	lì	adv
 LR	eng	there again	adv	ita	oltretutto	adv
-LR	eng	there and then	adv	ita	immediatamente	adv
+LR	eng	there and then	adv	ita	immediatamente	adv$
 LR	eng	thereafter	adv	ita	dopo	adv$
 LR	eng	thereby	adv	ita	così	adv$
 	eng	this morning	adv	ita	questa mattina	adv
@@ -24546,7 +24546,7 @@ RL	eng	unfairly	adv	ita	indebitamente	adv
 	eng	until further orders	adv	ita	fino a nuovo ordine	adv
 	eng	until then	adv	ita	fino ad allora	adv
 	eng	up	adv	ita	sopra	adv
-LR	eng	up for grabs	adv	ita	a mano	adv$
+LR	eng	up for grabs	adv	ita	a mano	adv
 LR	eng	up till now	adv	ita	finora	adv
 LR	eng	up to here	adv	ita	qui	adv
 LR	eng	up to now	adv	ita	finora	adv
@@ -25142,7 +25142,7 @@ RL	eng	address	vblex	ita	dirigere	$vblex
 	eng	agree	vblex	ita	accordare	$vblex
 RL	eng	agree	vblex	ita	ricordare	vblex$
 RL	eng	agree	vblex	ita	concordare	$vblex
-LR	eng	aim	vblex	ita	puntare	vblex$
+LR	eng	aim	vblex	ita	puntare	$vblex
 	eng	alarm	vblex	ita	allarmare	$vblex
 	eng	alert	vblex	ita	allertare	vblex
 	eng	alienate	vblex	ita	alienare	vblex
@@ -25170,7 +25170,7 @@ RL	eng	annoy	vblex	ita	importunare	$vblex
 LR	eng	answer	vblex	ita	contestare	$vblex
 RL	eng	answer	vblex	ita	rispondere	vblex$
 	eng	anticipate	vblex	ita	anticipare	$vblex
-	eng	apologise	vblex	ita	chiedere	vblex$
+	eng	apologise	vblex	ita	chiedere	$vblex
 	eng	appeal	vblex	ita	fare	$vblex
 	eng	appear	vblex$vblex-pprs	ita	apparire	$vblex
 RL	eng	appear	vblex$vblex-pprs	ita	figurare	$vblex
@@ -25197,9 +25197,9 @@ LR	eng	argue	vblex	ita	litigare	$vblex
 RL	eng	arrive	vblex	ita	giungere	$vblex
 	eng	articulate	vblex	ita	articolare	vblex$
 	eng	ascertain	vblex	ita	constatare	vblex$
-	eng	ask	vblex	ita	chiedere	vblex$
+	eng	ask	vblex	ita	chiedere	$vblex
 RL	eng	ask	vblex	ita	domandare	vblex$
-LR	eng	ask	vblex	ita	chiedere	vblex$
+LR	eng	ask	vblex	ita	chiedere	$vblex
 	eng	asphalt	vblex	ita	asfaltare	vblex$
 	eng	assault	vblex	ita	assaltare	$vblex
 	eng	assemble	vblex	ita	assemblare	vblex$
@@ -25283,7 +25283,7 @@ LR	eng	award	vblex	ita	conferire	vblex$
 LR	eng	back	vblex$vblex-sep	ita	difendere	vblex$
 RL	eng	back	vblex$vblex-sep	ita	appoggiare	$vblex
 LR	eng	second	vblex	ita	appoggiare	$vblex
-RL	eng	back	vblex$vblex-sep	ita	puntare	vblex$
+RL	eng	back	vblex$vblex-sep	ita	puntare	$vblex
 	eng	back	vblex$vblex-sep	ita	lanciare	$vblex
 LR	eng	baffle	vblex	ita	sconcertare	$vblex
 	eng	bake	vblex	ita	cuocere	$vblex
@@ -25303,7 +25303,7 @@ LR	eng	bang	vblex	ita	colpire	$vblex
 LR	eng	be	vblex$vblex-pp	ita	agonizzare	vblex
 	eng	be	vblex$vblex-pp	ita	equivalere	$vblex
 	eng	be	vblex$vblex-pp	ita	avere	$vblex
-RL	eng	need	vblex$vblex-ger	ita	avere bisogno di	vbmod$
+RL	eng	need	vblex$vblex-ger	ita	avere bisogno di	vbmod
 	eng	need	vblex$vblex-ger	ita	avere bisogno che	vbmod
 	eng	be	vblex$vblex-pp	ita	agonizzare	vblex
 	eng	be	vblex$vblex-pp	ita	restare	$vblex
@@ -25312,7 +25312,7 @@ LR	eng	be	vblex$vblex-pp	ita	mancare	$vblex
 LR	eng	be	vblex$vblex-pp	ita	dispiacere	vblex
 	eng	be	vblex$vblex-pp	ita	solere	vblex$
 LR	eng	slow	vblex$vblex-sep	ita	rallentare	$vblex
-	eng	take	vblex$vblex-sep	ita	mettere	vblex$
+	eng	take	vblex$vblex-sep	ita	mettere	$vblex
 LR	eng	take	vblex$vblex-sep	ita	usufruire	$vblex
 LR	eng	be	vblex$vblex-pp	ita	dispiacere	vblex
 LR	eng	be	vblex$vblex-pp	ita	valere	$vblex
@@ -25320,7 +25320,7 @@ LR	eng	be	vblex$vblex-pp	ita	valere	$vblex
 	eng	be	vblex$vblex-pp	ita	essere necessario	vbmod
 	eng	bear	vblex	ita	partorire	$vblex
 	eng	beat	vblex$vblex-pprs	ita	picchiare	$vblex
-	eng	become	vblex	ita	diventare	vblex$
+	eng	become	vblex	ita	diventare	$vblex
 LR	eng	bed	vblex	ita	alloggiare	$vblex
 	eng	beg	vblex$vblex-ger	ita	supplicare	vblex$
 LR	eng	begin	vblex	ita	iniziare	$vblex
@@ -25406,7 +25406,7 @@ LR	eng	bump	vblex	ita	colpire	$vblex
 LR	eng	calculate	vblex	ita	computare	vblex$
 	eng	calibrate	vblex	ita	calibrare	vblex
 	eng	call	vblex$vblex-sep	ita	chiamare	$vblex
-LR	eng	call	vblex$vblex-sep	ita	chiedere	vblex$
+LR	eng	call	vblex$vblex-sep	ita	chiedere	$vblex
 	eng	calm	vblex	ita	calmare	$vblex
 	eng	camp	vblex	ita	accampare	vblex$
 	eng	campaign	vblex	ita	fare	$vblex
@@ -25445,7 +25445,7 @@ LR	eng	change	vblex$vblex-ger	ita	cambiare	$vblex
 	eng	cheat	vblex	ita	ingannare	$vblex
 	eng	check	vblex$vblex-sep	ita	verificare	$vblex
 LR	eng	cheer	vblex	ita	acclamare	vblex$
-	eng	chew	vblex$vblex-ger	ita	masticare	vblex$
+	eng	chew	vblex$vblex-ger	ita	masticare	$vblex
 RL	eng	choose	vblex	ita	eleggere	vblex$
 	eng	choose	vblex	ita	scegliere	vblex$
 	eng	chuck	vblex	ita	chiocciare	$vblex
@@ -25483,12 +25483,12 @@ LR	eng	come	vblex	ita	trovare	$vblex
 LR	eng	come	vblex	ita	uscire	vblex$
 	eng	comfort	vblex	ita	consolare	vblex$
 	eng	command	vblex	ita	comandare	$vblex
-	eng	mandate	vblex	ita	mandare	vblex$
+	eng	mandate	vblex	ita	mandare	$vblex
 	eng	commence	vblex	ita	cominciare	vblex$
 	eng	comment	vblex	ita	commentare	vblex$
 	eng	commercialise	vblex	ita	commercializzare	vblex$
 	eng	commission	vblex	ita	commissionare	vblex
-	eng	commit	vblex	ita	commettere	vblex$
+	eng	commit	vblex	ita	commettere	$vblex
 	eng	communicate	vblex	ita	comunicare	$vblex
 	eng	commutate	vblex	ita	commutare	$vblex
 	eng	compact	vblex	ita	compattare	vblex$
@@ -25545,14 +25545,14 @@ LR	eng	constrain	vblex	ita	costringere	vblex$
 	eng	consult	vblex	ita	consultare	vblex$
 	eng	consume	vblex	ita	consumare	$vblex
 LR	eng	consummate	vblex	ita	consumare	$vblex
-	eng	contact	vblex	ita	mettere	vblex$
+	eng	contact	vblex	ita	mettere	$vblex
 	eng	contain	vblex	ita	contenere	$vblex
 	eng	contemplate	vblex	ita	contemplare	$vblex
 	eng	contend	vblex	ita	contendere	$vblex
 	eng	content	vblex	ita	contentare	vblex$
 	eng	contest	vblex	ita	contestare	$vblex
 	eng	dispute	vblex	ita	disputare	vblex$
-	eng	continue	vblex	ita	continuare	vblex$
+	eng	continue	vblex	ita	continuare	$vblex
 RL	eng	continue	vblex	ita	proseguire	$vblex
 	eng	contract	vblex	ita	contrarre	$vblex
 	eng	contradict	vblex	ita	contraddire	$vblex
@@ -25603,7 +25603,7 @@ LR	eng	crease	vblex	ita	danneggiare	$vblex
 	eng	cross	vblex$vblex-sep	ita	attraversare	$vblex
 	eng	crowd	vblex	ita	ammassare	$vblex
 	eng	crush	vblex	ita	schiacciare	$vblex
-	eng	cry	vblex$vblex-pprs	ita	gridare	vblex$
+	eng	cry	vblex$vblex-pprs	ita	gridare	$vblex
 RL	eng	cry	vblex$vblex-pprs	ita	piangere	$vblex
 	eng	crystallise	vblex	ita	cristallizzare	vblex
 	eng	culminate	vblex	ita	culminare	vblex$
@@ -25614,7 +25614,7 @@ RL	eng	cry	vblex$vblex-pprs	ita	piangere	$vblex
 	eng	cut	vblex$vblex-sep	ita	tagliare	$vblex
 	eng	damage	vblex	ita	danneggiare	$vblex
 	eng	dampen	vblex	ita	inumidire	vblex$
-	eng	dance	vblex	ita	ballare	vblex$
+	eng	dance	vblex	ita	ballare	$vblex
 	eng	dare	vblex	ita	osare	$vblex
 LR	eng	darken	vblex	ita	oscurare	$vblex
 	eng	date	vblex	ita	datare	vblex$
@@ -25649,7 +25649,7 @@ LR	eng	defy	vblex	ita	sfidare	$vblex
 	eng	delegate	vblex	ita	delegare	$vblex
 	eng	delete	vblex	ita	eliminare	$vblex
 	eng	delimit	vblex	ita	delimitare	vblex$
-	eng	deliver	vblex	ita	consegnare	vblex$
+	eng	deliver	vblex	ita	consegnare	$vblex
 LR	eng	demand	vblex	ita	reclamare	$vblex
 	eng	demolish	vblex	ita	demolire	$vblex
 	eng	demonstrate	vblex	ita	dimostrare	$vblex
@@ -25775,7 +25775,7 @@ LR	eng	dope	vblex	ita	drogare	vblex$
 	eng	drag	vblex$vblex-sep	ita	trascinare	$vblex
 LR	eng	drain	vblex$vblex-sep	ita	colare	$vblex
 LR	eng	draw	vblex$vblex-sep	ita	disegnare	vblex$
-	eng	dream	vblex	ita	sognare	vblex$
+	eng	dream	vblex	ita	sognare	$vblex
 	eng	dress	vblex$vblex-sep	ita	vestire	$vblex
 	eng	drink	vblex	ita	bere	vblex$
 	eng	drink	vblex	ita	bere	vblex$
@@ -26016,7 +26016,7 @@ LR	eng	go	vblex$vblex-ger	ita	tornare	$vblex
 	eng	go	vblex$vblex-ger	ita	abbassare	$vblex
 	eng	go	vblex$vblex-ger	ita	scendere	$vblex
 LR	eng	go	vblex$vblex-ger	ita	entrare	vblex$
-LR	eng	go	vblex$vblex-ger	ita	continuare	vblex$
+LR	eng	go	vblex$vblex-ger	ita	continuare	$vblex
 	eng	go	vblex$vblex-ger	ita	uscire	vblex$
 	eng	go	vblex$vblex-ger	ita	passare	$vblex
 	eng	govern	vblex	ita	governare	$vblex
@@ -26034,7 +26034,7 @@ LR	eng	grow	vblex	ita	coltivare	$vblex
 LR	eng	halt	vblex	ita	arrestare	$vblex
 	eng	hammer	vblex	ita	martellare	$vblex
 	eng	hamper	vblex	ita	impacciare	$vblex
-LR	eng	hand	vblex$vblex-sep	ita	consegnare	vblex$
+LR	eng	hand	vblex$vblex-sep	ita	consegnare	$vblex
 	eng	handle	vblex	ita	manipolare	$vblex
 	eng	hang	vblex$vblex-pprs	ita	pendere	$vblex
 	eng	happen	vblex	ita	passare	$vblex
@@ -26179,7 +26179,7 @@ LR	eng	irritate	vblex	ita	irritare	$vblex
 	eng	jump	vblex	ita	saltare	$vblex
 	eng	justify	vblex	ita	giustificare	$vblex
 	eng	keep	vblex$vblex-sep	ita	mantenere	$vblex
-LR	eng	keep	vblex$vblex-sep	ita	continuare	vblex$
+LR	eng	keep	vblex$vblex-sep	ita	continuare	$vblex
 LR	eng	keep	vblex$vblex-sep	ita	vigilare	vblex$
 	eng	kick	vblex$vblex-sep	ita	calciare	$vblex
 	eng	kid	vblex	ita	figliare	$vblex
@@ -26194,10 +26194,10 @@ RL	eng	know	vblex$vblex-sep	ita	conoscere	$vblex
 	eng	label	vblex	ita	etichettare	$vblex
 	eng	lack	vblex	ita	mancare	$vblex
 	eng	land	vblex	ita	atterrare	$vblex
-	eng	last	vblex	ita	durare	vblex$
-	eng	laugh	vblex	ita	ridere	vblex$
+	eng	last	vblex	ita	durare	$vblex
+	eng	laugh	vblex	ita	ridere	$vblex
 LR	eng	launch	vblex	ita	lanciare	$vblex
-LR	eng	lay	vblex	ita	mettere	vblex$
+LR	eng	lay	vblex	ita	mettere	$vblex
 LR	eng	lead	vblex	ita	dirigere	$vblex
 LR	eng	leak	vblex	ita	filtrare	$vblex
 RL	eng	leak	vblex	ita	colare	$vblex
@@ -26205,7 +26205,7 @@ LR	eng	lean	vblex	ita	appoggiare	$vblex
 RL	eng	lean	vblex	ita	addossare	$vblex
 LR	eng	leap	vblex	ita	saltare	$vblex
 	eng	learn	vblex	ita	apprendere	$vblex
-RL	eng	learn	vblex	ita	imparare	vblex$
+RL	eng	learn	vblex	ita	imparare	$vblex
 LR	eng	lease	vblex	ita	affittare	vblex$
 	eng	leave	vblex$vblex-sep	ita	lasciare	$vblex
 	eng	legalise	vblex	ita	legalizzare	vblex$
@@ -26247,7 +26247,7 @@ LR	eng	retard	vblex	ita	ritardare	$vblex
 	eng	revive	vblex	ita	rivivere	$vblex
 	eng	revoke	vblex	ita	revocare	$vblex
 	eng	rewrite	vblex	ita	riscrivere	vblex
-	eng	commit	vblex	ita	commettere	vblex$
+	eng	commit	vblex	ita	commettere	$vblex
 	eng	compel	vblex	ita	costringere	vblex$
 	eng	compete	vblex	ita	competere	$vblex
 	eng	compress	vblex	ita	comprimere	$vblex
@@ -26335,7 +26335,7 @@ LR	eng	line	vblex$vblex-sep	ita	allineare	vblex$
 	eng	live	vblex$vblex-ger	ita	abitare	vblex$
 	eng	live	vblex$vblex-ger	ita	vivere	$vblex
 LR	eng	load	vblex	ita	caricare	$vblex
-	eng	loan	vblex	ita	prestare	vblex$
+	eng	loan	vblex	ita	prestare	$vblex
 	eng	locate	vblex$vblex-ger	ita	localizzare	vblex$
 LR	eng	lock	vblex	ita	chiudere	$vblex
 LR	eng	lodge	vblex	ita	albergare	vblex$
@@ -26423,7 +26423,7 @@ LR	eng	nominate	vblex$vblex-ger	ita	nominare	vblex$
 	eng	notarise	vblex	ita	autenticare	vblex$
 	eng	notch	vblex	ita	intaccare	$vblex
 	eng	note	vblex$vblex-sep	ita	annotare	$vblex
-LR	eng	note	vblex$vblex-sep	ita	puntare	vblex$
+LR	eng	note	vblex$vblex-sep	ita	puntare	$vblex
 	eng	notify	vblex	ita	notificare	$vblex
 	eng	nourish	vblex	ita	nutrire	$vblex
 	eng	number	vblex	ita	numerare	$vblex
@@ -26501,7 +26501,7 @@ LR	eng	please	vblex$vblex-pres	ita	piacere	vblex
 	eng	pledge	vblex	ita	impegnare	$vblex
 	eng	plough	vblex	ita	arare	vblex$
 	eng	plumb	vblex	ita	piombare	$vblex
-	eng	point	vblex$vblex-sep	ita	puntare	vblex$
+	eng	point	vblex$vblex-sep	ita	puntare	$vblex
 	eng	point	vblex$vblex-sep	ita	segnalare	$vblex
 	eng	poison	vblex	ita	avvelenare	$vblex
 	eng	polarise	vblex	ita	polarizzare	vblex$
@@ -26558,9 +26558,9 @@ LR	eng	prime	vblex	ita	preparare	$vblex
 	eng	prohibit	vblex	ita	proibire	vblex$
 	eng	project	vblex	ita	progettare	$vblex
 	eng	proliferate	vblex	ita	proliferare	vblex$
-	eng	promise	vblex$vblex-pprs	ita	promettere	vblex$
+	eng	promise	vblex$vblex-pprs	ita	promettere	$vblex
 	eng	promote	vblex$vblex-ger	ita	promuovere	$vblex
-LR	eng	prompt	vblex	ita	puntare	vblex$
+LR	eng	prompt	vblex	ita	puntare	$vblex
 	eng	prompt	vblex	ita	incitare	$vblex
 	eng	pronounce	vblex	ita	pronunciare	$vblex
 	eng	propagate	vblex	ita	propagare	vblex$
@@ -26587,14 +26587,14 @@ RL	eng	punish	vblex	ita	castigare	$vblex
 LR	eng	pursue	vblex	ita	perseguire	vblex$
 	eng	push	vblex$vblex-ger	ita	spingere	$vblex
 	eng	push	vblex$vblex-ger	ita	premere	$vblex
-LR	eng	put	vblex$vblex-sep	ita	mettere	vblex$
+LR	eng	put	vblex$vblex-sep	ita	mettere	$vblex
 RL	eng	put	vblex$vblex-sep	ita	porre	$vblex
 	eng	qualify	vblex	ita	qualificare	$vblex
 	eng	quantify	vblex	ita	quantificare	vblex
 	eng	question	vblex	ita	questionare	vblex$
 LR	eng	quote	vblex	ita	citare	$vblex
 	eng	race	vblex	ita	correre	$vblex
-	eng	rain	vblex	ita	piovere	vblex$
+	eng	rain	vblex	ita	piovere	$vblex
 LR	eng	raise	vblex	ita	alzare	vblex$
 	eng	range	vblex	ita	variare	$vblex
 	eng	range	vblex	ita	allineare	vblex$
@@ -26672,7 +26672,7 @@ LR	eng	reply	vblex$vblex-pprs	ita	rispondere	vblex$
 	eng	report	vblex$vblex-ger	ita	denunciare	$vblex
 	eng	represent	vblex	ita	rappresentare	$vblex
 	eng	repress	vblex	ita	reprimere	$vblex
-LR	eng	request	vblex	ita	chiedere	vblex$
+LR	eng	request	vblex	ita	chiedere	$vblex
 	eng	require	vblex	ita	richiedere	$vblex
 	eng	research	vblex	ita	ricercare	$vblex
 RL	eng	reserve	vblex	ita	prenotare	vblex$
@@ -26706,7 +26706,7 @@ LR	eng	rise	vblex$vblex-ger	ita	aumentare	$vblex
 LR	eng	round	vblex	ita	terminare	$vblex
 	eng	rule	vblex	ita	imperare	vblex$
 LR	eng	run	vblex	ita	correre	$vblex
-	eng	sacrifice	vblex	ita	sacrificare	vblex$
+	eng	sacrifice	vblex	ita	sacrificare	$vblex
 	eng	safeguard	vblex	ita	salvaguardare	$vblex
 	eng	sail	vblex	ita	navigare	$vblex
 	eng	salivate	vblex	ita	salivare	vblex
@@ -26717,7 +26717,7 @@ RL	eng	satisfy	vblex	ita	soddisfare	$vblex
 	eng	saturate	vblex	ita	saturare	vblex$
 	eng	save	vblex$vblex-ger	ita	salvare	$vblex
 	eng	saw	vblex$vblex-ger	ita	serrare	$vblex
-	eng	say	vblex$vblex-pprs	ita	dire	vblex$
+	eng	say	vblex$vblex-pprs	ita	dire	$vblex
 	eng	scandalise	vblex	ita	scandalizzare	vblex$
 LR	eng	score	vblex	ita	marcare	$vblex
 LR	eng	scour	vblex	ita	registrare	vblex$
@@ -26741,7 +26741,7 @@ LR	eng	send	vblex$vblex-sep	ita	inviare	vblex$
 	eng	sensitise	vblex	ita	sensibilizzare	vblex$
 LR	eng	separate	vblex	ita	separare	$vblex
 	eng	serve	vblex$vblex-sep	ita	servire	$vblex
-LR	eng	set	vblex$vblex-sep$vblex-sep-pprs	ita	mettere	vblex$
+LR	eng	set	vblex$vblex-sep$vblex-sep-pprs	ita	mettere	$vblex
 	eng	set	vblex$vblex-sep$vblex-sep-pprs	ita	convocare	vblex$
 	eng	set	vblex$vblex-sep$vblex-sep-pprs	ita	montare	$vblex
 LR	eng	settle	vblex	ita	risolvere	$vblex
@@ -26754,13 +26754,13 @@ LR	eng	shift	vblex	ita	cambiare	$vblex
 	eng	shine	vblex	ita	brillare	$vblex
 LR	eng	ship	vblex	ita	imbarcare	vblex$
 	eng	shit	vblex	ita	cacare	vblex
-LR	eng	shout	vblex	ita	gridare	vblex$
-LR	eng	scream	vblex$vblex-pprs	ita	gridare	vblex$
+LR	eng	shout	vblex	ita	gridare	$vblex
+LR	eng	scream	vblex$vblex-pprs	ita	gridare	$vblex
 	eng	slacken	vblex	ita	allentare	$vblex
 LR	eng	show	vblex$vblex-sep	ita	dimostrare	$vblex
 	eng	show	vblex$vblex-sep	ita	mostrare	$vblex
 LR	eng	show	vblex$vblex-sep	ita	apparire	$vblex
-LR	eng	shower	vblex	ita	piovere	vblex$
+LR	eng	shower	vblex	ita	piovere	$vblex
 LR	eng	shut	vblex$vblex-sep	ita	chiudere	$vblex
 LR	eng	shut	vblex$vblex-sep	ita	chiudere	$vblex
 	eng	sigh	vblex	ita	sospirare	vblex$
@@ -26828,7 +26828,7 @@ LR	eng	stretch	vblex	ita	estendere	$vblex
 LR	eng	struggle	vblex	ita	combattere	$vblex
 	eng	study	vblex	ita	studiare	$vblex
 	eng	sublimate	vblex	ita	sublimare	vblex
-LR	eng	submit	vblex	ita	consegnare	vblex$
+LR	eng	submit	vblex	ita	consegnare	$vblex
 	eng	subsidise	vblex	ita	sovvenzionare	vblex$
 	eng	subtract	vblex	ita	sottrarre	$vblex
 	eng	succeed	vblex	ita	succedere	$vblex
@@ -26848,7 +26848,7 @@ LR	eng	surpass	vblex	ita	superare	$vblex
 	eng	suspend	vblex	ita	sospendere	$vblex
 	eng	sustain	vblex	ita	sostenere	$vblex
 	eng	swear	vblex	ita	giurare	vblex$
-	eng	sweat	vblex$vblex-ger	ita	sudare	vblex$
+	eng	sweat	vblex$vblex-ger	ita	sudare	$vblex
 	eng	swim	vblex	ita	nuotare	vblex$
 LR	eng	switch	vblex	ita	cambiare	$vblex
 	eng	symbolise	vblex	ita	simboleggiare	$vblex
@@ -26861,14 +26861,14 @@ RL	eng	take	vblex$vblex-sep	ita	tardare	$vblex
 	eng	take	vblex$vblex-sep	ita	partecipare	$vblex
 LR	eng	talk	vblex	ita	parlare	$vblex
 LR	eng	tap	vblex	ita	toccare	$vblex
-LR	eng	target	vblex	ita	puntare	vblex$
+LR	eng	target	vblex	ita	puntare	$vblex
 	eng	taste	vblex	ita	degustare	$vblex
 	eng	tax	vblex	ita	tassare	$vblex
 	eng	teach	vblex	ita	insegnare	$vblex
 	eng	tear	vblex$vblex-sep	ita	stracciare	$vblex
 LR	eng	telephone	vblex	ita	telefonare	vblex$
 	eng	televise	vblex	ita	teletrasmettere	vblex
-LR	eng	tell	vblex	ita	dire	vblex$
+LR	eng	tell	vblex	ita	dire	$vblex
 	eng	temper	vblex	ita	temperare	$vblex
 LR	eng	tempt	vblex	ita	tentare	vblex$
 	eng	tend	vblex	ita	stendere	$vblex
@@ -27029,7 +27029,7 @@ LR	eng	zone	vblex	ita	circondare	vblex$
 	eng	acquire	vblex	ita	acquisire	$vblex
 	eng	adorn	vblex	ita	addobbare	$vblex
 	eng	affix	vblex	ita	affiggere	$vblex
-	eng	affix	vblex	ita	apporre	vblex$
+	eng	affix	vblex	ita	apporre	$vblex
 	eng	afflict	vblex	ita	addolorare	$vblex
 	eng	agree	vblex	ita	acconsentire	$vblex
 	eng	allocate	vblex	ita	allocare	vblex
@@ -27327,7 +27327,7 @@ RL	eng	this	prn-tn-mf$prn$prn-tn-mf-sg$prn-tn	ita	codesto	prn-tn-nt$prn-tn$prn-t
 RL	eng	this	prn-tn-mf$prn$prn-tn-mf-sg$prn-tn	ita	costui	prn-tn-p3-m
 RL	eng	this	prn-tn-mf$prn$prn-tn-mf-sg$prn-tn	ita	costui	prn-tn-p3-f$prn
 RL	eng	this	prn-tn-mf$prn$prn-tn-mf-sg$prn-tn	ita	costui	prn-tn-p3-mf$prn-tn-p3-mf-pl
-	eng	what	prn-itg-m-sp$prn-itg$prn$prn-itg-m	ita	che	prn$$prn-itg-mf-sg$prn-mf
+	eng	what	prn-itg-m-sp$prn-itg$prn$prn-itg-m	ita	che	prn$prn-itg-mf-sg$prn-mf
 RL	eng	what	prn-itg-m-sp$prn-itg$prn$prn-itg-m	ita	cosa	prn$prn-itg$prn-itg-mf
 	eng	which	prn-itg-m-sp$prn$prn-itg	ita	quale	prn-itg$prn
 LR	eng	which one	prn-itg-m-sg$prn$prn-itg	ita	quale	prn-itg$prn
@@ -27408,7 +27408,7 @@ RL	eng	condom	n$n-ND	ita	condom	n-m-sp$n-m
 	eng	consanguinity	n	ita	consanguineità	n-f
 	eng	constitutionality	n	ita	costituzionalità	n-f
 	eng	cowardice	n	ita	viltà	n-f
-	eng	criminality	n	ita	criminalità	n-f-sp$n-f
+	eng	criminality	n	ita	criminalità	n-f$n-f-sp
 	eng	curium	n$n-sg	ita	curio	n-m
 LR	eng	dangerousness	n$n-pl	ita	pericolosità	n-f-sp$n-f
 	eng	president	n$n-ND	ita	lehendakari	n-mf-sp$n-mf
@@ -28464,15 +28464,15 @@ LR	eng	whether	cnjadv	ita	se	cnjadv
 	eng	that	cnjsub	ita	che	cnjsub
 	eng	though	cnjadv	ita	nonostante	cnjsub
 	eng	that	rel$rel-an-mf-sp$rel-an	ita	che	rel$rel-an$rel-an-mf-sp
-	eng	the one which	rel-nn-mf-sg$prn-rel-nn-mf-sg	ita	quello che	rel$rel-an$rel-an-nt
+	eng	the one which	rel-nn-mf-sg	ita	quello che	rel$rel-an$rel-an-nt
 LR	eng	which	rel-an-mf-sp$rel-an$prn-rel-an-mf-sp	ita	quelle	rel-an-mf-ND
 RL	eng	which	rel-an-mf-sp$rel-an$prn-rel-an-mf-sp	ita	quale	rel-an-mf-sg$rel$rel-an
 RL	eng	which	rel-an-mf-sp$rel-an$prn-rel-an-mf-sp	ita	quale	rel-an-mf-pl
-	eng	the one who	rel-nn-mf-sg$prn-rel-nn-mf-sg	ita	quello che	rel$rel-an$rel-an-nt
-LR	eng	the ones that	rel-nn-mf-pl$prn-rel-nn-mf-pl	ita	quello che	rel$rel-an$rel-an-nt
-LR	eng	the ones who	rel-nn-mf-pl$prn-rel-nn-mf-pl	ita	quello che	rel$rel-an$rel-an-nt
-RL	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl	ita	quello che	rel-nn-GD-pl
-LR	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl	ita	quello che	rel-nn-m-pl
+	eng	the one who	rel-nn-mf-sg	ita	quello che	rel$rel-an$rel-an-nt
+LR	eng	the ones that	rel-nn-mf-pl	ita	quello che	rel$rel-an$rel-an-nt
+LR	eng	the ones who	rel-nn-mf-pl	ita	quello che	rel$rel-an$rel-an-nt
+RL	eng	those that	rel-nn-mf-pl	ita	quello che	rel-nn-GD-pl
+LR	eng	those that	rel-nn-mf-pl	ita	quello che	rel-nn-m-pl
 LR	eng	what	rel-nn-mf-sg$rel-nn$rel-nn-mf$prn-rel-nn-mf-sg$rel	ita	quanto	rel-nn-GD-ND
 RL	eng	what	rel-nn-mf-sg$rel-nn$rel-nn-mf$prn-rel-nn-mf-sg$rel	ita	quanto	rel$rel-nn-m$rel-nn
 RL	eng	what	rel-nn-mf-sg$rel-nn$rel-nn-mf$prn-rel-nn-mf-sg$rel	ita	quanto	rel-nn-f
@@ -28670,7 +28670,7 @@ LR	eng	ninety one thousand	num-sp	ita	novantunomila	num$num-mf-sp
 	eng	sixty thousand	num-sp$num	ita	sessantamila	num-mf-sp
 	eng	ten	num$num-sp$	ita	dieci	num-mf-sp$$num
 RL	eng	ten	num$num-sp$	ita	decine	num-mf-sp$num
-LR	eng	ten hundred	num$num-pl	ita	mille	num$num-mf-sp$num-mf$
+LR	eng	ten hundred	num$num-sp	ita	mille	num$num-mf-sp$num-mf$
 	eng	ten thousand	num-sp$num	ita	diecimila	num-mf-sp
 	eng	thirteen	num$num-sp$	ita	tredici	num-mf-sp$$num
 	eng	thirteen thousand	num-sp$num	ita	tredicimila	num-mf-sp
@@ -28740,8 +28740,8 @@ LR	eng	amongst	pr	ita	tra	pr
 RL	eng	around	pr	ita	attorno a	pr
 RL	eng	around	pr	ita	circa	pr
 RL	eng	around	pr	ita	nonostante	pr$
-LR	eng	as	pr	ita	come	pr
-LR	eng	as a	pr	ita	come	pr
+LR	eng	as	pr	ita	come	pr$
+LR	eng	as a	pr	ita	come	pr$
 	eng	as a result of	pr	ita	a seguito di	pr
 LR	eng	at	pr	ita	in	pr
 LR	eng	at about	pr	ita	sopra	pr$
@@ -28756,16 +28756,16 @@ RL	eng	beside	pr	ita	assieme a	pr
 LR	eng	between	pr	ita	tra	pr
 	eng	beyond	pr	ita	oltre	pr
 	eng	but	pr	ita	tranne	pr
-LR	eng	by	pr	ita	per	pr
+LR	eng	by	pr	ita	per	pr$
 	eng	by means of	pr	ita	mediante	pr
 RL	eng	by means of	pr	ita	tramite	pr
 LR	eng	despite	pr	ita	nonostante	pr$
 	eng	during	pr	ita	durante	pr
 	eng	except	pr	ita	eccetto	pr
 LR	eng	except for	pr	ita	tranne	pr
-	eng	for	pr	ita	per	pr
+	eng	for	pr	ita	per	pr$
 	eng	for more than	pr	ita	per oltre	pr
-LR	eng	from	pr	ita	di	pr
+LR	eng	from	pr	ita	di	$pr
 	eng	in	pr	ita	in	pr
 	eng	in accordance with	pr	ita	in accordo con	pr
 LR	eng	in addition to	pr	ita	oltre	pr
@@ -28776,7 +28776,7 @@ RL	eng	in front of	pr	ita	davanti a	pr
 	eng	in front of	pr	ita	dinanzi a	pr
 RL	eng	in front of	pr	ita	innanzi a	pr
 	eng	in hope of	pr	ita	in attesa di	pr
-LR	eng	in order to	pr	ita	per	pr
+LR	eng	in order to	pr	ita	per	pr$
 RL	eng	in spite of	pr	ita	per altri	pr
 LR	eng	in spite of	pr	ita	nonostante	pr$
 LR	eng	in the beginning of	pr	ita	agli inizi di	pr
@@ -28785,47 +28785,47 @@ LR	eng	in the beginning of	pr	ita	agli inizi di	pr
 RL	eng	inside	pr	ita	entro	pr
 RL	eng	inside	pr	ita	dentro di	pr
 RL	eng	inside	pr	ita	entro di	pr
-LR	eng	into	pr	ita	a	pr
-	eng	like	pr	ita	come	pr
+LR	eng	into	pr	ita	a	pr$
+	eng	like	pr	ita	come	pr$
 	eng	more than	pr	ita	più di	pr
 	eng	near	pr	ita	vicino a	pr
-RL	eng	of	pr	ita	da	pr
-	eng	of	pr	ita	di	pr
-LR	eng	off	pr	ita	di	pr
+RL	eng	of	pr$	ita	da	pr$
+	eng	of	pr$	ita	di	$pr
+LR	eng	off	pr	ita	di	$pr
 	eng	on	pr	ita	sopra	pr$
 RL	eng	on	pr	ita	su	pr
-LR	eng	onto	pr	ita	a	pr
+LR	eng	onto	pr	ita	a	pr$
 	eng	other than	pr	ita	oltre a	pr
 	eng	out	pr	ita	fuori	pr
 LR	eng	out of	pr	ita	fuori	pr
 RL	eng	out of	pr	ita	fuori di	pr
 LR	eng	outside	pr	ita	fuori	pr
 LR	eng	over	pr$	ita	sopra	pr$
-LR	eng	per	pr	ita	per	pr
+LR	eng	per	pr	ita	per	pr$
 LR	eng	rather than	pr	ita	più di	pr
 LR	eng	round	pr	ita	intorno a	pr
-LR	eng	since	pr	ita	da	pr
-LR	eng	such as	pr	ita	come	pr
+LR	eng	since	pr	ita	da	pr$
+LR	eng	such as	pr	ita	come	pr$
 	eng	thanks to	pr	ita	gracie a	pr
 	eng	through	pr	ita	attraverso di	pr
 	eng	through	pr	ita	attraverso a	pr
 LR	eng	throughout	pr	ita	durante	pr
-	eng	to	pr	ita	a	pr
+	eng	to	pr	ita	a	pr$
 RL	eng	to	pr	ita	verso	pr
 LR	eng	together with	pr	ita	insieme a	pr
-LR	eng	towards	pr	ita	per	pr
+LR	eng	towards	pr	ita	per	pr$
 	eng	under	pr	ita	sotto	pr$
 LR	eng	unless	pr	ita	tranne	pr
 	eng	until	pr	ita	fino	pr
 RL	eng	until	pr	ita	fino a	pr
 LR	eng	up to	pr	ita	fino	pr
-LR	eng	upon	pr	ita	a	pr
-	eng	with	pr$	ita	con	pr
+LR	eng	upon	pr	ita	a	pr$
+	eng	with	pr$	ita	con	pr$
 LR	eng	with a view of	pr	ita	all vista di	pr
-LR	eng	with no	pr	ita	senza	pr$
+LR	eng	with no	pr	ita	senza	$pr
 	eng	with the view of	pr	ita	all vista di	pr
 LR	eng	within	pr	ita	dentro	pr
-	eng	without	pr	ita	senza	pr$
+	eng	without	pr	ita	senza	$pr
 	eng	eighty-one	num$num-sp	ita	ottantuno	num$$num-m
 	eng	eighty-one thousand	num	ita	ottantunomila	num$num-mf-sp
 	eng	fifty-one	num$num-sp	ita	cinquantuno	num$$num-m

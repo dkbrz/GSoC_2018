@@ -10,8 +10,8 @@
 	chv	эсир	prn-pers$prn-pers-p2-pl	tur	siz	prn-pers$prn-pers-p2-pl
 	chv	вӗсем	prn-pers$prn-pers-p3-pl	tur	onlar	prn-pers$prn-pers-p3-pl
 	chv	ӑҫта	prn-itg	tur	nere	prn-itg$prn-itg-loc
-	chv	ку	prn-dem	tur	bu	prn-dem$prn-dem-abl$prn
-	chv	ҫак	prn-dem	tur	şu	prn-dem$prn-dem-dat
+	chv	ку	prn-dem	tur	bu	prn-dem$prn
+	chv	ҫак	prn-dem	tur	şu	prn-dem
 	chv	ку	det-dem	tur	bu	det-dem$det$det-dem-qnt
 	chv	ҫак	det-dem	tur	şu	det-dem$det
 	chv	ял	n	tur	köy	n$
@@ -80,8 +80,8 @@
 	chv	Ахмет	np-ant-m$np	tur	Ahmet	np-ant-m$np-ant$np
 	chv	Ана	np-ant-f	tur	Ana	np-ant-f$np-ant
 	chv	Анна	np-ant-f	tur	Anna	np-ant-f$np-ant
-	chv	Ваня	np$np-ant-m	tur	Vanya	np-ant-m
-	chv	Маша	np$np-ant-f	tur	Maşa	np-ant-f
+	chv	Ваня	np-ant-m$np	tur	Vanya	np-ant-m
+	chv	Маша	np-ant-f$np	tur	Maşa	np-ant-f
 	chv	питӗ	adv	tur	çok	adv$adv-subst
 	chv	ҫывӑра	v-iv	tur	uyu	v-iv$v
 	chv	,	cm	tur	,	cm
@@ -2195,8 +2195,8 @@
 	chv	кашӑрка	adj	tur	sert	adj$
 	chv	кашӑркка	adj	tur	sert	adj$
 	chv	кашкӑр	unk	tur	kurt	unk
-	chv	кашни	det	tur	her	det$det-dem
-	chv	кашни	det	tur	hep	det$det-qnt
+	chv	кашни	det$det-ind	tur	her	det$det-dem
+	chv	кашни	det$det-ind	tur	hep	det$det-qnt
 	chv	кашта	n	tur	raf	n$
 	chv	каштӑр	adv	tur	aniden	adv
 	chv	каштӑртат	n	tur	uğraş	n
@@ -3277,8 +3277,8 @@
 	chv	мӗлке	n	tur	gölge	n$
 	chv	ӗмӗлке	n	tur	gölge	n$
 	chv	мӗлтлет	v-iv	tur	ışılda	v-iv
-	chv	мӗн	prn$prn-itg$prn-itg-ben	tur	ne	prn-itg$prn$prn-itg-abl
-	chv	мӗн	prn$prn-itg$prn-itg-ben	tur	hangi	prn-itg$prn$prn-itg-abl
+	chv	мӗн	prn$prn-itg$prn-itg-ter	tur	ne	prn-itg$prn$prn-itg-abl
+	chv	мӗн	prn$prn-itg$prn-itg-ter	tur	hangi	prn-itg$prn$prn-itg-abl
 	chv	мӗнешкел	adv	tur	nasıl	adv$adv-itg
 	chv	мӗнле	adv	tur	nasıl	adv$adv-itg
 	chv	мӗнлелӗх	n	tur	nitelik	n$
@@ -4548,7 +4548,7 @@
 	chv	пӗвлӗ	adj	tur	uzun	adj$
 	chv	пӳлме	n	tur	bölme	n$
 	chv	пӳлме	n	tur	kutu	n$
-	chv	пӳр	v-tv	tur	ata	v-tv$$v
+	chv	пӳр	v-tv	tur	ata	v-tv$v
 	chv	пӳре	unk	tur	böbrek	unk
 	chv	пӳремеч	unk	tur	börek	unk$
 	chv	пӳрке	v-tv	tur	ört	v-tv$v
@@ -6158,7 +6158,7 @@
 	chv	танлан	v-iv	tur	gururlan	v-iv
 	chv	танлаш	v-iv	tur	yüksel	v-iv$v
 	chv	танаш	v-iv	tur	yüksel	v-iv$v
-	chv	танлӑ	adj	tur	denk	adj
+	chv	танлӑ	adj	tur	denk	adj$
 	chv	танмарлӑх	unk	tur	eşitsizlik	unk$
 	chv	тансӑрлӑх	unk	tur	eşitsizlik	unk$
 	chv	тантӑш	n	tur	yaşıt	n$
@@ -7928,7 +7928,7 @@
 	chv	хӑвӑртлӑх	n	tur	hız	n$
 	chv	хӑвӑртлӑх	n	tur	sürat	n$
 	chv	хӑвӑх	n	tur	buğday	n$
-	chv	хӑй	prn-ref$prn	tur	kendi	prn-ref$prn$$prn-ref-px3sp
+	chv	хӑй	prn$prn-ref-p3-sg	tur	kendi	prn-ref$prn$$prn-ref-px3sp
 	chv	хӑйӑ	n	tur	çıra	n
 	chv	хӑйӑлӑх	n	tur	çıra	n
 	chv	хӑйӑлти	n	tur	kısık	n
@@ -8033,12 +8033,12 @@
 	chv	хӑшкӑлтар	v-tv	tur	yor	v-tv$v
 	chv	хӑшпӗр	det	tur	başka	det$det-ind
 	chv	хӑшпӗр	det	tur	kimi	det$
-	chv	хӑшпӗр	det	tur	bazı	det-qnt$det$
+	chv	хӑшпӗр	det	tur	bazı	det-qnt$det
 	chv	хӑшпӗр	det	tur	kimi	det$
 	chv	хӑшпӗр	det	tur	birisi	det
 	chv	хӑшӗ-пӗри	det	tur	başka	det$det-ind
 	chv	хӑшӗ-пӗри	det	tur	kimi	det$
-	chv	хӑшӗ-пӗри	det	tur	bazı	det-qnt$det$
+	chv	хӑшӗ-пӗри	det	tur	bazı	det-qnt$det
 	chv	хӑшӗ-пӗри	det	tur	kimi	det$
 	chv	хӑшӗ-пӗри	det	tur	birisi	det
 	chv	хӑю	n	tur	şerit	n$
@@ -14973,7 +14973,7 @@
 	chv	кашла	v-iv	tur	şırıldamak	v-iv
 	chv	кашла	v-iv	tur	ses yapmak	v-iv
 	chv	кашлав	unk	tur	orman sesi	unk
-	chv	кашни	det	tur	hepsi	det-qnt$det
+	chv	кашни	det$det-ind	tur	hepsi	det-qnt$det
 	chv	кашолат	unk	tur	kaşolat	unk
 	chv	кашта	n	tur	tünek	n
 	chv	кашта	n	tur	kiriş	n
@@ -17668,7 +17668,7 @@
 	chv	мӗлтлет	v-iv	tur	parıldamak	v-iv
 	chv	мӗлтлет	v-iv	tur	görünüp kaybolmak	v-iv
 	chv	мӗмле	v-tv	tur	ağzında gevele	v-tv
-	chv	мӗн	prn$prn-itg$prn-itg-ben	tur	hangisi?	prn
+	chv	мӗн	prn$prn-itg$prn-itg-ter	tur	hangisi?	prn
 	chv	мӗнешкел	adv	tur	ne gibi; kaçıncı; hangi; ne biçim	adv
 	chv	мӗнешкел	adv	tur	ne kadar?	adv
 	chv	мӗнле	adv	tur	ne gibi; kaçıncı; hangi; ne biçim ne kadar?	adv
@@ -18098,7 +18098,7 @@
 	chv	нимӗҫле	unk	tur	alman dili	unk
 	chv	нимӗч пырҫи	unk	tur	burçak	unk
 	chv	нимеҫ пырҫи	unk	tur	burçak	unk
-	chv	нирке	unk	tur	taç	$unk
+	chv	нирке	unk	tur	taç	unk
 	chv	ниҫта	unk	tur	hiçbir yerde	unk
 	chv	ниҫта	unk	tur	hiçbir yere	unk
 	chv	ниҫталла	unk	tur	hiçbir tarafa	unk

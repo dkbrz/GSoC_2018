@@ -32,12 +32,12 @@ RL	eng	my	det-pos-sp$det-pos$det	por	o meo	det
 LR	eng	my	det-pos-sp$det-pos$det	por	meo	det$det-pos-mf-ND
 LR	eng	our	det-pos$det$det-pos-sp	por	nosso	det$det-pos-GD-ND$det-pos$det-pos-GD
 RL	eng	our	det-pos$det$det-pos-sp	por	nosso	det$det-pos-GD-ND$det-pos$det-pos-GD
-RL	eng	our	det-pos$det$det-pos-sp	por	o nosso	det$det-pos$det-pos-GD
+RL	eng	our	det-pos$det$det-pos-sp	por	o nosso	det$det-pos
 RL	eng	your	det-pos$det-pos-sp$det	por	teu	det$det-pos$det-pos-GD$det-pos-GD-pl
-RL	eng	your	det-pos$det-pos-sp$det	por	o teu	det$det-pos$det-pos-m$det-pos-m-pl
+RL	eng	your	det-pos$det-pos-sp$det	por	o teu	det$det-pos$det-pos-m
 LR	eng	your	det-pos$det-pos-sp$det	por	vosso	det$det-pos-GD-ND$det-pos$det-pos-GD
 RL	eng	your	det-pos$det-pos-sp$det	por	vosso	det$det-pos-GD-ND$det-pos$det-pos-GD
-RL	eng	your	det-pos$det-pos-sp$det	por	o vosso	det$det-pos$det-pos-GD
+RL	eng	your	det-pos$det-pos-sp$det	por	o vosso	det$det-pos
 LR	eng	their	det-pos$det-pos-sp$det	por	seu	det-pos$det-pos-mf-ND$det
 LR	eng	several	det-ind-pl$det$det-ind	por	vário	det$det-ind-GD-pl$det-ind-GD$det-ind
 RL	eng	several	det-ind-pl$det$det-ind	por	vário	det$det-ind-GD-pl$det-ind-GD$det-ind
@@ -74,7 +74,7 @@ RL	eng	this	det-dem$det$det-dem-sg	por	esse	det$det-dem$det-dem-f
 	eng	Andalucia	np-loc$np$np-loc-sg	por	Andaluzia	np
 	eng	Andreu	np$np-ant$np-ant-m-sg	por	Andreu	np
 	eng	Anna	np-ant$np$np-ant-f-sg$np-ant-f	por	Anna	np
-	eng	Antoni	np$np-ant$np-ant-m-sg	por	Antoni	np
+	eng	Antoni	np$np-ant-m-sg$np-ant	por	Antoni	np
 	eng	Antonio	np-ant$np$np-ant-m$np-ant-m-sg	por	Antonio	np
 	eng	Arafat	np-cog-sg$np$np-cog$	por	Arafat	np
 	eng	Arafat	np-cog-pl	por	Arafat	np
@@ -147,7 +147,7 @@ RL	eng	this	det-dem$det$det-dem-sg	por	esse	det$det-dem$det-dem-f
 	eng	Franco	np-cog-sg$np-cog	por	Franco	np
 	eng	Franco	np-cog-pl	por	Franco	np
 	eng	Frankfurt	np-loc$np	por	Frankfurt	np
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	por	Gabriel	np$np-ant
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	por	Gabriel	np$np-ant
 	eng	García	np-cog-sg$$np$np-cog	por	García	np
 	eng	García	np-cog-pl	por	García	np
 	eng	George	np-ant$np$np-ant-m$np-ant-m-sg$	por	George	np
@@ -184,7 +184,7 @@ RL	eng	this	det-dem$det$det-dem-sg	por	esse	det$det-dem$det-dem-f
 	eng	Javier	np-ant$np$np-ant-m$np-ant-m-sg	por	Javier	np
 	eng	Jesus	np$np-ant$np-ant-m$np-ant-m-sg	por	Jesús	np
 	eng	Jesús	np-ant$np$np-ant-m-sg	por	Jesús	np
-	eng	Joan	np-ant$np$np-ant-m-sg	por	Joan	np
+	eng	Joan	np-ant$np-ant-m-sg$np	por	Joan	np
 	eng	Joaquim	np$np-ant$np-ant-m-sg	por	Joaquim	np
 	eng	John	np$np-ant$np-ant-m$np-ant-m-sg$	por	John	np
 	eng	Jon	np-ant$np$np-ant-m-sg$np-ant-m	por	Jon	np
@@ -193,9 +193,9 @@ RL	eng	this	det-dem$det$det-dem-sg	por	esse	det$det-dem$det-dem-f
 	eng	Jordan	np-loc$np-loc-sg	por	Jordânia	np$np-top
 	eng	Jordi	np-ant$np$np-ant-m-sg	por	Jordi	np
 	eng	Jorge	np-ant$np$np-ant-m-sg$np-ant-m	por	Jorge	np$np-ant
-	eng	Josep	np$np-ant$np-ant-m$np-ant-m-sg	por	Josep	np
+	eng	Josep	np-ant-m-sg$np$np-ant$np-ant-m	por	Josep	np
 	eng	José	np-ant$np$np-ant-m-sg$np-ant-m	por	José	np$np-ant
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	por	Juan	np
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	por	Juan	np
 	eng	Korea	np-loc$np-loc-sg	por	Coréia	np
 	eng	Kosovo	np-loc$np-loc-sg	por	Kosovo	np-loc$np
 	eng	Latin America	np-loc$np$np-loc-sg	por	Latinoamérica	np
@@ -203,7 +203,7 @@ RL	eng	this	det-dem$det$det-dem-sg	por	esse	det$det-dem$det-dem-f
 	eng	Lima	np-loc$$np	por	Lima	np
 	eng	Lisbon	np-loc$np-loc-sg	por	Lisboa	np$np-top
 	eng	Lleida	np-loc$np	por	Lleida	np
-	eng	Lluís	np$np-ant$np-ant-m-sg	por	Lluís	np
+	eng	Lluís	np$np-ant-m-sg$np-ant	por	Lluís	np
 	eng	London	np-loc$np-loc-sg	por	Londres	np$np-top
 	eng	Louis	np-ant$np$np-ant-m$np-ant-m-sg	por	Louis	np
 	eng	Lucas	np-ant$np$$np-ant-m$np-ant-m-sg	por	Lucas	np
@@ -216,8 +216,8 @@ RL	eng	this	det-dem$det$det-dem-sg	por	esse	det$det-dem$det-dem-f
 	eng	Manuel	np-ant$np$np-ant-m$np-ant-m-sg	por	Manuel	np$np-ant
 	eng	Maragall	np-cog-sg$$np$np-cog	por	Maragall	np
 	eng	Maragall	np-cog-pl	por	Maragall	np
-	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg	por	Marc	np
-	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg	por	Maria	np$np-ant
+	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m	por	Marc	np
+	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f	por	Maria	np$np-ant
 	eng	Mario	np-ant$np$np-ant-m-sg$np-ant-m	por	Mario	np
 	eng	Mars	np-loc	por	Marte	np$np-al
 	eng	Mars	np-loc	por	Marte	np-loc
@@ -229,7 +229,7 @@ RL	eng	this	det-dem$det$det-dem-sg	por	esse	det$det-dem$det-dem-f
 	eng	Miami	np-loc$np	por	Miami	np$np-loc
 	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$	por	Michael	np
 	eng	Microsoft	np-al-sg$np-al$np	por	Microsoft	np
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	por	Miguel	np$np-ant
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	por	Miguel	np$np-ant
 	eng	Milan	np-loc$np$np-loc-sg	por	Milão	np$np-loc
 	eng	Miquel	np$np-ant$np-ant-m-sg	por	Miquel	np
 	eng	Monaco	np-loc	por	Mônaco	np
@@ -250,7 +250,7 @@ RL	eng	this	det-dem$det$det-dem-sg	por	esse	det$det-dem$det-dem-f
 	eng	Pasqual	np$np-ant$np-ant-m-sg	por	Pasqual	np
 	eng	Paula	np-ant$np$np-ant-f-sg$np-ant-f	por	Paula	np
 	eng	Peking	np-loc$np$np-loc-sg	por	Pequim	np
-	eng	Pere	np$np-ant$np-ant-m$np-ant-m-sg	por	Pere	np
+	eng	Pere	np$np-ant$np-ant-m-sg$np-ant-m	por	Pere	np
 	eng	Peru	np-loc	por	Peru	np$np-top
 	eng	Peter	np-ant$np$np-ant-m$np-ant-m-sg	por	Peter	np$np-ant
 	eng	Poland	np-loc	por	Polónia	np$np-top-f-sg
@@ -399,8 +399,8 @@ LR	eng	UN	n-acr$n$n-acr-sg	por	ONU	n$n-acr-f
 	eng	accounting	n$n-sg	por	contabilidade	n$n-f-ND
 	eng	accuracy	n$n-ND	por	precisão	n
 	eng	acquisition	n$n-ND	por	aquisição	n
-	eng	act	n$n-ND	por	acto	n$n-m$n-m-ND
-	eng	act	n$n-ND	por	ato	n$n-m
+	eng	act	n$n-ND	por	acto	n-m$n$n-m-ND
+	eng	act	n$n-ND	por	ato	n-m$n
 	eng	act	n$n-ND	por	auto	n$n-m-sg
 	eng	act	n$n-ND	por	lei	n$n-f-ND
 	eng	action	n$n-ND	por	acção	n$n-f-ND
@@ -662,7 +662,7 @@ RL	eng	background	n$n-sg	por	fundo	n-m-sg
 	eng	bid	n$n-ND	por	oferta	n$n-f$n-f-ND
 	eng	bill	n$n-ND	por	factura	n$n-f
 	eng	bill	n$n-ND	por	fatura	n$n-f
-	eng	bin	n	por	cubo	n$n-m
+	eng	bin	n$	por	cubo	n$n-m
 	eng	bird	n$n-ND	por	pássaro	n$n-m$n-m-ND
 	eng	birth	n$n-ND	por	nascimento	n$n-m
 	eng	birthday	n$n-ND	por	aniversário	n-m$n-m-ND$n
@@ -835,7 +835,7 @@ RL	eng	bottom	n$n-ND	por	fundo	n-m-sg
 	eng	chairman	n$n-ND	por	presidente	n$n-m-ND
 	eng	chairperson	n$n-ND	por	presidente	n$n-m-ND
 	eng	challenge	n$n-ND	por	desafio	n$n-m-ND
-	eng	chamber	n$n-ND	por	estância	n$n-f
+	eng	chamber	n$n-ND	por	estância	n
 	eng	champion	n$n-ND	por	campeão	n
 	eng	championship	n$n-sg	por	campeonato	n
 	eng	chance	n$n-sg	por	oportunidade	n$n-f-ND
@@ -1272,7 +1272,7 @@ RL	eng	bottom	n$n-ND	por	fundo	n-m-sg
 	eng	dissolution	n	por	dissolução	n
 	eng	distance	n$n-sg	por	distância	n$n-f-ND
 	eng	distraction	n	por	distracção	n$n-f
-	eng	distraction	n	por	distração	n$n-f
+	eng	distraction	n	por	distração	n-f$n
 	eng	distribution	n$n-ND	por	compartilhamento	n$n-m
 	eng	distribution	n$n-ND	por	partilha	n-f$n
 	eng	distribution	n$n-ND	por	distribuição	n$n-f-ND
@@ -1322,7 +1322,7 @@ RL	eng	dog	n$n-ND	por	cão	n-f
 	eng	driving	n	por	comando	n
 	eng	drop	n$n-ND	por	gota	n
 	eng	drought	n$n-sg	por	seca	n
-	eng	drug	n$n-ND	por	droga	n
+	eng	drug	n$n-sg	por	droga	n
 	eng	drugstore	n	por	farmácia	n
 	eng	drum	n$n-sg	por	tambor	n
 	eng	drum	n$n-sg	por	barril	n
@@ -1574,7 +1574,7 @@ RL	eng	dog	n$n-ND	por	cão	n-f
 	eng	flour	n$n-sg	por	farinha	n
 	eng	flower	n$n-sg	por	flor	n$n-f-ND
 	eng	flowerpot	n$n-ND	por	teste	n-m$n$n-m-ND
-	eng	flu	n$n-ND	por	gripe	n
+	eng	flu	n$n-sg	por	gripe	n
 	eng	fly	n$n-ND	por	mosca	n$n-f-ND
 	eng	flying	n$n-ND	por	voo	n
 	eng	focus	n$n-ND	por	foco	n$n-m-ND
@@ -1606,8 +1606,8 @@ RL	eng	dog	n$n-ND	por	cão	n-f
 	eng	foundation	n$n-ND	por	fundação	n$n-f-ND
 	eng	founder	n$n-ND	por	fundador	n$n-m-ND
 	eng	fountain	n$n-ND	por	fonte	n
-	eng	fraction	n$n-sg	por	fracção	n$n-f
-	eng	fraction	n$n-sg	por	fração	n$n-f
+	eng	fraction	n$n-sg	por	fracção	n-f$n
+	eng	fraction	n$n-sg	por	fração	n-f$n
 	eng	fracture	n$n-ND	por	fractura	n
 	eng	fracture	n$n-ND	por	fratura	n
 	eng	fragment	n$n-ND	por	fragmento	n
@@ -1651,7 +1651,7 @@ RL	eng	dog	n$n-ND	por	cão	n-f
 	eng	gardener	n$n-sg	por	jardineiro	n
 	eng	gas	n$n-sg	por	gás	n
 	eng	gasoline	n$n-sg	por	gasolina	n-f$n$n-f-ND
-	eng	gear	n$n-ND	por	equipa	n-f$n$n-f-ND
+	eng	gear	n$n-ND	por	equipa	n-f$n-f-ND
 	eng	gear	n$n-ND	por	andamento	n-m
 	eng	gear	n$n-ND	por	marcha	n
 	eng	gear	n$n-ND	por	passeata	n
@@ -1813,7 +1813,7 @@ RL	eng	dog	n$n-ND	por	cão	n-f
 	eng	hope	n$n-ND	por	esperança	n$n-f$n-f-ND
 	eng	horizon	n$n-ND	por	horizonte	n
 	eng	hormone	n$n-sg	por	hormona	n-f$n
-	eng	hormone	n$n-sg	por	hormônio	n-m$n
+	eng	hormone	n$n-sg	por	hormônio	n-m
 	eng	horn	n$n-ND	por	corno	n-m$n
 	eng	horror	n$n-ND	por	horror	n$n-m
 	eng	horse	n$n-sg	por	cavalo	n$n-m$n-m-ND
@@ -1937,8 +1937,8 @@ RL	eng	dog	n$n-ND	por	cão	n-f
 	eng	interest	n$n-pl	por	juro	n
 	eng	interest	n$n-pl	por	inquietude	n
 	eng	interior	n$n-ND	por	interior	n
-	eng	internet	n$n-ND	por	a internet	n$n-f
-	eng	internet	n$n-ND	por	a internet	n$n-f
+	eng	internet	n$n-ND	por	a internet	n
+	eng	internet	n$n-ND	por	a internet	n
 	eng	internet	n$n-ND	por	internet	n$n-f$n-f-ND
 	eng	interpretation	n$n-ND	por	interpretação	n
 	eng	interpreter	n$n-ND	por	intérprete	n
@@ -2122,7 +2122,7 @@ RL	eng	dog	n$n-ND	por	cão	n-f
 	eng	lunch	n$n-ND	por	comida	n-f$n$n-f-ND
 	eng	lung	n$n-sg	por	pulmão	n$n-m-ND
 	eng	luxury	n$n-ND	por	luxo	n
-	eng	lyric	n-pl$n	por	letra	n
+	eng	lyric	n$n-pl	por	letra	n
 	eng	machine	n$n-sg	por	máquina	n$n-f-ND
 	eng	machinery	n	por	mecanismo	n$n-m-ND
 	eng	machinery	n	por	maquinaria	n
@@ -2168,7 +2168,7 @@ RL	eng	man	n$n-ND	por	varão	n$n-m
 	eng	dialysis	n	por	diálise	n
 	eng	blood pressure	n	por	pressão sangüínea	n
 	eng	potassium	n$n-sg	por	potássio	n
-	eng	flu	n$n-ND	por	gripe	n
+	eng	flu	n$n-sg	por	gripe	n
 	eng	respiration	n	por	respiração	n
 	eng	margin	n$n-ND	por	margem	n-f$n
 	eng	mark	n$n-sg	por	marca	n$n-f
@@ -2924,7 +2924,7 @@ RL	eng	man	n$n-ND	por	varão	n$n-m
 	eng	ruler	n$n-sg	por	governante	n
 	eng	rumble	n	por	boato	n-m$n
 	eng	rumble	n	por	rumor	n-m$n
-	eng	run	n$n-ND	por	carreira	n
+	eng	run	n$n-sg	por	carreira	n
 	eng	runner	n$n-ND	por	corredor	n
 	eng	running	n$n-sg	por	carreira	n
 	eng	sack	n$n-ND	por	saco	n
@@ -2974,7 +2974,7 @@ RL	eng	man	n$n-ND	por	varão	n$n-m
 	eng	seat	n$n-ND	por	cadeirão	n-m$n
 	eng	seat	n$n-ND	por	assento	n
 	eng	seclusion	n	por	reclusão	n
-	eng	second	n$n-ND	por	segundo	n$n-m$n-m-ND
+	eng	second	n$n-sg	por	segundo	n$n-m$n-m-ND
 	eng	secret	n$n-ND	por	segredo	n
 	eng	secretariat	n	por	secretariado	n
 	eng	secretary	n$n-ND	por	secretário	n$n-m-ND
@@ -2986,8 +2986,8 @@ RL	eng	man	n$n-ND	por	varão	n$n-m
 	eng	security	n$n-sg	por	segurança	n-f$n-f-ND
 	eng	seduction	n	por	sedução	n
 	eng	seed	n$n-ND	por	semente	n$n-f$n-f-ND
-	eng	selection	n$n-ND	por	selecção	n$n-f$n-f-ND
-	eng	selection	n$n-ND	por	seleção	n$n-f
+	eng	selection	n$n-ND	por	selecção	n$n-f-ND
+	eng	selection	n$n-ND	por	seleção	n
 	eng	selfishness	n$n-sg	por	egoísmo	n
 	eng	semester	n	por	semestre	n
 	eng	seminar	n$n-sg	por	seminário	n$n-m-ND
@@ -3165,8 +3165,8 @@ RL	eng	man	n$n-ND	por	varão	n$n-m
 	eng	statue	n$n-ND	por	estátua	n$n-f-ND
 	eng	status	n$n-ND	por	estado	n$n-m-ND
 	eng	statute	n$n-ND	por	estatuto	n$n-m-ND
-	eng	stay	n$n-ND	por	estadia	n$n-f
-	eng	stay	n$n-ND	por	estância	n$n-f
+	eng	stay	n$n-ND	por	estadia	n
+	eng	stay	n$n-ND	por	estância	n
 	eng	steam	n$n-unc	por	vapor	n$n-m
 	eng	steel	n$n-ND	por	aço	n
 	eng	stem	n$n-ND	por	raiz	n$n-f
@@ -3291,8 +3291,8 @@ RL	eng	syndrome	n$n-ND	por	síndrome	n-f$n
 	eng	teacher	n$n-sg	por	maestro	n-mf
 	eng	teaching	n$n-ND	por	ensinamento	n-f$n
 	eng	teaching	n$n-ND	por	ensino	n-m$n$n-m-ND
-	eng	team	n$n-sg	por	equipa	n-f$n$n-f-ND
-	eng	team	n$n-sg	por	equipe	n-f$n
+	eng	team	n$n-sg	por	equipa	n-f$n-f-ND
+	eng	team	n$n-sg	por	equipe	n-f
 	eng	team	n$n-sg	por	time	n$n-m
 	eng	tear	n$n-ND	por	lágrima	n$n-f
 	eng	technician	n$n-ND	por	técnico	n$n-m-ND
@@ -3418,7 +3418,7 @@ RL	eng	tobacco	n$n-unc	por	fumo	n$n-m-ND
 	eng	transport	n$n-ND	por	transporte	n$n-m-ND
 	eng	transportation	n$n-ND	por	transporte	n$n-m-ND
 	eng	trap	n$n-ND	por	armadilha	n-f$n
-	eng	travel	n$n-ND	por	viagem	n-f$n$n-f-ND
+	eng	travel	n$n-sg	por	viagem	n-f$n$n-f-ND
 	eng	traveller	n$n-ND	por	viajante	n-mf$n
 	eng	treasure	n$n-ND	por	tesouro	n
 	eng	treatment	n$n-sg	por	tratamento	n$n-m-ND
@@ -4262,7 +4262,7 @@ RL	eng	exact	adj$adj-sint	por	exato	adj$adj-m-sg
 	eng	maritime	adj	por	marítimo	adj$adj-GD-ND
 	eng	marvellous	adj	por	maravilhoso	adj
 	eng	masculine	adj	por	masculino	adj
-	eng	massive	adj	por	em massa	adj-mf-sp$adj
+	eng	massive	adj	por	em massa	adj-mf-sp
 	eng	material	adj	por	material	adj
 	eng	mathematical	adj	por	matemático	adj
 	eng	mature	adj	por	maduro	adj
@@ -6020,8 +6020,8 @@ LR	eng	send	vblex$vblex-sep	por	enviar	vblex
 	eng	sixteen	num$num-sp$	por	dezasseis	num$num-mf-sp
 	eng	sixteen	num$num-sp$	por	dezesseis	num
 	eng	ten	num$num-sp$	por	dez	num$num-mf-sp
-	eng	ten hundred	num$num-pl	por	mil	num-mf-sg$num
-	eng	ten hundred	num$num-pl	por	milhar	num-mf-pl$num
+	eng	ten hundred	num$num-sp	por	mil	num-mf-sg$num
+	eng	ten hundred	num$num-sp	por	milhar	num-mf-pl$num
 	eng	thirteen	num$num-sp$	por	treze	num$num-mf-sp
 	eng	thousand	num$num-sp	por	mil	num-mf-sg$num
 	eng	thousand	num$num-sp	por	milhar	num-mf-pl$num
@@ -6076,9 +6076,9 @@ LR	eng	send	vblex$vblex-sep	por	enviar	vblex
 	eng	nothing	prn$prn-ind-mf-sg$prn-ind	por	nada	prn-tn-nt$prn-tn
 	eng	one	prn-tn-mf$prn$prn-tn-mf-pl	por	um	prn$prn-tn
 	eng	others	prn-tn-mf-pl$prn$prn-tn$prn-tn-pl	por	outro	prn$prn-tn$prn-tn-GD-sg
-	eng	ours	prn-pos$prn-pos-mf-sp	por	o nosso	prn$prn-tn-pos-f-pl$prn-tn-pos
-	eng	ours	prn-pos$prn-pos-mf-sp	por	o nosso	prn$prn-tn-pos-f-pl$prn-tn-pos
-	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt	por	o	prn-pro-p3-nt$prn-pro
+	eng	ours	prn-pos$prn-pos-mf-sp	por	o nosso	prn$prn-tn-pos
+	eng	ours	prn-pos$prn-pos-mf-sp	por	o nosso	prn$prn-tn-pos
+	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt	por	o	prn-pro-p3-nt$prn$prn-pro
 	eng	prpers	prn-obj-p3-nt-sg$prn$prn-p3$prn-obj-p3$prn-obj-p3-nt	por	o	prn-enc-p3-nt$prn-enc
 	eng	prpers	prn-obj-p1-mf-sg$prn-p1$prn-obj-p1	por	mim	prn$prn-tn
 	eng	some	prn-tn-mf-pl$prn-tn-pl$prn	por	algum	prn$prn-tn$prn-tn-f-pl
@@ -6104,14 +6104,14 @@ LR	eng	send	vblex$vblex-sep	por	enviar	vblex
 	eng	which one	prn-itg-m-sg$prn$prn-itg	por	qual	prn-itg-mf$prn
 	eng	who	prn-itg-m-sp$prn-itg-m$prn-itg$prn	por	quem	prn-itg-mf-sp$prn-itg
 	eng	yours	prn-pos$prn-pos-mf-sp$prn$prn-pos-p2-mf-sp	por	o teu	prn$prn-tn-pos
-	eng	yours	prn-pos$prn-pos-mf-sp$prn$prn-pos-p2-mf-sp	por	o vosso	prn$prn-tn-pos-f-pl$prn-tn-pos
-	eng	yours	prn-pos$prn-pos-mf-sp$prn$prn-pos-p2-mf-sp	por	o vosso	prn$prn-tn-pos-f-pl$prn-tn-pos
+	eng	yours	prn-pos$prn-pos-mf-sp$prn$prn-pos-p2-mf-sp	por	o vosso	prn$prn-tn-pos
+	eng	yours	prn-pos$prn-pos-mf-sp$prn$prn-pos-p2-mf-sp	por	o vosso	prn$prn-tn-pos
 	eng	that	rel$rel-an-mf-sp$rel-an	por	que	rel$rel-an-mf-sp$rel-an-mf-sp-m-sg$rel-an
-	eng	the one who	rel-nn-mf-sg$prn-rel-nn-mf-sg	por	quem	rel-nn-mf-sp$rel-nn
-	eng	those who	rel-nn-mf-pl$prn-rel-nn-mf-pl	por	quem	rel-nn-mf-sp$rel-nn
+	eng	the one who	rel-nn-mf-sg	por	quem	rel-nn-mf-sp$rel-nn
+	eng	those who	rel-nn-mf-pl	por	quem	rel-nn-mf-sp$rel-nn
 	eng	where	rel-adv$rel	por	onde	adv$rel-adv
 	eng	which	rel-nn-mf-sp$rel$prn-rel-nn-mf-sp	por	que	rel$rel-an-mf-sp$rel-an-mf-sp-m-sg$rel-an
-	eng	which	rel-nn-mf-sp$rel$prn-rel-nn-mf-sp	por	o qual	rel$rel-an$rel-an-m
+	eng	which	rel-nn-mf-sp$rel$prn-rel-nn-mf-sp	por	o qual	rel$rel-an
 	eng	which	rel-nn-mf-sp$rel$prn-rel-nn-mf-sp	por	o que	rel
 	eng	who	rel$rel-an$prn-rel-an-mf-sp$rel-an-mf-sp	por	que	rel$rel-an-mf-sp$rel-an-mf-sp-m-sg$rel-an
 	eng	who	rel$rel-an$prn-rel-an-mf-sp$rel-an-mf-sp	por	quem	rel-nn-mf-sp$rel-nn
@@ -6183,7 +6183,7 @@ LR	eng	amid	pr	por	entre	pr
 	eng	into	pr	por	a	pr
 	eng	like	pr	por	como	pr
 	eng	near	pr	por	cerca de	pr
-	eng	of	pr	por	de	pr
+	eng	of	pr$	por	de	pr
 	eng	off	pr	por	de	pr
 	eng	on	pr	por	em	pr
 	eng	on	pr	por	a respeito de	pr
@@ -6757,8 +6757,8 @@ RL	eng	jointly	adv	por	conjuntamente	adv
 	eng	yet	adv	por	ainda	adv
 	eng	yet	adv	por	mesmo	adv
 	eng	Organisation for Economic Co-operation and Development	np	por	Organização para a Cooperação e Desenvolvimento Económico	np
-	eng	abstraction	n$n-ND	por	abstracção	n$n-f
-	eng	abstraction	n$n-ND	por	abstração	n$n-f
+	eng	abstraction	n$n-ND	por	abstracção	n-f$n
+	eng	abstraction	n$n-ND	por	abstração	n-f$n
 	eng	accompanier	n	por	acompanhante	n$n-mf
 	eng	birthday	n$n-ND	por	aniversário	n-m$n-m-ND$n
 	eng	appearance	n$n-sg	por	aparência	n$n-f

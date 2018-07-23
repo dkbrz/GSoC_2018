@@ -497,7 +497,7 @@ RL	spa	solamente	adv	ast	namái	cnjadv
 RL	spa	todavía	adv	ast	entovía	cnjadv
 RL	spa	todavía	adv	ast	tovía	cnjadv
 LR	spa	en donde	rel-adv	ast	onde	rel-adv
-RL	spa	como	rel$rel-adv	ast	comu	rel-adv
+RL	spa	como	adv$rel-adv	ast	comu	rel-adv
 	spa	cómo	adv$adv-itg	ast	cómo	adv$adv-itg
 	spa	cuándo	adv$adv-itg	ast	cuándo	adv$adv-itg
 	spa	dónde	adv$adv-itg	ast	ónde	adv$adv-itg
@@ -832,7 +832,7 @@ LR	spa	cuando menos	adv	ast	cuandoquier	adv
 	spa	cuando proceda	adv	ast	de la que proceda	adv
 	spa	cuanto antes mejor	adv	ast	cuanto primero meyor	adv
 	spa	cuanto menos	adv	ast	cuantimenos	adv
-	spa	cuanto	adv	ast	cuanto	adv
+	spa	cuanto	adv$rel-adv$	ast	cuanto	adv
 	spa	cuerpo a tierra	adv	ast	cuerpu a tierra	adv
 	spa	cuesta abajo	adv	ast	cuesta abaxo	adv
 	spa	cuesta arriba	adv	ast	cuesta arriba	adv
@@ -1388,8 +1388,8 @@ LR	spa	tan pronto como	adv	ast	asina	adv
 	spa	cien	num$num-mf-sp$num-mf$	ast	cien	num
 	spa	ciento	num$num-m-sp$	ast	cientu	num
 	spa	cinco	num$num-mf-sp$	ast	cinco	num
-	spa	cincuenta	num$$num-mf	ast	cincuenta	num
-	spa	cuarenta	num$$num-mf$num-mf-sp	ast	cuarenta	num
+	spa	cincuenta	num$$num-mf-sp$num-mf	ast	cincuenta	num
+	spa	cuarenta	num$num-mf-sp$$num-mf	ast	cuarenta	num
 	spa	cuarto	adj$adj-f$adj-f-pl	ast	cuartu	adj$adj-nt-sg
 	spa	cuatrocientos	num$$num-GD-pl	ast	cuatrocientos	num
 	spa	cuatro	num$$num-mf-sp	ast	cuatro	num
@@ -1413,10 +1413,10 @@ RL	spa	tres	num$num-mf-sp$	ast	tres	num
 	spa	mil	num$num-mf$num-mf-sp	ast	mil	num
 	spa	novecientos	num$$num-GD-pl	ast	novecientos	num
 	spa	noveno	adj$adj-f$$adj-f-pl	ast	novenu	adj$adj-nt-sg
-	spa	noventa	num$$num-mf	ast	noventa	num
+	spa	noventa	num$$num-mf$num-mf-sp	ast	noventa	num
 	spa	nueve	num$$num-mf-sp	ast	nueve	num
 	spa	ochavo	adj	ast	octavu	adj$adj-nt-sg
-	spa	ochenta	num$$num-mf$num-mf-sp	ast	ochenta	num
+	spa	ochenta	num$num-mf-sp$$num-mf	ast	ochenta	num
 	spa	ochocientos	num$$num-GD-pl	ast	ochocientos	num
 	spa	ocho	num$$num-mf-sp	ast	ocho	num
 	spa	once	num$$num-mf$num-mf-sp	ast	once	num
@@ -1429,14 +1429,14 @@ RL	spa	tres	num$num-mf-sp$	ast	tres	num
 	spa	seiscientos	num$$num-GD-pl	ast	seiscientos	num
 	spa	seis	num$num-mf-sp$	ast	seis	num
 	spa	séptimo	adj$adj-f$$adj-f-pl	ast	séptimu	adj$adj-nt-sg
-	spa	sesenta	num$$num-mf$num-mf-sp	ast	sesenta	num
+	spa	sesenta	num$num-mf-sp$$num-mf	ast	sesenta	num
 	spa	setecientos	num$$num-GD-pl	ast	setecientos	num
-	spa	setenta	num$$num-mf	ast	setenta	num
+	spa	setenta	num$$num-mf$num-mf-sp	ast	setenta	num
 	spa	sexto	adj$adj-f$$adj-f-pl	ast	sestu	adj$adj-nt-sg
 	spa	siete	num$$num-mf-sp	ast	siete	num
 	spa	tercero	adj$adj-f$adj-f-pl	ast	terceru	adj$adj-nt-sg
 	spa	trece	num$$num-mf$num-mf-sp	ast	trelce	num
-	spa	treinta	num$$num-mf	ast	trenta	num
+	spa	treinta	num$$num-mf$num-mf-sp	ast	trenta	num
 LR	spa	treinta y un	num-m	ast	trenta y un	num-mf
 LR	spa	treinta y un	num-f	ast	trenta y un	num-mf
 RL	spa	treinta y un	num-GD	ast	trenta y un	num-mf
@@ -1478,7 +1478,7 @@ RL	spa	veintiún	num-GD	ast	ventiún	num-mf
 	spa	vigésimo	adj$adj-f$adj-f-pl	ast	ventiavu	adj$adj-nt-sg
 LR	spa	trecésimo	adj	ast	trixésimu	adj$adj-nt-sg
 RL	spa	trece	num$$num-mf$num-mf-sp	ast	trece	num
-	spa	cincuenta y dos	num-mf$num-mf-sp$num$	ast	cincuenta y dos	num
+	spa	cincuenta y dos	num-mf$num$num-mf-sp$	ast	cincuenta y dos	num
 	spa	cincuenta y tres	num$$num-mf	ast	cincuenta y tres	num
 	spa	cincuenta y cuatro	num$$num-mf	ast	cincuenta y cuatro	num
 	spa	cincuenta y cinco	num$$num-mf	ast	cincuenta y cinco	num
@@ -1502,7 +1502,7 @@ RL	spa	trece	num$$num-mf$num-mf-sp	ast	trece	num
 	spa	noventa y siete	num$$num-mf	ast	noventa y siete	num
 	spa	noventa y ocho	num$$num-mf	ast	noventa y ocho	num
 	spa	noventa y nueve	num$$num-mf	ast	noventa y nueve	num
-	spa	ochenta y dos	num-mf$num-mf-sp$num$	ast	ochenta y dos	num
+	spa	ochenta y dos	num-mf$num$num-mf-pl$	ast	ochenta y dos	num
 	spa	ochenta y tres	num$$num-mf	ast	ochenta y tres	num
 	spa	ochenta y cuatro	num$$num-mf	ast	ochenta y cuatro	num
 	spa	ochenta y cinco	num$$num-mf	ast	ochenta y cinco	num
@@ -1543,9 +1543,9 @@ RL	spa	el	det-def-m-sg$det-def-m	ast	el	det-def$det-def-mf
 	spa	lo	det$det-def	ast	lo	det-def
 	spa	los	det-def	ast	los	det-def
 	spa	las	det-def	ast	les	det-def
-	spa	uno	det-ind$det$det-ind-m-sg$det-ind-m	ast	un	det-ind$det-ind-nt-sg
-RL	spa	uno	det-ind$det$det-ind-m-sg$det-ind-m	ast	uno	det-ind-nt-sg
-RL	spa	uno	det-ind$det$det-ind-m-sg$det-ind-m	ast	un	det-ind$det-ind-nt-sg
+	spa	uno	det$det-ind$det-ind-m-sg$det-ind-m	ast	un	det-ind$det-ind-nt-sg
+RL	spa	uno	det$det-ind$det-ind-m-sg$det-ind-m	ast	uno	det-ind-nt-sg
+RL	spa	uno	det$det-ind$det-ind-m-sg$det-ind-m	ast	un	det-ind$det-ind-nt-sg
 	spa	cierto	det$det-ind$det-ind-m-sg	ast	ciertu	det-ind$det-ind-nt-sg
 RL	spa	cierto	det$det-ind$det-ind-m-sg	ast	ciertu	det-ind$det-ind-nt-sg
 	spa	demás	det$det-ind$det-ind-mf-sp	ast	demás	det-ind
@@ -1604,7 +1604,7 @@ LR	spa	aquello	prn$prn-tn$prn-tn-m-sp	ast	aquel	prn-tn
 	spa	aquel	det$det-dem-GD$det-dem$det-dem-GD-ND	ast	aquel	det-dem$det-dem-sg$det-dem-nt-sg
 RL	spa	aquel	det-dem-m-sg$det-dem-sg	ast	aquel	det-dem$det-dem-sg$det-dem-nt-sg
 	spa	aquél	prn$prn-tn$prn-tn-m	ast	aquél	prn-tn
-	spa	como	rel$rel-adv	ast	como	rel-adv
+	spa	como	adv$rel-adv	ast	como	rel-adv
 	spa	conmigo	prn$prn-tn	ast	conmigo	prn
 	spa	consigo	prn$prn-tn$prn-tn-p3-mf-sp	ast	consigo	prn
 	spa	contigo	prn$prn-tn	ast	contigo	prn
@@ -1619,8 +1619,8 @@ RL	spa	cuál	prn-itg-mf$prn$prn-itg-mf-sg$prn-itg	ast	cuál	prn-itg-nt-sg
 	spa	cuando	rel$rel-adv	ast	cuando	rel-adv
 	spa	cuánto	prn$prn-itg$prn-itg-m$prn-itg-m-sg	ast	cuántu	prn-itg$prn-itg-nt
 RL	spa	cuánto	prn$prn-itg$prn-itg-m$prn-itg-m-sg	ast	cuántu	prn-itg$prn-itg-nt
-	spa	cuanto	rel-nn$rel-nn-m-sg	ast	cuantu	rel-nn$rel-nn-nt-sg
-RL	spa	cuanto	rel-nn$rel-nn-m-sg	ast	cuantu	rel-nn$rel-nn-nt-sg
+	spa	cuanto	rel$rel-nn$rel-nn-m-sg	ast	cuantu	rel-nn$rel-nn-nt-sg
+RL	spa	cuanto	rel$rel-nn$rel-nn-m-sg	ast	cuantu	rel-nn$rel-nn-nt-sg
 	spa	cuyo	rel$rel-aa-m-sg$rel-aa	ast	que'l so	rel
 	spa	donde	rel$rel-adv	ast	onde	rel-adv
 	spa	él	prn-tn$prn$prn-tn-p3-m-pl$prn-tn-p3-m$prn-tn-m	ast	él	prn-tn$prn-tn-nt
@@ -1843,7 +1843,7 @@ RL	spa	el vuestro	prn$prn-pos-GD$prn-pos$prn-pos-GD-ND	ast	el de vueso	prn
 	spa	Ambiedes	np	ast	Santiao d'Ambiedes	np
 	spa	Amieva	np$np-loc-f	ast	Amieva	np
 	spa	Andalucía	np$np-loc$np-loc-f	ast	Andalucía	np
-	spa	Andorra la Vieja	np$np-loc	ast	Andorra la Vieya	np
+	spa	Andorra la Vieja	np	ast	Andorra la Vieya	np
 	spa	Aragón	np$np-loc$np-loc-m	ast	Aragón	np
 	spa	Aranjuez	np$np-loc-f	ast	Aranxuez	np
 	spa	Argel	np$np-loc$np-loc-m	ast	Arxel	np
@@ -1905,8 +1905,8 @@ RL	spa	castiello	np	ast	castiel.lo	np
 	spa	El Franco	np$np-loc-f	ast	El Franco	np
 	spa	El Remedio	np	ast	El Remediu	np
 	spa	Entralgo	np	ast	Entrialgo	np
-	spa	Estado	np$np-al	ast	Estáu	np
-	spa	Estados	np	ast	Estaos	np
+	spa	Estado	np-al$np	ast	Estáu	np
+	spa	Estados	np$np-loc	ast	Estaos	np
 	spa	Europa	np$np-loc$np-loc-f	ast	Europa	np
 	spa	Extremadura	np$np-loc$np-loc-f	ast	Estremadura	np
 	spa	La Felguerina	np	ast	La Felguerina	np
@@ -3028,7 +3028,7 @@ RL	spa	alistado	n	ast	allistáu	n
 	spa	alivio	n$n-m$n-m-ND	ast	aliviu	n
 	spa	alivio	n$n-m$n-m-ND	ast	alliviu	n
 	spa	aljófar	n	ast	alxófar	n
-	spa	allanamiento	n$n-m	ast	allanadura	n-f
+	spa	allanamiento	n-m$n	ast	allanadura	n-f
 	spa	almacenaje	n-m$n	ast	almacenaxe	n
 	spa	almacenamiento	n$n-m$n-m-sg	ast	almacenamientu	n
 	spa	almacenista	n	ast	almacenista	n
@@ -4032,7 +4032,7 @@ RL	spa	burdel	n$n-m$n-m-ND	ast	burdel	n
 	spa	burla	n$n-f$n-f-ND	ast	burlla	n
 	spa	burlón	n	ast	burllón	n
 	spa	burro	n$n-m$n-m-ND	ast	pollín	n
-	spa	búsqueda	n-f$n$n-f-sg	ast	busca	n
+	spa	búsqueda	n$n-f$n-f-sg	ast	busca	n
 	spa	butaca	n-f$n$n-f-ND	ast	butaca	n
 	spa	cábala	n$n-f	ast	cábala	n
 	spa	caballería	n$n-f$n-f-ND	ast	caballería	n
@@ -4070,7 +4070,7 @@ RL	spa	caída	n$n-f$n-f-sg	ast	caída	n
 	spa	calidad	n$n-f$n-f-sg	ast	calidá	n
 	spa	calificación	n$n-f$n-f-ND	ast	calificación	n
 	spa	caligrafía	n$n-f	ast	caligrafía	n
-	spa	calma	n-f$n$n-f-ND	ast	aselu	n$n-m
+	spa	calma	n$n-f$n-f-ND	ast	aselu	n$n-m
 	spa	calor	n-m$n$n-m-ND	ast	calor	n
 	spa	cal	n-f$n-f-ND$n	ast	cal	n-m
 	spa	calzado	n$n-m$n-m-ND	ast	calzáu	n
@@ -4152,7 +4152,7 @@ RL	spa	cartel	n$n-m$n-m-ND	ast	cartel	n
 	spa	casamiento	n$n-m	ast	casoriu	n$n-m
 	spa	casa	n-f$n$n-f-sg	ast	casa	n$n-f
 	spa	cáscara	n-f$n	ast	pulgu	n-m
-	spa	casco	n-m$n$n-m-sg	ast	cascu	n
+	spa	casco	n$n-m$n-m-sg	ast	cascu	n
 	spa	caso	n-m$n$n-m-sg	ast	casu	n
 	spa	castaña pilonga	n	ast	castaña mayuca	n
 	spa	castaño	n$n-m$n-m-ND	ast	castañal	n-f
@@ -4228,7 +4228,7 @@ RL	spa	centro	n-m$n$n-m-ND	ast	centre	n
 	spa	ciclo	n$n-m$n-m-sg	ast	ciclu	n
 	spa	ciego	n$n-m	ast	ciegu	n
 	spa	cielo	n-m$n$n-m-sg	ast	cielu	n
-	spa	ciencia	n-f$n$n-f-sg	ast	ciencia	n
+	spa	ciencia	n$n-f$n-f-sg	ast	ciencia	n
 	spa	cienmilésimo	n	ast	cenmilésimu	n
 	spa	cien	n	ast	cien	n
 	spa	científico	n$n-m$n-m-sg	ast	científicu	n
@@ -4734,7 +4734,7 @@ LR	spa	domicilio	n$n-m$n-m-sg	ast	casa	n$n-f
 	spa	dureza	n$n-f$n-f-ND	ast	durez	n$n-f
 	spa	economía	n$n-f$n-f-sg	ast	economía	n
 	spa	eco	n$n-m$n-m-ND	ast	ecu	n
-	spa	edad	n-f$n$n-f-sg	ast	edá	n
+	spa	edad	n$n-f$n-f-sg	ast	edá	n
 	spa	edén	n$n-m	ast	edén	n
 	spa	edición	n$n-f$n-f-sg	ast	edición	n
 	spa	edicto	n$n-m	ast	edictu	n
@@ -5004,7 +5004,7 @@ RL	spa	examen	n$n-m$n-m-sg	ast	esame	n
 	spa	falta	n$n-f$n-f-ND	ast	falta	n
 	spa	fama	n$n-f$n-f-ND	ast	sonadía	n$n-f
 RL	spa	familiar	n$n-m-ND	ast	familiar	n
-	spa	familia	n-f$n$n-f-sg	ast	familia	n
+	spa	familia	n$n-f$n-f-sg	ast	familia	n
 	spa	fanático	n$n-m	ast	fanáticu	n
 	spa	fantasía	n$n-f$n-f-ND	ast	fantasía	n
 	spa	fantasma	n-m$n$n-m-sg	ast	pantasma	n$n-f
@@ -5086,7 +5086,7 @@ RL	spa	familiar	n$n-m-ND	ast	familiar	n
 	spa	frontera	n$n-f$n-f-sg	ast	frontera	n
 	spa	frustración	n$n-f$n-f-ND	ast	frustración	n
 	spa	fruta	n$n-f$n-f-sg	ast	fruta	n
-	spa	fruto	n$n-m$n-m-ND	ast	frutu	n
+	spa	fruto	n$n-m$n-m-sg	ast	frutu	n
 	spa	fuego	n$n-m$n-m-sg	ast	fueu	n
 	spa	fuente	n$n-f$n-f-sg	ast	fonte	n
 	spa	fuerte	n$n-mf	ast	fuerte	n
@@ -5137,7 +5137,7 @@ RL	spa	familiar	n$n-m-ND	ast	familiar	n
 	spa	gente	n-f-sg$n$n-f	ast	xente	n
 	spa	geografía	n$n-f$n-f-sg	ast	xeografía	n
 	spa	geología	n$n-f	ast	xeoloxía	n
-	spa	gestión	n-f$n$n-f-sg	ast	xestión	n
+	spa	gestión	n$n-f$n-f-sg	ast	xestión	n
 	spa	gesto	n$n-m$n-m-ND	ast	xestu	n
 	spa	gigante	n-m$n$n-m-sg	ast	xigante	n
 	spa	ginebra	n$n-f$n-f-ND	ast	xinebra	n
@@ -5198,7 +5198,7 @@ RL	spa	halago	n-m$n	ast	falagu	n
 	spa	hálito	n$n-m	ast	aliendu	n
 	spa	hambre	n-m$n$n-m-sg	ast	fame	n
 	spa	hándicap	n	ast	hándicap	n
-	spa	harina	n$n-f	ast	farina	n-f
+	spa	harina	n$n-f$n-f-sg	ast	farina	n-f
 	spa	hazaña	n$n-f$n-f-ND	ast	fazaña	n
 	spa	hebreo	n$n-GD	ast	hebréu	n
 	spa	hechizo	n$n-m	ast	conxuru	n
@@ -5218,7 +5218,7 @@ RL	spa	herido	n$n-m$n-m-ND	ast	firíu	n
 	spa	heroico	n	ast	heroicu	n
 	spa	herramienta	n-f$n$n-f-sg	ast	ferramienta	n
 	spa	hielo	n$n-m$n-m-ND	ast	xelu	n
-	spa	hierba	n-f$n$n-f-ND	ast	yerba	n
+	spa	hierba	n-f$n$n-f-sg	ast	yerba	n
 	spa	hierro	n$n-m$n-m-sg	ast	fierro	n
 	spa	hígado	n$n-m$n-m-ND	ast	fégadu	n
 	spa	hijo	n$n-f$n-f-ND	ast	fíu	n
@@ -5439,7 +5439,7 @@ LR	spa	israelí	n-mf$n$n-mf-ND	ast	israelín	n-GD
 	spa	italiano	n$n-m$n-m-sg	ast	italianu	n
 	spa	izquierda	n$n-f$n-f-ND	ast	esquierda	n
 RL	spa	izquierda	n$n-f$n-f-ND	ast	izquierda	n
-	spa	jaque	n$n-m$n-m-ND	ast	xaqué	n
+	spa	jaque	n$n-m$n-m-sg	ast	xaqué	n
 	spa	jardín	n-m$n$n-m-sg	ast	xardín	n
 	spa	jerarquía	n$n-f$n-f-sg	ast	xerarquía	n
 	spa	jersey	n$n-m$n-m-ND	ast	xersé	n
@@ -5524,7 +5524,7 @@ LR	spa	león	n-m-pl	ast	lleón	n-mf-pl
 	spa	licencia	n$n-f$n-f-sg	ast	llicencia	n
 	spa	liceo	n$n-m$n-m-ND	ast	llicéu	n
 	spa	lícito	n	ast	llícitu	n
-	spa	licor	n-m$n$n-m-sg	ast	llicor	n
+	spa	licor	n$n-m$n-m-sg	ast	llicor	n
 	spa	liderazgo	n$n-m$n-m-sg	ast	lideralgu	n
 	spa	líder	n$n-mf$n-mf-ND	ast	líder	n
 	spa	lienzo	n$n-m	ast	llenzu	n
@@ -5588,7 +5588,7 @@ LR	spa	león	n-m-pl	ast	lleón	n-mf-pl
 	spa	maldición	n$n-f$n-f-ND	ast	maldición	n
 	spa	malestar	n$n-m$n-m-ND	ast	malestar	n
 	spa	maleta	n$n-f$n-f-ND	ast	maleta	n
-	spa	mal	n$n-m$n-m-ND	ast	mal	n
+	spa	mal	n-m$n$n-m-ND	ast	mal	n
 	spa	malvado	n	ast	malváu	n
 	spa	mama	n$n-f$n-f-ND	ast	mama	n
 	spa	mamá	n$n-f$n-f-ND	ast	ma	n
@@ -5730,7 +5730,7 @@ RL	spa	mensaje	n-m$n$n-m-sg	ast	mensax	n
 	spa	monstruo	n$n-m$n-m-ND	ast	bisarma	n-f
 	spa	montaje	n$n-m$n-m-ND	ast	montaxe	n
 	spa	montaña	n-f$n$n-f-sg	ast	monte	n$n-m
-	spa	monte	n-m$n	ast	monte	n$n-m
+	spa	monte	n$n-m	ast	monte	n$n-m
 	spa	montón	n-m$n-m-ND$n	ast	montón	n
 	spa	monumento	n$n-m$n-m-sg	ast	monumentu	n
 	spa	moño	n$n-m$n-m-ND	ast	moñu	n
@@ -5973,7 +5973,7 @@ RL	spa	parecer	vblex$$vblex-pron	ast	parecer	vblex
 	spa	parlamentario	n$n-GD$n-GD-ND	ast	parllamentariu	n
 	spa	parlamento	n$n-m$n-m-sg	ast	parllamentariu	n
 	spa	parlamento	n$n-m$n-m-sg	ast	parllamentu	n
-	spa	paro	n$n-m$n-m-ND	ast	paru	n
+	spa	paro	n-m$n$n-m-ND	ast	paru	n
 	spa	párpado	n-m$n$n-m-ND	ast	párpagu	n
 	spa	parque	n$n-m$n-m-ND	ast	parque	n
 	spa	párroco	n$n-m	ast	párrocu	n
@@ -6050,7 +6050,7 @@ RL	spa	parecer	vblex$$vblex-pron	ast	parecer	vblex
 	spa	personaje	n-m$n$n-m-ND	ast	personaxe	n
 	spa	personalidad	n$n-f$n-f-sg	ast	personalidá	n
 	spa	personal	n$n-m-sg$n-m	ast	personal	n
-	spa	persona	n-f$n$n-f-sg	ast	persona	n
+	spa	persona	n$n-f$n-f-sg	ast	persona	n
 	spa	perspectiva	n$n-f$n-f-sg	ast	perspectiva	n
 	spa	perturbación	n$n-f$n-f-sg	ast	perturbación	n
 	spa	perturbado	n	ast	venáu	n
@@ -6078,7 +6078,7 @@ RL	spa	pestañeo	n$n-m	ast	ceguñada	n-f
 	spa	pieza	n$n-f$n-f-ND	ast	pieza	n
 	spa	pila	n$n-f$n-f-ND	ast	pila	n
 	spa	piloto	n$n-mf$n-mf-ND	ast	pilotu	n
-	spa	pino	n-m$n$n-m-ND	ast	pinu	n
+	spa	pino	n$n-m$n-m-ND	ast	pinu	n
 	spa	pinta	n$$n-f	ast	pinta	n
 	spa	pintura	n-f$n$n-f-ND	ast	pintura	n
 	spa	pipa	n$n-f$n-f-ND	ast	pipa	n
@@ -6093,7 +6093,7 @@ RL	spa	pestañeo	n$n-m	ast	ceguñada	n-f
 	spa	placer	n-m$n$n-m-ND	ast	placer	n
 	spa	plaga	n$n-f$n-f-sg	ast	andada	n$n-f
 	spa	planeta	n-m$n$n-m-ND	ast	planeta	n
-	spa	plano	n-m$n$n-m-sg	ast	planu	n
+	spa	plano	n$n-m$n-m-sg	ast	planu	n
 	spa	plan	n$n-m$n-m-sg	ast	plan	n
 	spa	planta	n$n-f$n-f-ND	ast	planta	n
 	spa	planteamiento	n$n-m$n-m-sg	ast	planteamientu	n
@@ -6287,7 +6287,7 @@ RL	spa	jefe	n-GD-pl	ast	xefe	n-mf-pl
 	spa	raíz	n-f$n$n-f-sg	ast	raigañu	n-m
 	spa	rama	n-f$n$n-f-sg	ast	caña	n
 	spa	rampa	n$n-f	ast	rampla	n
-	spa	rancio	n	ast	ranciu	n
+	spa	rancio	n$n-m	ast	ranciu	n
 	spa	rapaz	n-f$n	ast	rapaz	n
 	spa	rapidez	n$n-f$n-f-ND	ast	rapidez	n
 	spa	rareza	n$n-f$n-f-ND	ast	rarez	n
@@ -6748,7 +6748,7 @@ LR	spa	testigo	n-mf$n$n-mf-ND	ast	testigu	n-GD
 	spa	tirante	n-m$n$n-m-sg	ast	tirante	n
 	spa	tira	n$n-f	ast	tira	n
 	spa	tirón	n-m$n$n-m-ND	ast	quite	n
-	spa	título	n-m$n$n-m-sg	ast	títulu	n
+	spa	título	n$n-m$n-m-sg	ast	títulu	n
 	spa	tomo	n-m$n$n-m-ND	ast	tomu	n
 	spa	tonelada	n$n-f$n-f-ND	ast	tonelada	n
 	spa	tono	n-m$n$n-m-sg	ast	tonu	n
@@ -6981,7 +6981,7 @@ RL	spa	zarzal	n	ast	artadal	n
 RL	spa	zarzal	n	ast	artal	n
 	spa	zarzuela	n$n-f$n-f-sg	ast	zarzuela	n
 	spa	zodiaco	n$n-m	ast	zodiacu	n
-	spa	zona	n-f$n$n-f-sg	ast	zona	n
+	spa	zona	n$n-f$n-f-sg	ast	zona	n
 	spa	zoofilia	n	ast	zoofilia	n
 	spa	zopenco	n	ast	mazcayu	n
 RL	spa	zoquete	n	ast	zamploñón	n
@@ -7142,7 +7142,7 @@ RL	spa	aliento	n$n-m$n-m-ND	ast	esnieldu	n
 RL	spa	aliento	n$n-m$n-m-ND	ast	fuelgu	n
 RL	spa	alineamiento	n$n-m	ast	alliñamientu	n
 RL	spa	alisamiento	n$n-m	ast	allisadura	n-f
-RL	spa	allanamiento	n$n-m	ast	allanamientu	n
+RL	spa	allanamiento	n-m$n	ast	allanamientu	n
 RL	spa	almacenaje	n-m$n	ast	almacenax	n
 RL	spa	almeja	n$n-f	ast	almexa	n
 RL	spa	almibar	n	ast	almíbare	n
@@ -10926,7 +10926,7 @@ RL	spa	adecuar	vblex	ast	acaldar	vblex
 	spa	desconcertar	vblex	ast	asorar	vblex
 	spa	desdén	n$n-m$n-m-ND	ast	desdeñu	n
 	spa	destituir	vblex	ast	destituyir	vblex
-	spa	dinero	n-m-sg$n-m$n	ast	dineru	n
+	spa	dinero	n-m-sg$n$n-m	ast	dineru	n
 	spa	dirigir	vblex	ast	dirixir	vblex
 	spa	disparatar	vblex	ast	esbarriar	vblex
 RL	spa	disparatar	vblex	ast	esbarrar	vblex
@@ -11044,7 +11044,7 @@ LR	spa	a costa de	adv	ast	a cuenta de	adv
 	spa	Campos	np$np-cog	ast	Campos	np
 	spa	Cano	np$np-ant	ast	Cano	np
 	spa	Carlos	np$np-ant$np-ant-m-sg	ast	Carlos	np
-	spa	Carmen	np$np-ant$np-ant-f-sg	ast	Carmen	np
+	spa	Carmen	np-ant$np$np-ant-f-sg	ast	Carmen	np
 	spa	Carme	np$np-ant	ast	Carme	np
 	spa	Carmona	np$np-cog$np-cog-mf	ast	Carmona	np
 	spa	Carolina	np$np-ant$np-ant-f-sg	ast	Carolina	np
@@ -11105,7 +11105,7 @@ LR	spa	a costa de	adv	ast	a cuenta de	adv
 	spa	Francisco José	np	ast	Francisco José	np
 	spa	Francisco	np-ant$np$np-ant-m-sg	ast	Francisco	np
 	spa	François	np$np-ant	ast	François	np
-	spa	Fuentes	np$np-cog	ast	Fuentes	np
+	spa	Fuentes	np$np-loc$np-loc-f	ast	Fuentes	np
 	spa	Gabriel	np$np-ant$np-ant-m-sg	ast	Gabriel	np
 	spa	Gallardo	np$np-cog	ast	Gallardo	np
 	spa	Gallego	np$np-cog	ast	Gallego	np
@@ -11283,7 +11283,7 @@ LR	spa	a costa de	adv	ast	a cuenta de	adv
 	spa	Ramos	np$np-cog	ast	Ramos	np
 	spa	Raquel	np$np-ant$np-ant-f-sg	ast	Raquel	np
 	spa	Raúl	np$np-ant$np-ant-m-sg	ast	Raúl	np
-	spa	Reyes	np$np-cog	ast	Reyes	np
+	spa	Reyes	np$np-ant	ast	Reyes	np
 	spa	Ricardo	np$np-ant$np-ant-m-sg	ast	Ricardo	np
 	spa	Roberto	np$np-ant$np-ant-m-sg	ast	Roberto	np
 	spa	Robert	np$np-ant$np-ant-m	ast	Robert	np
@@ -11296,7 +11296,7 @@ LR	spa	a costa de	adv	ast	a cuenta de	adv
 	spa	Rosa	np$np-ant$np-ant-f$np-ant-f-sg	ast	Rosa	np
 	spa	Rubén	np$np-ant$np-ant-m-sg	ast	Rubén	np
 	spa	Rubio	np$np-cog	ast	Rubio	np
-	spa	Ruiz	np$np-cog-mf$np-cog	ast	Ruiz	np
+	spa	Ruiz	np$np-ant	ast	Ruiz	np
 	spa	Saez	np	ast	Saez	np
 	spa	Salvador	np$np-ant$np-ant-m-sg	ast	Salvador	np
 	spa	Samuel	np$np-ant$np-ant-m$np-ant-m-sg	ast	Samuel	np
@@ -13828,7 +13828,7 @@ LR	spa	cabecilla	n-mf$n	ast	cabezaleru	n-GD
 	spa	Bankinter	np	ast	Bankinter	np
 	spa	Cintra	np	ast	Cintra	np
 	spa	Sacyr	np	ast	Sacyr	np
-	spa	Endesa	np$np-al-m-sg	ast	Endesa	np
+	spa	Endesa	np$np-al$np-al-m-sg	ast	Endesa	np
 	spa	Hidrocantábrico	np	ast	Hidrocantábrico	np
 	spa	Telecable	np	ast	Telecable	np
 	spa	Gas Natural	np$np-al-mf	ast	Gas Natural	np
@@ -18504,7 +18504,7 @@ LR	spa	español	n-m-pl	ast	español	n-mf-pl
 	spa	casero	n$n-m$n-m-ND	ast	caseru	n
 	spa	celuloide	n-m$n	ast	celuloide	n
 	spa	cepa	n$n-f$n-f-sg	ast	cepa	n
-	spa	Champions	np	ast	Champions	np
+	spa	Champions	np$np-al	ast	Champions	np
 	spa	Chat	np	ast	Chat	np
 	spa	ciclista	n$n-mf$n-mf-ND	ast	ciclista	n
 	spa	cinematografía	n$n-f	ast	cinematografía	n
@@ -19204,7 +19204,7 @@ LR	spa	musulmán	n-m-pl	ast	musulmán	n-mf-pl
 	spa	Francesc	np$np-ant	ast	Francesc	np
 	spa	George	np$np-ant	ast	George	np
 	spa	Grecia	np$np-loc$np-loc-f	ast	Grecia	np
-	spa	Guinea	np$np-top-f$np-top	ast	Guinea	np
+	spa	Guinea	np$np-loc$np-loc-f	ast	Guinea	np
 	spa	Guipúzcoa	np$np-loc$np-loc-f	ast	Guipúzcoa	np
 	spa	Himalaya	np$np-loc$np-loc-f	ast	Himalaya	np
 	spa	Huelva	np$np-loc$np-loc-f	ast	Huelva	np
@@ -21143,7 +21143,7 @@ RL	spa	domesticación	n$n-f	ast	adomamientu	n-m
 	spa	domesticidad	n	ast	domesticidá	n
 	spa	dorsal	n$n-m	ast	dosal	n
 	spa	draga	n$n-f	ast	draga	n
-	spa	lisonja	n$n-f	ast	afalagamientu	n-m
+	spa	lisonja	n-f$n	ast	afalagamientu	n-m
 	spa	dromedario	n$n-m	ast	dromedariu	n
 	spa	duplicación	n$n-f	ast	duplicación	n
 	spa	eclosión	n$n-f	ast	eclosión	n
@@ -21859,8 +21859,8 @@ LR	spa	usurpador	n-m-pl	ast	usurpador	n-mf-pl
 	spa	Escandinavia	np$np-loc$np-loc-f	ast	Escandinavia	np
 	spa	Escocia	np$np-loc$np-loc-f	ast	Escocia	np
 	spa	Federico	np$np-ant	ast	Federico	np
-	spa	Guayana	np$np-top-f	ast	Guayana	np
-	spa	Guinea	np$np-top-f$np-top	ast	Guinea	np
+	spa	Guayana	np$np-loc$np-loc-f	ast	Guayana	np
+	spa	Guinea	np$np-loc$np-loc-f	ast	Guinea	np
 	spa	Héctor	np$np-ant$np-ant-m-sg	ast	Héctor	np
 	spa	Herbert	np$np-ant	ast	Herbert	np
 	spa	Hungría	np$np-loc$np-loc-f	ast	Hungría	np
@@ -23861,7 +23861,7 @@ RL	spa	burrada	n$n-f	ast	burrada	n
 	spa	chapucilla	n	ast	chapuzuca	n
 	spa	cheque	n$n-m	ast	cheque	n
 	spa	chiringuito	n$n-m	ast	chiringu	n
-	spa	chivo	n-m$n	ast	chivu	n
+	spa	chivo	n$n-m	ast	chivu	n
 	spa	chollo	n-m$n	ast	choyu	n
 	spa	chupete	n$n-m	ast	chupu	n
 	spa	chupito	n$n-m	ast	clin	n
@@ -24708,7 +24708,7 @@ RL	spa	remedo	n$n-m	ast	asonsañamientu	n
 	spa	sombrilla	n$n-f$n-f-sg	ast	sombriella	n
 	spa	soponcio	n$n-m	ast	papurriu	n
 	spa	soprano	n$n-mf	ast	soprano	n
-	spa	sosa	n-f$n	ast	sosa	n
+	spa	sosa	n$n-f	ast	sosa	n
 	spa	sostenibilidad	n$n-f$n-f-ND	ast	sostenibilidá	n
 	spa	sportinguista	n	ast	sportinguista	n
 	spa	subestación	n$n-f	ast	subestación	n
@@ -25208,7 +25208,7 @@ RL	spa	difusor	adj-GD-pl	ast	difusor	adj-mf-pl
 	spa	esperanzado	adj$adj-GD-ND	ast	esperanzáu	adj$adj-nt-sg
 	spa	sumario	n$n-m$n-m-sg	ast	sumariu	n
 	spa	ayuntamiento	n$n-m$n-m-ND	ast	conceyu	n
-	spa	res	n-f$n$n-f-ND	ast	res	n$n-m
+	spa	res	n$n-f$n-f-ND	ast	res	n$n-m
 	spa	proselitismo	n$n-m	ast	proselitismu	n
 	spa	prosélito	n	ast	prosélitu	n
 	spa	geriátrico	adj$adj-m-sg	ast	xeriátricu	adj$adj-nt-sg
@@ -31100,7 +31100,7 @@ RL	spa	calumnia	n$n-f$n-f-ND	ast	calumnia	n
 	spa	casino	n$n-m$n-m-sg	ast	casinu	n
 	spa	caspa	n$n-f	ast	caspa	n
 RL	spa	caspa	n$n-f	ast	fariella	n
-RL	spa	harina	n$n-f	ast	fariña	n
+RL	spa	harina	n$n-f$n-f-sg	ast	fariña	n
 	spa	casquero	n	ast	casqueru	n
 	spa	casquete	n-m$n	ast	casquete	n
 	spa	fajo	n$n-m$n-m-ND	ast	balate	n
@@ -34433,7 +34433,7 @@ RL	spa	polla	n$n-f	ast	minga	n
 	spa	menguante	n$n-mf	ast	menguante	n
 	spa	menhir	n-m$n	ast	menhir	n
 	spa	meningococo	n	ast	meningococu	n
-	spa	meninge	n-f$n	ast	meninxe	n
+	spa	meninge	n$n-f	ast	meninxe	n
 	spa	higrometría	n$n-f	ast	higrometría	n
 	spa	menisco	n$n-m	ast	meniscu	n
 	spa	menopausia	n$n-f	ast	menopausia	n
@@ -36685,7 +36685,7 @@ RL	spa	quebradero	n$n-m	ast	remolición	n-f
 	spa	repugnancia	n$n-f	ast	repunancia	n
 	spa	multicopista	n	ast	multicopista	n
 	spa	requemado	n	ast	requemáu	n
-	spa	requerimiento	n-m$n$n-m-sg	ast	requerimientu	n
+	spa	requerimiento	n$n-m$n-m-sg	ast	requerimientu	n
 	spa	requesón	n$n-m	ast	requesón	n
 	spa	requeté	n	ast	requeté	n
 	spa	rinconada	n	ast	requexada	n
@@ -37774,7 +37774,7 @@ LR	spa	raedor	n-f-pl	ast	raedor	n-mf-pl
 RL	spa	raedor	n-GD-pl	ast	raedor	n-mf-pl
 LR	spa	raedor	n-m-pl	ast	raedor	n-mf-pl
 	spa	raedor	n-m-sg	ast	raedor	n-m-sg
-	spa	res	n-f$n$n-f-ND	ast	res	n$n-m
+	spa	res	n$n-f$n-f-ND	ast	res	n$n-m
 RL	spa	meneo	n$n-m	ast	solmenada	n-f
 	spa	resultado	n-m$n$n-m-sg	ast	resultancia	n-f
 	spa	zafiro	n$n-m	ast	zafil	n
@@ -38909,7 +38909,7 @@ LR	spa	tahur	n-mf	ast	tafuru	n-GD
 	spa	tendencia	n-f$n$n-f-sg	ast	tendencia	n
 	spa	tenderete	n	ast	tenderete	n
 	spa	tendero	n$n-m	ast	tenderu	n
-	spa	tendido	n$n-m	ast	tendíu	n
+	spa	tendido	n-m$n	ast	tendíu	n
 	spa	tenebrismo	n	ast	tenebrismu	n
 	spa	tenia	n$n-f	ast	tenia	n
 	spa	tensamiento	n	ast	tensamientu	n
@@ -39585,7 +39585,7 @@ LR	spa	chapucero	n-m-pl	ast	zafallón	n-mf-pl
 	spa	chapucero	n-m-sg	ast	zafallón	n-m-sg
 	spa	mamón	n$n-m	ast	mamón	n
 	spa	naranjal	n	ast	naranxal	n$n-f
-	spa	jaque	n$n-m$n-m-ND	ast	xaque	n
+	spa	jaque	n$n-m$n-m-sg	ast	xaque	n
 	spa	quórum	n-m$n	ast	quórum	n
 	spa	rulo	n	ast	rulu	n
 LR	spa	santón	n-f-pl	ast	santón	n-mf-pl
@@ -39723,7 +39723,7 @@ RL	spa	por medio de	cnjadv	ast	per aciu	cnjadv
 	spa	Ucrania	np$np-loc$np-loc-f	ast	Ucrania	np
 	spa	La Tierra	np	ast	La Tierra	np
 	spa	Tierra	np$np-ant	ast	Tierra	np
-	spa	San	np$np-ant	ast	San	np
+	spa	San	np$np-loc	ast	San	np
 	spa	Los Verdes	np	ast	Los Verdes	np
 	spa	Yermes y Tameza	np	ast	Yernes y Tameza	np
 	spa	Honduras	np$np-loc$np-loc-f	ast	Honduras	np
@@ -52271,7 +52271,7 @@ RL	spa	vecino	adj$adj-m-sg	ast	vecín	adj$adj-nt-sg
 RL	spa	vigésimo	adj-m$adj-m-sg	ast	ventiavu	adj$adj-nt-sg
 RL	spa	vicésimo	adj$adj-m-sg	ast	vicésimu	adj$adj-nt-sg
 RL	spa	vivente	adj$adj-mf-sg	ast	vivente	adj$adj-nt-sg
-RL	spa	vigésimo tercero	adj$adj-m-sg	ast	vixesimoterceru	adj-nt-sg
+RL	spa	vigésimo tercero	adj-m-sg	ast	vixesimoterceru	adj-nt-sg
 RL	spa	fantoche	adj-mf$adj-mf-sg	ast	farfán	adj-nt-sg
 RL	spa	viceprimero	adj$adj-m-sg	ast	vizprimeru	adj$adj-nt-sg
 RL	spa	pérfido	adj$adj-m-sg	ast	zaguín	adj$adj-nt-sg
@@ -56366,8 +56366,8 @@ RL	spa	atento	adj-m-sg$adj-m	ast	sollerte	adj-nt-sg
 RL	spa	sotripado	adj$adj-m-sg	ast	sotripáu	adj$adj-nt-sg
 	spa	tai	adj$adj-mf-sg	ast	tai	adj$adj-nt-sg
 RL	spa	tai	adj$adj-mf-sg	ast	tai	adj$adj-nt-sg
-	spa	tal	adj-mf$adj$adj-mf-pl	ast	tal	adj$adj-nt-sg
-RL	spa	tal	adj-mf-sg	ast	tal	adj$adj-nt-sg
+	spa	tal	adj-mf$adj$adj-mf-sg	ast	tal	adj$adj-nt-sg
+RL	spa	tal	adj-mf$adj$adj-mf-sg	ast	tal	adj$adj-nt-sg
 RL	spa	canalla	adj-mf-sg$adj	ast	manguán	adj-m-sg
 RL	spa	canalla	adj-mf-sg$adj	ast	manguán	adj-f-sg
 RL	spa	canalla	adj-mf-pl	ast	manguán	adj-mf-pl
@@ -56954,7 +56954,7 @@ RL	spa	nerón	adj$adj-m-sg	ast	ñerón	adj$adj-nt-sg
 	spa	p. ej.	adv	ast	p. ex.	adv
 	spa	ni aun así	adv	ast	nin asina	adv
 LR	spa	a donde así	adv	ast	a onde	adv
-	spa	a donde	rel-adv$adv	ast	a onde	adv
+	spa	a donde	adv$rel-adv	ast	a onde	adv
 	spa	a la buena de Dios	adv	ast	a la buena de Dios	adv
 	spa	a lo sumo	adv	ast	a lo sumo	adv
 	spa	así y asá	adv	ast	así y asao	adv

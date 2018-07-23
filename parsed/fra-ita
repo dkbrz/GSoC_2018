@@ -2,9 +2,9 @@
 	fra	abondant	adj-m-sg$adj-m	ita	abbondante	$adj$adj-sup
 	fra	abondant	adj$adj-GD-ND$adj-GD	ita	abbondante	$adj$adj-sup
 	fra	absolu	adj$adj-GD-ND	ita	assoluto	$adj$adj-sup
-	fra	absorbant	adj$adj-f$adj-f-sg	ita	assorbente	adj$$adj-mf
-	fra	absorbant	adj-m$adj-m-sg	ita	assorbente	adj$$adj-mf
-	fra	absorbant	adj-GD$adj-GD-ND	ita	assorbente	adj$$adj-mf
+	fra	absorbant	adj$adj-f$adj-f-sg	ita	assorbente	adj$adj-mf
+	fra	absorbant	adj-m$adj-m-sg	ita	assorbente	adj$adj-mf
+	fra	absorbant	adj-GD$adj-GD-ND	ita	assorbente	adj$adj-mf
 	fra	absorbé	adj	ita	assorto	$adj
 	fra	abstrait	adj$adj-GD-ND	ita	astratto	adj$$adj-m-sg
 	fra	absurde	adj-mf$adj$adj-mf-ND	ita	assurdo	$adj$adj-sup
@@ -38,7 +38,7 @@
 	fra	adroit	adj$adj-GD-ND$adj-GD	ita	abile	$adj$adj-mf
 	fra	adverse	adj-mf$adj	ita	avverso	$adj$adj-sup
 	fra	affable	adj$adj-mf	ita	affabile	$adj$adj-mf
-	fra	affamé	adj$adj-GD-ND	ita	affamato	adj$
+	fra	affamé	adj$adj-GD-ND	ita	affamato	$adj
 	fra	affectif	adj$adj-GD-ND	ita	affettivo	adj$$adj-sup
 	fra	affecté	adj	ita	colpito	adj
 	fra	affirmatif	adj$adj-GD-ND	ita	affermativo	adj$$adj-sup
@@ -180,8 +180,8 @@
 	fra	basique	adj-mf$adj$adj-mf-ND	ita	basico	adj$$adj-sup
 	fra	basque	adj-mf$adj-mf-ND$adj	ita	basco	adj$adj-sup
 	fra	beau	adj-m-sg	ita	bello	$adj$adj-m$adj-m-sg
-	fra	beaucoup de	adj-mf-sp$adj	ita	molto	adj$adj-ind$adj-ind-sup
-	fra	beaucoup de	adj-mf-sp$adj	ita	parecchio	adj-ind$adj
+	fra	beaucoup de	adj-mf-sp	ita	molto	adj$adj-ind$adj-ind-sup
+	fra	beaucoup de	adj-mf-sp	ita	parecchio	adj-ind$adj
 	fra	beaux	adj-m-pl	ita	belli	adj-m-pl
 	fra	belge	adj$adj-mf-ND$adj-mf	ita	belga	adj-GD
 	fra	belge	adj$adj-mf-ND$adj-mf	ita	belga	adj$adj-m$
@@ -208,7 +208,7 @@ LR	fra	blanc	adj-mf-pl	ita	bianco	adj-GD-pl
 	fra	bleu-blanc	adj-GD$adj	ita	biancazzurro	adj-m
 	fra	blond	adj$adj-GD-ND	ita	biondo	adj$$adj-sup
 	fra	bon	adj$adj-GD-ND	ita	buono	$adj$adj-mf
-	fra	bon marché	adj-mf$adj$adj-mf-ND	ita	economico	adj$$adj-sup
+	fra	bon marché	adj-mf$adj-mf-ND$adj	ita	economico	adj$$adj-sup
 	fra	botanique	adj-mf$adj	ita	botanico	adj$adj-sup
 	fra	bourgeois	adj-f	ita	borghese	adj-mf$$adj
 	fra	bourgeois	adj$adj-m-sp	ita	borghese	adj-mf$$adj
@@ -337,7 +337,7 @@ LR	fra	blanc	adj-mf-pl	ita	bianco	adj-GD-pl
 	fra	contestable	adj$adj-mf$adj-mf-ND	ita	discutibile	$adj$adj-mf
 	fra	continental	adj-f$adj-f-sg	ita	continentale	adj$adj-mf$
 	fra	continental	adj-m$adj-m-sg	ita	continentale	adj$adj-mf$
-	fra	continental	adj$adj-GD-ND$$adj-GD	ita	continentale	adj$adj-mf$
+	fra	continental	adj$adj-GD-ND$adj-GD$	ita	continentale	adj$adj-mf$
 	fra	continu	adj$adj-GD-ND	ita	continuo	adj$$adj-sup
 	fra	continuel	adj$	ita	continuo	adj$$adj-sup
 	fra	contraceptif	adj	ita	contraccettivo	adj$
@@ -399,12 +399,12 @@ LR	fra	blanc	adj-mf-pl	ita	bianco	adj-GD-pl
 	fra	danois	adj-f$adj-f-sg	ita	danese	adj-mf$$adj
 	fra	danois	adj-m-sp$adj	ita	danese	adj-mf$$adj
 	fra	de l'état	adj-mf-sp$adj	ita	statale	adj$$adj-mf
-	fra	de commerce et de gestion	adj-mf-sp$adj	ita	imprenditoriale	adj$adj-mf$
-	fra	de travail	adj-mf-sp$adj$adj-mf	ita	lavorativo	adj-GD
-	fra	de travail	adj-mf-sp$adj$adj-mf	ita	lavorativo	adj-m$adj$
-	fra	de travail	adj-mf-sp$adj$adj-mf	ita	lavorativo	adj-f
+	fra	de commerce et de gestion	adj-mf-sp	ita	imprenditoriale	adj$adj-mf$
+	fra	de travail	adj-mf-sp	ita	lavorativo	adj-GD
+	fra	de travail	adj-mf-sp	ita	lavorativo	adj-m$adj$
+	fra	de travail	adj-mf-sp	ita	lavorativo	adj-f
 	fra	dernier	adj$adj-GD-ND	ita	ultimo	adj$$adj-sup
-	fra	des entreprises	adj-mf-sp$adj	ita	imprenditoriale	adj$adj-mf$
+	fra	des entreprises	adj-mf-sp	ita	imprenditoriale	adj$adj-mf$
 	fra	destinataire	adj-mf$adj	ita	destinatario	adj
 	fra	destructeur	adj	ita	distruttore	adj$
 	fra	deuxième	adj$adj-mf$adj-mf-ND	ita	secondo	adj-ord$adj
@@ -416,7 +416,7 @@ LR	fra	blanc	adj-mf-pl	ita	bianco	adj-GD-pl
 	fra	digital	adj$adj-f	ita	digitale	adj$$adj-mf
 	fra	digital	adj-m	ita	digitale	adj$$adj-mf
 	fra	digital	adj-GD	ita	digitale	adj$$adj-mf
-	fra	digne	adj$adj-mf$adj-mf-ND	ita	degno	adj$$adj-sup
+	fra	digne	adj$adj-mf$adj-mf-ND	ita	degno	$adj$adj-sup
 	fra	diplomatique	adj$adj-mf$adj-mf-ND	ita	diplomatico	adj$$adj-sup
 	fra	direct	adj$adj-GD-ND	ita	diretto	$adj$adj-sup
 	fra	discret	adj$adj-GD-ND	ita	discreto	$adj$adj-sup
@@ -496,8 +496,8 @@ LR	fra	blanc	adj-mf-pl	ita	bianco	adj-GD-pl
 	fra	efficace	adj-mf-pl	ita	efficace	$adj$adj-mf$adj-mf-pl
 	fra	efficace	adj-mf-sg$adj	ita	efficace	$adj$adj-mf$adj-mf-pl
 	fra	empirique	adj-mf$adj$adj-mf-ND	ita	empirico	adj$$adj-sup
-	fra	en pourcentage	adj-mf-sp$adj	ita	percentuale	adj$adj-mf
-	fra	en vigueur	adj-mf-sp$adj$adj-mf	ita	vigente	$adj$adj-mf
+	fra	en pourcentage	adj-mf-sp	ita	percentuale	adj$adj-mf
+	fra	en vigueur	adj-mf-sp	ita	vigente	$adj$adj-mf
 	fra	enfantin	adj$adj-f	ita	infantile	adj$$adj-mf
 	fra	enfantin	adj-m	ita	infantile	adj$$adj-mf
 	fra	enfantin	adj-GD$adj-GD-ND	ita	infantile	adj$$adj-mf
@@ -660,8 +660,8 @@ RL	fra	grand	adj$adj-GD$adj-GD-ND	ita	grande	$adj-mf$adj
 	fra	grandissant	adj$adj-f	ita	crescente	adj$adj-mf$
 	fra	grandissant	adj-m	ita	crescente	adj$adj-mf$
 	fra	graphique	adj-mf$adj$adj-mf-ND	ita	grafico	adj$$adj-sup
-	fra	gras	adj-f$adj-f-sg	ita	grasso	adj$$adj-sup
-	fra	gras	adj-m-sp$adj	ita	grasso	adj$$adj-sup
+	fra	gras	adj-f$adj-f-sg	ita	grasso	adj$adj-sup
+	fra	gras	adj-m-sp$adj	ita	grasso	adj$adj-sup
 	fra	gratuit	adj$adj-GD-ND	ita	gratuito	adj$$adj-sup
 	fra	grave	adj$adj-mf-ND$adj-mf	ita	grave	$adj$adj-mf
 	fra	grec	adj$adj-GD-ND	ita	greco	adj$$adj-sup
@@ -912,7 +912,7 @@ RL	fra	grand	adj$adj-GD$adj-GD-ND	ita	grande	$adj-mf$adj
 	fra	licite	adj-mf$adj$adj-mf-ND	ita	lecito	adj$
 	fra	linguistique	adj$adj-mf-ND$adj-mf	ita	linguistico	adj$$adj-sup
 	fra	linéaire	adj$adj-mf	ita	lineare	$adj$adj-mf
-	fra	liquide	adj-mf$adj$adj-mf-ND	ita	liquido	adj$$adj-sup
+	fra	liquide	adj-mf$adj$adj-mf-ND	ita	liquido	adj$adj-sup
 	fra	littéraire	adj-mf$adj$adj-mf-ND	ita	letterario	adj$$adj-sup
 	fra	littéral	adj-f	ita	letterale	adj$$adj-mf
 	fra	littéral	adj-m	ita	letterale	adj$$adj-mf
@@ -979,9 +979,9 @@ LR	fra	magnétique	adj-mf-pl	ita	magnetico	adj-GD-pl
 	fra	matinal	adj-m	ita	mattutino	adj-GD
 	fra	matinal	adj$adj-GD$	ita	mattutino	adj-m$adj$
 	fra	matinal	adj$adj-GD$	ita	mattutino	adj-f
-	fra	matériel	adj$adj-f$adj-f-sg	ita	materiale	adj$$adj-mf
-	fra	matériel	adj-m$adj-m-sg	ita	materiale	adj$$adj-mf
-	fra	matériel	adj-GD$adj-GD-ND	ita	materiale	adj$$adj-mf
+	fra	matériel	adj$adj-f$adj-f-sg	ita	materiale	adj$adj-mf
+	fra	matériel	adj-m$adj-m-sg	ita	materiale	adj$adj-mf
+	fra	matériel	adj-GD$adj-GD-ND	ita	materiale	adj$adj-mf
 	fra	maudit	adj$adj-GD-ND	ita	maledetto	adj$
 	fra	mauvais	adj-m-sp$adj	ita	cattivo	$adj$adj-sup
 	fra	maximal	adj$$adj-GD-ND	ita	massimo	$adj$adj-sup
@@ -1223,7 +1223,7 @@ LR	fra	noir	adj-mf-pl	ita	nero	adj-GD-pl
 	fra	potentiel	adj$adj-f	ita	potenziale	adj$$adj-mf
 	fra	potentiel	adj-m	ita	potenziale	adj$$adj-mf
 	fra	potentiel	adj-GD$adj-GD-ND	ita	potenziale	adj$$adj-mf
-	fra	premier	adj$adj-preadj	ita	primo	$adj$adj-ord
+	fra	premier	adj$adj-preadj	ita	primo	adj$adj-ord
 	fra	pressant	adj$adj-f	ita	urgente	adj$$adj-mf
 	fra	pressant	adj-m	ita	urgente	adj$$adj-mf
 	fra	prestigieux	adj-f	ita	prestigioso	$adj
@@ -1302,7 +1302,7 @@ LR	fra	noir	adj-mf-pl	ita	nero	adj-GD-pl
 	fra	périphérique	adj-mf$adj$adj-mf-ND	ita	periferico	adj$$adj-sup
 	fra	quantitatif	adj$adj-GD-ND	ita	quantitativo	adj$adj-sup
 	fra	quatorzième	adj$adj-mf$adj-mf-ND	ita	quattordicesimo	adj$adj-ord
-	fra	quatrième	adj$adj-mf$adj-mf-ND	ita	quarto	adj-ord$$adj
+	fra	quatrième	adj$adj-mf$adj-mf-ND	ita	quarto	adj-ord$adj
 	fra	quinzième	adj-mf$adj$adj-mf-ND	ita	quindicesimo	adj$adj-ord
 	fra	quotidien	adj$adj-GD-ND	ita	quotidiano	adj$$adj-sup
 	fra	racial	adj$adj-f	ita	razziale	adj$$adj-mf
@@ -1446,8 +1446,8 @@ LR	fra	rouge	adj-mf-pl	ita	rosso	adj-GD-pl
 	fra	solide	adj-mf$adj-mf-ND$adj	ita	solido	$adj$adj-sup
 	fra	solitaire	adj-mf$adj$adj-mf-ND	ita	solitario	adj$$adj-sup
 	fra	solvable	adj$adj-mf	ita	solvente	adj$adj-mf
-	fra	soucieux	adj-f	ita	preoccupato	adj$adj-sup$
-	fra	soucieux	adj-m-sp$adj-m	ita	preoccupato	adj$adj-sup$
+	fra	soucieux	adj-f	ita	preoccupato	adj$$adj-sup
+	fra	soucieux	adj-m-sp$adj-m	ita	preoccupato	adj$$adj-sup
 	fra	souple	adj$adj-mf-ND$adj-mf	ita	flessibile	adj$$adj-mf
 	fra	soutenu	adj$adj-f	ita	costante	adj$adj-mf
 	fra	soutenu	adj-m	ita	costante	adj$adj-mf
@@ -1494,7 +1494,7 @@ LR	fra	rouge	adj-mf-pl	ita	rosso	adj-GD-pl
 	fra	supérieur	adj$adj-f	ita	superiore	$adj$adj-mf
 	fra	supérieur	adj-m	ita	superiore	$adj$adj-mf
 	fra	supérieur	adj-GD$adj-GD-ND	ita	superiore	$adj$adj-mf
-	fra	sur douze mois	adj-mf-sp$adj	ita	interannuale	adj$adj-mf
+	fra	sur douze mois	adj-mf-sp	ita	interannuale	adj$adj-mf
 	fra	susceptible	adj$adj-mf$adj-mf-ND	ita	suscettibile	$adj$adj-mf
 	fra	suspect	adj$adj-GD-ND	ita	sospettoso	adj$
 	fra	suédois	adj-f$adj-f-sg	ita	svedese	adj-mf$adj$
@@ -1515,7 +1515,7 @@ LR	fra	rouge	adj-mf-pl	ita	rosso	adj-GD-pl
 	fra	tel	adj-m$adj-m-sg	ita	questo	adj-GD
 	fra	tel	adj$adj-GD$$adj-GD-ND	ita	questo	adj-m
 	fra	tel	adj$adj-GD$$adj-GD-ND	ita	questo	adj-f
-	fra	tellement	adj-mf-sp	ita	tanto	adj
+	fra	tellement	adj-mf-sp$adj	ita	tanto	adj
 	fra	temporaire	adj$adj-mf-ND	ita	temporale	adj$adj-mf$
 	fra	temporel	adj-f	ita	temporale	adj$adj-mf$
 	fra	temporel	adj-m	ita	temporale	adj$adj-mf$
@@ -1724,7 +1724,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	agréablement	adv	ita	gratamente	adv
 	fra	aimablement	adv	ita	amabilmente	adv
 	fra	ainsi	adv	ita	così	adv$
-	fra	aisément	adv	ita	facilmente	adv
+	fra	aisément	adv	ita	facilmente	adv$
 	fra	alerte	adv	ita	avvisatamente	adv
 	fra	alerte	adv	ita	allerta	adv
 	fra	allègrement	adv	ita	allegramente	adv
@@ -1734,7 +1734,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	anciennement	adv	ita	anticamente	adv
 	fra	annuellement	adv	ita	annualmente	adv
 	fra	antérieurement	adv	ita	anteriormente	adv
-	fra	apparemment	adv	ita	apparentemente	adv
+	fra	apparemment	adv	ita	apparentemente	adv$
 	fra	approchant	adv	ita	approssimativamente	adv
 	fra	après	adv	ita	dopo	adv$
 	fra	après	adv	ita	poi	adv
@@ -1763,7 +1763,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	auparavant	adv	ita	prima	adv$
 	fra	auprès	adv	ita	vicino	adv
 	fra	aussi	adv	ita	anche	adv
-	fra	aussitôt	adv	ita	immediatamente	adv
+	fra	aussitôt	adv	ita	immediatamente	adv$
 	fra	autant	adv	ita	tanto	adv$
 	fra	authentiquement	adv	ita	autenticamente	adv
 	fra	automatiquement	adv	ita	automaticamente	adv
@@ -1772,7 +1772,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	autour	adv	ita	circa	adv$
 	fra	autrement	adv	ita	in altro modo	adv
 	fra	avant	adv	ita	prima	adv$
-	fra	avant	adv	ita	avanti	adv
+	fra	avant	adv	ita	avanti	adv$
 	fra	avant-hier	adv	ita	l'altro ieri	adv
 	fra	avec toutes les forces	adv	ita	intensamente	adv
 	fra	avidement	adv	ita	avidamente	adv
@@ -1827,7 +1827,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	d'habitude	adv	ita	di solito	adv
 	fra	d'ores et déjà	adv	ita	d'ora in avanti	adv
 	fra	d'ores et déjà	adv	ita	d'ora in poi	adv
-	fra	d'une part	adv	ita	da un lato	adv$
+	fra	d'une part	adv	ita	da un lato	adv
 	fra	dangereusement	adv	ita	pericolosamente	adv
 	fra	dans des difficultés	adv	ita	in difficoltà	adv
 	fra	dans peu de temps	adv	ita	tra poco	adv
@@ -1846,7 +1846,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	de temps en temps	adv	ita	ogni tanto	adv
 	fra	decidément	adv	ita	decisamente	adv
 	fra	dedans	adv	ita	dentro	adv
-	fra	dehors	adv	ita	fuori	adv
+	fra	dehors	adv	ita	fuori	adv$
 	fra	demain	adv	ita	domani	adv
 	fra	depuis lors	adv	ita	da allora	adv
 	fra	dernièrement	adv	ita	ultimamente	adv
@@ -1861,7 +1861,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	dignement	adv	ita	degnamente	adv
 	fra	directement	adv	ita	direttamente	adv
 	fra	dos au mur	adv	ita	fra la spada e la parete	adv
-	fra	doucement	adv	ita	dolcemente	adv
+	fra	doucement	adv	ita	dolcemente	adv$
 	fra	doucement	adv	ita	piano	adv
 	fra	du moins	adv	ita	almeno	adv
 	fra	durement	adv	ita	duramente	adv
@@ -1880,7 +1880,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	en attendant	adv	ita	nel frattempo	adv
 	fra	en bas	adv	ita	abbasso	adv
 	fra	en bas	adv	ita	giù	adv$
-	fra	en dehors	adv	ita	fuori	adv
+	fra	en dehors	adv	ita	fuori	adv$
 	fra	en dessous	adv	ita	sotto	adv
 	fra	en dessus	adv	ita	sopra	adv
 	fra	en défense	adv	ita	in interdizione	adv
@@ -1912,7 +1912,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	encore	adv	ita	comunque	adv
 	fra	enfin	adv	ita	infine	adv
 	fra	enfin	adv	ita	finalmente	adv
-	fra	enfin	adv	ita	alla fine	adv$
+	fra	enfin	adv	ita	alla fine	adv
 	fra	ensemble	adv	ita	insieme	adv
 	fra	ensuite	adv	ita	dopo	adv$
 	fra	entièrement	adv	ita	totalmente	adv$
@@ -1934,7 +1934,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	exquisément	adv	ita	squisitamente	adv
 	fra	extrêmement	adv	ita	estremamente	adv
 	fra	extrêmement	adv	ita	sommamente	adv
-	fra	facilement	adv	ita	facilmente	adv
+	fra	facilement	adv	ita	facilmente	adv$
 	fra	facilement	adv	ita	agevolmente	adv
 	fra	favorablement	adv	ita	favorevolmente	adv
 	fra	fidèlement	adv	ita	fedelmente	adv
@@ -1958,7 +1958,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	généralement	adv	ita	generalmente	adv
 	fra	généralement	adv	ita	usualmente	adv
 	fra	habituellement	adv	ita	abitualmente	adv
-	fra	hautement	adv	ita	altamente	adv
+	fra	hautement	adv	ita	altamente	adv$
 	fra	heureusement	adv	ita	fortunatamente	adv
 	fra	hier	adv	ita	ieri	adv
 	fra	hier soir	adv	ita	la notte scorsa	adv
@@ -1968,13 +1968,13 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	historiquement	adv	ita	storicamente	adv
 	fra	honnêtement	adv	ita	onoratamente	adv
 	fra	honnêtement	adv	ita	onestamente	adv
-	fra	hors	adv	ita	fuori	adv
+	fra	hors	adv	ita	fuori	adv$
 	fra	humblement	adv	ita	umilmente	adv
 	fra	ici	adv	ita	qua	adv
 	fra	ici	adv	ita	qui	adv
 	fra	idéologiquement	adv	ita	ideologicamente	adv
 	fra	illégalement	adv	ita	illegalmente	adv
-	fra	immédiatement	adv	ita	immediatamente	adv
+	fra	immédiatement	adv	ita	immediatamente	adv$
 	fra	impunément	adv	ita	impunemente	adv
 	fra	inclus	adv	ita	inclusive	adv
 	fra	inconditionnellement	adv	ita	incondizionalmente	adv
@@ -2030,7 +2030,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	là-bas	adv	ita	là	adv
 	fra	légalement	adv	ita	legalmente	adv
 	fra	légitimement	adv	ita	legittimamente	adv
-	fra	légèrement	adv	ita	leggermente	adv
+	fra	légèrement	adv	ita	leggermente	adv$
 	fra	légèrement	adv	ita	lievemente	adv
 	fra	magistralement	adv	ita	magistralmente	adv
 	fra	maintenant	adv	ita	adesso	adv
@@ -2044,7 +2044,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	massivement	adv	ita	massicciamente	adv
 	fra	mathématiquement	adv	ita	matematicamente	adv
 	fra	mensuellement	adv	ita	mensilmente	adv
-	fra	mentalement	adv	ita	mentalmente	adv
+	fra	mentalement	adv	ita	mentalmente	adv$
 	fra	mieux	adv	ita	migliore	adv
 	fra	mieux	adv	ita	meglio	adv$
 	fra	minuit	adv	ita	mezza notte	adv
@@ -2059,7 +2059,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	même pas	adv	ita	nemmeno	adv
 	fra	naguère	adv	ita	recentemente	adv
 	fra	naturellement	adv	ita	naturalmente	adv
-	fra	ne	adv	ita	non	adv
+	fra	ne	adv	ita	non	$adv
 	fra	nettement	adv	ita	chiaramente	adv
 	fra	non	adv	ita	no	adv
 	fra	non plus	adv	ita	neanche	adv
@@ -2093,13 +2093,13 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	patiemment	adv	ita	pazientemente	adv
 	fra	personnellement	adv	ita	personalmente	adv
 	fra	petit à petit	adv	ita	poco a poco	adv
-	fra	peu	adv	ita	poco	adv$
+	fra	peu	adv	ita	poco	$adv
 	fra	peut-être	adv	ita	forse	adv
 	fra	peut être	adv	ita	può darsi	adv
 	fra	peut être	adv	ita	può essere	adv
 	fra	physiquement	adv	ita	fisicamente	adv
 	fra	pleinement	adv	ita	pienamente	adv
-	fra	plus	adv	ita	in più	adv$
+	fra	plus	adv	ita	in più	adv
 	fra	plus	adv	ita	più	adv$
 	fra	plutôt	adv	ita	piuttosto	adv
 	fra	point du tout	adv	ita	in assoluto	adv
@@ -2164,7 +2164,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	seulement	adv	ita	soltanto	adv$
 	fra	seulement	adv	ita	solo	adv$
 	fra	seulement	adv	ita	solamente	adv$
-	fra	sexuellement	adv	ita	sessualmente	adv
+	fra	sexuellement	adv	ita	sessualmente	adv$
 	fra	si	adv	ita	sì	adv$
 	fra	significativement	adv	ita	significativamente	adv
 	fra	simplement	adv	ita	semplicemente	adv
@@ -2199,7 +2199,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	tant	adv	ita	tanto	adv$
 	fra	tantôt	adv	ita	dopo	adv$
 	fra	tard	adv	ita	tardi	adv$
-	fra	tard	adv	ita	in ritardo	adv$
+	fra	tard	adv	ita	in ritardo	adv
 	fra	techniquement	adv	ita	tecnicamente	adv
 	fra	temporellement	adv	ita	temporalmente	adv
 	fra	temporellement	adv	ita	temporaneamente	adv
@@ -2237,7 +2237,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	voire même	adv	ita	incluso	adv$
 	fra	volontairement	adv	ita	volontariamente	adv
 	fra	vrai	adv	ita	certo	$adv
-	fra	vraisemblablement	adv	ita	possibilmente	adv
+	fra	vraisemblablement	adv	ita	possibilmente	adv$
 	fra	véritablement	adv	ita	veramente	adv
 	fra	à cet égard	adv	ita	a tal proposito	adv
 	fra	à cet égard	adv	ita	a tal riguardo	adv
@@ -2246,7 +2246,7 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	à crédit	adv	ita	a rate	adv
 	fra	à côté	adv	ita	vicino	adv
 	fra	à dedans	adv	ita	dentro	adv
-	fra	à dehors	adv	ita	fuori	adv
+	fra	à dehors	adv	ita	fuori	adv$
 	fra	à des marches forcées	adv	ita	di fretta	adv
 	fra	à fond	adv	ita	a fondo	adv
 	fra	à grand-peine	adv	ita	con grandi difficoltà	adv
@@ -2257,14 +2257,14 @@ LR	fra	vert	adj-mf-pl	ita	verde	adj-GD-pl
 	fra	à l'heure actuelle	adv	ita	attualmente	adv
 	fra	à l'intérieur	adv	ita	dentro	adv
 	fra	à la fois	adv	ita	contemporaneamente	adv$
-	fra	à la main	adv	ita	a mano	adv$
+	fra	à la main	adv	ita	a mano	adv
 	fra	à la silencieuse	adv	ita	in silenzio	adv
-	fra	à long terme	adv	ita	a lungo termine	adv$
+	fra	à long terme	adv	ita	a lungo termine	adv
 	fra	à mort	adv	ita	a morte	adv
 	fra	à nouveau	adv	ita	nuovamente	adv
 	fra	à part	adv	ita	a parte	adv
 	fra	à part	adv	ita	da parte	adv
-	fra	à peine	adv	ita	appena	adv
+	fra	à peine	adv	ita	appena	adv$
 	fra	à petite échelle	adv	ita	a scala ridotta	adv
 	fra	à plusieurs reprises	adv	ita	ripetutamente	adv
 	fra	à présent	adv	ita	adesso	adv
@@ -2396,9 +2396,9 @@ LR	fra	ton	det-pos-mf-pl$pos	ita	il tuo	det-pos-GD-pl
 	fra	ton	det-pos-mf-pl$pos	ita	tuo	det-pos-f
 	fra	ton	det-pos-GD-sg$det-pos-GD	ita	tuo	det-pos$det-pos-m
 	fra	ton	det-pos-GD-sg$det-pos-GD	ita	tuo	det-pos-f
-	fra	un	det-ind-m-sg	ita	un	det-ind-m-sg$det$det-ind$det-ind-m
-	fra	un	det-ind-f-sg	ita	un	det-ind-m-sg$det$det-ind$det-ind-m
-	fra	un autre	det-ind-mf-pl$det-ind-mf$det-ind	ita	un altro	det-ind$det-ind-GD$det$det-ind-GD-pl
+	fra	un	det-ind-m-sg	ita	un	det-ind-m-sg$$det$det-ind$det-ind-m
+	fra	un	det-ind-f-sg	ita	un	det-ind-m-sg$$det$det-ind$det-ind-m
+	fra	un autre	det-ind-f-sg$det-ind	ita	un altro	det-ind$det-ind-GD$det$det-ind-GD-pl
 	fra	votre	det-pos-m-sg	ita	il vostro	det-pos$det-pos-m-sg
 	fra	votre	det-pos-f-sg	ita	il vostro	det-pos-f-sg
 RL	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	ita	il vostro	det-pos-m-pl
@@ -2472,7 +2472,7 @@ LR	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	ita	il vostro	det-pos-GD-pl
 	fra	acception	n$n-f	ita	accezione	n$n-m
 	fra	accessibilité	n-f$n	ita	accessibilità	n-f-sp$n-f
 	fra	accessoire	n-m$n	ita	accessorio	n$n-m
-	fra	accident	n-m$n$n-m-ND	ita	incidente	n$n-m$
+	fra	accident	n-m$n$n-m-ND	ita	incidente	n-m$n$
 	fra	acclamation	n-f$n	ita	acclamazione	n-f$n
 	fra	acclimatation	n-f$n	ita	acclimatazione	n$n-f
 	fra	accomplissement	n-m$n$n-m-ND	ita	compimento	n-m$n
@@ -2598,7 +2598,7 @@ LR	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	ita	il vostro	det-pos-GD-pl
 	fra	alcool	n-m$n$n-m-ND	ita	alcol	n-m$n-m-sp
 	fra	alcoolique	n-mf$n	ita	alcolico	n$n-m
 	fra	alcoolisme	n-f$n-f-ND	ita	alcolismo	n$n-m
-	fra	algue	n-f$n	ita	alga	n$n-f
+	fra	algue	n-f$n	ita	alga	n-f$n
 	fra	alignement	n-m$n	ita	schieramento	n-m
 	fra	alimentation	n$n-f$n-f-ND	ita	alimentazione	n-f$n
 	fra	alimentation	n$n-f$n-f-ND	ita	mangime	n-m
@@ -2666,7 +2666,7 @@ LR	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	ita	il vostro	det-pos-GD-pl
 	fra	ancienneté	n-f$n$n-f-ND	ita	antichità	n-f$n-f-sp
 	fra	ancre	n-f$n	ita	ancora	n-f$n-f-sp$n
 	fra	anecdote	n$n-f$n-f-ND	ita	aneddoto	n-m
-	fra	anesthésie	n-f$n	ita	anestesia	n$n-f
+	fra	anesthésie	n-f$n	ita	anestesia	n-f$n
 	fra	ange	n$n-m$n-m-ND	ita	angelo	n-m$n
 	fra	anglais	n-f	ita	inglese	n-mf$n
 	fra	anglais	n-m-sp$n	ita	inglese	n-mf$n
@@ -2766,7 +2766,7 @@ LR	fra	votre	det-pos-mf$det-pos-mf-pl$det$det-pos	ita	il vostro	det-pos-GD-pl
 	fra	arnaque	n-f$n	ita	truffa	n-f$n
 	fra	arraché	n-m$n	ita	avvio	n-m$n
 	fra	arrestation	n-f$n$n-f-ND	ita	arresto	n-m$n
-	fra	arrestation	n-f$n$n-f-ND	ita	detenzione	n$n-f$n-f-m
+	fra	arrestation	n-f$n$n-f-ND	ita	detenzione	n-f$n$n-f-m
 	fra	arrivée	n$n-f$n-f-ND	ita	arrivo	n-m$n
 	fra	arrondisement	n$n-m$n-m-ND	ita	distretto	n-m$n
 	fra	arrondissement	n-m$n	ita	arrotondamento	n-m$n
@@ -2861,7 +2861,7 @@ RL	fra	assistant	n-m$n-m-sp	ita	assistente	n-m-pl
 	fra	automobile	n-f$n$n-f-ND	ita	autovettura	n-f$n
 	fra	automobile	n-f$n$n-f-ND	ita	automobile	n-f$
 	fra	automobile	n-f$n$n-f-ND	ita	autoveicolo	n-m$n
-	fra	automobilisme	n$n-m$n-m-sg	ita	automobilismo	n-m$n$n-m-pl
+	fra	automobilisme	n$n-m-sg$n-m	ita	automobilismo	n-m$n$n-m-pl
 	fra	autonomie	n-f$n$n-f-ND	ita	autonomia	n-f$n
 	fra	autopsie	n-f$n$n-f-ND	ita	autopsia	n-f$n
 	fra	autorisation	n-f$n$n-f-ND	ita	autorizzazione	n-f$n
@@ -2982,7 +2982,7 @@ RL	fra	assistant	n-m$n-m-sp	ita	assistente	n-m-pl
 	fra	blocage	n-m$n$n-m-ND	ita	blocco	n-m$n
 	fra	blog	n-m$n$n-m-ND	ita	blog	n-m-sp$n$n-m
 	fra	blog	n-m$n$n-m-ND	ita	blog	n-m-sp$n$n-m
-	fra	blé	n$n-m$n-m-ND	ita	frumento	n$n-m
+	fra	blé	n-m$n$n-m-ND	ita	frumento	n$n-m
 	fra	bois	n-m-sp$n-m$n	ita	bosco	n-m$n
 	fra	bois	n-m-sp$n-m$n	ita	foresta	n-f$n
 	fra	bois	n-m-sp$n-m$n	ita	legna	n$n-f
@@ -3059,7 +3059,7 @@ RL	fra	assistant	n-m$n-m-sp	ita	assistente	n-m-pl
 	fra	bénéfice	n-f$n$n-f-ND	ita	beneficio	n-m$n
 	fra	bénéfice	n-f$n$n-f-ND	ita	utile	n-m$$n
 	fra	bétail	n-m$n$n-m-ND	ita	bestiame	n-m$n
-	fra	béton	n-m$n	ita	calcestruzzo	n$n-m
+	fra	béton	n-m$n$n-m-sg	ita	calcestruzzo	n$n-m
 	fra	bête	n-f$n$n-f-ND	ita	bestia	n-f$n
 	fra	cabinet	n-m$n$n-m-ND	ita	consiglio	n-m$n
 	fra	cabinet	n-m$n$n-m-ND	ita	gabinetto	n-m$n
@@ -3195,7 +3195,7 @@ RL	fra	assistant	n-m$n-m-sp	ita	assistente	n-m-pl
 	fra	chanteur	n-f	ita	cantante	n$n-mf
 	fra	chanteur	n$n-m	ita	cantante	n$n-mf
 	fra	chanteur	n-GD$n-GD-ND	ita	cantante	n$n-mf
-	fra	chantier	n-m$n-m-ND	ita	opera	n-f$n
+	fra	chantier	n-m$n-m-sg	ita	opera	n-f$n
 	fra	chaos	n-m$n	ita	caos	n-m$n-m-sp$n
 	fra	chapeau	n-m$n$n-m-ND	ita	cappello	n-m$n
 	fra	chapelle	n-f$n$n-f-ND	ita	cappella	n-f$n
@@ -3564,11 +3564,11 @@ RL	fra	assistant	n-m$n-m-sp	ita	assistente	n-m-pl
 	fra	couchette	n-f$n	ita	branda	n-f$n
 	fra	coude	n-m$n$n-m-ND	ita	gomito	n-m$n
 	fra	couleur	n-f$n$n-f-ND	ita	colore	n-m$n
-	fra	couloir	n$n-m$n-m-ND	ita	corridoio	n$n-m
+	fra	couloir	n$n-m$n-m-ND	ita	corridoio	n-m$n
 	fra	coup	n-m$n$n-m-ND	ita	colpo	n-m$n
 	fra	coupe	n-f$n$n-f-ND	ita	tazza	n-f$n
 	fra	coupe-feu	n-m-sp	ita	firewall	n$n-m
-	fra	couple	n-m$n-m-ND$n	ita	coppia	n$n-f
+	fra	couple	n-m$n-m-ND$n	ita	coppia	n-f$n
 	fra	coupon	n-m$n	ita	cedola	n-f
 	fra	cour	n-f$n-f-ND	ita	cortile	n-m$n
 	fra	cour	n-f$n-f-ND	ita	taglio	n-m$n
@@ -3605,7 +3605,7 @@ RL	fra	assistant	n-m$n-m-sp	ita	assistente	n-m-pl
 	fra	cri	n-m$n$n-m-ND	ita	grido	n-m-sg$n-m
 	fra	cri	n-m$n$n-m-ND	ita	grido	n-f-pl
 	fra	crime	n-m$n$n-m-ND	ita	crimine	n-m$n
-	fra	criminalité	n-f$n	ita	criminalità	n-f-sp$n-f
+	fra	criminalité	n-f$n	ita	criminalità	n-f$n-f-sp
 	fra	crise	n-f-pl$n-f$n	ita	crisi	n-f$n$n-f-sp
 	fra	crise	n-f-sg	ita	crisi	n-f$n$n-f-sp
 	fra	crise	n-f-ND	ita	crisi	n-f$n$n-f-sp
@@ -3699,7 +3699,7 @@ RL	fra	assistant	n-m$n-m-sp	ita	assistente	n-m-pl
 	fra	destination	n-f$n-f-ND	ita	destinazione	n-f$n
 	fra	destitution	n-f$n	ita	destituzione	n$n-f
 	fra	destruction	n-f$n$n-f-ND	ita	distruzione	n-f$n
-	fra	detention	n-f$n$n-f-ND	ita	detenzione	n$n-f$n-f-m
+	fra	detention	n-f$n$n-f-ND	ita	detenzione	n-f$n$n-f-m
 	fra	dette	n-f$n$n-f-ND	ita	debito	n-m$
 	fra	deuil	n-m$n$n-m-ND	ita	duello	n$n-m
 	fra	devise	n-f$n$n-f-ND	ita	divisa	n$n-f
@@ -3733,9 +3733,9 @@ RL	fra	assistant	n-m$n-m-sp	ita	assistente	n-m-pl
 	fra	diplomatie	n$n-f	ita	diplomazia	n-f$n
 	fra	diplôme	n-m$n	ita	diploma	n-m$n
 	fra	diplôme	n-m$n	ita	titolazione	n$n-f
-	fra	diplômé	n$n-m	ita	laureato	n$$n-GD
+	fra	diplômé	n$n-m	ita	laureato	n$n-m$
 	fra	diplômé	n$n-m	ita	titolato	n$n-GD
-	fra	directeur	n$n-m$n-m-ND	ita	direttore	n$n-GD
+	fra	directeur	n$n-m$n-m-ND	ita	direttore	n$n-m
 	fra	direction	n-f$n$n-f-ND	ita	indirizzo	n-m$n
 	fra	direction	n-f$n$n-f-ND	ita	direzione	n-f$n
 	fra	directive	n-f$n	ita	direttrice	n$n-f
@@ -3811,7 +3811,7 @@ RL	fra	assistant	n-m$n-m-sp	ita	assistente	n-m-pl
 	fra	douane	n-f$n$n-f-sg	ita	dogana	n$n-f$n-f-sg
 	fra	double	n$n-m	ita	doppio	n-m$n
 	fra	douche	n-f$n$n-f-ND	ita	doccia	n$n-f
-	fra	douleur	n-f$n$n-f-ND	ita	dolore	n-f$n
+	fra	douleur	n-f$n$n-f-ND	ita	dolore	n-m$n
 	fra	doute	n-m$n$n-m-ND	ita	dubbio	n-m$$n
 	fra	doute	n-m$n$n-m-ND	ita	dubbio	n-m$$n
 	fra	douzaine	n-f$n$n-f-ND	ita	dozzina	n-f$n
@@ -3940,7 +3940,7 @@ RL	fra	assistant	n-m$n-m-sp	ita	assistente	n-m-pl
 	fra	détente	n-f$n$n-f-ND	ita	divertimento	n-m
 	fra	détenteur	n$n-f	ita	forchetta	n-f
 	fra	détenteur	n$n-f	ita	forchetta	n-f
-	fra	détention	n-f$n$n-f-ND	ita	detenzione	n$n-f$n-f-m
+	fra	détention	n-f$n$n-f-ND	ita	detenzione	n-f$n$n-f-m
 	fra	détermination	n$n-f$n-f-ND	ita	determinazione	n-f$n
 	fra	détonation	n-f$n	ita	detonazione	n$n-f
 	fra	dévaluation	n-f$n	ita	svalutazione	n-f$n
@@ -4298,13 +4298,13 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	friction	n-f$n	ita	frizione	n-f$n
 	fra	frigidaire	n-m$n	ita	frigorifero	n-m$n$
 	fra	froid	n-m$n$n-m-ND	ita	freddo	n-m$n
-	fra	fromage	n-m$n$n-m-ND	ita	formaggio	n$n-m
+	fra	fromage	n-m$n$n-m-ND	ita	formaggio	n-m$n
 	fra	froment	n$n-m$n-m-ND	ita	frumento	n$n-m
 	fra	front	n-m$n	ita	fronte	n-f$n$n-f-sg
 	fra	frontière	n-f$n$n-f-ND	ita	frontiera	n-f$n
 	fra	fruit	n-m$n$n-m-ND	ita	frutto	n-m$n
 	fra	fruit	n-m-pl	ita	frutta	n-f$n$n-f-sg
-	fra	fruits de mer	n-m-pl$n-m	ita	frutto	n-m$n
+	fra	fruits de mer	n-m-pl	ita	frutto	n-m$n
 	fra	frustration	n$n-f$n-f-ND	ita	frustrazione	n-f$n
 	fra	frère	n-m$n	ita	fratello	n-m$n
 	fra	fréquence	n-f$n$n-f-ND	ita	frequenza	n-f$n
@@ -4343,7 +4343,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	gardien	n$n-GD	ita	custode	n-mf
 	fra	gare	n-f$n$n-f-ND	ita	stagione	n$n-f
 	fra	gare	n-f$n$n-f-ND	ita	stazione	n-f$n
-	fra	garçon	n-m$n$n-m-sg	ita	ragazzo	n$n-m$n-m-sg
+	fra	garçon	n-m$n$n-m-sg	ita	ragazzo	n-m$n$n-m-sg
 	fra	garçon	n-m$n$n-m-sg	ita	cameriere	n$n-m
 	fra	gasoil	n-m$n$n-m-ND	ita	gasolio	n-m$n
 	fra	gasoil	n-m$n$n-m-ND	ita	nafta	n-f$n-f-sp
@@ -4382,14 +4382,14 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	gouvernement	n-m$n$n-m-ND	ita	governo	n-m$n
 	fra	gouverneur	n$n-m$n-m-ND	ita	governatore	n$n-m
 	fra	goût	n-m$n$n-m-ND	ita	gusto	n-m$n
-	fra	graisse	n-f$n$n-f-ND	ita	grasso	n-m$n
+	fra	graisse	n-f$n$n-f-ND	ita	grasso	n-m$$n
 	fra	gramme	n-m$n$n-m-ND	ita	grammo	n$n-m
 	fra	grand-mère	n-f$n$n-f-ND	ita	nonno	n-f
 	fra	grand-père	n-m$n$n-m-pl	ita	nonno	n-m$n
 	fra	grandeur	n-f$n$n-f-ND	ita	magnitudine	n$n-f
 	fra	granite	n-m$n	ita	granito	n-m$n
 	fra	graphique	n-m$n$n-m-ND	ita	grafico	n-m$n
-	fra	gras	n-m-sp$n$n-m	ita	grasso	n-m$n
+	fra	gras	n-m-sp$n$n-m	ita	grasso	n-m$$n
 	fra	gratte-ciel	n-m$n$n-m-sp	ita	grattacielo	n$n-m
 	fra	gratuité	n-f$n	ita	gratuità	n-f-sp$n-f
 	fra	gravitation	n-f$n	ita	gravitazione	n$n-f
@@ -4430,7 +4430,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	gâteau	n-m$n$n-m-ND	ita	torta	n-f$n
 	fra	gâteau	n-m$n$n-m-ND	ita	torta	n-f$n
 	fra	gène	n-m$n$n-m-ND	ita	gene	n-m$n
-	fra	géant	n$n-m$n-m-ND	ita	gigante	n-mf$n$
+	fra	géant	n$n-m$n-m-ND	ita	gigante	n-m$n$
 	fra	génie	n-m$n$n-m-ND	ita	ingegno	n-m$n$n-f-m
 	fra	génocide	n$n-m	ita	genocidio	n$n-m
 	fra	général	n-f	ita	generale	n-GD-sg
@@ -4450,9 +4450,9 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	habilité	n-f$n$n-f-ND	ita	abilità	n-f$n-f-sp
 	fra	habillement	n-m	ita	abbigliamento	n-m$n
 	fra	habitabilité	n-f$n	ita	abitabilità	n-f-sp$n-f
-	fra	habitant	n-f	ita	abitante	n$n-mf
-	fra	habitant	n$n-m$n-m-pl	ita	abitante	n$n-mf
-	fra	habitant	n-GD$n-GD-ND	ita	abitante	n$n-mf
+	fra	habitant	n-f	ita	abitante	n-mf$n
+	fra	habitant	n$n-m$n-m-pl	ita	abitante	n-mf$n
+	fra	habitant	n-GD$n-GD-ND	ita	abitante	n-mf$n
 	fra	habitant	n-GD$n-GD-ND	ita	abitatore	n-m$n
 	fra	habitant	n-GD$n-GD-ND	ita	abitatore	n-f
 	fra	habitat	n$n-m	ita	habitat	n-m-sp$n-m
@@ -4494,9 +4494,9 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	homologation	n-f$n	ita	omologazione	n$n-f
 	fra	homophobie	n-f$n	ita	omofobia	n$n-f
 	fra	homosexualité	n-f$n	ita	omosessualità	n-f-sp$n$n-f
-	fra	homosexuel	n$n-f	ita	omosessuale	n$$n-m
-	fra	homosexuel	n-m	ita	omosessuale	n$$n-m
-	fra	homosexuel	n-GD$n-GD-ND	ita	omosessuale	n$$n-m
+	fra	homosexuel	n$n-f	ita	omosessuale	n$n-m$
+	fra	homosexuel	n-m	ita	omosessuale	n$n-m$
+	fra	homosexuel	n-GD$n-GD-ND	ita	omosessuale	n$n-m$
 	fra	honneur	n-m$n$n-m-ND	ita	onore	n-m$n
 	fra	honneur	n-m$n$n-m-ND	ita	onorificenza	n-f$n
 	fra	honte	n-f$n$n-f-ND	ita	imbarazzo	n-m
@@ -4607,7 +4607,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	incendie	n-m$n$n-m-ND	ita	incendio	n-m$n
 	fra	incertitude	n-f$n$n-f-ND	ita	incertezza	n-f$n
 	fra	incidence	n$n-f	ita	incidenza	n$n-f
-	fra	incident	n-m$n$n-m-ND	ita	incidente	n$n-m$
+	fra	incident	n-m$n$n-m-ND	ita	incidente	n-m$n$
 	fra	incinération	n-f$n$n-f-ND	ita	incenerimento	n-m
 	fra	incitation	n-f$n	ita	incitamento	n-m
 	fra	inclination	n-f$n$n-f-ND	ita	inclinazione	n-f$n
@@ -4642,7 +4642,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	infertilité	n$n-f	ita	sterilità	n-f-sp$n-f
 	fra	infiltration	n$n-f	ita	infiltrazione	n$n-f
 	fra	infini	n$n-m$n-m-ND	ita	infinito	n-m$n
-	fra	infirmier	n$n-m	ita	infermiere	n$n-GD
+	fra	infirmier	n$n-m	ita	infermiere	n$n-m
 	fra	inflation	n$n-f$n-f-ND	ita	inflazione	n-f$n
 	fra	influence	n-f$n$n-f-ND	ita	influenza	n-f$n
 	fra	information	n-f$n$n-f-ND	ita	informazione	n-mf
@@ -4737,7 +4737,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	intuition	n-f$n$n-f-ND	ita	intuizione	n-f$n
 	fra	intégrale	n-f$n	ita	integrale	n$n-f
 	fra	intégralité	n-f$n	ita	integrità	n-f-sp$n-f
-	fra	intégration	n-m$n$n-m-ND	ita	integrazione	n-f$n
+	fra	intégration	n-m$n-m-ND	ita	integrazione	n-f$n
 	fra	intégrité	n-f$n	ita	integrità	n-f-sp$n-f
 	fra	intérieur	n-m$n$n-m-ND	ita	interiore	$n$n-m
 	fra	intérêt	n-m$n$n-m-ND	ita	interesse	n-m$n
@@ -4779,7 +4779,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	janvier	n$n-m$n-m-sg	ita	gennaio	n-m-sg$n-m$n
 	fra	japonais	n-f	ita	giapponese	n-mf$n
 	fra	japonais	n-m-sp$n	ita	giapponese	n-mf$n
-	fra	jaquette	n-f$n$n-f-ND	ita	giacca	n$n-f
+	fra	jaquette	n-f$n$n-f-ND	ita	giacca	n-f$n
 	fra	jardin	n-m$n$n-m-ND	ita	giardino	n-m$n
 	fra	jardinage	n-m	ita	giardinaggio	n-m
 	fra	jardinier	n$n-m	ita	giardiniere	n$n-GD
@@ -4811,7 +4811,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	journaliste	n$n-mf$n-mf-ND	ita	giornalista	n$n-m$n-mf-m
 	fra	journée	n-f$n$n-f-ND	ita	giornata	n-f$n
 	fra	jubilation	n-f$n$n-f-ND	ita	pensione	n-f$n
-	fra	juge	n$n-m$n-m-ND	ita	giudice	n-mf$n
+	fra	juge	n$n-m$n-m-ND	ita	giudice	n-m$n
 	fra	juge-arbitre	n$n-mf$n-mf-ND	ita	arbitro	n-m$n
 	fra	juge-arbitre	n$n-mf$n-mf-ND	ita	arbitro	n-m$n
 	fra	jugement	n-m$n$n-m-ND	ita	giudizio	n-m$n
@@ -4902,7 +4902,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	lion	n$n-m$n-m-ND	ita	leone	n-m$n
 	fra	liqueur	n-f$n$n-f-ND	ita	liquore	n-m$n
 	fra	liquidation	n-f$n	ita	liquidazione	n-f$n
-	fra	liquide	n-m$n$n-m-ND	ita	liquido	n-m$n
+	fra	liquide	n-m$n$n-m-ND	ita	liquido	n-m$$n
 	fra	liste	n-f$n$n-f-ND	ita	lista	n-f$n
 	fra	liste	n-f$n$n-f-ND	ita	elenco	n-m$n
 	fra	lit	n-m$n$n-m-ND	ita	letto	n-m$n
@@ -5080,7 +5080,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	maturation	n-f$n	ita	maturazione	n-f$n
 	fra	maturité	n-f$n$n-f-ND	ita	maturità	n-f-sp$n-f
 	fra	matérialisation	n-f$n	ita	materializzazione	n$n-f
-	fra	matériel	n-m$n$n-m-ND	ita	materiale	n-m$n
+	fra	matériel	n-m$n$n-m-ND	ita	materiale	n-m$$n
 	fra	matériel	n-m$n$n-m-ND	ita	materia	n-f$n
 	fra	maure	n-mf$n-mf-ND	ita	moro	n$n-m$
 	fra	mausolée	n-m$n	ita	mausoleo	n$n-m
@@ -5119,7 +5119,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	mesure	n-f$n$n-f-ND	ita	misurazione	n-f$n
 	fra	meuble	n-m$n$n-m-pl	ita	mobile	n-m$n
 	fra	meubles	n-m-pl$n-m	ita	arredo	n-m$n
-	fra	meurtre	n-m$n	ita	omicidio	n$n-m
+	fra	meurtre	n-m$n	ita	omicidio	n-m$n
 	fra	micro-onde	n-f$n	ita	microonde	n-m-sp$n-m
 	fra	microbe	n-m$n	ita	microrganismo	n-m$n
 	fra	microphone	n-m$n$n-m-ND	ita	microfono	n$n-m
@@ -5187,7 +5187,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	molécule	n$n-f$n-f-ND	ita	molecola	n$n-f
 	fra	moment	n-m$n$n-m-ND	ita	momento	n-m$n
 	fra	momie	n-f$n	ita	mummia	n-f$n
-	fra	monarchie	n$n-f	ita	monarchia	n$n-f
+	fra	monarchie	n$n-f	ita	monarchia	n-f$n
 	fra	monarque	n$n-mf$n-mf-ND	ita	monarca	n-mf$n
 	fra	monastère	n-m$n$n-m-ND	ita	monastero	n-m$n
 	fra	monceau	n$n-m$n-m-ND	ita	mucchio	n-m$n
@@ -5202,7 +5202,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	monstre	n-m$n$n-m-ND	ita	mostro	n-m$n
 	fra	montage	n$n-m$n-m-ND	ita	montaggio	n-m$n
 	fra	montagne	n-f$n$n-f-ND	ita	montagna	n-f$n
-	fra	montant	n$n-m	ita	ammontare	n-m$n$
+	fra	montant	n$n-m	ita	ammontare	n-m$$n
 	fra	montre	n-f$n-f-ND	ita	orologio	n-m$n
 	fra	montée	n$n-f$n-f-ND	ita	rialzo	n-m
 	fra	monument	n$n-m$n-m-ND	ita	monumento	n-m$n
@@ -5265,7 +5265,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	mécanisation	n$n-f$n-f-ND	ita	meccanizzazione	n$n-f
 	fra	mécanisme	n-m$n$n-m-ND	ita	meccanismo	n-m$n
 	fra	méchanceté	n-f$n$n-f-ND	ita	cattiveria	n-f$n
-	fra	médaille	n-f$n$n-f-ND	ita	medaglia	n$n-f
+	fra	médaille	n-f$n$n-f-ND	ita	medaglia	n-f$n
 	fra	médecin	n-mf$n$n-mf-ND	ita	medico	n-mf
 	fra	médecine	n-f$n$n-f-ND	ita	medicina	n-f$n
 	fra	médiation	n-f$n	ita	mediazione	n-f$n
@@ -5437,7 +5437,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	optimisme	n$n-m$n-m-ND	ita	ottimismo	n$n-m
 	fra	option	n$n-f$n-f-ND	ita	opzione	n-f$n
 	fra	opéra	n-m$n$n-m-ND	ita	opera	n-f$n
-	fra	opérateur	n$n-m	ita	operatore	n$n-m
+	fra	opérateur	n$n-m	ita	operatore	n-m$n
 	fra	opération	n-f$n$n-f-ND	ita	operazione	n-f$n
 	fra	or	n$n-m$n-m-ND	ita	oro	n-m$n
 	fra	orange	n-f$n$n-f-sg	ita	arancia	n$n-f
@@ -5661,8 +5661,8 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	petit-déjeuner	n$n-m$n-m-ND	ita	spuntino	n-m$n
 	fra	petit déjeuner	n-m$n$n-m-ND	ita	colazione	n-f
 	fra	peuple	n$n-m$n-m-ND	ita	popolo	n-m$n
-	fra	peur	n-f$n$n-f-ND	ita	paura	n-f$n
-	fra	peur	n-f$n$n-f-ND	ita	paura	n-f$n
+	fra	peur	n-f$n$n-f-ND	ita	paura	n-f$n$
+	fra	peur	n-f$n$n-f-ND	ita	paura	n-f$n$
 	fra	phare	n-m$n	ita	faro	n-m$n
 	fra	pharmacie	n-f$n	ita	farmacia	n-f$n
 	fra	pharmacien	n$n-m	ita	farmacista	n$n-GD
@@ -5706,7 +5706,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	piraterie	n$n-f	ita	pirateria	n$n-f
 	fra	piscine	n-f$n$n-f-ND	ita	piscina	n-f$n
 	fra	piste	n-f$n$n-f-ND	ita	pista	n-f$n
-	fra	pistolet	n-m$n$n-m-ND	ita	pistola	n$n-f
+	fra	pistolet	n-m$n$n-m-ND	ita	pistola	n-f$n
 	fra	pizza	n-f$n	ita	pizza	n-f$n
 	fra	pièce	n-f$n$n-f-ND	ita	pezzo	n-m$n
 	fra	piège	n-m$n-m-ND	ita	trappola	n-f$n
@@ -5788,7 +5788,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	polygamie	n$n-f	ita	poligamia	n-f$n
 	fra	polygone	n-m$n	ita	poligono	n$n-m
 	fra	polémique	n$n-f$n-f-ND	ita	polemica	n-f$n
-	fra	pomme	n-f$n$n-f-ND	ita	mela	n$n-f
+	fra	pomme	n-f$n$n-f-ND	ita	mela	n-f$n
 	fra	poire	n-f$n	ita	pera	n-f$n
 	fra	pomme	n-f$n$n-f-ND	ita	patata	n-f$n
 	fra	pompe	n-f$n$n-f-ND	ita	bomba	n-f$n
@@ -5989,7 +5989,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	psychose	n-f-sg	ita	psicosi	n-f-sp$n-f
 	fra	psychose	n-f-ND	ita	psicosi	n-f-sp$n-f
 	fra	puanteur	n-f$n$n-f-ND	ita	peste	n-f$n
-	fra	public	n-m$n$n-m-ND	ita	pubblico	$n-m$n
+	fra	public	n-m$n$n-m-ND	ita	pubblico	n-m$$n
 	fra	publication	n-f$n$n-f-ND	ita	pubblicazione	n-f$n
 	fra	publiciste	n$n-mf	ita	pubblicista	n-GD$n
 	fra	publiciste	n$n-mf	ita	pubblicista	n-m
@@ -6190,7 +6190,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	rigidité	n-f$n	ita	rigidità	n-f-sp$n-f
 	fra	rigueur	n-f$n-f-ND	ita	rigore	n-m$n
 	fra	rire	n-m$n$n-m-ND	ita	risata	n-f$n
-	fra	rire	vblex	ita	ridere	vblex$
+	fra	rire	vblex	ita	ridere	$vblex
 	fra	risque	n-m$n$n-m-ND	ita	rischio	n-m$n
 	fra	rite	n-m$n$n-m-ND	ita	rito	n-m$n
 	fra	rituel	n-m$n$$n-m-ND	ita	rituale	n-m$n$
@@ -6224,7 +6224,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	rotation	n-f$n	ita	rotazione	n-f$n
 	fra	rotonde	n-f$n	ita	rotonda	n$n-f
 	fra	roue	n$n-f	ita	ruota	n-f$n
-	fra	rouge	n$n-m$n-m-ND	ita	rosso	n-m$n
+	fra	rouge	n$n-m$n-m-ND	ita	rosso	n-m$$n
 	fra	roulement	n-m	ita	rotazione	n-f$n
 	fra	roulette	n-f$n	ita	roulette	n-f-sp
 	fra	route	n-f$n$n-f-ND	ita	strada	n-f$n
@@ -6325,7 +6325,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	réélection	n-f$n	ita	rielezione	n-f$n
 	fra	rêve	n$n-m$n-m-ND	ita	sonno	n-m$n
 	fra	rêve	n$n-m$n-m-ND	ita	sogno	n-m$n
-	fra	rôle	n-m$n	ita	ruolo	n-m$n
+	fra	rôle	n$n-m	ita	ruolo	n-m$n
 	fra	sable	n-m$n$n-m-ND	ita	sabbia	n$n-f
 	fra	sabotage	n-m$n	ita	sabotaggio	n-m$n
 	fra	sabre	n-m$n$n-m-ND	ita	sciabola	n-f
@@ -6393,7 +6393,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	sein	n-m$n$n-m-sg	ita	seno	n-m$n
 	fra	sel	n-m$n$n-m-pl	ita	sale	n-m$n
 	fra	semaine	n-f$n$n-f-ND	ita	settimana	n-f$n
-	fra	sens	n-m-sp$n-m$n	ita	senso	n-m$n
+	fra	sens	n-m-sp$n-m$n	ita	senso	n-m$n$
 	fra	sensation	n-f$n$n-f-ND	ita	sensazione	n-f$n
 	fra	sensibilité	n-f$n$n-f-ND	ita	sensibilità	n-f$n-f-sp
 	fra	sensualité	n-f$n	ita	sensualità	n-f-sp$n-f
@@ -6645,7 +6645,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	tapisserie	n-f$n$n-f-ND	ita	tappezzeria	n-f$n
 	fra	tapisserie	n-f$n$n-f-ND	ita	arazzo	n$n-m
 	fra	tare	n-f$n	ita	tara	n-f$n
-	fra	tarif	n-m$n-m-ND	ita	tariffa	n-f$n
+	fra	tarif	n-m$n$n-m-ND	ita	tariffa	n-f$n
 	fra	tas	n-m-sp$n-m$n	ita	mucchio	n-m$n
 	fra	taureau	n-m$n$n-m-ND	ita	toro	n-m$n
 	fra	taux	n-m-sp$n-m$n	ita	tasso	n-m
@@ -6655,7 +6655,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	taxe	n-f$n$n-f-ND	ita	tasso	n-f
 	fra	taxi	n$n-m$n-m-ND	ita	taxi	n-m-sp$n-m
 	fra	technicien	n$n-m$n-m-ND	ita	tecnico	n-m$$n
-	fra	technologie	n-f$n$n-f-ND	ita	tecnologia	n$n-f
+	fra	technologie	n-f$n$n-f-ND	ita	tecnologia	n-f$n
 	fra	temple	n-m$n$n-m-ND	ita	tempio	n-m$n
 	fra	temps	n-m-sp$n-m$n	ita	tempo	n-m$n$n-m-ND
 	fra	température	n$n-f$n-f-ND	ita	temperatura	n-f$n
@@ -6729,7 +6729,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	tracteur	n-m$n$n-m-ND	ita	trattore	n-m$n
 	fra	traction	n-f$n$n-f-ND	ita	trazione	n-f$n
 	fra	tradition	n-f$n$n-f-ND	ita	tradizione	n-f$n
-	fra	traducteur	n$n-m	ita	traduttore	n$n-GD
+	fra	traducteur	n$n-m	ita	traduttore	n$n-m
 	fra	traduction	n-f$n$n-f-ND	ita	traduzione	n-f$n
 	fra	trafic	n$n-m$n-m-ND	ita	traffico	n-m$n
 	fra	trafiquant	n-f$n	ita	trafficante	n-m
@@ -6783,7 +6783,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	trésor	n-m$n$n-m-ND	ita	tenuta	n-f$n
 	fra	trône	n$n-m$n-m-ND	ita	trono	n-m$n
 	fra	tuerie	n-f$n$n-f-ND	ita	macellazione	n$n-f
-	fra	tumeur	n-f	ita	tumore	n$n-m
+	fra	tumeur	n-f	ita	tumore	n-m$n
 	fra	tunique	n-f$n$n-f-ND	ita	tunica	n-f$n
 	fra	tunnel	n$n-m$n-m-ND	ita	tunnel	n-m-sp$n-m
 	fra	tuteur	n$n-m	ita	tutore	n$n-m
@@ -6898,7 +6898,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	villa	n-f$n$n-f-ND	ita	villa	n$n-f
 	fra	village	n-m$n	ita	popolo	n-m$n
 	fra	ville	n-f$n$n-f-ND	ita	città	n-f-sp$n-f
-	fra	vin	n$n-m$n-m-ND	ita	vino	n$n-m
+	fra	vin	n-m$n$n-m-ND	ita	vino	n-m$n
 	fra	vinaigre	n-m$n	ita	aceto	n$n-m
 	fra	violation	n$n-f$n-f-ND	ita	stupro	n-m
 	fra	violation	n$n-f$n-f-ND	ita	violazione	n-f$n
@@ -7104,7 +7104,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	événement	n$n-m$n-m-ND	ita	evento	n-m$n
 	fra	événement	n$n-m$n-m-ND	ita	vicenda	n-f
 	fra	évêque	n$n-m$n-m-ND	ita	vescovo	n-m$n
-	fra	être	n$n-m$n-m-ND	ita	essere	n-m$n
+	fra	être	n-m$n$n-m-ND	ita	essere	n-m$n
 	fra	île	n-f$n$n-f-ND	ita	isola	n-f$n
 	fra	œil	n-m$n	ita	occhio	n-m$n
 	fra	œuf	n-m$n	ita	uovo	n-m-sg$n-m$n
@@ -7124,7 +7124,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Adela	np$np-ant$np-ant-f-sg	ita	Adela	np-ant$np$np-ant-f$np-ant-f-sg
 	fra	Adán	np$np-cog$np-cog-mf-sp	ita	Adán	np-ant$np$np-ant-m-sg
 	fra	Afghanistan	np$np-loc-f	ita	Afghanistan	np-loc-m$np$np-loc
-	fra	Afrique	np$np-loc-f	ita	Africa	np-loc-f$np$np-loc$np-loc-f-sg
+	fra	Afrique	np$np-top-f-sg$np-top$np-top-f	ita	Africa	np-loc-f$np$np-loc$np-loc-f-sg
 	fra	Afrique du Sud	np$np-loc$np-loc-f	ita	Sudafrica	np-loc-m$np$np-loc-m-sg
 	fra	Agassi	np-cog-mf-sp$np	ita	Agassi	np-cog-mf-sp$np
 	fra	Agirre	np$np-cog-mf-sp	ita	Agirre	np-cog-mf-sp$np
@@ -7142,7 +7142,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Albatera	np$np-top-f-sg	ita	Albatera	np-loc-m$np$np-loc-m-sg
 	fra	Albelda	np$np-cog-mf-sp$np-cog	ita	Albelda	np-cog-mf-sp$np
 	fra	Albero	np$np-cog-mf-sp$np-cog	ita	Albero	np-cog-mf-sp$np
-	fra	Albert	np-ant$np$np-ant-m-sg	ita	Albert	np-ant$np-ant-m$np-ant-m-sg
+	fra	Albert	np-ant$np-ant-m-sg$np	ita	Albert	np-ant$np-ant-m$np-ant-m-sg
 	fra	Alberto	np$np-ant$np-ant-m-sg	ita	Alberto	np-ant$np-ant-m$np-ant-m-sg
 	fra	Albini	np-cog-mf-sp$np	ita	Albini	np-cog-mf-sp$np
 	fra	Albiol	np$np-cog-mf-sp$np-cog	ita	Albiol	np-cog-mf-sp$np
@@ -7170,7 +7170,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Almansa	np$np-cog-mf-sp	ita	Almansa	np-loc-m$np$np-loc$np-loc-m-sg
 	fra	Almería	np$np-top-f-sg	ita	Almería	np-loc-m$np$np-loc-m-sg
 	fra	Almodóvar	np$np-cog-mf-sp$np-cog	ita	Almodóvar	np-cog-mf-sp$np
-	fra	Almunia	np$np-cog-mf-sp$np-cog	ita	Almunia	np-cog-mf-sp$np
+	fra	Almunia	np-cog-mf-sp$np$np-cog	ita	Almunia	np-cog-mf-sp$np
 	fra	Alonso	np$np-ant$np-ant-m-sg	ita	Alonso	np-ant$np-ant-m-sg
 	fra	Altea	np$np-top-f-sg	ita	Altea	np-loc-m$np$np-loc-m-sg
 	fra	Alá	np	ita	Allah	np-ant$np-ant-m$np$np-ant-m-sg
@@ -7367,7 +7367,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Collantes	np-cog-mf-sp$np	ita	Collantes	np-cog-mf-sp$np
 	fra	Collina	np-cog-mf-sp$np	ita	Collina	np-cog-mf-sp$np
 	fra	Colmenar	np$np-top-m-sg	ita	Colmenar	np-loc-m$np$np-loc$np-loc-m-sg
-	fra	Colom	np$np-cog-mf-sp$np-cog	ita	Colom	np-cog-mf-sp$np
+	fra	Colom	np-cog-mf-sp$np$np-cog	ita	Colom	np-cog-mf-sp$np
 	fra	Coloma	np$np-cog-mf-sp$np-cog	ita	Coloma	np-cog-mf-sp$np
 	fra	Colombie	np$np-loc-f	ita	Colombia	np-loc-f$np-loc-f-sg$np$np-loc
 	fra	Conde	np-cog-mf-sp$np	ita	Conde	np-cog-mf-sp$np
@@ -7379,7 +7379,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Cornellà	np-loc	ita	Cornellà	np$np-loc$np-loc-m$np-loc-m-sg
 	fra	Corse	np$np-loc-f	ita	Corsica	np$np-loc-f$np-loc$np-loc-f-sg
 	fra	Corsica	np$np-top-f-sg	ita	Corsica	np$np-loc-f$np-loc$np-loc-f-sg
-	fra	Corée	np$np-loc-f	ita	Corea	np-loc-f$np$np-loc-f-sg$np-loc
+	fra	Corée	np$np-top-f-sg$np-top-f$np-top	ita	Corea	np-loc-f$np$np-loc-f-sg$np-loc
 	fra	Cowen	np-cog-mf-sp$np	ita	Cowen	np-cog-mf-sp$np
 	fra	Cristina	np$np-ant$np-ant-f-sg	ita	Cristina	np-ant$np-ant-f$np-ant-f-sg
 	fra	Croatie	np$np-loc-f	ita	Croazia	np-loc-f$np$np-loc-f-sg$np-loc
@@ -7516,7 +7516,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Gaudí	np-ant	ita	Gaudí	np-cog-mf-sp$np$np-cog
 	fra	Gautier	np$np-cog-mf-sp$np-cog	ita	Gautier	np-cog-mf-sp$np$np-cog
 	fra	Gavà	np$np-top-m-sg	ita	Gavà	np-loc-m$np$np-loc$np-loc-m-sg
-	fra	Generalitat	np-al$np-al-f-sg$np	ita	Generalitat	np-loc-f$np
+	fra	Generalitat	np-al-f-sg$np-al$np	ita	Generalitat	np-loc-f$np
 	fra	George	np$np-ant$np-ant-m-sg	ita	George	np-ant$np-ant-m$np-ant-m-sg
 	fra	Gerard	np$np-ant$np-ant-m-sg	ita	Gerard	np-ant$np-ant-m-sg$np-ant-m
 	fra	Gerardo	np-ant$np$np-ant-m-sg	ita	Gerardo	np-ant$np-ant-m-sg$np-ant-m
@@ -7539,7 +7539,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Gore	np-cog-mf-sp$np	ita	Gore	np-cog-mf-sp$np$np-cog-mf
 	fra	Goya	np$np-cog$np-cog-mf-sp	ita	Goya	np-cog-mf-sp$np$np-cog
 	fra	Granollers	np$np-top-m-sg	ita	Granollers	np-loc-m$np$np-loc$np-loc-m-sg
-	fra	Grau	np$np-top-m-sg	ita	Grau	np$np-loc$np-loc-m
+	fra	Grau	np-cog-mf-sp$np	ita	Grau	np$np-loc$np-loc-m
 	fra	Greenpeace	np-al$np-al-f-sg$np	ita	Greenpeace	np-al-m$np-al-m-sg$np
 	fra	Grèce	np$np-top$np-top-f$np-top-f-sg	ita	Grecia	np-loc-f$np-loc-f-sg$np$np-loc
 	fra	Guadalajara	np$np-top-f-sg	ita	Guadalajara	np-loc-m$np$np-loc$np-loc-m-sg
@@ -7547,7 +7547,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Guatemala	np$np-loc-f	ita	Guatemala	np-loc-m$np-loc-m-sg$np
 	fra	Guillena	np$np-top-f-sg	ita	Guillena	np-loc-m$np$np-loc-m-sg
 	fra	Guillermo	np$np-ant$np-ant-m-sg	ita	Guillermo	np-ant-m-sg$np-ant$np-ant-m
-	fra	Guinée	np$np-loc-f	ita	Guinea	np-loc-m$np$np-loc
+	fra	Guinée	np$np-top-f-sg$np-top-f$np-top	ita	Guinea	np-loc-m$np$np-loc
 	fra	Guipúzcoa	np$np-top-f-sg	ita	Guipúzcoa	np-loc-m$np$np-loc-m-sg
 	fra	Gutiérrez	np$np-cog-mf-sp$np-cog	ita	Gutiérrez	np-cog-mf-sp$np
 	fra	Gálvez	np$np-cog-mf-sp$np-cog	ita	Gálvez	np-cog-mf-sp$np
@@ -7628,14 +7628,14 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Jarque	np$np-cog-mf-sp	ita	Jarque	np-loc-m$np$np-loc$np-loc-m-sg
 	fra	Javier	np$np-ant$np-ant-m-sg	ita	Javier	np-ant$np-ant-m-sg$np-ant-m
 	fra	Jaén	np$np-top-m-sg	ita	Jaén	np-loc-m$np$np-loc$np-loc-m-sg
-	fra	Jean	np-ant-m-sg$np-ant$np	ita	Jean	np-ant$np-ant-m$np-ant-m-sg
+	fra	Jean	np-ant-m-sg$np$np-ant	ita	Jean	np-ant$np-ant-m$np-ant-m-sg
 	fra	Jean Cabot	np$np-ant	ita	Giovanni Caboto	np-ant
-	fra	Jean Calvin	np$np-ant$np-ant-m-sg	ita	Giovanni Calvino	np-ant
+	fra	Jean Calvin	np$np-ant	ita	Giovanni Calvino	np-ant
 	fra	Jerez	np$np-top-m-sg	ita	Jerez	np-loc-m$np$np-loc$np-loc-m-sg
 	fra	Jerónimo	np$np-ant$np-ant-m-sg	ita	Jerónimo	np-ant$np-ant-m-sg
 	fra	Jesús	np$np-ant$np-ant-m-sg	ita	Gesù	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Jiménez	np$np-cog-mf-sp$np-cog	ita	Jiménez	np-cog-mf-sp$np$np-cog
-	fra	Joan	np$np-ant$np-ant-m-sg	ita	Joan	np-ant$np-ant-m$np-ant-m-sg
+	fra	Joan	np-ant-m-sg$np$np-ant	ita	Joan	np-ant$np-ant-m$np-ant-m-sg
 	fra	Joaquín	np$np-ant$np-ant-m-sg	ita	Joaquín	np-ant$np-ant-m-sg$np-ant-m
 	fra	Jobs	np-cog-mf-sp$np	ita	Jobs	np-cog-mf-sp$np$np-cog-mf
 	fra	Johansson	np-cog-mf-sp$np	ita	Johansson	np-cog-mf-sp$np$np-cog-mf
@@ -7648,7 +7648,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Jordi	np$np-ant$np-ant-m-sg	ita	Jordi	np-ant$np-ant-m-sg$np-ant-m
 	fra	Jorge	np$np-ant$np-ant-m-sg	ita	Jorge	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	José	np$np-ant-m-sg$np-ant	ita	José	np-ant$np-ant-m$np-ant-m-sg
-	fra	Juan	np$np-ant$np-ant-m-sg	ita	Juan	np-ant$np-ant-m$np-ant-m-sg
+	fra	Juan	np$np-ant-m-sg$np-ant	ita	Juan	np-ant$np-ant-m$np-ant-m-sg
 	fra	Jupiter	np-loc$np-loc-f	ita	Giove	np-loc-m$np$np-loc
 	fra	Jupiter	np-ant$np	ita	Giove	np-loc-m$np$np-loc
 	fra	Juárez	np$np-cog$np-cog-mf-sp	ita	Juárez	np-cog-mf-sp$np
@@ -7662,7 +7662,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Kessler	np-cog-mf-sp$np	ita	Kessler	np-cog-mf-sp$np
 	fra	Kidman	np-ant$np	ita	Kidman	np-cog-mf-sp$np
 	fra	Kiev	np$np-top-m-sg$np-top	ita	Kiev	np-loc-m$np$np-loc$np-loc-m-sg
-	fra	King	np-cog-mf-sp$np	ita	King	np-cog-mf-sp$np$np-cog$np-cog-mf
+	fra	King	np$np-cog-mf-sp	ita	King	np-cog-mf-sp$np$np-cog$np-cog-mf
 	fra	Kosovo	np-loc$np-loc-f$np	ita	Kosovo	np-loc-m$np$np-loc$np-loc-m-sg
 	fra	Kross	np-cog-mf-sp$np	ita	Kross	np-cog-mf-sp$np
 	fra	La Repubblica	np	ita	La Repubblica	np$np-al-f-sg
@@ -7671,10 +7671,10 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Lanzarote	np$np-top-m-sg	ita	Lanzarote	np-loc-m$np$np-loc$np-loc-m-sg
 	fra	Lara	np$np-ant$np-ant-f-sg	ita	Lara	np-ant$np-ant-f$np-ant-f-sg
 	fra	Laura	np$np-ant$np-ant-f-sg	ita	Laura	np-ant$np-ant-f$np-ant-f-sg
-	fra	Le Pen	np$np-cog$np-cog-mf-sp	ita	Le Pen	np-cog-mf-sp$np
+	fra	Le Pen	np$np-cog-mf-sp$np-cog	ita	Le Pen	np-cog-mf-sp$np
 	fra	Leblanc	np$np-cog-mf-sp$np-cog	ita	Leblanc	np-cog-mf-sp$np
 	fra	Lennon	np-cog-mf-sp$np	ita	Lennon	np-cog-mf-sp$np$np-cog-mf
-	fra	Leonardo	np$np-ant$np-ant-m-sg	ita	Leonardo	np-ant$np-ant-m$np-ant-m-sg
+	fra	Leonardo	np-ant-m-sg$np$np-ant	ita	Leonardo	np-ant$np-ant-m$np-ant-m-sg
 	fra	Lettonie	np$np-loc-f	ita	Lettonia	np-loc-f$np$np-loc-f-sg$np-loc
 	fra	Liban	np$np-loc-f	ita	Libano	np-loc-m$np$np-loc-m-sg$np-loc
 	fra	Lieberman	np-cog-mf-sp$np	ita	Lieberman	np-cog-mf-sp$np
@@ -7728,7 +7728,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	March	np$np-cog$np-cog-mf-sp	ita	March	np-cog-mf-sp$np$np-cog
 	fra	Marchena	np-ant$np	ita	Marchena	np-cog-mf-sp$np
 	fra	Mari	np$np-ant$np-ant-f-sg	ita	Mari	np-ant$np-ant-f$np$np-ant-f-sg
-	fra	Maria	np$np-ant$np-ant-f-sg	ita	Maria	np-ant$np-ant-f$np-ant-f-sg$np
+	fra	Maria	np$np-ant-f-sg$np-ant	ita	Maria	np-ant$np-ant-f$np-ant-f-sg$np
 	fra	Mariana	np$np-ant$np-ant-f-sg	ita	Mariana	np-ant$np-ant-f$np-ant-f-sg
 	fra	Marie	np-ant$np-ant-f-sg$np	ita	Marie	np-ant$np-ant-f$np-ant-f-sg
 	fra	Mario	np$np-ant$np-ant-m-sg	ita	Mario	np-ant-m-sg$np-ant$np-ant-m
@@ -7744,7 +7744,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Martínez	np$np-cog$np-cog-mf-sp	ita	Martínez	np-ant$np-cog-ant
 	fra	Martínez	np$np-cog$np-cog-mf-sp	ita	Martínez	np-cog-mf-sp$np$np-cog
 	fra	Marx	np$np-cog-mf-sp$np-cog	ita	Marx	np-cog-mf-sp$np$np-cog$np-cog-mf
-	fra	María	np$np-ant$np-ant-f-sg	ita	María	np-ant-f-sg$np-ant$np-ant-f
+	fra	María	np$np-ant-f-sg$np-ant	ita	María	np-ant-f-sg$np-ant$np-ant-f
 	fra	Mataró	np$np-cog-mf-sp	ita	Mataró	np-loc-m$np$np-loc$np-loc-m-sg
 	fra	Mateo	np$np-ant-m-sg$np-ant	ita	Mateo	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Matteo	np-ant$np$np-ant-m-sg	ita	Matteo	np-ant-m$np-ant$np-ant-m-sg
@@ -7767,7 +7767,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Michele	np$np-ant$np-ant-m-sg	ita	Michele	np-ant$np-ant-m$np-ant-m-sg
 	fra	Michelin	np-cog-mf-sp$np	ita	Michelin	np-cog-mf-sp$np
 	fra	Mickey	np$np-ant-m-sg$np-ant	ita	Mickey	np-ant$np-ant-m$np$np-ant-m-sg
-	fra	Microsoft	np$np-al-mf$np-al	ita	Microsoft	np-al-m$np-al-m-sg$np
+	fra	Microsoft	np-al-m-sg$np$np-al$np-al-m	ita	Microsoft	np-al-m$np-al-m-sg$np
 	fra	Miguel	np$np-ant$np-ant-m-sg	ita	Miguel	np-ant$np-ant-m$np-ant-m-sg
 	fra	Milan	np$np-loc$np-loc-f	ita	Milano	np-loc-m$np$np-loc$np-loc-m-sg
 	fra	Milan	np$np-loc$np-loc-f	ita	Milano	np-loc-m$np$np-loc$np-loc-m-sg
@@ -7851,7 +7851,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Orihuela	np$np-cog-mf-sp	ita	Orihuela	np-loc-m$np$np-loc-m-sg
 	fra	Oriol	np$np-ant-m-sg	ita	Oriol	np-ant$np$np-ant-m$np-ant-m-sg
 	fra	Orozco	np$np-cog$np-cog-mf-sp	ita	Orozco	np-cog-mf-sp$np
-	fra	Ortega	np$np-cog$np-cog-mf-sp	ita	Ortega	np$np-ant-m-sg
+	fra	Ortega	np$np-cog-mf-sp$np-cog	ita	Ortega	np$np-ant-m-sg
 	fra	Ortiz	np$np-cog-mf-sp$np-cog	ita	Ortiz	np-cog-mf-sp$np
 	fra	Osasuna	np$np-al$np-al-m-sg	ita	Osasuna	np$np-al-m-sg$np-al-m
 	fra	Osasuna	np$np-al$np-al-m-sg	ita	Osasuna	np$np-al-m-sg$np-al-m
@@ -7886,7 +7886,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Pau	np-loc$np-loc-f	ita	Pau	np$np-ant$np-ant-m-sg$np-ant-m
 	fra	Paul	np$np-ant$np-ant-m-sg	ita	Paul	np-ant$np-ant-m$np-ant-m-sg
 	fra	Paula	np$np-ant$np-ant-f-sg	ita	Paula	np-ant$np-ant-f$np-ant-f-sg
-	fra	Pays de Galles	np$np-top$np-top-m-sg$np-top-m	ita	Galles	np-loc-m$np$np-loc-m-sg
+	fra	Pays de Galles	np$np-top$np-top-m$np-top-m-sg	ita	Galles	np-loc-m$np$np-loc-m-sg
 	fra	Pedro	np$np-ant$np-ant-m-sg	ita	Pedro	np-ant-m-sg$np-ant$np-ant-m
 	fra	Pelayo	np$np-cog$np-cog-mf-sp	ita	Pelayo	np-ant$np$np-ant-m-sg
 	fra	Penn	np-cog-mf-sp$np	ita	Penn	np-cog-mf-sp$np$np-cog-mf
@@ -7914,8 +7914,8 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Prague	np$np-loc-f	ita	Praga	np-loc-f$np$np-loc$np-loc-f-sg
 	fra	Procter	np-cog-mf-sp$np	ita	Procter	np-cog-mf-sp$np
 	fra	Proust	np-cog-mf-sp$np	ita	Proust	np-cog-mf-sp$np$np-cog-mf
-	fra	Puig	np$np-top-m-sg	ita	Puig	np-loc-m$np-loc$np$np-loc-m-sg
-	fra	Pujol	np$np-cog-mf-sp$np-cog	ita	Pujol	np-cog-mf-sp$np$np-cog
+	fra	Puig	np-cog-mf-sp$np	ita	Puig	np-loc-m$np-loc$np$np-loc-m-sg
+	fra	Pujol	np-cog-mf-sp$np$np-cog	ita	Pujol	np-cog-mf-sp$np$np-cog
 	fra	Putin	np$np-cog-mf-sp	ita	Putin	np-cog-mf-sp$np$np-cog
 	fra	Pyrénées	np-loc$np-loc-f	ita	Pirenei	np-loc-m-sg$np$np-loc
 	fra	Pégase	np$np-ant	ita	Pegaso	np-al-m-sg$np
@@ -7972,7 +7972,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Rubalcaba	np$np-cog-mf-sp	ita	Rubalcaba	np-cog-mf-sp$np
 	fra	Rubén	np$np-ant$np-ant-m-sg	ita	Rubén	np-ant$np-ant-m$np-ant-m-sg
 	fra	Rubí	np$np-cog-mf-sp	ita	Rubí	np-loc-m$np$np-loc$np-loc-m-sg
-	fra	Ruiz	np$np-cog-mf-sp$np-cog	ita	Ruiz	np-cog-mf-sp$np$np-cog
+	fra	Ruiz	np-cog-mf-sp$np$np-cog	ita	Ruiz	np-cog-mf-sp$np$np-cog
 	fra	Rumsfeld	np$np-cog-mf-sp$np-cog	ita	Rumsfeld	np-cog-mf-sp$np
 	fra	Russel	np-cog-mf-sp$np	ita	Russel	np-cog-mf-sp$np
 	fra	Russie	np$np-loc-f	ita	Russia	np-loc-f$np$np-loc-f-sg$np-loc
@@ -7982,14 +7982,14 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Sadam	np$np-ant-m-sg	ita	Saddam	np-ant$np-ant-m$np$np-ant-m-sg
 	fra	Sagra	np$np-top-f-sg	ita	Sagra	np$np-loc-m$np-loc-m-sg
 	fra	Sagunto	np$np-top-m-sg	ita	Sagunto	np-loc-m$np$np-loc$np-loc-m-sg
-	fra	Sahara	np-loc$np-loc-f$np	ita	Sahara	np-loc-m$np$np-loc
+	fra	Sahara	np$np-loc$np-loc-f	ita	Sahara	np-loc-m$np$np-loc
 	fra	Salamanque	np$np-loc	ita	Salamanca	np$np-loc-m$np-loc$np-loc-m-sg
 	fra	Salamanque	np$np-loc	ita	Salamanca	np$np-loc-m$np-loc$np-loc-m-sg
 	fra	Salem	np$np-top-m-sg	ita	Salem	np-loc-m$np$np-loc$np-loc-m-sg
 	fra	Salinas	np$np-cog-mf-sp	ita	Salinas	np-loc-m$np$np-loc$np-loc-m-sg
 	fra	Salvador	np$np-top-m-sg$np-top$np-top-m	ita	Salvador	np-ant$np-ant-m$np$np-ant-m-sg
 	fra	Samuel	np$np-ant$np-ant-m-sg	ita	Samuel	np-ant$np-ant-m$np-ant-m-sg
-	fra	San	np	ita	San	np$np-ant-m
+	fra	San	np$np-cog-mf-sp	ita	San	np$np-ant-m
 	fra	Sanchez	np-cog-mf-sp$np	ita	Sanchez	np-cog-mf-sp$np$np-cog
 	fra	Santander	np$np-al-mf	ita	Santander	np-loc-m$np$np-loc$np-loc-m-sg
 	fra	Santiago	np$np-top-m-sg	ita	Santiago	np-loc-m$np$np-loc$np-loc-m-sg
@@ -8159,7 +8159,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	Wikipédia	np$np-al-mf$np-al	ita	Wikipedia	np$np-ant
 	fra	Wilde	np$np-cog-mf-sp$np-cog	ita	Wilde	np-cog-mf-sp$np$np-cog$np-cog-mf
 	fra	William	np$np-ant$np-ant-m-sg	ita	William	np-ant$np-ant-m$np-ant-m-sg
-	fra	Windows	np$np-al-mf$np-al	ita	Windows	np-al-m-sg$np$np-al-m
+	fra	Windows	np-al-m-sg$np$np-al	ita	Windows	np-al-m-sg$np$np-al-m
 	fra	Woodworth	np-cog-mf-sp$np	ita	Woodworth	np-cog-mf-sp$np
 	fra	Yahoo	np-al$np-al-m-sg$np	ita	Yahoo	np-al-m$np-al-m-sg$np
 	fra	York	np$np-cog-mf-sp	ita	York	np-loc-m$np-loc-m-sg$np-loc
@@ -8335,29 +8335,29 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	au-dessus de	pr	ita	in cima a	pr
 	fra	au cours de	pr	ita	durante	pr
 	fra	au dire de	pr	ita	secondo	pr$
-	fra	avec	pr	ita	con	pr
+	fra	avec	pr	ita	con	pr$
 	fra	chez	pr	ita	in	pr
-	fra	comme	pr	ita	come	pr
+	fra	comme	pr	ita	come	pr$
 	fra	contrairement à	pr	ita	contro	pr
 	fra	contre	pr	ita	contro	pr
 	fra	dans	pr	ita	in	pr
-	fra	de	pr	ita	di	pr
-	fra	de	pr	ita	da	pr
-	fra	depuis	pr	ita	da	pr
+	fra	de	pr	ita	di	$pr
+	fra	de	pr	ita	da	pr$
+	fra	depuis	pr	ita	da	pr$
 	fra	derrière	pr	ita	dietro	pr
 	fra	devant	pr	ita	davanti	pr
 	fra	devant	pr	ita	davanti a	pr
 	fra	devant	pr	ita	dinanzi a	pr
 	fra	devant	pr	ita	innanzi a	pr
 	fra	durant	pr	ita	durante	pr
-	fra	dès	pr	ita	da	pr
+	fra	dès	pr	ita	da	pr$
 	fra	en	pr	ita	in	pr
 	fra	en dehors de	pr	ita	fuori	pr
 	fra	en dehors de	pr	ita	fuori di	pr
 	fra	en dépit de	pr	ita	nonostante	pr$
 	fra	entre	pr	ita	tra	pr
 	fra	entre	pr	ita	fra	pr
-	fra	envers	pr	ita	per	pr
+	fra	envers	pr	ita	per	pr$
 	fra	face à	pr	ita	rispetto a	pr
 	fra	hors	pr	ita	fuori	pr
 	fra	jusqu'à	pr	ita	fino	pr
@@ -8367,21 +8367,21 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	malgré	pr	ita	nonostante	pr$
 	fra	moyennant	pr	ita	mediante	pr
 	fra	outre	pr	ita	oltre	pr
-	fra	par	pr	ita	per	pr
+	fra	par	pr	ita	per	pr$
 	fra	par l'intermédiaire de	pr	ita	tramite	pr
 	fra	parmi	pr	ita	tra	pr
 	fra	pendant	pr	ita	durante	pr
-	fra	pour	pr	ita	per	pr
+	fra	pour	pr	ita	per	pr$
 	fra	près de	pr	ita	vicino a	pr
 	fra	près	pr	ita	presso	pr
-	fra	sans	pr	ita	senza	pr$
+	fra	sans	pr	ita	senza	$pr
 	fra	selon	pr	ita	secondo	pr$
 	fra	sous	pr	ita	sotto	pr$
 	fra	sur	pr	ita	su	pr
 	fra	sur	pr	ita	sopra	pr$
 	fra	tout au long de	pr	ita	lungo	pr$
 	fra	vers	pr	ita	verso	pr
-	fra	à	pr	ita	a	pr
+	fra	à	pr	ita	a	pr$
 	fra	à travers	pr	ita	attraverso	pr
 	fra	à l'exception de	pr	ita	tranne	pr
 	fra	à l'exception de	pr	ita	eccetto	pr
@@ -8459,8 +8459,8 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	le	prn-pro-p3-nt	ita	lo	prn-enc$prn-enc-p3-nt$prn
 	fra	le	prn-enc-p3-mf-pl$prn-enc	ita	lo	prn-pro$prn-pro-p3-nt$prn-pro-p3
 	fra	le	prn-enc-p3-mf-pl$prn-enc	ita	lo	prn-enc$prn-enc-p3-nt$prn
-	fra	le	prn-pro-p3-mf-pl	ita	lo	prn-pro$prn-pro-p3-nt$prn-pro-p3
-	fra	le	prn-pro-p3-mf-pl	ita	lo	prn-enc$prn-enc-p3-nt$prn
+	fra	le	prn-pro-p3-mf-pl$prn	ita	lo	prn-pro$prn-pro-p3-nt$prn-pro-p3
+	fra	le	prn-pro-p3-mf-pl$prn	ita	lo	prn-enc$prn-enc-p3-nt$prn
 	fra	leur	prn-enc-p3-mf-pl$prn-enc	ita	gli	prn-pro-p3-GD-sg$prn-pro-p3-GD
 	fra	leur	prn-enc-p3-mf-pl$prn-enc	ita	gli	prn-pro-p3-m-sg$prn-m$prn$prn-pro-p3-m
 	fra	leur	prn-enc-p3-mf-pl$prn-enc	ita	le	prn-pro-p3-f-sg
@@ -8482,13 +8482,13 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	lui	prn-enc-p3-mf-sg$prn-enc-p3-mf	ita	le	prn-f$prn-enc-p3-f-sg$prn$prn-enc-p3-f
 	fra	lui	prn-enc-p3-mf-sg$prn-enc-p3-mf	ita	gli	prn-enc-p3-mf-pl$prn-enc$prn-enc-p3-mf
 	fra	lui	prn-enc-p3-mf-sg$prn-enc-p3-mf	ita	gli	prn-enc-p3-mf-sp
-	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn-pro	ita	gli	prn-pro-p3-GD-sg$prn-pro-p3-GD
-	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn-pro	ita	gli	prn-pro-p3-m-sg$prn-m$prn$prn-pro-p3-m
-	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn-pro	ita	le	prn-pro-p3-f-sg
-	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn-pro	ita	gli	prn-pro-p3-mf-sp
-	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn-pro	ita	le	prn-f$prn-enc-p3-f-sg$prn$prn-enc-p3-f
-	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn-pro	ita	gli	prn-enc-p3-mf-pl$prn-enc$prn-enc-p3-mf
-	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn-pro	ita	gli	prn-enc-p3-mf-sp
+	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn$prn-pro	ita	gli	prn-pro-p3-GD-sg$prn-pro-p3-GD
+	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn$prn-pro	ita	gli	prn-pro-p3-m-sg$prn-m$prn$prn-pro-p3-m
+	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn$prn-pro	ita	le	prn-pro-p3-f-sg
+	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn$prn-pro	ita	gli	prn-pro-p3-mf-sp
+	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn$prn-pro	ita	le	prn-f$prn-enc-p3-f-sg$prn$prn-enc-p3-f
+	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn$prn-pro	ita	gli	prn-enc-p3-mf-pl$prn-enc$prn-enc-p3-mf
+	fra	lui	prn-pro-p3-mf-sg$prn-pro-p3-mf$prn$prn-pro	ita	gli	prn-enc-p3-mf-sp
 	fra	lui	prn-tn$prn-tn-p3-mf	ita	lui	prn-tn-p3-m-sg$prn-m$prn-tn-p3-m
 	fra	lui	prn-tn$prn-tn-p3-mf	ita	lui	prn-tn-p3-f-sg$prn-tn-p3-f
 	fra	lui	prn-tn$prn-tn-p3-mf	ita	lui	prn-tn-p3-mf-pl$prn-tn-p3-mf$prn$prn-tn$prn-tn-p3
@@ -8496,13 +8496,13 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	me	prn-enc$prn-enc-p1-mf-sg	ita	mi	prn-enc$prn-enc-p1$prn-enc-p1-mf
 	fra	me	prn-pro$prn-pro-p1-mf-sg	ita	mi	prn-pro$prn$prn-pro-p1
 	fra	me	prn-pro$prn-pro-p1-mf-sg	ita	mi	prn-enc$prn-enc-p1$prn-enc-p1-mf
-	fra	moi	prn-tn$prn-tn-p1-mf-sg$prn-tn-p1	ita	me	prn-tn$prn-tn-p1$prn-tn-p1-mf-sg
+	fra	moi	prn-tn$prn-tn-p1-mf-sg$prn-tn-p1$prn	ita	me	prn-tn$prn-tn-p1$prn-tn-p1-mf-sg
 	fra	n'importe qui	prn-tn-mf-sp$prn-tn-mf$prn-tn	ita	qualunque	prn-tn-mf-sp$$prn
 	fra	n'importe qui	prn-tn-mf-sp$prn-tn-mf$prn-tn	ita	qualsivoglia	prn-tn-mf-sp$prn
 	fra	n'importe qui	prn-tn-mf-sp$prn-tn-mf$prn-tn	ita	qualsiasi	prn-tn-mf-sp$prn$prn-tn
-	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	ita	ci	prn$prn-pro-adv$prn-pro
-	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	ita	ci	prn-enc$prn-enc-p1$prn-enc-p1-mf
-	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	ita	noi	prn-tn-p1-mf$prn-mf$prn$prn-tn-p1-mf-pl
+	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	ita	ci	prn$prn-pro-adv$prn-pro
+	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	ita	ci	prn-enc$prn-enc-p1$prn-enc-p1-mf
+	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	ita	noi	prn-tn-p1-mf$prn-mf$prn$prn-tn-p1-mf-pl
 	fra	on	prn-enc-ref-p3-mf-sp$prn-enc	ita	si	prn-pro$prn-pro-ref$prn-pro-ref-p3-mf-sp$prn-pro-ref-p3
 	fra	on	prn-enc-ref-p3-mf-sp$prn-enc	ita	si	prn-enc$prn$prn-enc-ref-p3-mf-sp$prn-enc-ref$prn-enc-ref-p3
 	fra	on	prn-pro-ref-p3-mf-sp	ita	si	prn-pro$prn-pro-ref$prn-pro-ref-p3-mf-sp$prn-pro-ref-p3
@@ -8510,10 +8510,10 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	on	prn-tn-p3-mf-sp$prn$prn-tn	ita	si	prn-pro$prn-pro-ref$prn-pro-ref-p3-mf-sp$prn-pro-ref-p3
 	fra	on	prn-tn-p3-mf-sp$prn$prn-tn	ita	si	prn-enc$prn$prn-enc-ref-p3-mf-sp$prn-enc-ref$prn-enc-ref-p3
 	fra	personne	prn-tn-mf-sg$prn-tn$prn-tn-mf	ita	nessuno	prn$prn-tn-m$$prn-tn$prn-tn-m-sg
-	fra	qu'est-ce que	prn$prn-itg$prn-itg-mf	ita	che	prn$$prn-itg-mf-sg$prn-mf
+	fra	qu'est-ce que	prn$prn-itg$prn-itg-mf	ita	che	prn$prn-itg-mf-sg$prn-mf
 	fra	qu'est-ce que	prn$prn-itg$prn-itg-mf	ita	cosa	prn$prn-itg$prn-itg-mf
-	fra	qu'est-ce que c'est que	prn$prn-itg-mf	ita	che	prn$$prn-itg-mf-sg$prn-mf
-	fra	que	prn$prn-itg-mf$prn-itg$prn-itg-mf-sg	ita	che	prn$$prn-itg-mf-sg$prn-mf
+	fra	qu'est-ce que c'est que	prn$prn-itg-mf	ita	che	prn$prn-itg-mf-sg$prn-mf
+	fra	que	prn$prn-itg-mf$prn-itg$prn-itg-mf-sg	ita	che	prn$prn-itg-mf-sg$prn-mf
 	fra	quel	prn-itg-f$prn-itg-f-sg	ita	quale	prn-itg$prn
 	fra	quel	prn-itg-m$prn-itg-m-sg	ita	quale	prn-itg$prn
 	fra	quel	prn$prn-itg-GD$prn-itg-GD-sg	ita	quale	prn-itg$prn
@@ -8522,9 +8522,9 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	quelqu'un	prn-tn-mf$prn-tn	ita	qualcuno	prn-tn-m$prn$prn-tn
 	fra	quelqu'un	prn-tn-mf$prn-tn	ita	qualcuno	prn-tn-f
 	fra	quelque chose	prn-tn-nt-sg$prn$prn-tn-nt	ita	qualcosa	prn$prn-tn$prn-tn-nt-sg
-	fra	qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	ita	chi	prn$prn-itg-mf-sp$prn-mf-sp
-	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf$prn-itg	ita	chi	prn$prn-itg-mf-sp$prn-mf-sp
-	fra	quoi	prn$prn-itg-mf-sp$prn-itg-mf	ita	che	prn$$prn-itg-mf-sg$prn-mf
+	fra	qui	prn-itg-mf-sp$prn-itg$prn-itg-mf	ita	chi	prn$prn-itg-mf-sp$prn-mf-sp
+	fra	qui est-ce qui	prn-itg-mf-sp$prn-itg-mf	ita	chi	prn$prn-itg-mf-sp$prn-mf-sp
+	fra	quoi	prn$prn-itg-mf-sp$prn-itg-mf	ita	che	prn$prn-itg-mf-sg$prn-mf
 	fra	rien	prn-tn-nt$prn$prn-tn-nt-sg	ita	niente	prn$prn-tn-nt-sg$prn-tn-nt$$prn-tn
 	fra	rien	prn-tn-nt$prn$prn-tn-nt-sg	ita	nulla	prn$prn-tn-nt-sg
 	fra	se	prn-enc-ref-p3-mf-sp	ita	si	prn-pro$prn-pro-ref$prn-pro-ref-p3-mf-sp$prn-pro-ref-p3
@@ -8539,7 +8539,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	toi	prn$prn-tn-p2-mf-sg$prn-tn$prn-tn-p2	ita	te	prn-tn$prn-tn-p2$prn$prn-tn-p2-mf-sg
 	fra	tous les deux	prn	ita	tutti e due	prn$prn-tn-f
 	fra	tous les deux	prn	ita	entrambi	prn$prn-tn-f$$prn-tn
-	fra	tout	prn-tn-m-sg$prn$prn-tn$prn-tn-m	ita	tutto	$prn$prn-tn-m-ND$prn-tn$prn-tn-m
+	fra	tout	prn$prn-tn-m-sg$prn-tn$prn-tn-m	ita	tutto	$prn$prn-tn-m-ND$prn-tn$prn-tn-m
 	fra	tout le monde	prn	ita	tutti quanti	prn$prn-tn-mf-sp
 	fra	tu	prn$prn-tn-p2-mf-sg$prn-tn$prn-tn-p2	ita	tu	prn-tn$prn$prn-tn-p2$prn-tn-p2-mf
 	fra	un	prn	ita	uno	prn-tn-m-sg$prn-tn-m
@@ -8552,10 +8552,10 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	vous	prn-tn-p2-mf-pl$prn$prn-tn-p2-mf$prn-tn$prn-tn-p2	ita	Lei	prn$prn-tn$prn-tn-p3$prn-tn-p3-mf-sg
 	fra	ça	prn$prn-tn-nt-sg$prn-tn-nt	ita	ciò	prn-tn-nt-sg$prn$prn-tn
 	fra	ça	prn$prn-tn-nt-sg$prn-tn-nt	ita	questo	prn-tn-nt-sg$prn-tn-nt
-	fra	celui que	rel$rel-nt$rel-nt-sg	ita	il quale	rel$rel-an$rel-an-GD-pl
-	fra	celui que	rel$rel-nt$rel-nt-sg	ita	cui	rel$rel-an-mf-sp$rel-an-mf
-	fra	celui que	rel$rel-nt$rel-nt-sg	ita	quello che	rel$rel-an$rel-an-nt
-	fra	celui que	rel$rel-nt$rel-nt-sg	ita	quello che	rel$rel-an$rel-an-nt
+	fra	celui que	rel$rel-nt-sg$rel-nt	ita	il quale	rel$rel-an$rel-an-GD-pl
+	fra	celui que	rel$rel-nt-sg$rel-nt	ita	cui	rel$rel-an-mf-sp$rel-an-mf
+	fra	celui que	rel$rel-nt-sg$rel-nt	ita	quello che	rel$rel-an$rel-an-nt
+	fra	celui que	rel$rel-nt-sg$rel-nt	ita	quello che	rel$rel-an$rel-an-nt
 	fra	celui qui	rel$rel-m$rel-m-pl	ita	quello che	rel$rel-an$rel-an-nt
 	fra	combien	rel-adv$adv	ita	quanto	rel$rel-nn-m$rel-nn
 	fra	comme	rel$rel-adv	ita	come	rel$rel-adv
@@ -8670,7 +8670,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	appointer	vblex	ita	pagare	$vblex
 	fra	apposer	vblex	ita	fissare	$vblex
 	fra	apprendre	vblex	ita	apprendere	$vblex
-	fra	apprendre	vblex	ita	imparare	vblex$
+	fra	apprendre	vblex	ita	imparare	$vblex
 	fra	approcher	vblex	ita	approssimare	vblex
 	fra	approuver	vblex	ita	approvare	$vblex
 	fra	approvisionner	vblex	ita	fornire	$vblex
@@ -8722,7 +8722,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	axer	vblex	ita	orientare	vblex$
 	fra	bagarrer	vblex	ita	combattere	$vblex
 	fra	baisser	vblex	ita	scendere	$vblex
-	fra	baller	vblex	ita	ballare	vblex$
+	fra	baller	vblex	ita	ballare	$vblex
 	fra	baptiser	vblex	ita	battezzare	vblex$
 	fra	baser	vblex	ita	basare	vblex$
 	fra	battre	vblex	ita	battere	$vblex
@@ -8733,7 +8733,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	bosser	vblex	ita	lavorare	$vblex
 	fra	bouffer	vblex	ita	inflazionare	vblex
 	fra	bouger	vblex	ita	muovere	$vblex
-	fra	brancher	vblex	ita	mettere	vblex$
+	fra	brancher	vblex	ita	mettere	$vblex
 	fra	brasser	vblex	ita	rimuovere	$vblex
 	fra	briller	vblex	ita	brillare	$vblex
 	fra	briser	vblex	ita	rompere	$vblex
@@ -8789,7 +8789,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	coller	vblex	ita	incollare	$vblex
 	fra	combiner	vblex	ita	combinare	$vblex
 	fra	commander	vblex	ita	comandare	$vblex
-	fra	commander	vblex	ita	mandare	vblex$
+	fra	commander	vblex	ita	mandare	$vblex
 	fra	commencer	vblex	ita	cominciare	vblex$
 	fra	commencer	vblex	ita	iniziare	$vblex
 	fra	commenter	vblex	ita	commentare	vblex$
@@ -8851,7 +8851,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	contempler	vblex	ita	contemplare	$vblex
 	fra	contenir	vblex	ita	contenere	$vblex
 	fra	conter	vblex	ita	contare	$vblex
-	fra	continuer	vblex	ita	continuare	vblex$
+	fra	continuer	vblex	ita	continuare	$vblex
 	fra	contourner	vblex	ita	circondare	vblex$
 	fra	contracter	vblex	ita	contrarre	$vblex
 	fra	contraindre	vblex	ita	obbligare	vblex$
@@ -8879,7 +8879,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	couvrir	vblex	ita	coprire	$vblex
 	fra	coûter	vblex	ita	costare	vblex$
 	fra	craindre	vblex	ita	temere	$vblex
-	fra	crier	vblex	ita	gridare	vblex$
+	fra	crier	vblex	ita	gridare	$vblex
 	fra	cristalliser	vblex	ita	cristallizzare	vblex
 	fra	critiquer	vblex	ita	criticare	$vblex
 	fra	croire	vblex	ita	credere	$vblex
@@ -8889,9 +8889,9 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	cultiver	vblex	ita	coltivare	$vblex
 	fra	céder	vblex	ita	cedere	$vblex
 	fra	célébrer	vblex	ita	celebrare	$vblex
-	fra	danser	vblex	ita	ballare	vblex$
+	fra	danser	vblex	ita	ballare	$vblex
 	fra	dater	vblex	ita	datare	vblex$
-	fra	demander	vblex	ita	chiedere	vblex$
+	fra	demander	vblex	ita	chiedere	$vblex
 	fra	demander	vblex	ita	domandare	vblex$
 	fra	demeurer	vblex	ita	permanere	vblex$
 	fra	descendre	vblex	ita	abbassare	$vblex
@@ -8908,7 +8908,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	diffuser	vblex	ita	diffondere	$vblex
 	fra	différencier	vblex	ita	differenziare	$vblex
 	fra	diminuer	vblex	ita	diminuire	$vblex
-	fra	dire	vblex	ita	dire	vblex$
+	fra	dire	vblex	ita	dire	$vblex
 	fra	diriger	vblex	ita	dirigere	$vblex
 	fra	discriminer	vblex	ita	discriminare	vblex$
 	fra	discuter	vblex	ita	conversare	$vblex
@@ -8935,7 +8935,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	duper	vblex	ita	ingannare	$vblex
 	fra	durcir	vblex	ita	indurire	$vblex
 	fra	durcir	vblex	ita	inasprire	$vblex
-	fra	durer	vblex	ita	durare	vblex$
+	fra	durer	vblex	ita	durare	$vblex
 	fra	débarrasser	vblex	ita	togliere	$vblex
 	fra	débiter	vblex	ita	vendere	vblex$
 	fra	débloquer	vblex	ita	sbloccare	$vblex
@@ -9005,7 +9005,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	emporter	vblex	ita	portare	$vblex
 	fra	empreindre	vblex	ita	stampare	$vblex
 	fra	empêcher	vblex	ita	impedire	$vblex
-	fra	encaisser	vblex	ita	mettere	vblex$
+	fra	encaisser	vblex	ita	mettere	$vblex
 	fra	enchanter	vblex	ita	incantare	$vblex
 	fra	encourager	vblex	ita	animare	vblex$
 	fra	encourager	vblex	ita	incentivare	vblex$
@@ -9107,7 +9107,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	gratter	vblex	ita	grattare	$vblex
 	fra	graver	vblex	ita	registrare	vblex$
 	fra	griller	vblex	ita	tostare	vblex$
-	fra	gueuler	vblex	ita	gridare	vblex$
+	fra	gueuler	vblex	ita	gridare	$vblex
 	fra	guider	vblex	ita	guidare	$vblex
 	fra	guérir	vblex	ita	curare	$vblex
 	fra	généraliser	vblex	ita	generalizzare	vblex$
@@ -9122,7 +9122,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	humilier	vblex	ita	umiliare	$vblex
 	fra	hypothéquer	vblex	ita	ipotecare	vblex$
 	fra	héberger	vblex	ita	albergare	vblex$
-	fra	héler	vblex	ita	gridare	vblex$
+	fra	héler	vblex	ita	gridare	$vblex
 	fra	hériter	vblex	ita	ereditare	vblex$
 	fra	hésiter	vblex	ita	vacillare	$vblex
 	fra	identifier	vblex	ita	identificare	$vblex
@@ -9212,7 +9212,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	liquider	vblex	ita	liquidare	$vblex
 	fra	lire	vblex	ita	leggere	$vblex
 	fra	lister	vblex	ita	listare	vblex
-	fra	livrer	vblex	ita	consegnare	vblex$
+	fra	livrer	vblex	ita	consegnare	$vblex
 	fra	localiser	vblex	ita	localizzare	vblex$
 	fra	loger	vblex	ita	alloggiare	$vblex
 	fra	lutter	vblex	ita	combattere	$vblex
@@ -9232,9 +9232,9 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	mener	vblex	ita	portare	$vblex
 	fra	mentionner	vblex	ita	menzionare	$vblex
 	fra	mentir	vblex	ita	mentire	$vblex
-	fra	mettre	vblex	ita	mettere	vblex$
+	fra	mettre	vblex	ita	mettere	$vblex
 	fra	mettre	vblex	ita	porre	$vblex
-	fra	mettre	vblex	ita	apporre	vblex$
+	fra	mettre	vblex	ita	apporre	$vblex
 	fra	mettre	vblex	ita	aggiornare	$vblex
 	fra	militer	vblex	ita	militare	vblex
 	fra	mirer	vblex	ita	guardare	$vblex
@@ -9253,7 +9253,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	multiplier	vblex	ita	moltiplicare	vblex$
 	fra	munir	vblex	ita	provvedere	$vblex
 	fra	murmurer	vblex	ita	mormorare	$vblex
-	fra	mâcher	vblex	ita	masticare	vblex$
+	fra	mâcher	vblex	ita	masticare	$vblex
 	fra	mélanger	vblex	ita	mischiare	vblex$
 	fra	mémoriser	vblex	ita	memorizzare	$vblex
 	fra	mépriser	vblex	ita	disprezzare	$vblex
@@ -9335,7 +9335,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	planifier	vblex	ita	pianificare	vblex$
 	fra	planter	vblex	ita	piantare	$vblex
 	fra	pleurer	vblex	ita	piangere	$vblex
-	fra	pleuvoir	vblex	ita	piovere	vblex$
+	fra	pleuvoir	vblex	ita	piovere	$vblex
 	fra	policer	vblex	ita	civilizzare	vblex
 	fra	pomper	vblex	ita	aspirare	$vblex
 	fra	pondérer	vblex	ita	ponderare	$vblex
@@ -9364,7 +9364,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	programmer	vblex	ita	programmare	$vblex
 	fra	projeter	vblex	ita	progettare	$vblex
 	fra	promener	vblex	ita	passeggiare	$vblex
-	fra	promettre	vblex	ita	promettere	vblex$
+	fra	promettre	vblex	ita	promettere	$vblex
 	fra	promouvoir	vblex	ita	promuovere	$vblex
 	fra	prononcer	vblex	ita	pronunciare	$vblex
 	fra	propager	vblex	ita	propagare	vblex$
@@ -9388,7 +9388,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	prévenir	vblex	ita	prevenire	$vblex
 	fra	prévoir	vblex	ita	prevedere	$vblex
 	fra	prêcher	vblex	ita	predicare	$vblex
-	fra	prêter	vblex	ita	prestare	vblex$
+	fra	prêter	vblex	ita	prestare	$vblex
 	fra	prôner	vblex	ita	raccomandare	$vblex
 	fra	publier	vblex	ita	pubblicare	$vblex
 	fra	punir	vblex	ita	castigare	$vblex
@@ -9444,7 +9444,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	remanier	vblex	ita	adattare	$vblex
 	fra	remarquer	vblex	ita	notare	$vblex
 	fra	remarquer	vblex	ita	osservare	$vblex
-	fra	remettre	vblex	ita	mettere	vblex$
+	fra	remettre	vblex	ita	mettere	$vblex
 	fra	remettre	vblex	ita	questionare	vblex$
 	fra	remonter	vblex	ita	risalire	$vblex
 	fra	remplir	vblex	ita	riempire	$vblex
@@ -9513,10 +9513,10 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	réviser	vblex	ita	revisionare	vblex$
 	fra	révéler	vblex	ita	rivelare	$vblex
 	fra	révéler	vblex	ita	sviluppare	vblex$
-	fra	rêver	vblex	ita	sognare	vblex$
+	fra	rêver	vblex	ita	sognare	$vblex
 	fra	sabrer	vblex	ita	tagliare	$vblex
 	fra	sacrer	vblex	ita	giurare	vblex$
-	fra	sacrifier	vblex	ita	sacrificare	vblex$
+	fra	sacrifier	vblex	ita	sacrificare	$vblex
 	fra	saisir	vblex	ita	prendere	$vblex
 	fra	saisir	vblex	ita	afferrare	$vblex
 	fra	saisir	vblex	ita	captare	$vblex
@@ -9552,7 +9552,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	solder	vblex	ita	saldare	$vblex
 	fra	solliciter	vblex	ita	sollecitare	$vblex
 	fra	sommer	vblex	ita	ordinare	$vblex
-	fra	songer	vblex	ita	sognare	vblex$
+	fra	songer	vblex	ita	sognare	$vblex
 	fra	sonner	vblex	ita	suonare	$vblex
 	fra	sortir	vblex	ita	uscire	vblex$
 	fra	souffler	vblex	ita	soffiare	$vblex
@@ -9577,7 +9577,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	substituer	vblex	ita	sostituire	$vblex
 	fra	subventionner	vblex	ita	sovvenzionare	vblex$
 	fra	succéder	vblex	ita	succedere	$vblex
-	fra	suer	vblex	ita	sudare	vblex$
+	fra	suer	vblex	ita	sudare	$vblex
 	fra	suivre	vblex	ita	seguire	$vblex
 	fra	supplier	vblex	ita	supplicare	vblex$
 	fra	supporter	vblex	ita	sopportare	$vblex
@@ -9663,7 +9663,7 @@ RL	fra	fils	n-m-sp$n-m$n	ita	figlio	n-m$n$n-m-pl$
 	fra	vibrer	vblex	ita	vibrare	$vblex
 	fra	vieillir	vblex	ita	invecchiare	$vblex
 	fra	violer	vblex	ita	violare	$vblex
-	fra	viser	vblex	ita	puntare	vblex$
+	fra	viser	vblex	ita	puntare	$vblex
 	fra	viser	vblex	ita	pretendere	$vblex
 	fra	visiter	vblex	ita	visitare	vblex$
 	fra	visualiser	vblex	ita	visualizzare	vblex

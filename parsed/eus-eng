@@ -47,7 +47,7 @@ RL	eus	buruz	spost	eng	over	pr$
 RL	eus	buruz	spost	eng	at about	pr
 	eus	ekin	post$post-ko	eng	with	pr$
 	eus	ekin	post$post-ko	eng	with	pr$
-	eus	en	post	eng	of	pr
+	eus	en	post	eng	of	pr$
 RL	eus	en	post	eng	from	pr
 RL	eus	en	post	eng	off	pr
 	eus	entzat	post$post-ko	eng	for	pr
@@ -93,7 +93,7 @@ RL	eus	izan ezik	spost	eng	except for	pr
 RL	eus	kanpo	spost	eng	out	pr
 RL	eus	kanpo	spost	eng	outside	pr
 RL	eus	ko	post	eng	from	pr
-	eus	ko	post	eng	of	pr
+	eus	ko	post	eng	of	pr$
 RL	eus	ko	post	eng	off	pr
 	eus	kontra	spost	eng	against	pr
 	eus	ondoan	adv-gen	eng	beside	pr
@@ -196,7 +196,7 @@ RL	eus	edozer	det-indizl-sg	eng	whatever	det-ind$det
 RL	eus	franko	det-ind-sp	eng	many	det-qnt$det$det-qnt-pl
 RL	eus	franko	det-ind-sp	eng	a lot of	det-qnt-sp$det$det-qnt
 RL	eus	franko	det-ind-sp	eng	lots of	det-qnt-sp$det$det-qnt
-	eus	gehiago	det-ind$det-ind-sp	eng	more	det-qnt$det-qnt-sp$det
+	eus	gehiago	det-ind$det-ind-sp	eng	more	det-qnt-sp$det-qnt$det
 RL	eus	gehiegi	det-ind-sp	eng	too many	det-qnt-pl$det-qnt$det
 	eus	gehiegi	det-ind-sp	eng	too much	det-qnt-sg$det-qnt$det
 	eus	gutxi	det-ind-sp	eng	little	det-qnt-sg$det-qnt$det
@@ -209,7 +209,7 @@ RL	eus	gutxien	det-ind-sp	eng	fewer	det-qnt-pl$det$det-qnt
 LR	eus	batto	num	eng	one	num$num-sg$$num-pl-sg
 RL	eus	hainbat	det-indizl-sp	eng	so much	det-qnt-sg$det-qnt$det
 RL	eus	hainbat	det-indizl-sp	eng	so many	det-qnt-pl$det-qnt$det
-RL	eus	hainbat	det-indizl-sp	eng	as much	det-qnt$det-qnt-sg$det
+RL	eus	hainbat	det-indizl-sp	eng	as much	det-qnt$det$det-qnt-sg
 LR	eus	hainbeste	det-indizl-sp	eng	so much	det-qnt-sg$det-qnt$det
 LR	eus	hainbeste	det-indizl-pl	eng	so many	det-qnt-pl$det-qnt$det
 	eus	hamabigarren	adj$adj-izl	eng	twelfth	det-ord-sg
@@ -275,7 +275,7 @@ LR	eus	hainbeste	det-indizl-pl	eng	so many	det-qnt-pl$det-qnt$det
 RL	eus	honenbeste	det-indizl-sp	eng	so much	det-qnt-sg$det-qnt$det
 LR	eus	honenbeste	det-indizl-sp	eng	so much	det-qnt-sg$det-qnt$det
 RL	eus	honenbeste	det-indizl-sp	eng	so many	det-qnt-pl$det-qnt$det
-RL	eus	honenbeste	det-indizl-sp	eng	as much	det-qnt$det-qnt-sg$det
+RL	eus	honenbeste	det-indizl-sp	eng	as much	det-qnt$det$det-qnt-sg
 	eus	hori	det-dem$	eng	this	det-dem$det$det-dem-sg
 LR	eus	horrenbeste	det-indizl-sp	eng	so much	det-qnt-sg$det-qnt$det
 LR	eus	horrenbeste	det-indizl-pl	eng	so many	det-qnt-pl$det-qnt$det
@@ -4928,7 +4928,7 @@ RL	eus	Erresuma Batua	np$np-loc	eng	UK	np-loc$np-loc-sg
 	eus	Joseba	np$np-ant	eng	Joseba	np-ant$np-ant-m-sg
 	eus	Josu	np$np-ant	eng	Josu	np-ant$np$np-ant-m-sg
 	eus	Joxe	np$np-ant	eng	Joxe	np-ant$np-ant-m-sg$
-	eus	Juan	np$np-ant	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m
+	eus	Juan	np$np-ant	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m
 	eus	Juana	np$np-ant	eng	Juana	np-ant$np-ant-f-sg$np
 	eus	Julia	np$np-ant	eng	Julia	np-ant$np$np-ant-f-sg$np-ant-f
 	eus	Julio	np$np-ant	eng	Julio	np-ant$np-ant-m-sg$np
@@ -4963,7 +4963,7 @@ RL	eus	Erresuma Batua	np$np-loc	eng	UK	np-loc$np-loc-sg
 	eus	Maitane	np$np-ant	eng	Maitane	np-ant$np-ant-f-sg
 	eus	Manuel	np$np-ant	eng	Manuel	np-ant$np$np-ant-m$np-ant-m-sg
 	eus	Mari	np$np-ant	eng	Mari	np-ant$np-ant-f-sg$np$np-ant-f
-	eus	Maria	np$np-ant	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg
+	eus	Maria	np$np-ant	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f
 	eus	Mariano	np$np-ant	eng	Mariano	np-ant$np-ant-m-sg$np-ant-m$np
 	eus	Marino	np$np-ant	eng	Marino	np-ant$np-ant-m-sg$np$np-ant-m
 	eus	Marko	np$np-ant	eng	Marko	np-ant$np-ant-m-sg$np$np-ant-m
@@ -4971,7 +4971,7 @@ RL	eus	Erresuma Batua	np$np-loc	eng	UK	np-loc$np-loc-sg
 	eus	Maroko	np$np-loc	eng	Morocco	np-loc$np-loc-sg
 	eus	Martín	np-ant	eng	Martín	np-ant$np$np-ant-m-sg
 	eus	Mexiko	np$np-loc	eng	Mexico	np-loc$np-loc-sg
-	eus	Miguel	np$np-ant	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m
+	eus	Miguel	np$np-ant	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m
 	eus	Mikel	np$np-ant	eng	Mikel	np-ant$np-ant-m-sg$np
 	eus	Milan	np$np-loc	eng	Milan	np-loc$np$np-loc-sg
 	eus	Miren	np-ant$np	eng	Miren	np-ant$np-ant-f-sg
@@ -5143,8 +5143,8 @@ RL	eus	Erresuma Batua	np$np-loc	eng	UK	np-loc$np-loc-sg
 	eus	Raxoi	np$np-ant	eng	Raxoi	np-cog-sg$$np-cog
 	eus	Sanchez	np$np-ant	eng	Sanchez	np-cog-sg$np-cog$$np
 	eus	de Juana	np$np-ant	eng	de Juana	np-cog-sg
-	eus	de la Vega	np$np-ant	eng	de la Vega	$np-cog-sg
-	eus	del Olmo	np$np-ant	eng	del Olmo	$np-cog-sg
+	eus	de la Vega	np$np-ant	eng	de la Vega	np-cog-sg
+	eus	del Olmo	np$np-ant	eng	del Olmo	np-cog-sg
 	eus	ados egon	vblex	eng	approve	vblex$vblex-pprs
 	eus	torlojatu	vblex	eng	screw	vblex
 	eus	gosaldu	vblex	eng	have	vblex
@@ -7716,7 +7716,7 @@ RL	eus	izorratu	vblex	eng	bust	vblex
 	eus	opil	n	eng	bun	n$n-ND
 	eus	kalentura	n	eng	cold sore	n$n-ND
 	eus	kafeina	n	eng	caffeine	n$n-ND
-	eus	kamioneta	n	eng	van	n$n-ND
+	eus	kamioneta	n	eng	van	n$$n-ND
 	eus	kanpadenda	n	eng	tent	n$n-ND
 	eus	kale-argi	n	eng	street light	n$n-ND
 	eus	nafar	n	eng	Navarrese	n-ND
@@ -10160,7 +10160,7 @@ RL	eus	bezero	n	eng	customer	n$n-ND
 	eus	bibote	n	eng	moustache	n$n-ND
 RL	eus	bidaia	n	eng	tour	n$n-ND
 	eus	bidaia	n	eng	journey	n$n-ND
-RL	eus	bidaia	n	eng	travel	n$n-ND
+RL	eus	bidaia	n	eng	travel	n-ND
 RL	eus	bidaia	n	eng	trip	n$n-ND
 	eus	bidaiari	n	eng	traveller	n$n-ND
 	eus	bidaltze	n	eng	dismissal	n$n-ND
@@ -10171,7 +10171,7 @@ RL	eus	bide	n	eng	course	n$n-ND
 RL	eus	bide	n	eng	footpath	n$n-ND
 RL	eus	bide	n	eng	railway	n$n-ND
 	eus	bide-seinale	$n	eng	signpost	n$n-ND
-	eus	bide bilgune	n	eng	road junction	n$n-ND
+	eus	bide bilgune	n	eng	road junction	n-ND
 	eus	bidegabe	n	eng	injustice	n$n-ND
 	eus	bidegabekeria	n	eng	haste	n$n-ND
 RL	eus	bidegurutze	n	eng	crossing	n$n-ND
@@ -10284,7 +10284,7 @@ RL	eus	borroka	n	eng	struggle	n$n-ND
 	eus	bota	n	eng	boot	n-ND
 	eus	bote	n	eng	bounce	n$n-ND
 	eus	botere	n	eng	power	n-ND
-	eus	botika	n	eng	drug	n$n-ND
+	eus	botika	n	eng	drug	n-ND
 	eus	botila	n	eng	bottle	n$n-ND
 	eus	botin	n	eng	booty	n$n-ND
 	eus	boto	n	eng	vote	n$n-ND
@@ -10488,7 +10488,7 @@ RL	eus	distira	n	eng	splendour	n$n-ND
 	eus	dotoretasun	n	eng	elegance	n$n-ND
 	eus	dozena	n	eng	dozen	n$n-ND
 	eus	drama	n	eng	drama	n$n-ND
-	eus	droga	n	eng	drug	n$n-ND
+	eus	droga	n	eng	drug	n-ND
 	eus	duda	n	eng	doubt	n-ND
 	eus	duelu	n	eng	duel	n$n-ND
 	eus	duintasun	n	eng	dignity	n$n-ND
@@ -10988,7 +10988,7 @@ RL	eus	estaldura	n	eng	covering	n$n-ND
 	eus	estandarizazio	n	eng	standardisation	n$n-ND
 	eus	estanpa	n	eng	image	n$n-ND
 	eus	estatu	n	eng	state	n-ND
-	eus	nazio-estatu	n	eng	nation state	n$n-ND
+	eus	nazio-estatu	n	eng	nation state	n-ND
 RL	eus	estatu	n	eng	status	n$n-ND
 	eus	estatu-kolpe	n	eng	coup	n$n-ND
 	eus	estatua	n	eng	statue	n$n-ND
@@ -11173,7 +11173,7 @@ RL	eus	funtzio	n	eng	role	n$n-ND
 RL	eus	funtzionamendu	n	eng	operation	n$n-ND
 	eus	funtzionario	n	eng	civil servant	n$n-ND
 	eus	furfuria	n	eng	fury	n$n-ND
-	eus	furgoneta	n	eng	van	n$n-ND
+	eus	furgoneta	n	eng	van	n$$n-ND
 	eus	fusil	n	eng	rifle	n$n-ND
 	eus	fusio	n	eng	fusion	n$n-ND
 RL	eus	fusio	n	eng	merger	n$n-ND
@@ -11265,7 +11265,7 @@ RL	eus	gasolina	n	eng	gasoline	n-ND
 RL	eus	gastu	n	eng	expense	n-ND
 	eus	gatazka	n	eng	conflict	n-ND
 	eus	gatibu	n	eng	prisoner	n-ND
-	eus	gatz	n	eng	salt	n$n-ND
+	eus	gatz	n	eng	salt	n-ND
 	eus	gatzatu	n	eng	curd	n$n-ND
 	eus	gau	n	eng	night	n$n-ND
 	eus	gauerdi	n	eng	midnight	n$n-ND
@@ -11398,7 +11398,7 @@ RL	eus	grano	n	eng	spot	n$n-ND
 	eus	greba	n	eng	strike	n$n-ND
 	eus	greko	n	eng	Greek	n$n-ND
 	eus	greziar	n	eng	Greek	n$n-ND
-	eus	gripe	n	eng	flu	n$n-ND
+	eus	gripe	n	eng	flu	n-ND
 	eus	guardia	n	eng	guard	n-ND
 	eus	gune	n	eng	place	n$n-ND
 	eus	gupida	n	eng	compassion	n$n-ND
@@ -12102,7 +12102,7 @@ RL	eus	kalte	n	eng	injury	n$n-ND
 RL	eus	kamioi	n	eng	truck	n$n-ND
 	eus	kamioilari	n	eng	lorry driver	n$n-ND
 RL	eus	kamioilari	n	eng	truck driver	n$n-ND
-	eus	kamioneta	n	eng	van	n$n-ND
+	eus	kamioneta	n	eng	van	n$$n-ND
 	eus	kamiseta	n	eng	t-shirt	n$n-ND
 	eus	kanabera	n	eng	cane	n$n-ND
 	eus	kanal	n	eng	channel	n-ND
@@ -12484,11 +12484,11 @@ RL	eus	laster	n	eng	current	n$n-ND
 	eus	laster	n	eng	stream	n-ND
 	eus	lasterbide	n	eng	shortcut	n$n-ND
 	eus	lasterkari	n	eng	runner	n$n-ND
-RL	eus	lasterketa	n	eng	run	n$n-ND
+RL	eus	lasterketa	n	eng	run	n-ND
 	eus	lasterketa	n	eng	race	n$n-ND
 	eus	lastima	n	eng	pity	n-ND
 	eus	lasto	n	eng	straw	n$n-ND
-	eus	lata	n	eng	can	n$n-ND
+	eus	lata	n	eng	can	n-ND
 RL	eus	lata	n	eng	tin	n-ND
 	eus	latin	n	eng	Latin	n$n-ND
 	eus	latindar	n	eng	Latin	n$n-ND
@@ -12550,7 +12550,7 @@ RL	eus	lekualdaketa	n	eng	removal	n$n-ND
 	eus	lesio	n	eng	injury	n$n-ND
 RL	eus	letra	n	eng	handwriting	n$n-ND
 	eus	letra	n	eng	letter	n$n-ND
-RL	eus	letra	n	eng	lyric	n-pl$n
+RL	eus	letra	n	eng	lyric	n$n-pl
 	eus	lexiko	n	eng	vocabulary	n$n-ND
 	eus	liana	n	eng	liane	n$n-ND
 	eus	libertate	n	eng	freedom	n-ND
@@ -12718,7 +12718,7 @@ RL	eus	material	n	eng	stuff	n-ND
 	eus	meatze	n	eng	mine	n-ND
 	eus	medaila	n	eng	medal	n$n-ND
 	eus	mediana	n	eng	median	n$n-ND
-	eus	medikamentu	n	eng	drug	n$n-ND
+	eus	medikamentu	n	eng	drug	n-ND
 	eus	mediku	n	eng	doctor	n$n-ND
 	eus	medikuntza	n	eng	medicine	n$n-ND
 	eus	mehatxu	n	eng	threat	n$n-ND
@@ -13523,7 +13523,7 @@ RL	eus	seduktore	n	eng	seductress	n$n-ND
 	eus	segida	n	eng	sequence	n$n-ND
 RL	eus	segida	n	eng	series	n$n-ND
 RL	eus	segida	n	eng	succession	n$n-ND
-	eus	segundo	n	eng	second	n$n-ND
+	eus	segundo	n	eng	second	n-ND
 RL	eus	segurtasun	n	eng	safety	n-ND
 	eus	segurtasun	n	eng	security	n-ND
 	eus	sehaska	n	eng	cradle	n$n-ND
@@ -14252,7 +14252,7 @@ RL	eus	eskerrak	ij	eng	thanks	ij
 	eus	laurogeita zazpi	num-pl	eng	eighty-seven	num-sp$num
 	eus	laurogeita zortzi	num-pl	eng	eighty-eight	num-sp$num
 	eus	lau	num-pl$num	eng	four	num$num-sp$
-RL	eus	mila	num-pl	eng	ten hundred	num-sp
+RL	eus	mila	num-pl	eng	ten hundred	num$num-sp
 	eus	mila	num-pl	eng	thousand	num$num-sp
 	eus	sei	num-pl$num	eng	six	num$num-sp$
 	eus	zazpi	num-pl$num	eng	seven	num$num-sp$

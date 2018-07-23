@@ -6,7 +6,7 @@
 	eng	Abdías	np-ant$np$np-ant-m-sg	glg	Abdías	np-ant
 	eng	Abdo	np-ant$np-ant-m$$np$np-ant-m-sg	glg	Abdo	np-ant
 	eng	Abdón	np-ant$np-ant-m-sg	glg	Abdón	np$np-ant
-	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg	glg	Abdul	np$np-ant
+	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m	glg	Abdul	np$np-ant
 	eng	Abelardo	np-ant$np$np-ant-m-sg	glg	Abelardo	np$np-ant
 	eng	Abenamar	np-ant$np$np-ant-m-sg	glg	Abenamar	np-ant
 	eng	Aberardo	np-ant$np$np-ant-m-sg	glg	Aberardo	np-ant
@@ -57,7 +57,7 @@
 	eng	Ageo	np-ant$np$np-ant-m-sg	glg	Ageo	np-ant
 	eng	Agilberto	np-ant$np$np-ant-m-sg	glg	Agilberto	np-ant
 	eng	Agripino	np-ant$np$np-ant-m-sg	glg	Agripino	np-ant
-	eng	Agustín	np-ant$np$np-ant-m$np-ant-m-sg	glg	Agustín	np$np-ant
+	eng	Agustín	np-ant$np-ant-m-sg$np$np-ant-m	glg	Agustín	np$np-ant
 	eng	Agusttin	np-ant$np$np-ant-m-sg	glg	Agusttin	np-ant
 	eng	Ahmed	np-ant$np$np-ant-m$np-ant-m-sg$	glg	Ahmed	np$np-ant
 	eng	Aicardo	np-ant$np$np-ant-m-sg	glg	Aicardo	np-ant
@@ -100,7 +100,7 @@
 	eng	Alesis	np-ant$np$np-ant-m-sg	glg	Alesis	np-ant
 	eng	Alessandro	np-ant$np-ant-m$np-ant-m-sg$np	glg	Alessandro	np-ant
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	glg	Alex	np-ant$np$np-ant-m-sg
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	glg	Alexander	np$np-ant$np-ant-m-sg
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	glg	Alexander	np$np-ant$np-ant-m-sg
 	eng	Alexandros	np-ant$np-ant-m$np-ant-m-sg$np	glg	Alexandros	np-ant
 	eng	Alexio	np-ant$np$np-ant-m-sg	glg	Alexio	np-ant
 	eng	Alexis	np-ant$np$np-ant-m$np-ant-m-sg	glg	Alexis	np-ant$np
@@ -831,7 +831,7 @@ LR	eng	Euclides	np-ant$np	glg	Euclides	np-ant$np-ant-m-sg
 	eng	Fulivio	np-ant$np$np-ant-m-sg	glg	Fulivio	np-ant
 	eng	Gabelo	np-ant$np$np-ant-m-sg	glg	Gabelo	np-ant
 	eng	Gabino	np-ant$np$np-ant-m-sg	glg	Gabino	np$np-ant
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	glg	Gabriel	np$np-ant$np-ant-m-sg
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	glg	Gabriel	np$np-ant$np-ant-m-sg
 	eng	Gadiel	np-ant$np$np-ant-m-sg	glg	Gadiel	np-ant
 	eng	Gaetano	np-ant$np-ant-m$np-ant-m-sg$np	glg	Gaetano	np-ant
 	eng	Galdano	np-ant$np$np-ant-m-sg	glg	Galdano	np-ant
@@ -1057,7 +1057,7 @@ LR	eng	Horacio	np-ant$np$np-ant-m-sg	glg	Horacio	np-ant$np$np-ant-m-sg
 	eng	Jalil	np-ant$np$np-ant-m-sg$np-ant-m	glg	Jalil	np-ant
 	eng	James	np-ant$np$np-ant-m$np-ant-m-sg$	glg	James	np$np-ant$np-ant-m-sg
 	eng	Jamil	np-ant$np$np-ant-m-sg	glg	Jamil	np-ant
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	glg	Jan	np$np-ant$np-ant-m-sg
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	glg	Jan	np$np-ant$np-ant-m-sg
 	eng	Jano	np-ant$np$np-ant-m-sg	glg	Jano	np-ant
 	eng	Jason	np-ant$np-ant-m$np-ant-m-sg$np	glg	Jason	np-ant$np
 	eng	Javier	np-ant$np$np-ant-m$np-ant-m-sg	glg	Javier	np$np-ant$np-ant-m-sg
@@ -1072,7 +1072,7 @@ LR	eng	Horacio	np-ant$np$np-ant-m-sg	glg	Horacio	np-ant$np$np-ant-m-sg
 	eng	Jimeno	np-ant$$np$np-ant-m-sg	glg	Jimeno	np-ant
 	eng	Jimy	np-ant$np$np-ant-m-sg	glg	Jimy	np-ant
 	eng	Joab	np-ant$np$np-ant-m$np-ant-m-sg	glg	Joab	np-ant
-	eng	Joan	np-ant$np$np-ant-m-sg	glg	Joan	np$np-ant$np-ant-m-sg
+	eng	Joan	np-ant$np-ant-m-sg$np	glg	Joan	np$np-ant$np-ant-m-sg
 	eng	Joaquin	np-ant$np-ant-m-sg$np$np-ant-m	glg	Joaquin	np-ant
 	eng	Joav	np-ant$np$np-ant-m-sg	glg	Joav	np-ant
 	eng	Job	np-ant$np$np-ant-m-sg	glg	Job	np$np-ant
@@ -1104,13 +1104,13 @@ LR	eng	Horacio	np-ant$np$np-ant-m-sg	glg	Horacio	np-ant$np$np-ant-m-sg
 	eng	Joviano	np-ant$np$np-ant-m-sg	glg	Joviano	np-ant
 	eng	Jovino	np-ant$np$np-ant-m-sg	glg	Jovino	np$np-ant
 	eng	Jovito	np-ant$np$np-ant-m-sg	glg	Jovito	np-ant
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	glg	Juan	np$np-ant$np-ant-m-sg
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	glg	Juan	np$np-ant$np-ant-m-sg
 	eng	Juan Carlos	np-ant$np$np-ant-m-sg	glg	Juan Carlos	np-ant
 	eng	Juan Cruz	np-ant$np$np-ant-m-sg	glg	Juan Cruz	np-ant
 	eng	Juan de Dios	np-ant$np$np-ant-m-sg	glg	Juan de Dios	np-ant
 	eng	Juan de Mata	np-ant$np	glg	Juan de Mata	np-ant
 	eng	Juan Diego de Guadalupe	np-ant$np-ant-m-sg	glg	Juan Diego de Guadalupe	np-ant
-	eng	Juan María	np-ant$np$np-ant-m-sg	glg	Juan María	np-ant
+	eng	Juan María	np-ant$np	glg	Juan María	np-ant
 	eng	Juanse	np-ant$np$np-ant-m-sg	glg	Juanse	np-ant
 	eng	Jubal	np-ant$np$np-ant-m-sg	glg	Jubal	np-ant
 	eng	Judas	np-ant$np$np-ant-m-sg	glg	Judas	np-ant
@@ -1133,7 +1133,7 @@ LR	eng	Horacio	np-ant$np$np-ant-m-sg	glg	Horacio	np-ant$np$np-ant-m-sg
 	eng	Karim	np-ant$np-ant-m$np$np-ant-m-sg$	glg	Karim	np-ant
 	eng	Karol	np-ant$np$np-ant-m-sg	glg	Karol	np-ant$np
 	eng	Kasuhiro	np-ant$np$np-ant-m-sg	glg	Kasuhiro	np-ant
-	eng	Ken	np-ant$np$np-ant-m$np-ant-m-sg	glg	Ken	np$np-ant
+	eng	Ken	np-ant$np$np-ant-m-sg$np-ant-m	glg	Ken	np$np-ant
 	eng	Kenji	np-ant$np$np-ant-m-sg	glg	Kenji	np-ant
 	eng	Kenneth	np-ant$np-ant-m-sg$np$np-ant-m	glg	Kenneth	np-ant
 	eng	Kenyi	np-ant$np$np-ant-m-sg	glg	Kenyi	np-ant
@@ -1315,8 +1315,8 @@ LR	eng	Horacio	np-ant$np$np-ant-m-sg	glg	Horacio	np-ant$np$np-ant-m-sg
 	eng	Micaías	np-ant$np$np-ant-m-sg	glg	Micaías	np-ant
 	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$	glg	Michael	np$np-ant$np-ant-m-sg
 	eng	Michel	np-ant$np$np-ant-m$np-ant-m-sg$	glg	Michel	np$np-ant
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	glg	Miguel	np$np-ant$np-ant-m-sg
-	eng	Miguel de los Santos	np-ant$np$np-ant-m-sg	glg	Miguel de los Santos	np-ant
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	glg	Miguel	np$np-ant$np-ant-m-sg
+	eng	Miguel de los Santos	np-ant$np	glg	Miguel de los Santos	np-ant
 	eng	Mikhail	np-ant$np-ant-m-sg$$np$np-ant-m	glg	Mikhail	np-ant
 	eng	Milad	np-ant$np-ant-m-sg$np	glg	Milad	np-ant
 	eng	Milcíades	np-ant$np	glg	Milcíades	np-ant
@@ -1644,7 +1644,7 @@ LR	eng	Plutarco	np-ant$np	glg	Plutarco	np-ant
 	eng	Sinesio	np-ant$np$np-ant-m-sg	glg	Sinesio	np-ant
 	eng	Sinforiano	np-ant$np$np-ant-m-sg	glg	Sinforiano	np-ant
 	eng	Sinforoso	np-ant$np$np-ant-m-sg	glg	Sinforoso	np-ant
-	eng	Sinibaldo	np-ant$np$np-ant-m-sg	glg	Sinibaldo	np-ant
+	eng	Sinibaldo	np-ant$np-ant-m-sg$np	glg	Sinibaldo	np-ant
 	eng	Sinuhé	np-ant$np$np-ant-m-sg	glg	Sinuhé	np-ant
 	eng	Sión	np-ant$np-ant-m-sg	glg	Sión	np-ant
 	eng	Siro	np-ant$np-ant-m-sg$np$np-ant-m	glg	Siro	np$np-ant
@@ -1811,7 +1811,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Wifredo	np-ant$np$np-ant-m-sg	glg	Wifredo	np-ant
 	eng	Wilfredo	np-ant$np$np-ant-m-sg	glg	Wilfredo	np-ant
 	eng	Wilfrido	np-ant$np$np-ant-m-sg	glg	Wilfrido	np-ant
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	glg	William	np$np-ant$np-ant-m-sg
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	glg	William	np$np-ant$np-ant-m-sg
 	eng	Williams	np-ant$np$np-ant-m$np-ant-m-sg$	glg	Williams	np$np-ant
 	eng	Willinton	np-ant$np$np-ant-m-sg	glg	Willinton	np-ant
 	eng	Wilson	np-ant$np$np-ant-m-sg$np-ant-m$	glg	Wilson	np$np-ant$np-ant-m-sg
@@ -2576,7 +2576,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Jidit	np-ant$np$np-ant-f-sg	glg	Jidit	np-ant
 	eng	Jidith	np-ant$np$np-ant-f-sg	glg	Jidith	np-ant
 	eng	Jimena	np-ant$np$np-ant-f-sg	glg	Jimena	np-ant
-	eng	Joana	np-ant$np-ant-f$np$np-ant-f-sg	glg	Joana	np-ant
+	eng	Joana	np-ant$np-ant-f$np-ant-f-sg$np	glg	Joana	np-ant
 	eng	Joaquina	np-ant$np$np-ant-f-sg	glg	Joaquina	np-ant
 	eng	Jobanela	np-ant$np$np-ant-f-sg	glg	Jobanela	np-ant
 	eng	Johana	np-ant$np-ant-f-sg$np	glg	Johana	np-ant
@@ -3007,7 +3007,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Pía	np-ant$np$np-ant-f-sg	glg	Pía	np-ant
 	eng	Piedad	np-ant$np$np-ant-f-sg	glg	Piedad	np-ant
 	eng	Pierina	np-ant$np$np-ant-f-sg	glg	Pierina	np-ant
-	eng	Pilar	np-ant$np$np-ant-f-sg	glg	Pilar	np$np-ant
+	eng	Pilar	np-ant$np-ant-f-sg$np	glg	Pilar	np$np-ant
 	eng	Pilmaiquen	np-ant$np$np-ant-f-sg	glg	Pilmaiquen	np-ant
 	eng	Pilmayquen	np-ant$np$np-ant-f-sg	glg	Pilmayquen	np-ant
 	eng	Plácida	np-ant$np$np-ant-f-sg	glg	Plácida	np-ant
@@ -3103,7 +3103,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Rosángela	np-ant$np$np-ant-f-sg	glg	Rosángela	np-ant
 	eng	Rosario	np-ant$np$np-ant-f-sg	glg	Rosario	np-ant
 	eng	Rosarito	np-ant$np$np-ant-f-sg	glg	Rosarito	np-ant
-	eng	Rosaura	np-ant$np$np-ant-f-sg	glg	Rosaura	np-ant
+	eng	Rosaura	np-ant$np-ant-f-sg$np	glg	Rosaura	np-ant
 	eng	Rosenda	np-ant$np$np-ant-f-sg	glg	Rosenda	np-ant
 	eng	Rosilda	np-ant$np$np-ant-f-sg	glg	Rosilda	np-ant
 	eng	Rosina	np-ant$np$np-ant-f-sg	glg	Rosina	np-ant
@@ -3980,7 +3980,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Jewel	np-ant$np$np-ant-f-sg	glg	Jewel	np-ant
 	eng	Jillian	np-ant$np$np-ant-f-sg	glg	Jillian	np-ant
 	eng	Jimena	np-ant$np$np-ant-f-sg	glg	Jimena	np-ant
-	eng	Joana	np-ant$np-ant-f$np$np-ant-f-sg	glg	Joana	np-ant
+	eng	Joana	np-ant$np-ant-f$np-ant-f-sg$np	glg	Joana	np-ant
 	eng	Joanna	np-ant$np-ant-f-sg$np	glg	Joanna	np-ant
 	eng	Jocelyn	np-ant$np$np-ant-f-sg	glg	Jocelyn	np-ant
 	eng	Jodie	np-ant$np$np-ant-f-sg	glg	Jodie	np$np-ant
@@ -4208,7 +4208,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Marcella	np-ant$np$np-ant-f-sg	glg	Marcella	np-ant
 	eng	Margaret	np-ant$np$np-ant-f-sg$np-ant-f	glg	Margaret	np$np-ant$np-ant-f-sg
 	eng	Margarita	np-ant$np-ant-f-sg$np	glg	Margarita	np-ant$np$np-ant-f-sg
-	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg	glg	Maria	np$np-ant
+	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f	glg	Maria	np$np-ant
 	eng	Mariah	np-ant$np$np-ant-f-sg	glg	Mariah	np-ant
 	eng	Mariam	np-ant$np-ant-f-sg$np	glg	Mariam	np-ant
 	eng	Mariana	np-ant$np-ant-f-sg$np	glg	Mariana	np-ant
@@ -4538,7 +4538,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Alejandro	np-ant$np-ant-m-sg$np$np-ant-m	glg	Alejandro	np-ant
 	eng	Alessandro	np-ant$np-ant-m$np-ant-m-sg$np	glg	Alessandro	np-ant
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	glg	Alex	np-ant$np$np-ant-m-sg
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	glg	Alexander	np$np-ant$np-ant-m-sg
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	glg	Alexander	np$np-ant$np-ant-m-sg
 	eng	Alexandre	np-ant$np-ant-m-sg$np$np-ant-m	glg	Alexandre	np$np-ant$np-ant-m-sg
 	eng	Alexandro	np-ant$np$np-ant-m-sg	glg	Alexandro	np$np-ant
 	eng	Alexis	np-ant$np$np-ant-m$np-ant-m-sg	glg	Alexis	np-ant$np
@@ -4880,7 +4880,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Freddy	np-ant$np-ant-m-sg$np	glg	Freddy	np-ant$np
 	eng	Frederick	np-ant$np-ant-m-sg$np$np-ant-m	glg	Frederick	np-ant
 	eng	Fredrick	np-ant$np-ant-m-sg$np	glg	Fredrick	np-ant
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	glg	Gabriel	np$np-ant$np-ant-m-sg
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	glg	Gabriel	np$np-ant$np-ant-m-sg
 	eng	Gael	np-ant$np-ant-m-sg$np	glg	Gael	np-ant
 	eng	Gage	np-ant$np$np-ant-m-sg	glg	Gage	np-ant
 	eng	Gaige	np-ant$np$np-ant-m-sg	glg	Gaige	np-ant
@@ -4997,7 +4997,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Jamil	np-ant$np$np-ant-m-sg	glg	Jamil	np-ant
 	eng	Jamir	np-ant$np$np-ant-m-sg	glg	Jamir	np-ant
 	eng	Jamison	np-ant$np$np-ant-m-sg	glg	Jamison	np-ant
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	glg	Jan	np$np-ant$np-ant-m-sg
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	glg	Jan	np$np-ant$np-ant-m-sg
 	eng	Jaquan	np-ant$np$np-ant-m-sg	glg	Jaquan	np-ant
 	eng	Jaquez	np-ant$np$np-ant-m-sg	glg	Jaquez	np-ant
 	eng	Jared	np-ant$np$np-ant-m-sg	glg	Jared	np-ant
@@ -5042,7 +5042,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Jett	np-ant$np$np-ant-m-sg	glg	Jett	np-ant
 	eng	Jevon	np-ant$np$np-ant-m-sg	glg	Jevon	np-ant
 	eng	Jimmy	np-ant$np-ant-m-sg$np$np-ant-m	glg	Jimmy	np$np-ant
-	eng	Joan	np-ant$np$np-ant-m-sg	glg	Joan	np$np-ant$np-ant-m-sg
+	eng	Joan	np-ant$np-ant-m-sg$np	glg	Joan	np$np-ant$np-ant-m-sg
 	eng	Joaquin	np-ant$np-ant-m-sg$np$np-ant-m	glg	Joaquin	np-ant
 	eng	Joe	np-ant$np$np-ant-m$np-ant-m-sg	glg	Joe	np$np-ant$np-ant-m-sg
 	eng	Joel	np-ant$np$np-ant-m-sg$np-ant-m	glg	Joel	np-ant$np$np-ant-m-sg
@@ -5074,7 +5074,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Jovan	np-ant$np-ant-m$np-ant-m-sg$np	glg	Jovan	np-ant
 	eng	Jovani	np-ant$$np$np-ant-m-sg	glg	Jovani	np-ant
 	eng	Jovany	np-ant$np$np-ant-m-sg	glg	Jovany	np-ant
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	glg	Juan	np$np-ant$np-ant-m-sg
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	glg	Juan	np$np-ant$np-ant-m-sg
 	eng	Judah	np-ant$np$np-ant-m$np-ant-m-sg	glg	Judah	np-ant
 	eng	Jude	np-ant$np$np-ant-m-sg$np-ant-m	glg	Jude	np$np-ant
 	eng	Julian	np-ant$np$np-ant-m-sg$np-ant-m	glg	Julian	np$np-ant
@@ -5189,7 +5189,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Malcolm	np-ant$np-ant-m-sg$np$np-ant-m	glg	Malcolm	np-ant
 	eng	Malik	np-ant$np-ant-m-sg$$np$np-ant-m	glg	Malik	np-ant
 	eng	Manuel	np-ant$np$np-ant-m$np-ant-m-sg	glg	Manuel	np$np-ant$np-ant-m-sg
-	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg	glg	Marc	np$np-ant$np-ant-m-sg
+	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m	glg	Marc	np$np-ant$np-ant-m-sg
 	eng	Marcel	np-ant$np-ant-m-sg$np$np-ant-m	glg	Marcel	np-ant$np
 	eng	Marcelo	np-ant$np-ant-m-sg$np$np-ant-m	glg	Marcelo	np$np-ant
 	eng	Marco	np-ant$np-ant-m-sg$np$np-ant-m	glg	Marco	np-ant
@@ -5226,7 +5226,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Micah	np-ant$np$np-ant-m-sg	glg	Micah	np-ant
 	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$	glg	Michael	np$np-ant$np-ant-m-sg
 	eng	Micheal	np-ant$np$np-ant-m-sg	glg	Micheal	np-ant
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	glg	Miguel	np$np-ant$np-ant-m-sg
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	glg	Miguel	np$np-ant$np-ant-m-sg
 	eng	Mike	np-ant$np$np-ant-m$np-ant-m-sg	glg	Mike	np$np-ant$np-ant-m-sg
 	eng	Mikel	np-ant$np-ant-m-sg$np	glg	Mikel	np$np-ant
 	eng	Miles	np-ant$$np$np-ant-m-sg	glg	Miles	np-ant
@@ -5261,7 +5261,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Nick	np-ant$np-ant-m-sg$np$np-ant-m	glg	Nick	np-ant
 	eng	Nickolas	np-ant$np$np-ant-m-sg	glg	Nickolas	np-ant
 	eng	Nico	np-ant$np-ant-m-sg$np$np-ant-m	glg	Nico	np$np-ant
-	eng	Nicolas	np-ant$np$np-ant-m$np-ant-m-sg	glg	Nicolas	np$np-ant$np-ant-m-sg
+	eng	Nicolas	np-ant$np$np-ant-m-sg$np-ant-m	glg	Nicolas	np$np-ant$np-ant-m-sg
 	eng	Nigel	np-ant$np-ant-m-sg$np-ant-m$np	glg	Nigel	np-ant
 	eng	Nikhil	np-ant$np$np-ant-m-sg	glg	Nikhil	np-ant
 	eng	Nikolas	np-ant$np-ant-m-sg$np	glg	Nikolas	np-ant
@@ -5297,7 +5297,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Phillip	np-ant$np-ant-m-sg$np	glg	Phillip	np-ant
 	eng	Phoenix	np-ant$np$np-ant-m$$np-ant-m-sg	glg	Phoenix	np$np-ant
 	eng	Pierce	np-ant$np$np-ant-m-sg	glg	Pierce	np$np-ant
-	eng	Pierre	np-ant$np$np-ant-m-sg$np-ant-m	glg	Pierre	np$np-ant
+	eng	Pierre	np-ant$np-ant-m-sg$np$np-ant-m	glg	Pierre	np$np-ant
 	eng	Porter	np-ant$$np$np-ant-m-sg	glg	Porter	np-ant
 	eng	Pranav	np-ant$np$np-ant-m-sg	glg	Pranav	np-ant
 	eng	Preston	np-ant$np-ant-m-sg$$np	glg	Preston	np-ant
@@ -5497,7 +5497,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Wesley	np-ant$np-ant-m-sg$np$np-ant-m	glg	Wesley	np$np-ant
 	eng	Weston	np-ant$np$np-ant-m-sg$$np-ant-m	glg	Weston	np-ant
 	eng	Will	np-ant$np$np-ant-m-sg	glg	Will	np$np-ant
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	glg	William	np$np-ant$np-ant-m-sg
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	glg	William	np$np-ant$np-ant-m-sg
 	eng	Willie	np-ant$np$np-ant-m-sg	glg	Willie	np-ant
 	eng	Wilson	np-ant$np$np-ant-m-sg$np-ant-m$	glg	Wilson	np$np-ant$np-ant-m-sg
 	eng	Winston	np-ant$np-ant-m-sg$np$np-ant-m	glg	Winston	np-ant
@@ -5536,7 +5536,7 @@ LR	eng	Sófocles	np-ant	glg	Sófocles	np$np-ant
 	eng	Albert	np$np-ant$np-ant-m$np-ant-m-sg	glg	Albert	np$np-ant$np-ant-m-sg
 	eng	Alberto	np-ant$np$np-ant-m-sg$np-ant-m	glg	Alberto	np$np-ant$np-ant-m-sg
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	glg	Alex	np-ant$np$np-ant-m-sg
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	glg	Alexander	np$np-ant$np-ant-m-sg
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	glg	Alexander	np$np-ant$np-ant-m-sg
 	eng	Alexandra	np-ant$np$np-ant-f-sg$np-ant-f	glg	Alexandra	np$np-ant$np-ant-f-sg
 	eng	Algeria	np-loc	glg	Alxeria	np$np-loc-f$np-loc-f-sg
 RL	eng	Alicante	np-loc$np	glg	Alicante	np-loc-m$np-loc-m-sg
@@ -5551,7 +5551,7 @@ LR	eng	Andalucia	np-loc$np$np-loc-sg	glg	Andalucía	np$np-loc-f$np-loc-f-sg
 	eng	Ankara	np-loc	glg	Ankara	np$np-loc-f$np-loc-f-sg
 	eng	Anna	np-ant$np$np-ant-f-sg$np-ant-f	glg	Anna	np$np-ant$np-ant-f-sg
 	eng	Anthony	np-ant$np$np-ant-m$np-ant-m-sg	glg	Anthony	np$np-ant$np-ant-m-sg
-	eng	Antoni	np$np-ant$np-ant-m-sg	glg	Antoni	np$np-ant-m-sg
+	eng	Antoni	np$np-ant-m-sg$np-ant	glg	Antoni	np$np-ant-m-sg
 	eng	Antonio	np-ant$np$np-ant-m$np-ant-m-sg	glg	Antonio	np$np-ant$np-ant-m-sg
 	eng	Arabia	np-loc	glg	Arabia	np$np-loc-f$np-loc-f-sg
 	eng	Arafat	np-cog-sg$np$np-cog$	glg	Arafat	np-cog-mf-sp$np
@@ -5690,7 +5690,7 @@ LR	eng	Franco	np-cog-pl	glg	Franco	np-cog-mf-sp$np
 	eng	Frankfurt	np-loc$np	glg	Frankfurt	np$np-loc-m$np-loc-m-sg
 	eng	Fujimori	np-cog-sg$$np$np-cog	glg	Fujimori	np-cog-mf-sp$np
 LR	eng	Fujimori	np-cog-pl	glg	Fujimori	np-cog-mf-sp$np
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	glg	Gabriel	np$np-ant$np-ant-m-sg
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	glg	Gabriel	np$np-ant$np-ant-m-sg
 	eng	Gabriela	np-ant$np$np-ant-f-sg$np-ant-f	glg	Gabriela	np$np-ant$np-ant-f-sg
 RL	eng	Galicia	np-loc$np$$np-loc-sg	glg	Galicia	np$np-loc-f$np-loc-f-sg
 	eng	Galicia	np-loc$np$$np-loc-sg	glg	Galiza	np$np-loc-f$np-loc-f-sg
@@ -5751,14 +5751,14 @@ RL	eng	Ibiza	np-loc$np	glg	Eivissa	np$np-loc-f$np-loc-f-sg
 	eng	Jaime	np-ant$np$np-ant-m-sg	glg	Jaime	np$np-ant$np-ant-m-sg
 	eng	Jamaica	np-loc	glg	Xamaica	np$np-loc-f$np-loc-f-sg
 	eng	James	np-ant$np$np-ant-m$np-ant-m-sg$	glg	James	np$np-ant$np-ant-m-sg
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	glg	Jan	np$np-ant$np-ant-m-sg
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	glg	Jan	np$np-ant$np-ant-m-sg
 	eng	Jane	np-ant$np$np-ant-f-sg$np-ant-f	glg	Jane	np$np-ant$np-ant-f-sg
 	eng	Japan	np-loc$np-loc-sg	glg	Xapón	np$np-loc-m$np-loc-m-sg
 	eng	Jaume	np$np-ant$np-ant-m-sg	glg	Jaume	np$np-ant-m-sg
 	eng	Javier	np-ant$np$np-ant-m$np-ant-m-sg	glg	Javier	np$np-ant$np-ant-m-sg
 	eng	Jesus	np$np-ant$np-ant-m$np-ant-m-sg	glg	Jesús	np$np-ant-m-sg$np-ant
 LR	eng	Jesús	np-ant$np$np-ant-m-sg	glg	Jesús	np$np-ant-m-sg$np-ant
-	eng	Joan	np-ant$np$np-ant-m-sg	glg	Joan	np$np-ant$np-ant-m-sg
+	eng	Joan	np-ant$np-ant-m-sg$np	glg	Joan	np$np-ant$np-ant-m-sg
 	eng	Joaquim	np$np-ant$np-ant-m-sg	glg	Joaquim	np$np-ant-m-sg
 	eng	Joe	np-ant$np$np-ant-m$np-ant-m-sg	glg	Joe	np$np-ant$np-ant-m-sg
 	eng	Joel	np-ant$np$np-ant-m-sg$np-ant-m	glg	Joel	np-ant$np$np-ant-m-sg
@@ -5769,10 +5769,10 @@ LR	eng	Jones	np-cog-pl	glg	Jones	np-cog-mf-sp$np
 	eng	Jordan	np-loc$np-loc-sg	glg	Xordania	np$np-loc-f$np-loc-f-sg
 	eng	Jordi	np-ant$np$np-ant-m-sg	glg	Jordi	np$np-ant$np-ant-m-sg
 	eng	Jorge	np-ant$np$np-ant-m-sg$np-ant-m	glg	Jorge	np$np-ant$np-ant-m-sg
-	eng	Josep	np$np-ant$np-ant-m$np-ant-m-sg	glg	Josep	np$np-ant-m-sg
+	eng	Josep	np-ant-m-sg$np$np-ant$np-ant-m	glg	Josep	np$np-ant-m-sg
 	eng	Joseph	np-ant$np$np-ant-m$np-ant-m-sg$	glg	Joseph	np$np-ant$np-ant-m-sg
 	eng	José	np-ant$np$np-ant-m-sg$np-ant-m	glg	José	np$np-ant$np-ant-m-sg
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	glg	Juan	np$np-ant$np-ant-m-sg
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	glg	Juan	np$np-ant$np-ant-m-sg
 	eng	Juli	np$np-ant$np-ant-m-sg	glg	Juli	np$np-ant-m-sg
 	eng	Jupiter	np-loc	glg	Xúpiter	np-loc-m
 	eng	Kabul	np-loc	glg	Cabul	np$np-loc-m$np-loc-m-sg
@@ -5793,8 +5793,8 @@ LR	eng	Kennedy	np-cog-pl	glg	Kennedy	np-cog-mf-sp
 	eng	Lithuania	np-loc	glg	Lituania	np$np-loc-f$np-loc-f-sg
 	eng	Lleida	np-loc$np	glg	Lleida	np$np-loc-f$np-loc-f-sg
 RL	eng	Lleida	np-loc$np	glg	Lérida	np-loc-f
-	eng	Lluís	np$np-ant$np-ant-m-sg	glg	Lluís	np$np-ant-m-sg
-RL	eng	Lluís	np$np-ant$np-ant-m-sg	glg	Lluís	np$np-ant-m-sg
+	eng	Lluís	np$np-ant-m-sg$np-ant	glg	Lluís	np$np-ant-m-sg
+RL	eng	Lluís	np$np-ant-m-sg$np-ant	glg	Lluís	np$np-ant-m-sg
 	eng	London	np-loc$np-loc-sg	glg	Londres	np$np-loc-m$np-loc-m-sg
 	eng	Lorena	np-ant$np-ant-f-sg$np	glg	Lorena	np-ant$np$np-ant-f-sg
 	eng	Lorraine	np-loc$np	glg	Lorena	np-loc-f
@@ -5817,10 +5817,10 @@ LR	eng	Mallorca	np-loc$np	glg	Mallorca	np-loc-f$np$np-loc-f-sg
 	eng	Mar	np$np-ant-f-sg$np-ant	glg	Mar	np$np-ant-f-sg
 	eng	Maragall	np-cog-sg$$np$np-cog	glg	Maragall	np-cog-mf-sp$np
 LR	eng	Maragall	np-cog-pl	glg	Maragall	np-cog-mf-sp$np
-	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg	glg	Marc	np$np-ant$np-ant-m-sg
+	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m	glg	Marc	np$np-ant$np-ant-m-sg
 	eng	Margaret	np-ant$np$np-ant-f-sg$np-ant-f	glg	Margaret	np$np-ant$np-ant-f-sg
-	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg	glg	Maria	np$np-ant
-RL	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg	glg	Maria	np$np-ant
+	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f	glg	Maria	np$np-ant
+RL	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f	glg	Maria	np$np-ant
 	eng	Mario	np-ant$np$np-ant-m-sg$np-ant-m	glg	Mario	np$np-ant$np-ant-m-sg
 	eng	Mark	np-ant$np$np-ant-m$np-ant-m-sg	glg	Mark	np$np-ant$np-ant-m-sg
 	eng	Mars	np-loc	glg	Marte	np$np-loc-m$np-loc-m-sg
@@ -5841,7 +5841,7 @@ RL	eng	Mexico	np-loc$np-loc-sg	glg	Méjico	np-loc-m$np-loc-m-sg
 	eng	Miami	np-loc$np	glg	Miami	np$np-loc-f$np-loc-f-sg
 	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$	glg	Michael	np$np-ant$np-ant-m-sg
 	eng	Microsoft	np-al-sg$np-al$np	glg	Microsoft	np$np-al-m$np-al-m-sg
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	glg	Miguel	np$np-ant$np-ant-m-sg
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	glg	Miguel	np$np-ant$np-ant-m-sg
 	eng	Mike	np-ant$np$np-ant-m$np-ant-m-sg	glg	Mike	np$np-ant$np-ant-m-sg
 	eng	Milan	np-loc$np$np-loc-sg	glg	Milán	np$np-loc-m
 	eng	Minnesota	np$np-loc	glg	Minnesota	np-loc-f$np-loc-f-sg
@@ -5868,7 +5868,7 @@ LR	eng	Montesinos	np-cog-pl	glg	Montesinos	np-cog-mf-sp$np
 	eng	New Zealand	np-loc	glg	Nova Zelandia	np$np-loc-f$np-loc-f-sg
 	eng	Nicaragua	np-loc$np-loc-sg	glg	Nicaragua	np$np-loc-f$np-loc-f-sg
 	eng	Nice	np-loc$np	glg	Niza	np-loc-f
-	eng	Nicolas	np-ant$np$np-ant-m$np-ant-m-sg	glg	Nicolas	np$np-ant$np-ant-m-sg
+	eng	Nicolas	np-ant$np$np-ant-m-sg$np-ant-m	glg	Nicolas	np$np-ant$np-ant-m-sg
 	eng	Nicolau	np$np-ant$np-ant-m-sg	glg	Nicolau	np$np-ant-m-sg
 	eng	Nicole	np-ant$np$np-ant-f-sg	glg	Nicole	np-ant$np$np-ant-f-sg
 	eng	Nigeria	np-loc	glg	Nixeria	np$np-loc-f$np-loc-f-sg
@@ -5895,7 +5895,7 @@ LR	eng	Parker	np-cog-pl	glg	Parker	np-cog-mf-sp
 	eng	Paula	np-ant$np$np-ant-f-sg$np-ant-f	glg	Paula	np$np-ant$np-ant-f-sg
 	eng	Peking	np-loc$np$np-loc-sg	glg	Beixing	np-loc-m$np-loc-m-sg
 	eng	Pep	np$np-ant$np-ant-m-sg	glg	Pep	np$np-ant-m-sg
-	eng	Pere	np$np-ant$np-ant-m$np-ant-m-sg	glg	Pere	np$np-ant-m-sg
+	eng	Pere	np$np-ant$np-ant-m-sg$np-ant-m	glg	Pere	np$np-ant-m-sg
 	eng	Peru	np-loc	glg	Perú	np$np-loc-m$np-loc-m-sg
 	eng	Peter	np-ant$np$np-ant-m$np-ant-m-sg	glg	Peter	np$np-ant$np-ant-m-sg
 	eng	Philip	np-ant$np$np-ant-m-sg$np-ant-m$	glg	Philip	np$np-ant$np-ant-m-sg
@@ -6003,14 +6003,14 @@ RL	eng	United Kingdom	np-loc$np-loc-sg	glg	Gran Bretaña	np-loc-f$np-loc-f-sg$np
 	eng	Walter	np-ant$np$np-ant-m-sg$np-ant-m	glg	Walter	np$np-ant$np-ant-m-sg
 	eng	Warsaw	np-loc	glg	Varsovia	np$np-loc-f$np-loc-f-sg
 	eng	Washington	np-loc$np-loc-sg	glg	Washington	np-loc-m
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	glg	William	np$np-ant$np-ant-m-sg
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	glg	William	np$np-ant$np-ant-m-sg
 	eng	Wilson	np-ant$np$np-ant-m-sg$np-ant-m$	glg	Wilson	np$np-ant$np-ant-m-sg
 	eng	Xavier	np-ant$np$np-ant-m-sg$	glg	Xavier	np-ant$np-ant-m-sg$np
 	eng	Yugoslavia	np-loc	glg	Iugoslavia	np$np-loc-f$np-loc-f-sg
 RL	eng	Zimbabwe	np-loc$np-loc-sg	glg	Cimbabue	np-loc-m$np-loc-m-sg
 	eng	Zimbabwe	np-loc$np-loc-sg	glg	Zimbabwe	np-loc-m$np-loc-m-sg
 	eng	Ángel	np-ant$np$np-ant-m-sg	glg	Ángel	np$np-ant-m-sg
-	eng	Xunta de Galicia	np-al-sg$np-al	glg	Xunta de Galicia	np$np-al-f
+	eng	Xunta de Galicia	np-al$np-al-sg	glg	Xunta de Galicia	np$np-al-f
 	eng	Galiza em trânsito	np-al	glg	Galiza em trânsito	np-al-f
 	eng	Manchester United	np-al$np	glg	Manchester United	np-al-m
 	eng	Carlos Casares	np-ant$np$np-ant-m-sg	glg	Carlos Casares	np
@@ -6019,7 +6019,7 @@ RL	eng	Zimbabwe	np-loc$np-loc-sg	glg	Cimbabue	np-loc-m$np-loc-m-sg
 	eng	Casares Quiroga	np-ant$$np	glg	Casares Quiroga	np
 	eng	Albert Camus	np-ant$np$np-ant-m-sg	glg	Albert Camus	np
 	eng	Rafael Nadal	np-ant$np$np-ant-m-sg	glg	Rafael Nadal	np
-	eng	British Airways	np-al$np$np-al-sg	glg	British Airways	np-al-f
+	eng	British Airways	np-al$np	glg	British Airways	np-al-f
 	eng	Czech Republic	np-loc$np-loc-sg	glg	República Checa	np$np-loc-f$np-loc-f-sg
 	eng	Everton	np$np-al	glg	Everton	np$np-al-m
 	eng	Unesco	np$np-al	glg	Unesco	np-al-f
@@ -6075,7 +6075,7 @@ LR	eng	Davies	np-cog-pl	glg	Davies	np-cog-mf-sp
 	eng	Percy	np$np-ant$np-ant-m-sg	glg	Percy	np
 RL	eng	Al-Qaida	np-al	glg	Al-Qaeda	np-al-f
 	eng	Al-Qaida	np-al	glg	Al Qaeda	np-al-f$np
-	eng	Hubble	np-al$np$np-al-sg	glg	Hubble	np$np-al-m
+	eng	Hubble	np-al$np-al-sg$np	glg	Hubble	np$np-al-m
 	eng	Cambridge	np-loc	glg	Cambridge	np$np-loc-m$np-loc-m-sg
 	eng	Oxford	np-loc	glg	Oxford	np$np-loc-m$np-loc-m-sg
 	eng	Newcastle	np-loc	glg	Newcastle	np$np-loc-m
@@ -6201,7 +6201,7 @@ LR	eng	Duarte	np-cog-pl	glg	Duarte	np-cog-mf-sp$np
 	eng	Antía	np-ant$np$np-ant-f-sg	glg	Antía	np
 	eng	Xose	np-ant$np-ant-m-sg$np	glg	Xose	np
 	eng	Xosé	np-ant$np$np-ant-m-sg	glg	Xosé	np
-	eng	Ramón	np-ant$np$np-ant-m-sg	glg	Ramón	np$np-ant-m-sg
+	eng	Ramón	np-ant$np-ant-m-sg$np	glg	Ramón	np$np-ant-m-sg
 	eng	Luz	np-ant$np$np-ant-f-sg	glg	Luz	np$np-ant$np-ant-f-sg
 	eng	Álex	np-ant$np$np-ant-m-sg	glg	Álex	np$np-ant-m-sg
 	eng	Cris	np-ant$np$np-ant-m-sg	glg	Cris	np
@@ -6518,7 +6518,7 @@ LR	eng	Touza	np-cog-pl	glg	Touza	np-cog-mf-sp
 	eng	Touza	np-cog-sg	glg	Touza	np-cog-mf-sp
 	eng	Valdeorras	np-loc	glg	Valdeorras	np$np-loc-f
 	eng	Xulia	np-ant$np$np-ant-f-sg	glg	Xulia	np
-	eng	Xunta	np-al	glg	Xunta	np$np-al-f
+	eng	Xunta	np-al$np-al-sg	glg	Xunta	np$np-al-f
 	eng	The Xunta	np-al	glg	A Xunta	np-al-f
 LR	eng	Picasso	np-cog-pl$np$np-cog$	glg	Picasso	np-cog-mf-sp$np
 	eng	Picasso	np-cog-sg	glg	Picasso	np-cog-mf-sp$np
@@ -6620,7 +6620,7 @@ LR	eng	Beckett	np-cog-pl$np$np-cog$	glg	Beckett	np-cog-mf-sp
 	eng	Beckett	np-cog-sg	glg	Beckett	np-cog-mf-sp
 LR	eng	Hawking	np-cog-pl$$np$np-cog	glg	Hawking	np-cog-mf-sp
 	eng	Hawking	np-cog-sg	glg	Hawking	np-cog-mf-sp
-	eng	Waiting for Godot	np-al$np-al-sg	glg	Á espera de Godot	np-al-m
+	eng	Waiting for Godot	np-al	glg	Á espera de Godot	np-al-m
 	eng	One Thousand and One Nights	np-al-pl	glg	As mil e unha noites	np-al-f-pl
 LR	eng	the One Thousand and One Nights	np-al-pl	glg	As mil e unha noites	np-al-f-pl
 	eng	Wales	np-loc	glg	Gales	np$np-loc-m$np-loc-m-sg
@@ -6789,7 +6789,7 @@ RL	eng	Titanic	np-al	glg	Titánic	np-al-m
 	eng	West Ham	np-al	glg	West Ham	np-al-m
 	eng	Old Trafford	np-al	glg	Old Trafford	np-al-m
 	eng	Manchester City	np-al$np	glg	Manchester City	np-al-m
-	eng	Great Depression	np-al$np-al-sg	glg	Gran Depresión	np-al-f
+	eng	Great Depression	np-al	glg	Gran Depresión	np-al-f
 	eng	Khartoum	np-loc	glg	Cartún	np-loc-f$np-loc-f-sg
 	eng	Stafford	$np-loc	glg	Stafford	np-loc-f
 	eng	Staffordshire	np-loc	glg	Staffordshire	np-loc-f
@@ -6798,7 +6798,7 @@ RL	eng	Titanic	np-al	glg	Titánic	np-al-m
 	eng	Sigmund	np-ant$np-ant-m-sg$np-ant-m$np	glg	Sigmund	np
 	eng	Saint Laurent	np-cog-sg	glg	Saint Laurent	np-cog-mf-sp
 	eng	Yves	np-ant$np-ant-m-sg$np$np-ant-m	glg	Yves	np
-	eng	Benedict XVI	np-ant$np$np-ant-m-sg	glg	Bieito XVI	np$np-ant
+	eng	Benedict XVI	np-ant$np	glg	Bieito XVI	np$np-ant
 	eng	Al Gore	np-ant$np$np-ant-m-sg	glg	Al Gore	np
 	eng	Rio Ferdinand	np-ant$np$np-ant-m-sg	glg	Rio Ferdinand	np
 	eng	Leonardo DiCaprio	np	glg	Leonardo DiCaprio	np
@@ -7092,7 +7092,7 @@ LR	eng	Batallán	np-cog-pl	glg	Batallán	np-cog-mf-sp
 	eng	Bazán	np-al	glg	Bazán	np$np-al-f
 	eng	Verbatim	np-al	glg	Verbatim	np-al-f
 	eng	Apple	np-al$np-al-sg	glg	Apple	np-al-f
-	eng	Microsoft Windows	np-al$np-al-sg	glg	Microsoft Windows	np-al-m
+	eng	Microsoft Windows	np-al	glg	Microsoft Windows	np-al-m
 	eng	United Nations	np$np-al$np-al-pl	glg	Nacións Unidas	np-al-f
 	eng	Trans-Siberian	np-al	glg	Trans-Siberiano	np-al-m
 	eng	Alzheimer	np-al	glg	Alzheimer	np-al-m
@@ -7159,7 +7159,7 @@ LR	eng	Britten	np-cog-pl	glg	Britten	np-cog-mf-sp
 	eng	Brontë	$np-cog-sg	glg	Brontë	np-cog-mf-sp
 LR	eng	Brontë	np-cog-pl	glg	Brontë	np-cog-mf-sp
 	eng	Brussels	np-loc$np-loc-sg	glg	Bruxelas	np$np-loc-f$np-loc-f-sg
-	eng	Buckingham	np$np-loc	glg	Buckingham	np-loc-m
+	eng	Buckingham	np-loc	glg	Buckingham	np-loc-m
 	eng	Buckinghamshire	np-loc	glg	Buckinghamshire	np-loc-m
 	eng	Buenos Aires	np-loc$np	glg	Buenos Aires	np$np-loc-m$np-loc-m-sg
 RL	eng	Buenos Aires	np-loc$np	glg	Bos Aires	np-loc-m$np-loc-m-sg
@@ -7338,7 +7338,7 @@ LR	eng	Feixóo	np-cog-pl	glg	Feixóo	np-cog-mf-sp$np
 LR	eng	Ferrán	np-cog-pl	glg	Ferrán	np-cog-mf-sp$np
 	eng	Ferrara	np-loc	glg	Ferrara	np$np-loc-f
 	eng	Fiat	np-al$np-al-sg	glg	Fiat	np$np-al-f
-	eng	Fidel Castro	np-ant$np$np-ant-m-sg	glg	Fidel Castro	np-ant
+	eng	Fidel Castro	np-ant$np	glg	Fidel Castro	np-ant
 	eng	Figueroa	np-cog-sg	glg	Figueroa	np-cog-mf-sp$np
 LR	eng	Figueroa	np-cog-pl	glg	Figueroa	np-cog-mf-sp$np
 	eng	Financial Times	np-al	glg	Financial Times	np$np-al-m
@@ -7530,11 +7530,11 @@ LR	eng	Lozano	np-cog-pl	glg	Lozano	np-cog-mf-sp$np
 	eng	Luar na Lubre	np-al	glg	Luar na Lubre	np$np-al-m
 	eng	Ludwig	np-ant$np-ant-m-sg	glg	Ludwig	np-ant
 	eng	Clickair	np-al	glg	Clickair	np-al-m$np-al-m-sg
-	eng	Iberia	np-al$np-al-sg	glg	Iberia	np$np-al-f$np-al-f-sg
+	eng	Iberia	np-al-sg$np-al	glg	Iberia	np$np-al-f$np-al-f-sg
 	eng	Renfe	np-al	glg	Renfe	np$np-al-f
 	eng	Ryanair	np-al	glg	Ryanair	np$np-al-f$np-al-f-sg
 	eng	Spanair	np-al$np-al-sg	glg	Spanair	np$np-al-f$np-al-f-sg
-	eng	Aer Lingus	np-al$np$np-al-sg	glg	Aer Lingus	np-al-f
+	eng	Aer Lingus	np-al$np	glg	Aer Lingus	np-al-f
 	eng	Vueling	np-al	glg	Vueling	np-al-f
 	eng	Star Alliance	np-al	glg	Star Alliance	np-al-f
 	eng	American Airlines	np$np-al	glg	American Airlines	np-al-f
@@ -7730,7 +7730,7 @@ LR	eng	Pidal	np-cog-pl	glg	Pidal	np-cog-mf-sp$np
 LR	eng	Pilatos	np-cog-pl	glg	Pilatos	np-cog-mf-sp
 	eng	Pillado	np-cog-sg	glg	Pillado	np-cog-mf-sp
 LR	eng	Pillado	np-cog-pl	glg	Pillado	np-cog-mf-sp
-	eng	Pink Floyd	np-al$np-al-sg	glg	Pink Floyd	np-al-m$np-al-m-sg
+	eng	Pink Floyd	np-al	glg	Pink Floyd	np-al-m$np-al-m-sg
 	eng	Pinter	np-cog-sg	glg	Pinter	np-cog-mf-sp$np
 LR	eng	Pinter	np-cog-pl	glg	Pinter	np-cog-mf-sp$np
 	eng	Piñeiro	np-cog-sg	glg	Piñeiro	np-cog-mf-sp$np
@@ -7922,7 +7922,7 @@ LR	eng	Thatcher	np-cog-pl	glg	Thatcher	np-cog-mf-sp
 	eng	The Homens	np-al	glg	The Homens	np-al-m
 	eng	The Rolling Stones	np-al	glg	The Rolling Stones	np-al-m
 	eng	The Smiths	np-al	glg	The Smiths	np-al-m
-	eng	The Who	np-al$np-al-sg	glg	The Who	np-al-m
+	eng	The Who	np-al	glg	The Who	np-al-m
 	eng	Theodor	np-ant$np-ant-m-sg	glg	Theodor	np-ant
 	eng	Theodor W. Adorno	np-ant	glg	Theodor W. Adorno	np-ant
 	eng	Thomas Malory	np-ant	glg	Thomas Malory	np-ant
@@ -8047,22 +8047,22 @@ LR	eng	Ptolemey	np-ant$$np-ant-m-sg	glg	Ptolomeo	np-ant$np-ant-m-sg
 	eng	John Cabot	np-ant$np-ant-m-sg	glg	John Cabot	np-ant
 	eng	John Paul I	np-ant$np-ant-m-sg	glg	Xoán Paulo I	np-ant
 	eng	John Paul II	np-ant$np-ant-m-sg	glg	Xoán Paulo II	np-ant
-	eng	Benedict I	np-ant$np-ant-m-sg	glg	Bieito I	np-ant
-	eng	Benedict II	np-ant$np-ant-m-sg	glg	Bieito II	np-ant
-	eng	Benedict III	np-ant$np-ant-m-sg	glg	Bieito III	np-ant
-	eng	Benedict IV	np-ant$np-ant-m-sg	glg	Bieito IV	np-ant
-	eng	Benedict V	np-ant$np-ant-m-sg	glg	Bieito V	np-ant
-	eng	Benedict VI	np-ant$np-ant-m-sg	glg	Bieito VI	np-ant
-	eng	Benedict VII	np-ant$np-ant-m-sg	glg	Bieito VII	np-ant
-	eng	Benedict VIII	np-ant$np-ant-m-sg	glg	Bieito VIII	np-ant
-	eng	Benedict IX	np-ant$np-ant-m-sg	glg	Bieito IX	np-ant
-	eng	Benedict X	np-ant$np-ant-m-sg	glg	Bieito X	np-ant
-	eng	Benedict XI	np-ant$np-ant-m-sg	glg	Bieito XI	np-ant
-	eng	Benedict XII	np-ant$np-ant-m-sg	glg	Bieito XII	np-ant
-	eng	Benedict XIII	np-ant$np-ant-m-sg	glg	Bieito XIII	np-ant
-	eng	Benedict XIV	np-ant$np$np-ant-m-sg	glg	Bieito XIV	np-ant
-	eng	Benedict XV	np-ant$np$np-ant-m-sg	glg	Bieito XV	np-ant
-	eng	Benedict XVI	np-ant$np$np-ant-m-sg	glg	Bieito XVI	np$np-ant
+	eng	Benedict I	np-ant	glg	Bieito I	np-ant
+	eng	Benedict II	np-ant	glg	Bieito II	np-ant
+	eng	Benedict III	np-ant	glg	Bieito III	np-ant
+	eng	Benedict IV	np-ant	glg	Bieito IV	np-ant
+	eng	Benedict V	np-ant	glg	Bieito V	np-ant
+	eng	Benedict VI	np-ant	glg	Bieito VI	np-ant
+	eng	Benedict VII	np-ant	glg	Bieito VII	np-ant
+	eng	Benedict VIII	np-ant	glg	Bieito VIII	np-ant
+	eng	Benedict IX	np-ant	glg	Bieito IX	np-ant
+	eng	Benedict X	np-ant	glg	Bieito X	np-ant
+	eng	Benedict XI	np-ant	glg	Bieito XI	np-ant
+	eng	Benedict XII	np-ant	glg	Bieito XII	np-ant
+	eng	Benedict XIII	np-ant	glg	Bieito XIII	np-ant
+	eng	Benedict XIV	np-ant$np	glg	Bieito XIV	np-ant
+	eng	Benedict XV	np-ant$np	glg	Bieito XV	np-ant
+	eng	Benedict XVI	np-ant$np	glg	Bieito XVI	np$np-ant
 	eng	John I	np-ant$np-ant-m-sg	glg	Xoán I	np-ant
 	eng	John II	np-ant$np-ant-m-sg	glg	Xoán II	np-ant
 	eng	John III	np-ant$np-ant-m-sg	glg	Xoán III	np-ant
@@ -8118,12 +8118,12 @@ LR	eng	Ptolemey	np-ant$$np-ant-m-sg	glg	Ptolomeo	np-ant$np-ant-m-sg
 	eng	Elizabeth II	np-ant$np-ant-f-sg$np	glg	Isabel II	np-ant
 	eng	Isabella I of Castile	np-ant$np-ant-f-sg	glg	Isabel I de Castela	np-ant
 	eng	Dracula	np-ant$np-ant-m-sg$np-ant-m	glg	Drácula	np$np-ant
-	eng	Count Dracula	np-ant$np-ant-m-sg	glg	Conde Drácula	np-ant
-	eng	Vlad Dracula	np-ant$np-ant-m-sg	glg	Vlad Draculea	np-ant
-	eng	Vlad Dracula Tepes	np-ant$np-ant-m-sg	glg	Vlad Draculea Tepes	np-ant
-	eng	Vlad III Dracula	np-ant$np-ant-m-sg	glg	Vlad III Draculea	np-ant
-	eng	Vlad III the Impaler	np-ant$np-ant-m-sg	glg	Vlad III o Empalador	np-ant
-	eng	Vlad the Impaler	np-ant$np-ant-m-sg	glg	Vlad o Empalador	np-ant
+	eng	Count Dracula	np-ant	glg	Conde Drácula	np-ant
+	eng	Vlad Dracula	np-ant	glg	Vlad Draculea	np-ant
+	eng	Vlad Dracula Tepes	np-ant	glg	Vlad Draculea Tepes	np-ant
+	eng	Vlad III Dracula	np-ant	glg	Vlad III Draculea	np-ant
+	eng	Vlad III the Impaler	np-ant	glg	Vlad III o Empalador	np-ant
+	eng	Vlad the Impaler	np-ant	glg	Vlad o Empalador	np-ant
 	eng	Albrecht Dürer	np-ant$np-ant-m-sg	glg	Albrecht Dürer	np-ant
 	eng	Alexander the Great	np-ant$np-ant-m$np-ant-m-sg	glg	Alexandre o Grande	np-ant
 	eng	Alexandre Dumas	np-ant$np-ant-m-sg	glg	Alexandre Dumas	np-ant
@@ -8131,8 +8131,8 @@ LR	eng	Ptolemey	np-ant$$np-ant-m-sg	glg	Ptolomeo	np-ant$np-ant-m-sg
 	eng	Albert II of Monaco	np-ant$np-ant-m-sg	glg	Alberte II de Mónaco	np-ant
 	eng	Isocrates	np-ant$np$np-ant-m-sg	glg	Isócrates	np-ant
 	eng	Socrates	np-ant$np$np-ant-m$np-ant-m-sg$	glg	Sócrates	np$np-ant$np-ant-m-sg
-	eng	Mikhail Gorbachev	np-ant$np-ant-m-sg	glg	Mikhail Gorbachev	np-ant
-	eng	Mikhail Sergeyevich Gorbachev	np-ant$np-ant-m-sg	glg	Mikhail Serguéievich Gorbachev	np-ant
+	eng	Mikhail Gorbachev	np-ant	glg	Mikhail Gorbachev	np-ant
+	eng	Mikhail Sergeyevich Gorbachev	np-ant	glg	Mikhail Serguéievich Gorbachev	np-ant
 	eng	Charlemagne	np-ant$np-ant-m-sg	glg	Carlomagno	np-ant$np-ant-m-sg
 	eng	Abelie	np-ant$np-ant-f-sg	glg	Abelie	np-ant
 	eng	Abella	np-ant$$np$np-ant-f-sg	glg	Abella	np-ant
@@ -9001,7 +9001,7 @@ LR	eng	Ptolemey	np-ant$$np-ant-m-sg	glg	Ptolomeo	np-ant$np-ant-m-sg
 	eng	Bettino	np-ant$np-ant-m-sg	glg	Bettino	np-ant
 	eng	Bonaventura	np-ant$np-ant-m$np-ant-m-sg	glg	Bonaventura	np-ant
 	eng	Bonaventure	np-ant$np-ant-m-sg	glg	Bonaventure	np-ant
-	eng	Bono	np-ant$np-ant-m$np-ant-m-sg	glg	Bono	np-ant
+	eng	Bono	np-ant$np-ant-m$np-ant-m-sg$	glg	Bono	np-ant
 	eng	Bram	np-ant$np-ant-m-sg	glg	Bram	np-ant
 	eng	Briant	np-ant$np-ant-m-sg	glg	Briant	np-ant
 	eng	Briefbras	np-ant$np-ant-m-sg	glg	Briefbras	np-ant
@@ -9355,7 +9355,7 @@ LR	eng	Estrabón	np-ant$np-ant-m-sg	glg	Estrabón	np-ant
 	eng	Juergen	np-ant	glg	Juergen	np-ant
 	eng	Jules	np-ant$np-ant-m$np-ant-m-sg	glg	Jules	np-ant
 	eng	Junípero	np-ant$np-ant-m-sg	glg	Junípero	np-ant
-	eng	Jürgen	np-ant$np$np-ant-m$np-ant-m-sg	glg	Jürgen	np-ant
+	eng	Jürgen	np-ant$np-ant-m-sg$np$np-ant-m	glg	Jürgen	np-ant
 	eng	Jurgi	np-ant$np-ant-m-sg	glg	Jurgi	np-ant
 	eng	Juste	np-ant$$np-ant-m-sg	glg	Juste	np-ant
 	eng	Kaká	np-ant$np-ant-m-sg	glg	Kaká	np$np-ant$np-ant-m-sg
@@ -9653,7 +9653,7 @@ LR	eng	Estrabón	np-ant$np-ant-m-sg	glg	Estrabón	np-ant
 	eng	Vittore	np-ant$np-ant-m-sg	glg	Vittore	np-ant
 	eng	Vittorino	np-ant$np-ant-m-sg	glg	Vittorino	np-ant
 	eng	Vivien	np-ant$np$np-ant-f-sg	glg	Vivien	np-ant
-	eng	Vlad	np-ant$np-ant-m$np-ant-m-sg	glg	Vlad	np-ant
+	eng	Vlad	np-ant-m-sg$np-ant$np-ant-m	glg	Vlad	np-ant
 	eng	Waltier	np-ant$np-ant-m-sg	glg	Waltier	np-ant
 	eng	Walt	np-ant$np-ant-m-sg$np$np-ant-m	glg	Walt	np-ant
 	eng	Willelm	np-ant$np-ant-m-sg	glg	Willelm	np-ant
@@ -9666,7 +9666,7 @@ LR	eng	Estrabón	np-ant$np-ant-m-sg	glg	Estrabón	np-ant
 	eng	Zacharie	np-ant$$np-ant-m-sg	glg	Zacharie	np-ant
 	eng	Limerick	np-loc	glg	Limerick	np-loc-m
 	eng	Messiah	np$np-ant$np-ant-f	glg	Mesías	np-ant
-	eng	Abu	np-ant$np$np-ant-m-sg$np-ant-m	glg	Abu	np$np-ant
+	eng	Abu	np-ant$np-ant-m-sg$np$np-ant-m	glg	Abu	np$np-ant
 	eng	Abu Simbel	np-loc	glg	Abu Simbel	np-loc-m
 	eng	Adolph	np-ant$np-ant-m-sg	glg	Adolph	np-ant
 	eng	al-Aqsa	np-al	glg	al-Aqsa	np-al-f
@@ -9716,7 +9716,7 @@ LR	eng	Kovalainen	np-cog-pl	glg	Kovalainen	np-cog-mf-sp
 	eng	Jethro	np$np-ant	glg	Jethro	np-ant
 	eng	Jethro Tull	np-al	glg	Jethro Tull	np-al-m
 	eng	Lancaster	np-loc	glg	Lancaster	np-loc-m
-	eng	Land Rover	np-al$np-al-sg	glg	Land Rover	np-al-m
+	eng	Land Rover	np-al	glg	Land Rover	np-al-m
 	eng	Lindbergh	$np-cog-sg	glg	Lindbergh	np-cog-mf-sp
 LR	eng	Lindbergh	np-cog-pl	glg	Lindbergh	np-cog-mf-sp
 	eng	Luftwaffe	np$np-al	glg	Luftwaffe	np-al-f
@@ -10705,8 +10705,8 @@ RL	eng	Colombian	n	glg	colombiano	n$n-m
 	eng	December	n$n-sg	glg	decembro	n$n-m
 LR	eng	Dutch	n$n-ND	glg	holandés	n-GD
 RL	eng	Dutch	n$n-ND	glg	holandés	n$n-m
-	eng	Dr.	n	glg	Dr.	n-m
-RL	eng	Dr.	n	glg	Dra.	n-f
+	eng	Dr.	n$	glg	Dr.	n-m
+RL	eng	Dr.	n$	glg	Dra.	n-f
 LR	eng	English	n$n-ND	glg	inglés	n-GD
 RL	eng	English	n$n-ND	glg	inglés	n$n-m
 LR	eng	European	n$n-ND	glg	europeo	n-GD
@@ -11520,7 +11520,7 @@ LR	eng	bike	n$n-ND	glg	bicicleta	n-f$n
 	eng	bill	n$n-ND	glg	factura	n$n-f
 	eng	billiard	n$n-pl	glg	billar	n-m$n
 	eng	billion	n$n-acr	glg	mil millóns	n-m
-	eng	bin	n	glg	caldeiro	n-m$n
+	eng	bin	n$	glg	caldeiro	n-m$n
 	eng	binoculars	n$n-pl	glg	prismáticos	n-m$n$n-m-pl
 LR	eng	biographer	n	glg	biógrafo	n-GD
 RL	eng	biographer	n	glg	biógrafo	n$n-m
@@ -11793,7 +11793,7 @@ RL	eng	campaigner	n	glg	defensor	n$n-GD
 LR	eng	camping	n	glg	cámping	n$n-m
 LR	eng	campus	n$n-ND	glg	campus	n$n-m
 RL	eng	campus	n$n-ND	glg	campus	n$n-m
-LR	eng	can	n$n-ND	glg	lata	n-f$n
+LR	eng	can	n$n-sg	glg	lata	n-f$n
 	eng	canalization	n	glg	canalización	n-f$n
 RL	eng	canalization	n	glg	encanamento	n$n-m
 RL	eng	cancer	n$n-ND	glg	cáncer	n$n-m
@@ -13061,8 +13061,8 @@ RL	eng	dropper	n$n-ND	glg	contagotas	n-m$n
 	eng	drought	n$n-sg	glg	seca	n$n-f
 	eng	drove	n	glg	manda	n-f$n
 	eng	drove	n	glg	rabaño	n-m$n
-	eng	drug	n$n-ND	glg	droga	n$n-f
-	eng	drug	n$n-ND	glg	fármaco	n$n-m
+	eng	drug	n$n-sg	glg	droga	n$n-f
+	eng	drug	n$n-sg	glg	fármaco	n$n-m
 LR	eng	drugstore	n	glg	farmacia	n-f$n
 	eng	drum	n$n-sg	glg	bidón	n-m$n
 	eng	drum	n$n-sg	glg	tambor	n-m$n
@@ -13675,8 +13675,8 @@ RL	eng	flour	n$n-sg	glg	fariña	n-f$n
 	eng	flowering	n$n-ND	glg	floración	n-f$n
 	eng	flowerpot	n$n-ND	glg	maceta	n-f$n
 RL	eng	flowerpot	n$n-ND	glg	testo	n$n-m
-RL	eng	flu	n$n-ND	glg	gripallada	n-f$n
-	eng	flu	n$n-ND	glg	gripe	n-f$n
+RL	eng	flu	n$n-sg	glg	gripallada	n-f$n
+	eng	flu	n$n-sg	glg	gripe	n-f$n
 LR	eng	influenza	n	glg	gripe	n-f$n
 	eng	fluctuation	n	glg	flutuación	n-f$n
 	eng	fluff	n	glg	peluxe	n-f
@@ -14919,7 +14919,7 @@ RL	eng	light	n$n-ND	glg	lámpada	n-f$n
 	eng	fixture	n	glg	lámpada	n-f$n
 LR	eng	light bulb	n$n-ND	glg	lámpada	n-f$n
 	eng	lighter	n	glg	chisqueiro	n$n-m
-	eng	lightning	n$n-unc	glg	lóstrego	n$n-m
+	eng	lightning	n$n-sg	glg	lóstrego	n$n-m
 	eng	likeness	n	glg	parecido	n-m
 	eng	lily	n$n-ND	glg	lirio	n-m$n
 RL	eng	limit	n$n-ND	glg	andaboi	n-m$n
@@ -15034,8 +15034,8 @@ RL	eng	lover	n$n-ND	glg	querido	n$n-m
 	eng	lyre	n$n-ND	glg	lira	n-f$n
 	eng	lira	n$n-sg	glg	lira	n-f$n
 	eng	lyric	n-sg	glg	lírica	n-f-sg
-RL	eng	lyric	n-pl$n	glg	lírica	n-f-pl$n
-LR	eng	lyric	n-pl$n	glg	letra	n-f$n$n-f-pl
+RL	eng	lyric	n$n-pl	glg	lírica	n-f-pl$n
+LR	eng	lyric	n$n-pl	glg	letra	n-f$n$n-f-pl
 	eng	lyricism	n	glg	lirismo	n-m$n
 	eng	machine	n$n-sg	glg	máquina	n$n-f
 	eng	machination	n	glg	maquinación	n-f$n
@@ -15413,13 +15413,13 @@ LR	eng	move	n	glg	movemento	n-m$n
 	eng	movement	n$n-ND	glg	movemento	n-m$n
 	eng	movie	n$n-ND	glg	película	n-f$n
 	eng	movie	n$n-ND	glg	filme	n-m$n
-LR	eng	Mr.	n	glg	Señor	n-m
-LR	eng	Mrs.	n$n-sg	glg	Señor	n-f
-LR	eng	Ms.	n	glg	Señor	n-f
-RL	eng	Mr.	n	glg	Sr.	n-m
-RL	eng	Mrs.	n$n-sg	glg	Sra.	n-f
-RL	eng	Mr.	n	glg	don	n-m$n
-RL	eng	Mrs.	n$n-sg	glg	dono	n-f$n
+LR	eng	Mr.	n$	glg	Señor	n-m
+LR	eng	Mrs.	n$$n-sg	glg	Señor	n-f
+LR	eng	Ms.	n$	glg	Señor	n-f
+RL	eng	Mr.	n$	glg	Sr.	n-m
+RL	eng	Mrs.	n$$n-sg	glg	Sra.	n-f
+RL	eng	Mr.	n$	glg	don	n-m$n
+RL	eng	Mrs.	n$$n-sg	glg	dono	n-f$n
 	eng	Miss	n$	glg	señorito	n-f
 RL	eng	young gentleman	n	glg	señorito	n-m$n
 	eng	mud	n$n-ND	glg	barro	n-m$n
@@ -16823,7 +16823,7 @@ RL	eng	rule	n$n-sg	glg	normativa	n-f$n
 LR	eng	ruler	n$n-sg	glg	gobernante	n-GD
 RL	eng	ruler	n$n-sg	glg	gobernante	n$n-m
 	eng	rumble	n	glg	ruído	n-m$n
-LR	eng	run	n$n-ND	glg	carreira	n-f$n
+LR	eng	run	n$n-sg	glg	carreira	n-f$n
 LR	eng	runner	n$n-ND	glg	corredor	n-GD
 RL	eng	runner	n$n-ND	glg	corredor	n$n-m
 	eng	rupee	n	glg	rupia	n-f
@@ -16851,7 +16851,7 @@ LR	eng	salary	n$n-sg	glg	salario	n-m$n
 	eng	sale	n$n-ND	glg	venda	n$n-f
 	eng	salinity	n$n-ND	glg	salinidade	n-f$n
 	eng	saliva	n	glg	saliva	n-f$n
-	eng	salt	n$n-ND	glg	sal	n-m
+	eng	salt	n$n-sg	glg	sal	n-m
 	eng	salvation	n$n-ND	glg	salvación	n$n-f
 	eng	sample	n	glg	mostra	n$n-f
 	eng	sanatorium	n	glg	sanatorio	n-m$n
@@ -16972,7 +16972,7 @@ RL	eng	seat	n$n-ND	glg	localidade	n-f$n
 	eng	seaweed	n	glg	alga	n$n-f
 	eng	secession	n	glg	secesión	n-f
 	eng	seclusion	n	glg	reclusión	n$n-f
-	eng	second	n$n-ND	glg	segundo	n$n-m
+	eng	second	n$n-sg	glg	segundo	n$n-m
 	eng	secrecy	n$n-sg	glg	clandestinidade	n$n-f
 RL	eng	secret	n$n-ND	glg	reviravolta	n-f$n
 	eng	secret	n$n-ND	glg	segredo	n$n-m
@@ -17687,8 +17687,8 @@ RL	eng	tax	n$n-ND	glg	gabela	n-f
 RL	eng	tax	n$n-ND	glg	trabuco	n-m$n
 RL	eng	rate	n$n-ND	glg	taxa	n-f$n
 RL	eng	tax	n$n-ND	glg	taxa	n-f$n
-RL	eng	income tax	n$n-ND	glg	IRPF	n$n-acr-m$n-acr-m-sg
-	eng	income tax	n$n-ND	glg	imposto	n-m$n$n-m-pl
+RL	eng	income tax	n	glg	IRPF	n$n-acr-m$n-acr-m-sg
+	eng	income tax	n	glg	imposto	n-m$n$n-m-pl
 LR	eng	taxation	n$n-sg	glg	imposto	n-m$n$n-m-pl
 LR	eng	taxation	n-pl	glg	imposto	n-m$n$n-m-pl
 	eng	taxi	n$n-sg	glg	taxi	n$n-m
@@ -17949,7 +17949,7 @@ RL	eng	traumatism	n	glg	traumatismo	n-m$n
 LR	eng	traumatologist	n	glg	traumatólogo	n$n-GD
 RL	eng	traumatologist	n	glg	traumatólogo	n$n-GD
 	eng	traumatology	n$n-sg	glg	traumatoloxía	n-f
-	eng	travel	n$n-ND	glg	viaxe	n-f$n
+	eng	travel	n$n-sg	glg	viaxe	n-f$n
 LR	eng	traveller	n$n-ND	glg	viaxeiro	n$n-GD
 LR	eng	traveler	n$n-sg	glg	viaxeiro	n$n-GD
 RL	eng	traveller	n$n-ND	glg	viaxeiro	n$n-GD
@@ -18123,9 +18123,9 @@ LR	eng	vacation	n-pl	glg	vacacións	n-f-pl$n
 	eng	valuation	n	glg	taxación	n-f
 	eng	value	n$n-sg	glg	valor	n-m$n
 	eng	vampire	n	glg	vampiro	n-m$n
-RL	eng	van	n$n-ND	glg	camioneta	n$n-f
-	eng	van	n$n-ND	glg	furgoneta	n-f$n
-RL	eng	van	n$n-ND	glg	furgón	n-m$n
+RL	eng	van	n$$n-ND	glg	camioneta	n$n-f
+	eng	van	n$$n-ND	glg	furgoneta	n-f$n
+RL	eng	van	n$$n-ND	glg	furgón	n-m$n
 	eng	vandalism	n	glg	vandalismo	n-m$n
 	eng	vanity	n$n-sg	glg	vaidade	n$n-f
 	eng	variability	n$n-ND	glg	variabilidade	n-f$n
@@ -20598,8 +20598,8 @@ RL	eng	all	predet-sp$predet	glg	todo	predet$predet-m
 LR	eng	a	det-ind-sg$det-ind$det$	glg	un	det$det-ind-GD
 RL	eng	a	det-ind-sg$det-ind$det$	glg	un	det-ind-m-sg
 RL	eng	a	det-ind-sg$det-ind$det$	glg	un	det-ind-f-sg
-LR	eng	a few	det-qnt-pl$det$det-qnt	glg	uns cantos	det$det-qnt-GD
-RL	eng	a few	det-qnt-pl$det$det-qnt	glg	uns cantos	det$det-qnt-GD
+LR	eng	a few	det$det-qnt$det-qnt-pl	glg	uns cantos	det$det-qnt-GD
+RL	eng	a few	det$det-qnt$det-qnt-pl	glg	uns cantos	det$det-qnt-GD
 LR	eng	a lot of	det-qnt-sp$det$det-qnt	glg	moito	det-qnt$det-qnt-GD$det-qnt-GD-ND$det
 RL	eng	a lot of	det-qnt-sp$det$det-qnt	glg	moito	det-qnt$det-qnt-GD$det-qnt-GD-ND$det
 LR	eng	another	det-ind$det-ind-sg$det	glg	outro	det-ind-GD-sg
@@ -20636,7 +20636,7 @@ RL	eng	little	det-qnt-sg$det-qnt$det	glg	pouco	det-qnt-m-sg
 RL	eng	little	det-qnt-sg$det-qnt$det	glg	pouco	det-qnt-f-sg
 LR	eng	lots of	det-qnt-sp$det$det-qnt	glg	moito	det-qnt$det-qnt-GD$det-qnt-GD-ND$det
 LR	eng	most	det-qnt$det-qnt-sp$det	glg	a maioría de	det-qnt-mf-sp
-LR	eng	the most	det-qnt-sp$det$det-qnt	glg	a maioría de	det-qnt-mf-sp
+LR	eng	the most	det-qnt-sp$det	glg	a maioría de	det-qnt-mf-sp
 	eng	most of	det-qnt-sp$det	glg	a maioría de	det-qnt-mf-sp
 LR	eng	much	det-qnt$det-qnt-sg$det	glg	moito	det-qnt$det-qnt-GD$det-qnt-GD-ND$det
 LR	eng	many	det-qnt$det$det-qnt-pl	glg	moito	det-qnt$det-qnt-GD$det-qnt-GD-ND$det
@@ -20644,7 +20644,7 @@ RL	eng	my	det-pos-sp$det-pos$det	glg	meu	det-pos$det$det-pos-m
 RL	eng	my	det-pos-sp$det-pos$det	glg	o meu	det-pos$det$det-pos-GD
 LR	eng	my	det-pos-sp$det-pos$det	glg	o meu	det-pos-m$det-pos-m-ND
 LR	eng	my	det-pos-sp$det-pos$det	glg	o meu	det-pos-f$det-pos-f-ND
-	eng	more	det-qnt$det-qnt-sp$det	glg	máis	det-qnt-mf-sp
+	eng	more	det-qnt-sp$det-qnt$det	glg	máis	det-qnt-mf-sp
 LR	eng	no	det-ind-sp$det-ind$det	glg	ningún	det-ind$det-ind-GD$det-ind-GD-sg
 RL	eng	other	det-ind-pl$det-ind$det$det-ind-mf-pl	glg	demais	det$det-ind
 RL	eng	other	det-ind-pl$det-ind$det$det-ind-mf-pl	glg	outro	det-ind-f-pl
@@ -20675,7 +20675,7 @@ RL	eng	how much	det-itg-sg$det-itg$det	glg	canto	det-itg-f-sg
 LR	eng	whose	det-itg$det-itg-sp$det	glg	de quen	det-itg-mf
 LR	eng	such	det-ind-sp$det-ind$det	glg	tal	det$det-ind$det-ind-mf$det-ind-mf-ND
 RL	eng	such	det-ind-sp$det-ind$det	glg	tal	det$det-ind$det-ind-mf$det-ind-mf-ND
-LR	eng	such a	det-ind$det$det-ind-sg	glg	tal	det$det-ind$det-ind-mf$det-ind-mf-ND
+LR	eng	such a	det-ind$det	glg	tal	det$det-ind$det-ind-mf$det-ind-mf-ND
 LR	eng	that	det-dem$det$det-dem-sg	glg	aquel	det-dem$det$det-dem-GD
 RL	eng	that	det-dem$det$det-dem-sg	glg	aquel	det-dem$det$det-dem-GD
 LR	eng	the	det$det-def-sp$det-def	glg	o	det-def-GD$det-def-GD-ND
@@ -29647,18 +29647,18 @@ LR	eng	yourselves	prn-ref-p2-mf-pl$prn	glg	prpers	prn-tn-p2-m-pl
 RL	eng		$num$num-ord$num-ord-m-sg	glg	se	prn-pro$prn-pro-ref$prn-pro-ref-p3-mf-sp
 RL	eng		$num$num-ord$num-ord-m-sg	glg	se	prn-enc$prn-enc-ref$prn-enc-ref-p3-mf-sp
 	eng	that	rel$rel-an-mf-sp$rel-an	glg	que	rel$rel-an
-LR	eng	the one which	rel-nn-mf-sg$prn-rel-nn-mf-sg	glg	o que	rel-nn-m-sg
-RL	eng	the one who	rel-nn-mf-sg$prn-rel-nn-mf-sg	glg	o que	rel-nn-f-sg
-LR	eng	the ones that	rel-nn-mf-pl$prn-rel-nn-mf-pl	glg	o que	rel-nn-GD-pl
-LR	eng	the ones who	rel-nn-mf-pl$prn-rel-nn-mf-pl	glg	o que	rel-nn-GD-pl
-LR	eng	the one who	rel-nn-mf-sg$prn-rel-nn-mf-sg	glg	quen	rel-nn-mf-sp$rel-nn
-LR	eng	those who	rel-nn-mf-pl$prn-rel-nn-mf-pl	glg	quen	rel-nn-mf-sp$rel-nn
+LR	eng	the one which	rel-nn-mf-sg	glg	o que	rel-nn-m-sg
+RL	eng	the one who	rel-nn-mf-sg	glg	o que	rel-nn-f-sg
+LR	eng	the ones that	rel-nn-mf-pl	glg	o que	rel-nn-GD-pl
+LR	eng	the ones who	rel-nn-mf-pl	glg	o que	rel-nn-GD-pl
+LR	eng	the one who	rel-nn-mf-sg	glg	quen	rel-nn-mf-sp$rel-nn
+LR	eng	those who	rel-nn-mf-pl	glg	quen	rel-nn-mf-sp$rel-nn
 RL	eng	who	rel$rel-an$prn-rel-an-mf-sp$rel-an-mf-sp	glg	quen	rel-nn-mf-sp$rel-nn
-RL	eng	the one who	rel-nn-mf-sg$prn-rel-nn-mf-sg	glg	quen	rel-nn-mf-sp$rel-nn
-	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl	glg	o que	rel-nn-m-pl
-RL	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl	glg	o que	rel-nn-f-pl
-RL	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl	glg	canto	rel$rel-nn$rel-nn-f-pl
-RL	eng	those that	rel-nn-mf-pl$prn-rel-nn-mf-pl	glg	canto	rel-nn-m-pl
+RL	eng	the one who	rel-nn-mf-sg	glg	quen	rel-nn-mf-sp$rel-nn
+	eng	those that	rel-nn-mf-pl	glg	o que	rel-nn-m-pl
+RL	eng	those that	rel-nn-mf-pl	glg	o que	rel-nn-f-pl
+RL	eng	those that	rel-nn-mf-pl	glg	canto	rel$rel-nn$rel-nn-f-pl
+RL	eng	those that	rel-nn-mf-pl	glg	canto	rel-nn-m-pl
 RL	eng	what	rel-nn-mf-sg$rel-nn$rel-nn-mf$prn-rel-nn-mf-sg$rel	glg	canto	rel-nn-f-sg
 RL	eng	what	rel-nn-mf-sg$rel-nn$rel-nn-mf$prn-rel-nn-mf-sg$rel	glg	canto	rel-nn-m-sg
 	eng	where	rel-adv$rel	glg	onde	rel-adv$rel
@@ -29775,7 +29775,7 @@ LR	eng	into	pr	glg	a	pr
 	eng	like	pr	glg	como	pr
 RL	eng	near	pr	glg	cerca de	pr
 	eng	near	pr	glg	preto de	pr
-	eng	of	pr	glg	de	pr
+	eng	of	pr$	glg	de	pr
 LR	eng	off	pr	glg	de	pr
 LR	eng	opposite	pr	glg	en fronte de	pr
 	eng	on	pr	glg	sobre	pr
@@ -29888,44 +29888,44 @@ LR	eng	in their midst	pr	glg	entre eles	pr
 	eng		$num$num-ord$num-ord-m-sg	glg		$num$num-percent
 	eng		$num$num-ord$num-ord-m-sg	glg		$num$num-percent
 	eng		$num$num-ord$num-ord-m-sg	glg		$num$num-percent
-LR	eng	a million	num$num-pl	glg	un millón	num-mf
+LR	eng	a million	num	glg	un millón	num-mf
 	eng	eighteen	num$num-sp$	glg	dezaoito	num$num-mf
-LR	eng	eighteen hundred	num$num-pl	glg	mil oitocentos	num-GD
+LR	eng	eighteen hundred	num	glg	mil oitocentos	num-GD
 	eng	eighteen thousand	num-sp$num	glg	dezaoito mil	num-mf
 	eng	eleven	num$num-sp$	glg	once	num$num-mf
-LR	eng	eleven hundred	num$num-pl	glg	mil cen	num-mf
+LR	eng	eleven hundred	num	glg	mil cen	num-mf
 	eng	eleven thousand	num-sp$num	glg	once mil	num-mf
 	eng	fifteen	num$num-sp$	glg	quince	num$num-mf
-LR	eng	fifteen hundred	num$num-pl	glg	mil quiñentos	num-GD
+LR	eng	fifteen hundred	num	glg	mil quiñentos	num-GD
 	eng	fifteen thousand	num-sp$num	glg	quince mil	num-mf
 	eng	fourteen	num$num-sp$	glg	catorce	num$num-mf
-LR	eng	fourteen hundred	num$num-pl	glg	mil catrocentos	num-GD
+LR	eng	fourteen hundred	num	glg	mil catrocentos	num-GD
 	eng	fourteen thousand	num-sp$num	glg	catorce mil	num-mf
 	eng	billion	num$num-pl	glg	mil millóns	num-mf
 	eng	million	num$num-sp	glg	millón	num$num-mf
 RL	eng	million	num$num-sp	glg	millón de	num-mf
 	eng	nineteen	num$num-sp$	glg	dezanove	num$num-mf
-LR	eng	nineteen hundred	num$num-pl	glg	mil novecentos	num-GD
+LR	eng	nineteen hundred	num	glg	mil novecentos	num-GD
 	eng	nineteen thousand	num-sp$num	glg	dezanove mil	num-mf
 LR	eng	one	num$num-sg$$num-pl-sg	glg	un	num$num-GD
-	eng	one million	num$num-pl	glg	un millón	num-mf
-RL	eng	one million	num$num-pl	glg	un millón de	num-mf
+	eng	one million	num	glg	un millón	num-mf
+RL	eng	one million	num	glg	un millón de	num-mf
 	eng	seventeen	num$num-sp$	glg	dezasete	num$num-mf
-LR	eng	seventeen hundred	num$num-pl	glg	mil setecentos	num-GD
+LR	eng	seventeen hundred	num	glg	mil setecentos	num-GD
 	eng	seventeen thousand	num-sp$num	glg	dezasete mil	num-mf
 	eng	sixteen	num$num-sp$	glg	dezaseis	num$num-mf
-LR	eng	sixteen hundred	num$num-pl	glg	mil seiscentos	num-GD
+LR	eng	sixteen hundred	num	glg	mil seiscentos	num-GD
 	eng	sixteen thousand	num-sp$num	glg	dezaseis mil	num-mf
 RL	eng	ten	num$num-sp$	glg	decena	n$n-f-sg$n-f
 	eng	ten	num$num-sp$	glg	dez	num$num-mf
-LR	eng	ten hundred	num$num-pl	glg	mil	num$num-mf$num-mf-sp
+LR	eng	ten hundred	num$num-sp	glg	mil	num$num-mf$num-mf-sp
 	eng	ten thousand	num-sp$num	glg	dez mil	num-mf
 	eng	thirteen	num$num-sp$	glg	trece	num$num-mf
-LR	eng	thirteen hundred	num$num-pl	glg	mil trescentos	num-GD
+LR	eng	thirteen hundred	num	glg	mil trescentos	num-GD
 	eng	thirteen thousand	num-sp$num	glg	trece mil	num-mf
 LR	eng	thousand	num$num-sp	glg	mil	num$num-mf$num-mf-sp
 	eng	twelve	num$num-sp$	glg	doce	num$num-mf
-LR	eng	twelve hundred	num$num-pl	glg	mil douscentos	num-GD
+LR	eng	twelve hundred	num	glg	mil douscentos	num-GD
 	eng	twelve thousand	num-sp$num	glg	doce mil	num-mf
 LR	eng	a	det-ind-sg$det-ind$det$	glg		$num$num-percent
 	eng	eight	num$num-sp$	glg	oito	num$

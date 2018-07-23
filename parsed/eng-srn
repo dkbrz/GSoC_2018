@@ -33,8 +33,8 @@ RL	eng	prpers	prn-subj-p2-mf-sp$prn-p2$prn-subj-p2-mf	srn	prpers	prn-subj-p2-pl
 	eng	prpers	det-pos-p3-m-sg	srn	prpers	det-pos-p3-sg
 	eng	prpers	det-pos-p3-f-sg	srn	prpers	det-pos-p3-sg
 	eng	myself	prn-ref-p1-mf-sg$prn-ref-p1$prn$prn-p1$prn-ref-p1-mf	srn	misrefi	prn-ref-p1-sg
-	eng	of	pr	srn	fu	pr
-	eng	the other	prn-dem-mf$prn	srn	a	prn-dem
+	eng	of	pr$	srn	fu	pr
+	eng	the other	prn$prn-dem-mf	srn	a	prn-dem
 	eng	John	np$np-ant$np-ant-m$np-ant-m-sg$	srn	John	np-ant
 	eng	a	det-ind-sg$det-ind$det$	srn	wan	det-ind-sg
 	eng	emphasis marker	art	srn	na	art
@@ -232,9 +232,9 @@ RL	eng	prpers	prn-subj-p2-mf-sp$prn-p2$prn-subj-p2-mf	srn	prpers	prn-subj-p2-pl
 	eng	alike	adj	srn	speri	adj
 	eng	alive	adj$adj-sint	srn	libilibi	adj
 	eng	all-night activity	n	srn	brokodei	n
-	eng	all	adj$	srn	ala	adj
+	eng	all	adj	srn	ala	adj
 	eng	all	det-qnt-pl	srn	ala	det-qnt-pl
-	eng	all	adj$	srn	heri	adj
+	eng	all	adj	srn	heri	adj
 	eng	alligator	n	srn	kaiman	n
 	eng	allow	vblex	srn	meki	vblex
 	eng	allspice	n	srn	lont'ai	n
@@ -2589,7 +2589,7 @@ LR	eng	lead	vblex	srn	rigeri	vblex
 	eng	light	vblex	srn	leti	vblex
 	eng	lighten	vblex	srn	lekti	vblex
 	eng	lighter	n	srn	fayadosu	n
-	eng	lightning	n$n-unc	srn	faya	n
+	eng	lightning	n$n-sg	srn	faya	n
 	eng	like (appreciate or enjoy)	vblex	srn	lobi	vblex
 	eng	like	cnjsub	srn	leki	cnjsub
 	eng	lilac	n	srn	lila	n
@@ -3043,7 +3043,7 @@ LR	eng	lead	vblex	srn	rigeri	vblex
 	eng	ocean	n$n-ND	srn	se	n
 	eng	ocelot	n	srn	tigrikati	n
 	eng	odor	n	srn	smeri	n
-	eng	of	pr	srn	fu	pr
+	eng	of	pr$	srn	fu	pr
 	eng	offend	vblex	srn	afrontu	vblex
 	eng	offensive	adj	srn	suku mofo	adj
 	eng	offer	vblex	srn	pristeri	vblex
@@ -3069,7 +3069,7 @@ LR	eng	lead	vblex	srn	rigeri	vblex
 	eng	on	pr	srn	na	pr
 	eng	on	pr	srn	na tapu	pr
 	eng	on	pr	srn	tapu	pr
-	eng	one	adj	srn	wan	adj
+	eng	one	adj$adj-ord	srn	wan	adj
 	eng	one	num$num-sg$$num-pl-sg	srn	wan	num
 	eng	onion	n$n-ND	srn	ayun	n
 	eng	only	adj	srn	enkri	adj
@@ -3761,7 +3761,7 @@ LR	eng	rule	vblex	srn	rigeri	vblex
 	eng	salesman	n	srn	seriman	n
 	eng	saliva	n	srn	baba	n
 	eng	saliva	n	srn	watramofo	n
-	eng	salt	n$n-ND	srn	sowtu	n
+	eng	salt	n$n-sg	srn	sowtu	n
 	eng	salt	vblex	srn	sowtu	vblex
 	eng	salty	adj-sint$adj	srn	sowtu	adj
 	eng	same	adj	srn	speri	adj

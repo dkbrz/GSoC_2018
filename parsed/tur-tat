@@ -1,4 +1,4 @@
-	tur	i	cop	tat	и	cop$cop-aor-p3-sg
+	tur	i	cop	tat	и	cop$cop-aor-p3-sg$cop-neg-aor-p3-sg
 	tur	var	adj$	tat	бар	adj
 	tur	yok	adj$	tat	юк	adj$
 	tur	mı	qst	tat	мы	qst
@@ -37,8 +37,8 @@ RL	tur	son	n$$n-px3sp-loc	tat	саен	post
 	tur	kim	prn-itg	tat	нинди	prn-itg-sim$prn-itg
 	tur	hangi	prn-itg$prn$prn-itg-abl	tat	нинди	prn-itg-sim$prn-itg
 	tur	hangi	prn-itg$prn$prn-itg-abl	tat	кайсы	prn-itg
-	tur	bu	prn-dem$prn-dem-abl$prn	tat	бу	prn-dem$prn-dem-loc
-	tur	şu	prn-dem$prn-dem-dat	tat	шул	prn-dem$prn-dem-abl
+	tur	bu	prn-dem$prn	tat	бу	prn-dem$prn-dem-loc
+	tur	şu	prn-dem	tat	шул	prn-dem$prn-dem-abl
 	tur	ne	prn-itg$prn$prn-itg-abl	tat	ни	prn-itg
 	tur	ne	prn-itg$prn$prn-itg-abl	tat	нәрсә	prn-itg
 	tur	nere	prn-itg$prn-itg-loc	tat	кайда	adv-itg
@@ -52,9 +52,9 @@ RL	tur	son	n$$n-px3sp-loc	tat	саен	post
 	tur	siz	prn-pers$prn-pers-p2-pl	tat	сез	prn-pers$prn-pers-p2-pl$prn-pers-p2-pl-gen
 	tur	onlar	prn-pers$prn-pers-p3-pl	tat	алар	prn-pers$prn-pers-p3$prn-pers-p3-pl
 	tur	hiçbir şey	prn-ind	tat	бернәрсә	prn-neg
-	tur	öz	prn-ref	tat	үз	prn-ref$prn-ref-px1pl
+	tur	öz	prn-ref	tat	үз	prn-ref$prn-ref-px1sg
 LR	tur	ora	prn-adv$$prn$prn-adv-loc	tat	ул	prn-pers$prn-pers-p3-sg$prn-pers-p3-sg-gen
-	tur	bazı	det-qnt$det$	tat	кайбер	det-ind
+	tur	bazı	det-qnt$det	tat	кайбер	det-ind
 	tur	hiçbir	det$det-qnt	tat	бернинди	det-neg
 	tur	kendi	det-ref	tat	үз	det-ref
 	tur	hangi	det-itg	tat	кайсы	det-itg
@@ -2065,7 +2065,7 @@ RL	tur	ilk	adj$$adj-advl	tat	берничә	det-qnt
 	tur	birlikte	adv	tat	бергә	adv
 	tur	bu yüzden	adv	tat	шул сәбәпле	cnjadv
 	tur	bugün	adv$	tat	бүген	adv
-	tur	bura	adv$prn-adv-loc	tat	бире	adv
+	tur	bura	adv$prn-adv$prn-adv-loc	tat	бире	adv
 	tur	böyle	adv$	tat	бу	adv
 	tur	daha sonra	adv	tat	соңрак	adv
 	tur	daha	adv$	tat	ары	adv
@@ -3264,7 +3264,7 @@ RL	tur		$num$num-card-sg-nom	tat	хәзрәт	n
 	tur	Rasim	np$np-ant-m	tat	Рәсим	np-ant-m
 	tur	Mirhaydar	np-ant-m	tat	Мирхәйдәр	np-ant-m
 	tur	Kamil	np-ant-m	tat	Камил	np-ant-m
-	tur	İshak	np$np-ant$np-ant-m	tat	Исхак	np-ant-m
+	tur	İshak	np-ant-m$np$np-ant	tat	Исхак	np-ant-m
 	tur	İsmail	np-ant-m$np$np-ant	tat	Исмәгыйль	np-ant-m
 	tur	Zeki	np$np-ant-m	tat	Зәки	np-ant-m
 	tur	Zarif	np-ant-m	tat	Зариф	np-ant-m

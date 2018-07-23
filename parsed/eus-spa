@@ -31,9 +31,9 @@ LR	eus	berauek	det-dem$det-dem-pl	spa	estos mismos	prn-tn-nt
 LR	eus	beste	adj$adj-izl	spa	otro	det-ind-GD$det-ind-GD-ND
 LR	eus	bat	num$num-sg	spa	uno	det-ind-GD$det-ind-GD-ND
 LR	eus	batto	num	spa	uno	num$num-m-sp$num-m
-LR	eus	batzuk	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
-LR	eus	batzuok	det-ind$det-ind-pl	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
-	eus	bezalako	rel-adv	spa	como	rel$rel-adv
+LR	eus	batzuk	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
+LR	eus	batzuok	det-ind$det-ind-pl	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
+	eus	bezalako	rel-adv	spa	como	adv$rel-adv
 	eus	gainerakoan	cnjloc	spa	por lo demás	adv
 LR	eus	gainontzean	cnjloc	spa	por lo demás	adv
 LR	eus	xe	GRA-IND	spa		num$$num-percent
@@ -370,7 +370,7 @@ LR	eus	zortziehun	num-pl	spa	ochocientos	num-GD-sp
 	eus	bost	num-pl$num	spa	cinco	num$num-mf-sp$
 	eus	hamabost	num-pl	spa	quince	num$$num-mf$num-mf-sp
 	eus	bederatzi	num-pl$num	spa	nueve	num$$num-mf-sp
-	eus	berrogei	num-pl	spa	cuarenta	num$$num-mf$num-mf-sp
+	eus	berrogei	num-pl	spa	cuarenta	num$num-mf-sp$$num-mf
 	eus	bi	num-pl$num	spa	dos	num-mf$num$num-mf-sp$
 	eus	hamabi	num-pl$num	spa	doce	num-mf-sp
 	eus	hamahiru	num-pl$num	spa	trece	num$$num-mf$num-mf-sp
@@ -380,9 +380,9 @@ LR	eus	zortziehun	num-pl	spa	ochocientos	num-GD-sp
 LR	eus	hamazortzi	num-pl	spa	dieciocho	num$num-mf-sp$$num-mf
 	eus	hemeretzi	num-pl$num	spa	diecinueve	num$$num-mf$num-mf-sp
 	eus	hemezortzi	num-pl	spa	dieciocho	num$num-mf-sp$$num-mf
-	eus	hirurogei	num-pl	spa	sesenta	num$$num-mf$num-mf-sp
+	eus	hirurogei	num-pl	spa	sesenta	num$num-mf-sp$$num-mf
 	eus	hogei	num-pl$num	spa	veinte	num$$num-mf$num-mf-sp
-	eus	laurogei	num-pl	spa	ochenta	num$$num-mf$num-mf-sp
+	eus	laurogei	num-pl	spa	ochenta	num$num-mf-sp$$num-mf
 	eus	sei	num-pl$num	spa	seis	num$num-mf-sp$
 	eus	zazpi	num-pl$num	spa	siete	num$$num-mf-sp
 	eus	zortzi	num-pl$num	spa	ocho	num$$num-mf-sp
@@ -632,7 +632,7 @@ RL	eus	lehendakari	n	spa	lehendakari	n$n-mf-ND
 	eus	trafiko	n	spa	tráfico	n-m-ND
 	eus	merkatu	n	spa	mercado	n-m-ND
 	eus	azoka	n	spa	mercado	n-m-ND
-	eus	langabezia	n	spa	paro	n$n-m$n-m-ND
+	eus	langabezia	n	spa	paro	n-m$n$n-m-ND
 RL	eus	gai	n	spa	tema	n-m-ND
 LR	eus	gai	n	spa	materia	n-f-ND
 LR	eus	hizpide	n	spa	tema	n-m-ND
@@ -1626,7 +1626,7 @@ RL	eus	bilaketa	n	spa	busca	n-f$n$n-f-ND
 	eus	oheburu	n	spa	cabecera	n$n-f$n-f-ND
 RL	eus	ile	n	spa	cabello	n-m$n$n-m-ND
 LR	eus	buru	n	spa	cabeza	n-f-ND
-LR	eus	abelburu	n	spa	res	n-f$n$n-f-ND
+LR	eus	abelburu	n	spa	res	n$n-f$n-f-ND
 	eus	zerrendaburu	n	spa	cabeza	n-mf-ND
 	eus	kabina	n	spa	cabina	n-f$n$n-f-ND
 	eus	kable	n	spa	cable	n$n-m$n-m-ND
@@ -1650,7 +1650,7 @@ LR	eus	gorpu	n	spa	cadáver	n-m$n$n-m-ND
 	eus	kalifikazio	n	spa	calificación	n$n-f$n-f-ND
 	eus	kareharri	n$	spa	caliza	n-f$n$n-f-ND
 	eus	kale-izendegi	n	spa	callejero	n$n-m$n-m-ND
-	eus	barealdi	n	spa	calma	n-f$n$n-f-ND
+	eus	barealdi	n	spa	calma	n$n-f$n-f-ND
 	eus	bero	n	spa	calor	n-m$n$n-m-ND
 	eus	oinetakoak	n	spa	calzado	n$n-m$n-m-ND
 	eus	ohe	n	spa	cama	n-f-ND
@@ -2676,7 +2676,7 @@ RL	eus	zerrenda	n	spa	franja	n$n-f$n-f-ND
 	eus	hotz	n	spa	frío	n-m-ND
 	eus	muga	n	spa	frontera	n-f-ND
 	eus	frustrazio	n	spa	frustración	n$n-f$n-f-ND
-	eus	fruitu	n	spa	fruto	n$n-m$n-m-ND
+	eus	fruitu	n	spa	fruto	n-m-ND
 	eus	su	n	spa	fuego	n-m-ND
 	eus	iturri	n	spa	fuente	n-f-ND
 	eus	distira	n	spa	fulgor	n-m$n$n-m-ND
@@ -2809,7 +2809,7 @@ LR	eus	senide	n	spa	hermano	n-GD-ND
 	eus	lanabes	n$	spa	herramienta	n-f-ND
 	eus	huntz	n	spa	hiedra	n$n-f$n-f-ND
 	eus	izotz	n	spa	hielo	n$n-m$n-m-ND
-	eus	belar	n$	spa	hierba	n-f$n$n-f-ND
+	eus	belar	n$	spa	hierba	n-f-ND
 	eus	burdina	n	spa	hierro	n-m-ND
 	eus	gibel	n	spa	hígado	n$n-m$n-m-ND
 	eus	piku	n	spa	higo	n-m$n$n-m-ND
@@ -3007,7 +3007,7 @@ RL	eus	sartze	n	spa	introducción	n-f$n$n-f-ND
 	eus	xaboi	n	spa	jabón	n$n-m$n-m-ND
 	eus	urdaiazpiko	n	spa	jamón	n$n-m$n-m-ND
 	eus	japoniar	n	spa	japonés	n-m-ND
-	eus	xake	n	spa	jaque	n$n-m$n-m-ND
+	eus	xake	n	spa	jaque	n-m-ND
 	eus	lorategi	n	spa	jardín	n-m-ND
 RL	eus	pitxer	n	spa	jarro	n-m$n$n-m-ND
 	eus	pitxer	n	spa	jarra	n-f$n$n-f-ND
@@ -3021,7 +3021,7 @@ RL	eus	buru	n	spa	jefe	n-m-ND
 RL	eus	egun	n	spa	jornada	n$n-f$n-f-ND
 	eus	gazte	n	spa	joven	n-mf-ND
 	eus	bitxi	n	spa	joya	n-f-ND
-RL	eus	babarrun	n	spa	judía	n$n-f$n-f-ND
+RL	eus	babarrun	n	spa	judía	n-f$n$n-f-ND
 	eus	jolas	n	spa	juego	n-m-ND
 	eus	joko	n	spa	juego	n-m-ND
 	eus	apustu	n	spa	apuesta	n-f$n$n-f-ND
@@ -3162,8 +3162,8 @@ RL	eus	gordeleku	n	spa	madriguera	n-f$n$n-f-ND
 	eus	tregoa	n	spa	tregua	n$n-f$n-f-ND
 	eus	magistratu	n	spa	magistrado	n-m$n-m-ND
 	eus	mago	n	spa	mago	n$n-m$n-m-ND
-	eus	gaitz	n	spa	mal	n$n-m$n-m-ND
-	eus	gaizki	n	spa	mal	n$n-m$n-m-ND
+	eus	gaitz	n	spa	mal	n-m$n$n-m-ND
+	eus	gaizki	n	spa	mal	n-m$n$n-m-ND
 	eus	gaiztakeria	n$	spa	maldad	n$n-f$n-f-ND
 	eus	madarikazio	n	spa	maldición	n$n-f$n-f-ND
 	eus	ondoez	n	spa	malestar	n$n-m$n-m-ND
@@ -3695,7 +3695,7 @@ RL	eus	arrain	n	spa	pez	n-m-ND
 	eus	pila	n$	spa	pila	n$n-f$n-f-ND
 	eus	pilotu	n	spa	piloto	n$n-mf$n-mf-ND
 	eus	pinudi	n	spa	pinar	n-m$n$n-m-ND
-	eus	pinu	n	spa	pino	n-m$n$n-m-ND
+	eus	pinu	n	spa	pino	n$n-m$n-m-ND
 	eus	pintore	n$	spa	pintor	n-m$n-m-ND
 	eus	pintura	n	spa	pintura	n-f$n$n-f-ND
 	eus	pipa	n	spa	pipa	n$n-f$n-f-ND
@@ -4717,7 +4717,7 @@ RL	eus	zuku	n	spa	zumo	n$n-m$n-m-ND
 	eus	laukoitz	$adj$adj-izo	spa	cuádruple	adj$$adj-mf$adj-mf-sg
 	eus	laukoitz	$adj$adj-izo	spa	cuádruplo	n$$n-m
 	eus	gatzagi		spa	cuajar	vblex$
-	eus	kuantu		spa	cuanto	rel$rel-adv$
+	eus	kuantu		spa	cuanto	adv$rel-adv$
 	eus	upel	$n	spa	cuba	n$n-f$
 	eus	esan	vblex$	spa	decir	vblex$vblex-inf$
 	eus	halako hamar		spa	décuplo	n$
@@ -11611,7 +11611,7 @@ RL	eus	Domingo	np$np-ant	spa	Domingo	np$np-ant
 	eus	Luis	np$np-ant	spa	Luis	np$np-ant$np-ant-m-sg
 	eus	Luisa	np$np-ant	spa	Luisa	np$np-ant
 	eus	Marko	np$np-ant	spa	Marko	np$np-ant
-	eus	Maria	np$np-ant	spa	Maria	np-ant$np
+	eus	Maria	np$np-ant	spa	Maria	np$np-ant
 	eus	Marino	np$np-ant	spa	Marino	np$np-ant
 	eus	Marta	np$np-ant	spa	Marta	np$np-ant
 	eus	Maximo	np$np-ant	spa	Máximo	np-ant$np
@@ -11670,7 +11670,7 @@ RL	eus	Domingo	np$np-ant	spa	Domingo	np$np-ant
 	eus	Perez	np$np-ant	spa	Pérez	np$np-cog-mf$np-cog
 	eus	Saez	np$np-ant	spa	Sáez	np$np-cog$np-cog-mf
 	eus	Ramirez	np$np-ant	spa	Ramírez	np$np-cog$np-cog-mf
-	eus	Ruiz	np$np-ant	spa	Ruiz	np$np-cog-mf$np-cog
+	eus	Ruiz	np$np-ant	spa	Ruiz	np$np-ant
 	eus	Atutxa	np$np-ant	spa	Atutxa	np$np-ant
 	eus	Etxeberria	np$np-ant	spa	Etxeberria	np$np-ant
 	eus	Rubalcaba	np$np-ant	spa	Rubalcaba	np$np-ant
@@ -12757,7 +12757,7 @@ LR	eus	harro	adj-izo$adj$	spa	orgulloso	adj$adj-GD-ND$
 	eus	ekialdeko	adj	spa	oriental	adj-mf-ND
 	eus	original	adj$adj-izo	spa	original	adj-mf-ND
 LR	eus	jatorrizko	adj$adj-izl	spa	originario	adj$adj-GD$adj-GD-ND
-	eus	oc-eko	adj	spa	de oc	adj$adj-mf-sp
+	eus	oc-eko	adj	spa	de oc	adj-mf-sp
 	eus	urre-koloreko	adj	spa	oro	adj
 LR	eus	ortografiko	adj$adj-izo	spa	ortográfico	adj-GD$adj-GD-ND
 LR	eus	ilun	adj-izo$adj	spa	oscuro	adj$adj-GD-ND
@@ -15445,7 +15445,7 @@ RL	eus	hain zuzen	adv	spa	sin ir más lejos	adv
 RL	eus	asko	adv	spa	sobre manera	adv
 	eus	arriskatu gabe	adv	spa	sobre seguro	adv
 	eus	bere gorabeherak	adv	spa	sus más y sus menos	adv
-	eus	bezala	adv	spa	como	adv
+	eus	bezala	adv	spa	como	adv$rel-adv
 	eus	agian	adv	spa	tal vez	adv
 	eus	hau eta bestea	adv	spa	tal y tal	adv
 	eus	patxada ederrean	adv	spa	tan pancho	adv

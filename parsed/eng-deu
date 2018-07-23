@@ -126,7 +126,7 @@ RL	eng	into	pr	deu	ins	pr
 	eng	near	pr	deu	bei	pr$pr-dat
 	eng	nearby	pr	deu	nahe	pr-dat$pr
 	eng	next to	pr	deu	neben	pr$pr-dat
-LR	eng	of	pr	deu	von	pr$pr-dat
+LR	eng	of	pr$	deu	von	pr$pr-dat
 	eng	of the	pr	deu	vom	pr
 LR	eng	off	pr	deu	von	pr$pr-dat
 	eng	on	pr	deu	auf	pr$pr-acc
@@ -279,7 +279,7 @@ LR	eng	themselves	prn-ref-p3-mf-pl$prn-ref-pl$prn	deu	sich selbst	prn
 RL	eng	this	prn-tn-mf$prn$prn-tn-mf-sg$prn-tn	deu	der	prn-ind-GD$prn
 RL	eng	this	prn-tn-mf$prn$prn-tn-mf-sg$prn-tn	deu	dieser	prn-ind-GD$prn
 LR	eng	this one	prn$prn-dem	deu	dieser	prn-ind-GD$prn
-	eng	those	prn	deu	jene	prn
+	eng	those	prn-rel-nn-mf-pl$prn	deu	jene	prn
 	eng	those that	prn$prn-rel	deu	solche , die	prn-rel
 	eng	those who	prn	deu	die welche	prn
 LR	eng	thou	prn	deu	du	prn$prn-pers-p2-mf-sg-acc$prn-pers-p2-mf$prn-pers-p2$prn-pers-p2-mf-sg
@@ -326,8 +326,8 @@ RL	eng	it	prn-obj-p3-nt-sg$prn-obj-p3-nt	deu	es	prn-pers-p3-nt-sg-dat
 	eng	it	prn-obj-p3-nt-sg$prn-obj-p3-nt	deu	es	prn-pers-p3-nt-sg-acc$prn$prn-pers-p3$prn-pers-p3-nt-sg$prn-pers-p3-nt
 	eng	we	prn-pers-p1$prn-pers-p1-mf-pl	deu	wir	prn-pers-p1-mf-pl-nom
 RL	eng	we	prn-pos-p1-mf-pl	deu	wir	prn-pers-p1-mf-pl-gen
-RL	eng	we	prn$prn-obj-p1-mf-pl$prn-obj	deu	wir	prn-pers-p1-mf-pl-dat
-	eng	we	prn$prn-obj-p1-mf-pl$prn-obj	deu	wir	prn-pers-p1-mf-pl-acc$prn-pers-p1-mf-pl
+RL	eng	we	prn-obj-p1-mf-pl$prn-obj	deu	wir	prn-pers-p1-mf-pl-dat
+	eng	we	prn-obj-p1-mf-pl$prn-obj	deu	wir	prn-pers-p1-mf-pl-acc$prn-pers-p1-mf-pl
 	eng	you	prn-pers-p2-mf-pl	deu	ihr	prn-pers-p2-mf-pl-nom
 RL	eng	you	prn-pos-p2-mf-pl	deu	ihr	prn-pers-p2-mf-pl-gen
 RL	eng	you	prn-obj-p2-mf-pl	deu	ihr	prn-pers-p2-mf-pl-dat
@@ -2703,7 +2703,7 @@ RL	eng	bidder	n	deu	Leichenbitter	n-m
 	eng	biennium	n	deu	Zweijahreszeitraum	n-m
 	eng	bier	n	deu	Bahre	n-f
 	eng	big band	n	deu	Bigband	n-f
-	eng	big bang	n$n-pl	deu	Urknall	n$n-m
+	eng	big bang	n	deu	Urknall	n$n-m
 	eng	big cat	n	deu	Großkatze	n$n-f
 	eng	big farmer	n	deu	Großbauer	n-m
 	eng	big picture	n	deu	Gesamtsituation	n-f
@@ -2746,7 +2746,7 @@ LR	eng	billiard	n$n-pl	deu	Billard	n-nt$n
 	eng	billionaire	n$n-sg	deu	Milliardär	n-m
 	eng	billy goat	n	deu	Ziegenbock	n-m
 	eng	bimetal	n	deu	Bimetall	n-nt
-	eng	bin	n	deu	Mülleimer	n-m$n
+	eng	bin	n$	deu	Mülleimer	n-m$n
 	eng	bin lorry	n	deu	Müllauto	n-nt
 	eng	binary	n	deu	Dual	n$n-m
 	eng	binary star	n	deu	Doppelstern	n-m
@@ -3844,8 +3844,8 @@ RL	eng	camper	n	deu	Wohnmobil	n-nt$n
 	eng	campus	n$n-ND	deu	Campus	n-m$n
 	eng	campus	n$n-ND	deu	Campusgelände	n-nt
 RL	eng	campus	n$n-ND	deu	Universitätsgelände	n-nt
-	eng	can	n$n-ND	deu	Kanister	n-m
-RL	eng	can	n$n-ND	deu	Konservenbehälter	n$n-m
+	eng	can	n$n-sg	deu	Kanister	n-m
+RL	eng	can	n$n-sg	deu	Konservenbehälter	n$n-m
 	eng	can bank	n	deu	Alucontainer	n-m
 	eng	Canadian	n	deu	Kanadier	n-m
 RL	eng	Canadian	n	deu	Kanadierin	n-f
@@ -4544,8 +4544,8 @@ RL	eng	check	n$n-ND	deu	Prüfung	n-f$n
 	eng	check card	n	deu	Scheckkarte	n-f
 	eng	check mark	n	deu	Kontrollmarke	n$n-f
 	eng	check routine	n	deu	Prüfprogramm	n-nt
-	eng	check-in	n	deu	Abfertigungsschalter	n$n-m
-RL	eng	check-in	n	deu	Abfertigung	n-f
+	eng	check-in	n$n-sg	deu	Abfertigungsschalter	n$n-m
+RL	eng	check-in	n$n-sg	deu	Abfertigung	n-f
 	eng	check-in queue	n	deu	Abfertigungsschlange	n-f
 	eng	check-up	n	deu	Untersuchung	n-f$n
 	eng	checkbook	n	deu	Scheckbuch	n-nt
@@ -7876,8 +7876,8 @@ RL	eng	down under	n	deu	Australien	n$n-nt
 	eng	dozen	n$n-ND	deu	Dutzend	n-nt
 	eng	dozer	n	deu	Planierraupe	n-f$n
 LR	eng	Dr	n	deu	Dr.	n-m
-	eng	Dr.	n	deu	Dr.	n-m
-RL	eng	Dr.	n	deu	Dr	n-m
+	eng	Dr.	n$	deu	Dr.	n-m
+RL	eng	Dr.	n$	deu	Dr	n-m
 	eng	drabness	n	deu	Düsterkeit	n-f
 	eng	drabness	n	deu	Trostlosigkeit	n-f
 	eng	drachma	n	deu	Drachme	n$n-f
@@ -8011,8 +8011,8 @@ RL	eng	driving test	n	deu	Führerscheinprüfung	n-f
 RL	eng	drought	n$n-sg	deu	Dürre	n-f$n
 	eng	drove	n	deu	Schar	n-f$n
 	eng	drowsiness	n	deu	Schläfrigkeit	n-f
-	eng	drug	n$n-ND	deu	Droge	n-f$n
-RL	eng	drug	n$n-ND	deu	Rauschgift	n$n-nt
+	eng	drug	n$n-sg	deu	Droge	n-f$n
+RL	eng	drug	n$n-sg	deu	Rauschgift	n$n-nt
 	eng	drug abuse	n	deu	Drogenmissbrauch	n-m
 	eng	drug consumption	n	deu	Drogenkonsum	n-m
 	eng	drug dealer	n	deu	Drogenhändler	n-m
@@ -8021,7 +8021,7 @@ RL	eng	drug	n$n-ND	deu	Rauschgift	n$n-nt
 	eng	drug overdose	n	deu	Drogenüberdosis	n-f
 	eng	drug search	n	deu	Arzneimittelsuche	n-f
 	eng	drug trade	n	deu	Drogenhandel	n-m
-	eng	drug trafficking	n$n-sg	deu	Drogenhandel	n-m
+	eng	drug trafficking	n	deu	Drogenhandel	n-m
 	eng	drug user	n	deu	Drogenkonsumentin	n-f
 RL	eng	druggist	n	deu	Drogistin	n-f
 	eng	drugs	n	deu	Drogen	n-f
@@ -8943,7 +8943,7 @@ RL	eng	excess	n$n-ND	deu	Überschuß	n-m
 	eng	exchange	n$n-ND	deu	Umtausch	n-m
 	eng	exchange	n$n-ND	deu	Geldwechsel	n-m
 	eng	exchange office	n	deu	Wechselstube	n-f
-	eng	exchange rate	n$n-sg	deu	Wechselkurs	n-m
+	eng	exchange rate	n	deu	Wechselkurs	n-m
 	eng	exchange student	n	deu	Austauschstudent	n-m
 	eng	exchange value	n	deu	Tauschwert	n$n-nt
 	eng	exchange visit	n	deu	Besucheraustausch	n-m
@@ -9959,7 +9959,7 @@ LR	eng	floppy drive	n	deu	Diskettenlaufwerk	n-nt
 LR	eng	flowering	n$n-ND	deu	Blütezeit	n-f
 	eng	flowering season	n	deu	Blütezeit	n-f
 	eng	flowerpot	n$n-ND	deu	Blumentopf	n-m$n
-	eng	flu	n$n-ND	deu	Grippe	n-f$n
+	eng	flu	n$n-sg	deu	Grippe	n-f$n
 	eng	flu season	n	deu	Grippezeit	n-f
 	eng	fluctuation	n	deu	Schwankung	n-f
 	eng	flue opening	n	deu	Fuchsloch	n-nt
@@ -12646,7 +12646,7 @@ LR	eng	inclusion	n	deu	Aufnahme	n-f$n
 	eng	income	n$n-sg	deu	Einkommen	n-nt
 	eng	income	n$n-sg	deu	Einnahme	n-f$n
 	eng	income	n$n-sg	deu	Ertrag	n-m
-	eng	income tax	n$n-ND	deu	Einkommenssteuer	n$n-f
+	eng	income tax	n	deu	Einkommenssteuer	n$n-f
 	eng	income tax accounts	n	deu	Einkommensteuerabrechnung	n-f
 	eng	income tax relief	n	deu	Einkommenssteuerermäßigung	n-f
 	eng	income-tax	n	deu	Einkommensteuer	n-f$n
@@ -14179,7 +14179,7 @@ RL	eng	lighter	n	deu	Leichter	n-m
 	eng	lighthouse	n	deu	Leuchtturm	n-m
 	eng	lighting source	n	deu	Leuchtquelle	n$n-f
 	eng	lightness	n	deu	Leichtigkeit	n-f
-	eng	lightning	n$n-unc	deu	Blitz	n-m$n
+	eng	lightning	n$n-sg	deu	Blitz	n-m$n
 	eng	lightning rod	n$n-ND	deu	Blitzableiter	n-m$n
 	eng	lightsaber	n	deu	Lichtschwert	n-nt
 	eng	lightweight	n	deu	Leichtgewicht	n-nt
@@ -15924,17 +15924,17 @@ LR	eng	MP	n$n-acr	deu	Abgeordneter	n-m$n
 	eng	mp3	n-acr	deu	mp3	n-acr-f
 RL	eng	MP3 player	n	deu	MP3-Player	n-m
 LR	eng	Mr	n$$n-sg	deu	Herr	n-m$n
-	eng	Mr.	n	deu	Herr	n-m$n
-RL	eng	Mr.	n	deu	Mr	n-m
-RL	eng	Mr.	n	deu	Mr.	n$n-m
+	eng	Mr.	n$	deu	Herr	n-m$n
+RL	eng	Mr.	n$	deu	Mr	n-m
+RL	eng	Mr.	n$	deu	Mr.	n$n-m
 LR	eng	Mrs	n$$n-sg	deu	Frau	n-f$n
-	eng	Mrs.	n$n-sg	deu	Frau	n-f$n
-RL	eng	Mrs.	n$n-sg	deu	Mrs	n-m
-RL	eng	Mrs.	n$n-sg	deu	Mrs.	n-m
+	eng	Mrs.	n$$n-sg	deu	Frau	n-f$n
+RL	eng	Mrs.	n$$n-sg	deu	Mrs	n-m
+RL	eng	Mrs.	n$$n-sg	deu	Mrs.	n-m
 LR	eng	Ms	$n	deu	Frau	n-f$n
-LR	eng	Ms.	n	deu	Frau	n-f$n
-RL	eng	Ms.	n	deu	Ms	n-f
-RL	eng	Ms.	n	deu	Ms.	n-f
+LR	eng	Ms.	n$	deu	Frau	n-f$n
+RL	eng	Ms.	n$	deu	Ms	n-f
+RL	eng	Ms.	n$	deu	Ms.	n-f
 	eng	MTA	n-acr	deu	MTA	n-acr-f
 	eng	Mu	n	deu	My	n-nt
 	eng	muck	n	deu	Mist	n-m$n
@@ -18023,7 +18023,7 @@ RL	eng	phrase	n$n-ND	deu	Wendung	n-f
 	eng	phrase book	n	deu	Sprachführer	n-m
 	eng	phrasing	n	deu	Phrasierung	n-f
 	eng	physic	n	deu	Abführmittel	n-nt
-	eng	physical	n	deu	Musterung	n-f
+	eng	physical	n$n-sg	deu	Musterung	n-f
 	eng	physical education	n	deu	Sportunterricht	n-m
 RL	eng	physical education	n	deu	Turnunterricht	n-m
 	eng	physical exercise	n	deu	Leibesübung	n-f
@@ -20821,10 +20821,10 @@ RL	eng	ruler	n$n-sg	deu	Herrscherin	n-f
 	eng	rumination	n	deu	Wiederkäuen	n-nt
 	eng	rumour	n$n-ND	deu	Gerücht	n-nt$n
 	eng	rump-steak	n	deu	Rumpsteak	n-nt
-	eng	run	n$n-ND	deu	Lauf	n-m$n
-RL	eng	run	n$n-ND	deu	Ansturm	n-m
-RL	eng	run	n$n-ND	deu	Run	n-m
-RL	eng	run	n$n-ND	deu	Sequenz	n-f
+	eng	run	n$n-sg	deu	Lauf	n-m$n
+RL	eng	run	n$n-sg	deu	Ansturm	n-m
+RL	eng	run	n$n-sg	deu	Run	n-m
+RL	eng	run	n$n-sg	deu	Sequenz	n-f
 	eng	rundown	n	deu	Reduzierung	n-f
 	eng	run-down	n	deu	Reduzierung	n-f
 	eng	runaway	n	deu	Ausreißer	n-m
@@ -20988,12 +20988,12 @@ RL	eng	salmon	n	deu	Salm	n-m
 	eng	salon	n	deu	Salon	n-m$n
 LR	eng	saloon	n	deu	Kneipe	n-f$n
 	eng	salsa	n	deu	Salsa	n-m
-	eng	salt	n$n-ND	deu	Salz	n-nt$n
+	eng	salt	n$n-sg	deu	Salz	n-nt$n
 	eng	salt fish	n	deu	gesalzener Fisch	n-m
 	eng	salt lake	n	deu	Salzsee	n-m
 	eng	salt shaker	n	deu	Salzfass	n-nt
 	eng	salt tax	n	deu	Salzsteuer	n$n-f
-	eng	salt water	n$n-sg	deu	Salzwasser	n-nt
+	eng	salt water	n	deu	Salzwasser	n-nt
 	eng	saltiness	n	deu	Salzigkeit	n-f
 	eng	salting	n	deu	Einsalzen	n-nt
 	eng	saltworks	n	deu	Saline	n-f
@@ -21414,13 +21414,13 @@ LR	eng	seatbelt	n	deu	Sicherheitsgurt	n-m$n
 	eng	secessionism	n	deu	Secessionismus	n-m
 	eng	secessionist	n	deu	Abtrünniger	n-m$n
 	eng	seclusion	n	deu	Abgeschiedenheit	n-f
-	eng	second	n$n-ND	deu	Sekunde	n-f$n
+	eng	second	n$n-sg	deu	Sekunde	n-f$n
 	eng	second childhood	n	deu	zweite Kindheit	n-f
 	eng	second class	n	deu	zweite Klasse	n-f
 	eng	second hand	n	deu	Sekundenzeiger	n-m
 	eng	second hand article	n	deu	Gebrauchtware	n$n-f
 	eng	second hand bookshop	n	deu	Antiquariat	n-nt
-	eng	second lieutenant	n$n-sg	deu	Leutnant	n-m$n
+	eng	second lieutenant	n	deu	Leutnant	n-m$n
 	eng	second vote	n	deu	Zweitstimme	n-f
 	eng	second-hand dealer	n	deu	Altwarenhändler	n$n-m
 	eng	secondary aim	n	deu	Nebenabsicht	n-f
@@ -25125,7 +25125,7 @@ RL	eng	trapper	n$n-sg	deu	Trapper	n-m
 	eng	traumatologist	n	deu	Traumatologe	n-m
 	eng	traumatology	n$n-sg	deu	Traumatologie	n-f
 	eng	travail	n	deu	Mühsal	n-f
-LR	eng	travel	n$n-ND	deu	Reise	n-f$n
+LR	eng	travel	n$n-sg	deu	Reise	n-f$n
 	eng	travel agency	n	deu	Reisebüro	n-nt
 	eng	travel agent	n	deu	Reisebürokaufmann	n-m
 RL	eng	travel agent	n	deu	Reisebürovertreter	n-m
@@ -25139,8 +25139,8 @@ LR	eng	travel guide	n	deu	Reiseführer	n-m$n
 	eng	travel information	n	deu	Reiseinformation	n-f
 	eng	travel insurance	n	deu	Reiseversicherung	n-f
 	eng	travel sickness	n	deu	Reisekrankheit	n-f$n
-	eng	travel	n$n-ND	deu	Zeitreise	n-f
-	eng	travel	n$n-ND	deu	Afrikareise	n-f
+	eng	travel	n$n-sg	deu	Zeitreise	n-f
+	eng	travel	n$n-sg	deu	Afrikareise	n-f
 LR	eng	travel-sickness	n	deu	Reisekrankheit	n-f$n
 	eng	traveler	n$n-sg	deu	Reisende	n-f
 RL	eng	traveler	n$n-sg	deu	Reisende	n-m
@@ -25817,7 +25817,7 @@ LR	eng	value added tax	n	deu	Umsatzsteuer	n-f$n
 	eng	valve	n	deu	Ventil	n-nt$n
 	eng	vampire	n	deu	Vampir	n-m$n
 	eng	vampirism	n	deu	Vampirismus	n-m
-	eng	van	n$n-ND	deu	Lieferwagen	n-m$n
+	eng	van	n$$n-ND	deu	Lieferwagen	n-m$n
 	eng	van driver	n	deu	Lieferwagenfahrer	n-m
 LR	eng	van-driver	n	deu	Lastwagenfahrer	n-m
 	eng	vanadium	n	deu	Vanadium	n-nt$n
@@ -26604,7 +26604,7 @@ LR	eng	whim	n$n-ND	deu	Laune	n-f$n
 	eng	whip	n$n-sg	deu	Fraktionschef	n-m
 	eng	whipcord	n	deu	Peitschenschnur	n-f
 	eng	whiplash	n	deu	Schleudertrauma	n-nt
-	eng	whipped cream	n$n-sg	deu	Schlagsahne	n-f
+	eng	whipped cream	n	deu	Schlagsahne	n-f
 	eng	whippet cookie	n	deu	Negerkuss	n-m
 	eng	whirl	n	deu	Trubel	n-m
 	eng	whirlpool	n$n-sg	deu	Whirlpool	n-m
@@ -27177,7 +27177,7 @@ RL	eng	zoophyte	n	deu	Pflanzentier	n$n-nt
 	eng	Abdías	np-ant$np$np-ant-m-sg	deu	Abdías	np
 	eng	Abdiel	np-ant$np$np-ant-m-sg	deu	Abdiel	np
 	eng	Abdo	np-ant$np-ant-m$$np$np-ant-m-sg	deu	Abdo	np
-	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg	deu	Abdul	np
+	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m	deu	Abdul	np
 	eng	Abdullah	np-ant$np$np-ant-m-sg$np-ant-m	deu	Abdullah	np
 	eng	Abel	np-ant$np-ant-m$np$np-ant-m-sg	deu	Abel	np
 	eng	Abelardo	np-ant$np$np-ant-m-sg	deu	Abelardo	np
@@ -27286,7 +27286,7 @@ RL	eng	zoophyte	n	deu	Pflanzentier	n$n-nt
 	eng	Agripino	np-ant$np$np-ant-m-sg	deu	Agripino	np
 	eng	Agueda	np-ant$np$np-ant-f-sg	deu	Agueda	np
 	eng	Agustin	np-ant$np$np-ant-m$np-ant-m-sg	deu	Agustin	np
-	eng	Agustín	np-ant$np$np-ant-m$np-ant-m-sg	deu	Agustín	np
+	eng	Agustín	np-ant$np-ant-m-sg$np$np-ant-m	deu	Agustín	np
 	eng	Agustina	np-ant$np$np-ant-f-sg	deu	Agustina	np$np-ant
 	eng	Agusttin	np-ant$np$np-ant-m-sg	deu	Agusttin	np
 	eng	Ahmad	np-ant$np$np-ant-m$np-ant-m-sg$	deu	Ahmad	np
@@ -27389,7 +27389,7 @@ RL	eng	zoophyte	n	deu	Pflanzentier	n$n-nt
 	eng	Alessandro	np-ant$np-ant-m$np-ant-m-sg$np	deu	Alessandro	np
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	deu	Alex	np$np-ant
 	eng	Alexa	np-ant$np-ant-f-sg$np$np-ant-f	deu	Alexa	np
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	deu	Alexander	np$np-ant
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	deu	Alexander	np$np-ant
 	eng	Alexandra	np-ant$np$np-ant-f-sg$np-ant-f	deu	Alexandra	np$np-ant
 	eng	Alexandre	np-ant$np-ant-m-sg$np$np-ant-m	deu	Alexandre	np$np-ant
 	eng	Alexandrea	np-ant$np$np-ant-f-sg	deu	Alexandrea	np$np-ant
@@ -27622,7 +27622,7 @@ RL	eng	zoophyte	n	deu	Pflanzentier	n$n-nt
 	eng	Antoliano	np-ant$np$np-ant-m-sg	deu	Antoliano	np
 	eng	Antolín	np-ant$np$np-ant-m-sg	deu	Antolín	np
 	eng	Anton	np-ant$np-ant-m-sg$np$np-ant-m	deu	Anton	np$np-ant
-	eng	Antoni	np$np-ant$np-ant-m-sg	deu	Antoni	np$np-ant
+	eng	Antoni	np$np-ant-m-sg$np-ant	deu	Antoni	np$np-ant
 	eng	Antonia	np-ant$np$np-ant-f-sg	deu	Antonia	np
 	eng	Antonio	np-ant$np$np-ant-m$np-ant-m-sg	deu	Antonio	np$np-ant
 	eng	Antony	np-ant$np-ant-m-sg$np$np-ant-m	deu	Antony	np$np-ant
@@ -29156,7 +29156,7 @@ RL	eng	Dawn	np$np-ant$np-ant-f-sg	deu	Dawn	np$np-ant
 	eng	Gabi	np$np-ant-m	deu	Gabi	np$np-ant
 	eng	Gabina	np-ant$np$np-ant-f-sg	deu	Gabina	np
 	eng	Gabino	np-ant$np$np-ant-m-sg	deu	Gabino	np
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	deu	Gabriel	np
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	deu	Gabriel	np
 	eng	Gabriela	np-ant$np$np-ant-f-sg$np-ant-f	deu	Gabriela	np
 	eng	Gabriella	np-ant$np$np-ant-f-sg	deu	Gabriella	np$np-ant
 	eng	Gabrielle	np-ant$np-ant-f-sg$np	deu	Gabrielle	np
@@ -29790,7 +29790,7 @@ RL	eng	Giles	$np$np-ant$np-ant-m-sg	deu	Giles	np$np-ant
 	eng	Jamir	np-ant$np$np-ant-m-sg	deu	Jamir	np
 	eng	Jamison	np-ant$np$np-ant-m-sg	deu	Jamison	np
 	eng	Jamya	np-ant$np$np-ant-f-sg	deu	Jamya	np
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	deu	Jan	np$np-ant
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	deu	Jan	np$np-ant
 	eng	Jana	np-ant$np$np-ant-f-sg	deu	Jana	np
 	eng	Janae	np-ant$np$np-ant-f-sg	deu	Janae	np
 	eng	Jane	np-ant$np$np-ant-f-sg$np-ant-f	deu	Jane	np$np-ant
@@ -29915,8 +29915,8 @@ RL	eng	Giles	$np$np-ant$np-ant-m-sg	deu	Giles	np$np-ant
 	eng	Jimy	np-ant$np$np-ant-m-sg	deu	Jimy	np$np-ant
 	eng	Jo	np$np-ant-m$np-ant-m-sg	deu	Jo	np$np-ant
 	eng	Joab	np-ant$np$np-ant-m$np-ant-m-sg	deu	Joab	np
-	eng	Joan	np-ant$np$np-ant-m-sg	deu	Joan	np$np-ant
-	eng	Joana	np-ant$np-ant-f$np$np-ant-f-sg	deu	Joana	np
+	eng	Joan	np-ant$np-ant-m-sg$np	deu	Joan	np$np-ant
+	eng	Joana	np-ant$np-ant-f$np-ant-f-sg$np	deu	Joana	np
 	eng	Joanna	np-ant$np-ant-f-sg$np	deu	Joanna	np$np-ant
 	eng	Joaquim	np$np-ant$np-ant-m-sg	deu	Joaquim	np
 	eng	Joaquin	np-ant$np-ant-m-sg$np$np-ant-m	deu	Joaquin	np
@@ -29978,7 +29978,7 @@ RL	eng	Giles	$np$np-ant$np-ant-m-sg	deu	Giles	np$np-ant
 	eng	Joselina	np-ant$np$np-ant-f-sg	deu	Joselina	np
 	eng	Joselyn	np-ant$np$np-ant-f-sg	deu	Joselyn	np
 	eng	Josemaría	np-ant$np$np-ant-m-sg	deu	Josemaría	np
-	eng	Josep	np$np-ant$np-ant-m$np-ant-m-sg	deu	Josep	np$np-ant
+	eng	Josep	np-ant-m-sg$np$np-ant$np-ant-m	deu	Josep	np$np-ant
 	eng	Joseph	np-ant$np$np-ant-m$np-ant-m-sg$	deu	Joseph	np$np-ant
 	eng	Josephine	np-ant$np$np-ant-f-sg	deu	Josephine	np$np-ant
 	eng	Josh	np-ant$np$np-ant-m-sg$np-ant-m	deu	Josh	np$np-ant
@@ -30008,12 +30008,12 @@ RL	eng	Giles	$np$np-ant$np-ant-m-sg	deu	Giles	np$np-ant
 	eng	Joy	np-ant$np$np-ant-f-sg	deu	Joy	np$np-ant
 	eng	Joyce	np-ant$np$np-ant-f-sg$	deu	Joyce	np$np-ant
 	eng	Jozef	np	deu	Jozef	np
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	deu	Juan	np
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	deu	Juan	np
 	eng	Juan Carlos	np-ant$np$np-ant-m-sg	deu	Juan Carlos	np
 	eng	Juan Cruz	np-ant$np$np-ant-m-sg	deu	Juan Cruz	np
 	eng	Juan de Dios	np-ant$np$np-ant-m-sg	deu	Juan de Dios	np
 	eng	Juan de Mata	np-ant$np	deu	Juan de Mata	np
-	eng	Juan María	np-ant$np$np-ant-m-sg	deu	Juan María	np
+	eng	Juan María	np-ant$np	deu	Juan María	np
 	eng	Juana	np-ant$np-ant-f-sg$np	deu	Juana	np
 	eng	Juana del Pilar	np-ant$np$np-ant-f-sg	deu	Juana del Pilar	np
 	eng	Juanita	np-ant$np$np-ant-f-sg	deu	Juanita	np$np-ant
@@ -30176,7 +30176,7 @@ RL	eng	Giles	$np$np-ant$np-ant-m-sg	deu	Giles	np$np-ant
 	eng	Kelton	np-ant$np$np-ant-m-sg	deu	Kelton	np
 	eng	Kelvin	np-ant$np$np-ant-m-sg	deu	Kelvin	np
 	eng	Kemberley	np-ant$np$np-ant-f-sg	deu	Kemberley	np
-	eng	Ken	np-ant$np$np-ant-m$np-ant-m-sg	deu	Ken	np$np-ant
+	eng	Ken	np-ant$np$np-ant-m-sg$np-ant-m	deu	Ken	np$np-ant
 	eng	Kendal	np-ant$np-ant-f-sg$np	deu	Kendal	np
 	eng	Kendra	np-ant$np$np-ant-f-sg	deu	Kendra	np
 	eng	Kendrick	np-ant$np$np-ant-m-sg	deu	Kendrick	np
@@ -30465,7 +30465,7 @@ RL	eng	Les	np$np-al-sg	deu	Les	np$np-ant
 	eng	Lizbeth	np-ant$np$np-ant-f-sg	deu	Lizbeth	np$np-ant
 	eng	Lizeth	np-ant$np$np-ant-f-sg	deu	Lizeth	np
 	eng	Lizette	np-ant$np$np-ant-f-sg	deu	Lizette	np
-	eng	Lluís	np$np-ant$np-ant-m-sg	deu	Lluís	np
+	eng	Lluís	np$np-ant-m-sg$np-ant	deu	Lluís	np
 	eng	Lochlan	np$np-ant	deu	Lochlan	np
 	eng	Lodewijk	np	deu	Lodewijk	np$np-ant
 	eng	Lola	np-ant$np-ant-f-sg$np	deu	Lola	np
@@ -30637,7 +30637,7 @@ RL	eng	Lucky	np	deu	Lucky	np$np-ant
 	eng	Mara	np-ant$np-ant-f-sg$np	deu	Mara	np
 	eng	Maravillas	np-ant$np$np-ant-f-sg	deu	Maravillas	np
 	eng	Marbela	np-ant$np$np-ant-f-sg	deu	Marbela	np
-	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg	deu	Marc	np$np-ant
+	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m	deu	Marc	np$np-ant
 	eng	Marcel	np-ant$np-ant-m-sg$np$np-ant-m	deu	Marcel	np$np-ant
 	eng	Marcela	np-ant$np$np-ant-f-sg	deu	Marcela	np
 	eng	Marceliano	np-ant$np$np-ant-m-sg	deu	Marceliano	np
@@ -30675,7 +30675,7 @@ RL	eng	Lucky	np	deu	Lucky	np$np-ant
 	eng	Mari Amor	np-ant$np$np-ant-f-sg	deu	Mari Amor	np
 	eng	Mari Cielo	np-ant$np$np-ant-f-sg	deu	Mari Cielo	np
 	eng	Mari Cruz	np-ant$np$np-ant-f-sg	deu	Mari Cruz	np
-	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg	deu	Maria	np$np-ant$np-ant-f
+	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f	deu	Maria	np$np-ant$np-ant-f
 	eng	María	np$np-ant$np-ant-f$np-ant-f-sg	deu	María	np$np-ant-f
 	eng	Maria Abril	np-ant$np$np-ant-f-sg	deu	Maria Abril	np
 	eng	Maria Angel	np-ant$np$np-ant-f-sg	deu	Maria Angel	np
@@ -30823,7 +30823,7 @@ RL	eng	Mick	np	deu	Mick	np$np-ant
 	eng	Micky	np	deu	Micky	np$np-ant
 	eng	Mieke	np	deu	Mieke	np$np-ant
 	eng	Miffy	np	deu	Miffy	np$np-ant
-	eng	Miguel de los Santos	np-ant$np$np-ant-m-sg	deu	Miguel de los Santos	np
+	eng	Miguel de los Santos	np-ant$np	deu	Miguel de los Santos	np
 	eng	Miguel Monroe	np	deu	Miguel Monroe	np
 	eng	Mikaela	np-ant$np$np-ant-f-sg	deu	Mikaela	np
 	eng	Mikayla	np-ant$np$np-ant-f-sg	deu	Mikayla	np
@@ -31059,7 +31059,7 @@ RL	eng	Mick	np	deu	Mick	np$np-ant
 	eng	Nicodemo	np-ant$np$np-ant-m-sg	deu	Nicodemo	np
 	eng	Nicodemus	np-ant$np$np-ant-m-sg	deu	Nicodemus	np
 	eng	Nicola	np-ant$np$np-ant-f$np-ant-f-sg	deu	Nicola	np$np-ant
-	eng	Nicolas	np-ant$np$np-ant-m$np-ant-m-sg	deu	Nicolas	np
+	eng	Nicolas	np-ant$np$np-ant-m-sg$np-ant-m	deu	Nicolas	np
 	eng	Nicolás	np-ant$np$np-ant-m-sg	deu	Nicolás	np
 	eng	Nicolasa	np-ant$np$np-ant-f-sg	deu	Nicolasa	np
 	eng	Nicolau	np$np-ant$np-ant-m-sg	deu	Nicolau	np
@@ -31322,7 +31322,7 @@ RL	eng	Mick	np	deu	Mick	np$np-ant
 	eng	Pep	np$np-ant$np-ant-m-sg	deu	Pep	np
 	eng	Perceval	np-ant$np$np-ant-m-sg	deu	Perceval	np
 	eng	Percival	np-ant$np-ant-m-sg$np$np-ant-m	deu	Percival	np
-	eng	Pere	np$np-ant$np-ant-m$np-ant-m-sg	deu	Pere	np
+	eng	Pere	np$np-ant$np-ant-m-sg$np-ant-m	deu	Pere	np
 	eng	Peregrina	np-ant$$np$np-ant-f-sg	deu	Peregrina	np
 	eng	Peregrino	np-ant$np$np-ant-m-sg	deu	Peregrino	np
 	eng	Pereira	np$np-top-sg	deu	Pereira	np$np-ant
@@ -31360,11 +31360,11 @@ RL	eng	Mick	np	deu	Mick	np$np-ant
 	eng	Pierina	np-ant$np$np-ant-f-sg	deu	Pierina	np
 	eng	Pierino	np-ant$np$np-ant-m-sg	deu	Pierino	np
 	eng	Piero	np-ant$np-ant-m-sg$np$np-ant-m	deu	Piero	np
-	eng	Pierre	np-ant$np$np-ant-m-sg$np-ant-m	deu	Pierre	np$np-ant
+	eng	Pierre	np-ant$np-ant-m-sg$np$np-ant-m	deu	Pierre	np$np-ant
 	eng	Piet	np	deu	Piet	np$np-ant
 	eng	Pieter	np	deu	Pieter	np$np-ant
 	eng	Pietronella	np-ant$np$np-ant-f-sg	deu	Pietronella	np$np-ant
-	eng	Pilar	np-ant$np$np-ant-f-sg	deu	Pilar	np
+	eng	Pilar	np-ant$np-ant-f-sg$np	deu	Pilar	np
 	eng	Pilmaiquen	np-ant$np$np-ant-f-sg	deu	Pilmaiquen	np
 	eng	Pilmayquen	np-ant$np$np-ant-f-sg	deu	Pilmayquen	np
 	eng	Pilo	np-ant$np$np-ant-m-sg	deu	Pilo	np
@@ -31597,7 +31597,7 @@ RL	eng	Ron	np-ant$np-ant-m-sg$np$np-ant-m	deu	Ron	np$np-ant
 	eng	Rosángela	np-ant$np$np-ant-f-sg	deu	Rosángela	np
 	eng	Rosario	np-ant$np$np-ant-f-sg	deu	Rosario	np
 	eng	Rosarito	np-ant$np$np-ant-f-sg	deu	Rosarito	np
-	eng	Rosaura	np-ant$np$np-ant-f-sg	deu	Rosaura	np
+	eng	Rosaura	np-ant$np-ant-f-sg$np	deu	Rosaura	np
 	eng	Rose	np-ant$np$$np-ant-f-sg	deu	Rose	np
 	eng	Rosemary	np-ant$np-ant-f-sg$np	deu	Rosemary	np$np-ant
 	eng	Rosenda	np-ant$np$np-ant-f-sg	deu	Rosenda	np
@@ -31875,7 +31875,7 @@ RL	eng	Ron	np-ant$np-ant-m-sg$np$np-ant-m	deu	Ron	np$np-ant
 	eng	Sinforiano	np-ant$np$np-ant-m-sg	deu	Sinforiano	np
 	eng	Sinforosa	np-ant$np$np-ant-f-sg	deu	Sinforosa	np
 	eng	Sinforoso	np-ant$np$np-ant-m-sg	deu	Sinforoso	np
-	eng	Sinibaldo	np-ant$np$np-ant-m-sg	deu	Sinibaldo	np
+	eng	Sinibaldo	np-ant$np-ant-m-sg$np	deu	Sinibaldo	np
 	eng	Sinuhé	np-ant$np$np-ant-m-sg	deu	Sinuhé	np
 	eng	Siomara	np-ant$np$np-ant-f-sg	deu	Siomara	np
 	eng	Siôn	np$np-ant	deu	Siôn	np
@@ -32359,7 +32359,7 @@ RL	eng	Ute	np$np-ant-m	deu	Ute	np$np-ant
 	eng	Wilhelm	np-ant$np-ant-m-sg$$np	deu	Wilhelm	np$np-ant
 	eng	Will	np-ant$np$np-ant-m-sg	deu	Will	np
 	eng	Willem	np$np-ant-m$np-ant-m-sg	deu	Willem	np$np-ant
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	deu	William	np$np-ant
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	deu	William	np$np-ant
 	eng	Willinton	np-ant$np$np-ant-m-sg	deu	Willinton	np
 	eng	Willow	np-ant$np$np-ant-f-sg	deu	Willow	np
 	eng	Willy	np-ant$np-ant-m-sg$np	deu	Willy	np$np-ant
@@ -32630,7 +32630,7 @@ RL	eng	Ute	np$np-ant-m	deu	Ute	np$np-ant
 	eng	Berkins	np	deu	Berkins	np$np-cog
 	eng	Berridge	np	deu	Berridge	np$np-cog
 	eng	Berry	np$np-cog-sg$$np-cog	deu	Berry	np$np-cog
-	eng	Best	$np	deu	Best	np$np-cog
+	eng	Best	np	deu	Best	np$np-cog
 	eng	Betram	np	deu	Betram	np$np-cog
 	eng	Beuys	np	deu	Beuys	np$np-cog
 	eng	Bevans	np	deu	Bevans	np$np-cog
@@ -32696,7 +32696,7 @@ RL	eng	Brown	np$np-cog$np-cog-sg$	deu	Braun	np$np-cog
 	eng	Brückner	np	deu	Brückner	np$np-cog
 	eng	Brueghel	np	deu	Brueghel	np$np-cog
 	eng	Brunel	np	deu	Brunel	np$np-cog
-	eng	Buckingham	np$np-loc	deu	Buckingham	np$np-cog
+	eng	Buckingham	np-top-sg$np	deu	Buckingham	np$np-cog
 	eng	Buddha	np$np-ant$np-ant-m-sg	deu	Buddha	np
 	eng	Bugany	np	deu	Bugany	np$np-cog
 	eng	Buller	np	deu	Buller	np$np-cog
@@ -32800,7 +32800,7 @@ RL	eng	Brown	np$np-cog$np-cog-sg$	deu	Braun	np$np-cog
 	eng	Crook	$np	deu	Crook	np$np-cog
 	eng	Crowe	np-cog-pl$$np$np-cog	deu	Crowe	np$np-cog
 	eng	Crowley	np-cog$$np	deu	Crowley	np
-	eng	Crown	np	deu	Crown	np$np-cog
+	eng	Crown	np$np-al-sg	deu	Crown	np$np-cog
 	eng	Cruise	np-cog-sg$np$$np-cog	deu	Cruise	np$np-cog
 	eng	Crunch	np	deu	Crunch	np$np-cog
 	eng	Culham	np	deu	Culham	np$np-cog
@@ -32825,7 +32825,7 @@ RL	eng	Brown	np$np-cog$np-cog-sg$	deu	Braun	np$np-cog
 	eng	Dawes	np	deu	Dawes	np$np-cog
 	eng	Dawkins	$np$np-cog-mfn	deu	Dawkins	np$np-cog
 	eng	Dawson	np-ant$$np$np-ant-m-sg	deu	Dawson	np$np-cog
-	eng	Day	np$	deu	Day	np$np-cog
+	eng	Day	np$$np-al-sg	deu	Day	np$np-cog
 	eng	De Beauvoir	np	deu	De Beauvoir	np$np-cog
 	eng	Deafman	np	deu	Deafman	np$np-cog
 	eng	Debs	np	deu	Debs	np$np-cog
@@ -32874,7 +32874,7 @@ RL	eng	Brown	np$np-cog$np-cog-sg$	deu	Braun	np$np-cog
 	eng	Duval	np-ant$$np$np-ant-m-sg	deu	Duval	np$np-cog
 	eng	Dyson	np-cog$$np	deu	Dyson	np$np-cog
 	eng	Earhart	np$np-al-sg	deu	Earhart	np$np-cog
-	eng	East	np	deu	East	np$np-cog
+	eng	East	np-top-sg$np$	deu	East	np$np-cog
 	eng	Eastwood	np-cog-sg$np-cog$$np	deu	Eastwood	np$np-cog
 	eng	Ebbelaar	np	deu	Ebbelaar	np$np-cog
 	eng	Edel	np-ant$np-ant-f-sg$np	deu	Edel	np
@@ -33309,7 +33309,7 @@ RL	eng	Brown	np$np-cog$np-cog-sg$	deu	Braun	np$np-cog
 	eng	Middelburg	np	deu	Middelburg	np
 	eng	Middleton	$np	deu	Middleton	np$np-cog
 	eng	Miehle	np	deu	Miehle	np$np-cog
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	deu	Miguel	np$np-cog
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	deu	Miguel	np$np-cog
 	eng	Milà	np-cog-pl$$np$np-cog	deu	Milà	np
 	eng	Miles	np-ant$$np$np-ant-m-sg	deu	Miles	np$np-cog
 	eng	Mill	np	deu	Mill	np$np-cog
@@ -33368,7 +33368,7 @@ RL	eng	Miller	np-cog-sg$np$np-cog$	deu	Müller	np$np-cog
 	eng	Nokes	np	deu	Nokes	np$np-cog
 	eng	Nolte	np$np-cog-mfn	deu	Nolte	np$np-cog
 	eng	Norris	np$$np-cog-mfn	deu	Norris	np$np-cog
-	eng	North	np	deu	North	np$np-cog
+	eng	North	np-top-sg$np$np-top-m-sg	deu	North	np$np-cog
 	eng	Nott	np	deu	Nott	np$np-cog
 	eng	Novelli	np	deu	Novelli	np$np-cog
 	eng	O'Brien	np$np-cog-sg$$np-cog	deu	O'Brien	np
@@ -33640,7 +33640,7 @@ RL	eng	Miller	np-cog-sg$np$np-cog$	deu	Müller	np$np-cog
 	eng	Sutherland	np-cog-sg$np-cog$$np	deu	Sutherland	np$np-cog
 	eng	Sutton	np$$np-top-sg	deu	Sutton	np$np-cog
 	eng	Swain	np	deu	Swain	np$np-cog
-	eng	Swan	$np	deu	Swan	np$np-cog
+	eng	Swan	$np$np-top-m-sg	deu	Swan	np$np-cog
 	eng	Swartridge	np	deu	Swartridge	np$np-cog
 	eng	Swayze	np	deu	Swayze	np$np-cog
 	eng	Swenson	np	deu	Swenson	np$np-cog
@@ -33797,7 +33797,7 @@ RL	eng	Miller	np-cog-sg$np$np-cog$	deu	Müller	np$np-cog
 	eng	Belarus	np-top$np$np-top-sg	deu	Weißrussland	np
 	eng	Belfast	np$np-top-sg	deu	Belfast	np
 	eng	Belgrade	np-top-m$np-top$np	deu	Belgrad	np
-	eng	Berlin	np-top$np$np-top-sg	deu	Berlin	np$np-top
+	eng	Berlin	np-top$np$np-top-sg$np-top-m-sg	deu	Berlin	np$np-top
 	eng	Birmingham	np$np-top-sg$np-top	deu	Birmingham	np
 	eng	Bishopton	np	deu	Bishopton	np
 	eng	Blackpool	np$np-loc	deu	Blackpool	np
@@ -33914,7 +33914,7 @@ RL	eng	Jordan	np-top$np$np-top-sg$	deu	Jordanien	np
 	eng	Nairobi	np$np-top$np-top-sg	deu	Nairobi	np
 	eng	Naples	np-loc$np	deu	Neapel	np
 	eng	Nebraska	np-loc$np	deu	Nebraska	np
-	eng	New Delhi	np$np-top$np-top-sg	deu	New Delhi	np
+	eng	New Delhi	np$np-top	deu	New Delhi	np
 	eng	New Malden	np	deu	New Malden	np
 	eng	New Orleans	np-loc$np	deu	New Orleans	np
 	eng	New York	np$np-top$np-top-m	deu	New York	np
@@ -33944,11 +33944,11 @@ RL	eng	Jordan	np-top$np$np-top-sg$	deu	Jordanien	np
 	eng	Rostock	np$np-top-sg	deu	Rostock	np
 	eng	Rotterdam	np-top-sg$np	deu	Rotterdam	np
 	eng	Saigon	np-loc$np	deu	Saigon	np
-	eng	Saint Petersburg	np-top-sg$np$np-top	deu	Sankt-Petersburg	np
+	eng	Saint Petersburg	np$np-top	deu	Sankt-Petersburg	np
 	eng	Salzburg	np-top-sg$np	deu	Salzburg	np
 	eng	San Diego	np-loc$np	deu	San Diego	np
 	eng	San Francisco	np$np-loc	deu	San Francisco	np
-	eng	San José	$np	deu	San José	np
+	eng	San José	np	deu	San José	np
 	eng	Schaffhausen	np	deu	Schaffhausen	np
 	eng	Seoul	np-loc$np	deu	Seoul	np
 	eng	Shanghai	np-top-sg$np$np-top	deu	Shanghai	np
@@ -34003,7 +34003,7 @@ LR	eng	Westend	np	deu	Westend	np
 	eng	Angola	np-top$np-top-sg$np	deu	Angola	np$np-nt
 	eng	Antigua and Barbuda	np-top$np$np-top-sg	deu	Antigua und Barbuda	np
 	eng	Arabia	np-top$np-top-sg$np	deu	Arabien	np
-	eng	Arctic	np$np-top-sg	deu	Arktis	np$np-top-f
+	eng	Arctic	np$np-top-sg$np-top-nt-sg	deu	Arktis	np$np-top-f
 	eng	Argentina	np-top$np$np-top-sg	deu	Argentinien	np$np-nt
 	eng	Arizona	np-top$np$np-top-sg	deu	Arizona	np
 	eng	Arkansas	np$np-top$np-top-sg	deu	Arkansas	np
@@ -34020,7 +34020,7 @@ LR	eng	Westend	np	deu	Westend	np
 	eng	Belgium	np-top$np$np-top-sg	deu	Belgien	np
 	eng	Benelux	np$np-org-sg	deu	Benelux	np
 	eng	Bolivia	np-top$np$np-top-sg	deu	Bolivien	np$np-nt
-RL	eng	Bosnia	np-top$np$np-top-f	deu	Bosnien	np
+RL	eng	Bosnia	np-top$np$np-top-sg	deu	Bosnien	np
 	eng	Bourbon	np	deu	Bourbon	np
 	eng	Brandenburg	np-top-sg$np	deu	Brandenburg	np
 	eng	Brazil	np-top$np$np-top-sg	deu	Brasilien	np
@@ -34034,14 +34034,14 @@ RL	eng	Bosnia	np-top$np$np-top-f	deu	Bosnien	np
 	eng	Cameroon	np-top$np$np-top-sg	deu	Kamerun	np
 	eng	Canada	np-top$np$np-top-sg	deu	Kanada	np
 	eng	Capital Territory	np$np-top	deu	Capital Territory	np
-	eng	Caribbean	np-top-sg$np$np-top	deu	Karibik	np
+	eng	Caribbean	np-top-sg$np$np-top$np-top-nt-sg	deu	Karibik	np
 	eng	Catalonia	np-loc$np$np-loc-sg	deu	Katalonien	np
 	eng	Cayenne	np$np-top-sg	deu	Cayenne	np
-	eng	Central Africa	np$np-top-sg	deu	Zentralafrika	np
+	eng	Central Africa	np	deu	Zentralafrika	np
 	eng	Central African Republic	np-top$np$np-top-sg	deu	Zentralafrikanische Republik	np
 	eng	Central America	np$np-loc	deu	Mittelamerika	np
 RL	eng	Central America	np$np-loc	deu	Zentralamerika	np
-	eng	Central Europe	np$np-top$np-top-sg	deu	Mitteleuropa	np
+	eng	Central Europe	np$np-top	deu	Mitteleuropa	np
 	eng	Chile	np-top$np$np-top-sg	deu	Chile	np$np-nt
 	eng	Chili	np	deu	Chili	np
 	eng	China	np-top$np-top-sg$np	deu	China	np
@@ -34054,12 +34054,12 @@ LR	eng	Colombia	np-top$np$np-top-sg	deu	Kolumbien	np
 	eng	Croatia	np-top$np$np-top-f	deu	Kroatien	np
 	eng	Cuba	np-top$np$np-top-sg	deu	Kuba	np
 	eng	Cyprus	np-top$np$np-top-sg	deu	Zypern	np
-	eng	Czech Republic	np-top$np$np-top-sg	deu	Tschechische Republik	np
+	eng	Czech Republic	np-top$np$np-top-f	deu	Tschechische Republik	np
 	eng	Czechia	np$np-top	deu	Tschechien	np
 	eng	Czechoslovakia	np-top$np$np-top-sg	deu	Tschechoslowakei	np
 	eng	Denmark	np-top$np$np-top-sg	deu	Dänemark	np$np-nt
 	eng	East Africa	np$np-top	deu	Ostafrika	np
-	eng	Eastern Europe	np-top$np$np-top-sg	deu	Osteuropa	np
+	eng	Eastern Europe	np-top$np	deu	Osteuropa	np
 RL	eng	Ecuador	np-top$np-top-sg$np	deu	Ekuador	np$np-nt
 	eng	Egypt	np-top$np$np-top-sg	deu	Ägypten	np
 	eng	England	np-top$np$np-top-sg$	deu	England	np$np-top
@@ -34088,7 +34088,7 @@ RL	eng	Georgia	np-top$np$np-top-sg	deu	Georgien	np
 	eng	Gibraltar	np-top$np-top-sg$np	deu	Gibraltar	np
 	eng	Great Britain	np-top$np$np-top-sg	deu	Großbritannien	np
 	eng	Greece	np-top$np$np-top-sg	deu	Griechenland	np
-	eng	Greenland	np-top$np$np-top-sg	deu	Grönland	np
+	eng	Greenland	np-top$np$np-top-sg$np-top-nt-sg	deu	Grönland	np
 	eng	Grenada	np-top$np$np-top-sg	deu	Grenada	np
 	eng	Guadeloupe	np-loc$np	deu	Guadeloupe	np
 	eng	Guatemala	np-top$np-top-sg$np	deu	Guatemala	np
@@ -34176,15 +34176,15 @@ LR	eng	New-Zealand	np	deu	Neuseeland	np
 	eng	Nigeria	np-top$np$np-top-sg	deu	Nigeria	np$np-nt
 	eng	Nordic Sea	np	deu	Europäisches Nordmeer	np
 	eng	Normandy	np$np-loc	deu	Normandie	np
-	eng	North America	np-top$np$np-top-sg	deu	Nordamerika	np
+	eng	North America	np-top$np	deu	Nordamerika	np
 	eng	North Korea	np-top$np$np-top-sg	deu	Nordkorea	np
-	eng	North Pole	np$np-top$np-top-sg$np-top-m-sg	deu	Nordpol	np
+	eng	North Pole	np$np-top	deu	Nordpol	np
 	eng	North Rhine-Westphalia	np	deu	Nordrhein-Westfalen	np
 	eng	North-Korea	np	deu	Nord-Korea	np
 	eng	Northern Canada	np	deu	Nordkanada	np
-	eng	Northern Europe	np-top$np$np-top-sg	deu	Nordeuropa	np
+	eng	Northern Europe	np-top$np	deu	Nordeuropa	np
 	eng	Northern Germany	np	deu	Norddeutschland	np
-	eng	Northern Ireland	np$np-top$np-top-sg	deu	Nordirland	np
+	eng	Northern Ireland	np$np-top	deu	Nordirland	np
 	eng	Norway	np-top$np$np-top-sg	deu	Norwegen	np
 	eng	Oceania	np-top$np$np-top-sg	deu	Ozeanien	np
 	eng	Ohio	np$np-loc	deu	Ohio	np
@@ -34193,7 +34193,7 @@ LR	eng	New-Zealand	np	deu	Neuseeland	np
 	eng	Ottawa	np-top$np-top-sg$$np	deu	Ottawa	np
 	eng	Pakistan	np-top$np$np-top-m	deu	Pakistan	np
 	eng	Palestine	np-top$np-top-sg$np	deu	Palästina	np
-	eng	Panama	np-top$np$np-top-sg	deu	Panama	np$np-nt
+	eng	Panama	np-top$np$np-top-sg$np-top-m-sg	deu	Panama	np$np-nt
 	eng	Papua New Guinea	np-top$np$np-top-sg	deu	Papua-Neuguinea	np
 	eng	Paraguay	np-top$np-top-sg$np	deu	Paraguay	np$np-nt
 	eng	Parijs	np	deu	Parijs	np
@@ -34225,18 +34225,18 @@ LR	eng	New-Zealand	np	deu	Neuseeland	np
 	eng	Somalia	np-top$np$np-top-sg	deu	Somalia	np
 	eng	Somerset	np-top-sg$np	deu	Somerset	np
 	eng	South Africa	np-top$np$np-top-sg	deu	Südafrika	np
-	eng	South America	np$np-top$np-top-sg	deu	Südamerika	np
+	eng	South America	np$np-top	deu	Südamerika	np
 	eng	South Korea	np-top$np$np-top-sg	deu	Südkorea	np
 	eng	South-Korea	np	deu	Südkorea	np
-	eng	South Pole	np$np-top$np-top-m-sg$np-top-sg	deu	Südpol	np
+	eng	South Pole	np$np-top	deu	Südpol	np
 	eng	South Wales	np	deu	Süd-Wales	np
 	eng	South Wales	np	deu	Südwales	np
 	eng	Southern Bavaria	np	deu	Südbayern	np
 	eng	Southern Canada	np	deu	Südkanada	np
-	eng	Southern Europe	np$np-top$np-top-sg	deu	Südeuropa	np
+	eng	Southern Europe	np$np-top	deu	Südeuropa	np
 	eng	Soviet Union	np$np-top$np-top-sg	deu	Sowjetunion	np
 	eng	Spain	np-top$np$np-top-sg	deu	Spanien	np
-	eng	Sri Lanka	np-top$np-top-sg$np	deu	Sri Lanka	np
+	eng	Sri Lanka	np-top$np$np-top-f	deu	Sri Lanka	np
 	eng	Sudan	np-top$np-top-sg$np	deu	Sudan	np
 	eng	Swaziland	np-top$np-top-sg$np	deu	Swasiland	np
 	eng	Sweden	np-top$np$np-top-sg	deu	Schweden	np
@@ -34249,7 +34249,7 @@ LR	eng	New-Zealand	np	deu	Neuseeland	np
 	eng	Tennessee	np-loc$np	deu	Tennessee	np
 	eng	Texas	np$np-top$np-top-sg	deu	Texas	np
 	eng	Thailand	np-top$np-top-sg$np	deu	Thailand	np$np-nt
-	eng	the Alps	np$np-top$np-top-pl	deu	die Alpen	np
+	eng	the Alps	np$np-top	deu	die Alpen	np
 	eng	the Andes	np$np-top	deu	die Anden	np
 	eng	the Balkans	np$np-top	deu	die Balkanstaaten	np
 	eng	the Philippines	np$np-top	deu	die Philippinen	np
@@ -34279,11 +34279,11 @@ LR	eng	U.S.A.	np$np-top-pl	deu	USA	np$np-top-m-pl
 	eng	Vietnam	np-top$np-top-sg$np	deu	Vietnam	np
 	eng	Wales	np-top$np$np-top-sg	deu	Wales	np
 	eng	Wallonia	np$np-loc	deu	Wallonien	np
-	eng	West Africa	np$np-top$np-top-sg	deu	Westafrika	np
+	eng	West Africa	np$np-top	deu	Westafrika	np
 	eng	West Bank	np-loc$np$np-loc-sg	deu	Westjordanland	np
-	eng	West Germany	np$np-top$np-top-sg	deu	Westdeutschland	np
+	eng	West Germany	np$np-top	deu	Westdeutschland	np
 	eng	West Indies	np$np-top	deu	Westindien	np
-	eng	Western Europe	np-top$np$np-top-sg	deu	Westeuropa	np
+	eng	Western Europe	np-top$np	deu	Westeuropa	np
 	eng	Westhampton	np	deu	Westhampton	np
 	eng	Westsahara	np	deu	Westsahara	np
 	eng	Yellowstone	np-top-sg$np	deu	Yellowstone	np
@@ -34304,33 +34304,33 @@ LR	eng	U.S.A.	np$np-top-pl	deu	USA	np$np-top-m-pl
 	eng	Antarctica	np-top$np$np-top-sg	deu	Antarctica	np
 	eng	Aragon	np-loc$np	deu	Aragon	np
 	eng	Aral Sea	np$np-top	deu	Aralsee	np
-	eng	Arctic Ocean	np$np-top-nt-sg	deu	Nordpolarmeer	np
+	eng	Arctic Ocean	np	deu	Nordpolarmeer	np
 	eng	Asturias	np-loc$np	deu	Asturias	np
-	eng	Atlantic	np$np-top-sg$np-top	deu	Atlantik	np
-	eng	Atlantic Ocean	np$np-top-m-sg$np-top-sg	deu	Atlantik	np
-	eng	Atlantic Ocean	np$np-top-m-sg$np-top-sg	deu	Atlantischer Ozean	np
-RL	eng	Atlantic Ocean	np$np-top-m-sg$np-top-sg	deu	Atlantische Ozean	np
-	eng	Atlas Mountains	np-top-sg$np	deu	Atlasgebirge	np
+	eng	Atlantic	np$np-top-sg$np-top-m-sg$np-top	deu	Atlantik	np
+	eng	Atlantic Ocean	np$np-al	deu	Atlantik	np
+	eng	Atlantic Ocean	np$np-al	deu	Atlantischer Ozean	np
+RL	eng	Atlantic Ocean	np$np-al	deu	Atlantische Ozean	np
+	eng	Atlas Mountains	np	deu	Atlasgebirge	np
 	eng	Australasia	np$np-top	deu	Australasien	np
 	eng	Baffinbaai	np	deu	Baffinbaai	np
 	eng	Bahrein	np	deu	Bahrein	np
 	eng	Baikal	np-top-sg$np	deu	Baikal	np
-	eng	Balkan	np	deu	Balkan	np
+	eng	Balkan	np-top-sg$np	deu	Balkan	np
 	eng	Balkans	np-top$np$np-top-pl	deu	Balkanstaaten	np
-	eng	Baltic Sea	np$np-top$np-top-m-sg	deu	Ostsee	np$np-top-f
-	eng	Barents Sea	np$np-top-sg$np-top$np-top-nt-sg	deu	Barentssee	np$np-top-f
+	eng	Baltic Sea	np$np-top	deu	Ostsee	np$np-top-f
+	eng	Barents Sea	np$np-top	deu	Barentssee	np$np-top-f
 	eng	Beaufortsee	np	deu	Beaufortsee	np$np-top-f
-	eng	Bering Sea	np$np-top$np-top-nt-sg	deu	Beringsee	np
-	eng	Bering Strait	np$np-top-nt-sg	deu	Beringstraße	np$np-top-f
+	eng	Bering Sea	np$np-top	deu	Beringsee	np
+	eng	Bering Strait	np	deu	Beringstraße	np$np-top-f
 	eng	Berne	np-loc$np	deu	Berne	np
 	eng	Bessarabia	np-top$np$np-top-sg	deu	Bessarabien	np
 	eng	Big Ben	np	deu	Big Ben	np
 	eng	Black Forest	np	deu	Schwarzwald	np
-	eng	Black Sea	np$np-top$np-top-sg$np-top-nt-sg	deu	Schwarzes Meer	np
+	eng	Black Sea	np$np-top	deu	Schwarzes Meer	np
 	eng	Bloemfontein	np$np-top-sg	deu	Bloemfontein	np
 	eng	Bogota	np-top$np$np-top-sg	deu	Bogota	np
 	eng	Bond Street	np	deu	Bond Street	np
-	eng	Bosnia	np-top$np$np-top-f	deu	Bosnia	np
+	eng	Bosnia	np-top$np$np-top-sg	deu	Bosnia	np
 	eng	Bosporus	np$np-top	deu	Bosporus	np
 	eng	Brabant	$np$np-top-sg	deu	Brabant	np
 	eng	Bridge Street	np	deu	Brückenstraße	np
@@ -34339,13 +34339,13 @@ RL	eng	Atlantic Ocean	np$np-top-m-sg$np-top-sg	deu	Atlantische Ozean	np
 	eng	Broadway	np-top-sg$np	deu	Broadway	np
 	eng	Buckingham Palace	np-loc$np	deu	Buckingham Palast	np
 RL	eng	Calcutta	np$np-top$np-top-sg	deu	Calcutta	np
-	eng	Canary Islands	np-top$np-top-pl$np	deu	Kanarische Inseln	np
+	eng	Canary Islands	np-top$np$np-top-pl	deu	Kanarische Inseln	np
 	eng	Cantabria	np-loc$np$np-loc-sg	deu	Cantabria	np
 	eng	Cape Kennedy	np	deu	Cape Kennedy	np
 	eng	Cape of Good Hope	np	deu	Kap der Guten Hoffnung	np
-	eng	Caspian Sea	np$np-top$np-top-sg	deu	Kaspisches Meer	np
+	eng	Caspian Sea	np$np-top	deu	Kaspisches Meer	np
 	eng	Castile and Leon	np-loc$np	deu	Castile and Leon	np
-	eng	Central Asia	np$np-top$np-top-sg	deu	Zentralasien	np
+	eng	Central Asia	np$np-top	deu	Zentralasien	np
 	eng	Central Park	np	deu	Central Park	np
 	eng	Ceuta	np-loc$np	deu	Ceuta	np
 	eng	Ceylon	np$np-loc	deu	Ceylon	np
@@ -34359,8 +34359,8 @@ RL	eng	Calcutta	np$np-top$np-top-sg	deu	Calcutta	np
 	eng	Costa Blanca	np$np-loc	deu	Costa Blanca	np
 	eng	Costa Brava	np$np-loc	deu	Costa Brava	np
 	eng	Costa del Sol	np$np-loc	deu	Costa del Sol	np
-	eng	Costa Rica	np-top$np-top-sg$np	deu	Costa Rica	np
-	eng	Covent Garden	np$np-top-sg	deu	Covent Garden	np
+	eng	Costa Rica	np-top$np$np-top-sg	deu	Costa Rica	np
+	eng	Covent Garden	np	deu	Covent Garden	np
 	eng	Coventry	np$np-loc	deu	Coventry	np
 	eng	Danube	np$np-top$np-top-m	deu	Donau	np
 	eng	Den Bosch	np	deu	Den Bosch	np
@@ -34396,7 +34396,7 @@ LR	eng	Empire-State-Building	np	deu	Empire State Building	np
 	eng	Grindavík	np$np-top	deu	Grindavík	np
 	eng	Groningen	np-top-sg$np	deu	Groningen	np
 	eng	Guinee	np	deu	Guinee	np
-	eng	Gulf of Mexico	np$np-top$np-top-sg$np-top-m-sg	deu	Golf von Mexiko	np
+	eng	Gulf of Mexico	np$np-top	deu	Golf von Mexiko	np
 	eng	Hammersmith	np$np-top-sg	deu	Hammersmith	np
 	eng	Hammerstone	np	deu	Hammerstone	np
 	eng	Harlem	np$np-org-sg	deu	Harlem	np
@@ -34405,7 +34405,7 @@ LR	eng	Empire-State-Building	np	deu	Empire State Building	np
 	eng	Hindu Kush	np$np-top	deu	Hindukusch	np
 	eng	Hofshreppur	np$np-top	deu	Hofshreppur	np
 	eng	Holstein	np$np-top$np-top-m	deu	Holstein	np
-	eng	Hudson Bay	np$np-top-f-sg	deu	Hudson Bay	np
+	eng	Hudson Bay	np	deu	Hudson Bay	np
 	eng	Hythe	np	deu	Hythe	np
 	eng	Ibiza	np-loc$np	deu	Ibiza	np
 	eng	Jersey	np-top$np-top-sg$np	deu	Jersey	np
@@ -34419,7 +34419,7 @@ LR	eng	Empire-State-Building	np	deu	Empire State Building	np
 	eng	La Coruña	np$np-loc	deu	La Coruña	np
 	eng	La Louvière	np	deu	La Louvière	np
 	eng	Lagkadikia	np	deu	Lagkadikia	np
-	eng	Lake Baikal	np$np-top-m-sg	deu	Baikalsee	np
+	eng	Lake Baikal	np	deu	Baikalsee	np
 	eng	Lake Constance	np	deu	Bodensee	np
 	eng	Lake District	np	deu	Lake District	np
 	eng	Landspítali	np$np-top	deu	Landspítali	np
@@ -34427,13 +34427,13 @@ LR	eng	Empire-State-Building	np	deu	Empire State Building	np
 	eng	Libien	np	deu	Libien	np
 	eng	Ligurien	np	deu	Ligurien	np
 	eng	Lleida	np-loc$np	deu	Lleida	np
-	eng	Loch Ness	np$np-top-sg	deu	Loch Ness	np
+	eng	Loch Ness	np	deu	Loch Ness	np
 	eng	London Bridge	np	deu	London Bridge	np
 	eng	Madeira	np-top-sg$np	deu	Madeira	np
 	eng	Malaya	np$np-ant	deu	Malaya	np
 	eng	Margate	np	deu	Margate	np
 	eng	Mediterranean	np-loc$np	deu	Mediterranean	np
-	eng	Mediterranean Sea	np$np-top$np-top-nt-sg	deu	Mittelmeer	np
+	eng	Mediterranean Sea	np$np-top	deu	Mittelmeer	np
 	eng	Melanesien	np	deu	Melanesien	np
 	eng	Melilla	np-loc$np	deu	Melilla	np
 	eng	Middle East	np$np-loc	deu	Naher Osten	np
@@ -34448,7 +34448,7 @@ LR	eng	Empire-State-Building	np	deu	Empire State Building	np
 	eng	Nelspruit	np$np-top-m	deu	Nelspruit	np
 	eng	Nile	np-top$np-top-sg$np	deu	Nil	np
 	eng	North Africa	np$np-top	deu	Nordafrika	np
-	eng	North Sea	np$np-top$np-top-m-sg	deu	Nordsee	np$np-top-f
+	eng	North Sea	np$np-top	deu	Nordsee	np$np-top-f
 	eng	Nürnberg	np	deu	Nürnberg	np
 	eng	Nuttle	np	deu	Nuttle	np
 	eng	Oldham	np$np-loc	deu	Oldham	np
@@ -34476,7 +34476,7 @@ LR	eng	Empire-State-Building	np	deu	Empire State Building	np
 	eng	Sabadell	np-loc$$np	deu	Sabadell	np
 	eng	Sahara	np-top$np-top-sg$np	deu	Sahara	np
 	eng	Salford	np$np-top-m	deu	Salford	np
-	eng	San Marino	np-top$np-top-sg$np	deu	San Marino	np
+	eng	San Marino	np-top$np$np-top-sg	deu	San Marino	np
 	eng	Saturn	np$np-loc	deu	Saturn	np
 	eng	Saxony-Anhalt	np	deu	Sachsen-Anhalt	np
 	eng	Schleswig-Holstein	np$np-top-m-sg	deu	Schleswig-Holstein	np
@@ -34511,7 +34511,7 @@ RL	eng	Thames	np$np-top-sg	deu	Thames	np
 	eng	Transvaal	np$np-top-sg	deu	Transvaal	np
 	eng	Trinidad	np-ant$np$np-ant-f-sg	deu	Trinidad	np
 	eng	Turin	np-loc$np	deu	Turin	np
-	eng	Ural Mountains	np$np-top-pl	deu	Uralgebirge	np
+	eng	Ural Mountains	np$np-al	deu	Uralgebirge	np
 	eng	Varangerfjord	np$np-top-m-sg	deu	Varangerfjord	np
 	eng	Vatican	np$np-loc	deu	Vatikan	np
 	eng	Vigur	np$np-top	deu	Vigur	np
@@ -34537,7 +34537,7 @@ RL	eng	Thames	np$np-top-sg	deu	Thames	np
 	eng	Aquarius	np-al$np	deu	Wassermann	n$n-m
 	eng	Arys-Turkistan	np$np-top-sg	deu	Arys-Turkistan	np$np-ant
 	eng	Beatriz del Valle	np-ant$np$np-ant-f-sg	deu	Beatriz del Valle	np
-	eng	British Airways	np-al$np$np-al-sg	deu	British Airways	np
+	eng	British Airways	np-al$np	deu	British Airways	np
 	eng	British Commonwealth	np	deu	Britische Commonwealth	np
 	eng	Clever	np-ant$np$np-ant-m-sg	deu	Clever	np
 	eng	Coca-Cola	np$np-al-sg	deu	Coca-Cola	np
@@ -34553,7 +34553,7 @@ RL	eng	Thames	np$np-top-sg	deu	Thames	np
 	eng	Haggis	np	deu	Haggis	np
 	eng	Icesave	np$np-al	deu	Icesave	np
 	eng	Independence Party	np$np-org	deu	Independence Party	np
-	eng	International Monetary Fund	np-al$np$np-al-sg	deu	Weltwährungsfonds	np
+	eng	International Monetary Fund	np-al$np	deu	Weltwährungsfonds	np
 	eng	Irma de la Paz	np-ant$np$np-ant-f-sg	deu	Irma de la Paz	np
 	eng	Íslandsbanki	np$np-org	deu	Íslandsbanki	np
 	eng	Javascript	np$np-al	deu	Javascript	np
@@ -41085,7 +41085,7 @@ RL	eng	again	adv	deu	wieder	adv
 	eng	algorithmically	adv	deu	algorithmisch	adv
 	eng	alias	adv	deu	alias	adv
 	eng	alike	adv	deu	gleichartig	adv
-	eng	all	adv	deu	alle	adv
+	eng	all	adv$	deu	alle	adv
 	eng	all-around	adv	deu	ringsum	adv
 	eng	allegedly	adv	deu	angeblich	adv
 	eng	almost	adv	deu	fast	adv
@@ -49045,7 +49045,7 @@ RL	eng	seventh	num$num-ord	deu	siebente	num
 	eng	ninety-nine	num-sp$num	deu	neunundneunzig	num
 	eng	a few	num	deu	einige	num
 LR	eng	a hundred	num$num-sp	deu	einhundert	num
-	eng	a million	num$num-pl	deu	eine Million	num
+	eng	a million	num	deu	eine Million	num
 	eng	a thousand	num	deu	eintausend	num
 	eng	billion	num$num-pl	deu	Milliarde	num
 	eng	eightieth	num	deu	achtzigste	num
@@ -49061,7 +49061,7 @@ LR	eng	fourscore	num	deu	achtzig	num
 RL	eng	one	num$num-sg$$num-pl-sg	deu	ein	num
 	eng	one and a half	num	deu	eineinhalb	num
 	eng	one hundred	num$num-sp	deu	einhundert	num
-LR	eng	one million	num$num-pl	deu	eine Million	num
+LR	eng	one million	num	deu	eine Million	num
 LR	eng	one thousand	num	deu	eintausend	num
 	eng	seventieth	num	deu	siebzigste	num
 	eng	sixtieth	num	deu	sechzigste	num
@@ -49070,7 +49070,7 @@ LR	eng	one thousand	num	deu	eintausend	num
 	eng	zero	num$num-sg	deu	null	num$
 	eng	eight hundred	num$num-sp	deu	achthundert	num
 	eng	eight thousand	num-sp$num	deu	achttausend	num
-	eng	eighteen hundred	num$num-pl	deu	achtzehnhundert	num
+	eng	eighteen hundred	num	deu	achtzehnhundert	num
 	eng	eighteen thousand	num-sp$num	deu	achtzehntausend	num
 	eng	eighty hundred	num	deu	achtzighundert	num
 	eng	eighty thousand	num-sp$num	deu	achtzigtausend	num
@@ -49092,9 +49092,9 @@ LR	eng	one thousand	num	deu	eintausend	num
 	eng	eighty-three thousand	num-sp$num	deu	dreiundachtzigtausend	num
 	eng	eighty-two hundred	num	deu	zweiundachtzighundert	num
 	eng	eighty-two thousand	num-sp$num	deu	zweiundachtzigtausend	num
-	eng	eleven hundred	num$num-pl	deu	elfhundert	num
+	eng	eleven hundred	num	deu	elfhundert	num
 	eng	eleven thousand	num-sp$num	deu	elftausend	num
-	eng	fifteen hundred	num$num-pl	deu	fünfzehnhundert	num
+	eng	fifteen hundred	num	deu	fünfzehnhundert	num
 	eng	fifteen thousand	num-sp$num	deu	fünfzehntausend	num
 	eng	fifty hundred	num	deu	fünfzighundert	num
 	eng	fifty thousand	num-sp$num	deu	fünfzigtausend	num
@@ -49140,11 +49140,11 @@ LR	eng	one thousand	num	deu	eintausend	num
 	eng	forty-two thousand	num-sp$num	deu	zweiundvierzigtausend	num
 	eng	four hundred	num$num-sp	deu	vierhundert	num
 	eng	four thousand	num-sp$num	deu	viertausend	num
-	eng	fourteen hundred	num$num-pl	deu	vierzehnhundert	num
+	eng	fourteen hundred	num	deu	vierzehnhundert	num
 	eng	fourteen thousand	num-sp$num	deu	vierzehntausend	num
 	eng	nine hundred	num$num-sp	deu	neunhundert	num
 	eng	nine thousand	num-sp$num	deu	neuntausend	num
-	eng	nineteen hundred	num$num-pl	deu	neunzehnhundert	num
+	eng	nineteen hundred	num	deu	neunzehnhundert	num
 	eng	nineteen thousand	num-sp$num	deu	neunzehntausend	num
 	eng	ninety hundred	num	deu	neunzighundert	num
 	eng	ninety thousand	num-sp$num	deu	neunzigtausend	num
@@ -49169,7 +49169,7 @@ LR	eng	one thousand	num	deu	eintausend	num
 	eng	one hundred thousand	num	deu	hunderttausend	num
 	eng	seven hundred	num$num-sp	deu	siebenhundert	num
 	eng	seven thousand	num-sp$num	deu	siebentausend	num
-	eng	seventeen hundred	num$num-pl	deu	siebzehnhundert	num
+	eng	seventeen hundred	num	deu	siebzehnhundert	num
 	eng	seventeen thousand	num-sp$num	deu	siebzehntausend	num
 	eng	seventy hundred	num	deu	siebzighundert	num
 	eng	seventy thousand	num-sp$num	deu	siebzigtausend	num
@@ -49193,7 +49193,7 @@ LR	eng	one thousand	num	deu	eintausend	num
 	eng	seventy-two thousand	num-sp$num	deu	zweiundsiebzigtausend	num
 	eng	six hundred	num$num-sp	deu	sechshundert	num
 	eng	six thousand	num-sp$num	deu	sechstausend	num
-	eng	sixteen hundred	num$num-pl	deu	sechszehnhundert	num
+	eng	sixteen hundred	num	deu	sechszehnhundert	num
 	eng	sixteen thousand	num-sp$num	deu	sechszehntausend	num
 	eng	sixty hundred	num	deu	sechzighundert	num
 	eng	sixty thousand	num-sp$num	deu	sechzigtausend	num
@@ -49215,9 +49215,9 @@ LR	eng	one thousand	num	deu	eintausend	num
 	eng	sixty-three thousand	num-sp$num	deu	dreiundsechzigtausend	num
 	eng	sixty-two hundred	num	deu	zweiundsechzighundert	num
 	eng	sixty-two thousand	num-sp$num	deu	zweiundsechzigtausend	num
-	eng	ten hundred	num$num-pl	deu	zehnhundert	num
+	eng	ten hundred	num$num-sp	deu	zehnhundert	num
 	eng	ten thousand	num-sp$num	deu	zehntausend	num
-	eng	thirteen hundred	num$num-pl	deu	dreizehnhundert	num
+	eng	thirteen hundred	num	deu	dreizehnhundert	num
 	eng	thirteen thousand	num-sp$num	deu	dreizehntausend	num
 	eng	thirty hundred	num	deu	dreißighundert	num
 	eng	thirty thousand	num-sp$num	deu	dreißigtausend	num
@@ -49241,7 +49241,7 @@ LR	eng	one thousand	num	deu	eintausend	num
 	eng	thirty-two thousand	num-sp$num	deu	zweiunddreißigtausend	num
 	eng	three hundred	num$num-sp	deu	dreihundert	num
 	eng	three thousand	num-sp$num	deu	dreitausend	num
-	eng	twelve hundred	num$num-pl	deu	zwölfhundert	num
+	eng	twelve hundred	num	deu	zwölfhundert	num
 	eng	twelve thousand	num-sp$num	deu	zwölftausend	num
 	eng	twenty hundred	num	deu	zwanzighundert	num
 	eng	twenty thousand	num-sp$num	deu	zwanzigtausend	num
@@ -49318,7 +49318,7 @@ LR	eng	one thousand	num	deu	eintausend	num
 	eng	XXI	num-sp$num	deu	XXI	num
 	eng	XXII	num	deu	XXII	num
 	eng	a	det-ind-sg$det-ind$det$	deu	ein	det$det-ind$det-ind-nt
-LR	eng	a few	det-qnt-pl$det$det-qnt	deu	einige	num
+LR	eng	a few	det$det-qnt$det-qnt-pl	deu	einige	num
 LR	eng	a lot of	det-qnt-sp$det$det-qnt	deu	viele	det$det-qnt
 	eng	all	det-qnt$det$det-qnt-sp	deu	alle	det$det-ind$det-ind-f
 RL	eng	all	det-qnt$det$det-qnt-sp	deu	sämtlich	det
@@ -49327,7 +49327,7 @@ RL	eng	all	det-qnt$det$det-qnt-sp	deu	sämtlich	det
 	eng	another	det-ind$det-ind-sg$det	deu	noch ein	det
 	eng	any	det-ind-sp$det-ind$det	deu	irgendwelche	det
 RL	eng	any	det-ind-sp$det-ind$det	deu	irgendein	det
-	eng	as much	det-qnt$det-qnt-sg$det	deu	soviel	det
+	eng	as much	det-qnt$det$det-qnt-sg	deu	soviel	det
 	eng	both	det-ind$det$det-ind-pl	deu	beide	det$det-ind$det-ind-f
 LR	eng	each	det-ind$det-ind-sg$det	deu	jede	det$det-ind$det-ind-f
 	eng	enough	det-qnt-sp$det-qnt$det	deu	genug	det
@@ -49339,7 +49339,7 @@ LR	eng	lots of	det-qnt-sp$det$det-qnt	deu	viele	det$det-qnt
 	eng	many	det-qnt$det$det-qnt-pl	deu	viel	adj$adj-sint
 RL	eng	many	det-qnt$det$det-qnt-pl	deu	manche	det$det-qnt
 LR	eng	many	det-qnt$det$det-qnt-pl	deu	viele	det$det-qnt
-	eng	more	det-qnt$det-qnt-sp$det	deu	mehr	det$det-qnt-GD-ND
+	eng	more	det-qnt-sp$det-qnt$det	deu	mehr	det$det-qnt-GD-ND
 	eng	most	det-qnt$det-qnt-sp$det	deu	meisten	det
 	eng	most of	det-qnt-sp$det	deu	die meisten	det
 	eng	much	det-qnt$det-qnt-sg$det	deu	viel	adj$adj-sint

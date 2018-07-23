@@ -787,7 +787,7 @@
 	pes	خفاش	n	eng	bat	n$n-sg
 	pes	تکواندوکار	n	eng	taekwondo player	n
 	pes	ارتش	n	eng	army	n$n-sg
-	pes	نمک	n	eng	salt	n$n-ND
+	pes	نمک	n	eng	salt	n$n-sg
 	pes	آبادی	n	eng	village	n$n-sg
 	pes	حاجت	n	eng	need	n$n-sg
 	pes	اختیار	n	eng	authority	n$n-sg
@@ -1709,7 +1709,7 @@
 	pes	روش	n	eng	method	n$n-sg
 	pes	قسمت	n	eng	section	n$n-sg
 	pes	صید	n	eng	hunting	n$n-sg
-	pes	مسافرت	n	eng	travel	n$n-ND
+	pes	مسافرت	n	eng	travel	n$n-sg
 	pes	پیش‌داوری	n	eng	prejudice	n$n-ND
 	pes	رفیق	n	eng	comrade	n$n-ND
 	pes	جیوه	n	eng	mercury	n
@@ -1960,7 +1960,7 @@
 	pes	مجاورت	n	eng	vicinity	n$n-sg
 	pes	هفته	n	eng	week	n$n-ND
 	pes	دانش‌سرا	n	eng	teacher's college	n
-	pes	دوا	n	eng	drug	n$n-ND
+	pes	دوا	n	eng	drug	n$n-sg
 	pes	شاه‌راه	n	eng	highway	n$n-ND
 	pes	تیغ‌ماهی	n	eng	fishbone	n
 	pes	سیاه‌رگ	n	eng	vein	n$n-ND
@@ -2386,7 +2386,7 @@
 	pes	غواص	n	eng	diver	n
 	pes	آبزی	n	eng	aquatic	adj
 	pes	عطار	n	eng	apothecary	n
-	pes	سفر	n	eng	travel	n$n-ND
+	pes	سفر	n	eng	travel	n$n-sg
 	pes	احترام	n	eng	respect	n$n-ND
 	pes	تلنبار	n	eng	piling	n
 	pes	بازجویی	n	eng	interrogation	n
@@ -3081,7 +3081,7 @@
 	pes	شوق	n	eng	craze	n
 	pes	تریبون	n	eng	tribune	n
 	pes	تحول	n	eng	evolution	n$n-ND
-	pes	قوطی	n	eng	can	n$n-ND
+	pes	قوطی	n	eng	can	n$n-sg
 	pes	تاب	n	eng	twist	n$n-ND
 	pes	تاس	n	eng	dice	n$n-sg
 	pes	چکامه	n	eng	ode	n$n-sg
@@ -4266,7 +4266,7 @@
 	pes	کریکت	n	eng	cricket	n
 	pes	تزار	n	eng	tesar	n
 	pes	تلویزیون	n	eng	TV	n$n-acr
-	pes	پی‌یر	np	eng	Pierre	np-ant$np$np-ant-m-sg$np-ant-m
+	pes	پی‌یر	np	eng	Pierre	np-ant$np-ant-m-sg$np$np-ant-m
 	pes	تپاله	n	eng	dung	n
 	pes	کوپکی	n	eng	kopek	n$n-sg
 	pes	دمونت کریس تو	np	eng	Monte Cristo	np
@@ -5928,11 +5928,11 @@
 	pes	ملس	adj	eng	sweetandsour	adj
 	pes	دیگر	adj	eng	another	adj
 	pes	دور	adj	eng	far	adj-sint$adj$adj-sint-comp
-	pes	تمام	adj	eng	all	adj$
+	pes	تمام	adj	eng	all	adj
 	pes	کنار	adj	eng	near	adj-sint$adj
 	pes	قابل قبول	adj	eng	acceptable	adj
 	pes	خاموش	adj	eng	silent	adj$adj-sint
-	pes	یکی	adj	eng	one	adj
+	pes	یکی	adj	eng	one	adj$adj-ord
 	pes	افسرده	adj	eng	depressed	adj
 	pes	بهتر	adj	eng	better	adj
 	pes	خلوت	adj	eng	deserted	adj
@@ -6248,8 +6248,8 @@
 	pes	هیچ کس	adj	eng	anyone	adj
 	pes	هیچ‌کس	adj	eng	anyone	adj
 	pes	هرکس	adj	eng	everyone	adj
-	pes	همه	adj	eng	all	adj$
-	pes	همگی	adj	eng	all	adj$
+	pes	همه	adj	eng	all	adj
+	pes	همگی	adj	eng	all	adj
 	pes	یکدیگر	n	eng	each other	n
 	pes	همدیگر	n	eng	each other	n
 	pes	هم	n	eng	each other	n
@@ -6289,7 +6289,7 @@
 	pes	روی	pr	eng	on	pr
 	pes	با	pr	eng	with	pr$
 	pes	از	pr	eng	from	pr
-	pes	از	pr	eng	of	pr
+	pes	از	pr	eng	of	pr$
 	pes	زیر	pr	eng	under	pr
 	pes	به سوی	pr	eng	toward	pr
 	pes	در آن سوی	pr	eng	across	pr

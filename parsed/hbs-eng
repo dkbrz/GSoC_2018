@@ -24,7 +24,7 @@
 	hbs	postrojba	n	eng	unit	n$n-sg
 	hbs	nadahnuti	vblex	eng	inspire	vblex
 	hbs	pozornost	n	eng	attention	n$n-sg
-	hbs	Alexander	np	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$
+	hbs	Alexander	np	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$
 	hbs	Pehr	np	eng	Pehr	np$np-ant
 	hbs	primijetiti	vblex-perf-tv$vblex	eng	note	vblex$vblex-sep
 	hbs	rastući	adj	eng	increased	adj
@@ -2162,7 +2162,7 @@ RL	hbs	svijećnjak	n$n-mi	eng	candelabrum	n
 	hbs	griža	n$n-f	eng	dysentery	n$n-unc
 	hbs	griža	n$n-f	eng	remorse	n
 	hbs	griža	n$n-f	eng	stone	n$n-ND
-	hbs	gripa	n$n-mi	eng	flu	n$n-ND
+	hbs	gripa	n$n-mi	eng	flu	n$n-sg
 	hbs	loža	n$n-f	eng	lodge	n
 	hbs	reportaža	n$n-f	eng	report	n$n-ND
 	hbs	riža	n-f$n	eng	rice	n$n-ND
@@ -2187,7 +2187,7 @@ RL	hbs	svijećnjak	n$n-mi	eng	candelabrum	n
 	hbs	kušnja	n-f$n	eng	temptation	n$n-ND
 	hbs	milostinja	n$n-f	eng	charity	n$n-sg
 	hbs	mošnja	n$n-f	eng	scrotum	n
-	hbs	munja	n-f$n	eng	lightning	n$n-unc
+	hbs	munja	n-f$n	eng	lightning	n-unc
 	hbs	nošnja	n$n-f	eng	costume	n$n-ND
 	hbs	ophodnja	n$n-f	eng	patrol	n$n-ND
 	hbs	oplodnja	n$n-f	eng	fertilization	n$n-unc
@@ -3158,7 +3158,7 @@ RL	hbs	rodilja	n$n-f	eng	woman	n$n-ND
 	hbs	ljuska	n$n-f	eng	husk	n
 	hbs	ljuska	n$n-f	eng	shell	n$n-sg
 	hbs	lozinka	n$n-f	eng	password	n$n-ND
-	hbs	limenka	n$n-f	eng	can	n$n-ND
+	hbs	limenka	n$n-f	eng	can	n$n-sg
 	hbs	ljepenka	n$n-f	eng	cardboard	n$n-ND
 	hbs	građanka	n$n-f	eng	citizen	n$n-sg
 	hbs	guska	n-f$n	eng	goose	n$n-sg
@@ -3186,7 +3186,7 @@ RL	hbs	rodilja	n$n-f	eng	woman	n$n-ND
 	hbs	gljiva	n-f$n	eng	mushroom	n$n-sg
 	hbs	ispostava	n$n-f	eng	branch	n$n-sg
 	hbs	ispostava	n$n-f	eng	subsidiary	n
-	hbs	konzerva	n$n-f	eng	can	n$n-ND
+	hbs	konzerva	n$n-f	eng	can	n$n-sg
 	hbs	tvrdnja	n$n-f	eng	statement	n$n-ND
 	hbs	blagajna	n$n-f	eng	cash register	n
 	hbs	brodogradnja	n$n-f	eng	shipbuilding	n$n-unc
@@ -3254,7 +3254,7 @@ RL	hbs	rodilja	n$n-f	eng	woman	n$n-ND
 	hbs	nepravda	n-f$n	eng	injustice	n$n-ND
 	hbs	nužda	n$n-f	eng	necessity	n
 	hbs	nužda	n$n-f	eng	need	n$n-sg
-	hbs	sekunda	n-f$n	eng	second	n$n-ND
+	hbs	sekunda	n-f$n	eng	second	n$n-sg
 	hbs	veranda	n$n-f	eng	porch	n
 	hbs	veranda	n$n-f	eng	veranda	n
 	hbs	torta	n-f$n	eng	cake	n$n-ND
@@ -3436,7 +3436,7 @@ RL	hbs	šminka	n$n-f	eng	makeup	n$n-sg
 	hbs	razrješenje	n$n-nt	eng	resolution	n$n-ND
 	hbs	sađenje	n$n-nt	eng	planting	n
 	hbs	savjetovanje	n-nt$n	eng	counseling	n$n-unc
-	hbs	sijevanje	n$n-nt	eng	lightning	n$n-unc
+	hbs	sijevanje	n$n-nt	eng	lightning	n-unc
 	hbs	sklanjanje	n$n-nt	eng	declension	n
 	hbs	sklanjanje	n$n-nt	eng	removal	n$n-ND
 	hbs	spasenje	n$n-nt	eng	salvation	n$n-ND
@@ -3932,7 +3932,7 @@ RL	hbs	žar	n-mi$n	eng	ardor	n
 	hbs	odlučivanje	n$n-nt	eng	decision-making	n-unc$n
 	hbs	pribor	n-mi$n	eng	cutlery	n$n-unc
 	hbs	duhan	n$n-mi	eng	snuff	n$n-unc
-	hbs	porez	n-mi$n	eng	income tax	n$n-ND
+	hbs	porez	n-mi$n	eng	income tax	n
 	hbs	studija	n-f$n	eng	feasibility study	n
 	hbs	rukavica	n-f$n	eng	mitten	n$n-sg
 	hbs	upala	n-f$n	eng	pneumonia	n
@@ -6639,7 +6639,7 @@ RL	hbs	žar	n-mi$n	eng	ardor	n
 	hbs	Fran	np$np-ant	eng	Fran	np$np-ant$np-ant-m$np-ant-m-sg
 	hbs	Franc	np$np-ant	eng	Franc	np-ant$np-ant-m-sg$$np
 	hbs	Gabrijel	np$np-ant	eng	Gabrijel	np
-	hbs	Gabrijel	np$np-ant	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg
+	hbs	Gabrijel	np$np-ant	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m
 	hbs	Gregor	np-ant$np	eng	Gregor	np-ant-m-sg$np$np-ant$np-ant-m
 	hbs	Gregorij	np$np-ant	eng	Gregorij	np
 	hbs	Hamlet	np$np-ant	eng	Hamlet	np$np-ant-m-sg
@@ -6693,10 +6693,10 @@ RL	hbs	žar	n-mi$n	eng	ardor	n
 	hbs	Vid	np-ant	eng	Vid	np-ant
 	hbs	Vid	np-top	eng	Vid	np-top
 	hbs	Viljem	np$np-ant	eng	Viljem	np
-	hbs	Viljem	np$np-ant	eng	William	np-ant$np$np-ant-m$np-ant-m-sg
+	hbs	Viljem	np$np-ant	eng	William	np-ant$np$np-ant-m-sg$np-ant-m
 	hbs	Vitodrag	np$np-ant	eng	Vitodrag	np
 	hbs	Vladimir	np$np-ant	eng	Vladimir	np-ant$np-ant-m$np$np-ant-m-sg
-	hbs	William	np$np-ant	eng	William	np-ant$np$np-ant-m$np-ant-m-sg
+	hbs	William	np$np-ant	eng	William	np-ant$np$np-ant-m-sg$np-ant-m
 	hbs	Winston	np$np-ant	eng	Winston	np-ant$np-ant-m-sg$np$np-ant-m
 	hbs	Blaž	np$np-ant	eng	Blaž	np
 	hbs	Judež	np$np-ant	eng	Judež	np
@@ -6751,7 +6751,7 @@ RL	hbs	žar	n-mi$n	eng	ardor	n
 	hbs	Dragutin	np$np-ant	eng	Dragutin	np-ant-m$np
 	hbs	Hrvatska	np$np-top-f	eng	Croatia	np-top$np$np-top-f
 	hbs	Mađarska	np$np-top-f	eng	Hungary	np-top$np$np-top-sg
-	hbs	Češka	np$np-top-f	eng	Czech Republic	np-top$np$np-top-sg
+	hbs	Češka	np$np-top-f	eng	Czech Republic	np-top$np$np-top-f
 	hbs	Štajerska	np-top-f$np	eng	Styria	np-top-sg$np$np-top
 	hbs	Škotska	np$np-top-f	eng	Scotland	np-top$np$np-top-sg
 	hbs	Danska	np-top-f$np	eng	Denmark	np-top$np$np-top-sg
@@ -6805,7 +6805,7 @@ RL	hbs	žar	n-mi$n	eng	ardor	n
 	hbs	Skandinavija	np$np-top	eng	Scandinavia	np$np-loc
 	hbs	Slovenija	np$np-top	eng	Slovenia	np-top$np$np-top-f
 	hbs	Slavonija	np$np-top-f	eng	Slavonia	np$np-loc
-	hbs	Bosna	np$np-top-f	eng	Bosnia	np-top$np$np-top-f
+	hbs	Bosna	np$np-top-f	eng	Bosnia	np-top$np$np-top-sg
 	hbs	Malta	np$np-top	eng	Malta	np-top$np$np-top-sg
 	hbs	Pula	np$np-top-f	eng	Pula	np$np-top-f
 	hbs	Šandalja	np$np-top-f	eng	Šandalja	np
@@ -6870,7 +6870,7 @@ RL	hbs	Emona	np$np-top-f	eng	Aemona	np
 	hbs	Pireneji	np$np-top	eng	the Pyrenees	np$np-top
 	hbs	Karpati	np$np-top	eng	the Carpathians	np
 	hbs	Ravne	np$np-top-f-pl	eng	Ravne	np
-	hbs	Alpe	np$np-top-f-pl	eng	the Alps	np$np-top$np-top-pl
+	hbs	Alpe	np$np-top-f-pl	eng	the Alps	np$np-top
 	hbs	Begunje	np$np-top-f-pl	eng	Begunje	np
 	hbs	Bloke	np$np-top-f-pl	eng	Bloke	np
 	hbs	Brežice	np$np-top-f-pl	eng	Brežice	np
@@ -6900,7 +6900,7 @@ RL	hbs	Emona	np$np-top-f	eng	Aemona	np
 	hbs	Pohorje	np$np-top	eng	Pohorje	np
 	hbs	Sredozemlje	np$np-top	eng	the Mediterranean	np$np-top
 	hbs	Velenje	np$np-top	eng	Velenje	np
-	hbs	Nizozemska	np$np-top-f	eng	the Netherlands	np$np-top$np-top-pl
+	hbs	Nizozemska	np$np-top-f	eng	the Netherlands	np$np-top
 RL	hbs	Nizozemska	np$np-top-f	eng	Netherlands	np$np-top$np-top-sg
 	hbs	Dolska	np$np-top-f	eng	Dolska	np
 	hbs	Gorenjska	np-top-f$np	eng	Gorenjska	np
@@ -6913,7 +6913,7 @@ RL	hbs	Nizozemska	np$np-top-f	eng	Netherlands	np$np-top$np-top-sg
 	hbs	Primorska	np$np-top-f	eng	Primorska	np
 	hbs	Tirolska	np$np-top-f	eng	Tirolska	np
 	hbs	Engleska	np$np-top-f	eng	England	np-top$np$np-top-sg$
-	hbs	Holandija	np$np-top-f	eng	the Netherlands	np$np-top$np-top-pl
+	hbs	Holandija	np$np-top-f	eng	the Netherlands	np$np-top
 RL	hbs	Holandija	np$np-top-f	eng	Netherlands	np$np-top$np-top-sg
 	hbs	Sofija	np$np-top-f	eng	Sofia	np-ant$np$np-ant-f-sg
 	hbs	Litva	np$np-top-f	eng	Lithuania	np-top$np$np-top-sg
@@ -6940,7 +6940,7 @@ RL	hbs	Holandija	np$np-top-f	eng	Netherlands	np$np-top$np-top-sg
 	hbs	Balkan	np$np-top	eng	the Balkans	np$np-top
 	hbs	Baltik	np$np-top	eng	the Baltic	np
 	hbs	Beograd	np$np-top	eng	Beograd	np
-	hbs	Berlin	np$np-top$np-top-mi	eng	Berlin	np-top$np$np-top-sg
+	hbs	Berlin	np$np-top$np-top-mi	eng	Berlin	np-top$np$np-top-sg$np-top-m-sg
 	hbs	Bled	np$np-top	eng	Bled	np$np-top-m
 	hbs	Bovec	np$np-top	eng	Bovec	np
 	hbs	Brnik	np$np-top	eng	Brnik	np
@@ -7812,7 +7812,7 @@ RL	hbs	Ukrajina	np$np-top$np-top-f	eng	Ukraine	np-top$np$np-top-sg
 	hbs	devedeset i devet	num	eng	ninety-nine	num-sp$num
 	hbs	oboje	prn-tot$prn-tot-nt	eng	both	prn-ind-mf$prn-ind-mf-pl$prn-ind
 	hbs	onolik	prn-dem$prn$prn-dem-nt	eng	that big	adj
-	hbs	onolik	prn-dem$prn$prn-dem-nt	eng	as much	det-qnt$det-qnt-sg$det
+	hbs	onolik	prn-dem$prn$prn-dem-nt	eng	as much	det-qnt$det$det-qnt-sg
 	hbs	onakav	prn-dem$prn	eng	that	prn-dem$prn-dem-mf$prn-dem-mf-sg
 	hbs	tolik	prn-dem$prn	eng	this big	adj
 	hbs	tolik	prn-dem$prn	eng	such	det-ind-sp$det-ind$det
@@ -10120,7 +10120,7 @@ RL	hbs	Ukrajina	np$np-top$np-top-f	eng	Ukraine	np-top$np$np-top-sg
 	hbs	biće	n-nt	eng	being	n$$n-ND
 	hbs	biće	n-nt	eng	organism	n$n-ND
 	hbs	bijeg	n-mi	eng	escape	n$n-ND
-	hbs	bijeg	n-mi	eng	run	n$n-ND
+	hbs	bijeg	n-mi	eng	run	n$n-sg
 	hbs	biljka	n-f	eng	herb	n
 	hbs	biljka	n-f	eng	plant	n$n-sg
 	hbs	biohemija	n-f	eng	biochemistry	n$n-unc
@@ -10481,7 +10481,7 @@ RL	hbs	Ukrajina	np$np-top$np-top-f	eng	Ukraine	np-top$np$np-top-sg
 	hbs	dozvola	n-f	eng	permit	n$n-ND
 	hbs	dramatizacija	n-f	eng	dramatisation	n
 	hbs	drevnost	n-f	eng	antiquity	n$n-ND
-	hbs	droga	n-f	eng	drug	n$n-ND
+	hbs	droga	n-f	eng	drug	n$n-sg
 	hbs	drugarstvo	n-nt	eng	camaraderie	n$n-unc
 	hbs	drug	n-ma	eng	friend	n$n-sg
 	hbs	društvo	n-nt	eng	society	n$n-ND
@@ -10703,7 +10703,7 @@ RL	hbs	govor	n-mi	eng	accent	n$n-ND
 	hbs	greška	n-f	eng	mistake	n
 	hbs	grijanje	n-nt	eng	heat	n$n-sg
 	hbs	grijanje	n-nt	eng	heating	n
-	hbs	gripa	n$n-mi	eng	flu	n$n-ND
+	hbs	gripa	n$n-mi	eng	flu	n$n-sg
 	hbs	grkomanstvo	n-nt	eng	Greekness	n-unc
 	hbs	grk	n-ma	eng	Greek	n$n-ND
 	hbs	grobnica	n-f	eng	grave	n$n-sg
@@ -11334,7 +11334,7 @@ RL	hbs	govor	n-mi	eng	accent	n$n-ND
 	hbs	liga	n-f	eng	league	n$n-ND
 	hbs	lihvarstvo	n-nt	eng	loansharking	n-unc
 	hbs	liječenje	n-nt	eng	treatment	n$n-sg
-	hbs	lijek	n-mi	eng	drug	n$n-ND
+	hbs	lijek	n-mi	eng	drug	n$n-sg
 	hbs	lijek	n-mi	eng	medicine	n$n-ND
 	hbs	lijek	n-mi	eng	remedy	n$n-ND
 	hbs	lijenost	n-f	eng	indolence	n$n-unc
@@ -12557,8 +12557,8 @@ RL	hbs	govor	n-mi	eng	accent	n$n-ND
 	hbs	putnik	n-ma	eng	passenger	n$n-sg
 	hbs	putnik	n-ma	eng	traveller	n$n-ND
 	hbs	putovanje	n-nt	eng	journey	n$n-ND
-	hbs	putovanje	n-nt	eng	travel time	n$n-sg
-	hbs	putovanje	n-nt	eng	travel	n$n-ND
+	hbs	putovanje	n-nt	eng	travel time	n
+	hbs	putovanje	n-nt	eng	travel	n$n-sg
 	hbs	putovanje	n-nt	eng	trip	n$n-ND
 	hbs	put	n-mi$n	eng	way	n$n-sg
 	hbs	racija	n-f	eng	raid	n$n-ND
@@ -12995,8 +12995,8 @@ RL	hbs	govor	n-mi	eng	accent	n$n-ND
 	hbs	solidarnost	n-f	eng	solidarity	n$n-sg
 	hbs	sopstvenost	n-f	eng	property	n$n-sg
 	hbs	sortiranje	n-nt	eng	sorting	n$n-unc
-	hbs	so	n-f	eng	salt	n$n-ND
-	hbs	sol	n-f	eng	salt	n$n-ND
+	hbs	so	n-f	eng	salt	n$n-sg
+	hbs	sol	n-f	eng	salt	n$n-sg
 	hbs	spajanje	n-nt	eng	merger	n$n-ND
 	hbs	spasavanje	n-nt	eng	rescue	n$n-ND
 	hbs	spašavanje	n-nt	eng	rescue	n$n-ND
@@ -14927,8 +14927,8 @@ RL	hbs	govor	n-mi	eng	accent	n$n-ND
 	hbs	ponovan	adj$adj-comp	eng	consecutive	adj
 	hbs	ponovan	adj$adj-comp	eng	repeat	adj
 	hbs	ponovan	adj$adj-comp	eng	repeated	adj$
-	hbs	poreski	adj$adj-comp	eng	tax	adj
-	hbs	porezni	adj	eng	tax	adj
+	hbs	poreski	adj$adj-comp	eng	tax	adj$adj-sint
+	hbs	porezni	adj	eng	tax	adj$adj-sint
 	hbs	pornografski	adj$adj-comp	eng	pornographic	adj
 	hbs	portugalski	adj$adj-comp	eng	Portuguese	adj
 	hbs	poslovan	adj$adj-comp	eng	business	adj
@@ -16015,7 +16015,7 @@ RL	hbs	govor	n-mi	eng	accent	n$n-ND
 	hbs	druga	adj	eng	other	adj$adj-sg
 	hbs	lijep	adj$adj-comp	eng	nice	adj-sint$adj
 	hbs	sretan	adj$adj-pst-ma	eng	happy	adj-sint$adj
-	hbs	dva	adj	eng	two	adj
+	hbs	dva	adj	eng	two	adj$adj-ord
 	hbs	toplo	adj	eng	warm	adj-sint$adj
 	hbs	hladno	adj	eng	cold	adj-sint$adj
 	hbs	jako	adj	eng	very	adj

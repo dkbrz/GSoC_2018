@@ -63,7 +63,7 @@
 	slv	širok	adj$adj-add_comp	ita	ampio	$adj$adj-sup
 	slv	svež	adj$adj-add_comp	ita	fresco	adj$$adj-sup
 	slv	bled	adj	ita	pallido	$adj$adj-sup
-	slv	rdeč	adj$adj-add_comp	ita	rosso	adj$$adj-sup
+	slv	rdeč	adj$adj-add_comp	ita	rosso	adj$adj-sup
 	slv	alergičen	adj	ita	allergico	adj$$adj-sup
 	slv	brezplačen	adj	ita	gratis	adj
 	slv	digitalen	adj	ita	digitale	adj$$adj-mf
@@ -119,7 +119,7 @@
 	slv	možen	adj	ita	possibile	adj$$adj-mf
 	slv	znan	adj$adj-add_comp	ita	noto	$adj$adj-sup
 	slv	slaven	adj	ita	noto	$adj$adj-sup
-	slv	malo	adj	ita	poco	adj-m$adj
+	slv	malo	adj	ita	poco	adj$adj-m
 	slv	različen	adj$adj-comp	ita	diverso	$adj$adj-sup
 	slv	številen	adj$adj-add_ela	ita	numeroso	adj$$adj-sup
 	slv	nekaj	adj	ita	qualche	adj-mf$$adj
@@ -153,7 +153,7 @@
 	slv	kratek	adj	ita	breve	$adj$adj-mf
 	slv	svet	adj	ita	santo	adj$$adj-sup
 	slv	sestavljen	adj	ita	composto	adj$$adj-sup
-	slv	materialen	adj$adj-add_comp	ita	materiale	adj$$adj-mf
+	slv	materialen	adj$adj-add_comp	ita	materiale	adj$adj-mf
 	slv	slaven	adj	ita	famoso	adj$$adj-sup
 	slv	biti	vbser$vbser-fut	ita	essere	vblex
 	slv	biti	vbser$vbser-fut	ita	essere	$vbser$vbser-auxser
@@ -162,7 +162,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	prodati	vblex$vblex-perf	ita	vendere	vblex$
 	slv	bežati	vblex$vblex-imperf	ita	fuggire	$vblex
 	slv	držati	vblex$vblex-imperf$vblex-imperf-tv	ita	tenere	$vblex
-	slv	kričati	vblex$vblex-imperf	ita	gridare	vblex$
+	slv	kričati	vblex$vblex-imperf	ita	gridare	$vblex
 	slv	slišati	vblex-perf	ita	sentire	$vblex
 	slv	podpreti	vblex$vblex-perf	ita	mantenere	$vblex
 	slv	jesti	vblex$vblex-imperf	ita	mangiare	vblex$
@@ -191,12 +191,12 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	povabiti	vblex$vblex-perf	ita	invitare	$vblex
 	slv	stopiti	vblex$vblex-perf$vblex-perf-tv	ita	fare un passo	vblex
 	slv	zgubiti	vblex$vblex-perf	ita	perdere	$vblex
-	slv	dostaviti	vblex-perf	ita	consegnare	vblex$
+	slv	dostaviti	vblex-perf	ita	consegnare	$vblex
 	slv	zdraviti	vblex$vblex-imperf	ita	curare	$vblex
 	slv	dokazati	vblex$vblex-perf	ita	dimostrare	$vblex
 	slv	privezati	vblex$vblex-perf	ita	legare	$vblex
 	slv	obsoditi	vblex-perf$vblex	ita	condannare	$vblex
-	slv	posoditi	vblex$vblex-perf	ita	prestare	vblex$
+	slv	posoditi	vblex$vblex-perf	ita	prestare	$vblex
 	slv	potrditi	vblex$vblex-perf	ita	confermare	$vblex
 	slv	odkleniti	vblex$vblex-perf$vblex-perf-tv	ita	sbloccare	$vblex
 	slv	zmrzniti	vblex$vblex-perf$vblex-perf-tv	ita	seguire	$vblex
@@ -214,7 +214,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	vstopiti	vblex$vblex-perf	ita	entrare	vblex$
 	slv	kopati	vblex-imperf$vblex	ita	scavare	vblex$
 	slv	nesti	vblex$vblex-perf	ita	portare	$vblex
-	slv	učiti	vblex-imperf$vblex$vblex-imperf-tv	ita	imparare	vblex$
+	slv	učiti	vblex-imperf$vblex$vblex-imperf-tv	ita	imparare	$vblex
 	slv	verjeti	vblex$vblex-imperf	ita	credere	$vblex
 	slv	braniti	vblex$vblex-imperf	ita	difendere	vblex$
 	slv	ceniti	vblex$vblex-imperf	ita	apprezzare	$vblex
@@ -225,8 +225,8 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	izliti	vblex$vblex-perf	ita	versare	$vblex
 	slv	ubiti	vblex$vblex-perf	ita	uccidere	$vblex
 	slv	pisati	vblex$vblex-imperf$vblex-imperf-tv	ita	scrivere	$vblex
-	slv	reči	vblex$vblex-perf	ita	dire	vblex$
-	slv	žvečiti	vblex$vblex-imperf	ita	masticare	vblex$
+	slv	reči	vblex$vblex-perf	ita	dire	$vblex
+	slv	žvečiti	vblex$vblex-imperf	ita	masticare	$vblex
 	slv	obtožiti	vblex-perf$vblex$vblex-perf-tv	ita	accusare	$vblex
 	slv	priporočiti	vblex-perf$vblex	ita	raccomandare	$vblex
 	slv	zaposliti	vblex$vblex-perf	ita	impiegare	$vblex
@@ -297,7 +297,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	jutri	adv	ita	domani	adv
 	slv	nikoli	adv	ita	mai	adv
 	slv	sedaj	adv	ita	ora	adv
-	slv	takoj	adv	ita	immediatamente	adv
+	slv	takoj	adv	ita	immediatamente	adv$
 	slv	včasih	adv	ita	a volte	adv
 	slv	včeraj	adv	ita	ieri	adv
 	slv	znova	adv	ita	di nuovo	adv
@@ -306,7 +306,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	daleč	adv	ita	lontano	adv$
 	slv	zelo	adv$adv-sint$adv-sint-comp-add_comp	ita	molto	adv$
 	slv	zato	adv$adv-sint	ita	quindi	adv
-	slv	zunaj	adv	ita	fuori	adv
+	slv	zunaj	adv	ita	fuori	adv$
 	slv	sedaj	adv	ita	adesso	adv
 	slv	takoj	adv	ita	subito	adv
 	slv	približno	adv$adv-sint-comp-add_comp	ita	circa	adv$
@@ -325,7 +325,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	skupno	adv$adv-sint-comp-add_comp	ita	complessivamente	adv
 	slv	mogoče	adv$adv-sint-comp-add_comp	ita	forse	adv
 	slv	sedaj	adv	ita	ormai	adv
-	slv	drugače	adv	ita	diversamente	adv
+	slv	drugače	adv	ita	diversamente	adv$
 	slv	končno	adv$adv-sint-ela-add_ela	ita	finalmente	adv
 	slv	žal	adv	ita	purtroppo	adv
 	slv	točno	adv$adv-sint-ela-add_ela	ita	proprio	$adv
@@ -364,7 +364,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	banka	n-f$n	ita	banca	n-f$n
 	slv	barva	n-f	ita	colore	n-m$n
 	slv	beseda	n-f	ita	parola	n-f$n
-	slv	bolečina	n-f	ita	dolore	n-f$n
+	slv	bolečina	n-f	ita	dolore	n-m$n
 	slv	bolha	n-f$n	ita	pulce	n-f$n
 	slv	bolnišnica	n-f$n	ita	ospedale	n$n-m
 	slv	bomba	n-f$n	ita	bomba	n-f$n
@@ -379,7 +379,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	dolina	n-f$n	ita	valle	n-f$n
 	slv	domišljija	n-f	ita	fantasia	n-f$n$
 	slv	družina	n-f	ita	famiglia	n-f$n
-	slv	dvojica	n-f$n	ita	coppia	n$n-f
+	slv	dvojica	n-f$n	ita	coppia	n-f$n
 	slv	firma	n-f$n	ita	segnatura	n
 	slv	galona	n-f$n	ita	gallone	n-m$n
 	slv	glava	n-f$n	ita	testa	n-f$n
@@ -418,7 +418,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	manjšina	n-f$n	ita	minoranza	n-f$n
 	slv	marmelada	n-f	ita	marmellata	n$n-f
 	slv	maša	n-f$n	ita	messa	n-f$n
-	slv	maščoba	n-f$n	ita	grasso	n-m$n
+	slv	maščoba	n-f$n	ita	grasso	n-m$$n
 	slv	maternica	n-f$n	ita	utero	n$n-m
 	slv	mešanica	n-f$n	ita	miscela	n-f$n
 	slv	mina	n-f$n	ita	mina	n-f$n
@@ -431,7 +431,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	naročnina	n-f$n	ita	abbonamento	n$n-m
 	slv	navada	n-f	ita	abitudine	n-f$n
 	slv	nedelja	n-f$n	ita	domenica	n-f$n
-	slv	nesreča	n-f$n	ita	incidente	n$n-m$
+	slv	nesreča	n-f$n	ita	incidente	n-m$n$
 	slv	njiva	n-f$n	ita	campo	n-m$n
 	slv	nogavica	n-f	ita	calzino	n$n-m
 	slv	obala	n-f	ita	costa	n-f$n
@@ -451,7 +451,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	oseba	n-f$n	ita	persona	n-f$n$$n-f-pl
 	slv	pena	n-f$n	ita	schiuma	n$n-f
 	slv	pipa	n-f	ita	rubinetto	n-m$n
-	slv	pištola	n-f	ita	pistola	n$n-f
+	slv	pištola	n-f	ita	pistola	n-f$n
 	slv	plima	n-f$n	ita	marea	n-f$n
 	slv	pljučnica	n-f$n	ita	polmonite	n$n-f
 	slv	pločevinka	n-f$n	ita	lattina	n
@@ -536,7 +536,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	dimnik	n-mi	ita	camino	n-m$n
 	slv	glavnik	n-mi	ita	pettine	n-m$n
 	slv	hladilnik	n-mi$n	ita	frigorifero	n-m$n$
-	slv	hodnik	n-mi$n	ita	corridoio	n$n-m
+	slv	hodnik	n-mi$n	ita	corridoio	n-m$n
 	slv	klobuk	n-mi	ita	cappello	n-m$n
 	slv	kolk	n-mi$n	ita	anca	n-f$n
 	slv	korak	n-mi	ita	passo	n-m$n
@@ -582,9 +582,9 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	odgovor	n-mi$n	ita	risposta	n-f$n
 	slv	samomor	n-mi	ita	suicidio	n-m$n
 	slv	sever	n-mi$n	ita	nord	n-m$n$
-	slv	sir	n-mi	ita	formaggio	n$n-m
+	slv	sir	n-mi	ita	formaggio	n-m$n
 	slv	tovor	n-mi$n	ita	carico	n-m$$n
-	slv	umor	n-mi$n	ita	omicidio	n$n-m
+	slv	umor	n-mi$n	ita	omicidio	n-m$n
 	slv	brat	n-ma$n	ita	fratello	n-m$n
 	slv	bik	n-ma$n	ita	toro	n-m$n
 	slv	bolnik	n-ma$n	ita	paziente	n$$n-mf
@@ -593,7 +593,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	pesnik	n-ma$n	ita	poeta	n-m$n
 	slv	pravnik	n-ma$n	ita	avvocato	n-m$n
 	slv	predsednik	n-ma$n	ita	presidente	n$n-GD
-	slv	sodnik	n-ma$n	ita	giudice	n-mf$n
+	slv	sodnik	n-ma$n	ita	giudice	n-m$n
 	slv	sorodnik	n-ma$n	ita	parente	n-mf$n$
 	slv	sovražnik	n-ma$n	ita	nemico	$n$n-m
 	slv	umetnik	n-ma$n	ita	artista	n-GD$n
@@ -684,7 +684,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	zaupanje	n-nt	ita	fiducia	n-f$n
 	slv	znanje	n-nt	ita	conoscenza	n-f$n
 	slv	monolog	n-mi$n	ita	monologo	n-m$n
-	slv	deček	n-ma	ita	ragazzo	n$n-m$n-m-sg
+	slv	deček	n-ma	ita	ragazzo	n-m$n$n-m-sg
 	slv	otrok	n-ma	ita	bambino	n-m$n
 	slv	smer	n-f	ita	direzione	n-f$n
 	slv	želja	n-f	ita	desiderio	n-m$n
@@ -793,7 +793,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	občina	n-f$n	ita	comune	n-m$n
 	slv	palica	n-f	ita	asta	n-f$n
 	slv	slana	n-f$n	ita	sale	n-m$n
-	slv	tekočina	n-f	ita	liquido	n-m$n
+	slv	tekočina	n-f	ita	liquido	n-m$$n
 	slv	ura	n-f	ita	orologio	n-m$n
 	slv	vaja	n-f	ita	esercizio	n-m$n
 	slv	zgodovina	n-f	ita	storia	n-f$n
@@ -981,7 +981,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	galerija	n-f$n	ita	galleria	n-f$n
 	slv	republika	n-f$n	ita	repubblica	n$n-f
 	slv	raznolikost	n-f	ita	varieta	n
-	slv	kolajna	n-f$n	ita	medaglia	n$n-f
+	slv	kolajna	n-f$n	ita	medaglia	n-f$n
 	slv	domneva	n-f	ita	ipotesi	n-f$n
 	slv	namestitev	n-f	ita	collocazione	n-f$n
 	slv	značaj	n-mi$n	ita	carattere	n-m$n
@@ -1010,10 +1010,10 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	strokovnjak	n-ma$n	ita	specialista	n-m$n-mf-m$n$
 	slv	izpit	n-ma$n	ita	esame	n-m$n
 	slv	izpit	n-mi	ita	esame	n-m$n
-	slv	tehnologija	n-f$n	ita	tecnologia	n$n-f
+	slv	tehnologija	n-f$n	ita	tecnologia	n-f$n
 	slv	prijatelj	n-ma	ita	amico	n$n-m$
 	slv	nečak	n-ma$n	ita	nipote	n-mf$n$n-mf-sg
-	slv	material	n-mi$n	ita	materiale	n-m$n
+	slv	material	n-mi$n	ita	materiale	n-m$$n
 	slv	vodnjak	n-mi$n	ita	fontana	n-f$n
 	slv	nagrada	n-f$n	ita	bonus	n-m$n
 	slv	uresničitev	n-f$n	ita	realizzazione	n-f$n
@@ -1031,7 +1031,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	grlo	n-nt	ita	gola	n-f$n
 	slv	ogledalo	n-nt	ita	specchio	n-m$n
 	slv	tkivo	n-nt	ita	tessuto	n-m$n
-	slv	vino	n-nt	ita	vino	n$n-m
+	slv	vino	n-nt	ita	vino	n-m$n
 	slv	ambasada	n-f$n	ita	ambasciata	n$n-f
 	slv	arterija	n-f$n	ita	arteria	n-f$n
 	slv	brada	n-f$n	ita	barba	n-f$n
@@ -1085,7 +1085,7 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	motor	n-mi$n	ita	motore	n-m$n$
 	slv	papir	n-mi	ita	carta	n-f$n
 	slv	semafor	n-mi	ita	semaforo	n$n-m
-	slv	tumor	n-mi	ita	tumore	n$n-m
+	slv	tumor	n-mi	ita	tumore	n-m$n
 	slv	lovor	n-mi	ita	alloro	n$n-m
 	slv	junak	n-ma$n	ita	eroe	n-m$n
 	slv	led	n-mi	ita	ghiaccio	n$n-m
@@ -1130,16 +1130,16 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	vinograd	n-mi$n	ita	vigneto	n$n-f
 	slv	božič	n-mi	ita	natale	n-m$$n
 	slv	božič	n-ma	ita	natale	n-m$$n
-	slv	suknjič	n-mi	ita	giacca	n$n-f
+	slv	suknjič	n-mi	ita	giacca	n-f$n
 	slv	sok	n-mi$n	ita	succo	n-m$n
 	slv	sokol	n-ma	ita	falco	n-m$n
 	slv	hudič	n-ma	ita	diavolo	n-m$n
 	slv	ribič	n-ma	ita	pescatore	n$n-m
 	slv	tolmač	n-ma	ita	interprete	n-mf$n
 	slv	boter	n-mi	ita	padrino	n-m$n
-	slv	smisel	n-mi	ita	senso	n-m$n
+	slv	smisel	n-mi	ita	senso	n-m$n$
 	slv	vozel	n-mi	ita	nodo	n-m$n
-	slv	strah	n-mi	ita	paura	n-f$n
+	slv	strah	n-mi	ita	paura	n-f$n$
 	slv	steza	n-f	ita	sentiero	n-m$n
 	slv	grad	n-mi$n	ita	castello	n-m$n
 	slv	most	n-mi	ita	ponte	n-m$n
@@ -1232,10 +1232,10 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	križišče	n-nt$n	ita	intersezione	n$n-f
 	slv	agent	n-ma	ita	agente	n-m$n
 	slv	poskus	n-mi	ita	tentativo	n-m$n
-	slv	homoseksualec	n-ma	ita	omosessuale	n$$n-m
+	slv	homoseksualec	n-ma	ita	omosessuale	n$n-m$
 	slv	nekadilec	n-ma	ita	nonfumatore	n
 	slv	rokodelec	n-ma	ita	artigiano	n$$n-GD
-	slv	direktor	n-ma$n	ita	direttore	n$n-GD
+	slv	direktor	n-ma$n	ita	direttore	n$n-m
 	slv	zavest	n-f	ita	consapevolezza	n-f$n
 	slv	maček	n-ma$n	ita	gatto	n$n-m
 	slv	značilnost	n-f$n	ita	caratteristicha	n
@@ -1463,9 +1463,9 @@ RL	slv	imeti	vblex$vblex-imperf$vblex-imperf-tv-pres$vblex-imperf-tv-pres-neg	it
 	slv	tudi	part	ita	anche	adv
 	slv	ne	part	ita	no	adv
 	slv	na	pr$pr-loc	ita	in	pr
-	slv	brez	pr	ita	senza	pr$
-	slv	od	pr	ita	di	pr
-	slv	na	pr$pr-loc	ita	a	pr
+	slv	brez	pr	ita	senza	$pr
+	slv	od	pr	ita	di	$pr
+	slv	na	pr$pr-loc	ita	a	pr$
 	slv	v	pr	ita	nel	pr
 	slv	prek	pr	ita	tramite	pr
 	slv	za	pr	ita	dietro	pr

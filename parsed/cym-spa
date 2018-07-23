@@ -192,11 +192,11 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Brwsel	np-top-f	spa	Bruselas	np-top-f
 	cym	Bryan	np-ant	spa	Bryan	np-ant$np
 	cym	Bryce	np-ant	spa	Bryce	np-ant
-	cym	Burkina	np-top-f	spa	Burkina Faso	np-top-f$np-top
+	cym	Burkina	np-top-f	spa	Burkina Faso	np$np-top-f$np-top
 	cym	Burma	np-top-f	spa	Birmania	np$np-top-f$np-top
 	cym	Burundi	np-top-f	spa	Burundi	np-top-m$np-top
 	cym	Bwlgaria	np-top-f	spa	Bulgaria	np-top$np-top-f
-	cym	Bwrcina Ffaso	np-top-f	spa	Burkina Faso	np-top-f$np-top
+	cym	Bwrcina Ffaso	np-top-f	spa	Burkina Faso	np$np-top-f$np-top
 	cym	Bwrma	np-top-f	spa	Birmania	np$np-top-f$np-top
 	cym	Bwrwndi	np-top-f	spa	Burundi	np-top-m$np-top
 	cym	Byrma	np-top-f	spa	Birmania	np$np-top-f$np-top
@@ -227,7 +227,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Carlota	np-ant	spa	Carlota	np$np-ant
 	cym	Carly	np-ant	spa	Carly	np-ant
 	cym	Carme	np-ant	spa	Carme	np$np-ant
-	cym	Carmen	np-ant	spa	Carmen	np$np-ant$np-ant-f-sg
+	cym	Carmen	np-ant	spa	Carmen	np-ant$np$np-ant-f-sg
 	cym	Carolina	np-ant	spa	Carolina	np$np-ant$np-ant-f-sg
 	cym	Carrie	np-ant	spa	Carrie	np-ant$np
 	cym	Carson	np-ant	spa	Carson	np-ant
@@ -399,7 +399,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Gabriela	np-ant	spa	Gabriela	np$np-ant$np-ant-f-sg
 	cym	Gabriella	np-ant	spa	Gabriella	np-ant
 	cym	Gabrielle	np-ant	spa	Gabrielle	np-ant
-	cym	Gaiana	np-top-f	spa	Guayana	np$np-top-f
+	cym	Gaiana	np-top-f	spa	Guayana	np-top-f
 	cym	Gaiana	np-top-f	spa	Guyana	np$np-top-f$np-top
 	cym	Gambia	np-top-f	spa	Gambia	np-top-f$np-top
 	cym	Gary	np-ant	spa	Gary	np-ant$np-ant-m$np
@@ -413,11 +413,11 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Gerard	np-ant	spa	Gerard	np$np-ant
 	cym	German	np-cog	spa	German	np-ant
 	cym	Ghana	np-top-f	spa	Ghana	np-top$np-top-f
-	cym	Giana	np-top-f	spa	Guayana	np$np-top-f
+	cym	Giana	np-top-f	spa	Guayana	np-top-f
 	cym	Giana	np-top-f	spa	Guyana	np$np-top-f$np-top
 	cym	Gibraltar	np-top-f	spa	Gibraltar	np-top$np-top-m
 	cym	Gilbert	np-ant	spa	Gilbert	np$np-ant
-	cym	Gini	np-top-f	spa	Guinea	np$np-top-f$np-top
+	cym	Gini	np-top-f	spa	Guinea	np-top-f$np-top
 	cym	Glen	np-ant	spa	Glen	np-ant
 	cym	Gordon	np-ant	spa	Gordon	np$np-ant
 	cym	Gorffennaf	n-m	spa	julio	n$n-m$n-m-sg
@@ -433,10 +433,10 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Grønland	np-top-f	spa	Groenlandia	np-top$np-top-f
 	cym	Guatemala	np-top-f	spa	Guatemala	np$np-top-f$np-top
 	cym	Guillem	np-ant	spa	Guillem	np$np-ant
-	cym	Guinea	np-top-f	spa	Guinea	np$np-top-f$np-top
-	cym	Guinée	np-top-f	spa	Guinea	np$np-top-f$np-top
+	cym	Guinea	np-top-f	spa	Guinea	np-top-f$np-top
+	cym	Guinée	np-top-f	spa	Guinea	np-top-f$np-top
 	cym	Guy	np-ant	spa	Guy	np$np-ant
-	cym	Guyana	np-top-f	spa	Guayana	np$np-top-f
+	cym	Guyana	np-top-f	spa	Guayana	np-top-f
 	cym	Guyana	np-top-f	spa	Guyana	np$np-top-f$np-top
 	cym	Gwatemala	np-top-f	spa	Guatemala	np$np-top-f$np-top
 	cym	Gwener	np-top-f	spa	Venus	np-ant
@@ -708,7 +708,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Margalida	np-ant	spa	Margalida	np$np-ant
 	cym	Margaret	np-ant	spa	Margaret	np$np-ant
 	cym	Margarida	np-ant	spa	Margarida	np$np-ant
-	cym	Maria	np-ant	spa	Maria	np-ant$np
+	cym	Maria	np-ant	spa	Maria	np$np-ant
 	cym	Marie	np-ant	spa	Marie	np-ant$np
 	cym	Marina	np-ant	spa	Marina	np$np-ant$np-ant-f-sg
 	cym	Mario	np-ant	spa	Mario	np$np-ant$np-ant-m-sg
@@ -841,8 +841,8 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Panama	np-top-f	spa	Panamá	np$np-top-m$np-top
 	cym	Panamá	np-top-f	spa	Panamá	np$np-top-m$np-top
 	cym	Panamâ	np-top-f	spa	Panamá	np$np-top-m$np-top
-	cym	Papiwa Gini Newydd	np-top-f	spa	Papúa Nueva Guinea	np-top-f
-	cym	Papwa Gini Newydd	np-top-f	spa	Papúa Nueva Guinea	np-top-f
+	cym	Papiwa Gini Newydd	np-top-f	spa	Papúa Nueva Guinea	np$np-top-f
+	cym	Papwa Gini Newydd	np-top-f	spa	Papúa Nueva Guinea	np$np-top-f
 	cym	Paraguay	np-top-f	spa	Paraguay	np$np-top-m$np-top
 	cym	Paragwâi	np-top-f	spa	Paraguay	np$np-top-m$np-top
 	cym	Parker	np-cog	spa	Parker	np$np-ant
@@ -931,7 +931,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Scott	np-ant	spa	Scott	np$np-ant
 	cym	Scott	np-cog	spa	Scott	np$np-ant
 	cym	Sean	np-ant	spa	Sean	np$np-ant
-	cym	Sebastian	np-ant	spa	Sebastian	np$np-ant
+	cym	Sebastian	np-ant	spa	Sebastian	np-ant$np
 	cym	Sebastià	np-ant	spa	Sebastià	np$np-ant
 	cym	Seioniaeth	n-f	spa	sionismo	n-m$n
 	cym	Senegal	np-top-f	spa	Senegal	np$np-top-m$np-top
@@ -1055,7 +1055,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	Xavier	np-ant	spa	Xavier	np$np-ant$np-ant-m-sg
 	cym	Yemen	np-top-f	spa	Yemen	np$np-top$np-top-m
 	cym	Ymerodraeth Persia	np-top-f	spa	Persia	np-top-f
-	cym	Ynysoedd Caiman	np-top-f	spa	Islas Caimán	np-top-f
+	cym	Ynysoedd Caiman	np-top-f	spa	Islas Caimán	np$np-top-f
 	cym	Ynysoedd y Maldives	np-top-f	spa	Maldivas	np$np-loc$np-loc-f-pl$np-loc-f
 	cym	Ynysoedd y Maldîfs	np-top-f	spa	Maldivas	np$np-loc$np-loc-f-pl$np-loc-f
 	cym	Ynysoedd y Philipinau	np-top-f	spa	Filipinas	np$np-loc-f-pl$np-loc$np-loc-f
@@ -1646,7 +1646,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	arhosiad	n-m	spa	estancia	n-f$n$n-f-ND
 	cym	arhosol	adj	spa	permanente	adj-mf$adj$adj-mf-ND
 	cym	arian	n-m	spa	plata	n-f$n$n-f-ND
-	cym	arian	n-m	spa	dinero	n-m-sg$n-m$n
+	cym	arian	n-m	spa	dinero	n-m-sg$n$n-m
 	cym	arian bygwth	n-GD	spa	chantaje	n$n-m
 	cym	arian breiniol	n-GD	spa	moneda	n$n-f$n-f-sg
 	cym	ariannol	adj	spa	monetario	adj$adj-GD$adj-GD-ND
@@ -1933,7 +1933,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	blas	n-m	spa	sabor	n$n-m$n-m-sg
 	cym	blas	n-m	spa	gusto	n$n-m$n-m-sg
 	cym	blasu	vblex	spa	probar	vblex
-	cym	blawd	n-m	spa	harina	n$n-f
+	cym	blawd	n-m	spa	harina	n$n-f$n-f-sg
 	cym	ble	adv-itg	spa	adónde	adv$adv-itg
 	cym	ble	adv-itg	spa	dónde	adv$adv-itg
 	cym	blewyn	n-m	spa	cabello	n-m$n$n-m-ND
@@ -2159,7 +2159,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cainc	n-f	spa	sucursal	n$n-f$n-f-ND
 	cym	cainc	n-f	spa	bifurcación	n$n-f
 	cym	cais	n-m	spa	petición	n$n-f$n-f-sg
-	cym	cais	n-m	spa	requerimiento	n-m$n$n-m-sg
+	cym	cais	n-m	spa	requerimiento	n$n-m$n-m-sg
 	cym	cais	n-m	spa	aplicación	n-f$n$n-f-sg
 	cym	cais	n-m	spa	solicitud	n$n-f$n-f-sg
 	cym	caled	adj	spa	duro	adj$adj-GD-ND$adj-GD
@@ -2397,7 +2397,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	chwildroad	n-m	spa	revolución	n$n-f$n-f-sg
 	cym	chwilfriwio	vblex	spa	romper	vblex
 	cym	chwiliad	n-m	spa	busca	n-f$n$n-f-ND
-	cym	chwiliad	n-m	spa	búsqueda	n-f$n$n-f-sg
+	cym	chwiliad	n-m	spa	búsqueda	n$n-f$n-f-sg
 	cym	chwiliad	n-m	spa	cacheo	n$n-m
 	cym	chwilio	vblex	spa	buscar	vblex$vblex-vbact
 	cym	chwilio	vblex	spa	buscar	vblex$vblex-vbact
@@ -3008,7 +3008,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cylch	n-m	spa	círculo	n-m$n$n-m-sg
 	cym	cylchdro	n-m	spa	rotación	n$n-f$n-f-sg
 	cym	cylchedd	n-m	spa	circunferencia	n$n-f
-	cym	cylchfa	n-f	spa	zona	n-f$n$n-f-sg
+	cym	cylchfa	n-f	spa	zona	n$n-f$n-f-sg
 	cym	cylchfan	n-mf	spa	rotonda	n$n-f
 	cym	cylchfan	n-m	spa	rotonda	n$n-f
 	cym	cylchgrawn	n-m	spa	revista	n-f$n$n-f-ND
@@ -3159,7 +3159,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	cynilo	vblex	spa	guardar	vblex
 	cym	cynilo	vblex	spa	salvar	vblex
 	cym	cynllun	n-m	spa	plan	n$n-m$n-m-sg
-	cym	cynllun	n-m	spa	plano	n-m$n$n-m-sg
+	cym	cynllun	n-m	spa	plano	n$n-m$n-m-sg
 	cym	cynllunio	vblex	spa	planear	vblex
 	cym	cynllwynio	vblex	spa	maquinar	vblex
 	cym	cynnal	vblex	spa	apoyar	vblex
@@ -3706,7 +3706,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	diweddu	vblex	spa	concluir	vblex
 	cym	diweithdra	n-m	spa	desempleo	n$n-m$n-m-sg
 	cym	diweithdra	n-m	spa	desocupación	n$n-f
-	cym	diweithdra	n-m	spa	paro	n$n-m$n-m-ND
+	cym	diweithdra	n-m	spa	paro	n-m$n$n-m-ND
 	cym	diwerth	adj	spa	inútil	adj$adj-mf$adj-mf-ND$
 	cym	diwetha	adj	spa	último	adj$adj-GD
 	cym	diwethaf	adj	spa	último	adj$adj-GD
@@ -4272,7 +4272,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	ffrwydro	vblex	spa	explotar	vblex
 	cym	ffrwydryn	n-m	spa	mina	n-f$n$n-f-sg
 	cym	ffrwyth	n-m	spa	fruta	n$n-f$n-f-sg
-	cym	ffrwyth	n-m	spa	fruto	n$n-m$n-m-ND
+	cym	ffrwyth	n-m	spa	fruto	n$n-m$n-m-sg
 	cym	ffrwythlondeb	n-m	spa	fertilidad	n$n-f$n-f-sg
 	cym	ffrâm	n-f	spa	bastidor	n-m$n$n-m-ND
 	cym	ffrâm	n-f	spa	estructura	n-f$n$n-f-sg
@@ -4491,7 +4491,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	gostyngedig	adj	spa	humilde	adj$adj-mf$adj-mf-sg
 	cym	gostyngiad	n-m	spa	reducción	n-f$n$n-f-sg
 	cym	gradd	n-mf	spa	grado	n$n-m$n-m-sg
-	cym	gradd	n-mf	spa	título	n-m$n$n-m-sg
+	cym	gradd	n-mf	spa	título	n$n-m$n-m-sg
 	cym	graddfa	n-f	spa	baremo	n-m$n
 	cym	graddfa	n-f	spa	balanza	n$n-f$n-f-sg
 	cym	graddfa	n-f	spa	balanza	n-f-pl
@@ -4677,7 +4677,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	gwelliant	n-m	spa	mejora	n$n-f$n-f-sg
 	cym	gwelliant	n-m	spa	enmienda	n$n-f$n-f-sg
 	cym	gwelliant	n-m	spa	subsanación	n$n-f
-	cym	gwellt	n-m	spa	hierba	n-f$n$n-f-ND
+	cym	gwellt	n-m	spa	hierba	n-f$n$n-f-sg
 	cym	gwelltyn	n-m	spa	cabello	n-m$n$n-m-ND
 	cym	gwely	n-m	spa	cama	n-f$n$n-f-sg
 	cym	gwelydd	n-m	spa	espectador	n$n-GD$n-GD-pl
@@ -4792,12 +4792,12 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	gwybodaeth	n-f	spa	saber	n-m$n$n-m-ND
 	cym	gwybyddol	adj	spa	cognitivo	adj$adj-GD-ND
 	cym	gwych	adj	spa	espléndido	adj$adj-GD$adj-GD-ND
-	cym	gwyddoniaeth	n-f	spa	ciencia	n-f$n$n-f-sg
+	cym	gwyddoniaeth	n-f	spa	ciencia	n$n-f$n-f-sg
 	cym	gwyddonol	adj	spa	científico	adj$adj-GD$adj-GD-ND
 	cym	gwyddonydd	n-m	spa	científico	n-GD$n-GD-ND
 	cym	gwyddonydd	n-m	spa	científico	n$n-m$n-m-sg
 	cym	gwyddor	n-f	spa	alfabeto	n-m$n$n-m-ND
-	cym	gwyddor	n-f	spa	ciencia	n-f$n$n-f-sg
+	cym	gwyddor	n-f	spa	ciencia	n$n-f$n-f-sg
 	cym	gwyddori	vblex	spa	instruir	vblex
 	cym	gwydnhau	vblex	spa	apelmazar	vblex
 	cym	gwydnhau	vblex	spa	encrudecer	vblex
@@ -5750,7 +5750,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	mynwesu	vblex	spa	abrazar	vblex
 	cym	mynych	adj-sint	spa	frecuente	adj-mf$adj$adj-mf-sg
 	cym	mynydd	n-m	spa	montaña	n-f$n$n-f-sg
-	cym	mynydd	n-m	spa	monte	n-m$n
+	cym	mynydd	n-m	spa	monte	n$n-m
 	cym	myrr	n-m	spa	mirra	n$n-f
 	cym	mytholeg	n-f	spa	mitología	n$n-f
 	cym	màs	n-mf	spa	masa	n-f$n$n-f-ND
@@ -5787,7 +5787,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	negeseua	vblex	spa	negociar	vblex
 	cym	negesydd	n-m	spa	mensajero	n-GD
 	cym	negesydd	n-m	spa	mensajero	n$n-m$n-m-ND
-	cym	negodiad	n-m	spa	gestión	n-f$n$n-f-sg
+	cym	negodiad	n-m	spa	gestión	n$n-f$n-f-sg
 	cym	negodiad	n-m	spa	negociación	n$n-f$n-f-sg
 	cym	negyddol	adj	spa	negativo	adj$adj-GD-ND
 	cym	neidio	vblex	spa	saltar	vblex
@@ -5899,18 +5899,18 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	oddi wrth	pr	spa	de	pr$pr-det-def-m-sg
 	cym	odl	n-f	spa	rima	n$n-f
 	cym	odli	vblex	spa	rimar	vblex
-	cym	oed	n-m	spa	edad	n-f$n$n-f-sg
+	cym	oed	n-m	spa	edad	n$n-f$n-f-sg
 	cym	oedfa	n-f	spa	servicio	n$n-m$n-m-sg
 	cym	oedi	vblex	spa	parar	vblex
 	cym	oediad	n-m	spa	retraso	n$n-m$n-m-ND
 	cym	oedolyn	n-m	spa	adulto	n-GD
 	cym	oedolyn	n-m	spa	adulto	n$n-m-sg$n-m
-	cym	oedran	n-m	spa	edad	n-f$n$n-f-sg
+	cym	oedran	n-m	spa	edad	n$n-f$n-f-sg
 	cym	oen	n-m	spa	cordero	n$n-m$n-m-sg
 	cym	oer	adj-sint	spa	frío	adj$adj-GD-ND$adj-GD
 	cym	oerfelgarwch	n-m	spa	frialdad	n$n-f
 	cym	oergell	n-f	spa	nevera	n$n-f$n-f-ND
-	cym	oes	n-f	spa	edad	n-f$n$n-f-sg
+	cym	oes	n-f	spa	edad	n$n-f$n-f-sg
 	cym	oferedd	n-m	spa	disipación	n$n-f
 	cym	offeiriad	n-m	spa	cura	n-m$n$n-m-ND
 	cym	offeiriad	n-m	spa	sacerdote	n-GD
@@ -6110,7 +6110,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	persli	n-m	spa	perejil	n-m$n$n-m-sg
 	cym	person	n-m	spa	gente	n-f-sg$n$n-f
 	cym	person	n-m	spa	gente	n-f-pl
-	cym	person	n-m	spa	persona	n-f$n$n-f-sg
+	cym	person	n-m	spa	persona	n$n-f$n-f-sg
 	cym	personol	adj	spa	personal	adj$adj-mf$adj-mf-pl
 	cym	personoliaeth	n-f	spa	personalidad	n$n-f$n-f-sg
 	cym	personél	n-m	spa	personal	n$n-m-sg$n-m
@@ -6195,7 +6195,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	plygu	vblex	spa	plegar	vblex
 	cym	plymio	vblex	spa	aplomar	vblex
 	cym	plân	n-m	spa	avión	n-m$n$n-m-sg
-	cym	plân	n-m	spa	plano	n-m$n$n-m-sg
+	cym	plân	n-m	spa	plano	n$n-m$n-m-sg
 	cym	pnawn	n-m	spa	tarde	n-f$n$n-f-ND
 	cym	pob	det-ind	spa	cada	det$det-ind$det-ind-mf$det-ind-mf-sg
 	cym	pobi	vblex	spa	cocer	vblex
@@ -6259,7 +6259,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	pren	n-m	spa	bosque	n-m$n$n-m-sg
 	cym	pren	n-m	spa	madera	n$n-f$n-f-sg
 	cym	pren	n-m	spa	madera	n-f-pl
-	cym	pres	n-m	spa	dinero	n-m-sg$n-m$n
+	cym	pres	n-m	spa	dinero	n-m-sg$n$n-m
 	cym	presennol	adj	spa	presente	adj-mf$adj$adj-mf-sg
 	cym	presenoldeb	n-m	spa	presencia	n$n-f$n-f-ND
 	cym	presenoli	vblex	spa	presentar	vblex
@@ -7392,7 +7392,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	rheol	n-f	spa	normativa	n$n-f$n-f-sg
 	cym	rheol	n-f	spa	regla	n-f$n$n-f-ND
 	cym	rheolaeth	n-f	spa	administración	n-f$n$n-f-sg
-	cym	rheolaeth	n-f	spa	gestión	n-f$n$n-f-sg
+	cym	rheolaeth	n-f	spa	gestión	n$n-f$n-f-sg
 	cym	rheolaidd	adj	spa	regular	adj$adj-mf$adj-mf-pl
 	cym	rheoleiddio	vblex	spa	regular	vblex
 	cym	rheoli	vblex	spa	alcanzar	vblex
@@ -7995,7 +7995,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	teithiol	adj	spa	itinerante	adj-mf$adj$adj-mf-sg
 	cym	teithiwr	n-m	spa	viajero	n-GD$n-GD-ND
 	cym	teithiwr	n-m	spa	viajero	n$n-m
-	cym	teitl	n-m	spa	título	n-m$n$n-m-sg
+	cym	teitl	n-m	spa	título	n$n-m$n-m-sg
 	cym	telathrebiad	n-m	spa	telecomunicación	n$n-f$n-f-sg
 	cym	teledu	n-m	spa	televisión	n$n-f$n-f-sg
 	cym	teledu	vblex	spa	televisar	vblex
@@ -8029,7 +8029,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	testun	n-m	spa	texto	n$n-m$n-m-sg
 	cym	testunol	adj	spa	textual	adj$adj-mf$adj-mf-sg
 	cym	tetrahedron	n-m	spa	tetraedro	n$n-m
-	cym	teulu	n-m	spa	familia	n-f$n$n-f-sg
+	cym	teulu	n-m	spa	familia	n$n-f$n-f-sg
 	cym	tew	adj-sint$adj	spa	gordo	adj$adj-f
 	cym	tewhau	vblex	spa	engordar	vblex
 	cym	tewion	adj	spa	gordo	adj$adj-f
@@ -8494,7 +8494,7 @@ RL	cym		num-ord	spa		num-ord-m-sg
 	cym	ymbriodi	vblex	spa	casarse	vblex-pron$vblex
 	cym	ymbrofi	vblex	spa	competer	vblex
 	cym	ymbrofi	vblex	spa	competir	vblex
-	cym	ymchwil	n-m	spa	búsqueda	n-f$n$n-f-sg
+	cym	ymchwil	n-m	spa	búsqueda	n$n-f$n-f-sg
 	cym	ymchwil	n-m	spa	investigación	n-f$n$n-f-sg
 	cym	ymchwiliad	n-m	spa	investigación	n-f$n$n-f-sg
 	cym	ymchwilio	vblex	spa	investigar	vblex

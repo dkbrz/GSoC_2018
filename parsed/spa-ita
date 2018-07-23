@@ -1,5 +1,5 @@
-	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl	ita	alcun	det-ind$det-ind-GD-ND$det
-RL	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl	ita	qualche	det-ind-mf$det$det-ind$det-ind-mf-sg
+	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl	ita	alcun	det-ind$det-ind-GD-ND$det
+RL	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl	ita	qualche	det-ind-mf$det$det-ind$det-ind-mf-sg
 	spa	ambos	det$det-ind$det-ind-GD-pl$det-ind-GD	ita	entrambi i	det-ind$det-ind-GD-pl
 RL	spa	ambos	det$det-ind$det-ind-GD-pl$det-ind-GD	ita	tutt'e due i	det-ind
 LR	spa	aquel	det$det-dem-GD$det-dem$det-dem-GD-ND	ita	quello	det-dem$det-dem-GD-ND$det
@@ -45,7 +45,7 @@ RL	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl	ita	il tuo	det-pos-f$det-pos-f-
 LR	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl	ita	il tuo	det-pos$det-pos-GD-ND$det-pos-GD
 RL	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl	ita	tuo	det-pos$det-pos-m
 RL	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl	ita	tuo	det-pos-f
-	spa	uno	det-ind$det$det-ind-m-sg$det-ind-m	ita	un	det-ind-m-sg$det$det-ind$det-ind-m
+	spa	uno	det$det-ind$det-ind-m-sg$det-ind-m	ita	un	det-ind-m-sg$$det$det-ind$det-ind-m
 	spa	uno	det-ind-f-pl$det-ind-f	ita	un	det-ind-f-sg$det-ind-f
 RL	spa	uno	det-ind-GD$det-ind-GD-ND	ita	un	det-ind-mf$det-ind-mf-sg
 	spa	vario	det$det-ind-GD$det-ind$det-ind-GD-ND	ita	vario	$det$det-ind$det-ind-GD-pl
@@ -103,17 +103,17 @@ RL	spa	mil	num$num-mf$num-mf-sp	ita	mila	num
 	spa	catorce	num$$num-mf$num-mf-sp	ita	quattordici	num-mf-sp$$num
 	spa	cien	num$num-mf-sp$num-mf$	ita	cento	$num-mf-sp$num
 	spa	cinco	num$num-mf-sp$	ita	cinque	num-mf-sp$$num
-	spa	cincuenta	num$$num-mf	ita	cinquanta	num-mf-sp$$num
-	spa	cincuenta	num$$num-mf	ita	cinquanta	num-mf-sp$$num
+	spa	cincuenta	num$$num-mf-sp$num-mf	ita	cinquanta	num-mf-sp$$num
+	spa	cincuenta	num$$num-mf-sp$num-mf	ita	cinquanta	num-mf-sp$$num
 	spa	cincuenta y cinco	num$$num-mf	ita	cinquantacinque	num-mf-sp$$num
 	spa	cincuenta y cuatro	num$$num-mf	ita	cinquantaquattro	num-mf-sp$$num
-	spa	cincuenta y dos	num-mf$num-mf-sp$num$	ita	cinquantadue	num-mf-sp$$num
+	spa	cincuenta y dos	num-mf$num$num-mf-sp$	ita	cinquantadue	num-mf-sp$$num
 	spa	cincuenta y nueve	num$$num-mf	ita	cinquantanove	num-mf-sp$$num
 	spa	cincuenta y ocho	num$$num-mf	ita	cinquantotto	num-mf-sp$$num
 	spa	cincuenta y seis	num$$num-mf	ita	cinquantasei	num-mf-sp$$num
 	spa	cincuenta y siete	num$$num-mf	ita	cinquantasette	num-mf-sp$$num
-	spa	cincuenta y uno	num$$num-m	ita	cinquantuno	num$$num-m
-	spa	cuarenta	num$$num-mf$num-mf-sp	ita	quaranta	num-mf-sp$$num
+	spa	cincuenta y uno	num$$num-mf	ita	cinquantuno	num$$num-m
+	spa	cuarenta	num$num-mf-sp$$num-mf	ita	quaranta	num-mf-sp$$num
 	spa	cuarenta y cinco	num$$num-mf	ita	quarantacinque	num-mf-sp$$num
 	spa	cuarenta y cuatro	num$$num-mf	ita	quarantaquattro	num-mf-sp$$num
 	spa	cuarenta y dos	num-mf$num$num-mf-pl$	ita	quarantadue	num-mf-sp$$num
@@ -121,7 +121,7 @@ RL	spa	mil	num$num-mf$num-mf-sp	ita	mila	num
 	spa	cuarenta y ocho	num$$num-mf	ita	quarantotto	num-mf-sp$$num
 	spa	cuarenta y seis	num$$num-mf	ita	quarantasei	num-mf-sp$$num
 	spa	cuarenta y siete	num$$num-mf	ita	quarantasette	num-mf-sp$$num
-	spa	cuarenta y uno	num$$num-m	ita	quarantuno	num$$num-m
+	spa	cuarenta y uno	num$$num-mf	ita	quarantuno	num$$num-m
 	spa	cuatro	num$$num-mf-sp	ita	quattro	$num-mf-sp$num
 	spa	cuatro	num$$num-mf-sp	ita	quattro	$num-mf-sp$num
 	spa	diecinueve	num$$num-mf$num-mf-sp	ita	diciannove	num-mf-sp$$num
@@ -133,7 +133,7 @@ RL	spa	mil	num$num-mf$num-mf-sp	ita	mila	num
 	spa	doce	num$num-mf-pl$$num-mf	ita	dodici	num-mf-sp$$num
 	spa	dos	num-mf$num$num-mf-sp$	ita	due	num-mf-sp$$num
 	spa	dos	num-mf$num$num-mf-sp$	ita	due	num-mf-sp$$num
-	spa	noventa	num$$num-mf	ita	novanta	num-mf-sp$$num
+	spa	noventa	num$$num-mf$num-mf-sp	ita	novanta	num-mf-sp$$num
 	spa	noventa y cinco	num$$num-mf	ita	novantacinque	num-mf-sp$$num
 	spa	noventa y cuatro	num$$num-mf	ita	novantaquattro	num-mf-sp$$num
 	spa	noventa y dos	num-mf$num$num-mf-pl$	ita	novantadue	num-mf-sp$$num
@@ -141,22 +141,22 @@ RL	spa	mil	num$num-mf$num-mf-sp	ita	mila	num
 	spa	noventa y ocho	num$$num-mf	ita	novantotto	num-mf-sp$$num
 	spa	noventa y seis	num$$num-mf	ita	novantasei	num-mf-sp$$num
 	spa	noventa y siete	num$$num-mf	ita	novantasette	num-mf-sp$$num
-	spa	noventa y uno	num$num-m$	ita	novantuno	num$$num-m
+	spa	noventa y uno	num$$num-GD	ita	novantuno	num$$num-m
 	spa	nueve	num$$num-mf-sp	ita	nove	num-mf-sp$$num
-	spa	ochenta	num$$num-mf$num-mf-sp	ita	ottanta	num-mf-sp$$num
+	spa	ochenta	num$num-mf-sp$$num-mf	ita	ottanta	num-mf-sp$$num
 	spa	ochenta y cinco	num$$num-mf	ita	ottantacinque	num-mf-sp$$num
 	spa	ochenta y cuatro	num$$num-mf	ita	ottantaquattro	num-mf-sp$$num
-	spa	ochenta y dos	num-mf$num-mf-sp$num$	ita	ottantadue	num-mf-sp$$num
+	spa	ochenta y dos	num-mf$num$num-mf-pl$	ita	ottantadue	num-mf-sp$$num
 	spa	ochenta y nueve	num$$num-mf	ita	ottantanove	num-mf-sp$$num
 	spa	ochenta y ocho	num$$num-mf	ita	ottantotto	num-mf-sp$$num
 	spa	ochenta y seis	num$$num-mf	ita	ottantasei	num-mf-sp$$num
 	spa	ochenta y siete	num$$num-mf	ita	ottantasette	num-mf-sp$$num
-	spa	ochenta y uno	num$$num-m	ita	ottantuno	num$$num-m
+	spa	ochenta y uno	num$$num-mf	ita	ottantuno	num$$num-m
 	spa	ocho	num$$num-mf-sp	ita	otto	num-mf-sp$$num
 	spa	once	num$$num-mf$num-mf-sp	ita	undici	num-mf-sp$$num
 	spa	quince	num$$num-mf$num-mf-sp	ita	quindici	num-mf-sp$$num
 	spa	seis	num$num-mf-sp$	ita	sei	num-mf-sp$$num
-	spa	sesenta	num$$num-mf$num-mf-sp	ita	sessanta	num-mf-sp$$num
+	spa	sesenta	num$num-mf-sp$$num-mf	ita	sessanta	num-mf-sp$$num
 	spa	sesenta y cinco	num$$num-mf	ita	sessantacinque	num-mf-sp$$num
 	spa	sesenta y cuatro	num$$num-mf	ita	sessantaquattro	num-mf-sp$$num
 	spa	sesenta y dos	num-mf$num$num-mf-pl$	ita	sessantadue	num-mf-sp$$num
@@ -164,8 +164,8 @@ RL	spa	mil	num$num-mf$num-mf-sp	ita	mila	num
 	spa	sesenta y ocho	num$$num-mf	ita	sessantotto	num-mf-sp$$num
 	spa	sesenta y seis	num$$num-mf	ita	sessantasei	num-mf-sp$$num
 	spa	sesenta y siete	num$$num-mf	ita	sessantasette	num-mf-sp$$num
-	spa	sesenta y uno	num$$num-m	ita	sessantuno	num$$num-m
-	spa	setenta	num$$num-mf	ita	settanta	num-mf-sp$$num
+	spa	sesenta y uno	num$$num-mf	ita	sessantuno	num$$num-m
+	spa	setenta	num$$num-mf$num-mf-sp	ita	settanta	num-mf-sp$$num
 	spa	setenta y cinco	num$$num-mf	ita	settantacinque	num-mf-sp$$num
 	spa	setenta y cuatro	num$$num-mf	ita	settantaquattro	num-mf-sp$$num
 	spa	setenta y dos	num-mf$num$num-mf-pl$	ita	settantadue	num-mf-sp$$num
@@ -173,10 +173,10 @@ RL	spa	mil	num$num-mf$num-mf-sp	ita	mila	num
 	spa	setenta y ocho	num$$num-mf	ita	settantotto	num-mf-sp$$num
 	spa	setenta y seis	num$$num-mf	ita	settantasei	num-mf-sp$$num
 	spa	setenta y siete	num$$num-mf	ita	settantasette	num-mf-sp$$num
-	spa	setenta y uno	num$num-m$	ita	settantuno	num$$num-m
+	spa	setenta y uno	num$$num-GD	ita	settantuno	num$$num-m
 	spa	siete	num$$num-mf-sp	ita	sette	num-mf-sp$$num
 	spa	trece	num$$num-mf$num-mf-sp	ita	tredici	num-mf-sp$$num
-	spa	treinta	num$$num-mf	ita	trenta	num-mf-sp$$num
+	spa	treinta	num$$num-mf$num-mf-sp	ita	trenta	num-mf-sp$$num
 	spa	treinta y cinco	num$$num-mf	ita	trentacinque	num-mf-sp$$num
 	spa	treinta y cuatro	num$$num-mf	ita	trentaquattro	num-mf-sp$$num
 	spa	treinta y dos	num-mf$num$num-mf-pl$	ita	trentadue	num-mf-sp$$num
@@ -184,7 +184,7 @@ RL	spa	mil	num$num-mf$num-mf-sp	ita	mila	num
 	spa	treinta y ocho	num$$num-mf	ita	trentotto	num-mf-sp$$num
 	spa	treinta y seis	num$$num-mf	ita	trentasei	num-mf-sp$$num
 	spa	treinta y siete	num$$num-mf	ita	trentasette	num-mf-sp$$num
-	spa	treinta y uno	num$$num-m	ita	trentuno	num$$num-m
+	spa	treinta y uno	num$$num-mf	ita	trentuno	num$$num-m
 	spa	tres	num$num-mf-sp$	ita	tre	num-mf-sp$$num
 	spa	veinte	num$$num-mf$num-mf-sp	ita	venti	num-mf-sp$$num
 	spa	veinticinco	num$$num-mf	ita	venticinque	num-mf-sp$num$
@@ -211,13 +211,13 @@ RL	spa	mil	num$num-mf$num-mf-sp	ita	mila	num
 	spa	seiscientos	num$$num-GD-pl	ita	seicento	$num
 	spa	setecientos	num$$num-GD-pl	ita	settecento	$num$num-mf-sp
 	spa	trescientos	num$$num-mf	ita	trecento	$num$num-mf-sp
-	spa	cincuenta y uno	num$$num-m	ita	cinquantuno	num$$num-m
-	spa	cuarenta y uno	num$$num-m	ita	quarantuno	num$$num-m
-	spa	noventa y uno	num$num-m$	ita	novantuno	num$$num-m
-	spa	ochenta y uno	num$$num-m	ita	ottantuno	num$$num-m
-	spa	sesenta y uno	num$$num-m	ita	sessantuno	num$$num-m
-	spa	setenta y uno	num$num-m$	ita	settantuno	num$$num-m
-	spa	treinta y uno	num$$num-m	ita	trentuno	num$$num-m
+	spa	cincuenta y uno	num$$num-mf	ita	cinquantuno	num$$num-m
+	spa	cuarenta y uno	num$$num-mf	ita	quarantuno	num$$num-m
+	spa	noventa y uno	num$$num-GD	ita	novantuno	num$$num-m
+	spa	ochenta y uno	num$$num-mf	ita	ottantuno	num$$num-m
+	spa	sesenta y uno	num$$num-mf	ita	sessantuno	num$$num-m
+	spa	setenta y uno	num$$num-GD	ita	settantuno	num$$num-m
+	spa	treinta y uno	num$$num-mf	ita	trentuno	num$$num-m
 	spa	veintiuno	num$$num-m$num-m-sp	ita	ventuno	num$$num-m
 	spa	Amazonia	adj	ita	Amazzonia	adj
 	spa	Indus	adj	ita	dell'Indo	adj
@@ -230,7 +230,7 @@ LR	spa	abrumador	adj-m	ita	travolgente	adj-mf$
 LR	spa	abrumador	adj-f	ita	travolgente	adj-mf$
 RL	spa	abrumador	adj$adj-GD$adj-GD-ND	ita	travolgente	adj-mf$
 	spa	absoluto	adj$adj-GD-ND	ita	assoluto	$adj$adj-sup
-	spa	absorbente	adj$adj-mf$adj-mf-pl	ita	assorbente	adj$$adj-mf
+	spa	absorbente	adj$adj-mf$adj-mf-pl	ita	assorbente	adj$adj-mf
 	spa	absorto	adj$adj-m-sg	ita	assorto	$adj
 	spa	abstracto	adj$adj-GD-ND	ita	astratto	adj$$adj-m-sg
 	spa	absurdo	adj$adj-GD-ND$adj-GD	ita	assurdo	$adj$adj-sup
@@ -675,9 +675,9 @@ RL	spa	chino	adj-GD$adj-GD-pl	ita	cinese	adj-mf$$adj
 RL	spa	chocante	adj$adj-mf$adj-mf-sg	ita	sconvolgente	$adj
 	spa	ciberdelincuente	adj	ita	criminale informatico	adj
 	spa	ciego	adj$adj-GD$$adj-GD-ND	ita	cieco	$adj$adj-sup
-LR	spa	ciego	adj-m$adj-m-sg	ita	non vedente	adj-mf$
-LR	spa	ciego	adj-f$adj-f-pl	ita	non vedente	adj-mf$
-RL	spa	ciego	adj$adj-GD$$adj-GD-ND	ita	non vedente	adj-mf$
+LR	spa	ciego	adj-m$adj-m-sg	ita	non vedente	adj-mf
+LR	spa	ciego	adj-f$adj-f-pl	ita	non vedente	adj-mf
+RL	spa	ciego	adj$adj-GD$$adj-GD-ND	ita	non vedente	adj-mf
 LR	spa	científico	adj$adj-GD$adj-GD-ND	ita	scienziato	adj
 	spa	científico	adj$adj-GD$adj-GD-ND	ita	scientifico	adj$adj-sup
 	spa	cierto	adj$adj-GD-ND	ita	certo	adj$adj-sup
@@ -707,7 +707,7 @@ LR	spa	científico	adj$adj-GD$adj-GD-ND	ita	scienziato	adj
 	spa	colindante	adj-mf$adj	ita	confinante	$adj$adj-mf
 	spa	colombiano	adj$adj-m-sg	ita	colombiano	adj$$adj-sup
 	spa	coloquial	adj$adj-mf$adj-mf-pl	ita	colloquiale	adj$adj-mf$
-	spa	colorante	adj	ita	colorante	adj$$adj-mf
+	spa	colorante	adj	ita	colorante	adj$adj-mf
 	spa	colosal	adj-mf$adj$adj-mf-sg	ita	colossale	adj$$adj-mf
 	spa	comarcal	adj-mf$adj$adj-mf-pl	ita	comarcale	adj$adj-mf
 	spa	comercial	adj-mf$adj$adj-mf-pl	ita	commerciale	$adj$adj-mf
@@ -729,7 +729,7 @@ RL	spa	competitivo	adj-GD$adj-GD-ND	ita	concorrenziale	adj-mf$
 LR	spa	complementario	adj-m$adj-m-sg	ita	complementare	adj-mf$adj
 LR	spa	complementario	adj-f	ita	complementare	adj-mf$adj
 RL	spa	complementario	adj$adj-GD-ND$adj-GD	ita	complementare	adj-mf$adj
-	spa	completo	adj$adj-GD-ND$adj-GD	ita	completo	$adj$adj-sup
+	spa	completo	adj$adj-GD-ND$adj-GD	ita	completo	adj$adj-sup
 	spa	componente	adj$adj-mf-sg	ita	componente	adj
 	spa	compositor	adj	ita	compositore	adj
 	spa	comprensible	adj-mf$adj$adj-mf-ND	ita	comprensibile	adj$adj-mf$
@@ -864,7 +864,7 @@ LR	spa	cualquiera	adj-mf-pl	ita	qualunque	adj-mf$adj-mf-sp$adj
 RL	spa	cualquiera	adj$adj-mf-ND	ita	qualunque	adj-mf$adj-mf-sp$adj
 	spa	cuantitativo	adj$adj-GD-ND	ita	quantitativo	adj$adj-sup
 	spa	cuanto	adj	ita	quanto	adj$adj-itg
-	spa	cuarto	adj$adj-f$adj-f-pl	ita	quarto	adj-ord$$adj
+	spa	cuarto	adj$adj-f$adj-f-pl	ita	quarto	adj-ord$adj
 	spa	cubano	adj$adj-GD-ND	ita	cubano	adj$$adj-sup
 	spa	cubierto	adj$adj-GD-ND	ita	ricoperto	$adj
 LR	spa	cuidadoso	adj$adj-GD-ND	ita	attento	$adj$adj-f
@@ -992,9 +992,9 @@ RL	spa	desesperanzador	adj-GD	ita	scoraggiante	$adj-mf
 	spa	despectivo	adj$adj-m-sg$adj-m	ita	dispregiativo	adj
 	spa	despertado	adj	ita	svegliato	adj
 	spa	despierto	adj$adj-m-sg	ita	sveglio	$adj$adj-sup
-LR	spa	descalzo	adj$adj-m-sg	ita	a piedi nudi	adj-mf-sp$adj
-LR	spa	descalzo	adj-f-pl	ita	a piedi nudi	adj-mf-sp$adj
-RL	spa	descalzo	adj-GD-ND	ita	a piedi nudi	adj-mf-sp$adj
+LR	spa	descalzo	adj$adj-m-sg	ita	a piedi nudi	adj-mf-sp
+LR	spa	descalzo	adj-f-pl	ita	a piedi nudi	adj-mf-sp
+RL	spa	descalzo	adj-GD-ND	ita	a piedi nudi	adj-mf-sp
 	spa	destinatario	adj$adj-GD	ita	destinatario	adj
 	spa	destructor	adj$adj-m-sg	ita	distruttore	adj$
 	spa	detallado	adj$adj-GD-ND	ita	dettagliato	adj$
@@ -1012,7 +1012,7 @@ RL	spa	devastador	adj-GD	ita	devastante	adj-mf$adj
 	spa	difunto	adj$adj-m-sg	ita	defunto	adj$adj-sup
 	spa	difícil	adj$adj-mf-ND$adj-mf	ita	difficile	$adj$adj-mf
 	spa	digital	adj$adj-mf$adj-mf-sg	ita	digitale	adj$$adj-mf
-	spa	digno	adj$adj-GD-ND$adj-GD	ita	degno	adj$$adj-sup
+	spa	digno	adj$adj-GD-ND$adj-GD	ita	degno	$adj$adj-sup
 	spa	diluyente	adj	ita	diluente	adj-mf$adj
 	spa	dimensional	adj$adj-mf$adj-mf-sg	ita	dimensionale	adj$adj-mf$
 LR	spa	diminuto	adj$adj-GD-ND	ita	minuto	$adj$adj-sup
@@ -1033,7 +1033,7 @@ RL	spa	discapacitado	adj$adj-GD-ND$adj-GD	ita	disabile	adj-mf$$adj
 	spa	discutible	adj$adj-mf$adj-mf-sg	ita	discutibile	$adj$adj-mf
 	spa	discutido	adj	ita	discusso	$adj$adj-sup
 	spa	disidente	adj$adj-mf$adj-mf-sg	ita	dissidente	adj$adj-mf
-	spa	disparado	adj$adj-m-sg	ita	sparato	adj
+	spa	disparado	adj$adj-m-sg	ita	sparato	$adj
 	spa	disponible	adj$adj-mf$adj-mf-sg	ita	disponibile	$adj$adj-mf
 	spa	dispuesto	adj$adj-GD-ND	ita	pronto	$adj$adj-sup
 	spa	distante	adj$adj-mf$adj-mf-sg	ita	distante	adj$adj-mf$
@@ -1237,9 +1237,9 @@ LR	spa	excluyente	adj$adj-mf$adj-mf-sg	ita	esclusivo	adj-GD
 	spa	exiliado	adj	ita	esiliato	adj
 	spa	existencial	adj$adj-mf$adj-mf-sg	ita	esistenziale	adj$$adj-mf
 	spa	existente	adj-mf$adj$adj-mf-sg	ita	esistente	adj$adj-mf$
-LR	spa	exitoso	adj-m-sg	ita	di successo	adj-mf-sp$adj$adj-mf$
-LR	spa	exitoso	adj-f-pl	ita	di successo	adj-mf-sp$adj$adj-mf$
-RL	spa	exitoso	adj$adj-GD-ND	ita	di successo	adj-mf-sp$adj$adj-mf$
+LR	spa	exitoso	adj-m-sg	ita	di successo	adj-mf-sp$adj-mf
+LR	spa	exitoso	adj-f-pl	ita	di successo	adj-mf-sp$adj-mf
+RL	spa	exitoso	adj$adj-GD-ND	ita	di successo	adj-mf-sp$adj-mf
 	spa	expandido	adj	ita	sparso	$adj$adj-sup
 	spa	expansiva	adj	ita	espansiva	adj
 	spa	expansivo	adj$adj-m-sg	ita	espansivo	adj$
@@ -1416,7 +1416,7 @@ LR	spa	gobernante	adj-m	ita	governante	adj-mf
 LR	spa	gobernante	adj-f	ita	governante	adj-mf
 RL	spa	gobernante	adj-GD	ita	governante	adj-mf
 	spa	golpeado	adj	ita	picchiato	adj
-	spa	gordo	adj$adj-f	ita	grasso	adj$$adj-sup
+	spa	gordo	adj$adj-f	ita	grasso	adj$adj-sup
 LR	spa	gracioso	adj-m$adj-m-ND	ita	divertente	$adj$adj-mf
 LR	spa	gracioso	adj-f$adj-f-pl	ita	divertente	$adj$adj-mf
 RL	spa	gracioso	adj$adj-GD-ND$adj-GD	ita	divertente	$adj$adj-mf
@@ -1446,7 +1446,7 @@ RL	spa	gubernamental	adj-mf$adj$adj-mf-sg	ita	governativo	adj-f
 	spa	habitable	adj$adj-mf-pl$adj-mf	ita	abitabile	adj
 	spa	habituado	adj	ita	abituato	adj$$adj-sup
 	spa	habitual	adj$adj-mf$adj-mf-pl	ita	abituale	adj$$adj-mf
-	spa	hambriento	adj$adj-GD-ND	ita	affamato	adj$
+	spa	hambriento	adj$adj-GD-ND	ita	affamato	$adj
 	spa	hebraico	adj$adj-m-sg	ita	ebraico	adj$$adj-sup
 	spa	hebreo	adj$adj-m-sg	ita	ebreo	adj$$adj-f
 	spa	hereditario	adj$adj-GD-ND	ita	ereditario	adj
@@ -1553,7 +1553,7 @@ RL	spa	inalámbrico	adj$adj-GD$adj-GD-ND	ita	senza fili	adj-mf-sp$adj-mf
 	spa	increíble	adj$adj-mf$adj-mf-sg	ita	incredibile	adj$$adj-mf
 	spa	increíble	adj$adj-mf$adj-mf-sg	ita	incredibile	adj$$adj-mf
 RL	spa	increíble	adj$adj-mf$adj-mf-sg	ita	strabiliante	$adj
-RL	spa	incómodo	adj$adj-GD-ND	ita	a disagio	$adj
+RL	spa	incómodo	adj$adj-GD-ND	ita	a disagio	adj
 	spa	indeciso	adj$adj-m-sg	ita	indeciso	$adj$adj-sup
 	spa	indefenso	adj$adj-m$adj-m-sg	ita	indifeso	$adj$adj-sup
 	spa	impotente	adj-mf$adj$adj-mf-sg	ita	impotente	$adj-mf$adj
@@ -1675,9 +1675,9 @@ RL	spa	interior	adj-mf$adj$adj-mf-sg	ita	interno	adj$adj-m
 RL	spa	interior	adj-mf$adj$adj-mf-sg	ita	interno	adj-f
 	spa	intermediario	adj$adj-GD	ita	intermediario	adj$adj-sup
 	spa	intermedio	adj$adj-GD-ND	ita	intermedio	$adj
-LR	spa	interminable	adj-sg$adj-mf-sg	ita	senza fine	adj-sp$$adj
-LR	spa	interminable	adj-pl	ita	senza fine	adj-sp$$adj
-RL	spa	interminable	adj-ND	ita	senza fine	adj-sp$$adj
+LR	spa	interminable	adj-sg$adj-mf-sg	ita	senza fine	adj-sp
+LR	spa	interminable	adj-pl	ita	senza fine	adj-sp
+RL	spa	interminable	adj-ND	ita	senza fine	adj-sp
 	spa	intermitente	adj$adj-mf$adj-mf-sg	ita	intermittente	$adj$adj-mf
 	spa	internacional	adj-mf$adj$adj-mf-pl	ita	internazionale	adj$$adj-mf
 	spa	interno	adj$adj-GD$adj-GD-ND	ita	interno	adj$adj-m
@@ -1792,7 +1792,7 @@ LR	spa	lindo	adj$adj-GD-ND	ita	carino	$adj$adj-m
 	spa	llamado	adj$adj-m-sg	ita	chiamato	adj
 	spa	lleno	adj$adj-GD-ND	ita	pieno	$adj$adj-sup
 	spa	local	adj$adj-mf$adj-mf-sg	ita	locale	adj$adj-mf
-RL	spa	loco	adj$adj-GD-ND$adj-GD	ita	fuori di testa	$adj-mf-sp
+RL	spa	loco	adj$adj-GD-ND$adj-GD	ita	fuori di testa	adj-mf-sp
 	spa	loco	adj$adj-GD-ND$adj-GD	ita	matto	$adj$adj-sup
 RL	spa	loco	adj$adj-GD-ND$adj-GD	ita	pazzo	adj$adj-sup
 	spa	logístico	adj$adj-m-sg$adj-m	ita	logistico	adj$$adj-sup
@@ -1804,7 +1804,7 @@ RL	spa	loco	adj$adj-GD-ND$adj-GD	ita	pazzo	adj$adj-sup
 	spa	lunar	adj$adj-mf$adj-mf-sg	ita	lunare	adj$$adj-mf
 	spa	lácteo	adj	ita	latteo	adj$
 	spa	lícito	adj$adj-GD-ND$adj-GD	ita	lecito	adj$
-	spa	líquido	adj$adj-GD$adj-GD-ND	ita	liquido	adj$$adj-sup
+	spa	líquido	adj$adj-GD$adj-GD-ND	ita	liquido	adj$adj-sup
 	spa	lógico	adj$adj-m-sg$$adj-m	ita	logico	$adj$adj-sup
 	spa	lúdico	adj$adj-m-sg$adj-m	ita	ludico	adj$adj-sup
 RL	spa	macro	adj-sg	ita	macro	adj-sp
@@ -1859,7 +1859,7 @@ RL	spa	marroquí	adj-mf$adj$adj-mf-sg	ita	marocchino	adj-f
 	spa	masiva	adj	ita	massiccia	adj
 	spa	masivo	adj$adj-GD-ND	ita	massiccio	$adj$adj-sup
 	spa	matemático	adj$adj-GD$$adj-GD-ND	ita	matematico	$adj$adj-sup
-	spa	material	adj$adj-mf$adj-mf-pl	ita	materiale	adj$$adj-mf
+	spa	material	adj$adj-mf$adj-mf-pl	ita	materiale	adj$adj-mf
 LR	spa	maternal	adj-mf$adj$adj-mf-sg	ita	materno	adj$adj-GD$
 	spa	materno	adj$adj-GD$adj-GD-ND	ita	materno	adj$adj-GD$
 LR	spa	matinal	adj-mf$adj	ita	mattutino	adj-GD
@@ -1891,10 +1891,10 @@ RL	spa	menor	adj$adj-mf$adj-mf-ND	ita	minorile	$adj$adj-sup
 	spa	mental	adj$adj-mf$adj-mf-sg	ita	mentale	adj$$adj-mf
 	spa	mentiroso	adj$adj-m-sg	ita	bugiardo	adj
 	spa	menudo	adj$adj-m$adj-itg-m-sg$adj-m-sg	ita	minuto	$adj$adj-sup
-LR	spa	menudo	adj$adj-m$adj-itg-m-sg$adj-m-sg	ita	che	prn$$prn-itg-mf-sg$prn-mf
-LR	spa	menudo	adj-itg-m-pl$adj-itg	ita	che	prn$$prn-itg-mf-sg$prn-mf
-LR	spa	menudo	adj-f$adj-itg-f-sg	ita	che	prn$$prn-itg-mf-sg$prn-mf
-LR	spa	menudo	adj-itg-f-pl	ita	che	prn$$prn-itg-mf-sg$prn-mf
+LR	spa	menudo	adj$adj-m$adj-itg-m-sg$adj-m-sg	ita	che	prn$prn-itg-mf-sg$prn-mf
+LR	spa	menudo	adj-itg-m-pl$adj-itg	ita	che	prn$prn-itg-mf-sg$prn-mf
+LR	spa	menudo	adj-f$adj-itg-f-sg	ita	che	prn$prn-itg-mf-sg$prn-mf
+LR	spa	menudo	adj-itg-f-pl	ita	che	prn$prn-itg-mf-sg$prn-mf
 	spa	mercantil	adj-mf$adj$adj-mf-ND	ita	mercantile	$adj$adj-mf
 	spa	meridional	adj$adj-mf$adj-mf-ND	ita	meridionale	adj-mf$adj$
 LR	spa	mero	adj-m$adj-m-sg	ita	semplice	$adj-mf$adj
@@ -2098,7 +2098,7 @@ RL	spa	paternal	adj-mf$adj$adj-mf-sg	ita	paterno	adj-f
 	spa	peculiar	adj-mf$adj$adj-mf-ND	ita	peculiare	adj$$adj-mf
 	spa	peinado	adj	ita	pettinato	adj
 	spa	peligroso	adj$adj-GD-ND	ita	pericoloso	adj$$adj-sup
-LR	spa	pelirrojo	adj$adj-m-sg	ita	rosso	adj$$adj-sup
+LR	spa	pelirrojo	adj$adj-m-sg	ita	rosso	adj$adj-sup
 	spa	peludo	adj	ita	peloso	adj$
 	spa	penal	adj-mf$adj$adj-mf-sg$	ita	penale	adj$$adj-mf
 	spa	peninsular	adj$adj-mf-sg$adj-mf$	ita	peninsulare	adj$adj-mf$
@@ -2149,7 +2149,7 @@ LR	spa	poblacional	adj$adj-mf	ita	popolare	$adj$adj-mf
 LR	spa	pobre	adj-mf$adj$adj-mf-ND$	ita	povero	$adj$adj-GD
 RL	spa	pobre	adj-mf$adj$adj-mf-ND$	ita	povero	adj-m
 RL	spa	pobre	adj-mf$adj$adj-mf-ND$	ita	povero	adj-f
-	spa	poco	adj$adj-GD-ND	ita	poco	adj-m$adj
+	spa	poco	adj$adj-GD-ND	ita	poco	adj$adj-m
 	spa	poderoso	adj$adj-GD-ND	ita	poderoso	adj$$adj-sup
 	spa	polar	adj$adj-mf$adj-mf-sg	ita	polare	$adj$adj-mf
 LR	spa	policial	adj-mf$adj$adj-mf-sg	ita	poliziesco	adj-GD
@@ -2158,7 +2158,7 @@ RL	spa	policial	adj-mf$adj$adj-mf-sg	ita	poliziesco	adj-f
 	spa	político	adj$adj-GD$adj-GD-ND	ita	politico	adj$$adj-sup
 	spa	ponderado	adj$adj-m-sg	ita	ponderato	adj$$adj-sup
 	spa	popular	adj$adj-mf-ND$adj-mf	ita	popolare	$adj$adj-mf
-	spa	poquito	adj$adj-m-sg	ita	poco	adj-m$adj
+	spa	poquito	adj$adj-m-sg	ita	poco	adj$adj-m
 	spa	porcentual	adj$adj-mf-pl$adj-mf	ita	percentuale	adj$adj-mf
 RL	spa	portugués	adj-GD$adj-GD-ND	ita	portoghese	adj-mf$adj$
 LR	spa	portugués	adj-m-sg$adj-m	ita	portoghese	adj-mf$adj$
@@ -2186,7 +2186,7 @@ LR	spa	portugués	adj$adj-f$adj-f-sg	ita	portoghese	adj-mf$adj$
 	spa	prehistórico	adj$adj-m-sg	ita	preistorico	adj$$adj-sup
 	spa	preliminar	adj$adj-mf-sg$adj-mf	ita	preliminare	$adj$adj-mf
 	spa	premenstrual	adj	ita	premestruale	adj
-	spa	preocupado	adj-GD-ND$adj	ita	preoccupato	adj$adj-sup$
+	spa	preocupado	adj-GD-ND$adj	ita	preoccupato	adj$$adj-sup
 	spa	preocupante	adj$adj-mf$adj-mf-sg	ita	preoccupante	$adj$adj-mf
 	spa	preparatorio	adj$adj-GD$adj-GD-ND	ita	preparatorio	adj$
 	spa	presencial	adj$adj-mf	ita	presenziale	adj$adj-mf
@@ -2200,8 +2200,8 @@ RL	spa	presupuestario	adj-GD$adj-GD-ND	ita	di bilancio	adj-mf-sp
 	spa	previsible	adj$adj-mf$adj-mf-sg	ita	prevedibile	adj$$adj-mf
 	spa	previsto	adj$adj-m-sg	ita	previsto	adj$$adj-sup
 	spa	primario	adj$adj-GD-ND$$adj-GD	ita	primario	$adj
-LR	spa	primer	adj$adj-GD	ita	primo	$adj$adj-ord
-	spa	primero	adj$adj-GD-ND$adj-GD	ita	primo	$adj$adj-ord
+LR	spa	primer	adj$adj-GD	ita	primo	adj$adj-ord
+	spa	primero	adj$adj-GD-ND$adj-GD	ita	primo	adj$adj-ord
 	spa	primitivo	adj$adj-m-sg$	ita	primitivo	$adj
 	spa	primordial	adj$adj-mf$adj-mf-sg	ita	primordiale	adj$adj-mf$
 	spa	principal	adj-mf$adj$adj-mf-ND	ita	principale	$adj$adj-mf
@@ -2341,7 +2341,7 @@ RL	spa	resultante	adj$adj-mf$adj-mf-sg	ita	derivante	adj
 	spa	robótico	adj$adj-m-sg	ita	robotico	adj
 	spa	robótico	adj$adj-m-sg	ita	robotico	adj
 	spa	rock	adj	ita	rock	adj$adj-mf-sp
-	spa	rojo	adj$adj-GD-ND$adj-GD	ita	rosso	adj$$adj-sup
+	spa	rojo	adj$adj-GD-ND$adj-GD	ita	rosso	adj$adj-sup
 	spa	romano	adj$adj-GD-ND	ita	romano	adj$$adj-sup
 	spa	romántico	adj$adj-GD$$adj-GD-ND	ita	romantico	$adj$adj-sup
 	spa	romántico	adj$adj-GD$$adj-GD-ND	ita	romantico	$adj$adj-sup
@@ -2857,7 +2857,7 @@ RL	spa	Dr	n-m-ND	ita	Dr	n-m-sg$n-m
 	spa	TAC	n	ita	TAC	n
 	spa	TAV	n$n-acr$n-acr-m-sg	ita	Tav	n
 	spa	TTIP	n	ita	TTIP	n
-	spa	TV	n$n-acr$n-acr-f	ita	TV	n-acr-f$n-acr$n-acr-f-sg
+	spa	TV	n$n-acr$n-acr-f	ita	TV	n-acr
 	spa	Tesoro	n	ita	Tesoro	n
 	spa	UA	n$n-acr	ita	UA	n$n-acr-f
 	spa	UE	n$n-acr$n-acr-f	ita	Ue	n
@@ -2915,7 +2915,7 @@ LR	spa	aborigen	n$n-mf	ita	aborigeno	n$n-GD
 	spa	absolución	n$n-f$n-f-ND	ita	assoluzione	n-f$n
 	spa	absolutismo	n$n-m	ita	assolutismo	n$n-m
 	spa	absoluto	n	ita	assoluto	n-m$n
-	spa	absorbente	n	ita	assorbente	n-m$n
+	spa	absorbente	n	ita	assorbente	n-m$$n
 	spa	absorción	n$n-f$n-f-ND	ita	assorbimento	n-m$n
 	spa	absorción	n$n-f$n-f-ND	ita	assorbimento	n-m$n
 	spa	abstención	n$n-f$n-f-ND	ita	astensione	n$n-f
@@ -2936,7 +2936,7 @@ LR	spa	accesibilidad	n-f-pl	ita	accessibilità	n-f-sp$n-f
 RL	spa	accesibilidad	n-f-ND	ita	accessibilità	n-f-sp$n-f
 	spa	acceso	n$n-m$n-m-sg	ita	accesso	n-m$n
 	spa	accesorio	n$n-m$n-m-sg	ita	accessorio	n$n-m
-	spa	accidente	n-m$n$n-m-sg	ita	incidente	n$n-m$
+	spa	accidente	n-m$n$n-m-sg	ita	incidente	n-m$n$
 LR	spa	accidente cerebrovascular	n	ita	ictus	n$n-sp
 LR	spa	accionista	n-mf$n	ita	azionista	n-GD
 RL	spa	accionista	n-mf$n	ita	azionista	n-m$n
@@ -3185,7 +3185,7 @@ RL	spa	alerta	n-f-ND	ita	allerta	n-f-sp$n-f
 	spa	alfabeto	n-m$n$n-m-ND	ita	alfabeto	n-m$n
 	spa	alfiler	n-m$n$n-m-ND	ita	spilla	n-f
 	spa	alfombra	n-f$n$n-f-ND	ita	tappeto	n-m$n
-	spa	alga	n-f$n	ita	alga	n$n-f
+	spa	alga	n-f$n	ita	alga	n-f$n
 	spa	algodón	n-m$n$n-m-sg	ita	cotone	n-m$n
 	spa	algoritmo	n-m$n$n-m-ND	ita	algoritmo	n-m$n
 	spa	alguien	n	ita	qualcun	n
@@ -3231,7 +3231,7 @@ RL	spa	alquimista	n$n-mf	ita	alchimista	n-f
 LR	spa	altercado	n-m$n	ita	conflitto	n-m$n
 	spa	alternativa	n$n-f$n-f-ND	ita	alternativa	n-f$n
 	spa	altitud	n$n-f$n-f-ND	ita	altitudine	n-f$n
-	spa	alto	n-m$n$n-m-ND	ita	alto	n$n-GD
+	spa	alto	n-m$n$n-m-ND	ita	alto	n$n-m
 	spa	altruismo	n$n-m	ita	altruismo	n-m$n
 	spa	altruista	n$n-mf	ita	altruista	n-mf
 	spa	altura	n-f$n$n-f-sg	ita	altezza	n-f$n
@@ -3306,7 +3306,7 @@ LR	spa	ancla	n-f$n$n-f-pl	ita	ancora	n-f$n-f-sp$n
 	spa	andamio	n-m$n	ita	impalcatura	n-f
 	spa	andrajo	n$n-m	ita	brandello	n-m$n
 	spa	anemia	n$n-f	ita	anemia	n-f$n
-	spa	anestesia	n$n-f	ita	anestesia	n$n-f
+	spa	anestesia	n$n-f	ita	anestesia	n-f$n
 	spa	anexo	n$n-m$n-m-sg	ita	allegato	n-m$n$
 	spa	anfibio	n$n-m	ita	anfibio	n-m$$n
 	spa	anfiteatro	n-m$n	ita	anfiteatro	n$n-m
@@ -3321,9 +3321,9 @@ RL	spa	anglosajón	n-GD$n-GD-pl	ita	anglosassone	n-mf
 	spa	angulación	n$n-f	ita	angolazione	n-f$n
 	spa	angustia	n$n-f$n-f-ND	ita	angoscia	n-f$n
 LR	spa	anhelo	n$n-m$n-m-sg	ita	desiderio	n-m$n
-LR	spa	anhídrido	n$n-m$n-m-sg	ita	anidride	n-f-sp
-LR	spa	anhídrido	n-m-pl	ita	anidride	n-f-sp
-RL	spa	anhídrido	n-m-ND	ita	anidride	n-f-sp
+LR	spa	anhídrido	n$n-m$n-m-sg	ita	anidride	n-f-sp$n-f
+LR	spa	anhídrido	n-m-pl	ita	anidride	n-f-sp$n-f
+RL	spa	anhídrido	n-m-ND	ita	anidride	n-f-sp$n-f
 	spa	anillo	n$n-m$n-m-ND	ita	anello	n-m$n
 	spa	animación	n$n-f	ita	animazione	n$n-f
 	spa	animal	n-m$n$n-m-sg	ita	animale	n-m$n$
@@ -3615,7 +3615,7 @@ LR	spa	audiencia	n-f-sg	ita	audience	n-f-sp
 LR	spa	audiencia	n-f-pl	ita	audience	n-f-sp
 RL	spa	audiencia	n$n-f$n-f-ND	ita	audience	n-f-sp
 RL	spa	audiencia	n$n-f$n-f-ND	ita	udienza	n-f$n
-	spa	audiencia	n$n-f$n-f-ND	ita	pubblico	$n-m$n
+	spa	audiencia	n$n-f$n-f-ND	ita	pubblico	n-m$$n
 	spa	audio	n$n-m	ita	audio	n-m$n
 LR	spa	auditorio	n$n-m$n-m-sg	ita	auditorium	n-m-sp$n-m
 LR	spa	auditorio	n-m-pl	ita	auditorium	n-m-sp$n-m
@@ -3836,7 +3836,7 @@ RL	spa	belga	n$n-mf$n-mf-ND	ita	belga	n-f
 	spa	benefactor	n$n-f-pl	ita	benefattore	n$n-GD
 	spa	beneficencia	n$n-f	ita	beneficenza	n-f$n
 	spa	beneficiado	n	ita	beneficiato	n
-	spa	beneficiario	n$n-mf	ita	beneficiario	n$n-GD
+	spa	beneficiario	n$n-mf	ita	beneficiario	n$n-m
 	spa	beneficio	n-m$n$n-m-sg	ita	beneficio	n-m$n
 RL	spa	beneficio	n-m$n$n-m-sg	ita	utile	n-m$$n
 	spa	benevolencia	n	ita	benevolenza	n-f$n
@@ -4048,7 +4048,7 @@ LR	spa	bóveda	n-f$n$n-f-ND	ita	volta	n-f$n
 RL	spa	bóveda	n-f$n$n-f-ND	ita	calotta	n-f$n
 	spa	búho	n-m$n	ita	gufo	n-m$n
 	spa	búlgaro	n$n-m	ita	bulgaro	n$n-m
-LR	spa	búsqueda	n-f$n$n-f-sg	ita	ricerca	n-f$n
+LR	spa	búsqueda	n$n-f$n-f-sg	ita	ricerca	n-f$n
 	spa	caballero	n-m$n$n-m-ND	ita	cavaliere	n-m$n
 	spa	caballería	n$n-f$n-f-ND	ita	cavalleria	n-f$n
 	spa	caballo	n$n-m$n-m-sg	ita	cavallo	n-m$n
@@ -4280,7 +4280,7 @@ LR	spa	cartilla	n$n-f	ita	credito	n-m$n
 	spa	carátula	n-f$n	ita	copertina	n-f$n
 	spa	casa	n-f$n$n-f-sg	ita	casa	n-f$n
 	spa	casación	n$n-f	ita	cassazione	n-f$n
-	spa	casco	n-m$n$n-m-sg	ita	casco	n-m$n
+	spa	casco	n$n-m$n-m-sg	ita	casco	n-m$n
 	spa	casete	n-m	ita	musicassetta	n-f
 	spa	casino	n$n-m$n-m-sg	ita	casino	n-m$n
 LR	spa	caso	n-m$n$n-m-sg	ita	caso	n-m$n
@@ -4329,7 +4329,7 @@ RL	spa	cavidad	n$n-f$n-f-ND	ita	cavità	n-f-sp$n-f
 LR	spa	cavidad	n-f-sg	ita	cavità	n-f-sp$n-f
 LR	spa	cavidad	n-f-pl	ita	cavità	n-f-sp$n-f
 	spa	caza	n$n-f$n-f-ND	ita	caccia	n-f$n
-	spa	cazador	n$n-m$n-m-sg	ita	cacciatore	n$n-m
+	spa	cazador	n$n-m$n-m-sg	ita	cacciatore	n-m$n
 	spa	caída	n$n-f$n-f-sg	ita	caduta	n-f$n
 	spa	caña	n-f$n$n-f-ND	ita	canna	n-f$n
 	spa	cañón	n-m$n$n-m-ND	ita	cannone	n$n-m
@@ -4403,7 +4403,7 @@ RL	spa	cerebro	n-m-pl	ita	cervello	n-m-pl
 	spa	cereza	n$n-f$n-f-sg	ita	ciliegia	n-f$n
 	spa	cerezo	n-m$n	ita	ciliegio	n$n-m
 	spa	cerilla	n-f$n	ita	fiammifero	n-m
-	spa	cero	n-m$n$n-m-sg	ita	zero	n-m$n$
+	spa	cero	n-m$n$n-m-sg	ita	zero	n-m$$n
 	spa	cerradura	n$n-f$n-f-ND	ita	serratura	n-f$n
 	spa	cerro	n-m$n$n-m-ND	ita	collina	n-f$n
 	spa	certeza	n$n-f$n-f-ND	ita	certezza	n-f$n
@@ -4431,7 +4431,7 @@ RL	spa	champú	n-m-ND	ita	shampoo	n-m-sp$n-m$n
 LR	spa	chamán	n$n-m$n-m-sg	ita	sciamano	n-m$n-m-sg
 LR	spa	chamán	n-m-pl	ita	sciamano	n-f-pl
 RL	spa	chamán	n-m-ND	ita	sciamano	n-GD-ND
-	spa	chaqueta	n$n-f$n-f-sg	ita	giacca	n$n-f
+	spa	chaqueta	n$n-f$n-f-sg	ita	giacca	n-f$n
 	spa	charco	n-m$n$n-m-ND	ita	pozzanghera	n-f
 LR	spa	charla	n-f$n$n-f-ND	ita	conferenza	n-f$n
 RL	spa	charla	n-f$n$n-f-ND	ita	ciarla	n-f$n
@@ -4449,7 +4449,7 @@ RL	spa	chef	n-mf-ND	ita	chef	n-m-sp
 	spa	cheque	n$n-m	ita	assegno	n-m$n
 	spa	chichón	n$n-m	ita	bernoccolo	n-m$n
 	spa	chicle	n$n-m$n-m-sg	ita	gomma	n-f$n
-	spa	chico	n$n-m$n-m-sg	ita	ragazzo	n$n-m$n-m-sg
+	spa	chico	n$n-m$n-m-sg	ita	ragazzo	n-m$n$n-m-sg
 	spa	chileno	n$n-GD	ita	cileno	n$n-GD
 	spa	chimenea	n$n-f$n-f-ND	ita	camino	n-m$n
 LR	spa	chimpancé	n$n-mf$n-mf-sg	ita	scimpanzè	n-mf-sp
@@ -4482,8 +4482,8 @@ RL	spa	ciclista	n$n-mf$n-mf-ND	ita	ciclista	n-f
 	spa	ciclón	n$n-m$n-m-sg	ita	ciclone	n-m$n
 	spa	ciego	n$n-m	ita	cieco	n$n-m
 	spa	cielo	n-m$n$n-m-sg	ita	cielo	n-m$n
-	spa	ciencia	n-f$n$n-f-sg	ita	scienza	n-f$n
-	spa	ciencia ficción	n$n-f	ita	fantascienza	n-f$n
+	spa	ciencia	n$n-f$n-f-sg	ita	scienza	n-f$n
+	spa	ciencia ficción	n-f$n	ita	fantascienza	n-f$n
 LR	spa	ciencia informática	n	ita	informatica	n-f$n
 LR	spa	cientifidad	n-f-sg	ita	scientificità	n-f-sp
 LR	spa	cientifidad	n-f-pl	ita	scientificità	n-f-sp
@@ -4658,7 +4658,7 @@ RL	spa	colocación	n$n-f$n-f-sg	ita	sistemazione	n-f$n
 	spa	colono	n$n-mf	ita	colono	n-m$n
 	spa	color	n-m$n$n-m-sg	ita	colore	n-m$n
 	spa	coloración	n$n-f	ita	colorazione	n-f$n
-	spa	colorante	n	ita	colorante	n-m$n
+	spa	colorante	n	ita	colorante	n-m$$n
 	spa	columna	n$n-f$n-f-ND	ita	colonna	n-f$n
 	spa	columpio	n$n-m	ita	altalena	n-f
 	spa	coma	n-f$n-f-sg	ita	virgola	n-f
@@ -5103,9 +5103,9 @@ RL	spa	crepe	n-f-ND	ita	crêpe	n-f-sp$n-f
 	spa	criatura	n-f$n$n-f-ND	ita	creatura	n-f$n
 	spa	cricket	n$n-m	ita	cricket	n-m$n
 	spa	crimen	n-m$n$n-m-sg	ita	crimine	n-m$n
-LR	spa	criminalidad	n$n-f$n-f-sg	ita	criminalità	n-f-sp$n-f
-LR	spa	criminalidad	n-f-pl	ita	criminalità	n-f-sp$n-f
-RL	spa	criminalidad	n-f-ND	ita	criminalità	n-f-sp$n-f
+LR	spa	criminalidad	n$n-f$n-f-sg	ita	criminalità	n-f$n-f-sp
+LR	spa	criminalidad	n-f-pl	ita	criminalità	n-f$n-f-sp
+RL	spa	criminalidad	n-f-ND	ita	criminalità	n-f$n-f-sp
 	spa	criminología	n$n-f	ita	criminologia	n$n-f
 	spa	criptografía	n$n-f	ita	crittografia	n-f$n
 	spa	crisis	n-f-sp$n-f$n	ita	crisi	n-f$n$n-f-sp
@@ -5271,7 +5271,7 @@ RL	spa	cónsul	n$n-mf-ND$n-mf	ita	console	n-GD-ND
 	spa	cúmulo	n$n-m	ita	ammasso	n-m$n
 	spa	cúpula	n$n-f$n-f-ND	ita	cupola	n-f$n
 	spa	abril	n$n-m$n-m-sg	ita	aprile	n$n-m
-	spa	da	n	ita	da	n
+	spa	da	n	ita	da	n$n-m
 	spa	dado	n-m$n	ita	dado	n-m$n
 	spa	dama	n$n-f$n-f-ND	ita	dama	n-f$n
 	spa	danza	n$n-f$n-f-sg	ita	danza	n-f$n
@@ -5311,8 +5311,8 @@ LR	spa	dedo	n-m$n$n-m-sg	ita	dito	n-m-sg$n-m$n
 LR	spa	dedo	n-m-pl	ita	dito	n-f-pl
 RL	spa	dedo	n-m$n$n-m-sg	ita	dito	n-m-sg$n-m$n
 RL	spa	dedo	n-m-pl	ita	dito	n-f-pl
-LR	spa	dedo corazón		ita	dito medio	n-m$n
-	spa	dedo medio		ita	dito medio	n-m$n
+LR	spa	dedo corazón		ita	dito medio	n$n-m
+	spa	dedo medio		ita	dito medio	n$n-m
 	spa	dedo meñique		ita	dito mignolo	n$n-m
 LR	spa	dedo pequeño	n$n-m	ita	dito mignolo	n$n-m
 	spa	dedo índice		ita	dito indice	n-m$n
@@ -5538,7 +5538,7 @@ RL	spa	detective	n-mf$n$n-mf-ND	ita	investigatore	n-f
 LR	spa	detector	n-m$n-m-pl	ita	rivelatore	n$n-m
 LR	spa	detector	n-f$n-f-pl	ita	rivelatore	n$n-m
 RL	spa	detector	n$n-GD$n-GD-pl	ita	rivelatore	n$n-m
-	spa	detención	n$n-f$n-f-sg	ita	detenzione	n$n-f$n-f-m
+	spa	detención	n$n-f$n-f-sg	ita	detenzione	n-f$n$n-f-m
 	spa	detergente	n$n-m	ita	detergente	n-m$n$
 	spa	deterioro	n-m$n$n-m-sg	ita	deterioramento	n-m$n
 	spa	determinación	n$n-f$n-f-sg	ita	determinazione	n-f$n
@@ -5607,15 +5607,15 @@ LR	spa	dificultad	n-f-pl	ita	difficoltà	n-f$n-f-sp
 	spa	dinamismo	n$n-m	ita	dinamismo	n$n-m
 	spa	dinamita	n$n-f$n-f-sg	ita	dinamite	n-f$n
 	spa	dinastía	n$n-f$n-f-sg	ita	dinastia	n-f$n
-	spa	dinero	n-m-sg$n-m$n	ita	soldi	n-m$n-m-pl
-	spa	dinero	n-m-sg$n-m$n	ita	denaro	n-m$n
+	spa	dinero	n-m-sg$n$n-m	ita	soldi	n-m$n-m-pl
+	spa	dinero	n-m-sg$n$n-m	ita	denaro	n-m$n
 	spa	dinosaurio	n$n-m$n-m-ND	ita	dinosauro	n-m$n
 LR	spa	dios	n$n-m$n-m-ND	ita	dio	n-m$n
 LR	spa	dios	n-f$n-f-ND	ita	dio	n-m$n
 RL	spa	dios	n-GD	ita	dio	n-m$n
 	spa	diploma	n$n-m$n-m-sg	ita	diploma	n-m$n
 	spa	diplomacia	n$n-f$n-f-sg	ita	diplomazia	n-f$n
-LR	spa	diplomado	n$n-m	ita	laureato	n$$n-GD
+LR	spa	diplomado	n$n-m	ita	laureato	n$n-m$
 	spa	diplomático	n$n-m$n-m-ND	ita	diplomatico	n$n-m
 	spa	diputado	n$n-GD	ita	deputato	n$n-m
 	spa	dique	n-m$n	ita	diga	n-f$n
@@ -5624,7 +5624,7 @@ RL	spa	dirección	n$n-f$n-f-sg	ita	direzione	n-f$n
 	spa	Dirección General	n	ita	Direzione Generale	n
 	spa	dirección nacional	n	ita	direzione nazionale	n-f$n
 	spa	directiva	n$n-f	ita	direttiva	n-f$n
-	spa	director	n$n-m$n-m-sg	ita	direttore	n$n-GD
+	spa	director	n$n-m$n-m-sg	ita	direttore	n$n-m
 LR	spa	irector	n-mf	ita	regista	n-m$n$n-mf-m
 LR	spa	irector	n-mf	ita	regista	n-f
 LR	spa	irector	n-mf	ita	regista	n-GD
@@ -5736,7 +5736,7 @@ LR	spa	divinidad	n-f-pl	ita	divinità	n-f-sp$n-f
 	spa	documental	n$n-m$n-m-ND	ita	documentario	n-m$n$
 	spa	documento	n$n-m$n-m-sg	ita	documento	n-m$n
 	spa	dogma	n$n-m	ita	dogma	n-m$n
-	spa	dolor	n-m$n$n-m-ND	ita	dolore	n-f$n
+	spa	dolor	n-m$n$n-m-ND	ita	dolore	n-m$n
 	spa	domesticación	n$n-f	ita	domesticazione	n$n-f
 	spa	domicilio	n$n-m$n-m-sg	ita	domicilio	n-m$n
 	spa	dominación	n$n-f$n-f-sg	ita	dominazione	n$n-f
@@ -5837,7 +5837,7 @@ RL	spa	economista	n$n-mf$n-mf-ND	ita	economista	n-f
 	spa	ecuador	n-m$n$n-m-sg	ita	equatore	n-m$n
 	spa	ecuatoriano	n	ita	ecuadoriano	n$n-GD
 RL	spa	edad	n-f-ND	ita	età	n-f-sp$n-f
-LR	spa	edad	n-f$n$n-f-sg	ita	età	n-f-sp$n-f
+LR	spa	edad	n$n-f$n-f-sg	ita	età	n-f-sp$n-f
 LR	spa	edad	n-f-pl	ita	età	n-f-sp$n-f
 	spa	edema	n$n-m	ita	edema	n$n-m
 	spa	edición	n$n-f$n-f-sg	ita	edizione	n-f$n
@@ -5931,7 +5931,7 @@ RL	spa	elevador	n-GD	ita	elevatore	n-m
 	spa	empeño	n-m$n$n-m-sg	ita	impegno	n-m$n
 	spa	emplazamiento	n$n-m	ita	postazione	n-f
 	spa	empleado	n$n-m$n-m-sg	ita	impiegato	n$n-m
-	spa	empleador	n	ita	datore	n$n-m
+	spa	empleador	n	ita	datore	n-m$n
 	spa	empleo	n-m$n$n-m-ND	ita	impiego	n-m$n
 LR	spa	empoderamiento	n$n-m	ita	responsabilizzazione	n-f
 	spa	empollón	n	ita	secchione	n$n-mf
@@ -5940,7 +5940,7 @@ LR	spa	empoderamiento	n$n-m	ita	responsabilizzazione	n-f
 	spa	empresario	n$n-m$n-m-sg	ita	imprenditore	n$n-m
 	spa	emt	n	ita	emt	n
 	spa	emulación	n-f$n	ita	emulazione	n$n-f
-	spa	en efectivo	n	ita	in contanti	$n
+	spa	en efectivo	n	ita	in contanti	n
 	spa	en línea	n	ita	online	n
 LR	spa	enajenación	n$n-f	ita	trasferimento	n-m$n
 	spa	enamorado	n$n-m	ita	innamorato	n$$n-GD
@@ -5974,7 +5974,7 @@ LR	spa	enero	n-m-pl	ita	gennaio	n-m-sg$n-m$n
 	spa	enfatización	n$n-f	ita	enfatizzazione	n-f$n
 	spa	enfermedad	n$n-f$n-f-sg	ita	malattia	n$n-f
 	spa	enfermedad	n$n-f$n-f-sg	ita	malattia	n$n-f
-	spa	enfermero	n$n-GD	ita	infermiere	n$n-GD
+	spa	enfermero	n$n-GD	ita	infermiere	n$n-m
 	spa	enfermo	n$n-GD	ita	malato	n$n-mf
 RL	spa	enfermo	n$n-GD	ita	ammalato	n$n-m
 	spa	enfermo	n$n-GD	ita	malato	n$n-mf
@@ -6056,7 +6056,7 @@ RL	spa	equipo	n-m-ND	ita	team	n-m$n-m-sp
 	spa	error	n-m$n$n-m-sg	ita	errore	n-m$n
 	spa	erudición	n$n-f	ita	erudizione	n-f$n
 	spa	erudición	n$n-f	ita	erudizione	n-f$n
-LR	spa	erudito	n$n-GD	ita	studioso	n$n-m
+LR	spa	erudito	n$n-GD	ita	studioso	n-m$n
 	spa	erudito	n$n-GD	ita	erudito	n$n-GD
 	spa	erupción	n$n-f$n-f-sg	ita	eruzione	n-f$n
 RL	spa	esbozo	n$n-m$n-m-sg	ita	abbozzo	n-m$n
@@ -6266,7 +6266,7 @@ RL	spa	estudiante	n-mf$n$n-mf-ND	ita	studente	n-m$n
 RL	spa	estudiante	n-mf$n$n-mf-ND	ita	studente	n-f
 LR	spa	estudiante	n-mf$n$n-mf-ND	ita	studente	n-GD
 	spa	estudio	n-m$n$n-m-sg	ita	studio	n-m$n
-	spa	estudioso	n	ita	studioso	n$n-m
+	spa	estudioso	n	ita	studioso	n-m$n
 	spa	estufa	n$n-f	ita	stufa	n-f$n
 	spa	estupor	n$n-m	ita	stupore	n-m$n
 	spa	estándar	n$n-m$n-m-ND	ita	standard	n-m$n$
@@ -6367,7 +6367,7 @@ RL	spa	exigüidad	n-f-ND	ita	esiguità	n-f-sp
 LR	spa	expediente	n-m-sg	ita	dossier	n-m-sp$n-m
 LR	spa	expediente	n-m-pl	ita	dossier	n-m-sp$n-m
 RL	spa	expediente	n$n-m$n-m-ND	ita	dossier	n-m-sp$n-m
-	spa	expensas	n	ita	spese	n$n-f
+	spa	expensas	n	ita	spese	n-f$n
 	spa	experiencia	n-f$n$n-f-sg	ita	esperienza	n-f$n
 	spa	experimentación	n$n-f$n-f-ND	ita	sperimentazione	n-f$n
 	spa	experimento	n-m$n$n-m-sg	ita	esperimento	n-m$n
@@ -6458,7 +6458,7 @@ LR	spa	falsedad	n-f-pl	ita	falsità	n-f$n-f-sp
 	spa	falso	n$n-m	ita	falso	n-m$n
 	spa	falta	n$n-f$n-f-ND	ita	mancanza	n-f$n
 	spa	fama	n$n-f$n-f-ND	ita	fama	n-f$n
-	spa	familia	n-f$n$n-f-sg	ita	famiglia	n-f$n
+	spa	familia	n$n-f$n-f-sg	ita	famiglia	n-f$n
 	spa	familiar	n$n-m-ND	ita	familiare	n-mf$n
 RL	spa	familiaridad	n$n-f$n-f-ND	ita	familiarità	n-f$n-f-sp
 LR	spa	familiaridad	n-f-sg	ita	familiarità	n-f$n-f-sp
@@ -6573,7 +6573,7 @@ LR	spa	film	n-m-pl	ita	film	n-m$n-m-sp$n
 LR	spa	fin de semana	n-m$n-m-sg	ita	weekend	n-m-sp$n-m
 LR	spa	fin de semana	n-m-pl	ita	weekend	n-m-sp$n-m
 RL	spa	fin de semana	n-m-ND	ita	weekend	n-m-sp$n-m
-RL	spa	fin de semana	n-m-ND	ita	fine settimana	n-m$n-m-ND
+RL	spa	fin de semana	n-m-ND	ita	fine settimana	n-m-ND
 	spa	final	n-m$n$n-m-ND	ita	finale	$n-f$n
 	spa	final	n-m$n$n-m-ND	ita	finale	$n-f$n
 LR	spa	finalidad	n$n-f$n-f-sg	ita	finalità	n-f-sp$n-f
@@ -6739,7 +6739,7 @@ RL	spa	friki	n-mf-ND	ita	geek	n-mf-sp$n-mf
 	spa	fruición	n	ita	fruizione	n-f$n
 	spa	frustración	n$n-f$n-f-ND	ita	frustrazione	n-f$n
 	spa	fruta	n$n-f$n-f-sg	ita	frutta	n-f$n$n-f-sg
-	spa	fruto	n$n-m$n-m-ND	ita	frutto	n-m$n
+	spa	fruto	n$n-m$n-m-sg	ita	frutto	n-m$n
 	spa	frío	n-m$n$n-m-sg	ita	freddo	n-m$n
 	spa	ftalato	n	ita	ftalato	n
 	spa	fuego	n$n-m$n-m-sg	ita	fuoco	n-m$n$n-m-ND
@@ -6795,7 +6795,7 @@ LR	spa	fútbol	n-m-sg$n$n-m	ita	calcio	n-m$n-m-sg$n
 	spa	gabinete	n$n-m$n-m-sg	ita	gabinetto	n-m$n
 	spa	gafa	n$n-f$$n-f-pl	ita	occhiale	n-m
 	spa	gafas	n$n-f$n-f-pl	ita	occhiali	n-m$n-m-pl
-	spa	gafas de sol	n-f-pl	ita	occhiali da sole	n-m$n-m-pl
+	spa	gafas de sol	n-f-pl	ita	occhiali da sole	n-m-pl
 	spa	galaxia	n$n-f$n-f-ND	ita	galassia	n-f$n
 	spa	galería	n$n-f$n-f-ND	ita	galleria	n-f$n
 	spa	galería	n$n-f$n-f-ND	ita	galleria	n-f$n
@@ -6887,20 +6887,20 @@ LR	spa	genialidad	n-f-pl	ita	genialità	n-f-sp$n-f
 	spa	geopolítica	n	ita	geopolitica	n
 	spa	geranio	n$n-m	ita	geranio	n$n-m
 	spa	gerencia	n$n-f	ita	dirigenza	n-f$n
-RL	spa	gerente	n-mf$n	ita	direttore	n-m
+RL	spa	gerente	n-mf$n	ita	direttore	n$n-m
 RL	spa	gerente	n-mf$n	ita	direttore	n-f
-LR	spa	gerente	n-mf$n	ita	direttore	n$n-GD
+LR	spa	gerente	n-mf$n	ita	direttore	n-GD
 LR	spa	gerente	n-mf$n	ita	dirigente	n$n-mf$
 	spa	germanización	n$n-f	ita	germanizzazione	n-f$n
 	spa	germen	n$n-m	ita	germe	n-m$n
 	spa	germinación	n$n-f	ita	germinazione	n-f$n
 	spa	gestación	n$n-f$n-f-ND	ita	gestazione	n$n-f
-RL	spa	gestión	n-f$n$n-f-sg	ita	management	n-m
-	spa	gestión	n-f$n$n-f-sg	ita	gestione	n-f$n
+RL	spa	gestión	n$n-f$n-f-sg	ita	management	n-m
+	spa	gestión	n$n-f$n-f-sg	ita	gestione	n-f$n
 	spa	gesto	n$n-m$n-m-ND	ita	gesto	n-m$n
-LR	spa	gigante	n-m$n$n-m-sg	ita	gigante	n-mf$n$
-LR	spa	gigante	n-f$n-f-sg	ita	gigante	n-mf$n$
-RL	spa	gigante	n-GD$n-GD-ND	ita	gigante	n-mf$n$
+LR	spa	gigante	n-m$n$n-m-sg	ita	gigante	n-mf
+LR	spa	gigante	n-f$n-f-sg	ita	gigante	n-mf
+RL	spa	gigante	n-GD$n-GD-ND	ita	gigante	n-mf
 	spa	gimnasia	n$n-f$n-f-sg	ita	ginnastica	n-f$n
 	spa	gimnasio	n-m$n$n-m-sg	ita	palestra	n-f
 	spa	gimnasta	n$n-mf	ita	ginnasta	n$n-GD
@@ -6972,7 +6972,7 @@ RL	spa	gorila	n-ND	ita	gorilla	n-sp
 	spa	gradación	n$n-f	ita	gradazione	n-f$n
 	spa	grado	n$n-m$n-m-sg	ita	grado	n-m$n
 	spa	graduación	n-f$n	ita	graduazione	n$n-f
-LR	spa	graduado	n$n-m-sg	ita	laureato	n$$n-GD
+LR	spa	graduado	n$n-m-sg	ita	laureato	n$n-m$
 LR	spa	graffiti	n$n-m-sg	ita	graffiti	n-m-sp
 LR	spa	graffiti	n-m-pl	ita	graffiti	n-m-sp
 RL	spa	graffiti	n-m-ND	ita	graffiti	n-m-sp
@@ -6989,7 +6989,7 @@ RL	spa	graffiti	n-m-ND	ita	graffiti	n-m-sp
 	spa	granjero	n$n-GD	ita	contadino	n-f$$n
 	spa	grano	n-m$n$n-m-ND	ita	grano	n$n-m
 	spa	grano	n-m$n$n-m-ND	ita	granello	n-m$n
-	spa	grasa	n-f$n$n-f-ND	ita	grasso	n-m$n
+	spa	grasa	n-f$n$n-f-ND	ita	grasso	n-m$$n
 	spa	gratificación	n$n-f	ita	gratificazione	n$n-f
 	spa	gratitud	n$n-f$n-f-sg	ita	gratitudine	n$n-f
 LR	spa	gratuidad	n$n-f$n-f-sg	ita	gratuità	n-f-sp$n-f
@@ -7074,7 +7074,7 @@ LR	spa	habitabilidad	n-f-pl	ita	abitabilità	n-f-sp$n-f
 RL	spa	habitabilidad	n-f-ND	ita	abitabilità	n-f-sp$n-f
 	spa	habitación	n$n-f$n-f-sg	ita	stanza	n-f$n
 RL	spa	habitación	n$n-f$n-f-sg	ita	abitazione	n-f$n
-	spa	habitante	n-mf$n$n-mf-ND	ita	abitante	n$n-mf
+	spa	habitante	n-mf$n$n-mf-ND	ita	abitante	n-mf$n
 RL	spa	habitante	n-mf$n$n-mf-ND	ita	abitatore	n-m$n
 RL	spa	habitante	n-mf$n$n-mf-ND	ita	abitatore	n-f
 	spa	habitual	n	ita	abituale	n
@@ -7109,7 +7109,7 @@ LR	spa	hardware	n$n-m$n-m-sg	ita	hardware	n-m-sp$n-m
 LR	spa	hardware	n-m-pl	ita	hardware	n-m-sp$n-m
 RL	spa	hardware	n-m-ND	ita	hardware	n-m-sp$n-m
 	spa	harem	n-m$n	ita	harem	n-m$n
-	spa	harina	n$n-f	ita	farina	n$n-f
+	spa	harina	n$n-f$n-f-sg	ita	farina	n$n-f
 	spa	haz	n$n-m	ita	fascio	n-m$n
 LR	spa	hebra	n-f$n	ita	filo	n-m$n$n-f-m
 LR	spa	hebreo	n$n-GD	ita	ebreo	n$n-GD
@@ -7169,7 +7169,7 @@ RL	spa	hibridación	n$n-f	ita	ibridazione	n-f$n
 	spa	hidróxido	n$n-m	ita	idrossido	n$n-m
 	spa	hielo	n$n-m$n-m-ND	ita	ghiaccio	n$n-m
 	spa	hiena	n$n-f	ita	iena	n$n-f
-	spa	hierba	n-f$n$n-f-ND	ita	erba	n-f$n
+	spa	hierba	n-f$n$n-f-sg	ita	erba	n-f$n
 	spa	hierro	n$n-m$n-m-sg	ita	ferro	n-m$n
 	spa	higiene	n$n-f$n-f-sg	ita	igiene	n-f$n
 	spa	higo	n-m$n$n-m-ND	ita	fico	n-m$$n
@@ -7229,7 +7229,7 @@ RL	spa	holandés	n-GD$n-GD-ND	ita	olandese	n-mf$$n
 	spa	hombro	n-m$n$n-m-ND	ita	spalla	n-f
 	spa	homenaje	n$n-m$n-m-sg	ita	omaggio	n-m$n$
 	spa	homeopatía	n$n-f	ita	omeopatia	n$n-f
-	spa	homicidio	n-m$n	ita	omicidio	n$n-m
+	spa	homicidio	n-m$n	ita	omicidio	n-m$n
 LR	spa	homo	n-m-sg	ita	homo	n-m-sp$n
 LR	spa	homo	n-m-pl	ita	homo	n-m-sp$n
 RL	spa	homo	n-m-ND	ita	homo	n-m-sp$n
@@ -7238,7 +7238,7 @@ LR	spa	homogeneidad	n$n-f$n-f-sg	ita	omogeneità	n-f-sp$n-f
 LR	spa	homogeneidad	n-f-pl	ita	omogeneità	n-f-sp$n-f
 RL	spa	homogeneidad	n-f-ND	ita	omogeneità	n-f-sp$n-f
 	spa	homologación	n$n-f	ita	omologazione	n$n-f
-	spa	homosexual	n$n-mf$n-mf-ND	ita	omosessuale	n$$n-m
+	spa	homosexual	n$n-mf$n-mf-ND	ita	omosessuale	n$n-m$
 RL	spa	homosexualidad	n-f-ND	ita	omosessualità	n-f-sp$n$n-f
 LR	spa	homosexualidad	n-f$n$n-f-sg	ita	omosessualità	n-f-sp$n$n-f
 LR	spa	homosexualidad	n-f-pl	ita	omosessualità	n-f-sp$n$n-f
@@ -7421,7 +7421,7 @@ RL	spa	incapacidad	n$n-f$n-f-ND	ita	incapacità	n-f-sp$n-f
 	spa	incentivo	n$n-m$n-m-ND	ita	incentivo	n-m$n
 	spa	incertidumbre	n$n-f$n-f-ND	ita	incertezza	n-f$n
 	spa	incidencia	n$n-f$n-f-sg	ita	incidenza	n$n-f
-LR	spa	incidente	n$n-m$n-m-sg	ita	incidente	n$n-m$
+LR	spa	incidente	n$n-m$n-m-sg	ita	incidente	n-m$n$
 	spa	incineración	n$n-f$n-f-ND	ita	incenerimento	n-m
 	spa	incitación	n$n-f	ita	incitamento	n-m
 	spa	inclinación	n-f$n$n-f-ND	ita	inclinazione	n-f$n
@@ -7723,7 +7723,7 @@ RL	spa	islamista	n$n-mf	ita	islamista	n-f
 	spa	jacinto	n$n-m	ita	giacinto	n-m$n
 	spa	jade	n-m$n	ita	giada	n-f
 	spa	jaguar	n$n-m	ita	giaguaro	n-m$n
-LR	spa	jalea	n-f$n	ita	gelatina	n$n-f
+LR	spa	jalea	n$n-f	ita	gelatina	n$n-f
 	spa	jalón	n$n-m	ita	pietra	n-f$n
 	spa	jamaicano	n$n-GD	ita	giamaicano	n$n-GD$
 	spa	jamón	n$n-m$n-m-ND	ita	prosciutto	n-m$n
@@ -7766,9 +7766,9 @@ LR	spa	jubilación	n$n-f$n-f-ND	ita	pensione	n-f$n
 	spa	judío	n$n-f	ita	ebreo	n$n-GD
 	spa	juego	n-m$n$n-m-sg	ita	gioco	n-m$n
 	spa	jueves	n-m-sp$n$n-m	ita	giovedì	n-m-sp$n$n-m
-LR	spa	juez	n$n-m$n-m-ND	ita	giudice	n-mf$n
-LR	spa	juez	n-f	ita	giudice	n-mf$n
-RL	spa	juez	n-GD	ita	giudice	n-mf$n
+LR	spa	juez	n$n-m$n-m-ND	ita	giudice	n-mf
+LR	spa	juez	n-f	ita	giudice	n-mf
+RL	spa	juez	n-GD	ita	giudice	n-mf
 	spa	jugador	n$n-m$n-m-pl	ita	giocatore	n$n-m
 	spa	jugo	n$n-m$n-m-ND	ita	succo	n-m$n
 	spa	juguete	n-m$n$n-m-ND	ita	giocattolo	n-m$n
@@ -7943,9 +7943,9 @@ LR	spa	libertad	n-f-pl	ita	libertà	n-f$n-f-sp
 	spa	libélula	n-f$n	ita	libellula	n$n-f
 	spa	licencia	n$n-f$n-f-sg	ita	licenza	n-f$n
 	spa	licencia	n$n-f$n-f-sg	ita	patente	n-f$n
-	spa	licenciado	n$n-m$n-m-sg	ita	laureato	n$$n-GD
+	spa	licenciado	n$n-m$n-m-sg	ita	laureato	n$n-m$
 	spa	licenciatura	n$n-f$n-f-sg	ita	laurea	n-f$n
-	spa	licor	n-m$n$n-m-sg	ita	liquore	n-m$n
+	spa	licor	n$n-m$n-m-sg	ita	liquore	n-m$n
 	spa	licuación	n	ita	liquefazione	n-f$n
 RL	spa	liderazgo	n-m-ND	ita	leadership	n-f-sp
 LR	spa	liderazgo	n$n-m$n-m-sg	ita	leadership	n-f-sp
@@ -8052,7 +8052,7 @@ RL	spa	líder	n-ND	ita	leader	n-sp
 	spa	línea	n-f$n$n-f-sg	ita	linea	n-f$n
 RL	spa	línea	n-f$n$n-f-sg	ita	riga	n-f$n
 	spa	lío	n-m$n$n-m-ND	ita	imbroglio	n-m$n
-	spa	líquido	n-m$n$n-m-sg	ita	liquido	n-m$n
+	spa	líquido	n-m$n$n-m-sg	ita	liquido	n-m$$n
 	spa	lóbulo	n$n-m	ita	lobo	n$n-m
 	spa	lógica	n$n-f$n-f-ND	ita	logica	n-f$n
 	spa	macarrón	n$n-m	ita	maccherone	n-m$n
@@ -8093,7 +8093,7 @@ RL	spa	magrebí	n-mf$n	ita	magrebino	n-f
 LR	spa	mail	n$n-m$n-m-sg	ita	mail	n-f-sp$n-f
 LR	spa	mail	n-m-pl	ita	mail	n-f-sp$n-f
 RL	spa	mail	n-m-ND	ita	mail	n-f-sp$n-f
-	spa	mal	n$n-m$n-m-ND	ita	male	n-m$n
+	spa	mal	n-m$n$n-m-ND	ita	male	n-m$n
 	spa	malagueño	n	ita	malagueño	n
 	spa	malaria	n$n-f$n-f-sg	ita	malaria	n-f$n
 	spa	maldad	n$n-f$n-f-ND	ita	cattiveria	n-f$n
@@ -8152,7 +8152,7 @@ RL	spa	mantra	n-ND	ita	mantra	n-sp
 	spa	manufactura	n$n-f	ita	fabbricazione	n-f$n
 	spa	manufacturero	n	ita	fabbricatore	n
 	spa	manuscrito	n$n-m$n-m-sg	ita	manoscritto	n-m$n$
-	spa	manzana	n$n-f$n-f-ND	ita	mela	n$n-f
+	spa	manzana	n$n-f$n-f-ND	ita	mela	n-f$n
 	spa	manzanilla	n$n-f	ita	camomilla	n$n-f
 RL	spa	mapa	n-m$n$n-m-sg	ita	cartina	n-f
 	spa	mapa	n-m$n$n-m-sg	ita	mappa	n-f$n
@@ -8212,7 +8212,7 @@ LR	spa	marzo	n-m-pl	ita	marzo	n-m$n-m-sg$n
 	spa	matanza	n$n-f$n-f-ND	ita	macellazione	n$n-f
 	spa	matemática	n-f$n$n-f-ND	ita	matematica	n-f$n
 	spa	materia	n$n-f$n-f-sg	ita	materia	n-f$n
-	spa	material	n$n-m$n-m-sg	ita	materiale	n-m$n
+	spa	material	n$n-m$n-m-sg	ita	materiale	n-m$$n
 	spa	material	n$n-m$n-m-sg	ita	materia	n-f$n
 	spa	materialismo	n$n-m	ita	materialismo	n-m$n
 	spa	materialización	n$n-f$n-f-sg	ita	materializzazione	n$n-f
@@ -8247,7 +8247,7 @@ RL	spa	mañana	n-f-ND	ita	domani	n-m-sp$n-m
 	spa	mechero	n$n-m	ita	accendino	n$n-m
 	spa	mecánica	n-f$n$n-f-ND	ita	meccanica	n-f$n
 	spa	mecánico	n$n-m$n-m-ND	ita	meccanico	n$n-m
-	spa	medalla	n$n-f$n-f-ND	ita	medaglia	n$n-f
+	spa	medalla	n$n-f$n-f-ND	ita	medaglia	n-f$n
 	spa	media	n-f$n$n-f-ND	ita	calza	n-f$n
 	spa	mediación	n$n-f$n-f-sg	ita	mediazione	n-f$n
 	spa	medianoche	n-f$n$n-f-ND	ita	mezzanotte	n$n-f
@@ -8358,7 +8358,7 @@ LR	spa	microonda	n-f-pl	ita	microonde	n-m-sp$n-m
 RL	spa	microonda	n-f-ND	ita	microonde	n-m-sp$n-m
 	spa	microscopio	n$n-m	ita	microscopio	n-m$n
 	spa	micrófono	n$n-m$n-m-ND	ita	microfono	n$n-m
-	spa	miedo	n-m$n$n-m-ND	ita	paura	n-f$n
+	spa	miedo	n-m$n$n-m-ND	ita	paura	n-f$n$
 	spa	miel	n-f$n$n-f-ND	ita	miele	n-m
 	spa	miembro	n-mf$n$n-mf-ND	ita	membro	n-mf
 	spa	mierda	n-f$n$n-f-ND	ita	merda	n-f$n
@@ -8453,7 +8453,7 @@ RL	spa	modificación	n$n-f-sg$n-f	ita	modifica	n-f$n
 	spa	momia	n$n-f	ita	mummia	n-f$n
 	spa	momificación	n$n-f	ita	mummificazione	n$n-f
 	spa	monarca	n$n-mf$n-mf-ND	ita	monarca	n-mf$n
-	spa	monarquía	n$n-f$n-f-sg	ita	monarchia	n$n-f
+	spa	monarquía	n$n-f$n-f-sg	ita	monarchia	n-f$n
 	spa	monasterio	n-m$n$n-m-ND	ita	monastero	n-m$n
 	spa	moneda	n$n-f$n-f-sg	ita	moneta	n-f$n
 	spa	moneda	n$n-f$n-f-sg	ita	moneta	n-f$n
@@ -8464,7 +8464,7 @@ RL	spa	modificación	n$n-f-sg$n-f	ita	modifica	n-f$n
 	spa	monopolio	n$n-m	ita	monopolio	n-m$n
 	spa	monstruo	n$n-m$n-m-ND	ita	mostro	n-m$n
 	spa	montaje	n$n-m$n-m-ND	ita	montaggio	n-m$n
-RL	spa	montante	n$n-m	ita	ammontare	n-m$n$
+RL	spa	montante	n$n-m	ita	ammontare	n-m$$n
 LR	spa	montante	n$n-m	ita	valore	n-m$n
 	spa	montaña	n-f$n$n-f-sg	ita	montagna	n-f$n
 	spa	montón	n-m$n-m-ND$n	ita	mucchio	n-m$n
@@ -8513,7 +8513,7 @@ RL	spa	movilidad	n$n-f$n-f-ND	ita	mobilità	n-f-sp$n-f
 	spa	movilización	n$n-f$n-f-sg	ita	mobilitazione	n-f$n
 	spa	movimentación	n	ita	movimentazione	n-f$n
 	spa	movimiento	n-m$n$n-m-sg	ita	movimento	n-m$n
-	spa	muchacho	n$n-f$n-f-sg	ita	ragazzo	n$n-m$n-m-sg
+	spa	muchacho	n$n-f$n-f-sg	ita	ragazzo	n-m$n$n-m-sg
 	spa	mucosa	n$n-f	ita	mucosa	n$n-f
 	spa	mudo	n$n-m	ita	muto	n$n-GD
 	spa	mueble	n$n-m$n-m-ND	ita	mobile	n-m$n
@@ -8847,7 +8847,7 @@ RL	spa	olivo	n-m$n$n-m-ND	ita	ulivo	n$n-m
 	spa	opción	n$n-f$n-f-sg	ita	opzione	n-f$n
 RL	spa	opción	n$n-f$n-f-sg	ita	scelta	n-f$n
 	spa	operación	n$n-f$n-f-sg	ita	operazione	n-f$n
-	spa	operador	n$n-m$n-m-pl	ita	operatore	n$n-m
+	spa	operador	n$n-m$n-m-pl	ita	operatore	n-m$n
 	spa	operativa	n$n-f-ND	ita	operativa	n
 LR	spa	operatividad	n$n-f$n-f-sg	ita	operatività	n-f-sp$n-f
 LR	spa	operatividad	n-f-pl	ita	operatività	n-f-sp$n-f
@@ -9033,7 +9033,7 @@ LR	spa	parcialidad	n-f-pl	ita	faziosità	n-f-sp
 	spa	parecer	n-m$n-m-ND$n	ita	parere	n-m$n
 	spa	parecido	n-m$n	ita	simile	n-m$n
 	spa	pared	n-f$n$n-f-sg	ita	parete	n-f$n$n-f-m
-	spa	pareja	n-f$n$n-f-ND	ita	coppia	n$n-f
+	spa	pareja	n-f$n$n-f-ND	ita	coppia	n-f$n
 	spa	parentesco	n-m$n	ita	parentela	n-f
 LR	spa	paridad	n$n-f$n-f-sg	ita	parità	n-f-sp$n-f
 LR	spa	paridad	n-f-pl	ita	parità	n-f-sp$n-f
@@ -9042,7 +9042,7 @@ RL	spa	paridad	n-f-ND	ita	parità	n-f-sp$n-f
 LR	spa	parking	n$n-m$n-m-sg	ita	parcheggio	n$n-m
 	spa	parkinson	n	ita	parkinson	n
 	spa	parlamento	n$n-m$n-m-sg	ita	parlamento	n-m$n
-LR	spa	paro	n$n-m$n-m-ND	ita	disoccupazione	n-f
+LR	spa	paro	n-m$n$n-m-ND	ita	disoccupazione	n-f
 	spa	parodia	n$n-f	ita	parodia	n-f$n
 	spa	parque	n$n-m$n-m-ND	ita	parco	n-m$$n
 	spa	parrilla	n-f$n	ita	palinsesto	n-m
@@ -9074,7 +9074,7 @@ LR	spa	pasaje	n-m$n	ita	passaggio	n-m$n
 	spa	pasaporte	n$n-m$n-m-sg	ita	passaporto	n$n-m
 	spa	pascua	n$n-f$n-f-ND	ita	pasqua	n$n-f
 	spa	paseo	n-m$n$n-m-ND	ita	passeggio	n-m$n
-	spa	pasillo	n$n-m$n-m-ND	ita	corridoio	n$n-m
+	spa	pasillo	n$n-m$n-m-ND	ita	corridoio	n-m$n
 RL	spa	pasividad	n$n-f$n-f-ND	ita	passività	n-f$n-f-sp
 LR	spa	pasividad	n-f-sg	ita	passività	n-f$n-f-sp
 LR	spa	pasividad	n-f-pl	ita	passività	n-f$n-f-sp
@@ -9190,7 +9190,7 @@ RL	spa	penalización	n-f-ND	ita	penalità	n-f$n-f-sp
 	spa	pentágono	n-m$n$n-m-sg	ita	pentagono	n-m$n
 	spa	península	n$n-f$n-f-ND	ita	penisola	n-f$n
 	spa	pepino	n$n-m$n-m-pl	ita	cetriolo	n-m$n
-	spa	per	n	ita	per	n$n-f
+	spa	per	n	ita	per	n-m$n
 	spa	percepción	n$n-f$n-f-ND	ita	percezione	n-f$n
 LR	spa	perdedor	n-m$n-m-pl	ita	perdente	n-mf
 LR	spa	perdedor	n-f$n-f-pl	ita	perdente	n-mf
@@ -9236,7 +9236,7 @@ RL	spa	persa	n-mf$n$n-mf-sg	ita	persiano	n-f
 	spa	perseverancia	n$n-f$n-f-sg	ita	perseveranza	n-f$n
 	spa	persiana	n$n-f$n-f-ND	ita	persiana	n$n-f
 	spa	persistencia	n$n-f$n-f-ND	ita	persistenza	n-f$n
-	spa	persona	n-f$n$n-f-sg	ita	persona	n-f$n$$n-f-pl
+	spa	persona	n$n-f$n-f-sg	ita	persona	n-f$n$$n-f-pl
 	spa	personaje	n-m$n$n-m-ND	ita	personaggio	n-m$n
 	spa	personal	n$n-m-sg$n-m	ita	personale	n-m$n$$n-m-sg
 RL	spa	personal	n-ND$n-m-ND	ita	staff	n-sp
@@ -9311,7 +9311,7 @@ RL	spa	piloto	n-m$n-m-sg	ita	pilota	n-f
 	spa	pinacoteca	n$n-f	ita	pinacoteca	n-f$n
 	spa	pincel	n$n-m	ita	pennello	n-m$n
 	spa	pingüino	n$n-m$n-m-ND	ita	pinguino	n$n-m
-	spa	pino	n-m$n$n-m-ND	ita	pino	n-m$n
+	spa	pino	n$n-m$n-m-ND	ita	pino	n-m$n
 	spa	pintor	n$n-GD$n-GD-pl	ita	pittore	n$n-m
 	spa	pintura	n-f$n$n-f-ND	ita	vernice	n-f$n
 LR	spa	pintura	n-f$n$n-f-ND	ita	prodotto	n-m$n
@@ -9330,7 +9330,7 @@ RL	spa	pirata	n$n-mf	ita	pirata	n-f
 LR	spa	piso	n-m$n$n-m-ND	ita	pavimento	n$n-m
 	spa	pista	n-f$n$n-f-ND	ita	pista	n-f$n
 	spa	pista	n-f$n$n-f-ND	ita	indizio	n-m$n
-	spa	pistola	n-f$n$n-f-sg	ita	pistola	n$n-f
+	spa	pistola	n-f$n$n-f-sg	ita	pistola	n-f$n
 	spa	pitido	n-m$n	ita	fischio	n-m$n
 	spa	pizarra	n$n-f$n-f-ND	ita	lavagna	n-f$n
 	spa	pizarra	n$n-f$n-f-ND	ita	lavagna	n-f$n
@@ -9349,8 +9349,8 @@ RL	spa	plancton	n-m-ND	ita	plancton	n-m-sp
 	spa	planeta	n-m$n$n-m-ND	ita	pianeta	n-f
 	spa	planetario	n$n-m	ita	planetario	n$n-m
 	spa	planificación	n$n-f$n-f-sg	ita	pianificazione	n$n-f
-LR	spa	plano	n-m$n$n-m-sg	ita	piano	n-m$$n
-RL	spa	plano	n-m$n$n-m-sg	ita	mappa	n-f$n
+LR	spa	plano	n$n-m$n-m-sg	ita	piano	n-m$$n
+RL	spa	plano	n$n-m$n-m-sg	ita	mappa	n-f$n
 	spa	planta	n$n-f$n-f-ND	ita	pianta	n-f$n
 LR	spa	plantación	n$n-f$n-f-sg	ita	impianto	n-m$n
 	spa	planteamiento	n$n-m$n-m-sg	ita	approccio	n-m$n
@@ -9369,7 +9369,7 @@ LR	spa	platillo	n-m$n$n-m-sg	ita	piatto	n-m$$n
 	spa	playa	n$n-f$n-f-sg	ita	spiaggia	n-f$n
 	spa	plaza	n-f$n$n-f-ND	ita	piazza	n-f$n
 LR	spa	plazo	n$n-m$n-m-sg	ita	termine	n-m$n
-	spa	plazo	n$n-m$n-m-sg	ita	lasso	n
+	spa	plazo	n$n-m$n-m-sg	ita	lasso	n-m$n
 	spa	plebe	n$n-f	ita	plebe	n-f$n
 	spa	plebeyo	n$n-GD	ita	plebeo	n$$n-GD
 LR	spa	pleito	n-m$n$n-m-sg	ita	contenzioso	n$n-m
@@ -9789,7 +9789,7 @@ RL	spa	píxel	n-m-ND	ita	pixel	n-m-sp$n-m
 LR	spa	póster	n$n-m$n-m-sg	ita	poster	n-m-sp$n-m
 LR	spa	póster	n-m-pl	ita	poster	n-m-sp$n-m
 RL	spa	póster	n-m-ND	ita	poster	n-m-sp$n-m
-	spa	público	n-m$n$n-m-sg	ita	pubblico	$n-m$n
+	spa	público	n-m$n$n-m-sg	ita	pubblico	n-m$$n
 LR	spa	quad	n$n-m-sg	ita	quad	n-m-sp$n-m
 LR	spa	quad	n-m-pl	ita	quad	n-m-sp$n-m
 RL	spa	quad	n-m-ND	ita	quad	n-m-sp$n-m
@@ -9799,7 +9799,7 @@ RL	spa	quark	n-m-ND	ita	quark	n-m-sp$n-m
 	spa	queja	n$n-f$n-f-ND	ita	lamentela	n-f$n
 	spa	quemadura	n$n-f$n-f-ND	ita	bruciatura	n-f$n
 	spa	querubín	n$n-m	ita	cherubino	n$n-m
-	spa	queso	n$n-m$n-m-sg	ita	formaggio	n$n-m
+	spa	queso	n$n-m$n-m-sg	ita	formaggio	n-m$n
 	spa	quiebra	n$n-f	ita	fallimento	n-m$n
 LR	spa	quijada	n$n-f	ita	mandibola	n$n-f
 	spa	quilate	n-m$n	ita	carato	n-m$n
@@ -10093,7 +10093,7 @@ RL	spa	representación	n$n-f$n-f-sg	ita	raffigurazione	n-f$n
 	spa	reputación	n$n-f$n-f-sg	ita	reputazione	n-f$n
 	spa	república	n$n-f$n-f-ND	ita	repubblica	n$n-f
 	spa	república	n$n-f$n-f-ND	ita	repubblica	n$n-f
-	spa	requerimiento	n-m$n$n-m-sg	ita	requisito	n-m$n
+	spa	requerimiento	n$n-m$n-m-sg	ita	requisito	n-m$n
 	spa	requisición	n	ita	requisizione	n-f$n
 	spa	requisito	n$n-m-sg$n-m	ita	requisito	n-m$n
 	spa	rescate	n$n-m$n-m-sg	ita	salvataggio	n-m$n
@@ -10203,7 +10203,7 @@ LR	spa	rodilla	n-f-pl	ita	ginocchio	n-GD-pl
 RL	spa	rodilla	n-f-pl	ita	ginocchio	n-f-pl
 RL	spa	rodilla	n-f-pl	ita	ginocchio	n-m-pl
 RL	spa	rodilla	n-f$n$n-f-sg	ita	ginocchio	n-m-sg$n-m$n
-	spa	rojo	n$n-GD	ita	rosso	n-m$n
+	spa	rojo	n$n-GD	ita	rosso	n-m$$n
 	spa	rol	n$n-m	ita	ruolo	n-m$n
 LR	spa	romance	n$n-m$n-m-ND	ita	romanzo	n-m$n$
 	spa	romance	n$n-m$n-m-ND	ita	romanzo	n-m$n$
@@ -10232,7 +10232,7 @@ RL	spa	rostro	n-m$n$n-m-ND	ita	volto	n-m$n$
 	spa	rpm	n$n-f-sp	ita	rpm	n-m-sp
 	spa	rubí	n-m$n	ita	rubino	n$n-m
 	spa	rueda	n$n-f$n-f-ND	ita	ruota	n-f$n
-	spa	rueda	n$n-f$n-f-ND	ita	rotella	n$n-f
+	spa	rueda	n$n-f$n-f-ND	ita	rotella	n-f$n
 	spa	ruido	n-m$n$n-m-sg	ita	rumore	n-m$n
 	spa	ruina	n-f$n$n-f-pl	ita	rovina	n-f$n
 	spa	ruiseñor	n$n-m	ita	usignolo	n$n-m
@@ -10387,9 +10387,9 @@ LR	spa	sendero	n-m$n$n-m-ND	ita	percorso	n-m$n
 LR	spa	sendos	n	ita	entrambi	n
 	spa	seno	n-m$n	ita	seno	n-m$n
 	spa	sensación	n$n-f$n-f-ND	ita	sensazione	n-f$n
-LR	spa	sensatez	n$n-f$n-f-sg	ita	buon senso	n-m$n-m-sp
-LR	spa	sensatez	n-f-pl	ita	buon senso	n-m$n-m-sp
-RL	spa	sensatez	n-f-ND	ita	buon senso	n-m$n-m-sp
+LR	spa	sensatez	n$n-f$n-f-sg	ita	buon senso	n-m-sp
+LR	spa	sensatez	n-f-pl	ita	buon senso	n-m-sp
+RL	spa	sensatez	n-f-ND	ita	buon senso	n-m-sp
 LR	spa	sensibilidad	n-f-sg	ita	sensibilità	n-f$n-f-sp
 LR	spa	sensibilidad	n-f-pl	ita	sensibilità	n-f$n-f-sp
 RL	spa	sensibilidad	n$n-f$n-f-ND	ita	sensibilità	n-f$n-f-sp
@@ -10398,7 +10398,7 @@ LR	spa	sensualidad	n$n-f$n-f-sg	ita	sensualità	n-f-sp$n-f
 LR	spa	sensualidad	n-f-pl	ita	sensualità	n-f-sp$n-f
 RL	spa	sensualidad	n-f-ND	ita	sensualità	n-f-sp$n-f
 	spa	sentencia	n$n-f$n-f-sg	ita	sentenza	n-f$n
-	spa	sentido	n-m$n$n-m-ND	ita	senso	n-m$n
+	spa	sentido	n-m$n$n-m-ND	ita	senso	n-m$n$
 	spa	sentido	n-m$n$n-m-ND	ita	buonsenso	n$n-m
 	spa	sentimiento	n-m$n$n-m-sg	ita	sentimento	n-m$n
 LR	spa	seo	n-f$n	ita	cattedrale	n$n-f
@@ -10573,7 +10573,7 @@ RL	spa	solidez	n$n-f$n-f-ND	ita	solidità	n-f$n-f-sp
 LR	spa	solidez	n-f-sg	ita	solidità	n-f$n-f-sp
 LR	spa	solidez	n-f-pl	ita	solidità	n-f$n-f-sp
 	spa	solidificación	n$n-f	ita	solidificazione	n-f$n
-	spa	solsticio	n$n-m	ita	solstizio	n$n-m
+	spa	solsticio	n$n-m	ita	solstizio	n-m$n
 	spa	solución	n$n-f$n-f-sg	ita	soluzione	n-f$n
 RL	spa	solvencia	n$n-f$n-f-ND	ita	solvibilità	n-f-sp$n-f
 LR	spa	solvencia	n-f-sg	ita	solvibilità	n-f-sp$n-f
@@ -10791,7 +10791,7 @@ RL	spa	taxista	n-mf$n	ita	tassista	n-f
 	spa	tecla	n$n-f$n-f-sg	ita	tasto	n-m$n
 	spa	teclado	n-m$n$n-m-sg	ita	tastiera	n-f$n
 	spa	teclado	n-m$n$n-m-sg	ita	tastiera	n-f$n
-	spa	tecnología	n$n-f$n-f-sg	ita	tecnologia	n$n-f
+	spa	tecnología	n$n-f$n-f-sg	ita	tecnologia	n-f$n
 	spa	tecnólogo	n	ita	tecnologo	n
 	spa	tejado	n-m$n$n-m-ND	ita	tetto	n-m$n
 	spa	tejido	n$n-m	ita	tessuto	n-m$n
@@ -10824,7 +10824,7 @@ LR	spa	tendencia	n-f$n$n-f-sg	ita	trend	n-m-sp$n-m
 LR	spa	tendencia	n-f-pl	ita	trend	n-m-sp$n-m
 	spa	tendencia	n-f$n$n-f-sg	ita	tendenza	n-f$n
 	spa	tenedor	n-m$n$n-m-sg	ita	forchetta	n-f
-LR	spa	tenencia	n$n-f$n-f-sg	ita	detenzione	n$n-f$n-f-m
+LR	spa	tenencia	n$n-f$n-f-sg	ita	detenzione	n-f$n$n-f-m
 	spa	teniente	n$n-mf$n-mf-ND	ita	tenente	n-m
 	spa	tenis	n$n-m$n-m-sp	ita	tennis	n-m$n-m-sp$n
 LR	spa	tenista	n-mf$n	ita	tennista	n-GD$n
@@ -10961,7 +10961,7 @@ RL	spa	trabajador	n-GD$n-GD-ND	ita	lavorante	n-mf
 	spa	tractor	n$n-m$n-m-ND	ita	trattore	n-m$n
 	spa	tradición	n-f$n$n-f-ND	ita	tradizione	n-f$n
 	spa	traducción	n$n-f$n-f-sg	ita	traduzione	n-f$n
-	spa	traductor	n$n-GD$n-GD-ND	ita	traduttore	n$n-GD
+	spa	traductor	n$n-GD$n-GD-ND	ita	traduttore	n$n-m
 	spa	traficante	n-mf$n	ita	trafficante	n-m
 	spa	tragedia	n$n-f$n-f-sg	ita	tragedia	n-f$n
 	spa	tragedia	n$n-f$n-f-sg	ita	dramma	n-m$n
@@ -10997,7 +10997,7 @@ RL	spa	transmisión	n$n-f$n-f-sg	ita	cambio	n-m$n
 	spa	transmisión	n$n-f$n-f-sg	ita	trasmissione	n-f$n
 	spa	transmutación	n$n-f	ita	trasmutazione	n-f$n
 	spa	transparencia	n$n-f$n-f-sg	ita	trasparenza	n-f$n
-	spa	transpiración	n$n-f$n-f-ND	ita	traspirazione	n$n-f
+	spa	transpiración	n$n-f$n-f-ND	ita	traspirazione	n-f$n
 	spa	transporte	n-m$n$n-m-sg	ita	trasporto	n-m$n
 	spa	transposición	n$n-f	ita	recepimento	n-m
 	spa	transposición	n$n-f	ita	trasposizione	n-f$n
@@ -11076,7 +11076,7 @@ LR	spa	tuerca	n$n-f	ita	dado	n-m$n
 	spa	tulipán	n-m$n	ita	tulipano	n-m$n
 	spa	tumba	n-f$n$n-f-sg	ita	tomba	n-f$n
 	spa	tumba	n-f$n$n-f-sg	ita	tomba	n-f$n
-	spa	tumor	n$n-m	ita	tumore	n$n-m
+	spa	tumor	n$n-m	ita	tumore	n-m$n
 	spa	turba	n$n-f$n-f-ND	ita	torba	n$n-f
 	spa	turbina	n-f$n	ita	turbina	n-f$n
 	spa	turbulencia	n$n-f$n-f-sg	ita	turbolenza	n-f$n
@@ -11111,7 +11111,7 @@ RL	spa	témpano	n-m-ND	ita	iceberg	n-m-sp
 	spa	tío	n$n-m$n-m-sg	ita	zio	n$n-m
 RL	spa	tío	n$n-m$n-m-sg	ita	tizio	n-m$n
 	spa	títere	n-m$n	ita	marionetta	n-f$n
-	spa	título	n-m$n$n-m-sg	ita	titolo	n-m$n
+	spa	título	n$n-m$n-m-sg	ita	titolo	n-m$n
 	spa	tópico	n$n-m$n-m-ND	ita	topico	n$n-m$
 LR	spa	túnel	n$n-m$n-m-sg	ita	tunnel	n-m-sp$n-m
 LR	spa	túnel	n-m-pl	ita	tunnel	n-m-sp$n-m
@@ -11327,7 +11327,7 @@ RL	spa	videoconsola	n-f-ND	ita	videoconsole	n-f-sp$n-f
 	spa	villano	n$n-GD	ita	villano	$n$n-GD
 	spa	vinagre	n-m$n$n-m-sg	ita	aceto	n$n-m
 	spa	vinificación	n	ita	vinificazione	n-f$n
-	spa	vino	n$n-m$n-m-sg	ita	vino	n$n-m
+	spa	vino	n$n-m$n-m-sg	ita	vino	n-m$n
 	spa	violación	n$n-f$n-f-sg	ita	stupro	n-m
 	spa	violación	n$n-f$n-f-sg	ita	violazione	n-f$n
 	spa	violencia	n$n-f$n-f-sg	ita	violenza	n-f$n
@@ -11451,7 +11451,7 @@ RL	spa	zarzuela	n-f-ND	ita	zarzuela	n-f-sp$n-f
 LR	spa	zombi	n-mf-sg	ita	zombie	n-mf-sp
 LR	spa	zombi	n-mf-pl	ita	zombie	n-mf-sp
 RL	spa	zombi	n-mf-ND	ita	zombie	n-mf-sp
-	spa	zona	n-f$n$n-f-sg	ita	zona	n-f$n
+	spa	zona	n$n-f$n-f-sg	ita	zona	n-f$n
 LR	spa	zoológico	n$n-m$n-m-sg	ita	zoo	n-m$n-m-sp$n
 LR	spa	zoológico	n-m-pl	ita	zoo	n-m$n-m-sp$n
 RL	spa	zoológico	n-m-ND	ita	zoo	n-m$n-m-sp$n
@@ -11615,10 +11615,10 @@ LR	spa	apoyar	vblex	ita	sostenere	$vblex
 RL	spa	apoyar	vblex	ita	appoggiare	$vblex
 	spa	apreciar	vblex	ita	apprezzare	$vblex
 	spa	aprender	vblex	ita	apprendere	$vblex
-RL	spa	aprender	vblex	ita	imparare	vblex$
+RL	spa	aprender	vblex	ita	imparare	$vblex
 	spa	aprobar	vblex	ita	approvare	$vblex
 	spa	aproximar	vblex	ita	approssimare	vblex
-	spa	apuntar	vblex	ita	puntare	vblex$
+	spa	apuntar	vblex	ita	puntare	$vblex
 	spa	arar	vblex	ita	arare	vblex$
 	spa	arbitrar	vblex	ita	arbitrare	vblex$
 	spa	arder	vblex	ita	ardere	$vblex
@@ -11658,7 +11658,7 @@ RL	spa	atestiguar	vblex	ita	attestare	$vblex
 	spa	ayudar	vblex	ita	aiutare	$vblex
 	spa	azotar	vblex	ita	frustare	vblex$
 	spa	añadir	vblex	ita	aggiungere	$vblex
-	spa	bailar	vblex	ita	ballare	vblex$
+	spa	bailar	vblex	ita	ballare	$vblex
 RL	spa	bajar	vblex	ita	abbassare	$vblex
 	spa	bajar	vblex	ita	scendere	$vblex
 	spa	balar	vblex	ita	belare	vblex$
@@ -11821,7 +11821,7 @@ RL	spa	contar	vblex$vblex-vbact	ita	raccontare	$vblex
 	spa	contentar	vblex	ita	contentare	vblex$
 RL	spa	contestar	vblex	ita	contestare	$vblex
 	spa	contestar	vblex	ita	rispondere	vblex$
-	spa	continuar	vblex	ita	continuare	vblex$
+	spa	continuar	vblex	ita	continuare	$vblex
 	spa	contradecir	vblex	ita	contraddire	$vblex
 	spa	contraer	vblex	ita	contrarre	$vblex
 	spa	contrastar	vblex	ita	contrastare	$vblex
@@ -11865,7 +11865,7 @@ RL	spa	debilitar	vblex	ita	debilitare	vblex$
 	spa	decapitar	vblex	ita	decapitare	$vblex
 	spa	decidir	vblex	ita	decidere	$vblex
 	spa	decidir	vblex	ita	decidere	$vblex
-	spa	decir	vblex$vblex-inf$	ita	dire	vblex$
+	spa	decir	vblex$vblex-inf$	ita	dire	$vblex
 	spa	declarar	vblex	ita	dichiarare	$vblex
 	spa	declinar	vblex	ita	declinare	$vblex
 	spa	decorar	vblex	ita	decorare	$vblex
@@ -11886,7 +11886,7 @@ LR	spa	demoler	vblex	ita	demolire	$vblex
 	spa	denotar	vblex	ita	denotare	$vblex
 	spa	denunciar	vblex	ita	denunciare	$vblex
 	spa	depender	vblex	ita	dipendere	$vblex
-	spa	depender de	vblex	ita	dipendere da	$vblex
+	spa	depender de	vblex	ita	dipendere da	vblex
 	spa	deplorar	vblex	ita	deplorare	$vblex
 	spa	deponer	vblex	ita	deporre	$vblex
 	spa	deportar	vblex	ita	deportare	$vblex
@@ -11981,7 +11981,7 @@ LR	spa	diseñar	vblex	ita	disegnare	vblex$
 	spa	dotar	vblex	ita	dotare	vblex$
 	spa	drogar	vblex	ita	drogare	vblex$
 	spa	duplicar	vblex	ita	duplicare	$vblex
-	spa	durar	vblex	ita	durare	vblex$
+	spa	durar	vblex	ita	durare	$vblex
 LR	spa	echar	vblex	ita	gettare	$vblex
 LR	spa	echar	vblex	ita	mancare	$vblex
 	spa	echar	vblex	ita	rinfacciare	$vblex
@@ -12026,7 +12026,7 @@ RL	spa	endurecer	vblex	ita	inasprire	$vblex
 	spa	ensuciar	vblex	ita	sporcare	$vblex
 	spa	entender	vblex	ita	capire	$vblex
 	spa	entrar	vblex	ita	entrare	vblex$
-	spa	entregar	vblex	ita	consegnare	vblex$
+	spa	entregar	vblex	ita	consegnare	$vblex
 	spa	entrenar	vblex	ita	allenare	$vblex
 	spa	entrevistar	vblex	ita	intervistare	vblex$
 	spa	entusiasmar	vblex	ita	entusiasmare	$vblex
@@ -12151,7 +12151,7 @@ RL	spa	ganar	vblex	ita	guadagnare	$vblex
 	spa	golpear	vblex	ita	colpire	$vblex
 LR	spa	grabar	vblex	ita	registrare	vblex$
 	spa	gratificar	vblex	ita	gratificare	vblex
-	spa	gritar	vblex	ita	gridare	vblex$
+	spa	gritar	vblex	ita	gridare	$vblex
 LR	spa	guiar	vblex	ita	guidare	$vblex
 	spa	gustar	vblex$vblex-vbact	ita	piacere	vblex
 	spa	habitar	vblex	ita	abitare	vblex$
@@ -12212,7 +12212,7 @@ RL	spa	incrementar	vblex	ita	accrescere	$vblex
 	spa	influir	vblex	ita	influenzare	vblex$
 	spa	informar	vblex	ita	informare	$vblex
 	spa	informatizar	vblex	ita	informatizzare	vblex
-LR	spa	ingresar	vblex	ita	mettere	vblex$
+LR	spa	ingresar	vblex	ita	mettere	$vblex
 	spa	inhalar	vblex	ita	inalare	vblex$
 	spa	inhumar	vblex	ita	inumare	vblex$
 	spa	iniciar	vblex	ita	avviare	$vblex
@@ -12284,7 +12284,7 @@ RL	spa	llegar	vblex	ita	giungere	$vblex
 	spa	llevar	vblex	ita	portare	$vblex
 RL	spa	llevar	vblex	ita	portare	$vblex
 	spa	llorar	vblex	ita	piangere	$vblex
-	spa	llover	vblex	ita	piovere	vblex$
+	spa	llover	vblex	ita	piovere	$vblex
 	spa	localizar	vblex	ita	localizzare	vblex$
 	spa	lograr	vblex$vblex-vbact	ita	riuscire	$vblex
 RL	spa	lograr	vblex$vblex-vbact	ita	riuscire	$vblex
@@ -12294,13 +12294,13 @@ RL	spa	lograr	vblex$vblex-vbact	ita	riuscire	$vblex
 LR	spa	malgastar	vblex	ita	sprecare	$vblex
 	spa	malversar	vblex	ita	malversare	vblex$
 RL	spa	mandar	vblex	ita	comandare	$vblex
-	spa	mandar	vblex	ita	mandare	vblex$
+	spa	mandar	vblex	ita	mandare	$vblex
 	spa	manifestar	vblex	ita	manifestare	$vblex
 	spa	maniobrar	vblex	ita	manovrare	$vblex
 	spa	mantener	vblex	ita	mantenere	$vblex
 	spa	marcar	vblex	ita	marcare	$vblex
 	spa	marginar	vblex	ita	marginare	vblex
-	spa	masticar	vblex	ita	masticare	vblex$
+	spa	masticar	vblex	ita	masticare	$vblex
 	spa	matar	vblex	ita	uccidere	$vblex
 	spa	materializar	vblex	ita	materializzare	vblex
 	spa	mecanizar	vblex	ita	meccanizzare	vblex
@@ -12312,7 +12312,7 @@ LR	spa	menguar	vblex	ita	diminuire	$vblex
 	spa	mentir	vblex	ita	mentire	$vblex
 	spa	merecer	vblex	ita	meritare	vblex$
 LR	spa	mermar	vblex	ita	diminuire	$vblex
-	spa	meter	vblex	ita	mettere	vblex$
+	spa	meter	vblex	ita	mettere	$vblex
 RL	spa	mezclar	vblex	ita	miscelare	vblex$
 	spa	mezclar	vblex	ita	mischiare	vblex$
 	spa	militar	vblex	ita	militare	vblex
@@ -12386,7 +12386,7 @@ RL	spa	parecer	vblex$$vblex-pron	ita	parere	$vblex
 	spa	participar	vblex	ita	partecipare	$vblex
 	spa	partir	vblex	ita	partire	$vblex
 	spa	pasar	vblex	ita	passare	$vblex
-	spa	pedir	vblex	ita	chiedere	vblex$
+	spa	pedir	vblex	ita	chiedere	$vblex
 LR	spa	pegar	vblex$vblex-pron	ita	attaccare	$vblex
 RL	spa	pegar	vblex$vblex-pron	ita	incollare	$vblex
 	spa	pelar	vblex	ita	pelare	$vblex
@@ -12422,9 +12422,9 @@ LR	spa	planificar	vblex	ita	pianificare	vblex$
 	spa	poblar	vblex	ita	popolare	vblex
 	spa	polarizar	vblex	ita	polarizzare	vblex$
 	spa	ponderar	vblex	ita	ponderare	$vblex
-	spa	poner	vblex	ita	mettere	vblex$
+	spa	poner	vblex	ita	mettere	$vblex
 RL	spa	poner	vblex	ita	porre	$vblex
-RL	spa	poner	vblex	ita	apporre	vblex$
+RL	spa	poner	vblex	ita	apporre	$vblex
 LR	spa	portar	vblex	ita	portare	$vblex
 	spa	posar	vblex	ita	posare	$vblex
 	spa	poseer	vblex	ita	possedere	$vblex
@@ -12446,7 +12446,7 @@ RL	spa	presentar	vblex	ita	candidare	vblex$
 	spa	presentar	vblex	ita	presentare	$vblex
 	spa	preservar	vblex	ita	preservare	vblex$
 	spa	presionar	vblex	ita	premere	$vblex
-	spa	prestar	vblex	ita	prestare	vblex$
+	spa	prestar	vblex	ita	prestare	$vblex
 	spa	presuponer	vblex	ita	presupporre	$vblex
 	spa	pretender	vblex	ita	pretendere	$vblex
 	spa	prevaler	vblex	ita	prevalere	vblex$
@@ -12463,7 +12463,7 @@ LR	spa	proceder	vblex	ita	provenire	vblex$
 	spa	programar	vblex	ita	programmare	$vblex
 	spa	prohibir	vblex	ita	proibire	vblex$
 	spa	proliferar	vblex	ita	proliferare	vblex$
-	spa	prometer	vblex	ita	promettere	vblex$
+	spa	prometer	vblex	ita	promettere	$vblex
 	spa	promover	vblex	ita	promuovere	$vblex
 	spa	pronunciar	vblex	ita	pronunciare	$vblex
 	spa	propagar	vblex	ita	propagare	vblex$
@@ -12596,7 +12596,7 @@ LR	spa	rogar	vblex	ita	pregare	$vblex
 	spa	rubricar	vblex	ita	siglare	vblex
 	spa	saber	vblex$vblex-vbact	ita	sapere	$vblex
 LR	spa	sacar	vblex	ita	togliere	$vblex
-	spa	sacrificar	vblex	ita	sacrificare	vblex$
+	spa	sacrificar	vblex	ita	sacrificare	$vblex
 	spa	saldar	vblex	ita	saldare	$vblex
 	spa	salir	vblex	ita	uscire	vblex$
 	spa	salivar	vblex	ita	salivare	vblex
@@ -12641,7 +12641,7 @@ LR	spa	sonar	vblex$	ita	suonare	$vblex
 	spa	soportar	vblex	ita	sopportare	$vblex
 	spa	sorprender	vblex	ita	sorprendere	$vblex
 	spa	sostener	vblex	ita	sostenere	$vblex
-	spa	soñar	vblex	ita	sognare	vblex$
+	spa	soñar	vblex	ita	sognare	$vblex
 	spa	subestimar	vblex	ita	sottovalutare	$vblex
 	spa	subir	vblex	ita	salire	$vblex
 	spa	sublimar	vblex	ita	sublimare	vblex
@@ -12649,7 +12649,7 @@ LR	spa	substraer	vblex	ita	sottrarre	$vblex
 	spa	subvencionar	vblex	ita	sovvenzionare	vblex$
 	spa	suceder	vblex	ita	accadere	$vblex
 	spa	suceder	vblex	ita	succedere	$vblex
-	spa	sudar	vblex	ita	sudare	vblex$
+	spa	sudar	vblex	ita	sudare	$vblex
 	spa	sufrir	vblex	ita	soffrire	$vblex
 RL	spa	sufrir	vblex	ita	subire	$vblex
 	spa	superar	vblex	ita	superare	$vblex
@@ -12755,9 +12755,9 @@ RL	spa	ser	vbser$vbser-ger	ita	essere	vbser-pprs-mf-sg
 LR	spa	ser	vblex	ita	essere	$vbser$vbser-auxser
 	spa	deber	vbmod	ita	dovere	$vbmod$vbmod-imp
 LR	spa	deber	vbmod	ita	dovere	$vbmod$vbmod-imp
-LR	spa	haber que	vbmod	ita	avere bisogno di	vbmod$
+LR	spa	haber que	vbmod	ita	avere bisogno di	vbmod
 LR	spa	haber	vbmod	ita	dovere	$vbmod$vbmod-imp
-RL	spa	necesitar	vblex	ita	avere bisogno di	vbmod$
+RL	spa	necesitar	vblex	ita	avere bisogno di	vbmod
 RL	spa	necesitar	vblex	ita	bisognare	$vbmod$vbmod-inf
 RL	spa	necesitar	vblex	ita	avere bisogno che	vbmod
 	spa	poder	vbmod$vbmod-ifi	ita	potere	vbmod
@@ -12850,7 +12850,7 @@ RL	spa	coger	vblex	ita	cogliere	$vblex
 	spa	coincidir	vblex	ita	coincidere	$vblex
 	spa	colapsar	vblex	ita	collassare	$vblex
 	spa	combatir	vblex	ita	combattere	$vblex
-	spa	cometer	vblex	ita	commettere	vblex$
+	spa	cometer	vblex	ita	commettere	$vblex
 	spa	comparar	vblex	ita	paragonare	$vblex
 	spa	comparar	vblex	ita	paragonare	$vblex
 	spa	compartir	vblex	ita	condividere	$vblex
@@ -12948,7 +12948,7 @@ LR	spa	encajar	vblex	ita	inserire	$vblex
 	spa	encarar	vblex	ita	affrontare	$vblex
 	spa	encontrar	vblex$vblex-vbact	ita	ritrovare	$vblex
 	spa	endeudar	vblex	ita	indebitare	vblex
-RL	spa	enfocar	vblex	ita	mettere a fuoco	$vblex
+RL	spa	enfocar	vblex	ita	mettere a fuoco	vblex
 	spa	enfrentar	vblex	ita	riscontrare	$vblex
 	spa	enfriar	vblex	ita	rinfrescare	$vblex
 	spa	enfriar	vblex	ita	raffreddare	$vblex
@@ -13162,7 +13162,7 @@ RL	spa	retirar	vblex	ita	prelevare	$vblex
 	spa	revertir	vblex	ita	invertire	$vblex
 	spa	revisar	vblex	ita	rivedere	$vblex
 LR	spa	revolver	vblex	ita	mescolare	$vblex
-	spa	reír	vblex$vblex-inf	ita	ridere	vblex$
+	spa	reír	vblex$vblex-inf	ita	ridere	$vblex
 	spa	rodar	vblex	ita	girare	$vblex
 	spa	rodar	vblex	ita	rotolare	$vblex
 	spa	romper	vblex	ita	spezzare	$vblex
@@ -13190,7 +13190,7 @@ RL	spa	sorprender	vblex	ita	stupire	$vblex
 	spa	subrayar	vblex	ita	sottolineare	$vblex
 	spa	suceder	vblex	ita	capitare	$vblex
 	spa	sucumbir	vblex	ita	soccombere	$vblex
-	spa	sudar	vblex	ita	sudare	vblex$
+	spa	sudar	vblex	ita	sudare	$vblex
 	spa	sugerir	vblex	ita	suggerire	$vblex
 	spa	sumar	vblex	ita	sommare	$vblex
 	spa	sumergir	vblex	ita	immergere	$vblex
@@ -13205,7 +13205,7 @@ LR	spa	topar	vblex	ita	incontrare	vblex$
 	spa	traspasar	vblex	ita	oltrepassare	$vblex
 	spa	trazar	vblex	ita	tracciare	$vblex
 	spa	trazar	vblex	ita	tracciare	$vblex
-RL	spa	volver	vblex$vblex-pron	ita	diventare	vblex$
+RL	spa	volver	vblex$vblex-pron	ita	diventare	$vblex
 RL	spa	volver a	vblex	ita	ricadere	$vblex
 	spa	volver	vblex$vblex-pron	ita	ripulire	$vblex
 	spa	yacer	vblex	ita	giacere	$vblex
@@ -13313,7 +13313,7 @@ LR	spa	quienquiera	prn-tn-mf-pl	ita	qualunque	prn-tn-mf-sp$$prn
 LR	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg	ita	chi	prn$prn-itg-mf-sp$prn-mf-sp
 LR	spa	quién	prn-itg-mf-pl	ita	chi	prn$prn-itg-mf-sp$prn-mf-sp
 RL	spa	quién	prn-itg-mf-ND	ita	chi	prn$prn-itg-mf-sp$prn-mf-sp
-LR	spa	qué	prn$prn-itg$prn-itg-mf-sg$prn-itg-mf	ita	che	prn$$prn-itg-mf-sg$prn-mf
+LR	spa	qué	prn$prn-itg$prn-itg-mf-sg$prn-itg-mf	ita	che	prn$prn-itg-mf-sg$prn-mf
 RL	spa	qué	prn$prn-itg$prn-itg-mf-sg$prn-itg-mf	ita	cosa	prn$prn-itg$prn-itg-mf
 	spa	se	prn-pro-ref-p3-mf-sp$prn-pro$prn-pro-ref$prn-pro-ref-p3-mf	ita	si	prn-pro$prn-pro-ref$prn-pro-ref-p3-mf-sp$prn-pro-ref-p3
 	spa	se	prn-enc-ref-p3-mf-sp$prn$prn-enc$prn-enc-ref	ita	si	prn-enc$prn$prn-enc-ref-p3-mf-sp$prn-enc-ref$prn-enc-ref-p3
@@ -13373,7 +13373,7 @@ LR	spa	mientras que	cnjadv	ita	mentre	cnjadv
 	spa	a pesar de que	cnjadv	ita	malgrado	cnjadv
 	spa	a raya	cnjadv	ita	a riga	cnjadv
 	spa	al igual que	cnjadv	ita	come	cnjadv
-	spa	al final	adv	ita	alla fine	adv$
+	spa	al final	adv	ita	alla fine	adv
 	spa	al fin y al cabo	adv	ita	in fin dei conti	adv
 	spa	antes de que	cnjadv	ita	prima che	cnjadv
 	spa	así que	cnjadv	ita	sicché	cnjadv
@@ -13459,17 +13459,17 @@ RL	spa	a gran escala	adv	ita	a grande scala	adv
 	spa	a la francesa	adv	ita	alla francese	adv
 	spa	a la inglesa	adv	ita	all'inglese	adv
 	spa	a la italiana	adv	ita	all'italiana	adv
-	spa	a la ligera	adv	ita	alla leggera	adv$
+	spa	a la ligera	adv	ita	alla leggera	adv
 	spa	a la semana	adv	ita	alla settimana	adv
 	spa	a la vez	adv	ita	contemporaneamente	adv$
-	spa	a largo plazo	adv	ita	a lungo termine	adv$
+	spa	a largo plazo	adv	ita	a lungo termine	adv
 RL	spa	mucho tiempo	adv	ita	più a lungo	adv
 	spa	a medias	adv	ita	a metà	adv
 	spa	a medio camino	adv	ita	a metà strada	adv
 	spa	a mitad de precio	adv	ita	a metà prezzo	adv
 RL	spa	a las espaldas	adv	ita	alla schiena	adv
 	spa	a las espaldas	adv	ita	alle spalle	adv
-	spa	a mano	adv	ita	a mano	adv$
+	spa	a mano	adv	ita	a mano	adv
 LR	spa	a marchas forzadas	adv	ita	di fretta	adv
 	spa	a medio plazo	adv	ita	a medio termine	adv
 	spa	a medio y largo plazo	adv	ita	a medio e lungo termine	adv
@@ -13522,7 +13522,7 @@ LR	spa	acá	adv	ita	qui	adv
 	spa	ad litteram	adv	ita	ad litteram	adv
 	spa	lado a lado	adv	ita	fianco a fianco	adv
 	spa	adecuadamente	adv	ita	adeguatamente	adv
-	spa	adelante	adv	ita	avanti	adv
+	spa	adelante	adv	ita	avanti	adv$
 RL	spa	además	adv	ita	inoltre	adv
 	spa	además	adv	ita	oltretutto	adv
 RL	spa	por cuenta propia	adv	ita	freelance	adv
@@ -13538,7 +13538,7 @@ LR	spa	adonde	adv	ita	dove	adv$adv-itg
 	spa	adónde	adv$adv-itg	ita	dove	adv$adv-itg
 	spa	afortunadamente	adv	ita	fortunatamente	adv
 RL	spa	afortunadamente	adv	ita	per fortuna	adv
-LR	spa	afuera	adv	ita	fuori	adv
+LR	spa	afuera	adv	ita	fuori	adv$
 	spa	ahora	adv	ita	adesso	adv
 RL	spa	ahora	adv	ita	ora	adv
 	spa	ahora mismo	adv	ita	proprio adesso	adv
@@ -13597,7 +13597,7 @@ RL	spa	alrededor	adv	ita	tutt'intorno	adv
 	spa	temporada baja	adv	ita	bassa stagione	adv
 	spa	con cautela	adv	ita	cautamente	adv
 	spa	alrededor de	adv	ita	intorno a	adv
-	spa	altamente	adv	ita	altamente	adv
+	spa	altamente	adv	ita	altamente	adv$
 	spa	alternativamente	adv	ita	alternativamente	adv
 	spa	amablemente	adv	ita	amabilmente	adv
 	spa	amablemente	adv	ita	gentilmente	adv
@@ -13625,11 +13625,11 @@ LR	spa	lo más pronto posible	adv	ita	al più presto possibile	adv
 	spa	antiguamente	adv	ita	anticamente	adv
 	spa	anualmente	adv	ita	annualmente	adv
 	spa	análogamente	adv	ita	analogamente	adv
-	spa	aparentemente	adv	ita	apparentemente	adv
+	spa	aparentemente	adv	ita	apparentemente	adv$
 	spa	aparte	adv	ita	a parte	adv
 RL	spa	aparte	adv	ita	da parte	adv
 	spa	apasionadamente	adv	ita	appassionatamente	adv
-	spa	apenas	adv	ita	appena	adv
+	spa	apenas	adv	ita	appena	adv$
 RL	spa	apenas	adv	ita	malapena	adv
 	spa	aposta	adv	ita	a posta	adv
 LR	spa	apremiantemente	adv	ita	urgentemente	adv
@@ -13789,14 +13789,14 @@ RL	spa	de hecho	adv	ita	in effetti	adv
 RL	spa	de hecho	adv	ita	infatti	adv
 	spa	de hecho	adv	ita	di fatto	adv
 RL	spa	de hecho	adv	ita	anzi	adv
-LR	spa	de inmediato	adv	ita	immediatamente	adv
+LR	spa	de inmediato	adv	ita	immediatamente	adv$
 RL	spa	de los demás	adv	ita	altrui	$adv
 	spa	de madrugada	adv	ita	all'alba	adv
 	spa	de manera clara	adv	ita	in maniera chiara	adv
 	spa	de memoria	adv	ita	a memoria	adv
 RL	spa	de momento	adv	ita	intanto	adv
 	spa	de momento	adv	ita	al momento	adv
-	spa	de muerte	adv	ita	da morire	adv$
+	spa	de muerte	adv	ita	da morire	adv
 	spa	de ningún modo	adv	ita	in nessun modo	adv
 	spa	de nuevo	adv	ita	di nuovo	adv
 	spa	de nuevo	adv	ita	di nuovo	adv
@@ -13804,8 +13804,8 @@ RL	spa	de momento	adv	ita	intanto	adv
 	spa	de otros tiempos	adv	ita	di altri tempi	adv
 	spa	de oídas	adv	ita	per sentito dire	adv
 	spa	de paseo	adv	ita	passeggiando	adv
-	spa	de primera calidad	adv	ita	di prima qualità	adv$
-	spa	de primera clase	adv	ita	di prima classe	adv$
+	spa	de primera calidad	adv	ita	di prima qualità	adv
+	spa	de primera clase	adv	ita	di prima classe	adv
 	spa	de prisa	adv	ita	di fretta	adv
 RL	spa	de prisa	adv	ita	in fretta	adv
 	spa	de pura cepa	adv	ita	verace	$adv
@@ -13868,7 +13868,7 @@ RL	spa	después de todo	adv	ita	dopotutto	adv
 	spa	diametralmente	adv	ita	diametralmente	adv
 RL	spa	diariamente	adv	ita	giornalmente	adv
 LR	spa	diariamente	adv	ita	quotidianamente	adv
-	spa	diferentemente	adv	ita	diversamente	adv
+	spa	diferentemente	adv	ita	diversamente	adv$
 	spa	difusamente	adv	ita	diffusamente	adv
 	spa	difícil de creer	adv	ita	difficile da credere	adv
 	spa	difícilmente	adv	ita	difficilmente	adv
@@ -13885,7 +13885,7 @@ LR	spa	diariamente	adv	ita	quotidianamente	adv
 LR	spa	doquier	adv	ita	ovunque	adv
 	spa	dramáticamente	adv	ita	drammaticamente	adv
 	spa	drásticamente	adv	ita	drasticamente	adv
-	spa	dulcemente	adv	ita	dolcemente	adv
+	spa	dulcemente	adv	ita	dolcemente	adv$
 	spa	duramente	adv	ita	duramente	adv
 	spa	durante el invierno	adv	ita	durante l'inverno	adv
 	spa	durante el otoño	adv	ita	durante l'autunno	adv
@@ -13983,7 +13983,7 @@ RL	spa	enfrente	adv	ita	a fronte	adv
 	spa	frente a	adv	ita	di fronte a	adv
 	spa	enfáticamente	adv	ita	enfaticamente	adv
 	spa	enormemente	adv	ita	enormemente	adv
-	spa	enseguida	adv	ita	immediatamente	adv
+	spa	enseguida	adv	ita	immediatamente	adv$
 	spa	enteramente	adv	ita	interamente	adv
 LR	spa	entero	adv	ita	interamente	adv
 	spa	entonces	adv	ita	allora	adv$
@@ -14060,7 +14060,7 @@ RL	spa	expresamente	adv	ita	appositamente	adv
 	spa	filosóficamente	adv	ita	filosoficamente	adv
 RL	spa	finalmente	adv	ita	infine	adv
 	spa	finalmente	adv	ita	finalmente	adv
-RL	spa	finalmente	adv	ita	alla fine	adv$
+RL	spa	finalmente	adv	ita	alla fine	adv
 	spa	finamente	adv	ita	finemente	adv
 	spa	financieramente	adv	ita	finanziariamente	adv
 	spa	firmemente	adv	ita	fermamente	adv
@@ -14074,13 +14074,13 @@ RL	spa	finalmente	adv	ita	alla fine	adv$
 	spa	frenéticamente	adv	ita	freneticamente	adv
 	spa	frontalmente	adv	ita	frontalmente	adv
 	spa	fríamente	adv	ita	freddamente	adv
-	spa	fuera	adv	ita	fuori	adv
+	spa	fuera	adv	ita	fuori	adv$
 	spa	fuerte	adv	ita	forte	adv
 	spa	fuertemente	adv	ita	fortemente	adv
 	spa	fundamentalmente	adv	ita	fondamentalmente	adv
 RL	spa	furiosamente	adv	ita	rabbiosamente	adv
 	spa	furiosamente	adv	ita	furiosamente	adv
-	spa	fácilmente	adv	ita	facilmente	adv
+	spa	fácilmente	adv	ita	facilmente	adv$
 RL	spa	fácilmente	adv	ita	agevolmente	adv
 	spa	físicamente	adv	ita	fisicamente	adv
 	spa	generalmente	adv	ita	generalmente	adv
@@ -14178,7 +14178,7 @@ LR	spa	inherentemente	adv	ita	intrinsecamente	adv
 	spa	ininterrumpidamente	adv	ita	ininterrottamente	adv
 	spa	injustamente	adv	ita	ingiustamente	adv
 RL	spa	injustamente	adv	ita	indebitamente	adv
-LR	spa	inmediatamente	adv	ita	immediatamente	adv
+LR	spa	inmediatamente	adv	ita	immediatamente	adv$
 	spa	inmensamente	adv	ita	immensamente	adv
 	spa	inocentemente	adv	ita	innocentemente	adv
 	spa	instantáneamente	adv	ita	istantaneamente	adv
@@ -14224,11 +14224,11 @@ LR	spa	la noche pasada	adv	ita	la notte scorsa	adv
 	spa	lento	adv	ita	lento	adv
 	spa	levemente	adv	ita	lievemente	adv
 	spa	libremente	adv	ita	liberamente	adv
-	spa	ligeramente	adv	ita	leggermente	adv
+	spa	ligeramente	adv	ita	leggermente	adv$
 	spa	lingüísticamente	adv	ita	linguisticamente	adv
 LR	spa	lisa y llanamente	adv	ita	semplicemente	adv
 	spa	literalmente	adv	ita	letteralmente	adv
-LR	spa	livianamente	adv	ita	leggermente	adv
+LR	spa	livianamente	adv	ita	leggermente	adv$
 LR	spa	llenamente	adv	ita	pienamente	adv
 	spa	del todo	adv	ita	pienamente	adv
 	spa	localmente	adv	ita	localmente	adv
@@ -14264,7 +14264,7 @@ RL	spa	menos	adv	ita	di meno	adv
 RL	spa	menos	adv	ita	in meno	adv
 	spa	menos	adv	ita	meno	adv$
 	spa	mensualmente	adv	ita	mensilmente	adv
-	spa	mentalmente	adv	ita	mentalmente	adv
+	spa	mentalmente	adv	ita	mentalmente	adv$
 	spa	meramente	adv	ita	meramente	adv
 	spa	meticulosamente	adv	ita	meticolosamente	adv
 	spa	mientras	adv	ita	mentre	adv
@@ -14296,9 +14296,9 @@ RL	spa	mucho más	adv	ita	molto di più	adv
 	spa	mucho peor	adv	ita	molto peggio	adv
 	spa	musicalmente	adv	ita	musicalmente	adv
 	spa	mutuamente	adv	ita	mutuamente	adv
-RL	spa	mutuamente	adv	ita	a vicenda	adv$
+RL	spa	mutuamente	adv	ita	a vicenda	adv
 	spa	mágicamente	adv	ita	magicamente	adv
-RL	spa	más	adv	ita	in più	adv$
+RL	spa	más	adv	ita	in più	adv
 	spa	más	adv	ita	più	adv$
 LR	spa	más bien	adv	ita	piuttosto	adv
 RL	spa	más de	adv	ita	oltre	adv
@@ -14312,7 +14312,7 @@ RL	spa	más de	adv	ita	oltre	adv
 	spa	netamente	adv	ita	nettamente	adv
 	spa	ni siquiera	adv	ita	nemmeno	adv
 RL	spa	no	adv$	ita	no	adv
-	spa	no	adv$	ita	non	adv
+	spa	no	adv$	ita	non	$adv
 RL	spa	no obstante	adv	ita	tuttavia	adv
 	spa	no pocas veces	adv	ita	non poche volte	adv
 	spa	normalmente	adv	ita	normalmente	adv
@@ -14362,7 +14362,7 @@ RL	spa	pero	adv	ita	eppure	adv
 	spa	plenamente	adv	ita	pienamente	adv
 	spa	plenamente	adv	ita	appieno	adv
 	spa	pobremente	adv	ita	poveramente	adv
-	spa	poco	adv	ita	poco	adv$
+	spa	poco	adv	ita	poco	$adv
 	spa	poco a poco	adv	ita	poco a poco	adv
 	spa	poderosamente	adv	ita	poderosamente	adv
 	spa	políticamente	adv	ita	politicamente	adv
@@ -14410,9 +14410,9 @@ RL	spa	por otro lado	adv	ita	d'altro canto	adv
 LR	spa	por supuesto	adv	ita	ovviamente	adv
 	spa	por todas partes	adv	ita	da tutte le parti	adv
 RL	spa	por todas partes	adv	ita	dovunque	adv
-	spa	por un lado	adv	ita	da un lato	adv$
+	spa	por un lado	adv	ita	da un lato	adv
 LR	spa	por último	adv	ita	infine	adv
-	spa	posiblemente	adv	ita	possibilmente	adv
+	spa	posiblemente	adv	ita	possibilmente	adv$
 	spa	positivamente	adv	ita	positivamente	adv
 	spa	posteriormente	adv	ita	posteriormente	adv
 	spa	potencialmente	adv	ita	potenzialmente	adv
@@ -14507,7 +14507,7 @@ RL	spa	seriamente	adv	ita	con serietà	adv
 	spa	severamente	adv	ita	severamente	adv
 	spa	en paz	adv	ita	serenamente	adv
 	spa	satisfactoriamente	adv	ita	con successo	adv
-	spa	sexualmente	adv	ita	sessualmente	adv
+	spa	sexualmente	adv	ita	sessualmente	adv$
 	spa	si bien	adv	ita	benché	$adv
 	spa	siempre	adv	ita	sempre	adv
 RL	spa	siempre que	adv	ita	qualora	adv
@@ -14556,7 +14556,7 @@ RL	spa	también	adv	ita	pure	adv
 	spa	tan sólo	adv	ita	soltanto	adv$
 	spa	tanto	adv	ita	tanto	adv$
 	spa	tarde	adv	ita	tardi	adv$
-RL	spa	tarde	adv	ita	in ritardo	adv$
+RL	spa	tarde	adv	ita	in ritardo	adv
 	spa	tecnológicamente	adv	ita	tecnologicamente	adv
 	spa	telefónicamente	adv	ita	telefonicamente	adv
 	spa	temporalmente	adv	ita	temporalmente	adv
@@ -14616,7 +14616,7 @@ LR	spa	verdaderamente	adv	ita	veramente	adv
 	spa	íntimamente	adv	ita	intimamente	adv
 	spa	últimamente	adv	ita	ultimamente	adv
 	spa	únicamente	adv	ita	unicamente	adv$
-	spa	a	pr$pr-det-def-m-sg	ita	a	pr
+	spa	a	pr$pr-det-def-m-sg	ita	a	pr$
 	spa	a la espera de	pr	ita	in attesa di	pr
 	spa	a la búsqueda de	pr	ita	in cerca di	pr
 	spa	a la vista de	pr	ita	alla vista di	pr
@@ -14636,15 +14636,15 @@ RL	spa	ante	pr	ita	davanti a	pr
 	spa	bajo	pr	ita	sotto	pr$
 	spa	cerca de	pr	ita	vicino a	pr
 RL	spa	cerca de	pr	ita	vicino	pr
-	spa	como	pr	ita	come	pr
-	spa	con	pr	ita	con	pr
+	spa	como	pr	ita	come	pr$
+	spa	con	pr	ita	con	pr$
 	spa	con la finalidad de	pr	ita	finalizzato a	pr
 LR	spa	con respecto a	pr	ita	per quanto riguarda	pr
 	spa	contra	pr	ita	contro	pr
 	spa	compitiendo con	pr	ita	in gara con	pr
-	spa	de	pr$pr-det-def-m-sg	ita	di	pr
-RL	spa	de	pr$pr-det-def-m-sg	ita	da	pr
-	spa	de	pr$pr-det-def-m-sg	ita	di	pr
+	spa	de	pr$pr-det-def-m-sg	ita	di	$pr
+RL	spa	de	pr$pr-det-def-m-sg	ita	da	pr$
+	spa	de	pr$pr-det-def-m-sg	ita	di	$pr
 LR	spa	de que	pr	ita	che	pr
 LR	spa	debajo de	pr	ita	sotto	pr$
 RL	spa	delante de	pr	ita	dinanzi a	pr
@@ -14656,7 +14656,7 @@ RL	spa	dentro de	pr	ita	dentro di	pr
 RL	spa	dentro de	pr	ita	entro	pr
 RL	spa	dentro	adv	ita	al coperto	adv
 LR	spa	al pie de la letra	adv	ita	alla lettera	adv
-LR	spa	desde	pr	ita	da	pr
+LR	spa	desde	pr	ita	da	pr$
 	spa	después de	pr	ita	dopo	pr
 	spa	detrás de	pr	ita	dietro	pr
 	spa	durante	pr	ita	durante	pr
@@ -14673,7 +14673,7 @@ RL	spa	excepto	pr$	ita	eccetto	pr
 	spa	fuera de	pr	ita	fuori	pr
 RL	spa	fuera de	pr	ita	fuori di	pr
 RL	spa	hacia	pr	ita	verso	pr
-LR	spa	hacia	pr	ita	per	pr
+LR	spa	hacia	pr	ita	per	pr$
 	spa	hasta	pr	ita	fino	pr
 	spa	junto a	pr	ita	accanto a	pr
 RL	spa	junto a	pr	ita	assieme a	pr
@@ -14682,8 +14682,8 @@ RL	spa	junto a	pr	ita	assieme a	pr
 RL	spa	más allá de	pr	ita	al di fuori da	pr
 	spa	más allá de	pr	ita	oltre	pr
 	spa	adicionalmente a	pr	ita	oltre a	pr
-	spa	para	pr	ita	per	pr
-LR	spa	por	pr	ita	per	pr
+	spa	para	pr	ita	per	pr$
+LR	spa	por	pr	ita	per	pr$
 LR	spa	por encima de	pr	ita	sopra	pr$
 	spa	por medio de	pr	ita	tramite	pr
 	spa	por otros	pr	ita	per altri	pr
@@ -14696,7 +14696,7 @@ LR	spa	por encima de	pr	ita	sopra	pr$
 	spa	propiciados	pr	ita	portati a	pr
 	spa	propiciados por	pr	ita	portati da	pr
 	spa	según	pr$	ita	secondo	pr$
-	spa	sin	pr	ita	senza	pr$
+	spa	sin	pr	ita	senza	$pr
 	spa	sobre	pr	ita	su	pr
 RL	spa	sobre	pr	ita	sopra	pr$
 LR	spa	tras	pr	ita	dopo	pr
@@ -14994,7 +14994,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Endlein	np-ant	ita	Endlein	np-cog-mf-sp
 	spa	Erkoreka	np$np-ant	ita	Erkoreka	np-cog-mf-sp
 	spa	Espanyol	np	ita	Espanyol	np$np-al-m
-	spa	Estado	np$np-al	ita	Stato	np-al-m-sg
+	spa	Estado	np-al$np	ita	Stato	np-al-m-sg
 	spa	Estévez	np-ant	ita	Estévez	np-cog-mf-sp$np
 	spa	Etosa	np	ita	Etosa	np
 	spa	Etxeberria	np$np-ant	ita	Etxeberria	np-cog-mf-sp$np
@@ -15325,7 +15325,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Paisley	np$np-ant	ita	Paisley	np-cog-mf-sp$np
 	spa	Palin	np-ant	ita	Palin	np-cog-mf-sp
 	spa	Pallerols	np-ant	ita	Pallerols	np-cog-mf-sp
-	spa	Pamesa	np	ita	Pamesa	np$np-al-m
+	spa	Pamesa	np$np-al	ita	Pamesa	np$np-al-m
 	spa	Panara	np-ant	ita	Panara	np-cog-mf-sp
 	spa	Parker	np$np-ant	ita	Parker	np-cog-mf-sp$np$np-cog-mf
 	spa	Parrish	np-ant	ita	Parrish	np-cog-mf-sp
@@ -15382,10 +15382,10 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Rossell	np$np-cog	ita	Rossell	np$np-ant
 	spa	Rourke	np-ant	ita	Rourke	np-cog-mf-sp
 	spa	Rubalcaba	np$np-ant	ita	Rubalcaba	np-cog-mf-sp$np
-	spa	Ruiz	np-ant	ita	Ruiz	np-cog-mf-sp$np$np-cog
+	spa	Ruiz	np$np-ant	ita	Ruiz	np-cog-mf-sp$np$np-cog
 	spa	Rumsfeld	np$np-ant	ita	Rumsfeld	np-cog-mf-sp$np
 	spa	Russel	np$np-ant	ita	Russel	np-cog-mf-sp$np
-	spa	San	np$np-ant	ita	San	np$np-ant-m
+	spa	San	np$np-loc	ita	San	np$np-ant-m
 	spa	Sanchez	np-ant	ita	Sanchez	np-cog-mf-sp$np$np-cog
 	spa	Santarella	np-ant	ita	Santarella	np-cog-mf-sp
 	spa	Sarkozy	np-ant	ita	Sarkozy	np-cog-mf-sp$np
@@ -15660,7 +15660,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Caracas	np$np-loc$np-loc-f	ita	Caracas	np-loc-m$np$np-loc$np-loc-m-sg
 	spa	Carl	np-ant$np	ita	Carl	np-ant$np-ant-m$np-ant-m-sg
 	spa	Carlos	np$np-ant$np-ant-m-sg	ita	Carlo	np-ant-m$np-ant$np-ant-m-sg
-	spa	Carmen	np$np-ant$np-ant-f-sg	ita	Carmen	np-ant$np-ant-f$np$np-ant-f-sg
+	spa	Carmen	np-ant$np$np-ant-f-sg	ita	Carmen	np-ant$np-ant-f$np$np-ant-f-sg
 	spa	Carme	np$np-ant	ita	Carme	np$np-ant$np-ant-f$np-ant-f-sg
 	spa	Carolina	np$np-ant$np-ant-f-sg	ita	Carolina	np-ant$np-ant-f$np$np-ant-f-sg
 	spa	Carrefour	np-ant	ita	Carrefour	np-al-m-sg$np$np-al-m
@@ -15691,7 +15691,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Chuck	np-ant$np	ita	Chuck	np-ant-m$np-ant-m-sg
 	spa	Chueca	np-loc$np-loc-f	ita	Chueca	np-loc-m$np$np-loc-m-sg
 	spa	Cisjordania	np$np-loc$np-loc-f	ita	Cisgiordania	np-loc-f-sg
-	spa	Claudio	np$np-ant	ita	Claudio	np-ant$np$np-ant-m$np-ant-m-sg
+	spa	Claudio	np-ant$np	ita	Claudio	np-ant$np$np-ant-m$np-ant-m-sg
 	spa	Cofrentes	np$np-loc$np-loc-f	ita	Cofrentes	np-loc-m$np$np-loc$np-loc-m-sg
 	spa	Colmenar	np$np-loc$np-loc-f	ita	Colmenar	np-loc-m$np$np-loc$np-loc-m-sg
 	spa	Colombia	np-loc$np-loc-f	ita	Colombia	np-loc-f$np-loc-f-sg$np$np-loc
@@ -15828,7 +15828,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Guatemala	np-loc-f$np-loc	ita	Guatemala	np-loc-m$np-loc-m-sg$np
 	spa	Guillena	np$np-loc$np-loc-f	ita	Guillena	np-loc-m$np$np-loc-m-sg
 	spa	Guillermo	np$np-ant$np-ant-m-sg	ita	Guillermo	np-ant-m-sg$np-ant$np-ant-m
-	spa	Guinea	np-loc$np-loc-f	ita	Guinea	np-loc-f-sg
+	spa	Guinea	np$np-loc$np-loc-f	ita	Guinea	np-loc-f-sg
 	spa	Guipúzcoa	np$np-loc$np-loc-f	ita	Guipúzcoa	np-loc-m$np$np-loc-m-sg
 	spa	Génova	np$np-loc$np-loc-f	ita	Genova	np-loc-f-sg
 	spa	Haití	np$np-loc$np-loc-m	ita	Haiti	np-loc-m$np-loc-m-sg$np$np-loc
@@ -15958,7 +15958,7 @@ RL	spa	Antártida	np$np-loc$np-loc-f	ita	Antartico	np
 	spa	Marcello	np-ant$np	ita	Marcello	np-ant$np-ant-m$np-ant-m-sg
 	spa	Marcelo	np$np-ant	ita	Marcelo	np-ant$np-ant-m-sg
 	spa	Mariana	np$np-ant$np-ant-f-sg	ita	Mariana	np-ant$np-ant-f$np-ant-f-sg
-	spa	Maria	np-ant$np	ita	Maria	np-ant$np-ant-f$np-ant-f-sg$np
+	spa	Maria	np$np-ant	ita	Maria	np-ant$np-ant-f$np-ant-f-sg$np
 	spa	María	np$np-ant$np-ant-f-sg$np-ant-f	ita	María	np-ant-f-sg$np-ant$np-ant-f
 	spa	Mari	np$np-ant$np-ant-f	ita	Mari	np-ant$np-ant-f$np$np-ant-f-sg
 	spa	Mario	np$np-ant$np-ant-m-sg	ita	Mario	np-ant-m-sg$np-ant$np-ant-m
@@ -16293,10 +16293,10 @@ RL	spa	buenas noches	ij	ita	buona notte	ij
 	spa	por favor	ij	ita	per favore	ij
 	spa	de nada	ij	ita	prego	ij
 LR	spa	adonde	rel$rel-adv	ita	dove	rel$rel-adv
-	spa	como	rel$rel-adv	ita	come	rel$rel-adv
+	spa	como	rel	ita	come	rel$rel-adv
 LR	spa	cual	rel-adv	ita	come	rel$rel-adv
 	spa	cuando	rel$rel-adv	ita	quando	rel-adv$rel
-	spa	cuanto	rel$rel-adv$	ita	quanto	rel$rel-nn-m$rel-nn
+	spa	cuanto	rel$rel-nn$rel-nn-m-sg	ita	quanto	rel$rel-nn-m$rel-nn
 	spa	cuyo	rel$rel-aa-m-sg$rel-aa	ita	il cui	rel$rel-aa-GD-ND$rel-aa
 RL	spa	cuyo	rel$rel-aa-m-sg$rel-aa	ita	cui	rel$rel-an-mf-sp$rel-an-mf
 	spa	donde	rel$rel-adv	ita	dove	rel$rel-adv

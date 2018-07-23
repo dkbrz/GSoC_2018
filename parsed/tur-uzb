@@ -1032,7 +1032,7 @@
 	tur	silah	n$	uzb	qurol	n
 	tur	mal	n$	uzb	mol	n
 	tur	sığır	n$	uzb	mol	n
-	tur	dindar	n$	uzb		n
+	tur	dindar	n	uzb		n
 	tur	gibi	n	uzb	kabi	n
 	tur	ressam	n$	uzb	rassom	n
 	tur	tuz	n$	uzb	tuz	n
@@ -1168,7 +1168,7 @@
 	tur	su	n$	uzb	shu	n
 	tur	anit	n	uzb	yodgorlik	n
 	tur	roman	n$	uzb	roman	n
-	tur	ata	n	uzb	ajdod	n
+	tur	ata	n$	uzb	ajdod	n
 	tur	harita	n$	uzb	harita	n
 	tur	saray	n$	uzb	saroy	n
 	tur	kaynak	n$	uzb	resurs	n
@@ -2032,7 +2032,7 @@
 	tur	Sibirya	np-top$np	uzb	Sibir	np
 	tur	Kafkasya	np$np-top	uzb	Kavkaz	np
 	tur	Brazilya	np	uzb	Braziliya	np$np-top
-	tur	Maveraünnehir	np	uzb	Movarounnahr	np
+	tur	Maveraünnehir	np$np-top	uzb	Movarounnahr	np
 	tur	Polonya	np-top$np	uzb	Polsha	np
 	tur	Pakistan	np-top$np	uzb	Pokiston	np
 	tur	Kore	np-top$np	uzb	Kore	np
@@ -2143,8 +2143,8 @@
 	tur	onlar	prn-pers$prn-pers-p3-pl	uzb	ular	prn-pers-p3-pl
 	tur	o	prn-dem$prn-dem-loc	uzb	u	prn-dem
 	tur	kendi	prn-ref$prn$$prn-ref-px3sp	uzb	o'z	prn-ref
-	tur	şu	prn-dem$prn-dem-dat	uzb	shu	prn-dem
-	tur	bu	prn-dem$prn-dem-abl$prn	uzb	bu	prn-dem
+	tur	şu	prn-dem	uzb	shu	prn-dem
+	tur	bu	prn-dem$prn	uzb	bu	prn-dem
 	tur	hangi	prn-itg$prn$prn-itg-abl	uzb	qaysi	prn-itg
 	tur	o	prn-dem$prn-dem-loc	uzb	o	prn-dem
 	tur	mağlup et	v-tv	uzb	mag'lub et	v-tv
@@ -2229,7 +2229,7 @@
 	tur	kaz	v-tv$$v	uzb	qaz	v-tv
 	tur	çiz	v-tv$v	uzb	chiz	v-tv
 	tur	özellestir	v-tv	uzb	ixtisoslashtir	v-tv
-	tur	ata	v-tv$$v	uzb	ata	v-tv
+	tur	ata	v-tv$v	uzb	ata	v-tv
 	tur	birlestir	v-tv	uzb	birlashtir	v-tv
 	tur	ek	v-tv$v	uzb	ek	v-tv
 	tur	topla	v-tv$$v	uzb	ter	v-tv
@@ -3090,7 +3090,7 @@
 	tur	divan	n$	uzb	devon	n
 	tur	şiirler toplamı	n	uzb	devon	n
 	tur	çap	n$	uzb	diametr	n
-	tur	dindar	n$	uzb	dindor	n
+	tur	dindar	n	uzb	dindor	n
 	tur	mü'min	n	uzb	dindor	n
 	tur	hep	n	uzb	doimo	n
 	tur	mütemadiyen	n	uzb	doimo	n

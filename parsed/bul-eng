@@ -9,7 +9,7 @@ LR	bul	а	part	eng		$num$num-ord$num-ord-m-sg
 	bul	во текот на	pr	eng	during	pr
 	bul	помеѓу	pr	eng	between	pr
 	bul	на	pr	eng	on	pr
-	bul	на	pr	eng	of	pr
+	bul	на	pr	eng	of	pr$
 	bul	на	pr	eng	at	pr
 	bul	на	pr	eng	in	pr
 	bul	на	pr	eng	to	pr
@@ -23,7 +23,7 @@ LR	bul	а	part	eng		$num$num-ord$num-ord-m-sg
 	bul	до	pr	eng	until	pr
 	bul	за	pr	eng	by	pr
 	bul	за	pr	eng	in	pr
-	bul	за	pr	eng	of	pr
+	bul	за	pr	eng	of	pr$
 	bul	вон	pr	eng	outside	pr
 	bul	вон	pr	eng	over	pr$
 	bul	низ	pr	eng	through	pr
@@ -37,12 +37,12 @@ LR	bul	а	part	eng		$num$num-ord$num-ord-m-sg
 	bul	от	pr	eng	from	pr
 	bul	от	pr	eng	out of	pr
 	bul	от	pr	eng	off	pr
-	bul	от	pr	eng	of	pr
+	bul	от	pr	eng	of	pr$
 	bul	от	pr	eng	by	pr
 	bul	от	pr	eng	than	pr
 	bul	со	pr	eng	with	pr$
 	bul	со	pr	eng	by means of	pr
-	bul	со	pr	eng	of	pr
+	bul	со	pr	eng	of	pr$
 	bul	со	pr	eng	for	pr
 	bul	со	pr	eng	in	pr
 	bul	со	pr	eng	by	pr
@@ -205,9 +205,9 @@ RL	bul	никој	prn-neg-GD-sg	eng	no one	prn$prn-ind-mf$prn-ind-mf-sg$prn-ind
 	bul	секој	prn-tot$prn-tot-m-sg	eng	everything	prn-ind-mf-sg
 	bul	секој	prn-tot$prn-tot-m-sg	eng	anything	prn-ind-mf$prn-ind$prn-ind-mf-sg
 	bul	неколку	prn-ind-ind	eng	several	prn-ind-mf-pl$prn
-	bul	неколку	prn-ind	eng	a few	det-qnt-pl$det$det-qnt
+	bul	неколку	prn-ind	eng	a few	det$det-qnt$det-qnt-pl
 LR	bul	неколцина	prn-ind-ind	eng	several	prn-ind-mf-pl$prn
-LR	bul	неколцина	prn-ind	eng	a few	det-qnt-pl$det$det-qnt
+LR	bul	неколцина	prn-ind	eng	a few	det$det-qnt$det-qnt-pl
 	bul	некаков	prn-ind	eng	some	prn-ind-mf-pl$prn-ind
 	bul	што	prn-itg	eng	what	prn-itg-mf-sp$prn-itg-mf
 	bul	поради што	prn-itg	eng	which	prn-itg-mf-sp
@@ -355,7 +355,7 @@ LR	bul	деветстотини	num	eng	nine hundredth	adj-ord
 	bul	закон	n-m	eng	law	n$n-sg
 	bul	устав	n-m	eng	constitution	n$n-ND
 	bul	корен	n-m	eng	root	n$n-sg
-	bul	дрога	n-f	eng	drug	n$n-ND
+	bul	дрога	n-f	eng	drug	n$n-sg
 	bul	трговија	n-f	eng	trade	n$n-sg
 	bul	фотографија	n-f	eng	photograph	n$n-ND
 	bul	станица	n-f	eng	station	n$n-sg
@@ -923,7 +923,7 @@ LR	bul	куќа	n-f	eng	house	n$n-sg
 	bul	граница	n-f	eng	border	n$n-ND
 	bul	граница	n-f	eng	limit	n$n-ND
 	bul	граница	n-f	eng	boundary	n$n-ND
-	bul	грип	n-m	eng	flu	n$n-ND
+	bul	грип	n-m	eng	flu	n$n-sg
 	bul	грк	n-m	eng	Greek	n$n-ND
 	bul	гробница	n-f	eng	grave	n$n-sg
 	bul	група	n-f	eng	group	n$n-sg
@@ -1474,7 +1474,7 @@ LR	bul	куќа	n-f	eng	house	n$n-sg
 	bul	легализација	n-f	eng	legalisation	n
 	bul	легислатива	n-f	eng	legislation	n$n-ND
 	bul	легитимност	n-f	eng	legitimacy	n$n-ND
-	bul	лек	n-m	eng	drug	n$n-ND
+	bul	лек	n-m	eng	drug	n$n-sg
 	bul	лек	n-m	eng	medicine	n$n-ND
 	bul	лек	n-m	eng	remedy	n$n-ND
 	bul	лекар	n-m	eng	doctor	n$n-ND
@@ -2399,7 +2399,7 @@ LR	bul	куќа	n-f	eng	house	n$n-sg
 	bul	татко	n-m	eng	father	n$n-sg
 	bul	тврдење	n-nt	eng	claim	n$n-ND
 	bul	театар	n-m	eng	theatre	n$n-ND
-	bul	тек	n-m	eng	run	n$n-ND
+	bul	тек	n-m	eng	run	n$n-sg
 	bul	текст	n-m	eng	text	n$n-ND
 	bul	телевизија	n-f	eng	television	n$n-ND
 	bul	телеком	n-m	eng	telecom	n
@@ -2729,7 +2729,7 @@ LR	bul	куќа	n-f	eng	house	n$n-sg
 	bul	снег	n-m	eng	snow	n$n-ND
 	bul	снимање	n-nt	eng	shooting	n$n-ND
 	bul	сок	n-m	eng	juice	n$n-ND
-	bul	сол	n-f	eng	salt	n$n-ND
+	bul	сол	n-f	eng	salt	n$n-sg
 	bul	соседство	n-nt	eng	neighbourhood	n$n-sg
 	bul	спасување	n-nt	eng	rescue	n$n-ND
 	bul	спонзорство	n-nt	eng	sponsorship	n
@@ -2954,9 +2954,9 @@ LR	bul	куќа	n-f	eng	house	n$n-sg
 	bul	отцепување	n-nt	eng	secession	n
 	bul	отцепување	n-nt	eng	separation	n$n-ND
 	bul	охрабрување	n-nt	eng	encouragement	n$n-ND
-	bul	патување	n-nt	eng	travel	n$n-ND
+	bul	патување	n-nt	eng	travel	n$n-sg
 	bul	патување	n-nt	eng	journey	n$n-ND
-	bul	патување	n-nt	eng	travel time	n$n-sg
+	bul	патување	n-nt	eng	travel time	n
 	bul	патување	n-nt	eng	trip	n$n-ND
 	bul	пензионирање	n-nt	eng	retirement	n$n-ND
 	bul	пиење	n-nt	eng	drinking	n$n-unc
@@ -3894,7 +3894,7 @@ LR	bul	куќа	n-f	eng	house	n$n-sg
 	bul	Београд	np-top-m	eng	Belgrade	np-top-m$np-top$np
 	bul	Берлин	np-top-m	eng	Berlin	np-top-m
 	bul	Благоевград	np-top-m	eng	Blagoevgrad	np-top-m
-	bul	Босна	np-top-f	eng	Bosnia	np-top$np$np-top-f
+	bul	Босна	np-top-f	eng	Bosnia	np-top-f
 	bul	Ботевград	np-top-m	eng	Botevgrad	np-top-m
 	bul	Бразил	np-top-m	eng	Brazil	np-top-m
 	bul	Брисел	np-top-m	eng	Brussels	np-top-m
@@ -3903,7 +3903,7 @@ LR	bul	куќа	n-f	eng	house	n$n-sg
 	bul	Букурешт	np-top-m	eng	Bucharest	np-top-m
 	bul	Бургас	np-top-m	eng	Burgas	np-top-m
 	bul	Варна	np-top-f	eng	Varna	np-top-f
-	bul	Ватикан	np-top-m	eng	Vatican City	np-top$np-top-m$np$np-top-m-sg
+	bul	Ватикан	np-top-m	eng	Vatican City	np-top$np-top-m$np
 	bul	Вашингтон	np-top-m	eng	Washington	np-top$np-top-m$np
 	bul	Велика Британија	np-top-f	eng	United Kingdom	np-top$np-top-f$np
 	bul	Велико Трново	np-top-nt	eng	Veliko Tarnovo	np-top-nt
@@ -4021,7 +4021,7 @@ LR	bul	куќа	n-f	eng	house	n$n-sg
 	bul	Херцеговина	np-top-f	eng	Herzegovina	np-top-f$np
 	bul	Холандија	np-top-f	eng	Netherlands	np-top-f
 	bul	Хрватска	np-top-f	eng	Croatia	np-top$np$np-top-f
-	bul	Чешка	np-top-f	eng	Czech Republic	np-top-f
+	bul	Чешка	np-top-f	eng	Czech Republic	np-top$np$np-top-f
 	bul	Швајцарија	np-top-f	eng	Switzerland	np-top-f
 	bul	Шпанија	np-top-f	eng	Spain	np-top-f
 	bul	Шумен	np-top-m	eng	Shumen	np-top-m
@@ -4044,7 +4044,7 @@ LR	bul	куќа	n-f	eng	house	n$n-sg
 	bul	Карнобат	np-top-m	eng	Karnobat	np-top
 	bul	Марија	np-ant-f	eng	Marija	np-ant-f$np
 	bul	Лабина	np-ant-f	eng	Labina	np-ant-f
-	bul	Џоана	np-ant-f	eng	Joana	np-ant$np-ant-f$np$np-ant-f-sg
+	bul	Џоана	np-ant-f	eng	Joana	np-ant$np-ant-f$np-ant-f-sg$np
 	bul	Ана	np-ant-f	eng	Ana	np-ant$np-ant-f$np$np-ant-f-sg
 	bul	Бет	np-ant-f	eng	Bet	np-ant-f
 	bul	Педи	np-ant-f	eng	Paddy	np-ant$np-ant-m$np$np-ant-m-sg
@@ -4112,7 +4112,7 @@ LR	bul	куќа	n-f	eng	house	n$n-sg
 	bul	Едуард	np-ant-m	eng	Eduard	np$np-ant$np-ant-m$np-ant-m-sg
 	bul	Емил	np-ant-m	eng	Emil	np-ant$np-ant-m$np-ant-m-sg$np
 	bul	Жак	np-ant-m	eng	Jacques	np-ant$np-ant-m$np$np-ant-m-sg
-	bul	Жан	np-ant-m	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg
+	bul	Жан	np-ant-m	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m
 	bul	Жељко	np-ant-m	eng	Željko	np-ant-m
 	bul	Жозе	np-ant-m	eng	Jose	np-ant$np-ant-m$np-ant-m-sg$np
 	bul	Зоран	np-ant-m	eng	Zoran	np-ant-m$np
@@ -6355,7 +6355,7 @@ LR	bul	меѓународен	adj	eng	international	adj
 	bul	далечен	adj	eng	distant	adj
 	bul	далечен	adj	eng	remote	adj
 	bul	далматински	adj	eng	Dalmatian	adj
-	bul	даночен	adj	eng	tax	adj
+	bul	даночен	adj	eng	tax	adj$adj-sint
 	bul	дански	adj	eng	Danish	adj
 	bul	дводневен	adj	eng	two-day	adj
 	bul	дводневен	adj	eng	bicameral	adj
@@ -7143,7 +7143,7 @@ LR	bul	меѓународен	adj	eng	international	adj
 	bul	синдикатски	adj	eng	trade-union	adj
 	bul	сиријски	adj	eng	Syrian	adj
 	bul	систематски	adj	eng	systematic	adj
-	bul	сите	adj	eng	all	adj$
+	bul	сите	adj	eng	all	adj
 	bul	ситен	adj	eng	small	adj-sint$adj
 	bul	ситен	adj	eng	minute	adj
 	bul	ситен	adj	eng	lesser	adj
@@ -10216,7 +10216,7 @@ LR	bul	зам	abbr	eng		$num$num-ord$num-ord-m-sg
 LR	bul	ул	abbr	eng		$num$num-ord$num-ord-m-sg
 LR	bul	год	abbr	eng		$num$num-ord$num-ord-m-sg
 	bul	св	abbr	eng	St	abbr
-	bul	др	abbr	eng	Dr	abbr$
+	bul	др	abbr	eng	Dr	$abbr
 LR	bul	сем	abbr	eng		$num$num-ord$num-ord-m-sg
 	bul	да	ij	eng	yes	ij
 	bul	ете	ij	eng	just	ij
@@ -10232,7 +10232,7 @@ LR	bul	сем	abbr	eng		$num$num-ord$num-ord-m-sg
 	bul		num$num-ord	eng		$num$num-ord$num-ord-m-sg
 	bul	 г.	num	eng		$num$num-ord$num-ord-m-sg
 	bul	 година	num	eng		$num$num-ord$num-ord-m-sg
-	bul	 г. п.н.е	num	eng	 BCE	num$num-sg
+	bul	 г. п.н.е	num	eng	 BCE	num
 	bul	-ти	num	eng	s	num
 	bul	-ти години	num	eng	s	num
 	bul		num$num-ord	eng		$num$num-ord$num-ord-m-sg

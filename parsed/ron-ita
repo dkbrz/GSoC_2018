@@ -46,9 +46,9 @@
 	ron	Dacia	np$np-al	ita	Dacia	np$np-ant
 	ron	Damasc	np$np-loc	ita	Damasco	np-loc-m$np$np-loc$np-loc-m-sg
 	ron	Danemarca	np$np-loc	ita	Danimarca	np-loc-f$np$np-loc-f-sg$np-loc
-	ron	Disney	np$np-al	ita	Disney	np-cog-mf-sp$np$np-cog
+	ron	Disney	np$$np-al$np-al-m	ita	Disney	np-cog-mf-sp$np$np-cog
 	ron	Dublin	np$np-loc	ita	Dublino	np-loc-m$np$np-loc$np-loc-m-sg
-	ron	Dumnezeu	np-al$np	ita	Dio	np$np-ant
+	ron	Dumnezeu	np$np-al	ita	Dio	np$np-ant
 	ron	Egipt	np$np-loc	ita	Egitto	np$np-loc-m$np-loc-m-sg$np-loc
 	ron	Elveția	np$np-loc	ita	Svizzera	np-loc-f$np$np-loc-f-sg$np-loc
 	ron	Estonia	np$np-loc	ita	Estonia	np-loc-f$np$np-loc-f-sg$np-loc
@@ -57,7 +57,7 @@
 	ron	FMI	n-acr-nt$n	ita	Fmi	n
 	ron	Finlanda	np$np-loc	ita	Finlandia	np-loc-f$np$np-loc-f-sg$np-loc
 	ron	Florida	np$np-loc	ita	Florida	np-loc-m$np
-	ron	Ford	np$np-al-nt	ita	Ford	np-cog-mf-sp$np$np-cog$np-cog-mf
+	ron	Ford	np$np-al-nt$np-al-nt-sg	ita	Ford	np-cog-mf-sp$np$np-cog$np-cog-mf
 	ron	Franța	np$np-loc	ita	Francia	np-loc-f$np$np-loc-f-sg$np-loc
 	ron	Galicia	np$np-loc	ita	Galizia	np-loc-m$np
 	ron	Georgia	np$$np-loc	ita	Georgia	np-loc-m$np
@@ -115,7 +115,7 @@
 	ron	PIB	n$n-acr-nt-sg	ita	Pil	n
 	ron	Pakistan	np$np-loc	ita	Pakistan	np-loc-m$np$np-loc-m-sg$np-loc
 	ron	Paris	np$np-loc	ita	Parigi	np-loc-m$np$np-loc$np-loc-m-sg
-	ron	Poliție	np-al$np	ita	Polizia	np$np-al-f-sg
+	ron	Poliție	np$np-al	ita	Polizia	np$np-al-f-sg
 	ron	Polonia	np$np-loc	ita	Polonia	np-loc-f$np$np-loc-f-sg$np-loc
 	ron	Portugalia	np$np-loc-f-sg	ita	Portogallo	np-loc-m$np$np-loc-m-sg$np-loc
 	ron	Roma	np$$np-loc	ita	Roma	np-loc-f$np$np-loc$np-loc-f-sg
@@ -154,7 +154,7 @@
 	ron	Viena	np$np-loc	ita	Vienna	np-loc-m$np$np-loc
 	ron	Vietnam	np$np-loc	ita	Vietnam	np-loc-m$np$np-loc-m-sg$np-loc
 	ron	Washington	np$np-loc	ita	Washington	np-loc-m$np$np-loc-m-sg$np-loc
-	ron	Wikipedia	np$np-al	ita	Wikipedia	np$np-ant
+	ron	Wikipedia	np$np-al$np-al-f-sg	ita	Wikipedia	np$np-ant
 	ron	X	num$$num-mf-pl	ita	X	num$num-mf-sp
 	ron	XI	num$$num-mf-pl	ita	XI	num$num-mf-sp
 	ron	XII	num$$num-mf-pl	ita	XII	num$num-mf-sp
@@ -167,17 +167,17 @@
 	ron	XVIII	num$$num-mf-pl	ita	XVIII	num$num-mf-sp
 	ron	XX	num$$num-mf-pl	ita	XX	num$num-mf-sp
 	ron	XXI	num$$num-mf-pl	ita	XXI	num$num-mf-sp
-	ron	a	pr	ita	a	pr
+	ron	a	pr	ita	a	pr$
 	ron	a doua zi	adv	ita	il giorno seguente	adv
 	ron	a doua zi	adv	ita	il giorno successivo	adv
 	ron	a doua zi	adv	ita	il giorno dopo	adv
 	ron	a posteriori	adv	ita	a posteriori	adv
 	ron	a priori	adv	ita	a priori	adv
-	ron	abac	n$n-nt	ita	abaco	n$n-m
-	ron	abandon	n$n-nt	ita	abbandono	n-m$n
+	ron	abac	n-nt$n	ita	abaco	n$n-m
+	ron	abandon	n-nt$n	ita	abbandono	n-m$n
 	ron	abandona	vblex	ita	abbandonare	$vblex
 	ron	abandonare	n-f$n	ita	abbandono	n-f
-	ron	abanos	n	ita	ebano	n$n-m
+	ron	abanos	n$n-m	ita	ebano	n$n-m
 	ron	abate	vblex	ita	abbattere	$vblex
 	ron	abator	n-nt$n	ita	mattatoio	n-m$n
 	ron	abces	n-nt$n	ita	ascesso	n$n-m
@@ -190,7 +190,7 @@ LR	ron	abdominal	adj-m-pl$$adj	ita	addominale	adj-m
 	ron	abdominal	adj-f-sg	ita	addominale	adj-f
 	ron	abecedar	n-nt$n	ita	abbecedario	n$n-m
 	ron	aberație	n$n-f	ita	aberrazione	n$n-f
-	ron	abia	adv	ita	appena	adv
+	ron	abia	adv	ita	appena	adv$
 	ron	abil	adj$adj-mf$	ita	abile	$adj$adj-mf
 LR	ron	abil	adj-m-pl	ita	abile	adj-m
 	ron	abil	adj-f-sg	ita	abile	adj-f
@@ -201,7 +201,7 @@ LR	ron	abil	adj-m-pl	ita	abile	adj-m
 	ron	abnegație	n$n-f	ita	abnegazione	n$n-f
 	ron	aboli	vblex	ita	abolire	$vblex
 	ron	abolire	n$n-f	ita	abolizione	n-f$n
-	ron	abonament	n$n-nt	ita	buono	n-m$n
+	ron	abonament	n-nt$n	ita	buono	n-m$n
 	ron	abonat	n	ita	abbonato	n$$n-GD
 	ron	aborda	vblex	ita	sollevare	$vblex
 	ron	abrevia	vblex	ita	abbreviare	$vblex
@@ -211,8 +211,8 @@ LR	ron	abil	adj-m-pl	ita	abile	adj-m
 	ron	absolut	adj	ita	assoluto	$adj$adj-sup
 	ron	absolut	adv$	ita	assolutamente	adv
 	ron	absolutism	n$n-nt	ita	assolutismo	n$n-m
-	ron	absolvent	n	ita	laureato	n$$n-GD
-	ron	absorbant	adj-mf$$adj	ita	assorbente	adj$$adj-mf
+	ron	absolvent	n	ita	laureato	n$n-m$
+	ron	absorbant	adj-mf$$adj	ita	assorbente	adj$adj-mf
 LR	ron	absorbant	adj-m-pl	ita	assorbente	adj-m
 	ron	absorbant	adj-f-sg	ita	assorbente	adj-f
 	ron	absorbi	vblex	ita	assorbire	$vblex
@@ -259,7 +259,7 @@ LR	ron	acceptabil	adj$adj-m$	ita	accettabile	adj-m
 	ron	acces	n-nt$n	ita	accesso	n-m$n
 	ron	accesa	vblex	ita	accedere	vblex$
 	ron	accesoriu	n$n-nt	ita	accessorio	n$n-m
-	ron	accident	n$n-nt	ita	incidente	n$n-m$
+	ron	accident	n$n-nt	ita	incidente	n-m$n$
 	ron	accidental	adj-mf$$adj	ita	accidentale	adj$$adj-mf
 LR	ron	accidental	adj-m-pl	ita	accidentale	adj-m
 	ron	accidental	adj-f-sg	ita	accidentale	adj-f
@@ -459,7 +459,7 @@ LR	ron	afabil	adj$adj-m-pl$	ita	affabile	adj-m
 	ron	afabil	adj-f-sg	ita	affabile	adj-f
 	ron	afabilitate	n-f$n	ita	affabilità	n-f-sp$n-f
 	ron	afacere	n-f$n	ita	affare	n-f
-	ron	afară	adv	ita	fuori	adv
+	ron	afară	adv	ita	fuori	adv$
 	ron	afazie	n	ita	afasia	n$n-f
 	ron	afect	n-nt$n	ita	fine	n-mf
 	ron	afectat	adj$	ita	colpito	adj
@@ -597,7 +597,7 @@ LR	ron	alchimist	n-m$n	ita	alchimista	n-m
 	ron	algebră	n$n-f	ita	algebra	n-f$n
 	ron	algerian	n$	ita	algerino	n$n-GD
 	ron	algerian	adj	ita	algerino	adj$$adj-sup
-	ron	algă	n$n-f	ita	alga	n$n-f
+	ron	algă	n$n-f	ita	alga	n-f$n
 	ron	aliaj	n-nt$n	ita	lega	n-f$n
 	ron	alianță	n$n-f	ita	alleanza	n-f$n
 	ron	aliat	n	ita	alleato	n$$n-GD
@@ -754,7 +754,7 @@ LR	ron	ancestral	adj-m-pl	ita	ancestrale	adj-m
 	ron	anecdotă	n$n-m	ita	aneddoto	n-m
 	ron	anemic	adj$	ita	anemico	adj
 	ron	anemie	n	ita	anemia	n-f$n
-	ron	anestezie	n	ita	anestesia	n$n-f
+	ron	anestezie	n	ita	anestesia	n-f$n
 	ron	anevoie	adv	ita	con grandi difficoltà	adv
 	ron	anex	adj$	ita	annesso	adj
 	ron	anexă	n-f$n	ita	appendice	n-f
@@ -934,7 +934,7 @@ LR	ron	ardent	adj-m	ita	ardente	adj-m
 	ron	arenă	n-f$n	ita	sabbia	n$n-f
 	ron	arest	n-nt$n	ita	arresto	n-m$n
 	ron	aresta	vblex	ita	detenere	vblex$
-	ron	arestare	n$n-f	ita	detenzione	n$n-f$n-f-m
+	ron	arestare	n$n-f	ita	detenzione	n-f$n$n-f-m
 	ron	argentinian	n$	ita	argentino	n$n-GD
 	ron	argentinian	adj	ita	argentino	adj$$adj-sup
 	ron	argilă	n$n-f	ita	argilla	n-f$n
@@ -1075,7 +1075,7 @@ LR	ron	astronaut	n-m$n	ita	astronauta	n-m$n-mf-m
 	ron	astronomie	n$n-f	ita	astronomia	n-f$n
 	ron	astru	n	ita	astro	n-m$n
 	ron	astăzi	adv	ita	oggi	adv
-	ron	asuda	vblex	ita	sudare	vblex$
+	ron	asuda	vblex	ita	sudare	$vblex
 	ron	asuma	vblex	ita	assumere	$vblex
 	ron	asumare	n$n-f	ita	accettazione	n-f$n
 	ron	asupra	pr	ita	sopra	pr$
@@ -1329,7 +1329,7 @@ RL	ron	belgian	adj$adj-m-pl$$adj-m	ita	belga	adj$adj-m$
 LR	ron	belgian	adj$adj-m-pl$$adj-m	ita	belga	adj$adj-m$
 	ron	belgian	adj-f-sg$adj-f	ita	belga	adj-f
 	ron	belic	adj$	ita	bellico	adj$$adj-sup
-	ron	beneficiar	n	ita	beneficiario	n$n-GD
+	ron	beneficiar	n	ita	beneficiario	n$n-m
 	ron	beneficiu	n$n-nt	ita	beneficio	n-m$n
 	ron	beneficiu	n$n-nt	ita	utile	n-m$$n
 	ron	benzină	n$n-f	ita	benzina	n-f$n
@@ -1551,7 +1551,7 @@ LR	ron	brutal	adj-m-pl	ita	brutale	adj-m
 	ron	buză	n-f	ita	labbro	n-m-sg$n$n-m
 	ron	buză	n-f	ita	labbro	n-f-pl
 	ron	bădărănie	n	ita	grossolaneria	n
-	ron	băiat	n$n-m	ita	ragazzo	n$n-m$n-m-sg
+	ron	băiat	n$n-m	ita	ragazzo	n-m$n$n-m-sg
 	ron	bălegar	n-nt$n	ita	letame	n$n-m
 	ron	băligar	n-nt$n	ita	letame	n$n-m
 	ron	băltoacă	n-f	ita	pozzanghera	n-f
@@ -1779,7 +1779,7 @@ LR	ron	cartilagiu	n-f	ita	cartilagine	n-f$n
 	ron	cazual	adj-m-pl$$adj	ita	casuale	adj-mf$adj$
 LR	ron	cazual	adj-m-pl$$adj	ita	casuale	adj-m
 	ron	cazual	adj-f-sg	ita	casuale	adj-f
-	ron	ce	prn	ita	che	prn$$prn-itg-mf-sg$prn-mf
+	ron	ce	prn	ita	che	prn$prn-itg-mf-sg$prn-mf
 	ron	ce	prn	ita	cosa	prn$prn-itg$prn-itg-mf
 	ron	ceai	n-m	ita	tè	n-m-sp$n-m
 	ron	ceapă	n$n-f	ita	cipolla	n-f$n
@@ -1844,7 +1844,7 @@ LR	ron	cercel	n-m$n	ita	pendenza	n-f
 	ron	cercetare	n$n-f	ita	ricerca	n-f$n
 	ron	cercetător	n	ita	ricercatore	n$n-GD
 	ron	cere	vblex	ita	esigere	$vblex
-	ron	cere	vblex	ita	chiedere	vblex$
+	ron	cere	vblex	ita	chiedere	$vblex
 	ron	cereală	n-f	ita	cereale	n-f
 	ron	cerebral	adj-mf$$adj	ita	cerebrale	$adj$adj-mf
 LR	ron	cerebral	adj-m-pl	ita	cerebrale	adj-m
@@ -2055,14 +2055,14 @@ LR	ron	colonel	n-m	ita	colonnello	n-m
 	ron	coloniza	vblex	ita	colonizzare	vblex$
 	ron	colonizare	n$n-f	ita	colonizzazione	n$n-f
 	ron	colora	vblex	ita	colorare	vblex$
-	ron	colorant	n$n-m	ita	colorante	n-m$n
+	ron	colorant	n$n-m	ita	colorante	n-m$$n
 	ron	colosal	adj-mf$$adj	ita	colossale	adj$$adj-mf
 LR	ron	colosal	adj-m-pl	ita	colossale	adj-m
 	ron	colosal	adj-f-sg	ita	colossale	adj-f
 	ron	columbian	adj$	ita	colombiano	adj$$adj-sup
 	ron	columnă	n$n-f	ita	colonna	n-f$n
 	ron	colț	n-m$n	ita	angolo	n-m$n
-	ron	comanda	vblex	ita	chiedere	vblex$
+	ron	comanda	vblex	ita	chiedere	$vblex
 	ron	comandant	n-f$n	ita	comandante	n-f
 	ron	comandant	n-f$n	ita	comandante	n-m$n
 LR	ron	comandant	n-m	ita	comandante	n-m$n
@@ -2202,9 +2202,9 @@ LR	ron	condițional	adj-m$$adj	ita	condizionale	adj-m
 	ron	conduce	vblex	ita	condurre	$vblex
 	ron	conduce	vblex	ita	guidare	$vblex
 	ron	conductă	n-f$n	ita	condotto	n-f
-	ron	conducător	n$n-f	ita	dirigente	n$n-mf$
+	ron	conducător	n-f$n	ita	dirigente	n$n-mf$
 LR	ron	conducător	n-m	ita	dirigente	n-m
-	ron	conducător	n$n-f	ita	dirigente	n-f
+	ron	conducător	n-f$n	ita	dirigente	n-f
 	ron	conduită	n$n-f	ita	condotta	n-f$n
 	ron	conecta	vblex	ita	connettere	$vblex
 	ron	conectare	n$n-f	ita	connessione	n-f$n
@@ -2322,7 +2322,7 @@ LR	ron	constituțional	adj-m-pl	ita	costituzionale	adj-m
 	ron	contestație	n$n-m	ita	appello	n-m
 	ron	context	n$n-nt	ita	contesto	n-m$n
 	ron	continent	n$n-nt	ita	continente	n-m$n
-	ron	continua	vblex	ita	continuare	vblex$
+	ron	continua	vblex	ita	continuare	$vblex
 	ron	continuare	n$n-m	ita	proseguimento	n-m
 	ron	continuare	n$n-m	ita	prosieguo	n-m
 	ron	continuare	n$n-m	ita	continuazione	n-f$n
@@ -2401,7 +2401,7 @@ LR	ron	conștient	adj-m-pl	ita	consapevole	adj-m
 	ron	copac	n$n-m	ita	albero	n-m$n
 	ron	copia	vblex	ita	copiare	$vblex
 	ron	copie	n	ita	copia	n-f$n
-	ron	copil	n$n-m	ita	bambino	n-m$n
+	ron	copil	n-m$n$n-m-pl	ita	bambino	n-m$n
 	ron	copilăresc	adj-mf$adj$	ita	infantile	adj$$adj-mf
 LR	ron	copilăresc	adj-m-pl	ita	infantile	adj-m
 	ron	copilăresc	adj-f-sg	ita	infantile	adj-f
@@ -2510,7 +2510,7 @@ LR	ron	crescător	adj-m-pl	ita	crescente	adj-m
 LR	ron	criminal	adj-m-pl	ita	criminale	adj-m
 	ron	criminal	adj-f-sg	ita	criminale	adj-f
 	ron	criminalistică	n$n-f	ita	criminologia	n$n-f
-	ron	criminalitate	n$n-f	ita	criminalità	n-f-sp$n-f
+	ron	criminalitate	n$n-f	ita	criminalità	n-f$n-f-sp
 	ron	criminologie	n	ita	criminologia	n$n-f
 	ron	crimă	n-f$n	ita	crimine	n-f
 	ron	cristal	n$n-nt	ita	cristallo	n-m$n
@@ -2548,11 +2548,11 @@ RL	ron	crăciun	n-m$n-m-sg$n	ita	natale	n-m$$n
 	ron	ctitori	vblex	ita	fondare	$vblex
 	ron	ctitorie	n$n-m	ita	creazione	n-f$n
 	ron	ctitorie	n$n-m	ita	avviamento	n-m
-	ron	cu	pr	ita	con	pr
+	ron	cu	pr	ita	con	pr$
 	ron	cu adevărat	adv	ita	veramente	adv
 	ron	cu chiu și vai	adv	ita	alti e bassi	adv
 	ron	cu deosebire	adv	ita	specialmente	adv
-	ron	cu greu	adv	ita	appena	adv
+	ron	cu greu	adv	ita	appena	adv$
 	ron	cu grijă	adv	ita	con cura	adv
 	ron	cu mare grijă	adv	ita	con molta attenzione	adv
 	ron	cu mare grijă	adv	ita	con molta cura	adv
@@ -2575,7 +2575,7 @@ RL	ron	crăciun	n-m$n-m-sg$n	ita	natale	n-m$$n
 	ron	cu toată tăria	adv	ita	fermamente	adv
 	ron	cu totul	adv	ita	completamente	adv$
 	ron	cu totul	adv	ita	compiutamente	adv
-	ron	cu ușurință	adv	ita	facilmente	adv
+	ron	cu ușurință	adv	ita	facilmente	adv$
 	ron	cu ușurință	adv	ita	agevolmente	adv
 	ron	cuantifica	vblex	ita	quantificare	vblex
 	ron	cub	n-nt$n$	ita	cubo	n-m$n
@@ -2590,7 +2590,7 @@ RL	ron	crăciun	n-m$n-m-sg$n	ita	natale	n-m$$n
 	ron	culinar	adj$	ita	culinario	adj$
 	ron	culme	n-f$n	ita	colmo	n-f
 	ron	culmina	vblex	ita	culminare	vblex$
-	ron	culoar	n$n-nt	ita	corridoio	n$n-m
+	ron	culoar	n$n-nt	ita	corridoio	n-m$n
 	ron	culoare	n-f	ita	colore	n-f
 	ron	culpă	n$n-f	ita	colpa	n-f$n
 	ron	cult	adj$	ita	colto	adj$$adj-sup
@@ -2616,7 +2616,7 @@ LR	ron	cultural	adj-m-pl	ita	culturale	adj-m
 	ron	cunoștință	n-f	ita	conoscenza	n-f$n
 	ron	cunună	n$n-f	ita	corona	n-f$n
 	ron	cupla	vblex	ita	unire	$vblex
-	ron	cuplu	n-nt$n	ita	coppia	n$n-f
+	ron	cuplu	n-nt$n	ita	coppia	n-f$n
 	ron	cupolă	n$n-f	ita	cupola	n-f$n
 	ron	cupon	n-f	ita	cedola	n-f
 	ron	cuprins	n$n-nt	ita	indice	n-m$n
@@ -2678,7 +2678,7 @@ LR	ron	cântător	$adj-m-pl$adj	ita	cantante	adj-m
 	ron	câștiga	vblex	ita	vincere	$vblex
 	ron	câștiga	vblex	ita	guadagnare	$vblex
 	ron	câștigare	n$n-m	ita	ottenimento	n-m
-	ron	câțiva	det$det-ind-fn-pl	ita	un	det-ind-m-sg$det$det-ind$det-ind-m
+	ron	câțiva	det$det-ind-fn-pl	ita	un	det-ind-m-sg$$det$det-ind$det-ind-m
 	ron	că	cnjsub	ita	che	cnjsub
 	ron	căcat	n-m$n	ita	merda	n-m
 	ron	căci	cnjadv	ita	perché	cnjadv
@@ -2714,7 +2714,7 @@ LR	ron	cântător	$adj-m-pl$adj	ita	cantante	adj-m
 	ron	căsnicie	n-f$n	ita	matrimonio	n-f
 	ron	căsători	vblex	ita	sposare	vblex$
 	ron	căsătorie	n-f$n	ita	matrimonio	n-f
-	ron	către	pr	ita	per	pr
+	ron	către	pr	ita	per	pr$
 	ron	căuta	vblex	ita	cercare	$vblex
 	ron	căuta	vblex	ita	buscare	vblex$
 	ron	cățel	n	ita	cane	n$n-m$
@@ -2729,7 +2729,7 @@ LR	ron	cântător	$adj-m-pl$adj	ita	cantante	adj-m
 	ron	danez	adj$adj-f	ita	danese	adj-mf$$adj
 	ron	dans	n$n-nt	ita	ballo	n-m$n
 	ron	dans	n$n-nt	ita	danza	n-f$n
-	ron	dansa	vblex	ita	ballare	vblex$
+	ron	dansa	vblex	ita	ballare	$vblex
 	ron	dantură	n$n-f	ita	dentatura	n$n-f
 	ron	dar	cnjcoo	ita	ma	cnjcoo
 	ron	dar nu și	adv	ita	ma non	adv
@@ -2743,8 +2743,8 @@ RL	ron	datorie	n-m	ita	debito	n-m$
 	ron	dată	n-f$n	ita	data	n$n-f
 RL	ron	dată	n-f$n	ita	dato	n-f
 	ron	daună	n-f$n	ita	danno	n-f
-	ron	de	pr	ita	di	pr
-	ron	de	pr	ita	da	pr
+	ron	de	pr	ita	di	$pr
+	ron	de	pr	ita	da	pr$
 	ron	de-a dreptul	adv	ita	realmente	adv
 	ron	de-a pururea	adv	ita	eternamente	adv
 	ron	de-a pururi	adv	ita	eternamente	adv
@@ -2759,7 +2759,7 @@ RL	ron	dată	n-f$n	ita	dato	n-f
 	ron	de ce	adv	ita	perché	adv$adv-itg$adv-itg-sg
 	ron	de cele mai multe ori	adv	ita	la maggior parte delle volte	adv
 	ron	de curând	adv	ita	da poco	adv
-	ron	de către	pr	ita	per	pr
+	ron	de către	pr	ita	per	pr$
 	ron	de data aceasta	adv	ita	questa volta	adv
 	ron	de data asta	adv	ita	questa volta	adv
 	ron	de exemplu	adv	ita	per esempio	adv
@@ -2767,14 +2767,14 @@ RL	ron	dată	n-f$n	ita	dato	n-f
 	ron	de fapt	adv	ita	infatti	adv
 	ron	de fapt	adv	ita	di fatto	adv
 	ron	de fiecare dată	adv	ita	ogni volta	adv
-	ron	de la	pr	ita	di	pr
-	ron	de moarte	adv	ita	da morire	adv$
+	ron	de la	pr	ita	di	$pr
+	ron	de moarte	adv	ita	da morire	adv
 	ron	de multe ori	adv	ita	molte volte	adv
 	ron	de obicei	adv	ita	di consueto	adv
 	ron	de odinioară	adv	ita	da tempo	adv
-	ron	de pe	pr	ita	di	pr
-	ron	de primă calitate	adv	ita	di prima qualità	adv$
-	ron	de primă clasă	adv	ita	di prima classe	adv$
+	ron	de pe	pr	ita	di	$pr
+	ron	de primă calitate	adv	ita	di prima qualità	adv
+	ron	de primă clasă	adv	ita	di prima classe	adv
 	ron	de regulă	adv	ita	abitualmente	adv
 	ron	de sine stătător	adj-mf$$adj	ita	indipendente	adj$$adj-mf
 LR	ron	de sine stătător	adj-m-pl	ita	indipendente	adj-m
@@ -2871,7 +2871,7 @@ LR	ron	degradant	adj-m	ita	degradante	adj-m
 	ron	demență	n$n-f	ita	demenza	n-f$n
 	ron	demers	n-nt$n	ita	tramite	n-m$n
 	ron	demisiona	vblex	ita	dimettire	vblex
-	ron	demn	adj$$adj-f	ita	degno	adj$$adj-sup
+	ron	demn	adj$$adj-f	ita	degno	$adj$adj-sup
 	ron	demnitate	n$n-f	ita	dignità	n-f-sp$n-f
 	ron	democratic	adj$$adj-GD	ita	democratico	adj$$adj-m
 	ron	democrație	n$n-f	ita	democrazia	n-f$n
@@ -2986,7 +2986,7 @@ LR	ron	desenator	n-m	ita	disegnatore	n-m
 	ron	designer	n	ita	disegnatore	n$n-GD
 	ron	desigur	adv	ita	ovviamente	adv
 	ron	despicătură	n-m	ita	crepaccio	n-m
-	ron	despre	pr	ita	di	pr
+	ron	despre	pr	ita	di	$pr
 	ron	despre ce e vorba	adv	ita	di che si tratta	adv
 	ron	despre ce este vorba	adv	ita	di che si tratta	adv
 	ron	destin	n-nt$n	ita	destinazione	n-f$n
@@ -3010,7 +3010,7 @@ RL	ron	detectiv	n-m$n	ita	investigatore	n-m$n
 LR	ron	detectiv	n-m$n	ita	investigatore	n-m$n
 	ron	detector	n$n-nt	ita	rivelatore	n$n-m
 	ron	detecție	n$n-f	ita	rilevazione	n$n-f
-	ron	detenție	n$n-f	ita	detenzione	n$n-f$n-f-m
+	ron	detenție	n$n-f	ita	detenzione	n-f$n$n-f-m
 	ron	detergent	n	ita	detergente	n-m$n$
 	ron	deteriorare	n-f$n	ita	deterioramento	n-f
 	ron	determina	vblex	ita	determinare	$vblex
@@ -3028,7 +3028,7 @@ LR	ron	determinant	adj-m-pl	ita	determinante	adj-m
 	ron	deviere	n$n-f	ita	deviazione	n-f$n
 	ron	deviză	n-f	ita	lemma	n-f
 	ron	devora	vblex	ita	divorare	vblex$
-	ron	devota	vblex	ita	consegnare	vblex$
+	ron	devota	vblex	ita	consegnare	$vblex
 	ron	devotament	n$n-nt	ita	devozione	n-f$n
 	ron	devoțiune	n$n-f	ita	devozione	n-f$n
 	ron	devreme	adv	ita	presto	adv
@@ -3111,7 +3111,7 @@ LR	ron	dimensional	adj-m$$adj	ita	dimensionale	adj-m
 	ron	dimineață	n-m	ita	domani	n-m-sp$n-m
 	ron	diminua	vblex	ita	diminuire	$vblex
 	ron	diminuare	n$n-f	ita	diminuzione	n-f$n
-	ron	din	pr	ita	di	pr
+	ron	din	pr	ita	di	$pr
 	ron	din auzite	adv	ita	per sentito dire	adv
 	ron	din ce în ce mai	adv	ita	ogni volta di più	adv
 	ron	din când în când	adv	ita	ogni tanto	adv
@@ -3126,9 +3126,9 @@ LR	ron	dimensional	adj-m$$adj	ita	dimensionale	adj-m
 	ron	dincoace	adv	ita	da questo lato	adv
 	ron	dincolo	adv	ita	dall'altro lato	adv
 	ron	dinozaur	n	ita	dinosauro	n-m$n
-	ron	dinspre	pr	ita	da	pr
+	ron	dinspre	pr	ita	da	pr$
 	ron	dinte	n-m$n	ita	dente	n-m$n
-	ron	dintre	pr	ita	di	pr
+	ron	dintre	pr	ita	di	$pr
 	ron	dioceză	n-f$n	ita	diocesi	n-f-sp$n-f
 	ron	diplomat	n$$n-GD	ita	diplomatico	n$n-m
 	ron	diplomat	adj	ita	diplomato	adj$
@@ -3138,7 +3138,7 @@ LR	ron	dimensional	adj-m$$adj	ita	dimensionale	adj-m
 	ron	direct	adj	ita	diretto	$adj$adj-sup
 	ron	direct	adv$	ita	direttamente	adv
 	ron	directivă	n$n-f	ita	direttrice	n$n-f
-	ron	director	n	ita	direttore	n$n-GD
+	ron	director	n	ita	direttore	n$n-m
 	ron	directorat	n$n-nt	ita	dirigenza	n-f$n
 	ron	direcție	n$n-m	ita	indirizzo	n-m$n
 	ron	direcție	n$n-m	ita	direzione	n-f$n
@@ -3149,7 +3149,7 @@ LR	ron	dirigent	n-m	ita	dirigente	n-m
 	ron	dirijabil	n-nt$n	ita	dirigibile	n$n-m
 	ron	dis de dimineață	adv	ita	all'alba	adv
 	ron	disc	n$n-nt	ita	disco	n-m$n
-	ron	discipol	n$n-f	ita	discepolo	n$n-mf
+	ron	discipol	n$n-f-sg	ita	discepolo	n$n-mf
 	ron	disconfort	n-m	ita	disagio	n-m
 	ron	discontinuu	adj$	ita	discontinuo	$adj
 	ron	discordant	adj-m$$adj	ita	discordante	$adj$adj-mf
@@ -3338,13 +3338,13 @@ LR	ron	dulce	adj-m-pl	ita	dolce	adj-m
 	ron	după-amiază	n-m	ita	pomeriggio	n-m
 	ron	după aceea	adv	ita	dopo	adv$
 	ron	după cum	cnjadv	ita	secondo	cnjadv
-	ron	dura	vblex	ita	durare	vblex$
+	ron	dura	vblex	ita	durare	$vblex
 	ron	durabil	adj-m$$adj	ita	durevole	$adj$adj-mf
 LR	ron	durabil	adj-m$$adj	ita	durevole	adj-m
 	ron	durabil	adj-f	ita	durevole	adj-f
 	ron	durată	n-f$n	ita	durata	n-f$n
 	ron	durea	vblex	ita	dolere	vblex$
-	ron	durere	n-f	ita	dolore	n-f$n
+	ron	durere	n-f	ita	dolore	n-f
 	ron	dureros	adj$$adj-f	ita	doloroso	adj$
 	ron	duritate	n$n-f	ita	durezza	n-f$n
 	ron	duzină	n$n-f	ita	dozzina	n-f$n
@@ -3450,8 +3450,8 @@ LR	ron	electoral	adj-m-pl	ita	elettorale	adj-m
 	ron	elementar	adj-m-pl$$adj	ita	elementare	$adj$adj-mf
 LR	ron	elementar	adj-m-pl$$adj	ita	elementare	adj-m
 	ron	elementar	adj-f-sg	ita	elementare	adj-f
-	ron	elev	n$n-GD	ita	alunno	n$n-m$n-m-sg
-	ron	elev	n$n-GD	ita	allievo	n-m$n
+	ron	elev	n$n-GD$n-GD-pl	ita	alunno	n$n-m$n-m-sg
+	ron	elev	n$n-GD$n-GD-pl	ita	allievo	n-m$n
 	ron	elevare	n$n-f	ita	elevazione	n$n-f
 	ron	elevație	n$n-f	ita	elevazione	n$n-f
 	ron	elibera	vblex	ita	liberare	vblex$
@@ -3643,7 +3643,7 @@ LR	ron	existențial	adj-m-pl	ita	esistenziale	adj-m
 	ron	exortare	n$n-f	ita	esortazione	n-f$n
 	ron	expansiune	n$n-f	ita	espansione	n-f$n
 	ron	expectativă	n$n-f	ita	aspettativa	n-f$n
-	ron	expedia	vblex	ita	mandare	vblex$
+	ron	expedia	vblex	ita	mandare	$vblex
 	ron	expediție	n$n-m	ita	rilascio	n-m
 	ron	experiență	n$n-f$n-f-ND	ita	esperienza	n-f$n
 	ron	experiment	n-nt$n	ita	esperimento	n-m$n
@@ -3864,7 +3864,7 @@ LR	ron	fezabil	adj$adj-m-pl$	ita	fattibile	adj-m
 	ron	fi	vblex	ita	mancare	$vblex
 	ron	fibră	n$n-f	ita	fibra	n-f$n
 	ron	ficat	n	ita	fegato	n-m$n
-	ron	ficus	n$n-m	ita	ficus	n-m-sp
+	ron	ficus	n$n-m$n-m-ND	ita	ficus	n-m-sp
 	ron	ficțiune	n$n-f	ita	finzione	n-f$n
 	ron	fidel	adj$adj-m-pl$	ita	fedele	$adj$adj-mf
 LR	ron	fidel	adj$adj-m-pl$	ita	fedele	adj-m
@@ -3954,7 +3954,7 @@ LR	ron	fluvial	adj-m$$adj	ita	fluviale	adj-m
 	ron	fluvial	adj-f	ita	fluviale	adj-f
 	ron	fluviu	n-nt$n	ita	fiume	n-m$n
 	ron	flux	n$n-nt	ita	flusso	n-m$n
-	ron	flămând	adj$	ita	affamato	adj$
+	ron	flămând	adj$	ita	affamato	$adj
 	ron	foaie	n-m	ita	foglio	n-m
 	ron	foame	n-f	ita	fame	n-f$n
 	ron	foamete	n-f	ita	carestia	n-f$n
@@ -3962,7 +3962,7 @@ LR	ron	fluvial	adj-m$$adj	ita	fluviale	adj-m
 	ron	foarte mult	adj-ind-mfn-pl$adj	ita	molto	adj$adj-ind$adj-ind-sup
 	ron	foarte mult	adj-ind-mfn-pl$adj	ita	parecchio	adj-ind$adj
 	ron	foc	n-nt$n	ita	fuoco	n-m$n$n-m-ND
-	ron	focar	n$n-nt	ita	focolaio	n
+	ron	focar	n$n-nt$n-nt-ND	ita	focolaio	n
 	ron	focă	n$n-f	ita	foca	n$n-f
 	ron	folclor	n$n-nt	ita	folclore	n$n-m
 	ron	folos	n-f	ita	utilità	n-f-sp$n-f
@@ -3970,7 +3970,7 @@ LR	ron	fluvial	adj-m$$adj	ita	fluviale	adj-m
 LR	ron	folositor	adj$adj-m$	ita	utile	adj-m
 	ron	folositor	adj-f	ita	utile	adj-f
 	ron	folositor	adj$adj-m$	ita	utile	adj$adj-mf
-	ron	fond	n$n-nt	ita	fondo	n-m$n$$n-m-ND
+	ron	fond	n$n-nt$n-nt-ND	ita	fondo	n-m$n$$n-m-ND
 	ron	fonda	vblex	ita	fondare	$vblex
 	ron	fondator	n	ita	fondatore	n$n-GD
 	ron	font	n$n-nt	ita	fonte	n-f$n
@@ -4045,7 +4045,7 @@ LR	ron	frecvent	adj-m-pl	ita	frequente	adj-m
 	ron	friabil	adj-m$$adj	ita	friabile	$adj$adj-mf
 LR	ron	friabil	adj-m$$adj	ita	friabile	adj-m
 	ron	friabil	adj-f	ita	friabile	adj-f
-	ron	frică	n-f	ita	paura	n-f$n
+	ron	frică	n-f	ita	paura	n-f$n$
 	ron	frig	n$n-nt	ita	freddo	n-m$n
 	ron	frigider	n-m	ita	frigorifero	n-m$n$
 	ron	frigorific	adj$$adj-GD	ita	frigorifero	adj
@@ -4089,7 +4089,7 @@ LR	ron	funcțional	adj-m-pl	ita	funzionale	adj-m
 	ron	funcționare	n-f$n	ita	funzionamento	n-f
 	ron	fund	n$n-nt	ita	didietro	n-m$n
 	ron	funda	vblex	ita	fondare	$vblex
-	ron	fundal	n$n-nt	ita	fondo	n-m$n$$n-m-ND
+	ron	fundal	n$n-nt$n-nt-ND	ita	fondo	n-m$n$$n-m-ND
 	ron	fundamental	adj-mf$$adj	ita	fondamentale	$adj$adj-mf
 LR	ron	fundamental	adj-m-pl	ita	fondamentale	adj-m
 	ron	fundamental	adj-f-sg	ita	fondamentale	adj-f
@@ -4125,11 +4125,11 @@ LR	ron	futil	adj-m$$adj	ita	futile	adj-m
 	ron	fântână	n$n-f	ita	fonte	n-f$n
 	ron	fâș	n-nt$n	ita	impermeabile	n$n-m$
 	ron	făgaș	n-f	ita	rotta	n-f$n
-	ron	făgădui	vblex	ita	promettere	vblex$
+	ron	făgădui	vblex	ita	promettere	$vblex
 	ron	făgăduială	n$n-f	ita	promessa	n-f$n
 	ron	făgăduință	n$n-f	ita	promessa	n-f$n
 	ron	făină	n$n-f	ita	farina	n$n-f
-	ron	fără	pr	ita	senza	pr$
+	ron	fără	pr	ita	senza	$pr
 	ron	fără drept de apel	adv	ita	senza diritto d'appello	adv
 	ron	fără grabă	adv	ita	senza fretta	adv
 	ron	fără nici o grabă	adv	ita	senza nessuna fretta	adv
@@ -4219,8 +4219,8 @@ LR	ron	genital	adj-m$$adj	ita	genitale	adj-m
 	ron	ghindă	n$n-f	ita	ghianda	n-f$n
 	ron	ghitară	n$n-f	ita	chitarra	n-f$n
 	ron	ghișeu	n-m	ita	finestrino	n-m
-	ron	gigant	n$n-m	ita	gigante	n-mf$n$
-LR	ron	gigant	n$n-m	ita	gigante	n-m
+	ron	gigant	n$n-m	ita	gigante	n-m$n$
+LR	ron	gigant	n$n-m	ita	gigante	n-m$n$
 	ron	gigant	n-f	ita	gigante	n-f
 	ron	gigantic	adj-mf$$adj	ita	gigante	adj$adj-mf
 LR	ron	gigantic	adj-m-pl	ita	gigante	adj-m
@@ -4271,7 +4271,7 @@ LR	ron	gradual	adj-m-pl	ita	graduale	adj-m
 	ron	gram	n$n-nt	ita	grammo	n$n-m
 	ron	granit	n$n-nt	ita	granito	n-m$n
 	ron	graniță	n$n-f	ita	frontiera	n-f$n
-	ron	gras	$adj$adj-f	ita	grasso	adj$$adj-sup
+	ron	gras	$adj$adj-f	ita	grasso	adj$adj-sup
 	ron	gratifica	vblex	ita	gratificare	vblex
 	ron	gratis	adv	ita	gratis	adv$
 	ron	gratuit	adj$	ita	gratuito	adj$$adj-sup
@@ -4316,9 +4316,9 @@ LR	ron	grav	adj$adj-m-pl$	ita	grave	adj-m
 	ron	grădiniță	n$n-m	ita	asilo	n-m$n
 	ron	grădină	n-f$n	ita	giardino	n-f
 RL	ron	grădină	n-f$n	ita	orto	n-f
-	ron	grăi	vblex	ita	dire	vblex$
+	ron	grăi	vblex	ita	dire	$vblex
 	ron	grămadă	n-f$n	ita	mucchio	n-f
-	ron	grăsime	n$n-m	ita	grasso	n-m$n
+	ron	grăsime	n$n-m	ita	grasso	n-m$$n
 	ron	grătar	n-m	ita	palinsesto	n-m
 	ron	gudron	n$n-nt	ita	catrame	n$n-m
 	ron	gumă	n$n-f	ita	gomma	n-f$n
@@ -4342,8 +4342,8 @@ RL	ron	guvernamental	adj-m-pl$adj-m	ita	governativo	adj$adj-m
 	ron	guvernamental	adj-mf$$adj	ita	governativo	adj$adj-m
 LR	ron	guvernamental	adj-m-pl$adj-m	ita	governativo	adj$adj-m
 	ron	guvernamental	adj-f-sg$adj-f	ita	governativo	adj-f
-RL	ron	guvernant	n$n-m	ita	governante	n-mf
-	ron	guvernant	n$n-m	ita	governante	n-mf
+RL	ron	guvernant	n-m$n	ita	governante	n-mf
+	ron	guvernant	n-m$n	ita	governante	n-mf
 	ron	guvernant	n-f	ita	governante	n-mf
 	ron	guvernator	n	ita	governatore	n$n-m
 	ron	gâdilătură	n$n-m	ita	solletico	n-m
@@ -4397,8 +4397,8 @@ RL	ron	guvernant	n$n-m	ita	governante	n-mf
 	ron	heterosexual	adj-m-pl$adj	ita	eterosessuale	adj$adj-mf
 LR	ron	heterosexual	adj-m-pl$adj	ita	eterosessuale	adj-m
 	ron	heterosexual	adj-f-sg	ita	eterosessuale	adj-f
-	ron	heterosexual	n-mf$n$	ita	eterosessuale	n$n-mf$
-LR	ron	heterosexual	n-m	ita	eterosessuale	n-m
+	ron	heterosexual	n-m$$n	ita	eterosessuale	n$n-mf$
+LR	ron	heterosexual	n-m$$n	ita	eterosessuale	n-m
 	ron	heterosexual	n-f	ita	eterosessuale	n-f
 	ron	hibernare	n$n-m	ita	letargo	n-m$n
 	ron	hibridare	n$n-f	ita	ibridizzazione	n$n-f
@@ -4420,11 +4420,11 @@ LR	ron	heterosexual	n-m	ita	eterosessuale	n-m
 	ron	hirotonisi	vblex	ita	ordinare	$vblex
 	ron	hit	n$n-nt	ita	successo	n-m$n
 	ron	hit	n$n-nt	ita	hit	n-m$n
-	ron	hol	n$n-nt	ita	corridoio	n$n-m
+	ron	hol	n$n-nt	ita	corridoio	n-m$n
 	ron	holocaust	n$n-nt	ita	olocausto	n-m$n
 	ron	homeopatic	adj$	ita	omeopatico	adj
 	ron	homeopatie	n$n-f	ita	omeopatia	n$n-f
-	ron	homosexual	n$n-mf$	ita	omosessuale	n$$n-m
+	ron	homosexual	n-mf$n$	ita	omosessuale	n$n-m$
 	ron	homosexual	adj-m-pl$adj	ita	omosessuale	adj-mf$adj
 LR	ron	homosexual	adj-m-pl$adj	ita	omosessuale	adj-m
 	ron	homosexual	adj-f-sg	ita	omosessuale	adj-f
@@ -4440,8 +4440,8 @@ LR	ron	homosexual	adj-m-pl$adj	ita	omosessuale	adj-m
 	ron	hoț	n$n-f	ita	ladro	n$n-m$
 	ron	hoție	n-f	ita	truffa	n-f$n
 	ron	hram	n$n-nt	ita	festa	n-f$n
-	ron	humă	n-f$n	ita	fango	n-f
-	ron	humă	n-f$n	ita	ceramica	n-f$n
+	ron	humă	n-f$n$n-f-ND	ita	fango	n-f
+	ron	humă	n-f$n$n-f-ND	ita	ceramica	n-f$n
 	ron	hârtie	n-f$n	ita	carta	n-f$n
 	ron	iacint	n	ita	giacinto	n-m$n
 	ron	iaht	n$n-nt	ita	panfilo	n$n-m
@@ -4506,8 +4506,8 @@ LR	ron	ilustru	adj-m-pl$$adj	ita	illustre	adj-m
 	ron	iluzie	n$n-f	ita	illusione	n-f$n
 	ron	imagina	vblex	ita	immaginare	$vblex
 	ron	imaginație	n$n-f	ita	immaginazione	n-f$n
-	ron	imagine	n	ita	immagine	n-f$n
-	ron	imagine	n	ita	immagine	n-mf
+	ron	imagine	n$n-f	ita	immagine	n-f$n
+	ron	imagine	n$n-f	ita	immagine	n-mf
 	ron	imbecil	adj$adj-m-pl$	ita	imbecille	$adj$adj-mf
 LR	ron	imbecil	adj$adj-m-pl$	ita	imbecille	adj-m
 	ron	imbecil	adj-f-sg	ita	imbecille	adj-f
@@ -4609,7 +4609,7 @@ LR	ron	inaugural	adj-m-pl	ita	inaugurale	adj-m
 	ron	incert	adj$	ita	incerto	$adj$adj-sup
 	ron	incertitudine	n$n-f	ita	incertezza	n-f$n
 	ron	inchiziție	n$n-f	ita	Inquisizione	n
-	ron	incident	n$n-nt	ita	incidente	n$n-m$
+	ron	incident	n$n-nt	ita	incidente	n-m$n$
 	ron	incidență	n$n-f	ita	incidenza	n$n-f
 	ron	incinerare	n$n-m	ita	incenerimento	n-m
 	ron	incintă	n-f	ita	recinto	n-f
@@ -4690,8 +4690,8 @@ LR	ron	inevitabil	adj$adj-m-pl$	ita	inevitabile	adj-m
 	ron	inexorabil	adj-m$$adj	ita	inesorabile	adj$$adj-mf
 LR	ron	inexorabil	adj-m$$adj	ita	inesorabile	adj-m
 	ron	inexorabil	adj-f	ita	inesorabile	adj-f
-	ron	infam	adj-m$adj	ita	infame	$adj$adj-mf
-LR	ron	infam	adj-m$adj	ita	infame	adj-m
+	ron	infam	adj$adj-m$	ita	infame	$adj$adj-mf
+LR	ron	infam	adj$adj-m$	ita	infame	adj-m
 	ron	infam	adj-f	ita	infame	adj-f
 	ron	infantil	adj-mf$adj$	ita	infantile	adj$$adj-mf
 LR	ron	infantil	adj-m-pl	ita	infantile	adj-m
@@ -4711,7 +4711,7 @@ LR	ron	infidel	adj$adj-m$	ita	infedele	adj-m
 	ron	infiltrație	n$n-f	ita	infiltrazione	n$n-f
 	ron	infinit	adj$	ita	infinito	adj$$adj-sup
 	ron	infinit	n$n-nt	ita	infinito	n-m$n
-	ron	infirmier	n	ita	infermiere	n$n-GD
+	ron	infirmier	n	ita	infermiere	n$n-m
 	ron	inflație	n$n-f	ita	inflazione	n-f$n
 	ron	influența	vblex	ita	influenzare	vblex$
 	ron	influență	n$n-f	ita	influenza	n-f$n
@@ -5014,9 +5014,9 @@ LR	ron	iresponsabil	adj$adj-m-pl$	ita	irresponsabile	adj-m
 LR	ron	ireversibil	adj$adj-m$	ita	irreversibile	adj-m
 	ron	ireversibil	adj-f	ita	irreversibile	adj-f
 	ron	irigare	n-f$n	ita	irrigazione	n-f$n
-	ron	iris	n$n-f	ita	iride	n-f$n-f-ND
-	ron	iris	n$n-f	ita	iride	n-f-sg
-	ron	iris	n$n-f	ita	iride	n-f-pl
+	ron	iris	n-f$n	ita	iride	n-f$n-f-ND
+	ron	iris	n-f$n	ita	iride	n-f-sg
+	ron	iris	n-f$n	ita	iride	n-f-pl
 	ron	irita	vblex	ita	irritare	$vblex
 	ron	iritant	adj-m-pl$$adj	ita	irritante	$adj$adj-mf
 LR	ron	iritant	adj-m-pl$$adj	ita	irritante	adj-m
@@ -5071,7 +5071,7 @@ LR	ron	iuțeală	n$n-f	ita	rapidità	n-f-sp$n-f
 	ron	izomer	n	ita	isomero	n$n-m
 	ron	izotop	n	ita	isotopo	n$n-m
 	ron	izvorî	vblex	ita	sorgere	$vblex
-	ron	jachetă	n$n-f	ita	giacca	n$n-f
+	ron	jachetă	n$n-f	ita	giacca	n-f$n
 	ron	jad	n-f	ita	giada	n-f
 	ron	jaf	n-nt$n	ita	furto	n$n-m
 	ron	jaguar	n	ita	giaguaro	n-m$n
@@ -5093,7 +5093,7 @@ LR	ron	iuțeală	n$n-f	ita	rapidità	n-f-sp$n-f
 	ron	jind	n$n-nt	ita	ansia	n-f$n
 	ron	joacă	n-f$n	ita	gioco	n-f
 	ron	joc	n$n-nt	ita	gioco	n-m$n
-	ron	joi	n-f	ita	giovedì	n-f
+	ron	joi	n-f$n-f-ND	ita	giovedì	n-f
 	ron	joncțiune	n$n-f	ita	congiunzione	n-f$n
 	ron	jos	adv	ita	abbasso	adv
 	ron	jos	adv	ita	giù	adv$
@@ -5107,8 +5107,8 @@ LR	ron	jovial	adj-m$$adj	ita	gioviale	adj-m
 	ron	judecare	n-f	ita	contenzioso	n-f
 	ron	judecată	n-f$n	ita	giudizio	n-f
 	ron	judecător	n-f	ita	giudice	n-f
-	ron	judecător	n-m$n	ita	giudice	n-mf$n
-LR	ron	judecător	n-m$n	ita	giudice	n-m
+	ron	judecător	n-m$n	ita	giudice	n-m$n
+LR	ron	judecător	n-m$n	ita	giudice	n-m$n
 RL	ron	judecătoresc	adj$adj-m-pl$$adj-m	ita	giudiziario	adj$adj-m$
 	ron	judecătoresc	adj-f-sg$adj-f	ita	giudiziario	adj-f
 	ron	judecătoresc	adj$adj-m-pl$$adj-m	ita	giudiziario	adj$adj-m$
@@ -5167,7 +5167,7 @@ RL	ron	kuweitian	adj-m$$adj	ita	kuwaitiano	adj$adj-m
 	ron	kuweitian	adj-f	ita	kuwaitiano	adj-f
 LR	ron	kuweitian	adj-m$$adj	ita	kuwaitiano	adj$adj-m
 	ron	kuweitian	adj-m$$adj	ita	kuwaitiano	adj$adj-m
-	ron	la	pr	ita	a	pr
+	ron	la	pr	ita	a	pr$
 	ron	la fel	adv	ita	uguale	$adv
 	ron	la fel ca	cnjadv	ita	come	cnjadv
 	ron	la plimbare	adv	ita	passeggiando	adv
@@ -5187,7 +5187,7 @@ LR	ron	kuweitian	adj-m$$adj	ita	kuwaitiano	adj$adj-m
 	ron	la sută	adv	ita	percento	adv
 	ron	la un loc	adv	ita	congiuntamente	adv
 	ron	la începutul	pr	ita	agli inizi di	pr
-	ron	la îndemână	adv	ita	a mano	adv$
+	ron	la îndemână	adv	ita	a mano	adv
 	ron	la întâmplare	adv	ita	a caso	adv
 	ron	labial	adj-m$$adj	ita	labiale	adj$adj-mf
 LR	ron	labial	adj-m$$adj	ita	labiale	adj-m
@@ -5280,7 +5280,7 @@ LR	ron	leninist	n-m$	ita	leninista	n-m
 	ron	lent	adv$	ita	lentamente	adv
 	ron	lentilă	n$n-f	ita	lente	n-f$n
 	ron	lesbianism	n-nt$n	ita	lesbismo	n$n-m
-	ron	lesne	adv	ita	facilmente	adv
+	ron	lesne	adv	ita	facilmente	adv$
 	ron	lesnicios	adj$$adj-f	ita	semplice	$adj-mf$adj
 	ron	lest	n-f	ita	zavorra	n-f
 	ron	letal	adj-mf$$adj	ita	letale	$adj$adj-mf
@@ -5312,13 +5312,13 @@ LR	ron	liberal	adj-m-pl	ita	liberale	adj-m
 	ron	libertate	n$n-f	ita	libertà	n-f$n-f-sp
 	ron	libertinaj	n$n-nt	ita	libertinaggio	n$n-m
 	ron	licean	n$n-f	ita	collegiale	$n-mf$n
-	ron	licențiat	n$	ita	laureato	n$$n-GD
+	ron	licențiat	n$	ita	laureato	n$n-m$
 	ron	licențiat	adj	ita	laureato	adj
 	ron	licență	n$n-f	ita	licenza	n-f$n
 	ron	liceu	n$n-nt	ita	istituto	n-m$n
 	ron	lichefiere	n$n-f	ita	liquefazione	n-f$n
-	ron	lichid	adj$adj-GD	ita	liquido	adj$$adj-sup
-	ron	lichid	n-nt$n$	ita	liquido	n-m$n
+	ron	lichid	adj$adj-GD	ita	liquido	adj$adj-sup
+	ron	lichid	n-nt$n$	ita	liquido	n-m$$n
 	ron	lichida	vblex	ita	liquidare	$vblex
 	ron	lichidare	n$n-f	ita	liquidazione	n-f$n
 	ron	lichior	n-nt$n	ita	liquore	n-m$n
@@ -5329,7 +5329,7 @@ LR	ron	liberal	adj-m-pl	ita	liberale	adj-m
 	ron	ligament	n$n-nt	ita	legamento	n$n-m
 	ron	ligatură	n$n-m	ita	legaccio	n-m
 	ron	ligă	n$n-f	ita	lega	n-f$n
-	ron	lihnit	adj$	ita	affamato	adj$
+	ron	lihnit	adj$	ita	affamato	$adj
 	ron	liman	n$n-nt	ita	riva	n-f$n
 	ron	limbaj	n$n-nt	ita	linguaggio	n-m$n
 	ron	limbric	n$n-m	ita	lombrico	n-m
@@ -5373,7 +5373,7 @@ LR	ron	literal	adj-m-pl	ita	letterale	adj-m
 	ron	lituanian	adj$	ita	lituano	adj$$adj-sup
 	ron	liturghie	n	ita	liturgia	n-f$n
 	ron	livadă	n-m	ita	orto	n-m$n
-	ron	livra	vblex	ita	consegnare	vblex$
+	ron	livra	vblex	ita	consegnare	$vblex
 	ron	livrare	n$n-f	ita	consegna	n-f$n
 	ron	loc	n$n-nt	ita	luogo	n-m$n
 LR	ron	loc de veci	n-f	ita	nicchia	n-f
@@ -5384,7 +5384,7 @@ LR	ron	local	adj-m-pl	ita	locale	adj-m
 	ron	localitate	n$n-f	ita	località	n-f-sp$n-f
 	ron	localiza	vblex	ita	localizzare	vblex$
 	ron	localizare	n$n-f	ita	localizzazione	n$n-f
-	ron	locatar	n-m$n	ita	abitante	n$n-mf
+	ron	locatar	n-m$n	ita	abitante	n-mf$n
 RL	ron	locatar	n-m$n	ita	abitatore	n-m$n
 	ron	locatar	n-f	ita	abitatore	n-f
 LR	ron	locatar	n-m$n	ita	abitante	n-m
@@ -5399,7 +5399,7 @@ LR	ron	locotenent	n-m	ita	tenente	n-m
 	ron	locui	vblex	ita	abitare	vblex$
 	ron	locuință	n-m	ita	alloggio	n-m$n
 	ron	locuire	n$n-f	ita	stanza	n-f$n
-	ron	locuitor	n-m$n	ita	abitante	n$n-mf
+	ron	locuitor	n-m$n	ita	abitante	n-mf$n
 RL	ron	locuitor	n-m$n	ita	abitatore	n-m$n
 	ron	locuitor	n-f	ita	abitatore	n-f
 LR	ron	locuitor	n-m$n	ita	abitante	n-m
@@ -5458,7 +5458,7 @@ LR	ron	lunar	adj-m	ita	mensile	adj-m
 	ron	lung	adj$adj-f-sg$	ita	lungo	adj$adj-f
 LR	ron	lung	adj-m-pl	ita	lungo	adj-m
 	ron	lungime	n$n-f	ita	longitudine	n$n-f
-	ron	luni	n-f	ita	lunedì	n-f
+	ron	luni	n-f$n-f-ND	ita	lunedì	n-f
 	ron	lună	n-f$n	ita	luna	n-f$n
 	ron	lună	n-f$n	ita	mese	n-f
 	ron	lup	n$n-f	ita	lupo	n$n-m
@@ -5483,10 +5483,10 @@ LR	ron	lung	adj-m-pl	ita	lungo	adj-m
 	ron	macroscopic	adj$	ita	macroscopico	adj$
 	ron	macru	adj$	ita	magro	adj$$adj-sup$adj-sup-m-sg
 	ron	madrilen	n$n-GD	ita	madrileno	n$n-GD$
-	ron	maestru	n	ita	maestro	n$n-m$$n-mf-m
+	ron	maestru	n$n-f-sg	ita	maestro	n$n-m$$n-mf-m
 	ron	mafie	n	ita	mafia	n$n-f
 	ron	mag	n	ita	mago	n-m$n
-	ron	magazie	n$n-f	ita	magazzino	n-f
+	ron	magazie	n-f$n	ita	magazzino	n-f
 	ron	magazin	n-m	ita	negozio	n-m$n
 	ron	magazinaj	n$n-nt	ita	immagazzinamento	n$n-m
 	ron	magic	adj$$adj-GD	ita	magico	adj$$adj-sup
@@ -5500,7 +5500,7 @@ LR	ron	magistral	adj-m	ita	magistrale	adj-m
 	ron	magnetism	n-nt$n	ita	magnetismo	n$n-m
 	ron	magnitudine	n	ita	magnitudine	n$n-f
 	ron	magnolie	n	ita	magnolia	n-f$n
-	ron	mai	adv	ita	in più	adv$
+	ron	mai	adv	ita	in più	adv
 	ron	mai	adv	ita	più	adv$
 	ron	mai	n$n-m	ita	maggio	n-m-sg$n-m$n
 	ron	mai ales	adv	ita	soprattutto	adv
@@ -5605,7 +5605,7 @@ LR	ron	martir	n-m$n	ita	martire	n-m
 	ron	martir	n-f	ita	martire	n-f
 	ron	marxism	n-nt$n	ita	marxismo	n$n-m
 	ron	marș	n$n-nt	ita	marcia	n-f$n
-	ron	marți	n-f	ita	martedì	n-f
+	ron	marți	n-f$n-f-ND	ita	martedì	n-f
 	ron	marțial	adj-m$$adj	ita	marziale	adj$$adj-mf
 LR	ron	marțial	adj-m$$adj	ita	marziale	adj-m
 	ron	marțial	adj-f	ita	marziale	adj-f
@@ -5625,10 +5625,10 @@ LR	ron	marțial	adj-m$$adj	ita	marziale	adj-m
 	ron	masă de lucru	n-f	ita	scrivania	n-f
 	ron	matematic	adj$$adj-GD	ita	matematico	$adj$adj-sup
 	ron	matematică	n$n-f	ita	matematica	n-f$n
-	ron	material	adj-mf$$adj	ita	materiale	adj$$adj-mf
+	ron	material	adj-mf$$adj	ita	materiale	adj$adj-mf
 LR	ron	material	adj-m-pl	ita	materiale	adj-m
 	ron	material	adj-f-sg	ita	materiale	adj-f
-	ron	material	n$n-nt	ita	materiale	n-m$n
+	ron	material	n$n-nt	ita	materiale	n-m$$n
 	ron	material	n-f	ita	materia	n-f$n
 	ron	materialism	n-nt$n	ita	materialismo	n-m$n
 	ron	materializa	vblex	ita	materializzare	vblex
@@ -5667,7 +5667,7 @@ LR	ron	mașinal	adj-m$$adj	ita	meccanico	$adj$adj-m
 	ron	mecanism	n-nt$n	ita	meccanismo	n-m$n
 	ron	mecanizare	n$n-f	ita	meccanizzazione	n$n-f
 	ron	meci	n$n-nt	ita	partito	n-m$n$
-	ron	medalie	n	ita	medaglia	n$n-f
+	ron	medalie	n	ita	medaglia	n-f$n
 	ron	media	vblex	ita	mediare	vblex$
 	ron	mediație	n$n-f	ita	mediazione	n-f$n
 	ron	medic	n$n-f	ita	medico	n-mf
@@ -5696,7 +5696,7 @@ LR	ron	medular	adj-m$$adj	ita	midollare	adj-m
 	ron	melodie	n	ita	melodia	n-f$n
 	ron	melodramă	n-f	ita	melodramma	n-f
 	ron	membrană	n$n-f	ita	membrana	n$n-f
-	ron	membru	n$$n-m	ita	membro	n-m$n-f-m$n
+	ron	membru	n$n-m$	ita	membro	n-m$n-f-m$n
 	ron	memorare	n$n-f	ita	memorizzazione	n$n-f
 	ron	memorie	n$n-f	ita	memoria	n-f$n
 	ron	memoriza	vblex	ita	memorizzare	$vblex
@@ -5740,7 +5740,7 @@ LR	ron	meridional	adj-m$$adj	ita	meridionale	adj-m
 	ron	mesaj	n$n-nt	ita	messaggio	n-m$n
 	ron	metabolism	n-nt$n	ita	metabolismo	n-m$n
 	ron	metaforă	n$n-f	ita	metafora	n$n-f
-	ron	metal	n$n-nt	ita	metallo	n-m$n
+	ron	metal	n-nt$n	ita	metallo	n-m$n
 	ron	metalurgie	n	ita	metallurgia	n-f$n
 	ron	metamorfoză	n-f-sp$n-f$n	ita	metamorfosi	n-f-sp$n-f
 	ron	metastază	n-f$n	ita	metastasi	n-f-sp
@@ -5770,7 +5770,7 @@ LR	ron	mic	adj-m-pl	ita	piccolo	$adj$adj-m
 	ron	mie	n-f$n	ita	migliaio	n-m-sg$n-m$n
 	ron	mie	n-f$n	ita	migliaio	n-f-pl
 	ron	miel	n$n-m	ita	agnello	n-m$n
-	ron	miercuri	n-f	ita	mercoledì	n-f
+	ron	miercuri	n-f$n-f-ND	ita	mercoledì	n-f
 	ron	miere	n-m	ita	miele	n-m
 	ron	miez al nopții	n-nt$n	ita	mezzanotte	n$n-f
 	ron	migdală	n$n-f	ita	mandorla	n$n-f
@@ -5793,7 +5793,7 @@ LR	ron	militar	adj$adj-m-pl	ita	militare	adj-m
 	ron	militarizare	n$n-f	ita	militarizzazione	n$n-f
 	ron	mincinos	adj$	ita	bugiardo	adj
 	ron	minciună	n-f$n	ita	bugia	n-f$n
-	ron	minge	n$n-f	ita	pallone	n-f
+	ron	minge	n-f$n	ita	pallone	n-f
 RL	ron	minge	n-m	ita	pallone	n-m$n
 	ron	miniatură	n$n-f	ita	miniatura	n-f$n
 	ron	minim	adj$$adj-GD	ita	minimo	adj$$adj-sup
@@ -5801,11 +5801,11 @@ RL	ron	minge	n-m	ita	pallone	n-m$n
 	ron	ministerial	adj-mf$$adj	ita	ministeriale	adj$adj-mf$
 LR	ron	ministerial	adj-m	ita	ministeriale	adj-m
 	ron	ministerial	adj-f	ita	ministeriale	adj-f
-	ron	ministru	n$n-m	ita	ministro	n-m$n$n-m-sg
+	ron	ministru	n$n-m$n-m-sg	ita	ministro	n-m$n$n-m-sg
 	ron	minor	adj$adj-m-pl	ita	minore	adj-mf$adj
 LR	ron	minor	adj$adj-m-pl	ita	minore	adj-m
 	ron	minor	adj-f-sg	ita	minore	adj-f
-	ron	minor	n$n-mf$	ita	minore	n-mf$$n
+	ron	minor	n-mf$n$	ita	minore	n-mf$$n
 	ron	minoritate	n$n-f	ita	minoranza	n-f$n
 	ron	mintal	adj-mf$$adj	ita	mentale	adj$$adj-mf
 LR	ron	mintal	adj-m-pl	ita	mentale	adj-m
@@ -5894,7 +5894,7 @@ LR	ron	molecular	adj-m$$adj	ita	molecolare	adj-m
 	ron	momentan	adv$	ita	al momento	adv
 	ron	monah	n$n-f	ita	monaco	n$n-m
 	ron	monarh	n$n-f	ita	monarca	n-mf$n
-	ron	monarhie	n	ita	monarchia	n$n-f
+	ron	monarhie	n	ita	monarchia	n-f$n
 	ron	mondial	adj-mf$$adj	ita	mondiale	adj$$adj-mf
 LR	ron	mondial	adj-m-pl	ita	mondiale	adj-m
 	ron	mondial	adj-f-sg	ita	mondiale	adj-f
@@ -5920,8 +5920,8 @@ LR	ron	moral	adj-m-pl	ita	morale	adj-m
 	ron	morală	n$n-f	ita	morale	n-f$$n
 	ron	morar	n	ita	mugnaio	n$n-GD
 	ron	morav	n-nt$n	ita	abitudine	n-f$n
-	ron	mort	adj	ita	morto	adj$$adj-sup
-	ron	mort	n$$n-m	ita	morto	n$n-m
+	ron	mort	adj$	ita	morto	adj$$adj-sup
+	ron	mort	n$n-m	ita	morto	n$n-m
 	ron	mortal	adj-mf$$adj	ita	mortale	adj$$adj-mf
 LR	ron	mortal	adj-m-pl	ita	mortale	adj-m
 	ron	mortal	adj-f-sg	ita	mortale	adj-f
@@ -6044,7 +6044,7 @@ LR	ron	mârșav	adj-m$adj	ita	vile	adj-m
 	ron	mămică	n$n-f	ita	mamma	n-f$n
 	ron	mănușă	n-f$n	ita	guanto	n-f
 	ron	mănăstire	n-f$n	ita	monastero	n-f
-	ron	măr	n-nt$n	ita	mela	n$n-f
+	ron	măr	n-nt$n	ita	mela	n-f$n
 	ron	mărar	n	ita	finocchio	n-m$n
 RL	ron	mărginaș	adj-m$$adj	ita	suburbano	adj$adj-m$
 	ron	mărginaș	adj-f	ita	suburbano	adj-f
@@ -6125,7 +6125,7 @@ LR	ron	naționalist	n-m$$n	ita	nazionalista	n-m$n-mf-m
 	ron	necesitate	n-m	ita	bisogno	n-m$n
 	ron	necesitate	n-f$n	ita	necessità	n-f-sp$n-f
 	ron	necesitate	n-m	ita	fabbisogno	n-m
-	ron	nechibzuit	adv$	ita	alla leggera	adv$
+	ron	nechibzuit	adv$	ita	alla leggera	adv
 	ron	necinsti	vblex	ita	disonorare	$vblex
 	ron	necondițional	adj-mf$$adj	ita	incondizionale	adj$adj-mf
 LR	ron	necondițional	adj-m	ita	incondizionale	adj-m
@@ -6172,8 +6172,8 @@ LR	ron	nefiresc	adj-m$$adj	ita	antinaturale	adj-m
 	ron	negociere	n$n-m	ita	negoziazione	n$n-f
 	ron	negoț	n$n-nt	ita	affare	n-m$n
 	ron	negreșit	adv	ita	indubbiamente	adv
-	ron	negru	adj$adj-GD	ita	nero	$adj$adj-m-sg
-	ron	negru	n$	ita	nero	n$n-m$n-m-sg
+	ron	negru	adj$$adj-GD	ita	nero	$adj$adj-m-sg
+	ron	negru	n$n-m-sg	ita	nero	n$n-m$n-m-sg
 	ron	nehotărâre	n$n-f	ita	esitazione	n-f$n
 	ron	nehotărât	adj$	ita	indeciso	$adj$adj-sup
 	ron	neleal	adj-mf$$adj	ita	sleale	$adj$adj-mf
@@ -6243,7 +6243,7 @@ LR	ron	neîntrecut	adj-m$$adj	ita	ineguagliabile	adj-m
 	ron	nici	cnjcoo	ita	né	cnjcoo
 	ron	nici măcar	adv	ita	nemmeno	adv
 	ron	nici un	det-ind$det	ita	nessuno	det-ind$det-ind-GD-ND$det$det-ind-GD
-	ron	nici unul	prn$prn-tn	ita	nessuno	prn$prn-tn-m$$prn-tn$prn-tn-m-sg
+	ron	nici unul	prn$prn-tn-m-sg$prn-tn	ita	nessuno	prn$prn-tn-m$$prn-tn$prn-tn-m-sg
 	ron	nicicum	adv	ita	in nessun modo	adv
 	ron	nicicând	adv	ita	mai	adv
 	ron	niciodată	adv	ita	mai	adv
@@ -6310,7 +6310,7 @@ LR	ron	nour	n-m	ita	nuvola	n-m
 	ron	noutate	n-f$n	ita	novità	n-f$n-f-sp
 	ron	noțiune	n$n-f	ita	nozione	n-f$n
 	ron	nu	adv	ita	no	adv
-	ron	nu	adv	ita	non	adv
+	ron	nu	adv	ita	non	$adv
 	ron	nu de puține ori	adv	ita	non poche volte	adv
 	ron	nuanță	n-f	ita	sfumatura	n-f
 	ron	nuclear	adj$adj-m-pl$	ita	nucleare	$adj$adj-mf
@@ -6335,7 +6335,7 @@ LR	ron	nuclear	adj$adj-m-pl$	ita	nucleare	adj-m
 	ron	nutrie	n	ita	lontra	n$n-f
 	ron	nutriție	n$n-f	ita	nutrizione	n-f$n
 	ron	nădejde	n$n-f	ita	speranza	n-f$n
-	ron	năduși	vblex	ita	sudare	vblex$
+	ron	năduși	vblex	ita	sudare	$vblex
 	ron	nădăjdui	vblex	ita	aspettare	vblex$
 	ron	nămol	n-nt$n	ita	fango	n-m$n
 	ron	născut	adj$	ita	nato	adj$$adj-sup
@@ -6449,7 +6449,7 @@ LR	ron	omenie	n-f$n	ita	umanità	n-f$n-f-sp
 LR	ron	omenie	n-f$n	ita	humanità	n-f-sp
 LR	ron	omenire	n-f$n	ita	umanità	n-f$n-f-sp
 LR	ron	omenire	n-f$n	ita	humanità	n-f-sp
-	ron	omicidiu	n$n-nt	ita	omicidio	n$n-m
+	ron	omicidiu	n$n-nt	ita	omicidio	n-m$n
 	ron	omnivor	n$	ita	onnivoro	n$n-GD$
 	ron	omologare	n$n-f	ita	omologazione	n$n-f
 	ron	omorî	vblex	ita	uccidere	$vblex
@@ -6468,7 +6468,7 @@ LR	ron	onorabil	adj-m$$adj	ita	onorabile	adj-m
 	ron	opera	vblex	ita	operare	$vblex
 	ron	operare	n$n-f	ita	operazione	n-f$n
 	ron	operativitate	n-f$n	ita	operatività	n-f-sp$n-f
-	ron	operator	n	ita	operatore	n$n-m
+	ron	operator	n	ita	operatore	n-m$n
 	ron	operație	n$n-f	ita	operazione	n-f$n
 	ron	operațiune	n$n-f	ita	operazione	n-f$n
 	ron	operă	n$n-f	ita	opera	n-f$n
@@ -6503,12 +6503,12 @@ LR	ron	orbital	adj-m-pl$$adj	ita	orbitale	adj-m
 	ron	orbital	adj-f-sg	ita	orbitale	adj-f
 	ron	orbită	n$n-f	ita	orbita	n-f$n
 	ron	orchestră	n$n-f	ita	orchestra	n-f$n
-	ron	ordin	n$n-nt	ita	ordine	n-m$n
+	ron	ordin	n-nt$n	ita	ordine	n-m$n
 	ron	ordin	n-m	ita	ordine	n-m$n
 	ron	ordinar	adj$$adj-GD	ita	ordinario	$adj$adj-mf
-	ron	ordine	n-f$n	ita	ordine	n-f
-	ron	ordine	n-f$n	ita	provvedimento	n-f
-	ron	ordine	n-f$n	ita	ordine	n-m$n
+	ron	ordine	n-f	ita	ordine	n-f
+	ron	ordine	n-f	ita	provvedimento	n-f
+	ron	ordine	n-f	ita	ordine	n-m$n
 	ron	ordona	vblex	ita	ordinare	$vblex
 	ron	ordonanță	n$n-f	ita	ordinanza	n-f$n$n-f-ND
 	ron	orez	n-nt$n	ita	riso	n-m$n$n-f-m
@@ -6596,7 +6596,7 @@ LR	ron	ovoidal	adj-m$$adj	ita	ovoidale	adj-m
 	ron	ozeneu	n-m	ita	ufo	n-m-sp$n-m
 	ron	ozn	n-m	ita	ufo	n-m-sp$n-m
 	ron	ozon	n$n-nt	ita	ozono	n$n-m
-	ron	oștire	n-f$n	ita	esercito	n-f
+	ron	oștire	n-f	ita	esercito	n-f
 	ron	oțel	n$n-nt	ita	acciaio	n$n-m
 	ron	oțet	n$n-nt	ita	aceto	n$n-m
 	ron	pace	n$n-f$n-f-ND	ita	pace	n-f$n
@@ -6638,7 +6638,7 @@ LR	ron	pacifist	n-m$n	ita	pacifista	n-m
 	ron	pantă	n-f	ita	orecchino	n-m$n
 	ron	pantă	n-f	ita	pendenza	n-f
 	ron	pană	n$n-f	ita	piuma	n-f$n
-	ron	papagal	n	ita	pappagallo	n-m$n
+	ron	papagal	n$n-m	ita	pappagallo	n-m$n
 	ron	papă	n$n-m	ita	papa	n-m$n
 	ron	par	n$n-m	ita	palo	n-m$n
 	ron	parabolă	n$n-f	ita	parabola	n-f$n
@@ -6655,7 +6655,7 @@ LR	ron	pacifist	n-m$n	ita	pacifista	n-m
 	ron	paratrăznet	n-nt$n	ita	parafulmine	n-m$n-m-sg$n
 	ron	parazit	n	ita	parassita	n-m$$n
 	ron	parașutism	n$n-nt	ita	paracadutismo	n$n-m
-	ron	parașută	n-f	ita	paracadute	n-m-sp$n-m
+	ron	parașută	n-f$n-f-ND	ita	paracadute	n-m-sp$n-m
 	ron	parc	n$n-nt	ita	parco	n-m$$n
 	ron	parca	vblex	ita	parcheggiare	vblex$
 	ron	parcare	n-f$n	ita	parcheggio	n-f
@@ -6670,7 +6670,7 @@ LR	ron	pacifist	n-m$n	ita	pacifista	n-m
 	ron	parodie	n	ita	parodia	n-f$n
 	ron	parohie	n	ita	parrocchia	n-f$n
 	ron	parolă	n-f$n	ita	password	n-f-sp$n-f
-	ron	parte	n$n-f	ita	parte	n-f$n
+	ron	parte	n-f$n	ita	parte	n-f$n
 	ron	parteneriat	n$n-nt	ita	cooperazione	n$n-f
 	ron	participa	vblex	ita	partecipare	$vblex
 	ron	participant	n-m$n	ita	partecipante	n$n-mf
@@ -6743,7 +6743,7 @@ LR	ron	paznic	n-m	ita	sorvegliante	n-m$n
 	ron	pe de altă parte	adv	ita	d'altra parte	adv
 	ron	pe de altă parte	adv	ita	d'altro lato	adv
 	ron	pe de altă parte	adv	ita	d'altro canto	adv
-	ron	pe de o parte	adv	ita	da un lato	adv$
+	ron	pe de o parte	adv	ita	da un lato	adv
 	ron	pe deasupra	pr	ita	in cima a	pr
 	ron	pe degeaba	adv	ita	in inutile	adv
 	ron	pe deplin	adv	ita	pienamente	adv
@@ -6774,7 +6774,7 @@ LR	ron	paznic	n-m	ita	sorvegliante	n-m$n
 	ron	pe scară largă	adv	ita	su grande scala	adv
 	ron	pe secundă	adv	ita	per secondo	adv
 	ron	pe săptămână	adv	ita	alla settimana	adv
-	ron	pe termen lung	adv	ita	a lungo termine	adv$
+	ron	pe termen lung	adv	ita	a lungo termine	adv
 	ron	pe termen scurt	adv	ita	a breve termine	adv
 	ron	pe timpul iernii	adv	ita	durante l'inverno	adv
 	ron	pe timpul primăverii	adv	ita	durante la primavera	adv
@@ -6816,7 +6816,7 @@ LR	ron	penal	adj-m-pl	ita	penale	adj-m
 LR	ron	peninsular	adj$adj-m-pl$	ita	peninsulare	adj-m
 	ron	peninsular	adj-f-sg	ita	peninsulare	adj-f
 	ron	peninsulă	n$n-f	ita	penisola	n-f$n
-	ron	penis	n-nt$n	ita	pene	n-m$n$n-m-ND
+	ron	penis	n$n-nt$n-nt-ND	ita	pene	n-m$n$n-m-ND
 	ron	penitenciar	n-m	ita	penitenziario	n-m$n-f-m
 	ron	pensie	n$n-f	ita	pensione	n-f$n
 	ron	pensionare	n$n-f	ita	pensione	n-f$n
@@ -6826,7 +6826,7 @@ LR	ron	pensionist	n-m$n	ita	pensionato	n-m$n
 	ron	pensiune	n$n-f	ita	pensione	n-f$n
 	ron	pensulă	n-f$n	ita	pennello	n-f
 	ron	pentagramă	n-f	ita	pentagramma	n-f
-	ron	pentru	pr	ita	per	pr
+	ron	pentru	pr	ita	per	pr$
 	ron	pentru că	cnjadv	ita	perché	cnjadv
 	ron	pentru prima dată	adv	ita	per la prima volta	adv
 	ron	pentru prima oară	adv	ita	per la prima volta	adv
@@ -6964,7 +6964,7 @@ LR	ron	pirat	n-m$n	ita	pirata	n-m$$n
 	ron	pisc	n-m	ita	vertice	n-m$n
 	ron	piscină	n$n-f	ita	piscina	n-f$n
 	ron	pisoi	n$n-m	ita	gatto	n$n-m
-	ron	pistol	n-nt$n	ita	pistola	n$n-f
+	ron	pistol	n-nt$n	ita	pistola	n-f$n
 	ron	pistrui	n-m	ita	lentiggine	n-m
 	ron	pistă	n$n-f	ita	pista	n-f$n
 	ron	piti	vblex	ita	nascondere	$vblex
@@ -6998,7 +6998,7 @@ LR	ron	pirat	n-m$n	ita	pirata	n-m$$n
 	ron	plin	adj$	ita	pieno	$adj$adj-sup
 	ron	pliu	n-f	ita	piega	n-f$n
 	ron	ploaie	n$n-f	ita	pioggia	n-f$n
-	ron	ploua	vblex	ita	piovere	vblex$
+	ron	ploua	vblex	ita	piovere	$vblex
 	ron	plugar	n	ita	labrador	n-mf-sp
 	ron	plumb	n	ita	piombo	n-m$n$
 	ron	plural	n$n-nt	ita	plurale	n-m$n
@@ -7070,7 +7070,7 @@ RL	ron	pomicol	adj$adj-m$	ita	da frutta	adj-mf-sp
 	ron	pompier	n$n-m	ita	vigile	n-m$
 	ron	ponderat	adj$	ita	ponderato	adj$$adj-sup
 	ron	pop	n-m	ita	pop	n-m-sp$n-m
-	ron	popas	n-nt$n	ita	alto	n$n-GD
+	ron	popas	n-nt$n	ita	alto	n$n-m
 	ron	popică	n-f	ita	birillo	n-f
 	ron	popor	n-nt$n	ita	popolo	n-m$n
 	ron	popou	n-nt$n	ita	culo	n-m$n
@@ -7102,14 +7102,14 @@ LR	ron	portativ	adj$adj-m$	ita	portatile	adj-m
 	ron	porumb	n$n-m	ita	mais	n-m-sp$n-m
 	ron	porumbel	n	ita	piccione	n$n-m
 	ron	porunci	vblex	ita	comandare	$vblex
-	ron	porunci	vblex	ita	mandare	vblex$
+	ron	porunci	vblex	ita	mandare	$vblex
 	ron	porție	n$n-f	ita	porzione	n-f$n
 	ron	poseda	vblex	ita	possedere	$vblex
 	ron	posesie	n$n-m	ita	possesso	n-m
 	ron	posibil	adj$adj-m-pl	ita	possibile	adj$$adj-mf
 LR	ron	posibil	adj$adj-m-pl	ita	possibile	adj-m
 	ron	posibil	adj-f-sg	ita	possibile	adj-f
-	ron	posibil	adv$	ita	possibilmente	adv
+	ron	posibil	adv$	ita	possibilmente	adv$
 	ron	posibilitate	n$n-f	ita	possibilità	n-f-sp$n-f
 	ron	post	n-nt$n	ita	carico	n-m$$n
 	ron	post mare	n-f	ita	quaresima	n-f-sg$n-f
@@ -7224,7 +7224,7 @@ LR	ron	preliminar	adj$adj-m-pl$	ita	preliminare	adj-m
 	ron	prescurta	vblex	ita	abbreviare	$vblex
 	ron	prescurtare	n$n-f	ita	abbreviazione	n-f$n
 	ron	presiune	n$n-f	ita	pressione	n-f$n
-	ron	presta	vblex	ita	prestare	vblex$
+	ron	presta	vblex	ita	prestare	$vblex
 	ron	prestare	n$n-f	ita	prestazione	n-f$n
 	ron	prestație	n$n-f	ita	prestazione	n-f$n
 	ron	prestigios	adj$$adj-f	ita	prestigioso	$adj
@@ -7275,10 +7275,10 @@ LR	ron	prezidențial	adj-m-pl	ita	presidenziale	adj-m
 	ron	primordial	adj-mf$$adj	ita	primordiale	adj$adj-mf$
 LR	ron	primordial	adj-m-pl	ita	primordiale	adj-m
 	ron	primordial	adj-f-sg	ita	primordiale	adj-f
-	ron	primul	adj	ita	primo	$adj$adj-ord
+	ron	primul	adj	ita	primo	adj$adj-ord
 	ron	primărie	n-f	ita	comune	n-f
 	ron	primăvară	n$n-f$n-f-ND	ita	primavera	n$n-f
-	ron	prin	pr	ita	per	pr
+	ron	prin	pr	ita	per	pr$
 	ron	prin intermediul	pr	ita	tramite	pr
 	ron	prin străinătate	adv	ita	all'estero	adv
 	ron	principal	adj-mf$$adj	ita	principale	$adj$adj-mf
@@ -7288,7 +7288,7 @@ LR	ron	principal	adj-m-pl	ita	principale	adj-m
 	ron	prinde	vblex	ita	prendere	$vblex
 	ron	prindere	n$n-f	ita	soggezione	n-f$n
 	ron	printa	vblex	ita	stampare	$vblex
-	ron	printr-	pr	ita	per	pr
+	ron	printr-	pr	ita	per	pr$
 	ron	printre	pr	ita	tra	pr
 	ron	prinț	n$n-m	ita	principe	n-m$n
 	ron	prioritate	n$n-f	ita	priorità	n-f-sp$n-f
@@ -7366,7 +7366,7 @@ LR	ron	profet	n-m$n	ita	profeta	n-m
 	ron	proliferare	n$n-f	ita	proliferazione	n$n-f
 	ron	promenadă	n-f	ita	passeggio	n-f
 	ron	promisiune	n$n-f	ita	promessa	n-f$n
-	ron	promite	vblex	ita	promettere	vblex$
+	ron	promite	vblex	ita	promettere	$vblex
 	ron	promoroacă	n$n-f	ita	galaverna	n$n-f
 	ron	promoroacă	n$n-f	ita	calaverna	n-f$n
 	ron	promotor	adj	ita	promotore	adj
@@ -7413,7 +7413,7 @@ LR	ron	protejare	n$n-f	ita	protezione	n-f$n
 	ron	protesta	vblex	ita	protestare	$vblex
 	ron	proteză	n-f-sp$n-f$n	ita	protesi	n-f-sp$n-f
 	ron	protocol	n$n-nt	ita	protocollo	n-m$n
-	ron	prototip	n$n-nt	ita	prototipo	n$n-m$n-m-ND
+	ron	prototip	n$n-nt$n-nt-ND	ita	prototipo	n$n-m$n-m-ND
 	ron	proveni	vblex	ita	provenire	vblex$
 	ron	proveniență	n$n-f	ita	provenienza	n$n-f
 	ron	provenit	adj$adj-m$	ita	proveniente	adj$adj-mf
@@ -7466,9 +7466,9 @@ LR	ron	pueril	adj-m$$adj	ita	puerile	adj-m
 	ron	punctual	adj-mf$$adj	ita	puntuale	adj$$adj-mf
 LR	ron	punctual	adj-m	ita	puntuale	adj-m
 	ron	punctual	adj-f	ita	puntuale	adj-f
-	ron	pune	vblex	ita	mettere	vblex$
+	ron	pune	vblex	ita	mettere	$vblex
 	ron	pune	vblex	ita	porre	$vblex
-	ron	pune	vblex	ita	apporre	vblex$
+	ron	pune	vblex	ita	apporre	$vblex
 	ron	pune	vblex	ita	pianificare	vblex$
 	ron	pungă	n$n-f	ita	borsa	n-f$n
 	ron	punte	n-f$n	ita	ponte	n-f
@@ -7509,7 +7509,7 @@ LR	ron	puternic	adj-m-pl	ita	forte	adj-m
 	ron	până la	pr	ita	fino	pr
 	ron	până la urmă	adv	ita	infine	adv
 	ron	până la urmă	adv	ita	finalmente	adv
-	ron	până la urmă	adv	ita	alla fine	adv$
+	ron	până la urmă	adv	ita	alla fine	adv
 	ron	până în prezent	adv	ita	finora	adv
 	ron	până și	adv	ita	fino a	adv
 	ron	pârghie	n-f$n	ita	leva	n-f$n
@@ -7533,7 +7533,7 @@ LR	ron	pământesc	adj-m-pl$$adj	ita	terrenale	adj-m
 	ron	păr	n$n-m	ita	pelo	n-m$n
 	ron	părea	vblex	ita	parere	$vblex
 	ron	părea	vblex	ita	sembrare	$vblex
-	ron	părere	n-f$n	ita	parere	n-f
+	ron	părere	n-f	ita	parere	n-f
 	ron	părinte	n	ita	padre	n-m$n$n-m-pl$
 RL	ron	părintesc	adj-m-pl$adj-m	ita	paterno	adj-m$adj$
 	ron	părintesc	adj-f-sg$adj-f	ita	paterno	adj-f
@@ -7972,7 +7972,7 @@ LR	ron	romancier	n-m	ita	romanziere	n-m
 	ron	românesc	adj-f-sg	ita	rumeno	adj$$adj-f
 	ron	românesc	adj-m-pl	ita	rumeno	adj-m
 	ron	rond	n$n-nt	ita	ronda	n$n-f
-	ron	rost	n$n-nt	ita	senso	n-m$n
+	ron	rost	n$n-nt	ita	senso	n-m$n$
 	ron	rosti	vblex	ita	pronunciare	$vblex
 	ron	rostire	n$n-f	ita	pronuncia	n-f$n
 	ron	rotație	n$n-f	ita	rotazione	n-f$n
@@ -7980,7 +7980,7 @@ LR	ron	romancier	n-m	ita	romanziere	n-m
 	ron	rotondă	n$n-f	ita	rotonda	n$n-f
 	ron	rotund	adj$	ita	rotondo	$adj$adj-sup
 	ron	rozariu	n$n-nt	ita	rosario	n$n-m
-	ron	roșu	adj-mfn-pl$$adj	ita	rosso	adj$$adj-sup
+	ron	roșu	adj-mfn-pl$$adj	ita	rosso	adj$adj-sup
 	ron	roșu	adj-f-sg$adj-f	ita	rosso	adj-f$adj-f-sg
 	ron	roșu	adj-m-pl$adj-m	ita	rosso	adj-m$adj-m-sg
 	ron	rubin	n-nt$n	ita	rubino	n$n-m
@@ -8014,7 +8014,7 @@ LR	ron	rural	adj-m	ita	rurale	adj-m
 	ron	răbda	vblex	ita	tenere	$vblex
 	ron	răbufni	vblex	ita	esplodere	$vblex
 	ron	răceală	n-f$n	ita	raffreddore	n-f
-	ron	răcni	vblex	ita	gridare	vblex$
+	ron	răcni	vblex	ita	gridare	$vblex
 	ron	răcoare	n-f	ita	fresco	n-f
 	ron	răcoare	n-f	ita	affresco	n-f
 	ron	răcori	vblex	ita	rinfrescare	$vblex
@@ -8053,7 +8053,7 @@ LR	ron	răspundere	n$n-f	ita	responsabilità	n-f-sp$n-f
 	ron	sac	n	ita	sacco	n-m$n
 	ron	sacoșă	n$n-f	ita	borsa	n-f$n
 	ron	sacrament	n$n-nt	ita	sacramento	n-m$n
-	ron	sacrifica	vblex	ita	sacrificare	vblex$
+	ron	sacrifica	vblex	ita	sacrificare	$vblex
 	ron	sacrificiu	n-nt$n	ita	sacrificio	n-m$n
 	ron	sacru	adj$	ita	sacro	adj$adj-sup$
 	ron	sadism	n-nt$n	ita	sadismo	n$n-m
@@ -8218,7 +8218,7 @@ LR	ron	senil	adj-m$$adj	ita	senile	adj-m
 	ron	seniorial	adj-GD$$adj	ita	signorile	$adj$adj-mf
 LR	ron	seniorial	adj-m$adj-m-pl	ita	signorile	adj-m
 	ron	seniorial	adj-f$adj-f-sg	ita	signorile	adj-f
-	ron	sens	n$n-nt	ita	senso	n-m$n
+	ron	sens	n$n-nt	ita	senso	n-m$n$
 	ron	sensibil	adj$adj-m-pl$	ita	sensibile	$adj$adj-mf
 LR	ron	sensibil	adj$adj-m-pl$	ita	sensibile	adj-m
 	ron	sensibil	adj-f-sg	ita	sensibile	adj-f
@@ -8319,7 +8319,7 @@ LR	ron	simpatizant	adj-m$adj	ita	simpatizzante	adj-m
 	ron	simulator	n$n-nt	ita	simulatore	n$n-GD
 	ron	simulator	n-m	ita	simulatore	n-m
 	ron	simulator	n-f	ita	simulatore	n-f
-	ron	simț	n-nt$n	ita	senso	n-m$n
+	ron	simț	n-nt$n	ita	senso	n-m$n$
 	ron	simți	vblex	ita	sentire	$vblex
 	ron	simțământ	n$n-nt	ita	sentimento	n-m$n
 	ron	sinagogă	n$n-f	ita	sinagoga	n-f$n
@@ -8400,7 +8400,7 @@ LR	ron	solemn	adj-m-pl	ita	solenne	adj-m
 	ron	solid	adj$$adj-GD	ita	solido	$adj$adj-sup
 	ron	solidaritate	n$n-f	ita	solidarietà	n-f$n-f-sp
 	ron	solitar	adj$$adj-GD	ita	solitario	adj$$adj-sup
-	ron	solstițiu	n-nt$n	ita	solstizio	n$n-m
+	ron	solstițiu	n-nt$n	ita	solstizio	n-m$n
 	ron	solubil	adj-m$$adj	ita	solubile	adj$$adj-mf
 LR	ron	solubil	adj-m$$adj	ita	solubile	adj-m
 	ron	solubil	adj-f	ita	solubile	adj-f
@@ -8418,8 +8418,8 @@ LR	ron	solvent	adj$adj-m	ita	solvente	adj-m
 	ron	sondare	n-f$n	ita	sondaggio	n-f
 	ron	sonoritate	n$n-f	ita	sonorità	n-f-sp$n-f
 	ron	sonorizare	n$n-f	ita	sonorizzazione	n$n-f
-	ron	sopran	n$n-m	ita	soprano	n-mf$n
-LR	ron	sopran	n$n-m	ita	soprano	n-m
+	ron	sopran	n-m$n	ita	soprano	n-mf$n
+LR	ron	sopran	n-m$n	ita	soprano	n-m
 	ron	sopran	n-f	ita	soprano	n-f
 	ron	sos	n$n-nt	ita	salsa	n$n-f
 	ron	sosi	vblex	ita	arrivare	$vblex
@@ -8462,14 +8462,14 @@ LR	ron	spectral	adj-m$$adj	ita	spettrale	adj-m
 	ron	speculă	n$n-f	ita	speculazione	n-f$n
 	ron	spera	vblex	ita	aspettare	vblex$
 	ron	speranță	n$n-f	ita	speranza	n-f$n
-	ron	sperietoare	n-f	ita	spaventapasseri	n-f
+	ron	sperietoare	n-f$n-f-ND	ita	spaventapasseri	n-f
 LR	ron	speță	n$n-f	ita	specie	n-f-sp$n-f
 	ron	spic	n-nt$n	ita	spiga	n-f$n
 	ron	spinal	adj-m$$adj	ita	spinale	adj$adj-mf$
 LR	ron	spinal	adj-m$$adj	ita	spinale	adj-m
 	ron	spinal	adj-f	ita	spinale	adj-f
 	ron	spion	n-f	ita	spia	n-f$n
-LR	ron	spion	n-m	ita	spia	n-f$n
+LR	ron	spion	n-m$n	ita	spia	n-f$n
 	ron	spiona	vblex	ita	spiare	$vblex
 	ron	spionaj	n$n-nt	ita	spionaggio	n$n-m
 	ron	spionare	n$n-nt	ita	spionaggio	n$n-m
@@ -8491,7 +8491,7 @@ RL	ron	sportiv	n-m$	ita	sportivo	n-m$n
 LR	ron	sportiv	n-m$	ita	sportivo	n-m$n
 	ron	spovedi	vblex	ita	confessare	$vblex
 	ron	spre	pr	ita	verso	pr
-	ron	spre	pr	ita	per	pr
+	ron	spre	pr	ita	per	pr$
 	ron	spre exemplu	adv	ita	per esempio	adv
 	ron	sprijin	n$n-nt	ita	appoggio	n-m$n
 	ron	sprijini	vblex	ita	sostenere	$vblex
@@ -8504,7 +8504,7 @@ LR	ron	sportiv	n-m$	ita	sportivo	n-m$n
 	ron	sprânceană	n-f$n	ita	sopracciglio	n-m-sg$n-m$n
 	ron	spumă	n$n-f	ita	schiuma	n$n-f
 	ron	spumă	n$n-f	ita	spuma	n-f$n
-	ron	spune	vblex	ita	dire	vblex$
+	ron	spune	vblex	ita	dire	$vblex
 	ron	spăla	vblex	ita	lavare	$vblex
 	ron	spătar	n$n-nt	ita	schienale	n$n-m
 	ron	spătar	n$n-nt	ita	sostegno	n-m$n
@@ -8619,7 +8619,7 @@ LR	ron	studențesc	adj-m$adj-m-pl	ita	studentesco	adj-m$adj
 	ron	studențesc	adj-f-sg$$adj$adj-f	ita	studentesco	adj-f
 	ron	studențesc	adj-f-sg$$adj$adj-f	ita	studentesco	adj-m$adj
 	ron	studia	vblex	ita	studiare	$vblex
-	ron	studiere	n-f$n	ita	studio	n-f
+	ron	studiere	n-f	ita	studio	n-f
 	ron	studio	n-nt$n	ita	studio	n-m$n
 	ron	studiu	n-nt$n	ita	studio	n-m$n
 	ron	stup	n-m$n	ita	alveare	n-m
@@ -8781,7 +8781,7 @@ LR	ron	săptămânal	adj$adj-m$	ita	settimanale	adj-m
 	ron	sărbătorire	n$n-f	ita	celebrazione	n-f$n
 	ron	sări	vblex	ita	saltare	$vblex
 	ron	săritură	n-f$n	ita	salto	n-f
-	ron	sărut	n$n-nt	ita	bacio	n$n-m
+	ron	sărut	n-nt$n	ita	bacio	n$n-m
 	ron	sărutare	n-f$n	ita	bacio	n-f
 	ron	sărăci	vblex	ita	impoverire	vblex$
 	ron	sărăcie	n$n-f	ita	povertà	n-f-sp$n-f
@@ -8837,7 +8837,7 @@ LR	ron	teatral	adj-m-pl	ita	teatrale	adj-m
 	ron	tehnic	adj$$adj-GD	ita	tecnico	adj$adj-sup
 	ron	tehnician	n$n-m	ita	tecnico	n-m$$n
 	ron	tehnologic	adj$$adj-GD	ita	tecnologico	adj$$adj-sup
-	ron	tehnologie	n	ita	tecnologia	n$n-f
+	ron	tehnologie	n	ita	tecnologia	n-f$n
 	ron	tejghea	n$n-f	ita	barra	n-f$n
 	ron	telecomunicație	n$n-f	ita	telecomunicazione	n$n-f
 	ron	teleferic	n-f	ita	teleferica	n-f
@@ -8992,7 +8992,7 @@ LR	ron	tradițional	adj-m-pl	ita	tradizionale	adj-m
 	ron	tradițional	adj-f-sg	ita	tradizionale	adj-f
 	ron	traduce	vblex	ita	tradurre	vblex$
 	ron	traducere	n$n-f	ita	traduzione	n-f$n
-	ron	traducător	n	ita	traduttore	n$n-GD
+	ron	traducător	n	ita	traduttore	n$n-m
 	ron	trafic	n$n-nt	ita	traffico	n-m$n
 RL	ron	traficant	n-m	ita	trafficante	n-m
 LR	ron	traficant	n-m	ita	trafficante	n-m
@@ -9031,7 +9031,7 @@ LR	ron	translator	n-m	ita	interprete	n-m
 LR	ron	transparent	adj-m-pl	ita	trasparente	adj-m
 	ron	transparent	adj-f-sg	ita	trasparente	adj-f
 	ron	transparență	n$n-f	ita	trasparenza	n-f$n
-	ron	transpirație	n$n-f	ita	traspirazione	n$n-f
+	ron	transpirație	n$n-f	ita	traspirazione	n-f$n
 	ron	transplant	n-nt$n	ita	trapianto	n-m$n
 	ron	transplanta	vblex	ita	trapiantare	vblex$
 	ron	transport	n$n-nt	ita	trasporto	n-m$n
@@ -9156,7 +9156,7 @@ LR	ron	tânăr	adj$adj-m-pl	ita	giovane	adj-m
 	ron	târnosire	n$n-f	ita	consacrazione	n$n-f
 	ron	târnăcop	n$n-nt	ita	becco	n-m$n
 	ron	târziu	adv$	ita	tardi	adv$
-	ron	târziu	adv$	ita	in ritardo	adv$
+	ron	târziu	adv$	ita	in ritardo	adv
 	ron	târziu	adj$adj-mfn-pl	ita	tardivo	$adj$adj-f
 	ron	târziu	adj$adj-mfn-pl	ita	tardio	adj$adj-ind
 	ron	târziu	adj-f-sg	ita	tardivo	$adj$adj-f
@@ -9215,7 +9215,7 @@ LR	ron	umilitor	adj-m$$adj	ita	umiliante	adj-m
 	ron	umilitor	adj-f	ita	umiliante	adj-f
 	ron	umor	n$n-nt	ita	umorismo	n-m$n
 	ron	umăr	n-f	ita	spalla	n-f
-	ron	un	det-ind-m-pl$det$det-ind	ita	un	det-ind-m-sg$det$det-ind$det-ind-m
+	ron	un	det-ind-m-pl$det$det-ind	ita	un	det-ind-m-sg$$det$det-ind$det-ind-m
 	ron	unanim	adj$adj-m$	ita	unanime	$adj$adj-mf
 LR	ron	unanim	adj$adj-m$	ita	unanime	adj-m
 	ron	unanim	adj-f	ita	unanime	adj-f
@@ -9468,7 +9468,7 @@ LR	ron	vibrant	adj-m	ita	vibrante	adj-m
 	ron	viitor	adj$	ita	futuro	adj
 	ron	viitură	n$n-f	ita	inondazione	n-f$n
 	ron	vilă	n$n-f	ita	villa	n$n-f
-	ron	vin	n-nt$n	ita	vino	n$n-m
+	ron	vin	n-nt$n	ita	vino	n-m$n
 	ron	vinde	vblex	ita	vendere	vblex$
 	ron	vindeca	vblex	ita	curare	$vblex
 	ron	vineri	n-f	ita	venerdì	n-f
@@ -9511,7 +9511,7 @@ LR	ron	virtual	adj-m	ita	virtuale	adj-m
 	ron	virtute	n$n-f	ita	virtù	n-f-sp$n-f
 	ron	virus	n$n-m$n-m-sg	ita	virus	n-m$n-m-sp$n
 	ron	vis	n$n-nt	ita	sogno	n-m$n
-	ron	visa	vblex	ita	sognare	vblex$
+	ron	visa	vblex	ita	sognare	$vblex
 	ron	visceral	adj-mf$$adj	ita	viscerale	$adj$adj-mf
 LR	ron	visceral	adj-m	ita	viscerale	adj-m
 	ron	visceral	adj-f	ita	viscerale	adj-f
@@ -9643,7 +9643,7 @@ LR	ron	vulnerabil	adj$adj-m$	ita	vulnerabile	adj-m
 RL	ron	ziarist	n-m$n	ita	giornalista	n$n-m$n-mf-m
 	ron	ziarist	n-m$n	ita	giornalista	n$n-m$n-mf-m
 LR	ron	ziarist	n-m$n	ita	giornalista	n$n-m$n-mf-m
-	ron	zice	vblex	ita	dire	vblex$
+	ron	zice	vblex	ita	dire	$vblex
 RL	ron	zidar	n-m$n	ita	muratore	n-m$n
 LR	ron	zidar	n-m$n	ita	muratore	n-m$n
 	ron	zidar	n-f	ita	muratore	n-m$n
@@ -9690,7 +9690,7 @@ RL	ron	zori	n-m-pl	ita	alba	n-m
 	ron	împreună	adv	ita	insieme	adv
 	ron	împreună cu	pr	ita	insieme a	pr
 	ron	împrumut	n$n-nt	ita	prestito	n-m$n
-	ron	împrumuta	vblex	ita	prestare	vblex$
+	ron	împrumuta	vblex	ita	prestare	$vblex
 	ron	împrăștia	vblex	ita	dissipare	$vblex
 	ron	împăca	vblex	ita	riconciliare	vblex$
 	ron	împăcare	n$n-f	ita	riconciliazione	n$n-f
@@ -9778,7 +9778,7 @@ LR	ron	împărătesc	adj-m-pl$$adj	ita	imperiale	adj-m
 	ron	în sfârșit	adv	ita	infine	adv
 	ron	în spate	adv	ita	dietro	adv
 	ron	în taină	adv	ita	in segreto	adv
-	ron	în termen lung	adv	ita	a lungo termine	adv$
+	ron	în termen lung	adv	ita	a lungo termine	adv
 	ron	în timpul	pr	ita	durante	pr
 	ron	în timpul iernii	adv	ita	durante l'inverno	adv
 	ron	în timpul primăverii	adv	ita	durante la primavera	adv
@@ -9914,7 +9914,7 @@ LR	ron	înlesnire	n$n-f	ita	facilità	n-f-sp$n-f
 	ron	înmormântare	n-f$n	ita	funerale	n-f
 	ron	înmulți	vblex	ita	moltiplicare	vblex$
 	ron	înmulțire	n$n-f	ita	moltiplicazione	n$n-f
-	ron	înmâna	vblex	ita	consegnare	vblex$
+	ron	înmâna	vblex	ita	consegnare	$vblex
 	ron	înmânare	n$n-f	ita	consegna	n-f$n
 	ron	înnorat	$adj	ita	nuvoloso	adj$
 	ron	înnota	vblex	ita	nuotare	vblex$
@@ -9932,7 +9932,7 @@ LR	ron	înlesnire	n$n-f	ita	facilità	n-f-sp$n-f
 	ron	însemnare	n$n-f	ita	annotazione	n-f$n
 	ron	însemnătate	n$n-f	ita	importanza	n-f$n
 	ron	însoți	vblex	ita	accompagnare	$vblex
-	ron	înspre	pr	ita	per	pr
+	ron	înspre	pr	ita	per	pr$
 	ron	înstelat	adj$	ita	stellato	adj$
 	ron	înstrăinare	n$n-m	ita	trasferimento	n-m$n
 	ron	însumare	n$n-m	ita	accumulazione	n$n-f
@@ -9954,7 +9954,7 @@ LR	ron	însușire	n$n-f	ita	qualità	n-f$n-f-sp
 	ron	întovărăși	vblex	ita	accompagnare	$vblex
 	ron	într-	pr	ita	in	pr
 	ron	într-o anumită măsură	adv	ita	in certa misura	adv
-	ron	într-o clipă	adv	ita	immediatamente	adv
+	ron	într-o clipă	adv	ita	immediatamente	adv$
 	ron	într-o oarecare măsură	adv	ita	in certa misura	adv
 	ron	într-un fel sau altul	adv	ita	in qualche modo	adv
 	ron	între	pr	ita	tra	pr
@@ -9983,7 +9983,7 @@ LR	ron	întreg	adj-m-pl	ita	intero	adj-m
 	ron	întruni	vblex	ita	riunire	vblex$
 	ron	întrunire	n	ita	riunione	n-f$n
 	ron	întuneca	vblex	ita	oscurare	$vblex
-	ron	întâiul	adj	ita	primo	$adj$adj-ord
+	ron	întâiul	adj	ita	primo	adj$adj-ord
 	ron	întâlni	vblex	ita	trovare	$vblex
 	ron	întâmpina	vblex	ita	ricevere	$vblex
 	ron	întâmpla	vblex	ita	occorrere	$vblex
@@ -10000,7 +10000,7 @@ LR	ron	învecinat	$adj-m$adj	ita	confinante	adj-m
 	ron	învinge	vblex	ita	vincere	$vblex
 	ron	învălui	vblex	ita	avvolgere	$vblex
 	ron	învăța	vblex	ita	apprendere	$vblex
-	ron	învăța	vblex	ita	imparare	vblex$
+	ron	învăța	vblex	ita	imparare	$vblex
 	ron	învățare	n-f$n	ita	apprendimento	n-f
 	ron	învățăcel	n	ita	discepolo	n$n-mf
 	ron	învățământ	n-m	ita	insegnamento	n-m
@@ -10079,10 +10079,10 @@ LR	ron	școlar	adj$adj-m$	ita	scolastico	adj$adj-m$
 	ron	țigară	n-f	ita	sigaretta	n-f$n
 	ron	ține	vblex	ita	prendere	$vblex
 	ron	ține	vblex	ita	ricordare	vblex$
-	ron	ținti	vblex	ita	puntare	vblex$
+	ron	ținti	vblex	ita	puntare	$vblex
 	ron	țintă	n$n-f	ita	meta	n-f$n
 	ron	ținut	n$n-nt	ita	regione	n-f$n
-	ron	țipa	vblex	ita	gridare	vblex$
+	ron	țipa	vblex	ita	gridare	$vblex
 	ron	țiței	n$n-nt	ita	petrolio	n-m$n
 	ron	țuică	n-f	ita	acquavite	n-f$n
 	ron	țânțar	n$n-f	ita	zanzara	n-f$n

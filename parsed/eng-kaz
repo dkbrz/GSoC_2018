@@ -80,7 +80,7 @@ LR	eng	in	pr	kaz		$sent
 	eng	near	pr	kaz	тұс	n$n-PXD-loc
 	eng	next to	pr	kaz	жан	n$n-PXD-loc
 	eng	next to	pr	kaz	маң	n$n-px3sp-loc
-LR	eng	of	pr	kaz		$sent
+LR	eng	of	pr$	kaz		$sent
 LR	eng	off	pr	kaz		$sent
 	eng	on	pr	kaz	үст	n$n-PXD-loc
 	eng	on	pr	kaz	үст	n-px3sp-dat
@@ -357,7 +357,7 @@ LR	eng	without	pr	kaz		$sent
 	eng	mainland	n$n-sg	kaz	құрлық	n
 	eng	ridge	n	kaz	қырқа	n
 	eng	libretto	n$n-sg	kaz	либретто	n
-	eng	lyric	n-pl$n	kaz	лирика	n
+	eng	lyric	n$n-pl	kaz	лирика	n
 	eng	nearby	n	kaz	маң	n$n-px3sp-loc
 	eng	needy	n	kaz	мұқтаж	n
 	eng	campaign	n$n-ND	kaz	науқан	n
@@ -890,7 +890,7 @@ LR	eng	without	pr	kaz		$sent
 	eng	appraisal	n	kaz	бағалама	n
 	eng	rating	n$n-ND	kaz	бағалама	n
 	eng	invaluableness	n	kaz	бағаламалаушылық	n
-	eng	exchange rate	n$n-sg	kaz	бағам	n$n-px3sp
+	eng	exchange rate	n	kaz	бағам	n$n-px3sp
 	eng	disobedience	n$n-ND	kaz	бағынбаушылық	n
 	eng	insubordination	n	kaz	бағынушылық	n
 	eng	recalcitrance	n	kaz	бағынушылық	n
@@ -2071,11 +2071,11 @@ LR	eng	without	pr	kaz		$sent
 	eng	extravagance	n	kaz	есерлік	n
 	eng	giddiness	n	kaz	есіріктік	n
 	eng	cantankerousness	n	kaz	есіріктік	n
-	eng	drug	n$n-ND	kaz	есірткі	n$n-attr
+	eng	drug	n$n-sg	kaz	есірткі	n$n-attr
 	eng	narcotic	n$n-pl	kaz	есірткі	n$n-attr
 	eng	dope	n	kaz	есірткі	n$n-attr
 	eng	alcohol	n$n-sg	kaz	есірткіш	n
-	eng	drug	n$n-ND	kaz	есірткіш	n
+	eng	drug	n$n-sg	kaz	есірткіш	n
 	eng	patron	n$n-sg	kaz	жебеуші	n
 	eng	guardian	n	kaz	жебеуші	n
 	eng	cartridge	n	kaz	жебеуші	n
@@ -3485,7 +3485,7 @@ LR	eng	without	pr	kaz		$sent
 	eng	award	n$n-pl	kaz	премия	n
 	eng	premium	n$n-ND	kaz	премия	n
 	eng	prize	n$n-ND	kaz	премия	n
-	eng	drug	n$n-ND	kaz	препарат	n
+	eng	drug	n$n-sg	kaz	препарат	n
 	eng	preparation	n$n-ND	kaz	препарат	n
 	eng	prefecture	n	kaz	префектура	n
 	eng	command	n$n-ND	kaz	приказ	n
@@ -5434,7 +5434,7 @@ LR	eng	without	pr	kaz		$sent
 	eng	billy	n	kaz	шоқпар	n
 	eng	binoculars	n$n-pl	kaz	дүрбілер	n
 	eng	binomial	n	kaz	бином	n
-	eng	bin	n	kaz	бункер	n
+	eng	bin	n$	kaz	бункер	n
 	eng	bioaccumulation	n	kaz	биоаккумуляция	n
 	eng	biochemistry	n$n-unc	kaz	биохимия	n
 	eng	biochemist	n	kaz	биохимик	n
@@ -5932,7 +5932,7 @@ RL	eng	emblem	n$n-sg	kaz	герб	n
 	eng	canoeing	n	kaz	каноэмен жүзу	n
 	eng	canoeist	n	kaz	каноист	n
 	eng	canon	n	kaz	канон	n
-	eng	can	n$n-ND	kaz	қаңылтыр	n
+	eng	can	n$n-sg	kaz	қаңылтыр	n
 	eng	cantata	n	kaz	кантата	n
 	eng	canteen	n$n-ND	kaz	асхана	n
 	eng	canton	n$n-ND	kaz	кантон	n
@@ -7713,9 +7713,9 @@ RL	eng	emblem	n$n-sg	kaz	герб	n
 	eng	drop	n$n-ND	kaz	тамшы	n
 	eng	dropsy	n	kaz	шемен	n
 	eng	drought	n$n-sg	kaz	қуаңшылық	n
-	eng	Dr.	n	kaz	Доктор	n
-	eng	drug	n$n-ND	kaz	наркотик	n
-	eng	drug	n$n-ND	kaz	наркотик	n
+	eng	Dr.	n$	kaz	Доктор	n
+	eng	drug	n$n-sg	kaz	наркотик	n
+	eng	drug	n$n-sg	kaz	наркотик	n
 	eng	drugstore	n	kaz	дәріхана	n
 	eng	drum	n$n-sg	kaz	дабыл	n
 	eng	drum	n$n-sg	kaz	барабан	n
@@ -8303,7 +8303,7 @@ RL	eng	emblem	n$n-sg	kaz	герб	n
 	eng	fan	n$n-pl	kaz	жанкүйер	n
 	eng	fan	n$n-pl	kaz	жанкүйер	n
 	eng	fantasy	n$n-sg	kaz	қиял	n
-	eng	Faraday	n	kaz	фарадей	n
+	eng	Faraday	n$	kaz	фарадей	n
 	eng	farad	n	kaz	фарад	n
 	eng	farce	n	kaz	фарс	n
 	eng	find	n	kaz	табыс	n
@@ -8603,7 +8603,7 @@ RL	eng	emblem	n$n-sg	kaz	герб	n
 	eng	fluoride	n	kaz	фторид	n
 	eng	fluorine	n$n-sg	kaz	фтор	n
 	eng	fluorite	n	kaz	флюорит	n
-	eng	flu	n$n-ND	kaz	тұмау	n
+	eng	flu	n$n-sg	kaz	тұмау	n
 	eng	flute	n$n-sg	kaz	сырнай	n
 	eng	flyer	n	kaz	ұшқыш	n
 	eng	fly	n$n-ND	kaz	шыбын	n
@@ -9931,7 +9931,7 @@ RL	eng	sentiment	n$n-ND	kaz	көңіл	n
 	eng	insecurity	n$n-ND	kaz	сұйықтық	n
 	eng	insemination	n	kaz	тұқымдандыру	n
 	eng	insertion	n	kaz	салым	n
-	eng	inshore	n	kaz	жағалау	n
+	eng	inshore	n-sg$n	kaz	жағалау	n
 	eng	inside	n$n-ND	kaz	іш	n$n-PXD-loc
 	eng	insight	n$n-ND	kaz	зеректік	n
 	eng	insinuation	n	kaz	инсинуация	n
@@ -10505,8 +10505,8 @@ RL	eng	sentiment	n$n-ND	kaz	көңіл	n
 	eng	lifting	n	kaz	өрлеу	n
 	eng	lift	n$n-ND	kaz	лифт	n
 	eng	ligament	n	kaz	байланыс	n
-	eng	lightning	n$n-unc	kaz	дабылшы	n
-	eng	lightning	n$n-unc	kaz	найзағай	n
+	eng	lightning	n$n-sg	kaz	дабылшы	n
+	eng	lightning	n$n-sg	kaz	найзағай	n
 	eng	light	n$n-ND	kaz	жарық	n
 	eng	lignin	n	kaz	лигнин	n
 	eng	lignite	n	kaz	лигнит	n
@@ -10657,7 +10657,7 @@ RL	eng	sentiment	n$n-ND	kaz	көңіл	n
 	eng	lynx	n	kaz	сілеусін	n
 	eng	lyre	n$n-ND	kaz	ақындық	n
 	eng	lyricism	n	kaz	лиризм	n
-	eng	lyric	n-pl$n	kaz	сыршыл	n
+	eng	lyric	n$n-pl	kaz	сыршыл	n
 	eng	macaroni	n	kaz	түтік кеспе	n
 	eng	machete	n	kaz	мачете	n
 	eng	machination	n	kaz	айла-шарғы	n
@@ -11258,10 +11258,10 @@ RL	eng	sentiment	n$n-ND	kaz	көңіл	n
 	eng	movie soundtrack	n	kaz	кинофильмдік ән	n
 	eng	movie	n$n-ND	kaz	кинофильм	n
 	eng	MRi	n	kaz	MRi	abbr
-	eng	Mr.	n	kaz	мистер	n
-	eng	Mr.	n	kaz	Мистер	n
-	eng	Mrs.	n$n-sg	kaz	Миссис	n
-	eng	Ms.	n	kaz	Ханым	n
+	eng	Mr.	n$	kaz	мистер	n
+	eng	Mr.	n$	kaz	Мистер	n
+	eng	Mrs.	n$$n-sg	kaz	Миссис	n
+	eng	Ms.	n$	kaz	Ханым	n
 	eng	much	n	kaz	көп	n
 	eng	mucilage	n	kaz	желім	n
 	eng	mucin	n	kaz	муцин	n
@@ -13521,7 +13521,7 @@ RL	eng	sentiment	n$n-ND	kaz	көңіл	n
 	eng	salmonella	n$n-unc	kaz	салмонелла	n
 	eng	salon	n	kaz	салон	n
 	eng	saltpetre	n	kaz	селитра	n
-	eng	salt	n$n-ND	kaz	тұз	n
+	eng	salt	n$n-sg	kaz	тұз	n
 	eng	salutation	n	kaz	сәлемдесу	n
 	eng	salvation	n$n-ND	kaz	құтылыс	n
 	eng	samara	n	kaz	қанатжеміс	n
@@ -13648,7 +13648,7 @@ RL	eng	sentiment	n$n-ND	kaz	көңіл	n
 	eng	scrub	n	kaz	скраб	n
 	eng	scruple	n	kaz	күмән	n
 	eng	scrutiny	n	kaz	ықыласты қарау	n
-	eng	scuba	n	kaz	скуба	n
+	eng	scuba	n$n-sg	kaz	скуба	n
 	eng	scuffle	n	kaz	төбелесу	n
 	eng	scuffling	n	kaz	төбелес	n
 	eng	sculptor	n$n-sg	kaz	мүсінші	n
@@ -13673,7 +13673,7 @@ RL	eng	sentiment	n$n-ND	kaz	көңіл	n
 	eng	secessionism	n	kaz	сепаратизм	n
 	eng	secession	n	kaz	аулақтану	n
 	eng	seclusion	n	kaz	аулақтану	n
-	eng	second	n$n-ND	kaz	секунд	n
+	eng	second	n$n-sg	kaz	секунд	n
 	eng	secrecy	n$n-sg	kaz	құпия	n
 	eng	secretariat	n	kaz	хатшылық	n
 	eng	secretary	n$n-ND	kaz	секретарь	n
@@ -15380,7 +15380,7 @@ RL	eng	sentiment	n$n-ND	kaz	көңіл	n
 	eng	vandal	n	kaz	вандал	n
 	eng	vanila	n	kaz	ваниль	n
 	eng	vanity	n$n-sg	kaz	атаққұмар	n
-	eng	van	n$n-ND	kaz	фургон	n
+	eng	van	n$$n-ND	kaz	фургон	n
 	eng	vapour	n	kaz	бу	n
 	eng	varactor	n	kaz	варактор	n
 	eng	variability	n$n-ND	kaz	өзгергіштік	n
@@ -15898,7 +15898,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Khorezm	np-top-sg	kaz	Хорезм	np-top
 	eng	Ceylon	np-top$np-top-sg	kaz	Цейлон	np-top
 	eng	Tselinograd	np-top-sg	kaz	Целиноград	np-top
-	eng	Czech Republic	np-top$np$np-top-sg	kaz	Чехия	np-top
+	eng	Czech Republic	np-top-sg	kaz	Чехия	np-top
 	eng	Chirmeshan	np-top-sg	kaz	Чирмешән	np-top
 	eng	Chistay	np-top-sg	kaz	Чистай	np-top
 	eng	Chita	np-top-sg	kaz	Чита	np-top
@@ -15927,15 +15927,15 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Antilles	np-top-sg	kaz	Антиль	np-top
 	eng	Aral	np-top-sg	kaz	Арал	np-top$np-top-nom
 	eng	Arafur	np-top-sg	kaz	Арафур	np-top
-	eng	Atlantic	np$np-top-sg$np-top	kaz	Атлантик	np-top
+	eng	Atlantic	np$np-top-sg$np-top-m-sg$np-top	kaz	Атлантик	np-top
 	eng	Amu Darya	np-top$np-top-sg	kaz	Әмудария	np-top
 	eng	Baikal	np-top-sg$np	kaz	Байкал	np-top$np-top-nom
 	eng	Balkhash	np-top-sg	kaz	Балқаш	np-top$np-top-nom
 	eng	Alakolsky	np-top-sg	kaz	Алакөл	np-top$np-top-nom
-	eng	Baltic	np-top-sg$np-top$np	kaz	Балтика	np-top
-	eng	Baltic	np-top-sg$np-top$np	kaz	Балтық	np-top$np-top-nom
+	eng	Baltic	np-top-sg$np-top$np$np-top-m-sg	kaz	Балтика	np-top
+	eng	Baltic	np-top-sg$np-top$np$np-top-m-sg	kaz	Балтық	np-top$np-top-nom
 	eng	Bengal	np-top-sg	kaz	Бенгал	np-top
-	eng	Bering	$np-top-sg	kaz	Беринг	np-top
+	eng	Bering	np-top-nt-sg$$np-top-sg	kaz	Беринг	np-top
 	eng	Beten	np-top-sg	kaz	Бетен	np-top
 	eng	Biskay	np-top-sg	kaz	Бискай	np-top
 	eng	Bosphorus	np-top-sg$np-top	kaz	Босфор	np-top
@@ -16021,7 +16021,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Christie	np-al	kaz	Christie	np-org
 	eng	Aon	np-al	kaz	Aon	np-org
 	eng	Amway	np-al	kaz	Amway	np-org
-	eng	Adobe	np$np-al$np-al-sg	kaz	Adobe	np-org
+	eng	Adobe	np-al-sg$np$np-al	kaz	Adobe	np-org
 	eng	INSEE	np-al	kaz	INSEE	np-org
 	eng	Investment	np-al	kaz	Investment	np-org
 	eng	yahoo	np-al	kaz	yahoo	np-org
@@ -16900,7 +16900,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Linda	np-ant$np$np-ant-f$np-ant-f-sg	kaz	Линда	np-ant-f
 	eng	Madison	np-ant$np-ant-f-sg$np$np-ant-f	kaz	Мэдисон	np-ant-f
 	eng	Margaret	np-ant$np$np-ant-f-sg$np-ant-f	kaz	Маргарет	np-ant-f
-	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg	kaz	Мария	np-ant-f
+	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f	kaz	Мария	np-ant-f
 	eng	Marie	np-ant$np-ant-f-sg$np-ant-f$np	kaz	Мари	np-ant-f
 	eng	Marina	np-ant$np-ant-f$np-ant-f-sg$np	kaz	Марина	np-ant-f
 	eng	Marine	np-ant$np-ant-f$np-ant-f-sg	kaz	Марина	np-ant-f
@@ -16975,7 +16975,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Abish	np-ant-m	kaz	Әбіш	np-ant-m
 	eng	Absalam	np-ant-m	kaz	Әбсалам	np-ant-m
 	eng	Absamat	np-ant-m	kaz	Әбсамат	np-ant-m
-	eng	Abu	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Әбу	np-ant-m
+	eng	Abu	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Әбу	np-ant-m
 	eng	Abubakir	np-ant-m$np-ant-m-sg	kaz	Әбубәкір	np-ant-m
 	eng	Abwgali	np-ant-m	kaz	Әбуғали	np-ant-m
 	eng	Abwgalim	np-ant-m	kaz	Әбуғалым	np-ant-m
@@ -17020,11 +17020,11 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Abat	np-ant-m$np-ant-m-sg	kaz	Абат	np-ant-m
 	eng	Abbas	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Аббас	np-ant-m
 	eng	Abel	np-ant$np-ant-m$np$np-ant-m-sg	kaz	Абель	np-ant-m
-	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Абдель	np-ant-m
+	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Абдель	np-ant-m
 	eng	Abdi	np-ant-m	kaz	Абди	np-ant-m
 	eng	Abdo	np-ant$np-ant-m$$np$np-ant-m-sg	kaz	Абдо	np-ant-m
 	eng	Abraham	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Абрахам	np-ant-m
-	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Абдул	np-ant-m
+	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Абдул	np-ant-m
 	eng	Abdullah	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Абдулла	np-ant-m
 	eng	Abzal	np-ant-m$np-ant-m-sg	kaz	Абзал	np-ant-m
 	eng	Abubakir	np-ant-m$np-ant-m-sg	kaz	Абубакир	np-ant-m
@@ -17383,7 +17383,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Bolsynbek	np-ant-m	kaz	Болсынбек	np-ant-m
 	eng	Baudouin	np-ant$np-ant-m-sg$np-ant-m	kaz	Бодуэн	np-ant-m
 	eng	Bonaventura	np-ant$np-ant-m$np-ant-m-sg	kaz	Бонавентура	np-ant-m
-	eng	Bono	np-ant$np-ant-m$np-ant-m-sg	kaz	Боно	np-ant-m
+	eng	Bono	np-ant$np-ant-m$np-ant-m-sg$	kaz	Боно	np-ant-m
 	eng	Boranbai	np-ant-m	kaz	Боранбай	np-ant-m
 	eng	Boran	np-ant-m$np-ant-m-sg	kaz	Боран	np-ant-m
 	eng	Borangazi	np-ant-m	kaz	Боранғазы	np-ant-m
@@ -17484,7 +17484,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Victor	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Виктор	np-ant-m
 	eng	Viljan	np-ant-m	kaz	Вилжан	np-ant-m
 	eng	Vilnur	np-ant-m	kaz	Вилнұр	np-ant-m
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Вильгельм	np-ant-m
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Вильгельм	np-ant-m
 	eng	Vincent	np-ant$np-ant-m$np$np-ant-m-sg$	kaz	Винсент	np-ant-m
 	eng	Vicente	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Висенте	np-ant-m
 	eng	Vitaly	np-ant-m	kaz	Виталий	np-ant-m
@@ -17498,13 +17498,13 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Vincenzo	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Винченцо	np-ant-m
 	eng	Vito	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Вито	np-ant-m
 	eng	Vittorio	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Витторио	np-ant-m
-	eng	Vlad	np-ant$np-ant-m$np-ant-m-sg	kaz	Влад	np-ant-m
+	eng	Vlad	np-ant-m-sg$np-ant$np-ant-m	kaz	Влад	np-ant-m
 	eng	Wolfgang	np-ant-m$np-ant-m-sg$np$np-ant	kaz	Вольфганг	np-ant-m
 	eng	Won	np-ant-m	kaz	Вон	np-ant-m
 	eng	Vance	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Вэнс	np-ant-m
-	eng	Vyacheslav	np-ant-m	kaz	Вячеслав	np-ant-m
+	eng	Vyacheslav	np-ant-m$np-ant-m-sg	kaz	Вячеслав	np-ant-m
 	eng	Gabriele	np-ant$np-ant-m-sg$np-ant-m	kaz	Габриэле	np-ant-m
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Габриэль	np-ant-m
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Габриэль	np-ant-m
 	eng	Hannibal	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Ганнибал	np-ant-m
 	eng	Guy	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Гай	np-ant-m
 	eng	Galileo	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Галилео	np-ant-m
@@ -17636,7 +17636,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Alezhandro	np-ant-m	kaz	Алехандро	np-ant-m
 	eng	Alezho	np-ant-m	kaz	Алехо	np-ant-m
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Алекс	np-ant-m
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Александр	np-ant-m
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	kaz	Александр	np-ant-m
 	eng	Alexey	np-ant$np-ant-m-sg$np-ant-m	kaz	Алексей	np-ant-m
 	eng	Alessandro	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Алессандро	np-ant-m
 	eng	Allen	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Аллен	np-ant-m
@@ -17799,7 +17799,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Dastan	np-ant-m$np-ant-m-sg	kaz	Дастан	np-ant-m
 	eng	Saken	np-ant-m	kaz	Сәкен	np-ant-m
 	eng	Abzal	np-ant-m$np-ant-m-sg	kaz	Абзал	np-ant-m
-	eng	Benedict	np-ant$$np$np-ant-m$np-ant-m-sg	kaz	Бенедикт	np-ant-m
+	eng	Benedict	np-ant-m-sg$np-ant$$np$np-ant-m	kaz	Бенедикт	np-ant-m
 	eng	Farabi	np-ant-m	kaz	Фараби	np-ant-m
 	eng	Olkebai	np-ant-m	kaz	Өлкебай	np-ant-m
 	eng	Omirbay	np-ant-m	kaz	Өмірбай	np-ant-m
@@ -17837,7 +17837,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Perry	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Перри	np-ant-m
 	eng	Perseus	np-ant-m$np-ant-m-sg	kaz	Персей	np-ant-m
 	eng	Pepe	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Пепе	np-ant-m
-	eng	Pere	np$np-ant$np-ant-m$np-ant-m-sg	kaz	Пере	np-ant-m
+	eng	Pere	np$np-ant$np-ant-m-sg$np-ant-m	kaz	Пере	np-ant-m
 	eng	Perikl	np-ant-m	kaz	Перикл	np-ant-m
 	eng	Perrin	np-ant$np-ant-m-sg$$np-ant-m	kaz	Перрин	np-ant-m
 	eng	Persival	np-ant-m	kaz	Персиваль	np-ant-m
@@ -17852,7 +17852,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Placido	np-ant$np-ant-m-sg$np-ant-m	kaz	Пласидо	np-ant-m
 	eng	Plinio	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Плинио	np-ant-m
 	eng	Ptolemy	np-ant$np-ant-m$$np	kaz	Птолемей	np-ant-m
-	eng	Pierre	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Пьер	np-ant-m
+	eng	Pierre	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Пьер	np-ant-m
 	eng	Piero	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Пьеро	np-ant-m
 	eng	Pietro	np-ant$np-ant-m-sg$np-ant-m	kaz	Пьетро	np-ant-m
 	eng	Raj	np$np-ant$np-ant-m	kaz	Радж	np-ant-m
@@ -18101,7 +18101,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Stan	np-ant$np-ant-m-sg$$np$np-ant-m	kaz	Стэн	np-ant-m
 	eng	Steuart	np-ant-m	kaz	Стюарт	np-ant-m
 	eng	Stalbek	np-ant-m	kaz	Сталбек	np-ant-m
-	eng	Stanislav	np-ant-m	kaz	Станислав	np-ant-m
+	eng	Stanislav	np-ant-m$np-ant-m-sg	kaz	Станислав	np-ant-m
 	eng	Stas	np-ant-m$np-ant-m-sg	kaz	Стас	np-ant-m
 	eng	Stepan	np-ant-m$np-ant-m-sg	kaz	Степан	np-ant-m
 	eng	Steve	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Стив	np-ant-m
@@ -18279,7 +18279,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Mizam	np-ant-m	kaz	Мизам	np-ant-m
 	eng	Milorad	np-ant$np-ant-m$np$np-ant-m-sg	kaz	Милорад	np-ant-m
 	eng	Mintimer	np-ant-m$np-ant-m-sg	kaz	Минтимер	np-ant-m
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Мигель	np-ant-m
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Мигель	np-ant-m
 	eng	Michelangelo	np-ant$np-ant-m-sg$np-ant-m$np	kaz	Микеланджело	np-ant-m
 	eng	Mickey	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Микки	np-ant-m
 	eng	Milton	np-ant$np-ant-m-sg$np$$np-ant-m	kaz	Милтон	np-ant-m
@@ -18431,7 +18431,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Nikolai	np-ant-m$np$np-ant-m-sg	kaz	Николай	np-ant-m
 	eng	Nicolae	np-ant-m$np-ant$np-ant-m-sg	kaz	Николае	np-ant-m
 	eng	Nicholas	np-ant$np-ant-m$np$np-ant-m-sg$	kaz	Николас	np-ant-m
-	eng	Nicolas	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Николя	np-ant-m
+	eng	Nicolas	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Николя	np-ant-m
 	eng	Niyazbek	np-ant-m	kaz	Ниязбек	np-ant-m
 	eng	Niyazgali	np-ant-m	kaz	Ниязғали	np-ant-m
 	eng	Niyazmuxambet	np-ant-m	kaz	Ниязмұхамбет	np-ant-m
@@ -19203,7 +19203,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Dosbay	np-ant-m	kaz	Досбай	np-ant-m
 	eng	Dosbergen	np-ant-m	kaz	Досберген	np-ant-m
 	eng	Dosbol	np-ant-m	kaz	Досбол	np-ant-m
-	eng	Dos	np-ant-m	kaz	Дос	np-ant-m
+	eng	Dos	$np-ant-m	kaz	Дос	np-ant-m
 	eng	Doszhan	np-ant-m	kaz	Досжан	np-ant-m
 	eng	Dosmat	np-ant-m	kaz	Досмат	np-ant-m
 	eng	Dosmuqan	np-ant-m	kaz	Досмұқан	np-ant-m
@@ -19615,11 +19615,11 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Hilal	np-ant-m	kaz	Хилал	np-ant-m
 	eng	Joaquin	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Хоакин	np-ant-m
 	eng	Jorge	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Хорхе	np-ant-m
-	eng	Josep	np$np-ant$np-ant-m$np-ant-m-sg	kaz	Хосеп	np-ant-m
+	eng	Josep	np-ant-m-sg$np$np-ant$np-ant-m	kaz	Хосеп	np-ant-m
 	eng	Jose	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Хосе	np-ant-m
 	eng	Christopher	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Христофор	np-ant-m
 	eng	Christos	np-ant-m	kaz	Христос	np-ant-m
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Хуан	np-ant-m
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	kaz	Хуан	np-ant-m
 	eng	Coh	np-ant-m	kaz	Чок	np-ant-m
 	eng	Charlie	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Чарли	np-ant-m
 	eng	Charles	np-ant$np-ant-m$np$np-ant-m-sg$	kaz	Чарльз	np-ant-m
@@ -20240,7 +20240,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Abdi	np-ant-m	kaz	Абди	np-ant-m
 	eng	Abdizhamil	np-ant-m	kaz	Әбдіжәміл	np-ant-m
 	eng	Abdo	np-ant$np-ant-m$$np$np-ant-m-sg	kaz	Абдо	np-ant-m
-	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Абдул	np-ant-m
+	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Абдул	np-ant-m
 	eng	Abdulla	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Абдулла	np-ant-m
 	eng	Abel	np-ant$np-ant-m$np$np-ant-m-sg	kaz	Абель	np-ant-m
 	eng	Abish	np-ant-m	kaz	Әбіш	np-ant-m
@@ -20259,7 +20259,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Ag	np-ant-m	kaz	Аг	np-ant-m
 	eng	Agamemnon	np-ant$np-ant-m$np-ant-m-sg	kaz	Агамемнон	np-ant-m
 	eng	Agostino	np-ant$np-ant-m$$np-ant-m-sg	kaz	Агостино	np-ant-m
-	eng	Agustín	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Агустин	np-ant-m
+	eng	Agustín	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Агустин	np-ant-m
 	eng	Ahmad	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Ахмад	np-ant-m
 	eng	Ahmed	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Ахмед	np-ant-m
 	eng	Ak	np-ant-m	kaz	Ак	np-ant-m
@@ -20270,7 +20270,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Albert	np$np-ant$np-ant-m$np-ant-m-sg	kaz	Альберт	np-ant-m
 	eng	Aldar Kose	np-ant-m	kaz	Алдар Көсе	np-ant-m
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Алекс	np-ant-m
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Александр	np-ant-m
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	kaz	Александр	np-ant-m
 	eng	Alfred	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Альфред	np-ant-m
 	eng	Allan	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Аллан	np-ant-m
 	eng	Allen	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Аллен	np-ant-m
@@ -20411,13 +20411,13 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Doph	np-ant-m	kaz	Доф	np-ant-m
 	eng	Dor	$np-ant-m	kaz	Дор	np-ant-m
 	eng	Douglas	np-ant$np$np-ant-m-sg$np-ant-m$	kaz	Дуглас	np-ant-m
-	eng	Du	np-ant-m	kaz	Ду	np-ant-m
+	eng	Du	$np-ant-m	kaz	Ду	np-ant-m
 	eng	Earl	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Эрл	np-ant-m
 	eng	Ed	np$np-ant-m$np-ant-m-sg	kaz	Ид	np-ant-m
 	eng	Edward	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Эдвард	np-ant-m
 	eng	Eg	np-ant-m	kaz	Иг	np-ant-m
 	eng	Ek	np-ant-m	kaz	Эк	np-ant-m
-	eng	El	np-ant-m	kaz	Эль	np-ant-m
+	eng	El	np-ant-m$np-ant-m-sg	kaz	Эль	np-ant-m
 	eng	Ep	np-ant-m	kaz	Ер	np-ant-m
 	eng	Eph	np-ant-m	kaz	Еф	np-ant-m
 	eng	Epicurus	np-ant-m$np-ant-m-sg$np-ant	kaz	Эпикур	np-ant-m
@@ -20544,7 +20544,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Jagger	np-ant$np-ant-m$np$np-ant-m-sg	kaz	Джаггер	np-ant-m
 	eng	Jah	np-ant-m	kaz	Джа	np-ant-m
 	eng	James	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Джеймс	np-ant-m
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Ян	np-ant-m
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Ян	np-ant-m
 	eng	Japh	np-ant-m	kaz	Джаф	np-ant-m
 	eng	Jash	np-ant-m	kaz	Джаш	np-ant-m
 	eng	Jason	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Джейсон	np-ant-m
@@ -20586,10 +20586,10 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	José	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Хосе	np-ant-m
 	eng	Jot	np-ant-m	kaz	Йот	np-ant-m
 	eng	Ju	np-ant-m	kaz	Ю	np-ant-m
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Хуан	np-ant-m
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	kaz	Хуан	np-ant-m
 	eng	Junior	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Юниор	np-ant-m
 	eng	Jut	np-ant-m	kaz	Джут	np-ant-m
-	eng	Jürgen	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Юрген	np-ant-m
+	eng	Jürgen	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Юрген	np-ant-m
 	eng	Ka	np-ant-m	kaz	Ка	np-ant-m
 	eng	Kab	np-ant-m	kaz	Каб	np-ant-m
 	eng	Kad	np-ant-m	kaz	Кад	np-ant-m
@@ -20606,7 +20606,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Kei	np-ant-m	kaz	Кей	np-ant-m
 	eng	Keith	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Кит	np-ant-m
 	eng	Kelly	np-ant$np-ant-m-sg$np$np-ant-m$	kaz	Келли	np-ant-m
-	eng	Ken	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Кен	np-ant-m
+	eng	Ken	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Кен	np-ant-m
 	eng	Kennedy	np-ant$np-ant-m$$np	kaz	Кеннеди	np-ant-m
 	eng	Kent	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Кент	np-ant-m
 	eng	Ker	np-ant-m	kaz	Кер	np-ant-m
@@ -20631,7 +20631,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Larry	np-ant$np-ant-m$np$np-ant-m-sg	kaz	Ларри	np-ant-m
 	eng	Lawrence	np-ant$np$$np-ant-m$np-ant-m-sg	kaz	Лоренс	np-ant-m
 	eng	Laz	np-ant-m	kaz	Лаз	np-ant-m
-	eng	Le	np$np-ant-m	kaz	Ле	np-ant-m
+	eng	Le	np-ant-m$np-ant-m-sg	kaz	Ле	np-ant-m
 	eng	Leb	np-ant-m	kaz	Леб	np-ant-m
 	eng	Lee	np-ant$np$np-ant-m$$np-ant-m-sg	kaz	Ли	np-ant-m
 	eng	Lem	np-ant-m	kaz	Лем	np-ant-m
@@ -20655,7 +20655,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Mamai	np-ant-m	kaz	Мамай	np-ant-m
 	eng	Manuel	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Мануэль	np-ant-m
 	eng	Marat	np-ant-m$$np-ant-m-sg	kaz	Марат	np-ant-m
-	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Марк	np-ant-m
+	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Марк	np-ant-m
 	eng	Mark	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Марк	np-ant-m
 	eng	Marshall	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Маршалл	np-ant-m
 	eng	Martin	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Мартин	np-ant-m
@@ -20715,7 +20715,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Nicholas	np-ant$np-ant-m$np$np-ant-m-sg$	kaz	Николай	np-ant-m
 	eng	Nick	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Ник	np-ant-m
 	eng	Nicolae	np-ant-m$np-ant$np-ant-m-sg	kaz	Николае	np-ant-m
-	eng	Nicolas	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Николас	np-ant-m
+	eng	Nicolas	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Николас	np-ant-m
 	eng	Nim	np-ant-m	kaz	Ним	np-ant-m
 	eng	Nin	np-ant-m	kaz	Нин	np-ant-m
 	eng	Nis	np-ant-m	kaz	Ниш	np-ant-m
@@ -20756,7 +20756,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Phoenix	np-ant$np$np-ant-m$$np-ant-m-sg	kaz	Финикс	np-ant-m
 	eng	Phryg	np-ant-m	kaz	Фрыг	np-ant-m
 	eng	Pi	$np$np-ant-m	kaz	Пи	np-ant-m
-	eng	Pierre	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Пьер	np-ant-m
+	eng	Pierre	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Пьер	np-ant-m
 	eng	Pil	np-ant-m	kaz	Пил	np-ant-m
 	eng	Pir	np-ant-m	kaz	Пир	np-ant-m
 	eng	Pis	np-ant-m	kaz	Пис	np-ant-m
@@ -20911,7 +20911,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Walter	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Вальтер	np-ant-m
 	eng	Warren	np-ant$np$np-ant-m-sg$np-ant-m$	kaz	Уаррен	np-ant-m
 	eng	Wayne	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Уэйн	np-ant-m
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Уильям	np-ant-m
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Уильям	np-ant-m
 	eng	Williams	np-ant$np$np-ant-m$np-ant-m-sg$	kaz	Уильямс	np-ant-m
 	eng	Wilson	np-ant$np$np-ant-m-sg$np-ant-m$	kaz	Уилсон	np-ant-m
 	eng	Xi	np-ant-m	kaz	Си	np-ant-m
@@ -21032,7 +21032,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Blaze	np$np-ant$np-ant-m-sg$np-ant-m	kaz	Блэйз	np-ant-m
 	eng	Bo	np-ant$np-ant-m-sg$$np$np-ant-m	kaz	Бо	np-ant-m
 	eng	Bonaventure	np-ant$np-ant-m-sg	kaz	Бонавентура	np-ant-m
-	eng	Bono	np-ant$np-ant-m$np-ant-m-sg	kaz	Боно	np-ant-m
+	eng	Bono	np-ant$np-ant-m$np-ant-m-sg$	kaz	Боно	np-ant-m
 	eng	Boris	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Борис	np-ant-m
 	eng	Brad	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Брэд	np-ant-m
 	eng	Bradley	np-ant$np$np-ant-m-sg$$np-ant-m	kaz	Брэдли	np-ant-m
@@ -21198,7 +21198,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Friedrich	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Фридрих	np-ant-m
 	eng	Fulgencio	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Фульхенсио	np-ant-m
 	eng	Gabidulla	np-ant-m$np-ant-m-sg	kaz	Ғабидолла	np-ant-m
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	kaz	Габриэль	np-ant-m
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Габриэль	np-ant-m
 	eng	Gabriele	np-ant$np-ant-m-sg$np-ant-m	kaz	Габриэле	np-ant-m
 	eng	Gaddafi	$np$np-ant$np-ant-m$np-ant-m-sg	kaz	Каддафи	np-ant-m
 	eng	Gael	np-ant$np-ant-m-sg$np	kaz	Гаэль	np-ant-m
@@ -21305,7 +21305,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Jonas	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Йонас	np-ant-m
 	eng	Jorge	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Хорхе	np-ant-m
 	eng	Josef	np-ant$np-ant-m-sg$$np	kaz	Джозеф	np-ant-m
-	eng	Josep	np$np-ant$np-ant-m$np-ant-m-sg	kaz	Хосеп	np-ant-m
+	eng	Josep	np-ant-m-sg$np$np-ant$np-ant-m	kaz	Хосеп	np-ant-m
 	eng	Josh	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Джош	np-ant-m
 	eng	Joshua	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Джошуа	np-ant-m
 	eng	Jovan	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Йован	np-ant-m
@@ -21400,7 +21400,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Michelangelo	np-ant$np-ant-m-sg$np-ant-m$np	kaz	Микеланджело	np-ant-m
 	eng	Michele	np-ant$np-ant-m-sg$np	kaz	Мишель	np-ant-m
 	eng	Mickey	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Микки	np-ant-m
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	kaz	Мигель	np-ant-m
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Мигель	np-ant-m
 	eng	Mikhail	np-ant$np-ant-m-sg$$np$np-ant-m	kaz	Михаил	np-ant-m
 	eng	Milad	np-ant$np-ant-m-sg$np	kaz	Милад	np-ant-m
 	eng	Milo	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Мило	np-ant-m
@@ -21454,7 +21454,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Pedro	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Педро	np-ant-m
 	eng	Pepe	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Пепе	np-ant-m
 	eng	Percival	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Персиваль	np-ant-m
-	eng	Pere	np$np-ant$np-ant-m$np-ant-m-sg	kaz	Пере	np-ant-m
+	eng	Pere	np$np-ant$np-ant-m-sg$np-ant-m	kaz	Пере	np-ant-m
 	eng	Pericles	np-ant$np-ant-m-sg$np	kaz	Перикл	np-ant-m
 	eng	Perrin	np-ant$np-ant-m-sg$$np-ant-m	kaz	Перрин	np-ant-m
 	eng	Philippe	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Филипп	np-ant-m
@@ -21590,7 +21590,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Virgil	np-ant$np-ant-m$$np$np-ant-m-sg	kaz	Вергилий	np-ant-m
 	eng	Vito	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Вито	np-ant-m
 	eng	Vittorio	np-ant$np-ant-m$np-ant-m-sg$np	kaz	Витторио	np-ant-m
-	eng	Vlad	np-ant$np-ant-m$np-ant-m-sg	kaz	Влад	np-ant-m
+	eng	Vlad	np-ant-m-sg$np-ant$np-ant-m	kaz	Влад	np-ant-m
 	eng	Walid	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Валид	np-ant-m
 	eng	Wallace	np-ant-m-sg$$np$np-ant$np-ant-m	kaz	Уоллес	np-ant-m
 	eng	Walt	np-ant$np-ant-m-sg$np$np-ant-m	kaz	Уолт	np-ant-m
@@ -22042,7 +22042,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Prieto	np-cog$$np-cog-mfn	kaz	Прието	np-cog-mf
 	eng	Procter	np-cog-sg$np-cog$	kaz	Проктер	np-cog-mf
 	eng	Proust	np-cog-sg$np-cog$	kaz	Пруст	np-cog-mf
-	eng	Puig	np-cog$	kaz	Пуч	np-cog-mf
+	eng	Puig	$np-cog	kaz	Пуч	np-cog-mf
 	eng	Putin	np-cog$np-cog-pl$np$	kaz	Путин	np-cog$np-cog-m
 	eng	Pottering	np-cog	kaz	Поттеринг	np-cog-mf
 	eng	Quixote	np-cog	kaz	Кихот	np-cog-m
@@ -22283,7 +22283,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Gluxovka	np-top	kaz	Глуховка	np-top$np-top-nom
 	eng	Gornyi	np-top	kaz	Горный	np-top$np-top-nom
 	eng	Gorkovskoe	np-top$np-top-sg	kaz	Горьковское	np-top$np-top-nom
-	eng	Greenland	np-top$np$np-top-sg	kaz	Гренландия	np-top$np-top-nom
+	eng	Greenland	np-top$np$np-top-sg$np-top-nt-sg	kaz	Гренландия	np-top$np-top-nom
 	eng	Greece	np-top$np$np-top-sg	kaz	Греция	np-top
 	eng	Greenwich	np-top-sg$np$np-top	kaz	Гринвич	np-top$np-top-nom
 	eng	Grodekovo	np-top$np-top-sg	kaz	Гродеково	np-top$np-top-nom
@@ -22517,7 +22517,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Bratislava	np-top$np-top-sg	kaz	Братислава	np-top
 	eng	Brussels	np-top$np$np-top-sg	kaz	Бруссел	np-top
 	eng	Bryansk	np-top	kaz	Брянск	np-top
-	eng	Bois	$np-top	kaz	Буа	np-top
+	eng	Bois	np-top-sg$$np-top	kaz	Буа	np-top
 	eng	Bugyly	np-top	kaz	Бұғылы	np-top$np-top-nom
 	eng	Bugyty	np-top	kaz	Бұғыты	np-top$np-top-nom
 	eng	Budarin	np-top$np-top-sg	kaz	Бударин	np-top$np-top-nom
@@ -22698,7 +22698,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Samar	np-top-sg	kaz	Самар	np-top
 	eng	Samo	np$np-top-sg	kaz	Само	np-top
 	eng	Sana	np$np-top-sg	kaz	Сана	np-top
-	eng	Santiago	np-top-sg	kaz	Сантьяго	np-top
+	eng	Santiago	np-top-sg$np-top	kaz	Сантьяго	np-top
 	eng	Saran	np-top-sg	kaz	Саран	np-top
 	eng	Saratov	np-top$np-top-sg	kaz	Саратов	np-top
 	eng	Sarman	np-top-sg	kaz	Сарман	np-top
@@ -22732,7 +22732,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Elbrus	np-top-sg	kaz	Эльбрус	np-top
 	eng	Mitsubishi	np-top-sg	kaz	Мицубиси	np-top
 	eng	Sumitomo	np-top-sg	kaz	Сумитомо	np-top
-	eng	National	np$np-top-sg	kaz	Нэшнл	np-top
+	eng	National	np-top-sg	kaz	Нэшнл	np-top
 	eng	Barclays	np-top-sg	kaz	Барклейз	np-top
 	eng	Midland	np-top-sg	kaz	Мидлэнд	np-top
 	eng	Lloidz	np-top-sg	kaz	Ллоидз	np-top
@@ -23065,7 +23065,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Balkudyk	np-top$np-top-sg	kaz	Балқұдық	np-top$np-top-nom
 	eng	Baltabai	np-top-sg	kaz	Балтабай	np-top$np-top-nom
 	eng	Baltatarak	np-top-sg	kaz	Балтатарақ	np-top$np-top-nom
-	eng	Baltic	np-top-sg$np-top$np	kaz	Балтық	np-top$np-top-nom
+	eng	Baltic	np-top-sg$np-top$np$np-top-m-sg	kaz	Балтық	np-top$np-top-nom
 	eng	Baltimore	np-top-sg$np-top	kaz	Балтимор	np-top
 	eng	Baltyk	np-top-sg	kaz	Балтық	np-top$np-top-nom
 	eng	Balyk	np-top$np-top-sg	kaz	Балық	np-top$np-top-nom
@@ -23145,7 +23145,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Berg	np-top-sg	kaz	Берг	np-top-nom
 	eng	Berikkara	np-top-sg	kaz	Берікқара	np-top-nom
 	eng	Beriktas	np-top$np-top-sg	kaz	Беріктас	np-top$np-top-nom
-	eng	Berlin	np-top$np$np-top-sg	kaz	Берлин	np-top
+	eng	Berlin	np-top$np$np-top-sg$np-top-m-sg	kaz	Берлин	np-top
 	eng	Berne	np-top$np-top-sg	kaz	Берн	np-top
 	eng	Bershintobeh	np-top-sg	kaz	Бершінтөбе	np-top$np-top-nom
 	eng	Bertis	np-top$np-top-sg	kaz	Бертіс	np-top$np-top-nom
@@ -23207,8 +23207,8 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Borodulikha	np-top$np-top-sg	kaz	Бородулиха	np-top$np-top-nom
 	eng	Borokhoro	np-top-sg	kaz	Борохоро	np-top$np-top-nom
 	eng	Borovskiy	np-top-sg	kaz	Боровский	np-top$np-top-nom
-	eng	Bosnia	np-top-sg	kaz	Босния	np-top
-	eng	Bosnia and Herzegovina	np-top$np-top-sg$np	kaz	Босния және Герцеговина	np-top
+	eng	Bosnia	np-top$np$np-top-sg	kaz	Босния	np-top
+	eng	Bosnia and Herzegovina	np-top$np$np-top-sg	kaz	Босния және Герцеговина	np-top
 	eng	Bostandyk	np-top$np-top-sg	kaz	Бостандық	np-top$np-top-nom
 	eng	Bostankum	np-top$np-top-sg	kaz	Бостанқұм	np-top$np-top-nom
 	eng	Boston	np-top-sg$np-top	kaz	Бостон	np-top
@@ -23280,7 +23280,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Canberra	np-top-sg$np-top	kaz	Канберра	np-top
 	eng	Cape-Verde	np-top-sg	kaz	Капа-Верде	np-top
 	eng	Caracas	np-top$np-top-sg	kaz	Каракас	np-top
-	eng	Caribbean	np-top-sg$np$np-top	kaz	Кариб	np-top
+	eng	Caribbean	np-top-sg$np$np-top$np-top-nt-sg	kaz	Кариб	np-top
 	eng	Casablanca	np-top-sg$np	kaz	Касабланка	np-top
 	eng	Catalonia	np-top$np-top-sg	kaz	Каталония	np-top
 	eng	Central African Republic	np-top$np$np-top-sg	kaz	Орталық Африка Республика	n-px3sp-nom
@@ -23295,13 +23295,13 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Comoros	np-top$np-top-sg$np	kaz	Комор	np-top
 	eng	Congo	np-top$np$np-top-sg	kaz	Конго	np-top
 	eng	Copenhagen	np$np-top-sg$np-top	kaz	Копенгаген	np-top
-	eng	Costa Rica	np-top$np-top-sg$np	kaz	Коста-Рика	np-top
+	eng	Costa Rica	np-top$np$np-top-sg	kaz	Коста-Рика	np-top
 	eng	Cote d'ivoire	np-top-sg	kaz	Кот-д'Ивуар	np-top
 	eng	Croatia	np-top-sg	kaz	Хорватия	np-top
 	eng	Cuba	np-top$np$np-top-sg	kaz	Куба	np-top
 	eng	Curacao	np-top-sg	kaz	Кюракао	np-top
 	eng	Cyprus	np-top$np$np-top-sg	kaz	Кипр	np-top
-	eng	Czech Republic	np-top$np$np-top-sg	kaz	Чех Республикасы	np-top
+	eng	Czech Republic	np-top-sg	kaz	Чех Республикасы	np-top
 	eng	Czechoslovakia	np-top$np$np-top-sg	kaz	Чехословакия	np-top
 	eng	Dabysyn	np-top$np-top-sg	kaz	Дабысын	np-top$np-top-nom
 	eng	Daghandeli	np-top-sg	kaz	Дағанделі	np-top$np-top-nom
@@ -23343,7 +23343,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Duisenbai	np-top-sg	kaz	Дүйсенбай	np-top$np-top-nom
 	eng	Dungeneh	np-top-sg	kaz	Дүнгене	np-top$np-top-nom
 	eng	Dvurechnoeh	np-top-sg	kaz	Двуречное	np-top$np-top-nom
-	eng	East Timor	np-top$np-top-sg$np	kaz	Күншығыс Тимор	np-top
+	eng	East Timor	np-top$np$np-top-sg	kaz	Күншығыс Тимор	np-top
 	eng	Ecuador	np-top$np-top-sg$np	kaz	Эквадор	np-top
 	eng	Edinburgh	np-top$np$np-top-sg	kaz	Эдинбург	np-top
 	eng	Egypt	np-top$np$np-top-sg	kaz	Мысыр	np-top
@@ -23384,7 +23384,7 @@ RL	eng	by	pr	kaz	сайын	post
 	eng	Granada	np-top-sg	kaz	Гранада	np-top
 	eng	Greece	np-top$np$np-top-sg	kaz	Грекия	np-top
 	eng	Greek	np$np-top$np-top-sg	kaz	Грек	np-top-nom
-	eng	Greenland	np-top$np$np-top-sg	kaz	Гренландия	np-top$np-top-nom
+	eng	Greenland	np-top$np$np-top-sg$np-top-nt-sg	kaz	Гренландия	np-top$np-top-nom
 	eng	Greenwich	np-top-sg$np$np-top	kaz	Гринвич	np-top$np-top-nom
 	eng	Grenada	np-top$np$np-top-sg	kaz	Гренада	np-top
 	eng	Grodekovo	np-top$np-top-sg	kaz	Гродеково	np-top$np-top-nom
@@ -23502,7 +23502,7 @@ RL	eng	Kazakhstan	np-top$np-top-sg$np	kaz	Қазақстан	np-nom
 	eng	Mauritania	np-top$np-top-sg$np	kaz	Мавритания	np-top
 	eng	Mauritius	np-top$np-top-sg$np	kaz	Маврикий	np-top
 	eng	Mecca	np-top$np-top-sg$np	kaz	Мекке	np-top$np-top-nom
-	eng	Mediterranean	np-top$np-top-sg	kaz	Жерорта теңізі	np-top
+	eng	Mediterranean	np-top$np-top-sg$np-top-nt-sg	kaz	Жерорта теңізі	np-top
 	eng	Mexico	np-top$np$np-top-sg	kaz	Мексика	np-top
 	eng	Miami	np-top-sg$np-top	kaz	Майами	np-top
 	eng	Michigan	np-top-sg$np-top	kaz	Мичиган	np-top
@@ -23532,7 +23532,7 @@ RL	eng	Kazakhstan	np-top$np-top-sg$np	kaz	Қазақстан	np-nom
 	eng	Netherlands	np$np-top$np-top-sg	kaz	Нидерланд	np-top
 	eng	Baku	np-top-sg$np-top	kaz	Баку	np-top
 	eng	Netherlands	np$np-top$np-top-sg	kaz	Нидерландылар	np-top
-	eng	Netherlands Antilles	np-top-sg$np-top	kaz	Нидерландтық антил аралдар	np-top
+	eng	Netherlands Antilles	np-top$np-top-sg	kaz	Нидерландтық антил аралдар	np-top
 	eng	Nevada	np-top-sg$np-top	kaz	Невада	np-top
 	eng	New Zealand	np-top$np$np-top-sg	kaz	Жаңа Зеландия	np-top
 	eng	Nicaragua	np-top$np-top-sg$np	kaz	Никарагуа	np-top
@@ -23548,12 +23548,12 @@ RL	eng	Kazakhstan	np-top$np-top-sg$np	kaz	Қазақстан	np-nom
 	eng	Oran	np-top-sg	kaz	Оран	np-top
 	eng	Oregon	np-top$np-top-sg$np	kaz	Орегон	np-top
 	eng	Osaka	np-top-sg$np	kaz	Осака	np-top
-	eng	Oslo	np-top-sg$np-top	kaz	Осло	np-top
+	eng	Oslo	np-top-sg$np-top$np-top-m-sg	kaz	Осло	np-top
 	eng	Pakistan	np-top-sg	kaz	Пәкістан	np-top
 	eng	Palau	np-top$np-top-sg$np	kaz	Палау	np-top
 	eng	Palermo	np-top-sg$np	kaz	Палермо	np-top
 	eng	Palestinian Territories	np-top-sg	kaz	Палестиналық аумақтар	np-top
-	eng	Panama	np-top$np$np-top-sg	kaz	Панама	np-top
+	eng	Panama	np-top$np$np-top-sg$np-top-m-sg	kaz	Панама	np-top
 	eng	Papua New Guinea	np-top$np$np-top-sg	kaz	Папуа Жаңа Гвинея	np-top
 	eng	Paraguay	np-top$np-top-sg$np	kaz	Парагвай	np-top
 	eng	Paris	np-top-sg	kaz	Париж	np-top
@@ -23584,7 +23584,7 @@ RL	eng	Kazakhstan	np-top$np-top-sg$np	kaz	Қазақстан	np-nom
 	eng	Saint Lucia	np-top$np-top-sg	kaz	Сент-Люсия	np-top
 	eng	Saint Vincent and the Grenadines	np-top$np-top-sg	kaz	Сент-Винсент пен Гренадиндер	np-top
 	eng	Samoa	np-top$np-top-sg$np	kaz	Самоа	np-top
-	eng	San Marino	np-top$np-top-sg$np	kaz	Сан-Марино	np-top
+	eng	San Marino	np-top$np$np-top-sg	kaz	Сан-Марино	np-top
 	eng	San Tome and Principe	np-top-sg	kaz	Сан-Томе және Принсипи	np-top
 	eng	Saragossa	np-top-sg	kaz	Сарагоса	np-top
 	eng	Sarajevo	np-top-sg	kaz	Сараево	np-top
@@ -23620,7 +23620,7 @@ RL	eng	Kazakhstan	np-top$np-top-sg$np	kaz	Қазақстан	np-nom
 	eng	Spain	np-top$np$np-top-sg	kaz	Испания	np-top
 	eng	Italy	np-top$np$np-top-sg	kaz	Италия	np-top
 	eng	Iran	np-top-sg	kaz	Иран	np-top
-	eng	Sri Lanka	np-top$np-top-sg$np	kaz	Шри-Ланка	np-top
+	eng	Sri Lanka	np-top-sg	kaz	Шри-Ланка	np-top
 	eng	Stockholm	np-top$np$np-top-sg	kaz	Стокгольм	np-top
 	eng	Ames	np-top-sg	kaz	Эймс	np-top
 	eng	Roma	np-top-sg	kaz	Рим	np-top
@@ -23679,13 +23679,13 @@ RL	eng	Kazakhstan	np-top$np-top-sg$np	kaz	Қазақстан	np-nom
 	eng	USA	np-top-sg$np-top	kaz	АҚШ	np-top$np-top-nom
 	eng	Uganda	np-top$np-top-sg$np	kaz	Уганда	np-top
 	eng	Ukraine	np-top$np$np-top-sg	kaz	Украина	np-top
-	eng	United Arab Emirates	np-top-sg	kaz	Бірлескен араб эмираттары	np-top-px3sp-nom
+	eng	United Arab Emirates	np-top$np-top-sg	kaz	Бірлескен араб эмираттары	np-top-px3sp-nom
 	eng	United Kingdom	np-top-sg	kaz	Ұлыбритания	np-top$np-top-nom
 	eng	Uruguay	np-top$np$np-top-sg	kaz	Уругвай	np-top
 	eng	Utah	np-top-sg$np-top	kaz	Юта	np-top
 	eng	Uzbekistan	np-top$np-top-sg$np	kaz	Өзбекстан	np-top
 	eng	Vanuatu	np-top$np-top-sg	kaz	Вануату	np-top
-	eng	Vatican	np-top$np-top-sg	kaz	Ватикан	np-top
+	eng	Vatican	np-top-sg$np-top$np-top-m-sg	kaz	Ватикан	np-top
 	eng	Venezuela	np-top$np$np-top-sg	kaz	Венесуэла	np-top
 	eng	Verkhneberezovskiy	np-top-sg	kaz	Верхнеберезовский	np-top$np-top-nom
 	eng	Verkhubinka	np$np-top-sg	kaz	Верхубинка	np-top$np-top-nom
@@ -23791,7 +23791,7 @@ RL	eng	Kazakhstan	np-top$np-top-sg$np	kaz	Қазақстан	np-nom
 	eng	Alpine	np-top-sg	kaz	Альпі	np-top$np-top-pl
 	eng	Antananarivo	np-top$np-top-sg	kaz	Антананариву	np-top
 	eng	Apas	np-top-sg	kaz	Апас	np-top
-	eng	Arctic	np$np-top-sg	kaz	Арктика	np-top
+	eng	Arctic	np$np-top-sg$np-top-nt-sg	kaz	Арктика	np-top
 	eng	Arkhangelsk	np-top-sg$np-top	kaz	Архангельск	np-top
 	eng	Artemid	np-top-sg	kaz	Артемид	np-top
 	eng	Archa	np-top-sg	kaz	Арча	np-top
@@ -24996,8 +24996,8 @@ LR	eng	outermost	adv	kaz	ең алыс	adv
 	eng	allomorphic	adj	kaz	алломорфты	adj-subst
 	eng	allopatric	adj	kaz	аллопатрикалық	adj-subst
 	eng	allotted	adj	kaz	бөлінген	adj$adj-subst
-	eng	all	adj$	kaz	барлық	adj$adj-subst
-	eng	all	adj$	kaz	түгел	adj
+	eng	all	adj	kaz	барлық	adj$adj-subst
+	eng	all	adj	kaz	түгел	adj
 	eng	allured	adj	kaz	қызыққан	adj$adj-subst
 	eng	alluring	adj	kaz	тартымды	adj
 	eng	allusive	adj	kaz	астарлы	adj-subst
@@ -26106,7 +26106,7 @@ LR	eng	outermost	adv	kaz	ең алыс	adv
 	eng	first	adj$adj-ord	kaz	бірінші	adj
 	eng	first	adj$adj-ord	kaz	тұңғыш	adj
 	eng	findable	adj	kaz	анықтаған	adj
-	eng	all	adj$	kaz	түгел	adj
+	eng	all	adj	kaz	түгел	adj
 	eng	fiscal	adj	kaz	фискальді	adj
 	eng	fivefold	adj	kaz	бес еселі	adj
 	eng	flagrant	adj	kaz	сорақы	adj
@@ -28666,7 +28666,7 @@ RL	eng	years old	adj$	kaz	жасар	adj
 	eng	twentieth	det$det-ord-sp$det-ord	kaz	жиырма	num$num-ord$num-ord-subst-nom
 	eng	everything	prn-tn-m-sg$prn$prn-tn	kaz	барлық	prn-qnt$prn
 	eng	they	prn$prn-FD-p3	kaz	олар	prn-pers$prn-pers-p3-pl$prn-pers-p3-pl-gen$prn$prn-pers-p3
-	eng	we	prn-subj	kaz	біз	prn-pers$prn-pers-p1-pl-gen$prn-pers-p1-pl$prn-pers-p1-pl-gen-subst
+	eng	we	prn$prn-subj-p1-mf$prn-subj	kaz	біз	prn-pers$prn-pers-p1-pl-gen$prn-pers-p1-pl$prn-pers-p1-pl-gen-subst
 	eng	you	prn$prn-FD-p2	kaz	сен	prn-pers$prn-pers-p2-sg-gen$prn-pers-p2-sg$prn
 	eng	you	prn$prn-FD-p2	kaz	сендер	prn-pers-p2-pl$prn-pers$prn-pers-p2-pl-gen
 	eng	which	prn-itg-m-sp$prn$prn-itg	kaz	қайсы	det-itg$det
@@ -28675,7 +28675,7 @@ RL	eng	years old	adj$	kaz	жасар	adj
 	eng	whose	prn$prn-itg-mf-sp$prn-itg	kaz	кім	prn-itg-px
 	eng	I	prn-obj-p1-mf-sg$prn-obj	kaz	мен	prn-pers$prn-pers-p1-sg-gen$prn-pers-p1-sg$prn-pers-p1-sg-gen-subst
 	eng	they	prn-obj-p3-mf-pl$prn-obj	kaz	олар	prn-pers$prn-pers-p3-pl$prn-pers-p3-pl-gen$prn$prn-pers-p3
-	eng	we	prn$prn-obj-p1-mf-pl$prn-obj	kaz	біз	prn-pers$prn-pers-p1-pl-gen$prn-pers-p1-pl$prn-pers-p1-pl-gen-subst
+	eng	we	prn-obj-p1-mf-pl$prn-obj	kaz	біз	prn-pers$prn-pers-p1-pl-gen$prn-pers-p1-pl$prn-pers-p1-pl-gen-subst
 	eng	you	prn-obj$prn-obj-p2-mf-sg	kaz	сіз	prn-pers-p2-sg-frm$prn-pers$prn-pers-p2-sg$prn-pers-p2-sg-frm-gen$prn-pers-p2-sg-frm-gen-subst-nom
 	eng	you	prn-obj$prn-obj-p2-mf-sg	kaz	сіздер	prn-pers-p2-pl-frm$prn-pers
 	eng	she	prn-obj-p3-f-sg$prn-obj-p3-f	kaz	ол	prn-pers$prn-pers-p3-sg-gen$prn-pers-p3$prn-pers-p3-sg$prn
@@ -28695,8 +28695,8 @@ RL	eng	yourselves	prn-ref-p2-mf-pl$prn	kaz	өз	prn-ref$prn$prn-ref-px3sp
 	eng	themselves	prn-ref-p3-mf-pl$prn-ref-pl$prn	kaz	өз	prn-ref-px3pl
 	eng	itself	prn$prn-ref-p3-nt$prn-ref-p3-nt-sg	kaz	өз	prn-ref$prn$prn-ref-px3sp
 	eng	I	prn-subj$prn-subj-p1-mf-sg	kaz	мен	prn-pers$prn-pers-p1-sg-gen$prn-pers-p1-sg$prn-pers-p1-sg-gen-subst
-	eng	you	prn-subj	kaz	сіз	prn-pers-p2-sg-frm$prn-pers$prn-pers-p2-sg$prn-pers-p2-sg-frm-gen$prn-pers-p2-sg-frm-gen-subst-nom
-	eng	you	prn-subj	kaz	сіздер	prn-pers-p2-pl-frm$prn-pers
+	eng	you	prn-subj$prn-subj-p2-mf	kaz	сіз	prn-pers-p2-sg-frm$prn-pers$prn-pers-p2-sg$prn-pers-p2-sg-frm-gen$prn-pers-p2-sg-frm-gen-subst-nom
+	eng	you	prn-subj$prn-subj-p2-mf	kaz	сіздер	prn-pers-p2-pl-frm$prn-pers
 	eng	she	prn-subj-p3-f	kaz	ол	prn-pers$prn-pers-p3-sg-gen$prn-pers-p3$prn-pers-p3-sg$prn
 	eng	he	prn-subj-p3-m	kaz	ол	prn-pers$prn-pers-p3-sg-gen$prn-pers-p3$prn-pers-p3-sg$prn
 	eng	it	prn-subj-p3-nt$prn	kaz	бұл	prn-dem$prn-dem-nom$prn
@@ -28781,7 +28781,7 @@ RL	eng	your	det-pos$det-pos-sp$det	kaz	сен	prn-pers$prn-pers-p2-sg-gen$prn-pe
 	eng	less	det-qnt-sg$det$det-qnt	kaz	азырақ	det-qnt
 	eng	much	det-qnt$det-qnt-sg$det	kaz	көбірек	det-qnt
 	eng	enough	det-qnt-sp$det-qnt$det	kaz	жетерлік	det-qnt
-LR	eng	the most	det-qnt-sp$det$det-qnt	kaz		$sent
+LR	eng	the most	det-qnt-sp$det	kaz		$sent
 LR	eng	can	vaux$vaux-past	kaz		$sent
 LR	eng	may	vaux$vaux-inf	kaz		$sent
 LR	eng	might	vaux	kaz		$sent
@@ -31360,7 +31360,7 @@ RL	eng		$num$num-ord$num-ord-m-sg	kaz	е	ij
 	eng	bayterek	n	kaz	бәйтерек	n
 	eng	adjust	vblex$vblex-pprs	kaz	бейімде	v-tv$v-tv-ger
 	eng	authority	n$n-sg	kaz	бедел	n$n-acc
-	eng	all	adj$	kaz	барша	adj$adj-subst
+	eng	all	adj	kaz	барша	adj$adj-subst
 	eng	hospital	n$n-sg	kaz	аурухана	n
 	eng	courtyard	n	kaz	аула	n$n-px3sp
 	eng	more than	preadv	kaz	астам	adj$adj-subst
@@ -31612,7 +31612,7 @@ RL	eng		$num$num-ord$num-ord-m-sg	kaz	еместі	adj
 	eng	industrious	adj	kaz	еңбекқор	adj
 	eng	but	cnjcoo	kaz	әйткенмен	cnjadv
 	eng	fuel	n$n-ND	kaz	жанармай	n
-	eng	exchange rate	n$n-sg	kaz	бағам	n$n-px3sp
+	eng	exchange rate	n	kaz	бағам	n$n-px3sp
 	eng	strength	n$n-sg	kaz	беріктік	n
 	eng	resiliency	n	kaz	бекемдік	n
 	eng	authority	n$n-sg	kaz	бедел	n$n-acc

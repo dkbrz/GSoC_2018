@@ -4,7 +4,7 @@
 	swe	med	pr	dan	med	pr
 	swe	på	pr	dan	på	pr
 	swe	över	pr	dan	over	pr
-	swe	i	pr	dan	i	pr$
+	swe	i	pr	dan	i	pr
 	swe	till	pr	dan	til	pr
 	swe	till	pr	dan	mod	pr
 	swe	mot	pr	dan	mod	pr
@@ -148,14 +148,14 @@ LR	swe	hen	prn-pers-p3-un	dan	han	prn-pers-p3-m$prn-pers-p3
 	swe	dess	adv$	dan	dets	
 	swe	vi	n$	dan	vi	$prn$prn-pers-p1
 	swe	vår	n-ut$	dan	vores	
-	swe	ni	prn-pers-p2$prn$	dan	i	pr$
+	swe	ni	prn-pers-p2$prn$	dan	i	adv$
 	swe	er	$prn-pos	dan	jeres	
-	swe	de	prn-pers-p3$prn$$prn-pers-p3-un	dan	de	prn-pers-p3$$prn
+	swe	de	prn-pers-p3$prn$$prn-pers-p3-un	dan	de	adv$
 	swe	deras	$prn-pos	dan	deres	
-	swe	sig	prn$prn-ref$	dan	sig	prn$
-	swe	sin	$prn-pos	dan	sin	$det
+	swe	sig	prn$prn-ref$	dan	sig	prn$prn-ref$
+	swe	sin	$prn-pos	dan	sin	$adv
 	swe	man	n-ut$	dan	man	$prn$prn-pers$prn-pers-p3
-	swe	ens		dan	ens	
+	swe	ens		dan	ens	$pr
 	swe	varandra	prn-res$	dan	hinanden	$prn-res
 	swe	varandras	$adv	dan	hinandens	
 LR	swe	varann	prn-res$	dan	hinanden	$prn-res
@@ -1269,7 +1269,7 @@ RL	swe	fru	n-ut	dan	fru	n-ut
 	swe	frukt	n-ut	dan	frugt	n-ut
 	swe	fruktträd	n-nt	dan	frugttræ	n-nt
 	swe	främling	n-ut	dan	udlænding	n-ut
-	swe	fråga	n-ut$	dan	spørgsmål	n-nt
+	swe	fråga	$n-ut	dan	spørgsmål	n-nt
 	swe	frågeställning	n-ut	dan	problematik	n-ut
 	swe	frö	n-nt	dan	frø	n-nt
 	swe	frö	n-nt	dan	frø	n-ut$
@@ -3543,7 +3543,7 @@ RL	swe	servitut	n-nt	dan	servitut	n-nt
 	swe	explosion	n-ut	dan	eksplosion	n-ut
 	swe	exponent	n-ut	dan	eksponent	n-ut
 	swe	faktor	n-ut	dan	faktor	n-ut
-	swe	fälla	n-ut$	dan	fælde	$n-ut
+	swe	fälla	$n-ut	dan	fælde	$n-ut
 	swe	festival	n-ut	dan	festival	n-ut
 	swe	fettsyra	n-ut	dan	fedtsyre	n-ut
 	swe	fiktion	n-ut	dan	fiktion	n-ut
@@ -4485,7 +4485,7 @@ LR	swe	vax	n-nt$n-nt-pl	dan	voks	n-ut$n-ut-sg
 	swe	yta	n-ut	dan	overflade	n-ut
 	swe	ytterdörr	n-ut	dan	yderdør	n-ut
 	swe	yttrandefrihet	n-ut	dan	ytringsfrihed	n-ut
-	swe	yxa	n-ut	dan	økse	n-ut
+	swe	yxa	$n-ut	dan	økse	n-ut
 	swe	zigenare	n-ut	dan	sigøjner	n-ut
 	swe	zink	n-ut	dan	zink	n-nt
 	swe	zon	n-ut	dan	zone	n-ut
@@ -8746,7 +8746,7 @@ LR	swe	åtskillnad	n-ut	dan	forskel	n-ut
 	swe	automatisk	$adj$adj-sint	dan	automatisk	$adv
 	swe	central	n-ut$	dan	central	n-ut$
 	swe	falsk	adj-sint$$adj	dan	falsk	$n-ut
-	swe	mången	$adj	dan	mange	$det$det-qnt-un-pl
+	swe	mången	$adj	dan	mange	$adv
 	swe	fin	$adj$adj-sint	dan	fin	$adj
 	swe	gråtande		dan	grædende	
 	swe	gående		dan	gående	
@@ -8827,13 +8827,13 @@ RL	swe	smutsig	$adj$adj-sint	dan	beskidt
 	swe	lat	$adj-sint	dan	doven	$adj
 	swe	komplett	$adj$adj-sint	dan	fuldstændig	adv$
 	swe	fullständig	adj$adj-sint$	dan	fuldstændig	adv$
-	swe	rätt	$adv	dan	rigtig	$adj
-	swe	riktig	$adv	dan	rigtig	$adj
-	swe	väldig	$adj-sint	dan	rigtig	$adj
-LR	swe	riktiger		dan	rigtig	$adj
+	swe	rätt	$adv	dan	rigtig	$adv
+	swe	riktig	$adv	dan	rigtig	$adv
+	swe	väldig	$adj-sint	dan	rigtig	$adv
+LR	swe	riktiger		dan	rigtig	$adv
 	swe	direkt	adv$	dan	direkte	adv$
-	swe	gemensam	adj-sint$$adj	dan	fælles	$adv
-	swe	samfälld	$adj-sint	dan	fælles	$adv
+	swe	gemensam	adj-sint$$adj	dan	fælles	$n-ut
+	swe	samfälld	$adj-sint	dan	fælles	$n-ut
 	swe	modern	$adj$adj-sint	dan	moderne	$adj
 	swe	primär	$adj$adj-sint	dan	primær	$adj
 	swe	sekundär	$adj-sint	dan	sekundær	
@@ -8951,7 +8951,7 @@ LR	swe	samhällelig	$adj	dan	social	$adj
 	swe	klassisk	$adj$adj-unsint	dan	klassisk	$adj
 	swe	kolossal	$adj$adj-sint	dan	kolossal	
 	swe	manlig	$adj$adj-pst	dan	mandlig	$adj
-	swe	menlig	$adj-sint	dan	skadelig	
+	swe	menlig	$adj-sint	dan	skadelig	$n-ut
 	swe	nordisk	$adj	dan	nordisk	
 	swe	norsk	n-ut$	dan	norsk	n-ut$
 	swe	politisk	$adj$adj-pst	dan	politisk	$adv
@@ -9050,9 +9050,9 @@ RL	swe	bräcklig	$adj-sint	dan	skør	$adj
 	swe	oundgänglig		dan	uundgåelig	
 	swe	plötslig	$adj$adj-sint	dan	pludselig	$adv
 	swe	rädd	$adj-sint$adj	dan	bange	
-	swe	rät		dan	lige	adv$
+	swe	rät		dan	lige	$adv
 	swe	rättslig	adj$$adj-sint	dan	legal	
-	swe	röd	$adj	dan	rød	$adj
+	swe	röd	$adj	dan	rød	n-ut$
 	swe	simpel	$adj	dan	enkelt	$adv
 	swe	självständig	$adj$adj-sint	dan	uafhængig	$adj
 	swe	smärt		dan	slank	
@@ -9063,7 +9063,7 @@ RL	swe	bräcklig	$adj-sint	dan	skør	$adj
 	swe	söt	$adj$adj-sint	dan	sød	$adj
 	swe	söt	$adj$adj-sint	dan	værdifuld	$adj
 	swe	trygg	$adj$adj-sint	dan	sikker	$adj
-	swe	trång	$adj	dan	tæt	$adj
+	swe	trång	$adj	dan	tæt	$adv
 	swe	trög	adj-sint$$adj	dan	langsom	$adv
 	swe	tysk	n-ut$	dan	tysk	$n-ut
 	swe	underårig		dan	mindreårig	
@@ -9414,7 +9414,7 @@ RL	swe	bräcklig	$adj-sint	dan	skør	$adj
 	swe	lovlig		dan	lovlig	$adj
 	swe	luthersk		dan	luthersk	
 	swe	lös	$adj$adj-pst	dan	løs	$adj
-	swe	mager	$adj$adj-sint	dan	mager	
+	swe	mager	$adj$adj-sint	dan	mager	$n-ut
 	swe	maritim	$adj	dan	maritim	
 	swe	markant	$adj	dan	markant	
 	swe	maskulin	$adj-sint	dan	maskulin	
@@ -9522,7 +9522,7 @@ RL	swe	bräcklig	$adj-sint	dan	skør	$adj
 	swe	trådlös	$adj$adj-sint	dan	trådløs	$adj
 	swe	tung	$adj$adj-sint	dan	tung	$adj
 	swe	tvär	$adj-sint	dan	tvær	
-	swe	tät	$adj-sint$adj	dan	tæt	$adj
+	swe	tät	$adj-sint$adj	dan	tæt	$adv
 	swe	törstig	$adj$adj-sint	dan	tørstig	$adj
 	swe	tålmodig	$adj-sint	dan	tålmodig	
 	swe	underlig	$adj$adj-sint	dan	underlig	$adj
@@ -9595,7 +9595,7 @@ LR	swe	storvuxen		dan	stor	$adj
 	swe	koreansk	$adj	dan	koreansk	$adj
 	swe	svart	$adj	dan	sort	$n-ut
 	swe	massiv	adj$$adj-pst	dan	massiv	n-nt$
-	swe	mången	$adj	dan	mange	$det$det-qnt-un-pl
+	swe	mången	$adj	dan	mange	$adv
 	swe	andra	$adj	dan	anden	$det-dem$det
 	swe	artonde	$adj$adj-ord	dan	attende	$adj
 	swe	femte	$adj$adj-ord	dan	femte	$adj
@@ -9720,7 +9720,7 @@ LR	swe	icke	adv	dan	ikke	adv
 	swe	hellre	adv	dan	hellere	adv
 	swe	hur	adv	dan	hvordan	adv-itg$adv
 	swe	varför	adv	dan	hvorfor	adv
-	swe	vad	adv$adv-itg	dan	hvad	adv-itg
+	swe	vad	adv$adv-itg	dan	hvad	adv-itg$adv
 	swe	huvudsakligen	adv	dan	hovedsageligt	adv
 	swe	igen	adv	dan	igen	adv
 	swe	igenom	adv	dan	igennem	adv
@@ -9928,7 +9928,7 @@ LR	swe	sjusärdeles	adv	dan	særdeles	adv
 LR	swe	stört	adv	dan	ganske	adv
 LR	swe	synnerligen	adv	dan	særdeles	adv
 LR	swe	törhända	adv	dan	måske	adv
-LR	swe	vafalls	adv	dan	hvad	adv-itg
+LR	swe	vafalls	adv	dan	hvad	adv-itg$adv
 LR	swe	välan	adv	dan	vel	adv
 	swe	vara¹	$vblex	dan	være	$vbser
 	swe	ha	vblex$	dan	have	n-ut$
@@ -10041,7 +10041,7 @@ LR	swe	förvandla	$vblex	dan	forandre	$vblex
 	swe	betyda	$vblex	dan	betyde	$vblex
 	swe	förvänta	$vblex	dan	forvente	$vblex
 LR	swe	beakta	$vblex	dan	forvente	$vblex
-	swe	fråga	n-ut$	dan	spørge	$vblex
+	swe	fråga	$n-ut	dan	spørge	$vblex
 	swe	fria		dan	frigive	
 	swe	frysa	$vblex	dan	fryse	
 	swe	gå	$vblex	dan	gå	$vblex
@@ -10345,7 +10345,7 @@ LR	swe	lämna	$vblex	dan	aflevere
 	swe	skapa	$vblex	dan	skabe	$vblex
 	swe	skona	$vblex	dan	skåne	
 	swe	skylta		dan	skilte	
-	swe	skilja	$vblex	dan	skille	$n-nt
+	swe	skilja	$vblex$vblex-inf-actv	dan	skille	$n-nt
 	swe	slakta	$vblex	dan	slagte	$vblex
 	swe	smitta	$n-ut	dan	smitte	$n-ut
 	swe	smuggla	$vblex	dan	smugle	
@@ -11290,7 +11290,7 @@ LR	swe	vistas	$vblex	dan	bo	n-nt$
 	swe	ulka		dan	kaste	$n-ut
 	swe	hasta	$vblex	dan	dumme	
 	swe	spritta		dan	spjætte	
-	swe	skilja sig	vblex-inf-actv$$vblex-inf	dan	skille	vblex$vblex-inf-pasv
+	swe	skilja sig	$vblex-inf	dan	skille	vblex$vblex-inf-pasv
 	swe	galltjuta		dan	vræle	
 	swe	vidkomma		dan	vedkomme	
 	swe	dallra		dan	dirre	
@@ -11639,15 +11639,15 @@ LR	swe	ömsa		dan	skifte	$n-nt
 	swe	Afghanistan	np-top-nt$np	dan	Afghanistan	np-top
 	swe	Albanien	np-top-nt	dan	Albanien	np$np-top
 	swe	Algeriet	np-top-nt	dan	Algeriet	np$np-top
-	swe	Andorra	np-top-nt$np	dan	Andorra	np$np-top
+	swe	Andorra	np-top-nt$np$np-top	dan	Andorra	np$np-top
 	swe	Angola	np-top-nt$np	dan	Angola	np$np-top
-	swe	Argentina	np-top-nt$np	dan	Argentina	np$np-top
+	swe	Argentina	np-top-nt$np$np-top	dan	Argentina	np$np-top
 	swe	Azerbajdzjan	np-top-nt	dan	Aserbajdsjan	np$np-top
 	swe	Bahamas	np-top-nt	dan	Bahamas	np$np-top
 	swe	Bahrain	np-top-nt	dan	Bahrain	np$np-top
 	swe	Bangladesh	np-top-nt	dan	Bangladesh	np$np-top
 	swe	Barbados	np-top-nt	dan	Barbados	np$np-top
-	swe	Belize	np-top-nt	dan	Belize	np-top
+	swe	Belize	np-top-nt$np-top	dan	Belize	np-top
 	swe	Benin	np-top-nt	dan	Benin	np-top
 	swe	Bhutan	np-top-nt	dan	Bhutan	np$np-top
 	swe	Bolivia	np-top-nt$np	dan	Bolivia	np$np-top
@@ -11677,8 +11677,8 @@ LR	swe	ömsa		dan	skifte	$n-nt
 	swe	Honduras	np-top-nt	dan	Honduras	np$np-top
 	swe	Indonesien	np-top-nt	dan	Indonesien	np$np-top
 	swe	Irak	np-top-nt	dan	Irak	np$np-top
-	swe	Iran	np-top-nt	dan	Iran	np$np-top
-	swe	Israel	np-top-nt	dan	Israel	np$np-top
+	swe	Iran	np-top-nt$np-top	dan	Iran	np$np-top
+	swe	Israel	np-top-nt$np-top	dan	Israel	np$np-top
 	swe	Jamaica	np-top-nt$np	dan	Jamaica	np$np-top
 	swe	Jemen	np-top-nt$np	dan	Yemen	np$np-top
 	swe	Jordanien	np-top-nt	dan	Jordan	np$np-top
@@ -11694,7 +11694,7 @@ LR	swe	ömsa		dan	skifte	$n-nt
 	swe	Kosovo	np-top-nt$np	dan	Kosovo	np$np-top
 	swe	Kroatien	np-top-nt	dan	Kroatien	np$np-top
 	swe	Kuba	np-top-nt	dan	Cuba	np$np-top
-	swe	Kuwait	np-top-nt	dan	Kuwait	np$np-top
+	swe	Kuwait	np-top$np-top-nt	dan	Kuwait	np$np-top
 	swe	Lesotho	np-top-nt	dan	Lesotho	np$np-top
 	swe	Libanon	np-top-nt$np	dan	Libanon	np$np-top
 	swe	Liberia	np-top-nt$np	dan	Liberia	np$np-top
@@ -11704,7 +11704,7 @@ LR	swe	ömsa		dan	skifte	$n-nt
 	swe	Madagaskar	np-top-nt$np	dan	Madagaskar	np$np-top
 	swe	Makedonien	np-top-nt	dan	Makedonien	np$np-top
 	swe	Malawi	np-top-nt	dan	Malawi	np$np-top
-	swe	Malaysia	np-top-nt$np	dan	Malaysia	np$np-top
+	swe	Malaysia	np-top$np-top-nt$np	dan	Malaysia	np$np-top
 	swe	Mali	np-top-nt	dan	Mali	np$np-top
 	swe	Malta	np-top-nt	dan	Malta	np$np-top
 	swe	Marocko	np-top-nt	dan	Marokko	np$np-top
@@ -11763,21 +11763,21 @@ LR	swe	ömsa		dan	skifte	$n-nt
 	swe	Vitryssland	np-top-nt	dan	Hviderusland	np$np-top
 	swe	Zambia	np-top-nt	dan	Zambia	np$np-top
 	swe	Zimbabwe	np-top-nt	dan	Zimbabwe	np$np-top
-	swe	Skåne	np-top-nt	dan	Skåne	np-top
-	swe	Århus	np-top-nt	dan	Århus	np$np-top
-	swe	Odense	np-top-nt	dan	Odense	np$np-top
+	swe	Skåne	np-top-nt$np-top	dan	Skåne	np-top
+	swe	Århus	np-top-nt$np-top	dan	Århus	np$np-top
+	swe	Odense	np-top-nt$np-top	dan	Odense	np$np-top
 	swe	Köpenhamn	np-top-nt	dan	København	np$np-top
 	swe	São Paulo	np-top	dan	São Paulo	np-top
 	swe	Göteborg	np-top-nt	dan	Gøteborg	np$np-top
 	swe	Berlin	np-top-nt$np	dan	Berlin	np$np-top
-	swe	London	np-top-nt	dan	London	np$np-top
-	swe	Malmö	np-top-nt	dan	Malmø	np$np-top
-	swe	York	np-top-nt	dan	York	np$np-top
+	swe	London	np-top$np-top-nt	dan	London	np$np-top
+	swe	Malmö	np-top$np-top-nt	dan	Malmø	np$np-top
+	swe	York	np-top-nt$np-top	dan	York	np$np-top
 	swe	Paris	np-top-nt	dan	Paris	np$np-top
 	swe	Wien	np-top-nt	dan	Wien	np$np-top
 	swe	Stockholm	np-top-nt$np-top	dan	Stockholm	np$np-top
-	swe	Uppsala	np-top-nt	dan	Uppsala	np$np-top
-	swe	Moskva	np-top-nt	dan	Moskva	np$np-top
+	swe	Uppsala	np-top$np-top-nt	dan	Uppsala	np$np-top
+	swe	Moskva	np-top$np-top-nt	dan	Moskva	np$np-top
 	swe	Barcelona	np-top-nt	dan	Barcelona	np$np-top
 	swe	New York	np-top-nt	dan	New York	np$np-top
 	swe	Medelhavet	np-top-nt$np	dan	Middelhavet	np$np-top-nt
@@ -11787,7 +11787,7 @@ LR	swe	ömsa		dan	skifte	$n-nt
 	swe	Kattegatt	np-top-nt	dan	Kattegatt	np-top
 	swe	Strömstad	np-top-nt	dan	Strömstad	np$np-top
 	swe	Koster	np-top-nt	dan	Koster	np$np-top
-	swe	Oslo	np-top-nt	dan	Oslo	np$np-top
+	swe	Oslo	np-top$np-top-nt	dan	Oslo	np$np-top
 	swe	Mallorca	np-top-nt	dan	Mallorca	np$np-top
 	swe	Ålborg	np-top-nt	dan	Ålborg	np$np-top
 	swe	Garborg	np-top-nt	dan	Garborg	np$np-top
@@ -11797,7 +11797,7 @@ LR	swe	ömsa		dan	skifte	$n-nt
 	swe	Rosenborg	np-top-nt	dan	Rosenborg	np$np-top
 	swe	Sarpsborg	np-top-nt	dan	Sarpsborg	np$np-top
 	swe	Uleåborg	np-top-nt	dan	Uleåborg	np$np-top
-	swe	Viborg	np-top-nt$np-top	dan	Viborg	np$np-top
+	swe	Viborg	np-top$np-top-nt	dan	Viborg	np$np-top
 	swe	Trelleborg	np-top-nt	dan	Trelleborg	np$np-top
 	swe	Abbasider	np-top-nt	dan	Abbaside-kalifatet	np-top
 	swe	Abchazien	np-top-nt	dan	Abkhasien	np$np-top
@@ -11872,7 +11872,7 @@ LR	swe	ömsa		dan	skifte	$n-nt
 	swe	Kabinda	np-top-nt	dan	Cabinda	np-top
 	swe	Kalifatet Córdoba	np-top-nt	dan	Córdoba-kalifatet	np-top
 	swe	Kapkolonin	np-top-nt	dan	Kapkolonien	np-top
-	swe	Kastilien	np-top-nt	dan	Castilien	np$np-top
+	swe	Kastilien	np-top$np-top-nt	dan	Castilien	np$np-top
 	swe	Kazakstan	np-top-nt	dan	Kasakhstan	np$np-top
 	swe	Kazankhanatet	np-top-nt	dan	Kazan-khanatet	np-top
 	swe	Kejsardömet Brasilien	np-top-nt	dan	Kejserdømmet Brasilien	np-top
@@ -11891,7 +11891,7 @@ LR	swe	ömsa		dan	skifte	$n-nt
 	swe	Konungariket Preussen	np-top-nt	dan	Kongeriget Preussen	np-top
 	swe	Krimkhanatet	np-top-nt	dan	Krim-khanatet	np-top
 	swe	Kuba	np-top-nt	dan	Cuba	np$np-top
-	swe	Kungariket Aksum	np-top$np-top-nt	dan	Aksum	np$np-top
+	swe	Kungariket Aksum	np-top-nt	dan	Aksum	np$np-top
 	swe	Kungariket Bayern	np-top-nt	dan	Kongeriget Bayern	np-top
 	swe	Kungariket Egypten	np-top-nt	dan	Kongeriget Egypten	np-top
 	swe	Kungariket England	np-top-nt	dan	Kongeriget England	np-top
@@ -11947,7 +11947,7 @@ LR	swe	ömsa		dan	skifte	$n-nt
 	swe	Nya Ryssland	np-top-nt	dan	Nyrusland	np-top
 	swe	Nya Zeeland	np-top-nt	dan	New Zealand	np-top
 	swe	Oberoende staten Kroatien	np-top-nt	dan	Den Uafhængige Stat Kroatien	np-top
-	swe	Oldenburg	np-top-nt	dan	Oldenborg	np-top
+	swe	Oldenburg	np-top-nt$np-top	dan	Oldenborg	np-top
 	swe	Ordens Preussen	np-top-nt	dan	Den Tyske Ordensstat	np-top
 	swe	Palestina	np-top-nt	dan	Palæstina	np-top
 	swe	Papua Nya Guinea	np-top-nt	dan	Papua Ny Guinea	np-top
@@ -11963,7 +11963,7 @@ LR	swe	ömsa		dan	skifte	$n-nt
 	swe	Republiken Venedig	np-top-nt	dan	Republikken Venedig	np-top
 	swe	Republiken Övre Volta	np-top-nt	dan	Republikken Øvre Volta	np-top
 	swe	Rhenförbundet	np-top-nt	dan	Rhinforbundet	np-top
-	swe	Romerska kejsardömet	np-top$np-top-nt	dan	Romerriget	np$np-top-nt
+	swe	Romerska kejsardömet	np-top-nt	dan	Romerriget	np$np-top-nt
 	swe	Romerska republiken	np-top-nt	dan	Romerske republik	np-top
 	swe	Romerska riket	np-top-nt	dan	Antikkens Rom	np-top
 	swe	Ryska SFSR	np-top-nt	dan	Russiske SFSR	np-top
@@ -12040,31 +12040,31 @@ LR	swe	ömsa		dan	skifte	$n-nt
 	swe	Frederik	np-ant-m$np-ant-m-sg-ind	dan	Frederik	np$np-ant-m
 	swe	Fredrik	np-ant-m	dan	Fredrik	np$np-ant-m
 	swe	Gustaf	np$np-ant-m	dan	Gustaf	np$np-ant-m
-	swe	Gustav	np$np-ant-m	dan	Gustav	np$np-ant-m
+	swe	Gustav	np-ant-m	dan	Gustav	np$np-ant-m
 	swe	Harry	np$np-ant-m	dan	Harry	np$np-ant-m
 	swe	Henrik	np-ant-m$np-ant-m-sg-ind	dan	Henrik	np$np-ant-m
 	swe	Jacob	np-ant-m$np-ant-m-sg-ind	dan	Jacob	np$np-ant-m
 	swe	James	np-ant-m$np	dan	James	np$np-ant-m
 	swe	Johan	np-ant-m$np	dan	Johan	np$np-ant-m
-	swe	John	np-ant-m$np	dan	John	np$np-ant-m
+	swe	John	np-ant-m	dan	John	np$np-ant-m
 	swe	Jonas	np-ant-m	dan	Jonas	np$np-ant-m
-	swe	Karl	np-ant-m	dan	Karl	np$np-ant-m
+	swe	Karl	np-ant-m$np	dan	Karl	np$np-ant-m
 	swe	Kålle	np-ant-m	dan	Kålle	np-ant-m
-	swe	Mark	np$np-ant-m	dan	Mark	np$np-ant-m
-	swe	Martin	np-ant-m$np	dan	Martin	np$np-ant-m
+	swe	Mark	np-ant-m	dan	Mark	np$np-ant-m
+	swe	Martin	np-ant-m	dan	Martin	np$np-ant-m
 	swe	Mikael	np$np-ant-m	dan	Mikael	np$np-ant-m
 	swe	Olof	np-ant-m$np-ant-m-sg-ind	dan	Olof	np$np-ant-m
 	swe	Peter	np-ant-m	dan	Peter	np$np-ant-m
 	swe	Robert	np-ant-m$np-ant-m-sg-ind	dan	Robert	np$np-ant-m
-	swe	Thomas	np-ant-m$np	dan	Thomas	np$np-ant-m
+	swe	Thomas	np-ant-m	dan	Thomas	np$np-ant-m
 	swe	Trond	np$np-ant-m	dan	Trond	np$np-ant-m
-	swe	Louis	np-ant-m$np	dan	Louis	np$np-ant-m
-	swe	Louis d'or	np$np-ant-m	dan	Louis d'or	np$np-ant-m
-	swe	Ada	np$np-ant-f	dan	Ada	np$np-ant-f
+	swe	Louis	np$np-ant-m	dan	Louis	np$np-ant-m
+	swe	Louis d'or	np-ant-m	dan	Louis d'or	np-ant-m
+	swe	Ada	np-ant-f	dan	Ada	np$np-ant-f
 	swe	Eva	np-ant-f$np-ant-f-sg-ind	dan	Eva	np$np-ant-f
 	swe	Maria	np-ant-f	dan	Maria	np$np-ant-f
 	swe	Mary	np-ant-f$np	dan	Mary	np$np-ant-f
-	swe	Madeleine	np$np-ant-f	dan	Madeleine	np$np-ant-f
+	swe	Madeleine	np-ant-f	dan	Madeleine	np$np-ant-f
 	swe	Abrahamsson	np-cog$np-cog-sg-ind	dan	Abrahamsson	np$np-cog
 	swe	Alfredsson	np-cog$np-cog-sg-ind	dan	Alfredsson	np$np-cog
 	swe	Andersson	np-cog$np-cog-mfn	dan	Andersson	np$np-cog
@@ -14445,7 +14445,7 @@ LR	swe	sid	n-ut	dan	side	n-ut
 	swe	skalle	n-ut	dan	skalle	n-ut$
 	swe	pall	n-ut	dan	palle	n-ut
 	swe	vassla	n-ut	dan	valle	n-ut
-	swe	fälla	n-ut$	dan	felle	n-ut
+	swe	fälla	$n-ut	dan	felle	n-ut
 	swe	gasell	n-ut	dan	gazelle	n-ut
 	swe	revelj	n-ut	dan	reveille	n-ut
 	swe	grundpelare	n-ut	dan	grundpille	n-ut
@@ -16027,11 +16027,11 @@ LR	swe	sid	n-ut	dan	side	n-ut
 	swe	inomhus	adv	dan	inde	adv
 	swe	ingalunda	adv	dan	ingenlunde	adv
 	swe	någorlunda	adv	dan	nogenlunde	adv
-	swe	lika	adv	dan	lige	adv$
-	swe	si	adv	dan	lige	adv$
-	swe	käpprätt	adv	dan	lige	adv$
-	swe	därpå	adv	dan	lige	adv$
-	swe	så	adv$	dan	lige	adv$
+	swe	lika	adv	dan	lige	$adv
+	swe	si	adv	dan	lige	$adv
+	swe	käpprätt	adv	dan	lige	$adv
+	swe	därpå	adv	dan	lige	$adv
+	swe	så	adv$	dan	lige	$adv
 	swe	länge	adv-pst$adv	dan	meget længe	adv
 	swe	ej	adv	dan	ikke	adv
 	swe	möjligen	adv	dan	måske	adv
@@ -16301,9 +16301,9 @@ LR	swe	sid	n-ut	dan	side	n-ut
 	swe	anspråksfull	$adj	dan	krævende	
 	swe	närgången		dan	nærgående	
 	swe	exempellös	$adj-sint	dan	enestående	
-	swe	rak	$adj	dan	lige	adv$
-	swe	gen	n-ut$	dan	lige	adv$
-	swe	rätt	$adv	dan	lige	adv$
+	swe	rak	$adj	dan	lige	$adv
+	swe	gen	n-ut$	dan	lige	$adv
+	swe	rätt	$adv	dan	lige	$adv
 	swe	tyst	adv$	dan	stille	$adv
 	swe	modern	$adj$adj-sint	dan	moderne	$adj
 	swe	ytterlig		dan	ydre	$n-nt
@@ -16561,8 +16561,8 @@ LR	swe	sid	n-ut	dan	side	n-ut
 	swe	betydelsefull	$adj	dan	vigtig	$adj
 	swe	konkurrenskraftig	$adj$adj-sint	dan	konkurrencedygtig	
 	swe	bärig		dan	bæredygtig	
-	swe	kunnig	$adj$adj-sint	dan	dygtig	
-	swe	driven		dan	dygtig	
+	swe	kunnig	$adj$adj-sint	dan	dygtig	$n-ut
+	swe	driven		dan	dygtig	$n-ut
 	swe	väldig	$adj-sint	dan	mægtig	$adj
 	swe	klyftig		dan	kløgtig	
 	swe	spänstig		dan	spændstig	
@@ -16738,17 +16738,17 @@ LR	swe	sid	n-ut	dan	side	n-ut
 	swe	spetsig	$adj-sint	dan	spids	n-ut$
 	swe	skiljaktig	$adj-sint	dan	anderledes	$adv
 	swe	olik	$adj-sint$adj	dan	anderledes	$adv
-	swe	samfälld	$adj-sint	dan	fælles	$adv
-	swe	gemensam	adj-sint$$adj	dan	fælles	$adv
+	swe	samfälld	$adj-sint	dan	fælles	$n-ut
+	swe	gemensam	adj-sint$$adj	dan	fælles	$n-ut
 	swe	alldaglig	$adj-sint	dan	dagligdags	
 	swe	gammalmodig	$adj	dan	gammeldags	
 	swe	ålderdomlig	$adj$adj-sint	dan	gammeldags	
 	swe	oviss	$adj$adj-sint	dan	uvis	
 	swe	nymodig		dan	nymodens	
-	swe	jämställd		dan	ens	
-	swe	likformig		dan	ens	
-	swe	lik	n-nt$	dan	ens	
-	swe	likadan	$adj$adj-sint	dan	ens	
+	swe	jämställd		dan	ens	$pr
+	swe	likformig		dan	ens	$pr
+	swe	lik	n-nt$	dan	ens	$pr
+	swe	likadan	$adj$adj-sint	dan	ens	$pr
 	swe	allvarlig	$adj$adj-sint	dan	seriøs	
 	swe	hopplös	$adj$adj-sint	dan	håbløs	
 	swe	ändlös	$adj-sint$adj	dan	endeløs	
@@ -16861,11 +16861,11 @@ LR	swe	sid	n-ut	dan	side	n-ut
 	swe	bortrest		dan	bortrejst	
 	swe	mätt	$adj$adj-pst	dan	mæt	$adj
 	swe	vattentät	$adj$adj-sint	dan	vandtæt	
-	swe	drullig		dan	tæt	$adj
-	swe	drumlig		dan	tæt	$adj
-	swe	klossig		dan	tæt	$adj
-	swe	drummelaktig		dan	tæt	$adj
-	swe	rultig		dan	tæt	$adj
+	swe	drullig		dan	tæt	$adv
+	swe	drumlig		dan	tæt	$adv
+	swe	klossig		dan	tæt	$adv
+	swe	drummelaktig		dan	tæt	$adv
+	swe	rultig		dan	tæt	$adv
 	swe	stadig	$adj-sint$adj	dan	støt	$adv
 	swe	skrovlig	adj-sint$$adj	dan	ru	
 	swe	raspig		dan	ru	
@@ -17237,7 +17237,7 @@ LR	swe	sid	n-ut	dan	side	n-ut
 	swe	anklaga	$vblex	dan	skylde	
 	swe	åtala		dan	skylde	
 	swe	beskylla	$vblex	dan	skylde	
-	swe	fälla	n-ut$	dan	fælde	$n-ut
+	swe	fälla	$n-ut	dan	fælde	$n-ut
 	swe	umgälla		dan	undgælde	
 	swe	gengälda		dan	gengælde	
 	swe	återgälda	$vblex	dan	gengælde	
@@ -18981,7 +18981,7 @@ RL	swe	växa	$vblex	dan	forhøje	$vblex
 	swe	härskna		dan	harskne	
 	swe	dränka	$vblex	dan	drukne	
 	swe	svalna		dan	svalne	
-	swe	skilja	$vblex	dan	skelne	$vblex
+	swe	skilja	$vblex$vblex-inf-actv	dan	skelne	$vblex
 	swe	urskilja		dan	skelne	$vblex
 	swe	särskilja		dan	skelne	$vblex
 	swe	söndra		dan	skelne	$vblex
@@ -21294,7 +21294,7 @@ RL	swe	växa	$vblex	dan	forhøje	$vblex
 	swe	dunsta		dan	dunste	
 	swe	bekosta		dan	bekoste	
 	swe	gå på		dan	koste	$vblex
-	swe	posta		dan	poste	
+	swe	posta		dan	poste	$pr
 	swe	törsta		dan	tørste	
 	swe	andas	$vblex	dan	puste	
 	swe	inandas		dan	puste	
@@ -21697,7 +21697,7 @@ RL	swe	växa	$vblex	dan	forhøje	$vblex
 	swe	slinta		dan	mislykkes	$vblex
 	swe	mista	$vblex	dan	mislykkes	$vblex
 	swe	åtskilja		dan	skilles	
-	swe	skilja sig	vblex-inf-actv$$vblex-inf	dan	skilles	
+	swe	skilja sig	$vblex-inf	dan	skilles	
 	swe	vämja		dan	væmmes	
 	swe	äckla		dan	væmmes	
 	swe	tycka	$vblex	dan	synes	

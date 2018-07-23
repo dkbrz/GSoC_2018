@@ -37,6 +37,7 @@ LR	afr	ná	cnjadv	nld	na	cnjadv
 	afr	terwyl	cnjadv	nld	terwijl	cnjadv
 	afr	waarmee	cnjadv	nld	waarmee	cnjadv
 	afr	sedert	pr	nld	sinds	pr
+	afr	rondom	pr	nld	rond	pr
 	afr	daartoe	pr	nld	daartoe	pr
 	afr	ondanks	pr	nld	ondanks	pr
 	afr	daar	pr	nld	er	pr
@@ -130,6 +131,7 @@ LR	afr	voor	pr	nld	voor	pr
 	afr	prpers	prn-obj$prn-obj-p1-mf-sg	nld	prpers	prn-obj-p1-mf-sg$prn-obj$prn-obj-p1-mf$prn-obj-uns-p1-mf-sg
 	afr	prpers	prn-ref	nld	prpers	prn-ref
 	afr	sig	prn-ref	nld	zich	prn-ref
+	afr	hom	prn-ref	nld	zich	prn-ref
 	afr	men	prn-tn	nld	men	prn-tn$prn-tn-mf-pl
 	afr	mekaar	prn-tn$prn	nld	elkaar	prn$prn-tn
 	afr	dieselfde	prn-tn$prn-tn-mf	nld	dezelfde	prn$prn-tn-mf
@@ -279,6 +281,10 @@ LR	afr	daardie	det-dem	nld	die	det-dem
 	afr	XX	num	nld	XX	num
 	afr	XXI	num	nld	XXI	num
 	afr	XXII	num	nld	XXII	num
+	afr	duikdiensverskaffer	n	nld	duikoperator	n-m
+	afr	nesplek	n	nld	nestplaats	n-mf
+	afr	kaktus	n	nld	cactus	n-m
+	afr	ontspanningsoord	n	nld	recreatieoord	n-nt
 	afr	vriend	n	nld	vriend	n-m
 	afr	kardinaal	n	nld	kardinaal	n-m
 	afr	kalender	n	nld	kalender	n-m$n
@@ -5531,7 +5537,7 @@ RL	afr	begin	vblex$vblex-uns	nld	starten	vblex
 	afr	vrees	vblex	nld	vrezen	vblex
 	afr	verfyn	vblex	nld	verfijnen	vblex
 	afr	belemmer	vblex$vblex-uns	nld	belemmeren	vblex
-	afr	lig	vblex	nld	liggen	vblex
+	afr	lê	vblex	nld	liggen	vblex
 	afr	las	vblex	nld	lassen	vblex
 	afr	berokken	vblex$vblex-uns	nld	berokkenen	vblex
 	afr	herroep	vblex	nld	herroepen	vblex

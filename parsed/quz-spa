@@ -16,7 +16,7 @@ LR	quz	niq	post	spa	cerca de	pr
 	quz	sispa	post	spa	cerca de	pr
 	quz	ukhu	post	spa	dentro de	pr
 	quz	uran	post	spa	bajo	pr
-	quz	huk	num$num-ord-poss$num-ord	spa	uno	det-ind$det$det-ind-m-sg$det-ind-m
+	quz	huk	num$num-ord-poss$num-ord	spa	uno	det$det-ind$det-ind-m-sg$det-ind-m
 LR	quz	huk	num$num-ord-poss$num-ord	spa	otro	det-ind$det-ind-m-sg$det$det-ind-m
 RL	quz	huk	num$num-ord-poss$num-ord	spa	uno	prn$prn-tn$prn-tn-m$prn-tn-m-sg
 LR	quz	huk	num-px3sg	spa	otro	prn$prn-tn$prn-tn-m-sg$prn-tn-m
@@ -172,13 +172,13 @@ RL	quz	khayna	adv	spa	de este modo	adv
 	quz	ima	prn-itg	spa	qué	prn-itg-mf-sp
 	quz	ima	det-itg	spa	qué	det-itg-mf-sp
 	quz	imapas	prn-ind	spa	algo	prn-tn-m$prn-tn-m-sg
-	quz	imapas	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+	quz	imapas	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
 	quz	imapas	prn-neg	spa	nada	prn-tn-m-sg$prn-tn-m
 	quz	imapas	det-neg	spa	ninguno	det-ind$det-ind-GD-sg$det-ind-GD$det
 	quz	pi	prn-itg-gen$prn-itg	spa	quién	prn-itg-mf-sg$prn$prn-itg-mf$prn-itg
 LR	quz	pi	det-itg$det-itg-gen	spa	qué	det-itg-mf-sp
 	quz	pipas	prn-ind$prn-ind-gen	spa	alguien	prn$prn-tn-m-sg$prn-tn$prn-tn-m
-LR	quz	pipas	det-ind$det-ind-gen	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+LR	quz	pipas	det-ind$det-ind-gen	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
 	quz	pipas	prn-neg$prn-neg-gen	spa	nadie	prn-tn-m-sg$prn-tn-m
 LR	quz	pipas	det-neg$det-neg-gen	spa	ninguno	det-ind$det-ind-GD-sg$det-ind-GD$det
 	quz	pi	prn-itg-gen$prn-itg	spa	de quién	prn-itg-mf$prn-itg-mf-sg
@@ -200,8 +200,8 @@ LR	quz	hayk'apas	prn-ind	spa	unos cuantos	prn-tn-GD-pl
 RL	quz	hayk'apas	prn-ind	spa	unos cuantos	prn-tn-m-pl
 RL	quz	hayk'apas	prn-ind	spa	unos cuantos	prn-tn-f-pl
 	quz	hayk'apas	prn-ind	spa	alguno	prn$prn-tn-GD-pl$prn-tn$prn-tn-GD
-	quz	hayk'apas	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
-LR	quz	hayk'apas	det-ind	spa	uno	det-ind$det$det-ind-m-sg$det-ind-m
+	quz	hayk'apas	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
+LR	quz	hayk'apas	det-ind	spa	uno	det$det-ind$det-ind-m-sg$det-ind-m
 	quz	hayk'apas	prn-neg	spa	ninguno	prn-tn$prn$prn-tn-GD-sg$prn-tn-GD
 LR	quz	hayk'apas	det-neg	spa	ninguno	det-ind$det-ind-GD-sg$det-ind-GD$det
 	quz	hayk'aq	adv-itg	spa	cuándo	adv$adv-itg
@@ -215,7 +215,7 @@ RL	quz	hayk'aqpas	adv-neg	spa	jamás	adv
 	quz	maypas	adv-ind	spa	algún lugar	adv
 RL	quz	maypas	adv-ind	spa	algún sitio	adv
 RL	quz	maypas	adv-ind	spa	alguna parte	adv
-LR	quz	maypas	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+LR	quz	maypas	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
 RL	quz	maypas	adv-neg	spa	ningún lugar	adv
 RL	quz	maypas	adv-neg	spa	ningún sitio	adv
 	quz	maypas	adv-neg	spa	ninguna parte	adv
@@ -224,7 +224,7 @@ LR	quz	maypas	det-neg	spa	ninguno	det-ind$det-ind-GD-sg$det-ind-GD$det
 LR	quz	imayna	det-itg	spa	qué	det-itg-mf-sp
 	quz	imaynapas	adv-ind	spa	de algún modo	adv
 	quz	imaynapas	adv-ind	spa	de alguna manera	adv
-LR	quz	imaynapas	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+LR	quz	imaynapas	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
 	quz	imaynapas	adv-neg	spa	de ningún modo	adv
 LR	quz	imaynapas	adv-neg	spa	de ninguna manera	adv
 LR	quz	imaynapas	det-neg	spa	ninguno	det-ind$det-ind-GD-sg$det-ind-GD$det
@@ -250,8 +250,8 @@ LR	quz	pasaq	det-ind	spa	cada	det-ind-mf-sp$det-mf
 RL	quz	wak	det-ind	spa	diferente	adj-mf$adj$adj-mf-pl
 RL	quz	wak	det-ind	spa	distinto	adj$adj-GD-ND
 RL	quz	wak	det-ind	spa	separado	adj$adj-GD-ND
-LR	quz	wakin	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
-LR	quz	wakillan	det-ind	spa	alguno	det-ind$det$det-ind-GD$det-ind-GD-pl
+LR	quz	wakin	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
+LR	quz	wakillan	det-ind	spa	alguno	det$det-ind$det-ind-GD$det-ind-GD-pl
 RL	quz	wakin	det-ind	spa	alguno	det-ind-m-pl$det-ind-m
 RL	quz	wakillan	det-ind	spa	alguno	det-ind-m-pl$det-ind-m
 RL	quz	wakillan	det-ind	spa	uno	det-ind-m-pl
@@ -620,7 +620,7 @@ RL	quz	aranway	n	spa	drama	n$n-m$n-m-ND
 	quz	aricha	n	spa	ramera	n-f
 LR	quz	arma	n	spa	baño	n-m$n$n-m-ND
 LR	quz	arwi	n	spa	enredo	n-m$n
-	quz	asnapa	n	spa	hierba	n-f$n$n-f-ND
+	quz	asnapa	n	spa	hierba	n-f$n$n-f-sg
 RL	quz	asnapa	n	spa	asno	n-m$n
 RL	quz	asnu	n	spa	burro	n$n-m$n-m-ND
 RL	quz	asnapa	n	spa	orégano	n-m$n
@@ -649,7 +649,7 @@ LR	quz	ayarichi	n	spa	música funeraria	n-f
 	quz	aycha wasi	n	spa	carnicería	n-f$n
 LR	quz	ayka	n	spa	diarrea	n-f$n$n-f-sg
 	quz	ayllu	n	spa	comunidad	n$n-f$n-f-sg
-	quz	ayllu	n	spa	familia	n-f$n$n-f-sg
+	quz	ayllu	n	spa	familia	n$n-f$n-f-sg
 LR	quz	ayllu	n	spa	pueblo	n-m$n$n-m-sg
 RL	quz	ayllu	n	spa	tribu	n-f$n$n-f-ND
 	quz	ayllu kawsay	n	spa	tradición	n-f$n$n-f-ND
@@ -1233,7 +1233,7 @@ RL	quz	qucha pata	n	spa	playa	n$n-f$n-f-sg
 	quz	quqaw	n	spa	provisión	n$n-f$n-f-pl
 LR	quz	quqawa	n	spa	provisión	n$n-f$n-f-pl
 LR	quz	quqawi	n	spa	provisión	n$n-f$n-f-pl
-	quz	qura	n	spa	hierba	n-f$n$n-f-ND
+	quz	qura	n	spa	hierba	n-f$n$n-f-sg
 RL	quz	qura	n	spa	planta	n$n-f$n-f-ND
 	quz	quri	n	spa	oro	n-m$n$n-m-sg
 	quz	qurpa	n	spa	huésped	n$n-m$n-m-ND
@@ -1281,7 +1281,7 @@ LR	quz	ruk'a	n	spa	dedo	n-m$n$n-m-sg
 	quz	rumu	n	spa	yuca	n-f$n
 	quz	runa	n	spa	gente	n-f-sg$n$n-f
 	quz	runa	n	spa	hombre	n-f
-	quz	runa	n	spa	persona	n-f$n$n-f-sg
+	quz	runa	n	spa	persona	n$n-f$n-f-sg
 	quz	runa	n	spa	humano	n-m-sg$n$n-m
 	quz	runamasi	n	spa	prójimo	n$n-m
 	quz	runa masi	n	spa	prójimo	n$n-m
@@ -1290,7 +1290,7 @@ LR	quz	ruk'a	n	spa	dedo	n-m$n$n-m-sg
 	quz	runtu	n	spa	huevo	n$n-m$n-m-pl
 RL	quz	runtu	n	spa	testículo	n$n-m
 	quz	ruqutu	n	spa	rocoto	n-m
-	quz	ruru	n	spa	fruto	n$n-m$n-m-ND
+	quz	ruru	n	spa	fruto	n$n-m$n-m-sg
 	quz	rurun	n	spa	riñón	n$n-m
 	quz	rutuchikuy	n	spa	fiesta	n-m
 	quz	sach'a	n	spa	árbol	n-m$n$n-m-sg
@@ -1384,11 +1384,11 @@ RL	quz	suntur	n	spa	institución	n$n-f$n-f-sg
 LR	quz	surk'an	n	spa	pulmón	n$n-m$n-m-ND
 	quz	surq'an	n	spa	pulmón	n$n-m$n-m-ND
 LR	quz	suru	n	spa	ceguera	n-f$n$n-f-ND
-LR	quz	suruchi	n	spa	mal	n$n-m$n-m-ND
+LR	quz	suruchi	n	spa	mal	n-m$n$n-m-ND
 	quz	surunpi	n	spa	deslumbramiento	n-m$n
 	quz	surunpi	n	spa	surumpe	n-m
-LR	quz	suruqch'i	n	spa	mal	n$n-m$n-m-ND
-	quz	suruqchi	n	spa	mal	n$n-m$n-m-ND
+LR	quz	suruqch'i	n	spa	mal	n-m$n$n-m-ND
+	quz	suruqchi	n	spa	mal	n-m$n$n-m-ND
 	quz	suruqchi	n	spa	soroche	n-m
 	quz	suti	n$n-poss	spa	nombre	n$n-m$n-m-sg
 	quz	sut'i	n	spa	realidad	n-f$n$n-f-sg
@@ -1564,7 +1564,7 @@ RL	quz	uya	n	spa	rostro	n-m$n$n-m-ND
 LR	quz	uyaywa	n	spa	vocal	n$n-f$n-f-ND
 	quz	uywa	n	spa	animal	n-m$n$n-m-sg
 	quz	uywa	n	spa	ganado	n$n-m$n-m-sg
-RL	quz	uywa	n	spa	res	n-f$n$n-f-ND
+RL	quz	uywa	n	spa	res	n$n-f$n-f-ND
 	quz	wach'i	n	spa	flecha	n$n-f$n-f-sg
 	quz	wachu	n	spa	surco	n-m$n
 LR	quz	wak'a	n	spa	huaca	n-f
@@ -1801,7 +1801,7 @@ RL	quz	yachay	vblex$vblex-tv-inf$vblex-tv-inf-poss	spa	conocimiento	n-m$n$n-m-sg
 RL	quz	tayta	n-m	spa	señor	n-m$n-m-sg
 RL	quz	mama	n-f	spa	señor	n$n-f$n-f-pl
 	quz	taytacha	n-m	spa	Cristo	np$np-ant$np-ant-m
-	quz	mamacha	n-f	spa	Virgen	n-f
+	quz	mamacha	n-f	spa	Virgen	n-f$n
 	quz	tayta-mama	n	spa	padre	n-m-pl
 	quz	machu	n-m	spa	viejo	n-m$n-m-ND
 	quz	paya	n-f	spa	viejo	n$n-f

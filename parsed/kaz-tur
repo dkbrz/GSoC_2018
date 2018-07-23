@@ -71,7 +71,7 @@ RL	kaz		$sent	tur	ғана	postadv
 RL	kaz		$sent	tur	ма	qst
 	kaz	мен	prn-pers-p1-sg-advl	tur	ben	prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-adv
 	kaz	екеу	prn-qnt-px3sp$prn-qnt	tur	iki	prn-qnt
-	kaz	мына	prn-dem$prn-dem-nom	tur	bu	prn-dem$prn-dem-abl$prn
+	kaz	мына	prn-dem$prn-dem-nom	tur	bu	prn-dem$prn
 	kaz	біреу	prn-pers	tur	birisi	prn-pers
 	kaz	біреу	prn-ind$prn	tur	biri	prn-ind$$prn$prn-ind-px3pl-nom
 	kaz	мен	prn-pers$prn-pers-p1-sg-gen$prn-pers-p1-sg$prn-pers-p1-sg-gen-subst	tur	ben	prn-pers$prn-pers-p1-sg$prn-pers-p1-sg-adv
@@ -102,10 +102,10 @@ RL	kaz		$sent	tur	ма	qst
 	kaz	әзірле	v-tv$v-tv-ger	tur	hazırla	v-tv$v
 	kaz	бәрі	prn-qnt$prn-qnt-px3sp$prn$prn-qnt-px3sp-nom	tur	herkes	prn-qnt$
 	kaz	қай	prn-ind$prn-ind-abl	tur	hangi	prn-ind
-	kaz	мынау	prn-dem	tur	bu	prn-dem$prn-dem-abl$prn
+	kaz	мынау	prn-dem	tur	bu	prn-dem$prn
 	kaz	ана	prn-dem	tur	öteki	prn-dem$prn
-	kaz	мына	prn-dem$prn-dem-nom	tur	şu	prn-dem$prn-dem-dat
-	kaz	осы	prn-dem	tur	şu	prn-dem$prn-dem-dat
+	kaz	мына	prn-dem$prn-dem-nom	tur	şu	prn-dem
+	kaz	осы	prn-dem	tur	şu	prn-dem
 	kaz	ешкім	prn-neg	tur	hiç kimse	prn-neg
 	kaz	басқа	prn-ind$prn	tur	başka	prn-ind
 	kaz	бәрі	prn-qnt$prn-qnt-px3sp$prn$prn-qnt-px3sp-nom	tur	tümü	det-qnt
@@ -118,7 +118,7 @@ RL	kaz		$sent	tur	ма	qst
 	kaz	қайсы	prn-itg	tur	hangi	prn-itg$prn$prn-itg-abl
 	kaz	олар	prn-pers$prn-pers-p3-pl$prn-pers-p3-pl-gen$prn$prn-pers-p3	tur	onlar	prn-pers$prn-pers-p3-pl
 	kaz	олар	prn-pers$prn-pers-p3-pl$prn-pers-p3-pl-gen$prn$prn-pers-p3	tur	onlar	prn-pers$prn-pers-p3-pl
-	kaz	мына	prn-dem$prn-dem-nom	tur	bu	prn-dem$prn-dem-abl$prn
+	kaz	мына	prn-dem$prn-dem-nom	tur	bu	prn-dem$prn
 	kaz	сол	prn-dem	tur	o	prn-dem$prn-dem-loc
 	kaz	кей	det$det-ind	tur	herhangi	det-ind$det
 	kaz	қандай	prn-itg$prn-itg-sim-nom	tur	herhangi	prn-itg
@@ -132,7 +132,7 @@ RL	kaz		$sent	tur	ма	qst
 	kaz	әр	det-qnt$det	tur	her	det$det-dem
 	kaz	көптеген	det-qnt$det	tur	birçok	det-qnt$det
 	kaz	көп	det-qnt	tur	çok	det$det-qnt
-	kaz	кейбір	det-ind$det	tur	bazı	det-qnt$det$
+	kaz	кейбір	det-ind$det	tur	bazı	det-qnt$det
 	kaz	кейбір	det-ind$det	tur	birkaç	det-ind$det
 	kaz	бір	det-ind$det	tur	bir	det-ind$det
 	kaz	сол	det-dem$det	tur	şu	det-dem$det
@@ -3280,7 +3280,7 @@ RL	kaz		$sent	tur	ма	qst
 	kaz	ориентализм	n	tur	oryantalizm	n
 	kaz	оргазм	n	tur	orgazm	n
 	kaz	орбита	n	tur	yörünge	n$
-	kaz	орамал	n	tur	başörtü	$n
+	kaz	орамал	n	tur	başörtü	n$
 	kaz	орақ	n	tur	orak	n
 	kaz	оптика	n	tur	optik	n
 	kaz	оппортунизм	n	tur	oportünizm	n
@@ -5437,7 +5437,7 @@ LR	kaz	гөрі	post	tur		$num$num-card-sg-nom
 	kaz	гигиеналық	adj	tur	hijyenik	adj$
 	kaz	дағдылы	adj	tur	olağan	adj$
 	kaz	дайын	adj$adj-subst	tur	hazır	adj$
-	kaz	дара	adj	tur	bazı	adj
+	kaz	дара	adj	tur	bazı	adj$
 	kaz	дәмді	adj	tur	leziz	adj$
 	kaz	дәрігерлік	adj	tur	tıbbi	adj$
 	kaz	дұрыс	adj$adj-subst	tur	doğru	adj$
@@ -6061,7 +6061,7 @@ LR	kaz	гөрі	post	tur		$num$num-card-sg-nom
 	kaz	қыл	v-tv	tur	oluştur	v-tv
 	kaz	толықтыр	v-tv	tur	tümle	v-tv
 	kaz	ойла	v-tv	tur	san	v-tv
-	kaz	атан	v-iv	tur	ata	v-tv$$v
+	kaz	атан	v-iv	tur	ata	v-tv$v
 	kaz	ту	v-iv	tur	doğ	v-iv$v
 	kaz	жара	v-iv	tur	eşleş	v-iv
 	kaz	қабыл ал	v-tv	tur	kabul et	v-tv$v
@@ -6226,7 +6226,7 @@ LR	kaz	гөрі	post	tur		$num$num-card-sg-nom
 	kaz	бекіт	v-tv	tur	kapa	v-tv$v
 	kaz	бекіт	v-tv	tur	onayla	v-tv$v
 	kaz	бекіт	v-tv	tur	sakla	v-tv$v
-	kaz	белгіле	v-tv	tur	ata	v-tv$$v
+	kaz	белгіле	v-tv	tur	ata	v-tv$v
 	kaz	белгіле	v-tv	tur	belirle	v-tv$v
 	kaz	белгіле	v-tv	tur	tanımla	v-tv$v
 	kaz	бер	v-tv	tur	ver	v-tv$v
@@ -6346,7 +6346,7 @@ LR	kaz	гөрі	post	tur		$num$num-card-sg-nom
 	kaz	қолдан	v-tv	tur	kullan	v-tv$v
 	kaz	қон	v-iv	tur	kon	v-iv$v
 	kaz	қон	v-iv	tur	yerleş	v-iv$v
-	kaz	көн	v-tv	tur	alış	v-tv$v
+	kaz	көн	v-tv	tur	alış	v-tv
 	kaz	көр	v-tv	tur	gör	v-tv$v
 	kaz	көр	v-tv	tur	seyret	v-tv$v
 	kaz	қорға	v-tv	tur	koru	v-tv$v
@@ -6687,7 +6687,7 @@ LR	kaz	мм	n$n-nom	tur	mm	n-nom
 	kaz	барша	adj$adj-subst	tur	bütün	adj$
 	kaz	азат	adj$adj-subst	tur	özgür	adj$
 	kaz	азат	adj$adj-subst	tur	serbest	adj$
-	kaz	тең	n	tur	denk	n$
+	kaz	тең	n	tur	denk	n
 	kaz	барша	adj$adj-subst	tur	tüm	adj
 	kaz	эллиндік	adj	tur	helen	n
 	kaz	бары	n	tur	süreç	n$
@@ -6761,8 +6761,8 @@ LR	kaz	мм	n$n-nom	tur	mm	n-nom
 	kaz	әлгі	det$det-dem	tur	şu	det-dem$det
 	kaz	бірнеше	det-qnt$det	tur	birkaç	det-qnt
 	kaz	бұл	det-dem$det$det-dem-qnt	tur	bu	det-dem$det$det-dem-qnt
-	kaz	бірсыпыра	det-qnt	tur	bazı	det-qnt$det$
-	kaz	бұл	prn-dem$prn-dem-nom$prn	tur	bu	prn-dem$prn-dem-abl$prn
+	kaz	бірсыпыра	det-qnt	tur	bazı	det-qnt$det
+	kaz	бұл	prn-dem$prn-dem-nom$prn	tur	bu	prn-dem$prn
 	kaz	бұл жолғы	adv	tur	böylesine	adv
 	kaz	бюджет	n	tur	bütçe	n$
 	kaz	вагон	n	tur	vagon	n$
@@ -6885,7 +6885,7 @@ LR	kaz	мм	n$n-nom	tur	mm	n-nom
 	kaz	жасау	n	tur	örnek	n$
 	kaz	Жастар	n	tur	genç	n
 	kaz	Жастар	n	tur	genç	n
-	kaz	жаттығ	v-iv	tur	alış	v-iv
+	kaz	жаттығ	v-iv	tur	alış	v-iv$v
 	kaz	жаттығу	n	tur	egzersiz	n
 	kaz	жәйт	n	tur	durum	n$
 	kaz	және	cnjcoo	tur	ve	cnjcoo
@@ -7289,7 +7289,7 @@ LR	kaz	мм	n$n-nom	tur	mm	n-nom
 	kaz	өс	v-iv$v-iv-ger	tur	büyü	v-iv$$v
 	kaz	өст	v-tv	tur	art	v-iv$$v
 	kaz	осы	det-dem$det	tur	şu	det-dem$det
-	kaz	осы	prn-dem	tur	şu	prn-dem$prn-dem-dat
+	kaz	осы	prn-dem	tur	şu	prn-dem
 	kaz	Осылайша	adv	tur	böyle	adv$
 	kaz	Осылай	adv	tur	şöyle	adv$
 	kaz	осында	adv	tur	şurada	adv
@@ -7363,7 +7363,7 @@ LR	kaz	мм	n$n-nom	tur	mm	n-nom
 	kaz	сіздер	prn-pers-p2-pl-frm$prn-pers	tur	siz	pers-p2-pl
 	kaz	содан кейін	post	tur	ondan sonra	adv
 	kaz	сөз	n	tur	laf	n$
-	kaz	сол	prn-dem	tur	şu	prn-dem$prn-dem-dat
+	kaz	сол	prn-dem	tur	şu	prn-dem
 	kaz	сонда	cnjadv	tur	öyleyse	cnjadv
 	kaz	сонда	adv	tur	sonra	adv$
 	kaz	сондай-ақ	cnjcoo	tur	yanı-sıra	cnjcoo

@@ -3348,7 +3348,7 @@ LR	isl	spilari	n-m	swe	spelare	n-ut
 	isl	spilling	n-f	swe	korruption	n-ut
 	isl	sprengja	n-f	swe	bomb	n-ut
 	isl	spurjandi	n-m	swe	frågeställare	n-ut
-	isl	spurning	n-f	swe	fråga	n-ut$
+	isl	spurning	n-f	swe	fråga	$n-ut
 	isl	spá	n-f	swe	prognos	n-ut
 	isl	spænska	n-f	swe	spanska	n-ut
 	isl	starfsemi	n-f	swe	affärsverksamhet	n-ut
@@ -5601,7 +5601,7 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Afríka	np-top-f	swe	Afrika	np-top-ut
 	isl	Airbus	np-al-nt	swe	Airbus	np-al-ut
 	isl	Alavanos	np-cog-mfn	swe	Alavanos	np-cog-mfn
-	isl	Alexander	np-ant-m	swe	Alexander	np$np-ant-m
+	isl	Alexander	np-ant-m	swe	Alexander	np-ant-m
 	isl	Alparnir	np-top-m	swe	Alperna	np-top-ut
 	isl	Alþjóðabankinn	np-al-m	swe	Världsbanken	np$np-al-ut
 	isl	Alþjóðaheilbrigðismálastofnun	np-al-f	swe	Världshälsoorganisation	np-al-ut
@@ -5644,7 +5644,7 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Blokland	np-cog-mfn	swe	Blokland	np-cog-mfn
 	isl	Bolkestein	np-cog-mfn	swe	Bolkestein	np-cog-mfn
 	isl	Bonino	np-cog-mfn	swe	Bonino	np-cog-mfn
-	isl	Bosnía	np-top-f	swe	Bosnien	np-top-ut
+	isl	Bosnía	np-top-f	swe	Bosnien	np-top$np-top-ut
 	isl	Bretland	np-top-nt	swe	Storbritannien	np-top-ut
 	isl	Breyer	np-cog-mfn	swe	Breyer	np-cog-mfn
 	isl	Brian	np-ant-m	swe	Brian	np$np-ant-m
@@ -5656,8 +5656,8 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Cashman	np-cog-mfn	swe	Cashman	np-cog-mfn
 	isl	Castro	np-cog-mfn	swe	Castro	np-cog$np-cog-mfn
 	isl	Catherine	np-ant-f	swe	Catherine	np$np-ant-f
-	isl	Charles	np-ant-m	swe	Charles	np$np-ant-m
-	isl	Charlie	np-ant-m	swe	Charlie	np$np-ant-m
+	isl	Charles	np-ant-m	swe	Charles	np-ant-m
+	isl	Charlie	np-ant-m	swe	Charlie	np-ant-m
 	isl	Chernobyl	np-top-f	swe	Tjernobyl	np-top-ut
 	isl	Chirac	np-cog-mfn	swe	Chirac	np-cog-mfn
 	isl	Chris	np-ant-m	swe	Chris	np$np-ant-m
@@ -5724,10 +5724,10 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Georgía	np-top-f	swe	Georgien	np-top-ut
 	isl	Giuseppe	np-ant-m	swe	Giuseppe	np$np-ant-m
 	isl	Goebbels	np-cog-mfn	swe	Goebbels	np-cog-mfn
-	isl	Graham	np-ant-m	swe	Graham	np$np-ant-m
+	isl	Graham	np-ant-m	swe	Graham	np-ant-m
 	isl	Grikkland	np-top-nt	swe	Grekland	np-top-nt
 	isl	Guido	np-ant-m	swe	Guido	np-ant-m
-	isl	Gíbraltar	np-top-nt	swe	Gibraltar	np-top-nt
+	isl	Gíbraltar	np-top-nt	swe	Gibraltar	np-top$np-top-nt
 	isl	Gínea	np-top-f	swe	Guinea	np-top-ut
 	isl	Haag	np-top-f	swe	Haag	np-top-ut
 	isl	Haarder	np-cog-mfn	swe	Haarder	np$np-cog-mfn
@@ -5736,7 +5736,7 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Hatzidakis	np-cog-mfn	swe	Hatzidakis	np-cog-mfn
 	isl	Haug	np-cog-mfn	swe	Haug	np$np-cog-mfn
 	isl	Hautala	np-cog-mfn	swe	Hautala	np$np-cog-mfn
-	isl	Helsinki	np-top-f	swe	Helsingfors	np$np-top$np-top-ut
+	isl	Helsinki	np-top-f	swe	Helsingfors	np-top$np$np-top-ut
 	isl	Hermann	np-ant-m	swe	Herman	np$np-ant-m
 	isl	Hersegóvína	np-top-f	swe	Hercegovina	np$np-top-ut
 	isl	Hezbollah	np-org-nt	swe	Hizbollah	np-org-nt
@@ -5751,7 +5751,7 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Jarzembowski	np-cog-mfn	swe	Jarzembowski	np-cog-mfn
 	isl	Javier	np-ant-m	swe	Javier	np-ant-m
 	isl	Jerúsalem	np-top-f	swe	Jerusalem	np-top-ut
-	isl	John	np-ant-m	swe	John	np-ant-m$np
+	isl	John	np-ant-m	swe	John	np-ant-m
 	isl	Joseph	np-ant-m	swe	Joseph	np-ant-m$np-ant-m-sg-ind
 	isl	José	np-ant-m	swe	José	np$np-ant-m
 	isl	Juncker	np-cog-mfn	swe	Juncker	np-cog-mfn
@@ -5760,7 +5760,7 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Jórvík	np-top-f	swe	York	np-top-ut
 	isl	Reykjavík	np-top-f	swe	Reykjavik	np-top-ut
 	isl	Júgóslavía	np-top-f	swe	Jugoslavien	np-top-ut
-	isl	Kalíníngrad	np-top-f	swe	Kaliningrad	np$np-top-ut
+	isl	Kalíníngrad	np-top-f	swe	Kaliningrad	np-top$np$np-top-ut
 	isl	Kambódía	np-top-f	swe	Kambodja	np-top$np-top-ut
 	isl	Kanada	np-top-f	swe	Kanada	np-top-ut
 	isl	Kanaríeyjar	np-top-f	swe	Kanarieöarna	np-top-ut
@@ -5782,7 +5782,7 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Köln	np-top-f	swe	Köln	np$np-top-ut
 	isl	Kýótó	np-top-f	swe	Kyoto	np$np-top-ut
 	isl	Lagendijk	np-cog-mfn	swe	Lagendijk	np-cog-mfn
-	isl	Lambert	np-cog-mfn	swe	Lambert	np$np-cog-mfn
+	isl	Lambert	np-cog-mfn	swe	Lambert	np-cog-mfn
 	isl	Lampedusa	np-top-f	swe	Lampedusa	np-top$np-top-ut
 	isl	Lamy	np-cog-mfn	swe	Lamy	np$np-cog-mfn
 	isl	Lancker	np-cog-mfn	swe	Lancker	np-cog-mfn
@@ -5797,7 +5797,7 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Liese	np-cog-mfn	swe	Liese	np-cog-mfn
 	isl	Lissabon	np-top-f	swe	Lissabon	np$np-top-ut
 	isl	London	np-top-f	swe	London	np-top-ut
-	isl	Louis	np-ant-m	swe	Louis	np-ant-m$np
+	isl	Louis	np-ant-m	swe	Louis	np$np-ant-m
 	isl	Lucas	np-ant-m	swe	Lucas	np-ant-m
 	isl	Ludford	np-cog-mfn	swe	Ludford	np-cog-mfn
 	isl	Luis	np-ant-m	swe	Luis	np$np-ant-m
@@ -5813,10 +5813,10 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Manúel	np-ant-m	swe	Manuel	np$np-ant-m
 	isl	Marco	np-ant-m	swe	Marco	np$np-ant-m
 	isl	Margot	np-ant-f	swe	Margot	np$np-ant-f
-	isl	Marie	np-ant-f	swe	Marie	np$np-ant-f
+	isl	Marie	np-ant-f	swe	Marie	np-ant-f
 	isl	Mario	np-ant-m	swe	Mario	np$np-ant-m
 	isl	Martens	np-cog-mfn	swe	Martens	np$np-cog-mfn
-	isl	Martin	np-ant-m	swe	Martin	np-ant-m$np
+	isl	Martin	np-ant-m	swe	Martin	np-ant-m
 	isl	María	np-ant-f	swe	Maria	np-ant-f
 	isl	Marína	np-ant-f	swe	Marina	np$np-ant-f
 	isl	Mccarthy	np-cog-mfn	swe	Mccarthy	np-cog-mfn
@@ -5836,14 +5836,14 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Mjanmar	np-top-nt	swe	Myanmar	np-top-nt
 	isl	Moldóva	np-top-f	swe	Moldavien	np-top-ut
 	isl	Monti	np-ant-m	swe	Monti	np-ant-m
-	isl	Morgan	np-ant-m	swe	Morgan	np$np-ant-m
+	isl	Morgan	np-ant-m	swe	Morgan	np-ant-m
 	isl	Morillon	np-cog-mfn	swe	Morillon	np-cog-mfn
 	isl	Moskva	np-top-f	swe	Moskva	np-top-ut
 	isl	Mugabe	np-cog-mfn	swe	Mugabe	np-cog-mfn
 	isl	Myntbandalag	np-al-nt	swe	EMU	np-al-nt
 	isl	Nassauer	np-cog-mfn	swe	Nassauer	np-cog-mfn
-	isl	Neil	np-ant-m	swe	Neil	np$np-ant-m
-	isl	Nicholson	np-cog-mfn	swe	Nicholson	np$np-cog-mfn
+	isl	Neil	np-ant-m	swe	Neil	np-ant-m
+	isl	Nicholson	np-cog-mfn	swe	Nicholson	np-cog-mfn
 	isl	Nicolas	np-ant-m	swe	Nicolas	np$np-ant-m
 	isl	Nielson	np-cog-mfn	swe	Nielson	np$np-cog-mfn
 	isl	Noregur	np-top-m	swe	Norge	np-top-nt
@@ -5879,7 +5879,7 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Reimer	np-cog-mfn	swe	Reimer	np-cog-mfn
 	isl	Ribeiro	np-cog-mfn	swe	Ribeiro	np-cog-mfn
 	isl	Richard	np-ant-m	swe	Richard	np$np-ant-m
-	isl	Rio	np-top-f	swe	Rio	np$np-top-ut
+	isl	Rio	np-top-f	swe	Rio	np$np-top$np-top-ut
 	isl	Robert	np-ant-m	swe	Robert	np-ant-m$np-ant-m-sg-ind
 	isl	Rocard	np-cog-mfn	swe	Rocard	np-cog-mfn
 	isl	Romano	np-cog-mfn	swe	Romano	np-cog-mfn
@@ -5890,18 +5890,18 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Sahara	np-top-nt	swe	Sahara	np$np-top-ut
 	isl	Sakharovverðlaunin	np-al-nt-pl	swe	Sacharovpriset	np-al-nt-sg
 	isl	Salafranca	np-cog-mfn	swe	Salafranca	np-cog-mfn
-	isl	Salvador	np-top-f	swe	Salvador	np$np-top-ut
+	isl	Salvador	np-top-f	swe	Salvador	np$np-top$np-top-ut
 	isl	Sarkozy	np-cog-mfn	swe	Sarkozy	np-cog-mfn
 	isl	Schengen	np-top-f	swe	Schengen	np-top-ut
 	isl	Schreyer	np-cog-mfn	swe	Schreyer	np-cog-mfn
 	isl	Schroeder	np-cog-mfn	swe	Schröder	np$np-cog-mfn
-	isl	Schulz	np-cog-mfn	swe	Schulz	np$np-cog-mfn
+	isl	Schulz	np-cog-mfn	swe	Schulz	np-cog-mfn
 	isl	Seattle	np-top-f	swe	Seattle	np-top-ut
 	isl	Sellafield	np-cog-mfn	swe	Sellafield	np$np-cog-mfn
 	isl	Seppänen	np-cog-mfn	swe	Seppänen	np$np-cog-mfn
-	isl	Sevilla	np-top-f	swe	Sevilla	np$np-top-ut
+	isl	Sevilla	np-top-f	swe	Sevilla	np$np-top$np-top-ut
 	isl	Sharon	np-cog-mfn	swe	Sharon	np$np-cog-mfn
-	isl	Sierra	np-top-nt	swe	Sierra	np$np-top-ut
+	isl	Sierra	np-top-nt	swe	Sierra	np-top$np$np-top-ut
 	isl	Simbabve	np-top-nt	swe	Zimbabwe	np-top-nt
 	isl	Sjáland	np-top-nt	swe	Zeeland	np-top$np-top-nt
 	isl	Sjöstedt	np-cog-mfn	swe	Sjöstedt	np-cog-mfn
@@ -5926,7 +5926,7 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Taíland	np-top-nt	swe	Thailand	np-top-nt$np
 	isl	Taívan	np-top-nt	swe	Taiwan	np-top-nt
 	isl	Thessaloniki	np-top-f	swe	Thessaloniki	np$np-top-ut
-	isl	Thomas	np-ant-m	swe	Thomas	np-ant-m$np
+	isl	Thomas	np-ant-m	swe	Thomas	np-ant-m
 	isl	Titley	np-cog-mfn	swe	Titley	np-cog-mfn
 	isl	Tony	np-ant-m	swe	Tony	np$np-ant-m
 	isl	Trakatellis	np-cog-mfn	swe	Trakatellis	np-cog-mfn
@@ -5935,7 +5935,7 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Turmes	np-cog-mfn	swe	Turmes	np-cog-mfn
 	isl	Tétsnía	np-top-f	swe	Tjetjenien	np$np-top-ut
 	isl	Tíbet	np-top-nt	swe	Tibet	np-top-nt
-	isl	València	np-top-f	swe	Valencia	np$np-top-ut
+	isl	València	np-top-f	swe	Valencia	np$np-top$np-top-ut
 	isl	Verheugen	np-cog-mfn	swe	Verheugen	np-cog-mfn
 	isl	Vestur-Evrópa	np-top-f	swe	Västeuropa	np-top-ut
 	isl	Vestur-Indíur	np-top-f-pl	swe	Västindien	np-top-ut-sg
@@ -5945,11 +5945,11 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Vitorino	np-ant-m	swe	Vitorino	np-ant-m
 	isl	Vladimir	np-ant-m	swe	Vladimir	np-ant-m
 	isl	Vín	np-top-f	swe	Wien	np-top-ut
-	isl	Wales	np-top-nt	swe	Wales	np-top-nt
-	isl	Wallis	np-top-f	swe	Wallis	np$np-top-ut
+	isl	Wales	np-top-nt	swe	Wales	np-top-nt$np-top
+	isl	Wallis	np-top-f	swe	Wallis	np$np-top$np-top-ut
 	isl	Wallström	np-cog-mfn	swe	Wallström	np-cog-mfn
 	isl	Washington	np-top-f	swe	Washington	np-top$np-top-ut
-	isl	Watson	np-cog-mfn	swe	Watson	np$np-cog-mfn
+	isl	Watson	np-cog-mfn	swe	Watson	np-cog-mfn
 	isl	Whitehead	np-cog-mfn	swe	Whitehead	np-cog-mfn
 	isl	Wogau	np-cog-mfn	swe	Wogau	np-cog-mfn
 	isl	Wurtz	np-cog-mfn	swe	Wurtz	np-cog-mfn
@@ -6023,7 +6023,7 @@ LR	isl	bringa	n-f	swe	bröst	n-nt
 	isl	Jamaíka	np-top-f	swe	Jamaica	np-top-ut
 	isl	Japan	np-top-nt	swe	Japan	np-top-ut
 	isl	Kasakstan	np-top-nt	swe	Kazakstan	np-top-ut
-	isl	Jórdanía	np-top-f	swe	Jordan	np-top-ut
+	isl	Jórdanía	np-top-f	swe	Jordan	np-top$np-top-ut
 	isl	Kenía	np-top-f	swe	Kenya	np-top-ut$np
 	isl	Norður-Kórea	np-top-f	swe	Nord-Korea	np$np-top-ut
 	isl	Kúveit	np-top-nt	swe	Kuwait	np-top-ut
@@ -6068,8 +6068,8 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Rúmenía	np-top-f	swe	Rumänien	np-top-ut
 	isl	Rússland	np-top-nt	swe	Ryssland	np-top-ut
 	isl	Rúanda	np-top-nt	swe	Rwanda	np-top-ut
-	isl	Sankti Helena	np-top-f	swe	Saint Helena	np$np-top-ut
-	isl	Saó Tóme og Prinsípe	np-top-nt	swe	Sao Tomé och Principe	np$np-top-ut
+	isl	Sankti Helena	np-top-f	swe	Saint Helena	np-top-ut
+	isl	Saó Tóme og Prinsípe	np-top-nt	swe	Sao Tomé och Principe	np-top-ut
 	isl	Sádi-Arabía	np-top-f	swe	Saudi-Arabien	np-top-ut
 	isl	Seychelleseyjar	np-top-f	swe	Seychellerna	np-top-ut
 	isl	Síerre Leóne	np-top-nt	swe	Sierre Leone	np-top-ut
@@ -6088,7 +6088,7 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Thailand	np-top-nt	swe	Thailand	np-top-ut
 	isl	Tonga	np-top-nt	swe	Tonga	np-top-ut
 	isl	Trínidad og Tóbagó	np-top-nt	swe	Trinidad och Tobago	np-top-ut
-	isl	Sameinuðu arabísku furstadæmin	np-top-nt	swe	Förenade Arabemiraten	np$np-top-ut
+	isl	Sameinuðu arabísku furstadæmin	np-top-nt	swe	Förenade Arabemiraten	np-top-ut
 	isl	Túnis	np-top-nt	swe	Tunisien	np-top-ut
 	isl	Túrkmenistan	np-top-nt	swe	Turkmenistan	np-top-ut
 	isl	Úganda	np-top-nt	swe	Uganda	np-top-ut
@@ -6125,19 +6125,19 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Fljótahreppur	np-top-m	swe	Fljótahreppur	np-top-ut
 	isl	Akrahreppur	np-top-m	swe	Akrahreppur	np-top-ut
 	isl	Kópavogur	np-top-m	swe	Kópavogur	np-top$np-top-ut
-	isl	Kyrrahaf	np-top-nt	swe	Stilla havet	np$np-top-nt
+	isl	Kyrrahaf	np-top-nt	swe	Stilla havet	np-top-nt
 	isl	Atlantshaf	np-top-nt	swe	Atlanten	np-top-ut
 	isl	Abdi	np-cog-mfn	swe	Abdi	np-cog-mfn
 	isl	Andrews	np-cog-mfn	swe	Andrews	np-cog-mfn
 	isl	Avery	np-cog-mfn	swe	Avery	np-cog-mfn
 	isl	Baddi	np-cog-mfn	swe	Baddi	np-cog-mfn
-	isl	Bennet	np-cog-mfn	swe	Bennett	np$np-cog-mfn
+	isl	Bennet	np-cog-mfn	swe	Bennett	np-cog-mfn
 	isl	Bentall	np-cog-mfn	swe	Bentall	np-cog-mfn
 	isl	Bernstein	np-cog-mfn	swe	Bernstein	np$np-cog-mfn
 	isl	Bingley	np-cog-mfn	swe	Bingley	np-cog-mfn
 	isl	Bjarnason	np-cog-mfn	swe	Bjarnason	np-cog-mfn
 	isl	Björnsson	np-cog-mfn	swe	Björnsson	np-cog-mfn
-	isl	Black	np-cog-mfn	swe	Black	np$np-cog-mfn
+	isl	Black	np-cog-mfn	swe	Black	np-cog-mfn
 	isl	Burelli	np-cog-mfn	swe	Burelli	np-cog-mfn
 	isl	Burkert	np-cog-mfn	swe	Burkert	np-cog-mfn
 	isl	Busch	np-cog-mfn	swe	Busch	np$np-cog-mfn
@@ -6145,7 +6145,7 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Creasy	np-cog-mfn	swe	Creasy	np-cog-mfn
 	isl	Cunha	np-cog-mfn	swe	Cunha	np-cog-mfn
 	isl	Darcy	np-cog-mfn	swe	Darcy	np-cog-mfn
-	isl	Darwin	np-cog-mfn	swe	Darwin	np$np-cog-mfn
+	isl	Darwin	np-cog-mfn	swe	Darwin	np-cog-mfn
 	isl	Ebbinghaus	np-cog-mfn	swe	Ebbinghaus	np-cog-mfn
 	isl	Eggebusch	np-cog-mfn	swe	Eggebusch	np-cog-mfn
 	isl	Einarsson	np-cog-mfn	swe	Einarsson	np$np-cog-mfn
@@ -6154,7 +6154,7 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Filippov	np-cog-mfn	swe	Filippov	np-cog-mfn
 	isl	Filippovna	np-cog-mfn	swe	Filippovna	np-cog-mfn
 	isl	Finnbogadóttir	np-cog-mfn	swe	Finnbogadottir	np-cog-mfn
-	isl	Fisher	np-cog-mfn	swe	Fisher	np$np-cog-mfn
+	isl	Fisher	np-cog-mfn	swe	Fisher	np-cog-mfn
 	isl	Freud	np-cog-mfn	swe	Freud	np$np-cog-mfn
 	isl	Galton	np-cog-mfn	swe	Galton	np-cog-mfn
 	isl	Garner	np-cog-mfn	swe	Garner	np-cog-mfn
@@ -6169,7 +6169,7 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Horgan	np-cog-mfn	swe	Horgan	np-cog-mfn
 	isl	Howarth	np-cog-mfn	swe	Howarth	np-cog-mfn
 	isl	Hunter	np-cog-mfn	swe	Hunter	np$np-cog-mfn
-	isl	Jensen	np-cog-mfn	swe	Jensen	np$np-cog-mfn
+	isl	Jensen	np-cog-mfn	swe	Jensen	np-cog-mfn
 	isl	Jones	np-cog-mfn	swe	Jones	np-cog$np-cog-mfn
 	isl	Jóhannesson	np-cog-mfn	swe	Johannesson	np$np-cog-mfn
 	isl	Jónsdóttir	np-cog-mfn	swe	Jonsdottir	np-cog-mfn
@@ -6179,14 +6179,14 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Knörr	np-cog-mfn	swe	Knörr	np-cog-mfn
 	isl	Kristjánsson	np-cog-mfn	swe	Kristjansson	np-cog-mfn
 	isl	Leonhard	np-cog-mfn	swe	Leonhard	np$np-cog-mfn
-	isl	Long	np-cog-mfn	swe	Long	np$np-cog-mfn
+	isl	Long	np-cog-mfn	swe	Long	np-cog-mfn
 	isl	Lorrimer	np-cog-mfn	swe	Lorrimer	np-cog-mfn
 	isl	Lyme	np-cog-mfn	swe	Lyme	np-cog-mfn
 	isl	Magellanský	np-cog-mfn	swe	Magellansky	np-cog-mfn
 	isl	Magnússon	np-cog-mfn	swe	Magnusson	np-cog$np-cog-mfn
 	isl	Möller	np-cog-mfn	swe	Möller	np-cog-mfn
 	isl	Norðmann	np-cog-mfn	swe	Nordmann	np-cog-mfn
-	isl	Parker	np-cog-mfn	swe	Parker	np$np-cog-mfn
+	isl	Parker	np-cog-mfn	swe	Parker	np-cog-mfn
 	isl	Pickenbaugh	np-cog-mfn	swe	Pickenbaugh	np-cog-mfn
 	isl	Pinta	np-cog-mfn	swe	Pinta	np-cog-mfn
 	isl	Pálsson	np-cog-mfn	swe	Pålsson	np-cog-mfn
@@ -6203,9 +6203,9 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Thorarensen	np-cog-mfn	swe	Thorarensen	np-cog-mfn
 	isl	Thoroddsen	np-cog-mfn	swe	Thoroddsen	np-cog-mfn
 	isl	Tremayne	np-cog-mfn	swe	Tremayne	np-cog-mfn
-	isl	Valley	np-cog-mfn	swe	Valley	np$np-cog-mfn
+	isl	Valley	np-cog-mfn	swe	Valley	np-cog-mfn
 	isl	Voisin	np-cog-mfn	swe	Voisin	np-cog-mfn
-	isl	White	np-cog-mfn	swe	White	np$np-cog-mfn
+	isl	White	np-cog-mfn	swe	White	np-cog-mfn
 	isl	Wundt	np-cog-mfn	swe	Wundt	np-cog-mfn
 	isl	Árnason	np-cog-mfn	swe	Arnason	np-cog-mfn
 	isl	Ísólfsson	np-cog-mfn	swe	Isolfsson	np-cog-mfn
@@ -6216,7 +6216,7 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Þórðarson	np-cog-mfn	swe	Thordarson	np-cog-mfn
 	isl	Akranes	np-top-nt	swe	Akranes	np-top-nt
 	isl	Akureyri	np-top-f	swe	Akureyri	np$np-top-ut
-	isl	Alice	np-ant-f	swe	Alice	np$np-ant-f
+	isl	Alice	np-ant-f	swe	Alice	np-ant-f
 	isl	Alli	np-ant-m	swe	Alli	np-ant-m
 	isl	Alís	np-ant-f	swe	Alisa	np-ant-f
 	isl	Alþjóðahvalveiðiráðið	np-al-nt	swe	Internationella valfångstkommissionen	np-al-ut
@@ -6226,13 +6226,13 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Andrés	np-ant-m	swe	Andres	np$np-ant-m
 	isl	Anný	np-ant-f	swe	Anny	np$np-ant-f
 	isl	Austfirðir	np-top-m-pl	swe	Östfjordar	np-top-ut-sg
-	isl	Austur-Grænland	np-top-nt	swe	Östra Grönland	np$np-top-nt
+	isl	Austur-Grænland	np-top-nt	swe	Östra Grönland	np-top-nt
 	isl	Austurland	np-top-nt	swe	Östra Island	np-top-nt
 	isl	Austurvöllur	np-top-m	swe	Austurvöllur	np-top-ut
-	isl	Axel	np-ant-m	swe	Axel	np$np-ant-m
+	isl	Axel	np-ant-m	swe	Axel	np-ant-m
 	isl	Bandaríkin	np-top-nt$np-top-nt-pl	swe		np-top-ut
 	isl	Bella	np-ant-f	swe	Bella	np-ant-f
-	isl	Ben	np-ant-m	swe	Ben	np$np-ant-m
+	isl	Ben	np-ant-m	swe	Ben	np-ant-m
 	isl	Benedikt	np-ant-m	swe	Benedikt	np$np-ant-m
 	isl	Berufjörður	np-top-m	swe	Berufjördur	np-top-ut
 	isl	Bessastaðir	np-top-m-pl	swe	Bessastadir	np-top-ut-sg
@@ -6277,7 +6277,7 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Erlingur	np-ant-m	swe	Erling	np$np-ant-m
 	isl	Erna	np-ant-f	swe	Erna	np-ant-f
 	isl	Eyjólfur	np-ant-m	swe	Eyjolfur	np-ant-m
-	isl	Eysteinn	np-ant-m	swe	Eystein	np$np-ant-m
+	isl	Eysteinn	np-ant-m	swe	Eystein	np-ant-m
 	isl	Faxaflói	np-top-m	swe	Faxafloi	np$np-top-ut
 	isl	Framsóknarflokkur	np-org-m	swe	Framstegsparti	np-org-nt
 	isl	Frank	np-ant-m	swe	Frank	np$np-ant-m
@@ -6285,7 +6285,7 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Fríða	np-ant-f	swe	Frida	np$np-ant-f
 	isl	Fáskrúðsfjörður	np-top-m	swe	Faskrudsfjordur	np-top-ut
 	isl	Fúsi	np-ant-m	swe	Fusi	np-ant-m
-	isl	Garcia	np-ant-f	swe	Garcia	np$np-ant-f
+	isl	Garcia	np-ant-f	swe	Garcia	np-ant-f
 	isl	Geir	np-ant-m	swe	Geir	np$np-ant-m
 	isl	Geirlaug	np-ant-f	swe	Geirlaug	np-ant-f
 	isl	Gengis	np-ant-m	swe	Djingis	np-ant-m
@@ -6306,18 +6306,18 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Guðmundur	np-ant-m	swe	Gudmund	np$np-ant-m
 	isl	Guðrún	np-ant-f	swe	Gudrun	np$np-ant-f
 	isl	Gvendur	np-ant-m	swe	Gvendur	np-ant-m
-	isl	Gísli	np-ant-m	swe	Gisle	np$np-ant-m
+	isl	Gísli	np-ant-m	swe	Gisle	np-ant-m
 	isl	Gíslína	np-ant-f	swe	Gislina	np-ant-f
 	isl	Hafnarfjörður	np-top-m	swe	Hafnarfjördur	np-top-ut
 	isl	Halldór	np-ant-m	swe	Halldor	np$np-ant-m
 	isl	Halldóra	np-ant-f	swe	Halldora	np-ant-f
-	isl	Halle	np-ant-m	swe	Halle	np$np-ant-m
+	isl	Halle	np-ant-m	swe	Halle	np-ant-m
 	isl	Hannibal	np-ant-m	swe	Hannibal	np$np-ant-m
 	isl	Haraldur	np-ant-m	swe	Harald	np$np-ant-m
 	isl	Hardin	np-ant-m	swe	Hardin	np-ant-m
 	isl	Harpo	np-ant-m	swe	Harpo	np-ant-m
 	isl	Harrí	np-ant-m	swe	Harri	np$np-ant-m
-	isl	Heiðmörk	np-top-f	swe	Hedmark	np$np-top-nt
+	isl	Heiðmörk	np-top-f	swe	Hedmark	np-top$np$np-top-nt
 	isl	Heiðrún	np-ant-f	swe	Heidrun	np$np-ant-f
 	isl	Helga	np-ant-f	swe	Helga	np$np-ant-f
 	isl	Helgi	np-ant-m	swe	Helgi	np$np-ant-m
@@ -6333,7 +6333,7 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Iðunn	np-ant-f	swe	Idunn	np$np-ant-f
 	isl	Jakob	np-ant-m	swe	Jakob	np-ant-m$np-ant-m-sg-ind
 	isl	Jan	np-ant-m	swe	Jan	np-ant-m$np-ant-m-sg-ind
-	isl	Jane	np-ant-f	swe	Jane	np$np-ant-f
+	isl	Jane	np-ant-f	swe	Jane	np-ant-f
 	isl	Janice	np-ant-f	swe	Janice	np$np-ant-f
 	isl	Janvier	np-ant-m	swe	Janvier	np-ant-m
 	isl	Jesús	np-ant-m	swe	Jesus	np-ant-m
@@ -6351,7 +6351,7 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Jökulsá	np-top-f	swe	Jökulsa	np-top-ut
 	isl	Júpíter	np-al-m	swe	Jupiter	np-al-ut
 	isl	Karin	np-ant-f	swe	Karin	np$np-ant-f
-	isl	Karl	np-ant-m	swe	Karl	np-ant-m
+	isl	Karl	np-ant-m	swe	Karl	np-ant-m$np
 	isl	Kaspían	np-ant-m	swe	Kaspian	np-ant-m
 	isl	Kata	np-ant-f	swe	Kata	np-ant-f
 	isl	Katrín	np-ant-f	swe	Katrin	np$np-ant-f
@@ -6383,13 +6383,13 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Margrét	np-ant-f	swe	Margaret	np$np-ant-f
 	isl	Markús	np-ant-m	swe	Markus	np-ant-m$np-ant-m-sg-ind
 	isl	Markúsína	np-ant-f	swe	Markusina	np-ant-f
-	isl	Marteinn	np-ant-m	swe	Martin	np-ant-m$np
+	isl	Marteinn	np-ant-m	swe	Martin	np-ant-m
 	isl	Mary	np-ant-f	swe	Mary	np-ant-f$np
 	isl	Matthías	np-ant-m	swe	Matthias	np$np-ant-m
 	isl	Memed	np-ant-m	swe	Memed	np-ant-m
 	isl	Milla	np-ant-f	swe	Milla	np-ant-f
 	isl	Morgunblaðið	np-al-nt	swe	Morgunbladid	np$np-al-nt
-	isl	Mílanó	np-top-f	swe	Milan	np$np-top-ut
+	isl	Mílanó	np-top-f	swe	Milan	np-top$np$np-top-ut
 	isl	Narnía	np-ant-f	swe	Narnia	np-ant-f
 	isl	Nastasja	np-ant-f	swe	Nastasja	np-ant-f
 	isl	Nettie	np-ant-f	swe	Nettie	np-ant-f
@@ -6412,7 +6412,7 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Petra	np-ant-f	swe	Petra	np$np-ant-f
 	isl	Ragnar	np-ant-m	swe	Ragnar	np$np-ant-m
 	isl	Ragnheiður	np-ant-f	swe	Ragnheidur	np-ant-f
-	isl	Raymond	np-ant-m	swe	Raymond	np$np-ant-m
+	isl	Raymond	np-ant-m	swe	Raymond	np-ant-m
 	isl	Reykdalur	np-top-m	swe	Reykdal	np-top-ut
 	isl	Reyðarfjörður	np-top-m	swe	Reydarfjördur	np$np-top-ut
 	isl	Rika	np-ant-f	swe	Rika	np-ant-f
@@ -6475,9 +6475,9 @@ LR	isl	Níkaragva	np-top-nt	swe	Nicaragua	np-top-ut
 	isl	Vilhjálmur	np-ant-m	swe	Vilhelm	np-ant-m$np-ant-m-sg-ind
 	isl	Vídalín	np-ant-f	swe	Vidalin	np-ant-f
 	isl	Víðförli	np-al-m	swe	Vidförli	np-al-ut
-	isl	Werner	np-ant-m	swe	Werner	np$np-ant-m
+	isl	Werner	np-ant-m	swe	Werner	np-ant-m
 	isl	Yngvi	np-ant-m	swe	Yngve	np-ant-m$np-ant-m-sg-ind
-	isl	York	np-top-nt	swe	York	np-top-nt
+	isl	York	np-top-nt	swe	York	np-top-nt$np-top
 	isl	Ágúst	np-ant-m	swe	August	np-ant-m$np-ant-m-sg-ind
 	isl	Álfrún	np-ant-f	swe	Alfrun	np-ant-f
 	isl	Álftafjörður	np-top-m	swe	Alftafjördur	np-top-ut
@@ -6545,7 +6545,7 @@ RL	isl	auka	vblex	swe	utöka	$vblex
 	isl	aðgreina	vblex	swe	utmärka	$vblex
 	isl	aðhafast	vblex	swe	agera	$vblex
 	isl	aðlaga	vblex	swe	anpassa	$vblex
-	isl	aðskilja	vblex	swe	skilja	$vblex
+	isl	aðskilja	vblex	swe	skilja	$vblex$vblex-inf-actv
 	isl	aðstoða	vblex	swe	bistå	$vblex
 	isl	banna	vblex	swe	förbjuda	$vblex
 	isl	beina	vblex	swe	rikta	$vblex

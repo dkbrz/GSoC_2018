@@ -77,7 +77,7 @@
 	asm	ইণ্ডিয়ান এয়াৰলাইন্স	np	eng	Indian Airlines	np
 	asm	জেট এয়াৰওৱেজ	np	eng	Jet Airways	np
 	asm	চাহাৰা এয়াৰলাইন্স	np	eng	Sahara Airlines	np
-	asm	অন্ধ্ৰপ্ৰদেশ	np	eng	Andhra Pradesh	np-top$np$np-top-sg
+	asm	অন্ধ্ৰপ্ৰদেশ	np	eng	Andhra Pradesh	np-top$np
 	asm	কেওলাদেও ঘন ৰাষ্ট্ৰীয় উদ্যান	np	eng	Keoladeo Ghana National Park	np
 	asm	জলপক্ষী অভয়াৰণ্য	np	eng	water-bird sanctuary	np
 	asm	আহোম	np	eng	Ahom	np
@@ -90,14 +90,14 @@
 	asm	মহাৰজা চাৱাই প্ৰতাপ সিঙ	np	eng	Maharaja Sawai Pratap Singh	np
 	asm	ভৰতপুৰ	np	eng	Bharatpur	np$np-top
 	asm	সংগ্ৰাহালয়	np	eng	museum	np
-	asm	বৃটিছ	np	eng	British	np
+	asm	বৃটিছ	np	eng	British	np$np-top-sg
 	asm	ফকলেণ্ড দ্বীপ	np	eng	Falkland Islands	np$np-loc
 	asm	দক্ষিণ ভাৰত	np	eng	South India	np
 	asm	অম্বৰ প্ৰসাদ	np	eng	Amber Palace	np
 	asm	ৰাহুল	np	eng	Rahul	np-ant$np$np-ant-m$np-ant-m-sg
 	asm	বুদ্ধ	np	eng	Buddha	np$np-ant$np-ant-m-sg
 	asm	লুদুৰ্ভা	np	eng	Lodurva	np
-	asm	হিমাচল প্ৰদেশ	np	eng	Himachal Pradesh	np-top$np$np-top-sg
+	asm	হিমাচল প্ৰদেশ	np	eng	Himachal Pradesh	np-top$np
 	asm	অপৰাধ	n$n-m	eng	crime	n$n-ND
 	asm	অঙ্ক	n$n-m	eng	digit	n$n-sg
 	asm	অভিমান	n$n-m	eng	pride	n$n-sg
@@ -422,7 +422,7 @@
 	asm	সন্দেহ	n-nt-nn	eng	doubt	n$n-sg
 	asm	স্বপ্ন	n-mf-nn	eng	dream	n$n-ND
 	asm	পানীয়	n-nt-nn	eng	drink	n$n-sg
-	asm	ড্রাগ	n-nt-nn	eng	drug	n$n-ND
+	asm	ড্রাগ	n-nt-nn	eng	drug	n$n-sg
 	asm	ঢোল	n-nt-nn	eng	drum	n$n-sg
 	asm	কান	n-nt-nn	eng	ear	n$n-sg
 	asm	পৃথিৱী	n$n-mf-nn	eng	earth	n$n-ND
@@ -924,7 +924,7 @@ LR	asm	ধান	n-mf-nn	eng	rice	n$n-ND
 	asm	বস্তা	n-nt-nn	eng	sack	n$n-ND
 	asm	নিৰাপত্তা	n-mf-nn	eng	safety	n$n-unc
 	asm	পাল	n-nt-nn	eng	sail	n$n-ND
-	asm	নিমখ	n-nt-nn	eng	salt	n$n-ND
+	asm	নিমখ	n-nt-nn	eng	salt	n$n-sg
 	asm	অনুমোদন	n-nt-nn	eng	sanction	n$n-ND
 	asm	বালি	n-nt-nn	eng	sand	n$n-ND
 	asm	সঞ্চয়	n-nt-nn	eng	saving	n$n-ND
@@ -939,7 +939,7 @@ LR	asm	ধান	n-mf-nn	eng	rice	n$n-ND
 	asm	অনুসন্ধান	n-nt-nn	eng	search	n$n-ND
 	asm	সাগৰ	n-nt-nn	eng	sea	n$n-sg
 	asm	আসন	n-mf-nn	eng	seat	n$n-ND
-	asm	দ্বিতীয়	n-nt-nn	eng	second	n$n-ND
+	asm	দ্বিতীয়	n-nt-nn	eng	second	n$n-sg
 	asm	সচিব	n-mf-el-def	eng	secretary	n$n-ND
 	asm	বিভাগ	n-nt-nn	eng	section	n$n-sg
 	asm	নিৰাপত্তা	n-mf-nn	eng	security	n$n-sg
@@ -1067,7 +1067,7 @@ LR	asm	ধান	n-mf-nn	eng	rice	n$n-ND
 	asm	দাগ	n-nt-nn	eng	trail	n$n-ND
 	asm	প্রশিক্ষণ	n-nt-nn	eng	training	n$n-ND
 	asm	পৰিবর্তন	n-mf-nn	eng	transition	n$n-ND
-	asm	ভ্রমণ	n-nt-nn	eng	travel	n$n-ND
+	asm	ভ্রমণ	n-nt-nn	eng	travel	n$n-sg
 	asm	চিকিৎসা	n-nt-nn	eng	treatment	n$n-sg
 	asm	গছ	n-mf-nn	eng	tree	n$n-ND
 	asm	পুৰস্কাৰ	n-nt-nn$n	eng	trophy	n
@@ -1086,7 +1086,7 @@ LR	asm	ধান	n-mf-nn	eng	rice	n$n-ND
 	asm	বৈধতা	n-nt-nn	eng	validation	n
 	asm	উপত্যকা	n-nt-nn	eng	valley	n$n-ND
 	asm	মূল্য	n-nt-nn	eng	value	n$n-sg
-	asm	ভান	n-nt-nn	eng	van	n$n-ND
+	asm	ভান	n-nt-nn	eng	van	n$$n-ND
 	asm	গাড়ী	n-mf-nn	eng	vehicle	n$n-ND
 	asm	ঘটনাস্থল	n-mf-nn	eng	venue	n$n-ND
 	asm	মাতৃভাষা	n-nt-nn	eng	vernacular	n
@@ -1266,7 +1266,7 @@ LR	asm	লিখা	n-mf-nn	eng	writing	n$n-unc
 	asm	ল্যাপটপ	n-nt-nn	eng	laptop	n
 	asm	আক্ৰমণ	n-mf-nn	eng	attack	n$n-ND
 	asm	আক্ৰমণ	n-mf-hu	eng	judge	n$n-sg
-	asm	ডাঙৰ	n-mf-nn	eng	big	n
+	asm	ডাঙৰ	n-mf-nn	eng	big	n$n-pl
 	asm	ঠাণ্ডা	n-mf-nn	eng	cold	n$n-sg
 	asm	বৰদিন	n-mf-nn	eng	Christmas	n
 	asm	স্টেডিয়াম	n-mf-nn	eng	stadium	n$n-ND
@@ -1434,7 +1434,7 @@ LR	asm	লিখা	n-mf-nn	eng	writing	n$n-unc
 	asm	প্রবৃদ্ধি	n-mf-nn	eng	development	n$n-ND
 	asm	কর্মশালা	n-mf-nn	eng	workshop	n$n-sg
 	asm	শিখৰ	n-mf-nn	eng	summit	n$n-ND
-	asm	জনাব	n-mf-hu	eng	Mr.	n
+	asm	জনাব	n-mf-hu	eng	Mr.	n$
 	asm	পোৰা	n-mf-nn	eng	burning	n$n-unc
 	asm	সংগীত	n-nt-nn	eng	song	n$n-ND
 	asm	ঘণ্টা	n-mf-nn	eng	hour	n$n-ND
@@ -2275,7 +2275,7 @@ RL	asm	কঠিন	adj-sint-mf	eng	solid	adj$adj-sint
 	asm	ছুটি	n$n-m	eng	holiday	n$n-sg
 	asm	ছাত্ৰ	n$n-m	eng	male student	n
 	asm	ছাত্ৰী	n$n-m	eng	female student	n
-	asm	ছয়	adj	eng	six	adj
+	asm	ছয়	adj	eng	six	adj-ord$adj
 	asm	সৰু	adj	eng	small	adj-sint$adj
 	asm	লুকা	vblex	eng	hide	vblex
 	asm	কাঢ়	vblex	eng	snatch	vblex
@@ -2363,7 +2363,7 @@ RL	asm	কঠিন	adj-sint-mf	eng	solid	adj$adj-sint
 	asm	উপহাৰ	n$n-m	eng	gift	n$n-ND
 	asm	স্বাস্থ্যৱান	adj	eng	healthy	adj-sint$adj$adj-sint-comp
 	asm	শকত-আৱত	adj	eng	healthy	adj-sint$adj$adj-sint-comp
-	asm	তিনি	adj	eng	three	adj
+	asm	তিনি	adj	eng	three	adj$adj-ord
 	asm	তৃতীয়	adj	eng	third	adj$adj-ord
 	asm	চোকা	adj	eng	intelligent	adj
 	asm	তেৰ	adj	eng	thirteen	adj
@@ -2417,7 +2417,7 @@ RL	asm	কঠিন	adj-sint-mf	eng	solid	adj$adj-sint
 	asm	দহ	adj	eng	ten	adj
 	asm	দুষ্ট	adj	eng	naughty	adj-sint$adj
 	asm	সোঁ	adj	eng	right	adj$adj-sint
-	asm	দুই	adj	eng	two	adj
+	asm	দুই	adj	eng	two	adj$adj-ord
 	asm	দ্বিতীয়	adj$adj-mf	eng	second	adj$adj-ord
 	asm	বেলেগ	adj	eng	separate	adj
 	asm	দেৰি	adj	eng	late	adj-sint$adj
@@ -2441,7 +2441,7 @@ RL	asm	কঠিন	adj-sint-mf	eng	solid	adj$adj-sint
 	asm	ধাৰ্মিক	adj	eng	religious	adj
 	asm	নদী	n$n-m	eng	river	n$n-sg
 	asm	চাকৰি	n-m	eng	job	n$n-ND
-	asm	নিমখ	n$n-m	eng	salt	n$n-ND
+	asm	নিমখ	n$n-m	eng	salt	n$n-sg
 	asm	নকল	n$n-m	eng	duplicate	n$n-sg
 	asm	নাক	n$n-m	eng	nose	n$n-sg
 	asm	নাম	n$n-m	eng	name	n$n-sg
@@ -2454,7 +2454,7 @@ RL	asm	কঠিন	adj-sint-mf	eng	solid	adj$adj-sint
 	asm	কোমল	adj	eng	soft	adj$adj-sint
 	asm	ব্যক্তিগত	adj	eng	personal	adj
 	asm	নীলা	adj	eng	blue	adj$adj-sint
-	asm	ন	adj	eng	nine	adj
+	asm	ন	adj	eng	nine	adj-ord$adj
 	asm	গা ধু	vblex	eng	bath	vblex
 	asm	ওলা	vblex	eng	leave	vblex$vblex-sep
 	asm	উলিয়া	vblex	eng	take out	vblex
@@ -2483,14 +2483,14 @@ RL	asm	কঠিন	adj-sint-mf	eng	solid	adj$adj-sint
 	asm	স্নেহ	n$n-m	eng	love	n$n-sg
 	asm	পিয়াহ	n$n-m	eng	thirsty	n
 	asm	পৰা	post	eng	from	pr
-RL	asm			eng	of	pr
+RL	asm			eng	of	pr$
 	asm	দ্বাৰা	post	eng	by	pr
 	asm	ওপৰত	post	eng	over	pr$
 	asm	পকা	adj	eng	fixed	adj
 	asm	পঞ্চাশ	adj	eng	fifty	adj
 	asm	পাতল	adj	eng	light	adj-sint$adj
 	asm	প্ৰথম	adj	eng	first	adj$adj-ord
-	asm	পাঁচ	adj	eng	five	adj
+	asm	পাঁচ	adj	eng	five	adj$adj-ord
 	asm	হালধীয়া	adj	eng	yellow	adj-sint$adj
 	asm	ধৰ	vblex	eng	catch	vblex
 	asm	ৰান্ধ	vblex	eng	cook	vblex
@@ -2661,7 +2661,7 @@ RL	asm			eng	of	pr
 	asm	সত্য	adj	eng	truth	adj
 	asm	সফল	adj$adj-sint-mf	eng	success	adj
 	asm	বুধিয়ক	adj	eng	intelligent	adj
-	asm	সাত	adj	eng	seven	adj
+	asm	সাত	adj	eng	seven	adj$adj-ord
 	asm	লগত	adj	eng	with	adj
 	asm	এশ	adj	eng	one-hundred	adj
 	asm	শ	adj	eng	hundred	adj
@@ -2689,7 +2689,7 @@ RL	asm			eng	of	pr
 	asm	হৈছিল	vblex	eng	happened	vblex
 	asm	হ'ম	vblex	eng	become	vblex
 	asm	ভাল পাওঁ	vblex	eng	like	vblex
-	asm	আমি	prn	eng	we	prn$prn-obj-p1-mf-pl$prn-obj
+	asm	আমি	prn	eng	we	prn$prn-subj-p1-mf$prn-subj
 	asm	আমাৰ	prn	eng	our	prn$prn-pos
 	asm	আমাক	prn	eng	us	prn
 	asm	সদায়	ot	eng	daily	ot

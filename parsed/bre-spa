@@ -133,15 +133,15 @@
 	bre	daou	num-GD-pl$num	spa	dos	num-mf$num$num-mf-sp$
 	bre	daou	num-m-pl	spa	dos	num-mf$num$num-mf-sp$
 	bre	daou	num-f-pl	spa	dos	num-mf$num$num-mf-sp$
-	bre	daou-ugent	num-mf-pl	spa	cuarenta	num$$num-mf$num-mf-sp
+	bre	daou-ugent	num-mf-pl	spa	cuarenta	num$num-mf-sp$$num-mf
 	bre	daou c’hant	num-mf-pl	spa	doscientos	num$$num-mf
 	bre	daouzek	num-mf-pl	spa	doce	num$num-mf-pl$$num-mf
 	bre	dek	num-mf-pl	spa	diez	num$num-mf$num-mf-sp$
-	bre	dek ha pevar-ugent	num-mf-pl	spa	noventa	num$$num-mf
-	bre	dek ha tri-ugent	num-mf-pl	spa	setenta	num$$num-mf
+	bre	dek ha pevar-ugent	num-mf-pl	spa	noventa	num$$num-mf$num-mf-sp
+	bre	dek ha tri-ugent	num-mf-pl	spa	setenta	num$$num-mf$num-mf-sp
 	bre	eizh	num-mf-pl$num	spa	ocho	num$$num-mf-sp
 	bre	eizh kant	num-mf-pl	spa	ochocientos	num$$num-GD-pl
-	bre	hanter-kant	num-mf-pl	spa	cincuenta	num$$num-mf
+	bre	hanter-kant	num-mf-pl	spa	cincuenta	num$$num-mf-sp$num-mf
 	bre	kant	num-mf-pl	spa	cien	num$num-mf-sp$num-mf$
 	bre	naontek	num-mf-pl	spa	diecinueve	num$$num-mf$num-mf-sp
 	bre	nav	num-mf-pl$num	spa	nueve	num$$num-mf-sp
@@ -152,16 +152,16 @@
 	bre	pevar	num-GD-pl$num	spa	cuatro	num$$num-mf-sp
 	bre	pevar	num-m-pl	spa	cuatro	num$$num-mf-sp
 	bre	pevar	num-f-pl	spa	cuatro	num$$num-mf-sp
-	bre	pevar-ugent	num-mf-pl	spa	ochenta	num$$num-mf$num-mf-sp
+	bre	pevar-ugent	num-mf-pl	spa	ochenta	num$num-mf-sp$$num-mf
 	bre	pevar c’hant	num-mf-pl	spa	cuatrocientos	num$$num-GD-pl
 	bre	pevarzek	num-mf-pl	spa	catorce	num$$num-mf$num-mf-sp
 	bre	seitek	num-mf-pl	spa	diecisiete	num$$num-mf$num-mf-sp
 	bre	seizh	num-mf-pl$num	spa	siete	num$$num-mf-sp
-	bre	tregont	num-mf-pl	spa	treinta	num$$num-mf
+	bre	tregont	num-mf-pl	spa	treinta	num$$num-mf$num-mf-sp
 	bre	tri	num-GD-pl$num	spa	tres	num$num-mf-sp$
 	bre	tri	num-m-pl	spa	tres	num$num-mf-sp$
 	bre	tri	num-f-pl	spa	tres	num$num-mf-sp$
-	bre	tri-ugent	num-mf-pl	spa	sesenta	num$$num-mf$num-mf-sp
+	bre	tri-ugent	num-mf-pl	spa	sesenta	num$num-mf-sp$$num-mf
 	bre	tri c’hant	num-mf-pl	spa	trescientos	num$$num-mf
 	bre	triwec’h	num-mf-pl	spa	dieciocho	num$num-mf-sp$$num-mf
 	bre	trizek	num-mf-pl	spa	trece	num$$num-mf$num-mf-sp
@@ -322,7 +322,7 @@ RL	bre	an	det-def-sp$det-def	spa	el	det-def-m-pl
 RL	bre	an	det-def-sp$det-def	spa	el	det-def-f-pl
 LR	bre	un	det-ind-sp	spa	uno	det-ind-GD$det-ind-GD-ND
 RL	bre	un	det-ind-sp	spa	uno	det-ind-f-sg
-RL	bre	un	det-ind-sp	spa	uno	det-ind$det$det-ind-m-sg$det-ind-m
+RL	bre	un	det-ind-sp	spa	uno	det$det-ind$det-ind-m-sg$det-ind-m
 RL	bre	un	det-ind-sp	spa	uno	det-ind-f-pl$det-ind-f
 RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	da	det-pos-mf-sp	spa	tuyo	det-pos-mf$det$det-pos$det-pos-mf-pl
@@ -652,7 +652,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	arc’h	n-f	spa	caja fuerte	
 	bre	arc’hadur	n-m	spa	reivindicación	n$n-f$n-f-ND
 	bre	arc’hant	n-m$n-m-sg	spa	dinero	n-m-pl
-	bre	arc’hant	n-m$n-m-sg	spa	dinero	n-m-sg$n-m$n
+	bre	arc’hant	n-m$n-m-sg	spa	dinero	n-m-sg$n$n-m
 	bre	arc’hant	n-m$n-m-sg	spa	plata	n-f$n$n-f-ND
 	bre	arc’hantadur	n-m	spa	financiación	n-f$n-f-sg$n
 	bre	arc’hantbevadur	n-m	spa	amalgama	n-f$n
@@ -822,7 +822,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	atebegezh	n-f	spa	autoría	n$n-f$n-f-sg
 	bre	atel	n-m	spa	esqueleto	n-m$n
 	bre	aters	n-m	spa	demanda	n$n-f$n-f-sg
-	bre	aters	n-m	spa	requerimiento	n-m$n$n-m-sg
+	bre	aters	n-m	spa	requerimiento	n$n-m$n-m-sg
 	bre	aters	n-m	spa	petición	n$n-f$n-f-sg
 	bre	atiz	n-m	spa	sugerencia	n$n-f$n-f-sg
 	bre	aval	n-m	spa	manzana	n$n-f$n-f-ND
@@ -1120,7 +1120,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	blenier	n-m	spa	chófer	n-mf$n$n-mf-ND
 	bre	bles	n-m	spa	herida	n-f$n$n-f-ND
 	bre	blesadur	n-m	spa	herida	n-f$n$n-f-ND
-	bre	bleud	n-m	spa	harina	n$n-f
+	bre	bleud	n-m	spa	harina	n$n-f$n-f-sg
 	bre	bleunienn	n-f	spa	flor	n-f$n$n-f-ND
 	bre	blev	n-f$n	spa	cabello	n-m$n$n-m-ND
 	bre	blevad	n-m	spa	melena	n$n-f$n-f-ND
@@ -1761,7 +1761,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	demeurañs	n-f	spa	mansión	n$n-f$n-f-ND
 	bre	demokrat	n-m	spa	demócrata	n$n-mf$n-mf-ND
 	bre	demokratiezh	n-f	spa	democracia	n$n-f$n-f-sg
-	bre	den	n-m-sg	spa	persona	n-f$n$n-f-sg
+	bre	den	n-m-sg	spa	persona	n$n-f$n-f-sg
 	bre	den	n-m$n-m-pl$n	spa	gente	n-f-sg$n$n-f
 	bre	den	n-m$n-m-pl$n	spa	gente	n-f-pl
 	bre	den	n-m$n-m-pl$n	spa	adulto	n-GD
@@ -1990,7 +1990,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	disglavier	n-m$n	spa	paraguas	n-m-sp$n-m$n
 	bre	disk	n-m	spa	disco	n-m$n$n-m-ND
 	bre	diskar	n-m	spa	decadencia	n$n-f$n-f-ND
-	bre	diskar	n-m	spa	ocaso	n-m$n
+	bre	diskar	n-m	spa	ocaso	n$n-m
 	bre	diskar-amzer	n-f	spa	otoño	n-m$n$n-m-sg
 	bre	diskaridigezh	n-f	spa	destrucción	n-f$n$n-f-ND
 	bre	diskaridigezh	n-f	spa	destrozo	n-m$n
@@ -2079,7 +2079,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	distroadenn	n-f	spa	retorno	n-m$n$n-m-ND
 	bre	distroadenn	n-f	spa	devolución	n$n-f$n-f-sg
 	bre	distroenn	n-f	spa	decadencia	n$n-f$n-f-ND
-	bre	distroenn	n-f	spa	ocaso	n-m$n
+	bre	distroenn	n-f	spa	ocaso	n$n-m
 	bre	distroñsadur	n-m	spa	amortización	n$n-f
 	bre	distruj	n-m	spa	destrucción	n-f$n$n-f-ND
 	bre	distruj	n-m	spa	destrozo	n-m$n
@@ -2219,7 +2219,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	drevezerezh	n-m	spa	imitación	n-f$n
 	bre	droed	n-m	spa	derecho	n-m$n$n-m-sg
 	bre	droug	n-m	spa	daño	n-m$n$n-m-sg
-	bre	droug	n-m	spa	mal	n$n-m$n-m-ND
+	bre	droug	n-m	spa	mal	n-m$n$n-m-ND
 	bre	drougiezh	n-f	spa	maldad	n$n-f$n-f-ND
 	bre	drougimplij	n-m-ND$n-m	spa	abuso	n-m-pl
 	bre	drougimplij	n-m-ND$n-m	spa	abuso	n-m$n-m-ND$n
@@ -2416,7 +2416,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	enklasker	n-m	spa	enquestador	n-m
 	bre	enklaskerezh	n-m	spa	busca	n-f$n$n-f-ND
 	bre	enklaskerezh	n-m	spa	investigación	n-f$n$n-f-sg
-	bre	enklaskerezh	n-m	spa	búsqueda	n-f$n$n-f-sg
+	bre	enklaskerezh	n-m	spa	búsqueda	n$n-f$n-f-sg
 	bre	enklaskerezh	n-m	spa	pesquisa	n-f$n
 	bre	enklozadur	n-m	spa	inserción	n$n-f
 	bre	enkorfadur	n-m	spa	encarnación	n$n-f$n-f-ND
@@ -2587,7 +2587,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	falswelidigezh	n-f	spa	ilusión	n$n-f$n-f-ND
 	bre	faltazi	n-f$n	spa	fantasía	n$n-f$n-f-ND
 	bre	faltazienn	n-f	spa	imaginación	n$n-f$n-f-ND
-	bre	familh	n-f	spa	familia	n-f$n$n-f-sg
+	bre	familh	n-f	spa	familia	n$n-f$n-f-sg
 	bre	faot	n-m	spa	falta	n$n-f$n-f-ND
 	bre	faot	n-m	spa	fallo	n-m$n$n-m-sg
 	bre	faout	n-m	spa	grieta	n$n-f$n-f-ND
@@ -2771,9 +2771,9 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	froudad	n-m	spa	corriente	n-f$n-f-sg$n
 	bre	froudenn	n-f	spa	capricho	n-m$n$n-m-ND
 	bre	frouezh	n-f	spa	fruta	n$n-f$n-f-sg
-	bre	frouezh	n-f	spa	fruto	n$n-m$n-m-ND
+	bre	frouezh	n-f	spa	fruto	n$n-m$n-m-sg
 	bre	frouezh	n-m	spa	fruta	n$n-f$n-f-sg
-	bre	frouezh	n-m	spa	fruto	n$n-m$n-m-ND
+	bre	frouezh	n-m	spa	fruto	n$n-m$n-m-sg
 	bre	frouezheg	n-f	spa	huerta	n-f$n$n-f-ND
 	bre	frouezheg	n-f	spa	huerto	n$n-m$n-m-sg
 	bre	fulenn	n-f$n	spa	chispa	n$n-f$n-f-ND
@@ -2785,7 +2785,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	fun	n-f	spa	cable	n$n-m$n-m-ND
 	bre	furchadur	n-m	spa	busca	n-f$n$n-f-ND
 	bre	furchadur	n-m	spa	investigación	n-f$n$n-f-sg
-	bre	furchadur	n-m	spa	búsqueda	n-f$n$n-f-sg
+	bre	furchadur	n-m	spa	búsqueda	n$n-f$n-f-sg
 	bre	furchadur	n-m	spa	pesquisa	n-f$n
 	bre	furlukin	n-f$n	spa	payaso	n$n-f
 	bre	furlukin	n-m	spa	payaso	n-m$n-m-sg
@@ -2995,7 +2995,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	gouestl	n-m	spa	prenda	n-f$n$n-f-ND
 	bre	gouestl	n-m	spa	voto	n$n-m$n-m-ND
 	bre	gouestoni	n-f	spa	capacidad	n-f$n$n-f-ND
-	bre	gouezoniezh	n-f	spa	ciencia	n-f$n$n-f-sg
+	bre	gouezoniezh	n-f	spa	ciencia	n$n-f$n-f-sg
 	bre	gougor	n-m	spa	prestación	n$n-f$n-f-sg
 	bre	gouhez	n-f	spa	nuera	n$n-f
 	bre	gouiziegezh	n-f	spa	saber	n-m$n$n-m-ND
@@ -3010,11 +3010,11 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	goulenn	n-m$n	spa	interrogante	n$n-m
 	bre	goulennadeg	n-f	spa	petición	n$n-f$n-f-sg
 	bre	goulennadenn	n-f	spa	demanda	n$n-f$n-f-sg
-	bre	goulennadenn	n-f	spa	requerimiento	n-m$n$n-m-sg
+	bre	goulennadenn	n-f	spa	requerimiento	n$n-m$n-m-sg
 	bre	goulennadenn	n-f	spa	petición	n$n-f$n-f-sg
 	bre	goulennidigezh	n-f	spa	busca	n-f$n$n-f-ND
 	bre	goulennidigezh	n-f	spa	investigación	n-f$n$n-f-sg
-	bre	goulennidigezh	n-f	spa	búsqueda	n-f$n$n-f-sg
+	bre	goulennidigezh	n-f	spa	búsqueda	n$n-f$n-f-sg
 	bre	goulennidigezh	n-f	spa	pesquisa	n-f$n
 	bre	goulev	n-m	spa	programa	n-m$n$n-m-sg
 	bre	goulev	n-m	spa	temario	n-m$n
@@ -3155,7 +3155,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	gwalc’heris	n-m	spa	lavabo	n$n-m$n-m-ND
 	bre	gwalenn	n-f	spa	anillo	n$n-m$n-m-ND
 	bre	gwall	n-m	spa	daño	n-m$n$n-m-sg
-	bre	gwall	n-m	spa	mal	n$n-m$n-m-ND
+	bre	gwall	n-m	spa	mal	n-m$n$n-m-ND
 	bre	gwallamzer	n-m	spa	tormenta	n$n-f$n-f-sg
 	bre	gwallamzer	n-m	spa	tempestad	n$n-f
 	bre	gwallbleg	n-m	spa	defecto	n-m$n$n-m-sg
@@ -3459,7 +3459,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	hirder	n-m	spa	eslora	n$n-f
 	bre	hiris	n-m	spa	reja	n$n-f
 	bre	hiviz	n-f	spa	camisa	n-f$n$n-f-sg
-	bre	hoal	n-m	spa	edad	n-f$n$n-f-sg
+	bre	hoal	n-m	spa	edad	n$n-f$n-f-sg
 	bre	hoalad	n-m	spa	era	n-f$n$n-f-sg
 	bre	hoaladur	n-m	spa	atractivo	n-m$n$n-m-ND
 	bre	hoaladur	n-m	spa	aliciente	n$n-m
@@ -3539,13 +3539,13 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	imaj	n-m	spa	imagen	n$n-f$n-f-sg
 	bre	imbourc’h	n-m	spa	busca	n-f$n$n-f-ND
 	bre	imbourc’h	n-m	spa	investigación	n-f$n$n-f-sg
-	bre	imbourc’h	n-m	spa	búsqueda	n-f$n$n-f-sg
+	bre	imbourc’h	n-m	spa	búsqueda	n$n-f$n-f-sg
 	bre	imbourc’h	n-m	spa	pesquisa	n-f$n
 	bre	imbourc’her	n-m	spa	investigador	n$n-m-sg$n-m
 	bre	imbourc’her	n-f	spa	investigador	n-f$n-f-pl
 	bre	imbroudadur	n-m	spa	busca	n-f$n$n-f-ND
 	bre	imbroudadur	n-m	spa	investigación	n-f$n$n-f-sg
-	bre	imbroudadur	n-m	spa	búsqueda	n-f$n$n-f-sg
+	bre	imbroudadur	n-m	spa	búsqueda	n$n-f$n-f-sg
 	bre	imbroudadur	n-m	spa	pesquisa	n-f$n
 	bre	imbrouder	n-m	spa	inventor	n$n-m$n-m-sg
 	bre	imbrouder	n-f	spa	inventor	n-f$n-f-pl
@@ -3849,8 +3849,8 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	kaser	n-m	spa	remitente	n-mf$n
 	bre	kasia	n-m	spa	acacia	n-f$n$n-f-ND
 	bre	kasidigezh	n-f	spa	envío	n$n-m$n-m-sg
-	bre	kasked	n-m	spa	casco	n-m$n$n-m-sg
-	bre	kaskenn	n-f	spa	casco	n-m$n$n-m-sg
+	bre	kasked	n-m	spa	casco	n$n-m$n-m-sg
+	bre	kaskenn	n-f	spa	casco	n$n-m$n-m-sg
 	bre	kasoni	n-f	spa	odio	n-m$n$n-m-ND
 	bre	kasour	n-m	spa	animador	n$n-m$n-m-pl
 	bre	kasour	n-f	spa	animador	n-f$n-f-pl
@@ -4124,7 +4124,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	keodedour	n-f	spa	ciudadano	n-f
 	bre	kere	n-m$n	spa	zapatero	n$n-m
 	bre	kere	n-f	spa	zapatero	n-f
-	bre	kerentiad	n-m	spa	familia	n-f$n$n-f-sg
+	bre	kerentiad	n-m	spa	familia	n$n-f$n-f-sg
 	bre	kereour	n-m	spa	zapatero	n$n-m
 	bre	kereour	n-f	spa	zapatero	n-f
 	bre	kerl	n-m	spa	círculo	n-m$n$n-m-sg
@@ -4232,7 +4232,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	klasad	n-m	spa	clase	n$n-f$n-f-sg
 	bre	klask	n-m	spa	busca	n-f$n$n-f-ND
 	bre	klask	n-m	spa	investigación	n-f$n$n-f-sg
-	bre	klask	n-m	spa	búsqueda	n-f$n$n-f-sg
+	bre	klask	n-m	spa	búsqueda	n$n-f$n-f-sg
 	bre	klask	n-m	spa	pesquisa	n-f$n
 	bre	klasker	n-m	spa	investigador	n$n-m-sg$n-m
 	bre	klasker	n-f	spa	investigador	n-f$n-f-pl
@@ -4423,7 +4423,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	koubladur	n-m$n	spa	acoplamiento	n$n-m
 	bre	kouch	n-f	spa	equipo	n-m$n-m-sg$n
 	bre	kouchad	n-m	spa	corteza	n$n-f$n-f-ND
-	bre	kouc’h	n-m	spa	casco	n-m$n$n-m-sg
+	bre	kouc’h	n-m	spa	casco	n$n-m$n-m-sg
 	bre	kouer	n-f	spa	campesino	n-f$n-f-pl
 	bre	kouer	n-m	spa	campesino	n$n-m$n-m-ND
 	bre	kouezhadenn	n-f	spa	caída	n$n-f$n-f-sg
@@ -4773,7 +4773,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	lifre	n-m$n	spa	uniforme	n$n-m$n-m-ND
 	bre	lignez	n-f	spa	apellido	n$n-m$n-m-ND
 	bre	liketenn	n-f	spa	etiqueta	n$n-f$n-f-sg
-	bre	likor	n-m	spa	licor	n-m$n$n-m-sg
+	bre	likor	n-m	spa	licor	n$n-m$n-m-sg
 	bre	linenn	n-f$n	spa	línea	n-f$n$n-f-sg
 	bre	linennad	n-f	spa	línea	n-f$n$n-f-sg
 	bre	linennekadur	n-m	spa	estilización	n$n-f
@@ -5121,7 +5121,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	meneg	n-m$n	spa	mención	n$n-f$n-f-ND
 	bre	meneger	n-m-sg$n-m	spa	índice	n$n-m$n-m-ND
 	bre	meneger	n-m-pl	spa	índice	n$n-m$n-m-ND
-	bre	menez	n-m	spa	monte	n-m$n
+	bre	menez	n-m	spa	monte	n$n-m
 	bre	menez	n-m	spa	montaña	n-f$n$n-f-sg
 	bre	menez	n-m	spa	volcán	n$n-m$n-m-sg
 	bre	mengleuz	n-f	spa	carrera	n$n-f$n-f-sg
@@ -5171,7 +5171,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	merer	n-f	spa	gestor	n$n-GD$n-GD-pl
 	bre	merer	n-GD	spa	gestor	n-m$n-m-ND
 	bre	merer	n-GD	spa	gestor	n-f$n-f-pl
-	bre	mererezh	n-m	spa	gestión	n-f$n$n-f-sg
+	bre	mererezh	n-m	spa	gestión	n$n-f$n-f-sg
 	bre	mereuri	n-f	spa	granja	n$n-f$n-f-sg
 	bre	mereuri	n-f	spa	hacienda	n$n-f$n-f-ND
 	bre	merglerezh	n-m	spa	oxidación	n$n-f
@@ -5561,7 +5561,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	nozvezh	n-f$n	spa	noche	n$n-f$n-f-sg
 	bre	nozvezhiad	n-f	spa	noche	n$n-f$n-f-sg
 	bre	oabl	n-m$n	spa	cielo	n-m$n$n-m-sg
-	bre	oad	n-m$n	spa	edad	n-f$n$n-f-sg
+	bre	oad	n-m$n	spa	edad	n$n-f$n-f-sg
 	bre	oadour	n-m	spa	adulto	n-GD
 	bre	oadour	n-f	spa	adulto	n-GD
 	bre	oadour	n-GD	spa	adulto	n$n-m-sg$n-m
@@ -5812,7 +5812,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	peroked	n-m$n	spa	papagayo	n-m$n
 	bre	persduadur	n-m	spa	contusión	n$n-f
 	bre	person	n-m$n	spa	cura	n-m$n$n-m-ND
-	bre	person	n-m$n	spa	persona	n-f$n$n-f-sg
+	bre	person	n-m$n	spa	persona	n$n-f$n-f-sg
 	bre	personeladur	n-m	spa	personalización	n$n-f
 	bre	personelezh	n-f	spa	personalidad	n$n-f$n-f-sg
 	bre	perukenn	n-f$n	spa	peluca	n$n-f
@@ -5912,9 +5912,9 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	plac’h	n-f	spa	hija	n-f$n$n-f-sg
 	bre	pladenn	n-f	spa	disco	n-m$n$n-m-ND
 	bre	pladur	n-m	spa	bajura	n-f$n
-	bre	plaenadur	n-m	spa	allanamiento	n$n-m
+	bre	plaenadur	n-m	spa	allanamiento	n-m$n
 	bre	plaenenn	n-f	spa	plan	n$n-m$n-m-sg
-	bre	plaenenn	n-f	spa	plano	n-m$n$n-m-sg
+	bre	plaenenn	n-f	spa	plano	n$n-m$n-m-sg
 	bre	plakenn	n-f	spa	placa	n$n-f$n-f-ND
 	bre	plakenn	n-f	spa	matrícula	n$n-f
 	bre	planedenn	n-f	spa	planeta	n-m$n$n-m-ND
@@ -6687,7 +6687,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	skeuliad	n-f	spa	escalera	n-f$n$n-f-sg
 	bre	skeuliadur	n-m	spa	escalada	n$n-f$n-f-sg
 	bre	ski	n-m	spa	esquí	n$n-m$n-m-sg
-	bre	skiant	n-f$n-f-sg	spa	ciencia	n-f$n$n-f-sg
+	bre	skiant	n-f$n-f-sg	spa	ciencia	n$n-f$n-f-sg
 	bre	skiant	n-f$n-f-sg	spa	veteranía	n$n-f$n-f-ND
 	bre	skiant	n-f$n-f-sg	spa	experiencia	n-f$n$n-f-sg
 	bre	skiant	n-f$n-f-sg	spa	vivencia	n$n-f
@@ -6930,7 +6930,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	steuziadur	n-m	spa	desaparición	n$n-f$n-f-ND
 	bre	steuzidigezh	n-f	spa	desaparición	n$n-f$n-f-ND
 	bre	steuñv	n-m	spa	plan	n$n-m$n-m-sg
-	bre	steuñv	n-m	spa	plano	n-m$n$n-m-sg
+	bre	steuñv	n-m	spa	plano	n$n-m$n-m-sg
 	bre	steuñvenn	n-f	spa	cadena	n$n-f$n-f-ND
 	bre	steuñvenn	n-f	spa	canal	n-m$n$n-m-sg
 	bre	steuñvenn	n-f	spa	trama	n-f$n$n-f-ND
@@ -7047,7 +7047,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	tachad	n-m	spa	terreno	n-m$n$n-m-sg
 	bre	tachenn	n-f	spa	terreno	n-m$n$n-m-sg
 	bre	tachennad	n-f	spa	terreno	n-m$n$n-m-sg
-	bre	tachennad	n-f	spa	zona	n-f$n$n-f-sg
+	bre	tachennad	n-f	spa	zona	n$n-f$n-f-sg
 	bre	tachennad	n-f	spa	área	n-f$n$n-f-sg
 	bre	tad	n-m$n	spa	padre	n$n-m$n-m-sg
 	bre	tad	n-m$n	spa	abuelo	n-m$n$n-m-sg
@@ -7063,7 +7063,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	tailhenn	n-f	spa	rebanada	n-f$n
 	bre	tailhenn	n-f	spa	tajada	n-f$n
 	bre	tailhenn	n-f	spa	lámina	n$n-f$n-f-ND
-	bre	takad	n-m	spa	zona	n-f$n$n-f-sg
+	bre	takad	n-m	spa	zona	n$n-f$n-f-sg
 	bre	takad	n-m	spa	área	n-f$n$n-f-sg
 	bre	takad	n-m	spa	grupo	n-m$n$n-m-sg
 	bre	takad	n-m	spa	plantel	n-m$n
@@ -7076,7 +7076,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	talmerezh	n-m	spa	frecuencia	n$n-f$n-f-sg
 	bre	talvoud	n-m$n	spa	valor	n-m$n$n-m-sg
 	bre	talvoudegezh	n-f$n	spa	valor	n-m$n$n-m-sg
-	bre	talvoudenn	n-f	spa	título	n-m$n$n-m-sg
+	bre	talvoudenn	n-f	spa	título	n$n-m$n-m-sg
 	bre	tamm	n-m	spa	pedazo	n-m$n$n-m-ND
 	bre	tamm	n-m	spa	trozo	n-m$n$n-m-ND
 	bre	tan	n-m$n	spa	fuego	n$n-m$n-m-sg
@@ -7218,7 +7218,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	ti	n-m$n	spa	oficina	n-f$n$n-f-sg
 	bre	ti	n-m$n	spa	estafeta	n-f$n
 	bre	tiadur	n-m	spa	construcción	n-f$n$n-f-sg
-	bre	tiegezh	n-m$n	spa	familia	n-f$n$n-f-sg
+	bre	tiegezh	n-m$n	spa	familia	n$n-f$n-f-sg
 	bre	tiern	n-m	spa	príncipe	n$n-m$n-m-ND
 	bre	tigr	n-m	spa	tigre	n$n-m$n-m-sg
 	bre	tik	n-m	spa	punto	n-m$n$n-m-ND
@@ -7236,7 +7236,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	tisavour	n-f	spa	arquitecto	n-GD$n-GD-pl
 	bre	tisavour	n-GD	spa	arquitecto	n$n-m$n-m-sg
 	bre	tisavour	n-GD	spa	arquitecto	n-f$n-f-sg
-	bre	titl	n-m	spa	título	n-m$n$n-m-sg
+	bre	titl	n-m	spa	título	n$n-m$n-m-sg
 	bre	tizh	n-m	spa	velocidad	n-f$n$n-f-sg
 	bre	toailhon	n-m-sg	spa	toalla	n-f-ND
 	bre	toailhon	n-m-pl	spa	toalla	n-f-ND
@@ -7247,7 +7247,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	toenn	n-f	spa	tejado	n-m$n$n-m-ND
 	bre	tog	n-m	spa	sombrero	n$n-m$n-m-ND
 	bre	toga	n-f	spa	toga	n$n-f
-	bre	tokarn	n-m$n	spa	casco	n-m$n$n-m-sg
+	bre	tokarn	n-m$n	spa	casco	n$n-m$n-m-sg
 	bre	tolead	n-m	spa	región	n-f$n$n-f-sg
 	bre	tolead	n-m	spa	comarca	n$n-f$n-f-ND
 	bre	tolead	n-m	spa	tierra	n-f$n$n-f-sg
@@ -7603,7 +7603,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	Andoù	np-top-pl	spa	Andes	np$np-loc$np-loc-m
 	bre	Angola	np-top-sg	spa	Angola	np-top$np-top-f
 	bre	Anguilla	np-top-sg	spa	Anguila	np$np-top
-	bre	Antigua ha Barbuda	np-top-sg	spa	Antigua y Barbuda	np-top
+	bre	Antigua ha Barbuda	np-top-sg	spa	Antigua y Barbuda	np$np-top
 	bre	Antilhez	np-top-pl	spa	Antillas	np$np-loc$np-loc-f
 	bre	Antilhez Nederlandat	np-top-sg	spa	Antillas Neerlandesas	np$np-top
 	bre	Antr	np-top-sg	spa	Indre	np$np-top
@@ -7632,7 +7632,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	Breizh-Vihan	np-top-sg	spa	Bretaña	np$np-top
 	bre	Brest	np-top-sg	spa	Brest	np$np-top
 	bre	Bulgaria	np-top-sg	spa	Bulgaria	np-top$np-top-f
-	bre	Burkina Faso	np-top-sg	spa	Burkina Faso	np-top-f$np-top
+	bre	Burkina Faso	np-top-sg	spa	Burkina Faso	np$np-top-f$np-top
 	bre	Burundi	np-top-sg	spa	Burundi	np-top-m$np-top
 	bre	Caerdydd	np-top-sg$np-top	spa	Cardiff	np$np-top
 	bre	Chile	np-top-sg	spa	Chile	np$np-top-m$np-top
@@ -7643,7 +7643,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	Ecuador	np-top-sg	spa	Ecuador	np$np-top-m$np-top
 	bre	Egipt	np-top-sg	spa	Egipto	np-top$np-top-m
 	bre	El Salvador	np-top-sg	spa	Salvador	np-top
-	bre	El Salvador	np-top-sg	spa	El Salvador	np$np-loc$np-loc-m
+	bre	El Salvador	np-top-sg	spa	El Salvador	np-loc$np$np-loc-m
 	bre	Enez Vanav	np-top-sg	spa	Isla de Man	np$np-top
 	bre	Eritrea	np-top-sg	spa	Eritrea	np-top$np-top-f
 	bre	Estonia	np-top-sg	spa	Estonia	np-top$np-top-f
@@ -7659,7 +7659,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	Galiza	np-top-sg	spa	Galicia	np-top
 	bre	Gambia	np-top-sg	spa	Gambia	np-top-f$np-top
 	bre	Ghana	np-top-sg	spa	Ghana	np-top$np-top-f
-	bre	Ginea	np-top-sg	spa	Guinea	np$np-top-f$np-top
+	bre	Ginea	np-top-sg	spa	Guinea	np-top-f$np-top
 	bre	Glasc’ho	np-top-sg	spa	Glasgow	np$np-top
 	bre	Greunland	np-top-sg	spa	Groenlandia	np-top$np-top-f
 	bre	Guatemala	np-top-sg	spa	Guatemala	np$np-top-f$np-top
@@ -7915,7 +7915,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	Marc	np-ant-m-sg	spa	Marc	np$np-ant
 	bre	Marcel	np-ant-m-sg	spa	Marcel	np$np-ant$np-ant-m
 	bre	Mari	np-ant-f-sg	spa	Mari	np$np-ant$np-ant-f
-	bre	Maria	np-ant-f-sg	spa	Maria	np-ant$np
+	bre	Maria	np-ant-f-sg	spa	Maria	np$np-ant
 	bre	Marie	np-ant-f-sg	spa	Marie	np-ant$np
 	bre	Mark	np-ant-m-sg	spa	Mark	np$np-ant
 	bre	Martin	np-ant-m-sg	spa	Martin	np$np-ant$np-ant-m
@@ -7933,7 +7933,7 @@ RL	bre	un	det-ind-sp	spa	uno	det-ind-m-pl
 	bre	Robert	np-ant-m-sg	spa	Robert	np$np-ant$np-ant-m
 	bre	Robin	np-ant-m-sg	spa	Robin	np-ant$np
 	bre	Roger	np-ant-m-sg	spa	Roger	np$np-ant
-	bre	Sebastian	np-ant-m-sg	spa	Sebastian	np$np-ant
+	bre	Sebastian	np-ant-m-sg	spa	Sebastian	np-ant$np
 	bre	Simon	np-ant-m-sg	spa	Simon	np$np-ant$np-ant-m
 	bre	Sonia	np-ant-f-sg	spa	Sonia	np$np-ant
 	bre	Stéphane	np-ant-m-sg	spa	Stéphane	np-ant$np
@@ -8971,7 +8971,7 @@ RL	bre	henvoazel	adj-mf-sp	spa	tradicional	adj-mf$adj$adj-mf-pl
 	bre	heson	adj-mf-sp	spa	armónico	adj$adj-f
 	bre	heson	adj-mf-sp	spa	armónico	adj-m-sg
 	bre	heson	adj-mf-sp	spa	armónico	adj-m-pl
-RL	bre	hevelep	adj-mf-sp$adj-ind-mf-sp	spa	tal	adj-mf$adj$adj-mf-pl
+RL	bre	hevelep	adj-mf-sp$adj-ind-mf-sp	spa	tal	adj-mf-pl
 LR	bre	heverk	adj-sint	spa	destacable	adj$adj-mf$adj-mf-ND
 	bre	heverk	adj-sint	spa	aventajado	adj-GD$adj
 LR	bre	heverk	adj-mf-sp	spa	destacable	adj$adj-mf$adj-mf-ND

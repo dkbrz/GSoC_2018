@@ -8,7 +8,7 @@
 	mkd	без оглед на	pr	eng	regardless of	pr
 	mkd	во текот на	pr	eng	during	pr
 	mkd	помеѓу	pr	eng	between	pr
-	mkd	на	pr	eng	of	pr
+	mkd	на	pr	eng	of	pr$
 	mkd	на	pr	eng	on	pr
 	mkd	на	pr	eng	at	pr
 	mkd	во	pr	eng	in	pr
@@ -20,7 +20,7 @@
 	mkd	до	pr	eng	by	pr
 	mkd	до	pr	eng	until	pr
 	mkd	за	pr	eng	for	pr
-	mkd	за	pr	eng	of	pr
+	mkd	за	pr	eng	of	pr$
 	mkd	вон	pr	eng	outside of	pr
 	mkd	вон	pr	eng	over	pr$
 	mkd	низ	pr	eng	through	pr
@@ -29,7 +29,7 @@
 	mkd	кај	pr	eng	around	pr
 	mkd	од	pr	eng	from	pr
 	mkd	од	pr	eng	out of	pr
-	mkd	од	pr	eng	of	pr
+	mkd	од	pr	eng	of	pr$
 	mkd	од	pr	eng	by	pr
 	mkd	од	pr	eng	than	pr
 	mkd	со	pr	eng	with	pr$
@@ -206,12 +206,12 @@
 	mkd	секој	prn-tot$prn-tot-m-sg	eng	everything	prn-ind-mf-sg
 	mkd	секој	prn-tot$prn-tot-m-sg	eng	anything	prn-ind-mf$prn-ind$prn-ind-mf-sg
 	mkd	неколку	prn-ind-ind	eng	several	prn-ind-mf-pl$prn
-	mkd	неколку	prn-ind	eng	a few	det-qnt-pl$det$det-qnt
+	mkd	неколку	prn-ind	eng	a few	det$det-qnt$det-qnt-pl
 	mkd	неколку	prn-def$prn-def-prx	eng	several	det-def-pl
 	mkd	неколку	prn-def$prn-def-prx	eng	several	det-def-pl
 	mkd	неколку	prn-def-dst	eng	several	det-def-pl
 	mkd	неколцина	prn-ind-ind	eng	several	prn-ind-mf-pl$prn
-	mkd	неколцина	prn-ind	eng	a few	det-qnt-pl$det$det-qnt
+	mkd	неколцина	prn-ind	eng	a few	det$det-qnt$det-qnt-pl
 	mkd	некаков	prn$prn-ind	eng	some	prn-ind-mf-pl$prn-ind
 	mkd	што	prn-itg	eng	what	prn-itg-mf-sp$prn-itg-mf
 	mkd	поради што	prn-itg	eng	which	prn-itg-mf-sp
@@ -365,7 +365,7 @@
 	mkd	закон	n-m$n	eng	law	n$n-sg
 	mkd	устав	n-m	eng	constitution	n$n-ND
 	mkd	корен	n-m$n	eng	root	n$n-sg
-	mkd	дрога	n-f$n	eng	drug	n$n-ND
+	mkd	дрога	n-f$n	eng	drug	n$n-sg
 	mkd	трговија	n-f	eng	trade	n$n-sg
 	mkd	е-трговија	n-f	eng	e-trade	n
 	mkd	фотографија	n-f$n	eng	photograph	n$n-ND
@@ -1005,7 +1005,7 @@
 	mkd	граница	n-f$n	eng	boundary	n$n-ND
 	mkd	граница	n-f$n	eng	ceiling	n$n-ND
 	mkd	граница	n-f$n	eng	frontier	n$n-ND
-	mkd	грип	n-m	eng	flu	n$n-ND
+	mkd	грип	n-m	eng	flu	n$n-sg
 	mkd	грк	n-m$n	eng	Greek	n$n-ND
 	mkd	гробница	n-f$n	eng	grave	n$n-sg
 	mkd	група	n-f$n	eng	group	n$n-sg
@@ -1608,7 +1608,7 @@
 	mkd	легализација	n-f	eng	legalisation	n
 	mkd	легислатива	n-f	eng	legislation	n$n-ND
 	mkd	легитимност	n-f$n	eng	legitimacy	n$n-ND
-	mkd	лек	n-m$n	eng	drug	n$n-ND
+	mkd	лек	n-m$n	eng	drug	n$n-sg
 	mkd	лек	n-m$n	eng	medicine	n$n-ND
 	mkd	лек	n-m$n	eng	remedy	n$n-ND
 	mkd	лекар	n-m	eng	doctor	n$n-ND
@@ -2082,7 +2082,7 @@
 	mkd	шанса	n-f	eng	opportunity	n$n-ND
 	mkd	бегство	n-nt	eng	fugitive	n$n-ND
 	mkd	бегство	n-nt	eng	escapee	n
-	mkd	бегство	n-nt	eng	run	n$n-ND
+	mkd	бегство	n-nt	eng	run	n$n-sg
 	mkd	бегство	n-nt	eng	escape	n$n-ND
 	mkd	бунтовник	n-m$n	eng	rebel	n$n-ND
 	mkd	веројатност	n-f	eng	possibility	n$n-ND
@@ -2664,7 +2664,7 @@
 	mkd	татко	n-m	eng	father	n$n-sg
 	mkd	тврдење	n-nt$n	eng	claim	n$n-ND
 	mkd	театар	n-m	eng	theatre	n$n-ND
-	mkd	тек	n-m$n	eng	run	n$n-ND
+	mkd	тек	n-m$n	eng	run	n$n-sg
 	mkd	текст	n-m$n	eng	text	n$n-ND
 	mkd	телевизија	n-f$n	eng	television	n$n-ND
 	mkd	телеком	n-m	eng	telecom	n
@@ -2837,7 +2837,7 @@
 	mkd	рамнотежа	n-f$n	eng	balance	n$n-ND
 	mkd	опера	n-f	eng	opera	n$n-ND
 	mkd	поезија	n$n-f	eng	poetry	n$n-sg
-	mkd	секунда	n-f$n	eng	second	n$n-ND
+	mkd	секунда	n-f$n	eng	second	n$n-sg
 	mkd	осуда	n$n-f	eng	judgement	n$n-ND
 	mkd	пропаганда	n-f$n	eng	propaganda	n$n-ND
 	mkd	работилница	n$n-f	eng	workshop	n$n-sg
@@ -3066,7 +3066,7 @@
 	mkd	ѕид	n-m$n	eng	wall	n$n-ND
 	mkd	снимање	n-nt	eng	shooting	n$n-ND
 	mkd	сок	n-m$n	eng	juice	n$n-ND
-	mkd	сол	n-f$n	eng	salt	n$n-ND
+	mkd	сол	n-f$n	eng	salt	n$n-sg
 	mkd	соседство	n-nt$n	eng	neighbourhood	n$n-sg
 	mkd	спасување	n-nt$n	eng	rescue	n$n-ND
 	mkd	спонзорство	n-nt	eng	sponsorship	n
@@ -3368,9 +3368,9 @@
 	mkd	отцепување	n-nt$n	eng	secession	n
 	mkd	отцепување	n-nt$n	eng	separation	n$n-ND
 	mkd	охрабрување	n-nt$n	eng	encouragement	n$n-ND
-	mkd	патување	n-nt	eng	travel	n$n-ND
+	mkd	патување	n-nt	eng	travel	n$n-sg
 	mkd	патување	n-nt	eng	journey	n$n-ND
-	mkd	патување	n-nt	eng	travel time	n$n-sg
+	mkd	патување	n-nt	eng	travel time	n
 	mkd	патување	n-nt	eng	trip	n$n-ND
 	mkd	пензионирање	n-nt	eng	retirement	n$n-ND
 	mkd	пиење	n-nt$n	eng	drinking	n$n-unc
@@ -4334,7 +4334,7 @@
 	mkd	Београд	np-top-m$np	eng	Belgrade	np-top-m$np-top$np
 	mkd	Берлин	np-top-m	eng	Berlin	np-top-m
 	mkd	Благоевград	np-top-m	eng	Blagoevgrad	np-top-m
-	mkd	Босна	np-top-f$np	eng	Bosnia	np-top$np$np-top-f
+	mkd	Босна	np-top-f$np	eng	Bosnia	np-top-f
 	mkd	Ботевград	np-top-m	eng	Botevgrad	np-top-m
 	mkd	Бразил	np-top-m	eng	Brazil	np-top-m
 	mkd	Брисел	np-top-m	eng	Brussels	np-top-m
@@ -4343,7 +4343,7 @@
 	mkd	Букурешт	np-top-m	eng	Bucharest	np-top-m
 	mkd	Бургас	np-top-m	eng	Burgas	np-top-m
 	mkd	Варна	np-top-f	eng	Varna	np-top-f
-	mkd	Ватикан	np-top-m	eng	Vatican City	np-top$np-top-m$np$np-top-m-sg
+	mkd	Ватикан	np-top-m	eng	Vatican City	np-top$np-top-m$np
 	mkd	Вашингтон	np-top-m	eng	Washington	np-top$np-top-m$np
 	mkd	Велика Британија	np-top-f	eng	United Kingdom	np-top$np-top-f$np
 	mkd	Велико Трново	np-top-nt	eng	Veliko Tarnovo	np-top-nt
@@ -4468,7 +4468,7 @@
 	mkd	Херцеговина	np-top-f$np	eng	Herzegovina	np-top-f$np
 	mkd	Холандија	np-top-f$np	eng	Netherlands	np-top-f
 	mkd	Хрватска	np-top-f$np	eng	Croatia	np-top$np$np-top-f
-	mkd	Чешка	np-top-f	eng	Czech Republic	np-top-f
+	mkd	Чешка	np-top-f	eng	Czech Republic	np-top$np$np-top-f
 	mkd	Швајцарија	np$np-top-f	eng	Switzerland	np-top-f
 	mkd	Шпанија	np$np-top-f	eng	Spain	np-top-f
 	mkd	Шумен	np-top-m	eng	Shumen	np-top-m
@@ -4492,7 +4492,7 @@
 	mkd	Марија	np-ant-f$np	eng	Marija	np-ant-f$np
 	mkd	Јелена	np-ant-f	eng	Jelena	np-ant-f$np-ant-f-sg
 	mkd	Лабина	np-ant-f$np	eng	Labina	np-ant-f
-	mkd	Џоана	np-ant-f	eng	Joana	np-ant$np-ant-f$np$np-ant-f-sg
+	mkd	Џоана	np-ant-f	eng	Joana	np-ant$np-ant-f$np-ant-f-sg$np
 	mkd	Ана	np-ant-f$np-ant	eng	Ana	np-ant$np-ant-f$np$np-ant-f-sg
 	mkd	Бет	np-ant-f	eng	Bet	np-ant-f
 	mkd	Педи	np-ant-f	eng	Paddy	np-ant$np-ant-m$np$np-ant-m-sg
@@ -4514,7 +4514,7 @@
 	mkd	Слободан	np-ant-m$np	eng	Slobodan	np-ant$np-ant-m$np-ant-m-sg$np
 	mkd	Георге	np-ant-m	eng	George	np-ant$np$np-ant-m$np-ant-m-sg$
 	mkd	Јап	np-ant-m	eng	Jap	np-ant-m$np
-	mkd	Јан	np-ant-m	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg
+	mkd	Јан	np-ant-m	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m
 	mkd	Јашар	np-ant-m	eng	Jashar	np-ant-m
 	mkd	Јоаким	np-ant-m	eng	Joakim	np-ant-m$np$np-ant-m-sg
 	mkd	Јован	np-ant-m	eng	Jovan	np-ant$np-ant-m$np-ant-m-sg$np
@@ -4561,7 +4561,7 @@
 	mkd	Едуард	np-ant-m	eng	Eduard	np$np-ant$np-ant-m$np-ant-m-sg
 	mkd	Емил	np-ant-m	eng	Emil	np-ant$np-ant-m$np-ant-m-sg$np
 	mkd	Жак	np-ant-m	eng	Jacques	np-ant$np-ant-m$np$np-ant-m-sg
-	mkd	Жан	np-ant-m	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg
+	mkd	Жан	np-ant-m	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m
 	mkd	Жељко	np-ant-m	eng	Željko	np-ant-m
 	mkd	Жозе	np-ant-m	eng	Jose	np-ant$np-ant-m$np-ant-m-sg$np
 	mkd	Зоран	np-ant-m	eng	Zoran	np-ant-m$np
@@ -6886,7 +6886,7 @@
 	mkd	далечен	adj	eng	distant	adj
 	mkd	далечен	adj	eng	remote	adj
 	mkd	далматински	adj	eng	Dalmatian	adj
-	mkd	даночен	adj	eng	tax	adj
+	mkd	даночен	adj	eng	tax	adj$adj-sint
 	mkd	дански	adj	eng	Danish	adj
 	mkd	дводневен	adj	eng	two-day	adj
 	mkd	дводневен	adj	eng	bicameral	adj
@@ -7719,7 +7719,7 @@
 	mkd	синдикатски	adj	eng	trade-union	adj
 	mkd	сиријски	adj	eng	Syrian	adj
 	mkd	систематски	adj	eng	systematic	adj
-	mkd	сите	adj	eng	all	adj$
+	mkd	сите	adj	eng	all	adj
 	mkd	ситен	adj	eng	small	adj-sint$adj
 	mkd	ситен	adj	eng	minute	adj
 	mkd	ситен	adj	eng	lesser	adj
@@ -11167,7 +11167,7 @@
 	mkd	ул	abbr	eng		$num$num-ord$num-ord-m-sg
 	mkd	год	abbr	eng		$num$num-ord$num-ord-m-sg
 	mkd	св	abbr	eng	St	abbr
-	mkd	др	abbr	eng	Dr	abbr$
+	mkd	др	abbr	eng	Dr	$abbr
 	mkd	сем	abbr	eng		$num$num-ord$num-ord-m-sg
 	mkd	МКТЈ	abbr	eng	MKTJ	abbr
 	mkd	ЕУЛЕКС	abbr	eng	EULEX	abbr
@@ -13614,7 +13614,7 @@
 	mkd		num$num-ord	eng		$num$num-ord$num-ord-m-sg
 	mkd	 г.	num	eng		$num$num-ord$num-ord-m-sg
 	mkd	 година	num	eng		$num$num-ord$num-ord-m-sg
-	mkd	 г. п.н.е	num	eng	 BCE	num$num-sg
+	mkd	 г. п.н.е	num	eng	 BCE	num
 	mkd	-ти	num	eng	s	num
 	mkd	-ти години	num	eng	s	num
 	mkd		num$num-ord	eng		$num$num-ord$num-ord-m-sg
@@ -13624,7 +13624,7 @@
 	mkd	-	guio	eng	-	guio
 	mkd	Карадаку	np-cog-mfn	eng	Karadaku	np-cog-mfn$np
 	mkd	Бан	np-cog-mfn	eng	Ban	$np$np-cog-mfn
-	mkd	де	np-cog-mfn	eng	de	np$np-cog-mfn
+	mkd	де	np-cog-mfn	eng	de	$np$np-cog-mfn
 	mkd	ван	np-cog-mfn	eng	van	np$np-cog-mfn
 	mkd	Летерм	np-cog-mfn	eng	Leterme	np-cog-mfn
 	mkd	Бок	np-cog-mfn	eng	Boc	np-cog-mfn
@@ -14204,7 +14204,7 @@
 	mkd	Пековиќ	np-cog-mfn	eng	Pekovic	np-cog-mfn
 	mkd	Пелегрин	np-cog-mfn	eng	Pellegrini	np-cog-mfn
 	mkd	Пеовиќ	np-cog-mfn	eng	Peovic	np-cog-mfn
-	mkd	Пер	np-ant-m	eng	Pere	np$np-ant$np-ant-m$np-ant-m-sg
+	mkd	Пер	np-ant-m	eng	Pere	np$np-ant$np-ant-m-sg$np-ant-m
 	mkd	Персеиди	np-ant-m	eng	Perseids	np-ant-m
 	mkd	Перуничиќ	np-cog-mfn	eng	Perunicic	np-cog-mfn
 	mkd	Петрановиќ	np-cog-mfn	eng	Petranovic	np-cog-mfn
@@ -14894,7 +14894,7 @@
 	mkd	Шерлох	np-al-mfn-sg	eng	Sherlock	np-al-sg
 	mkd	Шолц	np-cog-mfn	eng	Scholz	np-cog-mfn
 	mkd	Шомбателу	np-top-m	eng	Szombathely	np-top-m
-	mkd	Шри Ланка	np-top-f	eng	Sri Lanka	np-top-f
+	mkd	Шри Ланка	np-top-f	eng	Sri Lanka	np-top$np$np-top-f
 	mkd	Штутгард	np-top-m	eng	Stuttgart	np-top-m
 	mkd	Партеш	np-cog-mfn	eng	Partesh	np-cog-mfn
 	mkd	Булгаргас	np-org-m-sg	eng	Bulgargaz	np-org-sg
@@ -15823,30 +15823,30 @@
 	mkd	Босфор	np-al-mfn-sg	eng	Bosphorus	np-al-sg
 	mkd	Рајнфилд	np-cog-mfn	eng	Reinfeldt	np-cog-mfn
 	mkd	Кавказ	np-al-mfn-sg	eng	Balkans	np-al-sg
-	mkd	Тел Авив	np-top-m	eng	Tel Aviv	np-top-m
+	mkd	Тел Авив	np-top-m	eng	Tel Aviv	np-top$np-top-m
 	mkd	Ле Пен	np-top-m	eng	Le Pen	np-top-m
 	mkd	Оујорк	np-top-m	eng	New York	np$np-top$np-top-m
 	mkd	Њујорк	np-top-m	eng	New York	np$np-top$np-top-m
 	mkd	Њу Јорк	np-top-m	eng	New York	np$np-top$np-top-m
 	mkd	Камп Бутмир	np-cog-mfn	eng	Camp Butmir	np-cog-mfn
 	mkd	Хонг Конг	np-top-m	eng	Hong Kong	np-top-m
-	mkd	Лос Анџелес	np-top-m	eng	Los Angeles	np-top-m
+	mkd	Лос Анџелес	np-top-m	eng	Los Angeles	np-top$np-top-m
 	mkd	Влад Импалер	np-cog-mfn	eng	Vlad the Impaler	np-cog-mfn
 	mkd	Саудиска Арабија	np-top-f	eng	Saudi Arabia	np-top-f
 	mkd	Њу Орлеанс	np-top-m	eng	New Orleans	np-top-m
 	mkd	Вон Хабсбург	np-cog-mfn	eng	Von Habsburg	np-cog-mfn
 	mkd	Брам Стокер	np-cog-mfn	eng	Bram Stoker	np-cog-mfn
-	mkd	Лос АнYелес	np-top-m	eng	Los Angeles	np-top-m
+	mkd	Лос АнYелес	np-top-m	eng	Los Angeles	np-top$np-top-m
 	mkd	Арафат	np-top-m	eng	Dr Raed Arafat	np-top-m
 	mkd	Раед Арафат	np-org-m-sg	eng	Raed Arafat	np-org-sg
 	mkd	Ван Орден	np-cog-mfn	eng	Van Orden	np-cog-mfn
 	mkd	Лех Качински	np-cog-mfn	eng	Lech Kaczynski	np-cog-mfn
-	mkd	Шри Ланка	np-top-f	eng	Sri Lanka	np-top-f
+	mkd	Шри Ланка	np-top-f	eng	Sri Lanka	np-top$np$np-top-f
 	mkd	Баја Маре	np-top-nt	eng	Baia Mare	np-top-nt
 	mkd	Рафаел Надал	np-cog-mfn	eng	Rafael Nadal	np-cog-mfn
 	mkd	Рафаел	np-ant-m	eng	Rafael	np$np-ant$np-ant-m-sg$np-ant-m
 	mkd	Надал	np-cog-mfn	eng	Nadal	np-cog-mfn
-	mkd	Буенос Аирес	np-top-m	eng	Buenos Aires	np-top-m
+	mkd	Буенос Аирес	np-top-m	eng	Buenos Aires	np-top$np-top-m
 	mkd	Сан Франциско	np-top-nt	eng	San Francisco	np-top-nt
 	mkd	Анџелина Џоли	np-cog-mfn	eng	Angelina Jolie	np-cog-mfn
 	mkd	Селмо Цикотиќ	np-cog-mfn	eng	Selmo Cikotic	np-cog-mfn
@@ -16837,7 +16837,7 @@
 	mkd	Гаина	np-ant-f	eng	Gaina	np-ant-f
 	mkd	Гаитанос	np-cog-mfn	eng	Gaitanos	np-cog-mfn
 	mkd	Гал	np-ant-m	eng	Gal	np-ant-m
-	mkd	Галапагос	np-al-mfn-sg	eng	Galapagos	np$np-al-sg
+	mkd	Галапагос	np-al-mfn-sg	eng	Galapagos	np-al-sg
 	mkd	Галатеча	np-cog-f	eng	Galateca	np-cog-f
 	mkd	Галевград	np-cog-mfn	eng	Galevgrad	np-cog-mfn
 	mkd	Галериус	np-ant-m	eng	Galerius	np-ant-m
@@ -19042,7 +19042,7 @@
 	mkd	Палеа	np-top-f	eng	Palea	np-top-f
 	mkd	Палинкас	np-cog-mfn	eng	Palinkas	np-cog-mfn
 	mkd	Палио	np-al-mfn-sg	eng	Palio	np-al-sg
-	mkd	Пало	np-top-nt	eng	Palo	np$np-top-nt
+	mkd	Пало	np-top-nt	eng	Palo	np-top-nt
 	mkd	Палока	np-cog-f	eng	Paloka	np-cog-f
 	mkd	Паломба	np-cog-f	eng	Palomba	np-cog-f
 	mkd	Пампорово	np-ant-m	eng	Pamporovo	np-ant-m
@@ -21494,7 +21494,7 @@
 	mkd	Кекеноски	np-cog-mfn	eng	Kekenovski	np-cog-mfn
 	mkd	Кел	np-cog-mfn	eng	Kell	np-cog-mfn
 	mkd	Кемабон	np-cog-mfn	eng	Kermabon	np-cog-mfn
-	mkd	Кен	np-ant-m	eng	Ken	np-ant$np$np-ant-m$np-ant-m-sg
+	mkd	Кен	np-ant-m	eng	Ken	np-ant$np$np-ant-m-sg$np-ant-m
 	mkd	Кендал	np-top-m	eng	Kendal	np-top-m
 	mkd	Кеничи	np-ant-m	eng	Kenichi	np-ant-m
 	mkd	Кеплер	np-cog-mfn	eng	Kepler	np-cog$$np$np-cog-mfn
@@ -21692,7 +21692,7 @@
 	mkd	Марлес	np-cog-mfn	eng	Marlies	np-cog-mfn
 	mkd	Марое	np-ant-m	eng	Maroje	np-ant-m
 	mkd	Мартинез	np-top-m	eng	Martinez	np-top-m
-	mkd	Марц	np-ant-m	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg
+	mkd	Марц	np-ant-m	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m
 	mkd	Марчев	np-ant-m	eng	Marchev	np-ant-m
 	mkd	Марша	np-ant-f	eng	Marsha	np-ant$np-ant-f
 	mkd	Масаши	np-ant-m	eng	Masashi	np-ant-m
@@ -22054,7 +22054,7 @@
 	mkd	Сандофер	np-cog-mfn	eng	Sandhofer	np-cog-mfn
 	mkd	Санино	np-cog-mfn	eng	Sannino	np-cog-mfn
 	mkd	Санјаагин	np-ant-m	eng	Sanjaagiin	np-ant-m
-	mkd	Сантиаго	np-top-nt	eng	Santiago	np-top-nt$np-top
+	mkd	Сантиаго	np-top-nt	eng	Santiago	np-top-nt
 	mkd	Сантино	np-ant-m	eng	Santino	np-ant$np-ant-m$np-ant-m-sg$np
 	mkd	Сапонија	np-cog-f	eng	Saponia	np-cog-f
 	mkd	Саравања	np-cog-f	eng	Saravanja	np-cog-f
@@ -24050,7 +24050,7 @@
 	mkd	Витман	np-cog-mfn	eng	Wittman	np-cog-mfn
 	mkd	Витхауер	np-cog-mfn	eng	Witthauer	np-cog-mfn
 	mkd	Вифред	np-cog-mfn	eng	Wifried	np-cog-mfn
-	mkd	Вјачеслав	np-ant-m	eng	Vyacheslav	np-ant-m
+	mkd	Вјачеслав	np-ant-m	eng	Vyacheslav	np-ant-m$np-ant-m-sg
 	mkd	Вожнијачки	np-cog-mfn	eng	Wozniacki	np-cog-mfn
 	mkd	Вожњак	np-cog-mfn	eng	Wozniak	np-cog-mfn$
 	mkd	Вожњачки	np-cog-mfn	eng	Wozniacki	np-cog-mfn
@@ -24336,7 +24336,7 @@
 	mkd	Марјета	np-top-f	eng	Maryetta	np-top-f
 	mkd	Марлин	np-al-mfn-sg	eng	Marleen	np-al-sg
 	mkd	Марсио	np-ant-m	eng	Marcio	np-ant$np-ant-m-sg$np$np-ant-m
-	mkd	Мартија	np-ant-f	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg
+	mkd	Мартија	np-ant-f	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f
 	mkd	Марчоне	np-cog-mfn	eng	Marchionne	np-cog-mfn
 	mkd	Маухамед	np-ant-m	eng	Muhammed	np-ant$np-ant-m$np-ant-m-sg
 	mkd	Махола	np-ant-f	eng	Manohla	np-ant-f
@@ -24508,7 +24508,7 @@
 	mkd	Сакраментно	np-top-nt	eng	Sacramento	np-top-nt
 	mkd	Салвадоре	np-cog-mfn	eng	Salvatore	np-cog-mfn
 	mkd	СанYак	np-cog-mfn	eng	Sandzak	np-cog-mfn
-	mkd	Сантјаго	np-top-nt	eng	Santiago	np-top-nt$np-top
+	mkd	Сантјаго	np-top-nt	eng	Santiago	np-top-nt
 	mkd	Сарбрукер	np-cog-mfn	eng	Saarbruecker	np-cog-mfn
 	mkd	Сарљуз	np-cog-mfn	eng	Saryusz	np-cog-mfn
 	mkd	Саш	np-org-m-sg	eng	Sachs	np-org-sg
@@ -24837,7 +24837,7 @@
 	mkd	Еуроазијанет	np-ant-m	eng	Eurasianet	np-ant-m
 	mkd	Еуровејвс	np-cog-mfn	eng	Eurowaves	np-cog-mfn
 	mkd	Жизефина	np-ant-f	eng	Jozefina	np-ant-f
-	mkd	Жискард	np-cog-mfn	eng	Giscard	np-cog-mfn
+	mkd	Жискард	np-cog-mfn	eng	Giscard	np-cog-mfn$
 	mkd	Жоет	np-cog-mfn	eng	Jouyet	np-cog-mfn
 	mkd	Жоспен	np-cog-mfn	eng	Jospin	np-cog-mfn
 	mkd	Зајнал	np-ant-m	eng	Zeynal	np-ant-m
@@ -26227,7 +26227,7 @@
 	mkd	Пахигиан	np-cog-mfn	eng	Pahigian	np-cog-mfn
 	mkd	Паци	np-cog-mfn	eng	Paci	np-cog-mfn
 	mkd	Певац	np-cog-mfn	eng	Pevac	np-cog-mfn
-	mkd	Пегасус	np-org-m-sg	eng	Pegasus	np$np-org-sg
+	mkd	Пегасус	np-org-m-sg	eng	Pegasus	np-org-sg
 	mkd	Пекевски	np-cog-mfn	eng	Pekevski	np-cog-mfn
 	mkd	Пекин	np-top-m	eng	Pekin	np-top-m
 	mkd	Пелагонија	np-cog-f	eng	Pelagonija	np-cog-f
@@ -27336,7 +27336,7 @@
 	mkd	Гаројан	np-cog-mfn	eng	Garoyan	np-cog-mfn
 	mkd	Гаспронефт	np-cog-mfn	eng	Gazproneft	np-cog-mfn
 	mkd	Гвардиа	np-cog-f	eng	Guardia	$np$np-cog-f
-	mkd	Гискард	np-cog-mfn	eng	Giscard	np-cog-mfn
+	mkd	Гискард	np-cog-mfn	eng	Giscard	np-cog-mfn$
 	mkd	Гјан	np-cog-mfn	eng	Gyan	np-cog-mfn
 	mkd	Глафкос	np-ant-m	eng	Glafcos	np-ant-m
 	mkd	Глинос	np-cog-mfn	eng	Glynos	np-cog-mfn
@@ -29085,7 +29085,7 @@
 	mkd	Мелинеску	np-cog-mfn	eng	Melinescu	np-cog-mfn
 	mkd	Мервин	np-cog-mfn	eng	Merwin	np-cog-mfn
 	mkd	Мерџан	np-ant-m	eng	Mercan	np-ant-m
-	mkd	Мигел	np-ant-m	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m
+	mkd	Мигел	np-ant-m	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m
 	mkd	Минесота	np-top-f	eng	Minnesota	np-top-f
 	mkd	Мискоци	np-cog-mfn	eng	Miscoci	np-cog-mfn
 	mkd	Мокану	np-cog-mfn	eng	Mocanu	np-cog-mfn
@@ -29158,7 +29158,7 @@
 	mkd	Букфест	np-cog-mfn	eng	Bookfest	np-cog-mfn
 	mkd	Вестон	np-top-m	eng	Weston	np-top-m
 	mkd	Вечерое	np-cog-mfn	eng	Vecernje	np-cog-mfn
-	mkd	Викториа	np-top-f	eng	Victoria	np-top$np-top-f
+	mkd	Викториа	np-top-f	eng	Victoria	np-top-f
 	mkd	Вилем	np-ant-m	eng	Willem	np$np-ant-m$np-ant-m-sg
 	mkd	Винстон	np-ant-m	eng	Winston	np-ant$np-ant-m-sg$np$np-ant-m
 	mkd	Висванатан	np-ant-m	eng	Viswanathan	np-ant-m
@@ -30390,7 +30390,7 @@
 	mkd	Слатина	np-top-f	eng	Slatina	np-top-f
 	mkd	Слоан	np-cog-mfn	eng	Sloan	$np-cog-mfn
 	mkd	Солдо	np-cog-mfn	eng	Soldo	np-cog-mfn
-	mkd	Станислав	np-ant-m	eng	Stanislav	np-ant-m
+	mkd	Станислав	np-ant-m	eng	Stanislav	np-ant-m$np-ant-m-sg
 	mkd	Станислава	np-ant-f	eng	Stanislava	np-ant-f
 	mkd	Стефанос	np-top-m	eng	Stefanos	np-top-m
 	mkd	Стрпче	np-cog-mfn	eng	Strpce	np-cog-mfn
@@ -31065,7 +31065,7 @@
 	mkd	Ханија	np-top-f	eng	Chania	np-top-f
 	mkd	Волкер	np-al-mfn-sg	eng	Walker	np-al-sg
 	mkd	Вотсон	np-cog-mfn	eng	Watson	np-cog$np$$np-cog-mfn
-	mkd	Жозеп	np-ant-m	eng	Josep	np$np-ant$np-ant-m$np-ant-m-sg
+	mkd	Жозеп	np-ant-m	eng	Josep	np-ant-m-sg$np$np-ant$np-ant-m
 	mkd	Стандардњус	np-cog-mfn	eng	Standartnews	np-cog-mfn
 	mkd	Фликенсчајлд	np-cog-mfn	eng	Flickenschild	np-cog-mfn
 	mkd	Чајна	np-top-f	eng	China	np-top-f
@@ -31259,7 +31259,7 @@
 	mkd	Аурора	np-top-f	eng	Aurora	np-top-f
 	mkd	Ашкали	np-al-mfn-sg	eng	Ashkali	np-al-sg
 	mkd	Бенин	np-top-m	eng	Benin	np-top-m
-	mkd	Боно	np-ant-m	eng	Bono	np-ant$np-ant-m$np-ant-m-sg
+	mkd	Боно	np-ant-m	eng	Bono	np-ant$np-ant-m$np-ant-m-sg$
 	mkd	Боруме	np-cog-mfn	eng	Boroume	np-cog-mfn
 	mkd	Бурунди	np-top-m	eng	Burundi	np-top-m
 	mkd	Гарос	np-al-mfn-sg	eng	Garros	np-al-sg
@@ -31334,7 +31334,7 @@
 	mkd	Рид	np-cog-mfn	eng	Reid	np-cog-mfn$np-cog
 	mkd	Рукер	np-cog-mfn	eng	Ruecker	np-cog-mfn
 	mkd	Салцбург	np-top-m	eng	Salzburg	np-top-m
-	mkd	Сантијаго	np-top-nt	eng	Santiago	np-top-nt$np-top
+	mkd	Сантијаго	np-top-nt	eng	Santiago	np-top-nt
 	mkd	Скола	np-cog-f	eng	Scola	np-cog-f
 	mkd	Талин	np-top-m	eng	Tallinn	np-top-m
 	mkd	Танзанија	np$np-top-f	eng	Tanzania	np-top-f
@@ -32378,7 +32378,7 @@
 	mkd	Конрад	np-ant-m	eng	Konrad	np-ant-m-sg$np-ant-m$np-ant
 	mkd	Курдистан	np-top-m	eng	Kurdistan	np-top-m
 	mkd	Курт	np-ant-m	eng	Kurt	np-ant$np$np-ant-m$np-ant-m-sg
-	mkd	Мигуел	np-ant-m	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m
+	mkd	Мигуел	np-ant-m	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m
 	mkd	Морган	np-org-m-sg	eng	Morgan	np-org-sg
 	mkd	Панатинаикос	np-org-m-sg	eng	Panathinaikos	np-org-sg
 	mkd	Поло	np-org-m-sg	eng	Pollo	np-org-sg
@@ -32442,7 +32442,7 @@
 	mkd	Драгомир	np-cog-mfn	eng	Dragomir	np-cog-mfn
 	mkd	Ирина	np-ant-f	eng	Irina	np-ant$np-ant-f-sg$np$np-ant-f
 	mkd	Леонард	np-ant-m	eng	Leonard	np-ant$np-ant-m$np-ant-m-sg$$np
-	mkd	Мариа	np-ant-f	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg
+	mkd	Мариа	np-ant-f	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f
 	mkd	Мариус	np-cog-mfn	eng	Marius	np-cog-mfn
 	mkd	Мобител	np-cog-mfn	eng	Mobtel	np-cog-mfn
 	mkd	Паул	np-cog-mfn	eng	Paul	np-cog-mfn
@@ -32602,7 +32602,7 @@
 	mkd	Тополанек	np-cog-mfn	eng	Topolanek	np-cog-mfn
 	mkd	Хавел	np-cog-mfn	eng	Havel	np-cog-mfn
 	mkd	Хосни	np-ant-m	eng	Hosni	np-ant-m
-	mkd	Влад	np-ant-m	eng	Vlad	np-ant$np-ant-m$np-ant-m-sg
+	mkd	Влад	np-ant-m	eng	Vlad	np-ant-m-sg$np-ant$np-ant-m
 	mkd	Калифа	np-al-f-sg	eng	Khalifa	np-al-sg
 	mkd	Крањчар	np-cog-mfn	eng	Kranjcar	np-cog-mfn
 	mkd	Милена	np-ant-f	eng	Milena	np-ant$np-ant-f-sg$np$np-ant-f
@@ -32709,7 +32709,7 @@
 	mkd	Алан	np-cog-mfn	eng	Allan	np-cog$np-cog-mfn
 	mkd	Дикарло	np-cog-mfn	eng	DiCarlo	np-cog-mfn
 	mkd	Каиро	np-top-nt	eng	Cairo	np-top-nt
-	mkd	Коста	np-top-f	eng	Costa	np$np-top-f
+	mkd	Коста	np-top-f	eng	Costa	np-top-f
 	mkd	Баучер	np-cog-mfn	eng	Boucher	np-cog-mfn$
 	mkd	Неџат	np-ant-m	eng	Nexhat	np-ant-m
 	mkd	Мацура	np-cog-f	eng	Matsuura	np-cog-f
@@ -32751,7 +32751,7 @@
 	mkd	Милибенд	np-cog-mfn	eng	Miliband	np-cog-mfn
 	mkd	Сименс	np-org-m-sg	eng	Siemens	np-org-sg
 	mkd	Конго	np-top-nt	eng	Congo	np-top-nt
-	mkd	Викторија	np-top-f	eng	Victoria	np-top$np-top-f
+	mkd	Викторија	np-top-f	eng	Victoria	np-top-f
 	mkd	Дејвис	np-cog-mfn	eng	Davis	np-cog-mfn$np-cog
 	mkd	Крајова	np-top-f	eng	Craiova	np-top-f
 	mkd	Верхојген	np-cog-mfn	eng	Verheugen	np-cog-mfn
@@ -32772,7 +32772,7 @@
 	mkd	Петром	np-org-m-sg	eng	Petrom	np-org-sg
 	mkd	Пицула	np-cog-f	eng	Picula	np-cog-f
 	mkd	Попова	np-cog-f	eng	Popova	np-cog-f
-	mkd	Сан	np-top-m	eng	San	np$np-top$np-top-m
+	mkd	Сан	np-top-m	eng	San	np-top-m
 	mkd	Северин	np-top-m	eng	Severin	np-top-m
 	mkd	Смедерево	np-top-nt	eng	Smederevo	np-top-nt
 	mkd	Чалик	np-ant-m	eng	Calik	np-ant-m
@@ -33122,7 +33122,7 @@
 	mkd	Клуј	np-top-m	eng	Cluj	np-top-m
 	mkd	Гинтер	np-ant-m	eng	Guenter	np-ant-m
 	mkd	Крис	np-ant-m	eng	Chris	np-ant$np-ant-m$np-ant-m-sg$np
-	mkd	Вилијам	np-ant-m	eng	William	np-ant$np$np-ant-m$np-ant-m-sg
+	mkd	Вилијам	np-ant-m	eng	William	np-ant$np$np-ant-m-sg$np-ant-m
 	mkd	Дамир	np-ant-m	eng	Damir	np-ant-m$np$np-ant-m-sg
 	mkd	Куци	np-org-m-sg	eng	Kuci	np-org-sg
 	mkd	Денис	np-ant-m	eng	Denis	np-ant$np-ant-m$np$np-ant-m-sg

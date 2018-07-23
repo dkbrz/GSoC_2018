@@ -1651,7 +1651,7 @@ LR	isl	ei	adv	eng	not	adv
 	isl	voðalega	adv	eng	awfully	adv
 	isl	væntanlega	adv	eng	presumably	adv
 	isl	víst	adv	eng	surely	adv
-	isl	víða	adv	eng	all	adv
+	isl	víða	adv	eng	all	adv$
 	isl	yfirleitt	adv	eng	usually	adv
 	isl	á fætur	adv	eng	up	adv
 	isl	á gerandi	adv	eng	worth mentioning	adv
@@ -2025,9 +2025,9 @@ LR	isl	allur	det-qnt-f	eng	all	det-qnt$det$det-qnt-sp
 LR	isl	allur	det-qnt-nt	eng	all	det-qnt$det$det-qnt-sp
 RL	isl	allur	det-qnt-GD	eng	all	det-qnt$det$det-qnt-sp
 	isl	margur	det-qnt	eng	many	det-qnt$det$det-qnt-pl
-LR	isl	fleiri	det-qnt-mf	eng	more	det-qnt$det-qnt-sp$det
-LR	isl	fleiri	det-qnt-nt	eng	more	det-qnt$det-qnt-sp$det
-RL	isl	fleiri	det-qnt-GD	eng	more	det-qnt$det-qnt-sp$det
+LR	isl	fleiri	det-qnt-mf	eng	more	det-qnt-sp$det-qnt$det
+LR	isl	fleiri	det-qnt-nt	eng	more	det-qnt-sp$det-qnt$det
+RL	isl	fleiri	det-qnt-GD	eng	more	det-qnt-sp$det-qnt$det
 LR	isl	flestur	det-qnt-m	eng	most	det-qnt$det-qnt-sp$det
 LR	isl	flestur	det-qnt-f	eng	most	det-qnt$det-qnt-sp$det
 LR	isl	flestur	det-qnt-nt	eng	most	det-qnt$det-qnt-sp$det
@@ -2036,9 +2036,9 @@ LR	isl	mikill	det-qnt-m	eng	much	det-qnt$det-qnt-sg$det
 LR	isl	mikill	det-qnt-f	eng	much	det-qnt$det-qnt-sg$det
 LR	isl	mikill	det-qnt-nt	eng	much	det-qnt$det-qnt-sg$det
 RL	isl	mikill	det-qnt-GD	eng	much	det-qnt$det-qnt-sg$det
-LR	isl	meiri	det-qnt-mf	eng	more	det-qnt$det-qnt-sp$det
-LR	isl	meiri	det-qnt-nt	eng	more	det-qnt$det-qnt-sp$det
-RL	isl	meiri	det-qnt-GD	eng	more	det-qnt$det-qnt-sp$det
+LR	isl	meiri	det-qnt-mf	eng	more	det-qnt-sp$det-qnt$det
+LR	isl	meiri	det-qnt-nt	eng	more	det-qnt-sp$det-qnt$det
+RL	isl	meiri	det-qnt-GD	eng	more	det-qnt-sp$det-qnt$det
 LR	isl	mestur	det-qnt-m	eng	most	det-qnt$det-qnt-sp$det
 LR	isl	mestur	det-qnt-f	eng	most	det-qnt$det-qnt-sp$det
 LR	isl	mestur	det-qnt-nt	eng	most	det-qnt$det-qnt-sp$det
@@ -2064,7 +2064,7 @@ RL	isl	mestur	det-qnt-GD	eng	most	det-qnt$det-qnt-sp$det
 	isl	sem	rel-an$rel	eng	which	rel-an-mf-sp$rel-an$prn-rel-an-mf-sp
 	isl	sem	rel-an$rel	eng	who	rel$rel-an$prn-rel-an-mf-sp$rel-an-mf-sp
 	isl	að	inf	eng	to	pr
-	isl	af	pr	eng	of	pr
+	isl	af	pr	eng	of	pr$
 	isl	andspænis	pr	eng	opposite	pr
 	isl	andspænis	adv	eng	opposite	adv
 	isl	auk	pr	eng	beside	pr
@@ -2303,7 +2303,7 @@ RL	isl	mestur	det-qnt-GD	eng	most	det-qnt$det-qnt-sp$det
 	isl	Argentína	np-top-f	eng	Argentina	np-top$np$np-top-sg
 	isl	Armenía	np-top-f	eng	Armenia	np-top$np-top-sg$np
 	isl	Asía	np-top-f	eng	Asia	np-top$np$np-top-sg
-	isl	Austur-Evrópa	np-top-f	eng	Eastern Europe	np-top$np$np-top-sg
+	isl	Austur-Evrópa	np-top-f	eng	Eastern Europe	np-top$np
 	isl	Austurríki	np-top-nt	eng	Austria	np-top$np$np-top-f
 	isl	Bandaríki	np-top-nt	eng	United States	np$np-top$np-top-pl
 	isl	Belgía	np-top-f	eng	Belgium	np-top$np$np-top-sg
@@ -2329,7 +2329,7 @@ RL	isl	mestur	det-qnt-GD	eng	most	det-qnt$det-qnt-sp$det
 	isl	Gambía	np-top-f	eng	Gambia	np-top$np-top-sg$np
 	isl	Georgía	np-top-f	eng	Georgia	np-top$np$np-top-sg
 	isl	Grikkland	np-top-nt	eng	Greece	np-top$np$np-top-sg
-	isl	Grænland	np-top-nt	eng	Greenland	np-top$np$np-top-sg
+	isl	Grænland	np-top-nt	eng	Greenland	np-top$np$np-top-sg$np-top-nt-sg
 	isl	Guatemala	np-top-nt	eng	Guatemala	np-top$np-top-sg$np
 	isl	Gínea	np-top-f	eng	Guinea	np-top$np$np-top-sg
 	isl	Hafnarfjörður	np-top-m	eng	Hafnarfjörður	np-top
@@ -2360,18 +2360,18 @@ LR	isl	London	np-top-nt	eng	London	np-top$np$np-top-sg$
 	isl	Líbýa	np-top-f	eng	Libya	np-top$np$np-top-sg
 	isl	Malasía	np-top-f	eng	Malaysia	np-top$np$np-top-sg
 	isl	Mesópótamía	np-top-f	eng	Mesopotamia	np-top$np-top-sg$np
-	isl	Mið-Ameríka	np-top-f	eng	Central America	np-top-sg$np-top
-	isl	Mið-Evrópa	np-top-f	eng	Central Europe	np$np-top$np-top-sg
+	isl	Mið-Ameríka	np-top-f	eng	Central America	np-top
+	isl	Mið-Evrópa	np-top-f	eng	Central Europe	np$np-top
 	isl	Mongólía	np-top-f	eng	Mongolia	np-top$np$np-top-sg
 	isl	Máritanía	np-top-f	eng	Mauritania	np-top$np-top-sg$np
 	isl	Namibía	np-top-f	eng	Namibia	np-top$np$np-top-sg
 	isl	New York	np-top-nt	eng	New York	np$np-top$np-top-m
 	isl	Noregur	np-top-m	eng	Norway	np-top$np$np-top-sg
-	isl	Norður-Ameríka	np-top-f	eng	North America	np-top$np$np-top-sg
-	isl	Norður-Evrópa	np-top-f	eng	Northern Europe	np-top$np$np-top-sg
+	isl	Norður-Ameríka	np-top-f	eng	North America	np-top$np
+	isl	Norður-Evrópa	np-top-f	eng	Northern Europe	np-top$np
 	isl	Nígería	np-top-f	eng	Nigeria	np-top$np$np-top-sg
 	isl	Palestína	np-top-f	eng	Palestine	np-top$np-top-sg$np
-	isl	Gaza-strönd	np-top-f	eng	Gaza Strip	np-top$np-top-sg
+	isl	Gaza-strönd	np-top-f	eng	Gaza Strip	np-top
 	isl	Portúgal	np-top-nt	eng	Portugal	np-top$np$np-top-sg
 	isl	Pólland	np-top-nt	eng	Poland	np-top$np$np-top-sg
 	isl	Reykjavík	np-top-f	eng	Reykjavík	np-top-sg$np$np-top
@@ -2387,8 +2387,8 @@ LR	isl	London	np-top-nt	eng	London	np-top$np$np-top-sg$
 	isl	Snæland	np-top-nt	eng	Iceland	np-top$np$np-top-sg
 	isl	Sparta	np-top-f	eng	Sparta	np$np-top-sg$np-top
 	isl	Spánn	np-top-m	eng	Spain	np-top$np$np-top-sg
-	isl	Suður-Ameríka	np-top-f	eng	South America	np$np-top$np-top-sg
-	isl	Suður-Evrópa	np-top-f	eng	Southern Europe	np$np-top$np-top-sg
+	isl	Suður-Ameríka	np-top-f	eng	South America	np$np-top
+	isl	Suður-Evrópa	np-top-f	eng	Southern Europe	np$np-top
 	isl	Sviss	np-top-nt	eng	Switzerland	np-top$np$np-top-sg
 	isl	Svíþjóð	np-top-f	eng	Sweden	np-top$np$np-top-sg
 	isl	Síbería	np-top-f	eng	Siberia	np$np-top$np-top-sg
@@ -2397,9 +2397,9 @@ LR	isl	London	np-top-nt	eng	London	np-top$np$np-top-sg$
 	isl	Taíland	np-top-nt	eng	Thailand	np-top$np-top-sg$np
 	isl	Tyrkland	np-top-nt	eng	Turkey	np-top$np$np-top-sg
 	isl	Tæland	np-top-nt	eng	Thailand	np-top$np-top-sg$np
-	isl	Tékkland	np-top-nt	eng	Czech Republic	np-top$np$np-top-sg
+	isl	Tékkland	np-top-nt	eng	Czech Republic	np-top$np$np-top-f
 	isl	Ungverjaland	np-top-nt	eng	Hungary	np-top$np$np-top-sg
-	isl	Vestur-Evrópa	np-top-f	eng	Western Europe	np-top$np$np-top-sg
+	isl	Vestur-Evrópa	np-top-f	eng	Western Europe	np-top$np
 	isl	Vigur	np-top-nt	eng	Vigur	np$np-top
 	isl	Víetnam	np-top-nt	eng	Vietnam	np-top$np-top-sg$np
 	isl	Ástralía	np-top-f	eng	Australia	np-top$np$np-top-sg
@@ -5594,7 +5594,7 @@ RL	isl	brók	n-f-GD	eng	pants	n$n-pl
 	isl	eir	n-m	eng	copper	n$n-sg
 	isl	eitrun	n-f	eng	poisoning	n
 	isl	eitur	n-nt	eng	poison	n$n-sg
-	isl	eiturlyf	n-nt	eng	drug	n$n-ND
+	isl	eiturlyf	n-nt	eng	drug	n$n-sg
 	isl	eiturlyfjasali	n-m	eng	drug dealer	n
 	isl	eiður	n-m	eng	oath	n$n-sg
 	isl	ekkja	n-f	eng	widow	n$
@@ -5603,7 +5603,7 @@ RL	isl	brók	n-f-GD	eng	pants	n$n-pl
 	isl	eldfjallafræði	n-f	eng	volcanology	n
 	isl	eldgos	n-nt	eng	eruption	n
 	isl	eldhús	n-nt	eng	kitchen	n$n-ND
-	isl	elding	n-f	eng	lightning	n$n-unc
+	isl	elding	n-f	eng	lightning	n$n-sg
 	isl	eldsneyti	n-nt	eng	fuel	n$n-ND
 	isl	eldspýta	n-f	eng	match	n$n-sg
 	isl	eldunaraðstaða	n-f	eng	cooking facility	n
@@ -5742,7 +5742,7 @@ RL	isl	brók	n-f-GD	eng	pants	n$n-pl
 	isl	flatbaka	n-f	eng	pizza	n
 	isl	flauta	n-f	eng	flute	n$n-sg
 	isl	fleirtala	n-f	eng	plural	n$n-ND
-	isl	flensa	n-f	eng	flu	n$n-ND
+	isl	flensa	n-f	eng	flu	n$n-sg
 	isl	flesk	n-nt	eng	bacon	n
 	isl	fleygur	n-m	eng	wedge	n$n-sg
 	isl	fljót	n-nt	eng	river	n$n-sg
@@ -5938,7 +5938,7 @@ RL	isl	brók	n-f-GD	eng	pants	n$n-pl
 	isl	geitingur	n-m	eng	wasp	n
 	isl	geldingur	n-m	eng	eunuch	n
 	isl	gemsi	n-m	eng	mobile phone	n
-	isl	gengi	n-nt	eng	exchange rate	n$n-sg
+	isl	gengi	n-nt	eng	exchange rate	n
 	isl	ger	n-nt	eng	yeast	n$n-sg
 	isl	gersemi	n-f	eng	treasure	n$n-ND
 	isl	gervigreind	n-f	eng	artificial intelligence	n
@@ -7336,7 +7336,7 @@ LR	isl	pítsa	n-f	eng	pizza	n
 	isl	sakleysi	n-f	eng	innocence	n$n-sg
 	isl	sala	n-f	eng	sale	n$n-ND
 	isl	salerni	n-nt	eng	bathroom	n$n-ND
-	isl	salt	n-nt	eng	salt	n$n-ND
+	isl	salt	n-nt	eng	salt	n$n-sg
 	isl	salur	n-m	eng	hall	n$n-sg
 	isl	samtök	n-nt	eng	organisation	n$n-ND
 	isl	samband	n-nt	eng	relation	n$n-ND
@@ -7376,7 +7376,7 @@ LR	isl	pítsa	n-f	eng	pizza	n
 	isl	segulsvið	n-nt	eng	magnetic field	n
 	isl	sekkjapípa	n-f	eng	bagpipes	n
 	isl	sekt	n-f	eng	guilt	n
-	isl	sekúnda	n-f	eng	second	n$n-ND
+	isl	sekúnda	n-f	eng	second	n$n-sg
 	isl	selló	n-nt	eng	cello	n
 	isl	selur	n-m	eng	seal	n$n-ND
 	isl	sendibréf	n-nt	eng	letter	n$n-ND
@@ -8423,7 +8423,7 @@ LR	isl	vinkona	n-f	eng	friend	n$n-sg
 	isl	ákveðinn greinir	n-m	eng	definite article	n
 	isl	ópersónuleg sögn	n-nt	eng	impersonal verb	n
 	isl	óákveðinn greinir	n-m	eng	indefinite article	n
-	isl	þeyttur rjómi	n-m	eng	whipped cream	n$n-sg
+	isl	þeyttur rjómi	n-m	eng	whipped cream	n
 	isl	útbreiðsla	n-f	eng	spreading	n$n-unc
 	isl	neysla	n-f	eng	consumption	n$n-ND
 	isl	formúla	n-f	eng	formula	n$n-ND
@@ -8702,16 +8702,16 @@ LR	isl	vinkona	n-f	eng	friend	n$n-sg
 	isl	Hollendingur	n-m	eng	Dutch	n$n-ND
 	isl	kínverji	n-m	eng	Chinese	n$n-ND
 	isl	vesturland	n-nt-sg	eng	Western Iceland	n-sg
-	isl	vesturland	n-nt-pl	eng	West	n$n-sg$
+	isl	vesturland	n-nt-pl	eng	West	n$n-sg
 	isl	vesturland	n-nt-sg	eng	Western country	n-sg
-	isl	vesturland	n-nt-pl	eng	West	n$n-sg$
-	isl	vesturlönd	n-nt	eng	West	n$n-sg$
+	isl	vesturland	n-nt-pl	eng	West	n$n-sg
+	isl	vesturlönd	n-nt	eng	West	n$n-sg
 	isl	norðurland	n-nt-sg	eng	Northern Iceland	n-sg
 	isl	norðurland	n-nt-pl	eng	Nordic country	n$n-pl
 	isl	suðurland	n-nt-sg	eng	Southern Iceland	n-sg
-	isl	suðurland	n-nt-pl	eng	South	n-sg
+	isl	suðurland	n-nt-pl	eng	South	n$n-sg
 	isl	austurland	n-nt-sg	eng	Eastern Iceland	n-sg
-	isl	austurland	n-nt-pl	eng	East	n$n-sg$
+	isl	austurland	n-nt-pl	eng	East	n$n-sg
 	isl	norðausturland	n-nt	eng	North-Eastern Iceland	n
 	isl	suðausturland	n-nt	eng	South-Eastern Iceland	n
 	isl	suðvesturland	n-nt	eng	South-Western Iceland	n
@@ -8775,7 +8775,7 @@ LR	isl	vinkona	n-f	eng	friend	n$n-sg
 	isl	annarlegur	adj	eng	strange	adj-sint$adj
 	isl	einróma	adj	eng	unanimous	adj
 	isl	upphaflegur	adj	eng	original	adj$adj-sint
-	isl	tvennur	adj	eng	two	adj
+	isl	tvennur	adj	eng	two	adj$adj-ord
 	isl	sannarlegur	adj	eng	verified	adj
 	isl	óhóflegur	adj	eng	excessive	adj
 	isl	kynferðislegur	adj	eng	sexual	adj
@@ -9077,7 +9077,7 @@ LR	isl	sérsveit	n-f-pl	eng	special forces	n-pl$n
 RL	isl	sérsveit	n-f-GD	eng	special forces	n-pl$n
 	isl	fíkniefnahundur	n-m	eng	drug dog	n
 	isl	fíkniefnaleit	n-f	eng	drug search	n
-	isl	fíkniefni	n-nt	eng	drug	n$n-ND
+	isl	fíkniefni	n-nt	eng	drug	n$n-sg
 	isl	vopnamarkaður	n-m	eng	weapons market	n
 	isl	austurströnd	n-f	eng	east coast	n
 	isl	vesturströnd	n-f	eng	west coast	n
@@ -9210,7 +9210,7 @@ LR	isl	Norðurálfa	np-top-f	eng	Europe	np$np-top$np-top-sg
 	isl	Norður-Kórea	np-top-f	eng	North Korea	np-top$np$np-top-sg
 	isl	York	np-top-nt	eng	York	np-top$np-top-sg$np$
 	isl	Evrópusamband	np-top-nt	eng	European Union	np-top$np$np-top-sg
-	isl	Berlín	np-top-f	eng	Berlin	np-top$np$np-top-sg
+	isl	Berlín	np-top-f	eng	Berlin	np-top$np$np-top-sg$np-top-m-sg
 	isl	Barcelona	np-top-f	eng	Barcelona	np-top$np$np-top-sg$
 	isl	Líma	np-top-f	eng	Lima	np-top$np-top-sg
 	isl	Flórída	np-top-f	eng	Florida	np-top$np$np-top-sg
@@ -9220,9 +9220,9 @@ LR	isl	Norðurálfa	np-top-f	eng	Europe	np$np-top$np-top-sg
 	isl	Keflavík	np-top-f	eng	Keflavík	np$np-top$np-top-sg
 	isl	Breiðdalsvík	np-top-f	eng	Breiðdalsvík	np-top
 	isl	Akranesi	np-top-f	eng	Akranesi	np$np-top
-	isl	Kanaríeyjar	np-top-f	eng	Canary Islands	np-top$np-top-pl$np
+	isl	Kanaríeyjar	np-top-f	eng	Canary Islands	np-top$np$np-top-pl
 	isl	Makedónía	np-top-f	eng	Macedonia	np-top$np$np-top-sg
-LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
+LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np$np-top-pl
 	isl	Port-au-Prince	np-top-nt	eng	Port-au-Prince	np-top$np$np-top-sg
 	isl	Mexíkó	np-top-nt	eng	Mexico	np-top$np$np-top-sg
 	isl	Marokkó	np-top-nt	eng	Morocco	np-top$np$np-top-sg
@@ -11559,7 +11559,7 @@ LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
 	isl	brölt	n-nt	eng	tumbling about	n
 	isl	brönugras	n-nt	eng	orchid	n$n-ND
 	isl	brúnka	n-f	eng	tan	n
-	isl	brúsi	n-m	eng	can	n$n-ND
+	isl	brúsi	n-m	eng	can	n$n-sg
 	isl	brúsi	n-m	eng	thermos flask	n
 	isl	brúðuleikhús	n-nt	eng	puppet theater	n
 	isl	brýni	n-nt	eng	whetstone	n$n-sg
@@ -11804,7 +11804,7 @@ LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
 	isl	dulnefni	n-nt	eng	pseudonym	n$n-ND
 	isl	dulvitund	n-f	eng	subconscious	n
 	isl	dumbungur	n-m	eng	overcast weather	n
-	isl	dunkur	n-m	eng	can	n$n-ND
+	isl	dunkur	n-m	eng	can	n$n-sg
 	isl	durgur	n-m	eng	boor	n
 	isl	durtur	n-m	eng	boor	n
 	isl	duttlungur	n-m	eng	whim	n$n-ND
@@ -11857,7 +11857,7 @@ LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
 	isl	dóni	n-m	eng	boor	n
 	isl	dóp	n-nt	eng	dope	n
 	isl	dópisti	n-m	eng	drug addict	n$n-ND
-	isl	dós	n-f	eng	can	n$n-ND
+	isl	dós	n-f	eng	can	n$n-sg
 	isl	dót	n-nt$n-nt-sg	eng	luggage	n$n-ND
 	isl	dót	n-nt$n-nt-sg	eng	toys	n
 	isl	dót	n-nt$n-nt-sg	eng	rabble	n$n-ND
@@ -13276,7 +13276,7 @@ LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
 	isl	hlunkur	n-m	eng	thump	n
 	isl	hlunkur	n-m	eng	hulk	n
 	isl	hlussa	n-f	eng	splotch	n
-	isl	hlussa	n-f	eng	big	n
+	isl	hlussa	n-f	eng	big	n$n-pl
 	isl	hlust	n-f	eng	auditory canal	n
 	isl	hlutafélag	n-nt	eng	corporation	n$n-ND
 	isl	hlutavelta	n-f	eng	lottery	n$n-sg
@@ -13665,7 +13665,7 @@ LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
 	isl	ilmur	n-m	eng	aroma	n$n-ND
 	isl	ilmvatn	n-nt	eng	perfume	n$n-ND
 	isl	ilsig	n-nt	eng	flat foot	n
-	isl	inflúensa	n-f	eng	flu	n$n-ND
+	isl	inflúensa	n-f	eng	flu	n$n-sg
 	isl	innanhússarkitekt	n-m	eng	interior designer	n
 	isl	innborgun	n-f	eng	deposit	n$n-sg
 	isl	innborgun	n-f	eng	down payment	n
@@ -13914,7 +13914,7 @@ LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
 	isl	ketill	n-m	eng	boiler	n
 	isl	kettlingur	n-m	eng	kitten	n$n-sg
 	isl	keyrsla	n-f	eng	driving	n
-	isl	keyrsla	n-f	eng	run	n$n-ND
+	isl	keyrsla	n-f	eng	run	n$n-sg
 	isl	keðja	n-f	eng	chain	n$n-sg
 	isl	keðjusöngur	n-m	eng	round	n$n-ND
 	isl	keðjuverkun	n-f	eng	chain reaction	n
@@ -16090,7 +16090,7 @@ LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
 	isl	sena	n-f	eng	scene	n$n-ND
 	isl	sendandi	n-m	eng	sender	n$n-ND
 	isl	sendiboði	n-m	eng	messenger	n$n-ND
-	isl	sendibíll	n-m	eng	van	n$n-ND
+	isl	sendibíll	n-m	eng	van	n$$n-ND
 	isl	sendill	n-m	eng	errand boy	n
 	isl	sendinefnd	n-f	eng	delegation	n$n-ND
 	isl	sendlingur	n-m	eng	purple sandpiper	n
@@ -16269,7 +16269,7 @@ LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
 	isl	skeifa	n-f	eng	horseshoe	n$n-sg
 	isl	skeina	n-f	eng	scratch	n
 	isl	skeið	n-nt	eng	span	n
-	isl	skeið	n-nt	eng	run	n$n-ND
+	isl	skeið	n-nt	eng	run	n$n-sg
 	isl	skeið	n-nt	eng	race	n$n-ND
 	isl	skeið	n-nt	eng	amble	n
 	isl	skeiðklukka	n-f	eng	stopwatch	n
@@ -16420,7 +16420,7 @@ LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
 	isl	skráargat	n-nt	eng	keyhole	n
 	isl	skráma	n-f	eng	scratch	n
 	isl	skráning	n-f	eng	registration	n$n-ND
-	isl	skráning	n-f	eng	check-in	n
+	isl	skráning	n-f	eng	check-in	n$n-sg
 	isl	skráningarskírteini	n-nt	eng	registration certificate	n
 	isl	skrápur	n-m	eng	shagreen	n
 	isl	skrækur	n-m	eng	screech	n
@@ -17477,7 +17477,7 @@ LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
 	isl	teinn	n-m	eng	stripe	n
 	isl	teista	n-f	eng	black guillemot	n
 	isl	teketill	n-m	eng	teapot	n
-	isl	tekjuskattur	n-m	eng	income tax	n$n-ND
+	isl	tekjuskattur	n-m	eng	income tax	n
 	isl	tekk	n-nt	eng	teak	n
 	isl	teljari	n-m	eng	counter	n$n-ND
 	isl	teljari	n-m	eng	numerator	n
@@ -18566,7 +18566,7 @@ LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
 	isl	ásynja	n-f	eng	goddess	n$n-ND
 	isl	ásókn	n-f	eng	demand	n$n-ND
 	isl	ásókn	n-f	eng	attack	n$n-ND
-	isl	átroðningur	n-m	eng	run	n$n-ND
+	isl	átroðningur	n-m	eng	run	n$n-sg
 	isl	átroðningur	n-m	eng	imposition	n
 	isl	átroðningur	n-m	eng	throng	n
 	isl	átrúnaðargoð	n-nt	eng	idol	n$n-ND
@@ -19395,7 +19395,7 @@ LR	isl	Kanarí	np-top-nt-sg	eng	Canary Islands	np-top$np-top-pl$np
 	isl	ferhyrndur	adj	eng	square	adj
 	isl	ferlegur	adj	eng	monstrous	adj
 	isl	ferlegur	adj	eng	awful	adj$adj-sint
-	isl	fern	adj	eng	four	adj
+	isl	fern	adj	eng	four	adj$adj-ord
 	isl	ferstrendur	adj	eng	four-sided	adj
 	isl	ferðbúinn	adj	eng	ready	adj$adj-sint
 	isl	fimmfaldur	adj	eng	fivefold	adj
@@ -21544,7 +21544,7 @@ LR	isl	hrynja	vblex	eng	go	vblex$vblex-ger
 	isl	rafmagnsfiðla	n-f	eng	electric violin	n
 	isl	rannsóknaráætlun	n-f	eng	research plan	n
 	isl	rannsóknarverkefni	n-nt	eng	research assignment	n
-	isl	rás	n-nt	eng	run	n$n-ND
+	isl	rás	n-nt	eng	run	n$n-sg
 	isl	regnbogahimna	n-f	eng	iris	n$n-ND
 	isl	reiðstígvél	n-f	eng	riding boot	n
 	isl	ríkisdalur	n-m	eng	US dollar	n
@@ -21901,5 +21901,5 @@ LR	isl	hrynja	vblex	eng	go	vblex$vblex-ger
 	isl	Fljótahreppur	np-top-m	eng	Fljótahreppur	np-top
 	isl	Akrahreppur	np-top-m	eng	Akrahreppur	np$np-top
 	isl	Kópavogur	np-top-m	eng	Kópavogur	np-top
-	isl	Kyrrahaf	np-al-nt	eng	Pacific Ocean	np-al$np-al-nt-sg
-	isl	Atlantshaf	np-al-nt	eng	Atlantic Ocean	np-al$np-al-nt-sg
+	isl	Kyrrahaf	np-al-nt	eng	Pacific Ocean	np-al
+	isl	Atlantshaf	np-al-nt	eng	Atlantic Ocean	np$np-al

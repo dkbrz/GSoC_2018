@@ -58,7 +58,7 @@ RL	eng	city	n$n-sg	sco	ceety	n
 	eng	hand	n$n-ND	sco	haun	n
 	eng	ticket	n$n-ND	sco	ticket	n
 RL	eng	child	n$n-pl	sco	wean	n
-	eng	all	adv	sco	aa	adv
+	eng	all	adv$	sco	aa	adv
 	eng	about	adv	sco	aboot	adv
 	eng	below	adv	sco	ablo	adv
 	eng	beneath	adv	sco	ablo	adv
@@ -88,7 +88,7 @@ RL	eng	child	n$n-pl	sco	wean	n
 	eng	at Easter	n	sco	at Pasche	adv
 	eng	across	adv	sco	athwart	adv
 	eng	at all	adv	sco	ava	adv
-	eng	all	adv	sco	aw	adv
+	eng	all	adv$	sco	aw	adv
 	eng	away	adv	sco	awa	adv
 	eng	ago	adv	sco	awa	adv
 	eng	absent	adv	sco	awa	adv
@@ -294,7 +294,7 @@ RL	eng	child	n$n-pl	sco	wean	n
 	eng	other	det-ind-pl$det-ind$det$det-ind-mf-pl	sco	ither	det-ind
 	eng	every	det-ind$det-ind-sg$det	sco	ivery	det-ind
 	eng	every	det-ind$det-ind-sg$det	sco	ivry	det-ind
-	eng	more	det-qnt$det-qnt-sp$det	sco	mair	det-qnt
+	eng	more	det-qnt-sp$det-qnt$det	sco	mair	det-qnt
 	eng	most	det-qnt$det-qnt-sp$det	sco	maist	det-qnt
 	eng	my	det-pos-sp$det-pos$det	sco	ma	det-pos
 RL	eng	my	det-pos-sp$det-pos$det	sco	my	det-pos
@@ -386,8 +386,8 @@ RL	eng	my	det-pos-sp$det-pos$det	sco	my	det-pos
 	eng	next to	pr	sco	neist	pr
 	eng	next to	pr	sco	niest	pr
 	eng	next	pr	sco	nixt	pr
-	eng	of	pr	sco	o	pr
-	eng	of	pr	sco	of	pr
+	eng	of	pr$	sco	o	pr
+	eng	of	pr$	sco	of	pr
 	eng	on	pr	sco	on	pr
 	eng	onto	pr	sco	ontae	pr
 	eng	onto	pr	sco	ontil	pr
@@ -440,13 +440,13 @@ RL	eng	my	det-pos-sp$det-pos$det	sco	my	det-pos
 	eng	that	rel$rel-an-mf-sp$rel-an	sco	that	rel
 	eng	poor	adj-sint$adj	sco	puir	adj$adj-sint
 	eng	great	adj-sint$adj$adj-sint-comp	sco	greet	adj$adj-sint
-	eng	all	adj$	sco	aa	adj
+	eng	all	adj	sco	aa	adj
 	eng	old	adj-sint$adj$adj-sint-sup	sco	aald	adj-sint
 	eng	alright	adj	sco	aaricht	adj
 	eng	able	adj-sint$adj	sco	able	adj-sint
 	eng	accredited	adj	sco	accredited	adj
 	eng	adopted	adj	sco	adoptit	adj
-	eng	one	adj	sco	ae	adj
+	eng	one	adj$adj-ord	sco	ae	adj
 	eng	only	adj	sco	ae	adj
 	eng	off	adj	sco	aff	adj
 	eng	own	adj	sco	ain	adj
@@ -462,7 +462,7 @@ RL	eng	my	det-pos-sp$det-pos$det	sco	my	det-pos
 	eng	old	adj-sint$adj$adj-sint-sup	sco	auld	adj-sint
 	eng	old-fashioned	adj	sco	auld-fashioned	adj
 	eng	ancient	adj	sco	auncient	adj
-	eng	all	adj$	sco	aw	adj
+	eng	all	adj	sco	aw	adj
 	eng	absent	adj	sco	awa	adj
 	eng	gone	adj	sco	awa	adj
 	eng	distant	adj	sco	awa	adj
@@ -1688,14 +1688,14 @@ RL	eng	serve	vblex$vblex-sep	sco	serve	vblex
 	eng	Catalonia	np-loc$np$np-loc-sg	sco	Catalonie	np
 	eng	Denmark	np-top$np$np-top-sg	sco	Denmark	np
 	eng	Ireland	np-top$np$np-top-f$	sco	Erlan	np$np-ant
-	eng	Irish Sea	np$np-top$np-top-m-sg	sco	Erse Sea	np
+	eng	Irish Sea	np$np-top	sco	Erse Sea	np
 	eng	Europe	np$np-top$np-top-sg	sco	Europe	np
 	eng	Falkirk	np	sco	Fawkirk	np
 	eng	France	np-top$np$np-top-sg	sco	Franse	np
 	eng	France	np-top$np$np-top-sg	sco	Fraunce	np
 	eng	Galloway	np$np-top-sg	sco	Gallawa	np
 	eng	Galloway	np$np-top-sg	sco	Gallowa	np
-	eng	North Sea	np$np-top$np-top-m-sg	sco	German Ocean	np
+	eng	North Sea	np$np-top	sco	German Ocean	np
 	eng	Glasgow	np$np-top$np-top-sg	sco	Glesca	np
 	eng	Glasgow	np$np-top$np-top-sg	sco	Glesga	np
 	eng	Greece	np-top$np$np-top-sg	sco	Greece	np
@@ -1707,8 +1707,8 @@ RL	eng	Holyrood	np	sco	Holyrood	np
 RL	eng	Ireland	np-top$np$np-top-f$	sco	Irland	np
 	eng	Latin America	np-loc$np$np-loc-sg	sco	Laitin Americae	np
 	eng	London	np-top$np$np-top-sg$	sco	Lunnon	np
-	eng	Northern Ireland	np$np-top$np-top-sg	sco	Northren Ireland	np
-RL	eng	Northern Ireland	np$np-top$np-top-sg	sco	Northren Irland	np
+	eng	Northern Ireland	np$np-top	sco	Northren Ireland	np
+RL	eng	Northern Ireland	np$np-top	sco	Northren Irland	np
 	eng	Qatar	np-top$np$np-top-sg	sco	Qatar	np
 	eng	Russia	np-top$np$np-top-sg	sco	Roushie	np
 	eng	Scotland	np-top$np$np-top-sg	sco	Scotland	np
@@ -2733,7 +2733,7 @@ LR	eng	stag	n	sco	hert	n
 	eng	sea	n$n-sg	sco	sea	n
 	eng	secretary	n$n-ND	sco	secretar	n
 	eng	system	n$n-ND	sco	seestem	n
-	eng	second	n$n-ND	sco	seicont	n
+	eng	second	n$n-sg	sco	seicont	n
 	eng	undershirt	n	sco	semmit	n
 	eng	senate	n$n-ND	sco	senate	n
 	eng	senator	n$n-ND	sco	senator	n
@@ -3003,7 +3003,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Abdías	np-ant$np$np-ant-m-sg	sco	Abdías	np-ant
 	eng	Abdo	np-ant$np-ant-m$$np$np-ant-m-sg	sco	Abdo	np-ant
 	eng	Abdón	np-ant$np-ant-m-sg	sco	Abdón	np-ant
-	eng	Abdul	np-ant$np$np-ant-m$np-ant-m-sg	sco	Abdul	np-ant
+	eng	Abdul	np-ant$np-ant-m-sg$np$np-ant-m	sco	Abdul	np-ant
 	eng	Abelardo	np-ant$np$np-ant-m-sg	sco	Abelardo	np-ant
 	eng	Abenamar	np-ant$np$np-ant-m-sg	sco	Abenamar	np-ant
 	eng	Aberardo	np-ant$np$np-ant-m-sg	sco	Aberardo	np-ant
@@ -3054,7 +3054,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Ageo	np-ant$np$np-ant-m-sg	sco	Ageo	np-ant
 	eng	Agilberto	np-ant$np$np-ant-m-sg	sco	Agilberto	np-ant
 	eng	Agripino	np-ant$np$np-ant-m-sg	sco	Agripino	np-ant
-	eng	Agustín	np-ant$np$np-ant-m$np-ant-m-sg	sco	Agustín	np-ant
+	eng	Agustín	np-ant$np-ant-m-sg$np$np-ant-m	sco	Agustín	np-ant
 	eng	Agusttin	np-ant$np$np-ant-m-sg	sco	Agusttin	np-ant
 	eng	Ahmed	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Ahmed	np-ant
 	eng	Aicardo	np-ant$np$np-ant-m-sg	sco	Aicardo	np-ant
@@ -3097,7 +3097,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Alesis	np-ant$np$np-ant-m-sg	sco	Alesis	np-ant
 	eng	Alessandro	np-ant$np-ant-m$np-ant-m-sg$np	sco	Alessandro	np-ant
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	sco	Alex	np-ant
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Alexander	np-ant
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	sco	Alexander	np-ant
 	eng	Alexandros	np-ant$np-ant-m$np-ant-m-sg$np	sco	Alexandros	np-ant
 	eng	Alexio	np-ant$np$np-ant-m-sg	sco	Alexio	np-ant
 	eng	Alexis	np-ant$np$np-ant-m$np-ant-m-sg	sco	Alexis	np-ant
@@ -3831,7 +3831,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Fulivio	np-ant$np$np-ant-m-sg	sco	Fulivio	np-ant
 	eng	Gabelo	np-ant$np$np-ant-m-sg	sco	Gabelo	np-ant
 	eng	Gabino	np-ant$np$np-ant-m-sg	sco	Gabino	np-ant
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	sco	Gabriel	np-ant
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	sco	Gabriel	np-ant
 	eng	Gadiel	np-ant$np$np-ant-m-sg	sco	Gadiel	np-ant
 	eng	Gaetano	np-ant$np-ant-m$np-ant-m-sg$np	sco	Gaetano	np-ant
 	eng	Galdano	np-ant$np$np-ant-m-sg	sco	Galdano	np-ant
@@ -4055,7 +4055,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Jaled	np-ant$np$np-ant-m-sg	sco	Jaled	np-ant
 	eng	Jalil	np-ant$np$np-ant-m-sg$np-ant-m	sco	Jalil	np-ant
 	eng	Jamil	np-ant$np$np-ant-m-sg	sco	Jamil	np-ant
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	sco	Jan	np-ant
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	sco	Jan	np-ant
 	eng	Jano	np-ant$np$np-ant-m-sg	sco	Jano	np-ant
 	eng	Jason	np-ant$np-ant-m$np-ant-m-sg$np	sco	Jason	np-ant
 	eng	Javier	np-ant$np$np-ant-m$np-ant-m-sg	sco	Javier	np-ant
@@ -4070,7 +4070,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Jimeno	np-ant$$np$np-ant-m-sg	sco	Jimeno	np-ant
 	eng	Jimy	np-ant$np$np-ant-m-sg	sco	Jimy	np-ant
 	eng	Joab	np-ant$np$np-ant-m$np-ant-m-sg	sco	Joab	np-ant
-	eng	Joan	np-ant$np$np-ant-m-sg	sco	Joan	np-ant
+	eng	Joan	np-ant$np-ant-m-sg$np	sco	Joan	np-ant
 	eng	Joaquin	np-ant$np-ant-m-sg$np$np-ant-m	sco	Joaquin	np-ant
 	eng	Joav	np-ant$np$np-ant-m-sg	sco	Joav	np-ant
 	eng	Job	np-ant$np$np-ant-m-sg	sco	Job	np-ant
@@ -4102,13 +4102,13 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Joviano	np-ant$np$np-ant-m-sg	sco	Joviano	np-ant
 	eng	Jovino	np-ant$np$np-ant-m-sg	sco	Jovino	np-ant
 	eng	Jovito	np-ant$np$np-ant-m-sg	sco	Jovito	np-ant
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	sco	Juan	np-ant
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	sco	Juan	np-ant
 	eng	Juan Carlos	np-ant$np$np-ant-m-sg	sco	Juan Carlos	np-ant
 	eng	Juan Cruz	np-ant$np$np-ant-m-sg	sco	Juan Cruz	np-ant
 	eng	Juan de Dios	np-ant$np$np-ant-m-sg	sco	Juan de Dios	np-ant
 	eng	Juan de Mata	np-ant$np	sco	Juan de Mata	np-ant
 	eng	Juan Diego de Guadalupe	np-ant$np-ant-m-sg	sco	Juan Diego de Guadalupe	np-ant
-	eng	Juan María	np-ant$np$np-ant-m-sg	sco	Juan María	np-ant
+	eng	Juan María	np-ant$np	sco	Juan María	np-ant
 	eng	Juanse	np-ant$np$np-ant-m-sg	sco	Juanse	np-ant
 	eng	Jubal	np-ant$np$np-ant-m-sg	sco	Jubal	np-ant
 	eng	Judas	np-ant$np$np-ant-m-sg	sco	Judas	np-ant
@@ -4131,7 +4131,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Karim	np-ant$np-ant-m$np$np-ant-m-sg$	sco	Karim	np-ant
 	eng	Karol	np-ant$np$np-ant-m-sg	sco	Karol	np-ant
 	eng	Kasuhiro	np-ant$np$np-ant-m-sg	sco	Kasuhiro	np-ant
-	eng	Ken	np-ant$np$np-ant-m$np-ant-m-sg	sco	Ken	np-ant
+	eng	Ken	np-ant$np$np-ant-m-sg$np-ant-m	sco	Ken	np-ant
 	eng	Kenji	np-ant$np$np-ant-m-sg	sco	Kenji	np-ant
 	eng	Kenneth	np-ant$np-ant-m-sg$np$np-ant-m	sco	Kenneth	np-ant
 	eng	Kenyi	np-ant$np$np-ant-m-sg	sco	Kenyi	np-ant
@@ -4314,8 +4314,8 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Micaías	np-ant$np$np-ant-m-sg	sco	Micaías	np-ant
 	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Michael	np-ant
 	eng	Michel	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Michel	np-ant
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	sco	Miguel	np-ant
-	eng	Miguel de los Santos	np-ant$np$np-ant-m-sg	sco	Miguel de los Santos	np-ant
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	sco	Miguel	np-ant
+	eng	Miguel de los Santos	np-ant$np	sco	Miguel de los Santos	np-ant
 	eng	Mikhail	np-ant$np-ant-m-sg$$np$np-ant-m	sco	Mikhail	np-ant
 	eng	Milad	np-ant$np-ant-m-sg$np	sco	Milad	np-ant
 	eng	Milcíades	np-ant$np	sco	Milcíades	np-ant
@@ -4645,7 +4645,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Sinesio	np-ant$np$np-ant-m-sg	sco	Sinesio	np-ant
 	eng	Sinforiano	np-ant$np$np-ant-m-sg	sco	Sinforiano	np-ant
 	eng	Sinforoso	np-ant$np$np-ant-m-sg	sco	Sinforoso	np-ant
-	eng	Sinibaldo	np-ant$np$np-ant-m-sg	sco	Sinibaldo	np-ant
+	eng	Sinibaldo	np-ant$np-ant-m-sg$np	sco	Sinibaldo	np-ant
 	eng	Sinuhé	np-ant$np$np-ant-m-sg	sco	Sinuhé	np-ant
 	eng	Sión	np-ant$np-ant-m-sg	sco	Sión	np-ant
 	eng	Siro	np-ant$np-ant-m-sg$np$np-ant-m	sco	Siro	np-ant
@@ -4812,7 +4812,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Wifredo	np-ant$np$np-ant-m-sg	sco	Wifredo	np-ant
 	eng	Wilfredo	np-ant$np$np-ant-m-sg	sco	Wilfredo	np-ant
 	eng	Wilfrido	np-ant$np$np-ant-m-sg	sco	Wilfrido	np-ant
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	sco	William	np-ant
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	sco	William	np-ant
 	eng	Williams	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Williams	np-ant
 	eng	Willinton	np-ant$np$np-ant-m-sg	sco	Willinton	np-ant
 	eng	Wilson	np-ant$np$np-ant-m-sg$np-ant-m$	sco	Wilson	np-ant
@@ -4884,7 +4884,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Alejandro	np-ant$np-ant-m-sg$np$np-ant-m	sco	Alejandro	np-ant
 	eng	Alessandro	np-ant$np-ant-m$np-ant-m-sg$np	sco	Alessandro	np-ant
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	sco	Alex	np-ant
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Alexander	np-ant
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	sco	Alexander	np-ant
 	eng	Alexandre	np-ant$np-ant-m-sg$np$np-ant-m	sco	Alexandre	np-ant
 	eng	Alexandro	np-ant$np$np-ant-m-sg	sco	Alexandro	np-ant
 	eng	Alexis	np-ant$np$np-ant-m$np-ant-m-sg	sco	Alexis	np-ant
@@ -5212,7 +5212,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Felix	np-ant$np-ant-m-sg$np$np-ant-m	sco	Felix	np-ant
 	eng	Fernando	np-ant$np$np-ant-m-sg$np-ant-m	sco	Fernando	np-ant
 	eng	Fidel	np-ant$np-ant-m-sg$np$np-ant-m	sco	Fidel	np-ant
-	eng	Fidel Castro	np-ant$np$np-ant-m-sg	sco	Fidel Castro	np-ant
+	eng	Fidel Castro	np-ant$np	sco	Fidel Castro	np-ant
 	eng	Finlay	np-ant$$np$np-ant-m-sg	sco	Finlay	np-ant
 	eng	Finley	np-ant$np-ant-m-sg$np$np-ant-m	sco	Finley	np-ant
 	eng	Finn	np-ant$np-ant-m-sg$np	sco	Finn	np-ant
@@ -5227,7 +5227,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Freddy	np-ant$np-ant-m-sg$np	sco	Freddy	np-ant
 	eng	Frederick	np-ant$np-ant-m-sg$np$np-ant-m	sco	Frederick	np-ant
 	eng	Fredrick	np-ant$np-ant-m-sg$np	sco	Fredrick	np-ant
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	sco	Gabriel	np-ant
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	sco	Gabriel	np-ant
 	eng	Gael	np-ant$np-ant-m-sg$np	sco	Gael	np-ant
 	eng	Gage	np-ant$np$np-ant-m-sg	sco	Gage	np-ant
 	eng	Gaige	np-ant$np$np-ant-m-sg	sco	Gaige	np-ant
@@ -5343,7 +5343,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Jamil	np-ant$np$np-ant-m-sg	sco	Jamil	np-ant
 	eng	Jamir	np-ant$np$np-ant-m-sg	sco	Jamir	np-ant
 	eng	Jamison	np-ant$np$np-ant-m-sg	sco	Jamison	np-ant
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	sco	Jan	np-ant
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	sco	Jan	np-ant
 	eng	Jaquan	np-ant$np$np-ant-m-sg	sco	Jaquan	np-ant
 	eng	Jaquez	np-ant$np$np-ant-m-sg	sco	Jaquez	np-ant
 	eng	Jared	np-ant$np$np-ant-m-sg	sco	Jared	np-ant
@@ -5388,7 +5388,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Jett	np-ant$np$np-ant-m-sg	sco	Jett	np-ant
 	eng	Jevon	np-ant$np$np-ant-m-sg	sco	Jevon	np-ant
 	eng	Jimmy	np-ant$np-ant-m-sg$np$np-ant-m	sco	Jimmy	np-ant
-	eng	Joan	np-ant$np$np-ant-m-sg	sco	Joan	np-ant
+	eng	Joan	np-ant$np-ant-m-sg$np	sco	Joan	np-ant
 	eng	Joaquin	np-ant$np-ant-m-sg$np$np-ant-m	sco	Joaquin	np-ant
 	eng	Joe	np-ant$np$np-ant-m$np-ant-m-sg	sco	Joe	np-ant
 	eng	Joel	np-ant$np$np-ant-m-sg$np-ant-m	sco	Joel	np-ant
@@ -5420,7 +5420,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Jovan	np-ant$np-ant-m$np-ant-m-sg$np	sco	Jovan	np-ant
 	eng	Jovani	np-ant$$np$np-ant-m-sg	sco	Jovani	np-ant
 	eng	Jovany	np-ant$np$np-ant-m-sg	sco	Jovany	np-ant
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	sco	Juan	np-ant
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	sco	Juan	np-ant
 	eng	Judah	np-ant$np$np-ant-m$np-ant-m-sg	sco	Judah	np-ant
 	eng	Jude	np-ant$np$np-ant-m-sg$np-ant-m	sco	Jude	np-ant
 	eng	Julian	np-ant$np$np-ant-m-sg$np-ant-m	sco	Julian	np-ant
@@ -5535,7 +5535,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Malcolm	np-ant$np-ant-m-sg$np$np-ant-m	sco	Malcolm	np-ant
 	eng	Malik	np-ant$np-ant-m-sg$$np$np-ant-m	sco	Malik	np-ant
 	eng	Manuel	np-ant$np$np-ant-m$np-ant-m-sg	sco	Manuel	np-ant
-	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg	sco	Marc	np-ant
+	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m	sco	Marc	np-ant
 	eng	Marcel	np-ant$np-ant-m-sg$np$np-ant-m	sco	Marcel	np-ant
 	eng	Marcelo	np-ant$np-ant-m-sg$np$np-ant-m	sco	Marcelo	np-ant
 	eng	Marco	np-ant$np-ant-m-sg$np$np-ant-m	sco	Marco	np-ant
@@ -5572,7 +5572,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Micah	np-ant$np$np-ant-m-sg	sco	Micah	np-ant
 	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Michael	np-ant
 	eng	Micheal	np-ant$np$np-ant-m-sg	sco	Micheal	np-ant
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	sco	Miguel	np-ant
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	sco	Miguel	np-ant
 	eng	Mike	np-ant$np$np-ant-m$np-ant-m-sg	sco	Mike	np-ant
 	eng	Mikel	np-ant$np-ant-m-sg$np	sco	Mikel	np-ant
 	eng	Miles	np-ant$$np$np-ant-m-sg	sco	Miles	np-ant
@@ -5607,7 +5607,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Nick	np-ant$np-ant-m-sg$np$np-ant-m	sco	Nick	np-ant
 	eng	Nickolas	np-ant$np$np-ant-m-sg	sco	Nickolas	np-ant
 	eng	Nico	np-ant$np-ant-m-sg$np$np-ant-m	sco	Nico	np-ant
-	eng	Nicolas	np-ant$np$np-ant-m$np-ant-m-sg	sco	Nicolas	np-ant
+	eng	Nicolas	np-ant$np$np-ant-m-sg$np-ant-m	sco	Nicolas	np-ant
 	eng	Nigel	np-ant$np-ant-m-sg$np-ant-m$np	sco	Nigel	np-ant
 	eng	Nikhil	np-ant$np$np-ant-m-sg	sco	Nikhil	np-ant
 	eng	Nikolas	np-ant$np-ant-m-sg$np	sco	Nikolas	np-ant
@@ -5636,7 +5636,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Paxton	np-ant$$np$np-ant-m-sg	sco	Paxton	np-ant
 	eng	Payton	np-ant$np$np-ant-m-sg	sco	Payton	np-ant
 	eng	Pedro	np-ant$np-ant-m-sg$np$np-ant-m	sco	Pedro	np-ant
-	eng	Per Stig Møller	np-ant$np$np-ant-m-sg	sco	Per Stig Møller	np-ant
+	eng	Per Stig Møller	np-ant$np	sco	Per Stig Møller	np-ant
 	eng	Perry	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Perry	np-ant
 	eng	Peter	np-ant$np$np-ant-m$np-ant-m-sg	sco	Peter	np-ant
 	eng	Peyton	np-ant$np$np-ant-m-sg	sco	Peyton	np-ant
@@ -5644,7 +5644,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Phillip	np-ant$np-ant-m-sg$np	sco	Phillip	np-ant
 	eng	Phoenix	np-ant$np$np-ant-m$$np-ant-m-sg	sco	Phoenix	np-ant
 	eng	Pierce	np-ant$np$np-ant-m-sg	sco	Pierce	np-ant
-	eng	Pierre	np-ant$np$np-ant-m-sg$np-ant-m	sco	Pierre	np-ant
+	eng	Pierre	np-ant$np-ant-m-sg$np$np-ant-m	sco	Pierre	np-ant
 	eng	Porter	np-ant$$np$np-ant-m-sg	sco	Porter	np-ant
 	eng	Pranav	np-ant$np$np-ant-m-sg	sco	Pranav	np-ant
 	eng	Preston	np-ant$np-ant-m-sg$$np	sco	Preston	np-ant
@@ -5761,7 +5761,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Solomon	np-ant$np-ant-m$np$np-ant-m-sg$	sco	Solomon	np-ant
 	eng	Sonny	np-ant$np$np-ant-m-sg	sco	Sonny	np-ant
 	eng	Spencer	np-ant$np-ant-m-sg$$np$np-ant-m	sco	Spencer	np-ant
-	eng	Stanislav Gross	np-ant$np$np-ant-m-sg	sco	Stanislav Gross	np-ant
+	eng	Stanislav Gross	np-ant$np	sco	Stanislav Gross	np-ant
 	eng	Stanley	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Stanley	np-ant
 	eng	Stefan	np-ant$np-ant-m$np-ant-m-sg$np$	sco	Stefan	np-ant
 	eng	Stephan	np-ant$np-ant-m-sg$np$np-ant-m	sco	Stephan	np-ant
@@ -5845,7 +5845,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Wesley	np-ant$np-ant-m-sg$np$np-ant-m	sco	Wesley	np-ant
 	eng	Weston	np-ant$np$np-ant-m-sg$$np-ant-m	sco	Weston	np-ant
 	eng	Will	np-ant$np$np-ant-m-sg	sco	Will	np-ant
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	sco	William	np-ant
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	sco	William	np-ant
 	eng	Willie	np-ant$np$np-ant-m-sg	sco	Willie	np-ant
 	eng	Wilson	np-ant$np$np-ant-m-sg$np-ant-m$	sco	Wilson	np-ant
 	eng	Winston	np-ant$np-ant-m-sg$np$np-ant-m	sco	Winston	np-ant
@@ -5878,10 +5878,10 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Albert	np$np-ant$np-ant-m$np-ant-m-sg	sco	Albert	np-ant
 	eng	Alberto	np-ant$np$np-ant-m-sg$np-ant-m	sco	Alberto	np-ant
 	eng	Alex	np-ant$np$np-ant-m$np-ant-m-sg	sco	Alex	np-ant
-	eng	Alexander	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Alexander	np-ant
+	eng	Alexander	np-ant$np$np-ant-m-sg$np-ant-m$	sco	Alexander	np-ant
 	eng	Andreu	np$np-ant$np-ant-m-sg	sco	Andreu	np-ant
 	eng	Anthony	np-ant$np$np-ant-m$np-ant-m-sg	sco	Anthony	np-ant
-	eng	Antoni	np$np-ant$np-ant-m-sg	sco	Antoni	np-ant
+	eng	Antoni	np$np-ant-m-sg$np-ant	sco	Antoni	np-ant
 	eng	Antonio	np-ant$np$np-ant-m$np-ant-m-sg	sco	Antonio	np-ant
 	eng	Artur	np$np-ant-m-sg$np-ant$np-ant-m	sco	Artur	np-ant
 	eng	Barak	np$np-ant$np-ant-m$np-ant-m-sg	sco	Barak	np-ant
@@ -5906,7 +5906,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Ferran	np$np-ant$np-ant-m-sg	sco	Ferran	np-ant
 	eng	Francesc	np$np-ant$np-ant-m-sg	sco	Francesc	np-ant
 	eng	Francisco	np-ant$np$np-ant-m-sg$np-ant-m	sco	Francisco	np-ant
-	eng	Gabriel	np-ant$np$np-ant-m$np-ant-m-sg	sco	Gabriel	np-ant
+	eng	Gabriel	np-ant$np$np-ant-m-sg$np-ant-m	sco	Gabriel	np-ant
 	eng	George	np-ant$np$np-ant-m$np-ant-m-sg$	sco	George	np-ant
 	eng	Gerard	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Gerard	np-ant
 	eng	Guillem	np$np-ant$np-ant-m-sg	sco	Guillem	np-ant
@@ -5918,7 +5918,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Jaime	np-ant$np$np-ant-m-sg	sco	Jaime	np-ant
 	eng	Jaume	np$np-ant$np-ant-m-sg	sco	Jaume	np-ant
 	eng	Javier	np-ant$np$np-ant-m$np-ant-m-sg	sco	Javier	np-ant
-	eng	Joan	np-ant$np$np-ant-m-sg	sco	Joan	np-ant
+	eng	Joan	np-ant$np-ant-m-sg$np	sco	Joan	np-ant
 	eng	Joaquim	np$np-ant$np-ant-m-sg	sco	Joaquim	np-ant
 	eng	Joe	np-ant$np$np-ant-m$np-ant-m-sg	sco	Joe	np-ant
 	eng	Joel	np-ant$np$np-ant-m-sg$np-ant-m	sco	Joel	np-ant
@@ -5926,21 +5926,21 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Jon	np-ant$np$np-ant-m-sg$np-ant-m	sco	Jon	np-ant
 	eng	Jordi	np-ant$np$np-ant-m-sg	sco	Jordi	np-ant
 	eng	Jorge	np-ant$np$np-ant-m-sg$np-ant-m	sco	Jorge	np-ant
-	eng	Josep	np$np-ant$np-ant-m$np-ant-m-sg	sco	Josep	np-ant
+	eng	Josep	np-ant-m-sg$np$np-ant$np-ant-m	sco	Josep	np-ant
 	eng	Joseph	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Joseph	np-ant
 	eng	José	np-ant$np$np-ant-m-sg$np-ant-m	sco	José	np-ant
-	eng	Juan	np-ant$np$np-ant-m-sg$np-ant-m	sco	Juan	np-ant
+	eng	Juan	np-ant-m-sg$np-ant$np$np-ant-m	sco	Juan	np-ant
 	eng	Juli	np$np-ant$np-ant-m-sg	sco	Juli	np-ant
 	eng	Manel	np-ant$np$np-ant-m-sg	sco	Manel	np-ant
 	eng	Manuel	np-ant$np$np-ant-m$np-ant-m-sg	sco	Manuel	np-ant
-	eng	Marc	np-ant$np$np-ant-m$np-ant-m-sg	sco	Marc	np-ant
+	eng	Marc	np-ant$np$np-ant-m-sg$np-ant-m	sco	Marc	np-ant
 	eng	Mario	np-ant$np$np-ant-m-sg$np-ant-m	sco	Mario	np-ant
 	eng	Mark	np-ant$np$np-ant-m$np-ant-m-sg	sco	Mark	np-ant
 	eng	Martin	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Martin	np-ant
 	eng	Martí	np$np-ant$np-ant-m-sg	sco	Martí	np-ant
 	eng	Martín	np-ant$np$np-ant-m-sg	sco	Martín	np-ant
 	eng	Michael	np-ant$np$np-ant-m$np-ant-m-sg$	sco	Michael	np-ant
-	eng	Miguel	np-ant$np$np-ant-m-sg$np-ant-m	sco	Miguel	np-ant
+	eng	Miguel	np-ant$np-ant-m-sg$np$np-ant-m	sco	Miguel	np-ant
 	eng	Mike	np-ant$np$np-ant-m$np-ant-m-sg	sco	Mike	np-ant
 	eng	Miquel	np$np-ant$np-ant-m-sg	sco	Miquel	np-ant
 	eng	Morgan	np-ant$np$np-ant-m-sg$np-ant-m$	sco	Morgan	np-ant
@@ -5951,7 +5951,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Pasqual	np$np-ant$np-ant-m-sg	sco	Pasqual	np-ant
 	eng	Pau	np$np-ant$np-ant-m-sg$np-ant-m	sco	Pau	np-ant
 	eng	Pep	np$np-ant$np-ant-m-sg	sco	Pep	np-ant
-	eng	Pere	np$np-ant$np-ant-m$np-ant-m-sg	sco	Pere	np-ant
+	eng	Pere	np$np-ant$np-ant-m-sg$np-ant-m	sco	Pere	np-ant
 	eng	Peter	np-ant$np$np-ant-m$np-ant-m-sg	sco	Peter	np-ant
 	eng	Philip	np-ant$np$np-ant-m-sg$np-ant-m$	sco	Philip	np-ant
 	eng	Rafael	np$np-ant$np-ant-m-sg$np-ant-m	sco	Rafael	np-ant
@@ -5972,30 +5972,30 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Tom	np$np-ant$np-ant-m$np-ant-m-sg	sco	Tom	np-ant
 	eng	Víctor	np$np-ant$np-ant-m-sg	sco	Víctor	np-ant
 	eng	Walter	np-ant$np$np-ant-m-sg$np-ant-m	sco	Walter	np-ant
-	eng	William	np-ant$np$np-ant-m$np-ant-m-sg	sco	William	np-ant
+	eng	William	np-ant$np$np-ant-m-sg$np-ant-m	sco	William	np-ant
 	eng	Wilson	np-ant$np$np-ant-m-sg$np-ant-m$	sco	Wilson	np-ant
 	eng	Xavier	np-ant$np$np-ant-m-sg$	sco	Xavier	np-ant
 	eng	Àngel	np-ant$np$np-ant-m-sg	sco	Àngel	np-ant
-	eng	James I	np-ant$np-ant-m-sg	sco	James I	np-ant
-	eng	James II	np-ant$np$np-ant-m-sg	sco	James II	np-ant
-	eng	George W. Bush	np$np-ant$np-ant-m-sg	sco	George W. Bush	np-ant
+	eng	James I	np-ant	sco	James I	np-ant
+	eng	James II	np-ant$np	sco	James II	np-ant
+	eng	George W. Bush	np$np-ant	sco	George W. Bush	np-ant
 	eng	J. M. Bischoff	np-ant$np	sco	J. M. Bischoff	np-ant
-	eng	Hashimoto Tetsuya	np-ant$np$np-ant-m-sg	sco	Hashimoto Tetsuya	np-ant
-	eng	Amano Hiroshi	np-ant$np$np-ant-m-sg	sco	Amano Hiroshi	np-ant
-	eng	Jürgen Trumpf	np-ant$np$np-ant-m-sg	sco	Jürgen Trumpf	np-ant
+	eng	Hashimoto Tetsuya	np-ant$np	sco	Hashimoto Tetsuya	np-ant
+	eng	Amano Hiroshi	np-ant$np	sco	Amano Hiroshi	np-ant
+	eng	Jürgen Trumpf	np-ant$np	sco	Jürgen Trumpf	np-ant
 	eng	uuml	np-ant	sco	uuml	np-ant
-	eng	Jürgen	np-ant$np$np-ant-m$np-ant-m-sg	sco	Jürgen	np-ant
+	eng	Jürgen	np-ant$np-ant-m-sg$np$np-ant-m	sco	Jürgen	np-ant
 	eng	uuml	np-ant	sco	uuml	np-ant
-	eng	Th. C. Hijzen	np-ant$np$np-ant-m-sg	sco	Th. C. Hijzen	np-ant
-	eng	Ken Saro-Wiwa	np-ant$np$np-ant-m-sg	sco	Ken Saro-Wiwa	np-ant
-	eng	Javier Solana Madariaga	np-ant$np$np-ant-m-sg	sco	Javier Solana Madariaga	np-ant
-	eng	Pierre De Boissieu	np-ant$np$np-ant-m-sg	sco	Pierre De Boissieu	np-ant
-	eng	Jørgen Mohr	np-ant$np$np-ant-m-sg	sco	Jørgen Mohr	np-ant
-	eng	Juan Manuel Fabra Valles	np-ant$np$np-ant-m-sg	sco	Juan Manuel Fabra Valles	np-ant
-	eng	Armindo de Jesus de Sousa Ribeiro	np-ant$np$np-ant-m-sg	sco	Armindo de Jesus de Sousa Ribeiro	np-ant
-	eng	Jan O. Karlsson	np-ant$np$np-ant-m-sg	sco	Jan O. Karlsson	np-ant
-	eng	José Manuel Durão Barroso	np-ant$np$np-ant-m-sg	sco	José Manuel Durão Barroso	np-ant
-	eng	Vítor Manuel da Silva Caldeira	np-ant$np$np-ant-m-sg	sco	Vítor Manuel da Silva Caldeira	np-ant
+	eng	Th. C. Hijzen	np-ant$np	sco	Th. C. Hijzen	np-ant
+	eng	Ken Saro-Wiwa	np-ant$np	sco	Ken Saro-Wiwa	np-ant
+	eng	Javier Solana Madariaga	np-ant$np	sco	Javier Solana Madariaga	np-ant
+	eng	Pierre De Boissieu	np-ant$np	sco	Pierre De Boissieu	np-ant
+	eng	Jørgen Mohr	np-ant$np	sco	Jørgen Mohr	np-ant
+	eng	Juan Manuel Fabra Valles	np-ant$np	sco	Juan Manuel Fabra Valles	np-ant
+	eng	Armindo de Jesus de Sousa Ribeiro	np-ant$np	sco	Armindo de Jesus de Sousa Ribeiro	np-ant
+	eng	Jan O. Karlsson	np-ant$np	sco	Jan O. Karlsson	np-ant
+	eng	José Manuel Durão Barroso	np-ant$np	sco	José Manuel Durão Barroso	np-ant
+	eng	Vítor Manuel da Silva Caldeira	np-ant$np	sco	Vítor Manuel da Silva Caldeira	np-ant
 	eng	Väino	np-ant$np$np-ant-m-sg	sco	Väino	np-ant
 	eng	Tönis	np-ant$np$np-ant-m-sg	sco	Tönis	np-ant
 	eng	ouml	np-ant	sco	ouml	np-ant
@@ -6010,8 +6010,8 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Dragomir	np-ant$np-ant-m-sg$np$np-ant-m	sco	Dragomir	np-ant
 	eng	László	np-ant$np$np-ant-m-sg	sco	László	np-ant
 	eng	Slobodan	np-ant$np-ant-m$np-ant-m-sg$np	sco	Slobodan	np-ant
-	eng	Mikhail Gorbachev	np-ant$np-ant-m-sg	sco	Mikhail Gorbachev	np-ant
-	eng	Mikhail Sergeyevich Gorbachev	np-ant$np-ant-m-sg	sco	Mikhail Sergeyevich Gorbachev	np-ant
+	eng	Mikhail Gorbachev	np-ant	sco	Mikhail Gorbachev	np-ant
+	eng	Mikhail Sergeyevich Gorbachev	np-ant	sco	Mikhail Sergeyevich Gorbachev	np-ant
 	eng	Benet	np-ant$np$np-ant-m-sg	sco	Benet	np-ant
 	eng	Laurence	np-ant$np$np-ant-m$np-ant-m-sg	sco	Laurence	np-ant
 	eng	Llorenç	np-ant$np$np-ant-m-sg	sco	Llorenç	np-ant
@@ -6743,7 +6743,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Jidit	np-ant$np$np-ant-f-sg	sco	Jidit	np-ant
 	eng	Jidith	np-ant$np$np-ant-f-sg	sco	Jidith	np-ant
 	eng	Jimena	np-ant$np$np-ant-f-sg	sco	Jimena	np-ant
-	eng	Joana	np-ant$np-ant-f$np$np-ant-f-sg	sco	Joana	np-ant
+	eng	Joana	np-ant$np-ant-f$np-ant-f-sg$np	sco	Joana	np-ant
 	eng	Joaquina	np-ant$np$np-ant-f-sg	sco	Joaquina	np-ant
 	eng	Jobanela	np-ant$np$np-ant-f-sg	sco	Jobanela	np-ant
 	eng	Johana	np-ant$np-ant-f-sg$np	sco	Johana	np-ant
@@ -7174,7 +7174,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Pía	np-ant$np$np-ant-f-sg	sco	Pía	np-ant
 	eng	Piedad	np-ant$np$np-ant-f-sg	sco	Piedad	np-ant
 	eng	Pierina	np-ant$np$np-ant-f-sg	sco	Pierina	np-ant
-	eng	Pilar	np-ant$np$np-ant-f-sg	sco	Pilar	np-ant
+	eng	Pilar	np-ant$np-ant-f-sg$np	sco	Pilar	np-ant
 	eng	Pilmaiquen	np-ant$np$np-ant-f-sg	sco	Pilmaiquen	np-ant
 	eng	Pilmayquen	np-ant$np$np-ant-f-sg	sco	Pilmayquen	np-ant
 	eng	Plácida	np-ant$np$np-ant-f-sg	sco	Plácida	np-ant
@@ -7270,7 +7270,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Rosángela	np-ant$np$np-ant-f-sg	sco	Rosángela	np-ant
 	eng	Rosario	np-ant$np$np-ant-f-sg	sco	Rosario	np-ant
 	eng	Rosarito	np-ant$np$np-ant-f-sg	sco	Rosarito	np-ant
-	eng	Rosaura	np-ant$np$np-ant-f-sg	sco	Rosaura	np-ant
+	eng	Rosaura	np-ant$np-ant-f-sg$np	sco	Rosaura	np-ant
 	eng	Rosenda	np-ant$np$np-ant-f-sg	sco	Rosenda	np-ant
 	eng	Rosilda	np-ant$np$np-ant-f-sg	sco	Rosilda	np-ant
 	eng	Rosina	np-ant$np$np-ant-f-sg	sco	Rosina	np-ant
@@ -8149,7 +8149,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Jewel	np-ant$np$np-ant-f-sg	sco	Jewel	np-ant
 	eng	Jillian	np-ant$np$np-ant-f-sg	sco	Jillian	np-ant
 	eng	Jimena	np-ant$np$np-ant-f-sg	sco	Jimena	np-ant
-	eng	Joana	np-ant$np-ant-f$np$np-ant-f-sg	sco	Joana	np-ant
+	eng	Joana	np-ant$np-ant-f$np-ant-f-sg$np	sco	Joana	np-ant
 	eng	Joanna	np-ant$np-ant-f-sg$np	sco	Joanna	np-ant
 	eng	Jocelyn	np-ant$np$np-ant-f-sg	sco	Jocelyn	np-ant
 	eng	Jodie	np-ant$np$np-ant-f-sg	sco	Jodie	np-ant
@@ -8377,7 +8377,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Marcella	np-ant$np$np-ant-f-sg	sco	Marcella	np-ant
 	eng	Margaret	np-ant$np$np-ant-f-sg$np-ant-f	sco	Margaret	np-ant
 	eng	Margarita	np-ant$np-ant-f-sg$np	sco	Margarita	np-ant
-	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg	sco	Maria	np-ant
+	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f	sco	Maria	np-ant
 	eng	Mariah	np-ant$np$np-ant-f-sg	sco	Mariah	np-ant
 	eng	Mariam	np-ant$np-ant-f-sg$np	sco	Mariam	np-ant
 	eng	Mariana	np-ant$np-ant-f-sg$np	sco	Mariana	np-ant
@@ -8705,9 +8705,9 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Hillary	np$np-ant$np-ant-f-sg	sco	Hillary	np-ant
 	eng	Irene	np-ant$np$np-ant-f-sg	sco	Irene	np-ant
 	eng	Isabel	np-ant$np$np-ant-f-sg	sco	Isabel	np-ant
-	eng	Jan	np-ant$np$np-ant-m$np-ant-m-sg	sco	Jan	np-ant
+	eng	Jan	np-ant$np$np-ant-m-sg$np-ant-m	sco	Jan	np-ant
 	eng	Jane	np-ant$np$np-ant-f-sg$np-ant-f	sco	Jane	np-ant
-	eng	Joan	np-ant$np$np-ant-m-sg	sco	Joan	np-ant
+	eng	Joan	np-ant$np-ant-m-sg$np	sco	Joan	np-ant
 	eng	Lara	np-ant$np$np-ant-f-sg	sco	Lara	np-ant
 	eng	Laura	np-ant$np$np-ant-f$np-ant-f-sg	sco	Laura	np-ant
 	eng	Lorena	np-ant$np-ant-f-sg$np	sco	Lorena	np-ant
@@ -8715,7 +8715,7 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Magdalena	np-ant$np$np-ant-f-sg	sco	Magdalena	np-ant
 	eng	Mar	np$np-ant-f-sg$np-ant	sco	Mar	np-ant
 	eng	Margaret	np-ant$np$np-ant-f-sg$np-ant-f	sco	Margaret	np-ant
-	eng	Maria	np-ant$np$np-ant-f$np-ant-f-sg	sco	Maria	np-ant
+	eng	Maria	np-ant$np$np-ant-f-sg$np-ant-f	sco	Maria	np-ant
 	eng	Marta	np$np-ant-f-sg$np-ant	sco	Marta	np-ant
 	eng	Mary	np$np-ant$np-ant-f$np-ant-f-sg	sco	Mary	np-ant
 	eng	María	np$np-ant$np-ant-f$np-ant-f-sg	sco	María	np-ant
@@ -8730,8 +8730,8 @@ RL	eng	woman	n$n-ND	sco	wifie	n
 	eng	Sandra	np-ant$np$np-ant-f-sg$np-ant-f	sco	Sandra	np-ant
 	eng	Sara	np-ant$np$np-ant-f-sg	sco	Sara	np-ant
 	eng	Sofia	np-ant$np$np-ant-f-sg	sco	Sofia	np-ant
-	eng	Máire Geoghegan-Quinn	np-ant$np$np-ant-f-sg	sco	Máire Geoghegan-Quinn	np-ant
-	eng	Laure Batut	np-ant$np$np-ant-f-sg	sco	Laure Batut	np-ant
+	eng	Máire Geoghegan-Quinn	np-ant$np	sco	Máire Geoghegan-Quinn	np-ant
+	eng	Laure Batut	np-ant$np	sco	Laure Batut	np-ant
 	eng	Antònia	np-ant$np$np-ant-f-sg	sco	Antònia	np-ant
 	eng	Bàrbara	np-ant$np$np-ant-f-sg	sco	Bàrbara	np-ant
 	eng	Clàudia	np-ant$np$np-ant-f-sg	sco	Clàudia	np-ant

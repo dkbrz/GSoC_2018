@@ -1,13 +1,13 @@
 	fin	Aadam	np	swe	Adam	np$np-ant-m-sg-ind
 	fin	Aasia	np	swe	Asia	np-top
 	fin	Ahvenanmaa	np	swe	Åland	np$np-top-nt
-	fin	Aleksanteri	np	swe	Alexander	np$np-ant-m
+	fin	Aleksanteri	np	swe	Alexander	np$np-top
 	fin	Berliini	np	swe	Berlin	np-top-nt$np
 	fin	Eeden	np	swe	Eden	np
-	fin	Helsinki	np	swe	Helsingfors	np$np-top$np-top-ut
+	fin	Helsinki	np	swe	Helsingfors	np-top$np$np-top-ut
 	fin	Jumala	np	swe	Gud	np$np-al
 	fin	Tukholma	np	swe	Stockholm	np-top-nt$np-top
-	fin	Van	np	swe	Van	np
+	fin	Van	np	swe	Van	np-top$np
 	fin	de	np$np-cog-sg-nom	swe	de	np
 	fin	Acapulco	np	swe	Acapulco	np
 	fin	Acer	np	swe	Acer	np
@@ -142,7 +142,7 @@
 	fin	koira	n$n-ND	swe	hund	n-ut
 	fin	kuusi	n$n-ND	swe	gran	n-ut
 	fin	kuu	n$n-ND	swe	måne	n-ut
-	fin	kysymys	n$n-ND	swe	fråga	n-ut$
+	fin	kysymys	n$n-ND	swe	fråga	$n-ut
 	fin	käsi	n$n-ND	swe	hand	n-ut
 	fin	lapsi	n$n-ND	swe	barn	n-nt
 	fin	laskeminen	n	swe	räkning	n-ut
@@ -1443,7 +1443,7 @@ LR	fin	ko	qst	swe		$det-qnt
 	fin	ulosvirtaus	n	swe	utflöde	n-ut
 	fin	neljännes	n	swe	kvarter	n-ut
 	fin	aspiskyy	n	swe	asp	n-ut
-	fin	ongelma	n	swe	fråga	n-ut$
+	fin	ongelma	n	swe	fråga	$n-ut
 	fin	merkkipäivä	n	swe	jubileum	n-ut
 	fin	organisaatio	n	swe	organisation	n-ut
 	fin	ydin	n	swe	kärna	n-ut$

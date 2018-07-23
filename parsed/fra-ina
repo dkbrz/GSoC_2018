@@ -53,7 +53,7 @@ LR	fra	il	prn$prn-tn-p3-m-sg$prn-tn$prn-tn-p3	ina	illo	prn-p3-mf-sg-nom
 LR	fra	il	prn-tn-p3-f-sg$prn-p3-f-sg	ina	illo	prn-p3-mf-sg-nom
 RL	fra	il	prn$prn-tn-p3-m-sg$prn-tn$prn-tn-p3	ina	ille	prn-p3-m-sg-nom$prn
 RL	fra	il	prn-tn-p3-f-sg$prn-p3-f-sg	ina	ille	prn-p3-f-sg-nom
-	fra	nous	prn-tn-p1-mf$prn$prn-tn$prn-tn-p1$prn-tn-p1-mf-pl	ina	nos	prn-p1-mf-pl-nom$prn
+	fra	nous	prn-tn-p1-mf$prn$prn-tn-p1$prn-tn$prn-tn-p1-mf-pl	ina	nos	prn-p1-mf-pl-nom$prn
 	fra	vous	prn-tn-p2-mf-pl$prn$prn-tn-p2-mf$prn-tn$prn-tn-p2	ina	vos	prn-p2-mf-pl-nom$prn
 	fra	il	prn-tn-p3-m-pl	ina	illos	prn-p3-mf-pl-nom
 LR	fra	il	prn-tn-p3-m-pl	ina	illos	prn-p3-mf-pl-nom
@@ -114,7 +114,7 @@ LR	fra	mon	det-pos-mf-pl$pos	ina	mi	det-pos-sp
 RL	fra	le	det-def-nd-gd	ina	le	det-def-sp$det
 LR	fra	un	det-ind-m-sg	ina	un	det-ind-sp
 LR	fra	un	det-ind-f-sg	ina	un	det-ind-sp
-LR	fra	un	det-ind-mf-pl$det-ind$det	ina	un	det-ind-sp
+LR	fra	un	det-ind-mf-pl$det-ind$det$det-ind-mf	ina	un	det-ind-sp
 RL	fra	un	det-ind-nd-gd	ina	un	det-ind-sp
 LR	fra	ce	det-dem-m-sg$det-dem-m	ina	iste	det-def-sp$det
 LR	fra	ce	det-dem-f-sg$det-dem-f	ina	iste	det-def-sp$det
@@ -429,7 +429,7 @@ LR	fra	horloge	n-f$n-f-ND	ina	horologio	n
 	fra	océan	n-m$n$n-m-ND	ina	oceano	n
 	fra	odeur	n-m	ina	odor	n
 	fra	offre	n-f$n$n-f-ND	ina	offerta	n
-	fra	être	n$n-m$n-m-ND	ina	esser	n
+	fra	être	n-m$n$n-m-ND	ina	esser	n
 	fra	calme	n-mf	ina	calma	n
 	fra	campement	n-m$n	ina	campamento	n
 	fra	chiffre	n-m$n$n-m-ND	ina	cifra	n

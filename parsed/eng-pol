@@ -372,7 +372,7 @@ RL	eng	army	n$n-sg	pol	armia	n-f$n
 	eng	arrears	n$n-pl	pol	zaległość	n-f
 	eng	arrest	n$n-ND	pol	aresztowanie	n$n-nt
 	eng	arrestee	n	pol	aresztant	n$n-mp
-	eng	arrested	n-pl$n	pol	aresztowany	n$n-mp
+	eng	arrested	n$n-pl	pol	aresztowany	n$n-mp
 	eng	arrival	n$n-ND	pol	przybycie	n-nt
 	eng	arrogance	n	pol	arogancja	n-f
 	eng	arrow	n$n-sg	pol	strzała	n-f
@@ -2373,7 +2373,7 @@ RL	eng	expert	n$n-sg	pol	rzeczoznawca	n$n-mp
 	eng	floutist	n	pol	flecista	n-mp
 RL	eng	flower bed	n	pol	klomb	n$n-mi
 	eng	flower bed	n	pol	kwietnik	n-mi
-	eng	flu	n$n-ND	pol	grypa	n-f
+	eng	flu	n$n-sg	pol	grypa	n-f
 	eng	fluctuation	n	pol	fluktuacja	n-f
 	eng	fluid	n	pol	płyn	n-mi$n
 	eng	flux	n	pol	przepływ	n-mi$n
@@ -3436,7 +3436,7 @@ RL	eng	idol	n$n-ND	pol	bożyszcze	n$n-mp
 	eng	life	n$n-sg	pol	życie	n-nt$n
 	eng	ligament	n	pol	ścięgno	n-nt$n
 	eng	light	n$n-ND	pol	światło	n-nt
-	eng	lightning	n$n-unc	pol	błyskawica	n-f$n
+	eng	lightning	n$n-sg	pol	błyskawica	n-f$n
 	eng	likeness	n	pol	podobizna	n-f
 	eng	lily	n$n-ND	pol	lilia	n-f$n
 	eng	limit	n$n-ND	pol	limit	n-mi
@@ -3510,7 +3510,7 @@ RL	eng	idol	n$n-ND	pol	bożyszcze	n$n-mp
 	eng	luxury	n$n-ND	pol	luksus	n-mi
 	eng	lynx	n	pol	ryś	n-ma
 	eng	lyre	n$n-ND	pol	lira	n-f$n
-	eng	lyric	n-pl$n	pol	utwór	n-mi
+	eng	lyric	n$n-pl	pol	utwór	n-mi
 	eng	lyricism	n	pol	liryzm	n-mi$n
 	eng	mace	n	pol	buzdygan	n-mi
 	eng	machery	n	pol	maszyneria	n-f
@@ -5088,7 +5088,7 @@ RL	eng	rumour	n$n-ND	pol	pogłoska	n-f$n
 	eng	salmonella	n$n-unc	pol	salmonella	n-f
 	eng	saloon	n	pol	piwiarnia	n-f
 	eng	saloon	n	pol	szynk	n$n-mi
-	eng	salt	n$n-ND	pol	sól	n-mi
+	eng	salt	n$n-sg	pol	sól	n-mi
 	eng	saltpeter	n	pol	saletra	n-f
 	eng	saltworks	n	pol	warzelnia	n-f
 	eng	salvation	n$n-ND	pol	zbawienie	n-nt
@@ -6368,15 +6368,15 @@ RL	eng	stomach	n$n-ND	pol	bandzioch	n-mi
 RL	eng	tram	n$n-sg	pol	tramwajka	n-f
 RL	eng	wafer	n	pol	andrut	n-mi
 	eng	Poland	np-top$np$np-top-sg	pol	Polska	np-top-f$np
-	eng	Baltic Sea	np$np-top$np-top-m-sg	pol	Morze Bałtyckie	np$np-hyd-nt
-	eng	Mediterranean Sea	np$np-top$np-top-nt-sg	pol	Morze Śródziemne	np$np-hyd-nt
+	eng	Baltic Sea	np$np-top	pol	Morze Bałtyckie	np$np-hyd-nt
+	eng	Mediterranean Sea	np$np-top	pol	Morze Śródziemne	np$np-hyd-nt
 	eng	Alboran Sea	np-top	pol	Morze Alborańskie	np-hyd-nt
 	eng	Balearic Sea	np-top	pol	Morze Balearskie	np-hyd-nt
 	eng	Ligurian Sea	np-top	pol	Morze Liguryjskie	np-hyd-nt
 	eng	Tyrrhenian Sea	np-top	pol	Morze Tyrreńskie	np-hyd-nt
 	eng	Ionian Sea	np$np-top	pol	Morze Jońskie	np-hyd-nt
-	eng	Adriatic Sea	np-top$np-top-sg$np-top-nt-sg$np	pol	Morze Adriatyckie	np-hyd-nt
-	eng	Aegean Sea	np-top$np$np-top-sg$np-top-nt-sg	pol	Morze Egejskie	np-hyd-nt
+	eng	Adriatic Sea	np-top$np	pol	Morze Adriatyckie	np-hyd-nt
+	eng	Aegean Sea	np-top$np	pol	Morze Egejskie	np-hyd-nt
 	eng	Sea of Sicily	np-top	pol	Morze Sycylijskie	np-hyd-nt
 	eng	Thracian Sea	np-top	pol	Morze Trackie	np-hyd-nt
 	eng	Myrtoan Sea	np-top	pol	Morze Mirtejskie	np-hyd-nt
@@ -6384,15 +6384,15 @@ RL	eng	wafer	n	pol	andrut	n-mi
 	eng	 Sea	np-top	pol	Morze Cypryjskie	np-hyd-nt
 	eng	 Sea	np-top	pol	Morze Lewantyńskie	np-hyd-nt
 	eng	Libyan Sea	np-top	pol	Morze Libijskie	np-hyd-nt
-	eng	Red Sea	np-top$np$np-top-sg$np-top-nt-sg	pol	Morze Czerwone	np-hyd-nt
-	eng	Dead Sea	np-top$np$np-top-sg$np-top-nt-sg	pol	Morze Martwe	np-hyd-nt
-	eng	Irish Sea	np$np-top$np-top-m-sg	pol	Morze Irlandzkie	np-hyd-nt
-	eng	Sea of Galilee	np-top-m-sg$np-top$np-top-sg	pol	Jezioro Tyberiadzkie	np-hyd-nt
+	eng	Red Sea	np-top$np	pol	Morze Czerwone	np-hyd-nt
+	eng	Dead Sea	np-top$np	pol	Morze Martwe	np-hyd-nt
+	eng	Irish Sea	np$np-top	pol	Morze Irlandzkie	np-hyd-nt
+	eng	Sea of Galilee	np-top	pol	Jezioro Tyberiadzkie	np-hyd-nt
 LR	eng	Lake Kinneret	np-top	pol	Jezioro Tyberiadzkie	np-hyd-nt
 LR	eng	Lake Tiberius	np-top	pol	Jezioro Tyberiadzkie	np-hyd-nt
 LR	eng	Lake Tiberias	np-top	pol	Jezioro Tyberiadzkie	np-hyd-nt
 LR	eng	Lake Galilee	np-top	pol	Jezioro Tyberiadzkie	np-hyd-nt
-	eng	Sea of Galilee	np-top-m-sg$np-top$np-top-sg	pol	Jezioro Tyberiadzkie	np-hyd-nt
+	eng	Sea of Galilee	np-top	pol	Jezioro Tyberiadzkie	np-hyd-nt
 	eng	Trenčín	np-top	pol	Trenczyn	np-top-mi
 	eng	Nitra	np-top	pol	Nitra	np-top-f
 	eng	Žilina	np-top	pol	Żylina	np-top-f
@@ -6443,8 +6443,8 @@ RL	eng	Čadca	np-top	pol	Czaca	np-top-f
 	eng	Bangui	np-top$np-top-sg	pol	Bangi	np-top-ND
 	eng	Bavaria	np-top$np$np-top-sg	pol	Bawaria	np-top-f$np
 	eng	Belarus	np-top$np$np-top-sg	pol	Białoruś	np-top-f$np
-	eng	Berlin	np-top$np$np-top-sg	pol	Berlin	np-top-mi$np
-	eng	Bosnia	np-top$np$np-top-f	pol	Bośnia	np-top-f$np
+	eng	Berlin	np-top$np$np-top-sg$np-top-m-sg	pol	Berlin	np-top-mi$np
+	eng	Bosnia	np-top$np$np-top-sg	pol	Bośnia	np-top-f$np
 	eng	Brazil	np-top$np$np-top-sg	pol	Brazylia	np-top-f$np
 	eng	Brittany	np-top$np-top-sg	pol	Bretania	np-top-f
 	eng	Bucharest	np-top$np-top-sg	pol	Bukareszt	np-top-mi
@@ -6472,7 +6472,7 @@ RL	eng	Čadca	np-top	pol	Czaca	np-top-f
 	eng	France	np-top$np$np-top-sg	pol	Francja	np-top-f$np
 	eng	Galicia	np-top$np-top-sg	pol	Galicja	np-top-f
 	eng	Greece	np-top$np$np-top-sg	pol	Grecja	np-top-f$np
-	eng	Greenland	np-top$np$np-top-sg	pol	Grenlandia	np-top-f$np
+	eng	Greenland	np-top$np$np-top-sg$np-top-nt-sg	pol	Grenlandia	np-top-f$np
 	eng	Georgia	np-top$np$np-top-sg	pol	Gruzja	np-top-f$np
 	eng	Holland	np-top$np-top-sg$np$	pol	Holandia	np-top-f$np
 	eng	Indonesia	np-top$np$np-top-sg	pol	Indonezja	np-top-f$np
@@ -6518,7 +6518,7 @@ RL	eng	Čadca	np-top	pol	Czaca	np-top-f
 	eng	Torun	np-top	pol	Toruń	np-top-mi
 	eng	Ulyanovsk	np-top$np-top-sg	pol	Ulianowsk	np-top-mi
 	eng	Uzhhorod	np-top	pol	Użgorod	np-top-mi
-	eng	Vatican City	np-top$np-top-m$np$np-top-m-sg	pol	Watykan	np-top-mi$np
+	eng	Vatican City	np-top$np-top-m$np	pol	Watykan	np-top-mi$np
 	eng	Vienna	np-top$np$np-top-sg	pol	Wiedeń	np-top-mi
 	eng	Vileyka	np-top	pol	Wilejka	np-top-f
 	eng	Vaasa	np-top-sg$np$np-top	pol	Waza	np-top-f
