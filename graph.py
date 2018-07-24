@@ -72,6 +72,12 @@ parser_configure.add_argument('lang1', type=str, action='store')
 parser_configure.add_argument('lang2', type=str, action='store')
 parser_configure.set_defaults(func=convert_to_dix)
 
+#merge dialects
+parser_merge = subparsers.add_parser('merge')
+parser_merge.add_argument('--lang1', type=str, action='store', nargs='+')
+parser_merge.add_argument('--lang2', type=str, action='store', nargs='+')
+parser_merge.set_defaults(func=merge)
+
 args = parser.parse_args()
 arg_spec = inspect.getargspec(args.func)
 if arg_spec.keywords:

@@ -744,3 +744,14 @@ def convert_to_dix(lang1, lang2):
         xml = f.read()
     with open("{}-{}-new".format(lang1, lang2), 'w', encoding='utf-8') as f:
         f.write(xml.replace('<e','\n    <e').replace('</section>','\n</section>'))
+
+def merge(lang1, lang2):
+    with open ('{}-{}-merged'.format(lang1[0].upper(), lang2[0].upper()), 'w', encoding='utf-8') as result:
+        for i in lang1:
+            for j in lang2:
+                with open("{}-{}-new".format(i, j), 'r', encoding='utf-8') as f:
+                    text = f.read()
+                    if len(i.split('_')) > 1: i = '_'.join(i.split('_')[1:])
+                    if len(j.split('_')) > 1: j = '_'.join(j.split('_')[1:])    
+                    text = text.replace('<e', '<e vl=\'{}\' vr=\'{}\' '.format(i, j))
+                    result.write(text + '\n\n')
