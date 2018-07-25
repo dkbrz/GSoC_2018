@@ -218,3 +218,152 @@ Reads artificial monodix and creates a dictionary with all word in this language
 
 **get_relevant_languages**
 
+Recommendations for choosing best languages to include in graph.
+
+Graph:
+
+- nodes - languages
+- edges - weighted existing bilingual dictionaries
+
+Weights:
+
+EdgeWeight = 1 / log10(both_sides + 0.5*LR + 0.5*RL)
+
+In this graph we take 300 best (shortest) paths between 2 languages and those languges that occur in these paths are recommended. They are sorted in order of length of the best path in which they occur.
+
+Example: eng-spa
+
+```
+0.22082497988083025	eng	:	eng spa
+0.22082497988083025	spa	:	eng spa
+0.4250627830992572	cat	:	eng cat spa
+0.44444829199452307	epo	:	eng epo spa
+...
+0.6661607856269738	nor	:	eng nor ita spa
+0.66687498614133	arg	:	eng cat arg spa
+...
+1.0200843703377707	sme	:	eng fin sme eus spa
+1.0451794809559942	cos	:	eng ita cos spa
+1.0551281116166376	dan	:	eng nor dan deu spa
+```
+
+**load_file**
+
+It takes top-N languages from configuration file and merges bilingual dictionaries (preprocessed) with both languages in this short list.
+
+**parse_line**
+
+It parses line in loading file (with edges) and returns side (LR, RL, both) and two Word objects.
+
+**built_from_file**
+
+This function returns a graph based on loading file (this graph will be used in further ditionary enrichment)
+
+**dictionaries**
+
+Returns two dictionaries (from pair we want to enrich) as SetWithFilter. So we can go through all words and create suggestions about possible translations.
+
+**check_graph**
+
+Probably for ipynb. Shows graph of languages that will be included in graph (languages and bilingual dictionaries).
+
+## Search
+
+**metric**
+
+Evaluates translation (word+translation).
+
+coefficient = sum(exp^(-i)), i - length of path from all simple paths between word and translation with set cutoff.
+
+**_single_shortest_path_length**
+
+Variant of NetworkX function _single_shortest_path_length
+
+Yields all possible translations with cutoff. 
+
+Cutoff: n steps from source node + stops when target language node occur or there are more then 10 variants (less then 10 + next level(cutoff))
+
+**possible_translations**
+
+Wrapper for previous _single_shortest_path_length function.
+
+**evaluate**
+
+Evaluates candidates from possible translations.
+
+Options:
+
+1. topn - returns top-N candidates
+2. "auto" - relevant candidates
+
+"auto"
+
+If there are 10+ candidates returns those that have coefficient more than average. Usually there are top variants and other variants have very low coefficient. So it filters relevant candidates based on particular case coefficients
+
+If there are less than 10 candidates, adds coefficients with minimal coefficient to get more reliable data. And then it returns same top candidates.
+
+## Evaluation
+
+**node_search**
+
+Returns translations (without coefficients) for a particular node using possible_translations and evaluate functions.
+
+**two_node_search**
+
+Evaluation of pair of real translations.
+
+LR: if the right one is in translations and index < topn +0.5, index >= topn +0.01
+
+The same for RL side.
+
+1: both sides right
+
+0: both sides wrong
+
+(0,1): there is some truth but not perfect translation
+
+**_one_iter**
+
+One iteration of evaluation.
+
+1. Select up to 1000 random mutually unambiguous pairs.
+2. Evaluate with two_node_search
+3. Calculate precision, recall, f1
+
+```
+# all perfect to perfect+non-zero
+precision = sum(1 for i in result if i == 1) / sum(1 for i in result if i > 0)
+# all perfect to all
+recall = sum(1 for i in result if i == 1) / sum(1 for i in result)
+# usual f1
+f1 = 2 * precision * recall / (precision + recall)
+``` 
+
+**eval_loop**
+
+Calculates precision, recall and f1 for language pair.
+
+
+**addition**
+
+How many entries we can add LR and RL side (both only after merging - in a real file)
+
+
+**get_translations**
+
+1. Loading dictionaries
+2. Building graph
+3. Searching for non-existent translations
+4. Writing preview file (for human assessment)
+
+**parse_preview_line**
+
+Subfunction to the one below. It parses a line in a preview file and returns side + 2 Word objects
+
+**convert_to_dix**
+
+Converting preview file into section for usual .dix file.
+
+**merge**
+
+Merging files with different dialects. All languages or dialects are written in vr and vl tags.

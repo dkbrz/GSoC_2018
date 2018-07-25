@@ -229,6 +229,7 @@ def split_dialects():
             f.write('\n'.join(file_list2))
 
 # PREPROCESSING AND BUILDING
+
 def all_languages():
     s = set()
     with open ('./tool/langs.py','w',encoding='utf-8') as outp:
@@ -548,27 +549,27 @@ def evaluate(G, word, candidates, cutoff=4, topn=None):
         result = [x for x in result if x[1] > mean]
         return result
 
-def lemma_search (G, lemma, d_l1, l2, cutoff=4, topn=None):
-    lemmas = [i for i in d_l1.lemma(lemma) if i in G.nodes()]
-    results = {word:{} for word in lemmas}
-    for word in lemmas:
-        candidates = possible_translations(G, word, l2, cutoff=cutoff)
-        results[word] = evaluate(G, word, candidates, cutoff=cutoff, topn=topn)
-        del candidates
-    return results
+#def lemma_search (G, lemma, d_l1, l2, cutoff=4, topn=None):
+#    lemmas = [i for i in d_l1.lemma(lemma) if i in G.nodes()]
+#    results = {word:{} for word in lemmas}
+#    for word in lemmas:
+#        candidates = possible_translations(G, word, l2, cutoff=cutoff)
+#        results[word] = evaluate(G, word, candidates, cutoff=cutoff, topn=topn)
+#        del candidates
+#    return results
 
-def print_results(results, n=7):
-    for i in results:
-        print ('\n\t\t', i)
-        for j in sorted(results[i], key=results[i].get, reverse=True)[:n]:
-            print (j, results[i][j])
+#def print_results(results, n=7):
+#    for i in results:
+#        print ('\n\t\t', i)
+#        for j in sorted(results[i], key=results[i].get, reverse=True)[:n]:
+#            print (j, results[i][j])
 
-def print_lemma_results(results, n=10):
-    for i in results:
-        print ('\t\t', i)
-        for j in results[i]:
-            print ('{}\t{}'.format(j[0], j[1]))
-        print()
+#def print_lemma_results(results, n=10):
+#    for i in results:
+#        print ('\t\t', i)
+#        for j in results[i]:
+#            print ('{}\t{}'.format(j[0], j[1]))
+#        print()
 
 # EVALUATION
 
