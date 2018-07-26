@@ -10,7 +10,7 @@ It has three main attributes:
 
 - lemma : the word itself (e.g. 'table', 'football club')
 - lang : language (e.g. 'eng', 'rus')
-- s: tags (s-tags from dictinary) (e.g. 'n', 'sg', 'np')
+- s : tags (s-tags from dictionary) (e.g. 'n', 'sg', 'np')
 
 Dialect is not included as it is quite rare at this time (specified for 3 languages (nor, por, cat) and for a couple of words in English.
 
@@ -42,7 +42,7 @@ Write method:
 
 One set of tags (e.g. n+m+sg)
 
-Equal : match
+Equal : perfect match
 
 Less or equal : the second is not smaller than the first one, intersection = first.
 
@@ -60,7 +60,7 @@ It has the only attribute lemma that contains lemma and a method with the same n
 
 **FilteredDict**
 
-
+Dictionary for counting how many variants of tag occur. Filter by lemma. Key: lemma, value: dictionary with tag combination keys and number of entries with this combination.
 
 **DiGetItem**
 
@@ -98,11 +98,25 @@ All the same but with dictionary
 ## Loading
 
 **set_github_user**
+```
+set_github_user(user, password)
+
+user : username
+password : password
+```
 
 Saves username and password so Github Python library can work (to download all bilingual dictionaries)
 
 
 **l**
+
+```
+l(lang)
+
+lang : language code to convert
+
+Return : conventional 3-letter name (or the same if not in dictionary)
+```
 
 Language code converter
 
@@ -110,6 +124,13 @@ This function takes dictionary from data file where there are 2-letter code and 
 
 **repo_names**
 
+```
+repo_names(user)
+
+user: user object from Github library
+
+Yield : repository names
+```
 Takes repositories from Apertium Github that match language pair name pattern.
 
 ```
@@ -118,11 +139,22 @@ Takes repositories from Apertium Github that match language pair name pattern.
 
 **bidix_url**
 
-Find raw url for bidix. Sorting in order to find bidix faster as it is one of the longest filename in repository.
+```
+bidix_url(repo)
+
+repo : repository object from Github library
+
+Return : bidix raw url
+```
+Finds raw url for bidix. Sorting in order to find bidix faster as it is one of the longest filename in repository.
 
 In list of files sorted by length it checks whether filename matches bilingual dictionary name pattern until one is found or there are no more elements in file list.
 
 **download**
+
+```
+download()
+```
 
 This function combines previous functions.
 
@@ -131,6 +163,14 @@ This function combines previous functions.
 3. Save all bilingual dictionaries from Apertium Github.
 
 **list_files**
+
+```
+list_files(path='./dictionaries/', dialects = False)
+
+path : directory in which we search for bilingual dictionaries (default - 'dictinaries' folder that is used for downloading)
+
+dialects : whether split files by dialect or not
+```
 
 Creates file list that contains all file names of dictionaries that need to be considered for preprocessing (some can be excluded to avoid unnecessary preprocessing that is quite slow).
 
@@ -144,19 +184,38 @@ Option 4: user dictionaries + dialects - list of files and splitted files in 'di
 
 **split_dialects**
 
+```
+split_dialects()
+```
+
 Checks all files in folder or path (if path) and splits them on different dictionaries for each dialect combination (e.g. nor-nno-nob)
 
 ## Preprocessing
 
 **all_languages**
 
+```
+all_languages()
+```
+
 Set of all languages in bilingual dictionaries. This set is used for monolingual dictionaries.
 
 **one_language_dict**
 
+```
+one_language_dict(lang)
+
+lang : language name 
+```
+
 It gathers all words in all bilingual dictionaries that contain this particular language.
 
 **shorten**
+```
+shorten(word_dict)
+
+word_dict : WordDict object
+```
 
 One of the most important functions. It combines different tags for words into one object if they don't contradict. Priority to most frequent ones.
 
@@ -164,17 +223,42 @@ If we have 5 dictionaries with 'стол' as n-m and 1 with n-m-sg than tag sequ
 
 **one_word**
 
+```
+one_word(word, lang)
+
+word: one word from .dix file (left or right side)
+lang: language name
+```
+
 Parsing one word ('l' or 'r' in bilingual dictionary). Convert it into Word object.
 
 **parse_one**
+
+```
+parse_one (tree, side, lang)
+
+tree : etree.ElementTree object from .dix file
+side : which side is the language we parse
+lang : language name
+```
 
 Yields all words (Word objects) from one bilingual dictionary.
 
 **dictionary_to_nodes**
 
+```
+dictionary_to_nodes(dictionary)
+
+dictionary : FilteredDict object containing all words from this language
+```
+
 Process all word in dictinary (shorten tags and yield all variants)
 
 **monodix**
+
+```
+monodix()
+```
 
 Creates artificially created monolingual dictionaries with words that have all tag variants and ready to be used in bilingual dictionary parsing.
 
@@ -182,41 +266,90 @@ For each language in list of languages this function creates a dictionary.
 
 **check**
 
+```
+check (word1, word2, l1, l2)
+
+word1, word2 : Word objects
+l1, l2 : DiGetItem objects (dictinaries)
+```
+
 This function gets word with tags from real bilingual dictionary and creates an object (with multiple tags) that matches this word (node for graph)
 
 **one_word2**
+
+```
+one_word2(word, lang)
+
+word : etree of one word
+lang : language name
+```
 
 Parsing words (modification of one_word)
 
 **parse_bidix**
 
+```
+parse_bidix (tree, lang1, lang2)
+
+tree : etree.ElementTree object from .dix file
+lang1, lang2 : language names
+```
+
 Bilingual dictionary parsing. Creates a file that contains all word pairs from original dictionary but in proper form for a future graph.
 
 **existance**
+
+```
+existance(pair, nodes)
+
+pair : two language names
+nodes : set of languages we want to use in graph
+```
+
 
 Checks language nodes in language graph (nodes - languages, edges - existing bilingual dictionaries)
 
 **bidix**
 
+```
+bidix()
+```
+
 Parsing bilingual dictionaries from file list. Creates all preprocessed copies of these dictionaries.
 
 1. Creates 'parsed' folder for these dictionaries.
 2. Creates 'stats' file that will contain information about the size of all bilingual dictionaries (this will be used to define valuable dictionaries and languages for a graph).
-3. Converts original dictinary into parsed copy.
+3. Converts original dictionary into parsed copy.
 4. Counts both, RL and LR words.
 
 
 **preprocessing**
 
+```
+preprocessing()
+```
+
 Combination of previous functions: all_languages, monodix and bidix.
 
 **import mono**
+
+```
+import_mono(lang)
+
+lang: language name
+```
 
 Reads artificial monodix and creates a dictionary with all word in this language.
 
 ## Building graph
 
 **get_relevant_languages**
+
+```
+get_relevant_languages(lang1, lang2)
+
+lang1, lang2 : language names, pair of languages in bidix we want to enrich
+```
 
 Recommendations for choosing best languages to include in graph.
 
@@ -249,33 +382,83 @@ Example: eng-spa
 
 **load_file**
 
-It takes top-N languages from configuration file and merges bilingual dictionaries (preprocessed) with both languages in this short list.
+```
+load_file(lang1, lang2, n=10)
+
+lang1, lang2 : languge names
+n : number of languages we want to use in graph
+```
+
+It takes top-N languages from configuration file and merges bilingual dictionaries (preprocessed) with both languages in this short list (configuration file).
 
 **parse_line**
+
+```
+parse_line(line)
+
+line : line in a loading file (translation, pair of words)
+```
 
 It parses line in loading file (with edges) and returns side (LR, RL, both) and two Word objects.
 
 **built_from_file**
 
+```
+built_from_file(file)
+
+file : filename of loading file
+```
+
 This function returns a graph based on loading file (this graph will be used in further ditionary enrichment)
 
 **dictionaries**
 
+```
+dictionaries(lang1, lang2)
+
+lang1, lang2 : language names
+```
 Returns two dictionaries (from pair we want to enrich) as SetWithFilter. So we can go through all words and create suggestions about possible translations.
 
 **check_graph**
 
-Probably for ipynb. Shows graph of languages that will be included in graph (languages and bilingual dictionaries).
+```
+check_graph(lang1, lang2, n=10)
+
+lang1, lang2 : language names
+n : number of languages we eant to use in graph
+```
+
+Probably only for ipynb. Shows graph of languages that will be included in graph (languages and bilingual dictionaries).
 
 ## Search
 
 **metric**
+
+```
+metric(G, word, translation, cutoff, mode='exp')
+
+G : graph object
+word : source word
+translation : word translation (target)
+cutoff : cutoff in graph (how many steps we check)
+mode : mode (there were more options, but now only exponential)
+```
 
 Evaluates translation (word+translation).
 
 coefficient = sum(exp^(-i)), i - length of path from all simple paths between word and translation with set cutoff.
 
 **_single_shortest_path_length**
+
+```
+_single_shortest_path_length(adj, firstlevel, cutoff, lang)
+
+adj : special NetworkX type of graph representation
+firstlevel : starting nodes
+cutoff : cutoff
+lang : target language
+```
 
 Variant of NetworkX function _single_shortest_path_length
 
@@ -285,9 +468,28 @@ Cutoff: n steps from source node + stops when target language node occur or ther
 
 **possible_translations**
 
+```
+possible_translations(G, source, lang, cutoff=4)
+
+G : graph object
+source : source node (word)
+lang : target language
+cutoff : cutoff
+```
+
 Wrapper for previous _single_shortest_path_length function.
 
 **evaluate**
+
+```
+evaluate(G, word, candidates, cutoff=4, topn=None)
+
+G : graph object
+word : word we want to translate
+candidates : possible translations
+cutoff : cutoff
+topn : how many best candidates we want to get (None for 'auto' mode, int for certain number)
+```
 
 Evaluates candidates from possible translations.
 
@@ -306,9 +508,29 @@ If there are less than 10 candidates, adds coefficients with minimal coefficient
 
 **node_search**
 
+```
+node_search(G, node, lang2, cutoff=4, topn=None)
+
+G : graph object
+node : Word object (node in graph)
+lang2 : target language
+cutoff : cutoff
+topn : mode for top-N candidates (None for 'auto' mode, int for certain number)
+```
+
 Returns translations (without coefficients) for a particular node using possible_translations and evaluate functions.
 
 **two_node_search**
+
+```
+two_node_search (G, node1, node2, lang1, lang2, cutoff=4, topn=None)
+
+G : graph object
+node1, node2 : pair of translations
+lang1, lang2 : language names
+cutoff : cutoff
+topn : mode for top-N candidates (None for 'auto' mode, int for certain number)
+```
 
 Evaluation of pair of real translations.
 
@@ -323,6 +545,16 @@ The same for RL side.
 (0,1): there is some truth but not perfect translation
 
 **_one_iter**
+
+```
+_one_iter(lang1, lang2, G, l1, cutoff=4, topn=None)
+
+lang1, lang2 : languge names
+G : graph object
+l1 : source language dictionary
+cutoff : cutoff
+topn : mode for top-N candidates (None for 'auto' mode, int for certain number)
+```
 
 One iteration of evaluation.
 
@@ -341,15 +573,41 @@ f1 = 2 * precision * recall / (precision + recall)
 
 **eval_loop**
 
+```
+eval_loop(lang1, lang2, n=10, topn=None, n_iter=3, cutoff=4)
+
+lang1, lang2 : languge names
+n : number of best languages to use in graph
+topn : mode for top-N candidates (None for 'auto' mode, int for certain number)
+n_iter : how many iterations of evaluation
+cutoff : cutoff
+```
+
 Calculates precision, recall and f1 for language pair.
 
 
 **addition**
 
+```
+addition(lang1, lang2, n=10, cutoff=4)
+
+lang1, lang2 : languge names
+n : number of best languages to use in graph
+cutoff : cutoff
+```
+
 How many entries we can add LR and RL side (both only after merging - in a real file)
 
 
 **get_translations**
+
+```
+get_translations(lang1, lang2, cutoff=4, topn=None)
+
+lang1, lang2 : language names 
+cutoff : cutoff
+topn : mode for top-N candidates (None for 'auto' mode, int for certain number)
+```
 
 1. Loading dictionaries
 2. Building graph
@@ -358,12 +616,31 @@ How many entries we can add LR and RL side (both only after merging - in a real 
 
 **parse_preview_line**
 
+```
+parse_preview_line(line, lang1, lang2)
+
+line : line from preview file (pair of translations)
+lang1, lang2 : language names
+```
+
 Subfunction to the one below. It parses a line in a preview file and returns side + 2 Word objects
 
 **convert_to_dix**
 
+```
+convert_to_dix(lang1, lang2)
+
+lang1, lang2 : language names
+```
+
 Converting preview file into section for usual .dix file.
 
 **merge**
+
+```
+merge(lang1, lang2)
+
+lang1, lang2 : languge names
+```
 
 Merging files with different dialects. All languages or dialects are written in vr and vl tags.
