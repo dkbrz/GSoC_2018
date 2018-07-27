@@ -13,6 +13,8 @@ import random
 #import numpy as np, scipy.stats as st
 from .data import lang_codes, rename, remove
 from tqdm import tqdm
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
+requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 # CLASSES
 
@@ -275,7 +277,7 @@ def download():
     3. Save all bilingual dictionaries from Apertium Github.
     """
     from tool.secure import SECRET
-    github = Github(SECRET['USER'], SECRET['PASSWORD'])  #import username and password
+    github = Github(SECRET['USER'], SECRET['PASSWORD'], verify=False)  #import username and password
     user = github.get_user('apertium')
     
     logging.info('Started downloading')
