@@ -78,6 +78,20 @@ parser_merge.add_argument('--lang1', type=str, action='store', nargs='+')
 parser_merge.add_argument('--lang2', type=str, action='store', nargs='+')
 parser_merge.set_defaults(func=merge)
 
+#example
+parser_example = subparsers.add_parser('example')
+parser_example.add_argument('lang1', type=str, action='store')
+parser_example.add_argument('lang2', type=str, action='store')
+parser_example.add_argument('--n', type=int, action='store', nargs='?', default=10)
+parser_example.add_argument('--cutoff', type=int, action='store', nargs='?', default=4)
+parser_example.add_argument('--topn', type=int, action='store', nargs='?', default=None)
+parser_example.add_argument('--words', type=str, action='store', nargs='+', default=[])
+parser_example.add_argument('--lang', type=str, action='store', nargs='?', default='')
+parser_example.add_argument('--config', action='store_true', default=False)
+parser_example.add_argument('--load', action='store_true', default=False)
+parser_example.add_argument('--file', action='store_true', default=False)
+parser_example.set_defaults(func=example)
+
 args = parser.parse_args()
 arg_spec = inspect.getargspec(args.func)
 if arg_spec.keywords:

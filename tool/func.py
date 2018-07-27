@@ -7,10 +7,10 @@ import xml.etree.ElementTree as ET
 from github import Github
 logging.basicConfig(format='%(asctime)s | %(levelname)s : %(message)s', level=logging.INFO, stream=sys.stdout)
 from itertools import islice
-import matplotlib.pyplot as plt
-from heapdict import heapdict
+#import matplotlib.pyplot as plt
+#from heapdict import heapdict
 import random
-import numpy as np, scipy.stats as st
+#import numpy as np, scipy.stats as st
 from .data import lang_codes, rename, remove
 from tqdm import tqdm
 
@@ -966,14 +966,14 @@ def evaluate(G, word, candidates, cutoff=4, topn=None):
         result = [x for x in result if x[1] > mean]
         return result
 
-#def lemma_search (G, lemma, d_l1, l2, cutoff=4, topn=None):
-#    lemmas = [i for i in d_l1.lemma(lemma) if i in G.nodes()]
-#    results = {word:{} for word in lemmas}
-#    for word in lemmas:
-#        candidates = possible_translations(G, word, l2, cutoff=cutoff)
-#        results[word] = evaluate(G, word, candidates, cutoff=cutoff, topn=topn)
-#        del candidates
-#    return results
+def lemma_search (G, lemma, d_l1, lang2, cutoff=4, topn=None):
+    lemmas = [i for i in d_l1.lemma(lemma) if i in G.nodes()]
+    results = {word:{} for word in lemmas}
+    for word in lemmas:
+        candidates = possible_translations(G, word, lang2, cutoff=cutoff)
+        results[word] = evaluate(G, word, candidates, cutoff=cutoff, topn=topn)
+        del candidates
+    return results
 
 #def print_results(results, n=7):
 #    for i in results:
@@ -981,12 +981,12 @@ def evaluate(G, word, candidates, cutoff=4, topn=None):
 #        for j in sorted(results[i], key=results[i].get, reverse=True)[:n]:
 #            print (j, results[i][j])
 
-#def print_lemma_results(results, n=10):
-#    for i in results:
-#        print ('\t\t', i)
-#        for j in results[i]:
-#            print ('{}\t{}'.format(j[0], j[1]))
-#        print()
+def print_lemma_results(results):
+    for i in results:
+        print ('\t\t', i)
+        for j in results[i]:
+            print ('{}\t{}'.format(j[0], j[1]))
+        print()
 
 # EVALUATION
 
@@ -1091,7 +1091,7 @@ def _one_iter(lang1, lang2, G, l1, cutoff=4, topn=None):
     result = []
     for i in tqdm(pairs): 
         result.append(two_node_search (G, i[0], i[1], lang1, lang2, cutoff=cutoff, topn=topn))
-    print ('N=',len(pairs2), end='\t')
+    print ('N='+str(len(pairs2)))
     try:
         precision = sum(1 for i in result if i == 1) / sum(1 for i in result if i > 0)
         recall = sum(1 for i in result if i == 1) / sum(1 for i in result)
@@ -1117,13 +1117,13 @@ def eval_loop(lang1, lang2, n=10, topn=None, n_iter=3, cutoff=4):
     get_relevant_languages(lang1, lang2)
     load_file(lang1, lang2, n=n)
     l1, l2 = dictionaries(lang1, lang2)
-    k = len(l1)
-    if k > 10000: k =10000
-    elif k < 1000: return 'less than 1000'
-    else: k = len(l1)
+    #k = len(l1)
+    #if k > 10000: k =10000
+    #elif k < 1000: return 'less than 1000'
+    #else: k = len(l1)
     for _ in range(n_iter):
         G = built_from_file('{}-{}'.format(lang1,lang2))
-        _one_iter(lang1, lang2, G, k, l1, cutoff=cutoff, topn=topn)
+        _one_iter(lang1, lang2, G, l1, cutoff=cutoff, topn=topn)
 
 def addition(lang1, lang2, n=10, cutoff=4):
     """
@@ -1282,3 +1282,30 @@ def merge(lang1, lang2):
                     if len(j.split('_')) > 1: j = '_'.join(j.split('_')[1:])    
                     text = text.replace('<e', '<e vl=\'{}\' vr=\'{}\' '.format(i, j))
                     result.write(text + '\n\n')
+
+## EXAMPLES
+
+def example (lang1, lang2, n=10, cutoff=4, topn=None, words=[], lang = '', config=False, load=False, file=False):
+    """
+    
+    
+    """
+    if config:
+        get_relevant_languages(lang1, lang2)
+        logging.info('languages')
+    if load: 
+        load_file(lang1, lang2, n=n)
+        logging.info('loading file')
+    G = built_from_file('{}-{}'.format(lang1,lang2))
+    logging.info('loaded graph')
+    l1, l2 = dictionaries(lang1, lang2)
+    if lang == lang1:
+        for word in words:
+            #print (l1.lemma(word))
+            print_lemma_results(lemma_search (G, word, l1, lang2, cutoff=cutoff, topn=topn))
+            print('-------------------------')
+    elif lang == lang2:
+        for word in words:
+            #print (l2.lemma(word))
+            print_lemma_results(lemma_search (G, word, l2, lang1, cutoff=cutoff, topn=topn))
+            print('-------------------------')
