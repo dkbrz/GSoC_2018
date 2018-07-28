@@ -13,8 +13,7 @@ import random
 #import numpy as np, scipy.stats as st
 from .data import lang_codes, rename, remove
 from tqdm import tqdm
-from requests.packages.urllib3.exceptions import InsecureRequestWarning
-requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
+requests.packages.urllib3.disable_warnings(requests.packages.urllib3.exceptions.InsecureRequestWarning)
 
 # CLASSES
 
@@ -236,55 +235,27 @@ def l(lang):
     if lang in lang_codes: return lang_codes[lang]
     else: return lang
 
-def repo_names(user):
-    """
-    Takes repositories from Apertium Github that match language pair
-    name pattern.
-    
-    :param user: user object from Github library
-    
-    :yield: repository name
-    :ytype: str
-    """
-    for repo in user.get_repos():
-        if re.match('apertium-[a-z]{2,3}(_[a-zA-Z]{2,3})?-[a-z]{2,3}(_[a-zA-Z]{2,3})?', repo.name):
-            yield repo.name
-
-def bidix_url(repo):
-    """
-    Finds raw url for bidix. Sorting in order to find bidix faster as
-    it is one of the longest filename in repository.
-    
-    In list of files sorted by length it checks whether filename
-    matches bilingual dictionary name pattern until one is found or
-    there are no more elements in file list.
-    
-    :param repo: repository object from Github library
-    
-    :return: bidix raw url for downloading
-    :rtype: str
-    """
-    for i in sorted(repo.get_dir_contents('/'), key = lambda x: (len(x.path), 1000-ord(('   '+x.path)[-3])), reverse=True):
-        if re.match('apertium-.*?\.[a-z]{2,3}(_[a-zA-Z]{2,3})?-[a-z]{2,3}(_[a-zA-Z]{2,3})?.dix$', i.path): return i.download_url
-        elif len(i.path) < 23: return None
+def update(user, password):
+    github = Github('dkbrz', 'mandarinka24', verify=False)
+    user = github.get_user('apertium')
+    repos = list(user.get_repos())
+    with open('download.txt', 'w', encoding='utf-8') as f:
+        for repo in tqdm(repos):
+            try:
+                content = repo.get_dir_contents('/')
+                for i in sorted(content, key = lambda x: (len(x.path), 1000-ord(('   '+x.path)[-3])), reverse=True):
+                    if re.match('apertium-.*?\.[a-z]{2,3}(_[a-zA-Z]{2,3})?-[a-z]{2,3}(_[a-zA-Z]{2,3})?.dix$', i.path): 
+                        f.write(i.download_url+'\n')
+                        break
+                    elif len(i.path) < 23: bidix = None
+            except: pass
+#                print (repo)
 
 def download():
-    """
-    This function combines previous functions.
-    
-    1. Load username and password from secure file.
-    2. Create a folder for dictionaries.
-    3. Save all bilingual dictionaries from Apertium Github.
-    """
-    from tool.secure import SECRET
-    github = Github(SECRET['USER'], SECRET['PASSWORD'], verify=False)  #import username and password
-    user = github.get_user('apertium')
-    
-    logging.info('Started downloading')
     if not os.path.exists('./dictionaries/'): os.makedirs('./dictionaries/')
-    for repo_name in repo_names(user):
-        bidix = bidix_url(github.get_repo(user.name+'/'+repo_name))
-        if bidix:
+    with open('download.txt', 'r', encoding='utf-8') as f:
+        for line in tqdm(f.readlines()):
+            bidix = line.strip()
             try:
                 filename = './dictionaries/'+bidix.split('/')[-1]
                 response = requests.get(bidix)
@@ -292,18 +263,6 @@ def download():
                 with open(filename, 'w', encoding='UTF-8') as f: f.write(response.text)
             except:
                 pass
-    logging.info('Finished downloading')  
-
-def set_github_user(user, password):
-    """
-    Saves username and password so Github Python library can work (to
-    download all bilingual dictionaries)
-    
-    :param user (str): Github username
-    :param password (str): Github password
-    """
-    with open ('./tool/secure.py', 'w', encoding='utf-8') as f:
-        f.write('SECRET = {"USER": "'+user+'", "PASSWORD": "'+password+'"}')
 
 def list_files(path='./dictionaries/', dialects = False):
     """

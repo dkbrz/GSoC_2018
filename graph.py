@@ -8,10 +8,10 @@ parser = argparse.ArgumentParser(prog='graph')
 subparsers = parser.add_subparsers()
 
 # set github user for downloading
-parser_github = subparsers.add_parser('github')
+parser_github = subparsers.add_parser('update')
 parser_github.add_argument('user', type=str, action='store')
 parser_github.add_argument('password', type=str, action='store')
-parser_github.set_defaults(func=set_github_user)
+parser_github.set_defaults(func=update)
 
 # download
 parser_download = subparsers.add_parser('download')
