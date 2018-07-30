@@ -936,19 +936,6 @@ def lemma_search (G, lemma, d_l1, lang2, cutoff=4, topn=None):
         del candidates
     return results
 
-#def print_results(results, n=7):
-#    for i in results:
-#        print ('\n\t\t', i)
-#        for j in sorted(results[i], key=results[i].get, reverse=True)[:n]:
-#            print (j, results[i][j])
-
-def print_lemma_results(results):
-    for i in results:
-        print ('\t\t', i)
-        for j in results[i]:
-            print ('{}\t{}'.format(j[0], j[1]))
-        print()
-
 # EVALUATION
 
 def node_search(G, node, lang2, cutoff=4, topn=None):
@@ -1073,6 +1060,7 @@ def eval_loop(lang1, lang2, n=10, topn=None, n_iter=3, cutoff=4):
     :param n_iter (int): how many iterations of evaluation
     :param cutoff (int): cutoff
     """
+    logging.info('Start ~ 20 s')
     n, cutoff, n_iter = int(n), int(cutoff), int(n_iter)
     if topn: topn = int(topn)
     get_relevant_languages(lang1, lang2)
@@ -1082,9 +1070,19 @@ def eval_loop(lang1, lang2, n=10, topn=None, n_iter=3, cutoff=4):
     #if k > 10000: k =10000
     #elif k < 1000: return 'less than 1000'
     #else: k = len(l1)
-    for _ in range(n_iter):
+    for i in range(n_iter):
+        logging.info('Initialization '+str(i+1)+' ~ 1 min')
         G = built_from_file('{}-{}'.format(lang1,lang2))
         _one_iter(lang1, lang2, G, l1, cutoff=cutoff, topn=topn)
+
+#def change_encoding(file):
+#    "Change utf-16 that works with accents inside program to utf-8 to reduce file size (doesn't cause problems in this case)"
+#    with open(file, 'r', encoding='utf-16') as f:
+#        text = f.read()
+#    text = text.encode('utf-8')
+#    text = text.decode('utf-8')
+#    with open(file, 'w', encoding='utf-8') as f:
+#        f.write(text)
 
 def addition(lang1, lang2, n=10, cutoff=4):
     """
@@ -1096,13 +1094,14 @@ def addition(lang1, lang2, n=10, cutoff=4):
     :param n_iter (int): how many iterations of evaluation
     :param cutoff (int): cutoff
     """
+    logging.info('Initialization ~ 1 min')
     get_relevant_languages(lang1, lang2)
     load_file(lang1, lang2, n=n)
-    change_encoding('{}-{}'.format(lang1,lang2))
+    #change_encoding('{}-{}'.format(lang1,lang2))
     G = built_from_file('{}-{}'.format(lang1,lang2))
     l1, l2 = dictionaries(lang1, lang2)
     k1, k2 = [0,0,0,0], [0,0,0,0] #existant, failed, new, errors
-    for node in l1:
+    for node in tqdm(l1):
         if node in G:
             s = FilteredList(list(G.neighbors(node))).lang(lang2)
             if not len(s):
@@ -1115,11 +1114,11 @@ def addition(lang1, lang2, n=10, cutoff=4):
     else: c = 0
     print ('{}->{}    Exist: {}, failed: {}, NEW: {} +{}%, NA: {}'.format(lang1, lang2, k1[0], k1[1], k1[2], round(c, 0), k1[3]))
     
-    for node in l2:
+    for node in tqdm(l2):
         if node in G:
             s = FilteredList(list(G.neighbors(node))).lang(lang1)
             if not len(s):
-                candidates = possible_translations(G, node, lang1, cutoff=cutoff, n=20)
+                candidates = possible_translations(G, node, lang1, cutoff=cutoff)
                 if candidates: k2[2] += 1
                 else: k2[1] += 1
             else:
@@ -1152,6 +1151,7 @@ def get_translations(lang1, lang2, cutoff=4, topn=None):
     :param n_iter (int): how many iterations of evaluation
     :param cutoff (int): cutoff
     """
+    logging.info('Initialization (~1 min)')
     G = built_from_file('{}-{}'.format(lang1,lang2))
     l1, l2 = dictionaries(lang1, lang2)
     RESULT = {}
@@ -1245,12 +1245,23 @@ def merge(lang1, lang2):
                     result.write(text + '\n\n')
 
 ## EXAMPLES
+def print_lemma_results(results, file):
+    for i in results:
+        print ('\t\t', i, file=file)
+        for j in results[i]:
+            print ('{}\t{}'.format(j[0], j[1]), file=file)
+        print('', file=file)
 
-def example (lang1, lang2, n=10, cutoff=4, topn=None, words=[], lang = '', config=False, load=False, file=False):
+def example (lang1, lang2, n=10, cutoff=4, topn=None, input='', lang = '', config=False, load=False, output=''):
     """
     
     
     """
+    logging.info('Initialization ~1 min')
+    if output: file = open(output, 'w', encoding='utf-8')
+    else: output = sys.stdout
+    with open (input, 'r', encoding='utf-8') as f:
+        words = f.read().split()
     if config:
         get_relevant_languages(lang1, lang2)
         logging.info('languages')
@@ -1258,15 +1269,15 @@ def example (lang1, lang2, n=10, cutoff=4, topn=None, words=[], lang = '', confi
         load_file(lang1, lang2, n=n)
         logging.info('loading file')
     G = built_from_file('{}-{}'.format(lang1,lang2))
-    logging.info('loaded graph')
     l1, l2 = dictionaries(lang1, lang2)
+    logging.info('Translating')
     if lang == lang1:
-        for word in words:
-            #print (l1.lemma(word))
-            print_lemma_results(lemma_search (G, word, l1, lang2, cutoff=cutoff, topn=topn))
-            print('-------------------------')
+        for word in tqdm(words):
+            print('Lemma: '+word, file=file)
+            print_lemma_results(lemma_search (G, word, l1, lang2, cutoff=cutoff, topn=topn), file=file)
+            print('---------------------------------------------', file=file)
     elif lang == lang2:
-        for word in words:
-            #print (l2.lemma(word))
-            print_lemma_results(lemma_search (G, word, l2, lang1, cutoff=cutoff, topn=topn))
-            print('-------------------------')
+        for word in tqdm(words):
+            print('Lemma: '+word, file=file)
+            print_lemma_results(lemma_search (G, word, l2, lang1, cutoff=cutoff, topn=topn), file=file)
+            print('---------------------------------------------', file=file)
