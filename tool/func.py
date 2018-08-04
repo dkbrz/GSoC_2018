@@ -210,16 +210,12 @@ class DiGetItem:
         if key in self.dict: return self.dict[key]
         else:
             if key2 in self.dict: return self.dict[key2]
-            #try:
-            if True:
+            try:
                 i = bisect(self.list, key, key=str)
                 if self.list[i]==key: return self.list[i]
                 elif self.list[i+1]==key: return self.list[i+1]
                 elif self.list[i-1]==key: return self.list[i-1]
-                #key = self.list[self.list.index(key)]
-                #return key
-            #except:
-            #    pass
+            except: pass
     def __len__(self):
         return len(self.list)+len(self.dict)
 
