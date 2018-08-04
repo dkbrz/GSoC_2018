@@ -15,6 +15,16 @@ from .data import lang_codes, rename, remove
 from tqdm import tqdm
 requests.packages.urllib3.disable_warnings(requests.packages.urllib3.exceptions.InsecureRequestWarning)
 
+def bisect(a, x, key=lambda x: x):
+    lo = 0
+    hi = len(a)
+    x_key = key(x) 
+    while lo < hi:
+        mid = (lo+hi)//2
+        if x_key < key(a[mid]): hi = mid
+        else: lo = mid+1
+    return lo
+
 # CLASSES
 
 class Word:
@@ -200,11 +210,16 @@ class DiGetItem:
         if key in self.dict: return self.dict[key]
         else:
             if key2 in self.dict: return self.dict[key2]
-            try:
-                key = self.list[self.list.index(key)]
-                return key
-            except:
-                pass
+            #try:
+            if True:
+                i = bisect(self.list, key, key=str)
+                if self.list[i]==key: return self.list[i]
+                elif self.list[i+1]==key: return self.list[i+1]
+                elif self.list[i-1]==key: return self.list[i-1]
+                #key = self.list[self.list.index(key)]
+                #return key
+            #except:
+            #    pass
     def __len__(self):
         return len(self.list)+len(self.dict)
 
@@ -674,6 +689,7 @@ def import_mono(lang):
             string = line.strip('\n').split('\t')
             s = [Tags([j for j in i.split('-') if j !='']) for i in string[1].strip().split('$')]
             dictionary.add(Word(string[0], lang, s))
+    dictionary.list.sort(key=str)
     return dictionary
 
 # BUILDING
